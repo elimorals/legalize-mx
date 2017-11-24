@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2017-07-18"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -823,6 +823,10 @@ El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios está
 
 Contará con plena autonomía en el dictado de sus resoluciones, las cuales serán definitivas e inatacables.
 
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Integración del tribunal
+
 ###### Artículo 77.
 
 El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, estará integrado por un Magistrado al que se le denominará Presidente, y para el cumplimiento de sus atribuciones contará con el personal jurídico y administrativo que al efecto determine la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán.
@@ -879,6 +883,10 @@ El Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, cont
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
 
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Competencia del tribunal
+
 ###### Artículo 82.
 
 Los juzgados de primera instancia serán competentes para conocer en materia civil, familiar, mercantil, penal o de justicia para adolescentes, en términos de la legislación aplicable. Podrá haber juzgados de primera instancia que conozcan de más de una materia. Tendrán la facultad de aplicar normas generales y leyes en materia civil, familiar, mercantil, de justicia para adolescentes, penal y en los asuntos de carácter federal, cuando expresamente las leyes, convenios y acuerdos que resulten aplicables, le confieran jurisdicción.
@@ -893,7 +901,13 @@ En el sistema de justicia penal acusatorio y oral, la jurisdicción de primera i
 
 En el sistema de justicia penal acusatorio y oral, los Tribunales de Juicio Oral en materia penal se conformarán por tres jueces, conocerán de los juicios orales de índole criminal y no podrán ejercer simultáneamente, la función de jueces de control. A los jueces del tribunal de juicio oral corresponderá conocer de la etapa de juicio oral, en términos de ley, sin perjuicio de otras atribuciones que les confiera la legislación aplicable.
 
-En la materia de justicia para adolecentes existirán Jueces de Control y Jueces de Tribunal de Juicio oral especializados, los que tendrán las facultades y obligaciones que se señalan en los dos párrafos que anteceden y en las demás disposiciones legales aplicables.
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Asimismo, en este sistema podrán conformarse, para la ágil atención de los procedimientos penales, centros de justicia penal, los cuales estarán integrados por los jueces y tribunales que determine el Consejo de la Judicatura, de conformidad con el presupuesto del Poder Judicial del Estado.
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+En materia de justicia para adolescentes, existirán, en términos de la legislación procesal penal, jueces de control y juecesde los tribunales de juicio oral especializados, quienes tendrán, en sus respectivos ámbitos de competencia, las facultades y obligaciones establecidas en los dos párrafos anteriores de este artículo, en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y en las demás disposiciones legales y normativas aplicables.
 
 Número de juzgados
 
@@ -959,7 +973,9 @@ VI.- No haber sido condenado por delito doloso, y
 
 VII.- Cumplir con los requisitos que señale el Reglamento de Carrera Judicial y demás leyes aplicables.
 
-Para ser juez especializado en materia de justicia para adolescentes, además de los requisitos a que refiere el párrafo precedente, deberá contar con experiencia profesional o capacitación especializada en dicha materia.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Para ser juez especializado en justicia para adolescentes, además de los requisitos a que se refiere este artículo, se deberán acreditar los conocimientos y las habilidades dispuestos en el artículo 64 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 En el sistema de justicia acusatorio y oral, para ser juez de primera instancia, se deberán acreditar además de los requisitos anteriores, contar con los conocimientos, habilidades y competencias que se requieran para el desempeño de su cargo, de conformidad con lo que establezcan las disposiciones reglamentarias.
 
@@ -991,11 +1007,23 @@ X.- Las demás facultades y obligaciones que determine esta Ley, los reglamentos
 
 En el sistema de justicia acusatorio y oral, los jueces en materia penal contarán con las atribuciones establecidas en las fracciones I, IV, y X, así como con las que le confieran las normas procesales correspondientes.
 
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Los jueces de primera instancia especializados en justicia para adolescentes tendrán las facultades y obligaciones dispuestas en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Disposiciones administrativas para el funcionamiento del juzgado
+
 ###### Artículo 90.
 
 Con excepción de los jueces adscritos al sistema penal acusatorio y oral, los jueces proveerán en la esfera administrativa, cuando así corresponda, todas las medidas necesarias para la buena marcha del juzgado a su cargo.
 
 Los jueces deberán entregar y recibir el juzgado, con la intervención de la contraloría y la visitaduría, en los términos que señalen los acuerdos generales que emita el Pleno del Consejo de la Judicatura bajo riguroso inventario.
+
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Personal de los juzgados
 
 ###### Artículo 91.
 
@@ -1008,6 +1036,10 @@ Secretarios de acuerdos de los juzgados de primera instancia
 ###### Artículo 92.
 
 Los secretarios de acuerdos de los juzgados de primera instancia tendrán fe pública en todo lo relativo al ejercicio de su cargo, de acuerdo con lo que dispongan las normas procesales correspondientes.
+
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Requisitos para ser secretario de acuerdos de primera instancia
 
 ###### Artículo 93.
 
@@ -1033,17 +1065,19 @@ VII.- Cumplir con los requisitos que establezca el Reglamento de Carrera Judicia
 
 Para ser juez de ejecución de sentencia en materia penal se deberá cumplir con los requisitos señalados en el artículo 88 de esta ley, contar con conocimientos en la materia y reunir los demás requisitos que establezca el Reglamento de Carrera Judicial.
 
-El juez de ejecución de sentencias en materia de justicia para adolescentes deberá contar adicionalmente con especialización en dicha materia.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+El juez de ejecución de sentencias en materia de justicia para adolescentes deberá acreditar los conocimientos y las habilidades dispuestos en el artículo 64 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 > <small>(REFORMADO ACÁPITE, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 Atribuciones adicionales de los jueces de ejecución de sentencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 95.
 
-Son facultades y obligaciones de los jueces de ejecución de sentencia en materia penal, además de las establecidas en el artículo 89 de esta ley, las siguientes:
+Son facultades y obligaciones de los jueces de ejecución de sentencia en materia penal, en sus respectivos ámbitos de competencia, además de las establecidas en el artículo 89 de esta ley, las referidas en el artículo 25 y en las demás disposiciones de la Ley Nacional de Ejecución Penal, y otras disposiciones legales y normativas aplicables.
 
 I.- Controlar el cumplimiento de las penas, medidas de seguridad impuestas, beneficios concedidos o que él conceda, así como el respeto de las finalidades constitucionales y legales del sistema penitenciario;
 
@@ -1059,9 +1093,9 @@ VI.- Establecer las condiciones en que se deban cumplir las penas y/o las medida
 
 VII.- Las demás que le confiera la legislación aplicable.
 
-> <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-Los jueces de ejecución de sentencia en materia de justicia para adolescentes contarán con las facultades y obligaciones establecidas en el artículo 89 de esta ley, y con las previstas en este artículo, en lo conducente.
+Los jueces de ejecución de sentencia en materia de justicia para adolescentes tendrán, en sus respectivos ámbitos de competencia, además de las establecidas en el artículo 89 de esta ley, las dispuestas en el artículo 179 y en otras disposiciones de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 Disposiciones aplicables para los jueces de ejecución de sentencia
 
@@ -1069,11 +1103,13 @@ Disposiciones aplicables para los jueces de ejecución de sentencia
 
 Las disposiciones previstas en esta Ley para los jueces del sistema acusatorio y oral serán aplicables para los jueces de ejecución de sentencia y lo relativo al número de juzgados, duración del cargo, remuneración y remoción establecido en relación a jueces de primera instancia.
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 Competencia y adscripción
 
 ###### Artículo 97.
 
-La competencia y adscripción de los jueces de ejecución de sentencia, se determinará en sus respectivos nombramientos.
+La competencia y adscripción de los jueces de ejecución de sentencia se determinará en sus respectivos nombramientos y deberá atender a lo dispuesto en el artículo 24 de la Ley Nacional de Ejecución Penal.
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO III], D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1093,11 +1129,19 @@ El Pleno del Consejo de la Judicatura nombrará jueces de paz en los municipios 
 
 En las localidades donde hubiere juez de primera instancia, no podrá haber juez de paz.
 
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Duración en el cargo
+
 > <small>(REFORMADO, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 99.
 
 Los jueces de paz durarán en su cargo tres años, pudiendo ser reelectos.
+
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Requisitos
 
 ###### Artículo 100.
 
@@ -1170,6 +1214,10 @@ En caso de faltas que excedan de un mes, el Pleno del Consejo de la Judicatura n
 ## TÍTULO SEXTO. DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO
 
 ### CAPÍTULO II. De los Jueces de Paz
+
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Nombramiento
 
 ###### Artículo 105.
 
@@ -1373,6 +1421,10 @@ XIV.- Llevar la firma y representación legal del Fondo Auxiliar para la Adminis
 
 XV.- Las demás que expresamente establezcan esta Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Facultades y obligaciones de los consejeros de la judicatura
+
 ###### Artículo 117.
 
 Son facultades y obligaciones de los Consejeros de la Judicatura:
@@ -1520,6 +1572,10 @@ XVI.- Administrar el Archivo General del Poder Judicial para el resguardo de los
 XVII.- Hacer efectivas las sanciones pecuniarias impuestas a los servidores públicos del Poder Judicial, por el órgano competente, por las violaciones o infracciones en que puedan incurrir y,
 
 XVIII.- Las demás que le confieran la normatividad aplicable y el Consejo de la Judicatura.
+
+> <small>(ADICIONADO SU EPÍGRAFE, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Titular de la Dirección de Administración y Finanzas
 
 ###### Artículo 127.
 
@@ -1823,9 +1879,9 @@ La visitaduría tendrá las siguientes atribuciones:
 
 I.- Vigilar la debida prestación del servicio de impartición de justicia conforme los acuerdos generales que emita el Pleno del Consejo y lo establecido en esta Ley;
 
-> <small>(REFORMADA, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-II.- Realizar visitas administrativas, ordinarias o extraordinarias al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, a los tribunales y juzgados de primera instancia y juzgados de paz;
+II.- Realizar visitas administrativas, ordinarias o extraordinarias, al Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, a los centros de justicia penal y a los tribunales y juzgados de primera instancia y juzgados de paz;
 
 III.- Revisar los libros, registros, controles, bitácoras y demás documentos relativos a la función jurisdiccional cuya vigilancia tenga encomendada, con el propósito de verificar que se encuentren en orden, actualizados y con todos los datos establecidos por la normativa aplicable;
 
@@ -2430,3 +2486,49 @@ Octavo. Presidencia del tribunal
 El presidente del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado de Yucatán que se encuentre en funciones a la entrada en vigor de este decreto, asumirá el cargo de presidente del Tribunal de Justicia Administrativa del Estado de Yucatán, para continuar durante el período para el que fue elegido.
 
 NOVENO.- Se deroga toda disposición de igual o menor rango en lo que se oponga a la presente ley.
+
+D.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 543/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN; EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN; LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN; LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN; LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN; LA LEY DE SALUD DEL ESTADO DE YUCATÁN; Y LA LEY DE PREVENCIÓN DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHÓLICAS Y TABACO DEL ESTADO, EN MATERIA DE ARMONIZACIÓN CON LA MISCELÁNEA PENAL; EJECUCIÓN PENAL Y JUSTICIA PARA ADOLESCENTES".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado, con excepción de los artículos séptimo y octavo, los cuales entrarán en vigor en los términos dispuestos por el artículo transitorio quinto de este mismo decreto.
+
+Segundo. Abrogación
+
+Se abrogan, la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Yucatán, publicada el 10 de junio de 2011 en el diario oficial del estado; y la Ley de Justicia para Adolescentes del Estado de Yucatán, publicada en el diario oficial del estado el 21 de octubre de 2011.
+
+Estas abrogaciones serán en los términos de las leyes federales correspondientes, es decir, la primera abrogación en términos del artículo transitorio tercero, párrafo primero, del Decreto por el que se expide la Ley Nacional de Ejecución Penal; se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del artículo 225 del Código Penal Federal; y la segunda abrogación en términos del artículo transitorio segundo, párrafo segundo, del Decreto por el que se expide la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+Tercero. Regulación de la autoridad administrativa
+
+El gobernador deberá regular al órgano especializado en la ejecución de medidas para adolescentes en un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social de adolescentes en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Modificaciones a las leyes de salud y de prevención de adicciones
+
+Las modificaciones efectuadas a la Ley de Salud del Estado de Yucatán y a la Ley de Prevención de las Adicciones y el Consumo Abusivo de Bebidas Alcohólicas y Tabaco del Estado, a través de los artículos séptimo y octavo de este decreto, respectivamente, entrarán en vigor el 16 de junio de 2018.
+
+Sexto. Regulación de la autoridad penitenciaria
+
+El gobernador deberá regular a la autoridad penitenciaria en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Séptimo. Regulación de la autoridad encargada de la supervisión
+
+El gobernador deberá regular a la autoridad encargada de la supervisión de la libertad condicionada en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Octavo. Regulación de la policía procesal
+
+El gobernador deberá regular a la policía procesal en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Décimo. Previsiones presupuestales
+
+El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
