@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2017-10-06"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE NOVIEMBRE DE 2017.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -841,9 +841,17 @@ j) Original o copia certificada del documento expedido por el sector salud que a
 
 k) Copia certificada de la cartilla liberada del Servicio Militar Nacional, en su caso;
 
-l) Formato original de la Hoja de Registro de Datos del Servidor Público de Nuevo Ingreso, debidamente llenada y firmada por el interesado; y
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
 
-m) Constancia emitida por la Secretaría de la Función Pública, de no encontrarse inhabilitado para desempeñar cargo público, con una antigüedad no mayor a treinta días naturales contados a partir de su fecha de expedición.
+l) Formato original de la Hoja de Registro de Datos del Servidor Público de Nuevo Ingreso, debidamente llenada y firmada por el interesado;
+
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
+
+m) Constancia emitida por la Secretaría de la Función Pública, de no encontrarse inhabilitado para desempeñar cargo público, con una antigüedad no mayor a treinta días naturales contados a partir de su fecha de expedición; y
+
+> <small>(ADICIONADO, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
+
+n) Cédula de Identificación Fiscal o Constancia de Registro Fiscal, expedida por el Servicio de Administración Tributaria.
 
 II. Documentación institucional:
 
@@ -12586,3 +12594,11 @@ PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su
 SEGUNDO. Publíquese en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet e Intranet del Consejo de la Judicatura Federal.
 
 TERCERO. Se derogan los Lineamientos de operación para el pago de horas extraordinarias en favor de los servidores públicos del Poder Judicial de la Federación, con excepción de los de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral y demás disposiciones que se opongan al presente Acuerdo.
+
+D.O.F. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO A LOS EXPEDIENTES DEL PERSONAL".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
