@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-prevencion-de-las-adicciones-y-el-consumo-abusivo-de-559
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-08"
-last_updated: "2016-12-28"
+last_updated: "2017-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PREVENCIÓN DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHÓLICAS Y TABACO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 8 de junio de 2007.
 
@@ -145,9 +145,23 @@ II.- El combate de las causas que generan las adicciones, mediante el conocimien
 
 III.- El desarrollo de un programa integral de fomento de valores sociales, culturales y cívicos, mediante una labor permanente de corte formativa e informativa;
 
-IV.- La promoción de la participación comunitaria y autogestiva, en la prevención de las causas y condiciones que inciden en el consumo de drogas, bebidas alcohólicas y tabaco, y
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-V.- El tratamiento y rehabilitación de los adictos, mediante el establecimiento de centros especializados, públicos y privados, conforme a las directrices de la Norma Oficial Mexicana.
+IV.- La promoción de la participación comunitaria y autogestiva en la prevención de las causas y condiciones que inciden en el consumo de drogas, bebidas alcohólicas y tabaco;
+
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+V.- El desempeño de las atribuciones u obligaciones que establezca la Ley Nacional de Ejecución Penal para el desarrollo de la justicia terapéutica;
+
+VI.- EI tratamiento y rehabilitación de los adictos, mediante el establecimiento de centros especializados, públicos y privados, conforme a las directrices de la Norma Oficial Mexicana;
+
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+VII.- El fortalecimiento de la infraestructura de establecimientos que prevengan, traten y rehabiliten el consumo de sustancias psicoactivas, y
+
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+VIII.- La promoción de la ampliación del tratamiento integral de personas con adicciones y su comorbilidad en instituciones del sector salud.
 
 ###### Artículo 9.
 
@@ -707,6 +721,12 @@ El Gobierno del Estado y los Gobiernos municipales, promoverán con la participa
 
 Los sectores social y privado, para prestar los servicios de tratamiento y rehabilitación, deberán tramitar la autorización y el registro ante la Secretaría de Salud; y en todo caso, ajustarse a las demás disposiciones normativas en la materia.
 
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 42 Bis.
+
+Los centros de tratamiento contribuirán al desarrollo de la justicia terapéutica; para ello, tendrán las obligaciones establecidas en el artículo 177 y en los demás artículos que correspondan de la Ley Nacional de Ejecución Penal y de otras disposiciones legales y normativas aplicables, para propiciar la rehabilitación y reintegración de las personas sentenciadas que padezcan alguna adicción. Los servicios respectivos se desarrollarán de conformidad con los principios, bases, ámbitos de intervención, modalidades, etapas y demás términos que establezcan dicha ley nacional y las demás disposiciones legales y normativas aplicables.
+
 ###### Artículo 43.
 
 Para la operación y funcionamiento de un establecimiento de tratamiento y rehabilitación, además de lo dispuesto en las Leyes de Salud, se deberá cumplir con lo siguiente:
@@ -757,17 +777,27 @@ II.- Proporcionar la información exacta y oportuna sobre los servicios de atenc
 
 III.- La confidencialidad en todo lo relacionado con su persona e identidad.
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 47.
 
-El tratamiento comprenderá los siguientes aspectos:
+El tratamiento comprenderá los siguientes servicios:
 
-I.- Orientación individual y familiar;
+I.- Orientación individual o familiar;
 
-II.- Psicoterapia individual, grupal y familiar;
+II.- Psicoterapia individual, grupal o familiar;
 
-III.- Tratamiento psicofarmacológico, y
+III.- Tratamiento psicofarmacológico, en caso de ser necesario de acuerdo al criterio del médico para el manejo de la intoxicación, de la abstinencia o de los trastornos psiquiátricos concomitantes.
 
-IV.- Rehabilitación médica y psicológica.
+IV.- Sesiones de grupo de familias;
+
+V.- Sesiones de grupos de ayuda mutua;
+
+VI.- Actividades psicoeducativas, culturales y deportivas;
+
+VII.- Terapia ocupacional y capacitación para el trabajo, y
+
+VIII.- Rehabilitación médica y psicológica.
 
 ###### Artículo 48.
 
@@ -1312,3 +1342,49 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 543/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN; EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN; LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN; LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN; LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN; LA LEY DE SALUD DEL ESTADO DE YUCATÁN; Y LA LEY DE PREVENCIÓN DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHÓLICAS Y TABACO DEL ESTADO, EN MATERIA DE ARMONIZACIÓN CON LA MISCELÁNEA PENAL; EJECUCIÓN PENAL Y JUSTICIA PARA ADOLESCENTES".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado, con excepción de los artículos séptimo y octavo, los cuales entrarán en vigor en los términos dispuestos por el artículo transitorio quinto de este mismo decreto.
+
+Segundo. Abrogación
+
+Se abrogan, la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Yucatán, publicada el 10 de junio de 2011 en el diario oficial del estado, y la Ley de Justicia para Adolescentes del Estado de Yucatán, publicada en el diario oficial del estado el 21 de octubre de 2011.
+
+Estas abrogaciones serán en los términos de las leyes federales correspondientes, es decir, la primera abrogación en términos del artículo transitorio tercero, párrafo primero, del Decreto por el que se expide la Ley Nacional de Ejecución Penal; se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del artículo 225 del Código Penal Federal; y la segunda abrogación en términos del artículo transitorio segundo, párrafo segundo, del Decreto por el que se expide la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+Tercero. Regulación de la autoridad administrativa
+
+El gobernador deberá regular al órgano especializado en la ejecución de medidas para adolescentes en un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social de adolescentes en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Modificaciones a las leyes de salud y de prevención de adicciones
+
+Las modificaciones efectuadas a la Ley de Salud del Estado de Yucatán y a la Ley de Prevención de las Adicciones y el Consumo Abusivo de Bebidas Alcohólicas y Tabaco del Estado, a través de los artículos séptimo y octavo de este decreto, respectivamente, entrarán en vigor el 16 de junio de 2018.
+
+Sexto. Regulación de la autoridad penitenciaria
+
+El gobernador deberá regular a la autoridad penitenciaria en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Séptimo. Regulación de la autoridad encargada de la supervisión
+
+El gobernador deberá regular a la autoridad encargada de la supervisión de la libertad condicionada en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Octavo. Regulación de la policía procesal
+
+El gobernador deberá regular a la policía procesal en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Décimo. Previsiones presupuestales
+
+El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
