@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-comision-estatal-de-seguridad-del-estado-101
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-06-10"
-last_updated: "2017-10-24"
+last_updated: "2017-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA COMISION ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2017.XXX
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE NOVIEMBRE DE 2017.]</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de junio de 2014.
 
@@ -1495,13 +1495,17 @@ La Dirección General del Centro de Comunicaciones, Cómputo, Control y Comando,
 
 Estarán bajo el mando directo e inmediato del Comisionado, los siguientes órganos desconcentrados:
 
-a) Unidad Desconcentrada de Ejecución de Penas y Reinserción Social
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+a) Unidad del Sistema Estatal penitenciario
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 b) Coordinación General de Fuerza Coahuila
 
-### CAPÍTULO I. DE LA UNIDAD DESCONCENTRADA DE EJECUCIÓN D E (SIC) PENAS Y REINSERCIÓN SOCIAL
+### CAPÍTULO I. F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)
+
+DE LA UNIDAD DEL SISTEMA ESTATAL PENITENCIARIO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2017)</small>
 
