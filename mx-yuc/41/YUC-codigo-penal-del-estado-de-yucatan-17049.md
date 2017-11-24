@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2017-07-18"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -75,17 +75,19 @@ Cuando una misma materia aparezca regulada por diversas disposiciones, la especi
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 3.
 
-Cuando entre la comisión de un delito y la extinción de la sanción o medida de seguridad entrare en vigor una nueva ley, cuyas disposiciones favorezcan al imputado o sentenciado, la autoridad que esté conociendo del asunto o ejecutando la sanción, aplicará de oficio la nueva ley.
+Cuando entre la comisión de un delito y la extinción de la sanción o medida de seguridad entrara en vigor una nueva ley, cuyas disposiciones favorezcan al imputado o sentenciado, el órgano jurisdiccional competente aplicará de oficio la nueva ley.
 
 > <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
 Cuando el sentenciado lo hubiese sido al término mínimo o al término máximo de la sanción prevista y la reforma disminuya dicho término, se aplicará la ley más favorable. Cuando el sujeto hubiese sido sentenciado a una sanción entre el término mínimo y el término máximo, ésta se reducirá proporcionalmente a la reducción establecida en la norma.
 
-En caso de cambiarse la naturaleza de la sanción, se substituirá en lo posible, la señalada en la ley anterior por la prevista en la nueva ley.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+En caso de cambiarse la naturaleza de la sanción, se sustituirá, en lo posible, la señalada en la ley anterior por la prevista en la nueva ley.
 
 ## TÍTULO TERCERO. DE LOS DELITOS Y LA RESPONSABILIDAD
 
@@ -129,9 +131,11 @@ Obra culposamente el que produce el resultado típico, que no previó siendo pre
 
 ### CAPÍTULO II. CLASIFICACIÓN DE LOS DELITOS
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 10.
 
-Delito instantáneo es aquél cuya consumación se agota en el mismo momento en que se han realizado sus elementos constitutivos.
+Delito instantáneo es aquel cuya consumación se agota en el mismo momento en que se han realizado los elementos de la descripción penal.
 
 ###### ARTÍCULO 11.
 
@@ -413,15 +417,13 @@ La sanción impuesta a la persona moral de acuerdo con este Código y demás ley
 
 ### CAPÍTULO II. PRISIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 29.
 
-La prisión consiste en la privación de la libertad personal, y su duración no será menor a tres meses ni mayor a cincuenta años, salvo los casos de excepción previstos en las disposiciones legales aplicables para la pena mínima. Su ejecución se llevará a cabo en los establecimientos o lugares donde disponga la autoridad judicial conforme a la legislación correspondiente o en los convenios celebrados con la Federación u otras entidades federativas.
+La prisión consiste en la pena privativa de la libertad personal. Su duración no será menor de tres meses ni mayor de cincuenta años, salvo los casos de excepción previstos en las disposiciones legales aplicables para la pena mínima. Se extinguirá en los centros penitenciarios, de conformidad con la legislación en la materia y ajustándose a la resolución judicial respectiva.
 
-En toda sanción de prisión que imponga una sentencia, se computará el tiempo de la detención.
-
-> <small>(DEROGADO TERCER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
+La medida cautelar de prisión preventiva se computará para el cumplimiento de la pena impuesta así como de las que pudieran imponerse por otras causas, aunque hayan tenido por objeto hechos anteriores al ingreso a prisión. En este caso, las penas se compurgarán en forma simultánea.
 
 > <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -667,13 +669,15 @@ Al imponer las consecuencias jurídicas accesorias previstas en este Capítulo, 
 
 ### CAPÍTULO X. DECOMISO Y APLICACIÓN DE INSTRUMENTOS, OBJETOS Y PRODUCTOS DEL DELITO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 60.
 
-Los instrumentos del delito, así como las cosas que sean objeto o producto de él, se decomisarán si son de uso prohibido. Si son de uso lícito, se decomisarán al imputado solamente cuando fuere sentenciado por delito doloso, con excepción de las armas que serán decomisadas aún tratándose de delitos culposos. Si pertenecen a un tercero sólo se decomisarán cuando el que los tenga en su poder o los haya adquirido bajo cualquier título, esté en alguno de los supuestos a los que se refiere el artículo 186 de este Código, independientemente de la relación que aquél tenga con el acusado, en su caso.
+El órgano jurisdiccional, mediante sentencia en el procedimiento penal correspondiente, podrá decretar el decomiso de bienes que sean instrumentos, objetos o productos del delito, con excepción de los que hayan causado abandono, en los términos de las disposiciones aplicables o respecto de aquellos sobre los cuales haya resultado la declaratoria de extinción de dominio.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
+En caso de que los instrumentos, objetos o productos del hecho delictivo hayan desaparecido o no se localicen por causa atribuible al imputado o sentenciado, se podrá decretar el decomiso de bienes de su propiedad, así como de aquellos respecto de los cuales se conduzcan como dueños, dueños beneficiarios o beneficiarios controladores, cuyo valor equivalga a dichos productos, sin menoscabo de las disposiciones aplicables en materia de extinción de dominio.
+
+Si pertenecen a un tercero, solo se decomisarán cuando el tercero que los tenga en su poder o los haya adquirido bajo cualquier título esté en alguno de los supuestos a los que se refiere el artículo 186 de este Código, independientemente de la naturaleza jurídica de dicho tercero propietario o poseedor y de la relación que aquel tenga con el imputado o sentenciado, en su caso. Las autoridades competentes procederán al inmediato aseguramiento de los bienes que podrían ser materia del decomiso durante el procedimiento. Se actuará en los términos previstos por este párrafo cualquiera que sea la naturaleza de los instrumentos, objetos o productos del delito.
 
 ###### ARTÍCULO 61.
 
@@ -715,23 +719,27 @@ Si el delito por el que se impuso la publicación fue cometido por medio de la p
 
 ### CAPÍTULO XII. TRATAMIENTO EN LIBERTAD, SEMILIBERTAD Y TRABAJO EN FAVOR DE LA COMUNIDAD
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 69.
 
-El tratamiento en libertad de imputables consiste en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la ley y conducentes a la readaptación social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la sanción de prisión substituida.
+El tratamiento en libertad de imputables consiste en la aplicación de las medidas laborales, educativas y curativas, en su caso, autorizadas por la ley y conducentes a la reinserción social del sentenciado, bajo la orientación y el cuidado de la autoridad ejecutora. Su duración no podrá exceder de la correspondiente a la sanción de prisión sustituida.
 
-La semilibertad implica alternación de períodos de privación de la libertad y de tratamiento en libertad. Se aplicará según las circunstancias del caso, del siguiente modo: externación durante la semana de trabajo, educativa o curativa con reclusión de fin de semana; salida de fin de semana con reclusión durante el resto de ésta; o salida diurna con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la sanción de prisión substituida.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+La semilibertad implica alternación de períodos de privación de la libertad y de tratamiento en libertad. Se aplicará, según las circunstancias del caso, del siguiente modo: externación durante la semana de trabajo o educativa con reclusión de fin de semana, salida de fin de semana con reclusión durante el resto de esta, o salida diurna con reclusión nocturna. La duración de la semilibertad no podrá exceder de la correspondiente a la pena de prisión sustituida.
 
 El trabajo en favor de la comunidad consiste en la prestación de servicios no remunerados, en instituciones públicas educativas o de asistencia social o en instituciones privadas asistenciales.
 
-Este trabajo se llevará a cabo en jornadas dentro de períodos distintos al horario de las labores que representen la fuente de ingreso para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 Cada dos días de prisión serán substituidos por una jornada de trabajo en favor de la comunidad.
 
 La extensión de la jornada de trabajo será fijada por la autoridad judicial tomando en cuenta las circunstancias del caso.
 
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-El trabajo en favor de la comunidad puede ser sanción autónoma o substitutivo de la prisión o de la multa.
+El trabajo en favor de la comunidad puede ser pena autónoma o sustitutivo de la prisión o de la multa.
 
 ### CAPÍTULO XIII. VIGILANCIA DE LA AUTORIDAD
 
@@ -739,9 +747,9 @@ El trabajo en favor de la comunidad puede ser sanción autónoma o substitutivo 
 
 Cuando la sentencia determine restricción de la libertad, de derechos o la suspensión condicional de la ejecución de la sentencia, la autoridad judicial dispondrá la vigilancia sobre el sentenciado, que tendrá la misma duración que la correspondiente a la sanción impuesta.
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-La vigilancia consistirá en ejercer sobre el sentenciado observación y orientación de su conducta, por personal especializado dependiente de la autoridad ejecutora, para la reinserción social del sentenciado y para protección de la comunidad.
+La vigilancia consistirá en ejercer sobre el sentenciado observación y orientación de su conducta, por parte de personal especializado dependiente de la autoridad ejecutora, para la reinserción social.
 
 ### CAPÍTULO XIV. DECOMISO DE BIENES CORRESPONDIENTES AL ENRIQUECIMIENTO ILÍCITO
 
@@ -891,29 +899,35 @@ Este artículo será aplicable para los casos en que la persona moral incurra en
 
 ### CAPÍTULO IV. APLICACIÓN DE SANCIONES EN CASO DE CONCURSO DE DELITOS, DE DELITO PERMANENTE Y DE DELITO CONTINUADO
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 85.
 
-En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos.
+En caso de concurso ideal, se impondrán las sanciones correspondientes al delito que merezca la mayor penalidad, las cuales podrán aumentarse sin rebasar la mitad del máximo de la duración de las penas correspondientes de los delitos restantes, siempre que las sanciones aplicables sean de la misma naturaleza; cuando sean de diversa naturaleza, podrán imponerse las consecuencias jurídicas señaladas para los restantes delitos, con excepción de los casos en que uno de los delitos por los que exista concurso ideal sea de los contemplados en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, y la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, ambas reglamentarias de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, supuestos en los cuales se aplicarán las reglas del concurso real.
 
-En ningún caso las sanciones podrán exceder de la máxima señalada en este Código.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 86.
 
-En caso de concurso real se impondrá la sanción correspondiente al delito que merezca la mayor, que podrá aumentarse hasta la suma de las sanciones correspondientes a los demás delitos, sin que pueda exceder del máximo señalado en este Código.
+En caso de concurso real, se impondrá la sanción del delito más grave, la cual podrá aumentarse con las penas que la ley contempla para cada uno de los delitos restantes, sin que exceda de las máximas señaladas en este Código. Si las penas se impusieran en el mismo proceso o en distintos, pero los hechos resultan conexos o similares, o derivado uno del otro, las penas deberán contarse desde el momento en que se privó de libertad por el primer delito.
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 87.
 
-En caso de delito permanente o continuado, se aumentará la sanción hasta una mitad de la correspondiente al máximo del delito cometido.
+En caso de delito permanente o continuado, se aumentará la sanción penal hasta en una mitad de la correspondiente al máximo del delito cometido, sin que exceda del máximo señalado en este Código.
 
 ### CAPÍTULO V. APLICACIÓN DE SANCIONES EN CASOS DE REINCIDENCIA, HABITUALIDAD Y COMPLICIDAD
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 88.
 
-La reincidencia será tomada en cuenta para el otorgamiento o no de los beneficios o los substitutivos penales que la Ley prevé.
+La reincidencia será tomada en cuenta para el otorgamiento o no de los beneficios o los sustitutivos penales que la ley prevé.
 
-A los habituales por delitos graves se les aplicará la sanción correspondiente al último delito o delitos nuevos por los que se les juzgue, la cual podrá aumentarse hasta por un tiempo igual al de dicha sanción, sin que el total, tratándose de prisión, pueda exceder de cuarenta años.
+En caso de que el imputado por algún delito doloso calificado por la ley como grave o que amerite prisión preventiva oficiosa, según corresponda, fuese reincidente por delitos de dicha naturaleza, la sanción aplicable por el nuevo delito cometido se incrementará en dos terceras partes y hasta en un tanto más de la pena máxima prevista para este, sin que exceda del máximo señalado en este Código.
 
 ###### ARTÍCULO 89.
 
@@ -949,17 +963,11 @@ Si la capacidad del autor de comprender el carácter ilícito del hecho o de det
 
 ### CAPÍTULO VIII. SUBSTITUCIÓN DE SANCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 95.
 
-La sanción privativa de libertad podrá ser substituida a juicio del órgano jurisdiccional, considerando lo dispuesto en los artículos 73 y 74 de este Código, en los términos siguientes:
-
-I. Por trabajo en favor de la comunidad o semilibertad, cuando la sanción impuesta no exceda de cuatro años;
-
-II. Por tratamiento en libertad o por multa, si la prisión no excede de tres años, y
-
-III. Para los efectos de la substitución se requerirá que el reo satisfaga los requisitos señalados en la fracción I incisos b y c del artículo 100 de este Código.
+El órgano jurisdiccional, al momento de imponer una pena o medida de seguridad privativa de libertad, podrá sustituirla por tratamiento en libertad o multa, cuando esta tenga una duración menor de tres años; o por trabajo a favor de la comunidad o semilibertad, cuando tenga una duración menor de cuatro años. En ningún caso se podrá aplicar este beneficio para reincidentes.
 
 ###### ARTÍCULO 96.
 
@@ -969,11 +977,11 @@ En la substitución de la sanción consistente en multa, se tendrá en cuenta lo
 
 En la substitución de la sanción consistente en prisión, se tendrán en cuenta las condiciones económicas y sociales del sentenciado y lo establecido en los artículos 32 y 69 de este Código.
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 97.
 
-Para la procedencia de la substitución se exigirá al sentenciado la reparación del daño.
+Para la procedencia de la sustitución, se exigirá al sentenciado la reparación del daño o la garantía que señale el órgano jurisdiccional para asegurar su pago en el plazo que se le fije.
 
 ###### ARTÍCULO 98.
 
@@ -987,57 +995,49 @@ En caso de que proceda la substitución de la sanción al hacerse el cálculo de
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
 
-### CAPÍTULO IX. CONDENA CONDICIONAL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO IX. LIBERTAD CONDICIONADA
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 100.
 
-La condena condicional es un beneficio que la autoridad judicial concede a todo condenado en sentencia ejecutoria, que reúna los requisitos señalados en este Capítulo, la cual tiene por objeto suspender la ejecución o cumplimiento de las sanciones privativas de la libertad.
+La libertad condicionada es un beneficio que el órgano jurisdiccional concede a las personas sentenciadas con el objeto de suspender la ejecución de las penas o medidas de seguridad privativas de la libertad, al momento de imponer estas, en los términos de este capítulo, o durante la ejecución, en los términos de la legislación en materia de ejecución de sanciones.
 
-Su otorgamiento y disfrute se sujetará a las normas siguientes:
-
-I. Los jueces o tribunales, en su caso, al dictarse sentencia de condena o en la hipótesis que establece el artículo 108 de este Código, suspenderán motivadamente la ejecución de las sanciones a petición de parte o de oficio, si concurren estas condiciones:
-
-a). Que la sanción privativa de libertad sea menor de tres años;
-
-b). Que el sentenciado no sea reincidente por delito doloso y, además, que haya evidenciado buena conducta positiva antes y después del hecho punible, y
-
-c). Que por sus antecedentes personales o modo honesto de vivir y de sufragar sus necesidades y las de las personas que dependan de él económicamente, así como por la naturaleza, modalidades y móviles del delito, se presuma que el sentenciado no volverá a delinquir;
-
-> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
-
-No se considerará como antecedente que perjudique al sentenciado para obtener este beneficio, el relativo a la farmacodependencia, pero sí se exigirá en todo caso que el sentenciado se someta al tratamiento médico correspondiente, para su rehabilitación, bajo vigilancia de la autoridad ejecutora, en atención al artículo 192 Quáter de la Ley General de Salud.
-
-II. Para gozar de este beneficio el sentenciado deberá:
-
-a). Otorgar garantía o sujetarse a las medidas que se le fijen, para asegurar su presentación ante la autoridad siempre que fuere requerido;
-
-b). Obligarse a residir en lugar determinado, del que no podrá ausentarse sin permiso de la autoridad que ejerza sobre él cuidado y vigilancia;
-
-c). Acreditar en el plazo que se le fije, profesión, arte, oficio u ocupación lícitos;
-
-d). Abstenerse del abuso de bebidas alcohólicas y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo por prescripción médica;
-
-> <small>(REFORMADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
-
-e). Abstenerse de causar molestias al ofendido, a sus familiares; y allegados, y a cualesquiera personas relacionadas con el delito o proceso;
-
-> <small>(REFORMADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
-
-f). Reparar el daño causado, y
-
-> <small>(ADICIONADO, D.O. 7 DE SEPTIEMBRE DE 2010)</small>
-
-g). En caso de ser farmacodependiente, haberse sometido al tratamiento de rehabilitación correspondiente, bajo la vigilancia de la autoridad ejecutora competente.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 101.
 
-La suspensión comprenderá la prisión y la multa y en cuanto a las demás sanciones impuestas, el juez o tribunal resolverá según las circunstancias del caso.
+El órgano jurisdiccional podrá conceder la libertad condicionada, a petición de parte o de oficio, al momento de imponer las penas o medidas de seguridad privativas de la libertad, cuando concurran las siguientes condiciones:
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+I.- Que la pena o medida de seguridad privativa de la libertad a imponer sea menor de tres años;
+
+II.- Que la persona sentenciada no sea reincidente por delito doloso y, además, que haya evidenciado buena conducta antes y después del hecho punible;
+
+III.- Que, por sus antecedentes personales o su modo honesto de vivir y de sufragar sus necesidades y las de las personas que dependan económicamente de ella, así como por la naturaleza, las modalidades y los móviles del delito, se presuma que la persona sentenciada no volverá a delinquir. No se considerará como antecedente negativo la dependencia a una sustancia por parte de la persona sentenciada, siempre y cuando esta se comprometa a cumplir con lo establecido en la fracción V del artículo siguiente de este Código;
+
+IV.- Que la persona sentenciada otorgue garantía o se sujete a las medidas que se le fijen para asegurar su presentación ante la autoridad, siempre que fuere requerido, y
+
+V.- Que la persona sentenciada repare el daño o, en caso de no contar con recursos propios o suficientes para hacerlo, garantice su reparación o la solvente en un plazo razonable, a juicio del órgano jurisdiccional.
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 102.
 
-A los imputados a quienes se haya suspendido condicionalmente la ejecución de la sentencia, se les hará saber lo dispuesto en este Capítulo, lo que se asentará en diligencia formal, sin que la falta de ésta impida, en su caso, la aplicación de lo prevenido en el mismo.
+El órgano jurisdiccional, al momento de otorgar la libertad condicionada, además de la referente a que, durante el plazo de la suspensión de la ejecución, la persona no vuelva a ser sentenciada por la comisión de un delito doloso, podrá establecer una o más de las siguientes condiciones:
+
+I.- Residir en un lugar determinado, del cual no podrá ausentarse sin permiso de la autoridad que ejerza sobre él cuidado y vigilancia;
+
+II.- Acreditar, en el plazo que se le fije, el ejercicio de profesión, oficio, arte u ocupación lícitos;
+
+III.- Abstenerse de causar molestias a la víctima, sus familiares o allegados, o cualquier persona relacionada con el delito o proceso;
+
+IV.- Abstenerse del abuso de bebidas alcohólicas y del consumo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares, salvo por prescripción médica;
+
+V.- Cumplir con el tratamiento de rehabilitación correspondiente, bajo la vigilancia de la autoridad competente, y
+
+VI.- Las demás que estime pertinentes para el adecuado cumplimiento de la libertad condicionada.
 
 ###### ARTÍCULO 103.
 
@@ -1047,11 +1047,11 @@ A los imputados a quienes se haya suspendido condicionalmente la ejecución de l
 
 (DEROGADO, D.O. 2 DE MAYO DE 2016)
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 105.
 
-Si durante el término de duración de la sanción, desde la fecha en que la sentencia cause ejecutoria, el condenado no diera lugar a nuevo proceso por delito doloso que concluya con sentencia condenatoria, se considerará extinguida la sanción fijada en aquélla. En caso contrario, se hará efectiva la primera sentencia además de la segunda, en la que el sentenciado será considerado como reincidente, sin perjuicio de lo establecido en el artículo 24 de este Código.
+Si durante el término de duración de la sanción, desde la fecha en que la sentencia cause ejecutoria, la persona sentenciada no diera lugar a nuevo proceso por delito doloso que concluya con sentencia condenatoria o no incumpliera alguna de las condiciones impuestas, en términos del artículo 102 de este Código, se considerará extinguida la pena o medida de seguridad fijada en aquella. En caso contrario, se hará efectiva la primera sentencia.
 
 ###### ARTÍCULO 106.
 
@@ -1065,7 +1065,9 @@ Si durante el término de duración de la sanción, desde la fecha en que la sen
 
 (DEROGADO, D.O. 2 DE MAYO DE 2016)
 
-## TÍTULO SEXTO. EXTINCIÓN DE LA RESPONSABILIDAD PENAL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+## TÍTULO SEXTO. CAUSAS DE EXTINCIÓN DE LA ACCIÓN PENAL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -1079,9 +1081,9 @@ La pretensión punitiva y la potestad para ejecutar las penas se extinguirán po
 
 (DEROGADO, D.O. 2 DE MAYO DE 2016)
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO II. MUERTE DEL IMPUTADO
+### CAPÍTULO II. MUERTE DEL IMPUTADO O SENTENCIADO
 
 > <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -1133,9 +1135,9 @@ El perdón del ofendido o del legitimado para otorgarlo, extingue la acción pen
 
 Cuando sean varios los ofendidos y cada uno pueda ejercer separadamente la facultad de perdonar al responsable del delito y al encubridor, el perdón sólo surtirá efectos por lo que hace a quien lo otorga.
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-Cuando fueren varios los imputados, el perdón sólo beneficia a aquél en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los inculpados y al encubridor.
+Cuando fueren varios los imputados, el perdón sólo beneficia a aquél en cuyo favor se otorga, a menos que el ofendido o el legitimado para otorgarlo, hubiese obtenido la satisfacción de sus intereses o derechos, caso en el cual beneficiará a todos los imputados y al encubridor.
 
 ### CAPÍTULO VI. PRESCRIPCIÓN
 
@@ -1149,9 +1151,9 @@ La prescripción extingue la acción penal y las sanciones.
 
 La prescripción es personal y para ella basta el simple transcurso del tiempo señalado en la ley.
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-La prescripción producirá sus efectos aunque no la alegue como excepción el imputado. Los jueces y tribunales la tendrán en cuenta y la aplicarán de oficio en todo caso, inmediatamente que tengan conocimiento de ella, sea cual fuere el estado del proceso.
+La prescripción producirá sus efectos aunque no la alegue como excepción el imputado, acusado y sentenciado. El órgano jurisdiccional la suplirá de oficio en todo caso, tan pronto como tenga conocimiento de ella, sea cual fuere el estado del procedimiento.
 
 ### CAPÍTULO VII. PRESCRIPCIÓN DE LA ACCIÓN PENAL
 
@@ -1195,13 +1197,13 @@ La prescripción también se interrumpirá por las causas que establece el Códi
 
 Si se dejare de actuar, la prescripción comenzará a contarse de nuevo desde el día siguiente al de la última diligencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 126.
 
-La prescripción de las acciones se interrumpirá también por el requerimiento de auxilio en la investigación del delito o del imputado; por las diligencias que se practiquen para obtener la extradición internacional y por el requerimiento de entrega del imputado que formalmente haga el Ministerio Público de esta entidad federativa al de otra donde aquél se refugie, se localice o se encuentre detenido por el mismo o por otro delito. En el primer caso, también causarán la interrupción las actuaciones que practique la autoridad requerida y en el segundo, subsistirá la interrupción hasta en tanto la autoridad requerida niegue la entrega o en tanto desaparezca la situación legal del detenido, que dé motivo al aplazamiento de su entrega.
+La prescripción de las acciones se interrumpirá también por el requerimiento de auxilio en la investigación del delito o de quien lo haya cometido o participado en su comisión, por las diligencias que se practiquen para obtener la extradición internacional o por el requerimiento de entrega del imputado que formalmente haga el Ministerio Público de esta entidad federativa al de otra donde aquél se refugie, se localice o se encuentre detenido por el mismo o por otro delito. En el primer caso, también causarán la interrupción las actuaciones que practique la autoridad requerida y en el segundo, subsistirá la interrupción hasta en tanto la autoridad requerida niegue la entrega o en tanto desaparezca la situación legal del detenido que dé motivo al aplazamiento de su entrega.
 
-La interrupción de la prescripción de la acción penal, hará que se amplíen hasta una mitad como máximo los plazos señalados en los artículos 119, 120, 121, 122 y 123 de este Código, a cuyo vencimiento quedará consumada la prescripción.
+La interrupción de la prescripción de la acción penal hará que se amplíen hasta una mitad, como máximo, los plazos señalados en los artículos 119, 120, 121 y 122 de este Código, a cuyo vencimiento quedará consumada la prescripción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -2113,7 +2115,9 @@ La pérdida de los derechos de familia solo se impondrá cuando se afecte de man
 
 El delito de incumplimiento de obligaciones de asistencia familiar se perseguirá mediante querella de la parte agraviada.
 
-Cuando el incumplimiento se refiera únicamente a los hijos o exista imposibilidad para presentar la querella, por parte de los acreedores, se perseguirá de oficio y cuando proceda, el Ministerio Público promoverá la designación de un tutor especial o representante para las víctimas del delito ante la autoridad judicial, que tendrá facultades para designarlos. Se declarará extinguida la acción penal oyéndose previamente al tutor o representante, cuando el procesado hubiese cubierto el importe de los alimentos vencidos.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Cuando el incumplimiento se refiera a los hijos, a los ascendientes adultos mayores o exista imposibilidad para presentar la querella por parte de los acreedores, se perseguirá de oficio y cuando proceda, el Ministerio Público promoverá la designación de un tutor especial o representante para las víctimas del delito ante la autoridad judicial, que tendrá facultades para designarlos. Se declarará extinguida la acción penal oyéndose previamente al tutor o representante, cuando el procesado hubiese cubierto el importe de los alimentos vencidos.
 
 ###### ARTÍCULO 222.
 
@@ -2881,9 +2885,33 @@ XVII. Permitir fuera de los casos previstos por la ley, la salida temporal de la
 
 XVIII. Imponer contribuciones en cualesquiera lugares de detención o internamiento;
 
-XIX. Demorar injustificadamente el cumplimiento de las providencias judiciales, en las que se ordene poner en libertad a un detenido, y
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-XX. Cobrar, los encargados o empleados de lugares de reclusión o internamiento, cualquier cantidad a los internos o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado, para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen.
+XIX. Demorar injustificadamente el cumplimiento de las providencias judiciales, en las que se ordene poner en libertad a un detenido;
+
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XX. Cobrar, por parte de los encargados o empleados de los lugares de reclusión o internamiento, cualquier cantidad a los internos o a sus familiares a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado, u otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen;
+
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XXI. A quien, ejerciendo funciones de supervisor de libertad o con motivo de ellas, hiciera amenazas, hostigue o ejerza violencia en contra de la persona procesada o sentenciada, sus familiares o posesiones;
+
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XXII. A quien, ejerciendo funciones de supervisor de libertad indebidamente requiera favores, acciones o cualquier transferencia de bienes de la persona procesada o sentenciada, o su familia;
+
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XXIII. A quien, ejerciendo funciones de supervisor de libertad falsee informes o reportes al juez de ejecución, y
+
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XXIV. Divulgar, por parte de algún servidor público, información que permita la identificación de la persona adolescente investigada, procesada o sancionada.
+
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 267 BIS. En caso de tratarse de particulares realizando funciones propias de supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores por la comisión de los delitos establecidos en las fracciones XXI, XXII o XXIII del artículo 267, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
 ###### ARTÍCULO 268.
 
@@ -4732,3 +4760,57 @@ Este decreto entrará en vigor el día 19 de julio de 2017, previa publicación 
 Segundo. Obligación normativa
 
 El gobernador deberá adecuar el Reglamento de la Ley de la Fiscalía General del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 543/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN; EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN; LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN; LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN; LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN; LA LEY DE SALUD DEL ESTADO DE YUCATÁN; Y LA LEY DE PREVENCIÓN DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHÓLICAS Y TABACO DEL ESTADO, EN MATERIA DE ARMONIZACIÓN CON LA MISCELÁNEA PENAL; EJECUCIÓN PENAL Y JUSTICIA PARA ADOLESCENTES".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado, con excepción de los artículos séptimo y octavo, los cuales entrarán en vigor en los términos dispuestos por el artículo transitorio quinto de este mismo decreto.
+
+Segundo. Abrogación
+
+Se abrogan, la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Yucatán, publicada el 10 de junio de 2011 en el diario oficial del estado, y la Ley de Justicia para Adolescentes del Estado de Yucatán, publicada en el diario oficial del estado el 21 de octubre de 2011.
+
+Estas abrogaciones serán en los términos de las leyes federales correspondientes, es decir, la primera abrogación en términos del artículo transitorio tercero, párrafo primero, del Decreto por el que se expide la Ley Nacional de Ejecución Penal; se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del artículo 225 del Código Penal Federal; y la segunda abrogación en términos del artículo transitorio segundo, párrafo segundo, del Decreto por el que se expide la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+Tercero. Regulación de la autoridad administrativa
+
+El gobernador deberá regular al órgano especializado en la ejecución de medidas para adolescentes en un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social de adolescentes en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Modificaciones a las leyes de salud y de prevención de adicciones
+
+Las modificaciones efectuadas a la Ley de Salud del Estado de Yucatán y a la Ley de Prevención de las Adicciones y el Consumo Abusivo de Bebidas Alcohólicas y Tabaco del Estado, a través de los artículos séptimo y octavo de este decreto, respectivamente, entrarán en vigor el 16 de junio de 2018.
+
+Sexto. Regulación de la autoridad penitenciaria
+
+El gobernador deberá regular a la autoridad penitenciaria en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Séptimo. Regulación de la autoridad encargada de la supervisión
+
+El gobernador deberá regular a la autoridad encargada de la supervisión de la libertad condicionada en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Octavo. Regulación de la policía procesal
+
+El gobernador deberá regular a la policía procesal en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Décimo. Previsiones presupuestales
+
+El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
+
+D.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 544/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE INCUMPLIMIENTO DE OBLIGACIONES DE ASISTENCIA FAMILIAR EN ADULTOS MAYORES”.]
+
+Artículo único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
