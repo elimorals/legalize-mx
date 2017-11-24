@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-103753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-29"
-last_updated: "2017-07-18"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 29 de noviembre de 2014.
 
@@ -75,8 +75,6 @@ II. Recibir las denuncias o querellas sobre los hechos posiblemente delictivos.
 
 III. Ejercer las facultades discrecionales del Ministerio Público de abstenerse de investigar, de archivo temporal, de no ejercicio de la acción penal y de aplicación de criterios de oportunidad, en términos de la ley procesal.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
 
 IV. Coordinar la investigación de los hechos que la ley señale como delito, de manera objetiva, técnica, científica y sin dilaciones; solicitar la autorización judicial de las diligencias de investigación que la requieran en términos de la ley procesal, y registrar las diligencias realizadas en la carpeta de investigación.
@@ -84,8 +82,6 @@ IV. Coordinar la investigación de los hechos que la ley señale como delito, de
 V. Ejercer la dirección funcional de las instituciones policiales con presencia en el estado, cuando realicen actividades de investigación, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 VI. Llevar un registro de la cadena de custodia y preservar las evidencias recopiladas durante la investigación.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -104,8 +100,6 @@ XII. Procurar las salidas alternas al proceso penal cuando sean aplicables en t�
 XIII. Presentar la acusación, ofrecer pruebas y alegatos, e interponer los recursos que sean procedentes.
 
 XIV. Solicitar a la autoridad judicial que gire los exhortos correspondientes, y las solicitudes de asistencia jurídica internacional, cuando se requiera la colaboración de las autoridades de otros estados o extranjeras.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -127,7 +121,13 @@ XXI. Diseñar e implementar programas y estrategias para detectar y combatir los
 
 XXII. Coordinarse, en el ámbito de su competencia, con las autoridades federales, estatales y municipales, así como con las instituciones del sector académico, social, público y privado, para el cumplimiento de su objeto.
 
-XXIII. Las demás que señale esta ley, la ley procesal y otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XXIII. Desempeñar las atribuciones establecidas en el artículo 23 y en las demás disposiciones de la Ley Nacional de Ejecución Penal.
+
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XXIV. Las demás que establezcan esta ley, la ley procesal, la Ley Nacional de Ejecución Penal, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 5.
 
@@ -177,8 +177,6 @@ III. Emitir las instrucciones generales en materia de investigación que serán 
 
 IV. Establecer las reglas y los criterios a los que se sujetarán los fiscales para ejercer las facultades discrecionales del Ministerio Público de abstenerse de investigar, de archivo temporal, de no ejercicio de la acción penal y de aplicación de criterios de oportunidad, en términos de la ley procesal.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
 
 V. Dictar los criterios generales que deberán regir la protección y la atención de testigos.
@@ -217,7 +215,9 @@ XXI. Comparecer ante al Congreso del estado para informar sobre los asuntos a su
 
 XXII. Conceder audiencias al público que lo solicite para tratar asuntos relativos a la procuración de justicia.
 
-XXIII. Las demás que le encomiende el Gobernador, las que establezcan el Código de la Administración Pública de Yucatán, la ley procesal y las demás disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XXIII. Las demás que le encomiende el Gobernador y que establezcan el Código de la Administración Pública de Yucatán, la ley procesal, la Ley Nacional de Ejecución Penal y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 9.
 
@@ -269,7 +269,13 @@ IX. Solicitar a la autoridad jurisdiccional las medidas cautelares, las providen
 
 X. Promover la celebración de acuerdos reparatorios entre la víctima o el ofendido y el imputado, y las demás salidas alternas, en los casos autorizados por la ley.
 
-XI. Las demás que les otorguen esta ley, su reglamento, la ley procesal y las demás disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XI. Las demás que establezcan esta ley, su reglamento, la ley procesal, la Ley Nacional de Ejecución Penal y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+La Fiscalía General contará con fiscales especializados en justicia para adolescentes, quienes deberán acreditar los conocimientos y las habilidades dispuestos en el artículo 64 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, y tendrán las facultades y obligaciones establecidas en este artículo y en el artículo 66 de la ley nacional.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -510,3 +516,49 @@ Este decreto entrará en vigor el día 19 de julio de 2017, previa publicación 
 Segundo. Obligación normativa
 
 El gobernador deberá adecuar el Reglamento de la Ley de la Fiscalía General del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 543/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN; EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN; LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN; LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN; LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN; LA LEY DE SALUD DEL ESTADO DE YUCATÁN; Y LA LEY DE PREVENCIÓN DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHÓLICAS Y TABACO DEL ESTADO, EN MATERIA DE ARMONIZACIÓN CON LA MISCELÁNEA PENAL; EJECUCIÓN PENAL Y JUSTICIA PARA ADOLESCENTES".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado, con excepción de los artículos séptimo y octavo, los cuales entrarán en vigor en los términos dispuestos por el artículo transitorio quinto de este mismo decreto.
+
+Segundo. Abrogación
+
+Se abrogan, la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Yucatán, publicada el 10 de junio de 2011 en el diario oficial del estado, y la Ley de Justicia para Adolescentes del Estado de Yucatán, publicada en el diario oficial del estado el 21 de octubre de 2011.
+
+Estas abrogaciones serán en los términos de las leyes federales correspondientes, es decir, la primera abrogación en términos del artículo transitorio tercero, párrafo primero, del Decreto por el que se expide la Ley Nacional de Ejecución Penal; se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del artículo 225 del Código Penal Federal; y la segunda abrogación en términos del artículo transitorio segundo, párrafo segundo, del Decreto por el que se expide la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+Tercero. Regulación de la autoridad administrativa
+
+El gobernador deberá regular al órgano especializado en la ejecución de medidas para adolescentes en un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social de adolescentes en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Modificaciones a las leyes de salud y de prevención de adicciones
+
+Las modificaciones efectuadas a la Ley de Salud del Estado de Yucatán y a la Ley de Prevención de las Adicciones y el Consumo Abusivo de Bebidas Alcohólicas y Tabaco del Estado, a través de los artículos séptimo y octavo de este decreto, respectivamente, entrarán en vigor el 16 de junio de 2018.
+
+Sexto. Regulación de la autoridad penitenciaria
+
+El gobernador deberá regular a la autoridad penitenciaria en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Séptimo. Regulación de la autoridad encargada de la supervisión
+
+El gobernador deberá regular a la autoridad encargada de la supervisión de la libertad condicionada en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Octavo. Regulación de la policía procesal
+
+El gobernador deberá regular a la policía procesal en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Décimo. Previsiones presupuestales
+
+El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
