@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2017-09-19"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE NOVIEMBRE DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -3481,15 +3481,11 @@ XXII. Vigilar el cumplimiento de los lineamientos de identidad institucional del
 
 XXIII. Las demás que establezca el Pleno y las Comisiones.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 163.
 
-La Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, será la responsable de auxiliar al Presidente en la ejecución de las acciones que se determinen en dichas materias.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+La Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales será la responsable de auxiliar al Presidente en la ejecución de las acciones que se determinen en dichas materias, y a la Dirección General de la Presidencia en términos de los artículos 164, fracción VIII, y 164 Ter, fracción XIV, del presente Acuerdo General.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3525,7 +3521,9 @@ VI Bis. Plantear al Instituto de la Judicatura Federal las necesidades de capaci
 
 VII. Promover y coordinar la celebración de convenios de colaboración con instituciones públicas, privadas y de la sociedad civil que promuevan y defiendan los derechos humanos y las acciones de transversalidad de la perspectiva de género;
 
-VIII. Atender las solicitudes de información provenientes de las Secretarías de Gobernación y de Relaciones Exteriores, relacionadas con peticiones formuladas ante la Corte Interamericana de Derechos Humanos y la Comisión Interamericana de Derechos Humanos que se formulen al Estado Mexicano y que incidan en el ámbito competencial del Consejo, así como aquéllas peticiones que tengan como propósito satisfacer solicitudes de información relacionadas con mecanismos de derechos humanos cuya competencia haya sido aceptada por el propio Estado Mexicano;
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Asesorar, coadyuvar y apoyar a la Dirección General de la Presidencia, en los términos que esta Dirección General disponga, en la atención de las solicitudes de información provenientes de las Secretarías de Gobernación y de Relaciones Exteriores, relacionadas con peticiones formuladas ante la Corte Interamericana de Derechos Humanos y la Comisión Interamericana de Derechos Humanos que se formulen al Estado Mexicano y que incidan en el ámbito competencial del Consejo, así como de aquellas peticiones que tengan como propósito satisfacer solicitudes de información relacionadas con mecanismos de derechos humanos cuya competencia haya sido aceptada por el propio Estado Mexicano;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -3555,39 +3553,71 @@ XIII. Las demás que establezcan el Pleno y el Presidente.
 
 La Dirección General de la Presidencia se encargará de asistir al Presidente en los asuntos que de conformidad con sus atribuciones le corresponde conocer.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 164 Ter.
 
-El titular de la Dirección General de la Presidencia, tendrá las siguientes atribuciones:
+El titular de la Dirección General de la Presidencia tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 I. Enviar a los titulares de los órganos jurisdiccionales las peticiones y promociones presentadas a consideración de los Consejeros por particulares, relacionadas con acciones de carácter jurisdiccional, para que, con transparencia y en el marco de la independencia y autonomía de los juzgadores federales, les sean remitidas para su conocimiento;
 
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
+
 II. Integrar la carpeta del Presidente con los asuntos listados para las sesiones del Pleno;
+
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 III. Elaborar opiniones, dictámenes y notas informativas para el Presidente, sobre los asuntos que conozca el Pleno, las Comisiones y los comités, en el ámbito de su competencia;
 
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
+
 IV. Recibir los escritos, peticiones y avisos que magistrados de Circuito, jueces de Distrito y trabajadores del Poder Judicial de la Federación dirijan al Presidente y canalizarlos a las áreas administrativas que conforme a sus atribuciones, corresponda tramitar y resolver;
+
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 V. Recibir los escritos que particulares, autoridades e instituciones dirigen al Presidente y remitirlos a las áreas administrativas que correspondan o, en su caso, darles respuesta;
 
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
+
 VI. Dar seguimiento e informar al Presidente sobre el trámite y resultado de los escritos y peticiones mencionadas en las fracciones IV y V de este artículo;
+
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 VII. Brindar atención ciudadana a quienes soliciten entrevistas con el Presidente;
 
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
+
 VIII. Llevar el archivo y correspondencia de la Presidencia del Consejo;
+
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 IX. Asistir a las reuniones interinstitucionales en las que participe el Consejo; y actuar en el ámbito de su competencia para el cumplimiento de los acuerdos tomados en dichas reuniones;
 
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
+
 X. Asesorar al Presidente en asuntos que le requiera, y desempeñar las comisiones y funciones que le encomiende;
+
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 XI. Participar, cuando así lo acuerde el Pleno, o lo instruya el Presidente, emitiendo opinión en las reuniones de los titulares de áreas administrativas que tengan como propósito el estudio y análisis para la creación, reforma o derogación de normas internas del propio Consejo;
 
+> <small>(ADICIONADA, D.O.F. 18 DE FEBRERO DE 2015)</small>
+
 XII. Coordinar a las áreas administrativas involucradas en la realización de las ceremonias de instalación de los nuevos órganos jurisdiccionales, inicio de obra e inauguración de Edificios Sede del Poder Judicial de la Federación;
 
-XIII. Coordinarse con los Titulares de las áreas administrativas cuando sea necesario para el ejercicio de sus atribuciones; y
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
 
-XIV. Las demás que establezcan el Pleno, y las Comisiones.
+XIII. Coordinarse con los titulares de las áreas administrativas cuando sea necesario para el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
+
+XIV. Atender las solicitudes de información provenientes de las Secretarías de Gobernación y de Relaciones Exteriores, relacionadas con peticiones formuladas ante la Corte Interamericana de Derechos Humanos y la Comisión Interamericana de Derechos Humanos que se formulen al Estado Mexicano y que incidan en el ámbito competencial del Consejo, así como aquellas peticiones que tengan como propósito satisfacer solicitudes de información relacionadas con mecanismos de derechos humanos cuya competencia haya sido aceptada por el propio Estado Mexicano. Para la elaboración de los informes la Dirección General de la Presidencia se apoyará en la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, para que en su momento se sometan a consideración del Presidente del Consejo para su autorización; y
+
+> <small>(ADICIONADA, D.O.F. 24 DE NOVIEMBRE DE 2017)</small>
+
+XV. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 165.
 
@@ -5910,3 +5940,11 @@ D.O.F. 19 DE SEPTIEMBRE DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ATENCIÓN DE LAS SOLICITUDES DE INFORMACIÓN EN MATERIA DE DERECHOS HUMANOS, FORMULADAS POR ORGANISMOS INTERNACIONALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación, así como en el portal de Internet del Consejo de la Judicatura Federal.
