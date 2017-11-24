@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-regimen-de-proteccion-social-en-45604"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-22"
-last_updated: "2005-07-22"
+last_updated: "2017-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERNO DEL REGIMEN DE PROTECCION SOCIAL EN SALUD DE BAJA CALIFORNIA
 
-REGLAMENTO INTERNO DEL REGIMEN DE PROTECCION SOCIAL EN SALUD DE BAJA CALIFORNIA
+REGLAMENTO INTERNO DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 22 de julio de 2005.
 
@@ -31,17 +31,7 @@ EUGENIO ELORDUY WALTHER GOBERNADOR DEL ESTADO EN EJERCICIO DE LA FACULTAD QUE ME
 
 C O N S I D E R A N D O
 
-PRIMERO.- Que el Plan Estatal de Desarrollo 2002-2007, contempla dentro de sus objetivos generales, transformar la Administración Pública del Estado en una organización moderna, eficaz, transparente, con una cultura de atención social y servicio de calidad, dentro de un marco de legalidad y respeto a las normas.
-
-SEGUNDO.- Que mediante Decreto Publicado en el Periódico Oficial del Estado de Baja California, de fecha 18 de Marzo de 2005, se creó el Régimen de Protección Social en Salud del Estado de Baja California, como organismo público descentralizado con personalidad jurídica y patrimonio propio.
-
-TERCERO.- Que el Régimen de Protección Social en Salud de Baja California tiene por objeto garantizar las acciones de protección social en salud en el Estado, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud a las personas o a las familias que no sean derechohabientes de instituciones de seguridad social o no cuenten con algún otro mecanismo de previsión social en salud, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta y calidad.
-
-CUARTO.- Que el artículo 12, fracción IV, del Decreto de Creación referido en el Considerando Segundo anterior, estable que es atribución de la Junta Directiva aprobar el Reglamento Interno, así como otros instrumentos administrativos que regulen su funcionamiento interno y sus respectivas actualizaciones.
-
-QUINTO.- Que la política de Desarrollo Humano Integral, prevista en el Plan Estatal de Desarrollo de Baja California 2002-2007, contempla como objeto especifico mejorar la salud de la población de Baja California, mediante la participación coordinada de los sectores público, social y privado; y asimismo, establece como línea estratégica impulsar mecanismos que brinden protección financiera a la población, contra gastos catastróficos derivados de la atención a la salud.
-
-SEXTO.- Que la modernización y eficiencia gubernamental es una vertiente estratégica para lograr objetivos y metas en beneficio de toda una comunidad, promoviendo así la observancia de una cultura administrativa en el desarrollo de los programas institucionales, que se verán reflejados en una mayor oferta de servicios de salud de mejor calidad a los diversos sectores de la población.
+[...]
 
 SÉPTIMO.- Que con la finalidad de cumplir eficientemente con el objeto para el cual fue creado el Régimen de Protección Social en Salud de Baja California, es indispensable determinar y definir su estructura orgánica en un reglamento interno, en el cual se establezca la integración, funcionamiento y atribuciones del órgano de gobierno, las atribuciones de sus unidades administrativas, las facultades y obligaciones que habrán de ejercer sus titulares, así como la manera de suplir a estos últimos en sus ausencias temporales, por lo que se expide el siguiente.
 
@@ -197,13 +187,21 @@ VI.- Las demás que le asigne la Junta Directiva.
 
 ### CAPÍTULO III. DE LA ORGANIZACIÓN
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
 Para el estudio, planeación y adecuado cumplimiento del objeto para el que fue creado el REPSS, éste contará con las siguientes unidades administrativas:
 
 I.- Dirección General:
 
-II.- Dirección de Promoción y Afiliación:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+a) Contraloría Interna
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+II.- Dirección de Afiliación y Operación:
 
 a) Departamento de Promoción y afiliación; y,
 
@@ -215,11 +213,15 @@ a) Departamento de Modelo de Garantía de Atención al Beneficiario; y,
 
 b) Departamento de Análisis y Evaluación del Servicio Médico.
 
-IV.- Dirección de Administración y Financiamiento:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-a) Departamento de Administración y Financiamiento;
+IV.- Dirección de Administración:
 
-b) Departamento de Control Financiero y de Gasto y,
+a) Departamento de Recursos Materiales y Servicios Administrativos;
+
+b) Departamento de Recursos Financieros; y,
+
+c) Departamento de Recursos Humanos.
 
 V.- Los demás departamentos, coordinaciones, unidades técnicas que sean necesarias y apruebe la Junta Directiva, a propuesta del Director General.
 
@@ -235,23 +237,89 @@ La Dirección General estará a cargo de un Director General, quien tendrá las 
 
 ###### ARTÍCULO 23.
 
-El Director General para la mejor distribución y despacho del los asuntos de su competencia, podrá delegarlos en sus funcionarios subalternos, sin perder por ello la posibilidad del ejercicio directo, ni la facultad de revocación.
+El Director General para la mejor distribución y despacho de los asuntos de su competencia, podrá delegarlos en sus funcionarios subalternos, sin perder por ello la posibilidad del ejercicio directo, ni la facultad de revocación.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
 La Dirección General, para la mejor distribución y despacho de los asuntos de su competencia, contará con las siguientes unidades administrativas.
 
-I.- Dirección de Promoción y Afiliación;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+I.- Dirección de Afiliación y Operación;
 
 II.- Dirección de Gestión de Servicios de Salud; y,
 
-III.- Dirección de Administración y Financiamiento.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-#### SECCIÓN II. DE LAS DIRECCIÓN DE PROMOCIÓN Y AFILIACIÓN
+III.- Dirección de Administración.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 24 BIS.- El REPSS se apoyará con la Contraloría Interna para el fortalecimiento de las funciones de prevención, control y vigilancia.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 24 TER.- Corresponde a la Contrataría Interna el despacho de las siguientes atribuciones:
+
+I. Efectuar revisiones directas y selectivas a las unidades administrativas del REPSS, tendientes a comprobar la razonabilidad de su información financiera y verificar que las operaciones sean congruentes con los procesos aprobados de planeación, programación y presupuesto;
+
+II. Verificar el correcto funcionamiento de las unidades administrativas del REPSS respecto del manejo de la administración de los recursos humanos, materiales y financieros;
+
+III. Informar al Titular del REPSS sobre los resultados de las revisiones practicadas y dar seguimiento a las acciones y medidas correctivas que solventen las deficiencias detectadas;
+
+IV. Elaborar y presentar un Programa Anual de Trabajo al titular de la Secretaría de la Contraloría y Transparencia Gubernamental para su aprobación; con base en las normas y lineamientos aplicables a la materia que permita contar y cumplir con los indicadores programados;
+
+V. Revisar el cumplimiento de las normas, políticas, sistemas y procedimientos emitidos por el REPSS y las demás que rigen la Administración Pública Estatal;
+
+VI. Revisar que se acaten las disposiciones legales y reglamentarias en vigor, según corresponda a la operatividad del REPSS;
+
+VII. Revisar la suficiencia y efectividad del control interno inherente a los sistemas y procedimientos existentes en el REPSS;
+
+VIII. Impulsar un programa de actualización del marco de actuación en coordinación con las Dependencias Normativas y la Coordinadora de Sector, para garantizar un actuar en apego a las disposiciones para tal fin;
+
+IX. Formular al titular de la unidad administrativa correspondiente, en su ámbito de competencia, recomendaciones y sugerencias resultantes de las auditorías practicadas, en congruencia con las necesidades del REPSS;
+
+X. Requerir al Titular de la unidad administrativa correspondiente, en su ámbito de competencia, el seguimiento relativo a las observaciones y recomendaciones efectuadas, revisando que estas sean solventadas;
+
+XI. Proporcionar al Director Jurídico de Responsabilidades y Situación Patrimonial de la Secretaría de la Contraloría y Transparencia Gubernamental, los elementos de juicio suficientes, así como la documentación necesaria, cuando se presuma la comisión de ilícitos por parte de servidores públicos adscritos al REPSS y que sean de su competencia, por incumplimiento de las obligaciones previstas por la Ley de Responsabilidades Administrativas de Baja California y, por los demás ordenamientos legales aplicables;
+
+XII. Intercambiar en su ámbito de competencia, información con auditores externos y contralores internos de otras Dependencias y Entidades Paraestatales del Poder Ejecutivo, con el objeto de simplificar las labores de planeación y ejecución de auditorías;
+
+XIII. Asistir a reuniones del Comité y Subcomité de Adquisiciones y vigilar que los procedimientos de contratación de adquisiciones, arrendamientos y servicios y obra pública, equipamiento, suministros y servicios de la entidad se realicen con apego a las Leyes en la materia;
+
+XIV. Rendir informe trimestral de actividades al Titular del REPSS, y al Secretario de la Contraloría y Transparencia Gubernamental;
+
+XV. Recibir y turnar a la Secretaría de la Contraloría y Transparencia Gubernamental, los escritos que presenten los interesados con motivo de cualquier acto del procedimiento de contratación que contravenga las disposiciones legales vigentes;
+
+XVI. Atender los requerimientos que le formule la Secretaria de la Contraloría y Transparencia Gubernamental derivados de las funciones encomendadas;
+
+XVII. Vigilar que la presentación de la declaración patrimonial de los funcionarios públicos que correspondan, se cumpla en tiempo y forma;
+
+XVIII. Conocer, investigar, desahogar y resolver procedimientos administrativos sobre actos u omisiones a cargo de los servidores públicos que de acuerdo a la Ley de Responsabilidades Administrativas de Baja California le competan;
+
+XIX. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a los servidores públicos del REPSS, cuando se estime conveniente;
+
+XX. Expedir, previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
+
+XXI. Verificar que las unidades administrativas del REPSS, den cumplimiento a las observaciones y recomendaciones que dicten los Órganos de Fiscalización;
+
+XXII. Revisar y comparar los resultados de operación y objetivos previamente establecidos con los alcanzados por el REPSS;
+
+XXIII. Coordinar los actos de entrega-recepción de los funcionarios a cargo de las diferentes áreas que integran al organismo; y
+
+XXIV. Las demás relativas a la competencia de su área y que sean indispensables para el buen desempeño de su función, aquellas que le confieran las disposiciones vigentes aplicables a la materia y todas aquellas que le sean encomendadas por el Secretario de la Contraloría y Transparencia Gubernamental.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE AFILIACIÓN Y OPERACIÓN
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 25.
 
-Corresponde a la Dirección de Promoción y Afiliación, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Afiliación y Operación el ejercicio de las siguientes atribuciones:
 
 I.- Instrumentar normas de operación y procedimientos para la afiliación y reafiliación de familias al REPSS;
 
@@ -277,9 +345,11 @@ XI.- Identificar causas de cancelación o suspensión de servicios a los afiliad
 
 XII.- Las demás que le confieran el Director General, y las disposiciones legales y administrativas aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-Para el debido cumplimiento de sus atribuciones, la Dirección de Promoción y Afiliación, contará con los siguientes departamentos:
+Para el debido cumplimiento de sus atribuciones, la Dirección de Afiliación y Operación contará con los siguientes departamentos:
 
 I.- Departamento de Promoción y Afiliación; y,
 
@@ -305,7 +375,9 @@ VII.- Elaborar el diagnóstico de la infraestructura hospitalaria en el Estado;
 
 VIII.- Identificar y determinar la población susceptible de afiliación al REPSS; y,
 
-IX.- Las demás que confieran el Director de Promoción y Afiliación, y las disposiciones legales y administrativas aplicables.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+IX.- Las demás que le confieran el Director de Afiliación y Operación, y las disposiciones legales y administrativas aplicables.
 
 ###### ARTÍCULO 28.
 
@@ -323,7 +395,9 @@ V.- Mantener actualizada la base de datos de los módulos de afiliación;
 
 VI.- Proponer procedimientos que agilicen la identificación del status de acreditación de los usuarios; y
 
-VII.- Las demás que le confieran el Director de Promoción y Afiliación, y las disposiciones legales y administrativas aplicables.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Las demás que le confieran el Director de Afiliación y Operación, y las disposiciones legales y administrativas aplicables.
 
 #### SECCIÓN III. DE LA DIRECCIÓN DE GESTIÓN DE SERVICIOS DE SALUD
 
@@ -343,7 +417,9 @@ V.- Contribuir en la gestión del financiamiento para los subproyectos estatales
 
 VI.- Diseñar redes de prestadores de servicios médicos en el Estado; así como integrar el diagnóstico de infraestructura hospitalaria en el mismo;
 
-VII.- Participar conjuntamente con la Dirección de Administración y Financiamiento en la definición de las bases para el pago de los servicios de salud, entre el prestador y el REPSS; y,
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Participar conjuntamente con la Dirección de Administración en la definición de las bases para el pago de los servicios de salud, entre el prestador y el REPSS; y,
 
 VIII.- Las demás que le confieran el Director General, y las disposiciones legales y administrativas aplicables.
 
@@ -381,11 +457,15 @@ III.- Realizar la medición basal, el seguimiento de resultados de los acuerdos 
 
 IV.- Las demás que le confieran el Director de Gestión de Servicios de Salud, y las disposiciones legales y administrativas aplicables.
 
-#### SECCIÓN IV. DE LAS DIRECCIÓN DE ADMINISTRACIÓN Y FINANCIAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+#### SECCIÓN IV. DE LA DIRECCIÓN DE ADMINISTRACIÓN
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
-Corresponde a la Dirección de Administración y Financiamiento, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección de Administración el ejercicio de las siguientes atribuciones:
 
 I.- Establecer con la aprobación del Director General, las políticas, normas y procedimientos para la programación, presupuestación, administración, registro y control de los recursos, humanos, materiales y financieros necesarios para el adecuado funcionamiento del REPSS;
 
@@ -401,9 +481,13 @@ VI.- Proponer indicadores para el control, seguimiento y evaluación de los proy
 
 VII.- Participar conjuntamente con la Dirección de Gestión de Servicios de Salud en la definición de las bases para el pago de los servicios de salud, entre el prestador y el REPSS;
 
-VIII.- Controlar el ejercicio presupuestal del REPSS, a través del análisis de transferencias, aplicaciones, modificaciones y supresiones presupuestales;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-IX.- Expedir los nombramientos del personal al servicio del REPSS;
+VIII.- Controlar el ejercicio presupuestal del REPSS, a través del análisis de transferencias, ampliaciones, modificaciones y supresiones presupuestales;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+IX. Expedir los nombramientos del personal del REPSS, cuando sea de su competencia hacerlo, o cuando sea instruido por el Director General;
 
 X.- Recopilar e integrar con la debida oportunidad, la información que se requiera para formular la cuenta pública del REPSS;
 
@@ -411,57 +495,63 @@ XI.- Proponer al Director General el anteproyecto anual del Programa Operativo A
 
 XII.- Presentar al Director General los estados financieros mensuales, para la consolidación oportuna de la información financiera y presupuestal, conforme a la normatividad aplicable;
 
-XIII.- Someter a consideración del Director General el Reglamento Interno, así como los manuales administrativos que regulen la organización, operación y servicios del REPSS; y,
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-XIV.- Las demás que le confieran el Director General, y las disposiciones legales y administrativas aplicables.
+XIII.- Someter a consideración del Director General el proyecto de Reglamento Interno y/o sus modificaciones, así como los manuales administrativos que regulen la organización, operación y servicios del REPSS;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XIV.- Vigilar la elaboración de los contratos del personal al servicio del REPSS enunciando detalladamente las funciones inherentes al cargo que se le haya asignado del catálogo de puestos autorizados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XV.- Ejercer las atribuciones que en materia de transparencia correspondan a la Unidad de Transparencia que señala el artículo 55 y 56 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XVI.- Las demás que le confieran el Director General, y las disposiciones legales administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 34.
 
-Para el debido cumplimiento de sus atribuciones, la Dirección de Administración y Financiamiento, contará con los siguientes departamentos:
+Para el debido cumplimiento de sus atribuciones, la Dirección de Administración, contará con los siguientes departamentos:
 
-I.- Departamento de Administración y Financiamiento; y
+I. Departamento de Recursos Materiales y Servicios Administrativos;
 
-II.- Departamento de Control Financiero y de Gasto.
+II. Departamento de Recursos Financieros; y,
+
+III. Departamento de Recursos Humanos.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 35.
 
-Corresponde al Departamento de Administración y Financiamiento el ejercicio de las siguientes atribuciones:
+Corresponde al Departamento de Recursos Materiales y Servicios Administrativos el ejercicio de las siguientes atribuciones:
 
-I.- Controlar y evaluar el sistema de administración de personal y las relaciones laborales;
+I. Coordinar el proceso de adquisiciones de insumas que requieran las áreas del REPSS, de conformidad con los programas y presupuestos autorizados;
 
-II.- Aplicar los criterios y procedimientos en materia de reclutamiento, selección y capacitación de personal;
+II. Suministrar a las diferentes áreas del REPSS, los materiales y artículos de consumo necesarios para su buen funcionamiento;
 
-III.- Tramitar, controlar y registrar los nombramientos, contrataciones y movimientos de personal, de conformidad con los ordenamientos legales en la materia;
+III. Coordinar y supervisar el control de inventario físico de los bienes muebles e inmuebles con apego a las normas aplicables;
 
-IV.- Difundir las normas laborales internas del REPSS y vigilar su observancia;
+IV. Proporcionar asistencia técnica a las diferentes áreas del REPSS, para la instalación y utilización de equipo de cómputo y comunicaciones;
 
-V.- Coordinar el proceso de adquisiciones de insumos que requieran las áreas del REPSS, de conformidad con los programas y presupuestos autorizados;
+V. Coadyuvar en la optimización de los recursos materiales asignados a las unidades administrativas, coordinándose con instancias normativas para su autorización;
 
-VI.- Suministrar a las diferentes áreas del REPSS, los materiales y artículos de consumo necesarios para su buen funcionamiento;
+VI. Supervisar el trámite de solicitudes de autorización de recursos materiales y mantener registro de las adquisiciones con cargo a los programas que ejerza directamente la entidad;
 
-VII.- Coordinar y supervisar el control de inventario físico de los bienes muebles e inmuebles con apego a las normas aplicables;
+VII. Vigilar y verificar conjuntamente con las instancias administrativas, la existencia del equipo y mobiliario diverso asignado a las unidades de adscripción de acuerdo al calendario elaborado para tales efectos;
 
-VIII.- Coordinar la elaboración e integración del Programa Operativo Anual del REPSS;
+VIII. Supervisar y controlar el mantenimiento al equipo de transporte de las unidades administrativas; y,
 
-IX.- Coordinar y regular el ejercicio programático-presupuestal del REPSS, así como proponer y analizar las transferencias y modificaciones presupuestales correspondientes;
+IX. Las demás que le confieran el Director de Administración y las disposiciones legales y administrativas aplicables.
 
-X.- Realizar el análisis respecto al comportamiento del presupuesto, para atender las variaciones que reflejen las partidas, entre lo presupuestado y lo ejercido;
-
-XI.- Programar el egreso y realizar los pagos autorizados, observando los requisitos fiscales en documentación fuente;
-
-XII.- Integrar, verificar y registrar la documentación contable que genere el REPSS;
-
-XIII.- Definir y supervisar el sistema de contabilidad implantando las políticas de control contable interno;
-
-XIV.- Conducir las acciones necesarias para la elaboración y actualización del Reglamento Interno y los manuales administrativos del REPSS;
-
-XV.- Proporcionar asistencia técnica a las diferentes áreas del REPSS, para la instalación y utilización de equipo de cómputo y comunicaciones; y,
-
-XVI.- Las demás que le confiera el Director de Administración y Financiamiento, y las disposiciones legales y administrativas aplicables.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 36.
 
-Corresponde al Departamento de Control Financiero y de Gasto el ejercicio de las siguientes atribuciones:
+Corresponde al Departamento de Recursos Financieros el ejercicio de las siguientes atribuciones:
 
 I.- Integrar y validar la información financiera del REPSS;
 
@@ -477,9 +567,79 @@ VI.- Atender las observaciones que finquen los órganos de control y fiscalizaci
 
 VII.- Formular mensualmente los estados financieros del REPSS;
 
-VIII.- Controlar, registrar y tramitar los gasto elegibles susceptibles de desembolso; y,
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-IX.- Las demás que le confieran el Director de Administración y Financiamiento, y las disposiciones legales y administrativas aplicables.
+VIII.- Controlar, registrar y tramitar los gastos elegibles susceptibles de desembolso;
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+IX.- Coordinar la elaboración e integración del Programa Operativo Anual del REPSS;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+X.- Coordinar y regular el ejercicio programático-presupuestal del REPSS, así como proponer y analizar las transferencias y modificaciones presupuestales correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XI.- Realizar el análisis respecto al comportamiento del presupuesto, para atender las variaciones que reflejen las partidas, entre lo presupuestado y lo ejercido;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XII.- Programar el egreso y realizar los pagos autorizados, observando los requisitos fiscales en documentación fuente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XIII.- Integrar, verificar y registrar la documentación contable que genere el REPSS;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XIV.- Definir y supervisar el sistema de contabilidad implantando las políticas de control contable interno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XV.- Reintegrar los recursos en numerario de carácter federal que no haya ejercido o comprobado su destino a los fines específicos para los que le fueron transferidos o entregados, en los términos del artículo 77 bis 16, párrafo tercero de la Ley General de Salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XVI.- Rendir cuentas respecto de los recursos que reciban, en términos de la Ley General de Salud y su Reglamento en Materia de Protección Social en Salud, para la operación del Sistema de Protección Social en Salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XVII.- Entregar la información que las autoridades federales o locales competentes les soliciten respecto de los recursos que reciban, así como sobre su ejercicio; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XVIII.- Las demás que le confieran el Director de Administración y las disposiciones legales y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 36 BIS.- Corresponde al Departamento de Recursos Humanos el ejercicio de las siguientes atribuciones:
+
+I. Controlar y evaluar el sistema de administración de personal y las relaciones laborales;
+
+II. Aplicar los criterios y procedimientos en materia de reclutamiento, selección y capacitación de personal;
+
+III. Elaborar, controlar, ejecutar y dar seguimiento a los programas y acciones de capacitación, tendientes a promover el desempeño eficiente y el desarrollo del personal del REPSS, buscando la profesionalización del recurso humano al servicio del REPSS;
+
+IV. Establecer y supervisar los programas para prever riesgos de trabajo, con la finalidad de cuidar la salud y la seguridad de los colaboradores del REPSS
+
+V. Tramitar, controlar y registrar los nombramientos, contrataciones y movimientos de personal, de conformidad con los ordenamientos legales en la materia;
+
+VI. Determinar y revisar las erogaciones por remuneraciones al personal, así como las obligaciones que éstas generen ante las instituciones fiscales y sociales;
+
+VII. Vigilar y verificar la asistencia del personal asignado a las unidades de adscripción, de acuerdo al calendario laboral y llevando el control de incidencias del personal.;
+
+VIII. Integrar y actualizar los expedientes del personal, así como coadyuvar en la logística de programas especiales orientados al recurso humano del REPSS;
+
+IX. Difundir las normas laborales internas del REPSS y vigilar su observancia;
+
+X. Conducir las acciones necesarias para la elaboración y actualización del Reglamento Interno y los manuales administrativos del REPSS;
+
+XI. Participar en la formulación del anteproyecto de presupuesto anual de unidades administrativas integrantes del REPSS, en materia de servicios personales y recursos materiales, de conformidad a los lineamientos establecidos para tales efectos;
+
+XII. Elaborar los contratos del personal al servicio del REPSS enunciando detalladamente las funciones inherentes al cargo que se le haya asignado del catálogo de puestos autorizados; y,
+
+XIII. Las demás que le confieran el Director de Administración y las disposiciones legales y administrativas aplicables.
 
 ### CAPÍTULO IV. DE LAS FACULTADES Y OBLIGACIONES DE LOS TITULARES
 
@@ -527,7 +687,9 @@ X.- Suscribir los documentos relativos al ejercicio de sus facultades que le con
 
 XI.- Organizar e instrumentar los programas y acciones encomendados a las unidades administrativas que integran la Dirección a su cargo;
 
-XII.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas de su adscripción de acuerdo con los requerimientos técnicos de la función, conforme a las disposiciones aplicables y a los lineamientos que determine este Reglamento y el propio titular del REPSS;
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XII.- Dirigir y supervisar a las unidades administrativas bajo su adscripción a efecto de promover su adecuado funcionamiento y que éste se desarrolle con apego a los requerimientos técnicos de las funciones encomendadas, las disposiciones aplicables y a los lineamientos que determine este Reglamento y el propio titular del REPSS;
 
 XIII.- Someter a la aprobación del Director General los estudios y proyectos de trascendencia que se elaboren en el área de su responsabilidad;
 
@@ -579,9 +741,11 @@ Las ausencias temporales del Director General que no excedan de quince días ser
 
 Las ausencias temporales de los Directores de Área que no excedan de quince días serán suplidas por el Jefe de Departamento que éstos designen con la autorización del Director General, y en aquellas que excedan del tiempo antes citado, su suplente será designado por el Director General.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 42.
 
-Las ausencias temporales de Jefes de Departamento que no excedan de quince días serán suplidas por el subalterno inmediato con autorización del Director de Área, y en aquellas que excedan del tiempo antes citado, su suplente será designado por el Director del Área al que se encuentra adscrito.
+Las ausencias temporales de los jefes de Departamento que no excedan de quince días serán suplidas por el subalterno inmediato con autorización del Director de Área, y en aquellos que excedan del tiempo antes citado, su suplente será designado por el Director del Área al que se encuentre adscrito; a excepción de la Contraloría Interna, toda vez que esta sus ausencias serán suplida (sic) por quien designe el Titular de la Secretaría de la Contraloría y Transparencia Gubernamental.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -604,3 +768,11 @@ BERNARDO MARTÍNEZ AGUIRRE
 SECRETARIO DE SALUD
 
 FRANCISCO VERA GONZÁLEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 20, 24, 25, 26, 27, 28, 29, 33, 4, 35, 36, 38, 42 Y SE ADICIONAN LOS ARTÍCULOS 24 BIS, 24 TER, 36 BIS, DEL REGLAMENTO INTERNO DEL RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
