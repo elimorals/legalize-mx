@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2016-05-02"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1 DE OCTUBRE DE 2016.]</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -35,7 +33,9 @@ Rolando Rodrigo Zapata Bello, gobernador del estado de Yucatán, con fundamento 
 
 “EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 Y 34 FRACCIÓN XIII DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE LA SIGUIENTE;
 
-EXPOSICIÓN DE MOTIVOS:…
+EXPOSICIÓN DE MOTIVOS:
+
+[...]
 
 En tal virtud con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción III de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -61,9 +61,13 @@ I. Consejo estatal: el Consejo Estatal de Seguridad Pública.
 
 II. Consejos municipales: los consejos municipales de seguridad pública.
 
-III. Instituciones de seguridad pública: las instituciones policiales y la Fiscalía General del Estado.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-IV. Instituciones policiales: la Policía estatal, las policías municipales, la Policía Ministerial Investigadora y los cuerpos de seguridad y custodia de los centros de reinserción social y de aplicación de medidas para adolescentes, y de vigilancia de las audiencias judiciales.
+III. Instituciones de seguridad pública: las instituciones policiales, la Fiscalía General del Estado y la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso.
+
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+IV. Instituciones policiales: la Policía estatal, las policías municipales y los cuerpos de seguridad y custodia de los centros de reinserción social y de aplicación de medidas para adolescentes, y de vigilancia de las audiencias judiciales.
 
 V. Ley general: la Ley General del Sistema Nacional de Seguridad Pública.
 
@@ -387,6 +391,14 @@ VIII. Propiciar que los programas y las acciones que implementen las institucion
 
 IX. Gestionar la celebración de eventos académicos que difundan y promuevan la prevención del delito.
 
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+X. Propiciar la coordinación interinstitucional para el cumplimiento de los propósitos establecidos en el artículo 266 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, relacionados con la función preventiva de la comunidad.
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XI. Desarrollar políticas públicas y programas interdisciplinarios de prevención social de la violencia y la delincuencia para personas adolescentes, con base en los criterios y las disposiciones establecidos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
 ###### Artículo 27.
 
 Nombramiento
@@ -451,7 +463,19 @@ Obligaciones
 
 Los integrantes de las instituciones de seguridad pública tendrán las obligaciones establecidas en el artículo 40 de la ley general.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Además de las obligaciones establecidas en el párrafo anterior, los integrantes de las instituciones de seguridad pública que intervengan en la detención de alguna persona adolescente tendrán las dispuestas en el artículo 74 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
 Adicionalmente, los integrantes de las instituciones policiales tendrán las obligaciones específicas establecidas en el artículo 41 de la ley general.
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 31 Bis.
+
+Especialización en materia de justicia para adolescentes
+
+Las policías que actúen como auxiliares del Ministerio Público deberán acreditar los conocimientos y las habilidades dispuestos en el artículo 64 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ###### Artículo 32.
 
@@ -487,11 +511,15 @@ Funciones
 
 Las instituciones policiales del estado desempeñarán las siguientes funciones:
 
-I. Prevención, que consiste en evitar y disminuir la comisión de delitos e infracciones administrativas.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+I. Prevención, que consiste en evitar la comisión de delitos e infracciones administrativas, a través de acciones de investigación, inspección, vigilancia y vialidad en su circunscripción.
 
 II. Reacción, que consiste en mantener y restablecer, en su caso, la paz y el orden públicos.
 
-III. Investigación, que, en términos del artículo 213 del Código Nacional de Procedimientos Penales, consiste en reunir indicios para el esclarecimiento de los hechos.
+> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+III. Investigación, que será aplicable ante la preservación de la escena de un hecho probablemente delictivo; la petición al Ministerio Público para la realización de actos de investigación de los delitos, debiendo actuar bajo mando y conducción de este; los actos que se deban efectuar de forma inmediata; o la comisión de un delito en flagrancia.
 
 ###### Artículo 36.
 
@@ -1155,6 +1183,14 @@ Compatibilidad de los servicios de telecomunicaciones
 
 El estado y los municipios, en el ámbito de sus respectivas competencias, deberán destinar los recursos financieros e implementar las acciones necesarias para lograr la compatibilidad de sus servicios de telecomunicaciones y registros con los del sistema nacional.
 
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 95 Bis.
+
+Deber de colaboración
+
+Las instituciones de seguridad pública deberán, mediante los instrumentos y mecanismos correspondientes, recopilar, integrar, sistematizar, analizar y transferir la información necesaria para la actualización y el desarrollo de los registros y las bases de datos nacionales y estatales, así como del Sistema Nacional de Información Estadística del Sistema Integral de Justicia Penal para Adolescentes.
+
 ###### Artículo 96.
 
 Registros administrativos
@@ -1168,6 +1204,10 @@ II. El Registro Estatal de Personal de Seguridad Pública.
 III. El Registro Estatal de Armamento y Equipo.
 
 IV. El Registro Estatal de Indicadores sobre Seguridad Pública.
+
+> <small>(ADICIONADA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+V. El Registro Estatal de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada.
 
 ### Capítulo II. Registros administrativos
 
@@ -1309,6 +1349,26 @@ Utilidad
 
 Las instituciones de seguridad pública deberán considerar la información del Registro Estatal de Indicadores sobre Seguridad Pública en la definición de objetivos, políticas, estrategias y líneas de acción en la materia.
 
+> <small>(ADICIONADA CON AL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+#### Sección quinta. Registro Estatal de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada
+
+> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 109 Bis.
+
+Integración
+
+El Registro Estatal de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada estará integrado, al menos, por la siguiente información:
+
+I. Las medidas cautelares impuestas a un imputado, especificando su fecha de inicio y término, los delitos por los que se le impuso y, en su caso, el incumplimiento o modificación de esta.
+
+II. La suspensión condicional del proceso aprobada por el juez de control, especificando los nombres de las partes, el tipo de delito, las condiciones impuestas por este y su cumplimiento o incumplimiento.
+
+III. Los acuerdos reparatorios que se realicen, especificando los nombres de las partes, el tipo de delito, la autoridad que los sancionó y su cumplimiento o incumplimiento.
+
+IV. La sustanciación de un procedimiento abreviado, especificando los nombres de las partes, el tipo de delito y la sanción impuesta.
+
 ## TÍTULO SEXTO. Servicios de seguridad privada
 
 ### Capítulo único
@@ -1392,3 +1452,51 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 543/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN; EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN; LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN; LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN; LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN; LA LEY DE SALUD DEL ESTADO DE YUCATÁN; Y LA LEY DE PREVENCIÓN DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHÓLICAS Y TABACO DEL ESTADO, EN MATERIA DE ARMONIZACIÓN CON LA MISCELÁNEA PENAL; EJECUCIÓN PENAL Y JUSTICIA PARA ADOLESCENTES".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado, con excepción de los artículos séptimo y octavo, los cuales entrarán en vigor en los términos dispuestos por el artículo transitorio quinto de este mismo decreto.
+
+Segundo. Abrogación
+
+Se abrogan, la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Yucatán, publicada el 10 de junio de 2011 en el diario oficial del estado, y la Ley de Justicia para Adolescentes del Estado de Yucatán, publicada en el diario oficial del estado el 21 de octubre de 2011.
+
+Estas abrogaciones serán en los términos de las leyes federales correspondientes, es decir, la primera abrogación en términos del artículo transitorio tercero, párrafo primero, del Decreto por el que se expide la Ley Nacional de Ejecución Penal; se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del artículo 225 del Código Penal Federal; y la segunda abrogación en términos del artículo transitorio segundo, párrafo segundo, del Decreto por el que se expide la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+Tercero. Regulación de la autoridad administrativa
+
+El gobernador deberá regular al órgano especializado en la ejecución de medidas para adolescentes en un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social de adolescentes en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Modificaciones a las leyes de salud y de prevención de adicciones
+
+Las modificaciones efectuadas a la Ley de Salud del Estado de Yucatán y a la Ley de Prevención de las Adicciones y el Consumo Abusivo de Bebidas Alcohólicas y Tabaco del Estado, a través de los artículos séptimo y octavo de este decreto, respectivamente, entrarán en vigor el 16 de junio de 2018.
+
+Sexto. Regulación de la autoridad penitenciaria
+
+El gobernador deberá regular a la autoridad penitenciaria en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Séptimo. Regulación de la autoridad encargada de la supervisión
+
+El gobernador deberá regular a la autoridad encargada de la supervisión de la libertad condicionada en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Octavo. Regulación de la policía procesal
+
+El gobernador deberá regular a la policía procesal en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Décimo. Previsiones presupuestales
+
+El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
