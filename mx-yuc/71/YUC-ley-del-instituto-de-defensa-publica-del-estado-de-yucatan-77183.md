@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-instituto-de-defensa-publica-del-estado-de-yucatan-7718
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2016-12-28"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el viernes 5 de noviembre de 2010.
 
@@ -105,9 +105,9 @@ I. Proporcionar defensa penal de alta calidad profesional y gratuita a las perso
 
 II. Velar por la igualdad ante la ley, por el debido proceso y por la dignidad humana de los representados;
 
-> <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-III. Representar y defender legalmente a los adolescentes, en los términos de la Ley de Justicia para Adolescentes del Estado de Yucatán, y
+III. Representar y defender legalmente a los adolescentes, en términos de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, y
 
 IV. Asesorar en asuntos civiles, familiares, administrativos, mercantiles y de amparo a quienes así lo soliciten y que no se encuentren en condiciones de retribuir los servicios de un abogado postulante.
 
@@ -119,7 +119,9 @@ I. Defensores públicos, en los ·asuntos del orden del derecho penal, desde la 
 
 II. Asesores jurídicos, en asuntos relativos a cualquier otra rama del derecho diversa a la penal, salvo los expresamente otorgados por ley a otras instituciones.
 
-Para las personas que tengan entre 12 años cumplidos y menos de 18 años de edad, a las que se les atribuya o se les declare responsables de conductas tipificadas como delitos en las disposiciones penales del Estado, se designará un Defensor Público especializado en justicia para adolescentes.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+A las personas que tengan entre doce y dieciocho años de edad, y que se les considere como posibles responsables de la comisión de un hecho tipificado como delito, se les asignará un Defensor Público especializado en justicia para adolescentes, quien deberá acreditar los conocimientos y las habilidades dispuestos en el artículo 64 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ###### Artículo 7.
 
@@ -189,7 +191,9 @@ XIII. Promover y organizar programas de difusión de los servicios que presta;
 
 XIV. Promover la capacitación, actualización y especialización de los servidores públicos del Instituto, y
 
-XV. Las demás que le otorguen esta Ley y demás disposiciones reglamentarias y normativas.
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XV. Las demás que establezcan el Código Nacional de Procedimientos Penales, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 12.
 
@@ -408,6 +412,10 @@ XXVII. Guardar el secreto profesional en el desempeño de sus funciones, y
 > <small>(REFORMADA, D.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 XXVIII. Las demás que permitan una defensa adecuada en los términos de la ley de la materia y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Los defensores especializados en justicia para adolescentes tendrán, además de las facultades y obligaciones establecidas en este artículo, las dispuestas en el artículo 67 de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ###### Artículo 21.
 
@@ -960,3 +968,49 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, Índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 543/2017 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN; EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN; LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN; LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA; LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN; LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN; LA LEY DE SALUD DEL ESTADO DE YUCATÁN; Y LA LEY DE PREVENCIÓN DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHÓLICAS Y TABACO DEL ESTADO, EN MATERIA DE ARMONIZACIÓN CON LA MISCELÁNEA PENAL; EJECUCIÓN PENAL Y JUSTICIA PARA ADOLESCENTES".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado, con excepción de los artículos séptimo y octavo, los cuales entrarán en vigor en los términos dispuestos por el artículo transitorio quinto de este mismo decreto.
+
+Segundo. Abrogación
+
+Se abrogan, la Ley de Ejecución de Sanciones y Medidas de Seguridad del Estado de Yucatán, publicada el 10 de junio de 2011 en el diario oficial del estado, y la Ley de Justicia para Adolescentes del Estado de Yucatán, publicada en el diario oficial del estado el 21 de octubre de 2011.
+
+Estas abrogaciones serán en los términos de las leyes federales correspondientes, es decir, la primera abrogación en términos del artículo transitorio tercero, párrafo primero, del Decreto por el que se expide la Ley Nacional de Ejecución Penal; se adicionan las fracciones XXXV, XXXVI y XXXVII y un quinto párrafo, y se reforma el tercer párrafo del artículo 225 del Código Penal Federal; y la segunda abrogación en términos del artículo transitorio segundo, párrafo segundo, del Decreto por el que se expide la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+Tercero. Regulación de la autoridad administrativa
+
+El gobernador deberá regular al órgano especializado en la ejecución de medidas para adolescentes en un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social de adolescentes en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Modificaciones a las leyes de salud y de prevención de adicciones
+
+Las modificaciones efectuadas a la Ley de Salud del Estado de Yucatán y a la Ley de Prevención de las Adicciones y el Consumo Abusivo de Bebidas Alcohólicas y Tabaco del Estado, a través de los artículos séptimo y octavo de este decreto, respectivamente, entrarán en vigor el 16 de junio de 2018.
+
+Sexto. Regulación de la autoridad penitenciaria
+
+El gobernador deberá regular a la autoridad penitenciaria en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Séptimo. Regulación de la autoridad encargada de la supervisión
+
+El gobernador deberá regular a la autoridad encargada de la supervisión de la libertad condicionada en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Octavo. Regulación de la policía procesal
+
+El gobernador deberá regular a la policía procesal en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Noveno. Regulación de la comisión intersecretarial
+
+El gobernador deberá regular a la comisión intersecretarial para la reinserción social en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Décimo. Previsiones presupuestales
+
+El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
