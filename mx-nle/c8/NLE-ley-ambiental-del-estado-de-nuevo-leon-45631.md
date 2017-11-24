@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2017-11-01"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY AMBIENTAL DEL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE NOVIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE NOVIEMBRE DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -105,9 +105,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Actividad que no es considerada como altamente riesgosa: Toda acción u omisión que ponga en peligro la integridad de los seres vivos y del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen y que no están consideradas como altamente riesgosas por la Federación, de acuerdo a la Ley General y demás ordenamientos ambientales aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017) (F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)
 
-II. Actividad de explotación y aprovechamiento de materiales no reservados a la Federación: Trabajos destinados a la preparación y desarrollo del área que comprende el yacimiento del material, que culmina con la extracción de los recursos minerals (sic) y sustancias no reservadas a la Federación que constituyan depósitos de naturaleza similar a los componentes naturales, tales como rocas o productos de su descomposición;
+II. Actividad de explotación y aprovechamiento de materiales no reservados a la Federación: Trabajos destinados a la preparación y desarrollo del área que comprende el yacimiento del material, que culmina con la extracción de los recursos minerales y sustancias no reservadas a la Federación que constituyan depósitos de naturaleza similar a los componentes naturales, tales como rocas o productos de su descomposición;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -239,7 +239,7 @@ XXXIV. Ecoeficiencia: Forma de cumplimiento ambiental que se sustenta en mecanis
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
-XXXV. Ecología: (Del griego “oicos” = casa y “logos”= tratado). Ciencia que estudia la distribución e interacción de los seres vivos entre sí y con su entorno o medio ambiente;
+XXXV. Ecología: (Del griego "oicos" = casa y "logos"= tratado). Ciencia que estudia la distribución e interacción de los seres vivos entre sí y con su entorno o medio ambiente;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -253,9 +253,9 @@ XXXVII. Ecoturismo: Son las actividades encaminadas a la distracción, esparcimi
 
 XXXVIII. Educación ambiental: El proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la enseñanza, adquisición y asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017) (F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)
 
-XXXIX. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la coeistencia (sic), transformación y desarrollo del hombre y demás seres vivos;
+XXXIX. Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la coexistencia, transformación y desarrollo del hombre y demás seres vivos;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -265,9 +265,9 @@ XL. Elemento natural: Los elementos físicos, químicos y biológicos que se pre
 
 XLI. Emisiones a la atmósfera: La descarga directa o indirecta a la atmósfera de toda sustancia o energía, en cualquiera de sus estados físicos y formas;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017 (F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-XLII. Emiiones (sic) fugitivas: Emisión a la atmósfera generada durante el aprovechamiento, por no existir medios para su captura, tratamiento y conducción a la atmósfera;
+XLII. Emisiones fugitivas: Emisión a la atmósfera generada durante el aprovechamiento, por no existir medios para su captura, tratamiento y conducción a la atmósfera;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -2063,13 +2063,9 @@ IV. Controlar y disponer adecuadamente de sus residuos y evitar su propagación 
 
 V. Llevar a cabo las disposiciones que en materia de control de contingencias ambientales establezca la Secretaría, de conformidad con los planes preventivos que expida; y
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017)</small>
+(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2017) (F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)
 
-VI. Presentar proyecto para la restauración del área ya explotada en donde se desarrollen las obras o actividades que se establecen en el presente capítulo, el cual se deberá ejecutar una vez que se dejen de realizar las actividades mencionadas por más de 12 meses o
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE NOVIEMBRE DE 2017)</small>
-
-VII. que concluya la vida útil del banco o yacimiento aprovechado.
+VI. Presentar proyecto para la restauración del área ya explotada en donde se desarrollen las obras o actividades que se establecen en el presente capítulo, el cual se deberá ejecutar una vez que se dejen de realizar las actividades mencionadas por más de 12 meses o que concluya la vida útil del banco o yacimiento aprovechado.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2017)</small>
 
@@ -2119,7 +2115,9 @@ XVI. Instalar a la salida del establecimiento, un sistema automático para el hu
 
 XVII. Realizar operaciones diarias de orden y limpieza, retirando excesos de materiales en los caminos o a la orilla de los mismos, así como en el interior del área donde se realiza el aprovechamiento;
 
-XVIII. En el interior del inmueble se deberá restringir preferentemente el tránsito de vehículos ligeros, dando preferencia a los camiones de carga, a fin de minimizar el número de vehículos en circulación y colocar señalamiento (sic) visuales, para minimizar los recorridos y establecer límites de velocidad;
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XVIII. En el interior del inmueble se deberá restringir preferentemente el tránsito de vehículos ligeros, dando preferencia a los camiones de carga, a fin de minimizar el número de vehículos en circulación y colocar señalamientos visuales, para minimizar los recorridos y establecer límites de velocidad;
 
 XIX. Ubicar el área de mantenimiento de vehículos lo más retirada posible, de las áreas de apilamiento de materiales y de las áreas sin pavimentar; y
 
