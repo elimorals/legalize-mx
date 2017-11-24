@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2016-12-28"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -135,11 +135,13 @@ Derecho a la igualdad de los hijos o hijas
 
 Los hijos o hijas, cualquiera que sea la vinculación entre sus progenitores, son iguales ante la ley y tienen derecho a la identidad, por lo que pueden reclamar su filiación y exigir informes sobre su origen genético en los casos y con las condiciones establecidas en este Código y demás disposiciones legales aplicables.
 
-Derechos de las niñas, niños y adolescentes y de las personas incapaces
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Derechos de las Niñas, Niños y Adolescentes y de las Personas con discapacidad intelectual, mental o psicosocial
 
 ###### Artículo 12.
 
-La edad menor de dieciocho años, el estado de interdicción y las demás incapacidades establecidas por la ley, constituyen restricciones a la capacidad jurídica de las personas; pero las niñas, niños y adolescentes o las personas incapaces pueden ejercer derechos y contraer obligaciones por medio de sus representantes.
+La edad menor de dieciocho años, el estado de interdicción y las demás incapacidades establecidas por la ley, constituyen restricciones a la capacidad jurídica de las personas; pero las niñas, niños y adolescentes o las personas con discapacidad intelectual, mental o psicosocial o en estado de interdicción pueden ejercer derechos y contraer obligaciones por medio de sus representantes.
 
 Estados de familia
 
@@ -2323,11 +2325,13 @@ Ingreso al ejercicio de la patria potestad
 
 Sólo por muerte o interdicción, sentencia judicial o ausencia del padre y de la madre, deben entrar en ejercicio de la patria potestad alguna de las personas establecidas en la fracción II del artículo 278 de este Código.
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 Estado de interdicción
 
 ###### Artículo 282.
 
-En el caso de incapacitados por razones mentales, quienes ejerzan la patria potestad deben solicitar al juez que declare su interdicción al llegar a los dieciocho años de edad. Mientras no se haga la declaración respectiva, quedan obligados a responder por los daños y perjuicios que causen a sus hijos o hijas en la administración de sus bienes.
+En el caso de personas con discapacidad intelectual, mental, o psicosocial, quienes ejerzan la patria potestad deben solicitar al juez que declare su interdicción al llegar a los dieciocho años de edad. Mientras no se haga la declaración respectiva, quedan obligados a responder por los daños y perjuicios que causen a sus hijos o hijas en la administración de sus bienes.
 
 Protección y asistencia de los abuelos en situaciones de abandono, peligro o riesgo
 
@@ -3379,7 +3383,9 @@ Cuentan con capacidad de goce, pero no con capacidad de ejercicio, y por lo tant
 
 I. Las niñas, niños y adolescentes;
 
-II. Las personas mayores de edad que padezcan algún trastorno mental, aun cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+II. Las personas con discapacidad intelectual, psicosocial o mentales mayores de edad, aun cuando tengan intervalos lúcidos;
 
 III. Las personas mayores de edad sordomudas que no sepan leer ni escribir;
 
@@ -3481,9 +3487,11 @@ Los oficiales del Registro Civil así como las demás autoridades administrativa
 
 Tutela de mayores de edad
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 425.
 
-Ninguna tutela en relación a una persona mayor de edad puede concederse sin que previamente el juez declare que la persona no cuenta con capacidad de ejercicio.
+Ninguna tutela en relación a una persona mayor de edad puede concederse sin que previamente el juez escuche a la persona con discapacidad intelectual, psicosocial o mental y evalué el grado de discapacidad y apoyos que requiere a través de un peritaje interdisciplinario realizado por dos o más profesionales de la salud mental y psicosocial, así como de educación.
 
 Lo dispuesto en el párrafo anterior no aplica respecto de las personas que desde la minoría de edad se encuentran bajo la tutela y al cumplir dieciocho años no cuentan aún con capacidad de ejercicio, pues en este caso, quienes ejercen la patria potestad continúan desempeñando la tutela temporalmente, hasta en tanto el juez le designe tutor interino o definitivo al pupilo, una vez promovida la declaración del estado de interdicción.
 
@@ -3493,15 +3501,33 @@ Estado de interdicción de personas mayores de edad
 
 Deben ser declaradas en estado de interdicción por autoridad judicial, al cumplir la mayoría de edad, las personas que:
 
-I. Padezcan algún trastorno mental, aun cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+I. Que por causa de enfermedad reversible o irreversible o por condición de discapacidad intelectual, psicosocial o mental, aun cuando tengan intervalos lúcidos; necesiten de apoyos para proteger a la persona o sus bienes;
 
 II. Sean sordomudas que no sepan leer ni escribir, o
 
 III. Sean ebrios consuetudinarios o adictos a drogas prohibidas por la Ley.
 
-Para efectos de este Código, el estado de interdicción es una restricción impuesta por el juez a una persona mayor de edad, a causa de una discapacidad intelectual, por la cual queda privada de su capacidad de ejercicio para realizar actos jurídicos.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-El estado de interdicción sólo cesa por la muerte de la persona incapaz, o por sentencia dictada por el juez.
+Para efectos de este Código, el estado de interdicción es una restricción excepcional a la capacidad impuesta por el juez a una persona mayor de edad, a causa de una discapacidad intelectual, mental o psicosocial por la cual queda privada de sus (sic) capacidad de ejercicio para realizar actos jurídicos.
+
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+El juez al declarar el estado de interdicción deberá guiarse por los siguientes principios.
+
+I. El respeto de la dignidad de la persona;
+
+II. La igualdad y la no discriminación;
+
+III. La autonomía y autodeterminación de la persona, así como la toma de decisiones en nombre propio, y
+
+IV. El respeto a los deseos, preferencias y voluntad de la persona.
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+El estado de interdicción sólo cesa por la muerte del pupilo, o por sentencia dictada por el juez.
 
 Nombramiento de tutor interino
 
@@ -3509,9 +3535,13 @@ Nombramiento de tutor interino
 
 Promovida la declaración del estado de interdicción, el juez, debe proceder a nombrar tutor interino.
 
-Para efectos del párrafo anterior, el juez debe dictar provisionalmente las medidas que estime conducentes para proteger la persona y bienes de quien no cuente con capacidad de ejercicio, hasta que se nombre tutor definitivo.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-También se debe nombrar tutor interino cuando fallezca quien desempeñaba la tutela y en el caso contemplado en la fracción II del artículo 56 de este Código.
+Para efectos del párrafo anterior; el juez debe dictar provisionalmente las medidas que estime conducentes para proteger la persona y bienes de quien esté sujeto al procedimiento, hasta que se nombre tutor definitivo. También se debe nombrar tutor interino cuando fallezca quien desempeñaba la tutela.
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+En cualquier caso, para la ocupación del cargo de tutor en cualquiera de sus modalidades, se dará preferencia al individuo de confianza señalado por la persona que se pretende interdictar.
 
 Remoción del cargo de tutor y curador
 
@@ -7312,3 +7342,11 @@ Este decreto entrará en vigor al día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 545/2017 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
