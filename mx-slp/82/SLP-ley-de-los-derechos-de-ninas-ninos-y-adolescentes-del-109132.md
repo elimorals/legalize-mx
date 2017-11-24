@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109132"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-27"
-last_updated: "2015-12-26"
+last_updated: "2017-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 24 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 27 de julio de 2015.
 
@@ -33,7 +35,9 @@ DECRETO 1167
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS …
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ÚNICO. Se EXPIDE la Ley de los Derechos de Niñas, Niños, y Adolescentes del Estado de San Luis Potosí, para quedar como sigue:
 
@@ -2113,7 +2117,7 @@ III. Apercibimiento de buena conducta del menor, así como de los padres, tutore
 
 Cuando la infracción sea considerada como grave por el Código Penal del Estado, el Consejo determinará el internamiento en la escuela de adaptación social “Ángel Silva”, dependiente de dicha institución, respetando los derechos consignados en la presente Ley.
 
-## TÍTULO DÉCIMO. DE LAPROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS, ADOLESCENTES, LA MUJER, LA FAMILIA Y EL ADULTO MAYOR
+## TÍTULO DÉCIMO. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS, ADOLESCENTES, LA MUJER, LA FAMILIA Y EL ADULTO MAYOR
 
 ### CAPÍTULO ÚNICO
 
@@ -2435,8 +2439,16 @@ Lic. José Eduardo González Sierra
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE DICIEMBRE DE 2015.
 
 ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 743.- LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. La Ley que se expide mediante este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí, publicada mediante Decreto Legislativo No. 1167, en el Periódico Oficial del Estado, edición extraordinaria, el lunes 27 de julio de 2015.
