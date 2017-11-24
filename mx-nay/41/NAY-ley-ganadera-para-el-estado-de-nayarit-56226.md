@@ -4,7 +4,7 @@ identifier: "NAY-ley-ganadera-para-el-estado-de-nayarit-56226"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2016-11-08"
+last_updated: "2017-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "NAY"
 LEY GANADERA PARA EL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE NOVIEMBRE DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 4 de julio de 2007.
 
@@ -97,7 +99,7 @@ VI. Avicultura.- La cría, reproducción, mejoramiento y explotación de las esp
 
 VII. Comisión.- Comisión Estatal de Fomento Ganadero;
 
-VIII. Criador.- Quien se dedique a la cría, reproducción y explotación de ganado de su propiedad con registro en las asociaciones de criadores respectiva;
+VIII. Criador.- Quien se dedique a la cría, reproducción y explotación de ganado de su propiedad con registro en las asociaciones de criadores respectiva (sic);
 
 IX. Especies diversas.- Las especies que constituyen una explotación zootécnica económica no numerada;
 
@@ -1267,9 +1269,11 @@ Se declara obligatoria la vacunación de ganado, para prevenir enfermedades infe
 
 De no cumplir el propietario con lo antes señalado, la autoridad municipal o el inspector correspondiente verificarán que se vacune el ganado a cuenta de su dueño, sin perjuicio de la sanción a que se haga acreedor por infringir lo dispuesto en el párrafo anterior.
 
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 160.
 
-Los médicos veterinarios o practicantes avalados por un Médico veterinario titulado, deberán extender un certificado en el que se haga constar el nombre del propietario del ganado, la especie de éste, el número de cabezas y la enfermedad contra la que se haya aplicado la vacunación respectiva.
+Los médicos Veterinarios o practicantes avalados por un Médico veterinario titulado, deberán extender un certificado en el que se haga constar el nombre del propietario del ganado, la especie de este, el número de cabezas y la enfermedad contra la que se haya aplicado la vacunación respectiva.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
@@ -1413,7 +1417,7 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la
 
 Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veinticinco días del mes de junio del año dos mil siete.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 16 DE MARZO DE 2013.
 
