@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-responsabilidades-administrativas-del-estado-de-122695"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2017-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -105,19 +105,27 @@ XIV. Faltas administrativas dolosas: las acciones y omisiones que se refieren en
 
 XV. Informe de Probable Responsabilidad Administrativa: El instrumento igualmente previsto en la fracción XVIII del artículo 3 de la Ley General, en el que las autoridades investigadoras describen los hechos relacionados con alguna de las faltas señaladas en la presente Ley, exponiendo de forma documentada con las pruebas y fundamentos, los motivos y la probable responsabilidad del Servidor Público o de un particular en la comisión de Faltas administrativas;
 
-XVI. Ley: la Ley de Responsabilidades Administrativas y Combate a la Corrupción del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Ley: la Ley de Responsabilidades Administrativas del Estado de Yucatán;
 
 XVII. Ley General: la Ley General de Responsabilidades Administrativas;
 
 XVIII. Organismos Autónomos: El Instituto Electoral y de Participación Ciudadana del Estado de Yucatán, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, el Tribunal Electoral del Estado de Yucatán, el Tribunal de Justicia Administrativa del Estado de Yucatán, la Comisión de Derechos Humanos del Estado de Yucatán y los demás que se establezcan como tales en la Constitución del Estado;
 
-XIX. Órganos de Control: Las unidades administrativas a que se hacen referencia las fracciones XX, XXI y XXII del presente artículo.
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XIX. Órganos de Control: Las unidades administrativas a que se hacen referencia las fracciones XX, XXI, XXII, XII BIS del presente artículo.
 
 XX. Órganos de Control en la Contraloría del Estado: Las unidades administrativas asignadas a las dependencias y entidades que fungen como autoridad investigadora de la Contraloría del Estado, con atribuciones para promover, evaluar y fortalecer el buen funcionamiento del control interno y realizar auditorías e investigaciones de oficio en sus respectivos ámbitos de competencia, pudiendo establecer unidades de responsabilidades administrativas con facultades para substanciar y resolver procedimientos disciplinarios por Faltas administrativas en el ámbito de competencia de las dependencias y entidades a las que se encuentran asignados, en los términos de la presente Ley;
 
 XXI. Órganos de Control en los Municipios: Las unidades administrativas que fungen como autoridades investigadoras en las administraciones públicas municipales, pudiendo establecer unidades de responsabilidades administrativas con facultades para substanciar y resolver procedimientos disciplinarios, así como para imponer y aplicar las sanciones previstas en la presente Ley por faltas administrativas no graves cometidas por servidores públicos municipales, con atribuciones para promover, evaluar y fortalecer el buen funcionamiento del control interno y realizar auditorías e investigaciones de oficio en sus respectivos ámbitos de competencia;
 
 XXII. Órganos de Control en los Organismos Autónomos: Las unidades administrativas que fungen como autoridades investigadoras en los organismos a los que la Constitución del Estado les reconoce autonomía, pudiendo establecer unidades de responsabilidades administrativas con facultades para substanciar y resolver procedimientos disciplinarios, así como para imponer y aplicar las sanciones previstas en la presente Ley por faltas administrativas no graves cometidos por sus servidores públicos, con atribuciones para promover, evaluar y fortalecer el buen funcionamiento del control interno y realizar auditorías e investigaciones de oficio en sus respectivos ámbitos de competencia;
+
+> <small>(ADICIONADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+XXII Bis. Órgano de Control del Poder Judicial del Estado: Las unidades administrativas internas que fungen como autoridad investigadora, con atribuciones para promover, evaluar y fortalecer el buen funcionamiento del control interno y realizar auditorías e investigaciones de oficio en sus respectivos ámbitos de competencia, pudiendo establecer unidades de responsabilidades administrativas con facultades para substanciar y resolver procedimientos disciplinarios por Faltas administrativas en el ámbito de su competencia, en los términos de la presente Ley;
 
 XXIII. Particulares: Las personas físicas o morales del sector social o privado;
 
@@ -193,7 +201,9 @@ IV. Eficiencia: Ejercer sus facultades o atribuciones de manera efectiva, no suj
 
 V. Honradez: Observar una conducta ética y abstenerse de obtener, para sí o para las personas a que se refiere el artículo 54 de la presente Ley, provechos indebidos o cualquier tipo de beneficio que no forme parte de su remuneración;
 
-VI. Imparcialidad: Mantenerse ajenos a los intereses personales, familiares, de trabajo, de negocios, o cualquier otro que afecten la objetividad, adoptando en sus actos y resoluciones criterios que privilegien el mejor derecho;
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+VI. Imparcialidad: Mantenerse ajenos a los intereses personales, familiares, de trabajo, de negocios, o cualquier otro que afecten la objetividad, adoptando en sus actos y resoluciones criterios que privilegien el mejor derecho, así como abstenerse de aceptar obsequios o regalos de cualquier valor por parte de individuo u organización alguna;
 
 VII. Integridad: Ejercer la función pública conforme a lo dispuesto en el Código de Ética y prevención de conflictos de intereses respectivo (sic);
 
@@ -225,7 +235,9 @@ III. El Congreso del Estado de Yucatán;
 
 IV. El Ejecutivo del Estado, por conducto de la Secretaría de la Contraloría General, por si, o a través de sus órganos de control interno, la Secretaría de Seguridad Pública y la Fiscalía General del Estado de Yucatán, en el ámbito que les corresponda;
 
-V. El Tribunal Superior de Justicia y el Consejo de la Judicatura del Poder Judicial del Estado de Yucatán, con la intervención que corresponda a la Contraloría del Poder Judicial;
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+V. El Tribunal Superior de Justicia y el Consejo de la Judicatura del Poder Judicial del Estado de Yucatán, con la intervención que corresponda al órgano de control del Poder Judicial;
 
 VI. Los Ayuntamientos en los términos que disponga la Ley de Gobierno de los Municipios del Estado de Yucatán;
 
@@ -235,6 +247,10 @@ VIII. Los demás órganos que determinen esta Ley y otras disposiciones legales 
 
 La Secretaría de Seguridad Pública y la Fiscalía General del Estado serán competentes para aplicar las sanciones por faltas no graves previstas en las legislaciones que las regulan, sin perjuicio de que la Contraloría del Estado lleve a cabo investigaciones y auditorías relacionadas con el ejercicio de recursos públicos o imponga y aplique a los servidores públicos de aquellas, las sanciones por las faltas que deriven de las obligaciones a que hacen referencia las fracciones I fracciones (sic) b) y c) II, IV, V, VIII y IX del artículo 51 de la presente Ley, así como las que lleven a cabo sus titulares.
 
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Tratándose de las responsabilidades administrativas de los servidores públicos del Poder Judicial, serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal Superior de Justicia y el Consejo de la Judicatura, conforme al régimen establecido en los artículos 64 y 98 de la Constitución del Estado y a su legislación y normatividad orgánica. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
+
 ###### Artículo 9.
 
 Adecuación de estructura de las Autoridades competentes
@@ -243,7 +259,9 @@ Las Autoridades competentes para aplicar la presente Ley deberán considerar en 
 
 En el supuesto de que las autoridades investigadoras determinen la calificación de la existencia de faltas administrativas, así como la probable responsabilidad de un servidor público, deberán elaborar el Informe de Probable Responsabilidad Administrativa y presentarlo a la autoridad substanciadora respectiva, para que proceda en los términos previstos en esta Ley.
 
-Además de las atribuciones señaladas con anterioridad, los órganos de control interno en la Contraloría del Estado, en los Municipios y en los Organismos Autónomos, así como la Contraloría del Poder Judicial serán competentes para:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Además de las atribuciones señaladas con anterioridad, los órganos de control interno en la Contraloría del Estado, en los Municipios y en los Organismos Autónomos, así como el correspondiente al Poder Judicial serán competentes para:
 
 I. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por el Sistema Estatal Anticorrupción;
 
@@ -261,7 +279,9 @@ Competencia genérica de la Auditoría Superior de la Federación y la Auditorí
 
 La Auditoría Superior del Estado, serán competentes para investigar y substanciar el procedimiento por las faltas administrativas graves.
 
-En caso de que la Auditoría Superior de la Federación y la Auditoría Superior del Estado detecten posibles faltas administrativas no graves darán cuenta de ello a la Contraloría General tratándose de dependencias y entidades del Ejecutivo, a la Contraloría del Poder Judicial de tratarse de servidores públicos de este, a los Órganos de Control en los Municipios o a los Órganos de Control en los Organismos Autónomos, según corresponda, para que continúen la investigación respectiva y promuevan las acciones que procedan.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+En caso de que la Auditoría Superior de la Federación y la Auditoría Superior del Estado detecten posibles faltas administrativas no graves darán cuenta de ello a la Contraloría General tratándose de dependencias y entidades del Ejecutivo, al órgano de control del Poder Judicial tratándose de servidores públicos de este, a los Órganos de Control en los Municipios o a los Órganos de Control en los Organismos Autónomos, según corresponda, para que continúen la investigación respectiva y promuevan las acciones que procedan.
 
 En los casos en que, derivado de sus investigaciones, acontezca la probable comisión de delitos, presentarán las denuncias correspondientes ante el Ministerio Público competente.
 
@@ -275,7 +295,9 @@ El Tribunal del Estado, además de las facultades y atribuciones conferidas en l
 
 Investigación y trámite de Faltas graves y no graves derivadas de denuncias
 
-Cuando derivado de denuncias que investigue la Autoridad Investigadora, así como las correspondientes de la Fiscalía General del Estado, de la Secretaría de Seguridad Pública en el Poder Ejecutivo, de la Contraloría del Poder Judicial y los demás órganos de control en los organismos autónomos, se desprenden actos u omisiones tanto de faltas administrativas graves como no graves por el mismo servidor público, por lo que hace a las Faltas administrativas graves, remitirán las constancias documentales junto con el Informe de Probable Responsabilidad Administrativa a su área con competencia de autoridad substanciadora, para que proceda en los términos a que hace referencia el artículo 228 fracciones I a VII de la presente Ley, procediendo a enviar los autos originales del expediente al Tribunal del Estado para que, en su caso, resuelva la sanción que corresponda a dicha falta.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Cuando derivado de denuncias que investigue la Autoridad Investigadora, así como las correspondientes de la Fiscalía General del Estado, de la Secretaría de Seguridad Pública en el Poder Ejecutivo, y los demás órganos de control en los organismos autónomos, se desprendan actos u omisiones tanto de faltas administrativas graves como no graves por el mismo servidor público, por lo que hace a las Faltas administrativas graves, remitirán las constancias documentales junto con el Informe de Probable Responsabilidad Administrativa a su área con competencia de autoridad substanciadora, para que proceda en los términos a que hace referencia el artículo 228 fracciones I a VII de la presente Ley, procediendo a enviar los autos originales del expediente al Tribunal del Estado para que, en su caso, resuelva la sanción que corresponda a dicha falta.
 
 En el caso de que la investigación que derive de denuncias a cargo de servidores públicos municipales, se presuma la constitución de faltas graves que se relacionen con el manejo, aplicación, custodia irregular o desvió de recursos públicos estatales o municipales, las autoridades que reciban la denuncia y los órganos de control en los Municipios o quien ejerza las atribuciones de estos en los Ayuntamientos, deberán enviarla a la Auditoría Superior del Estado a fin de que ejerza las atribuciones de investigación y substanciación en los términos del artículo 10 de la presente Ley, para su posterior envío al Tribunal del Estado para los mismos efectos del párrafo anterior.
 
@@ -285,7 +307,9 @@ Si el Tribunal del Estado determina que se cometieron tanto faltas administrativ
 
 Trámite de Faltas graves y no graves derivadas de auditorías e investigaciones de oficio
 
-Cuando derivado de auditorías de las autoridades investigadoras en la Auditoría Superior del Estado, los órganos de control interno de la Contraloría del Estado, la Contraloría del Poder Judicial y los Órganos de Control en los Órganos Autónomos, determinen que de los actos u omisiones investigados se desprenden faltas administrativas graves, remitirán las constancias documentales junto con el Informe de Probable Responsabilidad Administrativa a su área con competencia de autoridad substanciadora, para que proceda en los términos a que hace referencia el artículo 228 fracciones I a VII de la presente Ley, a fin de que substanciado el procedimiento envíe los autos originales del expediente al Tribunal del Estado para su resolución, y en su caso, para que imponga la sanción que corresponda a dicha falta.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Cuando derivado de auditorías de las autoridades investigadoras en la Auditoría Superior del Estado, los órganos de control interno de la Contraloría del Estado y los correspondientes a los Órganos de Control en los Órganos Autónomos, determinen que de los actos u omisiones investigados se desprenden faltas administrativas graves, remitirán las constancias documentales junto con el Informe de Probable Responsabilidad Administrativa a su área con competencia de autoridad substanciadora, para que proceda en los términos a que hace referencia el artículo 228 fracciones I a VII de la presente Ley, a fin de que substanciado el procedimiento envíe los autos originales del expediente al Tribunal del Estado para su resolución, y en su caso, para que imponga la sanción que corresponda a dicha falta.
 
 En el caso de las auditorías que realicen los Órganos de control en los Municipios se presuma la constitución de faltas graves o se encuentren relacionadas con el manejo, aplicación, custodia irregular o desvió de recursos públicos estatales o municipales a cargo de servidores públicos municipales, deberán remitir las constancias documentales a la Auditoría Superior del Estado a fin de que ejerza las atribuciones de investigación y, en su caso, proceda en los términos a que hace referencia el artículo 228 fracciones I a VII de la presente Ley de la presente Ley (sic), procediendo a enviar los autos originales del expediente al Tribunal del Estado para su resolución.
 
@@ -307,7 +331,9 @@ La atribución del Tribunal del Estado para imponer sanciones a particulares en 
 
 Acciones de prevención de faltas administrativas y hechos de corrupción
 
-Para prevenir la comisión de faltas administrativas y hechos de corrupción, las Contralorías del Estado y del Poder Judicial, los Órganos de control en los Municipios y en los Órganos Autónomos, considerando el ámbito de competencia y las funciones que a cada una de ellas les corresponden y previo diagnóstico que al efecto realicen, podrán implementar acciones para orientar el criterio que en situaciones específicas deberán observar los servidores públicos en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Estatal Anticorrupción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Para prevenir la comisión de faltas administrativas y hechos de corrupción, las Contralorías del Estado, el órgano de control del Poder Judicial, los Órganos de control en los Municipios y en los Órganos Autónomos, considerando el ámbito de competencia y las funciones que a cada una de ellas les corresponden y previo diagnóstico que al efecto realicen, podrán implementar acciones para orientar el criterio que en situaciones específicas deberán observar los servidores públicos en el desempeño de sus empleos, cargos o comisiones, en coordinación con el Sistema Estatal Anticorrupción.
 
 En la implementación de las acciones referidas, los Órganos de control en la Contraloría del Estado, deberán atender los lineamientos generales que emita la Contraloría del Estado, en sus respectivos ámbitos de competencia.
 
@@ -323,7 +349,9 @@ III. Desarrollar mecanismos de autorregulación en los servidores públicos como
 
 Lineamientos generales de acciones de integridad
 
-Los lineamientos generales que emita la Contraloría del Estado, la Contraloría del Poder Judicial, los Órganos de control en los Municipios y en los Órganos Autónomos, se publicarán en el Diario Oficial del Gobierno del Estado y, en su caso, en las gacetas municipales, así como en los sitios web y deberán contener como mínimo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Los lineamientos generales que emita la Contraloría del Estado, el órgano de Control del Poder Judicial, los Órganos de control en los Municipios y en los Órganos Autónomos, se publicarán en el Diario Oficial del Gobierno del Estado y, en su caso, en las gacetas municipales, así como en los sitios web y deberán contener como mínimo:
 
 I. La obligación de constituir un Comité de Ética con competencia para realizar las siguientes funciones:
 
@@ -397,21 +425,27 @@ Para que proceda el beneficio de la valoración de la responsabilidad de la pers
 
 #### Sección Primera. Del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 22.
 
-Coadyuvancia de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción con Entes Públicos del Estado.
+Coadyuvancia de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción con Entes Públicos del Estado
 
-La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, coadyuvará con las áreas de las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos para que estas den cumplimiento a las obligaciones previstas en la Ley General del Sistema Nacional Anticorrupción, así como las bases, principios y lineamientos que apruebe el Comité Coordinador del Sistema Nacional Anticorrupción, relacionadas con el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, a través de la Plataforma digital nacional.
+La Secretaría Ejecutiva del Sistema Estatal Anticorrupción, coadyuvará con las áreas de las Contralorías del Estado, el órgano de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos para que estas den cumplimiento a las obligaciones previstas en la Ley General del Sistema Nacional Anticorrupción, así como las bases, principios y lineamientos que apruebe el Comité Coordinador del Sistema Nacional Anticorrupción, relacionadas con el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, a través de la Plataforma digital nacional.
 
 ###### Artículo 23.
 
 Inscripción de información de declaraciones en la plataforma digital nacional.
 
-Las áreas de las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos competentes de recepcionar las declaraciones de situación patrimonial, conflicto de interés y fiscal, serán las responsables de almacenar en el sistema de evolución patrimonial, de declaración de intereses y constancias de presentación de declaración Fiscal de la Plataforma digital nacional, la información que para efectos de las funciones del Sistema Nacional Anticorrupción generen los servidores públicos obligados a presentar las referidas declaraciones, en la que se inscribirán los datos públicos de los mismos y la constancia que para efectos de esta Ley emita la autoridad fiscal sobre la presentación de la declaración anual de impuestos de los servidores públicos que se encuentren obligados en este sentido.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Las áreas de las Contralorías del Estado, el órgano de control del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos competentes de recepcionar las declaraciones de situación patrimonial, conflicto de interés y fiscal, serán las responsables de almacenar en el sistema de evolución patrimonial, de declaración de intereses y constancias de presentación de declaración Fiscal de la Plataforma digital nacional, la información que para efectos de las funciones del Sistema Nacional Anticorrupción generen los servidores públicos obligados a presentar las referidas declaraciones, en la que se inscribirán los datos públicos de los mismos y la constancia que para efectos de esta Ley emita la autoridad fiscal sobre la presentación de la declaración anual de impuestos de los servidores públicos que se encuentren obligados en este sentido.
 
 El Tribunal del Estado inscribirá y hará públicas en el Sistema Nacional de servidores públicos y Particulares Sancionados, de conformidad con lo dispuesto en la Ley General del Sistema Nacional Anticorrupción y las disposiciones legales en materia de transparencia, las constancias de sanciones o de inhabilitación que se encuentren firmes en contra de los servidores públicos o particulares que hayan sido sancionados por actos vinculados con faltas graves.
 
-Las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomo (sic) inscribirán en el referido sistema nacional la anotación de las abstenciones que se hagan en términos del artículo 82 de la presente Ley.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+La Contraloría del Estado, el órgano de control del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomo (sic) inscribirán en el referido sistema nacional la anotación de las abstenciones que se hagan en términos del artículo 82 de la presente Ley.
 
 ###### Artículo 24.
 
@@ -431,19 +465,23 @@ Publicidad de declaraciones patrimoniales y de intereses
 
 Las declaraciones patrimoniales y de intereses serán públicas salvo los rubros cuya publicidad pueda afectar la vida privada o los datos personales protegidos por la Constitución. Para tal efecto, el Comité Coordinador del Estado, a propuesta del Comité Estatal de Participación Ciudadana, emitirá los formatos respectivos acordes a los criterios emitidos por los órganos competentes del Sistema Nacional Anticorrupción, garantizando que los rubros que pudieran afectar los derechos aludidos queden en resguardo de las autoridades competentes.
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
 Verificación de veracidad de declaraciones patrimoniales y de intereses
 
-La Contraloría del Estado, la Contraloría del Poder Judicial y los Órganos de Control en los Municipios y en los Órganos Autónomos, según sea el caso, deberán realizar una verificación aleatoria de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los servidores públicos de su ámbito de competencia. De no existir ninguna anomalía expedirán la certificación correspondiente, la cual se anotará en dicho sistema. En caso contrario, iniciarán la investigación que corresponda.
+La Contraloría del Estado, el órgano de control del Poder Judicial y los Órganos de Control en los Municipios y en los Órganos Autónomos, según sea el caso, deberán realizar una verificación aleatoria de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de los servidores públicos de su ámbito de competencia. De no existir ninguna anomalía expedirán la certificación correspondiente, la cual se anotará en dicho sistema. En caso contrario, iniciarán la investigación que corresponda.
 
 #### Sección Segunda. De los sujetos obligados a presentar declaración patrimonial y de interés
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 28.
 
 Registro de situación patrimonial y declaración de interés
 
-La Contraloría del Estado en la Administración Pública Estatal, la Auditoría Superior del Estado en el Poder Legislativo, la Contraloría del Poder Judicial, los Órganos de Control en los Municipios y en los Órganos Autónomos, en el ámbito de su competencia, llevarán el registro de la situación patrimonial y de intereses de los servidores públicos obligados, de conformidad con esta Ley y las demás disposiciones aplicables.
+La Contraloría del Estado en la Administración Pública Estatal, la Auditoría Superior del Estado en el Poder Legislativo, el órgano de control del Poder Judicial, los Órganos de Control en los Municipios y en los Órganos Autónomos, en el ámbito de su competencia, llevarán el registro de la situación patrimonial y de intereses de los servidores públicos obligados, de conformidad con esta Ley y las demás disposiciones aplicables.
 
 ###### Artículo 29.
 
@@ -479,7 +517,9 @@ III. Declaración de conclusión del encargo, empleo o comisión dentro de los s
 
 En el caso de cambio de dependencia, entidad o área de adscripción en el mismo orden de gobierno o de reingreso del servidor público en un período menor de sesenta días naturales siguientes a su conclusión, únicamente se dará aviso de dicha situación y no será necesario presentar la declaración de inicio y/o de conclusión.
 
-La Contraloría del Estado en la Administración Pública Estatal, la Auditoría Superior del Estado en el Poder Legislativo, la Contraloría del Poder Judicial, los Órganos de Control en los Municipios y en los Órganos Autónomos, en el ámbito de su competencia, podrán solicitar a los servidores públicos una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, si éstos estuvieren obligados a presentarla o, en su caso, de la constancia de percepciones y retenciones que les hubieren emitido alguno de los entes públicos, la cual deberá ser remitida en un plazo de tres días hábiles a partir de la fecha en que se reciba la solicitud.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+La Contraloría del Estado en la Administración Pública Estatal, la Auditoría Superior del Estado en el Poder Legislativo, el órgano de control del Poder Judicial, los Órganos de Control en los Municipios y en los Órganos Autónomos, en el ámbito de su competencia, podrán solicitar a los servidores públicos una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, si éstos estuvieren obligados a presentarla o, en su caso, de la constancia de percepciones y retenciones que les hubieren emitido alguno de los entes públicos, la cual deberá ser remitida en un plazo de tres días hábiles a partir de la fecha en que se reciba la solicitud.
 
 Si transcurridos los plazos a que se refieren las fracciones I, II y III de este artículo, no se hubiese presentado la declaración correspondiente, las áreas de los entes públicos competentes de recepcionar las declaraciones de situación patrimonial, conflicto de interés y fiscal, turnarán a las autoridades investigadoras competentes el listado de servidores públicos omisos, para la investigación por probable responsabilidad por la comisión de las Faltas administrativas correspondientes, quienes requerirán por escrito al Declarante el cumplimiento de dicha obligación.
 
@@ -507,9 +547,13 @@ Forma de presentación de declaración patrimonial, de intereses y de la constan
 
 Las declaraciones de situación patrimonial deberán ser presentadas a través de medios electrónicos, empleándose medios de identificación electrónica. En el caso de municipios que no cuenten con las tecnologías de la información y comunicación necesarias para cumplir lo anterior, podrán emplearse formatos impresos, siendo responsabilidad de los Órganos internos de control en los Municipios verificar que dichos formatos sean digitalizados e incluir la información que corresponda en el sistema de evolución patrimonial y de declaración de intereses.
 
-Las Contralorías del Estado y del Poder Judicial y los Órganos de Control en los Municipios y Organismos Autónomos, en el ámbito de su respectiva competencia, tendrán a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen sus servidores públicos, y llevarán el control de dichos medios, considerando los criterios emitidos por los órganos competentes de los Sistemas Nacional y Estatal Anticorrupción.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
-Para los efectos de los procedimientos penales que se deriven de la aplicación de las disposiciones del presente Título, son documentos públicos aquellos que emitan las Contralorías del Estado y del Poder Judicial, y los Órganos de Control en los Municipios y Organismos Autónomos, en el respectivo ámbito de su competencia, para ser presentados como medios de prueba, en los cuales se contenga la información que obre en sus archivos documentales y electrónicos sobre las declaraciones de situación patrimonial de los servidores públicos.
+La Contraloría del Estado, el órgano de control del Poder Judicial, así como los correspondientes Órganos de Control en los Municipios y Organismos Autónomos, en el ámbito de su respectiva competencia, tendrán a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen sus servidores públicos, y llevarán el control de dichos medios, considerando los criterios emitidos por los órganos competentes de los Sistemas Nacional y Estatal Anticorrupción.
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Para los efectos de los procedimientos penales que se deriven de la aplicación de las disposiciones del presente Título, son documentos públicos aquellos que emitan la Contraloría del Estado, el órgano de control del Poder Judicial, así como los correspondientes Órganos de Control en los Municipios y Organismos Autónomos, en el respectivo ámbito de su competencia, para ser presentados como medios de prueba, en los cuales se contenga la información que obre en sus archivos documentales y electrónicos sobre las declaraciones de situación patrimonial de los servidores públicos.
 
 Los servidores públicos competentes para recabar las declaraciones patrimoniales deberán resguardar la información a la que accedan observando lo dispuesto en la legislación en materia de transparencia, acceso a la información pública y protección de datos personales.
 
@@ -527,19 +571,23 @@ Bienes objeto de la investigación
 
 Para los efectos de la presente Ley y de la legislación penal, se computarán entre los bienes que adquieran los Declarantes o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos.
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 36.
 
 Obligación de informar la transmisión de la propiedad o uso de bienes con motivo del ejercicio de funciones como servidor público
 
-En caso de que los servidores públicos, sin haberlo solicitado, reciban de un particular de manera gratuita la transmisión de la propiedad o el ofrecimiento para el uso de cualquier bien, con motivo del ejercicio de sus funciones, deberán informarlo inmediatamente a la Contraloría del Poder Judicial, los Órganos de Control de la Contraloría del Estado, en los Municipios y en los Organismos Autónomos competente (sic). En el caso de recepción de bienes, los servidores públicos procederán a poner los mismos a disposición de las autoridades competentes en materia de administración y enajenación de bienes públicos.
+En caso de que los servidores públicos, sin haberlo solicitado, reciban de un particular de manera gratuita la transmisión de la propiedad o el ofrecimiento para el uso de cualquier bien, con motivo del ejercicio de sus funciones, deberán informarlo inmediatamente al órgano de control del Poder Judicial, los Órganos de Control de la Contraloría del Estado, en los Municipios y en los Organismos Autónomos competente (sic). En el caso de recepción de bienes, los servidores públicos procederán a poner los mismos a disposición de las autoridades competentes en materia de administración y enajenación de bienes públicos.
+
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 37.
 
 Facultad de investigación
 
-La Contraloría del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos, estarán facultados para llevar a cabo investigaciones para verificar la evolución del patrimonio de los Declarantes.
+La Contraloría del Estado, el órgano de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos, estarán facultados para llevar a cabo investigaciones para verificar la evolución del patrimonio de los Declarantes.
 
-Sólo los titulares de la Auditoría Superior, la Auditoría Superior del Estado, de la Contraloría del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos o los servidores públicos en quien deleguen esta facultad, podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
+Sólo los titulares de la Auditoría Superior, la Auditoría Superior del Estado, de la Contraloría del Estado, el órgano de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos o los servidores públicos en quien deleguen esta facultad, podrán solicitar a las autoridades competentes, en los términos de las disposiciones aplicables, la información en materia fiscal, o la relacionada con operaciones de depósito, ahorro, administración o inversión de recursos monetarios.
 
 ###### Artículo 38.
 
@@ -551,7 +599,9 @@ Las autoridades fiscales, así como las dependencias, entidades e instituciones 
 
 Investigación por probable ocultamiento de conflicto de interés o enriquecimiento oculto
 
-En los casos en que la declaración de situación patrimonial del Declarante refleje un probable incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como servidor público o existan elementos para determinar un probable ocultamiento de conflicto de interés, la Auditoría Superior del Estado para el caso de servidores públicos municipales, las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado y en los Organismos Autónomos, llevarán la investigación por enriquecimiento oculto u ocultamiento de conflicto de interés y citarán personalmente al servidor público, haciéndole saber los hechos que motiven la investigación, señalándole las incongruencias detectadas respecto de los bienes que integran su patrimonio o los elementos del posible ocultamiento, para que dentro del plazo de treinta días hábiles, contados a partir de la recepción del citatorio, formule ante la Autoridad investigadora las aclaraciones pertinentes.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+En los casos en que la declaración de situación patrimonial del Declarante refleje un probable incremento en su patrimonio que no sea explicable o justificable en virtud de su remuneración como servidor público o existan elementos para determinar un probable ocultamiento de conflicto de interés, la Auditoría Superior del Estado para el caso de servidores públicos municipales, la Contraloría del Estado, el órgano interno de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado y en los Organismos Autónomos, llevarán la investigación por enriquecimiento oculto u ocultamiento de conflicto de interés y citarán personalmente al servidor público, haciéndole saber los hechos que motiven la investigación, señalándole las incongruencias detectadas respecto de los bienes que integran su patrimonio o los elementos del posible ocultamiento, para que dentro del plazo de treinta días hábiles, contados a partir de la recepción del citatorio, formule ante la Autoridad investigadora las aclaraciones pertinentes.
 
 Cuando el servidor público o la persona con quien se entienda la notificación se negaren a firmar de recibido, el notificador hará constar dicha circunstancia en un acta que levantará ante dos testigos, sin que ello afecte el valor probatorio que en su caso posea este documento.
 
@@ -563,11 +613,13 @@ Determinación de probable ocultamiento de conflicto de interés o enriquecimien
 
 De determinarse la existencia de un probable ocultamiento de conflicto de interés o si el servidor público no justificó el enriquecimiento oculto por el cual se inició la investigación, la autoridad investigadora elaborará el informe de probable responsabilidad para su remisión a la autoridad substanciadora competente, y formulará, en su caso, la denuncia correspondiente ante el Ministerio Público.
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 41.
 
 Potestad para formular denuncias por responsabilidad penal
 
-La Auditoría Superior del Estado y las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos, según corresponda, tendrán la potestad de formular la denuncia al Ministerio Público, en su caso, cuando el sujeto a la verificación de la evolución de su patrimonio no justifique la procedencia lícita del incremento notoriamente desproporcionado de éste, representado por sus bienes, o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su empleo, cargo o comisión.
+La Auditoría Superior del Estado y la Contraloría del Estado, el órgano de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos, según corresponda, tendrán la potestad de formular la denuncia al Ministerio Público, en su caso, cuando el sujeto a la verificación de la evolución de su patrimonio no justifique la procedencia lícita del incremento notoriamente desproporcionado de éste, representado por sus bienes, o de aquéllos sobre los que se conduzca como dueño, durante el tiempo de su empleo, cargo o comisión.
 
 ###### Artículo 42.
 
@@ -607,7 +659,9 @@ La omisión de registrar a los servidores públicos, incluyendo los asesores que
 
 Expedición del protocolo de actuación
 
-El Comité Coordinador expedirá el protocolo de actuación que bajo la supervisión y control de las Contralorías del Estado y del Poder Judicial y los Órganos de Control en los Municipios y en los Órganos Autónomos se deberá implementar.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+El Comité Coordinador expedirá el protocolo de actuación que bajo la supervisión y control de la Contraloría del Estado, el órgano de control del Poder Judicial y los Órganos de Control en los Municipios y en los Órganos Autónomos se deberá implementar.
 
 Dicho protocolo de actuación deberá ser cumplido por los servidores públicos inscritos en el sistema específico de la Plataforma digital nacional a que se refiere el presente Capítulo y, en su caso, aplicarán los formatos que se utilizarán para que los particulares formulen un manifiesto de vínculos o relaciones de negocios, personales o familiares, así como de posibles Conflictos de Interés, bajo el principio de máxima publicidad y en los términos de la normatividad aplicable en materia de transparencia.
 
@@ -617,7 +671,9 @@ El sistema específico de la Plataforma digital nacional a que se refiere el pre
 
 Supervisión de órganos de control y participación de áreas normativas en los actos y procedimientos de contratación
 
-Los órganos de control interno de la Contraloría del Estado, la Contraloría del Poder Judicial y los Órganos de Control en los Municipios y en los Órganos Autónomos, deberán supervisar la ejecución de los procedimientos de contratación pública para garantizar que se lleva a cabo en los términos de las disposiciones en la materia, llevando a cabo las verificaciones procedentes si descubren anomalías.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Los órganos de control interno de la Contraloría del Estado, el órgano interno del Poder Judicial y los Órganos de Control en los Municipios y en los Órganos Autónomos, deberán supervisar la ejecución de los procedimientos de contratación pública para garantizar que se lleva a cabo en los términos de las disposiciones en la materia, llevando a cabo las verificaciones procedentes si descubren anomalías.
 
 Las áreas normativas en materia de contrataciones de adquisiciones y arrendamientos de bienes muebles, servicios, obra pública y servicios podrán participar en los procedimientos de contratación pública con el carácter de asesores, con el objeto de que las áreas responsables de la contratación se apeguen al marco jurídico y normativo aplicable.
 
@@ -633,7 +689,9 @@ Sujetos obligados a presentar declaración de intereses
 
 Se encuentran obligados a presentar declaración de intereses todos los servidores públicos que deban presentar la declaración patrimonial en términos de lo dispuesto en el artículo 29 de la presente Ley.
 
-Al efecto, las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos se encargarán de que las declaraciones sean integradas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Al efecto, la Contraloría del Estado, el órgano de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos se encargarán de que las declaraciones sean integradas al sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal.
 
 ###### Artículo 49.
 
@@ -913,7 +971,9 @@ A los particulares que se encuentren en situación especial conforme al presente
 
 Prescripción de la responsabilidad administrativa
 
-Para el caso de Faltas administrativas no graves, las facultades de las Contralorías del Estado y del Poder Judicial y de los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos para imponer las sanciones prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Para el caso de Faltas administrativas no graves, las facultades de la Contraloría del Estado, el órgano de control del Poder Judicial, de los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos para imponer las sanciones prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado.
 
 Cuando se trate de Faltas administrativas graves o Faltas de particulares, el plazo de prescripción será de siete años, contados en los mismos términos del párrafo anterior.
 
@@ -933,7 +993,9 @@ Los plazos a los que se refiere el presente artículo se computarán en días na
 
 Sanciones por faltas administrativas no graves
 
-En los casos de responsabilidades administrativas distintas a las que son competencia del Tribunal del Estado, las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos impondrán las sanciones administrativas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+En los casos de responsabilidades administrativas distintas a las que son competencia del Tribunal del Estado, la Contraloría del Estado, el órgano de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos impondrán las sanciones administrativas siguientes:
 
 I. Amonestación pública o privada;
 
@@ -943,7 +1005,9 @@ III. Destitución de su empleo, cargo o comisión, y
 
 IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas.
 
-Las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos podrán imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo a la trascendencia de la Falta administrativa no grave.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+La Contraloría del Estado, el órgano de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos podrán imponer una o más de las sanciones administrativas señaladas en este artículo, siempre y cuando sean compatibles entre ellas y de acuerdo a la trascendencia de la Falta administrativa no grave.
 
 La suspensión del empleo, cargo o comisión que se imponga podrá ser de uno a treinta días naturales
 
@@ -969,7 +1033,9 @@ Se considerará reincidente al que habiendo incurrido en una infracción que hay
 
 Criterios generales para imponer sanciones considerando los elementos subjetivos
 
-Las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos, de manera enunciativa mas no limitativa, podrán considerar los criterios generales que se refieren en el presente artículo para imponer sanciones por faltas no graves, sin perjuicio de que de manera fundada y motivada se determine imponer otras sanciones, cuando se justifique considerar elementos objetivos y subjetivos no considerados en los mismos.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+La Contraloría del Estado, el órgano de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos, de manera enunciativa mas no limitativa, podrán considerar los criterios generales que se refieren en el presente artículo para imponer sanciones por faltas no graves, sin perjuicio de que de manera fundada y motivada se determine imponer otras sanciones, cuando se justifique considerar elementos objetivos y subjetivos no considerados en los mismos.
 
 La amonestación privada podrá imponerse cuando el servidor público no tenga antecedente de haber cometido una falta administrativa con sanción firme y se tenga una antigüedad en el servicio público menor de cinco años y que de las condiciones exteriores y medios de ejecución no se aprecie una conducta dolosa.
 
@@ -1007,13 +1073,17 @@ IV. Cuando se acredite la existencia de un medio de prueba en el que conste que 
 
 Elementos para abstenerse de imponer sanciones por falta administrativa no grave
 
-Corresponde a las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos imponer las sanciones por Faltas administrativas no graves, y ejecutarlas. Sin embargo, podrán abstenerse de imponer la sanción que corresponda siempre que el servidor público:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Corresponde a la Contraloría del Estado, al órgano de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos imponer las sanciones por Faltas administrativas no graves, y ejecutarlas. Sin embargo, podrán abstenerse de imponer la sanción que corresponda siempre que el servidor público:
 
 I. No haya sido sancionado previamente por la misma Falta administrativa no grave, y
 
 II. No haya actuado de forma dolosa.
 
-Las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos dejarán constancia de la no imposición de la sanción a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+La Contraloría del Estado, el órgano de control del Poder Judicial, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos dejarán constancia de la no imposición de la sanción a que se refiere el párrafo anterior.
 
 ### CAPÍTULO II. Sanciones para los servidores públicos por Faltas Graves
 
@@ -1036,6 +1106,10 @@ A juicio del Tribunal del Estado, podrán ser impuestas al infractor una o más 
 La suspensión del empleo, cargo o comisión que se imponga podrá ser de treinta a noventa días naturales.
 
 En caso de que se determine la inhabilitación, ésta será de uno hasta diez años si el monto de la afectación de la Falta administrativa grave no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización, y de diez a veinte años si dicho monto excede del referido límite. Cuando no se cause daños o perjuicios, ni exista beneficio o lucro alguno, se podrán imponer de tres meses a un año de inhabilitación.
+
+> <small>(ADICIONADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Tratándose de las responsabilidades administrativas de los servidores públicos del Poder Judicial, serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal Superior de Justicia y el Consejo de la Judicatura, conforme al régimen establecido en los artículos 64 y 98 de la Constitución del Estado y a su legislación y normatividad orgánica. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 ###### Artículo 84.
 
@@ -1237,11 +1311,13 @@ II. Guardar reserva de los datos que permitan la localización de su domicilio, 
 
 III. Las diligencias en las que se requiera su intervención se llevarán a cabo sin informarle a persona alguna la fecha, lugar y hora en que comparezca, sin perjuicio de que al substanciar y resolverse el procedimiento puedan referirse las circunstancias de modo, tiempo y lugar en la que se llevó a cabo.
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 99.
 
 Lugar, modo y asistencia para la presentación de las denuncias
 
-La Autoridad Investigadora, así como las correspondientes de la Fiscalía General del Estado, de la Secretaría de Seguridad Pública en el Poder Ejecutivo, de la Contraloría del Poder Judicial y los demás órganos de control en los organismos autónomos y de los municipios establecerán áreas y medios de fácil acceso, para que cualquier interesado presente su denuncia por probables faltas administrativas, de conformidad con los criterios establecidos en la presente Ley, debiendo otorgarle la asistencia jurídica que requiera para que su denuncia contenga la información y datos a que hace referencia el artículo siguiente.
+La Autoridad Investigadora, así como las correspondientes de la Fiscalía General del Estado, de la Secretaría de Seguridad Pública en el Poder Ejecutivo, la del órgano de control del Poder Judicial, los demás órganos de control en los organismos autónomos y de los municipios establecerán áreas y medios de fácil acceso, para que cualquier interesado presente su denuncia por probables faltas administrativas, de conformidad con los criterios establecidos en la presente Ley, debiendo otorgarle la asistencia jurídica que requiera para que su denuncia contenga la información y datos a que hace referencia el artículo siguiente.
 
 ###### Artículo 100.
 
@@ -1327,11 +1403,13 @@ Facultad de investigación y substanciación de la Auditoría Superior del Estad
 
 La Auditoría Superior del Estado, investigará y, en su caso substanciará en los términos que determina esta Ley, los procedimientos de responsabilidad administrativa por Faltas Graves. Asimismo, en los casos que procedan, presentará la denuncia correspondiente ante el Ministerio Público competente.
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 108.
 
 Remisión de investigaciones por faltas no graves
 
-En caso de que la Auditoría Superior del Estado tenga conocimiento de la probable comisión de Faltas administrativas distintas a las señaladas en el artículo anterior, darán vista a la Secretaría de la Función Pública tratándose del ejercicio de recursos públicos federales; a la Contraloría del Estado cuando la investigación derive de denuncias de servidores públicos adscritos al Poder Ejecutivo; o a la Contraloría del Poder Judicial u Órganos de Control competente, a efecto de que procedan a realizar la investigación correspondiente
+En caso de que la Auditoría Superior del Estado tenga conocimiento de la probable comisión de Faltas administrativas distintas a las señaladas en el artículo anterior, darán vista a la Secretaría de la Función Pública tratándose del ejercicio de recursos públicos federales; a la Contraloría del Estado cuando la investigación derive de denuncias de servidores públicos adscritos al Poder Ejecutivo; al órgano de control del Poder Judicial u Órganos de Control competente, a efecto de que procedan a realizar la investigación correspondiente.
 
 ###### Artículo 109.
 
@@ -1345,7 +1423,9 @@ La Fiscalía General del Estado y las instituciones policiales a las que hace re
 
 De la práctica de Auditorías
 
-Las Contralorías del Estado y del Poder Judicial y los Órganos de Control llevarán a cabo la práctica de auditorías, que tendrán por objeto verificar, entre otros, los estados financieros, resultados de operación y ejercicios de recursos públicos, así como si la utilización de los recursos materiales y presupuestales se lleva en forma eficiente; si los objetivos y metas se lograron de manera eficaz y congruente con una orientación a resultados, para determinar el grado de economía, eficacia, eficiencia, efectividad, imparcialidad, honestidad y apego a la normatividad con que se han administrado los recursos públicos que fueron suministrados y comprobar si en el desarrollo de las actividades, los servidores públicos han cumplido con las disposiciones aplicables y han observado los principios que rigen al servicio público.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+La Contraloría del Estado, el órgano de control del Poder Judicial y los Órganos de Control llevarán a cabo la práctica de auditorías, que tendrán por objeto verificar, entre otros, los estados financieros, resultados de operación y ejercicios de recursos públicos, así como si la utilización de los recursos materiales y presupuestales se lleva en forma eficiente; si los objetivos y metas se lograron de manera eficaz y congruente con una orientación a resultados, para determinar el grado de economía, eficacia, eficiencia, efectividad, imparcialidad, honestidad y apego a la normatividad con que se han administrado los recursos públicos que fueron suministrados y comprobar si en el desarrollo de las actividades, los servidores públicos han cumplido con las disposiciones aplicables y han observado los principios que rigen al servicio público.
 
 Cuando de la práctica de auditorías se desprendan probables faltas administrativas infracciones cometidas por servidores públicos, licitantes, contratistas, proveedores, prestadores de servicios, concesionarios, permisionarios o cualquier persona física o moral particular, se precisarán las conductas que se consideren infractoras y se harán del conocimiento de las autoridades competentes en términos de lo dispuesto en la presente Ley.
 
@@ -1359,7 +1439,9 @@ Las auditorías serán programadas en forma anual o cuando existan indicios de l
 
 Notificación y contenido de la orden de auditoría
 
-La práctica de la auditoría a los entes públicos, iniciará mediante la notificación en la Oficialía de Partes o de recepción de documentos del ente auditado, de una orden de auditoría emitida por el servidor público de las Contralorías del Estado y del Poder Judicial y los Órganos de Control facultados para ello, la cual deberá dirigirse al titular de la dependencia, entidad, ente público o unidad administrativa que será objeto de la misma, la cual deberá contener:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+La práctica de la auditoría a los entes públicos, iniciará mediante la notificación en la Oficialía de Partes o de recepción de documentos del ente auditado, de una orden de auditoría emitida por el servidor público de la Contraloría del Estado, el órgano de control del Poder Judicial y los Órganos de Control facultados para ello, la cual deberá dirigirse al titular de la dependencia, entidad, ente público o unidad administrativa que será objeto de la misma, la cual deberá contener:
 
 I. Denominación de la dependencia, entidad, ente público, así como de las unidades administrativas de las mismas, en las que se llevará (sic) cabo la auditoría;
 
@@ -1549,11 +1631,13 @@ Separación de procedimientos por otra falta administrativa imputable a la misma
 
 En caso de que con posterioridad a la admisión del informe las autoridades investigadoras adviertan la probable comisión de cualquier otra falta administrativa imputable a la misma persona señalada como probable responsable, deberán elaborar un diverso Informe de Probable Responsabilidad Administrativa y promover el respectivo procedimiento disciplinario por separado, sin perjuicio de que, en el momento procesal oportuno, puedan solicitar su acumulación.
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 130.
 
 Separación en estructura de autoridades investigadoras y substanciadoras
 
-La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinta de aquél o aquellos encargados de la investigación. Para tal efecto, las Contralorías del Estado y del Poder Judicial, la Fiscalía General del Estado de Yucatán, las instituciones policiales a las que hace referencia la fracción IV del artículo 2 de la Ley del Sistema Estatal de Seguridad Pública, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos y la Auditoría Superior del Estado, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
+La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinta de aquél o aquellos encargados de la investigación. Para tal efecto, la Contraloría del Estado, el órgano de control del Poder Judicial, la Fiscalía General del Estado de Yucatán, las instituciones policiales a las que hace referencia la fracción IV del artículo 2 de la Ley del Sistema Estatal de Seguridad Pública, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos y la Auditoría Superior del Estado, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
 
 ###### Artículo 131.
 
@@ -2433,7 +2517,9 @@ V. La resolución, deberá notificarse personalmente al probable responsable. En
 
 Promoción del recurso de revocación
 
-Los servidores públicos que resulten responsables por la comisión de Faltas administrativas no graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en el presente Título por las Contralorías de los Poderes Ejecutivo y Judicial, los Órganos de Control de la Contraloría, en los Municipios y en los Órganos Autónomos, podrán interponer el recurso de revocación ante la propia autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+Los servidores públicos que resulten responsables por la comisión de Faltas administrativas no graves en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto en el presente Título por la Contraloría del Poder Ejecutivo, el Poder Judicial a través de su órgano de control, los Órganos de Control de la Contraloría, en los Municipios y en los Órganos Autónomos, podrán interponer el recurso de revocación ante la propia autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
 
 Las resoluciones que se dicten en el recurso de revocación serán impugnables ante el Tribunal del Estado vía el juicio contencioso administrativo.
 
@@ -2451,7 +2537,9 @@ III. Si el escrito de interposición del recurso de revocación no cumple con al
 
 La prevención tendrá el efecto de interrumpir el plazo que tiene la autoridad para resolver el recurso, por lo que comenzará a computarse a partir del día siguiente a su desahogo, y
 
-IV. Desahogadas las pruebas, si las hubiere, el titular de las Contralorías de los Poderes Ejecutivo y Judicial, los Órganos de Control de la Contraloría, en los Municipios y en los Órganos Autónomos, o el servidor público en quien delegue esta facultad, dictará resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
+> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
+IV. Desahogadas las pruebas, si las hubiere, el titular de la Contraloría del Poder Ejecutivo, del órgano de control del Poder Judicial, de los Órganos de Control de la Contraloría, en los Municipios y en los Órganos Autónomos, o el servidor público en quien delegue esta facultad, dictará resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
 
 ###### Artículo 232.
 
@@ -2539,11 +2627,13 @@ Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, perito
 
 #### Sección Cuarta. De la Revisión
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 240.
 
 Promoción de recurso de revisión contra las resoluciones definitivas del Tribunal del Estado
 
-Las resoluciones definitivas que emita el Tribunal del Estado, podrán ser impugnadas por las Contralorías del Estado y del Poder Judicial y de los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos o la Auditoría Superior del Estado, interponiendo el recurso de revisión, mediante escrito que se presente ante el propio Tribunal, dentro de los diez días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva.
+Las resoluciones definitivas que emita el Tribunal del Estado, podrán ser impugnadas por la Contraloría del Estado, los correspondientes Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos o la Auditoría Superior del Estado, interponiendo el recurso de revisión, mediante escrito que se presente ante el propio Tribunal, dentro de los diez días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva.
 
 ###### Artículo 241.
 
@@ -2573,11 +2663,13 @@ Notificadas las partes del auto de admisión, la Sala del conocimiento dictará 
 
 #### Sección Primera. Cumplimiento y ejecución de sanciones por Faltas administrativas no graves
 
+> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 244.
 
 Ejecución de sanciones a servidores públicos
 
-La ejecución de las sanciones por Faltas administrativas no graves se llevará a cabo de inmediato, una vez que sean impuestas por las Contralorías del Estado y del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos, y conforme se disponga en la resolución respectiva.
+La ejecución de las sanciones por Faltas administrativas no graves se llevará a cabo de inmediato, una vez que sean impuestas por la Contraloría del Estado, el órgano de control del Poder Judicial y los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos, y conforme se disponga en la resolución respectiva.
 
 ###### Artículo 245.
 
@@ -2728,3 +2820,13 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 24 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 546/2017 POR EL QUE SE MODIFICA LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN".]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
