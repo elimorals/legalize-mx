@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2017-09-09"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -2647,6 +2647,10 @@ El gobernador del Estado podrá establecer zonas de desarrollo económico para e
 
 La aprobación de las zonas de desarrollo económico se hará por parte de los poderes públicos competentes en los términos que disponga la ley, previa consulta a los municipios involucrados, los que podrán hacer compromisos en materia de servicios, facultades y hacienda pública con la autorización del Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+Las autoridades estatales y municipales deberán implementar en sus ámbitos de competencia, una política pública de mejora regulatoria que permita la simplificación de regulaciones, trámites y servicios, así como el cumplimiento de los objetivos previstos en la ley de la materia. Las regulaciones deberán garantizar que los beneficios para la sociedad sean superiores a sus costos y fomentar la competitividad, el crecimiento económico y el empleo.
+
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
 X.- Todas las autoridades, dentro de la esfera de su competencia y en el marco de sus atribuciones, están obligadas a vigilar y garantizar el derecho a vivir en un medio ambiente sano y equilibrado; así como a promover una adecuada conservación y protección del medio ambiente y de los recursos naturales de la entidad;
@@ -3712,6 +3716,12 @@ P.O. 9 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 344 POR EL QUE SE ADICIONA EL ARTÍCULO SÉPTIMO TRANSITORIO AL DECRETO 287, POR EL QUE SE REFORMARON, ADICIONARON Y DEROGARON DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA", NÚMERO 31, SUPLEMENTO 1, EL DÍA 13 DE MAYO DE 2017”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima."
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 385 POR EL QUE SE ADICIONA UN QUINTO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTÍCULO ÚNICO.
 
