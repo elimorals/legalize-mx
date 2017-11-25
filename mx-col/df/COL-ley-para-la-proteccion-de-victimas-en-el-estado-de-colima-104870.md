@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-victimas-en-el-estado-de-colima-10487
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-13"
-last_updated: "2015-04-18"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE VÍCTIMAS EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento No. 4 al Periódico Oficial del Estado de Colima, el sábado 13 de diciembre del 2014.
 
@@ -587,7 +587,9 @@ Las medidas colectivas que deberán implementarse tenderán al reconocimiento y 
 
 La gravedad del daño sufrido por las víctimas será el eje que determinará prioridad en su asistencia, en la prestación de servicios y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
 
-Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de mujeres, menores de edad, adultos mayores y población indígena.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
 
 ###### ARTÍCULO 25.
 
@@ -723,9 +725,11 @@ La Comisión Ejecutiva Estatal como responsable de la creación y gestión del R
 
 El Sistema Estatal de Seguridad Pública recabará y concentrará información estadística sobre víctimas por modalidades de asistencia, ayuda o reparación y por tipo de delito o violación de derechos que la motivare. La información tendrá carácter público y en ningún caso incluirá datos personales.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 41.
 
-Conforme a los lineamientos desarrollados por la Comisión Ejecutiva, las secretarías, dependencias, organismos y entidades estatales del sector salud, educación, desarrollo social y las demás obligadas, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente Ley.
+Conforme a los lineamientos desarrollados por la Comisión Ejecutiva, las secretarías, dependencias, organismos y entidades estatales del sector salud, educación, desarrollo social y las demás obligadas, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente Ley y en particular el enfoque diferencial para los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
 
 ###### ARTÍCULO 42.
 
@@ -2164,3 +2168,9 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO A
 P.O. 18 DE ABRIL DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+[N. DE. E. TRANSITORIO DEL "DECRETO 366 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 Y EL ARTÍCULO 41 DE LA LEY PARA LA PROTECCIÓN DE VÍCTIMAS EN EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
