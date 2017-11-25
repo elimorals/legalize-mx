@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2017-10-07"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COL"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA, COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -403,19 +405,25 @@ Los organismos públicos descentralizados del Gobierno Federal o Estatal, que te
 
 Únicamente están exentos del pago de este impuesto los bienes del dominio público de la federación, del Estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
 Se concede el 15, 13 y 11 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de medida y actualización, en predios urbanos y 3 unidades de medida y actualización en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufran las unidades de medida y actualización durante el ejercicio correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 En los casos en que el contribuyente sea de nacionalidad mexicana y acredite estar jubilado, pensionado por alguna institución pública; presente alguna discapacidad o con la edad de 60 años o más, la bonificación será del 50 por ciento en predios urbanos, siempre que el impuesto se refiera a un solo predio, éste sea de su propiedad y acredite la residencia en el mismo. La bonificación anterior se otorgará a los contribuyentes beneficiados por éste artículo durante todo el ejercicio fiscal, pero la omisión de pago puntual o anualidad adelantada, generará recargos y multas a la fecha de pago, en los términos de lo dispuesto por el segundo párrafo del artículo 51 B de ésta Ley y del artículo 25, último párrafo, del Código.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 25 NOVIEMBRE DE 2017)</small>
+
+Así mismo, se otorga el 50% por ciento de descuento en el pago del impuesto predial por concepto de pronto pago o anualidad adelantada, durante los meses de enero, febrero y marzo, a las instituciones de Asistencia Privada del Estado de Colima, que acrediten lo siguiente:
+
+a) Que sean propietarios del predio en el cual realice la actividad de asistencia social, objeto de la institución;
+
+b) Que tengan actividades las 24 horas del día, acreditado por la Junta de Asistencia Privada del Estado;
+
+c) Estar debidamente inscrita en el Registro Estatal de Organizaciones de la Sociedad Civil y al corriente en el pago de sus demás contribuciones estatales y municipales; y
+
+d) Acreditar de manera anual, lo señalado en los incisos anteriores.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -425,19 +433,13 @@ Dicho beneficio no será aplicable, si la residencia del contribuyente se consti
 
 Si al efectuar el cálculo del beneficio que se menciona en el párrafo antepenúltimo, da como resultado una cantidad menor a 2 unidades de UMA, el contribuyente deberá pagar el importe de las dos UMA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 Para efectos de la declaración de la exención a que se refiere la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la calidad del bien del dominio público, deberá acreditarse fehacientemente. La exención se solicitará por escrito a la autoridad fiscal, debiéndose acompañar u ofrecer las pruebas que demuestren su procedencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
 No quedan comprendidos entre los bienes del dominio público los inmuebles que los organismos descentralizados utilicen para oficinas administrativas o en general para propósitos distintos a los del cumplimiento de su objeto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -3664,3 +3666,9 @@ P.O. 7 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 355 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE COMALA".]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 376 POR EL QUE SE APRUEBA OTORGAR UN DESCUENTO DEL 50% EN EL PAGO DEL IMPUESTO PREDIAL POR CONCEPTO DE PRONTO PAGO O ANUALIDAD ADELANTADA, DURANTE LOS MESES DE ENERO, FEBRERO Y MARZO A LAS INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El Presente Decreto entrará en vigor a partir del 1° de enero de 2018, previa su su (sic) publicación en el Periódico Oficial “El Estado de Colima”.
