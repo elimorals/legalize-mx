@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2017-09-09"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -1305,9 +1305,13 @@ XVII. Las demás que le otorguen las leyes, reglamentos y manuales de organizaci
 
 ### CAPÍTULO VI. DE LA CONTRALORÍA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 77.
 
-La evaluación preventiva y el desarrollo administrativo estarán a cargo de la contraloría municipal, cuyo titular será nombrado por el cabildo a propuesta del presidente municipal y deberá cumplir con los requisitos establecidos en el artículo 68 de esta Ley.
+La Contraloría municipal tendrá a su cargo promover, evaluar y fortalecer el buen funcionamiento del control interno del Municipio y de las dependencias y entidades que conforman su Administración Pública, centralizada y paramunicipal. El titular de la Contraloría municipal será nombrado por el Cabildo, a propuesta del Presidente municipal, y deberá cumplir con los requisitos establecidos en el artículo 68 de esta Ley.
+
+La Contraloría municipal estará dotada de autonomía técnica y de gestión, y ejercerá las facultades que a los órganos internos de control confiere el artículo 109 de la Constitución Política de los Estados Unidos Mexicanos y su correlativo de la Constitución Política del Estado Libre y Soberano de Colima en materia de responsabilidades administrativas.
 
 ###### ARTICULO 78.
 
@@ -1349,11 +1353,15 @@ XIII. Presentar al presidente municipal un plan anual de trabajo, durante el mes
 
 XIV. Proponer al ayuntamiento al servidor público que fungirá como comisario público en las empresas de participación municipal;
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-XV. Solicitar a los titulares de las dependencias y entidades de la administración pública municipal que participen con el tesorero y el presidente municipal en el cumplimiento de las observaciones que formule el Órgano Superior de Auditoría y Fiscalización Superior Gubernamental del Estado; y
+XV. Solicitar a los titulares de las dependencias y entidades de la administración pública municipal que participen con el tesorero y el presidente municipal en el cumplimiento de las observaciones que formule el Órgano Superior de Auditoría y Fiscalización Superior Gubernamental del Estado;
 
-XVI. Las demás que le confiera esta u otras leyes, reglamentos, bandos municipales y acuerdos del ayuntamiento.
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Observar y aplicar en el ámbito de su competencia la Ley General de Responsabilidades Administrativas; y
+
+XVII. Las demás que le confiera esta u otras leyes, reglamentos, bandos municipales y acuerdos del ayuntamiento.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2015)</small>
 
@@ -2267,7 +2275,7 @@ P.O. 10 DE DICIEMBRE DE 2016.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
 
-(NOTA. EL 14 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 132/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 272 POR EL QUE SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 47 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL PRIMERO DE ABRIL DE DOS MIL DIECISIETE, LA CUAL SURTIÓ EFECTOS EL 12 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
+(NOTA. EL 14 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 132/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 272 POR EL QUE SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 47 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL PRIMERO DE ABRIL DE DOS MIL DIECISIETE, LA CUAL SURTIÓ EFECTOS EL 12 DE JUNIO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 [En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -2296,3 +2304,31 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los nombramientos de Secretario del Ayuntamiento y Tesorero Municipal que con anterioridad a la entrada en vigor del presente Decreto hayan sido emitidos, continuarán surtiendo sus efectos.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 383 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA Y DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima", sin perjuicio de lo siguiente.
+
+SEGUNDO. La Fiscalía Especializada en Combate a la Corrupción, el Tribunal de Justica Administrativa del Estado y el Comité Coordinador del Sistema Estatal Anticorrupción, a que hace referencia el presente Decreto con relación a las reformas, adiciones y derogaciones a la Ley Orgánica de la Administración Pública del Estado de Colima, entrarán en vigor en la misma fecha en que lo hagan las respectivas Leyes Orgánicas de la Fiscalía General y del Tribunal de Justicia Administrativa del Estado, así como la Ley del Sistema Anticorrupción del Estado de Colima, en los términos que al afecto dispongan.
+
+La derogación de la fracción XVI del artículo 13 y del artículo 37 de la Ley Orgánica de la Administración Pública del Estado de Colima, entrará en vigor en la misma fecha en que lo haga la Ley Orgánica de la Fiscalía General del Estado de Colima.
+
+TERCERO. Los procedimientos legales, administrativos, de control interno, de responsabilidades administrativas y económicas de los servidores públicos que se encuentren en trámite a la entrada en vigor del presente Decreto, los continuará conociendo la Contraloría General del Estado o la autoridad competente, hasta su total resolución de conformidad con las disposiciones vigentes al momento de su inicio.
+
+CUARTO. Las reformas y adiciones que en este Decreto se prevén al Código Penal para el Estado de Colima, entrarán en vigor a partir del nombramiento del Titular de la Fiscalía Especializada en Combate a la Corrupción en términos de lo previsto por el artículo 81 de la Constitución Política del Estado Libre y Soberano de Colima, y de la Ley Orgánica de la Fiscalía General del Estado que al efecto se emita de conformidad con el Artículo Segundo Transitorio del Decreto Número 08 por el que se reformaron, adicionaron y derogaron diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Colima, publicado en el Periódico Oficial "El Estado de Colima" Número 63 del 07 de noviembre de 2015, en tanto continuarán aplicándose las disposiciones vigentes con anterioridad a su entrada en vigor.
+
+QUINTO. A partir de la entrada en vigor de las reformas y adiciones que en este Decreto se prevén al Código Penal para el Estado de Colima de conformidad al artículo transitorio anterior, para el caso en que las reformas o adiciones contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas o adiciones, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
+II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
+III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+SEXTO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
