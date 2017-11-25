@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "2017-06-10"
+last_updated: "2017-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -168,6 +168,18 @@ h).- PROGRAMA: Al Programa Estatal del Deporte.
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
 i).- DEPORTISTA DE ALTO RENDIMIENTO: La persona que practica un deporte con altas exigencias técnicas y científicas, de preparación y entrenamiento, que le permiten participar en selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+j).- Persona con Discapacidad: Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+k).- Deporte Adaptado: Aquel deporte que está convenido como un sistema institucionalizado, regulado por los organismos internacionales correspondientes y sus reglamentos deportivos para su práctica, considerando las necesidades de participación de los deportistas que presentan discapacidades físicas, intelectuales, mentales, auditivas, visuales, motrices y sensoriales.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+l).- Accesibilidad Universal: Es el conjunto de características que debe disponer un entorno urbano, edificación, instalación deportiva, producto, servicio o medio de comunicación, concebido como un derecho para ser utilizado en condiciones de comodidad, seguridad, igualdad y autonomía por todas las personas, incluyendo el derecho de las personas con discapacidades.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2014)</small>
 
@@ -1046,3 +1058,9 @@ P.O. 10 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 303 POR EL QUE SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 1° BIS; EL ARTÍCULO 23 BIS 6; Y SE ADICIONAN LA FRACCIÓN XII AL ARTÍCULO 1° BIS; LA FRACCIÓN XIV DEL ARTÍCULO 18; Y UNA FRACCIÓN XI AL ARTÍCULO 34, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XI; TODOS DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 367 POR EL QUE SE ADICIONAN LOS INCISOS J), K) Y L) AL ARTÍCULO 2° DE LA LEY DE ESTÍMULO Y FOMENTO AL DEPORTE Y LA CULTURA FÍSICA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
