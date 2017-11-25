@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2017-07-06"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1093,9 +1093,11 @@ Las zonas de preservación ecológica de los centros de población, son aquellas
 
 Las formaciones naturales de interés municipal, son aquellas áreas que contienen uno o varios elementos naturales de importancia municipal, consistentes en lugares u objetos naturales que por su carácter único o excepcional, interés estético, valor histórico o cultural, o sean símbolos de identidad municipal, se incorporan a un régimen de protección.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 53.
 
-Las áreas municipales de protección hidrológica son aquellas destinadas a la preservación de ríos, manantiales y aguas subterráneas, a través de la protección de cuencas, áreas boscosas, llanuras y todas aquellas áreas que tengan impacto en las fuentes de producción y/o abastecimiento de agua, ubicadas en el territorio de un municipio.
+Las áreas municipales de protección hidrológica son aquellas destinadas a la preservación de ríos, manantiales, humedales y aguas subterráneas, a través de la protección de cuencas, áreas boscosas, llanuras y todas aquellas áreas que tengan impacto en las fuentes de producción y/o abastecimiento de agua, ubicadas en el territorio de un municipio.
 
 #### SECCION SEGUNDA
 
@@ -2646,3 +2648,9 @@ P.O. 6 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26376/LXI/17 QUE ADICIONA EL ARTÍCULO 60 BIS A LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+[N. DE. E. TRANSITORIO DEL "DECRETO 26443/LXI/17 QUE REFORMA EL ARTÍCULO 53 DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
