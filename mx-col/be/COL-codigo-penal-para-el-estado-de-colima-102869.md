@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2016-12-10"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # CODIGO PENAL PARA EL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1535,11 +1537,13 @@ CUMPLIMIENTO DEL CRITERIO DE OPORTUNIDAD, ACUERDO REPARATORIO EN JUSTICIA RESTAU
 
 La potestad para ejercer la acción penal, se extingue en los casos de cumplimiento de criterio de oportunidad, acuerdo reparatorio en justicia restaurativa, o de las condiciones decretadas en la suspensión condicional del proceso, y en las formas previstas en el Código Nacional de Procedimientos Penales.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 119.
 
 Delitos de querella necesaria.
 
-Se consideran delitos que como requisito de procedibilidad debe de constar querella del ofendido o de quien este facultado legalmente para interponerla, los siguientes; lesiones tipificado en las fracciones I, II y III del artículo 126, inducción o ayuda al suicidio tipificado en el artículo 143, estupro tipificado en el artículo 148, hostigamiento sexual tipificado en el artículo 152, rapto tipificado en el artículo 162, robo tipificado en los artículos 183, 184, 185 apartado a fracción III, 189, abigeato tipificado en el artículo 192 en los supuestos del artículo 196, abuso de confianza tipificado en el artículo 197, 198 fracción I, fraude tipificado en el artículo 199, 200, 201 fracción II, 202, despojo tipificado en el artículo 205, daños tipificado en el artículo 207, peligro de contagio tipificado en el artículo 212, ataque peligroso tipificado en el artículo 214, amenazas y coacción tipificado en el artículo 218 y 219, allanamiento de morada tipificado en el artículo 220, revelación de secretos tipificado en el artículo 221, calumnia tipificado en el artículo 222, discriminación tipificado en el artículo 223, incumplimiento de obligaciones de asistencia familiar tipificado en los artículos 229, 230, 231, violación de correspondencia tipificado en el artículo 252, y en los que así lo prevea este Código.
+Se consideran delitos que como requisito de procedibilidad debe de constar querella del ofendido o de quien este facultado legalmente para interponerla, los siguientes; lesiones tipificado en las fracciones I, II y III del artículo 126, inducción o ayuda al suicidio tipificado en el artículo 143, estupro tipificado en el artículo 148, hostigamiento sexual y acoso laboral tipificados en los artículos 152 y 152 BIS, rapto tipificado en el artículo 162, robo tipificado en los artículos 183, 184, 185 apartado A) fracción III, 189, abigeato tipificado en el artículo192 (sic) en los supuestos del artículo 196, abuso de confianza tipificado en el artículo 197, 198 fracción I, fraude tipificado en el artículo 199, 200, 201 fracción II, 202, despojo tipificado en el artículo 205, daños tipificado en el artículo 207, peligro de contagio tipificado en el artículo 212, ataque peligroso tipificado en el artículo 214, amenazas y coacción tipificado en el artículo 218 y 219, allanamiento de morada tipificado en el artículo 220, revelación de secretos tipificado en el artículo 221, calumnia tipificado en el artículo 222, discriminación tipificado en el artículo 223, incumplimiento de obligaciones de asistencia familiar tipificado en los artículos 229, 230, 231, violación de correspondencia tipificado en el artículo 252, cobranza extrajudicial ilegal tipificado en el artículo 218 Bis y en los que así lo prevea este Código.
 
 # LIBRO SEGUNDO. DE LOS DELITOS EN PARTICULAR
 
@@ -1743,13 +1747,45 @@ I. Con premeditación, la que se da cuando el agente haya reflexionado sobre el 
 
 II. Con alevosía, consistente en sorprender intencionalmente a alguien de improviso o empleando acechanza o engaño;
 
-III. Con ventaja, cuando el sujeto activo no corra riesgo alguno de ser muerto o lesionado por el ofendido; o
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-IV. Con traición, consistente en violar la fe o la seguridad que expresamente se había prometido a la víctima o la tácita que ésta debía esperar en razón del parentesco, gratitud, amistad o cualquiera otra circunstancia que inspire confianza.
+III. Con ventaja, cuando el sujeto activo no corra riesgo alguno de ser muerto o lesionado por el ofendido;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+IV. Con traición, consistente en violar la fe o la seguridad que expresamente se había prometido a la víctima o la tácita que ésta debía esperar en razón del parentesco, gratitud, amistad o cualquiera otra circunstancia que inspire confianza;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+V. Cuando exista retribución, entendiéndose por ésta cuando el agente comete el hecho por pago o prestación prometida o entregada;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+VI. Cuando se cometa dolosamente en contra de miembros de las fuerzas armadas, servidores públicos de las instituciones de Seguridad Pública, procuración o administración de justicia, al ejercer lícitamente sus funciones o con motivo de ellas;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+VII. Cuando dolosamente se cometan en perjuicio de periodistas o de empleados o titulares de medios de comunicación, con motivo o en ejercicio de su actividad periodística;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Cuando se cometa dolosamente y el sujeto pasivo haya sido periodista, miembro de las fuerzas armadas, servidor público integrante de las instituciones de Seguridad Pública, de procuración o administración de justicia, dentro de los cinco años anteriores a la fecha de la comisión del delito y éste se haya cometido con motivo de sus funciones;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+IX. Cuando en el momento de la privación de la vida, o posterior a ello, se realice la decapitación, mutilación, quemaduras, descuartizamiento o se utilicen mensajes intimidatorios dirigidos a la población, autoridades o cualquier persona. O se deje uno o más mensajes que atenten contra la dignidad humana, por la exhibición de la causa de la muerte; o
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+X. Cuando se cometa dolosamente en contra de una persona menor de dieciocho años de edad.
 
 ###### ARTÍCULO 135.
 
 Se impondrán las sanciones del homicidio o lesiones calificadas, cuando el delito se cometa por medio de inundación, incendio, asfixia, minas, bombas, explosivos, venenos o cualquier otra sustancia nociva a la salud, o con depravación, crueldad o brutal ferocidad.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 135 BIS.- Cuando los delitos de homicidio o lesiones se cometan en lugar concurrido por personas ajenas a los hechos y que pudieren resultar heridas o muertas, se aumentarán las sanciones correspondientes hasta en cinco años la pena de prisión, y la multa hasta en cien unidades de medida y actualización.
 
 ###### ARTÍCULO 136.
 
@@ -1841,7 +1877,7 @@ Si la persona a quien se induzca o ayude a privarse de la vida, fuere cónyuge, 
 
 ### CAPÍTULO III. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 144.
 
@@ -1897,7 +1933,7 @@ Al que tenga cópula con persona menor de catorce años de edad, o con quien no 
 
 Según el caso, se impondrán las penas señaladas en los artículos anteriores, cuando se produzca un resultado análogo al de la violación, introduciendo cualquier objeto o instrumento diferente al miembro viril, si el activo tuvo o no el propósito de copular.
 
-### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL
+### CAPÍTULO IV. HOSTIGAMIENTO SEXUAL Y ACOSO LABORAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -1913,7 +1949,7 @@ Sólo se procederá contra el activo, previa querella de la víctima u ofendido,
 
 ###### ARTÍCULO 149.
 
-Al que sin el consentimiento de una persona y sin el propósito directo o inmediato de llegar a la cópula ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá prisión de tres meses a tres años y multa por el importe equivalente de cien a doscientas cincuenta unidades de medida y actualización.
+Al que sin el consentimiento de una persona y sin el propósito directo o inmediato de llegar a la cópula ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá prisión de seis meses a cuatro años y multa por el importe equivalente de cien a doscientas cincuenta unidades de medida y actualización.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -1930,6 +1966,8 @@ Sólo se procederá contra el activo, previa querella de la víctima u ofendido,
 Cuando el sujeto pasivo sea menor de catorce años de edad, o carezca de capacidad para comprender el significado del hecho, el delito se perseguirá de oficio no admitiendo el perdón del ofendido o de sus legítimos representantes.
 
 Cuando se ejerza violencia en el sujeto pasivo la pena se aumentará hasta en un tercio más de la pena establecida para los supuestos considerados en el presente capítulo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ### CAPÍTULO II. REPRODUCCIÓN ASISTIDA INDEBIDA
 
@@ -1948,6 +1986,24 @@ Solo se procederá contra el activo, previa querella de la víctima u ofendido, 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 Al responsable del delito de hostigamiento sexual, cuando el pasivo sea menor de dieciocho años de edad o no tenga capacidad para comprender el significado del hecho, se le impondrá una pena de tres a seis años de prisión y multa por el importe equivalente de ciento cincuenta a trescientos días de unidades de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 152 BIS. Se le impondrán de seis meses a tres años de prisión y multa de doscientas a quinientas unidades de medida y actualización, al que dentro del espacio u ámbito laboral de forma persistente infunda miedo, intimidación o angustia a un trabajador, jefe o superior jerárquico inmediato o mediato, un compañero de trabajo o un subalterno, causando perjuicio laboral, o induzca a la renuncia del mismo u ocasione un daño o perjuicio en la posición laboral de la víctima.
+
+Sin ser una enumeración restrictiva, el acoso laboral puede darse, entre otras, bajo las siguientes modalidades generales:
+
+I. Todo acto de violencia contra la integridad física o moral, la libertad física o sexual y los bienes del trabajador;
+
+II. Toda expresión verbal injuriosa o ultrajante que lesione la integridad moral o los derechos a la intimidad y al buen nombre;
+
+III. Todo comportamiento tendiente a menoscabar la autoestima y la dignidad del trabajador;
+
+IV. Toda conducta cuyas características de reiteración o evidente arbitrariedad permitan inferir el propósito de inducir la renuncia, mediante la descalificación, carga excesiva de trabajo, cambios permanentes de horario y cualquier otra forma de producir desmotivación laboral, y
+
+V. Toda acción tendiente a obstaculizar el cumplimiento de la labor o hacerla más gravosa o retardarla con perjuicio para el trabajador, como la privación, ocultación o inutilización de los insumos, documentos o instrumentos para la labor, la destrucción o pérdida de información, el ocultamiento de correspondencia o mensajes electrónicos.
+
+En caso de que el hostigador sea un servidor público además de la pena mencionada se le destituirá de su cargo, y se le inhabilitará para ocupar otro de carácter público.
 
 ### CAPÍTULO III. INSEMINACIÓN ARTIFICIAL
 
@@ -2293,29 +2349,29 @@ Para estimar la cuantía del robo, se atenderá al valor intrínseco del objeto 
 
 Para efectos de los párrafos anteriores, el delito de robo se sancionará en los siguientes términos:
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-I. Cuando el valor de lo robado no exceda de treinta unidades de medida y actualización, se impondrán de seis meses a dos años de prisión o multa de treinta a sesenta unidades de medida y actualización;
+I. Cuando el valor de lo robado no exceda de treinta unidades de medida y actualización, se impondrán de uno a dos años de prisión y multa de treinta a sesenta unidades de medida y actualización;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-II. Cuando el valor de lo robado exceda de treinta pero no de noventa unidades de medida y actualización, se impondrán de uno a tres años de prisión y multa de cuarenta a cien unidades de medida y actualización;
+II. Cuando el valor de lo robado exceda de treinta pero no de noventa unidades de medida y actualización, se impondrán de dos a cuatro años de prisión y multa de cuarenta a cien unidades de medida y actualización;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-III. Cuando el valor de lo robado exceda de noventa pero no de cuatrocientas unidades de medida y actualización, se impondrán de dos a cuatro años de prisión y multa de noventa a cuatrocientas unidades de medida y actualización;
+III. Cuando el valor de lo robado exceda de noventa pero no de cuatrocientas unidades de medida y actualización, se impondrán de tres a cinco años de prisión y multa de noventa a cuatrocientas unidades de medida y actualización;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-IV. Cuando el valor de lo robado exceda de cuatrocientas pero no de dos mil unidades de medida y actualización, se impondrán de dos a seis años de prisión y multa de cuatrocientas a mil quinientas unidades de medida y actualización;
+IV. Cuando el valor de lo robado exceda de cuatrocientas pero no de dos mil unidades de medida y actualización, se impondrán de tres a siete años de prisión y multa de cuatrocientas a mil quinientas unidades de medida y actualización;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-V. Cuando el valor de lo robado exceda de dos mil unidades de medida y actualización, se impondrán de dos a ocho años de prisión y multa de mil quinientas unidades de medida y actualización; y
+V. Cuando el valor de lo robado exceda de dos mil unidades de medida y actualización, se impondrán de tres a nueve años de prisión y multa de mil quinientas unidades de medida y actualización; y
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-VI. Si por alguna circunstancia la cuantía del robo no fuere estimable en dinero o si por su naturaleza no se hubiere fijado su valor, se impondrán de uno a cinco años de prisión y multa de cincuenta a ciento veinticinco unidades de medida y actualización.
+VI. Si por alguna circunstancia la cuantía del robo no fuere estimable en dinero o si por su naturaleza no se hubiere fijado su valor, se impondrán de dos a seis años de prisión y multa de cincuenta a ciento veinticinco unidades de medida y actualización.
 
 ###### ARTÍCULO 184.
 
@@ -2325,7 +2381,9 @@ Comete el delito de robo y se sancionará con las mismas penas señaladas en el 
 
 Para los supuestos de robo calificado, se estará a lo dispuesto de la siguiente manera:
 
-A) Se impondrán de dos a diez años de prisión y multa de uno a tres veces el valor de lo robado:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+A) Se impondrán de tres a diez años de prisión y multa de uno a tres veces el valor de lo robado:
 
 I. Cuando el robo se cometa en lugar cerrado.
 
@@ -2341,7 +2399,9 @@ Si el delito lo comete el servidor público de la dependencia en que se encuentr
 
 V. Cuando se sustraiga información contenida en un expediente o documento electrónico o en una base de datos que se encuentren bajo custodia, resguardo o cuidado de una dependencia pública.
 
-B) Se impondrán de cinco a quince años de prisión y multa de uno a tres veces el valor de lo robado:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+B) Se impondrán de seis a quince años de prisión y multa de uno a tres veces el valor de lo robado:
 
 I. Cuando se cometa con violencia.
 
@@ -2377,19 +2437,19 @@ Si en los actos mencionados participa algún servidor público o empleados públ
 
 Los supuestos de este artículo se aplicarán independientemente, de que con motivo de la comisión del robo, se cometan otros delitos diversos, los que serán objeto de la acumulación correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 186.
 
-Al que se apodere de un vehículo de motor, sin derecho y sin consentimiento de la persona que pueda disponer de él con arreglo a la ley, se le impondrá de cinco a veinte años de prisión y multa por un importe equivalente de mil a mil quinientas unidades de medida y actualización.
+Al que se apodere de un vehículo de motor, sin derecho y sin consentimiento de la persona que pueda disponer de él con arreglo a la ley, se le impondrá de seis a veinte años de prisión y multa por un importe equivalente de mil a mil quinientas unidades de medida y actualización.
 
 Cuando el apoderamiento del vehículo se realice conforme a las hipótesis establecidas en el inciso B) en sus fracciones I, IV, V, VIII y, IX del artículo 185, la pena prevista en el párrafo anterior aumentará en un tercio más.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 187.
 
-Se equipara al delito de robo y se impondrá de cinco a veinte años de prisión y multa por un importe al equivalente de mil a mil quinientas unidades de medida y actualización, al que teniendo conocimiento y con independencia de las penas que le correspondan por la comisión de otros delitos:
+Se equipara al delito de robo y se impondrá de seis a veinte años de prisión y multa por un importe al equivalente de mil a mil quinientas unidades de medida y actualización, al que teniendo conocimiento y con independencia de las penas que le correspondan por la comisión de otros delitos:
 
 I. Desmantele uno o más vehículos robados, enajene, o trafique conjunta o separadamente las partes que los conforman;
 
@@ -2411,17 +2471,19 @@ IX. Aporte recursos económicos o proporcione medios de cualquier especie, para 
 
 Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más y se le inhabilitará hasta por veinte años para desempeñar cualquier empleo, cargo o comisión públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 188.
 
-Al que se apodere ilegalmente de cobre o algún otro metal utilizado en instalaciones eléctricas, hidráulicas, agua potable, gas, drenajes, partes de equipamiento urbano, industrial o agrícola; se le impondrá de cinco a quince años de prisión, y multa por un importe equivalente de setenta y cinco a cien unidades de medida y actualización.
+Al que se apodere ilegalmente de cobre o algún otro metal utilizado en instalaciones eléctricas, hidráulicas, agua potable, gas, drenajes, partes de equipamiento urbano, industrial o agrícola; se le impondrá de seis a quince años de prisión, y multa por un importe equivalente de setenta y cinco a cien unidades de medida y actualización.
 
 Cuando la sustracción o apoderamiento de cobre o algún otro metal, se realice conforme a las hipótesis establecidas en el inciso B) en sus fracciones I, II, IV, VII, VIII y IX del artículo 185, la pena prevista en el párrafo anterior aumentará en un tercio más.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-ARTÍCULO 188 BIS. Al que se apodere ilegalmente de implementos agropecuarios, maquinaria y equipo agrícolas, productos o subproductos de las actividades agropecuarias, o algún otro bien material del sector productivo del medio rural, o de la industria rural; se le impondrá de cinco a quince años de prisión, y multa por un importe equivalente de cincuenta a ciento cincuenta unidades de medida y actualización.
+ARTÍCULO 188 BIS. Al que se apodere ilegalmente de implementos agropecuarios, maquinaria y equipo agrícolas, productos o subproductos de las actividades agropecuarias, o algún otro bien material del sector productivo del medio rural, o de la industria rural; se le impondrá de seis a quince años de prisión, y multa por un importe equivalente de cincuenta a ciento cincuenta unidades de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
 Cuando la sustracción o apoderamiento del bien o producto, se realice conforme a las hipótesis establecidas en el inciso B) en sus fracciones I, II, VIII y IX del artículo 185, la pena prevista en el párrafo anterior aumentará en un tercio más.
 
@@ -2901,6 +2963,14 @@ Al que omita auxiliar, dentro de lo posible y razonable, a una persona cuya vida
 
 Si en razón de la omisión de auxilio sobreviene la muerte del sujeto, se impondrán de uno a tres años de prisión y multa hasta por un importe equivalente de trescientas a quinientas unidades de medida y actualización.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+Asimismo, al familiar que omita auxiliar a un adulto en plenitud estando obligado legalmente de prestarle cuidados y alimentos, y que con motivo de ello ponga en peligro su vida, salud o integridad, se le impondrán de tres meses a un año de prisión y multa por un importe equivalente de cien a trescientos días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+Si con motivo de la omisión de auxilio dispuesta en el párrafo anterior, sobreviene la muerte del adulto en plenitud, se impondrá al familiar la pena de prisión y la multa señalada en el párrafo tercero del presente artículo.
+
 ### CAPÍTULO I. VIOLENCIA INTRAFAMILIAR
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
@@ -2919,11 +2989,19 @@ Al conductor de un vehículo de motor o maquinaria similar, que abandone a quien
 
 Al que intimide a otro con causarle un daño en su persona, bienes, derechos o en la de otra persona con la que esté ligada por algún vínculo, se le impondrán de uno a cuatro años de prisión, y multa por un importe equivalente de veinte a sesenta unidades de medida y actualización.
 
-Igual pena se impondrá al que a través de escritos intimide a otro con motivo del cobro de una deuda.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-Para efectos del párrafo anterior se entenderá por intimidación el exagerar las acciones y consecuencias jurídicas que pudieran proceder por el incumplimiento en el pago del adeudo, que causen inquietud o zozobra en el ánimo del deudor.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 Se incrementará hasta en un tercio la pena cuando las amenazas se profieran al testigo, perito o demás sujetos intervinientes dentro de un procedimiento penal, esta conducta se perseguirá de oficio.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 218 BIS. Se sancionará de uno a cuatro años de prisión y multa de ciento cincuenta a trescientas unidades diarias de medida y actualización, a la persona física o moral, que personalmente o por interpósita persona lleve a cabo la actividad de cobranza extrajudicial ilegal.
+
+Se entenderá por cobranza extrajudicial ilegal el cobro realizado fuera de procedimiento judicial haciendo uso de la violencia o intimidación, hacia una persona, sus bienes o derechos, requiriendo el pago de una deuda o supuesta deuda a quien funja como deudor, aval o cualquier responsable u obligado solidario.
+
+Si se actualiza además cualquier otro tipo penal, se aplicarán las reglas de concurso de delitos señaladas en éste Código.
 
 ### CAPÍTULO III. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA FAMILIAR
 
@@ -2945,6 +3023,8 @@ Las mismas sanciones se aplicarán a quien permanezca en una morada o sus depend
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 221.
 
 Al que teniendo conocimiento de un secreto o comunicación reservada, lo revele en perjuicio o con resultado de peligro o daño para alguien, se le impondrán de tres meses a un año de prisión y multa por un importe equivalente de ocho a veinte unidades de medida y actualización.
@@ -2955,19 +3035,23 @@ Se aplicarán de dos a ocho años de prisión y multa de quinientas a mil unidad
 
 ### CAPÍTULO I BIS. DESVIO DE CUOTAS O APORTACIONES
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 233 BIS], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-ARTÍCULO 233 BIS. Al servidor público que descuente o retenga cuotas, o aportaciones a los empleados de una Entidad Pública, y omita destinarlas al fin para el que estaban previstas de conformidad con las leyes y demás disposiciones jurídicas o estatutarias aplicables, o los aplique a fin distinto al establecido por las mismas, se le impondrán de cuatro a ocho años de prisión cuando el valor del detrimento patrimonial sea de hasta un importe equivalente de dos mil unidades de medida y actualización, de seis a doce años de prisión cuando dicho monto exceda de un importe equivalente de dos mil pero no de cuatro mil unidades de medida y actualización, y de ocho a quince años de prisión cuando el mencionado monto o daño patrimonial causado excede de un importe equivalente a cuatro mil unidades de medida y actualización.
+ARTÍCULO 233 BIS 2. Al servidor público que descuente o retenga cuotas, o aportaciones a los empleados de una Entidad Pública, y omita destinarlas al fin para el que estaban previstas de conformidad con las leyes y demás disposiciones jurídicas o estatutarias aplicables, o los aplique a fin distinto al establecido por las mismas, se le impondrán de cuatro a ocho años de prisión cuando el valor del detrimento patrimonial sea de hasta un importe equivalente de dos mil unidades de medida y actualización, de seis a doce años de prisión cuando dicho monto exceda de un importe equivalente de dos mil pero no de cuatro mil unidades de medida y actualización, y de ocho a quince años de prisión cuando el mencionado monto o daño patrimonial causado excede de un importe equivalente a cuatro mil unidades de medida y actualización.
 
 Si las leyes y demás disposiciones jurídicas o estatutarias aplicables, no establecieren un término para enterar las cuotas o aportaciones, tal entrega deberá efectuarse en un plazo máximo de dos meses a partir de la fecha en que se hizo el descuento o retención, para no incurrir en la conducta delictiva señalada.
 
 Además, a los responsables de este delito se les impondrá privación para ejercer funciones públicas y una multa por un importe equivalente de trescientas a mil unidades de medida y actualización.
 
-Cuando se configuren los supuestos previstos en los párrafos anteriores, si el servidor público reintegra la totalidad de las cuotas, aportaciones antes de concluir el ejercicio fiscal correspondiente en que tenían que ser aplicados, se le impondrá pena de prisión de uno a cuatro años, inhabilitación para ejercer cargos, empleos o comisiones en el servicio público por un término de tres a seis años, y multa de trescientas a quinientas unidades de medida y actualización.
+Cuando se configuren los supuestos previstos en los párrafos anteriores, si el servidor público reintegra la totalidad de las cuotas, aportaciones antes de concluir el ejercicio fiscal correspondiente en que tenían que ser aplicados, se le impondrá pena de prisión de uno a cuatro años y multa de trescientas a quinientas veces el valor diario de la unidad de medida y actualización.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ## TÍTULO NOVENO. DELITOS CONTRA EL HONOR
 
-### CAPÍTULO II. EJERCICIO INDEBIDO DE FUNCIONES
+### CAPÍTULO II. EJERCICIO INDEBIDO DE SERVICIO PÚBLICO
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 222.
 
@@ -2997,19 +3081,21 @@ Los documentos físicos o electrónicos u objetos que hubieren servido de medio 
 
 ### CAPÍTULO IV. ABUSO DE AUTORIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-## TÍTULO PRIMERO. EJERCICIO INDEBIDO DE SERVICIO PÚBLICO
+## TÍTULO PRIMERO. DELITOS POR HECHOS DE CORRUPCIÓN DE SERVIDORES PÚBLICOS O DE PARTICULARES Y EJERCICIO INDEBIDO DE FUNCIONES
 
 ### CAPÍTULO V. PECULADO
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. DELITOS CONTRA LA FAMILIA
 
 ## TÍTULO SEGUNDO. DELITOS DE PELIGRO CONTRA LA SEGURIDAD PÚBLICA
 
 ### CAPÍTULO VI. COHECHO
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 225.
 
@@ -3037,6 +3123,8 @@ El delito de violencia intrafamiliar y su equiparado se investigarán y persegui
 
 ### CAPÍTULO VII. ENRIQUECIMIENTO ILÍCITO
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 228.
 
 Al que con el propósito de causar perjuicio u obtener un beneficio, altere, suprima o usurpe la filiación o el estado civil de una persona, se le impondrán de uno a cuatro años de prisión, y multa por un importe equivalente de cincuenta a ciento cincuenta unidades de medida y actualización.
@@ -3048,6 +3136,8 @@ Se aplicará igual sanción y pena a quien registre un nacimiento inexistente.
 A quien sustituya un niño por otro, con el propósito y finalidades señaladas en el primer párrafo del presente artículo, se le impondrá una pena de tres a seis años de prisión y multa por un importe equivalente de doscientas a quinientas unidades de medida y actualización.
 
 ### CAPÍTULO VIII. DELITOS COMETIDOS EN LA PROCURACIÓN E IMPARTICIÓN DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 229.
 
@@ -3073,7 +3163,7 @@ Toda persona obligada por la autoridad judicial competente a proporcionar inform
 
 ### CAPÍTULO IX. DELITO DE FALSEDAD DE LOS SERVIDORES PÚBLICOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 232.
 
@@ -3089,89 +3179,237 @@ Cuando en los términos de los párrafos anteriores la copula se realice a una p
 
 #### SECCIÓN TERCERA. DELITOS CONTRA LA SOCIEDAD
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
 ## TÍTULO TERCERO. DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE Y VÍAS DE COMUNICACIÓN
 
 ### CAPÍTULO X. DELITOS CONTRA SUJETOS PROTEGIDOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 233.
 
-Para los efectos de este Título son servidores públicos los que desempeñen puestos de elección popular, los miembros del Poder Judicial, los funcionarios, empleados y en general toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal.
+Para efectos de este Título son servidores públicos los representantes de elección popular, los miembros del Poder Judicial del Estado, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo, o comisión de cualquier naturaleza en el Poder Legislativo o en la Administración Pública Estatal o Municipal, así como a los servidores públicos de los órganos estatales autónomos previstos en (sic) Constitución Política del Estado Libre y Soberano de Colima.
 
 Se reputarán también como servidores públicos a quienes administren recursos económicos estatales o municipales, propios o por destino independientemente de la forma jurídica de aplicación de dichos fondos.
 
+Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título o el subsecuente.
+
+De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
+
+I. Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio o cuando el monto de la afectación o beneficio obtenido por la comisión del delito no exceda de doscientas veces el valor diario de la unidad de medida y actualización; y
+
+II. Será por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
+
+Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 233 Bis de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
+
+Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
+
+I. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
+
+II. Las circunstancias socioeconómicas del responsable;
+
+III. Las condiciones exteriores y los medios de ejecución; y
+
+IV. El monto del beneficio que haya obtenido el responsable.
+
+Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+
+Cuando los delitos a que se refieren los artículos 234, 237, 238, 239 y 242 Bis 5 del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación del Congreso del Estado, las penas previstas serán aumentadas hasta en un tercio.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 233 BIS. Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 233 BIS 1. Cuando los delitos a que se refieren los artículos 236, 238 y 242 Bis 3 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca, las penas previstas serán aumentadas hasta en una mitad.
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
-### CAPÍTULO I. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+### CAPÍTULO XI. USO ILÍCITO DE ATRIBUCIONES Y FACULTADES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO II. ASOCIACIÓN DELICTUOSA
+ARTÍCULO 242 BIS. Comete el delito de uso ilícito de atribuciones y facultades:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+I. El servidor público que ilícitamente:
+
+a. Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado;
+
+b. Otorgue permisos, licencias, adjudicaciones o autorizaciones de contenido económico;
+
+c. Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Estatal;
+
+d. Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, con recursos públicos; o
+
+e. Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
+
+II. El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
+
+a. Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento; o
+
+b. Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
+
+III. Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebida de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas; o
+
+IV. El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
+
+Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio, el servicio público o de otra persona, participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 242 BIS 1. Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga; o
+
+II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO XII. CONCUSIÓN
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 242 BIS 2. Comete el delito de concusión el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la Ley.
+
+Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
+
+Cuando la cantidad o el valor de lo exigido indebidamente no excedan del equivalente de quinientas veces el valor diario de la unidad de medida y actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien veces el valor diario de la unidad de medida y actualización.
+
+Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas veces el valor diario de la unidad de medida y actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y multa de cien a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 234.
 
-Comete el delito de ejercicio indebido de funciones el servidor público que:
+Comete el delito de ejercicio indebido de servicio público, el servidor público que:
 
 I. Ejerza sus funciones sin haber tomado posesión legítima;
 
-II. Continúe en funciones a sabiendas de que conforme a la ley no puede ejercerlas temporal o definitivamente;
+II. Continúe ejerciendo las funciones de un empleo, cargo o comisión a sabiendas que se ha revocado su nombramiento, que se le ha suspendido o destituido;
 
 III. Haga uso indebido de documentos o información contenida en formato, físico o electrónico, a los que tenga acceso;
 
-IV. A sabiendas de que actos de terceros pueden afectar el patrimonio o la función pública, no lo evite por los medios a su alcance;
+IV. Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública estatal, organismos descentralizados, empresa de participación estatal mayoritaria, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, de órganos estatales autónomos, del Poder Legislativo o del Poder Judicial, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades; o
 
-V. Por sí o por interpósita persona, sustraiga, destruya, oculte, niegue, utilice, o inutilice ilícitamente información o documentación que se encuentra bajo su custodia o a la cual tenga acceso mediante los archivos físicos o electrónicos que se encuentren en la base de datos o en cualquier medio electrónico, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión; o
+V. Por sí o por interpósita persona, sustraiga, destruya, oculte, niegue, utilice, o inutilice ilícitamente información o documentación que se encuentra bajo su custodia o a la cual tenga acceso mediante los archivos físicos o electrónicos que se encuentren en la base de datos o en cualquier medio electrónico, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 
-VI. Por sí o por interpósita persona, sustraiga, destruya, oculte, niegue, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
+Al que cometa alguno de los delitos previstos en las fracciones I y II de este artículo se le impondrán de tres meses a un año de prisión y multa por un importe equivalente de cincuenta a cien veces el valor diario de la unidad de medida y actualización.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+Al infractor de las fracciones III y IV de este artículo se le impondrán de dos a siete años de prisión, multa por un importe equivalente de cincuenta a cien veces el valor diario de la unidad de medida y actualización.
 
-Al que cometa alguno de los delitos previstos en las fracciones I y II de este artículo se le impondrán de tres meses a un año de prisión y multa por un importe equivalente de cincuenta a cien unidades de medida y actualización e inhabilitación de un (sic) uno a dos años para desempeñar otra función pública.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-Al infractor de las fracciones III y IV de este artículo se le impondrán de dos a siete años de prisión, multa por un importe equivalente de cincuenta a cien unidades de medida y actualización e inhabilitación de dos a siete años para desempeñar otra función pública.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-Al servidor público que incurra en lo dispuesto por las fracciones V y VI del presente artículo se le impondrá la pena de tres a ocho años de prisión y multa por un importe equivalente de cien a doscientas unidades de medida y actualización e inhabilitación de tres a ocho años para desempeñar otra función pública.
+Al infractor de la fracción V de este artículo se le impondrán de tres a ocho años de prisión y multa por un importe equivalente de cien a doscientas unidades de medida y actualización.
 
 Cuando en el ocultamiento o ante la negativa de proporcionar información o documentos mediara solicitud o requerimiento de autoridad judicial o administrativa dentro de juicio o procedimiento llevado en forma de juicio, las sanciones impuestas en el párrafo anterior se aumentaran en un tercio.
 
-### CAPÍTULO III. PANDILLERISMO
+### CAPÍTULO XIII. INTIMIDACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 242 BIS 3. Comete el delito de intimidación:
+
+I. El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley General de Responsabilidades Administrativas o la legislación local aplicable en materia de responsabilidades administrativas; o
+
+II. El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+
+Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y de treinta a cien veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 235.
 
 Comete el delito de abandono de funciones el servidor público que sin habérsele admitido su renuncia se separe de ellas sin causa justificada.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-Al autor de este delito se le impondrá la pena de tres meses a un año de prisión, o multa por un importe equivalente de cien a trescientas unidades de medida y actualización e inhabilitación de un mes a dos años para ejercer funciones públicas.
+Al autor de este delito se le impondrá la pena de tres meses a un año de prisión, o multa por un importe equivalente de cien a trescientas veces el valor diario de la unidad de medida y actualización.
 
-### CAPÍTULO IV. PORTACIÓN PROHIBIDA DE ARMAS BLANCAS
+### CAPÍTULO XIV. EJERCICIO ABUSIVO DE FUNCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 242 BIS 4. Comete el delito de ejercicio abusivo de funciones, el servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones, adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
+
+Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el valor diario de la unidad de medida y actualización en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión y de treinta a cien veces el valor diario de la unidad de medida y actualización.
+
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo exceda de quinientas veces el valor diario de la unidad de medida y actualización en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión y de cien a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 236.
 
-A los servidores públicos que frente a los particulares y en razón de sus funciones, los medios o autoridad que éstas les otorguen, cometan o encubran cualquier acto ilegal aun cuando no sea delictivo, se les impondrán de uno a nueve años de prisión y multa por un importe equivalente de doscientas a trescientas unidades de medida y actualización y además inhabilitación hasta por nueve años para desempeñar funciones públicas cuando siendo la conducta constitutiva de delito, éste no contemple dicha inhabilitación.
+Cometen el delito de abuso de autoridad los servidores públicos que incurran en alguna de las conductas siguientes:
 
-Este delito se aplicará únicamente para los casos en que conforme a la Ley no proceda el empleo de correcciones, medidas o sanciones administrativas.
+I. Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
 
-### CAPÍTULO I. DELITOS CON MOTIVO DEL TRÁNSITO DE VEHÍCULOS
+II. Cuando ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima, la vejare o la insultare;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+III. Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
+
+IV. Cuando el encargado o elemento de una fuerza pública, requerido legalmente por una autoridad competente para que le preste auxilio se niegue a dárselo o retrase el mismo injustificadamente. La misma previsión se aplicará tratándose de peritos;
+
+V. Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o para cualquier otra persona, parte del sueldo o remuneración de uno o más de sus subalternos, dádivas u otros bienes o servicios;
+
+VI. Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado;
+
+VII. Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que lo haga con conocimiento de tal situación;
+
+VIII. Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
+
+IX. Omitir el registro de la detención correspondiente o dilatar injustificadamente poner al detenido a disposición de la autoridad correspondiente;
+
+X. Incumplir con la obligación de impedir la ejecución de las conductas de privación de la libertad; o
+
+XI. Cuando frente a los particulares y en razón de sus funciones, los medios o autoridad que éstas les otorguen, cometan o encubran cualquier acto ilegal aun cuando no sea delictivo.
+
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I a IV y VI a VIII, se le impondrá de uno a ocho años de prisión y de cincuenta hasta cien veces el valor diario de la unidad de medida y actualización. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones VI a VIII.
+
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones V, IX, X y XI se le impondrá de dos a nueve años de prisión y de setenta hasta ciento cincuenta veces el valor diario de la unidad de medida y actualización.
+
+### CAPÍTULO XV. TRÁFICO DE INFLUENCIA
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 242 BIS 5. Comete el delito de tráfico de influencia:
+
+I. El servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
+
+II. Cualquier persona que promueve la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior;
+
+III. El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la primera fracción del artículo 224 Bis 4 de este Código; o
+
+IV. Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
+
+Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión y de treinta veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 237.
 
-Al servidor público que en provecho propio o ajeno, disponga ilícitamente de dinero, valores, fincas o cualquier otro bien que hubiese recibido por razón de su función en administración, depósito o cualquiera otra causa, se le impondrán de cuatro a ocho años de prisión cuando el valor del detrimento patrimonial sea de hasta un importe equivalente de dos mil unidades de medida y actualización, de seis a doce años de prisión cuando dicho monto exceda de un importe equivalente de dos mil pero no de cuatro mil unidades de medida y actualización, y de ocho a quince años de prisión cuando el mencionado monto o daño patrimonial causado excede de un importe equivalente a cuatro mil unidades de medida y actualización.
+Comete el delito de peculado:
 
-Además, a los responsables de este delito se les impondrá privación para ejercer funciones públicas y una multa por un importe equivalente de trescientas a mil doscientas unidades de medida y actualización.
+I. Todo servidor público que para su beneficio o el de una tercera persona física o moral, disponga ilícitamente de dinero, valores, fincas o cualquier otra cosa perteneciente al Estado, si por razón de su cargo los hubiere recibido en administración, en depósito, en posesión o por otra causa;
+
+II. El servidor público que ilícitamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona;
+
+III. Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades; o
+
+IV. Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+
+Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientas veces el valor diario de la unidad de medida y actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien veces el valor diario de la unidad de medida y actualización.
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el valor diario de la unidad de medida y actualización en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión y de cien a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
+
+Cuando los recursos materia del peculado sean aportaciones federales para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3179,117 +3417,145 @@ ARTÍCULO 237 BIS. Al servidor público que reciba o administre recursos públic
 
 Además, a los responsables de este delito se les impondrá privación para ejercer funciones públicas y una multa por un importe equivalente de trescientas a mil unidades de medida y actualización.
 
-Cuando se configuren los supuestos previstos en los párrafos anteriores, si el servidor público reintegra la totalidad de los recursos públicos antes de concluir el ejercicio fiscal correspondiente en que tenían que ser aplicados, se le impondrá pena de prisión de uno a cuatro años, inhabilitación para ejercer cargos, empleos o comisiones en el servicio público por un término de tres a seis años, y multa de trescientas a quinientas unidades de medida y actualización.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-### CAPÍTULO II. DELITOS CONTRA LAS VÍAS DE COMUNICACIÓN
+Cuando se configuren los supuestos previstos en los párrafos anteriores, si el servidor público reintegra la totalidad de los recursos públicos antes de concluir el ejercicio fiscal correspondiente en que tenían que ser aplicados, se le impondrá pena de prisión de uno a cuatro años y multa de trescientas a quinientas veces el valor diario de la unidad de medida y actualización.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO XVI. TRANSFORMACIÓN DE ACTIVOS PRODUCTO DEL DELITO
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+ARTÍCULO 242 BIS 6. Comete el delito de transformación de activos producto del delito quien realice cualquier operación, procedimiento o acción para dar apariencia de legalidad u ocultar la existencia, el origen o destino de los activos, beneficios económicos, efecto o ganancias obtenidas a través de cualquier actividad llicta (sic), mediante la ejecución de cualquiera de las siguientes conductas:
+
+I. Realice la conversión o la transferencia de bienes, a sabiendas de que esos son producto del delito, con el propósito de transformar bajo cualquier forma el origen ilícito de estos;
+
+II. Administración (sic), oculte o disimule de la verdadera naturaleza, el origen, la ubicación, la disposición, el movimiento o la propiedad de bienes o del legítimo derecho a éstos, a sabiendas de que dichos bienes son producto del delito;
+
+III. Adquiera, obtenga, o posea bienes, a sabiendas, en el momento de su recepción, de que son producto del delito;
+
+IV. Realice la integración o reinversión de cualquier bien producto del delito;
+
+V. Constituya o simule cualquier tipo de sociedad; o
+
+VI. Ayude bajo cualquier forma o asesore a quienes estén involucrados en la comisión del delito, a eludir las consecuencias jurídicas de sus actos.
+
+Al que cometa el delito de transformación de activos producto del delito se le impondrán de dos a ocho años de prisión y de cien a mil veces el valor diario de la unidad de medida y actualización.
 
 ###### ARTÍCULO 238.
 
 Cometen el delito de cohecho:
 
-I. El servidor público que directa o indirectamente solicite o reciba indebidamente para sí o para otro dinero o cualquiera otra dádiva o acepte una promesa, para hacer o dejar de hacer algo relacionado con sus funciones; o
+I. El servidor público que directa o indirectamente solicite o reciba ilícitamente para sí o para otro, dinero o cualquier otro beneficio, o acepte una promesa, para hacer o dejar de hacer algo relacionado con su empleo, cargo o comisión;
 
-II. Al que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva, en forma directa o indirecta, para que el servidor público haga u omita algo relacionado con sus funciones.
+II. El que dé, prometa o entregue cualquier beneficio, en forma directa o indirecta, para que el servidor público haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión; y
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+III. El legislador estatal que, en el ejercicio de sus funciones o atribuciones, y en el marco del proceso de aprobación del presupuesto de egresos respectivo, gestione o solicite:
 
-Al que cometa el delito de cohecho se le impondrá de uno a nueve años de prisión, y multa por un importe equivalente de doscientas a quinientas unidades de medida y actualización y en su caso inhabilitación hasta por un término igual al de la pena de prisión impuesta.
+a. La asignación de recursos a favor de un ente público, exigiendo u obteniendo, para sí o para un tercero, una comisión, dádiva o contraprestación, en dinero o en especie, distinta a la que corresponde por el ejercicio de su encargo; o
 
-### CAPÍTULO III. VIOLACIÓN DE CORRESPONDENCIA
+b. El otorgamiento ilegal de contratos de obra pública o de servicios a favor de determinadas personas físicas o morales.
+
+Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o en representación del legislador estatal las asignaciones de recursos u otorgamiento de contratos a que se refieren los incisos a) y b) de este artículo.
+
+Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
+
+Cuando la cantidad o el valor de la dádiva, de los bienes o la promesa no exceda del equivalente de quinientas veces el valor diario de la unidad de medida y actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien veces el valor diario de la unidad de medida y actualización.
+
+Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de quinientas veces el valor diario de la unidad de medida y actualización en el momento de cometerse el delito, se impondrán de dos a catorce años de prisión y de cien a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
+
+En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
+
+### CAPÍTULO I. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 239.
 
-Comete el delito de enriquecimiento ilícito el servidor público que utilice su puesto, cargo o comisión para incrementar su patrimonio sin comprobar su legítima procedencia.
+Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño.
 
-Para determinar el enriquecimiento del servidor público, se tomarán en cuenta los bienes a su nombre y aquellos respecto de los cuales se conduzca como dueño, además de lo que a este respecto disponga la legislación sobre responsabilidades de los servidores públicos.
+Para efectos del párrafo anterior, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que el servidor público acredite que éstos los obtuvieron por sí mismos.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
 
-Al autor de este delito se le impondrán de uno a nueve años de prisión, y multa por un importe equivalente de seiscientas a mil doscientas unidades de medida y actualización, y privación para desempeñar cualquier otro empleo o función pública si el monto a que ascienda el enriquecimiento ilícito no excede del equivalente a cuatro mil unidades de medida y actualización. Cuando tal monto exceda de dicha cantidad se deberá imponer una pena de prisión de cinco a doce años, multa por un importe equivalente de mil a mil quinientas unidades de medida y actualización, y privación para desempeñar cualquier otro empleo o función pública.
+Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar.
 
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2016)</small>
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el valor diario de la unidad de medida y actualización se impondrán de tres meses a dos años de prisión y de treinta a cien veces el valor diario de la unidad de medida y actualización.
 
-Sin perjuicio de las sanciones anteriores, al servidor público que incurra en enriquecimiento ilícito, se le impondrá además el decomiso de los instrumentos, objetos o productos del delito.
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el valor diario de la unidad de medida y actualización se impondrán de dos años a catorce años de prisión y multa de cien a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
 
-### CAPÍTULO I. FALSIFICACIÓN DE SELLOS, LLAVES, MARCAS Y CONTRASEÑAS
+### CAPÍTULO II. ASOCIACIÓN DELICTUOSA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 240.
 
-Son delitos cometidos en la procuración e impartición de justicia los siguientes:
+Son delitos cometidos en la procuración e impartición de justicia, los siguientes:
 
-I. Desempeñar algún otro empleo oficial o un puesto o cargo particular que la Ley les prohíba;
+I. Conocer de negocios para los cuales tengan impedimento legal o abstenerse de conocer de los que les corresponda, sin tener impedimento legal para ello;
 
-II. Litigar por sí o por interpósita persona, cuando la ley les prohíba el ejercicio de su profesión;
+II. Desempeñar algún otro empleo oficial o un puesto o cargo particular que la Ley les prohíba;
 
-III. Actuar parcialmente asuntos de su competencia con solo una de las partes, con el ánimo de obtener un beneficio o causar un perjuicio;
+III. Litigar por sí o por interpósita persona, cuando la ley les prohíba el ejercicio de su profesión;
 
-IV. Retardar o entorpecer, aún sea por negligencia, la procuración o administración de justicia;
+IV. Actuar parcialmente asuntos de su competencia con solo una de las partes, con el ánimo de obtener un beneficio o causar un perjuicio;
 
-V. Comunicar a las partes cualquier providencia decretada en su contra fuera de los casos previstos por la ley;
+V. Retardar o entorpecer, aún sea por negligencia, la procuración o administración de justicia;
 
-VI. Permitir, fuera de los casos previstos por la ley, la salida temporal de personas detenidas o a disposición del ministerio público, de un juez o en virtud de sentencia;
+VI. Ejercitar acción penal cuando no proceda denuncia, acusación o querella;
 
-VII. No cumplir una disposición legal que debidamente se les comunique por su superior, o por quien en razón de sus funciones esté obligado a obedecer, después de haberse agotado las medidas administrativas tendentes a procurar su cumplimiento;
+VII. Comunicar a las partes cualquier providencia decretada en su contra fuera de los casos previstos por la ley;
 
-VIII. Dictar u omitir ilícitamente una determinación o resolución con dolo manifiesto;
+VIII. Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común;
 
-IX. Obligar al imputado a declarar en su contra;
+IX. Permitir, fuera de los casos previstos por la ley, la salida temporal de personas detenidas o a disposición del ministerio público, de un juez o en virtud de sentencia;
 
-X. Imponer cualquier prestación indebida en lugares de detención o internamiento;
+X. Dar a conocer a quien no tenga derecho, documentos, constancias o información que obren en una carpeta de investigación o en un proceso penal y que por disposición de la ley o resolución de la autoridad judicial, sean reservados o confidenciales;
 
-XI. Ordenar la detención de un servidor público, con fuero, cuando dicha orden sea ejecutada sin habérsele retirado;
+XI. Desviar u obstaculizar la investigación del hecho delictuoso de que se trate o favorecer que el imputado se sustraiga a la acción de la justicia;
 
-XII. Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo juicio hubiesen intervenido;
+XII. No cumplir una disposición legal que debidamente se les comunique por su superior, o por quien en razón de sus funciones esté obligado a obedecer, después de haberse agotado las medidas administrativas tendentes a procurar su cumplimiento;
 
-XIII. Omitir denunciar, cuando por razón del cargo esté obligado a promover la misma u omitir la persecución de delitos y delincuentes;
+XIII. Imponer cualquier prestación indebida en lugares de detención o internamiento;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2015)</small>
+XIV. Ordenar la detención de un servidor público, con fuero, cuando dicha orden sea ejecutada sin habérsele retirado;
 
-XIV. Delegar funciones judiciales a subalternos, sin causa legal;
+XV. Rematar, en favor de ellos mismos, por sí o por interpósita persona, los bienes objeto de un remate en cuyo juicio hubiesen intervenido;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2015)</small>
+XVI. Omitir denunciar, cuando por razón del cargo esté obligado a promover la misma u omitir la persecución de delitos y delincuentes;
 
-XV. Dilatar de forma injustificada el otorgamiento de providencias precautorias, medidas cautelares o medidas de protección con el ánimo de proteger o afectar a alguien; o
+XVII. Delegar funciones judiciales a subalternos, sin causa legal;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2015)</small>
+XVIII. Dilatar de forma injustificada el otorgamiento de providencias precautorias, medidas cautelares o medidas de protección con el ánimo de proteger o afectar a alguien;
 
-XVI. Retardar o entorpecer dolosamente o por negligencia la procuración o administración de justicia con respecto al delito de feminicidio, o al Agente del Ministerio Público que no cumpla con las obligaciones que impone el artículo 73 Bis de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Colima.
+XIX. Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+XX. Ordenar o practicar cateos o visitas domiciliarias fuera de los casos autorizados por la ley; o
 
-A quien cometa los delitos previstos en las fracciones de la I a la VIII, se le impondrán de uno a seis años de prisión y multa por un importe equivalente de cincuenta a cien unidades de medida y actualización.
+XXI. Retardar o entorpecer dolosamente o por negligencia la procuración o administración de justicia con respecto al delito de feminicidio.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+A quien cometa los delitos previstos en las fracciones I, II, III, VIII, IX y XIV se le impondrán de tres a seis años de prisión y multa por un importe equivalente de cincuenta a cien veces el valor diario de la unidad de medida y actualización.
 
-En los demás casos, la pena será de dos a ocho años de prisión y multa por un importe equivalente de doscientos (sic) a quinientas unidades de medida y actualización.
+A quien cometa los delitos previstos en las fracciones IV, V, VI, VII, X, XI, XII, XIII, XV, XVI, XVII, XVIII, IXX (SIC), XX y XXI se le impondrán de cuatro a diez años de prisión y multa por un importe equivalente de cien a ciento cincuenta veces el valor diario de la unidad de medida y actualización.
 
-En todos los delitos previstos en este capítulo, además de las sanciones señaladas, los responsables serán inhabilitados para desempeñar funciones públicas hasta por el mismo término al de la pena de prisión impuesta.
-
-### CAPÍTULO II. FALSIFICACIÓN Y USO DE DOCUMENTO FALSO
+### CAPÍTULO III. PANDILLERISMO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 241.
 
-Se impondrá de tres a siete años de prisión, multa por un importe equivalente de trescientas a seiscientas unidades de medida y actualización, e inhabilitación para desempeñar cualquier otro empleo o encargo público, al servidor público que en ejercicio de sus funciones, expida una certificación de hechos que no sean ciertos, o dé fe de lo que no conste en autos, registros, protocolos o documentos físicos o electrónicos o en la base de datos.
+Se impondrá de tres a siete años de prisión, y multa por un importe equivalente de trescientas a seiscientas veces el valor diario de la unidad de medida y actualización al servidor público que en ejercicio de sus funciones, expida una certificación de hechos que no sean ciertos, o dé fe de lo que no conste en autos, registros, protocolos o documentos físicos o electrónicos o en la base de datos.
 
 Se considerará como delito de falsedad y será sancionado con las mismas penas señaladas en el párrafo anterior, cuando el servidor público, por engaño o sorpresa, hiciere que alguien firme un documento, que no habría firmado sabiendo su contenido.
 
 Igual sanción que la prevista en los dos párrafos anteriores será aplicable al fedatario público que incurra en las conductas en ellos previstas, o que expida un documento público o certifique uno privado, o de fe o certifique firmas de cualquier acto jurídico que implique un traslado de dominio sobre un inmueble, sin cerciorarse previamente y hacerle saber fehacientemente a las partes contratantes si tal inmueble está o no libre de gravámenes.
 
-### CAPÍTULO III. USO INDEBIDO DE CONDECORACIONES O UNIFORMES O USURPACIÓN DE PROFESIÓN
+### CAPÍTULO IV. PORTACIÓN PROHIBIDA DE ARMAS BLANCAS
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 242.
 
-Se sancionará de dos a ocho años de prisión y multa de quinientas a mil quinientas unidades de medida y actualización e inhabilitación para ocupar un cargo público hasta por cinco años, a quien:
+Se sancionará de dos a ocho años de prisión y multa de quinientas a mil quinientas veces el valor diario de la unidad de medida y actualización a quien:
 
 I. Revele la identidad de un sujeto protegido sin la autorización correspondiente;
 
@@ -3299,33 +3565,35 @@ III. Omita la protección del sujeto protegido, poniendo en riesgo su vida, su i
 
 IV. Revoque la protección del sujeto protegido de manera injustificada o con el ánimo de causarle un perjuicio o traición.
 
-### CAPÍTULO IV. USO INDEBIDO DE LLAMADAS TELEFÓNICAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO I. DELITOS CON MOTIVO DEL TRÁNSITO DE VEHÍCULOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
+### CAPÍTULO II. DELITOS CONTRA LAS VÍAS DE COMUNICACIÓN
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO I. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
+### CAPÍTULO III. VIOLACIÓN DE CORRESPONDENCIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO II. DELITO CONTRA EL RESPETO A LOS MUERTOS
+### CAPÍTULO I. FALSIFICACIÓN DE SELLOS, LLAVES, MARCAS Y CONTRASEÑAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO I. CONSPIRACIÓN
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
-
-### CAPÍTULO II. REBELIÓN
+### CAPÍTULO II. FALSIFICACIÓN Y USO DE DOCUMENTO FALSO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO III. SEDICIÓN
+### CAPÍTULO III. USO INDEBIDO DE CONDECORACIONES O UNIFORMES O USURPACIÓN DE PROFESIÓN
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ## TÍTULO CUARTO. DELITOS DE FALSEDAD Y CONTRA LA FE PÚBLICA
 
-### CAPÍTULO IV. MOTÍN
+### CAPÍTULO IV. USO INDEBIDO DE LLAMADAS TELEFÓNICAS
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3337,7 +3605,9 @@ La pena prevista en el primer párrafo será aumentada en una mitad, cuando la c
 
 Para efectos de este artículo se entiende que proceden o representan el producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, sobre los que se acredite su ilegítima procedencia, o exista certeza de que provienen directa o indirectamente de la comisión de algún delito o representan las ganancias derivadas de éste.
 
-### CAPÍTULO I. COALICIÓN DE SERVIDORES PÚBLICOS
+### CAPÍTULO I. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 244.
 
@@ -3345,7 +3615,7 @@ Cuando tres o más personas se organicen de hecho para realizar, en forma perman
 
 Si el sujeto activo miembro de la asociación delictuosa fue o es servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito, administración de justicia o reinserción social, se le aumentará en una mitad la pena de prisión establecida en el párrafo primero de este artículo, además de la privación para ejercer derechos o funciones públicas.
 
-### CAPÍTULO II. USURPACIÓN DE FUNCIONES
+### CAPÍTULO II. DELITO CONTRA EL RESPETO A LOS MUERTOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3359,9 +3629,7 @@ Cuando sea o haya sido miembro de alguna corporación policiaca pública o priva
 
 Se entiende por pandilla para los efectos de esta disposición, a la reunión habitual, ocasional o transitoria, de tres o más personas que, sin estar organizados con fines delictuosos, cometen en común algún delito.
 
-### CAPÍTULO III. ULTRAJES A LA AUTORIDAD
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 133 SESIONADO EL 23 DE AGOSTO DE 2016 Y PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2016, SE ADVIERTE LA REFORMA ÚNICAMENTE AL PRIMER PÁRRAFO DE ESTE ARTÍCULO; SIN EMBARGO, EL PÁRRAFO SEGUNDO FUE PREVIAMENTE ADICIONADO MEDIANTE DECRETO 137 PUBLICADO EN EL P.O. 10 DE SEPTIEMBRE DE 2016 Y REPUBLICADO EL 15 DE OCTUBRE DE 2016.]</small>
+### CAPÍTULO I. CONSPIRACIÓN
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3383,7 +3651,7 @@ No cometerá este delito, quien para su estricto desempeño de su función labor
 
 ## TÍTULO QUINTO. DELITOS EN MATERIA DE INHUMACIONES, EXHUMACIONES Y CONTRA EL RESPETO A LOS MUERTOS
 
-### CAPÍTULO IV. DESOBEDIENCIA A UN MANDATO LEGÍTIMO DE AUTORIDAD
+### CAPÍTULO II. REBELIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3405,7 +3673,7 @@ A quién con motivo de tránsito de vehículos y a causa de su conducta impruden
 
 Cuando el monto señalado en el párrafo anterior no exceda de doscientas cincuenta unidades de medida y actualización, se impondrá únicamente multa por un importe equivalente de cincuenta a cien unidades de medida y actualización.
 
-### CAPÍTULO V. RESISTENCIA DE PARTICULARES
+### CAPÍTULO III. SEDICIÓN
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3427,7 +3695,7 @@ Al que dañe o destruya alguna vía terrestre de comunicación estatal o para cu
 
 Al que en ejecución de estos hechos se valga de incendio, explosión o inundación, se le impondrán de cuatro a doce años de prisión y multa por un importe equivalente de trescientas a setecientas unidades de medida y actualización.
 
-### CAPÍTULO VI. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO IV. MOTÍN
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3445,9 +3713,7 @@ No se impondrá sanción a los que ejerciendo la patria potestad o la tutela, ab
 
 ## TÍTULO PRIMERO. DELITOS CONTRA LA SEGURIDAD DEL ESTADO
 
-### CAPÍTULO VII. ALTERACIÓN DE LA CADENA DE CUSTODIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO I. COALICIÓN DE SERVIDORES PÚBLICOS
 
 ###### ARTÍCULO 253.
 
@@ -3469,7 +3735,7 @@ V. Al que altere las inscripciones, signos u otros medios de identificación de 
 
 Se impondrán de uno a cuatro años de prisión, y multa por un importe equivalente de cincuenta a doscientas unidades de medida y actualización, cuando los objetos a que se refieren las conductas delictivas tipificadas en el artículo anterior, sean de uso particular y su autor se proponga obtener un beneficio o causar un perjuicio.
 
-### CAPÍTULO VIII. FALSEDAD ANTE AUTORIDADES NO JUDICIALES
+### CAPÍTULO II. USURPACIÓN DE FUNCIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3485,11 +3751,11 @@ La misma sanción se impondrá al que a sabiendas haga uso de un documento, fís
 
 Cuando la alteración o falsificación sea realizada sobre una placa de circulación, engomado, tarjeta de circulación o los demás documentos oficiales que se expidan por la autoridad para identificar cualquier tipo de vehículo se impondrán de cuatro a ocho años de prisión y multa por el equivalente de doscientas cincuenta a quinientas unidades de medida y actualización.
 
-### CAPÍTULO IX
+### CAPÍTULO III. ULTRAJES A LA AUTORIDAD
 
-USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA ASÍ COMO LAS DEL SISTEMA PENITENCIARIO
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 133 SESIONADO EL 23 DE AGOSTO DE 2016 Y PUBLICADO EN EL P.O. DE 22 DE NOVIEMBRE DE 2016, SE ADVIERTE LA REFORMA ÚNICAMENTE AL PRIMER PÁRRAFO DE ESTE ARTÍCULO; SIN EMBARGO, EL PÁRRAFO SEGUNDO FUE PREVIAMENTE ADICIONADO MEDIANTE DECRETO 137 PUBLICADO EN EL P.O. 10 DE SEPTIEMBRE DE 2016 Y REPUBLICADO EL 15 DE OCTUBRE DE 2016.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 257.
 
@@ -3503,7 +3769,7 @@ Cuando el uniforme, insignia, distintivo o condecoración se refiera a los cuerp
 
 Al que sin tener título profesional o autorización para ejercer alguna profesión reglamentada, se atribuya el carácter de profesionista o realice actos propios de la profesión, se le impondrán de dos a seis años de prisión y multa hasta por cien unidades de medida y actualización.
 
-### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
+### CAPÍTULO IV. DESOBEDIENCIA A UN MANDATO LEGÍTIMO DE AUTORIDAD
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3515,7 +3781,7 @@ En caso de reincidencia, se impondrá de dos a cuatro años de prisión y multa 
 
 ## TÍTULO SEGUNDO. DELITOS CONTRA LA FUNCIÓN PÚBLICA
 
-### CAPÍTULO II. EVASIÓN DE PRESOS
+### CAPÍTULO V. RESISTENCIA DE PARTICULARES
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3535,7 +3801,7 @@ III. Al que por sí o a través de otro realice u ordene la cremación de un cad
 
 A quien retarde, retenga, niegue la entrega de un cadáver o sustituya partes o restos humanos sin autorización de la autoridad, en perjuicio de los familiares consanguíneos, civiles, afines e inclusive cualquiera que haya vivido en concubinato con el difunto, se le impondrá prisión de seis meses a dos años, y multa por un importe equivalente de ciento cincuenta a trescientas unidades de medida y actualización.
 
-### CAPÍTULO III. ENCUBRIMIENTO
+### CAPÍTULO VI. QUEBRANTAMIENTO DE SELLOS
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3551,7 +3817,7 @@ II. Al que profane un cadáver o restos humanos, con actos de vilipendio, mutila
 
 ## TÍTULO TERCERO. DELITOS CONTRA LA IMPARTICIÓN DE JUSTICIA
 
-### CAPÍTULO IV. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+### CAPÍTULO VII. ALTERACIÓN DE LA CADENA DE CUSTODIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3559,9 +3825,9 @@ II. Al que profane un cadáver o restos humanos, con actos de vilipendio, mutila
 
 A quienes resuelvan de común acuerdo cometer uno o varios de los delitos del presente título y acuerden los medios de llevar a cabo su determinación, se les impondrán de uno a nueve años de prisión, y multa por un importe equivalente de cien a doscientas unidades de medida y actualización y suspensión de derechos políticos hasta por cinco años.
 
-### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
+### CAPÍTULO VIII. FALSEDAD ANTE AUTORIDADES NO JUDICIALES
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 264.
 
@@ -3573,7 +3839,9 @@ II. Impedir la integración de alguno de los poderes del Estado o de algún Ayun
 
 III. Separar o impedir el desempeño de su cargo a algún titular de las instituciones antes señaladas.
 
-### CAPÍTULO ÚNICO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD ANIMAL
+### CAPÍTULO IX
+
+USO INDEBIDO DE INFORMACIÓN SOBRE ACTIVIDADES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA, DE PROCURACIÓN E IMPARTICIÓN DE JUSTICIA ASÍ COMO LAS DEL SISTEMA PENITENCIARIO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -3581,11 +3849,19 @@ III. Separar o impedir el desempeño de su cargo a algún titular de las institu
 
 A los que en forma tumultuaria, sin uso de armas, resistan o ataquen a la autoridad con los fines a que se refiere el artículo anterior, se les impondrán de uno a cinco años de prisión, multa por un importe equivalente de sesenta a cien unidades de medida y actualización, y suspensión de derechos políticos hasta por el mismo número de años.
 
+### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 266.
 
 A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar una determinación, se le impondrán de uno a cinco años de prisión, multa por un importe equivalente de sesenta a cien unidades de medida y actualización, y suspensión de derechos políticos hasta por el mismo número de años.
 
 ## TÍTULO PRIMERO. DELITOS CONTRA EL MEDIO AMBIENTE
+
+### CAPÍTULO II. EVASIÓN DE PRESOS
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 267.
 
@@ -3595,6 +3871,10 @@ Cometen el delito de coalición de servidores públicos, los que teniendo tal ca
 
 A quien cometa este delito se le impondrán de dos a siete años de prisión, multa de cien a trescientas unidades de medida y actualización e inhabilitación de dos a siete años para desempeñar otra función pública.
 
+### CAPÍTULO III. ENCUBRIMIENTO
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 268.
 
 Comete el delito de usurpación de funciones y se le impondrán de dos a siete años de prisión y multa por un importe equivalente de cien a doscientas unidades de medida y actualización a quien:
@@ -3603,6 +3883,10 @@ I. Sin ser servidor público se atribuya ese carácter y ejerza o ejecute alguna
 
 II. Al servidor público, que ejerza funciones públicas distintas o que no le hubieren sido conferidas legalmente.
 
+### CAPÍTULO IV. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 269.
 
 A quien ultraje a un servidor público en el acto de ejercer sus funciones o con motivo de estas, se le impondrán de seis meses a dos años de prisión, y multa por un importe equivalente de cincuenta a cien unidades de medida y actualización.
@@ -3610,6 +3894,10 @@ A quien ultraje a un servidor público en el acto de ejercer sus funciones o con
 (ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016) (REPUBLICADO, P.O. 15 DE OCTUBRE DE 2016)
 
 No se considera ultraje a la autoridad cuando se trate de una video-grabación o tomas fotográficas realizadas por un espectador, en un espacio público o al que tenga derecho a acceder, y que no impidan el libre ejercicio de sus funciones como servidor público.
+
+### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 270.
 
@@ -3624,6 +3912,10 @@ II. Al funcionario público o particular que injustificadamente no de cumplimien
 III. A la persona o servidor público que no proporcione o se niegue a proporcionar la información que requiera el ministerio público y la policía en ejercicio de sus funciones de investigación de un hecho delictivo concreto.
 
 Cuando la ley autorice el empleo de los medios de apremio para hacer efectivas las determinaciones de la autoridad, deberá agotar previamente alguno de aquellos, antes de dar vista al ministerio público para los efectos correspondientes.
+
+### CAPÍTULO ÚNICO. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD ANIMAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 271.
 
@@ -3990,3 +4282,31 @@ P.O. 10 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 183 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO, DE LA FRACCIÓN VI, DEL INCISO B) DEL ARTÍCULO 195 BIS CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 383 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA Y DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”, sin perjuicio de lo siguiente.
+
+SEGUNDO. La Fiscalía Especializada en Combate a la Corrupción, el Tribunal de Justica Administrativa del Estado y el Comité Coordinador del Sistema Estatal Anticorrupción, a que hace referencia el presente Decreto con relación a las reformas, adiciones y derogaciones a la Ley Orgánica de la Administración Pública del Estado de Colima, entrarán en vigor en la misma fecha en que lo hagan las respectivas Leyes Orgánicas de la Fiscalía General y del Tribunal de Justicia Administrativa del Estado, así como la Ley del Sistema Anticorrupción del Estado de Colima, en los términos que al afecto dispongan.
+
+La derogación de la fracción XVI del artículo 13 y del artículo 37 de la Ley Orgánica de la Administración Pública del Estado de Colima, entrará en vigor en la misma fecha en que lo haga la Ley Orgánica de la Fiscalía General del Estado de Colima.
+
+TERCERO. Los procedimientos legales, administrativos, de control interno, de responsabilidades administrativas y económicas de los servidores públicos que se encuentren en trámite a la entrada en vigor del presente Decreto, los continuará conociendo la Contraloría General del Estado o la autoridad competente, hasta su total resolución de conformidad con las disposiciones vigentes al momento de su inicio.
+
+CUARTO. Las reformas y adiciones que en este Decreto se prevén al Código Penal para el Estado de Colima, entrarán en vigor a partir del nombramiento del Titular de la Fiscalía Especializada en Combate a la Corrupción en términos de lo previsto por el artículo 81 de la Constitución Política del Estado Libre y Soberano de Colima, y de la Ley Orgánica de la Fiscalía General del Estado que al efecto se emita de conformidad con el Artículo Segundo Transitorio del Decreto Número 08 por el que se reformaron, adicionaron y derogaron diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Colima, publicado en el Periódico Oficial “El Estado de Colima” Número 63 del 07 de noviembre de 2015, en tanto continuarán aplicándose las disposiciones vigentes con anterioridad a su entrada en vigor.
+
+QUINTO. A partir de la entrada en vigor de las reformas y adiciones que en este Decreto se prevén al Código Penal para el Estado de Colima de conformidad al artículo transitorio anterior, para el caso en que las reformas o adiciones contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas o adiciones, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
+II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
+III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+SEXTO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
