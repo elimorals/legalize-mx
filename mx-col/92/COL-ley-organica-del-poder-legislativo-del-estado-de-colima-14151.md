@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2017-10-14"
+last_updated: "2017-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -281,11 +281,17 @@ XV.- Guardar reserva de todo lo que se trate o resuelva en las sesiones secretas
 
 XVI.- Presentar, por conducto de la comisión respectiva, la declaración patrimonial en los términos de ley;
 
-XVII.- Elaborar en tiempo y forma los dictámenes que le correspondan a la comisión a que pertenezca; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+XVII.- Elaborar en tiempo y forma los dictámenes que le correspondan a la comisión a que pertenezca;
 
-XVIII.- Las demás que les señalen la Constitución, esta Ley, su Reglamento o se deriven de acuerdo que emita la Asamblea o la Comisión Permanente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+XVIII.- Presentar un informe anual a la ciudadanía de sus actividades legislativas y de gestión; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+XIX.- Las demás que les señalen la Constitución, esta Ley, su Reglamento o se deriven de (sic) acuerdo que emita la Asamblea o la Comisión Permanente.
 
 ### CAPITULO III
 
@@ -1552,5 +1558,11 @@ P.O. 1 DE JULIO DE 2017.
 P.O. 14 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 352 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser Publicado en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 378 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser Publicado en el Periódico Oficial "El Estado de Colima".
