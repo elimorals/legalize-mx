@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2017-02-04"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -45,7 +45,7 @@ EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN E
 
 C O N S I D E R A N D O S
 
-.
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente
 
@@ -1021,13 +1021,17 @@ III.- Promover que las mujeres dispongan de espacios para el esparcimiento, jueg
 
 IV.- Desarrollar con otras dependencias y entidades, encargadas de promover la cultura campañas para prevenir la violencia contra las mujeres;
 
-V.- Elaborar programas artísticos y culturales, que difundan y promuevan una cultura de la igualdad entre mujeres y hombres;
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-VI.- Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres para su empoderamiento y desarrollo integral a través de las diferentes manifestaciones culturales y artísticas;
+V.- Podrá promover en coordinación con otras dependencias, programas culturales encaminados a la concientización de la violencia generada por el acoso sexual callejero, así como medidas para eliminarlo;
 
-VII.- Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia en los centros de promoción de la cultura o en los espacios donde se desarrollen las actividades culturales y artísticas; y
+VI.- Elaborar programas artísticos y culturales, que difundan y promuevan una cultura de la igualdad entre mujeres y hombres;
 
-VIII.- Las demás que les señalen las disposiciones legales aplicables.
+VII.- Formular, coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las mujeres para su empoderamiento y desarrollo integral a través de las diferentes manifestaciones culturales y artísticas;
+
+VIII.- Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia en los centros de promoción de la cultura o en los espacios donde se desarrollen las actividades culturales y artísticas; y
+
+IX.- Las demás que les señalen las disposiciones legales aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE MARZO DE 2016)</small>
 
@@ -1055,7 +1059,7 @@ IX.- Las demás previstas en esta Ley y demás disposiciones aplicables.
 
 #### SECCIÓN QUINTA BIS 2. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2016)</small>
 
 ARTÍCULO 60 BIS 2.- La Secretaría de Seguridad Pública deberá:
 
@@ -1085,33 +1089,43 @@ II.- Impulsar un área específica enfocada a proporcionar información y sensib
 
 III.- Promover programas educativos en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia, así como el respeto a la dignidad, eliminando los modelos de conducta sociales y culturales que hagan apología de la violencia de las mujeres y estén basados en la idea de la inferioridad o superioridad de uno de los sexos;
 
-IV.- Elaborar materiales educativos, cursos y talleres dirigidos a la prevención de la Violencia contra las Mujeres y al desarrollo de habilidades para la resolución pacífica de conflictos;
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-V.- Emitir las disposiciones administrativas necesarias para garantizar que los docentes y el personal administrativos (sic) de los centros educativos, coadyuven para que las aulas y las escuelas se conviertan en verdaderos espacios para la reflexión y el ejercicio de las premisas que fundamentan una convivencia pacífica y armónica;
+IV.- Podrá promover programas educativos enfocados en la concientización de la violencia ocasionada por el acoso sexual callejero, entendido éste como aquellas prácticas de connotación sexual, ejercidas por una persona desconocida, en espacios públicos, que vulneran la dignidad de la víctima; así como programas dirigidos a la sociedad en general para combatirlo;
 
-VI.- Implementar campañas publicitarias que orienten a la erradicación de la Violencia contra las Mujeres;
+V.- Elaborar materiales educativos, cursos y talleres dirigidos a la prevención de la Violencia contra las Mujeres y al desarrollo de habilidades para la resolución pacífica de conflictos;
 
-VII.- Garantizar acciones y mecanismos que favorezcan el adelanto de los géneros en igualdad de condiciones en todas las etapas del proceso educativo;
+VI.- Emitir las disposiciones administrativas necesarias para garantizar que los docentes y el personal administrativos de los centros educativos, coadyuven para que las aulas y las escuelas se conviertan en verdaderos espacios para la reflexión y el ejercicio de las premisas que fundamentan una convivencia pacífica y armónica;
 
-VIII.- Garantizar el derecho de los géneros en igualdad de condiciones la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
+VII.- Implementar campañas publicitarias que orienten a la erradicación de la Violencia contra las Mujeres;
 
-IX.- Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la Violencia contra las Mujeres en los centros educativos;
+VIII.- Garantizar acciones y mecanismos que favorezcan el adelanto de los géneros en igualdad de condiciones en todas las etapas del proceso educativo;
 
-X.- Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres y políticas de prevención, atención, sanción y erradicación de la Violencia contra las Mujeres;
+IX.- Garantizar el derecho de los géneros en igualdad de condiciones (sic) la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y otras subvenciones;
 
-XI.- Capacitar al personal docente y de apoyo de los albergues y centros educativos, sobre la igualdad de oportunidades y la prevención de la violencia ejercida contra las mujeres;
+X.- Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la Violencia contra las Mujeres en los centros educativos;
 
-XII.- Desarrollar modelos de intervención para detectar la violencia contra las alumnas en albergues y centros educativos;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-XIII. Capacitar y sensibilizar, en forma permanente, al personal docente y de apoyo a fin de que otorguen atención urgente a las alumnas que sufren algún tipo de violencia, así como sobre la obligación de informar y canalizar a las instancias competentes aquellos casos de violencia contra mujeres que llegasen a ocurrir en los albergues o centros educativos;
+XI.- Proporcionar acciones formativas a todo el personal de los centros educativos, en materia de derechos humanos de las mujeres y políticas de prevención, atención, sanción y erradicación de la Violencia contra la (sic) Mujeres;
 
-XIV.- Establecer como un requisito de contratación a todo el personal docente el no contar con algún antecedente de Violencia contra las Mujeres;
+XII.- Capacitar al personal docente y de apoyo de los albergues y centros educativos, sobre la igualdad de oportunidades y la prevención de la violencia ejercida contra las mujeres;
 
-XV.- Presentar las denuncias penales que sean procedentes por ilícitos de los cuales tengan conocimiento y que se relacionen con la violencia de género;
+XIII.- Desarrollar modelos de intervención para detectar la violencia contra las alumnas en albergues y centros educativos;
 
-XVI.- Notificar en su calidad de garante en materia de violencia de género, a la autoridad competente de los casos de violencia contra las niñas y mujeres que ocurran en los centros educativos o que tengan conocimiento; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-XVII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+XIV.- Capacitar y sensibilizar, en forma permanente, al personal docente y de apoyo a fin de que otorguen atención urgente a las alumnas que sufren algún tipo de violencia, así como Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Colima Dirección de Procesos Legislativos 30 (sic) sobre la obligación de informar y canalizar a las instancias competentes aquellos casos de violencia contra mujeres que llegasen a ocurrir en los albergues o centros educativos;
+
+XV.- Establecer como un requisito de contratación a todo el personal docente el no contar con algún antecedente de Violencia contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+XVI.- Presentar las denuncias penales que sean procedentes por ilícitos de (sic) cuales tengan conocimiento y que se relacionen con la violencia de género;
+
+XVII.- Notificar en su calidad de garante en materia de violencia de género, a la autoridad competente de los casos de violencia contra las niñas y mujeres que ocurran en los centros educativos o que tengan conocimiento; y
+
+XVIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 #### SECCIÓN SEXTA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
@@ -1327,13 +1341,17 @@ XI.- Promover y vigilar que la atención ofrecida en las diversas instituciones 
 
 XII.- Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
 
-XIII.- Realizar conjuntamente con las instancias del Sistema Estatal, de manera periódica el diagnóstico y otros estudios complementarios con perspectiva de género sobre los Derechos Humanos de las Mujeres y de todas las formas de violencia en contra de ellas;
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-XIV.- Establecer una línea de atención telefónica que sirva de medio de información y canalización para atender a las mujeres receptoras de violencia de género;
+XIII.- Podrá fomentar y difundir la concientización de la violencia ejercida en el acoso sexual callejero, así como las medidas tendientes a la eliminación de dicha práctica;
 
-XV.- Celebrar convenios de colaboración, coordinación y concertación en la materia; y
+XIV.- Realizar conjuntamente con las instancias del Sistema Estatal, de manera periódica el diagnóstico y otros estudios complementarios con perspectiva de género sobre los Derechos Humanos de las Mujeres y de todas las formas de violencia en contra de ellas;
 
-XVI.- Las demás previstas para el cumplimiento de esta Ley.
+XV.- Establecer una línea de atención telefónica que sirva de medio de información y canalización para atender a las mujeres receptoras de violencia de género;
+
+XVI.- Celebrar convenios de colaboración, coordinación y concertación en la materia; y
+
+XVII.- Las demás previstas para el cumplimiento de esta Ley.
 
 #### SECCIÓN DÉCIMA TERCERA. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -1750,3 +1768,31 @@ P.O. 4 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NO. 235 "POR EL QUE SE REFROMAN (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 383 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA Y DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima", sin perjuicio de lo siguiente.
+
+SEGUNDO. La Fiscalía Especializada en Combate a la Corrupción, el Tribunal de Justica Administrativa del Estado y el Comité Coordinador del Sistema Estatal Anticorrupción, a que hace referencia el presente Decreto con relación a las reformas, adiciones y derogaciones a la Ley Orgánica de la Administración Pública del Estado de Colima, entrarán en vigor en la misma fecha en que lo hagan las respectivas Leyes Orgánicas de la Fiscalía General y del Tribunal de Justicia Administrativa del Estado, así como la Ley del Sistema Anticorrupción del Estado de Colima, en los términos que al afecto dispongan.
+
+La derogación de la fracción XVI del artículo 13 y del artículo 37 de la Ley Orgánica de la Administración Pública del Estado de Colima, entrará en vigor en la misma fecha en que lo haga la Ley Orgánica de la Fiscalía General del Estado de Colima.
+
+TERCERO. Los procedimientos legales, administrativos, de control interno, de responsabilidades administrativas y económicas de los servidores públicos que se encuentren en trámite a la entrada en vigor del presente Decreto, los continuará conociendo la Contraloría General del Estado o la autoridad competente, hasta su total resolución de conformidad con las disposiciones vigentes al momento de su inicio.
+
+CUARTO. Las reformas y adiciones que en este Decreto se prevén al Código Penal para el Estado de Colima, entrarán en vigor a partir del nombramiento del Titular de la Fiscalía Especializada en Combate a la Corrupción en términos de lo previsto por el artículo 81 de la Constitución Política del Estado Libre y Soberano de Colima, y de la Ley Orgánica de la Fiscalía General del Estado que al efecto se emita de conformidad con el Artículo Segundo Transitorio del Decreto Número 08 por el que se reformaron, adicionaron y derogaron diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Colima, publicado en el Periódico Oficial "El Estado de Colima" Número 63 del 07 de noviembre de 2015, en tanto continuarán aplicándose las disposiciones vigentes con anterioridad a su entrada en vigor.
+
+QUINTO. A partir de la entrada en vigor de las reformas y adiciones que en este Decreto se prevén al Código Penal para el Estado de Colima de conformidad al artículo transitorio anterior, para el caso en que las reformas o adiciones contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas o adiciones, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
+II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
+III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+SEXTO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
