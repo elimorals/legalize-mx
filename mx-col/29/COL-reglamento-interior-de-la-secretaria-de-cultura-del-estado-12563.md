@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-cultura-del-estado-1256
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-15"
-last_updated: "1998-12-19"
+last_updated: "2017-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE CULTURA DEL ESTADO DE COLIMA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE CULTURA DEL ESTADO DE COLIMA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1998.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA DEL ESTADO DE COLIMA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 15 de noviembre de 1997.
 
@@ -363,8 +365,20 @@ Dado en la residencia del Poder Ejecutivo estatal, en la ciudad de Colima, el pr
 
 Atentamente.- ''SUFRAGIO EFECTIVO. NO REELECCIÓN".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HÉCTOR MICHEL CAMARENA.- Rúbrica.- EL SECRETARIO DE LA CULTURA, LIC. LUIS IGNACIO VILLAGARCÍA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 19 DE DICIEMBRE DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE CULTURA".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Cultura, publicado el 01 de noviembre de 1997 en el Periódico Oficial "El Estado de Colima".
+
+TERCERO. Los procedimientos y demás asuntos que se encuentren en curso o pendientes de resolución a la entrada en vigor del presente Reglamento, que conforme al mismo deban pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por la Unidad Administrativa competente en los términos del presente Reglamento.
+
+CUARTO. Los trabajadores que con motivo de la aplicación del presente Reglamento deban quedar adscritos a una Unidad Administrativa diferente a su actual centro de trabajo, continuarán laborando en las mismas condiciones laborales, con pleno reconocimiento de los derechos que hubieren generado.
