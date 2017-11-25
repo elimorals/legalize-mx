@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2017-07-01"
+last_updated: "2017-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -171,7 +171,9 @@ I.- Cumplir con diligencia los trabajos que les correspondan;
 
 II.- Informar a la Asamblea, cuando se les requiera, sobre el cumplimiento de sus responsabilidades y cuando con el carácter de diputado asista a un evento inherente a su cargo;
 
-III.- Informar a la ciudadanía de su trabajo legislativo;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+III.- Presentar un informe anual a la ciudadanía de sus actividades legislativas y de gestión;
 
 IV.- Contribuir a la difusión entre la población de las leyes fundamentales del Estado; y
 
@@ -2988,3 +2990,9 @@ P.O. 1 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 308 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, debiéndose publicar en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 378 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y SU REGLAMENTO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, mismo que deberá ser Publicado en el Periódico Oficial "El Estado de Colima".
