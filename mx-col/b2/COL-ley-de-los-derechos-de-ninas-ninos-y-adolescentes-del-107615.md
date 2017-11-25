@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2017-09-09"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -61,7 +61,9 @@ LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
 La presente Ley es de orden público, interés social y observancia general en el territorio del Estado de Colima, tiene su fundamento en el párrafo sexto del artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, es reglamentaria del párrafo cuarto de la fracción I del artículo 1° de la Constitución Política del Estado Libre y Soberano de Colima y tiene por objeto:
 
-I. Reconocer a niñas, niños y adolescentes como titulares de derechos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+I. Reconocer a niñas, niños y adolescentes como titulares de derechos, con capacidad de goce de los mismos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. Garantizar el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado mexicano forma parte;
 
@@ -81,7 +83,9 @@ II. Promover la participación, tomar en cuenta la opinión y considerar los asp
 
 III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
 
-El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se atenderá a lo establecido en la Constitución Federal y en los tratados internacionales de que México forma parte, buscando siempre la satisfacción más efectiva de este principio rector.
 
 Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
 
@@ -239,9 +243,17 @@ XI. La autonomía progresiva;
 
 XII. El principio Pro persona;
 
-XIII. El acceso a una vida libre de violencia; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-XIV. La accesibilidad.
+XIII. El acceso a una vida libre de violencia;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+XIV. La accesibilidad; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+XV. El derecho al adecuado desarrollo evolutivo de la personalidad;
 
 De conformidad con el principio del interés superior de la niñez, las normas aplicables a las niñas, los niños y los adolescentes, se entenderán dirigidas a procurarles primordialmente los cuidados, la asistencia y la representación que requieren para lograr un crecimiento y un desarrollo pleno dentro de un ambiente de bienestar familiar y social.
 
@@ -429,7 +441,9 @@ Las niñas, niños y adolescentes no podrán ser separados de las personas que e
 
 Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
-Las autoridades del Estado y de los Municipios, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+Corresponde a las autoridades locales y municipales, en el ámbito de sus respectivas competencias, a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de su entorno familiar.
 
 ###### Artículo 26.
 
@@ -459,9 +473,13 @@ Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en
 
 El DIF Estatal y los DIF Municipales, en el ámbito de su competencia, podrán otorgar medidas especiales de protección a niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
 
-Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, de conformidad con la legislación civil aplicable, el DIF Estatal o los DIF Municipales, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-I. Sean ubicados con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior;
+Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo de la familia de origen. En estos casos, de conformidad con la legislación civil aplicable, el DIF Estatal o los DIF Municipales, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+I. Sean ubicados con su familia, extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior, y tengan con prontitud resuelta su situación jurídica para acceder a un proceso de adopción expedito, ágil, simple y guiado por su interés superior;
 
 II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
 
@@ -471,11 +489,17 @@ IV. El DIF Estatal y los DIF Municipales, en el ámbito de sus respectivas compe
 
 V. Sean colocados de manera excepcional, dadas las características específicas de cada caso, residencial brindado por centros por el menor tiempo posible, en un acogimiento de asistencia social.
 
-Esta medida especial de protección tendrá carácter subsidiario, relegando esta medida de protección a un carácter de último recurso, priorizando las opciones de cuidado en un entorno familiar.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
-La autoridad jurisdiccional competente deberá tener en consideración el interés superior de la niñez para determinar la opción que sea más adecuada.
+Estas medidas especiales de protección tendrán carácter subsidiario, relegando esta medida de protección a un carácter de último recurso, priorizando las opciones de cuidado en un entorno familiar definitivo.
 
-El DIF Estatal y los DIF Municipales en todo momento serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+La Procuraduría de Protección, deberá establecer contacto y trabajar conjuntamente con el DIF Estatal y los DIF Municipales a efecto de garantizar adecuadamente el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+A efecto de garantizar, que niñas, niños y adolescentes vean resultados (sic) sus derechos a vivir en familia y a recibir formación y protección de quien ejerce la patria potestad, la tutela, guarda y custodia; la Procuraduría de Protección, podrá solicitar de los tres niveles de gobierno, el auxilio de las autoridades administrativas de asistencia social, de servicios de salud.
 
 ###### Artículo 30.
 
@@ -493,6 +517,14 @@ III. Se tomará en consideración el grado de parentesco; la relación de afinid
 
 IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 30 Bis.
+
+Las niñas, niños y adolescentes acogidos en Centros de Asistencia Social públicos o privados, serán considerados expósitos o abandonados de manera total, una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos o se tenga información que permita conocer su origen. El término de sesenta días naturales correrá a partir de la fecha en que las niñas, niños y adolescentes ingresen al Centro de Asistencia Social Público o Privado. Se considera expósito a la niña, niño o adolescente que es colocado en una situación de desamparo por quienes conforme a la ley tengan la patria potestad de los mismos. Cuando la situación de desamparo se refiera a una niña, niño o adolecente (sic) cuyo origen se desconoce, se considerará abandonado.
+
+Durante el termino referido la Procuraduría de Protección y unidades municipales de primer contacto con niñas, niños y adolescentes, serán los encargados de investigar y realizar las acciones conducentes que les permitan llevar a cabo lo previsto en el artículo 123 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, y así, mediante un plan de restitución de derechos lograr su reintegración al núcleo de su familia de origen o extensa. Lo anterior, con las facultades y atribuciones que la Ley les concede, sin exponer, exhibir o poner en riesgo a la niña, niño y adolescente. Y en caso de que no se logre lo anterior, y transcurrido el término antes citado, el Centro de Asistencia Social en el que se encuentra la niña, niño o adolescente deberá de informar con la debida secrecía por escrito a la Procuraduría de Protección del Estado de Colima, a fin de que promueva ante la autoridad judicial los procedimientos de guarda y custodia, estado de minoría, pérdidas de patria potestad, tutela y adopción de niñas, niños y adolescentes institucionalizados, en los términos de la legislación civil y demás disposiciones aplicables.
+
 ###### Artículo 31.
 
 Cuando la Procuraduría de Protección haya autorizado la asignación de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
@@ -503,21 +535,27 @@ Cuando se verifique cualquier tipo de violación a los derechos de niñas, niño
 
 Los procedimientos de adopción se desahogarán de conformidad a lo dispuesto en el Código Civil y Código de Procedimientos Civiles, ambos del Estado de Colima y demás legislación aplicable.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 32.
 
-Corresponde al DIF Estatal, así como a los DIF Municipales, en el ámbito de sus respectivas competencias:
+Corresponde al DIF Estatal, así como a los DIF Municipales, en coordinación con la Procuraduría de Protección, en el ámbito de sus respectivas competencias:
 
 I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
 
 II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional; y
 
-III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría de Protección Federal.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+III. Contar con un sistema de información y registro, permanentemente actualizado, que incluya datos de niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Federal. También se llevará un registro de los datos de las familias.
 
 ###### Artículo 33.
 
 En materia de adopciones, se estará a lo que dispongan las leyes estatales; las cuales han de garantizar en todo momento los derechos tutelados en esta Ley y demás legislación aplicable. Procurando que en todo momento la legislación local prevea disposiciones mínimas relativas a:
 
-I. Prever que niñas, niños y adolescentes sean adoptados en pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+I. Garantizar que niñas, niños y adolescentes sean adoptados en pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez, y no mediando intereses particulares o colectivos que se contrapongan al mismo;
 
 II. Asegurar que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley;
 
@@ -1790,3 +1828,9 @@ P.O. 9 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 339 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
 
 ÚNICO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 377 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
