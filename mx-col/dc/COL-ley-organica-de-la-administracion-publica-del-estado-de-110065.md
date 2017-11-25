@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-110065"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-01"
-last_updated: "2017-07-26"
+last_updated: "2017-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el jueves 1 de octubre de 2015.
 
@@ -109,9 +111,7 @@ El Gobernador podrá acordar la creación y funcionamiento de consejos, comités
 
 El Gobernador podrá contar con unidades de apoyo, transitorias o permanentes, cualquiera que sea su denominación u organización, para planear, coordinar, administrar o ejecutar programas estratégicos, especiales o prioritarios a cargo de la Administración Pública del Estado, incluyendo los servicios de asesoría, consultoría y apoyo técnico que requiera el Titular del Poder Ejecutivo.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2016)</small>
-
-La Contraloría General del Estado es la unidad administrativa, adscrita a la Oficina del Gobernador, dotada de autonomía técnica y de gestión, responsable del control, evaluación, auditoría y fiscalización interna de las dependencias y entidades de la Administración Pública del Estado, competente para vigilar la actuación de los servidores públicos que la integran y en su caso aplicar las sanciones que correspondan derivadas de responsabilidad administrativa; cuya organización, procedimientos y atribuciones serán las que determinen las leyes, su reglamento interior y demás disposiciones jurídicas aplicables en la materia.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 11.
 
@@ -159,7 +159,7 @@ XIV.- Secretaría de Seguridad Pública;
 
 XV.- Secretaría del Trabajo y Previsión Social;
 
-XVI.- Procuraduría General de Justicia, y
+XVI.- (DEROGADA, P.O. 25 DE NOVIEMBRE DE 2017)
 
 XVII.- Consejería Jurídica del Poder Ejecutivo del Estado.
 
@@ -193,9 +193,11 @@ III.- La forma en cómo los titulares de las unidades administrativas podrá ser
 
 IV.- Los órganos administrativos desconcentrados bajo el mando de la Dependencia y, en su caso, las entidades de la Administración Pública Paraestatal bajo su coordinación.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 19.
 
-La Administración Pública Centralizada contará con los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento conforme a los lineamientos que para dicho efecto emita la Secretaría de Administración y Gestión Pública. Los manuales y demás instrumentos de apoyo administrativo deberán actualizarse permanentemente. Los manuales y sus modificaciones deberán publicarse en el Periódico Oficial del Estado.
+La Administración Pública Centralizada contará con los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento conforme a los lineamientos que para dicho efecto emita la Secretaría de Administración y Gestión Pública. Los manuales y demás instrumentos de apoyo administrativo deberán actualizarse permanentemente. Los manuales de organización y sus modificaciones deberán publicarse en el Periódico Oficial del Estado, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opera la Secretaría de Administración y Gestión Pública.
 
 ###### Artículo 20.
 
@@ -859,7 +861,9 @@ XIV.- Establecer un sistema destinado a obtener, analizar, estudiar y procesar i
 
 XV.- Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo;
 
-XVI.- Efectuar, en coordinación con la Procuraduría General de Justicia del Estado y las policías municipales, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Efectuar, en coordinación con la Fiscalía General del Estado y las policías municipales, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
 
 XVII.- Organizar, dirigir y administrar un servicio para la atención a las víctimas del delito y celebrar acuerdos de colaboración con otras instituciones del sector público y privado para el mejor cumplimiento de esta atribución;
 
@@ -871,7 +875,9 @@ XX.- Promover y celebrar convenios de colaboración, en el ámbito de su compete
 
 XXI.- Colaborar, cuando así lo soliciten otras autoridades federales, estatales, municipales o del Distrito Federal competentes, en la protección de la integridad física de las personas y en la preservación de sus bienes, en situaciones de peligro cuando se vean amenazadas por disturbios u otras situaciones que impliquen violencia o riesgo inminente;
 
-XXII.- Auxiliar al Poder Judicial del Estado, a la Procuraduría General de Justicia del Estado y a los Municipios, cuando así lo requieran, para el debido ejercicio de sus funciones;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+XXII. Auxiliar al Poder Judicial del Estado, a la Fiscalía General del Estado y a los Municipios, cuando así lo requieran, para el debido ejercicio de sus funciones;
 
 > <small>(REFORMADA, P.O. 26 DE JULIO DE 2017)</small>
 
@@ -965,37 +971,7 @@ XXXVIII.- Los demás que le atribuyan las leyes y reglamentos y aquellos que le 
 
 ###### Artículo 37.
 
-A la Procuraduría General de Justicia corresponde el estudio, planeación, resolución y despacho de los siguientes asuntos:
-
-I.- Dirigir, coordinar, controlar y evaluar el Ministerio Público que tiene por objeto la investigación de todos los delitos del orden común y de su persecución ante los tribunales; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes locales señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas y la reparación del daño, e intervendrá en todos los asuntos que la ley determine;
-
-II.- Intervenir en la defensa de los derechos de la sociedad, así como en los procedimientos que afecten a las personas a quienes las leyes otorguen especial protección;
-
-III.- Dirigir, coordinar y evaluar, así como designar, cambiar o remover, a los agentes del Ministerio Público, policía ministerial y demás personal que estará bajo su mando en los términos que establezcan las leyes respectivas;
-
-IV.- Otorgar al Poder Judicial del Estado el auxilio que requiera para el debido ejercicio de sus funciones;
-
-V.- Coordinarse y participar con las autoridades federales competentes en la persecución de los delitos que a ellas correspondan;
-
-VI.- Convenir y fortalecer las relaciones con el gobierno federal y los Municipios, así como con las autoridades de otras entidades federativas, para coordinar esfuerzos en materia de prevención y combate contra la delincuencia organizada, en protección ciudadana y en la persecución de los delitos;
-
-VII.- Proponer al Gobernador programas que tiendan a prevenir y afrontar la delincuencia;
-
-VIII.- Formular y desarrollar programas de capacitación para el personal de la Procuraduría y de la Policía Ministerial;
-
-IX.- Coordinar, supervisar y evaluar las actividades y resultados de las unidades administrativas que le sean sectorizadas;
-
-X.- Recibir, estudiar y resolver las quejas sobre demoras, excesos o faltas en el despacho de los asuntos en que intervenga el Ministerio Público;
-
-XI.- Ordenar y controlar la estadística e identificación criminal;
-
-XII.- Coadyuvar con las autoridades correspondientes para vigilar el desarrollo pacífico de los procesos electorales;
-
-XIII.- Vigilar la observancia de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte;
-
-XIV.- Refrendar las leyes, reglamentos y decretos del Ejecutivo Estatal que le corresponda, y
-
-XV.- Los demás que le atribuyan las leyes y reglamentos y aquellos que le encomiende el Gobernador.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2017)
 
 ###### Artículo 38.
 
@@ -1073,6 +1049,104 @@ Los órganos de gobierno de las entidades estarán a cargo de la administración
 
 Las entidades que integran la Administración Pública Paraestatal, por acuerdo del Gobernador, quedarán sectorizadas bajo la coordinación de la dependencia de la Administración Pública Centralizada que por la naturaleza de sus funciones le corresponda orientar sus actividades.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+## TITULO CUARTO. Del Órgano de Control de la Administración Pública del Estado
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO ÚNICO. De la Contraloría General del Estado
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 47.
+
+El control interno de las dependencias y entidades de la Administración Pública del Estado estará a cargo de la Contraloría General del Estado, sin perjuicio de que las entidades paraestatales que por su estructura y funciones así lo requieran, cuenten con sus propios órganos internos de control.
+
+La Contraloría General del Estado es la unidad administrativa, adscrita a la Oficina del Gobernador, dotada de autonomía técnica y de gestión, responsable del control, evaluación, auditoría y fiscalización interna de la Administración Pública Centralizada y Paraestatal del Estado, competente para vigilar la actuación de los servidores públicos que la integran y en su caso aplicar las sanciones que correspondan derivadas de responsabilidad administrativa; cuya organización, procedimientos y atribuciones serán las que determinen las leyes, su reglamento interior y demás disposiciones jurídicas aplicables en la materia.
+
+A la Contraloría General del Estado, además de las funciones previstas en el párrafo anterior, le corresponderá el despacho de los siguientes asuntos:
+
+I. Organizar, coordinar y supervisar el sistema de control interno, así como realizar las auditorías que se requieran en la Administración Pública centralizada y paraestatal del Estado, de éstas últimas en sustitución o apoyo de sus propios órganos internos de control y en los términos de las disposiciones aplicables;
+
+II. Expedir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública del Estado, para lo cual podrá requerir de las dependencias y entidades competentes la expedición de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+III. Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las entidades paraestatales de la Administración Pública del Estado;
+
+IV. Supervisar y fiscalizar el ejercicio del gasto público y su congruencia con los presupuestos de egresos, establecer las bases generales para la realización de auditorías, transversales y externas; expedir las normas que regulen los instrumentos y procedimientos en dichas materias en la Administración Pública Centralizada y Paraestatal del Estado, así como realizar las auditorías que se requieran en éstas últimas;
+
+V. Vigilar el cumplimiento, por parte de la Administración Pública del Estado, de las disposiciones en materia de planeación, control interno, presupuestación, ingresos, financiamiento, inversión, deuda, uso y aprovechamiento de los bienes muebles e inmuebles propiedad de la Administración pública; así como los acuerdos y convenios celebrados entre la Federación y la Administración Pública del Estado, de donde se deriven fondos federales y de la Administración Pública Estatal con los municipios de la Entidad, de donde se derive la inversión de fondos estatales;
+
+VI. Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública del Estado, de las disposiciones en materia de desarrollo administrativo, planeación y administración de recursos humanos, contratación de personal, estructuras orgánicas y ocupacionales de conformidad con las normas de control de gasto en materia de servicios personales;
+
+VII. Realizar auditorías, revisiones y evaluaciones a la Administración Pública Centralizada y Paraestatal del Estado, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+VIII. Fiscalizar que la Administración Pública Centralizada y Paraestatal del Estado cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, control interno, contratación de adquisidores, arrendamientos, servicios y ejecución de obra pública, programas agropecuarios, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública del Estado;
+
+IX. Designar y remover a los auditores externos de la Administración Pública del Estado, así como normar y controlar su desempeño;
+
+X. Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamental, a los supervisores y comisarios de la propia Contraloría General del Estado ante las dependencias y entidades de la Administración Pública del Estado centralizada; así como normar y controlar su desempeño;
+
+XI. Designar y remover a los titulares de los órganos internos de control de la Administración Pública del Estado quienes dependerán de la Contraloría General del Estado; así mismo, designar y remover a los titulares de las áreas de auditoría, quejas y responsabilidades de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Órganos Jurisdiccionales competentes de acuerdo a la legislación aplicable;
+
+XII. Colaborar en el marco del Sistema Estatal Anticorrupción y del Sistema Nacional de Fiscalización, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+XIII. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
+
+XIV. Informar periódicamente al Gobernador, así como al Comité Coordinador del Sistema Estatal Anticorrupción, sobre el resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+XV. Recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar los servidores públicos del Estado, verificar su contenido mediante las investigaciones que resulten pertinentes, así como, registrar la información sobre las sanciones administrativas que en su caso les hayan sido impuestas, de conformidad a la legislación aplicable. También, coordinar el programa de contraloría social y normar el proceso de entrega recepción al término del periodo constitucional del Poder Ejecutivo, así como en los casos de sustitución de titulares de las dependencias y áreas de trabajo;
+
+XVI. Atender las quejas, denuncias y sugerencias que presenten los particulares, por actos u omisiones que pudieran ser constitutivas de faltas administrativas con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública del Estado;
+
+XVII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública del Estado que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas y demás disposiciones jurídicas aplicables a la materia, por sí, o por conducto de los órganos internos de control de la Administración Pública Paraestatal del Estado; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa del Estado y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+XVIII. Establecer mecanismos internos para la Administración Pública del Estado que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+XIX. Proponer a la Administración Pública Centralizada y Paraestatal del Estado, la expedición de disposiciones administrativas para el adecuado cumplimiento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado y la Ley de Obra Pública del Estado y sus respectivos reglamentos;
+
+XX. Coadyuvar con la Secretaría de Administración y Gestión Pública en la definición de la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de la Administración Pública del Estado;
+
+XXI. Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública del Estado para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+XXII. Ejercer las facultades que la Constitución Política del Estado Libre y Soberano de Colima les otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos estatales;
+
+XXIII. Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública del Estado;
+
+XXIV. Coadyuvar con la Secretaría de Fomento Económico para la emisión de normas, lineamientos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones que emita el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+XXV. Formular el Código de Ética de los servidores públicos del gobierno del Estado y las Reglas de Integridad para el Ejercicio de la Función Pública;
+
+XXVI. Formular las normas, políticas, lineamientos y demás ordenamientos para vigilar el cumplimiento de las dependencias y entidades de la Administración Pública Estatal de las disposiciones en materia de presupuestación, fiscalización, ingresos, gasto, contabilidad gubernamental, financiamientos, inversión, deuda, patrimonio y contrataciones; y
+
+XXVII. Las demás que le encomienden expresamente las leyes y reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 48.
+
+La Contraloría General del Estado y, en su caso, los órganos internos de control de las entidades paraestatales, serán responsables de supervisar la implementación del control interno en las dependencias y entidades de la Administración Pública del Estado. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos. Los órganos internos de control de las entidades que cuenten con un régimen especial de control interno, se sujetarán a las funciones y organización establecidas en las disposiciones mediante las que se crea la respectiva entidad.
+
+La Contraloría General del Estado y, en su caso, los órganos internos de control de las entidades paraestatales, en ejercicio de su función de auditoría, prevista en la fracción XXII del artículo 47, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción, control interno y otras afines a la materia y por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y la misma Contraloría General del Estado respecto de dichos asuntos, así como sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública del Estado y presentación de informes por parte de dichos órganos.
+
+Las unidades encargadas de la función de auditoría y control interno de la Contraloría General del Estado y, en su caso, de los órganos internos de control de las entidades paraestatales, formarán parte del Sistema Nacional de Fiscalización e incorporarán en su ejercicio las normas técnicas y códigos de ética, de conformidad con la Ley del Sistema Anticorrupción del Estado y las mejores prácticas que considere el referido sistema.
+
+Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación.
+
+Los titulares de las unidades encargadas de la función de auditoría de la Contraloría General del Estado y, en su caso, de los órganos internos de control de las entidades paraestatales, a más tardar el mes de enero entregarán informes al titular de la referida Contraloría, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal de Justicia Administrativa del Estado y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme y a cuánto ascienden, en su caso, las indemnizaciones efectivamente cobradas durante el periodo del informe.
+
+Con base en dichos informes, así como de las recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción, tanto las dependencias y entidades, así como la Contraloría General del Estado, implementarán las acciones pertinentes para mejora de la gestión.
+
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción, la Contraloría General del Estado y, en su caso, los órganos internos de control de la Administración Pública Paraestatal integrarán comités de control y desempeño institucional en la Administración Pública del Estado, para el seguimiento y evaluación.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 49.
+
+Las relaciones entre la Administración Pública Centralizada y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal con el sistema estatal de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de la Secretaría de Planeación y Finanzas y de la Contraloría General del Estado, en el ámbito de sus respectivas competencias.
+
+La Secretaría de Administración y Gestión Pública y la Contraloría General del Estado, estarán facultadas para emitir criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor el día 1º de noviembre del año 2015, previa publicación que se haga en el Periódico Oficial "El Estado de Colima".
@@ -1128,3 +1202,31 @@ TERCERO. El Gobernador del Estado, a propuesta del Director General del Institut
 CUARTO. Los asuntos y procedimientos penales que se encuentren en trámite ante el Instituto para el Tratamiento de Menores Infractores del Estado a la entrada en vigor del presente Decreto, continuarán su trámite ante el Instituto Especializado en la Ejecución de Medidas para Adolescentes, de conformidad a las disposiciones del Sistema de Justicia penal para Adolescentes, vigente al momento de su inicio.
 
 QUINTO. Cualquier mención realizada en las leyes, reglamentos y demás ordenamientos jurídicos del Estado con relación a (sic) Instituto para el Tratamiento de Menores Infractores del Estado o a su Director General, incluyendo sus términos equivalentes, se entenderá hecha al Instituto Especializado en la Ejecución de Medidas para Adolescentes o al Director General del Instituto Especializado en la Ejecución de Medidas para Adolescentes respectivamente, quienes asumirán todas las funciones y atribuciones que dichas leyes, reglamentos y ordenamientos disponen para aquellas autoridades cuya denominación ha cambiado.
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 383 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA Y DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima", sin perjuicio de lo siguiente.
+
+SEGUNDO. La Fiscalía Especializada en Combate a la Corrupción, el Tribunal de Justica Administrativa del Estado y el Comité Coordinador del Sistema Estatal Anticorrupción, a que hace referencia el presente Decreto con relación a las reformas, adiciones y derogaciones a la Ley Orgánica de la Administración Pública del Estado de Colima, entrarán en vigor en la misma fecha en que lo hagan las respectivas Leyes Orgánicas de la Fiscalía General y del Tribunal de Justicia Administrativa del Estado, así como la Ley del Sistema Anticorrupción del Estado de Colima, en los términos que al afecto dispongan.
+
+La derogación de la fracción XVI del artículo 13 y del artículo 37 de la Ley Orgánica de la Administración Pública del Estado de Colima, entrará en vigor en la misma fecha en que lo haga la Ley Orgánica de la Fiscalía General del Estado de Colima.
+
+TERCERO. Los procedimientos legales, administrativos, de control interno, de responsabilidades administrativas y económicas de los servidores públicos que se encuentren en trámite a la entrada en vigor del presente Decreto, los continuará conociendo la Contraloría General del Estado o la autoridad competente, hasta su total resolución de conformidad con las disposiciones vigentes al momento de su inicio.
+
+CUARTO. Las reformas y adiciones que en este Decreto se prevén al Código Penal para el Estado de Colima, entrarán en vigor a partir del nombramiento del Titular de la Fiscalía Especializada en Combate a la Corrupción en términos de lo previsto por el artículo 81 de la Constitución Política del Estado Libre y Soberano de Colima, y de la Ley Orgánica de la Fiscalía General del Estado que al efecto se emita de conformidad con el Artículo Segundo Transitorio del Decreto Número 08 por el que se reformaron, adicionaron y derogaron diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Colima, publicado en el Periódico Oficial "El Estado de Colima" Número 63 del 07 de noviembre de 2015, en tanto continuarán aplicándose las disposiciones vigentes con anterioridad a su entrada en vigor.
+
+QUINTO. A partir de la entrada en vigor de las reformas y adiciones que en este Decreto se prevén al Código Penal para el Estado de Colima de conformidad al artículo transitorio anterior, para el caso en que las reformas o adiciones contenidas en el mismo, contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas o adiciones, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
+II. En las investigaciones iniciadas, en los que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
+III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+SEXTO. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
