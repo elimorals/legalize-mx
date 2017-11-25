@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2017-08-05"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -3559,7 +3559,9 @@ ART. 428 TER.- El cónyuge que unilateralmente desee promover el juicio de divor
 
 ART. 428 TER 1.- Cuando existan menores, incapaces o bienes de la sociedad conyugal, deberá acompañar a su solicitud la propuesta de convenio que deberá reunir los requisitos establecidos en el artículo 273 del Nuevo Código Civil para el Estado de Colima.
 
-Admitida la solicitud con los documentos y copias anexas, se notificará y se correrá traslado al otro cónyuge, a fin de que en el plazo de quince días manifieste su conformidad con el convenio o, en su caso, presente su contrapropuesta.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+Admitida la solicitud con los documentos y copias anexas, se notificará y se correrá traslado al otro cónyuge, a fin de que en el plazo de siete días manifieste su conformidad con el convenio o, en su caso, presente su contrapropuesta.
 
 Asimismo, el Juez ordenará poner a la vista del representante del Ministerio Público adscrito, la solicitud de divorcio y anexos, y en caso de existir la contrapropuesta para su debida intervención.
 
@@ -7000,3 +7002,9 @@ P.O. 5 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 324 POR EL QUE SE REFORMAN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO 103, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 11 DE JUNIO DE 2016."]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 365 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 428 TER 1 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
