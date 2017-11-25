@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2017-11-04"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -129,6 +129,10 @@ IX. Cambio Climático: variación del clima atribuido directa o indirectamente a
 
 X. Centro de Población: las áreas que se hayan establecido para la fundación del mismo; las áreas urbanas ocupadas por las viviendas e infraestructura necesarias para su vida comunitaria; las que se reserven para su expansión futura; y las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecologías (sic);
 
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+X Bis. Compensación Ambiental: inversión o acciones para generar una mejora ambiental, que el responsable lleve a cabo, en sustitución de la reparación total o parcial del daño ocasionado al ambiente, equivalente a los efectos adversos ocasionados por el daño;
+
 XI. Condiciones Particulares de Descarga: los parámetros máximos permisibles físicos, químicos y biológicos que se establecen con el propósito de controlar las descargas de aguas residuales, que de manera general deberán cumplir quienes descargan éstas a los cuerpos receptores, entre otros, a los sistemas de drenaje y alcantarillado de los centros de población;
 
 XII. Conservación: el conjunto de políticas, métodos, estrategias y medidas para mantener dinámicamente las condiciones que propicien la evolución y continuidad de los ambientes naturales e inducidos;
@@ -224,6 +228,10 @@ L. Recursos Naturales no Renovables: aquéllos que existen en una cantidad deter
 LI. Recursos Naturales Renovables: aquéllos susceptibles de duración indefinida, sin la reducción del abasto disponible, considerándose su remplazo con mayor rapidez mediante procesos naturales, respecto a los considerados como no renovables;
 
 LII. Relleno Sanitario: obra de infraestructura que involucra métodos y obras de ingeniería para la disposición final de los residuos sólidos urbanos y de manejo especial, con el fin de controlar, a través de la compactación e infraestructura adicionales, los impactos ambientales;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+LII Bis. Reparación del daño Ambiental o Ecológico: la restauración, restitución, restablecimiento, tratamiento, recuperación o remediación de la situación anterior al daño y, en la medida en que esto no sea posible, la compensación o el pago del daño ocasionado;
 
 LIII. Residuo: cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya degradación y deterioro no permita usarlo nuevamente en el proceso que lo generó;
 
@@ -3065,9 +3073,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 21 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 727.- SE REFORMA EL ARTÍCULO 92, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 727.- SE REFORMA EL ARTÍCULO 92, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -3081,7 +3089,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 4 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 739.- SE REFORMA Y ADICIONA EL ARTÍCULO 177 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 739.- SE REFORMA Y ADICIONA EL ARTÍCULO 177 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
 
@@ -3094,3 +3102,11 @@ P.O. 4 DE NOVIEMBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO 749.- SE ADICIONA AL ARTÍCULO 3° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
