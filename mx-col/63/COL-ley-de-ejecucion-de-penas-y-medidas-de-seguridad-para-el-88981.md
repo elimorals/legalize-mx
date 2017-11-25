@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-88981"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-11"
-last_updated: "2016-03-01"
+last_updated: "2017-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "COL"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE COLIMA
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO, DEL DECRETO 372, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL NUMERAL SEGUNDO DEL ARTÍCULO ÚNICO DEL DECRETO 372, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL DÉCIMO PRIMERO TRANSITORIO DE LA PRESENTE LEY, TODO LO QUE SE REFIERA AL NUEVO SISTEMA DE JUSTICIA PENAL ACUSATORIO ADVERSARIAL, ENTRARÁ EN VIGOR A PARTIR DEL 03 DE DICIEMBRE DEL 2012.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 11 de agosto de 2012.
 
@@ -3080,3 +3078,21 @@ P.O. 1 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 59 POR EL QUE SE REFORMA EL ARTÍCULO 45; SE REFORMA EL SEGUNDO PÁRRAFO Y LAS FRACCIONES VII Y VIII, Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, Y LA FRACCIÓN IX DEL ARTÍCULO 46; SE REFORMAN LA (SIC) FRACCIONES IV Y V, Y SE ADICIONA LA FRACCIÓN VI DEL ARTÍCULO 47; SE ADICIONA UN CUARTO PÁRRAFO DEL ARTÍCULO 239; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA", EL 11 DE OCTUBRE DE 2014 MEDIANTE DECRETO 394, Y POR EL QUE SE REFORMA LA FRACCIÓN III DEL INCISO A) DEL ARTÍCULO 25; SE REFORMAN LOS ARTÍCULOS 32, 33, 34; SE REFORMAN EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 35; SE REFORMAN LOS ARTÍCULOS 36, 37, 38; SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 39; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 41; SE REFORMAN LOS ARTÍCULOS 43, 50, 52; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 55; Y SE ADICIONA UN PÁRRAFO AL ARTÍCULO 133, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE COLIMA" EL 27 DE JULIO DE 1985”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBE EL PUNTO ÚNICO DEL “DECRETO 372 POR EL QUE SE APRUEBA EMITIR LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE EJECUCIÓN PENAL EN EL TERRITORIO DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]</small>
+
+ÚNICO.- Se aprueba emitir la Declaratoria de la Entrada en Vigor de la Ley Nacional de Ejecución Penal en el Territorio del Estado Libre y Soberano de Colima, para quedar como sigue:
+
+PRIMERO. Se declara la vigencia del articulado en términos del primer párrafo del artículo segundo transitorio de la Ley Nacional de Ejecución Penal en el Territorio del Estado Libre y Soberano de Colima a partir de la entrada en vigor del presente Decreto.
+
+SEGUNDO. Se abroga la Ley de Ejecución de Penas y Medidas de Seguridad para el Estado de Colima, aprobada mediante Decreto 553 y publicada en el Periódico Oficial "El Estado de Colima" de fecha 11 de agosto de 2012 con todo y sus reformas, así como las demás disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO. Las penas que se estén compurgando a la entrada en vigor de la Ley Nacional de Ejecución Penal continuarán con su sustanciación de conformidad con la legislación aplicable al inicio de los mismos, debiendo aplicar los mecanismos de control jurisdiccional previstos en la ley señalada, de acuerdo con el principio pro persona establecido en el artículo 1º de la Constitución Política de los Estados Unidos Mexicanos y de conformidad a lo señalado por el artículo 25 fracción VI de la referida Ley Nacional de Ejecución Penal.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 372 POR EL QUE SE APRUEBA EMITIR LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA LEY NACIONAL DE EJECUCIÓN PENAL EN EL TERRITORIO DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Colima".
+
+SEGUNDO. Remítase copia de la presente declaratoria al Honorable Congreso de la Unión.
