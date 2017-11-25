@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-instituto-regional-del-patrimonio-mundial-en-102305"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-30"
-last_updated: "2014-08-30"
+last_updated: "2017-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL INSTITUTO REGIONAL DEL PATRIMONIO MUNDIAL EN ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 30 de agosto de 2014.
 
@@ -277,21 +277,27 @@ El Director del Instituto será miembro del Comité Consultivo, sólo con derech
 
 El Comité Consultivo tendrá las funciones que el Consejo de Administración establezca en el Reglamento Interno.
 
-Director General del Instituto
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2017)</small>
+
+Director del Instituto
 
 ###### Artículo 15.
 
-El Director General tendrá las siguientes facultades y obligaciones:
+El Director del Instituto tendrá las siguientes facultades y obligaciones:
 
-I. Dirigir la labor del Instituto de conformidad con el plan de trabajo, y las directrices que establezca el Consejo de Administración;
+I. Dirigir y administrar al Instituto de conformidad con el plan de trabajo, y las directrices que establezca el Consejo de Administración;
 
-II. Proponer el proyecto de plan de trabajo y presupuesto que se ha de someter al Consejo de Administración;
+II. Proponer el proyecto de plan de trabajo y presupuesto de carácter federal y estatal, que se ha de someter al Consejo de Administración;
 
-III. Preparar el orden del día provisional de las reuniones del Consejo de Administración y el Comité Ejecutivo y presentarles las propuestas que considere útiles para la administración del Instituto;
+III. Preparar el orden del día provisional de las reuniones del Consejo de Administración y el Comité Ejecutivo y presentarles las propuestas que considere útiles para la administración del Instituto, así como asistir a las reuniones del Consejo de Administración y dar cumplimiento a sus decisiones;
 
-IV. Preparar informes sobre las actividades del Instituto y presentarlos al Consejo de Administración por conducto del Comité Ejecutivo; y
+IV. Preparar informes sobre las actividades del Instituto y presentarlos al Consejo de Administración por conducto del Comité Ejecutivo;
 
-V. Representar al Instituto ante los tribunales de justicia y en toda acción civil.
+V. Representar al Instituto ante los tribunales de justicia y en toda acción civil, fiscal o administrativa, así como, ante autoridades, organismos u órganos administrativos, fiscales, hacendarios, según corresponda y ante las instituciones de crédito y de cualquier otra índole;
+
+VI. Otorgar o revocar poderes generales o especiales, previa autorización del Consejo de Administración, de conformidad con la legislación aplicable; y
+
+VII. Establecer relaciones de coordinación y colaboración con las autoridades municipales, estatales, federales y de cooperación internacional, en sus ámbitos de competencia, para el cumplimiento de sus objetivos.
 
 ### CAPÍTULO III. DEL PATRIMONIO DEL INSTITUTO
 
@@ -366,3 +372,15 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. FRANCISCO ESCOBEDO VILLEGAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 210.- MEDIANTE EL CUAL SE REFORMA LA LEY DEL INSTITUTO REGIONAL DEL PATRIMONIO MUNDIAL EN ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Los acuerdos, convenios, contratos y todo acto jurídico suscrito con el carácter de Director General, mantendrán su validez legal en los términos pactados.
+
+Artículo tercero. Se derogan las disposiciones que se opongan a este Decreto.
