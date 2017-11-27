@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1170
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-07"
-last_updated: "2017-02-27"
+last_updated: "2017-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 7 de noviembre de 2016.
 
@@ -719,7 +721,9 @@ I. El marco normativo aplicable al sujeto obligado, en el que deberá incluirse 
 
 II. Su estructura orgánica completa, en un formato que permita vincular cada parte de la estructura, las atribuciones y responsabilidades que le corresponden a cada servidor público, prestador de servicios profesionales o miembro de los Sujetos Obligados, de conformidad con las disposiciones aplicables;
 
-III. Las facultades de cada Área;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+III. Las facultades de cada área y las relativas a sus funciones;
 
 IV. Las metas y objetivos de las Áreas de conformidad con sus programas operativos;
 
@@ -729,7 +733,9 @@ VI. Los Indicadores que permitan rendir cuenta de sus objetivos y resultados;
 
 VII. El directorio de todos los Servidores Públicos, a partir del nivel de jefe de departamento o su equivalente, o de menor nivel, cuando se brinde atención al público; manejen o apliquen recursos públicos; realicen actos de autoridad o presten servicios profesionales bajo el régimen de confianza u honorarios y personal de base. El directorio deberá incluir, al menos el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico, domicilio para recibir correspondencia y dirección de correo electrónico oficiales;
 
-VIII. La remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+VIII. La remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración, en un formato que permita vincular a cada servidor público con su remuneración;
 
 IX. Los gastos de representación y viáticos, así como el objeto e informe de comisión correspondiente;
 
@@ -1325,7 +1331,7 @@ V. Obstruya las actividades de verificación, inspección y auditoría relativas
 
 VI. Obstruya la prevención o persecución de los delitos;
 
-VII. La que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los Servidores Públicos, hasta en tanto no sea adoptada la decisión definitiva , la cual deberá estar documentada;
+VII. La que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los Servidores Públicos, hasta en tanto no sea adoptada la decisión definitiva, la cual deberá estar documentada;
 
 VIII. Obstruya los procedimientos para fincar responsabilidad a los Servidores Públicos, en tanto no se haya dictado la resolución administrativa;
 
@@ -1752,5 +1758,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se Derogan las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 176.- REFORMAS A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el primero de enero de 2018.
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
