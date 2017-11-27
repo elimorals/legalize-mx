@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2017-05-15"
+last_updated: "2017-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE NOVIEMBRE DE 2017.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -233,6 +233,10 @@ Habitantes del Estado.
 
 Los habitantes del Estado, por su condición política, se consideran como sonorenses, ciudadanos y extranjeros.
 
+> <small>(ADICIONADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+En el Estado de Sonora, toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 9.
@@ -261,9 +265,9 @@ Son Extranjeros los considerados así por la Constitución General de la Repúbl
 
 Son obligaciones de los sonorenses:
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-I. Enviar a sus hijos o pupilos a las escuelas públicas o privadas para que cursen la educación primaria y secundaria y cuidar que reciban la instrucción militar, en los términos que establezca la Ley.
+I. Enviar a sus hijos o pupilos a las escuelas públicas o privadas para que cursen la educación básica y media superior, y cuidar que reciban la instrucción militar, en los términos que establezca la Ley.
 
 II. Acudir en los días y horas designados al llamado de la autoridad para obtener la instrucción cívica y militar correspondiente.
 
@@ -369,7 +373,9 @@ I. Los que hayan sido suspendidos en sus prerrogativas o derechos como ciudadano
 
 II. Los que faltaron sin causa justificada a las obligaciones de ciudadano que les imponen las fracciones II, III y IV del Artículo 13 de esta Constitución.
 
-III. Los procesados desde que se dicte el auto de formal prisión hasta que cause ejecutoria la sentencia que los absuelva.
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+III. Los procesados desde que se dicte el auto de vinculación a proceso hasta que cause ejecutoria la sentencia que los absuelva.
 
 > <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -403,7 +409,9 @@ El Estado de Sonora forma parte de la Federación de los Estados Unidos Mexicano
 
 La soberanía reside esencial y originariamente en el pueblo sonorense y se ejerce por medio de los poderes públicos del Estado. El gobierno es emanación genuina del pueblo y se instituye para beneficio del mismo.
 
-La elección a gobernador del Estado, de los diputados al Congreso del Estado y de los integrantes de los ayuntamientos, deberá realizarse mediante sufragio universal, libre, secreto y directo, a través de elecciones libres, auténticas y periódicas. La jornada comicial tendrá lugar el primer domingo de junio del año en que corresponda.
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+La elección a gobernador del Estado, de los diputados al Congreso del Estado y de los integrantes de los ayuntamientos, deberá realizarse mediante sufragio universal, libre, secreto y directo, a través de elecciones libres, auténticas y periódicas. La jornada comicial tendrá lugar el primer domingo de junio del año en que corresponda y procurará realizarse de manera concurrente con los procesos electorales federales.
 
 La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Estatal Electoral y de Participación Ciudadana, dotado de personalidad jurídica y patrimonio propios, integrado por ciudadanos y partidos políticos. En el ejercicio de esa función estatal, por parte de las autoridades electorales, la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores.
 
@@ -421,7 +429,9 @@ Los consejeros electorales y demás servidores públicos que establezca la ley, 
 
 El Instituto contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por las leyes aplicables. La selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina de los servidores públicos del Instituto estará a cargo del Servicio Profesional Electoral Nacional, en los términos de las leyes aplicables.
 
-El Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones del Instituto solo con derecho a voz. Las sesiones de los organismos electorales serán públicas. Cada partido político contará con un representante propietario y su suplente en cada organismo electoral.
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+El Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones del Instituto solo con derecho a voz. Las sesiones de los organismos electorales serán públicas y deberán difundirse por medios electrónicos en tiempo real. Cada partido político contará con un representante propietario y su suplente en cada organismo electoral.
 
 El Instituto Estatal Electoral y de Participación Ciudadana podrá convenir con el Instituto Nacional Electoral para que se haga cargo de la organización de los procesos electorales locales, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.
 
@@ -513,9 +523,11 @@ Artículo 25 C. La planeación deberá llevarse a cabo como un medio para el efi
 
 El Estado considera la planeación del desarrollo como actividad de interés público.
 
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-Artículo 25 D. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal y en igual forma existirá un Plan de Desarrollo por cada Municipio de la Entidad, al que se sujetarán los programas de los Gobiernos Municipales.
+###### Artículo 25-D.
+
+Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal y en igual forma existirá un Plan de Desarrollo por cada Municipio de la Entidad, al que se sujetarán los programas de los Gobiernos Municipales. Los Planes de Desarrollo deberán expedirse dentro de los primeros cuatro meses del inicio de la administración correspondiente.
 
 > <small>(ADICIONADO, B.O. 29 DE MARZO DE 2001)</small>
 
@@ -621,9 +633,9 @@ III. Tener vecindad y residencia efectiva dentro del distrito electoral correspo
 
 IV. No haber sido Gobernador del Estado dentro del período en que se efectúe la elección, aún cuando se hubiere separado definitivamente de su puesto.
 
-> <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-V. No haber sido Magistrado del Supremo Tribunal, Fiscal General de Justicia del Estado, Fiscal Especial, Secretario o Subsecretario, Magistrado del Tribunal de Justicia Administrativa, Auditor Mayor del Instituto Superior de Auditoría y Fiscalización, Presidente Municipal ni ejercido mando militar alguno dentro de los noventa días inmediatamente anteriores al día de la elección.
+V. No tener el carácter de servidor público, dentro de los noventa días inmediatamente anteriores al día de la elección, salvo que se trate de reelección del cargo o de aquellos que desempeñen un empleo, cargo, comisión o de servicio de cualquier naturaleza dentro del ramo educativo público en cualquiera de sus tipos, modalidades o niveles, sea municipal, estatal o federal.
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto religioso.
 
@@ -635,17 +647,19 @@ VII. No haber sido Diputado Propietario durante cuatro periodos consecutivos al 
 
 VIII. No haber sido Diputado o Senador Propietario del Congreso de la Unión, a menos que se separe de dicho cargo, noventa días antes al día de la elección.
 
-> <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-IX. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
+IX. No haber sido condenado por la comisión de un delito intencional, salvo que el antecedente penal hubiere prescrito.
 
 > <small>(REFORMADA, B.O. 19 DE JUNIO DE 2014)</small>
 
 X. No haber sido magistrado propietario o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o haya transcurrido el plazo a que se refiere el artículo 22 de esta Constitución.
 
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 34.
 
-Los Diputados rendirán la protesta de Ley ante el Congreso o ante la Diputación Permanente.
+Los Diputados rendirán la Protesta de Ley ante el Congreso o ante la Diputación Permanente.
 
 #### SECCION III.
 
@@ -713,13 +727,13 @@ En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o 
 
 Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
 
-> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 46.
 
-El día 13 del mes de octubre de cada año, el Gobernador presentará al Congreso del Estado, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
+El día 13 del mes de octubre de cada año, el Titular del Poder Ejecutivo, por sí o de manera extraordinaria y, previo acuerdo, por conducto del Secretario de Gobierno o de quien aquél designe, presentará al Congreso del Estado, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
 
-El último año de su ejercicio constitucional, el Gobernador presentará el informe a que este precepto se refiere, el día 26 de agosto.
+El último año de su ejercicio constitucional, el Titular del Poder Ejecutivo presentará el informe a que este precepto se refiere, el día 26 de agosto.
 
 ###### Artículo 47.
 
@@ -741,11 +755,11 @@ Los diputados suplentes substituirán a los propietarios en todas sus faltas tem
 
 Los diputados suplentes de representación proporcional suplirán a sus propietarios en todas sus faltas temporales y absolutas y, en el caso de que no se presenten ni propietario ni suplente, se llamará a aquellos candidatos del mismo partido que sigan en el orden de prelación en la lista respectiva, después de habérseles asignado los diputados que les hubieren correspondido.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 50.
 
-Los diputados en funciones, durante el período de su encargo, no podrán desempeñar comisión o empleo alguno de la Federación, de los otros Poderes del Estado o del Municipio, disfrutando sueldo o remuneración, a no ser que tengan licencia del Congreso; pero concedida que fuere esta licencia, cesarán en sus funciones legislativas mientras desempeñan el empleo o comisión. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
+Los Diputados en funciones, durante el periodo de su encargo, no podrán desempeñar comisión o empleo alguno de la Federación, de los otros Poderes del Estado o del Municipio, o cualquier otra responsabilidad pública, disfrutando sueldo o remuneración, a no ser que tengan licencia del Congreso; pero concedida que fuere esta licencia, cesarán en sus funciones legislativas mientras desempeñan el empleo o comisión. La infracción de esta disposición será castigada con la pérdida del carácter de Diputado.
 
 ###### Artículo 51.
 
@@ -785,9 +799,11 @@ V. A los ciudadanos que representen el 1% del total inscrito en el Padrón Estat
 
 El Supremo Tribunal sólo podrá iniciar leyes en el Ramo de Justicia.
 
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 55.
 
-Las iniciativas presentadas por el Ejecutivo o por el Supremo Tribunal pasarán desde luego a Comisión. Todas las demás deberán sujetarse a los trámites que establezca el Reglamento de Debates, trámites que sólo podran ser dispensados por el voto de las dos terceras partes de los Diputados presentes.
+Las iniciativas presentadas por el Ejecutivo o por el Supremo Tribunal pasarán desde luego a Comisión. Todas las demás deberán sujetarse a los trámites que establezca la legislación secundaria, trámites que sólo podrán ser dispensados por el voto de las dos terceras partes de los Diputados presentes.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -797,11 +813,13 @@ Aprobado por el Congreso un proyecto de Ley o de decreto pasará al Ejecutivo pa
 
 Los acuerdos de la Cámara se comunicarán al propio Ejecutivo para los efectos correspondientes.
 
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 57.
 
-Se reputará aprobado por el Ejecutivo todo proyecto de ley o de decreto no devuelto con observaciones al Congreso, o en su receso a la Diputación Permanente, en el término de diez días útiles.
+Se reputará aprobado por el Ejecutivo todo Proyecto de Ley o de Decreto no devuelto con observaciones al Congreso, o en su receso a la Diputación Permanente, en el término de diez días hábiles.
+
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
 El Congreso o la Diputación Permanente podrán ordenar la publicación de las leyes o decretos si el Ejecutivo no lo hace dentro de los ocho días siguientes al vencimiento del término fijado para hacer observaciones, o el día en que reciba la ley o decreto confirmados por aquella Asamblea. En este caso se harán constar las circunstancias que lo motiven.
 
@@ -813,9 +831,11 @@ La creación, reforma, adición, derogación u abrogación de leyes o decretos e
 
 Si corriendo el término que para hacer observaciones fija el Artículo anterior, el Congreso cierra o suspende sus sesiones, la devolución del Proyecto deberá hacerse a la Diputación Permanente.
 
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 59.
 
-En caso de urgencia notoria, calificada así por las dos terceras partes, cuando menos, de los Diputados presentes, el Congreso podrá reducir los términos concedidos al Ejecutivo para hacer observaciones, sin que en caso alguno puedan ser menores de cuarenta y ocho horas corridas.
+En caso de urgencia notoria, calificada así por las dos terceras partes, cuando menos, de los Diputados presentes, el Congreso podrá reducir los términos concedidos al Ejecutivo para hacer observaciones, sin que en caso alguno puedan ser menores de setenta y dos horas corridas.
 
 > <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
@@ -823,15 +843,17 @@ En caso de urgencia notoria, calificada así por las dos terceras partes, cuando
 
 Devuelto oportunamente un proyecto con observaciones, deberá ser discutido de nuevo por el Congreso; y si fuere confirmado por las dos terceras partes de los Diputados presentes, el proyecto tendrá carácter de ley o de decreto y volverá al Ejecutivo para su publicación, observándose en cuanto a esta lo dispuesto en los artículos que anteceden.
 
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 61.
 
-El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso cuando éste funja como Colegio Electoral o como Jurado. Tampoco podrá hacer observaciones a los Decretos que convoquen a elecciones.
+El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso cuando éste funja como Colegio Electoral o como Jurado. Tampoco podrá hacer observaciones a los decretos que convoquen a elecciones ni a aquéllos que reformen esta Constitución y la Ley Orgánica del Congreso del Estado.
 
-> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 62.
 
-Todo proyecto de ley o de decreto que fuere desechado por el Congreso, no podrá ser presentado de nuevo en el mismo período de sesiones.
+Todo proyecto de Ley o de Decreto que fuere desechado por el Congreso, no podrá ser presentado de nuevo en el mismo período de sesiones, salvo que así lo determinen las dos terceras partes de los integrantes del Congreso.
 
 ###### Artículo 63.
 
@@ -881,9 +903,17 @@ b). Los casos en que se requiera el acuerdo de las dos terceras partes de los mi
 
 c). Las normas de aplicación general para celebrar los convenios a que se refieren los artículos 79, fracción XVI, 138 y 139 de esta Constitución;
 
-d). El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-e). Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes.
+d). El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes;
+
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+e). Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes; y
+
+> <small>(ADICIONADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+f). Las bases generales para que los órganos de control de los Municipios, previa aprobación de las dos terceras partes de los integrantes del Ayuntamiento, celebren convenios con el órgano de control del Gobierno Estatal y el Instituto Superior de Auditoría y Fiscalización, en materia de responsabilidades administrativas.
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -919,13 +949,13 @@ XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador
 
 XVII. Para constituirse en Colegio Electoral y elegir al ciudadano que debe substituir al Gobernador en sus faltas absolutas, temporales o definitivas y en sus ausencias temporales cuando éstas excedan de noventa días.
 
-> <small>[N. DE E. DE ACUERDO AL SEGUNDO PÁRRAFO DEL ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO DE LA LEY DE REFORMA NÚMERO 102, PUBLICADA EN EL B.O. 13 DE ENERO DE 2017, TODAS AQUELLAS LEYES QUE DENTRO DE SUS DISPOSICIONES SE MENCIONE EL TRIBUNAL CONTENCIOSO ADMINISTRATIVO SE ENTENDERÁN REFERIDAS AL TRIBUNAL DE JUSTICIA ADMINISTRATIVA.]</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, B.O. 22 DE ENERO DE 1977)</small>
+XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Justicia Administrativa, que sean hechos por el Ejecutivo.
 
-XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo, que sean hechos por el Ejecutivo.
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
+XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia.
 
 > <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -947,13 +977,19 @@ XXI A. Para declarar si ha o no lugar a proceder penalmente contra los servidore
 
 XXI B. Para conocer y decidir sobre la resolución que dicte la Cámara de Senadores y la declaración de procedencia que emita la Cámara de Diputados del Congreso de la Unión, en los términos de los Artículos 110 y 111 de la Constitución General de la República.
 
-> <small>(REFORMADA, B.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos, así como el Presupuesto de Egresos del Estado, en vista de los datos que le presente el Ejecutivo.
+XXII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos, así como el Presupuesto de Egresos del Estado, en vista de los datos que le presente el Ejecutivo, en forma física y en formatos electrónicos de fácil manejo, incluyendo los anexos y tomos del proyecto del Presupuesto de Egresos.
+
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 En el Presupuesto de Egresos el Congreso deberá aprobar las partidas necesarias para solventar obligaciones que se deriven de la contratación de obras o servicios prioritarios para el desarrollo estatal cuando dichas obligaciones comprendan dos o más ejercicios fiscales. Los gastos o pagos que deban cubrirse durante la vigencia de dicha contratación, deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado.
 
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
+
 La contratación de las obras o servicios a que se refiere el párrafo anterior, se establecerá en términos de las leyes respectivas.
+
+> <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2007)</small>
 
 Para este efecto el Ejecutivo del Estado deberá presentar, previamente al Congreso del Estado, la información técnica y financiera que corresponda a cada proyecto, cuya afectación presupuestal multianual deberá ser aprobada por el voto de las dos terceras partes de los integrantes del Poder Legislativo.
 
@@ -1003,9 +1039,11 @@ XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servi
 
 XXX. (DEROGADA, B.O. 29 DE MARZO DE 2001)
 
-> <small>(REFORMADA, B.O. 12 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XXXI. Para expedir la ley que regulará su estructura y funcionamiento internos, así como los reglamentos de la misma.
+XXXI. Para expedir la Ley que regulará su estructura y funcionamiento internos, así como los reglamentos de la misma.
+
+El titular del Órgano de Control Interno y personal administrativo de nivel subdirector y superiores del Congreso del Estado, serán designados y removidos por al menos las dos terceras partes de sus integrantes.
 
 La ley y los reglamentos a que se refieren los párrafos anteriores no podrán ser vetados ni necesitarán la promulgación del Ejecutivo para tener vigencia.
 
@@ -1021,9 +1059,13 @@ XXXIV. Para expedir reglamentos sobre la instrucción de la Guardia Nacional, co
 
 XXXV. Para velar por la conservación de los derechos de los ciudadanos y habitantes del Estado y proveer, por cuantos medios estén a su alcance, a su prosperidad general.
 
-> <small>(ADICIONADA, B.O. 29 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XXXV Bis. Para legislar y fomentar la participación ciudadana en el Estado y sus Municipios, regulando las figuras que se estimen convenientes, entre las cuales deberá considerar el referéndum, plebiscito, iniciativa popular y consulta vecinal, como instituciones básicas de participación.
+XXXV BIS. Para legislar y fomentar la participación ciudadana en el Estado y sus Municipios, regulando las figuras que se estimen convenientes, entre las cuales deberá considerar el referéndum, plebiscito, iniciativa popular y consulta vecinal, como instituciones básicas de participación.
+
+Para efectos de garantizar que la consulta vecinal, la iniciativa popular y la consulta popular puedan llevarse a cabo en los términos y plazos que establece la ley en la materia, los ayuntamientos garantizarán en su presupuesto anual una partida con los recursos suficientes para la operatividad, logística y difusión de la misma.
+
+En tal virtud y para garantizar que las decisiones de la población sobre las prioridades producto de la consulta de dicho presupuesto participativo, tanto el Gobierno del Estado como los Ayuntamientos, deberán establecer al menos el 20% del total del presupuesto para obra en el año fiscal que se programe y cumplir así con la voluntad democrática de los ciudadanos que participen en las consultas y debates que prevé la ley.
 
 > <small>(REFORMADA, B.O. 29 DE MARZO DE 2001)</small>
 
@@ -1061,9 +1103,9 @@ XLIII. Para expedir Leyes y reglamentos concernientes a la recta aplicación de 
 
 XLIII Bis. Para expedir la ley que regule las atribuciones del Tribunal de Justicia Administrativa, en los términos previstos en esta Constitución; asimismo, para instituir tribunales de conciliación y arbitraje que conozcan de las controversias que surjan de la aplicación de las leyes que regulen las relaciones entre los trabajadores del servicio civil y los titulares de las entidades y dependencias públicas en que presten sus servicios.
 
-> <small>(REFORMADA, B.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XLIII Bis-A. Para designar a los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, los miembros del consejo consultivo del mismo, legislar en materia de transparencia, acceso a la información pública y protección a datos personales en Sonora, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la legislación general en la materia y esta Constitución, y promover y difundir en el Estado la cultura de la apertura informativa y del ejercicio de esos derechos, así como establecer criterios generales para la catalogación y conservación de documentos.
+XLIII Bis-A. Para designar, mediante votación de las dos terceras partes de los integrantes del Congreso, a los Comisionados del Instituto Sonorense de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, los miembros del consejo consultivo del mismo, legislar en materia de transparencia, acceso a la información pública y protección a datos personales en Sonora, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la legislación general en la materia y esta Constitución, y promover y difundir en el Estado la cultura de la apertura informativa y del ejercicio de esos derechos, así como establecer criterios generales para la catalogación y conservación de documentos.
 
 XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
@@ -1091,7 +1133,9 @@ Son facultades de la Diputación Permanente:
 
 I. Conceder o negar las licencias a que se refiere la fracción XVI del artículo 64 de esta Constitución.
 
-II. Conceder licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él, a los Magistrados del Supremo Tribunal de Justicia.
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+II. Conceder licencia a los Magistrados del Supremo Tribunal de Justicia y de los Tribunales de Justicia Administrativa.
 
 III. Vigilar la exacta observancia de la Constitución General, la Particular del Estado y las leyes que de éstas emanen, dando cuenta al Congreso de las infracciones que advierta.
 
@@ -1169,53 +1213,51 @@ Para coordinar la entrega del informe de resultados y demás información que de
 
 F) Investigar los actos u omisiones relativos a irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, pudiendo, para este efecto, realizar todas las diligencias que resulten conducentes; incluyéndose visitas domiciliarias a particulares que hubiesen fungido como proveedores de bienes o servicios a la autoridad estatal o municipal, con el exclusivo propósito de compulsar las transacciones correspondientes y la documentación que las sustente, en los términos y con las formalidades previstas para los cateos.
 
-> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-G) Determinar y ejecutar las medidas conducentes a la recuperación de los daños y perjuicios que afecten al erario, en el caso de falta administrativa no grave, fincando a los responsables las indemnizaciones correspondientes, cuando sea detectada esta situación en el ejercicio de sus atribuciones fiscalizadoras. Asimismo, derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, en los términos de esta Constitución y la ley.
-
-> <small>[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA LEY DE REFORMAS NÚMERO 102, SE ADVIERTE QUE EL PRESENTE INCISO INCLUYE SEIS PÁRRAFOS]</small>
+G) Determinar y ejecutar las medidas conducentes a la recuperación de los daños y perjuicios que afecten al erario, en el caso de falta administrativa no grave, fincando a los responsables las indemnizaciones correspondientes, cuando sea detectada esta situación en el ejercicio de sus atribuciones fiscalizadoras, sin perjuicio de promover las responsabilidades administrativas que resulten ante el órgano de control interno competente. Asimismo, derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, en los términos de esta Constitución y la ley.
 
 > <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
 H) Ejercer las atribuciones referidas a los apartados D, F y G con respecto a los ejercicios presupuestales de los organismos constitucionalmente autónomos.
 
+> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
+
 El Auditor Mayor del Instituto Superior de Auditoría y Fiscalización será designado por las dos terceras partes de los diputados presentes en la sesión correspondiente, y los Auditores Adjuntos por más de la mitad de los diputados presentes en la sesión correspondiente, a propuesta del Auditor Mayor.
+
+> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
 El Comité Ciudadano de Evaluación del Desempeño Legislativo integrará una propuesta de al menos cinco candidatos al cargo de Auditor Mayor y la remitirá al Titular del Poder Ejecutivo del Estado, quien integrará una terna que enviará al Congreso del Estado para su designación.
 
+> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
+
 Si el Titular del Poder Ejecutivo no recibe la lista en el plazo de treinta días a partir de la ausencia definitiva del Auditor Mayor, enviará libremente al Congreso del Estado una terna y designará provisionalmente al Auditor Mayor quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Auditor Mayor designado podrá formar parte de la terna.
 
-> <small>[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA LEY DE REFORMAS NÚMERO 102 PUBLICADA EN EL B.O. 13 DE ENERO DE 2017, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO, ES SIMILAR AL CONTENIDO DEL TERCER PÁRRAFO DEL PRESENTE ARTÍCULO.]</small>
+> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
 El Auditor Mayor y los auditores adjuntos durarán en su encargo siete años y podrán ser nombrados, nuevamente, por una sola vez. Dichos funcionarios solo podrán ser removidos por el Congreso por las causas graves que al efecto se determinen en la ley y por la misma mayoría que cada uno requiere para su nombramiento.
 
-> <small>[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA LEY DE REFORMAS NÚMERO 102 PUBLICADA EN EL B.O. 13 DE ENERO DE 2017, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO, ES SIMILAR AL CONTENIDO DEL CUARTO PÁRRAFO DEL PRESENTE ARTÍCULO.]</small>
+> <small>(REFORMADO, B.O. 13 DE ENERO DE 2017)</small>
 
 La ley definirá formas alternativas de designación del Auditor Mayor y de los auditores adjuntos del Instituto Superior de Auditoria y Fiscalización para la hipótesis de que, en un plazo breve, no se reúna la votación cameral requerida para dicho nombramiento. La falta de votos para el nombramiento referido nunca podrá ocasionar la permanencia en el encargo de quien haya ejercido la función en el periodo que concluye.
 
-> <small>[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA LEY DE REFORMAS NÚMERO 102 PUBLICADA EN EL B.O. 13 DE ENERO DE 2017, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO, ES SIMILAR AL CONTENIDO DEL QUINTO PÁRRAFO DEL INCISO H) DEL PRESENTE ARTÍCULO.]</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 27 DE NOVIEMBRE DE 2017, PÁGINA 8.]</small>
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-El Auditor Mayor y los auditores adjuntos del Instituto Superior de Auditoría y Fiscalización, durarán en su encargo siete años y podrán ser nombrados, nuevamente, por una sola vez. Dichos funcionarios solo podrán ser removidos por el Congreso por las causas graves que al efecto se determinen en la ley y por la misma mayoría que cada uno requiere para su nombramiento.
+El Instituto Superior de Auditoría y Fiscalización contará con un Órgano de Control Interno cuyo titular será designado por las dos terceras partes de los diputados presentes en la sesión del pleno del Congreso del Estado correspondiente, a propuesta de la Comisión de Régimen Interno y Concertación Política, por un término de 4 años, pudiendo ser ratificado para un periodo adicional. Si al concluir el primer periodo, el Congreso del Estado no ha realizado un nuevo nombramiento, se entenderá ratificado de manera tácita.
 
-> <small>[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA LEY DE REFORMAS NÚMERO 102 PUBLICADA EN EL B.O. 13 DE ENERO DE 2017, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO, ES SIMILAR AL CONTENIDO DEL SEXTO PÁRRAFO DEL INCISO H) DEL PRESENTE ARTÍCULO.]</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 27 DE NOVIEMBRE DE 2017, PÁGINA 8.]</small>
 
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-La ley definirá formas alternativas de designación del Auditor Mayor y de los auditores adjuntos del Instituto Superior de Auditoria y Fiscalización para la hipótesis de que, en un plazo breve, no se reúna la votación cameral requerida para dicho nombramiento. La falta de votos para el nombramiento referido nunca podrá ocasionar la permanencia en el cargo de quien haya ejercido la función en el período que concluye.
+El Instituto Superior de Auditor (sic) y Fiscalización asignará a su Órgano de Control Interno el 3% de su presupuesto anual para la operación y funcionamiento de su estructura, entre ellas las áreas de auditoría interna, investigación y substanciación, cuyos titulares serán designados por el Titular del Órgano de Control.
 
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 27 DE NOVIEMBRE DE 2017, PÁGINA 8.]</small>
 
-La ley especificará los requisitos que deberán reunir para su nombramiento el Auditor Mayor y los auditores adjuntos del Instituto Superior de Auditoria y Fiscalización, así como las atribuciones que les correspondan.
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
-
-Ni el Auditor Mayor ni los auditores adjuntos del Instituto Superior de Auditoria y Fiscalización podrán formar parte, durante el ejercicio de sus encargos, de partido o asociación política algunos, ni desempeñar empleo, cargo o comisión distintos, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
-
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2005)</small>
-
-Tanto las oficinas públicas estatales y municipales como los particulares que ejerzan o hayan ejercido recursos públicos, deberán coadyuvar en lo que resulte legalmente necesario para el buen ejercicio de las funciones del Instituto Superior de Auditoria y Fiscalización.
+El Titular del Órgano de Control del Instituto Superior de Auditoría y Fiscalización presentará a la Comisión de Fiscalización, en la primera quincena del mes de septiembre de cada año, un informe que contenga los resultados del ejercicio de su encargo.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, B.O. 13 DE ENERO DE 2017)</small>
 
@@ -1273,19 +1315,19 @@ III. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
 IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-> <small>(REFORMADA, B.O. 13 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-V. No haber sido Magistrado del Supremo Tribunal o del Tribunal de Justicia Administrativa, Fiscal General de Justicia del Estado, Fiscal Especializado, Secretario o Subsecretario, Auditor Mayor del Instituto Superior de Auditoría y Fiscalización, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
+V. No tener el carácter de servidor público en los seis meses inmediatamente anteriores al día de la elección, salvo que se trate de aquellos que desempeñen un empleo, cargo, comisión o de servicio de cualquier naturaleza dentro del ramo educativo público en cualquiera de sus tipos, modalidades o niveles, sea municipal, estatal o federal.
 
 VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
 
-> <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-VII. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
+VII. No haber sido condenado por la comisión de un delito intencional, salvo que el antecedente penal hubiere prescrito.
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
 
-VIII.- No haber sido magistrado propietario o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la ley.
+VIII. No haber sido magistrado propietario o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la ley.
 
 ###### Artículo 71.
 
@@ -1391,9 +1433,9 @@ Imponer asímismo, las sanciones que por infracciones a las Leyes y Reglamentos 
 
 VII. Presentar cada año ante el Congreso, durante la primera quincena del mes de noviembre, los proyectos de presupuesto de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y el día 15 de abril de cada año, la cuenta de gastos del año anterior.
 
-> <small>(REFORMADA, B.O. 24 DE SEPTIEMBRE DE 1969)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-VIII. Asistir a rendir ante el Congreso, el informe a que se refiere el artículo 46 de esta Constitución.
+VIII. Asistir a rendir ante el Congreso, por sí o de manera extraordinaria y, previo acuerdo, por conducto del Secretario de Gobierno o de quien designe para tal efecto, el informe a que se refiere el Artículo 46 de esta Constitución.
 
 IX. (DEROGADA, B.O. 7 DE OCTUBRE DE 2004)
 
@@ -1435,7 +1477,9 @@ XX. Ejercer el mando supremo de las fuerzas del Estado y movilizarlas según las
 
 XXI. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas.
 
-XXII. Hacer observaciones por una sola vez en el improrrogable término de diez días útiles, salvo el caso a que se refiere el artículo 59, a las leyes y decretos aprobados por el Congreso, y promulgarlos y hacerlos ejecutar desde luego, si el propio Congreso, después de haberlos reconsiderado, los ratifica.
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+XXII. Hacer observaciones por una sola vez en el improrrogable término de diez días hábiles, salvo el caso a que se refiere el Artículo 59, a las leyes y decretos aprobados por el Congreso, y promulgarlos y hacerlos ejecutar desde luego, si el propio Congreso, después de haberlos reconsiderado, los ratifica.
 
 XXIII. Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley.
 
@@ -1493,9 +1537,9 @@ XLI. Las demás que le asignen las leyes, ya sean Federales o del Estado.
 
 El Gobernador del Estado podrá delegar las facultades y obligaciones previstas en la presente Constitución al servidor público que determine. Esta delegación podrá efectuarse en los casos que el Titular del Ejecutivo lo establezca procedente salvo aquellas facultades que por su naturaleza jurídica deban ser ejercidas por el mismo Gobernador.
 
-> <small>(ADICIONADO, B.O. 28 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-Son facultades exclusivas del Gobernador no delegables las establecidas en las fracciones I, III, VII, VIII, XIII, XIV, XVII, XVIII, XXI, XXII, XXIV, XXXII, XXXIII, XXXVI BIS, XXXIX y XL de este artículo.
+Son facultades exclusivas del Gobernador no delegables las establecidas en las fracciones I, III, VII, XIII, XIV, XVII, XVIII, XXI, XXII, XXIV, XXXII, XXXIII, XXXVI BIS, XXXIX y XL de este artículo.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1563,7 +1607,7 @@ Articulo 82 A. (DEROGADO, B.O. 18 DE JUNIO DE 1977)
 
 Instrucción Pública.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 83.
 
@@ -1589,11 +1633,11 @@ Toda erogación o ejercicio presupuestario, se hará con cargo a las partidas pr
 
 Sólo los empleados de Hacienda manejarán caudales del Estado.
 
-> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 88.
 
-Los funcionarios y empleados de Hacienda, que tengan manejo de caudales públicos, otorgarán previamente, ante el Ejecutivo, fianza suficiente para garantizarlo, de acuerdo con la Ley respectiva.
+Los funcionarios y empleados de Hacienda, que tengan manejo de caudales públicos, serán responsables directos de su uso, de acuerdo con la Ley respectiva.
 
 #### SECCION IV.
 
@@ -1603,7 +1647,7 @@ Ministerio Público.
 
 ###### Artículo 89.
 
-La educación pública, quedará bajo la dirección del Ejecutivo del Estado y sujeta a las leyes y reglamentos correspondientes.
+La educación pública, quedará bajo la dirección del Ejecutivo del Estado, por conducto de la Secretaría de Educación y Cultura, y sujeta a las leyes y reglamentos correspondientes.
 
 > <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
@@ -1621,11 +1665,11 @@ Toda la educación que imparta el Estado será gratuita.
 
 (DEROGADO, B.O. 12 DE NOVIEMBRE DE 1992)
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 93.
 
-La educación primaria y secundaria serán obligatorias para todos los niños y jóvenes comprendidos en edad escolar, y la primaria para todos los adultos analfabetos menores de cuarenta años. Para aquellos que por el lugar de su residencia no puedan concurrir a las escuelas establecidas, el Estado y los municipios elaborarán programas especiales, que también serán obligatorios.
+La educación básica y media superior serán obligatorias para todos los niños y jóvenes comprendidos en edad escolar, y la primaria para todos los adultos analfabetos menores de cuarenta años. Para aquellos que por el lugar de su residencia no puedan concurrir a las escuelas establecidas, el Estado y los municipios elaborarán programas especiales, que también serán obligatorios.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1994)</small>
 
@@ -1657,9 +1701,9 @@ La persecución de los delitos incumbe al Ministerio Público y a la Policía Es
 
 El Ministerio Público, como Institución de buena fe y en su carácter de representante de los intereses de la sociedad, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-I. Perseguir los delitos del orden común cometidos en el territorio del Estado, con estricto respeto a las garantías individuales que precisa la Constitución Política de los Estados Unidos Mexicanos.
+I. Perseguir los delitos del orden común cometidos en el territorio del Estado, con estricto respeto a los derechos humanos que precisa la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -1677,9 +1721,7 @@ IV. Cuidar la correcta aplicación de las medidas de política criminal, en la e
 
 V. Defender a la Hacienda Pública del Estado en juicio, siempre que el Ejecutivo no provea a la procuración conforme a la Ley.
 
-> <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
-
-VI. Cuidar de que se lleven conforme a las leyes los protocolos y libros de los notarios, los libros del Registro Público de la Propiedad y los del Registro Civil.
+VI. (DEROGADA, B.O. 27 DE NOVIEMBRE DE 2017)
 
 > <small>(REFORMADA, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1965,13 +2007,17 @@ V. Un Consejero designado por el Colegio de Notarios del Estado de Sonora, de en
 
 VI. Dos Consejeros designados por el Congreso del Estado mediante el voto de las dos terceras partes de sus integrantes.
 
-Los consejeros a que se refieren las fracciones III y VI de este artículo deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente mínimo siete años previos a la designación, asimismo contar con un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenados por delito intencional con sanción privativa de libertad mayor de un año, y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades. En el caso del Consejero designado por el Supremo Tribunal de Justicia, deberá además gozar de reconocimiento en el ámbito judicial y tener en el desempeño de su cargo por lo menos dos años con anterioridad a la designación.
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+Los consejeros a que se refieren las fracciones III y VI de este artículo deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos, contar con título de Licenciado en Derecho expedido legalmente mínimo siete años previos a la designación, asimismo contar con un mínimo de tres años de ejercicio profesional, gozar de buena reputación y no haber sido condenados por delito intencional y ser personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades. En el caso del Consejero designado por el Supremo Tribunal de Justicia, deberá además gozar de reconocimiento en el ámbito judicial y tener en el desempeño de su cargo por lo menos dos años con anterioridad a la designación.
 
 En los casos de las fracciones III y VI de este precepto, no podrán ser designados consejeros quienes hayan ejercido el cargo de Magistrado del Supremo Tribunal de Justicia
 
 Para entrar al ejercicio del cargo, los consejeros del Poder Judicial rendirán protesta de ley ante el Supremo Tribunal de Justicia.
 
-El Presidente del Consejo y el diverso Magistrado de dicho órgano conservarán su calidad de consejeros mientras se encuentren en el ejercicio de sus cargos, los demás integrantes del Consejo serán designados por un período de seis años y no podrán ser reelectos.
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+El Presidente del Consejo, el diverso Magistrado de dicho órgano y el Fiscal General de Justicia del Estado conservarán su calidad de consejeros mientras se encuentren en el ejercicio de sus cargos, los demás integrantes del Consejo serán designados por un período de seis años y no podrán ser reelectos.
 
 El Consejero designado por el Gobernador del Estado podrá ser un servidor público de cualquiera de los Poderes del Estado o de los Órganos Autónomos, en cuyo caso el consejero designado tendrá el carácter de honorario, sin recibir remuneración alguna, mientras conserve el carácter de servidor público diverso al de integrante del Consejo de (sic) Poder Judicial.
 
@@ -2035,6 +2081,38 @@ Para ser Juez Local se requiere ser ciudadano mexicano en pleno ejercicio de sus
 
 Los Jueces Locales serán nombrados cada dos años por el Supremo Tribunal de Justicia del Estado.
 
+> <small>(ADICIONADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 127 BIS. La Comisión Estatal de Derechos Humanos será un organismo público, de carácter autónomo, dotado de personalidad jurídica y patrimonio propios, que tiene por objeto la protección, observancia, promoción, estudio y divulgación de los derechos humanos establecidos por el orden jurídico mexicano, los tratados internacionales en materia de derechos humanos de los que nuestro país haya suscrito, así como combatir toda forma de discriminación y exclusión, consecuencia de un acto de autoridad a cualquier persona o grupo social.
+
+La Comisión tiene por objeto:
+
+I. Estudiar, promover, divulgar y proteger, con base en los principios que rigen su actuación, los Derechos Humanos de todas las personas que se encuentren en el territorio del Estado;
+
+II. Contribuir al fortalecimiento de las convicciones humanistas, sociales y democráticas del estado constitucional de derecho; y
+
+III. Coadyuvar al establecimiento de las garantías necesarias para asegurar que los Derechos Humanos de las personas que se encuentren en el territorio del Estado de Sonora, sean reales, equitativos y efectivos.
+
+La Comisión se integrará por un Presidente, una Secretaría Ejecutiva, Visitadores Generales, así como Visitadores Adjuntos y el personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+
+La Comisión, para el mejor desempeño de sus responsabilidades, contará con un Consejo Consultivo, el cual será electo en los términos de la Ley reglamentaria que para sus alcances y efectos legales el Congreso apruebe.
+
+El Congreso del Estado, aprobará una Ley complementaria en materia de Derechos Humanos, que regule el funcionamiento y actuación de la Comisión Estatal de Derechos Humanos para el Estado de Sonora.
+
+El Presidente de la Comisión deberá reunir para su designación los siguientes requisitos:
+
+A) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+B) No haber sido sentenciado por la comisión de delitos dolosos;
+
+C) Poseer en la fecha de su nombramiento con antigüedad mínima de cinco años, título profesional legalmente expedido que lo acredite como licenciado en derecho o demostrada capacidad y experiencia en la defensa y promoción de los derechos humanos;
+
+D) No haber sido Titular del Poder Ejecutivo, Secretario, Diputado Local, Presidente Municipal, Fiscal General de (sic) Del Estado, Magistrado del Supremo Tribunal de Justicia, un año previo a su designación;
+
+E) Gozar de reconocido prestigio profesional, personal en la entidad; y
+
+F) No haber participado como candidato a puesto de elección popular, ser o haber sido presidente de algún partido político.
+
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 ## TITULO QUINTO.
@@ -2089,13 +2167,15 @@ II. Ser vecino del Municipio correspondiente, con residencia efectiva dentro del
 
 III. No estar en servicio activo en el Ejército, ni tener mando de fuerzas en el mismo Municipio, a menos que, quien esté comprendido en tales casos, se separe definitivamente de su empleo o cargo, noventa días antes de la elección;
 
-IV. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+IV. No haber sido condenado por la comisión de un delito intencional, salvo que el antecedente penal hubiere prescrito;
 
 V. (DEROGADA, B.O. 5 DE ABRIL DE 2006)
 
-> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-VI. No haber sido magistrado o suplente común del Tribunal Estatal Electoral, ni consejero electoral propietario o suplente común de ningún organismo electoral, a menos que no haya ejercido o se separe del cargo dentro del plazo que establezca la ley.
+VI. No tener el carácter de servidor público, a menos que no haya ejercido o se separe del cargo noventa días antes de la elección, salvo que se trate de reelección del cargo, o de aquellos que desempeñen un empleo, cargo, comisión o de servicio de cualquier naturaleza dentro del ramo educativo público en cualquiera de sus tipos, modalidades o niveles, sea municipal, estatal o federal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE JUNIO DE 2014)</small>
 
@@ -2680,6 +2760,10 @@ Reforma e inviolabilidad de esta Constitución.
 ###### Artículo 163.
 
 Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que hayan sido acordadas por las dos terceras partes de los miembros de un Congreso y aprobadas por la mayoría del número total de los Ayuntamientos del Estado.
+
+> <small>(ADICIONADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+Los ayuntamientos deberán pronunciarse a favor o en contra de las adiciones o reformas a la Constitución dentro del término de 60 días a partir de que el Congreso se las notifique.
 
 ###### Artículo 164.
 
@@ -3820,3 +3904,11 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan los artículos sexto y séptimo transitorios de la Ley número 173, que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora número 49, sección III de fecha 19 de junio de 2014.
+
+B.O. 27 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 195, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTICULO ÚNICO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los Ayuntamiento del Estado, a quienes se les deberá notificar los términos del (sic) presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado Libre y Soberano de Sonora en su artículo 163.
