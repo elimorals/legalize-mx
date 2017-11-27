@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fomento-economico-del-estado-de-sonora-48576"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-19"
-last_updated: "2002-12-19"
+last_updated: "2017-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE FOMENTO ECONOMICO DEL ESTADO DE SONORA
 
-LEY DE FOMENTO ECONOMICO DEL ESTADO DE SONORA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA PUBLICADA EN EL B.O. DE 27 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. LAS NORMAS RELATIVAS AL CONSEJO PARA LA PROMOCIÓN ECONÓMICA DE SONORA Y A LA COMISIÓN PARA EL DESARROLLO ECONÓMICO DEL ESTADO SEGUIRÁN VIGENTES HASTA LA CREACIÓN POR EL EJECUTIVO DEL ESTADO DE LA ENTIDAD PARAESTATAL A QUE SE REFIERE EL ARTÍCULO TRANSITORIO CUARTO DE DICHA LEY, Y HASTA ENTONCES SE EXTINGUIRÁN Y CONCLUIRÁN LAS FUNCIONES DE AQUÉLLOS.]</small>
 
-TEXTO ORIGINAL.
+LEY DE FOMENTO ECONÓMICO DEL ESTADO DE SONORA
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el jueves 19 de diciembre de 2002.
 
@@ -724,3 +726,51 @@ AL MARGEN SUPERIOR DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE ESTADO UNIDO
 COMUNIQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU SANCION Y PROMULGACIÓN.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, 18 DE DICIEMBRE DE 2002.- DIPUTADO PRESIDENTE.- C. RICARDO RIVERA GALINDO.- RUBRICA.- DIPUTADO SECRETARIO.- C. DANIEL HIDALGO HURTADO.- RUBRICA.- DIPUTADO SECRETARIO.- C. HELEODORO PACHECO VASQUEZ.- RUBRICA.-
 
 POR TANTO, MANDO SE PUBLIQUE EN EL BOLETIN OFICIAL DEL ESTADO Y SE LE DE EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS DIECINUEVE DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DOS.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.- E290 BIS 150 SECC. V.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 27 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 200, DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento al Desarrollo Económico para el Estado de Sonora, publicada el 19 de diciembre de 2002 en el Boletín Oficial del Gobierno del Estado.
+
+Las normas relativas al Consejo para la Promoción Económica de Sonora y a la Comisión para el Desarrollo Económico del Estado seguirán vigentes hasta la creación por el Ejecutivo del Estado de la Entidad Paraestatal a que se refiere el artículo transitorio Cuarto, y hasta entonces se extinguirán y concluirán las funciones de aquéllos.
+
+###### ARTÍCULO TERCERO.
+
+Las normas de la presente Ley que se refieren al organismo que estará encargado de llevar el procedimiento para el otorgamiento de los incentivos no fiscales a los inversionistas y empresarios entrarán en vigor a partir de la vigencia del Decreto mediante el cual el Ejecutivo Estatal cree la entidad paraestatal mencionada en el artículo siguiente.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado dentro de los treinta días siguientes a la entrada en vigor de esta Ley expedirá el Decreto de creación de un Organismo Público Descentralizado del Estado que tendrá como atribuciones conocer y resolver las solicitudes de incentivos no fiscales que planteen los inversionistas y empresarios y aquellas que se determinen en dicho Decreto que se relacionen con la promoción del desarrollo económico y la competitividad en el Estado que no estén otorgadas a otras dependencias y entidades estatales.
+
+###### ARTÍCULO QUINTO.
+
+Una vez concluidas las funciones del Consejo para la Promoción Económica de Sonora, los recursos materiales y financieros, así como los bienes y servidores públicos asignados a dicha Entidad para el cumplimiento de su objeto y funciones, pasarán a formar parte del nuevo Organismo Público Descentralizado a que se refiere el artículo transitorio anterior, respetándose los derechos laborales de éstos últimos en los términos de las disposiciones legales aplicables, cuyas funciones deberán ajustarse a las atribuciones del nuevo organismo, conforme al Reglamento Interior del mismo que al efecto se expida.
+
+###### ARTÍCULO SEXTO.
+
+El nuevo organismo a que se refiere el artículo transitorio Cuarto se subrogará en los derechos y obligaciones que correspondan al Consejo para la Promoción Económica de Sonora y a la Comisión para el Desarrollo Económico del Estado, derivados de los convenios, contratos y demás actos jurídicos que éste hubiese celebrado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las menciones al Consejo para la Promoción Económica de Sonora y a la Comisión para el Desarrollo Económico del Estado que se contengan en otras disposiciones legales y reglamentarias se entenderán referidas, en su caso, al nuevo organismo a que se refiere el artículo transitorio Cuarto.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado, dentro de un plazo de treinta días a partir de la expedición del Decreto a que se refiere el artículo transitorio Cuarto, constituirá los Fondos a que se refiere el artículo 6° y 7° de la presente Ley, los cuales sustituirán a los existentes a que refiere la Ley que se abroga.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo del Estado, dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley, expedirá el Reglamento de la misma.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
