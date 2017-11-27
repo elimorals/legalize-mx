@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2017-09-01"
+last_updated: "2017-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -67,47 +67,69 @@ La Ley de Procedimientos Administrativos del Estado de Querétaro y el Código F
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Asociaciones Público Privadas: las así previstas por la Ley de Asociaciones Público Privadas para el Estado de Querétaro;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-II. Balance presupuestario: la diferencia entre los ingresos totales incluidos en las Leyes de Ingresos del Estado y los municipios, con excepción de los financiamientos, y los gastos totales considerados en el Presupuesto de Egresos correspondiente, con excepción de la amortización de la deuda;
+I. Asociaciones Público Privadas: las así previstas por la Ley de Asociaciones Público Privadas para el Estado de Querétaro, y por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-III. Balance presupuestario de recursos disponibles: la diferencia entre los ingresos de libre disposición, más el financiamiento neto y el gasto corriente o de operación considerados en el Presupuesto de Egresos correspondiente, con excepción de la amortización de la deuda;
+II. Balance presupuestario: el que así considera la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+III. Balance presupuestario de recursos disponibles: el que así considera la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 IV. Dependencias: las unidades administrativas encargadas de la atención de los asuntos encomendados a los sujetos de la Ley, determinadas en las leyes orgánicas o disposiciones análogas respectivas;
 
-V. Deuda pública: la señalada en la ley relativa;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+V. Deuda pública: la señalada en la ley relativa, así como la que contempla la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+V. Bis. Disponibilidades: las que así defina la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 VI. Entidades: las entidades paraestatales y paramunicipales que tengan ese carácter en términos de las disposiciones respectivas;
 
 VII. Estado: el Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-VIII. Fortalecimiento financiero: las erogaciones que tengan por objeto hacer frente a compromisos de pago en materia de gasto social y obra social; contingencias financieras derivadas de, entre otras, avales, juicios laborales, civiles, fiscales, etc.; presiones presupuestarias de programas gubernamentales, tanto estatales como federales, y transferencias de gasto federalizado en los sectores educativo y de salud; transferencias a Poderes, Organismos Autónomos, Tribunales Administrativos y Organismos Públicos Descentralizados; así como para mantener el balance presupuestario en el ejercicio fiscal de que se trate, en términos de la presente ley.
+VIII. Fortalecimiento financiero: las erogaciones que tengan por objeto hacer frente a compromisos de pago en materia de gasto social y obra social; contingencias financieras derivadas de, entre otras, avales, juicios laborales, civiles, fiscales, reintegros a la Tesorería de la Federación; presiones presupuestarias de programas gubernamentales, tanto estatales como federales; transferencias a Municipios, Poderes, Organismos Autónomos, Tribunales Administrativos y Organismos Públicos Descentralizados; así como para mantener el balance presupuestario en el ejercicio fiscal de que se trate, en términos de la presente Ley;
 
 IX. Gasto administrativo: las erogaciones que se realizan para la gestión administrativa y servicios de la deuda pública, así como otros servicios de apoyo relacionados con dicha gestión;
 
-X. Gasto corriente: las erogaciones que realizan el Estado y los municipios para cubrir servicios personales, materiales y suministros, servicios generales, transferencias, asignaciones, compromisos multianuales, subsidios y otras ayudas, incluidas las pensiones y jubilaciones, con excepción de la amortización de la deuda, y la inversión pública;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+X. Gasto corriente: el que así considera la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 XI. Gasto público: la totalidad de las erogaciones aprobadas en los Presupuestos de Egresos, que permiten dar cumplimiento al Plan Estatal de Desarrollo;
 
 XII. Gasto social: las erogaciones orientadas a los servicios de salud, educación, procuración de justicia, asistencia social, concertación, seguridad, cultura, recreación, deporte, investigación y desarrollo económico. Asimismo, incluye la inversión en obras y acciones que determine el titular del Poder Ejecutivo del Estado;
 
-XIII. Gasto total: la totalidad de las erogaciones aprobadas en los Presupuesto de Egresos del Estado y los municipios, con cargo a los ingresos previstos en la Ley de Ingresos correspondiente;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XIV. Ingresos de libre disposición: los ingresos locales y las participaciones federales, en los porcentajes que correspondan al estado o Municipio, así como cualquier otro recurso que conforme a su normativa no esté destinado a un fin específico;
+XIII. Gasto total: el que así considera la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-XV. Ingresos locales: aquéllos percibidos por el Estado y los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XVI. Ingresos totales: la totalidad de los Ingresos previstos en la Ley de Ingresos que corresponda;
+XIV. Ingresos de libre disposición: los que así considera la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+XV. Ingresos locales: los que así considera la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Ingresos totales: los que así considera la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 XVII. Legislatura: la asamblea en la que se deposita el Poder Legislativo del Estado de Querétaro;
 
 XVIII. Municipios: los señalados en la Constitución Política del Estado de Querétaro;
 
-XIX. Organismos constitucionales autónomos: los que con ese carácter contemple la Constitución Política del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+XIX. Organismos constitucionales autónomos y Tribunales administrativos: conjunta o separadamente, los que con ese carácter contemple la Constitución Política del Estado de Querétaro;
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
@@ -118,6 +140,10 @@ XXI. Órganos desconcentrados: los órganos de la administración pública con a
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
 
 XXII. Poderes: los Poderes Legislativo, Ejecutivo y Judicial del Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+XXII. Bis. Presupuesto aprobado: el Presupuesto de Egresos del Estado o Municipio, aprobado por la Legislatura o el Ayuntamiento, respectivamente, incluyendo las adecuaciones a los montos que específicamente se autoricen en el Decreto o el Acuerdo, según corresponda;
 
 XXIII. Recursos públicos: los ingresos que con base en las Leyes de Ingresos obtengan el Estado y los municipios, así como cualquier bien que conforme la hacienda pública;
 
@@ -131,17 +157,19 @@ XXV. Sistema de Alertas: la publicación que realice la Entidad Superior de Fisc
 
 XXVI. Sujetos de la Ley: los indicados en el artículo 3 de la presente Ley; y
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XXVII. Techo de Financiamiento Neto: el límite de Financiamiento Neto anual que podrá contratar un Ente Público, con Fuente de pago de Ingresos de libre disposición. Dicha Fuente de pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del Presupuesto de Egresos.
+XXVII. Techo de Financiamiento Neto: el que así define la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 3.
 
 Son sujetos de la presente Ley, los Poderes, las entidades paraestatales, los organismos constitucionales autónomos, los tribunales administrativos, los municipios y sus entidades paramunicipales y, en lo aplicable, cualquier otro que maneje, utilice, recaude, ejecute o administre recursos públicos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 4.
 
-La Secretaría emitirá los lineamientos y demás disposiciones de carácter general que coadyuven al cumplimiento de lo previsto por esta Ley y por los ordenamientos de carácter federal que resulten aplicables.
+La Secretaría podrá emitir los lineamientos y demás disposiciones de carácter general que coadyuven al cumplimiento de lo previsto por esta Ley y por los ordenamientos de carácter federal que resulten aplicables.
 
 Los Poderes Legislativo y Judicial, los organismos constitucionales autónomos y los tribunales administrativos, podrán establecer las disposiciones generales correspondientes, a través de las instancias competentes.
 
@@ -203,15 +231,21 @@ En el manejo de los recursos públicos, los sujetos de la Ley, en el ámbito de 
 
 El equilibrio presupuestal sólo podrá afectarse cuando se disponga de recursos adicionales a los establecidos en la Ley de Ingresos correspondiente, debiendo reflejarse en una ampliación del presupuesto aprobado.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-Para efectos de lo anterior, el Poder Ejecutivo del Estado, deberá informar a la Legislatura, por rubro de ingreso, en términos de las disposiciones aplicables en materia de contabilidad gubernamental, dentro de los veinte días naturales siguientes al cierre del mes en que se registre la mencionada afectación.
+Cuando se tengan ingresos excedentes a los previstos en la Ley de Ingresos del Estado, el Poder Ejecutivo deberá informar de ello a la Legislatura, dentro de los veinte días naturales siguientes al cierre del mes en que se obtengan, considerando la clasificación que establece la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, de Ingresos de libre disposición y Transferencias federales etiquetadas.
 
 En el caso de los municipios, el ayuntamiento deberá autorizar la afectación al equilibrio presupuestal, previa solicitud del Presidente Municipal, debiendo informar a la Entidad Superior de Fiscalización del Estado, a través de la cuenta pública.
 
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+Los ingresos excedentes que perciban los Sujetos de la Ley, estarán a lo dispuesto por la presente Ley y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 10.
 
-Toda propuesta de incremento o creación de partidas de gasto en los Presupuestos de Egresos del Estado y de los municipios, según sea el caso, deberá incluir específicamente la correspondiente iniciativa de ingreso o indicar el origen del mismo, cuando éste provenga de reducciones en otros rubros de gasto.
+Toda propuesta de incremento o creación de partidas de gasto en los presupuestos de egresos del Estado y de los municipios, según sea el caso, deberá apegarse a lo establecido en esta Ley y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -331,9 +365,19 @@ IV. Ningún servidor público podrá percibir una remuneración mayor de la que 
 
 V. Los servidores públicos de elección, no recibirán compensaciones, gratificaciones, bonos o incentivos económicos durante y por conclusión del ejercicio del cargo o separación del mismo, por lo que no se podrán presupuestar ni hacer modificación alguna al Presupuesto de Egresos para cubrirlas;
 
-VI. Los servidores públicos de elección, como pago final sólo recibirán las cantidades equivalentes al proporcional de aguinaldo y prima vacacional que les correspondan. Podrán establecer un ahorro para el retiro que no podrá exceder de una retención del 10% sobre su percepción mensual; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-VII. En el caso de regidores y el síndico de un mismo ayuntamiento, recibirán como dieta la misma remuneración y los diputados integrantes de la Legislatura remuneraciones iguales.
+VI. Los servidores públicos de elección, como pago final sólo recibirán las cantidades equivalentes al proporcional de aguinaldo y prima vacacional que les correspondan. Podrán establecer un ahorro para el retiro que no podrá exceder de una retención del 10% sobre su percepción mensual;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+VII. En el caso de regidores y el síndico de un mismo ayuntamiento, recibirán como dieta la misma remuneración y los diputados integrantes de la Legislatura remuneraciones iguales; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Para dar cumplimiento a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Secretaría o su equivalente de los Sujetos de la Ley, llevará el control presupuestario de las erogaciones de servicios personales.
+
+Corresponderá a la Oficialía Mayor o los equivalentes de los Sujetos de la Ley, llevar a cabo el registro y control de las remuneraciones, deducciones, cálculo y retención de obligaciones de carácter fiscal y laboral e incidencias del personal, estableciendo al efecto sistemas de administración de personal.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -445,11 +489,21 @@ II. Los recursos que se estime serán transferidos por la Federación a través 
 
 III. Los ingresos extraordinarios;
 
-IV. Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza, así como la composición de dichas obligaciones y el destino de los recursos obtenidos;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-V. Los ingresos que cada sujeto de esta Ley proyectó recibir en el ejercicio de que se trate, distintos de las transferencias de recursos federales o estatales que reciban en los términos de la Ley de Ingresos respectiva; y
+IV. El Financiamiento Propio que se estima ejercer en el ejercicio fiscal;
 
-VI. La demás información que en su caso señalen las disposiciones generales aplicables a los sujetos de la Ley.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+V. Los ingresos que cada sujeto de esta Ley proyecta recibir en el ejercicio de que se trate, distintos de las transferencias de recursos federales o estatales que reciban en los términos de la Ley de Ingresos respectiva. Dichos ingresos se considerarán solo de carácter informativo y no se acumularán al importe total de la Ley de que se trate;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+VI. Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza, así como la composición de dichas obligaciones y el destino de los recursos obtenidos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+VII. La demás información que en su caso señalen las disposiciones generales aplicables a los Sujetos de la Ley.
 
 ###### Artículo 30.
 
@@ -463,9 +517,11 @@ Cuando por cualquier causa dichas leyes no sean aprobadas por la Legislatura, se
 
 #### Sección Segunda. De la Ley de Ingresos del Estado
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 32.
 
-El titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, formulará la iniciativa de Ley de Ingresos del Estado, con base en la presente Ley.
+El titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, formulará la iniciativa de Ley de Ingresos del Estado, con base en la presente Ley, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, así como en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 33.
 
@@ -477,9 +533,11 @@ El titular del Poder Ejecutivo presentará la iniciativa de Ley de Ingresos del 
 
 #### Sección Tercera. De la Ley de Ingresos de los municipios
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 35.
 
-Los ayuntamientos deberán remitir la Iniciativa de Ley de Ingresos del municipio de que se trate a la Legislatura, a más tardar el treinta de noviembre del año que corresponda.
+Los ayuntamientos deberán remitir la Iniciativa de Ley de Ingresos del municipio de que se trate a la Legislatura, a más tardar el treinta de noviembre del año que corresponda. Dicha Iniciativa se formulará con base en la presente Ley, en la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, así como en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 36.
 
@@ -499,9 +557,11 @@ En el proceso de integración de la información financiera para la elaboración
 
 Para la formulación y ejecución del Presupuesto de Egresos del Estado y de los Municipios, se estará a lo dispuesto en la presente Ley, así como a lo previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 38.
 
-Los sujetos de la Ley no podrán efectuar ningún egreso que no esté previsto en el Presupuesto de Egresos correspondiente.
+Los Sujetos de la Ley no podrán efectuar ningún egreso que no esté previsto en el Presupuesto de Egresos correspondiente, salvo lo dispuesto en esta Ley o en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 Los Presupuestos de Egresos del Estado y de los municipios no deberán contener partidas presupuestales secretas o confidenciales o cuyo fin no sea claro y específico.
 
@@ -539,7 +599,9 @@ VII. Los tabuladores que contengan las remuneraciones, sean fijas o variables, e
 
 VIII. Resumen ejecutivo del presupuesto que refleje la suma del total presupuestado;
 
-IX. El endeudamiento neto;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+IX. El Financiamiento Neto, al que hace referencia la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 X. Los intereses de la deuda; y
 
@@ -619,23 +681,59 @@ Cuando por cualquier causa el Presupuesto de Egresos de los municipios, no sea a
 
 Del Presupuesto de Egresos aprobado por los municipios, se remitirá una copia certificada a la Entidad Superior de Fiscalización del Estado, dentro de los primeros diez días hábiles siguientes a su aprobación.
 
-### Capítulo Primero. Disposiciones generales
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+### Capítulo Tercero. Del Financiamiento Propio
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 53 Bis.
+
+El Financiamiento Propio se integra por los recursos que, al cierre del ejercicio fiscal, se tengan en la tesorería de los Sujetos de la Ley, así como, en su caso, los que provengan de Disponibilidades o de transferencias federales que no fueron pagadas ni devengadas. Dicho Financiamiento Propio podrá ser de libre disposición o etiquetado, según su naturaleza.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 53 Ter.
+
+Los Sujetos de la Ley, adicionalmente a los ingresos que establece la fracción V del artículo 29 de esta Ley, deberán estimar el monto del Financiamiento Propio con que iniciarán el ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 53 Quáter.
+
+Los Sujetos de la Ley a que hace referencia el artículo 46 de esta Ley, en la formulación de su proyecto de presupuesto, considerarán el monto del Financiamiento Propio que ejercerán en el ejercicio fiscal que corresponda.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 53 Quinquies.
+
+En la formulación de las iniciativas de Ley de Ingresos del Estado y de los Municipios, además de los ingresos que se estima recibir, conforme al artículo 29, fracciones I, II y III, de esta Ley, se deberá considerar el Financiamiento Propio, como recursos totales que integrarán la Ley de Ingresos respectiva.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 53 Sexies.
+
+En la formulación del proyecto de Decreto de Presupuesto de Egresos del Estado, se deberá considerar el ejercicio de los ingresos que se proyecta percibir en el ejercicio fiscal, así como los recursos adicionales por concepto de Financiamiento Propio. Los Municipios, preverán lo correspondiente en sus respectivos presupuestos de egresos.
 
 ## Título Quinto. Del ejercicio del gasto público
 
-### Capítulo Segundo. De las adecuaciones presupuestales
+### Capítulo Primero. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 54.
 
-Los titulares de las dependencias serán responsables del ejercicio presupuestal y del cumplimiento de las metas y objetivos previstos en sus respectivos programas, conforme a lo dispuesto en esta Ley y los demás ordenamientos aplicables.
+Los titulares de las dependencias, conforme a lo dispuesto en esta Ley, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y los demás ordenamientos aplicables, serán responsables del ejercicio presupuestal y del cumplimiento de las metas y objetivos previstos en sus respectivos programas, así como de cumplir con el destino y propósito de los recursos públicos federales, estatales o municipales que les sean transferidos o asignados.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 Para efectos del párrafo anterior, se entenderá por titulares de las dependencias, la persona o personas que en términos de las disposiciones legales respectivas, cuenten con facultades de decisión sobre el ejercicio presupuestal, así como de ejecución de los programas de los mencionados sujetos.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+
 Los ejecutores de gasto son responsables directos e inmediatos del cumplimiento de las bases establecidas en el presente numeral y demás disposiciones jurídicas relacionadas con los recursos públicos federales, estatales y/o municipales; así como de la información a la que tengan acceso. Respecto de la información reservada están obligados a guardar estricta confidencialidad sobre la misma.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 Para los efectos de esta disposición, se consideran ejecutores del gasto, quienes por cualquier medio tengan a su cargo fondos públicos.
 
@@ -651,11 +749,15 @@ El contrato de fideicomiso que se constituya conforme al párrafo anterior, debe
 
 III. El incumplimiento a lo establecido en las fracciones anteriores por parte de los titulares de las dependencias y ejecutores de gasto, será sancionado en términos de lo que señalen las disposiciones jurídicas aplicables en materia de responsabilidades administrativas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 55.
 
-La administración de los recursos previstos en el Presupuesto de Egresos del Estado corresponde a la Secretaría, quien deberá liberar dichos recursos a los sujetos de la Ley, de conformidad con lo establecido en el referido documento, en esta Ley y en las demás disposiciones aplicables.
+La administración financiera de los recursos previstos en el Presupuesto de Egresos del Estado corresponde a la Secretaría, entendiéndose por lo anterior, la distribución o transferencia de recursos a los Sujetos de la Ley, así como la realización de los pagos de conformidad con lo establecido en el referido documento, en esta Ley, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables.
 
-Los recursos correspondientes a los municipios se entregarán únicamente al Presidente Municipal o al encargado de las finanzas públicas municipales, conforme a los plazos que establezcan las disposiciones respectivas.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+Los recursos correspondientes a los municipios se entregarán conforme a los plazos y en los términos que establezcan las disposiciones aplicables.
 
 Atendiendo a su autonomía presupuestal, en el caso de los Poderes Legislativo y Judicial y de los organismos constitucionales autónomos, los recursos correspondientes se entregarán por conducto de sus respectivas unidades de administración, en los plazos que para tal efecto se acuerden.
 
@@ -681,9 +783,11 @@ Para efecto de los pagos a que se refiere el presente artículo, los mencionados
 
 Concluida la vigencia del Presupuesto de Egresos del Estado y el de los municipios, sólo podrán efectuarse pagos con cargo a éstos por conceptos efectivamente devengados en el año de que se trate, siempre y cuando se haya informado a la Secretaría o a la dependencia encargada de las finanzas públicas municipales, en su caso.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 60.
 
-Los empréstitos sólo podrán concertarse cuando hayan sido considerados en la Ley de Ingresos y en el Presupuesto de Egresos, respectivos, así como en los casos y con las bases que establezca la Ley de Deuda Pública del Estado de Querétaro.
+Los empréstitos sólo podrán concertarse cuando hayan sido considerados en la Ley de Ingresos y en el Presupuesto de Egresos, respectivos, así como en los casos y con las bases que establezcan la Ley de Deuda Pública del Estado de Querétaro y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 61.
 
@@ -711,9 +815,11 @@ Los municipios enviarán a la Secretaría, de acuerdo a lo dispuesto con las dis
 
 Los sujetos de la Ley, serán responsables de la información de su competencia que se remita a la Federación, en los términos de este Capítulo, así como de su calidad, veracidad e integridad y de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” y en sus respectivos portales de Internet.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 65.
 
-Cuando los sujetos de la presente Ley no proporcionen la información a la que se refiere este Capítulo, lo hagan fuera de los plazos que al efecto establezca la Secretaría o incumplan con alguna de las obligaciones mencionadas en los artículos anteriores, se procederá en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
+Cuando los Sujetos de la presente Ley no proporcionen la información a la que se refiere este Capítulo, lo hagan fuera de los plazos que al efecto establezca la Secretaría o incumplan con alguna de las obligaciones mencionadas en los artículos anteriores, se procederá en términos de la legislación aplicable.
 
 ###### Artículo 66.
 
@@ -733,7 +839,9 @@ Para efectos de lo que dispone el artículo anterior, el informe anual de labore
 
 Tratándose de la ejecución de recursos provenientes de donativos y subsidios en numerario que reciban los sujetos de la Ley, para poder aplicarlos, deberán entregar dichos recursos y solicitar la autorización correspondiente a las unidades de administración o las dependencias encargadas de las finanzas públicas, según corresponda, para su ejercicio, observando, además, las disposiciones que al efecto emitan estas últimas, en el ámbito de su competencia.
 
-### Capítulo Tercero. De los subsidios y donaciones
+### Capítulo Segundo. De las adecuaciones presupuestales
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 69.
 
@@ -759,7 +867,7 @@ Sin perjuicio de lo establecido en el artículo 9 de esta Ley, el titular del Po
 
 Los sujetos de la Ley, deberán informar a la Entidad Superior de Fiscalización del Estado, de las adecuaciones y transferencias presupuestales que realicen, al momento de rendir sus respectivas cuentas públicas.
 
-### Capítulo Único
+### Capítulo Tercero. De los subsidios y donaciones
 
 ###### Artículo 73.
 
@@ -827,13 +935,11 @@ Los sujetos de la Ley, publicarán trimestralmente en sus respectivas páginas d
 
 La publicación se realizará dentro de los 30 días naturales siguientes al cierre del periodo, de conformidad con las disposiciones generales que al efecto se establezcan.
 
-### Capítulo Primero. De la contabilidad gubernamental
+### Capítulo Único
 
 ## Título Sexto. De los recursos para la transición
 
-### Capítulo Segundo. De la cuenta pública
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+### Capítulo Primero. De la contabilidad gubernamental
 
 ###### Artículo 82.
 
@@ -857,7 +963,9 @@ El calendario deberá incluir los compromisos mensuales de aportación a la menc
 
 La reserva a que se refiere el primer párrafo de este artículo, no podrá destinarse a fines distintos a los establecidos en el mismo.
 
-El incumplimiento a lo señalado en este artículo, dará lugar al inicio de un procedimiento administrativo sancionatorio a los servidores públicos que incurran en dicha omisión, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+El incumplimiento a lo señalado en este artículo, dará lugar al inicio de un procedimiento administrativo sancionatorio a los servidores públicos que incurran en dicha omisión, en términos de la legislación aplicable.
 
 ###### Artículo 83.
 
@@ -887,11 +995,11 @@ III. En los municipios, se hará la entrega al Presidente Municipal Electo o a l
 
 La comprobación de los recursos a que se refiere este artículo, deberá efectuarse durante el mes de octubre del año en el que se inicie el periodo constitucional y será fiscalizado en los términos que establezca la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Querétaro.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 86.
 
-Los recursos de la partida de gastos de transición, deberán utilizarse únicamente para gastos de capacitación, gasto administrativo del proceso de entrega recepción y gastos que se generen por la contratación de servicios para la elaboración del Plan Estatal de Desarrollo. No podrán destinarse a cubrir remuneraciones a los servidores públicos señalados en el artículo anterior, ni para pagos a los que serán empleados o funcionarios en la administración entrante.
+Los recursos de la partida de gastos de transición, deberán utilizarse únicamente para gastos de capacitación, gasto administrativo del proceso de entrega recepción y gastos que se generen por la contratación de servicios para la elaboración del Plan Estatal de Desarrollo o del Plan Municipal de Desarrollo, según sea el caso. No podrán destinarse a cubrir remuneraciones a los servidores públicos señalados en el artículo anterior, ni para pagos a los que serán empleados o funcionarios en la administración entrante.
 
 ###### Artículo 87.
 
@@ -899,9 +1007,9 @@ El ejercicio de los recursos de la partida de gastos de transición se sujetará
 
 ## Título Séptimo. De la contabilidad gubernamental y la cuenta pública
 
-### Capítulo Único. Disposiciones generales
+### Capítulo Segundo. De la cuenta pública
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 88.
 
@@ -931,7 +1039,9 @@ Asimismo, la Secretaría podrá establecer los mecanismos de coordinación con l
 
 Las dependencias y entidades del Poder Ejecutivo del Estado, suministrarán a la Secretaría la información presupuestal, contable y financiera, con la periodicidad que ésta determine.
 
-### Capítulo Único
+### Capítulo Único. Disposiciones generales
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 94.
 
@@ -941,9 +1051,7 @@ Para la fiscalización se estará a lo dispuesto en la Ley de Fiscalización Sup
 
 ## Título Octavo. De la evaluación
 
-### Capítulo Primero. De la Disciplina Financiera
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+### Capítulo Único
 
 ###### Artículo 95.
 
@@ -975,39 +1083,19 @@ La difusión de los resultados de las evaluaciones, se ajustará a lo dispuesto 
 
 ## Título Noveno. De las responsabilidades
 
-### Capítulo Segundo. Del Sistema de Alertas
+### Capítulo Primero. De la Disciplina Financiera
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
 
 ###### Artículo 100.
 
 Incurre en responsabilidad, cualquier persona física o moral que por dolo, culpa, mala fe o negligencia, cause daño o perjuicio a la hacienda pública.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 101.
 
-Se sancionará a los servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro, en cualquiera de los siguientes supuestos:
-
-I. Cuando omitan realizar los registros de la contabilidad de los sujetos de esta Ley, así como la difusión de la información financiera en los términos a que se refiere la presente Ley y demás disposiciones aplicables;
-
-II. Cuando de manera dolosa:
-
-a) Omitan o alteren los documentos o registros que integran la contabilidad, con la finalidad de desvirtuar la veracidad de la información financiera; o
-
-b) Incumplan con la obligación de difundir la información financiera en los términos a que se refiere la presente Ley y demás disposiciones aplicables;
-
-III. No realicen los registros presupuestarios y contables en la forma y términos que establece esta Ley y demás disposiciones aplicables, con información confiable y veraz;
-
-IV. Cuando por razón de la naturaleza de sus funciones, tengan conocimiento de la alteración o falsedad de la documentación o de la información que tenga como consecuencia daños a la hacienda pública o al patrimonio de cualquier ente público y, estando dentro de sus atribuciones, no lo eviten o no lo hagan del conocimiento de su superior jerárquico o autoridad competente; y
-
-V. No guardar o no conservar, en los términos de la normatividad aplicable, la documentación comprobatoria del patrimonio, así como de los ingresos y egresos de los entes públicos.
-
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-VI. Por el incumplimiento a lo establecido en el artículo 82 Bis de esta Ley.
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-Se considerará como infracción grave, para efecto de la imposición de las sanciones administrativas correspondientes, cuando el servidor público incurra en cualquiera de los supuestos establecidos en las fracciones II, IV y VI del presente artículo, así como las reincidencias en las conductas señaladas en las demás fracciones.
+El incumplimiento a las disposiciones establecidas en esta Ley, será sancionado en términos de la legislación aplicable.
 
 ###### Artículo 102.
 
@@ -1024,6 +1112,10 @@ Las responsabilidades a que se refiere esta Ley, se exigirán con independencia 
 ## Título Décimo. De la Disciplina Financiera del Estado y Municipios
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo Segundo. Del Sistema de Alertas
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 104.
 
@@ -1049,17 +1141,11 @@ I. Las razones excepcionales que justifican el balance presupuestario de recurso
 
 II. Las acciones necesarias que se llevarán a cabo para revertir el balance presupuestario de recursos disponibles negativo.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 107.
 
-En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Leyes de Ingresos del Estado y/o de los municipios, el Ejecutivo del Estado, por conducto de la Secretaría y los ayuntamientos, por conducto de la dependencia encargada de las finanzas públicas, según corresponda, a efecto de cumplir con el balance presupuestario de recursos disponibles, deberán aplicar ajustes a los respectivos Presupuestos de Egresos en los rubros de gasto en el siguiente orden:
-
-I. Gasto corriente, sin afectar los programas de carácter social, y
-
-II. Gasto en servicios personales.
-
-En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto.
+En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en las Leyes de Ingresos del Estado y/o de los municipios, se estará a lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1087,47 +1173,23 @@ La evaluación a que se refiere el párrafo anterior, se realizará por la Entid
 
 De manera adicional, el Sistema de Alertas contendrá la información que permita generar un reporte de las contingencias financieras derivadas de, entre otras, avales, juicios laborales, civiles, fiscales, etc.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 110 Bis.
 
-La medición del Sistema de Alertas se realizará con base en los siguientes indicadores:
+La medición del Sistema de Alertas se realizará de conformidad con el Reglamento del Sistema de Alertas previsto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-I. De Deuda Pública y Obligaciones sobre Ingresos de libre disposición. El cual está vinculado con la sostenibilidad de la deuda de un Ente Público.
-
-Para el caso de los proyectos contratados bajo esquemas de Asociación Público Privada, sólo se contabilizará la parte correspondiente a la inversión por infraestructura;
-
-II. De Servicio de la Deuda y de Obligaciones sobre Ingresos de libre disposición. Indicador que está vinculado con la capacidad de pago. Para su cálculo se incluirán las amortizaciones, intereses, anualidades y costos financieros atados a cada financiamiento y pago por servicios derivados de esquemas de Asociación Público Privada destinados al pago de la inversión; y
-
-III. De Obligaciones a Corto Plazo, Proveedores y Contratistas sobre Ingresos totales. El cual muestra la disponibilidad financiera del Ente Público para hacer frente a sus obligaciones contratadas a plazos menores de 12 meses en relación con los Ingresos totales.
-
-La definición específica de cada indicador, su aplicación, periodicidad de medición y la obligación de entrega de información por parte de los Entes Públicos, serán establecidas en las disposiciones que al efecto emita la Entidad Superior de Fiscalización del Estado de Querétaro, quien podrá apoyarse para ello de la Secretaría. En caso de modificación de dichas disposiciones, como mínimo deberá establecerse un período de 180 días para su entrada en vigor.
-
-En caso de que, a consideración de la Entidad Superior de Fiscalización del Estado de Querétaro exista otro indicador que resulte relevante para el análisis del nivel de endeudamiento del Estado y de los municipios podrá publicarlo, sin que ello tenga incidencia en la clasificación de los Entes Públicos dentro del Sistema de Alertas.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 111.
 
-Los resultados obtenidos de acuerdo a la medición de los indicadores a que hace referencia el artículo anterior, serán publicados en el Sistema de Alertas, el cual clasificará al Estado y a cada uno de los municipios, de acuerdo a los siguientes niveles:
+Los resultados obtenidos de acuerdo a la medición de los indicadores a que hace referencia el artículo anterior, serán publicados en el Sistema de Alertas, en los términos previstos por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-I. Endeudamiento estable;
-
-II. Endeudamiento en observación, y
-
-III. Endeudamiento elevado.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 111 Bis.
 
-Para efecto de determinar el nivel de endeudamiento a que se refiere el artículo que precede se consideraran los siguientes parámetros:
-
-I. Bajo; un endeudamiento sostenible. Corresponderá el Techo de Financiamiento Neto de hasta el equivalente al 15 por ciento de sus Ingresos de libre disposición;
-
-II. En observación; un endeudamiento el cual tendrá como Techo de Financiamiento Neto el equivalente al 5 por ciento de sus Ingresos de libre disposición; y
-
-III. Elevado; un nivel de endeudamiento que tendrá un Techo de Financiamiento Neto igual a cero.
+Para efecto de determinar el nivel de endeudamiento a que se refiere el artículo que precede se estará a lo establecido por el Reglamento del Sistema de Alertas a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1143,15 +1205,21 @@ El seguimiento de las acciones a que se refiere el párrafo anterior, estará a 
 
 El Sistema de Alertas será publicado en la página de Internet de la Entidad Superior de Fiscalización del Estado de Querétaro de manera permanente, debiendo actualizarse semestralmente, dentro de los 30 días naturales posteriores al vencimiento del plazo a que se refiere el segundo párrafo del artículo 117 de ésta ley.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 114.
 
-En el Registro Estatal de Deuda Pública, además de lo establecido en la Ley de Deuda Pública del Estado de Querétaro, se inscribirán entre otros: créditos, emisiones bursátiles, contratos de arrendamiento financiero, cadenas productivas o cualquier otro instrumento jurídico que contemple obligaciones plurianuales de pago.
+En el Registro Estatal de Deuda Pública, además de lo establecido en la Ley de Deuda Pública del Estado de Querétaro y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, se inscribirán entre otros: créditos, emisiones bursátiles, contratos de arrendamiento financiero, cadenas productivas o cualquier otro instrumento jurídico que contemple obligaciones plurianuales de pago.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 Para efectos de contar con información en el Sistema de Alertas a que se refiere el presente capítulo, independientemente de lo establecido en la Ley de Deuda Pública del Estado, en apartado específico se registrarán las distintas contingencias que tenga el estado o municipio, entre las que se encuentran, avales, juicios laborales, civiles, fiscales, etc.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 Asimismo, en un apartado específico se inscribirán las obligaciones que se deriven de contratos de asociaciones público privadas. Para llevar a cabo la inscripción, el Estado o el municipio que corresponda, deberá presentar a la Secretaría la información relativa al monto de inversión del proyecto a valor nominal y el pago mensual del servicio, identificando la parte correspondiente al pago de inversión.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 Para el trámite de inscripción de los financiamientos y obligaciones en el Registro Estatal de Deuda Pública, se deberá cumplir con lo que al efecto establece la legislación aplicable.
 
@@ -1662,3 +1730,11 @@ La presente Ley entrará en vigor el día de su publicación en el Periódico Of
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 27 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
