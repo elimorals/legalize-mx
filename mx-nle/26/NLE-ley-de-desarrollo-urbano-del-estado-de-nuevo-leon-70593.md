@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2016-12-06"
+last_updated: "2017-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2017, SE DEROGA EL PRESENTE ORDENAMIENTO A EXCEPCIÓN DE SU TÍTULO NOVENO Y DE LOS CAPÍTULOS DOS Y TRES DEL TÍTULO DÉCIMO SEGUNDO.]</small>
+
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -5864,3 +5866,35 @@ Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente D
 Tercero.- En un término que no exceda los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con el presente Decreto.
 
 Cuarto.- La Dirección de Protección Civil Estatal deberá elaborar y presentar en un plazo no mayor de 120 días naturales para su aprobación el Programa Escolar de Protección Civil a que se refiere el Artículo Primero del presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 312. POR EL QUE SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado, salvo disposición en contrario conforme lo establecido en los Transitorios siguientes.
+
+Segundo. Se deroga la Ley de Desarrollo Urbano del Estado de Nuevo León, publicada en el Periódico Oficial del Estado de fecha 9-nueve de septiembre del año 2009-dos mil nueve, a excepción de su Título Noveno y de los Capítulos 2-dos y 3-tres del Título Décimo Segundo.
+
+Tercero. El Título Noveno de la presente Ley aplicará a partir del 1-primero de junio del 2019-dos mil diecinueve. Las disposiciones relativas a las medidas cautelares de seguridad y sanciones en las que sea competente la autoridad judicial contenidas en los Capítulos 2 y 3 del Título Decimosegundo aplicarán en dos años a partir de la entrada en vigor de esta Ley.
+
+Cuarto. Los Municipios harán, con fecha límite hasta el 1-primero de junio de 2019-dos mil diecinueve, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, en las materias de su competencia.
+
+Quinto. Los planes y programas de desarrollo urbano metropolitanos deberán adecuarse al presente ordenamiento en un plazo no mayor al 28-veintiocho de noviembre de 2018-dosmil (sic) dieciocho. Los planes y programas de desarrollo urbano municipales deberán adecuarse al presente ordenamiento en un plazo no mayor al 1-primero de Junio de 2019-Dos mil diecinueve.
+
+Los planes y programas de desarrollo urbano que se encuentren vigentes a la fecha de entrada en vigor de esta Ley, continuarán en su vigencia y surtirán todos sus efectos legales, hasta en tanto no se actualicen en los términos del párrafo anterior.
+
+Sexto. En un plazo de dos años contados a partir de la entrada en vigor de éste Decreto, el Congreso del Estado deberá reformar las disposiciones legales correspondientes, con el objeto de crear los órganos y procedimientos judiciales competentes en materia de la presente Ley.
+
+Séptimo. En un plazo no mayor a seis meses contados a partir de la entrada en vigor de este Decreto, la Secretaría y los Municipios instalarán o ratificarán los órganos colegiados a que alude este ordenamiento.
+
+Octavo. Las factibilidades y licencias expedidas con anterioridad a la entrada en vigor de la presente Ley, continuarán el proceso de autorización de las etapas subsecuentes hasta los actos definitivos, conforme a las disposiciones, ordenamientos, procedimientos y documentación requerida, según lo previsto en la Ley vigente al inicio del trámite.
+
+Noveno. Las autorizaciones, licencias o permisos otorgados con anterioridad a la presente Ley quedarán vigentes por el plazo que fueron expedidas.
+
+Décimo. En un plazo de que (sic) no mayor a 12-doce meses a la entrada en vigor del presente Decreto, el Estado y los Municipios, en el ámbito de sus respectivas competencias, crearán los organismos metropolitanos señalados en esta Ley.
+
+Para tal efecto, remitirán al Congreso del Estado las iniciativas que resulten necesarias, las cuales deberán formularse atendiendo lo señalado en la Ley de Disciplina Financiera para las Entidades Federativas y Municipios; la Ley Orgánica de la Administración Pública del Estado de Nuevo León; Ley de Administración Financiera para el Estado de Nuevo León; Ley de Gobierno Municipal del Estado de Nuevo León y demás Leyes aplicables.
+
+Décimo Primero. Solo en predios con asentamientos humanos irregulares con antigüedad mayor a 10-diez años de haberse formado a la fecha de publicación de la presente Ley y quedada su condición de irregular, no cuentan o sean suficientes las áreas libres para la cesión de área municipal, o las vialidades no cumplan con los anchos mínimos u otros motivos que impidan su regularización, la autoridad municipal podrá autorizar la regularización de estos asentamientos humanos.
+
+Décimo segundo. Lo señalado en el Artículo 210 párrafo décimo, sólo será aplicable para construcciones en fraccionamientos autorizados hace 20 años o más.
