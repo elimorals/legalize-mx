@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-general-del-congreso-11528
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-05-30"
-last_updated: "2016-05-30"
+last_updated: "2017-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DEL CONGRESO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el lunes 30 de mayo de 2016.
 
@@ -159,9 +159,17 @@ g) La Dirección de Informática;
 
 h) La Dirección de Participación Ciudadana;
 
-i) La Dirección de Servicios Administrativos; y
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-j) La Oficina de la Oficialía de Partes.
+i) La Dirección de Servicios Administrativos;
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+j) La Oficina de la Oficialía de Partes; y
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+k) La Oficina de Igualdad de Género.
 
 ###### Artículo 11.
 
@@ -777,6 +785,28 @@ II. Realizar las notificaciones que sean resultado de los procedimientos que se 
 
 III. Las demás que señalen otras disposiciones legales y reglamentarias y las que le confiera directamente el Secretario General.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+#### Sección Undécima. DE LA OFICINA DE IGUALDAD DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 27 bis.- La Oficina de Igualdad de Género, es el área de coordinación, que será la encargada de diseñar e implementar las estrategias para la transversalización de la igualdad y perspectiva de género. Sus funciones serán las siguientes:
+
+a) Proponer acciones orientadas a la igualdad sustantiva en el Congreso del Estado;
+
+b) Coadyuvar con los diferentes órganos del Congreso del Estado para promover ambientes libres de acoso y hostigamiento laboral y pleno respeto a los derechos de la mujer;
+
+c) Proponer políticas laborales orientadas a la igualdad sustantiva, sin menoscabo de los principios de imparcialidad, objetividad, productividad, disposición y compromiso institucional;
+
+d) Contribuir en la formación y especialización del personal de las áreas del Congreso en materia de perspectiva de género e igualdad sustantiva;
+
+e) Ser la responsable de la producción y sistematización de información con perspectiva de género;
+
+f) Generar el programa anual de trabajo de la Oficina para calendarizar los objetivos y las acciones que permitan lograr la igualdad de derechos y oportunidades entre mujeres y hombres, y
+
+g) Vigilar que se cumplan los objetivos y las acciones del programa anual de trabajo, en la Oficina y en el Congreso.
+
 ## TÍTULO CUARTO. DE LAS ATRIBUCIONES COMUNES
 
 ### CAPÍTULO ÚNICO
@@ -808,3 +838,15 @@ TERCERO.- Se derogan todas las disposiciones reglamentarias y administrativas en
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los diecinueve días del mes de mayo del año dos mil dieciséis.
 
 C. Eliseo Fernández Montufar, Diputado Presidente.- C. Fredy F. Martínez Quijano, Diputado Secretario.- C. Leticia del R. Enriquez Cachón, Diputada Secretaria.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 219 POR EL QUE "SE REFORMAN LOS INCISOS I) Y J) Y SE ADICIONA UN INCISO K) A LA FRACCIÓN III DEL ARTÍCULO 10; Y SE ADICIONA AL CAPÍTULO II DEL TÍTULO TERCERO UNA SECCIÓN UNDÉCIMA DENOMINADA "DE LA OFICINA DE IGUALDAD DE GÉNERO" CON UN ARTÍCULO 27 BIS AL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DEL CONGRESO DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El inicio de las funciones de la Oficina de Igualdad de Género no requerirá la creación de nuevas plazas o áreas administrativas, se integrará con el personal disponible de las distintas áreas del Congreso, sin impactar el presupuesto de egresos del Congreso del Estado en ejercicio.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
