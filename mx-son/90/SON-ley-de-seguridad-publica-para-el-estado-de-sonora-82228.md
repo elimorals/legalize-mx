@@ -4,7 +4,7 @@ identifier: "SON-ley-de-seguridad-publica-para-el-estado-de-sonora-82228"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-14"
-last_updated: "2017-08-03"
+last_updated: "2017-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2011.
 
@@ -589,7 +589,9 @@ El Centro Estatal de Información Sobre Seguridad Pública se integrará, entre 
 
 I.- El Registro Estatal del Personal de Seguridad Pública;
 
-II.- El Registro Estatal del Personal de Seguridad Privada;
+> <small>(REFORMADA, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+II.- El Registro Estatal de Empresas, Personal y Equipo de Seguridad Privada, previsto en la Ley de Seguridad Privada del Estado de Sonora;
 
 III.- El Registro Estatal de Armamento y Equipo;
 
@@ -599,15 +601,21 @@ V.- El Registro Estatal de Estadísticas sobre Seguridad Pública; y
 
 VI.- El Registro Estatal Administrativo de Detenciones.
 
-#### SECCIÓN PRIMERA. DEL REGISTRO ESTATAL DEL PERSONAL DE SEGURIDAD PÚBLICA Y DEL REGISTRO DEL PERSONAL DE SEGURIDAD PRIVADA
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DEL REGISTRO ESTATAL DEL PERSONAL DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 37.
 
-El Registro Estatal del Personal de Seguridad Pública y el Registro Estatal del Personal de Seguridad Privada, contendrán la información actualizada relativa a los integrantes de las instituciones y servicios de este tipo que operen en el Estado y los municipios.
+El Registro Estatal del Personal de Seguridad Pública contendrá la información actualizada relativa a los integrantes de las instituciones de seguridad pública que operen en el Estado y los municipios.
+
+> <small>(REFORMADO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 38.
 
-Las autoridades competentes del Estado y los municipios, inscribirán y mantendrán actualizados en los registros señalados en este capítulo, los datos de todos los integrantes de las instituciones de seguridad pública y empresas prestadoras de servicios de seguridad privada, en los términos de esta Ley y su reglamento.
+Las autoridades competentes del Estado y los municipios, inscribirán y mantendrán actualizados en el registro señalado en este capítulo, los datos de todos los integrantes de las instituciones de seguridad pública, en los términos de esta Ley y su reglamento.
 
 ###### ARTÍCULO 39.
 
@@ -621,15 +629,15 @@ III.- Cualquier cambio de adscripción, actividad o rango del servidor público,
 
 ###### ARTÍCULO 40.
 
-El Registro del Personal de Seguridad Privada contendrá los datos que permitan identificar plenamente y localizar al personal, sus huellas digitales, fotografía, escolaridad y antecedentes laborales.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
-Asimismo, dichas empresas deberán contar con un registro de código de barras y clave de identificación debidamente validado ante la Secretaría de Seguridad Pública, el cual deberá incluirse en la identificación que porte cada uno de sus empleados.
-
-> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 41.
 
-Cuando a los integrantes de las instituciones de seguridad pública o las personas que presten servicios de seguridad privada, se les dicte cualquier auto de vinculación a proceso, sentencia condenatoria o absolutoria, sanción administrativa prevista en esta Ley o resolución que modifique, confirme o revoque dichos actos, se notificará inmediatamente al registro correspondiente. Las órdenes de aprehensión se notificarán al registro correspondiente, cuando no pongan en riesgo la carpeta de investigación o la causa penal.
+Cuando a los integrantes de las instituciones de seguridad pública, se les dicte cualquier auto de vinculación a proceso, sentencia condenatoria o absolutoria, sanción administrativa prevista en esta Ley o resolución que modifique, confirme o revoque dichos actos, se notificará inmediatamente al registro correspondiente. Las órdenes de aprehensión se notificarán al registro correspondiente, cuando no pongan en riesgo la carpeta de investigación o la causa penal.
+
+> <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 Lo anterior sin perjuicio de los demás datos que conforme al reglamento correspondiente, deberán aportar a este Registro cada una de las instituciones de seguridad pública.
 
@@ -637,7 +645,7 @@ Lo anterior sin perjuicio de los demás datos que conforme al reglamento corresp
 
 El documento de identificación de los integrantes de las instituciones de seguridad pública deberá contener al menos nombre, cargo, fotografía, huella digital y clave de inscripción en el Registro Nacional de Personal de Seguridad Pública, así como las medidas de seguridad que garanticen su autenticidad.
 
-El personal de las instituciones de seguridad pública tiene la obligación de ostentar visiblemente su identificación, salvo los casos previstos en la normatividad, a fin de que el ciudadano se cerciore de que cuenta con el registro correspondiente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 27 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 43.
 
@@ -2403,111 +2411,47 @@ La Secretaría, a través del Centro de Control, Comando, Comunicación y Cómpu
 
 ###### ARTÍCULO 199.
 
-Los servicios de seguridad privada podrán prestarse por personas físicas o morales, de nacionalidad mexicana, que hayan obtenido la autorización correspondiente de la Secretaría, pudiendo brindar sus servicios sólo en las siguientes modalidades:
-
-I.- Seguridad Privada a personas: Consistente en la protección, custodia, salvaguarda, defensa de la vida y de la integridad corporal del prestatario;
-
-II.- Seguridad Privada en los bienes: El cuidado y protección de bienes muebles e inmuebles;
-
-III.- Seguridad Privada en el traslado de bienes o valores: La prestación de servicios de custodia, vigilancia, cuidado y protección de bienes muebles o valores, incluyendo su traslado;
-
-IV.- Seguridad de la Información: La preservación, integridad y disponibilidad de la información del prestatario, a través de sistemas de administración de seguridad, de bases de datos, redes locales, corporativas y globales, sistemas de cómputo, transacciones electrónicas, así como respaldo y recuperación de dicha información, sea ésta documental, electrónica o multimedia;
-
-V.- Sistemas de prevención y responsabilidades: La prestación de servicios para obtener informes de antecedentes, solvencia, localización o actividades de personas; y
-
-VI.- Actividad vinculada con servicios de seguridad privada: La actividad relacionada directa o indirectamente con instalación o comercialización de sistemas de blindaje en todo tipo de vehículos automotores y de los equipos, dispositivos, aparatos, sistemas electrónicos o procedimientos técnicos especializados.
-
-Los servicios de seguridad privada, son auxiliares de la función de seguridad pública. Sus integrantes coadyuvarán, por lo tanto, con las autoridades y las instituciones de seguridad pública correspondientes, en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente del Estado y los municipios, de acuerdo a los requisitos y condiciones que establezca la autorización respectiva, y sólo en los casos concretos que se les convoque.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 200.
 
-Los particulares que se dediquen a la prestación de estos servicios, así como el personal que utilicen, se regirán en lo conducente, por las normas de esta Ley y otras disposiciones aplicables a las Instituciones de Seguridad Pública, incluyendo los principios constitucionales de actuación y desempeño. Asimismo, tendrán la obligación de aportar los datos necesarios para el registro de su personal y equipo y de proporcionar oportunamente la información estadística al Sistema Estatal, a través de la instancia que corresponda, así como de proporcionar la información relativa a la delincuencia detectada, al Centro Nacional de Información, por conducto de la Secretaria de Seguridad Pública.
-
-Los ordenamientos reglamentarios correspondientes establecerán los términos conforme a los cuales las empresas de seguridad privada deberán someter a su personal a procedimientos de evaluación y control de confianza.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 201.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, los particulares que presten servicios de seguridad privada a personas, seguridad privada en los bienes, seguridad privada en el traslado de bienes o valores, seguridad de la información, sistemas de prevención y responsabilidades y actividad o actividades vinculadas con servicios de seguridad privada, deberán obtener la autorización correspondiente del Gobierno del Estado, a través de la Secretaría, conforme a las bases que dispone esta Ley y el reglamento correspondiente a la materia.
-
-Las empresas prestadoras de servicios de seguridad privada que cuenten con autorización de la Secretaría de Seguridad Pública Federal y que pretendan establecerse en el Estado de Sonora para realizar tales labores, deberán cumplir con las disposiciones que señala la presente Ley y el reglamento correspondiente a la materia.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 202.
 
-La Secretaría celebrará convenios con la Secretaría de Seguridad Pública Federal, a fin de establecer mecanismos, criterios, requisitos, deberes y sanciones homólogas, que faciliten a las empresas o particulares interesados en prestar sus servicios de seguridad privada en dos o más entidades, ejercer las facultades de lo dispuesto en la Ley Federal de Seguridad Privada, consolidar la operación y funcionamiento del Registro Nacional de Prestadores de Servicios de Seguridad Privada y prevenir, controlar o solucionar de forma inmediata, los problemas derivados de la prestación del servicio de seguridad privada.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 203.
 
-Corresponde al Gobernador del Estado, por conducto del Secretario:
-
-I.- Emitir la autorización para prestar servicios de seguridad privada en el Estado y, en su caso, revalidar, revocar, modificar o suspender dicha autorización en los términos previstos en la presente Ley y su reglamento;
-
-II.- Evaluar, previo pago de los derechos respectivos, la capacidad de sus empleados para prestar el servicio, determinando el tipo de capacitación que requieran;
-
-III.- Fijar los requisitos formales para obtener la autorización correspondiente;
-
-IV.- Supervisar periódicamente al personal, los programas de profesionalización, el equipo y la operación de estos servicios. Para ello, los prestadores de servicios de seguridad privada tendrán la obligación de proporcionar la información que se les solicite y el Secretario de Seguridad Pública, podrá ordenar las visitas de verificación que estime necesarias y el levantamiento de actas de las mismas; y
-
-V.- Sancionar conforme a lo dispuesto en esta Ley, a los prestadores de este servicio, cuando operen sin autorización o dejen de cumplir con los requisitos establecidos en la misma o en las demás disposiciones aplicables.
-
-Las atribuciones anteriores se realizarán por la Secretaría a través de la unidad administrativa que se designe en su reglamento interior, sin perjuicio del ejercicio directo de las mismas por el Gobernador del Estado.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 204.
 
-Los particulares o las sociedades que se dediquen a la prestación de los servicios de seguridad privada, deberán sujetarse a los siguientes lineamientos:
-
-I.- No realizar funciones que, constitucional o legalmente, sean competencia exclusiva de las Instituciones de Seguridad Pública, del Ministerio Público o de las Fuerzas Armadas;
-
-II.- Participar, mediante denuncia, las conductas o hechos que conozcan en el desempeño de sus labores, que puedan constituir delitos y proporcionar a las autoridades competentes, las pruebas que acrediten su existencia y la presunta responsabilidad del inculpado;
-
-III.- No utilizar en su denominación o razón social, identificaciones, papelería o cualquier objeto, las palabras policía, agentes, investigadores o cualquier otra que pueda sugerir una relación con las Instituciones de Seguridad Pública;
-
-IV.- No emplear en sus automóviles, documentos, insignias o identificaciones, denominaciones, logotipos y colores oficiales, ni el escudo o los colores nacionales. Tampoco podrán utilizar escudos o banderas oficiales de otros países o placas metálicas de identidad;
-
-V.- Portar únicamente uniformes, insignias, divisas o equipo distinto al asignado a las Instituciones de Seguridad Pública, en forma tal que, a simple vista, no exista la posibilidad de confusión;
-
-VI.- Cumplir con los requisitos de selección, capacitación y adiestramiento que esta Ley y el Reglamento respectivo señalen. Se exceptúan de lo anterior, las personas que desempeñen funciones de carácter estrictamente administrativo;
-
-VII.- Llevar un registro de personal y equipo, que deberá ser presentado dentro de los primeros cinco días hábiles de cada mes a la Secretaría, conforme a los formatos establecidos para tal efecto por esa dependencia. Todas las contrataciones de personal operativo deberán consultarse previamente con la autoridad competente, para determinar los antecedentes del elemento y hacer las observaciones pertinentes, además de evaluar sus capacidades para determinar el nivel de capacitación requerido, notificándose también las bajas de su personal, especificando las causas;
-
-VIII.- Cumplir todas y cada una de las obligaciones que les impongan el reglamento respectivo y las disposiciones legales aplicables;
-
-IX.- Responder solidariamente de los daños y perjuicios que cause su personal, a causa de la prestación del servicio; y
-
-X.- Acreditar ante la Secretaría de Seguridad Pública, el registro actualizado de sus trabajadores ante las instituciones de seguridad social, para obtener su permiso o revalidación anual.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 205.
 
-Ningún elemento en activo de las Instituciones de Seguridad Pública, podrá ser socio o propietario por sí o por interpósita persona, de una empresa que preste servicios de seguridad privada en el Estado.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 206.
 
-Independientemente de la evaluación de los prestadores directos del servicio de seguridad privada y los cursos que sean impartidos por el Instituto, los particulares o las empresas que ofrezcan el servicio, diseñarán e instrumentarán un programa permanente de capacitación y adiestramiento de su personal. Dicho programa deberá presentarse para su aprobación a la Secretaría de Seguridad Pública, quien lo revisará periódicamente.
-
-Asimismo, la Secretaría de Seguridad Pública publicará, mensualmente, el padrón de empresas debidamente acreditadas ante la misma.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 207.
 
-El incumplimiento a las obligaciones establecidas en la presente Ley y demás disposiciones aplicables, por parte de los prestadores de los servicios de seguridad privada, dará lugar a las siguientes sanciones:
-
-I.- Amonestación por escrito;
-
-> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
-
-II.- Multa de cien a cinco mil unidades de medida y actualización;
-
-III.- Suspensión parcial o temporal de la operación de la empresa hasta que se corrija el incumplimiento, con difusión pública de la segunda suspensión;
-
-IV.- Cancelación de la autorización con difusión pública de la misma. En tal caso, la Secretaría, notificará la cancelación a las autoridades correspondientes, para el cumplimiento de la medida; y
-
-V.- Clausura, en caso de no contar con autorización para prestar el servicio.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 208.
 
-Ninguna sanción será decretada si antes no se oye a la persona o empresa dedicada a la prestación del servicio de seguridad privada.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 209.
 
-Los prestadores del servicio de seguridad privada que sean sancionados conforme a esta Ley, podrán recurrir la resolución ante la misma autoridad que la dictó, mediante el recurso de inconformidad en los siguientes cinco días hábiles a la notificación de la sanción o recurrir directamente a la instancia jurisdiccional competente.
+(DEROGADO, B.O. 27 DE NOVIEMBRE DE 2017)
 
 # LIBRO CUARTO. DE LA FACULTAD REGLAMENTARIA DE LOS AYUNTAMIENTOS EN MATERIA DE SEGURIDAD PÚBLICA
 
@@ -3033,8 +2977,16 @@ Se derogan todas las disposiciones legales que contravengan a las contenidas en 
 
 B.O. 3 DE AGOSTO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PÚBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 148, QUE REFORMA DIVERSAS DISPOSICIONES DE LEY ANTICORRUPCIÓN EN CONTRATACIONES PÚBLICAS PARA EL ESTADO DE SONORA, LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, LEY CATASTRAL Y REGISTRAL DEL ESTADO DE SONORA, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SONORA, LEY DE FOMENTO DE LA CULTURA Y PROTECCIÓN DEL PATRIMONIO CULTURAL DEL ESTADO DE SONORA, LEY DE AGUA DEL ESTADO DE SONORA, LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, LEY DE GANADERÍA PARA EL ESTADO DE SONORA, CÓDIGO FISCAL DEL ESTADO DE SONORA, LEY DE FOMENTO AL EMPLEO PARA EL ESTADO DE SONORA, LEY "5 DE JUNIO" QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE SONORA, LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, LEY DE PESCA Y ACUICULTURA PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA, LEY DE PROFESIONES DEL ESTADO DE SONORA, LEY DE PROTECCIÓN DE ANIMALES PARA EL ESTADO DE SONORA, LEY DE PROTECCIÓN CIUDADANA CONTRA LOS EFECTOS NOCIVOS DEL TABACO, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SONORA, LEY DE RECONOCIMIENTOS AL MÉRITO CÍVICO, LEY DE REGULACIÓN Y FOMENTO DE TIEMPO COMPARTIDO PARA EL ESTADO DE SONORA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICO (SIC) DEL ESTADO Y DE LOS MUNICIPIOS, LEY DE SALUD PARA EL ESTADO DE SONORA, LEY DE TRANSPORTE PARA EL ESTADO DE SONORA, LEY DE TRÁNSITO DEL ESTADO DE SONORA, LEY DE VIVIENDA PARA EL ESTADO, LEY DEL NOTARIADO PARA EL ESTADO DE SONORA, LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA, LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, LEY PARA LA CELEBRACIÓN DE ESPECTÁCULOS PÚBLICOS EN EL ESTADO DE SONORA, LEY QUE CREA EL REGISTRO DE AGENTES INMOBILIARIOS, LEY QUE CREA LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, LEY QUE DETERMINA LAS BASES DE OPERACIÓN DE LAS CASAS DE EMPEÑO DEL ESTADO DE SONORA, LEY QUE ESTABLECE EL ARANCEL PARA LOS NOTARIOS, LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE SONORA, LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS, LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA, LEY DE INTEGRACIÓN SOCIAL PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE SONORA, LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SONORA, LEY DE LOS DERECHOS DE LOS CONTRIBUYENTES DEL ESTADO DE SONORA, LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA, LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA, LEY DE HACIENDA DEL ESTADO, LEY DE HACIENDA MUNICIPAL, CÓDIGO PENAL DEL ESTADO DE SONORA, CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA, CÓDIGO CIVIL PARA EL ESTADO DE SONORA, LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SONORA, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SONORA, LEY DE FOMENTO AL TURISMO PARA EL ESTADO DE SONORA, LEY DE PREVENCIÓN, TRATAMIENTO, REHABILITACIÓN Y CONTROL DE ADICCIONES DEL ESTADO DE SONORA, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA; LEY PARA LA PROTECCIÓN DE PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL PARA EL ESTADO DE SONORA, LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LA TORTURA EN EL ESTADO DE SONORA, LEY QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTA, LEY QUE REGULA EL FUNCIONAMIENTO Y OPERACIÓN DE LOS ESTABLECIMIENTOS COMERCIALES QUE PRESTAN AL PÚBLICO EL SERVICIO DE ACCESO A INTERNET EN FORMA ONEROSA EN EL ESTADO DE SONORA Y LEY QUE REGULA LA PRÁCTICA PROFESIONAL DEL BOX, LUCHA LIBRE Y ARTES MARCIALES MIXTAS EN EL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 27 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 171, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
