@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2017-10-16"
+last_updated: "2017-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -369,11 +369,17 @@ XXVI. Impulsar políticas públicas a fin de garantizar la entrega de útiles es
 
 XXVII. Impulsar políticas públicas a fin de garantizar el acceso a centros de uso de tecnologías digitales a estudiantes que cursen la educación básica y media superior en las escuelas públicas del Estado, de manera gradual y de acuerdo a los planes y programas de la materia;
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-XXVIII. Promover, mediante convenios, la colaboración entre centros de investigación e instituciones de educación básica, media y superior que ya cuenten con el servicio de internet, con aquellas que no lo tienen, por razón de su condición o de imposibilidades materiales, permitiendo su acceso durante las 24 horas del día a cualquier persona, a las tecnologías de la información y la comunicación para hacer posible una educación integral de los niños, jóvenes y adultos del Estado; y
+XXVIII. Promover, mediante convenios, la colaboración entre centros de investigación e instituciones de educación básica, media y superior que ya cuenten con el servicio de internet, con aquellas que no lo tienen, por razón de su condición o de imposibilidades materiales, permitiendo su acceso durante las 24 horas del día a cualquier persona, a las tecnologías de la información y la comunicación para hacer posible una educación integral de los niños, jóvenes y adultos del Estado;
 
-XIX (SIC). Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+XXIX. Implementar un programa gradualmente para la incorporación de ecotecnologías que contribuyan a propiciar una relación armónica y el cuidado de los recursos naturales en las instituciones de educación básica y media superior, de acuerdo a la disponibilidad presupuestal; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+XXX. Las demás que con tal carácter establezcan la Ley General de Educación, el presente ordenamiento y otras disposiciones aplicables.
 
 ###### Artículo 18.
 
@@ -2482,3 +2488,11 @@ P.O. 16 DE OCTUBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 177.- REFORMAS Y ADICIONES A LA LEY QUE CREA EL INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
