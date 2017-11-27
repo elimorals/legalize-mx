@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-crea-el-instituto-de-infraestructura-fisica-110347"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-22"
-last_updated: "2015-10-22"
+last_updated: "2017-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE CREA EL INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el jueves 22 de octubre de 2015.
 
@@ -73,9 +73,17 @@ II. La creación de programas en áreas de Certificación, evaluación y capacit
 
 III. La participación en los procesos de planeación, para que los recursos se apliquen con pertinencia;
 
-IV. La creación de mecanismos que permitan prevenir y dar respuesta a las contingencias derivadas de desastres naturales, en la Infraestructura Física Educativa estatal; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
-V. La promoción y coordinación de acciones que propicien la optimización de recursos, la homologación de procesos en los casos procedentes, así como la participación y la toma de decisiones conjuntas de las instituciones públicas del Estado y sus Municipios y, en su caso, del Gobierno Federal, además del sector social.
+IV. La creación de mecanismos que permitan prevenir y dar respuesta a las contingencias derivadas de desastres naturales, en la Infraestructura Física Educativa estatal;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+V. La promoción y coordinación de acciones que propicien la optimización de recursos, la homologación de procesos en los casos procedentes, así como la participación y la toma de decisiones conjuntas de las instituciones públicas del Estado y sus Municipios y, en su caso, del Gobierno Federal, además del sector social; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+VI. La promoción e incorporación de las ecotecnologías que contribuyan a propiciar una relación armónica con el ambiente y el cuidado de los recursos naturales.
 
 ###### ARTÍCULO 5°.
 
@@ -125,7 +133,9 @@ XV. Verificar que las obras de Infraestructura Física Educativa que se ejecuten
 
 XVI. Coordinar las actividades derivadas de la prevención y atención de daños causados a la Infraestructura Física Educativa estatal, por desastres naturales, tecnológicos o humanos;
 
-XVII. Desarrollar programas de investigación y desarrollo en materia de infraestructura de nuevos sistemas constructivos y proyectos arquitectónicos; diseño de mobiliario y equipo, así como la incorporación de técnicas y materiales de vanguardia y tradicionales, ecológicos, regionales, económicos y de seguridad, de acuerdo con las directrices de política educativa;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+
+XVII. Desarrollar programas de investigación y desarrollo en materia de infraestructura de nuevos sistemas constructivos, proyectos arquitectónicos e incorporación de ecotecnologías; diseño de mobiliario y equipo, así como la incorporación de técnicas y materiales de vanguardia y tradicionales, ecológicos, regionales, económicos y de seguridad, de acuerdo con las directrices de política educativa;
 
 XVIII. Celebrar convenios de investigaciones, desarrollo e intercambio de tecnología e innovación en materia de Infraestructura Física Educativa con organismos e instituciones académicas;
 
@@ -426,3 +436,13 @@ Dip. José Enrique Juárez Ramírez, SECRETARIO.
 Dip. Marco Arturo Delgado Martín del Campo, SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de octubre de 2015.- Carlos Lozano de la Torre.- Rúbrica.-El Secretario General de Gobierno, Sergio Javier Reynoso Talamantes.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 177.- REFORMAS Y ADICIONES A LA LEY QUE CREA EL INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
