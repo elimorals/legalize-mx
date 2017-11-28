@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-7-reglamentaria-del-articulo-84-de-la-78093"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-22"
-last_updated: "2010-12-22"
+last_updated: "2017-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 7 REGLAMENTARIA DEL ARTICULO 84 DE LA CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE REFORMAS CONSTITUCIONALES PARCIALES
 
-LEY NUMERO 7 REGLAMENTARIA DEL ARTICULO 84 DE LA CONSTITUCION POLITICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE REFORMAS CONSTITUCIONALES PARCIALES.
+LEY NÚMERO 7 REGLAMENTARIA DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE REFORMAS CONSTITUCIONALES PARCIALES.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 22 de diciembre de 2010.
 
@@ -89,9 +89,15 @@ En caso de que el dictamen no sea aprobado, se desechará la reforma, sin que pu
 
 Todo proyecto de decreto de reforma constitucional aprobado en un primer período de sesiones ordinarias será nuevamente discutido y votado en el siguiente, en la sesión que determine la Junta de Trabajos Legislativos.
 
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2017)</small>
+
+En caso de existir causas supervenientes que provoquen la incongruencia o la probable inconstitucionalidad de un proyecto que deba discutirse y, en su caso, aprobarse en un segundo período de sesiones, o si hubiere un mandato judicial que motive una causa justificada, el proyecto podrá ser modificado por el Pleno de manera extraordinaria, a solicitud de la comisión o comisiones dictaminadoras o de la Presidencia del Congreso.
+
+> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 10.
 
-Si el proyecto no es aprobado por la mayoría requerida o, como consecuencia de su discusión, es objeto de modificaciones, se desechará la reforma y se aplicará lo establecido en el artículo 8 de esta Ley.
+Si el proyecto no es aprobado por la mayoría requerida o, como consecuencia de su discusión, es objeto de modificaciones, si éstas no fueren en los casos previstos en el párrafo segundo del artículo anterior, se desechará la reforma y se aplicará lo establecido en el artículo 8 de esta Ley.
 
 ###### Artículo 11.
 
@@ -226,3 +232,13 @@ Doctor Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 361 QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 9 Y REFORMA EL ARTÍCULO 10 DE LA LEY REGLAMENTARIA DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA DE REFORMAS CONSTITUCIONALES PARCIALES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Los proyectos de Decreto de reforma constitucional que, a la entrada en vigor del presente Decreto, estuvieren por discutirse, votarse y, en su caso, aprobarse en un segundo período de sesiones, podrán modificarse conforme a las previsiones contenidas en este Decreto.
