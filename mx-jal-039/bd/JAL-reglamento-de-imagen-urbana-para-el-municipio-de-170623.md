@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2017-10-13"
+last_updated: "2017-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 13 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 28 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -237,7 +237,9 @@ I. El trazo de nuevas vialidades deberá adecuarse a la traza urbana existente e
 
 II. La apertura, prolongación, ampliación o modificación de las vías públicas podrá realizarse y autorizarse por el gobierno municipal, cuando estén previstas en el plan de desarrollo urbano o se demuestre, causa de utilidad pública. El cierre temporal o definitivo de una vía pública sólo puede autorizarse por acuerdo del Ayuntamiento fundado en motivos de interés general;
 
-III. Las banquetas no podrán reducirse en su dimensión y se buscará lograr una superficie continua, evitando desniveles en accesos y cocheras, en todos los casos, se utilizarán rampas que puedan ser aptas para personas discapacitadas;
+> <small>(REFORMADA, G.M. 28 DE NOVIEMBRE DE 2017)</small>
+
+III. Las banquetas no podrán reducirse en su dimensión y se buscará lograr una superficie continua, evitando desniveles en accesos y cocheras, en todos los casos, se utilizarán rampas que puedan ser aptas para personas con discapacidad;
 
 IV. El pavimento de los arroyos deberá ser el adecuado en materiales para que se soporte el tráfico vehicular, debiéndose buscar la continuidad de acuerdo al proyecto de vialidad urbana y deberán señalarse en las esquinas el área para el cruce peatonal, sobre todo en las zonas de intenso tráfico;
 
@@ -554,3 +556,13 @@ Primero. La presente reforma entrará en vigor al día siguiente de su publicaci
 Segundo. Publíquese la presente reforma en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicada la presente, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 28 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA, AL REGLAMENTO DE OBRA PÚBLICA PARA EL MUNICIPIO DE GUADALAJARA, AL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DE GUADALAJARA, AL REGLAMENTO PARA LA ATENCIÓN DE PERSONAS CON DISCAPACIDAD EN EL MUNICIPIO DE GUADALAJARA, AL REGLAMENTO PARA LA ZONA DENOMINADA COMO CENTRO HISTÓRICO, BARRIOS Y ZONAS TRADICIONALES DE GUADALAJARA Y AL REGLAMENTO PARA LOS ESPECTÁCULOS DEL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Segundo. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Tercero. Una vez publicadas las presentes, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
