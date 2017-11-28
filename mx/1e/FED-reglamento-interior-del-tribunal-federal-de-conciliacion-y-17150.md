@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-conciliacion-y-1715
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-29"
-last_updated: "2014-12-16"
+last_updated: "2017-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-09-26"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de septiembre de 2000.
 
@@ -61,6 +61,10 @@ VIII.- La Ley de Responsabilidades: Ley Federal de Responsabilidades de los Serv
 
 IX.- El Boletín: Boletín Laboral Burocrático.
 
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+X.- El Instituto: Instituto de Investigación y Capacitación del Tribunal Federal de Conciliación y Arbitraje.
+
 ###### Artículo 3.
 
 El Tribunal es autónomo, con plena jurisdicción y competencia para tramitar y resolver los asuntos a que se refieren las Leyes Reglamentarias del Apartado "B" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
@@ -94,6 +98,10 @@ La Dirección General de Administración;
 La Controlaría Interna;
 
 La Procuraduría de la Defensa de los Trabajadores al Servicio del Estado;
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+El Instituto de Investigación y Capacitación del Tribunal Federal de Conciliación y Arbitraje;
 
 La Unidad de Conciliadores;
 
@@ -207,7 +215,9 @@ IX.- Vigilar el correcto funcionamiento de las Salas y demás Unidades Administr
 
 X.- Rendir los informes relativos a los amparos que se interpongan en contra de los laudos y de las resoluciones dictadas por el Pleno;
 
-XI.- Nombrar con el acuerdo del Pleno: al Secretario General de Acuerdos; al Director General de Administración; a los Conciliadores; al Procurador; a los Procuradores Auxiliares; al Contralor Interno; a los Directores Generales; a los Directores de Area; a los Secretarios Particulares; a los Subdirectores; a los Secretarios Generales Auxiliares; a los Jefes de las Unidades Técnicas; al Coordinador de Actividades Procesales; a los Proyectistas; a los Secretarios de Acuerdos; a los Secretarios de Audiencias; a los Jefes de Departamento y demás personal de apoyo jurídico y administrativo;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+XI.- Nombrar con el acuerdo del Pleno: al Secretario General de Acuerdos; al Director General de Administración; a los Conciliadores; al Procurador; a los Procuradores Auxiliares; al Contralor Interno; a los Directores Generales; a los Directores de Área; a los Secretarios Particulares; a los Subdirectores; a los Secretarios Generales Auxiliares; a los Jefes de las Unidades Técnicas; al Coordinador de Actividades Procesales; a los Proyectistas; a los Secretarios de Acuerdos; a los Secretarios de Audiencias; a los Jefes de Departamento y demás personal de apoyo jurídico y administrativo; así como a los miembros del Consejo Académico y a la persona titular de la Dirección General del Instituto de Investigación y Capacitación del Tribunal Federal de Conciliación y Arbitraje;
 
 XII.- Nombrar al personal que deba representar al Tribunal ante las Comisiones Mixtas de Escalafón, de Capacitación y Adiestramiento para la Productividad, de Seguridad e Higiene y de Becas;
 
@@ -221,7 +231,9 @@ Al Presidente del Tribunal corresponden también las siguientes facultades y atr
 
 I.- Convocar a las sesiones del Pleno y formular el orden del día, en términos del artículo 10 del Reglamento;
 
-II.- Presentar al Pleno los proyectos de los manuales de organización y de procedimientos del Tribunal, para su análisis y aprobación en su caso;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+II.- Presentar al Pleno los proyectos de los manuales de organización y de procedimientos del Tribunal, así como del Reglamento Interior del Instituto, para su análisis y aprobación en su caso;
 
 III.- Proponer la creación de nuevas plazas; y
 
@@ -401,7 +413,9 @@ El Director General de Administración tendrá además las siguientes facultades
 
 I.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de la Dirección General a su cargo;
 
-II.- Proponer al Presidente del Tribunal las medidas técnico-administrativas que estime convenientes para la mejor organización y funcionamiento del Tribunal;
+> <small>(REFORMADA, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+II.- Proponer al Presidente del Tribunal las medidas técnico-administrativas, de formación y capacitación que estime convenientes para la mejor organización y funcionamiento del Tribunal;
 
 III.- Dirigir la elaboración de los Manuales de Organización, Procedimientos y Servicios;
 
@@ -417,19 +431,23 @@ VIII.- Llevar a la práctica los sistemas de estímulos y recompensas que determ
 
 IX.- Participar en la elaboración y ejecución de los programas de capacitación y adiestramiento para la productividad del personal del Tribunal;
 
-X.- Participar en la elaboración y ejecución de los programas de seguridad e higiene del personal del Tribunal;
+> <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
 
-XI.- Someter a la consideración del Presidente del Tribunal los Proyectos del Presupuesto y del Programa Operativo Anual del Tribunal; así como proponer las modificaciones que ameriten de acuerdo con la disponibilidad presupuestal e informarle periódicamente sobre el ejercicio del presupuesto;
+X.- Participar en la elaboración de los Planes y Programas de Estudio en el ámbito de educación superior en materia de Derecho Burocrático y áreas afines, a los que se sujete el Instituto.
 
-XII.- Elaborar y ejecutar el Programa de Adquisición de Bienes y Servicios necesarios para el Tribunal;
+XI.- Participar en la elaboración y ejecución de los programas de seguridad e higiene del personal del Tribunal;
 
-XIII.- Cumplir con la normatividad vigente en materia de programación, presupuestación y evaluación; así como con las instrucciones del Presidente del Tribunal en materia de información interna y su periodicidad;
+XII.- Someter a la consideración del Presidente del Tribunal los Proyectos del Presupuesto y del Programa Operativo Anual del Tribunal; así como proponer las modificaciones que ameriten de acuerdo con la disponibilidad presupuestal e informarle periódicamente sobre el ejercicio del presupuesto;
 
-XIV.- Elaborar los estudios técnicos y administrativos que le solicite el Presidente del Tribunal;
+XIII.- Elaborar y ejecutar el Programa de Adquisición de Bienes y Servicios necesarios para el Tribunal;
 
-XV.- Informar al Presidente del Tribunal mensualmente de las actividades realizadas y de los resultados obtenidos, de acuerdo con los programas previamente establecidos; y
+XIV.- Cumplir con la normatividad vigente en materia de programación, presupuestación y evaluación; así como con las instrucciones del Presidente del Tribunal en materia de información interna y su periodicidad;
 
-XVI.- Las demás que le señalen otras disposiciones legales o le confiera el Presidente del Tribunal.
+XV.- Elaborar los estudios técnicos y administrativos que le solicite el Presidente del Tribunal;
+
+XVI.- Informar al Presidente del Tribunal mensualmente de las actividades realizadas y de los resultados obtenidos, de acuerdo con los programas previamente establecidos; y
+
+XVII.- Las demás que le señalen otras disposiciones legales o le confiera el Presidente del Tribunal.
 
 ### CAPITULO V. DE LA CONTRALORIA INTERNA
 
@@ -467,9 +485,97 @@ VIII.- Integrar, custodiar y controlar los libros de registro de los asuntos, í
 
 IX.- Las demás que le encomiende el Presidente del Tribunal.
 
-### CAPITULO VII. DE LA UNIDAD DE CONCILIADORES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+### CAPITULO VII. DEL INSTITUTO DE INVESTIGACIÓN Y CAPACITACIÓN DEL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 36.
+
+El Instituto de Investigación y Capacitación del Tribunal Federal de Conciliación y Arbitraje es un órgano auxiliar del mismo Tribunal que como institución educativa, proporcionará formación, capacitación y actualización a los servidores públicos así como al público en general, en sus diferentes tipos, niveles educativos y modalidades.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 37.
+
+El Instituto, tendrá por objeto primordial:
+
+I.- Preparar en el ámbito de educación superior en materia de Derecho Laboral Burocrático y áreas afines, a los servidores públicos así como al público en general, en sus diferentes tipos, niveles educativos y modalidades; y
+
+II.- Promover el estudio de fenómenos jurídicos y difundir el conocimiento, producto de las actividades científicas desarrolladas por el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 38.
+
+El Instituto desarrollará actividades de investigación, capacitación, formación y actualización, dirigidas a los servidores públicos así como al público en general, para este efecto, estará facultado para:
+
+I.- Prestar servicios educativos para la formación, capacitación y actualización de los servidores públicos así como del público en general, en sus diferentes tipos, niveles educativos y modalidades;
+
+II.- Expedir la documentación académica respectiva relacionada con los estudios cursados;
+
+III.- Realizar investigaciones jurídicas relacionadas con el Derecho Laboral Burocrático y áreas afines;
+
+IV.- Editar y publicar las obras que el propio Instituto considere adecuadas para el logro de sus objetivos;
+
+V.- Realizar diplomados, seminarios, congresos, simposios, paneles, foros de discusión y, en general, todo tipo de eventos que tengan por objeto el análisis, la discusión, actualización y difusión de fenómenos jurídicos en materia de Derecho Laboral Burocrático y sus áreas afines;
+
+VI.- Establecer y mantener relaciones de intercambio académico con otras instituciones afines, sean éstas nacionales y extranjeras;
+
+VII.- Celebrar convenios con organismos jurisdiccionales y dependencias de gobierno en sus tres ámbitos, órganos autónomos, así como con instituciones de educación superior nacionales y extranjeras e institutos afines, a efecto de promover diferentes programas académicos en materia de Derecho Laboral Burocrático y áreas afines; y,
+
+VIII.- Crear y coordinar un centro de información y compilación de obras jurídicas y legislativas.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 39.
+
+El Instituto se integrará por los órganos siguientes:
+
+I.- El Consejo Académico;
+
+II.- La Dirección General, y
+
+III.- Las Coordinaciones de Área.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 40.
+
+Los órganos del Instituto estarán conformados de la siguiente manera:
+
+I.- Consejo Académico, órgano colegiado que será integrado por el Presidente del Tribunal quien lo presidirá; por la persona titular de la Dirección General del propio Instituto; por el Director General de Administración del Tribunal; y, al menos, por un Magistrado Presidente de Sala, por un Magistrado Representante del Gobierno Federal y por un Magistrado Representante de los Trabajadores;
+
+II.- Dirección General, a cargo de la persona titular que será nombrada por el Pleno del Tribunal, a propuesta del Presidente, y
+
+III.- Coordinadores de Área, serán nombrados por la persona titular de la Dirección General y ratificados por el Consejo Académico.
+
+La participación en el Consejo Académico, Dirección General, en las Coordinaciones de Área será de carácter honorario y sin compensación extraordinaria alguna.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 41.
+
+Las funciones de los órganos del Instituto serán las siguientes:
+
+I.- El Consejo Académico sesionará de forma ordinaria y extraordinaria a efecto de tomar determinaciones en el ámbito académico para el desarrollo del Instituto, las que someterá para su ratificación al Pleno del Tribunal;
+
+II.- La Dirección General, tendrá a su cargo la representación del Instituto, y
+
+III.- Los coordinadores de Área, realizarán funciones relativas al control escolar, evaluación y acreditación, organización de la planta docente y académica, así como la elaboración de planes y programas de estudio y de la difusión y promoción de las actividades del Instituto, entre otras, previstas en el Reglamento Interior del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 28 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 42.
+
+Los planes y programas de estudio serán sometidos a consideración y voto de calidad del Consejo Académico, observarán en todo momento lo dispuesto por la legislación aplicable a la materia y, en su caso, a los lineamientos emitidos por la Secretaría de Educación Pública.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO VII], D.O.F. 28 DE NOVIEMBRE DE 2017)
+
+### CAPITULO VIII. DE LA UNIDAD DE CONCILIADORES
+
+###### Artículo 43.
 
 Sin perjuicio de las facultades y atribuciones que le confieren la Ley y demás disposiciones legales aplicables, al Jefe de la Unidad de Conciliadores le corresponde:
 
@@ -489,7 +595,11 @@ VII.- Atender en forma eficiente los asuntos que directamente se le encomienden;
 
 VIII.- Las demás que le encomiende el Presidente del Tribunal.
 
-###### Artículo 37.
+(REUBICADO [N. DE E. ANTES CAPÍTULO VIII], D.O.F. 28 DE NOVIEMBRE DE 2017)
+
+### CAPITULO IX. DE LA COORDINACION DE ACTIVIDADES PROCESALES
+
+###### Artículo 44.
 
 Al Jefe de la Coordinación de Actividades Procesales le corresponde:
 
@@ -505,7 +615,11 @@ V.- Rendir un informe mensual al Presidente del Tribunal y a los Presidentes de 
 
 VI.- Las demás que le encomiende el Presidente del Tribunal.
 
-###### Artículo 38.
+(REUBICADO [N. DE E. ANTES CAPÍTULO IX], D.O.F. 28 DE NOVIEMBRE DE 2017)
+
+### CAPITULO X. DE LA UNIDAD DE ACTUARIOS
+
+###### Artículo 45.
 
 Sin perjuicio de las facultades y atribuciones que le confiere la Ley y demás disposiciones aplicables, al Jefe de la Unidad de Actuarios le corresponde:
 
@@ -515,7 +629,11 @@ II.- Informar mensualmente al Presidente del Tribunal, Secretario General de Acu
 
 III.- Las demás que le encomiende el Presidente del Tribunal.
 
-###### Artículo 39.
+(REUBICADO [N. DE E. ANTES CAPÍTULO X], D.O.F. 28 DE NOVIEMBRE DE 2017)
+
+### CAPITULO XI. DE LA UNIDAD DE AMPAROS
+
+###### Artículo 46.
 
 Sin perjuicio de las facultades y atribuciones que le confieren la Ley y demás disposiciones aplicables al Jefe de la Unidad de Amparos le corresponde:
 
@@ -527,7 +645,7 @@ III.- Hacer de manera inmediata del conocimiento de las autoridades señaladas c
 
 IV.- Seleccionar las ejecutorias y jurisprudencia en materia de Amparos, para el servicio del Tribunal;
 
-V.- LLevar (sic) un control estadístico de los Amparos interpuestos y del sentido de las resoluciones recaídas informando mensualmente dicha actividad al Presidente del Tribunal, Presidentes de Sala y Secretario General de Acuerdos;
+V.- LLevar un control estadístico de los Amparos interpuestos y del sentido de las resoluciones recaídas informando mensualmente dicha actividad al Presidente del Tribunal, Presidentes de Sala y Secretario General de Acuerdos;
 
 VI.- Llevar un libro de registro de los juicios de amparos interpuestos en contra de las resoluciones del Tribunal;
 
@@ -535,11 +653,15 @@ VII.- Rendir mensualmente al Presidente del Tribunal, Presidente de Sala y Secre
 
 VIII.- Las demás que le encomiende el Presidente del Tribunal.
 
-###### Artículo 40.
+(REUBICADO [N. DE E. ANTES CAPÍTULO XI], D.O.F. 28 DE NOVIEMBRE DE 2017)
+
+### CAPÍTULO XII. DE LA UNIDAD DE ARCHIVO
+
+###### Artículo 47.
 
 Sin perjuicio de las facultades y atribuciones que le confieren la Ley y demás disposiciones aplicables, al Jefe de la Unidad de Archivo le corresponde:
 
-I.- LLevar (sic) la organización, control y supervisión de su área;
+I.- LLevar la organización, control y supervisión de su área;
 
 II.- Cuidar los expedientes que se formen;
 
@@ -551,7 +673,11 @@ V.- Informar mensualmente al Presidente del Tribunal el resultado de las activid
 
 VI.- Las demás que le encomiende el Presidente del Tribunal.
 
-###### Artículo 41.
+(REUBICADO [N. DE E. ANTES CAPÍTULO XII], D.O.F. 28 DE NOVIEMBRE DE 2017)
+
+### CAPITULO XIII. DE LA UNIDAD DE INFORMATICA JURIDICA
+
+###### Artículo 48.
 
 Al Jefe de la Unidad de Informática Jurídica le corresponde:
 
@@ -573,29 +699,21 @@ VIII.- Resguardar toda la información propia de las actividades que realiza el 
 
 IX.- Las demás que le confiera el Presidente del Tribunal.
 
-###### Artículo 42.
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIII], D.O.F. 28 DE NOVIEMBRE DE 2017)
+
+### CAPÍTULO XIV. DEL BOLETIN LABORAL BUROCRATICO
+
+###### Artículo 49.
 
 El Tribunal publicará diariamente su Boletín Laboral Burocrático. El Presidente del Tribunal coordinará las actividades del mismo.
 
-### CAPITULO VIII. DE LA COORDINACION DE ACTIVIDADES PROCESALES
-
-###### Artículo 43.
+###### Artículo 50.
 
 El Boletín contendrá los acuerdos y las resoluciones de la Presidencia del Tribunal, del Pleno y de las Salas, criterios, disposiciones, avisos, circulares e información que se estime conveniente, a criterio de la Presidencia del Tribunal, del Pleno y de la Presidencia de las Salas, según su competencia, respectivamente.
 
-### CAPITULO IX. DE LA UNIDAD DE ACTUARIOS
-
-###### Artículo 44.
+###### Artículo 51.
 
 La publicación en el Boletín de las notificaciones que no tengan el carácter de "personal", se hará sin perjuicio de que las mismas se sigan efectuando por los estrados del Tribunal y surtirán sus efectos a las partes, en términos de los dispositivos legales que regulen el tipo de publicaciones y deberán contener la fecha del acuerdo o resolución, número de expediente, identificación de las partes respectivas, rúbrica del Secretario General de Acuerdos, o de los Secretarios Generales Auxiliares de Sala en su caso y demás datos relativos.
-
-### CAPITULO X. DE LA UNIDAD DE AMPAROS
-
-### CAPITULO XI. DE LA UNIDAD DE ARCHIVO
-
-### CAPITULO XII. DE LA UNIDAD DE INFORMATICA JURIDICA
-
-### CAPITULO XIII. DEL BOLETIN LABORAL BUROCRATICO
 
 ## TRANSITORIOS
 
@@ -614,3 +732,15 @@ LA SUSCRITA SECRETARIA GENERAL DE ACUERDOS DEL TRIBUNAL FEDERAL DE CONCILIACION 
 D.O.F. 16 DE DICIEMBRE DE 2014.
 
 Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE, PUBLICADO EL VEINTINUEVE DE SEPTIEMBRE DE DOS MIL”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Laboral Burocrático y en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se reforman los artículos 17, fracción XI; 18, fracción II; 32, fracción II; y se adicionan los artículos 2o. con una fracción X; 5o. con un doceavo párrafo, recorriéndose los subsecuentes; 32 con una fracción X, recorriéndose las subsecuentes; al Título Segundo un Capítulo VII, denominado “Del Instituto de Investigación y Capacitación del Tribunal Federal de Conciliación y Arbitraje” que comprende los artículos 36, 37, 38, 39, 40, 41 y 42, recorriéndose los Capítulos y artículos subsecuentes.
+
+TERCERO.- El Instituto de Investigación y Capacitación del Tribunal Federal de Conciliación y Arbitraje se sujetará a las disposiciones previstas en el presente Reglamento y a su Reglamento Interior que se aprueba en la presente Sesión Ordinaria del Pleno del Tribunal que se celebre a partir de que surtan efectos las presentes reformas y adiciones.
+
+CUARTO.- El Presidente del Tribunal Federal de Conciliación y Arbitraje propondrá al Pleno del Tribunal la integración del Consejo Académico así como el nombramiento de la persona titular de la Dirección General del Instituto, quien a su vez hará la designación del demás personal que se requiera para la inmediata actividad del Instituto. Dichos nombramientos y designaciones se efectuarán en estricta observancia de lo dispuesto por el Reglamento Interior del Tribunal Federal de Conciliación y Arbitraje y por el Reglamento Interior del Instituto. El desempeño de su cargo será de carácter honorario y sin compensación económica alguna.
