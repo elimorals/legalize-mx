@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-tecnica-y-de-128179"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-01-13"
-last_updated: "2017-01-13"
+last_updated: "2017-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA TÉCNICA Y DE TRANSPARENCIA DE LA PRESIDENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 13 de enero de 2017.
 
@@ -77,17 +77,25 @@ En caso de controversia sobre la interpretación de las disposiciones contenidas
 
 ### Capítulo Segundo. Competencia, estructura y organización de la Secretaría Técnica
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 4.
 
-La Secretaría Técnica es el órgano de carácter administrativo auxiliar adscrito a la Presidencia del Tribunal Superior de Justicia que funge como enlace institucional entre la Presidencia del Tribunal Superior de Justicia y los órganos no jurisdiccionales y administrativos que conforman el Poder Judicial, así como de enlace interinstitucional con dependencias y entidades de otros poderes públicos, organismos autónomos y organizaciones de la sociedad civil; que tiene a su cargo el ejercicio de las atribuciones de la Unidad de Transparencia del Poder Judicial en los términos de las disposiciones aplicables, así como de llevar el Registro Estatal de Deudores Alimentarios Morosos; elaborar estudios, proyectos y emitir opiniones jurídicas y formular estadísticas y dar seguimiento a planes y programas.
+La Secretaría Técnica es el órgano de carácter administrativo y auxiliar adscrito a la Presidencia del Tribunal Superior de Justicia que funge como enlace institucional entre la Presidencia del Tribunal Superior de Justicia y los órganos no jurisdiccionales y administrativos que conforman el Poder Judicial, así como de enlace interinstitucional con dependencias y entidades de otros poderes públicos, organismos autónomos y organizaciones de la sociedad civil.
+
+Tiene también a su cargo el ejercicio de las atribuciones de la Unidad de Transparencia del Poder Judicial en los términos de las disposiciones aplicables, así como las de coordinar y normar el funcionamiento de las unidades de transparencia que deban crearse, en los términos de la normatividad aplicable, en los tribunales del Poder Judicial.
+
+Le compete además, llevar el Registro Estatal de Deudores Alimentarios Morosos; elaborar estudios y proyectos legislativos y emitir opiniones jurídicas; formular estadísticas y dar seguimiento a planes y programas; definir las políticas de comunicación necesarias para la eficaz y eficiente difusión de las actividades del Poder Judicial y difundir información en medios de comunicación, mediante la emisión de boletines de prensa, conferencias de prensa, entrevistas con los servidores públicos adscritos a este poder público, así como proponer estrategias de operación y líneas de acción a corto, mediano y largo plazo, que sirvan de base para la formación, actualización y mejoramiento del desarrollo institucional en la administración de justicia.
 
 ###### Artículo 5.
 
 La o el Titular de la Secretaría Técnica será designado por el Consejo de la Judicatura a propuesta de quien lo presida. Tendrá a su cargo el despacho de los asuntos que le confieran este Reglamento Interior, los lineamientos y otras disposiciones aplicables, así como aquellas que le encomiende la o el Presidente del Tribunal Superior de Justicia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 6.
 
-La o el Titular de la Secretaría Técnica, para el despacho de los asuntos a su cargo se auxiliará de las unidades administrativas siguientes:
+La o el Titular de la Secretaría Técnica, para el despacho de los asuntos a su cargo, se auxiliará de las unidades administrativas siguientes:
 
 I. Unidad de Atención a Solicitudes de Acceso a la Información.
 
@@ -100,6 +108,10 @@ IV. Unidad de Evaluación y Estadística.
 V. Unidad de Apoyo Técnico Jurídico.
 
 VI. El REDAM.
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2017)</small>
+
+VII. Unidad de Desarrollo e Imagen Institucional.
 
 La Secretaría Técnica y sus unidades contarán con los recursos humanos, materiales y financieros que prevea y le asigne el presupuesto de egresos.
 
@@ -115,7 +127,9 @@ La o el Titular de la Secretaría Técnica tendrá a su cargo las atribuciones s
 
 I. Fungir como enlace institucional y de coordinación entre la Presidencia del Tribunal Superior de Justicia y los órganos no jurisdiccionales y administrativos del Poder Judicial del Estado, a fin de dar seguimiento a las acciones que desarrollen con motivo de los acuerdos adoptados con la o el Presidente del Tribunal Superior de Justicia para garantizar el logro de los objetivos institucionales.
 
-De igual manera, ser enlace interinstitucional con dependencias y entidades de otros poderes públicos, organismos autónomos y organizaciones de la sociedad civil.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2017)</small>
+
+De igual manera, ser enlace interinstitucional con dependencias y entidades de otros poderes públicos, organismos autónomos y organizaciones de la sociedad civil, así como definir las políticas de comunicación e imagen institucional necesarias para la eficaz y eficiente difusión de las actividades del Poder Judicial.
 
 II. Planear, programar y coordinar, en el ámbito de su competencia, las actividades relacionadas con el seguimiento de los acuerdos administrativos que adopte la o el Presidente del Tribunal Superior de Justicia, a fin de asegurar su cumplimiento. Para tal efecto, podrá solicitar a las y los titulares de los órganos no jurisdiccionales y administrativos la información que considere necesaria.
 
@@ -131,7 +145,9 @@ VII. Vigilar y controlar el funcionamiento de las unidades administrativas adscr
 
 VIII. Someter al acuerdo de la o el Presidente del Tribunal Superior de Justicia los asuntos encomendados a la Secretaría Técnica y desempeñar las comisiones y funciones específicas que le confiera, así como informarle sobre su desarrollo y ejecución.
 
-IX. Fungir como titular de la Unidad de Transparencia del Poder Judicial del Estado y desempeñar por sí y por conducto de las o los titulares de las unidades que correspondan de la Secretaría Técnica, las atribuciones que la ley, la ley general, los lineamientos y demás disposiciones aplicables le encomienden en tal carácter.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2017)</small>
+
+IX. Fungir como titular de la Unidad de Transparencia del Poder Judicial del Estado y desempeñar por sí y por conducto de las o los titulares de las unidades que correspondan de la Secretaría Técnica, las atribuciones que la ley, la ley general, los lineamientos y demás disposiciones aplicables le encomienden en tal carácter, así como coordinar y normar el funcionamiento de las unidades de transparencia que se crean en los órganos del Poder Judicial.
 
 X. Velar por el cumplimiento de las obligaciones en materia de acceso a la información pública del Poder Judicial, previstas en la ley, en la ley general y demás disposiciones aplicables en la materia.
 
@@ -337,6 +353,40 @@ IX. Elaborar, en coordinación con la o el titular de la Unidad de Estudios y Pr
 
 X. Las demás que le confiera este Reglamento Interior, otras disposiciones aplicables o le sean encomendadas por la o el titular de la Secretaría Técnica.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE NOVIEMBRE DE 2017)</small>
+
+#### Sección VII. Unidad de Desarrollo e Imagen Institucional
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 15 Bis.
+
+La o el titular de la Unidad de Desarrollo e Imagen Institucional tendrá las atribuciones siguientes:
+
+I. Definir las políticas de comunicación necesarias para la eficaz y eficiente difusión de las actividades del Poder Judicial.
+
+II. Difundir información en los medios de comunicación sobre el quehacer del Poder Judicial, mediante la emisión de boletines de prensa, la realización de conferencias de prensa y la coordinación de entrevistas con el personal adscrito a este poder público.
+
+III. Establecer comunicación directa con periodistas, reporteros, columnistas y analistas, con el fin de que se transmitan a la sociedad las actividades del Poder Judicial.
+
+IV. Monitorear y sintetizar la información de interés que los medios generan cotidianamente, en particular, la relacionada con las actividades diarias del Poder Judicial.
+
+V. Definir, proponer, ejecutar y coordinar mecanismos, actividades y estrategias dirigidos a fomentar la cultura de la legalidad, de la transparencia y del acceso a la información, el respeto a los Derechos Humanos, así como fortalecer la imagen del Poder Judicial, tanto al interior como al exterior.
+
+VI. Proponer a la Presidencia del Tribunal Superior de Justicia, por acuerdo de la o el titular de la Secretaría Técnica y de Transparencia, estrategias para la difusión del quehacer institucional.
+
+VII. Diseñar la imagen del portal de Internet y la red interna institucional, con el apoyo técnico de la Dirección de Informática de la Oficialía Mayor, con el apoyo y la participación de los demás órganos del Poder Judicial en cuanto al contenido que deba publicarse, de conformidad con los lineamientos respectivos.
+
+VIII. Diseñar y gestionar, en el ámbito de su competencia, la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Periódico Oficial del Gobierno del Estado y diversos medios de comunicación.
+
+IX. Proponer a la o el titular de la Secretaría Técnica, estrategias de operación y líneas de acción a corto, mediano y largo plazo, que sirvan de base para la formación, actualización y desarrollo institucional.
+
+X. Estructurar programas de modernización administrativa que fomenten la unificación de criterios prácticos y procedimientos de organización.
+
+XI. Elaborar y ejecutar las políticas de vinculación y colaboración institucional con las instancias federales, de las entidades federativas y de otros países, órganos, organismos e instituciones nacionales e internacionales.
+
+XII. Las demás que le confieran este reglamento, otras disposiciones aplicables o las que le sean encomendadas por la o el titular de la Secretaría Técnica y de Transparencia.
+
 ### Capítulo Sexto. Las suplencias
 
 ###### Artículo 16.
@@ -400,3 +450,17 @@ CONSEJERA
 LIC. MA. GUADALUPE J. HERNÁNDEZ BONILLA
 
 SECRETARIA DE ACUERDO Y TRÁMITE DEL CONSEJO DE LA JUDICATURA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LOS "ACUERDOS GENERALES DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero. Publíquese en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+Segundo. Este acuerdo y las reformas a que se refiere, entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Tercero. Difúndase estas reformas en los órganos jurisdiccionales, no jurisdiccionales y administrativos del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+Cuarto. Se derogan todas las disposiciones que se opongan a este acuerdo.
