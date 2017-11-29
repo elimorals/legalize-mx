@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2017-11-01"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -311,7 +311,7 @@ ENCINTA 739-749
 
 ### CAPÍTULO IX DE LA TRANSMISIÓN HEREDITARIA. DE LOS DERECHOS NO PATRIMONIALES. 894-895
 
-Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: “Tierra y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.
+Al margen izquierdo un sello con el Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.
 
 SERGIO ALBERTO ESTRADA CAJIGAL RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
 
@@ -321,7 +321,7 @@ LA CUADRAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE 
 
 CONSIDERANDO
 
-…
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir el siguiente:
 
@@ -621,7 +621,7 @@ OBLIGACIÓN ALIMENTARIA DE LOS PARIENTES COLATERALES CON RELACIÓN A INCAPACES. 
 
 ###### ARTÍCULO 42.
 
-OBLIGACIÓN ALIMENTARIA EN ADOPCIÓN. El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen los padres y los hijos.
+(DEROGADO, P.O. 29 DE NOVIEMBRE DE 2017)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
 
@@ -2247,9 +2247,11 @@ DERECHO DE AUDIENCIA EN LA REMOCIÓN DE TUTORES Y CURADORES. Los tutores y curad
 
 LOS INCAPACITADOS Y ABANDONADOS DEBERÁN ESTAR SUJETOS A TUTELA. Los menores abandonados, y quienes estén comprendidos en alguna de las hipótesis establecidas en las fracciones II Y III del artículo 6 de este Ordenamiento, estarán sujetos a tutela mientras persista la incapacidad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 263.
 
-DURACIÓN DEL CARGO DE TUTOR. El cargo de tutor de los incapaces comprendidos en las fracciones II y III del artículo 6 durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras conserven ese carácter. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+DURACIÓN DEL CARGO DE TUTOR. El cargo de tutor de los incapaces comprendidos en las fracciones II y III del artículo 6 durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge o concubino tendrán obligación de desempeñar ese cargo mientras conserven ese carácter. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 La interdicción regulada por el párrafo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 
@@ -2319,13 +2321,17 @@ II.- Cuando deba nombrarse tutor por causa de divorcio.
 
 SUJETOS PREFERENCIALES PARA EL DESEMPEÑO DE LA TUTELA LEGÍTIMA. La tutela legítima corresponde por su orden:
 
-I.- Al cónyuge si lo hubiere cualquiera que fuera su sexo;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+I.- Al cónyuge, concubina o concubino si lo hubiere;
 
 II.- A los ascendientes inmediatos en línea recta;
 
 III.- A los hijos mayores de edad cuando sus ascendientes estuvieren libres de matrimonio;
 
-IV.- A los hermanos sin distinción de sexo, prefiriéndose a los que sean por ambas líneas;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+IV.- A los hermanos, prefiriéndose a los que sean por ambas líneas;
 
 V.- A los demás parientes colaterales inmediatos hasta el cuarto grado inclusive;
 
@@ -2687,13 +2693,15 @@ FACULTAD DE CORRECCIÓN Y OBLIGACIÓN DE BUEN EJEMPLO DEL TUTOR. El tutor tiene,
 
 OBLIGACIÓN DEL TUTOR DE ACEPTAR DONACIONES Y ACTOS POR CAUSA DE MUERTE EN FAVOR DEL INCAPAZ. El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 329.
 
-CÓNYUGE TUTOR DEL OTRO INCAPAZ. Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo los derechos conyugales, con las siguientes modificaciones:
+CÓNYUGE O CONCUBINO TUTOR DEL OTRO INCAPAZ. Cuando el tutor de un incapaz sea el cónyuge, concubina o concubino, continuará ejerciendo los derechos conyugales o inherentes al concubinato, con las siguientes modificaciones:
 
-I.- En los casos en que conforme a derecho fuera necesario el consentimiento del consorte, se suplirá éste por el Juez, con audiencia del curador; y
+I.- En los casos en que conforme a derecho fuera necesario el consentimiento del consorte, concubina o concubino, se suplirá éste por el Juez, con audiencia del curador; y
 
-II.- En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo, o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el Juez le nombrará. Es obligación del curador promover este nombramiento, y si no la cumple será responsable de los perjuicios que se sigan al incapacitado. También podrá promover ese nombramiento el Consejo Local de Tutelas.
+II.- En los casos en que el cónyuge, concubina o concubino incapaz pueda querellarse del otro, denunciarlo, o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el Juez le nombrará. Es obligación del curador promover este nombramiento, y si no la cumple será responsable de los perjuicios que se sigan al incapacitado. También podrá promover ese nombramiento el Consejo Local de Tutelas.
 
 ###### ARTÍCULO 330.
 
@@ -6476,3 +6484,21 @@ P.O. 1 DE NOVIEMBRE DE 2017.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS TREINTA Y SIETE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL DOSCIENTOS TREINTA Y OCHO POR EL QUE SE DEROGA EL ARTÍCULO 42 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
