@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-los-servicios-administrativos-del-congreso-33997"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-09"
-last_updated: "2017-11-16"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 9 de septiembre de 2003.
 
@@ -49,25 +49,45 @@ Para efectos de este Reglamento, se entenderá por:
 
 I. Congreso, el Congreso del Estado de Veracruz de Ignacio de la Llave;
 
-II. Directiva, la Mesa Directiva del Congreso;
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-III. Estado, el Estado de Veracruz de Ignacio de la Llave;
+II. Contraloría, El Órgano Interno de Control del Poder Legislativo;
 
-IV. Ley, la Ley Orgánica del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-V. Permanente, la Diputación Permanente;
+III. Directiva, La Mesa Directiva del Congreso;
 
-VI. Pleno, el Pleno de la Asamblea;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-VII. Presidente, el Presidente del Congreso;
+IV. Estado, El Estado de Veracruz de Ignacio de la Llave;
 
-VIII. Reglamento, el Reglamento para el Gobierno Interior del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-IX. Secretaría General, La Secretaría General del Congreso;
+V. Ley, La Ley Orgánica del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave;
 
-X. Secretarías de Servicios, Las de Servicios Legislativos, de Servicios Administrativos y Financieros y de Fiscalización; y
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XI. Unidades administrativas, Las secretarías, direcciones, subdirecciones, coordinaciones, departamentos y oficinas que tienen a su cargo la prestación de los servicios previstos en los artículos 58, 60 y 61 de la Ley.
+VI. Permanente, La Diputación Permanente;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+VII. Pleno, El Pleno de la Asamblea;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Presidente, El presidente del Congreso;
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+IX. Reglamento, El Reglamento para el Gobierno Interior del Poder Legislativo del Estado de Veracruz de Ignacio de la Llave;
+
+X. Secretaría General, La Secretaría General del Congreso;
+
+XI. Secretarías de Servicios, Las de Servicios Legislativos, de Servicios Administrativos y Financieros y de Fiscalización; y
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XII. Unidades Administrativas, Las secretarías, direcciones, subdirecciones, coordinaciones, departamentos y oficinas que tienen a su cargo la prestación de los servicios previstos en los artículos 58, 60 y 61 de la Ley.
 
 ## TÍTULO SEGUNDO. De la Organización Administrativa del Congreso
 
@@ -99,7 +119,11 @@ VI. Jefaturas de Departamento;
 
 VII. Jefaturas de Oficina; y
 
-VIII. Las demás que apruebe el Congreso, de acuerdo con las disponibilidades presupuestales.
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Contraloría; y
+
+IX. Las demás que apruebe el Congreso, de acuerdo con las disponibilidades presupuestales.
 
 ###### Artículo 5.
 
@@ -145,7 +169,9 @@ b) La Dirección de Registro Legislativo y Publicaciones Oficiales, conformada p
 
 III. A la Secretaría de Servicios Administrativos y Financieros:
 
-a) La Dirección de Recursos Humanos, conformada por el Departamento de Control de Personal, el Departamento de Nómina y el Departamento de Organización y Métodos;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+a) La Dirección de Recursos Humanos, conformada por el Departamento de Control de Personal y el Departamento de Nómina;
 
 b) La Dirección de Tesorería, conformada por el Departamento de Finanzas, el Departamento de Programación y Presupuesto y el Departamento de Contabilidad; y
 
@@ -155,7 +181,9 @@ IV. A la Secretaría de Fiscalización:
 
 a) La Dirección de Auditoría y Revisión Financiera, conformada por el Departamento de Auditoría y Análisis de la Cuenta Pública y el Departamento de Capacitación, Asesoría, revisión y Supervisión a Municipios; y
 
-b) La Dirección de Normatividad, Control y Seguimiento, conformada por el Departamento de Registro de Deuda Pública y Programas Institucionales y el Departamento de Responsabilidades Administrativas de Servidores Públicos.
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+b) La Dirección de Normatividad, Control y Seguimiento, conformada por el Departamento de Registro de Deuda Pública y Programas Institucionales.
 
 > <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -633,7 +661,81 @@ j) Difundir, en coordinación con las áreas correspondientes del Congreso, tema
 
 k) Las demás que la normatividad del Congreso del Estado le señalen.
 
-#### SECCIÓN PRIMERA. De la Dirección de Asistencia Técnica Legislativa
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+#### SECCIÓN DÉCIMA PRIMERA. DE LA CONTRALORÍA INTERNA
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 31 Ter.
+
+A la Contraloría Interna le corresponden las atribuciones siguientes:
+
+I. Proponer y aplicar las normas y criterios en materia de control, fiscalización y evaluación que deban observar los grupos y representaciones legislativas, las unidades administrativas del Congreso y todos aquellos que ejerzan recursos del presupuesto de egresos del Poder Legislativo;
+
+II. Diseñar, implantar y supervisar el sistema de control y evaluación de las unidades administrativas del Congreso del Estado, orientadas a mejorar los procedimientos administrativos;
+
+III. Vigilar que las unidades administrativas cumplan con las políticas y programas establecidos por la Junta de Coordinación Política y la Comisión Permanente de Administración y Presupuesto;
+
+IV. Supervisar los procedimientos, actos y contratos de adquisición de bienes muebles y contratación de servicios que se lleven a cabo, de conformidad con la ley de la materia;
+
+V. Presentar anualmente a la Junta de Coordinación Política un programa para el cumplimiento de sus atribuciones y un informe de actividades y trimestralmente informes de balances, así como uno anual, de igual forma aquellos informes que sean requeridos en cualquier momento;
+
+VI. Proponer la adopción de recomendaciones y de medidas preventivas o correctivas que estime convenientes para el desarrollo administrativo del Poder Legislativo y darles seguimiento;
+
+VII. Recibir y registrar, de acuerdo como corresponda el caso, las declaraciones patrimoniales y de intereses, de los servidores públicos del Poder Legislativo, así también, podrá requerir información adicional, realizando las investigaciones correspondientes, conforme a la ley aplicable;
+
+VIII. Supervisar y coordinar los procesos de entrega y recepción de los servidores públicos de las áreas administrativas del Poder Legislativo, para verificar que se realicen conforme a las normas y lineamientos aplicables;
+
+IX. Emitir las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que, conforme a las leyes, competan a la Contraloría Interna, previa autorización de la Junta de Coordinación Política;
+
+X. Auxiliar a las unidades administrativas del Congreso, en la elaboración y revisión de los manuales de organización y procedimientos, promoviendo y supervisando su difusión, aplicación y actualización, con énfasis en el aspecto preventivo;
+
+XI. Vigilar que periódicamente, se realice y actualice el inventario de bienes muebles e inmuebles del Poder Legislativo y establecer medidas y criterios para su control, poniéndolo a consideración de la Junta de Coordinación Política;
+
+XII. Participar dentro del Sistema Estatal Anticorrupción del Estado, en las acciones de apoyo que requiera el Sistema Estatal de Fiscalización para la implementación de mejoras para la fiscalización del Poder Legislativo;
+
+XIII. Recibir las denuncias y quejas en contra de los servidores públicos del Poder Legislativo por hechos probablemente constitutivos de faltas administrativas o de particulares por conductas sancionables en términos de la ley que corresponda; para el caso de las denuncias recibidas en contra de servidores públicos de los demás entes públicos, será remitida al órgano interno de control para que realice la investigación, substanciación y sanción correspondiente;
+
+XIV. Iniciar, investigar, substanciar y resolver los procedimientos de responsabilidad administrativa, por actos u omisiones de los servidores públicos que hayan sido calificados como faltas administrativas no graves, en términos de la ley de la materia, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean competencia del Tribunal Estatal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+XV. Resolver el recurso de revocación que interpongan los servidores públicos del Poder Legislativo respecto de las resoluciones por las que se les impongan sanciones administrativas, y dar seguimiento al cumplimiento de las resoluciones dictadas por los órganos jurisdiccionales; y
+
+XVI. Las demás que expresamente le confieran los ordenamientos legales, las disposiciones reglamentarias, y las que determine el Pleno.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 31 Quater.
+
+Al Departamento de Organización y Métodos, le corresponden las funciones siguientes:
+
+I. Analizar las funciones y actividades que realizan las unidades administrativas del Congreso, para proponer métodos y procedimientos ajustados a las disposiciones aplicables;
+
+II. Elaborar los manuales de organización y procedimientos de las unidades administrativas del Congreso, así como mantener su actualización;
+
+III. Colaborar en la evaluación de los programas para el mejoramiento de las áreas del Congreso;
+
+IV. Participar en las tareas que le sean asignadas, derivadas de los convenios que, con carácter interinstitucional, celebre el Congreso;
+
+V. Colaborar en el diseño y control de los formatos oficiales de las unidades administrativas; y
+
+VI. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 31 Quinquies.
+
+Al Departamento de Responsabilidades Administrativas de los Servidores Públicos le corresponden las funciones siguientes:
+
+I. Establecer coordinación con otras instancias de control, respecto de la actuación de los servidores públicos;
+
+II. Recibir las declaraciones patrimoniales y de intereses de los servidores públicos del Congreso del Estado; y realizar las investigaciones procedentes;
+
+III. Participar en los procesos de licitaciones, de adquisiciones, arrendamientos o enajenaciones de bienes, prestación de servicios de cualquier naturaleza y contratación de otros que se realicen en el Congreso, así como verificar el cumplimiento de las disposiciones legales aplicables;
+
+IV. Instrumentar y desarrollar campañas de concientización respecto de las obligaciones de los servidores públicos; y
+
+V. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
 
 ### CAPÍTULO II. De la Secretaría de Servicios Legislativos
 
@@ -659,7 +761,7 @@ VII. Emitir su opinión obligatoria para cualquier publicación del Congreso de 
 
 VIII. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
 
-#### SECCIÓN SEGUNDA. De la Dirección de Registro Legislativo y Publicaciones Oficiales
+#### SECCIÓN PRIMERA. De la Dirección de Asistencia Técnica Legislativa
 
 ###### Artículo 33.
 
@@ -749,7 +851,7 @@ XI. Integrar los directorios de los miembros de las Comisiones Permanentes y, en
 
 XII. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
 
-#### SECCIÓN PRIMERA. De la Dirección de Recursos Humanos
+#### SECCIÓN SEGUNDA. De la Dirección de Registro Legislativo y Publicaciones Oficiales
 
 ###### Artículo 36.
 
@@ -897,7 +999,7 @@ XII. Dar seguimiento al cumplimiento de los programas operativos anuales de las 
 
 XIII. Las demás que, en el ámbito de su competencia, le instruya la Secretaría General.
 
-#### SECCIÓN SEGUNDA. De la Dirección de Tesorería
+#### SECCIÓN PRIMERA. De la Dirección de Recursos Humanos
 
 ###### Artículo 40.
 
@@ -951,21 +1053,9 @@ IV. Las demás que, en el ámbito de su competencia, le instruya su superior jer
 
 ###### Artículo 43.
 
-Al Departamento de Organización y Métodos, le corresponden las funciones siguientes:
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2017)
 
-I. Analizar las funciones y actividades que realizan las unidades administrativas del Congreso, para proponer métodos y procedimientos ajustados a las disposiciones aplicables;
-
-II. Elaborar los manuales de organización y procedimientos de las unidades administrativas del Congreso, así como mantener su actualización;
-
-III. Colaborar en la evaluación de los programas para el mejoramiento de las áreas del Congreso;
-
-IV. Participar en las tareas que le sean asignadas, derivadas de los convenios que, con carácter interinstitucional, celebre el Congreso;
-
-V. Colaborar en el diseño y control de los formatos oficiales de las unidades administrativas; y
-
-VI. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
-
-#### SECCIÓN TERCERA. De la Dirección de Recursos Materiales y Servicios Generales
+#### SECCIÓN SEGUNDA. De la Dirección de Tesorería
 
 ###### Artículo 44.
 
@@ -1047,7 +1137,7 @@ III. Tener a su cargo el manejo del archivo contable, mediante mecanismos de con
 
 IV. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
 
-#### SECCIÓN PRIMERA. De la Dirección de Auditoría y Revisión Financiera
+#### SECCIÓN TERCERA. De la Dirección de Recursos Materiales y Servicios Generales
 
 ###### Artículo 48.
 
@@ -1157,7 +1247,7 @@ XII. Las demás que, en el ámbito de su competencia, le instruya la Secretaría
 
 Las observaciones a que se refieren las fracciones VII y VIII se formularán por escrito al Ayuntamiento, por conducto del Presidente Municipal, a efecto de que se solventen en un plazo no mayor de treinta días naturales, de lo contrario, se procederá conforme a la Ley.
 
-#### SECCIÓN SEGUNDA. De la Dirección de Normatividad, Control y Seguimiento
+#### SECCIÓN PRIMERA. De la Dirección de Auditoría y Revisión Financiera
 
 ###### Artículo 53.
 
@@ -1273,6 +1363,8 @@ X. Proporcionar asesoría a los ayuntamientos que lo requieran en los programas 
 
 XI. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
 
+#### SECCIÓN SEGUNDA. De la Dirección de Normatividad, Control y Seguimiento
+
 ###### Artículo 56.
 
 La Dirección de Normatividad, Control y Seguimiento tendrá las funciones siguientes:
@@ -1309,15 +1401,7 @@ VII. Las demás que, en el ámbito de su competencia, le instruya su superior je
 
 ###### Artículo 58.
 
-Al Departamento de Responsabilidades Administrativas de los Servidores Públicos le corresponden las funciones siguientes:
-
-I. Establecer coordinación con otras instancias de control, respecto de la actuación de los servidores públicos;
-
-II. Participar, por instrucción de la Secretaría de Fiscalización, a través de su superior jerárquico, en los procesos de licitaciones de adquisiciones, arrendamientos o enajenaciones de bienes, prestación de servicios de cualquier naturaleza y contratación de otros que se realicen en el Congreso, así como verificar el cumplimiento de las disposiciones legales aplicables;
-
-III. Instrumentar y desarrollar campañas de concientización respecto de las obligaciones de los servidores públicos municipales; y
-
-IV. Las demás que, en el ámbito de su competencia, le instruya su superior jerárquico.
+(DEROGADO, G.O. 29 DE NOVIEMBRE DE 2017)
 
 > <small>[N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 16 DE NOVIEMBRE DE 2017]</small>
 
@@ -1426,3 +1510,15 @@ G.O. 16 DE NOVIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 345 QUE ADICIONA EL TÍTULO SEXTO, CON UN CAPÍTULO ÚNICO, DENOMINADO "DE LA CONTRALORÍA INTERNA", LOS ARTÍCULOS 67, 68 Y 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y REFORMA EL ARTÍCULO 7 EN SU FRACCIÓN III, INCISO A), ASÍ COMO SU FRACCIÓN IV, INCISO B); ADICIONA LA SECCIÓN DÉCIMA PRIMERA, CON SU NOMBRE Y LOS ARTÍCULOS 31 TER, QUATER Y QUINQUIES; SE ADICIONA UNA FRACCIÓN A LOS ARTÍCULOS 2 Y 4, Y SE DEROGAN LOS ARTÍCULOS 43 Y 58 DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO".]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Los Departamentos de Organización y Métodos, y de Responsabilidades Administrativas de Servidores Públicos pasarán a formar parte de la estructura organizacional de la Contraloría Interna, con el personal y recursos materiales a ellos adscritos.
+
+Tercero. Dentro de los sesenta días hábiles siguientes al de la entrada en vigor del presente Decreto, se deberá iniciar el procedimiento para la designación del contralor interno, mediante el mecanismo que para tal efecto establezca el Congreso del Estado a través de la Junta de Coordinación Política.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
