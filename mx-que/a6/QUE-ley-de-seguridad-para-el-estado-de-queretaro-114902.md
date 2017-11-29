@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-para-el-estado-de-queretaro-114902"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2017-04-18"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -107,7 +107,9 @@ V. Las corporaciones policiales;
 
 VI. Las autoridades encargadas de determinar la comisión de infracciones administrativas y aplicar las sanciones correspondientes;
 
-VII. La autoridad penitenciaria;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+VII. La Comisión Estatal del Sistema Penitenciario de Querétaro;
 
 VIII. Las autoridades en materia de protección civil;
 
@@ -273,9 +275,15 @@ XXV. Abstenerse de realizar conductas que desacrediten su persona o la imagen de
 
 XXVI. No permitir que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
 
-XXVII. Proporcionar atención integral y asistencia inmediata a las víctimas de un hecho que la ley señale como delito; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXVIII. Las demás que establezcan las disposiciones legales aplicables.
+XXVII. Proporcionar atención integral y asistencia inmediata a las víctimas de un hecho que la ley señale como delito;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XXVIII. Proporcionar a la autoridad competente cuando les sean solicitadas, sus muestras médicas, toxicológicas, biológicas, poligráficas, psicológicas y socioeconómicas para la evaluación correspondiente, así como la obtención del perfil genético; y
+
+XXIX. Las demás que establezcan las disposiciones legales aplicables.
 
 ### Capítulo Segundo. De la estructura del Sistema Estatal de Seguridad
 
@@ -399,6 +407,14 @@ n) Los Presidentes Municipales del Estado.
 
 o) El Presidente del Sistema Estatal del Desarrollo Integral de la Familia.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+p) El Comisionado de la Comisión Estatal del Sistema Penitenciario de Querétaro.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+q) El Director General de la Coordinación Estatal de Protección Civil.
+
 V. Hasta tres consejeros ciudadanos designados por el Presidente del Consejo Estatal; y
 
 VI. Los demás que establezca el reglamento interior del Consejo Estatal.
@@ -419,9 +435,15 @@ III. Expedir políticas, lineamientos y bases de actuación para la organizació
 
 IV. Propiciar la realización de programas y acciones conjuntas con enfoque transversal entre las autoridades de seguridad de los tres niveles de gobierno;
 
-V. Establecer mecanismos de evaluación y seguimiento del Sistema Estatal; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-VI. Las demás que se establezcan en el reglamento interior del Consejo Estatal.
+V. Establecer mecanismos de evaluación y seguimiento del Sistema Estatal;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+VI. Expedir políticas, lineamientos y bases que regulen el establecimiento, organización, coordinación y operación del Banco de Datos del Perfil Genético; y
+
+VII. Las demás que se establezcan en el reglamento interior del Consejo Estatal.
 
 ### Capítulo Sexto. De los Consejos Municipales de Seguridad
 
@@ -743,7 +765,9 @@ Tiene por objeto garantizar el desarrollo institucional, la estabilidad, la segu
 
 El Servicio Profesional de Carrera es un mecanismo de carácter obligatorio y permanente, conforme al cual se planifican y organizan las bases que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la conclusión del servicio del personal operativo facultado para el uso legal de la fuerza pública, para garantizar la igualdad de oportunidades en el desarrollo profesional con base en el mérito, la capacidad y la evaluación periódica y continua.
 
-Los servidores públicos de las instituciones de seguridad sujetos a las evaluaciones de control de confianza que no las acrediten, serán separados del cargo de conformidad con la normatividad aplicable.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+Los servidores públicos de las instituciones de seguridad sujetos a las evaluaciones de control de confianza que no las acrediten o que no proporcionen sus muestras biológicas para el Banco de Datos del Perfil Genético que corresponda, como parte de la evaluación médica, serán separados del cargo de conformidad con la presente Ley y demás normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -771,9 +795,11 @@ Artículo 38 bis. La Secretaría de Seguridad, a través de la Comisión de Carr
 
 #### Sección Tercera. De la profesionalización
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 39.
 
-La profesionalización es la adquisición, desarrollo y aplicación con eficiencia y eficacia de capacidades del personal facultado para el uso de la fuerza pública para resolver problemas concretos del servicio de la seguridad, a cargo del Instituto, que estará adscrito a la Secretaría de Seguridad.
+La profesionalización es la adquisición, desarrollo y aplicación con eficiencia y eficacia de capacidades del personal facultado para el uso de la fuerza pública para resolver problemas concretos del servicio de la seguridad, a cargo del Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, cuya naturaleza será la de un organismo público descentralizado, con personalidad jurídica y patrimonio, así como con plena autonomía técnica y de gestión.
 
 ###### Artículo 40.
 
@@ -939,6 +965,22 @@ La Secretaría de Seguridad es la autoridad competente para regular la autorizac
 
 Los particulares que presten servicios de seguridad privada, con autorización federal o de otra entidad federativa, deberán cumplir con las disposiciones de la presente Ley, así como de los demás ordenamientos jurídicos aplicables.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+El personal de los prestadores de servicios de seguridad privada autorizados, deberá sujetarse a las evaluaciones de control de confianza.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+El Personal referido en el párrafo anterior, estará obligado a presentarse ante el Centro (sic) Evaluación y Control de Confianza del Estado de Querétaro para efecto de la evaluación correspondiente y para proporcionar las muestras biológicas que integran el Banco de Datos del Perfil Genético.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+Correrá a cargo de los prestadores del servicio de seguridad privada el costo de la evaluación de control de confianza, así como del procedimiento de obtención y registro del perfil genético de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+No podrán operar en la Entidad las empresas de seguridad privada que no cumplan con lo establecido en el presente artículo.
+
 ### Capítulo Primero. Disposiciones comunes
 
 ###### Artículo 55.
@@ -995,33 +1037,35 @@ Capítulo Decimosegundo
 
 De la ejecución de penas y medidas de seguridad
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 65.
 
-La ejecución material de las penas y medidas de seguridad previstas en las leyes penales, estará a cargo de la Dirección General de Reinserción Social, dependiente de la Secretaría de Gobierno, así como la administración y operación del Sistema Penitenciario. La Ley de Ejecución de Penas y Medidas de Seguridad del Estado de Querétaro establece las normas que habrán de observarse durante el internamiento por prisión preventiva, así como en la ejecución de las penas y medidas de seguridad impuestas por resolución judicial.
+La ejecución material de las penas y medidas de seguridad previstas en las leyes penales, estará a cargo de la Comisión Estatal del Sistema Penitenciario de Querétaro, así como la administración y operación del Sistema Penitenciario. Se estará a lo dispuesto por la Ley Nacional de Ejecución Penal, que establece las normas que habrán de observarse durante el internamiento por prisión preventiva, así como en la ejecución de las penas y medidas de seguridad impuestas por resolución judicial.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 66.
 
-La autoridad penitenciaria organizará la administración y operación de los programas de reinserción social en los centros penitenciarios, buscando fortalecer las capacidades de las personas sujetas a la ejecución de penas y medidas de seguridad, mediante el respeto a los Derechos Humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, con el objeto de restituirles los derechos restringidos, procurando que no vuelvan a delinquir y fomentar en ellos una actitud de responsabilidad social.
+La Comisión Estatal del Sistema Penitenciario de Querétaro organizará la administración y operación de los programas de reinserción social en los centros penitenciarios, buscando fortalecer las capacidades de las personas sujetas a la ejecución de penas y medidas de seguridad, mediante el respeto a los Derechos Humanos, el trabajo, la capacitación para el mismo, la educación, la salud, la cultura y el deporte, con el objeto de restituirles los derechos restringidos, procurando que no vuelvan a delinquir y fomentar en ellos una actitud de responsabilidad social.
 
-La autoridad penitenciaria dirigirá y ejecutará la aplicación y seguimiento de los programas dirigidos a personas que gozan de beneficios de libertad anticipada, en los términos establecidos en las sentencias judiciales.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
-
-La autoridad penitenciaria se integrará en programas de inteligencia para la ejecución de acciones, elaboración de estrategias y diseño de políticas públicas que permitan disuadir, contener y neutralizar riesgos y amenazas a la Seguridad.
+La Comisión Estatal del Sistema Penitenciario de Querétaro se integrará en programas de inteligencia para la ejecución de acciones, elaboración de estrategias y diseño de políticas públicas que permitan disuadir, contener y neutralizar riesgos y amenazas a la Seguridad.
 
 Capítulo Decimotercero
 
 De las medidas cautelares y suspensión condicional del proceso
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 67.
 
-La autoridad de supervisión de medidas cautelares y suspensión condicional del proceso es la unidad administrativa dependiente de la Secretaría de Gobierno, encargada de realizar la evaluación y supervisión de medidas y condiciones distintas a la prisión preventiva bajo los principios de proporcionalidad, neutralidad, objetividad, imparcialidad y confidencialidad.
+La Autoridad de Supervisión de Medidas Cautelares, Suspensión Condicional del Proceso, Libertad Condicionada y Medidas de Seguridad en Libertad del Estado de Querétaro tiene por objeto evaluar los riesgos procesales y supervisar las medidas cautelares, suspensión condicional del proceso, medidas de seguridad en libertad y libertad condicionada.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 68.
 
-La autoridad de supervisión de medidas cautelares y suspensión condicional del proceso tiene por objeto proporcionar a las partes información confiable y objetiva, que facilite la toma de decisiones a la autoridad judicial en la resolución de medidas cautelares o suspensión condicional del proceso, con la finalidad de que garanticen las mejores condiciones de seguridad jurídica al imputado.
-
-Para el debido cumplimiento de las obligaciones procesales impuestas, la autoridad de supervisión de medidas cautelares y suspensión condicional del proceso, se coordinara con las diversas instituciones del Sistema Estatal y los sectores privado y social.
+La Autoridad de Supervisión de Medidas Cautelares, Suspensión Condicional del Proceso, Libertad Condicionada y Medidas de Seguridad en Libertad del Estado de Querétaro, se coordinará o auxiliará de los organismos gubernamentales, no gubernamentales o de la sociedad civil que correspondan, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal la Ley de Seguridad para el Estado de Querétaro y demás ordenamientos jurídicos aplicables.
 
 ## Título Cuarto. De la transparencia y acceso a la información
 
@@ -1046,6 +1090,8 @@ Las instituciones estarán obligadas a proteger la información que se refiere a
 La inobservancia de las obligaciones en materia de acceso a la información, será sancionada en los términos que dispongan las leyes.
 
 ### Capítulo Tercero. Del Centro de Evaluación y Control de Confianza del Estado de Querétaro
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 72.
 
@@ -1085,11 +1131,13 @@ X. Las demás que establezcan las disposiciones legales aplicables.
 
 Los titulares de los órganos internos de control o de aquellas áreas que realicen funciones de supervisión, transparencia o sanción, deberán someterse al proceso de evaluación de control de confianza.
 
-### Capítulo Único. Disposiciones Generales
+### Capítulo Cuarto. Del Banco de Datos del Perfil Genético
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 76.
 
-El Centro de Evaluación y Control de Confianza del Estado de Querétaro, es el organismo público desconcentrado de la Secretaría de Gobierno, con plena autonomía técnica y de gestión, que tiene como función apoyar a las instituciones integrantes del Sistema Estatal en la evaluación de los procesos de selección para el ingreso, permanencia, promoción e investigaciones especiales del personal, de conformidad con la normatividad aplicable.
+El Centro de Evaluación y Control de Confianza del Estado de Querétaro, es el organismo público descentralizado con personalidad jurídica y patrimonio propio, así como con plena autonomía técnica y de gestión, que tiene como función apoyar a las instituciones integrantes del Sistema Estatal y empresas de seguridad privada, en la evaluación de los procesos de evaluación de control de confianza para la selección del ingreso, reclutamiento, permanencia, promoción e investigaciones especiales del personal, de conformidad con la normatividad aplicable.
 
 ###### Artículo 77.
 
@@ -1113,9 +1161,29 @@ VII. Quien se encuentre señalado en las disposiciones legales aplicables.
 
 Será sujeto de responsabilidad, en términos de las disposiciones legales aplicables, quien otorgue nombramiento a los servidores públicos que no hayan sido certificados en control de confianza o, en su caso, mantenga en el cargo al servidor público que no cuente con certificado vigente para el puesto a desempeñar.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+En materia de protección civil, el personal que preste servicios operativos, técnicos y jurídicos, en el Sistema Estatal de Protección Civil, Prevención y Mitigación de Desastres para el Estado de Querétaro, el Centro Regulador de Urgencias Médicas adscrito a la Secretaría de Salud del Estado de Querétaro, y demás Centros de Emergencia, se sujetará y aprobará las evaluaciones de certificación y control de confianza, en los términos de las disposiciones aplicables.
+
 ###### Artículo 78.
 
 El Centro de Evaluación y Control de Confianza del Estado de Querétaro, tendrá la facultad de solicitar a las instituciones integrantes del Sistema Estatal, entidades públicas y privadas, la información que resulte necesaria para cumplir con sus fines, en términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+### Capítulo Único. Disposiciones Generales
+
+###### Artículo 78 Bis.
+
+El Centro de Evaluación y Control de Confianza del Estado de Querétaro, establecerá, operará y administrará un Banco de Datos que tendrá por objeto concentrar, registrar y administrar el perfil genético de los integrantes de las Instituciones de seguridad de la Entidad, así como de los integrantes de las empresas de seguridad privada.
+
+Para el cumplimiento de las funciones precisadas en el párrafo anterior, el Centro de Evaluación y Control de Confianza del Estado de Querétaro se podrá auxiliar de las Instituciones de Seguridad para que, a través de su infraestructura tecnológica, se pueda ejecutar le (sic) proceso de obtención del perfil genético.
+
+El Centro de Evaluación y Control de Confianza del Estado de Querétaro establecerá un sistema de registro y control que permita preservar la confidencialidad y resguardo de la información de los expedientes correspondientes al Banco de Datos.
+
+La Fiscalía General del Estado podrá solicitar y utilizar la información del Banco de Datos, cuando tenga vinculación con la investigación o persecución de delitos objeto de su competencia.
+
+Ninguna persona podrá ingresar o permanecer en las Instituciones de seguridad, seguridad privada, protección civil y aquellas que realicen actividades de atención a emergencias que integren el sistema estatal de protección civil, sin haber proporcionado su perfil genético de conformidad con esta Ley y demás normatividad aplicable.
 
 ## Título Quinto
 
@@ -1200,3 +1268,13 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. A partir de la entrada en vigor de la presente Ley, las actividades, trámites, atenciones y procedimientos que realizaba la Dirección Ejecutiva de Atención a Víctimas perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana, serán realizados por la Comisión Estatal de Atención a Víctimas de Delito.
 
 Artículo Cuarto. Los recursos humanos con que contaba la Dirección Ejecutiva de Atención a Víctimas perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana, pasarán a formar parte (sic) la Comisión Estatal de Atención a Víctimas de Delito, conservando sus trabajadores sus derechos laborales correspondientes.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO ".]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
