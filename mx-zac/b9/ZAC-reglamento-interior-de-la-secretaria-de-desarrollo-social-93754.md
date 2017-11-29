@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-desarrollo-social-93754
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2014-05-14"
+last_updated: "2017-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento 4 del Periódico Oficial del Estado de Zacatecas, el miércoles 27 de marzo de 2013.
 
@@ -1248,3 +1250,21 @@ JOSÉ MA. GONZÁLEZ NAVA
 P.O. 14 DE MAYO DE 2014.
 
 ÚNICO.- El presente Decreto Gubernativo que reforma y adiciona el Reglamento Interior de la Secretaría de Desarrollo Social, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. DE 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL".]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+Artículo Segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, mediante suplemento 4 al 25, Tomo CXXIII número 27 de fecha miércoles 27 de marzo del 2013.
+
+Artículo Tercero. Se derogan todas las disposiciones contrarias al presente Reglamento.
+
+Artículo Cuarto. Los artículos 8°, 9°, 12° y 13° del Reglamento Interior que se abroga, seguirán vigentes hasta que entre en vigor el Manuel (sic) de Organización del presente Reglamento Interior.
+
+Artículo Quinto. Los artículos 31 fracción II y 34 del Reglamento Interior que se abroga seguirán vigentes hasta el 31 de diciembre del 2017, lo establecido en los artículos 43 y 50 del presente Reglamento entrarán en vigor el 01 de Enero del 2018.
+
+Artículo Sexto. Dentro del término de sesenta días naturales contados a partir de la entrada en vigor del presente Reglamento Interior, deberá expedirse el Manual de Organización y 180 días naturales el Manual de Procedimientos para publicarse en el Periodo Oficial, Órgano del Gobierno del Estado.
+
+Artículo Séptimo. Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de un área, Dependencia o Entidad, continuarán su trámite y serán resueltos por aquélla o aquéllas unidades a quienes se atribuye la competencia en el presente ordenamiento.
