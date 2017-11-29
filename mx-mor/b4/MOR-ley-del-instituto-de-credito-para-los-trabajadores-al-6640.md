@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-instituto-de-credito-para-los-trabajadores-al-6640"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-04"
-last_updated: "2017-03-22"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -69,7 +69,7 @@ La interpretación de la presente Ley corresponderá a la autoridad competente.
 
 A falta de disposición expresa, se aplicará supletoriamente la Ley de Procedimiento Administrativo para el Estado de Morelos, el Código Civil para el Estado Libre y Soberano de Morelos y el Código Procesal Civil para el Estado Libre y Soberano de Morelos, así como los principios de simplificación administrativa y los principios generales del derecho.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 3.
 
@@ -81,8 +81,6 @@ II. Afiliado, al trabajador o pensionista que, conforme a lo señalado en el Cap
 
 III. Amortización, al método por el cual se liquida un crédito en pagos parciales;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
-
 IV. Aportación, a la cantidad en dinero que cubre el ente obligado por cada afiliado para que reciba los beneficios que otorga la presente Ley, en términos de lo dispuesto en el artículo 41 de la presente Ley;
 
 V. Beneficiario, a la persona física o moral designada por el afiliado para recibir las cuotas que aportó al Instituto;
@@ -93,9 +91,9 @@ VII. Consejo Directivo, al órgano de gobierno del Instituto;
 
 VIII. Comité Técnico de Créditos Hipotecarios, al órgano colegiado integrado en términos del Estatuto Orgánico y demás normativa aplicable, que revisa y aprueba los créditos hipotecarios;
 
-IX. Cuota, a la cantidad en dinero que cubre el afiliado mediante la retención y remisión del ente obligado, para que dicho afiliado reciba los beneficios que le otorga la presente Ley;
+IX. Crédito, al préstamo en dinero o en especie que concede el Instituto al afiliado, con el otorgamiento de una garantía en los términos o condiciones que para cada caso aplique;
 
-X. Crédito, al préstamo en dinero o en especie que concede el Instituto al afiliado, con el otorgamiento de una garantía en los términos o condiciones que para cada caso aplique;
+X. Cuota, a la cantidad en dinero que cubre el afiliado mediante la retención y remisión del ente obligado, para que dicho afiliado reciba los beneficios que le otorga la presente Ley;
 
 XI. Director General, a la persona titular del Instituto;
 
@@ -105,35 +103,33 @@ XIII. Estatuto Orgánico, al Estatuto Orgánico del Instituto;
 
 XIV. Gobernador, a la persona titular del Poder Ejecutivo Estatal;
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2017)</small>
+XV. Ingresos totales, a toda percepción efectiva, incluyendo dietas, gratificaciones, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra; con excepción de lo correspondiente a premios, aguinaldo, primas, percepciones en especie, horas extra, apoyos, gastos sujetos a comprobación que sean propios del desarrollo del trabajo, despensas establecidas en ley o condiciones generales de trabajo, gastos de viaje en actividades oficiales, que perciben los afiliados, así como subsidios de carácter fiscal y aquellos que tengan la finalidad de cubrir las contribuciones fiscales a cargo de los trabajadores;
 
-XIV Bis. Ingresos totales, a toda percepción efectiva vía nómina, incluyendo dietas, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales, que perciban los afiliados;
+XVI. Instituto, al organismo público descentralizado denominado Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos;
 
-XV. Instituto, al organismo público descentralizado denominado Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos;
+XVII. Interés ordinario, a la tasa que se aplica sobre el capital insoluto generado durante el plazo pactado o la vigencia del crédito, cuya tasa se estipulará en el Reglamento y demás normativa aplicable;
 
-XVI. Interés ordinario, a la tasa que se aplica sobre el capital insoluto generado durante el plazo pactado o la vigencia del crédito, cuya tasa se estipulará en el Reglamento y demás normativa aplicable;
+XVIII. Interés moratorio, a la tasa que se aplica sobre el saldo del crédito a partir del incumplimiento del pago puntual del mismo hasta su total liquidación; así como a la tasa que se aplica sobre los enteros extemporáneos que realice el ente obligado, cuyas tasas se estipularán en el Reglamento y demás normativa aplicable;
 
-XVII. Interés moratorio, a la tasa que se aplica sobre el saldo del crédito a partir del incumplimiento del pago puntual del mismo hasta su total liquidación; así como a la tasa que se aplica sobre los enteros extemporáneos que realice el ente obligado, cuyas tasas se estipularán en el Reglamento y demás normativa aplicable;
+XIX. Ley, al presente instrumento jurídico;
 
-XVIII. Ley, al presente instrumento jurídico;
+XX. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
 
-XIX. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
+XXI. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos y demás instrumentos normativos aprobados por el Instituto, mediante los cuales se indican los pasos que deban seguirse para el desarrollo de cada una de las actividades de las unidades administrativas que lo conforman;
 
-XX. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos y demás instrumentos normativos aprobados por el Instituto, mediante los cuales se indican los pasos que deban seguirse para el desarrollo de cada una de las actividades de las unidades administrativas que lo conforman;
+XXII. Pensión, a la prestación en dinero que se otorga al pensionista en la periodicidad que se determine en el instrumento normativo correspondiente y conforme la normativa aplicable;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+XXIII. Pensionista, a la persona física que recibe periódicamente una cantidad de dinero por concepto de pensión, resultante de su actividad en el servicio público, estatal o municipal, conforme la normativa aplicable;
 
-XXI. Pensionista, a la persona física que recibe periódicamente una cantidad de dinero por concepto de pensión, resultante de su actividad en el servicio público, estatal o municipal;
+XXIV. Reintegro a entes obligados, a la cantidad en dinero que el ente obligado retiene vía nómina al afiliado y es enterada al Instituto de manera inexacta;
 
-XXII. Percepción constante, al salario integrado por la suma de los emolumentos en efectivo que, en forma constante, recibe el afiliado por la prestación de sus servicios subordinados a los entes obligados;
+XXV. Reintegro a afiliados o acreditados, a la cantidad en dinero que se devuelve derivada de un cobro improcedente;
 
-XXIII. Reintegro a entes obligados, a la cantidad en dinero que el ente obligado retiene vía nómina al afiliado y es enterada al Instituto de manera inexacta;
+XXVI. Reglamento, al Reglamento de la presente Ley;
 
-XXIV. Reintegro a afiliados o acreditados, a la cantidad en dinero que se devuelve derivada de un cobro improcedente;
+XXVII. Sujetos obligados, a los afiliados y acreditados, entes obligados, personal del Instituto, integrantes del Consejo Directivo y a todos aquellos que se ubiquen en los supuestos previstos en esta Ley, y
 
-XXV. Reglamento, al Reglamento de la presente Ley, y
-
-XXVI. Sujetos obligados, a los afiliados y acreditados, entes obligados, personal del Instituto, integrantes del Consejo Directivo y a todos aquellos que se ubiquen en los supuestos previstos en esta Ley.
+XXVIII. Terreno urbanizado, al terreno apto para edificar por reunir las condiciones que exige la normativa aplicable.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -157,7 +153,7 @@ No obstante, para el mejor desarrollo de sus funciones, el Instituto podrá esta
 
 El Instituto tiene por objeto procurar el bienestar social de los afiliados y sus familias a través del otorgamiento de prestaciones económicas y sociales.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 6.
 
@@ -165,13 +161,19 @@ El Instituto, para el cumplimiento de su objeto, además de las previstas en el 
 
 I. Brindar seguridad social a los afiliados en materia de vivienda, mediante el otorgamiento de créditos hipotecarios;
 
-II. Proporcionar en forma directa o con la intermediación de las instituciones federales, estatales o municipales competentes, así como con aquellas que integran el sistema bancario mexicano, financiamiento oportuno y a bajas tasas de interés, a las personas a que estén destinados los programas de vivienda que instrumente el propio Instituto;
+II. Proporcionar en forma directa o con la intermediación de las instituciones federales, estatales o municipales competentes, así como con aquellas que integran el sistema bancario mexicano, financiamiento oportuno y a bajas tasas de interés, a las personas a que estén destinados los programas de vivienda que instrumente el propio Instituto, conforme a lo dispuesto por la presente Ley, su Reglamento y demás normativa aplicable;
 
 III. Otorgar prestaciones económicas a corto, mediano y largo plazo, conforme lo dispuesto por la presente Ley, su Reglamento y demás normativa aplicable;
 
-IV. Otorgar servicios sociales de odontología y optometría, en términos de lo dispuesto en la presente Ley, su Reglamento y demás normativa aplicable, y
+IV. Otorgar servicios sociales de odontología y optometría, en términos de lo dispuesto en la presente Ley, su Reglamento y demás normativa aplicable;
 
-V. Brindar cualquier otra prestación que satisfaga las necesidades de los afiliados, previa aprobación y en los términos que determine el Consejo Directivo.
+V. Brindar cualquier otra prestación que satisfaga las necesidades de los afiliados, previa aprobación y en los términos que determine el Consejo Directivo;
+
+VI. Celebrar contratos para el desarrollo de acciones y programas de vivienda con asesoría de las Secretarías, Dependencias y Entidades competentes, en términos de lo dispuesto en el Reglamento;
+
+VII. Garantizar su viabilidad financiera, para lo cual realizará, por sí o mediante despacho externo, los estudios actuariales que estime pertinentes conforme lo establezca el Reglamento; así como vigilar el exacto cumplimiento de la Ley, para lo cual podrá llevar a cabo visitas de verificación a fin de comprobar, mediante la exhibición de los documentos correspondientes, los ingresos totales de los afiliados, y
+
+VIII. Determinar mediante acuerdo las percepciones en especie que serán consideradas para efecto de lo dispuesto por el artículo 3, fracción XVI, de esta Ley.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -203,13 +205,19 @@ VI. Las cuotas no reclamadas por el afiliado o beneficiario, una vez transcurrid
 
 VII. El fondo de reserva para cuentas incobrables, incosteables e ilocalizables;
 
-VIII. Los intereses, productos financieros, rentas y otros que se obtengan por cualquier título;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Los intereses, productos financieros, rendimientos, rentas, plusvalías y demás ingresos que se obtengan de las inversiones y operaciones que realice el Instituto;
 
 IX. Los bienes inmuebles y muebles que forman parte del activo fijo y los que en lo futuro adquiera o se adjudique el Instituto;
 
 X. Los que se obtengan por donaciones, herencias, legados y fideicomisos que se hagan o constituyan a favor del Instituto, y
 
 XI. Cualquier otro concepto legalmente obtenido o constituido en favor del Instituto.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+Los recursos del Instituto se aplicarán exclusivamente para el cumplimiento de su objeto.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -353,9 +361,15 @@ IX. Aprobar la creación de órganos de apoyo necesarios para la operación del 
 
 X. Designar y cambiar, a propuesta del Director General, a los servidores públicos del Instituto que se determinen en el Estatuto Orgánico;
 
-XI. Autorizar, cuando se justifique, la contratación de un despacho externo para que realice la recuperación de la cartera vencida, conforme al Reglamento y la normativa aplicable, y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XII. Aprobar, a solicitud del Director General, los criterios para condonar los intereses moratorios a los entes obligados, afiliados y acreditados.
+XI. Autorizar, cuando se justifique, la contratación de un despacho externo para que realice la recuperación de la cartera vencida, conforme al Reglamento y la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XII. Aprobar las propuestas del Director General, derivadas del análisis a los resultados de los estudios actuariales, y
+
+XIII. Aprobar, a solicitud del Director General, los criterios para condonar los intereses moratorios a los entes obligados, afiliados y acreditados.
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -397,21 +411,35 @@ VIII. Proponer al Consejo Directivo proyectos de reforma al marco jurídico que 
 
 IX. Proponer al Consejo Directivo los programas de crédito que estime convenientes;
 
-X. Someter a la autorización del Consejo Directivo las adecuaciones presupuestales necesarias, sin rebasar el monto autorizado anualmente y, en su caso, ejercerlas, y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XI. Determinar las medidas necesarias para asegurar que los afiliados, acreditados y entes obligados cumplan las obligaciones y se respeten sus derechos establecidos en la presente Ley, su Reglamento y demás normativa aplicable.
+X. Someter a la autorización del Consejo Directivo las adecuaciones presupuestales necesarias, sin rebasar el monto autorizado anualmente y, en su caso, ejercerlas;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XI. Ordenar visitas de verificación a fin de comprobar, mediante la exhibición de los documentos correspondientes, los ingresos totales de los afiliados. Las visitas de verificación se realizarán conforme a la Ley de Procedimiento Administrativo para el Estado de Morelos y demás normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XII. Determinar la cantidad que, por concepto de cuota o aportación, el ente obligado no haya enterado al Instituto respecto de sus afiliados, cuando reporte ingresos diversos a los reales;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XIII. Analizar el resultado de los estudios actuariales y proponer al Consejo Directivo, las modificaciones estructurales y administrativas necesarias, y
+
+XIV. Determinar las medidas necesarias para asegurar que los afiliados, acreditados y entes obligados cumplan las obligaciones y se respeten sus derechos establecidos en la presente Ley, su Reglamento y demás normativa aplicable.
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
 #### SECCIÓN SEXTA. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 19.
 
-El Instituto contará con un Órgano Interno de Control, que dependerá del Consejo Directivo, el cual estará a cargo de un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, de conformidad con lo dispuesto por la Ley Orgánica, el cual tendrá como finalidad apoyar la función directiva y promover el mejoramiento de gestión del Instituto.
+El Instituto contará con un Órgano Interno de Control integrado por un Comisario Público designado por la Secretaría de la Contraloría del Poder Ejecutivo Estatal en términos de lo dispuesto por la Ley Orgánica, cuya remuneración correrá a cargo del presupuesto del Instituto.
 
-Las funciones del Comisario Público se realizarán de acuerdo con las políticas que dicte la Secretaría de la Contraloría del Poder Ejecutivo Estatal y se sujetarán a las disposiciones normativas establecidas en la Ley Orgánica.
+Las funciones del Comisario Público se realizarán de acuerdo con las políticas que dicte la Secretaría de la Contraloría del Poder Ejecutivo Estatal y se sujetarán a las disposiciones normativas establecidas en la Ley Orgánica y en la presente Ley.
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -483,7 +511,7 @@ Los entes a que se refieren las fracciones IV, V y VI del presente artículo, se
 
 Quedan excluidos de los beneficios de esta Ley los sujetos señalados en el segundo párrafo del artículo 2 de la Ley del Servicio Civil del Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 26.
 
@@ -495,15 +523,17 @@ II. Avisar al Instituto dentro de los diez días naturales siguientes a la fecha
 
 III. Enterar en tiempo y forma las cuotas, aportaciones y las amortizaciones de los créditos otorgados;
 
-IV. Registrar el número de días laborados y la percepción constante de los afiliados;
+IV. Registrar el número de días laborados y los ingresos totales de los afiliados;
 
-V. Enviar al Instituto con anticipación de al menos tres días hábiles al pago de la nómina de sus trabajadores, los archivos electrónicos en los que consten las retenciones por concepto de cuotas, créditos y aportaciones, así como las percepciones constantes de los afiliados o cualquier otro elemento que, al efecto, sea requerido;
+V. Enviar al Instituto con anticipación de al menos tres días hábiles al pago de la nómina de sus trabajadores, los archivos electrónicos en los que consten las retenciones por concepto de cuotas, créditos y aportaciones, así como los ingresos totales de los afiliados o cualquier otro elemento que, al efecto, sea requerido;
 
 VI. Proporcionar los elementos necesarios para precisar la existencia de actos, derechos u obligaciones que le solicite el Instituto respecto de los afiliados;
 
-VII. Informar, cuando así lo solicite el Instituto, situaciones específicas o genéricas, a efecto de verificar la información que sea proporcionada por los afiliados, y
+VII. Informar, cuando así lo solicite el Instituto, situaciones específicas o genéricas, a efecto de verificar la información que sea proporcionada por los afiliados;
 
-VIII. Las demás responsabilidades que les imponga el Consejo Directivo para el cumplimiento del objeto de la Ley.
+VIII. Proporcionar, en las visitas de verificación del Instituto, los elementos necesarios para precisar la existencia, naturaleza y cuantía de las obligaciones a su cargo, y
+
+IX. Las demás responsabilidades que les imponga el Consejo Directivo para el cumplimiento del objeto de la Ley.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -627,23 +657,29 @@ El deudor solidario será preferentemente el cónyuge o el concubinario o concub
 
 ### CAPÍTULO V. DE LAS APORTACIONES, CUOTAS Y RETENCIONES
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 41.
 
-Tienen el carácter de obligatorias las aportaciones a cargo de los entes obligados, cuya base de cotización será el 2.25% sobre los ingresos totales, las cuales deberán quedar consignadas en sus respectivos Presupuestos de Egresos.
+Tienen el carácter de obligatorias las aportaciones a cargo de los entes obligados, equivalentes al 2.25% de los ingresos totales o la pensión, según corresponda. Lo que debe quedar consignado en sus respectivos Presupuestos de Egresos.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 42.
 
-Tienen el carácter de obligatorias las cuotas a cargo de los afiliados, cuya base de cotización será del 2.25% sobre sus ingresos totales, mismas que serán retenidas por los entes obligados y enteradas al Instituto en términos de los (sic) dispuesto en la presente Ley y demás normativa aplicable.
+Tienen el carácter de obligatorias las cuotas a cargo de los afiliados, equivalentes al 2.25% de los ingresos totales o la pensión, según corresponda, mismas que serán retenidas por los entes obligados y enteradas al Instituto, en términos de lo dispuesto en la presente Ley y demás normativa aplicable, así como los convenios celebrados entre el Instituto y el Ente Obligado, en los casos que así proceda.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 42 Bis.
+
+En caso de que los entes obligados reporten ingresos totales de los afiliados inferiores a los reales, el Instituto procederá a determinar la cantidad no enterada por aquellos, por concepto de cuota o aportación, a efecto de requerirles del pago correspondiente. En caso de falta de pago el Instituto deberá informar tal situación a la Secretaría de Hacienda del Poder Ejecutivo Estatal, remitiendo los documentos necesarios a fin de que, conforme sus atribuciones y competencia, inicie el procedimiento respectivo en términos de la normativa aplicable. Lo anterior sin perjuicio de las atribuciones que en materia de responsabilidades correspondan a otras autoridades competentes.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 43.
 
-Tienen el carácter de obligatorias las retenciones que el ente obligado descuente de las percepciones constantes a los afiliados, por concepto de créditos que como deudor principal o aval haya suscrito.
+Tienen el carácter de obligatorias las retenciones que el ente obligado descuente de los ingresos totales o la pensión, según corresponda, a los afiliados, por concepto de créditos que como deudor principal o aval haya suscrito.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -719,17 +755,17 @@ Las primas de los seguros aplicables, se cubrirán conforme a lo dispuesto en la
 
 El Instituto se abstendrá de otorgar créditos al afiliado que como deudor principal o aval presente mora en sus pagos.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 54.
 
-Los bienes inmuebles adjudicados judicial o extrajudicialmente por el Instituto, con motivo de la recuperación de créditos, se regirán en lo conducente por la Ley General de Bienes del Estado de Morelos; empero, se autoriza de manera general al Instituto para enajenarlos, fuera de subasta pública, adjudicándolos preferentemente a los servidores públicos o una persona física o moral particular conforme al procedimiento establecido en el Reglamento.
+Los bienes inmuebles adjudicados judicialmente por el Instituto, con motivo de la recuperación de créditos, se regirán en lo conducente por la Ley General de Bienes del Estado de Morelos; empero, se autoriza de manera general al Instituto para enajenarlos, fuera de subasta pública, adjudicándolos preferentemente a los servidores públicos o una persona física o moral particular conforme al procedimiento establecido en el Reglamento.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 55.
 
-Los bienes muebles adjudicados judicial o extrajudicialmente al Instituto por la recuperación de créditos, serán susceptibles de enajenación, mediante el proceso que establece la normativa de la materia aplicable.
+Los bienes muebles adjudicados judicialmente al Instituto por la recuperación de créditos, serán susceptibles de enajenación, mediante el proceso que establece la normativa de la materia aplicable.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -749,7 +785,7 @@ Los créditos hipotecarios se ubican en la modalidad de largo plazo, y serán de
 
 Los bienes inmuebles materia de crédito deberán ubicarse dentro del territorio del estado de Morelos.
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 58.
 
@@ -757,11 +793,13 @@ Los créditos hipotecarios se otorgarán con los siguientes fines:
 
 I. Adquisición de vivienda;
 
-II. Dirimir gravamen en bien inmueble propio;
+II. Adquisición de terreno urbanizado;
 
-III. Construcción en terreno propio, y
+III. Dirimir gravamen en bien inmueble propio;
 
-IV. Remodelación, ampliación o mejora en bien inmueble propio.
+IV. Construcción en terreno propio, y
+
+V. Remodelación, ampliación o mejora en bien inmueble propio.
 
 Los créditos hipotecarios serán revisados y aprobados por el Comité Técnico de Créditos Hipotecarios.
 
@@ -930,3 +968,21 @@ PRIMERA. Aprobado el presente Decreto se remitirá al Gobernador Constitucional 
 SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y CUATRO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE CRÉDITO PARA LOS TRABAJADORES AL SERVICIO DEL GOBIERNO DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Los convenios celebrados entre el Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos y demás entes obligados, así como el monto total por concepto de cuotas o aportaciones que se enteren al Instituto, previos al inicio de vigencia del presente Decreto, continuarán aplicándose hasta en tanto se convenga su modificación por las partes interesadas.
+
+CUARTA. Dentro del plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá expedirse el Reglamento de la Ley del Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos, el Estatuto Orgánico del Instituto de Crédito para los trabajadores al servicio del Gobierno del Estado de Morelos, así como el Acuerdo por el cual se determinarán las percepciones en especie que serán consideradas para efectos de los ingresos totales.
+
+QUINTA. Los entes obligados deberán presupuestar para los ejercicios fiscales subsecuentes, el pago de aportaciones en los porcentajes establecidos en esta Ley, debiendo considerar al efecto, los ingresos totales o la pensión de los afiliados, según sea el caso.
+
+SEXTA. La facultad conferida por virtud del presente Decreto a la Secretaría de Hacienda del Poder Ejecutivo Estatal en el artículo 42 Bis de la Ley del Instituto de Crédito para los Trabajadores al Servicio del Gobierno del Estado de Morelos, será aplicable a los casos que se generen a partir de la entrada en vigor del presente instrumento.
+
+SÉPTIMA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo en lo que se opongan al presente Decreto.
