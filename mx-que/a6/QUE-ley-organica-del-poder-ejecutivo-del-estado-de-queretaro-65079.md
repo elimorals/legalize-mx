@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2017-09-01"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -207,19 +207,13 @@ XIII. La Secretaría de Seguridad Ciudadana;
 
 XIV. La Secretaría de Juventud;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 XV. La Secretaría de Desarrollo Social;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 XVI. La Oficina de la Gubernatura; y
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -289,17 +283,11 @@ XXI. Tramitar los recursos administrativos que competa resolver al Gobernador el
 
 XXII. Realizar los actos jurídicos necesarios para reivindicar, administrar y conservar las propiedades del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+XXIII. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2017)
 
-XXIII. Planear y organizar el funcionamiento de los Centros Penitenciarios, de conformidad con las leyes aplicables;
+XXIV. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XXIV. Ejecutar el internamiento por prisión preventiva, de las penas y medidas de seguridad impuestas como consecuencia de una resolución judicial, de conformidad con las leyes aplicables;
-
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XXV. Celebrar convenios con organizaciones de la sociedad civil e instituciones del Estado a fin de diseñar, implementar o brindar servicios en internamiento o de naturaleza post-penal, con apego a lo dispuesto por las disposiciones legales aplicables;
+XXV. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -441,19 +429,13 @@ III. Vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones de
 
 IV. Ejercer las atribuciones en materia tributaria derivadas de los convenios que celebre el Poder Ejecutivo del Estado con el Gobierno Federal y los municipios de la Entidad;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 V. Proponer al Gobernador del Estado el proyecto de Ley de Ingresos y Presupuesto de Egresos del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 VI. Ordenar y practicar visitas domiciliarias, revisión de dictámenes, revisiones electrónicas, auditorías, inspecciones y verificaciones, así como los demás actos que establezcan las disposiciones fiscales y los convenios de colaboración administrativa, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones federales coordinadas y estatales;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -461,33 +443,23 @@ VII. Formular los estados financieros en términos de las disposiciones jurídic
 
 VIII. Ejercer la facultad económico-coactiva, conforme a las leyes aplicables;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 IX. Administrar el padrón de contribuyentes previsto en las leyes fiscales del Estado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 X. Custodiar los documentos que constituyan valores del Estado, cuando su resguardo no corresponda a otra dependencia en términos de las disposiciones aplicables;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XI. Ejercer las facultades que en materia de deuda pública le confieran las disposiciones aplicables;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XII. Efectuar los pagos correspondientes a las dependencias, órganos adscritos y desconcentrados del Poder Ejecutivo del Estado, conforme a los programas y presupuestos aprobados;
 
 XIII. Proponer al Gobernador del Estado la cancelación de cuentas incobrables, así como el otorgamiento de subsidios fiscales en los casos que procedan;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -501,37 +473,25 @@ XVII. Tramitar y resolver los recursos administrativos en la esfera de su compet
 
 XVIII. Administrar el catastro de la Entidad, conforme a lo establecido en las leyes respectivas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XIX. Llevar el sistema de programación del gasto público, de acuerdo con los objetivos y necesidades de la gestión gubernamental;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XX. Proyectar, calcular y supervisar los egresos del Poder Ejecutivo del Estado;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
 XXII. Elaborar y presentar la cuenta pública;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XXIII. Dar seguimiento financiero y administrativo, a la operación de las entidades paraestatales que no estén expresamente encomendados a otra dependencia;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XXIV. Llevar la contabilidad gubernamental del Poder Ejecutivo del Estado;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -539,21 +499,13 @@ XXV. Celebrar, con la representación del titular del Poder Ejecutivo del Estado
 
 XXVI. Celebrar los instrumentos necesarios, en relación con la planeación y la administración financiera y tributaria;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XXVII. Elaborar, con la participación de las dependencias y organismos del Poder Ejecutivo del Estado, el Plan Estatal de Desarrollo;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXVIII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXIX. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -561,25 +513,17 @@ XXX. Estudiar y formular los proyectos de leyes, decretos, reglamentos y demás 
 
 XXXI. Establecer y llevar los sistemas de control geográfico y de catastro;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXXII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
 XXXIII. Prestar a los municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la elaboración de sus planes y programas de desarrollo;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XXXIV. Normar las acciones que en materia de informática se lleven a cabo en la administración pública estatal;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 XXXV. Diseñar, implantar y operar, en coordinación con las dependencias y organismos, los sistemas computarizados que se requieran para su mejor funcionamiento;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -587,27 +531,19 @@ XXXVI. Prestar asesoría técnica a las entidades públicas que lo requieran y d
 
 XXXVII. Dar a conocer en forma periódica, mediante publicación en el Periódico Oficial del Gobierno del Estado, los criterios no vinculativos de las disposiciones fiscales. Asimismo publicar en el mismo órgano de difusión, las resoluciones dictadas por las autoridades fiscales que faciliten su conocimiento y aplicación por parte de los contribuyentes;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXXVIII. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 XXXIX. Nombrar a los titulares de las direcciones y unidades administrativas de la Secretaría, así como al de la Procuraduría Fiscal del Estado,
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 XL. Colaborar en el ámbito de su competencia, para cumplir con las obligaciones previstas en la Ley de Seguridad para el Estado de Querétaro, en la prevención del delito, la atención a víctimas de la violencia y delincuencia, así como la promoción, respeto y protección de los derechos humanos y la aplicación de los mecanismos alternativos de solución de controversias y conflictos, en términos de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 XLI. Expedir certificaciones de los documentos que obren en los archivos de las unidades administrativas y órganos desconcentrados de la misma, a través de sus titulares, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -1255,8 +1191,6 @@ XXI. Participar y coordinar en el ámbito de su competencia, las acciones de coo
 
 XXII. Las demás que le confieran otras leyes reglamentos, sin perjuicio de las atribuciones de otras dependencias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE MARZO DE 2015) (F. DE E., P.O. 15 DE OCTUBRE DE 2015)
 
 ### Capítulo Décimo Quinto. De la Secretaría de Desarrollo Social
@@ -1340,8 +1274,6 @@ XII. Fungir como responsable de las oficinas de representación del Estado fuera
 XIII. Las demás que el Gobernador del Estado determine, dentro del marco de sus atribuciones constitucionales y legales.
 
 El funcionamiento de la Oficina de la Gubernatura y de los órganos adscritos a que se refiere el presente artículo, será regulado por la presente Ley, el Reglamento Interior y los acuerdos administrativos que expida el titular del Poder Ejecutivo del Estado, los que tendrán el carácter de obligatorio para toda la administración pública central.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1437,7 +1369,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE NOVIEMBRE DE 2010.
 
@@ -1934,3 +1866,21 @@ La presente Ley entrará en vigor el día de su publicación en el Periódico Of
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE QUERÉTARO Y DEROGA DIVERSAS DISPOSICIONES DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Articulo Segundo. Los recursos humanos, materiales y financieros con que cuenta la Dirección General de Reinserción Social adscrita a la Secretaría de Gobierno, formarán parte del organismo público descentralizado denominado Comisión Estatal del Sistema Penitenciario de Querétaro. Para efectos de lo anterior, la Comisión Estatal del Sistema Penitenciario de Querétaro deberá obtener los registros fiscales y administrativos que procedan.
+
+El Poder Ejecutivo del Estado, a través de sus dependencias, continuará administrando los referidos recursos, hasta el 31 de diciembre del presente ejercicio fiscal.
+
+Artículo Tercero. El organismo público descentralizado denominado Comisión Estatal del Sistema Penitenciario de Querétaro cumplirá con las obligaciones que, como sujeto, le señalan las disposiciones aplicables a partir del ejercicio fiscal 2018, lo anterior sin perjuicio de que pueda obtener los registros fiscales y administrativos a que se refiere el artículo anterior, una vez que cobre vigencia la presente Ley en términos de su Artículo Primero Transitorio.
+
+Artículo Cuarto. Los trabajadores de la Dirección General de Reinserción Social adscrita a la Secretaría de Gobierno, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Comisión Estatal del Sistema Penitenciario de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Sexto. Remítase la presente al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
