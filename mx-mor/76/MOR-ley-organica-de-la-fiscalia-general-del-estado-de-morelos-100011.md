@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-fiscalia-general-del-estado-de-morelos-10001
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-26"
-last_updated: "2017-11-15"
+last_updated: "2017-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -763,11 +761,15 @@ XXIX. Formular acusación, solicitar el sobreseimiento o la suspensión del proc
 
 XXX. Formular las correcciones de los vicios formales en la acusación o demanda de reparación de daños, cuando el Ministerio Público de la causa no lo realice;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXXI. Emitir los lineamientos generales de actuación para atender de forma pronta y expedita las solicitudes de intervención para la disposición de órganos y tejidos de seres humanos con fines de trasplante, cuando con motivo de una investigación se encuentren a su disposición y se reúnan los requisitos establecidos en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables, y
+XXXI. Emitir lineamientos generales de actuación para atender de forma pronta y expedita las solicitudes de intervención para la disposición de órganos y tejidos de seres humanos con fines de trasplante, cuando con motivo de una investigación se encuentren a su disposición y se reúnan los requisitos establecidos en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables;
 
-XXXII. Las demás que le otorguen y confieran otras disposiciones legales y reglamentarias, Federales y Locales, aplicables.
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XXXII. Participar en su ámbito de competencia, en el desarrollo de acciones de prevención del delito, y
+
+XXXIII. Las demás que le otorguen y confieran otras disposiciones legales y reglamentarias, Federales y Locales, aplicables.
 
 ###### Artículo 32.
 
@@ -1588,3 +1590,11 @@ Constituida la Asamblea Consultiva designará de entre sus integrantes al miembr
 DECIMOCUARTA. La Comisión Ejecutiva de Atención y Reparación a Víctimas del Estado de Morelos y la Secretaría de Hacienda del Poder Ejecutivo Estatal deberán hacer las previsiones presupuestales necesarias.
 
 DECIMOQUINTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL DOSCIENTOS CUARENTA Y DOS POR EL QUE SE REFORMA LA FRACCIÓN XXXI Y SE ADICIONA UNA FRACCIÓN XXXII RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTICULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
