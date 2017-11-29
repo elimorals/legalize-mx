@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-a-las-victimas-del-delito-de-secuestro-82259"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-27"
-last_updated: "2014-12-18"
+last_updated: "2017-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82259&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-07-26"
 ---
 # LEY DE PROTECCION A LAS VICTIMAS DEL DELITO DE SECUESTRO PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE ATENCIÓN Y APOYO A VÍCTIMAS DIRECTAS E INDIRECTAS DEL DELITO DE SECUESTRO PARA LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 29 DE NOVIEMBRE DE 2017, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 5 DE DICIEMBRE DE 2018.]</small>
+
 LEY DE PROTECCIÓN A LAS VÍCTIMAS DEL DELITO DE SECUESTRO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 27 de julio de 2011.
 
@@ -381,3 +383,13 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE PROTECCIÓN A LAS VÍCTIMAS DEL DELITO DE SECUESTRO PARA EL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE ATENCIÓN Y APOYO A VÍCTIMAS DIRECTAS E INDIRECTAS DEL DELITO DE SECUESTRO EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Gobierno de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga Ley de Protección a las Víctimas del Delito de Secuestro para el Distrito Federal y se expide la Ley de Atención y Apoyo a Víctimas Directas e Indirectas del Delito de Secuestro en la Ciudad de México.
+
+TERCERO.- El presente decreto entrará en vigor el 5 de diciembre de 2018, de conformidad con lo establecido en el segundo párrafo del Artículo Transitorio Décimo Primero de la Constitución Política de la Ciudad de México.
