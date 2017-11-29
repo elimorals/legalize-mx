@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-110
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-10-30"
-last_updated: "2017-10-09"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2015.
 
@@ -279,7 +279,9 @@ De la Competencia en Materia de Atención a Víctimas y Ofendidos del Delito
 
 La competencia del Ministerio Público en materia de atención a víctimas y ofendidos por delitos comprende:
 
-I. Proporcionar asesoría jurídica a la víctima u ofendido e informarle de los derechos jurídicamente existentes a su favor;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+I. Orientar de manera general a la víctima u ofendido e informarle de los derechos que le asisten;
 
 II. Recibir todos los elementos de prueba que la víctima u ofendido le aporte en ejercicio de su derecho de coadyuvancia, que sirvan para la investigación del hecho delictuoso, así como para determinar, en su caso, la procedencia y monto de la reparación del daño. Cuando el Ministerio Publico considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
 
@@ -447,9 +449,9 @@ XIV. El Instituto de Formación Profesional;
 
 XV. La Secretaría Particular del Procurador;
 
-> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XVI. La Secretaría Técnica del Procurador; y,
+XVI. La Secretaría Técnica del Procurador;
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -462,6 +464,14 @@ b) La Fiscalía Regional Norte;
 c) La Fiscalía Regional Centro; y,
 
 d) La Fiscalía Regional Sur.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XVIII. La Subprocuraduría Especializada en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, de la cual dependerán:
+
+a) La Dirección General de Investigación y Procesos; y,
+
+b) La Dirección de la Unidad de Análisis de Contexto.
 
 ###### Artículo 9°.
 
@@ -653,9 +663,9 @@ XL. Las demás que le encomiende el Procurador, su superior jerárquico o le oto
 
 De la Subprocuraduría del Ministerio Público
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-La Subprocuraduría del Ministerio Público depende directamente del Procurador y, con excepción de las funciones propias de la Subprocuraduría Especializada en Combate a la Corrupción, es la unidad administrativa central responsable de realizar las acciones propias del Ministerio Público en la investigación y persecución de los delitos, así como la ejecución de sentencias, con el auxilio de las instancias adecuadas y las correspondientes en materia de adolescentes infractores, siendo competente para:
+La Subprocuraduría del Ministerio Público depende directamente del Procurador y, con excepción de las funciones propias de la Subprocuraduría Especializada en Combate a la Corrupción y de la Subprocuraduría Especializada en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, es la unidad administrativa central responsable de realizar las acciones propias del Ministerio Público en la investigación y persecución de los delitos, así como la ejecución de sentencias, con el auxilio de las instancias adecuadas y las correspondientes en materia de adolescentes infractores, siendo competente para:
 
 I. Acordar con el Procurador el despacho de los asuntos de su competencia y de las unidades a su cargo;
 
@@ -1825,13 +1835,17 @@ XIII. Coordinar la publicación de la información en el Portal de la Procuradur
 
 XIV. Atender oportunamente las solicitudes de información, dirigidas a la Procuraduría, de acuerdo a los lineamientos que se establezcan de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León y demás normatividad aplicable;
 
-XV. Establecer en coordinación con el Instituto de Formación Profesional y otras instituciones competentes, los programas de orientación y capacitación en materia de derechos humanos, que se impartan a servidores públicos de la Procuraduría para promover entre ellos el respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XV. Establecer en coordinación con el Instituto de Formación Profesional y otras instituciones competentes, los programas de orientación y capacitación en materia de derechos humanos, que se impartan a servidores públicos de la Procuraduría para promover entre ellos el respeto a los derechos humanos, salvo los casos que ello corresponde a la Subprocuraduría Especializada en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares;
 
 XVI. Crear programas de orientación y difusión en materia de derechos humanos;
 
 XVII. Difundir entre servidores públicos de la Procuraduría, el contenido de los instrumentos jurídicos internacionales suscritos y ratificados por México en materia de derechos humanos;
 
-XVIII. Realizar conferencias, cursos, seminarios y eventos que tiendan a fortalecer el respeto de los derechos humanos, dirigidos a servidores públicos de la Procuraduría;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XVIII. Realizar conferencias, cursos, seminarios y eventos que tiendan a fortalecer el respeto de los derechos humanos, dirigidos a servidores públicos de la Procuraduría, excepto tratándose de la capacitación obligatoria que compete a la Subprocuraduría Especializada en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares;
 
 XIX. Disponer de vínculos interinstitucionales con la Comisión Nacional de los Derechos Humanos, la Comisión Estatal de Derechos Humanos, y cualquier otra dependencia pública o privada en materia de derechos humanos;
 
@@ -1917,9 +1931,9 @@ VIII. Las que la (sic) encomiende el Subprocurador o le otorgue la Ley, este Reg
 
 Del Instituto de Formación Profesional
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-El Instituto de Formación Profesional depende directamente del Procurador y es la unidad administrativa responsable de brindar al personal de la Procuraduría la capacitación, actualización y la especialización, requerida para el cabal desempeño de sus funciones, así como de constatar, que quienes pretenden ingresar a la misma, cuenten con los conocimientos y habilidades requeridos. Siendo competente para:
+El Instituto de Formación Profesional depende directamente del Procurador y es la unidad administrativa responsable de brindar al personal de la Procuraduría la capacitación, actualización y la especialización, requerida para el cabal desempeño de sus funciones, excepto en los casos que ello corresponde a la Subprocuraduría Especializada en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares; así como de constatar, que quienes pretenden ingresar a la misma, cuenten con los conocimientos y habilidades requeridos. Siendo competente para:
 
 I. Elaborar, y someter a la aprobación del Procurador, los planes y programas de estudio para la formación inicial, actualización y especialización del personal de la Procuraduría y la Policía; Actualizar los programas de estudio y valorar la tramitación de los reconocimientos de validez oficial;
 
@@ -2019,9 +2033,9 @@ VIII. Las demás que le encomiende el Procurador o le otorguen la Ley, este Regl
 
 De la Subprocuraduría Especializada en Combate a la Corrupción
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-La Subprocuraduría Especializada en Combate a la Corrupción depende directamente del Procurador, es una unidad administrativa central con autonomía técnica y operativa en el ejercicio de sus funciones; y es responsable y especializada en investigar y perseguir las conductas delictivas cometidas por servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos; y adicionalmente sus unidades administrativas ejercerán competencia respecto de los delitos cuya investigación y persecución le corresponda, cuando personas de derecho privado participen en la comisión de los mismos, de acuerdo con la legislación penal, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
+La Subprocuraduría Especializada en Combate a la Corrupción depende directamente del Procurador, es una unidad administrativa central con autonomía técnica y operativa en el ejercicio de sus funciones; y es responsable y especializada en investigar y perseguir, salvo los asuntos que son competencia de la Subprocuraduría Especializada en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, las conductas delictivas cometidas por servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos; y adicionalmente sus unidades administrativas ejercerán competencia respecto de los delitos cuya investigación y persecución le corresponda, cuando personas de derecho privado participen en la comisión de los mismos, de acuerdo con la legislación penal, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
 
 I. Acordar con el Procurador el despacho de los asuntos de su competencia y de las unidades a su cargo;
 
@@ -2031,7 +2045,9 @@ III. Supervisar el cumplimiento de las bases o lineamientos expedidos por el Pro
 
 IV. Coordinar, con base en los lineamientos que señale el Procurador, el intercambio de criterios de aplicación técnico penal con otras Procuradurías y órganos jurisdiccionales para mejorar la procuración e impartición de justicia en materia de combate a la corrupción en el Estado, y promover la difusión para su debida observancia;
 
-V. Establecer los métodos y lineamientos para mejorar la calidad técnica y jurídica del desempeño del Ministerio Público a su cargo, la investigación policial de los delitos cometidos por servidores públicos del Estado y los Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por sujetos de derecho privado que ejerzan funciones públicas, por sí o en participación con otras personas, y los dictámenes periciales en la materia, con pleno respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+V. Establecer los métodos y lineamientos para mejorar la calidad técnica y jurídica del desempeño del Ministerio Público a su cargo, la investigación policial de los delitos de su conocimiento, y los dictámenes periciales en la materia, con pleno respeto a los derechos humanos
 
 VI. Remitir al área competente los bienes asegurados, recuperados e instrumentos del delito vinculados a las indagatorias;
 
@@ -2073,13 +2089,13 @@ El Procurador también podrá expedir un Acuerdo mediante el cual establezca los
 
 De las Direcciones de Investigación y Procesos
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-Las Direcciones de Investigación y Procesos dependen de la Subprocuraduría Especializada en Combate a la Corrupción y son las unidades administrativas responsables y especializadas en investigar y perseguir, en sus respectivos ámbitos competenciales, las conductas delictivas cometidas por servidores públicos del Estado y de los Municipios de Nuevo León, en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos; siendo competentes para:
+Las Direcciones de Investigación y Procesos dependen de la Subprocuraduría Especializada en Combate a la Corrupción y son las unidades administrativas responsables y especializadas en investigar y perseguir, en sus respectivos ámbitos competenciales y con excepción de los delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, las conductas delictivas cometidas por servidores públicos del Estado y los Municipios de Nuevo León, en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos; siendo competente para:
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-I. Recibir de la Dirección de Atención y Denuncias las denuncias, querellas y partes policiales de los delitos presuntamente cometidos por servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos, iniciando la carpeta de investigación correspondiente;
+I. Recibir de la unidad administrativa subalterna competente las denuncias, querellas y partes policiales de los delitos cuya investigación les corresponda, iniciando la carpeta de investigación correspondiente;
 
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
@@ -2376,6 +2392,106 @@ XII. Proponer al Director General de la Fiscalía Especializada en Atención a l
 XIII. Supervisar que los procesos de orientación y denuncia, justicia alternativa y atención a víctimas se realicen conforme a los manuales respectivos, y
 
 XIV. Las que le encomiende el Procurador o el Director General de la Fiscalía Especializada en Atención a la Mujer, o le otorguen la Ley, este Reglamento y demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 46 Bis 9.
+
+De la Subprocuraduría Especializada en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares
+
+La Subprocuraduría Especializada en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares depende directamente del Procurador, y es la unidad administrativa central responsable de realizar las acciones propias del Ministerio Público en la investigación y persecución de los delitos de desaparición forzada de personas y desaparición cometida por particulares, siendo competente para:
+
+I. Acordar con el Procurador el despacho de los asuntos de su competencia y de las unidades a su cargo;
+
+II. Coordinar y supervisar las actividades que realicen los Agentes del Ministerio Público en la investigación de los delitos que tenga conocimiento, en el ejercicio o no de la acción penal y la persecución de los delitos ante los tribunales;
+
+III. Supervisar el cumplimiento de las bases o lineamientos expedidos por el Procurador para el ejercicio de la función persecutoria del Ministerio Público, respetando los límites que para tal efecto establezcan las normas generales en materia de desaparción (sic) forzada de personas y desaparición cometida por particulares;
+
+IV. Coordinar, con base en los lineamientos que señale el Procurador, el intercambio de criterios de aplicación técnico penal con otras Procuradurías y órganos jurisdiccionales para mejorar la procuración e impartición de justicia en el Estado y promover la difusión para su debida observancia;
+
+V. Establecer los métodos y lineamientos para mejorar la calidad técnica y jurídica del desempeño del Ministerio Público, la investigación policial y los dictámenes periciales en los asuntos que son de su competencia, con pleno respeto a los derechos humanos;
+
+VI. Remitir al área competente los bienes asegurados, recuperados e instrumentos del delito vinculados a las indagatorias;
+
+VII. Atender técnica, procesal y jurídicamente la participación del Ministerio Público en los términos de los Convenios de Colaboración y demás Acuerdos celebrados en la Conferencia Nacional de Procuración de Justicia, estableciendo las órdenes pertinentes y conducentes para lograr los objetivos convenidos;
+
+VIII. Establecer los mecanismos de colaboración entre las unidades administrativas a su cargo, de conformidad con la legislación aplicable y los lineamientos establecidos por el Procurador;
+
+IX. Vigilar que se le respeten los derechos humanos de los individuos y se proporcione la debida atención y protección a las víctimas u ofendidos por la comisión delictiva;
+
+X. Promover la aplicación de formas anticipadas de terminación del proceso penal;
+
+XI. Dar seguimiento a los pedimentos de medidas cautelares, medidas cautelares anticipadas, providencias precautorias y toda aquella solicitud formulada por el Ministerio Público a la autoridad jurisdiccional;
+
+XII. Supervisar la intervención del Ministerio Público en cuanto a la ejecución de sanciones y medidas de seguridad;
+
+XIII. Convocar y presidir las reuniones que deban celebrarse con las diferentes unidades administrativas, unidades administrativas subalternas y demás personal de la Procuraduría, para definir o desarrollar estrategias en los asuntos de su competencia;
+
+XIV. Ejercer las atribuciones que a cargo de las Fiscalías Especializadas para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares contemplan la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, y demás normas generales subodinadas (sic) a ésta;
+
+XV. Ejercer la superioridad directa del personal sustantivo ministerial, policial, pericial y de apoyo psicosocial que le sea adscrito, sin demérito de la autonomía que asiste a éste en el desempeño de sus funciones; y,
+
+XVI. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 46 Bis 10.
+
+De la Dirección General de Investigación y Procesos
+
+La Dirección de Investigación y Procesos depende de la Subprocuraduría Especializada en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, y es la unidad administrativa responsable y especializada en investigar y perseguir las conductas delictivas contempladas en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas; siendo competente para:
+
+I. Recibir de la unidad administrativa subalterna correspondiente las denuncias, querellas y partes policiales de los delitos que son de su competencia, iniciando la carpeta de investigación correspondiente;
+
+II. Vigilar que los Agentes del Ministerio Público Investigadores, de las Unidades de Investigación a su mando, se conduzcan con estricto apego a lo establecido en la normatividad aplicable, respetando los derechos humanos del imputado y de las víctimas u ofendidos por la comisión del delito;
+
+III. Supervisar a los Agentes del Ministerio Público Investigadores para que realicen las actuaciones necesarias dentro de las carpetas de investigación que tengan a su cargo, y en las que se proponga cualquier acto a realizar en la etapa de Investigación, Audiencia Intermedia, Audiencia de Juicio Oral y en la segunda Instancia, haciendo el estudio respectivo para determinar lo procedente;
+
+IV. Recibir de los Agentes del Ministerio Público de su adscripción, en los términos de los acuerdos que al efecto emita el Procurador, las carpetas de investigación debidamente agotadas en las que se proponga el no ejercicio de la acción penal, haciendo el estudio respectivo para determinar lo procedente;
+
+V. Supervisar las carpetas de investigación que estime incompletas y señalar las diligencias que deban practicarse o los medios de prueba que deban recabarse, para su debida integración y perfeccionamiento;
+
+VI. Resolver los conflictos de competencia que se presenten entre sus Agentes del Ministerio Público, así como las diferencias de criterio que surjan entre ellos;
+
+VII. Poner a la consideración del Subprocurador Especializado en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, los criterios que deban observarse en las solicitudes efectuadas por el Ministerio Público dentro del proceso penal, de conformidad con los lineamientos respectivos ya establecidos;
+
+VIII. Dictar las medidas idóneas para que las investigaciones se lleven a cabo bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como para que el personal que le esté adscrito siga métodos científicos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
+
+IX. Establecer, en coordinación con la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, los mecanismos necesarios para que las víctimas y ofendidos por delitos reciban el apoyo jurídico, psicológico y social y, en caso de ser necesario, a sus familiares o testigos;
+
+X. Remitir a la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, a los menores e incapaces para su debida atención, o a cualquier otra persona, cuando de los casos en que intervenga se desprenda que es necesaria su atención;
+
+XI. Supervisar el correcto funcionamiento de las Unidades de Investigación;
+
+XII. Aplicar los métodos y lineamientos establecidos por el Subprocurador Especializado en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal;
+
+XIII. Dirigir y vigilar las acciones requeridas para la representación de la Procuraduría frente a los órganos de control constitucional en los términos previstos por la Ley, este Reglamento y demás disposiciones legalmente aplicables;
+
+XIV. Tener a su cargo la actuación procesal del Ministerio Público en los procesos penales que son de su competencia;
+
+XV. Coordinar y vigilar la ejecución de los mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento, y
+
+XVI. Las demás que le encomienden el Procurador General de Justicia y el Subprocurador Especializado en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, o le otorguen la Ley, este Reglamento y las demás disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 46 Bis 11.
+
+De la Dirección de la Unidad de Análisis de Contexto
+
+La Dirección de la Unidad de Análisis de Contexto dependiente de la Fiscalía Especializada en Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, y (sic) es la unidad responsable de llevar a cabo el análisis de información relativa a dichos delitos a través de las siguientes atribuciones:
+
+I. Elaborar diagnósticos periódicos, que permitan conocer e identificar modos de operación, prácticas, patrones de criminalidad, estructuras delictivas y asociación de casos que permitan el diseño de acciones estratégicas para la investigación y persecución de los delitos de desaparición forzada de personas y desaparición cometida por particulares, y sobre la desaparición de personas;
+
+II. Elaborar diagnósticos periódicos que permitan conocer la existencia de características y patrones de comisión de los delitos de desaparición forzada de personas y desaparición cometida por particulares, así como de la desaparición de personas, ello atendiendo el principio de enfoque diferenciado;
+
+III. Suministrar, sistematizar, analizar y actualizar la información de hechos y datos sobre la desaparición o no localización de personas, así como la información relativa a los delitos de desaparición forzada de personas y desaparición cometida por particulares, para lo cual deberá solicitar el apoyo respectivo a las unidades administrativas competentes;
+
+IV. Elaborar informes de análisis de contexto que incorpore a los procesos de investigación de los delitos de desaparición forzada de personas y desaparición cometida por particulares, elementos sociológicos, antropológicos y victimológicos que fortalezcan la investigación del hecho delictivo y la búsqueda de personas desaparecidas;
+
+V. Derivado de los análisis realizados, proponer al Agente del Ministerio Público que lleve a cabo la investigación de un hecho con características de los delitos de desaparición forzada de personas y desaparición cometida por particulares, las líneas de investigación que estime óptimas para el esclarecimiento de los hechos; y,
+
+VI. Las demás que le encomienden el Procurador General de Justicia y el Subprocurador Especializado en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, o le otorguen la Ley, este Reglamento y las demás disposiciones legalmente aplicables.
 
 ### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
@@ -2689,7 +2805,9 @@ I. Realizar entrevista inicial a las víctimas y ofendidos de delitos y testigos
 
 II. Llevar el registro de los casos iniciados, así como de su seguimiento y resolución;
 
-III. Proporcionar asesoría jurídica a las víctimas y ofendidos de delitos y testigos en todas las etapas del proceso penal;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+III. Orientar jurídicamente, por sí o a través del personal jurídico de la Dirección, a las víctimas u ofendidos de delitos y testigos, informándoles de todas las etapas del proceso penal y canalizándolos a la Comisión Ejecutiva Estatal de Atención a Víctimas, para que por conducto de sus asesores jurídicos se les represente jurídicamente dentro del proceso penal;
 
 IV. Gestionar la atención psicológica de urgencia para las víctimas y ofendidos de delitos y testigos;
 
@@ -3172,3 +3290,15 @@ CUARTO. Mientras en la Procuraduría General de Justicia del Estado de Nuevo Le�
 El Secretario Técnico del Procurador fungirá como Secretario Técnico del actual Consejo Consultivo Ciudadano.
 
 QUINTO. Cualquier disposición general que haga alusión a las unidades administrativas desaparecidas o escindidas mediante este Decreto, se entenderá referida a las unidades administrativas a las que específicamente se les asignaron las competencias de aquéllas.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Procurador General de Justicia del Estado deberá presentar al Titular del Poder Ejecutivo del Estado la propuesta de nombramiento del Subprocurador Especializado en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, dentro de un plazo de quince días a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Dentro del plazo de treinta días posteriores al nombramiento del Titular de la Subprocuraduría Especializada en los Delitos de Desaparición Forzada de Personas y Desaparición cometida por Particulares, deberá comisionarse a ésta al personal sustantivo ministerial, policial, pericial y de apoyo psicosocial que resulte necesario para el cumplimiento de sus objetivos, debiendo procederse a su inmediata especialización, capacitación y actualización.
+
+CUARTO. Los casos que actualmente se estén tramitando ante las Agencias del Ministerio Público o Unidades de Investigación de la Subprocuraduría del Ministerio Público, y estén relacionados con los delitos a que se contrae este Decreto, continuarán tramitándose por conducto de aquella, aplicándose en lo conducente las disposiciones reglamentarias que estaban en vigor a su inicio.
