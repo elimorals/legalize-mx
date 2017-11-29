@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2017-10-17"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 17 DE OCTUBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 250 PUBLICADO EN LA G.G. DE 12 DE OCTUBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1479,21 +1477,33 @@ El ejercicio de la regulación, control y fomento sanitarios, con funciones de a
 
 5. Bis.- (DEROGADO, G.G. 10 DE JULIO DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 2.
 
-6.- La dirección y administración del Instituto de Salud del Estado de México, estará a cargo de un consejo interno y de un director general.
+6.- La dirección y administración del Instituto de Salud del Estado de México estará a cargo de un Consejo Interno y de un Director General.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+El Consejo Interno del Instituto de Salud del Estado de México estará integrado por:
 
-El consejo interno se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y cuenta con ocho vocales que son los representantes de las secretarías de Finanzas, del Trabajo, de Educación, de Desarrollo Urbano, de Desarrollo Agropecuario, de Medio Ambiente, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
+I. Un Presidente, quien será la o el Titular de la Secretaría de Salud.
 
-(REFORMADO, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
+II. Un Secretario, quien será designado por el Consejo Interno a propuesta de su Presidente.
+
+III. Un Comisario, quien será el representante de la Secretaría de la Contraloría.
+
+IV. Ocho vocales que son los representantes de las secretarías de Finanzas, del Trabajo, de Educación, de Desarrollo Urbano y Metropolitano, de Desarrollo Agropecuario, del Medio Ambiente, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
+
+Por cada uno de los integrantes, el Consejo Interno aprobará el nombramiento de un suplente quien será propuesto por el propietario.
+
+Los miembros del Consejo Interno tendrán derecho a voz y voto en las sesiones que celebren, con excepción del Secretario y Comisario quienes sólo tendrán derecho de voz.
+
+El desempeño de los miembros del Consejo Interno será honorífico.
 
 El director general será nombrado por el Gobernador del Estado y deberá ser preferentemente ciudadano mexiquense y con experiencia en materias de salud pública y administración de servicios de salud; médico cirujano; de reconocida calidad moral, buena conducta, y honorabilidad manifiesta.
 
-La organización y funcionamiento del Instituto se regirá por el reglamento interno que expida el consejo interno.
+El nombramiento del director general podrá recaer en la o el Titular de la Secretaría de Salud, sin que exista doble remuneración.
+
+La organización y funcionamiento del Instituto se regirá por el Reglamento Interno que expida el Consejo Interno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
@@ -2849,7 +2859,7 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-49 Septies.- Para efectos del presente Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3251,7 +3261,7 @@ III. Cuando después de la reapertura de un establecimiento, local, fábrica, co
 
 IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
 
-V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud;
+V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud; y
 
 VI. Reincidencia por tercera ocasión.
 
@@ -11911,9 +11921,9 @@ V. Establecer las políticas y lineamientos de los servicios de informática par
 
 VI. Ser el interlocutor con las autoridades federales y municipales en materia de información e investigación geográfica, estadística y catastral;
 
-VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipales, en las materias de su competencia;
+VII. Establecer la coordinación de las dependencias y entidades de la administración pública en los ámbitos federal, estatal y municipal, en las materias de su competencia;
 
-VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipal, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
+VIII. Coordinar las actividades de las dependencias y entidades de los gobiernos estatal y municipales, en apoyo a los trabajos que las autoridades federales realicen en el Estado de México sobre la materia;
 
 IX. Integrar y custodiar el acervo informativo y de investigaciones geográficas, estadísticas y catastrales del Estado de México;
 
@@ -13617,7 +13627,7 @@ Las autorizaciones que correspondan a la publicidad exterior que se pretenda ins
 
 ###### Artículo 17.
 
-25 Bis.- El responsable de un inmueble que instale o permita la instalación de estructuras con fines publicitarios, sin la autorización o permiso correspondiente y demás requisitos exigidos por las disposiciones legales, incluido el dictamen de protección civil, será sancionado en términos de lo dispuesto por el Titulo Quinto de este Libro.
+25 Bis.- El responsable de un inmueble que instale o permita la instalación de estructuras con fines publicitarios, sin la autorización o permiso correspondiente y demás requisitos exigidos por las disposiciones legales, incluido el dictamen de protección civil, será sancionado en términos de lo dispuesto por el Título Quinto de este Libro.
 
 Los Municipios ordenarán los trabajos de retiro de tales instalaciones publicitarias a costa del propietario, de forma independiente a las sanciones que resulten aplicables.
 
@@ -18854,3 +18864,15 @@ G.G. 12 DE OCTUBRE DE 2017.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 256.- POR EL QUE SE REFORMA EL ARTÍCULO 2.6 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Consejo Interno del Instituto de Salud del Estado de México deberá realizar las adecuaciones a su Reglamento Interno en un plazo no mayor a treinta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
