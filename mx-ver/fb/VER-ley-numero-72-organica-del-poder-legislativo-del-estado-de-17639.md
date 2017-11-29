@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2017-11-16"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -1297,6 +1297,90 @@ Para el correcto monitoreo y evaluación del trabajo realizado por cada legislad
 
 Para garantizar la participación directa de los ciudadanos en el proceso legislativo, a partir de la interacción con el Congreso del Estado sobre temas de su interés, se crea el Proyecto Ciudadano. Esta herramienta digital, en el portal oficial del Congreso del Estado, será la plataforma a partir de la cual el ciudadano podrá proponer, a comisiones o a legisladores en particular, a través de encuestas, foros de consulta y un buzón de sugerencias, de manera periódica, temas sobre los cuales legislar.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+## TÍTULO SEXTO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+### CAPÍTULO ÚNICO. DE LA CONTRALORÍA INTERNA
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 67.
+
+La Contraloría Interna será el órgano técnico administrativo con autonomía técnica y de gestión, dependiente de la Junta de Coordinación Política del Congreso del Estado, que tiene por objeto verificar el desempeño, vigilancia y supervisión del ejercicio presupuestal, el cual ejercerá funciones de auditoría interna, control y evaluación, así como el cumplimiento de la normatividad, políticas y disposiciones administrativas aplicables en la administración de los recursos humanos, materiales y financieros que garanticen el adecuado uso del presupuesto asignado; todo lo anterior lo ejercerá con funciones de auditoría interna, control y evaluación, desarrollo y modernización administrativa y sustanciará los procedimientos de responsabilidad que en esa materia procedan en contra de los servidores públicos del Congreso del Estado; y tendrá las atribuciones siguientes:
+
+I. Proponer y aplicar las normas y criterios en materia de control, fiscalización y evaluación que deban observar los grupos y representaciones legislativas, las unidades administrativas del Congreso y todos aquellos que ejerzan recursos del presupuesto de egresos del Poder Legislativo;
+
+II. Diseñar, implantar y supervisar el sistema de control y evaluación de las unidades administrativas del Congreso del Estado, orientadas a mejorar los procedimientos administrativos;
+
+III. Vigilar que las unidades administrativas cumplan con las políticas y programas establecidos por la Junta de Coordinación Política y la Comisión Permanente de Administración y Presupuesto;
+
+IV. Supervisar los procedimientos, actos y contratos de adquisición de bienes muebles y contratación de servicios que se lleven a cabo, de conformidad con la ley de la materia;
+
+V. Presentar anualmente a la Junta de Coordinación Política un programa para el cumplimiento de sus atribuciones y un informe de actividades y trimestralmente informes de balances, así como uno anual, de igual forma aquellos informes que sean requeridos en cualquier momento;
+
+VI. Proponer la adopción de recomendaciones y de medidas preventivas o correctivas que estime convenientes para el desarrollo administrativo del Poder Legislativo y darles seguimiento;
+
+VII. Recibir y registrar, de acuerdo como corresponda el caso, las declaraciones patrimoniales y de intereses, de los servidores públicos del Poder Legislativo, así también, podrá requerir información adicional, realizando las investigaciones correspondientes, conforme a la ley aplicable;
+
+VIII. Supervisar y coordinar los procesos de entrega y recepción de los servidores públicos de las áreas administrativas del Poder Legislativo, para verificar que se realicen conforme a las normas y lineamientos aplicables;
+
+IX. Emitir las disposiciones, normas y lineamientos en el ejercicio de las atribuciones que, conforme a las leyes, competan a la Contraloría Interna, previa autorización de la Junta de Coordinación Política;
+
+X. Auxiliar a las unidades administrativas del Congreso, en la elaboración y revisión de los manuales de organización y procedimientos, promoviendo y supervisando su difusión, aplicación y actualización, con énfasis en el aspecto preventivo;
+
+XI. Vigilar que periódicamente, se realice y actualice el inventario de bienes muebles e inmuebles del Poder Legislativo y establecer medidas y criterios para su control, poniéndolo a consideración de la Junta de Coordinación Política;
+
+XII. Participar dentro del Sistema Estatal Anticorrupción del Estado, en las acciones de apoyo que requiera el Sistema Estatal de Fiscalización para la implementación de mejoras para la fiscalización del Poder Legislativo;
+
+XIII. Recibir las denuncias y quejas en contra de los servidores públicos del Poder Legislativo por hechos probablemente constitutivos de faltas administrativas o de particulares por conductas sancionables en términos de la ley que corresponda; para el caso de las denuncias recibidas en contra de servidores públicos de los demás entes públicos, será remitida al órgano interno de control para que realice la investigación, substanciación y sanción correspondiente;
+
+XIV. Iniciar, investigar, substanciar y resolver los procedimientos de responsabilidad administrativa, por actos u omisiones de los servidores públicos que hayan sido calificados como faltas administrativas no graves, en términos de la ley de la materia, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean competencia del Tribunal Estatal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+XV. Resolver el recurso de revocación que interpongan los servidores públicos del Poder Legislativo respecto de las resoluciones por las que se les impongan sanciones administrativas, y dar seguimiento al cumplimiento de las resoluciones dictadas por los órganos jurisdiccionales; y
+
+XVI. Las demás que expresamente le confieran los ordenamientos legales, las disposiciones reglamentarias, y las que determine el Pleno.
+
+El titular de la Contraloría Interna será designado conforme al procedimiento que para tal efecto establezca el Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, previa convocatoria pública que éste emita.
+
+A la Contraloría Interna estarán adscritos los Departamentos de Organización y Métodos, y de Responsabilidades Administrativas de Servidores Públicos, tendrán las funciones que derivan dentro del ámbito de su competencia y les encomiende su titular.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 68.
+
+Para ocupar el cargo de contralor interno del Poder Legislativo se requiere:
+
+I. Ser veracruzano, en pleno goce de sus derechos civiles y políticos;
+
+II. Contar con título profesional legalmente expedido y cédula profesional con una antigüedad mínima de cinco años al día de su designación, en alguna de las áreas económicas, contables, jurídicas o administrativas y contar con experiencia profesional de, cuando menos, cinco años en actividades relacionadas con el control o la fiscalización de recursos públicos;
+
+III. No haber sido condenado por delito intencional que amerite pena privativa de libertad; y
+
+IV. No haber sido miembro de la dirigencia de algún partido político ni candidato a cargo de elección popular, en el año anterior al nombramiento.
+
+El contralor interno durará en el cargo cinco años y no podrá ser ratificado por el período inmediato, ejercerá sus funciones con autonomía técnica y de gestión.
+
+> <small>(ADICIONADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 69.
+
+Con el voto de las dos terceras partes de sus miembros presentes, la remoción del titular de la Contraloría Interna del Poder Legislativo, procederá en los siguientes casos:
+
+I. Incumplir la obligación de determinar los daños y perjuicios y de promover el fincamiento de sanciones en los casos que establece esta Ley;
+
+II. Sustraer, destruir, ocultar o utilizar en beneficio propio o de terceros, indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia;
+
+III. Conducirse con parcialidad en los procedimientos de control interno, así como en el cumplimiento de las disposiciones de la presente Ley;
+
+IV. Incurrir en abandono del cargo por un período de 5 días;
+
+V. Incurrir en alguna de las infracciones mencionadas en la presente Ley o su Reglamento.
+
+A solicitud de algún diputado, la Junta de Coordinación Política resolverá sobre la aplicación de las sanciones al contralor interno, la remoción requerirá del voto de las dos terceras partes de los miembros presentes del Pleno.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente ley deberá publicarse en la Gaceta Oficial del Estado y entrará en vigor el día 5 de noviembre de este año, con arreglo a lo dispuesto por su artículo tercero transitorio.
@@ -1669,8 +1753,20 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 16 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 360 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 360 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 345 QUE ADICIONA EL TÍTULO SEXTO, CON UN CAPÍTULO ÚNICO, DENOMINADO "DE LA CONTRALORÍA INTERNA", LOS ARTÍCULOS 67, 68 Y 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y REFORMA EL ARTÍCULO 7 EN SU FRACCIÓN III, INCISO A), ASÍ COMO SU FRACCIÓN IV, INCISO B); ADICIONA LA SECCIÓN DÉCIMA PRIMERA, CON SU NOMBRE Y LOS ARTÍCULOS 31 TER, QUATER Y QUINQUIES; SE ADICIONA UNA FRACCIÓN A LOS ARTÍCULOS 2 Y 4, Y SE DEROGAN LOS ARTÍCULOS 43 Y 58 DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO".]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Los Departamentos de Organización y Métodos, y de Responsabilidades Administrativas de Servidores Públicos pasarán a formar parte de la estructura organizacional de la Contraloría Interna, con el personal y recursos materiales a ellos adscritos.
+
+Tercero. Dentro de los sesenta días hábiles siguientes al de la entrada en vigor del presente Decreto, se deberá iniciar el procedimiento para la designación del contralor interno, mediante el mecanismo que para tal efecto establezca el Congreso del Estado a través de la Junta de Coordinación Política.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
