@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-deporte-del-estado-de-queretaro-69093"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2017-09-05"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 5 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -123,6 +121,10 @@ XVIII. USEBEQ: a la Unidad de Servicios para la Educación Básica del Estado de
 
 El Sistema estará constituido por el conjunto de las dependencias, instituciones, organizaciones y asociaciones públicas y privadas, que tienen como objetivo la promoción, el fomento, el desarrollo, la enseñanza y la práctica del deporte en el Estado y establecerá, de manera coordinada, los procedimientos que faciliten y agilicen dichas actividades, así como el aprovechamiento eficiente de los recursos humanos y materiales generados para el desarrollo del deporte.
 
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+La coordinación del Sistema estará a cargo del organismo público descentralizado denominado INDEREQ.
+
 ###### Artículo 4.
 
 Son integrantes del Sistema:
@@ -205,33 +207,253 @@ Los organismos responsables de la actividad deportiva a que se refiere la presen
 
 ### Capítulo Tercero. Del Instituto del Deporte y Recreación del Estado de Querétaro
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 13.
 
-El INDEREQ es un organismo público desconcentrado de la Secretaría de Educación del Estado, el cual ejercerá las facultades normativas y operativas que le otorgan la presente Ley y demás disposiciones jurídicas en materia de deporte en la Entidad.
+El INDEREQ es el organismo público descentralizado del Poder Ejecutivo del Estado, cuyo objeto será desempeñarse como el órgano rector de la política estatal en materia de deporte y recreación de conformidad con la presente Ley y demás ordenamientos aplicables.
+
+El INDEREQ tendrá su domicilio legal en la ciudad de Santiago de Querétaro, Qro.
+
+Para su funcionamiento, operación, desarrollo, vigilancia y control, el INDEREQ se sujetará a lo establecido en la Ley de la Administración Pública Paraestatal del Estado de Querétaro y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 13 Bis.
+
+Corresponden al INDEREQ, las atribuciones siguientes:
+
+I. Formular, proponer y ejecutar políticas que fomenten y desarrollen la práctica del deporte y la recreación en el Estado;
+
+II. Promover y apoyar la celebración de eventos deportivos y actividades recreativas en el Estado, en coordinación con los organismos e instituciones de los sectores público, privado y social de la Entidad;
+
+III. Administrar su patrimonio;
+
+IV. Fungir como enlace y celebrar convenios con organismos deportivos nacionales, con los de otras entidades federativas, con los municipios y con los organismos internacionales que corresponda;
+
+V. Coordinar la participación de las representaciones estatales deportivas de aficionados, para torneos regionales o nacionales, previniendo también el ámbito recreativo;
+
+VI. Promover y realizar investigaciones en las ciencias y técnicas que inciden en los campos del deporte y la recreación, con especial énfasis en las áreas tecnológicas, de medicina deportiva y programas recreativos divulgando los resultados obtenidos;
+
+VII. Propiciar desde el sector educativo, una mayor actividad participativa de los estudiantes en los programas que realice el Instituto;
+
+VIII. Dirigir, administrar, regular y actualizar el Registro Estatal del Deporte;
+
+IX. Otorgar los estímulos a que se refiere esta Ley;
+
+X. Administrar las instalaciones deportivas y recreativas que formen parte de su patrimonio, garantizando su utilización y mantenimiento;
+
+XI. Imponer las sanciones en el ámbito de su competencia, a que se refiere esta Ley, por conducto de su Director General y/o de quien establezca su Reglamento Interior;
+
+XII. Formular opiniones tendientes a modificar o mejorar la infraestructura deportiva del Estado, y
+
+XIII. Las demás que le confieran la presente Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 13 Ter.
+
+El INDEREQ se integrará por:
+
+I. Un órgano de gobierno, que será la Junta Directiva;
+
+II. Un Director General;
+
+III. Un órgano interno de control, y
+
+IV. Las demás unidades administrativas que establezca su Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 13 Quáter.
+
+La Junta Directiva estará integrada por:
+
+I. Un Presidente, cuyo titular será el Gobernador del Estado o el servidor público que éste determine, en adelante el Presidente;
+
+II. Un Secretario Técnico que será el Director General del INDEREQ;
+
+III. Seis Vocales, que serán:
+
+a) Un representante de la Secretaría de Educación;
+
+b) Un representante de la Secretaría de la Juventud;
+
+c) Un representante de la Secretaría de Desarrollo Social;
+
+d) Un representante de la Secretaría de Cultura;
+
+e) Un representante de la Secretaría de la Contraloría, y
+
+f) Un representante de la Secretaría de Salud.
+
+El cargo de miembro de la Junta Directiva será honorífico, por lo que no se recibirá retribución alguna por su desempeño.
+
+Los integrantes de la Junta Directiva que se refieren en la fracción III de este artículo, podrán ser suplidos por los servidores públicos que al efecto designen, notificando por escrito al Director General.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 13 Quinquies.
+
+La Junta Directiva se reunirá de manera ordinaria cada seis meses y, extraordinariamente, cuando así sea convocada por el Presidente por sí mismo o a través del Director General.
+
+La Junta Directiva sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, dentro de los cuales debe estar el Presidente del mismo. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad en caso de igualdad de votos.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 13 Sexies.
+
+Corresponden al Presidente, las atribuciones siguientes:
+
+I. Autorizar el orden del día de las sesiones que celebre la Junta Directiva;
+
+II. Convocar, por conducto del Secretario Técnico, a las sesiones;
+
+III. Proponer el calendario de sesiones de la Junta Directiva;
+
+IV. Instalar, presidir y levantar las sesiones;
+
+V. Dirigir y moderar los debates;
+
+VI. Firmar las actas de las sesiones; y
+
+VII. Las demás que señalen la presente Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 13 Septies.
+
+El Secretario Técnico tendrá las siguientes atribuciones:
+
+I. Hacer llegar a los miembros de la Junta Directiva, con una anticipación no menor de cinco días hábiles, la convocatoria que contendrá el orden del día y el soporte documental de los asuntos que deban conocer, tratándose de sesiones ordinarias.
+
+Las sesiones extraordinarias serán convocadas con dos días hábiles de anticipación y en ellas se tratará sólo el asunto o asuntos para los que fueron expresamente convocadas;
+
+La convocatoria que se realice para una segunda sesión de la Junta Directiva por falta de quórum, será con un día hábil de anticipación a su celebración.
+
+II. Pasar lista de asistencia y verificar la existencia de quórum legal;
+
+III. Levantar las actas de las sesiones e integrarlas al registro autorizado;
+
+IV. Firmar las actas de las sesiones y recabar las relativas de los asistentes;
+
+V. Llevar el seguimiento del cumplimiento de los acuerdos de la Junta Directiva;
+
+VI. Certificar los documentos de la Junta Directiva;
+
+VII. Llevar el archivo de los acuerdos y demás documentos de la Junta Directiva, y
+
+VIII. Las demás que señalen la presente Ley, otros ordenamientos aplicables y aquellas que le encomiende la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 13 Octies.
+
+Corresponden a la Junta Directiva, las atribuciones siguientes:
+
+I. Autorizar el presupuesto anual de ingresos y egresos;
+
+II. Aprobar el proyecto de Reglamento Interior del INDEREQ y turnarlo por conducto del coordinador de sector al Secretario de Gobierno del Poder Ejecutivo del Estado para su trámite ante el Gobernador del Estado;
+
+III. Aprobar los reglamentos y manuales administrativos y operativos del organismo, así como las modificaciones que procedan;
+
+IV. Determinar los programas que permitan el cumplimiento del objeto del INDEREQ;
+
+V. Promover y en su caso aprobar la obtención de recursos, para lo cual podrán diseñar y poner en marcha programas específicos de captación de recursos o de proyectos determinados;
+
+VI. Aprobar los estados financieros y balances ordinarios y extraordinarios, así como los informes generales y especiales que presente el Director General del INDEREQ y autorizar su publicación;
+
+VII. Dictar normas y establecer criterios que deban orientar las actividades del INDEREQ;
+
+VIII. Emitir las políticas y lineamientos generales que regulen los contratos y convenios y demás actos jurídicos que sean necesarios para el cumplimiento de los objetivos del INDEREQ;
+
+IX. Aprobar a propuesta del Director General, la coordinación de los proyectos y programas del INDEREQ con los de las Instituciones, organizaciones y asociaciones públicas y privadas que tengan objetivos similares, sujetándose al marco normativo aplicable;
+
+X. Fijar y ajustar las tarifas de los servicios que preste el INDEREQ, con excepción de aquellas que se determinen en otras leyes o reglamentos o por acuerdo del Gobernador del Estado;
+
+XI. Aprobar la concertación de préstamos para el funcionamiento del INDEREQ, observando los lineamientos que en materia de deuda pública emitan las autoridades correspondientes, conforme a la Ley de Deuda Pública del Estado de Querétaro;
+
+XII. Expedir de acuerdo con las disposiciones legales aplicables, las bases generales conforme a las cuales, cuando sea necesario, el Director General pueda disponer de activos fijos de la entidad, que no correspondan a las operaciones propias del objeto del INDEREQ o cuando dejen de ser de utilidad para el mismo;
+
+XIII. Aprobar la constitución de reservas y la aplicación de las utilidades, en espera del destino que determine el Gobernador del Estado, a través de la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado;
+
+XIV. Aprobar de conformidad con las disposiciones que, en materia de gasto, emitan las autoridades correspondientes, el tabulador de sueldos aplicable a los trabajadores del INDEREQ, y concederles licencias;
+
+XV. Aprobar la integración de comités de trabajo que se estimen pertinentes, para el mejor funcionamiento del INDEREQ o se encarguen de asuntos específicos de la misma, y
+
+XVI. Las demás que le confieran esta Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 13 Nonies.
+
+El Director General será designado y removido libremente por el Gobernador del Estado y tendrá las siguientes atribuciones:
+
+I. Ejecutar los acuerdos aprobados por la Junta Directiva;
+
+II. Ejercer la representación legal, administración y conducción del INDEREQ, de conformidad con los ordenamientos aplicables;
+
+III. Velar por la buena marcha del INDEREQ y promover las medidas administrativas, contables, organizacionales, financieras y demás que correspondan, con sujeción a los ordenamientos aplicables;
+
+IV. Vigilar el cumplimiento de los ordenamientos legales, reglamentarios y administrativos para la organización, funcionamiento y aplicación de recursos del INDEREQ;
+
+V. Formular el proyecto de presupuesto anual del INDEREQ y someterlo a la aprobación de la Junta Directiva, enviarlo a la Secretaría de Planeación y Finanzas del Poder Ejecutivo del Estado, para que se considere en el presupuesto de egresos del Estado, que el Gobernador del Estado propone a la Legislatura;
+
+VI. Elaborar anualmente los programas necesarios para la operatividad del INDEREQ y someterlos a la aprobación de la Junta Directiva;
+
+VII. Ejercer el presupuesto y ejecutar los programas aprobados por la Junta Directiva, de conformidad con la normatividad aplicable;
+
+VIII. Delegar cualquiera de sus atribuciones en los servidores públicos de nivel jerárquico inmediato inferior con que cuente el INDEREQ, con excepción de aquellas que, por su propia naturaleza, por disposición legal o por acuerdo de la Junta Directiva, sean indelegables;
+
+IX. Designar y remover a los servidores públicos del INDEREQ, cuyo nombramiento o remoción no corresponda efectuar a la Junta Directiva;
+
+X. Elaborar los proyectos de reglamentos del INDEREQ, que resulten necesarios para el cumplimiento de su objeto, y proponerlos a la Junta Directiva;
+
+XI. Elaborar los manuales de organización y procedimientos que resulten necesarios para el cumplimiento de su objeto, y presentarlos a la Junta Directiva, para su aprobación, conforme a los ordenamientos aplicables;
+
+XII. Conceder licencias al personal del INDEREQ, de conformidad con la legislación aplicable;
+
+XIII. Proporcionar la información y documentación que le solicite el Órgano Interno de Control del propio organismo y otras instancias fiscalizadoras;
+
+XIV. Proporcionar la información, los datos o la cooperación técnica que le sean requeridas por otras dependencias o entidades de la Administración Pública federal, estatal o municipal, con sujeción a los ordenamientos aplicables, y
+
+XV. Las demás que señalen la presente Ley, otros ordenamientos aplicables y aquellas que le encomiende la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 13 Decies.
+
+Al frente del Órgano Interno de Control del INDEREQ habrá un titular, quien será designado por el Secretario de la Contraloría del Poder Ejecutivo del Estado en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro. Para el ejercicio de sus atribuciones, el titular del Órgano Interno de Control se auxiliará por los titulares de Auditoría, Atención a Denuncias e Investigaciones y Responsabilidades Administrativas.
+
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica del Poder Ejecutivo el (sic) Estado de Querétaro, el Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 13 Undecies. El patrimonio del INDEREQ, estará integrado por:
+
+I. Los recursos que anualmente le sean asignados en el presupuesto de egresos del Estado;
+
+II. Los bienes muebles e inmuebles, obras, servicios, derechos y obligaciones que le transfiera el Poder Ejecutivo del Estado;
+
+III. Los subsidios o aportaciones de cualquier índole, que en su favor hagan el Gobierno Federal, el Poder Ejecutivo del Estado y los Municipios;
+
+IV. Los fondos obtenidos para el financiamiento de programas específicos;
+
+V. Los recursos que se obtengan por la ejecución de los programas y prestación de sus servicios, por concepto de celebración de convenios, prestación de asesoría y servicios a los municipios u otras entidades públicas o privadas, torneos, competencias, eventos, congresos, simposios, seminarios, conferencias, publicaciones y demás actividades relacionadas con el objeto de la presente Ley;
+
+VI. Las acciones, derechos, productos, así como obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier otro título legal;
+
+VII. Los derivados de legados, donaciones y asignaciones otorgadas en su favor, así como de los fideicomisos en los que se le señale como fideicomisario, y
+
+VIII. Los demás bienes, servicios, derechos y aprovechamientos que le fijen los ordenamientos aplicables o que provengan de otros fondos o aportaciones.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 13 Duodecies. Las relaciones de trabajo entre el INDEREQ y su personal se regirán por la Ley de los Trabajadores del Estado de Querétaro y demás disposiciones aplicables.
 
 ###### Artículo 14.
 
-El INDEREQ tendrá las atribuciones y obligaciones siguientes:
-
-I. Promover la práctica del deporte y la recreación en todas sus formas, de acuerdo con las políticas y programas establecidos;
-
-II. Promover y apoyar las celebraciones de eventos deportivos y actividades recreativas en el Estado, en coordinación de los integrantes de los organismos e instituciones de los sectores público, privado y social de la Entidad;
-
-III. Mantener contacto y celebrar convenios con los organismos deportivos nacionales, con los de otras entidades federativas, con los Ayuntamientos y con los organismos internacionales que corresponda;
-
-IV. Coordinar la participación de las representaciones estatales deportivas de aficionados, para torneos regionales o nacionales, previniendo también el ámbito recreativo;
-
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
-
-V. Promover y realizar investigaciones en las ciencias y técnicas que inciden en los campos del deporte y la recreación, con especial énfasis en las áreas tecnológicas, de medicina deportiva y programas recreativos, divulgando los resultados obtenidos;
-
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2017)</small>
-
-VI. Propiciar desde el sector educativo, una mayor actividad participativa de los estudiantes en los programas que realice el Instituto; y
-
-> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
-
-VII. Promover y apoyar la práctica del deporte considerando el pleno reconocimiento a la equidad e igualdad hacía los deportistas con discapacidad.
+(DEROGADO, P.O. 29 DE NOVIEMBRE DE 2017)
 
 ### Capítulo Cuarto. Del Programa Estatal del Deporte
 
@@ -499,23 +721,15 @@ VI. Colaborar activamente en la localización e identificación de los infractor
 
 Las autoridades relacionadas con la autorización y desarrollo de eventos o competencias masivas deportivas, podrán restringir el uso de espacios, acceso o introducción de elementos u objetos que puedan causar daño o riesgo entre los asistentes al evento, así como ordenar el desalojo o suspensión del evento, cuando exista justificación suficiente para ello.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 Capítulo Decimoprimero
 
 Del régimen patrimonial y financiero del Sistema
 
 ###### Artículo 31.
 
-El INDEREQ como órgano rector en la materia, en uso de sus facultades y atendiendo al instrumento que lo rige, administrará el patrimonio asignado a la promoción y la práctica deportiva, el cual estará constituido por:
-
-I. Los bienes muebles e inmuebles y los recursos presupuestales que el Estado y la Federación le asignen;
-
-II. Los subsidios que le sean asignados;
-
-III. Las aportaciones, donaciones, herencias, legados y fideicomisos que se constituyeran en su favor, a través de la Secretaría de Educación del Estado;
-
-IV. Los ingresos que obtenga por la prestación de servicios; y
-
-V. Cualquier otra percepción que en beneficio del Sistema fuese otorgada.
+(DEROGADO, P.O. 29 DE NOVIEMBRE DE 2017)
 
 Capítulo Decimosegundo
 
@@ -636,3 +850,21 @@ P.O. 3 DE FEBRERO DE 2017.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY POR LA QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+Artículo Tercero. Se abroga el Decreto por el que se crea el Instituto del Deporte y la Recreación del Estado de Querétaro (INDEREQ), publicado en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el 19 de enero de 1989.
+
+Artículo Cuarto. Los recursos humanos, materiales y financieros con que cuenta el organismo desconcentrado Instituto del Deporte y la Recreación del Estado de Querétaro, formarán parte del organismo público descentralizado denominado INDEREQ. Para efectos de lo anterior, el INDEREQ deberá obtener los registros fiscales y administrativos que procedan.
+
+El Poder Ejecutivo del Estado, a través de sus dependencias, continuará administrando los referidos recursos, hasta el 31 de diciembre del presente ejercicio fiscal.
+
+Artículo Quinto. El organismo público descentralizado denominado INDEREQ, cumplirá con las obligaciones que como sujeto le señalan las disposiciones aplicables, a partir del ejercicio fiscal 2018, lo anterior sin perjuicio de que pueda obtener los registros fiscales y administrativos a que se refiere el artículo anterior, una vez que cobre vigencia la presente Ley en términos de su Artículo Primero Transitorio.
+
+Artículo Sexto. Los trabajadores del Instituto del Deporte y la Recreación del Estado de Querétaro como organismo desconcentrado, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado INDEREQ, conservando sus derechos laborales de conformidad con las disposiciones aplicables.
