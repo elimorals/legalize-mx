@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-09-11"
+last_updated: "2017-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 11 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE NOVIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -13148,49 +13148,37 @@ G) Dirección General de Participación Ciudadana; y
 
 H) Dirección General de Colonia y Tenencia de la Tierra.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO PUBLICADO EN LA G. O. DE 31 DE MARZO DE 2010, SE MODIFICA LA ESTRUCTURA DE LA PRESENTE FRACCIÓN, PARA QUEDAR CONFORMADA CON LOS INCISOS DEL A) AL J).</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN LA G. O. DE 29 DE NOVIEMBRE DE 2017, SE MODIFICA LA ESTRUCTURA DE LA PRESENTE FRACCIÓN, PARA QUEDAR CONFORMADA CON LOS INCISOS DEL A) AL D).]</small>
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 XI. Al Órgano Político-Administrativo en Miguel Hidalgo;
 
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-A) Dirección General de Servicios Jurídicos y Gobierno;
+A) Dirección General de Servicios Jurídicos y Gobierno.
 
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+1. Dirección Ejecutiva Jurídica.
 
-B) Dirección General de Administración Delegacional;
+2. Dirección Ejecutiva de Registros y Autorizaciones.
 
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-C) Jefatura de la Oficina del Jefe Delegacional;
+B) Dirección General de Administración Delegacional.
 
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+1. Dirección Ejecutiva de Obras Públicas.
 
-D) Dirección Ejecutiva de Servicios Internos;
+2. Dirección Ejecutiva de Servicios Urbanos.
 
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+3. Dirección Ejecutiva de Desarrollo Social.
 
-E) Dirección Ejecutiva Jurídica;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+C) Jefatura de Oficina de la Jefatura Delegacional.
 
-F) Dirección Ejecutiva de Registros y Autorizaciones;
+> <small>(REFORMADO, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
-
-G) Dirección Ejecutiva de Obras Públicas;
-
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
-
-H) Dirección Ejecutiva de Servicios Urbanos, y
-
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
-
-I) Dirección Ejecutiva de Desarrollo Social.
-
-J) (DEROGADO, G.O. 15 DE ENERO DE 2016)
+D) Dirección Ejecutiva de Servicios Internos.
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -16256,11 +16244,11 @@ XVI. Emitir su opinión respecto al control de las Zonificación en cuanto al us
 
 DE LAS ATRIBUCIONES ADICIONALES Y DE LAS DE CARACTER COMUN DE LAS DIRECCIONES GENERALES, DE LA JEFATURA DE LA OFICINA DEL JEFE DELEGACIONAL Y DE LAS DIRECCIONES EJECUTIVAS DEL ORGANO POLITICO-ADMINISTRATIVO EN MIGUEL HIDALGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 169.
 
-Son atribuciones comunes de las Direcciones Generales de Servicios Jurídicos y Gobierno, y de Administración Delegacional además de las contenidas en el artículo 123, así como de la Jefatura de la Oficina del Jefe Delegacional en Miguel Hidalgo, las siguientes:
+Son atribuciones comunes de las Direcciones Generales de Servicios Jurídicos y Gobierno, de Administración Delegacional, de la Jefatura de la Oficina de la Jefatura Delegacional y de la Dirección Ejecutiva de Servicios Internos del Órgano Político-Administrativo, además de las contenidas en el artículo 123, las siguientes:
 
 > <small>(REFORMADA, G.O. 31 DE MARZO DE 2010)</small>
 
@@ -16296,7 +16284,7 @@ VIII. Proponer el programa anual de honorarios correspondientes a su área, de c
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
-IX. Implementar en las Unidades Administrativas y en las Unidades Administrativas de Apoyo Técnico Operativo el “gobierno de datos abiertos”, a través de la digitalización y publicitación de los procedimientos, trámites y servicios a su cargo, de conformidad con los lineamientos que emita el titular del Órgano Político Administrativo.
+IX. Implementar en las Unidades Administrativas y en las Unidades Administrativas de Apoyo Técnico Operativo el "gobierno de datos abiertos", a través de la digitalización y publicitación de los procedimientos, trámites y servicios a su cargo, de conformidad con los lineamientos que emita el titular del Órgano Político Administrativo.
 
 > <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -16374,9 +16362,9 @@ XXXII. Coordinar y supervisar la emisión y notificación de las resoluciones de
 
 XXXIII. Coordinar y supervisar el funcionamiento del Sistema de Comercio en Vía Pública (SISCOVIP) a fin de verificar la recaudación proveniente del comercio en la vía pública que realizan los comerciantes instalados en la demarcación del Órgano Político Administrativo;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXXIV. Coordinar acciones con las Dependencias y Entidades de la Administración Pública del Distrito Federal, en materia de mercados púbicos y comercio en vía pública; conforme a la normatividad aplicable en la materia;
+XXXIV. Coordinar acciones con las dependencias y entidades de la administración pública del Distrito Federal, en materia de mercados públicos y comercio en vía pública; conforme a la normativa aplicable en la materia;
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -16482,9 +16470,9 @@ LIX. Promover la relación y la celebración de convenios con instituciones púb
 
 LX. Suplir en los términos de la fracción I del artículo 25 del presente Reglamento, las ausencias temporales del titular del Órgano Político Administrativo en Miguel Hidalgo, y
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-LXI. Las demás que de manera directa le asigne el titular del Órgano Político Administrativo, así como las que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
+LXI. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los (sic) que se establezcan en las disposiciones jurídicas vigentes.
 
 > <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -16496,7 +16484,9 @@ I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Adm
 
 II. Dirigir la prestación de los servicios de limpia en sus etapas de barrido de áreas comunes, vialidad y demás vías públicas, así como de recolección de residuos sólidos que se realicen por cuenta propia del Órgano Político Administrativo o a través de tercero;
 
-III. Llevar a cabo los operativos y acciones que resulten necesarios para la erradicación de tiraderos clandestinos de residuos sólidos;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+III. Llevar a cabo los operativos y acciones que resulten necesarios para retirar objetos que impidan o limiten el uso normal de la vía pública así como para la erradicación de tiraderos clandestinos de residuos sólidos;
 
 IV. Dirigir la prestación del servicio de alumbrado público en las vialidades secundarias así (sic) el mantenimiento de sus instalaciones en buen estado y funcionamiento, de conformidad con la normativa que al efecto expida la autoridad competente;
 
@@ -16538,7 +16528,9 @@ XXII. Coordinar y dirigir el desarrollo de métodos de acopio, almacenamiento y 
 
 XXIII. Coadyuvar con las Dependencias que resulten competentes, en las tareas de seguridad pública y protección civil en la Delegación;
 
-XXIV. Proponer, dirigir e impulsar los programas en materia de seguridad pública, prevención del delito, cultura de la legalidad, protección civil y salud a desarrollarse en la Delegación Miguel Hidalgo;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XXIV. Proponer, establecer, ejecutar y dirigir programas y acciones en materia de seguridad pública, prevención del delito, cultura de la legalidad y salud a desarrollarse en la Delegación Miguel Hidalgo;
 
 XXV. Proponer medidas y acciones necesarias con las autoridades del Distrito Federal y demás niveles de gobierno, para preservar la integridad de la ciudadanía, ante condiciones y circunstancias de seguridad pública y protección civil;
 
@@ -16672,37 +16664,65 @@ LVII. Implementar el sistema de gestión digital Delegacional, en términos de l
 
 LVIII. Suplir en los términos de la fracción I del artículo 25 del presente Reglamento, las ausencias temporales del titular del Órgano Político Administrativo, y
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-LIX. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
+LIX. Vigilar el cumplimiento de la Ley de Cultura Cívica del Distrito Federal en la demarcación y al efecto podrá coordinarse con otras instancias delegacionales y dependencias competentes;
 
-> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+LX. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los (sic) que se establezcan en las disposiciones jurídicas vigentes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 172.
 
-La Jefatura de la Oficina del Jefe Delegacional, tendrá las siguientes atribuciones:
+La Jefatura de Oficina de la Jefatura Delegacional, tendrá las siguientes atribuciones:
 
-I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas.
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
 II. Turnar y dar seguimiento a los acuerdos, instrucciones y peticiones del Jefe Delegacional;
 
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
 III. Dirigir y coordinar la integración de los informes y comparecencias del Jefe Delegacional, así como del Programa de Desarrollo Delegacional y del Programa de Gobierno;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
 IV. Establecer previo acuerdo con el Jefe Delegacional las políticas públicas en materia de sustentabilidad del Órgano Político Administrativo;
 
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
 V. Coordinar la realización, integración, revisión y análisis de los diversos estudios e investigaciones solicitados por el Jefe Delegacional;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
 VI. Establecer el registro, control, seguimiento, turno y despacho de la correspondencia que se reciba en el Órgano Político Administrativo;
 
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
 VII. Atender y canalizar a las Dependencias correspondientes las peticiones que no sean competencia del Gobierno Delegacional;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
 VIII. Elaborar y proponer al Jefe Delegacional el establecimiento de lineamientos para mejorar los flujos de trabajo en el Órgano Político Administrativo;
 
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
 IX. Coordinar la Oficina de Acceso a la Información Pública;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
 X. Coordinar la instalación y los trabajos del Comité de Transparencia;
 
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
 XI. Vigilar el cumplimiento de las acciones en materia de Acceso a la Información Pública y Protección de Datos Personales;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
 XII. Supervisar la atención hasta su desahogo, de los Recursos de Revisión interpuestos ante el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
 
@@ -16818,9 +16838,9 @@ XXXIX. Dirigir el Sistema de Gestión Digital Delegacional, en términos de la L
 
 XL. Suplir en los términos de la fracción I del artículo 25 del presente Reglamento, las ausencias temporales del titular del Órgano Político Administrativo, y
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XLI. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que establezcan las disposiciones jurídicas vigentes y los manuales administrativos.
+XLI. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que establezcan las disposiciones jurídicas vigentes.
 
 > <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -16848,7 +16868,9 @@ IX. Convocar y dirigir, de conformidad con la normatividad aplicable, los concur
 
 X. Autorizar previo acuerdo con el titular del Órgano Político-Administrativo, la adquisición de bienes, contratación de servicios y arrendamientos de bienes inmuebles, observando al efecto las disposiciones jurídicas y administrativas aplicables;
 
-XI. Observar y aplicar al interior del Órgano Político-Administrativo, las políticas en materia de desarrollo y administración del personal, de organización, de sistemas administrativos, de información y servicios generales, de conformidad con las disposiciones jurídicas aplicables y los lineamientos que emitan la Oficialía Mayor y la Contraloría General en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XI. Observar y aplicar al interior del Órgano Político-Administrativo, las políticas en materia de desarrollo y administración del personal, de sistemas administrativos, de información y servicios generales, de conformidad con las disposiciones jurídicas aplicables y los lineamientos que emitan la Oficialía Mayor y la Contraloría General en el ámbito de sus respectivas competencias;
 
 XII. Vigilar en el ámbito de su competencia la actuación de las diversas comisiones que se establezcan al interior del Órgano Político Administrativo;
 
@@ -16872,9 +16894,9 @@ XVI. Integrar los Programas que servirán de base para la elaboración del antep
 
 XVII. Expedir las disposiciones complementarias para la Administración de los recursos humanos, materiales, financieros y los bienes muebles e inmuebles asignados al Órgano Político Administrativo, de conformidad con la normativa que al efecto expidan las Dependencias competentes;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XVIII. Ejercer y atender las atribuciones conferidas al Órgano Político Administrativo y al Jefe Delegacional, que no sean de las consideradas de manera expresa como indelegables en la Ley de Adquisiciones para el Distrito Federal, y de Adquisiciones, Arrendamientos y Servicios del Sector Público, Ley de Presupuesto y Gasto Eficiente del Distrito Federal, Decreto de Presupuesto de Egresos para el ejercicio fiscal de que se trate, Circular Uno Bis en materia de administración de Recursos, Reglas para el control y manejo de los ingresos que se recauden por concepto de aprovechamientos y productos que se asignen a las Dependencias, Delegaciones y Órganos Desconcentrados que los generen, mediante el mecanismo de aplicación automática de recursos, en el ámbito de su competencia;
+XVIII. Ejercer y atender las atribuciones conferidas al Órgano Político-Administrativo y al Jefe Delegacional, que no sean de las consideradas de manera expresa como indelegables en la Ley de Adquisiciones para el Distrito Federal, Ley de Adquisiciones, Arrendamiento y Servicios del Sector Público, Ley de Presupuesto y Gasto Eficiente del Distrito Federal, Decreto de Presupuesto de Egresos de la Ciudad de México para el ejercicio fiscal de que se trate, Circular Uno Bis Normatividad en Materia de Administración de Recursos para las Delegaciones de la Administración Pública del Distrito Federal, Reglas para el control y manejo de los ingresos que se recauden por concepto de aprovechamientos y productos que se asignen a las dependencias, delegaciones y órganos desconcentrados que los generen, mediante el mecanismo de aplicación automática de recursos, en el ámbito de su competencia;
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -16904,9 +16926,9 @@ XXIV. Cumplir con la obligación de cubrir las contribuciones federales y locale
 
 XXV. Expedir y remitir oportunamente a la Secretaría de Finanzas del Distrito Federal, la información necesaria para que la Oficialía Mayor del Distrito Federal cumpla dentro de los plazos legales con la obligación de tramitar la declaración del Impuesto al Valor Agregado, así como enviar correcta y oportunamente a la propia Oficialía Mayor la información necesaria para que ésta cumpla dentro de los plazos legales con la obligación de tramitar ante la mencionada Secretaría de Finanzas el pago del Impuesto Sobre la Renta, en términos de lo dispuesto por el Decreto de Presupuesto de Egresos para el ejercicio fiscal de que se trate;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXVI. Promover ante el Jefe Delegacional la autorización para la contratación de trabajadores eventuales en términos de los lineamientos expedidos por la Oficialía Mayor;
+XXVI. Promover ante el Jefe Delegacional la autorización para la contratación de trabajadores eventuales en términos de los lineamientos que expida la autoridad competente.
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -16924,9 +16946,9 @@ XXIX. Determinar y establecer las estrategias de los Servicios de Seguridad nece
 
 XXX. Suplir en los términos de la fracción I del artículo 25 del presente Reglamento, las ausencias temporales del titular del Órgano Político Administrativo, y
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXXI. Las demás que de manera directa le asigne el titular del Órgano Político Administrativo, así como los que se establezcan en las Disposiciones Jurídicas Vigentes y los Manuales Administrativos.
+XXXI. Las demás que de manera directa le asigne el titular del Órgano Político Administrativo, así como los (sic) que se establezcan en las disposiciones jurídicas vigentes.
 
 > <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -16934,7 +16956,9 @@ XXXI. Las demás que de manera directa le asigne el titular del Órgano Polític
 
 La Dirección Ejecutiva Jurídica tendrá las siguientes atribuciones:
 
-I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de apoyo técnico operativo que tenga adscritas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas de apoyo técnico-operativo que tenga adscritas.
 
 II. Solicitar el auxilio de la fuerza pública para la ejecución de sus determinaciones y la realización de las diligencias ordenadas cuando sea procedente;
 
@@ -16984,9 +17008,9 @@ XVI. Vigilar y verificar administrativamente el cumplimiento de las disposicione
 
 XVII. Vigilar y verificar administrativamente el cumplimiento de las disposiciones en materia de construcciones, así como aplicar las sanciones que correspondan, en los términos de la Ley del Instituto de Verificación Administrativa del Distrito Federal y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XVIII. Vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones en materia de protección civil, aplicar las medidas de seguridad y de apremio así como las sanciones establecidas en la Ley de Protección Civil para el Distrito Federal, Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal, cuando como resultado de las visitas de verificación administrativa en materia de protección civil, se constaten hechos o actos que puedan producir un riesgo o perjuicio en las instalaciones, integridad de las personas y su entorno;
+XVIII. Vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones en materia de protección civil, aplicar las medidas de seguridad y de apremio así como las sanciones establecidas en la Ley del Sistema de Protección Civil del Distrito Federal, Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal, cuando como resultado de las visitas de verificación administrativa en materia de protección civil, se constaten hechos o actos que puedan producir un riesgo o perjuicio en las instalaciones, integridad de las personas y su entorno.
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -17008,9 +17032,9 @@ XXII. Prestar de acuerdo a la coordinación con las autoridades federales compet
 
 XXIII. Intervenir en las Juntas de Reclutamiento del Servicio Militar Nacional, y
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXIV. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Servicios Jurídicos y Gobierno así como las que se establezcan en otras disposiciones jurídicas y en los manuales administrativos.
+XXIV. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Servicios Jurídicos y Gobierno así como las que se establezcan en otras disposiciones jurídicas.
 
 > <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -17018,7 +17042,9 @@ XXIV. Las demás que de manera directa le asignen el titular del Órgano Políti
 
 La Dirección Ejecutiva de Registros y Autorizaciones tendrá las siguientes atribuciones:
 
-I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de apoyo técnico operativo que tenga adscritas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas.
 
 II. Solicitar el auxilio de la fuerza pública para la ejecución de sus determinaciones y la realización de las diligencias ordenadas cuando sea procedente;
 
@@ -17036,7 +17062,9 @@ VIII. Emitir y notificar las resoluciones definitivas en los procedimientos de r
 
 IX. Coordinar y supervisar el funcionamiento del Sistema de Comercio en Vía Pública (SISCOVIP) a fin de verificar la recaudación proveniente del comercio en la vía pública que realizan los comerciantes instalados en la demarcación del Órgano Político Administrativo;
 
-X. Llevar a cabo acciones con las Dependencias y Entidades de la Administración Pública del Distrito Federal, en materia de mercados púbicos (sic) y comercio en vía pública; conforme a la normatividad aplicable en la materia;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+X. Llevar a cabo acciones con las Dependencias y Entidades de la Administración Pública del Distrito Federal, en materia de mercados públicos y comercio en vía pública; conforme a la normativa aplicable en la materia;
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -17078,9 +17106,9 @@ XIX. Autorizar la ubicación, construcción, funcionamiento y tarifas de los est
 
 XX. Administrar los panteones públicos que se ubiquen en la demarcación territorial, en términos de las disposiciones aplicables así como mantener actualizados los padrones de dichos panteones;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXI. Autorizar los informes preventivos, así como conocer y gestionar las manifestaciones de impacto ambiental que en relación a construcciones y establecimientos soliciten los particulares, en el ámbito de competencia del Órgano Político Administrativo y de conformidad con las disposiciones jurídicas aplicables;
+XXI. Emitir opiniones en materia de impacto ambiental, vial y urbano que en relación a construcciones y establecimientos soliciten los particulares, en el ámbito de competencia del Órgano Político-Administrativo y de conformidad con las disposiciones jurídicas aplicables;
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -17094,9 +17122,9 @@ XXIII. Otorgar el registro de las obras ejecutadas sin la manifestación de cons
 
 XXIV. Expedir licencias de construcción especial y sus prórrogas, y ejercer las demás atribuciones que se le otorguen al Órgano Político Administrativo en materia de construcciones;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXV. Otorgar licencias y autorizaciones temporales en materia de anuncios, previo dictamen, en su caso, de la Secretaría de Desarrollo Urbano y Vivienda en su caso;
+XXV. Otorgar licencias y autorizaciones temporales en materia de anuncios, previo dictamen, en su caso, de la Secretaría de Desarrollo Urbano y Vivienda;
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -17114,9 +17142,9 @@ XXVIII. Autorizar el uso y ocupación de inmuebles;
 
 XXIX. Evaluar y, en su caso, aprobar o rechazar los programas internos y especiales de Protección Civil en términos de las disposiciones jurídicas aplicables; y
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXX. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Servicios Jurídicos y Gobierno así como las que se establezcan en otras disposiciones jurídicas y en los manuales administrativos.
+XXX. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Servicios Jurídicos y Gobierno así como las que se establezcan en otras disposiciones jurídicas.
 
 > <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -17124,7 +17152,9 @@ XXX. Las demás que de manera directa le asignen el titular del Órgano Polític
 
 La Dirección Ejecutiva de Obras Públicas, tendrá las siguientes atribuciones:
 
-I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
 
 II. Rehabilitar y mantener las vialidades secundarias con acciones de bacheo y reencarpetado asfáltico o hidráulico;
 
@@ -17168,9 +17198,21 @@ XVI. Autorizar el pago de gastos financieros en caso de incumplimiento en los pa
 
 XVII. Proponer al titular de la Dirección General de Administración Delegacional, la rescisión administrativa en caso de incumplimiento de las obligaciones a cargo de los contratistas o la terminación anticipada de los contratos, y
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XVIII. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Administración Delegacional, así como las que se establezcan en otras disposiciones jurídicas y en los manuales administrativos.
+XVIII. Certificar y expedir copias, así como otorgar constancias de los documentos que obren en sus archivos;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XIX. Legalizar las firmas de sus subalternos, cuando así sea necesario;
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XX. Expedir, otorgar, supervisar, celebrar y suscribir los convenios, contratos, bases de colaboración y demás actos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y de las unidades administrativas de apoyo técnico que le estén adscritas, así como realizar, sustanciar, promover o acordar lo necesario para que dichos instrumentos jurídicos se cumplan en sus términos, y
+
+> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XXI. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Administración Delegacional, así como las que se establezcan en otras disposiciones jurídicas.
 
 > <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -17178,7 +17220,9 @@ XVIII. Las demás que de manera directa le asignen el titular del Órgano Polít
 
 La Dirección Ejecutiva de Servicios Urbanos, tendrá las siguientes atribuciones:
 
-I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas.
 
 II. Prestar los servicios de limpia en sus etapas de barrido de áreas comunes, vialidad y demás vías públicas, así como de recolección de residuos sólidos de conformidad con las disposiciones jurídicas y administrativas que emita la Dependencia competente;
 
@@ -17204,7 +17248,9 @@ XII. Fomentar con personas físicas y morales la adopción de áreas verdes exis
 
 XIII. Realizar el balizamiento y señalización de vías secundarias de la demarcación del Órgano Político Administrativo, y
 
-XIV. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Administración Delegacional, así como las que se establezcan en otras disposiciones jurídicas y en los manuales administrativos.
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XIV. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Administración Delegacional, así como las que se establezcan en otras disposiciones jurídicas.
 
 XV. (DEROGADA, G.O. 15 DE ENERO DE 2016)
 
@@ -17230,7 +17276,9 @@ XXIII. (DEROGADA, G.O. 15 DE ENERO DE 2016)
 
 La Dirección Ejecutiva de Desarrollo Social, tendrá las siguientes atribuciones:
 
-I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas.
 
 II. Promover los valores de la persona y de la sociedad, así como fomentar las actividades que tiendan a desarrollar el espíritu cívico, los sentimientos patrióticos de la población y el sentido de solidaridad social;
 
@@ -17258,9 +17306,13 @@ XIII. Formular y ejecutar los programas de apoyo a la participación de la mujer
 
 XIV. Implementar programas y acciones dirigidos a grupos vulnerables;
 
-XV. Realizar las gestiones necesarias a efecto de brindar un servicio funerario de calidad a los deudos del que lo soliciten en términos de la normatividad aplicable;
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XVI. Administrar los panteones públicos que se ubiquen en la demarcación territorial, en términos de las disposiciones aplicables así como mantener actualizados los padrones de dichos panteones;
+XV. Realizar las gestiones necesarias a efecto de brindar servicios funerarios de velación y traslado, a los deudos que lo soliciten en términos de la normativa aplicable.
+
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Promover la participación de instituciones públicas y privadas, cámaras, asociaciones, fundaciones y organizaciones en general en la implementación y ejecución de programas y acciones de desarrollo social y de fomento al empleo;
 
 XVII. Realizar campañas de salud pública y prestar los servicios médicos asistenciales en coordinación con Autoridades Federales y Locales, Instituciones públicas o privadas y con particulares en la demarcación del Órgano Político- Administrativo;
 
@@ -17288,9 +17340,9 @@ XXII. Implementar y ejecutar en la demarcación territorial programas de desarro
 
 XXIII. Impulsar el desarrollo de Programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXIV. Establecer, y evaluar programas para el desarrollo de las habilidades artísticas y para el fomento cultural;
+XXIV. Establecer y evaluar Programas para el Desarrollo de las habilidades artísticas y para el fomento cultural;
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -17304,13 +17356,13 @@ XXVI. Participar en la integración, organización y actividades del Consejo de 
 
 XXVII. Conformar un registro del patrimonio artístico, cultural e histórico del Órgano Político Administrativo y mantenerlo actualizado;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXVIII. Fomentar y coordinar la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades comerciales y económicas en general dentro de la demarcación del Órgano Político Administrativo;
+XXVIII. Fomentar y coordinar la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades comerciales y económicas en general, dentro de la demarcación del Órgano Político-Administrativo;
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXIX. Establecer, promover, fomentar y ejecutar proyectos productivos, que en la demarcación del Órgano Político Administrativo, protejan e incentiven al empleo, de acuerdo a los programas, lineamientos y políticas en materia de fomento, desarrollo e inversión económica que emitan las Dependencias correspondientes;
+XXIX. Establecer, promover, fomentar y ejecutar proyectos productivos, que, en la demarcación del Órgano Político-Administrativo, protejan e incentiven al empleo, de acuerdo a los programas, lineamientos y políticas en materia de fomento, desarrollo e inversión económica que emitan las dependencias correspondientes;
 
 > <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
@@ -17320,9 +17372,9 @@ XXX. Promover y coordinar la instalación, funcionamiento y seguimiento de los c
 
 XXXI. Implementar políticas de auto sustento de carácter alimentario enfocados a la población que se encuentra en situación de vulnerabilidad, a si (sic) como a la demás población que se ubique dentro de la demarcación, y
 
-> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-XXXII. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Administración Delegacional, así como las que se establezcan en otras disposiciones jurídicas y en los manuales administrativos.
+XXXII. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Administración Delegacional, así como las que se establezcan en otras disposiciones jurídicas.
 
 ###### Artículo 172 Octies.
 
@@ -20699,3 +20751,11 @@ G.O. 11 DE SEPTIEMBRE DE 2017.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el 1° de octubre de 2017.
+
+G.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
