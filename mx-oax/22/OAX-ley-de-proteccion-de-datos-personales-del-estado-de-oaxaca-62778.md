@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-de-datos-personales-del-estado-de-oaxaca-6277
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-23"
-last_updated: "2008-08-23"
+last_updated: "2017-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PROTECCION DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 29 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 23 de agosto de 2008.
 
@@ -458,3 +460,23 @@ Por lo tanto mando que se imprima, publique, circule y se le dé el debido cumpl
 SUFRAGIO EFECTIVO. NO REELECCIÓN. "EL RESPETO AL DERECHO AJENO ES LA PAZ"
 
 Oaxaca de Juárez, Oax., a 07 de Agosto de 2008. EL SECRETARIO GENERAL DE GOBIERNO. ING. TEOFILO MANUEL GARCÍA CORPUS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 667.- MEDIANTE EL CUAL APRUEBA LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. En el Presupuesto de Egresos del Estado para el ejercicio Fiscal dos mil diecisiete, se deberán establecer las previsiones presupuestales necesarias para la operación de la presente Ley.
+
+TERCERO. Se abroga la Ley de Protección de Datos Personales del Estado de Oaxaca publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca el veintitrés de agosto de dos mil ocho.
+
+CUARTO. Se derogan todas aquellas disposiciones en materia de protección de datos personales en posesión de los sujetos obligados en el ámbito estatal, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
+
+QUINTO: Las solicitudes de derechos ARCO o recursos de revisión que se encuentren en trámite ante los sujetos obligados o en el Instituto se resolverán de conformidad con la ley que les dio origen.
+
+SEXTO: El Instituto deberá emitir los Lineamientos a que se refiere la presente Ley, y publicarlos en el Periódico Oficial del Gobierno del Estado de Oaxaca, a más tardar el veintisiete de enero de dos mil dieciocho.
+
+SÉPTIMO: Los sujetos obligados como responsables, deberán adecuar su normatividad interna a más tardar el veintisiete de julio de dos mil dieciocho.
