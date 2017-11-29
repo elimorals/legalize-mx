@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-secretaria-de-seguridad-ciudadana-del-estado-de-11509
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-10"
-last_updated: "2017-04-18"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 10 de junio de 2016.
 
@@ -295,9 +295,7 @@ XI. Fungir como Secretario Técnico del Sistema Estatal de Atención a Víctimas
 
 XII. Realizar las actividades de atención a víctimas de violencia o violación de Derechos Humanos a través del Sistema Estatal de Atención a Víctimas;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XIII. Establecer mecanismos para la capacitación, formación, actualización y especialización de funcionarios públicos o de las autoridades auxiliares del Sistema Estatal de Seguridad y Sistema Estatal de Atención a Víctimas;
+XIII. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 2017)
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -589,15 +587,19 @@ I. Un Presidente, que será el Secretario de Seguridad Ciudadana;
 
 II. Un Secretario Técnico, que será el Titular de la Coordinación del Servicio Profesional de Carrera Policial;
 
-III. Cinco vocales, que serán:
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+III. Seis vocales, que serán:
 
 a) El Subsecretario de Policía Estatal.
 
-b) Dos representantes del personal operativo de la Secretaría.
+b) El Director General del Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro.
 
-c) El Titular del Órgano Interno de Control.
+c) Dos representantes del personal operativo de la Secretaría.
 
-d) El Titular de la Unidad de Asuntos Internos.
+d) El Titular del Órgano Interno de Control.
+
+e) El Titular de la Unidad de Asuntos Internos.
 
 El Secretario Técnico y el Titular de la Unidad de Asuntos Internos únicamente tendrán voz, mientras que los demás integrantes tendrán voz y voto.
 
@@ -605,7 +607,9 @@ El cargo de miembro de la Comisión de Carrera Policial será honorario.
 
 El único integrante que podrá nombrar a un suplente para que le represente en las sesiones programadas será el Presidente.
 
-Los representantes de la fracción III, inciso b, serán elegidos por el Secretario, debiendo ser personas de reconocida experiencia, buena solvencia moral y destacados en su función.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
+Los representantes de la fracción III, inciso c, serán elegidos por el Secretario, debiendo ser personas de reconocida experiencia, buena solvencia moral y destacados en su función.
 
 ### Capítulo Segundo. Del Consejo de Honor y Justicia
 
@@ -733,33 +737,13 @@ XIII. Proporcionar al Fiscal General, autoridades judiciales y administrativas, 
 
 XIV. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 ### Capítulo Cuarto. De la Dirección del Instituto de Formación Policial
 
 ###### Artículo 31.
 
-La Dirección del Instituto de Formación Policial contará con las siguientes atribuciones:
-
-I. Establecer y administrar la Formación Inicial Única y la capacitación continua al personal de las instituciones de seguridad del Estado;
-
-II. Ejecutar los acuerdos aprobados por el Consejo Académico;
-
-III. Elaborar anualmente el Programa de Profesionalización del Instituto;
-
-IV. Integrar el Consejo Académico del Instituto;
-
-V. Validar los programas de formación inicial única y capacitación continua, así como al personal e instalaciones de institutos y academias de los integrantes del Sistema Estatal;
-
-VI. Validar los programas, docentes e instalaciones de capacitación y adiestramiento de los prestadores de servicios de seguridad privada;
-
-VII. Promover el reconocimiento y validez oficial de los programas académicos a cargo del Instituto;
-
-VIII. Proponer al Secretario la suscripción de convenios con entidades del sector público y privado, instituciones académicas y de investigación científica y tecnológica, colegios de profesionistas y con cualquier institución nacional o extranjera análoga, cuando sea necesario para el cumplimiento de sus fines;
-
-IX. Supervisar la aplicación de la normatividad del Instituto;
-
-X. Dar cumplimiento a las sanciones y medidas disciplinarias al personal operativo y alumnado del Instituto que infrinjan los reglamentos académicos; y
-
-XI. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
+(DEROGADO, P.O. 29 DE NOVIEMBRE DE 2017)
 
 ## Título Sexto. De los Órganos Auxiliares
 
@@ -1096,3 +1080,27 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. A partir de la entrada en vigor de la presente Ley, las actividades, trámites, atenciones y procedimientos que realizaba la Dirección Ejecutiva de Atención a Víctimas perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana, serán realizados por la Comisión Estatal de Atención a Víctimas de Delito.
 
 Artículo Cuarto. Los recursos humanos con que contaba la Dirección Ejecutiva de Atención a Víctimas perteneciente a la Subsecretaría de Prevención Social y Atención a Víctimas de la Secretaría de Seguridad Ciudadana, pasarán a formar parte (sic) la Comisión Estatal de Atención a Víctimas de Delito, conservando sus trabajadores sus derechos laborales correspondientes.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE EXPIDE LA LEY DEL CENTRO DE CAPACITACIÓN, FORMACIÓN E INVESTIGACIÓN PARA LA SEGURIDAD DEL ESTADO DE QUERÉTARO Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Articulo Segundo. Los recursos humanos, materiales y financieros con que cuenta la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, formarán parte del organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro. Para efectos de lo anterior, el Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro deberá obtener los registros fiscales y administrativos que procedan.
+
+El Poder Ejecutivo del Estado, a través de sus dependencias, continuará administrando los referidos recursos, hasta el 31 de diciembre del presente ejercicio fiscal.
+
+Artículo Tercero. El organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, cumplirá con las obligaciones que como sujeto le señalan las disposiciones aplicables, a partir del ejercicio fiscal 2018, lo anterior sin perjuicio de que pueda obtener los registros fiscales y administrativos a que se refiere el artículo anterior, una vez que cobre vigencia la presente Ley en términos de su Artículo Primero Transitorio.
+
+Artículo Cuarto. Los procedimientos que a la entrada en vigor de la presente Ley se encuentren en trámite ante la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, serán substanciados y resueltos por el organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, en el ámbito de su competencia, de conformidad con las disposiciones vigentes al inicio de dichos asuntos.
+
+Artículo Quinto. El actual titular de la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana lo será del organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, hasta en tanto no sea removido de su cargo, por lo que en su carácter de representante legal, deberá realizar ante las autoridades competentes, los trámites legales, fiscales y administrativos que sean necesarios con motivo de la creación de la referida entidad paraestatal.
+
+Artículo Sexto. Los trabajadores de la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Séptimo. Toda referencia hecha a la Dirección del Instituto de Formación Policial de la Secretaría de Seguridad Ciudadana, debe entenderse en lo sucesivo al organismo descentralizado denominado Centro de Capacitación, Formación e Investigación para la Seguridad del Estado de Querétaro.
+
+Artículo Octavo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Noveno. Remítase la presente al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
