@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-transparencia-y-acceso-a-la-informacion-56539"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-26"
-last_updated: "2007-07-26"
+last_updated: "2017-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL AYUNTAMIENTO DE HOPELCHEN, CAMPECHE
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL AYUNTAMIENTO DE HOPELCHEN, CAMPECHE
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE HOPELCHÉN, PUBLICADO EN EL P.O. DE 29 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL AYUNTAMIENTO DE HOPELCHEN, CAMPECHE
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el jueves 26 de julio de 2007.
 
@@ -196,3 +198,27 @@ Y para la debida constancia expido la presente certificación, en 6 fojas útile
 PROF. HIPÓLITO TUT CAB.
 
 SECRETARIO DEL H. AYUNTAMIENTO DEL MUNICIPIO DE HOPELCHEN. RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE HOPELCHÉN”.]
+
+Primero. Se abroga el Reglamento de Transparencia y Acceso a la Información Pública del Ayuntamiento de Hopelchén, Campeche, aprobado en Sesión Ordinaria del día cinco de Marzo del año Dos Mil Siete y publicado en el Periódico Oficial del Estado el día veintiséis de Julio del año Dos Mil Siete.
+
+Segundo. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+Cuarto. El Comité de Transparencia se instalará con base en lo establecido en el Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Hopelchén, dentro de los 10 días hábiles siguientes a la entrada en vigor del presente ordenamiento.
+
+Quinto. El Presidente del Comité hará las gestiones necesarias para incorporar al Ayuntamiento y los Sujetos Obligados que lo integran, a la Plataforma Nacional de Transparencia con base en los lineamientos expedidos por el Sistema Nacional de Transparencia.
+
+Sexto. Se reconoce al Sistema INFOMEX como una vía de recepción de solicitudes por lo que a las solicitudes, que se presenten en dicho sistema y las que sean capturadas, formarán parte de las solicitudes que serán registradas en las estadísticas de la Unidad de Transparencia, pudiéndose dar seguimiento al procedimiento a través del correo electrónico capturado por los solicitantes en dicho sistema, hasta en tanto no se disponga por la autoridad competente lo contrario.
+
+Séptimo. Las solicitudes de información y demás trámites que se hubieren iniciado con anterioridad a la fecha en que este Reglamento entre en vigor deberán tramitarse conforme al Reglamento que se abroga.
+
+Octavo. La Unidad de Transparencia será la responsable de elaborar y enviar a la Comisión el informe a que se refiere el Artículo 46 y 49 fracción VII de la Ley de Transparencia, el artículo 198 fracción XXIV de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Campeche y el Lineamiento, en su caso, expedido por la Comisión de Transparencia, con el visto bueno del Titular del Ayuntamiento.
+
+Noveno. El suplente del Titular o Responsable de la Unidad de Transparencia y Acceso a la Información Pública entrará en funciones, cuando el Titular o Responsable de los citados se encuentre de vacaciones o por causa de fuerza mayor no pueda acudir a cumplir con sus obligaciones o facultades propias de su cargo, asumiendo en ese momento el suplente las funciones inherentes del Titular o Encargado de la Unidad de Transparencia.
