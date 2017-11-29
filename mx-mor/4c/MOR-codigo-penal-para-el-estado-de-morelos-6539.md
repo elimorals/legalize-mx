@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2017-11-15"
+last_updated: "2017-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -193,7 +191,7 @@ El reconocimiento de la inocencia, que apareja la nulidad de la sentencia conden
 
 Se propone que en esos casos la reparación se haga a razón de un día de salario mínimo por cada día de privación de la libertad, por lo menos (artículo 92). Se entiende que esta nueva regla es apenas el principio de un camino que deberá ir mucho más lejos, reconociendo que quien se ve sujeto a proceso y sentencia penales, aunque no haya perdido su libertad en el enjuiciamiento y la ejecución, también sufre o puede sufrir un menoscabo patrimonial que el Estado debe reparar, y aceptando asimismo que esta reparación debe ajustarse, en la mayor medida posible, a la verdadera cuantía de los daños causados.
 
-Cuando se trate de delitos cuya persecución pueda cesar mediante perdón del ofendido, es conveniente y natural que se amplíe en la mayor medida posible la oportunidad de que se otorgue el perdón. Por ello, el presente ordenamiento indica que el perdón surtirá efectos tanto en la etapa de la averiguación y el proceso, como en el periodo de ejecución de la condena. Para que la figura del perdón atienda a razones objetivas de equidad, el concedido a un inculpado beneficia a los restantes, si han quedado satisfechos los intereses o derechos del ofendido. Este Código estatuye que este mismo régimen se aplicará en los casos en que la persecución de un delito no dependa de la voluntad de un particular, sino de un acto de autoridad, cualquiera que sea la denominación jurídica de éste (artículo 93).
+Cuando se trate de delitos cuya persecución pueda cesar mediante perdón del ofendido, es conveniente y natural que se amplíe en la mayor medida posible la oportunidad de que se otorgue el perdón. Por ello, el presente ordenamiento indica que el perdón surtirá efectos tanto en la etapa de la averiguación y el proceso, como en el período de ejecución de la condena. Para que la figura del perdón atienda a razones objetivas de equidad, el concedido a un inculpado beneficia a los restantes, si han quedado satisfechos los intereses o derechos del ofendido. Este Código estatuye que este mismo régimen se aplicará en los casos en que la persecución de un delito no dependa de la voluntad de un particular, sino de un acto de autoridad, cualquiera que sea la denominación jurídica de éste (artículo 93).
 
 Es posible que un inculpado que se considere inocente del delito que se le atribuye, prefiera que su inocencia quede acreditada formalmente en una sentencia, y opte por rechazar el perdón que se le ofrece. En tal virtud es razonable que el beneficiario potencial del perdón asuma la decisión que juzgue conveniente (artículo 94). Esta solución sirve mejor a la justicia que la simple imposición del sobreseimiento como efecto del perdón.
 
@@ -1887,9 +1885,11 @@ Si el ofendido por la amenaza fuere víctima, ofendido o testigo en un procedimi
 
 Los delitos previstos en este artículo se perseguirán por querella, con excepción del establecido en el párrafo inmediato anterior que se perseguirá de oficio.
 
-> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
-ARTICULO 147 BIS.- Al que, con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval, intimide a otro con causarle daño en sus bienes o efectúe en su contra actos de hostigamiento, se le impondrá la misma sanción establecida en el artículo inmediato anterior, además de las sanciones que correspondan, si para tal efecto se emplearon documentación o sellos falsos o se usurparon funciones públicas o de profesión.
+ARTICULO 147 BIS.- Al que con la intención de requerir el pago de una deuda, ya sea propia del deudor o de quien funja como referencia o aval, ejerza una cobranza extrajudicial ilegal, se le impondrá la misma sanción establecida en el artículo inmediato anterior, además de las sanciones que correspondan, si para tal efecto se emplearon documentación o sellos falsos, se usurparon funciones públicas o de profesión, aplicándose las reglas del concurso de delitos señalado en este Código.
+
+Se entiende por cobranza extrajudicial ilegal el uso de la violencia o la intimidación ilícitos, ya sea personalmente o a través de cualquier medio, para requerir el pago de una deuda que no sea derivada de actividades financieras reguladas en leyes federales, incluyendo créditos o financiamientos que hayan sido otorgados originalmente por personas dedicadas habitualmente a esta actividad, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza; no se considerará como cobranza extrajudicial ilegal, el informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a éstos cuando éstas sean jurídicamente posibles.
 
 ### CAPITULO VIII. DE LOS DELITOS INFORMATICOS
 
@@ -2009,15 +2009,19 @@ En el segundo supuesto del párrafo anterior, el juez privará al agente, en su 
 
 Las penas señaladas para el delito de violación, se aplicarán aunque se demuestre que el sujeto pasivo sea o haya sido cónyuge o pareja permanente, viva o haya vivido en concubinato o amasiato con el sujeto activo, pero en estos casos el delito se perseguirá por querella de parte ofendida.
 
-> <small>(F. DE E., P.O. 29 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 154.
 
-Se aplicará la pena prevista en el artículo 153, cuando el agente realice la cópula con persona menor de doce años de edad o que no tenga capacidad para comprender, o por cualquier causa no pueda resistir la conducta delictuosa.
+Se aplicará la pena prevista en el artículo 153, cuando el agente realice la cópula con persona menor de doce años o que no tenga capacidad para comprender, o por cualquier causa no pueda resistir la conducta delictuosa.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+Si el sujeto activo convive con el pasivo con motivo de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente o como autoridad o empleado administrativo en algún centro educativo, religioso, laboral, médico, cultural, deportivo, doméstico o de cualquier índole, se le impondrá una pena de treinta a treinta y cinco años de prisión.
 
-Si el sujeto activo convive con el pasivo con motivo de su familiaridad, de su actividad docente, como autoridad o empleado administrativo en algún centro educativo, se le impondrá una pena de treinta a treinta y cinco años de prisión y además se le destituirá, en su caso, del cargo.
+Si el agente hace uso de violencia física, las penas se aumentarán en un tercio más.
+
+Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación familiar.
+
+Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena impuesta.
 
 ###### ARTICULO 155.
 
@@ -3315,9 +3319,7 @@ REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2011)
 
 ARTICULO 272 BIS.- Comete el delito de desaparición forzada de personas, el servidor público que, independientemente de que haya participado en la detención legal o ilegal de una o varias personas, propicie o mantenga dolosamente su ocultamiento bajo cualquier forma de detención.
 
-(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 19 DE JULIO DE 2017)</small>
+(NOTA: EL 14 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL DIECINUEVE DE JULIO DE DOS MIL DIECISIETE, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).(ADICIONADO, P.O. 19 DE JULIO DE 2017)
 
 ARTICULO 272 TER.- A quien cometa el delito de desaparición forzada de personas se le impondrá una pena de cinco a cuarenta años de prisión.
 
@@ -5004,5 +5006,21 @@ P.O. 1 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO OCHO POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 128 Y LAS FRACCIONES I Y II DEL ARTÍCULO 238 Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 238 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
 
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS TREINTA Y SEIS POR EL QUE REFORMA EL ARTÍCULO 154 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 29 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS CUARENTA Y TRES POR EL QUE SE REFORMA EL ARTÍCULO 147 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
