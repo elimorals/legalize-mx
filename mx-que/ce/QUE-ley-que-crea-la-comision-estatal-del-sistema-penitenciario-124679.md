@@ -1,0 +1,410 @@
+---
+title: "LEY QUE CREA LA COMISION ESTATAL DEL SISTEMA PENITENCIARIO DE QUERETARO"
+identifier: "QUE-ley-que-crea-la-comision-estatal-del-sistema-penitenciario-124679"
+country: "mx"
+rank: "ley"
+publication_date: "2017-11-29"
+last_updated: "2017-11-29"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124679&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-que"
+scjn_id: "124679"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "82"
+reform_count: "2"
+scjn_last_update: "2021-10-08"
+issue_date: "2017-11-29"
+state: "QUE"
+---
+# LEY QUE CREA LA COMISION ESTATAL DEL SISTEMA PENITENCIARIO DE QUERETARO
+
+LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE QUERÉTARO
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Número 82 del Periódico Oficial del Estado de Querétaro, el miércoles 29 de noviembre de 2017.
+
+FRANCISCO DOMÍNGUEZ SERVIÉN, Gobernador del Estado de Querétaro, a los habitantes del mismo, sabed que:
+
+LA QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 FRACCIÓN II, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
+
+CONSIDERANDO
+
+[…]
+
+Por lo anteriormente expuesto y fundado, la Quincuagésima Octava Legislatura del Estado de Querétaro expide la siguiente:
+
+LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE QUERÉTARO Y DEROGA DIVERSAS DISPOSICIONES DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO.
+
+Artículo Primero. Se expide la Ley que crea la Comisión Estatal del Sistema Penitenciario de Querétaro, para quedar como sigue:
+
+LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE QUERÉTARO
+
+## Título Primero. Disposiciones Generales
+
+###### Artículo 1.
+
+Esta Ley es de orden público e interés social y tiene por objeto regular la organización y funcionamiento de la Comisión Estatal del Sistema Penitenciario de Querétaro.
+
+###### Artículo 2.
+
+Se crea la Comisión Estatal del Sistema Penitenciario de Querétaro, como organismo descentralizado, en lo sucesivo la Comisión, con personalidad jurídica y patrimonio propio, con domicilio legal en la ciudad de Santiago de Querétaro, Qro.
+
+###### Artículo 3.
+
+La Comisión será la autoridad encargada de operar el Sistema Penitenciario que tiene por objeto la supervisión de la prisión preventiva y la ejecución de sanciones penales, así como de las medidas de seguridad derivadas de una sentencia, el cual está organizado sobre la base del respeto de los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud, la cultura y el deporte como medios para lograr la reinserción de la persona sentenciada a la sociedad y procurar que no vuelva a delinquir.
+
+Las relaciones laborales entre la Comisión y su personal se regirán por la Ley de los Trabajadores del Estado de Querétaro y las demás disposiciones aplicables.
+
+## Título Segundo. De la Comisión Estatal del Sistema Penitenciario de Querétaro
+
+### Capítulo I. De las atribuciones
+
+###### Artículo 4.
+
+La Comisión tendrá las atribuciones siguientes:
+
+I. Organizar la operación y administración de los Centros Penitenciarios;
+
+II. Elaborar un Programa Estatal de Reinserción Social;
+
+III. Elaborar y expedir las normas técnicas, protocolos y manuales de operación aplicables a los Centros Penitenciarios;
+
+IV. Garantizar el respeto a los derechos humanos de las personas privadas de su libertad en los Centros Penitenciarios, durante la ejecución de la prisión preventiva o las sanciones penales impuestas, de conformidad con las disposiciones legales aplicables;
+
+V. Organizar las instalaciones de los Centros Penitenciarios para mantener la seguridad, tranquilidad e integridad, de las personas privadas de la libertad, del personal y de los visitantes, ejerciendo las medidas y acciones pertinentes para el buen funcionamiento, en términos de las disposiciones normativas aplicables;
+
+VI. Procurar la reinserción social efectiva mediante los distintos programas institucionales;
+
+VII. Garantizar condiciones de internamiento dignas y seguras para las personas privadas de su libertad, conforme a la legislación aplicable;
+
+VIII. Gestionar la custodia penitenciaria;
+
+IX. Instrumentar una clasificación de las distintas áreas y espacios en los Centros Penitenciarios, en términos de las disposiciones aplicables;
+
+X. Promover la modernización de la infraestructura y determinar las necesidades para la operación del Sistema Penitenciario;
+
+XI. Ejecutar las medidas disciplinarias a las personas privadas de la libertad por violación al régimen de disciplina en los Centros Penitenciarios;
+
+XII. Ejecutar el traslado de las personas privadas de la libertad de un centro penitenciario a otro centro penitenciario, de conformidad con las disposiciones aplicables;
+
+XIII. Ejecutar, controlar, vigilar y dar seguimiento a las penas que imponga o modifique el órgano jurisdiccional competente;
+
+XIV. Aplicar las sanciones penales impuestas por los órganos jurisdiccionales, de conformidad con las disposiciones aplicables;
+
+XV. Aplicar las medidas de seguridad o vigilancia a las personas privadas de la libertad conforme a las disposiciones aplicables;
+
+XVI. Prestar la seguridad y custodia de la persona privada de su libertad en los recintos judiciales o en cualquier lugar fuera de los Centros Penitenciarios a donde se haya autorizado su traslado, de conformidad con las disposiciones aplicables;
+
+XVII. Ejecutar, vigilar y dar seguimiento a los traslados externos de las personas privadas de la libertad;
+
+XVIII. Establecer y administrar los registros fidedignos de información respecto a los Centros Penitenciarios;
+
+XIX. Establecer y administrar una base de datos de personas privadas de la libertad con la información de cada persona que ingrese al Sistema Penitenciario, en los términos de las disposiciones aplicables;
+
+XX. Promover y gestionar la incorporación de proyectos productivos de la iniciativa privada, así como la promoción de mano de obra de las personas privadas de su libertad para su propia activación laboral;
+
+XXI. Promover que los Centros Penitenciarios sean sustentables;
+
+XXII. Fortalecer la coordinación e intercambio de información con instituciones del Sistema Estatal de Seguridad;
+
+XXIII. Coordinar los mecanismos de enlace e intercambio de información con instituciones policiales, de procuración de justicia y demás instituciones de seguridad;
+
+XXIV. Promover la consolidación del Servicio Profesional de Carrera Penitenciaria; y
+
+XXV. Las demás que establezcan otras disposiciones aplicables.
+
+### Capítulo II. Del Patrimonio
+
+###### Artículo 5.
+
+El patrimonio de la Comisión se integra de la siguiente manera:
+
+I. Los bienes muebles e inmuebles y recursos de su propiedad;
+
+II. Las aportaciones de la Federación, Estado y municipios;
+
+III. Las aportaciones otorgadas por los particulares; y
+
+IV. Los demás bienes que obtenga por cualquier título legal.
+
+### Capítulo III. De los Órganos de la Comisión
+
+###### Artículo 6.
+
+La Comisión se integra por los órganos siguientes:
+
+I. Un órgano de gobierno que será el Consejo Directivo;
+
+II. Un órgano ejecutivo que será el Comisionado;
+
+III. Un órgano Interno de Control, y
+
+IV. Las demás unidades administrativas que establezca su reglamento interior.
+
+### Capítulo IV. Del Consejo Directivo
+
+###### Artículo 7.
+
+El Consejo Directivo será la autoridad superior de la Comisión y estará integrado por:
+
+I. Consejeros Propietarios, que serán:
+
+a. Un Presidente, que será el titular del Poder Ejecutivo del Estado de Querétaro; en ausencia de éste, fungirá con dicho carácter el Secretario de Gobierno.
+
+b. El titular de la Secretaría de Gobierno.
+
+c. El titular de la Secretaría de Seguridad Ciudadana.
+
+d. El titular de la Secretaría de la Contraloría; y
+
+II. Un Secretario Técnico, que será el Comisionado de la Comisión, quién participará sólo con voz en las sesiones del Consejo Directivo.
+
+Los consejeros propietarios nombrarán un suplente que actuará en su ausencia en las sesiones.
+
+Cuando el Secretario de Gobierno funja como Presidente del Consejo Directivo, su suplente se integrará al Consejo.
+
+###### Artículo 8.
+
+El Consejo Directivo celebrará sesiones ordinarias y extraordinarias.
+
+Las sesiones ordinarias se celebrarán trimestralmente y serán convocadas con cinco días naturales de anticipación.
+
+Las sesiones extraordinarias se celebrarán cuantas veces sean necesarias y serán convocadas con dos días hábiles de anticipación.
+
+La convocatoria deberá contener el orden del día y la documentación necesaria para conocer los asuntos que serán objeto de la sesión.
+
+###### Artículo 9.
+
+El Consejo Directivo sesionará válidamente con la asistencia de su Presidente, del Secretario Técnico y la mitad más uno de sus integrantes.
+
+Las resoluciones se tomarán por mayoría de los integrantes presentes, teniendo el Presidente voto de calidad.
+
+###### Artículo 10.
+
+El Consejo Directivo tiene las atribuciones siguientes:
+
+I. Aprobar los programas y presupuestos de la Comisión, en los términos de las disposiciones aplicables;
+
+II. Aprobar los proyectos de reglamentos y los manuales administrativos de la Comisión;
+
+III. Aprobar el calendario de sesiones ordinarias del Consejo Directivo;
+
+IV. Nombrar y remover a los servidores públicos de la Comisión, en los supuestos que establezcan las disposiciones aplicables;
+
+V. Aprobar la estructura orgánica, salarial y ocupacional conforme a las disposiciones aplicables;
+
+VI. Analizar y aprobar los informes del Comisionado, conforme al procedimiento previsto en las disposiciones aplicables; y
+
+VII. Las demás que establezcan otras disposiciones aplicables.
+
+###### Artículo 11.
+
+El Presidente del Consejo Directivo tiene las atribuciones siguientes:
+
+I. Presidir las sesiones del Consejo Directivo, teniendo voto de calidad;
+
+II. Convocar, por conducto del Secretario Técnico a las sesiones ordinarias y extraordinarias;
+
+III. Proponer el calendario de sesiones del Consejo Directivo;
+
+IV. Instalar, dirigir y levantar las sesiones;
+
+V. Firmar las actas de las sesiones, y
+
+VI. Las demás que establezcan otras disposiciones aplicables.
+
+###### Artículo 12.
+
+El Secretario Técnico tendrá las atribuciones siguientes:
+
+I. Notificar y entregar la convocatoria de las sesiones a los integrantes del Consejo Directivo;
+
+II. Pasar lista de asistencia y verificar la existencia de quórum legal para sesionar;
+
+III. Levantar, certificar y archivar las actas de las sesiones del Consejo Directivo;
+
+IV. Firmar las actas de las sesiones y recabar la de los integrantes del Consejo Directivo que asistan a las sesiones;
+
+V. Dar seguimiento a los acuerdos del Consejo Directivo, y
+
+VI. Las demás que establezcan otras disposiciones aplicables.
+
+### Capítulo V. Comisionado
+
+###### Artículo 13.
+
+El Comisionado será designado y removido por el titular del Poder Ejecutivo del Estado.
+
+###### Artículo 14.
+
+El Comisionado deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+
+II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa;
+
+III. No encontrarse en alguno de los impedimentos para ser miembro del órgano de gobierno, en términos de la legislación aplicable;
+
+IV. Contar con título de Licenciatura en Derecho, Ciencias de la Seguridad o materia afín a la naturaleza de las funciones que habrá de desempeñar y tener por lo menos cinco años de ejercicio profesional;
+
+V. Acreditar cuando menos tres años de experiencia en el sistema penitenciario o amplio conocimiento en las materias de Derecho Penal y Reinserción Social;
+
+VI. No haber sido condenado por delito doloso; y
+
+VII. Ser de notoria buena conducta, honradez y probidad.
+
+###### Artículo 15.
+
+El Comisionado tendrá las atribuciones siguientes:
+
+I. Administrar el funcionamiento de los Centros Penitenciarios;
+
+II. Ejercer la representación legal de la Comisión;
+
+III. Supervisar las instalaciones de los Centros Penitenciarios;
+
+IV. Celebrar y otorgar toda clase de actos y documentos inherentes al objeto y funciones de la Comisión;
+
+V. Certificar documentos, libros y registros que obren en sus archivos o expedientes, incluyendo los que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos e información que obre en su poder de acuerdo a la naturaleza de sus funciones o bien que se genere a través del Sistema Informático Único;
+
+VI. Proponer al Consejo Directivo el nombramiento y la remoción de los servidores públicos, en los términos de las disposiciones aplicables;
+
+VII. Presentar periódicamente, al Consejo Directivo, el informe del desempeño de las actividades de la Comisión, en los términos de las disposiciones aplicables;
+
+VIII. Ejecutar los acuerdos que dicte el Consejo Directivo;
+
+IX. Coordinar las actividades de las direcciones, coordinaciones y demás unidades administrativas a su cargo;
+
+X. Emitir los lineamientos para autorizar el acceso a particulares y autoridades a los Centros Penitenciarios, quienes deberán acatar en todo momento las disposiciones aplicables;
+
+XI. Supervisar la ejecución de las medidas disciplinarias impuestas a las personas privadas de la libertad por violación al régimen de disciplina al interior de los Centros Penitenciarios;
+
+XII. Supervisar el traslado de las personas privadas de la libertad de un centro penitenciario a otro centro penitenciario, en los términos de las disposiciones aplicables;
+
+XIII. Realizar propuestas o hacer llegar solicitudes de otorgamiento de beneficios que supongan una modificación a las condiciones de cumplimiento de la pena o una reducción de la misma a favor de las personas sentenciadas, en los términos de las disposiciones aplicables;
+
+XIV. Organizar la ejecución, control, vigilancia y seguimiento a las penas que imponga o modifique el órgano jurisdiccional competente;
+
+XV. Supervisar la aplicación de sanciones penales impuestas por los órganos jurisdiccionales y que se cumplan en los Centros Penitenciarios, de conformidad con las leyes aplicables;
+
+XVI. Promover ante las autoridades judiciales las acciones legales que correspondan y cumplir los mandatos de las autoridades judiciales dentro del ámbito de su competencia;
+
+XVII. Coordinar la aplicación las medidas de seguridad o vigilancia a las personas privadas de la libertad que lo requieran;
+
+XVIII. Administrar el archivo correspondiente a los expedientes médicos y expedientes únicos de ejecución penal de las personas que ingresen al sistema penitenciario, conforme a las disposiciones legales aplicables;
+
+XIX. Celebrar convenios con instituciones privadas relativos a la prestación de servicios personales no remunerados de las personas a quienes se les haya impuesto la pena de trabajos a favor de la comunidad;
+
+XX. Celebrar convenios con instituciones públicas y privadas del sector salud en los ámbitos federal y estatal, a efecto de atender las urgencias médico-quirúrgicas cuya intervención no se pueda llevar a cabo en los Centros Penitenciarios, así como para la designación del personal médico que proporcione servicios de salud de manera continua y permanentemente en el Sistema Penitenciario, en términos de las disposiciones aplicables;
+
+XXI. Celebrar convenios de colaboración con Instituciones públicas y privadas de carácter nacional e internacional en materias educativas, culturales y deportivas para ampliar la oferta y calidad de los servicios ofrecidos en los Centros Penitenciarios;
+
+XXII. Celebrar convenios de colaboración con Instituciones públicas y privadas de carácter nacional e internacional, con el objetivo de consolidar el Servicio Profesional de Carrera Penitenciaria, así como la actualización y capacitación del personal de la Comisión;
+
+XXIII. Emitir, avalar y negociar títulos de crédito, en los términos de las disposiciones aplicables;
+
+XXIV. Formular querellas y otorgar perdón;
+
+XXV. Ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo;
+
+XXVI. Comprometer asuntos en arbitraje y celebrar transacciones, conforme a las disposiciones aplicables;
+
+XXVII. Otorgar poderes generales y especiales, incluyendo las que requieran autorización o cláusula especial;
+
+XXVIII. Sustituir y revocar poderes generales y especiales;
+
+XXIX. Ejercer el presupuesto de egresos autorizado y vigilar su correcta aplicación, de conformidad con las disposiciones legales aplicables;
+
+XXX. Implementar mecanismos de participación y firmar convenios de colaboración con organizaciones de la sociedad civil a fin de diseñar o brindar servicios en internamiento y de naturaleza post-penal;
+
+XXXI. Solicitar el traslado involuntario de las personas privadas de la libertad procesadas o sentenciadas, en los términos de las disposiciones aplicables;
+
+XXXII. Ordenar y ejecutar excepcionalmente el traslado de personas privadas de la libertad, en los términos de las disposiciones aplicables;
+
+XXXIII. Supervisar la aplicación de la normativa, protocolos y procedimientos aplicables a la operación del Sistema Penitenciario;
+
+XXXIV. Expedir órdenes, circulares y demás documentos en el ámbito administrativo necesarios para el eficaz despacho de las funciones de la Comisión; y
+
+XXXV. Las demás que establezcan otras disposiciones aplicables.
+
+Para el despacho de los asuntos que competen al Comisionado, dispondrá de personal de seguridad y custodia, técnico, jurídico, administrativo, y de policía procesal necesario para garantizar el debido cumplimiento de sus funciones.
+
+Las ausencias temporales del Comisionado hasta por quince días naturales serán suplidas por el Director de Seguridad y Vigilancia; en las mayores de este periodo, serán por quién designe el Secretario de Gobierno.
+
+### Capítulo VI. Del Órgano Interno de Control
+
+###### Artículo 16.
+
+El Órgano Interno de Control es la unidad administrativa de la Comisión encargada de promover, evaluar y fortalecer el buen funcionamiento del control interno, conforme a las disposiciones legales en materia de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables.
+
+El Órgano Interno de Control tendrá las atribuciones siguientes:
+
+I. Realizar la investigación, substanciación y calificación de las faltas administrativas, en los términos de las disposiciones aplicables;
+
+II. Resolver los procedimientos de responsabilidad administrativa, en los términos de las disposiciones aplicables;
+
+III. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas, en los términos establecidos por los Sistemas Estatal y Nacional Anticorrupción;
+
+IV. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales, estatales y municipales, según corresponda en el ámbito de su competencia;
+
+V. Presentar denuncias por hechos que las leyes señalen como delitos ante las instancias competentes; y
+
+VI. Las demás que establezcan otras disposiciones aplicables.
+
+## TRANSITORIOS
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Articulo Segundo. Los recursos humanos, materiales y financieros con que cuenta la Dirección General de Reinserción Social adscrita a la Secretaría de Gobierno, formarán parte del organismo público descentralizado denominado Comisión Estatal del Sistema Penitenciario de Querétaro. Para efectos de lo anterior, la Comisión Estatal del Sistema Penitenciario de Querétaro deberá obtener los registros fiscales y administrativos que procedan.
+
+El Poder Ejecutivo del Estado, a través de sus dependencias, continuará administrando los referidos recursos, hasta el 31 de diciembre del presente ejercicio fiscal.
+
+Artículo Tercero. El organismo público descentralizado denominado Comisión Estatal del Sistema Penitenciario de Querétaro cumplirá con las obligaciones que, como sujeto, le señalan las disposiciones aplicables a partir del ejercicio fiscal 2018, lo anterior sin perjuicio de que pueda obtener los registros fiscales y administrativos a que se refiere el artículo anterior, una vez que cobre vigencia la presente Ley en términos de su Artículo Primero Transitorio.
+
+Artículo Cuarto. Los trabajadores de la Dirección General de Reinserción Social adscrita a la Secretaría de Gobierno, por virtud de la presente Ley, se transferirán al organismo público descentralizado denominado Comisión Estatal del Sistema Penitenciario de Querétaro, conservando los de base sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Sexto. Remítase la presente al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
+
+DADO EN EL SALÓN DE SESIONES “CONSTITUYENTES 1916-1917” RECINTO OFICIAL DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, A LOS VEINTIOCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DIECISIETE.
+
+ATENTAMENTE
+
+QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL ESTADO DE QUERÉTARO
+
+MESA DIRECTIVA
+
+DIP. MARÍA ISABEL AGUILAR MORALES
+
+PRESIDENTA
+
+Rúbrica
+
+DIP. LETICIA RUBIO MONTES
+
+PRIMERA SECRETARIA
+
+Rúbrica
+
+Francisco Domínguez Servién, Gobernador del Estado de Querétaro, en ejercicio de lo dispuesto por los artículos 22 fracción I, 23 de la Constitución Política del Estado de Querétaro y 8 de la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro; expido y promulgo la presente LEY QUE CREA LA COMISIÓN ESTATAL DEL SISTEMA PENITENCIARIO DE QUERÉTARO Y DEROGA DIVERSAS DISPOSICIONES DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO.
+
+Dado en el Palacio de la Corregidora, sede del Poder Ejecutivo del Estado de Querétaro, en la ciudad de Santiago de Querétaro, Qro., el día veintinueve del mes de noviembre del año dos mil diecisiete; para su debida publicación y observancia.
+
+Francisco Domínguez Servién
+
+Gobernador del Estado de Querétaro
+
+Rúbrica
+
+Juan Martín Granados Torres
+
+Secretario de Gobierno
+
+Rúbrica
