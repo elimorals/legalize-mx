@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-planeacion-del-estado-de-baja-california-sur-25373"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2014-11-20"
+last_updated: "2017-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE PLANEACION DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 20 DE ENERO DE 2020, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de febrero de 1984.
 
@@ -139,25 +141,39 @@ I.- Participar en la elaboración del Plan Estatal de desarrollo aportando, en s
 
 II.- Para dar cumplimiento a la fracción anterior, así como a lo previsto por el Artículo 4º, de la presente Ley, el Congreso del Estado contará con una representación integrada por un Diputado de cada Municipio de la Entidad.
 
-> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-ARTICULO 13 bis.- La Secretaría de Desarrollo tendrá las siguientes atribuciones:
+ARTICULO 13 BIS.- La Oficina de Planeación, Evaluación y Promoción de Políticas Públicas, tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 I.- Coordinar las actividades de la Planeación Estatal de Desarrollo;
 
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 II.- Proyectar, elaborar, actualizar y evaluar el Plan Estatal de Desarrollo, tomando en cuenta las propuestas de las Dependencias, de los legisladores representantes de los Municipios y Entidades de la Administración Federal, así como los planteamientos que se formulen por los grupos sociales interesados;
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 III.- Elaborar los programas especiales que señale el Gobernador;
 
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 IV.- Cuidar que el Plan y los programas que se generen en el sistema mantengan congruencia en su elaboración y contenido;
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
 V.- Elaborar los programas operativos anuales, tomando en cuenta las propuestas que para el efecto realicen las dependencias coordinadoras del sector y los Gobiernos Municipales; y
 
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
 VI.- Verificar, periódicamente, la relación que guardan los programas y presupuestos de las diversas Dependencias y Entidades de la Administración Pública Estatal, así como resultados de su ejecución, los objetivos y prioridades del plan y los programas especiales a que se refiere esta Ley, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y reformar, en su caso, el plan y los programas respectivos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 14.
 
-A la Secretaría de Finanzas le corresponden:
+A la Secretaría de Finanzas y Administración le corresponde:
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2012)</small>
 
@@ -313,13 +329,17 @@ Estos programas que deberán ser congruentes entre si, orientarán las actividad
 
 El Plan y los programas a que se refieren los Artículos anteriores especificarán las acciones que serán objeto de coordinación con el Gobierno Federal y con los Ayuntamientos de la Entidad, y de inducción o concertación con los grupos sociales interesados.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 31.
 
-El Plan y los programas regionales y especiales deberán ser sometidos por la Secretaría de Desarrollo a la consideración y aprobación del Gobernador del Estado.
+El Plan y los programas regionales y especiales deberán ser sometidos por la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas, a la consideración y aprobación del Gobernador del Estado.
 
 Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado por la Dependencia coordinadora del sector.
 
-Si la entidad no estuviere agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Secretaría de Desarrollo.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Si la entidad no estuviere agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas.
 
 ###### ARTICULO 32.
 
@@ -496,3 +516,35 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 B.O. 20 DE NOVIEMBRE DE 2014.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 2486 SE REFORMAN LOS ARTÍCULOS 5, 6, 16, 22, 23, 25, 27, 29, 30, 32 Y 40 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR; Y SE REFORMAN LOS ARTÍCULOS 13 BIS, 14 Y 31 DE LA LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto la Secretaría de Finanzas y Administración, así como la Contraloría General del Estado deberán proveer lo necesario a fin que de forma inmediata se inicie el proceso de fusión a que se refiere este Decreto para la creación de la Secretaría de Turismo, Economía y Sustentabilidad, así como la Secretaría del Trabajo y Desarrollo Social que tendrá como plazo máximo al 31 de diciembre del 2017.
+
+TERCERO.- Los recursos humanos, materiales y bienes patrimoniales, así como las partidas presupuestales que le correspondían a la Secretaria de Desarrollo Social, pasarán a la Secretaría del Trabajo y Desarrollo Social. Cualquier mención de la Secretaría de Desarrollo Social se tendrá por aludida a la Secretaría del Trabajo y Desarrollo Social.
+
+Con la entrada en vigor del presente decreto cualquier mención de la Secretaría de Desarrollo Social se tendrá por aludida a la Secretaría del Trabajo y Desarrollo Social, incluyendo la sectorización de las paraestatales, entidades descentralizadas o desconcentradas y empresas de participación estatal o fideicomisos.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+CUARTO.- Las partidas presupuestales, recursos humanos, materiales y bienes patrimoniales asignados actualmente a la Secretaria de Turismo y a la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales, le serán asignados a la Secretaría de Turismo, Economía y Sustentabilidad, por lo que cualquier mención a la Secretaría de Turismo se tendrá por aludida a la Secretaria de Turismo Economía y Sustentabilidad.
+
+Con la entrada en vigor del presente Decreto cualquier mención de la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales, se tendrá por aludida a la Secretaria de Turismo, Economía y Sustentabilidad, incluyendo la sectorización de las paraestatales, entidades descentralizadas o desconcentradas y empresas de participación estatal o fideicomisos.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+QUINTO.- Las partidas presupuestales, recursos humanos, materiales y bienes patrimoniales asignados actualmente a la Secretaría de Desarrollo Económico, Medio y (sic) Ambiente y Recursos Naturales para ejercer las funciones de planeación que le confería la Ley de Planeación del Estado de Baja California Sur, serán asignados a la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas.
+
+SEXTO.- El Presupuesto de Egresos del Estado para el Ejercicio Fiscal de 2018, deberá contener los traspasos presupuestales previstos en este Decreto.
+
+SÉPTIMO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los realicen se incorporen a la dependencia que señale la Ley, a excepción de los que sean urgentes o estén sujetos a plazos improrrogables.
+
+OCTAVO.- Cuando en otras leyes se otorgue denominación distinta a alguna dependencia, cuyas funciones y facultades estén contempladas para otra Secretaría, para el cumplimiento de las mismas y las que se establezcan por convenios celebrados con autoridades federales o municipales, dicha competencia se entenderá concedida a la dependencia que determine el presente Decreto.
+
+NOVENO.- El Gobernador del Estado, a través de la Secretaría de Finanzas y Administración, definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a las dependencias y entidades auxiliares que se creen, con el fin de mejorar la operatividad de cambio enfocada a la calidad de los servicios del gobierno.
+
+DÉCIMO.- El Gobernador del Estado, de conformidad con las atribuciones asignadas a cada una de las secretarías y organismos descentralizados, expedirá los reglamentos necesarios en un término que no exceda de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
