@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2017-06-27"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -67,13 +67,21 @@ Todos los reglamentos, decretos, acuerdos, circulares y demás disposiciones que
 
 Tratándose de la promulgación y publicación de las leyes o decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del titular de la Secretaría General de Gobierno.
 
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 5.
 
-El Gobernador del Estado contará con el apoyo directo de la Oficina del Ejecutivo para el ejercicio de sus funciones y realizar las tareas de seguimiento permanente a las políticas públicas y su evaluación periódica, con el objetivo de aportar elementos para la toma de decisiones, sin perjuicio de las atribuciones que ejercen las dependencias de la administración pública estatal en el ámbito de sus respectivas competencias.
+El Gobernador del Estado contará con el apoyo directo de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas, a fin (sic) realizar las tareas de elaboración, seguimiento y evaluación permanente de las políticas públicas, sin perjuicio de las atribuciones que ejercen las dependencias de la administración pública estatal en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+El Gobernador del Estado podrá contar con otras unidades administrativas de apoyo directo para el despacho de los asuntos y facultades que la Ley le señala.
+
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
-El Gobernador del Estado designará al Jefe de la Oficina del Ejecutivo, quien tendrá a su cargo las unidades de asesoría, comunicación, apoyo técnico, coordinación, control administrativo y gubernamental que se requieran para el desempeño de sus funciones.
+El Gobernador del Estado designará al Jefe de la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas, quien tendrá a su cargo las unidades de asesoría, comunicación, apoyo técnico, coordinación, control administrativo y gubernamental que se requieran para el desempeño de sus funciones.
 
 Asimismo, el Gobernador del Estado podrá establecer oficinas de representación fuera del propio territorio estatal, conforme al presupuesto que se autorice y con apego a la ley.
 
@@ -141,23 +149,29 @@ I.- Secretaría General de Gobierno;
 
 II.- Secretaría de Finanzas y Administración;
 
-III.- Secretaría de Planeación Urbana, Infraestructura y Transporte;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+III.- Secretaría de Planeación Urbana, Infraestructura y Movilidad;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2015)</small>
 
 IV.- Secretaría de Educación Pública;
 
-V.- Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+V.- Secretaría de Turismo, Economía y Sustentabilidad;
 
 VI.- Secretaría de Salud;
 
-VII.- Secretaría de Turismo;
+VII.- (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2017)
 
 VIII.- Secretaría de Pesca, Acuacultura y Desarrollo Agropecuario;
 
-IX.- Secretaría del Trabajo y Previsión Social;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-X.- Secretaría de Desarrollo Social;
+IX. Secretaría del Trabajo y Desarrollo Social;
+
+X.- (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2017)
 
 XI.- Procuraduría General de Justicia, y
 
@@ -317,7 +331,9 @@ I. Planear, programar, presupuestar y evaluar la actividad financiera del Estado
 
 II. Elaborar y presentar al Gobernador del Estado, previo estudio y validación de la Secretaría General de Gobierno, los proyectos de iniciativas de Ley de Ingresos y Presupuesto de Egresos, así como las modificaciones a este último, haciéndolos previamente compatibles con la disponibilidad de recursos;
 
-III. Establecer, conjuntamente con la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales y la Contraloría General, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la administración pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la ley de la materia;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+III. Establecer, conjuntamente con la Contraloría General, el sistema de programación del gasto público de acuerdo con los objetivos y necesidades de la administración pública del Estado, normando y asesorando a las dependencias y entidades para la ejecución presupuestal de su operación y sus programas específicos de conformidad con la Ley de la materia;
 
 IV. Diseñar y normar los sistemas de contabilidad gubernamental;
 
@@ -375,7 +391,9 @@ XXVII. Custodiar los documentos que constituyen valores del Estado;
 
 XXVIII. Establecer, dirigir y supervisar las actividades de las oficinas recaudadoras ubicadas en el territorio del Estado;
 
-XXIX. Sugerir los criterios y montos de los estímulos fiscales, estudiar y proyectar sus repercusiones y efectos en los ingresos del Estado y evaluar los resultados conforme a sus objetivos en coordinación con la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales y la Contraloría General;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXIX. Sugerir los criterios y montos de los estímulos fiscales, estudiar y proyectar sus repercusiones y efectos en los ingresos del Estado y evaluar los resultados conforme a sus objetivos en coordinación con la Contraloría General;
 
 XXX. Cuando proceda conforme a las normas vigentes, condonar multas por infracción a las disposiciones fiscales estatales, así como las multas por infracción a las disposiciones fiscales federales cuando esta facultad haya sido delegada al Estado mediante convenio;
 
@@ -411,53 +429,85 @@ XLIV. Integrar y mantener actualizado el padrón general de proveedores del Gobi
 
 XLV. Adquirir los bienes y servicios que requiera el Gobierno del Estado y proveer oportunamente a sus dependencias de los elementos y materiales de trabajo necesarios para el desarrollo de sus funciones, de conformidad con la planeación, programación y presupuestación que las mismas le remitan;
 
-XLVI. Administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, conjuntamente con las dependencias competentes; así como mantener actualizado el inventario de los mismos, con excepción de las reservas territoriales y predios sin construcción o edificación alguna, cuya actualización del inventario corresponderá a la Secretaria de Planeación Urbana, Infraestructura y Transporte;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLVI. Administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, conjuntamente con las dependencias competentes; así como mantener actualizado el inventario de los mismos, con excepción de las reservas territoriales y predios sin construcción o edificación alguna, cuya actualización del inventario corresponderá a la Secretaria de Planeación Urbana, Infraestructura y Movilidad;
 
 XLVII. Coordinar los programas de conservación, mantenimiento y reparación de los bienes inmuebles del Gobierno del Estado, y
 
-XLVIII. Las demás que le señalen las leyes aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLVIII. Coordinar la emisión de placas de circulación para el servicio privado y público en la entidad, y el control del registro vehicular, así como la emisión de licencias de conducir; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLIX. La demás que señalen las leyes aplicables.
+
+> <small>(REFORMADO [N. DE. E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-A la Secretaría de Planeación Urbana, Infraestructura y Transporte le corresponde el ejercicio de las siguientes atribuciones:
+A la Secretaría de Planeación Urbana, Infraestructura y Movilidad le corresponde el ejercicio de las siguientes atribuciones:
 
 I. Promover el ordenamiento y la planeación territorial, como articuladores del bienestar de las personas y el uso eficiente del suelo;
 
-II. Incentivar el crecimiento ordenado de los asentamientos humanos y los centros de población;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-III. Diseñar y conducir las políticas estatales de asentamientos humanos, urbanismo, obras de infraestructura, vivienda, transporte y movilidad;
+II. Incentivar el crecimiento ordenado de los asentamientos humanos y los centros de población en coordinación con las autoridades competentes en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano;
 
-IV. Vigilar el cumplimiento de las disposiciones en materia de construcciones, fraccionamientos y conjuntos habitacionales en el Estado;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-V. Coordinar la elaboración, revisión y ejecución del Plan y del Programa Estatal de Desarrollo Urbano, así como establecer y dictar las medidas necesarias que señala la Ley de Desarrollo Urbano para el Estado para su debido cumplimiento;
+III. Diseñar y conducir las políticas estatales de asentamientos humanos, ordenamiento territorial, desarrollo urbano, obras de infraestructura, vivienda y movilidad;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+IV. Participar en las disposiciones en materia de construcciones, fraccionamientos y conjuntos habitacionales del Estado, en coordinación con las autoridades municipales;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+V. Coordinar la elaboración y revisión del Plan Estatal de Desarrollo Urbano, así como establecer y dictar las medidas necesarias que señala la legislación estatal aplicable en materia de asentamientos humanos, ordenamiento territorial y desarrollo urbano, para su debido cumplimiento;
 
 VI. Participar en la elaboración de proyectos de obra pública, en coordinación con las dependencias y entidades federales y municipales;
 
-VII. Dictar normas técnicas y, en su caso, autorizar las obras que realice el Estado por sí o en coordinación con la federación, municipios o particulares, excepto las encomendadas expresamente por ley a otras dependencias;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-VIII. Intervenir en la adquisición, enajenación, afectación o destino de los bienes inmuebles propiedad el Gobierno del Estado, así como en su construcción y mantenimiento, e igualmente controlar el inventario de reservas territoriales y predios sin construcción o edificación alguna;
+VII. Colaborar en la elaboración de normas técnicas y, en su caso, autorizar las obras que realice el Estado por si o en coordinación con la federación, municipios o particulares, excepto las encomendadas expresamente por ley a otras dependencias;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Intervenir en la adquisición, enajenación, afectación o destino de los bienes inmuebles propiedad del Gobierno del Estado, así como en su construcción y remodelación o rehabilitación, e igualmente controlar el inventario de reservas territoriales y predios sin construcción o edificación alguna;
 
 IX. Establecer las bases y normas a las que deben sujetarse los concursos para la ejecución de obras que realice el Gobierno del Estado, señalando las adjudicaciones que procedan y vigilar el cumplimiento de los contratos celebrados, de conformidad con la legislación aplicable;
 
-X. Consultar a las dependencias y entidades correspondientes respecto a la obra pública que se concursa sobre las especificaciones a que deben sujetarse para la ejecución de las mismas;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+X. Coadyuvar con los tres órdenes de gobierno, en la planeación y ejecución de programas y acciones tendientes a mejorar y ampliar los servicios de energía eléctrica sustentable;
 
 XI. Intervenir en los procedimientos de planeación, programación, presupuestación, adjudicación y contratación de la obra pública, en coordinación con las demás dependencias y entidades del Gobierno del Estado que participen en dichos procedimientos;
 
-XII. Realizar y vigilar directamente o a través de terceros, en su caso, las obras públicas y los servicios relacionados con las mismas, autorizadas en el programa de obra pública estatal y las convenidas con los gobiernos federal y municipales, incluyendo aquellas encomendadas por acuerdo expreso del Gobernador del Estado;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XII. Realizar y vigilar directamente o a través de terceros, en su caso, las obras públicas y los servicios relacionados con las mismas, autorizadas por el Gobierno del Estado y ejecutadas por la Secretaría de Planeación Urbana, Infraestructura y Movilidad, incluyendo aquellas encomendadas por acuerdo expreso del Gobernador del Estado;
 
 XIII. Coadyuvar en la conservación del patrimonio histórico y cultural en coordinación con las autoridades federales, estatales y municipales;
 
 XIV. Planear, programar y presupuestar la construcción, conservación, mantenimiento y modernización de las carreteras, puentes, caminos vecinales y demás vías de jurisdicción estatal;
 
-XV. Vigilar que se respete el derecho de vía a las carreteras, puentes, caminos vecinales y demás vías de jurisdicción estatal;
+XV. (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2017)
 
-XVI. Realizar, en coordinación con los municipios, los estudios para la planeación del servicio público de transporte de pasajeros y de carga en el Estado; y elaborar las políticas y estrategias en la materia, de acuerdo con las leyes aplicables;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XVII. Coordinar, con los ayuntamientos, la emisión de placas de circulación para el servicio privado y público en la entidad, y el control del registro vehicular, así como la emisión de licencias de conducir;
+XVI. Elaborar las políticas y estrategias en la materia de movilidad y transporte, de acuerdo a las leyes aplicables;
 
-XVIII. Revisar las solicitudes de las concesiones para la prestación del servicio público de transporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal, y otorgarlas, previo acuerdo con el Gobernador del Estado;
+XVII. (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2017)
 
-XIX. Vigilar el cumplimiento de las bases y los requisitos conforme a los cuales deberá ajustarse el tránsito en las carreteras y caminos de jurisdicción estatal, en los términos de las leyes y reglamentos respectivos, y
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XVIII. Revisar las solicitudes de las concesiones para la prestación del servicio público de transporte en las carreteras estatales, caminos vecinales y demás vías de jurisdicción estatal, de conformidad con la normatividad aplicable, y otorgarlas, previo acuerdo con el Gobernador del Estado;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XIX. Contribuir, en coordinación con las demás autoridades competentes, en el cumplimiento de la legislación estatal aplicable en materia de movilidad;
 
 XX. Las demás que le señalen las leyes aplicables.
 
@@ -515,35 +565,41 @@ XX. Coordinar el funcionamiento del Patronato del Estudiante Sudcaliforniano, en
 
 XXI. Las demás que le señalen las leyes aplicables.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
-A la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales le corresponde el ejercicio de las siguientes atribuciones:
+A la Secretaría de Turismo, Economía y Sustentabilidad le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Proponer al Gobernador del Estado, las políticas generales e instrumentos necesarios para la debida planeación del desarrollo socioeconómico y el fomento de las actividades productivas en la entidad, considerando las propuestas de los sectores social y privado, así como las que formulen las demás dependencias de la administración pública estatal, paraestatal y municipal;
+I. Establecer, conducir, supervisar y difundir, en coordinación con las autoridades competentes, las políticas generales, sectoriales, programas, proyectos e instrumentos necesarios para el desarrollo, promoción y fomento de las actividades turísticas, económicas y productivas en la entidad, considerando las propuestas de los sectores social y privado, así como las que formulen las demás dependencias de la administración pública estatal, paraestatal y municipal;
 
-II. Elaborar y someter a consideración del Gobernador del Estado, en coordinación con la Secretaría de Finanzas y administración y la Contraloría General, así como con la participación de las dependencias y entidades de la administración pública, el Plan Estatal de Desarrollo, atendiendo a los procedimientos y especificaciones que establece la Ley de Planeación del Estado;
+II. Promover la organización de prestadores de servicios de todo tipo, constitución de cooperativas, creación de parques industriales y centros comerciales;
 
-III. Participar en la elaboración del Presupuesto de Egresos, conjuntamente con la Secretaría de Finanzas y Administración y la Contraloría General;
+III. Apoyar, controlar y supervisar, en coordinación con las dependencias competentes y de acuerdo con las leyes, reglamentos y acuerdos en la materia, los servicios turísticos de transporte, hospedaje, alimentación y similares que se presten en el Estado;
 
-IV. Promover la organización de prestadores de servicios, constitución de cooperativas, creación de parques industriales y centros comerciales;
+IV. Instrumentar, mantener y operar los sistemas de información estadística relacionados con el turismo y la actividad económica estatal;
 
 V. Planear y presupuestar los programas de desarrollo regional desconcentrados al Gobierno del Estado, estableciendo, en coordinación con la Contraloría General, los mecanismos de control y evaluación de ejercicio presupuestal de los mismos;
 
 VI. Otorgar incentivos, apoyos y subsidios a las empresas, atendiendo a lo dispuesto a la ley de la materia y sus disposiciones administrativas;
 
-VII. Organizar y promover congresos, seminarios, ferias, exposiciones y otros eventos sobre desarrollo económico;
+VII. Promover y, en su caso, organizar con el apoyo de las autoridades competentes o sectores involucrados, congresos, seminarios, ferias, exposiciones y otros eventos sobre desarrollo económico o que fomenten las tradiciones, la cultura, el deporte y los atractivos turísticos del Estado.
 
-VIII. Participar en las actividades de la entidad paraestatal encargada, entre otros objetivos, de establecer mecanismos de apoyo financiero para fortalecer las actividades sociales y productivas, con el fin de fortalecer la capacidad del Gobierno Estatal para apoyar el desarrollo de la economía de Baja California Sur;
+VIII. Participar en las actividades de la entidad paraestatal encargada, entre otros objetivos, de establecer mecanismos de apoyo financiero para fortalecer las actividades turísticas, sociales y productivas, con el fin de fortalecer la capacidad del Gobierno Estatal para apoyar el desarrollo de la economía de Baja California Sur;
 
-IX. Proponer, orientar y estimular el desarrollo de la micro, pequeña y medianas empresas y fomentar la organización de la producción económica de los artesanos, las industrias familiares, rurales y urbanas; así como promover el desarrollo de centros y sistemas comerciales en el Estado;
+IX. Proponer, orientar y estimular el desarrollo de la micro, pequeña y medianas empresas y fomentar la organización de la producción económica de los artesanos, las industrias familiares, rurales y urbanas, incluyendo prestadores de servicios turísticos; así como promover el desarrollo de centros y sistemas comerciales en el Estado;
 
-X. Fomentar, instrumentar, conducir y evaluar las políticas y programas sectoriales de desarrollo, promoción y fomento económico;
+X. Proponer al Gobernador del Estado políticas, programas y proyectos relativos al fomento de la actividad turística, y el fortalecimiento de las actividades económicas contextualizadas en el desarrollo sustentable, privilegiando su calidad y competitividad;
 
-XI. Proponer al Gobernador del Estado políticas, programas y proyectos relativos al fomento de las actividades económicas contextualizadas en el desarrollo sustentable;
+XI. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás ordenamientos federales y estatales, aplicables en materia de turismo, fomento económico y desarrollo sustentable;
 
-XII. Ejercer las facultades que en materia de ecología le otorgan al Gobernador del Estado, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la ley estatal en la materia y su reglamento; así como la Ley de Aguas del Estado, y
+XII. Administrar y en su caso, concesionar de conformidad con las disposiciones legales aplicables, los servicios comerciales y de apoyo al turista en aquellos lugares que por su importancia histórica, cultural, social o ambiental se ubiquen en los principales puntos de aforo o concentración y participar en los ingresos provenientes de los mismos, con la finalidad de que se contribuya a la mejora, ampliación y modernización de esos sitios y de la infraestructura turística, todo ello con criterios de desarrollo sustentable, equilibrio ecológico y potencialidad en el uso de los recursos;
 
-XIII. Las demás que le señalen las leyes aplicables.
+XIII. Realizar, en coordinación con la Secretaría de Planeación Urbana, Infraestructura y Movilidad, obras públicas en materia de infraestructura turística, de manera directa o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado de Baja California Sur y demás disposiciones aplicables;
+
+XIV. Formular y ejecutar la política, criterios y normas técnicas ecológicas ambientales aplicables en el Estado, en forma congruente con los que, en su caso, formule la Federación y aplicar en la esfera de su competencia, la Ley de Equilibrio Ecológico y Protección del Ambiente del Estado de Baja California Sur, y sus reglamentos, y
+
+XV. Las demás que le señalen las leyes aplicables.
 
 ###### ARTÍCULO 26.
 
@@ -573,29 +629,7 @@ XI. Las demás que le señalen las leyes aplicables en la entidad.
 
 ###### ARTÍCULO 27.
 
-A la Secretaría de Turismo le corresponde el ejercicio de las siguientes atribuciones:
-
-I. Establecer, conducir, supervisar y difundir, en coordinación con las autoridades competentes, la política de desarrollo y promoción de la actividad turística estatal, con base en la legislación y los criterios y normatividad que determine el Gobernador del Estado;
-
-II. Apoyar, controlar y supervisar, en coordinación con las dependencias competentes y de acuerdo con las leyes, reglamentos y acuerdos en la materia, los servicios turísticos de transporte, hospedaje, alimentación y similares que se presten en el Estado;
-
-III. Colaborar con las autoridades competentes en la instrumentación del registro de escuelas y centros de educación y capacitación turística y opinar sobre los estudios que imparten en la materia, así como emitir recomendaciones en programas de capacitación para guías de turistas y sancionar la valuación que se practique a los aspirantes; asimismo, participar en la elaboración de programas educativos y de capacitación, previa determinación de las necesidades en la entidad;
-
-IV. Instrumentar programas, con los prestadores de servicios turísticos nacionales y extranjeros, para incrementar el flujo de turistas al Estado;
-
-V. Promover, con el apoyo de las autoridades competentes, o sectores involucrados, las actividades, eventos y espectáculos que fomenten las tradiciones, la cultura el deporte y los atractivos turísticos del Estado;
-
-VI. Implementar los aspectos de calidad y competitividad en los programas de desarrollo turístico;
-
-VII. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás ordenamientos federales y estatales, aplicables en materia de turismo;
-
-VIII. Administrar y en su caso, concesionar de conformidad con las disposiciones legales aplicables, los servicios comerciales y de apoyo al turista en aquellos lugares que por su importancia histórica, cultural, social o ambiental se ubiquen en los principales puntos de aforo o concentración y participar en los ingresos provenientes de los mismos, con la finalidad de que se contribuya a la mejora, ampliación y modernización de esos sitios y de la infraestructura turística, todo ello con criterios de desarrollo sustentable, equilibrio ecológico y potencialidad en el uso de los recursos;
-
-IX. Realizar, en coordinación con la Secretaría de Planeación Urbana, Infraestructura y Transporte, obras públicas en materia de infraestructura turística, de manera directamente o a través de terceros, en los términos de la Ley de Obras Públicas y Servicios Relacionados con las mismas del Estado de Baja California Sur y demás disposiciones aplicables;
-
-X. Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería que resulten necesaria (sic) para ejecutar las obras públicas en materia de infraestructura turística, observando las disposiciones legales y reglamentarias correspondientes, y vigilar su cumplimiento, y
-
-XI. Las demás que le señalen las leyes aplicables en la entidad.
+(DEROGADO, B.O. 30 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 28.
 
@@ -631,73 +665,71 @@ XIV. Vigilar el buen uso y manejo de los créditos agrícolas, y
 
 XV. Las demás que le señalen las leyes aplicables.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 29.
 
-A la Secretaría del Trabajo y Previsión Social le corresponde el ejercicio de las siguientes atribuciones:
+A la Secretaría del Trabajo y Desarrollo Social le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Vigilar la observancia y aplicación dentro del ámbito estatal, de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Política de los Estados Unidos Mexicanos;
+I. Vigilar la observancia y aplicación dentro del ámbito estatal, de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Política de los Estados Unidos Mexicanos; así como la debida aplicación de los reglamentos, decretos, acuerdos y órdenes del Gobernador del Estado, en materia de trabajo y previsión social;
 
-II. Vigilar la observancia y aplicación dentro del ámbito estatal, de las disposiciones relativas contenidas en el artículo 123 y demás de la Constitución Política de los Estados Unidos Mexicanos; así como la debida aplicación de los reglamentos, decretos, acuerdos y órdenes del Gobernador del Estado, en materia de trabajo y previsión social;
+II. Coadyuvar con la Subsecretaría de la Consejería Jurídica en la representación del Gobernador del Estado en los juicios de amparo, juicios de nulidad o cualquier controversia jurídica que se suscite por motivo de la observancia y aplicación de los diversos ordenamientos laborales, reglamentos o decretos expedidos en materia de trabajo y previsión social;
 
-III. Representar al Gobernador del Estado en los juicios de amparo, juicios de nulidad o cualquier controversia jurídica que se suscite por motivo de la observancia y aplicación de los diversos ordenamientos laborales, reglamentos o decretos expedidos en materia de trabajo y previsión social;
+III. Conducir y evaluar la política estatal en materia laboral de los diversos sectores sociales y productivos de la entidad, privilegiando en todo momento, la conciliación de los factores de la producción, así como proponer al Gobernador del Estado, la remoción, designación, y coordinación de los organismos de justicia laboral;
 
-IV. Conducir y evaluar la política estatal en materia laboral de los diversos sectores sociales y productivos de la entidad, privilegiando en todo momento, la conciliación de los factores de la producción, así como proponer al Gobernador del Estado, la remoción, designación, y coordinación de los organismos de justicia laboral;
+IV. Establecer mecanismos, normas, políticas y lineamientos que permitan, la estrecha colaboración y vinculación permanente con las diversas instancias, órganos y organismos de la administración pública federal, tendientes a la celebración de acuerdos, convenios de coordinación, y bases de colaboración, así como los demás actos jurídicos necesarios a través de los cuales se logre debidamente el seguimiento y debido cumplimiento a los programas establecidos y coordinados por el Gobierno Federal, y que sean aplicables en materia de trabajo, y previsión social e impartición y procuración de justicia laboral;
 
-V. Establecer mecanismos, normas, políticas y lineamientos que permitan, la estrecha colaboración y vinculación permanente con las diversas instancias, órganos y organismos de la administración pública federal, tendientes a la celebración de acuerdos, convenios de coordinación, y bases de colaboración, así como los demás actos jurídicos necesarios a través de los cuales se logre debidamente el seguimiento y debido cumplimiento a los programas establecidos y coordinados por el Gobierno Federal, y que sean aplicables en materia de trabajo, y previsión social e impartición y procuración de justicia laboral;
+V. Coordinar la participación de la Secretaría con las demás dependencias y entidades de la administración pública federal y los sectores productivos, en la aplicación y formulación de programas y proyectos en materia de productividad, de capacitación y adiestramiento de los trabajadores, así como la implementación de políticas, programas y operación del Servicio Nacional de Empleo;
 
-VI. Coordinar la participación de la Secretaría con las demás dependencias y entidades de la administración pública federal y los sectores productivos, en la aplicación y formulación de programas y proyectos en materia de productividad, de capacitación y adiestramiento de los trabajadores, así como la implementación de políticas, programas y operación del Servicio Nacional de Empleo;
+VI. Coordinar el establecimiento y la integración de la Junta Local de Conciliación y Arbitraje del Estado, así como las especiales que se instalen o se encuentren en el territorio estatal, así como proponer a dicha instancia laboral en apego a su autonomía jurisdiccional, las acciones tendientes a lograr el mejoramiento de la impartición de la justicia laboral en el Estado; así como vigilar su funcionamiento;
 
-VII. Coordinar el establecimiento y la integración de la Junta Local de Conciliación y Arbitraje del Estado, así como las especiales que se instalen o se encuentren en el territorio estatal, así como proponer a dicha instancia laboral en apego a su autonomía jurisdiccional, las acciones tendientes a lograr el mejoramiento de la impartición de la justicia laboral en el Estado; así como vigilar su funcionamiento;
+VII. Intervenir conciliatoriamente en los conflictos que se deriven de la aplicación y administración de los contratos colectivos de trabajo, recomendando el cumplimiento y la observancia de las disposiciones legales, reglamentarias y condiciones de trabajo pactadas; procurando el equilibrio entre los factores de la producción, y en todo momento, con estricto respeto a los principios de bilateralidad, legalidad, diálogo y transparencia;
 
-VIII. Intervenir conciliatoriamente en los conflictos que se deriven de la aplicación y administración de los contratos colectivos de trabajo, recomendando el cumplimiento y la observancia de las disposiciones legales, reglamentarias y condiciones de trabajo pactadas; procurando el equilibrio entre los factores de la producción, y en todo momento, con estricto respeto a los principios de bilateralidad, legalidad, diálogo y transparencia;
+VIII. Procurar permanentemente la solución de los conflictos laborales colectivos o individuales, a través de la conciliación con el objeto de que las partes resuelvan sus diferencias mediante la celebración de convenios, privilegiando en primera instancia, la previsión de conflictos, y posteriormente la conciliación, como medios alternos y fundamentales de solución en controversias laborales;
 
-IX. Procurar permanentemente la solución de los conflictos laborales colectivos o individuales, a través de la conciliación con el objeto de que las partes resuelvan sus diferencias mediante la celebración de convenios, privilegiando en primera instancia, la previsión de conflictos, y posteriormente la conciliación, como medios alternos y fundamentales de solución en controversias laborales;
+IX. Vigilar que se proporcionen los servicios de asesoría, conciliación y en su caso representación jurídica gratuita en materia laboral a los sindicatos y trabajadores cuando estos así lo soliciten, por conducto de la Procuraduría de la Defensa del Trabajo;
 
-X. Vigilar que se proporcionen los servicios de asesoría, conciliación y en su caso representación jurídica gratuita en materia laboral a los sindicatos y trabajadores cuando estos así lo soliciten, por conducto de la Procuraduría de la Defensa del Trabajo;
+X. Actualizar, a partir de su registro, la estadística de los sindicatos, federaciones, confederaciones de trabajadores y patrones, asociaciones obreras, patronales y profesionales, así como los demás datos que se consideren necesarios, información que será pública en términos de la Ley de la materia;
 
-XI. Actualizar, a partir de su registro, la estadística de los sindicatos, federaciones, confederaciones de trabajadores y patrones, asociaciones obreras, patronales y profesionales, así como los demás datos que se consideren necesarios, información que será pública en términos de la Ley de la materia;
+XI. Participar en la planeación y coordinación de la capacitación y adiestramiento de los trabajadores ya sean del sector público o privado, a través del Instituto de Capacitación para los Trabajadores del Estado de Baja California Sur; y expedir constancias de habilidades laborales, en coordinación con las diversas autoridades educativas
 
-XII. Participar en la planeación y coordinación de la capacitación y adiestramiento de los trabajadores ya sean del sector público o privado, a través del Instituto de Capacitación para los Trabajadores del Estado de Baja California Sur;
+XII. Programar, ordenar y realizar por conducto de los inspectores del trabajo las inspecciones ordinarias y extraordinarias en los centros de trabajo sujetos a la jurisdicción y competencia estatal para efectos de verificar el debido cumplimiento de la normatividad laboral y en su caso aplicar las sanciones correspondientes;
 
-XIII. Expedir constancias de habilidades laborales, en coordinación con las diversas autoridades educativas;
+XIII. Vigilar la instalación y funcionamiento de las comisiones obrero- patronales que ordene la Ley Federal del Trabajo dentro del ámbito de competencia estatal;
 
-XIV. Vigilar la instalación y funcionamiento de las comisiones obrero patronales que ordene la Ley Federal del Trabajo dentro del ámbito de competencia estatal;
+XIV. Establecer mecanismos de operación y seguimiento de políticas, programas y acciones que propicien la igualdad de oportunidades y la no discriminación en materia de trabajo y previsión social, buscando y tutelando permanentemente la integración laboral de personas pertenecientes a grupos vulnerables, así como de aquellas recluidas en los centros de readaptación social del Estado;
 
-XV. Establecer mecanismos de operación y seguimiento de políticas, programas y acciones que propicien la igualdad de oportunidades y la no discriminación en materia de trabajo y previsión social, buscando y tutelando permanentemente la integración laboral de personas pertenecientes a grupos vulnerables, así como de aquellas recluidas en los centros de readaptación social del Estado;
+XV. Llevar las estadísticas estatales correspondientes a las materias de trabajo y previsión social, así como las inherentes a impartición y procuración de justicia laboral, de conformidad y en términos de las disposiciones jurídicas aplicables;
 
-XVI. Llevar las estadísticas estatales correspondientes a las materias de trabajo y previsión social, así como las inherentes a impartición y procuración de justicia laboral, de conformidad y en términos de las disposiciones jurídicas aplicables, y
+XVI. Coordinar los diversos programas de desarrollo social en el ámbito estatal;
 
-XVII. Las demás que le señalen las leyes aplicables.
+XVII. Promover y facilitar la inversión social en proyectos de desarrollo;
+
+XVIII. Coordinar y supervisar los programas sociales del Gobierno Federal que se desarrollen en el Estado;
+
+XIX. Llevar un registro de los beneficiarios de los programas sociales que ejecuten las diferentes dependencias y entidades de la administración pública del Estado;
+
+XX. Proponer políticas y lineamientos encaminados a la planeación, financiamiento, ejecución, supervisión y control de los programas de desarrollo social, regional y de combate a la pobreza y desigualdad que realicen las dependencias y entidades de la administración pública estatal;
+
+XXI. Proponer e impulsar la ejecución de programas de emergencia social, destinados a zonas indígenas, rurales y urbanas marginadas;
+
+XXII. Establecer contacto con organismos no gubernamentales interesados en la inversión social para proyectos de desarrollo social dentro del Estado;
+
+XXIII. Coordinarse con las áreas de desarrollo social de los municipios del Estado;
+
+XXIV. Apoyar las acciones de aquellos organismos públicos y privados que desarrollen actividades de bienestar y asistencia social en beneficio de los habitantes de la entidad;
+
+XXV. Fomentar la participación de las instituciones académicas, de investigación de organizaciones no gubernamentales y de la sociedad en general, en el desarrollo e instrumentación de estrategias para superar rezagos sociales e impulsar el bienestar social de la población;
+
+XXVI. Concertar programas y, apoyar las actividades de bienestar y desarrollo social de los particulares, grupos intermedios y organismos no gubernamentales que actúan en el estado;
+
+XXVII. Crear y operar un sistema de vinculación formal para incluir y cohesionar a los grupos vulnerables a las oportunidades de participación y desarrollo social, y
+
+XXVIII. Las demás que le señalen las leyes aplicables.
 
 ###### ARTÍCULO 30.
 
-A la Secretaría de Desarrollo Social le corresponde el ejercicio de las siguientes atribuciones:
-
-I. Coordinar los diversos programas de desarrollo social en el ámbito estatal;
-
-II. Promover y facilitar la inversión social en proyectos de desarrollo;
-
-III. Coordinar y supervisar los programas sociales del Gobierno Federal que se desarrollen en el Estado;
-
-IV. Llevar un registro de los beneficiarios de los programas sociales que ejecuten las diferentes dependencias y entidades de la administración pública del Estado;
-
-V. Proponer políticas y lineamientos encaminados a la planeación, financiamiento, ejecución, supervisión y control de los programas de desarrollo social, regional y de combate a la pobreza y desigualdad que realicen las dependencias y entidades de la administración pública estatal;
-
-VI. Proponer e impulsar la ejecución de programas de emergencia social, destinados a zonas indígenas, rurales y urbanas marginadas;
-
-VII. Establecer contacto con organismos no gubernamentales interesados en la inversión social para proyectos de desarrollo social dentro del Estado;
-
-VIII. Coordinarse con las áreas de desarrollo social de los municipios del Estado;
-
-IX. Apoyar las acciones de aquellos organismos públicos y privados que desarrollen actividades de bienestar y asistencia social en beneficio de los habitantes de la entidad;
-
-X. Fomentar la participación de las instituciones académicas, de investigación de organizaciones no gubernamentales y de la sociedad en general, en el desarrollo e instrumentación de estrategias para superar rezagos sociales e impulsar el bienestar social de la población;
-
-XI. Concertar programas y, apoyar las actividades de bienestar y desarrollo social de los particulares, grupos intermedios y organismos no gubernamentales que actúan en el estado;
-
-XII. Crear y operar un sistema de vinculación formal para incluir y cohesionar a los grupos vulnerables a las oportunidades de participación y desarrollo social, y
-
-XIII. Las demás que le señalen las leyes aplicables.
+(DEROGADO, B.O. 30 DE NOVIEMBRE DE 2017)
 
 ###### ARTÍCULO 31.
 
@@ -777,7 +809,9 @@ XXXIII. Conocer e investigar las conductas de los servidores públicos de la Adm
 
 XXXIV. Establecer mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
 
-XXXV. Emitir conjuntamente, según corresponda, con la Secretaría de Finanzas y Administración y con la Secretaría de Planeación Urbana, Infraestructura y Transporte los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios así como por la Ley de Obras Públicas y Servicios Relacionados con las mismas, ambas del Estado, así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXXV. Emitir conjuntamente, según corresponda, con la Secretaría de Finanzas y Administración y con la Secretaría de Planeación Urbana, Infraestructura y Movilidad los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de contrataciones públicas reguladas por la Ley de Adquisiciones, Arrendamientos y Servicios, así como por la Ley de Obras Públicas y Servicios Relacionados con las mismas, ambas del Estado; así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal;
 
 XXXVI. Emitir los lineamientos generales o guías para la elaboración por parte de las dependencias estatales de los manuales, lineamientos, acuerdos y demás instrumentos legales que sean necesarios a las dependencias y entidades de la Administración Pública del Estado, respecto a que se ajusten a las normas emitidas por la propia Contraloría en el ámbito de su competencia;
 
@@ -835,9 +869,11 @@ Las entidades paraestatales deberán proporcionar a las demás entidades del sec
 
 Las entidades paraestatales gozarán de autonomía de gestión para el cabal cumplimiento de su objeto, así como de las metas y objetivos señalados en sus programas. Asimismo, podrán participar en los sectores a los que sean convocadas, independientemente del que pertenezcan.
 
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 40.
 
-Las secretarías de Finanzas y Administración; de Desarrollo Económico, Medio Ambiente y Recursos Naturales y la Contraloría General deberán vigilar de manera coordinada que haya congruencia entre los programas de las dependencias y entidades de la administración pública estatal con el Plan Estatal de Desarrollo y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, sin perjuicio de las atribuciones que corresponden a las secretarías coordinadoras de sector.
+La Secretaria de Finanzas y Administración y la Contraloría General deberán vigilar de manera coordinada, que haya congruencia entre los programas de las dependencias y entidades de la administración pública estatal, con el Plan Estatal de Desarrollo y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, sin perjuicio de las atribuciones que corresponden a las secretarías coordinadoras de sector.
 
 ### CAPÍTULO TERCERO. DE LOS ORGANISMOS DESCENTRALIZADOS
 
@@ -1116,3 +1152,35 @@ B.O. 27 DE JUNIO DE 2017.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 2486 SE REFORMAN LOS ARTÍCULOS 5, 6, 16, 22, 23, 25, 27, 29, 30, 32 Y 40 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR; Y SE REFORMAN LOS ARTÍCULOS 13 BIS, 14 Y 31 DE LA LEY DE PLANEACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto la Secretaría de Finanzas y Administración, así como la Contraloría General del Estado deberán proveer lo necesario a fin que de forma inmediata se inicie el proceso de fusión a que se refiere este Decreto para la creación de la Secretaría de Turismo, Economía y Sustentabilidad, así como la Secretaría del Trabajo y Desarrollo Social que tendrá como plazo máximo al 31 de diciembre del 2017.
+
+TERCERO.- Los recursos humanos, materiales y bienes patrimoniales, así como las partidas presupuestales que le correspondían a la Secretaria de Desarrollo Social, pasarán a la Secretaría del Trabajo y Desarrollo Social. Cualquier mención de la Secretaría de Desarrollo Social se tendrá por aludida a la Secretaría del Trabajo y Desarrollo Social.
+
+Con la entrada en vigor del presente decreto cualquier mención de la Secretaría de Desarrollo Social se tendrá por aludida a la Secretaría del Trabajo y Desarrollo Social, incluyendo la sectorización de las paraestatales, entidades descentralizadas o desconcentradas y empresas de participación estatal o fideicomisos.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+CUARTO.- Las partidas presupuestales, recursos humanos, materiales y bienes patrimoniales asignados actualmente a la Secretaria de Turismo y a la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales, le serán asignados a la Secretaría de Turismo, Economía y Sustentabilidad, por lo que cualquier mención a la Secretaría de Turismo se tendrá por aludida a la Secretaria de Turismo Economía y Sustentabilidad.
+
+Con la entrada en vigor del presente Decreto cualquier mención de la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales, se tendrá por aludida a la Secretaria de Turismo, Economía y Sustentabilidad, incluyendo la sectorización de las paraestatales, entidades descentralizadas o desconcentradas y empresas de participación estatal o fideicomisos.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+QUINTO.- Las partidas presupuestales, recursos humanos, materiales y bienes patrimoniales asignados actualmente a la Secretaría de Desarrollo Económico, Medio y Ambiente y Recursos Naturales para ejercer las funciones de planeación que le confería la Ley de Planeación del Estado de Baja California Sur, serán asignados a la Oficina de Planeación, Evaluación y Promoción de Políticas Públicas.
+
+SEXTO.- El Presupuesto de Egresos del Estado para el Ejercicio Fiscal de 2018, deberá contener los traspasos presupuestales previstos en este Decreto.
+
+SÉPTIMO.- Los asuntos que con motivo del presente Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los realicen se incorporen a la dependencia que señale la Ley, a excepción de los que sean urgentes o estén sujetos a plazos improrrogables.
+
+OCTAVO.- Cuando en otras leyes se otorgue denominación distinta a alguna dependencia, cuyas funciones y facultades estén contempladas para otra Secretaría, para el cumplimiento de las mismas y las que se establezcan por convenios celebrados con autoridades federales o municipales, dicha competencia se entenderá concedida a la dependencia que determine el presente Decreto.
+
+NOVENO.- El Gobernador del Estado, a través de la Secretaría de Finanzas y Administración, definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a las dependencias y entidades auxiliares que se creen, con el fin de mejorar la operatividad de cambio enfocada a la calidad de los servicios del gobierno.
+
+DÉCIMO.- El Gobernador del Estado, de conformidad con las atribuciones asignadas a cada una de las secretarías y organismos descentralizados, expedirá los reglamentos necesarios en un término que no exceda de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
