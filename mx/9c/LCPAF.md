@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2016-10-10"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -714,9 +714,11 @@ La garantía que al efecto se establezca deberá ser suficiente para que el conc
 
 Los concesionarios y permisionarios deberán otorgar esta garantía en los términos que establezca el reglamento respectivo.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 63.
 
-Las personas físicas y morales autorizadas por los gobiernos de los estados y del Distrito Federal para operar autotransporte público de pasajeros, y que utilicen tramos de las vías de jurisdicción federal, garantizarán su responsabilidad, en los términos de este capítulo, por los daños que puedan sufrir los pasajeros que transporten, sin perjuicio de que satisfagan los requisitos y condiciones para operar en carreteras de jurisdicción federal.
+Las personas físicas y morales autorizadas por los gobiernos de las entidades federativas para operar autotransporte público de pasajeros, y que utilicen tramos de las vías de jurisdicción federal, garantizarán su responsabilidad, en los términos de este capítulo, por los daños que puedan sufrir los pasajeros que transporten, sin perjuicio de que satisfagan los requisitos y condiciones para operar en carreteras de jurisdicción federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -912,7 +914,9 @@ ARTICULO 74 TER.- La Secretaría de Seguridad Pública a través de la Policía 
 
 I. Cuando se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, sin contar con el permiso correspondiente;
 
-II. Cuando contando con concesiones o permisos estatales, municipales o del Distrito Federal, se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, fuera de los tramos autorizados por la Secretaría;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+II. Cuando contando con concesiones o permisos estatales, municipales o de la Ciudad de México, se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, fuera de los tramos autorizados por la Secretaría;
 
 III. Cuando excedan el tiempo autorizado para circular o transitar con motivo de su importación temporal y se encuentren prestando el servicio de autotransporte federal, sus servicios auxiliares y transporte privado en los caminos y puentes, debiendo dar vista a las autoridades correspondientes;
 
@@ -1121,3 +1125,11 @@ D.O.F. 10 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La Secretaría de Comunicaciones y Transportes tiene 90 días a partir de su publicación, para informar en el Diario Oficial de la Federación la clasificación de caminos y puentes en el país.
+
+D.O.F. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, DE LA LEY DEL REGISTRO PÚBLICO VEHICULAR Y DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
