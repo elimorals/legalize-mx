@@ -4,7 +4,7 @@ identifier: "LRPV"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-01"
-last_updated: "2012-06-05"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRPV"
 
 LEY DEL REGISTRO PÚBLICO VEHICULAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 1° de septiembre de 2004.
 
@@ -66,9 +66,13 @@ IV.- Distribuidoras: Las personas físicas o morales que se dediquen a la venta 
 
 V.- Ensambladoras: Las personas físicas o morales que se dediquen a la fabricación, ensamblaje o importación para comercializar vehículos nuevos;
 
-VI.- Entidades Federativas: Los Estados de la República y el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-VII.- Procuradurías: La Procuraduría General de la República y las Procuradurías Generales de Justicia de los Estados y del Gobierno del Distrito Federal;
+VI.- Entidades Federativas: Los Estados de la República y la Ciudad de México;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+VII.- Procuradurías: La Procuraduría General de la República y las Procuradurías Generales de Justicia de los Estados y del Gobierno de la Ciudad de México;
 
 VIII.- Registro: El Registro Público Vehicular;
 
@@ -317,3 +321,11 @@ D.O.F. 5 DE JUNIO DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las acciones que en su caso deba realizar el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública para dar cumplimiento al presente Decreto, se sujetarán a los recursos humanos, financieros y materiales con los que actualmente cuenta.
+
+D.O.F. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, DE LA LEY DEL REGISTRO PÚBLICO VEHICULAR Y DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
