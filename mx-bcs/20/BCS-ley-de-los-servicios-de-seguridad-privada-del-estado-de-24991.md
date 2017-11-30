@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-servicios-de-seguridad-privada-del-estado-de-24991"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-20"
-last_updated: "2016-10-31"
+last_updated: "2017-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 30 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LOS SERVICIOS DE SEGURIDAD PRIVADA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 20 de marzo de 2002.
 
@@ -612,3 +614,13 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. DE 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 2480 LEY DE SERVICIOS DE SEGURIDAD PRIVADA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO: La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO: Se abroga la Ley de los Servicios de Seguridad Privada del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el 20 de marzo de 2002, así como las demás disposiciones que se opongan a lo dispuesto por esta Ley.
+
+TERCERO: El titular del Poder Ejecutivo del Estado y en su caso los municipios en su ámbito de competencia, deberán expedir las disposiciones reglamentarias y/o ajustes normativos conducentes para la aplicación de esta Ley, dentro de un plazo que no exceda los 90 días hábiles contados a partir de la entrada en vigor del presente Decreto.
