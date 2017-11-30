@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2016-10-31"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -155,7 +155,7 @@ III.- Cuando el trabajo en las diversas áreas o dependencias de los titulares, 
 
 IV.- Cuando exista un trabajo de apoyo personal y directo que se preste a los funcionarios de elección popular, a los titulares de las instituciones públicas, y a los trabajadores considerados como de confianza conforme al tercer párrafo del artículo 5 de esta Ley.
 
-Los trabajadores de confianza no gozarán de la inamovilidad de los trabajadores de base por lo que en cualquier tiempo y por acuerdo del titular de la dependencia dejaran de surtir sus efectos los nombramientos que se les hayan otorgado.
+Los trabajadores de confianza no gozarán de la inamovilidad de los trabajadores de base por lo que en cualquier tiempo y por acuerdo del titular de la dependencia dejaran de surtir sus efectos los nombramientos que se les hayan otorgado;
 
 > <small>(ADICIONADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
@@ -263,11 +263,21 @@ Por cada cinco días de trabajo disfrutará el trabajador de dos días de descan
 
 Los trabajadores que presten sus servicios en sus días de descanso tendrá derecho al pago de una prima adicional de al menos un 25% en base al salario normal de los días de trabajo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 29.
+
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo, pudiendo transferir, a solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda, hasta medio mes de descanso previo al parto para después del mismo. En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta medio mes adicional a los tres meses de descanso previstos en este Artículo, previa presentación del certificado médico correspondiente.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Los hombres disfrutarán de cinco días hábiles por licencia de paternidad con goce de sueldo, a partir del día del parto de su esposa o concubina. Este derecho, podrá ser disfrutado por mujeres y hombres en el supuesto de que adopten a un menor de edad, a partir de recibir a este, una vez agotado el proceso de adopción, conforme a las leyes aplicables al caso.
+
 > <small>(REFORMADO, B.O. 14 DE OCTUBRE DE 2016)</small>
-
-###### ARTICULO 29.
-
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
 
 Las anteriores prerrogativas se conceden independientemente de las vacaciones o demás descansos que se estipulen en la presente Ley.
 
@@ -1065,7 +1075,7 @@ V.- La indicación del lugar en que puedan obtenerse las pruebas que el reclaman
 
 > <small>(ADICIONADA, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
-VI.- A la demanda se acompañarán las pruebas de que disponga y los documentos que acrediten la personalidad de su representante, si no concurre personalmente.
+VI.- A la demanda se acompañarán las pruebas de que disponga y los documentos que acrediten la personalidad de su representante, sí no concurre personalmente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
@@ -1472,3 +1482,9 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 2482 SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 29 Y SE ADICIONA EL SEGUNDO Y TERCER PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE, AL ARTÍCULO 29, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
