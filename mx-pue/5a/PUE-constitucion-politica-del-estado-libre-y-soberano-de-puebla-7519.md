@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2017-07-28"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -419,9 +419,17 @@ Los Magistrados del Tribunal serán designados por el Gobernador del Estado y ra
 
 Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XI.- La protección de los saberes colectivos, así como del patrimonio cultural y natural.
+XI.- La protección de los saberes colectivos, así como del patrimonio cultural y natural;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XII.- Atender como una consideración primordial, el interés superior de la niñez en todas las medidas concernientes a las niñas, niños y adolescentes y garantizar plenamente sus derechos; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XIII.- Erradicar el trabajo infantil y cualquier otra forma de explotación hacia niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -459,7 +467,9 @@ b).- Adecuar los programas de desarrollo urbano y vivienda a las necesidades y r
 
 c).- Promover la educación bilingüe, intercultural, laica y diferenciada, a efecto de que responda a las aspiraciones, necesidades, realidad y diferencia cultural de los pueblos y comunidades indígenas.
 
-d).- Realizar programas de fomento a las actividades culturales, deportivas y recreativas, así como para la construcción de espacios para estos fines, promoviendo la participación equitativa de jóvenes, niñas y niños indígenas.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+d).- Realizar programas de fomento a las actividades culturales, deportivas y recreativas, así como para la construcción de espacios para estos fines, promoviendo la participación equitativa de jóvenes, adolescentes, niñas y niños indígenas.
 
 e).- Desarrollar proyectos específicos para la infraestructura básica y la construcción, ampliación y mantenimiento de vías de comunicación que beneficien directamente a las comunidades indígenas.
 
@@ -663,11 +673,23 @@ VIII.- El valor de la unidad familiar, debe tenerse en consideración en la legi
 
 IX.- El trabajo de la madre y del padre en casa, debe ser reconocido y respetado por su valor para la familia y la sociedad;
 
-X.- La familia tiene derecho a ser protegida adecuadamente, en particular respecto a sus integrantes menores de edad, personas con discapacidad y adultos mayores;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XI.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en la sociedad; y
+X.- La familia tiene derecho a ser protegida, primordialmente sus integrantes niñas, niños y adolescentes, personas con discapacidad y adultos mayores;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XI.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en la sociedad. Queda prohibido el castigo corporal y cualquier acto u omisión que atente contra su integridad física o psicológica; y
 
 XII.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos, de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano sea parte. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2009)</small>
 
@@ -675,7 +697,9 @@ XII.- Los integrantes de la familia están obligados a evitar conductas que gene
 
 La madre, el padre o el tutor tienen las siguientes obligaciones para con sus hijas e hijos:
 
-I.- Inscribirlos en el Registro del Estado Civil;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+I.- Inscribirlos de manera inmediata en el Registro del Estado Civil de las Personas;
 
 II.- Darles protección, alimentación y atención para que puedan desarrollarse física, mental y socialmente de forma saludable, en condiciones de libertad y dignidad;
 
@@ -981,17 +1005,21 @@ VI.- Autorizar al Ejecutivo para que celebre convenios con los demás Estados o 
 
 VII.- Autorizar la enajenación de bienes inmuebles propios del Estado o de los Municipios, a solicitud de éstos, así como aprobar los contratos que celebren los Ayuntamientos, cuando tengan duración mayor del período para el cual hubieren sido electos.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-VIII.- Establecer las bases para que el Estado y los Municipios, así como los organismos descentralizados y empresas públicas puedan contraer obligaciones y empréstitos destinados a inversiones públicas productivas, y fijar anualmente, en la Ley de Egresos del Estado y en los presupuestos de los Municipios, los conceptos y los montos máximos de dichas obligaciones o empréstitos. El Congreso aprobará las operaciones de financiamiento, que se contratarán, convertirán o consolidarán mediante el Decreto que emita.
+VIII.- Establecer las bases, en la legislación aplicable en la materia, para que los tres poderes del Estado, los Municipios, los organismos autónomos, los organismos descentralizados, empresas públicas, fideicomisos públicos y demás Entes Públicos, puedan contraer obligaciones y financiamientos destinados a inversiones públicas productivas y a su refinanciamiento o reestructura; y fijar anualmente, en la Ley de Egresos del Estado y en los presupuestos de los Municipios, los conceptos y los montos máximos de dichas obligaciones o financiamientos. El Congreso autorizará mediante Decreto la contratación de financiamientos y obligaciones, así como su refinanciamiento o reestructura, en los términos que señala la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+Fijar los límites y modalidades bajo los cuales dichos Entes Públicos podrán afectar sus respectivas participaciones o ingresos propios para cubrir los financiamientos y obligaciones que contraigan; además de establecer su obligación de inscribir y publicar la totalidad de sus financiamientos y obligaciones en el Registro Público Único y en el propio del Estado, de manera oportuna y transparente; así como las sanciones aplicables a los servidores públicos que no cumplan con las disposiciones de la materia.
 
-Examinar, discutir y aprobar, en su caso, a través de la ley aplicable, el establecimiento de los requisitos generales que deberán ser cumplidos, o mediante decreto específico, a solicitud del Titular del Poder Ejecutivo, la afectación de ingresos del Estado derivados de participaciones en ingresos federales, fondos federales, contribuciones, impuestos, derechos, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, respecto al cumplimiento de todo tipo de obligaciones del Estado, de sus organismos descentralizados o de terceros prestadores de bienes o servicios, que deriven de la contratación de deuda pública, de Proyectos para Prestación de Servicios y otro tipo de proyectos relacionados a obra pública, bienes o servicios que contrate o celebre el Estado, en los términos de las leyes respectivas. De la misma manera, corresponderá al Congreso, a solicitud del Titular del Poder Ejecutivo, la aprobación de la desafectación de dichos ingresos en términos de la legislación aplicable, cuando así sea establecido en la ley aplicable;
-
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2011)</small>
+Examinar, discutir y aprobar, en su caso, a través de la ley aplicable, el establecimiento de los requisitos generales que deberán ser cumplidos, o mediante decreto específico, a solicitud del Titular del Poder Ejecutivo, la afectación de ingresos del Estado derivados de participaciones en ingresos federales, fondos federales, contribuciones, impuestos, derechos, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación, respecto al cumplimiento de todo tipo de obligaciones del Estado, de sus organismos descentralizados, de terceros prestadores de bienes o servicios, de los Municipios y cualquier Ente Público que deriven de la contratación de deuda pública, de Proyectos para Prestación de Servicios y otro tipo de proyectos relacionados a obra pública, bienes o servicios que contrate o celebre el Estado, en los términos de las leyes respectivas. De la misma manera, corresponderá al Congreso, a solicitud del Titular del Poder Ejecutivo, la aprobación de la desafectación de dichos ingresos en términos de la legislación aplicable cuando así sea establecido en la ley aplicable;
 
 El Congreso del Estado autorizará a los Ayuntamientos, cuando proceda, afectar en garantía sus participaciones.
+
+El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para que en las mejores condiciones del mercado, se contraten financiamientos y obligaciones, previo análisis de la capacidad de pago del Ente Público, su destino y en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+Sin perjuicio de lo anterior, el Gobierno del Estado y los Municipios podrán contratar obligaciones exclusivamente para cubrir sus necesidades a corto plazo, sin rebasar los límites máximos y condiciones que establezca la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante los últimos tres meses.
+
+El Estado y sus Municipios, podrán adherirse al mecanismo de contratación de Deuda Estatal Garantizada que otorga el Gobierno Federal, de conformidad con las disposiciones legales aplicables en la materia.
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -2019,7 +2047,9 @@ h) Intervenir en la formulación y aplicación de programas de transporte públi
 
 i) Celebrar convenios para la administración y custodia de las zonas federales.
 
-V.- Los Ayuntamientos sólo podrán contratar empréstitos sujetándose a las disposiciones que dicte el Congreso, conforme a la fracción VIII del artículo 57 de esta Constitución.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+V.- Los Ayuntamientos sólo podrán contratar financiamientos y obligaciones sujetándose a las disposiciones que dicte el Congreso, conforme a la fracción VIII del artículo 57 de esta Constitución;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2015)</small>
 
@@ -2101,7 +2131,11 @@ Será responsabilidad del Ejecutivo, la elaboración del Plan Estatal de Desarro
 
 La participación de los particulares y del sector social será considerada en todas las acciones a realizar para la elaboración y ejecución de los planes y programas de desarrollo.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+En los Planes Estatal y Municipales de Desarrollo, el Gobierno del Estado y cada uno de los Municipios velarán por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 El Plan Estatal de Desarrollo considerará los principios del desarrollo sustentable, a través de la prevención, preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
@@ -2161,9 +2195,9 @@ La Hacienda Pública ejercerá la facultad económicocoactiva, en los términos 
 
 La Auditoría Superior del Estado, es la Unidad de Fiscalización, Control y Evaluación, dependiente del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan las leyes respectivas, el cual contará con las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-I.- Fiscalizar los ingresos y egresos, control, administración, manejo, custodia y aplicación de fondos, bienes y recursos de los Poderes del Estado, Ayuntamientos, organismos autónomos, entidades paraestatales y paramunicipales, organismos públicos desconcentrados, fideicomisos en los que el fideicomitente sea cualquiera de los Poderes del Estado o Ayuntamientos y en general, cualquier persona física o jurídica, pública o privada, mandato, fondo y demas que por cualquier razón recauden, manejen, ejerzan, resguarden o custodien recursos, fondos, bienes o valores de la hacienda pública estatal o municipal, tanto en el país como en el extranjero, y demás que formen parte de la cuenta pública, en términos de las disposiciones aplicables; asimismo, fiscalizará las acciones del Estado y Municipios en materia de fondos, recursos locales y deuda pública;
+I.- Fiscalizar los ingresos, egresos, control, administración, manejo, custodia y aplicación de fondos, bienes y recursos de los Poderes del Estado, Ayuntamientos, organismos autónomos, entidades paraestatales y paramunicipales, organismos públicos desconcentrados, fideicomisos en los que el fideicomitente sea cualquiera de los Poderes del Estado o Ayuntamientos y en general, cualquier persona física o jurídica, pública o privada, mandato, fondo y demás que por cualquier razón recauden, manejen, ejerzan, resguarden o custodien recursos, fondos, bienes o valores de la hacienda pública estatal o municipal, tanto en el país como en el extranjero, y demás que formen parte de la cuenta pública, en términos de las disposiciones aplicables; asimismo, fiscalizará las acciones del Estado y Municipios en materia de fondos, recursos locales, deuda pública estatal y municipal, y las garantías que, en su caso, otorguen el Gobierno del Estado y los Municipios a sus entidades paraestatales o paramunicipales, según corresponda, así como el destino y ejercicio de los recursos obtenidos por estos financiamientos;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2016)</small>
 
@@ -2331,7 +2365,13 @@ El Gobierno proveerá lo necesario para la conservación, mejoramiento y desarro
 
 El Gobierno, en el ámbito de su competencia, vigilará y estimulará el debido cumplimiento de las Leyes y demás disposiciones que se dicten en materia de trabajo y previsión social, educación, fomento agropecuario, vivienda y cualesquiera otras que siendo de orden público tiendan al mejoramiento de la población y a la realización de la justicia social.
 
-Toda familia poblana, tiene derecho a disfrutar de vivienda digna y decorosa, debiendo establecer el Ejecutivo Estatal, los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Toda familia poblana, tiene derecho a disfrutar de vivienda digna y decorosa, debiendo establecer el Ejecutivo Estatal, los instrumentos y apoyos necesarios, a fin de alcanzar tal objetivo.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -2365,9 +2405,9 @@ Los servidores públicos a que se refiere el presente artículo estarán obligad
 
 Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-I.- Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones.
+I.- Los servidores públicos serán responsables de los actos u omisiones en que incurran en el desempeño de sus funciones; así como por el manejo indebido de recursos públicos y la deuda pública;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2016)</small>
 
@@ -3317,7 +3357,7 @@ P.O. 29 DE AGOSTO DE 2012.
 
 DECLARATORIA DEL DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL 118 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
-PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y reforman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3556,3 +3596,23 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que esta reforma ha sido aprobada en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE DISCIPLINA FINANCIERA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adición han sido aprobadas en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "DECLARATORIA QUE EMITE EL HONORABLE CONGRESO DEL ESTADO, POR LA QUE DECLARA APROBADO EL DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DEL INTERÉS SUPERIOR DE LA NIÑEZ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+TERCERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
