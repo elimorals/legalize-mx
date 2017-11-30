@@ -4,7 +4,7 @@ identifier: "LRSF"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2016-06-08"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=809&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRSF"
 
 LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -152,7 +152,9 @@ V. Integrar el registro de las concesiones y permisos que se otorguen conforme a
 
 VI. Interpretar esta Ley para efectos administrativos;
 
-VII. Emitir recomendaciones a las dependencias y entidades de la administración pública federal, estatal, municipal y del Distrito Federal competentes y a los concesionarios para que en el ámbito de sus facultades promuevan medidas de Seguridad Pública para la adecuada operación del servicio público ferroviario;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+VII. Emitir recomendaciones a las dependencias y entidades de la administración pública federal, estatal, municipal y de la Ciudad de México competentes y a los concesionarios para que en el ámbito de sus facultades promuevan medidas de Seguridad Pública para la adecuada operación del servicio público ferroviario;
 
 VIII. Promover la expansión y el uso de la red ferroviaria;
 
@@ -903,3 +905,11 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y las que estuvieren en proceso de otorgamiento antes de dicha fecha, se sujetarán a las disposiciones vigentes anteriores a este Decreto.
 
 Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este Decreto, dentro de los ciento ochenta días hábiles posteriores a su entrada en vigor.
+
+D.O.F. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL, DE LA LEY DEL REGISTRO PÚBLICO VEHICULAR Y DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
