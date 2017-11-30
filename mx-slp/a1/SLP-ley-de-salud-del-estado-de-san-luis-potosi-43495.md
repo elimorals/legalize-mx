@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2017-10-28"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -57,7 +57,9 @@ III. La protección y el acrecentamiento de los valores que coadyuven a la creac
 
 IV. La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-V. El disfrute de servicios de salud y asistencia social que satisfagan, eficaz y oportunamente, las necesidades de la población;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+V. El disfrute de servicios de salud y asistencia social que satisfagan, eficaz, eficiente y oportunamente, las necesidades de la población;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
@@ -297,9 +299,9 @@ I. Proporcionar, con perspectiva de género, servicios de salud a la población 
 
 II. Contribuir al desarrollo demográfico armónico del Estado;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-III. Colaborar al bienestar de la población del Estado, mediante servicios de asistencia social, que permitan detectar a personas menores de edad en estado de abandono, personas adultas mayores víctimas de maltrato, personas con discapacidad, así como a víctimas de violencia de género, para fomentar su acceso a la alimentación y bienestar, y propiciar su incorporación a una vida equilibrada en lo económico y social, fomentando un entorno familiar sano;
+III. Colaborar al bienestar de la población del Estado, mediante servicios de asistencia social, que permitan detectar a personas menores de edad en estado de abandono, personas adultas mayores víctimas de maltrato, personas con discapacidad, así como a víctimas de violencia de género o psicológica, para fomentar su acceso a la alimentación y bienestar, y propiciar su incorporación a una vida equilibrada en lo económico y social, fomentando un entorno familiar sano;
 
 IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -619,7 +621,9 @@ I. Participar y emitir opiniones para la formulación de las políticas pública
 
 II. Proponer líneas de acción y estrategias para el fortalecimiento y consolidación del Sistema Estatal de Salud;
 
-III. Analizar, evaluar y emitir su opinión sobre planes, programas y proyectos del Sector Salud en el Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+III. Analizar, evaluar y emitir recomendaciones sobre planes, programas y proyectos del Sector Salud en el Estado;
 
 IV. Promover y establecer mecanismos para la coordinación de esfuerzos en materia de servicios de salud;
 
@@ -919,9 +923,9 @@ En general, los usuarios de los servicios públicos de salud, contarán con faci
 
 ARTICULO 39 TER. Las personas usuarias tiene (sic) derecho a decidir libremente sobre la aplicación de los procedimientos diagnósticos y terapéuticos ofrecidos. En caso de urgencia, o que la persona usuaria se encuentre en estado de discapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe, o su representante legal; en caso de no ser posible lo anterior, el prestador de servicios de salud procederá de inmediato para preservar la vida y salud de la persona usuaria, dejando constancia en el expediente clínico.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-ARTICULO 39 QUÁTER. Las quejas que las personas usuarias presenten por la atención médica recibida, deberán ser atendidas y resueltas en forma oportuna y efectiva por los prestadores de servicios de salud, o por las instancias que las instituciones de salud tengan definidas para tal fin cuando la solución corresponda a su ámbito de competencia.
+ARTICULO 39 QUÁTER. Las quejas que las personas usuarias presten por la atención médica recibida, deberán ser atendidas y resueltas en forma oportuna, efectiva y eficiente por los prestadores de servicios de salud, o por las instancias que las instituciones de salud tengan definidas para tal fin cuando la solución corresponda a su ámbito de competencia.
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
 
@@ -1099,11 +1103,11 @@ V. Programas y acciones tendientes a incorporar la perspectiva de género dentro
 
 VI. Las demás que coadyuven a la salud materno-infantil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 56.
 
-En materia de higiene escolar corresponde a la Secretaría de Salud del Estado, establecer las normas técnicas, reglamentos, lineamientos y demás disposiciones legales para proteger la salud de las y los educandos, y de la comunidad escolar de los centros educativos dependientes del Estado; las disposiciones aludidas deben incluir información sobre el ejercicio responsable de la sexualidad, salud reproductivos, así como medidas para la prevención del maltrato infantil y de la violencia de género contra las mujeres. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
+En materia de higiene escolar corresponde a la Secretaría de Salud del Estado, establecer las normas técnicas, reglamentos, lineamientos y demás disposiciones legales para proteger la salud de las y los educandos, y de la comunidad escolar de los centros educativos dependientes del Estado; las disposiciones aludidas deben incluir información sobre el ejercicio responsable de la sexualidad, salud reproductiva, así como medidas para la prevención del maltrato infantil y de la violencia de género y psicológica contra las mujeres. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación, que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
 
@@ -1259,21 +1263,25 @@ El Centro Estatal de Trasplantes, y el Centro Estatal de Transfusión Sanguínea
 
 ### CAPITULO X. Medicina Tradicional, y el Acceso a la Salud de los Pueblos y Comunidades Indígenas
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-ARTICULO 67 BIS. Se reconoce a la medicina tradicional indígena, como el conjunto de sistemas de atención a la salud, que tiene sus raíces en los conocimientos sobre la salud y la enfermedad que los diferentes pueblos y comunidades indígenas y rurales han acumulado a través de su historia, y que ha incorporado elementos provenientes de otras medicinas, como la medicina antigua española, la medicina africana y, en menor medida, la medicina occidental.
+ARTICULO 67 BIS. Se reconoce a la medicina tradicional indígena como el conjunto de sistemas de atención a la salud, que tiene sus raíces en los conocimientos sobre la salud y la enfermedad que los diferentes pueblos y comunidades indígenas y rurales han acumulado a través de su historia, y que ha incorporado elementos provenientes de otras medicinas, como la medicina herbolaria, la medicina antigua española, la medicina africana y, en menor medida, la medicina occidental.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ARTICULO 67 TER. La Secretaría de Salud, y los municipios del Estado, garantizarán y apoyarán el desarrollo del libre ejercicio de la medicina tradicional de los pueblos y comunidades indígenas, que comprende el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen como parte de su cultura y patrimonio.
 
-La Secretaría de Salud del Estado establecerá un programa de conocimiento, investigación y registro de plantas medicinales que se utilicen en la medicina tradicional, a fin de contar con elementos que permitan evaluar su viabilidad o inocuidad y, en su caso, proscribir el uso de aquéllas que se compruebe de manera científica, que deterioran la salud de los usuarios.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+La Secretaría de Salud del Estado establecerá un programa de investigación, registro y resguardo del conocimiento tácito o explícito de plantas medicinales que se utilice en la medicina tradicional, a fin de contar con elementos que permitan evaluar su viabilidad, inocuidad, pertinencia y, en su caso, proscribir el uso de aquéllas que se compruebe de manera científica, que deterioran la salud de los usuarios.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2012)</small>
 
 ARTICULO 67 QUATER. La Secretaría de Salud del Estado establecerá los programas que permitan que las personas integrantes de los pueblos y comunidades indígenas de la Entidad, accedan de forma efectiva a los servicios de salud, que serán otorgados con perspectiva de género, respeto, libertad y dignidad hacia las personas usuarias según lo establece y garantiza la presente Ley; asimismo, implementará mecanismos para que pueda aprovecharse la medicina tradicional, apoyando las propuestas que en esta materia promuevan las comunidades indígenas, a través de sus representantes y autoridades propias.
 
-En los hospitales generales y regionales del Estado que traten población indígena, deberá haber dentro del área de trabajo social, cuando menos una persona traductora de las lenguas náhuatl, tenek y xi' oi, conforme a la población indígena que se atienda, a fin de que las personas indígenas que no hablen suficientemente el español, puedan recibir de manera óptima la atención que requieren.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+En los hospitales generales y regionales del Estado que traten población indígena, deberá haber dentro del área de trabajo social, cuando menos una persona traductora de las lenguas náhuatl, téenek y xi´Oi conforme a la población indígena que se atienda, a fin de que las personas indígenas que no hablen suficientemente el español, puedan recibir de manera clara y óptima la atención que requieren.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -1287,9 +1295,13 @@ Las autoridades comunitarias participarán como coadyuvantes en las campañas de
 
 ARTICULO 67 SEXTIES. Las autoridades de salud promoverán el reconocimiento y autorización de los médicos tradicionales indígenas de las comunidades, siempre y cuando éstos cuenten con el aval comunitario, mediante acuerdo de asamblea general; asimismo, apoyarán la organización de médicos tradicionales indígenas y parteras empíricas.
 
-Las universidades públicas que impartan las carreras de, medicina, enfermería, químico farmacobiólogo y demás ramas profesionales relacionadas, procurarán implementar en sus programas y currículas de estudio, como materias optativas, cursos de formación y diplomados relativos a, antropología médica y medicina tradicional, así como de aprendizaje de las lenguas náhuatl, tenek y xi'oi.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-El sector salud promoverá asimismo, cursos, talleres y diplomados con valor curricular, dirigidos al personal médico que radica y labora en zonas con población indígena, relativos a antropología médica y medicina tradicional.
+Las universidades que impartan las carreras relacionadas con la salud, procurarán implementar en sus programas de estudio; así como en sus cursos y diplomados, materias que aborden la antropología médica, la medicina tradicional y el aprendizaje de las lenguas, náhuatl, téenek y xi´Oi.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Por su parte el sector salud en coordinación con el Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí promoverá cursos de profesionalización, talleres y diplomados con valor curricular, dirigidos a los profesionales en la salud que radican y laboran en zonas con población indígena que aborden la antropología médica, la medicina tradicional y el aprendizaje de las lenguas, náhuatl, téenek y xi´Oi.
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
@@ -1441,7 +1453,9 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 La investigación para la salud comprende el desarrollo con perspectiva de género de acciones que contribuyan:
 
-I. Al conocimiento de los procesos biológicos y psicológicos en los seres humanos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+I. Al conocimiento de los procesos biológicos, bioquímicos, biofísicos, y psicológicos en los seres humanos;
 
 II. Al conocimiento de los vínculos entre las causas de enfermedad, la práctica médica y la estructura social;
 
@@ -1451,9 +1465,17 @@ III. A la prevención y control de los problemas de salud como la violencia de g
 
 IV. Al conocimiento y control de los efectos nocivos del ambiente en la salud;
 
-V. Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de los servicios de salud, y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-VI. A la producción nacional de insumos para la salud.
+V. Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de los servicios de salud;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+VI. A la producción nacional de insumos para la salud y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+VII. A la prevención y control de los problemas de salud como enfermedades epidémicas, enfermedades crónicas, enfermedades degenerativas y enfermedades que mermen la calidad de vida de la población.
 
 ###### ARTICULO 83.
 
@@ -2205,9 +2227,11 @@ En ningún caso y de ninguna forma se podrán expender substancias inhalantes a 
 
 Los profesionales de la salud, al prescribir medicamentos que contengan substancias que puedan producir dependencia, se sujetarán a lo previsto en la Ley General de Salud, en lo relativo a la prescripción de estupefacientes y substancias psicotrópicas.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 150.
 
-Los establecimientos que expendan inhalantes y substancias tóxicas, deberán tener a la vista del público letreros alusivos prohibiendo la venta de inhalantes a menores de edad.
+Los establecimientos que expendan inhalantes y substancias tóxicas, deberán tener a la vista del público letreros alusivos prohibiendo la venta de inhalantes a menores de edad, y deberán solicitar una identificación oficial vigente.
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD GENERAL Y LOCAL
 
@@ -2911,7 +2935,9 @@ Para efectos de la presente Ley se entenderá por residuo sólido, el material g
 
 El servicio de limpieza pública se sujetará a lo siguiente:
 
-I. Los desechos sólidos se manipularán lo estrictamente indispensable durante el transporte a su destino final, vigilando que no se ocasionen riesgos a la salud;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+I. Los desechos sólidos se manipularán lo estrictamente indispensable durante el transporte a su destino final, vigilando que no se ocasionen riesgos a la salud, reportando a las autoridades competentes, cualquier incidente y riesgo observado durante su acopio, traslado o confinamiento;
 
 II. Queda prohibida la quema o incineración de residuos sólidos, cuya combustión sea nociva para la salud, fuera de los lugares que determinen las autoridades sanitarias competentes;
 
@@ -4344,5 +4370,13 @@ P.O. 28 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0734.- SE REFORMAN LOS ARTÍCULOS 199 Y 321 DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 748.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
