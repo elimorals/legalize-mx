@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2017-07-17"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1757,7 +1757,7 @@ III. Hasta en una mitad si la recuperación de la víctima se logra en virtud de
 
 IV. Hasta en dos terceras partes si espontáneamente se devuelve a la persona menor de edad dentro de las veinticuatro horas siguientes a la comisión del delito.
 
-### CAPÍTULO I. AMENAZAS
+### CAPITULO I. AMENAZAS Y COBRANZA EXTRAJUDICIAL ILEGAL
 
 ###### Artículo 197.
 
@@ -1941,6 +1941,8 @@ II. Profane un cadáver o restos humanos con actos de vilipendio, mutilación, b
 
 ## TÍTULO DÉCIMO PRIMERO. DELITOS CONTRA LA PAZ DE LAS PERSONAS Y LA INVIOLABILIDAD DEL DOMICILIO
 
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 ### CAPÍTULO V. ADMINISTRACIÓN FRAUDULENTA
 
 ###### Artículo 218.
@@ -1948,6 +1950,16 @@ II. Profane un cadáver o restos humanos con actos de vilipendio, mutilación, b
 Amenazas. A quien amenace a otro con causarle un mal en su persona, bienes, honor o derechos; o en la persona, bienes, honor o derechos de alguien con quien esté ligado por algún vínculo, se le impondrán de uno a cuatro años de prisión o multa de cien a trescientos días y de cien a doscientas jornadas de trabajo a favor de la comunidad.
 
 En este caso procede a criterio del juez, prohibir al condenado que vaya o resida en el lugar en que habita el amenazado, por un término no menor a seis meses ni mayor a tres años, contados desde el cumplimiento de la pena de prisión o desde la concesión de un beneficio de libertad.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Artículo 218 BIS. Cobranza Extrajudicial Ilegal: A quien por sí o por interpósita persona, lleve a cabo la actividad de cobranza extrajudicial ilegal, se le impondrán de uno a cuatro años de prisión y multa de veinticinco mil a cien mil pesos.
+
+Si utiliza además documentos o sellos falsos, la pena y la sanción económica aumentaran una mitad.
+
+Si ocurriere en usurpación de funciones o de profesión, se aplicarán las reglas del concurso de delitos señalado en el artículo 30 de este código.
+
+Se entiende por cobranza extrajudicial ilegal el uso de la violencia o la intimidación, ya sea personalmente o a través de cualquier medio, para requerir el pago de una deuda derivada de actividades mercantiles, incluyendo créditos o financiamiento que hayan sido otorgados originalmente por personas dedicadas habitual y profesionalmente a esta actividad, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza. No se considerará como intimidación informar aquellas consecuencias posibles y jurídicamente válidas del impago o la capacidad de iniciar acciones legales en contra del deudor, aval, obligado solidario o cualquier tercero relacionado a estos, cuando éstas sean jurídicamente posibles.
 
 ### CAPÍTULO VI. EXTORSIÓN
 
@@ -2183,9 +2195,17 @@ XIX. Promover sorteos, rifas, loterías, préstamos entre grupos o cualquier otr
 
 XX. Enajenar o grabar el fiador sus bienes raíces, si de la operación resulta su insolvencia;
 
-XXI. Ocultar bienes o simular embargos, gravámenes o deudas, las personas sujetas al procedimiento de quiebra; o
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXII. Colocarse en estado de insolvencia para eludir obligaciones.
+XXI. Ocultar bienes o simular embargos, gravámenes o deudas, las personas sujetas al procedimiento de quiebra;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXII. Colocarse en estado de insolvencia para eludir obligaciones; o
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXIII. La persona física o jurídica que enajenen bienes inmuebles pertenecientes a un conjunto habitacional, fraccionamiento o condominios cuya construcción se llevó a cabo en predios ubicados en zonas o áreas consideradas no urbanizables o de riesgo grave o de alto riesgo en los planes o programas estatales y municipales de desarrollo urbano o en los atlas de riesgos nacional, estatal o municipal expedidos por las autoridades competentes, ocultando al comprador esta condición o habiendo obtenido las licencias correspondientes oculten al comprador que no eran mitigables o que no se realizaron las obras de mitigación en términos de la legislación en la materia.
 
 ###### Artículo 242.
 
@@ -2252,6 +2272,10 @@ IV. Sea llevada a cabo por un servidor público en ejercicio de sus funciones.
 Despojo en la modalidad de invasión. Se aplicará pena de prisión de cuatro a ocho años y multa de mil a mil quinientos días, cuando el despojo se realice por grupo o grupos que en conjunto sean mayores de cinco personas.
 
 A los autores intelectuales o los que induzcan, instiguen, financien, dirijan, encabecen o propicien la acción de despojo en la modalidad de invasión, se le impondrán de seis a diez años de pena de prisión y multa de mil a mil quinientos días.
+
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Las sanciones previstas en el párrafo segundo del presente artículo se incrementaran, hasta en una mitad, cuando la acción de despojo en la modalidad de invasión se lleve a cabo en predios ubicados en zonas o áreas consideradas no urbanizables o de riesgo grave o de alto riesgo en los planes o programas estatales y municipales de desarrollo urbano o en los atlas de riesgos nacional, estatal o municipal expedidos por las autoridades competentes.
 
 Las sanciones previstas en este artículo se observarán con independencia de la aplicación correspondiente por las agravantes genéricas en que puedan ocurrir los activos en la comisión de esta conducta.
 
@@ -2463,13 +2487,23 @@ III. Continúe ejerciendo las funciones de un empleo, cargo o comisión después
 
 IV. Por sí o por interpósita persona, cuando legalmente le sean requeridos, rinda informes en los que manifieste hechos o circunstancias falsos o niegue la verdad en todo o en parte sobre los mismos.
 
-V. Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión, y
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-VI. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+V. Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión;
+
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+VI. Teniendo obligación por razones de empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado; y
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+VII. Por sí o por interpósita persona, autorice licencias de construcción o uso de suelo, que permita cualquier tipo de construcción en zonas o áreas consideradas no urbanizables o de riesgo grave o de alto riesgo en los planes o programas estatales y municipales de desarrollo urbano o en los atlas de riesgos nacional, estatal o municipal expedidos por las autoridades competentes, no mitigables o que siendo mitigable no se hayan realizado previamente las obras de mitigación en términos de la legislación en la materia.
 
 Al que cometa alguno de los delitos a que se refieren las fracciones I y III de este artículo, se le impondrán de uno a tres años de prisión y de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-Al penalmente responsable de las fracciones II, IV, V y VI se le impondrán de tres a ocho años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Al penalmente responsable de las fracciones II, IV, V, VI y VII se le impondrán de tres a ocho años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, B.O. 17 DE JULIO DE 2017)</small>
 
@@ -3779,6 +3813,10 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+TERCERO.- A partir de la entrada en vigor del presente decreto los Ayuntamientos de la Entidad contarán con un plazo de hasta 90 días naturales para expedir los Reglamentos a que hace referencia el artículo 1102 del Código Civil.
+
 B.O. 17 DE JULIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 2457.- SE REFORMA EL CÓDIGO DE (SIC) PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
@@ -3786,3 +3824,23 @@ B.O. 17 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 2477 SE REFORMAN LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 241, LAS FRACCIONES V, VI Y EL ULTIMO PÁRRAFO DEL ARTÍCULO 270; Y SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 241; UN PÁRRAFO TERCERO Y EL CONTENIDO DE ESTE SE RECORRE AL SUBSECUENTE DEL ARTÍCULO 249; FRACCIÓN VII AL ARTÍCULO 270, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.”]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 2484.- SE ADICIONA UN ARTÍCULO TERCERO TRANSITORIO AL DECRETO NÚMERO 2441 A TRAVÉS DEL CUAL SE REFORMARON EL ARTÍCULO 373 DEL CÓDIGO PENAL Y EL ARTÍCULO 1102 DEL CÓDIGO CIVIL, AMBOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 2485 SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DÉCIMO PRIMERO Y SE ADICIONA EL ARTÍCULO 218 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
