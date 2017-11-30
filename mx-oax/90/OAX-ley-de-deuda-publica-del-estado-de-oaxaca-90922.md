@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-del-estado-de-oaxaca-90922"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2016-12-31"
+last_updated: "2017-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 30 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEUDA PÚBLICA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Sexta Sección del Periódico Oficial, del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -695,7 +697,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 31 DE DICIEMBRE DE 2013.
 
@@ -722,3 +724,11 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. El Titular del Ejecutivo, deberá emitir el Reglamento del Registro Estatal de Financiamientos y Obligaciones de Oaxaca, a más tardar 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 730.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se abroga la Ley de Deuda Publica, publicada mediante el Decreto número No. 1180 en el Periódico Oficial del Estado el 15 de diciembre de 2012 y se derogan todas las disposiciones que se opongan al presente Decreto.
