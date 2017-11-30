@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-la-salud-de-las-personas-no-68021"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2016-12-20"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY ESTATAL DE PROTECCION A LA SALUD DE LAS PERSONAS NO FUMADORAS
 
-LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
+LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS DEL ESTADO DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 28 de marzo de 2009.
 
@@ -33,7 +35,9 @@ DECRETO 659
 
 LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS...
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Finalmente, el recuento de datos expuestos son, que las principales tendencias en materia de tabaquismo demuestran que en México tienen una relativa estabilidad en su prevalencia, el inicio a más temprana edad en el consumo de tabaco, el mayor número de menores de edad que fuman y un incremento del consumo del tabaco en mujeres, así como un incremento de esta adicción en el área rural, es por ello, la inaplazable necesidad de contar con cuerpo normativo que permita vivir y convivir a las personas no fumadoras y fumadoras en ambientes sanos libres del humo del tabaco.
 
@@ -81,7 +85,21 @@ III. Denuncia Ciudadana: notificación hecha a la autoridad competente por cualq
 
 IV. Emisión: es la sustancia producida y liberada cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de productos del tabaco para uso oral sin humo, se entiende como todas las sustancias liberadas durante el proceso de mascado o chupado; y en el caso de productos del tabaco para uso nasal, son todas las sustancias liberadas durante el proceso de inhalación o aspiración;
 
-V. Espacio 100% libre de humo de tabaco: aquélla área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+V. Espacio 100% libre de humo de tabaco: aquellas áreas en las que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco, y que son las siguientes:
+
+a) Áreas físicas cerradas con acceso al público que sean destinadas a cualquier fin.
+
+b) Áreas físicas cerradas que sirvan como lugar de trabajo.
+
+c) Las áreas físicas destinadas al transporte público y los vehículos destinados para ese fin.
+
+Las áreas a que se refieren los incisos a) y b) de este artículo deberán, en todos los casos, tener como mínimo una superficie equivalente al doble de la que corresponda al espacio interior aislado. Para ello, no se tomarán como superficies libres de tabaco las áreas destinadas para cocina, preparación de bebidas y alimentos, sanitarios, terrazas, estacionamientos y oficinas administrativas;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+V BIS. Espacio Interior Aislado: áreas físicamente separadas e incomunicadas de los espacios 100% libres de humo; o que cuenten con mecanismos que eviten el traslado de partículas a éstos, y que no sean paso obligado para las personas no fumadoras, en las que se prohibirá el acceso a menores de edad;
 
 VI. Humo de tabaco: se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que afectan al no fumador;
 
@@ -191,15 +209,23 @@ En dichos lugares se fijará en el interior y en el exterior, los letreros, logo
 
 ### CAPITULO II. De las Obligaciones
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 11.
 
-En lugares con acceso al público, o en áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, podrán existir zonas exclusivamente para fumar.
+En lugares con acceso al público, o en áreas interiores de trabajo, públicas o privadas, incluidas las universidades e instituciones de educación superior, podrán existir áreas en las que se permita fumar.
 
-Dichas zonas deberán, de conformidad con las disposiciones reglamentarias:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-I. Ubicarse en espacios al aire libre, o
+Dichas áreas deberán cumplir con las disposiciones reglamentarias:
 
-II. En espacios interiores aislados que dispongan de mecanismos que eviten el traslado de partículas hacia los espacios 100% libres de humo de tabaco, y que no sea paso obligado para los no fumadores.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+I. Ubicarse en espacios al aire libre, físicamente separados e incomunicados de los espacios 100% libres de humo, y
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+II. En espacios interiores aislados.
 
 Queda prohibida la entrada a menores de edad a las zonas exclusivas para fumar.
 
@@ -442,5 +468,13 @@ P.O. 20 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0451.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ, LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS Y LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 745.- SE REFORMA A LOS ARTÍCULOS, 4 Y 11 DE LA LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS”.]
+
+PRIMERO. Este Decreto entrará en vigor a los seis meses siguientes de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
