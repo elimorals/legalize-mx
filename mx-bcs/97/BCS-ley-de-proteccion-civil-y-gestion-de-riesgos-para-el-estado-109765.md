@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-civil-y-gestion-de-riesgos-para-el-estado-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-01"
-last_updated: "2015-09-01"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 1 de septiembre de 2015.
 
@@ -299,7 +299,13 @@ III. Un Secretario Técnico, que será el Titular de la Coordinación Estatal de
 
 IV. Los titulares de las Dependencias y Entidades de la Administración Pública Estatal, que por el ramo que atienden les corresponda en los sub-programas de prevención, auxilio y apoyo ante la ocurrencia de un desastre;
 
-V. Los representantes de los Poderes Legislativo y Judicial del Estado;
+> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+V. Un representante del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+V BIS. Un integrante de la Comisión Permanente de Protección Civil del Congreso del Estado, designado por mayoría de votos por los miembros de la propia Comisión;
 
 VI. Las Delegaciones Estatales de las Dependencias y Entidades de la Administración Pública Federal que realicen actividades relacionadas con la ejecución de los subprogramas de prevención, auxilio y apoyo por la ocurrencia de algún desastre, podrán actuar con voz pero sin voto, cuando quien Presida el Consejo así lo estime;
 
@@ -518,6 +524,10 @@ I. Un Presidente, que será el Presidente Municipal;
 II. Un Secretario Ejecutivo, que será el Secretario Municipal;
 
 III. Un Secretario Técnico, que será el titular de la Coordinación Municipal de Protección Civil;
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+III BIS. Un Diputado o Diputada del Congreso del Estado, con residencia en el Municipio, que será designado por mayoría de votos de los miembros de la Comisión Permanente de Protección Civil del propio Congreso;
 
 IV. El H. Cuerpo de Bomberos Municipal;
 
@@ -968,3 +978,13 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRES CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 2481 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
