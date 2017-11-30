@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-10-28"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -2035,7 +2035,7 @@ Este delito se perseguirá por querella necesaria.
 
 ### CAPÍTULO IV. Difusión Ilícita de Imágenes
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 180.
 
@@ -2141,7 +2141,13 @@ Este delito se perseguirá por querella.
 
 ###### ARTÍCULO 187.
 
-Comete el delito de difusión ilícita de imágenes íntimas quien transmita, publique o difunda imágenes, sonidos o grabaciones de contenido sexual obtenidas con o sin el consentimiento de la víctima, sin autorización para su difusión. Este delito se sancionará con una pena de uno a tres años de prisión y multa de ciento cincuenta a doscientos días del valor de la unidad de medida de actualización.
+Comete el delito de difusión ilícita de imágenes íntimas quien, transmita, publique, o difunda imágenes, sonidos o grabaciones de contenido sexual, que pueden o no contener texto, obtenidas con o sin el consentimiento de la víctima, sin autorización para su difusión. Este delito se sancionará con una pena de dos a cuatro años de prisión y multa de trescientos días del valor de la unidad de medida de actualización.
+
+Se aumentará la sanción pecuniaria y la pena privativa de la libertad hasta en una mitad más, cuando:
+
+I. El delito sea cometido por el cónyuge o por persona que esté, o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia, y
+
+II. La víctima fuese menor de edad, o persona con discapacidad.
 
 ### CAPÍTULO II. Matrimonios Ilegales
 
@@ -3003,7 +3009,7 @@ A quien falsifique llaves para adaptarlas a cualquier cerradura, el sello, las m
 
 ### CAPÍTULO V. Delitos Cometidos Contra Servidores Públicos o Agentes de la Autoridad en Ejercicio de sus Funciones
 
-(NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE OCTUBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 726, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL (NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE OCTUBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 726, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
 
@@ -3685,7 +3691,7 @@ IV. Expida autorización de cualquiera de los actos señalados en las fracciones
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2017)</small>
 
-V. Realice obras de construcción, edificación, infraestructura o asentamientos humanos en zona determinada sin observar los análisis de riesgo;
+V. Realice obras de construcción, edificación, infraestructura o asentamientos humanos en zona determinada sin observar los análisis de riesgo, y;
 
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2017)</small>
 
@@ -4784,6 +4790,14 @@ SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opo
 P.O. 28 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0733.- SE REFORMA EL ARTÍCULO 308 EN SUS FRACCIONES, V, Y VI; Y ADICIONA AL MISMO ARTÍCULO 308 LA FRACCIÓN VII, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 753.- SE REFORMA EL ARTÍCULO 187, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
