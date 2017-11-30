@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2017-10-27"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -179,11 +179,15 @@ En el Estado, jamás se expedirá ley que imponga penas a personas determinadas,
 
 En los decretos que se expidan, no podrá restringirse ni suspenderse el ejercicio de los derechos a la no discriminación, al reconocimiento de la personalidad jurídica, a la vida, a la integridad personal, a la protección a la familia, al nombre, a la nacionalidad, los derechos de la niñez, los derechos políticos, las libertades de pensamiento, conciencia y de profesar creencia religiosa alguna, el principio de legalidad y retroactividad, la prohibición de la pena de muerte, la prohibición de la esclavitud y la servidumbre, la prohibición de la desaparición forzada y la tortura, ni las garantías judiciales indispensables para la protección de tales derechos.
 
-No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considera confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción se establecerá un procedimiento que se regirá por las siguientes reglas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considera confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito y delitos derivados de actos de corrupción, en los términos del artículo 116 de esta Constitución y de la legislación secundaria, los que se destinarán para el uso social; la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción se establecerá un procedimiento que se regirá por las siguientes reglas:
 
 I. Será jurisdiccional y autónomo del de materia penal;
 
-II. Procederá en los casos de delitos de secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+II. Procederá en los casos de delitos de secuestro, robo de vehículos, trata de personas y delitos cometidos por servidores públicos que causen un daño o perjuicio patrimonial a la hacienda pública estatal o municipal siempre y cuando se cumplan las formalidades del procedimiento respecto de los bienes siguientes:
 
 a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió.
 
@@ -1727,7 +1731,9 @@ XXXII. Resolver sobre las renuncias de sus propios miembros, del Gobernador y a 
 
 XXXIII. Elegir al Fiscal General del Estado de Oaxaca, al Fiscal Especializado en Delitos Electorales y al Fiscal Especial en Materia de Combate a la Corrupción.
 
-XXXIV. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXXIV. Ratificar los nombramientos que el Gobernador del Estado haga de los Secretarios de Despacho en caso de que se opte por un gobierno de coalición;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -2177,9 +2183,9 @@ III. Pedir a la Diputación Permanente la convocación de la Legislatura a perí
 
 IV. Instruir, cada vez que le sea solicitado por el Poder Legislativo, al Secretario o titular de la entidad, órgano desconcentrado u órgano auxiliar correspondiente, para que exponga lo relativo a sus responsabilidades y argumente lo conducente en las comisiones en las que se discutan leyes, decretos, planes, programas o proyectos relativos a sus respectivos ramos, así como cuando sean citados para responder a preguntas que se les formulen. En todo caso los integrantes del Ejecutivo no asistirán a las deliberaciones y votaciones de las comisiones legislativas;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-V. Nombrar y remover libremente al Secretario General de Gobierno, a los demás Secretarios, al Consejero Jurídico y a los servidores públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinadas de otro modo por esta Constitución y las leyes que de ella deriven; los nombramientos garantizarán la paridad entre mujeres y hombres; y, si ello no fuere posible porque el número de nombramientos a expedir sea impar, serán lo más cercano al equilibrio numérico;
+V. Nombrar y remover en los términos del artículo 88 de esta Constitución, al Secretario General de Gobierno, a los demás Secretarios, al Consejero Jurídico y a los servidores públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinadas de otro modo por esta Constitución y las leyes que de ella deriven; los nombramientos garantizarán la paridad entre mujeres y hombres; y, si ella no fuere posible porque el número de nombramientos a expedir sea impar, será lo más cercano al equilibrio numérico;
 
 VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo prevenido en los artículos 27 y 11 transitorio de la Constitución Federal, ajustando sus procedimientos a las leyes vigentes;
 
@@ -2489,13 +2495,25 @@ III.- Cuando a solicitud del Congreso del Estado, los funcionarios del Poder Eje
 
 IV.- Cuando sea necesario informar o aclarar asuntos que se consideren relevantes para el gobierno.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 88.
 
-El nombramiento y remoción de los Secretarios de despacho lo realizará el Gobernador del Estado libremente
+El nombramiento y remoción de los Secretarios de despacho lo realizará el Gobernador del Estado libremente, salvo que opte por un gobierno de coalición.
 
-La renuncia o separación del cargo de los Secretarios será recibida y calificada por el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+La renuncia o separación del cargo de los Secretarios será recibida y calificada por el Gobernador del Estado; si existiera la figura del gobierno de coalición, la separación del cargo deberá ser presentada ante el Congreso así como la propuesta del nuevo funcionario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+El Congreso contará con quince días naturales para aprobar al candidato a Secretario de despacho y éste solo podrá recibir y ejercer su nombramiento después de la aprobación del Congreso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Si no resolviere dentro del plazo de quince días, el nombramiento quedará ratificado. En caso de que el nombramiento del que se trate fuera rechazado por el Congreso del Estado, dentro de los siguientes diez días, el Gobernador del Estado hará una nueva propuesta; en caso de ser rechazada, el Gobernador hará libre y directamente la designación del Secretario de despacho.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
 
 En el supuesto a que se refiere el párrafo anterior, el Gobernador del Estado, procederá a la designación del nuevo funcionario y se le tomará la protesta respectiva en los términos de ley.
 
@@ -3381,7 +3399,9 @@ Cualquier ciudadano bajo su más estricta responsabilidad, podrá formular denun
 
 II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción será sancionada en los términos de la legislación penal aplicable.
 
-La ley determinarán (sic) los casos y las circunstancias en los que se deban sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivo del mismo por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, y cuya procedencia lícita, no pudiesen justificar. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+La ley determinará los casos y las circunstancias en los que se deban sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivo del mismo por sí o por interpósita persona, aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, y cuya procedencia lícita, no pudiesen justificar. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, que serán destinados al uso social; además de las otras penas que correspondan.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -4866,3 +4886,25 @@ P.O. 27 DE OCTUBRE DE 2017.
 PRIMERO: Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: Se derogan todas las disposiciones constitucionales y legales que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 739.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN XXXIV DEL ARTÍCULO 59, LA FRACCIÓN V DEL ARTÍCULO 79 Y EL ARTÍCULO 88 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO: Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO: Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO: El Congreso contará con un plazo de noventa días naturales a partir de la expedición del presente Decreto para actualizar los requisitos y procesos de designación de los funcionarios en la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca.
+
+CUARTO: El Congreso contará con un plazo de noventa días naturales a partir de la expedición del presente Decreto para actualizar el Reglamento Interior del Congreso del Estado de Oaxaca.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 740.- MEDIANTE EL CUAL SE REFORMAN EL TERCER PÁRRAFO Y LA FRACCIÓN II DEL ARTÍCULO 6; Y EL ARTÍCULO 116, EN EL SEGUNDO PÁRRAFO DE SU FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
