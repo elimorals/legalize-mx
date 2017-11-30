@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2017-10-10"
+last_updated: "2017-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -67,11 +67,11 @@ La educación es el medio fundamental para adquirir, transmitir y acrecentar la 
 
 En el sistema educativo estatal deberá asegurarse que la participación del educando sea activa, así como la de todos los involucrados en el proceso educativo, estimulando su iniciativa y sentido de responsabilidad social, privilegiando la participación de los educandos, padres de familia y docentes, a efecto de alcanzar los fines establecidos en el artículo 9° de la presente Ley.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 4°.
 
-Todos los individuos tienen derecho a recibir educación de calidad, con las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
+Todo individuo tiene derecho a recibir educación de calidad en condiciones de equidad, por lo tanto, todos los habitantes del Estado de San Luis Potosí tienen las mismas oportunidades de acceso y permanencia al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
 
@@ -145,9 +145,13 @@ Los hablantes de lenguas indígenas tendrán acceso a la educación obligatoria 
 
 V.- Infundir el conocimiento y práctica de la democracia como la forma de gobierno y convivencia que permite a todos participar en la toma de decisiones para el mejoramiento de la sociedad;
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-VI.- Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
+VI. Promover el valor de la justicia, de la observancia de la ley, y de la igualdad de los individuos ante ésta, propiciar la cultura de la legalidad, de la inclusión y no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones; de la equidad de género; y de la riqueza multicultural y pluriétnica de la nación; así como propiciar el conocimiento de los derechos humanos, y el respeto a los mismos;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+VI Bis. Fomentar la valoración de la diversidad y la cultura de inclusión como condiciones para el enriquecimiento social y cultural;
 
 VII.- Fomentar actitudes que estimulen la investigación y la innovación científica y tecnológica;
 
@@ -274,6 +278,10 @@ X.- El Sistema de Información y Gestión Educativa, y
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2014)</small>
 
 XI.- La infraestructura educativa.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Las instituciones del sistema educativo estatal impartirán educación de manera que permita al educando su plena inclusión y participación en la sociedad y, en su oportunidad, el desarrollo de una actividad productiva y que permita, asimismo, al trabajador estudiar.
 
 > <small>(ADICIONADO, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -703,17 +711,27 @@ El ausentismo de los maestros que impartan clases en las comunidades indígenas,
 
 Para la correcta aplicación de los términos que se utilizan en el presente artículo, referentes a comunidad indígena, indígenas y demás relativos, se estará a lo dispuesto en la Ley Reglamentaria del artículo 9° de la Constitución del Estado, sobre Derechos y Cultura Indígenas.
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTICULO 36.
 
-La educación especial está destinada a personas con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Procurará atender a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
+La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como de aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
-Tratándose de menores de edad con discapacidad, la educación especial propiciará su integración a los planteles de educación básica regular. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se promoverá la elaboración de programas y materiales de apoyo didácticos necesarios.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2014)</small>
+Tratándose de personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades.
 
-La educación especial incluye la orientación a los padres o tutores, así como también a los maestros y personal de escuelas de educación básica y media superior regulares, que integren a los alumnos con necesidades especiales de educación.
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+La formación y capacitación de maestros promoverá la educación inclusiva y desarrollará las competencias necesarias para su adecuada atención.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+La educación especial deberá incorporar los enfoques de inclusión e igualdad sustantiva. Esta educación abarcará la capacitación y orientación a los padres o tutores; así como también a los maestros y personal de escuelas de educación básica y media superior regulares que atiendan a alumnos con discapacidad, con dificultades severas de aprendizaje, de comportamiento o de comunicación, o bien con aptitudes sobresalientes.
 
 > <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2017)</small>
 
@@ -754,6 +772,10 @@ Los alumnos de las escuelas normales públicas que integran el sistema educativo
 ###### ARTICULO 40.
 
 La educación para adultos está destinada a individuos de quince años o más, que no hayan cursado o concluido la educación primaria y secundaria. Se presta a través de servicios de alfabetización, educación primaria y secundaria, así como de formación para el trabajo, con las particularidades adecuadas a dicha población. Esta educación se apoyará en la participación y la solidaridad social.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+La formación para el trabajo procurará la adquisición de conocimientos, habilidades o destrezas, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación o algún oficio calificados. Esta educación incluirá un capítulo especial dirigido a personas con discapacidad.
 
 > <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2017)</small>
 
@@ -1009,7 +1031,9 @@ En las actividades de supervisión las autoridades educativas darán prioridad, 
 
 Las negociaciones o empresas establecerán y sostendrán escuelas, cuando el número de educandos, hijas o hijos de trabajadores, sea mayor de veinte, conforme a lo establecido en la fracción XII del apartado A) del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. Estos planteles quedarán bajo la dirección administrativa de la Secretaría de Educación del Gobierno del Estado.
 
-I.- Contarán con edificios, instalaciones y demás elementos necesarios para realizar su función, en los términos que señalan las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+I. Contarán con edificio, instalaciones accesibles y demás elementos necesarios para realizar su función, en los términos que señalen las disposiciones aplicables.
 
 II.- Su sostenimiento comprende la obligación patronal de proporcionar las aportaciones para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorgue la autoridad educativa estatal en igualdad de circunstancias; y
 
@@ -1175,6 +1199,10 @@ I.- Atenderán de manera especial, las escuelas de áreas urbanas y zonas rurale
 
 II.- Desarrollarán programas de apoyo, incluidos los de carácter económico, a los maestros que realicen su servicio en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+II Bis. Desarrollarán, bajo el principio de inclusión, programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes, en términos de lo dispuesto en el artículo 36 de este Ordenamiento;
+
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
@@ -1283,7 +1311,9 @@ Las autorizaciones y los reconocimientos de validez oficial de estudios, se otor
 
 I.- Con el personal que acredite la preparación adecuada para impartir educación, conforme al perfil que cada nivel educativo requiera y en su caso, satisfagan los demás requisitos a que se refiere esta Ley;
 
-II.- Con instalaciones escolares que satisfagan las condiciones higiénicas pedagógicas y de seguridad para los usuarios, así como para el personal docente, administrativo y manual; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+II.- Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad que la autoridad otorgante determine, conforme a los términos que señalen las disposiciones aplicables. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento, y
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2010)</small>
 
@@ -1353,9 +1383,9 @@ De la información contenida en el acta correspondiente, así como la documentac
 
 Los particulares que presten servicios educativos por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su documentación y publicidad, y comunicarlo a la Secretaría de Educación del Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine; cumplir los requisitos a que alude el artículo 15 de esta Ley, presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en este Ordenamiento y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el artículo 41 de la presente Ley, así como facilitar la inspección y vigilancia de las autoridades competentes.
+En el caso de educación inicial deberán, además, contar con personal que acredite la preparación adecuada para impartir educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad que la autoridad educativa determine; cumplir los requisitos a que alude el artículo 15 de esta Ley, presentar las evaluaciones que correspondan, de conformidad con lo dispuesto en este Ordenamiento y demás disposiciones correspondientes que deriven en el marco del Sistema Nacional de Evaluación Educativa, y tomar las medidas a que se refiere el artículo 41 de la presente Ley, así como facilitar la inspección y vigilancia de las autoridades competentes.
 
 ## Título Sexto.
 
@@ -1619,11 +1649,47 @@ Consejos análogos pueden operar en las escuelas particulares de educación bás
 
 ARTICULO 91 QUATER.- La autoridad educativa estatal para asegurar el apoyo de la sociedad en el logro de los fines de la educación de calidad, promoverá, en los términos de las disposiciones aplicables, además de los consejos escolares, la operación de los:
 
-I. Consejo Municipal de Participación Social en la educación, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros quienes acudirán como representantes de los intereses laborales de los trabajadores, así como representantes de organizaciones de la sociedad civil, cuyo objeto social sea la educación y demás interesados en el mejoramiento de ésta, y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-II. Consejo Estatal de Participación Social en la educación, como órgano de consulta, orientación y apoyo, que contribuya a elevar la calidad de la educación, integrado por padres de familia y representes de sus asociaciones, maestros y representantes de su organización sindical quienes acudirán como representantes de los intereses laborales de los trabajadores, instituciones formadoras de maestros, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo de la Entidad, especialmente interesados en la educación.
+I. Consejo Municipal de Participación Social en la educación, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros quienes acudirán como representantes de los intereses laborales de los trabajadores, así como representantes de organizaciones de la sociedad civil, cuyo objeto social sea la educación y demás interesados en el mejoramiento de ésta.
 
-Los precitados consejos se regirán por los lineamientos generales que emita la Autoridad Educativa Federal, y se abstendrán de participar en cuestiones políticas y religiosas, y de intervenir en los aspectos laborales de las escuelas públicas de educación básica.
+Este consejo gestionará ante el ayuntamiento y ante la autoridad educativa local:
+
+a) El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el municipio.
+
+b) Conocerá de los resultados de las evaluaciones que realicen las autoridades educativas.
+
+c) Llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio.
+
+d) Estimulará, promoverá y apoyará actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales.
+
+e) Establecerá la coordinación de escuelas con autoridades y programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos consagrados en la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes.
+
+f) Hará aportaciones relativas a las particularidades del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio.
+
+g) Podrá opinar en asuntos pedagógicos.
+
+h) Coadyuvará a nivel municipal en actividades de protección civil y emergencia escolar.
+
+i) Promoverá la superación educativa en el ámbito municipal mediante certámenes interescolares.
+
+j) Promoverá actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa.
+
+k) Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares.
+
+l) Procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública.
+
+m) Proponer acciones que propicien el conocimiento de las actividades económicas locales preponderantes e impulsen el desarrollo integral de las comunidades.
+
+n) En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
+
+Será responsabilidad del presidente municipal que en el consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación, así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo, y
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+II. Consejo Estatal de Participación Social en la educación, como órgano de consulta, orientación y apoyo, que contribuya a elevar la calidad de la educación, integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical quienes acudirán como representantes de los intereses laborales de los trabajadores, instituciones formadoras de maestros, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo de la Entidad, especialmente interesados en la educación.
+
+Este consejo promoverá y apoyará entidades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvará a nivel estatal en actividades de protección civil y emergencia escolar; sistematizará los elementos y aportaciones relativos a las particularidades de la entidad federativa que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio; podrá opinar en asuntos pedagógicos; conocerá las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo; conocerá los resultados de las evaluaciones que efectúen las autoridades educativas y colaborará con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
 
 ### Capítulo III.
 
@@ -1691,9 +1757,9 @@ XIV. Administrar a los educandos, sin previa prescripción médica y consentimie
 
 XV. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XVI. Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje, o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas, para la atención de problemas de aprendizaje de los educandos;
+XVI. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para su atención;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2014)</small>
 
@@ -2294,3 +2360,11 @@ P.O. 10 DE OCTUBRE DE 2017.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 746.- SE REFORMALOS (SIC) ARTÍCULOS, 4°, 9°, 36, 60, 75, 78, 82, 91, Y 95 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
