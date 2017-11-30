@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-del-fondo-nuevo-sonora-84082"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-28"
-last_updated: "2011-11-28"
+last_updated: "2017-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DEL FONDO NUEVO SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO INTERIOR DE FINANCIERA PARA EL DESARROLLO ECONÓMICO DE SONORA, PUBLICADO EN EL B.O. DE 30 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL FONDO NUEVO SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 28 de noviembre de 2011.
 
@@ -428,3 +430,21 @@ Lorenzo Arturo Galván García
 Coordinador Ejecutivo de Administración y Gestión Financiera de la Secretaría de Economía
 
 > <small>N. DE E. VÉASE ORGANIGRAMA EN LA SECCIÓN II DEL B.O. DE 28 DE NOVIEMBRE DE 2011, PAGINA 11.</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE FINANCIERA PARA EL DESARROLLO ECONÓMICO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los manuales de Organización, de Procedimientos y de Servicios al Público, así como el Manual de Normas y Políticas de Financiera para el Desarrollo Económico de Sonora deberán expedirse dentro de los noventa días posteriores a la publicación de este Reglamento Interior en el Boletín Oficial del Gobierno del Estado de Sonora; así mismo, el Coordinador Ejecutivo queda facultado para resolver las cuestiones que se presenten en tanto se expidan los mencionados manuales administrativos.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior del Fondo Nuevo Sonora, publicado en el Boletín Oficial del Gobierno del Estado de Sonora No.43, sección II, de fecha 28 de noviembre de 2011.
