@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2017-03-22"
+last_updated: "2017-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -35,8 +35,6 @@ Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 DECRETO
 
 "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY GENERAL DE EDUCACION
 
@@ -286,9 +284,13 @@ Para la actualización y formulación de los planes y programas de estudio para 
 
 II.- Establecer el calendario escolar aplicable en toda la República para cada ciclo lectivo de la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica;
 
-> <small>(REFORMADA, D.O.F. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-III.- Elaborar, mantener actualizados y editar, en formatos accesibles, los libros de texto gratuitos y demás materiales educativos, mediante procedimientos que permitan la participación de los diversos sectores sociales involucrados en la educación;
+III.- Elaborar, mantener actualizados y editar, en formatos accesibles, los libros de texto gratuitos y demás materiales educativos, mediante procedimientos que permitan la participación de los diversos sectores sociales involucrados en la educación.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+Al inicio de cada ciclo lectivo, la Secretaría deberá poner a disposición de la comunidad educativa y de la sociedad en general los libros de texto gratuitos y demás materiales educativos, a través de plataformas digitales de libre acceso;
 
 > <small>(REFORMADA, D.O.F. 10 DE DICIEMBRE DE 2004)</small>
 
@@ -1839,3 +1841,13 @@ Quinto.- Para la emisión de los lineamientos, normas y criterios a los que se r
 Sexto.- Las instituciones públicas de educación superior a las que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos podrán celebrar convenios con la autoridad educativa federal para que la información relacionada con sus trámites de revalidación y equiparación de estudios, en tanto información pública, de acuerdo con la fracción II del artículo 75 de la Ley General de Transparencia y Acceso a la Información Pública, sea incorporada al Sistema de Información y Gestión Educativa.
 
 Séptimo.- Con base en lo dispuesto en la fracción XI Bis del artículo 33, contenida en el presente Decreto, las autoridades educativas podrán coordinarse con otras instituciones para implementar planes de emergencia y acciones afirmativas dirigidos a atender a las personas en situación de vulnerabilidad a las que se refiere el segundo párrafo del artículo 32.
+
+D.O.F. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 12 DE LA LEY GENERAL DE EDUCACIÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- La Secretaría de Educación Pública deberá establecer las previsiones necesarias para que todo el material incluido en los libros de texto gratuitos cumpla con las disposiciones en materia de protección de la propiedad intelectual, derechos de autor y demás disposiciones que garanticen la seguridad jurídica de las obras.
+
+Tercero.- Los procedimientos de la publicación en plataformas digitales de los libros de texto gratuitos los fijará la Secretaría de Educación Pública, observando que su consulta esté disponible al inicio de cada año lectivo escolar en la página oficial de la Secretaría de Educación Pública y en los medios electrónicos o virtuales de comunicación que considere compatibles para la publicación del material educativo.
