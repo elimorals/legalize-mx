@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2017-11-24"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -105,11 +105,9 @@ XIII. Presidente: Consejero Presidente del Consejo;
 
 XIV. Reglamento conjunto de transparencia: Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XV. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, secretarías técnicas de Comisiones, direcciones generales, Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, así como la Unidad de Transparencia, la Dirección para el Trámite de Solicitudes de Acceso a la Información, el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, el Centro de Manejo Documental y Digitalización del Consejo y demás que sean autorizadas por el Pleno.
+XV. Unidades administrativas: Las ponencias de los Consejeros, secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, secretarías técnicas de Comisiones, direcciones generales, Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, así como las Unidades de Transparencia, y de Investigación de Responsabilidades Administrativas, la Dirección para el Trámite de Solicitudes de Acceso a la Información, el Archivo General del Consejo, las Administraciones de los Centros de Justicia Penal, el Centro de Manejo Documental y Digitalización del Consejo, y demás que sean autorizadas por el Pleno.
 
 ###### Artículo 3.
 
@@ -275,19 +273,19 @@ VI. Vigilar el funcionamiento de los órganos auxiliares;
 
 VII. Informar al Pleno de la Suprema Corte de Justicia de la Nación, al Senado de la República o al Presidente de la República, según corresponda, la designación, la terminación del encargo de los Consejeros respectivos, con dos meses de antelación o la falta definitiva del Consejero que hubiesen designado, a efecto de que con toda oportunidad puedan hacerse los nombramientos concernientes;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, a secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal y de Investigación de Responsabilidades Administrativas, directores generales, titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno.
 
-VIII. Otorgar licencias de carácter personal o médico que no excedan de treinta días a los magistrados de Circuito y jueces de Distrito, y por excepción de carácter oficial o académico por temporalidad similar; así como de cualquier otro carácter que no rebasen el mismo lapso, a secretarios ejecutivos, titulares de órganos auxiliares, coordinadores, Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, directores generales, Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y personal subalterno del Pleno.
-
-> <small>(REFORMADO POR EL ARTÍCULO SEXTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 19 DE MARZO DE 2015)</small>
 
 Cuando las licencias solicitadas por los servidores públicos a que se refiere el párrafo anterior, con excepción de los titulares de órganos jurisdiccionales, tengan como motivo asistir a eventos académicos nacionales o internacionales, podrá solicitar la opinión de las instancias que correspondan;
 
 IX. Firmar las resoluciones del Pleno, conjuntamente con el Secretario Ejecutivo respectivo y el ponente, así como con quien haya hecho suyo el proyecto, en su caso;
 
-X. Admitir o desechar las quejas administrativas o denuncias que se presenten en contra de los servidores públicos del Poder Judicial de la Federación;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+X. Desechar las quejas administrativas o denuncias que se formulen en contra de los servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas;
 
 XI. Dar inicio al procedimiento de ratificación de magistrados de Circuito y jueces de Distrito, mediante la emisión del proveído correspondiente;
 
@@ -299,7 +297,17 @@ XIII. Tomar la protesta de ley en sesión pública extraordinaria a los Consejer
 
 XIV. Dictar las providencias oportunas para la corrección o remedio inmediato de los hechos motivo de una queja administrativa, cuando la naturaleza de aquéllos lo permita;
 
-XV. Instruir al Secretario Ejecutivo de Vigilancia, Información y Evaluación para que en el ámbito de su competencia y bajo los parámetros que se emitan, realice los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba;
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XIV Bis. Instruir la celebración de visitas extraordinarias de inspección cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno de la Suprema Corte de Justicia de la Nación;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XV. Instruir en materia de responsabilidad administrativa, la realización de las investigaciones correspondientes respecto de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas, así como proveer sobre su conclusión;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XV Bis. Dictar las medidas necesarias que exijan el buen servicio y la disciplina en las oficinas de los órganos jurisdiccionales, así como de las oficinas de correspondencia común y los órganos del Consejo;
 
 XVI. Suscribir los nombramientos de los servidores públicos comprendidos en los niveles 2 al 9 del Catálogo General de Puestos;
 
@@ -341,9 +349,17 @@ IV. Dirección General de Comunicación Social;
 
 V. Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales;
 
-VI. Dirección General de la Presidencia; y
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-VII. Las demás que determine el Pleno.
+VI. Dirección General de la Presidencia;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+VII. Unidad de Investigación de Responsabilidades Administrativas; y
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Las demás que determine el Pleno.
 
 ### CAPÍTULO TERCERO. DE LOS DEMÁS CONSEJEROS
 
@@ -749,9 +765,11 @@ XIII. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
 
 #### SECCIÓN SEXTA. DE LA COMISIÓN DE DISCIPLINA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 43.
 
-La Comisión de Disciplina tiene como función primordial conocer de las conductas de los servidores públicos y del funcionamiento de los órganos jurisdiccionales y oficinas de correspondencia común del Poder Judicial de la Federación, a fin de lograr un ejercicio responsable, profesional e independiente en la función jurisdiccional, así como evitar actos que la demeriten.
+La Comisión de Disciplina tiene como función primordial conocer y resolver de las conductas posiblemente constitutivas de responsabilidad administrativa de los servidores públicos y de particulares, en los términos que establezca la Ley, la Ley General de Responsabilidades Administrativas y el Acuerdo General en materia de responsabilidades administrativas.
 
 Durante el desarrollo de las sesiones de la Comisión de Disciplina se tendrán disponibles, en el recinto, los expedientes correspondientes a los asuntos en estudio.
 
@@ -759,29 +777,35 @@ Durante el desarrollo de las sesiones de la Comisión de Disciplina se tendrán 
 
 La Comisión de Disciplina tiene las siguientes atribuciones:
 
-I. Conocer de todos los procedimientos administrativos de responsabilidad en contra de magistrados de Circuito y jueces de Distrito y demás servidores públicos, en los términos que establezca el Acuerdo General en materia de responsabilidades administrativas correspondiente;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-II. Auxiliar al Consejo en sus funciones de apercibimiento y amonestación a los magistrados de Circuito y jueces de Distrito;
+I. Instruir, en el ámbito de su competencia, el inicio del procedimiento administrativo de responsabilidad en contra de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas, así como de particulares;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+II. Ejecutar el apercibimiento público y amonestación pública de los magistrados de Circuito y jueces de Distrito, así como notificar las suspensiones impuestas como sanción administrativa a dichos titulares;
 
 III. Resolver lo relativo a la imposición de multas a aquellas personas que falten al respeto a algún órgano o miembro del Poder Judicial de la Federación en las promociones que presenten con motivo de denuncias o quejas administrativas, así como a quienes promuevan sin motivo procedimientos administrativos de responsabilidad;
 
-IV. Someter a consideración del Pleno los proyectos de dictámenes relativos a las visitas de inspección e informes circunstanciados, en los que oficiosamente se advierta la existencia de una probable falta administrativa;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+IV. Resolver los procedimientos administrativos de responsabilidad que sean de su competencia;
 
 V. Presentar al Pleno un informe de los asuntos resueltos por la Comisión de Disciplina que hayan sido declarados improcedentes, infundados, sin materia, sobreseídos o bien, aquellos en los que esté prescrita la facultad para sancionar o no se acredite la existencia de responsabilidad administrativa;
 
-VI. Analizar y aprobar los dictámenes relativos a las visitas de inspección e informes circunstanciados en los que no se haya advertido la existencia de una probable responsabilidad administrativa, y presentar al Pleno la relación de los mismos;
+VI. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 VII. Dictar las medidas necesarias que exijan el buen servicio y la disciplina en las oficinas de los órganos jurisdiccionales, así como de las oficinas de correspondencia común y los órganos del Consejo;
 
-VIII. Emitir recomendaciones a los titulares y personal de los órganos jurisdiccionales y oficinas de correspondencia común, para que, en caso de existir irregularidades o deficiencias en su funcionamiento, se corrijan;
+VIII. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
-IX. De estimarlo procedente podrá emitir reconocimiento a los titulares y personal de los órganos jurisdiccionales y oficinas de correspondencia común, por su buen desempeño;
+IX. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
-X. Proponer al Pleno los sistemas que permitan evaluar el desempeño y honorabilidad de los visitadores judiciales, y darle cuenta sobre el resultado de su aplicación;
+X. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
-XI. Supervisar el funcionamiento de la Visitaduría Judicial;
+XI. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
-XII. Acordar las licencias solicitadas por los Visitadores Judiciales "A";
+XII. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 XIII. Conocer de las actas que se levanten con motivo del sorteo de los órganos jurisdiccionales entre los visitadores judiciales para la práctica de las visitas de inspección;
 
@@ -791,7 +815,7 @@ XV. Conocer de aquellos asuntos generales que sean sometidos a su consideración
 
 XVI. Desahogar las audiencias a que se refiere el artículo 134, fracción III, de la Ley;
 
-XVII. Aprobar la integración de los comités de investigación que proponga el Secretario Ejecutivo de Disciplina e instruir al Secretario Ejecutivo de Vigilancia, Información y Evaluación para que en el ámbito de su competencia, realice los procedimientos de corroboración y constatación de información y de hechos denunciados, para obtener datos de prueba; así como ordenar la práctica de visitas extraordinarias e integración de comités de investigación, cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno de la Suprema Corte de Justicia de la Nación, sin perjuicio de las facultades que corresponden a la Visitaduría Judicial y a la Contraloría del Poder Judicial de la Federación;
+XVII. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 XVIII. Designar, a propuesta de su presidente, al Secretario Técnico de la Comisión de Disciplina y determinar, en su caso, su remoción;
 
@@ -799,15 +823,17 @@ XIX. Nombrar al personal subalterno que fije el presupuesto;
 
 XX. Opinar sobre el diseño de la política informática y de información estadística, en el ámbito de su competencia;
 
-XXI. Otorgar reconocimientos a los servidores públicos por su buen desempeño, advertido del resultado de las visitas de inspección que se les hayan practicado; y
+XXI. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 XXII. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
 
 #### SECCIÓN SÉPTIMA. DE LA COMISIÓN DE VIGILANCIA, INFORMACIÓN Y EVALUACIÓN
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 45.
 
-La Comisión de Vigilancia, Información y Evaluación tiene como función primordial, establecer medios adecuados para consolidar los programas del Consejo, con la finalidad de alcanzar un óptimo funcionamiento de las áreas administrativas, de tomar las medidas de apoyo que garanticen la autonomía de los órganos jurisdiccionales, de preservar la independencia e imparcialidad de sus miembros, cuidando que su actuación se apegue a los principios de excelencia, profesionalismo y objetividad, así como de efectuar un seguimiento estricto y riguroso del cumplimiento de los propios programas.
+La Comisión de Vigilancia, Información y Evaluación tiene como función primordial, establecer medios adecuados para consolidar los programas del Consejo, con la finalidad de alcanzar un óptimo funcionamiento de las áreas administrativas; conocer del funcionamiento de los órganos jurisdiccionales; tomar las medidas de apoyo que garanticen la autonomía de los órganos jurisdiccionales, preservar la independencia e imparcialidad de sus miembros, cuidando que su actuación se rija por los principios de excelencia, profesionalismo y objetividad; así como efectuar un seguimiento estricto y riguroso del cumplimiento de los propios programas.
 
 ###### Artículo 46.
 
@@ -815,7 +841,11 @@ Son atribuciones de la Comisión de Vigilancia, Información y Evaluación, las 
 
 I. Vigilar el cumplimiento de los programas, así como proponer las medidas pertinentes para el óptimo funcionamiento de los órganos jurisdiccionales;
 
-II. Establecer medios adecuados de vigilancia, información y evaluación del Poder Judicial de la Federación, como apoyo a la toma de decisiones tendentes a garantizar su autonomía y preservar la independencia e imparcialidad de sus miembros, cuidando que su actuación se apegue a los principios de excelencia, profesionalismo y objetividad; e instruir al Secretario Ejecutivo de Vigilancia, Información y Evaluación para que en el ámbito de su competencia, realice los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+II. Establecer medios adecuados de vigilancia, información y evaluación del Poder Judicial de la
+
+Federación, como apoyo a la toma de decisiones tendentes a garantizar su autonomía y preservar la independencia e imparcialidad de sus miembros, cuidando que su actuación se apegue a los principios de excelencia, profesionalismo y objetividad;
 
 III. Formular los criterios normativos de operación y evaluación, para hacer posible el cumplimiento de las atribuciones a que se refiere la fracción anterior y someterlos a la aprobación del Pleno;
 
@@ -829,9 +859,45 @@ VII. Actuar como instancia consultiva en los asuntos a que se refieren las fracc
 
 VIII. Designar, a propuesta de su presidente, al Secretario Técnico de la Comisión de Vigilancia, Información y Evaluación y determinar, en su caso, su remoción;
 
-IX. Nombrar al personal subalterno que fije el presupuesto; y
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-X. Las demás que establezcan la Ley, el Pleno, y el presente Acuerdo.
+IX. Nombrar al personal subalterno que fije el presupuesto;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+X. Analizar y aprobar los dictámenes relativos a las visitas ordinarias de inspección e informes circunstanciados, y presentar al Pleno la relación de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XI. Remitir a la Secretaría Ejecutiva de Disciplina para los efectos correspondientes los dictámenes relativos a las visitas ordinarias de inspección e informes circunstanciados, en los que oficiosamente advierta la existencia de una probable falta administrativa;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XII. Dictar las medidas necesarias que exijan el buen servicio en los órganos jurisdiccionales;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XIII. Emitir recomendaciones a los servidores públicos adscritos a los órganos jurisdiccionales para que, en caso de existir irregularidades o deficiencias se corrijan;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XIV. Otorgar reconocimiento a los servidores públicos de los órganos jurisdiccionales por su buen desempeño;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XV. Proponer al Pleno los sistemas que permitan evaluar el desempeño y honorabilidad de los visitadores judiciales, y darle cuenta sobre el resultado de su aplicación;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XVI. Supervisar el funcionamiento de la Visitaduría Judicial;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XVII. Acordar las licencias solicitadas por los Visitadores Judiciales “A”; y
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XVIII. Las demás que establezcan la Ley, el Pleno y el presente Acuerdo.
 
 #### SECCIÓN OCTAVA. DE LA COMISIÓN PARA LA TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
@@ -1223,11 +1289,9 @@ Las ausencias temporales o definitivas de los titulares de áreas administrativa
 
 I. Las de los secretarios ejecutivos por cualquier otro servidor público que designe la Comisión respectiva, o el Pleno cuando la ausencia sea mayor a quince días; y
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
-
-II. La del Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, de los titulares de los órganos auxiliares y de las coordinaciones, así como de los directores generales y del Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, por el servidor público que designe el Presidente, con excepción del Director General del Instituto Federal de Defensoría Pública, y del Director General del Instituto Federal de Especialistas de Concursos Mercantiles, cuya suplencia se regirá por las disposiciones que regulan su organización y funcionamiento.
+II. La de los Titulares de las Unidades para la Consolidación del Nuevo Sistema de Justicia Penal, de Investigación de Responsabilidades Administrativas, de los órganos auxiliares y de las coordinaciones, así como de los directores generales y del Titular de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, por el servidor público que designe el Presidente, con excepción del Director General del Instituto Federal de Defensoría Pública, y del Director General del Instituto Federal de Especialistas de Concursos Mercantiles, cuya suplencia se regirá por las disposiciones que regulan su organización y funcionamiento.
 
 En los casos de ausencias que ameriten la suplencia, es obligación de los titulares de las áreas administrativas dar aviso al Pleno, al Presidente o a la Comisión respectiva, según corresponda, a efecto de que se haga la designación correspondiente.
 
@@ -1865,9 +1929,17 @@ La Secretaría Ejecutiva de Disciplina auxiliará a la Comisión de Disciplina c
 
 Son atribuciones del titular de la Secretaría Ejecutiva de Disciplina:
 
-I. Tramitar los procedimientos administrativos disciplinarios, en términos del Título Octavo de la Ley y de lo dispuesto en los acuerdos generales que emita el Pleno en la materia;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-II. Practicar las investigaciones que le encomiende el Pleno o la Comisión de Disciplina para determinar la responsabilidad de los servidores públicos adscritos a los órganos jurisdiccionales, mediante los procedimientos establecidos en la Ley, reglamentos y acuerdos generales que emita el Pleno en materia disciplinaria;
+I. Substanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos adscritos a órganos jurisdiccionales y a la Contraloría del Poder Judicial de la Federación, del Director General del Instituto Federal de Defensoría Pública, así como de particulares que sean de su competencia, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+I Bis. Realizar las investigaciones que le instruya el Presidente cuando se involucre en una probable causa de responsabilidad a servidores públicos adscritos a la Unidad de Investigación de Responsabilidades Administrativas;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+II. Coordinar la operación del centro de atención telefónica para la recepción de quejas y denuncias del Consejo;
 
 III. Informar a la Comisión de Disciplina, sobre las quejas o denuncias improcedentes que el Presidente deseche;
 
@@ -1875,9 +1947,19 @@ IV. Solicitar a los promoventes aclaraciones o mayores datos de los escritos en 
 
 V. Participar, conjuntamente con los órganos competentes del Consejo, en la elaboración del registro, sistematización, actualización y seguimiento de aquellas conductas calificadas como irregulares y atribuidas a servidores públicos del Poder Judicial de la Federación;
 
-VI. Resguardar los expedientes relacionados con las visitas de inspección;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-VII. Ejecutar los apercibimientos y amonestaciones que le encomiende el Pleno, así como vigilar el cumplimiento de las multas, que en términos de los artículos 81, fracción XXVIII, y 139 de la Ley, determinen imponer tanto el Pleno como su Presidente;
+VI. Recibir las quejas o denuncias, que sean de su competencia, formuladas por escrito o a través de los buzones físicos o virtuales, el centro de atención telefónica o comparecencias, respecto de las cuales deberá elaborar un proveído que someterá a la consideración del Pleno, del Presidente o de la Comisión de Disciplina, según corresponda;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+VII. Ejecutar las sanciones que determine el Pleno o la Comisión de Disciplina en los procedimientos de responsabilidad administrativa, con excepción de las previstas en el artículo 44, fracción II de este Acuerdo;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+VII Bis. Vigilar el cumplimiento de las multas que impongan el Pleno, la Comisión de Disciplina o el
+
+Presidente;
 
 VIII. Realizar los trámites necesarios a fin de que se impongan las sanciones acordadas por el Pleno con apoyo en el artículo 135 de la Ley;
 
@@ -1889,13 +1971,15 @@ XI. Vigilar el cumplimiento de las medidas que dicten el Pleno, el Presidente o 
 
 XII. Realizar los sorteos periódicos a que se refiere el artículo 100 de la Ley, a fin de designar a los visitadores que deben llevar a cabo las visitas ordinarias de inspección a los órganos jurisdiccionales, o la modificación de los mismos sorteos por causas supervenientes;
 
-XIII. Comunicar sobre el resultado de los sorteos al Pleno y al titular de la Visitaduría Judicial, para su conocimiento;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-XIV. Solicitar a la Visitaduría Judicial la práctica de visitas extraordinarias de inspección o la integración de comités de investigación cuando así lo determine el Pleno o la Comisión de Disciplina, en los términos que dispone el artículo 102 de la Ley, indicando específicamente la irregularidad sobre la que versará la inspección;
+XIII. Comunicar sobre el resultado de los sorteos al Pleno, al titular de la Visitaduría Judicial y a la Comisión de Vigilancia, Información y Evaluación para su conocimiento;
 
-XV. Elaborar el proyecto de dictamen para ser sometido a la consideración de la Comisión de Disciplina, dentro de los treinta días siguientes a la recepción de las actas que se levanten con motivo de una visita ordinaria o extraordinaria de inspección, con excepción de aquellos casos en que por causa justificada se requiera mayor tiempo para emitirlo; cuando no resulte alguna responsabilidad, dar cuenta únicamente a dicha Comisión para que, en caso de que exista irregularidad o deficiencia, sea ésta, a través del Secretario Ejecutivo, quien emita las recomendaciones necesarias al órgano jurisdiccional que corresponda para que se corrija;
+XIV. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
-XVI. Integrar el expediente de denuncia respectivo y dar cuenta al Presidente con el trámite, en caso de que, del análisis de un acta de visita, el Pleno estime que pueda existir causa de responsabilidad;
+XV. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
+
+XVI. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 XVII. Certificar las constancias de las actuaciones que realicen en el ejercicio de sus funciones;
 
@@ -1907,7 +1991,7 @@ XX. Informar a las Comisiones, en los plazos establecidos, sobre el ejercicio de
 
 XXI. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia;
 
-XXII. Proponer al Presidente, al Pleno o a la Comisión de Disciplina los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba, que podrán realizarse en forma paralela con la Secretaría Ejecutiva de Vigilancia, Información y Evaluación; y
+XXII. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 XXIII. Las demás que establezcan, el Pleno, y las Comisiones.
 
@@ -2055,15 +2139,19 @@ XIV. Informar a las Comisiones, en los plazos establecidos, sobre el ejercicio d
 
 XV. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia;
 
-XVI. Coordinar la operación del centro de atención telefónica para la recepción de quejas y denuncias del Consejo;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-XVII. Proveer lo conducente para la ejecución de los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba; que le encomiende el Pleno, el Presidente, la Comisión de Disciplina, la Comisión de Vigilancia, Información y Evaluación o la Contraloría del Poder Judicial de la Federación;
+XVI. Resguardar los expedientes relacionados con las visitas ordinarias de inspección;
 
-XVIII. Recibir las quejas o denuncias formuladas a través de los buzones físicos o virtuales, el centro de atención telefónica o comparecencias, respecto de las cuales deberá elaborar un proveído en el que se decida desechar, prevenir, aclarar u ordenar su remisión al área correspondiente para los efectos legales que se estimen conducentes. El proveído por medio del cual se decida desechar las referidas quejas o denuncias, deberá ser autorizado por el Presidente;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-XIX. Conocer de aquellas quejas o denuncias, provenientes de las diversas áreas administrativas del Consejo, en las que por no colmar los requisitos legales, no se hubiere ordenado el trámite del procedimiento de responsabilidad respectivo;
+XVII. Elaborar los dictámenes relativos a las visitas ordinarias de inspección e informes circunstanciados, y someterlos a la consideración de la Comisión de Vigilancia, Información y Evaluación, dentro de los treinta días siguientes a la recepción de las actas correspondientes, con excepción de aquellos casos en que por causa justificada se requiera mayor tiempo para emitirlo, así como notificar lo que dicha Comisión resuelva;
 
-XX. Para el cumplimiento de lo ordenado en las fracciones XVII, XVIII y XIX, del presente artículo, la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, aplicará en lo conducente, las normas procesales establecidas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, en materia de responsabilidades administrativas, para el efecto de tramitar las quejas y denuncias formuladas a través de los buzones físicos o virtuales, del centro de atención telefónica o comparecencias; los procedimientos de corroboración y constatación de información, así como de hechos denunciados, y además aquellas quejas y denuncias provenientes de otras áreas administrativas del Consejo; y
+XVIII. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
+
+XIX. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
+
+XX. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 XXI. Las demás que establezcan el Pleno y las Comisiones.
 
@@ -2309,9 +2397,7 @@ XIII. Las demás que le confieran el Pleno y las Comisiones.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 99.
 
@@ -2397,11 +2483,11 @@ VI. Los demás que determine el Pleno.
 
 La Contraloría del Poder Judicial de la Federación estará a cargo de un Contralor, a quien corresponde originalmente la representación, trámite y resolución de los asuntos de la competencia de aquélla.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSOS ACUERDOS GENERALES, RESPECTO DE INVESTIGACIONES DERIVADAS DE QUEJAS QUE SE PRESENTEN CONTRA LOS DEFENSORES PÚBLICOS Y ASESORES JURÍDICOS DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 20 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 106.
 
-La Contraloría del Poder Judicial de la Federación será competente para realizar las auditorías, revisiones e inspecciones con el propósito de verificar el cumplimiento a la normativa aplicable, asimismo para investigar las presuntas responsabilidades de los servidores públicos de las áreas administrativas, en los términos y mediante los procedimientos establecidos en la Ley y demás disposiciones aplicables.
+La Contraloría del Poder Judicial de la Federación será competente para realizar las auditorías, revisiones e inspecciones con el propósito de verificar el cumplimiento a la normativa aplicable; promover, evaluar y fortalecer el buen funcionamiento del control interno, así como para iniciar y substanciar los procedimientos de responsabilidad administrativa de los servidores públicos y resolverlos, en los términos establecidos en las disposiciones jurídicas aplicables.
 
 ###### Artículo 107.
 
@@ -2418,6 +2504,10 @@ IV. Dirigir la supervisión del cumplimiento de las disposiciones normativas en 
 V. Dirigir la vigilancia del cumplimiento de la normativa en materia de: registro contable y presupuestal, servicios personales, servicios generales, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, arrendamientos, ejecución de obras y mantenimiento;
 
 VI. Coadyuvar en la mejora de los programas de modernización y desarrollo administrativo, simplificación de trámites y procedimientos, así como en los relativos a desconcentración y descentralización de la función administrativa que determine el Pleno, a través de las revisiones que lleva a cabo;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+VI Bis. Coordinar la promoción, evaluación y fortalecimiento del control interno para el funcionamiento institucional;
 
 VII. Dirigir la práctica de auditorías, revisiones y visitas de inspección, no contempladas en el Programa Anual de Control y Auditoría que se requieran;
 
@@ -2447,13 +2537,23 @@ XIX. Vigilar que se lleve a cabo el registro y seguimiento de la evolución de l
 
 XX. Vigilar que se lleve a cabo el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Tribunal Electoral del Poder Judicial de la Federación que le competen, e informar los resultados a la Contraloría de dicho Tribunal;
 
-XXI. Instrumentar acciones en materia de verificación e investigación financiera y patrimonial, en términos de la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXI. Instrumentar acciones en materia de verificación financiera y patrimonial, en términos de la normatividad aplicable;
 
 XXII. Vigilar que se atiendan las quejas e inconformidades que presenten los proveedores, prestadores de servicio y contratistas por los actos del procedimiento de adjudicación que consideren realizados en contravención de las disposiciones emitidas en el correspondiente Acuerdo General;
 
-XXIII. Coordinar la recepción y trámite de las quejas o denuncias que se formulen en contra de los servidores públicos adscritos a las áreas administrativas, a las oficinas de correspondencia común de los órganos jurisdiccionales, así como instruir los procedimientos disciplinarios por responsabilidad administrativa, en términos del Título Octavo de la Ley y demás acuerdos generales que al respecto emita el Pleno;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXIV. Dirigir el registro de servidores públicos sancionados por el Pleno, la Comisión de Disciplina o por la propia Contraloría, así como establecer los convenios de colaboración con los Poderes de la Federación; el Distrito Federal, los estados y municipios de intercambio de información en la materia;
+XXIII. Coordinar la recepción y trámite de las quejas o denuncias que se formulen en contra de los servidores públicos adscritos a las áreas administrativas, así como instruir el inicio de los respectivos procedimientos de responsabilidad administrativa y resolverlos, en los términos establecidos en la Ley, la Ley General de Responsabilidades Administrativas, y el Acuerdo General en materia de responsabilidades administrativas;
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXIII Bis. Hacer del conocimiento del Pleno la necesidad de formular la denuncia en términos del artículo 41 de la Ley General de Responsabilidades Administrativas, en los casos que proceda;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXIV. Dirigir el registro de servidores públicos sancionados por el Pleno, la Comisión de Disciplina o por la propia Contraloría, así como establecer convenios de colaboración con los Poderes de la Federación; de las entidades federativas y de los municipios para el intercambio de información en la materia;
 
 XXV. Certificar constancias de las actuaciones que realicen en el ejercicio de sus funciones; y
 
@@ -2465,9 +2565,17 @@ La Contraloría del Poder Judicial de la Federación contará con las siguientes
 
 I. Dirección General de Auditoría;
 
-II. Dirección General de Responsabilidades; y
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-III. Las demás que determine el Pleno.
+II. Dirección General de Responsabilidades;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+III. Unidad de Control Interno; y
+
+> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+IV. Las demás que determine el Pleno.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
@@ -2585,9 +2693,11 @@ Los visitadores judiciales "A" serán designados por el Pleno, a propuesta de su
 
 El visitador judicial "B" deberá reunir los requisitos previstos en el segundo párrafo del artículo 99 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 122.
 
-Los visitadores judiciales "B" serán designados por el Pleno, mediante la celebración de un concurso de oposición, cuyas bases serán elaboradas por la Comisión de Disciplina y sometidas a la aprobación del Pleno. Podrá prescindirse del concurso cuando las necesidades del servicio apremien la designación. Durarán tres años en su encargo, prorrogables por una vez, a consideración del Pleno.
+Los visitadores judiciales "B" serán designados por el Pleno, mediante la celebración de un concurso de oposición, cuyas bases serán elaboradas por la Comisión de Vigilancia, Información y Evaluación y sometidas a la aprobación del Pleno. Podrá prescindirse del concurso cuando las necesidades del servicio apremien la designación. Durarán tres años en su encargo, prorrogables por una vez, a consideración del Pleno.
 
 ###### Artículo 123.
 
@@ -2645,21 +2755,27 @@ V. Cambiar al visitador judicial "B" que deba practicar la visita ordinaria, cua
 
 VI. Cambiar la fecha de inicio o conclusión de cualquier visita ordinaria, cuando a su juicio, exista causa fundada para ello;
 
-VII. Solicitar a la Comisión de Disciplina que se emitan las medidas provisionales que por su naturaleza y urgencia así lo ameriten, en caso de que durante el desarrollo de alguna visita de inspección, se advierta la existencia de algún acto que pudiera lesionar gravemente la impartición de justicia;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+VII. Solicitar a la Comisión de Vigilancia, Información y Evaluación que se emitan las medidas provisionales que por su naturaleza y urgencia así lo ameriten, en caso de que, durante el desarrollo de alguna visita de inspección, se advierta la existencia de algún acto que pudiera lesionar gravemente la impartición de justicia;
 
 VIII. Velar porque impere el orden y el respeto entre los integrantes de la Visitaduría Judicial y de éstos hacia el personal de los órganos visitados;
 
-IX. Expresar ante la Comisión de Disciplina el impedimento que tenga para realizar visitas de inspección;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-X. Implementar las visitas extraordinarias de inspección que el Pleno o la Comisión de Disciplina ordenen. Designar al visitador judicial "A" para la práctica de visitas extraordinarias, en caso de que no se asigne uno en especial;
+IX. Expresar ante la Comisión de Vigilancia, Información y Evaluación las razones y causas que tenga para no realizar visitas de inspección;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+X. Implementar las visitas extraordinarias de inspección que el Presidente ordene; y designar al visitador judicial "A" que habrá de practicarlas, en caso de que no se asigne uno en especial;
 
 XI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
 XII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-XIII. Remitir al Secretario Ejecutivo de Disciplina las correspondientes actas de visita;
+XIII. Remitir a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación las correspondientes actas de visita ordinaria; y a la Unidad de Investigación de Responsabilidades Administrativas las actas de las visitas extraordinarias;
 
 XIV. Planear, programar, implementar, coordinar y practicar los informes;
 
@@ -2669,7 +2785,9 @@ XVI. Solicitar a las dependencias del Consejo o a los órganos jurisdiccionales,
 
 XVII. Nombrar a los servidores públicos de la Visitaduría Judicial, con excepción de los visitadores y del director general. Proponer el nombramiento de este último al Pleno. En el caso de los servidores públicos adscritos a los visitadores judiciales "A", el nombramiento se hará a propuesta de éstos;
 
-XVIII. Conceder a los visitadores judiciales "B" y demás servidores públicos de la Visitaduría Judicial, licencia por causa justificada con goce de sueldo hasta por treinta días; y sin goce de sueldo hasta por seis meses. Las licencias de los visitadores judiciales "A" y aquellas que excedan de estos términos serán concedidas por la Comisión de Disciplina, con arreglo a la Ley y demás disposiciones aplicables, en el caso de los visitadores judiciales "A", se recabará previamente la opinión del Visitador General;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XVIII. Conceder a los visitadores judiciales “B” y demás servidores públicos de la Visitaduría Judicial, licencia por causa justificada con goce de sueldo hasta por treinta días; y sin goce de sueldo hasta por seis meses. Las licencias de los visitadores judiciales “A” y aquellas que excedan de estos términos serán concedidas por la Comisión de Vigilancia, Información y Evaluación, de conformidad con la Ley y demás disposiciones aplicables, en el caso de los visitadores judiciales “A”, se recabará previamente la opinión del Visitador General;
 
 XIX. Suplir las ausencias temporales de los visitadores judiciales "A" que no excedan de un mes;
 
@@ -2677,15 +2795,17 @@ XX. Designar a servidores públicos que deban hacerse cargo del despacho de la V
 
 XXI. Autorizar las vacaciones a los servidores públicos a que se refiere la fracción anterior, en los términos del artículo 159, párrafo segundo, de la Ley;
 
-XXII. Elaborar e implementar sistemas de supervisión y evaluación del desempeño y la conducta de los visitadores; informar a la Comisión de Disciplina los resultados de la evaluación y, en caso de ser negativos, proponer las medidas adecuadas;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXII. Elaborar e implementar sistemas de supervisión y evaluación del desempeño y la conducta de los visitadores; informar a la Comisión de Vigilancia, Información y Evaluación los resultados de la evaluación y, en caso de ser negativos, proponer las medidas adecuadas;
 
 XXIII. Emitir opinión fundada al Consejo sobre la posible prórroga del nombramiento de los visitadores judiciales;
 
 XXIV. Cuidar que los procedimientos de inspección, de supervisión y las actas que se levanten, se ajusten a los lineamientos a que se refieren la Ley, este Acuerdo, así como las disposiciones relativas;
 
-XXV. Proponer a la Comisión de Disciplina, cuando exista razón fundada, la práctica del instrumento correspondiente, o bien la investigación de algún hecho o acto concreto, relacionado con el funcionamiento de un órgano jurisdiccional o con la conducta o el desempeño de cualquier funcionario o empleado judicial que pudiera ser constitutivo de causa de responsabilidad;
+XXV. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
-XXVI. Instruir el cumplimiento o cumplir por sí mismo, los acuerdos emitidos por el Pleno o la Comisión de Disciplina, para la investigación de un hecho relacionado con algún servidor público de órgano jurisdiccional;
+XXVI. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 XXVII. Ante cualquier circunstancia no prevista en la normatividad, implementar las acciones necesarias para ejecutar las inspecciones o supervisiones que se programen u ordenen. Cuidará que sus acciones no contravengan la esencia y características de los diferentes instrumentos;
 
@@ -2693,11 +2813,17 @@ XXVIII. Implementar un registro en el que se guarden en forma sistematizada los 
 
 XXIX. Coordinar las reuniones periódicas con los visitadores con el objeto de analizar y uniformar, en su caso, los criterios que surjan en el desarrollo de su función;
 
-XXX. Rendir a la Comisión de Disciplina, cada seis meses, un informe detallado de labores; y previo su análisis y aprobación por ésta, remitir al Pleno, uno anual que además de cuenta sobre los resultados generales de la inspección y supervisión efectuadas;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXXI. Formular y proponer a la Comisión de Disciplina proyectos de reforma a los acuerdos generales que se relacionen con su ámbito de competencia, a cualquier formato de actas, informes, cuestionarios; y
+XXX. Rendir a la Comisión de Vigilancia, Información y Evaluación, cada seis meses, un informe detallado de labores; y previo su análisis y aprobación por ésta, remitir al Pleno, uno anual que además dé cuenta sobre los resultados generales de la inspección y supervisión efectuadas;
 
-XXXII. Las demás que le confieran la Ley, este Acuerdo, así como las disposiciones que en la materia emitan el Pleno o la Comisión de Disciplina.
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXXI. Formular y proponer a la Comisión de Vigilancia, Información y Evaluación proyectos de reforma a los acuerdos generales que se relacionen con su ámbito de competencia, a cualquier formato de actas, informes, cuestionarios; y
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXXII. Las demás que le confieran la Ley, este Acuerdo, así como las disposiciones que en la materia emitan el Pleno o la Comisión de Vigilancia, Información y Evaluación.
 
 ###### Artículo 128.
 
@@ -2765,7 +2891,9 @@ IV. Realizar y coordinar, en términos de la Ley y demás disposiciones aplicabl
 
 V. Canalizar a las áreas correspondientes las peticiones que realicen los integrantes de los órganos jurisdiccionales;
 
-VI. Recibir las quejas y denuncias que se presenten por escrito ante la Visitaduría Judicial, informar de ellas al Visitador General y turnarlas al secretario ejecutivo correspondiente;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+VI. Recibir las quejas y denuncias que se presenten por escrito ante la Visitaduría Judicial, informar de ellas al Visitador General y remitirlas a la Secretaría Ejecutiva de Disciplina o a la Contraloría del Poder Judicial de la Federación, según corresponda;
 
 VII. Brindar el apoyo necesario a los visitadores judiciales, para que pueda realizarse, con las mayores facilidades, el programa de visitas aprobado y el relativo a las inspecciones ordinarias a distancia, elaborado por el Visitador General;
 
@@ -2799,13 +2927,17 @@ IV. Tratar con respeto tanto al personal de la Visitaduría Judicial, como al de
 
 V. Las demás que les encomienden los visitadores "A", a fin de cumplir con los objetivos de la Visitaduría Judicial.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 132.
 
-Las ausencias temporales del Visitador General serán cubiertas por el visitador judicial "A" que designe la Comisión de Disciplina.
+Las ausencias temporales del Visitador General serán cubiertas por el visitador judicial "A" que designe la Comisión de Vigilancia, Información y Evaluación.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 133.
 
-Las ausencias temporales de los visitadores judiciales "A" que no excedan de treinta días serán cubiertas por el Visitador General o por el visitador judicial "A" que éste designe. Las que excedan de ese plazo, por un visitador judicial "A" que designe la Comisión de Disciplina.
+Las ausencias temporales de los visitadores judiciales "A", que no excedan de treinta días, serán cubiertas por el Visitador General o por el visitador judicial "A" que éste designe. Las que excedan de ese plazo, serán cubiertas por un visitador judicial "A" que designe la Comisión de Vigilancia, Información y Evaluación.
 
 ###### Artículo 134.
 
@@ -2823,13 +2955,19 @@ Las ausencias temporales de los secretarios técnicos serán cubiertas por otro 
 
 El Visitador General y los visitadores están impedidos para practicar visitas de inspección o revisar resoluciones o proyectos, en los términos de la fracción II del artículo 128 de este Acuerdo, cuando se encuentren en cualquiera de los supuestos previstos en las fracciones I, II, IX, XIII, XIV y XV del artículo 146, en relación con el 148 de la Ley o en las leyes aplicables.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 138.
 
-El Visitador General y los visitadores no son recusables, pero de existir algún impedimento, deberán manifestarlo por escrito dentro de las veinticuatro horas siguientes a su conocimiento. Tratándose de visitas extraordinarias, si el visitador a quien le haya sido asignada, se considera impedido, deberá informar de inmediato a la Comisión de Disciplina, en su caso, para que proceda a su calificación.
+El Visitador General y los visitadores no son recusables, pero de existir algún impedimento deberán manifestarlo al servidor público o a la unidad administrativa que competa su calificación, por escrito dentro de las veinticuatro horas siguientes a su conocimiento, salvo que se trate de visitas extraordinarias, en cuyo caso deberán informarlo de inmediato.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 139.
 
-La calificación del impedimento del Visitador General o de los visitadores judiciales "A" será competencia de la Comisión de Disciplina; la calificación del impedimento de los visitadores judiciales "B" corresponderá al Visitador General. En todo caso, la calificación será de plano, admitiéndola o desechándola, dentro del plazo de tres días, si se trata de visita ordinaria, y de inmediato, en caso de extraordinaria.
+La calificación del impedimento manifestado por el Visitador General o los visitadores judiciales “A” compete a la Comisión de Vigilancia, Información y Evaluación. Los impedimentos manifestados por los visitadores judiciales “B” serán calificados por el Visitador General.
+
+En todo caso, la calificación será de plano, admitiendo o desechando el impedimento, dentro del plazo de tres días, si se trata de visita ordinaria; o de inmediato, si corresponde a visita extraordinaria.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -2843,23 +2981,23 @@ La calificación del impedimento del Visitador General o de los visitadores judi
 
 ###### Artículo 140.
 
-Para el adecuado y eficaz funcionamiento del Consejo existirán direcciones generales y una Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a fin de ejecutar las funciones administrativas, de control, informáticas y todas aquellas que determine el Pleno.
+Para el adecuado y eficaz funcionamiento del Consejo existirán direcciones generales, una Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, y la Unidad de Investigación de Responsabilidades Administrativas, a fin de ejecutar las funciones administrativas, de control, informáticas y todas aquellas que determine el Pleno.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 141.
 
-Las direcciones generales tendrán como titular a un director general, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, un coordinador, quienes asumirán la dirección técnica y administrativa y serán los responsables ante las autoridades superiores de su correcto funcionamiento.
+Las direcciones generales y la Unidad de Investigación de Responsabilidades Administrativas tendrán como titular a un director general, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, un coordinador, quienes asumirán la dirección técnica y administrativa y serán los responsables ante las autoridades superiores de su correcto funcionamiento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+...(sic)
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 142.
 
-Para ser Director General y Coordinador de Derechos Humanos, Igualdad de Género y Asuntos Internacionales se requiere:
+Para ser Director General, titular de la Unidad de Investigación de Responsabilidades
+
+Administrativas, y Coordinador de Derechos Humanos, Igualdad de Género y Asuntos Internacionales se requiere:
 
 I. Ser de nacionalidad mexicana;
 
@@ -2873,13 +3011,11 @@ V. Gozar de buena reputación; y
 
 VI. No haber sido condenado por delito doloso con sanción privativa de la libertad mayor de un año.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 143.
 
-Corresponde a los titulares de las direcciones generales y de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, las siguientes atribuciones:
+Los titulares de las direcciones generales; de la Unidad de Investigación de Responsabilidades Administrativas; y de la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, tendrán, según corresponda y salvo que existan disposiciones específicas diversas, las atribuciones siguientes:
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -3371,11 +3507,11 @@ VIII. Representar al Consejo en los asuntos jurídicos que le encomiende el Plen
 
 IX. Formular denuncias o querellas y presentarlas ante la autoridad competente, en los casos en que, en términos de la fracción XI del artículo 81 de la Ley, se deba suspender en sus cargos a magistrados de Circuito y jueces de Distrito que aparecieren involucrados en la comisión de un delito, cuando así lo determine el Pleno;
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-X. Intervenir, en representación del Consejo, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de las secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, y órganos auxiliares, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del Pleno, transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
+X. Intervenir, en representación del Consejo, sin perjuicio de las facultades y atribuciones exclusivas de sus integrantes, de las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal, y de Investigación de Responsabilidades Administrativas, y órganos auxiliares, en todas las controversias jurídicas en que sean parte y con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular denuncias y querellas, coadyuvar con el Ministerio Público de la Federación cuando así proceda, interponer toda clase de recursos y desistirse de ellos, incluso del juicio de amparo y otorgar el perdón si procediere, previa autorización del Pleno, transigir, comprometer en árbitros, absolver y articular posiciones, recibir pagos, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan y salvaguarden los derechos del Consejo.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 Por virtud de esta disposición, se entenderán ratificadas por dicho órgano colegiado todas las actuaciones que en los términos de ley, lleve a cabo la Dirección General de Asuntos Jurídicos y los representantes o delegados que designe, quienes gozarán de todas las atribuciones antes enunciadas, debiendo, en todo caso, informar al Pleno y a la Comisión de Administración de las actuaciones realizadas de manera bimestral;
 
@@ -3619,6 +3755,44 @@ XIV. Atender las solicitudes de información provenientes de las Secretarías de
 
 XV. Las demás que establezcan el Pleno y las Comisiones.
 
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 164 Quater.
+
+La Unidad de Investigación de Responsabilidades Administrativas se encargará de practicar las investigaciones de los hechos que se relacionen con las conductas probablemente constitutivas de responsabilidad administrativa.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 164 Quinquies.
+
+El titular de la Unidad de Investigación de Responsabilidades Administrativas tendrá las siguientes atribuciones:
+
+I. Realizar las investigaciones que le instruya el Presidente;
+
+II. Solicitar a los promoventes, en los casos en que sea necesario, aclaraciones o mayores datos de los escritos en los que se promueva procedimiento de responsabilidad en contra de algún servidor público adscrito a las áreas administrativas u órganos jurisdiccionales, para el esclarecimiento de los hechos;
+
+III. Recibir las actas de las visitas extraordinarias y proveer su trámite;
+
+IV. Solicitar a las áreas administrativas y órganos jurisdiccionales acceso a la información necesaria para el esclarecimiento de los hechos probablemente constitutivos de responsabilidad administrativa;
+
+V. Requerir a personas físicas o morales, públicas o privadas, información relacionada con la práctica de investigaciones de presuntas responsabilidades, en los términos previstos en el artículo 96 de la Ley General de Responsabilidades Administrativas;
+
+VI. Solicitar a la Contraloría del Poder Judicial de la Federación que requiera a las instituciones competentes, la información contable y financiera necesaria para las investigaciones;
+
+VII. Imponer medidas de apremio, de conformidad con lo previsto en el artículo 97 de la Ley General de Responsabilidades Administrativas;
+
+VIII. Realizar las diligencias y trámites necesarios para impedir que los elementos materia de la investigación se pierdan, oculten, destruyan o alteren;
+
+IX. Realizar el análisis de los hechos, así como de la información recabada, a efecto de determinar la existencia o inexistencia de actos u omisiones que constituyan faltas administrativas y, en su caso, calificarlas;
+
+X. Elaborar y someter a la consideración y, en su caso, aprobación del Presidente, los informes de presunta responsabilidad administrativa;
+
+XI. Elaborar y someter a la consideración y, en su caso, aprobación del Presidente, los dictámenes correspondientes en los casos en que no se acredite la probable comisión de faltas administrativas;
+
+XII. Requerir informes y documentación a la Unidad de Inteligencia Financiera de la Secretaría de Hacienda y Crédito Público, para que provea la información contable y financiera necesaria para el trámite de una investigación; y
+
+XIII. Las demás que establezcan el Pleno y las Comisiones.
+
 ###### Artículo 165.
 
 La Dirección General de Inmuebles y Mantenimiento será la encargada de supervisar el manejo óptimo de los inmuebles propiedad o en uso del Poder Judicial de la Federación, y auxiliar en todo lo referente a su adquisición, arrendamiento o desincorporación; así como verificar su adecuado mantenimiento.
@@ -3759,17 +3933,13 @@ XXI. Elaborar las propuestas de prórroga de las plazas de adscripción temporal
 
 XXII. Autorizar en el ámbito de su competencia las sustituciones por maternidad y enfermedad, previa solicitud del titular del área administrativa u órgano jurisdiccional, o implementar el trámite correspondiente previa verificación de la existencia de recursos presupuestales disponibles;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
+XXIII. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal, y de Investigación de Responsabilidades Administrativas, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, respecto del personal a su cargo;
 
-XXIII. Elaborar las propuestas de prórrogas de nombramiento que, por tiempo determinado o indefinido, soliciten los titulares de las secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, respecto del personal a su cargo;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES, D.O.F. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XXIV. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a las secretarías ejecutivas, coordinaciones, Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
+XXIV. Elaborar las propuestas para el otorgamiento de base al personal de apoyo adscrito a las secretarías ejecutivas, coordinaciones, Unidades para la Consolidación del Nuevo Sistema de Justicia Penal, y de Investigación de Responsabilidades Administrativas, órganos auxiliares, direcciones generales, y la Coordinación de Derechos Humanos, Igualdad de Género y Asuntos Internacionales, a solicitud del titular de la adscripción del servidor público del que se trate, se tenga la plaza disponible en su plantilla autorizada, su desempeño haya resultado satisfactorio a juicio del propio titular, sin nota desfavorable en su expediente, y cuente con una antigüedad ininterrumpida de más de seis meses en el puesto;
 
 XXV. Operar, los cambios de rango de sueldo autorizados de las plazas de subdirector de área y jefe de departamento, a solicitud de los titulares de las áreas administrativas correspondientes, previo cumplimiento de las disposiciones establecidas;
 
@@ -4061,7 +4231,7 @@ II. Comprobar el cumplimiento por parte de las áreas administrativas, de las ob
 
 III. Verificar que los recursos económicos de que dispone el Poder Judicial de la Federación, se administren con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados, en los términos del artículo 134 constitucional y la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como el Acuerdo General respectivo;
 
-IV. Verificar que los sistemas de control interno establecidos, permitan promover la eficiencia operativa, la observancia de los lineamientos legales, y asegurar la confiabilidad de la información financiera y operativa del Consejo;
+IV. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 V. Elaborar y proponer al Contralor del Poder Judicial de la Federación el Programa Anual de Control y Auditoría, así como las visitas de inspección a las áreas administrativas, para someterlos a consideración del Pleno, previo análisis de la Comisión de Administración;
 
@@ -4107,9 +4277,11 @@ XXV. Proponer al Contralor del Poder Judicial de la Federación la contratación
 
 XXVI. Las demás que establezcan el Pleno, y las Comisiones.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 181.
 
-La Dirección General de Responsabilidades tendrá a su cargo la coordinación de las actividades relacionadas con el registro patrimonial de los servidores públicos del Poder Judicial de la Federación, seguimiento de los bienes asegurados y decomisados, registro de servidores públicos sancionados, así como lo referente a la investigación e instrumentación de los procedimientos administrativos de responsabilidad, y del recurso de inconformidad que presenten los proveedores, prestadores de servicio y contratistas, de conformidad con las disposiciones aplicables en la materia.
+La Dirección General de Responsabilidades tendrá a su cargo la coordinación de las actividades relacionadas con el registro patrimonial de los servidores públicos del Poder Judicial de la Federación, seguimiento de los bienes asegurados y decomisados, registro de servidores públicos sancionados, así como lo referente a la instrumentación de los procedimientos administrativos de responsabilidad, y del recurso de inconformidad que presenten los proveedores, prestadores de servicio y contratistas, de conformidad con las disposiciones aplicables en la materia.
 
 ###### Artículo 182.
 
@@ -4121,25 +4293,37 @@ II. Formular, revisar y someter a la aprobación del Contralor del Poder Judicia
 
 III. Recibir y tramitar las quejas o denuncias que se formulen en contra de los servidores públicos adscritos a las áreas administrativas, en los términos del artículo 132 de la Ley;
 
-IV. Instruir, conforme a lo dispuesto en el artículo 134 de la Ley, las investigaciones y los procedimientos disciplinarios por responsabilidad administrativa en contra de los servidores públicos de las áreas administrativas, ajustándose a las exigencias fijadas en el Acuerdo General del Pleno respectivo, así como proponer, previa aprobación del Contralor del Poder Judicial de la Federación, los proyectos de resolución al Pleno o a la Comisión de Disciplina, según corresponda;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-V. Elaborar los dictámenes sobre la existencia de alguna irregularidad derivada de la obligación de rendir declaración de situación patrimonial por parte de los servidores públicos obligados a ello conforme lo que se establezca en el Acuerdo General del Pleno respectivo;
+IV. Substanciar los procedimientos de responsabilidad administrativa, en los términos que establece la Ley, la Ley General de Responsabilidades Administrativas y el Acuerdo General en materia de responsabilidades administrativas, así como proponer por conducto del Contralor del Poder Judicial de la Federación, los proyectos de resolución al Pleno o a la Comisión de Disciplina, según corresponda;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+V. Presentar al titular de la Contraloría para los efectos correspondientes los dictámenes sobre la existencia de alguna irregularidad derivada de la obligación de rendir declaración de situación patrimonial por parte de los servidores públicos conforme lo que se establezca en el Acuerdo General en materia de responsabilidades administrativas;
 
 VI. Llevar el registro de los servidores públicos que hayan resultado sancionados por el Pleno y por los órganos jurisdiccionales;
 
-VII. Recibir y llevar el registro de las declaraciones patrimoniales que presenten los servidores públicos del Poder Judicial de la Federación; efectuar, previa solicitud del Contralor del Poder Judicial de la Federación, las investigaciones y las diligencias necesarias para corroborar los datos asentados en las declaraciones patrimoniales presentadas por dichos servidores públicos y elaborar los estudios de evolución patrimonial que sean requeridos, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-VIII. Recibir y llevar el registro de las declaraciones patrimoniales que presenten los servidores públicos del Tribunal Electoral del Poder Judicial de la Federación que le competen; efectuar, previa solicitud del Contralor Interno del propio Tribunal, las investigaciones y las diligencias necesarias para corroborar los datos asentados en las declaraciones patrimoniales presentadas por dichos servidores públicos y elaborar los estudios de evolución patrimonial que sean requeridos, de conformidad con la normatividad aplicable;
+VII. Recibir y llevar el registro de las declaraciones patrimoniales que presenten los servidores públicos del Poder Judicial de la Federación; efectuar, previa solicitud del Contralor del Poder Judicial de la Federación, la corroboración de los datos asentados en las declaraciones patrimoniales presentadas por dichos servidores públicos y elaborar los estudios de evolución patrimonial que sean requeridos, de conformidad con la normatividad aplicable;
 
-IX. Proponer al Contralor del Poder Judicial de la Federación tanto los formatos de declaración patrimonial que deban emplearse por los servidores públicos, como los manuales e instructivos para su llenado;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+VIII. Recibir y llevar el registro de las declaraciones patrimoniales que presenten los servidores públicos del Tribunal Electoral del Poder Judicial de la Federación que le competen; efectuar, previa solicitud del Contralor Interno del propio Tribunal, la corroboración de los datos asentados en las declaraciones patrimoniales presentadas por dichos servidores públicos y los estudios de evolución patrimonial que sean requeridos, de conformidad con la normatividad aplicable;
+
+IX. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
 
 X. Asesorar a los servidores públicos sobre el llenado de los formatos de declaración patrimonial; y a los administradores regionales foráneos para que, en auxilio del personal de la dirección, también la brinden;
 
-XI. Proponer al Contralor del Poder Judicial de la Federación que haga del conocimiento del Pleno la necesidad de formular la declaratoria a que se refiere el artículo 46 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, en los casos que proceda;
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-XII. Llevar el registro de los bienes a que se refiere el artículo 45 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;
+XI. Proponer al Contralor del Poder Judicial de la Federación que haga del conocimiento del Pleno la necesidad de formular la denuncia a que se refiere el artículo 41 de la Ley General de Responsabilidades Administrativas, en los casos que proceda;
+
+> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+XII. Llevar el registro interno de los bienes a que se refiere el artículo 40 de la Ley General de Responsabilidades Administrativas;
 
 XIII. Recibir y tramitar, las inconformidades que los proveedores y contratistas presenten por actos efectuados en contravención a los procedimientos establecidos en el Acuerdo General en materia de contrataciones;
 
@@ -4148,6 +4332,30 @@ XIV. Elaborar y someter a la aprobación del Contralor del Poder Judicial de la 
 XV. Efectuar la inspección de la administración y destino de los bienes asegurados, no reclamados y decomisados; y
 
 XVI. Las demás que establezcan el Pleno, y las Comisiones.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 182 Bis.
+
+A la Unidad de Control Interno corresponde promover, evaluar y fortalecer el buen funcionamiento del control interno, con el objeto de que sean adoptadas las medidas necesarias para el fortalecimiento institucional en su desempeño y prevenir faltas administrativas y hechos de corrupción.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 182 Ter.
+
+El titular de la Unidad de Control Interno tendrá las siguientes atribuciones:
+
+I. Verificar que los sistemas de control interno establecidos en el Consejo permitan promover la eficiencia operativa y la observancia de las disposiciones jurídicas aplicables; así como asegurar la confiabilidad de la información financiera y operativa del Consejo;
+
+II. Coordinar la autoevaluación del control interno que realice cada área administrativa del Consejo en su ámbito de competencia;
+
+III. Difundir, capacitar, asesorar y evaluar el control interno institucional, así como promover su mejora continua;
+
+IV. Fomentar la cultura de administración de riesgos, así como capacitar y asesorar a las áreas administrativas en la elaboración de matrices de riesgos;
+
+V. Promover y verificar que las áreas administrativas atiendan oportunamente las recomendaciones y propuestas de mejora en materia de control interno; y
+
+VI. Las demás que establezcan el Pleno y las Comisiones.
 
 ### CAPÍTULO DÉCIMO. DE LOS SECRETARIOS TÉCNICOS
 
@@ -5785,7 +5993,7 @@ SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación
 
 D.O.F. 23 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 109, PÁRRAFO SEGUNDO, DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE OTROS ACUERDOS GENERALES”.]
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 109, PÁRRAFO SEGUNDO, DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO; Y QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE OTROS ACUERDOS GENERALES".]
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5827,7 +6035,7 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 D.O.F. 12 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES”.]
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN A LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES".]
 
 PRIMERO. El presente Acuerdo surtirá efectos de conformidad con lo que señala el punto 38.- GEN./013 de la sesión ordinaria treinta del Pleno del Consejo de la Judicatura Federal.
 
@@ -5948,3 +6156,19 @@ D.O.F. 24 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el primero de diciembre de dos mil diecisiete, con excepción del Transitorio Tercero que iniciará su vigencia a partir de la aprobación de dicho instrumento normativo.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Finanzas y Servicios Personales; y de Administración, por conducto de las unidades administrativas competentes que les estén adscritas, en su ámbito de competencia, llevarán a cabo las acciones necesarias para la implementación del presente Acuerdo.
+
+CUARTO. Las menciones que la Ley General de Responsabilidades Administrativas haga a los órganos internos de control, respecto de la regulación no excluida por el artículo 9, fracción V de dicho ordenamiento legal, se entenderán hechas a la Contraloría del Poder Judicial de la Federación.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+SEXTO. Los procedimientos en trámite a la entrada en vigor del presente Acuerdo se continuarán hasta su conclusión con las disposiciones jurídicas con las que dieron inicio.
