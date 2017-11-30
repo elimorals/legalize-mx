@@ -4,7 +4,7 @@ identifier: "SLP-ley-reglamentaria-del-articulo-9-de-la-constitucion-34096"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-13"
-last_updated: "2010-12-28"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY REGLAMENTARIA DEL ARTICULO 9° DE LA CONSTITUCION POLITICA DEL ESTADO, SOBRE DERECHOS Y CULTURA INDIGENAS
 
-LEY REGLAMENTARIA DEL ARTICULO 9° DE LA CONSTITUCION POLITICA DEL ESTADO, SOBRE DERECHOS Y CULTURA INDIGENAS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2010.
+LEY REGLAMENTARIA DEL ARTÍCULO 9° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, SOBRE DERECHOS Y CULTURA INDÍGENAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 13 de septiembre de 2003.
 
@@ -255,7 +257,9 @@ El Estado y los municipios, a través de sus organismos de salud, garantizarán 
 
 Las autoridades de salud promoverán el respeto a los médicos indígenas de las comunidades, siempre y cuando cuenten con el aval comunitario.
 
-El Estado promoverá acciones conjuntas con las comunidades indígenas para el desarrollo de los conocimientos tradicionales de medicina y herbolaria. Asimismo, fortalecerá los procesos organizativos para preservar y difundir las prácticas de la medicina tradicional indígena, y propiciar una interrelación entre ésta y la medicina alópata.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+El Poder Ejecutivo del Estado, a través del Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí, y del Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, fomentará, en coordinación con las instituciones de educación superior, la investigación científica sobre plantas medicinales y sus usos tradicionales en culturas indígenas de la Entidad, a fin de que, en su caso, puedan ser desarrollados fármacos. En caso de que los fármacos desarrollados sean susceptibles de patente, y con el fin de lograr beneficios económicos en favor de esas comunidades, el Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí, deberá llevar a cabo los convenios necesarios con el Gobierno Federal para que se brinde la asesoría necesaria en materia de propiedad intelectual a las mismas.
 
 ###### ARTICULO 41.
 
@@ -478,3 +482,13 @@ PRIMERO. Este Decreto entrará en .vigencia el día siguiente de su publicación
 SEGUNDO. El Ejecutivo del Estado, a través de la Coordinación para la Atención de los Pueblos Indígenas, deberá instalar el Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, dentro del plazo de sesenta días hábiles, plazo que se contará a partir de la entrada en vigor de este Decreto.
 
 TERCERO. El Ejecutivo del Estado expedirá en un plazo de noventa días hábiles el Reglamento para la Integración y Funcionamiento del Sistema Estatal para el Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas, plazo que se contará a partir de la entrada en vigencia de este Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 747.- SE REFORMA EL ARTÍCULO 40 EN SU PÁRRAFO SEGUNDO, DE LA LEY REGLAMENTARIA DEL ARTÍCULO 9° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, SOBRE LOS DERECHOS Y LA CULTURA INDÍGENA”.]
+
+PRIMERO. Este Decreto deberá ser publicado en español; tének, náhuatl; y Xi'Oi; y entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. El Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas del Estado de San Luis Potosí, deberá difundir el presente Decreto entre los pueblos y las comunidades indígenas, en un plazo máximo de noventa días contados a partir de su entrada en vigor.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
