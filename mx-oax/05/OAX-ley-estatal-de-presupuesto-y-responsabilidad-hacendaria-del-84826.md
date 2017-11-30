@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2016-12-31"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -49,7 +49,9 @@ La presente Ley es de orden público, y tiene por objeto reglamentar los artícu
 
 Los Ejecutores de gasto estarán obligados a cumplir las disposiciones de esta Ley así como observar que la administración de los recursos públicos se realice con base en criterios de legalidad, eficiencia, eficacia, economía, transparencia, honradez, racionalidad, austeridad, control, rendición de cuentas y equidad de género.
 
-La Auditoría Superior del Estado fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los Ejecutores de gasto, conforme a la competencia que le confieren la Constitución Política del Estado libre y Soberano de Oaxaca y la Ley de Fiscalización Superior del Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+La Auditoría Superior del Estado fiscalizará el estricto cumplimiento de las disposiciones de esta Ley por parte de los Ejecutores de gasto, conforme a la competencia que le confieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -73,133 +75,267 @@ VI. Auditoría: la Auditoría Superior del Estado;
 
 VII. Balance de operación: estado que muestra las operaciones financieras de ingresos, egresos y déficit de las dependencias y entidades de la Administración Pública Estatal deducidas de las operaciones compensadas realizadas entre ellas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-VIII. Balance financiero: resultado que se obtiene de sumar el balance económico y el resultado del uso de recursos para financiar a los sectores privado y social;
+VIII. Balance económico: resultado positivo (superávit), o negativo (déficit) de la confrontación entre los ingresos y los egresos del sector público de control presupuestario directo o indirecto;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-IX. Balance presupuestario sostenible: resultado obtenido al final del ejercicio fiscal y bajo el momento contable devengado, cuando dicho balance sea mayor o igual a cero;
+IX. Balance financiero: resultado que se obtiene de sumar el balance económico y el resultado del uso de recursos para financiar a los sectores privado y social;
 
-X. Clasificador por objeto del gasto: el instrumento que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación por objeto del gasto. Este clasificador permite formular y aprobar el proyecto de Presupuesto de Egresos desde la perspectiva económica y dar seguimiento a su ejercicio;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XI. Capítulo de gasto: Es el mayor nivel de agregación que identifica el conjunto homogéneo y ordenado de los bienes y servicios requeridos por los Ejecutores de gasto.
+X. Balance presupuestario: la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
 
-XII. Contraloría: Secretaría de la Contraloría y Transparencia Gubernamental;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XIII. Coordinador de sector: la Dependencia que designe el Ejecutivo Estatal en los términos de la Ley Orgánica del Poder Ejecutivo del Estado, para orientar y coordinar la programación, presupuestación, ejercicio y evaluación del gasto de las entidades que queden ubicadas en el sector bajo su coordinación;
+XI. Balance presupuestario de recursos disponibles: la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda.
 
-XIV. Cuenta Pública: al informe a que se refiere la Ley de Fiscalización Superior del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XV. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la Ley de Ingresos y el Presupuesto de Egresos y aquélla entre los ingresos y los gastos en los presupuestos de las entidades;
+XII. Clasificador por objeto del gasto: el instrumento que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación por objeto del gasto. Este clasificador permite formular y aprobar el proyecto de Presupuesto de Egresos desde la perspectiva económica y dar seguimiento a su ejercicio;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XVI. Dependencias: Gubernatura, Secretarías de despacho incluidas en ellas a los órganos administrativos desconcentrados; Procuraduría General de Justicia del Estado; Consejería Jurídica del Gobierno del Estado; Órganos Auxiliares que dependen directamente del Gobernador del Estado, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+XIII. Capítulo de gasto: Es el mayor nivel de agregación que identifica el conjunto homogéneo y ordenado de los bienes y servicios requeridos por los Ejecutores de gasto.
 
-XVII. Economías: los remanentes de recursos no devengados del presupuesto modificado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XVIII. Eficacia en la aplicación del gasto público: lograr en el ejercicio fiscal los objetivos y las metas programadas en los términos de esta Ley y demás disposiciones aplicables;
+XIV. Contraloría: Secretaría de la Contraloría y Transparencia Gubernamental;
 
-XIX. Eficiencia en el ejercicio del gasto público: el ejercicio del Presupuesto de Egresos en tiempo y forma, en los términos de esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+XV. Coordinador de sector: la Dependencia que designe el Ejecutivo Estatal en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca, para orientar y coordinar la programación, presupuestación, ejercicio y evaluación del gasto de las entidades que queden ubicadas en el sector bajo su coordinación;
 
-XX. Ejecutores de gasto: Los Poderes Legislativo y Judicial; Órganos Autónomos por disposición constitucional y legal; dependencias y entidades del Poder Ejecutivo que realizan las erogaciones a que se refiere el artículo 4 de esta Ley con cargo al Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXI. Endeudamiento neto: la diferencia entre las disposiciones y amortizaciones efectuadas de las obligaciones constitutivas de deuda pública, al cierre del ejercicio fiscal;
+XVI. Cuenta Pública: El informe a que se refiere la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca;
 
-XXII. Entidades: los organismos descentralizados, empresas de participación estatal, fideicomisos públicos y órganos auxiliares de colaboración que de conformidad con la Ley de Entidades Paraestatales del Estado de Oaxaca sean considerados entidades paraestatales;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXIII. Entidades coordinadas: las entidades que el Ejecutivo Estatal agrupe en los sectores coordinados por las dependencias, en los términos de la ley Orgánica del Poder Ejecutivo del Estado de Oaxaca;
+XVII. Déficit presupuestario: el financiamiento que cubre la diferencia entre los montos previstos en la Ley de Ingresos y el Presupuesto de Egresos y aquella entre los ingresos y los gastos en los presupuestos de las entidades;
 
-XXIV. Entidades no coordinadas: las entidades que no se encuentren agrupadas en los sectores coordinados por las dependencias;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXV. Estructura programática: el conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los Ejecutores de gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas en el Plan Estatal de Desarrollo, programas y presupuestos, así como ordena y clasifica las acciones de los Ejecutores de gasto para delimitar la aplicación del gasto y permite conocer el resultado esperado de la utilización de los recursos públicos;
+XVIII. Dependencias: Gubernatura, Secretarías de despacho incluidas en ellas a los órganos administrativos desconcentrados; Procuraduría General de Justicia del Estado; Consejería Jurídica del Gobierno del Estado; Órganos Auxiliares que dependen directamente del Gobernador del Estado, y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca;
 
-XXVI. Flujo de efectivo: el registro de las entradas y salidas efectivas de recursos financieros en un ejercicio fiscal;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXVII. Gasto neto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
+XIX. Deuda Contingente: cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Gobierno Estatal con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;
 
-XXVIII. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos y, adicionalmente, las amortizaciones de la deuda pública, y en su caso las operaciones que eviten la duplicidad en el registro del gasto;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXIX. Gasto programable: las erogaciones que el Estado realiza en cumplimiento de su atribución conforme a los programas para proveer bienes y servicios públicos a la población;
+XX. Disciplina Financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de Obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero.
 
-XXX. Gasto no programable: las erogaciones a cargo del Estado que derivan del cumplimiento de obligaciones legales o del Decreto de Presupuesto de Egresos, que no corresponden directamente a los programas para proveer bienes y servicios públicos a la población;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXXI. Género: Al conjunto de atributos simbólicos, sociales, económicos, jurídicos, políticos y culturales asignados a las personas de acuerdo a su sexo;
+XXI. Economías: los remanentes de recursos no devengados del presupuesto modificado;
 
-XXXII. Informes trimestrales: el informe sobre los ingresos, egresos y deuda pública que debe presentar el Ejecutivo Estatal al Congreso del Estado.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXXIII. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos o en su caso respecto de los que por cualquier otro concepto perciban las entidades;
+XXII. Eficacia en la aplicación del gasto público: lograr en el ejercicio fiscal los objetivos y las metas programadas en los términos de esta Ley y demás disposiciones aplicables;
 
-XXXIV. Ingresos propios: son todos aquellos ingresos contenidos en la Ley de Ingresos del Estado de Oaxaca distintos de las derivadas de convenios, transferencias, subsidios y otras ayudas provenientes de la Federación;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXXV. Ley de Ingresos: la Ley de Ingresos del Estado de Oaxaca para el ejercicio fiscal correspondiente;
+XXIII. Eficiencia en el ejercicio del gasto público: el ejercicio del Presupuesto de Egresos en tiempo y forma, en los términos de esta Ley y demás disposiciones aplicables;
 
-XXXVI. Órganos Autónomos: los entes de derecho público de carácter estatal con patrimonio y personalidad jurídica, con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado Libre y Soberano de Oaxaca a las que se asignen recursos de ramos autónomos del Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXXVII. Partida Presupuestal: Es el nivel de agregación especifico en el cual se describen las expresiones concretas y detalladas de los bienes y servicios que se adquieren.
+XXIV. Ejecutores de gasto: Los Poderes Legislativo y Judicial; Órganos Autónomos por disposición constitucional y legal; dependencias y entidades del Poder Ejecutivo que realizan las erogaciones a que se refiere el artículo 4 de esta Ley con cargo al Presupuesto de Egresos;
 
-XXXVIII. Percepciones extraordinarias: los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de la legislación laboral y de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XXXIX. Percepciones ordinarias: los pagos por sueldos y salarios que se cubren a los servidores públicos conforme a los tabuladores autorizados por el desempeño de sus labores cotidianas en los Poderes Legislativo, Judicial, Ejecutivo y Órganos Autónomos, donde prestan sus servicios, así como los montos correspondientes a los incrementos que, en su caso, se hayan aprobado para el ejercicio fiscal;
+XXV. Endeudamiento neto: la diferencia entre las disposiciones y amortizaciones efectuadas de las obligaciones constitutivas de deuda pública, al cierre del ejercicio fiscal;
 
-XL. Presupuesto de Egresos: el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal correspondiente, incluyendo el decreto y sus anexos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XLI. Presupuesto devengado: el reconocimiento de las obligaciones de pago por parte de los Ejecutores de gasto a favor de terceros por la recepción de conformidad de bienes, servicios y obras oportunamente contratados; así como de las obligaciones que se derivan de leyes, decretos, resoluciones y sentencias definitivas;
+XXVI. Entidades: los organismos descentralizados, empresas de participación estatal, fideicomisos públicos y órganos auxiliares de colaboración que de conformidad con la Ley de Entidades Paraestatales del Estado de Oaxaca sean considerados entidades paraestatales;
 
-XLII. Presupuesto regularizable de servicios personales: las erogaciones que con cargo al Presupuesto de Egresos implican un gasto permanente en subsecuentes ejercicios fiscales en materia de servicios personales, por concepto de percepciones ordinarias, y que se debe informar en un apartado específico en el proyecto de Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XLIII. Programas de inversión: las acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura, adquisición y modificación de inmuebles, adquisición de bienes muebles asociadas a estos programas, rehabilitación o mantenimiento que implique un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles; estudios, diseño, ejecución y evaluación de las mismas;
+XXVII. Entidades coordinadas: las entidades que el Ejecutivo Estatal agrupe en los sectores coordinados por las dependencias, en los términos de la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca;
 
-XLIV. Proyectos de inversión: las acciones que implican erogaciones de gasto de capital destinadas a obra pública en infraestructura así como los originados por los estudios, diseño ejecución y evaluación de las mismas;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XLV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
+XXVIII. Entidades no coordinadas: las entidades que no se encuentren agrupadas en los sectores coordinados por las dependencias;
 
-XLVI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XLVII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
+XXIX. Estructura programática: el conjunto de categorías y elementos programáticos ordenados en forma coherente, el cual define las acciones que efectúan los Ejecutores de gasto para alcanzar sus objetivos y metas de acuerdo con las políticas definidas en el Plan Estatal de Desarrollo, programas y presupuestos, así como ordena y clasifica las acciones de los Ejecutores de gasto para delimitar la aplicación del gasto y permite conocer el resultado esperado de la utilización de los recursos públicos;
 
-XLVIII. Reglamento: el Reglamento de la Ley Estatal de Presupuesto y Responsabilidad Hacendaría;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XLIX. Reglas de Operación: las disposiciones a las cuales se sujetan determinados programas con el objeto de asegurar la transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
+XXX. Flujo de efectivo: el registro de las entradas y salidas efectivas de recursos financieros en un ejercicio fiscal;
 
-L. Remuneraciones: toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones y compensaciones que reciban los servidores públicos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-LI. Requerimientos financieros del sector público: las necesidades de financiamiento para alcanzar los objetivos de las políticas públicas tanto del Gobierno Estatal y las entidades del sector público estatal, como de las entidades del sector privado y social que actúan por cuenta del Gobierno Estatal;
+XXXI. Gasto corriente: las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
 
-LII. Responsabilidad Hacendaria: la observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos y los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso del Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-LIII. Saldo histórico de los requerimientos financieros del sector público: los pasivos que integran los requerimientos financieros del sector público menos los activos financieros disponibles, en virtud de la trayectoria anual observada a lo largo del tiempo de los citados requerimientos;
+XXXII. Gasto etiquetado: Transferencias federales etiquetadas. En el caso de los Municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del Estado con un destino específico;
 
-LIV. Secretaría: Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-LV. Sistema de evaluación del desempeño: el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores de desempeño que permitan conocer el impacto social de los programas y de los proyectos;
+XXXIII. Gasto no etiquetado: las erogaciones con cargo a los Ingresos de libre disposición y Financiamientos generados por el Estado y sus municipios. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico;
 
-LVI. Subejercicio de gasto: las disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso legal de su ejecución;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+XXXIV. Gasto neto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las amortizaciones de la deuda pública y las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
-LVII. Subsidios: asignaciones de recursos destinados a promover y fomentar la producción, transformación, comercialización y distribución de bienes y servicios; así como, las relacionadas con la mejora de la prestación de servicios públicos.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+XXXV. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos con cargo a los ingresos previstos en la Ley de Ingresos y, adicionalmente, las amortizaciones de la deuda pública, y en su caso las operaciones que eviten la duplicidad en el registro del gasto;
 
-LVIII. Transferencias: recursos aprobados en el Presupuesto de Egresos de la Federación para ser ejercidos por las dependencias o entidades estatales;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-LIX. Unidades de administración: los órganos o unidades administrativas de los Ejecutores de gasto, establecidos en los términos de sus respectivas leyes orgánicas;
+XXXVI. Gasto programable: las erogaciones que el Estado realiza en cumplimiento de su atribución conforme a los programas para proveer bienes y servicios públicos a la población;
 
-LX. Unidad ejecutora: las áreas administrativas de los Poderes Legislativo, Judicial, Ejecutivo, Órganos Autónomos y órganos auxiliares de colaboración que llevan a cabo las actividades y actos previstos en los programas y subprogramas aprobados que sirven de base para la determinación del Presupuesto de Egresos que ejercerán en cada ejercicio; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+XXXVII. Gasto no programable: las erogaciones a cargo del Estado que derivan del cumplimiento de obligaciones legales o del Decreto de Presupuesto de Egresos, que no corresponden directamente a los programas para proveer bienes y servicios públicos a la población;
 
-LXI. Unidad responsable: Para efectos presupuestales los Poderes Legislativo y Judicial; Órganos Autónomos, dependencias y entidades del Poder Ejecutivo, obligadas a rendir cuentas sobre la aplicación, ejercicio, control y evaluación de los programas comprendidos en el Presupuesto de Egresos y que contribuyen al cumplimiento del Plan Estatal de Desarrollo.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXXVIII. Género: Al conjunto de atributos simbólicos, sociales, económicos, jurídicos, políticos y culturales asignados a las personas de acuerdo a su sexo;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XXXIX. Informes trimestrales: el informe sobre los ingresos, egresos y deuda pública que debe presentar el Ejecutivo Estatal al Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XL. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos o en su caso respecto de los que por cualquier otro concepto perciban las entidades;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLI. Ingresos propios: son todos aquellos ingresos contenidos en la Ley de Ingresos del Estado de Oaxaca distintos de las derivadas (sic) de convenios, transferencias, subsidios y otras ayudas provenientes de la Federación;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLII. Informes trimestrales: el informe sobre los ingresos, egresos y deuda pública que debe presentar el Ejecutivo Estatal al Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLIII. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos o en su caso respecto de los que por cualquier otro concepto perciban las entidades;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLIV. Ingresos de libre disposición: los Ingresos locales y las participaciones federales, así como los recursos que, en su caso, se reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLV. Ingresos totales: la totalidad de los Ingresos de libre disposición, las Transferencias federales etiquetadas y el Financiamiento Neto;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLVI. Inversión pública productiva: toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: a) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; b) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o c) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLVII. Ley de Ingresos: la Ley de Ingresos del Estado de Oaxaca para el ejercicio fiscal correspondiente;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLVIII. Órganos Autónomos: los entes de derecho público de carácter estatal con patrimonio y personalidad jurídica, con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado Libre y Soberano de Oaxaca a las que se asignen recursos de ramos autónomos del Presupuesto de Egresos;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XLIX. Partida Presupuestal: Es el nivel de agregación específico en el cual se describen las expresiones concretas y detalladas de los bienes y servicios que se adquieren.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+L. Percepciones extraordinarias: los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de la legislación laboral y de esta Ley;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LI. Percepciones ordinarias: los pagos por sueldos y salarios que se cubren a los servidores públicos conforme a los tabuladores autorizados por el desempeño de sus labores cotidianas en los Poderes Legislativo, Judicial, Ejecutivo y Órganos Autónomos, donde prestan sus servicios, así como los montos correspondientes a los incrementos que, en su caso, se hayan aprobado para el ejercicio fiscal;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LII. Presupuesto de Egresos: el Presupuesto de Egresos del Estado de Oaxaca para el ejercicio fiscal correspondiente, incluyendo el decreto y sus anexos;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LIII. Presupuesto devengado: el reconocimiento de las obligaciones de pago por parte de los Ejecutores de gasto a favor de terceros por la recepción de conformidad de bienes, servicios y obras oportunamente contratados; así como de las obligaciones que se derivan de leyes, decretos, resoluciones y sentencias definitivas;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LIV. Presupuesto regularizable de servicios personales: las erogaciones que con cargo al Presupuesto de Egresos implican un gasto permanente en subsecuentes ejercicios fiscales en materia de servicios personales, por concepto de percepciones ordinarias, y que se debe informar en un apartado específico en el proyecto de Presupuesto de Egresos;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LV. Programas de inversión: las acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura, adquisición y modificación de inmuebles, adquisición de bienes muebles asociadas a estos programas, rehabilitación o mantenimiento que implique un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles; estudios, diseño, ejecución y evaluación de las mismas;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LVI. Proyectos de inversión: las acciones que implican erogaciones de gasto de capital destinadas a obra pública en infraestructura así como los originados por los estudios, diseño ejecución y evaluación de las mismas;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LVII. Reglamento: el Reglamento de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LVIII. Reglas de Operación: las disposiciones a las cuales se sujetan determinados programas con el objeto de asegurar la transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LIX. Remuneraciones: toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones y compensaciones que reciban los servidores públicos;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LX. Requerimientos financieros del sector público: las necesidades de financiamiento para alcanzar los objetivos de las políticas públicas tanto del Gobierno Estatal y las entidades del sector público estatal, como de las entidades del sector privado y social que actúan por cuenta del Gobierno Estatal;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LXI. Responsabilidad Hacendaria: la observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos y los ordenamientos jurídicos aplicables que procuren el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por el Congreso del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LXII. Saldo histórico de los requerimientos financieros del sector público: los pasivos que integran los requerimientos financieros del sector público menos los activos financieros disponibles, en virtud de la trayectoria anual observada a lo largo del tiempo de los citados requerimientos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LXIII. Secretaría: Secretaría de Finanzas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LXIV. Sistema de evaluación del desempeño: el conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores de desempeño que permitan conocer el impacto social de los programas y de los proyectos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LXV. Subejercicio de gasto: las disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso legal de su ejecución;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LXVI. Subsidios: las asignaciones de recursos estatales previstas en el Presupuesto de Egresos que, a través de las dependencias y entidades, se otorgan a los diferentes sectores de la sociedad y municipios para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LXVII. Transferencias: las erogaciones destinadas a cubrir el déficit de operación y los gastos de administración de las entidades y órganos administrativos desconcentrados, las que serán otorgadas de forma excepcional y temporal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LXVIII. Unidades de administración: los órganos o unidades administrativas de los Ejecutores de gasto, establecidos en los términos de sus respectivas leyes orgánicas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LXIX. Unidad ejecutora: las áreas administrativas de los Poderes Legislativo, Judicial, Ejecutivo, Órganos Autónomos y órganos auxiliares de colaboración que llevan a cabo las actividades y actos previstos en los programas y subprogramas aprobados que sirven de base para la determinación del Presupuesto de Egresos que ejercerán en cada ejercicio; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+LXX. Unidad responsable: Para efectos presupuestales los Poderes Legislativo y Judicial; Órganos Autónomos; dependencias y entidades del Poder Ejecutivo, obligadas a rendir cuentas sobre la aplicación, ejercicio, control y evaluación de los programas comprendidos en el Presupuesto de Egresos y que contribuyen al cumplimiento del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 Los conceptos utilizados en la presente Ley que requieran ser precisados y que no se encuentren incluidos en este apartado, deberán incluirse en el Reglamento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### Artículo 3.
 
-La interpretación de esta Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal, corresponde a la Secretaría y a la Contraloría en el ámbito de su respectiva competencia. La Ley de Justicia Administrativa para el Estado de Oaxaca y el Código Fiscal para el Estado de Oaxaca serán supletorios de esta Ley en lo conducente.
+La interpretación de esta Ley para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal corresponde a la Secretaría y a la Contraloría en el ámbito de su respectiva competencia. La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Justicia Administrativa para el Estado de Oaxaca, y el Código Fiscal para el Estado de Oaxaca serán supletorios de esta Ley en lo conducente.
 
 Las dependencias, entidades, órganos auxiliares del Gobernador del Estado y los órganos auxiliares de colaboración deberán observar las disposiciones generales que emitan la Secretaría y la Contraloría, en el ámbito de su respectiva competencia, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los Poderes Legislativo y Judicial y de los Órganos Autónomos, sus respectivas Unidades de administración deberán establecer las disposiciones generales correspondientes.
 
@@ -281,7 +417,15 @@ II. Podrán realizar erogaciones adicionales a las aprobadas en el presupuesto, 
 
 III. Con anterioridad al ejercicio o contratación de cualquier proyecto de inversión pública cuyo monto rebase el equivalente a 50 millones de pesos, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil, y
 
+> <small>(ADICIONADO, 30 DE NOVIEMBRE DE 2017)</small>
+
+Para los propósitos señalados en el párrafo anterior, el Gobierno Estatal deberá contar con un área encargada de evaluar el análisis socioeconómico, conforme a los requisitos que, en su caso, se determinen para tales efectos; así como de integrar y administrar el registro de proyectos de Inversión pública, dichas evaluaciones deberán ser públicas a través de la página oficial de Internet de la Secretaría;
+
 IV. En el caso de proyectos de inversión pública que rebase el equivalente a 500 millones de pesos, deberá realizar un análisis costo eficiencia, a nivel de prefactibilidad.
+
+> <small>(ADICIONADA, 30 DE NOVIEMBRE DE 2017)</small>
+
+V. Los recursos para cubrir adeudos de ejercicio fiscal anterior, previstos en el proyecto de presupuesto de egresos, podrán ser hasta por el dos por ciento de los ingresos totales del Estado.
 
 ###### Artículo 9.
 
@@ -337,7 +481,9 @@ V. Determinar los mecanismos de distribución, operación y administración;
 
 VI. Garantizar que los recursos se entreguen a la población objetivo;
 
-VII. Remitir a la Secretaria el programa e informes trimestrales de avance y resultados alcanzados para su publicación en la página de internet de la misma, y
+> <small>(REFORMADA, 30 DE NOVIEMBRE DE 2017)</small>
+
+VII. Remitir a la Secretaría el programa e informes trimestrales de avance y resultados alcanzados los cuales deberán hacerse pública (sic) a través de las páginas oficiales de Internet de la misma, y
 
 VIII. Las demás obligaciones contenidas en la presente Ley y su Reglamento, así como las señaladas por el Consejo Nacional de Armonización Contable.
 
@@ -367,19 +513,29 @@ Al extinguir los fideicomisos que se constituyan en los términos de este artíc
 
 ### CAPÍTULO SEGUNDO. DEL BALANCE PRESUPUESTARIO SOSTENIBLE Y LOS PRINCIPIOS DE RESPONSABILIDAD HACENDARIA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 14.
 
-La Ley de Ingresos y el Presupuesto de Egresos se elaborarán con base en objetivos y parámetros cuantificables e indicadores del desempeño, deberán ser congruentes con el Plan Estatal de Desarrollo y los programas que derivan del mismo, e incluirán cuando menos lo siguiente:
+La Ley de Ingresos y el Presupuesto de Egresos se elaborarán conforme a lo establecido en la legislación aplicable, en la Ley General de Contabilidad Gubernamental y en las normas que para tal efecto emita el Consejo Nacional de Armonización Contable con base en objetivos y parámetros cuantificables e indicadores del desempeño, deberán ser congruentes con el Plan Estatal de Desarrollo y los programas que derivan del mismo, e incluirán cuando menos lo siguiente:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 I. Objetivos anuales, estrategias y metas;
 
-II. Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios Generales de Política Económica;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+II. Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios Generales de Políticas Económica (sic).
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Las proyecciones abarcarán un periodo de cinco años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
 
-III. Descripción de los riesgos relevantes para las finanzas públicas, acompañados de propuestas de acción para enfrentarlos;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+III. Descripción de los riesgos relevantes para las finanzas públicas incluyendo los montos de deuda contingente, acompañados de propuestas de acción para enfrentarlos;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 IV. Los resultados de las finanzas públicas que abarquen un periodo de los cinco últimos años y el ejercicio fiscal en cuestión, y
 
@@ -389,11 +545,13 @@ V. Un estudio actuarial de las pensiones de sus trabajadores, el cual como míni
 
 Las proyecciones y resultados antes señalados se emitirán con base en los formatos que emita el Consejo Nacional de Armonización Contable.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 15.
 
-El gasto total propuesto por el Ejecutivo Estatal en el proyecto de Presupuesto de Egresos, aquél que apruebe el Congreso del Estado y el que se ejerza en el año fiscal por los Ejecutores de gasto, deberá contribuir a un Balance presupuestario sostenible.
+El gasto neto total propuesto por el Ejecutivo Estatal en el proyecto de Presupuesto de Egresos, aquél que apruebe el Congreso del Estado y el que se ejerza en el año fiscal por los Ejecutores de gasto, deberá contribuir al equilibrio presupuestario, se cumple con esta premisa, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Circunstancialmente y debido a las condiciones económicas y sociales que priven en el país y el estado, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos podrán prever un Balance presupuestario de recursos disponibles negativo. En estos casos, el Ejecutivo Estatal, por conducto de la Secretaría, deberá dar cuenta al Congreso, de los siguientes aspectos:
 
@@ -403,7 +561,15 @@ II. Las fuentes de recursos necesarias y el monto específico para cubrir el Bal
 
 III. El número de ejercicios fiscales y las acciones requeridas para que dicho Balance presupuestario de recursos disponibles negativo sea eliminado y se restablezca el Balance presupuestario de recursos disponibles sostenible.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+IV. Prever recursos del orden del 10 por ciento de la aportación realizada para la reconstrucción de la infraestructura dañada que en promedio se haya registrado en los últimos cinco ejercicios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 El Ejecutivo Estatal reportará en los informes trimestrales y en la Cuenta Pública y a través de su página oficial de internet, el avance de las acciones, hasta en tanto no se recupere el Balance presupuestario sostenible.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 En caso de que el Congreso del Estado modifique la Ley de Ingresos y el Presupuesto de Egresos de tal manera que genere un Balance presupuestario de recursos disponibles negativo, deberá motivar su decisión sujetándose a las fracciones I y II de este artículo. A partir de la aprobación del Balance presupuestario de recursos disponibles negativo a que se refiere este párrafo, el Ejecutivo Estatal deberá dar cumplimiento a la fracción III y al párrafo anterior.
 
@@ -423,11 +589,19 @@ III. Se tenga la necesidad de prever un costo mayor al 2 por ciento del gasto no
 
 A toda propuesta de aumento o creación de gasto que afecte el proyecto de Presupuesto de Egresos, deberá agregarse la correspondiente iniciativa de ingreso distinta al financiamiento o compensarse con reducciones en otras previsiones de gasto.
 
-Sin perjuicio de lo dispuesto en el artículo 50, no procederá pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior; en este último caso primero se tendrá que aprobar la fuente de ingresos adicional para cubrir los nuevos gastos, en los términos del párrafo anterior.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Sin perjuicio de lo dispuesto en el artículo 50, no procederá pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior; en este último caso primero se tendrá que aprobar la fuente de ingresos adicional para cubrir los nuevos gastos, en los términos del párrafo anterior, debiendo el Ejecutivo Estatal revelar en la cuenta pública y en los informes trimestrales de avance de gestión financiera que entregue al Congreso la fuente de ingresos con la que se haya pagado.
 
 Las comisiones correspondientes del Congreso del Estado, al elaborar los dictámenes respectivos, realizarán una valoración del impacto presupuestario de las iniciativas de ley o decreto, y solicitarán al Centro de Estudios Económicos y de Finanzas Públicos una opinión técnica sobre el impacto presupuestario antes de la emisión del proyecto correspondiente, y podrán solicitar opinión a la Secretaría sobre el proyecto correspondiente.
 
-El Ejecutivo Estatal a través de la Secretaría deberá emitir un dictamen de impacto presupuestario de las iniciativas de ley o decreto que presente a la consideración del Congreso del Estado, dictamen que deberá estar a disposición de la Legislatura para su revisión.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+El Ejecutivo, por conducto de la Secretaría, realizará una estimación del impacto presupuestario de las iniciativas de ley o decretos que se presenten a la consideración del Congreso. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+La aprobación y ejecución de nuevas obligaciones financieras derivadas de la legislación local, se realizará en el marco del principio de balance presupuestario sostenible, por lo cual, se sujetarán a la capacidad financiera del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -435,7 +609,9 @@ El Ejecutivo Estatal a través de la Secretaría deberá emitir un dictamen de i
 
 Los ingresos excedentes derivados de la Ley de Ingresos, podrán ser autorizados por el Ejecutivo Estatal, por conducto de la Secretaría, para ser destinados a los siguientes conceptos:
 
-I. Por lo menos el 50 por ciento para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la Cuenta pública del cierre del ejercicio inmediato anterior, así como la aportación a fondos para la atención de desastres naturales y de pensiones, y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+I. Por lo menos el cincuenta por ciento para la amortización anticipada de la Deuda Pública, el pago de adeudos de ejercicios fiscales anteriores, pasivos circulantes y otras obligaciones, en cuyos contratos se haya pactado el pago anticipado sin incurrir en penalidades y representen una disminución del saldo registrado en la cuenta pública del cierre del ejercicio inmediato anterior, el pago de sentencias definitivas emitidas por la autoridad competente, así como la aportación a fondos para la atención de desastres naturales y de pensiones, y
 
 II. En su caso, el remanente para:
 
@@ -609,11 +785,23 @@ a) El 3 por ciento de crecimiento real, y
 
 b) El crecimiento real del Producto Interno Bruto señalado en los Criterios Generales de Política Económica para el ejercicio que se está presupuestando. En caso de que el Producto Interno Bruto presente variación real negativa para el ejercicio que se está presupuestando, se deberá considerar un crecimiento real igual a cero, y
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+c) Se exceptúa del cumplimiento de la presente fracción, el monto erogado por sentencias laborales definitivas emitidas por la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+d) Los gastos en servicios personales que sean estrictamente indispensables para la implementación de nuevas leyes o reformas a las mismas, podrán autorizarse sin sujetarse al límite establecido en la presente fracción, hasta por el monto que específicamente se requiera para dar cumplimiento a la ley respectiva.
+
 II. En el proyecto de Presupuesto de Egresos se deberá presentar en una sección específica, las erogaciones correspondientes al gasto de servicios personales, el cual comprende:
 
-a) Las remuneraciones de los servidores públicos y las erogaciones a cargo de los Ejecutores de gasto por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones, y
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-b) Las previsiones salariales y económicas para cubrir los incrementos salariales y otras medidas económicas de índole laboral.
+a) Las remuneraciones de los servidores públicos, desglosando las percepciones ordinarias y extraordinarias, e incluyendo las erogaciones por concepto de obligaciones de carácter fiscal y de seguridad social inherentes a dichas remuneraciones, y
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+b) Las previsiones salariales y económicas para cubrir los incrementos salariales, la creación de plazas y otras medidas económicas de índole laboral. Dichas previsiones serán incluidas en un capítulo específico del Presupuesto de Egresos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1213,7 +1401,9 @@ V. Las percepciones extraordinarias son aquéllas que no constituyen un ingreso 
 
 VI. Las dependencias deberán cubrir los pagos en los términos autorizados por la Secretaría y Administración y, en el caso de las entidades, adicionalmente por acuerdo del órgano de gobierno;
 
-VII. Las adecuaciones presupuestarias al gasto en servicios personales deberán realizarse conforme a lo dispuesto en los artículos 53 a 56 y 58 de esta Ley y a las disposiciones que establezca el Reglamento;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+VII. Las adecuaciones presupuestarias al gasto en servicios personales deberán realizarse conforme a lo dispuesto en los artículos 10 de la Ley de Disciplina Financiera para Entidades Federativas y los Municipios; 53 a 56 y 58 de esta Ley y a las disposiciones que establezca el Reglamento.
 
 VIII. Abstenerse de contraer obligaciones en materia de servicios personales que impliquen compromisos en subsecuentes ejercicios fiscales, salvo en los casos permitidos en esta Ley. En todo caso, la creación, sustitución de plazas y las nuevas contrataciones sólo procederán cuando se cuente con los recursos previamente autorizados para cubrir todos los gastos inherentes a las contrataciones, incluyendo las obligaciones por concepto de impuestos, aportaciones a seguridad social y demás pagos y prestaciones que por ley deban cubrirse. Los recursos para cubrir obligaciones inherentes a las contrataciones que tengan un impacto futuro en el gasto deberán constituirse en reservas que garanticen que dichas obligaciones estén en todo momento plenamente financiadas;
 
@@ -1413,7 +1603,7 @@ Todos los programas y proyectos en los que sea susceptible identificar geográfi
 
 Los recursos transferidos a las dependencias, entidades o Municipios de origen federal, se sujetará a lo siguiente:
 
-I. Ser evaluados conforme a las disposiciones establecidas en el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaría, con base en indicadores de desempeño, por instancias técnicas independientes de las instituciones que ejerzan dichos recursos, observando los requisitos de información correspondientes; y
+I. Ser evaluados conforme a las disposiciones establecidas en el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con base en indicadores de desempeño, por instancias técnicas independientes de las instituciones que ejerzan dichos recursos, observando los requisitos de información correspondientes; y
 
 II. Dar cumplimiento a los lineamientos y mediante el sistema de información establecido para tal fin por la Secretaría de Hacienda y Crédito Público, informar sobre el ejercicio, destino y los resultados obtenidos, respecto de los recursos que les sean transferidos.
 
@@ -1581,7 +1771,19 @@ XII. Infrinjan las disposiciones generales que emitan la Secretaría, Administra
 
 Los servidores públicos y las personas físicas o morales que causen daño o perjuicio estimable en dinero a la Hacienda Pública Estatal o al patrimonio de cualquier órgano autónomo, incluyendo en su caso los beneficios obtenidos indebidamente por actos u omisiones que les sean imputables, o por incumplimiento de obligaciones derivadas de esta Ley y su Reglamento y demás disposiciones generales aplicables serán responsables de indemnizar al erario.
 
-Las responsabilidades se fincarán en primer término a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO DE REFORMAS 731, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2017, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR A LA ÚLTIMA PARTE DEL TERCER PÁRRAFO Y AL ACTUAL CUARTO PÁRRAFO DE ESTE ARTÍCULO.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Serán responsables solidarios con los servidores públicos respectivos, las personas físicas o morales privadas en los casos en que hayan participado y originen una responsabilidad.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO DE REFORMAS 731, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2017, SE ADVIERTE QUE EL CONTENIDO DE LA ÚLTIMA PARTE DE ESTE PÁRRAFO, ES SIMILAR AL SEGUNDO PÁRRAFO E IDÉNTICO AL ACTUAL CUARTO PÁRRAFO DE ESTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Las responsabilidades se fincarán en primer término a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos. Serán responsables solidarios con los servidores públicos respectivos, las personas físicas o morales en los casos en que hayan participado y originen una responsabilidad.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO DE REFORMAS 731, PUBLICADO EN EL P.O. DE 30 DE NOVIEMBRE DE 2017, SE ADVIERTE QUE EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL SEGUNDO PÁRRAFO E IDÉNTICO A LA ÚLTIMA PARTE DEL ACTUAL TERCER PÁRRAFO DE ESTE ARTÍCULO.]</small>
 
 Serán responsables solidarios con los servidores públicos respectivos, las personas físicas o morales en los casos en que hayan participado y originen una responsabilidad.
 
@@ -1635,7 +1837,7 @@ DIP. IVONNE GALLEGOS CARREÑO
 
 SECRETARÍA
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2013.
 
@@ -1670,3 +1872,15 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 731.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+Segundo. El porcentaje a que hace referencia el artículo 15, relativo al nivel de aportación al fondo para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 se observará el porcentaje establecido en el artículo citado.
+
+El Ejecutivo Estatal, presentará al Congreso, el cálculo que en promedio se haya registrado durante los últimos cinco ejercicios, actualizados por el Índice Nacional de Precios al Consumidor, de conformidad con las autorizaciones de recursos aprobadas por el Fondo de Desastres Naturales.
+
+Tercero. Para los efectos del presente Decreto se deroga todo aquello que se oponga al mismo en el ámbito local que sea de igual o menor rango.
