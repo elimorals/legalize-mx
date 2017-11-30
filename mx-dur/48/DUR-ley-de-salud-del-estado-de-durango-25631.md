@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2017-06-25"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -1551,11 +1551,13 @@ III. Los convenios que al efecto se suscriban entre el Gobierno del Estado y la 
 
 IV. Las disposiciones de esta Ley y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 98.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, psiquiatría, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, psiquiatría, optometría, ingeniería sanitaria, nutrición, dietología, patología, cirugía plástica estética y reconstructiva y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, optometría, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
 
@@ -1568,6 +1570,10 @@ En el caso de que exista convenio entre el Gobierno del Estado y el Ejecutivo Fe
 ###### ARTÍCULO 100.
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título; diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones, deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+Quienes en su anuncio, en los documentos, papelería o en la publicidad a que se refiere el párrafo anterior, indiquen la leyenda de “registro en trámite” o cualquier otra similar, estará a lo dispuesto por la fracción VI del artículo 289 de la presente Ley.
 
 ### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
@@ -3313,9 +3319,17 @@ II. Cuando el peligro para las (sic) salud de las personas se origine por la vio
 
 III. Cuando después de la reapertura de un establecimiento por motivo de suspensión de trabajos o actividad o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud;
 
-IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcciones o edificio de que se trate, sea necesario proteger la salud de la población; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-V. Por reincidencia en tercera ocasión.
+IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcciones o edificio de que se trate, sea necesario proteger la salud de la población;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+V. Por reincidencia en tercera ocasión; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+VI. Cuando se ofrezcan o realicen servicios de cirugía plástica estética y reconstructiva sin que el personal profesional a cargo cuente con los títulos profesionales y certificados de especialización o sub-especialización, o cuando se ofrezcan estos servicios mediante anuncios, documentos, papelería o publicidad sin los datos de registro ante las autoridades educativas y de salud.
 
 ###### ARTÍCULO 290.
 
@@ -3806,6 +3820,18 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 25 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 156.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
 
 ###### ARTÍCULO PRIMERO.
 
