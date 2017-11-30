@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-verificacion-75465"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-01"
-last_updated: "2016-12-15"
+last_updated: "2017-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2010-06-22"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL, ORGANISMO PÚBLICO DESCENTRALIZADO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE NOVIEMBRE DE 2017.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de julio de 2010.
 
@@ -362,9 +362,13 @@ XV. Coordinar y Supervisar con la Coordinación de Verificación Administrativa,
 
 XVI. Coordinar la participación de Personal Especializado en Funciones de Verificación, conjuntamente con las Coordinaciones de Verificación Administrativa y de Verificación al Transporte, en los operativos convocados por Gobierno Central, u otras acciones preventivas y/o previas de verificación encaminadas a velar por el cumplimiento de las normas de orden público en su ámbito competencial;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XVII. Suscribir los contratos, convenios y demás documentos relativos a la aplicación de la legislación en materia de adquisiciones, del trabajo y civil relacionadas con los recursos humanos, materiales y financieros, incluyendo las determinaciones de trámite, suspensivas, sancionatorias y rescisiones de contratos de conformidad con los instrumentos jurídicos correspondientes;
+
 > <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-XVII. Las que señalen otras disposiciones jurídicas y administrativas aplicables.
+XVIII. Las que señalen otras disposiciones jurídicas y administrativas aplicables.
 
 > <small>(ADICIONADO, G.O. 13 DE ENERO DE 2016)</small>
 
@@ -383,6 +387,66 @@ V. Impulsar herramientas preventivas como: pláticas, reuniones, conferencias y 
 VI. Expedir copias certificadas de los documentos que obren en los expedientes de su unidad administrativa
 
 VII. Las que señalen otras disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 22 Ter.
+
+Corresponde a la Dirección de Igualdad Sustantiva lo siguiente:
+
+I. Coordinar los trabajos que contribuyan a la consolidación de la igualdad sustantiva al interior del Instituto.
+
+II. Fungir como Enlace con las áreas del Instituto de Verificación Administrativa en materia de Igualdad Sustantiva.
+
+III. Realizar la difusión de acciones y/o mecanismos que permitan mejorar el clima y cultura a favor de la igualdad y la no discriminación al interior del Instituto.
+
+IV. Diseñar, en coordinación con las Unidades Administrativas competentes, esquemas de capacitación en materia de derechos humanos, no discriminación, equidad de género, perspectiva de género y violencia contra las mujeres.
+
+V. Realizar acciones de cumplimiento y seguimiento, al Programa Especial de Igualdad de Oportunidades y no Discriminación hacia las Mujeres de la Ciudad de México 2015-2018.
+
+VI. Realizar acciones conjuntas con el Instituto de las Mujeres de la Ciudad de México, a efecto de favorecer el fortalecimiento institucional en el logro de la igualdad sustantiva.
+
+VII. Presentar informes concernientes a la igualdad y no discriminación cuando lo requiera el Instituto de las Mujeres de la Ciudad de México.
+
+VIII. Colaborar con otras Unidades de Igualdad de la Administración Pública de la Ciudad de México en la planeación de programas encaminados al adecuado funcionamiento de cada una, cuando así lo requieran.
+
+IX. Proponer la celebración de convenios de colaboración y otros instrumentos jurídicos con los sectores público, social y privado que permitan promover la igualdad sustantiva y erradicar cualquier tipo de discriminación o violencia por razón de sexo.
+
+X. Elaborar herramientas metodológicas y procedimientos que permitan llevar a cabo el seguimiento y evaluación de las acciones institucionales realizadas en dicha materia.
+
+XI. Implementar acciones de prevención del hostigamiento sexual al interior del Instituto.
+
+XII. Coordinar la evaluación de las actividades a favor de la igualdad sustantiva, al interior de la Entidad.
+
+XIII. Atender los comentarios y señalamientos que emita el INMUJERESDF en cumplimiento a la Ley de Presupuesto y Gasto Eficiente, el Programa Especial de Igualdad de Oportunidades y No Discriminación hacia Mujeres de la Ciudad de México, y del tema de prevención y atención de la violencia hacia las mujeres.
+
+XIV. Expedir copias certificadas de los documentos que obren en los expedientes de su unidad administrativa.
+
+XV. Requerir a la Unidades Administrativas del Instituto la información necesaria para el ejercicio de sus atribuciones.
+
+XVI. La demás que se le atribuyan de conformidad con el presente Estatuto y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+###### Artículo 22 Quater.
+
+Corresponde a la Dirección de Seguimiento Institucional lo siguiente:
+
+I. Coordinar la integración de la Carpeta del Consejo General y el seguimiento a los acuerdos celebrados.
+
+II. Coordinar la integración de informes requeridos por la Oficina del Jefe de Gobierno.
+
+III. Dirigir y supervisar la actividad de las áreas a cargo del Secretariado Ejecutivo.
+
+IV. Coordinar el seguimiento y atención a las recomendaciones emitidas por parte de los órganos fiscalizadores.
+
+V. Dar seguimiento a los indicadores de desempeño, el tablero de control u otras herramientas previstas en las normas.
+
+VI. Expedir copias certificadas de los documentos que obren en los expedientes de su unidad administrativa.
+
+VII. Requerir a la Unidades Administrativas del Instituto la información necesaria para el ejercicio de sus atribuciones.
+
+VIII. La demás que se le atribuyan de conformidad con el presente Estatuto y otros ordenamientos aplicables.
 
 ###### Artículo 23.
 
@@ -612,7 +676,7 @@ X. Informar a las Secretarias de: Movilidad y Seguridad Pública del Distrito Fe
 
 XI. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
 
-Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura, y en específico de la Dirección de Calificación “A” y Dirección de Calificación “B”, conforme lo siguiente:
+Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura, y en específico de la Dirección de Calificación "A" y Dirección de Calificación "B", conforme lo siguiente:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2016)</small>
 
@@ -638,7 +702,7 @@ IX. Proporcionar la información que le sea requerida para la atención de los r
 
 X. Las demás que le atribuya la ley, este estatuto y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
 
-#### Sección Segunda. La Dirección de Calificación “B”, es competente para:
+#### Sección Segunda. La Dirección de Calificación "B", es competente para:
 
 I. Recibir las actas de visita de verificación del transporte público, mercantil y privado de pasajero y de carga para su calificación y posterior resolución;
 
@@ -996,9 +1060,9 @@ XI. Ejercer y aplicar el presupuesto anual asignado al Instituto;
 
 XII. Vigilar y aplicar las disposiciones jurídicas y administrativas aplicables en materia de adquisiciones, arrendamiento y servicios;
 
-> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-XIII. Suscribir los contratos, convenios y demás documentos relativos a la aplicación de la legislación en materia de adquisiciones, del trabajo y civil relacionadas con los recursos humanos materiales y financieros de conformidad con los instrumentos jurídicos correspondientes;
+XIII. Suscribir los contratos, convenios y demás documentos relativos a la aplicación de la legislación en materia de adquisiciones, del trabajo y civil relacionadas con los recursos humanos, materiales y financieros, incluyendo las determinaciones de trámite, suspensivas, sancionatorias y rescisiones de contratos de conformidad con los instrumentos jurídicos correspondientes;
 
 > <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
@@ -1068,7 +1132,9 @@ IX. Ejercer y aplicar el presupuesto anual asignado al Instituto;
 
 X. Aplicar las disposiciones jurídicas y administrativas aplicables en materia de adquisiciones, arrendamiento y servicios;
 
-XI. Suscribir los contratos, convenios y demás documentos relativos a la aplicación de la legislación en materia de adquisiciones, del trabajo y civil relacionadas con los recursos humanos materiales y financieros de conformidad con los instrumentos jurídicos correspondientes;
+> <small>(REFORMADA, G.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+XI. Suscribir los contratos, convenios y demás documentos relativos a la aplicación de la legislación en materia de adquisiciones, del trabajo y civil relacionadas con los recursos humanos, materiales y financieros, incluyendo las determinaciones de trámite, suspensivas, sancionatorias y rescisiones de contratos de conformidad con los instrumentos jurídicos correspondientes;
 
 XII. Auxiliarse de sus unidades administrativas de apoyo técnico operativo en la planeación, ejecución, evaluación y seguimiento de procedimientos, contratos y convenios derivados de las leyes en materia de adquisiciones;
 
@@ -1251,6 +1317,14 @@ La presente entra en vigor al día hábil siguiente al de su publicación.
 G.O. 15 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO ÓRGANICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación.
+
+G.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL”.]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
