@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2017-10-31"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -607,19 +609,13 @@ Si fuere necesario que las capitulaciones matrimoniales consten en escritura pú
 
 VI.- Copia certificada del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 10 DE JUNIO DE 2010)</small>
 
 VII.- Copia certificada de la dispensa de impedimentos, si los hubo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, B.O. 10 DE JUNIO DE 2010)</small>
 
 VIII.- Para el caso de matrimonio de mexicano con extranjero, copia de la autorización expedida por la Secretaría de Gobernación; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2010)</small>
 
@@ -2669,7 +2665,7 @@ Sólo podrán ser adoptados:
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
-l.- Los menores, cuando sus padres declaren ante el Juez su voluntad de dar en adopción a sus hijos, después de ser informados de sus consecuencias;
+I.- Los menores, cuando sus padres declaren ante el Juez su voluntad de dar en adopción a sus hijos, después de ser informados de sus consecuencias;
 
 II.- Los menores huérfanos, abandonados o de padres desconocidos, cualquiera que sea su edad; y
 
@@ -3335,7 +3331,7 @@ Los hijos mayores de edad son tutores de su padre o madre libres de matrimonio.
 
 ###### Artículo 553.
 
-Cuando halla dos o más hijos, será preferible el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el Juez elegirá al que le parezca más apto.
+Cuando halla (sic) dos o más hijos, será preferible el que viva en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el Juez elegirá al que le parezca más apto.
 
 ###### Artículo 554.
 
@@ -4177,7 +4173,7 @@ Pasados dos años desde el día en que haya sido nombrado el representante, habr
 
 ###### Artículo 691.
 
-En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años, que se contarán desde la desaparición del ausente, si en este período no se tuviere ningunas noticias suyas (sic) o desde la fecha en que se hayan tenido las últimas.
+En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años, que se contarán desde la desaparición del ausente, si en este período no se tuviere ningunas noticias suyas o desde la fecha en que se hayan tenido las últimas.
 
 Lo dispuesto anteriormente se observará aun cuando el poder se haya conferido por más de tres años.
 
@@ -15869,16 +15865,28 @@ B.O. 20 DE MARZO DE 2017.
 
 B.O. 22 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 2441 SE REFORMA EL ARTÍCULO 373 DEL CÓDIGO PENAL Y SE REFORMA EL ARTÍCULO 1102 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2441 SE REFORMA EL ARTÍCULO 373 DEL CÓDIGO PENAL Y SE REFORMA EL ARTÍCULO 1102 DEL CÓDIGO CIVIL AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
+> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+TERCERO.- A partir de la entrada en vigor del presente decreto los Ayuntamientos de la Entidad contarán con un plazo de hasta 90 días naturales para expedir los Reglamentos a que hace referencia el artículo 1102 del Código Civil.
+
 B.O. 31 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 2472 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 66 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II Y SE ADICIONA UN ULTIMO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 27 DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 2472 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 66 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL PÁRRAFO SEGUNDO DE LA FRACCIÓN II Y SE ADICIONA UN ULTIMO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 27 DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 Primero.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2484 SE ADICIONA UN ARTÍCULO TERCERO TRANSITORIO AL DECRETO NÚMERO 2441 A TRAVÉS DEL CUAL SE REFORMARON EL ARTÍCULO 373 DEL CÓDIGO PENAL Y EL ARTÍCULO 1102 DEL CÓDIGO CIVIL, AMBOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
