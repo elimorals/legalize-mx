@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2015-11-02"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -731,6 +731,18 @@ II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incl
 
 III.- La promoción de la integración y del bienestar familiar, fomentando la responsabilidad paterna en el crecimiento de sus hijas e hijos.
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+IV.- El diagnóstico oportuno de condiciones de salud del neonato y detección de enfermedades hereditarias y congénitas, incluyendo la aplicación de la prueba del tamiz ampliado y su salud visual;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+V.- La prevención, detección oportuna y, en su caso, tratamiento de enfermedades en los neonatos prematuros, para prevenir la ceguera por retinopatía, la sordera y el retraso mental; para lo cual se realizarán la revisión de la retina y la aplicación del tamiz ampliado; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+
+VI.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera y prevenir su tratamiento, en todos sus grados;
+
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 57.
@@ -899,7 +911,7 @@ FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL.
 
 En el Estado el ejercicio de las profesiones, de las actividades técnicas y auxiliares de las especialidades para la salud, estarán sujeto a:
 
-I.- La Ley de Profesiones del Estado de Oaxaca;
+I.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2017)
 
 II.- Las bases de coordinación que, conforme a la Ley se definan entre las autoridades educativas y las autoridades sanitarias del Estado;
 
@@ -1751,7 +1763,7 @@ II.- Organizar campañas educativas tendientes a erradicar la violencia intrafam
 
 III.- Procurar la atención especializada de las víctimas de violencia intrafamiliar, abuso sexual y abandono así como su protección.
 
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS BEBIDAS, NO ALCOHOLICAS Y ALCOHOLICAS
 
 ### CAPITULO III. DE LAS CONSTRUCCIONES
 
@@ -3432,3 +3444,11 @@ SEGUNDO.- Remítase para su publicación correspondiente en el Periódico Oficia
 P.O. 2 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 743.- MEDIANTE EL CUAL SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
