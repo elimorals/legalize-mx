@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2017-10-17"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 17 DE OCTUBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO 250 PUBLICADO EN EL G.G. DE 12 DE OCTUBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -599,7 +597,9 @@ Para otorgar las órdenes emergentes y preventivas de la presente Ley, se consid
 
 I. El riesgo o peligro existente; y
 
-II. La seguridad de la víctima.
+> <small>(REFORMADA, G.G. 30 DE NOVIEMBRE DE 2017)</small>
+
+II. La seguridad de la víctima y de sus hijas e hijos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1724,3 +1724,15 @@ G.G. 12 DE OCTUBRE DE 2017.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 258.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 32 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+###### ARTICULO PRIMERO.
+
+Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
