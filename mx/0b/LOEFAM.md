@@ -4,7 +4,7 @@ identifier: "LOEFAM"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-12-26"
-last_updated: "2014-11-06"
+last_updated: "2017-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOEFAM"
 
 LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 26 de diciembre de 1986.
 
@@ -888,9 +888,11 @@ A. Proteger a las personas y a la propiedad pública y prevenir el pillaje y el 
 
 B. Auxiliar a la Policía Judicial Militar.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 110.
 
-El Cuerpo de Policía Militar se integra con Unidades, las que se constituyen con mando, órganos de mando, Unidades de Policía Militar y los Servicios que sean necesarios y comprende: Escuadras, Pelotones, Secciones, Compañías y Batallones. Cuando sea necesario, se organizarán Brigadas; el personal de tropa de este Cuerpo es de la Clase de Servicio.
+El Cuerpo de Policía Militar se integra con Unidades, las que se constituyen con mando, órganos de mando, Unidades de Policía Militar y los Servicios que sean necesarios y comprende: Escuadras, Pelotones, Secciones, Compañías y Batallones. Cuando sea necesario, se organizarán Brigadas; el personal de este Cuerpo es de la Clase de Servicio.
 
 > <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
 
@@ -898,9 +900,11 @@ El Cuerpo de Policía Militar se integra con Unidades, las que se constituyen co
 
 En todas las situaciones, las tropas del Cuerpo de Policía Militar, encuadradas o en refuerzo de Unidades o Dependencias militares, quedarán bajo el mando del Comandante o Jefe de estas últimas. En campaña o en caso de emergencia, cuando no existan Unidades de Policía Militar encuadradas o en refuerzo de las Unidades o Dependencias Militares, el Comandante o Jefe de éstas nombrará a un General, Jefe u Oficial como preboste de las mismas y designará a una Unidad de Arma para desempeñar las funciones de Policía Militar, señaladas en el Artículo 109 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 112.
 
-El Comandante del Cuerpo de Policía Militar será un General procedente de Arma.
+El Comandante del Cuerpo de Policía Militar será un General de Policía Militar.
 
 Cuerpo de Música Militar
 
@@ -1624,9 +1628,11 @@ La situación de retiro es aquella en que son colocados los militares, con la su
 
 Los escalafones del Ejército y Fuerza Aérea comprenderán al personal de Generales, Jefes, Oficiales y Sargentos profesionales en el servicio activo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 ###### ARTICULO 191.
 
-Los escalafones y los grados que comprenden las Armas y Cuerpos Especiales del Ejército son lo (sic) siguientes:
+Los escalafones y los grados que comprenden las Armas y Cuerpos Especiales del Ejército son los siguientes:
 
 I. De Plana Mayor, que incluye Generales de División, de Brigada y Brigadieres.
 
@@ -1658,11 +1664,13 @@ B. Zapadores.
 
 De Soldado a General de División.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+
 VII. Del Cuerpo Especial de Policía Militar.
 
-> <small>(F. DE E., D.O.F. 13 DE FEBRERO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
-De Soldado a Sargento Primero; y
+De Soldado a General de Brigada; y
 
 VIII. Del Cuerpo Especial de Música Militar. De Soldado a Mayor.
 
@@ -2091,3 +2099,15 @@ Cuarto.- El Ejecutivo Federal deberá realizar las reformas necesarias al Reglam
 Quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Sexto.- Las erogaciones que deriven de la aplicación de este Decreto serán realizadas mediante movimientos compensados y no se requerirán recursos adicionales por lo que la Secretaría de la Defensa Nacional, debe sujetarse a su presupuesto autorizado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
+
+D.O.F. 30 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 110, 112 Y 191, DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para los efectos de lo previsto en el artículo 191, fracción VII, en tanto no exista un General de Policía Militar, se podrá nombrar como Comandante del Cuerpo de Policía Militar al General que designe la Secretaría de la Defensa Nacional.
+
+Tercero. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Cuarto. Las erogaciones que deriven de la aplicación de este Decreto serán realizadas mediante movimientos compensados y no se requerirán recursos adicionales, por lo que la Secretaría de la Defensa Nacional deberá sujetarse a su presupuesto aprobado para el presente ejercicio fiscal y no incrementar su presupuesto regularizable.
