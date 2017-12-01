@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-extincion-de-dominio-para-el-estado-de-tamaulipas-113236
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-01"
-last_updated: "2016-12-13"
+last_updated: "2017-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 1 de marzo de 2016.
 
@@ -115,7 +115,9 @@ El no ejercicio, desistimiento o extinción de la acción penal, así como la ab
 
 ###### ARTÍCULO 10.
 
-1. Procede la extinción de dominio, en los Delitos Contra la Salud en su modalidad de Narcomenudeo, previstos en el Capítulo VII, del Título Décimo Octavo, de la Ley General de Salud; Robo de Vehículo, Trata de Personas y Secuestro, en los casos en que se sustancien ante las autoridades en el Estado; respecto de los siguientes bienes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+1. Procede la extinción de dominio, en los Delitos Contra la Salud en su modalidad de Narcomenudeo, previstos en el Capítulo VII, del Título Décimo Octavo, de la Ley General de Salud; Robo de vehículo, Trata de Personas, Secuestro y Enriquecimiento Ilícito, en los casos en que se susciten ante las autoridades en el Estado; respecto de los siguientes bienes:
 
 I.- Aquellos que sean instrumento, objeto o producto del delito, aun cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió;
 
@@ -638,3 +640,11 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-295 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 10 NUMERAL 1, DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
