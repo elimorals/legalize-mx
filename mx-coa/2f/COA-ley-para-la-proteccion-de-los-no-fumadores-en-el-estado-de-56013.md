@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-de-los-no-fumadores-en-el-estado-de-5601
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-01"
-last_updated: "2016-08-09"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 1 de junio de 2007.
 
@@ -287,17 +287,21 @@ Queda prohibido fumar en los establecimientos en que se expendan alimentos y que
 
 Será responsabilidad de los dueños, propietarios o funcionarios de los establecimientos o instalaciones a que se refieren las fracciones II, III, IV, VI, VII, VIII, IX de este artículo, asignar áreas para fumadores, mismas que deberán cumplir con los requisitos definidos en la presente ley.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 14.
 
-Los dueños, propietarios, concesionarios, poseedores o responsables de los vehículos a que se refiere la fracción XI Y XII del artículo anterior, deberán fijar en el interior y exterior de los mismos, letreros o emblemas que indique la prohibición de fumar; en caso de que algún pasajero se niegue a cumplir con la prohibición deberán dar aviso a la policía preventiva, a efecto de que sea remitido a la autoridad municipal correspondiente.
+Los dueños, propietarios, concesionarios, poseedores y responsables de los vehículos para transporte individual y colectivo, deberán fijar en el interior y exterior de los mismos, letreros o emblemas que indiquen la prohibición de fumar; En caso de que algún pasajero se niegue a cumplir, deberán dar aviso a la policía preventiva, a efecto de ser remitidos a la autoridad municipal correspondiente.
 
-En el caso de vehículos o taxis para transporte individual, corresponde al conductor determinar si en el mismo autoriza o no fumar a los pasajeros, debiendo colocar un letrero visible en ese sentido.
+Los conductores deberán abstenerse de fumar en el interior de los mismos cuando viajen acompañados de niñas, niños y adolescentes. La inobservancia a esta disposición se sancionará como infracción de tránsito por las autoridades municipales.
 
-Los conductores de los vehículos de transporte colectivo que no acaten las disposiciones del presente ordenamiento, deberán ser reportados a la Comisión de transporte municipal, a través de las autoridades de (sic) sanitarias competentes que reciba la denuncia, para que ésta implemente las correcciones disciplinarias correspondientes, sin perjuicio de las sanciones que establece esta ley.
+Los conductores de los vehículos de transporte que no acaten las disposiciones del presente ordenamiento, deberán ser reportados a la Comisión de transporte municipal, a través de la autoridad sanitaria competente que reciba la denuncia, para que ésta implemente las correcciones disciplinarias correspondientes, sin perjuicio de las sanciones que establece esta ley.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 15.
 
-Los menores de edad, salvo que se encuentren acompañados de un mayor, no podrán ingresar a las secciones de fumar de los lugares públicos señalados por la presente ley.
+Los menores de edad, no podrán ingresar a las secciones de fumar de los lugares públicos señalados por la presente ley.
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
 
@@ -706,3 +710,9 @@ P.O. 9 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 510.- SE REFORMA EL ARTÍCULO 40 PARA AGREGAR LAS FRACCIONES II, III, IV A LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1010.- SE REFORMA EL ARTÍCULO 14 Y 15 DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA".]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
