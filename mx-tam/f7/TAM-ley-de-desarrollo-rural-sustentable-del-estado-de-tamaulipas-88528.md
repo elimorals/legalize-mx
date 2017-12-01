@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-rural-sustentable-del-estado-de-tamaulipas-88
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2017-04-18"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -79,9 +79,17 @@ XII. La aplicación de prácticas productivas orientadas al uso, conservación y
 
 XIII. Eficientar el gasto de los recursos destinados para la aplicación del Programa Estatal y demás programas relacionados al desarrollo rural;
 
-XIV. Promover la participación ciudadana en el proceso del desarrollo rural sustentable; e,
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XV. Impulsar la generación de instrumentos de fomento a la producción e industrialización de productos del sector rural.
+XIV. Promover la participación ciudadana en el proceso del desarrollo rural sustentable;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XV. Impulsar la generación de instrumentos de fomento a la producción e industrialización de productos del sector rural; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XVI. Promover apoyos y programas dirigidos a desarrollar las capacidades de los jóvenes productores rurales que se dediquen preponderantemente a las actividades agropecuarias y agroforestales para favorecer el relevo generacional que contribuirá al desarrollo rural sustentable de nuestro Estado.
 
 ###### ARTÍCULO 2.
 
@@ -163,23 +171,27 @@ XXIII. Productos Básicos: Aquellos alimentos que son parte de la dieta de la ma
 
 XXIV. Productos Estratégicos: Los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos nacionales;
 
-XXV. Secretaría: La Secretaría de Desarrollo Rural del Estado;
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXVI. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de alimentos a la población;
+XXV. Relevo generacional: proceso gradual y progresivo para transferir experiencias, conocimientos y desarrollar capacidades a los jóvenes productores rurales que se dediquen preponderantemente a las actividades agropecuarias y agroforestales a fin de contribuir a la seguridad y soberanía alimentaria, la sustentabilidad ambiental, la productividad y competitividad y, en general, al desarrollo rural sustentable;
 
-XXVII. Sistema-Producto: El conjunto de elementos y agentes concurrentes en el proceso productivo de un producto básico o estratégico determinado, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+XXVI. Secretaría: La Secretaría de Desarrollo Rural del Estado;
+
+XXVII. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de alimentos a la población;
+
+XXVIII. Sistema-Producto: El conjunto de elementos y agentes concurrentes en el proceso productivo de un producto básico o estratégico determinado, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXVIII. Sociedad Rural: Conjunto de personas que realizan diversas actividades vinculadas al campo;
+XXIX. Sociedad Rural: Conjunto de personas que realizan diversas actividades vinculadas al campo;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXIX. Unidad Rural Familiar: La forma de organización económica fincada en el trabajo familiar, mediante la explotación de los recursos naturales, alternada con otras actividades desarrolladas dentro y fuera de la unidad de producción; y,
+XXX. Unidad Rural Familiar: La forma de organización económica fincada en el trabajo familiar, mediante la explotación de los recursos naturales, alternada con otras actividades desarrolladas dentro y fuera de la unidad de producción; y,
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XXX. Unidad Agrícola Industrial de la Mujer: Superficie de tierra destinada por la Asamblea Ejidal, colindante a la zona de urbanización, a fin de establecer industrias rurales que tiendan a incorporar los servicios de la mujer campesina.
+XXXI. Unidad Agrícola Industrial de la Mujer: Superficie de tierra destinada por la Asamblea Ejidal, colindante a la zona de urbanización, a fin de establecer industrias rurales que tiendan a incorporar los servicios de la mujer campesina.
 
 ### CAPÍTULO II. DE LA POLÍTICA DE ESTADO PARA EL DESARROLLO RURAL SUSTENTABLE
 
@@ -293,7 +305,9 @@ III. Proponer al titular del Poder Ejecutivo Estatal, la celebración de conveni
 
 IV. Apoyar el fortalecimiento de las organizaciones rurales y organismos auxiliares, para el mejor cumplimiento de sus objetivos en favor del desarrollo rural;
 
-V. Promover la enseñanza y la capacitación en y para el trabajo, desarrollando capacidades y habilidades que incrementen el ingreso económico, mejoren el bienestar y la calidad de vida de la sociedad rural;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+V. Promover la enseñanza y la capacitación en y para el trabajo, desarrollando capacidades y habilidades que incrementen el ingreso económico, mejoren el bienestar y la calidad de vida de la sociedad rural, dichas acciones deberán realizarse con énfasis en el relevo generacional;
 
 VI. Fomentar y apoyar los programas de investigación, extensionismo rural e innovación tecnológica en las diversas ramas de la producción del sector rural, priorizando aquellos que promuevan la diversificación productiva con un uso más eficiente y sustentable de los recursos naturales;
 
@@ -741,7 +755,9 @@ IX. Diseño de proyectos de desarrollo social con perspectiva de género;
 
 X. Educación para la democratización familiar;
 
-XI. Diseño de proyectos de arraigo para los jóvenes;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XI. Diseño de proyectos de arraigo para los jóvenes, con el objeto de garantizar el relevo generacional y su permanencia en el sector rural;
 
 XII. Diseño de programas para la protección de los grupos vulnerables, en especial niños discapacitados, personas con enfermedades terminales y de la tercera edad;
 
@@ -1578,6 +1594,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 18 DE ABRIL DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-150 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4 FRACCIONES XXVIII Y XXIX; 6 FRACCIONES XIV Y XV; 10 FRACCIÓN XVII; 17 FRACCIÓN X; 41 FRACCIÓN XXXV; 74 FRACCIONES II Y III; Y 89 FRACCIONES VII Y VIII; Y SE ADICIONAN UNA FRACCIÓN XXX AL ARTÍCULO 4; FRACCIÓN XVI AL ARTÍCULO 6; FRACCIÓN XVIII, RECORRIÉNDOSE LA ACTUAL XVIII PARA SER XIX AL ARTÍCULO 10; FRACCIÓN XI, RECORRIÉNDOSE LA ACTUAL XI PARA SER XII AL ARTÍCULO 17; FRACCIÓN XXXVI, RECORRIÉNDOSE LA ACTUAL XXXVI PARA SER XXXVII AL ARTÍCULO 41; UNA FRACCIÓN IV AL ARTÍCULO 74; Y UNA FRACCIÓN IX AL ARTÍCULO 89, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-279 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1 FRACCIONES XIV Y XV; 10 FRACCIÓN V Y 41 FRACCIÓN XI; Y SE ADICIONAN LA FRACCIÓN XVI AL ARTÍCULO 1; ASÍ COMO LA FRACCIÓN XXV RECORRIÉNDOSE LAS ACTUALES XXV A LA XXX PARA SER XXVI A LA XXXI DEL ARTÍCULO 4, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
