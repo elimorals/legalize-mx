@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2017-11-23"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -207,9 +207,17 @@ I. Actuar en cumplimiento de un deber jurídico o en ejercicio legítimo de un d
 
 II. Actuar contra lo dispuesto en una norma de naturaleza penal incumpliendo su mandato por tener un impedimento legítimo;
 
-III. Repeler una agresión actual o inminente y contraria a derecho, en protección de bienes propios o ajenos, siempre que exista necesidad razonable de la defensa y no medie provocación suficiente por parte del que rechaza la agresión o de la persona a quien defiende.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.O. 1 DE DICIEMBRE DE 2017)</small>
 
-Se presumirá la legítima defensa cuando se cause un daño a quien, por cualquier medio, trate de penetrar o penetre sin derecho al lugar en que, temporal o permanentemente, habite el que se defiende, su familia o cualquier persona a la que tenga obligación de defender, o donde se encuentren bienes propios o ajenos respecto de los que tenga igual obligación de defensa, siempre que la presencia del extraño revele evidentemente una agresión;
+III. Actuar en defensa de su persona, de su familia, de los bienes propios o de un tercero, repeliendo una agresión, actual o inminente y sin derecho; a no ser que intervino alguna de las siguientes circunstancias:
+
+a. Existió una provocación inmediata y suficiente por parte de la persona que repele la agresión; o
+
+b. Utilizó un medio irracional para repeler la agresión de acuerdo con la necesidad.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, G.O. 1 DE DICIEMBRE DE 2017]</small>
+
+Se presumirá la defensa legítima, salvo prueba en contrario, al causar un daño, lesión o incluso la privación de la vida, a quien, por cualquier medio, trate de penetrar o penetre sin derecho al lugar en que, temporal o permanentemente, habite el que se defiende, su familia o cualquier persona a la que tenga obligación de defender, o donde se encuentren bienes propios o ajenos respecto de los que tenga igual obligación de defensa, o bien, lo encuentre al interior de alguno de aquellos lugares; siempre y cuando medien circunstancias que revelen la probabilidad de una agresión.
 
 IV. La necesidad de salvar un bien jurídico propio o ajeno, de un peligro grave, actual o inminente que no se tuviere el deber jurídico de afrontarlo, no provocado por el agente dolosa o culposamente, lesionando otro bien jurídico de igual o menor valor;
 
@@ -1173,9 +1181,9 @@ V. Por asfixia, envenenamiento o empleo de cualquier sustancia nociva para la sa
 
 VI. Por contagio intencional de una enfermedad incurable.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2017)</small>
 
-Para efectos de la fracción I, hay premeditación cuando el agente causa la muerte o lesión después de haber reflexionado sobre el delito que pretende cometer; alevosía, cuando se sorprende intencionalmente a alguien empleando la acechanza o engaño, ventaja, cuando el delincuente tenga superioridad física sobre la víctima y ésta sea mujer, niño, adultos mayores o personas con capacidades diferentes, o cuando el delincuente no corra el riesgo de ser muerto o herido por el ofendido; y traición, cuando se viola la seguridad que expresamente se había prometido a la víctima, o a la tácita que ésta debía esperar en razón del parentesco, gratitud, amistad o cualquiera otra circunstancia que inspire confianza.
+Para los efectos de la fracción I, hay premeditación cuando el agente causa la muerte o lesión después de haber reflexionado sobre el delito que pretende cometer; alevosía, cuando se sorprende intencionalmente a alguien empleando acechanza o engaño; ventaja, cuando el delincuente tenga superioridad física sobre la víctima, o ésta sea mujer, en aquellos casos no previstos por el artículo 367 Bis, niños, adultos mayores o personas con capacidades diferentes o cuando el delincuente no corra el riesgo de ser muerto o herido por el ofendido; y traición, cuando se viola la seguridad que expresamente se había prometido a la víctima, o la tácita que ésta debía esperar en razón del parentesco, gratitud, amistad o cualquier otra circunstancia que inspire confianza.
 
 ###### Artículo 145.
 
@@ -3813,6 +3821,10 @@ I. Exista o haya existido entre el activo y la víctima una relación de parente
 
 II. Exista o haya existido entre el activo y la víctima una relación laboral, escolar, o cualquier otra que implique confianza, subordinación o superioridad;
 
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2017)</small>
+
+II. Bis. El activo se haya valido de su relación como conductor de un vehículo de transporte de pasajeros, turismo o cualquier otra modalidad;
+
 III. La víctima presente signos de violencia sexual de cualquier tipo;
 
 IV. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones previamente a la privación de la vida, o se realicen marcas infamantes o degradantes sobre el cadáver, o éste sea mutilado;
@@ -4470,3 +4482,21 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. En la aplicación de la presente reforma, se empleará el principio de su sucesión de normas penales sustantivas.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 358 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 25 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 359 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 144 Y QUE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 367 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. En la aplicación del presente Decreto de reforma se empleará el principio de sucesión de normas penales sustantivas.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto
