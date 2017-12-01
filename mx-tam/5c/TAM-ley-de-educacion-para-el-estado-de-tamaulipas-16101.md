@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2017-02-07"
+last_updated: "2017-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -157,9 +159,9 @@ VI.- Infundir el conocimiento y la práctica de la democracia como forma de conv
 
 VII.- Promover los valores de respeto a la vida, la dignidad de las personas, la justicia, la libertad, la igualdad, la observancia de la Ley y el conocimiento y respeto de los derechos humanos; asimismo, difundir en las escuelas el contenido de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Fomentar una conciencia de respeto a los derechos fundamentales de la persona y la sociedad, como medio de conservar la paz, la armonía y la sana convivencia, respetando la pluralidad de ideas y opiniones, propiciar la cultura de la legalidad y la no violencia en cualquier tipo de sus manifestaciones;
+VIII.- Fomentar una conciencia de respeto a los derechos fundamentales de la persona y la sociedad, como medio de conservar la paz, la armonía y la sana convivencia, respetando la pluralidad de ideas y opiniones, propiciar la cultura de la legalidad, de la inclusión y la no discriminación, de la no violencia en cualquier tipo de sus manifestaciones;
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -229,17 +231,21 @@ XXVI.- Fomentar los valores y principios del cooperativismo.
 
 XXVII.- Fomentar la cultura de la transparencia y la rendición de cuentas, así como el conocimiento en los educandos de su derecho al acceso a la Información Pública Gubernamental y de las mejores prácticas para ejercerlo;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXVIII.- Promover y fomentar la lectura y el libro; y
+XXVIII.- Promover y fomentar la lectura y el libro;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+XXIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de menores de dieciocho años de edad o de personas que no tengan la capacidad de comprender el significado del hecho o para resistirlo;
 
-> <small>(ADICIONADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXX.- Promover el espíritu emprendedor a partir de actitudes creativas, la confianza en sí mismo, el sentido crítico, la iniciativa personal, el trabajo en equipo y la capacidad para asumir responsabilidades.
+XXX.- Promover el espíritu emprendedor a partir de actitudes creativas, la confianza en sí mismo, el sentido crítico, la iniciativa personal, el trabajo en equipo y la capacidad para asumir responsabilidades; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XXXI.- Fomentar la valoración de la diversidad y la cultura de inclusión como condiciones para el enriquecimiento social y cultural.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -605,13 +611,17 @@ II.- Participar en el programa escuela para familiares, para dar mayor atención
 
 III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijas, hijos, pupilas y pupilos, en las actividades que dichas instituciones realicen;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-IV.- Fomentar en sus hijas, hijos, pupilas y pupilos los valores cívicos y el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa; y
+IV.- Fomentar en sus hijas, hijos, pupilas y pupilos los valores cívicos y el aprecio por las tradiciones culturales y artísticas de nuestra entidad federativa.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-V.- Propiciar un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad.
+V.- Propiciar un ambiente sin violencia en el núcleo familiar, privilegiando las conductas adecuadas y necesarias para poder convivir en sociedad; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+VI. Inculcar a sus hijas, hijos, pupilas y pupilos el respeto a la autoridad del maestro o docente y a las normas de convivencia de las escuelas.
 
 #### SECCION SEGUNDA. DE LOS EDUCANDOS
 
@@ -771,19 +781,23 @@ El tipo medio superior comprende el nivel de bachillerato, los demás niveles eq
 
 Las escuelas de educación media terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la Entidad, con el fin de generar recursos humanos en las diferentes actividades de la industria y del trabajo en general.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 29.
 
-La educación especial está destinada a personas con discapacidades transitorias o definitivas, así como a aquellos con aptitudes sobresalientes. Procurará atender al educando de manera adecuada a sus propias condiciones, con todo respeto a sus derechos y reconociendo su potencial, con equidad social incluyente y con perspectiva de género e igualdad de oportunidades educativas, sociales y laborales.
+La educación especial tiene como propósito identificar, prevenir y eliminar las barreras que limitan el aprendizaje y la participación plena y efectiva en la sociedad de las personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, así como de aquellas con aptitudes sobresalientes. Procurará atender al educando de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje, en un contexto educativo incluyente, que se debe basar en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-Tratándose de menores de edad con discapacidades, esta educación propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos. Para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios.
+Tratándose de personas con discapacidad, con dificultades severas de aprendizaje, de conducta o de comunicación, se favorecerá su atención en los planteles de educación básica, sin que esto cancele su posibilidad de acceder a las diversas modalidades de educación especial atendiendo a sus necesidades. Se realizarán ajustes razonables y se aplicarán métodos, técnicas, materiales específicos y las medidas de apoyo necesarias para garantizar la satisfacción de las necesidades básicas de aprendizaje de los alumnos y el máximo desarrollo de su potencial para la autónoma integración a la vida social y productiva. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2014)</small>
 
 Esta educación incluye orientación a los padres, madres o tutores, así como también a las y los maestros y personal de escuelas de educación básica regular y media superior regulares que integran a alumnas y alumnos con necesidades especiales de educación.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+La formación y capacitación de maestros promoverá la educación inclusiva y desarrollará las competencias necesarias para su adecuada atención.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -792,6 +806,14 @@ Para la identificación, evaluación, atención educativa, acreditación y certi
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2014)</small>
 
 Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a estudiantes con capacidades y aptitudes sobresalientes.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+La educación especial deberá incorporar los enfoques de inclusión e igualdad sustantiva. Esta educación abarcará la capacitación y orientación a los padres, madres o tutores; así como también a los maestros y personal de escuelas de educación básica y media superior regulares que atiendan a alumnos con discapacidad, con dificultades severas de aprendizaje, de comportamiento o de comunicación, o bien con aptitudes sobresalientes.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Quienes presten servicios educativos en el marco del sistema educativo nacional atenderán las disposiciones en materia de accesibilidad señaladas en la Ley General para la Inclusión de las Personas con Discapacidad, en la Ley General de la Infraestructura Física Educativa, Ley de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas, Ley de Infraestructura Física Educativa para el Estado de Tamaulipas y en las demás normas aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1403,6 +1425,10 @@ I.- Atenderán de manera especial las escuelas que por estar en localidades aisl
 
 II.- Desarrollarán programas de apoyo al magisterio que realice actividad docente en localidades aisladas o zonas urbanas marginadas, a fin de fomentar el arraigo en sus comunidades;
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+II Bis.- Desarrollarán, bajo el principio de inclusión, programas de capacitación, asesoría y apoyo a los maestros que atiendan alumnos con discapacidad y con aptitudes sobresalientes, en términos de lo dispuesto en el artículo 29 de la presente Ley;
+
 III.- Promoverán centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles y demás planteles que apoyen en forma continua y estable el aprendizaje y el aprovechamiento de los alumnos;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2014)</small>
@@ -1595,7 +1621,9 @@ VI.- Representantes de organizaciones de la sociedad civil cuyo objeto sea la ed
 
 ARTICULO 85 BIS.- Las atribuciones de los Consejos Municipales de Participación Social en la Educación serán las siguientes:
 
-I.- Gestionar ante el ayuntamiento y ante el Ejecutivo del Estado el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el Municipio;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+I.- Gestionar ante el ayuntamiento y ante el Ejecutivo del Estado el mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas, tomando en cuenta las necesidades de accesibilidad para las personas con discapacidad, y demás proyectos de desarrollo educativo en el Municipio;
 
 II.- Conocer de los resultados de las evaluaciones educativas que se realicen y llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio Municipio;
 
@@ -1845,9 +1873,9 @@ XIV.- Administrar a los educandos, sin previa prescripción médica y consentimi
 
 XV.- Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes:
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XVI.- Expulsar o negarse a prestar el servicio educativo a personas que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas especificas para la atención de problemas de aprendizaje de los educandos, y
+XVI.- Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para la atención de problemas de aprendizaje de los educandos; y
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -1857,7 +1885,7 @@ Las disposiciones de este Artículo no son aplicables a los trabajadores de la e
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
-No obstante lo dispuesto en el párrafo anterior, se aplicará lo dispuesto en la fracción I del artículo siguiente, según la gravedad de la falta, al director, subdirector, profesor o prefecto de un establecimiento escolar, o a cualquier otra autoridad educativa, que condicione o niegue, sin causa justificada, el servicio educativo que tenga obligación de prestar, o exija el pago de cuotas escolares obligatorias, aportaciones o cualquier otra contra prestación que infrinja al principio de gratuidad de la educación que imparte el Estado.
+No obstante lo dispuesto en el párrafo anterior, se aplicará lo dispuesto en la fracción I del artículo siguiente, según la gravedad de la falta, al director, subdirector, profesor o prefecto de un establecimiento escolar, o a cualquier otra autoridad educativa, que condicione o niegue, sin causa justificada, el servicio educativo que tenga obligación de prestar, o exija el pago de cuotas escolares obligatorias, aportaciones o cualquier otra contraprestación que infrinja al principio de gratuidad de la educación que imparte el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -2196,6 +2224,22 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 7 DE FEBRERO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-111 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 80 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-305 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, EN MATERIA DE EDUCACIÓN INCLUSIVA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-316 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 15, FRACCIONES IV Y V; Y SE ADICIONA LA FRACCIÓN VI, AL ARTÍCULO 15, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
