@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2017-11-07"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -889,6 +889,10 @@ j) Expedir los reglamentos y disposiciones administrativas que fueren necesarios
 
 5. Preservar, conservar y restaurar el medio ambiente.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Los ayuntamientos tienen la obligación de proteger y brindar un trato digno a los animales, así como promover mediante programas y campañas de difusión la cultura de protección a los animales, consistente en valores y conductas de respeto por parte del ser humano hacia los animales.
+
 6. Participar en la creación y administración de las zonas ecológicas y áreas naturales protegidas de competencia local.
 
 7. Aprobar el programa municipal de obra pública; así como convenir y contratar su ejecución.
@@ -1007,7 +1011,21 @@ VIII. En materia de participación ciudadana y vecinal:
 
 5. Establecer e instrumentar mecanismos efectivos, funcionales y democráticos de participación comunitaria directa para la toma de decisiones fundamentales hacia el interior del gobierno municipal.
 
-IX. Las demás que señalen las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS NUMERALES], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+IX. En materia de derechos humanos.
+
+1. Identificar los principales obstáculos que impiden el ejercicio y goce efectivo de los derechos humanos a las personas que transitan o habitan en el Municipio.
+
+2. A partir de lo anterior, elaborar programas o planes de acción que establezcan estrategias, líneas de acción, plazos y unidades responsables, que tengan por objeto el reconocimiento, respeto, promoción, protección y garantía de los derechos humanos, de conformidad con sus competencias y atribuciones.
+
+3. Rendir los informes solicitados por los organismos defensores de derechos humanos y pronunciarse sobre la aceptación o rechazo de sus recomendaciones, observaciones o resoluciones.
+
+4. Promover entre los integrantes de las diferentes instituciones de la administración pública municipal, y en los habitantes en general, una cultura de respeto irrestricto a los derechos humanos.
+
+Las políticas públicas tendrán como finalidad eliminar las inequidades y desigualdades y promoverán la realización de los derechos humanos de grupos de población en situación de vulnerabilidad, mediante programas integrales que potencialicen las capacidades de las personas con la finalidad de contribuir a su desarrollo y mejorar sus condiciones de vida y faciliten el acceso pleno de éstos al ejercicio integral de los derechos humanos.
+
+X. Las demás que señalen las disposiciones legales aplicables.
 
 ###### ARTÍCULO 103.
 
@@ -4448,3 +4466,27 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente del de su publ
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 997.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Medio Ambiente deberá emitir las reglas de operación del manejo del Fondo para la protección de los animales, una vez integrado el mismo.
+
+TERCERO.- Los Ayuntamientos deberán expedir el reglamento municipal de esta Ley, en un plazo de sesenta días a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La Comisión Estatal de Protección a los Animales deberá adecuarse a las disposiciones del presente Decreto, en un plazo de treinta días a partir de la entrada en vigor del mismo.
+
+El reglamento interior de la Comisión Estatal de Protección a los Animales deberá ser expedido por la misma, dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto.
+
+QUINTO.- Los Comités Regionales deberán constituirse por la Comisión Estatal de Protección a los Animales, dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO.- Los establecimientos mercantiles cuyo giro sea el de la exhibición de animales para su compraventa, deberán vender a los animales que aún tengan en exhibición debidamente esterilizados y no contar con animales dentro de sus instalaciones de conformidad con la presente Ley.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1018.- SE REFORMA LA FRACCIÓN IX Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 102 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
