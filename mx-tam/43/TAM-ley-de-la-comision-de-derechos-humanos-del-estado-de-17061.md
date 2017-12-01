@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2017-06-02"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -191,7 +191,9 @@ El Consejo Consultivo de la Comisión estará integrado por seis Consejeros, qui
 
 Para ser designado Consejero de la Comisión se deberán reunir los mismos requisitos que para ser titular de la Presidencia de la Comisión, excepto los establecidos en las fracciones IV y V del artículo 18 de la presente ley.
 
-Los miembros del Consejo durarán en su cargo cuatro años y podrán ser reelectos para un siguiente período; en caso de falta o separación de un Consejero, quien lo substituya complementará el período correspondiente. Estos cargos serán honoríficos.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Los miembros del Consejo durarán en su cargo seis años y podrán ser reelectos para un siguiente período; en caso de falta o separación de un Consejero, quien lo substituya complementará el período correspondiente. Estos cargos serán honoríficos.
 
 ###### ARTICULO 15.
 
@@ -223,7 +225,7 @@ Las sesiones ordinarias se verificarán trimestralmente y las extraordinarias cu
 
 ### CAPITULO III. DEL TITULAR DE LA PRESIDENCIA DE LA COMISIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO [ESTE PÁRRAFO], P.O. 15 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 18.
 
@@ -233,7 +235,9 @@ Para ser designado titular de la Presidencia de la Comisión se requiere:
 
 I.- Ser mexicano y ciudadano tamaulipeco, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- Ser mayor de treinta y cinco años de edad el día de su nombramiento;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+II.- Ser mayor de treinta años el día de su nombramiento;
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -253,11 +257,11 @@ V.- Acreditar conocimientos y experiencia en materia de derechos humanos.
 
 El nombramiento del titular de la Presidencia de la Comisión será realizado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previo procedimiento de consulta pública, que deberá ser transparente en los términos y condiciones que determine la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 20.
 
-El Presidente de la Comisión durará en sus funciones cuatro años y podrá ser designado exclusivamente para un siguiente período, en la misma forma de su primigenia elección.
+El Presidente de la Comisión durará en sus funciones seis años y podrá ser designado exclusivamente para un siguiente período, en la misma forma de su primigenia elección.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
@@ -774,3 +778,15 @@ La Convocatoria para designar a los titulares de los órganos internos de contro
 ###### ARTÍCULO TERCERO.
 
 Comuníquese el presente Decreto a la Universidad Autónoma de Tamaulipas, solicitando con pleno respeto a su autonomía institucional que, a la brevedad, tenga a bien homologar sus ordenamientos jurídicos internos en lo concerniente al Órgano Interno de Control y su titular, tomando en consideración las reformas planteadas en el presente Decreto, para así armonizar sus disposiciones a que haya lugar, en materia de combate a la corrupción.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIII-311 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 126 PÁRRAFO QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS 14, PÁRRAFO TERCERO; 18, FRACCIÓN II, Y 20, DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El término de seis años establecido mediante el presente Decreto para el período de encargo del Presidente y de los miembros del Consejo Consultivo de la Comisión de Derechos Humanos, empezará a surtir efectos a partir de los subsecuentes nombramientos que se deriven de la sustitución de los actuales encargos de las figuras jurídicas antes referidas.
