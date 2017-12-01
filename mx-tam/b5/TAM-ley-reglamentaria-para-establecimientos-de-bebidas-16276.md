@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2017-06-02"
+last_updated: "2017-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHOLICAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -62,8 +64,6 @@ A falta de disposición expresa en esta ley, se aplicará supletoriamente el Có
 Para los efectos de esta ley se entenderá por:
 
 I.- Abarrotes: Establecimiento dedicado a la venta de alimentos y bebidas sin preparar, artículos para el hogar y similares que expende, complementariamente, bebidas alcohólicas en envase cerrado al menudeo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -105,89 +105,97 @@ XVIII.- Centro recreativo y deportivo o club: Establecimiento donde se ofrecen a
 
 XIX.- Cerveza: Bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquiera semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición del lúpulo o sucedáneos de éste.
 
-XX.- Cervecería: Establecimiento donde se enajena todo tipo de cerveza, en envase abierto, para su consumo en el interior del mismo lugar;
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXI.- Coctelería: Establecimiento dedicado a la venta de alimentos preparados a base de pescados y mariscos, donde de manera complementaria se podrá enajenar únicamente cerveza en envase abierto para su consumo dentro del local y en forma simultánea al consumo de alimentos;
+XX.- Cerveza Artesanal: Bebida fermentada elaborada principalmente con malta de cebada, lúpulo, levadura y agua potable, no utilizando productos transgénicos ni aditivos químicos que alteren su composición y desarrollo natural en su proceso de fermentación, cuyo contenido de alcohol a la temperatura de quince grados centígrados, sea mayor a dos por ciento por volumen, pero que no exceda de doce por ciento por volumen;
 
-XXII.- Consumidor: Persona mayor de edad y en pleno goce de sus facultades mentales que adquiere bebidas alcohólicas para su consumo;
+XXI.- Cervecería: Establecimiento donde se enajena todo tipo de cerveza, en envase abierto, para su consumo en el interior del mismo lugar;
 
-XXIII. - Consumo: Acción de ingerir bebidas alcohólicas;
+XXII.- Coctelería: Establecimiento dedicado a la venta de alimentos preparados a base de pescados y mariscos, donde de manera complementaria se podrá enajenar únicamente cerveza en envase abierto para su consumo dentro del local y en forma simultánea al consumo de alimentos;
 
-XXIV.- Discoteca: Establecimiento donde se enajenan bebidas alcohólicas, para su consumo en el interior del mismo lugar, el cual cuenta con pista de baile para su clientela, con efectos de luces y sonidos especiales, pudiendo tener música en vivo o grabada;
+XXIII.- Consumidor: Persona mayor de edad y en pleno goce de sus facultades mentales que adquiere bebidas alcohólicas para su consumo;
 
-XXV.- Distribución: El traslado a domicilio de bebidas alcohólicas, una vez realizada la enajenación por la distribuidora;
+XXIV. - Consumo: Acción de ingerir bebidas alcohólicas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXV.- Discoteca: Establecimiento donde se enajenan bebidas alcohólicas, para su consumo en el interior del mismo lugar, el cual cuenta con pista de baile para su clientela, con efectos de luces y sonidos especiales, pudiendo tener música en vivo o grabada;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-XXVI.- Distribuidora: Establecimiento en el que se almacenan bebidas alcohólicas para su enajenación al público en envase cerrado, mediante pedido al mayoreo y deberá contar con las instalaciones e infraestructura acorde a su actividad, así como vehículos debidamente identificados para distribuir el producto;
-
-XXVII.- Enajenación: Acto mediante el cual una persona transmite a otra, una cosa o un derecho;
-
-XXVIII.- Enajenación ilícita: Es la venta de bebidas alcohólicas que realice toda persona que no cuente con licencia o permiso, o que teniéndolos, lo haga fuera de los días, de los horarios o de las condiciones establecidas en la ley, en la licencia o en el permiso;
-
-XXIX.- Envasadora: Negociación que se dedica al envasamiento de bebidas alcohólicas para su enajenación en envase cerrado y al mayoreo;
-
-XXX.- Establecimiento: Lugar destinado para la enajenación, distribución o consumo de bebidas alcohólicas, independientemente del nombre con que se le designe;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVI.- Distribución: El traslado a domicilio de bebidas alcohólicas, una vez realizada la enajenación por la distribuidora;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-XXXI.- Expendio o depósito: Establecimiento en donde se enajena cerveza en envase cerrado para su posterior consumo en lugar distinto a este;
+XXVII.- Distribuidora: Establecimiento en el que se almacenan bebidas alcohólicas para su enajenación al público en envase cerrado, mediante pedido al mayoreo y deberá contar con las instalaciones e infraestructura acorde a su actividad, así como vehículos debidamente identificados para distribuir el producto;
 
-XXXII.- Feria: Lugar o espacio habilitado o construido para efecto de exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza lícita, con el objeto de promover el desarrollo del Estado, en el que se puede enajenar bebidas alcohólicas, servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
+XXVIII.- Enajenación: Acto mediante el cual una persona transmite a otra, una cosa o un derecho;
 
-XXXIII.- Fonda, lonchería, taquería, cenaduría, comedor y similares: Lugares donde se expenden alimentos preparados, que de manera complementaria podrán enajenar únicamente cerveza para su consumo en el interior del mismo lugar y en forma simultánea al consumo de alimentos;
+XXIX.- Enajenación ilícita: Es la venta de bebidas alcohólicas que realice toda persona que no cuente con licencia o permiso, o que teniéndolos, lo haga fuera de los días, de los horarios o de las condiciones establecidas en la ley, en la licencia o en el permiso;
 
-XXXIV.- Licencia: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que consta la autorización, los términos y las condiciones en que se puede enajenar, distribuir o permitir el consumo de bebidas alcohólicas, ya sea en envase cerrado o abierto;
+XXX.- Envasadora: Negociación que se dedica al envasamiento de bebidas alcohólicas para su enajenación en envase cerrado y al mayoreo;
 
-XXXV.- Licorería: Establecimiento cuya actividad predominante sea la enajenación de bebidas alcohólicas en envase cerrado y al menudeo;
-
-XXXVI.- Mercancía: Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización y venta;
-
-XXXVII.- Minisuper: Establecimiento con prestación de autoservicio, cuyo objeto primordial es la venta al público de alimentos y bebidas sin preparar, así como productos de uso y de consumo, el cual podrá complementariamente enajenar bebidas alcohólicas en envase cerrado para su consumo en lugar distinto;
-
-XXXVIII.- Permiso: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que se autoriza la enajenación de bebidas alcohólicas en envase abierto desechable, de plástico o de cualquier otro material que no represente peligro alguno y se permite su consumo en un espacio previamente delimitado;
-
-XXXIX.- Propietario: Persona física o moral que enajena bebidas alcohólicas en los términos de esta ley, así como aquella que con el carácter de dependiente, gerente, administrador, representante u otro similar, sea responsable de la operación y funcionamiento de algún establecimiento;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXXI.- Establecimiento: Lugar destinado para la enajenación, distribución o consumo de bebidas alcohólicas, independientemente del nombre con que se le designe;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-XL.- Restaurante: Establecimiento donde se expenden alimentos y bebidas alcohólicas, para su consumo en el mismo, debiendo contar con menú de los platillos que expenda y las materias primas suficientes para su preparación;
+XXXII.- Expendio o depósito: Establecimiento en donde se enajena cerveza en envase cerrado para su posterior consumo en lugar distinto a este;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXXIII.- Feria: Lugar o espacio habilitado o construido para efecto de exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza lícita, con el objeto de promover el desarrollo del Estado, en el que se puede enajenar bebidas alcohólicas, servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
+
+XXXIV.- Fonda, lonchería, taquería, cenaduría, comedor y similares: Lugares donde se expenden alimentos preparados, que de manera complementaria podrán enajenar únicamente cerveza para su consumo en el interior del mismo lugar y en forma simultánea al consumo de alimentos;
+
+XXXV.- Licencia: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que consta la autorización, los términos y las condiciones en que se puede enajenar, distribuir o permitir el consumo de bebidas alcohólicas, ya sea en envase cerrado o abierto;
+
+XXXVI.- Licorería: Establecimiento cuya actividad predominante sea la enajenación de bebidas alcohólicas en envase cerrado y al menudeo;
+
+XXXVII.- Mercancía: Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización y venta;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XXXVIII.- Microcervecería: Se entiende aquel establecimiento independiente donde se produce y almacena para su distribución y venta, cerveza artesanal, de producción propia así como un diverso productor de cerveza artesanal, y cuenta con sala de degustación con música en vivo o grabada, área en el interior o exterior para dar servicio, autorizado en los términos de la normatividad aplicable;
+
+XXXIX.- Minisuper: Establecimiento con prestación de autoservicio, cuyo objeto primordial es la venta al público de alimentos y bebidas sin preparar, así como productos de uso y de consumo, el cual podrá complementariamente enajenar bebidas alcohólicas en envase cerrado para su consumo en lugar distinto;
+
+XL.- Permiso: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que se autoriza la enajenación de bebidas alcohólicas en envase abierto desechable, de plástico o de cualquier otro material que no represente peligro alguno y se permite su consumo en un espacio previamente delimitado;
+
+XLI.- Propietario: Persona física o moral que enajena bebidas alcohólicas en los términos de esta ley, así como aquella que con el carácter de dependiente, gerente, administrador, representante u otro similar, sea responsable de la operación y funcionamiento de algún establecimiento;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-XLI.- Restaurant bar: Establecimiento donde se expenden alimentos para su consumo en el mismo, que en su interior cuente con una área donde solo se expendan bebidas alcohólicas, que además podrá contar con pista de baile para su clientela, menú de los platillos que expenda y alimentos suficientes para su preparación;
+XLII.- Restaurante: Establecimiento donde se expenden alimentos y bebidas alcohólicas, para su consumo en el mismo, debiendo contar con menú de los platillos que expenda y las materias primas suficientes para su preparación;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+
+XLIII.- Restaurant bar: Establecimiento donde se expenden alimentos para su consumo en el mismo, que en su interior cuente con una área donde solo se expendan bebidas alcohólicas, que además podrá contar con pista de baile para su clientela, menú de los platillos que expenda y alimentos suficientes para su preparación;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XLIV.- Sala de degustación para la venta exclusiva de cerveza artesanal: Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos y que cuente con música grabada o en vivo;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-XLII.- Salón de recepción: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para diversión de los asistentes y por prestar servicios de banquete, el cual incluye el consumo de bebidas alcohólicas en envase abierto y al copeo en el interior del mismo durante el desarrollo del evento;
+XLV.- Salón de recepción: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para diversión de los asistentes y por prestar servicios de banquete, el cual incluye el consumo de bebidas alcohólicas en envase abierto y al copeo en el interior del mismo durante el desarrollo del evento;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-XLIII.- Secretaría: La Secretaría de Finanzas;
+XLVI.- Secretaría: La Secretaría de Finanzas;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-XLIV.- Secretario: El titular de la Secretaría de Finanzas;
+XLVII.- Secretario: El titular de la Secretaría de Finanzas;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XLV.- Supermercado: Establecimiento comercial organizado por departamentos con sistema de autoservicio, con enajenación complementaria de bebidas alcohólicas al menudeo en envase cerrado, para su consumo en lugar distinto;
+XLVIII.- Supermercado: Establecimiento comercial organizado por departamentos con sistema de autoservicio, con enajenación complementaria de bebidas alcohólicas al menudeo en envase cerrado, para su consumo en lugar distinto;
 
-XLVI.- Venta: Toda actividad relacionada con la enajenación de bebidas alcohólicas;
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XLVII.- Venta al mayoreo: Enajenación de bebidas alcohólicas en cartón o caja cerrada;
+XLIX.- Tienda de Cerveza Artesanal: Establecimiento mercantil especializado en la venta de cerveza artesanal, hecha en México, en envase cerrado al menudeo, mercancías relacionadas con su consumo externo;
 
-XLVIII.- Venta al menudeo: Enajenación de bebidas alcohólicas en envase o botella cerrada o abierta o al copeo; y,
+L.- Venta: Toda actividad relacionada con la enajenación de bebidas alcohólicas;
 
-XLIX.- Visitador: Servidor Público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de esta ley.
+LI.- Venta al mayoreo: Enajenación de bebidas alcohólicas en cartón o caja cerrada;
+
+LII.- Venta al menudeo: Enajenación de bebidas alcohólicas en envase o botella cerrada o abierta o al copeo; y,
+
+LIII.- Visitador: Servidor Público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de esta ley.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -267,17 +275,35 @@ XXI.- Fonda, lonchería, taquería, cenaduría, comedor y similar;
 
 XXII.- Licorería;
 
-XXIII.- Minisuper;
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXIV.- Restaurante;
+XXIII.- Microcervecería;
 
-XXV.- Restaurante-bar;
+XXIV.- Minisuper;
 
-XXVI.- Salón de recepción;
+XXV.- Restaurante;
 
-XXVII.- Subagencia; y
+XXVI.- Restaurante-bar;
 
-XXVIII.- Supermercado.
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XXVII.- Sala de degustación para venta exclusiva de cerveza artesanal;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XXVIII.- Salón de recepción;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XXIX.- Subagencia;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XXX.- Supermercado; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XXXI.- Tienda de cerveza artesanal.
 
 ###### ARTICULO 11.
 
@@ -301,9 +327,11 @@ IV. La ventilación e iluminación adecuada; y
 
 V.- Salida de emergencia.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 14.
 
-Los propietarios, administradores o encargados de los establecimientos de bar, cabaret o centro nocturno, cantina o taberna y cervecerías que cuenten con entradas directas por la vía pública, además de los requisitos señalados en el artículo anterior, deberán tener fijas persianas, tabiques, mamparas u otros medios que impidan la visibilidad hacia el interior, y evitar molestias a los transeúntes.
+Los propietarios, administradores o encargados de los establecimientos de bar, cabaret o centro nocturno, cantina o taberna, cervecerías, microcervecerías, salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal que cuenten con entradas directas por la vía pública, además de los requisitos señalados en el artículo anterior, deberán tener fijas persianas, tabiques, mamparas u otros medios que impidan la visibilidad hacia el interior, y evitar molestias a los transeúntes.
 
 ###### ARTICULO 15.
 
@@ -462,6 +490,10 @@ Independientemente de los señalados en otros ordenamientos legales, el Ejecutiv
 ###### ARTICULO 24.
 
 El otorgamiento de la licencia o permiso constituye un acto de la autoridad que otorga exclusivamente al solicitante un derecho personal, intransferible y condicionado al cumplimiento estricto de la ley, y solo permite el almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas en un determinado establecimiento cuyo propietario, domicilio y giro aparecen descritos en la licencia o permiso respectivo.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Las licencias o permisos para microcervecerías, salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal, se otorgarán a precio preferencial a fin de impulsar el desarrollo económico generado por el sector de la cerveza artesanal en el Estado.
 
 ###### ARTICULO 25.
 
@@ -1228,3 +1260,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-280 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 10, FRACCIONES XXVII Y XXVIII, Y 14; Y SE ADICIONAN LAS FRACCIONES XX, XXXVIII, XLIV, Y XLIX AL ARTÍCULO 5o., REACOMODÁNDOSE EN EL ORDEN CONDUCENTE LAS FRACCIONES CORRESPONDIENTES; LAS FRACCIONES XXIII, XXVII Y XXXI AL ARTÍCULO 10, REACOMODÁNDOSE EN EL ORDEN CONDUCENTE LAS FRACCIONES CORRESPONDIENTES, ASÍ COMO UN SEGUNDO PÁRRAFO AL ARTÍCULO 24 DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
