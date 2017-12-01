@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2017-09-01"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "QUE"
 ---
 # CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-> <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 1 DE SEPTIEMBRE DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+[NOTA 1: EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 1 DE SEPTIEMBRE DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE DICIEMBRE DE 2017.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -569,8 +571,6 @@ Cuando los instrumentos, objetos o productos del delito, tratándose del de oper
 
 Las autoridades competentes, durante el trámite de la averiguación previa o el proceso, procederán de inmediato al aseguramiento de bienes que podrían ser materia del decomiso, cualquiera que sea su naturaleza.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTICULO 61.
@@ -593,49 +593,33 @@ Los bienes de consumo perecederos podrán ser donados a instituciones de asisten
 
 Los bienes de difícil o costosa conservación, respecto de los cuales no exista la posibilidad de entregarlos en breve tiempo a quienes tengan derecho a recibirlos, se procederá a su venta inmediata, si esto es posible, sin sujetarse a trámites o requisitos de subasta pública y el producto obtenido quedará a disposición de quien acredite tener derecho a recibirlo por un lapso de sesenta días, contados a partir de la notificación que se le haga; transcurrido ese tiempo sin acreditar o ejercer su derecho, se aplicará a favor del Poder Ejecutivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 La autoridad judicial o el Ministerio Público que decreten el aseguramiento de bienes, incluyendo dinero o valores que estén a su disposición y que no hubieren sido decomisados, deberán notificar al interesado o a su representante legal inmediatamente, entregando o poniendo a su disposición, según sea el caso, una copia certificada del acta que se elabore del aseguramiento, que deberá incluir inventario con la descripción y el estado en que se encuentren los bienes que se aseguren para que manifieste lo que a su derecho convenga. En dicha notificación se apercibirá al interesado o a su representante legal para que no enajene o grave los bienes asegurados.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 En la notificación deberá apercibirse al interesado o a su representante legal, que de no manifestar lo que a su derecho convenga, en un término de sesenta días naturales siguientes al de la notificación, los bienes causarán abandono a favor del Poder Ejecutivo del Estado, el cual determinará su destino según su utilidad, de conformidad con las disposiciones legales y administrativas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Cuando proceda la devolución de bienes asegurados, éstos quedarán a disposición de quien acredite tener derecho a ellos, siempre que éste no haya tenido conocimiento de su utilización para la realización del delito o habiéndolo tenido, se hubiere encontrado en un estado real de imposibilidad para impedirlo o de haber dado aviso a la autoridad competente. La autoridad judicial o el Ministerio Público decidirá sobre ello y notificará su resolución al interesado o al representante legal dentro de los treinta días siguientes a la solicitud de devolución, para que en el plazo de noventa días naturales a partir de la notificación correspondiente se presente a recogerlos, bajo el apercibimiento que de no hacerlo los bienes causarán abandono a favor del Poder Ejecutivo del Gobierno del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Cuando el aseguramiento de los bienes se haya hecho constar en el Registro Público de la Propiedad y del Comercio, la autoridad judicial o el Ministerio Público ordenarán su cancelación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Los bienes que estén a disposición del Ministerio Público o de la autoridad judicial, que sean de costosa o difícil conservación y además carezcan ya de importancia como evidencia en la investigación o en el proceso, por haber sido debidamente descritos y fijados a través de medios técnicos o sean de nulo o mínimo valor económico por el estado en que se encuentren o que nadie los reclame o acredite derecho a la devolución, a pesar de haber sido notificados con sesenta días de anticipación, podrán aplicarse a favor del Poder Ejecutivo del Estado y ordenarse su inmediata destrucción. Se presumirá que se encuentran en esta situación y por lo tanto, podrá ordenarse su inmediata destrucción, previa notificación a los interesados, todos aquellos bienes que tengan tres años o más a disposición de la autoridad investigadora o judicial y no sean objeto de reclamo por parte interesada, dentro de los sesenta días posteriores a dicha notificación.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 Para los efectos de este artículo, la notificación al interesado se tendrá por realizada, con el simple hecho de publicar, por tres veces, de siete en siete días, en dos periódicos de mayor circulación en la Entidad, la relación de bienes que se destruirán en caso de no ser reclamados; esto independientemente de que la información se ponga a disposición de la ciudadanía en los medios electrónicos de que disponga la autoridad que ordene la medida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 En los casos de asignación, adjudicación o aplicación de bienes o productos a favor del Poder Ejecutivo, deducidos los gastos de conservación y procedimiento, el remanente se asignará al Fondo Económico para la Procuración de Justicia y para la Asistencia y Apoyo a las Víctimas, para los fines previstos en la Ley de la Procuraduría General de Justicia del Estado de Querétaro, cuando los bienes hayan estado a disposición del Ministerio Público o al Fondo Auxiliar para la Administración de Justicia, para los propósitos señalados en la Ley Orgánica del Poder Judicial del Estado de Querétaro, cuando hayan estado a disposición de la autoridad judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE .E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
@@ -662,8 +646,6 @@ Si se trata de internamiento, el sujeto inimputable permanente, será recluido e
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2011)</small>
 
 En caso de que los inimputables tengan el hábito o la necesidad de consumir estupefacientes, psicotrópicos, bebidas embriagantes o cualquier otra substancia tóxica, el juez de la causa o, en su caso, el juez competente de ejecución, ordenará también el tratamiento que proceda por parte de la autoridad sanitaria competente o de otro servicio médico bajo la supervisión de aquélla, independientemente de la prosecución del proceso o de la ejecución de la pena impuesta por el delito cometido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
@@ -786,8 +768,6 @@ I. Que el conductor se encuentre en estado de ebriedad o bajo el influjo de de (
 II. Que el conductor abandone a la víctima o no le preste auxilio.
 
 Con independencia de las circunstancias, siempre se considerará como delito grave cuando se prive de la vida a dos o más personas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
@@ -925,19 +905,13 @@ VI.- Residir o no residir en circunscripción territorial determinada, que en to
 
 VII.- Desempeñar en el plazo que prudentemente se le fije, trabajo lícito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 VIII.- No abusar del consumo de bebidas embriagantes y abstenerse del empleo de estupefacientes, psicotrópicos, substancias volátiles inhalables y cualquier otra que produzca efectos similares, salvo por prescripción médica;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
 IX.- Pagar o garantizar la reparación de los daños y perjuicios causados; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1210,8 +1184,6 @@ Al que prive de la vida a otra, se le impondrá prisión de 7 a 15 años y multa
 > <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2008)</small>
 
 ARTICULO 125 BIS.- Para determinar que una persona ha perdido la vida, se estará a lo previsto en la Ley General de Salud.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
@@ -1937,8 +1909,6 @@ V.- Por una o varias personas armadas o llevando cualquier instrumento peligroso
 
 VI.- En contra de una oficina recaudatoria o cualquier otra en que se conserven caudales; o en contra de las personas que las custodian, manejan, transportan, o que por cualquier motivo estén presentes, o en local abierto al público;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2012)</small>
 
 VII.- Respecto de vehículo o maquinaria, independientemente del lugar en que se encuentre;
@@ -1968,8 +1938,6 @@ Si en los actos mencionados participa algún servidor público que tenga a su ca
 > <small>(ADICIONADA, P.O. 21 DE ENERO DE 2011)</small>
 
 ARTICULO 183 TER.- Se sancionará con pena de tres a quince años de prisión y. de 100 a 750 días multa, si el robo se realiza en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los móviles, sea cual fuere la materia de que estén construidos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2012)</small>
 
@@ -2075,25 +2043,17 @@ II.- Siendo poseedor derivado de una cosa mueble, no la devuelva cuando debiera 
 
 Al que engañando a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido, se le impondrán las siguientes penas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 I.- Prisión de 3 meses a 4 años y hasta 180 días multa cuando el valor de lo defraudado sea hasta 600 veces el salario mínimo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 II.- Prisión de 4 a 10 años y de 180 hasta 500 días multa, cuando el valor de lo defraudado sea mayor de 600 y hasta 1200 veces el salario mínimo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 III.- Prisión de 10 a 15 años y de 500 hasta 750 días multa, cuando el valor de lo defraudado sea mayor de 1200 veces el salario mínimo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
@@ -2539,13 +2499,9 @@ Al que públicamente provoque a cometer un delito o haga la apología de éste, 
 
 ARTICULO 229 BIS.- (DEROGADO, P.O. 6 DE AGOSTO DE 1992)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
 ### CAPITULO V. DELITOS CONTRA LOS SERVICIOS DE EMERGENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
 
@@ -3553,7 +3509,7 @@ Al que usare uniformes oficiales, condecoraciones, grados jerárquicos, distinti
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-ARTICULO 295 BIS.- Comete delito de abuso de autoridad, el servidor público que:
+ARTÍCULO 295 BIS.- Comete delito de abuso de autoridad, el servidor público que:
 
 I. Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con este objeto;
 
@@ -3566,6 +3522,10 @@ IV. Encargado de una fuerza pública requerido legalmente por una autoridad comp
 V. Con cualquier pretexto, obtenga de un subalterno parte de los sueldos de éste, dádivas o algún servicio indebido; o
 
 VI. Haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente.
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Al que cometa el delito de abuso de autoridad se le aplicará prisión de 1 a 6 años y de 30 a 300 días multa, penas que se aumentarán hasta en una mitad más por el caso previsto en la fracción VI de este artículo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
