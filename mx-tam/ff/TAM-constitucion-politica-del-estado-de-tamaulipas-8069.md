@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2017-09-14"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -35,11 +35,7 @@ Que el H. Congreso del Estado ha decretado lo siguiente:
 
 "La XXVII Legislatura del Estado con su carácter de Constituyente, ha tenido a bien expedir la siguiente
 
-CONSTITUCION POLITICA
-
-DEL
-
-ESTADO DE TAMAULIPAS
+CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
 ## TITULO I. DEL ESTADO Y SUS HABITANTES
 
@@ -2473,7 +2469,9 @@ Este organismo no será competente tratándose de asuntos electorales y jurisdic
 
 La Comisión de Derechos Humanos del Estado de Tamaulipas tendrá un Consejo Consultivo integrado por seis Consejeros, quienes serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. La ley determinará los procedimientos a seguir para la presentación de las propuestas respectivas.
 
-La elección del titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas y del Consejo Consultivo, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente en los términos y condiciones que determine la ley. Tanto los miembros del Consejo Consultivo como su Presidente durarán en su cargo 4 años y podrán ser reelectos por una sola ocasión.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+La elección del titular de la presidencia de la Comisión de Derechos Humanos del Estado de Tamaulipas y del Consejo Consultivo, se ajustarán a un procedimiento de consulta pública, que deberá ser transparente en los términos y condiciones que determine la ley. Tanto los miembros del Consejo Consultivo como su Presidente durarán en su cargo 6 años y podrán ser reelectos por una sola ocasión.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 2015)</small>
 
@@ -4704,6 +4702,18 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones legales aplicables que se opongan a lo previsto en este Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIII-311 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 126 PÁRRAFO QUINTO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS 14, PÁRRAFO TERCERO; 18, FRACCIÓN II, Y 20, DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El término de seis años establecido mediante el presente Decreto para el período de encargo del Presidente y de los miembros del Consejo Consultivo de la Comisión de Derechos Humanos, empezará a surtir efectos a partir de los subsecuentes nombramientos que se deriven de la sustitución de los actuales encargos de las figuras jurídicas antes referidas.
 
 ###### ARTÍCULO SEXTO.
 
