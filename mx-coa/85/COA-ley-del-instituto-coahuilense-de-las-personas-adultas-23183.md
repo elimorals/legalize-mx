@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-las-personas-adultas-23183"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-11"
-last_updated: "2013-03-22"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 2001.
 
@@ -107,65 +107,69 @@ XXI. Impulsar y difundir, entre las familias y la sociedad en su conjunto, una c
 
 XXII. Diseñar y organizar foros de apoyo a las familias de las personas adultas mayores, a fin de proporcionarles los mecanismos y las herramientas necesarias para la atención que les ofrezcan dentro del seno familiar.
 
-XXIII. Promover, en el ámbito de su competencia y ante las instancias que correspondan, el desarrollo de metodologías y estrategias para la capacitación y el adiestramiento en y para el trabajo dirigido a las personas adultas mayores.
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXIV. Promover el establecimiento de agencias de empleo para personas adultas mayores.
+XXIII. Fomentar la práctica de las actividades que propicien la superación física, intelectual, cultural, profesional y económica del adulto mayor;
 
-XXV. Diseñar y, en su caso, implementar en coordinación con las instancias que correspondan, cursos de readiestramiento orientados a las personas adultas mayores.
+XXIV. Promover, en el ámbito de su competencia y ante las instancias que correspondan, el desarrollo de metodologías y estrategias para la capacitación y el adiestramiento en y para el trabajo dirigido a las personas adultas mayores.
 
-XXVI. Promover e impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios para las personas adultas mayores.
+XXV. Promover el establecimiento de agencias de empleo para personas adultas mayores.
 
-XXVII. Impulsar ante las instancias que correspondan la prestación de servicios suficientes, eficientes y adecuados de apoyo a las personas adultas mayores.
+XXVI. Diseñar y, en su caso, implementar en coordinación con las instancias que correspondan, cursos de readiestramiento orientados a las personas adultas mayores.
 
-XXVIII. Promover ante las autoridades competentes que los materiales educativos y sus contenidos fomenten el respeto y la dignidad a las personas adultas mayores.
+XXVII. Promover e impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios para las personas adultas mayores.
 
-XXIX. Impulsar y promover ante las autoridades competentes que se aliente, mediante el establecimiento de programas educativos específicos, la continuidad de los procesos de enseñanza-aprendizaje para personas adultas mayores.
+XXVIII. Impulsar ante las instancias que correspondan la prestación de servicios suficientes, eficientes y adecuados de apoyo a las personas adultas mayores.
 
-XXX. Promover la inclusión en los contenidos educativos de las carreras universitarias afines a ellas, las materias de gerontología y de geriatría.
+XXIX. Promover ante las autoridades competentes que los materiales educativos y sus contenidos fomenten el respeto y la dignidad a las personas adultas mayores.
 
-XXXI. Impulsar ante las universidades de la entidad, la enseñanza a las personas adultas mayores, mediante cursos especiales, de contenidos académicos específicos a sus necesidades.
+XXX. Impulsar y promover ante las autoridades competentes que se aliente, mediante el establecimiento de programas educativos específicos, la continuidad de los procesos de enseñanza-aprendizaje para personas adultas mayores.
 
-XXXII. Propiciar el acceso de las personas adultas mayores a los programas sociales y culturales que se establezcan en la entidad o que el propio Instituto promueva.
+XXXI. Promover la inclusión en los contenidos educativos de las carreras universitarias afines a ellas, las materias de gerontología y de geriatría.
 
-XXXIII. Promover la realización de espectáculos públicos, culturales, deportivos y de recreación y/o esparcimiento.
+XXXII. Impulsar ante las universidades de la entidad, la enseñanza a las personas adultas mayores, mediante cursos especiales, de contenidos académicos específicos a sus necesidades.
 
-XXXIV. Promover ante las autoridades estatales en materia de salud, así como ante instituciones de salud privadas y/o sociales, el acceso de las personas adultas mayores a servicios integrales y eficientes de atención, considerando las características particulares de su ciclo de vida, condición social y ubicación geográfica.
+XXXIII. Propiciar el acceso de las personas adultas mayores a los programas sociales y culturales que se establezcan en la entidad o que el propio Instituto promueva.
 
-XXXV. Promover, en el ámbito de su competencia y ante las instancias que correspondan la ejecución de acciones de combate a la pobreza, marginación y exclusión de las personas adultas mayores, especialmente las del medio rural.
+XXXIV. Promover la realización de espectáculos públicos, culturales, deportivos y de recreación y/o esparcimiento.
 
-XXXVI. Gestionar lo conducente para que las despensas que las dependencias y entidades de la administración pública estatal entreguen a las personas adultas mayores, reúnan las condiciones y balances alimenticios para que aquéllas puedan disfrutar de ellas.
+XXXV. Promover ante las autoridades estatales en materia de salud, así como ante instituciones de salud privadas y/o sociales, el acceso de las personas adultas mayores a servicios integrales y eficientes de atención, considerando las características particulares de su ciclo de vida, condición social y ubicación geográfica.
 
-XXXVII. Promover acciones que tengan por objeto el reconocimiento social a las aportaciones de las personas adultas mayores y a su participación en todos los ámbitos de la vida social.
+XXXVI. Promover, en el ámbito de su competencia y ante las instancias que correspondan la ejecución de acciones de combate a la pobreza, marginación y exclusión de las personas adultas mayores, especialmente las del medio rural.
 
-XXXVIII. Impulsar en los medios de comunicación una cultura de respeto y dignificación a las personas adultas mayores.
+XXXVII. Gestionar lo conducente para que las despensas que las dependencias y entidades de la administración pública estatal entreguen a las personas adultas mayores, reúnan las condiciones y balances alimenticios para que aquéllas puedan disfrutar de ellas.
 
-XXXIX. Gestionar financiamientos para apoyar el desarrollo de programas y proyectos de instituciones, organizaciones sociales y no gubernamentales que beneficien a las personas adultas mayores.
+XXXVIII. Promover acciones que tengan por objeto el reconocimiento social a las aportaciones de las personas adultas mayores y a su participación en todos los ámbitos de la vida social.
 
-XL. Solicitar asesoría de organizaciones nacionales e internacionales que apoyen proyectos dirigidos a las personas adultas mayores.
+XXXIX. Impulsar en los medios de comunicación una cultura de respeto y dignificación a las personas adultas mayores.
 
-XLI. Promover ante las instancias que correspondan, la capacitación de cuadros médicos y de personal de apoyo para la atención especializada de las personas adultas mayores.
+XL. Gestionar financiamientos para apoyar el desarrollo de programas y proyectos de instituciones, organizaciones sociales y no gubernamentales que beneficien a las personas adultas mayores.
 
-XLII. Asesorar y apoyar a los municipios de la entidad que lo soliciten, en la elaboración de los programas que formulen orientados a las personas adultas mayores.
+XLI. Solicitar asesoría de organizaciones nacionales e internacionales que apoyen proyectos dirigidos a las personas adultas mayores.
 
-XLIII. Promover, ante los gobiernos estatal y municipales, que las leyes de ingresos correspondientes prevean tarifas o cuotas accesibles a las personas adultas mayores.
+XLII. Promover ante las instancias que correspondan, la capacitación de cuadros médicos y de personal de apoyo para la atención especializada de las personas adultas mayores.
+
+XLIII. Asesorar y apoyar a los municipios de la entidad que lo soliciten, en la elaboración de los programas que formulen orientados a las personas adultas mayores.
+
+XLIV. Promover, ante los gobiernos estatal y municipales, que las leyes de ingresos correspondientes prevean tarifas o cuotas accesibles a las personas adultas mayores.
 
 En todo caso, el Congreso del Estado determinará, atendiendo a los principios de equidad y justicia social, las condiciones y los requisitos para que las personas adultas mayores tengan derecho a la aplicación en su favor de las tarifas autorizadas.
 
-XLIV. Promover y celebrar acuerdos de coordinación y convenios de concertación y colaboración con los representantes de los sectores público, privado y social, así como con instituciones educativas y de investigación públicas o privadas que se requieran para el cumplimiento de su objeto, de conformidad con las disposiciones aplicables.
+XLV. Promover y celebrar acuerdos de coordinación y convenios de concertación y colaboración con los representantes de los sectores público, privado y social, así como con instituciones educativas y de investigación públicas o privadas que se requieran para el cumplimiento de su objeto, de conformidad con las disposiciones aplicables.
 
-XLV. Celebrar convenios y/o contratos con los prestadores del servicio público de transporte, con centros comerciales, instituciones médicas, instituciones bancarias y demás negociaciones prestadoras de bienes y servicios, para el efecto de que otorguen a las personas adultas mayores concesiones, prerrogativas y/o servicios especiales.
+XLVI. Celebrar convenios y/o contratos con los prestadores del servicio público de transporte, con centros comerciales, instituciones médicas, instituciones bancarias y demás negociaciones prestadoras de bienes y servicios, para el efecto de que otorguen a las personas adultas mayores concesiones, prerrogativas y/o servicios especiales.
 
-XLVI. Canalizar a las personas adultas mayores ante las instancias que correspondan, para el efecto de que éstas reciban asesoría y orientación jurídica, psicológica, de salud, ocupacional y demás de naturaleza similar.
+XLVII. Canalizar a las personas adultas mayores ante las instancias que correspondan, para el efecto de que éstas reciban asesoría y orientación jurídica, psicológica, de salud, ocupacional y demás de naturaleza similar.
 
-XLVII. Instrumentar y operar un sistema de identificación de las personas adultas mayores, para el efecto de otorgarles el documento mediante el cual acrediten su calidad y se encuentren en posibilidad de recibir las concesiones, prerrogativas y estímulos que se determinen a su favor.
+XLVIII. Instrumentar y operar un sistema de identificación de las personas adultas mayores, para el efecto de otorgarles el documento mediante el cual acrediten su calidad y se encuentren en posibilidad de recibir las concesiones, prerrogativas y estímulos que se determinen a su favor.
 
 Este documento será independiente de cualquiera otro que otorguen las dependencias y entidades de los gobiernos federal y/o municipales.
 
-XLVIII. Integrar un acervo de documentación en las materias que resulten necesarias, a fin de que las personas adultas mayores que lo requieran, se encuentren en posibilidad de consultarla.
+XLIX. Integrar un acervo de documentación en las materias que resulten necesarias, a fin de que las personas adultas mayores que lo requieran, se encuentren en posibilidad de consultarla.
 
-XLIX. Apoyar en la esfera de su competencia, a los asilos y casas de asistencia para personas adultas mayores.
+L. Apoyar en la esfera de su competencia, a los asilos y casas de asistencia para personas adultas mayores.
 
-L. Las demás que le confiera esta ley u otras disposiciones aplicables.
+LI. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. EL PATRIMONIO DEL INSTITUTO
 
@@ -690,3 +694,11 @@ SEGUNDO. El Instituto Coahuilense de las Personas Adultas Mayores, no pierde el 
 TERCERO. En un plazo de 120 días el Consejo Directivo reformara lo conducente a los reglamentos interiores del instituto que refiere el presente decreto, Hasta en tanto los cargos previstos en los mismos se entenderán conferidos en los términos y bajo la denominación que el presente decreto les confiere.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 1006.- SE ADICIONA LA FRACCIÓN XXIII RECORRIENDO LAS SUBSECUENTES, DEL ARTÍCULO 3º DE LA LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
