@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2017-01-26"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -659,6 +657,36 @@ La promoción turística no deberá restringirse a los sitios del Estado que ya 
 
 La Secretaría promoverá la celebración de convenios de colaboración con los medios masivos de comunicación regionales para instrumentar y apoyar las campañas de publicidad de los atractivos turísticos locales, así como de las actividades, eventos y espectáculos de carácter turístico del Estado.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 54 BIS.
+
+1. La inversión turística es la aplicación o colocación de bienes o capital con fines turísticos productivos.
+
+2. La Secretaría establecerá en el mes de septiembre de cada año el Plan de Trabajo, en el que se registrará el proyecto de inversión turística en el Estado, con el objetivo de gestionar los recursos necesarios para generar medidas que busquen el desarrollo económico y social del sector.
+
+3. La Secretaría fomentará el desarrollo de inversión en el Estado a través del diseño de políticas públicas enfocadas a dicho fin.
+
+4. La Secretaría, conjuntamente con asociaciones civiles, instituciones públicas, privadas y sociales, organismos gubernamentales federales, estatales y municipales, en función de sus respectivas competencias, promoverá a través de las herramientas que le competa el desarrollo de micro, pequeñas y medianas empresas con el objetivo de contribuir a la creación de empleos y oferta turística competitiva en el sector.
+
+5. Se deberán desarrollar programas de mejora de infraestructura turística que creen las condiciones que permitan el desarrollo de la inversión turística en el Estado, así como el aumento en la competitividad en el sector.
+
+6. La Secretaría, conjuntamente y en coordinación con asociaciones civiles, instituciones públicas, sociales y privadas, organismos gubernamentales federales, estatales y municipales, deberá detectar así como promover oportunidades de inversión en el sector turístico del Estado.
+
+7. Todas aquellas instituciones públicas, sociales o privadas y organismos que dentro de sus planes, programas o acciones contemplen o tengan como finalidad la promoción o desarrollo del sector turístico en el Estado, deberán consultar a la Secretaría, con el objetivo de homologar y potencializar los esfuerzos para desarrollar el sector.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 54 TER.
+
+Las dependencias y entidades de la Administración Pública Estatal y Municipal deberán:
+
+l. Otorgar a los inversionistas y prestadores de servicios turísticos las facilidades necesarias, a fin de agilizar los trámites y procedimientos por ventanilla única para el cumplimiento de sus obligaciones; así como para la obtención de los apoyos a que se refiere esta Ley;
+
+II. Simplificar y, en su caso, adecuar los trámites de procedimientos que incidan en la instalación, funcionamiento y fomento de los servicios turísticos, en tanto basten para ello disposiciones administrativas o resoluciones de los titulares respectivos; y
+
+III. Cuando dichos trámites deban cumplirse en varias unidades administrativas de una misma dependencia, ésta adoptará las medidas para establecer una sola ventanilla para su atención y despacho.
+
 ## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
 ### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
@@ -671,9 +699,15 @@ Corresponde a la Secretaría operar en el Estado el Registro Nacional de Turismo
 
 Los Municipios proporcionarán a la Secretaría la información necesaria para la integración del Registro Turístico de Tamaulipas, según lo determine el Reglamento.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 57.
 
-La Secretaría impulsará la competitividad turística del Estado a través del desarrollo de los estudios, programas y proyectos para mejorar la experiencia de los turistas y visitantes, así como las capacidades de los prestadores de servicios turísticos, entre otros, a través del mejoramiento de la calidad de los servicios turísticos; la certificación de los prestadores de servicios en programas federales; el mejoramiento de la imagen urbana; la puesta en valor de nuevos espacios para la práctica de la actividad turística y recreativa y el impulso del mejoramiento de las condiciones generales de la entidad como destino turístico.
+1. La competitividad turística es la capacidad y habilidad para crear, ofrecer y sostener actividades, productos y servicios turísticos con el valor añadido que permitan generar desarrollo económico y social del Estado, en un marco de competencia nacional e internacional, basado en los principios de rentabilidad, sustentabilidad, evaluación continua, entre otros que se consideren necesarios.
+
+2. La Secretaría impulsará la competitividad turística del Estado a través del desarrollo de los estudios, programas y proyectos para mejorar la experiencia de los turistas y visitantes, así como las capacidades de los prestadores de servicios turísticos, entre otros, a través del mejoramiento de la calidad de los servicios turísticos; la certificación de los prestadores de servicios en programas federales; el mejoramiento de la imagen urbana; la puesta en valor de nuevos espacios para la práctica de la actividad turística y recreativa y el impulso del mejoramiento de las condiciones generales de la entidad como destino turístico.
+
+3. La Secretaría elaborará anualmente el Índice de Competitividad Turística del Estado de Tamaulipas, y para ello podrá apoyarse en las principales instituciones educativas del Estado y deberá tomar en cuenta como mínimo los principios básicos señalados en el presente artículo, así como los criterios y estándares establecidos por el Foro Económico Mundial en su Índice de Competitividad Turística.
 
 ###### ARTÍCULO 58.
 
@@ -1010,6 +1044,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 13 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-307 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 57; Y SE ADICIONAN LOS ARTÍCULOS 54 BIS Y 54 TER DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
