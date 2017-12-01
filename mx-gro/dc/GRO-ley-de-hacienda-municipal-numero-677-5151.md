@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2016-11-29"
+last_updated: "2017-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DE HACIENDA MUNICIPAL NUMERO 677
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 492 DE HACIENDA MUNICIPAL DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE HACIENDA MUNICIPAL NÚMERO 677
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -1754,3 +1756,15 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en el portal electrónico del Poder Legislativo del Estado y en dos diarios de mayor circulación en el Estado para su conocimiento general.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 492 DE HACIENDA MUNICIPAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se abroga la Ley de Hacienda Municipal número 677, publicada en el Periódico Oficial del Gobierno del Estado número 1 Alcance, de fecha 3 de enero de 1984.
+
+TERCERO.- Remítase al Titular del Ejecutivo del Estado para los efectos legales procedentes.
+
+CUARTO.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado de Guerrero.
