@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2017-05-08"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -57,7 +59,7 @@ El derecho a la protección de la salud comprende:
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-l.- El bienestar físico y mental de las personas, desde el momento mismo de la concepción;
+I.- El bienestar físico y mental de las personas, desde el momento mismo de la concepción;
 
 II.- La prolongación y el mejoramiento de la calidad de la vida humana;
 
@@ -323,8 +325,6 @@ XXIV.- Expediente Clínico Electrónico.- El repositorio de los datos del pacien
 
 El Sistema Estatal de Salud está constituido por las dependencias y entidades del Estado y las personas físicas o morales de los sectores social y privado que presten servicios de salud, así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho a la protección de la salud.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ARTICULO 6° BIS.- Los médicos, enfermeras, técnicos, personal administrativo, de laboratorio, de farmacia, auxiliares, prestadores de servicio social y toda persona que forme parte del Sistema Estatal de Salud, podrán hacer valer la objeción de conciencia, y excusarse de participar en tratamientos, actividades, prácticas, programas, métodos, investigaciones o intervenciones que contravengan su libertad de conciencia, siempre y cuando lo hagan por escrito y con anterioridad al hecho objetable ante el director de la clínica, hospital o institución de salud respectiva, quien la hará llegar al Comité de Bioética de la Institución a fin de escuchar su opinión y recomendaciones.
@@ -332,8 +332,6 @@ ARTICULO 6° BIS.- Los médicos, enfermeras, técnicos, personal administrativo,
 Cuando la negativa del objetor de conciencia implique poner en riesgo la vida o salud del paciente, y éste no pueda ser debidamente atendido por otros integrantes del sistema de salud, el objetor no podrá hacer valer su derecho y deberá aplicar las medidas necesarias que correspondan a su cargo y funciones; en caso de no hacerlo, incurrirá en responsabilidad profesional, independientemente de la responsabilidad civil, penal o de otro tipo en que pudiera incurrir.
 
 La Secretaría, a propuesta de la Comisión Estatal de Bioética, emitirá los lineamientos para manifestar la objeción de conciencia, sin que se limite el ejercicio de este derecho o se genere discriminación laboral hacia quien lo haga valer.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -361,8 +359,6 @@ VII.- Coadyuvar a la modificación de los patrones culturales que determinen há
 
 VIII.- En general, prestar con eficiencia los servicios de salubridad general y local, así como realizar las acciones de regulación y control sanitario en los términos de esta ley y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 8°.
@@ -375,13 +371,9 @@ II.- Coordinar los programas de servicios de salud de las dependencias y entidad
 
 III.- Establecer y coordinar el Consejo General de Salud, con el fin de asesorar al Ejecutivo del Estado en materia de salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 IV.- Definir los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -393,8 +385,6 @@ VII.- Promover, coordinar y realizar la evaluación de programas y servicios de 
 
 VIII.- Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 IX.- Diseñar y elaborar el Programa Estatal de Salud;
@@ -404,8 +394,6 @@ X.- Formular recomendaciones a las dependencias competentes sobre la asignación
 XI.- Impulsar las actividades científicas y tecnológicas en el campo de la salud;
 
 XII.- Coadyuvar, con las dependencias federales competentes, en la regulación y control de la transferencia de tecnología en materia de salud;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -417,37 +405,25 @@ XV.- Coordinar la participación de las instituciones de salud y educativas, par
 
 XVI.- Coadyuvar para que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 XVII.- Promover e impulsar la participación de la comunidad en el cuidado de su salud;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 XVIII.- Ejecutar el Programa Nacional para la Prevención y el Tratamiento de la Fármacodependencia, que al efecto expida la Secretaría de Salud del Gobierno Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 XIX.- Fomentar en coordinación con la Secretaría de Salud Federal, con las instituciones públicas o privadas, la participación comunitaria y familiar en la prevención y tratamiento de la fármacodependencia, a fin de planear, programar, ejecutar y evaluar los programas y acciones relacionados con la fármacodependencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 XX.- Crear centros especializados en el tratamiento, atención y rehabilitación de farmacodependientes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 XXI.- Crear y mantener actualizado un padrón de instituciones y organismos públicos o privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -491,19 +467,13 @@ D).- Llevar a cabo los programas y acciones en materia de salubridad general;
 
 E).- Elaborar información estadística y proporcionarla a las autoridades competentes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 F).- Consolidar la cobertura universal en la prestación de los servicios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 G).- La prevención del consumo de narcóticos y tratamiento de fármacodependencia; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -740,6 +710,10 @@ XIV.- Las demás que establezcan otras disposiciones legales aplicables.
 ###### ARTICULO 18.
 
 La atención médica se proporcionará en establecimientos en los que se desarrollen actividades preventivas, curativas y de rehabilitación, para conservar o reintegrar la salud física y mental de las personas.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+El personal que brinde la atención médica a que hace referencia el párrafo anterior, se ajustará a lo previsto en el Capítulo I, del Título Cuarto de la presente Ley.
 
 ###### ARTICULO 19.
 
@@ -1142,6 +1116,10 @@ Quienes ejerzan las actividades profesionales, técnicas, auxiliares y las espec
 Para la eficaz prestación del servicio social de pasantes de las profesiones para la salud, se establecerán mecanismos de coordinación entre las autoridades sanitarias y las educativas, con la participación que corresponda a otras dependencias.
 
 La Secretaría, en coordinación con las instituciones educativas, definirán los mecanismos para que los pasantes de las profesiones para la salud, participen en la organización y operación de los comités de salud.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Todos los pasantes de las profesiones para la salud y sus ramas deberán prestar el servicio social en los términos de las disposiciones legales aplicables.
 
 ### CAPITULO UNICO
 
@@ -1681,8 +1659,6 @@ II.- La educación y difusión sobre los efectos negativos del uso de estupefaci
 
 III.- La educación e instrucción a la familia y a la comunidad sobre la forma de reconocer los síntomas de la farmacodependencia y adoptar las medidas oportunas para su prevención y tratamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 La información que reciba la población deberá estar basada en estudios científicos y le proveerá de información clara sobre los efectos y daños físicos y psicológicos que produce el consumo de estupefacientes o los psicotrópicos.
@@ -1710,8 +1686,6 @@ b) La carpintería, ebanistería, encuadernación y tapicería;
 c) La hojalatería y pintura automotriz o similares; y
 
 d) Los que en sus procesos de producción o de prestación de servicios utilicen dichas sustancias o similares y que produzcan efectos análogos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -1875,8 +1849,6 @@ I.- Los responsables de los establecimientos;
 
 II.- La construcción, reconstrucción, modificación o acondicionamiento de todo tipo de edificación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 III.- La inhumación, exhumación, cremación y traslado de restos áridos
@@ -1980,8 +1952,6 @@ El certificado de salud se extenderá a toda persona sana, previo examen médico
 ###### ARTICULO 133
 
 Los certificados de nacido vivo se expedirán con el carácter obligatorio por los profesionales de la medicina o personas autorizadas de las instituciones de salud del sector público, social y privado, para todo recién nacido que registre signos de vida.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2205,8 +2175,6 @@ Impuesto el arresto, se comunicará la resolución a la autoridad correspondient
 
 ### CAPITULO SEGUNDO. DE LA DONACION, PROCURACION, ASIGNACION, DISTRIBUCION, TRASPLANTE Y DESTINO FINAL DE ORGANOS Y COMPONENTES ANATOMICOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 163.
@@ -2252,8 +2220,6 @@ En los casos de clausura temporal o definitiva, parcial o total, el personal com
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, se formulará la denuncia ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
 ### CAPÍTULO TERCERO. DEL CONSEJO ESTATAL DE TRASPLANTES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2351,15 +2317,11 @@ El Gobierno del Estado, por conducto de la Secretaría de Salud y el titular del
 
 Igualmente, se propiciarán las medidas tendentes a estrechar vínculos en la materia con los diversos Consejos que funcionen en los Estados de la República y el Distrito Federal; con las instituciones de educación superior; facultades de medicina, colegios y academias médicas legalmente reconocidas; y en sí, con toda aquella institución vinculada a la salud humana que coadyuve al desarrollo integral de la cultura de la donación de órganos, tejidos y células humanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 186.
 
 El Consejo Estatal de Trasplantes se ocupará de promover y apoyar las acciones en materia de trasplantes de órganos, tejidos y células humanos que se realicen en las instituciones de salud de los sectores público, social y privado; impulsar la reducción de la morbilidad y mortalidad por padecimientos susceptibles de ser corregidos mediante el procedimiento quirúrgico de trasplante; y alentar las acciones educativas para fomentar la cultura de la donación altruista de órganos, tejidos y células humanos en los supuestos que la ley lo permita.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2371,235 +2333,157 @@ Para los efectos de este Título, se entiende por:
 
 I. Aféresis: el procedimiento practicado por instituciones médicas que cuenten con bancos de sangre o servicios de transfusión, para la separación de componentes de la sangre provenientes de un proveedor único, mediante centrifugación directa o mediante equipo de flujo continuo o discontinuo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 II. Asignación: El proceso mediante el cual el Comité Interno de Trasplantes selecciona los receptores de órganos y tejidos, obtenidos de un donador que haya perdido la vida;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 III. Autotrasplante: Trasplante que consiste en obtener un órgano o tejido del propio paciente y volverlo a implementar en él;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 IV. Banco de órganos y tejidos: El establecimiento que tenga como finalidad primordial la obtención de órganos y tejidos humanos para su preservación y suministro terapéutico;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 V. Banco de sangre: El establecimiento autorizado para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus derivados;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 VI. Cadáver: El cuerpo humano en el que se ha comprobado la muerte;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 VII. Célula: La unidad anatómica y funcional de todo humano;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 VIII. Células germinales: Las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 IX. Célula precursora hematopoyética: También llamada célula madre hematopoyética, la encargada de formar, desarrollar y madurar los elementos celulares de la sangre: eritrocitos, leucocitos y plaquetas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 X. Células Precursoras: Las células multipotenciales que pueden diferenciarse en diversos tipos celulares;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XI. Certificado de defunción: El documento expedido por el médico que practicó los exámenes en el cadáver;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XII. Componentes: La matriz estructural que contiene el cuerpo humano, con excepción de los productos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XIII. Componentes sanguíneos: Los elementos de la sangre y demás sustancias que la conforman;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XIV. Concentrados celulares: Las células que se obtienen de los tejidos humanos en los términos que son útiles;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XV. Consentimiento para la donación de órganos, tejidos y células: El documento a través del cual se manifiesta la voluntad de donación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XVI. Coordinación Institucional: La representación nombrada por cada institución de salud en el Estado ante la Secretaría con el fin de atender en el ámbito de su competencia, las políticas en salud en materia de donación y trasplantes de órganos, tejidos y células;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XVII. Coordinador Hospitalario de donación de órganos, tejidos y células para trasplante: El médico especialista o general, debidamente acreditado por la Secretaría de Salud que realiza las funciones de procuración a que se refiere esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XVIII. Derivados de la sangre: Los productos obtenidos de la misma que tienen aplicación terapéutica, diagnóstica o de investigación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XIX. Destino final: La conservación permanente, inhumación, incineración, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres humanos, incluyendo de los embriones y fetos, en condiciones sanitarias permitidas por la Ley General de Salud y demás disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XX. Disponente Secundario: Alguna de las siguientes personas: el o la cónyuge, el concubinario o la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, conforme a la prelación señalada. Los disponentes secundarios podrán otorgar el consentimiento a que se refiere la presente fracción, cuando el donador no pueda manifestar su voluntad al respecto;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXI. Disposición: El conjunto de actividades relativas a la obtención, extracción, análisis, conservación, preparación, suministro, utilización y destino final de órganos, tejidos, componentes de tejidos, células, productos y cadáveres de seres humanos, con fines terapéuticos, de docencia o investigación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXII. Distribución: Proceso a través del cual se determina el establecimiento de salud donde serán trasplantados los órganos y tejidos, obtenidos de un donador fallecido;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXIII. Donación expresa: La autorización por escrito mediante la cual el donante autoriza la disposición de sus órganos, tejidos, células o demás componentes; ésta puede recaer a favor de determinada persona o institución; asimismo, puede establecer las circunstancias de modo, lugar y tiempo para dichos efectos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXIV. Donación tácita: la ausencia de manifestación negativa de una persona para que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga el consentimiento de las personas que establece esta ley;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXV. Donador o disponente: Al que tácita o expresamente consiente la disposición en vida o para después de su muerte, de su cuerpo o de sus órganos, tejidos y células, conforme a lo dispuesto en esta ley y demás disposiciones jurídicas aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXVI. Embrión: El producto de la concepción, a partir de ésta y hasta el término de la duodécima semana gestacional;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXVII. Feto: El producto de la concepción, a partir de decimotercera semana de edad gestacional, hasta la expulsión del seno materno;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXVIII. Implante: Al procedimiento terapéutico consistente en la sustitución de una parte del cuerpo por material biológico nativo o procesado, o bien sintético, y sin que se desempeñe alguna función que requiera la persistencia viva de lo sustituido;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXIX. Institución de salud: La agrupación de establecimientos de salud bajo una misma estructura de mando y normativa;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXX. Órgano: La entidad anatómica, compuesta por tejidos diferentes, que mantiene de modo autónomo su estructura, y capacidad de desarrollar funciones fisiológicas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXXI. Potencial receptor: La persona que por razones terapéuticas requiere de un órgano, tejido o células humanos mediante un trasplante;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXXII. Preservación: La utilización de agentes químicos y/o modificación de las condiciones del medio ambiente durante la extracción, envase, traslado o trasplante de órganos, tejidos o células, con el propósito de impedir o retrasar su deterioro;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXXIII. Procuración: Proceso y las actividades dirigidas a promover la obtención oportuna de órganos, tejidos y células donados para su trasplante;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXXIV. Producto: Todo tejido o sustancia extruida, excretada o expedida por el cuerpo humano como resultante de procesos fisiológicos normales. Para efectos de este Título, serán considerados productos, la placenta y los anexos de la piel;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXXV. Receptor: La persona que recibe para su uso terapéutico un órgano, tejido, células o productos humanos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXXVI. Tejidos: La entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñan una misma función;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXXVII. Terapéutica: La rama de la medicina que establece los principios aplicables y los medicamentos o medios para el tratamiento de las enfermedades en forma racional;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXXVIII. Trasplante: La trasferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo u otro y que se integren al organismo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXXIX. Trazabilidad: La capacidad de localizar e identificar los órganos y tejidos en cualquier momento desde la donación, y en su caso hasta el trasplante.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2615,8 +2499,6 @@ III.- Ausencia de los reflejos del tallo cerebral, manifestado por arreflexia pu
 
 Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ARTICULO 187 TER.- Los signos clínicos de la muerte encefálica deberán corroborarse por cualquiera de las siguientes pruebas:
@@ -2624,8 +2506,6 @@ ARTICULO 187 TER.- Los signos clínicos de la muerte encefálica deberán corrob
 I.- Electroencefalograma que demuestre ausencia total de actividad eléctrica, corroborado por un médico especialista; o
 
 II.- Cualquier otro estudio de gabinete que demuestre en forma documental la ausencia permanente de flujo encefálico arterial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2643,8 +2523,6 @@ Para la aplicación de este ordenamiento se considera de naturaleza supletoria l
 
 La Secretaría de Salud del Estado queda facultada para realizar la interpretación administrativa de esta ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ### CAPITULO SEXTO. DEL PROCEDIMIENTO OBLIGATORIO PARA TRASPLANTES
@@ -2653,15 +2531,11 @@ La Secretaría de Salud del Estado queda facultada para realizar la interpretaci
 
 #### SECCIÓN PRIMERA. DE LA DONACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 190.
 
 Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, para los fines y con los requisitos previstos en el presente Título.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2675,19 +2549,13 @@ II. El donante y el receptor hayan sido previamente informados de las consecuenc
 
 III. El receptor del componente anatómico que vaya a ser extraído sea una persona previamente determinada; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 IV. La ablación de órganos, de tejidos o de células, no implique riesgo de capacidad funcional temporal o permanente para el donante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 En todos los casos se deberá cuidar que la donación se rija por los principios de altruismo, ausencia de ánimo de lucro y factibilidad, condiciones que se deberán manifestar en el acta elaborada para tales efectos por el comité interno respectivo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2707,8 +2575,6 @@ e).- El documento mediante el cual se manifieste el consentimiento expreso de la
 
 II.- Donación Tácita: cuando el donador no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas que se encuentren presentes: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante. Si se encontrara más de una de las personas mencionadas, se aplicará la prelación señalada en este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ARTICULO 190 TER.- Los órganos, tejidos y células susceptibles de ser donados son:
@@ -2723,19 +2589,13 @@ En el caso de la sangre, componentes sanguíneos y células progenitoras hematop
 
 La Secretaría impulsará la donación de células precursoras, para coadyuvar en el tratamiento o curación de los pacientes que las requieran.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ARTICULO 190 QUATER.- Se entenderá que una persona no es donador, cuando lo exprese por escrito privado, público o en los documentos que para este propósito expidan el Centro Estatal de Trasplantes o el Centro Nacional de Trasplantes, y que deberá estar firmado por el interesado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 #### SECCIÓN SEGUNDA. DE LA PROCURACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2757,15 +2617,11 @@ Se considerará obtención ilícita de órganos, tejidos y cadáveres de seres h
 
 Está prohibido el comercio de órganos, tejidos y células.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ARTICULO 191 BIS.- Los coordinadores hospitalarios de la donación de órganos y tejidos para trasplantes en turno, notificarán al Ministerio Público, de manera inmediata la identificación de un donante fallecido, en los casos en que la causa de la muerte se presuma vinculada con la comisión de un delito.
 
 Las autoridades involucradas, así como el personal sanitario deberán actuar con la diligencia y oportunidad que amerita el caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2789,13 +2645,9 @@ El retiro de los componentes anatómicos de un cadáver será efectuado por los 
 
 Los profesionales médicos que integren el equipo de trasplantes, o los autorizados para realizar el retiro de los componentes anatómicos de un cadáver, suscribirán por triplicado un acta en la cual dejarán constancia del estado de los componentes retirados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ARTICULO 193 BIS.- Cualquier órgano o tejido que haya sido extraído, desprendido o seccionado por intervención quirúrgica, accidente o hecho ilícito y que sanitariamente constituya un desecho, deberá ser manejado en condiciones higiénicas y su destino final se hará conforme a las disposiciones generales aplicables, salvo que se requiera para fines terapéuticos, de docencia o de investigación, en cuyo caso los establecimientos de salud podrán disponer de ellos o remitirlos a instituciones docentes autorizadas por la Secretaría de Salud del gobierno federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2803,13 +2655,9 @@ ARTICULO 193 TER.- Los órganos, tejidos y células no podrán ser sacados del t
 
 El traslado fuera del territorio nacional de tejidos de seres humanos, incluyendo la sangre, componentes sanguíneos y células progenitoras hematopoyéticas y hemoderivados, que pueda ser fuente de material genético (ácido desoxirribonucleico), para los efectos establecidos en la Ley General de Salud, requiere de permiso establecido por la Secretaría de salud del gobierno federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 #### SECCIÓN TERCERA. DE LA ASIGNACIÓN Y DISTRIBUCIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2819,15 +2667,11 @@ La asignación y la distribución de órganos, tejidos y células se realizará 
 
 En la asignación de órganos y tejidos el donador no vivo, se tomarán en cuenta la gravedad del receptor, la oportunidad del trasplante, los beneficios esperados, la compatibilidad con el receptor, y los demás criterios médicos aceptados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ARTICULO 193 QUINQUIES.- La asignación y distribución de órganos y tejidos por casos de urgencia se realizará:
 
 I.- Directamente en el establecimiento de salud donde se encuentre el paciente que lo requiera, previo dictamen del Comité Interno de Trasplantes tomando en cuenta los siguiente criterios de urgencia por órganos y tejidos:
-
-:
 
 a).- Corazón: Al paciente que se encuentra en cualquiera de los grados de insuficiencia cardiaca:
 
@@ -2863,8 +2707,6 @@ II.- A establecimientos de salud en el Estado; y
 
 III.- A cualquier institución a nivel nacional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ARTICULO 193 SEXIES.- La distribución de órganos y tejidos por establecimiento de salud, en caso de no urgencia, se hará tomando en cuenta los siguientes criterios en el orden establecido:
@@ -2880,8 +2722,6 @@ Se utilizará el Registro Estatal de Donadores tomando en cuenta la oportunidad 
 En caso de haber varios pacientes inscritos en el Registro Estatal y que de acuerdo con la oportunidad del trasplante, sean aptos para recibirlo, el órgano o tejido se asignará al que tenga mayor antigüedad en dicho Registro.
 
 Para la asignación de órganos y tejidos procedentes de donación de cadáveres pediátricos, en casos de no urgencia, se deberá a los receptores pediátricos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2910,8 +2750,6 @@ VII. Servicio de recuperación especial y exclusivo para trasplantes e injertos,
 VIII. Equipos para la conservación de órganos y componentes anatómicos para el trasplante o injerto; y
 
 IX. Grupos médicos altamente especializados en trasplantes e injertos y en las diversas ramas de la medicina relacionadas con los órganos o componentes anatómicos que fueren a trasplantarse o injertarse.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2949,19 +2787,13 @@ II.- Para realizar trasplantes de donadores no vivos, deberá cumplirse lo sigui
 
 Comprobar, previamente a la extracción de los órganos y tejidos y por un médico distinto a los que intervendrán en el trasplante o en la extracción de los órganos o tejidos, la pérdida de la vida del donante, en los términos que se precisan en este título.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LAS INSTITUCIONES HOSPITALARIAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ARTICULO 209 BIS.- Los establecimientos en los que se extraigan órganos, tejidos y células, deberán contar con un Comité Interno de Coordinación para la donación de órganos y tejidos, que será presidido por el Director General o su inmediato inferior que sea médico con alto nivel de conocimientos académicos y profesionales en la materia. Este comité será responsable de seleccionar el establecimiento de salud que cuente con un programa de trasplante autorizado, al que enviará órganos, tejidos o células, de conformidad con lo que establece la presente Ley y demás disposiciones jurídicas aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2971,19 +2803,13 @@ A su vez, los establecimientos que realicen los actos de trasplantes deberán co
 
 El Comité Interno de Trasplantes deberá coordinarse con el Comité de Bioética de la institución en los asuntos de su competencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 Es responsabilidad del Comité Interno de Trasplantes de cada institución, supervisar la actualización del registro de pacientes en los Registros Estatal y Nacional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 Los establecimientos que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas, deberán contar con un Comité de Medicina Transfusional, el cual se sujetará a las disposiciones que para tal efecto emita la Secretaría de Salud del gobierno federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -2998,8 +2824,6 @@ El Consejo es el órgano de la administración pública estatal, integrado confo
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2007)</small>
 
 El Consejo tiene una función auxiliar para la dependencia mencionada. El desempeño de sus miembros es de carácter honorífico.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3043,8 +2867,6 @@ El Presidente Ejecutivo podrá invitar a las sesiones del Consejo a representant
 
 Las sesiones serán presididas por el Presidente Honorario y en ausencia de éste, por el Presidente Ejecutivo. La Junta sesionará válidamente con la asistencia de la mayoría de sus miembros, siempre que concurra el Presidente. Sus decisiones se tomarán por mayoría de votos. En caso de empate, el Presidente tiene voto de calidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 197.
@@ -3056,8 +2878,6 @@ El Consejo Estatal de Trasplantes sesionará conforme lo establezca el Reglament
 ###### ARTICULO 198.
 
 El Consejo contará con un Secretario Técnico, que será el titular del Centro Estatal de Trasplantes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3116,8 +2936,6 @@ XII. Proponer al Ejecutivo del Estado que por conducto de las Secretarías de Sa
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2007)</small>
 
 XIII. Las demás que le señalen otras disposiciones legales de la materia y su Reglamento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3217,8 +3035,6 @@ XII. Coadyuvar con el Consejo Nacional de Trasplantes en la decisión y vigilanc
 
 XIII. Emitir opiniones, acuerdos y resoluciones técnicas relacionadas con la donación y trasplantes de órganos, tejidos y células humanos, así como con los procedimientos de los mismos, actividades relacionadas con éstas y respecto de los establecimientos en que se realicen dichos actos, ya sea de manera oficiosa, o bien, cuando éstas le sean requeridas por las autoridades sanitarias federales o estatales, así como por las autoridades judiciales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XIV. Atender los requerimientos e instrucciones del Consejo Estatal de Trasplantes en el ámbito de su competencia;
@@ -3229,45 +3045,31 @@ XVI. Coordinarse con las diferentes dependencias y autoridades federales y estat
 
 XVII. Utilizar los recursos que le sean asignados por la Secretaría de Salud, conforme a las normas administrativas que le señale esa dependencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XVIII. Celebrar los convenios que sean necesarios para el cumplimiento de sus funciones, con la autorización del Consejo Estatal de Trasplantes;
 
 XIX. Realizar las demás acciones que directa o indirectamente contribuyan al fomento de la cultura de la donación altruista de órganos, tejidos y células humanos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XX. Expedir y dejar constancia del mérito y altruismo del donador y de su familia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXI. Promover en la sociedad las aportaciones altruistas de carácter económico a favor de las actividades del Centro, orientar a los aportantes sobre las formas de realizarlo e informar al Consejo y, por su conducto, a la Secretaría de Salud, de los recursos que pueden recibirse por esa vía, a fin de que se realicen las gestiones administrativas para documentar las aportaciones y aplicarlas al desarrollo del Centro;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXII. Apoyar al Centro Nacional de Trasplantes y al Registro Nacional de Trasplantes, en coordinación de la asignación y distribución de órganos y tejidos de donador no vivo para trasplante, conforme a lo previsto en la presente Ley y en las disposiciones reglamentarias que al efecto se emitan;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXIII. Establecer procedimientos para la asignación y distribución de órganos y tejidos de donante fallecido en los términos previstos para tal efecto en las disposiciones reglamentarias; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 XXIV. Las demás que para el cumplimiento de sus funciones le confieran otros ordenamientos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3280,8 +3082,6 @@ El Centro Estatal de Trasplantes y los comités internos correspondientes en cad
 El Registro Estatal de Trasplantes de Tamaulipas tiene por objeto integrar la relación de donadores, potenciales receptores y receptores de órganos, tejidos y células humanos para trasplantes.
 
 En particular, le compete asegurar el eficaz cumplimiento y la puntual observancia de la voluntad de la persona que expresamente dona sus órganos, tejidos y células humanos en los términos previstos por la legislación aplicable.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3297,8 +3097,6 @@ IV.- Los pacientes en espera de algún órgano o tejido, integrados en bases de 
 
 V.- Los casos de pérdida de la vida por muerte encefálica o paro cardiaco irreversible.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 En los términos que precisen las disposiciones reglamentarias, los establecimientos y los profesionales de las disciplinas para la salud que intervengan en trasplantes deberán proporcionar la información relativa.
@@ -3313,15 +3111,11 @@ I. La autoridad judicial, cuando medie causa justificada;
 
 II. La autoridad sanitaria, cuando medie causa justificada;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 III. El Consejo Estatal de Trasplantes para el cumplimiento de sus funciones; y
 
 IV. Los establecimientos autorizados, conforme a la legislación aplicable, para la realización de trasplantes, en los casos y con las limitaciones que establece este ordenamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3339,19 +3133,13 @@ Los establecimientos autorizados para la realización de trasplantes en casos es
 
 En la procuración de órganos, tejidos y células humanos para trasplantes se seguirá el siguiente procedimiento, según sea el caso, sin perjuicio de la normatividad federal aplicable:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 I. Los coordinadores Hospitalarios, al detectar el ingreso a ellos pacientes en estado crítico, identificarán a los donadores potenciales, con apoyo en el personal médico correspondiente y tomarán las medidas pertinentes para determinar su viabilidad como donador; asimismo, establecerán contacto con el Centro Estatal de Trasplantes, para verificar si el donador potencial se encuentra inscrito en el Registro Estatal de Trasplantes como donador con consentimiento expreso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 II. Una vez emitido, en su caso, el diagnóstico clínico de muerte encefálica, el Coordinador Hospitalario solicitará y gestionará oportunamente la certificación de defunción para la procuración y extracción de órganos, tejidos y células humanos en los términos de la Ley General de Salud y de este ordenamiento;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3367,19 +3155,13 @@ VI. Una vez determinada la asignación, se establecerá comunicación inmediata 
 
 VII. De presentarse las condiciones óptimas para la intervención dentro del plazo más inmediato posible, se realizará el proceso de extracción y trasplante en los establecimientos de salud autorizados para tal efecto, para lo cual el Coordinador Hospitalario, conjuntamente con el Director General del propio Hospital, se asegurarán que la extracción y el trasplante se realice por equipos de profesionistas especializados con la utilización del instrumental adecuado y completo; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
 VIII. Habiéndose realizado el trasplante, el Coordinador Hospitalario dará aviso oportuno por escrito del procedimiento realizado al Centro Estatal de Trasplantes, al Registro Estatal de Trasplantes, al Centro Nacional de Trasplantes y al Registro Nacional de Trasplantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 El Centro Estatal de Trasplantes dará aviso a la Comisión Estatal para la Protección contra Riesgos Sanitarios, en caso de detectar irregularidades en el desarrollo de las atribuciones de su competencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3387,27 +3169,19 @@ El Centro Estatal de Trasplantes dará aviso a la Comisión Estatal para la Prot
 
 El Gobierno del Estado otorgará todas las facilidades posibles para el aprovechamiento de los vehículos terrestres y aéreos a su disposición, para el traslado de órganos, tejidos y células humanos destinados a ser trasplantados, así como a los potenciales receptores de la donación, cuando la urgencia del caso así lo amerite.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 El traslado de órganos, tejidos y células, adecuadamente etiquetados e identificados, podrá realizarse en cualquier medio de transporte por personal debidamente acreditado, bajo la responsabilidad del establecimiento autorizado para realizar trasplantes o para la disposición de órganos, tejidos y células.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 El traslado, preservación, conservación, manejo, etiquetado, claves de identificación y costos asociados al manejo de órganos, tejidos y células que se destinen a trasplantes, se ajustarán a lo que establezcan las disposiciones generales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 211.
 
 Los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes deberán contar con el entrenamiento especializado respectivo, conforme lo determinen las disposiciones reglamentarias aplicables, y estar inscritos en el Registro Estatal y Nacional de Trasplantes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3423,8 +3197,6 @@ III.- Los bancos de órganos, tejidos y células; y
 
 IV.- Los bancos de sangre y servicios de transfusión.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 ###### ARTICULO 213.
@@ -3432,8 +3204,6 @@ IV.- Los bancos de sangre y servicios de transfusión.
 El Control Sanitario de la disposición de sangre lo ejercerá la Secretaría de Salud del gobierno federal a través de la Comisión Federal para la Protección contra Riesgos Sanitarios.
 
 La disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de bancos de sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones aplicables. La sangre será considerada como tejido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -3724,6 +3494,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 8 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-164 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 145 BIS DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-296 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 18 Y UN PÁRRAFO TERCERO AL ARTÍCULO 47, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
