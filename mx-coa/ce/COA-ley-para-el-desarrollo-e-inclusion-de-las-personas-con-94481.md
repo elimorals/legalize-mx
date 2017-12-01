@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2017-10-06"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -135,7 +135,11 @@ XXXII. Sistema de escritura braille. Sistema para la comunicación representado 
 
 XXXIII. Transversalidad. Proceso mediante el cual se instrumentan las políticas, programas y acciones desarrollados por las dependencias y entidades de la administración pública estatal y de los municipios, que proveen bienes y servicios a la población con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
-XXXIV. Equidad de Género: Para efectos de la simplicidad gramatical, cada vez que se use el genérico masculino, se entenderá que se hace referencia a los hombres y a las mujeres por igual
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XXXIV. Trato Preferencial: Garantizar la atención prioritaria a las personas con discapacidad, para agilizar los trámites o procedimientos administrativos que realicen, evitando cualquier tipo de turno o mecanismo de espera.
+
+XXXV. Equidad de Género: Para efectos de la simplicidad gramatical, cada vez que se use el genérico masculino, se entenderá que se hace referencia a los hombres y a las mujeres por igual.
 
 ###### Artículo 3°.
 
@@ -151,7 +155,9 @@ El Ejecutivo coordinará las acciones por conducto del Sistema para el Desarroll
 
 a) Promover el goce y ejercicio pleno de los derechos de las personas con discapacidad, así como hacer de su conocimiento los canales institucionales para hacerlos exigibles ante la autoridad competente;
 
-b) Promover la accesibilidad en la infraestructura física de instalaciones públicas y los recursos técnicos, materiales y humanos necesarios para la atención segura y accesible de la población con discapacidad;
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+b) Promover la accesibilidad en la infraestructura física de instalaciones públicas y privadas, así como los recursos técnicos, materiales y humanos necesarios para la atención segura y accesible de la población con discapacidad atendiendo la modalidad de trato preferencial.
 
 c) Promover la elaboración, publicación y difusión de estudios, investigaciones, obras y materiales sobre el desarrollo e inclusión social, económico, político y cultural de las personas con discapacidad;
 
@@ -578,6 +584,10 @@ En las áreas de la vía pública donde se encuentren coladeras de cualquier ín
 ###### Artículo 46°.
 
 Los edificios públicos deberán construirse libres de barreras, debiendo considerar las dimensiones especiales para el desplazamiento de personas en silla de ruedas o muletas, permitiendo así la movilidad accesible. Los edificios ya existentes procuraran realizar las remodelaciones o adecuaciones necesarias.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Para brindar un trato preferencial a personas con discapacidad, se dispondrá de un espacio de atención inmediata, de acceso fácil y adecuado, que cuente con los señalamientos necesarios y suficientes para su rápida localización y exhiba en un lugar visible la modalidad de trato preferencial a personas con discapacidad, evitando cualquier tipo de turno o mecanismo de espera.
 
 ### Capítulo VI. Del transporte público, las comunicaciones y la tecnología
 
@@ -1206,3 +1216,11 @@ P.O. 6 DE OCTUBRE DE 2017.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1020.- SE ADICIONA LA FRACCIÓN XXXIV Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 2°, SE REFORMA EL INCISO B) DEL ARTÍCULO 3°, Y SE ADICIONA ASÍ MISMO UN PÁRRAFO SEGUNDO AL ARTÍCULO 46, TODOS DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
