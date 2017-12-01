@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-y-trato-digno-a-los-seres-sintientes-para-967
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2017-01-24"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de noviembre de 2013.
 
@@ -67,6 +67,8 @@ VII.- Apoyar la creación y funcionamiento de sociedades protectoras de animales
 
 Son objeto de tutela y protección de esta Ley todos los animales, domésticos, silvestres en cautiverio y ferales que se encuentren en el Estado de Coahuila de Zaragoza.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 4.
 
 Para los efectos de esta Ley, las siguientes expresiones se entenderán en la forma y términos que se indican:
@@ -75,83 +77,103 @@ I.- Animal: Todo ser vivo, no humano, que siente y reacciona ante el dolor y se 
 
 II.- Animal abandonado: Los animales que deambulen libremente por la vía pública sin placa de identificación, así como aquellos que se encuentren sin el control y cuidados adecuados de sus propietarios;
 
-III.- Animales domésticos: Cualquiera que por sus características evolutivas y de comportamiento puedan convivir con un ser humano en un ambiente domestico;
+III.- Animal de trabajo: Aquellos animales que se utilizan para beneficio del ser humano realizando trabajo físico, tales como, los utilizados para actividades de carga, tiro, monta, labranza, tracción; o aquellos que han sido adiestrados para obedecer instrucciones o estar condicionados a lograr fines específicos, ya sea de forma independiente o en conjunto con su tutor, como guía para personas con discapacidad, zooterapia, operativos, búsqueda de sustancias y detección de explosivos, enfermedades neoplásicas y/o de apoyo para disuasión y persecución, de guardia, de defensa, de rescate y para uso policiaco;
 
-IV.- Animales exóticos: Aquellos que se encuentran fuera de su ámbito de habitad (sic) natural, lo que incluye a los híbridos y modificados;
+IV.- Animales domésticos: Cualquiera que por sus características evolutivas y de comportamiento puedan convivir con un ser humano en un ambiente doméstico;
 
-V.- Animales ferales: Aquellos pertenecientes a especies domesticas que al quedar fuera del control del hombre, se establecen en el hábitat natural de la vida silvestre;
+V.- Animal de compañía: animal que por sus características físicas y de comportamiento puede convivir en proximidad con el ser humano, sin poner en peligro la seguridad o la vida de las personas o de otros animales; esta definición incluye solo a los perros y gatos;
 
-VI.- Animal guía: Los animales que son adiestrados con el fin de apoyar a las personas con discapacidad;
+VI.- Adopción: contrato verbal o escrito entre un tutor y una organización de carácter civil, dependencia gubernamental o particular, mediante el cual el tutor de un animal adquiere los derechos y obligaciones respecto al mismo, y cuyo objetivo será el de asegurar y proteger las condiciones futuras del animal, su destino, velando siempre por el bienestar animal;
 
-> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+VII.- Animales exóticos: Aquellos que se encuentran fuera de su ámbito de habitad natural, lo que incluye a los híbridos y modificados;
 
-VII.- Animales Potencialmente Peligrosos: Aquellos que por su conducta agresiva tengan la capacidad de causar la muerte o lesiones graves a las personas, de acuerdo a los criterios que establezca el reglamento respectivo.
+VIII.- Animales ferales: Aquellos pertenecientes a especies domesticas que al quedar fuera del control del hombre, se establecen en el hábitat natural de la vida silvestre;
 
-VIII.- Animales silvestres: Los animales no considerados especies domésticas que son originarios de áreas no urbanas;
+IX.- Animal guía: Los animales que son adiestrados con el fin de apoyar a las personas con discapacidad;
 
-IX.- Animales de exhibición: Todos aquellos, que se encuentran en cautiverio en zoológicos, aviarios, herpetarios, acuarios, ferias, granjas didácticas o cualquier otro tipo de colección de animales o especies similares ya sean de propiedad pública o privada;
+X.- Animales Potencialmente Peligrosos: Aquellos que por su conducta agresiva tengan la capacidad de causar la muerte o lesiones graves a las personas, de acuerdo a los criterios que establezca el reglamento respectivo;
 
-X.- Animales de guardia y protección: Los animales que son entrenados por personas debidamente autorizadas para realizar funciones de vigilancia, protección o guardia en establecimientos comerciales, casas-habitación o instituciones públicas y privadas, así como para ayudar a la detección de estupefacientes, armas, explosivos y demás acciones análogas;
+XI.- Animales silvestres: Según la Ley General de Vida Silvestre, las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes o ferales y por ello sean susceptibles de captura y apropiación;
 
-XI.- Animal para abasto: Todos aquellos animales que sirven para consumo y aprovechamiento del ser humano;
+XII.- Animales de exhibición: Todos aquellos, que se encuentran en cautiverio en zoológicos, aviarios, herpetarios, acuarios, ferias, granjas didácticas o cualquier otro tipo de colección de animales o especies similares ya sean de propiedad pública o privada;
 
-XII.- Animal para espectáculos: Los animales mantenidos en cautiverio que son utilizados en espectáculos públicos o privados, bajo el adiestramiento del ser humano;
+XIII.- Animal utilizado en espectáculos: Animales de cualquier especie empleados en espectáculos públicos o privados, ya sea realizando actividades para las cuales se adiestraron previamente o sólo usados como cabalgata, espectáculos taurinos, peleas de gallos, charreadas y eventos religiosos;
 
-XIII.- Animal para monta, carga y tiro: Los animales que son utilizados por el ser humano para realizar alguna actividad en el desarrollo de su trabajo y que reditúe cualquier tipo de beneficios a su propietario, poseedor o encargado;
+XIV.- Animales de guardia y protección: Los animales que son entrenados por personas debidamente autorizadas para realizar funciones de vigilancia, protección o guardia en establecimientos comerciales, casas-habitación o instituciones públicas y privadas, así como para ayudar a la detección de estupefacientes, armas, explosivos y demás acciones análogas;
 
-XIV.- Animales para la zooterapia: Son los animales que conviven con una o con un grupo de personas con fines terapéuticos y para el tratamiento de algunas enfermedades de tipo neurológico, psicológico y psiquiátrico entre otras.
+XV.- Animal para abasto: Todos aquellos animales que sirven para consumo y aprovechamiento del ser humano;
 
-XV.- Área Técnica: Área Técnica de Protección y Sanidad Animal y Control de Especies Animales;
+XVI.- Animal para espectáculos: Los animales mantenidos en cautiverio que son utilizados en espectáculos públicos o privados, bajo el adiestramiento del ser humano;
 
-XVI.- Asociaciones protectoras de animales: Las instituciones, organizaciones y asociaciones civiles legalmente constituidas que dediquen sus actividades a la protección de los animales;
+XVII.- Animales para la zooterapia: Son los animales que conviven con una o con un grupo de personas con fines terapéuticos y para el tratamiento de algunas enfermedades de tipo neurológico, psicológico y psiquiátrico entre otras;
 
-XVII.- Bienestar animal: Estado en el que el animal tiene satisfechas sus necesidades bilógicas, de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
+XVIII.- Área Técnica: Área Técnica de Protección y Sanidad Animal y Control de Especies Animales;
 
-XVIII.- Campañas: Acciones públicas realizadas de manera periódica y sistemática por la Autoridad o por quien la misma asigne, para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar la población de animales o para difundir el trato digno y respetuoso a los animales;
+XIX.- Asociaciones protectoras de animales: Las instituciones, organizaciones y asociaciones civiles legalmente constituidas que dediquen sus actividades a la protección de los animales;
 
-XIX.- Campañas Fitosanitarias: Es un conjunto de medidas fitosanitarias para la Prevención, combate y erradicación de plagas que afecten a los vegetales en un área geográfica determinada;
+XX.- Bienestar animal: Estado en el que el animal tiene satisfechas sus necesidades bilógicas, de salud, de comportamiento y fisiológicas, frente a cambios en su ambiente generalmente impuestos por el ser humano;
 
-XX.- Campañas Zoosanitarias: Es un conjunto de medidas y acciones sanitarias para prevenir, detectar, combatir, o erradicar enfermedades o plagas que afecten a los animales en un área geográfica determinada;
+XXI.- Campañas: Acciones públicas realizadas de manera periódica y sistemática por la Autoridad o por quien la misma asigne, para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar la población de animales o para difundir el trato digno y respetuoso a los animales;
 
-XXI.- Centros de Control Animal: Los lugares públicos destinados para la captura, esterilización, vacunación, desparasitación, atención médica veterinaria y albergue;
+XXII.- Campañas Fitosanitarias: Es un conjunto de medidas fitosanitarias para la Prevención, combate y erradicación de plagas que afecten a los vegetales en un área geográfica determinada;
 
-XXII.- Epizootia: Enfermedad contagiosa que ataca a un número inusual de animales al mismo tiempo y lugar que se propaga con rapidez. Término equivalente en medicina a epidemia;
+XXIII.- Campañas Zoosanitarias: Es un conjunto de medidas y acciones sanitarias para prevenir, detectar, combatir, o erradicar enfermedades o plagas que afecten a los animales en un área geográfica determinada;
 
-XXIII.- Esterilización: Proceso quirúrgico o químico, que se practica en los animales, para evitar su reproducción;
+XXIV.- Cara: Centros de atención y rehabilitación animal;
 
-XXIV.- Fauna: Es el conjunto de animales característico de una región que viven y se desarrollan en un mismo hábitat;
+XXV.- Centros de Control Animal: Los lugares públicos destinados para la captura, esterilización, vacunación, desparasitación, atención médica veterinaria y albergue;
 
-XXV.- Hábitat: Es un espacio del medio ambiente físico en el que se desarrollan organismos, especies, población o comunidades de animales en un tiempo determinado;
+XXVI.- Crueldad: acto de ensañamiento y/o de maltrato sistemático; cualquier acto u omisión directa o indirecta que provoque a un animal dolor y/o sufrimiento, provoque o no muerte al animal;
 
-XXVI.- Ley: La Ley de Protección y Trato Digno a los Animales para el Estado de Coahuila de Zaragoza;
+XXVII.- Enriquecimiento ambiental: es la adecuación del ambiente físico y social de un animal, como una parte importante para mejorar el comportamiento de estos, y debe ser considerado cuando los medios para la interacción social no están disponibles o cuando el ambiente físico de los animales se encuentra restringido;
 
-XXVII.- Maltrato: Todo hecho, acto u omisión, negligencia o descuido del ser humano, consciente o inconsciente, intencional o no, que pueda ocasionar dolor, sufrimiento, poner en riesgo la vida de un animal, su integridad o viabilidad de alguno de sus órganos o que afecten gravemente su salud;
+XXVIII.- Epizootia: Enfermedad contagiosa que ataca a un número inusual de animales al mismo tiempo y lugar que se propaga con rapidez. Término equivalente en medicina a epidemia;
 
-XXVIII.- Mascotas: Los animales que sirven de compañía al ser humano. Aquel que es mantenido por el hombre para su disfrute y que vive por sus cuidados;
+XXIX.- Espectáculo circense: aquel realizado de manera fija o itinerante dentro de una carpa movible, ya sea público o privado;
 
-XXIX.- Plaga: Aparición masiva y repentina de seres vivos de la misma especie que causan graves daños a poblaciones animales o vegetales;
+XXX.- Esterilización: Proceso quirúrgico o químico, que se practica en los animales, para evitar su reproducción;
 
-XXX.- Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o animal, conservando el equilibrio ecológico;
+XXXI.- Eutanasia: según la Norma Oficial Mexicana NOM-033-SAG/ZOO-2014, procedimiento empleado para terminar con la vida de los animales, por medio de la administración de agentes químicos o métodos mecánicos, que induzcan primero pérdida de la conciencia, seguida de paro cardiorrespiratorio, sin producirles dolor; con el fin de que éstos dejen de sufrir por lesiones o enfermedades graves e incurables, así como por dolor o sufrimiento que no puedan ser aliviados;
 
-XXXI.- Procuraduría: Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza;
+XXXII.- Fauna: Es el conjunto de animales característico de una región que viven y se desarrollan en un mismo hábitat;
 
-XXXII.- Rabia: Enfermedad viral infectocontagiosa aguda y mortal, transmitida por la saliva o sangre de algún animal contagiado;
+XXXIII.- Hábitat: Es un espacio del medio ambiente físico en el que se desarrollan organismos, especies, población o comunidades de animales en un tiempo determinado;
 
-XXXIII.- Rastro: Establecimiento de servicio público o privado, donde se realiza la matanza de animales de abasto;
+XXXIV.- Ley: La Ley de Protección y Trato Digno a los Animales para el Estado de Coahuila de Zaragoza;
 
-XXXIV.- Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario utilizando métodos físicos y/o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto;
+XXXV.- Maltrato: Todo hecho, acto u omisión, negligencia o descuido del ser humano, consciente o inconsciente, intencional o no, que pueda ocasionar dolor, sufrimiento, poner en riesgo la vida de un animal, su integridad o viabilidad de alguno de sus órganos o que afecten gravemente su salud;
 
-XXXV.- Salud: Equilibrio armónico, biológico, psicológico y social, además de la ausencia de enfermedad y el pleno ejercicio de sus facultades;
+XXXVI.- Matanza: Acto de provocar la muerte de uno o varios animales, previa pérdida de la conciencia;
 
-XXXVI.- Secretaría: Secretaría de Medio Ambiente del Estado de Coahuila de Zaragoza;
+XXXVII.- Mutilación estética: aquella con la que no se pretende curar una enfermedad o aliviar un padecimiento, se consideran mutilaciones estéticas la caudectomía, otectomía, cordectomía, desungulación, siempre y cuando no existe (sic) una patología, problema clínico o traumático que lo amerite, según informe de Médico Veterinario con cédula profesional vigente;
 
-XXXVII.- Sufrimiento: El padecimiento o dolor causado por daño físico o psicológico a cualquier animal;
+XXXVIII.- Plaga: Aparición masiva y repentina de seres vivos de la misma especie que causan graves daños a poblaciones animales o vegetales;
 
-XXXVIII.- Trato digno: Las medidas que esta ley, establece para evitar el dolor o angustia de cualquier animal durante su posesión, propiedad, captura, crianza, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+XXXIX.- Prevención: Conjunto de acciones y medidas para evitar el deterioro de la salud humana o animal, conservando el equilibrio ecológico;
 
-XXXIX.- Vivisección: Procedimiento quirúrgico en animales vivos en condiciones asépticas y bajo los efectos de un anestésico con el fin de hacer estudios fisiológicos o investigaciones: y
+XL.- Procuraduría: Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza;
 
-XL.- Zoonosis: Las enfermedades que se dan en los animales y son transmisibles al hombre en condiciones naturales.
+XLI.- Rabia: Enfermedad viral infectocontagiosa aguda y mortal, transmitida por la saliva o sangre de algún animal contagiado;
+
+XLII.- Rastro: Establecimiento de servicio público o privado, donde se realiza la matanza de animales de abasto;
+
+XLIII.- Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario utilizando métodos físicos y/o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto;
+
+XLIV.- Salud: Equilibrio armónico, biológico, psicológico y social, además de la ausencia de enfermedad y el pleno ejercicio de sus facultades;
+
+XLV.- Secretaría: Secretaría de Medio Ambiente del Estado de Coahuila de Zaragoza;
+
+XLVI.- Sufrimiento: El padecimiento o dolor causado por daño físico o psicológico a cualquier animal;
+
+XLVII.- Trato digno: Las medidas que esta ley, establece para evitar el dolor o angustia de cualquier animal durante su posesión, propiedad, captura, crianza, traslado, exhibición, cuarentena, comercialización, aprovechamiento, adiestramiento y sacrificio;
+
+XLVIII.- Tutor: persona física o moral que es propietario o poseedor de un animal de compañía, y que adquiere voluntariamente la responsabilidad de un animal, ya sea temporal o permanente, obligándose con esto a garantizar el bienestar del animal. Para efectos de esta Ley, el tutor de un animal de compañía tendrá el tratamiento y la calidad de propietario o poseedor;
+
+XLIX.- Vehículos de tracción animal: carros, carretas, instrumentos de labranza, carretones o cualquier vehículo que tradicionalmente sea tirado o jalado por un equino;
+
+L.- Vivisección: Procedimiento quirúrgico en animales vivos en condiciones asépticas y bajo los efectos de un anestésico con el fin de hacer estudios fisiológicos o investigaciones; y
+
+LI.- Zoonosis: Las enfermedades que se dan en los animales y son transmisibles al hombre en condiciones naturales.
 
 ###### Artículo 5.
 
@@ -227,9 +249,11 @@ IV.- Recibir, turnar y en su caso atender y dar seguimiento a las quejas o denun
 
 V.- Las demás que las disposiciones legales le atribuyan.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 14.
 
-Los Ayuntamientos tendrán las siguientes atribuciones:
+Los Ayuntamientos tendrán las siguientes atribuciones y obligaciones:
 
 I.- Aplicar las disposiciones jurídicas relativas a la protección y trato digno de los animales prevista (sic) en esta Ley;
 
@@ -251,6 +275,14 @@ VIII.- Otorgar los permisos especiales para la reproducción de animales de comp
 
 IX.- Otorgar las licencias administrativas para la tenencia de Animales Potencialmente Peligrosos, de acuerdo al reglamento respectivo.
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+X.- Presentar, cada seis meses, un informe a la Secretaría de Salud y a la Secretaría, en relación al sacrificio de animales realizado en el municipio, el cual deberá contener, por lo menos, el número de animales sacrificados, el método y el lugar en el que se realizó el sacrificio y su disposición final.
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XI.- Expedir el reglamento municipal de esta Ley, así como las disposiciones administrativas necesarias para su cumplimiento.
+
 ###### Artículo 15.
 
 El Padrón Municipal de Animales estará a cargo de cada Municipio y llevará el registro de:
@@ -261,9 +293,9 @@ II.- Los centros de control animal y zoonosis;
 
 III.- Los rastros;
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-IV.- Las asociaciones protectoras de animales, miembros y clubes de perros de raza, y entrenadores y adiestradores caninos para guardia y protección;
+IV.- Las asociaciones protectoras de animales, los rescatistas independientes de animales, miembros y clubes de perros de raza, y entrenadores y adiestradores caninos para guardia y protección;
 
 V.- Los establecimientos para la venta de animales;
 
@@ -311,9 +343,21 @@ Le corresponde a la Secretaría de Desarrollo Rural la implementación de campa�
 
 ### CAPITULO SEGUNDO. PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 19.
 
-Toda persona tiene la obligación de proteger y brindar un trato digno a los animales.
+Toda persona tiene la obligación de cumplir con lo siguiente:
+
+I.- Denunciar, ante las autoridades correspondientes, cualquier irregularidad o violación a la presente Ley, actos de maltrato o crueldad (sic) que incurra cualquier persona;
+
+II.- Promover en el entorno familiar la cultura de la protección, atención, trato digno y respetuoso de los animales;
+
+III.- Promover la cultura, protección, atención y trato digno a los animales a través de los comités ciudadanos y de los consejos del pueblo electos;
+
+IV.- Participar en las instancias de carácter social y vecinal, que cuiden, asistan y protejan a los animales; y
+
+V.- Cuidar y velar por la observancia y aplicación de la presente Ley.
 
 ###### Artículo 20.
 
@@ -321,7 +365,9 @@ Queda prohibido en el Estado de Coahuila de Zaragoza por cualquier motivo:
 
 I.- El uso de animales vivos para prácticas de tiro;
 
-II.- Las peleas de perros, o cualesquiera otros animales entre sí o con ejemplares de otra especie; a excepción de las peleas de gallos en las que habrá de observarse las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+II.- Las peleas de perros, o cualesquiera otros animales entre sí o con ejemplares de otra especie; a excepción de las peleas y el casteo de gallos en las que habrá (sic) de observarse las disposiciones legales aplicables;
 
 III.- La venta ambulante, reiterada, de animales en general, fuera de los establecimientos, ferias y mercados legalmente autorizados;
 
@@ -361,9 +407,11 @@ XIV.- Los desfiles de animales por las vialidades del Estado, con fines circense
 
 XV.- Las corridas de toros, novillos, becerros o vaquillas y los rejoneos; el entrenamiento de animales para su utilización en este tipo de espectáculos, así como las tientas;
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XVI.- Las demás que establezca la presente Ley y los ordenamientos jurídicos aplicables.
+XVI.- Las mutilaciones estéticas;
+
+XVII.- Las demás que establezca la presente ley y los ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2015)</small>
 
@@ -373,9 +421,11 @@ Se excepcionan de las prohibiciones en el presente Artículo, los rodeos, carrer
 
 Cualquier persona que tenga conocimiento de un acto, hecho u omisión en perjuicio de los animales objeto de tutela de la presente Ley, tiene la obligación de informar a la autoridad competente de la existencia de la falta.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 22.
 
-Los poseedores de los animales deberán cumplir con lo siguiente:
+Los tutores y/o poseedores de los animales deberán cumplir con lo siguiente:
 
 I.- Tratarlos humanitariamente y mantenerlos en buenas condiciones higiénico-sanitarias, de acuerdo con las características propias de la especie;
 
@@ -407,17 +457,73 @@ c) Certificado de aptitud psicológica, otorgado por institución pública.
 
 d) Acreditación de haber contratado un seguro de responsabilidad civil por daños a terceros que puedan ser causados por sus animales, por la cuantía mínima que reglamentariamente se determine.
 
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+X.- Vacunarlos contra las enfermedades propias de su especie que pongan en riesgo su salud, con la debida periodicidad; y en los términos que la autoridad competente y el médico veterinario tratante lo establezca cuando se trate de vacunación obligatoria como medida de seguridad sanitaria;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XI.- Conservar la cartilla o los certificados de tratamiento y vacunación firmados por médico veterinario con cédula profesional vigente;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XII.- Establecer las medidas necesarias para que el animal de compañía no escape o ponga en riesgo la seguridad y la integridad física del ser humano, de él mismo y de otros animales;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XIII.- Levantar sus heces; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XIV.- Responder por los daños y/o perjuicios que el animal de compañía ocasione a terceros.
+
 ###### Artículo 23.
 
 El poseedor será responsable de adoptar las medidas necesarias para impedir que los animales ensucien las vías o espacios públicos.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 24.
 
-Los propietarios, poseedores o encargados de un animal que cause daños a terceros, lesiones a personas u otros animales, daños en propiedad privada o intimidación a la población, se harán responsables de los daños ocasionados, de conformidad con la legislación aplicable.
+Los tutores o encargados de un animal que cause daños a terceros, lesiones a personas u otros animales, daños en propiedad privada o intimidación a la población, se harán responsables de los daños ocasionados, de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 25.
 
-Todos los sitios de cría, escuela de entrenamiento, cuidado y resguardo de animales, como son: criaderos caninos, ranchos, haciendas, ganaderías, establos, clubes hípicos, granjas, albergues o similares, deberán contar con los debidos permisos expedidos por las autoridades correspondientes, además de estar provistos de las instalaciones adecuadas para no exponer a enfermedades y maltrato a los animales.
+Todos los sitios de cría, escuela de entrenamiento, cuidado y resguardo de animales, como son: criaderos de animales de compañía, estancias caninas y felinas, ranchos, haciendas, ganaderías, establos, clubes hípicos, granjas, albergues o similares, deberán contar con los debidos permisos expedidos por las autoridades correspondientes, además de estar provistos de las instalaciones adecuadas para no exponer a enfermedades y maltrato a los animales.
+
+El reglamento respectivo señalará los requisitos específicos que los establecimientos señalados en el párrafo anterior, deberán cumplir considerando la actividad a la que se dedican, además de los siguientes puntos:
+
+I.- Suministrar a los animales la alimentación y agua en recipientes adecuados y separados en las cantidades necesarias, atendiendo a la especie, hábitos naturales, raza y edad;
+
+II.- Los animales que se encuentren en los sitios mencionados deben de contar con la cartilla o respaldo que acredite las vacunaciones y desparasitaciones acordes a su especie, así como garantizar su atención veterinaria siempre que sea requerida;
+
+III.- Contar con instalaciones que permitan a los animales protegerse de las condiciones climatológicas y de cualquier otro factor externo que le ocasione o pudiere ocasionarle algún daño;
+
+IV.- Proveer a los animales un área de estancia adecuada en superficie o espacio vital, que les permita tener libre movimiento y ejercitarse adecuadamente;
+
+V.- Proporcionar la higiene necesaria en el área de estancia de los animales.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Artículo 25 A.- En el caso de los criaderos de animales de compañía, también deberá cumplir con lo siguiente:
+
+I.- Inscribirse en el Padrón Municipal de Animales, exhibiendo y cumpliendo además de los requisitos establecidos en la presente ley y reglamento respectivo lo siguiente:
+
+A.- Exhibir certificado genealógico en el que se acredite que el animal está exento de enfermedades congénitas o defectos hereditarios;
+
+B.- Contar con un certificado de buena salud emitido por un Médico Veterinario con cédula profesional vigente que contenga que el animal de compañía no transmitirá enfermedades o padecimientos congénitos sustentado en un estudio genético; y
+
+C.- Exhibir documentación correspondiente, que acredite el origen o procedencia del animal de compañía.
+
+II.- Preñar a las hembras máximo una vez cada 12 meses, en el caso de los perros, y en el caso de los gatos hasta 3 veces cada 24 meses;
+
+III.- Realizar la venta de animales de compañía, a las 12 semanas en los casos de perros y a la semana 16 en caso de los gatos, durante éste periodo los cachorros no deberán separarse de su madre; y
+
+IV.- Mantener agrupados a los cachorros de la misma camada con la finalidad de que exhiban comportamientos sociales apropiados de su edad; si los cachorros son menores a 4 meses de vida, no deben pasar más de 1 hora sin un congénere, además de tener contacto humano diario y gentil;
+
+Todo animal de compañía que no cumpla con las excepciones contenidas en esta ley y cuyo fin zootécnico sea el de compañía, deberá entregarse a su tutor esterilizado.
 
 ###### Artículo 26.
 
@@ -431,21 +537,13 @@ Queda prohibido establecer criaderos o refugios en zonas habitacionales, que alt
 
 La exhibición de animales será realizada atendiendo las necesidades básicas de los animales, de acuerdo a las características propias de cada especie y cumpliendo las disposiciones de esta Ley.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-Todo establecimiento que se dedique a la venta de animales deberá contar con los permisos correspondientes, y apegarse a lo siguiente:
+Los establecimientos mercantiles cuyo giro sea el de la compra venta de animales que cuenten los debidos permisos municipales, para vender animales no podrán exhibirlos, en cambio contarán con un catálogo impreso o en medios electrónicos que contendrán toda la información de identificación del animal de compañía en venta y la localización física del mismo, además de apegarse a las prácticas comerciales establecidas en la Norma Oficial Mexicana NOM 148-SCFI-2008 o sus respectivas modificaciones.
 
-I.- Contar con un médico veterinario zootecnista, como responsable de la salud de los animales y de la orientación a los interesados en adquirir una mascota, y presentar a la vista copia simple del título y cedula profesional del médico veterinario zootecnista;
-
-II.- Proveer de jaulas amplias y seguras a los animales;
-
-III.- Adoptar las medidas necesarias para evitar los contagios entre los animales que alberguen;
-
-IV.- Disponer de buenas condiciones higiénico-sanitarias y de locales adecuados a las condiciones fisiológicas de los animales;
-
-V.- Realizar las medidas preventivas necesarias, para que los animales no sean perturbados por las personas que visiten el establecimiento; y
-
-VI.- Deberá entregar al comprador un certificado de vacunación, que contenga la aplicación de vacunas de rabia, esterilización y desparasitación interna y externa, suscrita por el médico veterinario zootecnista responsable.
+La exhibición solo se permitirá cuando los animales sean dados en adopción y siempre y cuando se cumplan con los requisitos de exhibición de los animales, que señala esta ley y se garantice el bienestar de los mismos.
 
 ###### Artículo 30.
 
@@ -473,13 +571,25 @@ Los experimentos que se lleven a cabo con animales, se realizarán únicamente c
 
 Los animales destinados a experimentos serán objeto de la protección y cuidados generales previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 34.
 
-Los animales que como resultado de la experimentación, no puedan desarrollar una vida normal serán sacrificados humanitariamente de forma rápida e indolora.
+Los animales que como resultado de la experimentación, no puedan desarrollar una vida normal les será aplicada la eutanasia de conformidad con las normas oficiales mexicanas.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 35.
 
-Los propietarios o encargados de animales de trabajo, monta y carga, deberán someterse a las limitaciones razonables del tiempo e intensidad de trabajo que realizan.
+Los tutores o encargados de animales de trabajo, están obligados a:
+
+I.- Brindar servicio médico veterinario preventivo y de urgencia;
+
+II.- Proveer comida y agua suficiente durante su jornada laboral, además de descanso suficiente de acuerdo a su trabajo y resistencia individual;
+
+III.- Resguardarlos de los climas extremos, tales como lluvia, sol y frío; y
+
+IV.- Acondicionar un lugar seguro que proteja a los animales de las inclemencias del tiempo, antes y después de prestar sus servicios, así como mantener el lugar limpio.
 
 ###### Artículo 36.
 
@@ -501,9 +611,11 @@ Por lo que corresponde a la transportación de animales de ganado para el consum
 
 (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2014)
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 41.
 
-Todos los propietarios o responsables, de los animales destinados a espectáculos que se escapen y provoquen algún perjuicio, serán acreedores a las sanciones correspondientes, además de la reparación de los daños ocasionados por dicho animal.
+Todos los tutores o responsables, de los animales destinados a espectáculos que se escapen y provoquen algún perjuicio, serán acreedores a las sanciones correspondientes, además de la reparación de los daños ocasionados por dicho animal.
 
 ###### Artículo 42.
 
@@ -513,9 +625,11 @@ Cualquier persona que posea animales contemplados como fauna exótica o silvestr
 
 Toda persona que tenga conocimiento de la captura y venta ilegal de fauna exótica o silvestre, tendrá la obligación de denunciar los hechos a las Autoridades competentes.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 44.
 
-Los propietarios de predios destinados para la caza y pesca, deberán contar con los permisos emitidos por las leyes federales y estatales.
+Los tutores de predios destinados para la caza y pesca, deberán contar con los permisos emitidos por las leyes federales y estatales.
 
 ###### Artículo 45.
 
@@ -525,9 +639,11 @@ La caza de animales solo se podrá llevar a cabo en los lugares destinados para 
 
 Tanto la caza como la pesca en lugares silvestres permitidos, deberá apegarse a los lineamientos de los calendarios cinegéticos y vedas así como a las disposiciones legales vigentes.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 47.
 
-Los propietarios, encargados o custodios de animales guía o para la práctica de zooterapia, deberán sujetarse a lo establecido en esta Ley.
+Los tutores, encargados o custodios de animales guía o para la práctica de zooterapia, deberán sujetarse a lo establecido en esta Ley.
 
 ###### Artículo 48.
 
@@ -543,17 +659,23 @@ La práctica de la zooterapia deberá ser asistida por personas capacitadas y ac
 
 Los animales abandonados que se presten por sus características para realizar funciones de apoyo para personas con discapacidad y zooterapia, serán entrenados por expertos calificados en la materia y serán donados a personas de escasos recursos que requieran el servicio de estos animales. Este servicio podrá prestarse a través de las asociaciones protectoras de animales en coordinación con las autoridades correspondientes.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 51.
 
-El sacrificio de animales destinados para el consumo humano se realizará de conformidad a lo dispuesto en el Titulo Decimo Segundo Capitulo VI de la Ley de Salud del Estado.
+La matanza de animales destinados para el consumo humano se realizará de conformidad a lo dispuesto en la norma oficial mexicana NOM-033-SAG/ZOO-2014 y sus respectivas modificaciones.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 52.
 
-El sacrificio de un animal doméstico y silvestre no destinado al consumo humano, sólo podrá realizarse en razón del sufrimiento que le cause un accidente, enfermedad, incapacidad física o vejez extrema, con excepción de aquellos animales que constituyan una amenaza para la salud.
+La aplicación de la eutanasia de un animal doméstico y silvestre no destinado al consumo humano, sólo podrá realizarse en razón del sufrimiento que le cause un accidente, enfermedad, incapacidad física o vejez extrema, con excepción de aquellos animales que constituyan una amenaza para la salud.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 53.
 
-Por lo que corresponde al sacrificio de animales confinados en los centros de control animal, se observará lo dispuesto en el Título Décimo Segundo, Capítulo XVIII de la Ley de Salud del Estado, así como en el reglamento municipal, en el ámbito de sus respectivas competencias.
+Por lo que corresponde a la aplicación de la eutanasia de los animales confinados en los centros de control animal, se observará lo dispuesto en la norma oficial mexicana NOM-033-SAG/ZOO-2014 y sus respectivas modificaciones.
 
 ###### Artículo 54.
 
@@ -589,15 +711,19 @@ Las instituciones, colegios o consultorios de médicos veterinarios zootecnistas
 
 Los Ayuntamientos recogerán a los animales abandonados y los retendrán hasta que sean reclamados, acogidos o sacrificados.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 61.
 
-Los animales capturados en la vía pública permanecerán bajo resguardo de los centros de control animal por espacio de 72 horas y podrán ser reclamados únicamente en este periodo de tiempo por sus propietarios, previa identificación, comprobante de vacunación antirrábica y el pago correspondiente, en la Tesorería Municipal.
+Los animales capturados en la vía pública permanecerán bajo resguardo de los centros de control animal por espacio de 72 horas y podrán ser reclamados únicamente en este periodo de tiempo por sus tutores, previa identificación, comprobante de vacunación antirrábica y el pago correspondiente, en la Tesorería Municipal.
 
-Los animales que sean reclamados, serán esterilizados, debiendo pagar los propietarios, los costos por este concepto.
+Los animales que sean reclamados, serán esterilizados, debiendo pagar los tutores, los costos por este concepto.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 62.
 
-Los animales que no sean reclamados por sus dueños podrán ser donados a asociaciones protectoras de animales o a terceros, de lo contrario en su caso serán sacrificados utilizando métodos humanitarios.
+Los animales que no sean reclamados por sus tutores podrán ser donados a asociaciones protectoras de animales o a terceros, de lo contrario en su caso serán sacrificados utilizando métodos humanitarios.
 
 ###### Artículo 63.
 
@@ -609,9 +735,11 @@ Los centros de control animal, deberán observar las normas que establece la pre
 
 Los animales enfermos o lesionados, las hembras gestantes y los animales que se encuentren en periodo de lactancia, deberán ser ubicados en un lugar diferente al que se encuentre el resto de los animales capturados.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 65.
 
-Los Ayuntamientos de cada municipio, deberán crear un área técnica de protección y sanidad animal y control de especies animales conformado (sic) preferentemente por:
+Los Ayuntamientos de cada municipio, deberán crear un área técnica de protección y sanidad animal y control de especies animales, conformado (sic) preferentemente por:
 
 I.- Un Responsable;
 
@@ -621,7 +749,51 @@ III.- Dos vocales, nombrados por la autoridad en materia de salud y por la autor
 
 IV.- Los invitados, por parte de las asociaciones protectoras de animales y por médicos veterinarios zootecnistas.
 
-Esta área certificará el estado físico de los animales y se apoyará de la autoridad en materia de salud, para dictar medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies animales utilizadas como mascotas y de la fauna en general.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Esta área certificará el estado físico de los animales y se apoyará de la autoridad en materia de salud, para dictar medidas preventivas y curativas en caso de riesgo de zoonosis o de epizootias, así como de las medidas de cuidado y control sobre especies animales utilizadas como animales de compañía y de la fauna en general.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Artículo 65 A.- Los ayuntamientos del Estado que cuenten o no cuenten con un (sic) Centros de Control Animal, Antirrábicos o análogos podrán convertirse en CARA, que, además de las funciones que les confieren esta ley y demás ordenamientos jurídicos aplicables, tendrán como objetivos generales y actividades principales, las siguientes:
+
+I. Contar con la infraestructura necesaria para brindar a los animales que rescaten, resguarden y trasladen una estancia digna, segura y saludable, garantizando en todo momento el bienestar animal;
+
+II. Promover constantemente entre la población los beneficios de la tutela responsable, la adopción, esterilización y vacunación de los animales;
+
+III. Reducir y controlar la reproducción de los animales en situación de calle por medio de la esterilización obligatoria;
+
+IV. Prestar servicios de reintegración de animales de compañía a través de la adopción;
+
+V. Prestar servicios de eutanasia, de conformidad con las Normas Oficiales Mexicanas;
+
+VI. Realizar la inscripción de los animales de compañía bajo su custodia en el área de Animales de compañía del Sistema;
+
+VII. Planear, ejecutar y calendarizar constantemente campañas de esterilización;
+
+VIII. Coordinarse con Refugios, Rescatistas Independientes o Proteccionista de Animales inscritas en el área correspondiente del Sistema para realizar campañas de adopción y esterilización permanentes;
+
+IX. Todos y cada uno de los animales de compañía que se entreguen a su tutor por medio de las adopciones, deberán estar en buena salud y esterilizados, asimismo se deberá entregar al tutor una copia de la cartilla de control para que tenga conocimiento del estado de salud del animal adoptado;
+
+X. Tener un médico veterinario inscrito en el área correspondiente en el Sistema, debidamente capacitado como responsable del CARA;
+
+XI. Dar capacitación permanente a su personal a fin de asegurar un manejo adecuado;
+
+XII. Proveer alimento y agua suficiente en todo momento a los animales resguardados, además de asegurar su confort térmico;
+
+XIII. Separar y atender a los animales que estén lastimados, heridos o presenten signos de enfermedad infecto contagiosa; que se encuentren en gestación o lactando;
+
+XIV. Disponer de medios de traslado para animales abandonados, o heridos que garantice (sic) el bienestar animal;
+
+XV. Contar con un protocolo que garantice la salud física y emocional de los animales, y
+
+XVI. El resto que estipule en su reglamento correspondiente.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Artículo 65 B.- El personal que preste sus servicios en los CARA, deberá ser calificado y capacitado, liderados siempre por un médico veterinario con cédula profesional vigente, y con estudios y conocimiento del bienestar animal, y que se encuentre inscrito en el área de Médicos Veterinarios del Sistema.
+
+La autoridad encargada de contratar al personal que labore en el CARA, debe realizar a los postulantes a (sic) pruebas psicológicas obligatorias con la finalidad de garantizar la seguridad, integridad y bienestar de los animales.
 
 ### CAPITULO SEGUNDO. DE LOS ALBERGUES
 
@@ -629,17 +801,23 @@ Esta área certificará el estado físico de los animales y se apoyará de la au
 
 Como un instrumento de apoyo a las actividades encaminadas por el Ayuntamiento, a fin de proteger a los animales de cualquier crueldad cometida en su contra y fomentar su trato digno, se establecerán los albergues temporales y permanentes.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 67.
 
 El establecimiento de los albergues tiene como objeto:
 
-I.- Fungir como refugio para aquellos animales que carezcan de propietario o poseedor; asistiéndolos en su alimentación e higiene;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+I.- Fungir como refugio para aquellos animales que carezcan de tutor; asistiéndolos en su alimentación e higiene;
 
 II.- Ofrecer en adopción a los animales que se encuentren en buen estado de salud, temperamento y socialización lo permita, a personas que acrediten responsabilidad y solvencia económica para darle una vida decorosa al animal;
 
 III.- Difundir por los medios de comunicación idóneos, información a la población sobre el buen trato que deben guardar hacia los animales y concientizar sobre las implicaciones de adquirir un animal y sus consecuencias sociales; y
 
-IV.- Establecer un censo municipal, mediante el cual queden inscritos los animales que posean o no propietario junto a sus características básicas, tales como: sexo, raza, color, tamaño, peso, plan de vacunas, u otros datos de identificación que puedan ser útiles y en su caso, nombre y domicilio del propietario.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+IV.- Establecer un censo municipal, mediante el cual queden inscritos los animales que posean o no tutor junto a sus características básicas, tales como: sexo, raza, color, tamaño, peso, plan de vacunas, u otros datos de identificación que puedan ser útiles y en su caso, nombre y domicilio del tutor.
 
 ###### Artículo 68.
 
@@ -661,15 +839,27 @@ II.- Campañas masivas de esterilización y vacunación en caninos y felinos;
 
 III.- El desarrollo de las acciones establecidas en los convenios que el ejecutivo a cargo, establezca con los sectores social, privado, académico, de investigación y con las asociaciones protectoras de animales debidamente reglamentadas;
 
-IV.- Destinar recursos para los albergues estatales y municipales;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-V.- La promoción de una cultura de respeto, protección y trato digno para los animales y su hábitat; y
+IV.- Destinar recursos para los albergues de animales públicos y privados; y
 
-VI.- De acuerdo a su disponibilidad presupuestaria, otorgar recurso (sic) a las asociaciones protectoras de animales que cuenten con el debido registro en el estado o municipio.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+V.- La promoción de una cultura de respeto, protección y trato digno para los animales y su hábitat.
+
+VI.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2017)
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Se deberán otorgar recursos del Fondo, de acuerdo a su disponibilidad presupuestaria, a las asociaciones protectoras de animales que cuenten con el debido registro en el Estado o municipio, para el cumplimiento de su objeto.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 71.
 
-El fondo para la protección de los animales, estará a cargo del área técnica del municipio que se trate.
+La administración del Fondo para la protección de los animales estará a cargo de la Secretaría.
+
+La Secretaria de Fiscalización y Rendición de Cuentas revisará el correcto ejercicio del Fondo.
 
 ###### Artículo 72.
 
@@ -677,11 +867,21 @@ Los recursos para la creación del fondo provendrán de:
 
 I.- Herencias, donaciones y legados que reciba;
 
-II.- Los recursos que el Gobierno Estatal y Municipal otorgue para tales efectos;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-III.- Los recursos que se generen por la aplicación de la presente Ley; y
+II.- La aportación que haga la Secretaría de hasta un cinco por ciento de su presupuesto autorizado de recursos estatales;
 
-IV.- Los eventos culturales, deportivos, y demás que se realicen para la recaudación de fondos.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+III.- La partida presupuestal que deban asignar los Ayuntamientos para la protección y trato digno de los animales;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+IV.- Los recursos que se obtengan por las multas y demás que se generen por la aplicación de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+V.- Los eventos culturales, deportivos y demás que se realicen para la recaudación de fondos.
 
 ### CAPITULO CUARTO. DE LAS ASOCIACIONES PROTECTORAS DE ANIMALES
 
@@ -705,6 +905,8 @@ Tendrán derecho de poseer, donar, aislar y recoger animales domésticos abandon
 
 Los asilos o refugios de animales a su cargo, deberán de cumplir con las normas sanitarias y demás ordenamientos vigentes y los que dictamina la presente Ley.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 78.
 
 Tendrán derecho a realizar visitas de inspección como observadores en:
@@ -721,7 +923,9 @@ V.- Laboratorios de experimentación;
 
 VI.- Escuelas de entrenamiento;
 
-VII.- Domicilios particulares, con la autorización de los propietarios o poseedores;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+VII.- Domicilios particulares, con la autorización de los tutores o poseedores;
 
 VIII.- Establecimientos para la venta de animales; y
 
@@ -733,37 +937,95 @@ X.- Hogares temporales.
 
 Gestionar mediante convenios con el Estado, asilos o refugios para especies de fauna doméstica, a fin de canalizar a los animales abandonados, perdidos, lastimados o enfermos en los términos de la presente Ley.
 
-### CAPITULO QUINTO. DE LA COMISIÓN ESTATAL DE PROTECCIÓN A LOS ANIMALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO PRIMERO. DE LA DENUNCIA Y VIGILANCIA
+### CAPITULO CUARTO BIS. DE LOS RESCATISTAS INDEPENDIENTES DE ANIMALES
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Artículo 79 A.- Los rescatistas independientes de animales son personas físicas que sin fines de lucro desarrollan diversas actividades a favor de la protección de los animales, los cuales deberán estar debidamente inscritos en el padrón municipal de animales y su correlativo en el Estado.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Artículo 79 B.- Para el desempeño de sus actividades, los rescatistas independientes de animales podrán contar con albergues, los cuales deberán observar lo dispuesto en esta Ley y su reglamento, a excepción de lo establecido en la fracción IV del artículo 25, así como la fracción II del artículo 14, y los artículos 34 y 35 del reglamento de la misma, siempre y cuando se les brinde a los animales un trato digno y se mantengan en buenas condiciones higiénico-sanitarias, de acuerdo con las características propias de cada especie.
+
+### CAPITULO QUINTO. DE LA COMISIÓN ESTATAL DE PROTECCIÓN A LOS ANIMALES
 
 ###### Artículo 80.
 
 Se crea la Comisión Estatal de Protección a los Animales, como organismo del Gobierno del Estado, mediante el cual se promueva la participación ciudadana en los procesos de implementación de políticas públicas enfocadas a la protección de los animales.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 81.
 
 Son atribuciones de la Comisión Estatal de Protección a los Animales:
 
-1.- La protección de todos los animales.
+I.- La protección de todos los animales;
 
-2.- Fomentar la creación de Sociedades de Protección a los animales.
+II.- Fomentar la creación de asociaciones protectoras de animales;
 
-3.- Asesorar a instituciones públicas y privadas sobre métodos y procedimientos adecuados de atención a los animales.
+III.- Asesorar a instituciones públicas y privadas sobre métodos y procedimientos adecuados de atención a los animales;
 
-4.- Fomentar la cultura de respeto, consideración, cuidado y trato digno a los animales.
+IV.- Fomentar la cultura de respeto, consideración, cuidado y trato digno a los animales;
+
+V.- Emitir opiniones en materia de protección y trato digno a los animales;
+
+VI.- Dar seguimiento al cumplimiento de los acuerdos tomados en el Estado y los municipios en materia de protección y trato digno a los animales;
+
+VII.- Dar seguimiento al cumplimiento de la legislación en la materia, así como de su reglamentación por parte de las autoridades competentes;
+
+VIII.- Verificar que los Ayuntamientos expidan su reglamentación en los términos previstos en la presente Ley;
+
+IX.- Establecer indicadores para la evaluación del cumplimiento de las disposiciones en materia de protección y trato digno a los animales;
+
+X.- Emitir su programa anual de trabajo para el cumplimiento de esta Ley y elaborar y publicar el informe correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 82.
 
-La comisión estará integrada por un Presidente, un Secretario y seis representantes de la sociedad civil de las distintas regiones del Estado que se integraran en los términos de la convocatoria que el efecto expida el Ejecutivo del Estado.
+La Comisión Estatal de Protección a los Animales estará integrada por:
+
+I.- Un Presidente, que será un representante de la Secretaría, el cual tendrá voto de calidad en caso de empate;
+
+II.- Un Secretario Técnico, designado por el Presidente de la Comisión, el cual tendrá voz pero no voto;
+
+III.- Nueve Vocales que tendrán voz y voto y serán los siguientes:
+
+a) Un representante de la Secretaría de Salud.
+
+b) Un representante de la Procuraduría.
+
+c) Cinco representantes de los municipios de las distintas regiones del Estado, elegidos de conformidad con lo establecido en el siguiente párrafo.
+
+d) Un representante de asociaciones protectoras de animales.
+
+e) Un representante de rescatistas independientes de animales.
+
+La elección de los representantes de los municipios se realizará por votación de los integrantes de cada una de las distintas regiones del Estado. Los representantes de los municipios miembros de la Comisión, deberán ser los encargados del Centro de Control Animal, durarán en su encargo un año, pero continuarán en funciones aún después de terminado su periodo en tanto no sea elegido quien deba sustituirlo.
+
+La representación de los municipios será en forma rotativa, en ningún caso podrá un representante del municipio ser reelecto como miembro de la Comisión para el periodo inmediato siguiente.
+
+Serán invitados permanentes a las sesiones de la Comisión, la Secretaría de Medio Ambiente y Recursos Naturales, la Procuraduría Federal de Protección al Ambiente y la Comisión Nacional de Áreas Naturales Protegidas, además de ello, podrá invitarse a las asociaciones protectoras de animales, rescatistas independientes de animales e instituciones públicas y privadas que tengan por objeto la protección a los animales.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 83.
 
-La comisión será un órgano de consulta y asesoría del Ejecutivo del Estado, su funcionamiento y organización se regirán conforme a su reglamento interior.
+La Comisión será un órgano de consulta y asesoría del Ejecutivo del Estado, su funcionamiento y organización, así como las facultades y obligaciones de sus integrantes se regirán conforme al reglamento interior que para tal efecto sea expedido por la misma.
+
+La Comisión podrá establecer subcomisiones para el debido cumplimiento de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Artículo 83 A.- La Comisión deberá constituir Comités Regionales que tendrán por objeto dar seguimiento al cumplimiento de los acuerdos tomados por los municipios en materia de protección y trato digno a los animales, así como al cumplimiento de la legislación en la materia y de su reglamentación por parte de las autoridades competentes, y las demás funciones que determine la propia Comisión.
+
+Los Comités Regionales deberán conformarse con representantes de los municipios que integran la región, asociaciones protectoras de animales y rescatistas independientes de animales.
 
 ## TITULO IV
 
-### CAPITULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
+### CAPITULO PRIMERO. DE LA DENUNCIA Y VIGILANCIA
 
 ###### Artículo 84.
 
@@ -777,7 +1039,7 @@ Una vez recibida la denuncia, la autoridad competente informará al denunciado y
 
 La autoridad, a más tardar dentro de los 15 días hábiles siguientes a la presentación de la denuncia, deberá informar al denunciante el trámite que se haya dado, así como la verificación de los hechos y las soluciones adoptadas.
 
-### CAPITULO TERCERO. DEL RECURSO DE REVISIÓN
+### CAPITULO SEGUNDO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 86.
 
@@ -799,9 +1061,17 @@ Se considera como infractora toda persona, física o moral, o autoridad, que por
 
 Es responsable de las faltas previstas en esta ley cualquier persona, grupo, institución o asociación de carácter privado, público, comercial, social o gubernamental, que participe en la ejecución de las infracciones.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 89.
 
-Las infracciones a lo dispuesto en esta ley, se sancionarán por la autoridad correspondiente con multas de 25 a 10,000 salarios mínimos diarios vigentes en el Estado, independientemente de la responsabilidad penal o civil que corresponda conforme a la legislación estatal vigente.
+Las infracciones a lo dispuesto en esta Ley, se sancionarán por la autoridad correspondiente con multas de veinticinco a diez mil veces el valor diario de la Unidad de Medida y Actualización, independientemente de la responsabilidad penal o civil que corresponda conforme a la legislación estatal vigente.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Artículo 89 A.- Los Ayuntamientos que incumplan con lo dispuesto en las fracciones II, VII, X y XI del artículo 14 de esta Ley, así como las demás obligaciones señaladas en la misma, serán sancionados de conformidad con lo previsto en la legislación en materia de responsabilidades de los servidores públicos, y las demás disposiciones aplicables.
+
+Las responsabilidades administrativas se fincarán, a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que, por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa, mala fe o negligencia por parte de los mismos.
 
 ###### Artículo 90.
 
@@ -815,9 +1085,13 @@ Para imponer las sanciones, la autoridad considerará:
 
 - Los antecedentes, circunstancias y situación socio-económica del infractor.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 91.
 
-Todo reincidente, deberá pagar multa hasta por el doble de las cantidades señaladas en el artículo 85 de esta Ley.
+Todo reincidente, deberá pagar multa hasta por el doble de las cantidades señaladas en el artículo 89 de esta Ley.
+
+### CAPITULO TERCERO. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 92.
 
@@ -954,3 +1228,21 @@ P.O. 24 DE ENERO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 997.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Secretaría de Medio Ambiente deberá emitir las reglas de operación del manejo del Fondo para la protección de los animales, una vez integrado el mismo.
+
+TERCERO.- Los Ayuntamientos deberán expedir el reglamento municipal de esta Ley, en un plazo de sesenta días a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La Comisión Estatal de Protección a los Animales deberá adecuarse a las disposiciones del presente Decreto, en un plazo de treinta días a partir de la entrada en vigor del mismo.
+
+El reglamento interior de la Comisión Estatal de Protección a los Animales deberá ser expedido por la misma, dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto.
+
+QUINTO.- Los Comités Regionales deberán constituirse por la Comisión Estatal de Protección a los Animales, dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO.- Los establecimientos mercantiles cuyo giro sea el de la exhibición de animales para su compraventa, deberán vender a los animales que aún tengan en exhibición debidamente esterilizados y no contar con animales dentro de sus instalaciones de conformidad con la presente Ley.
