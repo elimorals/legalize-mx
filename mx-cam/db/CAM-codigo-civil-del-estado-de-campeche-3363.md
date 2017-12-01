@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2017-11-14"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -2267,9 +2267,11 @@ IV.- Si el hijo no nació capaz de vivir.
 
 En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 346.
 
-Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+Si el marido está bajo tutela por causa de discapacidad psicosocial u otro motivo que lo prive de su capacidad intelectual, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ###### Art. 347.
 
@@ -2387,9 +2389,9 @@ Los demás herederos del hijo podrán intentar la acción de que trata el artíc
 
 I.- Si el hijo ha muerto antes de cumplir veintidós años;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 1970)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-II.- Si el hijo cayó en demencia antes de cumplir los veintidós años y murió después en el mismo estado.
+II. Si el hijo cayó en discapacidad psicosocial antes de cumplir los veintidós años y murió después en el mismo estado.
 
 ###### Art. 367.
 
@@ -3289,11 +3291,15 @@ En la tutela se cuidará preferentemente de la persona de los incapacitados.
 
 Tienen incapacidad natural y legal:
 
-I.- Los menores de edad;
+I. Los menores de edad;
 
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-III.- Los sordomudos que no sepan leer y escribir;
+II. Los mayores de edad que padezcan alguna discapacidad psicosocial o intelectual, aún cuando tengan intervalos lúcidos;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+III. Las personas con discapacidad auditiva que no sepan leer y escribir
 
 IV.- Los ebrios consuetudinarios y los que habitualmente hacen uso inmoderado de drogas enervantes.
 
@@ -3631,13 +3637,17 @@ V.- El tutor que se encuentre en el caso previsto en el artículo 170;
 
 VI.- El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 518.
 
-No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia, ni los que la hayan fomentado directa o indirectamente.
+No pueden ser tutores ni curadores de la persona con discapacidad psicosocial o intelectual los que hayan sido causa de ésta, ni los que la hayan fomentado directa o indirectamente.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 519.
 
-Lo dispuesto en el artículo anterior se aplicará, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordo-mudos, ebrios consuetudinarios y de los que abusen de las drogas enervantes.
+Lo dispuesto en el artículo anterior se aplicará en cuanto fuere posible, a la tutela de las personas con discapacidad psicosocial, intelectual, auditiva, sensorial, ebrios consuetudinarios y de los que abusen de las drogas enervantes.
 
 ###### Art. 520.
 
@@ -16320,3 +16330,11 @@ P.O. 14 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarios (sic) que se opongan al contenido del presente decreto.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 213 POR EL QUE “SE REFORMA EL ARTÍCULO 346; LA FRACCIÓN II DEL ARTÍCULO 366; LAS FRACCIONES II Y III DEL ARTÍCULO 464, LOS ARTÍCULOS 518 Y 519 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
