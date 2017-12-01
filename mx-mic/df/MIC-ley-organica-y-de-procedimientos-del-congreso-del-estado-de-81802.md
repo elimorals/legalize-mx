@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2017-06-01"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1471,7 +1471,9 @@ IV. Conocer y emitir recomendaciones sobre los diversos programas deportivos que
 
 V. Impulsar las acciones que conlleven a la realización de planes y programas acordes con los criterios y objetivos del Plan Estatal de Desarrollo, tendientes a promover el deporte de alto rendimiento en Michoacán;
 
-VI. Implementar e impulsar foros que involucren a las diversas instituciones, asociaciones, ligas y demás organismos que promueven el deporte en el Estado con el objeto de mejorar su organización y estructura; y,
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+VI. Implementar e impulsar foros que involucren a las diversas instituciones, asociaciones y demás organismos que promuevan e incentiven entre los jóvenes, el análisis, debate y construcción de propuestas en materia de deporte, participación política, cultura, arte y recreación en el Estado, con la finalidad de mejorar su organización y estructura; y,
 
 VII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
@@ -3875,7 +3877,7 @@ SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 
 P.O. 29 DE SEPTIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 565 POR EL QUE “SE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 77 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 565 POR EL QUE "SE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 77 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4004,3 +4006,15 @@ TERCERO. Por única ocasión para la elección de dos mil dieciocho, los diputad
 CUARTO. Lo no establecido en el presente Decreto, estará a lo dispuesto en reglamentos y acuerdos que para el efecto emita el Instituto Electoral de Michoacán.
 
 QUINTO. Notifíquese el presente Decreto a los titulares de los Órganos Constitucionales Autónomos.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 417 POR EL QUE "SE REFORMA EL ARTÍCULO 83 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
