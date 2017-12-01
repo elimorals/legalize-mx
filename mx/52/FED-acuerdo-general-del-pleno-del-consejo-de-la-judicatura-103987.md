@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2017-11-24"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2017.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -8899,9 +8899,11 @@ III. Que se encuentren debidamente justificados y comprobados con los documentos
 
 IV. Los demás que establezca el Pleno.
 
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 734.
 
-Los documentos comprobatorios deberán reunir los requisitos fiscales establecidos en los ordenamientos legales aplicables, así como los requisitos administrativos señalados en la normativa interna del Consejo.
+Los documentos comprobatorios deberán reunir los requisitos fiscales establecidos en los ordenamientos legales aplicables, así como los requisitos administrativos señalados en la normativa interna del Consejo. Corresponderá a la Comisión de Administración vigilar que se garantice el cumplimiento de las disposiciones fiscales.
 
 ###### Artículo 735.
 
@@ -12602,3 +12604,11 @@ D.O.F. 24 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVA AL MECANISMO DE COMPROBACIÓN DEL EJERCICIO DEL GASTO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como (sic) el portal del Consejo de la Judicatura Federal en Internet.
