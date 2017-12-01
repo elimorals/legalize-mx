@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-marina-110510"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-11-17"
-last_updated: "2017-06-16"
+last_updated: "2017-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110510&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2015-11-09"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE DICIEMBRE DE 2017 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de noviembre de 2015.
 
@@ -93,7 +95,13 @@ A. Unidad de Promoción y Protección de los Derechos Humanos;
 
 B. Unidad Jurídica;
 
-C. Universidad Naval, y
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+
+C. Universidad Naval;
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+
+C Bis. Unidad de Capitanías de Puerto y Asuntos Marítimos, y
 
 D. Direcciones Generales:
 
@@ -103,9 +111,7 @@ D. Direcciones Generales:
 
 3. De Investigación y Desarrollo;
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2017)</small>
-
-3 Bis. De Capitanías de Puerto y Asuntos Marítimos;
+3 Bis. (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2017)
 
 4. De Recursos Humanos, y
 
@@ -157,7 +163,9 @@ III. Representar al Presidente en las controversias constitucionales y acciones 
 
 IV. Someter a la aprobación del Presidente, la organización jurisdiccional de las regiones y zonas navales, en términos de la Ley Orgánica de la Armada de México;
 
-V. Someter a consideración del Presidente la designación y remoción del Subsecretario, del Oficial Mayor y de los Mandos Superiores en Jefe, así como nombrar directamente al Inspector y Contralor General de Marina, al Jefe del Estado Mayor General de la Armada, a los Directores Generales y demás mandos superiores y mandos subordinados, en términos de la Ley Orgánica de la Armada de México;
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+
+V. Someter a consideración del Presidente la designación y remoción del Subsecretario, del Oficial Mayor y de los Mandos Superiores en Jefe, así como nombrar directamente al Inspector y Contralor General de Marina, al Jefe del Estado Mayor General de la Armada, Jefes de Unidad, Órganos Colegiados, Directores Generales, y demás mandos superiores y mandos subordinados, en términos de la Ley Orgánica de la Armada de México;
 
 VI. Someter a la consideración del Presidente, las propuestas de ascenso del personal de la Armada cuyo nombramiento corresponda al Mando Supremo, conforme a las disposiciones jurídicas aplicables;
 
@@ -223,27 +231,9 @@ El Subsecretario será de la categoría de Almirante y le corresponde:
 
 I. Acordar con el Secretario, el despacho de los asuntos de las Unidades Administrativas bajo su responsabilidad;
 
-> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2017)</small>
+I Bis. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2017)
 
-I Bis. Planear, organizar, dirigir y controlar la Autoridad Marítima Nacional en las zonas marinas mexicanas, costas y recintos portuarios en materia de:
-
-a) Salvaguarda de la vida humana en la mar;
-
-b) Vertimientos de desechos y otras materias al mar distintas al de aguas residuales;
-
-c) Seguridad marítima;
-
-d) Salvamento en caso de accidentes o incidentes de embarcaciones;
-
-e) Control de tráfico marítimo;
-
-f) Administración y operación del señalamiento marítimo, y
-
-g) Regulación de la seguridad de la navegación y de la protección portuaria en los términos que fijan los tratados internacionales y las leyes en la materia, sin perjuicio de las atribuciones que correspondan a otras dependencias, así como supervisar los servicios de ayudas a la navegación y radiocomunicación marítima;
-
-> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2017)</small>
-
-I Ter. Establecer, en coordinación con el Jefe del Estado Mayor, las normas aplicables en materia de búsqueda y rescate para la salvaguarda de la vida humana en la mar;
+I Ter. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2017)
 
 II. Establecer los programas de construcción, reparación, renovación y actualización de la infraestructura, equipos, Unidades Administrativas y Operativas de la Armada;
 
@@ -271,13 +261,11 @@ XIII. Representar a la Secretaría, por acuerdo del Secretario, en las comisione
 
 XIV. Establecer la coordinación operativa del Sistema Nacional de Alerta de Tsunamis;
 
-> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
 
-XV. Otorgar y cancelar los permisos en materia de vertimientos en las Zonas Marinas Mexicanas, a través de las regiones, zonas y sectores navales de conformidad con la Ley de Vertimientos en las Zonas Marinas Mexicanas y las disposiciones reglamentarias que de ésta deriven;
+XV. Aplicar la autoridad en materia de vertimientos de desechos y otras materias al mar distintas al de aguas residuales, así como otorgar y cancelar los permisos en dicha materia en las Zonas Marinas Mexicanas, a través de las regiones, zonas y sectores navales de conformidad con la Ley de Vertimientos en las Zonas Marinas Mexicanas y las disposiciones reglamentarias que de ésta deriven;
 
-> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2017)</small>
-
-XV Bis. Proponer al Secretario la jurisdicción territorial y marítima de las Capitanías de Puerto, y
+XV Bis. (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2017)
 
 XVI. Las demás facultades y responsabilidades que le confieran las disposiciones jurídicas aplicables o le asigne el Secretario.
 
@@ -453,17 +441,17 @@ XXVI. Integrar y participar de acuerdo a sus facultades, en comisiones y comité
 
 XXVII. Emitir las directivas necesarias en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
 
-XXVIII. Aplicar, en coordinación con la Dirección General de Capitanías de Puerto y Asuntos Marítimos, así como con la Secretaría de Comunicaciones y Transportes los ordenamientos jurídicos vigentes en materia de Protección Marítima y Portuaria en los términos que fijan los ordenamientos legales del país y los instrumentos internacionales de los que México sea parte;
+XXVIII. Aplicar, en coordinación con la Unidad de Capitanías de Puerto y Asuntos Marítimos y la Secretaría de Comunicaciones y Transportes las disposiciones jurídicas en materia de Protección Marítima y Portuaria en los términos que establezcan los ordenamientos jurídicos del país y los instrumentos internacionales de los que México sea parte;
 
-> <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
 
-XXIX. Planear, organizar, dirigir y controlar el Servicio de Búsqueda y Rescate para la Salvaguarda de la vida humana en la mar, determinar las estaciones de búsqueda y rescate que se establecerán en los litorales, y coordinar con el Subsecretario la implementación de las normas aplicables en dichas materias;
+XXIX. Planear, organizar, dirigir y controlar el Servicio de Búsqueda y Rescate para la Salvaguarda de la vida humana en la mar, determinar las estaciones de búsqueda y rescate que se establecerán en los litorales, y coordinar con la Unidad de Capitanías de Puerto y Asuntos Marítimos la implementación de las normas aplicables en dichas materias;
 
-> <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
 
-XXIX Bis. Coordinar, en conjunto con la Subsecretaría, la aplicación de los protocolos y procedimientos del Sistema Mundial de Socorro y Seguridad Marítima de acuerdo con la normativa internacional aplicable;
+XXIX Bis. Coordinar, en conjunto con la Unidad de Capitanías de Puerto y Asuntos Marítimos, la aplicación de los protocolos y procedimientos del Sistema Mundial de Socorro y Seguridad Marítima, de acuerdo con disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, D.O.F. 16 DE JUNIO DE 2017)</small>
 
@@ -505,6 +493,10 @@ XXXVIII. Dirigir y supervisar las actividades de la promoción general de ascens
 
 XXXIX. Emitir directivas tendientes a incrementar la moral del personal naval, así como para otorgar a éstos estímulos y recompensas conforme a las disposiciones jurídicas aplicables;
 
+> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+
+XXXIX Bis. Establecer y supervisar los servicios de protección a instalaciones estratégicas del país, en el ámbito de competencia de la Secretaría de Marina, conforme a las disposiciones jurídicas aplicables;
+
 > <small>(ADICIONADA, D.O.F. 16 DE JUNIO DE 2017)</small>
 
 XL. Planear, conducir y ejecutar actividades de seguridad y ciberdefensa para la protección de la infraestructura crítica de la Secretaría y coadyuvar en el ámbito de su competencia con las demás instituciones del Estado, y
@@ -513,9 +505,11 @@ XL. Planear, conducir y ejecutar actividades de seguridad y ciberdefensa para la
 
 XLI. Las demás que le confieren las disposiciones jurídicas aplicables o que le sean ordenadas por el Secretario.
 
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 11.
 
-El Jefe del Estado Mayor General de la Armada para el ejercicio de las facultades que le confiere el artículo anterior, se auxiliará por el Subjefe Operativo, el Subjefe Administrativo, el Coordinador General de Infantería de Marina, los Jefes de Sección y demás servidores públicos que se requieran para satisfacer las necesidades del Estado Mayor, cuando se encuentren autorizados presupuestalmente.
+El Jefe del Estado Mayor General de la Armada para el ejercicio de las facultades que le confiere el artículo anterior, se auxiliará por el Subjefe Operativo, el Subjefe Administrativo, los Coordinadores, los Jefes de Sección, Jefes de las Unidades y demás servidores públicos que se requieran para satisfacer las necesidades del Estado Mayor, cuando se encuentren autorizados presupuestalmente.
 
 ### CAPÍTULO VII. De las Atribuciones Comunes de la Universidad Naval, de las Jefaturas de Unidad y Direcciones Generales
 
@@ -563,9 +557,11 @@ XIII Bis. Certificar la documentación que obra en su archivo y aquéllos que se
 
 XIV. Las demás que le confieran las disposiciones jurídicas aplicables o que le sean encomendadas por el Secretario.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO VIII. De las Atribuciones Específicas de la Universidad Naval, Unidad de Promoción y Protección de los Derechos Humanos y Unidad Jurídica
+### CAPÍTULO VIII
+
+De las Atribuciones Específicas de la Universidad Naval, Unidad de Atención y Procuración a la Ciudadanía, Unidad Jurídica y Unidad de Capitanías de Puerto y Asuntos Marítimos
 
 ###### Artículo 14.
 
@@ -725,6 +721,112 @@ XXVII. Promover el cumplimiento de los criterios y resoluciones administrativas 
 
 XXVIII. Las demás facultades que le confieran las disposiciones jurídicas aplicables o que le sean ordenadas por el Secretario.
 
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 16 Bis.
+
+Corresponde a la Unidad de Capitanías de Puerto y Asuntos Marítimos:
+
+I. Planear, organizar, dirigir, controlar y conducir el ejercicio de la Autoridad Marítima Nacional en las zonas marinas mexicanas, costas y recintos portuarios en materia de:
+
+a) Salvaguarda de la vida humana en la mar;
+
+b) Seguridad marítima;
+
+c) Salvamento en caso de accidentes o incidentes de embarcaciones;
+
+d) Control de tráfico marítimo;
+
+e) Administración y operación del señalamiento marítimo, y
+
+f) Regulación de la seguridad de la navegación y de la protección marítima en los términos que fijan las disposiciones jurídicas aplicables, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal, así como supervisar los servicios de ayudas a la navegación y radiocomunicación marítima;
+
+II. Dirigir, coordinar y supervisar a las Capitanías de Puerto, en el ejercicio que éstas hagan de las atribuciones que les confieren las leyes, tratados internacionales, acuerdos interinstitucionales, reglamentos, normas oficiales mexicanas y demás ordenamientos jurídicos aplicables;
+
+III. Ejercer las atribuciones previstas en el artículo 8 Bis, fracciones IV, V, XV, XVI y XVIII de la Ley de Navegación y Comercio Marítimos, para lo cual, cuando lo estime necesario, podrá auxiliarse de las Capitanías de Puerto;
+
+IV. Proponer al Secretario el establecimiento de la jurisdicción territorial y marítima de las Capitanías de Puerto;
+
+V. Designar a una Capitanía de Puerto como regional, en el caso de que en una entidad federativa con puertos habilitados se encuentren establecidas más de una Capitanía de Puerto. A la Capitanía de Puerto regional le corresponderá ejercer además de las atribuciones de una Capitanía de Puerto, las funciones de coordinación y representación administrativa de las otras Capitanías que se encuentran en la región a su cargo;
+
+VI. Proponer al Secretario la designación y remoción de los titulares de las Capitanías de Puerto;
+
+VII. Autorizar la habilitación de delegados honorarios;
+
+VIII. Supervisar los casos de arribada forzosa o imprevista de embarcaciones que autoricen las Capitanías de Puerto en su jurisdicción;
+
+IX. Programar, establecer, operar y controlar el señalamiento marítimo y determinar de conformidad con las disposiciones jurídicas aplicables los términos y condiciones a que deberán apegarse los concesionarios de una administración portuaria integral, así como las terminales, marinas, instalaciones portuarias y vías navegables en esta materia;
+
+X. Participar en el ámbito de su competencia, con la Secretaría de Comunicaciones y Transportes, en el establecimiento de áreas marítimas para fondeaderos, canales de navegación y áreas de seguridad en las zonas adyacentes a los puertos;
+
+XI. Participar en el ámbito de su competencia, con la Secretaría de Comunicaciones y Transportes en el establecimiento de las áreas de seguridad en las instalaciones y áreas de explotación y exploración de recursos naturales en aguas de jurisdicción federal;
+
+XII. Establecer en coordinación con el Jefe del Estado Mayor, las normas en materia de búsqueda y rescate para la salvaguarda de la vida humana en la mar y, en su caso, supervisar que se cumplan dichas normas;
+
+XIII. Ordenar las investigaciones y actuaciones en materia de accidentes e incidentes marítimos, fluviales y lacustres; designar peritos facultados profesionalmente en la materia, así como emitir los dictámenes correspondientes;
+
+XIV. Autorizar:
+
+a) La dimisión de bandera y cancelación de la matrícula de las embarcaciones y de los artefactos navales, y
+
+b) A través del capitán de puerto el abanderamiento, la matriculación, la dimisión de bandera y la cancelación de matrícula, a embarcaciones y artefactos navales de hasta trescientas unidades de arqueo bruto;
+
+XV. Establecer los lineamientos que regulen la inspección y certificación de las embarcaciones y artefactos navales mexicanos, previstas en la Ley de Navegación y Comercio Marítimos;
+
+XVI. Establecer los lineamientos que regulen las inspecciones a las embarcaciones extranjeras, de conformidad con los tratados internacionales;
+
+XVII. Efectuar inspecciones, verificar y certificar, por si o a través de terceros autorizados, que las embarcaciones y los artefactos navales cumplan con las disposiciones jurídicas aplicables;
+
+XVIII. Coadyuvar con las dependencias competentes de la Administración Pública Federal en las actividades de protección al medio ambiente, sin perjuicio de las atribuciones de éstas;
+
+XIX. Supervisar el otorgamiento de permisos, así como las revocaciones y suspensiones de éstos, que efectúen las Capitanías de Puerto para la prestación de servicios de transporte marítimo de pasajeros y de turismo náutico, con embarcaciones menores de recreo o deportivas mexicanas o extranjeras;
+
+XX. Supervisar y coordinar con las Capitanías de Puerto los desguaces, remoción y declaratorias de abandono de embarcaciones y artefactos navales que emita el Capitán de Puerto a favor de la Nación;
+
+XXI. Administrar a través de las Capitanías de Puerto los registros nacionales de embarcaciones y de la gente de mar;
+
+XXII. Imponer las sanciones establecidas en la Ley de Navegación y Comercio Marítimos, sus Reglamentos y tratados internacionales en las materias de su competencia por sí o a través de las Capitanías de Puerto, conforme a lo previsto en dicho ordenamiento y demás disposiciones jurídicas aplicables;
+
+XXIII. Certificar singladuras y expedir las libretas de mar e identidad marítima de la gente de mar, por si o a través de las Capitanías de Puerto;
+
+XXIV. Coordinar a través de las Capitanías de Puerto el cuerpo de vigilancia, seguridad y auxilio en las zonas marinas mexicanas, costas y recintos portuarios;
+
+XXV. Proponer al Secretario la expedición de normas oficiales mexicanas en el ámbito de su competencia y verificar su cumplimiento, así como promover la difusión de la normativa en materia de seguridad y protección marítima y portuaria;
+
+XXVI. Coordinar acciones con la Secretaría de Comunicaciones y Transportes en la aplicación de medidas de seguridad y protección marítima, así como de protección portuaria en los términos que establezcan las disposiciones jurídicas aplicables;
+
+XXVII. Supervisar que las Capitanías de Puerto cumplan con las disposiciones jurídicas en materia de autorización de arribos y despachos de las embarcaciones y artefactos navales;
+
+XXVIII. Aplicar y verificar el cumplimiento de las disposiciones jurídicas en materia de protección marítima;
+
+XXIX. Supervisar y coordinar con las Capitanías de Puerto, la prestación de servicios de ayuda a la navegación y radiocomunicación marítimas, y
+
+XXX. Las demás que le confieran otras disposiciones jurídicas o que le encomiende el Secretario.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 16 Ter.
+
+El Jefe de la Unidad de Capitanías de Puerto y Asuntos Marítimos para el ejercicio de sus facultades, se auxiliará por el Director General Adjunto de Capitanías de Puerto, el Director General Adjunto de Protección y Certificación Marítima, y el Director General Adjunto de Ordenamientos, Enlace, Accidentes e Incidentes Marítimos, las Capitanías de Puerto y demás servidores públicos que se requieran para cumplir con las atribuciones de la Unidad de Capitanías de Puerto y Asuntos Marítimos, cuando se encuentren autorizados presupuestalmente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 16 Quáter.
+
+La Secretaría contará con una Capitanía de Puerto en cada puerto habilitado, las cuales están subordinadas jerárquicamente a la Unidad de Capitanías de Puerto y Asuntos Marítimos y tendrán, dentro de sus respectivas jurisdicciones territoriales y marítimas, las atribuciones siguientes:
+
+I. Abanderar y matricular embarcaciones y artefactos navales de hasta trescientas unidades de arqueo bruto;
+
+II. Autorizar la dimisión de bandera y cancelación de matrícula de las embarcaciones y artefactos navales de hasta trescientas unidades de arqueo bruto, que correspondan al puerto de su jurisdicción;
+
+III. Revocar y, en su caso, suspender los permisos que haya otorgado para la prestación de servicios de transporte marítimo de pasajeros y de turismo náutico dentro de las aguas de su jurisdicción, con embarcaciones menores;
+
+IV. Calificar los casos de arribada forzosa o imprevista, de las embarcaciones que lleguen al puerto de su jurisdicción;
+
+V. Turnar para la resolución del superior jerárquico, los recursos administrativos que en contra de sus actos, promuevan los interesados, y
+
+VI. Las demás que le confieran las leyes y reglamentos, así como aquellas que expresamente se autoricen para su ejercicio en términos de este Reglamento.
+
 ### CAPÍTULO IX. De las Direcciones Generales
 
 ###### Artículo 17.
@@ -871,115 +973,17 @@ XXI. Las demás atribuciones que le confieran las disposiciones jurídicas aplic
 
 El Director General de Investigación y Desarrollo para el ejercicio de sus facultades, se auxiliará por el Director General Adjunto de Oceanografía, Hidrografía y Meteorología, Director del Instituto de Investigación y Desarrollo Tecnológico de la Armada de México, el Coordinador de Proyectos Externos y demás servidores públicos que se requieran para cumplir con las atribuciones de la Dirección General de Investigación y Desarrollo, conforme a los manuales de organización de cada una de las áreas, cuando se encuentren autorizados presupuestalmente.
 
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2017)</small>
-
 ###### Artículo 22 Bis.
 
-A La Dirección General de Capitanías de Puerto y Asuntos Marítimos corresponde:
-
-I. Conducir el ejercicio de la Autoridad Marítima Nacional en las zonas marinas mexicanas, costas y recintos portuarios, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal, en las materias de:
-
-a) Salvaguarda de la vida humana en la mar;
-
-b) Vertimientos de desechos y otras materias al mar distintas al de aguas residuales;
-
-c) Seguridad marítima;
-
-d) Salvamento en caso de accidentes o incidentes de embarcaciones;
-
-e) Control de tráfico marítimo y de la administración y operación del señalamiento marítimo;
-
-f) Regulación y vigilancia de la seguridad de la navegación y de la protección portuaria en los términos que fijan los tratados internacionales y las leyes en la materia, y
-
-g) Supervisar a la Marina Mercante;
-
-II. Conducir, coordinar y supervisar a las Capitanías de Puerto, en el ejercicio que éstas hagan de las atribuciones que les confieren las leyes, tratados internacionales, acuerdo interinstitucional de carácter internacional, reglamentos, normas oficiales mexicanas y demás ordenamientos jurídicos aplicables;
-
-III. Ejercer las atribuciones previstas en el artículo 8 Bis, fracciones IV, V, XV, XVI y XVIII de la Ley de Navegación y Comercio Marítimos, para lo cual, cuando lo estime necesario, podrá auxiliarse de las Capitanías de Puerto;
-
-IV. Proponer al Subsecretario el establecimiento de la jurisdicción territorial de las Capitanías de Puerto, así como la jurisdicción marítima de las mismas;
-
-V. Designar a una Capitanía de Puerto a operar como regional, en el caso de que en una entidad federativa con puertos habilitados se encuentren establecidas más de una Capitanía, a la cual le corresponderá ejercer además de sus atribuciones, las funciones de coordinación y representación administrativas de las otras;
-
-VI. Proponer al Subsecretario la designación y remoción de los titulares de las Capitanías de Puerto;
-
-VII. Autorizar la designación de los delegados honorarios;
-
-VIII. Supervisar los casos de arribada forzosa o imprevista de embarcaciones que autoricen las Capitanías de Puerto en su jurisdicción;
-
-IX. Programar, establecer, operar y controlar el señalamiento marítimo y determinar de conformidad con las disposiciones jurídicas aplicables los términos y condiciones a que deberán apegarse los concesionarios de una administración portuaria integral así como las terminales, marinas, instalaciones portuarias y vías navegables en esta materia;
-
-X. Coordinar con la Secretaría de Comunicaciones y Transportes, en el ámbito de su competencia, el establecimiento de áreas marítimas para fondeaderos, canales de navegación y áreas de seguridad en las zonas adyacentes a los puertos;
-
-XI. Coordinar con la Secretaría de Comunicaciones y Transportes en el ámbito de su competencia la designación de las áreas de seguridad en las instalaciones y áreas de explotación y exploración de recursos naturales en aguas de jurisdicción federal;
-
-XII. Proponer al Subsecretario las normas en materia de búsqueda y rescate para la salvaguarda de la vida humana en la mar en coordinación con la Armada y, en su caso, supervisar que se cumplan las normas que se emitan;
-
-XIII. Ordenar las investigaciones y actuaciones en materia de accidentes e incidentes marítimos, fluviales y lacustres, designar peritos facultados profesionalmente en la materia, así como emitir los dictámenes correspondientes;
-
-XIV. Autorizar:
-
-a) La dimisión de bandera y cancelación de la matrícula de las embarcaciones y de los artefactos navales, y
-
-b) A través del capitán de puerto el abanderamiento, la matriculación, la dimisión de bandera y la cancelación de matrícula, a embarcaciones y artefactos navales de hasta trescientas unidades de arqueo bruto;
-
-XV. Establecer los lineamientos que regulen la inspección y certificación de las embarcaciones y artefactos navales mexicanos, previstas en la Ley de Navegación y Comercio Marítimos;
-
-XVI. Establecer los lineamientos que regulen las inspecciones a las embarcaciones extranjeras de conformidad con los tratados internacionales;
-
-XVII. Efectuar inspecciones, verificar y certificar, por si o a través de terceros autorizados, que las embarcaciones y los artefactos navales cumplan con las disposiciones jurídicas nacionales e internacionales aplicables;
-
-XVIII. Coadyuvar con otras dependencias de la Administración Pública Federal en las actividades de protección al medio ambiente, sin perjuicio de las atribuciones de éstas;
-
-XIX. Supervisar las autorizaciones, revocaciones y suspensiones de permisos, que efectúen las Capitanías de Puerto para la prestación de servicios de transporte marítimo de pasajeros y de turismo náutico, con embarcaciones menores de recreo o deportivas mexicanas o extranjeras;
-
-XX. Supervisar y coordinar con las Capitanías de Puerto los desguaces, remoción y declaratorias de abandono de embarcaciones y artefactos navales que emita el capitán de puerto a favor de la nación;
-
-XXI. Administrar a través de las Capitanías de Puerto los registros nacionales de embarcaciones y de la gente de mar;
-
-XXII. Imponer las sanciones establecidas en la Ley de Navegación y Comercio Marítimos, sus Reglamentos y en los tratados internacionales vigentes en las materias de su competencia por si o a través de las Capitanías de Puerto;
-
-XXIII. Certificar singladuras y expedir las libretas de mar e identidad marítima de la gente de mar, por si o a través de las Capitanías de Puerto;
-
-XXIV. Coordinar a través de las Capitanías de Puerto el cuerpo de vigilancia, seguridad y auxilio en las zonas marinas mexicanas, costas y recintos portuarios;
-
-XXV. Proponer al Subsecretario la expedición de normas oficiales mexicanas en el ámbito de su competencia y verificar su cumplimiento; así como promover la difusión de la normativa en materia de seguridad y protección marítima y portuaria e instalaciones estratégicas del país;
-
-XXVI. Establecer y supervisar los servicios de protección a instalaciones estratégicas del país, en su ámbito de competencia y donde el Ejecutivo Federal lo disponga;
-
-XXVII. Coordinar acciones con la Secretaría de Comunicaciones y Transportes en la aplicación de medidas de seguridad y protección marítima; así como de protección portuaria en los términos que fijan las disposiciones jurídicas nacionales e internacionales aplicables;
-
-XXVIII. Supervisar que las Capitanías de Puerto cumplan con la normatividad vigente, para la autorización de arribos y despachos de las embarcaciones y artefactos navales;
-
-XXIX. Aplicar y verificar el cumplimiento de las disposiciones legales aplicables en materia de protección marítima de las embarcaciones, artefactos navales e instalaciones portuarias;
-
-XXX. Supervisar y coordinar con las Capitanías de Puerto, la prestación de servicios de ayuda a la navegación y radiocomunicación marítimas, y
-
-XXXI. Las demás facultades que le confieran las disposiciones jurídicas aplicables o que le asigne el Secretario.
-
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2017)</small>
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2017)
 
 ###### Artículo 22 Ter.
 
-El Director General de Capitanías de Puerto y Asuntos Marítimos para el ejercicio de sus facultades, se auxiliará por el Director General Adjunto de Capitanías de Puerto, el Director General Adjunto de Protección y Certificación Marítima, y el Director General Adjunto de Ordenamientos, Enlace, Accidentes e Incidentes Marítimos, las Capitanías de Puerto y demás servidores públicos que se requieran para cumplir con las atribuciones de la Dirección General de Capitanías de Puerto y Asuntos Marítimos, cuando se encuentren autorizados presupuestalmente.
-
-> <small>(ADICIONADO, D.O.F. 16 DE JUNIO DE 2017)</small>
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2017)
 
 ###### Artículo 22 Quáter.
 
-La Secretaría contará con una Capitanía de Puerto en cada puerto habilitado, las cuales están subordinadas jerárquicamente a la Dirección General de Capitanías de Puerto y tendrán, dentro de sus respectivas jurisdicciones territoriales y marítimas, las facultades siguientes:
-
-I. Abanderar y matricular embarcaciones y artefactos navales de hasta trescientas unidades de arqueo bruto;
-
-II. Autorizar la dimisión de bandera y cancelación de matrícula de las embarcaciones y artefactos navales de hasta trescientas unidades de arqueo bruto, que correspondan al puerto de su jurisdicción;
-
-III. Revocar y, en su caso, suspender los permisos que haya otorgado para la prestación de servicios de transporte marítimo de pasajeros y de turismo náutico dentro de las aguas de su jurisdicción, con embarcaciones menores;
-
-IV. Calificar los casos de arribada forzosa o imprevista, de las embarcaciones que lleguen al puerto de su jurisdicción;
-
-V. Turnar para la resolución del superior jerárquico, los recursos administrativos que en contra de sus actos, promuevan los interesados, y
-
-VI. Las demás que le confieran las leyes y reglamentos, así como aquellas que expresamente se autoricen para su ejercicio en los términos de este reglamento.
+(DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2017)
 
 ###### Artículo 23.
 
@@ -1238,3 +1242,15 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Se exceptúa de lo señalado en el párrafo anterior, la reforma a la fracción XII del artículo 16, la cual tendrá vigencia el día que entre en vigor la Ley General de Responsabilidades Administrativas.
 
 Segundo.- Las erogaciones que deriven de la aplicación del presente Decreto se atenderán con los recursos humanos, financieros y materiales que traspasará la Secretaría de Comunicaciones y Transportes.
+
+D.O.F. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que deriven de la aplicación del presente Decreto se realizarán mediante movimientos compensados en el presupuesto aprobado a la Secretaría de Marina y en tal virtud, no se requerirán recursos adicionales para tales efectos, y no incrementará su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
+
+Tercero.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, lineamientos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas de la Secretaría de Marina que cambian de denominación o modifican sus atribuciones, por virtud de la entrada en vigor del presente Decreto, se entenderán hechas o conferidas a las unidades administrativas que asuman dichas atribuciones conforme a lo establecido en este ordenamiento.
+
+Cuarto.- Los asuntos que se encuentran en trámite o pendientes de resolución al momento de la entrada en vigor del presente Decreto, serán atendidos y resueltos por las unidades administrativas que resulten competentes conforme a lo previsto en este ordenamiento.
