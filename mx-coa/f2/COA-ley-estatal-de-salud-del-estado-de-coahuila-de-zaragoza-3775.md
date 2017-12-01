@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2017-11-21"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY ESTATAL DE SALUD
+LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -107,53 +107,57 @@ VII. La coordinación de la investigación para la salud y el control de ésta e
 
 VIII. La información relativa a las condiciones, recursos y servicios de salud;
 
-IX. La educación para la salud;
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-X. La orientación y vigilancia en materia de nutrición;
+IX. Actividad Física para la Salud, que tendrá por objeto lo establecido en el artículo 94;
 
-XI. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+X. La educación para la salud;
 
-XII. La salud ocupacional y el saneamiento básico;
+XI. La orientación y vigilancia en materia de nutrición;
 
-XIII. La prevención y el control de enfermedades transmisibles;
+XII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
 
-XIV. La prevención y el control de las enfermedades no transmisibles y accidentes;
+XIII. La salud ocupacional y el saneamiento básico;
+
+XIV. La prevención y el control de enfermedades transmisibles;
+
+XV. La prevención y el control de las enfermedades no transmisibles y accidentes;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-XV. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
+XVI. La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2012)</small>
 
-XVI. La prevención del consumo de narcóticos, la atención a las adicciones y la persecución de los delitos contra la salud, en coordinación con las autoridades federales y en los términos del artículo 474 de la Ley General de Salud;
+XVII. La prevención del consumo de narcóticos, la atención a las adicciones y la persecución de los delitos contra la salud, en coordinación con las autoridades federales y en los términos del artículo 474 de la Ley General de Salud;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
-XVII. El desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, en coordinación con las autoridades federales y de conformidad con los acuerdos de coordinación específicos que al efecto se celebren;
+XVIII. El desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia, en coordinación con las autoridades federales y de conformidad con los acuerdos de coordinación específicos que al efecto se celebren;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XVIII. Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas de cualquier tipo, de conformidad con lo establecido por las disposiciones aplicables. En lo que corresponde a los establecimientos donde se expendan o suministren al público, bebidas alcohólicas, se aplicará además, la Ley para la Regulación de la Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza
-
-> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
-
-XIX. La protección social en salud;
+XIX. Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas de cualquier tipo, de conformidad con lo establecido por las disposiciones aplicables. En lo que corresponde a los establecimientos donde se expendan o suministren al público, bebidas alcohólicas, se aplicará además, la Ley para la Regulación de la Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza;
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
-XX. La salud visual;
+XX. La protección social en salud;
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
-XXI. La salud auditiva;
+XXI. La salud visual;
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
-XXII. La asistencia social, conforme a lo establecido por la Ley de Asistencia Social para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables, y
+XXII. La salud auditiva;
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2010)</small>
+
+XXIII. La asistencia social, conforme a lo establecido por la Ley de Asistencia Social para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables, y
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
-XXIII. Las demás que establezca la Ley General de Salud y otras disposiciones aplicables.
+XXIV. Las demás que establezca la Ley General de Salud y otras disposiciones aplicables.
 
 B. En materia de Salubridad Local:
 
@@ -269,7 +273,9 @@ XII. Apoyar la coordinación entre las instituciones de salud y las educativas e
 
 XIII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
-XIV. Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XIV. Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud, así como en la cultura de la donación altruista de órganos y sangre;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -1115,6 +1121,20 @@ III. Orientar y capacitar a la población preferentemente en materia de nutrici�
 
 IV. Recomendar a la población actividades físicas, de salud nutricional e insumos para la salud, para desacelerar las tendencias de enfermedades crónico degenerativas con base en los datos que se deberán incluir en las recetas médicas tales como edad, peso, talla, circunferencia de cintura e índices de masa corporal.
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+La actividad física para la salud tendrá por objeto:
+
+a) Fomentar, orientar y capacitar a la población para el desarrollo de actitudes y conductas que le permitan reconocer los beneficios de la actividad física en la salud, así como el medio para prevenir algunas enfermedades, en especial las crónico-degenerativas;
+
+b) Proporcionar a la población los conocimientos sobre los daños por el sedentarismo, la obesidad y la falta de actividad física;
+
+c) Dar continuidad a programas tendientes a establecer los medios para ofertar servicios de manera regular y sistemática, para que la práctica de la actividad física sea acorde con las necesidades y posibilidades físicas de los individuos.
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+V. La educación para la cultura de la donación altruista de órganos y trasfusión de sangre.
+
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 95.
@@ -1881,7 +1901,7 @@ X. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
 
 Artículo 155 bis 3. En la esfera de su competencia, corresponde a los municipios:
 
-I. Diseñar, formular y aplicar, en coordinación con el Consejo Estatal contra las Adiciones (sic), la política municipal orientada a la sensibilización, prevención y erradicación de las adicciones;
+I. Diseñar, formular y aplicar, en coordinación con el Consejo Estatal contra las Adicciones (sic), la política municipal orientada a la sensibilización, prevención y erradicación de las adicciones;
 
 II. Brindar capacitación sobre las adicciones al personal del ayuntamiento y, en especial, a las personas que asistan a adictos, a fin de mejorar la atención y asistencia que se otorga a los mismos;
 
@@ -1967,9 +1987,15 @@ II. Los establecimientos y servicios a que se refiere el Artículo 4o. apartado 
 
 La Secretaría de Salud del Estado, emitirá las normas técnicas a que quedará sujeto el control sanitario de las materias de salubridad local.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 163.
 
-Los establecimientos que señala el Artículo 4o. apartado "B" de esta Ley, no requerirán de autorización sanitaria; debiéndose ajustar al control y verificación sanitarios, así como a los requisitos sanitarios establecidos en las disposiciones reglamentarias y normas técnicas que en materia de salubridad local se expidan.
+Los establecimientos y servicios relacionados con las actividades profesionales, técnicas y auxiliares que señala la presente ley deberán:
+
+I. Definir ante la Secretaría el horario de atención y servicio del responsable sanitario;
+
+II. Contar con la presencia del personal idóneo con cédula y título profesional, conforme a la legislación aplicable, para el desarrollo de cualquier campaña de salud.
 
 ###### Artículo 164.
 
@@ -3348,3 +3374,21 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1009.- SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 7°, DE LA LEY ESTATAL DE SALUD".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1011.- SE REFORMA EL ARTÍCULO 163 DE LA LEY ESTATAL DE LA (SIC) SALUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1012.- SE REFORMA Y ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE LAS ULTERIORES DEL ARTÍCULO 4°, Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN IV Y UNA FRACCIÓN V AL ARTÍCULO 94 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
