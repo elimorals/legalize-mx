@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-de-datos-personales-en-posesion-de-122958"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-17"
-last_updated: "2017-08-17"
+last_updated: "2017-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Anexo al Número 99 del Periódico Oficial del Estado de Tamaulipas, el jueves 17 de agosto de 2017.
 
@@ -1119,19 +1119,27 @@ La persona designada como oficial de protección de datos deberá contar con la 
 
 El oficial de protección de datos personales será designado atendiendo a sus conocimientos, cualidades profesionales, experiencia mínima de cinco años en la materia, y, en su caso, a la o las certificaciones con que cuente en materia de protección de datos personales.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 112.
 
-El oficial de protección de datos personales tendrá las siguientes atribuciones:
+El oficial de protección de datos personales tendrá las siguientes funciones:
 
-I. Asesorar al Comité de Transparencia respecto a los temas que sean sometidos a su consideración en materia de protección de datos personales;
+I. Auxiliar y orientar al titular que lo requiera con relación al ejercicio del derecho a la protección de datos personales;
 
-II. Proponer al Comité de Transparencia políticas, programas, acciones y demás actividades que correspondan para el cumplimiento de la presente Ley y demás disposiciones que resulten aplicables en la materia;
+II. Gestionar las solicitudes para el ejercicio de los derechos ARCO;
 
-III. Implementar políticas, programas, acciones y demás actividades que correspondan para el cumplimiento de la presente Ley y demás disposiciones que resulten aplicables en la materia, previa autorización del Comité de Transparencia;
+III. Establecer mecanismos para asegurar que los datos personales solo se entreguen a su titular o su representante debidamente acreditados;
 
-IV. Asesorar permanentemente a las áreas adscritas al responsable en materia de protección de datos personales; y
+IV. Informar al titular o su representante el monto de los costos a cubrir por la reproducción y envío de los datos personales, con base en lo establecido en las disposiciones normativas aplicables;
 
-V. Las demás que determine la normatividad aplicable.
+V. Proponer al Comité de Transparencia los procedimientos internos que aseguren y fortalezcan mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos ARCO;
+
+VI. Aplicar instrumentos de evaluación de calidad sobre la gestión de las solicitudes para el ejercicio de los derechos ARCO:
+
+VII. Asesorar a las áreas adscritas al responsable en materia de protección de datos personales; y
+
+VIII. Las demás que determine la normatividad aplicable.
 
 ###### Artículo 113.
 
@@ -1411,15 +1419,37 @@ En ningún caso será necesario que el titular ratifique el recurso de revisión
 
 El titular deberá acompañar a su escrito los siguientes documentos:
 
-I. Los documentos que acrediten su identidad y la de su representante, en su caso;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-II. El documento que acredite la personalidad de su representante, en su caso;
+I. El área responsable ante quien se presentó la solicitud para el ejercicio de los derechos ARCO;
 
-III. La copia de la solicitud a través de la cual ejerció sus derechos ARCO o de portabilidad de los datos personales y que fue presentada ante el responsable y los documentos anexos a la misma, con su correspondiente acuse de recepción;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-IV. La copia de la respuesta del responsable que se impugna y de la notificación correspondiente, en su caso; y
+II. El nombre del titular que recurre o su representante y, en su caso, del tercero interesado, así como el domicilio o medio que señale para recibir notificaciones;
 
-V. Las pruebas y demás elementos que considere el titular someter a juicio del Instituto.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+III. La fecha en que fue notificada la respuesta al titular, o bien, en caso de falta de respuesta la fecha de la presentación de la solicitud para el ejercicio de los derechos ARCO;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+IV. El acto que se recurre y los puntos petitorios, así como las razones o motivos de inconformidad;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+V. En su caso, copia de la respuesta que se impugna y de la notificación correspondiente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+VI. Los documentos que acrediten la identidad del titular y, en su caso, la personalidad e identidad de su representante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Al recurso de revisión se podrán acompañar las pruebas y demás elementos que el titular considere procedentes someter a juicio del Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+En ningún caso será necesario que el titular ratifique el recurso de revisión interpuesto.
 
 ###### Artículo 136.
 
@@ -2065,17 +2095,21 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en el 
 
 Se derogan todas aquellas disposiciones en materia de protección de datos personales, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO TERCERO.
 
-Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de ésta.
+Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente ley y demás disposiciones aplicables, a partir del momento en el cual se recaben sus datos personales, con el objeto de informarles los propósitos del tratamiento de los mismos.
 
 ###### ARTÍCULO CUARTO.
 
-A partir de la entrada en vigor del presente Decreto, los responsables podrán atender en forma paulatina los deberes que les establece esta Ley, debiendo implementar las acciones administrativas conducentes para tal efecto, con base en su capacidad institucional, contando con el término de un año desde el primer día de su vigencia para efecto de cumplir en forma plena y en todos sus términos con lo establecido en el Capítulo II del Título Segundo de este ordenamiento.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO QUINTO.
 
-El Instituto deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un año siguiente a la entrada en vigor de ésta.
+El Instituto deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente ley, a más tardar el veintisiete de enero de dos mil dieciocho.
 
 ###### ARTÍCULO SEXTO.
 
@@ -2085,10 +2119,20 @@ Los procedimientos iniciados durante la vigencia de la Ley de Transparencia y Ac
 
 En el Presupuesto de Egresos del Estado, para el ejercicio fiscal del próximo año, deberán considerarse las provisiones presupuestales conducentes, para el cumplimiento de las obligaciones y ejercicio de los derechos previstos en esta Ley.
 
-SALÓN DE SESIONES DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- Cd. Victoria, Tam., a 6 de julio del año 2017.- DIPUTADA PRESIDENTA.- ISSIS CANTÚ MANZANO.- Rúbrica.- DIPUTADO SECRETARIO.- CARLOS GERMÁN DE ANDA HERNÁNDEZ.- Rúbrica.- DIPUTADO SECRETARIO.- CARLOS GUILLERMO MORRIS TORRE.- Rúbrica.”
+SALÓN DE SESIONES DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- Cd. Victoria, Tam., a 6 de julio del año 2017.- DIPUTADA PRESIDENTA.- ISSIS CANTÚ MANZANO.- Rúbrica.- DIPUTADO SECRETARIO.- CARLOS GERMÁN DE ANDA HERNÁNDEZ.- Rúbrica.- DIPUTADO SECRETARIO.- CARLOS GUILLERMO MORRIS TORRE.- Rúbrica."
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los siete días del mes de julio del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-298 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 112; 135; TERCERO Y QUINTO TRANSITORIOS; Y SE DEROGA EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
