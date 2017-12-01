@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2017-09-14"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1319,7 +1319,13 @@ III.- Su tutor;
 
 IV.- Sus hermanos y demás parientes colaterales dentro del cuarto grado;
 
-V.- El Ministerio Público.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+V.- El Ministerio Público; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+VI.- La Procuraduría de la Defensa del Adulto Mayor del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
 > <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
 
@@ -10294,3 +10300,11 @@ P.O. 14 DE SEPTIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-310 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 291 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
