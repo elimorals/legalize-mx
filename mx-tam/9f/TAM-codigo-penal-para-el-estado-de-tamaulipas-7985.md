@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2017-06-08"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1939,13 +1939,15 @@ Se aplicará sanción de cuatro a doce años de prisión a los particulares que 
 
 Si la reaprehensión del prófugo se lograre por gestiones del responsable de la evasión, se aplicará a éste la sanción de tres días a un año de prisión.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 162.
 
-Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos, o ejerciere violencia en las personas o en las cosas, en cuyo caso se le impondrá la sanción de seis meses a tres años de prisión.
+Al preso que se fugue, se le impondrá de seis meses a tres años de prisión; esta pena se incrementará en un tercio cuando la persona obre de concierto con otra u otras personas privadas de su libertad y se fugue alguna de ellas o ejerciere violencia en las personas o en las cosas.
 
 ###### ARTICULO 163.
 
-No se impondrá sanción a los ascendientes, descendientes, cónyuge, concubina, concubinario, hermanos y parientes por afinidad hasta el segundo grado del prófugo, excepto en el caso que hayan favorecido la fuga por medio de la violencia en las personas o en las cosas.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2017)
 
 ### CAPITULO II. QUEBRANTAMIENTO DE SANCION
 
@@ -4007,9 +4009,9 @@ Si el activo cumple su amenaza se acumulará la sanción de ésta y la del delit
 
 Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza la que le corresponda por su participación en el delito que resulte.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-ARTICULO 309 BIS.- Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización, a quien, por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, embarazo, la religión, las opiniones, las preferencias sexuales, el estado civil, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como a quien niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
+ARTICULO 309 BIS.- Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización, a quien, por razón de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, embarazo, la religión, las opiniones, las preferencias sexuales, el estado civil, los tatuajes, así como marcas o modificaciones en la piel, o cualquier otro que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas, así como a quien niegue a una persona un servicio o una prestación a la que tenga derecho. Para los efectos de esta fracción, se considera que toda persona tiene derecho a los servicios o prestaciones que se ofrecen al público en general.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
 
@@ -6572,6 +6574,26 @@ V. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sente
 ###### ARTÍCULO TERCERO.
 
 Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-297 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 162 Y SE DEROGA EL ARTÍCULO 163, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En los procesos penales por evasión de presos que estén en curso al momento del inicio de vigencia del presente decreto, se estará al tipo penal y sanciones previstas en la legislación penal vigente a la fecha de la comisión del delito.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-315 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 309 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS Y LOS ARTÍCULOS 3 PÁRRAFO 1 Y 4 PÁRRAFO 1, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO OCTAVO.
 
