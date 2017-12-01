@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2017-02-07"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -721,13 +721,17 @@ V.- Los Jefes de Departamento;
 
 VI.- Los Jefes de Unidad;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-VII.- El Procurador de la Defensa del Menor y la Familia; y
+VII.- El Procurador de la Defensa del Menor y la Familia;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Los Secretarios Particulares y Privados de los empleados antes mencionados.
+VIII.- Los Secretarios Particulares y Privados de los empleados antes mencionados; y
+
+> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+IX.- El Procurador de la Defensa del Adulto Mayor.
 
 ###### ARTICULO 40.
 
@@ -938,6 +942,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE FEBRERO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-112 MEDIANTE EL CUAL EL (SIC) SE REFORMAN LOS ARTÍCULOS 5o. FRACCIÓN X, 14 FRACCIÓN XXIII, Y 19 FRACCIÓN XXVII; Y SE ADICIONAN LA FRACCIÓN XXIV AL ARTÍCULO 14, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XXIV PARA SER XXV; Y, UNA FRACCIÓN XXVIII AL ARTÍCULO 19, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XXVIII PARA SER XXIX, DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-267 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS; Y DE LA LEY SOBRE EL SISTEMA DE ASISTENCIA SOCIAL".]
 
 ###### ARTÍCULO ÚNICO.
 
