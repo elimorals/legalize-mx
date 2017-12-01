@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-74938"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-14"
-last_updated: "2017-11-21"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "COA"
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE DICIEMBRE DE 2017.]</small>
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 14 de mayo de 2010.
 
@@ -127,141 +129,273 @@ VII. La atención prioritaria para la población vulnerable.
 
 Para los efectos de esta ley se entiende por:
 
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 I. Agente afectable. Personas, bienes, infraestructura, servicios, planta productiva, así como el medio ambiente, que son propensos a ser afectados o dañados por un agente perturbador;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 II. Agente perturbador. Acontecimiento o fenómeno de origen natural o antropogénico que puede impactar a un sistema afectable y transformar su estado normal en un estado de daños que pueden llegar al grado de desastre. También se le llama calamidad, fenómeno destructivo, agente destructivo, sistema perturbador o evento perturbador;
 
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 III. Agente regulador. Lo constituyen las acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente, a reducir los riesgos y a controlar y prevenir los efectos adversos de un agente perturbador;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 IV. Albergado. Persona que en forma temporal recibe asilo, amparo, alojamiento y resguardo ante la amenaza, inminencia u ocurrencia de un agente perturbador;
 
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 V. Área de Protección. Las zonas de la entidad sujetas al régimen de protección civil para efectos de coordinar los trabajos y acciones de los sectores público, social y privado en materia de prevención y auxilio ante la realización de acciones preventivas o correctivas y ante la eventualidad de un desastre;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 VI. Atlas Estatal de Riesgos. Sistema integral de información sobre los agentes perturbadores y daños esperados, resultado de un análisis espacial y temporal sobre la interacción entre los peligros, la vulnerabilidad y el grado de exposición de la población a los agentes perturbadores;
 
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 VII. Auxilio. Respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DE LOS INCISOS PUBLICADOS EN EL DECRETO NÚMERO 944, PUBLICADO EN EL P.O. DE 6 DE OCTUBRE DE 2017, PÁGINAS 25 Y 26.]</small>
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-a. Auto declaratoria. Procedimiento para el cumplimiento de obligaciones anuales de acuerdo a la presente ley, al que están obligados los establecimientos asentados en territorio coahuilense;
+VIII. Auto declaratoria. Procedimiento para el cumplimiento de obligaciones anuales de acuerdo a la presente ley, al que están obligados los establecimientos asentados en territorio coahuilense;
 
-b. Brigada. Grupo de personas que se organizan dentro de un inmueble, o establecimiento capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el Programa Interno de Protección Civil del inmueble;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-c. Cambio climático. Cambio en el clima, atribuible directa o indirectamente a la actividad humana, que altera la composición de la atmósfera mundial y que se suma a la variabilidad climática natural observada durante períodos comparables;
+IX. Brigada. Grupo de personas que se organizan dentro de un inmueble, o establecimiento capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación, con base en lo estipulado en el Programa Interno de Protección Civil del inmueble;
 
-d. Carta de corresponsabilidad. Documento expedido por las empresas capacitadoras y de consultoría, instructores independientes y consultores en estudio de riesgo de vulnerabilidad, registrados ante la autoridad de protección civil, que elaboran un Programa de Protección Civil, para solicitar su aprobación y revalidación, en el que se responsabilizan solidariamente, con la persona física o moral que solicitó su elaboración, del funcionamiento y aplicación del programa elaborado;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-e. Concentración masiva. Pluralidad de individuos que se encuentran reunidos en un espacio y tiempo determinados; tomando en consideración las dimensiones, características y giro del establecimiento en donde se concentren las personas;
+X. Cambio climático. Cambio en el clima, atribuible directa o indirectamente a la actividad humana, que altera la composición de la atmósfera mundial y que se suma a la variabilidad climática natural observada durante períodos comparables;
 
-f. Consejo Estatal. El Consejo Estatal de Protección Civil;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-g. Consejos Municipales. Los Consejos Municipales de Protección Civil;
+XI. Carta de corresponsabilidad. Documento expedido por las empresas capacitadoras y de consultoría, instructores independientes y consultores en estudio de riesgo de vulnerabilidad, registrados ante la autoridad de protección civil, que elaboran un Programa de Protección Civil, para solicitar su aprobación y revalidación, en el que se responsabilizan solidariamente, con la persona física o moral que solicitó su elaboración, del funcionamiento y aplicación del programa elaborado;
 
-h. Continuidad de operaciones. Proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración. Estas acciones deben ser avaladas por sesiones de capacitación continua y realización de simulacros;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-i. Damnificado. Persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre, ya sea en lo individual o en su conjunto;
+XII. Concentración masiva. Pluralidad de individuos que se encuentran reunidos en un espacio y tiempo determinados; tomando en consideración las dimensiones, características y giro del establecimiento en donde se concentren las personas;
 
-j. Daño. El menoscabo o deterioro causado a la persona, a sus bienes o al medio ambiente, como consecuencia del impacto de un desastre;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-k. Declaratoria de emergencia o desastre. Es el acto mediante el cual se reconoce que uno o varios fenómenos de carácter geológico, hidro-meteorológico, químico-tecnológico, sanitario-ecológico o socio-organizativo pueden causar o han causado daños severos a las personas, bienes o al medio ambiente;
+XIII. Consejo Estatal. El Consejo Estatal de Protección Civil;
 
-l. Desastre. Al resultado de la ocurrencia de uno o más agentes perturbadores severos y o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-VIII. Donativo. La aportación en dinero o en especie que realizan las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio autorizados o en las instituciones de crédito, para ayudar a las entidades federativas, municipios o comunidades en emergencia o desastre;
+XIV. Consejos Municipales. Los Consejos Municipales de Protección Civil;
 
-IX. Disturbios. Las contingencias que pudieran presentarse derivadas de amenazas de atentados o ataques, despliegue de las fuerzas de seguridad, terrorismo, interrupción de servicios básicos, bloqueos a las vías terrestres de comunicación y cualquier otra acción de naturaleza análoga que pudiera poner en riesgo la salud, seguridad, así como la integridad de las personas;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-X. Emergencia. Situación anormal que puede causar un daño a la sociedad y propiciar un riesgo excesivo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
+XV. Continuidad de operaciones. Proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas de las instituciones públicas, privadas y sociales, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración. Estas acciones deben ser avaladas por sesiones de capacitación continua y realización de simulacros;
 
-XI. Establecimientos. A los centros educativos y de investigación, estancias, guarderías, fábricas, empresas, comercios, restaurantes, bares, cantinas, discotecas, almacenes, hoteles, moteles, circos, centros de espectáculos, centros de salud públicos y privados, oficinas públicas y privadas, teatros, estadios, centros recreativos, salones de fiestas y, en general, cualquier instalación, construcción, actividad, servicio u obra en los que debido a su propia naturaleza, al uso que se destine o a la concurrencia de personas, pueda existir riesgo;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XII. Estado. El Estado de Coahuila de Zaragoza;
+XVI. Damnificado. Persona afectada por un agente perturbador, ya sea que haya sufrido daños en su integridad física o un perjuicio en sus bienes de tal manera que requiere asistencia externa para su subsistencia; considerándose con esa condición en tanto no se concluya la emergencia o se restablezca la situación de normalidad previa al desastre, ya sea en lo individual o en su conjunto;
 
-XIII. Evacuación. La medida preventiva y de seguridad consistente en la movilización y desalojo de personas que se encuentran dentro de un perímetro que no ofrece márgenes adecuados de seguridad ante la presencia inminente de un desastre;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XIV. Fenómeno antropogénico. Agente perturbador producido por la actividad humana;
+XVII. Daño. El menoscabo o deterioro causado a la persona, a sus bienes o al medio ambiente, como consecuencia del impacto de un desastre:
 
-XV. Fenómeno natural perturbador. Agente perturbador producido por la naturaleza;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XVI. Fenómeno geológico. Agente perturbador que tiene como causa directa las acciones y movimientos de la corteza terrestre. A esta categoría pertenecen los sismos, la inestabilidad de laderas, los flujos, los caídos o derrumbes, los hundimientos, la subsidencia y los agrietamientos;
+XVIII. Declaratoria de emergencia o desastre. Es el acto mediante el cual se reconoce que uno o varios fenómenos de carácter geológico, hidro-meteorológico, químico-tecnológico, sanitario-ecológico o socio-organizativo pueden causar o han causado daños severos a las personas, bienes o al medio ambiente;
 
-XVII. Fenómeno hidro-meteorológico. Agente perturbador que se genera por la acción de los agentes atmosféricos, tales como: lluvias extremas, inundaciones pluviales, fluviales, y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías; ondas cálidas y gélidas; y tornados;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XVIII. Fenómeno químico-tecnológico. Agente perturbador que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas, radiaciones y derrames;
+XIX. Desastre. Al resultado de la ocurrencia de uno o más agentes perturbadores severos y o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
 
-XIX. Fenómeno sanitario-ecológico. Agente perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o la alteración de su salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XX. Fenómeno socio-organizativo. Agente perturbador que se genera con motivo de errores humanos o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: demostraciones de inconformidad social, concentración masiva de población, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres, e interrupción o afectación de los servicios básicos o de infraestructura estratégica;
+XX. Donativo. La aportación en dinero o en especie que realizan las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio autorizados o en las instituciones de crédito, para ayudar a las entidades federativas, municipios o comunidades en emergencia o desastre;
 
-XXI. Gestión Integral de Riesgos. El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXII. Grupos voluntarios. Las personas morales o las personas físicas, que se han acreditado ante las autoridades competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar de manera altruista y comprometida, sus servicios en acciones de protección civil;
+XXI. Disturbios. Las contingencias que pudieran presentarse derivadas de amenazas de atentados o ataques, despliegue de las fuerzas de seguridad, terrorismo, interrupción de servicios básicos, bloqueos a las vías terrestres de comunicación y cualquier otra acción de naturaleza análoga que pudiera poner en riesgo la salud, seguridad, así como la integridad de las personas;
 
-XXIII. Hospital seguro. Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXIV. Identificación de riesgos. Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+XXII. Emergencia. Situación anormal que puede causar un daño a la sociedad y propiciar un riesgo excesivo para la seguridad e integridad de la población en general, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
 
-XXV. Instrumentos de administración y transferencia de riesgos. Son aquellos programas o mecanismos financieros que permiten a las entidades públicas de los diversos órdenes de gobierno, compartir o cubrir sus riesgos catastróficos, transfiriendo el costo total o parcial a instituciones financieras nacionales o internacionales;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXVI. Material peligroso. Es toda sustancia sólida, líquida o gaseosa que por sus características físicas, químicas o biológicas puede ocasionar daños a los seres humanos, al medio ambiente y a los bienes;
+XXIII. Establecimientos. A los centros educativos y de investigación, estancias, guarderías, fábricas, empresas, comercios, restaurantes, bares, cantinas, discotecas, almacenes, hoteles, moteles, circos, centros de espectáculos, centros de salud públicos y privados, oficinas públicas y privadas, teatros, estadios, centros recreativos, salones de fiestas y, en general, cualquier instalación, construcción, actividad, servicio u obra en los que debido a su propia naturaleza, al uso que se destine o a la concurrencia de personas, pueda existir riesgo;
 
-XXVII. Mitigación. Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXVIII. Peligro. Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
+XXIV. Estado. El Estado de Coahuila de Zaragoza;
 
-XXIX. Plan Estatal. Plan Estatal de Protección Civil;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXX. Preparación. Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
+XXV. Evacuación. La medida preventiva y de seguridad consistente en la movilización y desalojo de personas que se encuentran dentro de un perímetro que no ofrece márgenes adecuados de seguridad ante la presencia inminente de un desastre:
 
-XXXI. Prevención. Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXXII. Previsión. Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
+XXVI. Fenómeno antropogénico. Agente perturbador producido por la actividad humana;
 
-XXXIII. Programa Estatal. El Programa Estatal de Protección Civil;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXXIV. Programa Interno de Protección Civil. Es un instrumento de planeación y operación, circunscrito al ámbito de una dependencia, entidad, institución u organismo del sector público, privado o social; que se compone por el plan operativo para la Unidad Interna de Protección Civil, el plan para la continuidad de operaciones y el plan de contingencias, y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de alguna emergencia o desastre;
+XXVII. Fenómeno natural perturbador. Agente perturbador producido por la naturaleza;
 
-XXXV. Protección Civil. Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXXVI. Reconstrucción. La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
+XXVIII. Fenómeno geológico. Agente perturbador que tiene como causa directa las acciones y movimientos de la corteza terrestre. A esta categoría pertenecen los sismos, la inestabilidad de laderas, los flujos, los caídos o derrumbes, los hundimientos, la subsidencia y los agrietamientos;
 
-XXXVII. Recuperación. Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXXVIII. Reducción de riesgos. Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
+XXIX. Fenómeno hidro-meteorológico. Agente perturbador que se genera por la acción de los agentes atmosféricos, tales como: lluvias extremas, inundaciones pluviales, fluviales, y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías; ondas cálidas y gélidas; y tornados;
 
-XXXIX. Refugio temporal. La instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XL. Rescate. El operativo de emergencia en zonas afectadas por un desastre, consistente en el retiro y traslado de víctimas bajo soporte vital básico, desde el foco de peligro hasta la unidad asistencial que ofrezca atenciones y cuidados de mayor alcance;
+XXX. Fenómeno químico-tecnológico. Agente perturbador que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas, radiaciones y derrames;
 
-XLI. Resiliencia. Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XLII. Riesgo. Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
+XXXI. Fenómeno sanitario-ecológico. Agente perturbador que se genera por la acción patógena de agentes biológicos que afectan a la población, a los animales y a las cosechas, causando su muerte o la alteración de su salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
 
-XLIII. Riesgo inminente. Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XLIV. Secretaría. La Secretaría de Gobierno;
+XXXII. Fenómeno socio-organizativo. Agente perturbador que se genera con motivo de errores humanos o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población, tales como: demostraciones de inconformidad social, concentración masiva de población, terrorismo, sabotaje, vandalismo, accidentes aéreos, marítimos o terrestres, e interrupción o afectación de los servicios básicos o de infraestructura estratégica;
 
-XLV. Seguro. Instrumento de Administración y Transferencia de Riesgos;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XLVI. Simulacro. Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
+XXXIII. Gestión Integral de Riesgos. El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra a los tres niveles de gobierno, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y/o su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
-XLVII. Sistema. El Sistema Estatal de Protección Civil;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XLVIII. Siniestro. Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
+XXXIV. Grupos voluntarios. Las personas morales o las personas físicas, que se han acreditado ante las autoridades competentes, y que cuentan con personal, conocimientos, experiencia y equipo necesarios, para prestar de manera altruista y comprometida, sus servicios en acciones de protección civil;
 
-XLIX. Subsecretaría. La Subsecretaría de Protección Civil de la Secretaría de Gobierno;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-L. Unidad Interna de Protección Civil. El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
+XXXV. Hospital seguro. Establecimiento de servicios de salud que debe permanecer accesible y funcionando a su máxima capacidad, con la misma estructura, bajo una situación de emergencia o de desastre;
 
-LI. Unidades Municipales de Protección Civil. Los organismos de la administración pública de los municipios, encargados de la organización, coordinación y operación del Sistema Estatal de Protección Civil, en su demarcación territorial;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-LII. Vulnerabilidad. Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+XXXVI. Identificación de riesgos. Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
 
-LIII. Zona de desastre. Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad;
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-LIV. Zona de Riesgo. Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y
+XXXVII. Instrumentos de administración y transferencia de riesgos. Son aquellos programas o mecanismos financieros que permiten a las entidades públicas de los diversos órdenes de gobierno, compartir o cubrir sus riesgos catastróficos, transfiriendo el costo total o parcial a instituciones financieras nacionales o internacionales;
 
-LV. Zona de riesgo grave. Asentamiento humano que se encuentra dentro de una zona en peligro de sufrir un daño originado por un posible fenómeno perturbador, con consecuencias perjudiciales.
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XXXVIII. Material peligroso. Es toda sustancia sólida, líquida o gaseosa que por sus características físicas, químicas o biológicas puede ocasionar daños a los seres humanos, al medio ambiente y a los bienes;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XXXIX. Mitigación. Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XL. Peligro. Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XLI. Plan Estatal. Plan Estatal de Protección Civil;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XLII. Preparación. Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XLIII. Prevención. Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XLIV. Previsión. Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XLV. Programa Estatal. El Programa Estatal de Protección Civil;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XLVI. Programa Interno de Protección Civil. Es un instrumento de planeación y operación, circunscrito al ámbito de una dependencia, entidad, institución u organismo del sector público, privado o social; que se compone por el plan operativo para la Unidad Interna de Protección Civil, el plan para la continuidad de operaciones y el plan de contingencias, y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de alguna emergencia o desastre;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XLVII. Protección Civil. Es la acción solidaría y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XLVIII. Reconstrucción. La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XLIX. Recuperación. Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+L. Reducción de riesgos. Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LI. Refugio temporal. La instalación física habilitada para brindar temporalmente protección y bienestar a las personas que no tienen posibilidades inmediatas de acceso a una habitación segura en caso de un riesgo inminente, una emergencia, siniestro o desastre;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LII. Rescate. El operativo de emergencia en zonas afectadas por un desastre, consistente en el retiro y traslado de víctimas bajo soporte vital básico, desde el foco de peligro hasta la unidad asistencial que ofrezca atenciones y cuidados de mayor alcance;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LIII. Resiliencia. Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LIV. Riesgo. Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LV. Riesgo inminente. Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LVI. Secretaría. La Secretaría de Gobierno;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LVII. Seguro. Instrumento de Administración y Transferencia de Riesgos;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LVIII. Simulacro. Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables:
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LIX. Sistema. El Sistema Estatal de Protección Civil;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LX. Siniestro. Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LXI. Subsecretaría. La Subsecretaría de Protección Civil de la Secretaría de Gobierno;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LXII. Unidad Interna de Protección Civil. El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LXIII. Unidades Municipales de Protección Civil. Los organismos de la administración pública de los municipios, encargados de la organización, coordinación y operación del Sistema Estatal de Protección Civil, en su demarcación territorial;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LXIV. Vulnerabilidad. Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LXV. Zona de desastre. Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad;
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LXVI. Zona de Riesgo. Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador, y
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+LXVII. Zona de riesgo grave. Asentamiento humano que se encuentra dentro de una zona en peligro de sufrir un daño originado por un posible fenómeno perturbador, con consecuencias perjudiciales.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2011)</small>
 
@@ -1751,7 +1885,7 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 21 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 998.- SE MODIFICAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL EQUILIBRIO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 998.- SE MODIFICAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL EQUILIBRIO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
