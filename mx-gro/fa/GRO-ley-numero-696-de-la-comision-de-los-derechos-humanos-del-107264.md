@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-696-de-la-comision-de-los-derechos-humanos-del-10726
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-20"
-last_updated: "2015-08-25"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 696 DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 20 de marzo de 2015.
 
@@ -997,15 +997,15 @@ Una vez aceptadas las medidas a que se refiere este capítulo, las autoridades o
 
 ###### ARTÍCULO 100.
 
-El recurso de reconsideración tiene por objeto que la Comisión confirme, revoque o modifique la recomendación impugnada, dando definitividad a la misma.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 101.
 
-El servidor público a quien se haya emitido una recomendación y señalado como responsable de violaciones de derechos humanos, están legitimados para interponer, por una sola ocasión el recurso de reconsideración.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 102.
 
-El término para la interposición del recurso es de cinco días hábiles, contados a partir del día siguiente de haberse notificado la recomendación al funcionario involucrado.
+(DEROGADO, P.O. 1 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 103.
 
@@ -1258,3 +1258,13 @@ Las presentes reformas a los artículos 17, fracción IV y 104 de la Ley Numero 
 ###### ARTICULO SEGUNDO.
 
 Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales conducentes.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 495 POR EL QUE SE DEROGAN LOS ARTÍCULOS 100, 101 Y 102, DE LA LEY NÚMERO 696 DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales conducentes
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero y en la página Web de este Honorable Congreso para el conocimiento.
