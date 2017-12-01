@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2017-11-14"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -91,6 +91,14 @@ La Secretaría de Educación del Estado establecerá los mecanismos para la regu
 
 En ningún caso podrán condicionarse la inscripción, acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación, el acceso a cualquier servicio educativo en la escuela o afectar en cualquier sentido la igualdad en el trato de los alumnos, al pago de contraprestación alguna o al pago del mencionado donativo.
 
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Las escuelas públicas y privadas en el Estado de Coahuila que establezcan el uso de uniformes para los alumnos, deberán conceder un plazo de hasta cuarenta días hábiles para que cumplan con este requisito, otorgando a los padres y tutores la libertad de adquirirlos con el proveedor de su elección.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+La falta de uniforme escolar no será motivo para impedir o negar el acceso a los servicios educativos a los estudiantes.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2009)</small>
 
 ###### ARTICULO 7°.
@@ -109,7 +117,9 @@ V.- Fomentar una conciencia de respeto a los derechos de las personas y de la so
 
 VI.- Procurar las condiciones necesarias para la erradicación de las desigualdades sociales y contribuir de esta manera a la construcción y desarrollo de una sociedad con mejores condiciones de vida;
 
-VII.- Encauzar el desarrollo y la aplicación de la ciencia y la tecnología en atención a los requerimientos de la sociedad;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+VII.- Encauzar el desarrollo y la aplicación de la ciencia y la tecnología en atención a los requerimientos de la sociedad; fomentando entre los educandos el uso adecuado de las tecnologías de la información y la comunicación, el conocimiento y la conciencia respecto a las mejores prácticas como herramienta apropiada, así como prevenir la comisión de delitos en materia de tecnologías y cibernéticos, advirtiendo de los riesgos por el uso de internet;
 
 VIII.- Impulsar actitudes de respeto al medio ambiente y de responsabilidad solidaria con las generaciones presentes y futuras;
 
@@ -123,25 +133,25 @@ X.- Desarrollar la conciencia para la preservación de la salud, fomentando el d
 
 El Estado se sujetará a los lineamientos generales que la autoridad educativa federal emita para la elaboración, el expendio y distribución de los alimentos y bebidas preparados y procesados, dentro de toda escuela, los cuales comprenderá la regulación que prohíbe los alimentos que no favorezcan la salud de los educandos y fomentarán aquellos de carácter nutrimental.
 
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XI.- Fortalecer en los educandos una cultura política y cívica que promueva el interés ciudadano en los procesos electorales, el respeto a los símbolos patrios y los de la entidad, mediante el desarrollo de proyectos formativos, informativos e inclusivos a través de los instrumentos legales de la materia, a las disposiciones de la Ley sobre el Escudo, la Bandera y el Himno Nacionales y aquellas vigentes en la entidad con relación al escudo e himno coahuilenses;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XII.- Impulsar la práctica de la democracia como forma de gobierno y sistema de vida, en donde todos participen en la toma de decisiones, a través de los instrumentos legales creados para el efecto, tanto para el desarrollo político, económico y social del Estado, como para el mejoramiento de la sociedad;
+
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
 
-XI. Fortalecer en los educandos una cultura cívica que promueva el respeto a los símbolos patrios y los de la entidad, mediante el desarrollo de proyectos formativos e informativos y de acuerdo a las disposiciones de la Ley sobre el Escudo, la Bandera y el Himno Nacionales y aquellas vigentes en la entidad con relación al escudo e himno coahuilenses;
+XIII.- Fomentar la cultura de la transparencia y el acceso a la información; y
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XII. Fomentar en los educandos la cultura de la legalidad y de la paz, promoviendo el conocimiento y el respeto del orden jurídico así como el cumplimiento de los deberes cívicos;
-
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2012)</small>
-
-XIII. Fomentar la cultura de la transparencia y el acceso a la información; y
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
-
-XIV. Fomentar en el individuo la cultura de la informática y de una segunda lengua, sin menoscabo de la enseñanza del español.
+XIV.- Fomentar en el individuo la cultura de la informática y alfabetización digital orientada al desarrollo de tecnologías basadas en las ciencias computacionales como herramientas para la movilidad social, así como una segunda lengua, sin menoscabo de la enseñanza del español;
 
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2016)</small>
 
-XV. Todas las escuelas sin excepción alguna incluirán en sus diversos programas de estudios el lenguaje no discriminatorio y con perspectiva de género, para que los educandos en cualquiera de sus niveles lo utilicen en los diversos ámbitos de su vida cotidiana y que esto permita el uso del mismo en todos los ámbitos sociales.
+XV.- Todas las escuelas sin excepción alguna incluirán en sus diversos programas de estudios el lenguaje no discriminatorio y con perspectiva de género, para que los educandos en cualquiera de sus niveles lo utilicen en los diversos ámbitos de su vida cotidiana y que esto permita el uso del mismo en todos los ámbitos sociales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -1866,3 +1876,17 @@ P.O. 14 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1007.- SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 6 DE LA LEY ESTATAL DE EDUCACIÓN DE COAHUILA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1008.- SE MODIFICA EL CONTENIDO DE LAS FRACCIONES VII, XI, XII Y XIV DEL ARTÍCULO 7 DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
