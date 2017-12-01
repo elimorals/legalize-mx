@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-etica-de-los-servidores-publicos-del-poder-115456"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-06-30"
-last_updated: "2016-06-30"
+last_updated: "2017-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, Y REGLAS DE INTEGRIDAD DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, PUBLICADO AL NO. 83 DEL P.O. DE 1 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, Y REGLAS DE INTEGRIDAD DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 30 de junio de 2016.
 
@@ -308,3 +308,15 @@ José Luis Aguilera Rico
 Secretario del Trabajo del Poder Ejecutivo del Estado de Querétaro
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, Y REGLAS DE INTEGRIDAD DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO.- Se abroga el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Estado de Querétaro, publicado en (sic) Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", de fecha 30 de junio del año 2016.
+
+TERCERO.- En un plazo de 30 días hábiles contados a partir de la publicación del presente acuerdo, se deberán emitir los Lineamientos Generales para propiciar la integridad de los servidores públicos y para implementar acciones que favorezcan el comportamiento ético de los servidores públicos.
