@@ -4,7 +4,7 @@ identifier: "COA-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10236
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-02"
-last_updated: "2014-09-02"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102364&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 90 DÍAS DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2014.
 
@@ -417,9 +415,11 @@ Tipo 4: Con capacidad instalada para dar servicio a más de 100 sujetos de atenc
 
 Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. El Programa Interno deberá ser aprobado por la Agencia Estatal de Protección Civil o las autoridades de protección civil de los Municipios, según sea el caso, y será sujeto a evaluación de manera periódica.
 
-###### Artículo 29.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, contra incendios, de gas, intercomunicación y especiales, de acuerdo con las reglas o lineamientos que emita la Agencia Estatal de Protección Civil o el Comité y las demás disposiciones jurídicas. Ningún establecimiento podrá estar ubicado a una distancia menor a cincuenta metros de cualquier elementos (sic) natural o artificial que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención,
+###### Articulo 29.
+
+Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, equipos portátiles y fijos contra incendios, de gas, intercomunicación y especiales, de acuerdo con las reglas o lineamientos que emita la Agencia Estatal de Protección Civil o el Comité, observando en todo momento la clasificación de riesgos establecidos en las Normas Oficiales Mexicanas y demás disposiciones jurídicas. Ningún establecimiento podrá estar ubicado a una distancia menor a cincuenta metros de cualquier elemento natural o artificial que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención.
 
 ###### Artículo 30.
 
@@ -754,3 +754,13 @@ EL SECRETARIO DEL TRABAJO
 VÍCTOR ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 1005.- SE REFORMA EL ARTÍCULO 29 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CIUDADO (SIC) Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
