@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2017-08-08"
+last_updated: "2017-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -107,7 +107,9 @@ IX. Gerontología. El estudio científico sobre la vejez y de las cualidades y f
 
 X. Instituto. El Instituto Coahuilense de las Personas Adultas Mayores.
 
-XI. Ley. La presente Ley de las Personas Adultas Mayores para el Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+XI. Ley. La presente Ley de los Derechos de las Personas Adultas Mayores del Estado de Coahuila de Zaragoza.
 
 XII. Municipios. Los del Estado de Coahuila de Zaragoza.
 
@@ -123,9 +125,13 @@ La presente Ley tiene por objetivos los siguientes:
 
 I. Reconocer los derechos de las personas adultas mayores, así como determinar y garantizar los medios y mecanismos para su ejercicio.
 
-II. Promover acciones de salud, educación, recreación y participación socioeconómica a favor de los adultos mayores, con el fin de lograr una mejor calidad de vida de ellas.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-III. Establecer las responsabilidades y acciones gubernamentales a cargo del Estado, de los adultos mayores, la familia y la sociedad en cuanto a la atención, promoción y apoyo a las personas adultas mayores.
+II. Promover acciones de salud, educación, recreación y participación socioeconómica a favor de las personas adultas mayores, con el fin de lograr una mejor calidad de vida de ellas.
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+III. Establecer las responsabilidades y acciones gubernamentales a cargo del Estado, de las personas adultas mayores, la familia y la sociedad en cuanto a la atención, promoción y apoyo a las personas adultas mayores.
 
 IV. Fortalecer una cultura de respeto a los derechos humanos de las personas adultas mayores.
 
@@ -153,9 +159,9 @@ Ninguna persona adulta mayor podrá ser socialmente marginada o discriminada en 
 
 La Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza, en el ámbito de su competencia, promoverá y difundirá la cultura de respeto a los derechos de las personas adultas mayores.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-Artículo 8 bis.- Todas las instituciones de orden público y privado del Estado, procuraran que sus instalaciones existan las condiciones de infraestructura necesarias para el fácil acceso de los adultos mayores, otorgándoles por lo menos sillas de espera, y una fila preferencial para que se les dé a los Adultos Mayores un trato digno, especial y primordial al momento de realizar un trámite personal.
+Artículo 8 bis.- Todas las instituciones de orden público y privado del Estado, procuraran que sus instalaciones existan las condiciones de infraestructura necesarias para el fácil acceso de las personas adultas mayores, otorgándoles por lo menos sillas de espera, y una fila preferencial para que se les dé a las personas adultas mayores un trato digno, especial y primordial al momento de realizar un trámite personal.
 
 ### CAPÍTULO SEGUNDO. LOS PRINCIPIOS, DERECHOS Y OBLIGACIONES DE LAS PERSONAS ADULTAS MAYORES
 
@@ -215,6 +221,10 @@ Asimismo, a acceder a programas de viviendas y de transporte económicamente ase
 
 14. Gozar de espacios de expresión y culturales, en los medios de comunicación y publicaciones del Gobierno del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+15. A que se garantice su integridad y todos sus otros derechos en situaciones de riesgo, incluidas situaciones de conflicto armado, emergencias humanitarias y desastres de conformidad con las normas de derecho internacional.
+
 II. A la certeza jurídica, por tanto, se reconoce que tienen derecho a:
 
 1. Recibir un trato digno y apropiado en cualquier procedimiento judicial en que intervengan, ya sea en calidad de partes, agraviados, indiciados o sentenciados o víctimas del delito.
@@ -251,7 +261,9 @@ Dichas autoridades promoverán y proporcionarán la atención cuando ésta sea r
 
 10. Expresar su opinión libremente, conocer sus derechos y participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial, que afecte sus esferas personal, familiar y social.
 
-11. Vivir con honorabilidad en sus hogares y cerca de sus familiares hasta el último momento de su existencia a menos que el adulto mayor no lo desee o que medie causa de enfermedad grave, contagiosa o mental que requiera de su internamiento en instituciones especializadas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+11. Vivir con honorabilidad en sus hogares y cerca de sus familiares hasta el último momento de su existencia a menos que la persona adulta mayor no lo desee o que medie causa de enfermedad grave, contagiosa o mental que requiera de su internamiento en instituciones especializadas.
 
 Las familias tendrán derecho a recibir el apoyo subsidiario de las instituciones públicas para el cuidado y atención de las personas adultas mayores.
 
@@ -497,13 +509,15 @@ VII. Expedir copia del expediente en caso de que sea solicitado por sus familiar
 
 VIII. Registrar los nombres, domicilios, números telefónicos y lugares de trabajo de sus familiares.
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-IX. Llevar un registro de las visitas que le hagan los familiares al adulto mayor, en caso de abandono, esta deberá dar aviso a la Procuraduría para Niños, Niñas y la Familia sobre el abandono del adulto mayor, para que ésta inicie un procedimiento para otorgar una pensión alimenticia a los adultos abandonados a cargo de los familiares.
+IX. Llevar un registro de las visitas que le hagan los familiares a la persona adulta mayor, en caso de abandono, esta deberá dar aviso a la Procuraduría para Niños, Niñas y la Familia sobre el abandono de la persona adulta mayor, para que ésta inicie un procedimiento para otorgar una pensión alimenticia a las personas adultas mayores abandonados a cargo de los familiares.
 
 En todo momento las instituciones públicas, privadas y sociales deberán garantizar y observar el total e irrestricto respeto a los derechos de las personas adultas mayores que esta Ley les consagra y deberán contar con personal que posea vocación, capacidad y conocimientos orientados a la atención de éstas.
 
-Así mismo, y con el propósito de brindar una mejor atención al adulto mayor, el Instituto podrá establecer los mecanismos necesarios para brindar una vigilancia periódica a las instituciones anteriormente aludidas.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+Así mismo, y con el propósito de brindar una mejor atención a la persona adulta mayor, el Instituto podrá establecer los mecanismos necesarios para brindar una vigilancia periódica a las instituciones anteriormente aludidas.
 
 #### SECCIÓN SEGUNDA. LOS DEBERES DE LA FAMILIA
 
@@ -537,9 +551,11 @@ Las personas adultas mayores tendrán derecho a ser cuidados por su familia, seg
 
 Las personas adultas mayores tendrán derecho a permanecer en el seno de una familia, y se les asegurará la convivencia familiar y comunitaria. Cuando el cumplimiento de este derecho peligre por razones socioeconómicas, ambientales y de salud, las instituciones públicas competentes procurarán las oportunidades que se requieran para superar la problemática familiar, así como la capacitación y orientación a los descendientes para hacer frente a dichas circunstancias.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 32.
 
-La medida de protección tendiente a remover temporalmente del seno familiar a una persona adulta mayor, sólo se aplicará cuando la conducta que la originó sea atribuible a alguien que conviva con ella y no exista otra alternativa y para su ubicación temporal, deberá tenerse en cuenta, en primer término, al deseo del adulto mayor, en caso de no haber sido declarado incapaz y podrá ubicarse con la familia en línea descendente o colateral; o con las personas con quienes mantenga lazos afectivos y, en caso contrario, se situará en otro lugar que le sea apto y digno, bien sea en alguna institución asistencial pública o privada dedicada al cuidado de personas adultas mayores o en alguno otro que reúna tales condiciones.
+La medida de protección tendiente a remover temporalmente del seno familiar a una persona adulta mayor, sólo se aplicará cuando la conducta que la originó sea atribuible a alguien que conviva con ella y no exista otra alternativa y para su ubicación temporal, deberá tenerse en cuenta, en primer término, al deseo de la persona adulta mayor, en caso de no haber sido declarado incapaz y podrá ubicarse con la familia en línea descendente o colateral; o con las personas con quienes mantenga lazos afectivos y, en caso contrario, se situará en otro lugar que le sea apto y digno, bien sea en alguna institución asistencial pública o privada dedicada al cuidado de personas adultas mayores o en alguno otro que reúna tales condiciones.
 
 Siempre deberá informarse a la persona adulta mayor, en forma adecuada, sobre los motivos que justifican la aplicación de la medida.
 
@@ -555,9 +571,11 @@ El derecho a percibir alimentos se garantizará en los términos previstos en el
 
 Si no existen obligados al cumplimiento de la obligación alimenticia o los mismos se ausentaran o existe incapacidad probada y suficiente para cumplir con ese deber, las dependencias y entidades del Estado y de los Municipios encargados de las personas adultas mayores deberán brindar supletoriamente los alimentos por medio de la incorporación de éstas a procesos de promoción social y desarrollo humano, mediante programas interinstitucionales.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 36.
 
-Cuando los familiares ejerzan sobre las personas adultas mayores abusos físico, emocional y/o psicológico, negligencia en el cuidado, trato vejatorio y discriminatorio, o violen sus derechos o bien omitan brindar al adulto los cuidados requeridos, serán sancionados conforme a las disposiciones previstas en esta Ley y demás aplicables, según corresponda. De igual forma se sancionará a los ciudadanos o instituciones lucrativas o no, públicas o privadas que cometan las conductas mencionadas anteriormente.
+Cuando los familiares ejerzan sobre las personas adultas mayores abusos físico, emocional y/o psicológico, negligencia en el cuidado, trato vejatorio y discriminatorio, o violen sus derechos o bien omitan brindar a la persona adulta mayor los cuidados requeridos, serán sancionados conforme a las disposiciones previstas en esta Ley y demás aplicables, según corresponda. De igual forma se sancionará a los ciudadanos o instituciones lucrativas o no, públicas o privadas que cometan las conductas mencionadas anteriormente.
 
 ###### Artículo 37.
 
@@ -789,9 +807,17 @@ III. Diseñar, a través de la Dirección del Registro Civil, campañas de regul
 
 IV. Coadyuvar, a través de la unidad competente, en la promoción de los derechos en materia laboral de las personas adultas mayores.
 
-V. Establecer, a través de la Defensoría Jurídica Integral, un programa de asesoría y apoyo jurídico a favor de los adultos mayores.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-VI. Las demás que le confiera esta Ley u otras disposiciones aplicables.
+V. Establecer, a través de la Defensoría Jurídica Integral, un programa de asesoría y apoyo jurídico a favor de las personas adultas mayores.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+VI. Adoptar, a través de la Subsecretaría de Protección Civil, las medidas de atención específicas a las necesidades de las personas adultas mayores en la preparación, prevención, reconstrucción y recuperación en situaciones de emergencias, desastres o conflictos y a propiciar que las personas adultas mayores interesadas participen en la elaboración de los protocolos de protección civil en caso de desastres naturales.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+VII. Las demás que le confiera esta Ley u otras disposiciones aplicables.
 
 ###### Artículo 55.
 
@@ -837,15 +863,21 @@ De igual forma, promoverá ante la Secretaría de Educación y Cultura la coordi
 
 El Instituto Coahuilense de Cultura en coordinación con el Instituto, diseñará programas para promover el esparcimiento y la participación de las personas adultas en las diversas manifestaciones de la cultura. Asimismo para efectuar concursos en los que participen exclusivamente personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 60.
 
-La Secretaría de Turismo del Estado promoverá actividades de recreación y turísticas diseñadas para las personas adultas mayores y realizará acciones a fin de que en lugares públicos destinados a la recreación se cuente con los espacios y actividades que faciliten la integración de las personas adultas mayores, difundiendo permanentemente a través de los medios masivos de comunicación, las actividades, que se realicen a su favor para lo cual promoverá:
+La Secretaría de Desarrollo Económico, Competitividad y Turismo del Estado promoverá actividades de recreación y turísticas diseñadas para las personas adultas mayores y realizará acciones a fin de que en lugares públicos destinados a la recreación se cuente con los espacios y actividades que faciliten la integración de las personas adultas mayores, difundiendo permanentemente a través de los medios masivos de comunicación, las actividades, que se realicen a su favor para lo cual promoverá:
 
-I. La recreación turística de las personas adultas mayores con tarifas preferentes.
+I.- La recreación turística de las personas adultas mayores con tarifas preferentes.
 
-II. El establecimiento, en coordinación con las autoridades respectivas de convenios con las empresas del ramo para ofrecer tarifas especiales y/o gratuitas en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedaje en hoteles y la asistencia a centros turísticos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+II.- Promover de manera diseñada la participación de los adultos mayores en lo que se refiere al rescate y a la transmisión de la cultura e historia del Estado, particularmente el rescate de la historia oral de los distintos espacios históricos del Estado, como parte de la promoción turística.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+III.- El establecimiento, en coordinación con las autoridades respectivas de convenios con las empresas del ramo para ofrecer tarifas especiales y/o gratuitas en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedaje en hoteles y la asistencia a centros turísticos.
 
 ###### Artículo 61.
 
@@ -1003,7 +1035,9 @@ I. Un Presidente, que será el Director General del Instituto.
 
 II. Un Secretario que será designado por el Presidente de la Comisión.
 
-III. Un Profesionista, preferentemente adulto mayor, por cada una de las especialidades siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE DICIEMBRE DE 2017)</small>
+
+III. Un Profesionista, preferentemente persona adulta mayor, por cada una de las especialidades siguientes:
 
 a. Geriatría.
 
@@ -1366,6 +1400,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE AGOSTO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 895.- SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 47 DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1019.- SE REFORMAN LOS ARTÍCULOS 5, 6, 8 BIS, 10, 26, 32, 36, 54, 60 Y 78 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO ÚNICO.
 
