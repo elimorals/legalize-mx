@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2017-11-11"
+last_updated: "2017-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -3057,11 +3057,15 @@ Las infracciones en materia de movilidad y transporte, serán sancionadas admini
 
 El monto de las sanciones se determina en base al valor diario de la Unidad de Medida y Actualización, de la siguiente manera:
 
-(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2016) (F. DE E., P.O. 11 DE OCTUBRE DE 2016)
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-Las infracciones dispuestas en los artículos 175, 176, 177 excepto la fracción VIII, 178, 179 y 180 se aplicará una sanción de 1 a 5 veces el valor de la Unidad de Medida y Actualización.
+Las infracciones dispuestas en los artículos 175, 176, 177 excepto la fracción VIII, 178 excepto fracción XV, 179 y 180 se aplicará una sanción de 1 a 5 veces el valor de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+La infracción dispuesta en el artículo 178 fracción XV se sancionará con multa de 5 a 10 unidades de medida y actualización. A esta infracción no le será aplicable la reducción del cobro señalada en el artículo 199 primer párrafo.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
 Las infracciones dispuestas en los artículos 182, 183, 184, 190 fracciones I, II y III, 191 y 192 se aplicarán una sanción de 10 a 30 unidades de medida y actualización.
 
@@ -3991,8 +3995,14 @@ P.O. 30 DE MAYO DE 2017.
 
 P.O. 11 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 26492/LXI/17 QUE REFORMA LOS ARTÍCULOS 8°, 101, 126 Y 205 Y ADICIONA EL ARTÍCULO 191 FRACCIÓN XVI DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26492/LXI/17 QUE REFORMA LOS ARTÍCULOS 8°, 101, 126 Y 205 Y ADICIONA EL ARTÍCULO 191 FRACCIÓN XVI DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
-SEGUNDO. El Ejecutivo Estatal, conforme a los puntos de acuerdo Trigésimo Tercero y Trigésimo Sexto del "ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EXPIDE LOS LINEAMIENTOS DE COLABORACIÓN EN MATERIA DE SEGURIDAD Y JUSTICIA Y MODIFICA EL PLAN TÉCNICO FUNDAMENTAL DE NUMERACIÓN", publicado en el Diario Oficial de la Federación el 2 de diciembre de 2015, deberá gestionar y reglamentar el procesamiento de denuncias por violaciones a los derechos de los usuarios del transporte público a través del número telefónico 911 y demás plataformas del Sistema Nacional de Seguridad Pública.
+SEGUNDO. El Ejecutivo Estatal, conforme a los puntos de acuerdo Trigésimo Tercero y Trigésimo Sexto del “ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES EXPIDE LOS LINEAMIENTOS DE COLABORACIÓN EN MATERIA DE SEGURIDAD Y JUSTICIA Y MODIFICA EL PLAN TÉCNICO FUNDAMENTAL DE NUMERACIÓN”, publicado en el Diario Oficial de la Federación el 2 de diciembre de 2015, deberá gestionar y reglamentar el procesamiento de denuncias por violaciones a los derechos de los usuarios del transporte público a través del número telefónico 911 y demás plataformas del Sistema Nacional de Seguridad Pública.
+
+P.O. 2 DE DICIEMBRE DE 2017.
+
+[N. DE. E. TRANSITORIO DEL “DECRETO 26503/LXI/17 QUE REFORMA EL ARTÍCULO 174 DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor a los 120 días siguientes de su publicación en el periódico oficial "El Estado de Jalisco".
