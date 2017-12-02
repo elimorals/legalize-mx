@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2017-11-11"
+last_updated: "2017-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO xxx
+CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1701,13 +1701,13 @@ En caso de habitualidad o si el delito previsto en el artículo anterior es come
 
 (NOTA: EL 19 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 100/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 12 DE OCTUBRE DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 124.
 
 Se sancionarán, en los términos del artículo 263 de este código, a los inspectores, cobradores y ayudantes que se encuentren en los vehículos de transporte de personas o de cosas que no tomen las medidas que estén a su alcance para impedir la comisión del delito a que se refiere el artículo 122 o que no lo hagan del conocimiento de la autoridad.
 
-Las mismas sanciones se aplicarán a las personas que sin ser pasajeros o de las mencionadas en el Artículo 13, Fracción III, inciso d, acompañen a todo conductor y no tomen las providencias encaminadas a impedir el delito o denunciarlo a la autoridad.
+Las mismas sanciones se aplicarán a las personas que sin ser pasajeros o de las mencionadas en el artículo 22, fracción IV, inciso d), acompañen a todo conductor y no tomen las providencias encaminadas a impedir el delito o denunciarlo a la autoridad.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4789,6 +4789,8 @@ III. De cinco a diez años de prisión y multa por el importe de quinientas a mi
 
 ### CAPITULO I. Encubrimiento
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 255.
 
 Se impondrán de uno a cinco años de prisión y multa por el importe de cuatro a cuarenta veces el valor diario de la Unidad de Medida y Actualización, a las personas sometidas a concurso de acreedores que, en el término de un año anterior a la declaración del concurso o después de ésta, incurran en alguno de los hechos siguientes:
@@ -4943,13 +4945,15 @@ Si el responsable de este delito fuere servidor público se le destituirá adem�
 
 ###### Art. 263.
 
-Se impondrán de un mes a tres años de prisión al que, después de la ejecución del delito y sin haber tenido en éste alguna de las intervenciones señaladas en el artículo 11, ayude en cualquiera forma al responsable a eludir las investigaciones de la autoridad correspondiente o a substraerse a la acción de ésta, u oculte, altere, destruya o haga desaparecer los rastros, pruebas, instrumentos u objetos del delito o asegure para sí, o para el inculpado, el producto del mismo.
+Se impondrán de un mes a tres años de prisión al que, después de la ejecución del delito y sin haber tenido en éste alguna de las intervenciones señaladas en el artículo 19, ayude en cualquiera forma al responsable a eludir las investigaciones de la autoridad correspondiente o a substraerse a la acción de ésta, u oculte, altere, destruya o haga desaparecer los rastros, pruebas, instrumentos u objetos del delito o asegure para sí, o para el inculpado, el producto del mismo.
 
 Quedan exceptuados de esta disposición los parientes consanguíneos en línea ascendente o descendente, los hijos adoptivos, cónyuge y hermanos del inculpado, sus parientes por afinidad en primer grado, el tutor o quien ejerza la patria potestad y los que se encuentren ligados con el activo por vínculos de estrecha amistad, o secreto profesional, salvo que el encubrimiento se encamine al aprovechamiento del producto del delito.
 
 Igual sanción se impondrá a quien no procure, por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sepa van a cometerse o se están cometiendo, si son de los que se persiguen de oficio.
 
-También quedarán exceptuados de sanción quienes no puedan cumplir con el deber a que se refiere este artículo, por correr peligro en su persona o en sus bienes, así como las personas señaladas en el Art. 13, frac. III, inciso d, de este Código.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+También quedarán exceptuados de sanción quienes no puedan cumplir con el deber a que se refiere este artículo, por correr peligro en su persona o en sus bienes, así como las personas señaladas en el artículo 22, fracción IV, inciso d), de este Código.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -6434,3 +6438,9 @@ P.O. 11 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26493/LXI/17 QUE REFORMA LOS ARTÍCULOS 290, 291, 295 Y 297 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor a los noventa días posteriores de su publicación en el periódico oficial “EI Estado de Jalisco".
+
+P.O. 2 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26504/LXI/17 QUE REFORMA LOS ARTÍCULOS 124 Y 263 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
