@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2017-04-08"
+last_updated: "2017-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE HACIENDA DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1343,9 +1345,9 @@ Para efectos de la depreciación a que se refiere este artículo, los años de a
 
 #### SECCION QUINTA. Del pago
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-ARTÍCULO 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario a más tardar el 15 de julio, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 30 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
+Artículo 41 Z BIS 12.- Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse a más tardar dentro de los 30 días siguientes a aquél en que se adquirió o importó el vehículo. Se considera que la adquisición se realiza en el momento en que se entregue el bien al adquiriente o se expida la factura correspondiente, lo que suceda primero. El pago se realizará en las Receptorías de Rentas de la Secretaría de Planeación y Finanzas, en las instituciones de crédito o en los establecimientos autorizados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1439,8 +1441,6 @@ El servidor público que preste algún servicio, en contravención a lo dispuest
 
 ### CAPITULO III. Servicios prestados por la Secretaría de Planeación y Finanzas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 48.
@@ -1473,21 +1473,43 @@ III.- Por autorización de Protocolo, abierto o especial 8.370
 
 IV.- Por legalización de firmas o apostilla, por cada una 1.800
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-IV BIS.- Publicaciones en el Periódico Oficial del Estado:
+IV BIS.- Venta y publicación en el Periódico Oficial "El Estado de Colima":
 
-a).- Por cada palabra o cifra 0.030
+a).- Venta:
 
-b).- Página entera 27.000
+1).- De número del día, sin suplementos
+
+ni ediciones especiales 0.300
+
+2).- De números atrasados, sin suplementos
+
+ni ediciones especiales 0.360
+
+3).- De suscripción anual, con suplementos
+
+y ediciones especiales 25.000
+
+4).- De suplementos y ediciones especiales,
+
+por cada página impresa 0.025
+
+b).- Publicación:
+
+1).- Por cada palabra o cifra 0.030
+
+2).- Por página entera 27.000
 
 c).- Publicaciones a solicitud de los gobiernos
 
-federal, estatal o municipales, siempre que se
+federal, estatal o municipales, siempre que
 
-trate de asuntos oficiales que estén comprendidos
+se trate de asuntos oficiales que estén
 
-dentro de la esfera de sus atribuciones. 0.00
+comprendidos dentro de la esfera de sus
+
+atribuciones 0.00
 
 > <small>(REFORMADA, P.O. 2 DE JUNIO DE 2001)</small>
 
@@ -1547,8 +1569,6 @@ XVII.- Complementación de actas del Registro Civil 1,000
 
 XVIII.- Por solicitud de actas o constancias que obran en las oficinas registradoras de otras Entidades Federativas 2,700
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XIX.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2011)
 
 XX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
@@ -1582,6 +1602,26 @@ XXVIII.- Autorización para registro de documentos 1.000
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 XXIX.- Aclaración y complementación de actas del Registro Civil. 7.000
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+XXX.- Por el registro de examen a los
+
+aspirantes a notarios 6.624
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+XXXI.- Por la autorización para cambiar la
+
+adscripción notarial 134.719
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+XXXII.- Por la expedición de constancia
+
+de inscripción o no inscripción de tutor
+
+cautelar 2.000
 
 (ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)(F. DE E., P.O. 8 DE ENERO DE 2000) Cuando los servicios en materia de Registro Civil sean prestados en atención a las campañas de regularización del estado civil de las personas, realizadas por los Sistemas para el Desarrollo Integral de la Familia (DIF) del Estado y de los Municipios, en beneficio de las clases más necesitadas, no se causarán los derechos previstos en las fracciones correspondientes.
 
@@ -1637,15 +1677,13 @@ II.- Certificaciones y constancias, en general, así como certificaciones por co
 
 III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
 IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 12.000
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1°. De enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Público Vehicular del Estado de Colima, debiéndose realizar el pago a mas tardar el día 15 de julio. Por los conceptos a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, respecto a un vehículo que tenga en propiedad, y que éste sea de uso particular.
+El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1° de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Público Vehicular del Estado de Colima, debiéndose realizar el pago a más tardar el 31 de marzo.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
 
@@ -2673,21 +2711,23 @@ ARTÍCULO 55 A.- (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2013)
 
 ### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO VI. Servicios Prestados en la Secretaría de Educación
 
 ###### Artículo 56.
 
-Por los servicios prestados en la Dirección de Apoyo a Productores:
+Por los servicios prestados en la Dirección de Fomento Agropecuario y Forestal:
 
 I.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
 
 II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2010)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-III.- Expedición de patente con vigencia por tiempo indefinido 2.000
+III.- Expedición de constancia de registro por tiempo
+
+indefinido 2.000
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -3315,8 +3355,6 @@ XII.- Por Scanner por hoja 0.030
 
 ### CAPITULO VII BIS. Secretaría de Seguridad Pública
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
 Artículo 62 BIS.- Por los servicios prestados en la Secretaría de Seguridad Pública, se pagarán los derechos siguientes:
@@ -3359,55 +3397,39 @@ a).- En las oficinas de la dependencia 1.000
 
 b).- En los Kioscos de Servicios e información 0.830
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 IV.- Por la prestación de servicios relacionados con la expedición de la autorización estatal para la operación de servicios de seguridad privada, se pagarán derechos conforme a las siguientes cuotas:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 a).- Por el estudio y trámite de la solicitud para la expedición de la autorización estatal. 97.625
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 b).- Por el otorgamiento de la autorización estatal para prestar los servicios de vigilancia en inmuebles. 97.625
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 c).- Por el otorgamiento de la autorización estatal para prestar los servicios de traslado y custodia de bienes y valores 125.052
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 d).- Por el otorgamiento de la autorización estatal para prestar los servicios de traslado y protección de personas. 97.625
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 e).- Por el otorgamiento de la autorización estatal para prestar los servicios de localización e información sobre personas físicas o morales y bienes. 55.785
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+f).- Por el otorgamiento de la autorización estatal para prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad con
 
-f).- Por el otorgamiento de la autorización estatal para prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad. 83.680
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+monitoreo 83.680
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 g).- Por cada actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada, con autorización estatal. 125.052
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -3423,31 +3445,23 @@ h).- Por el otorgamiento de la revalidación o renovación anual de la autorizac
 
 5.- Prestadoras con nómina de 201 en adelante. 418.410
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 i).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de traslado y custodia de bienes o valores. 150.675
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 j).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de traslado y protección de personas. 138.470
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
 k).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de localización en información sobre personas físicas o morales y bienes. 111.570
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
+l).- Por el otorgamiento de la revalidación o renovación anual de la autorización
 
-l).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de establecimiento y operación de sistemas y equipos de seguridad. 125.052
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+estatal para la modalidad de establecimiento y operación de sistemas y equipos de seguridad con monitoreo 125.052
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -3463,27 +3477,29 @@ los servicios de guardia urbana 30.000
 
 ñ).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de guardia urbana 30.000
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 o).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 p).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 q).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 r).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 s).- (DEROGADO, P.O. 1 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+t).- Por el otorgamiento de la autorización estatal para prestar los
+
+servicios de establecimiento y operación de sistemas y equipos de
+
+seguridad sin monitoreo 41.840
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+u).- Por el otorgamiento de la revalidación o renovación anual de la autorización estatal para la modalidad de establecimiento y operación de sistemas y equipos de
+
+seguridad sin monitoreo 62.530
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -3509,11 +3525,23 @@ f).- Por la ampliación o cambio de la modalidad de servicio de seguridad privad
 
 4.- Por prestar los servicios de localización e información sobre personas físicas o morales y bienes. 55.780
 
-5.- Por prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad. 83.680
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-6.- Por cada actividad distinta a las anteriores relacionado y vinculada directamente con los servicios seguridad privada. 251.040
+5.- Por prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad con monitoreo 83.680
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+6.- Por cada actividad distinta a las anteriores relacionado y vinculada directamente con los servicios seguridad privada.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+7.- Por prestar los servicios de establecimiento y operación de sistemas y equipos de seguridad sin monitoreo 41.840
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+g).- Por la inscripción del personal de las prestadoras con autorización estatal en el Registro Estatal de Empresas, Personal, Equipo y Usuarios de Seguridad Privada, por cada elemento que se inscriba 1.250
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+h).- Por la expedición de constancias 3.98
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -3527,7 +3555,11 @@ c) Por el registro de prestadoras con autorización para la modalidad de traslad
 
 d) Por el registro de prestadoras con autorización para la modalidad de localización e información sobre personas físicas o morales y bienes. 55.785
 
-e) Por el registro de prestadoras con autorización para la modalidad de establecimiento y operación de sistemas y equipos de seguridad. 83.68
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+e) Por el registro de prestadoras con autorización para la modalidad de establecimiento y operación de sistemas y equipos de seguridad
+
+con monitoreo 83.68
 
 f) Por el registro de prestadoras con autorización para la modalidad de actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada. 125.052
 
@@ -3549,15 +3581,293 @@ i) Por el otorgamiento de la revalidación o renovación anual del registro de p
 
 j) Por el otorgamiento de la revalidación o renovación anual del registro de prestadoras con autorización para la modalidad de localización e información sobre personas físicas o morales y bienes. 111.570
 
-k) Por el otorgamiento de la revalidación o renovación anual del registro de prestadoras con autorización para la modalidad de establecimiento y operación de sistemas y equipos de seguridad. 125.052
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+k) Por el otorgamiento de la revalidación o renovación anual del registro de prestadoras con autorización para la modalidad de establecimiento y operación de sistemas y equipos de seguridad con monitoreo 125.052
 
 l) Por el otorgamiento de la revalidación o renovación anual del registro de prestadoras con autorización para la modalidad de actividad distinta a las anteriores relacionada y vinculada directamente con los servicios de seguridad privada. 125.052
 
-m).- Por la inscripción del personal de las prestadoras con autorización federal en el Sistema Estatal de Seguridad Pública, por cada elemento que se inscriba. 2.27
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+m).- Por la inscripción del personal de las prestadoras de servicios de seguridad privada con autorización federal en el Registro Estatal de Empresas,
+
+Personal, Equipo y Usuarios de Seguridad Privada, por cada
+
+elemento que se inscriba 1.250
 
 n).- Por la consulta de antecedentes laborales y/o criminales de cada elemento de las prestadoras con autorización federal, por cada elemento que se consulte. 0.676
 
 ñ).- Por la inscripción del personal de las prestadoras con autorización federal en el Registro Nacional de Personal de Seguridad Pública, por cada elemento que se inscriba. 2.27
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+o).- Por el registro de prestadoras con autorización
+
+federal para la modalidad de establecimiento y
+
+operación de sistemas y equipos de seguridad
+
+sin monitoreo 41.840
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+p).- Por el otorgamiento de la revalidación o
+
+renovación anual del registro de prestadoras
+
+con autorización federal para la modalidad de
+
+establecimiento y operación de sistemas y
+
+equipos de seguridad sin monitoreo 62.530
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+VII. Por la prestación de servicios de la Policía Auxiliar del Estado, relacionados con la seguridad, protección, vigilancia o custodia de lugares y establecimientos de particulares, empresas o instituciones públicas y privadas, así como a las actividades que produzcan bienes y servicios que contribuyan a la generación de riqueza para el Estado, se pagarán derechos conforme a las siguientes cuotas:
+
+a. Por elemento armado:
+
+1. Mensualmente:
+
+1.1 De lunes a domingo, por 24 horas 395.000
+
+1.2 De lunes a domingo, por 12 horas 237.000
+
+1.3 De lunes a domingo, por 8 horas 178.000
+
+1.4 De lunes a domingo, por 6 horas 119.000
+
+2. Mensualmente:
+
+2.1 De lunes a sábado, por 24 horas 409.000
+
+2.2 De lunes a sábado, por 12 horas 245.000
+
+2.3 De lunes a sábado, por 8 horas 184.000
+
+2.4 De lunes a sábado, por 6 horas 123.000
+
+3. Mensualmente:
+
+3.1 De lunes a viernes, por 24 horas 423.000
+
+3.2 De lunes a viernes, por 12 horas 254.000
+
+3.3 De lunes a viernes, por 8 horas 190.000
+
+3.4 De lunes a viernes, por 6 horas 127.000
+
+4. Semanalmente:
+
+4.1 De lunes a domingo, por 24 horas 107.000
+
+4.2 De lunes a domingo, por 12 horas 64.000
+
+4.3 De lunes a domingo, por 8 horas 48.000
+
+4.4 De lunes a domingo, por 6 horas 32.000
+
+5. Semanalmente:
+
+5.1 De lunes a sábado, por 24 horas 110.000
+
+5.2 De lunes a sábado, por 12 horas 66.000
+
+5.3 De lunes a sábado, por 8 horas 50.000
+
+5.4 De lunes a sábado, por 6 horas 33.000
+
+6. Semanalmente:
+
+6.1 De lunes a viernes, por 24 horas 114.000
+
+6.2 De lunes a viernes, por 12 horas 69.000
+
+6.3 De lunes a viernes, por 8 horas 51.000
+
+6.4 De lunes a viernes, por 6 horas 34.000
+
+7. Diariamente:
+
+7.1 Por 24 horas 18.000
+
+7.2 Por 12 horas 11.000
+
+7.3 Por 8 horas 8.000
+
+7.4 Por 6 horas 5.000
+
+7.5 Por hora extra 2.000
+
+b. Por elemento sin arma:
+
+1. Mensualmente:
+
+1.1 De lunes a domingo, por 24 horas 356.000
+
+1.2 De lunes a domingo, por 12 horas 213.000
+
+1.3 De lunes a domingo, por 8 horas 160.000
+
+1.4 De lunes a domingo, por 6 horas 107.000
+
+2. Mensualmente:
+
+2.1 De lunes a sábado, por 24 horas 370.000
+
+2.2 De lunes a sábado, por 12 horas 222.000
+
+2.3 De lunes a sábado, por 8 horas 166.000
+
+2.4 De lunes a sábado, por 6 horas 111.000
+
+3. Mensualmente:
+
+3.1 De lunes a viernes, por 24 horas 384.000
+
+3.2 De lunes a viernes, por 12 horas 230.000
+
+3.3 De lunes a viernes, por 8 horas 173.000
+
+3.4 De lunes a viernes, por 6 horas 115.000
+
+4. Semanalmente:
+
+4.1 De lunes a domingo, por 24 horas 96.000
+
+4.2 De lunes a domingo, por 12 horas 58.000
+
+4.3 De lunes a domingo, por 8 horas 43.000
+
+4.4 De lunes a domingo, por 6 horas 29.000
+
+5. Semanalmente:
+
+5.1 De lunes a sábado, por 24 horas 100.000
+
+5.2 De lunes a sábado, por 12 horas 60.000
+
+5.3 De lunes a sábado, por 8 horas 45.000
+
+5.4 De lunes a sábado, por 6 horas 30.000
+
+6. Semanalmente:
+
+6.1 De lunes a viernes, por 24 horas 104.000
+
+6.2 De lunes a viernes, por 12 horas 62.000
+
+6.3 De lunes a viernes, por 8 horas 47.000
+
+6.4 De lunes a viernes, por 6 horas 31.000
+
+7. Diariamente:
+
+7.1 Por 24 horas 16.000
+
+7.2 Por 12 horas 10.000
+
+7.3 Por 8 horas 7.000
+
+7.4 Por 6 horas 5.000
+
+7.5 Por hora extra 2.000
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+VIII. Por la prestación de servicios de la Policía Auxiliar del Estado a través de sus unidades o agrupamientos, relacionados con la seguridad, protección y vigilancia de personas, se pagarán derechos conforme a las siguientes cuotas:
+
+a. Por elemento armado:
+
+1. Mensualmente:
+
+1.1 De lunes a domingo, por 24 horas 450.000
+
+1.2 De lunes a domingo, por 12 horas 270.000
+
+1.3 De lunes a domingo, por 8 horas 203.000
+
+1.4 De lunes a domingo, por 6 horas 135.000
+
+2. Mensualmente:
+
+2.1 De lunes a sábado, por 24 horas 469.000
+
+2.2 De lunes a sábado, por 12 horas 281.000
+
+2.3 De lunes a sábado, por 8 horas 211.000
+
+2.4 De lunes a sábado, por 6 horas 141.000
+
+3. Mensualmente:
+
+3.1 De lunes a viernes, por 24 horas 487.000
+
+3.2 De lunes a viernes, por 12 horas 292.000
+
+3.3 De lunes a viernes, por 8 horas 219.000
+
+3.4 De lunes a viernes, por 6 horas 146.000
+
+4. Semanalmente:
+
+4.1 De lunes a domingo, por 24 horas 130.000
+
+4.2 De lunes a domingo, por 12 horas 78.000
+
+4.3 De lunes a domingo, por 8 horas 58.000
+
+4.4 De lunes a domingo, por 6 horas 39.000
+
+5. Semanalmente:
+
+5.1 De lunes a sábado, por 24 horas 135.000
+
+5.2 De lunes a sábado, por 12 horas 81.000
+
+5.3 De lunes a sábado, por 8 horas 61.000
+
+5.4 De lunes a sábado, por 6 horas 40.000
+
+6. Semanalmente:
+
+6.1 De lunes a viernes, por 24 horas 140.000
+
+6.2 De lunes a viernes, por 12 horas 84.000
+
+6.3 De lunes a viernes, por 8 horas 63.000
+
+6.4 De lunes a viernes, por 6 horas 42.000
+
+7. Diariamente:
+
+7.1 Por 24 horas 23.000
+
+7.2 Por 12 horas 14.000
+
+7.3 Por 8 horas 10.000
+
+7.4 Por 6 horas 7.000
+
+7.5 Por hora extra 2.000
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+IX. Por la prestación de servicios de la Policía Auxiliar del Estado, relacionados con el traslado y custodia de bienes y valores a través de sus unidades o agrupamientos, se pagarán derechos conforme a las siguientes cuotas:
+
+a. Por traslado y custodia de bienes y valores dentro de las
+
+cabeceras municipales de Colima, Comala, Cuauhtémoc, Coquimatlán y
+
+Villa de Álvarez 62.000
+
+b. Por traslado y custodia de bienes y valores en los
+
+primeros 50 kilómetros fuera de las cabeceras municipales señaladas
+
+en el inciso anterior 83.000
+
+c. Por Kilometro o fracción excedente de los 50 kilómetros señalados en el inciso anterior 1.000
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3764,8 +4074,6 @@ y operativa, de establecimientos de servicios de salud. 45.000
 ### CAPÍTULO VII TER
 
 Servicios prestados por el Instituto para el Registro del Territorio del Estado de Colima.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2012)</small>
 
@@ -4005,7 +4313,7 @@ I.- Inscripción de documentos públicos o privados de cualquier clase, mediante
 
 a). Cuando el valor sea de hasta 3,814 unidades de
 
-medida y actualización ………………………………………….....9,000
+medida y actualización .....................9,000
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -4017,7 +4325,7 @@ unidades de medida y actualización ............................................
 
 c). Cuando el valor esté entre los 4,965 y 6,116 unidades
 
-de medida y actualización………………………………………….16.000
+de medida y actualización.................16.000
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -4067,19 +4375,19 @@ solicite el servicio y el de avalúo comercial o bancario, se cobrará:
 
 a).- Cuando el valor sea de hasta 3,814 unidades de medida
 
-y actualización……………………………………………………9.000
+y actualización....................9.000
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 b).- Cuando el valor se encuentre entre los 3,815 y
 
-las 4,964 unidades de medida y actualización ……………………12.000
+las 4,964 unidades de medida y actualización ........12.000
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 c).- Cuando el valor esté entre las 4,965 y
 
-6,116 unidades de medida y………………………………………16.000
+6,116 unidades de medida y...............16.000
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -4169,31 +4477,31 @@ causarán incluyendo los poderes que se otorguen en estas,
 
 independientemente del número de apoderados.
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-VII.- Inscripción de las modificaciones a la escritura constitutiva de las
+VII.- Inscripción de todas las modificaciones que requiera la
 
-sociedades o asociaciones de cualquier tipo, que no se refieran a
+escritura constitutiva de las sociedades o asociaciones de cualquier
 
-aumento de capital social, la cuota a pagar será de 3.500
+tipo, que no se refieran a aumento de capital social, la cuota a
 
-VIII.- Inscripción de operaciones de crédito de cualquier tipo
+pagar será de 7.69
 
-celebradas con instituciones, entidades, sociedades u organismos
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-auxiliares, de crédito.
+VIII.- Inscripción sobre operaciones de crédito de cualquier tipo celebradas con instituciones, entidades, sociedades u organismos auxiliares.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 a). Cuando el monto de la operación sea hasta el
 
-equivalente a 648 unidades de medida y actualización……………5.000
+equivalente a 648 unidades de medida y actualización.....5.000
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 b). Cuando el monto de la operación sea de
 
-entre 649 y 1,295 unidades de medida y actualización…………….6.000
+entre 649 y 1,295 unidades de medida y actualización......6.000
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -4231,7 +4539,7 @@ y actualización ...............................................................
 
 g). Cuando el monto de la operación esté entre los
 
-4,965 y 9,600 unidades de medida y actualización ………………….16.000
+4,965 y 9,600 unidades de medida y actualización ........16.000
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -4311,9 +4619,13 @@ c).- Habitacional densidad alta 4.000
 
 d).- Industrial, comercial y granjas 3.360
 
-XIII.- Inscripción de actas de asambleas de socios o de juntas de
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-administradores 7.690
+XIII.- Inscripción de actas de asambleas de socios,
+
+juntas de administradores, o actas de sesión de consejo
+
+de administración 7.690
 
 XIV.- Inscripción de la disolución y liquidación de sociedades mercantiles:
 
@@ -4497,11 +4809,9 @@ de traslado y más que se generen.
 
 XXVIII.- Ratificación de documentos y firmas ante el registrador. 9.000
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 2 DE DICIEMBRE DE 2017)</small>
 
-XXIX.- Atención de consultas sobre existencia o inexistencia
-
-de inscripciones en el Registro por cada consulta:
+XXIX.- Consulta por nombre de particulares o personas morales sobre existencia o inexistencia de inscripciones en el Registro, por cada consulta.
 
 a) Si la consulta es realizada de manera
 
@@ -4511,6 +4821,10 @@ b) Atención de consulta realizada de manera
 
 escrita con expedición de constancia 5.000
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+Salvo las que se realicen por número de folio real y/o mercantil las cuales quedarán exentas de pago.
+
 XXX.- Expedición de certificados, informes y constancias:
 
 a).- Por expedición de informes regístrales. 7.500
@@ -4519,9 +4833,17 @@ b).- Expedición de certificados de existencia o inexistencia
 
 de gravámenes. 3.500
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
 Además de las cuotas señaladas en los incisos anteriores, se
 
-pagará por cada gravamen o limitación de dominio inscrito. 1.000
+pagará por cada gravamen, limitación de dominio, anotaciones,
+
+ventas de acciones o fracciones o cualquier otra inscripción o
+
+anotación vigente en el folio real que deban describirse en
+
+el certificado. 1.000
 
 Sin que el máximo sea superior a. 5.110
 
@@ -4570,6 +4892,16 @@ cuotas anteriores tendrán un pago adicional. 24.000
 XXXII.- Expedición de reimpresión de solicitud de trámite
 
 y/o recibo de pago 2.500
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+XXXIII.- Servicio de notificación vía mensaje de texto a celular o aplicación de software o correo electrónico al titular del derecho registral, por cualquier movimiento que se realice en el folio.
+
+a).- Por ejercicio fiscal y por cada folio 3.500
+
+b).- Modificaciones a los datos del usuario
+
+del servicio 1.000
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4915,31 +5247,27 @@ k).- Manejo de estación total (8 horas). 162.000
 
 l).- Uso y manejo de navegador (8 horas). 122.000
 
-m).- Interpretación de la norma ISO 9000 (15 horas). 80.000
+m).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
-n).- Aplicación de la norma ISO 9001 (15 horas). 90.000
+n).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
-ñ).- Generación de planes y procesos de calidad (20 horas). 120.000
+ñ).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
-o).- Generación de indicadores de calidad (15 horas). 80.000
+o).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
-p).- Uso y manejo de documentos de calidad (15 horas). 90.000
+p).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
-q).- Formación de la coordinación de calidad (20 horas). 120.000
+q).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
-r).- Generación de manuales de organización (15 horas). 80.000
+r).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
-s).- Manejo del sistema integral de gestión registral
+s).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
-(SIGER) (20 horas). 102.000
+t).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
-t).- Manejo del sistema web del Instituto (20 horas). 102.000
+u).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
-u).- Instalación de redes y adquisición de equipos
-
-(20 horas). 102.000
-
-v).- Herramientas informáticas (20 horas). 102.000
+v).- (DEROGADO, P.O. 2 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -5174,6 +5502,14 @@ territorial en cuanto a los límites, superficie y
 capas de información
 
 1.- Por cada capa del mapa base estatal 6.000
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2017)</small>
+
+XI.- Por levantamientos fotométricos "vía dron" y entrega de "orto foto" y modelo digital de superficie en terreno plano lomerío de 1 a 100 hectáreas:
+
+a).- Como mínimo desde una hectárea 13.000
+
+b).- Como máximo desde una hectárea 1300.000
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6261,7 +6597,7 @@ SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medid
 
 P.O. 24 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 182 POR EL QUE SE REFORMA EL ARTÍCULO 57 FRACCIÓN XIV, EN SUS INCISOS A), B), C) Y D), DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 182 POR EL QUE SE REFORMA EL ARTÍCULO 57 FRACCIÓN XIV, EN SUS INCISOS A), B), C) Y D), DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
@@ -6270,3 +6606,9 @@ P.O. 8 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 284 POR EL QUE SE APRUEBA AMPLIAR EL PLAZO PARA LA REVALIDACIÓN ANUAL DE LAS CONCESIONES O PERMISOS DEL SERVICIO PÚBLICO DE TRANSPORTE, EN SUS DISTINTAS MODALIDADES".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima"
+
+P.O. 2 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 391 POR EL QUE SE APRUEBA REFORMAR DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día 1o. de enero del año 2018, previa su publicación en el Periódico Oficial "El Estado de Colima".
