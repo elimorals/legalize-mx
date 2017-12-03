@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-pensiones-del-estado-de-durango-56687"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-05"
-last_updated: "2007-12-30"
+last_updated: "2017-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE PENSIONES DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO PRIMERO DE LA LEY DE PENSIONES DEL ESTADO DE DURANGO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 3 DE DICIEMBRE DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMERO DE ENERO DEL AÑO DOS MIL DIECIOCHO.]</small>
+
 LEY DE PENSIONES DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 5 de agosto de 2007.
 
@@ -775,7 +777,7 @@ Cuando dos o más personas reclamen el derecho a recibir el pago de la pensión 
 
 DE LA PENSIÓN GARANTIZADA.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 89.
 
@@ -1287,7 +1289,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 30 DE DICIEMBRE DE 2007.
 
@@ -1298,3 +1300,311 @@ Una vez publicado en el Periódico Oficial del Gobierno Constitucional del Estad
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 3 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 290.- POR EL CUAL SE EXPIDE LA LEY DE PENSIONES DEL ESTADO DE DURANGO".]
+
+PRIMERO.- Se abroga la Ley de Pensiones del Estado de Durango aprobada por decreto número 448 de la LXIII Legislatura, de fecha 14 de julio de 2007, y publicado en el Periódico Oficial del Gobierno del Estado número 11, de fecha 5 de agosto del mismo año. Asimismo, se derogan todas aquellas disposiciones legales en lo que se opongan al presente decreto.
+
+SEGUNDO.- Esta Ley entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+TERCERO.- Las personas que al entrar en vigor esta Ley tengan derechos adquiridos de conformidad con ordenamientos anteriores por haber cumplido con los requisitos de edad, tiempo laborado y cotizado, podrán optar por acogerse a los beneficios establecidos en aquellos o a los que otorga la presente Ley. En ningún caso podrán coexistir ambos, por lo que la concesión de uno excluye el otro, con excepción de lo dispuesto en el artículo 65 de esta Ley.
+
+CUARTO.- La instalación del Consejo Directivo y Comité Revisor, se efectuará en un plazo no mayor de treinta días naturales, posteriores a la entrada en vigor del presente ordenamiento.
+
+QUINTO.- Al entrar en vigor la presente ley, el Director y demás personal de la Dirección, continuarán con el mismo carácter en el ejercicio de sus cargos y con reconocimiento de su antigüedad en el servicio.
+
+SEXTO.- Quedan vigentes los reglamentos, bases, manuales, procesos, procedimientos y acuerdos administrativos emitidos por el Consejo, en todo lo que no se oponga a la presente Ley y en tanto se expidan las nuevas disposiciones que los sustituyan.
+
+SÉPTIMO.- Las disposiciones reglamentarias correspondientes al presente ordenamiento deberán expedirse en un plazo no mayor de ciento ochenta días naturales, contados a partir de la fecha de entrada en vigor de la presente Ley.
+
+OCTAVO.- Los préstamos o créditos contraídos por los sujetos obligados de la presente ley, adquiridos con anterioridad a la misma, quedarán sujetos a las disposiciones conforme a las cuales fueron contraídas (sic).
+
+NOVENO.- Las solicitudes de prestaciones en trámite a la entrada en vigor de esta Ley, se resolverán de conformidad con la legislación vigente al momento de la solicitud.
+
+DÉCIMO.- Con la finalidad de que el FONPAR establecido en el artículo 100 de la presente ley cuente con recursos para iniciar su operación, a partir de la entrada en vigor de este ordenamiento, la Dirección destinará la recuperación quincenal de capital del monto colocado en préstamos al 31 de diciembre del 2017 para el otorgamiento de préstamos.
+
+Los puntos porcentuales recibidos y separados financieramente para el FONPAR, tanto del afiliado como de las instituciones públicas, se destinarán para reintegrar al patrimonio de la Dirección el recurso descrito en el párrafo anterior, hasta completar la cantidad trasferida.
+
+El destino de los intereses efectivamente cobrados a que hace referencia el artículo 105 de la presente Ley, iniciará una vez que se haya reintegrado al patrimonio de la Dirección el recurso descrito en el párrafo anterior.
+
+DÉCIMO PRIMERO.- En un plazo de dos años contados a partir del inicio de la vigencia de esta Ley, la Dirección deberá reintegrar a los afiliados al Programa de Ahorro y Crédito para el Retiro (PROACER) el saldo acumulado en la cuenta individual.
+
+En el mismo término a que se refiere el párrafo anterior, el afiliado a este programa deberá acudir a hacer el trámite correspondiente para acceder a este beneficio. Transcurrido dicho plazo sin hacerlo, el saldo de la cuenta se aplicará en favor de la Dirección.
+
+DÉCIMO SEGUNDO.- Los afiliados que ingresen a prestar sus servicios con posterioridad a la entrada en vigor de la presente Ley, quedarán sujetos a las disposiciones de la misma.
+
+DÉCIMO TERCERO.- Los afiliados que ingresaron al servicio con anterioridad a la entrada en vigor de la presente Ley, y no se encuentren en el supuesto del artículo tercero transitorio del presente ordenamiento, serán considerados como afiliados en transición.
+
+DÉCIMO CUARTO.- Para los afiliados en transición, y para los afiliados con derechos adquiridos, de conformidad con lo establecido en el artículo TERCERO transitorio del presente ordenamiento, las cuotas y aportaciones a que se refiere el artículo 41 de esta Ley, serán de acuerdo con la siguiente tabla:
+
+Año de Aplicación Cuota Aportación
+
+2018 9.00% 12.40%
+
+2019 10.00% 14.40%
+
+2020 11.00% 16.40%
+
+2021 12.00% 18.40%
+
+2022 13.00% 20.40%
+
+2023 en adelante 13.00% 22.00%
+
+Las cuotas y aportaciones antes mencionadas se destinarán para cubrir las prestaciones contempladas en la presente ley de la siguiente forma:
+
+I. De la cuota:
+
+a) Para el pago de jubilaciones y pensión por edad y tiempo de servicio, estímulo a la permanencia laboral, devolución de cuotas y ayuda por fallecimiento, conforme a la siguiente tabla:
+
+Año de Aplicación Puntos Porcentuales
+
+2018 6.5
+
+2019 7.0
+
+2020 7.5
+
+2021 8.0
+
+2022 en adelante 8.5
+
+b) Para el pago de las pensiones por invalidez y fallecimiento, conforme a la siguiente tabla:
+
+Año de Aplicación Puntos Porcentuales
+
+2018 1.0
+
+2019 1.5
+
+2020 2.0
+
+2021 2.5
+
+2022 en adelante 3.0
+
+c) Para el pago de gastos de administración y funcionamiento: medio punto porcentual;
+
+d) Para el FONPAR: un punto porcentual.
+
+II. De la aportación:
+
+a) Para el pago de jubilaciones y pensión por edad y tiempo de servicio, estímulo a la permanencia laboral, devolución de cuotas y ayuda por fallecimiento, conforme a la siguiente tabla:
+
+Año de Aplicación Puntos Porcentuales
+
+2018 7.9
+
+2019 8.9
+
+2020 9.9
+
+2021 10.9
+
+2022 11.9
+
+2023 en adelante 12.5
+
+b) Para el pago de las pensiones por invalidez y fallecimiento, conforme a la siguiente tabla:
+
+Año de Aplicación Puntos Porcentuales
+
+2018 1.0
+
+2019 2.0
+
+2020 3.0
+
+2021 4.0
+
+2022 5.0
+
+2023 en adelante 6.0
+
+c) Para el pago de gastos de administración y funcionamiento: uno y medio puntos porcentuales;
+
+d) Para el FONPAR: dos puntos porcentuales.
+
+La Dirección deberá realizar la separación contable de cada una de las fracciones antes mencionadas, a excepción de los incisos d) de cada una, cuya separación será además financiera.
+
+El incremento anual establecido en el presente artículo para la cuota, será efectuado al momento en que las instituciones públicas apliquen a los afiliados en transición el incremento a su salario, en su caso, derivado de los contratos colectivos de trabajo, con efecto retroactivo.
+
+DÉCIMO QUINTO. Para los afiliados en transición, y para los afiliados con derechos adquiridos de conformidad con el artículo tercero transitorio de esta Ley, el incremento a las pensiones a que se refiere el artículo 67 del presente ordenamiento, será en la forma y proporción en que se incremente el salario de los servidores públicos en activo.
+
+DÉCIMO SEXTO. Para los afiliados en transición, el sueldo regulador a que se refiere la fracción XXVII del artículo 5 de esta Ley, será de acuerdo con lo siguiente:
+
+I.- Para los afiliados en transición con fecha de ingreso anterior al 9 de agosto de 2007, fecha en que fue abrogada la Ley de Pensiones del Estado de Durango aprobada por decreto número 82 de la LV Legislatura y publicado en los periódicos oficiales del Gobierno del Estado números 28, 29, 30 y 31, de fechas 8, 11, 15 y 18 de abril de 1982 respectivamente, será el promedio del sueldo base de cotización que haya percibido el afiliado durante el último año de servicio, siempre que el servidor público hubiere mantenido durante los cinco últimos años el mismo nivel y rango salarial. En caso de que el afiliado no cumpla con tal supuesto, se calculará de la siguiente manera:
+
+a) Para los afiliados en transición que durante los años 2018, 2019 y 2020 cumplan los requisitos para obtener una pensión por jubilación o pensión por edad y tiempo de servicios según lo establecido en esta ley en la fracción I del artículo décimo séptimo transitorio y fracción I del artículo décimo octavo transitorio, respectivamente, se obtendrá el promedio de los sueldos base de cotización de los últimos tres años de servicio, previa actualización con el Índice Nacional de Precios al Consumidor o indicador que lo sustituya;
+
+b) Para los afiliados en transición que durante el año 2021 cumplan los requisitos para obtener una pensión por jubilación o pensión por edad y tiempo de servicios según lo establecido en esta ley en la fracción I del artículo décimo séptimo transitorio y fracción I del artículo décimo octavo transitorio, respectivamente, se obtendrá el promedio de los sueldos base de cotización de los últimos cuatro años de servicio, previa actualización con el Índice Nacional de Precios al Consumidor o indicador que lo sustituya;
+
+c) Para los afiliados en transición que a partir del año 2022 cumplan los requisitos para obtener una pensión por jubilación o pensión por edad y tiempo de servicios según lo establecido en esta ley en la fracción I del artículo décimo séptimo transitorio y fracción I del artículo décimo octavo transitorio, respectivamente, se obtendrá el promedio de los sueldos base de cotización de los últimos cinco años de servicio, previa actualización con el Índice Nacional de Precios al Consumidor o indicador que lo sustituya.
+
+II.- Para los afiliados en transición cuya fecha de ingreso es a partir del 9 de Agosto de 2007, fecha en la que entró en vigor la Ley de Pensiones del Estado de Durango que por este decreto se abroga, será el promedio del sueldo base de cotización que haya percibido el afiliado durante el último año de servicio, siempre que el servidor público hubiere mantenido durante los cinco últimos años el mismo nivel y rango salarial. En caso de que el afiliado no cumpla con tal supuesto, se obtendrá el promedio de los sueldos base de cotización de los últimos cinco años de servicio, previa actualización con el Índice Nacional de Precios al Consumidor o indicador que lo sustituya.
+
+DÉCIMO SÉPTIMO. Para los afiliados en transición, la pensión por jubilación a que se refiere el artículo 77 de esta Ley, será de acuerdo con lo siguiente:
+
+I.- Para los afiliados en transición con fecha de ingreso anterior al 9 de Agosto de 2007, fecha en que fue abrogada la Ley de Pensiones del Estado de Durango aprobada por decreto número 82 de la LV Legislatura y publicado en los periódicos oficiales del Gobierno del Estado números 28, 29, 30 y 31, de fechas 8, 11, 15 y 18 de abril de 1982 respectivamente, tendrán derecho a la pensión por jubilación al contar con al menos treinta años de cotización y una edad que será determinada por el año en que el afiliado cumpla con el requisito de tiempo cotizado antes señalado, de acuerdo con la siguiente tabla:
+
+Año Edad
+
+2018 No Aplica
+
+2019 - 2020 51
+
+2021 - 2022 52
+
+2023 - 2024 53
+
+2025 - 2026 54
+
+2027 - 2028 55
+
+2029 - 2030 56
+
+2031 - 2032 57
+
+2033 - 2034 58
+
+2035 - 2036 59
+
+2037 en adelante 60
+
+Si al momento en que el afiliado cumpla con el requisito de tiempo cotizado, la edad requerida conforme a la tabla anterior resulta superior a nueve años respecto a la edad con la que en ese momento tenga el afiliado, el límite de afectación será de nueve años.
+
+El monto de la pensión será del cien por ciento del salario regulador definido en la fracción I artículo (sic) décimo sexto transitorio de esta Ley.
+
+II.- Para los afiliados en transición cuya fecha de ingreso es a partir del 9 de agosto de 2007, fecha en la que entró en vigor la Ley de Pensiones del Estado de Durango que por este decreto se abroga, tendrán derecho a la pensión por jubilación al contar con al menos treinta y cinco años de cotización y sesenta años de edad.
+
+El monto de la pensión será del cien por ciento del salario regulador definido en la fracción II del artículo décimo sexto transitorio de esta Ley.
+
+DÉCIMO OCTAVO.- Para los afiliados en transición, la pensión por edad y tiempo de servicio a que se refiere el artículo 78 de esta Ley, será de acuerdo con lo siguiente:
+
+I.- Para los afiliados en transición cuya fecha de ingreso sea anterior al 9 de Agosto de 2007, fecha en que fue abrogada la Ley de Pensiones del Estado de Durango aprobada por decreto número 82 de la LV Legislatura y publicado en los periódicos oficiales del Gobierno del Estado números 28, 29, 30 y 31, de fechas 8, 11, 15 y 18 de abril de 1982 respectivamente, tendrán derecho a la pensión por edad y tiempo de servicio al contar con al menos quince años de cotización y una edad que será determinada por el año en que el afiliado cumpla con el requisito de tiempo cotizado antes señalado, de acuerdo con la siguiente tabla:
+
+Año Edad
+
+2018 55
+
+2019 - 2020 55
+
+2021 - 2022 56
+
+2023 - 2024 57
+
+2025 - 2026 58
+
+2027 - 2028 59
+
+2029 en adelante 60
+
+El monto de la pensión será un porcentaje del salario regulador definido en la fracción I del artículo décimo sexto transitorio de esta Ley, de acuerdo con la siguiente tabla:
+
+Años de Servicio Porcentaje
+
+15 50%
+
+16 52%
+
+17 54%
+
+18 56%
+
+19 58%
+
+20 60%
+
+21 62%
+
+22 64%
+
+23 66%
+
+24 70%
+
+25 75%
+
+26 80%
+
+27 85%
+
+28 90%
+
+29 95%
+
+30 o más 100%
+
+II.- Para los afiliados en transición cuya fecha de ingreso sea a partir del 9 de agosto de 2007, fecha en la que entró en vigor la Ley de Pensiones del Estado de Durango que por este decreto se abroga, tendrán derecho a la pensión por edad y tiempo de servicio al contar con al menos sesenta años de edad y quince años de cotización.
+
+El monto de la pensión será un porcentaje del salario regulador definido en la fracción II del artículo décimo sexto transitorio de esta Ley, de acuerdo con la siguiente tabla:
+
+Años de Servicio Porcentaje
+
+15 50%
+
+16 52%
+
+17 54%
+
+18 56%
+
+19 58%
+
+20 60%
+
+21 62%
+
+22 64%
+
+23 66%
+
+24 68%
+
+25 70%
+
+26 73%
+
+27 76%
+
+28 79%
+
+29 82%
+
+30 85%
+
+31 88%
+
+32 91%
+
+33 94%
+
+34 97%
+
+35 o más 100%
+
+DÉCIMO NOVENO. Aquellos afiliados que se encuentren en el supuesto del artículo tercero transitorio de esta Ley, o aquellos afiliados en transición que alcancen el derecho a su jubilación y que conserven sus capacidades laborales, podrán seguir en activo por un tiempo mayor. En este caso, podrán recibir un estímulo consistente en un pago adicional a su sueldo base de cotización del diecisiete punto cinco por ciento durante el primer año de aplicación, un cinco por ciento más durante el segundo, tercer, cuarto y quinto años, y un dos punto cinco por ciento más en el sexto año, hasta alcanzar un total del cuarenta por ciento. El periodo de pago de este estimulo será conforme a lo (sic) establezca el reglamento correspondiente.
+
+En los casos en los que el servidor público opte por no recibir los beneficios económicos de los estímulos para su mayor permanencia en la actividad laboral al servicio del Estado, tendrá el pleno derecho de tramitar la pensión que le corresponda.
+
+El estímulo económico por permanencia laboral se otorgará de manera adicional e independiente del sueldo base de cotización de los afiliados que hubieren cumplido con los requisitos mínimos para tramitar su pensión por jubilación. El estímulo no formará parte del sueldo regulador utilizado para determinar el monto de la pensión.
+
+El beneficio por permanencia laboral a que hace referencia este artículo se terminará una vez que el afiliado que haya accedido a él, ejerza su derecho a la jubilación o cumpla la edad de sesenta y cinco años.
+
+Los afiliados que al momento de entrar en vigor el presente artículo se encuentren disfrutando del beneficio de permanencia laboral conforme a lo establecido por los artículos 96 y 97 de la Ley abrogada por este decreto, continuarán recibiendo este beneficio, el cual será ajustado conforme a las reglas en este artículo señaladas.
+
+No son sujetos de este beneficio los afiliados que cuenten con el pago de una Incapacidad Total y Permanente por parte de la Secretaría de Educación del Estado de Durango, así como aquellos que estén recibiendo el pago de una pensión por incapacidad permanente por parte de alguna de las instituciones públicas conforme a lo establecido por las fracciones II y III del artículo 99 C de la Ley de los Trabajadores al Servicio de los Tres Poderes del Estado de Durango.
+
+El beneficio al que se refiere este precepto, cobrará vigencia seis meses posteriores a la entrada en vigor de la presente Ley.
+
+VIGÉSIMO. Las personas que al entrar en vigor esta ley tengan reconocida ante la Dirección la calidad de pensionados o pensionistas, seguirán gozando del beneficio obtenido. Además, continuarán gozando de las prestaciones adicionales aprobadas por el Consejo.
+
+Asimismo, al momento en que los afiliados en transición lleguen a obtener la calidad de pensionado, gozarán de las prestaciones adicionales aprobadas por el Consejo.
+
+El Consejo no estará facultado para tomar acuerdos que incrementen las prestaciones adicionales aprobadas.
+
+VIGÉSIMO PRIMERO. Los afiliados en transición que al momento de entrar en vigor la presente ley, se encuentren dados de baja definitivamente del sistema de pensiones, tengan saldos pendientes por liquidar por concepto de préstamos y/o créditos con la Dirección y éstos se encuentren vencidos, contarán con un plazo de noventa días contados a partir de la fecha de entrada en vigor de este ordenamiento para manifestar si desean liquidar sus adeudos con la Dirección en las condiciones pactadas originalmente, o si desean que sus cuotas sean aplicadas en pago a sus adeudos. En caso de que los afiliados no acudan ante la dirección a realizar la manifestación antes señalada, la Dirección procederá en los términos establecidos en el segundo párrafo del artículo 113 de la presente Ley.
+
+VIGÉSIMO SEGUNDO. Las disposiciones de la Ley Reglamentaria de los artículos 72 y 73 de la Ley de Pensiones, publicada en el periódico oficial número 06 de fecha 20 de enero de 1991, relativas al Fondo de la Vivienda, se entenderá (sic) que se refiere a lo considerado en esta materia en el presente decreto.
