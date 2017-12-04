@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-comision-de-derechos-humanos-del-estado-de-yucatan-99
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2017-07-18"
+last_updated: "2017-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de febrero de 2014.
 
@@ -1025,11 +1025,13 @@ Quejas presentadas por organizaciones de la sociedad civil
 
 Las organizaciones de la sociedad civil legalmente constituidas podrán acudir ante la comisión para presentar quejas por presuntas violaciones a los derechos humanos respecto de personas que, por sus condiciones físicas, mentales, económicas y culturales, no tengan la capacidad efectiva de presentar dichas quejas de manera directa.
 
+> <small>(REFORMADO, D.O. 4 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 60.
 
 Plazo para la presentación de la queja
 
-La queja solo podrá presentarse dentro del plazo de un año, contado a partir de la fecha en que hubiere iniciado la ejecución de los hechos que se estimen violatorios de los derechos humanos o de que el quejoso los haya conocido. No contará plazo alguno cuando se trate de violaciones graves a los derechos humanos.
+La queja solo podrá presentarse dentro del plazo de dos años, contados a partir de la fecha en que hubiere iniciado la ejecución de los hechos que se estimen violatorios de los derechos humanos o de que el quejoso los haya conocido. No contará plazo alguno cuando se trate de violaciones graves a los derechos humanos.
 
 ###### Artículo 61.
 
@@ -1636,3 +1638,15 @@ El Congreso deberá expedir la convocatoria para la designación de los titulare
 Tercero. Titular del Órgano de Control Interno del Instituto
 
 El titular del Órgano de Control Interno del Instituto Electoral y de Participación Ciudadana que se encuentre en funciones a la entrada en vigor de este decreto, continuará con el cargo durante el período para el que fue electo.
+
+D.O. 4 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 550/2017 POR EL QUE SE MODIFICA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del gobierno del estado.
+
+Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
