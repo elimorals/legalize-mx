@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-estado-de-yucatan-para-el-ejercicio-117868"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-29"
-last_updated: "2016-12-29"
+last_updated: "2017-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL ESTADO DE YUCATÁN, PARA EL EJERCICIO FISCAL 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 29 de diciembre de 2016.
 
@@ -69,9 +69,13 @@ Empréstitos y operaciones de financiamiento público
 
 El Poder Ejecutivo del estado, por conducto de la Secretaría de Administración y Finanzas, contratará y ejercerá empréstitos y otras operaciones de financiamiento público, en términos de la Ley de Deuda Pública del Estado de Yucatán, y para el financiamiento del Presupuesto de Egresos del Estado de Yucatán para el Ejercicio Fiscal 2017, hasta por un monto de $580,000,000.00.
 
-Se autoriza al Poder Ejecutivo del estado para que, por conducto de la Secretaría de Administración y Finanzas, ejerza el monto de endeudamiento autorizado en el párrafo anterior mediante la contratación y ejercicio de uno o varios financiamientos con instituciones de crédito mexicanas. En todo caso, los financiamientos autorizados podrán contratarse hasta por un plazo de veinte años.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-Los recursos obtenidos en los financiamientos autorizados deberán destinarse a inversiones públicas productivas que cumplan con los fines y disposiciones contenidos en el artículo 2, fracción XV, de la Ley de Deuda Pública del Estado de Yucatán. Asimismo, los recursos obtenidos podrán destinarse para cubrir las erogaciones directamente relacionadas con la obtención de los financiamientos.
+Se autoriza al Poder Ejecutivo del estado, previo análisis del destino, capacidad de pago y el otorgamiento de garantía o establecimiento de la fuente de pago, para que, por conducto de la Secretaría de Administración y Finanzas, ejerza el monto de endeudamiento autorizado en el párrafo anterior mediante la contratación y ejercicio de uno o varios financiamientos con instituciones de crédito mexicanas. En todo caso, los financiamientos autorizados podrán contratarse hasta por un plazo de veinte años.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+Los recursos obtenidos en los financiamientos autorizados deberán destinarse a inversiones públicas productivas que cumplan con los fines y disposiciones contenidos en el artículo 2, fracción XV, de la Ley de Deuda Pública del Estado de Yucatán y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, dentro del rubro de infraestructura social consistente en inversiones público productivas en el Centro Internacional de Congresos o Nuevo Centro de Convenciones en la localidad y municipio de Mérida. Asimismo, los recursos obtenidos podrán destinarse para cubrir las erogaciones directamente relacionadas con la obtención de los financiamientos.
 
 Se faculta al Poder Ejecutivo del estado para que, sin perjuicio de afectaciones previas, afecte de manera irrevocable como garantía o como fuente de pago de los financiamientos autorizados en este artículo hasta 4% de los ingresos o derechos de las participaciones que en ingresos federales correspondan al estado de Yucatán, del Fondo General de Participaciones a que hace referencia el artículo 2 de la Ley de Coordinación Fiscal federal, así como cualquier otro fondo que eventualmente lo sustituya o complemente por cualquier causa. La afectación de participaciones a que se refiere este artículo podrá formalizarse a través de un fideicomiso, el cual no será considerado entidad paraestatal.
 
@@ -260,3 +264,13 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 554/2017 POR EL QUE SE MODIFICA LA LEY DE INGRESOS DEL ESTADO DE YUCATÁN PARA EL EJERCICIO FISCAL 2017”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
