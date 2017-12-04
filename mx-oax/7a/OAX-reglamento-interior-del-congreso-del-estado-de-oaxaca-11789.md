@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2017-03-30"
+last_updated: "2017-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -417,9 +417,9 @@ XXXVI.- Turismo;
 
 XXXVII.- Vialidad y Transporte;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-XXXVIII.- Vigilancia de la Auditoría Superior del Estado
+XXXVIII.- Vigilancia del Órgano Superior de Fiscalización del Estado de Oaxaca.
 
 XXXIX.- Vivienda y Desarrollo Urbano
 
@@ -651,25 +651,37 @@ XXXIV. La Comisión de Turismo, se encargará de conocer los proyectos y program
 
 XXXV. La Comisión de Vialidad y Transporte, conocerá los programas de vialidad y la estructura del transporte público de carga y de pasaje en el Estado y opinará sobre los programas de expansión y mejoramiento del mismo, y promoverá la adecuación de las legislaciones aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-XXXVI. La Comisión de Vigilancia de la Auditoría Superior del Estado tendrá las siguientes obligaciones y atribuciones:
+XXXVI. La Comisión de Vigilancia del Órgano Superior de Fiscalización del Estado de Oaxaca tendrá las siguientes obligaciones y atribuciones:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ENERO DE 2011)</small>
 
 a).- Certificar en la primera y última hoja, expresando el número de estas que se contengan, todos los libros que sean necesarios para las labores de la oficina;
 
-b).- Recibir del Pleno o de la Diputación Permanente los informes de avance de gestión financiera y las Cuentas Públicas, para turnarlos a la Auditoría Superior del Estado;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+b).- Recibir del Pleno o de la Diputación Permanente los informes de avance de gestión financiera y las Cuentas Públicas, para turnarlos al Órgano Superior de Fiscalización del Estado de Oaxaca;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE ENERO DE 2011)</small>
 
 c).- Dictaminar las respectivas Cuentas Públicas;
 
-d).- Vigilar y evaluar que la Auditoría Superior del Estado, cumpla eficazmente con las funciones que le competen;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+d).- Evaluar que el Órgano Superior de Fiscalización del Estado de Oaxaca, cumpla eficazmente con las funciones que le competen;
 
-e).- Presentar al Pleno del Congreso, el dictamen relativo a la terna para ocupar el cargo de Auditor y Sub Auditores Superiores del Estado, que se integrará con las propuestas recibidas;
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-f).- Dictaminar acerca de la solicitud de licencia, renuncia o remoción del Auditor Superior del Estado, que se integrará con las propuestas recibidas; y
+e).- Emitir la convocatoria, desahogar el procedimiento y presentar al Pleno del Congreso, el dictamen relativo a la terna para ocupar el cargo de Titular y Subauditores del Órgano Superior de Fiscalización del Estado de Oaxaca, que se integrará con las propuestas recibidas;
 
-g).- Proponer la contratación del personal de la Unidad Técnica de Vigilancia, Evaluación y Control de la Auditoría Superior del Estado, que auxiliará a la Comisión en el desempeño de sus funciones.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+f).- Dictaminar acerca de la solicitud de licencia, renuncia o remoción del Titular y Subauditores del Órgano Superior de Fiscalización del Estado de Oaxaca, que se integrará con las propuestas recibidas; y
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+g).- Proponer a la Junta de Coordinación Política del Congreso del Estado la contratación del personal de la Unidad Técnica, que auxiliará a la Comisión en el Desempeño de sus funciones.
 
 > <small>N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL DECRETO DE LA PUBLICACIÓN P.O. 29 DE ENERO DE 2011 EN LA FRACCIÓN XXXVI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 26 DE OCTUBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXXVII.</small>
 
@@ -751,15 +763,15 @@ Todo el personal de la Legislatura guardará durante las horas de trabajo compos
 
 El Presidente de la Junta de Coordinación Política nombrará a los empleados y cubrirá las vacantes que resulten necesarias para el servicio de la Legislatura.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO VI. DE LA AUDITORÍA SUPERIOR DEL ESTADO
+### CAPITULO VI. DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE OAXACA
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 43.
 
-La Auditoría Superior del Estado es el órgano técnico del Congreso que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales. Se integra y ejerce sus atribuciones en los términos de la Constitución Política del Estado, este Reglamento, la Ley de Fiscalización Superior del Estado de Oaxaca y el Reglamento Interior de la Auditoría Superior del Estado de Oaxaca.
+El Órgano Superior de Fiscalización del Estado de Oaxaca es la instancia técnica del Congreso, que goza de autonomía técnica, de Gestión, presupuestal y financiera, que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, Entes Públicos Estatales y Municipales, Organismos Públicos Autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales. Se integra y ejerce sus atribuciones en los términos de la Constitución Política del Estado Libre y Soberano de Oaxaca, Este Reglamento, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y el Reglamento Interior del Órgano Superior de Fiscalización del Estado de Oaxaca.
 
 ### CAPITULO VII. DEL TESORERO
 
@@ -1731,6 +1743,14 @@ SEGUNDO.- Los integrantes de la Comisión Permanente de Atención a la Zona Econ
 
 P.O. 30 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 577.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 37 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 577.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 37 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Estado.
+
+P.O. 4 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 756.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXVIII DEL ARTÍCULO 44, SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SEXTO Y SE REFORMA EL ARTÍCULO 61, TODOS ELLOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca, para efectos de publicidad y difusión.
