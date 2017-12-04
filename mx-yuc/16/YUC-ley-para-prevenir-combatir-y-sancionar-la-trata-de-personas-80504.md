@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-prevenir-combatir-y-sancionar-la-trata-de-personas-805
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-31"
-last_updated: "2011-03-31"
+last_updated: "2017-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el suplemento al No. 31,823 del Diario Oficial del Gobierno del Estado de Yucatán, el jueves 31 de marzo de 2011.
 
@@ -460,3 +460,25 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 553/2017 POR EL QUE SE EMITE LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN Y SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Yucatán, publicada mediante Decreto 393 del Poder Ejecutivo en el Diario Oficial del Gobierno del Estado el 31 de marzo de 2011.
+
+Tercero. Instalación de la comisión intersecretarial
+
+La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán se instalará en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Expedición del reglamento interno
+
+La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán deberá expedir su reglamento interno en un plazo de ciento ochenta días naturales, contado a partir de su instalación.
