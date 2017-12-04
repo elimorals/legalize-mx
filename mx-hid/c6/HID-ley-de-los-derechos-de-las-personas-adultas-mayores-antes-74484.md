@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2017-05-29"
+last_updated: "2017-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -37,11 +37,15 @@ QUE CONTIENE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de la (sic) facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S...
+A N T E C E D E N T E S
+
+[...]
 
 Por lo que, en mérito de lo expuesto; y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -325,23 +329,37 @@ VIII.- Implementar en coordinación con las instituciones Federales en el Estado
 
 IX.- Implementar programas, a efecto de crear y difundir en la población en general y en la familia, la cultura, dignificación, respeto e integración a la sociedad, de los adultos mayores.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 21.
 
-A los Servicios de Salud de Hidalgo, le corresponde:
+A la Secretaría de Salud de Hidalgo, le corresponde:
 
-I.- Garantizar el acceso a la atención médica con calidad y calidez en las clínicas y hospitales del Estado, con un enfoque de atención integral para los adultos mayores basado en prevención adecuada, diagnóstico oportuno, tratamiento individualizado y rehabilitación inmediata;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+I.- Garantizar el acceso a la atención médica con calidad y calidez en las clínicas, unidades de salud y hospitales del Estado, con un enfoque de atención integral en los servicios de salud, para las personas adultas mayores, basado en prevención adecuada, diagnóstico oportuno, tratamiento individualizado y rehabilitación temprana, garantizando su ingreso hospitalario a las unidades de atención primaria y a los hospitales en caso de emergencia.
 
 II.- Proporcionar la Cartilla Nacional de Salud para Adultos Mayores, la cual será utilizada indistintamente en las instituciones públicas y privadas en la que deberán registrar acciones de detección y control de los principales padecimientos de los adultos mayores con la finalidad de promover el auto cuidado, la detección oportuna, el tratamiento temprano y la prevención de la discapacidad;
 
 III.- Implementar en coordinación con instituciones gubernamentales e instituciones privadas, programas con el objeto de proporcionar los medicamentos que necesiten para mantener un buen estado de salud;
 
-IV.- Impulsar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de programas de capacitación y sensibilización sobre la problemática específica de los adultos mayores;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-V.- Promover la formación, capacitación, sensibilización y actualización de cuidadores para la asistencia de los adultos mayores a través de estudios e investigaciones de carácter científico y tecnológico, así como en los servicios de Tanatología;
+IV.- Impulsar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de programas de capacitación y sensibilización sobre la problemática específica de las personas adultas mayores;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+V.- Promover la celebración de convenios con instituciones de carácter público o privado, a efecto de fortalecer la formación, capacitación, sensibilización y actualización permanente e integral del personal encargado de prestar servicios de salud;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+V Bis.- Fomentar el desarrollo de estudios e investigaciones de carácter científico y tecnológico, para determinar áreas de oportunidad en la capacitación del personal que presta servicio a las personas adultas mayores en la Entidad;
 
 VI.- Realizar campañas y jornadas especiales de prevención de accidentes, enfermedades trasmisibles o infecciosas y de enfermedades crónicas degenerativas, así como el cuidado de la salud para la vejez, llevando a cabo un programa que oriente y vigile su nutrición;
 
-VII.- Implementar programas y concertar convenios con las instituciones de salud del Gobierno Federal y de la iniciativa privada, con el propósito de que incluya dentro de estas instituciones: Geriatría, Gerontología y Tanalogía (sic), para la atención médica y administrativa a fin de que los adultos mayores puedan tener acceso a los servicios de atención médica que les proporcione el sistema de salud;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+VII.- Implementar programas y concertar convenios con las instituciones de salud del Gobierno Federal y de la iniciativa privada, con el propósito de que incluya dentro de estas instituciones: Geriatría, Gerontología y Tanatología, para la atención médica y administrativa a fin de que las personas adultas mayores puedan tener acceso a los servicios de atención médica que les proporciona el sistema de salud;
 
 VIII.- Vigilar que en las instituciones públicas, privadas y sociales, que otorguen atención médica, cuenten con personal que posea preparación, capacidad y conocimientos en el cuidado del (sic) los adultos mayores;
 
@@ -349,17 +367,43 @@ IX.- Garantizar, prevenir y controlar los efectos nocivos de los factores ambien
 
 X.- Fomentar que las instituciones educativas y de seguridad social establezcan las disciplinas para la formación de especialistas en: Geriatría, Gerontología y Tanatología, con el fin de garantizar la cobertura de los servicios de salud requeridos por los adultos mayores;
 
-XI.- Asesorar y orientar a los adultos mayores y sus familias en materia de: Geriatría, Gerontología y Tanatología;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2017)</small>
+XI.- Asesorar y orientar a las personas adultas mayores y a sus familias en materia de Geriatría, Gerontología y Tanatología;
 
-XII.- Contribuir al buen funcionamiento de clubes, casas de día y demás centros de asistencia;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+XII.- Promover y fomentar la creación, gestión y apoyo de clubes, casas de día, grupos de personas adultas mayores, unidades médicas y organizaciones civiles dedicadas a la atención de la salud física y/o mental de este sector de la población;
 
 XIII.- Impulsar el desarrollo de un sistema asistencial que atienda los múltiples problemas médicos que tienen como rasgo común la pérdida de la funcionalidad e independencia física o social;
 
-XIV.- Capacitar continuamente al personal de salud en materia de: Gerontología, Geriatría y Tanatología; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-XV.- Fomentar la investigación en materia de: Gerontología, Geriatría y Tanatología.
+XIV.- Capacitar continuamente al personal de salud en materia de Gerontología, Geriatría y Tanatología;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+XV.- Fomentar la investigación en materia de Gerontología, Geriatría y Tanatología;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+XVI.- Proponer e implementar políticas preventivas y de control de las enfermedades de mayor incidencia;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+XVII.- Establecer convenios con universidades públicas y privadas para el desarrollo e implementación de un servicio social en áreas relacionadas con su atención de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+XVIII.- Fomentar se amplié la red de atención a las personas adultas mayores, a través de convenios con instituciones del sector salud privadas y/o sociales autorizadas;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+XIX.- Canalizar a las personas adultas mayores en situación de vulnerabilidad social o familiar con las instituciones pertinentes; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+
+XX.- Las demás que le confiera esta Ley y otras disposiciones en (sic) aplicables.
 
 ###### Artículo 22.
 
@@ -634,3 +678,9 @@ P.O. 29 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 184 QUE REFORMA LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 4 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO. NÚMERO. 238 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 21 DE LA LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
