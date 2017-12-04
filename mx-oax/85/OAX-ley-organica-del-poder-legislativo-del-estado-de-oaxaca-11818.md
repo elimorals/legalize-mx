@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-de-oaxaca-11818"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-04"
-last_updated: "2016-11-12"
+last_updated: "2017-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
+[NOTA 1: N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA, PUBLICADA EN EL P.O. DE 12 DE MAYO DE 2018; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 13 DE NOVIEMBRE DE 2018.]
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -453,67 +457,45 @@ VII. Asuntos Migratorios;
 
 VIII. Atención a Movimientos Sociales;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE ADICIÓN ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE OCTUBRE DE 2013)</small>
 
 IX. Ciencia, Tecnología e Innovación;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 X. Cultura;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XI. Democracia Participativa con Igualdad de Oportunidades;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XII. Derechos Humanos;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XIII. Desarrollo Rural;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XIV. Desarrollo Social;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XV. De las Infraestructuras y del Ordenamiento Territorial Sustentable;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XVI. Ecología;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XVII. Educación Pública;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XVIII. Igualdad de Género;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
@@ -523,8 +505,6 @@ XIX. Estudios Constitucionales;
 
 XX. Estudios Legislativos
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXI. Fomento Cooperativo y Ahorro Popular;
@@ -533,61 +513,41 @@ XXI. Fomento Cooperativo y Ahorro Popular;
 
 XXII. Desarrollo Económico, Industrial, Comercial y Artesanal
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXIII. Fomento de la Energía Renovable;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXIV. Fortalecimiento y Asuntos Municipales;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXV. Gobernación;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXVI. Hacienda;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXVII. Honor, Justicia y Régimen Parlamentario;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXVIII. Instructora;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXIX. Juventud y Deporte;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXX. Pesca;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXXI. Presupuesto y Programación;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
@@ -597,37 +557,25 @@ XXXII. Protección Ciudadana;
 
 XXXIII. Recursos Hidráulicos
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXXIV. Salud Pública;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXXV. Trabajo y Seguridad Social;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
-
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXXVI. Turismo;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 XXXVII. Vialidad y Transporte;
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-XXXVIII. Vigilancia de la Auditoría Superior del Estado;
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL 13 DE NOVIEMBRE DE 2013.</small>
+XXXVIII. Vigilancia del Órgano Superior de Fiscalización del Estado de Oaxaca.
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
 
@@ -735,15 +683,15 @@ III.- No desempeñar cargo alguno de elección popular.
 
 El Reglamento Interior del Congreso determinará las atribuciones y obligaciones del Oficial Mayor, quien coordinará sus actividades en lo conducente con el Presidente de la Junta de Coordinación Política del Congreso.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO II. DE LA AUDITORIA SUPERIOR DEL ESTADO
+### CAPITULO II. DEL ORGANO SUPERIOR DE FISCALIZACION DEL ESTADO DE OAXACA
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 61.
 
-La Auditoria Superior del Estado es el órgano técnico del Congreso que tiene a su cargo la revisión y fiscalización de la Cuenta Pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercicio recursos públicos estatales o municipales. Se integra y ejerce sus atribuciones en los términos de la Constitución Política del Estado, esta Ley, la Ley de Fiscalización Superior del Estado de Oaxaca y el Reglamento Interior de la Auditoría Superior del Estado de Oaxaca.
+El Órgano Superior de Fiscalización del Estado de Oaxaca es la instancia técnica del Congreso, que goza de autonomía técnica, de gestión; presupuestal y financiera que tiene a su cargo la revisión y fiscalización de la cuenta pública de los Poderes del Estado y Municipios, entes públicos estatales y municipales, organismos públicos autónomos que ejerzan recursos públicos y en general, cualquier entidad, persona física o moral, pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos estatales o municipales. Se integra y ejerce sus atribuciones en los términos de la Constitución Política del Estado Libre y Soberano de Oaxaca, esta Ley, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Oaxaca y el Reglamento Interior del Órgano Superior de Fiscalización del Estado de Oaxaca.
 
 ### CAPITULO III. DEL TESORERO
 
@@ -1112,3 +1060,11 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su aprobación.
 
 TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
+
+P.O. 4 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 756.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXXVIII DEL ARTICULO 44, SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO SEXTO Y SE REFORMA EL ARTICULO 61, TODOS ELLOS DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca, para efectos de publicidad y difusión.
