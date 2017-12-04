@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2017-11-24"
+last_updated: "2017-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE DICIEMBRE DE 2017.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -147,11 +147,11 @@ Delito continuado es aquél que se comete con pluralidad de conductas procedente
 
 ### CAPÍTULO III. DELITOS GRAVES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 4 DE DICIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 13.
+###### Artículo 13.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; trata de personas, previsto en el artículo 216; incesto, previsto por el artículo 227; allanamiento de morada con violencia, previsto en el segundo párrafo del artículo 236; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; tortura, previsto en la Ley para Prevenir y Sancionar la Tortura; falsificación de documentos, previsto en el artículo 284-bis; violación, previsto por el artículo 313; violación equiparada, definido por el artículo 315; robo calificado previsto en la fracción I del artículo 335, independientemente del importe de lo robado; así como en las demás fracciones del mismo artículo cuando el importe sea el establecido en las fracciones III o IV del numeral 333; robo con violencia previsto en el artículo 330, en relación con el 336; robo relacionado con vehículo automotor, previsto en el artículo 338, fracciones I, II, IV y VI; robo de ganado mayor, previsto por el artículo 339, a partir de dos piezas; robo de ganado menor, previsto por el artículo 340, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368, en relación con el 372, 378, 384 y 385; homicidio en razón del parentesco o relación, previsto en el artículo 394, y feminicidio, previsto en el artículo 394 Quinquies.
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; allanamiento de morada con violencia, previsto en el segundo párrafo del artículo 236; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; tortura, previsto en la Ley para Prevenir y Sancionar la Tortura; falsificación de documentos, previsto en el artículo 284-bis; violación, previsto por el artículo 313; violación equiparada, definido por el artículo 315; robo calificado previsto en la fracción I del artículo 335, independientemente del importe de lo robado; así como en las demás fracciones del mismo artículo cuando el importe sea el establecido en las fracciones III o IV del numeral 333; robo con violencia previsto en el artículo 330, en relación con el 336; robo relacionado con vehículo automotor, previsto en el artículo 338, fracciones I, II, IV y VI; robo de ganado mayor, previsto por el artículo 339, a partir de dos piezas; robo de ganado menor, previsto por el artículo 340, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368, en relación con el 372, 378, 384 y 385; homicidio en razón del parentesco o relación, previsto en el artículo 394, y feminicidio, previsto en el artículo 394 Quinquies.
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -1989,7 +1989,9 @@ Si el delito se comete con un menor de doce años de edad, las penas aumentarán
 
 Cuando el agente activo del delito fuere ascendiente, padrastro, madrastra, tutor o maestro del menor, o de algún modo tuviere autoridad sobre éste, las sanciones que señala este Capítulo se duplicarán, además de que el condenado será inhabilitado para ser tutor o curador y, en su caso, privado de la patria potestad del ofendido y de todo derecho a los bienes de éste y de sus descendientes.
 
-### CAPÍTULO III. LENOCINIO Y TRATA DE PERSONAS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 4 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO III. LENOCINIO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2011)</small>
 
@@ -2027,55 +2029,13 @@ Si el imputado fuera ascendiente, descendiente, cónyuge, concubinario, concubin
 
 A quien a sabiendas diere en arrendamiento, usufructo, o habitación, un edificio u otro local o cualquier parte de los mismos para explotar la prostitución, se le sancionará con prisión de seis meses a dos años o de veinte a doscientos días-multa y de veinte a doscientos días de trabajo en favor de la comunidad.
 
-> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2011)</small>
-
 ###### ARTÍCULO 216.
 
-Comete el delito de trata de personas quien para recibir un beneficio, y mediante amenazas, uso de la fuerza u otras formas de coacción física o psicológica, privación de la libertad, engaño, seducción, abuso de poder, una situación de vulnerabilidad, por necesidad económica o por concesión o recepción de pagos o beneficios; induzca, procure, promueva, facilite; reclute, mantenga, capte, ofrezca, traslade, transporte, entregue, reciba, consiga, acoja, favorezca, retenga, permita o solicite para sí o para un tercero, a una persona o más personas con objeto de:
+(DEROGADO, D.O. 4 DE DICIEMBRE DE 2017)
 
-I. Someterla a explotación sexual, prostitución, mendicidad o a trabajos o servicios forzados;
+ARTÍCULO 216 BIS. (DEROGADO, D.O. 4 DE DICIEMBRE DE 2017)
 
-II. Realizar la extracción o extirpación de cualquier órgano, tejidos o parte de su cuerpo, o
-
-III. Prestar servidumbre forzada o prácticas similares a la esclavitud.
-
-El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no es causa excluyente de delito.
-
-Cuando en el delito mencionado concurran las circunstancias previstas en el artículo 3 y demás relativos de la Ley federal para Prevenir y Sancionar la Trata de Personas, se dará conocimiento a la autoridad competente para lo que corresponda, poniendo a su disposición a los detenidos, si los hubiere, previo desglose de las actuaciones para continuar la investigación por delitos del fuero común.
-
-> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2011)</small>
-
-ARTÍCULO 216 BIS. A quien cometa el delito de trata de personas se le impondrá de ocho a veinticinco años y de doscientos a quinientos días-multa.
-
-La sanción señalada en el párrafo anterior se incrementará:
-
-I.- De diez a treinta años de prisión y de trescientos a setecientos días-multa, sí el sujeto activo empleara violencia física o psicológica;
-
-II.- Hasta una mitad de la sanción establecida en el primer párrafo de este artículo, si el delito fuera cometido en contra de una persona menor de dieciocho años de edad; una persona mayor de sesenta años de edad, o de quien no tenga capacidad para comprender el significado del hecho;
-
-III.- Hasta una mitad de la sanción establecida en el primer párrafo de este artículo, si el sujeto activo del delito:
-
-a) Tuviere parentesco por consanguinidad, afinidad o civil, habitare en el mismo domicilio con la víctima, o tuviere una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias; además, perderá la patria potestad, guarda y custodia o régimen de visitas y convivencias;
-
-b) Fuera servidor público; además, será inhabilitado para formar parte del servicio público, o
-
-c) Fuera dirigente o ministro de culto religioso.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 216 TER. La tentativa del delito de trata de personas se sancionará con las dos terceras partes de la sanción prevista para el delito consumado, así como multa de cien a doscientas unidades de medida y actualización.
-
-> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2011)</small>
-
-Para imponer esta sanción, el juez deberá valorar el grado a que llegó la ejecución del delito y la magnitud del peligro producido o no evitado al bien protegido por el tipo penal en cuestión.
-
-> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2011)</small>
-
-En el caso que no fuere posible determinar el daño que se pretendió causar, cuando éste fuera determinante para la correcta adecuación atípica, se le impondrá la mitad de la sanción señalada en el primer párrafo de este artículo.
-
-> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2011)</small>
-
-El delito de Trata de Personas se perseguirá de oficio y se regirá por lo establecido por este Código, el Código de Procedimientos Penales y la Ley para Prevenir y Combatir la Trata de Personas del Estado de Yucatán. Cuando en la comisión del delito de trata de personas concurra otro delito, se aplicarán las reglas del concurso establecidas en la Legislación Penal del Estado.
+ARTÍCULO 216 TER. (DEROGADO, D.O. 4 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO IV. PROVOCACIÓN DE UN DELITO O APOLOGÍA DE ÉSTE O DE ALGÚN VICIO
 
@@ -4814,3 +4774,23 @@ D.O. 24 DE NOVIEMBRE DE 2017.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+D.O. 4 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 553/2017 POR EL QUE SE EMITE LA LEY PARA PREVENIR Y COMBATIR LA TRATA DE PERSONAS EN EL ESTADO DE YUCATÁN Y SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, quedará abrogada la Ley para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Yucatán, publicada mediante Decreto 393 del Poder Ejecutivo en el Diario Oficial del Gobierno del Estado el 31 de marzo de 2011.
+
+Tercero. Instalación de la comisión intersecretarial
+
+La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán se instalará en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Cuarto. Expedición del reglamento interno
+
+La Comisión lntersecretarial para Prevenir y Combatir la Trata de Personas en el Estado de Yucatán deberá expedir su reglamento interno en un plazo de ciento ochenta días naturales, contado a partir de su instalación.
