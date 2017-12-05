@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-proteccion-de-datos-personales-en-posesion-de-122593"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-14"
-last_updated: "2017-07-14"
+last_updated: "2017-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 14 de julio de 2017.
 
@@ -53,13 +53,25 @@ La presente Ley es de orden público y observancia obligatoria en todo el territ
 
 Objetivos específicos
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 2.
 
-Son objetivos específicos de la presente Ley:
+Son objetivos de la presente Ley:
 
-I. Garantizar que toda persona pueda ejercer el derecho a la protección de datos personales en el estado de Guanajuato;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. Proteger los datos personales en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, ayuntamientos, partidos políticos, fideicomisos y fondos públicos en el estado de Guanajuato, con la finalidad de regular su debido tratamiento;
+I. Garantizar que toda persona pueda ejercer el derecho a la protección de datos personales en posesión de los sujetos obligados;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Proteger los datos personales en posesión de los siguientes sujetos obligados:
+
+a) En el ámbito estatal de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos,
+
+b) En el ámbito municipal de cualquier autoridad, entidad, órgano y organismo de la administración pública municipal,
+
+c) Así como de los partidos políticos, fideicomisos y fondos públicos.
 
 III. Garantizar la observancia de los principios de protección de datos personales previstos en la presente Ley y demás disposiciones que resulten aplicables en la materia;
 
@@ -69,7 +81,7 @@ V. Establecer los mecanismos para garantizar el cumplimiento y la efectiva aplic
 
 VI. Regular el procedimiento y mecanismos necesarios para la sustanciación del recurso de revisión a que se refiere la presente Ley;
 
-VII. Fijar los estándares y parámetros que permitan la implementación, mantenimiento y actualización de medidas de seguridad de carácter administrativo, técnico y físico que permitan la protección de los datos personales;
+VII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
 VIII. Establecer un catálogo de sanciones para aquellas conductas que contravengan las disposiciones previstas en la presente Ley, y
 
@@ -81,7 +93,9 @@ Definiciones
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Aviso de privacidad: documento físico, electrónico o en cualquier otro formato generado por el responsable, que es puesto a disposición del titular con el objeto de informarle los propósitos principales del tratamiento al que serán sometidos sus datos personales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Aviso de privacidad: Documento a disposición del titular de forma física, electrónica o en cualquier formato generado por el responsable, a partir del momento en el cual se recaben sus datos personales, con el objeto de informarle los propósitos del tratamiento de los mismos;
 
 II. Bases de datos: conjunto ordenado de datos personales referentes a una persona física identificada o identificable, condicionado a criterios determinados que permitan su tratamiento, con independencia de la forma o modalidad de su creación, tipo de soporte, procesamiento, almacenamiento y organización;
 
@@ -93,11 +107,15 @@ V. Cómputo en la nube: modelo de provisión externa de servicios de cómputo ba
 
 VI. Consentimiento: manifestación de la voluntad libre, específica e informada del titular, mediante la cual autoriza el tratamiento de sus datos personales;
 
-VII. Datos personales: cualquier información concerniente a una persona física identificada o identificable expresada en forma numérica, alfabética, alfanumérica, gráfica, fotográfica, acústica o en cualquier otro formato. Se considera que una persona es identificable cuando su identidad puede determinarse directa o indirectamente a través de cualquier información, siempre y cuando esto no requiera plazos, medios o actividades desproporcionadas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. Datos personales: cualquier información concerniente a una persona física identificada o identificable. Se considera que una persona es identificable cuando su identidad puede determinarse directa o indirectamente a través de cualquier información;
 
 VIII. Datos personales sensibles: aquellos que se refieren a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. Se consideran sensibles, de manera enunciativa más no limitativa, los datos personales que puedan revelar aspectos como origen racial o étnico, estado de salud pasado, presente o futuro, creencias religiosas, filosóficas y morales, opiniones políticas, datos genéticos, datos biométricos y preferencia sexual;
 
-IX. Derechos ARCO: los derechos de acceso, rectificación y cancelación de datos personales, así como la oposición al tratamiento de los mismos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX. Derechos ARCO: los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
 
 X. Días: días hábiles;
 
@@ -107,7 +125,9 @@ XII. Documento de seguridad: instrumento que describe y da cuenta de manera gene
 
 XIII. Encargado: prestador de servicios, que con el carácter de persona física o jurídica pública o privada, ajena a la organización del responsable, trata datos personales a nombre y por cuenta éste (sic);
 
-XIV. Evaluación de impacto a la protección de datos personales: documento mediante el cual se valoran y determinan los impactos reales respecto de determinado tratamiento de datos personales, a efecto de identificar, prevenir y mitigar posibles riesgos que puedan comprometer el cumplimiento de los principios, deberes, derechos y demás obligaciones previstas en la presente Ley y demás normatividad aplicable en la materia;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIV. Evaluación de impacto a la protección de datos personales: Documento mediante el cual los sujetos obligados que pretendan poner en operación o modificar políticas públicas, programas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que implique el tratamiento intensivo o relevante de datos personales, valoran los impactos reales respecto de determinado tratamiento de datos personales, a efecto de identificar y mitigar posibles riesgos relacionados con los principios, deberes y derechos de los titulares, así como los deberes de los responsables y encargados, previstos en la normativa aplicable;
 
 XV. Fuentes de acceso público: aquellas bases de datos, sistemas o archivos que por disposición de ley puedan ser consultadas públicamente cuando no exista impedimento por una norma limitativa y sin más exigencia que, en su caso, el pago de una contraprestación, tarifa o contribución. No se considerará fuente de acceso público cuando los datos personales contenidos en la misma sean obtenidos o tengan una procedencia ilícita, conforme a las disposiciones establecidas por la presente Ley y demás normatividad que resulte aplicable;
 
@@ -153,7 +173,9 @@ XXVII. Plataforma Nacional: Plataforma Nacional de Transparencia a que se refier
 
 XXVIII. Remisión: toda comunicación de datos personales realizada exclusivamente entre el responsable y encargado, con independencia de que se realice dentro o fuera del territorio mexicano;
 
-XXIX. Responsable: cualquier autoridad, dependencia, entidad, órgano y organismo de los poderes Legislativo, Ejecutivo y Judicial, ayuntamientos, órganos, organismos autónomos, tribunales administrativos, fideicomisos y fondos públicos y partidos políticos del estado de Guanajuato, que decide y determina los fines, medios y demás cuestiones relacionadas con determinado tratamiento de datos personales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXIX. Responsable: Los sujetos obligados a que se refiere el artículo 2 fracción II de la presente Ley que deciden sobre el tratamiento de datos personales;
 
 XXX. Sistema Nacional: Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
@@ -167,15 +189,9 @@ XXXIV. Tratamiento: cualquier operación o conjunto de operaciones efectuadas me
 
 XXXV. Unidad de Transparencia: instancia a que se refiere el artículo 7, fracción XXI de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato.
 
-Ámbito de validez subjetivo
-
 ###### Artículo 4.
 
-Son sujetos obligados a cumplir con las disposiciones de la presente Ley, cualquier autoridad, dependencia, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, ayuntamientos, órganos, organismos autónomos, tribunales administrativos, fideicomisos y fondos públicos y partidos políticos del orden estatal y municipal del estado de Guanajuato que lleven a cabo tratamientos de datos personales.
-
-Los fideicomisos y fondos públicos de carácter estatal y municipal considerados como entidades paraestatales, de conformidad con las leyes orgánicas del poder ejecutivo y municipal, respectivamente, deberán dar cumplimiento por sí mismos a las obligaciones previstas en la presente Ley y demás normatividad aplicable en la materia, a través de sus propias áreas.
-
-Los fideicomisos y fondos públicos de carácter estatal y municipal que no tengan la naturaleza jurídica de entidades paraestatales, de conformidad con las leyes orgánicas del poder ejecutivo y municipal, respectivamente, o bien, no cuenten con una estructura orgánica propia que les permita cumplir, por sí mismos, con las disposiciones previstas en la presente Ley, deberán observar lo dispuesto en este ordenamiento y demás normatividad aplicable en la materia, a través del ente público facultado para coordinar su operación.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 Ámbito de validez objetivo
 
@@ -183,45 +199,27 @@ Los fideicomisos y fondos públicos de carácter estatal y municipal que no teng
 
 La presente Ley será aplicable a cualquier tratamiento de datos personales que obren en soportes físicos o electrónicos, con independencia de la forma o modalidad de su creación, tipo de soporte, procesamiento, almacenamiento y organización.
 
-Ámbito de validez territorial
-
 ###### Artículo 6.
 
-La presente Ley será aplicable a todo tratamiento de datos personales que se efectúe en el territorio del estado de Guanajuato por los responsables a que se refiere el artículo 5 de la presente Ley.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Excepciones generales del derecho a la protección de datos personales
 
 ###### Artículo 7.
 
-Los principios, deberes y derechos previstos en la presente Ley y demás normatividad aplicable tendrán como límite en cuanto a su observancia y ejercicio la protección de disposiciones de orden público, la seguridad pública, la salud pública o la protección de los derechos de terceros.
+Las Autoridades garantizarán la privacidad de los individuos y deberán velar porque terceras personas no incurran en conductas que puedan afectarla arbitrariamente.
 
-Las limitaciones y restricciones deberán reconocerse de manera expresa en una norma con rango de ley y deberán ser necesarias y proporcionales en una sociedad democrática, respetando, en todo momento, los derechos y las libertades fundamentales de los titulares.
+El derecho a la protección de los datos personales solamente se limitará por razones de seguridad nacional, en términos de la ley en la materia, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
 
-Cualquier ley que tenga como propósito limitar el derecho a la protección de datos personales deberá contener como mínimo disposiciones relativas a:
-
-I. Las finalidades del tratamiento;
-
-II. Las categorías de datos personales o los datos personales específicos que son objeto de tratamiento;
-
-III. El alcance de las limitaciones o restricciones establecidas;
-
-IV. La determinación del responsable o los responsables, y
-
-V. El derecho de los titulares a ser informados sobre la limitación, salvo que resulte perjudicial o incompatible a los fines de ésta.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Tratamiento de datos personales de carácter sensible
 
 ###### Artículo 8.
 
-Por regla general no podrán tratarse datos personales sensibles, salvo que:
-
-I. Los mismos sean estrictamente necesarios para el ejercicio y cumplimiento de las atribuciones y obligaciones expresamente previstas en las normas que regulan la actuación del responsable;
-
-II. Se dé cumplimiento a un mandato legal;
-
-III. Se cuente con el consentimiento expreso y por escrito del titular, o
-
-IV. Sean necesarios por razones de seguridad pública, orden público, salud pública o salvaguarda de derechos de terceros.
+Por regla general no podrán tratarse datos personales sensibles, salvo que se cuente con el consentimiento expreso de su titular o en su defecto, se trate de los casos establecidos en el artículo 19 de esta Ley.
 
 Tratamiento de datos personales de menores y adolescentes
 
@@ -247,11 +245,15 @@ V. Los registros públicos conforme a las disposiciones que les resulten aplicab
 
 Para que los supuestos enumerados en el presente artículo sean considerados fuentes de acceso público será necesario que su consulta pueda ser realizada por cualquier persona no impedida por una norma limitativa, o sin más exigencia que, en su caso, el pago de una contra prestación, derecho o tarifa. No se considerará una fuente de acceso público cuando la información contenida en la misma sea o tenga una procedencia ilícita.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Reglas de interpretación
 
 ###### Artículo 11.
 
-La aplicación e interpretación de la presente Ley se realizará conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte, la Constitución Política del estado de Guanajuato, la Ley General, así como las resoluciones, sentencias, determinaciones, decisiones, criterios y opiniones vinculantes, entre otras, que emitan los órganos nacionales e internacionales especializados.
+La aplicación e interpretación de la presente Ley se realizará conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte, la Constitución Política del estado de Guanajuato, la Ley General, así como las resoluciones, sentencias, determinaciones, decisiones, criterios y opiniones vinculantes, entre otras, que emitan los órganos nacionales e internacionales especializados, favoreciendo en todo tiempo el derecho a la privacidad, la protección de datos personales y a las personas la protección más amplia.
+
+Para el caso de la interpretación, se podrán tomar en cuenta los criterios, determinaciones y opiniones de los organismos nacionales e internacionales, en materia de protección de datos personales.
 
 Supletoriedad
 
@@ -277,63 +279,69 @@ El responsable deberá tratar los datos personales en su posesión con estricto 
 
 En adición a la obligación anterior, el responsable deberá sujetarse a las facultades o atribuciones que la normatividad aplicable le confiera.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Principio de finalidad
 
 ###### Artículo 15.
 
 Todo tratamiento de datos personales que efectúe el responsable deberá estar justificado por finalidades concretas, explícitas, lícitas y legítimas, relacionadas con las atribuciones expresas que la normatividad aplicable le confiera.
 
-Para efectos de la presente Ley, se entenderá que las finalidades son:
-
-I. Concretas: cuando el tratamiento de los datos personales atiende a la consecución de fines específicos o determinados, sin que sea posible la existencia de finalidades genéricas que puedan generar confusión en el titular;
-
-II. Explícitas: cuando las finalidades se expresan y dan a conocer de manera clara en el aviso de privacidad, y
-
-III. Lícitas y legítimas: cuando las finalidades que justifican el tratamiento de los datos personales son acordes con las atribuciones expresas del responsable, conforme a lo previsto en la legislación mexicana y el derecho internacional que le resulte aplicable.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Finalidades distintas
 
 ###### Artículo 16.
 
-El responsable podrá tratar los datos personales en su posesión para finalidades distintas a aquéllas que motivaron el tratamiento original de los mismos, siempre y cuando cuente con atribuciones expresas conferidas en ley y medie el consentimiento del titular, en los términos previstos en la presente Ley y demás normatividad que resulte aplicable.
+El responsable podrá tratar datos personales para finalidades distintas a aquéllas establecidas en el aviso de privacidad, siempre y cuando cuente con atribuciones conferidas en la ley y medie el consentimiento del titular, salvo que sea una persona reportada como desaparecida, en los términos previstos en la presente Ley y demás disposiciones que resulten aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Principio de lealtad
 
 ###### Artículo 17.
 
-El responsable deberá abstenerse de tratar los datos personales a través de medios engañosos o fraudulentos, privilegiando, en todo momento, la protección de los intereses del titular y su expectativa razonable de privacidad.
-
-Tratamientos desleales
+El responsable deberá abstenerse de obtener y tratar los datos personales a través de medios engañosos o fraudulentos, privilegiando, en todo momento, la protección de los intereses del titular y su expectativa razonable de privacidad.
 
 ###### Artículo 18.
 
-Para los efectos del artículo anterior de la presente Ley, se entenderá que el responsable actúa de forma engañosa o fraudulenta cuando:
-
-I. Medie dolo, mala fe o negligencia en el tratamiento de datos personales que lleve a cabo;
-
-II. Realice un tratamiento de datos personales que dé lugar a una discriminación injusta o arbitraria contra el titular, o
-
-III. Vulnere la expectativa razonable de protección de datos personales.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 Principio de consentimiento
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 19.
 
 El responsable deberá obtener el consentimiento del titular para el tratamiento de sus datos personales, salvo que se actualice algunas de las siguientes causales de excepción:
 
-I. Cuando una norma con rango de ley señale expresamente que no será necesario el consentimiento del titular para el tratamiento de sus datos personales, por razones de seguridad pública, salud pública, disposiciones de orden público o protección de derechos de terceros;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. Cuando exista una orden judicial, resolución o mandato fundado y motivado de autoridad competente;
+I. Cuando una norma con rango de ley señale expresamente que no será necesario el consentimiento del titular para el tratamiento de sus datos personales;
 
-III. Para el reconocimiento o defensa de derechos del titular ante autoridad competente;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IV. Cuando los datos personales se requieran para ejercer un derecho o cumplir obligaciones derivadas de una relación jurídica entre el titular y el responsable;
+II. Cuando las transferencias que se realicen entre responsables, sean sobre datos personales que se utilicen para el ejercicio de facultades propias, compatibles o análogas con la finalidad que motivó el tratamiento de los datos personales;
 
-V. Cuando exista una situación de emergencia que potencialmente pueda dañar a un individuo en su persona o en sus bienes;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-VI. Cuando los datos personales sean necesarios para la prevención, el diagnóstico médico, la prestación de servicios de asistencia sanitaria, el tratamiento médico, o la gestión de servicios sanitarios;
+III. Cuando exista una orden judicial, resolución o mandato fundado y motivado de autoridad competente;
 
-VII. Cuando los datos personales figuren en fuentes de acceso público;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Para el reconocimiento o defensa de derechos del titular ante autoridad competente;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Cuando los datos personales se requieran para ejercer un derecho o cumplir obligaciones derivadas de una relación jurídica entre el titular y el responsable;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI. Cuando exista una situación de emergencia que potencialmente pueda dañar a un individuo en su persona o en sus bienes;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. Cuando los datos personales sean necesarios para la prevención, el diagnóstico médico, la prestación de servicios de asistencia sanitaria;
 
 VIII. Cuando los datos personales se sometan a un procedimiento previo de disociación, o
 
@@ -345,9 +353,11 @@ La actualización de alguna de las fracciones previstas en este artículo no exi
 
 Características del consentimiento
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 20.
 
-El consentimiento del titular deberá otorgarse de manera:
+El consentimiento del titular para el tratamiento de los datos personales deberá otorgarse de manera:
 
 I. Libre: sin que medie error, mala fe, violencia o dolo que puedan afectar la manifestación de voluntad del titular;
 
@@ -407,75 +417,77 @@ Se considerará que el consentimiento expreso se otorgó por escrito cuando el t
 
 Principio de calidad
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 28.
 
-El responsable deberá adoptar las medidas necesarias para mantener exactos, completos, correctos y actualizados los datos personales en su posesión, a fin de que no se altere la veracidad de éstos y según se requiera para el cumplimiento de las finalidades concretas, explícitas lícitas y legítimas que motivaron su tratamiento.
+El responsable deberá adoptar las medidas necesarias para mantener exactos, completos, correctos y actualizados los datos personales en su posesión, a fin de que no se altere la veracidad de éstos.
 
 Se presume que se cumple con la calidad en los datos personales cuando éstos son proporcionados directamente por el titular y hasta que éste no manifieste y acredite lo contrario.
 
-Cuando los datos personales fueron obtenidos indirectamente del titular, el responsable deberá adoptar medidas razonables para que éstos respondan al principio de calidad, de acuerdo con la categoría de datos personales y las condiciones y medios del tratamiento.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Supresión de los datos personales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-El responsable deberá suprimir los datos personales en su posesión cuando hayan dejado de ser necesarios para el cumplimiento de las finalidades concretas, explícitas lícitas y legítimas que motivaron su tratamiento, previo bloqueo en su caso, y una vez que concluya el plazo de conservación de los mismos.
+El responsable deberá suprimir los datos personales en su posesión cuando hayan dejado de ser necesarios para el cumplimiento de las finalidades previstas en el aviso de privacidad que motivaron su tratamiento, previo bloqueo en su caso, y una vez que concluya el plazo de conservación de los mismos.
 
 En la supresión de los datos personales, el responsable deberá implementar métodos y técnicas orientadas a la eliminación definitiva de éstos.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Plazos de conservación
 
 ###### Artículo 30.
 
-Los plazos de conservación de los datos personales no deberán exceder aquéllos que sean necesarios para el cumplimiento de las finalidades concretas, explícitas lícitas y legítimas que justificaron su tratamiento.
+Los plazos de conservación de los datos personales no deberán exceder aquéllos que sean necesarios para el cumplimiento de las finalidades que justificaron su tratamiento.
 
-En el establecimiento de los plazos de conservación de los datos personales, el responsable deberá considerar los valores administrativos, contables, fiscales, jurídicos e históricos de los datos personales, así como atender las disposiciones aplicables en la materia de que se trate.
+En el establecimiento de los plazos de conservación de los datos personales, el responsable deberá considerar los aspectos administrativos, contables, fiscales, jurídicos e históricos de los datos personales.
 
 Documentación de los procedimientos de conservación, bloqueo y supresión de los datos personales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 31.
 
-El responsable deberá establecer y documentar los procedimientos para la conservación, en su caso bloqueo y supresión de los datos personales en su posesión, en los cuales se incluyan los periodos de conservación de los mismos, de conformidad con lo dispuesto en el artículo anterior de la presente Ley.
+El responsable deberá establecer y documentar los procedimientos para la conservación y, en su caso, bloqueo y supresión de los datos personales que lleve a cabo, en los cuales se incluyan los periodos de conservación de los mismos, de conformidad con lo dispuesto en el artículo anterior de la presente Ley.
 
 En los procedimientos a que se refiere el párrafo anterior, el responsable deberá incluir mecanismos que le permitan cumplir con los plazos fijados para la supresión de los datos personales, así como para realizar una revisión periódica sobre la necesidad de conservar los datos personales.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Principio de proporcionalidad
 
 ###### Artículo 32.
 
-El responsable sólo deberá tratar los datos personales que resulten adecuados, relevantes y estrictamente necesarios para las finalidades concretas, explícitas lícitas y legítimas que justifiquen su tratamiento.
-
-Criterio de minimización
+El responsable sólo deberá tratar los datos personales que resulten adecuados, relevantes y estrictamente necesarios para las finalidades que justifiquen su tratamiento.
 
 ###### Artículo 33.
 
-El responsable procurará realizar esfuerzos razonables para tratar los datos personales al mínimo necesario, con relación a las finalidades que motivan su tratamiento.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Principio de información
 
 ###### Artículo 34.
 
-El responsable deberá informar al titular, a través del aviso de privacidad, la existencia y características principales del tratamiento al que serán sometidos sus datos personales.
-
-Objeto del aviso de Privacidad
+El responsable deberá informar al titular, a través del aviso de privacidad, la existencia y características principales del tratamiento al que serán sometidos sus datos personales, a fin de que pueda tomar decisiones informadas al respecto.
 
 ###### Artículo 35.
 
-El aviso de privacidad tendrá por objeto informar al titular sobre los alcances y condiciones generales del tratamiento, a fin de que esté en posibilidad de tomar decisiones informadas sobre el uso de sus datos personales y, en consecuencia, mantener el control y disposición sobre ellos.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Características del aviso de privacidad
 
 ###### Artículo 36.
 
-El aviso de privacidad deberá caracterizarse por ser sencillo, con información necesaria, expresado en lenguaje claro y comprensible, y con una estructura y diseño que facilite su entendimiento. En el aviso de privacidad queda prohibido:
-
-I. Usar frases inexactas, ambiguas o vagas;
-
-II. Incluir textos o formatos que induzcan al titular a elegir una opción en específico;
-
-III. Marcar previamente casillas, en caso de que éstas se incluyan para que el titular otorgue su consentimiento, y
-
-IV. Remitir a textos o documentos que no estén disponibles para el titular.
+Para que el aviso de privacidad cumpla de manera eficiente con su función de informar, deberá estar redactado y estructurado de manera clara y sencilla.
 
 Modalidades del aviso de privacidad
 
@@ -503,11 +515,15 @@ IV. Los mecanismos y medios disponibles para que el titular, en su caso, pueda m
 
 V. El sitio donde se podrá consultar el aviso de privacidad integral.
 
-Los mecanismos y medios a los que se refiere la fracción IV del presente artículo, deberán estar disponibles al titular previo a que ocurra dicho tratamiento.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Los mecanismos y medios a los que se refiere la fracción IV del presente artículo, deberán estar disponibles para que el titular pueda manifestar su negativa al tratamiento de sus datos personales para las finalidades o transferencias que requieran el consentimiento del titular previo a que ocurra dicho tratamiento.
 
 La puesta a disposición del aviso de privacidad simplificado no exime al responsable de su obligación de proveer los mecanismos para que el titular pueda conocer el contenido del aviso de privacidad integral en un momento posterior.
 
 Aviso de privacidad integral
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 39.
 
@@ -517,11 +533,9 @@ I. El domicilio del responsable;
 
 II. Los datos personales que serán sometidos a tratamiento, identificando aquéllos que sean sensibles;
 
-III. El fundamento legal que faculta expresamente al responsable para llevar a cabo:
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-a) El tratamiento de datos personales, y
-
-b) Las transferencias de datos personales que, en su caso, efectúe con autoridades, poderes, entidades, órganos y organismos gubernamentales de los tres órdenes de gobierno y las personas físicas o morales de carácter privado;
+III. El fundamento legal que faculta expresamente al responsable para llevar a cabo, el tratamiento de datos personales;
 
 IV. Los mecanismos, medios y procedimientos disponibles para ejercer los derechos ARCO;
 
@@ -539,19 +553,19 @@ I. Cuando los datos personales se obtienen de manera directa del titular previo 
 
 II. Cuando los datos personales se obtienen de manera indirecta del titular previo al uso o aprovechamiento de éstos.
 
-Las reglas anteriores, no eximen al responsable de proporcionar al titular el aviso de privacidad integral en un momento posterior, conforme a las disposiciones aplicables de la presente Ley.
-
-Nuevo aviso de privacidad
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 41.
 
-Cuando el responsable pretenda tratar los datos personales para una finalidad distinta, deberá poner a su disposición un nuevo aviso de privacidad con las características del nuevo tratamiento previo al aprovechamiento de los datos personales para la finalidad respectiva.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Medios de difusión o reproducción del aviso de privacidad
 
 ###### Artículo 42.
 
-Para la difusión del aviso de privacidad, el responsable podrá valerse de formatos físicos, electrónicos, medios verbales o cualquier otra tecnología, siempre y cuando garantice y cumpla con el principio de información a que se refiere la presente Ley.
+Por regla general, el aviso de privacidad deberá ser difundido por los medios electrónicos y físicos con que cuente el responsable.
 
 Instrumentación de medidas compensatorias
 
@@ -559,13 +573,13 @@ Instrumentación de medidas compensatorias
 
 Cuando resulte imposible dar a conocer al titular el aviso de privacidad de manera directa o ello exija esfuerzos desproporcionados, el responsable podrá instrumentar medidas compensatorias de comunicación masiva, de acuerdo con los criterios que para tal efecto emita el Sistema Nacional.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Principio de responsabilidad
 
 ###### Artículo 44.
 
-El responsable deberá implementar los mecanismos necesarios para acreditar el cumplimiento de los principios, deberes y obligaciones establecidas en la presente Ley, así como para rendir cuentas al titular y al Instituto sobre los tratamientos de datos personales que efectúe, para lo cual podrá valerse de estándares, mejores prácticas nacionales o internacionales o de cualquier otro mecanismo que determine adecuado para tales fines.
-
-Lo anterior, aplicará aun cuando los datos personales sean tratados por parte de un encargado, así como al momento de realizar transferencias de datos personales.
+El responsable deberá implementar los mecanismos previstos en el artículo 45 de la presente ley para acreditar el cumplimiento de los principios, deberes y obligaciones establecidas en la presente Ley, así como para rendir cuentas al titular y al Instituto sobre los tratamientos de datos personales que efectúe, para lo cual podrá valerse de estándares, mejores prácticas nacionales o internacionales o de cualquier otro mecanismo que determine adecuado para tales fines.
 
 Mecanismos para cumplir con el principio de responsabilidad
 
@@ -589,7 +603,7 @@ VII. Diseñar, desarrollar e implementar sus políticas públicas, programas, se
 
 VIII. Garantizar que sus políticas públicas, programas, servicios, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que implique el tratamiento de datos personales, cumplan por defecto con las obligaciones previstas en la presente Ley y las demás que resulten aplicables en la materia.
 
-El responsable deberá revisar las políticas, los programas de seguridad y las políticas de procedimientos de control a que se refieren las fracciones IV y V del presente artículo, respectivamente, al menos cada dos años, así como actualizarlas cuando al tratamiento de datos personales se le realicen modificaciones sustanciales.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ### Capítulo II. De los deberes
 
@@ -599,7 +613,7 @@ Deber de seguridad
 
 Con independencia del tipo de sistema en el que se encuentren los datos personales o el tipo de tratamiento que se efectúe, el responsable deberá establecer y mantener las medidas de seguridad de carácter administrativo, físico y técnico para la protección de los datos personales, que permitan protegerlos contra daño, pérdida, alteración, destrucción o su uso, acceso o tratamiento no autorizado, así como garantizar su confidencialidad, integridad y disponibilidad.
 
-Lo anterior, sin perjuicio de lo establecido por las disposiciones vigentes en materia de seguridad emitidas por las autoridades competentes al sector que corresponda, cuando éstas contemplen una protección mayor para el titular o complementen lo dispuesto en la presente Ley y demás normativa aplicable.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Factores para determinar la implementación de medidas de seguridad
 
@@ -620,6 +634,10 @@ V. Las transferencias de datos personales que se realicen;
 VI. El número de titulares, y
 
 VII. Las vulneraciones previas ocurridas en los sistemas de tratamiento.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. El riesgo por el valor potencial cuantitativo o cualitativo que pudieran tener los datos personales tratados para una tercera persona no autorizada para su posesión.
 
 Acciones para el establecimiento y mantenimiento de medidas de seguridad
 
@@ -643,23 +661,9 @@ VII. Monitorear y revisar de manera periódica las medidas de seguridad implemen
 
 VIII. Diseñar y aplicar diferentes niveles de capacitación de su personal, dependiendo de sus roles y responsabilidades respecto del tratamiento de los datos personales.
 
-Contenido de las políticas internas de gestión y tratamiento de los datos
-
 ###### Artículo 49.
 
-Con relación a la fracción I del artículo anterior de la presente Ley, el responsable deberá incluir en el diseño e implementación de las políticas internas para la gestión y tratamiento de los datos personales, al menos, lo siguiente:
-
-I. Los controles para garantizar que se valida la confidencialidad, integridad y disponibilidad de los datos personales;
-
-II. Las acciones para restaurar la disponibilidad y el acceso a los datos personales de manera oportuna en caso de un incidente físico o técnico;
-
-III. Las medidas correctivas en caso de identificar una vulneración o incidente en los tratamientos de datos personales;
-
-IV. El proceso para evaluar periódicamente las políticas, procedimientos y planes de seguridad establecidos, a efecto de mantener su eficacia;
-
-V. Los controles para garantizar que únicamente el personal autorizado podrá tener acceso a los datos personales para los finalidades concretas, lícitas, explícitas y legítimas que originaron su tratamiento, y
-
-VI. Las medidas preventivas para proteger los datos personales contra su destrucción accidental o ilícita, su pérdida o alteración y el almacenamiento, tratamiento, acceso o transferencias no autorizadas o acciones que contravengan las disposiciones de la presente Ley y demás que resulten aplicables.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 Sistema de gestión y documento de seguridad
 
@@ -677,55 +681,35 @@ El responsable deberá elaborar y aprobar un documento que contenga las medidas 
 
 El documento de seguridad será de observancia obligatoria para los encargados y demás personas que realizan algún tipo de tratamiento de datos personales.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Contenido del Documento de seguridad
 
 ###### Artículo 52.
 
 El documento de seguridad deberá contener, al menos, lo siguiente:
 
-I. El nombre de los sistemas de tratamiento o base de datos personales;
+I. Las funciones y obligaciones del responsable, encargados y todas las personas que traten datos personales;
 
-II. El nombre, cargo y adscripción del administrador de cada sistema de tratamiento y/o base de datos personales;
+II. El inventario de los datos personales y de los sistemas de tratamiento;
 
-III. Las funciones y obligaciones del responsable, encargados y todas las personas que traten datos personales;
+III. El análisis de riesgos;
 
-IV. El inventario de los datos personales tratados en cada sistemas (sic) de tratamiento y/o base de datos personales;
+IV. El análisis de brecha;
 
-V. La estructura y descripción de los sistemas de tratamiento y/o bases de datos personales, señalando el tipo de soporte y las características del lugar donde se resguardan;
+V. El plan de trabajo;
 
-VI. Los controles y mecanismos de seguridad para las transferencias que, en su caso, se efectúen;
+VI. Los mecanismos de monitoreo y revisión de las medidas de seguridad; y
 
-VII. El resguardo de los soportes físicos y/o electrónicos de los datos personales;
-
-VIII. Las bitácoras de acceso, operación cotidiana y vulneraciones a la seguridad de los datos personales;
-
-IX. El análisis de riesgos;
-
-X. El análisis de brecha;
-
-XI. La gestión de vulneraciones;
-
-XII. Las medidas de seguridad físicas aplicadas a las instalaciones;
-
-XIII. Los controles de identificación y autenticación de usuarios;
-
-XIV. Los procedimientos de respaldo y recuperación de datos personales;
-
-XV. El plan de contingencia;
-
-XVI. Las técnicas utilizadas para la supresión y borrado seguro de los datos personales;
-
-XVII. El plan de trabajo;
-
-XVIII. Los mecanismos de monitoreo y revisión de las medidas de seguridad, y
-
-XIX. El programa general de capacitación.
+VII. El programa general de capacitación.
 
 Actualización del documento de seguridad
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 53.
 
-El responsable deberá revisar el documento de seguridad de manera periódica, así como actualizar su contenido cuando ocurran los siguientes eventos:
+El responsable deberá actualizar el documento de seguridad cuando ocurran los siguientes eventos:
 
 I. Se produzcan modificaciones sustanciales al tratamiento de datos personales que deriven en un cambio en el nivel de riesgo;
 
@@ -833,25 +817,29 @@ Derecho de rectificación
 
 El titular tendrá derecho a solicitar al responsable la rectificación o corrección de sus datos personales, cuando éstos resulten ser inexactos, incompletos o no se encuentren actualizados.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Derecho de cancelación
 
 ###### Artículo 65.
 
-El titular tendrá derecho a solicitar la cancelación de sus datos personales de los archivos, registros, expedientes y sistemas del responsable, a fin de que los mismos ya no estén en su posesión.
-
-Rectificación o supresión de datos personales por parte de terceros
+El titular tendrá derecho a solicitar la cancelación de sus datos personales de los archivos, registros, expedientes y sistemas del responsable, a fin de que los mismos ya no estén en su posesión y dejen de ser tratados por este último.
 
 ###### Artículo 66.
 
-Cuando sea procedente el ejercicio de los derechos de rectificación y cancelación, el responsable deberá adoptar todas aquellas medidas razonables para que los datos personales sean corregidos o suprimidos, según corresponda, también por los terceros a quienes se los hubiere transferido.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 Derecho de oposición
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 67.
 
 El titular podrá oponerse al tratamiento de sus datos personales o exigir que se cese en el mismo, cuando:
 
-I. Exista una causa legítima y su situación específica así lo requiera, lo cual implica que aun siendo lícito el tratamiento, el mismo debe cesar para evitar que su persistencia cause un daño o perjuicio al titular, o
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Aún siendo lícito el tratamiento, el mismo debe cesar para evitar que su persistencia cause un daño o perjuicio al titular; y
 
 II. Sus datos personales sean objeto de un tratamiento automatizado, el cual le produzca efectos jurídicos no deseados o afecte de manera significativa sus intereses, derechos o libertades, y estén destinados a evaluar, sin intervención humana, determinados aspectos personales del mismo o analizar o predecir, en particular, su rendimiento profesional, situación económica, estado de salud, preferencias sexuales, fiabilidad o comportamiento.
 
@@ -887,11 +875,13 @@ Ejercicio de derechos ARCO de personas fallecidas
 
 Tratándose de datos personales concernientes a personas fallecidas, la persona que acredite tener un interés jurídico, de conformidad con las leyes aplicables, podrá ejercer los derechos que le confiere el presente Capítulo, siempre que el titular de los derechos hubiere expresado fehacientemente su voluntad en tal sentido o que exista un mandato judicial para dicho efecto.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Acreditación de la identidad del titular
 
 ###### Artículo 72.
 
-Para el ejercicio de los derechos ARCO, será necesario que el titular acredite ante el responsable su identidad al momento de hacer efectivo el derecho siempre y cuando resulte procedente y, en su caso, la identidad y personalidad con la que actúe su representante.
+Para el ejercicio de los derechos ARCO, será necesario que el titular acredite ante el responsable su identidad y, en su caso, la identidad y personalidad con la que actúe su representante.
 
 Reglas generales para la acreditación de la identidad del titular
 
@@ -951,11 +941,15 @@ En caso de que la Unidad de Transparencia del responsable advierta que la solici
 
 Requisitos de la solicitud de ejercicio de derechos ARCO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 78.
 
-La solicitud para el ejercicio de los derechos ARCO deberá señalar la siguiente información:
+En la solicitud para el ejercicio de los derechos ARCO no podrán imponerse mayores requisitos que los siguientes:
 
-I. El nombre completo del titular y, en su caso, de su representante, así como su domicilio o cualquier otro medio para oír y recibir notificaciones;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. El nombre completo del titular, así como su domicilio o cualquier otro medio para oír y recibir notificaciones;
 
 II. La descripción clara y precisa de los datos personales respecto de los que se busca ejercer alguno de los derechos ARCO, salvo que se trate del derecho de acceso;
 
@@ -964,6 +958,10 @@ III. La descripción del derecho ARCO que se pretende ejercer, o bien, lo que so
 IV. Los documentos que acrediten la identidad del titular, y en su caso, la personalidad e identidad de su representante, y
 
 V. Cualquier otro elemento o documento que facilite la localización de los datos personales, en su caso.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI. De ser posible, el área responsable que trata los datos personales y ante el cual se presenta la solicitud.
 
 Además de lo señalado en las fracciones anteriores del presente artículo, tratándose de una solicitud de acceso a datos personales el titular deberá señalar la modalidad en la que prefiere que éstos se reproduzcan. El responsable deberá atender la solicitud en la modalidad requerida por el titular, salvo que exista una imposibilidad física o jurídica que lo limite a reproducir los datos personales en dicha modalidad, en este caso deberá ofrecer otras modalidades de entrega de los datos personales fundando y motivando dicha actuación.
 
@@ -1023,17 +1021,25 @@ X. Sean necesarios para dar cumplimiento a obligaciones legalmente adquiridas po
 
 En todos los casos anteriores, deberá constar una resolución que confirme la causal de improcedencia invocada por el responsable, la cual será informada al titular por el medio señalado para recibir notificaciones y dentro de los veinte días a los que se refiere el artículo 80, primer párrafo de la presente Ley, acompañando en su caso, las pruebas que resulten pertinentes.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Inexistencia de los datos personales
 
 ###### Artículo 82.
 
-En caso de que el responsable estuviere obligado a contar con los datos personales sobre los cuales se ejercen los derechos ARCO por razones de competencia y declare su inexistencia en sus archivos, bases, registros, sistemas o expedientes, dicha declaración deberá constar en una resolución del Comité de Transparencia que confirme tal situación.
+Cuando el responsable no sea competente para atender la solicitud para el ejercicio de los derechos ARCO, deberá hacer del conocimiento del titular dicha situación dentro de los tres días siguientes a la presentación de la solicitud, y en caso de poderlo determinar, orientarlo hacia el responsable competente.
+
+En caso de que el responsable declare inexistencia de los datos personales en sus archivos, registros, sistemas o expediente, dicha declaración deberá constar en una resolución del Comité de Transparencia que confirme la inexistencia de los datos personales.
+
+En caso de que el responsable advierta que la solicitud para el ejercicio de los derechos ARCO corresponda a un derecho diferente de los previstos en la presente Ley, deberá reconducir la vía haciéndolo del conocimiento al titular.
 
 Gratuidad del ejercicio de los derechos ARCO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 83.
 
-El ejercicio de los derechos ARCO deberá ser gratuito. Sólo podrán realizarse cobros para recuperar los costos de reproducción, certificación o envío, conforme a la Ley de ingresos que corresponda y demás disposiciones jurídicas aplicables. En su determinación se deberá considerar que los montos permitan o faciliten el ejercicio de este derecho.
+El ejercicio de los derechos ARCO deberá ser gratuito. Sólo podrán realizarse cobros para recuperar los costos de reproducción, certificación o envío, conforme a la Ley de ingresos que corresponda y demás disposiciones jurídicas aplicables. Para efectos de acceso a datos personales, las leyes que establezcan los costos de reproducción y certificación deberán considerar en su determinación que los montos permitan o faciliten el ejercicio de este derecho.
 
 En ningún caso, el pago de derechos deberá exceder el costo de reproducción, certificación o envío a que se refiere el párrafo anterior.
 
@@ -1049,19 +1055,29 @@ Trámites específicos
 
 Cuando las disposiciones aplicables a determinados tratamientos de datos personales establezcan un trámite o procedimiento específico para solicitar el ejercicio de los derechos ARCO, el responsable deberá informar al titular sobre la existencia del mismo, en un plazo no mayor a cinco días siguientes a la presentación de la solicitud para el ejercicio de los derechos ARCO, a efecto de que este último decida si ejerce sus derechos a través del trámite específico, o bien, por medio del procedimiento que el responsable haya institucionalizado para la atención de solicitudes para el ejercicio de los derechos ARCO, conforme a las disposiciones establecidas en este Capítulo.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Negativa al ejercicio de los derechos ARCO
 
 ###### Artículo 85.
 
-Contra la negativa del responsable de dar trámite a una solicitud para el ejercicio de los derechos ARCO, o bien, la inconformidad del titular por la respuesta recibida o la falta del responsable, procederá la interposición del recurso de revisión a que se refiere el artículo 127 de la presente Ley.
+Contra la negativa de dar trámite a toda solicitud para el ejercicio de los derechos ARCO o por la falta de respuesta del responsable, procederá la interposición del recurso de revisión a que se refiere el artículo 127 de la presente Ley.
 
 ### Capítulo III. De la portabilidad de los datos personales
 
+> <small>(ADICIONADO SU EPÍGRAFE, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Portabilidad de datos personales
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 86.
 
-Cuando se traten datos personales por vía electrónica en un formato estructurado y comúnmente utilizado, el titular tendrá derecho a obtener del responsable una copia de los datos personales objeto de tratamiento en un formato electrónico estructurado y comúnmente utilizado, el cual le permita seguir utilizándolos, conforme a los plazos, términos y requerimientos a que se refiere el Capítulo anterior del presente Título.
+Cuando se traten datos personales por vía electrónica en un formato estructurado y comúnmente utilizado, el titular tendrá derecho a obtener del responsable una copia de los datos personales objeto de tratamiento en un formato electrónico estructurado y comúnmente utilizado, el cual le permita seguir utilizándolos.
 
-Cuando el titular haya facilitado los datos personales y el tratamiento se base en el consentimiento o en un contrato o relación jurídica, tendrá derecho a transferir dichos datos personales y cualquier otra información que haya facilitado y que se conserve en un sistema de tratamiento automatizado a otro sistema en un formato electrónico comúnmente utilizado, sin impedimentos por parte del responsable de quien se retiren los datos personales.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Cuando el titular haya facilitado los datos personales y el tratamiento se base en el consentimiento o en un contrato, tendrá derecho a transferir dichos datos personales y cualquier otra información que haya facilitado y que se conserve en un sistema de tratamiento automatizado a otro sistema en un formato electrónico comúnmente utilizado, sin impedimentos por parte del responsable de quien se retiren los datos personales.
 
 Para el ejercicio de este derecho, el responsable deberá considerar los lineamientos del Sistema Nacional relativos a los supuestos en los que se está en presencia de un formato estructurado y comúnmente utilizado, así como las normas técnicas, modalidades y procedimientos para la transferencia de datos personales.
 
@@ -1075,13 +1091,13 @@ Obligación general del encargado
 
 El encargado deberá realizar las actividades de tratamiento de los datos personales sin ostentar poder alguno de decisión sobre el alcance y contenido del mismo, así como limitar sus actuaciones a los términos fijados por el responsable.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Formalización de la relación jurídica entre responsable y encargado
 
 ###### Artículo 88.
 
 La relación entre el responsable y el encargado deberá estar formalizada mediante contrato o cualquier otro instrumento jurídico que decida el responsable, de conformidad con la normativa que le resulte aplicable, y que permita acreditar su existencia, alcance y contenido.
-
-El responsable podrá libremente determinar las obligaciones que le correspondan y aquéllas que llevará a cabo el encargado, de conformidad con las disposiciones previstas en la presente Ley y demás normativa que resulte aplicable.
 
 Cláusulas generales del contrato o instrumento jurídico
 
@@ -1103,17 +1119,19 @@ VI. Devolver o suprimir los datos personales objeto de tratamiento una vez cumpl
 
 VII. Abstenerse de transferir los datos personales salvo en el caso de que el responsable así lo determine, o la comunicación derive de una subcontratación, o por mandato expreso de la autoridad competente;
 
-VIII. Permitir al responsable o Instituto realizar inspecciones y verificaciones en el lugar o establecimiento donde se lleva a cabo el tratamiento de los datos personales, y
+VIII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
-IX. Generar, actualizar y conservar la documentación necesaria que le permita acreditar el cumplimiento de sus obligaciones.
+IX. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
 Los acuerdos entre el responsable y el encargado relacionados con el tratamiento de datos personales no deberán contravenir la presente Ley y demás disposiciones aplicables, así como lo establecido en el aviso de privacidad correspondiente.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Consecuencia del incumplimiento de las obligaciones del encargado
 
 ###### Artículo 90.
 
-Cuando el encargado incumpla las instrucciones del responsable y decida por sí mismo sobre la naturaleza, alcance, finalidades, medios u otras acciones relacionadas con el tratamiento de los datos personales, asumirá el carácter de responsable conforme a la legislación que le resulte aplicable en esta materia.
+Cuando el encargado incumpla las instrucciones del responsable y decida por sí mismo sobre el tratamiento de los datos personales, asumirá el carácter de responsable conforme a la legislación que le resulte aplicable en esta materia.
 
 Subcontratación de servicios
 
@@ -1167,11 +1185,9 @@ e) Impedir el acceso a los datos personales a personas que no cuenten con privil
 
 En cualquier caso, el responsable no podrá adherirse a servicios que no garanticen la debida protección de los datos personales, conforme a la presente Ley y demás disposiciones que resulten aplicables en la materia.
 
-Remisiones de datos personales
-
 ###### Artículo 95.
 
-Las remisiones nacionales e internacionales de datos personales que se realicen entre responsable y encargado no requerirán ser informadas al titular, ni contar con su consentimiento.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 ## TÍTULO QUINTO. Comunicaciones de datos personales
 
@@ -1203,6 +1219,14 @@ VI. Cuando la transferencia sea precisa para el mantenimiento o cumplimiento de 
 
 VII. Cuando la transferencia sea necesaria por virtud de un contrato celebrado o por celebrar en interés del titular, por el responsable y un tercero.
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. Cuando se trate de los casos en los que el responsable no esté obligado a recabar el consentimiento del titular para el tratamiento y transmisión de sus datos personales, conforme a lo dispuesto en el artículo 19 de la presente Ley, o
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX. Cuando la transferencia sea necesaria por razones de seguridad nacional.
+
 La actualización de alguna de las excepciones previstas en el presente artículo, no exime al responsable de cumplir con las obligaciones previstas en el presente Capítulo que resulten aplicables.
 
 Formalización de transferencias de datos personales y sus excepciones
@@ -1217,17 +1241,31 @@ I. Cuando la transferencia sea nacional y se realice entre responsables en virtu
 
 II. Cuando la transferencia sea internacional y se encuentre prevista en una ley o tratado suscrito y ratificado por México, o bien, se realice a petición de una autoridad extranjera u organismo internacional competente en su carácter de receptor, siempre y cuando las facultades entre el responsable transferente y receptor sean homólogas, o bien, las finalidades que motivan la transferencia sean análogas o compatibles respecto de aquéllas que dieron origen al tratamiento de los datos personales que lleva a cabo el responsable transferente.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Transferencias nacionales de datos personales
 
 ###### Artículo 99.
 
-Cuando la transferencia sea nacional, el receptor de los datos personales asumirá el carácter de responsable conforme a la legislación que en esta materia le resulte aplicable y deberá tratar los datos personales atendiendo a dicha legislación y a lo convenido en el aviso de privacidad que le será comunicado por el responsable transferente.
+Cuando la transferencia sea nacional y (sic) deberá tratar los datos personales comprometiéndose a garantizar su confidencialidad y únicamente los utilizará para los fines que fueron transferidos atendiendo a lo convenido en el aviso de privacidad que le será comunicado por el responsable transferente.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Transferencias internacionales de datos personales
 
 ###### Artículo 100.
 
-El responsable sólo podrá transferir datos personales fuera del territorio nacional cuando el tercero receptor se obligue a proteger los datos personales conforme a los principios, deberes y demás obligaciones que establece la presente Ley y las disposiciones que resulten aplicables en la materia, así como a los términos previstos en el aviso de privacidad que le será comunicado por el responsable transferente.
+El responsable sólo podrá transferir datos personales fuera del territorio nacional cuando el tercero receptor se obligue a proteger los datos personales conforme a los principios, deberes y demás obligaciones que establece la presente Ley y las disposiciones que resulten aplicables en la materia.
+
+En toda transferencia de datos personales, el responsable deberá comunicar al receptor de los datos personales el aviso de privacidad conforme al cual se tratan los datos personales frente al titular.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Tratamiento a las transferencias internacionales de datos personales
+
+###### Artículo 100 Bis.
+
+Las remisiones nacionales e internacionales de datos personales que se realicen entre responsable y encargado no requerirán ser informadas al titular, ni contar con su consentimiento.
 
 Solicitud de opinión sobre transferencias internacionales de datos personales
 
@@ -1247,7 +1285,9 @@ Para el cumplimiento de las obligaciones previstas en la presente Ley, el respon
 
 I. Elevar el nivel de protección de los datos personales;
 
-II. Armonizar el tratamiento de datos personales en materias específicas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Armonizar el tratamiento de datos personales en un sector específico;
 
 III. Facilitar el ejercicio de los derechos ARCO a los titulares;
 
@@ -1267,6 +1307,10 @@ I. Cumplir con los parámetros que para tal efecto emita el Instituto conforme a
 
 II. Ser notificado ante el Instituto de conformidad con el procedimiento establecido en los parámetros señalados en la fracción anterior, a fin de que sean evaluados y, en su caso, validados o reconocidos e inscritos en el registro al que refiere el siguiente párrafo del presente artículo.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+El Instituto deberá emitir las reglas de operación de los registros en los que se inscribirán aquellos esquemas de mejores prácticas validados o reconocidos.
+
 Inscripción de esquemas
 
 ###### Artículo 104.
@@ -1275,45 +1319,43 @@ El Instituto podrá inscribir los esquemas de mejores prácticas que haya recono
 
 ### Capítulo II. De las evaluaciones de impacto a la protección de datos personales
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Presentación de evaluaciones de impacto a la protección de datos personales
 
 ###### Artículo 105.
 
-Cuando el responsable pretenda poner en operación o modificar políticas públicas, programas, servicios, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que implique el tratamiento intensivo o relevante de datos personales, deberá presentar ante el Instituto una evaluación de impacto a la protección de datos personales cuyo contenido estará determinado por las disposiciones que para tal efecto emita el Sistema Nacional.
+Cuando el responsable pretenda poner en operación o modificar políticas públicas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que implique el tratamiento intensivo o relevante de datos personales, deberá presentar ante el Instituto una evaluación de impacto a la protección de datos personales cuyo contenido estará determinado por el Sistema Nacional. El Instituto podrá emitir recomendaciones no vinculantes especializadas en la materia de protección de datos personales.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Tratamiento intensivo o relevante
 
 ###### Artículo 106.
 
-Para efectos de la presente Ley, se considerará que se está en presencia de un tratamiento intensivo o relevante de datos personales, el cual amerita una evaluación de impacto a la protección de datos personales, en función de los siguientes factores:
+Para efectos de la presente Ley, se considerará que se está en presencia de un tratamiento intensivo o relevante de datos personales, cuando:
 
-I. El número de titulares;
+I. Existan riesgos inherentes a los datos personales a tratar;
 
-II. El público objetivo;
+II. Se traten datos personales sensibles; y
 
-III. Los riesgos inherentes a los datos personales a tratar;
+III. Se efectúen o pretendan efectuar transferencias de datos personales.
 
-IV. La sensibilidad de los datos personales;
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-V. Las transferencias de datos personales que se pretenden efectuar y su periodicidad, en su caso;
-
-VI. El desarrollo de la tecnología utilizada, en su caso;
-
-VII. La relevancia del tratamiento de datos personales en atención al impacto social o, económico del mismo, o bien, del interés público que se persigue, y
-
-VIII. Los demás factores que el Instituto determine.
-
-Plazo para la presentación de la evaluación de Impacto a la protección de datos personales
+Plazo para la presentación de evaluación de impacto a la protección de datos personales
 
 ###### Artículo 107.
 
-El responsable deberá presentar la evaluación de impacto a la protección de datos personales a que se refiere el presente Capítulo ante el Instituto, treinta días anteriores a la fecha en que se pretenda implementar o modificar la política pública, el programa, servicio, sistema de información o tecnología, a efecto de que el Instituto o los organismos garantes emitan el dictamen correspondiente.
+El responsable deberá presentar la evaluación de impacto a la protección de datos personales a que se refiere el presente Capítulo ante el Instituto, treinta días anteriores a la fecha en que se pretenda implementar o modificar la política pública, el programa, servicio, sistema de información o tecnología, a efecto de que el Instituto emita el dictamen correspondiente.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Plazo para la emisión del dictamen no vinculante
 
 ###### Artículo 108.
 
-El Instituto deberá emitir un dictamen sobre la evaluación de impacto a la protección de datos personales del programa, servicio, sistema de información o tecnología presentado por el responsable en un plazo de treinta días contados a partir del día siguiente a la presentación de la evaluación, el cual deberá sugerir recomendaciones no vinculantes que permitan mitigar y reducir la generación de los impactos y riesgos que se detecten en materia de protección de datos personales.
+El Instituto deberá emitir en un plazo de treinta días contados a partir del día siguiente a la presentación de la Evaluación de impacto, recomendaciones no vinculantes sobre dicha evaluación en la protección de datos personales presentado (sic) por el responsable.
 
 Evaluaciones de impacto a la protección de datos personales en situaciones de emergencia
 
@@ -1321,55 +1363,47 @@ Evaluaciones de impacto a la protección de datos personales en situaciones de e
 
 Cuando a juicio del responsable se puedan comprometer los efectos que se pretenden lograr con la posible puesta en operación o modificación de políticas públicas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que implique el tratamiento intensivo o relevante de datos personales o se trate de situaciones de emergencia o urgencia, no será necesario realizar la evaluación de impacto en la protección de datos personales.
 
-Evaluaciones de impacto a la protección de datos personales de oficio
-
 ###### Artículo 110.
 
-El Instituto podrá llevar a cabo evaluaciones de impacto a la privacidad de oficio respecto de aquellos programas, políticas públicas, servicios, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que impliquen el tratamiento intensivo o relevante de datos personales, conforme a los lineamientos que para tal efecto emita.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 ### Capítulo III. Del oficial de protección de datos personales
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Designación
 
 ###### Artículo 111.
 
-Para aquellos responsables que en el ejercicio de sus funciones sustantivas lleven a cabo tratamientos de datos personales relevantes o intensivos, podrán designar a un oficial de protección de datos personales, el cual formará parte de la Unidad de Transparencia.
-
-La persona designada como oficial de protección de datos deberá contar con la jerarquía o posición dentro de la organización del responsable, así como con recursos suficientes que le permita implementar políticas transversales en esta materia.
+Los responsables que en el ejercicio de sus funciones sustantivas lleven a cabo tratamientos de datos personales relevantes o intensivos, podrán designar a un oficial de protección de datos personales especializado en la materia, quien realizará las atribuciones mencionadas en el artículo 119 y formará parte de la Unidad de Transparencia.
 
 El oficial de protección de datos personales será designado atendiendo a sus conocimientos, cualidades profesionales, experiencia mínima de cinco años en la materia, y, en su caso, a la o las certificaciones con que cuente en materia de protección de datos personales.
 
-Funciones del oficial de protección de datos personales
-
 ###### Artículo 112.
 
-El oficial de protección de datos personales tendrá las siguientes atribuciones:
-
-I. Asesorar al Comité de Transparencia respecto a los temas que sean sometidos a su consideración en materia de protección de datos personales;
-
-II. Proponer al Comité de Transparencia políticas, programas, acciones y demás actividades que correspondan para el cumplimiento de la presente Ley y demás disposiciones que resulten aplicables en la materia;
-
-III. Implementar políticas, programas, acciones y demás actividades que correspondan para el cumplimiento de la presente Ley y demás disposiciones que resulten aplicables en la materia, previa autorización del Comité de Transparencia;
-
-IV. Asesorar permanentemente a las áreas adscritas al responsable en materia de protección de datos personales, y
-
-V. Las demás que determine la normatividad aplicable.
-
-Designación optativa del oficial de protección de datos personales
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 ###### Artículo 113.
 
-Los responsables que en el ejercicio de sus funciones sustantivas no efectúen tratamientos de datos personales relevantes o intensivos, podrán designar a un oficial de protección de datos personales, de conformidad con lo previsto en el presente Capítulo.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 ## TÍTULO SÉPTIMO. Instancias de seguridad, procuración y administración de justicia
 
 ### Capítulo Único. De los tratamientos de datos personales por instancias de seguridad, procuración y administración de justicia del estado de Guanajuato
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Tratamiento de datos personales por instancias de seguridad, procuración y administración de justicia del estado de Guanajuato
 
 ###### Artículo 114.
 
-Los tratamientos de datos personales efectuados por responsables con atribuciones expresas en materia de seguridad, procuración y administración de justicia, además de cumplir con las obligaciones previstas en la presente Ley, deberán acotarse a aquellos supuestos y categorías de datos personales que resulten estrictamente necesarios y relevantes para el ejercicio de sus funciones en dichas materias, así como establecer medidas de seguridad suficientes y necesarias para garantizar la integridad, disponibilidad y confidencialidad de los datos personales.
+Los tratamientos de datos personales efectuados por responsables competentes en instancias de seguridad, procuración y administración de justicia, además de cumplir con las obligaciones previstas en la presente Ley, deberán acotarse a aquellos supuestos y categorías de datos personales que resulten estrictamente necesarios y proporcionales para el ejercicio de sus funciones en materia de seguridad nacional, seguridad pública, o para la prevención o persecución de los delitos. Deberán ser almacenados en las bases de datos establecidas para tal efecto. En dichas materias, así como establecer medidas de seguridad suficientes y necesarias para garantizar la integridad, disponibilidad y confidencialidad de los datos personales, que permitan proteger los datos personales contra daño, pérdida, alteración, destrucción o el uso, acceso o tratamiento no autorizado.
+
+Las autoridades que accedan y almacenen los datos personales que se recaben por los particulares en cumplimiento de las disposiciones legales correspondientes, deberán cumplir con las disposiciones señaladas en el presente Capítulo.
+
+En el tratamiento de datos personales así como en el uso de las bases de datos para su almacenamiento, que realicen los sujetos obligados competentes de las instancias de seguridad, procuración y administración de justicia deberá cumplir con los principios establecidos en el Título Segundo de la presente Ley.
+
+Las comunicaciones privadas son inviolables. Exclusivamente la autoridad judicial federal, a petición del titular del Ministerio Público, podrá autorizar la intervención de cualquier comunicación privada.
 
 ## TÍTULO OCTAVO. Comité de Transparencia y Unidad de Transparencia
 
@@ -1383,29 +1417,45 @@ Cada responsable contará con un Comité de Transparencia, el cual se integrará
 
 El Comité de Transparencia será la autoridad máxima en materia de protección de datos personales, en la organización del responsable.
 
+> <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO, PASANDO DE IX FRACCIONES A VIII.]</small>
+
 Atribuciones del Comité de Transparencia
 
 ###### Artículo 116.
 
 Para los efectos de la presente Ley y sin perjuicio de otras atribuciones que le sean conferidas en la Ley de Transparencia y demás normatividad que resulte aplicable, el Comité de Transparencia tendrá las siguientes funciones:
 
-I. Aprobar, supervisar y evaluar las políticas, programas, acciones y demás actividades que correspondan para el cumplimiento de la presente Ley y demás disposiciones que resulten aplicables en la materia;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. Coordinar, realizar y supervisar las acciones necesarias para garantizar el derecho a la protección de los datos personales en la organización del responsable, de conformidad con las disposiciones previstas en la presente Ley y en aquellas disposiciones que resulten aplicables en la materia, en coordinación con el oficial de protección de datos personales, en su caso;
+I. Coordinar, realizar y supervisar las acciones necesarias para garantizar el derecho a la protección de los datos personales en la organización del responsable, de conformidad con las disposiciones previstas en la presente Ley y en aquellas disposiciones que resulten aplicables en la materia;
 
-III. Instituir, en su caso, procedimientos internos para asegurar la mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos ARCO;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IV. Confirmar, modificar o revocar las determinaciones en las que se declare la inexistencia de los datos personales, o se declare improcedente, por cualquier causa, el ejercicio de alguno de los derechos ARCO;
+II. Instituir, en su caso, procedimientos internos para asegurar la mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos ARCO;
 
-V. Establecer y supervisar la aplicación de criterios específicos que resulten necesarios para una mejor observancia de la presente Ley y demás ordenamientos que resulten aplicables en la materia;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-VI. Supervisar, en coordinación con las áreas o unidades administrativas competentes, el cumplimiento de las medidas, controles y acciones previstas en el documento de seguridad;
+III. Confirmar, modificar o revocar las determinaciones en las que se declare la inexistencia de los datos personales, o se niegue por cualquier causa, el ejercicio de alguno de los derechos ARCO;
 
-VII. Coordinar el seguimiento y cumplimiento de las resoluciones emitidas por el Instituto;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-VIII. Establecer programas de capacitación y actualización para los servidores públicos en materia de protección de datos personales, y
+IV. Establecer y supervisar la aplicación de criterios específicos que resulten necesarios para una mejor observancia de la presente Ley y demás ordenamientos que resulten aplicables en la materia;
 
-IX. Dar vista al órgano interno de control o instancia equivalente en aquellos casos en que tenga conocimiento, en el ejercicio de sus atribuciones, de una presunta irregularidad respecto de determinado tratamiento de datos personales.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Supervisar, en coordinación con las áreas o unidades administrativas competentes, el cumplimiento de las medidas, controles y acciones previstas en el documento de seguridad;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI. Dar seguimiento y cumplimiento de las resoluciones emitidas por el Instituto;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. Establecer programas de capacitación y actualización para los servidores públicos en materia de protección de datos personales; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. Dar vista al órgano interno de control o instancia equivalente en aquellos casos en que tenga conocimiento, en el ejercicio de sus atribuciones, de una presunta irregularidad respecto de determinado tratamiento de datos personales; particularmente en casos relacionados con la declaración de inexistencia que realicen los responsables.
 
 ### Capítulo II. De la Unidad de Transparencia
 
@@ -1443,7 +1493,7 @@ VI. Aplicar instrumentos de evaluación de calidad sobre la gestión de las soli
 
 VII. Asesorar a las áreas adscritas al responsable en materia de protección de datos personales, y
 
-VIII. Dar atención y seguimiento a los acuerdos emitidos por el Comité de Transparencia.
+VIII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
 Negativa de colaboración con la Unidad de Transparencia
 
@@ -1453,11 +1503,13 @@ Cuando alguna unidad administrativa del responsable se negara a colaborar con la
 
 Cuando persista la negativa de colaboración, la Unidad de Transparencia lo hará del conocimiento de la autoridad competente para que ésta inicie, en su caso, el procedimiento de responsabilidad respectivo.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Medidas especiales para grupos vulnerables
 
 ###### Artículo 121.
 
-El responsable procurará que las personas con algún tipo de discapacidad o grupos vulnerables, puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales, para lo cual deberá promover acuerdos con instituciones públicas especializadas que pudieran auxiliarle en la recepción, trámite y entrega de las respuestas a solicitudes para el ejercicio de los derechos ARCO en lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente.
+El responsable procurará que las personas con algún tipo de discapacidad o grupos vulnerables, puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales.
 
 ## TÍTULO NOVENO. Instituto de Acceso a la Información Pública para el Estado de Guanajuato
 
@@ -1469,73 +1521,89 @@ Integración del Instituto
 
 En la integración, procedimiento de designación de comisionados y funcionamiento del Instituto se estará a lo dispuesto en la Ley de Transparencia.
 
+> <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO, PASANDO DE XXVIII FRACCIONES A XVIII.]</small>
+
 Atribuciones del Instituto
 
 ###### Artículo 123.
 
 Para los efectos de la presente Ley y sin perjuicio de otras atribuciones que les sean conferidas en la Ley de Transparencia y demás disposiciones que resulten aplicables, el Instituto tendrá las siguientes atribuciones:
 
-I. Garantizar el ejercicio del derecho a la protección de datos personales en posesión de los responsables a que se refiere la presente Ley;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. Interpretar la presente Ley y demás disposiciones que deriven de ésta, en el ámbito administrativo;
+I. Conocer, sustanciar y resolver, de los recursos de revisión interpuestos por los titulares, en términos de lo dispuesto en la presente Ley y demás disposiciones que resulten aplicables en la materia;
 
-III. Emitir disposiciones administrativas de carácter general para la debida aplicación y cumplimiento de las obligaciones previstas en la presente Ley;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IV. Conocer, sustanciar y resolver, en el ámbito de su respectiva competencia, de los recursos de revisión interpuestos por los titulares, en términos de lo dispuesto en la presente Ley y demás disposiciones que resulten aplicables en la materia;
+II. Presentar petición fundada al Instituto Nacional, para que conozca de los recursos de revisión que por su interés y trascendencia así lo ameriten, en términos de lo previsto en la Ley General y demás disposiciones que resulten aplicables en la materia;
 
-V. Conocer, sustanciar y resolver los procedimientos de verificación;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-VI. Presentar petición fundada al Instituto Nacional, para que conozca de los recursos de revisión que por su interés y trascendencia así lo ameriten, en términos de lo previsto en la Ley General y demás disposiciones que resulten aplicables en la materia;
+III. Imponer las medidas de apremio para asegurar el cumplimiento de sus determinaciones y resoluciones;
 
-VII. Imponer las medidas de apremio para asegurar el cumplimiento de sus determinaciones y resoluciones;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-VIII. Promover y difundir el ejercicio del derecho a la protección de datos personales;
+IV. Promover y difundir el ejercicio del derecho a la protección de datos personales;
 
-IX. Orientar y asesorar a los titulares en materia de protección de datos personales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-X. Diseñar y aprobar los formatos de solicitudes para el ejercicio de los derechos ARCO;
+V. Coordinarse con las autoridades competentes para que las solicitudes para el ejercicio de los derechos ARCO y los recursos de revisión que se presenten en lenguas indígenas, sean atendidos en la misma lengua;
 
-XI. Coordinarse con las autoridades competentes para que las solicitudes para el ejercicio de los derechos ARCO y los recursos de revisión que se presenten en lenguas indígenas, sean atendidos en la misma lengua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XII. Garantizar, en el ámbito de su respectiva competencia, condiciones de accesibilidad para que los titulares que pertenecen a grupos vulnerables puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales;
+VI. Garantizar, en el ámbito de su respectiva competencia, condiciones de accesibilidad para que los titulares que pertenecen a grupos vulnerables puedan ejercer, en igualdad de circunstancias, su derecho a la protección de datos personales;
 
-XIII. Proporcionar apoyo técnico a los responsables para el cumplimiento de las obligaciones establecidas en la presente Ley;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XIV. Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia de la presente Ley;
+VII. Elaborar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia de la presente Ley;
 
-XV. Elaborar herramientas y mecanismos que faciliten el cumplimiento de las disposiciones de esta Ley;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XVI. Capacitar a los responsables en materia de protección de datos personales, en el ámbito material y territorial de competencia que le corresponde;
+VIII. Hacer del conocimiento de las autoridades competentes, la probable responsabilidad derivada del incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones que resulten aplicables;
 
-XVII. Hacer del conocimiento de las autoridades competentes, la probable responsabilidad derivada del incumplimiento de las obligaciones previstas en la presente Ley y en las demás disposiciones que resulten aplicables;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XVIII. Proporcionar al Instituto Nacional los elementos que requiera para resolver los recursos de inconformidad que le sean presentados, en términos de lo previsto en el Título Noveno, Capítulo III de la Ley General y demás disposiciones que resulten aplicables en la materia;
+IX. Proporcionar al Instituto Nacional los elementos que requiera para resolver los recursos de inconformidad que le sean presentados, en términos de lo previsto en el Título Noveno, Capítulo III de la Ley General y demás disposiciones que resulten aplicables en la materia;
 
-XIX. Suscribir convenios de colaboración con el Instituto Nacional para el cumplimiento de los objetivos previstos en la Ley General y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XX. Vigilar y verificar el cumplimiento de la presente Ley y demás disposiciones que resulten aplicables en la materia;
+X. Suscribir convenios de colaboración con el Instituto Nacional para el cumplimiento de los objetivos previstos en la Ley General y demás disposiciones aplicables;
 
-XXI. Llevar a cabo acciones y actividades que promuevan el conocimiento del derecho a la protección de datos personales, así como de sus prerrogativas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XXII. Aplicar indicadores y criterios para evaluar el desempeño de los responsables respecto del cumplimiento de la presente Ley y demás disposiciones que resulten aplicables;
+XI. Vigilar y verificar el cumplimiento de la presente Ley y demás disposiciones que resulten aplicables en la materia;
 
-XXIII. Promover la capacitación y actualización en materia de protección de datos personales entre los responsables;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XXIV. Solicitar la cooperación del Instituto Nacional en los términos del artículo 89, fracción XXX de la Ley General;
+XII. Llevar a cabo acciones y actividades que promuevan el conocimiento del derecho a la protección de datos personales, así como de sus prerrogativas;
 
-XXV. Administrar, en el ámbito de su respectiva competencia, la Plataforma Nacional en lo relacionado al derecho a la protección de datos personales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XXVI. Interponer acciones de inconstitucionalidad en contra de leyes expedidas por el Congreso del Estado de Guanajuato que vulneren el derecho a la protección de datos personales;
+XIII. Aplicar indicadores y criterios para evaluar el desempeño de los responsables respecto del cumplimiento de la presente Ley y demás disposiciones que resulten aplicables;
 
-XXVII. Divulgar y emitir recomendaciones, estándares y mejores prácticas en las materias reguladas por la presente Ley, y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XXVIII. Emitir el dictamen con recomendaciones no vinculantes a las evaluaciones de impacto a la protección de datos personales que le sean presentadas.
+XIV. Promover la capacitación y actualización en materia de protección de datos personales entre los responsables;
 
-Emisión de normatividad secundaria
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XV. Solicitar la cooperación del Instituto Nacional en los términos del artículo 89, fracción XXX de la Ley General;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVI. Administrar, en el ámbito de su respectiva competencia, la Plataforma Nacional en lo relacionado al derecho a la protección de datos personales;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVII. Interponer acciones de inconstitucionalidad en contra de leyes expedidas por el Congreso del Estado de Guanajuato que vulneren el derecho a la protección de datos personales; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Emitir el dictamen con recomendaciones no vinculantes a las evaluaciones de impacto a la protección de datos personales que le sean presentadas.
 
 ###### Artículo 124.
 
-La presente Ley constituirá el marco normativo que los responsables, en el ámbito de sus respectivas competencias, deberán observar para la emisión de la regulación sectorial que, en su caso, corresponda con la coadyuvancia del Instituto, y en la que se involucre el tratamiento de datos personales.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 ### Capítulo II. De la coordinación y promoción del derecho a la protección de datos personales
 
@@ -1563,9 +1631,11 @@ III. Fomentar la creación de espacios de participación social y ciudadana que 
 
 Recurso de revisión y plazo para su interposición
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 127.
 
-El titular, por sí mismo o a través de su representante, podrá interponer un recurso de revisión ante el Instituto o la Unidad de Transparencia del responsable que haya conocido de la solicitud para el ejercicio de los derechos ARCO o de portabilidad de los datos personales, dentro de un plazo que no podrá exceder de quince días contados a partir del día siguiente a la fecha de notificación de la respuesta.
+El titular, por sí mismo o a través de su representante, podrá interponer un recurso de revisión ante el Instituto o la Unidad de Transparencia del responsable que haya conocido de la solicitud para el ejercicio de los derechos ARCO, dentro de un plazo que no podrá exceder de quince días contados a partir del día siguiente a la fecha de notificación de la respuesta.
 
 Transcurrido el plazo previsto para dar respuesta a una solicitud para el ejercicio de los derechos ARCO sin que se haya emitido ésta, el titular o, en su caso, su representante podrá interponer el recurso de revisión dentro de los quince días siguientes al que haya vencido el plazo para dar respuesta.
 
@@ -1593,19 +1663,27 @@ IV. Se entreguen datos personales incompletos;
 
 V. Se entreguen datos personales que no correspondan con lo solicitado;
 
-VI. Se niegue el acceso, rectificación, cancelación u oposición de datos personales, o bien, la portabilidad de los datos personales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-VII. No se dé respuesta a una solicitud para el ejercicio de los derechos ARCO o de portabilidad de los datos personales, dentro de los plazos establecidos en la presente Ley y demás disposiciones que resulten aplicables en la materia;
+VI. Se niegue el acceso, rectificación , cancelación u oposición de datos personales;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. No se dé respuesta a una solicitud para el ejercicio de los derechos ARCO, dentro de los plazos establecidos en la presente Ley y demás disposiciones que resulten aplicables en la materia;
 
 VIII. Se entregue o ponga a disposición datos personales en una modalidad o formato distinto al solicitado, o en un formato incomprensible;
 
 IX. El titular se inconforme con los costos de reproducción, envío o certificación, o bien, tiempos de entrega de los datos personales;
 
-X. Se obstaculice el ejercicio de los derechos ARCO o de portabilidad de los datos personales, a pesar de que fue notificada la procedencia de los mismos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XI. No se dé trámite a una solicitud para el ejercicio de los derechos ARCO o de portabilidad de los datos personales;
+X. Se obstaculice el ejercicio de los derechos ARCO, a pesar de que fue notificada la procedencia de los mismos;
 
-XII. Ante la falta de respuesta del responsable, o
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI. No se dé trámite a una solicitud para el ejercicio de los derechos ARCO;
+
+XII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
 XIII. En los demás casos que dispongan las leyes.
 
@@ -1665,11 +1743,17 @@ Requisitos de la solicitud del recurso de revisión
 
 El recurso de revisión contendrá lo siguiente:
 
-I. La denominación del responsable ante quien se presentó la solicitud para el ejercicio de los derechos ARCO o de portabilidad de los datos personales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. El nombre completo del titular que recurre o de su representante y, en su caso, del tercero interesado, así como el domicilio o medio que señale para oír y recibir notificaciones;
+I. La denominación del responsable ante quien se presentó la solicitud para el ejercicio de los derechos ARCO;
 
-III. La fecha en que fue notificada la respuesta al titular, o bien, en caso de falta de respuesta la fecha de la presentación de la solicitud para el ejercicio de los derechos ARCO o de portabilidad de los datos personales, y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. El nombre completo del titular que recurre o de su representante y, en su caso, del tercero interesado, así como el domicilio o medio que señale para recibir notificaciones;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. La fecha en que fue notificada la respuesta al titular, o bien, en caso de falta de respuesta la fecha de la presentación de la solicitud para el ejercicio de los derechos ARCO; y
 
 IV. El acto que se recurre y los puntos petitorios, así como las razones o motivos de inconformidad.
 
@@ -1681,11 +1765,13 @@ Documentos que deberán acompañarse al recurso de revisión
 
 El titular deberá acompañar a su escrito los siguientes documentos:
 
-I. Los documentos que acrediten su identidad y la de su representante, en su caso;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Los documentos que acrediten su identidad;
 
 II. El documento que acredite la personalidad de su representante, en su caso;
 
-III. La copia de la solicitud a través de la cual ejerció sus derechos ARCO o de portabilidad de los datos personales y que fue presentada ante el responsable y los documentos anexos a la misma, con su correspondiente acuse de recepción;
+III. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
 IV. La copia de la respuesta del responsable que se impugna y de la notificación correspondiente, en su caso, y
 
@@ -1699,9 +1785,11 @@ Durante el procedimiento a que se refiere el presente Capítulo, el Instituto de
 
 Requerimiento de información adicional al titular
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 137.
 
-Si en el escrito del recurso de revisión el titular no cumple con alguno de los requisitos previstos en el artículo 134 de la presente Ley y el Instituto no cuenta con elementos para subsanarlos, éste deberá requerir al titular, por una sola ocasión, la información que subsane las omisiones en un plazo que no podrá exceder de cinco días, contados a partir del día siguiente de la presentación del escrito.
+Si en el escrito del recurso de revisión el titular no cumple con alguno de los requisitos previstos en el artículo 134 y 135 de la presente Ley y el Instituto no cuenta con elementos para subsanarlos, éste deberá requerir al titular, por una sola ocasión, la información que subsane las omisiones en un plazo que no podrá exceder de cinco días, contados a partir del día siguiente de la presentación del escrito.
 
 El titular contará con un plazo que no podrá exceder de cinco días, contados a partir del día siguiente al de la notificación del requerimiento de información, para subsanar las omisiones, con el apercibimiento de que en caso de no cumplir con éste, se desechará el recurso de revisión.
 
@@ -1845,7 +1933,9 @@ El Instituto deberá resolver el recurso de revisión en un plazo que no podrá 
 
 En caso de que el Instituto amplíe el plazo para emitir la resolución correspondiente, deberá emitir un acuerdo donde funde y motive las circunstancias de la ampliación.
 
-El plazo a que se refiere el presente artículo sólo podrá ser suspendido cuando se prevenga al titular conforme a lo dispuesto en la presente Ley, o bien, durante el periodo de cumplimiento del acuerdo de conciliación, cuando resulte aplicable.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+El plazo a que se refiere el presente artículo sólo podrá ser suspendido cuando se prevenga al titular conforme a lo dispuesto en la presente Ley por lo que comenzará a computarse a partir del día siguiente a su desahogo, o bien, durante el periodo de cumplimiento del acuerdo de conciliación, cuando resulte aplicable.
 
 Resolución del recurso de revisión
 
@@ -1861,7 +1951,9 @@ III. Revocar o modificar la respuesta del responsable, o
 
 IV. Ordenar la entrega de los datos personales, en caso de omisión del responsable.
 
-Las resoluciones establecerán, en su caso, los plazos y términos para su cumplimiento y los procedimientos para asegurar su ejecución.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Las resoluciones establecerán, en su caso, los plazos y términos para su cumplimiento y los procedimientos para asegurar su ejecución, los responsables deberán informar al Instituto el cumplimiento de sus resoluciones.
 
 Causales de sobreseimiento del recurso de revisión
 
@@ -1893,7 +1985,7 @@ III. El Instituto haya resuelto anteriormente en definitiva sobre la materia del
 
 IV. No se actualice alguna de las causales del recurso de revisión previstas en el artículo 129 de la presente Ley;
 
-V. No se haya desahogado la prevención en los términos establecidos en el artículo 137 de la presente Ley;
+V. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
 VI. Se esté tramitando ante los tribunales competentes algún recurso o medio de defensa interpuesto por el titular recurrente, o en su caso, por el tercero interesado, en contra del acto recurrido ante el Instituto;
 
@@ -1903,11 +1995,13 @@ VIII. El recurrente no acredite interés jurídico.
 
 El desechamiento no implica la preclusión del derecho del titular para interponer ante el Instituto un nuevo recurso de revisión.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Notificación de la resolución
 
 ###### Artículo 150.
 
-El Instituto deberá notificar a las partes y publicar las resoluciones, a más tardar, el tercer día siguiente de su aprobación.
+El Instituto deberá notificar a las partes y publicar las resoluciones, en versión pública a más tardar, el tercer día siguiente de su aprobación.
 
 Medios de impugnación de las resoluciones
 
@@ -1921,9 +2015,11 @@ En los casos en que a través del recurso de inconformidad se modifique o revoqu
 
 Facultad de atracción del Instituto Nacional
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 152.
 
-El Pleno del Instituto Nacional, cuando así lo apruebe la mayoría de sus Comisionados, de oficio o a petición del Instituto, podrá ejercer la facultad de atracción para conocer, sustanciar y resolver aquellos recursos de revisión que por su interés y trascendencia así lo ameriten, en los plazos y términos previstos en la Ley General y demás normatividad aplicable.
+El Pleno del Instituto Nacional, podrá ejercer la facultad de atracción para conocer, sustanciar y resolver aquellos recursos de revisión que por su interés y trascendencia así lo ameriten, en los plazos y términos previstos en la Ley General y demás normatividad aplicable.
 
 En este caso, cesará la substanciación del recurso de revisión a cargo del Instituto.
 
@@ -1941,11 +2037,9 @@ Ante la falta de resolución por parte del Instituto se entenderá confirmada la
 
 ### Capítulo II. De los criterios de interpretación
 
-Emisión de criterios interpretativos
-
 ###### Artículo 155.
 
-Una vez que hayan causado ejecutoria las resoluciones dictadas en los recursos que se sometan a su competencia, el Instituto podrá emitir los criterios de interpretación que estime pertinentes y que deriven de lo resuelto en dichos asuntos.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 ## TÍTULO DÉCIMO PRIMERO. Verificación de tratamientos de datos personales
 
@@ -2013,11 +2107,15 @@ Si como resultado de las investigaciones previas, el Instituto no cuenta con ele
 
 Acuerdo de inicio del procedimiento de verificación
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 161.
 
-En el comienzo de todo procedimiento de verificación, el Instituto deberá emitir un acuerdo de inicio en el que funde y motive la procedencia de su actuación.
+En el comienzo de todo procedimiento de verificación, el Instituto deberá iniciar con una orden que funde y motive la procedencia de su actuación.
 
-El acuerdo de inicio del procedimiento de verificación deberá señalar lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+La orden de inicio del procedimiento de verificación deberá señalar lo siguiente:
 
 I. El nombre del denunciante y su domicilio;
 
@@ -2141,27 +2239,23 @@ Si se negara a firmar el responsable verificado, su representante o la persona c
 
 El responsable verificado podrá formular observaciones en la visita de verificación, así como manifestar lo que a su derecho convenga con relación a los hechos contenidos en el acta respectiva, o bien, podrá hacerlo por escrito dentro de los cinco días siguientes a la fecha en que se hubiere realizado la visita de verificación.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Medidas cautelares
 
 ###### Artículo 169.
 
-El Instituto podrá ordenar medidas cautelares si del desahogo de la verificación advierte un daño inminente o irreparable en materia de protección de datos personales, siempre y cuando no impidan el cumplimiento de las funciones ni el aseguramiento de las bases de datos, las cuales podrán quedar sin efecto una vez que el responsable verificado haya adoptado las medidas señaladas por el Instituto para mitigar los daños identificados, con el fin de restablecer el tratamiento de los datos personales.
+El Instituto podrá ordenar medidas cautelares si del desahogo de la verificación advierte un daño inminente o irreparable en materia de protección de datos personales, siempre y cuando no impidan el cumplimiento de las funciones ni el aseguramiento de las bases de datos de los sujetos obligados.
 
-Efecto de las medidas cautelares
+Estas medidas sólo podrán tener una finalidad correctiva y será temporal hasta entonces los sujetos obligados lleven a cabo las recomendaciones hechas por el Instituto.
 
 ###### Artículo 170.
 
-La aplicación de medidas cautelares no tendrá por efecto:
-
-I. Dejar sin materia el procedimiento de verificación, o
-
-II. Eximir al responsable del cumplimiento de las obligaciones previstas en la presente Ley.
-
-Reconsideración de la aplicación de medidas cautelares
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 ###### Artículo 171.
 
-Si durante el procedimiento de verificación, el Instituto advierte nuevos elementos que pudieran modificar la medida cautelar previamente impuesta, éste deberá notificar al responsable, al menos, con 24 horas de anticipación la modificación a que haya lugar, fundando y motivando su actuación.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 Solicitud de medidas cautelares por parte del titular
 
@@ -2173,11 +2267,15 @@ Para tal efecto, el Instituto deberá considerar los elementos ofrecidos por el 
 
 Duración máxima del procedimiento de verificación y emisión de resolución
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 173.
 
 El procedimiento de verificación deberá tener una duración máxima de cincuenta días, dentro del cual el Instituto deberá emitir una resolución debidamente fundada y motivada, y notificarla al responsable verificado y al denunciante.
 
-En la resolución el Instituto podrá ordenar medidas correctivas para que el responsable las acate en la forma, términos y plazos fijados para tal efecto, así como señalar las medidas de apremio para asegurar el cumplimiento de ésta.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+El procedimiento de verificación concluirá con la resolución que emita el Instituto, en la cual, se establecerán las medidas que deberá adoptar el responsable en el plazo que la misma determine.
 
 Las resoluciones que emita el Instituto con motivo del procedimiento de verificación, podrán hacerse del conocimiento de la autoridad competente en materia de responsabilidades administrativas.
 
@@ -2187,11 +2285,9 @@ Instancias de seguridad pública
 
 Para la verificación en instancias de seguridad pública, se requerirá en la resolución, la aprobación del Pleno del Instituto, por mayoría calificada de sus Comisionados, así como de una fundamentación y motivación reforzada de la causa del procedimiento, debiéndose asegurar la información sólo para uso exclusivo de la autoridad.
 
-Verificaciones preventivas
-
 ###### Artículo 175.
 
-El Instituto podrá llevar a cabo, de oficio, verificaciones preventivas, a efecto de vigilar y verificar el cumplimiento de las disposiciones contenidas en la presente Ley y demás ordenamientos que se deriven de ésta, de conformidad con las disposiciones previstas en este Capítulo.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 Auditorías voluntarias
 
@@ -2201,23 +2297,13 @@ Los responsables podrán voluntariamente someterse a la realización de auditor�
 
 El informe de auditoría deberá dictaminar sobre la adecuación de las medidas y controles implementados por el responsable, identificar sus deficiencias, así como proponer acciones correctivas complementarias, o bien, recomendaciones que en su caso correspondan.
 
-Procedencia de las auditorías voluntarias
-
 ###### Artículo 177.
 
-Las auditorías voluntarias a que se refiere el artículo anterior, sólo procederán respecto aquellos tratamientos de datos personales que el responsable esté llevando a cabo al momento de presentar su solicitud ante el Instituto.
-
-En ningún caso, las auditorías voluntarias podrán equipararse a las evaluaciones de impacto a la protección de datos personales a que se refiere la presente Ley.
-
-Improcedencia de las auditorías voluntarias
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 ###### Artículo 178.
 
-Las auditorías voluntarias a que se refiere el artículo 177 de la presente Ley no procederán cuando:
-
-I. El Instituto tenga conocimiento de una denuncia, o bien, esté sustanciando un procedimiento de verificación relacionado con el mismo tratamiento de datos personales que se pretende someter a este tipo de auditorías, o
-
-II. El responsable sea seleccionado de oficio para ser verificado por parte del Instituto.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 ## TÍTULO DÉCIMO SEGUNDO. Cumplimiento de las resoluciones del Instituto
 
@@ -2243,19 +2329,9 @@ El Instituto deberá verificar de oficio el cumplimiento y, a más tardar al dí
 
 Si dentro del plazo señalado el titular manifiesta que el cumplimiento no corresponde a lo ordenado por el Instituto, deberá expresar las causas específicas por las cuales así lo considera.
 
-Procedimiento de verificación del cumplimiento
-
 ###### Artículo 181.
 
-El Instituto deberá pronunciarse, en un plazo no mayor a cinco días contados a partir del día siguiente de la recepción de las manifestaciones del titular, sobre todas las causas que éste manifieste así como del resultado de la verificación que hubiere realizado.
-
-Si el Instituto considera que se dio cumplimiento a la resolución, deberá emitir un acuerdo de cumplimiento y se ordenará el archivo del expediente. En caso contrario, el Instituto:
-
-I. Emitirá un acuerdo de incumplimiento;
-
-II. Notificará al superior jerárquico del servidor público encargado de dar cumplimiento, para que en un plazo no mayor a cinco días contados a partir del día siguiente que surta efectos la notificación, se dé cumplimiento a la resolución, bajo el apercibimiento que de no demostrar que dio la orden, se le impondrá una medida de apremio en los términos señalados en la presente Ley, además de que incurrirá en las mismas responsabilidades administrativas del servidor público inferior, y
-
-III. Determinará las medidas de apremio que deberán imponerse o las acciones procedentes que deberán aplicarse, de conformidad con lo señalado en el siguiente Título.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 ## TÍTULO DÉCIMO TERCERO. Medidas de apremio
 
@@ -2335,17 +2411,17 @@ Si a pesar de la ejecución de las medidas de apremio previstas en el presente C
 
 Transcurrido el plazo, sin que se haya dado cumplimiento, se dará vista a la autoridad competente en materia de responsabilidades.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 Medios de impugnación
 
 ###### Artículo 191.
 
-En contra de la imposición de medidas de apremio, procede el juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Guanajuato.
-
-Aviso a autoridades penales
+En contra de la imposición de medidas de apremio, procede el juicio de amparo ante el Poder Judicial de la Federación.
 
 ###### Artículo 192.
 
-En caso que del contenido de las actuaciones y constancias de los procedimientos ventilados ante el Instituto, se advierta la presunta comisión de delitos y éstos se persigan de oficio, se deberá dar el aviso correspondiente al ministerio público, remitiéndole copia de las constancias conducentes.
+(DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 Denuncias penales
 
@@ -2363,7 +2439,9 @@ Causales de responsabilidad administrativa
 
 Serán causas de responsabilidad administrativa por incumplimiento de las obligaciones establecidas en la presente Ley, las siguientes:
 
-I. Actuar con negligencia, dolo o mala fe durante la sustanciación de las solicitudes para el ejercicio de los derechos ARCO o de la portabilidad de los datos personales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Actuar con negligencia, dolo o mala fe durante la sustanciación de las solicitudes para el ejercicio de los derechos ARCO;
 
 II. Incumplir los plazos de atención previstos en la presente Ley para responder las solicitudes para el ejercicio de los derechos ARCO o para hacer efectivo el derecho de que se trate;
 
@@ -2373,13 +2451,15 @@ IV. Usar, sustraer, divulgar, ocultar, alterar, mutilar, destruir o inutilizar, 
 
 V. Dar tratamiento, de manera intencional, a los datos personales en contravención a los principios y deberes establecidos en la presente Ley;
 
-VI. Mantener los datos personales inexactos cuando resulte imputable al responsable;
+VI. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
-VII. No efectuar la rectificación, cancelación u oposición al tratamiento de los datos personales que legalmente proceda, cuando resulten afectados los derechos de los titulares;
+VII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
 VIII. No contar con el aviso de privacidad, o bien, omitir en el mismo alguno de los elementos a que refieren los artículos 38 y 39 de la presente Ley, según sea el caso, y demás disposiciones que resulten aplicables en la materia;
 
-IX. Clasificar, con dolo o negligencia, datos personales sin que se cumplan las características señaladas en Ley de Transparencia. La sanción sólo procederá cuando exista una resolución previa, que haya quedado firme, respecto del criterio de clasificación de los datos personales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX. Clasificar como confidencial, con dolo o negligencia, datos personales sin que se cumplan las características señaladas en (sic) Ley de Transparencia. La sanción sólo procederá cuando exista una resolución previa, que haya quedado firme, respecto del criterio de clasificación de los datos personales;
 
 X. Incumplir el deber de confidencialidad establecido en el artículo 60 de la presente Ley;
 
@@ -2395,25 +2475,29 @@ XV. Crear bases de datos personales en contravención a lo dispuesto por el art�
 
 XVI. No acatar las resoluciones emitidas por el Instituto;
 
-XVII. Aplicar medidas compensatorias en contravención de los criterios que tales fines establezca el Sistema Nacional;
+XVII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
-XVIII. Declarar dolosamente la inexistencia de datos personales cuando éstos existan total o parcialmente en los archivos del responsable;
+XVIII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
-XIX. No atender las medidas cautelares establecidas por el Instituto;
+XIX. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
-XX. Tratar los datos personales de manera que afecte o impida el ejercicio de los derechos fundamentales previstos en la Constitución Política de los Estados Unidos Mexicanos;
+XX. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
-XXI. No cumplir con las disposiciones previstas en los artículos 88, 93 y 94 de la presente Ley;
+XXI. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
-XXII. No presentar ante el Instituto la evaluación de impacto a la protección de datos personales en aquellos casos en que resulte obligatoria, de conformidad con lo previsto en la presente Ley y demás normativa aplicable;
+XXII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
-XXIII. Realizar actos para intimidar o inhibir a los titulares en el ejercicio de los derechos ARCO, y
+XXIII. (DEROGADA, P.O. 5 DE DICIEMBRE DE 2017)
 
 XXIV. Omitir la entrega del informe anual a que se refiere el artículo 44, fracción VII de la Ley General de Transparencia y Acceso a la Información Pública, o bien, entregar el mismo día de manera extemporánea.
 
-Las causas de responsabilidad previstas en las fracciones I, II, IV, VI, X, XII, XV, XVI, XVIII, XIX y XX, así como la reincidencia en las conductas previstas en el resto de las fracciones de este artículo, serán consideradas como graves para efectos de su sanción administrativa.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Las sanciones de carácter económico no podrán ser cubiertas con recursos públicos.
+Las causas de responsabilidad previstas en las fracciones I, II, V, IX, XIII, XV, y XXIV, así como la reincidencia en las conductas previstas en el resto de las fracciones de este artículo, serán consideradas como graves para efectos de su sanción administrativa.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+En caso de que la presunta infracción hubiere sido cometida por algún integrante de un partido político, la investigación y, en su caso, sanción, corresponderán a la autoridad electoral competente.
 
 Infracciones de partidos políticos
 
@@ -2457,9 +2541,9 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 
 Artículo Segundo. Se abroga la Ley de Protección de Datos Personales para el Estado y Municipios de Guanajuato, contenida en el decreto legislativo número 266, expedido por la Quincuagésima Novena Legislatura, publicada en el Periódico Oficial del Gobierno del Estado número 80, segunda parte, de fecha 19 de mayo de 2006; y se derogan todas aquellas disposiciones en materia de protección de datos personales, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
 
-Artículo Tercero. Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar noventa días posteriores a la entrada en vigor de esta Ley.
+Artículo Tercero. (DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
-Artículo Cuarto. Los responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II de la presente Ley, a más tardar un año posterior a la entrada en vigor de esta Ley.
+Artículo Cuarto. (DEROGADO, P.O. 5 DE DICIEMBRE DE 2017)
 
 Artículo Quinto. El Instituto deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un plazo no mayor a seis meses a la entrada en vigor de esta Ley.
 
@@ -2478,3 +2562,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 GUSTAVO RODRÍGUEZ JUNQUERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
