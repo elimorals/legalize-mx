@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2017-10-26"
+last_updated: "2017-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -2513,17 +2513,57 @@ Para la prestación del servicio de alumbrado público, el Ayuntamiento, directa
 
 Prestación del servicio de mercados y centrales de abastos
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 174.
 
-El servicio público de mercados y centrales de abastos, es aquél que se presta en inmuebles de propiedad municipal.
+El servicio público de mercados y centrales de abastos, es aquél que se presta en inmuebles de propiedad municipal y tiene por objeto la adecuada distribución de artículos y productos alimenticios que satisfagan las necesidades de la población.
 
-El Ayuntamiento podrá concesionar a comerciantes, los espacios ubicados en el interior de los inmuebles de propiedad municipal, en los términos de esta Ley y el reglamento correspondiente.
+El Ayuntamiento podrá concesionar a comerciantes, los espacios ubicados en el interior de los inmuebles de propiedad municipal, en los términos de esta Ley y el reglamento correspondiente, prefiriendo en igualdad de circunstancias a los habitantes del Municipio.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Acciones para el cumplimiento del objeto del servicio público de mercados y centrales de abastos
+
+###### Artículo 174
+
+1. El Ayuntamiento por conducto de la unidad administrativa que determine, a efecto de cumplir con el objeto del servicio público de mercados y centrales de abastos, realizará las siguientes acciones:
+
+I. Promover la participación ciudadana y vecinal en su funcionamiento y operación;
+
+II. Ejecutar la obra pública para su debido funcionamiento;
+
+III. Proporcionar como mínimo los servicios públicos de agua potable, drenaje, alumbrado, limpia y seguridad pública;
+
+IV. Coadyuvar con la autoridad competente en la conservación de condiciones higiénicas favorables para la prestación del servicio público; y
+
+V. Implementar las medidas de prevención y protección civil.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Registro público municipal de mercados y centrales de abastos
+
+###### Artículo 174
+
+2. El Ayuntamiento deberá crear y mantener actualizado el Registro Público Municipal de Mercados y Centrales de Abastos, el que contendrá el padrón de locatarios cuyos registros derivarán de los título-concesión otorgados.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Especificaciones para la construcción de mercados y centrales de abastos
+
+###### Artículo 174
+
+3. Los mercados y centrales de abastos se construirán de acuerdo con los proyectos aprobados por el Ayuntamiento y atendiendo a las especificaciones en el Programa de Desarrollo Urbano y de Ordenamiento Ecológico Territorial, mismos que deben considerar el acceso a personas con discapacidad y movilidad reducida.
+
+En caso de ser necesario, durante la construcción, mantenimiento y rehabilitación de la infraestructura de los mercados y centrales de abastos, el Ayuntamiento podrá suspender la operación parcial o total de su funcionamiento.
 
 Régimen de condominio
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 175.
 
-Cuando el Ayuntamiento lo juzgue conveniente, el servicio de mercados y centrales de abastos, podrá prestarse en inmuebles sujetos al régimen de condominio público, en el que la administración será propia y exclusiva del Ayuntamiento y en todo lo demás serán aplicables las disposiciones del Código Civil para el Estado de Guanajuato.
+Cuando el Ayuntamiento lo acuerde, el servicio de mercados y centrales de abastos, podrá prestarse en inmuebles sujetos al régimen de condominio público, en el que la administración será propia y exclusiva del Ayuntamiento y en todo lo demás serán aplicables las disposiciones de la Ley de Propiedad en Condominio de Inmuebles para el Estado de Guanajuato.
 
 Servicios de seguridad pública
 
@@ -2631,7 +2671,9 @@ Concluido el periodo de recepción de solicitudes, los ayuntamientos formarán u
 
 En la citada resolución, se asentarán cuáles solicitudes no fueron aceptadas, indicando las razones que motivaron el rechazo y se determinará discrecionalmente de entre los que reúnan las condiciones técnicas, administrativas, legales y financieras, quién o quiénes serán los titulares de la concesión del servicio público de que se trate.
 
-Los puntos resolutivos, se publicarán en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Otorgado el título-concesión con base en la resolución señalada en el párrafo anterior, dentro de los treinta días hábiles siguientes a aquel en que el Ayuntamiento la emita, deberán publicarse los puntos resolutivos en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación estatal.
 
 Título-concesión
 
@@ -3730,3 +3772,19 @@ Ajustes de los Ayuntamientos
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos tendrán el término de 60 días para realizar las modificaciones a la reglamentación municipal correspondiente, a fin de que sea congruente con el presente Decreto.
+
+P.O. 5 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 230, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO Y DE LA LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Creación y actualización de los reglamentos
+
+Artículo Segundo. Los ayuntamientos en el ámbito de sus respectivas competencias, tendrán un término de noventa días para expedir o actualizar sus reglamentos de mercados y, en su caso, de centrales de abastos.
+
+Registro
+
+Artículo Tercero. Los ayuntamientos en el ámbito de sus respectivas competencias, tendrán a más tardar un año para la creación y actualización del Registro Público Municipal de Mercados y Centrales de Abastos.
