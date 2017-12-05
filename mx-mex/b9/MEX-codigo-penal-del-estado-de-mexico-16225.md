@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2017-11-29"
+last_updated: "2017-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE DICIEMBRE DE 2017.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -672,6 +672,10 @@ Los bienes inmuebles decomisados por la comisión de los delitos en contra del d
 > <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2014)</small>
 
 En los casos de los delitos a que se refiere el Título Quinto del Libro Segundo de este Código, también se podrán decomisar bienes del imputado cuyo valor sea equivalente, cuando los instrumentos, objetos y productos del delito se hayan perdido, consumido o extinguido, no sea posible localizarlos o se trate de bienes que constituyan garantías de créditos preferentes. En los casos que así se establezca, se podrá decretar el aseguramiento de bienes propiedad del o los imputados, así como de aquéllos respecto de los cuales se conduzca como dueño.
+
+> <small>(ADICIONADO, G.G. 5 DE DICIEMBRE DE 2017)</small>
+
+En caso de que el objeto de decomiso sean animales vivos, deberán ser conducidos a lugares especializados, como zoológicos, santuarios o unidades de control que cubran las necesidades del animal durante el procedimiento. En todo caso de animales domésticos, las asociaciones u organizaciones legalmente constituidas podrán solicitar su resguardo temporal. Las personas que sean responsables de maltrato o crueldad animal, perderán todo derecho sobre los animales que hayan tenido bajo su custodia o resguardo.
 
 ### CAPITULO X. CONFINAMIENTO
 
@@ -2985,7 +2989,7 @@ Además de las sanciones señaladas, se privará de los derechos de la patria po
 
 ### CAPÍTULO III. MALTRATO ANIMAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 220.
 
@@ -3205,7 +3209,7 @@ La reparación del daño respecto de los delitos contenidos en este subtítulo, 
 
 ###### Artículo 235 Bis.
 
-Comete el delito de maltrato animal, el que cause lesiones dolosas a cualquier animal que no constituya plaga, y se le impondrá pena de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+Comete el delito de maltrato animal, el que cause lesiones dolosas a cualquier animal que no constituya plaga, con el propósito o no, de causarle la muerte y se le impondrá pena de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
@@ -3214,6 +3218,14 @@ La pena prevista en el párrafo anterior también se aplicará a quien abandone 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
 A quien realice actos eróticos sexuales a un animal o le introduzca por vía vaginal o rectal el miembro viril, cualquier parte del cuerpo, objeto o instrumento se le impondrán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+
+> <small>(ADICIONADO, G.G. 5 DE DICIEMBRE DE 2017)</small>
+
+La pena contenida en el presente artículo se incrementará hasta en una mitad cuando el maltrato animal sea videograbado o difundido.
+
+> <small>(ADICIONADO, G.G. 5 DE DICIEMBRE DE 2017)</small>
+
+En cualquier caso, se procederá inmediatamente al aseguramiento de los animales, de conformidad con lo dispuesto en el cuarto párrafo del artículo 48 del presente código.
 
 > <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
@@ -6772,3 +6784,15 @@ G.G. 29 DE NOVIEMBRE DE 2017.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 5 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 261.- POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
