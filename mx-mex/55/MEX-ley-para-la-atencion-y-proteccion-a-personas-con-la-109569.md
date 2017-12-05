@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-atencion-y-proteccion-a-personas-con-la-109569"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-19"
-last_updated: "2017-09-29"
+last_updated: "2017-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 29 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 19 de agosto de 2015.
 
@@ -63,9 +61,7 @@ I. Asistencia social: Conjunto de acciones tendentes a modificar y mejorar las c
 
 II. Barreras socioculturales: Actitudes de rechazo e indiferencia por razones de origen étnico, género, edad, discapacidad, condición social, entre otras, debido a la falta de información, prejuicios y estigmas por parte de los integrantes de la sociedad que impiden su incorporación y participación plena en la vida social;
 
-(NOTA: EL 15 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-III. CERTIFICADO DE HABILITACIÓN: DOCUMENTO EXPEDIDO POR AUTORIDAD MÉDICA ESPECIALIZADA, RECONOCIDA POR ESTA LEY, DONDE CONSTE QUE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA SE ENCUENTRAN APTAS PARA EL DESEMPEÑO DE ACTIVIDADES LABORALES, PRODUCTIVAS U OTRAS QUE A SUS INTERESES LEGÍTIMOS CONVENGAN;
+III. (DEROGADA, G.G. 5 DE DICIEMBRE DE 2017)
 
 IV. Comisión: Comisión Intersecretarial para la Atención y Protección a Personas con la Condición del Espectro Autista en el Estado de México;
 
@@ -177,9 +173,9 @@ IV. Solicitar y recibir los certificados de evaluación y diagnóstico indicativ
 
 V. Recibir consultas clínicas y terapias de habilitación especializadas en la red hospitalaria del Estado de México y sus municipios, así como contar con terapias de habilitación;
 
-(NOTA: EL 15 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.G. 5 DE DICIEMBRE DE 2017)</small>
 
-VI. Disponer de su ficha personal en lo que concierne al área médica, psicológica, psiquiátrica y educativa, AL IGUAL QUE DE LOS CERTIFICADOS DE HABILITACIÓN DE SU CONDICIÓN, al momento en que les sean requeridos por autoridad competente;
+VI. Disponer de su ficha personal en lo que concierne al área médica, psicológica, psiquiátrica y educativa, al momento en que les sean requeridos por autoridad competente;
 
 VII. Contar con los cuidados apropiados para su salud mental y física, con acceso a tratamientos y medicamentos de calidad, que les sean administrados oportunamente, tomando todas las medidas y precauciones necesarias;
 
@@ -311,9 +307,7 @@ VI. Impedir el acceso a servicios públicos y privados de carácter cultural, de
 
 VII. Rehusar el derecho a contratar seguros de gastos médicos;
 
-(NOTA: EL 15 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 89/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-VIII. DENEGAR LA POSIBILIDAD DE CONTRATACIÓN LABORAL A QUIENES CUENTEN CON CERTIFICADOS DE HABILITACIÓN EXPEDIDOS POR LA AUTORIDAD RESPONSABLE SEÑALADA EN ESTA LEY GENERAL, QUE INDIQUEN SU APTITUD PARA DESEMPEÑAR DICHA ACTIVIDAD PRODUCTIVA;
+VIII. (DEROGADA, G.G. 5 DE DICIEMBRE DE 2017)
 
 IX. Abusar de las personas en el ámbito laboral;
 
@@ -440,3 +434,11 @@ DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contr
 DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
 
 DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+G.G. 5 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 263.- POR EL QUE SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DE ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
