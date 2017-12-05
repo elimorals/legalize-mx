@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-proteccion-de-personas-defensoras-de-derechos-12467
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-01"
-last_updated: "2017-12-01"
+last_updated: "2017-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "TAM"
 ---
 # LEY PARA LA PROTECCION DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS PARA EL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE DICIEMBRE DE 2017 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS PARA EL ESTADO DE TAMAULIPAS
 
 TEXTO ORIGINAL.
 
-Ley publicada en el Extraordinario Número 13 del Periódico Oficial del Estado de Tamaulipas, el viernes 1 de diciembre de 2017.
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE DICIEMBRE DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NO. LXIII-313 PUBLICADO EN EL P.O. DE 1 DE DICIEMBRE DE 2017.]</small>
+
+> <small>(F. DE E., P.O. DE 5 DE DICIEMBRE DE 2017)</small>
+
+Ley publicada en el Anexo al Extraordinario Número 13 del Periódico Oficial del Estado de Tamaulipas, el viernes 1 de diciembre de 2017.
 
 FRANCISCO JAVIER GARCÍA CABEZA DE VACA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
