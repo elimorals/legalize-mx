@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-desarrollo-y-competitividad-economica-del-96616"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2015-12-29"
+last_updated: "2017-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONOMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -229,7 +231,11 @@ XII. Establecer acciones para apoyar a las micro y pequeñas empresas afectadas 
 
 XIII. Diseñar y coordinar mecanismos de apoyo a las micro, pequeñas y medianas empresas para su integración a las cadenas de valor y productiva; y
 
-XIV. Las demás que le señalen otras disposiciones jurídicas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIV. Impulsar, en coordinación con los ayuntamientos, el desarrollo de acciones que fomenten la competitividad y sustentabilidad de los mercados y centrales de abastos en el Estado; y
+
+XV. Las demás que le señalen otras disposiciones jurídicas.
 
 Atribuciones de los ayuntamientos
 
@@ -242,6 +248,14 @@ I. Aprobar, a propuesta del Presidente Municipal, los programas municipales de d
 II. Impulsar los proyectos de desarrollo económico que propicien la creación de fuentes de empleo, así como el fortalecimiento de las existentes, de acuerdo con los objetivos establecidos en la presente Ley; y
 
 III. Promover la concertación de acuerdos con los sectores privado y social para impulsar el desarrollo y competitividad económica del municipio y su zona de influencia.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Impulsar y desarrollar políticas de capacitación y formación permanente de capital humano y de emprendedores.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+En el ejercicio de estas atribuciones se observarán los criterios de equidad social, productividad y sustentabilidad.
 
 ### Capítulo III. Esquemas de coordinación
 
@@ -574,6 +588,12 @@ XI. Impulsar la innovación en el proceso productivo con la aplicación de las n
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 XII. Fomentar en el ámbito empresarial los procesos de investigación tecnológica para generar activos intangibles, coordinándose con la Secretaría de Innovación, Ciencia y Educación Superior.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Recursos presupuestales
+
+Artículo 25 bis. El titular del Poder Ejecutivo deberá asignar recurso presupuestal para desarrollar acciones que fomenten la competitividad y sustentabilidad de los mercados y centrales de abastos en el Estado.
 
 #### Sección Sexta. Gestión para el financiamiento
 
@@ -926,3 +946,9 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P. O. 5 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 230, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO Y DE LA LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Artículo Único. El presente Decreto entrará en vigor a partir del 1 de enero de 2018.
