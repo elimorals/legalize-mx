@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-de-promocion-turistica-de-101601"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-30"
-last_updated: "2015-01-20"
+last_updated: "2017-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101601&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-06-16"
 
 ESTATUTO ORGÁNICO DEL CONSEJO DE PROMOCIÓN TURÍSTICA DE MÉXICO, S.A. DE C.V.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2017.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de junio de 2014.
 
@@ -83,7 +83,7 @@ X. Ley de Entidades: La Ley Federal de las Entidades Paraestatales;
 
 XI. Ley de Sociedades: La Ley General de Sociedades Mercantiles;
 
-XII. Direcciones Regionales: Las Representaciones del Consejo de Promoción Turística de México, S.A. de C.V. en el Exterior;
+XII. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
 XIII. Reglamento de Turismo: El Reglamento de la Ley Federal de Turismo;
 
@@ -441,9 +441,13 @@ I. Dirección General
 
 I.1. Coordinación Ejecutiva de Relaciones Públicas
 
-> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 2015)</small>
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2015)</small>
 
 I.2. Coordinación de Enlace Interinstitucional
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+I.3. Dirección Ejecutiva de Vinculación con la Industria.
 
 II. Dirección Ejecutiva de Planeación y Evaluación
 
@@ -465,9 +469,11 @@ III.2.2. Coordinación de Ferias y Eventos
 
 IV. Dirección General Adjunta de Administración y Coordinación Internacional
 
-IV.1. Dirección Ejecutiva de Oficinas de Representación
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
-IV.1.1. Coordinación de Evaluación y Proyectos de Oficinas de Representación
+IV.1. Coordinación Ejecutiva de Evaluación y Seguimiento de Oficinas de Representación.
+
+IV.1.1 (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
 IV.2. Dirección Ejecutiva de Administración y Finanzas
 
@@ -481,13 +487,19 @@ Además, el Consejo contará con Direcciones, Direcciones Adjuntas, Gerencias, S
 
 El personal que labora en el Consejo estará sujeto a las disposiciones de la Ley Federal del Trabajo, reglamentaria del apartado “A” del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-### Capítulo II. De las Direcciones Generales Adjuntas, Direcciones Ejecutivas, Coordinaciones y Direcciones Regionales
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+### Capítulo II
+
+De las Direcciones Generales Adjuntas, Direcciones Ejecutivas y Coordinaciones Ejecutivas,
 
 Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 34.
 
-Los Directores Generales Adjuntos, Directores Ejecutivos, Coordinadores y Directores Regionales, independientemente de las facultades y funciones específicas de cada una de las áreas señaladas, tendrán las siguientes de carácter general, en el ámbito de su competencia:
+Los Directores Generales Adjuntos, Directores Ejecutivos, y Coordinadores Ejecutivos independientemente de las facultades y funciones específicas de cada una de las áreas señaladas, tendrán las siguientes de carácter general, en el ámbito de su competencia:
 
 I. Representar al Consejo y, en su caso, al Director General en eventos nacionales o internacionales que coadyuven a la promoción turística de México;
 
@@ -596,6 +608,38 @@ X. Colaborar en la integración del Programa Anual de Trabajo de la Dirección G
 XI. Organizar y controlar el archivo de la Oficina del Director General, y
 
 XII. Las demás que se establezcan en el presente Estatuto o que le señale el Director General.
+
+> <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 35 Ter.
+
+La Dirección Ejecutiva de Vinculación con la Industria tendrá las siguientes facultades:
+
+I. Conducir los Programas Especiales que le asigne la Dirección General y autorizar en coordinación con las unidades administrativas del Consejo las acciones necesarias para su desarrollo ante las Entidades y Dependencias Públicas, y Entidades y organizaciones privadas de la Industria Turística y no Turística;
+
+II. Proponer en coordinación con la Dirección Ejecutiva de Mercadotecnia la campaña nacional de posicionamiento para los Programas Especiales en que se determine su necesidad, en la que se deberá considerar la información disponible relativa al aspecto aspiracional de los segmentos de la población en México con el fin de promover el mercado turístico interno, local y nacional;
+
+III. Establecer acciones de fortalecimiento de las economías locales a través de la promoción de la implementación de esquemas de “cadenas de valor” con la participación de instituciones, dependencias y entidades del sector turístico y vinculado, público y privado y social, nacional, estatal y municipal;
+
+IV. Proponer en coordinación con la Dirección Ejecutiva de Mercadotecnia el contenido de las páginas web, medios impresos y digitales que se utilicen para el posicionamiento de los Programas Especiales;
+
+V. Autorizar los lineamientos para la participación de los prestadores de servicios turísticos en los Programas Especiales;
+
+VI. Colaborar en la realización de estudios e investigaciones de mercado, de conformidad con su ámbito de competencia;
+
+VII. Proponer a la Dirección General la implementación de Acuerdos y realizar acciones de sensibilización con instituciones financieras, públicas o privadas, para que generen productos financieros preferenciales que faciliten al turista nacional la adquisición de paquetes turísticos;
+
+VIII. Evaluar y autorizar, previo acuerdo con la Dirección General, la suscripción de Acuerdos con los sectores público, privado y social para integrar su participación en los Programas Especiales y/o las acciones para el fortalecimiento y desarrollo de la industria y el mercado turísticos locales, establecidos, incipientes y potenciales;
+
+IX. Emitir los informes que se rindan de forma periódica y específica, a la Dirección General del Consejo, al Órgano de Gobierno del Consejo, a la Dependencia Coordinadora de Sector o a cualquiera otra instancia que, respecto de los avances, resultados obtenidos o cualquiera otro aspecto de los Programas Especiales o en el ámbito de su competencia, le sea solicitado;
+
+X. Proponer, en coordinación con la Dirección Ejecutiva de Promoción, la estrategia y los lineamientos para la participación, evaluación y ejecución de Programas Cooperativos dirigidos al mercado nacional;
+
+XI. Acordar con la Dirección General la participación en ferias y eventos turísticos nacionales para promover los programas de su competencia;
+
+XII. Coordinar y vincular a los Estados, Destinos, Socios Comerciales, así como la Industria, Cámaras y Asociaciones Turísticas y no Turísticas, para dar seguimiento a las estrategias establecidas para el cumplimiento de los Programas Especiales; y
+
+XIII. Las demás que se establezcan en el presente Estatuto o que le señale el Director General del Consejo.
 
 ### Capítulo IV. De la Dirección Ejecutiva de Planeación y Evaluación
 
@@ -757,7 +801,7 @@ V. Coordinar el diseño y creatividad para los servicios de mercadotecnia del Co
 
 VI. Colaborar en la determinación de indicadores en materia de Marcas y dar seguimiento a los mismos;
 
-VII. Elaborar y actualizar la guía de uso de la marca “MÉXICO”
+VII. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
 VIII. Proponer las estrategias de promoción digital a fin de apoyar la afluencia turística hacia el país;
 
@@ -791,7 +835,9 @@ II. Conducir, integrar y dar seguimiento a las estrategias de marcas que deberá
 
 III. Formular e implementar procesos y modelos de creatividad temática y de contenidos en materia de Publicidad Institucional;
 
-IV. Implementar en coordinación con Dirección Ejecutiva de Mercadotecnia planes de medios, en apoyo al plan de promoción de México de acuerdo a las necesidades y solicitudes de las áreas del Consejo;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Proponer a la Dirección Ejecutiva de Mercadotecnia materiales para la ejecución de planes de medios, en apoyo al plan de promoción de México de acuerdo a las necesidades y solicitudes de las áreas del Consejo;
 
 V. Informar a las áreas del Consejo los lineamientos que la Secretaría de Gobernación y el Instituto Nacional Electoral de acuerdo al ámbito de su competencia, para su observancia y aplicación en las creatividades que autoricen como parte de las campañas institucionales y cooperativas respectivamente;
 
@@ -799,7 +845,19 @@ VI. Participar en la creación de Estrategias de Medios Nacional e Internacional
 
 VII. Coordinar a las agencias de publicidad y/o los medios tradicionales para implementar campañas institucionales y cooperativas con base en las solicitudes de las áreas responsables, y
 
-VIII. Las demás que se establezcan en el presente Estatuto o que le señale el Director General Adjunto de Mercadotecnia y Promoción.
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. Coordinar la presencia de la marca “MÉXICO” y sus destinos turísticos en eventos de alto impacto publicitario que permita posicionar la marca enfocándose en productos y/o segmentos específicos;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+IX. Elaborar y actualizar la guía de uso de la marca “MÉXICO”;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+X. Coordinar la participación de los sectores público y privado para fortalecer la planeación estratégica de mercadotecnia a través del Comité Estratégico de Mercadotecnia;
+
+XI. Las demás que se establezcan en el presente Estatuto o que le señale el Director General Adjunto de Mercadotecnia y Promoción.
 
 ###### Artículo 41.
 
@@ -807,7 +865,7 @@ La Dirección Ejecutiva de Mercadotecnia dependerá funcionalmente de la Direcci
 
 I. Dirigir, previo acuerdo con el Director General Adjunto de Mercadotecnia y Promoción, las estrategias de mercadotecnia, para lograr el posicionamiento de los diversos productos turísticos en los mercados Nacional e Internacional, a través de medios publicitarios y la ejecución de las campañas de publicidad y de promoción digital;
 
-II. Diseñar las estrategias que promuevan el consumo turístico, considerando como elementos de análisis, la marca “MÉXICO”, el turista, competencia y mercado potencial;
+II. Diseñar las estrategias que promuevan el consumo turístico, considerando como elementos de análisis, la marca "MÉXICO", el turista, competencia y mercado potencial;
 
 III. Establecer líneas de acción que permitan atender los requerimientos de información de los turistas nacionales e internacionales;
 
@@ -831,21 +889,41 @@ XII. Determinar los programas estratégicos de mercado, Marcas y Mercadotecnia, 
 
 XIII. Proporcionar a la Coordinación Ejecutiva de Relaciones Públicas los mecanismos y herramientas necesarios para la difusión de las acciones de Relaciones Públicas en el ámbito de su competencia;
 
-XIV. Dar seguimiento y coadyuvar en la ejecución de los costos de relaciones públicas en coordinación con las unidades administrativas que correspondan;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
-XV. Informar a la Coordinación Ejecutiva de Relaciones Públicas las estrategias y planes de mercadotecnia;
+XIV. Dar seguimiento y coadyuvar en la ejecución de las acciones de relaciones públicas en coordinación con las unidades administrativas que correspondan;
 
-XVI. Dirigir la integración del Programa Anual de Trabajo de la Dirección de Mercadotecnia;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XV. Informar a las unidades administrativas operativas las estrategias y planes de mercadotecnia;
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XVI. Dirigir la integración del Programa Anual de Trabajo de la Dirección Ejecutiva de Mercadotecnia;
 
 XVII. Proponer a la Dirección General Adjunta de Mercadotecnia y Promoción, la estrategia y lineamientos para la ejecución de las campañas de relaciones públicas en los mercados nacional e internacional;
 
-XVIII. Apoyar la conducción de las políticas de información, difusión y comunicación social del Consejo;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Apoyar la conducción de las políticas de información, difusión y comunicación del Consejo;
 
 XIX. Ejecutar los planes y programas estratégicos de Mercadotecnia de los destinos turísticos de México;
 
 XX. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y
 
-XXI. Las demás que se establezcan en el presente Estatuto o que señale el Director General Adjunto de Mercadotecnia y Promoción.
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XXI. Proponer al Director General Adjunto de Mercadotecnia y Promoción los manuales de procedimientos específicos de las unidades administrativas a su cargo;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XXII. Dirigir la integración, a través de las unidades administrativas a su cargo, de información y documentación necesarias para la elaboración de informes o reportes internos y externos;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Supervisar y controlar, en el ámbito de su competencia, la ejecución de los servicios de mercadotecnia para el logro de los objetivos institucionales, y
+
+XXIV. Las demás que se establezcan en el presente Estatuto o que señale el Director General Adjunto de Mercadotecnia y Promoción.
 
 ###### Artículo 42.
 
@@ -887,19 +965,31 @@ XVII. Colaborar en la determinación de indicadores que promuevan la productivid
 
 XVIII. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma, y
 
-XIX. Las demás que se establezcan en el presente Estatuto o que señale el Director General Adjunto de Mercadotecnia y Promoción.
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XIX. Coordinar de manera general el Tianguis Turístico, y
+
+XX. Las demás que se establezcan en el presente Estatuto o que señale el Director General Adjunto de Mercadotecnia y Promoción.
 
 ###### Artículo 43.
 
 La Coordinación de Cooperativos estará adscrita a la Dirección Ejecutiva de Promoción y tendrá las siguientes facultades:
 
-I. Evaluar en conjunto con las Coordinaciones de Mercadotecnia Digital; de Mercadotecnia, y la Dirección Ejecutiva de Oficinas de Representación, el avance programático y presupuestal de los Programas Cooperativos con Destinos y Socios Comerciales;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
-II. Colaborar en la determinación de indicadores en materia de programas cooperativos;
+I. Evaluar en conjunto con las Coordinaciones de Mercadotecnia Digital; de Mercadotecnia, y la Coordinación Ejecutiva de Evaluación y Proyectos de Oficinas de Representación, el avance programático y presupuestal de los Programas Cooperativos con Destinos y Socios Comerciales;
 
-III. Evaluar los planes de medios de los programas cooperativos, sus creatividades, costos y tarifas, volumen de los trabajos, tiempos de transmisión y/o comunicación, así como su impacto, alcance y frecuencia;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
-IV. Supervisar el avance programático y presupuestal de las campañas de publicidad cooperativa, así como de la participación en ferias y eventos e instrumentar los correctivos pertinentes que aseguren su debida ejecución;
+II. Colaborar en la determinación de indicadores en materia de Programas Cooperativos;
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+III. Evaluar los planes de medios de los Programas Cooperativos, sus creatividades, costos y tarifas, volumen de los trabajos, tiempos de transmisión y/o comunicación, así como su impacto, alcance y frecuencia;
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Supervisar el avance programático y presupuestal de las campañas de promoción turística;
 
 V. Colaborar en la determinación de indicadores en el ámbito de su competencia, que promuevan la productividad y eficiencia del Consejo;
 
@@ -907,25 +997,41 @@ VI. Difundir la estrategia y lineamientos para conducir las alianzas con socios;
 
 VII. Conducir, integrar y dar seguimiento a la estrategia de desarrollo con Socios comerciales, que deberán integrarse al Plan de Mercadotecnia;
 
-VIII. Coordinar la estrategia para la integración de nuevos Socios con Estados y Destinos y consolidar los ya existentes;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
-IX. Colaborar en la determinación de indicadores en materia de Desarrollo de Socios, que promuevan la productividad y eficiencia del Consejo;
+VIII. Coordinar la estrategia para la integración de nuevos Socios Comerciales con Estados y Destinos y consolidar los ya existentes;
 
-X. Establecer estrategias con Estados, Destinos y Socios Comerciales para maximizar los recursos a través de programas cooperativos (multipartitos);
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
-XI. Monitorear la promoción turística mediante la implementación de programas cooperativos con Estados, Destinos y Socios;
+IX. Colaborar en la determinación de indicadores en materia de desarrollo de Socios Comerciales, que promuevan la productividad y eficiencia del Consejo.
 
-XII. Desarrollar y reforzar la comunicación y negociación entre el Consejo y los Estados, Destinos y Socios para propiciar una relación de coordinación, y
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
-XIII. Las demás que se establezcan en el presente Estatuto o que le señale el Director Ejecutivo de Promoción.
+X. Establecer estrategias con Estados, Destinos y Socios Comerciales para maximizar los recursos a través de Programas Cooperativos (multipartitos);
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XI. Monitorear la promoción turística mediante la implementación de Programas Cooperativos con Estados, Destinos y Socios Comerciales;
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XII. Desarrollar y reforzar la comunicación y negociación entre el Consejo y los Estados, Destinos y Socios Comerciales para propiciar una relación de coordinación;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XIII. Participar en la coordinación de ferias y eventos nacionales, y
+
+XIV. Las demás que se establezcan en el presente Estatuto o que le señale el Director Ejecutivo de Promoción.
 
 ###### Artículo 44.
 
 La Coordinación de Ferias y Eventos estará adscrita a la Dirección Ejecutiva de Promoción y tendrá las siguientes facultades:
 
-I. Coordinará la participación en Ferias y Eventos Nacionales e Internacionales, que promuevan y fomenten los atractivos y servicios turísticos de México;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
-II. Colaborar en la planeación estratégica, a través de proyectos y propuestas en materia de eventos promocionales y ferias Nacionales e Internacionales;
+I. Coordinar la participación en Ferias y Eventos Nacionales e Internacionales, que promuevan y fomenten los atractivos y servicios turísticos de México;
+
+II. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
 III. Planear y Coordinar la ejecución del Tianguis Turístico;
 
@@ -935,15 +1041,19 @@ V. Coadyuvar en la promoción turística mediante la participación en Ferias y 
 
 VI. Coordinar los proyectos de comercialización de ferias y eventos;
 
-VII. Coordinar activaciones y acciones promocionales de la Marca “MÉXICO” en distintos eventos;
+VII. Coordinar activaciones y acciones promocionales de la Marca "MÉXICO" en distintos eventos;
 
 VIII. Coadyuvar con las Oficinas de representación en el Exterior en la participación del Consejo en eventos promocionales y ferias;
 
 IX. Coordinar activaciones de promoción en mercados emergentes alineados a la estrategia del Consejo;
 
-X. Elaborar el Programa Anual de ferias y eventos que deberá integrarse al Plan de Mercadotecnia;
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
-XI. Establecer los requisitos técnicos para la contratación de los servicios de montaje y desmontaje de los pabellones de México en las ferias y eventos Nacionales e Internacionales;
+X. Elaborar el Programa Anual de ferias que deberá integrarse al Plan de Mercadotecnia;
+
+> <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+XI. Establecer los requisitos técnicos para la contratación de los servicios diseño, habilitación, montaje y desmontaje y acciones complementarias de promoción de los pabellones de México en las ferias y eventos Nacionales e Internacionales;
 
 XII. Establecer mecanismos de trabajo con los Destinos, Estados y Socios Comerciales que permitan la optimización de los recursos por medio de la plataforma que representan los pabellones de México en ferias y eventos promocionales;
 
@@ -1035,89 +1145,63 @@ XXXIII. Las demás que se establezcan en el presente Estatuto o que le señale e
 
 ###### Artículo 46.
 
-La Dirección Ejecutiva de Oficinas de Representación dependerá funcionalmente de la Dirección General Adjunta de Administración y Coordinación Internacional y tendrá las siguientes facultades:
+(DEROGADO, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-I. Desarrollar, proponer e implementar, previo acuerdo con el Director General Adjunto de Administración y Coordinación Internacional, planes, programas, estrategias, lineamientos y actividades de publicidad y promoción que realizará el Consejo por conducto de sus oficinas de representación en el Exterior;
-
-II. Evaluar los programas instrumentados por las Direcciones de las Oficinas de Representación en el Exterior en las diferentes regiones del mundo;
-
-III. Transmitir a las oficinas y directores regionales la cadena de valor de todo el proceso Desarrollar estratégico (sic) del Plan de Mercadotecnia y el Programa de Promoción;
-
-IV. Proponer al Director General Adjunto de Administración y Coordinación Internacional, el establecimiento o modificación de instalaciones, cambios de circunscripción, estructura orgánica y funciones de las Oficinas de Representación en el Exterior;
-
-V. Consolidar, proponer y controlar los presupuestos de las Oficinas de Representación en el Exterior;
-
-VI. Someter a consideración del Director General Adjunto de Administración y Coordinación Internacional, la estrategia de promoción comercial a ejecutar por las oficinas de representación en el exterior y dar seguimiento a la misma;
-
-VII. Validar y proponer, previo acuerdo con la Dirección General Adjunta de Administración y Coordinación Internacional la participación del Consejo en eventos y ferias, planteadas por las Oficinas de Representación;
-
-VIII. Colaborar con la Dirección Ejecutiva de Planeación y Evaluación en la determinación de indicadores en el ámbito de su competencia, que promuevan la productividad y eficiencia del Consejo;
-
-IX. Coordinar a los Directores de las oficinas de representación en el seguimiento a la ejecución de los contratos de relaciones públicas en el ámbito de su competencia;
-
-X. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma;
-
-> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2015)</small>
-
-XI. Elaborar indicadores, estrategias y seguimiento en materia de Turismo de Reuniones;
-
-> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2015)</small>
-
-XII. Establecer, previo acuerdo con el Director General Adjunto de Administración y Coordinación Internacional la estrategia para la promoción de las actividades relacionadas con el turismo de reuniones de manera conjunta con los sectores público y privado;
-
-> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2015)</small>
-
-XIII. Evaluar y dar seguimiento a las estrategias de Turismo de Reuniones que deberán integrarse al Plan de Mercadotecnia;
-
-> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2015)</small>
-
-XIV. Alinear esfuerzos y estrategias que se realicen con Destinos y Socios para promover el turismo de reuniones;
-
-> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2015)</small>
-
-XV. Proponer las negociaciones y alianzas estratégicas en materia de turismo de reuniones, con las asociaciones gremiales nacionales e internacionales;
-
-> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2015)</small>
-
-XVI. Apoyar la postulación de México como sede de Congresos y Eventos Internacionales;
-
-> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2015)</small>
-
-XVII. Elaborar los indicadores en materia de Turismo de Reuniones, que promuevan la productividad y eficiencia del Consejo;
-
-> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2015)</small>
-
-XVIII. Detectar y aprovechar oportunidades para posicionar a México dentro de la industria de reuniones a nivel global;
-
-XIX. Determinar y proponer nuevos proyectos en las Oficinas de Representación, con base en las condiciones específicas de los mercados;
-
-XX. Dar seguimiento a las estrategias de carácter regional alineadas al Plan de Mercadotecnia y el Programa de Promoción, y
-
-XXI. Las demás que se establezcan en el presente Estatuto o que le señale el Director General o Director General Adjunto de Administración y Coordinación Internacional.
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 47.
 
-La Coordinación de Evaluación y Proyectos de Oficinas de Representación estará adscrita a la Dirección Ejecutiva de Oficinas de Representación y tendrá las siguientes facultades:
+La Coordinación Ejecutiva de Evaluación y Seguimiento de Oficinas de Representación dependerá funcionalmente de la Dirección General Adjunta de Administración y Coordinación Internacional y tendrá las siguientes facultades:
 
-I. Coordinar la implementación de los planes, programas, estrategias, lineamientos y actividades de publicidad y promoción que realizará el Consejo por conducto de sus oficinas de representación en el Exterior;
+I. Representar legalmente al Consejo en los términos de los poderes generales que le otorgue el Director General;
 
-II. Coordinar las Oficinas de Representación en el Exterior, conforme a la normatividad y la estrategia aprobada por la Junta de Gobierno y la Dirección Ejecutiva de Oficinas de Representación;
+II. Fungir como enlace entre las unidades administrativas centrales y las agencias que contrate el Consejo para el desarrollo de sus actividades sustantivas;
 
-III. Coordinar, dar seguimiento a los programas instrumentados por las Direcciones de las Oficinas de Representación en el Exterior en las diferentes regiones del mundo;
+III. Proponer alianzas estratégicas con entidades del sector público y privado;
 
-IV. Supervisar y capacitar a las Oficinas de Representación en el Exterior, considerando los lineamientos del Plan de Mercadotecnia y el Programa de Promoción en sus diferentes líneas estratégicas y herramientas de promoción;
+IV. Celebrar en representación del Consejo, con la participación de las unidades administrativas que corresponda, contratos y convenios para la operación de programas de promoción turística;
 
-V. Coordinar las acciones orientadas a fomentar que las oficinas y directores regionales operen con apego a la cadena de valor de proceso estratégico del Plan de Mercadotecnia y el Programa de Promoción;
+V. Desarrollar, proponer e implementar, previo acuerdo con el Director General Adjunto de Administración y Coordinación Internacional, planes, programas, estrategias, lineamientos y actividades de publicidad y promoción que realizará el Consejo por conducto de sus Oficinas de Representación en el Exterior;
 
-VI. Colaborar con las unidades administrativas que correspondan en la determinación de los requerimientos técnicos de los servicios de mercadotecnia en el ámbito de su competencia;
+VI. Evaluar y coordinar los programas instrumentados por las Direcciones de las Oficinas de Representación en el Exterior en las diferentes regiones del mundo;
 
-VII. Contribuir en la determinación de indicadores en el ámbito de su competencia, que promuevan la productividad y eficiencia del Consejo
+VII. Transmitir y supervisar a las oficinas en la cadena de valor de todo el proceso de desarrollo estratégico del Plan de Mercadotecnia y del Programa de Promoción;
 
-VIII. Determinar y proponer al Director Ejecutivo de Oficinas de Representación, con base en las condiciones específicas de los mercados de jurisdicción de las Oficinas de Representación, la realización de nuevos proyectos de promoción turística;
+VIII. Proponer al Director General Adjunto de Administración y Coordinación Internacional, el establecimiento o modificación de instalaciones, cambios de circunscripción, estructura orgánica y funciones de las Oficinas de Representación en el Exterior;
 
-IX. Evaluar y dar seguimiento a las acciones de promoción turística en los mercados regionales alineadas al Plan de Mercadotecnia del Consejo que determine el Director Ejecutivo de Oficinas de Representación, y
+IX. Consolidar, proponer y supervisar los presupuestos de las Oficinas de Representación en el Exterior;
 
-X. Las demás que se establezcan en el presente Estatuto o que le señale el Director Ejecutivo de Oficinas de Representación.
+X. Someter a consideración del Director General Adjunto de Administración y Coordinación Internacional, la estrategia de promoción comercial a ejecutar por las Oficinas de Representación en el exterior y dar seguimiento a la misma;
+
+XI. Validar y proponer, previo acuerdo con la Dirección General Adjunta de Administración y Coordinación Internacional la participación del Consejo en eventos y ferias, planteadas por las Oficinas de Representación;
+
+XII. Colaborar con la Dirección Ejecutiva de Planeación y Evaluación en la determinación de indicadores en el ámbito de su competencia, que promuevan la productividad y eficiencia del Consejo;
+
+XIII. Coordinar a los Directores de las oficinas de representación en el seguimiento a la ejecución de los contratos de relaciones públicas en el ámbito de su competencia;
+
+XIV. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma;
+
+XV. Supervisar y dar seguimiento a los indicadores y estrategias elaborados por la Dirección de Turismo de Reuniones;
+
+XVI. Establecer, previo acuerdo con el Director General Adjunto de Administración y Coordinación Internacional la estrategia para la promoción de las actividades relacionadas con el turismo de reuniones de manera conjunta con los sectores público y privado;
+
+XVII. Supervisar y dar seguimiento a las estrategias de Turismo de Reuniones que deberán integrarse al Plan de Mercadotecnia;
+
+XVIII. Alinear esfuerzos y estrategias que se realicen con Destinos y Socios para promover el turismo de reuniones;
+
+XIX. Proponer las negociaciones y alianzas estratégicas en materia de turismo de reuniones, con las asociaciones gremiales nacionales e internacionales;
+
+XX. Apoyar la postulación de México como sede de Congresos y Eventos Internacionales a través de la Dirección de Turismo de Reuniones;
+
+XXI. Elaborar, a través de la Dirección de Turismo de Reuniones, los indicadores en la materia que promuevan la productividad y eficiencia del Consejo;
+
+XXII. Detectar y aprovechar oportunidades para posicionar a México dentro de la industria de reuniones a nivel global;
+
+XXIII. Determinar y proponer nuevos proyectos en las Oficinas de Representación, con base en las condiciones específicas de los mercados;
+
+XXIV. Dar seguimiento a las estrategias de carácter regional alineadas al Plan de Mercadotecnia y el Programa de Promoción, y
+
+XXV. Las demás que se establezcan en el presente Estatuto o que le señale el Director General o Director General Adjunto de Administración y Coordinación Internacional.
 
 ###### Artículo 48.
 
@@ -1305,47 +1389,51 @@ XXIII. Certificar documentos existentes en los archivos de la unidad administrat
 
 XXIV. Las demás que se establezcan en el presente Estatuto o que le señale el Director General.
 
-### Capítulo VIII. De las Direcciones Regionales
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE DICIEMBRE DE 2017)</small>
+
+### Capítulo VIII
+
+Del personal adscrito a las Oficinas de Representación en el Exterior y del Titular de la Coordinación Ejecutiva de Evaluación y Seguimiento de Oficinas de Representación
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 51.
 
-Las Direcciones Regionales estarán adscritas a la Dirección Ejecutiva de Oficinas de Representación y tendrá las siguientes facultades:
+Las Oficinas de Representación en el Exterior estarán adscritas a la Coordinación Ejecutiva de Evaluación y Seguimiento de Oficinas de Representación.
 
-I. Representar legalmente al Consejo en los términos de los poderes generales que le otorgue el Director General;
+I. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-II. Recomendar en el ámbito de su competencia, el establecimiento o modificación de instalaciones, cambios de circunscripción, estructura orgánica y funciones;
+II. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-III. Fungir como enlace entre las unidades administrativas centrales y las agencias que contrate el Consejo para el desarrollo de sus actividades sustantivas;
+III. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-IV. Establecer las prioridades regionales y crear sinergias entre las Oficinas de Representación en el exterior de su circunscripción;
+IV. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-V. Participar en la realización de estudios e investigaciones de mercado y solicitar autorización para su elaboración a la Dirección Ejecutiva de Planeación y Evaluación;
+V. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-VI. Coordinar, en el ámbito de su competencia, la operación de las Oficinas de representación en el Exterior;
+VI. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-VII. Proponer alianzas estratégicas con entidades del sector público y privado;
+VII. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-VIII. Celebrar en representación del Consejo, con la participación de las unidades administrativas que corresponda, contratos y convenios para la operación de programas de promoción turística;
+VIII. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-IX. Coordinar, dirigir, aprobar y supervisar los planes, y programas de las Oficinas de Representación en el exterior a su cargo;
+IX. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-X. Evaluar el Plan de mercados de su cobertura, incluido en el Plan de Mercadotecnia;
+X. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-XI. Certificar documentos existentes en los archivos de la unidad administrativa a su cargo, cuando los mismos se refieran al despacho de asuntos competencia de la misma;
+XI. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-XII. Dar seguimiento a la ejecución de los contratos de relaciones públicas en coordinación con el Director Ejecutivo de Oficinas de Representación, y
+XII. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2015)</small>
+XIII. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-XIII. Coordinar la implementación de las estrategias para la promoción de las actividades relacionadas con el turismo de reuniones, y
+XIV. (DEROGADA, D.O.F. 5 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2015)</small>
-
-XIV. Las demás que se establezcan en el presente Estatuto o que le señale el Director General, Director General Adjunto de Administración y Coordinación Internacional y Director Ejecutivo de Oficinas de Representación;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 52.
 
-Todo el personal adscrito a las Direcciones Regionales, incluyendo a las Direcciones de las Oficinas de Representación en el Exterior, tendrá el carácter de personal asimilado al Servicio Exterior Mexicano, conforme al artículo 8 de la Ley del Servicio Exterior Mexicano.
+El personal adscrito a las Oficinas de Representación en el Exterior y el Titular de la Coordinación Ejecutiva de Evaluación y Seguimiento de Oficinas de Representación, tendrán el carácter de personal asimilado al Servicio Exterior Mexicano, conforme al artículo 8 de la Ley del Servicio Exterior Mexicano.
 
 El Consejo vigilará que la adscripción en el extranjero del personal referido en el párrafo anterior, se ajuste a una rotación programada, asegurándose que, sin excepción, ningún miembro de éstas permanezca en la misma sede más de ocho años continuos
 
@@ -1426,5 +1514,11 @@ México, Distrito Federal, a los 16 días del mes de junio de dos mil catorce.- 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 20 DE ENERO DE 2015.
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL CONSEJO DE PROMOCIÓN TURÍSTICA DE MÉXICO, S.A. DE C.V.”.]
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
