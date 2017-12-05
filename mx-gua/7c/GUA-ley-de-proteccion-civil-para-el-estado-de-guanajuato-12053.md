@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-proteccion-civil-para-el-estado-de-guanajuato-12053"
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-24"
-last_updated: "2016-07-01"
+last_updated: "2017-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el 24 de octubre de 1997.
 
@@ -60,6 +62,10 @@ V.- Las bases para promover y garantizar la participación social en materia de 
 VI.- Las bases para la coordinación entre las autoridades estatales y municipales, así como con los organismos en materia de protección civil; y
 
 VII.- Las normas y principios para fomentar la cultura de protección civil y autoprotección en los habitantes del Estado.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Las bases para la difusión permanente de la gestión integral de riesgos en el Estado.
 
 ###### Artículo 2o.
 
@@ -134,6 +140,10 @@ XXXII.- Atlas de riesgos: Sistema de información geográfica actualizado que pe
 XXXIII.- Riesgo: Es el producto de la amenaza y la vulnerabilidad, indica el grado de probabilidad de pérdidas de vidas, personas heridas, propiedad dañada y actividad económica detenida durante un período de referencia en una región dada para un peligro en particular; y
 
 XXXIV.- Instrumentos de la protección civil: Se refiere a toda aquella información contenida en materiales empleados para la planeación y operación de la protección civil en el Estado.
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXXV.- Gestión Integral de Riesgos: el conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, que involucra al Estado y los municipios, así como a los sectores de la sociedad, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Involucra las etapas de: identificación de los riesgos y su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES EN MATERIA DE PROTECCION CIVIL
 
@@ -227,7 +237,9 @@ IV.- Promover la capacitación de los habitantes en materia de protección civil
 
 V.- Proporcionar información y asesoría a las asociaciones de habitantes para elaborar programas específicos e integrar unidades internas de protección civil, a fin de realizar acciones de prevención y auxilio en las colonias, barrios y unidades habitacionales; y
 
-VI.- Aplicar las disposiciones de esta Ley e instrumentar sus programas en coordinación con el sistema y la unidad estatal y municipal de protección civil.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI.- Aplicar las disposiciones de esta Ley e instrumentar sus programas en coordinación con el sistema y la coordinación estatal y municipal de protección civil.
 
 ### CAPITULO TERCERO. DE LA POLITICA DE PROTECCION CIVIL
 
@@ -275,7 +287,9 @@ II.- Establecer, fomentar y encauzar una nueva actitud, conciencia y cultura de 
 
 III.- Integrar la acción del Estado y los municipios, para organizar y mejorar su capacidad de respuesta ante siniestros y desastres; y
 
-IV.- Fortalecer y ampliar los medios de participación de la comunidad para mejorar las funciones de protección civil.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV.- Fortalecer y ampliar los medios de participación de la comunidad para mejorar las funciones de Protección Civil, a través de la Gestión Integral de Riesgos.
 
 ###### Artículo 11.
 
@@ -283,7 +297,9 @@ El sistema estatal de protección civil estará integrado por:
 
 I.- El consejo estatal de protección civil;
 
-II.- La unidad estatal de protección civil;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II.- La coordinación estatal de protección civil;
 
 III.- Los grupos voluntarios, los representantes de los sectores social y privado, instituciones educativas y expertos en diferentes áreas;
 
@@ -321,21 +337,29 @@ El consejo estatal de protección civil es el órgano consultivo, de coordinaci�
 
 El consejo estatal de protección civil estará integrado por:
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-I.- Un ciudadano, designado por el Gobernador quien fungirá como Presidente;
+I.- Un ciudadano, designado por el Gobernador, quien fungirá como Presidente, mismo que deberá de tener amplio conocimiento en materia de Protección Civil;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 II.- Un secretario ejecutivo, que será el Secretario de Seguridad Pública;
 
-III.- Un secretario técnico, que será el titular de la unidad estatal de protección civil;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IV.- Un vocal, que será el diputado presidente de la comisión de seguridad pública y comunicaciones del Congreso del Estado; y
+III.- Un secretario técnico, que será el titular de la coordinación estatal de protección civil;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV.- Un vocal, que será un diputado integrante de la Comisión de Seguridad Pública y Comunicaciones del Congreso del Estado; y
 
 V.- Los titulares o representantes de las dependencias y entidades de la administración pública estatal en su calidad de consejeros, cuya área de competencia corresponda a los objetivos del sistema estatal de protección civil.
 
 De igual manera formarán parte como invitados permanentes, los titulares de las dependencias de la federación comisionados en el Estado y cuyas funciones se relacionen con las acciones de protección civil; los titulares de las unidades municipales de protección civil, los representantes de organizaciones sociales, privadas e instituciones académicas en el Estado, y los grupos voluntarios, previa convocatoria que para ese efecto, realice el presidente del consejo estatal o el secretario técnico, en su caso.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Estos cargos serán honoríficos, por lo que, quienes integran el Consejo Estatal de Protección Civil no recibirán retribución o emolumento alguno.
 
 ###### Artículo 15.
 
@@ -371,9 +395,23 @@ XIV.- Participar en forma coordinada con las dependencias federales y con las in
 
 XV.- Vigilar la adecuada aplicación de los recursos que se asignen al sistema estatal;
 
-XVI.- Formular, aprobar y modificar el reglamento interior para la organización y funcionamiento del propio consejo y proponer el que corresponda a la unidad estatal de protección civil; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XVII.- Las demás que se señalen en la presente Ley, su reglamento y las que le atribuyan otros ordenamientos.
+XVI.- Formular, aprobar y modificar el reglamento interior para la organización y funcionamiento del propio consejo y proponer el que corresponda a la coordinación estatal de protección civil;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVII.- Dar cumplimiento al Programa Estatal de Protección Civil;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVIII.- Fomentar acciones tendientes para la adaptación de los efectos del cambio climático;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIX.- Fortalecer la preparación en caso de emergencia para que de forma coordinada y eficaz se responda ante la eventualidad de desastres; y
+
+XX.- Las demás que se señalen en la presente Ley, su reglamento y las que le atribuyan otros ordenamientos.
 
 ###### Artículo 16.
 
@@ -459,19 +497,27 @@ IX.- Administrar los recursos humanos, materiales y financieros del consejo;
 
 X.- Informar oportunamente al secretario ejecutivo del consejo el cumplimiento de sus funciones y actividades realizadas; y
 
-XI.- Las demás funciones que le confieran el reglamento interno, los acuerdos del consejo, el presidente o el secretario ejecutivo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO TERCERO. DE LA UNIDAD ESTATAL DE PROTECCION CIVIL
+XI.- Suplir al secretario ejecutivo en sus ausencias; y
+
+XII.- Las demás funciones que le confieran el reglamento interno, los acuerdos del consejo, el presidente o el secretario ejecutivo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO TERCERO. DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 22.
 
-La unidad estatal de protección civil, es responsable de elaborar, instrumentar y dirigir la ejecución de los programas de protección civil en el Estado, coordinando sus acciones con las dependencias y entidades del sector público; instituciones y organismos de los sectores social, privado y académico, así como con los grupos voluntarios y la población en general.
+La coordinación estatal de protección civil, es responsable de elaborar, instrumentar y dirigir la ejecución de los programas de protección civil en el Estado, coordinando sus acciones con las dependencias y entidades del sector público; instituciones y organismos de los sectores social, privado y académico, así como con los grupos voluntarios y la población en general.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 23.
 
-La unidad estatal de protección civil estará integrada por un director y el personal de apoyo que su propia estructura funcional requiera; dependerá administrativamente del Secretario de Seguridad Pública y para el desempeño de sus funciones se constituirá por:
+La coordinación estatal de protección civil estará integrada por un director y el personal de apoyo que su propia estructura funcional requiera; dependerá administrativamente del Secretario de Seguridad Pública y para el desempeño de sus funciones se constituirá por:
 
 I.- Un órgano central de administración;
 
@@ -481,15 +527,19 @@ III.- Bases regionales que se establezcan conforme al programa estatal de protec
 
 El reglamento interior de la Secretaría, determinará su estructura orgánica, atribuciones específicas y procedimientos de operación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 24.
 
-Compete a la unidad estatal de protección civil, ejecutar las acciones de prevención, auxilio y recuperación o restablecimiento, conforme a los reglamentos, programas y acuerdos que autorice el consejo estatal, desarrollando las siguientes funciones:
+Compete a la coordinación estatal de protección civil, ejecutar las acciones de prevención, auxilio y recuperación o restablecimiento, conforme a los reglamentos, programas y acuerdos que autorice el consejo estatal, desarrollando las siguientes funciones:
 
 I.- Elaborar el proyecto de programa estatal de protección civil y presentarlo a consideración del consejo estatal y, en su caso, las propuestas para su modificación;
 
 II.- Elaborar el proyecto del programa operativo anual y presentarlo al consejo estatal para su autorización;
 
-III.- Identificar los riesgos que se presentan en la Entidad integrando el atlas de riesgos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III.- Identificar los riesgos que se presentan en la Entidad integrando el atlas de riesgo mismo que deberá actualizarse anualmente;
 
 IV.- Establecer y ejecutar los subprogramas básicos de prevención, auxilio y recuperación o restablecimiento;
 
@@ -523,27 +573,47 @@ XVIII.- Practicar inspecciones, a fin de vigilar el cumplimiento de las disposic
 
 XIX.- Elaborar los peritajes de causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil; y
 
-XX.- Las demás que le asigne el reglamento interior de la Secretaría o el consejo estatal.
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIX bis.- Asesorar a los municipios que lo soliciten, en la actualización y aplicación de sus atlas de riesgo;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XX.- Coordinarse con el Instituto de Ecología y con la Secretaría de Sa ud (sic) para desarrollar acciones y programas dirigidos a la población para el uso consciente de la pirotecnia en el Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXI.- Elaborar y ejecutar en coordinación con las autoridades correspondientes, la incorporación y ampliación de contenidos en materia de protección civil con un enfoque de cultura de prevención, en el Sistema Educativo del Estado desde el nivel básico y medio superior; y
+
+XXII.- Las demás que le asigne el reglamento interior de la Secretaría o el consejo estatal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 25.
 
-Corresponde al titular de la unidad de protección civil:
+Corresponde al titular de la coordinación de protección civil:
 
-I.- Coordinar, supervisar y evaluar todas las acciones que se realicen en el desarrollo de las funciones de la unidad estatal;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I- Coordinar, supervisar y evaluar todas las acciones que se realicen en el desarrollo de las funciones de la coordinación estatal;
 
 II.- Ejecutar las acciones previstas en el programa operativo anual del consejo estatal de protección civil;
 
 III.- Apoyar al Ministerio Público en materia de protección civil;
 
-IV.- Coordinar las acciones de la unidad estatal con las dependencias y unidades federales y municipales;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV.- Coordinar las acciones de la coordinación estatal con las dependencias y unidades federales y municipales;
 
 V.- Ordenar la práctica de verificaciones en la forma y términos que establece esta Ley; y
 
 VI.- Las demás que le confieran esta Ley, su reglamento y otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 26.
 
-La unidad estatal de protección civil, administrará las instalaciones, equipo y materiales necesarios para su eficaz funcionamiento, los cuales serán proporcionados por el Ejecutivo del Estado, por dependencias o personas físicas o morales, a través de los contratos y convenios que celebre para su adquisición o uso.
+La coordinación estatal de protección civil, administrará las instalaciones, equipo y materiales necesarios para su eficaz funcionamiento, los cuales serán proporcionados por el Ejecutivo del Estado, por dependencias o personas físicas o morales, a través de los contratos y convenios que celebre para su adquisición o uso.
 
 ### CAPITULO CUARTO. DE LA PARTICIPACION SOCIAL
 
@@ -595,31 +665,43 @@ IV.- Sanidad y salud; y
 
 V.- Rescate y otros.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 32.
 
-El registro de grupos voluntarios se verificará ante la unidad estatal o municipal de protección civil que corresponda, conforme a las categorías descritas en los artículos 30 y 31 de esta Ley y en los términos que establezca el reglamento respectivo.
+El registro de grupos voluntarios se verificará ante la coordinación estatal o municipal de protección civil que corresponda, conforme a las categorías descritas en los artículos 30 y 31 de esta Ley y en los términos que establezca el reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 33.
 
-Las personas que deseen desempeñar labores de rescate y auxilio, deberán constituirse en grupos voluntarios debidamente organizados conforme a las disposiciones establecidas en esta Ley o integrarse a un grupo ya existente, a fin de recibir información y participar en los programas de capacitación que realiza en forma coordinada la unidad de protección civil que corresponda.
+· Las personas que deseen desempeñar labores de rescate y auxilio, deberán constituirse en grupos voluntarios debidamente organizados conforme a las disposiciones establecidas en esta Ley o integrarse a un grupo ya existente, a fin de recibir información y participar en los programas de capacitación que realiza en forma coordinada la coordinación de protección civil que corresponda.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 34.
 
-La unidad estatal o municipal de protección civil expedirá un certificado en el que se asentará el número de registro, nombre del grupo voluntario, actividades a las que se dedica y domicilio. El registro deberá revalidarse anualmente.
+La coordinación estatal o municipal de protección civil expedirá un certificado en el que se asentará el número de registro, nombre del grupo voluntario, actividades a las que se dedica y domicilio. El registro deberá revalidarse anualmente.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 35.
 
-Al obtener su registro de grupos voluntarios de protección civil, podrán celebrar con la unidad estatal o municipal, convenios en los que se establecerán los apoyos y estímulos que otorgará la propia unidad para facilitar el cumplimiento de los fines constitutivos del grupo voluntario y las obligaciones que éste asuma para coadyuvar en el propósito de proteger a la población frente a riesgos, siniestros o desastres.
+Al obtener su registro de grupos voluntarios de protección civil, podrán celebrar con la coordinación estatal o municipal, convenios en los que se establecerán los apoyos y estímulos que otorgará la propia coordinación para facilitar el cumplimiento de los fines constitutivos del grupo voluntario y las obligaciones que éste asuma para coadyuvar en el propósito de proteger a la población frente a riesgos, siniestros o desastres.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 36.
 
-Los grupos voluntarios con registro están facultados para actuar como verificadores honorarios de la unidad estatal o municipal, conforme a lo establecido en el reglamento respectivo.
+Los grupos voluntarios con registro están facultados para actuar como verificadores honorarios de la coordinación estatal o municipal, conforme a lo establecido en el reglamento respectivo.
 
 ###### Artículo 37.
 
 Corresponde a los grupos voluntarios:
 
-I.- Coordinarse con la unidad estatal o municipal de protección civil para colaborar en las tareas de prevención, auxilio y rescate a la población en casos de siniestro o desastre;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I.- Coordinarse con la coordinación estatal o municipal de protección civil para colaborar en las tareas de prevención, auxilio y rescate a la población en casos de siniestro o desastre;
 
 II.- Participar en la difusión de campañas, planes, estrategias y actividades de protección civil, así como en los programas de capacitación hacia lo interno y con la población para que pueda autoprotegerse en caso de desastre;
 
@@ -629,7 +711,9 @@ IV.- Portar la identificación que autorice la unidad de protección civil sobre
 
 V.- Integrarse al centro estatal de operaciones, cuando se instale y se ordene la activación del mismo, a través de su representante;
 
-VI.- Realizar actividades de monitoreo, pronóstico y aviso a la unidad estatal de protección civil, sobre la presencia de cualquier situación de probable riesgo o inminente peligro para la población, así como la presencia de cualquier calamidad;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI.- Realizar actividades de monitoreo, pronóstico y aviso a la coordinación estatal de protección civil, sobre la presencia de cualquier situación de probable riesgo o inminente peligro para la población, así como la presencia de cualquier calamidad;
 
 VII.- Participar en todas aquellas actividades que estén en posibilidad de desarrollar dentro de los subprogramas de prevención y auxilio establecidos por el programa estatal de protección civil; y
 
@@ -661,7 +745,9 @@ IV.- El centro municipal de operaciones.
 
 El consejo municipal de protección civil estudiará la forma para prevenir los desastres y, en su caso, resarcir los daños en cada una de sus localidades.
 
-En caso de detectar un riesgo cuya magnitud pudiera rebasar sus propias posibilidades de respuesta, deberán hacerlo del conocimiento de la unidad estatal de protección civil, con objeto de que se estudie la situación y se propongan medidas preventivas que puedan aplicarse con aprobación del gobierno municipal.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+En caso de detectar un riesgo cuya magnitud pudiera rebasar sus propias posibilidades de respuesta, deberán hacerlo del conocimiento de la coordinación estatal de protección civil, con objeto de que se estudie la situación y se propongan medidas preventivas que puedan aplicarse con aprobación del gobierno municipal.
 
 ###### Artículo 42.
 
@@ -683,27 +769,31 @@ c) Las autoridades municipales auxiliares, a invitación del presidente municipa
 
 d) Los representantes de los cuerpos de apoyo y clubes de servicio, y personas que estén en condiciones de coadyuvar con los objetivos del sistema municipal, cuya participación dentro de este órgano, será coordinada por el presidente del consejo municipal.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 43.
 
 Para el cumplimiento de sus fines, el consejo municipal tendrá las siguientes atribuciones:
 
 I.- Crear y establecer los órganos o mecanismos que promuevan o aseguren la capacitación de la comunidad, especialmente a través de la formación del voluntariado de protección civil;
 
-II.- Fungir como órgano de consulta y promoción de la participación en la planeación y coordinación de las tareas de los sectores público, social y privado en materia de prevención, auxilio y restablecimiento, ante la eventualidad de algún siniestro o desastre dentro de su competencia territorial;
+II.- Supervisar la actualización del Atlas Municipal de Riesgo;
 
-III.- Constituirse en sesión permanente en el caso de producirse un siniestro o desastre a fin de verificar la realización de las acciones que procedan;
+III.- Fungir como órgano de consulta y promoción de la participación en la planeación y coordinación de las tareas de los sectores público, social y privado en materia de prevención, auxilio y restablecimiento, ante la eventualidad de algún siniestro o desastre dentro de su competencia territorial;
 
-IV.- Promover la investigación y capacitación en materia de protección civil, identificando sus problemas y tendencias particulares, estableciendo programas y acciones que permitan su solución;
+IV.- Constituirse en sesión permanente en el caso de producirse un siniestro o desastre a fin de verificar la realización de las acciones que procedan;
 
-V.- Celebrar convenios con la unidad estatal de protección civil, a fin de integrar, reglamentar y regular los cuerpos de bomberos, los servicios de atención prehospitalaria y coordinar a los grupos voluntarios de los municipios;
+V.- Promover la investigación y capacitación en materia de protección civil, identificando sus problemas y tendencias particulares, estableciendo programas y acciones que permitan su solución;
 
-VI.- Coordinar sus acciones con los sistemas nacional y estatal de protección civil;
+VI.- Celebrar convenios con la coordinación estatal de protección civil, a fin de integrar, reglamentar y regular los cuerpos de bomberos, los servicios de atención prehospitalaria y coordinar a los grupos voluntarios de los municipios;
 
-VII.- Promover la cultura de protección civil, organizando y desarrollando acciones de actualización y capacitación a la sociedad, en coordinación con las autoridades correspondientes;
+VII.- Coordinar sus acciones con los sistemas nacional y estatal de protección civil;
 
-VIII.- Coordinar a los grupos voluntarios conforme a la normatividad que se emita en su reglamento; y
+VIII.- Promover la cultura de protección civil, organizando y desarrollando acciones de actualización y capacitación a la sociedad, en coordinación con las autoridades correspondientes;
 
-IX.- Las demás que le asigne esta Ley y demás ordenamientos jurídicos aplicables, el consejo, su presidente o su secretario ejecutivo.
+IX.- Coordinar a los grupos voluntarios conforme a la normatividad que se emita en su reglamento; y
+
+X.- Las demás que le asigne esta Ley y demás ordenamientos jurídicos aplicables, el consejo, su presidente o su secretario ejecutivo.
 
 ###### Artículo 44.
 
@@ -729,21 +819,27 @@ Las empresas industriales, comerciales y de servicio, contarán con un sistema d
 
 Asimismo, implementarán un programa permanente de señalización e instructivos para el caso de emergencia o desastre.
 
-Estas empresas están obligadas a colaborar con la unidad estatal y las unidades municipales, para integrar las normas propias de seguridad industrial y laboral que aplique a sus operaciones, con las normas generales de protección civil aplicables en su localidad.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Estas empresas están obligadas a colaborar con la coordinación estatal y las unidades municipales, para integrar las normas propias de seguridad industrial y laboral que aplique a sus operaciones, con las normas generales de protección civil aplicables en su localidad.
 
 ###### Artículo 48.
 
 Es obligación de las empresas, ya sean industriales, comerciales o de servicios, capacitar a su personal en materia de protección civil e implementar la unidad interna en los casos en que esta Ley lo determine, para que atienda las demandas propias en materia de prevención y atención de riesgos.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 49.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de edificaciones que por su uso y destino reciban una afluencia masiva de personas, están obligados a elaborar un programa específico de protección civil, contando para ello con la asesoría técnica de la unidad estatal o municipal, en su caso.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de edificaciones que por su uso y destino reciban una afluencia masiva de personas, están obligados a elaborar un programa específico de protección civil, contando para ello con la asesoría técnica de la coordinación estatal o municipal, en su caso.
 
-La unidad estatal o municipal de protección civil, en su caso, podrá señalar quien, de las personas indicadas en el párrafo anterior, deberán cumplir con la preparación y aplicación del programa específico.
+La coordinación estatal o municipal de protección civil, en su caso, podrá señalar quien, de las personas indicadas en el párrafo anterior, deberán cumplir con la preparación y aplicación del programa específico.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 50.
 
-La unidad estatal y las unidades municipales de protección civil, asesorarán gratuitamente a las empresas, asociaciones, organismos y entidades de los sectores privado y social, para integrar sus unidades internas u organizar grupos voluntarios, atendiendo a la distribución de actividades que se defina en el reglamento de la unidad estatal de protección civil y los acuerdos que celebre el Ejecutivo Estatal con los ayuntamientos.
+La coordinación estatal y las unidades municipales de protección civil, asesorarán gratuitamente a las empresas, asociaciones, organismos y entidades de los sectores privado y social, para integrar sus unidades internas u organizar grupos voluntarios, atendiendo a la distribución de actividades que se defina en el reglamento de la coordinación estatal de protección civil y los acuerdos que celebre el Ejecutivo Estatal con los ayuntamientos.
 
 ### CAPITULO SEGUNDO. DE LA CAPACITACION A LA POBLACION
 
@@ -775,9 +871,11 @@ Los espacios oficiales en los medios de difusión, podrán ser utilizados, previ
 
 ### CAPITULO TERCERO. DE LA QUEJA CIVIL
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 56.
 
-Toda persona deberá denunciar ante la unidad estatal o municipal de protección civil, todo hecho, acto u omisión que cause o pueda causar situaciones de riesgo o de alto riesgo.
+Toda persona deberá denunciar ante la coordinación estatal o municipal de protección civil, todo hecho, acto u omisión que cause o pueda causar situaciones de riesgo o de alto riesgo.
 
 ###### Artículo 57.
 
@@ -825,9 +923,11 @@ Los sistemas municipales contarán con su programa en los mismos términos y ser
 
 Tanto el programa estatal como los municipales se ajustarán a los lineamientos que establece esta Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 66.
 
-La unidad estatal de protección civil formulará el proyecto de programa estatal y lo someterá a consideración del consejo. Una vez aprobado, el Titular del Poder Ejecutivo del Estado ordenará su publicación en el Periódico Oficial del Gobierno del Estado.
+La coordinación estatal de protección civil formulará el proyecto de programa estatal y lo someterá a consideración del consejo Una vez aprobado, el Titular del Poder Ejecutivo del Estado ordenará su publicación en el Periódico Oficial del Gobierno del Estado.
 
 En el caso de que se identifiquen riesgos específicos que puedan afectar de manera grave a la población, se podrán elaborar programas especiales de protección civil.
 
@@ -943,9 +1043,11 @@ IV.- Las suspensiones o restricciones de actividades públicas y privadas que as
 
 V.- Las instrucciones dirigidas a la población, de acuerdo al programa estatal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 80.
 
-Cuando la gravedad del siniestro lo requiera, el titular de la unidad estatal de protección civil solicitará al Titular del Poder Ejecutivo del Estado, el auxilio de las dependencias y entidades de la administración pública estatal.
+Cuando la gravedad del siniestro lo requiera, el titular de la coordinación estatal de protección civil solicitará al Titular del Poder Ejecutivo del Estado, el auxilio de las dependencias y entidades de la administración pública estatal.
 
 En su caso, cuando la gravedad del desastre lo requiera, el Titular del Poder Ejecutivo del Estado solicitará al Ejecutivo Federal el auxilio de las dependencias federales y en particular, la participación de la Secretaría de la Defensa Nacional, mediante los programas de auxilio a la población civil.
 
@@ -957,9 +1059,11 @@ El Titular del Poder Ejecutivo del Estado, una vez que la situación de emergenc
 
 En lo conducente se aplicará a nivel municipal las disposiciones de este capítulo, siendo responsable de llevar a cabo la declaratoria formal de emergencia el presidente municipal en sesión de cabildo.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 83.
 
-La unidad estatal establecerá los mecanismos y sistemas para la coordinación de elementos y recursos para hacer frente a la situación de emergencia.
+La coordinación estatal establecerá los mecanismos y sistemas para la coordinación de elementos y recursos para hacer frente a la situación de emergencia.
 
 ### CAPITULO TERCERO. DE LA DECLARATORIA DE ZONA DE DESASTRE
 
@@ -1001,9 +1105,11 @@ La declaratoria formal de zona de desastre de aplicación de recursos estatales 
 
 ### CAPITULO PRIMERO. DE LAS VERIFICACIONES
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 88.
 
-La Secretaría, a través de la unidad estatal de protección civil y los ayuntamientos, ejercerán las funciones de vigilancia y verificación, y aplicarán las sanciones que en este ordenamiento se establecen.
+La Secretaría, a través de la coordinación estatal de protección civil y los ayuntamientos, ejercerán las funciones de vigilancia y verificación, y aplicarán las sanciones que en este ordenamiento se establecen.
 
 ###### Artículo 89.
 
@@ -1035,9 +1141,11 @@ Transcurrido el plazo a que se refiere la fracción VI del artículo anterior, l
 
 En caso de riesgo, las dependencias y entidades de la administración pública estatal y municipal ejecutarán las medidas de seguridad que les competan a fin de proteger la vida de la población y sus bienes, la planta productiva y el medio ambiente, garantizando el normal funcionamiento de los servicios vitales de la Entidad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 93.
 
-Cuando de la verificación se advierta que existe un alto riesgo, la unidad estatal pondrá en marcha las siguientes medidas de seguridad:
+Cuando de la verificación se advierta que existe un alto riesgo, la coordinación estatal pondrá en marcha las siguientes medidas de seguridad:
 
 I.- Identificación y delimitación de lugares o zonas de riesgo;
 
@@ -1077,11 +1185,11 @@ IV.- Arresto administrativo, en los casos de infracciones que determinen los reg
 
 Para la aplicación de las sanciones pecuniarias a que se hace referencia en este capítulo, la autoridad que las imponga, tomará en cuenta la gravedad de la infracción, la capacidad económica y otras condiciones del infractor, así como lo dispuesto por el reglamento de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 97.
 
-Las sanciones pecuniarias que se establecen en este capítulo se consideran créditos fiscales y se harán efectivos por la Secretaría de Finanzas, Inversión y Administración o la Tesorería Municipal, a solicitud de la unidad estatal o la unidad municipal, según corresponda.
+Las sanciones pecuniarias que se establecen en este capítulo se consideran créditos fiscales y se harán efectivos por la Secretaría de Finanzas, Inversión y Administración o la Tesorería Municipal, a solicitud de la coordinación estatal o la unidad municipal, según corresponda.
 
 El procedimiento de notificación, ejecución y extinción de las sanciones pecuniarias, así como los recursos administrativos para oponerse al procedimiento económico coactivo, se sujetará a lo establecido en las leyes hacendarias correspondientes.
 
@@ -1166,3 +1274,25 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Se contará con un plazo de 180 días naturales para realizar las adecuaciones reglamentarias que deriven de la presente reforma.
+
+P.O. 5 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 233, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE ADICIONA UNA FRACCIÓN XIX BIS AL ARTÍCULO 24 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el 1 de enero de 2018.
+
+TRANSITORIO DEL DECRETO
+
+Inicio de vigencia del Decreto
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1 de enero de 2018.
