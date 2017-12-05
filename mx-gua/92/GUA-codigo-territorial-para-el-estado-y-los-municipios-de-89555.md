@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2016-07-01"
+last_updated: "2017-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2017.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -47,19 +49,29 @@ CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
 Naturaleza y objeto
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 1.
 
-Las disposiciones del Código son de orden público e interés general y tienen por objeto establecer las normas, principios y bases para:
+Las disposiciones del Código son de orden público e interés social, y tienen por objeto establecer las normas, principios y bases para:
 
-I. El ordenamiento y administración sustentable del territorio del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. El ordenamiento y administración sustentable del territorio del Estado de Guanajuato, con pleno respeto a los derechos humanos;
 
 II. La formulación, aprobación, cumplimiento, evaluación y actualización de los programas a que se refiere el presente ordenamiento;
 
 III. La conservación y restauración de los espacios naturales del Estado de Guanajuato;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III bis. Determinar las provisiones, reservas, usos y destinos de áreas y predios que regulan la propiedad en los centros de población;
+
 IV. La gestión, conservación y preservación de las aguas de jurisdicción estatal, para lograr un desarrollo sustentable;
 
-V. La fundación, consolidación, mejoramiento, conservación y crecimiento de los centros de población;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. La fundación, consolidación, mejoramiento, conservación y crecimiento de los centros de población y asentamientos humanos, garantizando en todo momento la protección y el acceso equitativo a los espacios públicos, la seguridad y protección civil de sus habitantes, previniendo los riesgos naturales y antropogénicos derivados de los asentamientos humanos, así como el fortalecimiento de la resiliencia urbana;
 
 VI. La construcción, mantenimiento y conservación de la infraestructura pública y del equipamiento urbano;
 
@@ -71,9 +83,21 @@ IX. La regulación, autorización, control y vigilancia de la división de biene
 
 X. La definición de las políticas de vivienda y de los proyectos y acciones habitacionales a cargo de los gobiernos del Estado y de los municipios, así como la atención prioritaria de las necesidades sociales de vivienda popular o económica y de interés social;
 
-XI. La participación social en el ordenamiento sustentable del territorio; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI. La participación social y ciudadana en los procesos de planeación y gestión del territorio con base en el acceso a la información transparente, completa y oportuna, así como la creación de espacios e instrumentos que garanticen la corresponsabilidad del gobierno y la ciudadanía en la formulación, seguimiento y evaluación de la política pública en la materia; y
 
 XII. La realización de acciones de inspección y vigilancia, la determinación de las infracciones y la imposición de sanciones y medidas de seguridad.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Derechos de las personas
+
+Artículo 1 bis. Todas las personas sin distinción de sexo, raza, etnia, edad, limitación física, orientación sexual o cualquier otra condición, tienen derecho a vivir y disfrutar ciudades y asentamientos humanos en condiciones sustentables, resilientes, saludables, productivas, equitativas, justas, incluyentes, democráticas y seguras.
+
+Las actividades que realicen el Estado y los municipios para ordenar el territorio y los asentamientos humanos, deberán cumplir con las condiciones señaladas en el párrafo anterior.
+
+Es obligación del Estado y de los municipios, promover una cultura de corresponsabilidad cívica y social.
 
 Glosario
 
@@ -81,7 +105,21 @@ Glosario
 
 Para los efectos del Código se entenderá por:
 
-I. Administración sustentable del territorio: proceso de organización, ejecución, control y evaluación de las actividades y funciones a cargo de las autoridades competentes, en coordinación con los sectores social y privado, tendientes a la conservación y restauración de los espacios naturales; la protección al patrimonio cultural urbano y arquitectónico, el paisaje y la imagen urbana; el fomento y control del desarrollo urbano; el manejo de los parques urbanos, jardines públicos y áreas verdes de los centros de población; la prevención de riesgos, contingencias y desastres urbanos, así como la regularización de la tenencia del suelo urbano;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Accesibilidad: combinación de elementos constructivos y operativos que permiten a cualquier persona independientemente de su capacidad, entrar, desplazarse, salir, orientarse y comunicarse de manera segura, autónoma y confortable en los espacios construidos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis. Accesibilidad universal: condiciones de diseño y operatividad que debe cumplir el entorno edificado para ser aprovechado por todas las personas, atendiendo los distintos tipos de capacidades, en condiciones de seguridad, calidad y comodidad;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis 1. Acción urbanística: actos o actividades tendientes al uso o aprovechamiento del suelo dentro de áreas urbanizadas o urbanizables, tales como divisiones, parcelaciones, fusiones, relotificaciones, fraccionamientos, condominios, conjuntos urbanos o urbanizaciones en general, así como de construcción, ampliación, remodelación, reparación, demolición o reconstrucción de inmuebles, de propiedad pública o privada, que por su naturaleza están determinados en los programas o cuentan con los permisos correspondientes. Comprende también la realización de obras de equipamiento, infraestructura o servicios urbanos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis 2. Administración sustentable del territorio: proceso de organización, ejecución, control y evaluación de las actividades y funciones a cargo de las autoridades competentes, en coordinación con los sectores social y privado, tendientes a la conservación y restauración de los espacios naturales; la protección al patrimonio natural, cultural urbano y arquitectónico, el paisaje y la imagen urbana; el fomento y control del desarrollo urbano; la movilidad; el manejo de los parques urbanos, jardines públicos y áreas verdes de los centros de población; la prevención de riesgos, contingencias y desastres urbanos y el fomento a la resiliencia, así como la regularización de la tenencia del suelo urbano;
 
 II. Alineamiento: delimitación gráfica de cualquier inmueble con respecto a la línea divisoria en el terreno que lo limita con la vialidad urbana existente o futura, o cualquier otra restricción;
 
@@ -91,7 +129,27 @@ IV. Área de donación: superficie de terreno que el desarrollador transmite al 
 
 V. Área de uso común: superficie ubicada dentro de un desarrollo en condominio, que pertenecen en forma pro indiviso a los condóminos, destinada a la realización de obras complementarias de beneficio colectivo, relativas a la cultura, educación, esparcimiento, deporte o aquéllas de carácter asistencial;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V bis. Área no urbanizable: superficie que en razón de su naturaleza, función o destino no es susceptible de abrirse al desarrollo, o está sujeta a restricciones en su aprovechamiento;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V bis 1. Área urbanizable: territorio para el crecimiento urbano contiguo a los límites del área urbanizada del centro de población, determinado en los programas, cuya extensión y superficie se calcula en función de las necesidades del nuevo suelo indispensable para su expansión;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V bis 2. Área urbanizada: territorio ocupado por un centro de población con redes de infraestructura, equipamiento y servicios;
+
 VI. Área verde: superficie de terreno no urbanizable, que forma parte del área de donación de un fraccionamiento o desarrollo en condominio, destinada a su forestación y equipamiento únicamente como parque urbano o jardín público;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI bis. Asentamiento humano: el establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI bis 1. Barrio: zona urbanizada de un centro de población dotada de identidad y características propias;
 
 VII. Cartografía: mapas y planos que contienen las delimitaciones, deslindes y la información técnica de los bienes inmuebles;
 
@@ -101,13 +159,33 @@ IX. Código: Código Territorial para el Estado y los Municipios de Guanajuato;
 
 X. Coeficiente de ocupación del suelo: factor expresado en porcentaje, que determina la porción de cualquier inmueble, respecto a la superficie total del mismo, que puede ser efectivamente desplantada para la edificación o instalación de cualquier construcción;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X bis. Coeficiente de utilización del suelo: factor por el cual se establece el máximo de metros cuadrados que se pueden construir en un lote y se expresa en número de veces en relación con el tamaño total del mismo;
+
 XI. Constancia de factibilidad: documento informativo expedido por la unidad administrativa municipal, a petición de parte, en el que se manifiestan los usos predominantes y compatibles, condicionados e incompatibles, así como los destinos, modalidades y restricciones asignados a un inmueble determinado, en el programa municipal;
 
 XII. Construcción: obra, edificación, estructura o instalación de cualquier tipo, uso o destino, adherida a un inmueble, en condiciones que no pueda separarse de éste sin deterioro de la misma;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XII bis. Densificación: acción urbanística cuya finalidad es incrementar el número de habitantes y la población flotante por unidad de superficie, considerando la capacidad de soporte del territorio y, en su caso, adecuando los espacios públicos y su infraestructura;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XII bis 1. Derecho de vía: se constituye por la franja de terreno a cada lado del eje de la vialidad, sobre un bien de dominio estatal o municipal, la cual podrá tener medidas variables de acuerdo al proyecto, indicadas por las necesidades técnicas del mismo y que se requiere para la construcción, conservación, ampliación, protección y, en general, para el uso adecuado de una vía de comunicación y sus servicios auxiliares;
+
 XIII. Desarrollador: persona física o jurídico colectiva, propietaria de un bien inmueble respecto del que efectúa, ante las autoridades competentes, las gestiones y trámites necesarios para obtener la autorización para la realización de cualquier fraccionamiento o desarrollo en condominio;
 
 XIV. Desarrollo en condominio: proyecto de urbanización de un inmueble, así como la edificación o modificación de una construcción o grupo de construcciones en forma vertical, horizontal o mixta a partir de veinticuatro unidades de propiedad privativa, para cualquier transmisión de derechos reales, en el que existan elementos indivisibles de uso común;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIV bis. Desarrollo metropolitano: proceso de planeación, regulación, gestión, financiamiento y ejecución de acciones, obras y servicios en zonas metropolitanas, que por su población, extensión y complejidad, deberán participar en forma coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIV bis 1. Desarrollo regional: proceso de crecimiento económico en dos o más centros de población, garantizando el mejoramiento de la calidad de vida de la población, la preservación del ambiente, así como la conservación y reproducción de los recursos naturales;
 
 XV. Desarrollo urbano: proceso de planeación, regulación, ejecución, control y evaluación de las medidas, proyectos y acciones tendientes a la fundación, consolidación, conservación, mejoramiento y crecimiento de los centros de población:
 
@@ -115,17 +193,49 @@ XVI. Deslinde: identificación y determinación de los límites de cualquier inm
 
 XVII. Destino: fin público a que se prevea dedicar determinada zona o inmueble, o fracción del mismo, de conformidad con los programas municipales;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVII bis. Diseño universal: diseño de entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado, sin excluir las ayudas técnicas para grupos particulares de personas con discapacidad y movilidad reducida cuando se necesiten;
+
 XVIII. División: partición de un inmueble en cualquier número de fracciones, siempre que para dar acceso a las partes resultantes no se generen vialidades urbanas, ni se requieran en la zona de su ubicación dotaciones adicionales a las existentes de infraestructura y servicios públicos;
 
 XIX. Equipamiento urbano: cualquier inmueble, construcción y mobiliario, afecto a un servicio público o destinado a la realización de obras complementarias de beneficio colectivo, o aquéllas relativas a la educación, esparcimiento, deporte, difusión cultural o prestación de servicios asistenciales;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIX bis. Espacio edificable: suelo apto para el uso y aprovechamiento de sus propietarios o poseedores en los términos de la legislación correspondiente;
+
 XX. Espacio natural: área del territorio ubicada fuera de las zonas urbanizadas, que ha sido escasamente modificada por la acción humana, incluyendo los terrenos forestales y preferentemente forestales, los sumideros de carbono y las tierras agropecuarias degradadas susceptibles de reconvertirse en zonas de recarga de mantos acuíferos o de conservación ecológica;
 
-XXI. Evaluación de compatibilidad: procedimiento administrativo mediante el que, a partir del estudio técnico presentado por el interesado, se determinan los efectos que la modificación propuesta a la zonificación producirá en el ambiente, los recursos naturales, el equipamiento urbano, la infraestructura pública, los servicios públicos, la imagen urbana, el paisaje, el patrimonio cultural urbano y arquitectónico, la movilidad urbana y la seguridad de las personas y sus bienes, a fin de resolver sobre la viabilidad del cambio propuesto y, en su caso, establecer las medidas de prevención, mitigación y compensación aplicables;
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XX bis. Espacio público: áreas, espacios abiertos o predios destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXI. Evaluación de compatibilidad: procedimiento administrativo mediante el cual se evalúa el impacto urbano, y a partir del estudio técnico presentado por el interesado, se determinan los efectos que la modificación propuesta a la zonificación producirá en el ambiente, los recursos naturales, el equipamiento urbano, la infraestructura pública, los servicios públicos, la imagen urbana, el paisaje, el patrimonio natural, cultural urbano y arquitectónico, la movilidad urbana y la seguridad de las personas y sus bienes, a fin de resolver sobre la viabilidad del cambio propuesto y, en su caso, establecer las medidas de prevención, mitigación y compensación aplicables;
 
 XXII. Fraccionamiento: partición de un inmueble, siempre y cuando se requiera del trazo de una o más vialidades urbanas para generar lotes, así como de la ejecución de obras de urbanización, con el propósito de enajenar los lotes resultantes en cualquier régimen de propiedad previsto en el Código Civil para el Estado de Guanajuato;
 
-XXIII. Infraestructura pública: sistemas, redes, flujos y elementos de organización funcional que permiten la construcción de espacios adaptados y su articulación para el desarrollo de las actividades sociales, productivas y culturales que se realizan en y entre los centros de población;
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXII bis. Gestión integral de riesgos: conjunto de acciones encaminadas a la identificación, análisis, evaluación, control, prevención y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Infraestructura pública: sistemas, redes, flujos y elementos de organización funcional, incluyendo aquellos relativos a las telecomunicaciones y radiodifusión, que permiten la construcción de espacios adaptados y su articulación para el desarrollo de las actividades sociales, productivas y culturales que se realizan en y entre los centros de población;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXIII bis. Instituto de Planeación: Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXIII bis 1. Inventario de especies vegetales nativas: documento oficial mediante el cual se relacionan las especies arbustivas y arbóreas nativas del Estado de Guanajuato, sus características y su distribución regional, que sirve de base para que los municipios establezcan dentro de los centros de población las especies más adecuadas conforme a la superficie disponible y a la función que se le pretenda dar;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXIII bis 2. Ley General: Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;
 
 XXIV. Lote: porción de terreno, con o sin construcciones, que tiene acceso a través de una vialidad urbana o de un área de uso común, que forma parte de un fraccionamiento o desarrollo en condominio o que es producto de una división de inmuebles;
 
@@ -133,13 +243,27 @@ XXV. Manzana: área formada por uno o varios inmuebles colindantes, delimitada p
 
 XXVI. Mobiliario urbano: cualquier elemento urbano complementario, permanente, fijo, móvil o temporal, que sirve de apoyo al equipamiento urbano y a la infraestructura pública y que refuerza la imagen urbana;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXVI bis. Movilidad: es un derecho que consiste en el desplazamiento de personas, bienes y mercancías que se realizan en el Estado de Guanajuato, a través de las diferentes formas y modalidades de transporte que se ajuste a la jerarquía y principios que se establecen en la Ley de Movilidad del Estado de Guanajuato y sus Municipios, para satisfacer sus necesidades y pleno desarrollo. En todo caso la movilidad tendrá como eje central a la persona;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXVI bis 1. Movilidad reducida: toda persona cuya movilidad se haya reducida por motivos de edad, embarazo o alguna otra situación que, sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio;
+
 XXVII. Obra de urbanización: cualquier construcción que se efectúe para la prestación de los servicios públicos de suministro de agua potable y de drenaje, tratamiento y disposición de aguas residuales; la conducción de energía eléctrica; las redes y sistemas de alumbrado público y alcantarillado, sanitario o pluvial, así como la colocación de pavimentos, banquetas y guarniciones en las vialidades urbanas;
 
 XXVIII. Ordenamiento sustentable del territorio: conjunto de instrumentos de política pública mediante los que se distribuyen, de manera equilibrada y sustentable, la población y las actividades económicas en el territorio del Estado y sus municipios, definiendo el uso del suelo de acuerdo con el interés general y delimitando las facultades y obligaciones inherentes al derecho de propiedad y posesión del suelo conforme al uso y destino de éste;
 
 XXIX. Organismo operador: dependencia o entidad pública o privada, responsable de la prestación del servicio público de suministro de agua potable y de drenaje, tratamiento y disposición de aguas residuales, así como de la operación de las redes y sistemas de alcantarillado, sanitario o pluvial;
 
-XXX. Patrimonio cultural urbano y arquitectónico: zonas, espacios abiertos monumentales y monumentos que sean declarados como constitutivos del mismo, en los términos de la Ley del Patrimonio Cultural del Estado de Guanajuato, así como aquéllos que signifiquen para la comunidad un testimonio valioso de la cultura local, incluyendo las respectivas zonas de entorno que establezcan las autoridades competentes;
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXIX bis. Paleta vegetal: disposiciones de observancia general emitidas por los ayuntamientos con base en el inventario de especies vegetales nativas, por las cuales se determinan, a partir de criterios ambientales y paisajistas, las especies arbustivas y arbóreas cuya plantación está permitida, y se definen los términos, condiciones y especificaciones para esa plantación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXX. Patrimonio natural, cultural urbano y arquitectónico: zonas, espacios abiertos monumentales y monumentos que sean declarados como constitutivos del mismo, en los términos de la Ley del Patrimonio Cultural del Estado de Guanajuato, así como aquellos que signifiquen para la comunidad un testimonio valioso de la cultura local, incluyendo las respectivas zonas de entorno y los espacios naturales que establezcan las autoridades competentes;
 
 XXXI. Permiso de construcción: aquél expedido por la unidad administrativa municipal, por medio del que se autoriza a los propietarios, poseedores o usufructuarios de cualquier inmueble para construir, modificar, colocar, reparar o demoler cualquier obra, edificación, estructura o instalación en el mismo, en los términos del Código;
 
@@ -153,6 +277,10 @@ XXXV. Permiso de uso de suelo: aquél expedido por la unidad administrativa muni
 
 XXXVI. Permiso de venta: aquél que otorga la unidad administrativa municipal para realizar enajenaciones sobre lotes, viviendas, departamentos, locales o áreas, contenidas en el proyecto de un fraccionamiento o desarrollo en condominio;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXXVI bis. Personas con discapacidad: aquéllas que presentan alguna deficiencia física, mental, intelectual, sensorial, de trastorno de talla o peso, ya sea de naturaleza congénita o adquirida, permanente o temporal, que limite su capacidad de ejercer una o más actividades esenciales de la vida diaria, y que puede impedir su desarrollo;
+
 XXXVII. Plano: representación gráfica y técnica en proyección horizontal de las diferentes partes de cualquier inmueble;
 
 XXXVIII. Políticas de vivienda: conjunto de disposiciones, criterios, lineamientos, proyectos, medidas y acciones de carácter general que se establecen para coordinar las acciones de vivienda que realicen las autoridades del Estado y de los municipios, y la concertación con los sectores privado y social;
@@ -165,27 +293,81 @@ XLI. Programa metropolitano: Programa de Desarrollo Urbano y de Ordenamiento Eco
 
 XLII. Programa municipal: Programa de Desarrollo Urbano y de Ordenamiento Ecológico Territorial de cada Municipio;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLII bis. Programa regional: Programa de Desarrollo Urbano y de Ordenamiento Ecológico Territorial para cada región a que se refiere el reglamento de la Ley de Planeación para el Estado de Guanajuato;
+
 XLIII. Provisión territorial: predio de propiedad del Estado o de alguno de los municipios que, sin detrimento del equilibrio ecológico del mismo, está destinado a la fundación de un centro de población, de conformidad con los programas respectivos;
 
 XLIV. Proyecto de diseño urbano: propuesta de distribución y estructura urbana de un fraccionamiento o desarrollo en condominio, realizada conforme a los procedimientos y requisitos establecidos en el Código y en los reglamentos municipales;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLIV bis. Redensificación: fenómeno por el cual un espacio urbano consolidado se transforma o adapta con el fin de poder albergar nuevas infraestructuras, generalmente viviendas, replanteando los usos de suelo a mixtos, vialidades adaptadas y espacios abiertos, fomentando una densidad de población más elevada que la actual. La redensificación estimula la urgente y necesaria consolidación de nuestras ciudades, evitando la expansión y la dispersión, optimizando el aprovechamiento del suelo, un mejor desarrollo social, un efectivo desarrollo sustentable y ciudades más competitivas;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLIV bis 1. Reducción de riesgos de desastres: los esfuerzos sistemáticos dirigidos al análisis y a la gestión de los factores causales de los desastres, lo que incluye la reducción del grado de exposición a las amenazas, la disminución de la vulnerabilidad de la población y la propiedad, y una gestión sensata de los suelos y del medio ambiente;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLIV bis 2. Renovación urbana: proceso que busca modificar la infraestructura y las construcciones de una ciudad, que puede contemplar la eliminación de edificios viejos y la construcción de nuevos, o la remodelación y restauración de los edificios existentes;
+
 XLV. Reserva territorial: predio de propiedad del Estado o de alguno de los municipios que, sin detrimento del equilibrio ecológico del mismo, está destinado a la consolidación o crecimiento de un centro de población, de conformidad con los programas respectivos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLV bis. Resiliencia: es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preparación, preservación, organización y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
 
 XLVI. Secretaría: Secretaría de Desarrollo Social y Humano;
 
-XLVII. Señalización vial: tableros fijados en postes, marcos y otras estructuras, con leyendas o símbolos estáticos, así como las marcas pintadas o colocadas en el pavimento, guarniciones o estructuras ubicadas dentro de la vialidad urbana o adyacentes a la misma, que tienen por objeto regular el tránsito de peatones y vehículos, proporcionar información a los usuarios y controlar la utilización de la vialidad urbana:
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLVII. Señalización vial: tableros fijados en postes, marcos y otras estructuras, con leyendas o símbolos estáticos, así como las marcas pintadas o colocadas en el pavimento, guarniciones o estructuras ubicadas dentro de la vialidad urbana o adyacentes a la misma, que tienen por objeto regular el tránsito de peatones y vehículos, proporcionar información a los usuarios y controlar la utilización de la vialidad urbana. Las señales viales deberán ajustarse a las especificaciones establecidas en la Ley de Movilidad del Estado de Guanajuato y sus Municipios y demás normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLVII bis. Servicios urbanos: las actividades operativas y servicios públicos prestados directamente por la autoridad competente o concesionada para satisfacer necesidades colectivas en los centros de población;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLVII bis 1. Sistema estatal territorial: delimita las regiones y sistemas urbano rurales que las integran y establece la jerarquización y caracterización de las zonas metropolitanas, conurbaciones y centros de población, así como sus interrelaciones funcionales;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLVII bis 2. Sistemas urbano rurales: unidades espaciales básicas del ordenamiento territorial, que agrupan a áreas no urbanizadas, centros urbanos y asentamientos rurales vinculados funcionalmente;
 
 XLVIII. Traza: estructura vial básica y geométrica de los centros de población o parte de éstos, así como de cualquier fraccionamiento o desarrollo en condominio, consistente en la delimitación de manzanas o lotes;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLVIII bis. UGAT: Unidad de Gestión Ambiental y Territorial;
+
 XLIX. Unidad administrativa municipal: órgano de la administración pública municipal a la que, en el Código y el reglamento respectivo, se le asigna la aplicación y cumplimiento de las disposiciones jurídicas en materia de administración sustentable del territorio y de planeación;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XLIX bis. Urbanización progresiva: política pública que en apego a los lineamientos de crecimiento de los centros de población, de manera concertada con los sectores público, privado y social, busca dotar de servicios básicos de urbanización a los sectores más vulnerables, a fin de que se manifieste la posibilidad de que cuenten con un lote que, por principio de cuentas, tenga la certeza jurídica de su posesión y le permita al ciudadano acceder a una solución de vivienda;
 
 L. Uso: fin particular a que podrá dedicarse determinada zona o inmueble, de conformidad con los programas municipales;
 
 LI. Valor escénico: características del paisaje, natural o inducido, que hacen que la protección y preservación de determinada área o zona sea de utilidad pública, por sus condiciones físicas, sus elementos naturales o su relevancia cultural, histórica, artística, arqueológica, ambiental o turística;
 
-LII. Vialidad urbana: todo bien inmueble de uso común o fracción del mismo ubicado en el centro de población, que por disposición de la ley o de la autoridad competente se encuentra destinado al tránsito de peatones y vehículos; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-LIII. Zonificación: determinación de las áreas que integran el territorio de un Municipio, sus usos y destinos predominantes y compatibles, condicionados e incompatibles, así como la delimitación de las reservas y provisiones territoriales y las áreas de conservación, crecimiento, mejoramiento y consolidación de los mismos.
+LII. Vialidad urbana: todo bien inmueble de uso común o fracción del mismo ubicado en el centro de población, que por disposición de la ley o de la autoridad competente se encuentra destinado al tránsito de peatones y vehículos;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+LIII. Zonificación: determinación de las áreas que integran el territorio de un Municipio, sus usos y destinos predominantes y compatibles, condicionados e incompatibles, así como la delimitación de las reservas y provisiones territoriales y las áreas de conservación, crecimiento, mejoramiento y consolidación de los mismos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+LIV. Zonificación primaria: la determinación de las áreas que integran y delimitan un centro de población; comprendiendo las áreas urbanizadas y áreas urbanizables, incluyendo las reservas de crecimiento, las áreas no urbanizables y las áreas naturales protegidas, así como la red de vialidades primarias; y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+LV. Zonificación secundaria: la determinación de los usos de suelo en un espacio edificable y no edificable, así como la definición de los destinos específicos.
 
 Principios
 
@@ -201,13 +383,19 @@ III. Equidad social: garantizar el ejercicio pleno de los derechos en condicione
 
 IV. Habitabilidad: generar espacios públicos y privados con las características físico-espaciales que aseguren el desarrollo y la calidad de vida en condiciones favorables, mediante la dotación y disponibilidad de infraestructura, servicios y equipamiento básicos para la salud, la seguridad, la educación y el esparcimiento de los habitantes;
 
-V. Racionalidad: ordenar y equilibrar el desarrollo de los centros de población, evitar su crecimiento disperso y la pérdida de tiempo, energía y recursos para la movilidad urbana; revitalizar los centros históricos, espacios públicos y proteger su patrimonio cultural urbano y arquitectónico; no afectar áreas de valor escénico, ambiental o productivo; evitar asentamientos humanos en zonas de riesgo y garantizar la proporción adecuada entre los bienes de uso común con cubierta vegetal y las zonas urbanizadas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Racionalidad: ordenar y equilibrar el desarrollo de los centros de población, evitar su crecimiento disperso y la pérdida de tiempo, energía y recursos para la movilidad urbana; revitalizar los centros históricos, espacios públicos y proteger su patrimonio natural, cultural urbano y arquitectónico; no afectar áreas de valor escénico, ambiental o productivo; evitar asentamientos humanos en zonas de riesgo y garantizar la proporción adecuada entre los bienes de uso común con cubierta vegetal y las zonas urbanizadas;
 
 VI. Seguridad: garantizar las condiciones de seguridad personal y patrimonial, así como evitar riesgos naturales o antropogénicos en y derivados de los asentamientos humanos;
 
 VII. Sustentabilidad: promover el mejoramiento de la calidad de vida de las personas y la productividad de las actividades económicas, a partir de la preservación del equilibrio ecológico, la protección al ambiente y el aprovechamiento racional de los recursos naturales, así como del desarrollo de la infraestructura pública, el equipamiento urbano, los servicios públicos y la vivienda de forma que se constituyan en el eje del desarrollo regional, acorde a la vocación del entorno natural y sin comprometer la satisfacción de las necesidades de las generaciones futuras; y
 
 VIII. Viabilidad: garantizar el derecho de todas las personas para recibir los servicios públicos a que se refiere el Código, conforme al principio de sustentabilidad.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Además de los principios establecidos en las fracciones anteriores, en materia de planeación, regulación y gestión de los asentamientos humanos, centros de población y ordenamiento territorial, se deberán observar los principios de política pública establecidos en la Ley General.
 
 Causas de utilidad pública
 
@@ -227,17 +415,43 @@ V. La protección y preservación de los humedales de importancia internacional,
 
 VI. La regulación ambiental del desarrollo urbano;
 
-VII. La consolidación, conservación y mejoramiento de los centros de población, así como la redensificación poblacional de los mismos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-VIII. La ejecución de obras de infraestructura pública y equipamiento urbano, así como aquéllas para la prestación de servicios públicos;
+VII. La fundación, consolidación, conservación y mejoramiento de los centros de población, así como la redensificación poblacional de los mismos;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. La ejecución de obras de infraestructura pública y equipamiento urbano, de servicios urbanos y metropolitanos, así como aquellas destinadas a la movilidad sustentable;
 
 IX. La prevención de riesgos y contingencias ambientales y urbanas, así como de desastres por impactos adversos del cambio climático;
 
 X. La construcción de vivienda popular o económica y de interés social;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X bis. La delimitación de zonas de riesgo y el establecimiento de polígonos de protección, amortiguamiento y salvaguarda para garantizar la seguridad de las personas y de las instalaciones estratégicas de seguridad nacional;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X bis 1. La regularización de la tenencia de la tierra en los centros de población;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X bis 2. La creación, recuperación, mantenimiento y defensa del espacio público para uso comunitario;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X bis 3. La planeación, programación y ejecución de acciones que propicien y fortalezcan la resiliencia;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X bis 4. El establecimiento de las vías, infraestructura y equipamiento para las formas de movilidad peatonal, de transporte no motorizado, de transporte público, de transporte motorizado y dispositivos de control de movilidad y tránsito, conforme a la jerarquía de movilidad establecida en la ley de la materia;
+
 XI. La constitución, administración y aprovechamiento de provisiones y reservas territoriales; y
 
-XII. La protección, conservación y restauración del patrimonio cultural urbano y arquitectónico y de las áreas y centros de población declarados Patrimonio Cultural, conforme a la Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural, incluyendo las respectivas zonas de entorno que establezcan las autoridades competentes.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XII. La protección, conservación y restauración del patrimonio natural, cultural urbano y arquitectónico y de las áreas y centros de población declarados Patrimonio Cultural, conforme a la Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural, incluyendo las respectivas zonas de entorno que establezcan las autoridades competentes.
 
 Políticas y acciones tendientes a mejorar la calidad de vida de la población
 
@@ -247,9 +461,13 @@ Las políticas y acciones para el ordenamiento y administración sustentable del
 
 I. La ejecución y cumplimiento de los programas;
 
-II. La planeación de una distribución adecuada y sustentable de los servicios públicos, la vivienda, el equipamiento urbano, la infraestructura pública y las actividades productivas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-III. La consolidación, conservación y mejoramiento de los centros de población, así como la redensificación poblacional de los mismos, en concordancia con las características del ambiente, el equipamiento urbano y la infraestructura pública, así como las ventajas competitivas de la región en que se ubican;
+II. La planeación de una distribución adecuada y sustentable de los servicios públicos, la vivienda, el equipamiento urbano, las actividades productivas y la infraestructura pública, y una eficiente conectividad de las zonas para los diferentes medios de movilidad;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. La consolidación, conservación y mejoramiento de los centros de población, así como la redensificación poblacional de los mismos, en concordancia con las características del ambiente, el equipamiento urbano, los servicios públicos de transporte y la infraestructura pública, así como las ventajas competitivas de la región en que se ubican;
 
 IV. La implementación de las condiciones necesarias de salubridad, seguridad, sustentabilidad y funcionalidad, en las vialidades urbanas, obras y construcciones, así como en la utilización y aprovechamiento del suelo;
 
@@ -259,17 +477,37 @@ VI. La dotación de equipamiento urbano e infraestructura pública a los centros
 
 VII. La regulación ambiental del desarrollo urbano;
 
-VIII. La protección, preservación y mejoramiento del paisaje, la imagen urbana, el patrimonio cultural urbano y arquitectónico, así como las áreas de valor escénico;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IX. La promoción de la participación social en el ordenamiento sustentable del territorio;
+VIII. La protección, preservación y mejoramiento del paisaje, la imagen urbana, el patrimonio natural, cultural urbano y arquitectónico, así como las áreas de valor escénico;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX. La promoción de la participación social y ciudadana en el ordenamiento sustentable del territorio;
 
 X. La coordinación y concertación de la inversión pública y privada para el ordenamiento territorial del desarrollo regional;
 
 XI. El desarrollo planificado y sustentable de los procesos de conurbación y metropolización;
 
-XII. La aplicación de las normas y la implementación de las acciones para la prevención de riesgos y contingencias ambientales y urbanas, así como de desastres por impactos adversos del cambio climático; y
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XIII. La implementación de las medidas, proyectos y acciones pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, a la infraestructura pública y al equipamiento urbano, así como a cualquier instalación de uso público.
+XI bis. La preferencia vial de la movilidad y el uso del espacio público a las personas con discapacidad o movilidad reducida, los peatones o usuarios de bicicletas, transporte no motorizado y el servicio público y especial de transporte de personas frente a otro tipo de vehículos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI bis 1. La movilidad sustentable que considere la aplicación de las políticas públicas en materia de infraestructura peatonal, de accesibilidad universal, transporte público y especial, transporte privado, ciclovías, estacionamientos y vialidades para la movilidad integrada;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI bis 2. La promoción de que las vialidades y los nuevos desarrollos urbanos cuenten con accesibilidad a peatones, personas con discapacidad o movilidad reducida y ciclistas, así como con estacionamientos para bicicletas, a fin de fomentar el uso de transporte no contaminante;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XII. La aplicación de las normas y la implementación de las acciones para la gestión integral de riesgos y la prevención de contingencias ambientales y urbanas, así como de desastres por impactos adversos del cambio climático; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIII. La implementación de las medidas, proyectos y acciones pertinentes para asegurar el acceso de las personas con discapacidad o movilidad reducida, en igualdad de condiciones con las demás, a la infraestructura pública y al equipamiento urbano, así como a cualquier instalación de uso público.
 
 Aguas de jurisdicción estatal
 
@@ -313,21 +551,29 @@ Para proveer al cumplimiento del Código en la esfera administrativa, el Ejecuti
 
 Concurrencia y coordinación
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 12.
 
-La aplicación del Código corresponde al Ejecutivo del Estado y a los municipios, los que ejercerán sus atribuciones de manera concurrente y coordinada, en el ámbito de sus respectivas competencias.
+La aplicación del Código corresponde al Ejecutivo del Estado y a los municipios, los que ejercerán sus atribuciones de manera concurrente y coordinada en las materias de ordenamiento territorial, asentamientos humanos, desarrollo urbano y desarrollo metropolitano, en el ámbito de la competencia que les otorga la Constitución Política de los Estados Unidos Mexicanos, la Ley General y el Código, así como a través de los mecanismos de coordinación y concertación que se celebren con la Federación.
 
 Objeto de la coordinación
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 13.
 
-La coordinación entre las dependencias y entidades de la administración pública estatal y municipal, tendrá por objeto:
+La coordinación entre las dependencias y entidades de la administración pública federal, estatal y municipal, tendrá por objeto:
 
-I. Cumplir los objetivos y prioridades de las políticas estatales en materia de ordenamiento y administración sustentable del territorio;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Cumplir los objetivos y prioridades de las políticas estatales y federales en materia de ordenamiento y administración sustentable del territorio, así como en la planeación, gestión, coordinación y desarrollo de las conurbaciones y, en su caso, zonas metropolitanas; y en la ejecución de acciones, obras e inversiones relativas a la accesibilidad universal;
 
 II. Promover la participación articulada de todos los factores productivos cuyas actividades incidan en el ordenamiento y administración sustentable del territorio o en la producción de vivienda;
 
-III. Fortalecer la coordinación entre los gobiernos estatal y municipales, así como inducir acciones de concertación con los sectores social y privado; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. Fortalecer la coordinación entre los gobiernos estatal y municipales, e incluir la participación social y ciudadana en los procesos de planeación, seguimiento y evaluación a que se refiere este Código; y
 
 IV. Dar integralidad y coherencia a las acciones, instrumentos, procesos y apoyos orientados a la satisfacción de las necesidades de vivienda, particularmente aquélla popular o económica y de interés social.
 
@@ -339,9 +585,11 @@ Las dependencias y entidades de la administración pública estatal y municipal 
 
 Acuerdos de coordinación en materia federal
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 15.
 
-En asuntos del orden federal, el Ejecutivo del Estado con la intervención de los ayuntamientos, podrán celebrar acuerdos de coordinación con la Federación para participar como auxiliares de la misma, en la aplicación de la Ley General de Asentamientos Humanos.
+En asuntos del orden federal, el Ejecutivo del Estado con la intervención de los ayuntamientos, podrá celebrar acuerdos de coordinación con la Federación para participar como auxiliares de la misma, en la aplicación de la Ley General.
 
 #### Sección Primera. Titular del Poder Ejecutivo
 
@@ -363,25 +611,41 @@ V. Celebrar convenios con los municipios, para el ordenamiento y administración
 
 VI. Celebrar con propietarios, desarrolladores y productores sociales de vivienda, toda clase de actos jurídicos para la implementación de las políticas y acciones de vivienda;
 
-VII. Expedir la declaratoria de zonas conurbadas en los términos del Código;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. Expedir las declaratorias de zonas conurbadas y de zonas metropolitanas, en los términos del Código;
 
 VIII. Participar en la implementación de las zonas metropolitanas en términos de las disposiciones jurídicas aplicables;
 
 IX. Promover la concertación de los sectores social y privado en la instrumentación de los programas, de conformidad con lo dispuesto en el Código y en los demás ordenamientos legales aplicables;
 
-X. Fomentar la participación social y recibir las opiniones de la ciudadanía, respecto a la formulación, actualización, ejecución y evaluación de los programas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XI. Promover y desarrollar mecanismos de financiamiento para el ordenamiento y administración sustentable del territorio;
+X. Fomentar la participación social y ciudadana y recibir las opiniones respecto a la formulación, actualización, ejecución y evaluación de los programas;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI. Promover y desarrollar mecanismos de financiamiento para el ordenamiento y administración sustentable del territorio, considerando la jerarquía de la movilidad y la resiliencia urbana;
 
 XII. Suscribir convenios de coordinación, colaboración y asistencia técnica, en las materias a que se refiere el Código;
 
 XIII. Expedir la declaratoria de áreas naturales protegidas de competencia estatal;
 
-XIV. Promover la constitución y administración de reservas territoriales, la programación de acciones para la dotación de infraestructura pública y equipamiento urbano, así como la protección del patrimonio cultural urbano y arquitectónico, así como del equilibrio ecológico en la entidad;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIV. Promover la constitución y administración de reservas territoriales, la programación de acciones para la dotación de infraestructura pública y equipamiento urbano, así como la protección del patrimonio natural, cultural urbano y arquitectónico, y el equilibrio ecológico en la entidad;
 
 XV. Expedir las declaratorias de los cuerpos de aguas de jurisdicción estatal;
 
 XVI. Otorgar y revocar concesiones y asignaciones para el uso, explotación y aprovechamiento de las aguas de jurisdicción estatal, así como sobre otros bienes del dominio público para la ejecución de obras de infraestructura hidráulica, en los términos de la Ley del Patrimonio Inmobiliario del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVI bis. Expedir el inventario de especies vegetales nativas;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVI bis 1. Promover la creación y apoyar el funcionamiento de los observatorios ciudadanos en los términos de este Código y de la Ley General;
 
 XVII. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
@@ -399,19 +663,45 @@ I. Participar en la formulación, modificación, actualización y evaluación de
 
 II. Elaborar y ejecutar acciones para la constitución, administración y aprovechamiento de provisiones y reservas territoriales para el desarrollo urbano y la producción de vivienda en los centros de población, en coordinación con otras dependencias y entidades de la administración pública y con la participación de los sectores social y privado;
 
-III. Promover la programación de acciones y proyectos para la dotación de infraestructura pública y equipamiento urbano, así como para la preservación y restauración del equilibrio ecológico y la protección al ambiente, los espacios naturales, el paisaje, la imagen urbana, las áreas de valor escénico y el patrimonio cultural urbano y arquitectónico, en coordinación con otras dependencias y entidades de la administración pública, y con la participación de los sectores social y privado;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IV. Participar en la promoción de la participación social en el ordenamiento sustentable del territorio del Estado;
+III. Promover la programación de acciones y proyectos para la dotación de infraestructura pública para la accesibilidad universal, incluyendo la movilidad sustentable y el equipamiento urbano, así como para la preservación y restauración del equilibrio ecológico y la protección al ambiente, los espacios naturales, el paisaje, la imagen urbana, las áreas de valor escénico y el patrimonio natural, cultural urbano y arquitectónico, en coordinación con otras dependencias y entidades de la administración pública y con la participación de los sectores social y privado;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Participar en la promoción de la participación social y ciudadana en el ordenamiento sustentable del territorio del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV bis. Promover la cultura de gobernanza urbana mediante la difusión de temas relacionados con el ordenamiento sustentable del territorio, desarrollo urbano, derecho a la ciudad y resiliencia urbana;
 
 V. Gestionar el ejercicio del derecho de preferencia que corresponde al Ejecutivo del Estado, para la adquisición de predios comprendidos en las áreas para la fundación, crecimiento o consolidación de los centros de población, señaladas en los programas correspondientes;
 
 VI. Proponer proyectos y acciones para la consolidación y mejoramiento de los centros de población, con objeto de estimular su redensificación poblacional de acuerdo a lo establecido en los programas, promoviendo, en su caso, la colaboración de sus habitantes para la aplicación y ejecución de los mismos, en coordinación con los ayuntamientos y, en su caso, con la Federación;
 
-VII. Coadyuvar con los ayuntamientos para evitar el establecimiento de asentamientos humanos que no cumplan con las disposiciones del Código;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. Coadyuvar con los ayuntamientos para prevenir el establecimiento de asentamientos humanos que no cumplan con las disposiciones del Código;
 
 VIII. Promover el desarrollo, construcción, conservación y mejoramiento de obras de infraestructura pública y equipamiento para el desarrollo urbano, regional y metropolitano, en coordinación con los gobiernos federal y municipal, y la participación de los sectores social y privado;
 
 IX. Administrar las provisiones y reservas territoriales, en los términos del Código, cuando no corresponda hacerlo expresamente a otra dependencia o entidad del Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX bis. Participar en la gestión del ordenamiento sustentable del territorio de los centros de población que presenten un fenómeno de conurbación o metropolización, en coordinación con las autoridades federales, estatales y municipales competentes;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX bis 1. Coordinar y administrar la ejecución de las acciones que convenga el Ejecutivo del Estado con la Federación, con los gobiernos de otros estados y con los ayuntamientos, para el ordenamiento sustentable del territorio de las zonas metropolitanas en las que sea parte el Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX bis 2. Asesorar a los gobiernos municipales, cuando así lo soliciten, en materia de administración sustentable del territorio;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX bis 3. Coordinar la gestión y administración del ordenamiento sustentable del territorio dentro de los centros de población declarados como zonas conurbadas o metropolitanas, con las autoridades de los tres órdenes de gobierno competentes;
 
 X. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
@@ -421,9 +711,11 @@ XI. Las demás que establezca el Código y las demás disposiciones jurídicas a
 
 Atribuciones del Instituto
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 18.
 
-El Instituto de Ecología, además de las atribuciones que se le asignan en la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, tendrá las siguientes:
+El Instituto de Ecología, además de las atribuciones que se le asignan en la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato y la Ley de Cambio Climático para el Estado de Guanajuato y sus Municipios, tendrá las siguientes:
 
 I. Administrar las áreas naturales protegidas y zonas de restauración de competencia del Estado;
 
@@ -435,21 +727,35 @@ IV. Planear, ejecutar, supervisar y evaluar las labores de conservación y resta
 
 V. Diseñar y fomentar el establecimiento de incentivos económicos y estímulos fiscales para la absorción y conservación de carbono en las áreas naturales protegidas;
 
-VI. Participar en la formulación y ejecución del programa estatal y promover su cumplimiento, conforme a lo establecido en la Ley de Planeación para el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI. Participar en la formulación y ejecución del programa estatal y promover su cumplimiento, conforme a lo establecido en la Ley General, este Código y la Ley de Planeación para el Estado de Guanajuato;
 
 VII. Evaluar, en materia ambiental, el programa estatal y establecer los lineamientos e indicadores correspondientes;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII bis. Elaborar y proponer al Ejecutivo del Estado el inventario de especies vegetales nativas;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII bis 1. Emitir opiniones en el ámbito de su competencia, que le soliciten las autoridades federales, estatales y municipales;
 
 VIII. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
 IX. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
 
-#### Sección Cuarta. Comisión Estatal del Agua
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Cuarta. Comisión Estatal del Agua de Guanajuato
 
 Naturaleza y atribuciones de la Comisión
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 19.
 
-La Comisión Estatal del Agua es un organismo descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, con las atribuciones siguientes:
+La Comisión Estatal del Agua de Guanajuato es un organismo descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, con las atribuciones siguientes:
 
 I. Proponer el contenido de la planeación hidráulica que se integrará a los programas y aprobar sus programas operativos anuales;
 
@@ -457,7 +763,9 @@ II. Aplicar las estrategias, políticas, objetivos y normas que conlleven al apr
 
 III. Establecer y ejecutar las medidas, proyectos y acciones para la preservación y conservación del agua de jurisdicción estatal;
 
-IV. Emitir las metas de calidad del agua en sus diferentes usos y reusos, así como los plazos para alcanzarlas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Coadyuvar con los municipios para cumplir con las normas oficiales en materia de calidad del agua en sus diferentes usos;
 
 V. Promover el aprovechamiento sustentable de las fuentes superficiales y subterráneas de agua;
 
@@ -481,9 +789,21 @@ XIV. Ejercer las atribuciones que en materia de preservación del agua le otorga
 
 XV. Gestionar ante los ayuntamientos que los reglamentos y programas establezcan las medidas necesarias para proteger las zonas de recarga de mantos acuíferos;
 
-XVI. Promover la reconversión de tierras agropecuarias degradadas a productivas mediante prácticas de agricultura sustentable o a zonas de recarga de mantos acuíferos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XVII. Participar en la formulación y ejecución del programa estatal y promover su cumplimiento, conforme a lo establecido en la Ley de Planeación para el Estado de Guanajuato;
+XVI. Llevar a cabo las acciones relativas a la planeación, programación, presupuestación, contratación, ejecución y control de la obra pública, así como de los servicios relacionados con la misma;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVII. Participar en la formulación y ejecución del programa estatal y promover su cumplimiento, conforme a lo establecido en la Ley General, este Código y la Ley de Planeación para el Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVII bis. Fomentar la participación social y ciudadana en la gestión del agua mediante la vinculación y el apoyo a las organizaciones de usuarios del agua en el Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVII bis 1. Coordinarse con los municipios y organismos operadores en el diseño e implementación de políticas públicas, encaminadas al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible;
 
 XVIII. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
@@ -491,9 +811,11 @@ XIX. Las demás que establezca el Código y las demás disposiciones jurídicas 
 
 Órganos de gobierno
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 20.
 
-Para el gobierno, operación, administración y funcionamiento de la Comisión Estatal del Agua, se contará con un Consejo Directivo y un Director General, así como con las unidades administrativas necesarias para cumplir con sus atribuciones y que permita el presupuesto.
+Para el gobierno, operación, administración y funcionamiento de la Comisión Estatal del Agua de Guanajuato, se contará con un Consejo Directivo y un Director General, así como con las unidades administrativas necesarias para cumplir con sus atribuciones y que permita el presupuesto.
 
 Integración del Consejo Directivo
 
@@ -501,15 +823,21 @@ Integración del Consejo Directivo
 
 El Consejo Directivo estará integrado por:
 
-I. El titular la Secretaría, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. Los titulares de las Secretarías de Desarrollo Agropecuario, de Desarrollo Económico Sustentable, de Finanzas y Administración, de Salud, de Educación y de Obra Pública; así como del Instituto de Ecología, la Comisión de Vivienda y el Instituto de Planeación;
+I. El titular de la Secretaría, quien fungirá como Presidente;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Los titulares de las Secretarías de Desarrollo Agroalimentario y Rural, de Desarrollo Económico Sustentable, de Finanzas, Inversión y Administración, de Salud, de Educación y de Obra Pública; así como del Instituto de Ecología, la Comisión de Vivienda y del Instituto de Planeación;
 
 III. Seis representantes de los municipios del Estado, designados por los respectivos ayuntamientos;
 
 IV. Los representantes de los usuarios del agua, correspondiendo uno por cada uso; y
 
-V. El Director General de la Comisión Estatal del Agua, quien actuará como secretario técnico.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. El Director General de la Comisión Estatal del Agua de Guanajuato, quien actuará como secretario técnico.
 
 El reglamento interior establecerá el mecanismo para el nombramiento de los representantes a que se refieren las fracciones III y IV de este artículo.
 
@@ -519,25 +847,53 @@ El cargo de los integrantes del Consejo Directivo será de carácter honorífico
 
 Cuando el Titular del Ejecutivo asista a las sesiones del Consejo Directivo, asumirá la presidencia y el Titular de la Secretaría pasará a ser un integrante más.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+El Consejo Directivo cuando así lo considere conveniente, podrá invitar a sus sesiones a titulares de las dependencias y entidades de la administración pública, y de instituciones educativas, así como a las personas que considere idóneas, y que con su participación contribuyan al cumplimiento de los fines de la Comisión Estatal del Agua de Guanajuato, quienes asistirán con voz.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Patrimonio de la Comisión
+
+Artículo 21 bis. El patrimonio de la Comisión Estatal del Agua de Guanajuato estará constituido por:
+
+I. Las aportaciones que en su caso realicen la Federación, el Estado y los municipios;
+
+II. Las donaciones, herencias, legados, subsidios, adjudicaciones y demás aportaciones de los particulares;
+
+III. Los frutos, utilidades, productos, intereses, ventas y remanentes que obtenga de su propio patrimonio; y
+
+IV. Los demás bienes y derechos que adquiera por cualquier título.
+
 Atribuciones del Consejo
 
 ###### Artículo 22.
 
 El Consejo Directivo tendrá las atribuciones siguientes:
 
-I. Vigilar y evaluar el cumplimiento de los objetivos y atribuciones de la Comisión Estatal de Agua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. Administrar el patrimonio de la Comisión Estatal del Agua;
+I. Vigilar y evaluar el cumplimiento de los objetivos y atribuciones de la Comisión Estatal del Agua de Guanajuato;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Administrar el patrimonio de la Comisión Estatal del Agua de Guanajuato;
 
 III. Elaborar el proyecto de reglamento interior y proponer al Ejecutivo del Estado las modificaciones respectivas;
 
-IV. Autorizar y remitir al Ejecutivo del Estado el anteproyecto de presupuesto de egresos de la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-V. Ordenar la práctica de auditorías a la Comisión Estatal del Agua;
+IV. Autorizar y remitir al Ejecutivo del Estado el anteproyecto de presupuesto de egresos de la Comisión Estatal del Agua de Guanajuato;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Ordenar la práctica de auditorías a la Comisión Estatal del Agua de Guanajuato;
 
 VI. Aprobar el programa operativo anual presentado por el Director General, acorde con el Programa de Gobierno del Estado;
 
-VII. Aprobar los proyectos de la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. Aprobar los proyectos de la Comisión Estatal del Agua de Guanajuato;
 
 VIII. Examinar y aprobar los estados financieros y los informes que deba presentar el Director General; y
 
@@ -545,17 +901,23 @@ IX. Las demás que establezca el Código y las demás disposiciones jurídicas a
 
 Facultades del Director General
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 23.
 
-El Director General de la Comisión Estatal del Agua será nombrado por el Titular del Ejecutivo del Estado y tendrá las facultades siguientes:
+El Director General de la Comisión Estatal del Agua de Guanajuato será nombrado por el Titular del Ejecutivo del Estado y tendrá las facultades siguientes:
 
-I. Coordinar las actividades técnicas, administrativas y financieras de la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Coordinar las actividades técnicas, administrativas y financieras de la Comisión Estatal del Agua de Guanajuato;
 
 II. Ejecutar y dar seguimiento a los acuerdos del Consejo Directivo;
 
 III. Rendir trimestralmente al Consejo Directivo, los informes de las actividades desarrolladas;
 
-IV. Ejercer la representación legal de la Comisión Estatal del Agua y otorgar poderes para actos de administración y para pleitos y cobranzas, previa autorización del Consejo Directivo;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Ejercer la representación legal de la Comisión Estatal del Agua de Guanajuato y otorgar poderes para actos de administración y para pleitos y cobranzas, previa autorización del Consejo Directivo;
 
 V. Recabar y mantener actualizada la información relacionada con la prestación de los servicios públicos de suministro de agua potable y de drenaje, tratamiento y disposición de aguas residuales;
 
@@ -587,11 +949,15 @@ VI. Promover, apoyar y realizar investigaciones científicas y tecnológicas en 
 
 VII. Coordinar la operación y funcionamiento del Inventario Habitacional y de Suelo para Vivienda;
 
-VIII. Participar en la formulación y ejecución del programa estatal y promover su cumplimiento, conforme a lo establecido en la Ley de Planeación para el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. Participar en la formulación y ejecución del programa estatal y promover su cumplimiento, conforme a lo establecido en la Ley General, este Código y la Ley de Planeación para el Estado de Guanajuato;
 
 IX. Identificar las necesidades de infraestructura pública, equipamiento urbano y servicios públicos, proponer su incorporación en los programas, así como promover y apoyar su ejecución con los municipios y con los sectores social y privado;
 
-X. Promover ante las instancias competentes la gestión de recursos para la ejecución de acciones, obras y servicios de infraestructura pública relacionados con el desarrollo urbano;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X. Promover ante las instancias competentes la gestión de recursos para la ejecución de acciones, obras y servicios de infraestructura pública relacionados con el desarrollo urbano y la movilidad sustentable;
 
 XI. Promover ante las instancias competentes el desarrollo, construcción, conservación y mejoramiento de obras de infraestructura pública para el desarrollo urbano, en coordinación con otras dependencias y entidades de la administración pública estatal y municipal competentes;
 
@@ -639,9 +1005,13 @@ Integración de la Junta de Gobierno
 
 La Junta de Gobierno será el máximo órgano de la Comisión de Vivienda del Estado de Guanajuato y estará integrada por:
 
-I. El titular (sic) la Secretaría, quien fungirá como Presidente;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. Los titulares de las Secretarías de Gobierno, de Finanzas y Administración, de Desarrollo Económico Sustentable, de Salud, de Educación y de Obra Pública; así como del Instituto de Ecología, la Comisión Estatal del Agua y el Instituto de Planeación;
+I. El titular de la Secretaría, quien fungirá como Presidente;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Los titulares de las Secretarías de Gobierno, de Finanzas, Inversión y Administración, de Desarrollo Económico Sustentable, de Salud, de Educación y de Obra Pública; así como del Instituto de Ecología, la Comisión Estatal del Agua de Guanajuato y del Instituto de Planeación;
 
 III. Seis representantes de los municipios del Estado, designados por los respectivos ayuntamientos; y
 
@@ -715,15 +1085,21 @@ VIII. Las demás que establezca el Código y las demás disposiciones jurídicas
 
 #### Sección Sexta. Instituto de Planeación
 
-Atribuciones del Instituto
+> <small>(REFORMADO ACÁPITE, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Atribuciones del Instituto de Planeación
 
 ###### Artículo 29.
 
 El Instituto de Planeación tendrá las atribuciones siguientes:
 
-I. Coordinar la formulación, revisión, evaluación y actualización del programa estatal con la participación que corresponda a los ayuntamientos y a las dependencias y entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. Promover y facilitar la participación social en los términos del Código y de la Ley de Planeación para el Estado de Guanajuato;
+I. Coordinar la formulación, revisión, evaluación y actualización del programa estatal, con la participación que corresponda a los ayuntamientos y a las dependencias y entidades de la administración pública estatal, con apego a este Código y a la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Promover y facilitar la participación social y ciudadana en los términos de la Ley General, el Código y la Ley de Planeación para el Estado de Guanajuato;
 
 III. Conducir la consulta pública del proyecto del programa estatal;
 
@@ -739,19 +1115,53 @@ VII. Brindar asesoría y soporte técnico a las dependencias y entidades en mate
 
 VIII. Asesorar a los ayuntamientos en la formulación, revisión, evaluación y actualización de los programas municipales y metropolitanos, cuando así se lo soliciten, a efecto de que sean congruentes con el programa estatal; en la integración, conservación y actualización de la información catastral, así como en la capacitación de su personal proporcionando el apoyo técnico necesario para que en el ámbito municipal se cumplan los objetivos del Código;
 
-IX. Opinar sobre la congruencia de los proyectos de programas municipales, respecto al programa estatal, previa consulta con las dependencias y entidades correspondientes;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-X. Participar en la gestión del ordenamiento sustentable del territorio de los centros de población que constituyan o tiendan a constituir zonas conurbadas o metropolitanas, en coordinación con las autoridades federales, estatales y municipales competentes;
+IX. Dictaminar la congruencia y vinculación con la planeación nacional y estatal que deberán observar los programas municipales, metropolitanos, regionales y parciales, previa consulta con las dependencias y entidades correspondientes, en los términos de este Código y la Ley General;
 
-XI. Coordinar las acciones que convenga el Ejecutivo del Estado con la Federación, con los gobiernos de otros estados y con los ayuntamientos, para el ordenamiento sustentable del territorio de las zonas metropolitanas ubicadas en el Estado;
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX bis. Informar a los titulares del Periódico Oficial del Gobierno del Estado de Guanajuato y del Registro Público de la Propiedad, de la emisión del dictamen de congruencia o la no validación de los programas a que se refiere la fracción anterior;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X. Coordinar la planeación del ordenamiento sustentable del territorio de los centros de población que constituyan o tiendan a constituir zonas conurbadas o metropolitanas, en coordinación con las autoridades federales, estatales y municipales competentes;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI. Participar en la coordinación de las acciones que convenga el Ejecutivo del Estado con la Federación, con los gobiernos de otros estados y con los ayuntamientos, para el ordenamiento sustentable del territorio de las zonas metropolitanas ubicadas en el Estado;
 
 XII. Promover el desarrollo, construcción, conservación y mejoramiento de obras de equipamiento urbano e infraestructura pública para el desarrollo urbano, regional y metropolitano, en coordinación con los gobiernos federal y municipal, y la participación de los sectores social y privado;
 
-XIII. Promover la constitución, administración y aprovechamiento de provisiones y reservas territoriales, la programación de acciones para la dotación de infraestructura pública y equipamiento urbano, así como para la preservación y restauración del equilibrio ecológico y la protección al paisaje, a la imagen urbana y al patrimonio cultural urbano y arquitectónico, en coordinación con otras dependencias y entidades públicas y con la participación de los sectores social y privado;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIII. Promover la constitución, administración y aprovechamiento de provisiones y reservas territoriales, la programación de acciones para la dotación de infraestructura pública y equipamiento urbano, así como para la preservación y restauración del equilibrio ecológico y la protección al paisaje, a la imagen urbana y al patrimonio natural, cultural urbano y arquitectónico, en coordinación con otras dependencias y entidades públicas y con la participación de los sectores social y privado;
 
 XIV. Organizar, desarrollar y promover actividades de investigación en materia de ordenamiento y administración sustentables del territorio;
 
-XV. Intervenir en la ordenación y regulación de aquellos centros de población que constituyan o tiendan a constituir una zona conurbada o metropolitana, en coordinación con las autoridades federales, estatales y municipales competentes;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XV. Coordinar las acciones en los términos de los acuerdos o convenios de coordinación que celebre el Ejecutivo del Estado con la Federación, con otras entidades federativas, municipios o demarcaciones territoriales, según corresponda, en las materias que regula la Ley General y este Código;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XV bis. Participar en los órganos de deliberación y consulta en materia de desarrollo urbano, establecidos en la Ley General;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XV bis 1. Emitir los lineamientos y coordinar las acciones para la evaluación y seguimiento al impacto urbano o regional, que deberán observar los entes ejecutores de obras y proyectos que generen efectos en el territorio de uno o más municipios de la entidad;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XV bis 2. Incorporar los planes y programas y sus modificaciones, en el Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XV bis 3. Coadyuvar en el funcionamiento de los observatorios ciudadanos en los términos de este Código y de la Ley General;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XV bis 4. Establecer los lineamientos técnicos que deberán atender los municipios en la presentación de los proyectos de programas, para su dictamen y validación;
 
 XVI. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
@@ -765,7 +1175,9 @@ Atribuciones de la Procuraduría
 
 La Procuraduría, además de las atribuciones que se le asignan en la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato, tendrá las siguientes:
 
-I. Promover las acciones y medios de defensa procedentes para la protección al ambiente, la conservación y preservación de los espacios naturales, el ordenamiento y administración sustentable del territorio, el uso y aprovechamiento sustentable de las aguas de jurisdicción estatal y la conservación y preservación del patrimonio cultural urbano y arquitectónico, en los términos previstos en el Código y en las disposiciones jurídicas relativas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Promover las acciones y medios de defensa procedentes para la protección al ambiente, la conservación y preservación de los espacios naturales, el ordenamiento y administración sustentable del territorio, el uso y aprovechamiento sustentable de las aguas de jurisdicción estatal y la conservación y preservación del patrimonio natural, cultural urbano y arquitectónico, en los términos previstos en el Código y en las disposiciones jurídicas relativas;
 
 II. Realizar las acciones de vigilancia, así como ordenar y ejecutar las visitas de inspección y verificación relativas al cumplimiento de las disposiciones jurídicas relativas a las áreas naturales protegidas y a las zonas de restauración;
 
@@ -839,6 +1251,14 @@ Corresponden al Ayuntamiento las atribuciones siguientes:
 
 I. Aprobar, modificar, actualizar y evaluar los programas municipales, que deberán ser acordes con el programa estatal;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis. Tramitar ante el Instituto de Planeación, la dictaminación de congruencia y vinculación de sus programas con la planeación nacional y estatal en los términos de este Código;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis 1. Aprobar la publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato y la inscripción en el Registro Público de la Propiedad, de los programas que cuenten con el dictamen de congruencia emitido por el Instituto de Planeación;
+
 II. Aprobar e implementar los proyectos, estrategias y acciones para fomentar el desarrollo sustentable del Municipio y el mejoramiento de las condiciones de vida de la población, así como para preservar y restaurar el equilibrio ecológico;
 
 III. Establecer la zonificación en el programa municipal, administrarla y aprobar su modificación, en los términos del Código;
@@ -859,11 +1279,17 @@ X. Establecer las medidas necesarias para proteger las zonas de recarga de manto
 
 XI. Coadyuvar con el Ejecutivo del Estado en el ordenamiento y administración sustentable del territorio de las zonas conurbadas o metropolitanas, en el caso de que algún centro de población de su Municipio se encuentre ubicado dentro del área que establezca la declaratoria correspondiente;
 
-XII. Participar en la creación, administración y aprovechamiento de reservas territoriales e instrumentar políticas, mecanismos y acciones que permitan contar con suelo suficiente y oportuno para atender las necesidades de vivienda popular o económica y de interés social;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XIII. Celebrar convenios con el Ejecutivo del Estado, para la planeación, implementación y evaluación de las acciones para la administración sustentable del territorio de los municipios, así como para la producción de vivienda;
+XII. Participar en la creación, administración y aprovechamiento de suelo y reservas territoriales, e instrumentar políticas, mecanismos y acciones que permitan contar con suelo suficiente y oportuno para atender las necesidades urbanas, de vivienda popular o económica y de interés social;
 
-XIV. Proponer al Poder Legislativo la fundación de centros de población;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIII. Celebrar convenios y acuerdos de coordinación con la Federación, el Ejecutivo del Estado y otros municipios, para la planeación, implementación y evaluación de las acciones para la administración y ordenamiento sustentable del territorio, así como para la producción de vivienda;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIV. Proponer al Poder Legislativo la fundación o desaparición de centros de población;
 
 XV. Celebrar con propietarios, desarrolladores y productores sociales de vivienda, toda clase de actos jurídicos para el desarrollo de acciones en materia de vivienda;
 
@@ -871,17 +1297,23 @@ XVI. Promover y realizar acciones e inversiones para la conservación, consolida
 
 XVII. Fomentar la regularización de la tenencia del suelo en los términos de la legislación aplicable, en coordinación con las instancias competentes;
 
-XVIII. Asociarse con otros municipios para la planeación, ejecución y evaluación de las medidas, proyectos y acciones para el ordenamiento y administración sustentable del territorio;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Promover y realizar acciones e inversiones para la conservación, consolidación, mejoramiento y crecimiento de los centros de población, atendiendo al principio de equidad e inclusión;
 
 XIX. Participar en las comisiones y convenios de coordinación de conurbación y metropolización;
 
-XX. Cumplir las normas relativas a los polígonos de protección y salvaguarda en torno a infraestructura de carácter estratégico y de seguridad nacional y establecer las zonas intermedias de salvaguarda en torno a predios o instalaciones en que se realicen actividades de alto riesgo ambiental;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XX. Atender y cumplir los lineamientos y normas relativas a los polígonos de protección y salvaguarda en zonas de riesgo, así como de zonas restringidas o identificadas como áreas no urbanizables por disposición contenida en leyes de carácter federal;
 
 XXI. Informar y difundir permanentemente el contenido, la aplicación y la evaluación del programa municipal;
 
 XXII. Establecer las atribuciones y definir el ámbito de competencia de la Tesorería Municipal, el organismo operador y las unidades administrativas municipales en materia de administración sustentable del territorio, planeación y vivienda, para la aplicación y cumplimiento de las disposiciones del Código, sus reglamentos y el programa municipal;
 
-XXIII. Aprobar e implementar las medidas, proyectos y acciones para la protección, restauración y preservación del patrimonio cultural urbano y arquitectónico, las áreas de valor escénico, el paisaje y la imagen urbana, incluyendo el establecimiento de restricciones y modalidades a los usos del suelo y a las construcciones;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Aprobar e implementar las medidas, proyectos y acciones para la protección, restauración y preservación del patrimonio natural, cultural urbano y arquitectónico, las áreas de valor escénico, el paisaje y la imagen urbana, incluyendo el establecimiento de restricciones y modalidades a los usos del suelo y a las construcciones;
 
 XXIV. Ejercer las acciones legales correspondientes, en caso de la formación o existencia de asentamientos humanos que no cumplan con las disposiciones del Código;
 
@@ -897,6 +1329,34 @@ XXIX. Suscribir convenios de coordinación, colaboración y asistencia técnica,
 
 XXX. Fomentar la participación de los sectores social y privado en materia de ordenamiento sustentable del territorio;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXX bis. Diseñar e implementar políticas públicas encaminadas al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXX bis 1. Aprobar las sanciones administrativas a los infractores de las disposiciones jurídicas relativas al desarrollo urbano y ordenamiento ecológico territorial, reservas, usos del suelo y destinos de áreas y predios, en términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, así como dar vista a las autoridades competentes, para la aplicación de las sanciones que en materia penal se deriven de las faltas y violaciones a las citadas disposiciones jurídicas;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXX bis 2. Expedir las disposiciones administrativas de observancia general mediante las que se establezca la paleta vegetal aplicable dentro de los centros de población ubicados en el territorio del Municipio, atendiendo a lo establecido en el inventario de especies vegetales nativas;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXX bis 3. Promover el cumplimiento y la plena vigencia de los derechos relacionados con los centros de población, el desarrollo urbano y la vivienda;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXX bis 4. Acordar los mecanismos de consulta ciudadana para la formulación, modificación y evaluación de los programas municipales y los que de ellos emanen, de conformidad con lo dispuesto en este Código;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXX bis 5. Diseñar y establecer mecanismos y estímulos para la infiltración de agua en las zonas de recargas del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXX bis 6. Vigilar y proteger la seguridad, integridad y calidad del espacio público;
+
 XXXI. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones del Código; y
 
 XXXII. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
@@ -909,9 +1369,13 @@ Compete al Presidente Municipal ejercer las facultades siguientes:
 
 I. Coordinar a las dependencias y entidades municipales para el ejercicio articulado de sus respectivas facultades y atribuciones en materia de ordenamiento y administración sustentable del territorio;
 
-II. Gestionar la publicación del programa municipal, en los términos del Código;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-III. Tramitar y obtener la inscripción del programa municipal en el Registro Público de la Propiedad;
+II. Gestionar ante el Instituto de Planeación, la dictaminación de congruencia y vinculación de los programas con la planeación nacional y estatal en los términos de este Código;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. Gestionar la publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato y la inscripción en el Registro Público de la Propiedad, de los programas que cuenten con el dictamen de congruencia emitido por el Instituto de Planeación;
 
 IV. Gestionar el derecho de preferencia que corresponda al Municipio, para la adquisición de predios comprendidos en las áreas para la fundación, consolidación o crecimiento de los centros de población, señaladas en los programas municipales;
 
@@ -971,7 +1435,13 @@ XX. Sustanciar los procedimientos de evaluación de compatibilidad y someter a l
 
 XXI. Participar en la formulación de los proyectos de zonificación y de división del territorio municipal en regiones catastrales, considerando las disposiciones estipuladas en los programas municipales;
 
-XXII. Intervenir en la elaboración del inventario del patrimonio cultural urbano y arquitectónico y de las áreas de valor escénico, así como en la formulación de los proyectos, medidas y acciones para su protección, conservación y restauración;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXII. Intervenir en la elaboración del inventario del patrimonio natural, cultural urbano y arquitectónico y de las áreas de valor escénico, así como en la formulación de los proyectos, medidas y acciones para su protección, conservación y restauración;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XXII bis. Proponer y, en su caso, ejecutar acciones, inversiones y servicios públicos para la conservación, mejoramiento y crecimiento de los centros de población, atendiendo al principio de equidad e inclusión, y a la jerarquía de movilidad;
 
 XXIII. Integrar, normar y administrar el padrón de empresas afianzadoras;
 
@@ -989,9 +1459,37 @@ La unidad administrativa municipal en materia de planeación tendrá las funcion
 
 I. Asistir y proponer al Ayuntamiento la formulación, revisión y modificación de los programas municipales;
 
-II. Someter a la aprobación del Ayuntamiento las medidas y acciones para fomentar el desarrollo sustentable del Municipio y el mejoramiento de las condiciones de vida de la población, así como para preservar y restaurar el equilibrio ecológico;
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-III. Proponer al Ayuntamiento las medidas necesarias para establecer adecuados usos y destinos del suelo, para constituir y aprovechar provisiones y reservas territoriales, así como para ordenar, planear, efectuar y evaluar la conservación, mejoramiento, consolidación y crecimiento de los centros de población, con objeto de estimular la redensificación poblacional de los mismos;
+I bis. Formular, actualizar, ejecutar y evaluar los programas municipales, adoptando normas o criterios de congruencia, coordinación y ajuste con otros niveles superiores de planeación, y las normas oficiales mexicanas;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis 1. Regular, controlar y vigilar las reservas, usos del suelo y destinos de áreas y predios, así como las zonas de alto riesgo en los centros de población que se encuentren dentro del Municipio;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis 2. Formular y ejecutar acciones específicas de promoción y protección de los espacios públicos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis 3. Informar anualmente a la ciudadanía sobre la aplicación y ejecución de los programas;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis 4. Establecer y administrar el proceso para la evaluación de proyectos para la mejora o generación de espacios públicos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis 5. Desarrollar una plataforma digital de seguimiento y difusión de la planeación municipal;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Someter a la aprobación del Ayuntamiento las medidas y acciones para fomentar el desarrollo sustentable del Municipio y el mejoramiento de las condiciones de vida de la población, considerando la movilidad, así como para preservar y restaurar el equilibrio ecológico;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. Proponer al Ayuntamiento las medidas necesarias para establecer adecuados usos y destinos del suelo, para constituir y aprovechar provisiones y reservas territoriales, así como para ordenar, planear, efectuar y evaluar la conservación, mejoramiento, consolidación y crecimiento de los centros de población, con relación a las bases de la movilidad establecidas en la ley de la materia, con objeto de estimular la redensificación poblacional de los mismos;
 
 IV. Formular, con la participación de las unidades administrativas municipales correspondientes, los proyectos de zonificación y de división del territorio municipal en regiones catastrales, y someterlos a la aprobación del Ayuntamiento;
 
@@ -999,7 +1497,13 @@ V. Efectuar, en coordinación con las unidades administrativas municipales, los 
 
 VI. Realizar, en coordinación con las unidades administrativas municipales, los estudios necesarios para proponer las medidas para proteger las zonas de recarga de mantos acuíferos y para que el Ayuntamiento expida las declaratorias correspondientes, así como someter los proyectos respectivos a la aprobación del Ayuntamiento;
 
-VII. Elaborar, con la participación de la unidad administrativa municipal en materia de administración sustentable del territorio, el inventario del patrimonio cultural urbano y arquitectónico y de las áreas de valor escénico y proponer al Ayuntamiento las medidas, proyectos y acciones para su protección, conservación y restauración;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. Elaborar, con la participación de la unidad administrativa municipal en materia de administración sustentable del territorio, el inventario del patrimonio natural, cultural urbano y arquitectónico y de las áreas de valor escénico y proponer al Ayuntamiento las medidas, proyectos y acciones para su protección, conservación y restauración;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII bis. Ejecutar los mecanismos de consulta ciudadana aprobados para la formulación, modificación y evaluación de los programas municipales y los que de ellos emanen, de conformidad con lo dispuesto en este Código;
 
 VIII. Asesorar y coadyuvar con el Ayuntamiento, el Presidente Municipal y las dependencias y entidades de la administración pública municipal, en el ordenamiento sustentable del territorio;
 
@@ -1065,7 +1569,9 @@ VI. Coadyuvar con las autoridades federales y estatales en la medición cualitat
 
 VII. Fomentar una Cultura del Agua acorde con la realidad social del Estado;
 
-VIII. Promover la participación social en la planeación, ejecución y evaluación de las medidas y acciones relativas a la prestación de los servicios públicos a su cargo;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. Promover la participación social y ciudadana en la planeación, ejecución y evaluación de las medidas y acciones relativas a la prestación de los servicios públicos a su cargo;
 
 IX. Promover la investigación y desarrollo tecnológico en materia de agua;
 
@@ -1081,13 +1587,17 @@ XI. Las demás que establezca el Código y las demás disposiciones jurídicas a
 
 Planeación territorial
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 39.
 
-La planeación territorial se efectuará a través de los instrumentos programáticos y de política pública de las que disponen las autoridades competentes, para el ordenamiento sustentable del territorio, así como para la regulación del uso de suelo en el Estado y del desarrollo de los centros de población, propiciando un entorno más equilibrado, eficiente y competitivo, orientado a mejorar el nivel de vida de sus habitantes, protegiendo al ambiente y a los recursos naturales.
+La planeación territorial se efectuará a través de los instrumentos programáticos y de política pública de que disponen las autoridades competentes, para el ordenamiento sustentable del territorio, así como para la regulación del uso de suelo en el Estado y del desarrollo de los centros de población con sustento en la movilidad, propiciando un entorno más equilibrado, eficiente y competitivo, orientado a mejorar el nivel de vida de sus habitantes, protegiendo al ambiente y a los recursos naturales.
 
 La planeación territorial forma parte del Sistema Estatal de Planeación y tendrá como sustento los principios de la planeación democrática previstos en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política para el Estado de Guanajuato.
 
 Instrumentos de planeación territorial
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 40.
 
@@ -1095,17 +1605,23 @@ La planeación territorial se contendrá en los instrumentos siguientes:
 
 I. Programa estatal;
 
-II. Programas municipales; y
+II. Programas regionales;
 
-III. Programas metropolitanos.
+III. Programas metropolitanos;
 
-Los instrumentos de planeación a que se refiere este anterior deberán guardar congruencia entre sí, y se regirán por las disposiciones del Código, la Ley de Planeación para el Estado de Guanajuato y los demás ordenamientos jurídicos aplicables.
+IV. Programas municipales; y
+
+V. Programas parciales.
+
+Los instrumentos de planeación a que se refiere este artículo deberán guardar congruencia entre sí, y se regirán por las disposiciones del Código, la Ley de Planeación para el Estado de Guanajuato, la Ley General y los demás ordenamientos jurídicos aplicables.
 
 Capítulos que contendrán los programas
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 41.
 
-Los programas estatal, municipal y metropolitano se integrarán con, al menos, los capítulos siguientes:
+Los programas estatal, regional, metropolitano y municipal, se integrarán con, al menos, los capítulos siguientes:
 
 I. Exposición de motivos: en el que se señalan las condiciones actuales del territorio sobre el cual se aplicará el programa, así como su importancia como instrumento base del ordenamiento sustentable del territorio;
 
@@ -1115,15 +1631,17 @@ III. Caracterización y diagnóstico: en el que se señalan las características
 
 IV. Prospectiva y diseño de escenarios: en el que, a partir del análisis y evolución de los componentes natural, económico y social y sus relaciones, se construyen escenarios que permitan delinear perspectivas de ocupación y aprovechamiento territorial, protección de los recursos naturales, la biodiversidad y los bienes y servicios ambientales;
 
-V. Modelo de ordenamiento sustentable del territorio: en el que se establecen las políticas y estrategias de uso y ocupación del suelo, determinadas con base en los diferentes escenarios y la potencialidad y disponibilidad de los recursos, las de protección, conservación y restauración del equilibrio ecológico, así como de la evaluación de su impacto para el desarrollo. El modelo es en este contexto un instrumento de políticas destinado a normar el uso y aprovechamiento del suelo, evaluando sus potencialidades y conflictos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Modelo de ordenamiento sustentable del territorio: en el que se establecen las políticas, directrices, criterios y estrategias de uso y ocupación del suelo, determinadas con base en los diferentes escenarios y la potencialidad y disponibilidad de los recursos, las de protección, conservación y restauración del equilibrio ecológico, así como de la evaluación de su impacto para el desarrollo. El modelo es en este contexto un instrumento de políticas destinado a normar el uso y aprovechamiento del suelo, evaluando sus potencialidades y conflictos, y se territorializará en UGAT;
 
 VI. Instrumentos de política: contendrán el conjunto de medidas, mecanismos y disposiciones jurídicas, técnicas y administrativas, que permitan la institucionalización, ejecución, control y evaluación del programa;
 
 VII. Programación de proyectos, medidas, obras y acciones en el que se definirán aquéllas para:
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-a) Desarrollar proyectos y acciones de preservación y restauración del ambiente, del patrimonio cultural urbano y arquitectónico y de las áreas de valor escénico;
+a) Desarrollar proyectos y acciones de preservación y restauración del ambiente, del patrimonio natural, cultural urbano y arquitectónico y de las áreas de valor escénico;
 
 b) Ejecutar proyectos y acciones para la consolidación y mejoramiento de los centros de población, incluyendo la constitución, administración y aprovechamiento de reservas territoriales;
 
@@ -1147,9 +1665,13 @@ Los programas a que se refiere el artículo anterior se integrarán de la siguie
 
 I. Versión integral, conformada por el documento base y sus respectivos anexos; y
 
-II. Versión abreviada, conformada por el documento síntesis y la Carta de Ordenamiento Sustentable del Territorio, la que, en tratándose de los programas municipales, contendrá el Plano de Zonificación, en el que se detallarán las zonas y corredores de usos del suelo.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Las versiones abreviadas serán publicadas en el Periódico Oficial del Gobierno del Estado de Guanajuato y en un diario de circulación en la circunscripción de que se trate. En las publicaciones respectivas se hará constar el domicilio de la unidad administrativa en la que la versión integral estará a disposición pública, la que, además, se publicará de oficio a través de los medios disponibles, en los términos de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+II. Versión abreviada, conformada por el documento síntesis y el Modelo de Ordenamiento Sustentable del Territorio. Tratándose de los programas municipales, contendrá el plano de zonificación y usos del suelo de los centros de población mayores a dos mil quinientos habitantes de acuerdo al último censo del Instituto Nacional de Estadística y Geografía, en el que se detallarán las zonas y corredores de usos del suelo.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Las versiones abreviadas serán publicadas en el Periódico Oficial del Gobierno del Estado de Guanajuato y en un diario de circulación en la circunscripción de que se trate. En las publicaciones respectivas se hará constar el domicilio de la unidad administrativa en la que la versión integral estará a disposición pública, la que, además, se publicará de oficio a través de los medios disponibles, en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato.
 
 Criterios a que se sujetarán los programas
 
@@ -1159,7 +1681,9 @@ Los programas estatal, municipal y metropolitano se sujetarán a los criterios s
 
 I. La formulación de los programas deberá buscar la corrección de los desequilibrios que deterioren la calidad de vida de la población y prever las tendencias de crecimiento de los centros de población, para mantener una relación suficiente entre la base de recursos y la población, y cuidar los factores ecológicos y ambientales que son parte integrante de la calidad de vida;
 
-II. Se deberán tomar en cuenta los lineamientos y criterios contenidos en el programa de ordenamiento ecológico general del territorio que, en su caso, emitan las autoridades federales competentes;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Se deberán tomar en cuenta los lineamientos y criterios contenidos en la estrategia nacional de ordenamiento territorial y los programas nacional de ordenamiento territorial y desarrollo urbano, de prevención de riesgos, de ordenamiento ecológico general del territorio y otros programas sectoriales que, en su caso, emitan las autoridades federales competentes;
 
 III. En la determinación de los usos de suelo se buscará lograr la diversidad y eficiencia de los mismos y se evitará el desarrollo de esquemas segregados o unifuncionales, así como las tendencias a la suburbanización extensiva;
 
@@ -1167,7 +1691,9 @@ IV. Se deberán implementar, de manera prioritaria, las acciones, proyectos y me
 
 V. En la determinación de las áreas para el crecimiento y consolidación de los centros de población, se procurará que la mezcla de los usos habitacionales con los productivos no represente riesgos o daños a la salud de la población y se evitará que se afecten áreas con alto valor ambiental;
 
-VI. Se deberá privilegiar el establecimiento de sistemas de transporte colectivo y otros medios de eficiencia energética y ambiental;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI. Se deberá considerar el enfoque del desarrollo orientado al transporte colectivo, para priorizar medios de transporte masivo, de conformidad con la Ley de Movilidad del Estado de Guanajuato y sus Municipios, y otros medios de eficiencia energética;
 
 VII. Se establecerán y manejarán de manera prioritaria las zonas de conservación ecológica y de recarga de los mantos acuíferos;
 
@@ -1179,7 +1705,9 @@ X. En las zonas que se hubieren determinado como aptas para uso industrial pero 
 
 XI. Se deberán establecer zonas intermedias de salvaguarda en torno a las áreas o predios en que se realicen actividades riesgosas, en las que no se permitirán los usos habitacionales, comerciales u otros que pongan en riesgo a la población; y
 
-XII. Se deberán evitar los asentamientos humanos en zonas donde las poblaciones se expongan a riesgo de desastres por impactos adversos del cambio climático.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XII. Se deberán evitar los asentamientos humanos en zonas donde las poblaciones se expongan a riesgo de desastres por impactos adversos del cambio climático y en áreas no urbanizables.
 
 Etapas del proceso de planeación
 
@@ -1205,9 +1733,13 @@ II. El desarrollo urbano de los centros de población y su regulación ambiental
 
 III. La construcción de vivienda popular o económica y de interés social;
 
-IV. La conservación del patrimonio cultural urbano y arquitectónico, las áreas de valor escénico, el paisaje, la imagen urbana, así como las áreas y centros de población que hayan sido declarados Patrimonio Cultural;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-V. La accesibilidad de las personas con discapacidad, en igualdad de condiciones con las demás, al transporte público, y a servicios e instalaciones abiertos al público o de uso público;
+IV. La conservación del patrimonio natural, cultural urbano y arquitectónico, las áreas de valor escénico, el paisaje, la imagen urbana, así como las áreas y centros de población que hayan sido declarados Patrimonio Cultural;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. La accesibilidad de las personas con discapacidad o movilidad reducida, en igualdad de condiciones con las demás, al transporte público, y a servicios e instalaciones abiertos al público o de uso público;
 
 VI. La eficientización de la prestación de los servicios públicos;
 
@@ -1241,17 +1773,29 @@ Procedimiento para la formulación y aprobación del programa estatal
 
 En la formulación y aprobación del programa estatal se seguirá el procedimiento siguiente:
 
-I. La elaboración del diagnóstico será coordinado por el Instituto de Planeación, con la participación de la Secretaría, la Comisión de Vivienda, el Instituto de Ecología y la Comisión Estatal del Agua, a partir de los resultados de los estudios e investigaciones de que dispongan;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. El Instituto de Planeación, con la participación de la Secretaría, la Comisión de Vivienda, el Instituto de Ecología y la Comisión Estatal del Agua, formulará el proyecto del programa estatal;
+I. La elaboración del diagnóstico será coordinada por el Instituto de Planeación, con la participación de la Secretaría, la Comisión de Vivienda, el Instituto de Ecología y la Comisión Estatal del Agua de Guanajuato, así como de las dependencias y entidades de la administración pública federal y estatal que se estime necesaria, a partir de los resultados de los estudios e investigaciones de que dispongan;
 
-III. Formulado el proyecto, el Instituto de Planeación lo remitirá a los ayuntamientos, al Consejo Estatal de Vivienda, al Consejo Consultivo Ambiental y al Consejo Estatal Hidráulico, así como a las dependencias y entidades de la administración pública cuya opinión se estime necesaria, para que la emitan dentro de los quince días hábiles siguientes a la recepción del proyecto;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IV. Una vez recibidas las opiniones de los ayuntamientos, los consejos y las dependencias y entidades descritas en la fracción que antecede, o habiendo transcurrido el plazo sin que se hayan formulado, el Instituto de Planeación las integrará al proyecto dentro de los quince días hábiles siguientes y, con objeto de que se someta a consulta pública, lo remitirá al Consejo de Planeación para el Desarrollo del Estado de Guanajuato, para que emita su opinión dentro de los cuarenta y cinco días hábiles siguientes a la recepción del proyecto;
+II. El Instituto de Planeación, con la participación de la Secretaría, la Comisión de Vivienda, el Instituto de Ecología y la Comisión Estatal del Agua de Guanajuato, así como de las dependencias y entidades de la administración pública estatal que se estime necesaria, formulará el proyecto del programa estatal;
 
-V. El Consejo de Planeación para el Desarrollo del Estado de Guanajuato, una vez recibido el proyecto del programa estatal, lo pondrá a disposición del público en general, con el objeto de que cualquier persona pueda formular sugerencias, propuestas u objeciones;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-VI. El Instituto de Planeación, recibidos los resultados de la consulta pública, y con la participación de la Secretaría, la Comisión de Vivienda, el Instituto de Ecología y la Comisión Estatal del Agua, realizará las adecuaciones procedentes dentro de los diez días hábiles siguientes, y someterá a la aprobación del Ejecutivo del Estado el proyecto del programa estatal; y
+III. Formulado el proyecto, el Instituto de Planeación lo remitirá a los ayuntamientos, al Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, a los demás consejos consultivos que estime pertinente, así como a las dependencias y entidades de la administración pública estatal cuya opinión se estime necesaria, para que la emitan dentro de los treinta días hábiles siguientes a la recepción del proyecto;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Una vez recibidas las opiniones de los ayuntamientos, los consejos y las dependencias y entidades descritas en la fracción que antecede, o habiendo transcurrido el plazo sin que se hayan formulado, el Instituto de Planeación las integrará al proyecto dentro de los treinta días hábiles siguientes y, con objeto de que se someta a consulta pública, lo remitirá al Consejo de Planeación para el Desarrollo del Estado de Guanajuato, para que emita su opinión dentro de los cuarenta y cinco días hábiles siguientes a la recepción del proyecto;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. El Consejo de Planeación para el Desarrollo del Estado de Guanajuato, una vez recibido el proyecto del programa estatal, en el plazo que le señala la fracción anterior lo pondrá a disposición del público en general, en consulta pública, para que los interesados presenten en forma impresa en papel, o en forma electrónica a través del sitio web del Instituto de Planeación, los planteamientos que consideren respecto del proyecto del programa estatal;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI. El Instituto de Planeación, recibidos los resultados de la consulta pública, y con la participación de la Secretaría, la Comisión de Vivienda, el Instituto de Ecología y la Comisión Estatal del Agua de Guanajuato, realizará las adecuaciones procedentes dentro de los diez días hábiles siguientes, y someterá a la aprobación del Ejecutivo del Estado el proyecto del programa estatal; y
 
 VII. Aprobado el programa estatal por el Titular del Ejecutivo, el Instituto de Planeación:
 
@@ -1287,6 +1831,14 @@ IX. La combinación deseable que debe existir entre el desarrollo urbano, las co
 
 X. El impacto turístico de nuevos centros de población, vialidades urbanas y demás obras de infraestructura pública y equipamiento urbano;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X bis. El inventario de especies vegetales nativas;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X bis 1. La vulnerabilidad del territorio por impactos adversos del cambio climático o procesos acelerados de desertificación;
+
 XI. Las modalidades que, de conformidad con la Ley General de Turismo, la Ley de Turismo para el Estado de Guanajuato y sus Municipios, establezcan los decretos por los que se constituyan las zonas de desarrollo turístico sustentable; y
 
 XII. Las medidas de protección y conservación establecidas en las declaratorias de áreas o centros de población como Patrimonio Cultural, en los términos de la Convención sobre la Protección del Patrimonio Mundial, Cultural y Natural, así como aquéllas relativas a las zonas de monumentos arqueológicos, artísticos o históricos, y en las demás disposiciones legales aplicables en los sitios en que existan o se presuma la existencia de elementos arqueológicos propiedad de la Nación.
@@ -1301,7 +1853,13 @@ I. La determinación de las diferentes regiones ecológicas del Estado, describi
 
 II. Los criterios de regulación ambiental para la preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales que se localicen en el Estado, así como para la realización de actividades productivas y la ubicación de los centros de población;
 
-III. La planeación hidráulica;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. Los objetivos y estrategias de la planeación hidráulica;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III bis. Los objetivos y estrategias del programa estatal de movilidad;
 
 IV. Las normas para la constitución y aprovechamiento de las provisiones y reservas territoriales;
 
@@ -1327,7 +1885,9 @@ b) La determinación de las zonas para la consolidación y crecimiento de los ce
 
 c) El impulso y apoyo a la construcción de vivienda popular o económica y de interés social;
 
-d) La protección y conservación de los parques urbanos, jardines públicos y áreas verdes, así como del patrimonio cultural urbano y arquitectónico, y de las zonas de valor escénico; y
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+d) La protección y conservación de los parques urbanos, jardines públicos y áreas verdes, así como del patrimonio natural, cultural urbano y arquitectónico, y de las zonas de valor escénico; y
 
 e) La identificación de las zonas de riesgo y el establecimiento de las modalidades y restricciones para el uso del suelo y a las construcciones, incluyendo la definición de los polígonos de protección en torno a instalaciones penitenciarias o de seguridad nacional, así como la de zonas intermedias de salvaguarda en torno a predios, áreas o instalaciones en que se realicen actividades de alto riesgo ambiental;
 
@@ -1349,7 +1909,13 @@ c) El mejoramiento del abasto de bienes de consumo básico;
 
 d) El mejoramiento de los medios de transporte colectivo y el fomento a la movilidad no motorizada;
 
-e) La accesibilidad de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte y a otros servicios e instalaciones de uso público;
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+e) La accesibilidad de las personas con discapacidad o movilidad reducida, en igualdad de condiciones con las demás, al entorno físico, el transporte y a otros servicios e instalaciones de uso público;
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+e) bis El mejoramiento de la infraestructura para el manejo integral de residuos sólidos;
 
 f) El incremento de las actividades deportivas y recreativas de la población; y
 
@@ -1369,9 +1935,11 @@ XII. La definición de los indicadores de gestión y de los mecanismos de evalua
 
 Planeación hidráulica
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 51.
 
-La planeación hidráulica a que se refiere el artículo anterior comprenderá:
+La planeación hidráulica comprenderá:
 
 I. La integración, depuración, actualización y diseminación de la información básica sobre la gestión del agua, la que contendrá:
 
@@ -1389,7 +1957,9 @@ II. La realización de estudios que permitan complementar y actualizar el acervo
 
 III. Las bases y lineamientos para:
 
-a) La formulación y actualización del apartado relativo a la planeación hidráulica en el programa estatal, el Programa de Gobierno del Estado, los programas que deriven del mismo y en los programas operativos anuales de la Comisión Estatal del Agua;
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+a) La formulación y actualización del apartado relativo a la planeación hidráulica en el programa estatal, el Programa de Gobierno del Estado, los programas que deriven del mismo y en los programas operativos anuales de la Comisión Estatal del Agua de Guanajuato;
 
 b) La programación y evaluación anual del cumplimiento de metas y del impacto de los programas, políticas y acciones en materia hidráulica estatal;
 
@@ -1409,6 +1979,14 @@ i) El fomento de la investigación y capacitación en materia hídrica; y
 
 j) La orientación social sobre la problemática del agua y sus soluciones, así como la creación de una nueva Cultura del Agua acorde con la realidad social del Estado.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Instrumentos de la planeación hidráulica
+
+Artículo 51 bis. El Programa Estatal Hidráulico es el instrumento de planeación que definirá la estrategia para la gestión integral sustentable del agua en el Estado, con base en un diagnóstico de la situación actual y prospectiva del recurso, evaluación participativa de estrategias alternativas y distribución de responsabilidades.
+
+La Comisión Estatal del Agua de Guanajuato será la responsable de coordinar su elaboración, ejecución, seguimiento y evaluación, en coordinación con las dependencias y entidades competentes en la materia.
+
 Procedimiento para la revisión, modificación y actualización del programa estatal
 
 ###### Artículo 52.
@@ -1417,11 +1995,13 @@ La revisión, modificación y actualización del programa estatal se realizará 
 
 Revisión y actualización del programa estatal
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 53.
 
-El programa estatal deberá ser revisado y actualizado dentro de los seis meses siguientes a la publicación de los resultados de los Censos Nacionales de Población y Vivienda.
+El programa estatal deberá ser revisado y actualizado dentro de los seis meses siguientes a la publicación o actualización del Plan Estatal de Desarrollo.
 
-En caso de que los resultados de los Conteos de Población y Vivienda evidencien cambios sustanciales en la situación demográfica, social o económica de la población del Estado, o se alteren drásticamente las condiciones ambientales de la entidad, el programa estatal podrá ser revisado y modificado dentro de los seis meses siguientes a la publicación de los resultados a que se refiere este párrafo o a que se manifiesten las alteraciones en las condiciones ambientales.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Autoridad encargada del control y evaluación de la planeación territorial
 
@@ -1457,7 +2037,9 @@ II. El diagnóstico de la situación habitacional en el Estado, incluyendo el an
 
 III. Los objetivos, políticas y metas que se pretendan implementar;
 
-IV. La concordancia con la planeación y programación del desarrollo económico, social, ambiental y urbano del Estado;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. La concordancia con la planeación y programación del desarrollo económico, social, ambiental y urbano, y la movilidad sustentable del Estado;
 
 V. Las medidas, proyectos y acciones a desarrollar, la descripción de las distintas modalidades de atención, el señalamiento de metas y prioridades y su previsible impacto en el sistema urbano, así como en el desarrollo regional, económico y social del Estado, con una visión de corto, mediano y largo plazo; identificando las fuentes de financiamiento, la estimación de recursos necesarios, así como los mecanismos para fomentar la producción de vivienda con la participación de los sectores público, social y privado;
 
@@ -1497,7 +2079,9 @@ I. El Ayuntamiento ordenará a la unidad administrativa municipal en materia de 
 
 II. Una vez elaborado el diagnóstico, el Ayuntamiento ordenará que se elabore el proyecto correspondiente;
 
-III. Formulado el proyecto, la unidad administrativa municipal en materia de planeación lo remitirá a las dependencias y entidades de la administración pública cuya opinión se estime necesaria, para que la emitan dentro de los diez días hábiles siguientes a la recepción del proyecto;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. Formulado el proyecto, la unidad administrativa municipal en materia de planeación lo remitirá a las dependencias y entidades de la administración pública municipal en materia de protección civil, movilidad, administración sustentable del territorio, infraestructura y aquellas cuya opinión se estime necesaria, para que la emitan dentro de los diez días hábiles siguientes a la recepción del proyecto;
 
 IV. Una vez integradas las opiniones de las dependencias y entidades descritas en la fracción que antecede, o habiendo transcurrido el plazo sin que se hayan formulado, se presentará el proyecto de programa al Ayuntamiento, el que acordará someterlo a consulta pública; para tal efecto:
 
@@ -1509,21 +2093,69 @@ c) Dispondrá que se faciliten copias de la versión abreviada del proyecto a qu
 
 V. El Ayuntamiento, por conducto de la unidad administrativa municipal en materia de planeación, convocará y coordinará la consulta pública, la que deberá consumarse dentro de los cuarenta y cinco días hábiles siguientes a la emisión del acuerdo respectivo;
 
-VI. El Ayuntamiento remitirá al Instituto de Planeación el proyecto para que emita la opinión respecto a la congruencia del mismo con el programa estatal;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-VII. El Instituto de Planeación emitirá la opinión a que se refiere la fracción anterior, dentro de los diez días hábiles siguientes a la presentación del mismo; en caso de que no sea emitida la opinión correspondiente dentro del plazo señalado, se entenderá que el proyecto de programa municipal es congruente con el programa estatal;
+VI. Concluida la consulta pública y recibidas las opiniones emitidas o transcurrido el plazo sin que éstas hayan sido presentadas, el Ayuntamiento, por conducto de la unidad administrativa municipal en materia de planeación, efectuará las adecuaciones procedentes, dentro de los diez días hábiles siguientes;
 
-VIII. Concluida la consulta pública y recibidas las opiniones emitidas o transcurrido el plazo sin que éstas hayan sido presentadas, el Ayuntamiento, por conducto de la unidad administrativa en materia de planeación, efectuará las adecuaciones procedentes, dentro de los diez días hábiles siguientes;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IX. El proyecto será presentado, con las adecuaciones efectuadas, al Ayuntamiento para su aprobación; y
+VII. El Ayuntamiento remitirá al Instituto de Planeación el proyecto para que emita el dictamen de congruencia y vinculación con la planeación nacional y estatal;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. El Instituto de Planeación una vez recibido el proyecto del programa municipal, procederá de conformidad a lo siguiente:
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+a) Dentro de los cinco días hábiles siguientes a la fecha de recepción, revisará que el proyecto reúna todos y cada uno de los requerimientos establecidos en los lineamientos correspondientes; ante la falta de alguno de ellos requerirá al Municipio para que subsane dicha omisión dentro de los cinco días hábiles siguientes al requerimiento, en caso de que el Municipio no atienda el requerimiento, se tendrá por no presentado el proyecto;
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+b) Cuando el proyecto reúna los requisitos establecidos en los lineamientos, el Instituto de Planeación contará con un término de hasta cuarenta días hábiles para su análisis, en coordinación con otras dependencias y entidades de la administración pública estatal;
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+c) En caso de existir observaciones devolverá el proyecto al Municipio para su atención. Las observaciones precisarán los contenidos o aspectos específicos que el Municipio deberá atender o subsanar a fin de que pueda obtener el dictamen de congruencia y vinculación del programa municipal;
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+d) Notificadas las observaciones, el Municipio contará con un término de hasta veinte días hábiles para presentar el proyecto del programa en el que se solventen la totalidad de las mismas. En caso contrario se tendrá por no presentado el proyecto; e
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+e) Recibido el proyecto, el Instituto de Planeación contará con un término de veinte días hábiles para emitir el dictamen correspondiente, el cual podrá ser de congruencia y vinculación con la planeación nacional y estatal, o de no congruencia. En caso de no ser favorable, el dictamen deberá justificar de manera clara y expresa las recomendaciones que considere pertinentes para que el Ayuntamiento efectúe las modificaciones correspondientes e inicie un nuevo procedimiento;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX. El proyecto dictaminado de congruencia por el Instituto de Planeación, será presentado al Ayuntamiento para su aprobación;
 
 X. Aprobado el programa, el Presidente Municipal:
 
-a) Gestionará la publicación en términos del último párrafo del artículo 42 del Código;
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+a) Gestionará la publicación en términos del último párrafo del artículo 42 del Código y de los lineamientos técnicos que deberán atender los municipios para la presentación de los proyectos de programas, para su dictamen de congruencia y publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato;
 
 b) Tramitará y obtendrá su inscripción en el Registro Público de la Propiedad; y
 
 c) Enviará a la Secretaría y al Instituto de Planeación una copia de la versión integral del programa municipal.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+El Director del Periódico Oficial del Gobierno del Estado de Guanajuato una vez que reciba el programa municipal dictaminado de congruencia, previo a su publicación, cotejará con el Instituto de Planeación que el instrumento recibido corresponda a la versión dictaminada por este último. De no coincidir con dicha versión, requerirá a la autoridad municipal para que le remita el instrumento correcto. Asimismo, el Registrador Público de la Propiedad correspondiente, contará con la facultad establecida en el presente párrafo, previo a la inscripción del programa municipal en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Coordinación para la formulación y aprobación de los programas parciales
+
+Artículo 58 bis. Para la formulación y aprobación de los programas parciales, corresponderá coordinar su elaboración al Instituto de Planeación, cuando deriven de los programas estatal, metropolitano o regional; y a la unidad administrativa municipal en materia de planeación, cuando deriven de un programa municipal.
+
+Para tales efectos, se estará en lo conducente a lo dispuesto en los artículos 48, 58 y 71 del Código, en el ámbito de sus respectivas competencias, en las etapas y bajo las especificaciones que se señalen en el reglamento.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Publicación de los programas parciales
+
+Artículo 58 bis 1. Los programas parciales una vez aprobados por el Titular del Poder Ejecutivo o el Ayuntamiento, según corresponda, y dictaminados de su congruencia, se publicarán en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Elementos para la formulación y modificación de los programas municipales
 
@@ -1575,15 +2207,35 @@ a) Las características de las vialidades urbanas, señalando los alineamientos 
 
 b) Las características de los sistemas de transporte de pasajeros y de carga que se utilicen en las vialidades urbanas;
 
-VII. Fomentar la movilidad urbana integrada y sustentable, privilegiando el uso del transporte público masivo, de sistemas no motorizados y de aquéllos de menor impacto ambiental;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-VIII. Identificar y clasificar el patrimonio cultural urbano y arquitectónico y las áreas de valor escénico, y establecer, para su protección, las modalidades y restricciones al uso del suelo y a las construcciones;
+VII. Fomentar la movilidad sustentable, privilegiando la jerarquía de la movilidad, en los términos de la ley de la materia;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. Identificar y clasificar el patrimonio natural, cultural urbano y arquitectónico y las áreas de valor escénico, y establecer, para su protección, las modalidades y restricciones al uso del suelo y a las construcciones;
 
 IX. Establecer los criterios de regulación ambiental para la protección, preservación, restauración y aprovechamiento sustentable de los recursos naturales dentro de los centros de población, a fin de que sean considerados en los programas correspondientes;
 
 X. Conservar y mejorar el paisaje y la imagen urbana;
 
 XI. Identificar las zonas de riesgo y establecer las modalidades y restricciones al uso del suelo y a las construcciones, incluyendo la definición de los polígonos de protección en torno a instalaciones penitenciarias o de seguridad nacional, así como la de zonas intermedias de salvaguarda en torno a áreas, predios o instalaciones en que se realicen actividades de alto riesgo ambiental;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI bis. Establecer las previsiones y acciones prioritarias para conservar, proteger, acrecentar y mejorar el espacio público. Asimismo, para definir la dotación de espacio público en cantidades no menores a lo establecido por las normas oficiales mexicanas aplicables;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI bis 1. Establecer las políticas y acciones de movilidad residencial que faciliten la venta, renta o intercambio de inmuebles, para una mejor interrelación entre el lugar de vivienda, el empleo y demás satisfactores urbanos, tendientes a disminuir la distancia y frecuencia de los traslados y hacerlos más eficientes;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI bis 2. Considerar las normas oficiales mexicanas emitidas en la materia;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI bis 3. Establecer la prohibición para el uso de suelo y permiso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas;
 
 XII. Identificar los instrumentos financieros que permitan la suficiencia de recursos para la realización de las siguientes acciones específicas:
 
@@ -1597,7 +2249,9 @@ a) Evitar la concentración de la propiedad inmobiliaria;
 
 b) Promover una relación conveniente entre la oferta y la demanda de la vivienda;
 
-c) Preservar, conservar, mejorar y aprovechar de manera sustentable las áreas de valor escénico o los inmuebles que formen parte del patrimonio cultural urbano y arquitectónico, así como sus zonas de entorno; y
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+c) Preservar, conservar, mejorar y aprovechar de manera sustentable las áreas de valor escénico o los inmuebles que formen parte del patrimonio natural, cultural urbano y arquitectónico, así como sus zonas de entorno; y
 
 d) Aprobar, ejecutar y evaluar las estrategias emergentes de ordenamiento territorial a que se refiere el artículo 66 del Código.
 
@@ -1643,7 +2297,9 @@ a) El diagnóstico de la situación habitacional en el Municipio de que se trate
 
 b) Los objetivos, políticas y metas generales y particulares que se pretendan;
 
-c) La concordancia con las políticas estatales de vivienda, así como con la programación del desarrollo económico, social, ambiental y urbano del Estado;
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+c) La concordancia con las políticas estatales de vivienda, así como con la programación del desarrollo económico, social, ambiental y urbano, y la movilidad sustentable;
 
 d) Las medidas, proyectos y acciones a desarrollar, la descripción de las distintas modalidades de atención, el señalamiento de metas y prioridades y su previsible impacto en los centros de población, así como en el desarrollo regional, económico y social del Municipio, con una visión de corto, mediano y largo plazo; identificando las fuentes de financiamiento, la estimación de recursos necesarios, así como los mecanismos para fomentar la producción de vivienda con la participación de los sectores público, social y privado;
 
@@ -1713,15 +2369,25 @@ Además, deberá de manera pormenorizada:
 
 I. Articular los distintos instrumentos de planeación de los tres órdenes de gobierno;
 
-II. Establecer los elementos de la estructura urbana y de la clasificación básica del territorio en zonas urbanas, urbanizables y no urbanizables, así como las áreas de suelo estratégico a que se sujetarán los programas municipales que se ubiquen en dicha zona conurbada o zona metropolitana;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-III. Definir las acciones de movilidad urbana integrada y sustentable, privilegiando el uso del transporte público masivo, de sistemas no motorizados y de aquéllos de menor impacto ambiental;
+II. Establecer los elementos de la estructura urbana y de la clasificación básica del territorio en zonas urbanas, urbanizables y no urbanizables, así como las áreas de suelo estratégico y las reservas territoriales a que se sujetarán los programas municipales que se ubiquen en dicha zona conurbada o zona metropolitana;
 
-IV. Definir las acciones para preservar los recursos naturales y mejorar las condiciones ambientales, a fin de mantener el equilibrio ecológico; definir las políticas hidráulicas, considerando integralmente las fuentes, la dotación de agua potable, el saneamiento, la recuperación de agua pluvial, el tratamiento y reuso del agua y la recarga de acuíferos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-V. Conservar y mejorar la imagen urbana y el patrimonio cultural urbano y arquitectónico;
+III. Definir las acciones de infraestructura vial y movilidad sustentable, privilegiando el uso del transporte público masivo, de sistemas no motorizados y de aquéllos de menor impacto ambiental;
 
-VI. Definir las políticas e instrumentos para el ordenamiento, reestructuración, localización, mejoramiento y crecimiento de la infraestructura y los equipamientos en la zona conurbada o zona metropolitana y su área de influencia, así como los polígonos de protección y amortiguamiento de instalaciones riesgosas o de seguridad nacional; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Definir las acciones para la preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, incluyendo la calidad del aire y la protección de la atmósfera; definir las políticas hidráulicas, considerando integralmente las fuentes, la dotación de agua potable, el saneamiento, el drenaje, la recuperación y aprovechamiento de las aguas pluviales, el tratamiento y reuso del agua y la recarga de acuíferos; la gestión integral de residuos sólidos; y la prevención, mitigación, adaptación y resiliencia ante los riesgos y los efectos del cambio climático;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Conservar y mejorar la imagen urbana y el patrimonio natural, cultural urbano y arquitectónico;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VI. Definir las políticas e instrumentos para el ordenamiento, reestructuración, localización, mejoramiento y crecimiento de la infraestructura y los equipamientos en la zona conurbada o zona metropolitana y su área de influencia, así como los polígonos de protección y amortiguamiento de instalaciones riesgosas o de seguridad nacional, la densificación, la consolidación urbana y el uso eficiente del territorio, con espacios públicos seguros y de calidad, como eje articulador; y
 
 VII. Establecer los indicadores que permitan dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del programa metropolitano.
 
@@ -1731,13 +2397,17 @@ Procedimiento para la formulación y aprobación del programa metropolitano
 
 El procedimiento para la formulación y aprobación del programa metropolitano será el siguiente:
 
-I. Una vez que los ayuntamientos hubieren autorizado la formulación del proyecto de programa, la Comisión de Conurbación o la Comisión Metropolitana encomendará su realización al Instituto, cumpliendo para ello con los procedimientos y pasos establecidos en el Código para la formulación de los programas municipales. En el caso de la actualización del programa metropolitano se seguirá el mismo procedimiento; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Una vez que los ayuntamientos hubieren autorizado la formulación del proyecto de programa, la Comisión de Conurbación o la Comisión Metropolitana encomendará su realización al Instituto de Planeación, cumpliendo para ello con los procedimientos y pasos establecidos en el Código para la formulación de los programas municipales. En el caso de la actualización del programa metropolitano se seguirá el mismo procedimiento; y
 
 II. La Comisión de Conurbación o la Comisión Metropolitana será la instancia encargada de presentar a los ayuntamientos y al Titular del Ejecutivo el proyecto del programa metropolitano para su aprobación.
 
 Para que el programa metropolitano surta sus efectos deberá publicarse en el Periódico Oficial del Gobierno del Estado de Guanajuato y en un diario de circulación en los municipios de que se trate, así como estar inscrito en el Registro Público de la Propiedad.
 
-En caso de ser aprobado por la totalidad de los ayuntamientos involucrados y por el Titular del Ejecutivo, se procederá a su publicación. Si algún Ayuntamiento se niegue a aprobar o publicar el programa metropolitano, se resolverá en los términos del artículo 89, fracción XV, inciso A, de la Constitución Política para el Estado de Guanajuato.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+En caso de ser aprobado por la totalidad de los ayuntamientos involucrados y por el Titular del Ejecutivo, se procederá a su publicación. Si algún Ayuntamiento se niega a aprobar o publicar el programa metropolitano, se resolverá en los términos del artículo 88, fracción XV, inciso A, de la Constitución Política para el Estado de Guanajuato.
 
 Contenido de los programas metropolitanos
 
@@ -1745,17 +2415,21 @@ Contenido de los programas metropolitanos
 
 Los programas metropolitanos, además de las previsiones establecidas en el artículo 60 del Código, deberán contener:
 
-I. El diagnóstico integral de la zona metropolitana o zona conurbada de que se trate;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. El diagnóstico integral de la zona metropolitana o zona conurbada de que se trate, que incluya una visión prospectiva;
 
 II. La definición de los objetivos, metas, criterios, políticas y estrategias;
 
 III. La determinación de los proyectos estratégicos y acciones prioritarias;
 
-IV. La articulación con los instrumentos de planeación territorial que inciden en la zona de que se trate;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+IV. La articulación con los instrumentos de planeación territorial nacional y estatal que inciden en la zona de que se trate;
 
-V. Los elementos de la infraestructura pública y de equipamiento urbano requeridos para el desarrollo de la zona metropolitana o zona conurbada; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Las acciones y las previsiones de inversión para la dotación de infraestructura, equipamiento y servicios urbanos que sean requeridos para el desarrollo de la zona metropolitana o zona conurbada; y
 
 VI. La clasificación básica del territorio de los centros de población, en áreas urbanizadas, áreas para consolidación, áreas para crecimiento y áreas no urbanizables, a que se sujetarán los programas municipales que se ubiquen en la zona metropolitana o zona conurbada.
 
@@ -1765,13 +2439,89 @@ Revisión y modificación de los programas municipales
 
 Una vez publicado el programa metropolitano, cada Ayuntamiento revisará y, en su caso, modificará los programas municipales, dentro de los tres meses siguientes.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Cuarta Bis. Programas parciales
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Programas parciales
+
+Artículo 73 bis. Los programas parciales son los instrumentos de planeación territorial que tienen por objeto regular y establecer las acciones de desarrollo urbano en áreas específicas con condiciones particulares, a fin de ejecutar las políticas y objetivos previstos en éstos.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Origen de los programas parciales
+
+Artículo 73 bis 1. Los programas parciales sólo podrán derivar cuando estén contemplados como una estrategia de los programas:
+
+I. Estatal;
+
+II. Regionales;
+
+III. Metropolitanos; y
+
+IV. Municipales.
+
+Los programas parciales deben ser congruentes con las políticas, estrategias y objetivos previstos en los programas de los cuales se derivan.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Formulación de los programas parciales
+
+Artículo 73 bis 2. Los programas parciales se formularán, para:
+
+I. La protección, conservación, mejoramiento o restauración de la imagen urbana y de paisaje; de áreas de valor escénico; del ambiente y del patrimonio natural, cultural urbano y arquitectónico;
+
+II. La movilidad sustentable;
+
+III. La renovación urbana;
+
+IV. La consolidación urbana; y
+
+V. Determinar la zonificación y el diseño urbano del área, regular los usos y destinos del suelo urbano, en los centros de población menores a dos mil quinientos habitantes.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Ámbito de aplicación
+
+Artículo 73 bis 3. De acuerdo a su ámbito de aplicación, los programas parciales podrán ser:
+
+I. Intraurbanos, para regular a detalle las áreas urbanas de los centros de población; y
+
+II. De cobertura subregional, en porciones determinadas del territorio estatal, incluso si se ubican en el territorio de dos o más municipios.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Capítulos que contendrán los programas parciales
+
+Artículo 73 bis 4. Los programas parciales se integrarán con al menos, los capítulos siguientes:
+
+I. Exposición de motivos: como instrumento de ordenamiento sustentable del territorio en materia de desarrollo urbano, de manera general se explicará la importancia y beneficios del programa; la definición, explicación y justificación de la acción o acciones urbanísticas a implementar (renovación, protección, consolidación, mejoramiento y conservación); la congruencia con el programa del que derive; los objetivos generales y específicos; los aspectos relevantes a considerar; y el nombre específico del programa parcial, localización y delimitación del área de estudio y superficie;
+
+II. Marco jurídico: fundar y motivar el procedimiento para la formulación del programa, así como su apego y congruencia con el plan estatal o municipal de desarrollo y con los instrumentos de desarrollo urbano y de ordenamiento ecológico territorial federal, estatal y, en su caso, municipal;
+
+III. Caracterización y diagnóstico: analizar las características del territorio de la zona de estudio; la relación e integración con la ciudad o localidades, abordando de manera integral y sistémica los componentes natural, económico, social, y del medio físico transformado; y la aptitud del territorio para sostener las actividades de los diferentes sectores, problemáticas, conflictos y oportunidades;
+
+IV. Prospectiva y diseño de escenarios: a partir del análisis y evolución de los componentes natural, del medio físico transformado, económico y social, sus relaciones y umbrales, se construirán escenarios que permitan delinear prospectivas de ocupación y aprovechamiento territorial, y de protección de los recursos naturales, la biodiversidad y los bienes y servicios ambientales;
+
+V. Modelo: con base y en congruencia respecto al modelo de ordenamiento sustentable del territorio estatal, regional, metropolitano o municipal, en el que se definen las UGAT y las estrategias de desarrollo urbano establecidas en el mismo programa del que derivan, se definirá la zonificación o corredores, usos y destinos del suelo de la zona de estudio, de acuerdo a la acción urbana a implementar según corresponda;
+
+VI. Instrumentos de política: conjunto de medidas, mecanismos y disposiciones jurídicas, técnicas y administrativas, que permitan la institucionalización, ejecución, control y evaluación del programa;
+
+VII. Programación de proyectos, medidas, obras y acciones: integración programática y calendarizada de las acciones, proyectos, medidas y obras que deberán realizarse a corto, mediano y largo plazo, con la finalidad de cumplir con las estrategias planteadas; así como la definición de mecanismos de instrumentación y de financiamiento;
+
+VIII. Organización y administración del ordenamiento sustentable del territorio: señalará la estructura de organización y coordinación de las áreas operativas para la aplicación, control, evaluación y seguimiento del programa;
+
+IX. Criterios de concertación con los sectores público, social y privado: se determinarán las disposiciones con otros niveles y sectores de planeación, así como los convenios, acuerdos y compromisos vinculantes que se han de establecer con los sectores público, social y privado;
+
+X. Control y evaluación: se establecerán los indicadores que permitirán dar seguimiento y valorar la aplicación del programa y el cumplimiento de sus objetivos; y
+
+XI. Los demás que se prevean en los lineamientos que al respecto emita el Instituto de Planeación.
+
 #### Sección Quinta. Zonificación
 
 Autoridad en materia de zonificación
-
-#### Sección Primera. Zonificación forestal
-
-Zonificación forestal
 
 ###### Artículo 74.
 
@@ -1813,19 +2563,23 @@ e) Zonas de recarga de mantos acuíferos;
 
 f) Zonas de riesgo;
 
-g) Polígonos de protección y amortiguamiento de la infraestructura de carácter estratégico y de seguridad nacional;
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+g) Polígonos de protección y amortiguamiento de la infraestructura de carácter estratégico, industrial y de seguridad nacional;
 
 h) Zonas intermedias de salvaguarda en torno a actividades altamente riesgosas;
 
 i) Derechos de vía;
 
-J) Zonas federales de vasos y cauces de aguas nacionales;
+j) Zonas federales de vasos y cauces de aguas nacionales;
 
 k) Zonas de desarrollo turístico sustentable;
 
 l) Zonas de monumentos arqueológicos, artísticos o históricos;
 
-m) Zonas de entorno del patrimonio cultural urbano y arquitectónico; y
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+m) Zonas de entorno del patrimonio natural, cultural urbano y arquitectónico; y
 
 n) Áreas de valor escénico; y
 
@@ -1885,7 +2639,9 @@ Delimitación de zonas y corredores
 
 Los usos y destinos a que se refiere el artículo anterior serán definidos en los programas y reglamentos municipales, mediante la delimitación de zonas y corredores de usos del suelo.
 
-Se entiende por corredores a las áreas en forma longitudinal, en las que se asignan usos y destinos a los predios y lotes que colindan con ejes metropolitanos, vías primarias o secundarias.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Se entiende por corredores a las áreas en forma longitudinal, en las que se asignan usos y destinos a los predios y lotes que colindan con ejes metropolitanos, vías primarias o secundarias, que estructuran la conectividad y la movilidad sustentable, privilegiando la jerarquía de la movilidad y la accesibilidad universal.
 
 En el establecimiento y administración de los corredores no se permitirán los usos o destinos que pongan o puedan poner en riesgo a la población.
 
@@ -1959,17 +2715,17 @@ Una vez que el programa municipal en que se establezca la zonificación haya sid
 
 ### Capítulo II. Ordenamiento territorial para la conservación de los espacios naturales
 
-#### Sección Segunda. Áreas naturales protegidas
+#### Sección Primera. Zonificación forestal
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+Zonificación forestal
 
-Régimen al que quedarán sujetas las áreas naturales protegidas
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 83.
 
-Para la formulación y actualización de la zonificación forestal del Estado, el Ejecutivo integrará el Inventario Estatal Forestal y de Suelos, e incorporará su contenido al Subsistema Estatal de Información Territorial, así como a los sistemas nacional y estatal de información forestal de conformidad con los criterios, metodología y procedimientos establecidos en la Ley General de Desarrollo Forestal Sustentable y su reglamento.
+Para la formulación y actualización de la zonificación forestal del Estado, el Ejecutivo integrará el Inventario Estatal Forestal y de Suelos, e incorporará su contenido al Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano, así como a los sistemas nacional y estatal de información forestal, de conformidad con los criterios, metodología y procedimientos establecidos en la Ley General de Desarrollo Forestal Sustentable y su reglamento.
 
-Para tal efecto, el Ejecutivo del Estado efectuará los estudios necesarios para integrar, organizar y mantener actualizada la zonificación forestal en el Estado, con base en el programa de ordenamiento ecológico general del territorio que emitan las autoridades federales competentes, así como aquélla que expidan las autoridades federales, en los términos de la Ley General de Desarrollo Forestal Sustentable.
+Para tal efecto, el Ejecutivo del Estado efectuará los estudios necesarios para integrar, organizar y mantener actualizada la zonificación forestal en el Estado, con base en el programa de ordenamiento ecológico general del territorio que emitan las autoridades federales competentes, y la información del programa estatal forestal correspondiente, así como aquélla que expidan las autoridades federales, en los términos de la Ley General de Desarrollo Forestal Sustentable, la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato y su reglamento.
 
 Uso de la información del Inventario Estatal Forestal y de Suelos
 
@@ -2009,9 +2765,11 @@ Congruencia de la zonificación forestal con los programas municipales
 
 La zonificación forestal que definan los municipios en los programas municipales, será congruente con la que expidan las autoridades federales, en los términos de la Ley General de Desarrollo Forestal Sustentable, así como con el Inventario Estatal Forestal y de Suelos.
 
-#### Sección Tercera. Humedales de importancia internacional
+#### Sección Segunda. Áreas naturales protegidas
 
-Protección y preservación de los humedales de importancia internacional
+> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+
+Régimen al que quedarán sujetas las áreas naturales protegidas
 
 ###### Artículo 87.
 
@@ -2023,7 +2781,9 @@ Las zonas del territorio del Estado en las que los ambientes originales no han s
 
 Se consideran áreas naturales protegidas de competencia del Estado:
 
-I. Áreas de preservación ecológica: aquéllas que tienen por objeto restaurar e incrementar las funciones y procesos bióticos originales del área; atrayendo la inversión privada y fomentando la participación social, a través de la investigación científica y tecnológica que proporcione alternativas para recuperar los ecosistemas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Áreas de preservación ecológica: aquéllas que tienen por objeto restaurar e incrementar las funciones y procesos bióticos originales del área; atrayendo la inversión privada y fomentando la participación social y ciudadana, a través de la investigación científica y tecnológica que proporcione alternativas para recuperar los ecosistemas;
 
 II. Áreas de uso sustentable: aquéllas que tienen por objeto, producir bienes y servicios que respondan a las necesidades económicas, sociales y culturales de la población, con base en el aprovechamiento sustentable de usos compatibles;
 
@@ -2271,9 +3031,9 @@ Denuncia de los actos que impliquen infracción a las declaratorias o programas 
 
 Cualquier persona que intervenga en la administración de las áreas naturales protegidas deberá denunciar ante la Procuraduría, todo hecho, acto u omisión que pueda implicar la posible infracción a las disposiciones de las declaratorias o programas de manejo.
 
-#### Sección Cuarta. Zonas de restauración
+#### Sección Tercera. Humedales de importancia internacional
 
-Promoción de la declaratoria para el establecimiento de zonas de restauración
+Protección y preservación de los humedales de importancia internacional
 
 ###### Artículo 109.
 
@@ -2303,7 +3063,9 @@ V. El titular de la unidad administrativa municipal en materia de planeación;
 
 VI. Un representante del Instituto de Ecología, designado por su Titular;
 
-VII. Un representante de la Comisión Estatal del Agua, designado por su Titular; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. Un representante de la Comisión Estatal del Agua de Guanajuato, designado por su Titular; y
 
 VIII. Los representantes de las dependencias y entidades de la administración pública estatal y municipal y de los sectores público, social y privado que sean especialistas en el manejo sustentable de humedales.
 
@@ -2331,13 +3093,15 @@ El Comité Técnico podrá requerir a las autoridades competentes que instauren 
 
 Acciones para prevenir la contaminación del agua
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 114.
 
-La Comisión Estatal del Agua y los organismos operadores implementarán, de manera prioritaria y en el ámbito de sus respectivas competencias, las medidas, proyectos y acciones para prevenir la contaminación del agua, así como para preservar y restaurar el equilibrio hidrológico en los humedales de importancia internacional.
+La Comisión Estatal del Agua de Guanajuato y los organismos operadores implementarán, de manera prioritaria y en el ámbito de sus respectivas competencias, las medidas, proyectos y acciones para prevenir la contaminación del agua, así como para preservar y restaurar el equilibrio hidrológico en los humedales de importancia internacional.
 
-#### Sección Quinta. Zonas de recarga de mantos acuíferos
+#### Sección Cuarta. Zonas de restauración
 
-Zonas de recarga de mantos acuíferos
+Promoción de la declaratoria para el establecimiento de zonas de restauración
 
 ###### Artículo 115.
 
@@ -2345,9 +3109,11 @@ En caso de desastres por impactos adversos del cambio climático o de procesos a
 
 Identificación de las zonas susceptibles de restauración
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 116.
 
-El Instituto de Ecología, con la información del Inventario Estatal Forestal y de Suelos, así como con los resultados de los estudios e investigaciones de que disponga, identificará las zonas susceptibles de restauración, en el marco de las cuencas hidrológicas.
+El Instituto de Ecología, en coordinación con la Secretaría de Desarrollo Agroalimentario y Rural y con la información del Inventario Estatal Forestal y de Suelos, así como con los resultados de los estudios e investigaciones de que disponga, identificará las zonas susceptibles de restauración, en el marco de las cuencas hidrológicas.
 
 Contenido de las declaratorias de zonas de restauración
 
@@ -2379,13 +3145,15 @@ Modalidades y restricciones a los inmuebles ubicados en las zonas de restauraci�
 
 Todos los actos y convenios relativos a la propiedad, posesión o cualquier otro derecho relacionado con bienes inmuebles ubicados en las zonas que fueren materia de las declaratorias a que se refiere el artículo anterior, quedarán sujetas a las modalidades y restricciones previstas en las propias declaratorias así como en los programas relativos.
 
-#### Sección Primera. Disposiciones comunes
+#### Sección Quinta. Zonas de recarga de mantos acuíferos
 
-Materias de interés regional
+Zonas de recarga de mantos acuíferos
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 120.
 
-Se consideran como zonas de recarga de mantos acuíferos aquéllas en predios no construidos que, por su ubicación, reciben una precipitación pluvial superior a la media para la región donde se localicen, y que por las características de suelo y subsuelo son permeables para la captación de agua de lluvia que contribuye a la recarga de los mantos acuíferos.
+Se consideran como zonas de recarga de mantos acuíferos, aquéllas ubicadas en espacios naturales o en predios no construidos, que por su ubicación o por sus características de suelo y subsuelo, permiten la infiltración de agua de lluvia a los mantos acuíferos.
 
 Los predios a que se refiere este artículo se considerarán como áreas productivas dedicadas a una función de utilidad pública.
 
@@ -2395,7 +3163,9 @@ Protección de las zonas de recarga de mantos acuíferos
 
 Los programas deberán incluir políticas, normas, proyectos y acciones para la protección a las zonas de recarga de mantos acuíferos.
 
-Para tal efecto, las autoridades correspondientes podrán tomar la opinión del Instituto de Ecología y de la Comisión Estatal del Agua.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Para tal efecto, las autoridades correspondientes podrán tomar la opinión del Instituto de Ecología y de la Comisión Estatal del Agua de Guanajuato.
 
 Declaratorias para la protección de zonas de recarga de mantos acuíferos
 
@@ -2419,21 +3189,31 @@ III. Las modalidades y restricciones a que se sujetarán, dentro de la zona, los
 
 Medidas para la protección de zonas de recarga de mantos acuíferos
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 124.
 
-La Comisión Estatal del Agua promoverá, ante los ayuntamientos, que los reglamentos y programas establezcan las medidas necesarias para proteger las zonas de recarga de mantos acuíferos y que, en su caso, se expidan las declaratorias relativas.
+La Comisión Estatal del Agua de Guanajuato promoverá, ante los ayuntamientos, que los reglamentos y programas establezcan las medidas necesarias para proteger las zonas de recarga de mantos acuíferos y que, en su caso, se expidan las declaratorias relativas.
 
-### Capítulo III. Ordenamiento territorial del desarrollo regional
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-#### Sección Segunda. Regiones ecológicas
+### Capítulo III. Ordenamiento territorial del desarrollo regional y metropolitano
 
-Convenios para las regiones ecológicas
+#### Sección Primera. Disposiciones comunes
+
+> <small>(REFORMADO ACÁPITE, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Materias de interés regional y metropolitano
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 125.
 
-Se definen como materias de interés regional:
+Se definen como materias de interés regional y metropolitano:
 
-I. El ordenamiento y administración sustentable del territorio de las diferentes regiones del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. El ordenamiento y administración sustentable del territorio de las diferentes regiones y zonas metropolitanas del Estado de Guanajuato;
 
 II. La protección al ambiente y la preservación y restauración del equilibrio ecológico;
 
@@ -2457,17 +3237,47 @@ XI. La seguridad pública y la protección civil;
 
 XII. La definición de polígonos de protección y amortiguamiento de instalaciones de seguridad nacional y el establecimiento de zonas intermedias de salvaguarda en torno a instalaciones en que se realicen actividades altamente riesgosas;
 
-XIII. La consolidación de los centros de población y la redensificación poblacional de los mismos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XIV. La construcción de vivienda popular o económica y de interés social;
+XIII. La densificación, consolidación de los centros de población y la redensificación poblacional de los mismos, considerando los principios y bases de la movilidad;
 
-XV. La protección y conservación del patrimonio cultural urbano y arquitectónico, las áreas de valor escénico, el paisaje y la imagen urbana metropolitana y regional;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIV. La definición de las políticas habitacionales y de construcción de vivienda popular o económica y de interés social;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XV. La protección y conservación del patrimonio natural, cultural urbano y arquitectónico, las áreas de valor escénico, el paisaje y la imagen urbana metropolitana y regional;
 
 XVI. La constitución, administración y aprovechamiento de reservas territoriales;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVI bis. La determinación de los espacios para el desarrollo industrial de carácter regional o metropolitano;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVI bis 1. La infraestructura y equipamientos de carácter estratégico y de seguridad;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVI bis 2. La accesibilidad universal;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVI bis 3. Las políticas habitacionales y las relativas al equipamiento regional y metropolitano;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVI bis 4. Los espacios públicos seguros y de calidad como eje articulador del desarrollo urbano;
 
 XVII. El desarrollo, construcción, conservación, mantenimiento y mejoramiento del equipamiento urbano y la infraestructura pública metropolitana y regional; y
 
 XVIII. Las demás que se determinen en los reglamentos respectivos.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Para tales efectos, el Instituto de Planeación en coordinación con la Secretaría, emitirá los lineamientos a través de los cuales se establecerán los métodos y procedimientos para medir y asegurar que los proyectos y acciones vinculados con políticas, directrices y acciones de interés metropolitano o regional, cumplan con su objetivo de cobertura y guarden congruencia con los distintos niveles y ámbitos de planeación.
 
 Asociaciones intermunicipales
 
@@ -2475,9 +3285,9 @@ Asociaciones intermunicipales
 
 Los municipios podrán constituir asociaciones intermunicipales, así como fondos e instrumentos financieros para ejecutar proyectos, acciones u obras para atender las materias de interés regional, en los que podrán participar el Ejecutivo del Estado.
 
-#### Sección Tercera. Zonas conurbadas
+#### Sección Segunda. Regiones ecológicas
 
-Zonas conurbadas
+Convenios para las regiones ecológicas
 
 ###### Artículo 127.
 
@@ -2507,13 +3317,35 @@ III. Los proyectos, acciones e inversiones consideradas para atender los requeri
 
 IV. Los demás proyectos y acciones que para tal efecto se convengan.
 
-#### Sección Cuarta. Zonas metropolitanas
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Zonas metropolitanas
+#### Sección Segunda Bis. Gobernanza metropolitana
 
-#### Sección Primera. Fundación de los centros de población
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Fundación
+Acciones para una gobernanza metropolitana eficaz
+
+Artículo 129 bis. Para lograr una eficaz gobernanza metropolitana en la planeación y ejecución de acciones en las materias de interés regional y metropolitano, se establecerán los mecanismos y los instrumentos de carácter obligatorio que aseguren la acción coordinada institucional de los tres órdenes de gobierno y la participación social y ciudadana.
+
+La Comisión Metropolitana coordinará las distintas instancias municipales entre sí, y de éstas con la Federación y el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Instancias para la gestión de las zonas metropolitanas o conurbaciones
+
+Artículo 129 bis 1. La gestión de las zonas metropolitanas o conurbaciones se efectuará a través de las instancias siguientes:
+
+I. La Comisión de Conurbación;
+
+II. La Comisión Metropolitana; y
+
+III. Un Consejo Consultivo de desarrollo metropolitano o de zonas conurbadas.
+
+El Ejecutivo del Estado emitirá el reglamento que regule la integración, organización y funcionamiento de las instancias a que se refiere el presente artículo.
+
+#### Sección Tercera. Zonas conurbadas
+
+Zonas conurbadas
 
 ###### Artículo 130.
 
@@ -2525,7 +3357,9 @@ Declaratoria de zonas conurbadas
 
 Las zonas conurbadas que se presenten en los centros de población localizados dentro de los límites del territorio estatal, serán formalmente reconocidas mediante declaratoria que expida el Ejecutivo del Estado.
 
-En el caso de zonas conurbadas localizadas entre el Estado de Guanajuato y una o más entidades federativas, se atenderá a lo dispuesto por la Ley General de Asentamientos Humanos.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+En el caso de zonas conurbadas localizadas entre el Estado de Guanajuato y una o más entidades federativas, se atenderá a lo dispuesto por la Ley General.
 
 Delimitación de una zona conurbada
 
@@ -2549,7 +3383,9 @@ I. La localización, extensión y delimitación de la zona conurbada;
 
 II. Las bases generales para planear y regular de manera conjunta y coordinada la zona conurbada;
 
-III. La determinación de los proyectos y acciones para la atención de requerimientos comunes en materia de protección al ambiente, preservación y equilibrio ecológico, reservas territoriales, equipamiento urbano e infraestructura pública;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. La determinación de los proyectos y acciones para la atención de requerimientos comunes en materia de protección al ambiente, preservación y equilibrio ecológico, reservas territoriales, equipamiento urbano, movilidad sustentable e infraestructura pública;
 
 IV. La integración, atribuciones, estructura y funcionamiento de la Comisión de Conurbación; y
 
@@ -2567,11 +3403,15 @@ Comisión de Conurbación
 
 Dentro de los veinte días hábiles siguientes a la publicación del convenio de conurbación, deberá instalarse la Comisión de Conurbación que tendrá carácter permanente y se integrará, al menos, por:
 
-I. Los presidentes de los municipios que conforman la zona conurbada respectiva, dentro de los cuales designarán a quien presidirá la Comisión;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Los presidentes de los municipios que conforman la zona conurbada respectiva. La presidencia de la Comisión de Conurbación le corresponderá a un presidente municipal, por el tiempo y bajo el mecanismo que se prevea en el reglamento;
 
 II. Un representante del Instituto de Planeación, designado por su Titular, quien actuará como Secretario Técnico; y
 
-III. Los representantes de la Secretaría, de la Comisión Estatal del Agua, del Instituto de Ecología y de la Comisión de Vivienda del Estado, designados por sus respectivos titulares.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. Los representantes de la Secretaría, de la Comisión Estatal del Agua de Guanajuato, del Instituto de Ecología y de la Comisión de Vivienda del Estado, designados por sus respectivos titulares.
 
 La Comisión a que se refiere este artículo podrá convocar, con el carácter de invitados permanentes, a representantes de las dependencias y entidades de la administración pública federal cuya competencia incida en la gestión de zonas conurbadas.
 
@@ -2579,35 +3419,49 @@ Por cada integrante propietario se designará, por escrito, a un suplente con ca
 
 El cargo de los integrantes de la Comisión de Conurbación será de carácter honorífico, por lo que no se percibirá retribución, emolumento o compensación alguna por el desempeño de esas funciones.
 
-La Comisión de Conurbación podrá asistirse de profesionales y expertos que le auxilien e informen en determinados temas o asuntos.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-#### Sección Segunda. Consolidación de los centros de población
+La Comisión de Conurbación contará con un Consejo Consultivo que realizará la evaluación y seguimiento del cumplimiento de los programas metropolitanos y promoverá los procesos de consulta pública e interinstitucional en las diversas fases de la formulación, aprobación, ejecución y seguimiento de los programas.
 
-Consolidación
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+El Consejo Consultivo se integrará con perspectiva de género, por representantes de los tres órdenes de gobierno y representantes de agrupaciones sociales legalmente constituidas, colegios de profesionistas, instituciones académicas y expertos en la materia; este último sector deberá conformar mayoría en el Consejo. Sus integrantes elegirán a quien los presida.
+
+#### Sección Cuarta. Zonas metropolitanas
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Metropolización
 
 ###### Artículo 136.
 
-Cuando dos o más centros de población situados en el territorio de dos o más municipios, presenten una dinámica espacial que implique la asociación tendencial o inducida de un conglomerado urbano con características económicas, sociales, funcionales y productivas comunes, entre otras, que definen flujos de bienes, personas y recursos financieros, el Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, planearán y regularán de manera conjunta y coordinada el fenómeno de la metropolización.
+El fenómeno de la metropolización se presenta cuando dos o más centros de población situados en el territorio de dos o más municipios, presenten una dinámica espacial que implique la asociación tendencial o inducida de un conglomerado urbano con características económicas y de interacciones sociales, funcionales y productivas comunes, entre otras, que definen flujos de bienes, personas y recursos financieros.
 
 Constitución de zonas metropolitanas
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 137.
 
-Sólo podrán constituirse en zonas metropolitanas los centros de población que hayan sido previamente declarados como zonas conurbadas, en los términos de la sección anterior.
+Para que el Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, planeen y regulen de manera conjunta y coordinada el fenómeno de la metropolización, se requiere que exista previamente una declaratoria del Ejecutivo del Estado de constitución de la zona metropolitana de que se trate.
 
 Comisión Metropolitana
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 138.
 
-La planeación y gestión de las zonas metropolitanas se efectuará a través de la Comisión Metropolitana.
+La Comisión Metropolitana contará con un Consejo Consultivo que realizará la evaluación y seguimiento del cumplimiento de los programas metropolitanos y promoverá los procesos de consulta pública e interinstitucional en las diversas fases de la formulación, aprobación, ejecución y seguimiento de los programas.
 
-La Comisión Metropolitana tendrá carácter permanente y sus reglas de organización, integración y funcionamiento estarán a lo señalado por el Código y el reglamento respectivo.
+El Consejo Consultivo se integrará con perspectiva de género, por representantes de los tres órdenes de gobierno y representantes de agrupaciones sociales legalmente constituidas, colegios de profesionistas, instituciones académicas y expertos en la materia; este último sector deberá conformar mayoría en el Consejo. Sus integrantes elegirán a quien los presida.
 
-Acciones coordinadas por la Comisión Metropolitana
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Carácter honorífico de los cargos en las comisiones y en los consejos
 
 ###### Artículo 139.
 
-La Comisión Metropolitana coordinará las distintas instancias municipales entre sí, y de éstas con la Federación y el Estado de Guanajuato en la planeación y ejecución de acciones en las materias de interés regional.
+El cargo de los integrantes de las comisiones Metropolitana y de Conurbación, así como de sus respectivos consejos consultivos, será de carácter honorífico, por lo que no se percibirá retribución, emolumento o compensación alguna por el desempeño de esas funciones.
 
 Integración de la Comisión Metropolitana
 
@@ -2621,7 +3475,9 @@ II. Un representante del Congreso del Estado de Guanajuato;
 
 III. El Titular de la Secretaría;
 
-IV. El Secretario de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. El Secretario de Finanzas, Inversión y Administración;
 
 V. El Secretario de Obra Pública;
 
@@ -2629,27 +3485,45 @@ VI. El Titular del Instituto de Ecología;
 
 VII. El Titular de la Comisión de Vivienda;
 
-VIII. El Titular de la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. El Titular de la Comisión Estatal del Agua de Guanajuato;
 
 IX. El Titular de la Procuraduría;
 
-X. Los Presidentes de los municipios que formen parte de las zonas metropolitanas legalmente constituidas; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XI. El Titular del Instituto de Planeación, quien fungirá como Secretario Técnico.
+X. Los presidentes de los municipios que formen parte de las zonas metropolitanas legalmente constituidas;
 
-La Comisión Metropolitana convocará, con el carácter de invitados permanentes, a representantes de la Comisión de Desarrollo Metropolitano de la Cámara de Diputados del Congreso de la Unión, así como de las Secretarías de Desarrollo Social y de Medio Ambiente y Recursos Naturales del Gobierno federal.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI. El Titular del Instituto de Planeación, quien fungirá como Secretario Técnico; y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XII. En su caso, las demás dependencias o entidades que se considere pertinente se integren a la Comisión en los términos del reglamento.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+La Comisión Metropolitana convocará, con el carácter de invitados permanentes, a representantes de las dependencias y entidades de la administración pública federal, cuya competencia incida en la gestión de las zonas metropolitanas.
 
 Por cada integrante propietario se designará, por escrito, a un suplente con carácter permanente.
 
-El cargo de los integrantes de la Comisión Metropolitana será de carácter honorífico, por lo que no se percibirá retribución, emolumento o compensación alguna por el desempeño de esas funciones.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 Cuando el Titular del Ejecutivo asista a las sesiones de la Comisión Metropolitana, asumirá la presidencia y el Secretario de Gobierno pasará a ser un integrante más.
 
 Sesiones de la Comisión Metropolitana
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 141.
 
-La Comisión Metropolitana sesionará de manera ordinaria, cuando menos cuatro veces por año, con la asistencia como mínimo de las tres cuartas partes de sus integrantes, en las que deberá estar la totalidad de los presidentes de los municipios involucrados o de sus suplentes previamente designados.
+La Comisión Metropolitana sesionará válidamente, con la asistencia de la mitad más uno de la totalidad de sus integrantes, en las que deberá estar la totalidad de los presidentes municipales involucrados o sus suplentes previamente designados.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+La Comisión Metropolitana sesionará con la periodicidad que establezca su reglamento.
 
 Funciones de la Comisión Metropolitana
 
@@ -2691,11 +3565,21 @@ XVI. Coordinar y vincular a las dependencias y entidades de la administración p
 
 XVII. Promover y coordinar la realización de estudios e investigaciones sobre la problemática de la metropolización;
 
-XVIII. Fomentar la participación social en el proceso de planeación;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XIX. Expedir su reglamento interior y aprobar sus programas operativos anuales; y
+XVIII. Fomentar la participación social y ciudadana en el proceso de planeación;
 
-XX. Las demás que establezca el Código y las demás disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XVIII bis. Crear subcomisiones y grupos de trabajo;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIX. Aprobar su reglamento interior y remitirlo al Ejecutivo del Estado para su expedición; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XX. Las demás que establezca el Código, su reglamento interior y las demás disposiciones jurídicas aplicables.
 
 Atribuciones del Secretario Técnico de la Comisión Metropolitana
 
@@ -2743,9 +3627,11 @@ Para cumplir con los fines señalados en el párrafo tercero del artículo 27 de
 
 Acciones de desarrollo urbano
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 147.
 
-Los programas, de acuerdo a la vocación natural del suelo, las alternativas para su aprovechamiento sustentable, las tendencias de crecimiento de la población y la infraestructura pública instalada, establecerán las áreas del Municipio en que se efectuarán las acciones siguientes:
+Los programas, de acuerdo a la vocación natural del suelo, las alternativas para su aprovechamiento sustentable, las tendencias de crecimiento de la población conforme a la movilidad sustentable y la infraestructura pública instalada, establecerán las áreas del Municipio en que se efectuarán las acciones siguientes:
 
 I. Fundación de centros de población;
 
@@ -2775,7 +3661,13 @@ V. El aprovechamiento de los espacios vacantes, lotes baldíos y predios subutil
 
 VI. La conservación y mejoramiento de los parques urbanos, jardines públicos, áreas verdes y demás bienes de uso común con cubierta vegetal;
 
-VII. El fomento a la movilidad no motorizada y el uso de transporte público;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. La accesibilidad universal y la movilidad sustentable;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII bis. La promoción y aplicación de tecnologías factibles y ambientalmente adecuadas para la mayor autosuficiencia, sustentabilidad y protección ambiental;
 
 VIII. La regularización de la tenencia del suelo urbano; y
 
@@ -2791,21 +3683,41 @@ I. La regulación ambiental de los centros de población; la aplicación de medi
 
 II. La definición de la proporción adecuada entre los bienes municipales de uso común con cubierta vegetal y las zonas urbanizadas;
 
-III. La preservación de la imagen urbana, el patrimonio cultural urbano y arquitectónico, y las áreas de valor escénico dentro de los centros de población;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IV. El reordenamiento y la redensificación de áreas urbanas deterioradas, así como el uso y aprovechamiento de los espacios vacantes, lotes baldíos y predios subutilizados;
+III. La preservación de la imagen urbana, el patrimonio natural, cultural urbano y arquitectónico, y las áreas de valor escénico dentro de los centros de población;
 
-V. La dotación de servicios públicos, equipamiento urbano, infraestructura pública, así como de parques urbanos, jardines públicos y áreas verdes;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. El reordenamiento y la redensificación de áreas urbanas deterioradas, así como el uso y aprovechamiento de los espacios vacantes, lotes baldíos y predios subutilizados.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+El gobierno municipal establecerá los mecanismos para aplicar el reparto de cargas y beneficios sobre la capacidad de infraestructuras y equipamientos;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. La dotación de servicios públicos, equipamiento urbano e infraestructura pública;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V bis. La dotación de parques urbanos, jardines públicos y áreas verdes en espacios públicos;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V bis 1. El reparto de cargas de las obras viales y sistemas de movilidad necesarias para garantizar la conectividad entre la acción urbanística de que se trate y la vialidad más próxima;
 
 VI. La prevención, control y atención de riesgos y contingencias ambientales y urbanas, así como de desastres por impactos adversos del cambio climático, en los centros de población; el control y restricciones a la localización de usos urbanos en derechos de vía, zonas federales y polígonos de protección y amortiguamiento; así como la salvaguarda de instalaciones peligrosas o de seguridad nacional;
 
-VII. La construcción y adecuación de la infraestructura pública y el equipamiento urbano para garantizar la seguridad, el libre tránsito y la accesibilidad para toda la población; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. La construcción y adecuación de la infraestructura pública y el equipamiento urbano para garantizar la seguridad, el libre tránsito y la accesibilidad para toda la población, considerando la jerarquía de la movilidad; y
 
 VIII. Las demás que determine el Ayuntamiento.
 
-#### Sección Tercera. Mejoramiento de los centros de población
+#### Sección Primera. Fundación de los centros de población
 
-Mejoramiento
+Fundación
 
 ###### Artículo 150.
 
@@ -2837,9 +3749,11 @@ Cuando la fundación del centro de población involucre el territorio de dos o m
 
 Requisitos para la fundación
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 152.
 
-La fundación de centros de población deberá realizarse en tierras susceptibles de aprovechamiento urbano, evaluando el impacto ambiental, económico y social en la región, en los centros de población existentes en la zona y en los nuevos pobladores.
+La fundación de centros de población deberá realizarse en tierras susceptibles de aprovechamiento urbano, evaluando el impacto ambiental, económico y social en la región, en los centros de población existentes en la zona y en los nuevos pobladores, respetando primordialmente las áreas naturales protegidas y las comunidades indígenas.
 
 Inscripción del decreto que provea la fundación de un centro de población
 
@@ -2861,23 +3775,29 @@ Los ayuntamientos al definir la zonificación de los nuevos centros de població
 
 Fundación o constitución de zonas de urbanización en ejidos y comunidades
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 156.
 
-La fundación de centros de población ejidal o la constitución de zonas de urbanización en ejidos y comunidades, se ajustará a lo dispuesto en la Ley Agraria, en la Ley General de Asentamientos Humanos y a lo previsto en el Código.
+La fundación de centros de población ejidal o la constitución de zonas de urbanización en ejidos y comunidades, se ajustará a lo dispuesto en la Ley Agraria, en la Ley General y a lo previsto en el Código.
 
-#### Sección Cuarta. Conservación de los centros de población
+#### Sección Segunda. Consolidación de los centros de población
 
-Conservación
+Consolidación
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 157.
 
-La consolidación de los centros de población se promoverá y ejecutará mediante las medidas, proyectos y acciones tendientes a incrementar tanto la densidad poblacional como el coeficiente de ocupación del suelo en los inmuebles ubicados dentro de los mismos, fomentando el aprovechamiento de espacios vacantes, lotes baldíos y predios subutilizados, así como la eficientización de la infraestructura pública y del equipamiento urbano dentro de las zonas urbanizadas de los centros de población.
+La consolidación de los centros de población se promoverá y ejecutará mediante las medidas, proyectos y acciones tendientes a incrementar tanto la densidad poblacional como los coeficientes de ocupación y de utilización del suelo en los inmuebles ubicados dentro de los mismos, fomentando el aprovechamiento de espacios vacantes, lotes baldíos y predios subutilizados, la eficientización de la infraestructura pública, movilidad sustentable y del equipamiento urbano dentro de las zonas urbanizadas de los centros de población, así como la compacidad urbana, como el eje de sostenibilidad urbana que incide en la forma física de la ciudad, su funcionalidad y, en general, en el modelo de ocupación del territorio y la organización de las redes de movilidad y de espacios libres.
 
 Reglamentación en materia de consolidación y redensificación poblacional
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 158.
 
-Los reglamentos y programas que expidan los ayuntamientos deberán incorporar, de manera prioritaria, las medidas, proyectos y acciones necesarias para la consolidación de los centros de población, así como para la redensificación poblacional de los mismos.
+Los reglamentos y programas que expidan los ayuntamientos deberán incorporar, de manera prioritaria, las medidas, proyectos y acciones necesarias para la consolidación de los centros de población y la compacidad urbana, así como para la redensificación poblacional de los mismos.
 
 Cumplimiento de obligaciones en materia de consolidación
 
@@ -2891,9 +3811,9 @@ Expropiación en caso de incumplimiento de las acciones de consolidación
 
 En caso de que los propietarios, poseedores o usufructuarios no cumplan con las obligaciones o convenios indicados en el artículo anterior, el Ejecutivo del Estado y los ayuntamientos podrán proceder a la expropiación por causa de utilidad pública, en los términos de la legislación aplicable.
 
-#### Sección Quinta. Crecimiento de los centros de población
+#### Sección Tercera. Mejoramiento de los centros de población
 
-Crecimiento
+Mejoramiento
 
 ###### Artículo 161.
 
@@ -2911,9 +3831,13 @@ II. Zonas de conservación ecológica, zonas de recarga de mantos acuíferos, pa
 
 III. Áreas de crecimiento urbano de incipiente desarrollo;
 
-IV. Áreas urbanizadas con vivienda, infraestructura pública, equipamiento urbano o servicios urbanos públicos deteriorados, física o funcionalmente; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-V. Áreas de valor escénico, zonas de desarrollo turístico sustentable y zonas de entorno del patrimonio cultural urbano y arquitectónico.
+IV. Áreas urbanizadas con vivienda, infraestructura pública, equipamiento urbano o servicios urbanos públicos deteriorados, física o funcionalmente, priorizando la movilidad sustentable; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Áreas de valor escénico, zonas de desarrollo turístico sustentable y zonas de entorno del patrimonio natural, cultural urbano y arquitectónico.
 
 Convenios para las acciones de mejoramiento
 
@@ -2921,9 +3845,9 @@ Convenios para las acciones de mejoramiento
 
 Las medidas, proyectos y acciones de mejoramiento podrán llevarse a cabo mediante convenios entre autoridades, propietarios y los sectores público, social y privado, en que se atiendan sus respectivos intereses o a través de la expropiación de predios por causa de utilidad pública, prevista por la legislación en la materia.
 
-#### Sección Primera. Disposiciones comunes
+#### Sección Cuarta. Conservación de los centros de población
 
-Constitución de provisiones y reservas territoriales
+Conservación
 
 ###### Artículo 164.
 
@@ -2933,11 +3857,15 @@ I. Mantener, preservar y reordenar las zonas urbanizadas y aquéllas susceptible
 
 II. Proteger y restaurar el ambiente y equilibrio ecológico de los centros de población;
 
-III. Preservar el buen estado y el funcionamiento eficiente de la infraestructura pública, el equipamiento urbano y las obras e instalaciones para la prestación de servicios públicos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. Preservar el buen estado y el funcionamiento eficiente de la infraestructura pública, el equipamiento urbano y las obras e instalaciones para la prestación de servicios públicos, y una movilidad sustentable;
 
 IV. Proteger, preservar las zonas de conservación ecológica, así como los parques urbanos, jardines públicos, áreas verdes y cualquier otro bien municipal de uso común con cubierta vegetal, incluyendo el mantenimiento de su equipamiento; y
 
-V. Mantener y restaurar las edificaciones y monumentos públicos, la imagen urbana, el patrimonio cultural urbano y arquitectónico, el paisaje y las áreas de valor escénico en los centros de población.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Mantener y restaurar las edificaciones y monumentos públicos, la imagen urbana, el patrimonio natural, cultural urbano y arquitectónico, el paisaje y las áreas de valor escénico en los centros de población.
 
 Zonas prioritarias para la ejecución de acciones de conservación
 
@@ -2951,9 +3879,9 @@ I. Zonas de conservación ecológica, de recarga de mantos acuíferos, de alta v
 
 II. Los parques urbanos, jardines públicos, áreas verdes y cualquier otro bien municipal de uso común con cubierta vegetal, incluyendo el mantenimiento de su equipamiento;
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-III. Las áreas de valor escénico, las zonas de desarrollo turístico sustentable o aquéllas que forman parte del patrimonio cultural urbano y arquitectónico de los centros de población;
+III. Las áreas de valor escénico, las zonas de desarrollo turístico sustentable o aquéllas que forman parte del patrimonio natural, cultural urbano y arquitectónico de los centros de población;
 
 > <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
 
@@ -2963,13 +3891,15 @@ V. Las zonas cuyo subsuelo se haya visto afectado por fenómenos naturales o por
 
 La urbanización de las áreas perimetrales o dentro del contexto de zonas sujetas a la política de conservación, estará condicionada y su uso sólo podrá ser autorizado como una acción que fortalezca la protección de las zonas a conservar.
 
-#### Sección Segunda. Provisiones territoriales
+#### Sección Quinta. Crecimiento de los centros de población
 
-Destino de las provisiones territoriales
+Crecimiento
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 166.
 
-El crecimiento de los centros de población se conducirá a través de las medidas, proyectos y acciones tendientes a ordenar y regular la expansión física de los centros de población, ocupando áreas o predios susceptibles de aprovechamiento urbano, conforme a las disposiciones de los programas municipales.
+El crecimiento de los centros de población se conducirá a través de las medidas, proyectos y acciones tendientes a ordenar y regular la expansión física de los centros de población y de las áreas urbanizables, conforme a las disposiciones de los programas municipales.
 
 Acciones de crecimiento
 
@@ -2977,11 +3907,19 @@ Acciones de crecimiento
 
 El crecimiento de los centros de población deberá conducirse a través de las acciones siguientes:
 
-I. La determinación de las áreas para el crecimiento futuro de los centros de población;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. La determinación de las áreas para el crecimiento futuro de los centros de población, áreas verdes y espacios públicos que se prevean en los programas;
 
 II. La participación del Estado y de los municipios en la incorporación de reservas territoriales para el crecimiento sustentable de los centros de población;
 
-III. La realización de acciones de infraestructura para el desarrollo urbano en las áreas establecidas para el crecimiento futuro de los centros de población; y
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II bis. El diseño de las vialidades urbanas que garanticen la movilidad sustentable con base en la jerarquía de la movilidad;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. La realización de acciones de infraestructura para el desarrollo urbano en las áreas establecidas para el crecimiento futuro de los centros de población de acuerdo a la jerarquía de la movilidad; y
 
 IV. El establecimiento de mecanismos de concertación entre las autoridades estatales y municipales y organismos del sector público, social o privado para el desarrollo de proyectos de urbanización de predios ubicados en las áreas a que se refieren las fracciones anteriores, a efecto de satisfacer oportunamente las necesidades de tierra que plantee la dinámica de crecimiento de los centros de población, en los términos de los programas respectivos.
 
@@ -2993,15 +3931,21 @@ En la determinación y aprovechamiento de las áreas de crecimiento se deberán 
 
 Crecimiento en zonas ejidales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 169.
 
-El crecimiento de centros de población en zonas ejidales, se ajustará a lo dispuesto en la Ley Agraria, en la Ley General de Asentamientos Humanos y a lo previsto en el Código.
+El crecimiento de centros de población en zonas ejidales, se ajustará a lo dispuesto en la Ley Agraria, en la Ley General y a lo previsto en el Código.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+El Estado y los municipios podrán promover, ante propietarios e inversionistas, la integración de la propiedad requerida mediante el reagrupamiento de predios, en los términos de la Ley Agraria y la Ley General.
 
 ### Capítulo V. Provisiones y reservas territoriales
 
-#### Sección Tercera. Reservas territoriales
+#### Sección Primera. Disposiciones comunes
 
-Objeto de la constitución de reservas territoriales
+Constitución de provisiones y reservas territoriales
 
 ###### Artículo 170.
 
@@ -3061,13 +4005,19 @@ Objeto de las acciones en materia de provisiones y reservas territoriales
 
 El Ejecutivo del Estado y los ayuntamientos, entre sí, y con el gobierno federal, en su caso, podrán llevar a cabo acciones coordinadas en materia de provisiones y reservas territoriales, con objeto de:
 
-I. Garantizar el cumplimiento de los programas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Garantizar el cumplimiento de los programas y de los atlas de riesgos, en el ámbito de su competencia;
 
 II. Asegurar la disponibilidad del suelo para los diferentes usos y destinos que determinen los programas;
 
-III. Establecer una política integral de provisiones y reservas territoriales, mediante la programación de las adquisiciones y la oferta de tierra; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IV. Reducir y abatir los procesos de ocupación irregular de áreas y predios, mediante la oferta de tierra que atienda, de manera prioritaria, a las necesidades sociales de vivienda popular o económica y de interés social.
+III. Establecer una política integral de provisiones y reservas territoriales, mediante la programación de las adquisiciones y la oferta de tierra para el desarrollo urbano y la vivienda, que ordenen de manera sustentable el crecimiento y consolidación de los centros de población, así como la redensificación poblacional de los mismos; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Reducir y abatir los procesos de ocupación irregular de áreas y predios, mediante la oferta de tierra con infraestructura y servicios, terminados o progresivos, que atienda, de manera prioritaria, a las necesidades sociales de vivienda popular o económica y de interés social.
 
 Acuerdos de coordinación en materia de provisiones y reservas territoriales
 
@@ -3101,7 +4051,9 @@ II. La transferencia, enajenación o destino de terrenos de propiedad federal pa
 
 III. La asociación o cualquier otra forma de participación que determinen los núcleos agrarios, a efecto de aprovechar terrenos ejidales o comunales para el desarrollo urbano y la vivienda y evitar su ocupación irregular, sujetándose a lo dispuesto en el Código; y
 
-IV. La adquisición o expropiación de terrenos ejidales o comunales, en coordinación con las autoridades agrarias que correspondan, de acuerdo a lo previsto en la Ley Agraria y en la Ley General de Asentamientos Humanos, en favor de las dependencias y entidades de la administración pública estatal o municipal.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. La adquisición o expropiación de terrenos ejidales o comunales, en coordinación con las autoridades agrarias que correspondan, de acuerdo a lo previsto en la Ley Agraria y en la Ley General, en favor de las dependencias y entidades de la administración pública estatal o municipal.
 
 Acciones derivadas de la administración, mantenimiento y conservación de provisiones y reservas territoriales
 
@@ -3125,9 +4077,9 @@ Cuando se haga necesaria la utilización total o parcial de las provisiones o de
 
 La ejecución de las obras o actividades relativas a la utilización de provisiones o reservas territoriales deberán contar, de manera previa, con las autorizaciones en materia de evaluación del impacto ambiental que correspondan.
 
-#### Sección Cuarta. Derecho de preferencia
+#### Sección Segunda. Provisiones territoriales
 
-Derecho de preferencia
+Destino de las provisiones territoriales
 
 ###### Artículo 179.
 
@@ -3139,9 +4091,9 @@ Autorización para la utilización de las provisiones territoriales
 
 Además de lo dispuesto en el artículo 178 del Código, cuando se haga necesaria la utilización total o parcial de las provisiones territoriales, se requerirá la autorización del Congreso del Estado para la fundación del centro de población.
 
-#### Sección Primera. Catastro
+#### Sección Tercera. Reservas territoriales
 
-Catastro
+Objeto de la constitución de reservas territoriales
 
 ###### Artículo 181.
 
@@ -3155,7 +4107,9 @@ III. Evitar la especulación de inmuebles aptos para el desarrollo urbano y la v
 
 IV. Abatir los procesos de ocupación irregular de áreas y predios;
 
-V. Asegurar la disponibilidad de suelo para los diferentes usos y destinos que determinen los programas estatal y municipales; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Asegurar la disponibilidad de suelo para los diferentes usos y destinos que determinen los programas estatal y municipales, previendo los derechos de vía que aseguren el diseño y construcción de una red de vialidades urbanas, que facilite la conectividad y la movilidad sustentable; y
 
 VI. Garantizar el cumplimiento de los programas estatal y municipales.
 
@@ -3197,9 +4151,9 @@ El Ejecutivo del Estado y los ayuntamientos podrán enajenar porciones de la res
 
 Los ingresos obtenidos de la enajenación a que se refiere el párrafo anterior deberán destinarse a acciones de adquisición, consolidación, equipamiento y desarrollo de infraestructura de las provisiones y reservas territoriales.
 
-#### Sección Segunda. Subsistema Estatal de Información Territorial
+#### Sección Cuarta. Derecho de preferencia
 
-Objeto del Subsistema Estatal de Información Territorial
+Derecho de preferencia
 
 ###### Artículo 187.
 
@@ -3233,9 +4187,9 @@ El derecho de preferencia a que se refiere este Capítulo, se extinguirá en aqu
 
 ### Capítulo VI. Información en materia territorial
 
-#### Sección Primera. Conservación del patrimonio cultural urbano y arquitectónico
+#### Sección Primera. Catastro
 
-Conservación del patrimonio cultural urbano y arquitectónico
+Catastro
 
 ###### Artículo 192.
 
@@ -3429,27 +4383,47 @@ Notificación del resultado de los trabajos catastrales
 
 El resultado de los trabajos catastrales y en su caso las observaciones de los interesados, se notificará a los propietarios, poseedores o usufructuarios de los inmuebles, de acuerdo a lo establecido en esta Sección, dejando a salvo los derechos de los interesados para que los ejerciten conforme a las disposiciones jurídicas relativas.
 
-#### Sección Segunda. Áreas y centros de población declarados Patrimonio Cultural
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Administración, fomento y control en las áreas y centros de población
+#### Sección Segunda. Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano
+
+> <small>(REFORMADO ACÁPITE, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Objeto del Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 215.
 
-El Subsistema Estatal de Información Territorial forma parte del Sistema Estatal de Información Estadística y Geográfica, y tiene por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de las políticas estatales en materia de ordenamiento sustentable del territorio, recursos hídricos, suelo y vivienda.
+El Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano, forma parte del Sistema Estatal de Información Estadística y Geográfica, y estará a cargo del Instituto de Planeación. El manejo e información contenida en el Subsistema formará parte del Plan Estatal de Desarrollo.
 
-La integración y administración del Subsistema Estatal de Información Territorial se sujetará, en lo conducente, a las disposiciones previstas en la Ley del Sistema Nacional de Información Estadística y Geográfica y en la Ley de Planeación para el Estado de Guanajuato, y se conformará con la información que proporcionen las dependencias y entidades de la administración pública estatal y municipal, en aspectos relacionados con el territorio, los recursos hídricos, los recursos y terrenos forestales, el suelo y la vivienda.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+La integración y administración del Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano se sujetará, en lo conducente, a las disposiciones previstas en la Ley del Sistema Nacional de Información Estadística y Geográfica, y en la Ley de Planeación para el Estado de Guanajuato y su reglamento. El Subsistema tendrá por objeto producir, integrar, generar y difundir la información estadística y geográfica que se requiera para la adecuada planeación, instrumentación y seguimiento de las políticas estatales en materia de ordenamiento sustentable del territorio, recursos hídricos, suelo y vivienda; así como los indicadores clave que correspondan a los temas y subtemas que lo integran, en relación con las características geográficas del territorio estatal, el medio ambiente, los asentamientos humanos, el ordenamiento territorial y el desarrollo urbano. Estará disponible para su consulta en medios electrónicos y se complementará con la información de otros registros e inventarios sobre el territorio; y ofrecerá la información oficial al nivel de desagregación y escala que se requiera.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, se incorporarán al Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano, los informes y documentos relevantes derivados de actividades científicas, académicas, trabajos técnicos o de cualquier índole en materia de ordenamiento ecológico territorial y desarrollo urbano, realizados en el Estado por personas físicas o morales, nacionales o extranjeras. Para ello, todas las autoridades estatales y municipales proporcionarán copia de dichos documentos una vez que sean aprobados por la instancia que corresponda.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+El Instituto de Planeación celebrará acuerdos y convenios con las asociaciones, instituciones u organizaciones de los sectores social y privado, a fin de que aporten la información que generen.
 
 Integración del Inventario Estatal Forestal y de Suelos
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 216.
 
-El Inventario Estatal Forestal y de Suelos formará parte del Subsistema Estatal de Información Territorial y se integrará de conformidad con la metodología establecida en la Ley General de Desarrollo Forestal Sustentable, el Código, la ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato y los reglamentos respectivos, en el que se deberán relacionar, de manera organizada y sistemática, los datos estadísticos y contables de los ecosistemas, bienes y servicios forestales, así como la zonificación forestal emitida por las autoridades federales.
+El Inventario Estatal Forestal y de Suelos formará parte del Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano y se integrará de conformidad con la metodología establecida en la Ley General de Desarrollo Forestal Sustentable, el Código, la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato y los reglamentos respectivos, en el que se deberán relacionar, de manera organizada y sistemática, los datos estadísticos y contables de los ecosistemas, bienes y servicios forestales, así como la zonificación forestal emitida por las autoridades federales.
 
 Integración e información del Inventario de Áreas Naturales Protegidas
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 217.
 
-El Instituto de Ecología integrará el Inventario de Áreas Naturales Protegidas al Subsistema Estatal de Información Territorial y mantendrá actualizada la información siguiente:
+El Instituto de Ecología integrará el Inventario de Áreas Naturales Protegidas al Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano y mantendrá actualizada la información siguiente:
 
 I. Los decretos a través de los cuales se declare el establecimiento de áreas naturales protegidas de competencia estatal;
 
@@ -3473,9 +4447,11 @@ El Instituto de Ecología incluirá en el Inventario de Áreas Naturales Protegi
 
 Integración y administración del Inventario Habitacional y de Suelo para Vivienda
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 219.
 
-La Comisión de Vivienda administrará el Inventario Habitacional y de Suelo para Vivienda, así como los indicadores en la materia, que formarán parte del Subsistema Estatal de Información Territorial y en el que integrará la información de ese sector, en los términos de la ley federal de vivienda e incluirá aquélla que permita identificar la evolución y crecimiento del mercado de vivienda, con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
+La Comisión de Vivienda administrará el Inventario Habitacional y de Suelo para Vivienda, así como los indicadores en la materia, que formarán parte del Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano y en el que integrará la información de ese sector, en los términos de la ley federal de vivienda, e incluirá aquélla que permita identificar la evolución y crecimiento del mercado de vivienda, con el objeto de contar con información suficiente para evaluar los efectos de la política habitacional.
 
 Objeto de la actualización del Inventario Habitacional y de Suelo para Vivienda
 
@@ -3523,7 +4499,9 @@ Acciones en los programas para la conservación y restauración de los terrenos 
 
 Los programas de gobierno o aquéllos derivados de los mismos, incluirán proyectos, medidas y acciones para la conservación y restauración de los terrenos forestales y preferentemente forestales, los sumideros de carbono y las cuencas hidrológicas, así como para la reconversión de tierras agropecuarias a zonas de conservación ecológica o de recarga de mantos acuíferos, formuladas a partir de los resultados de los estudios técnicos que se elaboren sobre el estado de zonas degradadas y las condiciones socioeconómicas de las mismas.
 
-Para tal efecto, las autoridades correspondientes podrán tomar la opinión del Instituto de Ecología, de la Secretaría de Desarrollo Agropecuario y del Consejo Estatal Forestal.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Para tal efecto, las autoridades correspondientes podrán tomar la opinión del Instituto de Ecología, de la Secretaría de Desarrollo Agroalimentario y Rural y del Consejo Estatal Forestal.
 
 Acuerdos y convenios para la conservación y restauración de los espacios naturales
 
@@ -3555,23 +4533,31 @@ Incentivos para la conservación y restauración de los espacios naturales
 
 El Ejecutivo del Estado y los ayuntamientos establecerán incentivos para promover la realización de los proyectos y acciones de conservación y restauración a que se refiere este Capítulo.
 
-### Capítulo II. Patrimonio cultural urbano y arquitectónico, y áreas y centros de población declarados Patrimonio Cultural
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-#### Sección Primera. Disposiciones generales
+### Capítulo II. Patrimonio natural, cultural urbano y arquitectónico, y áreas y centros de población declarados Patrimonio Cultural
 
-Reglas de la administración del desarrollo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Primera. Conservación del patrimonio natural, cultural urbano y arquitectónico
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Conservación del patrimonio natural, cultural urbano y arquitectónico
 
 ###### Artículo 229.
 
-En los programas se definirán las políticas de conservación del patrimonio cultural urbano y arquitectónico ubicado en el territorio del Estado, las que deberán ser tomadas en cuenta al realizar cualquier obra o inversión pública, así como al expedir cualquier concesión, licencia o permiso que involucre a esas zonas o inmuebles.
+En los programas se definirán las políticas de conservación del patrimonio natural, cultural urbano y arquitectónico ubicado en el territorio del Estado, las que deberán ser tomadas en cuenta al realizar cualquier obra o inversión pública, así como al expedir cualquier concesión, licencia o permiso que involucre a esas zonas o inmuebles.
 
-La instrumentación de las políticas de conservación del patrimonio cultural urbano y arquitectónico se sujetará a lo establecido en el Código, en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, y en la Ley del Patrimonio Cultural del Estado de Guanajuato.
+La instrumentación de las políticas de conservación del patrimonio natural, cultural urbano y arquitectónico se sujetará a lo establecido en el Código, en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, y en la Ley del Patrimonio Cultural del Estado de Guanajuato.
 
-Zonas de entorno del patrimonio cultural urbano y arquitectónico
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Zonas de entorno del patrimonio natural, cultural urbano y arquitectónico
 
 ###### Artículo 230.
 
-Los programas municipales delimitarán las zonas de entorno del patrimonio cultural urbano y arquitectónico, así como de los monumentos arqueológicos, artísticos o históricos, y determinarán las condiciones para el aprovechamiento de los inmuebles ubicados dentro de esas zonas de entorno, incluyendo el establecimiento de restricciones a los usos del suelo y a las construcciones.
+Los programas municipales delimitarán las zonas de entorno del patrimonio natural, cultural urbano y arquitectónico, así como de los monumentos arqueológicos, artísticos o históricos, y determinarán las condiciones para el aprovechamiento de los inmuebles ubicados dentro de esas zonas de entorno, incluyendo el establecimiento de restricciones a los usos del suelo y a las construcciones.
 
 Conservación y restauración de inmuebles
 
@@ -3583,9 +4569,9 @@ El Ejecutivo del Estado y los ayuntamientos establecerán estímulos e incentivo
 
 Cualquier construcción, modificación, reconstrucción, restauración, reparación, obra o actividad en los inmuebles ubicados en las zonas a que se refiere el párrafo anterior, se ajustarán al alineamiento y la traza reconocidos en el programa municipal.
 
-#### Sección Segunda. Control del desarrollo urbano
+#### Sección Segunda. Áreas y centros de población declarados Patrimonio Cultural
 
-Control del desarrollo urbano
+Administración, fomento y control en las áreas y centros de población
 
 ###### Artículo 232.
 
@@ -3613,9 +4599,13 @@ IV. El titular de la unidad administrativa municipal en materia de planeación;
 
 V. Un representante del Instituto Estatal de la Cultura del Estado de Guanajuato, designado por su Titular; y
 
-VI. Los representantes de las dependencias y entidades de la administración pública estatal y municipal y de los sectores público, social y privado que sean especialistas en la protección, preservación y restauración del patrimonio cultural urbano y arquitectónico.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-El Comité a que se refiere este artículo podrá convocar, con el carácter de invitados permanentes, a representantes de las dependencias y entidades de la administración pública federal, cuya competencia incida en la protección, preservación y restauración del patrimonio cultural urbano y arquitectónico.
+VI. Los representantes de las dependencias y entidades de la administración pública estatal y municipal y de los sectores público, social y privado que sean especialistas en la protección, preservación y restauración del patrimonio natural, cultural urbano y arquitectónico.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+El Comité a que se refiere este artículo podrá convocar, con el carácter de invitados permanentes, a representantes de las dependencias y entidades de la administración pública federal, cuya competencia incida en la protección, preservación y restauración del patrimonio natural, cultural urbano y arquitectónico.
 
 En el reglamento municipal respectivo se establecerá el número y el mecanismo de designación de los representantes a que se refiere la fracción VI de este artículo.
 
@@ -3639,9 +4629,11 @@ En el área materia de la Declaratoria de Patrimonio Cultural, así como en la z
 
 Infraestructura
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 237.
 
-Los postes y cables telefónicos y conductores de energía eléctrica, así como cualquier otra instalación o equipo eléctrico ubicado en la vialidad urbana, deberán estar ocultos o subterráneos.
+La infraestructura telefónica de voz y datos, y de conducción de energía eléctrica, así como cualquier otra instalación o equipo eléctrico ubicado en la vialidad urbana, deberá estar oculta o subterránea.
 
 Restricciones en materia de anuncios
 
@@ -3723,9 +4715,9 @@ El Comité Técnico podrá requerir a las autoridades competentes que instauren 
 
 ### Capítulo III. Administración del desarrollo urbano
 
-#### Sección Tercera. Fomento al desarrollo urbano
+#### Sección Primera. Disposiciones generales
 
-Coordinación de acciones
+Reglas de la administración del desarrollo
 
 ###### Artículo 248.
 
@@ -3739,9 +4731,9 @@ III. Se fomentará la mezcla de los usos habitacionales con los productivos que 
 
 IV. Se deberán evitar los usos habitacionales así como los usos comerciales de alta densidad en torno a instalaciones de alto riesgo ambiental o en zonas que presenten un peligro para la población.
 
-#### Sección Cuarta. Paisaje e imagen urbana
+#### Sección Segunda. Control del desarrollo urbano
 
-Principios de la protección al paisaje y la regulación de la imagen urbana
+Control del desarrollo urbano
 
 ###### Artículo 249.
 
@@ -3760,6 +4752,10 @@ Reglas para que proceda el otorgamiento de las licencias, permisos o concesiones
 ###### Artículo 251.
 
 Todas las obras, acciones, servicios e inversiones en materia de desarrollo urbano que se realicen en el territorio del Estado, sean públicas o privadas, deberán sujetarse a lo dispuesto en el Código, su reglamento y a los programas aplicables. Sin este requisito, no se otorgará licencia, permiso o concesión para efectuarlas.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+En los reglamentos municipales se preverá la prohibición para el uso de suelo y permiso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas.
 
 Actos de los fedatarios
 
@@ -3807,7 +4803,9 @@ II. Controlar que toda obra, acción, actividad, servicio, proyecto o inversión
 
 III. Señalar el aprovechamiento y aptitud del suelo, de acuerdo con los programas y reglamentos municipales aplicables;
 
-IV. Proteger al ambiente, el entorno natural, la imagen urbana, el paisaje y el patrimonio cultural urbano y arquitectónico; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Proteger al ambiente, el entorno natural, la imagen urbana, el paisaje y el patrimonio natural, cultural urbano y arquitectónico; y
 
 V. Impedir el establecimiento de obras o asentamientos humanos que no cumplan con las disposiciones del Código.
 
@@ -3853,7 +4851,9 @@ Evaluación de compatibilidad
 
 Para efectuar la evaluación de compatibilidad, los solicitantes deberán presentar a la unidad administrativa municipal el estudio respectivo, que deberá contener, al menos:
 
-I. La descripción de los posibles efectos que el uso de suelo propuesto para determinado inmueble, en tipo o intensidad diferente a los señalados en la zonificación, así como las obras relativas, producirán en el ambiente, la infraestructura pública, el equipamiento urbano, los servicios públicos, el patrimonio cultural urbano y arquitectónico, la imagen urbana, el tránsito vehicular y la seguridad de las personas y sus bienes, en la zona en que se pretende asignar el uso del suelo; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. La descripción de los posibles efectos que el uso de suelo propuesto para determinado inmueble, en tipo o intensidad diferente a los señalados en la zonificación, así como las obras relativas, producirán en el ambiente, el entorno natural, la imagen urbana, el paisaje, el patrimonio natural, cultural urbano y arquitectónico, la infraestructura pública, el equipamiento urbano, los servicios públicos, el tránsito vehicular y la seguridad de las personas y sus bienes, en la zona en que se pretende asignar el uso del suelo; y
 
 II. Las medidas de prevención, mitigación y compensación aplicables al caso.
 
@@ -3869,7 +4869,21 @@ I. Autorizar el cambio de uso del suelo, así como la expedición del permiso re
 
 II. Autorizar, de manera condicionada, tanto el cambio de uso del suelo como la expedición del permiso respectivo, a la modificación de la obra, acción, actividad, servicio, proyecto o inversión de que se trate, incluyendo el establecimiento de medidas adicionales de prevención, mitigación y compensación; o
 
-III. Negar el cambio de uso de suelo o la expedición del permiso respectivo, cuando se contravenga el Código, las leyes, reglamentos, programas y demás disposiciones aplicables, o exista falsedad en la información proporcionada por el solicitante.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. Negar el cambio de uso de suelo o la expedición del permiso respectivo, cuando:
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+a) Se contravenga el Código, las leyes, reglamentos, programas y demás disposiciones aplicables;
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+b) Se afecte o pueda afectarse al ambiente, al entorno natural, a la imagen urbana, al paisaje o al patrimonio natural, cultural urbano y arquitectónico; o
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+c) Exista falsedad en la información proporcionada por el solicitante.
 
 En los casos en que el acuerdo del Ayuntamiento implique el cambio del uso del suelo, se seguirá el procedimiento previsto en las fracciones III a X del artículo 58 del Código.
 
@@ -3885,43 +4899,61 @@ Restricciones
 
 Las constancias de factibilidad, los permisos de uso de suelo y los acuerdos emitidos en la evaluación de compatibilidad, no constituyen constancias de apeo y deslinde respecto de los inmuebles, ni acreditan la propiedad o posesión de los mismos.
 
-#### Sección Quinta. Parques urbanos, jardines públicos y áreas verdes
+#### Sección Tercera. Fomento al desarrollo urbano
 
-Parques urbanos, jardines públicos y áreas verdes
+Coordinación de acciones
 
 ###### Artículo 265.
 
 El Ejecutivo del Estado y los ayuntamientos fomentarán la coordinación de acciones, proyectos e inversiones entre los sectores público, social y privado para:
 
-I. La aplicación de los programas estatal, municipal y metropolitano;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-II. El establecimiento de mecanismos e instrumentos financieros para eficientar el desarrollo urbano;
+I. La aplicación de los programas;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. El establecimiento de mecanismos e instrumentos financieros para eficientar el desarrollo urbano y el ordenamiento territorial;
 
 III. La inducción de incentivos fiscales orientados a la consolidación, mejoramiento y conservación de los centros de población, así como a su redensificación poblacional;
 
 IV. La construcción de vivienda popular o económica y de interés social;
 
-V. La canalización de inversiones en provisiones y reservas territoriales, así como en el desarrollo de infraestructura pública y equipamiento urbano;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. La canalización de inversiones en provisiones y reservas territoriales, así como en el desarrollo de infraestructura pública, equipamiento urbano, mejoramiento de espacios públicos y servicios urbanos;
 
 VI. El desarrollo de proyectos y acciones para el aprovechamiento de las reservas territoriales;
 
 VII. La satisfacción de las necesidades complementarias en infraestructura y equipamiento urbano, generadas por las inversiones y obras federales, estatales y municipales;
 
-VIII. La protección al patrimonio cultural urbano y arquitectónico, las áreas de valor escénico y la imagen urbana;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. La protección al patrimonio natural, cultural urbano y arquitectónico, las áreas de valor escénico y la imagen urbana;
 
 IX. La implementación de los instrumentos y mecanismos para la simplificación de los trámites administrativos relativos al ordenamiento y administración sustentable del territorio;
 
 X. El fortalecimiento, mejoramiento y actualización del Catastro;
 
-XI. El impulso a la educación, la investigación y la capacitación en materia de ordenamiento y administración sustentable del territorio; y
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XII. La creación y aplicación de tecnologías que protejan al ambiente, mejoren la calidad de vida de los habitantes del ámbito rural y urbano y reduzcan los impactos negativos provocados por un crecimiento desordenado en los centros de población.
+X bis. La promoción de la construcción y adecuación de la infraestructura, el equipamiento y los servicios urbanos, atendiendo al principio de accesibilidad universal;
 
-#### Sección Sexta. Prevención de riesgos, contingencias y desastres urbanos
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Acciones para la prevención de riesgos y contingencias
+X bis 1. La protección, mejoramiento y ampliación de los espacios públicos de calidad para garantizar el acceso universal a parques urbanos, jardines públicos, áreas verdes y demás bienes de uso común con cubierta vegetal, así como a espacios públicos seguros, inclusivos y accesibles;
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI. El impulso a las tecnologías de información y comunicación, la educación, la investigación y la capacitación en materia de ordenamiento y administración sustentable del territorio; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XII. La aplicación de tecnologías que preserven y restauren el equilibrio ecológico, protejan al ambiente, mejoren la calidad de vida de los habitantes del ámbito rural y urbano, impulsen las acciones de adaptación y mitigación al cambio climático, y reduzcan los costos y mejoren la calidad de la urbanización, así como los impactos negativos provocados por un crecimiento desordenado en los centros de población.
+
+#### Sección Cuarta. Paisaje e imagen urbana
+
+Principios de la protección al paisaje y la regulación de la imagen urbana
 
 ###### Artículo 266.
 
@@ -3931,7 +4963,9 @@ I. Eficiencia: promover que las medidas, proyectos y acciones en materia de pais
 
 II. Calidad visual: fomentar que la infraestructura pública, el equipamiento urbano y sus elementos, así como los anuncios que se coloquen en cualquier vialidad urbana o bien de uso común, o que sean visibles desde los mismos, sean percibidos como congruentes y armónicos entre sí;
 
-III. Prevención de la contaminación visual: evitar que cualquier intervención, uso, proyecto o acción en cualquier área, predio, edificación o instalación degrade o deteriore la imagen urbana o distorsione la apreciación del patrimonio cultural urbano y arquitectónico, sus áreas de entorno, el paisaje o las áreas de valor escénico; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III. Prevención de la contaminación visual: evitar que cualquier intervención, uso, proyecto o acción en cualquier área, predio, edificación o instalación degrade o deteriore la imagen urbana o distorsione la apreciación del patrimonio natural, cultural urbano y arquitectónico, sus áreas de entorno, el paisaje o las áreas de valor escénico; y
 
 IV. Seguridad vial: impedir que el mobiliario urbano y los anuncios que se coloquen en cualquier vialidad urbana o que sean visibles desde las mismas, obstruyan o interfieran con la libre circulación de vehículos o personas, limiten o reduzcan la visibilidad de la vía pública o de la señalización vial, o distraigan la atención de los usuarios de las vialidades urbanas.
 
@@ -3961,15 +4995,21 @@ VI. Vialidades urbanas de competencia municipal y sus elementos complementarios,
 
 VII. Plazas cívicas, parques urbanos, jardines públicos, áreas verdes y cualquier otro bien inmueble de uso común con cubierta vegetal;
 
-VIII. Patrimonio cultural urbano y arquitectónico, áreas de valor escénico y zonas de entorno de monumentos arqueológicos, artísticos o históricos;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VIII. Patrimonio natural, cultural urbano y arquitectónico, áreas de valor escénico y zonas de entorno de monumentos arqueológicos, artísticos o históricos;
 
 IX. Sembrado de las construcciones en los lotes;
 
-X. Fachadas frontales, laterales, posteriores y azoteas, paleta de colores y materiales, volumetría y cubiertas, alturas, alineamientos, remetimientos, colindancias, volados y acabados, de las construcciones;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+X. Fachadas frontales, laterales, posteriores y azoteas, paleta de colores y materiales, volumetría y cubiertas, alturas, alineamientos, remetimientos, colindancias, volados y acabados de las construcciones; incluyendo la aplicación de azoteas o techos verdes y jardines verticales;
 
 XI. Bardas, rejas y muros;
 
-XII. Forestación y vegetación; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XII. Forestación y vegetación, conforme a lo dispuesto en la paleta vegetal aplicable; y
 
 XIII. Elementos e instalaciones en azoteas o adosados.
 
@@ -3999,7 +5039,9 @@ II. Por su ubicación, dimensiones o materiales empleados en su construcción o 
 
 III. Tengan semejanza con la señalización vial o con el mobiliario urbano especializado para el control de la circulación vehicular; y
 
-IV. Se pueda afectar, obstruir, limitar, interferir o alterar la apreciación visual de alguna zona o inmueble que se encuentre sujeto a alguno de los regímenes de protección al patrimonio cultural urbano y arquitectónico o a las áreas de valor escénico previstos en el Código, en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, o en la Ley del Patrimonio Cultural del Estado de Guanajuato.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Se pueda afectar, obstruir, limitar, interferir o alterar la apreciación visual de alguna zona o inmueble que se encuentre sujeto a alguno de los regímenes de protección al patrimonio natural, cultural urbano y arquitectónico o a las áreas de valor escénico previstos en el Código, en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, o en la Ley del Patrimonio Cultural del Estado de Guanajuato.
 
 Los reglamentos municipales podrán establecer las limitaciones y restricciones al contenido de los anuncios, sólo cuando se incite a la violencia, atente contra la convivencia social, promueva la discriminación con motivo de género, raza o condición social, resulte difamatorio o atente contra la dignidad de la persona o de la comunidad.
 
@@ -4079,19 +5121,81 @@ Anuncios de carácter político
 
 Los anuncios de carácter político se sujetarán a los periodos y condiciones que establezca la normatividad electoral, federal y estatal.
 
-#### Sección Primera. Prestación de los servicios públicos
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Usos
+#### Sección Cuarta Bis. Espacio público
 
-#### Sección Segunda. Tarifas
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Pago de los servicios
+Espacios públicos
+
+Artículo 277 bis. Se deberá privilegiar el diseño, adecuación, mantenimiento y protección de los espacios públicos, teniendo en cuenta siempre la evolución de la ciudad en los procesos de planeación urbana, la programación de inversiones públicas, y el aprovechamiento y utilización de áreas, polígonos y predios baldíos, públicos o privados, dentro de los centros de población.
+
+Los programas municipales incluirán los aspectos relacionados con el uso, aprovechamiento y custodia del espacio público, contemplando entre otras acciones la identificación de los espacios públicos y los equipamientos colectivos de interés público y social con relación a la función y las características que tendrán y a la ubicación de los beneficiarios, atendiendo la normatividad en la materia.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Prevenciones para el uso, aprovechamiento y custodia del espacio público
+
+Artículo 277 bis 1. El uso, aprovechamiento y custodia del espacio público se sujetará a lo siguiente:
+
+I. Prevalecerá el interés general sobre el particular;
+
+II. Se deberá promover la equidad en su uso y disfrute;
+
+III. Se deberá asegurar la accesibilidad universal y la libre circulación de todas las personas, promoviendo espacios públicos que sirvan como transición y conexión entre barrios, y fomenten la pluralidad y la cohesión social;
+
+IV. En el caso de los bienes de dominio público, éstos son inalienables;
+
+V. Se mantendrá el equilibrio entre parques urbanos, jardines públicos, áreas verdes y demás bienes de uso común con cubierta vegetal y la construcción de la infraestructura, tomando como base de cálculo las normas nacionales en la materia;
+
+VI. Los espacios públicos originalmente destinados a la recreación, el deporte, parques urbanos, jardines públicos, áreas verdes y demás bienes de uso común con cubierta vegetal o zonas de esparcimiento, no podrán ser destinados a otro uso;
+
+VII. Los instrumentos en los que se autorice la ocupación del espacio público, sólo confieren a sus titulares el derecho sobre la ocupación temporal y para el uso definido;
+
+VIII. Se garantizará comodidad y seguridad en el espacio público, sobre todo para los peatones, con una equidad entre los espacios edificables y los no edificables; y
+
+IX. Se promoverá la creación de espacios públicos de dimensiones adecuadas para integrar barrios, de tal manera que su ubicación y beneficios sean accesibles a distancias peatonales para sus habitantes.
+
+En caso de tener que utilizar suelo destinado a espacio público para otros fines, la autoridad tendrá que justificar sus acciones para dicho cambio en el uso de suelo, además de sustituirlo por otro de características, ubicación y dimensiones similares. Para el caso de las áreas verdes, se estará a lo dispuesto por el artículo 417 del Código.
+
+#### Sección Quinta. Parques urbanos, jardines públicos y áreas verdes
+
+Parques urbanos, jardines públicos y áreas verdes
 
 ###### Artículo 278.
 
 Corresponde a los municipios el establecimiento, protección, equipamiento, vigilancia, mantenimiento, administración y restauración de los parques urbanos, jardines públicos y áreas verdes, plazas cívicas, glorietas, camellones y demás bienes municipales de uso común con cubierta vegetal.
 
 Los ayuntamientos tomarán las medidas y acciones para evitar la erosión y deterioro de los espacios a que se refiere el párrafo anterior, con objeto de mejorar el ambiente y la calidad de vida de la población.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Paleta vegetal
+
+Artículo 278 bis. Mediante la paleta vegetal, cada Municipio deberá determinar las especies y características de la vegetación susceptibles de utilizarse en la forestación de los parques urbanos, jardines públicos y áreas verdes, así como de las áreas ajardinadas de plazas cívicas, glorietas, camellones, banquetas y demás bienes inmuebles de propiedad municipal ubicados dentro de los centros de población.
+
+Las paletas vegetales que aprueben los ayuntamientos deberán priorizar la utilización de especies nativas de la región ecológica en que se ubique cada Municipio.
+
+En la paleta vegetal, los ayuntamientos deberán determinar los espacios, condiciones y especificaciones de la vegetación, considerando las características y los servicios ambientales que las especies prestan.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Disposiciones de la paleta vegetal
+
+Artículo 278 bis 1. En la paleta vegetal o en los reglamentos municipales respectivos, deberán establecerse las disposiciones para:
+
+I. Determinar el espacio que la vegetación requiere para su desarrollo adecuado;
+
+II. Evitar que las especies vegetales afecten o puedan afectar a cualquier edificación, a la infraestructura pública o privada, o a la seguridad vial;
+
+III. Fomentar la utilización de las especies determinadas en la paleta vegetal, en la forestación de cualquier bien inmueble ubicado dentro de los centros de población;
+
+IV. Utilizar especies arbóreas o arbustivas con raíz pivotante en la forestación de banquetas, camellones y glorietas;
+
+V. Usar especies arbóreas acordes a las disposiciones en materia de seguridad de la infraestructura eléctrica, en la forestación de cualquier sitio ubicado debajo de la red de conducción de energía eléctrica; y
+
+VI. Las demás que determine el Ayuntamiento para favorecer el desarrollo adecuado de los especímenes vegetales y su convivencia equilibrada con el entorno en que se ubiquen.
 
 Obligaciones de los ayuntamientos
 
@@ -4103,6 +5207,14 @@ I. Gestionarán la preservación y el incremento de parques urbanos, jardines p�
 
 II. Evitarán que se modifique o altere la superficie, ubicación y destino de los parques urbanos, jardines públicos y áreas verdes;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II bis. Priorizarán la forestación y reforestación de conformidad con la paleta vegetal;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II bis 1. Promoverán acciones y estrategias encaminadas al cuidado y conservación del arbolado urbano;
+
 III. Procurarán que estén consolidadas las áreas verdes de fraccionamientos y desarrollos en condominio; y
 
 IV. Tomarán las medidas y acciones para evitar el uso de agua potable en el riego de parques urbanos, jardines públicos y áreas verdes.
@@ -4113,7 +5225,9 @@ Equipamiento y mantenimiento
 
 Las dependencias y entidades municipales proveerán el equipamiento de parques urbanos, jardines públicos y áreas verdes únicamente con obras e instalaciones destinadas al esparcimiento, a la educación ambiental y a la realización de actividades culturales, así como con aquéllas necesarias para su protección, conservación y mantenimiento, para la accesibilidad universal y el tránsito seguro de las personas.
 
-Las unidades administrativas municipales correspondientes realizarán la forestación, mantenimiento, mejoramiento, poda, fomento y conservación de los parques urbanos, jardines públicos y áreas verdes con las técnicas y especies apropiadas, preferentemente originarias de la región ecológica de que se trate, sujetándose a las normas técnicas ambientales que se expidan.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Las unidades administrativas municipales correspondientes realizarán la forestación, mantenimiento, mejoramiento, poda, fomento y conservación de los parques urbanos, jardines públicos y áreas verdes, así como de las áreas ajardinadas de plazas cívicas, glorietas, camellones, banquetas y demás bienes inmuebles de propiedad municipal, con las técnicas y especies previstas en la paleta vegetal.
 
 Convenios con particulares
 
@@ -4129,25 +5243,39 @@ Convenios para la protección y ornato de zonas federales de causes y cuerpos de
 
 Los ayuntamientos podrán celebrar, con la participación que corresponda al Ejecutivo del Estado, los convenios y acuerdos necesarios para la protección y ornato de las zonas federales de cauces y cuerpos de aguas nacionales que se ubiquen dentro de los centros de población.
 
-#### Sección Tercera. Prevención y control de la contaminación del agua
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Acciones para prevenir y controlar la contaminación
+#### Sección Sexta. Resiliencia urbana, prevención y reducción de riesgos, contingencias y desastres urbanos
 
-#### Sección Cuarta. Cultura del Agua
+Acciones para la prevención de riesgos y contingencias
 
-Cultura del Agua
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Primera. Prestación de los servicios públicos
+
+Usos
 
 ###### Artículo 283.
 
+Las normas de la presente Sección tienen por objeto establecer las especificaciones a que estarán sujetos los procesos de ocupación del territorio, a fin de prevenir riesgos a la población y evitar daños irreversibles en su persona o sus bienes, así como para mitigar los impactos adversos del cambio climático y costos económicos y sociales en los centros de población.
+
 Para la prevención de riesgos y contingencias urbanas, así como de desastres por impactos adversos del cambio climático, el Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus competencias:
 
-I. Utilizarán la información contenida en los atlas de riesgo para el establecimiento de modalidades y restricciones a los usos de suelo y a las construcciones, así como para la formulación, revisión y actualización de los programas y de los reglamentos en materia de zonificación y de construcciones;
+I. Establecerán estrategias de gestión integral de riesgos;
 
-II. Implementarán las medidas y acciones necesarias para evitar el desarrollo de asentamientos humanos en zonas de alto riesgo, identificadas en los atlas respectivos;
+II. Promoverán medidas que permitan a los centros de población incrementar su resiliencia;
 
-III. Establecerán las zonas intermedias de salvaguarda en torno a inmuebles o instalaciones en que se realicen actividades de alto riesgo ambiental; y
+III. Utilizarán la información contenida en los atlas de riesgo para el establecimiento de modalidades y restricciones a los usos de suelo y a las construcciones, así como para la formulación, revisión y actualización de los programas y de los reglamentos en materia de zonificación y de construcciones;
 
-IV. Determinarán y promoverán la ejecución de las obras de infraestructura pública para la prevención y atención a contingencias en áreas urbanizadas ubicadas en zonas de alto riesgo y, en su caso, establecerán las medidas y acciones para la reubicación de los mismos, definiendo los mecanismos para su financiamiento, así como para la participación de los afectados y de las organizaciones de los sectores social y privado en la ejecución de las mismas.
+IV. Implementarán las medidas y acciones necesarias para evitar el desarrollo de asentamientos humanos en zonas de alto riesgo, identificadas en los atlas respectivos;
+
+V. Establecerán las zonas intermedias de salvaguarda en torno a inmuebles o instalaciones en que se realicen actividades de alto riesgo ambiental; y
+
+VI. Determinarán y promoverán la ejecución de las obras de infraestructura pública para la prevención y atención a contingencias en áreas urbanizadas ubicadas en zonas de alto riesgo y, en su caso, establecerán las medidas y acciones para la reubicación de los mismos, definiendo los mecanismos para su financiamiento, así como para la participación de los afectados y de las organizaciones de los sectores social y privado en la ejecución de las mismas.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Artículo 283 bis. Tratándose de acciones, proyectos u obras que se encuentren ubicadas en zonas de alto riesgo conforme al atlas de riesgo, la unidad administrativa municipal antes de otorgar el permiso de uso de suelo deberá contar con un estudio de prevención de riesgo, que elabore la unidad municipal de protección civil.
 
 Análisis de riesgos
 
@@ -4163,11 +5291,11 @@ El Ejecutivo del Estado en coordinación con las autoridades federales, estatale
 
 Medidas para la construcción y operación de obras
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 286.
 
-El Ejecutivo del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias y en coordinación con las autoridades federales, tomarán las medidas necesarias para la construcción y operación de las obras de control de escurrimientos y avenidas, zonas inundables y obras complementarias para la protección de las personas y de sus bienes; así como para adoptar las medidas necesarias en casos de contingencias o desastres originados o vinculados con el agua.
+El Ejecutivo del Estado en coordinación con las autoridades federales, estatales y municipales, así como con la participación de la sociedad, intervendrá en las actividades de seguridad hidráulica en el ámbito estatal y establecerá programas de prevención, control de avenidas y de contingencias para mitigar los efectos de inundaciones, sequías y otros fenómenos extremos.
 
 ## TÍTULO CUARTO. INFRAESTRUCTURA PÚBLICA Y EQUIPAMIENTO URBANO
 
@@ -4227,13 +5355,17 @@ Cuando, con motivo de los convenios celebrados en términos del párrafo anterio
 
 Mediante los convenios a que se refiere este artículo se atenderá, de manera prioritaria, a las necesidades sociales de vivienda popular o económica y de interés social, estableciéndose, para tal efecto, los mecanismos fiscales y financieros.
 
-Los convenios celebrados y que se celebren en los términos de este artículo se considerarán como información pública, de conformidad con lo dispuesto en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y la Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Los convenios celebrados y que se celebren en los términos de este artículo se considerarán como información pública, de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato y en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Guanajuato.
 
 Reglamentación municipal de la accesibilidad para las personas con discapacidad
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 294.
 
-Los reglamentos municipales establecerán las normas y lineamientos obligatorios que garanticen a las personas con discapacidad la accesibilidad a la infraestructura pública, el equipamiento urbano y los espacios públicos, en condiciones que les permitan el libre desplazamiento en condiciones dignas y seguras. Para tal efecto, se considerará que:
+Los reglamentos municipales establecerán las normas y lineamientos obligatorios que garanticen a las personas con discapacidad o movilidad reducida la accesibilidad a la infraestructura pública, el equipamiento urbano y los espacios públicos, en condiciones que les permitan el libre desplazamiento de forma digna y segura. Para tal efecto, se considerará que:
 
 I. Sea de carácter universal y adaptada para todas las personas;
 
@@ -4243,9 +5375,11 @@ III. La adecuación de las instalaciones públicas sea progresiva.
 
 Elementos de accesibilidad
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 295.
 
-Todo proyecto de urbanización, edificación, restauración o construcción de uso público, deberá incorporar los elementos de accesibilidad para las personas con alguna discapacidad motriz, que se establezcan en los reglamentos municipales, mismos que podrán referirse a:
+Todo proyecto de urbanización, edificación, restauración o construcción de uso público, deberá incorporar los elementos de accesibilidad para las personas con alguna discapacidad o movilidad reducida, que se establezcan en los reglamentos municipales, mismos que podrán referirse a:
 
 I. Estacionamientos;
 
@@ -4319,9 +5453,13 @@ I. Pavimentos flexibles, mediante la aplicación de carpetas asfálticas;
 
 II. Pavimentos rígidos, a través de carpetas de concreto hidráulico; o
 
-III. Cualquier otro pavimento o capa de rodamiento que contenga materiales que protejan al ambiente, atendiendo al tipo de suelo, clima, vegetación, topografía, hidrología, orografía y que garantice la duración de la vialidad urbana en, al menos, diez años.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Para la autorización del tipo de pavimento por parte de la unidad administrativa municipal, el responsable de la obra de urbanización presentará el estudio de diseño de pavimentos, tomando en cuenta la información geomecánica y la mecánica del suelo correspondiente.
+III. Cualquier otro pavimento o capa de rodamiento que contenga materiales que protejan al ambiente, atendiendo al tipo de suelo, clima, vegetación, topografía, hidrología, orografía y que garantice la duración de la vialidad urbana en, al menos, veinte años.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Para la autorización del tipo de pavimento por parte de la unidad administrativa municipal, el responsable de la obra de urbanización presentará el estudio de diseño de pavimentos, cumpliendo con las normas oficiales mexicanas en la materia, la información geomecánica y la mecánica del suelo correspondiente.
 
 Normas técnicas de la red de comunicación vial
 
@@ -4470,6 +5608,10 @@ II. Autorizar, de manera condicionada, la ejecución de la construcción, obra, 
 III. Negar la ejecución de la construcción, obra, instalación o proyecto, cuando se contravenga el Código, las leyes, reglamentos, programas y demás disposiciones aplicables, o exista falsedad en la información proporcionada por el solicitante.
 
 ### Capítulo III. Servicios públicos de suministro de agua potable y de drenaje, tratamiento y disposición de aguas residuales
+
+#### Sección Segunda. Tarifas
+
+Pago de los servicios
 
 ###### Artículo 312.
 
@@ -4627,6 +5769,12 @@ VI. Conocer con debida anticipación el régimen tarifario y recibir oportunamen
 
 VII. Formar comités para promover la construcción, conservación, mantenimiento, rehabilitación y operación de los sistemas destinados a la prestación de los servicios públicos.
 
+#### Sección Tercera. Prevención y control de la contaminación del agua
+
+Acciones para prevenir y controlar la contaminación
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 328.
 
 Todo usuario está obligado al pago de los servicios públicos que se presten, con base a las tarifas fijadas en los términos del Código y las leyes fiscales, dentro del plazo que en cada caso señale el recibo correspondiente.
@@ -4751,33 +5899,45 @@ En caso de incumplimiento del pago por la prestación de los servicios públicos
 
 Tratándose de uso doméstico, sólo se otorgará la dotación de agua suficiente para las necesidades básicas.
 
+#### Sección Cuarta. Cultura del Agua
+
+Cultura del Agua
+
 ###### Artículo 342.
 
-La Comisión Estatal del Agua promoverá, ejecutará y evaluará las medidas y acciones necesarias para prevenir y controlar la contaminación de las aguas de jurisdicción estatal.
+La Comisión Estatal del Agua de Guanajuato promoverá, ejecutará y evaluará las medidas y acciones necesarias para prevenir y controlar la contaminación de las aguas de jurisdicción estatal.
 
 Satisfacción de las normas de calidad
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 343.
 
-La Comisión Estatal del Agua velará que el agua utilizada para los diferentes usos a que se refiere el Código, satisfaga plena e invariablemente las normas de calidad; asimismo, gestionará e instrumentará las medidas que se requieran para impedir que desechos, residuos, basura, materiales y sustancias tóxicas o peligrosas, lodos resultantes del tratamiento de efluentes, contaminen las aguas y bienes públicos de jurisdicción estatal.
+La Comisión Estatal del Agua de Guanajuato velará que el agua utilizada para los diferentes usos a que se refiere el Código, satisfaga plena e invariablemente las normas de calidad; asimismo, gestionará e instrumentará las medidas que se requieran para impedir que desechos, residuos, basura, materiales y sustancias tóxicas o peligrosas, o lodos resultantes del tratamiento de efluentes, contaminen las aguas y bienes públicos de jurisdicción estatal.
 
 Cuerpos receptores y cargas de contaminantes
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 344.
 
-La Comisión Estatal del Agua determinará la capacidad de asimilación y dilución de los cuerpos receptores y las cargas de contaminantes que éstos pueden recibir.
+La Comisión Estatal del Agua de Guanajuato determinará la capacidad de asimilación y dilución de los cuerpos receptores y las cargas de contaminantes que éstos pueden recibir.
 
 Declaratorias de los cuerpos de aguas de jurisdicción estatal
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 345.
 
-La Comisión Estatal del Agua en coordinación con el Instituto de Ecología, emitirá las metas de calidad del agua y los plazos para alcanzarlas, por tramos de corriente o subcuenca que contengan aguas de jurisdicción estatal; con base en lo anterior, el Titular del Poder Ejecutivo expedirá las declaratorias de los cuerpos de aguas de jurisdicción estatal.
+La Comisión Estatal del Agua de Guanajuato en coordinación con el Instituto de Ecología, emitirá las metas de calidad del agua y los plazos para alcanzarlas, por tramos de corriente o subcuenca que contengan aguas de jurisdicción estatal; con base en lo anterior, el Titular del Poder Ejecutivo expedirá las declaratorias de los cuerpos de aguas de jurisdicción estatal.
 
 Permiso para descargar aguas residuales
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 346.
 
-Los usuarios deberán contar con permiso de la Comisión Estatal del Agua para descargar aguas residuales en forma permanente o intermitente en cuerpos receptores de jurisdicción estatal.
+Los usuarios deberán contar con permiso de la Comisión Estatal del Agua de Guanajuato para descargar aguas residuales en forma permanente o intermitente en cuerpos receptores de jurisdicción estatal.
 
 Clausura de las descargas de aguas residuales
 
@@ -4809,7 +5969,9 @@ II. Incurrir en los supuestos que prevé el artículo anterior;
 
 III. Revocación o terminación de la concesión de aguas de jurisdicción estatal, cuando éstas sean las únicas que originen la descarga;
 
-IV. Variar las condiciones del título de descarga, sin autorización previa de la Comisión Estatal del Agua; o
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Variar las condiciones del título de descarga, sin autorización previa de la Comisión Estatal del Agua de Guanajuato; o
 
 V. Las demás que se deriven de las disposiciones legales y reglamentarias.
 
@@ -4819,15 +5981,33 @@ Notificación de la resolución de revocación
 
 Cuando se decrete la revocación, la Procuraduría previa audiencia con el interesado, decretará y notificará la resolución respectiva.
 
+#### Sección Primera. Mecanismos de participación
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Consejos estatal y municipales
+
+Artículo 520 bis. Para asegurar la consulta, opinión y deliberación de las políticas de ordenamiento ecológico territorial y planeación del desarrollo urbano y desarrollo metropolitano, conforme al sistema de planeación democrática del desarrollo nacional previsto en el artículo 26 de la Constitución Política de los Estados Unidos Mexicanos, el Estado y los municipios, en el ámbito de sus respectivas competencias, constituirán los siguientes órganos de participación social y conformación plural:
+
+I. Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano; y
+
+II. Consejos Municipales de Desarrollo Urbano y Vivienda.
+
+Corresponde al Ejecutivo del Estado y a los ayuntamientos, la creación y apoyo en la organización y funcionamiento de los consejos referidos en el presente artículo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 350.
 
 La Cultura del Agua es el conjunto de comportamientos y valores de la sociedad en torno a una administración, uso y gestión participativa, corresponsable, integral y sustentable del agua, que considera a este elemento como un recurso vital y escaso, que debe aprovecharse con racionalidad y eficiencia.
 
 Promoción de una cultura para el uso eficiente y cuidado del agua
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 351.
 
-El Titular del Ejecutivo, los ayuntamientos, la Comisión Estatal del Agua y los organismos operadores, promoverán una cultura para el uso eficiente y cuidado del recurso hídrico, a través de la realización de acciones y campañas tendientes a:
+El Titular del Ejecutivo, los ayuntamientos, la Comisión Estatal del Agua de Guanajuato y los organismos operadores, promoverán una cultura para el uso eficiente y cuidado del recurso hídrico, a través de la realización de acciones y campañas tendientes a:
 
 I. Concientizar a la población que el elemento agua es un recurso vital y escaso que debe aprovecharse con racionalidad y eficiencia;
 
@@ -4857,15 +6037,19 @@ La Secretaría de Educación participará en la elaboración de las estrategias 
 
 Lineamientos para la implementación de políticas para reducir el consumo de agua potable
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 353.
 
-La Comisión Estatal del Agua establecerá los lineamientos para la implementación de políticas para reducir el consumo de agua potable, así como para fomentar su uso racional con la finalidad de hacer eficiente y eficaz su consumo en los organismos públicos.
+La Comisión Estatal del Agua de Guanajuato establecerá los lineamientos para la implementación de políticas para reducir el consumo de agua potable, así como para fomentar su uso racional con la finalidad de hacer eficiente y eficaz su consumo en los organismos públicos.
 
 Acciones de promoción del cuidado y uso eficiente del agua
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 354.
 
-Con la finalidad de promover el cuidado y uso eficiente del agua, el Titular del Ejecutivo, los ayuntamientos, la Comisión Estatal del Agua y los organismos operadores, en el ámbito de sus atribuciones, llevarán a cabo las siguientes acciones;
+Con la finalidad de promover el cuidado y uso eficiente del agua, el Titular del Ejecutivo, los ayuntamientos, la Comisión Estatal del Agua de Guanajuato y los organismos operadores, en el ámbito de sus atribuciones, llevarán a cabo las siguientes acciones:
 
 I. Fomentar y difundir mediante programas y acciones, los beneficios sociales, económicos y ambientales del cuidado, uso racional y correcto aprovechamiento del agua subterránea y superficial;
 
@@ -4883,9 +6067,11 @@ VII. Elaborar los proyectos ejecutivos que permitan cumplir los propósitos del 
 
 Estímulos fiscales
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 355.
 
-El Titular del Ejecutivo podrá otorgar estímulos fiscales a las entidades públicas, organismos no gubernamentales y demás instituciones, que se destaquen por sus acciones y esfuerzos en materia de cuidado y uso racional del agua, previa opinión de la Comisión Estatal del Agua, en los términos que establece el Código Fiscal para el Estado de Guanajuato.
+El Titular del Ejecutivo podrá otorgar estímulos fiscales a las entidades públicas, organismos no gubernamentales y demás instituciones, que se destaquen por sus acciones y esfuerzos en materia de cuidado y uso racional del agua, previa opinión de la Comisión Estatal del Agua de Guanajuato, en los términos que establece el Código Fiscal para el Estado de Guanajuato.
 
 Otorgamiento de reconocimientos
 
@@ -4895,9 +6081,11 @@ Las personas y los organismos públicos o privados que se destaquen en su labor 
 
 Proyectos y acciones en materia de la Cultura del Agua
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 357.
 
-La Comisión Estatal del Agua promoverá, coordinará, implementará y desarrollará, de manera permanente, proyectos y acciones en materia de la Cultura del Agua en los que se refleje un uso racional y cuidado del agua, en coordinación con los organismos operadores y el Comité Consultivo de la Cultura del Agua.
+La Comisión Estatal del Agua de Guanajuato promoverá, coordinará, implementará y desarrollará, de manera permanente, proyectos y acciones en materia de la Cultura del Agua en los que se refleje un uso racional y cuidado del agua, en coordinación con los organismos operadores y el Comité Consultivo de la Cultura del Agua.
 
 Comité Consultivo de la Cultura del Agua
 
@@ -4911,7 +6099,13 @@ Integración del Comité Consultivo de la Cultura del Agua
 
 El Comité Consultivo de la Cultura del Agua estará integrado por:
 
-I. Un representante de la Comisión Estatal del Agua, quien fungirá como secretario técnico;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Un representante de la Comisión Estatal del Agua de Guanajuato, quien fungirá como secretario técnico;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I bis. Un representante de la Secretaría de Desarrollo Agroalimentario y Rural, designado por su Titular;
 
 II. Un representante de la Secretaría de Educación, designado por su Titular;
 
@@ -4947,7 +6141,9 @@ El Comité Consultivo de la Cultura del Agua, como órgano de asesoría y consul
 
 I. Participar en la formulación, ejecución y difusión de las estrategias que, en materia de la Cultura del Agua formen parte del Programa de Gobierno del Estado o de aquéllos derivados del mismo;
 
-II. Coadyuvar con la Comisión Estatal del Agua en la generación de las políticas y acciones en la materia;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Coadyuvar con la Comisión Estatal del Agua de Guanajuato en la generación de las políticas y acciones en la materia;
 
 III. Participar en la elaboración de los diagnósticos sociales en materia de Cultura del Agua y difundir sus resultados;
 
@@ -5001,9 +6197,15 @@ Los municipios podrán integrar comisiones para la elaboración y actualización
 
 Preservación de los materiales y sistemas de construcción
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 367.
 
-En los centros de población declarados Patrimonio Cultural, en los centros históricos delimitados en los programas municipales, en las zonas de entorno del patrimonio cultural urbano y arquitectónico y en las zonas con valor escénico, deberán respetarse los materiales y sistemas tradicionales y regionales de construcción, de acuerdo a las disposiciones del Código.
+En los centros de población declarados Patrimonio Cultural, en los centros históricos delimitados en los programas municipales, en las zonas de entorno del patrimonio natural, cultural urbano y arquitectónico y en las zonas con valor escénico, deberán respetarse los materiales y sistemas tradicionales y regionales de construcción, de acuerdo a las disposiciones del Código.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría auxiliará a los municipios en la elaboración de documentos técnicos de análisis de materiales y sistemas tradicionales y regionales de construcción, a considerar en los espacios a que se refiere el párrafo anterior, atendiendo a la normatividad aplicable.
 
 Uso y destino de las construcciones
 
@@ -5243,7 +6445,9 @@ V. La organización y control de la red de comunicación vial, de los estacionam
 
 VI. La congruencia del proyecto con la estructura urbana de los centros de población;
 
-VII. La adecuación del proyecto a la topografía y a las características del suelo, a fin de controlar la ejecución de obras o proyectos en zonas no aptas para el desarrollo urbano, así como la protección al ambiente, los recursos naturales, el patrimonio cultural urbano y arquitectónico, el paisaje y la imagen urbana;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. La adecuación del proyecto a la topografía y a las características del suelo, a fin de controlar la ejecución de obras o proyectos en zonas no aptas para el desarrollo urbano, así como la protección al ambiente, los recursos naturales, el patrimonio natural, cultural urbano y arquitectónico, el paisaje y la imagen urbana;
 
 VIII. Las especificaciones relativas a las características, dimensiones y restricciones por alineamiento de construcción de inmuebles, lotes, departamentos, viviendas, locales o áreas de los fraccionamientos o desarrollos en condominio normados por el Código; y
 
@@ -5421,7 +6625,9 @@ Para obtener la aprobación de traza, el desarrollador deberá presentar a la un
 
 I. Escritura de propiedad del área o predio a urbanizar;
 
-II. El proyecto de diseño urbano del fraccionamiento o desarrollo en condominio de que se trate, que incluirá la propuesta de lotificación y de las obras de urbanización y de equipamiento urbano;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. El proyecto de diseño urbano del fraccionamiento o desarrollo en condominio de que se trate, que incluirá la propuesta de lotificación y de las obras de urbanización, así como la de la ubicación, características y destino de las áreas de donación;
 
 III. La certificación de clave catastral respectiva;
 
@@ -5563,19 +6769,21 @@ Para el caso de las fracciones II y III deberá emitirse de manera previa, un di
 
 Entrega de las áreas verdes y equipamiento urbano
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 418.
 
-Las áreas verdes que el desarrollador entregue al Municipio deberán estar forestadas.
+Las áreas verdes que el desarrollador entregue al Municipio deberán estar forestadas, conforme a la paleta vegetal.
 
 Las áreas destinadas para la dotación de equipamiento urbano, serán urbanizadas por el desarrollador de acuerdo a las características del proyecto. La unidad administrativa municipal, determinará el tipo de equipamiento urbano a que se destinarán estas áreas, previo análisis de la propuesta presentada por el desarrollador.
 
 Ubicación de las áreas de donación
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 419.
 
-La ubicación de las áreas de donación se establecerá atendiendo a las necesidades del fraccionamiento o desarrollo en condominio, respecto a la dotación de equipamiento urbano y áreas verdes.
+Las áreas de donación del fraccionamiento o desarrollo en condominio no podrán ser residuales ni estar ubicadas en zonas inundables o de riesgo, o presentar condiciones topográficas que dificulten su aprovechamiento.
 
 Cuando el fraccionamiento o desarrollo en condominio se construya en una superficie de hasta una hectárea, las áreas de donación se entregarán en una sola porción; en caso de que la superficie en la que se lleve a cabo sea mayor a la referida, la unidad administrativa municipal en materia de administración sustentable del territorio determinará, por medio del dictamen técnico correspondiente, las porciones en que el desarrollador entregará tales áreas de donación, procurando que estén consolidadas las áreas verdes de fraccionamientos y desarrollos en condominio.
 
@@ -5643,7 +6851,9 @@ Realización y terminación de las obras
 
 El plazo para la ejecución de las obras de infraestructura pública se otorgará considerando el programa de obra y la magnitud del fraccionamiento o desarrollo en condominio. Dicho plazo no excederá de dos años, posteriores a la fecha de expedición del permiso de urbanización o de edificación respectivo, a excepción de los fraccionamientos de urbanización progresiva.
 
-Con anticipación de treinta días hábiles previos al vencimiento del plazo establecido en el párrafo anterior y previa justificación de las causas que motivaron el retraso en la ejecución de las obras de infraestructura pública, el desarrollador podrá solicitar la ampliación del plazo, el cual se podrá otorgar por parte de la unidad administrativa municipal por un periodo máximo de ciento veinte días hábiles, sin que sea necesario cubrir nuevos derechos de supervisión.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Con anticipación de treinta días hábiles previos al vencimiento del plazo establecido en el párrafo anterior y previa justificación de las causas que motivaron el retraso en la ejecución de las obras de infraestructura pública, el desarrollador podrá solicitar la ampliación del plazo, el cual se podrá otorgar por parte de la unidad administrativa municipal por un periodo máximo de ciento ochenta días hábiles, sin que sea necesario cubrir nuevos derechos de supervisión.
 
 Si posterior a la ampliación otorgada existieran causas justificadas, la unidad administrativa municipal, previo pago de los derechos de supervisión, podrá conceder un nuevo plazo para la conclusión de obras de urbanización, en atención al programa de obra que presente el desarrollador.
 
@@ -6025,9 +7235,11 @@ II. Los lotes en los fraccionamientos habitacionales populares o de interés soc
 
 Aplicación de coeficientes
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 465.
 
-En caso de que en el proyecto de diseño urbano de algún fraccionamiento o desarrollo en condominio se prevea la construcción tanto de vivienda vertical como horizontal, aplicará proporcionalmente para cada tipo de vivienda, el coeficiente de ocupación del suelo, así como la densidad de población y de vivienda que establezcan los programas municipales.
+En caso de que en el proyecto de diseño urbano de algún fraccionamiento o desarrollo en condominio se prevea la construcción tanto de vivienda vertical como horizontal, aplicará proporcionalmente para cada tipo de vivienda, el coeficiente de ocupación y de utilización del suelo, así como la densidad de población y de vivienda que establezcan los programas municipales.
 
 Tratándose de vivienda horizontal en lotes unifamiliares deberá atenderse lo dispuesto en el artículo 405, párrafo primero, del Código.
 
@@ -6105,7 +7317,9 @@ Vivienda para personas con discapacidad
 
 En los desarrollos en condominio y fraccionamientos habitacionales con más de cien viviendas o unidades de propiedad privativa, se deberá considerar el uno por ciento de las mismas, para personas con alguna discapacidad o movilidad reducida.
 
-Los reglamentos municipales establecerán las normas de diseño, construcción y seguridad de las viviendas a que se refiere el párrafo anterior, atendiendo a los espacios y necesidades de las personas con discapacidad.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Los reglamentos municipales establecerán las normas de diseño, construcción y seguridad de las viviendas a que se refiere el párrafo anterior, atendiendo a los espacios y necesidades de las personas con discapacidad o movilidad reducida.
 
 Seguridad, habitabilidad y sustentabilidad de la vivienda
 
@@ -6283,7 +7497,9 @@ XII. Otorgamiento de subsidios y apoyos vinculados a los programas de ahorro par
 
 XIII. El otorgamiento de estímulos a la producción de vivienda bajo los lineamientos, criterios y parámetros de sustentabilidad que establezca la Comisión Nacional de Vivienda;
 
-XIV. Fomento a las actividades de investigación científica y tecnológica para su aplicación a la vivienda, coordinándose para el efecto con el Consejo de Ciencia y Tecnología del Estado de Guanajuato y órganos afines; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XIV. Fomento a las actividades de investigación científica y tecnológica para su aplicación a la vivienda, coordinándose para el efecto con la Secretaría de Innovación, Ciencia y Educación Superior y órganos afines; y
 
 XV. Las demás acciones previstas en el Código, y las que las leyes y reglamentos señalen.
 
@@ -6377,9 +7593,11 @@ La Comisión de Vivienda no celebrará contratos con promotores, desarrolladores
 
 Adquisición de predios para la implementación de las políticas de vivienda
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 500.
 
-La Comisión de Vivienda deberá adquirir predios para destinarse a la implementación de las políticas de vivienda, respetando los programas y reglamentos municipales, y evaluando la disponibilidad de infraestructura pública, equipamiento urbano y servicios públicos en los predios de que se trate.
+La Comisión de Vivienda deberá adquirir predios para destinarse a la implementación de las políticas de vivienda, respetando los programas y reglamentos municipales, y evaluando la disponibilidad y capacidad de infraestructura pública, equipamiento urbano, movilidad y servicios públicos en los predios de que se trate.
 
 Enajenación de áreas y predios
 
@@ -6519,35 +7737,73 @@ Las acciones en materia de vivienda rural e indígena, podrán realizarse en pre
 
 ## TÍTULO OCTAVO. PARTICIPACIÓN Y CONCERTACIÓN
 
-### Capítulo I. Participación social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-Participación social
+### Capítulo I. Participación social y ciudadana
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Participación social y ciudadana
 
 ###### Artículo 516.
 
-El Ejecutivo del Estado y los ayuntamientos promoverán la participación social en la formulación, actualización, ejecución y evaluación de los programas a que se refiere el Código, en los términos de los ordenamientos jurídicos aplicables.
+El Ejecutivo del Estado y los ayuntamientos promoverán la participación social y ciudadana en la formulación, actualización, ejecución y evaluación de los programas a que se refiere el Código, en los términos de los ordenamientos jurídicos aplicables.
 
-Objetivos de la participación social
+> <small>(REFORMADO ACÁPITE, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Objetivos de la participación social y ciudadana
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 517.
 
-La participación social tendrá los objetivos siguientes:
+La participación social y ciudadana tendrá los objetivos siguientes:
 
 I. Fortalecer la comunicación entre el Ejecutivo del Estado y los ayuntamientos, con la población en forma permanente y eficaz;
 
-II. Colaborar en la formulación, actualización, ejecución y evaluación de los programas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Colaborar en la formulación, seguimiento, actualización, ejecución y evaluación de los programas;
 
 III. Vigilar el desarrollo y cumplimiento de los programas;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III bis. Contribuir en el financiamiento y operación de proyectos estratégicos urbanos, habitacionales, industriales, recreativos y turísticos, en los términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III bis 1. Participar en el desarrollo e instrumentación de políticas para la promoción del buen uso de los recursos naturales;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III bis 2. Contribuir para la ejecución de acciones y obras urbanas para el mejoramiento y conservación de zonas populares de los centros de población y de las comunidades rurales e indígenas;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III bis 3. Participar en la protección del patrimonio natural, cultural urbano y arquitectónico y en la preservación del ambiente de los centros de población, en los términos de los programas y las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III bis 4. Participar en la prevención, control y atención de riesgos y contingencias ambientales y urbanas en los centros de población;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+III bis 5. Opinar respecto a las prioridades y los proyectos sobre espacios públicos y dar seguimiento a la ejecución de obras, la evaluación de los programas y la operación y funcionamiento de dichos espacios, en los términos de las disposiciones aplicables;
 
 IV. Denunciar ante las autoridades competentes, los hechos, actos u omisiones que contravengan el Código y los programas; y
 
 V. Solicitar la adopción de las medidas de seguridad previstas por el Código.
 
-Competencia en materia de participación social
+> <small>(REFORMADO ACÁPITE, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Competencia en materia de participación social y ciudadana
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 518.
 
-El Instituto de Planeación será el órgano de promoción de la participación social y receptor de las opiniones y propuestas de los habitantes, en materia de ordenamiento sustentable del territorio a nivel estatal.
+El Instituto de Planeación será el órgano de promoción de la participación social y ciudadana, y receptor de las opiniones y propuestas de los habitantes, en materia de ordenamiento sustentable del territorio a nivel estatal.
 
 En cada uno de los municipios habrá un Consejo de Planeación del Desarrollo Municipal en los términos de la Ley Orgánica Municipal para el Estado de Guanajuato, que será la instancia de coordinación, análisis, evaluación y planeación entre el Ayuntamiento y los sectores público, social y privado.
 
@@ -6559,29 +7815,121 @@ Los habitantes que deseen participar en los procesos de planeación relativos al
 
 Consulta sobre el ordenamiento y administración sustentable del territorio
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 520.
 
-La Secretaría, el Instituto de Ecología, la Comisión Estatal del Agua, el Instituto de Planeación, la Comisión de Vivienda y las autoridades municipales, podrán solicitar la opinión, asesoría, análisis y consulta de instituciones y organizaciones académicas, profesionales y de investigación en las diversas materias que inciden en el ordenamiento y administración sustentable del territorio.
+La Secretaría, el Instituto de Ecología, la Comisión Estatal del Agua de Guanajuato, el Instituto de Planeación, la Comisión de Vivienda, la Procuraduría y las autoridades municipales, podrán solicitar la opinión, asesoría, análisis y consulta de instituciones y organizaciones académicas, profesionales y de investigación, en las diversas materias que inciden en el ordenamiento y administración sustentable del territorio.
 
-### Capítulo II. Consejos consultivos
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+### Capítulo I Bis. Consejos consultivos
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Segunda. Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Objeto y atribuciones del Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano
+
+Artículo 520 ter. El Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano es el órgano auxiliar de la participación social y ciudadana, de consulta, opinión y deliberación, que tendrá las siguientes atribuciones:
+
+I. Emitir opiniones y formular propuestas sobre la aplicación y orientación de las políticas de ordenamiento ecológico territorial, desarrollo urbano y desarrollo metropolitano, así como sobre la planeación regional que elabore el Estado;
+
+II. Impulsar la participación ciudadana y de las organizaciones sociales en el seguimiento, operación y evaluación de las políticas a que se refiere la fracción anterior;
+
+III. Apoyar a las autoridades en la promoción, difusión y cumplimiento de los programas de la materia;
+
+IV. Proponer a las distintas autoridades de los tres órdenes de gobierno, los temas que por su importancia ameriten ser sometidos a consulta pública;
+
+V. Proponer a las autoridades de los tres órdenes de gobierno las políticas, programas, estudios y acciones específicas en materia de ordenamiento ecológico territorial y desarrollo urbano;
+
+VI. Evaluar periódicamente los resultados de las estrategias, políticas, programas, proyectos estratégicos, estudios y acciones específicas en la materia;
+
+VII. Proponer y propiciar la colaboración de organismos públicos y privados, nacionales o extranjeros, en el ordenamiento ecológico territorial, desarrollo urbano y desarrollo metropolitano;
+
+VIII. Proponer a las autoridades competentes la realización de estudios e investigaciones en la materia;
+
+IX. Recomendar a las autoridades competentes la realización de auditorías a programas prioritarios cuando existan causas que lo ameriten;
+
+X. Promover la celebración de convenios con dependencias o entidades de la administración pública federal o estatal, así como con organizaciones del sector privado, para la instrumentación de los programas relacionados con la materia;
+
+XI. Informar a la opinión pública sobre los aspectos de interés general relativos a las políticas de ordenamiento ecológico territorial, desarrollo urbano y desarrollo metropolitano;
+
+XII. Integrar las comisiones y grupos de trabajo que sean necesarias para el ejercicio de sus funciones;
+
+XIII. Proponer al Titular del Ejecutivo su reglamento interno y las reformas al mismo; y
+
+XIV. Las demás que sean necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Tercera. Consejos municipales de desarrollo urbano y vivienda
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Constitución de consejos municipales de desarrollo urbano y vivienda
+
+Artículo 520 quater. Los ayuntamientos podrán constituir consejos municipales de desarrollo urbano y vivienda los cuales contarán, en lo conducente, con las mismas atribuciones que las previstas para el Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Cuarta. Disposiciones comunes
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Integración de los consejos
+
+Artículo 520 quinquies. Para garantizar que los consejos estatal y municipales sean representativos conforme al sistema de planeación democrática, en su reglamento interno se establecerá el número de miembros, con perspectiva de género, y su integración con representantes del sector social y gubernamental de los órdenes de gobierno correspondientes, colegios de profesionistas, instituciones académicas, órganos empresariales del sector y expertos, entre otros; quienes participarán e interactuarán en la formulación, aplicación, evaluación y vigilancia de las políticas de ordenamiento ecológico territorial, desarrollo urbano y desarrollo metropolitano.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Deber de información
+
+Artículo 520 quinquies 1. En todo momento será responsabilidad del Instituto de Planeación y de los ayuntamientos, proveer de información oportuna y veraz a los consejos estatal y municipales para el ejercicio de sus funciones. Todas las opiniones y recomendaciones de los consejos serán públicas y deberán estar disponibles en medios electrónicos de comunicación.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Participación honorífica
+
+Artículo 520 quinquies 2. Los miembros de los consejos estatal y municipales actuarán a título honorífico, por lo que no podrán cobrar o recibir retribución o emolumento alguno por su función, y contarán con el apoyo técnico necesario para realizar su labor.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Primera. Consejo Estatal Hidráulico
 
 Consejo Estatal Hidráulico
 
-### Capítulo III. Concertación con los sectores social y privado
+REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)
 
-Objeto de los acuerdos y convenios que se celebren con los sectores social y privado
+### Capítulo II. Órganos auxiliares
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Segunda. Consejo Estatal de Vivienda
+
+Consejo Estatal de Vivienda
 
 ###### Artículo 521.
 
-El Ejecutivo del Estado promoverá la constitución del Consejo Estatal Hidráulico, como un organismo de concertación y coordinación entre las instituciones de asesoría y consulta técnica que existan en el Estado.
+El Ejecutivo del Estado promoverá la constitución del Consejo Estatal Hidráulico, como un organismo de concertación y coordinación entre las instituciones de asesoría y consulta técnica que existan en el Estado, para contribuir al mejoramiento de la gestión del agua.
 
-En la integración del Consejo Estatal Hidráulico se invitará a participar a los Consejos Técnicos del Agua.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+En la integración del Consejo Estatal Hidráulico se invitará a participar a los Consejos Técnicos del Agua, con el fin de desarrollar conjuntamente con la autoridad, alternativas para el cuidado y buen uso del agua, así como para el equilibrio de los acuíferos de la entidad.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Los Consejos Técnicos del Agua se conforman por los usuarios del agua, en los que participan personas físicas o morales que ostenten un título de concesión o asignación expedido por la autoridad federal.
 
 Estructura y funcionamiento del Consejo Estatal Hidráulico
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 522.
 
-La estructura y funcionamiento del Consejo Estatal Hidráulico y de las instituciones de asesoría y consulta técnica, se regularán por lo dispuesto en el Código y los reglamentos respectivos.
+La estructura y funcionamiento del Consejo Estatal Hidráulico y de los Consejos Técnicos del Agua, se regularán por lo dispuesto en el Código y los reglamentos respectivos.
 
 Integración del Consejo Estatal Hidráulico
 
@@ -6591,7 +7939,13 @@ El Consejo Estatal Hidráulico se integrará por:
 
 I. Un Presidente, que será el Titular de la Secretaría;
 
-II. Un Secretario Ejecutivo, que será el Director General de la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II. Un Secretario Ejecutivo, que será el Director General de la Comisión Estatal del Agua de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+II bis. Un representante de la Secretaría de Desarrollo Agroalimentario y Rural, designado por su Titular;
 
 III. Un representante del Instituto de Ecología, designado por su Titular;
 
@@ -6621,7 +7975,7 @@ Para los efectos del artículo anterior, el Ejecutivo del Estado y los ayuntamie
 
 Las instituciones de asesoría y consulta técnica podrán establecerse a nivel municipal, regional o estatal.
 
-Consejo Estatal de Vivienda
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 525.
 
@@ -6643,7 +7997,9 @@ II. Un Secretario Ejecutivo, que será el Director General de la Comisión de Vi
 
 III. Un representante del Instituto de Ecología, designado por su Titular;
 
-IV. Un representante de la Comisión Estatal del Agua, designado por su Titular;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Un representante de la Comisión Estatal del Agua de Guanajuato, designado por su Titular;
 
 V. Un representante del Instituto de Planeación, designado por su Titular;
 
@@ -6679,15 +8035,17 @@ V. Conocer la evaluación de la implementación de las políticas de vivienda y 
 
 VI. Emitir los lineamientos para su operación y funcionamiento.
 
-### Capítulo I. Disposiciones generales
+### Capítulo III. Concertación con los sectores social y privado
 
-Reglas aplicables
+Objeto de los acuerdos y convenios que se celebren con los sectores social y privado
 
 ###### Artículo 528.
 
 Los acuerdos y convenios que se celebren con los sectores social y privado a que se refiere el Código, tendrán por objeto:
 
-I. Financiar el ordenamiento sustentable del territorio, la construcción y mantenimiento de infraestructura pública y equipamiento urbano, la producción de vivienda sustentable, la protección al ambiente y al patrimonio cultural urbano y arquitectónico, así como los procesos de metropolización y desarrollo regional;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+I. Financiar el ordenamiento sustentable del territorio, la construcción y mantenimiento de infraestructura pública y equipamiento urbano, la producción de vivienda sustentable, la protección al ambiente y al patrimonio natural, cultural urbano y arquitectónico, así como los procesos de metropolización y desarrollo regional;
 
 II. Promover la creación de fondos e instrumentos para el ordenamiento y administración sustentable del territorio y la generación oportuna y competitiva de vivienda;
 
@@ -6696,6 +8054,10 @@ III. Ejecutar acciones y obras para la consolidación, mejoramiento y conservaci
 IV. Promover la seguridad jurídica en el ordenamiento y administración sustentable del territorio;
 
 V. Desarrollar, aplicar y evaluar tecnologías técnicas y procesos constructivos que reduzcan los costos de construcción y operación de la infraestructura pública, el equipamiento urbano, que eleven la calidad y la eficiencia energética de la misma y propicien la preservación y el cuidado del ambiente y los recursos naturales;
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V bis. Impulsar y fortalecer los observatorios ciudadanos;
 
 VI. Impulsar y desarrollar modelos educativos en materia de ordenamiento sustentable del territorio; y
 
@@ -6707,15 +8069,59 @@ Recursos para la ejecución de los acuerdos y convenios
 
 Para la ejecución de los acuerdos y convenios a que alude el artículo anterior, el Ejecutivo del Estado y los ayuntamientos, aportarán en los instrumentos jurídicos respectivos, reservas territoriales, recursos técnicos, financieros y humanos, para llevar a cabo acciones de ordenamiento y administración sustentable del territorio, así como los demás recursos que resulten necesarios para la ejecución del acuerdo o convenio, atendiendo a la naturaleza del mismo.
 
-### Capítulo II. Inspección y vigilancia
+ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE DICIEMBRE DE 2017)
 
-Actos de inspección y vigilancia
+### Capítulo IV. Observatorios ciudadanos
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Creación de observatorios ciudadanos
+
+Artículo 529 bis. El Estado y los municipios promoverán la creación y funcionamiento de observatorios ciudadanos, con la asociación o participación plural de la sociedad, de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y del gobierno, para el estudio, investigación, organización y difusión de información y conocimientos sobre los problemas socio-espaciales y los nuevos modelos de políticas urbanas, ambientales, regionales y de gestión pública.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Tarea de los observatorios ciudadanos
+
+Artículo 529 bis 1. Los observatorios ciudadanos tendrán a su cargo las tareas de analizar la evolución de los fenómenos socio-espaciales, en la escala, ámbito, sector o fenómeno que corresponda según sus objetivos; las políticas públicas en la materia, y la difusión sistemática y periódica, a través de la generación y aplicación de indicadores y sistemas de información geográfica de sus resultados e impactos para el monitoreo, seguimiento, evaluación y difusión de las actividades realizadas para el ordenamiento y administración sustentable del territorio.
+
+Los habitantes que deseen participar en los procesos de planeación relativos al ordenamiento sustentable del territorio, lo podrán hacer a través de la figura de observatorio ciudadano, sin perjuicio de los derechos que tengan y puedan ejercer individualmente, en los términos de la Ley de Planeación para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Funcionamiento de los observatorios ciudadanos
+
+Artículo 529 bis 2. Para apoyar el funcionamiento de los observatorios ciudadanos, las dependencias y entidades de la administración pública estatal y municipal deberán:
+
+I. Proporcionarles la información asequible sobre el proceso de administración sustentable del territorio, así como de los actos administrativos, permisos y autorizaciones que afecten al mismo;
+
+II. Promover, desarrollar y difundir investigaciones, estudios, diagnósticos y propuestas en la materia;
+
+III. Mejorar la recolección, manejo, análisis y uso de la información en la formulación de políticas en materia de ordenamiento ecológico territorial y desarrollo urbano;
+
+IV. Estimular procesos de consulta y deliberación para ayudar a identificar e integrar las necesidades de información;
+
+V. Asesorar en el manejo y aplicación de indicadores de información urbana;
+
+VI. Compartir información y conocimientos con todos los interesados en el desarrollo urbano y el ordenamiento del territorio;
+
+VII. Garantizar la interoperabilidad y la consulta pública remota de los sistemas de información; y
+
+VIII. Difundir indicadores de gestión territorial.
+
+En los convenios que se celebren con los observatorios ciudadanos, se preverán las disposiciones relativas al acceso a la información y la reserva o confidencialidad de la información que se les proporcione, para proteger derechos de propiedad intelectual o industrial.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+Políticas o programas para brindar información
+
+Artículo 529 bis 3. El Instituto de Planeación o la unidad administrativa municipal en materia de planeación, en colaboración con el Instituto de Acceso a la Información Pública para el Estado y la respectiva unidad administrativa municipal, generarán políticas o programas para brindar información en medios físicos y electrónicos de los polígonos en los que se otorguen autorizaciones, permisos y licencias urbanísticas. Deberán privilegiar la oportunidad de la información y el impacto esperado de dichas autorizaciones, permisos y licencias.
 
 ## TÍTULO NOVENO. INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
 
-### Capítulo III. Medidas de seguridad
+### Capítulo I. Disposiciones generales
 
-Medidas de seguridad
+Reglas aplicables
 
 ###### Artículo 530.
 
@@ -6743,9 +8149,9 @@ Suspensión de obras
 
 La unidad administrativa municipal, al conocer de la existencia o formación de un asentamiento humano que no cumpla con las disposiciones del Código, procederá a la suspensión de cualquier obra o venta de predios que se realicen ilícitamente, fijando en lugares públicos visibles, copias del acuerdo que disponga tal situación, el cual deberá estar fundado en las disposiciones del Código y publicado en un periódico de circulación en el municipio, como advertencia pública.
 
-### Capítulo IV. Infracciones
+### Capítulo II. Inspección y vigilancia
 
-Infracciones
+Actos de inspección y vigilancia
 
 ###### Artículo 534.
 
@@ -6787,7 +8193,9 @@ Facilidades para la realización de la visita de inspección
 
 La persona con quien se entienda la diligencia, estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos a inspección en los términos previstos en la orden escrita a que se refiere este Título, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento del Código y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial o de otro tipo que sean confidenciales conforme a la ley de la materia.
 
-La autoridad deberá mantener la información recibida en reserva, de conformidad con lo dispuesto en la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y en la Ley de Protección de Datos Personales para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+La autoridad deberá mantener la información recibida en reserva, de conformidad con lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato y en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Guanajuato.
 
 Auxilio de la fuerza pública
 
@@ -6821,9 +8229,9 @@ Configuración de delitos
 
 En los casos en que proceda, la autoridad competente hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados que pudieran configurar uno o más delitos.
 
-### Capítulo V. Sanciones administrativas
+### Capítulo III. Medidas de seguridad
 
-Procedimiento para la imposición de sanciones administrativas
+Medidas de seguridad
 
 ###### Artículo 544.
 
@@ -6849,7 +8257,9 @@ V. La peligrosa localización, instalación o funcionamiento de los almacenes ex
 
 VI. El daño grave de las áreas naturales protegidas y de las zonas de restauración;
 
-VII. El daño grave del patrimonio cultural urbano y arquitectónico o de las áreas de valor escénico;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. El daño grave del patrimonio natural, cultural urbano y arquitectónico o de las áreas de valor escénico;
 
 VIII. El riesgo inminente de contaminación del agua con repercusiones peligrosas para la población o para la estabilidad del ciclo hídrico; y
 
@@ -6889,9 +8299,9 @@ II. La demolición de las obras que se encuentren en oposición con las caracter
 
 III. La modificación de las obras para que sean acordes a las características arquitectónicas del área o centro de población.
 
-### Capítulo VI. Medios de defensa
+### Capítulo IV. Infracciones
 
-Medios de defensa
+Infracciones
 
 ###### Artículo 548.
 
@@ -6913,9 +8323,17 @@ I. El propietario o poseedor del o de los inmuebles involucrados;
 
 II. Cualquier persona que ejecute, ordene o favorezca las acciones u omisiones constitutivas de infracción;
 
-III. Cualquier persona que con su conducta contravenga las disposiciones del presente Código y su Reglamento y demás aplicables a las materias que en el mismo se regulan; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-IV. Los fedatarios o servidores públicos que intervengan o faciliten su comisión.
+III. Cualquier persona que con su conducta contravenga las disposiciones del presente Código y su reglamento y demás aplicables a las materias que en el mismo se regulan;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. Los fedatarios que intervengan o faciliten su comisión; y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Los servidores públicos que propicien por acción u omisión un acto o hecho que infrinja las disposiciones o principios establecidos en el presente Código o demás disposiciones aplicables a la materia.
 
 Conductas constitutivas de infracción
 
@@ -6935,7 +8353,9 @@ V. Ejecutar cualquier obra, instalación, actividad o proyecto en zonas, áreas,
 
 VI. Dañar la infraestructura pública, el equipamiento urbano, los parques urbanos, jardines públicos y áreas verdes o cualquier otro bien de propiedad pública, con motivo de la ejecución de cualquier obra, instalación, actividad o proyecto;
 
-VII. Dañar o alterar de cualquier manera, los bienes considerados como parte del patrimonio cultural urbano y arquitectónico o las áreas de valor escénico;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. Dañar o alterar de cualquier manera, los bienes considerados como parte del patrimonio natural, cultural urbano y arquitectónico o las áreas de valor escénico;
 
 VIII. Incumplir con las resoluciones de la autoridad administrativa que ordenen suspender, derribar, desarmar, demoler o retirar la obra o instalación, en el plazo señalado para tal efecto o, dejar de cumplir cualquier medida de seguridad ordenada por la autoridad competente en uso de las atribuciones que este Código le confiera;
 
@@ -6967,19 +8387,27 @@ III. Explotar, usar o aprovechar aguas de jurisdicción estatal en volúmenes ma
 
 IV. Ocupar zonas de jurisdicción o protección estatal y demás bienes públicos, sin contar con el permiso o la concesión correspondiente;
 
-V. Modificar en cualquier forma la infraestructura hidráulica autorizada para la explotación, uso o aprovechamiento del agua de jurisdicción estatal para su saneamiento y alejamiento, o bien su operación, sin permiso expedido por la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+V. Modificar en cualquier forma la infraestructura hidráulica autorizada para la explotación, uso o aprovechamiento del agua de jurisdicción estatal, para su saneamiento y alejamiento, o bien su operación, sin permiso expedido por la Comisión Estatal del Agua de Guanajuato;
 
 VI. Realizar obras, instalaciones y servicios hidráulicos que sean contrarias a lo estipulado en los reglamentos y demás normas o disposiciones que dicte la autoridad;
 
-VII. Omitir la instalación de los dispositivos necesarios para registrar o medir la cantidad y calidad de las aguas, o modificar las instalaciones y equipos para medir los volúmenes de agua utilizados, sin permiso de la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+VII. Omitir la instalación de los dispositivos necesarios para registrar o medir la cantidad y calidad de las aguas, o modificar las instalaciones y equipos para medir los volúmenes de agua utilizados, sin permiso de la Comisión Estatal del Agua de Guanajuato;
 
 VIII. Explotar, usar o aprovechar aguas de jurisdicción estatal sin el título respectivo;
 
-IX. Modificar o desviar cauces, vasos o corrientes, cuando sean bienes públicos de jurisdicción estatal sin permiso de la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IX. Modificar o desviar cauces, vasos o corrientes, cuando sean bienes públicos de jurisdicción estatal sin permiso de la Comisión Estatal del Agua de Guanajuato;
 
 X. Dañar o destruir una obra hidráulica de jurisdicción estatal;
 
-XI. Impedir u oponerse a las visitas, inspecciones y reconocimientos que realice la Comisión Estatal del Agua;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+XI. Impedir u oponerse a las visitas, inspecciones y reconocimientos que realice la Comisión Estatal del Agua de Guanajuato;
 
 XII. Abstenerse de proporcionar los datos e información que se requiera para verificar el cumplimiento del Código y de las obligaciones derivadas de los títulos de concesión, asignación o permiso;
 
@@ -7069,6 +8497,10 @@ III. Proporcionar los informes, datos o documentos a que se refieren las fraccio
 
 IV. Cooperar con los infractores en cualquier forma a la violación de las disposiciones contenidas en el Código, los programas, reglamentos o declaratorias a que se refiere este ordenamiento.
 
+### Capítulo V. Sanciones administrativas
+
+Procedimiento para la imposición de sanciones administrativas
+
 ###### Artículo 556.
 
 En la imposición de cualquier sanción administrativa, se observará lo siguiente:
@@ -7125,9 +8557,11 @@ II. Suspensión temporal de la inscripción como perito, de tres meses a dos añ
 
 Sanción de las infracciones
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 560.
 
-Las infracciones en que incurran los servidores públicos serán sancionadas conforme a lo estipulado en ·la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+Las faltas administrativas graves y no graves en que incurran los servidores públicos y las que correspondan a los particulares vinculados a faltas administrativas graves, serán sancionadas de conformidad con la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 Reglas para sancionar a los notarios públicos
 
@@ -7147,7 +8581,9 @@ II. Podrán imponerse al infractor, simultáneamente las medidas de seguridad y 
 
 III. Para su cumplimiento, las autoridades correspondientes podrán hacer uso de la fuerza pública; y
 
-IV. El plazo de prescripción para la imposición de sanciones, será de dos años y empezará a computarse desde el día en que se hubiera cometido la infracción o en que hayan cesado los efectos de la misma, cuando se trate de infracciones continuadas o de tracto sucesivo.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
+
+IV. El plazo de prescripción para la imposición de sanciones, será de tres años y empezará a computarse desde el día en que se hubiera cometido la infracción o en que hayan cesado los efectos de la misma, cuando se trate de infracciones continuadas o de tracto sucesivo.
 
 Medidas correctivas
 
@@ -7166,6 +8602,10 @@ Obligación de resarcir los daños
 Siempre que con motivo de una infracción al Código se genere un daño al patrimonio del Estado o del Municipio, el infractor tendrá la obligación de resarcirlo.
 
 En todo tiempo podrán asegurarse bienes del obligado a la reparación del daño, a fin de garantizar el pago; en todo caso, el aseguramiento se tramitará conforme a la legislación hacendaria aplicable.
+
+### Capítulo VI. Medios de defensa
+
+Medios de defensa
 
 ###### Artículo 565.
 
@@ -7302,3 +8742,67 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 233, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y SE ADICIONA UNA FRACCIÓN XIX BIS AL ARTÍCULO 24 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia del Decreto
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2018.
+
+Derogación tácita
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+Procedimientos en trámite
+
+Artículo Tercero. Los procedimientos regulados por las disposiciones que son reformadas o derogadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto en la legislación conforme a la cual se iniciaron.
+
+Actualización del programa estatal
+
+Artículo Cuarto. El Ejecutivo del Estado actualizará el Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial, en un plazo de seis meses posteriores a la actualización del Plan Estatal de Desarrollo.
+
+Actualización de los programas municipales
+
+Artículo Quinto. Los ayuntamientos deberán actualizar o, en su caso, expedir los Programas Municipales de Desarrollo Urbano y de Ordenamiento Ecológico Territorial en un plazo de seis meses, contados a partir de la actualización del Programa Estatal de Desarrollo Urbano y de Ordenamiento Ecológico Territorial.
+
+Actualización de los reglamentos municipales
+
+Artículo Sexto. Los ayuntamientos deberán actualizar o, en su caso, expedir los reglamentos municipales que deriven de las disposiciones del presente Decreto, en un plazo de un año contado a partir de la entrada en vigencia del mismo.
+
+Plazo para expedir el inventario de especies vegetales nativas
+
+Artículo Séptimo. El Ejecutivo del Estado expedirá el inventario de especies vegetales nativas en un plazo de un año, contado a partir de la entrada en vigencia del presente Decreto.
+
+Plazo para expedir la paleta vegetal
+
+Artículo Octavo. Los ayuntamientos expedirán la paleta vegetal, en un plazo de seis meses contados a partir de que se expida el inventario de especies vegetales nativas.
+
+Plazo para emitir las disposiciones para el funcionamiento de los observatorios ciudadanos
+
+Artículo Noveno. El Ejecutivo del Estado emitirá las disposiciones para la creación y apoyo del funcionamiento de los observatorios ciudadanos, a más tardar en un plazo de un año contado a partir de la entrada en vigencia del presente Decreto.
+
+Plazo para emitir el Reglamento Interno del Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano
+
+Artículo Décimo. El Ejecutivo del Estado expedirá el Reglamento Interno del Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano, a más tardar en un plazo de un año contado a partir de la entrada en vigencia del presente Decreto.
+
+Plazo para emitir el Reglamento de las instancias para la gestión de las zonas metropolitanas o conurbaciones
+
+Artículo Décimo Primero. El Ejecutivo del Estado expedirá el Reglamento que regule la integración, organización y funcionamiento de las comisiones de conurbación y metropolitana y del Consejo Consultivo de desarrollo metropolitano o de zonas conurbadas, a más tardar en un plazo de un año contado a partir de la entrada en vigencia del presente Decreto.
+
+Plazo para expedir los lineamientos técnicos para la evaluación y seguimiento del impacto urbano o regional de obras y proyectos
+
+Artículo Décimo Segundo. El Instituto de Planeación expedirá los lineamientos técnicos para la evaluación y seguimiento del impacto urbano o regional de obras y proyectos; así como para la presentación de los programas municipales de desarrollo urbano y de ordenamiento ecológico territorial para su dictamen y validación, en un plazo de nueve meses contado a partir de la entrada en vigencia del presente Decreto.
+
+Plazo para reformar el Reglamento de la Ley de Planeación para el Estado de Guanajuato
+
+Artículo Décimo Tercero. El Ejecutivo del Estado expedirá las reformas al Reglamento de la Ley de Planeación para el Estado de Guanajuato, en un plazo de nueve meses contado a partir de la entrada en vigencia del presente Decreto, a efecto de incorporar las disposiciones relativas al Subsistema Estatal de Información Geográfica, Medio Ambiente, Ordenamiento Territorial y Urbano.
+
+TRANSITORIO DEL DECRETO
+
+Inicio de vigencia del Decreto
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el 1 de enero de 2018.
