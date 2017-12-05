@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-petroleos-mexicanos-107535"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-04-28"
-last_updated: "2015-04-28"
+last_updated: "2017-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107535&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-04-20"
 
 ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Estatuto publicado en la Segunda y Tercera Sección del Diario Oficial de la Federación, el martes 28 de abril de 2015.
 
@@ -7206,3 +7206,31 @@ DÉCIMO PRIMERO. En tanto se cumple lo establecido en el Octavo Transitorio, Apa
 El presente Estatuto Orgánico de Petróleos Mexicanos, fue aprobado por el Consejo de Administración de Petróleos Mexicanos, con fundamento en el artículo 13 fracción XVI de la Ley de Petróleos Mexicanos, en sesión extraordinaria 888 celebrada el día 27 de marzo de 2015, mediante acuerdo número CA-015/2015.
 
 Ciudad de México, D.F., a 20 de abril de 2015.- El Director Jurídico de Petróleos Mexicanos, Marco Antonio de la Peña Sánchez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE PETRÓLEOS MEXICANOS”.]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de Petróleos Mexicanos, publicado en el Diario Oficial de la Federación el 28 de abril de 2015.
+
+TERCERO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos.
+
+CUARTO. Las áreas de Petróleos Mexicanos realizarán las acciones necesarias, con el propósito de dar continuidad a la operación y funcionamiento de Petróleos Mexicanos.
+
+Adicionalmente, deberán realizar los actos necesarios, para concluir la reorganización corporativa de Petróleos Mexicanos.
+
+QUINTO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente Estatuto, por cualquier órgano o área de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias, así como los entonces organismos subsidiarios Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán siendo aplicables en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, al Estatuto Orgánico de Petróleos Mexicanos y demás disposiciones aplicables, hasta en tanto se determine su modificación o abrogación.
+
+SEXTO. Los contratos, convenios y actos jurídicos, así como los procedimientos de contratación celebrados o en trámite a la entrada en vigor de este Estatuto, se respetarán en los términos pactados, salvo que se convenga lo contrario, de conformidad con lo previsto en el Transitorio Décimo Tercero de la Ley de Petróleos Mexicanos.
+
+SÉPTIMO. Los poderes, mandatos y, en general, las representaciones otorgadas y las facultades conferidas por Petróleos Mexicanos con anterioridad a la entrada en vigor de este Estatuto, subsistirán en sus términos en tanto no sean modificados o revocados expresamente. De ser necesario para el cumplimiento de las funciones contenidas en el presente Estatuto, las áreas correspondientes de Petróleos Mexicanos, deberán realizar las gestiones necesarias ante la Dirección Jurídica para el otorgamiento de los poderes conducentes.
+
+OCTAVO. Los acuerdos de delegación de funciones y de asignación de responsabilidades, emitidos por las áreas de Petróleos Mexicanos, relacionados con la modificación a la estructura autorizada por el Consejo de Administración de Petróleos Mexicanos, dejarán de tener efectos una vez que entre en vigor el presente Estatuto.
+
+NOVENO. Las referencias que se hagan en otros instrumentos a las áreas cuya denominación se modifica, se entenderán hechas a las áreas a las que se asignaron las funciones, conforme al presente Estatuto.
+
+DÉCIMO. Los directores corporativos y titulares de las áreas de Petróleos Mexicanos, en su caso, deberán instruir las acciones, trámites, actos y demás aspectos necesarios para dar continuidad a la operación, que eviten la interrupción de las actividades, para cumplir con los compromisos establecidos.
