@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-procuraduria-general-de-justicia-del-91902"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-12-21"
-last_updated: "2016-05-11"
+last_updated: "2017-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO TERCERO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 6 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO AL DÍA SIGUIENTE A AQUEL EN QUE RINDA LA PROTESTA DE LEY ANTE EL CONGRESO DEL ESTADO EL FISCAL GENERAL DE JUSTICIA DEL ESTADO.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de diciembre de 2012.
 
@@ -732,3 +734,89 @@ P.O. 11 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 111. SE REFORMA POR MODIFICACIÓN DEL PÁRRAFO CUARTO Y ADICIÓN DE UN PÁRRAFO QUINTO EN EL ARTÍCULO 21 Y POR MODIFICACIÓN DEL PRIMER PÁRRAFO DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 314 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo los Capítulos I, II, III, IV, V, VI, VII, VIII, X, XI, XII, XIII y XIV de la presente Ley, que entrarán en vigor al día siguiente a aquel en que rinda la protesta de ley ante el Congreso del Estado el Fiscal General de Justicia del Estado.
+
+Las atribuciones y funciones conferidas, así como las menciones hechas en otros ordenamientos jurídicos o instrumentos a la Procuraduría General de Justicia del Estado, al Procurador General de Justicia del Estado, a la Subprocuraduría Especializada en Combate a la Corrupción de la Procuraduría General de Justicia del Estado o al Subprocurador Especializado en Combate a la Corrupción de la Procuraduría General de Justicia del Estado, se entenderán que les corresponden expresamente a la Fiscalía General de Justicia del Estado de Nuevo León, al Fiscal General, a la Fiscalía Especializada en Combate a la Corrupción o al Fiscal Especializado en Combate a la Corrupción, respectivamente. Asimismo, todos los convenios y actos jurídicos celebrados se entenderán como vigentes y obligarán en sus términos a la Fiscalía General, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Todas las disposiciones que se opongan a lo establecido en el presente Decreto se entenderán derogadas.
+
+Segundo.- Dentro de un plazo máximo de sesenta días posteriores a la instalación del Comité de Selección del Sistema Estatal Anticorrupción, el Congreso del Estado emitirá las convocatorias para designar al Fiscal General de Justicia del Estado de Nuevo León, al Fiscal Especializado en Combate a la Corrupción y al Fiscal Especializado en Delitos Electorales.
+
+En un plazo máximo de sesenta días posteriores a la emisión de las convocatorias, el Fiscal General de Justicia del Estado, el Fiscal Especializado en Combate a la Corrupción y el Fiscal Especializado en Delitos Electorales, deberán ser nombrados conforme a las disposiciones previstas en el artículo 109 de la Constitución del Estado de Nuevo León y el artículo transitorio SEXTO del Decreto 243, publicado en el Periódico Oficial del Estado en fecha 14 de abril de 2017.
+
+Tercero.- El Procurador General de Justicia del Estado y el Titular de la Subprocuraduría Especializada en Combate a la Corrupción de la Procuraduría General de Justicia del Estado, permanecerán en sus cargos en términos del Artículo Séptimo Transitorio del Decreto 243 publicado en día 14 de abril de 2017 en el Periódico Oficial del Estado de Nuevo León, hasta en tanto rindan la protesta de ley ante el Congreso del Estado el Fiscal General de Justicia del Estado y el Fiscal Especializado en Combate a la Corrupción.
+
+Cuarto.- El Congreso del Estado contemplará en el Presupuesto de Egresos para el ejercicio fiscal correspondiente, la asignación y garantía de la suficiencia presupuestal para la instalación de la Fiscalía General de Justicia del Estado de Nuevo León, que en ningún caso podrá ser inferior, en términos reales, al presupuesto asignado a la Procuraduría General de Justicia del Estado de Nuevo León.
+
+La asignación presupuestal para la Fiscalía General deberá incluir los recursos para la implementación del Plan Estratégico de Transición, previsto en el Artículo Quinto Transitorio del presente Decreto.
+
+A la entrada en vigor del presente Decreto, los bienes muebles, inmuebles y demás recursos materiales, financieros y presupuestales, propiedad del Gobierno del Estado de Nuevo León y asignados para su uso a la Procuraduría General de Justicia del Estado pasarán a formar parte del patrimonio de la Fiscalía General de Justicia del Estado de Nuevo León. En lo relativo a bienes en posesión o servicios contratados para los fines de la Procuraduría General de Justicia del Estado de Nuevo León, obtenidos por arrendamiento, comodato o cualquier otro contrato mediante el cual se haya transmitido la posesión o propalado dichos servicios, continuarán siendo utilizados por la Fiscalía General de Justicia del Estado de Nuevo León.
+
+El Gobierno del Estado por conducto de la Secretaria de Finanzas y Tesorería General del Estado, en un plazo no mayor de 60-sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá efectuar las gestiones y trámites correspondientes, para dar cumplimiento cabal al presente artículo.
+
+Quinto.- A partir de su nombramiento, el Fiscal General contará con un plazo de 60 días para la presentación de un Plan Estratégico de Transición, el cual contendrá como mínimo los siguientes puntos:
+
+a) Programa para el diseño del nuevo modelo de investigación;
+
+b) Programa para el diseño de la nueva estructura orgánica;
+
+c) Programa para el traspaso del personal en activo;
+
+d) Programa de regularización del personal en activo;
+
+e) Programa para el reclutamiento y selección de personal nuevo; y
+
+f) Programa para el traspaso de los recursos presupuestales.
+
+A partir de la presentación del Plan Estratégico de Transición, el Fiscal General contará con un plazo de hasta un año para su implementación, así como para la expedición del Reglamento Interior de la Fiscalía General.
+
+Durante el plazo referido en el párrafo anterior, se llevarán a cabo todos los ajustes administrativos para la operación de la Fiscalía General de Justicia del Estado de Nuevo León, como un órgano constitucional autónomo.
+
+Sexto.- En tanto se expide el Reglamento Interior de la Fiscalía General, el Fiscal General deberá expedir, dentro de un plazo máximo de 30 días contados a partir de la entrada en vigor de la presente Ley, un lineamiento provisional para la organización interna. Durante este plazo permanecerá vigente la estructura orgánica de la Procuraduría General de Justicia del Estado, con las mismas facultades y obligaciones previstas en el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado, en lo que no se oponga a la presente Ley.
+
+En tanto no se emita la normatividad indispensable para el correcto funcionamiento de la Fiscalía General, se seguirán aplicando las disposiciones vigentes legales y administrativas de la Procuraduría General de Justicia del Estado al momento de la entrada en vigor de la presente Ley, en lo que no se opongan a la misma
+
+Séptimo.- El personal adscrito a la Procuraduría General de Justicia del Estado que pase a formar parte de la Fiscalía General de Justicia del Estado de Nuevo León, de la Fiscalía Especializada en Combate a la Corrupción o de la Fiscalía Especializada en Delitos Electorales, conservará sus derechos que haya adquirido en virtud de su relación laboral con el Gobierno del Estado de Nuevo León, con independencia de la denominación que corresponda a sus actividades.
+
+El personal que no se sujete a los procesos de evaluación será separado del servicio público sin responsabilidad para la Fiscalía General de Justicia del Estado de Nuevo León, conforme a lo dispuesto por la fracción XIII del apartado B del artículo 123 de la Constitución Federal.
+
+El personal que a la fecha de entrada en vigor del presente Decreto tenga nombramiento, continuará en la función que desempeña y será sujeto de la evaluación que la Ley Orgánica del presente Decreto establezca para tal efecto. Al personal que obtenga resultados suficientes en dicha evaluación quedará incorporado al Servicio Profesional de Carrera de la Fiscalía General de Justicia del Estado de Nuevo León en los términos que disponga esta Ley.
+
+Será separado del servicio público sin responsabilidad para la Fiscalía General de Justicia del Estado de Nuevo León, el personal que:
+
+I. Se niegue a participar en los procesos de evaluación;
+
+II. No se incorpore al programa de regularización correspondiente cuando obtenga resultados insuficientes en el primer o segundo proceso de evaluación, u
+
+III. Obtenga resultados insuficientes en el tercer proceso de evaluación.
+
+El personal que no alcance un resultado suficiente en la tercera oportunidad de examen de ingreso, podrá ser separado de su cargo o ser reinscrito en tareas correspondientes a sus habilidades o bien, se le ofrecerá incorporarse a los programas de retiro que se autoricen.
+
+Octavo.- Dentro del plazo de 30 días siguientes a su nombramiento, el Fiscal General deberá proponer al Congreso al titular del Órgano Interno de Control de la Fiscalía General. El Congreso deberá ratificar o rechazar el nombramiento dentro de los 30 días siguientes a la propuesta, según lo dispuesto en la fracción LV del artículo 63 de la Constitución del Estado de Nuevo León.
+
+Noveno.- Todos los asuntos relacionados con el objeto de la Procuraduría General de Justicia del Estado que se encuentre en trámite, las controversias y juicios en los que la misma sea parte, pasarán a la competencia de la Fiscalía General de Justicia de Estado de Nuevo León; los de la Subprocuraduría Especializada en Combate a la Corrupción de la Procuraduría General de Justicia del Estado, pasarán a la Fiscalía Especializada en Combate a la Corrupción, quienes deberán desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables, con excepción a lo dispuesto en los siguientes párrafos.
+
+Todos los asuntos de la Subprocuraduría Especializada en Combate que, a la fecha de aprobación del presente Decreto, se encuentren vinculados a proceso, en etapa intermedia, en etapa de juicio oral o en segunda instancia, quedarán a cargo de una Unidad de Transición de Combate a la Corrupción.
+
+Dicha Unidad de Transición de Combate a la Corrupción estará a cargo del funcionario que a la toma de protesta de ley del Fiscal General de Justicia del Estado se encuentre como Titular de la Subprocuraduría Especializada en Combate a la Corrupción, la cual será dotada de los recursos materiales, humanos y financieros necesarios para el cumplimiento de su encargo conforme al Plan Estratégico de Transición a que se refiere el Artículo Transitorio Quinto de este Decreto. En caso de ausencia definitiva, remoción, destitución o renuncia de dicho funcionario, la Unidad quedará a cargo del servidor público que aprueben por mayoría calificada los integrantes del Congreso del Estado de Nuevo León a propuesta del titular del Ejecutivo del Estado.
+
+En el supuesto de que el Congreso del Estado deseche la propuesta del titular del Poder Ejecutivo del Estado, este deberá hacer una nueva propuesta, que será sometida a la aprobación de la mayoría calificada de los integrantes del Congreso del Estado. De no alcanzarse dicha votación, el titular de dicha Unidad será designado por el Titular del Poder Ejecutivo del Estado, sin que la designación pueda recaer en alguna de las dos personas previamente propuestas.
+
+La Unidad de Transición de Combate a la Corrupción tendrá una duración de un año a partir de su formal instalación. Al concluir dicho plazo, sus resultados serán evaluados por el Fiscal General, quien deberá emitir un dictamen sobre sus resultados y la conveniencia de su subsistencia y, en su caso, los plazos de esta; dicho dictámen será remitido al Congreso para su conocimiento. De estimarse innecesaria o injustificada la existencia de dicha Unidad, se declarará disuelta y los asuntos de su competencia serán turnados al Fiscal Especializado en Combate a la Corrupción, para que designe al funcionario competente para su continuación hasta su conclusión.
+
+Décimo.- Los procedimientos de responsabilidad administrativa y de separación del cargo iniciados con antelación a la entrada en vigor de la presente Ley, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
+
+Décimo Primero.- Las funciones, facultades, derechos y obligaciones establecidos a cargo de la Procuraduría General de Justicia del Estado de Nuevo León o de su Titular en cualquier ordenamiento legal, así como en Contratos, Convenios o Acuerdos celebrados con Secretarías, Dependencias o Entidades de la Administración Pública Federal, Estatal y de los Municipios, así como con cualquier persona física o moral, pública o privada, serán asumidos por la Fiscalía General de Justicia del Estado de Nuevo León o el Fiscal General de Justicia del Estado, de acuerdo con las atribuciones que mediante la presente Ley se les otorga.
+
+Décimo Segundo.- El Ejecutivo del Estado, a través de la Secretaria de Finanzas y Tesorería General del Estado, deberá destinar a la Fiscalía General de Justicia del estado, a la Fiscalía Especializada en Combate a la Corrupción y a la Fiscalía Especializada en Delitos Electorales, durante el presente ejercicio fiscal, los recursos presupuestales aprobados en la Ley de Egresos del estado de Nuevo León para el ejercicio 2018, para la Procuraduría General de Justicia del Estado y la Subprocuraduría Especializada en Combate a la Corrupción de la Procuraduría General de Justicia del Estado.
+
+Décimo Tercero.- Al día siguiente a aquel en que rinda la protesta de ley ante el Congreso del Estado el Fiscal General de Justicia del Estado, se abroga la "Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León" publicada en el Periódico Oficial del Estado No. 159, mediante el Decreto 005, en fecha 21 de diciembre de 2012, con sus reformas y adiciones.
+
+Décimo Cuarto.- Se derogan todas las disposiciones normativas que se opongan a la presente Ley.
+
+Décimo Quinto.- Mientras existan asuntos que deban tramitarse bajo las reglas del Código de Procedimientos Penales del Estado de Nuevo León, publicado en el Periódico Oficial del Estado en fecha 28 de marzo de 1990 y sus reformas, la Fiscalía General de Justicia del Estado de Nuevo León podrá contar con Secretarios, Delegados y Escribientes, con las facultades y atribuciones previstas en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León, publicada en el Periódico Oficial del Estado el 30 de julio de 2004 y sus reformas.
