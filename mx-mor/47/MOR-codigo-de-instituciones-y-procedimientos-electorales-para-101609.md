@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2017-05-31"
+last_updated: "2017-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MOR"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
@@ -37,7 +35,9 @@ GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y 
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:…
+LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
+
+[...]
 
 Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir el siguiente:
 
@@ -2797,9 +2797,87 @@ En tratándose de vacantes superiores a los tres meses o definitivas, se procede
 
 La administración de los recursos humanos, materiales y financieros asignados al Tribunal Electoral corresponderá a su Presidente.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 153.
 
-La fiscalización de los recursos del Tribunal Electoral estará a cargo del órgano superior de fiscalización del Congreso.
+La fiscalización de los recursos del Tribunal Electoral estará a cargo del órgano superior de fiscalización del Congreso y del órgano interno de control del propio Tribunal, que gozará de autonomía técnica y de gestión.
+
+El titular del órgano interno de control será designado por el Congreso del Estado con el voto de las dos terceras partes de los miembros de la legislatura, previa convocatoria pública que éste emita.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 153 Bis.
+
+Para ser titular del órgano interno de control del Tribunal Electoral, deberá cumplir con los siguientes requisitos:
+
+I. Poseer título y cédula profesional de contador público o licenciado en derecho expedido por la institución facultada para ello;
+
+II. Acreditar experiencia mínima de cinco años en las materias de fiscalización, transparencia o rendición de cuentas, y
+
+III. No haber sido Consejero o Magistrado Electoral en los cinco años inmediatos anteriores a la fecha de su designación.
+
+El órgano Interno de Control tendrá el nivel de la Secretaría General del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 153 Ter.
+
+Al Titular del Órgano Interno de Control le corresponde el despacho de los asuntos siguientes:
+
+I. Elaborar y remitir a la Presidencia del Tribunal Electoral su programa anual de actividades, para ser incluido en el programa operativo anual del mismo;
+
+II. Elaborar el proyecto de presupuesto del órgano interno;
+
+III. Ejecutar su programa anual de actividades y supervisar su cumplimiento;
+
+IV. Elaborar el programa operativo de las auditorías internas, en el que se establecerán los objetivos en cada caso, así como vigilar su cumplimiento;
+
+V. Dar seguimiento a las recomendaciones que, como resultado de las auditorías internas, se hayan formulado a los órganos del Tribunal Electoral;
+
+VI. Inspeccionar el correcto ejercicio del gasto y la aplicación estricta de las partidas presupuestales que lo integren, así como la administración del patrimonio del Tribunal Electoral; y opinar sobre el ejercicio y los métodos de control utilizados en el mismo, en apego a la normativa aplicable;
+
+VII. Participar en los actos de entrega-recepción se (sic) los servidores públicos, de mandos medios y superiores del Tribunal Electoral, con motivo de su separación del cargo, en términos de la normativa aplicable;
+
+VIII. Participar en los procedimientos del comité del Tribunal Electoral en materia de adquisiciones, arrendamientos, servicios, enajenaciones y obra pública, vigilando que se cumplan los ordenamientos aplicables;
+
+IX. Aplicar las acciones administrativas y legales que se deriven de los resultados de las auditorias;
+
+X. Formular los anteproyectos de los manuales de organización y procedimientos del órgano interno de control, para lo que considerará las variables de los programas operativos anuales del Tribunal Electoral, y
+
+XI. Las demás que se deriven del presente Código y del Reglamento Interno del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 153 Quáter.
+
+El titular del órgano interno de control durará seis años en el cargo y sólo podrá ser designado para un periodo más; ejercerá sus funciones con autonomía técnica y de gestión y mantendrá la coordinación técnica necesaria con la Entidad Superior de Auditoría y Fiscalización del Estado.
+
+El titular del Órgano Interno de Control del Instituto podrá ser removido por el Congreso del Estado, por incurrir en las causas siguientes:
+
+I. Utilizar o revelar indebidamente, en beneficio propio o de terceros, la documentación e información confidencial en los términos del presente Código y demás disposiciones legales aplicables;
+
+II. Dejar, sin causa justificada de promover ante las instancias internas correspondientes las acciones administrativas y legales que se deriven de los resultados de las auditorias;
+
+III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que, por razón de su cargo, tenga a su cuidado o custodia o que exista en el Instituto, con motivo del ejercicio de sus atribuciones, y
+
+IV. Conducirse con parcialidad en el ejercicio de sus funciones.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2017)</small>
+
+Artículo 153 Quintus. El Tribunal Electoral aprobará e integrará dentro de su presupuesto, el correspondiente al órgano interno de control.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2017)</small>
+
+Artículo 153 Sextus. El titular y el personal adscrito al órgano interno de control, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución y este Código confieran a los funcionarios del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2017)</small>
+
+Artículo 153 Septimus. El órgano interno de control dictará las providencias oportunas para la corrección de las irregularidades administrativas que se detecten y si del contenido de ésta se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, presentará la denuncia respectiva ante la autoridad correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2017)</small>
+
+Artículo 153 Octavus. El órgano interno de control podrá recibir quejas y denuncias en contra de los funcionarios y el personal del Tribunal Electoral, en cuyo caso las canalizará al Pleno del Tribunal, o en su caso, a la Entidad Superior de Fiscalización.
 
 ### CAPITULO V
 
@@ -5948,3 +6026,17 @@ SEXTA. Por única ocasión, los plazos a que hace referencia el artículo 168 de
 Los procesos de selección interna de candidatos a los cargos de Gobernador, Diputados al Congreso y miembros de los ayuntamientos, se llevarán a cabo a partir del 15 de enero del año de la elección, y no podrán extenderse más allá del día 15 de marzo del año de la elección.
 
 SÉPTIMA. Se derogan las disposiciones de menor rango que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS SEIS POR EL QUE SE REFORMA EL ARTÍCULO 153 Y SE ADICIONAN LOS ARTÍCULOS 153 BIS, 153 TER, 153 QUÁTER, 153 QUINTUS, 153 SEXTUS, 153 SÉPTIMUS Y 153 OCTAVUS DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE MORELOS".]
+
+PRIMERA. Aprobado el presente decreto, remítase al Titular del Poder Ejecutivo para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Por única ocasión, la propuesta para ocupar la Titularidad del órgano interno de control del Tribunal Electoral del Estado de Morelos, se realizará por parte de la Junta Política y de Gobierno del Congreso del Estado de Morelos, previa aprobación de la mayoría simple de sus integrantes, la cual deberá ser sometida ante el pleno del Congreso para los efectos correspondientes, a más tardar en el mes de septiembre del año 2017, sin que medie la convocatoria pública a la que hace referencia el párrafo segundo del artículo 153 del Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
+
+CUARTA. El Tribunal Electoral deberá prever en su proyecto de presupuesto de egresos para el ejercicio fiscal del año 2018, los recursos necesarios que permitan el adecuado funcionamiento del órgano interno de control.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
