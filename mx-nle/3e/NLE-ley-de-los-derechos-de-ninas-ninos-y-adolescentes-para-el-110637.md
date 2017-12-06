@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2017-06-19"
+last_updated: "2017-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -1633,41 +1633,45 @@ La concurrencia de obligaciones que deberán observar las autoridades estatales,
 
 Corresponderá al Ejecutivo Estatal:
 
-I. Instrumentar y articular sus políticas públicas tomando en consideración el Programa Nacional para la adecuada garantía y protección de los derechos de niñas, niños y adolescentes;
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2017)</small>
 
-II. Elaborar el Programa Estatal y participar en el diseño del Programa Nacional;
+I. Cumplir en todas sus decisiones y actuaciones con el principio del interés superior de la niñez, garantizando de manera plena el derecho a la alimentación nutritiva, suficiente y de calidad de las niñas niños y adolescentes en el Estado, mediante la implementación de políticas públicas, programas y acciones que aseguren su desarrollo integral;
 
-III. Fortalecer las existentes e impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes;
+II. Instrumentar y articular sus políticas públicas tomando en consideración el Programa Nacional para la adecuada garantía y protección de los derechos de niñas, niños y adolescentes;
 
-IV. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes;
+III. Elaborar el Programa Estatal y participar en el diseño del Programa Nacional;
 
-V. Impulsar programas locales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad;
+IV. Fortalecer las existentes e impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes;
 
-VI. Difundir por todos los medios de comunicación el contenido de esta Ley;
+V. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes;
 
-VII. Elaborar y aplicar los programas locales a que se refiere esta Ley, así como rendir ante el Sistema Nacional de Protección Integral un informe anual sobre los avances;
+VI. Impulsar programas locales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad;
 
-VIII. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
+VII. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
-IX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales;
+VIII. Elaborar y aplicar los programas locales a que se refiere esta Ley, así como rendir ante el Sistema Nacional de Protección Integral un informe anual sobre los avances;
 
-X. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia;
+IX. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
 
-XI. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el sistema nacional de información, la información necesaria para la elaboración de éstas;
+X. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales;
 
-XII. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
+XI. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia;
 
-XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
+XII. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el sistema nacional de información, la información necesaria para la elaboración de éstas;
 
-XIV. Promover la creación de centros de (sic) alternativos de cuidado, asesoría y formación integral;
+XIII. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
 
-XV. Tomar todas las medidas administrativas, legislativas, judiciales, y de cualquier otra índole que sean necesarias y apropiadas para asegurar que todas las niñas, niños y adolescentes disfruten plena y efectivamente de sus derechos y garantías;
+XIV. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
 
-XVI. Implementar políticas públicas, programas y asistencia apropiada para que la familia pueda asumir adecuadamente esta responsabilidad, y para que los padres y las madres asuman, en igualdad de condiciones, sus responsabilidades y obligaciones;
+XV. Promover la creación de centros de (sic) alternativos de cuidado, asesoría y formación integral;
 
-XVII. Implementar políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia; y
+XVI. Tomar todas las medidas administrativas, legislativas, judiciales, y de cualquier otra índole que sean necesarias y apropiadas para asegurar que todas las niñas, niños y adolescentes disfruten plena y efectivamente de sus derechos y garantías;
 
-XVIII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF.
+XVII. Implementar políticas públicas, programas y asistencia apropiada para que la familia pueda asumir adecuadamente esta responsabilidad, y para que los padres y las madres asuman, en igualdad de condiciones, sus responsabilidades y obligaciones;
+
+XVIII. Implementar políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia; y
+
+XIX. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF.
 
 ###### Artículo 136.
 
@@ -2652,3 +2656,9 @@ Tercero. Los Municipios del Estado tendrán un plazo de 60 días a partir de la 
 Cuarto. En un plazo a 30 días a partir de la entrada en vigor de este Decreto se conformaran los órganos establecidos en el mismo y asumirá plenamente sus atribuciones.
 
 Quinto. Se Derogan todas las disposiciones legales que se opongan a las contenidas en el presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 310. SE REFORMA POR ADICIÓN DE UNA FRACCIÓN I RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 135 DE LA LEY DE LOS DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
