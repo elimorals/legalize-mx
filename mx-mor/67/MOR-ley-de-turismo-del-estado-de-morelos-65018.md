@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2017-04-26"
+last_updated: "2017-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -407,35 +407,31 @@ El Consejo Estatal de Turismo es un órgano colegiado en el que participan funci
 
 En los Ayuntamientos se podrán conformar órganos de asesoría y consulta en materia turística.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 17.
 
 El Consejo Estatal de Turismo se compondrá por:
 
-I. El Gobernador del Estado, quien será el Presidente del Consejo y podrá designar un representante;
+I. El Gobernador del Estado, quien será el Presidente del Consejo;
 
-II. El Titular de la Secretaría de Turismo, quien fungirá como vicepresidente;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+II. El Titular de la Secretaría de Turismo, quien fungirá como Vicepresidente;
 
 III. El Titular de la Secretaría de Desarrollo Sustentable;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
 IV. El Titular de la Secretaría de Hacienda;
 
 V. Los Diputados integrantes de la Comisión de Turismo del Congreso del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
-
-VI. El Director del Centro de Congresos y Convenciones Fideicomiso World Trade Center (WTC), en representación de la Secretaría de Economía;
+VI. El Titular de la Secretaría de Economía;
 
 VII. Un representante de los Ayuntamientos del Estado, mismo que será designado por la Junta de Gobierno del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos;
 
-VIII. Cinco representantes designados por el Consejo Empresarial Turístico del Estado de Morelos, A.C.;
+VIII. El Titular de la Dirección General del Fideicomiso Turismo Morelos;
 
-IX. Un representante de la Confederación Turística Estatal, A.C.;
+IX. Cinco representantes del Consejo Empresarial Turístico de Morelos, A.C.;
 
-X. Un representante de la Asociación de Hoteles del Estado de Morelos, A.C. y;
+X. Un representante de la Asociación de Hoteles del Estado de Morelos, A.C.; y,
 
 XI. Un representante de la Asociación de Balnearios y Parques Acuáticos del Estado de Morelos, A.C.
 
@@ -1228,3 +1224,13 @@ P.O. 26 DE ABRIL DE 2017.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+P.O. 6 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL CIENTO SESENTA Y CUATRO POR EL QUE SE REFORMA EL ARTÍCULO 17 DE LA LEY DE TURISMO DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano del Gobierno del Estado de Morelos.
+
+TERCERA.- El Ejecutivo del Estado contará con un plazo de sesenta días hábiles para realizar las modificaciones correspondientes al Reglamento de la presente Ley.
