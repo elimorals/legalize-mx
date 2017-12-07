@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-economico-de-la-ciudad-de-mexico-100211"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-10"
-last_updated: "2014-04-10"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100211&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-04-08"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de abril de 2014.
 
@@ -660,6 +660,12 @@ VI. Estimular la innovación tecnológica para incrementar la capacidad de las e
 
 La Secretaría de Ciencia, Tecnología e Innovación en coordinación con la Secretaría, promoverán la cooperación interinstitucional entre empresas, colegios de profesionistas y comunidad académica, para impulsar una tecnología competitiva y el fortalecimiento de la infraestructura científico-tecnológica del Distrito Federal en congruencia con lo establecido por el Plan Nacional de Desarrollo y el Programa General de Desarrollo del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 47 Bis.
+
+La Secretaría de Ciencia, Tecnología e Innovación en conjunto con la Secretaría, implementarán las acciones necesarias para el correcto fortalecimiento a los comercios de barrio a través del uso y aplicación de herramientas tecnológicas, de gestión y capacitación, en el ámbito de sus competencias y con el objetivo de que éstas obtengan las condiciones de competitividad en el mercado.
+
 ###### Artículo 48.
 
 La Secretaría contribuirá con las Dependencias, Entidades de la Administración Pública, así como las Delegaciones en la promoción de mecanismos de difusión y de divulgación para fortalecer una cultura científica y tecnológica que revalore la importancia de la innovación tecnológica en la competitividad de los sectores productivos.
@@ -785,3 +791,13 @@ CUARTO.- Se derogan todas aquellas disposiciones que se contrapongan al presente
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintiún días del mes de febrero del año dos mil catorce.- POR LA MESA DIRECTIVA.- DIP. JESÚS CUAUHTÉMOC VELASCO OLIVA, PRESIDENTE.- DIP. JORGE AGUSTÍN ZEPEDA CRUZ, SECRETARIO.- DIP. MIRIAM SALDAÑA CHÁIREZ, SECRETARIA. (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los ocho días del mes de abril del año dos mil catorce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO, SIMÓN NEUMANN LADENZON.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DE MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, ALFREDO HERNÁNDEZ GARCÍA.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RUFINO H. LEÓN TOVAR.- FIRMA.- EL SECRETARIO DE TURISMO, MIGUEL TORRUCO MÁRQUES.- FIRMA.- EL SECRETARIO DE CULTURA, EDUARDO VÁZQUEZ MARTÍN.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, JESÚS RODRÍGUEZ ALMEIDA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, PATRICIA MERCADO CASTRO.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, MARA NADIEZHDA ROBLES VILLASEÑOR.- FIRMA.- EL SECRETARIO DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, HEGEL CORTÉS MIRANDA.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN, RENÉ RAÚL DRUCKER COLÍN.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL Y DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la (sic) presente Decreto.
