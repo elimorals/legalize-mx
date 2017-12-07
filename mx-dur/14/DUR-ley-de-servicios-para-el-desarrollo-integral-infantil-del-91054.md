@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-servicios-para-el-desarrollo-integral-infantil-del-91054
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-23"
-last_updated: "2015-03-05"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SERVICIOS PARA EL DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 23 de diciembre de 2012.
 
@@ -39,7 +39,9 @@ PRIMERO.- La iniciativa presentada por los integrantes del Grupo Parlamentario d
 
 SEGUNDO.- La iniciativa presentada por el Diputado Emiliano Hernández Camargo, tiene como propósito regular la participación del Estado y Municipios en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, garantizando el acceso de niñas y niños a centros de atención en condiciones de igualdad. calidad, calidez, seguridad y protección adecuada que promuevan el ejercicio pleno de sus derechos con el fin de garantizar el interés superior de la niñez, como un instrumento útil para apoyar a las madres que trabajan o desean trabajar así como para los padres solos que están a cargo de su familia y con niños que requieren de cuidado en edad inicial con el fin de respetar y garantizar los derechos de las niñas y los niños que se encuentren en los centros de atención que operen en todo el Estado; y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -319,7 +321,9 @@ VI. El Director del Sistema Estatal para el Desarrollo Integral de la Familia co
 
 VII. El titular de la Unidad Estatal de Protección Civil como vocal;
 
-Serán invitados permanentes a las sesiones del Consejo, el Titular del Instituto de la Mujer del Estado de Durango o quien este designe, la Comisión Estatal de los Derechos Humanos o quien este designe, el Titular Comisión (sic) Nacional para el Desarrollo de los Pueblos Indígenas o quien este designe, el Delegado de la Delegación Estatal del Instituto Mexicano del Seguro Social o quien este designe, y el Delegado de la Delegación Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o quien este designe, quienes tendrán derecho a voz.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+Serán invitados permanentes a las sesiones del Consejo, el Titular del Instituto de la Mujer del Estado de Durango o quien este designe, el Titular de la Comisión Estatal de los Derechos Humanos o quien este designe, el Presidente de la Comisión de Asuntos de la Familia y Menores de Edad del H. Congreso del Estado o a quien designe, el Titular de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas o quien este designe, el Delegado Estatal del Instituto Mexicano del Seguro Social o quien este designe, y el Delegado Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o quien este designe, quienes tendrán derecho a voz.
 
 ###### ARTÍCULO 19.
 
@@ -377,7 +381,9 @@ Las decisiones del Consejo se aprobaran por la mayoría de sus integrantes prese
 
 Se establece el Registro Estatal de los centros de atención en el Estado el cual será implementado por la Secretaría y tendrá por objeto:
 
-I. Recabar los datos para la identificación y localización de los prestadores y centros de atención en cualquiera de sus modalidades y tipos;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+I. Recabar los datos para la identificación y localización de los prestadores y centros de atención en cualquiera de sus modalidades y tipos, atendiendo principalmente las medidas de seguridad y protección civil de esta ley.
 
 II. Actualizar de manera semestral la información con que cuenta dicho servicio;
 
@@ -583,7 +589,9 @@ IV. Cuando se le cite a reuniones de orientación, jornadas de trabajo o plátic
 
 Los Centros de Atención deberán contar con un Programa Interno de Protección Civil, el cual deberá contener, por lo menos, el ámbito de competencia y responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio.
 
-El Programa Interno deberá ser aprobado por la Unidad Estatal de Protección Civil de Durango y en su caso, por la Dirección Municipal de Protección Civil, y será sujeto a evaluación de manera periódica, por las instancias correspondientes, conforme a sus reglamentos aplicables.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+El Programa Interno deberá ser aprobado por la Unidad Estatal de Protección Civil de Durango y en su caso, por la Dirección Municipal de Protección Civil, y será sujeto a evaluación de manera periódica, por las instancias correspondientes, conforme a sus reglamentos aplicables. En caso de que se realicen modificaciones estructurales al inmueble en el que opera el Centro de Atención, se deberá actualizar el Programa Interno de Protección Civil y deberá ser entregado a la institución competente para su autorización.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -712,6 +720,10 @@ Los prestadores de servicios, para la atención, cuidado y desarrollo integral i
 ###### ARTÍCULO 53.
 
 El Estado y Municipios, determinarán conforme a la modalidad y tipo de atención, las competencias, capacitación y aptitudes con las que deberá contar el personal que pretenda laborar en los Centros de Atención. De igual forma, determinará los tipos de exámenes a los que deberá someterse dicho personal, a fin de garantizar la salud, educación, seguridad e integridad física y psicológica de los menores.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 53 BIS.- A través de la Secretaría, el Sistema DIF Estatal y la Unidad Estatal de Protección Civil, se brindara capacitación periódica a las personas responsables de los Centros de Atención y al personal que labore en los mismos, en temas relacionados con la operación, medidas de seguridad y protección civil.
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2015)</small>
 
@@ -1008,3 +1020,11 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 ###### ARTÍCULO TERCERO.
 
 El reglamento de esta Ley deberá modificarse en los términos del presente dictamen dentro de los 180 días siguientes a la entrada en vigor del mismo.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 285.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE SERVICIOS PARA EL DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
