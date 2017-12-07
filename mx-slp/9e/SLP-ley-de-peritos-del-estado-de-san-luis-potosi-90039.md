@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-peritos-del-estado-de-san-luis-potosi-90039"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2014-12-09"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de Octubre de 2012.
 
@@ -33,7 +33,9 @@ DECRETO 1161
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA
 
-EXPOSICION DE MOTIVOS...
+EXPOSICION DE MOTIVOS
+
+[...]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -493,7 +495,9 @@ La Comisión podrá imponer a los peritos que incumplan con los principios y las
 
 I. Amonestación por escrito;
 
-II. Multa de diez a cien salarios mínimos vigentes en la entidad de acuerdo a la gravedad de la falta;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+II. Multa de diez a cien días del valor de la unidad de medida y actualización vigente, de acuerdo a la gravedad de la falta;
 
 III. Suspensión temporal del Registro de uno a seis meses, según la gravedad de la falta;
 
@@ -585,10 +589,18 @@ Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 9 DE DICIEMBRE DE 2014.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 755.- SE REFORMA EL ARTÍCULO 22, DE LA LEY DE PERITOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
