@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2017-08-08"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -543,15 +543,19 @@ La clasificación de las explotaciones pecuarias será aquella que se establezca
 
 Se considera medio de identificación del criador de cualquiera de las especies domésticas productivas, productos y subproductos, la figura de herrar, marcas, aretes, tatuajes, anillos, pulseras, medios electrónicos, señales o cualquier otro registrado ante la Secretaría y que tenga como fin acreditar la propiedad del animal, su explotación, productos y subproductos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-Todo propietario de cualquiera de las especies domésticas productivas a que se refiere la presente ley y su reglamento, tiene la obligación de registrar su explotación, marcar sus animales y acreditar su propiedad en los términos que señala la ley, cumpliendo con los requisitos establecidos que a continuación se indican:
+Todo propietario de cualquiera de las especies domésticas productivas a que se refiere la presente ley, tiene la obligación de registrar su explotación y acreditar su propiedad. Además deberán marcar sus animales, en los términos que señala la ley cumpliendo con los requisitos establecidos que a continuación se indican:
 
 I. Ganado bovino, equino, mular y asnal deberá ser marcado con el medio de identificación del criador debidamente registrado, conforme lo establece el reglamento de la presente ley; en forma optativa en frío, tratándose de especies de sangre pura y con registro genealógico y para los animales destinados a actividades deportivas.
 
 El marcaje podrá hacerse también a fuego, con aretes, tatuajes, medios electrónicos o por cualquier otro medio de identificación registrado ante la Secretaría;
 
-II. El ganado porcino, ovino y caprino deberá contar con identificación mediante tatuajes, aretes, marcas, señales, medios electrónicos y pulseras;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+II. El ganado ovino y caprino deberá contar con identificación mediante tatuajes, aretes, marcas, señales, medios electrónicos o pulseras;
 
 III. Los conejos, aves domésticas y de combate deberán contar con identificación mediante anillos, pulseras, tatuajes o medios electrónicos; tratándose de cajas de abejas a través de una figura que los identifique ubicada en los cajones y productos, la cual se registrará ante la Secretaría y;
 
@@ -1638,5 +1642,11 @@ P.O. 30 DE MAYO DE 2017.
 P.O. 8 DE AGOSTO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26411/LXI/17, QUE REFORMA EL ARTÍCULO 17 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26505/LXI/17 QUE REFORMA EL ARTÍCULO 29 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
