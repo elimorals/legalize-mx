@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-prevencion-y-eliminacion-de-la-72123"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2016-03-06"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -553,6 +553,14 @@ IV. La publicación íntegra de la resolución emitida en el órgano de difusió
 
 V. La publicación o difusión de una síntesis de la resolución en los medios impresos o electrónicos de comunicación.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 55 Bis.
+
+El titular de todo establecimiento mercantil en general está obligado a exhibir un letrero visible que señale "En este establecimiento no se discrimina por motivos de raza, religión, orientación sexual, condición física o socioeconómica ni por ningún otro motivo" incluyendo para quejas, los teléfonos de emergencia y de la Fiscalía General del Estado.
+
+Las dependencias de la Administración Pública Estatal y Municipal estarán obligadas a exhibir un letrero visible que señale "En estas oficinas públicas no se discrimina por motivos de raza, religión, orientación sexual, condición física o socioeconómica ni por ningún otro motivo" incluyendo para quejas, los teléfonos de emergencia y de la Fiscalía General del Estado.
+
 ###### Artículo 56.
 
 Para determinar el alcance y la forma de adopción de las medidas administrativas dispuestas, se tendrá en consideración:
@@ -640,3 +648,11 @@ P.O. 6 DE MARZO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 288.- QUE CONTIENE ADICIÓN AL ARTÍCULO 55 BIS DE LA LEY ESTATAL DE PREVENCIÓN DE LA DISCRIMINACIÓN".]
+
+PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que (sic) opongan al contenido del presente Decreto.
