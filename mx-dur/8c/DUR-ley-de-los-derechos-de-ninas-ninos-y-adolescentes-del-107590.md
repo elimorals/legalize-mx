@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2015-03-12"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -33,7 +33,9 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 04 de Febrero del presente año el C. Diputado Julián Salvador Reyes, presentó a esta H. Legislatura, Iniciativa de Decreto que contiene LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Asuntos de la Familia y Menores de Edad, integrada por los CC. Diputados: María Luisa González Achem, Alicia García Valenzuela, Beatriz Barragán González y Felipe de Jesús Enríquez Herrera; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-C O N S I D E R A N D O S…
+C O N S I D E R A N D O S
+
+[...]
 
 Por lo anteriormente expuesto y considerado, la Comisión que dictaminó, con fundamento en lo que dispone el artículo 182, último párrafo de la Ley Orgánica del Congreso del Estado de Durango, estimó que la iniciativa, con las adecuaciones realizadas a la misma, es procedente, en virtud de considerar que obedece al mejoramiento de forma y fondo jurídicos, y a lo dispuesto por la Ley General de los Derechos de Niñas, Niños y Adolescentes,
 
@@ -111,41 +113,45 @@ VII. Constitución Federal: Constitución Política de los Estados Unidos Mexica
 
 VIII. Constitución Local: Constitución Política del Estado Libre y Soberano de Durango;
 
-IX. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado, de conformidad con el Código Civil del Estado de Durango;
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-X. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+IX. Control de confianza: Las pruebas realizadas por el Centro Estatal de Acreditación y Control de Confianza en materia toxicológica, socioeconómica, psicológica, médica y de antecedentes penales así como los demás que establezcan en sus lineamientos el Centro Nacional de Certificación y Acreditación en la materia.
 
-XI. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+X. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado, de conformidad con el Código Civil del Estado de Durango;
 
-XII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+XI. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-XIII. Igualdad: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos;
+XII. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XIV. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
+XIII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XV. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
+XIV. Igualdad: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos;
 
-XVI. Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado;
+XV. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XVII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
+XVI. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-XVIII. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
+XVII. Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado;
 
-XIX. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Durango y los tratados internacionales de los que el Estado Mexicano forma parte;
+XVIII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
 
-XX. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XIX. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
 
-XXI. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la legislación aplicable;
+XX. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Durango y los tratados internacionales de los que el Estado Mexicano forma parte;
 
-XXII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXIII. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
+XXII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la legislación aplicable;
 
-XXIV. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
+XXIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXV. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango, y
+XXIV. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
 
-XXVI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia.
+XXV. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
+
+XXVI. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango, y
+
+XXVII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia.
 
 ###### Artículo 6.
 
@@ -549,6 +555,10 @@ II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educaci
 
 III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y para procurar la accesibilidad material, económica y geográfica a la educación sin discriminación;
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de mujeres que se encuentran recluidas en los Centros de Reinserción Social, se asegurará que dicha lactancia se proporcione en condiciones apropiadas;
+
 IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia de la currícula, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza y la evaluación docente;
 
 V. Destinar recursos humanos, materiales y presupuestarios adecuados para garantizar la educación de calidad de niñas, niños y adolescentes;
@@ -569,7 +579,9 @@ XII. Conformar una instancia multidisciplinaria responsable que establezca mecan
 
 XIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
-XIV. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Estatal, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XIV. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Estatal, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado, así como su participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales;
 
 XV. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales;
 
@@ -1189,13 +1201,25 @@ I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
 II. Tener más de 35 años de edad;
 
-III. Contar con título profesional de licenciatura en derecho debidamente registrado;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes, y
+III. Contar con título y cédula profesional de licenciatura en derecho, debidamente registrados, con una antigüedad mínima de 5 años;
 
-V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-El nombramiento de Procurador de Protección deberá ser aprobado por la Junta de Gobierno del Sistema DIF Estatal, a propuesta de su Titular.
+IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+V. No haber sido condenado mediante sentencia ejecutoriada por delito doloso o inhabilitado a través de sentencia firme como servidor público; y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+VI. Acreditar las pruebas de control de confianza emitidas por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+El nombramiento de Procurador de Protección deberá ser aprobado por la Junta de Gobierno del Sistema DIF Estatal, a propuesta del Titular del Poder Ejecutivo.
 
 ### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
@@ -1476,3 +1500,13 @@ C.P. JORGE HERRERA CALDERA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MIGUEL ANGEL OLVERA ESCALERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 286.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
