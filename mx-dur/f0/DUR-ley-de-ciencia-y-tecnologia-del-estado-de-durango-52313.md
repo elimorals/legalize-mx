@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ciencia-y-tecnologia-del-estado-de-durango-52313"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-26"
-last_updated: "2017-11-16"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de octubre de 2006.
 
@@ -773,6 +773,10 @@ Son Órganos Auxiliares de la Dirección, las direcciones de área, jefaturas de
 
 El Consejo Consultivo será el órgano permanente de consulta de la Dirección General del COCYTED, mismo que estará integrado por 9 personas, designadas por la Junta Directiva, a propuesta de la Dirección General, entre los científicos, tecnólogos, empresarios y representantes de las organizaciones, centros e instituciones públicos o privados que desarrollen tareas permanentes de investigación científica, tecnológica y de innovación. El cargo de integrante del Consejo Consultivo será de carácter honorífico.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+A invitación de la Dirección General, el Presidente de la Comisión de Ciencia, Tecnología e Innovación del Congreso del Estado podrá participar, únicamente con voz pero sin derecho a voto, en las sesiones del Consejo Consultivo.
+
 ###### Artículo 65.
 
 El Consejo Consultivo tendrá las siguientes atribuciones:
@@ -906,3 +910,11 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 289.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
