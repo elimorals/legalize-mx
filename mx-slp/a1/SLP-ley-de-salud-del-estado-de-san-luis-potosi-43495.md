@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2017-11-30"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1607,7 +1607,9 @@ IV. Orientar y capacitar a la población, preferentemente en materia de nutrici�
 
 La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, entre otros, aquellos orientados a la alimentación nutritiva, suficiente y de calidad, y a la activación física, procurando optimizar los recursos y alcanzar una cobertura total de la población. Así como llevar a cabo la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica.
 
-La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los distintos niveles de educación básica obligatoria, a efecto de combatir, la violencia de género, la discriminación, la obesidad y el sobrepeso; el cual incluirá, entre otras acciones, información veraz por medio de películas, libros, folletos y demás materiales de distribución que concienticen sobre los estragos causados por la violencia, el fomento del consumo de alimentos y bebidas saludables. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Salud, en coordinación con la Secretaría de Educación, formularán un programa para la salud destinado a la población escolar de los distintos niveles de educación básica obligatoria, a efecto de combatir, la violencia de género, la discriminación, la obesidad y el sobrepeso; el cual incluirá, entre otras acciones, información veraz por medio de películas, libros, folletos y demás materiales de distribución, que concienticen sobre los estragos causados por la violencia, el fomento del consumo de alimentos y bebidas saludables.
 
 Tratándose de las comunidades indígenas, los programas a que se refiere este artículo, deberán difundirse en español, y la lengua o lenguas indígenas que correspondan.
 
@@ -1635,9 +1637,9 @@ I. Establecer un sistema permanente de vigilancia de los trastornos de la conduc
 
 II. Normar el desarrollo de los programas y actividades de educación en materia de nutrición, encaminados a promover hábitos alimenticios adecuados, preferentemente en los grupos sociales más vulnerables;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-III. Observar y recomendar, en coordinación con la Secretaría de Educación, que los alimentos y bebidas que se expendan al interior de las escuelas de educación básica obligatoria, posean alto contenido nutricional, que coadyuve a una alimentación saludable;
+III. Observar y recomendar, en coordinación con la Secretaría de Educación, que los alimentos y bebidas que se expendan al interior de las escuelas de educación básica obligatoria, posean alto contenido nutricional, que coadyuve a una alimentación saludable; y así como proporcionar talleres de nutrición a los padres de familia en los que se les recomiende una alimentación alta en contenido nutricional y bajo contenido calórico;
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
@@ -1933,7 +1935,7 @@ Las autoridades sanitarias, en coordinación con las autoridades de educación, 
 
 ###### ARTICULO 124.
 
-La Secretaría de Salud del Estado, por sí o a través de la institución que designe, organizará la coordinación con los registros nacionales del cáncer, transplantes, donación altruista de sangre, así como instancias que determine la Ley General de Salud.
+La Secretaría de Salud del Estado, por sí o a través de la institución que designe, organizará la coordinación con los registros nacionales del cáncer, transplantes (sic), donación altruista de sangre, así como instancias que determine la Ley General de Salud.
 
 Será obligatoria la notificación de los casos de tales enfermedades diagnosticados, en todas las instituciones y dependencias de la Secretaría de Salud del Estado, del sector público, privado y social, así como aquellos detectados por médicos particulares.
 
@@ -4376,6 +4378,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 30 DE NOVIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 748.- SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 754.- SE REFORMA (SIC) LOS ARTÍCULOS, 93 Y 96, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
