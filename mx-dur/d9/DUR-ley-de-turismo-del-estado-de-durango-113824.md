@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-turismo-del-estado-de-durango-113824"
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2017-06-11"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TURISMO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial de Estado de Durango, el jueves 3 de marzo de 2016.
 
@@ -71,35 +71,39 @@ I. Establecer las bases generales de coordinación de las facultades concurrente
 
 II. Establecer las bases para la política, planeación y programación en todo el territorio Estatal de la actividad turística, bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado de los Municipios, a corto, mediano y largo plazo;
 
-III. Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos, preservando el patrimonio natural, cultural, y el equilibrio ecológico con base en los criterios determinados por las leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos turísticos, en apego al marco jurídico vigente;
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-IV. Formular las reglas y procedimientos para establecer, el ordenamiento turístico del territorio Estatal;
+III. Impulsar el desarrollo del turismo en los municipios con vocación turística del Estado, en especial, en los municipios y localidades declarados pueblos mágicos y en sitios Patrimonio Mundial;
 
-V. Promover y vigilar el desarrollo del turismo social, propiciando el acceso de toda persona al descanso y recreación mediante esta actividad;
+IV. Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos, preservando el patrimonio natural, cultural, y el equilibrio ecológico con base en los criterios determinados por las leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos turísticos, en apego al marco jurídico vigente;
 
-VI. Facilitar a las personas con discapacidad las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a la actividad turística, así como su participación dentro de los programas de turismo accesible;
+V. Formular las reglas y procedimientos para establecer, el ordenamiento turístico del territorio Estatal;
 
-VII. Salvaguardar la igualdad de género en la instrumentación y aplicación de políticas de apoyo y fomento al turismo;
+VI. Promover y vigilar el desarrollo del turismo social, propiciando el acceso de toda persona al descanso y recreación mediante esta actividad;
 
-VIII. Establecer las reglas y procedimientos para la creación de las Zonas de Desarrollo Turístico Sustentable, su operación y las facultades concurrentes que, de manera coordinada, ejercerán el Ejecutivo Estatal y los municipios, en dicha (sic) Zonas;
+VII. Facilitar a las personas con discapacidad las oportunidades necesarias para el uso y disfrute de las instalaciones destinadas a la actividad turística, así como su participación dentro de los programas de turismo accesible;
 
-IX. Optimizar la calidad y competitividad de los servicios turísticos;
+VIII. Salvaguardar la igualdad de género en la instrumentación y aplicación de políticas de apoyo y fomento al turismo;
 
-X. Impulsar la modernización de la actividad turística;
+IX. Establecer las reglas y procedimientos para la creación de las Zonas de Desarrollo Turístico Sustentable, su operación y las facultades concurrentes que, de manera coordinada, ejercerán el Ejecutivo Estatal y los municipios, en dicha (sic) Zonas;
 
-XI. Fomentar la inversión pública, privada y social en la industria turística;
+X. Optimizar la calidad y competitividad de los servicios turísticos;
 
-XII. Establecer las bases para la emisión de las disposiciones jurídicas tendientes a promover y regular la actividad de los prestadores de servicios turísticos;
+XI. Impulsar la modernización de la actividad turística;
 
-XIII. Determinar las normas para la integración y operación del Registro Estatal de Turismo;
+XII. Fomentar la inversión pública, privada y social en la industria turística;
 
-XIV. Establecer las bases para la orientación y asistencia a los turistas nacionales y extranjeros, definiendo sus derechos y obligaciones;
+XIII. Establecer las bases para la emisión de las disposiciones jurídicas tendientes a promover y regular la actividad de los prestadores de servicios turísticos;
 
-XV. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las comunidades;
+XIV. Determinar las normas para la integración y operación del Registro Estatal de Turismo;
 
-XVI. Impulsar y crear programas turísticos en los cuales sean partícipes los pueblos indígenas y sus comunidades para la conservación y difusión (sic) su cultura, costumbres y de los recursos naturales, mejorando su acceso a las actividades económicas; y
+XV. Establecer las bases para la orientación y asistencia a los turistas nacionales y extranjeros, definiendo sus derechos y obligaciones;
 
-XVII. Coordinar la elaboración del atlas turístico Estatal.
+XVI. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento de las actividades propias de las comunidades;
+
+XVII. Impulsar y crear programas turísticos en los cuales sean partícipes los pueblos indígenas y sus comunidades para la conservación y difusión (sic) su cultura, costumbres y de los recursos naturales, mejorando su acceso a las actividades económicas; y
+
+XVIII. Coordinar la elaboración del atlas turístico Estatal.
 
 ###### Artículo 4.
 
@@ -269,9 +273,25 @@ XVIII. Vigilar el cumplimiento de esta Ley y demás disposiciones reglamentarias
 
 XIX. Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a esta Ley y a las disposiciones reglamentarias;
 
-XX. Emitir opiniones a la Secretaría Federal en la materia; y
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-XXI. Las demás previstas en éste y otros ordenamientos.
+XX. Fomentar el desarrollo del turismo en los municipios con vocación turística del Estado, en especial, en los municipios y localidades declarados pueblos mágicos y en los sitios Patrimonio Mundial;
+
+XXI. Emitir opiniones a la Secretaría Federal en la materia; y
+
+XXII. Las demás previstas en éste y otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 6 Bis.
+
+La Secretaría en coordinación con los Ayuntamientos, planearan y ejecutaran, proyectos que tengan como objetivo la incorporación y permanencia en el Programa Pueblos Mágicos. Así como en la participación de recursos del Programa de Desarrollo Regional Turístico Sustentable y Pueblos Mágicos que lleva anualmente la Secretaría de Turismo.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 6 Ter.
+
+En las localidades declaradas pueblos mágicos y en los sitios Patrimonio Mundial, la Secretaría conjuntamente con otras dependencias y entidades de la administración pública estatal y en coordinación con los Ayuntamientos, implementarán programas y proyectos especiales para fortalecer el desarrollo turístico del lugar.
 
 ###### Artículo 7.
 
@@ -297,7 +317,7 @@ VIII. Participar en el diseño, instrumentación, ejecución y evaluación de lo
 
 IX. Formular y conducir la política municipal de información y difusión en materia turística;
 
-IX. Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta;
+IX (SIC). Coadyuvar en la instrumentación de las acciones de promoción de las actividades y destinos turísticos con que cuenta;
 
 XI. Promover el impulso de las micro, pequeñas y medianas empresas turísticas;
 
@@ -321,7 +341,9 @@ XVIII. Las demás previstas en éste y otros ordenamientos.
 
 El Consejo Consultivo Local de Turismo es un órgano de consulta de la Secretaría, que tendrá por objeto proponer la formulación de las estrategias y acciones de coordinación de las dependencias y entidades de la Administración Pública Estatal, con el fin de lograr un desarrollo integral de la actividad turística, utilizando entre otros mecanismo los foros de consulta y memorias publicadas.
 
-El Consejo Consultivo Local de Turismo será presidido por el titular del Poder Ejecutivo del Estado de Durango; estará integrado por el titular de la Secretaría, por representantes de las dependencias y entidades relacionadas con la actividad turística, así como miembros del sector privado, social y académico, conforme a lo que establezcan las disposiciones reglamentarias.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+El Consejo Consultivo Local de Turismo será presidido por el titular del Poder Ejecutivo del Estado de Durango; estará integrado por el titular de la Secretaría, por representantes de las dependencias, entidades relacionadas con la actividad turística, el Presidente de la Comisión de Turismo y Cinematografía perteneciente al H. Congreso del Estado de Durango o a quien éste designe de los integrantes de dicha Comisión, así como miembros del sector privado, social y académico, conforme a lo que establezcan las disposiciones reglamentarias.
 
 Podrán ser invitadas las instituciones y demás entidades públicas, federales o locales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo, las cuales participarán únicamente con derecho a voz.
 
@@ -401,11 +423,21 @@ La Secretaría, con el apoyo y en coordinación de las dependencias y autoridade
 
 El turismo alternativo se dividirá en tres segmentos:
 
-I. Ecoturismo. Actividades recreativas de apreciación y conocimiento de la naturaleza cuyos turistas desean participar activamente en la conservación del medio ambiente.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+I. Ecoturismo. Se consideran como tal las actividades recreativas de apreciación y conocimiento de la naturaleza que tienen como motivación principal que el turista observe, conozca, interactúe y aprecie la naturaleza, y las manifestaciones culturales y tradicionales de los habitantes de las zonas rurales, con el debido aprovechamiento, conservación y restauración de los recursos naturales; para logar producir el menor impacto negativo sobre el ambiente y el entorno sociocultural de las comunidades, a las que les genera beneficios económicos ofreciendo oportunidades y alternativas de empleo;
 
 II. Turismo de Aventura. Actividades recreativas-deportivas, asociadas a desafíos impuestos por la naturaleza cuyos turistas buscan mejorar su condición física, reducir la tensión, vivir la experiencia de "logro" al superar un reto impuesto por la naturaleza.
 
 III. Turismo Rural. Actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales y productivas cotidianas de la misma.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+Las empresas que desarrollen actividades turísticas ecológicas, deberán realizarlas con apego a las leyes de la materia y se someterán a las limitaciones impuestas por las diferentes Secretarías que tengan a su cargo el cuidado de la zona y el medio ambiente.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría y los ayuntamientos tendrán la obligación de promover la educación y conciencia ambiental, como parte primordial de las actividades turísticas ecológicas, con el objeto de proporcionar experiencias positivas a los turistas y Prestadores de Servicios Turísticos
 
 ###### Artículo 19.
 
@@ -570,6 +602,14 @@ V. Garantizar el equilibrio del medio natural en la utilización de los servicio
 ###### Artículo 39.
 
 En las zonas prioritarias para el desarrollo turístico, se establecerán además, programas para la preservación y restauración de las zonas culturales con valor histórico, que por sus características históricas o artísticas, incentiven la demanda turística.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 39 Bis.
+
+El Municipio, lugar o región que haya sido declarado como zona de desarrollo turístico prioritario, tendrá acceso a los apoyos que al efecto establezca el Programa Local de Turismo.
+
+Las localidades declaradas pueblos mágicos y los sitios Patrimonio Mundial, de acuerdo con la legislación federal en la materia, tendrán acceso a apoyos extraordinarios, que serán independientes a las partidas presupuestales ordinarias que se le asignen en los presupuestos de egresos del Estado y de los Municipios. Dichas partidas sólo podrán destinarse a los programas y proyectos que se implementen para tal fin.
 
 ### CAPÍTULO XVII. DE LA PLANEACIÓN DE LA ACTIVIDAD TURÍSTICA
 
@@ -990,3 +1030,31 @@ P.O. 11 DE JUNIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 282.- QUE CONTIENE ADICIONES A LA LEY DE TURISMO DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 283.- QUE CONTIENE REFORMAS AL ARTÍCULO 8 PÁRRAFO SEGUNDO DE LA LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 284.- QUE CONTIENE REFORMA AL ARTÍCULO 18 DE LA LEY DE TURISMO DEL ESTADO DE DURANGO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Durango.
+
+Segundo. Se derogan todas las disposiciones legales y administrativas que contravengan lo dispuesto en el presente decreto.
