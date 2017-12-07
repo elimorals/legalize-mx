@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2017-05-02"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -1792,6 +1792,10 @@ b) Una Secretaría General de Servicios Administrativos, de la que dependerá la
 
 c) Las unidades administrativas que acuerde la Mesa Directiva, las que dependerán de ésta.
 
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2017)</small>
+
+d) Se crea la Unidad Técnica para la Igualdad de Género, adscrita a la Mesa Directiva del Senado de la República. La Comisión para la Igualdad de Género supervisará el cumplimiento de sus objetivos, atribuciones y el Programa para la Igualdad de Género del Senado de la República, además, contará con la estructura administrativa necesaria y el presupuesto suficiente para el cumplimiento de sus funciones.
+
 ###### ARTICULO 107.
 
 1. Los titulares de las Secretarías Generales de Servicios Administrativos y de Servicios Parlamentarios, así como de la Tesorería de la Cámara, serán propuestos por la Mesa Directiva al Pleno, y serán electos por mayoría de los senadores presentes. Durarán en sus cargos por toda la legislatura, pudiendo ser reelectos. Podrán ser removidos a propuesta de la Mesa Directiva, por causa grave, calificada por la mayoría absoluta de los senadores presentes en el Pleno.
@@ -2773,3 +2777,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los asuntos que la Mesa Directiva del Senado de la República hubiera turnado a la Comisión del Distrito Federal previo a la entrada en vigor del presente Decreto se entenderán como materias a resolver por la Comisión de la Ciudad de México. Lo mismo sucederá con todos los trámites sobre recursos administrativos, financieros, materiales y humanos, así como los distintos asuntos que desarrolle y que no estén sujetos a dictamen.
 
 TERCERO. La integración de la Comisión de la Ciudad de México del Senado de la República será la misma que tenía la Comisión del Distrito Federal previo a la entrada en vigor del presente Decreto.
+
+D.O.F. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN INCISO D) AL ARTÍCULO 106 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Senado de la República, dentro de los 60 días siguientes a la publicación del presente Decreto, hará las modificaciones correspondientes al Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos del Senado de la República y al Estatuto del Servicio Civil de Carrera.
