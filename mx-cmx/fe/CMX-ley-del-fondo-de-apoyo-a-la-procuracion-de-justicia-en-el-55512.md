@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-fondo-de-apoyo-a-la-procuracion-de-justicia-en-el-55512
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-17"
-last_updated: "2014-12-18"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55512&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-05-02"
 
 LEY DEL FONDO DE APOYO A LA PROCURACIÓN DE JUSTICIA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de mayo de 2007.
 
@@ -34,9 +34,9 @@ Que la H. Asamblea Legislativa del Distrito Federal, IV Legislatura, se ha servi
 
 DECRETO
 
-(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATlVA DEL DISTRITO FEDERAL, IV LEGISLATURA)
+(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, IV LEGISLATURA)
 
-ASAMBLEA LEGISLATlVA DEL DISTRITO FEDERAL
+ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
 IV LEGISLATURA.
 
@@ -192,15 +192,17 @@ Los bienes muebles o inmuebles que sean adquiridos con recursos del Fondo para l
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-> <small>(REFORMADO, G.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
 
-SEGUNDO.- Los vehículos de cualquier tipo y autopartes, que se encuentren a disposición de las autoridades ministeriales o judiciales en los Depósitos destinados a tal efecto y, que no hayan sido recogidos por sus propietarios o por quienes tienen derecho o interés jurídico en ellos, hasta el 31 de diciembre del dos mil ocho, no obstante haber sido notificados ya sea en términos del Código de Procedimientos Penales o a través de la Gaceta Oficial del Distrito Federal, y hubiese transcurrido el término que se refiere el artículo 55 del Código Penal para el Distrito Federal, la Procuraduría General de Justicia del Distrito Federal, dispondrá de dichos bienes, determinando la Oficialía Mayor por conducto de la unidad administrativa que corresponda que se pongan inmediatamente a la venta, imponiendo exclusivamente a quienes los adquieran como desecho ferroso vehicular, la obligación de destruirlos totalmente, para hacer uso únicamente de los metales que de su compactación y reciclamiento se obtengan; destinando el producto obtenido de la enajenación de los mismos, a través de cualquiera de los procedimientos establecidos en las disposiciones administrativas aplicables, a los Fondos de Apoyo a la Procuración y Administración de Justicia.
+SEGUNDO.- Los vehículos de cualquier tipo y autopartes, que se encuentren a disposición de las autoridades ministeriales o judiciales en los depósitos destinados a tal efecto y, que no hayan sido recogidos por sus propietarios o por quienes tienen derecho o interés jurídico en ellos, hasta el 31 de diciembre de dos mil quince, no obstante haber sido notificados ya sea en términos del Código Nacional de Procedimientos Penales o a través de la Gaceta Oficial de la Ciudad de México, y hubiese transcurrido el término a que se refiere el artículo 55 del Código Penal para el Distrito Federal, la Procuraduría General de Justicia del Distrito Federal, dispondrá de dichos bienes, determinando la Oficialía Mayor por conducto de la Unidad Administrativa que corresponda que se pongan inmediatamente a la venta, imponiendo exclusivamente a quienes los adquieran como desecho ferroso vehicular, la obligación de destruirlos totalmente, para hacer uso únicamente de los metales que de su compactación y reciclamiento se obtengan; destinando el producto obtenido de la enajenación de los mismos, a través de cualquiera de los procedimientos establecidos en las disposiciones administrativos (sic) aplicables, a los Fondos de Apoyo a la Procuración y Administración de Justicia.
 
-> <small>(REFORMADO, G.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
 
-TERCERO.- Los bienes muebles, tales como mobiliario, equipo, joyas, obras de arte, electrodomésticos y de cualquier otra especie, a disposición de las autoridades mencionadas en el transitorio precedente, y que no hayan sido recogidos por sus propietarios o por quienes tienen derecho o interés jurídico en ellos, hasta el 31 de diciembre del dos mil ocho, no obstante haber sido notificados ya sea en términos del Código de Procedimientos Penales o a través de la Gaceta Oficial del Distrito Federal, y hubiese transcurrido el término que se refiere el artículo 55 del Código Penal para el Distrito Federal, la Procuraduría General de Justicia del Distrito Federal, dispondrá de dichos bienes, determinando la Oficialía Mayor por conducto de la unidad administrativa que corresponda, el destino final más conveniente para los mismos, de conformidad con los procedimientos establecidos en las disposiciones administrativas aplicables.
+TERCERO.- Los bienes muebles, tales como mobiliario, equipo, joyas, obras de arte, electrodomésticos y de cualquier otra especie, a disposición de las autoridades mencionadas en el transitorio procedente, y que no hayan sido recogidos por sus propietarios o por quienes tienen derecho o interés jurídico en ellos, hasta el 15 de enero del dos mil quince, no obstante haber sido notificados ya sea en términos del Código Nacional de Procedimientos Penales o a través de la Gaceta Oficial de la Ciudad de México, y hubiese transcurrido el término que se refiere el artículo 55 del Código Penal para el Distrito Federal, la Procuraduría General de Justicia del Distrito Federal, dispondrá de dichos bienes, determinando la Oficialía Mayor por conducto de la Unidad Administrativa que corresponda, se destinará a los Fondos de Apoyo a la Procuración y Administración de Justicia, de conformidad con los procedimientos establecidos en las disposiciones administrativas aplicables.
 
-CUARTO. La Procuraduría General de Justicia, notificará a través de una publicación en la Gaceta de Gobierno del Distrito Federal, una relación de los depositantes del dinero en efectivo, y en billetes de depósito, que tenga a su disposición hasta el mes de diciembre de dos mil seis, a efecto de que pasen los interesados a recoger dichas cantidades en la Oficialía Mayor de la Procuraduría, en un plazo no mayor de 15 días, apercibiéndose que para el caso de no hacerlo el dinero ingresará al Fondo de Apoyo a la Procuración de Justicia, para todos los efectos legales procedentes.
+> <small>(REFORMADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+
+CUARTO.- La Procuraduría General de Justicia, notificará a través de una publicación en la Gaceta de (sic) Oficial de la Ciudad de México, una relación de los depositantes del dinero en efectivo, y en billetes de depósito, que tenga a su disposición hasta el 31 de diciembre de dos mil quince, a efecto de que pasen los interesados a recoger dichas cantidades en la Oficialía Mayor de la Procuraduría, en un plazo no mayor de veinte días, apercibiéndose que para el caso de no hacerlo el dinero ingresará al Fondo de Apoyo a la Procuraduría de Justicia, para los efectos legales procedentes.
 
 QUINTO. El Jefe de Gobierno del Distrito Federal, deberá expedir el reglamento de la presente Ley en el término de 30 días posteriores a la entrada en vigor del presente decreto.
 
@@ -225,3 +227,11 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y LA LEY DEL FONDO DE APOYO A LA PROCURACIÓN DE JUSTICIA EN EL DISTRITO FEDERAL".]
+
+PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
