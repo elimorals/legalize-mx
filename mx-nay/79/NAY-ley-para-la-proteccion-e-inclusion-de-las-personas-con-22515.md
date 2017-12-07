@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2017-03-07"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -79,9 +79,9 @@ IV.- Consejo Estatal.- Consejo Estatal para las Personas con Discapacidad;
 
 V.- Igualdad de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-VI.- Persona con discapacidad.- Toda persona que por razón congénita o adquirida o derivado de trastornos generalizados del desarrollo presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+VI.- Persona con discapacidad.- Toda persona que por razón congénita o adquirida o derivado de trastornos generalizados del desarrollo presenta una o más deficiencias de carácter físico, mental, intelectual, sensorial o de crecimiento, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -946,3 +946,9 @@ P.O. 7 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
