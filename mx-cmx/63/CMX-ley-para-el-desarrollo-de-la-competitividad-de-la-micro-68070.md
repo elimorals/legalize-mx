@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-desarrollo-de-la-competitividad-de-la-micro-68070"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2012-09-14"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68070&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2009-04-22"
 ---
 # LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DE LA CIUDAD DE MEXICO -- ANTES LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL--
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de abril de 2009.
 
@@ -68,35 +70,39 @@ III.- Cadenas Productivas: Sistemas productivos que integran conjuntos de empres
 
 IV.- Capacitación: Servicio empresarial que consiste en la impartición de cursos, talleres y metodologías, con la finalidad de mejorar las capacidades y habilidades de los recursos humanos de las empresas que reciben la atención;
 
-V.- Competitividad para las Mipymes: Es el desempeño de las micro, pequeñas y medianas empresas, vinculado a la creación de las condiciones necesarias para potencializar sus capacidades, tanto de innovación de procesos, como en el impulso de la investigación y desarrollo de nuevos productos; para el aumento de la productividad; el fortalecimiento de la rentabilidad, la capacitación, la innovación y la participación en los mercados, con base en ventajas asociadas a productos o servicios, así como a las condiciones que ofertan.
+> <small>(ADICIONADA, G.O. 7 DE DICIEMBRE DE 2017)</small>
 
-VI.- Consultoría: Servicio empresarial que consiste en la transferencia de conocimientos, metodologías y aplicaciones, con la finalidad de mejorar los procesos de la empresa que recibe la atención;
+V.- Comercio de barrio. Persona o negocio que vende bienes y servicios al consumidor final y que para el desarrollo de su actividad cuenta con las características de una micro empresa de actividad comercial.
 
-VII.- El Consejo: El Consejo del Distrito Federal para la Competitividad de la Micro, Pequeña y Mediana Empresa;
+VI.- Competitividad para las Mipymes: Es el desempeño de las micro, pequeñas y medianas empresas, vinculado a la creación de las condiciones necesarias para potencializar sus capacidades, tanto de innovación de procesos, como en el impulso de la investigación y desarrollo de nuevos productos; para el aumento de la productividad; el fortalecimiento de la rentabilidad, la capacitación, la innovación y la participación en los mercados, con base en ventajas asociadas a productos o servicios, así como a las condiciones que ofertan.
 
-VIII.- Ley: La Ley para la Competitividad de la Micro, Pequeña y Mediana Empresa del Distrito Federal;
+VII.- Consultoría: Servicio empresarial que consiste en la transferencia de conocimientos, metodologías y aplicaciones, con la finalidad de mejorar los procesos de la empresa que recibe la atención;
 
-IX.- Mediana empresa: La unidad económica que cuenta para el desarrollo de su actividad de 21 a 100 empleados en el caso de actividad comercial, de 51 a 100 empleados en el caso de servicios y de 101 a 500 empleados en el caso de la industria;
+VIII.- El Consejo: El Consejo del Distrito Federal para la Competitividad de la Micro, Pequeña y Mediana Empresa;
 
-X.- Micro empresa: La unidad económica que para el desarrollo de su actividad cuenta hasta con 5 empleados en el caso de actividad comercial, hasta con 20 empleados en el caso de servicios y hasta con 30 empleados en el caso de la industria;
+IX.- Ley: La Ley para la Competitividad de la Micro, Pequeña y Mediana Empresa del Distrito Federal;
 
-XI.- MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida en las Reglas para Fomentar y Promover la Participación de Micro, Pequeñas y Medianas Empresas nacionales y Locales, en las Adquisiciones, Arrendamientos y Prestación de Servicios que realice la Administración Pública del Distrito Federal, publicadas en la Gaceta Oficial del Distrito Federal el 13 de noviembre de 2003;
+X.- Mediana empresa: La unidad económica que cuenta para el desarrollo de su actividad de 21 a 100 empleados en el caso de actividad comercial, de 51 a 100 empleados en el caso de servicios y de 101 a 500 empleados en el caso de la industria;
 
-XII.- Organizaciones Empresariales: Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante las autoridades del Distrito Federal;
+XI.- Micro empresa: La unidad económica que para el desarrollo de su actividad cuenta hasta con 5 empleados en el caso de actividad comercial, hasta con 20 empleados en el caso de servicios y hasta con 30 empleados en el caso de la industria;
 
-XIII.- Pequeña empresa: La unidad económica que cuenta para el desarrollo de su actividad de 6 a 20 empleados en el caso de actividad comercial, de 21 a 50 empleados en el caso de servicios y de 31 a 100 empleados en el caso de la industria, y (sic)
+XII.- MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida en las Reglas para Fomentar y Promover la Participación de Micro, Pequeñas y Medianas Empresas nacionales y Locales, en las Adquisiciones, Arrendamientos y Prestación de Servicios que realice la Administración Pública del Distrito Federal, publicadas en la Gaceta Oficial del Distrito Federal el 13 de noviembre de 2003;
 
-XIV.- Plan: Plan Estratégico para la Competitividad del Distrito Federal; el cual contendrá esquemas para la ejecución de acciones y participación de la (sic) autoridades del Distrito Federal;
+XIII.- Organizaciones Empresariales: Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante las autoridades del Distrito Federal;
 
-XV.- Reglamento: El Reglamento de esta Ley;
+XIV.- Pequeña empresa: La unidad económica que cuenta para el desarrollo de su actividad de 6 a 20 empleados en el caso de actividad comercial, de 21 a 50 empleados en el caso de servicios y de 31 a 100 empleados en el caso de la industria, y
 
-XVI.- Secretaria: Secretaría de Desarrollo Económico del Distrito Federal;
+XV.- Plan: Plan Estratégico para la Competitividad del Distrito Federal; el cual contendrá esquemas para la ejecución de acciones y participación de la (sic) autoridades del Distrito Federal;
 
-XVII.- Sector Público: Dependencias y Entidades de la Administración Pública del Distrito Federal;
+XVI.- Reglamento: El Reglamento de esta Ley;
 
-XVIII.- Sectores: Los sectores privado y social;
+XVII.- Secretaria: Secretaría de Desarrollo Económico del Distrito Federal;
 
-XIX.- Sistema: El Sistema Local para la Competitividad de la Micro, Pequeña y Mediana Empresa; y (sic)
+XVIII.- Sector Público: Dependencias y Entidades de la Administración Pública del Distrito Federal;
+
+XIX.- Sectores: Los sectores privado y social;
+
+XX.- Sistema: El Sistema Local para la Competitividad de la Micro, Pequeña y Mediana Empresa; y
 
 ###### Artículo 4.
 
@@ -233,8 +239,6 @@ VIII. Desarrollar a través de los instrumentos con que cuenta y los que genere,
 IX. Proponer a través de las instancias competentes, la homologación de la normativa y trámites, por lo que se refiere a la materia de la presente Ley, y
 
 X. Diseñar un esquema de seguimiento e identificación de resultados de los Programas de apoyo establecidos por el Gobierno del Distrito Federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
@@ -382,15 +386,11 @@ XIV. Divulgar los compromisos asumidos por el Estado Mexicano en los instrumento
 
 XV. Las demás que le encomiende el Jefe de Gobierno del Distrito Federal, para favorecer la operación y aplicación de los acuerdos tomados al seno del Consejo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ### CAPÍTULO QUINTO
 
 DEL ESTUDIO DE VIABILIDAD TÉCNICA, ECONÓMICA Y FINANCIERA DE LOS PROYECTOS PARA LOS CUALES SE SOLICITEN LOS APOYOS Y ENTREGA DEL FONDO PYME.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
@@ -398,13 +398,39 @@ DEL ESTUDIO DE VIABILIDAD TÉCNICA, ECONÓMICA Y FINANCIERA DE LOS PROYECTOS PAR
 
 Para la entrega de estímulos y aprobación de programas será necesario que los solicitantes entreguen un estudio de viabilidad técnica, económica y financiera de los proyectos para los cuales se solicitaron los apoyos del FONDO PYME. Dicho estudio se ejecutará de conformidad con el Artículo 47 de la Ley de Fomento para el Desarrollo Económico del Distrito Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADO, G.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 24.
 
 Los estudios de viabilidad técnica, económica y financiera para los cuales se solicitaron los apoyos del FONDO PyME, serán realizados por Instituciones Públicas y Colegios de Profesionales en el ramo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO VII (SIC). DEL FORTALECIMIENTO A LOS COMERCIOS DE BARRIO
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 25.
+
+La Secretaría de Ciencia, Tecnología e Innovación en conjunto con la Secretaría, llevarán a cabo acciones específicas para facilitar el uso de tecnología, la capacitación y la gestión a los comercios de barrio establecidos en la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 26.
+
+El objetivo de estas acciones es que estos comercios obtengan las condiciones necesarias de competitividad en el mercado, a través de la innovación en sus procesos y el uso de herramientas tecnológicas. Con el fin de fomentar el desarrollo económico local y la generación de empleos.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 27.
+
+La Secretaría de Ciencia, Tecnología e Innovación de la ciudad proporcionará para estos efectos la infraestructura tecnológica necesaria para el correcto desarrollo de las acciones.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 28.
+
+La Secretaría, a través del uso de sus instrumentos y entidades, proveerá para la ejecución de las acciones, fondos y capacitación necesarios y eficientes para cumplir con el objetivo.
 
 ...
 
@@ -426,7 +452,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los diecisiete días 
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II del Estatuto de Gobierno del Distrito Federal, expido el presente decreto promulgatorio en la residencia oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintidós días del mes de abril del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.-FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- FIRMA (SIC).-EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TURISMO, ALEJANDRO ROJAS DÍAZ DURÁN.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.O. 14 DE SEPTIEMBRE DE 2012.
 
@@ -437,3 +463,11 @@ SEGUNDO.- El presente Decreto entrará en vigor a los 120 días naturales siguie
 TERCERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y publicación y para su mayor difusión publíquese en el Diario Oficial de la Federación.
 
 CUARTO.- La Secretaría en un término de 90 días naturales a la entrada en vigor de la presente reforma, deberá instrumentar y firmar los convenios correspondientes con las Instituciones Públicas y Colegios de Profesionistas especialistas en el ramo, para su viabilidad técnica, económica y financiera de los proyectos para los cuales se soliciten los apoyos del FONDO PyME.
+
+G.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA EL DESARROLLO ECONÓMICO DEL DISTRITO FEDERAL Y DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL DISTRITO FEDERAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la (sic) presente Decreto.
