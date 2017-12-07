@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2017-10-27"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -20533,15 +20533,15 @@ DE LA PROPAGANDA POLÍTICA Y/O ELECTORAL
 
 Los anuncios políticos o electorales, se sujetarán a las disposiciones que al efecto disponga la Autoridad Municipal, de conformidad con los convenios que celebre con los diversos actores de este sector.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 1343 Bis.
 
-Queda estrictamente prohibido fijar, instalar, y ubicar anuncios políticos o electorales dentro de la Zona de Monumentos a que se refiere el artículo 1186 fracción XXX de este Código, aun cuando sean tiempos electorales, con la finalidad de salvaguardar el patrimonio histórico de la Ciudad de Puebla.
+Queda estrictamente prohibido fijar, instalar, anclar sujetar, exhibir, sobrevolar y ubicar anuncios políticos o electorales luminosos, fijos, semifijos o móviles, los de proyección óptica, así como la circulación de vehículos motorizados y no motorizados que cuenten con una base o estructura publicitaria, aeronaves tripuladas o no tripuladas, sin importar el tamaño o peso, el perifoneo, la instalación de lonas fijas o móviles, en:
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+I. La Zona de Monumentos a que se refiere el artículo 761 de este Código, con la finalidad de salvaguardar la imagen del patrimonio histórico de la Ciudad de Puebla.
 
-Quien infrinja lo dispuesto por el párrafo anterior, serán sancionados con una multa del equivalente al valor diario de 200 a 3,000 unidades de medida y actualización al momento de determinarla.
+Quienes infrinjan lo dispuesto por este artículo, serán sancionados con una multa del equivalente al valor diario de 200 a 3,000 unidades de medida y actualización al momento de determinarla.
 
 ###### Artículo 1344.
 
@@ -20551,27 +20551,37 @@ Los anuncios de carácter político y/o electoral, que en cualquier tiempo se pr
 
 Para los efectos específicos de los anuncios relativos a la propaganda política y/o electoral, se considerará como solidario responsable, a aquella persona cuya imagen aparezca en los anuncios de índole político y/o electoral referidos; y responderá solidariamente ante la autoridad municipal por todos y cada uno de los efectos que se deriven del incumplimiento a las disposiciones del presente Código Reglamentario Municipal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 1346.
 
-La Agencia autorizará la instalación de anuncios políticos o electorales, conforme lo estime conveniente, siempre y cuando dicha autorización no contravenga las disposiciones del presente Código y demás disposiciones aplicables.
+La Secretaría de Desarrollo Urbano y Sustentabilidad, autorizará la instalación de anuncios políticos o electorales, siempre y cuando dicha autorización no contravenga las disposiciones del presente Código y demás disposiciones aplicables.
 
-La Agencia determinará los lugares de uso común para la colocación de anuncios electorales, en bastidores, mamparas y elementos de equipamiento urbano, siendo éstos los únicos sitios para la colocación de los mismos.
+La Secretaría de Desarrollo Urbano y Sustentabilidad, determinará los lugares de uso común para la colocación de anuncios electorales, en bastidores, mamparas y elementos de equipamiento urbano, siendo éstos los únicos sitios para la colocación de los mismos.
 
-La colocación de todo anuncio electoral que no esté ubicado en los lugares autorizados deberá pagar los derechos correspondientes.
+La colocación de todo anuncio electoral que no esté ubicado en los lugares autorizados previamente por la Secretaría, deberá ser retirado dentro de un término de veinticuatro horas, contadas a partir del requerimiento realizado por la Secretaría, siendo obligación de la persona o instituto político que lo haya instalado cubrir el costo por su retiro.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+En caso de incumplir lo dispuesto en el párrafo anterior, se aplicará al infractor una multa equivalente al valor diario de 200 a 3,000 unidades de medida y actualización al momento de determinarla.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 1347.
 
-El Ayuntamiento acordará lo que estime conveniente, a efecto de salvaguardar la imagen urbana, procurando desde luego, que en la Zona de Monumentos declarada así mediante Decreto publicado en el Diario Oficial de la Federación de fecha dieciocho de noviembre de mil novecientos setenta y siete, no se coloque ningún tipo de anuncios políticos o electorales y que en las demás zonas del territorio del Municipio de Puebla, no se produzca contaminación visual ni colocación o fijación excesiva de este tipo de anuncios, independientemente de que la que sea colocada, deberá ser retirada por quienes tengan la calidad de responsables en términos del presente Capítulo, a más tardar en un término de diez días.
+El Ayuntamiento acordará lo que estime conveniente, a efecto de salvaguardar la imagen urbana procurando que en el territorio municipal, no se coloque ningún tipo de anuncios políticos o electorales que produzca contaminación visual, ni colocación o fijación excesiva de este tipo de anuncios, independientemente de que la que sea colocada, deberá ser retirada por el partido político, coalición, precandidato, candidato y/o candidato independiente en términos del presente Capítulo, a más tardar en un término de cinco días.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 1348.
 
-En caso de incumplimiento a lo dispuesto en el artículo anterior, se sancionará con multa del equivalente al valor diario de 1,000 unidades de medida y actualización al momento de determinarla, en el entendido de que las infracciones al presente Capítulo relativos a la propaganda electoral, se sujetarán a lo dispuesto por el artículo 1344 del presente ordenamiento. Lo anterior, independientemente de las sanciones a que se hagan acreedores por virtud de la aplicación del presente Código Reglamentario.
+Los partidos políticos, coaliciones, precandidatos, candidatos y candidatos independientes, deberán retirar la propaganda electoral dentro del plazo establecido en la legislación electoral, en caso de incumplir con el retiro dentro del plazo establecido, se sancionará con multa equivalente al valor diario de 1,000 unidades de medida y actualización al momento de determinarla, en el entendido de que las infracciones al presente Capítulo relativos a la propaganda electoral, se sujetarán a lo dispuesto por el artículo 1344 del presente ordenamiento. Lo anterior, independientemente de las sanciones a que se hagan acreedores por virtud de la aplicación del presente Código Reglamentario.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 1348 Bis.
+
+Los partidos políticos, coaliciones, precandidatos, candidatos y candidatos independientes, deberán utilizar en toda la propaganda electoral impresa, materiales reciclables o biodegradables, que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente; además deberán presentar a la Secretaría de Desarrollo Urbano y Sustentabilidad, previo a su uso, un plan de reciclaje de la propaganda que utilizarán durante su campaña.
+
+La Secretaría de Desarrollo Urbano y Sustentabilidad, dentro del plazo otorgado para el retiro de la propaganda político electoral, podrá establecer un Centro de Acopio para la recepción de la misma.
 
 ###### Artículo 1349.
 
@@ -24397,7 +24407,7 @@ Los esquilmos y desperdicios de la matanza corresponden en propiedad al Ayuntami
 
 ###### Artículo 1651.
 
-Si el servicio de rastro lo presta el Ayuntamiento, se hará ingresar mensualmente a la Tesorería Municipal el producto de la venta de los esquilmos, rindiendo un informe de tallado (sic) el manejo de esas materias residuales.
+Si el servicio de rastro lo presta el Ayuntamiento, se hará ingresar mensualmente a la Tesorería Municipal el producto de la venta de los esquilmos, rindiendo un informe de tallado (sic) del manejo de esas materias residuales.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -31501,7 +31511,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y reditúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -37370,3 +37380,11 @@ P.O. 27 DE OCTUBRE DE 2017.
 PRIMERO. La presente reforma, adición y derogación de diversas disposiciones del Libro Tercero, Capítulo 17 del Código Reglamentario para el Municipio de Puebla son de orden general y entrarán en vigor un día después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se concede un plazo de tres meses para que la Secretaría de Desarrollo Urbano y Sustentabilidad realice las propuestas de modificaciones y actualizaciones necesarias a su Reglamento Interno y el Manual de Procedimientos respectivo, y los presente ante el H. Ayuntamiento para su aprobación, así como la reingeniería interna para la correcta aplicación de la presente reforma.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 15 DE NOVIEMBRE DE 2017, POR EL QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE DESARROLLO URBANO Y MEDIO AMBIENTE, POR EL QUE REFORMA LOS ARTÍCULOS 1343 BIS, 1346, 1347, 1348 Y ADICIONA EL ARTÍCULO 1348 BIS DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, EN SU CAPÍTULO 18 DENOMINADO ANUNCIOS".]
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Gobierno del Estado de Puebla.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
