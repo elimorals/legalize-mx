@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2017-03-09"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2014-07-08"
 
 LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -674,6 +674,8 @@ El Consejo tendrá un carácter consultivo y honorífico, mediante el cual, el J
 
 De igual manera podrá plantear, para su consideración, acciones o bien modificaciones en las que ya realice la Administración Pública.
 
+> <small>(REFORMADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 20.
 
 Son facultades del Consejo Asesor:
@@ -684,13 +686,13 @@ II. Emitir opinión acerca de proyectos prioritarios de vialidad y transporte, a
 
 III. Participar en la formulación del Programa Integral de Movilidad, el Programa Integral de Seguridad Vial y los demás programas específicos para los que sea convocado por el Jefe de Gobierno el Secretario de Movilidad; y
 
-IV. Dar opinión sobre las herramientas de seguimiento, evaluación y control para la planeación de la movilidad.
+IV. Dar opinión sobre las herramientas de seguimiento, evaluación y control para la planeación de la movilidad. Los proyectos expuestos ante el Consejo Asesor de Movilidad y Seguridad Vial, serán evaluados con los estándares que garanticen la movilidad de acuerdo a esta Ley, dichas opiniones serán publicadas mediante un documento técnico, en el que se expondrán las resoluciones referidas en las fracciones anteriores, a efecto que sean considerados por el Jefe de Gobierno.
+
+> <small>(REFORMADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 21.
 
-El Consejo Asesor de Movilidad y Seguridad Vial se integrará por el Jefe de Gobierno que será su Presidente; el Secretario de Movilidad quien será su Presidente Suplente; los titulares de la Secretaría de Gobierno, Secretaría de Desarrollo Urbano, Secretaría del Medio Ambiente; Secretaría de Obras, Seguridad Pública, Secretaría de Finanzas, Oficialía Mayor y la Agencia, en calidad de consejeros permanentes; los titulares de los organismos descentralizados de transporte público en calidad de consejeros permanentes; cuatro representantes de las instituciones públicas de educación superior en calidad de consejeros permanentes; cuatro representantes de organizaciones de la sociedad civil en calidad de consejeros permanentes; el Presidente de la Comisión de Movilidad, Transporte y Vialidad de la Asamblea Legislativa del Distrito Federal y dos diputados que designe la Comisión de Gobierno de dicho órgano legislativo. Serán invitados permanentes los titulares de los órganos político administrativos del Distrito Federal.
-
-En cada delegación se instalará un Consejo Delegacional Asesor de Movilidad y Seguridad Vial que será presidido por el Jefe Delegacional, el cual se abocará a la temática de su demarcación, pudiendo poner a consideración del Consejo propuestas por realizar.
+El Consejo Asesor de Movilidad y Seguridad Vial se integrará por el Jefe de Gobierno que será su Presidente; el Secretario de Movilidad quien será su Presidente Suplente; los titulares de la Secretaria de Gobierno, Secretaría de Desarrollo Urbano, Secretaría del Medio Ambiente; Secretaría de Obras, Seguridad Pública, Secretaría de Finanzas, Oficialía Mayor y la Agencia, en calidad de consejeros permanentes; los titulares de los organismos descentralizados de transporte público en calidad de consejeros permanentes; cuatro representantes de las instituciones públicas de educación superior en calidad de consejeros permanentes y cuatro representantes de organizaciones de la sociedad civil en calidad de consejeros permanentes; el Presidente de la Comisión de Movilidad, Transporte y Vialidad de la Asamblea Legislativa del Distrito Federal y dos diputados que designe la Comisión de Gobierno de dicho órgano legislativo. Serán invitados permanentes los titulares de los órganos político administrativos del Distrito Federal. El Consejo deberá reunirse en sesiones cada tres meses, las cuales serán públicas y con (sic) se levantará acta de sesión. En cada Delegación se instalará un Consejo Delegacional Asesor de Movilidad y Seguridad Vial que será presidido por el Jefe Delegacional, el cual se abocará a la temática de su demarcación, pudiendo poner a consideración del Consejo propuestas por realizar.
 
 ###### Artículo 22.
 
@@ -740,7 +742,9 @@ El Comité de Promoción para el Financiamiento del Transporte Público, tiene c
 
 Son funciones del Comité de Promoción para el Financiamiento del Transporte Público:
 
-I. Crear a través de la figura del Fideicomiso, un fondo de promoción para el financiamiento del transporte público;
+> <small>(REFORMADA, G.O. 7 DE DICIEMBRE DE 2017)</small>
+
+I. Crear a través de la figura del fideicomiso, un Fondo de Promoción para el Financiamiento del Transporte Público; el cual deberá ser publicado en el portal oficial de la Secretaría conteniendo un informe detallado, de los conceptos y montos que para tal efecto se asignen.
 
 II. Proponer y aplicar conjuntamente con la Secretaría, en coordinación con otras dependencias, programas de financiamiento para la renovación y mejoramiento del parque vehicular e infraestructura del servicio de transporte público concesionado, brindando apoyo a través de bonos por el porcentaje del valor de la unidad que determine el Comité, tomando como base el presupuesto que autorice la Asamblea Legislativa para tal efecto;
 
@@ -2995,3 +2999,23 @@ CUARTO.- Se tienen por derogadas todas las disposiciones que contravengan el pre
 QUINTO.- El Jefe de Gobierno contará con treinta días para ajustar las disposiciones reglamentarias que contravengan el presente decreto.
 
 SEXTO.- El Jefe de Gobierno contará con treinta días para girar sus instrucciones a quien corresponda, para ajustar dentro de este periodo el programa "sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública" para no contravenir el presente decreto.
+
+G.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 20 Y 21 DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto. Fue entregado en el Recinto Legislativo a 08 de abril de 2016.
+
+G.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 30 FRACCIÓN I DE LA LEY DE MOVILIDAD PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
