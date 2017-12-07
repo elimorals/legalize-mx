@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2017-09-28"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -1383,6 +1383,10 @@ IV. Concluir con proposiciones claras y sencillas que puedan sujetarse a votaci�
 
 Cuando los dictámenes se refieran a la proposición de una iniciativa de Ley, Decreto o Acuerdo, contendrá una exposición clara y precisa de los motivos de la misma y el texto íntegro de los Artículos propuestos y en su caso de los que se pretenda reformar o derogar.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+Sólo para el caso de los dictámenes derivados de las iniciativas con proyectos de leyes de ingresos de los municipios, por mayoría simple de los diputados presentes, podrá dispensarse la lectura de los mismos, siempre y cuando el dictamen se haya hecho del conocimiento de los diputados integrantes de la Legislatura, al menos con cuarenta y ocho horas de anticipación a la sesión que corresponda; tanto en forma impresa como digital. De aprobarse la omisión de la lectura, la comisión competente deberá presentar ante el Pleno una síntesis de cada uno de los dictámenes con proyecto de Ley, Decreto o Acuerdo, según corresponda, y se procederá a su discusión y, en su caso, aprobación, en los términos que establece la Ley Orgánica del Poder Legislativo y el presente Reglamento.
+
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 126.
@@ -1954,3 +1958,11 @@ Se abroga el Decreto número 308, publicado en (sic) Periódico Oficial del Gobi
 ###### ARTÍCULO CUARTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 51.- POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 125 DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor una vez aprobado, debiéndose publicar en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
