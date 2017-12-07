@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2017-11-16"
+last_updated: "2017-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -67,9 +67,11 @@ La Comisión es un órgano constitucional autónomo, con personalidad jurídica 
 
 La sede de la Comisión es la Ciudad de Durango, sin perjuicio del establecimiento de Visitadurías y oficinas auxiliares en donde a juicio de la Comisión se requiera su instalación.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 3.
 
-Los procedimientos que se sigan ante la Comisión se regirán por los principios de inmediatez, concentración, gratuidad, eficiencia, rapidez, sencillez, profesionalismo y confidencialidad, procurando en todo momento la protección y respeto de los derechos humanos.
+Los procedimientos que se sigan ante la Comisión se regirán por los principios de universalidad, interdependencia, indivisibilidad, progresividad, inmediatez, concentración, gratuidad, eficiencia, rapidez, sencillez, profesionalismo y confidencialidad, procurando en todo momento la protección y respeto de los derechos humanos.
 
 ###### Artículo 4.
 
@@ -147,7 +149,17 @@ I. Recibir quejas de presuntas violaciones a los derechos humanos;
 
 II. Recibir denuncias y declaraciones por la comisión de delitos, turnándolas a la autoridad competente, de conformidad a lo establecido en la Ley General de Víctimas;
 
-III. Investigar, a petición de parte o de oficio, posibles violaciones a derechos humanos, derivado de los actos u omisiones de los servidores públicos en el desempeño de sus funciones o con motivo de ellas, incluyendo la falta o deficiencia en la prestación del servicio público;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+III. Conocer e Investigar, a petición de parte o de oficio, posibles violaciones a derechos humanos en los siguientes casos:
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+a) Por actos u omisiones de índole administrativo de los servidores públicos o de las autoridades estatales o municipales en el desempeño de sus funciones o con motivo de ellas, incluyendo la falta o deficiencia en la prestación del servicio público;
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+b) Cuando los particulares o algún otro agente social cometa hechos que la ley señale como delitos con tolerancia o anuencia de algún servidor público o autoridad local de Durango, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con los hechos que la ley señale como delito particularmente tratándose de conductas que afecten la integridad física de las personas.
 
 IV. Procurar la conciliación entre los quejosos y los servidores públicos señalados como responsables, así como la inmediata solución del conflicto planteado, cuando la naturaleza del caso lo permita, a excepción de violaciones graves a derechos humanos;
 
@@ -159,7 +171,9 @@ VII. Promover la observancia de los derechos humanos en el Estado;
 
 VIII. Presentar las iniciativas de leyes que promuevan las reformas en asuntos relativos a derechos humanos;
 
-IX. Proponer a las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, la aplicación de Tratados, Convenios y Acuerdos Internacionales en materia de derechos humanos signados y ratificados por el Estado Mexicano, así como las modificaciones de prácticas administrativas que redunden en una mejor protección de los derechos humanos;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+IX. Proponer a las diversas autoridades del Estado de Durango, en el ámbito de su competencia la formulación de proyectos a disposiciones legislativas y reglamentarias, así como de políticas y prácticas administrativas que, a juicio de la Comisión Estatal de Derechos Humanos de Durango, redunden en una mejor protección de los derechos humanos y garanticen la aplicación de Tratados, Convenios y Acuerdos Internacionales en materia de derechos humanos signados y ratificados por el Estado Mexicano;
 
 X. Promover el estudio, enseñanza, divulgación y prevención de los derechos humanos en el ámbito municipal y estatal; propiciando en la sociedad el desarrollo de esa cultura;
 
@@ -171,7 +185,33 @@ XIII. Colaborar con la Comisión Nacional durante las visitas de supervisión pe
 
 XIV. Expedir el Reglamento y el Reglamento del Servicio Profesional en Derechos Humanos, y
 
-XV. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XV. Elaborar y ejecutar programas preventivos en materia de derechos humanos, en los que se deberá incluir la capacitación a las autoridades estatales y municipales sobre en materia;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XVI. Practicar visitas e inspecciones a los Centros de Asistencia Social e Instituciones de Asistencia Privada donde se presten servicios asistenciales como son: casas hogares, casas asistenciales, instituciones y organismos que trabajen con la niñez, instituciones para el tratamiento y apoyo a enfermos mentales, instituciones donde se preste asistencia y apoyo a las personas con capacidades diferentes, a las personas adultas mayores, centros de asistencia e integración social, instituciones y centros de salud y demás establecimientos de asistencia social en Durango, para cerciorarse del absoluto respeto a los derechos humanos de los internos;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XVII. Solicitar a las autoridades o servidores públicos competentes, las medidas precautorias o cautelares que estime necesarias, con el propósito de conservar o restituir a una persona en el goce de sus derechos humanos. Las autoridades o servidores públicos a quienes se haya solicitado una medida precautoria o cautelar deberán comunicar a la Comisión dentro del plazo fijado por el visitador, que no podrá ser mayor de tres días, si la medida ha sido aceptada, informando en su caso, las acciones realizadas con ese fin, añadiendo la documentación que lo confirme. Las autoridades o servidores públicos están obligados a cumplirlas en sus términos una vez que admitan las medidas a que se refiere el presente párrafo. La Comisión podrá verificar su cumplimiento en cualquier tiempo;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Promover, dentro del ámbito de su competencia, el derecho de las personas a gozar de un medio ambiente adecuado para su desarrollo y bienestar;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XIX. Supervisar el debido respeto de los derechos humanos en las áreas de detención, retención, aseguramiento e internamiento del Estado, oficinas del Ministerio Público, reclusorios y sedes judiciales, para verificar que las autoridades hagan efectivos los derechos que se establecen en la Constitución Política de los Estados Unidos Mexicanos, en la Local y en los Tratados, convenciones o acuerdos internacionales que el Estado Mexicano haya ratificado en materia de detención y procesamiento;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XX. Desarrollar programas encaminados a la protección de la libertad de expresión y de los derechos humanos de los profesionales que ejercen el periodismo; y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XXI. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
 
 ## TÍTULO II. ESTRUCTURA DE LA COMISIÓN
 
@@ -185,9 +225,11 @@ La Comisión para el mejor desempeño de sus funciones contará con un Consejo i
 
 El Presidente y los cinco Consejeros de la Comisión, contarán respectivamente con un suplente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 15.
 
-El Presidente de la Comisión y los Consejeros, así como sus suplentes, serán designados por el Congreso del Estado, por el voto de las dos terceras partes de los Diputados presentes, previa convocatoria a consulta pública, expedida por el propio Congreso.
+El Presidente de la Comisión y los Consejeros, así como sus suplentes, serán designados por el Congreso del Estado, por el voto de las dos terceras partes de los Diputados presentes, previa convocatoria a consulta pública, expedida por el propio Congreso que garantice una amplia participación, transparencia e imparcialidad; además de una extensa consulta a los organismos públicos y privados promotores o defensores de los derechos humanos. Con base en la lista de los candidatos que hayan cumplido con los requisitos establecidos en la convocatoria y la consulta, la Comisión correspondiente del Congreso del Estado propondrá al pleno del mismo, una terna de candidatos de la cual se elegirá a quien ocupe el cargo o, en su caso, la ratificación del titular.
 
 El Presidente de la Comisión y los Consejeros, durarán en su cargo cinco años, pero sólo el Titular de la Comisión podrá ser ratificado por el Congreso del Estado, por una sola vez.
 
@@ -469,7 +511,9 @@ Todas las actuaciones del personal de la Comisión deberán hacerse constar en a
 
 Cualquier persona por si o a través de su representante legal podrá presentar queja por presuntas violaciones a sus derechos humanos ante las oficinas de la Comisión.
 
-Cuando los agraviados estén privados de su libertad o se desconozca su paradero, cualquier persona podrá presentar la queja por los hechos que presuntamente constituyan violaciones a los derechos humanos.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+Cuando los agraviados estén privados de su libertad o se desconozca su paradero, cualquier persona, inclusive menores de edad, podrá presentar la queja por los hechos que presuntamente constituyan violaciones a los derechos humanos.
 
 Las organizaciones no gubernamentales legalmente constituidas, podrán acudir ante la Comisión, para hacer del conocimiento probables violaciones de derechos humanos, respecto de personas que por sus condiciones físicas, mentales o culturales, no tengan la capacidad de presentar queja de manera directa.
 
@@ -485,9 +529,11 @@ La Comisión designará personal de guardia para recibir y atender las quejas o 
 
 Los procedimientos que se sigan ante la Comisión deberán ser breves, sencillos y estarán sujetos sólo a las formalidades esenciales que requiera la investigación de la queja y se procurará en la medida de lo posible establecer contacto directo con los quejosos y servidores públicos, para evitar la dilación de las comunicaciones escritas. En todos los casos se aplicará la suplencia de la queja.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 37.
 
-Las quejas que sean presentadas ante la Comisión deberán ser dentro del plazo de tres meses, contados a partir de la realización de los hechos que se estimen violatorios o de que el quejoso hubiese tenido conocimiento de los mismos. En casos excepcionales y tratándose de violaciones graves a los derechos humanos, la Comisión podrá ampliar dicho plazo mediante una resolución razonada.
+Las quejas que sean presentadas ante la Comisión deberán presentarse dentro del plazo de un año, contado a partir de la realización de los hechos que se estimen violatorios o de que el quejoso hubiese tenido conocimiento de los mismos. En casos de presuntas violaciones a los derechos a la vida, a la libertad y la integridad física y psíquica de las personas o de lesa humanidad, es decir, que atenten contra una comunidad o un grupo social en su conjunto, podrán presentarse en todo tiempo.
 
 ###### Artículo 38.
 
@@ -609,9 +655,19 @@ La falta de comunicación de aceptación o no de la Recomendación, dará lugar 
 
 En caso de la no aceptación de la Recomendación o derivado de su incumplimiento por el servidor público, éste deberá fundar, motivar y hacer pública su negativa. De igual forma, la Comisión podrá hacer del conocimiento de la opinión pública este hecho.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 59.
 
-Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por los servidores públicos, la Comisión dará vista al Congreso del Estado de tal situación, con el objeto de que cite al servidor público y éste comparezca a explicar el motivo de su negativa o incumplimiento.
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por la autoridad o los servidores públicos, la Comisión dará vista al Congreso del Estado de tal situación, con el objeto de que cite al servidor público y éste comparezca a explicar el motivo de su negativa o incumplimiento.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+La Comisión determinará si la fundamentación y motivación presentada por la autoridad o servidor público que se haya negado a aceptar o cumplir las recomendaciones emitidas son suficientes, lo cual notificará por escrito a la propia autoridad o al servidor público y, en su caso, al superior jerárquico.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+Las autoridades o servidores públicos, a quienes se les notificó la insuficiencia de la fundamentación y motivación de la negativa, informarán dentro de los diez días hábiles siguientes a la notificación del escrito referido, si persisten o no en la posición de no aceptar o no cumplir la recomendación. Si persiste la negativa, la Comisión lo deberá hacer del conocimiento de las autoridades competentes para que se proceda de acuerdo con las leyes de la materia.
 
 La legislación orgánica del Congreso del Estado regulará el procedimiento al que alude el párrafo anterior.
 
@@ -946,3 +1002,11 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto del presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 291.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que opongan al contenido del presente Decreto.
