@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2017-03-05"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -109,11 +109,11 @@ La función social educativa de las instituciones de educación superior a que s
 
 Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Estado de Durango.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 2.
 
-En el Estado de Durango la educación será integral. Todo individuo tiene derecho a recibir educación de calidad, por lo que todos sus habitantes deberán tener oportunidad de acceso al Sistema Educativo Estatal, con solo satisfacer los requisitos que establezca la normatividad correspondiente.
+En el Estado de Durango la educación será integral. Todo individuo tiene derecho a recibir educación de calidad en centros educativos que cuenten con la infraestructura física educativa que permita lograr el pleno desarrollo de los educandos bajo estándares de calidad, funcionalidad, oportunidad, equidad y sustentabilidad, por lo que todos sus habitantes deberán tener oportunidad de acceso al Sistema Educativo Estatal, con solo satisfacer los requisitos que establezca la normatividad correspondiente.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -131,9 +131,9 @@ Esta ley denominará educación básica al conjunto de enseñanzas denominadas e
 
 La educación es un proceso para acceder al conocimiento con el fin de lograr el desarrollo armónico de la persona en un entorno que fomente las libertades y la democracia como factor fundamental para la adquisición de conocimientos.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-En el proceso educativo, deberá asegurarse la participación activa de todos los involucrados, estimulando su iniciativa y su sentido de responsabilidad social, privilegiando la participación de los educandos y educadores, padres de familia y autoridades educativas, para alcanzar los fines a que se refiere el Artículo 9° y demás de la presente Ley.
+En el proceso educativo, deberá asegurarse la participación activa de todos los involucrados, estimulando su iniciativa y su sentido de responsabilidad social, privilegiando la participación de los educandos, educadores, autoridades educativas y padres de familia, mediante la implementación de mecanismos que promuevan su participación en el proceso educativo, para alcanzar los fines a que se refiere el Artículo 9º y demás de la presente Ley.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -267,6 +267,14 @@ XXII.- Desarrollar en la conciencia del educando la idea que sobre la base de la
 
 XXIII.- Promover mediante la enseñanza el conocimiento de la pluralidad lingüística de la nación y el respeto a los derechos lingüísticos de los pueblos indígenas. Los hablantes de lenguas indígenas, tendrán acceso a la educación obligatoria en su propia lengua y en español.
 
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XXIV.- Promover, mediante la aplicación de programas, la participación activa de los padres de familia en el proceso de enseñanza-aprendizaje de los educandos.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XXV.- Garantizar en todo momento el acceso adecuado a la información sobre salud sexual y reproductiva necesaria para su desarrollo integral, de forma oportuna y acorde a su edad.
+
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 9 Bis.
@@ -307,11 +315,11 @@ La Secretaría, en el marco del programa sectorial de educación, diseñará e i
 
 Corresponde al Congreso del Estado expedir las leyes que regulen el servicio educativo. El Titular del Poder Ejecutivo del Estado, expedirá los reglamentos necesarios para la aplicación de esta Ley. La Secretaría emitirá las disposiciones normativas de carácter administrativo, correspondientes al ámbito de su competencia.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 13.
 
-La creación de escuelas públicas es atribución exclusiva de la Secretaría, de los organismos facultados para ello y, en su caso, de los municipios; esta función pública se realizará con base en los estudios de planeación educativa que anualmente debe hacer dicha Secretaría, conforme a los criterios y procedimientos normativos correspondientes. Consecuentemente, sin autorización oficial expedida con base en la normatividad vigente, ninguna persona u organización puede crear escuelas públicas. Las que se creen al margen de la normatividad, serán legalmente inexistentes, los responsables se harán acreedores a las sanciones que procedan, de conformidad con las disposiciones legales aplicables.
+La creación de escuelas públicas es atribución exclusiva de la Secretaría, de los organismos facultados para ello y, en su caso, de los municipios; para la creación de escuelas públicas la Secretaría, por conducto del órgano competente, deberá promover la mejora de la infraestructura física educativa necesaria para la prestación del servicio, esta función pública se realizará con base en los estudios de planeación educativa que anualmente debe hacer dicha Secretaría, conforme a los criterios y procedimientos normativos correspondientes. Consecuentemente, sin autorización oficial expedida con base en la normatividad vigente, ninguna persona u organización puede crear escuelas públicas. Las que se creen al margen de la normatividad, serán legalmente inexistentes, los responsables se harán acreedores a las sanciones que procedan, de conformidad con las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -483,7 +491,9 @@ XVIII.- Ajustar el Calendario Escolar para cada ciclo lectivo de Educación Prim
 
 XIX.- Coordinarse con la autoridad educativa federal y con las autoridades municipales, para la distribución, uso y recuperación, en su caso, de libros de texto gratuito y demás materiales educativos complementarios;
 
-XX.- Editar libros y producir otros materiales didácticos distintos a los libros de texto gratuito; así como promover obras editoriales con la participación de intelectuales comprometidos con el desarrollo de la sociedad;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XX.- Editar libros y producir materiales didácticos distintos a los libros de texto gratuito; así como promover obras editoriales con la participación de intelectuales comprometidos con el desarrollo de la sociedad; en la edición de obras será obligatorio el uso de material reciclable.
 
 XXI.- Realizar estudios sistemáticos de diagnóstico, censales, de medición, de opinión y de evaluación del Sistema Estatal de Educación; así como de la demanda social educativa, para llevar a cabo la planeación anual para la prestación de servicios educativos suficientes y eficientes;
 
@@ -551,6 +561,10 @@ f) Garantizar que los planteles de educación básica y media superior o equival
 
 g) La Secretaría deberá coordinarse con la Secretaría de Salud, con la finalidad de detectar los cambios epidemiológicos de la obesidad, el sobrepeso y trastornos de la conducta alimentaria de los educandos de la entidad.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+h) Impulsar el máximo desarrollo personal, social y profesional, según sus capacidades físicas, sensoriales y psíquicas, incluyendo a cada institución educativa del sector público y privado con cuando menos, un profesional de la psicología por cada 300 alumnos, como factor protector y facilitador de competencias de vida para los alumnos, maestros y padres de familia. La Secretaría a tal efecto suscribirá convenios con instituciones de educación superior a efecto de que sus graduados realicen el servicio social en psicología y trabajo social en escuelas de nivel básico.
+
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
 
 XXXVII.- Fomentar la instalación de comedores o desayunadores escolares en los centros escolares de educación básica del Sistema Educativo Estatal. El Sistema Educativo Estatal, dentro de sus programas y acorde a sus posibilidades presupuestarias, procurará establecer acciones para garantizar que en los planteles educativos de educación básica se cuente con el servicio de profesionistas en nutrición, con la finalidad de:
@@ -593,9 +607,17 @@ XLlV.- Instrumentar un sistema accesible a los ciudadanos y docentes para la pre
 
 XLV.- Concertar acciones y establecer convenios con instituciones de educación superior, para que sus egresados presten servicio social en escuelas de las comunidades rurales, zonas urbanas marginadas y regiones habitadas por las comunidades indígenas de la Entidad.
 
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XLVI.- Disponer que en los planteles de Educación Básica y Media Superior, el número de alumnos en cada grupo de clase no exceda de 30.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 La Secretaría de Salud, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, realizará la vigilancia de las condiciones de higiene, del manejo y procesamiento de alimentos en los centros de distribución de alimentos ubicados en los centros de educación básica del Sistema Estatal de Educación y en los planteles incorporados al mismo.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 21 BIS.- Con el fin de prevenir la posesión de armas, estupefacientes, o demás sustancias similares u objetos prohibidos que pongan en riesgo la integridad física de los alumnos y maestros que laboran al interior de los centros educativos, la Secretaria de Educación en conjunto con la mesa directiva de los padres de familia correspondiente, bajo los lineamientos que apruebe el Consejo Estatal para Prevenir y Combatir la Violencia en la Escuela, podrán suscribir convenios para llevar a cabo la práctica de supervisiones periódicas a las pertenencias de los estudiantes de educación básica, estas se llevaran a cabo detalladamente en presencia de los alumnos sujetos a revisión, previo al acceso y dentro del centro escolar que corresponda. Lo anterior como una medida preventiva de seguridad a favor de la comunidad escolar. En todo caso, deberá existir la coordinación necesaria que favorezca el respeto a los derechos humanos, mediante la intervención del organismo protector estatal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -819,9 +841,11 @@ El Gobierno del Estado y las autoridades municipales, al elaborar sus programas 
 
 El Gobierno del Estado concurrirá al financiamiento de la educación pública de calidad y de los servicios educativos de su competencia, en los términos del presupuesto de egresos correspondiente. La Federación concurrirá al financiamiento de los servicios educativos, en los términos de los acuerdos suscritos con el Gobierno del Estado de Durango y aplicándose los recursos como lo ordena el Artículo 25 de la Ley General de Educación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 46.
 
-El Gobierno del Estado y los Ayuntamientos, en su caso, deberán considerar en sus presupuestos de egresos, las partidas anuales indispensables para el financiamiento de la educación pública, procurando que éstas sean crecientes, en términos reales.
+El Gobierno del Estado y los Ayuntamientos, en su caso, deberán considerar en sus presupuestos de egresos, las partidas anuales indispensables para el financiamiento de la educación pública y el mejoramiento de la infraestructura y servicios básicos en los centros escolares, procurando que éstas sean crecientes, en términos reales.
 
 El monto total del presupuesto educativo estatal y municipal, no será inferior al porcentaje presupuestal fijado para el ejercicio fiscal inmediato anterior.
 
@@ -912,6 +936,10 @@ La planeación del desarrollo del Sistema Educativo Estatal, se orientará a pro
 Habrá un Programa Sectorial de Educación, que desarrollará los lineamientos educativos del Plan Estatal de Desarrollo y se coordinará con las acciones previstas en el Programa Sectorial de Educación Federal. El Programa Sectorial de Educación será de cumplimiento obligatorio para las dependencias de la Secretaría, se elaborará en un plazo de seis meses a partir de la presentación del Plan Estatal de Desarrollo y tendrá vigencia sexenal, pudiendo ser modificado en el transcurso de su aplicación, si las necesidades así lo requieren.
 
 La planeación que realice la Secretaría, considerará la coordinación de acciones con la Federación y los Municipios, la concertación con los sectores social y privado y la inducción de acciones de los particulares.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+El programa sectorial de Educación establecerá que en las Escuelas Oficiales de nivel básico y media superior, los grupos de clase no podrán exceder de 30 alumnos.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -1116,6 +1144,26 @@ La Secretaría actuará para mejorar la equidad entre instituciones educativas, 
 ###### ARTICULO 77.
 
 La Secretaría instrumentará Programas Educativos de Apoyo, dirigidos de manera preferente, a los grupos sociales y regiones con mayor rezago educativo, que enfrenten condiciones económicas, culturales y sociales de desventaja o a personas con problemas de discapacidad mental o física. En la aplicación de estos Programas, tendrán prioridad los educandos de 6 a 15 años de edad. Igualmente desarrollará de manera permanente, programas especializados, a fin de prevenir y atender casos de cualquier tipo de maltrato entre los estudiantes, evitando el acoso y la discriminación escolar.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 77 BIS.- La Secretaría, deberá incluir dentro del Sistema Estatal Educativo a toda persona con cualquier tipo de discapacidad física, mental y sensorial, así mismo deberá facilitarle el acceso a los planteles educativos.
+
+Toda institución educativa que tenga inscritos educandos que presenten algún tipo de discapacidad de las mencionadas en el párrafo anterior, deberá elaborar un padrón informativo, el cual entregará a la Secretaría de Educación Pública, para que a su vez, les proporcione los apoyos necesarios para su correcta instrucción y desarrollo integral.
+
+Además la Secretaría deberá fomentar y garantizar la inclusión de las niñas, niños y los adolescentes con discapacidad, de la siguiente manera:
+
+I.- Establecer mecanismos a fin de que las niñas, niños y adolescentes con discapacidad gocen del derecho a la admisión gratuita y obligatoria, así como a la atención personalizada, en las instituciones donde se imparta educación inicial o preescolar;
+
+II.- Incorporar a los docentes y personal asignado que intervengan directamente en la integración educativa de personas con discapacidad, al Sistema Nacional de formación, actualización, capacitación y superación profesional para maestros de educación básica;
+
+III.- Proporcionar a los estudiantes con discapacidad, materiales y ayudas técnicas que apoyen su rendimiento académico, procurando equipar los planteles y centros educativos con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas invidentes o débiles visuales y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad;
+
+IV.- Incluir la enseñanza del Sistema de Escritura Braille y la Lengua de Señas Mexicana en la educación pública y privada, que complementen los conocimientos de los alumnos con discapacidad;
+
+V.- Implementar las modificaciones en infraestructura a los centros educativos, como accesos, rampas, baños, áreas verdes y aulas para personas con discapacidad, y
+
+VI.- Las demás que dispongan otros ordenamientos.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2041,9 +2089,9 @@ XI.- Opinar a través de los Consejos de Participación respecto a las actualiza
 
 XII.- Conocer el presupuesto asignado a cada escuela, así como su aplicación y los resultados de su ejecución; y
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-XIII.- Presentar quejas ante las autoridades educativas correspondientes, en los términos establecidos en el artículo 14, fracción XII Quintus de la Ley General de Educación, sobre el desempeño de docentes, directores, supervisores y asesores técnico pedagógicos de sus hijas, hijos o pupilos menores de edad y sobre las condiciones de la escuela a la que asisten.
+XIII.- Presentar quejas ante las autoridades educativas correspondientes, en los términos establecidos en el artículo 14, fracción XII Quintus de la Ley General de Educación, sobre el desempeño de docentes, directores, supervisores y asesores técnico pedagógicos de sus hijas, hijos o pupilos menores de edad, así como respecto del uso de uniformes exclusivos, distintos a los oficiales y esto sea motivo de exclusión a educandos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2074,6 +2122,10 @@ VI.- Vigilar que los planteles escolares de educación pública, con todos sus a
 > <small>(ADICIONADA, P.O. 27 DE MARZO DE 2011)</small>
 
 VII.- Promover en sus hijas, hijos o pupilos hábitos alimenticios saludables y actividades físicas para la salud y el deporte.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Acudir de manera periódica a verificar el estado que guardan las evaluaciones a que son sujetos los educandos, con el fin de coadyuvar en el proceso educativo de sus hijos.
 
 #### Sección 2. De las Asociaciones de Padres de Familia
 
@@ -2127,21 +2179,59 @@ II.- En cada municipio operará un consejo municipal de participación social en
 
 III.- En cada escuela pública de educación básica operará un consejo escolar de participación social en la educación, integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de escuela, exalumnos, así como con aquellos miembros de la comunidad interesados en el desarrollo de la propia escuela, que realizará las actividades señaladas en el Artículo 69 de la Ley General de Educación, además vigilará y denunciará ante la autoridad correspondiente, el incumplimiento a lo dispuesto por el Artículo 9, fracciones XVIII y XIX, Artículo 21, fracción XXXVI, incisos d), e) y f) del presente ordenamiento.
 
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ÚLTIMO PÁRRAFO DE ESTA FRACCIÓN], P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+El consejo escolar de participación social aplicará estrategias de supervisión y vigilancia del cumplimiento de la normatividad aplicable a los centros de distribución de alimentos que funcionen en los centros escolares de educación básica del Sistema Educativo Estatal y los planteles incorporados al mismo; de igual forma propiciará la colaboración de maestros y padres de familia para salvaguardar la integridad y educación plena de las y los educandos, a través de la revisión de sus útiles escolares al momento del ingreso a la institución educativa correspondiente.
+
 Los Consejos de Participación Social, en sus niveles de Escolar, Municipal y Estatal, tienen como propósito, establecer y fortalecer los vínculos entre escuela y comunidad, para lograrlo, podrán implementar proyectos escolares, fundamentados en la experiencia diaria, el criterio y la vocación de servicio de sus integrantes.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 Los proyectos escolares, se materializarán en planes de trabajo con objetivos, metas, estrategias y actividades bien definidas, que coadyuven a la estructuración del perfil del duranguense que se desea formar y a la participación organizada de los padres de familia y la comunidad en las tareas educativas, para reducir la reprobación y la deserción escolar, mejorar la planta física de la institución, y en general, incrementar de manera significativa la calidad de la educación.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-El consejo escolar de participación social aplicará estrategias de supervisión y vigilancia del cumplimiento de la normatividad aplicable a los centros de distribución de alimentos que funcionen en los centros escolares de educación básica del Sistema Educativo Estatal y los planteles incorporados al mismo.
+IV.- Un Consejo Estatal para Prevenir y Combatir la Violencia en la Escuela, el cual estará integrado por los titulares de las siguientes entidades estatales, o quien éstos designen:
+
+a) El Gobernador del Estado, quien fungirá como presidente del Consejo.
+
+b) La Secretaría de Educación, quien será el Secretario Técnico del Consejo.
+
+c) La Secretaría de Seguridad Pública.
+
+d) La Fiscalía General del Estado.
+
+e) La Comisión de Derechos Humanos del Estado de Durango.
+
+Al Consejo corresponderá:
+
+1.- Reglamentar su funcionamiento
+
+2.- Elaborar los indicadores sobre la incidencia de la violencia escolar en el estado.
+
+3.- Formular los Protocolos de actuación para directivos, directivos (sic), maestros, alumnos, padres de familia y trabajadores de los planteles educativos, que permitan responder adecuadamente y dentro del marco de respeto a los derechos humanos a situaciones de violencia en el entorno escolar.
+
+4.- Sesionar al menos cada seis meses en forma ordinaria, y cada vez que sea necesario en forma extraordinaria. El presidente del Consejo emitirá la convocatoria correspondiente, señalando fecha, hora y lugar de la sesión; los acuerdos se considerarán válidos cuando asista la mitad más uno de los miembros.
+
+f) Deliberar y tomar decisiones por mayoría simple de los miembros asistentes a la sesión.
+
+g) Invitar a las sesiones del Consejo, a especialistas en la temática de violencia escolar para emitir alguna opinión o análisis.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+V. Los miembros del Consejo para Prevenir y Combatir la Violencia en la Escuela tendrán voz y voto en las sesiones; el presidente tendrá voto de calidad en caso de empate. Sus cargos serán honoríficos y no recibirán remuneración económica por su desempeño.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 176.
 
 Los consejos de participación social en la educación tendrán las funciones que establece la Ley General de Educación y se regirán por los lineamientos generales que emita la autoridad educativa federal; se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas y religiosas.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 176 BIS.- En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la Infraestructura Física Educativa en las escuelas públicas estatales deberán cumplirse las disposiciones de la Ley General de la Infraestructura Física Educativa. Las escuelas públicas estatales y privadas deberán contar con infraestructura física, para evitar la exposición directa al sol en las actividades cívicas, culturales, deportivas, recreativas y de esparcimiento de los educandos.
+
+La Secretaría establecerá acciones prioritarias para la construcción, en escuelas públicas estatales, de la infraestructura física a la que se refiere el presente artículo, en regiones o zonas donde se detecten grupos en situación de vulnerabilidad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2212,6 +2302,10 @@ XVI.- Expulsar o negarse a prestar el servicio educativo a personas que presente
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2014)</small>
 
 XVII.- Incumplir con las medidas correctivas derivadas de las visitas de inspección o supervisión.
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+XVIII.- A quienes restrinjan el derecho humano consagrado en el artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, en relación con el artículo 22 de la Constitución Política del Estado Libre y Soberano de Durango y no permitan la entrada de alumnos a la institución de educación por motivo de falta de uniforme, o bien, porque este no sea de una marca determinada o por quererse imponer un solo proveedor autorizado por la institución educativa, serán objeto de una multa de cincuenta a doscientas cincuenta veces el equivalente a la Unidad (sic) Medida y Actualización, sin perjuicio de las sanciones penales que corresponda.
 
 Las disposiciones de este artículo no son aplicables a los Trabajadores de la Educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas para ello.
 
@@ -2476,3 +2570,23 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 246.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado, de manera gradual desde la entrada en vigor del presente Decreto hasta el 2020 deberá prever en las respectivas Leyes de Egresos del Estado, las partidas presupuestales necesarias para dar cumplimiento a lo dispuesto en el mismo, a fin de que en el ciclo escolar 2020 - 2021 estén cubiertas todas las necesidades de infraestructura escolar.
+
+###### ARTÍCULO TERCERO.
+
+LA Secretaría tomará las medidas necesarias para que en un plazo no mayor a siete años contados a partir de la entrada en vigor del presente decreto, todas las Escuelas Publicas de Educación Básica y Media Superior, cuenten con la estructura física consistente en Domos, Techumbres o Estructuras Análogas, comenzando por las Escuelas que presentan mayor necesidad, de acuerdo con la situación que están viviendo actualmente en nuestro Estado.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
