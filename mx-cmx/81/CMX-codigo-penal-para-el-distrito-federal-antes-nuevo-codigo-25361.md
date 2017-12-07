@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2017-10-30"
+last_updated: "2017-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE DICIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -656,21 +656,17 @@ Si son de uso lícito, se decomisarán sólo cuando el sujeto haya sido condenad
 
 > <small>(REFORMADO, G.O. 30 DE ENERO DE 2013)</small>
 
-###### ARTÍCULO 54.
-
-(Destino de los objetos asegurados o decomisados). La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, que se encuentren asegurados o decomisados, al pago de la reparación de los daños y perjuicios causados, al de la multa o en su defecto, según su utilidad, a los Fondos de Apoyo a la Procuración y Administración de Justicia, según corresponda.
+ARTÍCULO 54 (Destino de los objetos asegurados o decomisados). La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, que se encuentren asegurados o decomisados, al pago de la reparación de los daños y perjuicios causados, al de la multa o en su defecto, según su utilidad, a los Fondos de Apoyo a la Procuración y Administración de Justicia, según corresponda.
 
 Respecto del aseguramiento de animales vivos, se canalizaran a lugares adecuados para su debido cuidado, siendo que en el caso de los animales domésticos, las asociaciones u organizaciones protectoras o dedicadas al cuidado de animales debidamente constituidas, podrán solicitar en cualquier momento al Ministerio Público o Juez correspondiente, su resguardo temporal y tendrán preferencia para obtener la posesión definitiva de los mismos por resolución judicial que así lo determine. Las personas que resulten responsables por el delito de maltrato o crueldad hacia los animales, perderán todo derecho sobre los animales que hayan tenido bajo su custodia o resguardo.
 
-> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.O. 7 DE DICIEMBRE DE 2017)</small>
 
-###### ARTÍCULO 55.
+ARTÍCULO 55 (Destino de los Bienes Abandonados). Los bienes que se encuentren a disposición de la autoridad judicial que no hayan sido decomisados y que no hayan sido recogidos por quien tenga derecho a ello, o a disposición de la autoridad investigadora y que no hayan sido recogidos por quien tenga derecho a ello, en un plazo de veinte días naturales contados a partir de la notificación al interesado de la resolución judicial o determinación ministerial que ordene su devolución, a partir de que fenezca el término de notificación por la que se requiere al interesado para acreditar la propiedad del bien causarán abandono a favor de la institución ante la cual se encuentren a disposición ya sea la Procuraduría General de Justicia o del Tribunal Superior de Justicia, ambos del Distrito Federal, y podrán ser enajenados, destruidos o aprovechados y, de ser el caso, el producto se aplicará a los Fondos de Apoyo a la Procuración o Administración de Justicia en el Distrito Federal, según proceda.
 
-(Destino de los bienes abandonados).Los bienes que se encuentren a disposición de la autoridad judicial que no hayan sido decomisados y que no hayan sido recogidos por quien tenga derecho a ello, o a disposición de la autoridad investigadora y que no hayan sido recogidos por quien tenga derecho a ello, en un plazo de ochenta días naturales contados a partir de la notificación al interesado, causarán abandono a favor de la Procuraduría General de Justicia del Distrito Federal y del Tribunal Superior de Justicia del Distrito Federal, y podrán ser repartidos, según convenio que celebren ambas instituciones, o enajenados, y el producto se aplicará a los Fondos de Apoyo a la Procuración y Administración de Justicia en el Distrito Federal, en partes iguales.
+Respecto a la enajenación referida en el párrafo anterior, deberá contarse con el avalúo respectivo, y para tal efecto, la Procuraduría General de Justicia del Distrito Federal, podrá celebrar convenios con instituciones públicas.
 
-Respecto a la enajenación referida en el párrafo anterior, deberá contarse con el avalúo respectivo, y para tal efecto, la Procuraduría General de Justicia del Distrito Federal, podrá celebrar convenios con instituciones públicas o privadas.
-
-El acuerdo por el que se determine que los bienes han causado abandono deberá notificarse personalmente o mediante edictos, que se pagarán a partes iguales con recursos de los fondos mencionados.
+El acuerdo por el que se determine que los bienes han causado abandono deberá notificarse personalmente en el domicilio del interesado, por estrados, por boletín judicial o mediante edictos que se pagarán con recursos de los fondos mencionados, según proceda y el listado de los bienes se podrá publicar en algún medio electrónico.
 
 ### CAPÍTULO VIII. SUSPENSIÓN O PRIVACIÓN DE DERECHOS, DESTITUCIÓN E INHABILITACIÓN PARA EL DESEMPEÑO DE CARGOS, COMISIONES O EMPLEOS
 
@@ -5811,3 +5807,11 @@ G.O. 30 DE OCTUBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 7 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y LA LEY DEL FONDO DE APOYO A LA PROCURACIÓN DE JUSTICIA EN EL DISTRITO FEDERAL".]
+
+PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
