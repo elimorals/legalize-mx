@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2017-10-06"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -73,7 +73,9 @@ Discriminación en el Estado de Coahuila de Zaragoza;
 
 IV. Dirección: La Dirección para Promover la Igualdad y Prevenir la Discriminación en el Estado de Coahuila de Zaragoza;
 
-V. Discapacidad: Toda restricción o ausencia de la capacidad de realizar alguna actividad en la forma o dentro del margen que se considera normal para un ser humano;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+V. Discapacidad: Es el resultado de la interacción entre las personas con diversidad funcional y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE ENERO DE 2017)</small>
 
@@ -1216,3 +1218,11 @@ P.O. 6 DE OCTUBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1030.- SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 3 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Gobierno del Estado.
