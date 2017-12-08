@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-asistencia-y-prevencion-de-la-violencia-22179"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-15"
-last_updated: "2005-03-22"
+last_updated: "2017-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 8 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Oaxaca, sábado 15 de septiembre del 2001.
 
@@ -406,3 +408,15 @@ AL C...
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 744.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Los procedimientos iniciados con anterioridad a la entrada en vigor de estas reformas, serán concluidos conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+TERCERO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
+
+CUARTO. Se abroga la Ley de Asistencia y Prevención de la Violencia lntrafamiliar para el Estado de Oaxaca emitida mediante Decreto número 335 de la Quincuagésima Séptima Legislatura Constitucional del Estado Libre y Soberano de Oaxaca.
