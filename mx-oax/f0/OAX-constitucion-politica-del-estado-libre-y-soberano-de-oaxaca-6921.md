@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2017-11-30"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -2147,6 +2147,10 @@ El ciudadano que substituyere al Gobernador Constitucional, en caso de falta abs
 
 El ciudadano que haya ocupado el cargo de Gobernador del Estado, por elección ordinaria o extraordinaria o con el carácter de interino, provisional o sustituto, en ningún caso y por ningún motivo podrá volver a ocupar el cargo de Gobernador en cualquiera de sus modalidades.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+Una vez concluido su periodo, la persona que haya ocupado el cargo de Gobernador no tendrá derecho a haber de retiro alguno, así como tampoco a prestaciones o beneficios humanos, materiales o económicos provenientes del erario estatal.
+
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 76.
@@ -3165,7 +3169,13 @@ III. Conocer de las quejas que presenten los pueblos y comunidades indígenas y 
 
 IV. Todo servidor público está obligado a responder las recomendaciones que les presenten estos órganos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. Ante el incumplimiento reiterado de sus recomendaciones, la Defensoría podrá hacerlas del conocimiento del Congreso y de la autoridad que estime pertinente para los efectos procedentes; y
 
-V. Las demás que le atribuyan esta Constitución y las leyes.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+V. A la Defensoría de los Derechos Humanos del Pueblo de Oaxaca le corresponde velar en el establecimiento de sus políticas públicas, así como en los actos que realice; salvaguarde y promueva la correcta aplicación y cumplimiento del principio del Interés Superior de la niñez, así como observar que se respeten y garanticen los Derechos de las Niñas, Niños y Adolescentes;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+VI. Las demás que le atribuyan esta Constitución y las leyes.
 
 El titular de la Defensoría será designado por el voto de las dos terceras partes de los integrantes del Congreso del Estado, durará siete años en el cargo, sin posibilidad de reelección, y será sustituido en los términos que determinen las leyes aplicables, las cuales fijarán los requisitos y procedimientos para la postulación de aspirantes, a través de convocatoria pública y consulta abierta, atendiendo a la idoneidad, experiencia y honorabilidad, así como a los principios de pluralidad, equidad de género, apartidismo y no discriminación. No será elegible quien, en los dos últimos años anteriores al día de su designación, haya sido legislador local o federal, se haya desempeñado como servidor público de mando superior de la Federación, del Estado o de los Ayuntamientos, o hubiese ocupado cargo directivo en partido político.
 
@@ -4908,3 +4918,17 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 741.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Inmediatamente después de entrado en vigor el presente Decreto, la Secretaría de Finanzas del Gobierno del Estado de Oaxaca cancelará cualquier prestación consistente en recursos económicos, materiales o humanos que estuviere otorgando a cualquiera de los ExGobernadores de Oaxaca, y dentro de los diez días siguientes, le remitirá a esta Honorable Legislatura un informe pormenorizado de las prestaciones concedidas a los ExGobernadores hasta la entrada en vigor del presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 742.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del segundo año del ejercicio constitucional de la Sexagésima Tercera Legislatura del Congreso del Estado. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
