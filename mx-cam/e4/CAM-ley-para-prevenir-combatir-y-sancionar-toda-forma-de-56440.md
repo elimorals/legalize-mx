@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2016-12-05"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -99,11 +99,13 @@ XII. Persona en situación de calle: Todo ser humano quien sin contar con un esp
 
 XIII. Pueblos indígenas: Aquellos grupos que se consideren así por el hecho de descender de poblaciones que habitaban en el país y que, cualquiera que sea su situación jurídica, conservan sus instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 6.
 
-Se considerará como discriminación toda distinción, exclusión o restricción que, basada en el origen étnico o social, el sexo, la lengua, la religión, la condición social o económica, la edad, la discapacidad, la talla pequeña, las condiciones de salud, embarazo, la apariencia física, la orientación sexual, la identidad de género, el estado civil, la ocupación o actividad, o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de las garantías fundamentales, así como la igualdad real de oportunidades de las personas.
+Se considerará como discriminación toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, así como la igualdad real de oportunidades de las personas, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la talla pequeña, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo.
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia.
 
 ###### Artículo 7.
 
@@ -173,7 +175,9 @@ I. Limitar o impedir el libre acceso a la educación pública o privada, así co
 
 II. Incorporar en cualquier institución educativa pública o privada, metodología o instrumentos pedagógicos en los que se señalen aspectos contrarios a la igualdad, o que difundan una condición de subordinación;
 
-III. Prohibir la libertad de elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+III. Prohibir la libertad de elección de empleo, o restringir las oportunidades de acceso, permanencia y ascenso en el mismo, especialmente por razón de género, preferencias sexuales, apariencia física o por estereotipos sexistas;
 
 IV. Establecer diferencias en la remuneración, las prestaciones y las condiciones laborales para trabajos iguales;
 
@@ -247,7 +251,9 @@ I. Fortalecer los servicios de prevención, detección y tratamiento de enfermed
 
 II. Llevar a cabo una política local que promueva, la igualdad de oportunidades y de trato en materia de empleo y ocupación, con objeto de erradicar cualquier discriminación a este respecto;
 
-III. Fomentar campañas de sensibilización dirigidas a los empleadores para evitar toda forma de discriminación en la contratación, capacitación, ascenso o permanencia en el empleo de las personas o al fijar sus condiciones de trabajo;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+III. Fomentar campañas de sensibilización dirigidas a los empleadores para evitar toda forma de discriminación en la contratación, capacitación, ascenso o permanencia en el empleo de las personas o al fijar sus condiciones de trabajo, con la finalidad de que ninguna persona física o moral realice actos discriminatorios en las convocatorias de ofertas laborales.
 
 IV. Elaborar una agenda de empleo para los grupos en situación de discriminación, que sirva de instrumento de apoyo a la inserción profesional y laboral de sus demandas de empleo;
 
@@ -542,3 +548,11 @@ P.O. 5 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 93 POR EL QUE “SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 5, SE REFORMA EL ARTÍCULO 6 Y LAS FRACCIONES VI Y VII DEL ARTÍCULO 16 DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
 
 Único. El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 215 POR EL QUE “SE REFORMAN EL ARTÍCULO 6, LA FRACCIÓN III DEL ARTÍCULO 15 Y LA FRACCIÓN III DEL ARTÍCULO 16 DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarías que se opongan al presente decreto.
