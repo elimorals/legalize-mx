@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2014-03-12"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE EDUCACION DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 12 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -145,8 +145,6 @@ III.- Fomentar el aprecio a la dignidad humana y a la integridad de la familia, 
 
 IV.- Alcanzar, mediante la enseñanza de la lengua nacional, un idioma común para todos los mexicanos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 V.- Fomentar, promover y preservar el uso y defensa de las lenguas autóctonas, y en particular de la lengua maya;
@@ -187,49 +185,41 @@ XIX.- Excluir de la enseñanza toda instrucción y propaganda de cualquier credo
 
 XX.- Reafirmar la democracia como un sistema de vida a través de la forma de gobierno republicano, representativo y federal;
 
-XXI.- Enaltecer los derechos individuales y sociales y postular la paz universal, basada en el reconocimiento de los derechos económicos, políticos y sociales de las naciones, y (sic)
+XXI.- Enaltecer los derechos individuales y sociales y postular la paz universal, basada en el reconocimiento de los derechos económicos, políticos y sociales de las naciones, y
 
 XXII.- Promover en el educando el conocimiento integral de su medio físico inmediato, la región donde se desarrolla y el territorio del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 XXIII.- Fomentar actitudes de aprecio al estudio, al trabajo y a la vida;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 XXIV.- Fomentar la educación para una sexualidad responsable;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2012)</small>
 
 XXV. Fomentar el respeto a los derechos de la mujer y propiciar su pleno desarrollo e igualdad dentro de la sociedad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2012)</small>
 
 XXVI. Fomentar el respeto a los derechos de la niñez y la adolescencia, de los adultos mayores y de las personas con discapacidad;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
 
 XXVII. Fomentar la educación inclusiva y de valoración a la diversidad como una condición de enriquecimiento social y cultural, sin discriminación, de acuerdo con lo que establecen los artículos 1° y 3° de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2012)</small>
 
 XXVIII. Procurar que a las personas con discapacidad se les respete su derecho de acceso y permanencia en todos los niveles y modalidades del sistema educativo estatal, sin discriminación, con equidad y en igualdad de condiciones; y
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XXIX. Procurar que la educación estatal básica, en sus tres niveles, cuente con adaptaciones suficientes respondiendo a las características lingüísticas y culturales de los diversos grupos indígenas y migratorios ubicados en el Estado de Campeche.
+XXIX. Procurar que la educación estatal básica, en sus tres niveles, cuente con adaptaciones suficientes respondiendo a las características lingüísticas y culturales de los diversos grupos indígenas y migratorios ubicados en el Estado de Campeche; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XXX.- Fomentar la educación y la cultura vial dentro de los programas de estudio de las instituciones públicas y privadas, a fin de enseñar entre los educandos conocimientos, hábitos, valores cívicos y éticos que tengan como finalidad la prevención de accidentes viales.
 
 ### CAPITULO III. AMBITO DE APLICACION
 
@@ -373,7 +363,7 @@ XVII.- Ejercer las demás funciones que en materia educativa otorgue la Ley Org�
 
 XVIII.- Ejercer, en el ámbito de su competencia, todas aquellas funciones que de manera concurrente sean atribuidas a la Federación y que no se encuentren reguladas de manera específica en la presente ley, de conformidad con el artículo 3 de este ordenamiento;
 
-XIX.- Elaborar el presupuesto general del ramo, y (sic)
+XIX.- Elaborar el presupuesto general del ramo, y
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1097,7 +1087,7 @@ II.- Administrar las cooperaciones en numerario que obtengan o aporten sus miemb
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
-III.- Representar ante las autoridades escolares, los intereses que en materia educativa sean comunes, y (sic)
+III.- Representar ante las autoridades escolares, los intereses que en materia educativa sean comunes, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1432,3 +1422,11 @@ QUINTO.- El personal mencionado en el artículo anterior, se ajustará a los pro
 El personal que no se sujete a los procesos de evaluación o no se incorpore a los programas de regularización del artículo 53 de Ley General del Servicio Profesional Docente, será separado del servicio público sin responsabilidad para la autoridad educativa o el organismo descentralizado, según corresponda.
 
 SEXTO.- El Programa de Carrera Magisterial seguirá funcionando en tanto entra en vigor el nuevo programa mencionado en el artículo 37 de la Ley General del Servicio Profesional Docente. Los beneficios adquiridos por el personal no podrán ser afectados en el tránsito al nuevo programa; y, se conservarán íntegramente.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 214 POR EL QUE "SE ADICIONA UNA FRACCIÓN XXX AL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
