@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-las-personas-adultas-mayores-para-el-965
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-08"
-last_updated: "2015-12-29"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de noviembre de 2013.
 
@@ -147,21 +147,29 @@ Son derechos de las personas adultas mayores todos los conferidos por la Constit
 
 Sin perjuicio de lo establecido en el párrafo anterior, las personas adultas mayores cuentan con los siguientes derechos:
 
-I. De integridad, dignidad y preferencia:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-a) A tener una vida de calidad. Es obligación de la familia, así como de los órganos estatales y municipales de gobierno y de la sociedad, garantizar a las personas adultas mayores el acceso a los mecanismos que permitan el ejercicio de este derecho;
+I. De integridad, dignidad en la vejez y preferencia:
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+a) A tener una vida de calidad. Es obligación de la familia, así como de los órganos estatales y municipales de gobierno y de la sociedad, garantizar a las personas adultas mayores el acceso a los mecanismos que permitan el ejercicio y goce efectivo de este derecho, en igualdad de condiciones con otros sectores de la población;
 
 b) A ser reconocidas y respetadas en su calidad de seres humanos, y en su integridad física, psico-emocional y sexual;
 
 c) A la no discriminación;
 
-d) A una vida libre de violencia;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+d) A una vida libre de violencia y maltrato;
 
 e) A la protección contra cualquier forma de explotación;
 
 f) A expresar libremente su opinión;
 
-g) A recibir protección por parte de la familia, la comunidad y la sociedad, así como de las instituciones federales, estatales y municipales;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+g) A recibir protección por parte de la familia, la comunidad y la sociedad, así como de las instituciones federales, estatales y municipales para el desarrollo de una vida autónoma e independiente conforme a sus circunstancias, tradiciones y creencias;
 
 h) A vivir en un entorno seguro, digno y decoroso, que cumpla con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos;
 
@@ -195,9 +203,13 @@ d) A que su familia reciba el apoyo subsidiario de las instituciones públicas e
 
 IV. De educación y recreación:
 
-a) A recibir educación;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-b) A participar en la vida cultural, deportiva y recreativa de su comunidad; y
+a) A recibir educación de calidad, atendiendo a sus condiciones y capacidades;
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+b) A participar en la vida cultural, artística, deportiva y recreativa de su comunidad; y
 
 c) A participar en los procesos de educación y capacitación de su comunidad;
 
@@ -205,7 +217,9 @@ V. Del trabajo:
 
 a) A gozar de oportunidades igualitarias de acceso al trabajo o de otras posibilidades que les permitan obtener un ingreso propio; y
 
-b) A recibir capacitación para desempeñarse en actividades laborales acordes a su edad y capacidad;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+b) A recibir capacitación y certificación de conocimientos y habilidades para promover el acceso de las personas adultas mayores a mercados laborales acordes a su edad y capacidad;
 
 VI. De la asistencia social:
 
@@ -221,15 +235,27 @@ a) A participar en los procesos de elaboración, actualización y evaluación de
 
 b) A asociarse y conformar organizaciones de personas adultas mayores para promover su desarrollo e incidir en las acciones dirigidas a este sector;
 
-c) A formar parte de los diversos órganos de representación y consulta ciudadana; y
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-d) A recibir información sobre las instituciones que prestan servicios para su atención adecuada; y
+c) A la participación activa, positiva, plena y efectiva dentro de la familia, la comunidad y la sociedad para su integración en todas ellas, conforme a las leyes respectivas;
 
-VIII. Del acceso a los servicios:
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+d) A la capacitación personal sobre protección y ejercicio de los derechos humanos de las personas adultas mayores;
+
+e) A formar parte de los diversos órganos de representación y consulta ciudadana; y
+
+f) A recibir información sobre las instituciones que prestan servicios para su atención adecuada; y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+VIII. Del acceso a los servicios y a la movilidad personal:
 
 a) A tener una atención preferente en los establecimientos públicos y privados que prestan servicios al público; y
 
-b) A tener acceso y facilidades de desplazamiento en los espacios laborales, comerciales, recreativos, culturales y de transporte, tanto públicos como privados, de acuerdo a las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+b) A tener acceso y facilidades de desplazamiento en los espacios laborales, comerciales, recreativos, culturales y de transporte, tanto públicos como privados, de acuerdo a las disposiciones legales y reglamentarias aplicables, atendiendo a la jerarquía de la movilidad y a los principios en la materia.
 
 #### Sección tercera. Deberes de las personas adultas mayores
 
@@ -923,7 +949,9 @@ II. Áreas de cocina y comedor para la preparación, elaboración y consumo de a
 
 III. Áreas de dormitorios adecuadas a las necesidades de las personas adultas mayores;
 
-IV. Un área para proporcionar los servicios médicos que requieran de manera inmediata las personas adultas mayores;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+IV. Un área para proporcionar la atención médica integral que requieran de manera inmediata las personas adultas mayores;
 
 V. Áreas para el recreo, esparcimiento y aprovechamiento del tiempo libre de las personas adultas mayores;
 
@@ -1025,11 +1053,13 @@ En el caso que señala el artículo anterior, cuando se turne la denuncia a la i
 
 ### Capítulo XI. Responsabilidades y sanciones
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
 Responsabilidades de los servidores públicos
 
 ###### Artículo 61.
 
-Las autoridades estatales y municipales, que no acaten esta Ley o no actúen con la diligencia debida en el cumplimiento de las obligaciones que esta Ley impone, serán sancionadas de acuerdo con la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin menoscabo de las responsabilidades penales, civiles o de cualquier otra que se derive de su incumplimiento.
+Las autoridades estatales y municipales, que no acaten esta Ley o no actúen con la diligencia debida en el cumplimiento de las obligaciones que esta Ley impone, serán sancionadas de acuerdo con la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin menoscabo de las responsabilidades penales, civiles o de cualquier otra que se derive de su incumplimiento.
 
 Responsabilidades de los ciudadanos
 
@@ -1136,3 +1166,11 @@ Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Rec
 Término para la adecuación reglamentaria
 
 Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 234, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia del Decreto
+
+Artículo Único. El presente Decreto entrará en vigor el 1 de enero de 2018.
