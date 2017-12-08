@@ -1,0 +1,656 @@
+---
+title: "LEY DE ENCIERROS Y DEPOSITOS DE VEHICULOS PARA EL ESTADO DE OAXACA"
+identifier: "OAX-ley-de-encierros-y-depositos-de-vehiculos-para-el-estado-de-126116"
+country: "mx"
+rank: "ley"
+publication_date: "2017-12-08"
+last_updated: "2017-12-08"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126116&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-oax"
+scjn_id: "126116"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "EXTRA"
+reform_count: "4"
+scjn_last_update: "2025-09-20"
+issue_date: "2017-10-20"
+state: "OAX"
+---
+# LEY DE ENCIERROS Y DEPOSITOS DE VEHICULOS PARA EL ESTADO DE OAXACA
+
+LEY DE ENCIERROS Y DEPÓSITO DE VEHÍCULOS PARA EL ESTADO DE OAXACA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Extra del Periódico Oficial de Oaxaca, el viernes 8 de diciembre de 2017.
+
+MTRO. ALEJANDRO ISMAEL MURAT HINOJOSA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
+
+QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
+
+DECRETO No 745
+
+LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
+
+D E C R E T A:
+
+###### ARTÍCULO ÚNICO.
+
+Se expide la Ley de Encierros y Depósitos de Vehículos para el Estado de Oaxaca, para quedar como sigue:
+
+LEY DE ENCIERROS Y DEPÓSITOS DE VEHÍCULOS PARA EL ESTADO DE OAXACA.
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+Esta Ley es de orden público e interés social. Sus disposiciones son de observancia general en todo el territorio del Estado de Oaxaca y tiene por objeto regular el establecimiento y operación de los servicios públicos de arrastre, encierro y depósito de vehículos.
+
+###### Artículo 2.
+
+La aplicación de la presente Ley corresponde al Ejecutivo Estatal a través de la Secretaría de Seguridad Pública.
+
+###### Artículo 3.
+
+Para los efectos de esta Ley, se entiende por:
+
+I. Arrastre: Traslado de un vehículo de un lugar a otro sobre sus propias ruedas o sobre plataforma de grúa;
+
+II. Autoridades municipales: A los Ayuntamientos del Estado de Oaxaca.
+
+III. Concesión: Acto administrativo por el cual el Gobernador del Estado, a través de la Secretaría de Seguridad Pública, autoriza a un particular para prestar el servicio público de arrastre y encierro de vehículos;
+
+IV. Concesionario: A la persona que cuenta con una concesión de la Secretaría de Seguridad Pública, para prestar el servicio público de arrastre y encierro de vehículos;
+
+V. Derechos: Cuotas por el arrastre y encierro o depósito de vehículos, conforme lo dispuesto por la Ley Estatal de Derechos;
+
+VI. Dirección General: A la Dirección General de la Policía Vial del Estado de Oaxaca;
+
+VII. Director General: Al titular de la Dirección General de la Policía Vial del Estado de Oaxaca;
+
+VIII. Encierro: Al lugar autorizado, propiedad del Gobierno del Estado, de los municipios, o de un particular, para resguardar los vehículos asegurados por la autoridad competente; también se le denomina depósito o corralón;
+
+IX. Fiscalía: A la Fiscalía General del Estado de Oaxaca.
+
+X. Grúa: Al servicio motorizado para el traslado de vehículos;
+
+XI. Inventario: Relación detallada de los accesorios, aditamentos y estado físico que guarda el vehículo sujeto de arrastre y depósito;
+
+XII. Ley: Ley de Encierros y Depósitos de Vehículos para el Estado de Oaxaca;
+
+XIII. Reglamento: Al reglamento de la Ley de Encierros y Depósitos de Vehículos para el Estado de Oaxaca;
+
+XIV. Secretaría: Secretaría de Seguridad Pública del Gobierno del Estado de Oaxaca;
+
+XV. Tarifa: Precios o cuota a cargo del particular a la que deberá sujetarse la prestación del servicio público de arrastre y encierro de vehículos; y
+
+XVI. Vehículo: Todo medio de transporte, de personas, cargas o mixto, motorizado, de tracción humana o animal, autorizado por el Estado para circular en la vía pública.
+
+###### Artículo 4.
+
+La operación y explotación de los servicios de arrastre, encierros y depósitos de vehículos, se sujetarán a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales, Leyes Federales y Estatales, así como a lo dispuesto en la presente Ley, su Reglamento y a los acuerdos que emitan las autoridades estatales.
+
+### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES
+
+###### Artículo 5.
+
+La aplicación de la Ley estará a cargo del Poder Ejecutivo del Estado, por conducto de la Secretaría, quien tendrá las siguientes atribuciones:
+
+I. Establecer encierros oficiales para el depósito y resguardo de vehículos asegurados por la autoridad competente;
+
+II. Adquirir grúas para el arrastre de vehículos asegurados por la autoridad competente;
+
+III. Operar y administrar los encierros oficiales para el resguardo de vehículos asegurados por la autoridad competente;
+
+IV. Operar y administrar el servicio público de grúas para el arrastre de vehículos asegurados por la autoridad competente;
+
+V. Otorgar, negar, refrendar, suspender, extinguir y revocar las concesiones a particulares para la prestación de los servicios públicos a que se refiere esta Ley;
+
+VI. Fijar las tarifas para el cobro de los servicios que esta Ley regula, buscando el equilibrio entre la rentabilidad económica de los prestadores de servicio y el interés público, debiendo ser revisadas y actualizadas anualmente en los términos que establezcan las disposiciones legales, reglamentarias y administrativas aplicables;
+
+VII. Llevar los registros de los concesionarios de los servicios públicos regulados por esta Ley y mantenerlos actualizados;
+
+VIII. Emitir los lineamientos y manuales técnicos para regular la operación de arrastre y encierros de vehículos;
+
+IX. Imponer las sanciones que establece esta Ley, cuando así corresponda, a los concesionarios de los servicios públicos de arrastre y encierros o depósitos de vehículos;
+
+X. Resolver las impugnaciones que se promuevan contra la revocación, suspensión y extinción de concesiones; y
+
+XI. Realizar inspecciones para verificar el cumplimiento de esta Ley;
+
+XII. Recibir y atender quejas y denuncias relacionadas con la prestación de los servicios que esta Ley regula; y
+
+XIII. Las demás señaladas por esta Ley y otros ordenamientos legales aplicables.
+
+Las autoridades municipales podrán prestar los servicios que regula esta Ley, con las atribuciones antes señaladas, exceptos (sic) las establecidas en las fracciones V, VI, VII, VIII, IX y X.
+
+### CAPÍTULO TERCERO. DE LOS SERVICIOS PÚBLICOS DE ENCIERRO Y DEPÓSITO DE VEHÍCULOS
+
+#### SECCIÓN PRIMERA. DE LAS CONDICIONES DEL SERVICIO
+
+###### Artículo 6.
+
+Los servicios públicos de encierro y depósito vehicular corresponden originariamente al Estado y a los municipios, quienes podrán prestarlos, por sí mismo o a través de terceros, en cuyo caso se requiere otorgar la concesión que corresponda en términos de la presente Ley.
+
+###### Artículo 7.
+
+Cuando el servicio se preste por el Estado o los municipios, a través de sus órganos, entidades o dependencias, se aplicarán, preferentemente, las disposiciones generales que normen el acto por el que se ordene el depósito, así como las internas que en ejercicio de sus facultades, emitan para el debido cuidado y conservación de los bienes depositados.
+
+###### Artículo 8.
+
+En los municipios que cuenten con dos o más encierros oficiales o concesionados, se dará prioridad al establecimiento que esté más cerca de la ubicación del vehículo a depositar.
+
+En los municipios, en los que no se cuente con establecimientos para prestar el servicio público de encierro de vehículos, el vehículo en cuestión se depositará en el encierro oficial o concesionado más próximo.
+
+###### Artículo 9.
+
+La Secretaría y las autoridades municipales, podrán celebrar convenios para la prestación de los servicios que regula esta Ley.
+
+#### SECCIÓN SEGUNDA. ESPECIFICACIONES PARA LOS ENCIERROS O DEPÓSITOS DE VEHÍCULOS
+
+###### Artículo 10.
+
+Las especificaciones mínimas de infraestructura y de servicio que deberán cubrirse en los establecimientos donde se preste el servicio de encierro vehicular, son:
+
+I. Encontrarse debidamente delimitado y bardeado o cercado, que brinde seguridad a los vehículos en depósito;
+
+II. Contar con algún espacio cerrado, apto para operar como oficina de administración y bodega del establecimiento, donde deberán resguardarse los archivos y documentación de control de los vehículos depositados, así como los objetos útiles que vinieran con éste en las partes interiores y exteriores que sea necesario resguardar para su debida conservación;
+
+III. Implementar y ejecutar los controles de seguridad y vigilancia, mediante personal de custodia, cámaras, dispositivos de iluminación u otros mecanismos;
+
+IV. Contar con el número de cajones o espacios techados, en función de la superficie que conforma el establecimiento;
+
+V. Contar con el programa de protección civil que corresponda;
+
+VI. Contar con una Póliza de Seguro por Responsabilidad Civil que ampare el robo, o daños que pudiera sufrir el vehículo en custodia.
+
+VII. Cumplir con las medidas preventivas conforme a las disposiciones legales en materia ambiental, a efecto de evitar, minimizar o mitigar los impactos negativos del ambiente; y
+
+VIII. Las demás que determine esta Ley, su Reglamento, y la Secretaría, con el propósito de garantizar la debida custodia y conservación de los vehículos depositados.
+
+#### SECCIÓN TERCERA. DE LA RECEPCIÓN DE LOS VEHÍCULOS
+
+###### Artículo 11.
+
+Los encargados de los encierros oficiales o concesionados recibirán en depósito, toda clase de vehículos infraccionados, accidentados o decomisados, que pongan bajo su guarda y custodia las autoridades estatales o municipales en materia de seguridad pública y tránsito, por sí o por requerimiento de otras autoridades jurisdiccionales o administrativas competentes.
+
+###### Artículo 12.
+
+Los encargados de los encierros oficiales o concesionados deberán abstenerse de recibir:
+
+I. Junto con el vehículo, alimentos perecederos, medicamentos a granel, drogas, armas, animales, productos químicos, materiales o residuos corrosivos, reactivos, explosivos, tóxicos, inflamables, mutagénicos o biológico infecciosos y demás productos o mercancías que se encuentren a simple vista, cuya conservación represente un riesgo para la salud o para el ambiente, por su concentración, propiedades químicas o resultados de la descomposición.
+
+Si tales objetos, productos o mercancías estuvieren en el vehículo al momento de solicitarse el depósito, la autoridad a cuya disposición se encuentre el vehículo, deberá proveer lo necesario, respecto de la guarda de dichos bienes;
+
+II. Vehículos detenidos por autoridades de un municipio, si se pretende ponerlos bajo resguardo de un establecimiento ubicado en un municipio distinto, excepto cuando obre convenio de por medio; y
+
+III. Vehículos que sean trasladados por personas físicas o morales que no cuenten con la concesión para prestar el servicio público de arrastre, en los términos que establece esta Ley.
+
+###### Artículo 13.
+
+Al momento de recibir un vehículo en depósito, el encargado del encierro entregará un inventario del bien depositado al propietario del vehículo, y una copia al servidor público responsable de la puesta a disposición o del operador de la grúa responsable del traslado, que describa:
+
+I. El nombre del servidor público o la persona que realiza la entrega material del vehículo;
+
+II. Si es el caso, número de serie y placas de circulación de la grúa que realice el traslado del vehículo depositado y nombre de la compañía concesionaria del servicio de arrastre o de la corporación que hubiese hecho el traslado;
+
+III. La fecha y hora de recepción del vehículo;
+
+IV. Las características generales del vehículo, indicando cuando menos:
+
+a) Marca y tipo.
+
+b) Año del modelo.
+
+c) Color.
+
+d) Número de motor.
+
+e) Número de serie.
+
+f) Número de placas de circulación o del permiso provisional para circular, si los portara;
+
+V. Nombre y dirección del concesionario responsable de la prestación del servicio de depósito vehicular;
+
+VI. Nombre y firma autógrafa de la persona que reciba materialmente el vehículo;
+
+VII. Descripción del estado físico interior y exterior del vehículo, incluyendo cofre, cajuela, cabina y áreas accesorias de la unidad;
+
+VIII. Relación y descripción pormenorizada de los objetos que se encuentren en el interior o exterior del vehículo y que permanecerán en depósito junto con la unidad;
+
+IX. Número de folio que permita individualizar e identificar el recibo; y
+
+X. Demás circunstancias que se consideren necesarias para la identificación del vehículo y el estado físico en que se recibe.
+
+### CAPÍTULO CUARTO. DEL SERVICIO PÚBLICO DE ARRASTRE VEHICULAR
+
+#### SECCIÓN PRIMERA. CONDICIONES DEL SERVICIO
+
+###### Artículo 14.
+
+El servicio público de arrastre vehicular corresponde originariamente al Estado y a los municipios, quienes podrán prestarlos, por sí mismos o a través de terceros, en cuyo caso otorgará la concesión que corresponda en términos de la presente Ley.
+
+###### Artículo 15.
+
+En los municipios que cuenten con dos o más concesionarios autorizados para prestar el servicio de arrastre vehicular, se dará prioridad al establecimiento que esté más cerca de la ubicación del vehículo sobre el que se realiza el servicio.
+
+###### Artículo 16.
+
+Para las operaciones de arrastre de vehículos, se estará a lo que dispongan las leyes federales y estatales correspondientes, así como las normas oficiales mexicanas y las normas técnicas complementarias emitidas por las autoridades estatales para tal efecto.
+
+Para prestar el servicio público de arrastre, las autoridades correspondientes o los concesionarios, deberán contar con una Póliza de Seguro por Responsabilidad Civil que ampare el robo, o daños que pudiera sufrir el vehículo durante su traslado.
+
+#### SECCIÓN SEGUNDA. DE LA PRESTACIÓN DEL SERVICIO DE ARRASTRE
+
+###### Artículo 17.
+
+Al efectuar el arrastre vehicular, la autoridad o el concesionario estarán obligados a elaborar un reporte de servicio, que proporcionará en copia al propietario del vehículo y que contendrá como mínimo lo siguiente:
+
+I. Fecha y hora de servicio al vehículo;
+
+II. Número de serie y placas de circulación de la grúa que realice el traslado del vehículo;
+
+III. Las características generales del vehículo, indicando cuando menos:
+
+a) Marca y tipo.
+
+b) Año del modelo.
+
+c) Color.
+
+d) Número de motor.
+
+e) Número de serie.
+
+f) Número de placas de circulación o del permiso provisional para circular, si los portara;
+
+IV. Descripción del estado físico interior y exterior del vehículo, incluyendo cofre, cajuela, cabina y áreas accesorias de la unidad;
+
+V. Ubicación donde se presta el servicio;
+
+VI. En su caso, el nombre y cargo del servidor público que pone el vehículo a disposición y motivo de retención;
+
+VII. Desglose, por conceptos del cobro de servicios; y
+
+VIII. Número de folio que permita individualizar e identificar el reporte.
+
+La Secretaría deberá elaborar formatos específicos para el reporte a que se refiere este artículo, cuyo uso, en este caso, será obligatorio para los concesionarios.
+
+### CAPÍTULO QUINTO
+
+#### SECCIÓN PRIMERA. DE LA DEVOLUCIÓN DE LOS VEHÍCULOS
+
+###### Artículo 18.
+
+Las autoridades estatales, municipales o los concesionarios que tengan en resguardo un vehículo, deberán devolverlo en las condiciones que consten en el inventario del mismo, haciéndose responsables de cualquier parte o accesorio faltante, así como de los daños causados a los vehículos durante el tiempo que permanezcan bajo su custodia y, en cualquier caso, deberá restituirlos o repararlos a satisfacción del propietario del vehículo.
+
+###### Artículo 19.
+
+Para obtener la devolución del vehículo depositado, el interesado deberá exhibir la orden de liberación que al efecto expida la autoridad ante la cual se hubiese puesto a disposición, debiendo cubrir el monto de las tarifas autorizadas correspondientes; y comprobar que pagó los servicios de arrastre y firmar la documentación que acredite la entrega del vehículo.
+
+La liberación de vehículos ordenada por autoridad judicial o administrativa, no exenta al interesado de la obligación de pago por los servicios de arrastre y los de depósito, ni priva a la autoridad o al concesionario de su derecho a cobrarlos, aun cuando el hecho o acto generadores de la necesidad del depósito, sea revocado o declarado nulo.
+
+###### Artículo 20.
+
+Si al momento de la devolución del vehículo, el interesado detectare faltantes o averías que no consten en el inventario, podrá presentar una queja ante la autoridad competente, dentro de los diez días hábiles siguientes al momento en que le fue entregado.
+
+Tratándose de encierros oficiales del Estado, la queja se presentará ante el Director General. Tratándose de los municipios, la queja se presentará ante el Presidente Municipal.
+
+Las autoridades correspondientes resolverán la queja de conformidad con el procedimiento que se establezca en el Reglamento de esta Ley, procurando la conciliación entre las partes.
+
+De no lograrse la conciliación, quedarán a salvo los derechos del interesado para hacerlos valer en las instancias legales pertinentes.
+
+#### SECCIÓN SEGUNDA. DE LOS VEHÍCULOS ABANDONADOS
+
+###### Artículo 21.
+
+Se consideran de utilidad pública, aquellas acciones que tiendan a evitar el hacinamiento o saturación de vehículos en los establecimientos de depósito vehicular, a fin de evitar riesgos a la seguridad o a la salud pública.
+
+Las autoridades estatales y municipales competentes en materia de salubridad y preservación del equilibrio ecológico y protección al ambiente, podrán, conforme a las disposiciones que las rijan, realizar visitas de inspección a los encierros, tanto oficiales como concesionados y formular recomendaciones u ordenar medidas de seguridad que tiendan a evitar, minimizar o mitigar posibles daños al ecosistema o a la salud pública.
+
+###### Artículo 22.
+
+Para los efectos de esta Ley, se consideran vehículos abandonados aquellos que hayan sido puestos a disposición de autoridad competente y depositados en alguno de los encierros que regula esta Ley, siempre que no sean reclamados por persona alguna y que encuadren en cualquiera de los supuestos del artículo 23.
+
+Los vehículos a que se refiere este Capítulo, no serán considerados como bienes mostrencos, de acuerdo a lo dispuesto por el Código Civil del Estado de Oaxaca, por lo que su regulación se someterá exclusivamente a lo dispuesto en esta Ley.
+
+#### SECCIÓN TERCERA. DE LA DECLARACIÓN DE ABANDONO Y EL PROCEDIMIENTO DE REMATE
+
+###### Artículo 23.
+
+Se podrá llevar a cabo el procedimiento de remate de los vehículos depositados, para la conservación del valor, o bien, para su destrucción, cuando se presente alguno de los supuestos siguientes:
+
+I. Que hayan transcurrido más de dos años a la fecha en que se hubiere depositado el vehículo, a excepción de aquellos que se encuentren en proceso judicial o administrativo pendiente de resolver, o que dictada la resolución o sentencia, ésta no haya causado ejecutoria, en cuyo caso el plazo referido se computará a partir de ese momento; y
+
+II. Que hubiere sido ordenada la liberación y entrega del vehículo, por parte de la autoridad competente o que haya vencido el plazo para pagar la infracción o recurrir legalmente la misma y no se hubiere hecho y hayan transcurrido más de sesenta días.
+
+###### Artículo 24.
+
+En el Reglamento de la Ley se establecerá el procedimiento para la declaración de abandono por parte de la Dirección General y el remate de los vehículos abandonados.
+
+###### Artículo 25.
+
+El procedimiento de remate no será aplicable a aquellos vehículos que presenten alteraciones en los números de identificación o sean objeto del delito de robo de vehículos. En estos casos, se notificará tal circunstancia a la Fiscalía para que proceda a realizar la investigación correspondiente.
+
+Cuando la Fiscalía considere que no es necesario preservar el vehículo para el desarrollo de la investigación y que no haya comparecido el legítimo propietario a reclamar su entrega, cualquiera que fuere su valor, se procederá a su destrucción, o bien, donados a la Administración del Patrimonio de la Beneficencia Pública del Estado de Oaxaca, con fines de filantropía o apoyo a la ciudadanía.
+
+Los vehículos con placas de origen extranjero, depositados en los establecimientos que regula esta Ley, sólo podrán ser devueltos con el consentimiento de la Secretaría de Hacienda y Crédito Público.
+
+###### Artículo 26.
+
+Los vehículos no motorizados, como bicicletas y similares; y los aparatos, ornamentos u objetos de utilidad que acompañaren al vehículo al momento de su depósito, podrán ser igualmente rematados en los tiempos y bajo las condiciones que este Capítulo establece, o bien, donados a instituciones de asistencia privada o planteles educativos pertenecientes al Instituto Estatal de Educación Pública de Oaxaca, con fines de filantropía o apoyo a la educación pública del nivel básico.
+
+### CAPÍTULO SEXTO. DEL SERVICIO PÚBLICO CONCESIONADO
+
+#### SECCIÓN PRIMERA. DEL OTORGAMIENTO DE CONCESIONES
+
+###### Artículo 27.
+
+Las concesiones para la prestación de los servicios públicos que regula la presente Ley, serán otorgadas por la Secretaría de conformidad con esta Ley y su Reglamento.
+
+###### Artículo 28.
+
+Las concesiones para la prestación del servicio público de arrastre y encierro vehicular, únicamente podrán otorgarse a quienes cumplan los requisitos que establezca (sic) la presente Ley y su Reglamento, siendo primordialmente los siguientes:
+
+I. No haber sido titular de concesiones a las que se refiere este artículo, que hubiesen sido objeto de revocación o extinción;
+
+II. Acreditar contar con la legal propiedad o posesión del inmueble en el que se pretenda prestar el servicio de encierro o depósito de vehículos; el cual deberá contar con superficie mínima de cinco mil metros cuadrados (5,000 m2), además, deberá encontrarse cercado y acondicionado con instalación eléctrica, teléfono o algún otro medio de comunicación, piso compactado, extinguidores así como debidamente rotulado para su identificación;
+
+III. Contar con el permiso o autorización de uso de suelo expedido por autoridad competente;
+
+IV. Contar con una Póliza de Seguro por Responsabilidad Civil que ampare el arrastre y resguardo de vehículos;
+
+V. Contar con el programa de protección civil correspondiente, y;
+
+VI. Acreditar la legal propiedad o posesión de los vehículos con los que prestará el servicio de arrastre, de conformidad con las especificaciones técnicas y características físico-mecánicas que determine la Norma Oficial Mexicana NOM-053-SCT, para la seguridad del público usuario.
+
+###### Artículo 29.
+
+Previo al otorgamiento de una concesión para la prestación de los servicios públicos que regula esta Ley, la Secretaría podrá realizar, por sí o con el apoyo de otras autoridades, los estudios técnicos y operativos necesarios que determinen la conveniencia de otorgarla.
+
+###### Artículo 30.
+
+Las concesiones para los servicios públicos que regula esta Ley, constarán por escrito y contendrán:
+
+I. El nombre y domicilio de la persona física o moral a cuyo favor se expida;
+
+II. El Registro Federal de Contribuyentes del concesionario;
+
+III. En caso de personas morales, los datos generales relativos a su constitución;
+
+IV. El tipo de servicio para el cual se otorga;
+
+V. La circunscripción territorial en la que se prestará el servicio;
+
+VI. El lugar y fecha de expedición;
+
+VII. Las (sic) tarifa autorizada;
+
+VIII. Los derechos y obligaciones del concesionario;
+
+IX. La firma autógrafa del servidor público que la expida;
+
+X. La firma de aceptación del concesionario;
+
+XI. Tratándose de concesiones para el servicio de depósito y guarda de vehículos, deberá contener además:
+
+a) El domicilio del establecimiento donde deberá prestarse el servicio.
+
+b) La capacidad máxima de almacenamiento de vehículos que ampare la concesión.
+
+c) Las especificaciones físicas que deberán cumplirse en el establecimiento donde vaya a prestarse el servicio, así como las medidas de control y vigilancia, y demás obligaciones complementarias que deberá observar el concesionario; y
+
+XII. En el caso de concesiones para el servicio de arrastre, además deberá contener:
+
+a) Los datos generales y características de los vehículos que ampara, y;
+
+b) Las características y condiciones generales de operación.
+
+###### Artículo 31.
+
+Las concesiones para los servicios públicos que regula esta Ley, tendrán una vigencia de cinco años, mismo que podrá prorrogarse por periodos iguales, siempre y cuando permanezca la necesidad del servicio.
+
+El refrendo es la revalidación que otorga la Secretaría, para que se continúe prestando el servicio concesionado.
+
+###### Artículo 32.
+
+En el Reglamento de la Ley se establecerá el procedimiento y requisitos para el refrendo de la concesión.
+
+###### Artículo 33.
+
+Las personas físicas podrán designar ante la Secretaría a tres beneficiarios, en orden de prelación excluyente para el caso de que no puedan continuar prestando el servicio, sea por muerte o incapacidad física o mental. El beneficiario deberá reunir los mismos requisitos exigidos a su titular para su otorgamiento. Los beneficiarios podrán ser quienes designe el titular de la concesión. Las concesiones otorgadas y los derechos que pudieran derivarse de las mismas, no estarán consideradas dentro de la masa hereditaria del titular.
+
+###### Artículo 34.
+
+Nadie podrá, al amparo de una misma concesión, prestar el servicio público de depósito vehicular en más de un inmueble.
+
+###### Artículo 35.
+
+La concesión para prestar los servicios de arrastre, se deberá ejercer con los vehículos que fueron autorizados para ese fin, por lo que el concesionario no podrá prestar dicho servicio con vehículos diversos a los autorizados.
+
+###### Artículo 36.
+
+Las concesiones que se otorguen en contravención a las disposiciones de esta Ley, serán nulas.
+
+###### Artículo 37.
+
+Las concesiones que esta Ley regula se extinguen por:
+
+I. Muerte de las personas físicas titulares;
+
+II. Extinción, liquidación, quiebra o concurso de las personas morales titulares;
+
+III. Falta de refrendo;
+
+IV. Renuncia del titular;
+
+V. Revocación; y
+
+VI. Acuerdo expreso y fundado en el interés público, que dicte el titular de la Secretaría.
+
+#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS
+
+###### Artículo 38.
+
+Son obligaciones de los concesionarios del servicio público de arrastre y encierro vehicular:
+
+I. Prestar el servicio en estricto acatamiento a las disposiciones que esta Ley establece;
+
+II. Recibir en depósito, en cualquier día y hora, salvo los casos de excepción que esta Ley dispone o cuando se exceda la capacidad de almacenamiento de unidades indicada en la concesión, toda clase de vehículos infraccionados, abandonados, accidentados o decomisados, que pongan bajo su guarda y custodia las autoridades estatales y municipales competentes;
+
+III. Observar las condiciones y restricciones complementarias que se establezcan en la concesión;
+
+IV. Conservar y devolver el vehículo depositado, en las mismas condiciones en que lo reciba, salvo el deterioro natural que presente por el simple transcurso del tiempo, con las excepciones previstas en esta Ley;
+
+V. Hacer la devolución del vehículo que tiene bajo su guarda y custodia, en las condiciones que consten en el inventario del mismo y será responsable de cualquier parte o accesorio faltante, cuya preexistencia conste en el inventario; así como de los daños causados a los vehículos durante el tiempo que permanezcan bajo su custodia y, en cualquier caso, deberá restituirlos o repararlos a satisfacción del usuario del servicio;
+
+VI. Abstenerse de recibir en depósito, vehículos remitidos por autoridades que no se identifiquen plenamente o sin mediar la documentación que acredite la entrega material y jurídica del vehículo correspondiente;
+
+VII. Entregar a quien presente el vehículo respectivo, el documento que acredite fehacientemente la recepción del mismo, el que contendrá una descripción pormenorizada del vehículo, así como el inventario de los efectos personales, valores u objetos que se encuentren en su interior;
+
+VIII. Llevar un registro físico y electrónico de control debidamente pormenorizado, que contenga los datos de los vehículos que ingresen y egresen del depósito, indicando la causa o motivo de la puesta a disposición, la fecha y hora de la misma, la autoridad que los entregó y liberó, y el nombre de la persona a quien se hubieren devuelto;
+
+IX. Respetar las tarifas establecidas para la prestación del servicio, que deberán encontrarse en un cartel de cuando menos un metro cuadrado, visible al público en las oficinas de administración del establecimiento donde se depositen los vehículos;
+
+X. Cumplir y mantener las especificaciones físicas para los sitios de depósito que esta Ley prevé, así como las que fije la autoridad al momento de otorgar la concesión o al realizarse el refrendo anual correspondiente;
+
+XI. Permitir a las autoridades competentes, el acceso al inmueble, estacionamiento, sitio o local donde se realice el depósito de los vehículos, a efecto de vigilar el cumplimiento de esta Ley;
+
+XII. Contratar y mantener vigente una póliza de seguro de responsabilidad civil a través de alguna empresa legalmente constituida por la comisión que ampare la salvaguarda de los vehículos depositados;
+
+XIII. Expedir a los interesados, recibo o factura que ampare la prestación del servicio que cumpla con los requisitos fiscales correspondientes, y;
+
+XIV. Las demás que se establezcan expresamente en el título de concesión, esta Ley y su Reglamento.
+
+###### Artículo 39.
+
+Los concesionarios del servicio público de encierro y depósito de vehículos, deberán prohibir el acceso al inmueble, a toda persona que no se encuentre bajo su dirección, responsabilidad o subordinación, con excepción de las autoridades administrativas o judiciales que, previa identificación personal, acrediten facultad para ingresar al establecimiento.
+
+Asimismo, podrá permitirse a los particulares que acrediten título legal para ello, extraer de sus vehículos depositados, documentación y efectos personales que se encuentren en su interior, siempre en presencia del personal autorizado del establecimiento y levantando constancia circunstanciada de dicha disposición.
+
+###### Artículo 40.
+
+Quienes presten el servicio público de encierro vehicular, no podrán ejercer en el mismo inmueble ningún otro tipo de actividad, salvo el servicio público de arrastre.
+
+###### Artículo 41.
+
+Para hacer entrega del vehículo objeto del servicio, el usuario deberá recabar el oficio de liberación o entrega que, para tal efecto, expida la autoridad competente, para lo cual deberá acompañar a su solicitud el original de la factura o carta factura del vehículo; oficio de liberación de la autoridad administrativa o judicial, así como el comprobante de pago que el usuario haga al concesionario por los servicios prestados en relación con dicho vehículo.
+
+###### Artículo 42.
+
+Son obligaciones de los concesionarios del servicio público de arrastre vehicular:
+
+I. Prestar el servicio en estricto acatamiento a las disposiciones que esta Ley establece;
+
+II. Observar las condiciones y restricciones complementarias que se establezcan en la concesión respectiva;
+
+III. Abstenerse de realizar servicios de arrastre, a vehículos entregados por autoridades que no se identifiquen plenamente o sin mediar la documentación que acredite la entrega material y jurídica del bien correspondiente;
+
+IV. Entregar, a quien solicite el arrastre del vehículo respectivo, la documentación que acredite fehacientemente la recepción del mismo, describa las condiciones en que se encuentre, y señale, mediante inventario pormenorizado, los efectos personales, valores u objetos que se encuentren en el interior del vehículo;
+
+V. Llevar un registro físico y electrónico de control, debidamente pormenorizado, que contenga los datos de los vehículos a los que se les realice un servicio de arrastre, indicando la causa o motivo de la solicitud, la fecha y hora de la misma, la autoridad que lo solicitó y el lugar de depósito o destino final, según lo indicado por la autoridad;
+
+VI. Respetar las tarifas establecidas para la prestación del servicio de arrastre, que deberán encontrarse en un cartel de cuando menos un metro cuadrado, visible al público en las oficinas de administración o domicilio fiscal del concesionario;
+
+VII. Cumplir y mantener las especificaciones técnicas para los vehículos destinados a realizar las maniobras de arrastre que esta Ley prevé, así como las que fijen las autoridades estatales al momento de otorgar la concesión o al realizarse el refrendo anual de esta última;
+
+VIII. Permitir a las autoridades competentes, el acceso a sus oficinas, sitio o local donde se realicen las actividades de coordinación, operación y mantenimiento de los vehículos destinados a prestar el servicio de arrastre, a efecto de vigilar el cumplimiento de esta Ley;
+
+IX. Contratar y mantener vigente una póliza de seguro de responsabilidad civil que ampare los vehículos sujetos a traslado, a través de alguna empresa legalmente constituida;
+
+X. Expedir a los interesados, contra el pago del servicio, el recibo que lo acredite o la factura que cumpla con los requisitos fiscales correspondientes; y
+
+XI. Las demás que se establezcan expresamente en el título de concesión.
+
+#### SECCIÓN TERCERA. DE LOS DERECHOS DE LOS CONCESIONARIOS
+
+###### Artículo 43.
+
+Son derechos de los concesionarios del servicio público de encierro vehicular:
+
+I. Cobrar, a quienes acrediten interés legítimo sobre los vehículos, la tarifa autorizada por la prestación del servicio;
+
+II. Proponer la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio; y
+
+III. Los demás que le otorgue la presente Ley.
+
+###### Artículo 44.
+
+Son derechos de los concesionarios del servicio público de arrastre vehicular:
+
+I. Cobrar, a quienes acrediten interés legítimo sobre los vehículos, la tarifa autorizada por la prestación del servicio;
+
+II. Proponer, la instrumentación de programas y acciones para el mejoramiento de las condiciones de operación, supervisión y cobro del servicio, y;
+
+III. Los demás que le otorgue la presente Ley.
+
+### CAPÍTULO SÉPTIMO. DE LAS INFRACCIONES
+
+###### Artículo 45.
+
+Se consideran infracciones a esta Ley:
+
+I. Alterar las tarifas autorizadas;
+
+II. Devolver el vehículo a persona distinta de la señalada por la autoridad que ordene la liberación del vehículo;
+
+III. Recibir en depósito vehículos para los cuales exista impedimento, de conformidad con esta Ley;
+
+IV. Provocar o tolerar actos que produzcan el deterioro, pérdida, destrucción o disposición indebida de los vehículos depositados o que sean objeto de arrastre;
+
+V. Omitir o utilizar inadecuadamente los formatos que las autoridades establezcan para prestar los servicios que regula esta Ley o utilizar formatos distintos a los autorizados;
+
+VI. Omitir consignar en la constancia de recibo del vehículo, los datos que refiere esta Ley o que se establezcan datos falsos;
+
+VII. Omitir implementar o ejecutar las medidas de control y vigilancia que esta Ley ordena o que se consignen en el título de concesión correspondiente;
+
+VIII. Omitir llevar o llevar incompleto el registro de control de ingreso y egreso de vehículos depositados, a que se refiere esta Ley;
+
+IX. Omitir informar de inmediato, a la autoridad ante la cual se encuentren a disposición los vehículos depositados, el robo o daño que llegaren a sufrir mientras se encuentren bajo su cuidado;
+
+X. Omitir cumplir con las debidas especificaciones físicas del establecimiento para la prestación del servicio;
+
+XI. Omitir tener a la vista del público el catálogo de tarifas vigentes;
+
+XII. Negarse sin causa justificada, a recibir o a devolver los vehículos, cuando lo requieran las autoridades competentes;
+
+XIII. Rebasar la capacidad instalada de almacenamiento de vehículos para depósito;
+
+XIV. Omitir tener contratada y vigente la póliza de seguro de responsabilidad civil a que se refiere esta Ley;
+
+XV. Omitir entregar a los interesados, la factura o el recibo fiscal de pago por la prestación del servicio;
+
+XVI. Realizar los servicios que regula esta Ley, sin la concesión correspondiente; y
+
+XVII. Las demás conductas que contravengan las disposiciones contenidas en este ordenamiento.
+
+### CAPÍTULO OCTAVO. DE LAS SANCIONES
+
+###### Artículo 46.
+
+Las sanciones administrativas por el incumplimiento de esta Ley, serán aplicables con independencia de las penales o civiles que en ejercicio de sus atribuciones, determinen otras autoridades y consistirán en:
+
+I. Multa;
+
+II. Suspensión temporal de los derechos derivados de la concesión; y
+
+III. Revocación de la concesión, cuyo procedimiento se especificará en el Reglamento Interno de la Presente Ley.
+
+###### Artículo 47.
+
+La multa podrá ser de 10 a 250 Unidades de Medida y Actualización, y la autoridad tomará en cuenta la gravedad del caso, el daño causado y demás circunstancias particulares.
+
+###### Artículo 48.
+
+Procede la suspensión temporal de los derechos derivados de la concesión, por un periodo de uno hasta 90 días, cuando:
+
+I. Se incurra en más de dos ocasiones dentro de un período de 365 días naturales, en alguna de las conductas a que se refiere el capítulo anterior;
+
+II. Omitir se implementen o ejecuten, dentro del plazo que señalen las autoridades, las medidas de control y vigilancia a que el concesionario esté obligado;
+
+III. Se impida, obstruya o dificulte indebidamente, a las autoridades competentes, la práctica de actividades de inspección para vigilar el cumplimiento de esta Ley y demás ordenamientos legales aplicables;
+
+IV. Se incurra en el supuesto de la fracción XV del artículo 45 de esta Ley; y
+
+V. Incurrir en el supuesto que establece la fracción XIV del artículo 45 del presente ordenamiento legal.
+
+###### Artículo 49.
+
+La suspensión a que se refieren (sic) el artículo 46 fracción II de esta Ley, tiene por efecto, el impedimento para que, durante el tiempo que dure la sanción, el concesionario pueda prestar el servicio. En el caso del servicio público encierro y depósito de vehículos, subsistirán el resto de sus obligaciones derivadas de la concesión, incluida la de proveer del servicio al público para la devolución de vehículos.
+
+###### Artículo 50.
+
+Procede la revocación de la concesión cuando:
+
+I. Dentro de un período de seis meses, contados a partir del día en que haya terminado una suspensión, se incurra en alguna conducta legalmente sancionable con multa o en una nueva suspensión;
+
+II. Tratándose de personas morales, cambie el objeto social del concesionario, haciéndose incompatible con la prestación del servicio; y
+
+III. Se viole una suspensión temporal de derechos para ejercer la concesión.
+
+###### Artículo 51.
+
+La revocación de la concesión tiene por efecto, la pérdida definitiva de los derechos de explotación de la concesión.
+
+En el caso del servicio público de encierro vehicular, una vez emitido y publicado el Acuerdo de revocación, la autoridad competente, aún mediante el uso de la fuerza pública, tomará posesión de los vehículos depositados y de los archivos, bitácoras, registros y documentación que los ampare, trasladándolos a costa del concesionario, a otro establecimiento concesionado o proveyendo las medidas urgentes que resulten necesarias para garantizar la debida conservación y cuidado de los bienes depositados.
+
+T R A N S I T O R I O S:
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. La Secretaría contará con un plazo de noventa días naturales para la expedición del Reglamento de la presente Ley;
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+CUARTO. Las personas físicas o morales que, a la entrada en vigor de la presente Ley, desarrollen alguna de las actividades que en la misma se señalan, para todos los efectos legales, deberán iniciar el trámite para obtener la concesión correspondiente; a cuyo efecto deberán, en un plazo no mayor de 6 meses, realizar las adecuaciones y trámites correspondientes, a fin de obtener el título de concesión, en el entendido que en caso de no hacerlo, dicha concesión será declarada extinta.
+
+QUINTO. En el presupuesto de egresos de cada año, se contemplarán las partidas presupuestales necesarias para la aplicación de la presente Ley.
+
+SEXTO. Los encierros oficiales estatales a la entrada en vigor de la presente Ley, serán administrados y operados por la Secretaría. Los encierros oficiales municipales deberán adecuar sus condiciones físicas y legales en términos de la presente Ley.
+
+“Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de septiembre de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Hilda Graciela Pérez Luis, Secretaria.- Dip. Leslie Vibsania Mendoza Zavaleta, Secretaria.- Dip. María Mercedes Rojo Saldaña, Secretaria.- Rúbricas.”
+
+Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 20 de octubre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
