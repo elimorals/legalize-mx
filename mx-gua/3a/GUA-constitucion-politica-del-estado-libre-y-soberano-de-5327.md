@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2017-10-06"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE OCTUBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -37,7 +35,7 @@ Que la XXVI H. Legislatura del mismo, con el carácter de Congreso Constituyente
 
 CONSTITUCION.
 
-...
+[...]
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -938,6 +936,10 @@ Jamás podrán reunirse dos o más de estos Poderes en un solo individuo o corpo
 ###### ARTICULO 41.
 
 El Congreso del Estado de Guanajuato se compondrá de representantes populares electos en su totalidad cada tres años, mediante votación libre, directa y secreta. Por cada Diputado Propietario se elegirá un Suplente.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+El Poder Legislativo del Estado se regirá por el principio de parlamento abierto, en términos de su ley orgánica.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -4024,3 +4026,11 @@ III. Los recursos humanos, financieros y materiales que la Procuraduría General
 Los titulares de ambos órganos, en coordinación con la Secretaría de Finanzas, Inversión y Administración, realizarán las previsiones necesarias para que dichos recursos queden trasladados oportunamente para la debida atención de los asuntos transferidos.
 
 Artículo Tercero. A partir de la entrada en vigor de las reformas contenidas en el presente Decreto, desahogado el procedimiento señalado en el artículo primero transitorio, los recursos humanos, presupuestales, financieros y materiales de la Procuraduría General de Justicia pasarán al órgano autónomo que el propio Decreto establece, salvo lo dispuesto en (sic) Artículo Segundo transitorio.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 236, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 41 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
