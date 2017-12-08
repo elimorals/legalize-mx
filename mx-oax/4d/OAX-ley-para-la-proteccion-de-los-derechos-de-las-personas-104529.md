@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2014-12-20"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -455,9 +455,11 @@ III. Fomentar la creación y producción de libros, publicaciones, obras artíst
 
 IV. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 19.
 
-A la Secretaría de Turismo y Desarrollo Económico, le corresponde:
+A las Secretarías de Turismo y de Economía, les corresponde:
 
 I. Identificar actividades que puedan ser desempeñadas por las personas adultas mayores y fomentar la creación de grupos y organizaciones productivas;
 
@@ -471,9 +473,17 @@ V. Promover la celebración de convenios entre la iniciativa privada y las organ
 
 VI. Promover las actividades turísticas y de recreación con un diseño particular orientado a las personas adultas mayores, instrumentando las acciones necesarias a fin de que los lugares públicos destinados al turismo y recreación cuenten con actividades y espacios que faciliten la integración social plena de las personas adultas mayores;
 
-VII. Establecer mecanismos para facilitar el acceso al crédito que otorgan las entidades financieras públicas y privadas; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-VIII. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
+VII. Establecer mecanismos para facilitar el acceso al crédito que otorgan las entidades financieras públicas y privadas;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+VIII. Crear y fomentar programas de promoción del emprendimiento social y privado para el empleo de las personas adultas mayores, y;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+IX. Las demás señaladas en las disposiciones legales aplicadas.
 
 ###### Artículo 20.
 
@@ -704,3 +714,11 @@ Tlalixtac de Cabrera, Centro, Oax., 12 de diciembre del 2014.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 751.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
