@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2017-10-06"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -427,15 +427,19 @@ XI. Promover la investigación, recoger datos y compilar estadísticas, especial
 
 XII. Adoptar medidas orientadas a eliminar la violencia contra las mujeres en situación de vulnerabilidad;
 
-XIII. Integrar y actualizar un sistema de información acerca de la violencia contra la mujer y las medidas adoptadas para poner en práctica la presente Ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XIV. Promover la elaboración de directrices adecuadas para ayudar a aplicar los principios enunciados en la presente Ley;
+XIII. Proporcionar modelos de atención, prevención y sanción que establezcan el Estado y los municipios, siendo estos el conjunto de medidas y acciones con perspectiva de género para proteger a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales.
 
-XV. Reconocer el importante papel que desempeñan en todo el mundo. El movimiento en pro de la mujer y las organizaciones no gubernamentales en la tarea de despertar la conciencia acerca del problema de la violencia contra la mujer y aliviar dicho problema;
+XIV. Integrar y actualizar un sistema de información acerca de la violencia contra la mujer y las medidas adoptadas para poner en práctica la presente Ley;
 
-XVI. Facilitar y promover la labor del movimiento en pro de la mujer y las organizaciones no gubernamentales, y cooperar con ellos en los planos local, regional y nacional; y
+XV. Promover la elaboración de directrices adecuadas para ayudar a aplicar los principios enunciados en la presente Ley;
 
-XVII. Alentar a las organizaciones a las que pertenezcan a que incluyan en sus programas, según convenga, la eliminación de la violencia contra la mujer.
+XVI. Reconocer el importante papel que desempeñan en todo el mundo. El movimiento en pro de la mujer y las organizaciones no gubernamentales en la tarea de despertar la conciencia acerca del problema de la violencia contra la mujer y aliviar dicho problema;
+
+XVII. Facilitar y promover la labor del movimiento en pro de la mujer y las organizaciones no gubernamentales, y cooperar con ellos en los planos local, regional y nacional; y
+
+XVIII. Alentar a las organizaciones a las que pertenezcan a que incluyan en sus programas, según convenga, la eliminación de la violencia contra la mujer.
 
 ###### Artículo 13.
 
@@ -477,9 +481,13 @@ II. Proporcionar protección inmediata y efectiva por parte de las entidades pú
 
 III. Brindar un trato digno, privacidad y respeto durante cualquier entrevista o actuación como víctima de violencia;
 
-IV. Otorgar asesoría jurídica gratuita en los asuntos relacionados con la violencia de la cual sea víctima;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-V. Proporcionar asistencia médica y psicológica gratuita para la atención de la (sic) consecuencias generadas por la violencia;
+IV. Otorgar asesoría jurídica gratuita, en los asuntos relacionados con la violencia de la cual sea víctima, que favorezca su empoderamiento, cese o disminuya la conducta violenta raíz de la cual es víctima y reparen el daño causado por dicha violencia;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+V. Proporcionar asistencia médica y psicológica gratuita que favorezca su empoderamiento, cese o disminuya la conducta violenta raíz de la cual es víctima, para la atención de las consecuencias generadas por la violencia;
 
 VI. Efectuar acciones de asistencia social que contribuyan a su pleno desarrollo, en coordinación con las entidades correspondientes, según sea el caso;
 
@@ -1900,3 +1908,11 @@ P.O. 6 DE OCTUBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1031.- SE REFORMA LA FRACCIÓN XIII, RECORRIENDO LAS CONSECUENTES DEL ARTÍCULO 12, ASÍ COMO LAS FRACCIONES IV Y V DEL ARTÍCULO 15 AMBOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE COAHUILA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
