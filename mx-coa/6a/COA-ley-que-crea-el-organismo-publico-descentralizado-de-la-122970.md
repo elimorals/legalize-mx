@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-de-la-122970"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-05"
-last_updated: "2017-05-05"
+last_updated: "2017-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DENOMINADO “INSTITUTO MUNICIPAL DE MÚSICA DE TORREÓN, COAHUILA DE ZARAGOZA"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número 36 del Periódico Oficial del Estado de Coahuila, el viernes 5 de mayo de 2017.
 
@@ -107,6 +107,12 @@ XIV. Elaborar las disposiciones normativas necesarias para el logro de sus objet
 
 XV. Las demás que se desprendan de otras disposiciones normativas aplicables.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 4° Bis.
+
+El Instituto contará con un Patronato que será independiente del Municipio y tendrá autonomía de gestión. Su integración y funcionamiento se regirá por lo dispuesto en su escritura o acta constitutiva, siempre de conformidad al ámbito competencial que establece esta Ley. El Patronato tendrá por objeto coadyuvar en el desarrollo de las acciones orientadas al fortalecimiento de los recursos económicos, académicos y técnicos del Instituto.
+
 ### CAPÍTULO SEGUNDO. De los órganos de dirección y administración
 
 ###### Artículo 5°.
@@ -133,21 +139,31 @@ III. Un Comisario;
 
 IV. EI Presidente de la Comisión de Educacion, Arte y Cultura del Cabildo; y,
 
-V. Tres vocales del consejo académico.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+V. Tres vocales.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 8°.
 
-La designación del Director General del Organismo será propuesta por el Consejo Académico y designado por la Junta Directiva.
+La designación de los integrantes de la Junta Directiva a que se refieren las fracciones II, III y V del artículo anterior, se sujetará a lo siguiente:
+
+El Director General del Organismo será propuesto por el Presidente Municipal y designado por mayoría de votos del Cabildo, en sesión expresamente convocada para ello.
 
 El Comisario será propuesto por el Contralor Municipal y designado por mayoría de votos del Cabildo.
 
-Los tres vocales serán designados por la junta directiva a propuesta del Consejo Académico.
+Los tres vocales serán designados por mayoría de votos del Cabildo de entre las propuestas que para tal efecto presenten el Presidente Municipal y el Patronato.
 
-La duración del encargo comprenderá el periodo constitucional del Ayuntamiento que los nombre y solo podrán ser removidos por causas graves con el voto de las dos terceras partes de los miembros del Cabildo presentes en la sesión que para tal efecto se convoque.
+La duración del encargo comprenderá el periodo constitucional del Ayuntamiento que los nombre y solo podrán ser removidos por causas graves con el voto de las dos terceras partes de los miembros del Cabildo presentes en la sesión convocada expresamente para ello.
+
+En caso de ausencia definitiva, el Presidente Municipal o, en su caso, el Contralor, nombrará a quién deba suplir la ausencia, pero la sustitución deberá ser ratificada por el Cabildo dentro de los treinta días siguientes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 9°.
 
-Los cargos de la Junta Directiva serán honorarios, con excepción del Director General cuya remuneración será fijada por la Junta Directiva.
+Los cargos de la Junta Directiva serán honoríficos por lo que no se percibirá remuneración alguna, con excepción del Director General cuya remuneración será fijada por la Junta Directiva.
 
 EI funcionamiento de la Junta Directiva y las atribuciones de sus integrantes se regirán por las disposiciones contenidas en el presente ordenamiento, su reglamento interior y demás disposiciones legales que resulten aplicables.
 
@@ -173,19 +189,27 @@ VIII. Las demás que le confieran las disposiciones legales aplicables.
 
 ### CAPÍTULO TERCERO. Del Director General
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 11.
 
-El Director General será nombrado en los términos establecidos en el artículo 9 y tendrá las siguientes atribuciones:
+El Director General será nombrado en los términos establecidos en el artículo 8 y tendrá las siguientes atribuciones:
 
-I. Cumplir y hacer cumplir las leyes y demás disposiciones vigentes en el presente Reglamento;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-II. Representar legalmente a la Escuela de Música del Estado, ante instituciones y organismos públicos y privados;
+I. Cumplir y hacer cumplir el siguiente ordenamiento, así como los reglamentos que el cumplimiento del mismo sean expedidos por el Cabildo;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+II. Representar legalmente al Instituto Municipal de Música ante instituciones y organismos públicos y privados, nacionales y extranjeros;
 
 III. Previa autorización de la Junta Directiva, implementar cambios a las políticas de la Institución, que de acuerdo a su criterio, promuevan el mejoramiento y desarrollo de la vida académica e institucional del Instituto Municipal de Música;
 
 IV. Administrar, supervisar los recursos técnicos, presupuestales, humanos y materiales, muebles e inmuebles bajo su responsabilidad;
 
-V. Elaborar y presentar el Programa Operativo Anual para posteriormente presentarlo ante la Junta Directiva;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+V. Elaborar el programa operativo anual y someterlo a la consideración de la Junta Directiva;
 
 VI. Vincular a la Institución con los distintos sectores de la sociedad con el fin de promover una cultura musical con calidad, equidad de género y responsabilidad;
 
@@ -193,13 +217,21 @@ VII. Prever la realización de programas anuales, intercambios y residencias, se
 
 VIII. Promover la colaboración de la comunidad estudiantil en seminarios, simposios, congresos, festivales, encuentros y concursos;
 
-IX. Proponer ante la Dirección General del Instituto, la contratación de personal, de conformidad con las necesidades del servicio, disposición presupuestal y procedimientos que cada tipo de contratación requiere; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-X. Las demás que le confiera la Junta Directiva.
+IX. Proponer a la Junta Directiva la contratación de personal, de conformidad con las necesidades del servicio y la disposición presupuestal;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+X. Representar legalmente al Instituto Municipal de Música con carácter de apoderado general para pleitos y cobranzas, así como para administrar bienes, con todas las facultades generales y especiales que requieran cláusula especial conforme a la Ley; y
+
+XI. Las demás que le confiera la Junta Directiva.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 12.
 
-El Director General del Organismo no podrá vender, ceder, enajenar o gravar los bienes muebles e inmuebles que formen parte del patrimonio del organismo, salvo autorización expresa emitida para tal efecto por parte de la Junta Directiva.
+El Director General del Organismo no podrá vender, ceder, enajenar o gravar los bienes muebles e inmuebles que formen parte del patrimonio del organismo, salvo autorización expresa emitida para tal efecto por parte de la Junta Directiva y de conformidad a lo que disponga el Código Municipal para el Estado de Coahuila de Zaragoza.
 
 ### CAPÍTULO CUARTO. Del Consejo Académico Consultivo
 
@@ -223,9 +255,11 @@ V. Programas de investigación a cargo del Organismo; y
 
 VI. Aquellos que se relacionen con el nivel académico del Organismo.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 15.
 
-Los cargos en el Consejo serán honorarios por lo que no se percibirá remuneración alguna. Sus integrantes serán nombrados por la Junta Directiva y durarán en su encargo tres años.
+Los cargos en el Consejo serán honoríficos por lo que no se percibirá remuneración alguna. Sus integrantes serán nombrados por la Junta Directiva y durarán en su encargo tres años.
 
 ### CAPÍTULO QUINTO. Del control y vigilancia
 
@@ -304,3 +338,13 @@ EL SECRETARIO DE GOBIERNO
 VÍCTOR MANUEL ZAMORA RODRÍGUEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1024 SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 7º, EL ARTÍCULO 8º, EL PRIMER PÁRRAFO DEL ARTÍCULO 9º, LAS FRACCIONES I, II, V Y IX DEL ARTÍCULO 11, EL ARTÍCULO 12 Y EL ARTÍCULO 15; SE ADICIONA EL ARTÍCULO 4º BIS Y LA FRACCIÓN X, RECORRIÉNDOSE LA ULTERIOR DEL ARTÍCULO 11 DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DENOMINADO "INSTITUTO MUNICIPAL DE MÚSICA DE TORREÓN, COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
