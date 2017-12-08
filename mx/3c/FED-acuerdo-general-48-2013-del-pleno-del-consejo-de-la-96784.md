@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-48-2013-del-pleno-del-consejo-de-la-96784"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-06"
-last_updated: "2017-04-28"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96784&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-28"
 
 ACUERDO GENERAL 48/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2017.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 6 de diciembre de 2013.
 
@@ -107,9 +107,9 @@ X. Poder Judicial de la Federación: Poder Judicial de la Federación a excepci�
 
 XI. Reglas de Operación: Instrumento aprobado por el Comité Técnico que tiene como propósito regir el funcionamiento del Fideicomiso, y
 
-> <small>(REFORMADA, D.O.F. 31 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 8 DE DICIEMBRE DE 2017)</small>
 
-XII. Secretario: Servidor público que sea designado por el Comité como Secretario del Comité Técnico y de la Unidad de Evaluación de Proyectos; y
+XII. Secretario: Persona designada por el Comité Técnico por mayoría simple de sus integrantes, a propuesta de su Presidente, como Secretario de éste y de la Unidad de Evaluación de Proyectos; y
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
 
@@ -514,3 +514,11 @@ SEXTO. Los asuntos que se relacionen con las atribuciones que se confieren a la 
 SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
 
 OCTAVO. Las secretarías ejecutivas de Administración; y de Finanzas y Servicios Personales deberán formular los manuales específicos de organización y de puestos; y los manuales de procedimientos respectivos dentro de los cuarenta y cinco días hábiles posteriores a la entrada en vigor del presente Acuerdo, y remitirlos para los efectos correspondientes a la Dirección General de Innovación, Planeación y Desarrollo Institucional.
+
+D.O.F. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 48/2013, QUE CONSTITUYE EL FIDEICOMISO PARA EL DESARROLLO DE INFRAESTRUCTURA QUE IMPLEMENTA LA REFORMA CONSTITUCIONAL EN MATERIA PENAL, RESPECTO DE LA DESIGNACIÓN DEL SECRETARIO DEL COMITÉ".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
