@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2017-12-01"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -2222,6 +2222,10 @@ Los Municipios deberán promover e instrumentar en sus reglamentos las garantía
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 En los reglamentos municipales deberán observarse, en el ámbito de su competencia, las leyes o decretos que apruebe el Congreso del Estado en materia municipal, así como las demás normas reglamentarias que expidan los poderes públicos del Estado para uniformar el régimen interno de la entidad.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+Cuando los municipios, ante la falta de un determinado reglamento o disposición fundamenten sus actos y resoluciones en las leyes estatales, deberán citar y fundamentar debidamente la aplicación del ordenamiento y la porción normativa invocada.
 
 ### CAPÍTULO V. DEL REGLAMENTO INTERIOR PARA LA ORGANIZACIÓN POLÍTICA DEL MUNICIPIO
 
@@ -4490,3 +4494,11 @@ P.O. 1 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 1018.- SE REFORMA LA FRACCIÓN IX Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 102 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1025.- SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 183 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
