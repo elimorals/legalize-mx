@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2017-04-26"
+last_updated: "2017-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -439,7 +439,31 @@ Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes 
 
 de Género Las (sic) personas mayores de 12 años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de 12 años, sólo podrán solicitar las órdenes a través de sus representantes legales.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
 ### Capítulo Tercero. Del Programa
+
+###### Artículo 31 Bis.
+
+En caso de no localización de una mujer dentro del territorio del Estado de Oaxaca o alguno de sus municipios, se implementará un programa de búsqueda para mujeres no localizadas al que se denominará "Alerta Rosa".
+
+Este programa constituirá un protocolo de actuación y una herramienta eficaz de difusión masiva e inmediata en todos los medios de comunicación disponibles, que permitirá la inmediata localización y recuperación de mujeres que se encuentren en riesgo inminente de sufrir daño grave por motivo de su no localización o cualquier circunstancia donde se presuma la comisión de algún delito ocurrido en el territorio estatal.
+
+Este programa contará con un Comité Estatal, el cual será integrado por las dependencias competentes que señala esta Ley, y será presidida por el Titular de la Fiscalía General del Estado de Oaxaca. El Comité contará con los órganos necesarios que señalen sus propios lineamientos, en donde los miembros serán honoríficos.
+
+Los requisitos que se tomarán en cuenta para activar la "Alerta Rosa" en todo el territorio del estado son los siguientes:
+
+I. Que se trate de una mujer;
+
+II. Que se encuentre en riesgo inminente de sufrir daño grave a su integridad personal, y;
+
+III. Que exista información suficiente: Nombre, edad, sexo, características físicas, señas particulares, padecimientos, discapacidades, vestimenta que portaba al momento de la ausencia, así como la descripción de las circunstancias de los hechos, las personas y vehículos involucrados, la última vez que fue vista y demás información que se considere relevante.
+
+La Fiscalía General del Estado de Oaxaca será la autoridad competente para evaluar, analizar y, en su caso, realizar la activación de la "Alerta Rosa" en el Estado.
+
+La "Alerta Rosa" se activará una vez recibido el reporte de no localización de una mujer y será independiente al proceso de investigación y demás mecanismos que implementan las autoridades para localizar y recuperar lo más pronto posible a las mujeres desaparecidas, por lo tanto, el hecho de que no proceda la activación de una alerta, no significa que no se lleve a cabo una investigación o que no se realicen acciones para la pronta localización de las mujeres desaparecidas.
+
+Una vez activada la "Alerta Rosa" podrá participar la sociedad civil, medios de comunicación, empresas y todos aquellos sectores que deseen colaborar para sumar esfuerzos y potenciar la búsqueda y localización.
 
 ## TÍTULO III. DEL SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -789,9 +813,17 @@ IX. Aplicar los programas de reeducación y reinserción social con perspectiva 
 
 X. Realizar campañas de información con énfasis en la protección integral de los derechos humanos de las mujeres, el conocimiento de las leyes, medidas y programas que las protegen, así como de las instancias y recursos que las asisten;
 
-XI. Impulsar la suscripción de acuerdos de concertación entre las diferentes instancias públicas o privadas, para el cumplimento (sic) de los objetivos de esta Ley; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XII. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
+XI. Impulsar la suscripción de acuerdos de concertación entre las diferentes instancias públicas o privadas, para el cumplimento (sic) de los objetivos de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XII. Implementar y operar la "Alerta Rosa" en todo el territorio del Estado, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XIII. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
 
 ###### Artículo 55.
 
@@ -819,11 +851,11 @@ II. Aprobar en el presupuesto anual de egresos del Gobierno del Estado, recursos
 
 III. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 57.
 
-Son atribuciones de la Fiscalía General del Estado:
+Son atribuciones de la Fiscalía General del Estado de Oaxaca:
 
 I. Participar en la elaboración y ejecución del Programa y en el diseño de nuevos modelos de erradicación de la violencia contra las mujeres;
 
@@ -843,9 +875,17 @@ VII. Brindar a las víctimas información objetiva que les permita reconocer su 
 
 VIII. Promover la cultura de denuncia de la violencia contra las mujeres garantizando la seguridad de quienes denuncian, así mismo, promover y proteger a través de la Fiscalía Especializada en Materia de Delitos Electorales, (sic) ejercicio de los derechos humanos político-electorales de las mujeres.
 
-IX. Informar al Consejo sobre la ejecución de las actividades de su competencia contenidas en el Programa; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-X. Las demás que esta Ley y otras disposiciones aplicables le señalen.
+IX. Informar al Consejo sobre la ejecución de las actividades de su competencia contenidas en el Programa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+X. Evaluar, analizar y, en su caso, realizar la activación del Programa "Alerta Rosa" en el Estado, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XI. Las demás que esta Ley y otras disposiciones aplicables le señalen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2017)</small>
 
@@ -903,13 +943,17 @@ XIV. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
 XV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XVI. Coadyuvar en la formación de liderazgos políticos de las mujeres; impulsar mecanismos de promoción, protección y respeto de los derechos-político electorales de las mujeres; y
+XVI. Coadyuvar en la formación de liderazgos políticos de las mujeres, impulsar mecanismos de promoción, protección y respeto de los derechos políticoelectorales de las mujeres;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XVII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+XVII. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 59.
 
@@ -933,9 +977,17 @@ VIII. Prestar servicios jurídicos gratuitos y especializados de orientación y 
 
 IX. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XI. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XI. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 60.
 
@@ -969,9 +1021,17 @@ e) Los recursos erogados en la atención de las víctimas;
 
 IX. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XI. Las demás previstas para el cumplimiento de la presente Ley.
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XI. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 61.
 
@@ -993,9 +1053,17 @@ VII. Formular acciones y programas orientados a fomentar la cultura del respeto 
 
 VIII. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-X. Las demás previstas para el cumplimiento de la presente Ley.
+IX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+X. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XI. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 62.
 
@@ -1059,9 +1127,17 @@ V. Difundir información en el Estado, sobre las causas y efectos de la violenci
 
 VI. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-VII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-VIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+VII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+VIII. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+IX. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 65.
 
@@ -1105,13 +1181,23 @@ XVIII. Diseñar, con una visión transversal, la política integral con perspect
 
 XIX. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-XX. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XXI. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+XX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XXI. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XXII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 66.
 
-Corresponde a la Comisión para la Defensa de los Derechos Humanos del Estado:
+Corresponde a la Defensoría de los Derechos Humanos del Pueblo de Oaxaca:
 
 I. Institucionalizar la perspectiva de género en el ejercicio de las funciones sustantivas y administrativas de la Comisión;
 
@@ -1123,9 +1209,17 @@ IV. Modificar sus sistemas estadísticos para incorporar indicadores que facilit
 
 V. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-VI. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-VII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+VI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+VII. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en todo el Estado, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+VIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 67.
 
@@ -1159,9 +1253,17 @@ b) Los procedimientos de denuncia para las víctimas;
 
 c) Las instituciones encargadas de su atención;
 
-d) Campañas de prevención de la violencia contra las mujeres; y
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-e) La igualdad sustantiva entre la mujer y el hombre.
+d) Campañas de prevención de la violencia contra las mujeres;
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+e) La igualdad sustantiva entre la mujer y el hombre, y;
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+f) El Programa "Alerta Rosa" en todo el Estado.
 
 En los pueblos y comunidades indígenas la difusión se realizará en su lengua de origen.
 
@@ -1231,9 +1333,17 @@ VII. Impulsar proyectos culturales y productivos destinados a mejorar las condic
 
 VIII. Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-X. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+IX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+X. Coadyuvar y participar en la operación y ejecución del Programa "Alerta Rosa" en sus respectivos territorios, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
+
+XI. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ## TÍTULO IV. DE LA PREVENCIÓN DE LA VIOLENCIA, ATENCIÓN INTEGRAL A SUS VÍCTIMAS Y REEDUCACIÓN A LOS AGRESORES
 
@@ -1502,3 +1612,11 @@ P.O. 26 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 589.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES POLÍTICAS Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE OAXACA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 750, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. A partir de la entrada en vigor de la (sic) presente, el Comité Estatal del Programa "Alerta Rosa" en un plazo no mayor de sesenta días deberá emitir los lineamientos correspondientes.
