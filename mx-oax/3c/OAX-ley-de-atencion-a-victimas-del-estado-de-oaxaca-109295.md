@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-atencion-a-victimas-del-estado-de-oaxaca-109295"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2015-05-07"
+last_updated: "2017-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE ATENCION A VICTIMAS DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE VÍCTIMAS DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 9 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN LA FORMA Y TÉRMINO SEÑALADOS EN EL DECRETO MEDIANTE EL CUAL SE DETERMINA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN CADA UNA DE LAS REGIONES DEL ESTADO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 7 de mayo de 2015.
 
@@ -1214,3 +1214,35 @@ Tlalixtac de Cabrera, Centro, Oax., 07 de mayo del 2015.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 747.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE VÍCTIMAS DEL ESTADO DE OAXACA".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga la Ley de Atención a Víctimas del Estado de Oaxaca, expedida mediante Decreto 1232 de fecha 26 de marzo de 2015, publicado en el Periódico Oficial del Estado el 7 de mayo de 2015, y se derogan todas las disposiciones que contravengan lo dispuesto en la presente Ley.
+
+TERCERO. Se abroga la Ley Reglamentaria del Artículo 4° de la Constitución Política del Estado Libre y Soberano de Oaxaca, por la que se crea el Fondo para la reparación del daño a violaciones graves y víctimas de los Derechos Humanos en Oaxaca, expedida mediante Decreto 1392 de fecha 19 de diciembre de 2012, publicado en el Periódico Oficial del Estado el 4 de junio de 2013.
+
+CUARTO. El Reglamento de la presente Ley deberá expedirse dentro de los sesenta días naturales siguientes a la fecha de la publicación del presente Decreto.
+
+QUINTO. El Sistema Estatal de Ayuda, Atención y Reparación Integral de Víctimas a que se refiere la presente Ley deberá crearse dentro de los sesenta días naturales a partir de la entrada en vigor de esta Ley.
+
+Las autoridades relacionadas en el artículo 82 que integrarán el Sistema Estatal de Víctimas en un término de ciento ochenta días naturales deberán reformar sus Reglamentos a efecto de señalar la Dirección, Subdirección, Jefatura de Departamento que estarán a cargo de las obligaciones que le impone esta nueva función
+
+SEXTO. El Ejecutivo Estatal, enviará al Honorable Congreso del Estado, la terna para ocupar el cargo de Comisionado Ejecutivo a que se refieren los artículos 92 y 93 de la Ley.
+
+SÉPTIMO. Constituida la Comisión Ejecutiva Estatal, en un plazo no mayor de noventa días hábiles, emitirá los lineamientos a los que se refieren los artículos 39, 45, 64, 95 fracción XXVI y 100 fracción II de la presente Ley.
+
+OCTAVO. Constituida la Asamblea Consultiva, deberá elegir a los integrantes de la Junta de Gobierno dentro de los diez días siguientes.
+
+NOVENO. El Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley y establecer una partida presupuestal específica en el Presupuesto de Egresos del Estado para el siguiente ejercicio fiscal a su entrada en vigor.
+
+DÉCIMO. En un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto: las secretarías de despacho, dependencias, organismos y entidades del orden estatal, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán adecuar su normatividad conforme al Programa Estatal y el Modelo de atención a víctimas previstos en la Ley y el Reglamento.
+
+Las Instituciones estatales y municipales deberán reglamentar sobre la capacitación de los servidores públicos a su cargo sobre el contenido del rubro denominado De la Capacitación, Formación, Actualización y Especialización, en la presente Ley.
+
+DÉCIMO PRIMERO. La Fiscalía General del Estado, deberá generar los protocolos necesarios en materia pericial, a que se refiere la presente Ley en un plazo de 180 días naturales.
