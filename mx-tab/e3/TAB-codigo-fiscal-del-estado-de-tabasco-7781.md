@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2017-07-05"
+last_updated: "2017-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -435,11 +435,11 @@ La responsabilidad solidaria comprenderá los accesorios, con excepción de las 
 
 ### Capítulo I. De los Derechos y Obligaciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 19.
 
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital, firmando a su nombre ya (sic) su ruego una persona con capacidad legal.
+Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital, firmando a su nombre y a su ruego una persona con capacidad legal.
 
 Las promociones deberán contener por lo menos los requisitos siguientes:
 
@@ -449,21 +449,25 @@ I. Constar por escrito;
 
 II. El nombre, la denominación o razón social y el domicilio fiscal manifestado ante el Registro Estatal de Contribuyentes, para el efecto de fijar la competencia de la autoridad y la clave que le correspondió en dicho registro;
 
-III. Señalar la autoridad a la que se dirige y el propósito de la promoción; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+III. Señalar la autoridad a la que se dirige y el propósito de la promoción;
 
-IV. En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+IV. El domicilio para oír y recibir notificaciones ubicado en el lugar donde resida la autoridad a la que dirige su promoción y el nombre de la persona autorizada para recibirlas;
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 V. Copia de la identificación del contribuyente o representante legal, previo cotejo con su original; y
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-VI. La dirección de correo electrónico para recibir notificaciones;
+VI. La dirección de correo electrónico para recibir notificaciones.
 
-Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de diez días cumpla con el requisito omitido. En caso de no subsanarse la omisión, la promoción se tendrá por no presentada.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+Cuando no se cumpla con alguno de los requisitos mencionados en las fracciones I, II, III, V y VI a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de diez días cumpla con el requisito omitido, en caso de no subsanarse la omisión, la promoción se tendrá por no presentada. Asimismo, cuando no se cumpla con el requisito establecido en la fracción IV de este artículo, las notificaciones se realizarán conforme a la fracción III del artículo 94 del presente Código.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -3993,11 +3997,115 @@ SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE EXPIDE LA LEY NACIONAL DE EJECUCIÓN PENAL; SE ADICIONAN LAS FRACCIONES XXXV, XXXVI Y XXXVII Y UN QUINTO PÁRRAFO, Y SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 225 DEL CÓDIGO PENAL FEDERAL”.]
+P.O. 9 DE DICIEMBRE DE 2017.
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL DECRETO 138 POR EL QUE "SE REFORMA: EL ARTÍCULO 19, PÁRRAFOS PRIMERO Y TERCERO, Y SUS FRACCIONES III, IV Y VI, TODO DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO".]
 
-D.O.F. 17 DE JUNIO DE 2016.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, con las salvedades previstas en los artículos transitorios siguientes.
+
+SEGUNDO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2018 y la Ley de Hacienda del Estado de Tabasco, entrarán en vigor a partir del 1 de enero de 2018.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2018 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de la competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquéllas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaria estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2018 o cualquier otro ordenamiento legal en que así proceda.
+
+Dichas disposiciones serán aplicables para los convenios que hayan sido celebrados durante ejercicios fiscales anteriores.
+
+QUINTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2018 no contempla los recursos refrendados del ejercicio fiscal 2017, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2018.
+
+SEXTO. Se condonan y se eximen parcialmente, durante el ejercicio fiscal 2018, los créditos fiscales y las obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías, conforme a lo siguiente:
+
+I. Los determinados por concepto Impuesto Vehicular Estatal establecido en el capítulo séptimo del título segundo vigente hasta el 31 de diciembre de 2014, en la Ley de Hacienda del Estado de Tabasco, correspondientes a los ejercicios 2011, 2012, 2013 y 2014.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2018, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados al Impuesto Vehicular Estatal; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago de este impuesto más su actualización, dentro del periodo en comento, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% Enero - Diciembre 2018
+
+Gastos de ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de seis meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado. El cual será aplicable durante los meses de enero, febrero y marzo del ejercicio 2018.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el presente artículo transitorio.
+
+II. Los determinados por concepto de derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2018.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2018, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados por concepto del derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2018; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% Enero - Diciembre 2018
+
+Gastos de ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción II del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de seis meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado. El cual será aplicable durante los meses de enero, febrero y marzo del ejercicio 2018.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85, fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2018; hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el presente artículo transitorio.
+
+III. De igual forma los contribuyentes podrán optar por pagar el impuesto de forma bancarizada mediante las siguientes opciones:
+
+1. Portal de Recaudanet
+
+2. Receptorías de Rentas
+
+A través de los siguientes medios:
+
+a) Transferencia electrónica (únicamente en Recaudanet).
+
+b) Tarjeta de crédito.
+
+c) Tarjeta de débito.
+
+d) Comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado.
+
+Lo anterior de conformidad con los procedimientos establecidos en el artículo 21 del Código Fiscal del Estado.
+
+IV. La condonación a que se refiere este artículo, también procederá aún y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán condonar los créditos fiscales pagados y en ningún caso la condonación a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión al beneficio de condonación previsto en este artículo, no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+SÉPTIMO. La Secretaría de Planeación y Finanzas expedirá dentro de los 30 días hábiles siguientes a la entrada en vigor del presente decreto, las reglas que considere necesarias para la correcta aplicación de la condonación y estímulo fiscal que se otorga en el artículo transitorio que antecede.
+
+La Secretaría de Planeación y Finanzas informará, de conformidad a lo establecido en el Artículo 2 de la presente Ley, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+OCTAVO. El Ejecutivo estatal a través de la Secretaría de Planeación y Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2018, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año-modelo sea 2014 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares, será autorizada por la Secretaría de Planeación y Finanzas quien deberá expedir a mas tardar los 30 días siguientes a la entrada en vigor del presente decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada, serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de éste;
+
+II. Que la autoridad fiscal competente requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Planeación y Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Vialidad y Tránsito del Estado de Tabasco; 6, fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Planeación y Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas, así como todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+NOVENO. El Ejecutivo Estatal por conducto de la Secretaría de Planeación y Finanzas, implementará a partir del 1º de enero de 2018 un programa adicional al contemplado en el artículo Sexto transitorio del presente Decreto, dicho programa contemplará la condonación de pagos y beneficios fiscales, respecto a los créditos fiscales y obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías de motocicletas y motonetas dichos vehículos (sic).
+
+Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes que se inscriban en el Registro Estatal de Vehículos y obtengan su placa de circulación vigente, lo que permitirá identificar a los propietarios de las motocicletas y motonetas que circulan en el Estado de Tabasco.
+
+Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relativas a la inscripción en el Registro Estatal de Vehículos y al emplacamiento de las motocicletas y motonetas que circulan en la entidad, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad Pública y las autoridades municipales en materia de tránsito y vialidad, implementarán a partir del 1° de enero de 2018 un programa de vigilancia e inspección en relación a aquellos ciudadanos que circulen en el Estado en vehículos sin placas de circulación o con placas de circulación que no se encuentren vigentes, tomando en consideración la vigencia establecida por las autoridades federales en la normatividad aplicable.
+
+DÉCIMO. El 30% del coeficiente de distribución de la recaudación excedente del Fondo de Fomento Municipal con respecto a 2013, y el año en que se efectúe el cálculo, en términos de la fórmula establecida en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, que a la entrada en vigor del presente decreto le corresponda a los municipios, se distribuirá en términos de lo dispuesto en el artículo 16 Quáter de la presente Ley.
+
+DÉCIMO PRIMERO. Las promociones a que se refiere el artículo 19 del Código Fiscal del Estado de Tabasco, que se hubieran presentado con anterioridad a la entrada en vigor del presente decreto, continuarán su trámite hasta su resolución conforme a las disposiciones vigentes a la fecha de su presentación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES; DEL CÓDIGO PENAL FEDERAL; DE LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA; DE LA LEY FEDERAL PARA LA PROTECCIÓN A PERSONAS QUE INTERVIENEN EN EL PROCEDIMIENTO PENAL; DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, DE LA LEY FEDERAL DE DEFENSORÍA PÚBLICA, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY DE INSTITUCIONES DE CRÉDITO”.]
 
