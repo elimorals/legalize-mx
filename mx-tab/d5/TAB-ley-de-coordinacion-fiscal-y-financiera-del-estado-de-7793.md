@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-coordinacion-fiscal-y-financiera-del-estado-de-7793"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "2016-03-19"
+last_updated: "2017-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 1992.
 
@@ -85,85 +85,155 @@ LOS INGRESOS DE LOS MUNICIPIOS, DE CONFORMIDAD CON LA LEY DE HACIENDA MUNICIPAL 
 
 I. IMPUESTOS
 
-I. PREDIAL;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-II. SOBRE TRASLACION DE DOMINIOS DE BIENES INMUEBLES;
+A. PREDIAL;
 
-III. SOBRE ESPECTACULOS PUBLICOS NO GRAVADOS POR EL IVA;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+B. SOBRE TRASLACION DE DOMINIOS DE BIENES INMUEBLES;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+C. SOBRE ESPECTACULOS PUBLICOS NO GRAVADOS POR EL IMPUESTO AL VALOR AGREGADO;
 
 II. DERECHOS
 
-I. DE LAS LICENCIAS Y PERMISOS DE CONSTRUCCION;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-II. DE LAS LICENCIAS Y DE LOS PERMISOS PARA FRACCIONAMIENTOS, CONDOMINIOS Y LOTIFICACIONES, RELOTIFICACIONES, DIVISIONES, SUBDIVISIONES Y FUSIONES DE PREDIOS;
+A. DE LAS LICENCIAS Y PERMISOS DE CONSTRUCCION;
 
-III. DE LA PROPIEDAD MUNICIPAL;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-IV. DE LOS SERVICIOS MUNICIPALES DE OBRAS;
+B. DE LAS LICENCIAS Y DE LOS PERMISOS PARA FRACCIONAMIENTOS, CONDOMINIOS Y LOTIFICACIONES, RELOTIFICACIONES, DIVISIONES, SUBDIVISIONES Y FUSIONES DE PREDIOS;
 
-V. DE LA EXPEDICION DE TITULOS DE TERRENOS MUNICIPALES;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-VI. DE LOS SERVICIOS, REGISTROS E INSCRIPCIONES;
+C. DE LA PROPIEDAD MUNICIPAL;
 
-VII. DE LOS SERVICIOS COLECTIVOS;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-VIII. DE LAS AUTORIZACIONES PARA LA COLOCACION DE ANUNCIOS Y CARTELES, O LA REALIZACION DE PUBLICIDAD;
+D. DE LOS SERVICIOS MUNICIPALES DE OBRAS;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+E. DE LA EXPEDICION DE TITULOS DE TERRENOS MUNICIPALES;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+F. DE LOS SERVICIO (SIC), REGISTROS E INSCRIPCIONES;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+G. DE LOS SERVICIOS COLECTIVOS;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+H. DE LAS AUTORIZACIONES PARA LA COLOCACION DE ANUNCIOS Y CARTELES, O LA REALIZACION DE PUBLICIDAD;
 
 III. PRODUCTOS
 
-I. ARRENDAMIENTO Y EXPLOTACION DE BIENES DEL MUNICIPIO;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-II. DE LAS PUBLICACIONES;
+A. ARRENDAMIENTO Y EXPLOTACION DE BIENES DEL MUNICIPIO;
 
-III. DE LOS PRODUCTOS FINANCIEROS;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+B. DE LAS PUBLICACIONES;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+C. DE LOS PRODUCTOS FINANCIEROS;
 
 IV. APROVECHAMIENTOS
 
-I. REINTEGROS;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-II. DONATIVOS;
+A. REINTEGROS;
 
-III. COOPERACIONES;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-IV. MULTAS;
+B. DONATIVOS;
 
-V. RECARGOS Y GASTOS DE EJECUCION;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-VI. REZAGOS;
+C. COOPERACIONES;
 
-VII. INDEMNIZACIONES Y REMATES;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+D. MULTAS;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+E. RECARGOS Y GASTOS DE EJECUCION;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+F. REZAGOS;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+G. INDEMNIZACIONES Y REMATES;
 
 V. PARTICIPACIONES Y APORTACIONES FEDERALES
 
-I. FONDO MUNICIPAL DE PARTICIPACIONES;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-II. FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL (RAMO 33, FONDO III);
+A. FONDO MUNICIPAL DE PARTICIPACIONES;
 
-III. FONDO DE APORTACIONES PARA EL FORTALECIMIENTO MUNICIPAL (RAMO 33 FONDO IV);
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-IV. DESARROLLO SOCIAL (RAMO ADMINISTRATIVO 20);
+B. FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL (RAMO 33, FONDO III);
 
-V. 3.17% DEL DERECHO ADICIONAL SOBRE EXTRACCION DE PETROLEO;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-VI. OTROS;
+C. FONDO DE APORTACIONES PARA EL FORTALECIMIENTO MUNICIPAL (RAMO 33 FONDO IV);
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+D. DESARROLLO SOCIAL (RAMO ADMINISTRATIVO 20);
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+E. PARTICIPACION A MUNICIPIOS COLINDANTES CON LA FRONTERA O LITORALES POR DONDE SE REALIZA MATERIALMENTE LA SALIDA DE HIDROCARBUROS;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+F. OTROS;
 
 VI. OTROS INGRESOS
 
-I. USOS Y APROVECHAMIENTOS DE LA ZONA FEDERAL MARITIMO TERRESTRE;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-II. CONVENIO DE DIGNIFICACION PENITENCIARIA;
+A. USOS Y APROVECHAMIENTOS DE LA ZONA FEDERAL MARITIMO TERRESTRE;
 
-III. CONVENIO DE COORDINACION PARA LA TRANSFERENCIA DE LA PRESTACION DEL SERVICIO PUBLICO DE TRANSITO;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-IV. CAMINOS Y PUENTES FEDERALES (CAPUFE);
+B. CONVENIO DE DIGNIFICACION PENITENCIARIA;
 
-V. PARQUES Y JARDINES;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-VI. ACUERDO EN MATERIA DE REGISTRO CIVIL;
+C. CONVENIO DE COORDINACION PARA LA TRANSFERENCIA DE LA PRESTACION DEL SERVICIO PUBLICO DE TRANSITO;
 
-VII. CONVENIO DE COORDINACION PARA LA TRANSFERENCIA DE LA PRESTACION DEL SERVICIO DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE SUS AGUAS RESIDUALES;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-VIII. CONVENIO CON LA SECRETARIA DE DESARROLLO SOCIAL (SEDESOL).
+D. CONVENIO DE CAMINOS Y PUENTES FEDERALES. (CAPUFE)
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+E. CONVENIO DE COORDINACION PARA LA TRANSFERENCIA DE LA PRESTACION DEL SERVICIO PUBLICO DE PARQUES Y JARDINES.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+F. ACUERDO EN MATERIA DE REGISTRO CIVIL;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+G. CONVENIO DE COORDINACION PARA LA TRANSFERENCIA DE LA PRESTACION DEL SERVICIO DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE SUS AGUAS RESIDUALES;
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+H. CONVENIO CON LA SECRETARIA DE DESARROLLO SOCIAL FEDERAL (SEDESOL).
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -179,13 +249,11 @@ LA RELACION CONTENIDA EN EL ARTICULO ANTERIOR NO LIMITA A LOS MUNICIPIOS PARA QU
 
 #### SECCION PRIMERA. PERIODICIDAD DEL CALCULO Y LIQUIDACION DE PARTICIPACIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 4.
 
-EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE PLANEACION Y FINANZAS, CALCULARA Y ENTREGARA CON PERIODICIDAD MENSUAL LAS PARTICIPACIONES FEDERALES QUE LES CORRESPONDAN A LOS MUNICIPIOS, 5 DIAS DESPUES DE QUE EL ESTADO LAS RECIBA EN CADA EJERCICIO FISCAL Y DE ACUERDO A LOS FONDOS QUE ESTABLECE ESTA LEY.
+EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE PLANEACION Y FINANZAS, CALCULARA Y ENTREGARA CON PERIODICIDAD MENSUAL LAS PARTICIPACIONES FEDERALES QUE LES CORRESPONDAN A LOS MUNICIPIOS, 5 DIAS POSTERIORES DE QUE ESTAS FUERAN RECIBIDAS POR EL ESTADO DE ACUERDO A LOS FONDOS QUE ESTABLECE ESTA LEY.
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -213,17 +281,27 @@ LA COMPENSACION ENTRE EL DERECHO DEL MUNICIPIO A RECIBIR PARTICIPACIONES Y LAS O
 
 SE ESTABLECE EL FONDO MUNICIPAL DE PARTICIPACIONES, EL CUAL SE CONSTITUYE CON:
 
-A) EL 22% DEL MONTO PERCIBIDO POR EL ESTADO PROVENIENTE DEL FONDO GENERAL DE PARTICIPACIONES;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-B) EL 100% DEL FONDO DE FOMENTO MUNICIPAL;
+I. EL 22% DEL MONTO PERCIBIDO POR EL ESTADO PROVENIENTE DEL FONDO GENERAL DE PARTICIPACIONES;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+II. EL 100% DEL FONDO DE FOMENTO MUNICIPAL A QUE SE REFIERE LA LEY DE COORDINACION FISCAL, EN TERMINOS DE LO SIGUIENTE:
 
-C) EL 22 % DE LA PARTICIPACION FEDERAL PERCIBIDA POR EL ESTADO EN LA RECAUDACION DEL IMPUESTO SOBRE TENENCIA O IMPUESTO VEHICULAR ESTATAL, ESPECIAL SOBRE PRODUCCION Y SERVICIOS Y SOBRE AUTOMOVILES NUEVOS; Y
+A) EL 100% DE LA PARTICIPACION DEL FONDO DE FOMENTO MUNICIPAL QUE RECIBIO EL ESTADO EN EL EJERCICIO FISCAL 2013.
 
-D) LOS DEMAS RUBROS QUE SEÑALE LA LEY DE COORDINACION FISCAL FEDERAL.
+B) LA CANTIDAD QUE RESULTE DE APLICAR EL COEFICIENTE DE DISTRIBUCION DEL 70% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013 DEL ESTADO EN EL AÑO EN QUE SE EFECTUE EL CALCULO, EN TERMINOS DE LA FORMULA ESTABLECIDA EN EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL.
+
+C) LA CANTIDAD QUE RESULTE DE APLICAR EL COEFICIENTE DE DISTRIBUCION DEL 30% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013 DEL ESTADO EN EL AÑO EN QUE SE EFECTUE EL CALCULO, EN TERMINOS DE LA FORMULA ESTABLECIDA EN EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL. ESTA PARTICIPACION CORRESPONDERA A LOS MUNICIPIOS QUE SE ENCUENTREN EN LOS SUPUESTOS ESTABLECIDOS EN EL ARTICULO 16 QUATER DE LA PRESENTE LEY.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+III. EL 22% DE LA PARTICIPACION FEDERAL PERCIBIDA POR EL ESTADO EN LA RECAUDACION DEL IMPUESTO SOBRE TENENCIA, IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS E IMPUESTO SOBRE AUTOMOVILES NUEVOS, ASI COMO EL 22% DE LA RECAUDACION DEL IMPUESTO VEHICULAR ESTATAL DE EJERCICIOS FISCALES ANTERIORES;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+IV. LOS DEMAS RUBROS QUE SEÑALE LA LEY DE COORDINACION FISCAL.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -231,9 +309,13 @@ D) LOS DEMAS RUBROS QUE SEÑALE LA LEY DE COORDINACION FISCAL FEDERAL.
 
 SE ESTABLECE EL FONDO DE COMPENSACION Y DE COMBUSTIBLES MUNICIPAL DE ACUERDO A LO ESTABLECIDO EN EL ARTICULO 4º A FRACCIONES I Y II DE LA LEY DE COORDINACION FISCAL, EL CUAL SE CONSTITUIRA DE LA SIGUIENTE MANERA.
 
-A) EL 22 % DE LOS RECURSOS QUE RECIBA EL ESTADO POR CONCEPTO DE LA RECAUDACION DERIVADA POR LA APLICACION DE LAS CUOTAS POR LA VENTA FINAL AL PUBLICO DE GASOLINAS Y DIESEL;
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
-B) EL 22 % DEL MONTO QUE RECIBA EL ESTADO PROVENIENTE DEL FONDO DE COMPENSACION.
+A) EL 25% DE LOS RECURSOS QUE RECIBA EL ESTADO POR CONCEPTO DE LA RECAUDACION DERIVADA POR LA APLICACION DE LAS CUOTAS POR LA VENTA FINAL AL PUBLICO DE GASOLINAS Y DIESEL.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+B) EL 25% DEL MONTO QUE RECIBA EL ESTADO PROVENIENTE DEL FONDO DE COMPENSACION.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -349,25 +431,45 @@ LAS MULTAS, RECARGOS Y GASTOS DE EJECUCION, QUE EN SU CASO ENTEREN LOS MUNICIPIO
 
 SI ASI LO ACUERDAN LOS MUNICIPIOS Y LA SECRETARIA DE PLANEACION Y FINANZAS, PODRAN CELEBRAR CONVENIOS PARA LA COMPENSACION DE FONDOS.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+#### SECCION SEPTIMA. DE LA PARTICIPACION DE LOS MUNICIPIOS DEL IMPUESTO SOBRE LA RENTA DE SERVICIOS PERSONALES SUBORDINADOS
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 16
+
+TER.- LOS MUNICIPIOS PARTICIPARAN DEL 100% DE LA RECAUDACION DEL IMPUESTO SOBRE LA RENTA CORRESPONDIENTE AL SALARIO DEL PERSONAL QUE PRESTE O DESEMPEÑE UN SERVICIO PERSONAL SUBORDINADO EN EL MUNICIPIO, ASI COMO EN SUS RESPECTIVAS ENTIDADES PARAMUNICIPALES, QUE EFECTIVAMENTE ENTEREN SUS DEPENDENCIAS Y ENTIDADES PARAMUNICIPALES A LA FEDERACION, SIEMPRE Y CUANDO SE CUMPLA CON LOS SUPUESTOS Y REQUISITOS ESPECIFICADOS EN EL ARTICULO 3-B DE LA LEY DE COORDINACION FISCAL Y DEMAS DISPOSICIONES QUE PARA TALES EFECTOS EMITA LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO.
+
+LA DISTRIBUCION DE DICHA PARTICIPACION SE REALIZARA DE CONFORMIDAD CON LOS MONTOS, QUE POR MUNICIPIO INFORME LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO A LA SECRETARIA DE PLANEACION Y FINANZAS. EN CASO DE QUE DICHA DEPENDENCIA FEDERAL INFORME DEVOLUCIONES EFECTUADAS CON POSTERIORIDAD A LA TRANSFERENCIA DE LA PARTICIPACION QUE LE CORRESPONDA A LOS MUNICIPIOS Y EXISTA UNA DIFERENCIA, LA SECRETARIA DE PLANEACION Y FINANZAS REALIZARA LOS AJUSTES NECESARIOS HASTA QUE DICHA DIFERENCIA SEA CUBIERTA.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+#### SECCION OCTAVA. DEL FONDO POR COORDINACION EN PREDIAL
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 16 QUATER.- SE ESTABLECE EL FONDO POR COORDINACION EN PREDIAL, EL CUAL SE CONSTITUYE CON EL PORCENTAJE A QUE SE REFIERE EL INCISO C) DE LA FRACCION II DEL ARTICULO 7 DE LA PRESENTE LEY, Y SERA DISTRIBUIDO EN LOS MUNICIPIOS QUE SE ENCUENTREN EN LOS SUPUESTOS SIGUIENTES:
+
+I. TENGAN CELEBRADO CON LA SECRETARIA DE PLANEACION Y FINANZAS, CONVENIO DE COORDINACION PARA LA ADMINISTRACION DEL IMPUESTO PREDIAL Y QUE ESTE SE ENCUENTRE PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO.
+
+II. QUE SU RECAUDACION ANUAL DEL IMPUESTO PREDIAL Y POBLACION SEA CONSIDERADA POR LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO PARA LA DISTRIBUCION ENTRE LAS ENTIDADES FEDERATIVAS DEL 30% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013, EN TERMINOS DE LO ESTABLECIDO EN EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL.
+
+LA FORMULA PARA LA DISTRIBUCION DEL FONDO POR COORDINACION EN PREDIAL, SERA LA SIGUIENTE:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 9 DE DICIEMBRE DE 2017, PÁGINAS DE LA 50 A LA 51.]</small>
+
+EL PODER EJECUTIVO REALIZARA PAGOS PROVISIONALES Y LOS AJUSTES CORRESPONDIENTES A LOS MUNICIPIOS QUE TENGAN DERECHO A PARTICIPAR DEL FONDO POR COORDINACION EN PREDIAL DURANTE EL AÑO T, CONFORME LOS PAGOS PROVISIONALES Y AJUSTES QUE A SU VEZ REALICE AL ESTADO LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO EN LA DISTRIBUCION DEL 30% DEL EXCEDENTE DEL FONDO DE FOMENTO MUNICIPAL CON RESPECTO A 2013 MEDIANTE LA FORMULA A LA QUE SE REFIERE EL ARTICULO 2-A, FRACCION III, DE LA LEY DE COORDINACION FISCAL, CONSIDERANDO LA INFORMACION QUE HAYA SIDO EMPLEADA POR DICHA DEPENDENCIA FEDERAL EN EL CALCULO DEL COEFICIENTE CPI,T.
+
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
-
-#### SECCION PRIMERA. GENERALIDADES
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
-
-#### SECCION SEGUNDA. DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y DE LAS DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ### CAPITULO CUARTO. DE LOS FONDOS DE APORTACIONES FEDERALES QUE CORRESPONDEN A LOS MUNICIPIOS
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2009)</small>
 
-#### SECCION TERCERA. DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS
+#### SECCION PRIMERA. GENERALIDADES
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 17.
 
@@ -391,17 +493,13 @@ EL INFORME A QUE SE REFIERE EL PARRAFO ANTERIOR DEBERA SER PUBLICADO, POR CADA M
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-#### SECCION PRIMERA. DE LA INFORMACION
+#### SECCION SEGUNDA. DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y DE LAS DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 20.
 
-LOS RECURSOS DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y DE LAS DEMARCACIONES TERRITORIALES DEL DISTRITO FEDERAL, PROVENIENTE DEL FONDO DE INFRAESTRUCTURA SOCIAL, QUE ES DETERMINADO EN EL PRESUPUESTO DE EGRESOS DE LA FEDERACION, SERAN ENTERADOS A LOS MUNICIPIOS POR CONDUCTO DEL GOBIERNO DEL ESTADO A TRAVES DE LA SECRETARIA DE PLANEACION Y FINANZAS.
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
-
-LA DISTRIBUCION DE LOS RECURSOS DE ESTE FONDO, SE HARA ATENDIENDO LOS CRITERIOS QUE DETERMINA LA LEY DE COORDINACION FISCAL.
+LOS RECURSOS DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y DE LAS DEMARCACIONES TERRITORIALES DEL D.F., PROVENIENTES DEL FONDO DE INFRAESTRUCTURA SOCIAL QUE ES DETERMINADO EN EL PRESUPUESTO DE EGRESOS DE LA FEDERACION, SERAN ENTERADOS A LOS MUNICIPIOS POR CONDUCTO DEL EJECUTIVO DEL ESTADO, A TRAVES DE LA SECRETARIA DE PLANEACION Y FINANZAS.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -467,11 +565,9 @@ LOS MUNICIPIOS DEBERAN LLEVAR CUENTA Y ORDEN DEL GASTO Y SUS MODIFICACIONES POR 
 
 > <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2009)</small>
 
-#### SECCION SEGUNDA. DE LA OBLIGACION
+#### SECCION TERCERA. DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LOS MUNICIPIOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 29.
 
@@ -615,11 +711,25 @@ III.- COEFICIENTE POBLACIONAL.- LA PROPORCION DIRECTA AL NUMERO DE HABITANTES QU
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
+#### SECCION PRIMERA. DE LA INFORMACION
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 39.
 
-LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES DEBERAN PROPORCIONAR A LA SECRETARIA DE PLANEACION Y FINANZAS UN INFORME DE LA RECAUDACION OBTENIDA Y JUSTIFICADA EN SUS MUNICIPIOS EN EL MES INMEDIATO ANTERIOR, DURANTE LA PRIMERA QUINCENA DEL MES SIGUIENTE Y, EN SU CASO, CUANDO LA DEPENDENCIA ASI LO SOLICITE PARA EFECTOS DE VERIFICAR LAS CIFRAS RECAUDATORIAS PRESENTADAS. EN EL CASO QUE NO SE RINDA TAL INFORME, LA SECRETARIA DE PLANEACION Y FINANZAS PODRA ESTIMAR LA RECAUDACION Y PROCEDER CON BASE EN ESTA HASTA EN TANTO NO RECIBA LA INFORMACION CORRESPONDIENTE.
+LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES DEBERAN PROPORCIONAR A LA SECRETARIA DE PLANEACION Y FINANZAS UN INFORME DE LA RECAUDACION OBTENIDA EN SUS MUNICIPIOS DEL MES INMEDIATO ANTERIOR, DURANTE LOS PRIMEROS DIEZ DIAS NATURALES DEL MES SIGUIENTE, PARA ESTAR EN CONDICIONES DE PAGAR LA PARTICIPACION DE LOS INCENTIVOS CORRESPONDIENTES. EN EL CASO QUE NO SE RINDA DICHO INFORME, LA SECRETARIA DE PLANEACION Y FINANZAS PODRA CALCULAR LAS PARTICIPACIONES MUNICIPALES, CON EL 70% DE LA ULTIMA CIFRA INFORMADA POR EL MUNICIPIO DE QUE SE TRATE.
 
-DE IGUAL FORMA, LA SECRETARIA DE PLANEACION Y FINANZAS PODRA SOLICITAR A LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES EL OTORGAMIENTO DE INFORMACION CUANDO SE PRESENTEN CONDICIONES QUE ASI LO JUSTIFIQUEN DURANTE EL EJERCICIO. LO ANTERIOR, A EFECTO QUE LA DEPENDENCIA ESTATAL ESTE EN POSIBILIDAD DE CONOCER LA CAPACIDAD FINANCIERA DEL MUNICIPIO QUE SE TRATE.
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+CUANDO EXISTAN INCONSISTENCIAS EN LA INFORMACION A QUE SE REFIERE EL PARRAFO ANTERIOR, LA SECRETARIA DE PLANEACION Y FINANZAS REQUERIRA AL MUNICIPIO MEDIANTE OFICIO, LA ACLARACION Y DOCUMENTACION COMPROBATORIA QUE LE PERMITA VALIDAR DICHAS CIFRAS, PARA ELLO LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES CONTARAN CON UN PLAZO DE 5 DIAS NATURALES CONTADOS A PARTIR DEL DIA SIGUIENTE A LA RECEPCION DEL REQUERIMIENTO.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+EN EL SUPUESTO DE QUE EL MUNICIPIO NO ACREDITE LA VERACIDAD DE SU INFORMACION O NO PRESENTE LA DOCUMENTACION REQUERIDA POR LA SECRETARIA DE PLANEACION Y FINANZAS, SE COMPENSARA EN EL MES SIGUIENTE, LA DIFERENCIA ENTRE EL EXCEDENTE DE LO PARTICIPADO Y LO RECAUDADO EN EL MES INMEDIATO ANTERIOR DE AQUEL EN QUE SE HAYAN OBSERVADO LAS INCONSISTENCIAS, DE CONFORMIDAD CON EL ARTICULO 6 DE LA PRESENTE LEY.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
+DE IGUAL FORMA LA SECRETARIA DE PLANEACION Y FINANZAS PODRA SOLICITAR A LOS AYUNTAMIENTOS O CONSEJOS MUNICIPALES EL OTORGAMIENTO DE INFORMACION CUANDO SE PRESENTEN CONDICIONES QUE ASI LO JUSTIFIQUEN DURANTE EL EJERCICIO FISCAL.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -631,11 +741,15 @@ EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE PLANEACION Y FINANZAS 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
+#### SECCION SEGUNDA. DE LA OBLIGACION
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 40
 
-BIS. LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES DEBERAN ENTREGAR A LA SECRETARIA DE PLANEACION Y FINANZAS LOS RECIBOS OFICIALES CORRESPONDIENTES A LAS TRANSFERENCIAS DE CADA UNO DE LOS RECURSOS ENTREGADOS POR LA SECRETARIA DE PLANEACION Y FINANZAS EN UN LAPSO DE 5 DIAS POSTERIOR AL DEPOSITO RECIBIDO EN LAS CUENTAS BANCARIAS REGISTRADAS PARA ESE FIN.
+BIS.- LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES ENTREGARAN A LA SECRETARIA DE PLANEACION Y FINANZAS LOS COMPROBANTES FISCALES DIGITALES POR INTERNET (CFDI) EN MEDIO DIGITAL E IMPRESO CORRESPONDIENTES A LAS TRANSFERENCIAS DE CADA UNO DE LOS RECURSOS ENTREGADOS POR DICHA DEPENDENCIA, EN UN LAPSO DE 5 DIAS NATURALES POSTERIORES A LA RECEPCION DE LOS RECURSOS EN LAS CUENTAS BANCARIAS REGISTRADAS PARA ESE FIN.
 
-EN EL CASO DE QUE, PASADO EL TERMINO DISPUESTO ANTERIORMENTE, LA SECRETARIA DE PLANEACION Y FINANZAS HARA EL REQUERIMIENTO OFICIAL Y DARA A CONOCER DENTRO DE LAS REUNIONES QUE LLEVE A CABO LA COMISION ESTATAL DE COORDINACION HACENDARIA LA LISTA DE LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES QUE NO HAYAN CUMPLIDO CON LA DISPOSICION, A FIN DE CONTAR EN TIEMPO Y FORMA CON LOS COMPROBANTES FALTANTES Y ESTAR EN POSIBILIDAD DE CONCLUIR CON LOS CIERRES MENSUALES PARA LA CUENTA PUBLICA DEL ESTADO.
+EN EL CASO DE INCUMPLIMIENTO, LA SECRETARIA DE PLANEACION Y FINANZAS HARA EL REQUERIMIENTO OFICIAL Y DARA A CONOCER DENTRO DE LAS REUNIONES QUE LLEVE A CABO LA COMISION ESTATAL DE COORDINACION HACENDARIA LA LISTA DE LOS AYUNTAMIENTOS O CONCEJOS MUNICIPALES QUE NO HAYAN ENTREGADO LOS COMPROBANTES A QUE SE REFIERE EL PARRAFO ANTERIOR, A FIN DE CONTAR EN TIEMPO Y FORMA CON LOS COMPROBANTES FALTANTES Y ESTAR EN POSIBILIDAD DE CONCLUIR CON LOS CIERRES MENSUALES PARA LA CUENTA PUBLICA DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2009)</small>
 
@@ -822,3 +936,113 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para los efectos a que se refiere la fracción II del artículo 38 bis de la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, ésta será de manera anualizada a partir del año 2017; no obstante para efectos de la distribución del recurso por lo que resta del año 2016, el Titular del Poder Ejecutivo publicará en el Periódico Oficial del Estado el mecanismo de distribución a más tardar el último día del mes de marzo.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 138 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 2, FRACCIONES I, II, III, IV, V Y VI; 4; 7, FRACCIONES I, II, III Y IV; 8 INCISOS A) Y B); 20; 39 PRIMER Y ÚLTIMO PÁRRAFOS; Y 40-BIS. SE ADICIONAN: AL CAPÍTULO TERCERO, LA SECCIÓN SÉPTIMA DENOMINADA "DE LA PARTICIPACIÓN DE LOS MUNICIPIOS DEL IMPUESTO SOBRE LA RENTA DE SERVICIOS PERSONALES SUBORDINADOS", Y LA SECCIÓN OCTAVA DENOMINADA "DEL FONDO DE COORDINACIÓN EN PREDIAL", ASÍ COMO LOS ARTÍCULOS 16-TER Y 16-QUÁTER; AL ARTÍCULO 39 UN SEGUNDO Y TERCER PÁRRAFOS PASANDO EL ACTUAL SEGUNDO A SER CUARTO. TODOS DE LA LEY DE COORDINACIÓN FISCAL Y FINANCIERA DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, con las salvedades previstas en los artículos transitorios siguientes.
+
+SEGUNDO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2018 y la Ley de Hacienda del Estado de Tabasco, entrarán en vigor a partir del 1 de enero de 2018.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+CUARTO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado tenga que entregar al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2018 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de la competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquéllas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaria estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2018 o cualquier otro ordenamiento legal en que así proceda.
+
+Dichas disposiciones serán aplicables para los convenios que hayan sido celebrados durante ejercicios fiscales anteriores.
+
+QUINTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2018 no contempla los recursos refrendados del ejercicio fiscal 2017, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2018.
+
+SEXTO. Se condonan y se eximen parcialmente, durante el ejercicio fiscal 2018, los créditos fiscales y las obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías, conforme a lo siguiente:
+
+I. Los determinados por concepto Impuesto Vehicular Estatal establecido en el capítulo séptimo del título segundo vigente hasta el 31 de diciembre de 2014, en la Ley de Hacienda del Estado de Tabasco, correspondientes a los ejercicios 2011, 2012, 2013 y 2014.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2018, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados al Impuesto Vehicular Estatal; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago de este impuesto más su actualización, dentro del periodo en comento, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% Enero - Diciembre 2018
+
+Gastos de ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de seis meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado. El cual será aplicable durante los meses de enero, febrero y marzo del ejercicio 2018.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el presente artículo transitorio.
+
+II. Los determinados por concepto de derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2018.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2018, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados por concepto del derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2018; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo en comento, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% Enero - Diciembre 2018
+
+Gastos de ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción II del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de seis meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado. El cual será aplicable durante los meses de enero, febrero y marzo del ejercicio 2018.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85, fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2018; hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el presente artículo transitorio.
+
+III. De igual forma los contribuyentes podrán optar por pagar el impuesto de forma bancarizada mediante las siguientes opciones:
+
+1. Portal de Recaudanet
+
+2. Receptorías de Rentas
+
+A través de los siguientes medios:
+
+a) Transferencia electrónica (únicamente en Recaudanet).
+
+b) Tarjeta de crédito.
+
+c) Tarjeta de débito.
+
+d) Comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado.
+
+Lo anterior de conformidad con los procedimientos establecidos en el artículo 21 del Código Fiscal del Estado.
+
+IV. La condonación a que se refiere este artículo, también procederá aún y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán condonar los créditos fiscales pagados y en ningún caso la condonación a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión al beneficio de condonación previsto en este artículo, no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+SÉPTIMO. La Secretaría de Planeación y Finanzas expedirá dentro de los 30 días hábiles siguientes a la entrada en vigor del presente decreto, las reglas que considere necesarias para la correcta aplicación de la condonación y estímulo fiscal que se otorga en el artículo transitorio que antecede.
+
+La Secretaría de Planeación y Finanzas informará, de conformidad a lo establecido en el Artículo 2 de la presente Ley, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+OCTAVO. El Ejecutivo estatal a través de la Secretaría de Planeación y Finanzas implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2018, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año-modelo sea 2014 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares, será autorizada por la Secretaría de Planeación y Finanzas quien deberá expedir a mas tardar los 30 días siguientes a la entrada en vigor del presente decreto las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizada, serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo, que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso de éste;
+
+II. Que la autoridad fiscal competente requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Planeación y Finanzas informe a la Dirección General de la Policía Estatal de Caminos, cuales son los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Vialidad y Tránsito del Estado de Tabasco; 6, fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Planeación y Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas, así como todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+NOVENO. El Ejecutivo Estatal por conducto de la Secretaría de Planeación y Finanzas, implementará a partir del 1° de enero de 2018 un programa adicional al contemplado en el artículo Sexto transitorio del presente Decreto, dicho programa contemplará la condonación de pagos y beneficios fiscales, respecto a los créditos fiscales y obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías de motocicletas y motonetas (sic) dichos vehículos.
+
+Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes que se inscriban en el Registro Estatal de Vehículos y obtengan su placa de circulación vigente, lo que permitirá identificar a los propietarios de las motocicletas y motonetas que circulan en el Estado de Tabasco,
+
+Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relativas a la inscripción en el Registro Estatal de Vehículos y al emplacamiento de las motocicletas y motonetas que circulan en la entidad, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad Pública y las autoridades municipales en materia de tránsito y vialidad, implementarán a partir del 1º de enero de 2018 un programa de vigilancia e inspección en relación a aquellos ciudadanos que circulen en el Estado en vehículos sin placas de circulación o con placas de circulación que no se encuentren vigentes, tomando en consideración la vigencia establecida por las autoridades federales en la normatividad aplicable.
+
+DÉCIMO. El 30% del coeficiente de distribución de la recaudación excedente del Fondo de Fomento Municipal con respecto a 2013, y el año en que se efectúe el cálculo, en términos de la fórmula establecida en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, que a la entrada en vigor del presente decreto le corresponda a los municipios, se distribuirá en términos de lo dispuesto en el artículo 16 Quáter de la presente Ley.
+
+DÉCIMO PRIMERO. Las promociones a que se refiere el artículo 19 del Código Fiscal del Estado de Tabasco, que se hubieran presentado con anterioridad a la entrada en vigor del presente decreto, continuarán su trámite hasta su resolución conforme a las disposiciones vigentes a la fecha de su presentación.
