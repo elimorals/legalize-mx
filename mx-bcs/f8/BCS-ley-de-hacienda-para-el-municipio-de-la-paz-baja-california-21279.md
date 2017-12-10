@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-la-paz-baja-california-212
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2016-10-31"
+last_updated: "2017-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de marzo de 2001.
 
@@ -1215,7 +1215,7 @@ La expedición o refrendo de las licencias causarán derechos 7 al millar sobre 
 
 > <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-La expedición de licencia de autorización por uso del suelo, causará un derecho de 1 a 20 veces el valor diario de la Unidad de Medida y Actualización, con base en la descripción del articulo 75 de esta misma Ley.
+La expedición de licencia de autorización por uso del suelo, causará un derecho de 1 a 20 veces el valor diario de la Unidad de Medida y Actualización, con base en la descripción del artículo 75 de esta misma Ley.
 
 La expedición de licencia de urbanización para los desarrollos urbanos, tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominales, industriales o una combinación de los anteriores, causará un derecho del 7 al millar sobre el valor total de las obras de urbanización.
 
@@ -2191,11 +2191,11 @@ El servicio extraordinario de seguridad pública para eventos especiales causar�
 
 ### CAPÍTULO XIV. DE ASEO, LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE BASURA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 10 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 116.
 
-Es objeto de este derecho el servicio que por recolección de basura presta el Municipio de La Paz a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos de estos derechos pagarán en base a la frecuencia de recolección que necesiten y al volumen que generen de basura, teniendo la obligación de celebrar convenio con la Tesorería General Municipal, a través de la Dirección de Servicios Públicos Municipales. La forma de pago será mensual o anual cuando la empresa así lo requiera, de acuerdo a la siguiente:
+Es objeto de este derecho el servicio que por recolección de basura presta el Municipio de La Paz a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos de estos derechos pagarán en base a la frecuencia de recolección que necesiten y al volumen que generen de basura, teniendo la obligación de celebrar convenio con la Tesorería General Municipal, a través de la Dirección de Comercio. La forma de pago será mensual o anual cuando la empresa así lo requiera, de acuerdo a la siguiente:
 
 TARIFA
 
@@ -3232,3 +3232,11 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 10 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2492 SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 116 DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LA PAZ, BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, las autoridades municipales a través de las dependencias de la administración pública municipal, deberán proveer lo necesario administrativamente para la regularización de las disposiciones contenidas en el presente Decreto.
