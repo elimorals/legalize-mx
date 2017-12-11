@@ -4,7 +4,7 @@ identifier: "HID-ley-de-atencion-asistencia-y-proteccion-a-victimas-de-103528"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2016-12-31"
+last_updated: "2017-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ATENCIÓN, ASISTENCIA Y PROTECCIÓN A VÍCTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -113,19 +113,27 @@ VII. Programa Estatal: Programa Estatal de Atención Integral a Víctimas, emana
 
 VIII. Registro Estatal: Registro Estatal de Víctimas;
 
-IX. Reglamento Estatal: Reglamento de la Ley Estatal de Víctimas; y
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+IX. Reglamento Estatal: Reglamento de la Ley de Atención, Asistencia y Protección a Víctimas de Delitos y Violaciones a Derechos Humanos para el Estado de Hidalgo; y
 
 X. Sistema Estatal: Sistema Estatal de Atención a Víctimas.
 
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 5.
 
-Los mecanismos, medidas y procedimientos establecidos en esta Ley serán diseñados, implementados y evaluados aplicando, además de lo señalado por la Ley General de Víctimas, los principios siguientes:
+Los mecanismos, medidas y procedimientos establecidos en esta Ley serán diseñados, implementados y evaluados, aplicando además de lo señalado por la Ley General de Víctimas, los principios siguientes:
 
-I. Empoderamiento y reintegración.- Todas las acciones que se realicen en beneficio de las víctimas estarán orientadas a fortalecer su independencia, autodeterminación y desarrollo personal para que puedan lograr, su completa recuperación, asumir el pleno ejercicio de sus derechos y retomar su proyecto de vida;
+I. Acceso a la justicia. Todas las acciones que se realicen en beneficio de las víctimas estarán orientadas a difundir, garantizar y proteger su derecho de acceso a los mecanismos judiciales y administrativos de justicia, mediante procedimientos oficiales y oficiosos que sean expeditos, justos, gratuitos y accesibles;
 
-II. (sic)
+II. Asistencia. Las Instituciones sujetas a esta Ley, en el ámbito de su competencia, están obligadas a establecer las estrategias y medidas necesarias para dar a las víctimas, asistencia material, médica, psicológica, jurídica y social que sea necesaria;
 
-III. Factibilidad.- Las Instituciones sujetas a esta Ley, están obligadas al diseño de políticas públicas y estrategias operativas viables, sustentables y de alcance definido en tiempo, espacio y previsión de recursos presupuestales, que permitan la articulación e implementación de esta Ley de forma armónica y garanticen la vigencia efectiva de los derechos de las víctimas.
+III. Empoderamiento y reintegración. Todas las acciones que se realicen en beneficio de las víctimas estarán orientadas a fortalecer su independencia, autodeterminación y desarrollo personal para que puedan lograr su completa recuperación, asumir el pleno ejercicio de sus derechos y retomar su proyecto de vida;
+
+IV. Factibilidad. Las Instituciones sujetas a esta Ley, están obligadas al diseño de políticas públicas y estrategias operativas viables, sustentables y de alcance definido en tiempo, espacio y previsión de recursos presupuestales, que permitan la articulación e implementación de esta Ley de forma armónica y garanticen la vigencia efectiva de los derechos de las víctimas.
+
+V. Reparación integral de los daños. Las Instituciones sujetas a esta Ley, en el ámbito de su competencia, están obligadas a coadyuvar en el establecimiento de las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, a favor de las víctimas, en los términos que la Ley establece, con la finalidad de que reciban atención oportuna, plena, diferenciada, transformadora, integral y efectiva por el daño que han sufrido como consecuencia del delito o hecho victimizante.
 
 ###### Artículo 6.
 
@@ -143,7 +151,9 @@ El Sistema Estatal gestionará el apoyo técnico a los municipios con el fin de 
 
 Las víctimas, conforme a esta Ley, y sin perjuicio de lo dispuesto en otros ordenamientos jurídicos, de manera enunciativa más no limitativa, poseen los derechos siguientes:
 
-I. A recibir un trato digno, comprensivo y respetuoso por parte de los servidores públicos de las instituciones responsables del cumplimiento de esta Ley, desde el primer momento en que tengan intervención y, en su caso, a que se le brinde protección y se le salvaguarde su vida y su integridad corporal;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+I. A recibir un trato digno, comprensivo y respetuoso por parte de los servidores públicos de las instituciones responsables del cumplimiento de esta Ley, desde el primer momento en que tengan intervención y en su caso, a que se le brinde protección y se le salvaguarde su vida y su integridad corporal. En todo momento se reconocerá el interés superior del menor.
 
 II. A recibir atención inmediata y de emergencia, así como a ser canalizados a centros especializados de atención integral, para su tratamiento y su total restablecimiento físico, psicológico y emocional;
 
@@ -1192,3 +1202,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 11 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 239 QUE REFORMA LOS ARTÍCULOS 4 FRACCIÓN IX, 5 Y 8 FRACCIÓN I DE LA LEY DE ATENCIÓN, ASISTENCIA Y PROTECCIÓN A VÍCTIMAS DE DELITOS Y VIOLACIONES A DERECHOS HUMANOS PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
