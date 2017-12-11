@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2016-08-03"
+last_updated: "2017-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -299,17 +299,47 @@ La violencia en el noviazgo son todos los actos realizados por una de las partes
 
 Artículo 24 Bis A. El Gobierno del Estado y los Ayuntamientos prevendrán este tipo de violencia de manera transversal con la implementación de políticas públicas para prevenir, identificar, atender y resolver esta modalidad de violencia, realizando acciones y programas de prevención en adolescentes y jóvenes, a través de mecanismos de información y campañas para erradicar los roles discriminatorios, estereotipos sexistas, las prácticas de resolución violenta de conflictos, la misoginia y la legitimación social al uso de la violencia.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO VII. DE LA VIOLENCIA CONTRA LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 Bis B. Se considera violencia contra la mujer, toda acción u omisión intencional y negligente que lleve a cabo cualquier persona y/o institución pública o privada, de manera directa o indirecta, que dañe, denigre, discrimine y/o dé un trato deshumanizado a las mujeres durante el embarazo, parto y/o puerperio, que tengan como consecuencia la pérdida de autonomía y capacidad de decidir libremente sobre su cuerpo y sexualidad.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO VIII. DE LA VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 24 Bis C. La violencia política en razón de género es la acción u omisión que, en el ámbito político o público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer o el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o función del poder público.
+
+Constituyen acciones y omisiones que configuran violencia política en razón de género en términos del artículo anterior, las siguientes:
+
+I. Imponer la realización de actividades o funciones distintas a las atribuciones inherentes a su cargo;
+
+II. Restringir injustificadamente la realización de acciones o actividades inherentes a su cargo o función;
+
+III. Proporcionar información o documentación incompleta o errónea con el objeto de impedir el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+IV. Ocultar información o documentación con el objeto de limitar o impedir el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+
+V. Impedir por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a una función pública o partidista, rindan protesta y/o tengan acceso al encargo;
+
+VI. Impedir o restringir su reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables;
+
+VII. Impedir u obstaculizar los derechos de asociación y afiliación a partidos políticos, en razón de género; y,
+
+VIII. Cualquier otra acción que limite o restrinja la participación política de las mujeres.
+
 ### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
-
-### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
-
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRAS (SIC) LAS MUJERES
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
+### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 ###### Artículo 25.
 
@@ -357,7 +387,7 @@ XII. Los organismos y dependencias instituidos en el ámbito municipal para la p
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO II. DE LOS REFUGIOS
+### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
 
 ###### Artículo 28.
 
@@ -395,7 +425,7 @@ XIV. Diseñar un modelo integral de atención a los derechos humanos y ciudadan�
 
 La Secretaría General de Gobierno procurará la participación de los sectores público, social y privado, especialmente de los órganos de participación ciudadana sociales en la formulación, ejecución y evaluación del Programa Estatal.
 
-### Capítulo Tercero. De la evaluación del aprovechamiento
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
 ###### Artículo 30.
 
@@ -553,7 +583,7 @@ Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2014)</small>
 
-###### ARTÍCULO 37.
+###### Artículo 37.
 
 Corresponde a la Subprocuraduría de Derechos Humanos y Atención a Víctimas, en materia de violencia en contra de las mujeres:
 
@@ -665,7 +695,7 @@ VI. Las demás previstas para el cumplimiento de esta Ley y otras disposiciones 
 
 ## TÍTULO CUARTO. DE LAS MEDIDAS DE PROTECCIÓN
 
-### Capítulo Primero. Del reconocimiento al mérito e incentivos
+### CAPÍTULO II. DE LOS REFUGIOS
 
 ###### Artículo 42.
 
@@ -1190,3 +1220,17 @@ P.O. 3 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 575 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 280 DEL H. CONGRESO DEL ESTADO.- SE ADICIONA UN CAPITULO VII, DENOMINADO "DE LA VIOLENCIA CONTRA LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO", AL TÍTULO SEGUNDO, Y EL ARTÍCULO 24 BIS B, A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 281 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción de lo dispuesto en el artículo siguiente.
+
+SEGUNDO. La reforma a la Ley de Instituciones y Procedimientos Electorales del Estado de Sinaloa entrará en vigor el día siguiente a aquel en que el Tribunal Estatal Electoral emita la última declaratoria de validez de las elecciones que se llevarán a cabo el primer domingo de julio de 2018.
