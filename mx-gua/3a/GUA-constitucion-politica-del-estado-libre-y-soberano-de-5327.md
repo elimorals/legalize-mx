@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2017-12-08"
+last_updated: "2017-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -37,19 +37,13 @@ CONSTITUCION.
 
 [...]
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MAYO DE 2013)</small>
 
 ## TÍTULO PRIMERO. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MAYO DE 2013)</small>
 
 ### CAPÍTULO PRIMERO. DERECHOS CIVILES, POLÍTICOS, ECONÓMICOS, SOCIALES Y CULTURALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2013)</small>
 
@@ -57,13 +51,9 @@ CONSTITUCION.
 
 En el Estado de Guanajuato todas las personas gozan de los derechos humanos y de las garantías para su protección reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como en los consagrados por esta Constitución y sus Leyes Reglamentarias, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
 Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los Tratados Internacionales de la materia favoreciendo en todo tiempo la protección más amplia a las personas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
@@ -76,6 +66,18 @@ Para los efectos de esta Constitución y de las leyes que de ella emanen, person
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+Son pueblos indígenas, aquellos que descienden de poblaciones que habitaban en el territorio del País al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+Son comunidades integrantes de un pueblo indígena, las que formen una unidad social, económica y cultural, asentadas en el estado y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y autonomía, en los términos y condiciones que determine la Ley de la materia, tomando en cuenta los principios generales del artículo 2° de la Constitución Federal y criterios etnolingüísticos y de asentamientos físicos.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -141,8 +143,6 @@ Las sentencias que pongan fin a los procedimientos orales, deberán ser explicad
 
 Todo individuo tiene derecho a recibir educación. El Estado y los municipios impartirán educación de conformidad con los planes y programas que al efecto determine el Ejecutivo Federal en los términos de la fracción III del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 La educación preescolar, primaria, secundaria y media superior, conforman la educación obligatoria.
@@ -173,37 +173,25 @@ La ley determinará la organización, funcionamiento, competencia y procedimient
 
 Este organismo no será competente para conocer de quejas que se originen con motivo de acuerdos o decisiones de instancias electorales, ni tratándose de resoluciones de naturaleza jurisdiccional; pero podrá conocer de asuntos de orden administrativo de los órganos de impartición de justicia que transgredan derechos humanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
 El organismo estatal de protección de los Derechos Humanos, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder, por escrito, las recomendaciones que le presente este organismo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
 Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o en sus recesos la Diputación Permanente, podrán llamar, a solicitud del organismo de Derechos Humanos, a las autoridades o servidores públicos responsables para que comparezcan ante la comisión legislativa que determine su Ley Orgánica, a efecto de que expliquen el motivo de su rechazo o incumplimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
 La elección del titular del organismo estatal de protección de los Derechos Humanos se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley de la materia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
 El titular del organismo estatal de protección de los Derechos Humanos, quien lo será también del Consejo Consultivo, durará en su encargo cuatro años, con la posibilidad de ser ratificado por una sola vez, aplicando las reglas establecidas en la ley de la materia y únicamente podrá ser removido de sus funciones en los términos del Título Noveno de esta Constitución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
 El titular del organismo estatal de protección de los Derechos Humanos enviará anualmente un informe de actividades al Congreso del Estado, el cual se hará de conocimiento del Gobernador del Estado, así como del Supremo Tribunal de Justicia del Estado, de los ayuntamientos y de los organismos que esta Constitución otorga autonomía, en términos de lo que al efecto disponga la Ley de la materia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
@@ -457,8 +445,6 @@ El proceso en materia de justicia para adolescentes será acusatorio y oral, en 
 
 El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión o participación en un hecho que la ley señale como delito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 14.
@@ -612,8 +598,6 @@ Son obligaciones de los habitantes del Estado:
 I.- Cumplir con los preceptos constitucionales y los de las Leyes, Reglamentos y disposiciones que se dicten;
 
 II.- Contribuir a los gastos públicos de la Federación, del Estado y del Municipio de su residencia, en la forma que dispongan las Leyes de la materia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
@@ -851,8 +835,6 @@ El Gobierno del Estado es republicano, representativo, democrático, laico y pop
 
 ### CAPITULO UNICO. DEL TERRITORIO DEL ESTADO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 33.
@@ -1041,7 +1023,7 @@ III.- El Consejero Presidente o Consejero Electoral en los consejos general, loc
 
 IV.- El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NUMERO 176, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2014, LA REFORMA AL PRESENTE ARTÍCULO, NO SERÁ APLICABLE A LOS DIPUTADOS LOCALES, PRESIDENTES MUNICIPALES, REGIDORES Y SÍNDICOS QUE HAYAN PROTESTADO EL CARGO EN LA LEGISLATURA O AYUNTAMIENTO QUE SE ENCUENTRE EN FUNCIONES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NUMERO 176, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2014, LA REFORMA AL PRESENTE ARTÍCULO, NO SERÁ APLICABLE A LOS DIPUTADOS LOCALES, PRESIDENTES MUNICIPALES, REGIDORES Y SÍNDICOS QUE HAYAN PROTESTADO EL CARGO EN LA LEGISLATURA O AYUNTAMIENTO QUE SE ENCUENTRE EN FUNCIONES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.]</small>
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -1801,8 +1783,6 @@ Los grupos y representaciones parlamentarias que integren el Congreso del Estado
 
 El Congreso del Estado, a efecto de ampliar la información, podrá solicitar la comparecencia de los secretarios de estado, así como de los directores de las entidades paraestatales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 79.
@@ -2316,8 +2296,6 @@ La Hacienda Pública del Estado está constituída por:
 I.- Los ingresos que determinen las Leyes de la materia; y,
 
 II.- Los ingresos que adquiera por subsidios, participaciones, legados, donaciones o cualesquiera otra causa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
@@ -4034,3 +4012,11 @@ P.O. 8 DE DICIEMBRE DE 2017.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 235, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 1, LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO; Y LOS ACTUALES PÁRRAFOS SEXTO, SÉPTIMO, OCTAVO Y NOVENO PASAN A SER PÁRRAFOS NOVENO, DÉCIMO, UNDÉCIMO Y DUODÉCIMO, DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Congreso del Estado deberá efectuar los ajustes normativos que correspondan en un plazo de ciento ochenta días posteriores a la entrada en vigencia y de conformidad con los alcances de este Decreto.
