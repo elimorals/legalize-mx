@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2016-12-07"
+last_updated: "2017-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 7 DE DICIEMBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 5 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -55,6 +53,10 @@ En el Estado de Aguascalientes, todas las personas gozarán de los derechos huma
 
 Las normas relativas a los derechos humanos se interpretarán siempre de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales de la materia y con la presente Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+Todas las personas tienen los deberes correlativos a los derechos que esta Constitución y demás leyes, les reconocen. Por ende, toda persona está llamada a contribuir al cumplimiento de las tareas comunitarias y de labor social, en la medida de sus capacidades y posibilidades, como el medio para el desarrollo libre y pleno de su personalidad.
+
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
@@ -82,6 +84,10 @@ El Estado otorgará facilidades a los particulares para que coadyuven al cumplim
 Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 El hombre y la mujer son iguales ante la Ley, por lo que ésta deberá garantizar que accedan a las mismas oportunidades en condiciones de equidad.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado garantizará el acceso a los programas y acciones públicas en la materia.
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo.
 
@@ -1124,6 +1130,12 @@ El Poder Judicial del Estado está conformado por el Supremo Tribunal de Justici
 Las condiciones para el ingreso, formación y permanencia, en los diversos órganos jurisdiccionales que conforman al Poder Judicial, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en esta Constitución, en la Ley Orgánica del Poder Judicial y en sus Reglamentos.
 
 La representación del Poder Judicial de Aguascalientes corresponde al Supremo Tribunal de Justicia del Estado, por conducto de su Presidente.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+Artículo 51 A.- En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en el Primer Párrafo del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Siempre que no afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2012)</small>
 
@@ -3134,3 +3146,11 @@ P.O. 5 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 165.- REFORMA CONSTITUCIONAL: CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO".]
+
+###### ARTÍCULO ÚNICO.
+
+Cumplidos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
