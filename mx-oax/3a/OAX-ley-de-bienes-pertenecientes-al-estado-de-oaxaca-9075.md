@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-bienes-pertenecientes-al-estado-de-oaxaca-9075"
 country: "mx"
 rank: "ley"
 publication_date: "1951-12-15"
-last_updated: "2016-09-30"
+last_updated: "2017-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 1951.
 
@@ -81,9 +81,9 @@ Del Dominio Público y de las Concesiones.
 
 Artículo Quinto: Los bienes de dominio público o de uso común pertenecientes al Estado, son inalienables e imprescriptibles, y no están sujetos, mientras no varía su situación jurídica, a acción reivindicatoria o de posesión definitiva o interina. Pueden aprovecharse de ellos, todos los habitantes con las restricciones establecidas por la Ley; pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que prevengan las leyes respectivas.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-Artículo Sexto: Todos los bienes muebles o inmuebles que constituyan el patrimonio del Estado, incluyendo los de las entidades paraestatales, los organismos auxiliares, las unidades de servicios culturales y turísticos y los de los municipios son inembargables. En consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Gobierno del Estado o de su hacienda.
+Artículo Sexto.- Todos los bienes muebles o inmuebles que constituyan el patrimonio del Estado, incluyendo los de las entidades paraestatales, los organismos auxiliares, las unidades de servicios culturales y turísticos y los de los municipios son inembargables. En consecuencia, no podrá emplearse la vía de apremio, ni dictarse auto de ejecución para hacer efectivas las sentencias dictadas a favor de particulares, en contra del Gobierno del Estado o de su hacienda.
 
 Artículo Séptimo: El cambio de destino de los bienes inmuebles por parte del Gobierno del Estado de Oaxaca, podrá hacerse con autorización de la Legislatura mediante la expedición del Decreto respectivo.
 
@@ -301,6 +301,14 @@ P.O. 7 DE ABRIL DE 2011.
 
 P.O. 30 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO.- QUE REFORMA EL DECRETO POR EL QUE SE CREA EL INSTITUTO DE CAPACITACIÓN Y PRODUCTIVIDAD PARA EL TRABAJO DEL ESTADO DE OAXACA Y SUS REFORMAS”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO.- QUE REFORMA EL DECRETO POR EL QUE SE CREA EL INSTITUTO DE CAPACITACIÓN Y PRODUCTIVIDAD PARA EL TRABAJO DEL ESTADO DE OAXACA Y SUS REFORMAS".]
 
 [LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.]
+
+P.O. 11 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 734.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO SEXTO DE LA LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
