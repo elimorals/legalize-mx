@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-marina-110510"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-11-17"
-last_updated: "2017-12-01"
+last_updated: "2017-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110510&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2015-11-09"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE DICIEMBRE DE 2017 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL LA FEDERACIÓN DEL 11 DE DICIEMBRE DE 2017.]</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de noviembre de 2015.
 
@@ -557,11 +557,11 @@ XIII Bis. Certificar la documentación que obra en su archivo y aquéllos que se
 
 XIV. Las demás que le confieran las disposiciones jurídicas aplicables o que le sean encomendadas por el Secretario.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2017)</small>
+(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE DICIEMBRE DE 2017) (F. DE E., D.O.F. 11 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO VIII
 
-De las Atribuciones Específicas de la Universidad Naval, Unidad de Atención y Procuración a la Ciudadanía, Unidad Jurídica y Unidad de Capitanías de Puerto y Asuntos Marítimos
+De las Atribuciones Específicas de la Universidad Naval, Unidad de Promoción y Protección de los Derechos Humanos, Unidad Jurídica y Unidad de Capitanías de Puerto y Asuntos Marítimos
 
 ###### Artículo 14.
 
