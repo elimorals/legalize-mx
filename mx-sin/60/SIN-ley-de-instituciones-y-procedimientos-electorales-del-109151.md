@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2017-06-26"
+last_updated: "2017-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -73,9 +73,17 @@ VIII. Gobernador: El Gobernador Constitucional del Estado;
 
 IX. Instituto: El Instituto Electoral del Estado de Sinaloa;
 
-X. Periódico Oficial: El Periódico Oficial “El Estado de Sinaloa”; y,
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-XI. Tribunal Electoral: El Tribunal Electoral del Estado de Sinaloa.
+X. Periódico Oficial: El Periódico Oficial "El Estado de Sinaloa";
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+XI. Tribunal Electoral: El Tribunal Electoral del Estado de Sinaloa; y,
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+XII. Violencia política en razón de género: Es la acción u omisión que, en el ámbito político o público, tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos político-electorales de una mujer o el acceso al pleno ejercicio de las atribuciones inherentes a su cargo o función del poder público.
 
 ###### Artículo 3.
 
@@ -1079,11 +1087,9 @@ Es derecho exclusivo de los partidos políticos y coaliciones, así como de los 
 
 En la propaganda que contraten los partidos políticos y coaliciones deberán circunscribirse a la promoción del voto, a difundir los principios ideológicos de los partidos, las plataformas electorales y propuestas específicas de los candidatos.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-Los partidos políticos, coaliciones y candidatos independientes en la propaganda electoral que difundan a través de los medios masivos de comunicación, evitarán cualquier calumnia a candidatos y terceros así como también se abstendrán de usar frases similares o alusivas a las utilizadas públicamente por cualquiera de las instancias de gobierno.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE FEBRERO DE 2017)</small>
+Los partidos políticos, coaliciones y candidatos independientes en la propaganda electoral que difundan a través de los medios masivos de comunicación, evitarán cualquier calumnia a candidatos y terceros, no realizarán expresiones que constituyan violencia política en razón de género, así como también se abstendrán de usar frases similares o alusivas a las utilizadas públicamente por cualquiera de las instancias de gobierno.
 
 ## TÍTULO CUARTO. De las Candidaturas Independientes
 
@@ -1275,9 +1281,9 @@ g) Las personas que vivan o trabajen en el extranjero;
 
 V. Abstenerse de realizar por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-VI. Abstenerse de proferir calumnias a otros aspirantes o precandidatos, personas e instituciones privadas;
+VI. Abstenerse de proferir calumnias a otros aspirantes o precandidatos, personas e instituciones privadas, así como de expresiones que constituyan violencia política en razón de género;
 
 VII. Rendir el informe de ingresos y egresos;
 
@@ -1445,11 +1451,11 @@ VI. Depositar únicamente en la cuenta bancaria registrada sus aportaciones y re
 
 VII. Abstenerse de utilizar símbolos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-> <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-VIII. Abstenerse de proferir calumnia a otros candidatos, personas o instituciones privadas;
+VIII. Abstenerse de proferir calumnia a otros candidatos, personas o instituciones privadas, así como realizar expresiones que constituyan violencia política en razón de género;
 
-IX. Insertar en su propaganda de manera visible la leyenda: “Candidata Independiente”, o “Candidato Independiente” en su caso;
+IX. Insertar en su propaganda de manera visible la leyenda: "Candidata Independiente", o "Candidato Independiente" en su caso;
 
 X. Abstenerse de utilizar en su propaganda política o electoral, emblemas y colores utilizados por otros candidatos independientes o partidos políticos;
 
@@ -2281,7 +2287,9 @@ I. Precampaña Electoral: El conjunto de actos que realizan los partidos políti
 
 II. Actos de Precampaña Electoral: Las reuniones públicas, asambleas, marchas y en general aquéllos en que los precandidatos a una candidatura se dirigen a los afiliados, simpatizantes o al electorado en general, con el objetivo de obtener su respaldo para ser postulado como candidato a un cargo de elección popular;; (sic)
 
-III. Propaganda de precampaña electoral: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por esta Ley y el que señale la convocatoria respectiva difunden los precandidatos a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidato de quien es promovido; y,
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+III. Propaganda de precampaña electoral: El conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones y expresiones que durante el periodo establecido por esta Ley y el que señale la convocatoria respectiva difunden los precandidatos a candidaturas a cargos de elección popular con el propósito de dar a conocer sus propuestas. La propaganda de precampaña deberá señalar de manera expresa, por medios gráficos y auditivos, la calidad de precandidato de quien es promovido, la cual no debe contener expresiones que constituyan violencia política en razón de género; y,
 
 IV. Precandidato: El ciudadano que pretende ser postulado por un partido político como candidato a cargo de elección popular, conforme a esta Ley y a los Estatutos de un partido político, en el proceso de selección interna de candidatos a cargos de elección popular.
 
@@ -3613,9 +3621,13 @@ XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiemp
 
 XIV. El incumplimiento a su responsabilidad solidaria, de las obligaciones establecidas por la presente ley en materia de retiro de propaganda electoral de sus candidatos;
 
-XV. Realizar dolosamente propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, incurran en falsedad o sean contrarias al régimen jurídico; y,
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-XVI. La comisión de cualquier conducta que contravenga las disposiciones de esta ley.
+XV. El incumplimiento de sus obligaciones en materia de prevención y atención de violencia política en razón de género;
+
+XVI. Realizar dolosamente propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, incurran en falsedad o sean contrarias al régimen jurídico; y,
+
+XVII. La comisión de cualquier conducta que contravenga las disposiciones de esta ley.
 
 ### Capítulo III. De las Infracciones de las y los Aspirantes, Precandidatos y Candidatos
 
@@ -3635,11 +3647,15 @@ V. Exceder el tope de gastos de precampaña o campaña establecidos;
 
 VI. El incumplimiento de las obligaciones establecidas por la presente ley en materia de retiro y borrado de propaganda electoral;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+VII. La acción u omisión que constituyan violencia política en razón de género;
+
 > <small>(REFORMADA, P.O. 6 DE FEBRERO DE 2017)</small>
 
-VII. Realizar dolosamente propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, incurran en falsedad o sean contrarias al régimen jurídico y proferir expresiones que impliquen calumnia, a los ciudadanos, a las instituciones, a las personas morales y a los candidatos; y,
+VIII. Realizar dolosamente propuestas de precampaña o campaña electoral que atenten contra el régimen democrático, incurran en falsedad o sean contrarias al régimen jurídico y proferir expresiones que impliquen calumnia, a los ciudadanos, a las instituciones, a las personas morales y a los candidatos; y,
 
-VIII. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley.
+IX. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley.
 
 ###### Artículo 272.
 
@@ -3673,9 +3689,13 @@ XII. La obtención de bienes inmuebles con recursos provenientes del financiamie
 
 XIII. La difusión de propaganda política o electoral que contenga expresiones que impliquen calumnia, a los ciudadanos, a las instituciones, a las personas morales y a los candidatos;
 
-XIV. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos Instituto; y,
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-XV. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley y demás disposiciones aplicables.
+XIV. La acción u omisión que constituyan violencia política en razón de género;
+
+XV. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos (sic) Instituto; y,
+
+XVI. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley y demás disposiciones aplicables.
 
 ### Capítulo IV. De las Infracciones de los Ciudadanos, Miembros y Dirigentes de los Partidos Políticos
 
@@ -3689,23 +3709,35 @@ II. Contratar o adquirir propaganda en radio y televisión, dentro y fuera del t
 
 III. Las y los ciudadanos que realicen actos anticipados de precampaña o tendentes a obtener el apoyo ciudadano, según sea el caso, antes o después del inicio de un proceso electoral local ordinario, hasta la fecha en que conforme a la normatividad legal y estatutaria de los partidos, puedan tener la calidad de aspirante, ya sea, en algún proceso interno de postulación de candidatos a cargo de elección popular de partido político, o bien como candidato independiente;
 
-IV. La promoción de quejas frívolas.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+IV. La acción u omisión que constituyan violencia política en razón de género;
+
+V. La promoción de quejas frívolas.
 
 Para tales efectos, se entenderá como quejas frívolas:
 
-a) Aquéllas que se promuevan respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+a) Aquellas que se promuevan respecto a hechos que no se encuentren soportados en ningún medio de prueba o que no puedan actualizar el supuesto jurídico específico en que se sustente la queja;
 
 b) Las quejas o promociones en las cuales se formulen pretensiones que no se pueden alcanzar jurídicamente, por ser notorio y evidente que no se encuentran al amparo del derecho;
 
-c) Aquéllas que refieran hechos que resulten falsos o inexistentes de la sola lectura cuidadosa del escrito y no se presenten las pruebas mínimas para acreditar su veracidad;
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-d) Aquéllas que se refieran a hechos que no constituyan una falta o violación electoral; y,
+c) Aquellas que refieran hechos que resulten falsos o inexistentes de la sola lectura cuidadosa del escrito y no se presenten las pruebas mínimas para acreditar su veracidad;
 
-e) Aquéllas que únicamente se fundamenten en notas de opinión periodística o de carácter noticioso, que generalicen una situación, sin que por otro medio se pueda acreditar su veracidad.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+d) Aquellas que se refieran a hechos que no constituyan una falta o violación electoral; y,
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+e) Aquellas que únicamente se fundamenten en notas de opinión periodística o de carácter noticioso, que generalicen una situación, sin que por otro medio se pueda acreditar su veracidad.
 
 La sanción que se imponga, en su caso, deberá de valorar el grado de frivolidad de la queja y el daño que se podría generar con la atención de este tipo de quejas a los organismos electorales; y,
 
-V. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley.
+VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley.
 
 ### Capítulo V. De las Infracciones de los Observadores Electorales y sus Organizaciones
 
@@ -3735,9 +3767,15 @@ II. La difusión por cualquier medio, de propaganda gubernamental dentro del per
 
 III. El incumplimiento del principio de imparcialidad en la aplicación de los recursos públicos, cuando tal conducta pudiere afectar la equidad de la competencia entre los partidos políticos, entre los aspirantes, precandidatos o candidatos durante los procesos electorales;
 
-IV. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, o del Distrito Federal, con la finalidad de inducir en cualquier forma o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y,
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
-V. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley y demás disposiciones jurídicas aplicables.
+IV. La acción u omisión que constituyan violencia política en razón de género;
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+V. La utilización de programas sociales y de sus recursos, del ámbito federal, estatal, municipal, o de la Ciudad de México, con la finalidad de inducir en cualquier forma o coaccionar a los ciudadanos para votar a favor o en contra de cualquier partido político o candidato; y,
+
+VI. El incumplimiento de cualquiera de las disposiciones contenidas en esta ley y demás disposiciones jurídicas aplicables.
 
 ### Capítulo VII. De las Infracciones de los Notarios Públicos
 
@@ -4193,6 +4231,10 @@ Cuando una conducta infractora esté relacionada con propaganda política o elec
 
 Los procedimientos sancionadores relacionados con la difusión de propaganda que calumnie en medios distintos a radio y televisión, sólo podrán iniciar a instancia de parte afectada. Se entenderá por calumnia la imputación de hechos falsos que pudieren constituir delito y que tengan impacto en un proceso electoral.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
+
+Los procedimientos relacionados con infracciones por violencia política en razón de género solo podrán iniciarse a instancia de parte afectada.
+
 ###### Artículo 305.
 
 La queja deberá reunir los siguientes requisitos:
@@ -4404,3 +4446,11 @@ Quinto. Las referencias relativas a la Ley General de Responsabilidades Administ
 Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
 
 Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+P.O. 11 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 281 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, AMBAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción de lo dispuesto en el artículo siguiente.
+
+SEGUNDO. La reforma a la Ley de Instituciones y Procedimientos Electorales del Estado de Sinaloa entrará en vigor el día siguiente a aquel en que el Tribunal Estatal Electoral emita la última declaratoria de validez de las elecciones que se llevarán a cabo el primer domingo de julio de 2018.
