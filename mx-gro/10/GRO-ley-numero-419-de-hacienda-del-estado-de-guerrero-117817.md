@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2017-01-13"
+last_updated: "2017-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -463,23 +463,25 @@ El Impuesto Sobre Remuneraciones al Trabajo Personal, se causará con la tasa de
 
 Las dependencias del Gobierno Federal, Estatal o Municipal, así como los organismos y empresas paraestatales que contraten con personas físicas o morales la realización de obras o servicios, están obligadas a informar por escrito de las mismas, a la Secretaría de Finanzas y Administración del Gobierno del Estado de Guerrero, dentro de los 15 días siguientes a la firma del o de los contratos respectivos, esta información deberá presentarse en la Administración y/o Agencia Fiscal donde se encuentre ubicada la obra; asimismo, deberán exigir a los contratados su comprobante de inscripción para efectos del pago del Impuesto Sobre Remuneraciones al Trabajo Personal.
 
-###### ARTÍCULO 49.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
-La Secretaría de Finanzas y Administración podrá celebrar Convenios de Colaboración Administrativa, para la recaudación del Impuesto Sobre Remuneraciones al Trabajo Personal con: las dependencias y entidades del Gobierno Federal, los Municipios del Estado, Fideicomisos Públicos Estatales y Municipales, Organismos Públicos Autónomos y Descentralizados, y Empresas de Participación Municipal y Estatal, que contraten con personas físicas o morales la realización de obras o servicios en el Estado de Guerrero, con el objeto de que se constituyan como retenedores de dicho impuesto, a favor de la Hacienda Pública estatal; en los cuales podrán establecerse incentivos a favor de las Entidades y Entes Públicos Estatales y Municipales, que recauden por cuenta del Estado dicho Impuesto.
+###### Artículo 49.
+
+La Secretaría de Finanzas y Administración podrá celebrar Convenios de Colaboración Administrativa, para la recaudación del Impuesto Sobre Remuneraciones al Trabajo Personal con: las Dependencias, Entidades, Fideicomisos Públicos, Organismos Públicos Descentralizados, Organismos Autónomos, así como con Empresas de Participación Pública de los Gobiernos Federal y de los Municipios del Estado, que contraten con personas físicas o morales la realización de obras o servicios en el Estado de Guerrero, con el objeto de que se constituyan como retenedores de dicho impuesto, a favor de la Hacienda Pública estatal; en los cuales podrán establecerse incentivos a favor de las Entidades y Entes Públicos Federales y Municipales, que recauden por cuenta del Estado dicho Impuesto.
+
+En el caso de las Dependencias, Secretarías, Organismos Públicos Descentralizados y demás Entidades del Gobierno del Estado, quedan obligadas a efectuar la retención y el entero del Impuesto Sobre Remuneraciones al Trabajo Personal, que se genere por las personas físicas o morales que sean beneficiadas con la asignación de contratos para la realización de obras públicas, en los términos a que se refiere el presente artículo.
 
 La recaudación obtenida en términos de los párrafos que anteceden, deberá enterarse a más tardar el día 17 del mes siguiente, mediante declaración que presentarán ante las oficinas o por los medios autorizados.
 
 La retención a que se refiere este artículo se hará sobre la estimación que de los sueldos le presente el contratista en la proporción en que éstas le sean total o parcialmente pagadas.
 
-Los retenedores en términos de este artículo, deberán presentar a más tardar dentro de los tres primeros meses del ejercicio siguiente, declaración informativa proporcionando información sobre las personas a quienes les hayan efectuado dichas retenciones, en las formas autorizadas para tal efecto ante las Administraciones o Agencia Fiscal Estatal y/o oficinas autorizadas.
+Los retenedores, deberán presentar a más tardar dentro de los tres primeros meses del ejercicio siguiente, declaración informativa proporcionando información sobre las personas a quienes les hayan efectuado dichas retenciones, en las formas autorizadas para tal efecto ante las Administraciones o Agencia Fiscal Estatal y oficinas autorizadas.
 
 Serán sujetos de retención del Impuesto Sobre Remuneraciones al Trabajo Personal, los derechos de cobro que tienen los contratistas o subcontratistas, sobre las estimaciones por trabajos ejecutados, que se deriven de los contratos de obra pública y servicios relacionados; así también los derechos cedidos parcial o totalmente para el cobro a favor de otra persona distinta de estos, el contrato podrá acreditar contra el pago de este impuesto las cantidades retenidas.
 
 La Secretaría de Finanzas podrá verificar en cualquier momento, el cumplimiento de la obligación fiscal como resultado de la contratación de obras públicas y servicios relacionados con las mismas.
 
 El retenedor deberá comunicar dentro de los quince días siguientes a la conclusión de la obra a la Secretaría de Finanzas, sobre la conclusión de los trabajos encomendados al contratista o subcontratista.
-
-En el caso de las Dependencias, Entidades del Gobierno del Estado, quedan obligadas a efectuar la retención del Impuesto Sobre Remuneraciones al Trabajo Personal, que se genere por las personas físicas o morales que sean beneficiadas con la asignación de contratos para la realización de obras públicas, en términos de los párrafos anteriores a que se refiere este artículo.
 
 ###### ARTÍCULO 50.
 
@@ -1323,6 +1325,8 @@ Los Servicios que presta la Dirección del Registro Público de la Propiedad, de
 
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE LA 5 A 6.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PAGINAS DE LA 10 A LA 12.]</small>
+
 Los casos no previstos en este precepto, causarán los derechos señalados al acto que más analogía tenga con el que se consigne en el documento, a juicio de las autoridades del registro.
 
 Las autoridades fiscales estarán facultadas para verificar en cualquier tiempo, mientras no prescriba el crédito fiscal, la veracidad de los documentos que hayan servido de base para el pago de los derechos a que se refieren todas las fracciones de este artículo.
@@ -1330,6 +1334,8 @@ Las autoridades fiscales estarán facultadas para verificar en cualquier tiempo,
 ### CAPÍTULO VII
 
 DERECHOS POR LEGALIZACIÓN DE FIRMAS, CERTIFICACIONES, DICTÁMENES Y EXPEDICIÓN DE COPIAS Y DOCUMENTOS EMITIDOS POR EL GOBIERNO DEL ESTADO, SUS SECRETARÍAS, DEPENDENCIAS Y ORGANISMOS.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 108.
 
@@ -1343,23 +1349,7 @@ II.- Certificaciones de otros documentos y actas de registro civil, cuando sean 
 
 A).- Registro de Nacimiento
 
-(NOTA: EL 31 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL NUMERAL 1 DEL INCISO A) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(F. DE E., P.O. 13 DE ENERO DE 2017)</small>
-
-1.- Registro de Nacimiento DE 1 DÍA DE NACIDO HASTA UN AÑO, así como la expedición de la primera copia certificada de nacimiento. Gratuita.
-
-(NOTA: EL 31 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DEL INCISO A) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-2.- REGISTRO DE NACIMIENTO DE 1 AÑO 1 DÍA DE NACIDO, HASTA LOS 7 AÑOS 11 MESES 2.84
-
-(NOTA: EL 31 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 3 DEL INCISO A) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-3.- REGISTRO DE NACIMIENTO EXTEMPORÁNEO DESPUÉS DE LOS 7 AÑOS 11 MESES 1 DÍA DE EDAD, CON AUTORIZACIÓN ADMINISTRATIVA O INFORMACIÓN TESTIMONIAL, 2.84
-
-(NOTA: EL 31 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 4 DEL INCISO A) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-4.- AUTORIZACIÓN ADMINISTRATIVA DE REGISTRO EXTEMPORÁNEO DE NACIMIENTO PARA PERSONAS MAYORES DE 7 AÑOS 11 MESES 1 DÍA DE EDAD, 4.94
+1.- Registro de Nacimiento, así como la expedición de la primera copia certificada de nacimiento, Gratuito.
 
 B).- Registro de Legitimación y Reconocimiento de hijos 1.53
 
@@ -1387,7 +1377,7 @@ E).- Registro de Divorcio:
 
 F).- Registro de Defunción Gratuito
 
-G).- Registro de Inscripción de 4.95
+G).- Registro de Inscripción de (sic) 4.95
 
 H).- Registro de Inscripción de Sentencias 1.77
 
@@ -1399,37 +1389,31 @@ I).- Otros:
 
 3.- Búsquedas 0.24 por año
 
-(NOTA: EL 31 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 4 DEL INCISO I) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+4.- Anotaciones marginales de actas del registro civil 2.14
 
-4.- AUTORIZACIÓN ADMINISTRATIVA DE REGISTRO EXTEMPORÁNEO DE NACIMIENTO PARA PERSONAS MAYORES DE 12 AÑOS 4.94
+5.- Aclaración administrativa de actas del registro civil 5.93
 
-5.- Anotaciones marginales de actas del registro civil 2.14
+6.- Legalización de firmas 1.98
 
-6.- Aclaración administrativa de actas del registro civil 5.93
+7.- Por apostilla 3.96 por documento.
 
-7.- Legalización de firmas 1.98
+8.- Otros servicios no especificados 2.47
 
-8.- Por apostilla 3.96 por documento.
-
-9.- Otros servicios no especificados 2.47
-
-10.- Cualquier otra certificación que se expida distinta a las expresadas 0.99
+9.- Cualquier otra certificación que se expida distinta a las expresadas 0.99
 
 No se causarán los impuestos adicionales a que se refieren los artículos 51 en su inciso F), 52, 53 y 54 de la presente Ley de Hacienda del Estado de Guerrero, en los conceptos del inciso l) de esta fracción y de la fracción VII.
 
-11.- Autorización de Registro Extemporáneo de Defunción 4.80
+10).- Autorización de Registro Extemporáneo de Defunción 4.80
 
-12.- Rectificación Administrativa 14.50
+11).- Rectificación Administrativa 14.50
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 2017)</small>
+12).- Por la expedición de Actas en cajeros de servicios electrónicos y oficialías de Registro Civil; Expedición de Actas del Sistema de Impresión de Actas en Línea (SIDEA´S); y Expedición de Actas en Línea 1.11
 
-13.- Por la expedición de Actas de Registro Civil en kioscos automáticos y del Sistema de Actas en Línea 1.11
-
-14.- Por la Nulidad y Cancelación de Registro de Nacimiento Duplicado 14.50
+13).- Por la Nulidad y Cancelación de Registro de Nacimiento Duplicado 14.50
 
 III.- Certificados a ministros de las distintas religiones que estén autorizados para oficiar 1.31
 
-IV.- Certificados de "no adeudo" por cada concepto 1.31
+IV.- Certificados de “no adeudo” por cada concepto 1.31
 
 V.- Certificados de fechas de pago de créditos fiscales 1.31
 
@@ -1453,7 +1437,7 @@ h).- Dictamen criminalístico de campo. 3.81
 
 i).- Dictamen de genética para paternidad o identidad. 27.2
 
-j).- Constancia de Inexistencia de Registro de Inhabilitación. 2.12
+j).- Constancia de Inexistencia de Registro de Inhabilitación 1.29
 
 k).- Duplicado de Certificado de No Antecedentes Criminalísticos, en caso de extravío no mayor a tres meses de su expedición, se cobrará el 50% de su costo 1.01 por cada una.
 
@@ -1639,11 +1623,15 @@ III.- POR LOS PERMISOS QUE SE OTORGUEN PARA EL TRASLADO DE CADÁVERES O RESTOS �
 
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE 9 A LA 10.]</small>
 
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINA 16.]</small>
+
 IV.- VISITAS DE VERIFICACIÓN, CURSOS DE CAPACITACIÓN, Y AVISO DE FUNCIONAMIENTO SIGUIENTES:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINA 68.]</small>
 
 > <small>[N. DE E. VÉASE FE DE ERRATAS A LAS TABLAS EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE LA 10 A LA 11.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 16 A LA 17.]</small>
 
 V.- POR LOS SERVICIOS QUE PRESTA LA AUTORIDAD SANITARIA POR ACTIVIDADES REGULADAS POR LA MISMA, PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS.
 
@@ -1687,7 +1675,9 @@ Las personas físicas y morales que utilicen los servicios médicos que prestan 
 
 El monto de las cuotas citadas se determinará atendiendo a las condiciones socioeconómicas del solicitante, conforme al siguiente Tabulador:
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 70 A LA 103.]</small>
+> <small>[N. DE E. VÉASE TABULADOR EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 70 A LA 103.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 18 A LA 74.]</small>
 
 Quedan exceptuadas del pago de dichas cuotas, las personas cuyos ingresos sean hasta dos veces la Unidad de Medida y Actualización vigente en el momento de la prestación del servicio.
 
@@ -2111,6 +2101,18 @@ Para los efectos a que se contrae el presente artículo, los pagos que tengan la
 
 Por cada uno de los servicios establecidos en el presente artículo; el solicitante del servicio deberá haber cubierto el pago de impuestos federales a que haya lugar.
 
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+VII.- Por los servicios de seguridad y vigilancia interior y exterior de lugares y establecimientos públicos y privados de seguridad y vigilancia de eventos públicos y de particulares en modalidad de Fuerza Especial:
+
+a).- Por un elemento con servicio de 12 horas con un día de descanso por semana, 220 Unidades de Medida y Actualización, mensuales;
+
+b).- Por dos elementos alternados con servicios de 24 horas, 440 Unidades de Medida y Actualización, mensuales;
+
+c).- Por excedente de hora y fracción de los servicios prestados en las modalidades señaladas en los incisos anteriores se cobrarán 14 Unidades de Medida y Actualización diarios; y
+
+d).- Por días festivos, descanso obligatorio o día no laborable, marcados en la Ley Federal del Trabajo, se cobraran 14 Unidades de Medida y Actualización diarios, por servicio de 12 horas y 28 Unidades de Medida y Actualización diarios, por servicio de 24 horas.
+
 ###### ARTÍCULO 133.
 
 Los diversos derechos no especificados en esta Ley se causarán aplicando Unidades de Medida y Actualización que determine la Secretaría de Finanzas y Administración, para el efecto, el pago resultante no excederá la tarifa aplicable a otro servicio con el cual tenga similitud, siempre y cuando no se oponga a lo dispuesto en el artículo 10-A de la Ley de Coordinación Fiscal.
@@ -2213,21 +2215,23 @@ II.- Los rendimientos financieros de capital y valores del Gobierno del Estado.
 
 III.- Los generados por los establecimientos o empresas del Gobierno del Estado.
 
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
 IV.- Los productos derivados de la renta de maquinaria, propiedad del Gobierno del Estado, a la cual se le aplicarán las cuotas de recuperación en Unidad de Medida y Actualización siguientes:
 
 Tipo de Maquinaria Cuota por un día de
 
-Servicio de 7 horas
+servicios de 7 horas
 
 TRACTOR D-85-A-12 y 18 98.78
 
-TRACTOR D-65-A y E 90.90
+TRACTOR D-65-A y E 90-90
 
 TRACTOR D-53-A 64.54
 
 MOTOCONFORMADORA, CM-14, CM17 y 120-B 69.20
 
-TRAXCAVO, D-41-S 38.18
+TRAXCAVO, D-41-S 3818
 
 TRAXCAVO, D-53-5 48.72
 
@@ -2263,7 +2267,7 @@ RABÓN .40 POR KILOMETRO
 
 ORQUESTA 55.92
 
-LAS GRASAS Y ACEITES PARA HACER EL SERVICIO CON EL INTERESADO.
+LAS GRASAS Y ACEITES PARA HACER EL SERVICIO CON EL INTERESADO
 
 La cuota cubierta por un día de servicio, equivale a la prestación del equipo y maquinaria por una jornada máxima de 7 horas en un lapso de 24 horas; las horas de trabajo serán conforme a los horarios acordados.
 
@@ -2274,6 +2278,10 @@ Las cuotas de recuperación a que se refiere este artículo, se modificarán en 
 Las cuotas de recuperación que se aplicarán en los casos de la maquinaria y equipo no especificados en este artículo, serán las que se cubran por aquél con el que tenga mayor similitud.
 
 Los adeudos que los municipios tengan por concepto de ejecución de trabajos realizados por el área encargada y previo convenio que al efecto se celebre entre las partes; la Dependencia podrá solicitar como garantía, la afectación de las participaciones federales de los municipios, observándose las disposiciones de la Ley de Coordinación Fiscal Federal.
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+V.- Los Productos derivados de publicaciones oficiales;
 
 A).- Los avisos, edictos, inserciones y toda publicación que se haga en el Periódico Oficial del Estado, causarán en Unidades de Medida y Actualización:
 
@@ -2301,8 +2309,6 @@ D).- Números sueltos:
 
 2.- Atrasados 0.35
 
-V.- Los Productos derivados de publicaciones oficiales;
-
 VI.- Papel para los encargados del Registro Civil:
 
 a).- Por cada hoja para las copias certificadas 0.35
@@ -2325,13 +2331,17 @@ La Secretaría de Finanzas y Administración proveerá y controlará los formato
 
 c).- Los particulares que necesiten trabajos de la imprenta solicitarán autorización directamente de la Secretaría de Finanzas y Administración, misma que fijará su costo el cual se pagará en la Oficina Fiscal respectiva, en cuyo recibo indicará la ejecución del trabajo.
 
-d).- Otros.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+d).- Formato de avaló de bienes inmuebles con fines fiscales, 1.0 unidades de medida y actualización; y Otros.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 139.
 
-Están exentas del pago de las cuotas respectivas, las publicaciones que se hagan en el Periódico Oficial del Estado a solicitud de las dependencias de los poderes Legislativo, Ejecutivo y Judicial, siempre que se trate de asuntos oficiales que estén comprendidos dentro de la esfera de su atribución.
+Están exenta (sic) del pago de las cuotas respectivas, las publicaciones que se hagan en el Periódico Oficial del Estado a solicitud de las dependencias de los poderes Legislativo, Ejecutivo y Judicial, siempre que se trate de asuntos oficiales que estén comprendidos dentro de la esfera de su atribución.
 
-Únicamente estarán exentas del pago de la cuota indicada en el artículo 137, fracción V, inciso D) las Dependencias del Poder Ejecutivo Estatal de (sic) esta Ley.
+Únicamente están exentas del pago de la cuota indicada en el artículo 138 Fracción V, inciso D las Dependencias del Poder Ejecutivo Estatal de esta Ley.
 
 ###### ARTÍCULO 140.
 
@@ -2521,31 +2531,37 @@ Por la prestación de los servicios proporcionados por la Universidad Tecnológi
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 137 A LA 138.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 77 A LA 78.]</small>
+
 ###### ARTÍCULO 152.
 
 Por la prestación de los servicios proporcionados por el Sistema para el Desarrollo Integral de la Familia, se aplicarán las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 138 A LA 143.]</small>
 
-###### ARTÍCULO 153.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 153.
 
 Por la prestación de los servicios proporcionados por la Promotora y Administradora de los Servicios de Playa de la Zona Federal Marítimo Terrestre de Zihuatanejo, se aplicarán las siguientes tarifas:
 
 Concepto (Renta de Mobiliario) Costo (pesos)
 
-Toldo con 5 Sillas 120.00
+Paquete Toldo con 5 Sillas y 1 mesa 190.00
 
-Sombrilla con 3 Sillas 60.00
+Paquete Sombrilla con 3 Sillas y 1 mesa 120.00
 
-Solo sombrilla 20.00
+Toldo 90.00
 
-Solo Mesa 20.00
+Sombrilla 50.00
 
-Solo silla 10.00
+Mesa 25.00
+
+Silla 15.00
 
 Camastro 40.00
 
-Otros. 5.00
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 154.
 
@@ -2555,33 +2571,37 @@ SERVICIOS TARIFAS
 
 (Pesos)
 
-INSPECCIÓN Y ESTUDIO SOCIOECONÓMICO 350.00
+INSPECCIÓN Y ESTUDIO SOCIOECONÓMICO 444.00
 
-CONSTANCIA DE NO ADEUDO Y POSESIÓN 330.00
+CONSTANCIA DE NO ADEUDO Y POSESIÓN 419.00
 
-ESCRITURACIÓN HASTA 200M2 3,300.00
+ESCRITURACIÓN HASTA 200M2 4,189.00
 
-EXCEDENTE POR METRO CUADRADO 15.00
+EXCEDENTE POR METRO CUADRADO 19.00
 
-CESIÓN DE DERECHOS ENTRE FAMILIARES 3,000.00
+CESIÓN DE DERECHOS ENTRE FAMILIARES 3,808.00
 
-CESIÓN DE DERECHOS ENTRE PARTICULARES 5,000.00
+CESIÓN DE DERECHOS ENTRE PARTICULARES 6,347.00
 
-CANCELACIÓN DE CLAUSULAS, PATRIMONIO Y
+CANCELACIÓN DE CLAUSULAS, PATRIMONIO Y 6,347.00
 
-DERECHO DE TANTO 5,000.00
+DERECHO DE TANTO
 
-CANCELACIÓN DE ESCRITURAS 3,000.00
+CANCELACIÓN DE ESCRITURAS 3,808.00
 
-RECTIFICACIÓN DE ESCRITURAS 3,000.00
+RECTIFICACIÓN DE ESCRITURAS 3,808.00
 
-REPLANTEO DE MEDIDAS 350.00
+SUBSIVISIÓN O FUSIÓN DE ACUERDO A LA SUPERFICIE
 
-COPIAS DE EXPEDIENTE 300.00
+REPLANTEO DE MEDIDAS 444.00
 
-COPIAS DE PLANO GENERAL 100.00
+COPIAS DE EXPEDIENTE 381.00
 
-COMISIÓN POR COBRANZA (REDONDEO DE CIFRA) 0.50 A 2.00
+COPIAS DE PLANO GENERAL 127.00
+
+COMISIÓN POR COBRANZA 0.50 A 2.00
+
+(REDONDEO DE CIFRA)
 
 TRABAJOS DE REGULARIZACIÓN SEGÚN CONVENIO
 
@@ -2596,6 +2616,8 @@ PROPIETARIO
 Por la prestación de los servicios proporcionados por el Parque Papagayo, se aplicarán las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 144 A LA 145.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 79 A LA 80.]</small>
 
 ###### ARTÍCULO 156.
 
@@ -2731,15 +2753,29 @@ Por la prestación de los servicios proporcionados por el Instituto Guerrerense 
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 162 A LA 163.]</small>
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 169.
 
 Por la prestación de los servicios proporcionados por el Consejo Estatal del Cocotero, se aplicarán las siguientes tarifas:
 
-CONCEPTO UNIDAD CANTIDAD CUOTA O TARIFA
+CONCEPTO UNIDAD CANTIDAD CUOTA O
+
+TARIFA
 
 (Pesos)
 
-Venta de Palma Híbrida Pieza 1 $ 25.00
+Venta de Palma Pieza 1 $ 100.00
+
+Híbrida
+
+Venta de Palma Pieza 1 $ 80.00
+
+Criolla alto
+
+del Pacifico
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 170.
 
@@ -2751,13 +2787,13 @@ Mención de conductores $575.00
 
 Imagen logotipo en pantalla $575.00
 
-Cintillo (20 segundos) $402.50
+Cintillo (20 segundos) $450.00
 
-Cortinilla (50 segundos) $345.00
+Cortinilla (50 segundos) $500.00
 
-Menciones de 20 segundos * $345.00
+Menciones de 20 segundos * $450.00
 
-Menciones de 30 segundos * $460.00
+Menciones de 30 segundos * $650.00
 
 Reportaje 3 emisiones de
 
@@ -2767,27 +2803,27 @@ Entrevista 5 minutos $3,450.00
 
 * Producción no incluida
 
-** Considerar 30 días por mes (Lunes a viernes)
+** Considerar 30 días por mes (lunes a viernes)
 
 Radio
 
-Mención de 10 y 20 segundos $57.50
+Mención de 10 y 20 segundos $100.00
 
-Mención de 30 segundos $80.50
+Mención de 30 segundos $150.00
 
-Cápsula de 1 minuto $402.50
+Cápsula de 1 minuto $500.00
 
 Entrevista de 5 minutos $1,725.00
 
 Mención de conductores
 
-(1 minuto aprox.) $345.00
+(1 minuto aprox.) $350.00
 
 - Producción incluida
 
 - Viáticos no incluidos
 
-- Considerar 30 días por mes (Lunes a viernes)
+- Considerar 30 días por mes (lunes a viernes)
 
 ###### ARTÍCULO 171.
 
@@ -2800,6 +2836,8 @@ Por la prestación de los servicios proporcionados por el Instituto Estatal de C
 Por la prestación de los servicios proporcionados por el Centro Estatal de Oftalmología, se aplicarán las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 173 A LA 176.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 81 A LA 84.]</small>
 
 ###### ARTÍCULO 173.
 
@@ -2836,6 +2874,28 @@ Servicio de Baños 3.00
 Por la prestación de los servicios proporcionados por la Universidad Tecnológica del Mar del Estado de Guerrero, se aplicarán las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINA 180.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINA 85.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 175 BIS.- Por la prestación de los servicios proporcionados por el Fideicomiso Centro Internacional Acapulco, se aplicarán las siguientes tarifas;
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINA 86.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 175 BIS I.- Por la prestación de los servicios proporcionados por el Fideicomiso Guerrero Industrial, se aplicarán las siguientes tarifas:
+
+Relación de lotes y naves industriales del “Parque Industrial Guerrero”, disponibles para renta y venta.
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 87 A LA 90.]</small>
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 175 BIS II.- Por la prestación de los servicios proporcionados por la Universidad Policial del Estado de Guerrero, se aplicarán las siguientes tarifas:
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 12 DE DICIEMBRE DE 2017, PÁGINAS DE LA 91 A LA 92.]</small>
 
 ###### ARTÍCULO 176.
 
@@ -3635,6 +3695,8 @@ QUE LAS PRESENTES COPIAS FOTOSTÁTICAS COMPUESTAS DE CIENTO SEIS FOJAS ÚTILES, 
 
 SE EXTIENDE LA PRESENTE EN ESTA FOJA ÚTIL PARA LOS EFECTOS LEGALES A QUE HAYA LUGAR EN LA CIUDAD DE CHILPANCINGO, CAPITAL DEL ESTADO DE GUERRERO A LOS TRECE DÍAS DEL MES DE ENERO DEL AÑO DOS MIL DIECISIETE.- CONSTE.
 
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
 ###### ARTÍCULO 273.
 
 Es objeto de este impuesto la percepción de honorarios por servicios notariales.
@@ -3658,3 +3720,17 @@ Los recaudadores de rentas y auditores fiscales están autorizados para efectuar
 ## TÍTULO DÉCIMO SEGUNDO
 
 DERECHOS SUSPENDIDOS EN TANTO EL ESTADO DE GUERRERO PERMANEZCA COORDINADO CON LA FEDERACIÓN EN ESTA MATERIA.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 652, POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO".]
+
+P.O. 12 DE DICIEMBRE DE 2017.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto de reformas y adiciones a la Ley número 419 de Hacienda del Estado de Guerrero, entrarán en vigor el día primero de enero del año 2018.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, para su conocimiento general.
+
+TERCERO (SIC). Comuniquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
