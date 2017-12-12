@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2017-07-13"
+last_updated: "2017-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1795,7 +1795,7 @@ Este delito se perseguirá por querella de parte.
 
 ### CAPÍTULO II. ABIGEATO
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 181 Bis.
 
@@ -1951,7 +1951,9 @@ En todo caso de robo, la autoridad jurisdiccional competente podrá suspender al
 
 ###### Artículo 196.
 
-Comete del (sic) delito de abigeato el que se apodere, sin derecho y sin consentimiento de quien legalmente pueda disponer de ellos e independientemente del lugar en que se encuentren, de uno o más semovientes de cualquier especie ganadera, formen o no hato, o de una o más colonias de abejas en un apiario.
+Comete el delito de abigeato el que se apodere, sin derecho y sin consentimiento de quien legalmente pueda disponer de ellos e independientemente del lugar en que se encuentren, de uno o más semovientes de cualquier especie ganadera, formen o no hato, o de una o más colonias de abejas en un apiario.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 Para los efectos de este capítulo:
 
@@ -1959,13 +1961,23 @@ a) Una colonia de abejas es un conjunto de abejas que interactúan intercambiand
 
 b) Serán considerados instrumentos del delito de abigeato las cabalgaduras o vehículos y objetos que sirvan para su comisión y el transporte de animales o sus productos.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2017)</small>
+
 c) Este delito se sancionará de la forma siguiente:
 
-I.- Con prisión de uno a tres años y multa de trescientos a cuatrocientos días de salario cuando se cometa en una cabeza de ganado o una colonia de abejas.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
-II.- Con prisión de tres a cinco años y multa de cuatrocientos a quinientos días de salario cuando se cometa en hasta tres cabezas de ganado o el mismo número de colonias de abejas.
+I.- Con prisión de dos a cinco años y multa de trescientas a cuatrocientas unidades de medida y actualización diarias vigentes cuando se cometa en una cabeza de ganado o una colonia de abejas;
 
-III.- Con prisión de cinco a siete años y multa de quinientos a mil días de salario cuando se cometa en más de tres cabezas de ganado o el mismo número de colonias de abejas.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+II.- Con prisión de cinco a siete años y multa de cuatrocientas a quinientas unidades de medida y actualización diarias vigentes cuando se cometa en hasta tres cabezas de ganado o el mismo número de colonias de abejas;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+III.- Con prisión de siete a diez años y multa de quinientas a mil unidades de medida y actualización diarias vigentes cuando se cometa en más de tres cabezas de ganado o el mismo número de colonias de abejas.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 En el supuesto de la fracción I el delito será perseguido por querella de parte.
 
@@ -1987,29 +1999,49 @@ IV.- Con prisión de cuatro a cinco años y multa de cuatrocientos a quinientos 
 
 En el supuesto de las fracciones I y III, el delito será perseguido por querella de parte.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 196 Ter.
 
-Para los efectos de este capítulo las sanciones contenidas en los artículos 196 y 196 bis, se aumentarán en una tercera parte cuando:
+Para los efectos de este capítulo las sanciones contenidas en los artículos 196 y 196 bis, se aumentarán en una mitad cuando:
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 a) el delito lo cometan los encargados de la custodia, vigilancia o traslado de los animales materia del ilícito;
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 b) el apoderamiento se realice con violencia; o por la noche; o con horadación de paredes o cercas; o con fractura de cerraduras, puertas o ventanas, ya sea al perpetrarse el hecho o después de consumado para lograr la fuga o defender el producto;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 c) participen del hecho dos o más personas;
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 d) participe en el hecho una persona que se dedique a la crianza, cuidado, faena, elaboración o transporte de animales, productos o subproductos de origen animal;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 e) participe en el hecho el funcionario público que, violando sus deberes o aprovechando su posición o conocimientos técnicos, facilite directa o indirectamente su comisión;
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 f) el delito se desarrolle en diferentes entidades federativas;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 g) El responsable sea, o simule ser, miembro de algún cuerpo de seguridad pública o alguna otra autoridad;
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 h) El responsable lleve algún arma, aun cuando no haga uso de ella;
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
+
 i) Se trate de sementales registrados;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
 j) Los animales sean destazados en el lugar de crianza y sustraídos en todo o en parte.
 
@@ -3087,9 +3119,13 @@ II. Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinient
 
 Se le impondrán de dos a nueve años de prisión, multa de treinta a cien Unidades de Medida y Actualización, al servidor público que:
 
-I. Por sí, o por interpósita persona, utilice violencia física o psicológica contra cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la legislación penal o por la Ley de Responsabilidades Administrativas del Estado de Campeche y sus Municipios;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
-II. Por sí, o por interpósita persona, ejerza represalia contra persona que ha formulado denuncia o querella o aportado información o pruebas sobre la presunta comisión de un delito o sobre el presunto incumplimiento de algún servidor público en una conducta sancionada por la legislación penal o por la Ley de Responsabilidades Administrativas del Estado de Campeche y sus Municipios, o ejerza cualquier represalia contra persona ligada por vínculo familiar, afectivo o de negocios con el denunciante, querellante o informante.
+I. Por sí, o por interpósita persona, utilice violencia física o psicológica contra cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la legislación penal o por la Ley General de Responsabilidades Administrativas;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+II. Por sí, o por interpósita persona, ejerza represalia contra persona que ha formulado denuncia o querella o aportado información o pruebas sobre la presunta comisión de un delito o sobre el presunto incumplimiento de algún servidor público en una conducta sancionada por la legislación penal o por la Ley General de Responsabilidades Administrativas, o ejerza cualquier represalia contra persona ligada por vínculo familiar, afectivo o de negocios con el denunciante, querellante o informante.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE JULIO DE 2017)</small>
 
@@ -3195,11 +3231,11 @@ II. Cuando el monto al que ascienda el enriquecimiento ilícito exceda del equiv
 
 En ambos casos, en términos del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos, además de las sanciones señaladas, se decretará el decomiso y la privación de la propiedad de los bienes mal habidos, los que se destinarán al Instituto de Acceso a la Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 302.
 
-Se le impondrá un tercio de las sanciones señaladas en el artículo anterior al particular que haga figurar como suyos bienes que un servidor público adquiera o haya adquirido en contravención de lo dispuesto en la Ley de Responsabilidades Administrativas del Estado de Campeche y sus Municipios.
+Se le impondrá un tercio de las sanciones señaladas en el artículo anterior al particular que haga figurar como suyos bienes que un servidor público adquiera o haya adquirido en contravención de lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2017)</small>
 
@@ -4180,3 +4216,19 @@ PRIMERO.- El presente decreto entrará en vigor el día 19 de julio de 2017.
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
 TERCERO.- De conformidad con lo dispuesto por el decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado el 27 de enero de 2016 en el Diario Oficial de la Federación, todas las menciones a días de salario o salario mínimo en el Código Penal del Estado de Campeche, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 12 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 216 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 196 Y 196 TER DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de este decreto.
+
+P.O. 12 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. TRANSITORIOS DECRETO NÚMERO 217 POR EL QUE "SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 293 Y EL ARTÍCULO 302 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]</small>
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
