@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2017-11-29"
+last_updated: "2017-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1713,6 +1713,26 @@ XI. Promover la vinculación interinstitucional para facilitar el acceso a los c
 XII. Desarrollar estrategias de fomento al desarrollo empresarial en el Distrito Federal mediante su especialización productiva y su inserción dinámica en los mercados regional y global, a partir del aprovechamiento estratégico de sus ventajas competitivas.
 
 XIII. Dirigir la realización de ferias, exposiciones, congresos, convenciones y demás acciones que fomenten el desarrollo económico de la ciudad, así como coordinar la difusión de estos eventos.
+
+> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2017)</small>
+
+XIV. Promover una estrategia de coordinación institucional con los órganos de la Administración Pública Local, para impulsar la política de sustentabilidad energética con el sector privado y en las empresas de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2017)</small>
+
+XV. Promover, iniciativas y proyectos dirigidos al sector privado para preparar la transición energética encaminada hacia una economía limpia, sustentable y la eficiencia energética de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2017)</small>
+
+XVI. Fomentar mecanismos de coordinación interinstitucional con todos los niveles de Gobierno para el impulso de proyectos dirigidos a consolidar empresas dedicadas a la energía sustentable, limpia y renovable que actúen dentro o para la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2017)</small>
+
+XVII. Emitir recomendaciones, iniciativas o acciones que permitan el fomento y desarrollo de proyectos para identificar e impulsar zonas con potencial de desarrollo energético, con otros órganos de la administración pública federales, locales, estatales y municipales.
+
+> <small>(ADICIONADA, G.O. 12 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Las demás que otras leyes o reglamentos establezcan.
 
 > <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
 
@@ -20759,3 +20779,15 @@ G.O. 29 DE NOVIEMBRE DE 2017.
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 12 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- La Secretaría de Desarrollo Económico por conducto de la Subsecretaría de Desarrollo Económico y Sustentabilidad llevará a cabo acciones para contar con un Plan que considere mecanismos para la elaboración de propuestas y atención de proyectos dirigidos a consolidar empresas dedicadas a la energía sustentable, limpia y renovable.
+
+CUARTO.- En un término que no exceda de tres meses, la Secretaría de Desarrollo Económico por conducto de la Subsecretaría de Desarrollo Económico y Sustentabilidad deberá instalar un Órgano Colegiado donde participen el sector empresarial, social, académico y público para promover la participación de la sociedad con la finalidad de analizar la problemática, iniciativas y proyectos en materia de sustentabilidad energética en la Ciudad de México.
