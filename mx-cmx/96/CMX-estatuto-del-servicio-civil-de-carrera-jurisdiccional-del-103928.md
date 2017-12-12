@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-del-servicio-civil-de-carrera-jurisdiccional-del-10392
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-12-16"
-last_updated: "2014-12-16"
+last_updated: "2017-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103928&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2014-10-22"
 ---
 # ESTATUTO DEL SERVICIO CIVIL DE CARRERA JURISDICCIONAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO DEL SERVICIO CIVIL DE CARRERA JURISDICCIONAL, PUBLICADO EN LA G.O. DE 12 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO DEL SERVICIO CIVIL DE CARRERA JURISDICCIONAL DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de diciembre de 2014.
 
@@ -457,3 +459,21 @@ SECRETARIO GENERAL DE ACUERDOS "A"
 (Firma)
 
 LIC. OFELIA PAOLA HERRERA BELTRÁN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 12 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO DEL SERVICIO CIVIL DE CARRERA JURISDICCIONAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto del Servicio Civil de Carrera Jurisdiccional del Tribunal de lo Contencioso Administrativo del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal, el dieciséis de diciembre de dos mil catorce.
+
+###### ARTÍCULO TERCERO.
+
+En la designación que se realice para el cargo de Secretario General de Defensoría Jurídica y Orientación Ciudadana, deberá observarse lo dispuesto por el artículo transitorio quinto de la Ley Orgánica del Tribunal de Justicia Administrativa de la Ciudad de México.
