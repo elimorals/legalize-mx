@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2017-12-01"
+last_updated: "2017-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -303,11 +303,11 @@ Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o fal
 
 No podrá asentarse en las actas ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 48.
 
-Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el caso, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en Escritura Pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia del Ramo Familiar, Civil o Mixto, o Juez Menor. Cuando el encargo o poder lo otorgue una persona residente fuera del Estado, la firma del Notario o del Juez deberá estar legalizada.
+Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el caso, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio, se necesita poder otorgado en Escritura Pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia del Ramo Familiar, Civil o Mixto, o Juez de Cuantía Menor. Cuando el encargado o poder lo otorgue una persona residente fuera del Estado, la firma del Notario o del Juez deberá estar legalizada.
 
 ###### Art. 49.
 
@@ -453,8 +453,6 @@ Recibido el aviso, el Oficial del Registro Civil, tomará las medidas legales qu
 
 En las poblaciones, fincas de campo, rancherías u otros lugares en que no haya Oficina de Registro Civil, el niño será presentado a la autoridad municipal o al mayordomo, encargado o persona que tenga la representación del lugar, o que ejerza allí alguna autoridad, quien dará la constancia respectiva que los interesados llevarán al Oficial del Registro que corresponda, para que asiente el acta.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 71.
@@ -465,7 +463,9 @@ Cuando ambos progenitores acudan ante el Oficial del Registro Civil a registrar 
 
 EI acuerdo de los padres respecto al orden de los apellidos, regirá para los demás hijos del mismo vínculo. Cuando en algún trámite de cualquier especie, se requiera específicamente el apellido paterno y el materno, se deberán considerar como primero y segundo apellido el orden en que los padres hayan optado colocarlos, en términos de lo dispuesto en el presente artículo.
 
-Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y un apellido, haciéndose constar esta circunstancia en el acta.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+Si éste se presenta como hijos de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y un apellido, sin hacer mención de esta circunstancia en el acta.
 
 Si el nacimiento ocurriere en un establecimiento de reclusión o de reinserción social, el Oficial del Registro Civil deberá asentar como domicilio del nacido, el nombre de la población del Estado que corresponda.
 
@@ -477,29 +477,29 @@ En los casos de los artículos 73 y 89 de este Código, el Oficial del Registro 
 
 Cuando el nacido fuere presentado como hijo de matrimonio se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilio de los abuelos y los de las personas que hubieren hecho la presentación.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 73.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo habido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido, en la forma establecida en el artículo 48 de este Código, haciéndose constar la petición. La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo.
+Para que se hagan constar en el acta de nacimiento los datos del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida personalmente ante el Oficial del Registro Civil. La madre no puede dejar de reconocer a su hijo, debiendo figurar siempre sus datos en el acta de nacimiento. En estos casos no será impedimento el estado civil del padre y de la madre.
 
-Si al hacer la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ante los Tribunales, de acuerdo con las disposiciones relativas de este Código.
+Si al hacer la presentación no se da el nombre de la madre, se testará el espacio correspondiente, pero la investigación de la maternidad podrá hacerse ante los Tribunales, de acuerdo con las disposiciones relativas de este Código.
 
-Además de los nombres de los padres se hará constar en el acta de nacimiento, su nacionalidad y domicilio. En las actas de nacimiento no se expresará que se trata, en su caso, de hijo natural.
+Además de los nombres de los padres se hará constar en el acta de nacimiento, su nacionalidad y clave única de registro de población.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 74.
 
-Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1975)</small>
+Si el padre o la madre no pudieren concurrir, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
 
 ###### Art. 75.
 
-Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+(DEROGADO, P.O. 12 DE DICIEMBRE DE 2017)
 
 ###### Art. 76.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+(DEROGADO, P.O. 12 DE DICIEMBRE DE 2017)
 
 ###### Art. 77.
 
@@ -555,19 +555,21 @@ Si al dar el aviso de un nacimiento se comunicare también la muerte del recién
 
 Cuando se trate de parto múltiple se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 71 se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
 
-### CAPITULO III.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
-De las actas de reconocimiento de hijos naturales.
+### CAPÍTULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS FUERA DE MATRIMONIO
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 89.
 
-Si el padre o la madre de un hijo natural, o ambos, lo presentaren para que se registre su nacimiento, el acto surtirá todos los efectos del reconocimiento legal respecto del progenitor compareciente.
+Si el padre o la madre de un hijo nacido fuera de matrimonio o ambos, lo presentaren para que se registre su nacimiento, el acto surtirá todos los efectos del reconocimiento legal respecto del progenitor compareciente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 90.
 
-Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que, además de los requisitos que señala el artículo anterior, se observarán los siguientes en sus respectivos casos:
+Si el reconocimiento del hijo fuera de matrimonio se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que, además de los requisitos que señala el artículo anterior, se observarán los siguientes en sus respectivos casos:
 
 I.- Si el hijo es mayor de edad, expresará en el acta su consentimiento para ser reconocido;
 
@@ -577,9 +579,13 @@ III.- Si el hijo es menor de catorce años, se expresará sólo el consentimient
 
 IV.- Cuando el hijo a quien se reconoce estuviere bajo la patria potestad, no será necesario nombrarle tutor especial, bastando que dé su consentimiento la persona que ejerza el poder paterno.
 
-Los mismos requisitos se observarán cuando los padres reconozcan a sus hijos naturales en el acto de contraer matrimonio, para legitimarlos; excepto el caso de matrimonio celebrado en artículo de muerte, pues entonces no se exigirá que conste en el acta el consentimiento del hijo reconocido o de su representante. Pero si el cónyuge enfermo no muriese en el término de sesenta días, deberá ratificar el reconocimiento con todos los requisitos ordinarios. En caso de fallecimiento del mismo cónyuge en el plazo fijado de sesenta días, el hijo o quien legalmente lo represente dará su conformidad con el reconocimiento, la cual se hará constar al margen del acta relativa, firmando el asiento el Oficial del Registro, el interesado o su representante y dos testigos.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
-Lo mismo se observará cuando se haya omitido la presentación para el registro del nacimiento del hijo natural, o esa presentación se haya hecho después del término de la ley.
+Los mismos requisitos se observarán cuando los padres reconozcan a sus hijos fuera de matrimonio en el acto de contraer matrimonio, para legitimarlos; excepto el caso de matrimonio celebrado en artículo de muerte, pues entonces no se exigirá que conste en el acta el consentimiento del hijo reconocido o de su representante. Pero si el cónyuge enfermo no muriese en el término de sesenta días, deberá ratificar el reconocimiento con todos los requisitos ordinarios. En caso de fallecimiento del mismo cónyuge en el plazo fijado de sesenta días, el hijo o quien legalmente lo represente dará su conformidad con el reconocimiento, la cual se hará constar al margen del acta relativa, firmando el asiento el Oficial del Registro Civil, el interesado o su representante y dos testigos.
+
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+Lo mismo se observará cuando se haya omitido la presentación para el registro del nacimiento del hijo fuera de matrimonio, o esa presentación se haya hecho después del término de la ley.
 
 ###### Art. 91.
 
@@ -2513,7 +2519,7 @@ El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consen
 
 ###### Art. 391.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+(DEROGADO, P.O. 12 DE DICIEMBRE DE 2017)
 
 ###### Art. 392.
 
@@ -2551,11 +2557,15 @@ En caso de que el reconocimiento se efectúe sucesivamente por los padres que no
 
 La investigación de la paternidad de los hijos nacidos fuera de matrimonio, está permitida:
 
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+I.- En los casos de estupro o violación cuando la época del delito coincida con la de la concepción;
 
 II.- Cuando el hijo se encuentre en posesión de estado de hijo del presunto padre;
 
-III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre, viviendo maritalmente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre;
 
 IV.- Cuando el hijo tenga a su favor un principio de prueba contra el pretendido padre.
 
@@ -2573,13 +2583,15 @@ II.- Los nacidos dentro de los trescientos días siguientes al en que cesó la v
 
 La posesión de estado, para los efectos de la fracción II del artículo 399, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre o por su familia como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 401.
 
-Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios, pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios.
 
 ###### Art. 402.
 
-No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o criminal.
+(DEROGADO, P.O. 12 DE DICIEMBRE DE 2017)
 
 ###### Art. 403.
 
@@ -4757,7 +4769,9 @@ I.- La casa habitación de la familia;
 
 II.- El lote destinado a la construcción de casa-habitación, siempre que la familia no cuente con una, así como una parcela cultivable cuya extensión no podrá ser mayor que la fijada a la pequeña propiedad en las leyes relativas;
 
-III.- La casa y una parcela, cuando el valor de ambos bienes no exceda del valor máximo que determina el artículo 742.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+III.- La casa y una parcela, cuando el valor catastral de ambos bienes no exceda del valor máximo que determina el artículo 742.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -4779,19 +4793,21 @@ Los beneficiarios de los bienes afectos al patrimonio de la familia serán repre
 
 Los bienes afectos al patrimonio de la familia son inalienables y no estarán sujetos a embargo ni a gravamen alguno.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 740.
 
-Sólo puede constituirse el patrimonio de la familia con bienes sitos en el municipio en que esté domiciliado el que lo constituya.
+Sólo puede constituirse el patrimonio de la familia con bienes sitos en el Estado, en el que deberá estar domiciliado el que lo constituya.
 
 ###### Art. 741.
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 742.
 
-El valor máximo de los bienes afectos al patrimonio de la familia, conforme al artículo 735, será la cantidad que resulte de multiplicar por 6735 el importe del salario mínimo general diario vigente en la zona correspondiente a su ubicación en el Estado, en la época en que se constituya el patrimonio.
+El valor catastral máximo de los bienes afectos al patrimonio de la familia, conforme al artículo 735, será la cantidad que resulte de multiplicar por 20,205 el importe diario de la Unidad de Medida y Actualización vigente en el Estado, en la época en que se constituya el patrimonio.
 
 ###### Art. 743.
 
@@ -4803,13 +4819,17 @@ Además, comprobará lo siguiente:
 
 I.- Que es mayor de edad;
 
-II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+II.- Que está domiciliado en cualquier municipio del Estado;
 
 III.- La existencia de la familia a cuyo favor se va a constituir el patrimonio. La comprobación de los vínculos familiares se hará con las copias certificadas de las actas del Registro Civil.
 
 IV.- Que son propiedad del constituyente los bienes destinados al patrimonio, y que en la fecha de la solicitud no adeudan contribuciones ni reportan gravámenes fuera de las servidumbres;
 
-V.- Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 742.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+V.- Que el valor catastral de los bienes que van a constituir el patrimonio no exceda del fijado en el artículo 742.
 
 ###### Art. 744.
 
@@ -4867,7 +4887,9 @@ El patrimonio de la familia se extingue:
 
 I.- Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos;
 
-II.- Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que le esté anexa;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2017)</small>
+
+II.- Cuando sin causa justificada la familia deje de habitar por un año la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos la parcela que forme parte del patrimonio de la familia;
 
 III.- Cuando se demuestre que hay gran necesidad o notoria utilidad para la familia, de que el patrimonio quede extinguido;
 
@@ -16338,3 +16360,19 @@ P.O. 1 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente ordenamiento.
+
+P.O. 12 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 218 POR EL QUE “SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 735, LOS ARTÍCULOS 740, 742, LAS FRACCIONES II Y V DEL ARTÍCULO 743 Y LA FRACCIÓN II DEL ARTÍCULO 753 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 12 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 220 POR EL QUE "SE REFORMA EL ARTÍCULO 48; EL PÁRRAFO CUARTO DEL ARTÍCULO 71; LOS ARTÍCULOS 73 Y 74; DEL TÍTULO CUARTO LA DENOMINACIÓN DEL CAPÍTULO III "DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS NATURALES" PARA QUEDAR COMO "DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS FUERA DE MATRIMONIO"; EL ARTÍCULO 89; LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 90; LAS FRACCIONES l Y III DEL ARTÍCULO 399; EL ARTÍCULO 401 Y, SE DEROGAN LOS ARTÍCULOS 75, 76, 391 Y 402 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
