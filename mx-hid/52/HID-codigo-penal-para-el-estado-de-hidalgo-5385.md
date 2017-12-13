@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2017-10-09"
+last_updated: "2017-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -3397,11 +3397,7 @@ VII.- Siendo encargado o responsable de cualquier centro de retención, detenci�
 
 VIII.- Autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para participar en procedimiento de adquisiciones, arrendamientos, servicios u obras públicas y servicios relacionados con las mismas, o para obtener concesiones para la prestación de servicios públicos, siempre que lo haga con conocimiento de tal situación;
 
-(NOTA: EL 23 DE ABRIL DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE JULIO DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚM. 204, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2017)</small>
-
-IX.- OBLIGUE A CUALQUIER PERSONA A DECLARAR, USANDO LA INCOMUNICACIÓN, LA INTIMIDACIÓN, LA TORTURA O TRATOS CRUELES, INHUMANOS O DEGRADANTES QUE ATENTEN CONTRA SU DIGNIDAD;
+IX.- (DEROGADA, P.O. 13 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADA, P.O. 24 DE JULIO DE 2017)</small>
 
@@ -3411,9 +3407,9 @@ X.- Obligue al imputado a declarar o comparecer a cualquier actuación sin prese
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones I, II, III, IV y VI, se impondrán de uno a seis años de prisión y multa de 20 a 100 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2017)</small>
 
-Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones V, VII, VIII, IX y X, se le impondrá de dos a ocho años de prisión y multa de 40 a 120 veces el valor diario de la Unidad de Medida y Actualización.
+Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones V, VII, VIII y X, se le impondrá de dos a ocho años de prisión y de 40 a 120 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO XIII. ENRIQUECIMIENTO ILICITO
 
@@ -3837,19 +3833,37 @@ XXXIII.- Desvíe u obstaculice la investigación del hecho delictuoso de que se 
 
 Se aplicara el doble de la punibilidad que corresponda, al servidor público que incurra en el supuesto previsto en la fracción VII de este artículo, tratándose de la investigación de los delitos previstos en los Artículos 139 bis y 141 bis; inhabilitándose además al responsable para despeñar cualquier otro cargo o comisión dentro del servicio público por un periodo igual al de la pena de prisión impuesta.
 
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2018 Y SU ACUMULADA 5/2018, DECLARÓ LA INVALIDEZ, DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 14 DE DICIEMBRE DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 322 BIS.- AL SERVIDOR PÚBLICO QUE, EN EJERCICIO DE SUS FUNCIONES O ADUCIENDO SU ENCARGO, POR SÍ O A TRAVÉS DE UN TERCERO, ORDENE, INSTIGUE O INDUZCA PARA COACCIONAR A LA VÍCTIMA PARA QUE REALICE O DEJE DE HACER UNA CONDUCTA DETERMINADA, CASTIGARLA POR UN ACTO QUE HAYA COMETIDO O SE SOSPECHE HA COMETIDO, O ANULAR SU PERSONALIDAD O DISMINUIR SU CAPACIDAD FÍSICA O MENTAL, AUNQUE LOS MÉTODOS EMPLEADOS NO CAUSEN DOLOR FÍSICO O ANGUSTIA PSÍQUICA, SE LE IMPONDRÁ PRISIÓN DE TRES A DOCE AÑOS Y MULTA DE 200 A 500 DÍAS, PRIVACIÓN DE SU CARGO E INHABILITACIÓN PARA EL DESEMPEÑO DE CUALQUIER CARGO, EMPLEO O COMISIÓN PÚBLICOS HASTA POR EL MÁXIMO DE LA PUNIBILIDAD SEÑALADA.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2017)</small>
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2018 Y SU ACUMULADA 5/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE JUNIO DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
 
-ARTICULO 322 BIS.- Al servidor público que, en ejercicio de sus funciones o aduciendo su encargo, por sí o a través de un tercero, ordene, instigue o induzca para infligir a una persona dolores o sufrimientos graves sean físicos o mentales, con el fin de obtener del torturado o de un tercero, información o una confesión, de intimidar o coaccionar a la víctima para que realice o deje de hacer una conducta determinada, castigarla por un acto que haya cometido o se sospeche ha cometido, o anular su personalidad o disminuir su capacidad física o mental, aunque los métodos empleados no causen dolor físico o angustia psíquica, se le impondrá prisión de tres a doce años y multa de 200 a 500 días, privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el máximo de la punibilidad señalada.
+NO SE CONSIDERARÁ COMO TORTURA, LAS MOLESTIAS O SUFRIMIENTOS QUE SEAN CONSECUENCIA DE SANCIONES LEGALES, INHERENTES O INCIDENTALES A ÉSTAS O DERIVADAS DE UN ACTO LEGÍTIMO DE AUTORIDAD.
 
-Se impondrá la misma pena a quien, aún careciendo de la calidad de servidor público, pero instigado o autorizado explícita o implícitamente por éste, ejerza actos de tortura.
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2018 Y SU ACUMULADA 5/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE JUNIO DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-No se considerará como tortura, las molestias o sufrimientos que sean consecuencia de sanciones legales, inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
 
-El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán hasta tres años de prisión y multa de 15 a 60 días y suspensión del cargo hasta por el máximo de la punibilidad señalada. La misma pena se impondrá al Agente del Ministerio Publico que al tener conocimiento o razones fundadas para considerar que existió tortura, no inicie de oficio la indagatoria correspondiente.
+EL SERVIDOR PÚBLICO QUE EN EL EJERCICIO DE SUS FUNCIONES CONOZCA DE UN HECHO DE TORTURA, ESTÁ OBLIGADO A DENUNCIARLO DE INMEDIATO; SI NO LO HICIERE, SE LE IMPONDRÁN HASTA TRES AÑOS DE PRISIÓN Y MULTA DE 15 A 60 DÍAS Y SUSPENSIÓN DEL CARGO HASTA POR EL MÁXIMO DE LA PUNIBILIDAD SEÑALADA. LA MISMA PENA SE IMPONDRÁ AL AGENTE DEL MINISTERIO PUBLICO QUE AL TENER CONOCIMIENTO O RAZONES FUNDADAS PARA CONSIDERAR QUE EXISTIÓ TORTURA, NO INICIE DE OFICIO LA INDAGATORIA CORRESPONDIENTE.
 
-No podrá invocarse como causa de justificación en la comisión del delito de tortura, la orden de un superior jerárquico o de cualquier otra autoridad, la existencia de situaciones excepcionales como peligrosidad del indiciado, urgencia en las investigaciones o cualquier otra circunstancia análoga o de emergencia pública.
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2018 Y SU ACUMULADA 5/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE JUNIO DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-En el delito previsto por este artículo, la reparación de los daños y perjuicios comprenderá además, los gastos de atención médica y/o psicológica, rehabilitación, asesoría legal, servicio funerario o de cualquier otra índole, que haya erogado la víctima o sus familiares como consecuencia del delito. Asimismo, el sentenciado estará obligado a reparar el daño y a indemnizar por los perjuicios causados a la víctima, en los siguientes casos: pérdida de la vida, de algún órgano o algún miembro de su cuerpo, alteración de la salud física o mental, pérdida de la libertad, pérdida de ingresos económicos, incapacidad laboral, pérdida o el daño en la propiedad y/o menoscabo de su reputación.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2017)</small>
+
+NO PODRÁ INVOCARSE COMO CAUSA DE JUSTIFICACIÓN EN LA COMISIÓN DEL DELITO DE TORTURA SEÑALADO EN LA LEGISLACIÓN APLICABLE, LA ORDEN DE UN SUPERIOR JERÁRQUICO O DE CUALQUIER OTRA AUTORIDAD, LA EXISTENCIA DE SITUACIONES EXCEPCIONALES COMO PELIGROSIDAD DEL INDICIADO, URGENCIA EN LAS INVESTIGACIONES O CUALQUIER OTRA CIRCUNSTANCIA ANÁLOGA O DE EMERGENCIA PÚBLICA.
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 3/2018 Y SU ACUMULADA 5/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE JUNIO DE 2017, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
+
+EN EL DELITO PREVISTO POR ESTE ARTÍCULO, LA REPARACIÓN DE LOS DAÑOS Y PERJUICIOS COMPRENDERÁ ADEMÁS, LOS GASTOS DE ATENCIÓN MÉDICA Y/O PSICOLÓGICA, REHABILITACIÓN, ASESORÍA LEGAL, SERVICIO FUNERARIO O DE CUALQUIER OTRA ÍNDOLE, QUE HAYA EROGADO LA VÍCTIMA O SUS FAMILIARES COMO CONSECUENCIA DEL DELITO. ASIMISMO, EL SENTENCIADO ESTARÁ OBLIGADO A REPARAR EL DAÑO Y A INDEMNIZAR POR LOS PERJUICIOS CAUSADOS A LA VÍCTIMA, EN LOS SIGUIENTES CASOS: PÉRDIDA DE LA VIDA, DE ALGÚN ÓRGANO O ALGÚN MIEMBRO DE SU CUERPO, ALTERACIÓN DE LA SALUD FÍSICA O MENTAL, PÉRDIDA DE LA LIBERTAD, PÉRDIDA DE INGRESOS ECONÓMICOS, INCAPACIDAD LABORAL, PÉRDIDA O EL DAÑO EN LA PROPIEDAD Y/O MENOSCABO DE SU REPUTACIÓN.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2013)</small>
 
@@ -4832,3 +4846,13 @@ P.O. 9 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 225 QUE ADICIONA EL CAPÍTULO VII DEL TÍTULO TERCERO DEL LIBRO SEGUNDO, EL ARTÍCULO 175 BIS, EL TÍTULO SEXTO BIS DE LOS DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS, EL CAPÍTULO ÚNICO Y EL ARTÍCULO 202 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
 
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 242 POR EL QUE "SE REFORMAN EL PÁRRAFO TERCERO DEL ARTÍCULO 301 Y EL ARTÍCULO 322 BIS, Y SE DEROGA LA FRACCIÓN IX DEL ARTÍCULO 301 DEL CÓDIGO PENAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los procesos penales iniciados con fundamento en las leyes del Estado de Hidalgo que regulen las conductas tipificadas como delitos de tortura y otros tratos o penas crueles, inhumanos o degradantes, así como las sentencias emitidas con base en la misma, deberán concluirse y ejecutarse respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de estas últimas, atendiendo a lo estipulado en el artículo transitorio tercero del decreto por el que se reforma la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos del 10 de julio de 2015.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo señalado en el presente decreto, sin menoscabo de lo establecido en las leyes generales de las materias respectivas.
