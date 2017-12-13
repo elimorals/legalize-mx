@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2017-12-11"
+last_updated: "2017-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -655,9 +655,9 @@ V.- Ejercer el Derecho de Petición;
 
 VI.- Ser preferido, en igualdad de condiciones, sobre los no guanajuatenses, para el otorgamiento de empleo, cargo o comisión pública; y,
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2017)</small>
 
-VII.- Participar en los procesos de plebiscito y referéndum, así como en el procedimiento de iniciativa popular previstos en esta Constitución y en la Ley correspondiente;
+VII.- Participar en los mecanismos de participación ciudadana previstos en esta Constitución y en la Ley de la materia;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -757,9 +757,9 @@ El Estado de Guanajuato está constituído por la reunión de sus habitantes y p
 
 Todo Poder Público dimana del pueblo y se instituye para su beneficio.
 
-> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2017)</small>
 
-El referéndum, el plebiscito y la iniciativa popular son formas de participación ciudadana.
+Esta Constitución reconoce al menos al referéndum, el plebiscito y la iniciativa popular como formas de participación ciudadana
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -1117,9 +1117,9 @@ III.- Al Supremo Tribunal de Justicia en el ramo de sus atribuciones; y,
 
 IV.- A los Ayuntamientos o Concejos Municipales; y,
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2017)</small>
 
-V.- A los ciudadanos que representen cuando menos el tres por ciento de los inscritos en la lista nominal de electores correspondientes a la Entidad y reúnan los requisitos previstos en la Ley.
+V.- A los ciudadanos que representen cuando menos el cero punto cinco por ciento de la lista nominal de electores correspondientes a la Entidad y reúnan los requisitos previstos en la Ley.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -4015,8 +4015,16 @@ Artículo Único. El presente Decreto entrará en vigencia al día siguiente al 
 
 P.O. 11 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 235, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 1, LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO; Y LOS ACTUALES PÁRRAFOS SEXTO, SÉPTIMO, OCTAVO Y NOVENO PASAN A SER PÁRRAFOS NOVENO, DÉCIMO, UNDÉCIMO Y DUODÉCIMO, DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN AL ARTÍCULO 1, LOS PÁRRAFOS SEXTO, SÉPTIMO Y OCTAVO; Y LOS ACTUALES PÁRRAFOS SEXTO, SÉPTIMO, OCTAVO Y NOVENO PASAN A SER PÁRRAFOS NOVENO, DÉCIMO, UNDÉCIMO Y DUODÉCIMO, DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Congreso del Estado deberá efectuar los ajustes normativos que correspondan en un plazo de ciento ochenta días posteriores a la entrada en vigencia y de conformidad con los alcances de este Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 237, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 23, FRACCIÓN VII; 30, SEGUNDO PÁRRAFO Y 56, FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. El Congreso del Estado deberá efectuar los ajustes normativos que correspondan en un plazo de ciento ochenta días posteriores a la entrada en vigencia y de conformidad con los alcances de este decreto.
