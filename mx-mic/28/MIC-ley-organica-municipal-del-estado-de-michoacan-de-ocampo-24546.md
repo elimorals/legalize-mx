@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2017-11-07"
+last_updated: "2017-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -1353,9 +1353,9 @@ II. Si la ausencia es mayor de quince sin exceder de sesenta días, el President
 
 III. Si la ausencia es por más de sesenta días, el Ayuntamiento notificará al Congreso, quien valorará la fundamentación y motivación de la causa, en cuyo caso nombrará un Presidente Municipal Provisional, en caso contrario decretará la ausencia definitiva.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2017)</small>
 
-El Presidente Municipal Provisional, permanecerá en el cargo hasta que el titular se encuentre en la posibilidad material y legal de incorporarse a sus funciones, mediando para ello solicitud al Congreso para el trámite respectivo. En casos de que se declare ausencia definitiva conocerá el Congreso, quien contará con un término de hasta treinta días naturales contados a partir del día en que tenga conocimiento oficial, para designar a quien deba sustituirlo, respetando el origen partidista o en su caso independiente y el cual deberá cumplir los requisitos de elegibilidad para ser candidato a Presidente Municipal que señala la Constitución Local.
+El Presidente Municipal Provisional, permanecerá en el cargo hasta que el titular se encuentre en la posibilidad material y legal de incorporarse a sus funciones, mediando para ello solicitud al Congreso para el trámite respectivo. En casos de ausencia definitiva, una vez notificada al Congreso del Estado, este designará en un término de treinta días hábiles a quien deba sustituirlo, respetando su origen partidista o independiente.
 
 ### Capítulo II. De las Atribuciones del Síndico
 
@@ -3219,8 +3219,14 @@ QUINTO. Notifíquese el presente Decreto a los titulares de los Órganos Constit
 
 P.O. 7 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 405 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 21, 22, 23, 24, 25 Y 29 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO 405 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 21, 22, 23, 24, 25 Y 29 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 13 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 408 POR EL QUE "SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 50 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
