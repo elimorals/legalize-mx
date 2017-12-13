@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2017-09-06"
+last_updated: "2017-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1160,9 +1160,9 @@ l).- Los conflictos individuales, colectivos o intersindicales serán sometidos 
 
 m).- La Ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen, disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2017)</small>
 
-XXI.- Dictar las leyes que estime pertinentes para combatir el alcoholismo y el uso de yerbas y substancias enervantes.
+XXI.- Dictar las Leyes que estime pertinentes para combatir el alcoholismo y el uso de yerbas y sustancias enervantes; así como para expedir la Ley que regule la mejora regulatoria y cree el Sistema Estatal de Mejora Regulatoria;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -3171,6 +3171,10 @@ Los Ayuntamientos del Estado están obligados a mejorar y conservar los caminos 
 Toda riqueza poseída por una o varias personas, está obligada a contribuir a los gastos públicos del Estado, con la parte proporcional que determinen las Leyes, pero al mismo tiempo el Estado prestará garantías y dará facilidades a todos los que ejerciten sus actividades y hagan inversiones dentro de su territorio.
 
 Se declaran revisables todos los contratos y concesiones hechos por los Gobiernos anteriores desde el año de 1872, para ajustarlos al precepto del artículo 28 de la Constitución Federal y para la reglamentación de los servicios públicos en su caso. El Ejecutivo declarará la nulidad de los que impliquen grave perjuicio de interés general.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2017)</small>
+
+Las autoridades estatales y municipales, en el ámbito de su competencia, deberán implementar de manera permanente políticas públicas de mejora regulatoria, para la simplificación de regulaciones, trámites, servicios y procedimientos. La ley de la materia que expida el Congreso del Estado dispondrá lo necesario para que las Leyes emitidas por dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, garanticen beneficios superiores a sus costos, fortalezcan la competitividad económica, la creación de empleos en la entidad y, en consecuencia, el desarrollo económico del Estado. Asimismo, deberá sujetar sus disposiciones a lo dispuesto por la Ley que expida al efecto el Congreso de la Unión, en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 128.
 
@@ -5239,3 +5243,11 @@ PRIMERA. Aprobado el presente Decreto por el Poder Reformador local y hecha la d
 SEGUNDA. Aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la Declaratoria emitida por la LIII Legislatura del Congreso del Estado, en consecuencia, las reformas forman parte integral de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
+
+P.O. 13 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y SEIS.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE MEJORA REGULATORIA".]
+
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente se remitirá al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Las adiciones contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
