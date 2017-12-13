@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-despacho-del-ejecutivo-del-estado-83934
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-12"
-last_updated: "2011-11-12"
+last_updated: "2017-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL DESPACHO DEL EJECUTIVO DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDADCON EL TRANSITORIO QUINTO DEL REGLAMENTO INTERIOR DEL DESPACHO DEL EJECUTIVO, PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2018.]</small>
+
 REGLAMENTO INTERIOR DEL DESPACHO DEL EJECUTIVO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 12 de noviembre de 2011.
 
@@ -284,3 +286,23 @@ CUARTO.- Las Unidades Administrativas del Despacho del Ejecutivo, deberán exped
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital, a los siete días del mes de Noviembre del dos mil Once.
 
 A T E N T A M E N T E.- "SUFRAGIO EFECTIVO; NO REELECCIÓN".- ROBERTO SANDOVAL CASTAÑEDA, GOBERNADOR CONSTITUCIONAL DEL ESTADO.- Rúbrica.- LIC. JOSÉ TRINIDAD ESPINOZA VARGAS, SECRETARIO GENERAL DE GOBIERNO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL DESPACHO DEL EJECUTIVO”.]
+
+Primero. El presente Reglamento deberá publicarse en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit, y su vigencia comenzará a partir del día primero de enero de dos mil dieciocho.
+
+Segundo. Las solicitudes de acceso a información pública y datos personales presentadas antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones vigentes al momento de su recepción.
+
+Para el cumplimiento de las obligaciones comunes y específicas contenidas en los artículos 33 y 35 de la Ley de Transparencia y Acceso a la información Pública del Estado de Nayarit, las disposiciones del presente Reglamento surtirán efectos a partir del primero de febrero de dos mil dieciocho.
+
+Tercero. Para la debida operatividad de las Unidades Administrativas adscritas, se deberán realizar las adecuaciones presupuestales que resulten pertinentes. La Coordinación General de Transparencia, la Unidad de Transparencia del Despacho del Ejecutivo y el Órgano Interno de· Control, operarán conforme a la disponibilidad presupuesta! que se les otorgue en el Presupuesto de Egresos del Ejercicio Fiscal 2018.
+
+Para el Ejercicio Fiscal 2019, la Secretaría de Administración y Finanzas deberá realizar las adecuaciones presupuestales necesarias a efecto de garantizar la operación y funcionamiento de la Coordinación General de Transparencia, la Unidad de Transparencia del Despacho del Ejecutivo y el Órgano Interno de Control.
+
+Cuarto. Quedan derogadas todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Reglamento, debiéndose realizar las adecuaciones normativas que resulten necesarias.
+
+Quinto. Se abroga el Reglamento Interior del Despacho del Ejecutivo, publicado el día doce de noviembre del año dos mil once en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
