@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10095
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-30"
-last_updated: "2014-05-19"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sexagésima Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2013.
 
@@ -37,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 102, 115, 119, 123 fracción I, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46, 47, 48 fracción I y 146 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -417,9 +419,11 @@ Con el fin de salvaguardar la integridad física de niñas y niños, empleados y
 
 El Programa deberá contener, por lo menos, responsabilidad de los prestadores de servicio en cada una de las modalidades, el estado en el que se encuentra el inmueble, las instalaciones, el equipo y el mobiliario utilizado para la prestación del servicio. El Programa Interno deberá ser aprobado por las Direcciones de Protección Civil Estatal o municipales, según sea el caso, y será sujeto a evaluación de manera periódica, por las instancias correspondientes.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, contra incendios, de gas, intercomunicación y especiales, de acuerdo con los reglamentos establecidos por la Federación y el Estado. Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cincuenta metros.
+Los Centros de Atención deberán contar con instalaciones hidráulicas, eléctricas, de gas, equipos portátiles y fijos contra incendios, de intercomunicación y especiales, de acuerdo con los reglamentos establecidos por la Federación y el Estado, observando en todo momento la clasificación de riesgos establecidos en las Normas Oficiales Mexicanas para tal efecto. Ningún establecimiento que por su naturaleza ponga en riesgo la integridad física y emocional de niñas y niños y demás personas que concurran a los Centros de Atención, podrá estar ubicado a una distancia menor a cincuenta metros.
 
 ###### ARTÍCULO 27.
 
@@ -624,3 +628,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las disposiciones reglamentarias deberán ser expedidas dentro de los ciento ochenta días siguientes a la entrada en vigor de la misma.
 
 TERCERO.-Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 26 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
