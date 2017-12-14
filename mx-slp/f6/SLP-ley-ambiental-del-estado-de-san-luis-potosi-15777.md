@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2017-11-25"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -2347,6 +2347,10 @@ La Secretaría de Educación de Gobierno del Estado programará como corresponda
 
 El Gobierno del Estado, a través de las dependencias competentes, propondrá y establecerá los mecanismos para llevar a cabo en la Entidad una educación ambiental que abarque los ámbitos rural y urbano en diferentes procesos, tales como educativo, laboral, recreativo, familiar y comunitario, entre otros; también impulsará que en los medios de comunicación masiva se traten temas ambientales que no únicamente informen, sino que ayuden y propongan alternativas para un desarrollo efectivo de la conciencia ambiental en la población. Además, se encargará de promover la movilidad sustentable, así como difundir sus beneficios ambientales, por medio de acciones y medidas concretas para las que contará con la opinión y participación de la sociedad civil, usuarios, ayuntamientos, sector educativo, y demás autoridades competentes.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, promoverá la difusión de programas de cultura y educación ambiental, así como el desarrollo de proyectos de educación ambiental en español, y en las principales lenguas indígenas de la Entidad.
+
 (REUBICADO, P.O. 19 DE JUNIO DE 2012)
 
 ###### ARTICULO 144.
@@ -3105,8 +3109,16 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 25 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL " DECRETO 749.- SE ADICIONA AL ARTÍCULO 3° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL " DECRETO 749.- SE ADICIONA AL ARTÍCULO 3° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 762.- SE ADICIONA AL ARTÍCULO 143, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
