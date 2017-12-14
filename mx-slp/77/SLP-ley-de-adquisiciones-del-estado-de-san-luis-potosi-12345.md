@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2017-05-13"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -35,7 +35,7 @@ DECRETO 767
 
 LA QUINCUAGESIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI DECRETA LO SIGUIENTE:
 
-...
+[...]
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSI.
 
@@ -292,6 +292,10 @@ III.- Adjudicación directa.
 Los montos para las adquisiciones, arrendamientos y servicios, serán establecidos anualmente por el Congreso del Estado, mismos que serán aprobados dentro del mes de diciembre del año inmediato anterior, y se difundirán a través del Periódico Oficial del Estado.
 
 Dichos montos estarán calculados en función al valor de la unidad de medida y actualización vigente.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2017)</small>
+
+Los montos que son aprobados por el Congreso del Estado no incluyen el Impuesto al Valor Agregado (IVA).
 
 ###### ARTICULO 24.
 
@@ -772,6 +776,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 13 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0629.- SE REFORMA LOS ARTÍCULOS, 15 EN SU PÁRRAFO PRIMERO, Y 23, DE LA LEY DE ADQUISICIONES DEL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 764.- SE ADICIONA AL ARTÍCULO 23, DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
