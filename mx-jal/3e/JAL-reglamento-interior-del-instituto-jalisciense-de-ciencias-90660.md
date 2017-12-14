@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-jalisciense-de-ciencias-90660
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-15"
-last_updated: "2012-12-15"
+last_updated: "2017-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección XIV del Periódico Oficial del Estado de Jalisco, el sábado 15 de diciembre de 2012.
 
@@ -723,7 +725,7 @@ c) Dirección de Investigación;
 
 d) Dirección de Dictaminación Pericial; y
 
-e) Coordinación de Comunicación Social; (sic)
+e) Coordinación de Comunicación Social;
 
 ###### Artículo 40.
 
@@ -906,3 +908,13 @@ LIC. TOMÁS CORONADO OLMOS
 Procurador General de Justicia del Estado de Jalisco
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIGELAG ACU 045/2017 DEL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE JALISCO, QUE EXPIDE EL REGLAMENTO INTERNO DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES”.]
+
+PRIMERO. El Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Jalisciense de Ciencias Forenses publicado en el Periódico Oficial “El Estado de Jalisco” el 15 de diciembre de 2012.
