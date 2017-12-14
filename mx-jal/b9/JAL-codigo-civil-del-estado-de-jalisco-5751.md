@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2017-09-19"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1130,6 +1130,10 @@ Son personas jurídicas públicas, aquéllas que son creadas por una disposició
 ###### Art. 169.
 
 Son personas jurídicas privadas, aquéllas que tienen como origen un acto de carácter particular.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2017)</small>
+
+Las personas jurídicas privadas podrán realizar actos de asistencia social privada una vez que cumplan los requisitos y los procedimientos que prevean las leyes y códigos para su constitución y funcionamiento. En lo dispuesto por este párrafo, será aplicable lo previsto en el Libro Tercero del Código de Asistencia Social del Estado de Jalisco.
 
 ###### Art. 170.
 
@@ -7611,7 +7615,7 @@ El usufructo constituido a favor de personas jurídicas, que puedan adquirir y a
 
 ###### Art. 1100.
 
-El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta edad, dura el numero de años prefijados aunque el tercero muera antes.
+El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta edad, dura el número de años prefijados aunque el tercero muera antes.
 
 ###### Art. 1101.
 
@@ -19165,8 +19169,14 @@ P.O. 11 DE OCTUBRE DE 2016.
 
 P.O. 19 DE SEPTIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 26429/LXI/17 QUE REFORMA EL ARTÍCULO 1574 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26429/LXI/17 QUE REFORMA EL ARTÍCULO 1574 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Conforme al presente decreto, las leyes fiscales, establecerán medidas para eliminar o reducir el pago de derechos registrales que en su caso se lleguen a generar por la modificación de las garantías derivadas de la subrogación a que se refiere el artículo 1574 del Código Civil del Estado de Jalisco.
+
+P.O. 14 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26593/LXI/17 QUE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
