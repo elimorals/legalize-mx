@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-1070
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-03-31"
-last_updated: "2017-02-13"
+last_updated: "2017-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107012&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-03-26"
 ---
 # REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACION Y PROTECCION DE DATOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEXTO DEL ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL D.O.F. DE 14 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL INSTITUTO FEDERAL DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2015.
 
@@ -1472,3 +1474,21 @@ D.O.F. 13 DE FEBRERO DE 2017.
 > <small>[N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
 
 SEXTO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos del documento anexo que forma parte integral del presente Acuerdo.
+
+SEGUNDO. Se instruye a la Dirección General de Administración para que dé el seguimiento que corresponda al presente Acuerdo, dentro del ámbito de su competencia.
+
+TERCERO. Se instruye a la Dirección General de Asuntos Jurídicos para que realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el Diario Oficial de la Federación.
+
+CUARTO. Se instruye a la Secretaría Técnica del Pleno para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de Internet del INAI.
+
+El presente acuerdo y su anexo puede ser consultado en la dirección electrónica siguiente: http://inicio.inai.org.mx/AcuerdosDelPleno/ACT-PUB-29-11-2017.04.pdf
+
+QUINTO. El presente Acuerdo entrará en vigor al momento de su publicación en el Diario Oficial de la Federación.
+
+SEXTO. Se abroga el Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Federal de Acceso a la Información y Protección de Datos, autorizado por el Pleno de este Instituto mediante acuerdo ACT-PUB/26/03/2015.04, publicado en el Diario Oficial de la Federación el 31 de marzo de 2015.
