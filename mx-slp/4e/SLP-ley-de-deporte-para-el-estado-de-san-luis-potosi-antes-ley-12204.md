@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deporte-para-el-estado-de-san-luis-potosi-antes-ley-1220
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2015-06-02"
+last_updated: "2017-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSI -ANTES LEY ESTATAL DEL DEPORTE DEL ESTADO DE SAN LUIS POTOSI-
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DEPORTE PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 26 de agosto de 1996.
 
@@ -732,3 +734,27 @@ P.O. 2 DE JUNIO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 761.- SE EXPIDE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Esta Ley entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor de este Decreto, se abroga la Ley de Deporte del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el veintiséis de agosto de mil novecientos noventa (sic) seis.
+
+Se derogan todas las disposiciones que contravengan a esta Ley.
+
+TERCERO. Las disposiciones reglamentarias que se deriven de esta Ley, con excepción de la prevista en el párrafo segundo del artículo sexto transitorio de esta Ley, deberá expedirse dentro (sic) los tres meses siguientes a la entrada en vigencia de este Ordenamiento.
+
+En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
+
+CUARTO. El Instituto Potosino de Cultura Física y Deporte funcionará con la estructura administrativa que tenía el Instituto Potosino del Deporte; para tal efecto se le transfieren los recursos humanos, financieros y materiales que tenía este último.
+
+QUINTO. Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubiesen iniciado bajo la vigencia de la Ley del Deporte del Estado de San Luis Potosí, se tramitarán y resolverán conforme a las disposiciones de la Ley que se abroga.
+
+SEXTO. La Comisión Local Especial Contra la Violencia en el Deporte y sus órganos, será constituida por el titular del Instituto, dentro de los cuarenta días naturales siguientes a la entrada en vigencia de esta Ley.
+
+El Ejecutivo del Estado dentro de los cuarenta días naturales siguientes de la entrada en vigencia de esta Ley, deberá expedir el Reglamento Interno de la Comisión Local Especial Contra la Violencia en el Deporte.
+
+SÉPTIMO. El Ejecutivo del Estado, a través del titular del Instituto, y los presidentes municipales por conducto de la instancia administrativa municipal equivalente, deberán de conformar los respectivos sistemas de Cultura Física y Deporte, dentro (sic) los treinta días naturales siguientes a la entrada en vigor de esta Ley.
