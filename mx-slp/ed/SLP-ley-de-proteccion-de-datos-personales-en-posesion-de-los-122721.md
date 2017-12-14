@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-de-datos-personales-en-posesion-de-los-122721
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-07-19"
+last_updated: "2017-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES EN POSESION DE LOS SUJETOS OBLIGADOS DEL ESTADO DE SAN LUIS POTOSI -ANTES LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE SAN LUIS POTOSI-
 
-LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE SAN LUIS POTOSÍ
+LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el miércoles 19 de julio de 2017.
 
@@ -39,17 +39,21 @@ EXPOSICIÓN DE MOTIVOS
 
 ÚNICO. Se expide la Ley de Protección de Datos Personales del Estado de San Luis Potosí; para quedar como sigue:
 
-Ley de Protección de Datos Personales del Estado de San Luis Potosí
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2017)</small>
+
+Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de San Luis Potosí
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
 ### Capítulo Único. De los ámbitos de validez subjetivo, objetivo y territorial de la Ley
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2017)</small>
+
 Objeto
 
 ###### ARTÍCULO 1°.
 
-La presente Ley es de orden público y observancia obligatoria en el Estado de San Luis Potosí y tiene por objeto garantizar el objeto que tiene toda persona a la protección de sus datos personales.
+La presente Ley es de orden público y observancia obligatoria en el Estado de San Luis Potosí; y tiene por objeto garantizar el derecho que tiene toda persona a la protección de sus datos personales.
 
 Objetivos específicos
 
@@ -1669,11 +1673,15 @@ I. Los documentos que acrediten su identidad y la de su representante, en su cas
 
 II. El documento que acredite la personalidad de su representante, en su caso;
 
-III. La copia de la solicitud a través de la cual ejerció sus derechos ARCO o de portabilidad de los datos personales y que fue presentada ante el responsable y los documentos anexos a la misma, con su correspondiente acuse de recepción;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2017)</small>
 
-IV. La copia de la respuesta del responsable que se impugna y de la notificación correspondiente, en su caso, y
+III. La copia de la respuesta del responsable que se impugna y de la notificación correspondiente, en su caso, y
 
-V. Las pruebas y demás elementos que considere el titular someter a juicio de la CEGAIP.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2017)</small>
+
+IV. Las pruebas y demás elementos que considere el titular someter a juicio de la CEGAIP.
+
+V. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2017)
 
 Suplencia de la queja del titular
 
@@ -2435,15 +2443,21 @@ Para tales efectos, la CEGAIP podrá denunciar ante las autoridades competentes 
 
 ## TRANSITORIOS
 
-PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas aquellas disposiciones en materia de protección de datos personales, de carácter estatal y municipal, que contravengan lo dispuesto por la presente Ley.
 
-TERCERO. Los responsables expedirán sus avisos de privacidad en los términos previstos en la presente Ley y demás disposiciones aplicables, a más tardar tres meses después de la entrada en vigor de ésta Ley.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2017)</small>
 
-CUARTO. Los responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II de la presente Ley, a más tardar un año después de la entrada en vigor de ésta.
+TERCERO. Los responsables expedirán sus avisos de privacidad en los términos y plazos previstos en la Ley General.
 
-QUINTO. La CEGAIP deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, dentro de un año siguiente a la entrada en vigor de ésta.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2017)</small>
+
+CUARTO. Los responsables deberán observar lo dispuesto en el Título Segundo, Capítulo II, de la presente Ley, a más tardar el veintidós de enero del año dos mil dieciocho.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2017)</small>
+
+QUINTO. La CEGAIP deberá expedir los lineamientos, parámetros, criterios y demás disposiciones de las diversas materias a que se refiere la presente Ley, a más tardar el veintidós de enero del año dos mil dieciocho.
 
 SEXTO. Los procedimientos iniciados durante la vigencia de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, se sustanciarán hasta su conclusión, conforme al ordenamiento señalado.
 
@@ -2451,7 +2465,7 @@ SÉPTIMO. El Congreso del Estado de San Luis Potosí deberá hacer las prevision
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-D A D O en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el siete de julio de dos mil diecisiete.
+D A D O en el salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el siete de julio de dos mil diecisiete.
 
 Por la Directiva. Primer Vicepresidente Legislador Héctor Mendizábal Pérez; Primera Secretaria Legisladora Dulcelina Sánchez De Lira; Segundo Secretario Legislador Gerardo Limón Montelongo (Rúbricas)
 
@@ -2470,3 +2484,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 763.- SE REFORMAN, LOS ARTÍCULOS 1° Y 136, DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
