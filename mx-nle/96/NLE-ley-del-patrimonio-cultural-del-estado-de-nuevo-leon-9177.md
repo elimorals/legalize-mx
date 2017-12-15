@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "2015-12-02"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRÁ TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -537,9 +537,13 @@ Se impondrá prisión de dos a cinco años y multa de diez a cien días de salar
 
 Se impondrá prisión de uno a siete años y multa de cinco a cincuenta días de salario mínimo general vigente en el Estado, al que exporte o transmita a extranjeros bienes adscritos al Patrimonio Cultural del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 74.
 
-Independientemente de las sanciones previstas en el Código Penal, se impondrá prisión de seis meses a seis años y multa de cinco a cincuenta días de salario mínimo general vigente en el Estado, al que destruya un bien adscrito al Patrimonio Cultural.
+Al que por cualquier medio dañe, altere o destruya un bien adscrito al Patrimonio Cultural del Estado, se le impondrá prisión de tres a diez años y multa hasta el valor del daño causado.
+
+Cuando el daño no sea intencional, se estará a lo dispuesto en el capítulo de sanciones a los delitos culposos del Código Penal del Estado.
 
 ###### ARTICULO 75.
 
@@ -624,3 +628,9 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 2 DE DICIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 309 SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 74 DE LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
