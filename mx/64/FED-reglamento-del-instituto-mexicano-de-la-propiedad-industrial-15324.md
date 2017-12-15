@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-mexicano-de-la-propiedad-industrial-15
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-12-14"
-last_updated: "2007-09-07"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-12-09"
 
 REGLAMENTO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 14 de diciembre de 1999.
 
@@ -143,6 +143,10 @@ iii) Subdirección Divisional de Examen de Signos Distintivos B;
 
 - Coordinación Departamental de Examen de Marcas D;
 
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
+
+- Coordinación Departamental de Examen de Marcas E;
+
 > <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
 iv) Subdirección Divisional de Servicios Legales, Registrales e Indicaciones Geográficas;
@@ -207,7 +211,7 @@ i) Subdirección Divisional de Desarrollo de Sistemas;
 
 ii) Subdirección Divisional de Soporte a Sistemas;
 
-- Coordinación Departamental de Redes y Comunicaciones;
+- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2017)
 
 - Coordinación Departamental de Soporte Técnico;
 
@@ -215,7 +219,7 @@ ii) Subdirección Divisional de Soporte a Sistemas;
 
 iii) Subdirección Divisional de Productos de Información Tecnológica;
 
-- Coordinación Departamental de Publicaciones y Estadística;
+- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2017)
 
 - Coordinación Departamental de Producción de Discos Compactos;
 
@@ -223,17 +227,17 @@ iii) Subdirección Divisional de Productos de Información Tecnológica;
 
 e) Promoción y Servicios de Información Tecnológica
 
-i) Subdirección Divisional de Promoción y Difusión de la Propiedad Industrial;
-
-- Coordinación Departamental de Promoción y Apoyo Logístico;
-
-- Coordinación Departamental de Estudios de Difusión de la Propiedad Industrial;
+i) (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 2017)
 
 ii) Subdirección Divisional de Servicios de Información Tecnológica;
 
 - Coordinación Departamental del Centro de Información Tecnológica;
 
 - Coordinación Departamental de Acervos Documentales;
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
+
+- Coordinación Departamental de Estudios de Difusión de la Propiedad Industrial;
 
 f) Relaciones Internacionales
 
@@ -263,7 +267,7 @@ iii) Titular de la Oficina Regional Sureste;
 
 - Coordinación Departamental de Marcas y Protección a la Propiedad Industrial;
 
-- Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
+- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2017)
 
 iv) Titular de la Oficina Regional Bajío;
 
@@ -279,7 +283,7 @@ v) Titular de la Oficina Regional Centro;
 
 - Coordinación Departamental de Invenciones y Servicios de Información Tecnológica;
 
-- Coordinación Departamental de Promoción;
+- (DEROGADA, D.O.F. 15 DE DICIEMBRE DE 2017)
 
 h) Administración
 
@@ -657,9 +661,9 @@ IX. Actuar como conciliador de los intereses de las partes involucradas en los p
 
 X. Fungir como árbitro en la resolución de controversias relacionadas con el pago de los daños y perjuicios derivados de la violación a los derechos de propiedad industrial que tutela la Ley, cuando los involucrados lo designen expresamente como tal, y cumpliendo con las formalidades que para el caso exige el Código de Comercio;
 
-> <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
 
-XI. Expedir copias simples y certificadas, previa solicitud, de las constancias que obren en los archivos del Instituto que sean ofrecidas como prueba en un procedimiento de declaración administrativa, así como efectuar el cotejo de la copia simple que se exhiba;
+XI. Expedir copias simples, certificadas y efectuar el cotejo de copias simples que, en su caso, sean exhibidas de las constancias que obren en los archivos del Instituto, cuando se solicite en un procedimiento de declaración administrativa;
 
 > <small>(REFORMADA, D.O.F. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -851,7 +855,9 @@ XIV. Intervenir como asesor jurídico del Instituto en las materias de su compet
 
 XV. Sistematizar, unificar y difundir los criterios de interpretación y de aplicación de las leyes u otras disposiciones jurídicas que regulen el ejercicio de las facultades y funcionamiento del Instituto, y
 
-XVI. Expedir copias certificadas de las constancias que obren en los archivos del Instituto, cuando deban ser exhibidas ante las autoridades judiciales, administrativas, laborales o Ministerio Público.
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
+
+XVI. Expedir copias certificadas de las constancias que obren en los archivos del Instituto, cuando éstas sean requeridas por autoridades judiciales, administrativas, laborales o por el Ministerio Público.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE JULIO DE 2002)</small>
 
@@ -933,7 +939,7 @@ CUARTO.- Los procedimientos relacionados con el recurso de reconsideración prev
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de diciembre de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 1 DE JULIO DE 2002.
 
@@ -950,3 +956,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los asuntos pendientes de resolución a la entrada en vigor de este Decreto, se seguirán substanciando por las áreas administrativas que conforme a este ordenamiento les competa.
 
 TERCERO.- Las acciones que lleve a cabo el Instituto Mexicano de la Propiedad Industrial para la aplicación del presente Decreto, así como las modificaciones a su estructura orgánica, se sujetarán a los recursos aprobados para dicho objeto en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, sin incrementar el presupuesto regularizable de servicios personales.
+
+D.O.F. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL INSTITUTO MEXICANO DE LA PROPIEDAD INDUSTRIAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes de resolución a la entrada en vigor de este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquélla o aquéllas a las que se les haya atribuido la competencia que corresponda en el presente Decreto.
