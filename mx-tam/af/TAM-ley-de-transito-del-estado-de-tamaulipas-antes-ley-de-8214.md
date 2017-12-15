@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2016-12-21"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -209,9 +209,7 @@ Una vez satisfechos dichos requisitos, se autorizará su circulación, previo pa
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
 
-###### ARTICULO 14 Bis.
-
-Todo vehículo automotor que circule por las vías públicas en el Estado y sus municipios, deberá contar y portar en el vehículo, póliza de seguro vigente para responder de los daños a terceros, en su persona o bienes, que con motivo del uso del vehículo automotor pudiera producirse a usuarios, peatones, conductores o terceros, en su persona o patrimonio.
+ARTICULO 14 BIS.- Todo vehículo automotor que circule por las vías públicas en el Estado y sus municipios, deberá contar y portar en el vehículo, póliza de seguro vigente para responder de los daños a terceros, en su persona o bienes, que con motivo del uso del vehículo automotor pudiera producirse a usuarios, peatones, conductores o terceros, en su persona o patrimonio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -229,11 +227,11 @@ IV.- Para demostración.
 
 ### CAPITULO III. DE LOS PEATONES, PASAJEROS Y CONDUCTORES
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 16.
 
-Los peatones y discapacitados, tendrán preferencia en la circulación, por lo que los conductores de vehículos y motocicletas les guardarán la consideración debida y tomarán las precauciones necesarias para la protección y seguridad de su integridad física; cediéndoles el paso, cuando éstos se encuentren cruzando las calles y sobrevenga un cambio de señal de paso de los semáforos que regulan la circulación.
+Los peatones y las personas con discapacidad, tendrán preferencia en la circulación, por lo que los conductores de vehículos y motocicletas les guardarán la consideración debida y tomarán las precauciones necesarias para la protección y seguridad de su integridad física; cediéndoles el paso, cuando éstos se encuentren cruzando las calles y sobrevenga un cambio de señal de paso de los semáforos que regulan la circulación.
 
 ###### ARTICULO 17.
 
@@ -337,15 +335,15 @@ Los vehículos automotores que no reúnan los requisitos para su uso, serán ret
 
 ### CAPITULO V. DEL ESTACIONAMIENTO DE VEHICULOS
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], 15 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 25.
 
-Previo estudio que se realice, los Ayuntamientos determinarán las condiciones y forma en que deben ser estacionados los vehículos automotores en la vía pública, considerando el interés social, el orden y la armónica convivencia, privilegiando los espacios para discapacitados.
+Previo estudio que se realice, los Ayuntamientos determinarán las condiciones y forma en que deben ser estacionados los vehículos automotores en la vía pública, considerando el interés social, el orden y la armónica convivencia, privilegiando los espacios para las personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-Los lugares con estacionamiento disponible para el público, que cuenten con más de cinco cajones incluido el espacio que reserven para conductores discapacitados, deberán destinar por lo menos uno para mujeres en estado de embarazo.
+Los lugares con estacionamiento disponible para el público, que cuenten con más de cinco cajones incluido el espacio que reserven para conductores con discapacidad, deberán destinar por lo menos uno para mujeres en estado de embarazo.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -353,9 +351,7 @@ Para ocupar el cajón correspondiente, las mujeres embarazadas, deberán mostrar
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-###### ARTICULO 25 Bis.
-
-El permiso que refiere el artículo anterior, deberá ajustarse a lo siguiente:
+ARTICULO 25 BIS.- El permiso que refiere el artículo anterior, deberá ajustarse a lo siguiente:
 
 I. El permiso le permitirá estacionarse en los lugares reservados para las mujeres embarazadas.
 
@@ -525,9 +521,9 @@ b).- Desde una vez el valor diario de la Unidad de Medida y Actualización, a qu
 
 c).- Desde cincuenta veces el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) la cual no podrá ser condonada ni reducida, igual multa a los menores de dieciocho años, que cuenten con licencia provisional e infrinjan lo establecido en este artículo, los que serán remitidos a la autoridad correspondiente quien deberá hacer del conocimiento de los padres o tutores, o de quienes ejerzan la patria potestad o la custodia, de la infracción cometida y la sanción correspondiente. Los padres serán responsables solidarios por el pago de la multa impuesta; y,
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-d).- Desde diez veces el valor diario de la Unidad de Medida y Actualización, a quien se estacione en lugar exclusivo para discapacitados, sin acreditar fehacientemente que el conductor o alguno de sus ocupantes se encuentra en ese supuesto, sanción que no podrá ser condonada ni reducida.
+d).- Desde diez veces el valor diario de la Unidad de Medida y Actualización, a quien se estacione en lugar exclusivo para personas con discapacidad, sin acreditar fehacientemente que el conductor o alguno de sus ocupantes se encuentra en ese supuesto, sanción que no podrá ser condonada ni reducida.
 
 II. Suspensión de licencia:
 
@@ -778,3 +774,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
