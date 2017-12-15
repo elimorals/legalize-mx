@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2017-12-01"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2017.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -865,7 +865,9 @@ d) Propuesta de nombramiento expedida por los titulares de las áreas administra
 
 e) Autorizaciones de las instancias competentes para desempeñar el cargo de actuario judicial, de secretario de juzgado o de tribunal; y para fungir como secretario en funciones de juez de Distrito o de magistrado de Circuito y toma de nota de encargado del despacho;
 
-f) Original o copia con firma autógrafa o electrónica de los movimientos de personal;
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
+
+f) Original o copia con firma autógrafa o electrónica de los movimientos de personal o, en su caso, copia certificada de éstos;
 
 g) Originales de incapacidades médicas expedidas por el ISSSTE;
 
@@ -6793,7 +6795,7 @@ La Contraloría registrará las resoluciones definitivas del procedimiento admin
 
 ## TÍTULO SEGUNDO. BIENES
 
-### CAPÍTULO PRIMERO. COMITÉ DE INFORMATICA}
+### CAPÍTULO PRIMERO. COMITÉ DE INFORMATICA
 
 #### SECCIÓN SEXTA. INVITACIÓN RESTRINGIDA
 
@@ -12612,3 +12614,13 @@ D.O.F. 1 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como (sic) el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LOS MOVIMIENTOS DE PERSONAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
