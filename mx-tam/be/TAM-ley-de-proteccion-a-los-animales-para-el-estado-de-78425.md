@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2016-12-21"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -387,7 +387,9 @@ IV. Hacer donación de los mismos como premio, reclamo publicitario, recompensa 
 
 V. Venderlos a laboratorios, clínicas o para alimento;
 
-VI. Venderlos a menores de edad y a discapacitados, sin la autorización por escrito de quienes tengan su patria potestad o custodia;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+VI. Venderlos a menores de edad y a personas con discapacidad, sin la autorización por escrito de quienes tengan su patria potestad o custodia;
 
 VII. Ejercer su venta ambulante sin autorización;
 
@@ -1023,9 +1025,11 @@ Se considera como infractora a la presente ley a toda persona o autoridad que po
 
 La imposición de cualquier sanción prevista por la presente Ley no excluye la responsabilidad civil o penal y la eventual indemnización y reparación del daño correspondiente que puedan recaer sobre el sancionado.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 52.
 
-Es responsable de las faltas previstas en esta ley cualquier persona, institución o asociación de carácter privado, público, social o gubernamental, que participe en la ejecución de las infracciones o induzca, directa o indirectamente a cometerlas. Los padres o tutores de menores de edad o discapacitados serán responsables de las faltas que éstos cometan.
+Es responsable de las faltas previstas en esta ley cualquier persona, institución o asociación de carácter privado, público, social o gubernamental, que participe en la ejecución de las infracciones o induzca, directa o indirectamente a cometerlas. Los padres o tutores de menores de edad o personas con discapacidad serán responsables de las faltas que éstos cometan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1206,3 +1210,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
