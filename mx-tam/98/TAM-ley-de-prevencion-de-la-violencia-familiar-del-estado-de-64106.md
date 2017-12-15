@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-de-la-violencia-familiar-del-estado-de-64106"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-24"
-last_updated: "2016-12-21"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de junio de 2008.
 
@@ -87,7 +87,9 @@ Se considerará consumada esta conducta si la víctima es menor de 18 años de e
 
 IV. Maltrato económico: Es toda acción u omisión dolosa del pago de los gastos generados por la familia, para la manutención de las necesidades básicas de subsistencia, o bien cubrir sólo parte de éstas, sin causa fundada para ello. Al efecto, se entienden como necesidades básicas de subsistencia los alimentos, el vestido, los gastos de habitación, de educación, de salud y de diversión;
 
-V. Abandono: Esta situación de desamparo que se genera en un menor, un discapacitado o un adulto mayor, cuando los padres, tutores o responsables de su protección o cuidado dejen de proporcionarles los medios básicos de subsistencia y los cuidados o atenciones necesarias para su desarrollo integral y sostenimiento, sin perjuicio de lo que prevengan otras leyes; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+V. Abandono: Es la situación de desamparo que se genera en un menor, una persona con discapacidad o un adulto mayor, cuando los padres, tutores o responsables de su protección o cuidado dejen de proporcionarles los medios básicos de subsistencia y los cuidados o atenciones necesarias para su desarrollo integral y sostenimiento, sin perjuicio de lo que prevengan otras leyes; y
 
 VI. Negligencia: Es la omisión de cuidado o supervisión esenciales para la vida y el adecuado desarrollo psicológico y social de una persona.
 
@@ -245,7 +247,9 @@ e) Levantar un inventario de los bienes muebles o pertenencias que existan en el
 
 f) Otorgar el uso exclusivo del menaje de casa a la victima, durante el tiempo que dure el procedimiento, debiendo salvaguardarse especialmente la vivienda y el menaje amparado al régimen de patrimonio familiar, sin que para ello sea necesario que previamente se haya registrado como patrimonio familiar;
 
-g) Ordenar al presunto agresor que se abstenga de intervenir en el uso y disfrute de los instrumentos de trabajo de la víctima. Cuando ésta tenga 70 años o más, o sea discapacitado, el presunto victimario no deberá interferir en el uso y disfrute de instrumentos indispensables para que la víctima pueda valerse por sí misma o integrarse a la sociedad;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+g) Ordenar al presunto agresor que se abstenga de intervenir en el uso y disfrute de los instrumentos de trabajo de la víctima. Cuando ésta tenga 70 años o más, o tenga una discapacidad, el presunto victimario no deberá interferir en el uso y disfrute de instrumentos indispensables para que la víctima pueda valerse por sí misma o integrarse a la sociedad;
 
 h) Ordenar al presunto agresor que garantice la reparación de los daños ocasionados a la víctima o a los bienes que le sean indispensables para continuar su vida normal. Se incluirán los gastos de traslado, reparación a la propiedad, alojamientos y gastos médicos que se hubieren generado con motivo de los hechos; el monto se hará efectivo de acuerdo a la ley procesal civil; e
 
@@ -502,3 +506,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA (SIC) DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
