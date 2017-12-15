@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2016-02-13"
+last_updated: "2017-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -191,7 +189,9 @@ IV. La no discriminación;
 
 V. La inclusión;
 
-VI. El derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+VI. El derecho a la vida, a la paz, la supervivencia y al desarrollo;
 
 VII. La participación;
 
@@ -241,7 +241,9 @@ La falta de la formulación de la denuncia, dará lugar a la imposición de las 
 
 Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-I. Derecho a la vida, a la supervivencia y al desarrollo;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+l. Derecho a la vida, a la paz, la supervivencia y al desarrollo;
 
 II. Derecho a la alimentación;
 
@@ -313,21 +315,29 @@ V. Indivisibles.
 
 A todas las niñas, los niños y adolescentes se les reconoce el ejercicio personal de sus derechos, deberes y garantías, de manera progresiva y conforme a su capacidad evolutiva, sus progenitores o quien ejerza la patria potestad, tutela o guarda y custodia deberán respetar y tener en cuenta lo anterior, de forma que contribuyan a su desarrollo integral.
 
-### CAPÍTULO II. DEL DERECHO A LA VIDA, A LA SUPERVIVENCIA Y AL DESARROLLO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO II. DEL DERECHO A LA VIDA, A LA PAZ, LA SUPERVIVENCIA Y AL DESARROLLO
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
+Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, la paz, la supervivencia y el desarrollo.
 
-Las autoridades de la entidad y de los municipios, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
+El derecho a la paz comprende la protección, las oportunidades y servicios que procuren el desarrollo físico, moral y social de las niñas, niños y adolescentes en condiciones de libertad, igualdad y dignidad, velando por el interés superior.
+
+Las autoridades de la entidad y de los municipios, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar la paz, el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
 ###### Artículo 18.
 
 Niñas, niños y adolescentes deberán disfrutar de una vida plena que garanticen (sic) su desarrollo integral.
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 19.
 
-Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos sociales, armados o violentos.
+Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, a la paz, ni ser utilizados en conflictos sociales, armados o violentos.
 
 ### CAPÍTULO III. DERECHO A LA ALIMENTACIÓN
 
@@ -1772,3 +1782,11 @@ Tlalixtac de Cabrera, Centro. Oax. 10 de diciembre del 2015.
 SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 749.- MEDIANTE EL CUAL SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
