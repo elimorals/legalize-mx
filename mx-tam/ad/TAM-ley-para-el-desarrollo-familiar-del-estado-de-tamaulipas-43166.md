@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-familiar-del-estado-de-tamaulipas-43166"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-28"
-last_updated: "2014-07-09"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 28 de diciembre de 2004.
 
@@ -203,7 +203,9 @@ g) Promoverá y coordinará las actividades desarrolladas por las instituciones 
 
 h) Propiciará la participación de la comunidad y de los organismos no gubernamentales en los programas de promoción y protección a la familia, en especial al menor, a las personas con discapacidad y de la tercera edad;
 
-i) Ejecutará programas especiales de protección para los discapacitados;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+i) Ejecutará programas especiales de protección para las personas con discapacidad;
 
 j) Realizará programas de alimentación, vacunación, nutrición, educación sanitaria y de rehabilitación especial;
 
@@ -331,7 +333,9 @@ d) Los deberes de la familia para garantizar la protección integral del menor.
 
 ###### ARTICULO 16.
 
-1. El Estado tiene la responsabilidad de proteger a todos los menores y, de manera especial, a quienes se hallen amenazados o vulnerados en sus derechos; a los infractores; a los discapacitados; a los desamparados por carecer su familia de los medios de subsistencia que satisfagan sus necesidades básicas; a los afectados por conflictos armados, desplazados o repatriados; y, en general, a todos aquellos menores que se encuentren en situación de vulnerabilidad.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+1. El Estado tiene la responsabilidad de proteger a todos los menores y, de manera especial, a quienes se hallen amenazados o vulnerados en sus derechos; a los infractores; a las personas con discapacidad; a los desamparados por carecer su familia de los medios de subsistencia que satisfagan sus necesidades básicas; a los afectados por conflictos armados, desplazados o repatriados; y, en general, a todos aquellos menores que se encuentren en situación de vulnerabilidad.
 
 2. El Estado también deberá proteger a la mujer embarazada, particularmente si fuere menor, trabajadora o abandonada y, en general, a la madre, especialmente cuando asume sola la responsabilidad de criar a sus hijos.
 
@@ -537,13 +541,19 @@ Los padres deben asistir moral y económicamente a sus hijos, que se hallen invo
 
 Los padres que abandonen moral y materialmente a sus hijos, que dejen de cumplir los deberes que la ley les indica o que abusen en el ejercicio del derecho de corrección, serán responsables conforme a la legislación penal, sin perjuicio de exigírseles el cumplimiento de los deberes que ésta y demás leyes establecen.
 
-### CAPITULO NOVENO. DE LA PROTECCION A LOS DISCAPACITADOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+### CAPITULO NOVENO. DE LA PROTECCION A LAS PERSONAS CON DISCAPACIDAD
 
 ###### ARTICULO 43.
 
-1. Los discapacitados tienen derecho a la protección integral por cuenta y a cargo de su familia.
+REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)
 
-2. El Estado está obligado a promover y velar, en primer lugar, para que la familia pueda cumplir con la anterior responsabilidad, así como a asegurar la protección social y la asistencia a los discapacitados que no cuenten con una familia.
+1. Las personas con discapacidad tienen derecho a la protección integral por cuenta y a cargo de su familia.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+2. El Estado está obligado a promover y velar, en primer lugar, para que la familia pueda cumplir con la anterior responsabilidad, así como a asegurar la protección social y la asistencia a las personas con discapacidad que no cuenten con una familia.
 
 ### CAPITULO DECIMO. DERECHOS FUNDAMENTALES Y DEBERES DE LOS ADULTOS MAYORES INTEGRANTES EN LA FAMILIA
 
@@ -778,3 +788,11 @@ P.O. 9 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado
+
+P.O. 15 DE DICIEMBRE DE 2017
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
