@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-5-2015-de-la-comision-de-creacion-de-nuevos-106111
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-03-02"
-last_updated: "2015-03-02"
+last_updated: "2017-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106111&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,13 @@ issue_date: "2015-02-16"
 ---
 # ACUERDO CCNO/5/2015 DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL [RELATIVO A LA COMPETENCIA TEMPORAL Y TURNO REGULADO DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL EN EL ESTADO DE JALISCO, CON SEDE EN ZAPOPAN, Y EL JUZGADO TERCERO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTIA MENOR EN LA MISMA ENTIDAD Y RESIDENCIA, PARA CONOCER DE JUICIOS ORALES MERCANTILES Y QUE ABROGA AL DIVERSO CCNO/3/2014]
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 37/2017, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON RESIDENCIA EN ZAPOPAN, JALISCO; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL Y EL DIVERSO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS, PUBLICADO EN EL D.O.F. DE 15 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+[NOTA 1: EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 37/2017, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 15 DE DICIEMBRE DE 2017, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL UNO DE ENERO DE DOS MIL DIECIOCHO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 ACUERDO CCNO/5/2015 DE LA COMISIÓN DE CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA COMPETENCIA TEMPORAL Y TURNO REGULADO DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL EN EL ESTADO DE JALISCO, CON SEDE EN ZAPOPAN, Y EL JUZGADO TERCERO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR EN LA MISMA ENTIDAD Y RESIDENCIA, PARA CONOCER DE JUICIOS ORALES MERCANTILES Y QUE ABROGA AL DIVERSO CCNO/3/2014
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 2 de marzo de 2015.
 
@@ -86,3 +88,33 @@ TERCERO. A partir de la fecha señalada en el punto primero del presente acuerdo
 CUARTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL MAGISTRADO JORGE ANTONIO CRUZ RAMOS, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/5/2015 de la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, relativo a la competencia temporal y turno regulado de asuntos entre los Juzgados de Distrito en Materia Civil en el Estado de Jalisco, con sede en Zapopan, y el Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor en la misma entidad y residencia, para conocer de juicios orales mercantiles y que abroga al diverso CCNO/3/2014, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el dieciséis de febrero de dos mil quince, por los señores Consejeros: Presidente Felipe Borrego Estrada, Alfonso Pérez Daza y Martha María del Carmen Hernández Álvarez.- México, Distrito Federal, a dieciséis de febrero de dos mil quince.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. DE 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 37/2017, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON RESIDENCIA EN ZAPOPAN, JALISCO; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL Y EL DIVERSO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de enero de dos mil dieciocho, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Se abroga el Acuerdo CCNO/5/2015 de la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, relativo a la competencia temporal y turno regulado de asuntos entre los Juzgados de Distrito en Materia Civil en el Estado de Jalisco, con sede en Zapopan, y el Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor en la misma entidad y residencia, para conocer de juicios orales mercantiles y que abroga al diverso CCNO/3/2014.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones. El órgano jurisdiccional deberá contar con una sala para la celebración de las audiencias orales, así como con un sistema informático y de videograbación para el registro de éstas por medios electrónicos que garanticen su fidelidad, integridad, preservación, la reproducción de su contenido y el acceso a quienes tuvieren derecho a ello.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción III, número 4, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a II. …
+
+III. …
+
+1. a 3. ...
+
+4. Dos Juzgados de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco.
+
+IV. a XXXII. …”
