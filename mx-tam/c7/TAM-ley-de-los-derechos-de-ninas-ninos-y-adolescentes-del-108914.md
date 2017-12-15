@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2017-03-21"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -559,11 +559,21 @@ IX. Establecer mecanismos que permitan la recopilación periódica y sistemátic
 
 2. Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto por la Ley General.
 
-3. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+3. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, y cuando identifiquen casos de asistencia irregular, abandono o deserción escolar en los centros educativos de nivel básico y medio superior, deberán notificar dicho caso a la Procuraduría de Protección correspondiente.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+4. Una vez efectuada dicha notificación será aplicable el procedimiento establecido en el artículo 86 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias, a fin de garantizar los derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+5. En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
 
 > <small>(ADICIONADO, P.O. 21 DE MARZO DE 2017)</small>
 
-4. Las autoridades escolares, en el ámbito de su competencia, deberán adoptar las medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes, procurando a su vez fomentar una cultura de respeto al medio ambiente, así como el uso responsable y seguro de las tecnologías de la información y comunicación.
+6. Las autoridades escolares, en el ámbito de su competencia, deberán adoptar las medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes, procurando a su vez fomentar una cultura de respeto al medio ambiente, así como el uso responsable y seguro de las tecnologías de la información y comunicación.
 
 ###### ARTÍCULO 38.
 
@@ -1430,6 +1440,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-116 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO 4 AL ARTÍCULO 37 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-317 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 37; Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO, RECORRIENDO EL ACTUAL CUARTO PARA SER SEXTO, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
