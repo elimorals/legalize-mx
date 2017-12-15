@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-forestal-115460"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-07-05"
-last_updated: "2016-07-05"
+last_updated: "2017-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115460&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-06-01"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2017.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 5 de julio de 2016.
 
@@ -797,6 +797,10 @@ La CONAFOR contará para el desempeño de sus funciones con los comités o subco
 
 Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la CONAFOR estarán a cargo del Servidor Público que designe, mediante la expedición del oficio correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
+
+Para el caso de que el Director General deje el cargo por cualquier causa, y hasta en tanto el Titular del Ejecutivo Federal designe otro, el despacho y resolución de los asuntos de la Dirección General estará a cargo del Director General Adjunto y, a falta de éste, del Coordinador General Jurídico.
+
 ###### ARTÍCULO 26.
 
 Los titulares de las unidades administrativas en sus ausencias temporales serán suplidos, indistintamente, por los Directores o Gerentes que de ellos dependan. Dicha suplencia se deberá realizar mediante la suscripción del oficio correspondiente, expedido por el titular de la unidad administrativa, o en su caso, por el Director General, en el que se señale quién será el suplente.
@@ -830,3 +834,13 @@ TERCERO.- Inscríbase en el Registro Público de Organismos Descentralizados.
 CUARTO.- La CONAFOR, dentro de un plazo de cuatro meses contados a partir de la entrada en vigor del presente Estatuto, deberá modificar su Manual de Organización y Funcionamiento.
 
 Zapopan, Jalisco a 1 de junio de 2016.- El Director General de la Comisión Nacional Forestal, Jorge Rescala Pérez.- Rúbrica.- El Titular de la Coordinación General Jurídica de la Comisión Nacional Forestal y Prosecretario Técnico de la Junta de Gobierno de la CONAFOR, Danthe Pérez Huerta.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DA A CONOCER LA MODIFICACIÓN AL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL FORESTAL PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL CINCO DE JULIO DE DOS MIL DIECISÉIS, PARA ADICIONAR UN SEGUNDO PÁRRAFO AL ARTÍCULO 25".]
+
+PRIMERO.- La presente modificación al Estatuto Orgánico de la Comisión Nacional Forestal, entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Inscríbase en el Registro Público de Organismos Descentralizados.
