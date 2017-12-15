@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg172-2016-del-consejo-general-del-instituto-117389
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-11-25"
-last_updated: "2016-11-25"
+last_updated: "2017-12-15"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117389&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-03-30"
 ---
 # ACUERDO INE/CG172/2016 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA VERIFICACION DE LOS PADRONES DE AFILIADOS DE LOS PARTIDOS POLITICOS NACIONALES PARA LA CONSERVACION DE SU REGISTRO Y, SU PUBLICIDAD, ASI COMO PARA EL EJERCICIO DE LOS DERECHOS DE ACCESO, RECTIFICACION, CANCELACION Y OPOSICION DE LOS DATOS PERSONALES EN POSESION DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL D.O.F DE 15 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 15 DE DICIEMBRE DE 2017, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA VERIFICACIÓN DE LOS PADRONES DE AFILIADOS DE LOS PARTIDOS POLÍTICOS NACIONALES PARA LA CONSERVACIÓN DE SU REGISTRO Y, SU PUBLICIDAD, ASÍ COMO PARA EL EJERCICIO DE LOS DERECHOS DE ACCESO, RECTIFICACIÓN, CANCELACIÓN Y OPOSICIÓN DE LOS DATOS PERSONALES EN POSESIÓN DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2017.
 
 Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 25 de noviembre de 2016.
 
@@ -33,7 +33,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUE
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDO
 
@@ -74,3 +74,35 @@ Los anexos pueden ser consultados en las siguientes direcciones electrónicas:
 http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/2016/03_Marzo/CGex201603-30_1a/CGex201603-30_ap_22_a1.pdf
 
 http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CGacuerdos/2016/03_Marzo/CGex201603-30_1a/CGex201603-30_ap_22_a2.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG557/2017 “DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el Reglamento del Instituto Nacional Electoral en Materia de Protección de Datos Personales, en los siguientes términos:
+
+REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES
+
+[…]
+
+## Transitorios
+
+Primero. Se abrogan los Principios, criterios, plazos y procedimientos para garantizar la protección de datos personales en posesión del Instituto Nacional Electoral, aprobado en sesión extraordinaria del Consejo General, celebrada el 4 de mayo de 2016, mediante Acuerdo INE/CG312/2016.
+
+Segundo. Se derogan los Lineamientos Décimo octavo, Décimo noveno, Vigésimo, Vigésimo primero, Vigésimo segundo y Vigésimo tercero de los Lineamientos para la Verificación de los padrones de afiliados de los Partidos Políticos Nacionales para la conservación de su registro y su publicidad, así como el ejercicio de los derechos de acceso, rectificación, cancelación y oposición de los datos personales en posesión del Instituto Nacional Electoral, aprobados mediante Acuerdo INE/CG172/2016.
+
+Se derogan los Lineamientos Décimo octavo, Décimo noveno, Vigésimo, Vigésimo primero, Vigésimo segundo, Vigésimo tercero, Vigésimo cuarto y Vigésimo Quinto de los Lineamientos para la Verificación de los padrones de afiliados de los partidos políticos para la conservación de su registro y su publicidad, así como criterios generales para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición de los datos personales en posesión de los sujetos obligados, aprobados mediante Acuerdo INE/CG851/2016.
+
+Tercero. Las referencias que se hagan en otras disposiciones internas del Instituto a la normatividad en materia de protección de datos se entenderán hechas al presente Reglamento.
+
+Cuarto. El Instituto deberá actualizar los Lineamientos, plazos, términos y condiciones a que se refiere el artículo 6 del presente Reglamento, dentro del plazo de noventa días hábiles contados a partir de la entrada en vigor de este ordenamiento, en la inteligencia de que deberá ajustarse al artículo séptimo transitorio de la Ley General.
+
+Quinto. El Comité deberá emitir el procedimiento a que se refiere el artículo 9 de este Reglamento, en un plazo no mayor a ciento veinte días hábiles posteriores a la entrada en vigor del presente instrumento. Las consultas que se reciban durante el periodo de elaboración del procedimiento, se atenderán por la Unidad de Transparencia en un plazo máximo de 15 días hábiles, el cual se podrá prorrogar hasta por un plazo igual, atendiendo a la complejidad del asunto que se requiera opinar.
+
+Sexto. Para el bloqueo y supresión de los datos personales, el Comité, a propuesta de la Unidad de Transparencia, deberá establecer los procedimientos y plazos a que se refiere el artículo 12 de este Reglamento, dentro de los ciento veinte días hábiles posteriores a la entrada en vigor del mismo, los cuales deberán ser publicados y difundidos en el portal de Internet del Instituto.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en la página de internet del INE.
