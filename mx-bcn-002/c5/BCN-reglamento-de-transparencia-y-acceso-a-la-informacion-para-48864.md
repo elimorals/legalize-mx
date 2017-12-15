@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-para-4886
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-27"
-last_updated: "2011-05-13"
+last_updated: "2017-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PARA EL GOBIERNO MUNICIPAL DE MEXICALI, BAJA CALIFORNIA
 
-REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PARA EL GOBIERNO MUNICIPAL DE MEXICALI, BAJA CALIFORNIA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA LOS SUJETOS OBLIGADOS DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 2011.
+REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PARA EL GOBIERNO MUNICIPAL DE MEXICALI, BAJA CALIFORNIA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de enero de 2006.
 
@@ -493,7 +495,7 @@ XV. Opinar sobre parámetros de medición de la gestión y el desempeño de la A
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
 
-XVI. Someter a consideración del Presidente Municipal, las normas generales de operación del Consejo, para su presentación a Cabildo; y (sic)
+XVI. Someter a consideración del Presidente Municipal, las normas generales de operación del Consejo, para su presentación a Cabildo; y
 
 XVII. Someter a consideración del Cabildo por conducto del Presidente Municipal, las normas generales de operación del Consejo; y
 
@@ -906,3 +908,27 @@ Artículo Primero.- Las presentes reformas entrarán en vigor al día siguiente 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Artículo Tercero.- Sindicatura Municipal, a la entrada en vigor de las presentes reformas, deberá abstenerse de conocer de los Recursos que se encuentren en trámite ante dicha Dependencia, hasta en tan (sic) quede debidamente integrado el Órgano Garante.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA LOS SUJETOS OBLIGADOS DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento de Transparencia y Acceso a la Información para el Gobierno Municipal de Mexicali, Baja California, publicado en el Periódico Oficial del Estado el 27 de enero de 2006.
+
+TERCERO.- Los procedimientos de acceso a la información que se encuentren en trámite a la entrada en vigor de este Reglamento, se sustanciarán conforme a la normatividad que se encontraba vigente en el momento de su inicio.
+
+CUARTO.- La instalación del Comité de Transparencia por primera ocasión, deberá realizarse dentro de los 10 días naturales siguientes a la publicación del presente Reglamento en el Periódico Oficial del Estado, los Comités que ya estuvieren conformados, y que no sean opuestos a lo que se señala en el presente Reglamento, solo deberán formalizar su establecimiento.
+
+QUINTO.- Los Sujetos Obligados deberán contemplar para los efectos del proyecto de Ley de Ingresos las cuotas o tarifas correspondientes por los servicios de la Unidad de Transparencia.
+
+SEXTO.- La Tesorería Municipal deberá realizar las adecuaciones pertinentes, para transferir los recursos presupuestales asignados a la Unidad Municipal de Acceso a la Información, dependiente de la Secretaría del Ayuntamiento, a favor del órgano desconcentrado de la Oficina de la Presidencia denominado Unidad Coordinadora de Transparencia.
+
+SÉPTIMO.- La Oficialía Mayor deberá llevar a cabo las acciones necesarias para adscribir al personal y recursos materiales asignados a la Unidad Municipal de Acceso a la Información, dependiente de la Secretaría del Ayuntamiento, a favor del órgano desconcentrado de la Oficina de la Presidencia denominado Unidad Coordinadora de Transparencia.
+
+OCTAVO.- Los Sujetos Obligados deberán expedir a más tardar dentro de los 30 días hábiles siguientes a la publicación del presente Reglamento los manuales para el cumplimiento de las obligaciones en materia de transparencia, mismos que formarán parte integral de este Reglamento, los cuales deberán estar armonizados a éste.
+
+NOVENO.- Hasta en tanto se publiquen los manuales para el cumplimiento de las obligaciones de transparencia, es obligación de cada Sujeto Obligado publicar la información de acuerdo a la tabla de aplicabilidad que le corresponda.
+
+DÉCIMO.- Los Sujetos Obligados deberán proceder a la verificación de sus respectivas tablas de aplicabilidad, dentro del término de 30 días naturales.
