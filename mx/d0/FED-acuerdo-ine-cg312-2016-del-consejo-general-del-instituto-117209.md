@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg312-2016-del-consejo-general-del-instituto-117209
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-11-15"
-last_updated: "2016-11-15"
+last_updated: "2017-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117209&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-05-04"
 ---
 # ACUERDO INE/CG312/2016 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECEN LOS PRINCIPIOS, CRITERIOS, PLAZOS Y PROCEDIMIENTOS PARA GARANTIZAR LA PROTECCION DE DATOS PERSONALES EN POSESION DEL INSTITUTO NACIONAL ELECTORAL Y PARTIDOS POLITICOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES, PUBLICADO EN EL D.O.F. DE 15 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ESTABLECEN LOS PRINCIPIOS CRITERIOS, PLAZOS Y PROCEDIMIENTOS PARA GARANTIZAR LA PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DEL INSTITUTO NACIONAL ELECTORAL Y PARTIDOS POLÍTICOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación al número 12, el martes 15 de noviembre de 2016.
 
@@ -872,3 +874,23 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, así como en la pá
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 4 de mayo de dos mil dieciséis, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez, Licenciado Javier Santiago Castillo y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL EN MATERIA DE PROTECCIÓN DE DATOS PERSONALES”.]
+
+Primero. Se abrogan los Principios, criterios, plazos y procedimientos para garantizar la protección de datos personales en posesión del Instituto Nacional Electoral, aprobado en sesión extraordinaria del Consejo General, celebrada el 4 de mayo de 2016, mediante Acuerdo INE/CG312/2016.
+
+Segundo. Se derogan los Lineamientos Décimo octavo, Décimo noveno, Vigésimo, Vigésimo primero, Vigésimo segundo y Vigésimo tercero de los Lineamientos para la Verificación de los padrones de afiliados de los Partidos Políticos Nacionales para la conservación de su registro y su publicidad, así como el ejercicio de los derechos de acceso, rectificación, cancelación y oposición de los datos personales en posesión del Instituto Nacional Electoral, aprobados mediante Acuerdo INE/CG172/2016.
+
+Se derogan los Lineamientos Décimo octavo, Décimo noveno, Vigésimo, Vigésimo primero, Vigésimo segundo, Vigésimo tercero, Vigésimo cuarto y Vigésimo Quinto de los Lineamientos para la Verificación de los padrones de afiliados de los partidos políticos para la conservación de su registro y su publicidad, así como criterios generales para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición de los datos personales en posesión de los sujetos obligados, aprobados mediante Acuerdo INE/CG851/2016.
+
+Tercero. Las referencias que se hagan en otras disposiciones internas del Instituto a la normatividad en materia de protección de datos se entenderán hechas al presente Reglamento.
+
+Cuarto. El Instituto deberá actualizar los Lineamientos, plazos, términos y condiciones a que se refiere el artículo 6 del presente Reglamento, dentro del plazo de noventa días hábiles contados a partir de la entrada en vigor de este ordenamiento, en la inteligencia de que deberá ajustarse al artículo séptimo transitorio de la Ley General.
+
+Quinto. El Comité deberá emitir el procedimiento a que se refiere el artículo 9 de este Reglamento, en un plazo no mayor a ciento veinte días hábiles posteriores a la entrada en vigor del presente instrumento. Las consultas que se reciban durante el periodo de elaboración del procedimiento, se atenderán por la Unidad de Transparencia en un plazo máximo de 15 días hábiles, el cual se podrá prorrogar hasta por un plazo igual, atendiendo a la complejidad del asunto que se requiera opinar.
+
+Sexto. Para el bloqueo y supresión de los datos personales, el Comité, a propuesta de la Unidad de Transparencia, deberá establecer los procedimientos y plazos a que se refiere el artículo 12 de este Reglamento, dentro de los ciento veinte días hábiles posteriores a la entrada en vigor del mismo, los cuales deberán ser publicados y difundidos en el portal de Internet del Instituto.
