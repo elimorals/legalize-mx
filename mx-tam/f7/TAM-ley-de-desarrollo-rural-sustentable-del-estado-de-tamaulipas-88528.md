@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-rural-sustentable-del-estado-de-tamaulipas-88
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2017-12-01"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -759,7 +759,9 @@ X. Educación para la democratización familiar;
 
 XI. Diseño de proyectos de arraigo para los jóvenes, con el objeto de garantizar el relevo generacional y su permanencia en el sector rural;
 
-XII. Diseño de programas para la protección de los grupos vulnerables, en especial niños discapacitados, personas con enfermedades terminales y de la tercera edad;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+XII. Diseño de programas para la protección de los grupos vulnerables, en especial niñas, niños y adolescentes con discapacidad, personas con enfermedades terminales y de la tercera edad;
 
 XIII. Impulso a la promoción de valores y la cultura de la legalidad;
 
@@ -1575,7 +1577,7 @@ Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Ta
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 17 DE DICIEMBRE DE 2015.
 
@@ -1602,6 +1604,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 1 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-279 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1 FRACCIONES XIV Y XV; 10 FRACCIÓN V Y 41 FRACCIÓN XI; Y SE ADICIONAN LA FRACCIÓN XVI AL ARTÍCULO 1; ASÍ COMO LA FRACCIÓN XXV RECORRIÉNDOSE LAS ACTUALES XXV A LA XXX PARA SER XXVI A LA XXXI DEL ARTÍCULO 4, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 ###### ARTÍCULO ÚNICO.
 
