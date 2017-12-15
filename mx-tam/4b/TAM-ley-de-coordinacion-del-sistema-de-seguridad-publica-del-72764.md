@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-del-sistema-de-seguridad-publica-del-72764"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-16"
-last_updated: "2017-06-08"
+last_updated: "2017-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 16 de junio de 2009.
 
@@ -1687,7 +1687,9 @@ Las instituciones de seguridad pública conformarán la Red Estatal de Telecomun
 
 La Red Estatal integrará y administrará los siguientes servicios:
 
-I. Telefónico de Emergencia 066;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+I. Telefónico de Emergencia 911;
 
 II. Denuncia Anónima 089;
 
@@ -1705,9 +1707,11 @@ Con el objeto de garantizar la coordinación inmediata, segura y eficaz entre la
 
 ### CAPITULO IV. DEL SERVICIO DE ATENCION A LA POBLACION
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 118.
 
-Las instituciones de seguridad pública, establecerán un servicio de comunicación telefónica bajo el indicativo nacional 066, que recibirá los reportes de la comunidad sobre emergencias, faltas, delitos y todo tipo de eventos que pudieran afectar la integridad y los derechos de las personas, así como la tranquilidad, la paz y el orden públicos.
+Las instituciones de seguridad pública, establecerán un servicio de comunicación telefónica bajo el indicativo nacional 911, que recibirá los reportes de la comunidad sobre emergencias, faltas, delitos y todo tipo de eventos que pudieran afectar la integridad y los derechos de las personas, así como la tranquilidad, la paz y el orden públicos.
 
 Asimismo, instituirán un servicio de denuncia anónima bajo el indicativo telefónico 089, que recibirá datos relativos a la comisión de conductas antisociales y a la identificación de los presuntos responsables, garantizando la confidencialidad de los usuarios o informantes.
 
@@ -2048,3 +2052,15 @@ P.O. 8 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-342 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 116 FRACCIÓN I Y 118 PÁRRAFO PRIMERO DE LA LEY DE COORDINACIÓN DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
