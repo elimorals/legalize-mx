@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2017-12-01"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -87,9 +87,9 @@ IV.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
 
 V.- Mujeres en períodos de gestación o lactancia; maltratadas y/o víctimas de violencia intrafamiliar;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-VI.- Adultos mayores en desamparo, discapacitados, marginación o sujetos a maltrato;
+VI.- Adultos mayores en desamparo, personas con discapacidad, marginación o sujetos a maltrato;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -209,9 +209,9 @@ I.- Promover el desarrollo integral de la familia, procurando que sus miembros s
 
 II.- Atender a personas que, por sus carencias socioeconómicas, por discapacidad se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-III.- La atención en establecimientos especializados a menores, adolescentes, mujeres, adultos mayores, discapacitados en estado de abandono, desamparo o víctimas de violencia intrafamiliar;
+III.- La atención en establecimientos especializados a menores, adolescentes, mujeres, adultos mayores, personas con discapacidad en estado de abandono, desamparo o víctimas de violencia intrafamiliar;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -253,9 +253,9 @@ XII.- El apoyo a la educación y capacitación para el trabajo de personas con c
 
 XIII.- Prestar servicios funerarios especialmente a los sujetos mencionados en el artículo 5º de esta ley;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-XIV.- Prevenir y rehabilitar a los discapacitados que carezcan de los recursos materiales para atenderse en los centros especializados;
+XIV.- Prevenir y rehabilitar a las personas con discapacidad que carezcan de los recursos materiales para atenderse en los centros especializados;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -375,9 +375,9 @@ VII.- Establecer y dar seguimiento a los programas tendientes a prevenir y atend
 
 VIII.- Brindar atención terapéutica, psicológica a los menores u otros incapaces sujetos a violencia intrafamiliar, así como a los abandonados y, en general, a quienes requieran de este apoyo, incluyendo, en su caso, a los sujetos generadores de violencia intrafamiliar, en los términos y condiciones que dictaminen el propio Organismo u ordene la autoridad judicial competente;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-IX.- Operar establecimientos de asistencia social en beneficio de la mujer y de menores en estado de abandono y de maltrato, adultos mayores en riesgo o desamparo, enfermos mentales de farmacodependientes y de discapacitados sin recursos;
+IX.- Operar establecimientos de asistencia social en beneficio de la mujer y de menores en estado de abandono y de maltrato, adultos mayores en riesgo o desamparo, enfermos mentales de farmacodependientes y de personas con discapacidad sin recursos;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -415,9 +415,9 @@ XVII.- Realizar y promover la capacitación de recursos humanos para la asistenc
 
 XVIII.- Operar el Sistema Estatal de Información Básica en Materia de Asistencia Social a que se refiere la fracción XIX del artículo 14 de esta ley;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-XIX.- Prestar servicios de asistencia jurídica, psicológica y de orientación a menores, adolescentes, mujeres, adultos mayores, discapacitados y sujetos víctima de violencia intrafamiliar;
+XIX.- Prestar servicios de asistencia jurídica, psicológica y de orientación a menores, adolescentes, mujeres, adultos mayores, personas con discapacidad y sujetos víctima de violencia intrafamiliar;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -435,9 +435,9 @@ XXII.- Realizar investigaciones en materia de discapacidad;
 
 XXIII.- Participar en programas de rehabilitación y educación especial;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-XXIV.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de los discapacitados;
+XXIV.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de las personas con discapacidad;
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -950,6 +950,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 1 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-267 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS; Y DE LA LEY SOBRE EL SISTEMA DE ASISTENCIA SOCIAL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 ###### ARTÍCULO ÚNICO.
 
