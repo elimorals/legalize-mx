@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-36854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2016-06-17"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-01-27"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 15 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en el Número Ter de la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -121,6 +121,14 @@ XXII. Protección civil, las medidas para salvaguardar la vida, bienes y entorno
 > <small>(ADICIONADA, G.O. 17 DE JUNIO DE 2016)</small>
 
 XXIII. Dictamen de Factibilidad de Instalación de Aparato Medidor, a la opinión técnica vinculante y obligatoria que emite el Sistema de Aguas de la Ciudad de México relativa a la posibilidad física de instalar aparatos medidores de volúmenes de agua en la toma y ramificaciones.
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+XXIV. Evaluación de la seguridad estructural, al proceso de identificación de daños, jerarquización del nivel de vulnerabilidad de elementos estructurales y no estructurales y de determinación del nivel de seguridad de la edificación completa;
+
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+XXV. Rehabilitación, al proceso de intervención estructural para recuperar las condiciones originales (reparación) o para mejorar el comportamiento de elementos y sistemas estructurales para que la edificación cumpla con los requisitos de seguridad contra colapso y de limitación de daños en el Reglamento; incluye la recimentación, reforzamiento, reparación y rigidización.
 
 ###### ARTÍCULO 3.
 
@@ -618,15 +626,33 @@ XIV. Las demás que establezcan las disposiciones legales y administrativas apli
 
 Corresponsable es la persona física auxiliar de la Administración, con autorización y registro de la Secretaría de Desarrollo Urbano y Vivienda, con conocimientos técnicos relativos a la seguridad estructural, al diseño urbano y arquitectónico e instalaciones, quien responderá en forma conjunta con el Director Responsable de Obra, o autónoma en los casos en que otorgue su responsiva, en todos los aspectos técnicos relacionados al ámbito de su intervención profesional, y deberá cumplir con lo establecido en la Ley, en este Reglamento y en las demás disposiciones aplicables, correspondiendo a la Secretaría de Desarrollo Urbano y Vivienda otorgar su autorización y registro.
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
-Tratándose de Corresponsables en Seguridad Estructural, corresponderá al Instituto otorgar la autorización y registro.
+Tratándose de Corresponsables en Seguridad Estructural, corresponderá al Instituto otorgar la autorización, el registro y el nivel al que pertenece, según los requisitos y proceso establecidos en las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones (NTC-RSEE).
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Los Corresponsables en Seguridad Estructural se clasificarán en los dos niveles siguientes:
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Nivel 1, son aquellos Corresponsables con al menos 5 años de experiencia acreditada en diseño estructural y que aprueben el examen para Nivel 1.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Nivel 2, son los Corresponsables con al menos 15 años de experiencia acreditada en diseño estructural y que aprueben los exámenes para Nivel 2.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Las obligaciones y responsabilidades de los Corresponsables en Seguridad Estructural serán las indicadas en el artículo 39 y en las NTC-RSEE.
 
 Se requiere responsiva de los Corresponsables para obtener el registro de manifestación de construcción o la licencia de construcción especial a que se refieren los artículos 53 y 58 de este Reglamento, en los siguientes casos:
 
 I. Corresponsable en Seguridad Estructural, para:
 
-a) Las obras de los grupos A y B1 del artículo 139 de este Reglamento, y
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+a) Para los casos especificados en las NTC-RSEE.
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -700,7 +726,9 @@ b) Suscriba los planos del proyecto estructural, la memoria de diseño de la cim
 
 c) Suscriba los procedimientos de construcción de las obras y los resultados de las pruebas de control de calidad de los materiales empleados;
 
-d) Suscriba un dictamen técnico de estabilidad o de seguridad estructural de una edificación o instalación, o
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+d) Suscriba un dictamen técnico de estabilidad y de seguridad estructural de una edificación o instalación; o
 
 e) Suscriba una constancia de seguridad estructural.
 
@@ -724,17 +752,53 @@ Para el ejercicio de su función, los Corresponsables tienen las siguientes obli
 
 I. El Corresponsable en Seguridad Estructural:
 
-a) Suscribir, conjuntamente con el Director Responsable de Obra, la manifestación de construcción o la solicitud de licencia de construcción especial cuando se trate de obras clasificadas como grupos A y B1, previstas en el artículo 139 de este Reglamento;
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
-b) Verificar que en el proyecto de la cimentación y de la superestructura, se hayan realizado los estudios del suelo y de las construcciones colindantes, con objeto de constatar que el proyecto cumple con las características de seguridad necesarias, establecidas en el Título Sexto de este Reglamento;
+a) Cumplir con los requisitos establecidos en las Normas Técnicas Complementarias para la revisión de la Seguridad Estructural de las Edificaciones (NTC-RSEE).
 
-c) Verificar que el proyecto cumpla con las características generales para seguridad estructural establecidas en el Capítulo II del Título Sexto de este Reglamento;
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
-d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto estructural, y que tanto los procedimientos como los materiales empleados, correspondan a lo especificado y a las normas de calidad del proyecto. Tendrá especial cuidado en que la construcción de las instalaciones no afecten los elementos estructurales en forma diferente a lo dispuesto en el proyecto;
+b) Suscribir, conjuntamente con el Director Responsable de Obra, la manifestación de construcción o la solicitud de licencia de construcción especial para los casos especificados en las NTC-RSEE.
 
-e) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra que pueda afectar la seguridad estructural de la misma, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación, deberá comunicarlo a la Delegación correspondiente y a la Comisión, y
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
-f) Responder de cualquier violación a las disposiciones de este Reglamento relativas a su especialidad.
+c) Verificar que los proyectos cumplan con las características generales para seguridad estructural establecidas en el Capítulo II del Título Sexto de este Reglamento y entregar los informes de revisión al Instituto, de conformidad con lo establecido en las NTC-RSEE;
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+d) Avalar el proyecto estructural de la edificación en conjunto con los Especialistas Auxiliares, en su caso. En ningún caso el Corresponsable de un edificio podrá ser el Proyectista del mismo;
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+e) Firmar la Constancia de Cumplimiento de la Revisión emitida por el Instituto;
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+f) Vigilar y verificar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto estructural sin afectar las estructuras colindantes, y que, tanto los procedimientos como los materiales empleados, correspondan a lo especificado y a las normas de calidad del proyecto. Tendrá especial cuidado en:
+
+i. Revisar que la construcción de las instalaciones no afecte los elementos estructurales en forma diferente a lo dispuesto en el proyecto;
+
+ii. Recopilar la información existente en obra (bitácora, obras inducidas, etc.);
+
+iii. Revisar los resultados o informes de la calidad de los materiales empleados en la obra; y
+
+iv. Inspeccionar las estructuras colindantes durante el proceso de construcción.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+g) Notificar al Director Responsable de Obra cualquier irregularidad en el ámbito de su competencia, durante el proceso de la obra que pueda afectar la seguridad estructural de la misma, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación, deberá comunicarlo a la Delegación correspondiente y a la Comisión;
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+h) Elaborar los Dictámenes técnicos de estabilidad y de seguridad estructural de una edificación o instalación y las Constancias de seguridad estructural cumpliendo con los alcances y requisitos establecidos en las NTC-RSEE;
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+i) Participar en acciones de la Administración para la atención de emergencias mayores; como la revisión de seguridad estructural y la rehabilitación sísmica de edificios; y
+
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+j) Responder de cualquier violación a las disposiciones de este Reglamento relativas a sus obligaciones.
 
 II. Del Corresponsable en Diseño Urbano y Arquitectónico:
 
@@ -750,7 +814,9 @@ c) Verificar que el proyecto cumpla con las disposiciones relativas a los Progra
 
 d) Vigilar que la construcción, durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos como los materiales empleados, correspondan a lo especificado y a las Normas de Calidad del proyecto;
 
-e) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarlo a la Delegación correspondiente y a la Comisión, y
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+e) Notificar al Director Responsable de Obra cualquier irregularidad en el ámbito de su competencia, durante el proceso de la obra, que pueda afectar la ejecución del proyecto, asentándose en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarlo a la Delegación correspondiente y a la Comisión, y
 
 f) Responder de cualquier violación a las disposiciones de este Reglamento relativas a su especialidad.
 
@@ -764,7 +830,9 @@ b) Revisar el proyecto en los aspectos correspondientes a su especialidad, verif
 
 c) Vigilar que la construcción durante el proceso de la obra, se apegue estrictamente al proyecto correspondiente a su especialidad y que tanto los procedimientos como los materiales empleados correspondan a lo especificado y a las Normas de Calidad del proyecto;
 
-d) Notificar al Director Responsable de Obra cualquier irregularidad durante el proceso de la obra, que pueda afectarla, asentándolo en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarla a la Delegación correspondiente y a la Comisión, y
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+d) Notificar al Director Responsable de Obra cualquier irregularidad en el ámbito de su competencia, durante el proceso de la obra, que pueda afectarla, asentándolo en el libro de bitácora. En caso de no ser atendida esta notificación deberá comunicarla a la Delegación correspondiente y a la Comisión, y
 
 e) Responder de cualquier violación a las disposiciones de este Reglamento, relativas a su especialidad.
 
@@ -1192,9 +1260,9 @@ Los planos anteriores deberán incluir el proyecto de protección a colindancias
 
 f) Estudio de mecánica de suelos del predio de acuerdo con los alcances y lo establecido en las Normas Técnicas Complementarias para Diseño y Construcción de Cimentaciones de este Reglamento, incluyendo los procedimientos constructivos de la excavación, muros de contención y cimentación, así como las recomendaciones de protección a colindancias. El estudio debe estar firmado por el especialista indicando su número de cédula profesional, así como por el Director Responsable de Obra y por el Corresponsable en Seguridad Estructural, en su caso;
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
-g) Acuse de ingreso de la orden de revisión del proyecto estructural emitido por el Instituto para el caso de las edificaciones que pertenezcan al grupo A o subgrupo B1, según el artículo 139 de este Reglamento, o para las edificaciones del subgrupo B2 que el Instituto así lo solicite;
+g) Constancia del registro de la Revisión del proyecto estructural emitida por el Instituto, de conformidad con las Normas Técnicas Complementarias para la revisión de la Seguridad Estructural de las Edificaciones (NTC-RSEE), cuando se requiera.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1207,6 +1275,10 @@ i) Responsiva del Director Responsable de Obra del proyecto de la obra, así com
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 j) Póliza vigente del seguro de responsabilidad civil por daños a terceros en las obras clasificadas en el grupo A y subgrupo B1, según el artículo 139 de este Reglamento, por un monto asegurado no menor del 10% del costo total de la obra construida por el tiempo de vigencia de la Manifestación de Construcción.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+k) Aviso ante el Instituto, cuando se trate de trabajos para la rehabilitación sísmica de edificios dañados.
 
 > <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1360,7 +1432,9 @@ Deberán indicarse, asimismo, los procedimientos de apuntalamiento, erección de
 
 En los planos de fabricación y en los de montaje de estructuras de acero o de concreto prefabricado, se proporcionará la información necesaria para que la estructura se fabrique y monte de manera que se cumplan los requisitos indicados en los planos estructurales.
 
-Los planos estructurales deben acompañarse de la memoria de cálculo en la cual se describirán con el nivel de detalle suficiente para que puedan ser evaluados por un especialista externo al proyecto, debiéndose respetar los contenidos señalados en lo dispuesto en la memoria estructural consignada en el artículo 53 fracción I, inciso e) de este Reglamento.
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Los planos y la memoria de cálculo deben presentarse con el nivel de detalle suficiente para que puedan ser revisados de conformidad con los requisitos, alcances y procedimientos establecidos en las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones. Se deben (sic) respetar lo dispuesto en la memoria estructural consignada en el artículo 53 fracción I, inciso e) de este Reglamento.
 
 De los dos tantos de planos, uno quedará en poder de la Administración y el otro en poder del propietario o poseedor, quien entregará una copia de los mismos para su uso en la obra.
 
@@ -1370,9 +1444,9 @@ Los planos anteriores, deberán incluir el proyecto de protección a colindancia
 
 h) Estudio de mecánica de suelos del predio de acuerdo con los alcances y lo establecido en las Normas Técnicas Complementarias para Diseño y Construcción de Cimentaciones de este Reglamento, incluyendo los procedimientos constructivos de la excavación, muros de contención y cimentación, así como las recomendaciones de protección a colindancias. El estudio debe estar firmado por el especialista indicando su número de cédula profesional, así como por el Director Responsable de Obra y por el Corresponsable en Seguridad Estructural, en su caso;
 
-> <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
-i) Acuse de ingreso de la orden de revisión del proyecto estructural emitido por el Instituto para el caso de las edificaciones que pertenezcan al Grupo A y Subgrupo B1 según el artículo 139 de este Reglamento, o para las edificaciones del Subgrupo B2 que el Instituto así lo solicite;
+i) Constancia del registro de la Revisión del proyecto estructural emitida por el Instituto de conformidad con las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones.
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1394,7 +1468,9 @@ m) Póliza vigente del seguro de responsabilidad civil por daños a terceros en 
 
 n) Dictamen técnico favorable de la Secretaría de Desarrollo Urbano y Vivienda cuando se trate de Áreas de Conservación Patrimonial y/o inmuebles afectos al patrimonio cultural urbano o sus colindantes; y/o visto bueno del Instituto Nacional de Bellas Artes y/o la licencia del Instituto Nacional de Antropología e Historia para el caso de un monumento histórico, artístico o arqueológico, según sea su ámbito de competencia de acuerdo con lo establecido en la Ley Federal en la materia;
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+o) Aviso ante el Instituto, cuando se trate de trabajos para la rehabilitación sísmica de edificios dañados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -1671,6 +1747,10 @@ En el caso de la manifestación de construcción tipo A y la licencia de constru
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
 Para las manifestaciones de construcción tipo B y C, así como en los casos señalados en el artículo 57, fracción I de este Reglamento, la Administración otorgará la autorización de uso y ocupación cuando la construcción se haya apegado a lo manifestado o autorizado, cumpliendo con los requerimientos de habitabilidad y seguridad establecidos en este Reglamento.
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Adicionalmente, para las edificaciones que pertenezcan al grupo A o subgrupo B1 o subgrupo B2 inciso a), según el artículo 139 de este Reglamento, se deberá presentar la Constancia de Cumplimiento de la Revisión firmada por el Corresponsable y emitida por el Instituto.
 
 > <small>(REFORMADO, G.O. 17 DE JUNIO DE 2016)</small>
 
@@ -2290,6 +2370,22 @@ b) Una afectación a la población particularmente vulnerable, como: escuelas de
 
 c) La pérdida de material de gran valor histórico o cultural: museos, monumentos y estructuras que contengan archivos jurídicos o registros públicos.
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Para fines de aplicación de las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones, las construcciones del Grupo A se subdividen en:
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Caso 1: Edificaciones con altura de entre 30 y 70 m o con área total construida de entre 6,000 y 15,000 m2, ubicadas en las zonas I y II a que se aluden en el artículo 170 de este Reglamento;
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Caso 2: Construcciones con más de 70 m de altura o con más de 15,000 m2 de área total construida, ubicadas en las zonas I y II; y
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Caso 3: Edificaciones de más de 15 m de altura o más de 3,000 m2 de área total construida, en la zona III; en ambos casos las áreas se refieren a cada cuerpo de edificio que cuente con medios propios de desalojo e incluyen las áreas de anexos. El área de un cuerpo que no cuente con medios propios de desalojo se adicionará a la de aquel otro a través del cual se desaloje.
+
 II. Grupo B: Edificaciones comunes destinadas a viviendas, oficinas y locales comerciales, hoteles y construcciones comerciales e industriales no incluidas en el Grupo A, las que se subdividen en:
 
 > <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
@@ -2306,9 +2402,37 @@ b) Edificaciones anexas a los hospitales, aeropuertos o terminales de transporte
 
 c) (DEROGADO, G.O. 17 DE JUNIO DE 2016)
 
-> <small>(ADICIONADO, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
-Subgrupo B2: Las demás de este grupo.
+Caso 4: Edificaciones con altura de entre 30 y 70 m o con área total construida de entre 6,000 y 15,000 m2, ubicadas en las zonas I y II a que se aluden en el artículo 170 de este Reglamento;
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Caso 5: Construcciones con más de 70 m de altura o con más de 15,000 m2 de área total construida, ubicadas en las zonas I y II;
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Caso 6: Edificaciones de más de 15 m de altura o más de 3,000 m2 de área total construida, en la zona III; en ambos casos las áreas se refieren a cada cuerpo de edificio que cuente con medios propios de desalojo e incluyen las áreas de anexos. El área de un cuerpo que no cuente con medios propios de desalojo se adicionará a la de aquel otro a través del cual se desaloje;
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Caso 7: Construcciones anexas a los hospitales, aeropuertos o terminales de transporte, como estacionamientos, restaurantes, así como edificios destinados a educación media superior y superior.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Subgrupo B2:
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Caso 8: Edificaciones con una altura de entre 15 y 30 m o con un área total construida entre 3,000 y 6,000 m2, ubicadas en las zonas I y II a que se aluden en el artículo 170 de este Reglamento;
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Caso 9: Construcciones con una altura de entre 10 m y 15 m o con un área total construida entre 1,500 y 3,000 m2, en la zona III; en ambos casos las áreas se refieren a cada cuerpo de edificio que cuente con medios propios de desalojo e incluyen las áreas de anexos. El área de un cuerpo que no cuente con medios propios de desalojo se adicionará a la de aquel otro a través del cual se desaloje; y
+
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Caso 10: Las demás de este grupo.
 
 ### CAPÍTULO II. DE LAS CARACTERÍSTICAS GENERALES DE LAS EDIFICACIONES
 
@@ -2492,6 +2616,10 @@ En las Normas se establecen las bases y requisitos generales mínimos de diseño
 
 Las estructuras se analizarán bajo la acción de dos componentes horizontales ortogonales no simultáneos del movimiento del terreno. En el caso de estructuras que no cumplan con las condiciones de regularidad, deben analizarse mediante modelos tridimensionales, como lo especifican las Normas.
 
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Adicionalmente, todas las estructuras pertenecientes al Grupo A Caso 3 y al Subgrupo B1 Caso 6 deberán instrumentarse mediante la instalación de acelerógrafos cuyos registros deberán ser enviados al Instituto después de un sismo con magnitud mayor a 6 grados en la escala de Richter.
+
 ###### ARTÍCULO 166.
 
 Toda edificación debe separarse de sus linderos con los predios vecinos o entre cuerpos en el mismo predio según se indica en las Normas.
@@ -2626,6 +2754,10 @@ Los propietarios o poseedores de las edificaciones que presenten daños deberán
 
 En caso de que los daños en la edificación hayan sido generados por la construcción de una obra colindante y así lo indique el dictamen técnico de estabilidad o de seguridad estructural, el propietario o poseedor o constructor de la obra colindante estará obligado a reparar los daños.
 
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2017)</small>
+
+En el caso de daños provocados por sismo, deberán considerarse las Normas para la rehabilitación sísmica correspondientes.
+
 ###### ARTÍCULO 180.
 
 El proyecto de refuerzo estructural y las renovaciones de las instalaciones de una edificación, a que se refiere el artículo anterior, debe cumplir con lo siguiente:
@@ -2640,9 +2772,9 @@ IV. Basarse en el diagnóstico del estado de la estructura y las instalaciones d
 
 V. Incluir una revisión detallada de la cimentación y de las instalaciones ante las condiciones que resulten de las modificaciones a la estructura, y
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2017)</small>
 
-VI. Someterse al proceso de revisión que establezca el Instituto para el registro de manifestación de construcción o la expedición de la licencia de construcción especial respectiva.
+VI. Someterse al proceso de revisión que establezca el Instituto, dando aviso al mismo previo el registro de manifestación de construcción o la expedición de la licencia de construcción especial respectiva.
 
 ###### ARTÍCULO 181.
 
@@ -3611,3 +3743,15 @@ Los asuntos que se encuentren en trámite al momento del presente Decreto contin
 ###### ARTÍCULO QUINTO.
 
 La Secretaría de Obras y Servicios expedirá las Normas Técnicas Complementarias a que hace referencia este Reglamento dentro de los 120 días hábiles siguientes a la fecha de su publicación. En tanto se expiden dichas Normas, se seguirán aplicando las Normas Técnicas Complementarias vigentes al momento de (sic) publicación del presente Decreto.
+
+G.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONSTRUCCIONES DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
+
+TERCERO.- Continúan en suspensión, derivado del Acuerdo por el que se integra e instala la Comisión para el estudio y propuestas de reformas al Reglamento de Construcciones para el Distrito Federal, publicado 10 de noviembre 2016, la fracción XV del artículo 2, las fracciones XII y XIII del artículo 35, la fracción V del artículo 39, la fracción I del artículo 40, los artículos 42 y 46 Bis, el inciso j) del artículo 53, los incisos l) y m) del artículo 58, la fracción VI del artículo 82,y los artículos 82 Bis y 124.
+
+CUARTO.- Los Corresponsables en Seguridad Estructural con registro vigente a la fecha de la publicación de las Normas Técnicas Complementarias para la Revisión de la Seguridad Estructural de las Edificaciones serán considerados del Nivel 1 para los efectos de la observancia de las mismas.
