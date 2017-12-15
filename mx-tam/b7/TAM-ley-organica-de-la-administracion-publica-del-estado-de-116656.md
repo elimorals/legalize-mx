@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2017-06-08"
+last_updated: "2017-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -595,7 +595,7 @@ X. Fijar e imponer, de acuerdo a las leyes y reglamentos, el tipo y monto de las
 
 XI. Formular, promover y conducir las estrategias, objetivos y normas en materia de turismo de naturaleza y turismo cinegético, en coordinación con las Secretarías de Pesca y Acuacultura, y Desarrollo Urbano y Medio Ambiente con objeto de lograr el uso óptimo de los recursos, manteniéndose los procesos ambientales esenciales e impulsándose la conservación de los recursos naturales y la diversidad biológica;
 
-XII. Coordinar administrativamente las actividades de la entidad denominada Zoológico, Parque Recreativo y de Investigación Tamatán, así como las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia; y
+XII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2017)
 
 XIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
@@ -981,7 +981,9 @@ LII. Vigilar y opinar previamente a la modificación o demolición de inmuebles 
 
 LIII. Elaborar y mantener actualizado el inventario del patrimonio histórico-cultural, y promover la conservación del entorno urbano original de las poblaciones del Estado;
 
-LIV. Coordinar administrativamente las actividades de la Comisión Estatal de Áreas Naturales Protegidas; la Comisión Estatal para la Conservación y Aprovechamiento Económico de la Vida Silvestre; el Instituto Tamaulipeco de Vivienda y Urbanismo; la Comisión Estatal del Agua de Tamaulipas; las Comisiones Municipales de Agua Potable y Alcantarillado que se encuentren a cargo del Estado en tanto organismos descentralizados, así como de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+LIV. Coordinar administrativamente las actividades de la Comisión Estatal de Áreas Naturales Protegidas; la Comisión de Parques y Biodiversidad de Tamaulipas; la Comisión de Caza y Pesca Deportiva de Tamaulipas; el Instituto Tamaulipeco de Vivienda y Urbanismo; la Comisión Estatal de Agua de Tamaulipas; las Comisiones Municipales de Agua Potable y Alcantarillado que se encuentren a cargo del Estado en tanto organismos descentralizados, así como de las otras entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
 
 LV. El desarrollo urbano con criterios uniformes respecto de la planeación, control y crecimiento con calidad de las ciudades y zonas metropolitanas del Estado, además de los centros de población en general, así como su respectiva infraestructura de comunicaciones y de servicios;
 
@@ -1005,9 +1007,19 @@ LXIV. Planear, proponer y elaborar programas urbanos para el fortalecimiento de 
 
 LXV. Diseñar modelos de planeación urbana logística metropolitana;
 
-LXVI. Convenir en materia de Desarrollo urbano con los municipios involucrados y en su caso con las dependencias federales, lo referente a la red vial, cuando ésta sea de carácter estatal, intermunicipal e incida en zona conurbada; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-LXVII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+LXVI. Convenir en materia de Desarrollo urbano con los municipios involucrados y en su caso con las dependencias federales, lo referente a la red vial, cuando ésta sea de carácter estatal, intermunicipal e incida en zona conurbada;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+LXVII. Formular, coordinar, promover y ejecutar, por conducto de la Comisión de Caza y Pesca Deportiva de Tamaulipas, el aprovechamiento de la vida silvestre, en coordinación con las dependencias correspondientes;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+LXVIII. Formular, coordinar, promover y ejecutar, por conducto de la Comisión de Parques y Biodiversidad de Tamaulipas, la conservación de la flora y fauna, en coordinación con las dependencias correspondientes; y
+
+LXIX. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección XIV. Secretaría de Obras Públicas
 
@@ -1580,6 +1592,18 @@ Se instruye a la Contraloría Gubernamental, a la Secretaría de Finanzas, a la 
 ###### ARTÍCULO CUARTO.
 
 La Contraloría Gubernamental, dentro de un plazo de 180 días naturales contados a partir del día siguiente de su publicación, deberá emitir las normas relativas a sus atribuciones, así como el Código de Ética de los Servidores Públicos del Gobierno Estatal.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIII-343 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES LIV Y LXVI, Y SE ADICIONAN LAS FRACCIONES LXVII Y LXVIII, RECORRIÉNDOSE LA ACTUAL LXVII PARA SER LXIX DEL ARTÍCULO 36; Y SE DEROGA LA FRACCIÓN XII DEL ARTÍCULO 29 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
