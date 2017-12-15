@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-promocion-a-la-lectura-y-creacion-de-libros-para-el-9570
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-27"
-last_updated: "2015-05-26"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROMOCIÓN A LA LECTURA Y CREACIÓN DE LIBROS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de agosto de 2013.
 
@@ -251,7 +251,9 @@ VII. Fomentar la cultura de respeto a los derechos de autor;
 
 VIII. Proponer la realización de estudios e investigaciones que permitan apoyar el desarrollo de sus actividades;
 
-IX. Promover acciones que favorezcan al acceso de los discapacitados a las bibliotecas; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+IX. Promover acciones que favorezcan al acceso de las personas con discapacidad a las bibliotecas; y
 
 X. Promover la formación y actualización de profesionales en el fomento y promoción a la Lectura.
 
@@ -494,6 +496,14 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL D
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE MAYO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LXIII-366 POR EL QUE "SE REFORMA LA FRACCIÓN IX, DEL ARTÍCULO 15, DE LA LEY DE PROMOCIÓN A LA LECTURA Y CREACIÓN DE LIBROS PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
