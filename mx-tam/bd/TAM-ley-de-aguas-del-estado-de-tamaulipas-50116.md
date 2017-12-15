@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2016-12-21"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -2297,17 +2299,15 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 ###### Artículo 141.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 1. Los precios y tarifas deberán ser suficientes para cubrir los costos de operación, administración y conservación de infraestructura; pago de pasivos; pago de servicios ambientales, y constitución de un fondo de reservas para sustituir, ampliar, rehabilitar y mejorar la infraestructura hidráulica sanitaria y demás activos del prestador de los servicios públicos; así como la conservación y vigilancia de la cuenca y todos los elementos del ciclo hidrológico.
 
 2. Todos los usuarios, tanto del sector público, social y privado, están obligados al pago de los servicios públicos conforme a los precios y tarifas que se establezcan y actualicen en los términos de esta ley por el prestador de dichos servicios.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-3. Se otorgarán bonificaciones del 50% en el pago de las contribuciones por esos servicios, a jubilados, pensionados, adultos mayores de 60 años y discapacitados hasta un consumo máximo de 20 metros cúbicos, cuando se trate del domicilio donde vivan y el servicio esté registrado a su nombre, previa comprobación de dicha circunstancia. Cuando el consumo sea mayor a los 20 metros cúbicos, el usuario deberá pagar el excedente conforme al costo del rango de consumo que corresponde a cada caso específico, sin demérito de la bonificación previamente establecida.
+3. Se otorgarán bonificaciones del 50% en el pago de las contribuciones por esos servicios, a jubilados, pensionados, adultos mayores de 60 años y personas con discapacidad hasta un consumo máximo de 20 metros cúbicos, cuando se trate del domicilio donde vivan y el servicio esté registrado a su nombre, previa comprobación de dicha circunstancia. Cuando el consumo sea mayor a los 20 metros cúbicos, el usuario deberá pagar el excedente conforme al costo del rango de consumo que corresponde a cada caso específico, sin demérito de la bonificación previamente establecida.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
 
@@ -2353,7 +2353,9 @@ Para cobrar el servicio de agua residual se establecerán precios por cada metro
 
 1. A los usuarios domésticos que consuman un máximo de 10 metros cúbicos de agua mensuales se les cobrará una cuota mínima que no podrá ser mayor al valor diario de la Unidad de Medida y Actualización.
 
-2. La cuota señalada en el párrafo anterior, representará un subsidio de parte del prestador de los servicios por concepto del uso eficiente del agua, para los usuarios de menores ingresos, discapacitados y de la tercera edad que hagan uso eficiente del agua.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+2. La cuota señalada en el párrafo anterior, representará un subsidio de parte del prestador de los servicios por concepto del uso eficiente del agua, para los usuarios de menores ingresos, personas con discapacidad y de la tercera edad que hagan uso eficiente del agua.
 
 3. Lo establecido en este artículo solo podrá aplicarse cuando en el predio respectivo exista un aparato medidor de flujos de agua para comprobar que el consumo mensual no exceda a lo establecido en el párrafo 1 anterior.
 
@@ -3114,3 +3116,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. LXIII-366 POR EL QUE “SE REFORMAN, EL PÁRRAFO 3, DEL ARTÍCULO 141; Y, EL PÁRRAFO 2, DEL ARTÍCULO 146, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
