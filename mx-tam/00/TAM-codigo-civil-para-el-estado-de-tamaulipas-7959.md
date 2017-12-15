@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2017-12-01"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1039,9 +1039,13 @@ ART. 258.- La reconciliación de los cónyuges pone término al juicio de divorc
 
 ART. 259.- Desde que se presenta la demanda, la controversia del orden familiar o la solicitud de divorcio o antes, si hubiere urgencia, y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes; asimismo en los casos de divorcio en que no se llegue a concluir mediante convenio, las medidas subsistirán hasta en tanto se dicte sentencia interlocutoria en el incidente que resuelva la situación jurídica de hijos o bienes, según corresponda y de acuerdo a las disposiciones siguientes:
 
-I.- Separar a los cónyuges en todo caso. Para este efecto, el Juez prevendrá al marido que se separe de la casa conyugal y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el marido informar al juez el lugar de su residencia. Si sobre esto se suscitare controversia el juez decidirá en la vía incidental;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-II.- Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma;
+I.- Separar a los cónyuges en todo caso. Para este efecto, el Juez prevendrá al marido que se separe de la casa conyugal y ordenará se le entregue su ropa y los bienes que sean necesarios para el ejercicio de la profesión, arte u oficio a que está dedicado. Deberá el marido informar al Juez el lugar de su residencia. Si sobre esto se suscitare controversia el Juez decidirá en la vía incidental;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+II.- Prevenir a ambos cónyuges que no se molesten uno a otro en ninguna forma, y eviten cualquier acto de manipulación encaminado a producir en los hijos rechazo, rencor, antipatía, desagrado, temor o distanciamiento hacia el otro cónyuge;
 
 III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
 
@@ -1061,21 +1065,27 @@ VI.- Dictar, en su caso, las providencias precautorias que ameriten el estado de
 
 VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de intimidación, acoso o violencia familiar.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-ART. 259 Bis.- En tanto se decrete el divorcio, los cónyuges deben evitar cualquier acto de manipulación encaminado a producir en los hijos rencor o distanciamiento hacia el otro cónyuge. La presencia de todo acto de este tipo será valorada por el Juez y considerada en su resolución.
+ART. 259 BIS.- En tanto se decrete el divorcio, los cónyuges deben evitar cualquier acto de manipulación encaminado a producir en los hijos rechazo, rencor, antipatía, desagrado, temor o distanciamiento hacia el otro cónyuge. La presencia de todo acto de este tipo será valorada por el Juez y considerada en su resolución.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+ART. 260.- La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez gozará de las más amplias facultades para resolver lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar, o algún acto de manipulación encaminado a producir en los hijos rechazo, rencor, antipatía, desagrado, temor o distanciamiento hacia el otro cónyuge o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
 
-ART. 260.- La sentencia de divorcio fijará en definitiva la situación de los hijos, para lo cual el juez gozará de las más amplias facultades para resolver lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. De oficio o a petición de parte interesada durante el procedimiento, se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, para evitar conductas de violencia familiar o cualquier otra circunstancia que amerite la necesidad de la medida, considerando el interés superior de estos últimos. En todo caso protegerá y hará respetar el derecho de convivencia con los padres, salvo que exista peligro para el menor.
-
 La protección para los menores incluirá las medidas de seguridad, seguimiento y terapias necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-Dentro de la convivencia, de manera recíproca deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendientes encaminado a producir en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor. La presencia de todo acto de este tipo podrá ser valorado por el Juez para los efectos procedentes.
+Dentro de la convivencia, de manera recíproca deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendientes encaminado a producir en un menor de edad rechazo, rencor, antipatía, desagrado, temor o distanciamiento hacia el otro progenitor. La presencia de todo acto de este tipo podrá ser valorado por el Juez para los efectos procedentes, debiendo establecer como medida terapéutica la asistencia a platicas relacionadas con el acto de manipulación descrito en este artículo, mismas que serán impartidas por especialistas de los Centros de Convivencia Familiar, o en su caso, por el Sistema para el Desarrollo Integral de la Familia, debiendo presentar ante el Juez la constancia de asistencia.
 
 ART. 261.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Ambos progenitores tienen en todo momento, la obligación de evitar cualquier acto de manipulación encaminado a producir en los hijos rechazo, rencor, antipatía, desagrado, temor o distanciamiento hacía el otro cónyuge.
 
 ART. 262.- (DEROGADO, P.O. 14 DE JULIO DE 2015)
 
@@ -1370,6 +1380,10 @@ ART. 298 BIS.- Todos los integrantes de la familia están obligados a respetarse
 ART. 298 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
 
 Por violencia familiar se considera el uso de la fuerza física o moral, así como de las omisiones graves, relacionadas con sus obligaciones legales que de manera reiterada ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física o psíquica o ambas independientemente de que pueda producir o no lesiones y exista una relación de parentesco, matrimonio o concubinato entre éstos.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, se considerará violencia familiar cualquier acto de manipulación encaminado a producir en los hijos rechazo, rencor, antipatía, desagrado, temor o distanciamiento de quienes, teniendo la patria potestad, tutela o custodia de un menor, transforme su conciencia con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
 
 ### CAPITULO I. DE LA FILIACION
 
@@ -1753,15 +1767,21 @@ RESPECTO DE LA PERSONA DE LOS HIJOS
 
 ART. 380.- En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+Quien ejerza la patria potestad, deberá en todo momento procurar el respeto y el acercamiento constante de los menores con el otro ascendiente, en consecuencia, deberá evitar cualquier acto de manipulación encaminado a producir en los hijos rechazo, rencor, antipatía, desagrado, temor o distanciamiento hacia el otro cónyuge.
+
 ART. 381.- Los menores de edad no emancipados estarán sujetos a la patria potestad mientras exista alguien a quien corresponda ejercerla.
 
 ART. 382.- La patria potestad se ejerce sobre la persona y los bienes de los sujetos a ella. Su ejercicio tiene por objeto la protección integral del menor en sus aspectos físico, mental, moral, y social, e implica el deber de su guarda y educación. La patria potestad puede restringirse por las autoridades civiles, penales y tutelares.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ART. 383.- La patria potestad sobre los hijos se ejerce por los padres. Cuando por cualquier circunstancia deje de ejercerla alguno de ellos, corresponderá su ejercicio al otro.
 
 A falta de ambos padres o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el juez, tomando en cuenta las circunstancias del caso.
+
+Asimismo, cualquier persona distinta a los progenitores que tenga a su cargo la patria potestad de menores, deberá evitar cualquier acto de manipulación encaminado a producir en ellos rechazo, rencor, antipatía, desagrado, temor o distanciamiento hacía los progenitores, por lo que, la presencia de todo acto de este tipo podrá ser valorado por el Juez para los efectos procedentes, debiendo llamar a quienes ejercen la patria potestad y podrá ordenar como medida la asistencia a pláticas relacionadas con el acto de manipulación descrito en este artículo, mismas que serán impartidas por especialistas de los Centros de Convivencia Familiar, o en su caso, por el Sistema para el Desarrollo Integral de la Familia, debiendo presentar la constancia de asistencia.
 
 > <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1787,13 +1807,19 @@ El juez, atendiendo al interés superior del infante, con intervención del Mini
 
 ART. 387.- Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que por su conducta o antecedentes exista peligro para éstos. En tratándose de infantes que se encuentren en período de lactancia o que por su corta edad y condiciones especiales requieran cuidados específicos, quedarán preferentemente al cuidado de la madre, salvo convenio en contrario y previa autorización del Juez.
 
-No podrá impedirse, sin justa causa, las relaciones personales y de convivencia entre el menor y sus parientes, salvo lo señalado en el párrafo anterior.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+No podrá impedirse, sin justa causa, las relaciones personales y de convivencia entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el juez de lo familiar podrá determinar las medidas necesarias en atención al interés superior de la niñez, estableciéndolas en su resolución judicial.
 
 Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezcan en el convenio o resolución judicial.
 
-El Juez privilegiará la convivencia libre entre los progenitores y sólo en el supuesto de riesgo fundado de la integridad física, psicológica o emocional de los menores, determinará mediante resolución fundada y motivada, el régimen de convivencia supervisada o asistida, considerando un parámetro que no exceda de 3 horas diarias, salvo que mediante estudio psicológico se evidencie que el aumento de las tres horas diarias no incidirá negativamente en la salud emocional y psicológica de los hijos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-En caso de oposición, a petición de cualquiera de los progenitores, el Juez resolverá lo conducente en atención al interés superior del menor.
+El Juez privilegiará la convivencia libre entre los progenitores y sólo en el supuesto de riesgo fundado de la integridad física, psicológica o emocional de las niñas, niños o adolescentes, determinará mediante resolución fundada y motivada, el régimen de convivencia supervisada o asistida, considerando un parámetro que no exceda de 3 horas diarias, salvo que mediante estudio psicológico se evidencie que el aumento de las tres horas diarias no incidirá negativamente en la salud emocional y psicológica de los hijos, por lo que, el Juez mediante previa opinión emitida por los especialistas de los Centros de Convivencia Familiar, podrá determinar que la convivencia se efectúe en lugar distinto, debiendo informar al Juez sobre la ubicación del mismo, así también el menor deberá ser devuelto a quien tenga la custodia en el tiempo y forma que determine el Juez.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+En caso de oposición, a petición de cualquiera de los progenitores, el Juez resolverá lo conducente en atención al interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -1945,9 +1971,9 @@ VI.- Cuando el que la ejerza sea condenado por la comisión de un delito intenci
 
 VII.- Cuando el que la ejerza sea condenado dos o más veces por delito grave.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-ART. 414 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar prevista en el artículo 298 ter de este Código, en contra de las personas sobre las cuales la ejerza.
+ART. 414 BIS.- La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 298 ter de este Código, en contra de las personas sobre las cuales la ejerza.
 
 ART. 415.- El cónyuge que pase a segundas nupcias no pierde por este hecho la patria potestad.
 
@@ -8477,9 +8503,9 @@ ART. 2419.- Tienen capacidad para testar las personas mayores de dieciséis año
 
 ART. 2420.- Es válido el testamento otorgado por una persona que presente discapacidad intelectual en un intervalo de lucidez, con tal de que al efecto se acaten las indicaciones siguientes:
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-I.- El tutor, o en defecto de éste cualquier pariente de aquél, solicitará por escrito al juez competente que designe dos médicos, de preferencia especialistas en la materia, para que examinen al discapacitado y dictaminen acerca del estado de la persona con discapacidad. El juez está obligado a asistir al examen de la persona con discapacidad, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar;
+I.- El tutor, o en defecto de éste cualquier pariente de aquél, solicitará por escrito al juez competente que designe dos médicos, de preferencia especialistas en la materia, para que examinen a la persona con discapacidad y dictaminen acerca de su estado. El juez está obligado a asistir al examen de la persona con discapacidad, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar;
 
 II.- Se hará constar en acta formal el resultado del reconocimiento, y si éste fuera favorable, se procederá desde luego al otorgamiento de testamento ante notario público, con todas las formalidades que se requieren para los testamentos públicos abiertos;
 
@@ -10304,6 +10330,22 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 1 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-310 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 291 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS.”]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-364 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial el (sic) Estado.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. LXIII-366 POR EL QUE “SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 2420, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
