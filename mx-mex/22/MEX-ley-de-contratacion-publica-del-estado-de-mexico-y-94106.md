@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-contratacion-publica-del-estado-de-mexico-y-94106"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2016-12-20"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE CONTRATACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 3 de mayo de 2013.
 
@@ -124,6 +126,14 @@ VIII. La prestación de servicios profesionales, la contratación de consultorí
 En general, otros actos que impliquen la contratación de servicios de cualquier naturaleza.
 
 No aplicarán las disposiciones de la presente Ley a la operación, administración, uso, goce, disposición o cualquier otro acto jurídico sobre bienes muebles o inmuebles que pudieren regularse por esta Ley, si dichos actos derivan de la prestación de servicios bajo la modalidad de proyectos para prestación de servicios; en estos casos, aplicarán las disposiciones del Libro Décimo Sexto del Código Administrativo del Estado de México.
+
+> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
+
+La contratación de seguros de garantía financiera, así como de servicios profesionales, consultorías, asesorías, estudios e investigaciones en relación con créditos, empréstitos, préstamos o financiamientos de cualquier naturaleza, incluyendo la emisión de valores, o cualquier otro servicio financiero no estarán sujetos a lo dispuesto por esta Ley.
+
+> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2017)</small>
+
+Tampoco aplicará esta ley a la contratación de servicios financieros relacionados con la apertura de cuentas bancarias para la recepción y manejo, inversión y pago de recursos públicos.
 
 ###### Artículo 5.
 
@@ -1084,3 +1094,11 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 267.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO Y DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2018.
