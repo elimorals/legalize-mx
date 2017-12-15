@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transparencia-y-acceso-a-la-informacion-para-9061
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-07"
-last_updated: "2012-12-07"
+last_updated: "2017-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
+[N. DE E DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 7 de diciembre de 2012.
 
@@ -245,7 +247,7 @@ La información a que se refiere el artículo 9 deberá estar a disposición de 
 
 Los Sujetos Obligados deberán preparar la automatización, presentación y contenido de su información, así como su integración en línea, en los términos que dispongan las recomendaciones que al respecto expida la Comisión.
 
-Es responsabilidad de los sujetos obligados mantener actualizada la información a que se refiere el artículo 9 y deberán revisarla por lo menos cada 3 meses para verificar su actualidad. (la Ley marca diversos plazos)
+Es responsabilidad de los sujetos obligados mantener actualizada la información a que se refiere el artículo 9 y deberán revisarla por lo menos cada 3 meses para verificar su actualidad. ( la Ley marca diversos plazos)
 
 ###### Artículo 11.
 
@@ -335,7 +337,7 @@ En todo momento, el Comité tendrá acceso a la información reservada o confide
 
 Como Información Confidencial se considerará:
 
-I. La entregada con tal carácter por los particulares a los Sujetos Obligados, de conformidad con lo establecido en el artículo 20 de este Reglamento, y (sic)
+I. La entregada con tal carácter por los particulares a los Sujetos Obligados, de conformidad con lo establecido en el artículo 20 de este Reglamento, y
 
 II. Los datos personales que requieran el consentimiento de los individuos para su difusión, distribución o comercialización en los términos de este Reglamento.
 
@@ -507,7 +509,7 @@ IX. Promover programas de asesoría y apoyo técnico a los Sujetos Obligados par
 
 X. Difundir entre los Servidores Públicos y los particulares, los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de aquélla;
 
-XI. Realizar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia del presente Reglamento, y (sic)
+XI. Realizar y publicar estudios e investigaciones para difundir y ampliar el conocimiento sobre la materia del presente Reglamento, y
 
 XII. Formular recomendaciones genéricas a los Sujetos Obligados, en las materias del Reglamento;
 
@@ -820,3 +822,17 @@ Para todos los efectos a que haya lugar, se extiende la presente CERTIFICACIÓN,
 EL SECRETARIO DE GOBIERNO MUNICIPAL DEL H. XX AYUNTAMIENTO DE TIJUANA
 
 C.P. ALCIDE ROBERTO BELTRONES RIVERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA”.]
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL MOMENTO DE SU APROBACIÓN. MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO EN LA GACETA MUNICIPAL DEL H AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
+
+SEGUNDO.- EL PRESENTE REGLAMENTO ABROGA EL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA. PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA NÚMERO 55 DE FECHA 7 DE DICIEMBRE DE 2012.
+
+TERCERO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
+
+CUARTO.- El Ayuntamiento preverá y procurará los recursos financieros necesarios para que, en los plazos previstos en el presente Reglamento sean cumplidas las disposiciones, objetivos y metas que se determinan.
