@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2017-12-01"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -159,7 +159,9 @@ N).- La prevención y el control de enfermedades transmisibles;
 
 O).- La prevención y el control de las enfermedades no transmisibles y accidentes;
 
-P).- La asistencia social, prevención de la invalidez y la rehabilitación de los discapacitados;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+P).- La asistencia social, prevención de la invalidez y la rehabilitación de las personas con discapacidad;
 
 Q).- Participar con las autoridades federales en el desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia;
 
@@ -347,7 +349,9 @@ I.- Proporcionar servicios de salud a toda la población y mejorar la calidad de
 
 II.- Contribuir al desarrollo demográfico armónico del Estado, mediante el fortalecimiento de programas en materia de salud sexual y reproductiva;
 
-III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y discapacitados o con capacidades especiales, para fomentar y proporcionar su incorporación a una vida activa y equilibrada en lo físico, psicológico, económico y social;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y personas con discapacidad, para fomentar y proporcionar su incorporación a una vida activa y equilibrada en lo físico, psicológico, económico y social;
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez y la adolescencia;
 
@@ -1621,6 +1625,8 @@ La información, resultados y conclusiones de las investigaciones, se utilizará
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 98.
 
 La Secretaría se coordinará con las autoridades sanitarias federales para la ejecución de programas contra el tabaquismo, que comprenderán las siguientes acciones:
@@ -1711,7 +1717,7 @@ Los establecimientos industriales, comerciales, de servicios, de artesanías y o
 
 ###### ARTICULO 104.
 
-Con el fin de proteger la salud pública, es competencia de la Secretaría la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de los discapacitados, al ejercicio de las disciplinas para la salud, y a los productos y servicios a los que se refiere esta ley y otras disposiciones legales aplicables.
+Con el fin de proteger la salud pública, es competencia de la Secretaría la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de las personas con discapacidad, al ejercicio de las disciplinas para la salud, y a los productos y servicios a los que se refiere esta ley y otras disposiciones legales aplicables.
 
 ###### ARTICULO 105.
 
@@ -3502,6 +3508,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 1 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-296 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 18 Y UN PÁRRAFO TERCERO AL ARTÍCULO 47, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LXIII-366 POR EL QUE “SE REFORMAN, EL INCISO P), DE LA FRACCIÓN I, DEL ARTÍCULO 3º; LA FRACCIÓN III, DEL ARTÍCULO 7°; Y EL ARTÍCULO 104, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
