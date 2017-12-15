@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2017-05-08"
+last_updated: "2017-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -121,23 +121,27 @@ XXVIII.- Prevención: La adopción de medidas encaminadas a impedir que se produ
 
 XXIX.- Política Pública: Son todos aquellos planes, programas o acciones de gobierno con objetivos de interés público que surgen de decisiones sustentadas en procesos de diagnóstico y análisis de factibilidad, para la atención efectiva de problemas públicos específicos, en donde participa la ciudadanía en la definición de problemas y soluciones;
 
-XXX.- Programa Estatal: El Programa Estatal para la Implementación y Protección de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas. Este programa establecerá las directrices a las que las dependencias del sistema intersectorial responderán con programas y acciones específicas con el propósito de dar cumplimiento a lo establecido en esta Ley;
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-XXXI.- Programas de Potencial Humano: Iniciativa de intervención pública y social sobre la base de adopción de un Método interactivo y presencial que consiste en acompañar, instruir y capacitar a una persona o a un grupo de ellas, con el objetivo de conseguir alguna meta o de desarrollar habilidades específicas para responder de un modo más eficiente a las circunstancias, los retos y las metas de sus vidas;
+XXX.- Programa Anual: Constituye un marco de referencia en torno al cual debe desarrollarse la estrategia de atención integral a favor de las personas con discapacidad. Representa la expresión lógica de la planeación y tiene como propósito establecer anticipada, racional y ordenadamente los proyectos y acciones a realizar en beneficio de la población objetivo.
 
-XXXII.- Progresividad: Principio inherente a la obligación que tienen autoridades y, en su caso, particulares, para realizar todas aquellas acciones previstas y emanadas en la presente Ley, tratados internacionales y demás disposiciones jurídicas aplicables, el cual consiste en adoptar medidas hasta el máximo de sus recursos disponibles, a efecto de que se llegue a cumplir cabalmente con tales obligaciones;
+XXXI.- Programa Estatal: El Programa Estatal para la Implementación y Protección de los Derechos de las Personas con Discapacidad del Estado de Tamaulipas. Este programa establecerá las directrices a las que las dependencias del sistema intersectorial responderán con programas y acciones específicas con el propósito de dar cumplimiento a lo establecido en esta Ley;
 
-XXXIII.- RED: Red de Seguimiento de los Derechos de las Personas con Discapacidad;
+XXXII.- Programas de Potencial Humano: Iniciativa de intervención pública y social sobre la base de adopción de un Método interactivo y presencial que consiste en acompañar, instruir y capacitar a una persona o a un grupo de ellas, con el objetivo de conseguir alguna meta o de desarrollar habilidades específicas para responder de un modo más eficiente a las circunstancias, los retos y las metas de sus vidas;
 
-XXXIV.- Registro Estatal de Personas con Discapacidad: Registro sociodemográfico que permite conocer la cantidad, condición, ubicación, entorno, tipo de discapacidad y edad de la población de personas con discapacidad y sus familiares. Constituye la unidad básica programable de toda la intervención pública, privada y social en favor de este sector de la sociedad tamaulipeca;
+XXXIII.- Progresividad: Principio inherente a la obligación que tienen autoridades y, en su caso, particulares, para realizar todas aquellas acciones previstas y emanadas en la presente Ley, tratados internacionales y demás disposiciones jurídicas aplicables, el cual consiste en adoptar medidas hasta el máximo de sus recursos disponibles, a efecto de que se llegue a cumplir cabalmente con tales obligaciones;
 
-XXXV.- Rehabilitación: El proceso de tipo médico, educativo y social, con la finalidad de permitir que una persona con discapacidad mantenga, mejore o adquiera un nivel físico, mental, intelectual y sensorial óptimo, que permita restablecer o compensar la pérdida o la falta de una función debido a su discapacidad, proporcionándole una integración plena y efectiva a la sociedad;
+XXXIV.- RED: Red de Seguimiento de los Derechos de las Personas con Discapacidad;
 
-XXXVI.- Sensibilización: Es el proceso de concientización dirigido a la sociedad en general, para fomentar actitudes incluyentes y percepciones positivas, con base en el modelo social, de las personas con discapacidad y del respeto a sus derechos y libertades fundamentales;
+XXXV.- Registro Estatal de Personas con Discapacidad: Registro sociodemográfico que permite conocer la cantidad, condición, ubicación, entorno, tipo de discapacidad y edad de la población de personas con discapacidad y sus familiares. Constituye la unidad básica programable de toda la intervención pública, privada y social en favor de este sector de la sociedad tamaulipeca;
 
-XXXVII.- Sistema Intersectorial: Sistema Intersectorial de Protección y Gestión Integral de Derechos de las Personas con Discapacidad; y
+XXXVI.- Rehabilitación: El proceso de tipo médico, educativo y social, con la finalidad de permitir que una persona con discapacidad mantenga, mejore o adquiera un nivel físico, mental, intelectual y sensorial óptimo, que permita restablecer o compensar la pérdida o la falta de una función debido a su discapacidad, proporcionándole una integración plena y efectiva a la sociedad;
 
-XXXVIII.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
+XXXVII.- Sensibilización: Es el proceso de concientización dirigido a la sociedad en general, para fomentar actitudes incluyentes y percepciones positivas, con base en el modelo social, de las personas con discapacidad y del respeto a sus derechos y libertades fundamentales;
+
+XXXVIII.- Sistema Intersectorial: Sistema Intersectorial de Protección y Gestión Integral de Derechos de las Personas con Discapacidad; y
+
+XXXIX.- Transversalidad: Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
 ###### ARTÍCULO 4.
 
@@ -613,45 +617,55 @@ VI.- A la formulación de metodologías que promuevan la corresponsabilidad soci
 
 VII.- La definición de un sistema de indicadores, que permitan la correcta implementación de los derechos de las personas con discapacidad.
 
-2. El sistema Intersectorial se integrará de la siguiente manera:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+2. El Sistema Intersectorial se integrará de la siguiente manera:
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-II.- Secretaría de Bienestar Social;
-
-III.- Secretaría de Salud;
+II.- El Secretario General de Gobierno;
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-IV.- Secretaría de Desarrollo Económico;
+III.- Secretaría de Bienestar Social;
 
-V.- Secretaría de Educación de Tamaulipas;
-
-VI.- Secretaría de Desarrollo Urbano y Medio Ambiente;
-
-VII.- Secretaría de Finanzas;
-
-VIII.- Secretaría de Obras Públicas;
+IV.- Secretaría de Salud;
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-IX.- Secretaría del Trabajo;
+V.- Secretaría de Desarrollo Económico;
 
-X.- Comisión Estatal de los Derechos Humanos;
+VI.- Secretaría de Educación de Tamaulipas;
 
-XI.- La Dirección General del Sistema DIF Estatal; y
+VII.- Secretaría de Desarrollo Urbano y Medio Ambiente;
 
-XII.- Representantes de la Sociedad Civil que serán nombrados por el propio Sistema Intersectorial dentro de los representantes sectoriales de niñas, niños, adolescentes, mujeres y adultos mayores de las Organizaciones de la Sociedad Civil.
+VIII.- Secretaría de Finanzas;
+
+IX.- Secretaría de Obras Públicas;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+X.- Secretaría del Trabajo;
+
+XI.- Comisión Estatal de los Derechos Humanos;
+
+XII.- La Dirección General del Sistema DIF Estatal; y
+
+XIII.- Representantes de la Sociedad Civil que serán nombrados por el propio Sistema Intersectorial dentro de los representantes sectoriales de niñas, niños, adolescentes, mujeres y adultos mayores de las Organizaciones de la Sociedad Civil.
 
 3. A invitación del Sistema Intersectorial, podrán asistir las dependencias federales que implementan programas en beneficio de las personas con discapacidad.
 
-4. Quienes integran el Sistema Intersectorial tendrán el derecho de participar con derecho de voz y voto; podrán nombrar a un suplente, quien los represente en las Sesiones del Sistema, con la excepción del Presidente, quien será suplido en todo momento por el Secretario General de Gobierno.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+4. Quienes integran el Sistema Intersectorial tendrán derecho a participar con voz y voto; además, los integrantes previstos en las fracciones I a la XII, podrán nombrar a un suplente para que los represente en las sesiones del Sistema, siendo obligatorio, para todos los integrantes de dicho Sistema, asistir puntualmente a las sesiones a las cuales sean convocados.
 
 5. El Presidente podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los organismos autónomos, de los Municipios, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz pero sin voto.
 
-6. El Sistema Intersectorial se reunirá cuando menos dos veces al año. Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+6. El Sistema Intersectorial se reunirá cuando menos dos veces al año, a convocatoria de su Presidente; para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
 
 7. Para el mejor cumplimiento de sus funciones, el Sistema Intersectorial podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial del Estado.
 
@@ -665,9 +679,13 @@ XII.- Representantes de la Sociedad Civil que serán nombrados por el propio Sis
 
 I.- Establecer con el Instituto Nacional de Estadística y Geografía, pautas de coordinación para la elaboración y actualización del Registro Estatal de las Personas con Discapacidad. Para lo cual implementará una estrategia diferenciada en la obtención de la información que parta del reconocimiento del perfil sociodemográfico de la población; para ello, recibirá el apoyo y permanente participación de todas las instancias del sector público, privado y social;
 
-II.- Coordinar la formulación, diseño e instrumentación del Programa Maestro Estatal en base a la integración de los programas interinstitucionales, concebidos estos bajo los fundamentos del modelo social, y que conforman el Sistema Intersectorial, así como a la información contenida en el Registro Estatal de las Personas con Discapacidad y toda aquella que sea proporcionada por las instancias públicas, privadas y sociales relacionadas con este segmento social;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-III.- Convocar a las sesiones de (sic) Sistema Intersectorial así como elaborar el acta de las sesiones que se lleven a cabo;
+II.- Coordinar la formulación, diseño e instrumentación del Programa Estatal en base a la integración de los programas interinstitucionales, concebidos estos bajo los fundamentos del modelo social, y que conforman el Sistema Intersectorial, así como a la información contenida en el Registro Estatal de las Personas con Discapacidad y toda aquella que sea proporcionada por las instancias públicas, privadas y sociales relacionadas con este segmento social;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+III.- Convocar, por instrucciones del Presidente, a las sesiones de Sistema Intersectorial así como elaborar el acta de las sesiones que se lleven a cabo;
 
 IV.- Supervisar la ejecución de los programas estatales en base al establecimiento de un sistema de gestión de indicadores el cual forma parte sustantiva del programa estatal;
 
@@ -675,9 +693,17 @@ V.- Generar informes derivados de la supervisión y turnarlos al Sistema Interse
 
 VI.- Instrumentar talleres de capacitación al personal que integra el Sistema Intersectorial, sobre el Modelo Social de Atención, sobre el contenido de la Convención de Derechos de las Personas con Discapacidad así como diversas metodologías de gestión de programas y proyectos;
 
-VII.- Desarrollar los canales, mecanismos y procedimientos para que las personas con discapacidad y las organizaciones de la sociedad civil puedan canalizar sus propuestas y sugerencias al Sistema Intersectorial para su incorporación al programa estatal de atención de personas con Discapacidad; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Las demás que señale el Reglamento.
+VII.- Desarrollar los canales, mecanismos y procedimientos para que las personas con discapacidad y las organizaciones de la sociedad civil puedan canalizar sus propuestas y sugerencias al Sistema Intersectorial para su incorporación al programa estatal de atención de personas con Discapacidad;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Solicitar a las Dependencias y Entidades de la Administración Pública Estatal y a los Ayuntamientos de la Entidad, la información o documentación relativa para garantizar el cumplimiento de los objetivos de la presente Ley, su reglamento y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+IX.- Las demás que señale el Reglamento o le sean conferidas por el Presidente del Sistema.
 
 ###### ARTÍCULO 45.
 
@@ -699,9 +725,21 @@ VII.- Estar receptivos a las opiniones y demandas que hace la ciudadanía, para 
 
 VIII.- Dar cumplimiento con estricto rigor a todas las prerrogativas que en la presente Ley se establecen;
 
-IX.- Instrumentar estrategias y procedimientos de seguimiento y evaluación permanentes de programas y proyectos interinstitucionales, privados y sociales, contenidos en el programa estatal; y
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-X.- Impulsar la adopción de acciones afirmativas orientadas a compensar las desventajas de una Persona con discapacidad para participar plenamente en la vida política, económica, social, deportiva, recreativa y cultural.
+IX.- Instrumentar estrategias y procedimientos de seguimiento y evaluación permanentes de programas y proyectos interinstitucionales, privados y sociales, contenidos en el programa estatal;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+X.- Impulsar la adopción de acciones afirmativas orientadas a compensar las desventajas de una persona con discapacidad para participar plenamente en la vida política, económica, social, deportiva, recreativa y cultural;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+XI.- Celebrar los acuerdos o resoluciones para garantizar el cumplimiento de los objetivos de la presente Ley, su reglamento y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+XII.- Las demás que señale el reglamento, los lineamientos o normatividad aplicable.
 
 ## TÍTULO TERCERO. DE LA RED DE SEGUIMIENTO DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -717,9 +755,15 @@ El Gobierno Estatal promoverá la conformación de la RED y le garantizará el a
 
 ###### ARTÍCULO 48.
 
-1. La RED deberá tener representación en todos los municipios y estará integrado (sic) principalmente por personas con discapacidad, sus familiares y organizaciones de la sociedad civil que den atención, servicios o apoyo a la comunidad con discapacidad.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+1. La RED deberá tener representación en todos los municipios y estará integrada principalmente por personas con discapacidad, sus familiares y organizaciones de la sociedad civil que den atención, servicios o apoyo a la comunidad con discapacidad.
 
 2. La RED contará con una coordinación estatal, que se integrará por la representación de 5 redes regionales que serán conformadas por las redes municipales.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+3. El reglamento de esta Ley regulará la constitución y operación de la RED.
 
 ###### ARTÍCULO 49.
 
@@ -753,9 +797,13 @@ V.- Colaborar con las organizaciones de personas con discapacidad en la elaborac
 
 VI.- Orientar a las personas con discapacidad respecto a la exigibilidad del cumplimiento de sus derechos.
 
-## TÍTULO CUARTO. DE LA QUEJA SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
+
+## TÍTULO CUARTO. DEL RECURSO
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -763,11 +811,13 @@ VI.- Orientar a las personas con discapacidad respecto a la exigibilidad del cum
 
 ###### ARTÍCULO 51.
 
-Toda persona u Organización de la Sociedad Civil podrá presentar una queja ante las autoridades estatales y municipales por cualquier hecho, acto u omisión que produzca o pueda producir daños o afectación a los derechos que establece esta Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las personas con discapacidad.
+Toda persona u Organización de la Sociedad Civil podrá impugnar cualquier hecho, acto u omisión que produzca o pueda producir daños o afectación a los derechos que establece esta Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 52.
 
-El reglamento de esta Ley, establecerá las autoridades, mecanismos y trámites relativos a la presentación de la queja.
+El recurso se interpondrá de acuerdo a lo previsto en la Ley de Procedimiento Administrativo para el Estado de Tamaulipas.
 
 ###### ARTÍCULO 53.
 
@@ -820,6 +870,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE MAYO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-163 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 19 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-366 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ORDENAMIENTOS PARA FORTALECER LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD".]
 
 ###### ARTÍCULO ÚNICO.
 
