@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-90652"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-22"
-last_updated: "2017-07-27"
+last_updated: "2017-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Décima Primera del Periódico Oficial del Estado de Nayarit, el sábado 22 de diciembre de 2012.
 
@@ -489,6 +489,8 @@ DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
 #### SECCIÓN PRIMERA. Del Objeto
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 54.
 
 (DEROGADO, P.O. 12 DE NOVIEMBRE DE 2016)
@@ -501,9 +503,15 @@ DISPOSICIONES COMUNES APLICABLES Al IMPUESTO DE TENENCIA O USO DE VEHÍCULOS
 
 ###### Artículo 55.
 
-Será objeto de este impuesto, la prestación de servicio de hospedaje, campamentos, paraderos de casas rodantes, de tiempo compartido, o cualquier otro inmueble análogo independientemente de su denominación, destinados como alojamiento o albergue temporal de personas a cambio de una contraprestación, sea cual fuere la denominación que ésta tenga.
+Será objeto de este impuesto la prestación de servicios de hospedaje, a cargo de personas físicas y morales en el Estado de Nayarit. Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados por:
 
-Para efectos de la causación de este impuesto, solo se considerará el alojamiento o albergue sin incluir los alimentos y demás servicios relacionados con los mismos.
+I. Establecimientos hoteleros, hostales, mesones, moteles o tiempo compartido.
+
+II. Áreas de pernoctación destinadas a albergues móviles, tales como campamentos, o paraderos de casas rodantes.
+
+III. Departamentos, casas y villas particulares, total o parcialmente.
+
+En los supuestos previstos en las fracciones anteriores de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal.
 
 ###### Artículo 56.
 
@@ -546,6 +554,22 @@ Este impuesto se calculará y liquidará aplicando la tasa que al efecto estable
 Los contribuyentes deberán presentar declaración bimestral ante la oficina recaudadora o institución de crédito autorizada por la Secretaría de Administración y Finanzas del Estado, a más tardar el día 10 del mes siguiente a aquel en que nace la obligación de presentarlas, utilizando las formas oficiales aprobadas.
 
 El pago será la cantidad que resulte de aplicar la tasa del impuesto sobre el total de los ingresos por la prestación de los servicios a que se refiere este Capítulo, obtenido en el período por el que se efectúa la declaración.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+
+Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras que intervengan a través de plataformas digitales en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto por la Prestación de Servicios de Hospedaje, deberán inscribirse en el Registro Estatal de Contribuyentes en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 55 de esta ley.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, estará obligada a retener el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo en las oficinas autorizadas dentro del plazo legal correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+
+Se entiende por plataforma digital, a la aplicación de servicios de hospedaje que la persona física o moral administradora del programa informático, opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, para permitir a los usuarios contratar servicios de hospedaje en inmuebles con terceros.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2017)</small>
+
+Las plataformas digitales de servicios de hospedaje deberán inscribirse ante el Registro Estatal de Contribuyentes.
 
 #### SECCIÓN SÉPTIMA. De la Estimación de las Erogaciones
 
@@ -1168,3 +1192,11 @@ Primero.- El presente Decreto entrará en vigor el primero de octubre del dos mi
 Segundo.- El patrimonio del Fideicomiso de Promoción Turística del Estado de Nayarit se integrará por la recaudación total del Impuesto al Hospedaje.
 
 De ser necesario, el Fideicomitente Único del Gobierno del Estado de Nayarit deberá proceder a modificar el Contrato de Fideicomiso de Promoción Turística del Estado de Nayarit.
+
+P.O. 16 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE NAYARIT".]
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero del 2018 previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Con el objetivo de otorgar eficacia a las modificaciones contenidas en este decreto, la Secretaria de Administración y Finanzas, realizará las acciones necesarias tendientes a garantizar el pago del impuesto por prestación de servicio de hospedaje.
