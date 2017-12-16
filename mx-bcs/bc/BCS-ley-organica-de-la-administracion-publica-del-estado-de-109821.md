@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2017-11-30"
+last_updated: "2017-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -173,9 +173,17 @@ IX. Secretaría del Trabajo y Desarrollo Social;
 
 X.- (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2017)
 
-XI.- Procuraduría General de Justicia, y
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2017)</small>
 
-XII.- Contraloría General.
+XI. Procuraduría General de Justicia;
+
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2017)</small>
+
+XII. Contraloría General; y
+
+> <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 2017)</small>
+
+XIII. Secretaría de Seguridad Pública.
 
 ###### ARTÍCULO 17.
 
@@ -287,39 +295,41 @@ XXVIII. Atender la política gubernamental en materia de población;
 
 XXIX. Coordinar las actividades del Sistema Estatal de Protección Civil y fomentar la participación en esta materia de los sectores público, social y privado, de acuerdo a los programas que para tal efecto implementen la Federación, el Estado y los municipios;
 
-XXX. Formular, conducir y evaluar las políticas y programas relativos a la seguridad pública, de conformidad con las leyes y ordenamientos administrativos aplicables;
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2017)</small>
+
+XXX. Conducir y evaluar las políticas y programas relativos a la seguridad pública, de conformidad con las leyes y ordenamientos administrativos aplicables;
 
 XXXI. Coordinar la Secretaría Ejecutiva del Consejo Estatal de Seguridad Pública, así como vigilar la debida aplicación de los fondos y subsidios que se integren en esa materia;
 
-XXXII. Promover campañas tendientes a la prevención de los delitos, fomentando la participación de la sociedad civil;
+XXXII.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XXXIII. Prestar al Poder Judicial del Estado y demás autoridades de carácter jurisdiccional, el auxilio, cuando lo solicite, para el debido cumplimiento de sus resoluciones, así como para custodiar al imputado, mantener el orden y la tranquilidad en el interior de las salas en que se lleve a cabo una audiencia penal, evitando cualquier incidente o contingencia que ponga en riesgo la integridad física de las partes, del órgano jurisdiccional o de los asistentes y personal que se encuentre en dichas salas;
+XXXIII.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
 XXXIV. Coordinarse con las autoridades federales y municipales para enfrentar los problemas relativos a la seguridad pública;
 
-XXXV. Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
+XXXV.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
 XXXVI. En el ámbito de su respectiva competencia, vigilar y coordinar el debido cumplimiento y aplicación de la Ley General en materia de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública;
 
-XXXVII. Controlar, en coordinación con la Procuraduría General de Justicia del Estado y autoridades municipales, la portación de armas para los servidores públicos de la entidad, de acuerdo a los convenios celebrados con las dependencias federales y de conformidad a la legislación aplicable;
+XXXVII.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XXXVIII. Controlar y supervisar los servicios de seguridad privada que se presten en el Estado, así como ejercer las funciones asignadas al Estado en la ley de la materia;
+XXXVIII.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XXXIX. Organizar, supervisar y controlar la operación de la Academia Estatal de Seguridad Pública, la Policía Estatal Preventiva, Policía Procesal, el Centro Estatal de Control de Confianza, y las funciones relativas a los servicios previos a juicio, seguimiento de medidas cautelares y de suspensión condicional del proceso;
+XXXIX.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XL. Celebrar con autoridades que conforman el Sistema Estatal de Seguridad Pública, convenios que permitan preservar el orden y respeto dentro de la sociedad;
+XL.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLI. Coordinar y operar las (sic) registros estatales de información en materia criminal, vehicular, de personal de instituciones de seguridad pública, así como de internos en los centros de reinserción social y de internamiento y tratamiento externo para adolescentes, el registro de seguimiento al cumplimiento de las medidas cautelares y de la condiciones de la suspensión condicional del proceso impuestas por el órgano jurisdiccional y demás registros nacionales de información sobre seguridad pública;
+XLI.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLII. Proporcionar a la Procuraduría General de Justicia del Estado la información que se tenga sobre personas y vehículos que ingresen o abandonen el territorio estatal;
+XLII. - (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLIII. Organizar, controlar y supervisar, los Módulos de Identificación de personas y vehículos que se instalen en el territorio estatal;
+XLIII.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLIV. Diseñar, implementar y avaluar los programas tendientes a la reinserción social de las personas sujetas a una pena de prisión, así como coordinar a los centros de reinserción social estatales;
+XLIV.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLV. Administrar, coordinar y supervisar el Centro de Internamiento y Tratamiento Externo para Adolescentes;
+XLV.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
-XLVI. Coordinar las funciones y programas que implemente el Patronato para la Reincorporación Social, y
+XLVI.- (DEROGADA, B.O. 16 DE DICIEMBRE DE 2017)
 
 XLVII. Las demás que le señalen las leyes aplicables.
 
@@ -825,6 +835,60 @@ XL. Emitir y actualizar el Código de Ética de los servidores públicos del Gob
 
 XLI. Las demás que le señalen las leyes aplicables.
 
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 32 Bis.
+
+A la Secretaría de Seguridad Pública le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Formular las políticas y programas relativos a la seguridad pública, de conformidad con las leyes y ordenamientos administrativos aplicables;
+
+II. Preservar el orden y la paz públicos; así como salvaguardar la integridad y derechos de las personas a través de la prevención en la comisión de delitos;
+
+III. Promover campañas tendientes a la prevención de los delitos, fomentando la participación de la sociedad civil;
+
+IV. Prestar al Poder Judicial del Estado y demás autoridades de carácter jurisdiccional, el auxilio, cuando lo solicite, para el debido cumplimiento de sus resoluciones, así como para custodiar al imputado, mantener el orden y la tranquilidad en el interior de las salas en que se lleve a cabo una audiencia penal, evitando cualquier incidente o contingencia que ponga en riesgo la integridad física de las partes, del órgano jurisdiccional o de los asistentes y personal que se encuentre en dichas salas;
+
+V. Coordinarse con el Secretario General de Gobierno, con las autoridades federales y municipales para enfrentar los problemas relativos a la seguridad pública;
+
+VI. Aplicar las normas, políticas y programas que deriven del Sistema Nacional de Seguridad Pública;
+
+VII. En el ámbito de su respectiva competencia, vigilar y coordinar el debido cumplimiento y aplicación de la Ley General en materia de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública, La Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y la Ley Nacional de Ejecución Penal;
+
+VIII. Controlar, en coordinación con la Procuraduría General de Justicia del Estado y autoridades municipales, la portación de armas para los servidores públicos de la entidad, de acuerdo a los convenios celebrados con las dependencias federales y de conformidad a la legislación aplicable;
+
+IX. Controlar y supervisar los servicios de seguridad privada que se presten en el Estado, así como ejercer las funciones asignadas al Estado en la ley de la materia;
+
+X. Organizar, supervisar y controlar la operación de la Academia Estatal de Seguridad Pública, la Policía Estatal Preventiva, Policía Procesal, el Centro Estatal de Control de Confianza, Centro Estatal de Prevención del Delito con Participación Ciudadana, Centro Estatal de Política Criminal y las funciones relativas a los servicios previos a juicio, seguimiento de medidas cautelares y de suspensión condicional del proceso;
+
+XI. Organizar, capacitar, supervisar y controlar el cuerpo de las fuerzas de seguridad pública estatal;
+
+XII. Celebrar convenios con autoridades que conforman los sistemas nacional y estatal de Seguridad Pública, que permitan preservar el orden y respeto dentro de la sociedad;
+
+XIII. Celebrar convenios o acuerdos con instituciones educativas públicas y privadas, organismos de investigación y organizaciones de la sociedad civil que contribuyan con los planes y programas de capacitación en materia de seguridad pública;
+
+XIV. Coordinar y operar las (sic) registros estatales de información en materia criminal, vehicular, de personal de instituciones de seguridad pública, así como de internos en los centros de reinserción social y de internamiento y tratamiento externo para adolescentes, el registro de seguimiento al cumplimiento de las medidas cautelares y de la (sic) condiciones de la suspensión condicional del proceso impuestas por el órgano jurisdiccional y demás registros nacionales de información sobre seguridad pública;
+
+XV. Proporcionar a la Procuraduría General de Justicia del Estado la información que se tenga sobre personas y vehículos que ingresen o abandonen el territorio estatal;
+
+XVI. Organizar, controlar y supervisar, los Módulos de Identificación de personas y vehículos que se instalen en el territorio estatal;
+
+XVII. Realizar el análisis científico y multidisciplinario de la criminalidad en el Estado que sirva de base para la elaboración de políticas públicas que fortalezcan la seguridad pública;
+
+XVIII. Generar información científica en materia criminal que fortalezca la seguridad pública y que permitan alcanzar un mejor nivel de bienestar en la población;
+
+XIX. Dirigir, ejecutar, coordinar y supervisar las operaciones de los centros de control, comando, comunicación y cómputo del Estado;
+
+XX. Coordinar a los centros de reinserción social estatales y vigilar el cumplimiento de las disposiciones legales en la materia;
+
+XXI. Diseñar, implementar y evaluar los programas tendientes a la reinserción social de las personas sujetas a una pena de prisión;
+
+XXII. Administrar, coordinar y supervisar el Centro de Internamiento y Tratamiento Externo para Adolescentes;
+
+XXIII. Coordinar las funciones y programas que implemente el Patronato para la Reincorporación Social, y
+
+XXIV. Las demás que le señalen las leyes aplicables.
+
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
 ### CAPÍTULO PRIMERO. ENTIDADES PARAESTATALES
@@ -1184,3 +1248,17 @@ OCTAVO.- Cuando en otras leyes se otorgue denominación distinta a alguna depend
 NOVENO.- El Gobernador del Estado, a través de la Secretaría de Finanzas y Administración, definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a las dependencias y entidades auxiliares que se creen, con el fin de mejorar la operatividad de cambio enfocada a la calidad de los servicios del gobierno.
 
 DÉCIMO.- El Gobernador del Estado, de conformidad con las atribuciones asignadas a cada una de las secretarías y organismos descentralizados, expedirá los reglamentos necesarios en un término que no exceda de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+B.O. 16 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2516.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR Y DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Las dependencias del Poder Ejecutivo del Estado que corresponda deberán realizar las modificaciones a sus reglamentos respectivos para ajustarlos a la presente reforma de Ley, en de un plazo de 90 días naturales contados a partir de la entrada en vigor del presente decreto, quedando vigentes los que rigen actualmente, hasta en tanto se expidan las reformas mencionadas.
+
+TERCERO.- Los recursos humanos, materiales y bienes patrimoniales, así como las partidas presupuestales asignadas a la Subsecretaria de Seguridad Pública a través de la Secretaría General (sic) Gobierno, pasarán a formar parte de la Secretaría de Seguridad Pública.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+CUARTO.- Cuando en otras leyes, reglamentos, convenios, contratos o cualquier otro instrumento equivalente, haya sido otorgada la denominación de Subsecretaría de Seguridad Pública, se entenderá referida a la Secretaría de Seguridad Pública, a partir de la entrada en vigor del presente Decreto.
