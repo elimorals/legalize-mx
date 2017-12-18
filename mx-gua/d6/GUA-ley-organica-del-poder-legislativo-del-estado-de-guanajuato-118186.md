@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2017-10-20"
+last_updated: "2017-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -425,7 +425,7 @@ V. Falten injustificadamente a una reunión de Comisión.
 
 La disminución de la dieta en los supuestos de las fracciones I y V del artículo anterior, será de un día.
 
-En el supuesto de la fracción III del artículo anterior, será de cinco días.
+En el supuesto de la fracción III del artículo anterior, será de cinco días;
 
 En los supuestos de la (sic) fracciones II y IV del artículo anterior, será de tres días.
 
@@ -759,7 +759,7 @@ VI. Proponer al Pleno para su aprobación, el nombramiento del titular de la Sec
 
 VII. Proponer la terna para la designación del titular de la Auditoría Superior del Estado y, en su caso, su ratificación para un segundo periodo;
 
-VIII. Los relativos a la ratificación de los servidores públicos de la Auditoría Superior del Estado, en los términos de la Ley de Fiscalización Superior del Estado;
+VIII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2017)
 
 IX. Proponer al Pleno para su aprobación, la remoción de los titulares de la Secretaría General y de la Contraloría Interna por causa justificada; así como del titular de la Auditoría Superior del Estado, cuando se actualice alguna de las causas previstas en el artículo 95 de la Ley de Fiscalización Superior del Estado de Guanajuato;
 
@@ -1327,11 +1327,23 @@ XI. Los relativos a la aprobación de los montos máximos y límites para la con
 
 XII. Los relativos a los informes de resultados que emita la Auditoría Superior del Estado;
 
-XIII. Los relativos a los proyectos de prestación de servicios que deben ser aprobados por el Congreso del Estado, conforme a la Ley de la materia; y
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-XIV. Otros, análogos, que a juicio de la Presidencia del Congreso del Estado, sean materia de tratamiento por esta Comisión.
+Cuando del análisis de los informes de resultados se advierta la comisión de posibles faltas administrativas de los servidores públicos responsables del proceso de fiscalización, podrá solicitar a la Contraloría Interna del Poder Legislativo la práctica de auditorías a la Auditoría Superior del Estado;
 
-Los asuntos relacionados con las fracciones I, II, III y X se dictaminarán en Comisiones Unidas con la Comisión de Gobernación y Puntos Constitucionales, presidiendo la Comisión de Hacienda y Fiscalización.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+XIII. Conocer del Programa General de Fiscalización, así como de los programas estratégico y anual de actividades para el debido cumplimiento de las funciones y atribuciones de la Auditoría Superior del Estado, así como sus modificaciones, y evaluación de su cumplimiento;
+
+XIV. Los relativos a los proyectos de prestación de servicios que deben ser aprobados por el Congreso del Estado, conforme a la Ley de la materia; y
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+XV. Otros análogos que a juicio de la Presidencia del Congreso del Estado, sean materia de tratamiento por esta Comisión.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+Los asuntos relacionados con las fracciones I, II, III y IX se dictaminarán en Comisiones Unidas con la Comisión de Gobernación y Puntos Constitucionales, presidiendo la Comisión de Hacienda y Fiscalización.
 
 ###### Artículo 113.
 
@@ -2979,23 +2991,35 @@ IV. Realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, 
 
 V. Fiscalizar que el Poder Legislativo cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles y demás activos y recursos materiales;
 
-VI. Proponer a la Junta de Gobierno y Coordinación Política a los titulares de la Coordinación de Auditoría y Control Interno, Coordinación de Evaluación al Desempeño y Coordinación de Asuntos Jurídicos;
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-VII. Llevar y normar el registro de servidores públicos del Poder Legislativo, recibir, registrar y publicar las declaraciones patrimoniales y de conflicto de intereses, así como la constancia de declaración fiscal que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
+VI. Vigilar que los servidores públicos de la Auditoría Superior del Estado se conduzcan en términos de lo dispuesto por las disposiciones legales aplicables;
 
-VIII. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con el Poder Legislativo, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+VII. Proponer a la Junta de Gobierno y Coordinación Política a los titulares de la Coordinación de Auditoría y Control Interno, Coordinación de Evaluación al Desempeño y Coordinación de Asuntos Jurídicos;
 
-IX. Establecer y conducir la política general de las contrataciones públicas propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez;
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-X. Presentar a la Junta de Gobierno y Coordinación Política un programa e informe anual sobre el cumplimiento de sus funciones o cuando le sea requerido;
+VIII. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior del Estado. La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior del Estado cumple con las atribuciones que le confieren las disposiciones legales aplicables. De dicha evaluación podrán derivar recomendaciones;
 
-XI. Definir la política de gestión digital y datos abiertos en el ámbito del Poder Legislativo;
+IX. Llevar y normar el registro de servidores públicos del Poder Legislativo, recibir, registrar y publicar las declaraciones patrimoniales y de conflicto de intereses, así como la constancia de declaración fiscal que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
 
-XII. Recibir, investigar y dar trámite a quejas y denuncias ciudadanas respecto a la actuación de los servidores públicos del Poder Legislativo;
+X. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con el Poder Legislativo, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
-XIII. Conocer e investigar las conductas de los servidores públicos del Poder Legislativo que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, y la Ley estatal de la materia, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables; y
+XI. Establecer y conducir la política general de las contrataciones públicas propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez;
 
-XIV. Las demás que expresamente le confieran los ordenamientos legales o que determine el Pleno.
+XII. Presentar a la Junta de Gobierno y Coordinación Política un programa e informe anual sobre el cumplimiento de sus funciones o cuando le sea requerido;
+
+XIII. Definir la política de gestión digital y datos abiertos en el ámbito del Poder Legislativo;
+
+XIV. Recibir, investigar y dar trámite a quejas y denuncias ciudadanas respecto a la actuación de los servidores públicos del Poder Legislativo;
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+Cuando las quejas y denuncias recaigan sobre actos de los servidores públicos adscritos a la Auditoría Superior del Estado, deberá informar a la Comisión de Hacienda y Fiscalización respecto a la atención y estado de las mismas;
+
+XV. Conocer e investigar las conductas de los servidores públicos del Poder Legislativo que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas, y la Ley estatal de la materia, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables; y
+
+XVI. Las demás que expresamente le confieran los ordenamientos legales o que determine el Pleno.
 
 ###### Artículo 289.
 
@@ -3136,3 +3160,21 @@ P.O. 20 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 217 EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 72, 149, SEGUNDO PÁRRAFO; 203 Y 287, FRACCIÓN VI Y PÁRRAFO TERCERO Y SE ADICIONAN (SIC) UN PÁRRAFO CUARTO AL ARTÍCULO 287 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficia (sic) del Gobierno del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 277, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Procesos en trámite
+
+Artículo Segundo. Los actos de fiscalización, acciones de responsabilidad y demás procesos y procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se continuarán hasta su total conclusión de conformidad con las disposiciones con las que se iniciaron.
+
+Asuntos civiles en trámite
+
+Artículo Tercero. El ejercicio de las acciones para hacer efectivas las responsabilidades civiles o resarcitorias, que a la entrada en vigor del presente Decreto se encuentren pendientes de trámite o en desahogo por los sujetos de fiscalización o la Auditoría Superior del Estado de Guanajuato, les serán aplicables de manera retroactiva las disposiciones legales y reglamentarias relativas a la abstención del ejercicio de las acciones civiles y su dictaminarían (sic) contempladas por el artículo 70 de la Ley y demás complementarias del Reglamento de la misma, que se derogan con el presente Decreto.
+
+De igual manera, las acciones para hacer efectivas las responsabilidades civiles o resarcitorias, cuya tramitación hubiere correspondido a la Auditoría Superior, una vez causada ejecutoria la sentencia respectiva, podrán ser ejecutados (sic) por los sujetos de fiscalización, siempre y cuando ello no actualice un conflicto de interés.
