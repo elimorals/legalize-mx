@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-241-de-desarrollo-urbano-ordenamiento-80815"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2017-03-15"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 13 de abril de 2011.
 
@@ -1161,13 +1161,39 @@ Por cuanto hace a las Zonas Económicas Especiales, deberán realizarse los dict
 
 Quienes realicen acciones por las que se constituyan nuevos espacios urbanos estarán obligados a realizar, por su cuenta, las obras de urbanización y a proyectar y localizar las superficies para áreas verdes y equipamiento que satisfagan las necesidades generadas por dichos espacios. Para tal efecto, el Reglamento establecerá obligaciones equivalentes para fraccionamientos, relotificaciones, subdivisiones, desarrollos inmobiliarios habitacionales, comerciales y de servicios, industriales, mixtos o turísticos y demás modalidades del desarrollo urbano.
 
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+De forma enunciativa, más no limitativa, los nuevos espacios urbanos deberán contar con la siguiente infraestructura básica:
+
+I. Red de agua potable y tomas domiciliarias o por lote;
+
+II. Red de drenaje sanitario y red de alcantarillado pluvial;
+
+III. Sistema de tratamiento de aguas residuales, aprobado por la autoridad competente en los casos que no sea factible la conexión a la red municipal;
+
+IV. Red de energía eléctrica;
+
+V. Red de alumbrado público;
+
+VI. Guarniciones y banquetas;
+
+VII. Calles pavimentadas;
+
+VIII. Jardinería mayor y menor en áreas verdes, así como en camellones y banquetas; y
+
+IX. Señalamiento y nomenclatura y otros mobiliarios urbanos, que aseguren el correcto funcionamiento de los espacios urbanos.
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 71.
 
-Para la autorización de acciones de desarrollo regional y urbano que generen un impacto en la demanda de agua potable, drenaje y electricidad, deberá obtenerse previamente dictamen de factibilidad de las entidades competentes, así como el Dictamen de Desarrollo Urbano Integral Sustentable o el Dictamen de Factibilidad Regional Sustentable elaborado por un perito en desarrollo urbano. El Reglamento establecerá los casos y contenidos de dichos dictámenes. Los costos de su elaboración serán pagados por el solicitante en todos los casos.
+Para la autorización de acciones de desarrollo regional y urbano que generen un impacto en la demanda de agua potable, drenaje y electricidad, sólo podrán autorizarse cuando esté garantizado el suministro de tales servicios, así como el Dictamen de Desarrollo Urbano Integral Sustentable o el Dictamen de Factibilidad Regional Sustentable elaborado por un perito en desarrollo urbano. El Reglamento establecerá los casos y contenidos de dichos dictámenes. Los costos de su elaboración serán pagados por el solicitante en todos los casos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 72.
 
-Después de haberse obtenido el Dictamen de Desarrollo Urbano Integral Sustentable o de Factibilidad Regional Sustentable, según sea el caso, serán expedidas por los Ayuntamiento las licencias de uso del suelo, fraccionamientos, desarrollos urbanísticos o inmobiliarios en cualquiera de sus modalidades, subdivisiones, fusiones, lotificaciones, relotificaciones y conjuntos habitacionales, comerciales y de servicios, mixtos o turísticos.
+Después de haberse garantizado el suministro de los servicios de agua potable, drenaje y electricidad, y obtenido el Dictamen de Desarrollo Urbano Integral Sustentable o de Factibilidad Regional Sustentable, según sea el caso, serán expedidas por los Ayuntamiento (sic) las licencias de uso del suelo, fraccionamientos, desarrollos urbanísticos o inmobiliarios en cualquiera de sus modalidades, subdivisiones, fusiones, lotificaciones, relotificaciones y conjuntos habitacionales, comerciales y de servicios, mixtos o turísticos.
 
 Las licencias serán expedidas por la Secretaría, en los casos en que los municipios hayan convenido el ejercicio de dicha facultad con el Ejecutivo del Estado.
 
@@ -1229,11 +1255,25 @@ Quienes lleven a cabo lotificaciones y relotificaciones de predios estarán obli
 
 La solicitud para fusionar, subdividir, lotificar o relotificar terrenos deberá formularse por la persona física o moral que acredite la propiedad del predio o predios respectivos. Las autorizaciones a que se refiere este capítulo se otorgarán con apego a lo dispuesto en el Reglamento.
 
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 82.
 
-En el Reglamento se determinarán los tipos de fraccionamientos, usos y destinos, vialidad, restricciones de ubicación y construcción, infraestructura necesaria, donaciones, mobiliario urbano, mecanismos de supervisión y recepción y demás elementos de la urbanización, de acuerdo con sus diferentes tipos, así como a los requisitos, condiciones y procedimientos para la autorización de fraccionamientos, además de las obligaciones de los fraccionadores y de los adquirentes de lotes en los mismos.
+En el Reglamento se determinarán los tipos de fraccionamientos, usos y destinos, vialidad, restricciones de ubicación y construcción, infraestructura necesaria, donaciones, mobiliario urbano, mecanismos de supervisión y recepción y demás elementos de la urbanización, de acuerdo con sus diferentes tipos, así como a los requisitos, condiciones y procedimientos para la autorización de fraccionamientos.
 
-Las dimensiones mínimas de lotes para vivienda unifamiliar serán de ciento cinco metros cuadrados, con un frente de siete metros lineales, y sólo en desarrollos habitacionales de interés social se permitirá el lote de ocupación unifamiliar cuyas dimensiones mínimas sean de sesenta y siete metros con cincuenta decímetros cuadrados de superficie y cuatro metros con cincuenta centímetros lineales de frente, siempre que sobre el mismo exista una vivienda estructuralmente independiente o, en su caso, se demuestre fehacientemente que el adquirente o el desarrollador ha recibido crédito para su construcción inminente.
+De manera enunciativa, más no limitativa, además de las que se señalen en el Reglamento, los fraccionadores tendrán las siguientes obligaciones:
+
+I. Acreditar la propiedad y la posesión de los terrenos, así como la inexistencia de gravámenes de los mismos;
+
+II. Presentar el proyecto general de planificación del fraccionamiento, que constará de los planos relativos y una memoria descriptiva;
+
+III. Garantizar el suministro de agua potable, drenaje y electricidad;
+
+IV. Establecer en las vías públicas del fraccionamiento los servicios públicos de agua potable, alcantarillado, alumbrado público, pavimentación, guarniciones y jardines, conforme a lo que disponga el Reglamento;
+
+V. Realizar las donaciones que se destinen para vías públicas, áreas verdes y áreas para equipamiento urbano, según se establezca en el Reglamento; y
+
+VI. Cubrir las obligaciones por impuestos y derechos que señalen las leyes correspondientes. Las dimensiones mínimas de lotes para vivienda unifamiliar serán de ciento cinco metros cuadrados, con un frente de siete metros lineales, y sólo en desarrollos habitacionales de interés social se permitirá el lote de ocupación unifamiliar cuyas dimensiones mínimas sean de sesenta y siete metros con cincuenta decímetros cuadrados de superficie y cuatro metros con cincuenta centímetros lineales de frente, siempre que sobre el mismo exista una vivienda estructuralmente independiente o, en su caso, se demuestre fehacientemente que el adquirente o el desarrollador ha recibido crédito para su construcción inminente.
 
 Las dimensiones mínimas de lotes para viviendas multifamiliares serán de ciento ochenta metros cuadrados, con un frente de doce metros lineales, en agrupación de cuatro viviendas o hasta seis, dos en cada nivel; estos conjuntos contarán con un cajón de estacionamiento por vivienda, resueltos hacia el interior del lote o en bolsas de estacionamiento. Para la enajenación de estas viviendas deberá constituirse el régimen de propiedad en condominio.
 
@@ -1255,7 +1295,9 @@ Será improcedente la autorización de traslado de dominio de los lotes en desar
 
 I. No exista vivienda construida sobre el lote o no se demuestre la obtención de crédito con tal finalidad;
 
-II. Se carezca de infraestructura básica en el sitio en que se ubique el desarrollo habitacional o fraccionamiento;
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+II. Se carezca total o parcialmente de infraestructura básica en el sitio en que se ubique el desarrollo habitacional o fraccionamiento. Cuando se trate de la falta de los servicios de agua potable, drenaje y electricidad, no se autorizará ningún traslado de dominio;
 
 III. Aun con infraestructura básica en la zona, no se permitirá ampliar la cobertura del servicio por incremento de la densidad; y
 
@@ -1301,7 +1343,9 @@ Quienes celebren las operaciones mencionadas sin sujetarse a la normatividad del
 
 Todo propietario, poseedor de predios que fusione, subdivida, lotifique, relotifique o fraccione violando las disposiciones de esta Ley, el Reglamento, los programas de desarrollo urbano o los convenios o autorizaciones concedidas, se hará acreedor a las sanciones a que se refiere este ordenamiento, sin perjuicio de lo que dispongan otras leyes.
 
-Cuando el fraccionador haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo dispuesto por esta Ley, el Reglamento, los programas de desarrollo urbano o la autorización respectiva, la autoridad municipal, previa audiencia del interesado, podrá ordenar la corrección de dichas obras, la suspensión temporal o definitiva o incluso la demolición total o parcial, sin ninguna obligación de pagar indemnización al fraccionador o promovente, el cual deberá cubrir el costo de los trabajos efectuados.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+Cuando el fraccionador haya ejecutado obras, construcciones, instalaciones o servicios en contravención a lo dispuesto por esta Ley, el Reglamento, los programas de desarrollo urbano o la autorización respectiva, o haya obtenido esta última sin haber satisfecho los requisitos establecidos en el artículo 70 de esta Ley, la autoridad municipal, previa audiencia del interesado, podrá ordenar la corrección de dichas obras, la suspensión temporal o definitiva o incluso la demolición total o parcial, sin ninguna obligación de pagar indemnización al fraccionador o promovente, el cual deberá cubrir el costo de los trabajos efectuados.
 
 ###### Artículo 89.
 
@@ -1423,7 +1467,9 @@ I. Expidan licencias, permisos, dictámenes o autorizaciones en los casos y mate
 
 II. Expidan licencias, permisos, dictámenes o autorizaciones en los casos y materias reguladas por la Ley y el Reglamento, en forma contraria a las normativas y regulaciones establecidas en dichos ordenamientos; y
 
-III. Expidan permisos o licencias de lotificación, subdivisión, uso del suelo, fraccionamientos, desarrollos urbanísticos inmobiliarios, condominios, conjuntos urbanos, relotificaciones, cuando no exista programa de desarrollo urbano vigente e inscrito en el Registro Público de la Propiedad aplicable al caso, y sin haberse obtenido previamente un Dictamen de Factibilidad Regional Sustentable por parte de la Secretaría, en los casos que prevea el Reglamento.
+> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+III. Expidan permisos o licencias de lotificación, subdivisión, uso del suelo, fraccionamientos, desarrollos urbanísticos inmobiliarios, condominios, conjuntos urbanos, relotificaciones, cuando no exista programa de desarrollo urbano vigente e inscrito en el Registro Público de la Propiedad aplicable al caso, cuando no se haya garantizado el suministro de los servicios de agua potable, drenaje y electricidad en tales desarrollos, o no se haya obtenido previamente, en los casos que prevea el Reglamento, un Dictamen de Factibilidad Regional Sustentable por parte de la Secretaría.
 
 ###### Artículo 105.
 
@@ -1526,3 +1572,13 @@ G.O. 15 DE MARZO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 362 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS, AMBOS ORDENAMIENTOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Ejecutivo del Estado deberá adecuar los reglamentos de la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, y de la Ley que Regula las Construcciones Públicas y Privadas, ambos ordenamientos para el Estado de Veracruz de Ignacio de la Llave, conforme a lo dispuesto en este Decreto, dentro de los sesenta días naturales siguientes al inicio de su vigencia.
