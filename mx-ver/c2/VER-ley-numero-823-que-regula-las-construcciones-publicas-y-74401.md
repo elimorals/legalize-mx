@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-823-que-regula-las-construcciones-publicas-y-74401"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-31"
-last_updated: "2015-12-25"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 823 QUE REGULA LAS CONSTRUCCIONES PUBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 823 QUE REGULA LAS CONSTRUCCIONES PUBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 823 QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de marzo de 2010.
 
@@ -119,9 +119,15 @@ Del Carácter y Propósito de las Licencias
 
 Las licencias a las que se refiere el presente ordenamiento son instrumentos que permiten un desarrollo adecuado y armónico de las zonas urbanas, garantizan la habitabilidad en los inmuebles y edificaciones de propiedad pública o privada de los municipios del estado y contienen las normas a las que deberán sujetarse en su diseño, construcción y operación, el uso y destino, en los términos de los programas de desarrollo urbano estatal y municipal.
 
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de la construcción de espacios urbanos para habitación, las licencias para su diseño, construcción y operación, así como uso y destino, deberán contemplar que se encuentren garantizados los servicios de agua potable, drenaje y electricidad, así como de infraestructura básica.
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 7.
 
-Los ayuntamientos expedirán sus reglamentos de construcciones con apego a las disposiciones de esta ley, o aplicarán supletoriamente el Reglamento Estatal de la materia, que expedirá al efecto el Ejecutivo del Estado.
+Los ayuntamientos expedirán sus reglamentos de construcciones con apego a las disposiciones de esta Ley, o aplicarán supletoriamente el Reglamento Estatal de la materia, que expedirá al efecto el Ejecutivo del Estado, o en lo relativo a edificaciones habitacionales, la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda del Estado, y su Reglamento.
 
 Del Apoyo del Estado a los Ayuntamientos
 
@@ -940,3 +946,13 @@ G.O. 25 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 362 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS, AMBOS ORDENAMIENTOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Ejecutivo del Estado deberá adecuar los reglamentos de la Ley de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, y de la Ley que Regula las Construcciones Públicas y Privadas, ambos ordenamientos para el Estado de Veracruz de Ignacio de la Llave, conforme a lo dispuesto en este Decreto, dentro de los sesenta días naturales siguientes al inicio de su vigencia.
