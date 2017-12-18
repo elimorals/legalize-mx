@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2017-06-01"
+last_updated: "2017-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -911,9 +911,7 @@ VI.- Establecer y organizar las unidades internas de protección civil que se re
 
 VII.- Cumplir las medidas correctivas y sanciones que establezcan las autoridades competentes, como resultado de la inspección, supervisión y verificación que se realice en las instalaciones y procesos correspondientes;
 
-VIII.- Proporcionar la información que les sea requerida por las autoridades competentes para la
-
-integración de planes y programas tendientes a la prevención de accidentes y desastres;
+VIII.- Proporcionar la información que les sea requerida por las autoridades competentes para la integración de planes y programas tendientes a la prevención de accidentes y desastres;
 
 IX.- Prestar apoyo en caso de desastre en cualquier parte del Estado, cuando así se les requiera por parte de las autoridades de protección civil, con el personal y equipo especializado de que dispongan y que deberá estar registrado en el Atlas Estatal de Riesgos; y
 
@@ -1219,6 +1217,10 @@ Recibida la denuncia, la autoridad ante quien se formuló, la turnará de inmedi
 
 Las autoridades del Estado y las municipales en los términos de esta ley, atenderán de manera permanente al público en general, en el ejercicio de la denuncia popular. Para ello, difundirán ampliamente domicilios y números telefónicos destinados a recibir las denuncias.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+Es motivo de infracción en los términos de la presente Ley, solicitar los servicios de emergencia, policía, cuerpo de bomberos o de establecimientos médicos o asistenciales, públicos o privados, cuando no se requieran. Asimismo, proferir voces, realizar actos o adoptar actitudes que constituyan falsas alarmas de siniestros o que puedan producir o produzcan el temor o pánico colectivos.
+
 ### CAPITULO VI. DE LAS NOTIFICACIONES Y RECURSOS
 
 ###### ARTICULO 79.
@@ -1435,7 +1437,7 @@ Se abroga la Ley de Protección Civil para el Estado de Tamaulipas, expedida por
 
 El término que tienen los establecimientos públicos o privados a que se refiere el Artículo 48, para crear la Unidad Interna de Protección Civil es de ciento ochenta días contados a partir de la publicación de la presente Ley.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 23 de Mayo del Año 2001.- DIPUTADO PRESIDENTE.- C. OSCAR ALBERTO HINOJOSA SÁNCHEZ.- Rúbrica .- DIPUTADO SECRETARIO.- LIC. JUAN JOSÉ ANTONIO BRAÑA CARRANZA.- Rúbrica.- DIPUTADO SECRETARIO.- C. BERNARDO GÓMEZ VILLAGOMEZ.- Rúbrica."
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 23 de Mayo del Año 2001.- DIPUTADO PRESIDENTE.- C. OSCAR ALBERTO HINOJOSA SÁNCHEZ.- Rúbrica.- DIPUTADO SECRETARIO.- LIC. JUAN JOSÉ ANTONIO BRAÑA CARRANZA.- Rúbrica.- DIPUTADO SECRETARIO.- C. BERNARDO GÓMEZ VILLAGOMEZ.- Rúbrica."
 
 Por lo tanto, mando se imprima, publique, circule y se le de debido cumplimiento.
 
@@ -1510,6 +1512,14 @@ Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, a
 P.O. 1 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. LXIII-169 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX, ADICIONANDO LA FRACCIÓN XXI Y RECORRIENDO EN SU ORDEN NATURAL LA ACTUAL FRACCIÓN XXI, PARA PASAR A SER LA FRACCIÓN XXII DEL ARTÍCULO 30, DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-370 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 172, FRACCIÓN III Y 173 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 78, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
