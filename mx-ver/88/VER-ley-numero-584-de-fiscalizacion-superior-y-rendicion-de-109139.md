@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-584-de-fiscalizacion-superior-y-rendicion-de-109139"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-04"
-last_updated: "2016-06-28"
+last_updated: "2017-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "VER"
 ---
 # LEY NUMERO 584 DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 883 PUBLICADO EL VEINTIOCHO DE JUNIO DE DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL DEL ESTADO DE VERACRUZ, POR EL QUE SE REFORMÓ LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 364 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 18 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 883 PUBLICADO EL VEINTIOCHO DE JUNIO DE DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL DEL ESTADO DE VERACRUZ, POR EL QUE SE REFORMÓ LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/.]
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 4 de agosto de 2015.
 
@@ -1900,3 +1902,37 @@ G.O. 28 DE JUNIO DE 2016.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NUMERO 364 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.”]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, sin perjuicio de los artículos transitorios siguientes.
+
+Segundo. Se abroga la Ley 584 de Fiscalización Superior y Rendición de Cuentas Públicas publicada el cuatro de agosto de dos mil quince, en la Gaceta Oficial del Estado en el número extraordinario trescientos ocho, así como sus reformas y adiciones posteriores; y se abrogan todas las disposiciones que se opongan a la presente Ley.
+
+Tercero. Las referencias que se hagan en otras leyes o disposiciones reglamentarias y administrativas, a la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Veracruz de Ignacio de la Llave, se entenderán por realizadas a la presente Ley.
+
+Cuarto. Todos los asuntos y procedimientos que se encuentren en trámite o en proceso iniciados por el Órgano de Fiscalización Superior del Estado, hasta su conclusión definitiva, se resolverán de conformidad a las disposiciones contenidas en la Ley 584 de Fiscalización Superior y Rendición de Cuentas del Estado de Veracruz de Ignacio de la Llave, y demás existentes previa a la entrada en vigor de la presente Ley; así como, aquellos que se deriven de las funciones de fiscalización y revisión de la Cuenta Pública del Ejercicio 2016.
+
+Quinto. Las funciones de fiscalización y revisión del Órgano de Fiscalización Superior del Estado, previstas en la presente Ley, entrarán en vigor para la fiscalización de la Cuenta Pública correspondiente al Ejercicio 2017.
+
+Sexto. Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores, entrarán en vigor a partir del día siguiente al inicio de vigencia del presente Decreto.
+
+Séptimo. El Órgano de Fiscalización Superior del Estado deberá actualizar y publicar dentro del término de 60 días hábiles, a partir de la entrada en vigor de la presente Ley, su Reglamento Interior.
+
+Octavo. La estructura orgánica y el personal adscrito a la misma, del Órgano de Fiscalización Superior del Estado, continuará en funciones hasta en tanto no se modifique su Reglamento, por lo que, todas las actuaciones de su personal tendrán validez plena.
+
+Noveno. Todos los bienes muebles e inmuebles, archivos, expedientes, papeles de trabajo, documentos, recursos presupuestales y humanos con los que cuente el Órgano a la entrada en vigor de la presente Ley, continuarán formando parte de su estructura orgánica y patrimonio, en los términos que establezca esta misma y el Reglamento Interior de dicho Órgano.
+
+Décimo. Se ratifica el contenido de los acuerdos, circulares, guías, manuales de organización, de procedimientos, manuales de auditoría, y demás normativa que hubiere emitido el Órgano de Fiscalización Superior del Estado, los cuales mantendrán su vigencia hasta en tanto se sustituyan o, en su caso, se dejen sin efectos.
+
+Décimo primero. En lo que respecta a las responsabilidades administrativas que se deriven de la fiscalización superior de las Cuentas Públicas del Ejercicio 2017; los inicios de procedimientos de responsabilidades en contra de los Titulares, representantes legales y demás servidores públicos de los Entes Fiscalizables, o bien, de los sujetos de revisión respectivos, se atenderá a las disposiciones correspondientes en materia de responsabilidades administrativas, que resulten aplicables.
+
+Décimo segundo. En el caso de los Municipios, la información a que se refiere el artículo 27, fracción VII, de la presente Ley, deberá incluirse en la Cuenta Pública correspondiente al Ejercicio Fiscal 2018.
+
+Décimo tercero. El titular del Órgano, contará con 30 días hábiles a partir de la entrada en vigor de la presente Ley, para emitir y publicar el Reglamento para el Registro, Habilitación, Contratación, Control y Evaluación de los Despachos y Prestadores de Servicios Profesionales de Auditoría.
+
+Décimo cuarto. Los Convenios y contratos que hubiere celebrado el Órgano de Fiscalización Superior del Estado, con anterioridad a la entrada en vigor de la presente Ley, conservarán su valor y eficacia.
+
+Décimo quinto. En virtud de que con fundamento en el artículo 109 fracción III, de la Constitución Política de los Estados Unidos Mexicanos, 76 Bis de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, 11 y 115 de la Ley General de Responsabilidades Administrativas, se crean las áreas de investigación y substanciación en el Órgano de Fiscalización Superior del Estado, por lo que, el Congreso y la Secretaría de Finanzas y Planeación, deberán efectuar las provisiones y adecuaciones presupuestales para la implementación y cumplimiento de lo contenido en la presente Ley.
