@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-de-bienes-y-servicios-para-la-21177
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-26"
-last_updated: "2001-03-26"
+last_updated: "2017-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACION MUNICIPAL DEL MUNICIPIO DE EL CARMEN, NUEVO LEON
 
-REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACION MUNICIPAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL MUNICIPIO DE EL CARMEN, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE ADQUISICIONES DE BIENES Y SERVICIOS PARA LA ADMINISTRACIÓN MUNICIPAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 2001.
 
@@ -608,3 +610,15 @@ TESORERO MUNICIPAL
 C.P. JUAN JOSÉ CANTÚ GUZMÁN
 
 CONTRALOR MUNICIPAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 10 DE NOVIEMBRE DE 2017, SE APRUEBA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL MUNICIPIO DE EL CARMEN, N.L.".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y su cumplimiento es obligatorio dentro del territorio de este municipio.
+
+SEGUNDO.- Se abroga el Reglamento de Adquisiciones de Bienes y Servicios para La Administración Municipal de El Carmen, Nuevo León, publicado en el Periódico Oficial del Estado del día 26 de Marzo de 2001 y sus reformas y demás disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Publíquese el presente reglamento en el portal electrónico de Internet del municipio para (sic) cumplimiento del artículo 9 de la Ley de Acceso a la Información Pública del Estado de Nuevo León y en la Tabla de Avisos para su debida difusión. Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la Secretaría del Ayuntamiento, para su publicación en dicho órgano y se le dé el debido cumplimiento.
