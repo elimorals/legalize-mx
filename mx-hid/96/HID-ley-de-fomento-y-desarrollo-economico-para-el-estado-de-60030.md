@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-60030"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2015-11-16"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -39,7 +39,7 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 A N T E C E D E N T E S
 
-.
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -729,6 +729,30 @@ VI.- Suspender operaciones sin causa justificada; y
 
 VII.- Por incumplimiento a cualquier otra obligación que establezca esta Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 62 Bis.
+
+Para los efectos de esta Ley, sin perjuicio de las previstas en la legislación en materia de responsabilidades administrativas aplicables en el Estado, son constitutivas de infracciones las conductas realizadas por las y los servidores públicos que provoquen o puedan provocar la obstrucción de la gestión empresarial, de manera enunciativa más no limitativa, las cuales pueden consistir en:
+
+I.- Alteración de reglas y procedimientos;
+
+II.- Mala fe en el manejo de los documentos del particular o pérdida de éstos;
+
+III.- Deficiencia o mala fe en la integración de expedientes;
+
+IV.- Deficiencia o mala fe en la gestión de un trámite, o negativa a realizarlo sin que tenga su fundamentación y motivación respectiva;
+
+V.- Uso indebido de la información de los particulares;
+
+VI.- Deficiencia o mala fe en el seguimiento de trámites que dé lugar a la aplicación de la afirmativa ficta;
+
+VII.- Incumplimiento de los plazos de respuesta;
+
+VIII.- Cualquiera otra que pueda generar, intencionalmente, perjuicios o atrasos para la instalación, apertura, operación y/o ampliación de las empresas.
+
+Los servidores públicos que incurran en los supuestos previstos en el presente artículo, serán sancionados conforme al procedimiento administrativo previsto en la legislación en la materia.
+
 ###### Artículo 63.
 
 Para imponer las sanciones por las infracciones a que se refiere el Artículo anterior, se tomará en consideración:
@@ -804,3 +828,9 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a esta Ley.
 P.O. 16 DE NOVIEMBRE DE 2015.
 
 ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Hidalgo.
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 240 QUE ADICIONA EL ARTÍCULO 62 BIS A LA LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
