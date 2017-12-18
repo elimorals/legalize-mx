@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg379-2017-del-consejo-general-del-instituto-123399
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-09-19"
-last_updated: "2017-09-19"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123399&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-08-28"
 ---
 # ACUERDO INE/CG379/2017 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MARCO GEOGRAFICO ELECTORAL QUE SE UTILIZARA EN LOS PROCESOS ELECTORALES FEDERAL Y LOCALES 2017-2018
 
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN LA SEXTA SECCIÓN DEL D.O.F. DE 18 DE DICIEMBRE DE 2017, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MARCO GEOGRÁFICO ELECTORAL QUE SE UTILIZARÁ EN LOS PROCESOS ELECTORALES FEDERAL Y LOCALES 2017-2018
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2017.
 
 Acuerdo publicado en la Tercera Sección al Número 17 del Diario Oficial de la Federación, el martes 19 de septiembre de 2017.
 
@@ -31,7 +33,7 @@ ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRU
 
 ANTECEDENTES
 
-[…]
+[...]
 
 CONSIDERANDO
 
@@ -52,3 +54,29 @@ CUARTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
 El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 28 de agosto de 2017, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F 18 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE EN ACATAMIENTO A LA SENTENCIA EMITIDA POR LA H. SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RECAÍDA DENTRO DEL EXPEDIENTE SUP-JDC-827/2017, SE APRUEBA LA MODIFICACIÓN A LA CARTOGRAFÍA ELECTORAL RESPECTO DE LA GEORREFERENCIA DE LA LOCALIDAD DE CANAÁN CIUDAD DE LA LUZ AL MUNICIPIO DE TLALIXTAQUILLA DE MALDONADO, GUERRERO".]</small>
+
+PRIMERO. En acatamiento a lo ordenado por la H. Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, en la sentencia emitida en el expediente SUP-JDC-827/2017, se ordena la modificación a la Cartografía Electoral respecto de la georreferencia de la localidad de Canaán Ciudad de la Luz al municipio de Tlalixtaquilla de Maldonado, Guerrero, de conformidad con el ANEXO ÚNICO que forma parte integral del presente Acuerdo.
+
+SEGUNDO. Se modifica el Acuerdo INE/CG379/2017, por el cual se aprobó el Marco Geográfico Electoral que se utilizará en los Procesos Electorales Federal y Local 2017-2018, respecto del caso de actualización cartografía materia del presente Acuerdo.
+
+TERCERO. Infórmese a la H. Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, sobre el cumplimiento dado a la sentencia emitida en el Juicio para la Protección de los Derechos Político-Electorales del Ciudadano recaído en el expediente SUP-JDC-827/2017.
+
+CUARTO. Hágase del conocimiento de la Comisión Nacional de Vigilancia lo aprobado por este órgano superior de dirección.
+
+QUINTO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 22 de noviembre de 2017, por votación unánime de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Maestra Adriana Margarita Favela Herrera, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
+
+El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+Los anexos podrán ser consultados mediante la liga:
+
+http://www.ine.mx/sesion-ordinaria-del-consejo-general-22-noviembre-2017/)
