@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2017-12-01"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2073,7 +2073,7 @@ VIII.- Al que en pandilla o dentro de una asociación delictuosa o banda aceche,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2017)</small>
 
-IX.- Quien dañe, altere o impida el adecuado funcionamiento o monitoreo de cámaras de vigilancia en la vía pública o establecimientos con acceso al público instaladas para ser utilizadas por las instituciones de segundad pública.
+IX.- Quien dañe, altere o impida el adecuado funcionamiento o monitoreo de cámaras de vigilancia en la vía pública o establecimientos con acceso al público instaladas para ser utilizadas por las instituciones de seguridad pública.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. LXIII-160, PUBLICADO EN EL P.O. DE 21 DE ABRIL DE 2017, PÁGINA 10.]</small>
 
@@ -2113,15 +2113,19 @@ I.- El que obstruya, dañe o destruya alguna vía pública de comunicación esta
 
 II.- El que quite, corte, deteriore, apague, cambie o destruya las señales o luces de seguridad de una vía pública de comunicación estatal o coloque alguna no autorizada.
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-III.- El que dolosamente solicite un servicio a los sistemas estatales o municipales de comunicación de auxilio a la población, que impida o cause un perjuicio o trastorno que afecten el buen funcionamiento de dichos sistemas.
+III.- El que por cualquier medio reporte hechos falsos a los elementos de los policías estatales o municipales, cuerpo de bomberos, personal de instituciones públicas o privadas que presten servicios de emergencia o protección civil, que impida o cause un perjuicio o trastorno que afecten el buen funcionamiento de dichos sistemas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 173.
 
-Al responsable del delito previsto en el artículo anterior, se le impondrá una pena de tres a siete años de prisión y multa de treinta a cincuenta veces el valor diario de la Unidad de Medida y Actualización. Si la conducta tiene por objeto evadir la persecución o desempeño de las fuerzas armadas o de las instituciones de seguridad pública, la pena será de cuatro a ocho años de prisión y multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización.
+Al responsable del delito previsto en el artículo anterior, se le impondrá una pena de tres a siete años de prisión y multa de treinta a cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+
+Si la conducta tiene por objeto evadir la persecución o desempeño de las fuerzas armadas o de las instituciones de seguridad pública, la pena será de cuatro a ocho años de prisión y multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización.
+
+Si la comisión del delito se realiza por pandilla, asociación delictuosa o el autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada, se impondrá una sanción de cinco a diez años de prisión y multa de doscientas a setecientas veces el valor diario de la Unidad de Medida y Actualización.
 
 Cuando resulte algún otro delito se aplicarán las reglas del concurso.
 
@@ -3673,9 +3677,9 @@ Comete el delito de violación, el que por medio de la violencia física o moral
 
 Al responsable del delito de violación se le impondrá una sanción de diez a dieciocho años de prisión. Si la víctima fuere el cónyuge o concubina o concubinario, independientemente de su género, sólo se perseguirá por querella de la parte ofendida.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-Si la víctima del delito fuere menor de doce años, o quien no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la sanción será de 20 a 30 años de prisión.
+Si la víctima del delito fuere menor de catorce años, o quien no tenga capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la sanción será de 30 a 40 años de prisión.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -3687,13 +3691,15 @@ Se impondrá la misma sanción y se considerará como violación al que introduz
 
 Si la violación fuere precedida o acompañada de golpes o lesiones o se cometiere cualquier otro hecho delictuoso, se observarán las reglas del concurso real.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 275.
 
-Se equipará a la violación y se impondrá sanción de 15 a 25 años de prisión:
+Se equipara a la violación y se impondrá sanción de 20 a 30 años de prisión:
 
-I.- Al que sin violencia realice cópula con persona menor de doce años de edad;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+I.- Al que sin violencia realice cópula con persona menor de catorce años de edad.
 
 II.- Al que sin violencia realice cópula con persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo; y,
 
@@ -6594,6 +6600,22 @@ P.O. 1 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-370 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 172, FRACCIÓN III Y 173 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 78, DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-371 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 274 PÁRRAFO SEGUNDO Y 275 PÁRRAFO ÚNICO Y FRACCIÓN I, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMALIUPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO OCTAVO.
 
