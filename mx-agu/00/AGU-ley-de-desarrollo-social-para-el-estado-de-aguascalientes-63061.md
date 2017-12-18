@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2016-06-06"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -57,27 +57,51 @@ III. Establecer el Sistema Estatal de Desarrollo Social en el que participen el 
 
 IV. Delimitar la competencia de los gobiernos estatal y municipal en materia de desarrollo social, de acuerdo con lo dispuesto por la Ley General de Desarrollo Social, así como definir las bases para la concertación de acciones con los sectores social y privado;
 
-V. Fomentar la participación del sector social y privado que desee contribuir en este proceso de modo complementario al cumplimiento de la responsabilidad social del Estado;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+V. Fomentar el sector social de la economía, así como la participación del sector privado que desee contribuir en este proceso de modo complementario al cumplimiento de la responsabilidad social del Estado;
 
 VI. Establecer los criterios y mecanismos de coordinación de las acciones en la materia, que se realicen entre los gobiernos federal, estatal y municipal, a fin de vigilar que los recursos públicos asignados al desarrollo social se apliquen y ejerzan con oportunidad, equidad y transparencia;
 
 VII. Conjuntar los esfuerzos con el sector social y privado, a fin de impulsar el desarrollo económico de las Zonas de Atención Prioritaria en el Estado;
 
-VIII. Establecer mecanismos de evaluación y seguimiento de los programas y acciones de la Política Estatal de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-IX. Fomentar la participación de la ciudadanía y sus Organizaciones en el diseño, monitoreo y evaluación de las políticas de desarrollo social.
+VIII. Establecer mecanismos de evaluación y seguimiento de los programas y acciones de la Política Estatal de Desarrollo Social;
 
-###### Artículo 2º.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Social, el Consejo Estatal de Evaluación de la Política de Desarrollo Social, la Comisión de Desarrollo Social, el Sistema Estatal de Desarrollo Social y a los Municipios en el ámbito de sus respectivas competencias de acuerdo con lo establecido por la Ley General de Desarrollo Social, así como las que les corresponden, de acuerdo a sus atribuciones, al Poder Legislativo.
+IX. Fomentar la participación de la ciudadanía y sus Organizaciones en el diseño, monitoreo y evaluación de las políticas de desarrollo social;
 
-###### Artículo 3º.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones legales contenidas (sic) la Ley General de Desarrollo Social y en las demás leyes aplicables.
+X. Establecer y promover instrumentos de acceso a la justicia, a través de la denuncia ciudadana, en materia de desarrollo social;
 
-###### Artículo 4º.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-Queda prohibida cualquier práctica de discriminación y exclusión en la prestación de los bienes y servicios contenidos en los programas para el desarrollo social, ya sea de carácter político o religioso u otros, por el contrario, se debe reintegrar a los sectores de la población excluidos de este ámbito, así como fomentar la equidad de género.
+XI. Implementar y promover instrumentos de acceso a la información, transparencia y rendición de cuentas en la aplicación y ejecución de las políticas de desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+XII. La integración de un Padrón Único de Beneficiarios, que evite duplicidades en la entrega de apoyos y programas del Estado y los Municipios, con el fin de direccionar y canalizar dichos esfuerzos a las comunidades y personas que más lo necesiten.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 2°.
+
+La aplicación de la presente Ley Corresponde al Poder Ejecutivo del Estado por conducto de la Secretaría de Bienestar y Desarrollo Social, el Consejo Estatal de Evaluación de la Política de Desarrollo Social, la Comisión de Desarrollo Social, el Sistema Estatal de Desarrollo Social y a los Municipios en el ámbito de sus respectivas competencias de acuerdo con lo establecido por la Ley General de Desarrollo Social, así como las que les corresponden, de acuerdo a sus atribuciones, al Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 3°.
+
+En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones legales contenidas en la Ley General de Desarrollo Social y en las demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 4°.
+
+Queda prohibida cualquier práctica de discriminación y exclusión en la prestación de los bienes y servicios contenidos en los programas para el desarrollo social, ya sea de carácter político, religioso u otros, fomentando la reintegración de los sectores de la población excluidos de este ámbito, así como garantizando la igualdad y equidad de género.
 
 ###### Artículo 5º.
 
@@ -95,27 +119,37 @@ V. PARTICIPACIÓN SOCIAL: Derecho de las personas y Organizaciones a intervenir 
 
 VI. SUSTENTABILIDAD: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-VII. RESPETO A LA DIVERSIDAD: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, ideología, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias; y
+VII. RESPETO A LA DIVERSIDAD: Reconocimiento en términos de origen étnico, género, edad, personas con alguna discapacidad, condición social, condiciones de salud, religión, ideología, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
 
-VIII. TRANSPARENCIA: La información relativa al desarrollo social es pública en los términos de las leyes en la materia. El Estado garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+VIII. TRANSPARENCIA: La información relativa al desarrollo social es pública en los términos de las leyes de la materia. El Estado garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+IX. PERSPECTIVA DE GÉNERO: Garantizar la equidad e igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social, desde una visión científica, analítica, política y compensatoria sobre las mujeres y los hombres, que elimine las causas de la opresión, la desigualdad, la injusticia y la jerarquización de las personas.
 
 ###### Artículo 6º.
 
 Para efectos de la presente Ley, se consideran sujetos en la elaboración, ejecución, seguimiento y evaluación de la Política Estatal y Municipal de Desarrollo Social los siguientes:
 
-I. SECRETARÍA: La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+I. SECRETARÍA: La Secretaría de Bienestar y Desarrollo Social o su equivalente;
 
 II. REGIONES: A los Municipios y zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de las políticas de desarrollo social;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-III. SECTORES SOCIALES VULNERABLES: A las personas adultas mayores o con discapacidad, las madres solteras, niños y adolescentes que se encuentren en situación de vulnerabilidad social;
+III. SECTORES SOCIALES VULNERABLES: A las personas adultas mayores o con alguna discapacidad, las madres solteras, niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad social;
 
 IV. LEY: Ley de Desarrollo Social para el Estado de Aguascalientes;
 
-V. BENEFICIARIOS: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social que cumplen los requisitos de la normatividad correspondiente;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+V. BENEFICIARIOS: Aquellas personas que forman parte de la población atendida por los programas de desarrollo social;
 
 VI. COMISIÓN: La Comisión de Desarrollo Social del Estado de Aguascalientes;
 
@@ -127,7 +161,9 @@ IX. SISTEMA ESTATAL: Sistema Estatal de Desarrollo Social;
 
 X. ORGANIZACIONES: Agrupaciones civiles y sociales, legalmente constituidas, en las que participan personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
 
-XI. PADRÓN ÚNICO: Relación oficial única de Beneficiarios que incluye a personas atendidas por los programas federales, estatales y municipales de Desarrollo Social;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+XI. PADRÓN ÚNICO DE BENEFICIARIOS: Relación oficial única de Beneficiarios que incluye a personas atendidas por los programas federales, estatales y municipales de Desarrollo Social;
 
 XII. ZONA DE ATENCIÓN PRIORITARIA: Área o región, sea predominantemente rural o urbana, cuya población registra altos índices de pobreza y marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley;
 
@@ -139,17 +175,21 @@ XIV. COESPO: Consejo Estatal de Población.
 
 ### CAPÍTULO I. De los Derechos y Obligaciones de los Sujetos
 
-###### Artículo 7º.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-Los planes y programas del Estado, así como Municipales de Desarrollo Social, deberán guardar congruencia con el Federal y deberán contemplar prioritariamente y sin perjuicio de lo que otros ordenamientos dispongan, los siguientes; la educación, la salud, la nutrición y alimentación, la vivienda digna y decorosa, el disfrute de un medio ambiente sano y sustentable, la capacitación para el trabajo bien remunerado, la seguridad social, la equidad sin discriminación, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos.
+###### Artículo 7°.
+
+Los planes y programas del Estado, así como Municipales de Desarrollo Social, deberán guardar congruencia con el Federal y deberán contemplar prioritariamente y sin perjuicio de lo que otros ordenamientos dispongan, los siguientes: la educación, la salud, la nutrición y alimentación, la vivienda digna y decorosa, el disfrute de un medio ambiente sano y sustentable, la capacitación para el trabajo bien remunerado, la seguridad social, la igualdad sustantiva, y la equidad sin discriminación, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 8º.
 
 El Gobierno del Estado y los Municipios deberán vigilar que se cumplan y se respeten los derechos sociales de los sectores más vulnerables en el territorio de su competencia.
 
-###### Artículo 9º.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-Toda persona tiene derecho a participar y a beneficiarse de los programas de desarrollo social, siempre y cuando reúna los requisitos de corresponsabilidad que para el caso señale normatividad de cada programa.
+###### Artículo 9°.
+
+Toda persona tiene derecho a participar y a beneficiarse de los programas de desarrollo social, cubriendo los requisitos que para el caso señale la normatividad de cada programa.
 
 ###### Artículo 10.
 
@@ -163,7 +203,9 @@ El Gobierno del Estado y los Municipios, en sus respectivos ámbitos, formulará
 
 Los Beneficiarios de los programas de desarrollo social tienen los siguientes derechos:
 
-I. Recibir las prestaciones derivadas de los programas de desarrollo social, oportunamente bajo las reglas y formas de operación que estos mismos señalen;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+I. Presentar su solicitud de inclusión en los programas sociales y recibir un trato respetuoso, oportuno y con calidad en las prestaciones derivadas de los programas de desarrollo social, bajo las reglas y formas de operación que estos mismos señalen;
 
 II. Acceder a la información necesaria de dichos programas, sus reglas de operación, recursos y cobertura;
 
@@ -187,21 +229,49 @@ IV. Cumplir la normatividad de los programas de desarrollo social.
 
 ### CAPÍTULO II. Del Padrón Único de Beneficiarios
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 14.
 
-El Gobierno del Estado y los Municipios, en sus ámbitos de competencia, integrarán sus padrones de Beneficiarios.
+Con el propósito de asegurar la equidad, eficacia y transparencia de los programas de Desarrollo Social, el Gobierno Estatal, por conducto de la Secretaría, así como los Ayuntamientos en el ámbito de sus respectivas competencias; integrarán al Padrón Único de Beneficiarios de sus respectivos programas de desarrollo social.
+
+El Padrón Único de Beneficiarios es la relación oficial de beneficiarios que incluye la información sobre las personas atendidas por los programas sociales Estatales y Municipales, relacionados con derechos sociales o de bienestar económico. Dicha información será de libre acceso y consulta.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 15.
 
-La Secretaría de Desarrollo Social integrará un Padrón Único conformado por los padrones municipales y el padrón estatal, y éste podrá ser remitido al Consejo a solicitud de éste, con el fin de evitar duplicidad en los padrones.
+El Padrón Único de Beneficiarios tendrá los siguientes objetivos:
+
+I. Integrar la información sobre los programas sociales y sus padrones de beneficiarios en un sistema de información único, de cobertura estatal, municipal y de carácter público, con el objetivo de fortalecer la coordinación, complementariedad y transparencia o de la política de desarrollo social;
+
+II. Consolidar un sistema de información único que mediante los identificadores que al efecto utilice, permita relacionar a cada uno de los beneficiarios con los apoyos que recibe, con el propósito de identificar y corregir las duplicidades de atención y promover una distribución más equitativa, oportuna y transparente de los recursos;
+
+III. Apoyar el cumplimiento de los criterios y requisitos de elegibilidad para ser beneficiario, verificando que las personas que reciban apoyos o servicios correspondan con la población objetivo definida en las reglas o lineamientos de operación correspondientes; y
+
+IV. Generar información sobre la distribución geográfica y características socioeconómicas de los beneficiarios de los programas sociales para identificar las necesidades y prioridades de atención, así como apoyar su seguimiento y evaluación.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 16.
 
-El Poder Ejecutivo Estatal dará a conocer y publicará en el Periódico Oficial del Gobierno del Estado, los lineamientos generales para la integración y actualización del padrón de Beneficiarios.
+El Padrón Único de Beneficiarios contendrá cuando menos lo previsto por la Fracción XV del Artículo 70 de la Ley General de Transparencia y Acceso a la Información Pública.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-Los Ayuntamientos determinarán en sesión de cabildo, los lineamientos y requisitos para la integración y actualización del padrón de Beneficiarios de los programas municipales, instruyendo la difusión correspondiente.
+El Gobierno del Estado y los Municipios, que tengan bajo su cargo la ejecución de programas o acciones de desarrollo social deberán sujetarse a lo siguiente:
+
+I. Integrar un padrón único de beneficiarios;
+
+II. Publicar en el Periódico Oficial del Estado de Aguascalientes las reglas de operación de los programas sociales Estatales y para el caso de programas Municipales deberán ser publicadas en sus gacetas o estrados Municipales, de manera que se publique un catálogo de programas sociales, los mecanismos de focalización y criterios de elegibilidad;
+
+II (SIC). Los convenios de coordinación técnica serán instrumentos de convergencia de las políticas, programas y acciones de desarrollo social, en relación a las dependencias de la administración pública para integrar bases de datos en relación a sus acciones, programas y beneficiarios;
+
+III. En el caso de los programas y acciones que no se ejecuten de manera coordinada, las dependencias o entidades ejecutoras pondrán a disposición de los otros ámbitos de gobierno la información en formato electrónico, relativa a los programas y acciones a realizar en su ámbito territorial, a fin de ser incorporados al Padrón Único de Beneficiarios; y
+
+IV. Cuando exista coincidencia en la población objetivo de los beneficios, el tipo de apoyo o la naturaleza de los programas que ejecuten dos o los tres ámbitos de gobierno, deberá establecerse la forma de evitar duplicidades vía los Convenios o Acuerdos de Coordinación Técnica.
 
 ## TÍTULO TERCERO. DE LA POLÍTICA ESTATAL DE DESARROLLO SOCIAL
 
@@ -269,37 +339,47 @@ IV. Infraestructura social básica; y
 
 V. Fomento del sector social a la economía.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 26.
 
-La Elaboración del Programa Estatal de Desarrollo Social estará a cargo del Poder Ejecutivo del Estado, en los términos y condiciones de la Ley de Planeación para el Estado de Aguascalientes.
+La elaboración de los Programas Sectoriales y el programa Estatal de Desarrollo Social estarán a cargo del Poder Ejecutivo del Estado, en los términos y condiciones que marca la Ley de Planeación del Desarrollo Estatal y Regional del Estado de Aguascalientes.
 
 ### CAPÍTULO III. De la Publicidad de los Programas de Desarrollo Social
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-El Gobierno del Estado en un plazo máximo de noventa días, a partir de la aprobación del presupuesto anual de egresos, deberá elaborar y publicar en el Periódico Oficial del Estado, las reglas de operación de los Programas de Desarrollo Social.
+El Gobierno del Estado en un plazo máximo de noventa días, a partir de la aprobación del presupuesto anual de egresos, deberá elaborar y publicar en el Periódico Oficial del Estado de Aguascalientes, las reglas de operación de los programas de desarrollo social, así como la metodología, normatividad y calendarización.
 
 ###### Artículo 28.
 
 La distribución que se haga de los recursos federales a Municipios para el desarrollo social será publicada en el Periódico Oficial del Estado, en un plazo máximo de treinta días, a partir de que se obtengan recursos extraordinarios de la Federación.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-Toda publicidad de los programas de desarrollo social deberá incluir la siguiente leyenda: “Este programa es público, queda prohibido su uso para fines políticos, quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado ante las autoridades conforme a lo que dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes”.
+Toda publicidad de los programas de desarrollo social deberá incluir la siguiente leyenda: "Este programa es público ajeno a cualquier partido político, queda prohibido su uso para fines políticos, quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado ante las autoridades conforme a lo que dispone la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes”.
 
-Así mismo, toda publicidad e información relativa a los programas de desarrollo social federales, estatales o municipales atenderá a los términos y plazos fijados por el Código Federal de Instituciones y Procedimientos Electorales y el Código Electoral del Estado de Aguascalientes en vigencia.
+Asimismo, toda publicidad e información relativa a los programas de desarrollo social federales, estatales o municipales atenderá a los términos y plazos fijados por la normatividad electoral federal y local.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 30.
 
-Los Municipios en el mismo plazo que señala el Artículo anterior, deberán publicar en su gaceta municipal u órgano oficial de difusión, los Programas de Desarrollo Social de los que puedan ser beneficiados sus habitantes, así como el monto y la distribución de los recursos que les fueron entregados y para la implementación de estos programas, se publicará a qué programas se destinarán y cuánto corresponde a cada Municipio, así como las listas de Beneficiarios. En caso de que no se cuente con gaceta municipal, la publicación se hará en los estrados de la Presidencia Municipal.
+Los Municipios en el mismo plazo que señala el Artículo 27 de esta Ley; deberán publicar en el Periódico Oficial del Estado de Aguascalientes o en su caso en la gaceta o estrado Municipal, los programas de desarrollo social así como su metodología, normatividad y calendarización de los que puedan ser beneficiados sus habitantes, así como el monto y la distribución de los recursos que les fueron entregados para la implementación de estos programas, se publicará a qué programas se destinarán y cuánto corresponde a cada Municipio, así como las listas de beneficiarios.
 
 ###### Artículo 31.
 
 La publicidad y la información relativa a todos los programas sociales deberán identificarse con el escudo del Estado, o del Municipio que corresponda y en los casos de participación conjunta con el de ambos.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 32.
 
-Además de las obligaciones que señalan los Artículos anteriores, el Gobierno del Estado, los Municipios y al (sic) Consejo implementarán campañas de difusión masivas para que toda la población se entere del contenido, reglas de operación y beneficios de los Programas de Desarrollo Social que se aplican en el Estado.
+Además de las obligaciones que señalan los Artículos anteriores, el gobierno del Estado, los Municipios y el Consejo implementarán campañas de difusión masivas por distintos medios de comunicación para que toda la población se entere del contenido, reglas de operación y beneficios de los programas de desarrollo social que se aplican en el Estado.
 
 ###### Artículo 33.
 
@@ -333,7 +413,17 @@ I. Los programas de educación obligatoria;
 
 II. Las campañas de prevención y control de enfermedades transmisibles y los programas de atención médica;
 
-III. Los programas dirigidos a las personas en condiciones de pobreza, marginación o en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+III. Los programas y políticas públicas dirigidos a personas en condiciones de pobreza o sectores sociales vulnerables, siempre que tengan por objeto:
+
+a) Superar la pobreza;
+
+b) Superar la marginación;
+
+c) Abatir el hambre;
+
+d) Disminuir la desigualdad social.
 
 IV. Los programas dirigidos a zonas de atención prioritaria;
 
@@ -371,7 +461,7 @@ Los recursos destinados al desarrollo social podrán complementarse con recursos
 
 ###### Artículo 40.
 
-Anualmente, dentro de los primeros quince días del mes de enero, se deberán publicar en el Periódico Oficial del Estado o en la Gaceta Oficial, según corresponda, las reglas de operación de los programas de desarrollo social incluidos en el Presupuesto de Egresos del Estado y los Municipios, así como la metodología, normatividad y calendarización.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO V. Del Fondo Social
 
@@ -383,13 +473,17 @@ El Poder Ejecutivo del Estado deberá establecer en el Presupuesto de Egresos de
 
 El Fondo de Contingencia Social, podrá conformarse además con recursos que aporten los Municipios y organismos nacionales, internacionales y los sectores social y privado.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-Los programas financiados a través del fondo deberán ser puestos a consideración y aprobados por el Consejo Estatal de Evaluación de la Política de Desarrollo Social y evaluados por el H. Congreso del Estado a través de la Comisión de Vigilancia y el Órgano Superior de Fiscalización, en términos de la ley Superior de Fiscalización del Estado de Aguascalientes.
+Los programas financiados a través del fondo deberán ser puestos a consideración y aprobados por el Consejo y evaluados por el Congreso del Estado a través de la Comisión de Vigilancia y el Órgano Superior de Fiscalización, en términos de la Ley de Fiscalización Superior del Estado de Aguascalientes, asimismo la Comisión de Desarrollo Social hará lo propio para evaluar los resultados en materia de política social.
 
-## TÍTULO CUARTO. DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO I. De la Participación Social
+## TÍTULO CUARTO. DE LA PARTICIPACIÓN DEL SECTOR SOCIAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO I. De las Organizaciones de la Sociedad Civil
 
 ###### Artículo 43.
 
@@ -399,35 +493,39 @@ La Secretaría y los Ayuntamientos fomentarán el derecho de la sociedad a parti
 
 Las dependencias estatales y municipales encargadas de desarrollo social promoverán y propiciarán la organización social, como el medio idóneo de acercar programas, servicios y acciones del desarrollo humano colectivo.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 45.
 
-Las organizaciones sociales podrán participar corresponsablemente con el gobierno, en la ejecución de políticas de desarrollo social, así como, generar iniciativas de proyectos y programas que serán presentadas a la Secretaría.
+Las Organizaciones podrán participar corresponsablemente con el gobierno, en la ejecución de políticas de desarrollo social, así como, generar iniciativas de proyectos y programas que serán presentadas a la Secretaría.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 46.
 
-De ser el caso, la sociedad organizada podría recibir recursos o fondos públicos para operar programas para el desarrollo social, quedando sujetas a la supervisión, control y vigilancia de las autoridades competentes y a la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, así como a las disposiciones establecidas en la presente Ley, sin perjuicio de lo que establezcan las leyes respectivas para el uso de fondos públicos.
+Las Organizaciones legalmente constituidas podrán recibir acciones de fomento a sus actividades y recursos públicos para operar programas para el desarrollo social en términos de la Ley de Fomento a las Organizaciones de la Sociedad Civil del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 47.
 
-Las autoridades para la aplicación de esta Ley, en el ámbito de sus respectivas competencias, deberán apoyar la organización, promoción y participación de los grupos sociales mediante:
+La Secretaría para el cumplimiento del Artículo anterior integrará en las estimaciones presupuestales enviadas al Ejecutivo Estatal, un fondo de fomento a las actividades de las Organizaciones, observando para ello, los mecanismos de asignación de recursos previstos por la Ley de Fomento a las Organizaciones de la Sociedad Civil del Estado de Aguascalientes.
 
-I. La regulación de los mecanismos de coordinación, concertación y participación que permita vincular los programas, estrategias y recursos para el desarrollo social;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-II. El establecimiento de procedimientos documentales, ágiles y sencillos; de transparencia en la información;
+### CAPÍTULO II. Del Fomento del Sector Social de la Economía
 
-III. La inscripción de la sociedad organizada en el registro social a cargo de la Secretaría; y
-
-IV. El otorgamiento de constancias, estímulos públicos, asesoría y capacitación para implementar programas y proyectos para el desarrollo social.
-
-### CAPÍTULO II. Del Registro Social
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 48.
 
-La Secretaría constituirá y mantendrá actualizado el Registro Social del Estado, con el objeto de registrar los datos de los grupos sociales organizados, que contribuyan con sus acciones al desarrollo social de las Regiones de la Entidad.
+Los municipios y el Gobierno del Estado fomentarán las actividades productivas para promover la generación de empleos e ingresos de personas, familias, grupos y organizaciones productivas.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 49.
 
-La Secretaría implementará los mecanismos de coordinación necesarios, para que el registro social del Estado sea actualizado permanentemente.
+Los municipios y el Gobierno del Estado estimularán la organización de personas familias y grupos sociales, destinando recursos públicos para promover proyectos productivos; identificar oportunidades de inversión, y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de éstas actividades.
 
 ###### Artículo 50.
 
@@ -443,41 +541,19 @@ IV. Dar seguimiento a las acciones y cumplimiento de los programas de la socieda
 
 ###### Artículo 51.
 
-La sociedad organizada que solicite el manejo de programas o acciones para el desarrollo social, así como las constancias del cumplimiento de su objeto social, deberá inscribirse en el registro social estatal y presentar su solicitud por escrito, acompañada de los siguientes documentos:
-
-I. Copia certificada del acta constitutiva, acta de asamblea, contrato o documento generador de la organización, debidamente inscrito en el registro público competente;
-
-II. Denominación, objeto, estatutos y domicilio legal;
-
-III. Copia certificada actualizada del poder del representante, debidamente inscrito en el registro público competente;
-
-IV. Referencia de antecedentes de participación social; en caso de que existan; y
-
-V. Las demás que solicite la Secretaría.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 52.
 
-La Secretaría, con base en la solicitud e información proporcionada por los interesados, instruirá su registro inmediato y solicitará, en caso de ser necesaria, la inclusión de esta solicitud en la sesión inmediata siguiente del Consejo Estatal.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 53.
 
-La solicitud de la participación social en los programas de desarrollo social, así como en el manejo y administración de recursos públicos podrá ser negada, si no se cumple con alguno de los requisitos establecidos en esta Ley, o la documentación exhibida sea incorrecta o falsa.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 54.
 
-La Sociedad organizada inscrita en el Registro Social del Estado, tendrá además de las obligaciones previstas en otras disposiciones jurídicas relativas y aplicables, las siguientes:
-
-I. Informar a la Secretaría, cualquier modificación de su objeto, domicilio, representación legal o estatutos en un plazo no mayor a treinta días hábiles contados a partir de la misma, a efecto de mantener actualizado el Registro Social a que se refiere este Título;
-
-II. Mantener a disposición de las autoridades competentes, la información relativa a las actividades que realicen, así como las facilidades para la supervisión correspondiente;
-
-III. Abstenerse de efectuar actividades políticas o partidistas, así como realizar proselitismo o propaganda con fines religiosos con los recursos asignados al cumplimiento de las acciones concertadas;
-
-IV. Cumplir con su objeto social con base en los principios de la Política de Desarrollo Social establecidos en la presente Ley;
-
-V. Llevar a cabo los registros y operaciones correspondientes conforme a las disposiciones que rigen el sistema financiero y aduanal mexicano en caso de obtener recursos económicos del extranjero; y
-
-VI. Las demás inherentes al cumplimiento de su objeto social en los términos de las disposiciones jurídicas relativas y aplicables.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ## TÍTULO QUINTO. DEL SISTEMA DE DESARROLLO ESTATAL
 
@@ -497,17 +573,29 @@ II. Promover la vinculación y la congruencia de los programas, acciones e inver
 
 III. Incentivar la participación de las personas, familias y organizaciones sociales y, en general, de los sectores social y privado en el desarrollo social;
 
-IV. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la Política Estatal; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-V. Vigilar y asegurar que los recursos asignados para el desarrollo social sean ejercidos con honradez, oportunidad, transparencia y equidad, garantizando la rendición de cuentas de las políticas públicas de Desarrollo Social.
+IV. Coordinar las acciones orientadas a la consecución de los objetivos, estrategias y prioridades de la Política Estatal;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+V. Vigilar y asegurar que los recursos asignados para el desarrollo social sean ejercidos con honradez, oportunidad, transparencia y equidad, garantizando la rendición de cuentas de las políticas públicas de Desarrollo Social; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+VI. Integrar la participación de los sectores público, social y privado en el cumplimiento de los objetivos, estrategias y prioridades.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 57.
 
-Para el adecuado funcionamiento del sistema, la Secretaría coordinará las acciones de desarrollo social con los organismos ejecutores de los programas.
+Para el adecuado funcionamiento del Sistema Estatal, la Secretaría coordinará las acciones de desarrollo social con los organismos ejecutores de los programas.
 
 Al Sistema Estatal además de la Secretaría se integrarán las siguientes dependencias del Poder Ejecutivo:
 
-La Comisión de Desarrollo Agropecuario, la Secretaría de Finanzas, la Secretaría de Planeación y Desarrollo Regional, el Instituto de Salud del Estado de Aguascalientes, el Instituto de Vivienda del Estado de Aguascalientes, la Secretaría de Desarrollo Económico, la Secretaría de Obras Públicas, el Instituto de Educación del Estado de Aguascalientes, el Instituto del Medio Ambiente del Estado de Aguascalientes y el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Desarrollo Rural y Agroempresarial, la Secretaría de Finanzas, la Coordinación Estatal de Planeación y Proyectos, la Secretaría de Gestión Urbanística y Ordenamiento territorial, el Instituto de Servicios de Salud del Estado de Aguascalientes, el Instituto de Vivienda Social y Ordenamiento de la Propiedad, la Secretaría de Desarrollo Económico, la Secretaría de Infraestructura y Comunicaciones, el Instituto de Educación de Aguascalientes, la Secretaría del Medio Ambiente y el Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes.
 
 Al sistema podrán adherirse las dependencias, organismos o instituciones vinculadas al desarrollo social de la entidad.
 
@@ -549,49 +637,57 @@ La Comisión de Desarrollo Social es un organismo de coordinación, apoyo y vinc
 
 La Comisión de Desarrollo Social será presidida por el Titular del Poder Ejecutivo del Estado y estará integrada de la manera siguiente:
 
-I. El Titular de la Secretaría, quién tendrá a cargo la coordinación ejecutiva y suplirá al Titular del Poder Ejecutivo en casos de ausencia;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-II. Por el Presidente de la Comisión de Desarrollo Social del Congreso del Estado;
+I. De forma permanente:
 
-III. Por los titulares de las siguientes dependencias y Secretarías del Estado de Aguascalientes:
+a) El Titular de la Secretaría, quién tendrá a cargo la coordinación ejecutiva y suplirá al titular del Poder Ejecutivo en casos de ausencia;
+
+b) Por el Presidente de la Comisión de Desarrollo Social del Congreso del Estado;
+
+c) El titular de la Secretaría de Finanzas;
+
+d) Los Alcaldes de cada municipio o en quien estos deleguen dicha función; y
+
+e) El titular de la Secretaría de Gobierno.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+II. De forma temporal, cuando por un tema o asunto así lo requiera, se podrá integrar el titular respectivo de las siguientes dependencias:
 
 a) La Secretaría de Desarrollo Económico;
 
-b) La Secretaría de Finanzas;
+b) La Secretaría de Gestión Urbanística y Ordenamiento Territorial;
 
-c) La Secretaría de Gestión e Innovación;
+c) La Coordinación Estatal de Planeación y Proyectos;
 
-d) La Secretaría de Obras Públicas;
+d) La Secretaría de Desarrollo Rural y Agroempresarial;
 
-e) La Secretaría de Planeación y Desarrollo Regional;
+e) El Instituto Cultural de Aguascalientes;
 
-f) La Comisión para el Desarrollo Agropecuario;
+f) El Instituto de Educación de Aguascalientes;
 
-g) El Instituto Cultural de Aguascalientes;
+g) El Instituto del Deporte del Estado de Aguascalientes;
 
-h) El Instituto de Educación de Aguascalientes;
+h) El Instituto de Servicios de Salud del Estado de Aguascalientes;
 
-i) El Instituto Aguascalentense del Deporte;
+i) El Instituto de Vivienda Social y Ordenamiento de la propiedad;
 
-j) El Instituto de Salud de Aguascalientes;
+j) El Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes;
 
-k) El Instituto de Vivienda del Estado de Aguascalientes;
+k) La Secretaría de la Juventud de Aguascalientes;
 
-l) El Instituto de Seguridad y Servicios Sociales para los Trabajadores al Servicio del Estado de Aguascalientes;
+l) El Instituto Aguascalentense de la Mujer;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2014)</small>
+m) Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; y
 
-m) La Secretaría de la Juventud;
+n) El Instituto del Agua del Estado.
 
-n) El Instituto Aguascalentense de la Mujer;
+III. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2017)
 
-o) Sistema para el Desarrollo Integral de la Familia del Estado de
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-Aguascalientes; y
-
-p) Un representante por cada Ayuntamiento.
-
-Además podrán participar como invitados, el Delegado de la Secretaría de Desarrollo Social del Gobierno Federal en el Estado y los demás funcionarios que considere necesario integrar el Titular del Poder Ejecutivo del Estado.
+Además podrán participar como invitados, el Delegado de la Secretaría de Desarrollo Social del Gobierno Federal en el Estado y los demás funcionarios que considere necesario invitar el órgano permanente de la Comisión.
 
 ###### Artículo 62.
 
@@ -619,15 +715,25 @@ Dicho Consejo estará integrado por:
 
 I. Un representante del Poder Ejecutivo, que será el Titular de la Secretaría de Desarrollo Social;
 
-II. Un representante del Congreso del Estado, que será el Presidente de la Comisión de Desarrollo Social;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-III. Dos representantes de los Ayuntamientos en el Estado;
+II. Un Secretario Técnico, el cual será designado de una terna propuesta por la Secretaría y aprobada por la Comisión de Desarrollo Social del Congreso del Estado, cumpliendo el perfil de experto en desarrollo social, que no pertenezca a ningún partido político, ni se encuentre laborando para alguna dependencia gubernamental, independiente y de reconocida solvencia moral;
 
-IV. Tres representantes de organismos sociales y civiles que no pertenezcan a ningún partido político, ni se encuentren laborando para alguna dependencia gubernamental, independientes y de reconocida solvencia moral; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-V. Un experto en Desarrollo Social, que no pertenezca a ningún partido político, ni se encuentre laborando para alguna dependencia gubernamental, independiente y de reconocida solvencia moral.
+III. Un representante del Congreso del Estado, que será el Presidente de la Comisión de Desarrollo Social;
 
-El Consejo será presidido por el Titular de la Secretaría de Desarrollo Social, tomará sus decisiones de manera colegiada y sesionará cuando menos una vez al mes.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+IV. Tres representantes de organismos sociales y civiles que no pertenezcan a ningún partido político, ni se encuentren laborando para alguna dependencia gubernamental, independientes y de reconocida solvencia moral, que serán electos por la Comisión de Desarrollo Social del Congreso del Estado de una lista conformada de diez perfiles propuesta por la Secretaría en consulta con el Secretario Técnico del Consejo, durarán en su encargo tres años y podrán ser reelectos por un periodo más; y
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+V. Dos representantes de los Ayuntamientos en el Estado, que serán integrados de manera rotativa en orden alfabético cada seis meses.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+El Consejo será presidido por el Titular de la Secretaría, tomará sus decisiones de manera colegiada y sesionará cuando menos una vez al mes; el Secretario Técnico durará en su encargo seis años y podrá ser removido por causas graves a petición de algún miembro del Consejo y aprobada su remoción por la mayoría absoluta del Consejo; los representantes de los organismos sociales y civiles durarán en su encargo tres años y podrán ser sustituidos de manera permanente si abandonan su encargo y no atienden más de dos sesiones consecutivas.
 
 ###### Artículo 65.
 
@@ -673,11 +779,17 @@ Los Municipios podrán constituir Consejos Municipales de Desarrollo Social de a
 
 ## TÍTULO SEXTO. DE LA EVALUACIÓN
 
-### CAPÍTULO ÚNICO. Disposiciones Generales
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 68.
 
 La evaluación de los programas de la Política Social, se realizará sobre el avance de los indicadores de medición del Desarrollo Social, dicha evaluación nos permitirá conocer si los programas y proyectos de Desarrollo Social aplicados en cada región, dieron los resultados esperados e identificar las desviaciones en la aplicación de los mismos y en su caso, reorientar y/o reforzar la normatividad de la Política Estatal de Desarrollo Social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+Esta evaluación será responsabilidad del Consejo y en su caso podrá estar a cargo de instituciones académicas y científicas que colaboren para tal efecto, cuando asilo delegue el Consejo, para lo cual emitirá y difundirá la convocatoria correspondiente.
 
 ###### Artículo 69.
 
@@ -713,11 +825,59 @@ Dicha evaluación será independiente de la que realice el Congreso del Estado e
 
 Los resultados de la evaluación permitirán cuantificar y determinar las desviaciones y actualizar los programas sociales, mejorar las estrategias y las líneas de acción. Se incluirán anualmente en su caso, los proyectos o programas propuestos por la sociedad; y se establecerán los sistemas de mejora continua.
 
-### CAPÍTULO I. De la Contraloría Social
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO II. De los Comités de Participación Ciudadana
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 71-A.
+
+Los Comités de Participación Ciudadana son organismos ciudadanizados, auxiliares de la Secretaría y que se constituyen para lograr la mejora y evaluación de programas y acciones del desarrollo social, que atañen a una cuadra, manzana, barrio, colonia, fraccionamiento o comunidad determinada; así como fomentar la participación social, voluntaria, ordenada y responsable del ciudadano en la toma de decisiones gubernamentales.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 71-B.
+
+Los Comités de Participación Ciudadana se integrarán por cinco ciudadanos vecinos de la colonia, fraccionamiento o comunidad de que se trate y que tendrán los cargos siguientes:
+
+I. Un Presidente;
+
+II. Un Secretario; y
+
+III. Tres vocales.
+
+Los cargos serán honoríficos y sus integrantes permanecerán en ellos por un periodo de tres años o hasta la disolución del Comité correspondiente.
+
+Su elección se hará por el voto democrático de la mayoría de vecinos presentes en asamblea pública, mediante convocatoria previa, de ser necesario hasta en tres ocasiones. Dicha convocatoria irá dirigida a las personas mayores de 18 años, e indicará la hora el día, el lugar y el asunto a tratar, procurando que asista el mayor número de vecinos.
+
+Será Presidente el que obtenga el mayor número de votos, Secretario el que obtenga el segundo lugar en número de votos, y vocales los tres siguientes en número de votos. Siempre que para ello medie la firma de ellos con su aceptación libre, responsable y voluntaria.
+
+Podrán ser removidos de su cargo por el voto de la mayoría de los integrantes restantes del Comité de Participación Ciudadana.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 71-C.
+
+Las atribuciones de los Comités de Participación Ciudadana son:
+
+I. Analizar los problemas locales, priorizar las necesidades y proponerlas mediante informe a la Secretaría;
+
+II. Remover, por causa justificada y previo acuerdo de los demás integrantes del Comité, a cualquiera de sus miembros;
+
+III. Elaborar conjuntamente propuestas de mejora sobre los programas de desarrollo social, y proponerlas a la Secretaría;
+
+IV. Participar conjuntamente con las dependencias del Gobierno del Estado y los Municipios en programas que éstas emprendan de beneficio público;
+
+V. Realizar la vigilancia, control y seguimiento de las obras, acciones y proyectos aprobados y ejecutados por las dependencias del Gobierno del Estado y los Municipios; y
+
+VI. Gestionar ante las dependencias del Gobierno del Estado y los Municipios sobre las necesidades en materia de desarrollo social, que resulten más sentidas para los vecinos que representan.
+
+Sus reuniones se celebrarán periódicamente en el lugar, día y hora que éstos elijan. Los acuerdos se tomarán por mayoría de votos mediante votación económica o secreta.
 
 ## TÍTULO SÉPTIMO. DE LAS INSTANCIAS DE INCONFORMIDAD
 
-### CAPÍTULO II. De la Denuncia Ciudadana
+### CAPÍTULO I. De la Contraloría Social
 
 ###### Artículo 72.
 
@@ -731,33 +891,55 @@ Toda persona u organización de la sociedad civil podrá presentar ante la contr
 
 Las contralorías internas de las dependencias y entidades del Poder Ejecutivo y las de los Municipios, integrarán al inicio de cada ejercicio fiscal, en su programa anual de auditoría, las acciones que consideren, para verificar el ejercicio de los recursos públicos destinados al Desarrollo Social, con el cumplimiento de los objetivos y metas señaladas en el plan y los programas, así como de la debida observancia de esta Ley.
 
-### CAPÍTULO III. De las Infracciones y Sanciones
+### CAPÍTULO II. De la Denuncia Ciudadana
 
 ###### Artículo 75.
 
 Esta Ley garantiza el pleno ejercicio de la denuncia ciudadana, como un instrumento de vigilancia en materia de desarrollo social.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 76.
 
-Cualquier persona podrá denunciar ante la Contraloría Social los hechos que a su juicio impliquen incumplimiento de obligaciones, de las personas o los servidores públicos sujetos de esta Ley, para que las autoridades competentes determinen si existe o no responsabilidad administrativa, e impongan las sanciones correspondientes en su caso.
+Toda persona u organización podrá presentar denuncia ante la Contraloría Social sobre cualquier hecho, acto u omisión, que a su juicio produzca o pueda producir daños al ejercicio de los derechos establecidos en esta Ley o contravengan sus disposiciones y de los demás ordenamientos que regulen materias relacionadas con el desarrollo social. Para que las autoridades competentes determinen si existe o no responsabilidad administrativa, e impongan las sanciones correspondientes según sea el caso.
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2016)</small>
+Cuando exista además una violación a los derechos humanos o la comisión de un delito derivado de actos de algún servidor público relacionado con las disposiciones de esta Ley, podrá el denunciante acudir de forma concurrente ante las autoridades competentes.
+
+Todo servidor público que tenga conocimiento de violación, faltas a esta Ley o tiene conocimiento de que alguien es vulnerado en sus derechos está obligado a denunciar.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 77.
 
-La Contraloría al tener conocimiento de las denuncias presentadas deberá actuar de manera inmediata, de conformidad con los procedimientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y el Código Nacional de Procedimientos Penales.
+La Contraloría Social al tener conocimiento de las denuncias presentadas deberá actuar de manera inmediata, de conformidad con los procedimientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y la Legislación Penal aplicable.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 78.
 
-La denuncia popular se deberá presentar por escrito y contener:
+La denuncia ciudadana podrá presentarse por cualquier persona, de forma escrita, oral, telefónica, por correo con porte pagado o por medios electrónicos, así mismo podrá presentarse en forma directa ante la contraloría social.
 
-I. Nombre o razón social y domicilio del denunciante o en su caso del representante legal;
+Cuando se haga por escrito, podrá presentarse mediante formato que deberá estar disponible en idioma español y formato braille que proporcione la Contraloría Social o bien mediante escrito libre, con firma o huella digital, el cual debe contener:
+
+I. Nombre o razón social del promovente y en su caso, el de su representante; así como Domicilio para oír y recibir notificaciones;
 
 II. La descripción de los actos, hechos u omisiones denunciados;
 
-III. Los datos que permitan identificar a la presunta autoridad, funcionario infractor o responsable; y
+III. Los datos que permitan identificar a la autoridad infractora; en el supuesto de que el denunciante no cuente con dichos datos, la denuncia será admitida, si procede, bajo la condición de que se logre la identificación en la investigación de los hechos; y
 
-IV. Las pruebas que ofrezca el denunciante.
+IV. En caso de contar con pruebas, éstas deberán adjuntarse al escrito.
+
+Cuando la presentación de la denuncia sea en forma oral, el servidor público tomará nota de la información que debe registrarse en el formato respectivo.
+
+Cuando la denuncia se presente por vía telefónica, el servidor público levantará una certificación para hacer constar la información proporcionada.
+
+Cuando se trate de hechos de impacto social la autoridad competente podrá iniciar la investigación administrativa de oficio.
+
+La Secretaría deberá tener disponible en su página electrónica, formato en idioma español y orientación en audio a fin de hacer asequible la presentación de denuncia ciudadana.
+
+Si el denunciante solicita guardar secreto respecto de su identidad, por razones de seguridad e interés particular, se llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables le otorgan.
+
+### CAPÍTULO III. De las Infracciones y Sanciones
 
 ###### Artículo 79.
 
@@ -779,9 +961,17 @@ Constituyen además infracciones a la presente Ley, las siguientes:
 
 I. Realizar actividades de autobeneficio o de beneficio mutuo con recursos públicos;
 
-II. No aplicar los recursos públicos que reciban a los fines para los que fueron autorizados; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-III. No cumplir con el objeto social para el cual fue asignado el recurso público o destinarlo a un fin distinto.
+II. No aplicar los recursos públicos que reciban a los fines para los que fueron autorizados;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+III. No cumplir con el objeto social para el cual fue asignado el recurso público o destinarlo a un fin distinto; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+IV. Que un servidor público conozca plenamente de violaciones a la presente Ley y no presente la denuncia correspondiente.
 
 T R A N S I T O R I O S
 
@@ -829,7 +1019,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Ángel José Pérez Talamantes.
 
-> <small>N. DE E. A CONTINUACIóN SE TRANSCRIBEN LOS ARTíCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE JULIO DE 2010.
 
@@ -868,3 +1058,31 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos penales iniciados con antelación al inicio de vigencia de este Decreto, se regirán por las disposiciones vigentes al momento de su inicio.
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 211.- SE CONFIRMA EN SUS TÉRMINOS EL DECRETO NÚMERO 214, APROBADO POR LA LXII LEGISLATURA DEL CONGRESO DEL ESTADO DE AGUASCALIENTES, QUE REFORMA Y ADICIONA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría contará con un plazo de 90 días para establecer los lineamientos, indicadores, y programas necesarios para generar el sistema de información único que refiere el apartado del Padrón Único de Beneficiarios.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría contará con un plazo de 90 días para emitir los lineamientos, formatos y mecanismos relativos a la operación de la recepción de denuncias ciudadanas, en lo concerniente a lo establecido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría enviará a la Comisión de Desarrollo Social del Congreso del Estado en un plazo no mayor a 45 días, la terna de la persona que se designará como Secretario Técnico del Consejo Estatal de Evaluación de la Política de Desarrollo Social del Estado de Aguascalientes.
+
+###### ARTÍCULO QUINTO.
+
+A partir de la designación del Secretario Técnico se contará con un plazo de 30 días para integrar la lista de diez perfiles a fin de designar a los tres representantes de organismos sociales y civiles; en ambos casos la Comisión de Desarrollo Social del Congreso del Estado no podrá tardar más de diez días para las designaciones correspondientes.
+
+###### ARTÍCULO SEXTO.
+
+El secretario Técnico del Consejo que se nombre por vez primera durará en su encargo hasta el 30 de diciembre del 2019.
