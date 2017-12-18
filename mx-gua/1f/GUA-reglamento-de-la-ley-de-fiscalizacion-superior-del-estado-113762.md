@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-fiscalizacion-superior-del-estado-11376
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-03-18"
-last_updated: "2016-03-18"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 18 de marzo de 2016.
 
@@ -109,7 +109,9 @@ I. Avances y estatus de los actos de fiscalización;
 
 II. Acciones de seguimiento y atención a recomendaciones, especificando en su caso las formuladas en las auditorías de desempeño;
 
-III. Estadísticas y avances en la promoción de las responsabilidades administrativas, civiles y penales;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+III. Estadísticas y avances de las investigaciones y substanciación de faltas administrativas, de la promoción de acciones de responsabilidad efectuadas y respecto de la recuperación de daños y perjuicios;
 
 IV. Número y avances respecto a las denuncias de investigación de situación excepcional presentadas y su estatus;
 
@@ -287,29 +289,9 @@ Incorporación de actuaciones a otro acto de fiscalización
 
 Cuando por cualquier circunstancia uno o varios conceptos comprendidos dentro de un acto de fiscalización se relacionen con otro acto, la información, documentación y actuaciones relativas a este último podrán ser incorporadas a aquél para efectos de su planeación y ejecución.
 
-Requisitos del informe de resultados
-
 ###### Artículo 25.
 
-Conforme a lo dispuesto en el artículo 37, fracción III de la Ley, los requisitos mínimos del informe de resultados son:
-
-I. Introducción;
-
-II. Las observaciones y recomendaciones que en su caso hayan resultado en el proceso de fiscalización, la respuesta emitida por el sujeto de fiscalización o una síntesis de sus aspectos importantes y la valoración correspondiente;
-
-III. Resumen de las observaciones y recomendaciones con su estatus y las responsabilidades resultantes;
-
-IV. Considerando el contenido de la fracción II, la elaboración de un dictamen técnico jurídico que precise las conductas ilícitas y las acciones administrativas, civiles o penales que deberán promoverse, las autoridades que resultan competentes para conocer de dichas acciones y, en la medida de lo posible, los presuntos responsables;
-
-V. Considerando el contenido de la fracción II, la elaboración de un dictamen que establezca la cuantía de los daños y perjuicios a la hacienda pública o al patrimonio de los sujetos de fiscalización, precisando los bienes, derechos, programas, objetivos, actos jurídicos o partidas afectadas; y
-
-VI. Los anexos que correspondan.
-
-Tratándose del supuesto previsto en el párrafo tercero de la fracción II del artículo 37 de la Ley, de no existir observación o recomendación alguna, el informe de resultados únicamente contendrá lo prevenido en la fracción I de este numeral.
-
-Tratándose del informe de resultados que se presente al Congreso, aquél deberá contener, además de lo señalado en las fracciones que anteceden, la resolución y los acuerdos recaídos al recurso.
-
-Cuando el Congreso ordene la práctica de una auditoría integral que por su alcance comprenda una o varias de las previstas en el Programa, se podrán acumular estas últimas al desarrollo y resultados de la ordenada por aquél. En el informe de resultados que se presente se hará referencia a dicha acumulación, sin que los informes acumulados deban contener los requisitos previstos en el presente artículo, acordándose en su oportunidad lo conducente por el Congreso.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 Requisitos del informe de resultados en auditorías de desempeño
 
@@ -333,7 +315,7 @@ Pliego e informe de resultados
 
 Los pliegos de observaciones y recomendaciones, de recomendaciones al desempeño, así como el informe de resultados, deberán estar debidamente fundados y motivados, así como presentar los hechos y su evaluación de manera objetiva, clara y acotada a los elementos esenciales. Su redacción debe ser precisa y comprensible.
 
-En ningún caso se entenderá como modificaciones a los conceptos observados, cuando éstas se refieran a disposiciones legales, reglamentarias o administrativas que funden y motiven la dictaminación de presuntas responsabilidades.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 Remisión de informes de resultados al Congreso
 
@@ -903,183 +885,53 @@ La expedición y notificación de la constancia podrá efectuarse a través de m
 
 La expedición de dicha constancia, por ningún motivo exime de la instauración o fincamiento de las responsabilidades a que haya lugar y de sus sanciones respectivas.
 
-Acciones de seguimiento a responsabilidades
-
 ###### Artículo 79.
 
-De acuerdo con lo dispuesto por el artículo 68 de la Ley, los titulares del ejercicio de la acción civil deberán precisar a los responsables, de conformidad con el contenido del informe de resultados, así como de la información y documentación con que cuenten y deban allegarse.
-
-La Auditoría Superior verificará que se hayan presentado en su caso las demandas civiles respectivas y su prosecución, y en su defecto, se justifique su abstención conforme a lo dispuesto en la Ley y este Reglamento. Igualmente, dará seguimiento a la instauración de los procedimientos administrativos correspondientes por los órganos de control, promoviendo y presentando en su caso, las denuncias administrativas, según proceda.
-
-Para efectos de lo anterior, la Auditoría Superior podrá requerir al sujeto de fiscalización y a los órganos de control, la documentación o información que acredite la promoción y ejercicio de las acciones administrativas correspondientes y que éstas se hayan realizado en tiempo y forma, aplicando en su caso para ello las medidas de apremio procedentes.
-
-Además, la Auditoria Superior, procederá a instar las denuncias correspondientes, derivado de las observaciones penales que se determinen a los sujetos de fiscalización ante el Ministerio Público.
-
-Convenios para el ejercicio de acciones
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 80.
 
-Los convenios para el ejercicio de acciones civiles por la Auditoría Superior, a los que alude en su fracción II, el artículo 69 de la Ley, podrán celebrarse, por el titular u órgano de gobierno del sujeto de fiscalización siempre y cuando se cumpla con cada uno de los requisitos siguientes:
-
-I. El sujeto de fiscalización lo solicite a la Auditoría Superior por escrito debiendo estar al corriente en la presentación de la cuenta pública e información financiera trimestral;
-
-II. Los sujetos de fiscalización justifiquen ante la Auditoría Superior, su imposibilidad material y humana para ejercitar las acciones civiles mediante las documentales e información siguiente:
-
-a) Su presupuesto anual aprobado para el ejercicio fiscal respectivo, así como el de la anualidad inmediata posterior con sus respectivas modificaciones;
-
-b) La estructura u organización interna con la que cuenten y puedan o no disponer para tales efectos;
-
-c) El universo y monto de las acciones a instaurar en su caso; y
-
-d) Otras que tiendan a acreditar objetiva y fehacientemente dichas imposibilidades.
-
-La valoración y determinación para la celebración en su caso de los convenios regulados por el presente artículo, será de la exclusiva competencia y responsabilidad de la Auditoría Superior.
-
-El sujeto de fiscalización facultará mediante el poder necesario a la Auditoría Superior para ejercer las acciones civiles correspondientes, a efecto de acreditar su personalidad en los juicios civiles en que sea parte.
-
-Dictamen de abstención
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 81.
 
-El dictamen justificativo de abstención del ejercicio de las acciones civiles que se deba elaborar conforme al artículo 70 de la Ley, deberá contener por lo menos, lo siguiente:
-
-I. Señalar el sujeto de fiscalización que lo emite y el nombre del presunto responsable;
-
-II. Indicar el lugar y fecha de su emisión;
-
-III. Estar fundado, motivado y expresar la causal de abstención de que se trate;
-
-IV. Establecer con toda claridad la cuantía de la responsabilidad civil;
-
-V. Aludir al acuerdo del Congreso que haya aprobado el informe de resultados donde se contenga la instauración de la acción civil;
-
-VI. Señalar, en su caso, el Juzgado en el que se haya radicado la demanda respectiva y obtenida, de haber sido así, la sentencia correspondiente;
-
-VII. Ostentar la firma del titular del sujeto de fiscalización o del Auditor Superior, según corresponda, o la del servidor público en el que, respectivamente, se haya delegado dicha atribución;
-
-VIII. Tratándose de abstenciones de los sujetos de fiscalización, la validación del titular del órgano de control respectivo; y
-
-IX. Las documentales o anexos respectivos, en original o copia certificada, con los cuales se acredite fehacientemente los supuestos dictaminados.
-
-Para efectos de documentar que el deudor no ha podido ser localizado, se requerirán, sin excepción, las actuaciones judiciales correspondientes del juzgado o tribunal competente, mismas que podrán acompañarse de los informes de autoridades estatales o municipales que tiendan a acreditar fehacientemente lo conducente.
-
-Causales de abstención
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 82.
 
-Para efectos de lo dispuesto por el artículo 70 de la Ley, dentro de las causales de abstención a que se refiere la fracción I de dicho numeral también se comprenden:
-
-I. La recuperación total de montos observados;
-
-II. La modificación de las responsabilidades a que se refiere el artículo 67 de la Ley, cuando aquélla se refiera a las de naturaleza civil; y
-
-III. Cuando existan circunstancias que generen la convicción indubitable, a juicio de la Auditoría Superior, respecto de la ausencia de elementos para la acreditación de la acción civil y su prosecución procesal pueda originar un detrimento patrimonial al sujeto de fiscalización.
-
-Las causales de abstención a que se refiere este artículo, operarán previo al ejercicio de las acciones civiles, como durante la prosecución de las mismas.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ### Capítulo VI. Disposiciones Complementarias
 
 #### Sección Única. Sistema Estatal de Fiscalización
 
-Objeto e integración del Sistema Estatal de Fiscalización
-
 ###### Artículo 83.
 
-El Sistema Estatal de Fiscalización tiene por objeto la vinculación y coordinación efectiva de todos los entes responsables de la auditoría, revisión, evaluación y control de la administración pública estatal y municipal, con respeto a la autonomía de los órdenes de gobierno y ámbito de competencias. Dicho Sistema estará integrado por:
-
-I. La Auditoría Superior del Estado;
-
-II. La Secretaría del Poder Ejecutivo del Estado responsable del control interno;
-
-III. La contraloría interna del Poder Legislativo;
-
-IV. La contraloría interna del Poder Judicial;
-
-V. Las contralorías internas u órganos de control de los organismos autónomos siguientes:
-
-a) Universidad de Guanajuato
-
-b) Tribunal de lo Contencioso Administrativo
-
-c) Procuraduría de los Derechos Humanos del Estado de Guanajuato
-
-d) Tribunal Estatal Electoral de Guanajuato;
-
-e) Instituto Electoral del Estado de Guanajuato; y
-
-f) Instituto de acceso a la Información Pública.
-
-VI. Las contralorías de los 46 municipios del estado de Guanajuato.
-
-Objetivos generales del Sistema Estatal de Fiscalización
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 84.
 
-Los objetivos generales del Sistema Estatal de Fiscalización son:
-
-I. Estandarizar el ejercicio de las auditorías o revisiones que se practican en el estado, con base en las buenas prácticas reconocidas a nivel nacional e internacional;
-
-II. Homogeneizar criterios para emitir observaciones o recomendaciones, así como para la solventación y seguimiento de las mismas;
-
-III. Garantizar y promover la estricta observancia y aplicación de las normas, sistemas, métodos y procedimientos de contabilidad gubernamental, archivo integral, transparencia y acceso a la información;
-
-IV. Realizar acciones de cooperación e intercambio de información permanente en materia de fiscalización;
-
-V. Efectuar análisis y, en su caso, promover conjuntamente propuestas de modificación al marco legal y normativo aplicable al control, transparencia, fiscalización, rendición de cuentas y combate a la corrupción;
-
-VI. Impulsar, en el ámbito de su competencia, al Sistema Nacional de Fiscalización como parte del Sistema Nacional Anticorrupción;
-
-VII. Fortalecer el control y la fiscalización, a través de la capacitación y asistencia técnica recíproca, así como a los sujetos de fiscalización;
-
-VIII. Promover acciones de prevención en la gestión de los recursos públicos, patrimonio y deuda pública estatal y municipal;
-
-IX. Ampliar el alcance y cobertura de la fiscalización a los recursos federales, estatales y municipales, coordinando programas y actos que además permitan evitar duplicidades; y
-
-X. Difundir oportunamente, con un lenguaje claro y sencillo a la ciudadanía, los resultados de las acciones de control, auditoría y fiscalización.
-
-Órgano rector del Sistema Estatal de Fiscalización
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 85.
 
-La asamblea plenaria del Sistema Estatal de Fiscalización será el órgano máximo rector del mismo y estará conformado por todos los titulares de los entes de fiscalización y control estatales y municipales referidos en el artículo 83 del presente Reglamento. Dichos titulares podrán ser suplidos por el servidor público que al efecto designen.
-
-La asamblea plenaria sesionará cuando menos una vez al año, en el lugar que se elija por sus integrantes, y será presidida por el titular que al efecto designen los mismos de entre sus miembros.
-
-Facultades del órgano rector del Sistema Estatal de Fiscalización
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 86.
 
-Son facultades generales de la asamblea plenaria del Sistema Estatal de Fiscalización:
-
-I. Proponer las medidas que estime convenientes para mejorar o actualizar, en su caso, el Sistema Estatal de Fiscalización, instrumentando el cumplimiento de sus objetivos generales;
-
-II. Fungir como organismo de coordinación de todos los órganos de fiscalización y control del Estado de Guanajuato;
-
-III. Vigilar el cumplimiento de los acuerdos, convenios de coordinación y colaboración administrativa que en su caso se celebren;
-
-IV. Designar comisiones o grupos de trabajo para estudio y desahogo de asuntos específicos que así lo requieran; y
-
-V. Emitir los lineamientos que regulen su adecuado funcionamiento, así como su plan de trabajo anual.
-
-Instrumentación del Sistema Estatal de Fiscalización
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 87.
 
-La conformación e instrumentación del Sistema Estatal de Fiscalización, así como los derechos y obligaciones de sus miembros, se prevendrá en los lineamientos que al efecto expida su órgano rector.
-
-Con independencia de lo anterior, los órganos de control deberán, en el ámbito de su competencia, y en los términos que establecen la Ley y demás disposiciones aplicables, cumplir con los requerimientos, promociones y demás acciones de fiscalización, control, instauración de procedimientos e imposición de sanciones, respectivamente.
-
-Coordinación del Sistema
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 88.
 
-La Auditoría Superior establecerá la coordinación necesaria con todos aquellos órganos que realicen actividades de control, fiscalización, auditoría gubernamental, transparencia y acceso a la información.
-
-Intercambio de información y facilidades
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 89.
 
-Conforme a lo previsto en la Ley y en el Reglamento, los órganos de control colaborarán con la Auditoría Superior, garantizando el debido intercambio de información, otorgándole las facilidades que le permitan realizar sus funciones, proporcionándole copia de la documentación sobre los resultados de sus revisiones practicadas o procedimientos instaurados, o cualquier otra que al efecto les requiera por escrito en cualquier momento.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 T R A N S I T O R I O S
 
@@ -1130,3 +982,23 @@ Primera Secretaria
 DIPUTADO LUIS VARGAS GUTIÉRREZ
 
 Segundo Secretario
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 277, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Procesos en trámite
+
+Artículo Segundo. Los actos de fiscalización, acciones de responsabilidad y demás procesos y procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se continuarán hasta su total conclusión de conformidad con las disposiciones con las que se iniciaron.
+
+Asuntos civiles en trámite
+
+Artículo Tercero. El ejercicio de las acciones para hacer efectivas las responsabilidades civiles o resarcitorias, que a la entrada en vigor del presente Decreto se encuentren pendientes de trámite o en desahogo por los sujetos de fiscalización o la Auditoría Superior del Estado de Guanajuato, les serán aplicables de manera retroactiva las disposiciones legales y reglamentarias relativas a la abstención del ejercicio de las acciones civiles y su (sic) dictaminarían contempladas por el artículo 70 de la Ley y demás complementarias del Reglamento de la misma, que se derogan con el presente Decreto.
+
+De igual manera, las acciones para hacer efectivas las responsabilidades civiles o resarcitorias, cuya tramitación hubiere correspondido a la Auditoría Superior, una vez causada ejecutoria la sentencia respectiva, podrán ser ejecutados (sic) por los sujetos de fiscalización, siempre y cuando ello no actualice un conflicto de interés.
