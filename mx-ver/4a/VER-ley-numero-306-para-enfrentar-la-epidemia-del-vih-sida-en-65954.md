@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-306-para-enfrentar-la-epidemia-del-vih-sida-en-65954
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-25"
-last_updated: "2008-12-25"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 306 PARA ENFRENTAR LA EPIDEMIA DEL VIH-SIDA EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUMERO 306 PARA ENFRENTAR LA EPIDEMIA DEL VIH-SIDA EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NÚMERO 306 PARA ENFRENTAR LA EPIDEMIA DEL VIH-SIDA EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el jueves 25 de diciembre de 2008.
 
@@ -207,25 +207,149 @@ El Instituto Electoral Veracruzano implementará mecanismos para sugerir a los p
 
 La Comisión Estatal de Derechos Humanos incluirá en su informe anual las acciones de protección a los derechos de las personas contagiadas del VIH o que padecen SIDA.
 
-### CAPÍTULO III. DE LOS DERECHOS DE LAS PVVIH-SIDA
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO III. DE LOS DERECHOS DE LAS PERSONAS CON VIH O CON SIDA
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 21.
 
-Las personas contagiadas con el VIH o que padecen SIDA tienen derecho a recibir, sin discriminación alguna, atención médico hospitalaria en los centros de salud públicos, en la que se asegure, entre otras cosas, consejería, asesoría y apoyo de manera individual o en grupo, así como el tratamiento requerido, en los términos de la Ley General de Salud de la Federación. La atención puede ser hospitalaria, domiciliar o ambulatoria, según la necesidad de cada caso y estará orientada a atender todas las necesidades, sean físicas, psicológicas o sociales.
+Todas las personas que viven con VIH o sida deben gozar de los derechos humanos fundamentales establecidos en nuestra Carta Magna y en las demás leyes y tratados internacionales. Vivir con VIH o sida no debe ser motivo de discriminación de ningún tipo.
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 22.
 
-Las personas internadas en centros tutelares, de atención a la salud mental o de readaptación social, que estén contagiadas con el VIH o padezcan SIDA, tendrán asegurados sus derechos de atención, confidencialidad y no discriminación.
+Las personas con VIH o con sida tienen derecho a recibir, sin discriminación alguna, atención médico-hospitalaria en las instituciones de salud pública, en la que se asegure, entre otras cosas, consejería, asesoría y apoyo de manera individual o en grupo, así como el tratamiento requerido, en los términos de la Ley General de Salud de la Federación. La atención puede ser hospitalaria, domiciliaria o ambulatoria, según la necesidad de cada caso y estará orientada a atender todas las necesidades, sean físicas, psicológicas o sociales.
 
-Queda prohibida la segregación de las PVVIH-SIDA dentro de los centros de readaptación social. Los directores o autoridades de tales centros están obligados a garantizar la no discriminación de los internos.
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 23.
 
-La Contraloría General del Estado vigilará y supervisará que en todas las dependencias y entidades de la administración pública estatal, la actuación de los servidores públicos se ajuste a las disposiciones de esta ley, especialmente en cuanto a la no discriminación de las PVVIH-SIDA.
+Ninguna persona, sin su consentimiento, estará obligada a someterse a la prueba de detección del VIH, ni a declarar que vive con VIH o con sida. La prueba de anticuerpos es voluntaria.
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 24.
 
-Los servidores públicos que discriminen a las PVVIH-SIDA, o que incumplan las disposiciones de esta ley, se harán acreedores a una multa de cien a mil salarios mínimos, tomando como base el de la capital del Estado, que les impondrá la Contraloría General, en términos del Código de Procedimientos Administrativos.
+Las personas que voluntariamente decidan someterse a esta prueba tendrán derecho a recibir información suficiente, clara, objetiva y científicamente fundada sobre el VIH o el sida, los tratamientos que existen para combatir la enfermedad, así como sus riesgos, consecuencias y alternativas; de igual forma, a que los resultados sean manejados de forma anónima y confidencial, y a que éstos se entreguen de forma individual y por personal capacitado. No deben informarse resultados positivos o negativos en listados de manejo público ni comunicar el resultado a otras personas sin la autorización expresa de quien se sometió a la prueba.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 25.
+
+En caso de que el resultado sea positivo, se tendrá el derecho a recibir consejería psicológica a efecto de informar verazmente sobre la enfermedad y los tratamientos adecuados, así también para tomar las medidas de prevención durante las relaciones sexuales.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 26.
+
+La aplicación de la prueba del VIH no debe ser requisito para recibir atención médica, obtener empleo, formar parte de instituciones educativas o tener acceso a servicios.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 27.
+
+Vivir con VIH o con sida no puede ser considerado como causal para la negación de servicios de salud, despido laboral, expulsión de una escuela, desalojo de una vivienda o expulsión del país.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 28.
+
+No se puede limitar a ninguna persona el derecho a ejercer la sexualidad libre y responsable, utilizando siempre medidas profilácticas (condones).
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 29.
+
+Las personas con VIH o con sida podrán asociarse libremente y afiliarse a las instituciones sociales o políticas que deseen.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 30.
+
+Las personas con VIH o con sida podrán buscar, recibir y difundir información veraz, objetiva, científica y actualizada sobre el VIH o el sida.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 31.
+
+Las personas con VIH o con sida disfrutarán de servicios de salud oportunos y de calidad; atención personal cálida, profesional y éticamente responsable, así como un trato respetuoso y un manejo correcto y confidencial del historial médico.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 32.
+
+Las personas con VIH o con sida tendrán el derecho a recibir los tratamientos antirretrovirales de manera gratuita y sin interrupciones por parte de los servicios públicos de salud.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 33.
+
+Las personas con VIH o con sida conocerán los procedimientos de las instituciones de salud para presentar una queja, reclamo o sugerencia, ante cualquier irregularidad o atropello de derechos y garantías individuales.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 34.
+
+Las personas con VIH o con sida recibirán, por parte de las instituciones de salud pública, información clara, objetiva y científicamente fundada sobre el VIH o el sida, así como los tratamientos respectivos, sus riesgos, consecuencias y alternativas.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 35.
+
+Las personas con VIH o con sida recibirán servicios de asistencia médica y social para mejorar la calidad y tiempo de vida.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 36.
+
+Las personas con VIH o con sida podrán tener la patria potestad o custodia de sus hijos e hijas, así como designarles un tutor cuando ya no sea posible cuidarlos, en los términos de la legislación común y contarán con la protección de instituciones para tal fin.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 37.
+
+Las niñas y los niños que viven con VIH o con sida tienen derecho a servicios de salud, educación y asistencia social en igualdad de circunstancias.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 38.
+
+Las mujeres, incluyendo las que viven con VIH, tienen derechos sexuales y reproductivos, entre ellos el derecho a decidir libre y responsablemente el número de hijos y el intervalo entre los nacimientos, así como al acceso a información, educación y medios necesarios para ejercer estos derechos, a recibir información científica acerca de la transmisión perinatal para permitir su derecho a decidir sobre el número y espaciamiento de sus hijos. La decisión de tener un o una bebé es responsabilidad de cada mujer, con o sin VIH.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 39.
+
+Las víctimas de violación sexual tienen derecho a una valoración para que, en caso de requerirlo, reciban profilaxis postexposicional al VIH, durante el tiempo que sea necesario.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 40.
+
+Las personas internadas en centros tutelares, de atención a la salud mental o de readaptación social, que tengan VIH o sida, tendrán asegurados sus derechos de atención, confidencialidad y no discriminación. Queda prohibida la segregación de las personas con VIH o con sida dentro de los centros de readaptación social. Los directores o autoridades de tales centros están obligados a garantizar la no discriminación de los internos.
+
+> <small>(ADICIONADO, G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 41.
+
+Se tiene derecho a una muerte y servicios funerarios dignos.
+
+### CAPÍTULO IV. DE LAS SANCIONES
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 42.
+
+La Contraloría General del Estado vigilará y supervisará que, en todas las dependencias y entidades de la administración pública estatal, la actuación de los servidores públicos se ajuste a las disposiciones de esta ley, especialmente a la no discriminación de las personas con VIH o con sida.
+
+> <small>(REFORMADO [N. DE E. REFORMADO], G.O. 18 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 43.
+
+Los servidores públicos que discriminen a las personas con VIH o con sida, o que incumplan las disposiciones de esta ley, se harán acreedores a una multa hasta de cien mil Unidades de Medida y Actualización, tomando como base la aplicable a la capital del Estado, que les impondrá la Contraloría General, en términos del Código de Procedimientos Administrativos.
 
 T R A N S I T O R I O S
 
@@ -261,4 +385,12 @@ Gobernador del Estado
 
 Rúbrica.
 
-### CAPÍTULO IV. DE LAS SANCIONES
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 355 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA ENFRENTAR LA EPIDEMIA DEL VIH-SIDA EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
