@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-87466"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2015-07-27"
+last_updated: "2017-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección de Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -375,7 +375,9 @@ VI. Impulsar las reformas legislativas y políticas públicas para prevenir, ate
 
 VII. Garantizar la atención de las víctimas en todos los tipos de violencia contra las mujeres;
 
-VIII. Generar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+VIII. Generar mecanismos institucionales que fomenten el reparto equilibrado de las responsabilidades familiares reconociendo a los padres biológicos y por adopción el derecho a un permiso y a una prestación por paternidad, en los términos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y en los Tratados Internacionales de los que el Estado Mexicano sea parte; y
 
 IX. Realizar estudios, diagnósticos y evaluaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres y difundirlos.
 
@@ -578,3 +580,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 210.- SE REFORMA LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
