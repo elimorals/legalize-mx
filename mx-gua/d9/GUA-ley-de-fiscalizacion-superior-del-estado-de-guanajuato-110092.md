@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fiscalizacion-superior-del-estado-de-guanajuato-110092"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-25"
-last_updated: "2016-12-02"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE DICIEMBRE DE 2016.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Décima Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de septiembre de 2015.
 
@@ -97,9 +95,11 @@ XI. Las demás que se desprendan de esta ley u otros ordenamientos.
 
 Autonomía
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 4.
 
-El Congreso del Estado ejercerá las funciones técnicas de fiscalización a través de la Auditoría Superior del estado de Guanajuato, la cual tendrá autonomía técnica, de gestión y presupuestaria, en los términos que señalan la Constitución Política para el Estado de Guanajuato, esta ley y demás ordenamientos jurídicos.
+El Congreso del Estado ejercerá las funciones técnicas de fiscalización a través de la Auditoría Superior del estado de Guanajuato, la cual tendrá autonomía técnica, de gestión y presupuestaria, en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que señalan la Constitución Política para el Estado de Guanajuato, esta ley y demás ordenamientos jurídicos.
 
 Glosario de la Ley
 
@@ -204,6 +204,10 @@ Programa General de Fiscalización
 ###### Artículo 16.
 
 La Auditoría Superior establecerá un Programa General de Fiscalización, señalando los actos y sujetos de fiscalización, los que serán objeto de auditoría o revisión conforme a los criterios y normas que se establezcan en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+El Auditor Superior hará del conocimiento de la Comisión, el Programa General de Fiscalización.
 
 Auditorías aprobadas por el Congreso
 
@@ -387,7 +391,23 @@ Los ex titulares, para el efecto de contestar las observaciones tendrán derecho
 
 De no existir observación o recomendación alguna, se formulará el informe de resultados para turnarlo al Congreso, a efecto de que éste realice el acuerdo correspondiente;
 
-III. Concluido el plazo para que el sujeto de fiscalización atienda o dé respuesta a las observaciones y recomendaciones o agotadas las acciones necesarias para su esclarecimiento, la Auditoría Superior elaborará y emitirá el informe de resultados correspondiente, el cual contendrá los requisitos señalados en el Reglamento;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+III. Concluido el plazo para que el sujeto de fiscalización atienda o dé respuesta a las observaciones y recomendaciones o agotadas las acciones necesarias para su esclarecimiento, la Auditoría Superior elaborará y emitirá el informe de resultados correspondiente, el cual contendrá, como mínimo, lo siguiente:
+
+a) Los criterios de selección, el objetivo, el alcance, los procedimientos de auditoría aplicados y el dictamen de la revisión;
+
+b) El nombre del personal directivo de la Auditoría Superior a cargo de realizar la auditoría;
+
+c) Los resultados de la fiscalización efectuada;
+
+d) Las observaciones y recomendaciones; y
+
+e) Los anexos que correspondan.
+
+De no existir observación o recomendación alguna, el informe de resultados únicamente contendrá lo prevenido en los incisos a) y b).
+
+El informe de resultados que se presente al Congreso, deberá contener, además de lo señalado en los incisos que anteceden, la resolución y los acuerdos recaídos al recurso;
 
 IV. El informe de resultados se notificará al sujeto de fiscalización, así como a los ex titulares, cuando el proceso de fiscalización corresponda al periodo de su gestión, quienes contarán con un término de cinco días hábiles, contado a partir del día hábil siguiente al de la citada notificación, para hacer valer el recurso de reconsideración previsto por esta ley, en caso de estimarlo pertinente;
 
@@ -395,21 +415,19 @@ V. Agotado el plazo para presentar el recurso de reconsideración o resuelto és
 
 VI. Emitido el acuerdo correspondiente por el Congreso, la Auditoría Superior notificará el mismo a quienes corresponda.
 
-Una vez que se emita el acuerdo del informe de resultados, éste tendrá carácter de documento público, para fundar las acciones legales correspondientes en contra de los probables responsables; y
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-VII. En su caso, la Auditoría Superior promoverá el fincamiento de acciones de responsabilidad, así como el seguimiento a observaciones y recomendaciones.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+VII. En su caso, la Auditoría Superior, iniciará las acciones de responsabilidad conducentes en los términos de las leyes aplicables, y promoverá el seguimiento a observaciones y recomendaciones.
 
 Observaciones por el Congreso al informe de resultados
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 38.
 
-El informe de resultados sólo podrá ser observado por las dos terceras partes de los diputados integrantes del Congreso, por las siguientes causas:
-
-I. Cuando en perjuicio del sujeto de fiscalización no se haya otorgado el derecho de audiencia o defensa;
-
-II. Cuando no se hayan valorado las documentales aportadas por el sujeto de fiscalización durante el procedimiento de fiscalización hasta la notificación del informe de resultados; y
-
-III. Cuando no se observen las formalidades esenciales del proceso de fiscalización.
+El informe de resultados sólo podrá ser observado por las dos terceras parles (sic) de los diputados integrantes del Congreso, cuando no se observen las formalidades esenciales del proceso de fiscalización.
 
 ### Capítulo III. Denuncia de Investigación de Situación Excepcional
 
@@ -685,9 +703,11 @@ El análisis de la información financiera trimestral no computará para el plaz
 
 Seguimiento al acuerdo del Congreso
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 65.
 
-Una vez que el Congreso emita el acuerdo respecto al informe de resultados, la Auditoría Superior procederá a promover las acciones necesarias para que se finquen las responsabilidades, así como el seguimiento a las recomendaciones no atendidas u observaciones no solventadas en el informe de resultados, en los términos establecidos en esta ley.
+Una vez que el Congreso emita el acuerdo respecto al informe de resultados, la Auditoría Superior iniciará las acciones de responsabilidad conducentes en los términos de las leyes aplicables, así como el seguimiento a las recomendaciones no atendidas u observaciones no solventadas en el informe de resultados, en los términos establecidos en esta ley.
 
 Plazo de atención
 
@@ -701,79 +721,53 @@ Una vez que se acredite el debido cumplimiento de la totalidad de las recomendac
 
 La expedición de la constancia prevista en el párrafo anterior, no exime a la Auditoría Superior para promover y dar seguimiento a las responsabilidades a que hubiere lugar con motivo del acuerdo correspondiente.
 
-Modificación de responsabilidades
-
 ###### Artículo 67.
 
-Cuando por el acuerdo del Congreso que recaiga al informe de resultados, se modifique el criterio por el que se haya definido una probable responsabilidad; el Auditor Superior de oficio o a petición de los sujetos fiscalizados, podrá acordar la modificación de las responsabilidades determinadas en informes de resultados aprobados con anterioridad que deriven de observaciones de la misma naturaleza, siempre que ello sea en beneficio de los presuntos responsables y no hayan sido declaradas firmes las sanciones correspondientes. Lo anterior, deberá hacerse de conocimiento al Congreso.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ### Capítulo IX. Responsabilidades Civiles
 
-Plazo para ejercitar la acción civil
-
 ###### Artículo 68.
 
-Si la responsabilidad que derive del proceso de fiscalización es de orden civil, el sujeto de fiscalización, por conducto de su titular o en quien se encuentre delegada dicha facultad de conformidad con las disposiciones legales o reglamentarias, procederá a ejercer las acciones civiles en la vía y forma que corresponda, ante la autoridad, dentro del término de tres meses contados a partir de (sic) día siguiente de la notificación del acuerdo del Congreso. Dicho término, previa justificación, podrá duplicarse a petición por escrito del sujeto de fiscalización presentada al Congreso dentro del término antes señalado.
-
-La Auditoría Superior podrá consultar los expedientes de los juicios civiles que con motivo del cumplimiento de esta ley sean substanciados por los sujetos de fiscalización, con el objeto de verificar su avance y resultados.
-
-Ejercicio de acciones civiles por la Auditoría Superior
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 69.
 
-La Auditoría Superior será competente para ejercer las acciones civiles en los supuestos siguientes:
-
-I. Cuando exista conflicto de intereses por parte de los servidores públicos responsables de ejercer dichas acciones en los términos que prescribe la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, en cuyo caso deberán informarlo en el término de quince días hábiles, contados a partir de la fecha de notificación del acuerdo del Congreso, justificando las causales de conflicto de intereses en las que se ubican y se abstendrán de ejercer cualquier acción; y
-
-II. Las que convenga con los sujetos de fiscalización, previa justificación de su imposibilidad material y humana para ejercer las acciones conducentes.
-
-Causales de abstención
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ###### Artículo 70.
 
-Los titulares del ejercicio de la acción civil que contempla esta ley, podrán abstenerse de ejercer las acciones civiles o la prosecución de las mismas, en los supuestos siguientes:
-
-I. Cuando el deudor reintegre o repare la totalidad de los daños y perjuicios causados al patrimonio o a la hacienda pública de los sujetos de fiscalización, previo al ejercicio de las acciones civiles;
-
-II. Por incosteabilidad en la recuperación de los daños y perjuicios, previo a ejercer la acción civil, en los supuestos siguientes:
-
-a) El deudor hubiera fallecido; o
-
-b) Exista sentencia que determine en estado de quiebra al deudor, así como declaratoria de insolvencia por procedimiento de concurso;
-
-III. También procederá la incosteabilidad durante el procedimiento y previo a la práctica del emplazamiento al deudor, en los supuestos de la fracción II, así como cuando no haya podido ser localizado el deudor dentro del procedimiento; y
-
-IV. Por incobrabilidad, una vez que ya exista sentencia favorable, cuando en la ejecución de sentencia se actualicen los supuestos previstos en la fracción II.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
-
-En los casos previstos en las fracciones II y III de este artículo, el daño causado al patrimonio o a la hacienda pública, no deberá exceder de doscientas veces la Unidad de Medida y Actualización diaria, vigente al momento que se haya emitido el acuerdo.
-
-Para los casos anteriores, el sujeto de fiscalización deberá efectuar el dictamen correspondiente, en donde se justifiquen con el soporte documental pertinente, las acciones o circunstancias que respalden los supuestos sobre los cuales se determinará el no ejercicio o la no ejecución de la acción civil sobre los probables responsables.
-
-De los asuntos civiles competencia de la Auditoría Superior, el dictamen deberá suscribirse por el Auditor Superior e informará de ello al Pleno del Congreso. En los asuntos competencia de los sujetos de fiscalización deberá suscribirse por el titular del sujeto de fiscalización y validarse por el titular del órgano de control para justificar su procedencia y se informará de ello al Congreso.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2017)
 
 ### Capítulo X. Denuncias Administrativas
 
 Presentación
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 71.
 
-Si la responsabilidad fuese de carácter administrativo, el Auditor Superior promoverá las denuncias correspondientes ante los órganos de control para que se les dé trámite y en su oportunidad se aplique la sanción que corresponda.
+Ante la existencia de probables faltas administrativas, la Auditoría Superior iniciará las acciones de responsabilidad conducentes en los términos de las leyes aplicables.
+
+Para tal efecto, promoverá las acciones o denuncias correspondientes para la imposición de las sanciones por las faltas graves que se adviertan derivado de sus investigaciones, así como dar vista a las autoridades competentes cuando detecte la comisión de faltas no graves para que continúen la investigación respectiva y promuevan la imposición de las sanciones que procedan.
 
 Solicitud de información a los órganos de control
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 72.
 
-La Auditoría Superior solicitará a los órganos de control información relativa a los procedimientos de responsabilidad administrativa que se hayan iniciado derivados del proceso de fiscalización regulado en esta ley.
+La Auditoría Superior solicitará a los órganos de control información relativa a las investigaciones y procedimientos de responsabilidad administrativa que se hayan iniciado derivados del proceso de fiscalización regulado en esta ley.
 
 ### Capítulo XI. Denuncias Penales
 
 Ejercicio de la acción
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 73.
 
-Si del informe de resultados una vez emitido el acuerdo por el Congreso, se desprenden hechos que hagan presumir la existencia de un delito y la probable responsabilidad de alguna o algunas personas en su comisión, el Auditor Superior procederá a presentar la denuncia o querella ante el Ministerio Público coadyuvando con la autoridad en la investigación.
+En los casos en que, derivado de las investigaciones que realice la Auditoría Superior en términos de las leyes de responsabilidades administrativas, se desprendan hechos que hagan presumir le (sic) existencia de un delito y la probable responsabilidad de alguna o algunas personas en su comisión, procederá a presentar las denuncias o querellas ante el Ministerio Público, coadyuvando con dicha autoridad en la investigación.
 
 Presentación de denuncias
 
@@ -897,13 +891,19 @@ XV. Celebrar convenios de coordinación y colaboración con otras entidades u ó
 
 XVI. Promover y formalizar, dentro del ámbito de sus competencias, esquemas de colaboración o coordinación permanentes con los órganos de control, en los términos previstos en el Reglamento;
 
-XVII. Dictaminar en el informe de resultados los daños y perjuicios causados a la hacienda o patrimonio públicos;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-XVIII. Dictaminar en el informe de resultados, las probables responsabilidades de los sujetos de fiscalización cuando del examen que se realice, aparezcan discrepancias entre los ingresos y los egresos, con relación a los conceptos y a las partidas respectivas, o cuando no exista exactitud o justificación en los ingresos obtenidos o en los gastos realizados;
+XVII. Dictaminar, con motivo de las investigaciones que realice en términos de las leyes de responsabilidades administrativas, las probables responsabilidades de los sujetos de fiscalización en los términos de las leyes aplicables;
 
-XIX. Dictaminar en el informe de resultados, la probable responsabilidad y presentar denuncias o querellas ante las autoridades, en los términos de esta ley;
+XVIII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2017)
 
-XX. Promover el fincamiento de las sanciones conducentes ante las autoridades, conforme a lo dispuesto por esta ley;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+XIX. Presentar denuncias o querellas ante las autoridades competentes, en los términos de ley;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+XX. Promover el fincamiento de las sanciones conducentes ante las autoridades, en los términos de las leyes aplicables;
 
 XXI. Contratar, cuando así se requiera, servicios profesionales externos, como apoyo técnico en el ejercicio de la función de fiscalización;
 
@@ -981,9 +981,11 @@ VI. Expedir el reglamento interior de la Auditoría Superior, en el que se distr
 
 VII. Elaborar, con el apoyo de los auditores especiales y directores generales, y expedir, los manuales de organización, criterios, procedimientos, métodos y servicios para el desempeño de la función de fiscalización de la Auditoría Superior, los que deberán publicarse en el Periódico Oficial del Gobierno del Estado;
 
-VIII. Nombrar a los auditores especiales y a los directores generales jurídico y administrativo de la Auditoría Superior. Dichos nombramientos requerirán la ratificación del Congreso del Estado. Asimismo, nombrará al demás personal de las unidades administrativas, direcciones y áreas, así como definir su estructura orgánica y proponer al Congreso las reformas a la ley y su Reglamento;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-IX. Presentar al Pleno del Congreso para su aprobación, las propuestas de remoción de los auditores especiales y de los directores generales de la Auditoría Superior, en los términos de esta ley y demás disposiciones;
+VIII. Nombrar y remover al personal de las unidades administrativas indicadas en el Reglamento Interior de la Auditoría Superior, definir su estructura orgánica, y proponer al Congreso las reformas a la ley y su Reglamento;
+
+IX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2017)
 
 X. Resolver el recurso de reconsideración que prevé esta ley;
 
@@ -999,11 +1001,13 @@ XV. Formular pliegos de observaciones y de recomendaciones, así como determinar
 
 XVI. Autorizar en su caso, las prórrogas de los plazos establecidos dentro de los procesos de fiscalización;
 
-XVII. Fincar a los servidores públicos de la Auditoría Superior las responsabilidades que deriven de la inobservancia en la aplicación de esta ley y su Reglamento;
+XVII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2017)
 
-XVIII. Ejercer las acciones civiles en contra de los probables responsables en los casos a que se refiere el artículo 69 de esta ley; y consultar los expedientes de los juicios civiles que con motivo del cumplimiento de esta ley sean substanciados por los sujetos de fiscalización, con el objeto de verificar su avance y resultados; en su caso, transigir con los probables responsables del resarcimiento de daños y perjuicios;
+XVIII. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2017)
 
-XIX. Recomendar a los sujetos de fiscalización la instauración de los procedimientos disciplinarios que correspondan ante las autoridades;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+XIX. Dar vista a los órganos de control de las probables faltas administrativas no graves que sean detectadas durante el proceso de fiscalización;
 
 XX. Presentar, en su caso, denuncias o querellas penales y coadyuvar con el Ministerio Público en los procedimientos penales y denuncias que tengan relación con los procesos de fiscalización;
 
@@ -1015,7 +1019,9 @@ XXIII. Certificar todo tipo de documentos que obren en los archivos de la Audito
 
 XXIV. Imponer y determinar medidas de apremio, de conformidad con lo dispuesto en la ley;
 
-XXV. Solicitar a los órganos de control información sobre los procedimientos de responsabilidad administrativa respectivos;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+XXV. Solicitar a los órganos de control información sobre las investigaciones y procedimientos de responsabilidad administrativa respectivos;
 
 XXVI. Formular recomendaciones al desempeño para mejorar los resultados, la eficacia, eficiencia y economía de las acciones de gobierno, a fin de elevar la calidad del desempeño gubernamental;
 
@@ -1141,9 +1147,11 @@ VI. No haber sido candidato de elección popular, ni representante de partido an
 
 Nombramiento
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 98.
 
-Los auditores especiales y directores generales de la Auditoría Superior serán nombrados por el Auditor Superior, debiendo ser ratificados por las dos terceras partes de los integrantes del Congreso y podrán ser removidos por las causas graves a que se refieren las fracciones I a IV del artículo 95 de esta ley.
+Los auditores especiales y directores generales de la Auditoría Superior serán nombrados por el Auditor Superior y podrán ser removidos por las causas graves a que se refieren las fracciones I a IV del artículo 95 de esta ley.
 
 Relaciones laborales
 
@@ -1222,3 +1230,21 @@ P.O. 28 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO QUINTO DEL “DECRETO NÚMERO 115, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO; LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO; LEY DE COORDINACIÓN FISCAL DEL ESTADO; Y SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
 
 Artículo Único. El presente ARTÍCULO QUINTO del presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 277, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO; Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Procesos en trámite
+
+Artículo Segundo. Los actos de fiscalización, acciones de responsabilidad y demás procesos y procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se continuarán hasta su total conclusión de conformidad con las disposiciones con las que se iniciaron.
+
+Asuntos civiles en trámite
+
+Artículo Tercero. El ejercicio de las acciones para hacer efectivas las responsabilidades civiles o resarcitorias, que a la entrada en vigor del presente Decreto se encuentren pendientes de trámite o en desahogo por los sujetos de fiscalización o la Auditoría Superior del Estado de Guanajuato, les serán aplicables de manera retroactiva las disposiciones legales y reglamentarias relativas a la abstención del ejercicio de las acciones civiles y su dictaminarían (sic) contempladas por el artículo 70 de la Ley y demás complementarias del Reglamento de la misma, que se derogan con el presente Decreto.
+
+De igual manera, las acciones para hacer efectivas las responsabilidades civiles o resarcitorias, cuya tramitación hubiere correspondido a la Auditoría Superior, una vez causada ejecutoria la sentencia respectiva, podrán ser ejecutados por los sujetos de fiscalización, siempre y cuando ello no actualice un conflicto de interés.
