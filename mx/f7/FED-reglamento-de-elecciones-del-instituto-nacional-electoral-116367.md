@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2017-09-26"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2016-09-07"
 ---
 # REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS DE LOS ANEXOS A QUE HACE REFERENCIA ESTE ORDENAMIENTO, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS DE LOS ANEXOS A QUE REFIERE ESTE ORDENAMIENTO, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE.]</small>
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -93,13 +93,17 @@ h) Designación de los consejeros electorales distritales y municipales, así co
 
 a) CAE: Capacitadores-asistentes electorales;
 
-b) CAI: Coordinación de Asuntos Internacionales;
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+b) CAE local: Personal temporal contratado para las elecciones concurrentes, con el objeto de realizar actividades de asistencia electoral propias del ámbito local y actividades de apoyo al CAE. Sus funciones se adecuarán a lo previsto en la Estrategia de Capacitación y Asistencia Electoral correspondiente.
 
 c) CATD: Centro de Acopio y Transmisión de Datos;
 
 d) Consejo General: Consejo General del Instituto Nacional Electoral;
 
-e) Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+e) CCV: Centro de Captura y Verificación;
 
 f) CORFE: Comisión del Registro Federal de Electores;
 
@@ -149,9 +153,13 @@ bb) SICCE: Sistema de Consulta en Casillas Especiales;
 
 cc) SIJE: Sistema de Información sobre el desarrollo de la Jornada Electoral;
 
-dd) SNR: Sistema Nacional de Registro de Precandidatos y Candidatos, así como de los Aspirantes y Candidatos Independientes;
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-ee) Tribunal Electoral: Tribunal Electoral del Poder Judicial de la Federación;
+dd) SE: Supervisor o Supervisora Electoral;
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+ee) SE local: Supervisor o Supervisora Electoral local. Personal temporal contratado para las elecciones concurrentes, con el objeto de realizar actividades de asistencia electoral propias del ámbito local y actividades de supervisión a la asistencia electoral y a las actividades de apoyo al CAE. Sus funciones se adecuarán a lo previsto en la Estrategia de Capacitación y Asistencia Electoral correspondiente;
 
 ff) UNICOM: Unidad Técnica de Servicios de Informática;
 
@@ -739,27 +747,45 @@ h) Proponer las medidas preventivas y correctivas que sean necesarias, y
 
 i) Dar seguimiento a los compromisos que en materia financiera estén a cargo de los OPL.
 
-### CAPÍTULO VI.. PROCEDIMIENTO PARA DAR CONTESTACIÓN A CONSULTAS FORMULADAS POR LOS OPL
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO VI.. PROCEDIMIENTO PARA DAR CONTESTACIÓN A CONSULTAS Y SOLICITUDES FORMULADAS POR LOS OPL
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 37.
 
-1. En la presentación, atención y respuesta a las consultas formuladas por los OPL al Instituto, se observarán las siguientes disposiciones:
+1. Para efectos del presente apartado, se entiende por consulta, la pregunta o planteamiento que formula un OPL respecto de la aplicación o interpretación de un instrumento normativo general, acuerdo o resolución de algún órgano colegiado del Instituto.
 
-a) Toda consulta que realice un OPL deberá hacerse a través de su consejero presidente y dirigirse a la UTVOPL, con copia al vocal ejecutivo de la correspondiente junta local ejecutiva del Instituto.
+Solicitud es la petición que presenta un OPL en relación con las funciones de las áreas ejecutivas o unidades técnicas del Instituto, así como con la información con la que cuenten o puedan elaborar.
 
-b) En caso que cualquier otra instancia del Instituto reciba una consulta realizada por un OPL, deberá remitirla inmediatamente y sin mayor trámite, a la UTVOPL, con copia al vocal ejecutivo de la correspondiente junta local ejecutiva del Instituto.
+2. En la presentación de las consultas y solicitudes formuladas por los OPL al Instituto, se observarán las siguientes disposiciones:
 
-c) Si el asunto versara sobre materias distintas a la competencia de la CVOPL, ésta turnará la consulta, a través de la Secretaría Técnica, a la Presidencia de la Comisión competente.
+a) Toda consulta o solicitud que realice un OPL deberá hacerse a través de la Presidencia del Consejo, Secretaría Ejecutiva o equivalente y dirigirse a la UTVOPL, con copia a la vocalía ejecutiva de la correspondiente junta local ejecutiva del Instituto.
 
-d) La Presidencia de la Comisión que reciba la consulta, la enviará junto con los anexos que la acompañen, a la dirección ejecutiva o unidad técnica del Instituto que corresponda para que genere la respuesta, la cual en su caso, tendrá que ser presentada y aprobada por la misma Comisión.
+El OPL podrá solicitar que la respuesta le sea notificada por correo electrónico a la cuenta que autorice para tal efecto en su escrito inicial.
 
-e) Si la consulta amerita la definición de un criterio aplicable de manera general a todos los OPL, la UTVOPL deberá remitirla a la Secretaría Ejecutiva del Instituto, junto con sus anexos, para que en coordinación con las áreas competentes, se elabore el proyecto de criterio respectivo, para su presentación y, en su caso, aprobación por la Comisión correspondiente y el Consejo General.
+b) En caso de que cualquier otra instancia del Instituto reciba una consulta o solicitud realizada por un OPL, deberá remitirla inmediatamente y sin mayor trámite a la UTVOPL, con copia a la vocalía ejecutiva de la correspondiente junta local ejecutiva del Instituto.
 
-f) Atendiendo a la naturaleza de cada solicitud, el desahogo de las consultas se realizará en un plazo breve y de manera oportuna; aquellas solicitudes presentadas dentro del desarrollo de algún proceso electoral local, deberán resolverse de inmediato, a fin de evitar un retraso en la ejecución de las actividades propias de dicho proceso.
+c) Una vez que la UTVOPL reciba una consulta o solicitud, inmediatamente la turnará, con sus anexos, al titular de la dirección ejecutiva o unidad técnica competente. Si del análisis del tema se advierte que la respuesta involucra a dos o más direcciones ejecutivas o unidades técnicas, remitirá la parte que corresponda a cada una de ellas. La UTVOPL enviará una copia de dicho trámite a la Presidencia de la Comisión que corresponda, así como a los integrantes del Consejo General.
 
-g) La respuesta generada por la dirección ejecutiva o unidad técnica que, en su caso, se haya aprobado en la Comisión competente, deberá remitirse al Presidente de la CVOPL para que por su conducto se notifique a los integrantes del Consejo General.
+d) Cuando la consulta o solicitud verse sobre planteamientos similares a otra respondida con anterioridad; o bien, cuando amerite estrictamente una respuesta prevista en alguna norma, acuerdo, resolución o información de los órganos colegiados del Instituto, la dirección ejecutiva o unidad técnica deberá remitir directamente a la UTVOPL la respuesta que corresponda a la brevedad posible, en un plazo no mayor a 3 días siguientes a su recepción, durante proceso electoral; y que no exceda un plazo de 10 días hábiles fuera de proceso electoral.
 
-h) La UTVOPL notificará de inmediato la respuesta de la consulta al Órgano Superior de Dirección del OPL que la formuló, a través del consejero presidente, así como a la junta local ejecutiva del Instituto que corresponda, quien la hará del conocimiento de los consejos local y distritales de la entidad. Asimismo, la UTVOPL deberá enviar copia de la respuesta a los integrantes del Órgano Superior de Dirección del resto de los OPL, para su conocimiento.
+e) Cuando la respuesta no corresponda a lo previsto en el inciso anterior, y no requiera la definición de criterio general, o bien se trate de la interpretación directa de acuerdos o resoluciones del Consejo General, la dirección ejecutiva o unidad técnica responsable deberá elaborar la propuesta de respuesta y enviarla a la Comisión competente en la siguiente sesión, la cual tendrá que realizarse dentro de los 10 días siguientes a la recepción de la consulta o solicitud.
+
+f) Si por alguna razón, se prevé que no es posible emitir respuesta definitiva en los plazos señalados en los incisos anteriores, la presidencia de la comisión competente o la dirección ejecutiva o unidad técnica responsable, en un plazo no mayor a 3 días posteriores a la recepción, deberá enviar comunicado a la Presidencia de la CVOPL, con copia a los integrantes de la misma y del Consejo General en el que indique las causas por las que no es posible generar la respuesta correspondiente en el periodo que este reglamento establece, así como la fecha en que la consulta o solicitud será atendida, situación que la UTVOPL informará de inmediato al OPL.
+
+g) Cuando por la naturaleza de la consulta o solicitud requiera atención inmediata o urgente, la instancia correspondiente del Instituto deberá dar respuesta antes de que fenezca el plazo o actividad que haya motivado la misma, evitando que quede sin materia.
+
+h) Si la comisión competente considera que la respuesta a una consulta amerita la definición de un criterio general, o que por su relevancia deba ser conocido por el Consejo General, deberá remitir el proyecto correspondiente a la Secretaría Ejecutiva del Instituto para su presentación y, en su caso, aprobación por el Consejo General en la siguiente sesión.
+
+i) Una vez aprobado el sentido de la respuesta, la dirección ejecutiva o unidad técnica la enviará a la UTVOPL, quien deberá de remitirla en un plazo máximo de 24 horas al OPL que realizó la consulta o solicitud en primera instancia, con copia a los integrantes de la CVOPL, del Consejo General y a la Vocalía Ejecutiva de la Junta Local Ejecutiva de la entidad que se trate.
+
+3. Toda respuesta a una consulta que se emita para un OPL en particular, la UTVOPL la hará del conocimiento de los integrantes de los Órganos Máximos de Dirección de los OPL de las demás entidades, por conducto de sus Presidencias.
+
+4. La UTVOPL publicará todas las consultas con sus respuestas en el portal del Instituto; asimismo las direcciones ejecutivas y unidades técnicas las compilarán de acuerdo con su ámbito de competencia.
+
+5. La UTVOPL presentará un informe de las consultas y solicitudes realizadas por los OPL en cada una de las sesiones ordinarias de la CVOPL.
 
 ## TÍTULO II. ATRIBUCIONES ESPECIALES DEL INSTITUTO
 
@@ -1345,9 +1371,11 @@ j) Informe de resguardo de los formatos de credencial para votar.
 
 #### SECCIÓN SÉPTIMA. MARCAJE DE LA CREDENCIAL PARA VOTAR
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 97.
 
-1. La DEOE propondrá al Consejo General, a través de la Comisión que corresponda, el lugar de la credencial para votar que deberá marcar el instrumento a utilizarse en los procesos electorales federales y locales, considerando el tipo de credencial con que cuentan los ciudadanos para ejercer el voto y si se trata o no de elecciones concurrentes.
+1. La DERFE y la DEOE propondrán a la Comisión del Registro Federal de Electores, para que ésta eleve al Consejo General, el lugar de la credencial para votar que deberá marcar el instrumento a utilizarse en los procesos electorales federales y locales, considerando el tipo de credencial con que cuentan los ciudadanos para ejercer el voto y si se trata o no de elecciones concurrentes.
 
 ### CAPÍTULO III.. MARCO GEOGRÁFICO ELECTORAL
 
@@ -1531,6 +1559,10 @@ g) Talleres de capacitación, y
 
 h) Mecanismos de seguimiento, verificación y evaluación de los supervisores electorales y CAE.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+i) En su caso, el reclutamiento, selección, designación y capacitación, de SE y CAE locales.
+
 ###### Artículo 115.
 
 1. Los mecanismos de coordinación institucional serán elaborados por la DECEyEC para que, a través de ellos, las distintas áreas del Instituto coadyuven e interactúen sobre un modelo de colaboración, con el propósito de garantizar la instalación en tiempo y forma de las casillas en los procesos electorales, basándose en el respeto de los ámbitos de competencia y de responsabilidades. Dichos mecanismos comprenderán, al menos, los temas siguientes:
@@ -1559,13 +1591,19 @@ j) Programación de reuniones de coordinación institucional.
 
 1. Corresponde a la DEOE elaborar el programa de asistencia electoral, el cual formará parte de la estrategia de capacitación y asistencia electoral que apruebe el Consejo General para cada proceso electoral federal o local.
 
-2. La asistencia electoral comprende todas las actividades que se desarrollarán por el Instituto, así como el calendario de ejecución de las mismas, para lograr la correcta ubicación y operación de las mesas directivas de casilla el día de la jornada electoral.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-3. El programa de asistencia electoral contendrá los procedimientos y aportará las herramientas necesarias que permitan a las juntas ejecutivas, así como a los consejos locales y distritales del Instituto, coordinar, supervisar y evaluar las tareas que realizarán los supervisores electorales y los CAE, antes, durante y después de la jornada electoral, y asegurar que se cumplan cada una de las actividades previstas en la LGIPE y en las legislaciones electorales locales, así como aquellas actividades que expresamente les sean conferidas a dichos órganos desconcentrados del Instituto.
+2. La asistencia electoral comprende todas las actividades que se desarrollarán por el Instituto y, en elecciones concurrentes, también por los OPL, así como el calendario de ejecución de las mismas, para lograr la correcta ubicación y operación de las mesas directivas de casilla el día de la jornada electoral.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+3. El programa de asistencia electoral contendrá los procedimientos y aportará las herramientas necesarias que permitan a las juntas ejecutivas, así como a los consejos locales y distritales del Instituto, coordinar, supervisar y evaluar las tareas que realizarán los SE y los CAE, y en su caso los SE locales y CAE locales, antes, durante y después de la jornada electoral, y asegurar que se cumplan cada una de las actividades previstas en la LGIPE y en las legislaciones electorales locales, así como aquellas actividades que expresamente les sean conferidas a dichos órganos desconcentrados del Instituto.
 
 4. En dicho programa se desarrollarán, al menos, los siguientes temas:
 
-a) Actividades de apoyo de los supervisores electorales y CAE en la preparación de la elección, durante y después de la jornada electoral;
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+a) Actividades de apoyo de los SE y CAE, y en su caso los SE locales y CAE locales, en la preparación de la elección, durante y después de la jornada electoral;
 
 b) Niveles de responsabilidad y mecanismos de coordinación institucional, y
 
@@ -1845,7 +1883,9 @@ g) La calidad de la estimación: confianza y error máximo implícito en la mues
 
 ###### Artículo 138.
 
-1. Las personas físicas o morales que pretendan realizar cualquier encuesta de salida o conteo rápido, deberán dar aviso por escrito al Secretario Ejecutivo del Instituto o del OPL correspondiente, para su registro, a más tardar diez días antes de aquel en que deba llevarse a cabo la jornada electoral respectiva.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+1. Las personas físicas o morales que pretendan realizar cualquier encuesta de salida o conteo rápido, darán aviso por escrito al Secretario Ejecutivo del Instituto o del OPL correspondiente, para su registro, a más tardar diez días antes de aquel en que deba llevarse a cabo la jornada electoral respectiva.
 
 2. El aviso deberá especificar el nombre completo de la persona física o la denominación o razón social de la persona moral interesada, de conformidad con lo siguiente:
 
@@ -2043,7 +2083,9 @@ XIX. Acta de cómputo de entidad federativa por el principio de representación 
 
 XX. Hoja de incidentes;
 
-XXI. Recibo de copia legible de las actas de casilla entregadas a los representantes de los partidos políticos y de candidato(s) independiente(s);
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+XXI. Recibo de copia legible de las actas de casilla y del acuse de recibo de la Lista Nominal entregadas a los representantes de los partidos políticos y de candidato(s) independiente(s);
 
 XXII. Constancia de clausura de casilla y remisión del paquete electoral al consejo distrital.
 
@@ -2051,9 +2093,13 @@ XXIII. Plantilla Braille (por tipo de elección);
 
 XXIV. Instructivo Braille;
 
-XXV. Hojas para hacer las operaciones de escrutinio y cómputo para casillas básicas, contiguas y, en su caso, extraordinarias (por tipo de elección);
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-XXVI. Hojas para hacer las operaciones de escrutinio y cómputo para, en su caso, casillas especiales (de cada elección de mayoría relativa y representación proporcional);
+XXV. Cuadernillo para hacer las operaciones de escrutinio y cómputo para casillas básicas, contiguas y, en su caso, extraordinarias (por tipo de elección);
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+XXVI. Cuadernillo para hacer las operaciones de escrutinio y cómputo para, en su caso, casillas especiales (de cada elección de mayoría relativa y representación proporcional);
 
 XXVII. Guía de apoyo para la clasificación de los votos;
 
@@ -2101,23 +2147,33 @@ XI. Cartel de identificación de casilla;
 
 XII. Cartel de identificación para casilla especial, en su caso;
 
-XIII. Aviso de localización de casilla;
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-XIV. Recibo de documentación y materiales electorales entregados al presidente de mesa directiva de casilla;
+XIII. Aviso de localización de centros de recepción y traslado fijo.
 
-XV. Recibo de entrega del paquete electoral al consejo distrital;
+XIV. Aviso de localización de casilla;
 
-XVI. Recibo de entrega del paquete electoral al consejo municipal (en el caso exclusivo de elección local);
+XV. Recibo de documentación y materiales electorales entregados al presidente de mesa directiva de casilla;
 
-XVII. Tarjetón vehicular;
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-XVIII. Constancia de mayoría y validez de la elección;
+XVI. Recibo de documentación y materiales electorales entregados al presidente de mesa directiva de casilla especial;
 
-XIX. Cartel de identificación de personas que requieren atención preferencial para acceder a la casilla.
+XVII. Recibo de entrega del paquete electoral al consejo distrital;
+
+XVIII. Recibo de entrega del paquete electoral al consejo municipal (en el caso exclusivo de elección local);
+
+XIX. Tarjetón vehicular;
+
+XX. Constancia de mayoría y validez de la elección;
+
+XXI. Cartel de identificación de personas que requieren atención preferencial para acceder a la casilla.
 
 ###### Artículo 151.
 
-1. Para el voto de los mexicanos residentes en el extranjero se deberá considerar, entre otros, los documentos electorales siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+Para el voto de los mexicanos residentes en el extranjero se deberá considerar, entre otros, los documentos electorales siguientes:
 
 a) Boleta electoral;
 
@@ -2129,11 +2185,17 @@ d) Acta de cómputo distrital;
 
 e) Hoja de incidentes;
 
-f) Recibo de copia legible de las actas de mesa de escrutinio y cómputo distrital entregadas a los representantes de los partidos políticos y de candidatura (s) independiente (s).
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-g) Recibo de copia legible de las actas de cómputo distrital entregadas a los representantes generales de los partidos políticos y de candidatura (s) independiente (s);
+f) Recibo de copia legible de las actas de mesa de escrutinio y cómputo entregadas a los representantes de los partidos y de candidatura(s) independiente(s).
 
-h) Hoja para hacer las operaciones de la mesa de escrutinio y cómputo;
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+g) Recibo de copia legible de las actas de cómputo de entidad federativa entregadas a los representantes generales de los partidos políticos y de candidatura (s) independiente (s).
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+h) Cuadernillo para hacer las operaciones de la mesa de escrutinio y cómputo.
 
 i) Guía de apoyo para la clasificación de los votos;
 
@@ -2146,6 +2208,10 @@ l) Bolsa o sobre de expediente de mesa de escrutinio y cómputo;
 m) Bolsa o sobre para lista nominal de electores;
 
 n) Bolsa o sobre para actas de mesa de escrutinio y cómputo por fuera del paquete electoral.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+ñ) Bolsa que contiene el acta de cómputo de entidad federativa levantada en el centro de escrutinio y cómputo (por tipo de elección).
 
 ###### Artículo 152.
 
@@ -2233,9 +2299,13 @@ e) Realizar pruebas piloto de los nuevos diseños de documentos, en particular, 
 
 f) Incorporar, en su caso, nuevas propuestas de mejora como resultado de la evaluación de la prueba;
 
-g) En el caso de los materiales electorales, se debe evitar el uso de cartón corrugado y su diseño deberá prever el tamaño adecuado para su traslado por los funcionarios de casilla el día de la jornada electoral, asegurando que, en su conjunto, quepan en vehículos de tamaño medio;
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-h) Elaborar las especificaciones técnicas de la documentación electoral y materiales electorales;
+g) En el caso de los materiales electorales para las elecciones en territorio nacional, se debe evitar el uso de cartón corrugado y su diseño deberá prever el tamaño adecuado para su traslado por los funcionarios de casilla el día de la jornada electoral, asegurando que, en su conjunto, quepan en vehículos de tamaño medio;
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+h) En el caso, de los materiales electorales para el voto de los mexicanos residentes en el extranjero, con excepción de la urna, serán fabricados en cartón corrugado la caja paquete y la caja contenedora de sobres.
 
 i) La documentación y materiales electorales de los OPL deberá seguir el procedimiento de validación previsto en el artículo 160 de este Reglamento, y
 
@@ -2271,41 +2341,59 @@ d) Elaborar el proyecto de acuerdo que será presentado junto con el informe ref
 
 #### SECCIÓN SÉPTIMA. APROBACIÓN, IMPRESIÓN Y PRODUCCIÓN DE DOCUMENTOS Y MATERIALES ELECTORALES POR LOS OPL
 
-###### Artículo 160.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+Artículo 160
 
 1. Además de las reglas establecidas en la Sección Cuarta del presente Capítulo, los OPL deberán observar lo siguiente:
 
-a) Con motivo de los procesos electorales locales ordinarios que celebren, los OPL deberán entregar a la DEOE los diseños y especificaciones técnicas de la documentación y materiales electorales, tanto para el voto de los mexicanos residentes en el extranjero como para la votación en territorio nacional, en la segunda semana del mes de septiembre del año anterior al de la elección, en medios impresos y electrónicos.
+a) Con base en el modelo de formatos únicos y colores unificados para las elecciones locales que se integra al Anexo 4.1 de este Reglamento, los OPL deberán entregar a la DEOE los diseños y especificaciones técnicas de la documentación y materiales electorales, tanto para el voto de los mexicanos residentes en el extranjero como para la votación en territorio nacional, a más tardar en el mes de noviembre del año anterior al de la elección, en medios impresos y electrónicos.
 
 b) La documentación y materiales electorales correspondientes a las elecciones locales, podrán contener aquellos elementos adicionales que mandaten las legislaciones estatales, siempre y cuando no se contrapongan a lo previsto en el presente Capítulo.
 
-c) La DEOE revisará y validará los diseños de los documentos y materiales electorales y especificaciones técnicas, presentados por el OPL, y emitirá sus observaciones en un plazo no mayor a diez días hábiles a partir de su fecha de recepción.
+c) En caso de que algún OPL de forma excepcional presente otro material con las mismas o mejores características de funcionalidad, resistencia, uso y costos de producción, la DEOE en el ámbito de sus facultades, analizará la viabilidad de la propuesta y presentará a la CCOE su valoración para que ésta dictamine su procedencia.
 
-d) Si la DEOE realiza observaciones a la documentación y material electoral del OPL, éste tendrá un plazo no mayor a cinco días hábiles contados a partir de la fecha en que le sean notificadas las mismas, para atenderlas y presentar los cambios pertinentes.
+d) La DEOE revisará y validará los diseños de los documentos y materiales electorales y especificaciones técnicas, presentados por el OPL, y emitirá sus observaciones en un plazo no mayor a diez días hábiles a partir de su fecha de recepción.
 
-e) Una vez validados por la DEOE los documentos y materiales electorales, y de acuerdo al calendario para el proceso electoral local correspondiente, el Órgano Superior de Dirección del OPL, deberá aprobar los documentos y materiales electorales, para después proceder con su impresión y producción.
+e) Si la DEOE realiza observaciones a la documentación y material electoral del OPL, éste tendrá un plazo no mayor a diez días hábiles contados a partir de la fecha en que le sean notificadas las mismas, para atenderlas y presentar los cambios pertinentes.
 
-f) La DEOE presentará a la Comisión correspondiente, un informe relativo a la validación de los diseños de documentos y modelos de materiales electorales de los OPL.
+f) Una vez validados por la DEOE los documentos y materiales electorales, y de acuerdo al calendario para el proceso electoral local correspondiente, el Órgano Superior de Dirección del OPL, deberá aprobar los documentos y materiales electorales, para después proceder con su impresión y producción.
 
-g) Los OPL deberán entregar a la DEOE, a través de la UTVOPL, un primer informe detallado, entre los meses de noviembre y diciembre del año anterior al de la elección, que dé cuenta de las acciones realizadas para el diseño de la documentación y materiales electorales y la elaboración de las especificaciones técnicas. El informe deberá presentarse en medios impresos y electrónicos.
+g) Los OPL deberán hacer llegar a la DEOE, a más tardar 15 días después de la aprobación a que se refiere el inciso anterior, los archivos con los diseños a color y especificaciones técnicas de la documentación y materiales electorales aprobados.
 
-h) Los OPL deberán entregar a la DEOE, a través de la UTVOPL, un segundo informe detallado, en la última semana del mes de febrero del año de la elección, que dé cuenta de las acciones realizadas para la aprobación y adjudicación de los documentos y materiales electorales y, en su caso, los avances en su producción y el seguimiento que ha dado el OPL a dicha producción. El informe deberá presentarse en medios impresos y electrónicos.
+h) La DEOE, integrará un repositorio con los diseños y especificaciones técnicas mencionados en el inciso anterior, que pondrá a disposición de los integrantes de la Comisión de Capacitación y Organización Electoral para las consultas que consideren pertinentes, a más tardar 15 días después de concluido el plazo de recepción establecido.
 
-i) La DEOE revisará cada uno de los informes y emitirá, en su caso, las observaciones correspondientes y, una vez subsanadas por los OPL, los validará.
+i) La DEOE presentará a la Comisión correspondiente, un informe relativo a la validación de los diseños de documentos y modelos de materiales electorales de los OPL.
 
-j) La DEOE presentará a la Comisión correspondiente, un informe relativo a la validación de los dos informes de los OPL.
+j) Los OPL deberán entregar a la DEOE, a través de la UTVOPL, un primer informe detallado, en el mes de diciembre del año anterior al de la elección, que dé cuenta de las acciones realizadas para el diseño de la documentación y materiales electorales y la elaboración de las especificaciones técnicas. El informe deberá presentarse en medios impresos y electrónicos.
 
-k) En todo momento, la DEOE, en coordinación con la UTVOPL, deberá atender las asesorías referentes al diseño, impresión y producción de la documentación y materiales electorales que les formulen los OPL.
+k) Los OPL deberán entregar a la DEOE, a través de la UTVOPL y de acuerdo al Calendario y Plan Integral de Coordinación de los Procesos Electorales Locales correspondiente, un reporte único sobre la aprobación y avances en la adjudicación de los documentos y materiales electorales. El reporte deberá presentarse en medios impresos y electrónicos.
 
-l) En los procesos electorales locales extraordinarios, los OPL deberán entregar a la DEOE para su validación, a través de la UTVOPL, los diseños de sus documentos y materiales electorales, previo a la aprobación por el Órgano Superior de Dirección del OPL, de conformidad con el plan y calendario de la elección, para después proceder con su impresión y producción.
+l) Los OPL deberán entregar a la DEOE, a través de la UTVOPL y de acuerdo al Calendario y Plan Integral de Coordinación de los Procesos Electorales Locales correspondiente, un reporte semanal del avance de la producción de los documentos y materiales electorales. El reporte deberá presentarse en medios electrónicos de acuerdo al formato proporcionado por la DEOE.
+
+m) La DEOE revisará los informes y reportes para emitir, en su caso, las observaciones correspondientes y, una vez subsanadas por los OPL, validarlos.
+
+n) La DEOE revisará cada uno de los informes y emitirá, en su caso, las observaciones correspondientes y, una vez subsanadas por los OPL, los validará.
+
+ñ) La DEOE presentará a la Comisión correspondiente, un informe relativo a la validación de los dos informes de los OPL.
+
+o) Los OPL deberán entregar a la DEOE, a través de la UTVOPL, un reporte con los resultados de las verificaciones de las medidas de seguridad en las boletas y actas de casilla, un día después de cada fecha de verificación. El reporte deberá presentarse en medios electrónicos, de acuerdo al formato proporcionado por la DEOE.
+
+p) En todo momento, la DEOE, en coordinación con la UTVOPL, deberá atender las asesorías referentes al diseño, impresión y producción de la documentación y materiales electorales que les formulen los OPL.
+
+q) En los procesos electorales locales extraordinarios, los OPL deberán entregar a la DEOE para su validación, a través de la UTVOPL, los diseños de sus documentos y materiales electorales, previo a la aprobación por el Órgano Superior de Dirección del OPL, de conformidad con el plan y calendario de la elección, para después proceder con su impresión y producción.
 
 ###### Artículo 161.
 
 1. Para el cálculo de la cantidad de documentos y materiales que se deben imprimir y producir, respectivamente, tanto para las elecciones federales como locales, así como para el voto de los mexicanos en el extranjero, se deben considerar los elementos que se contienen en el Anexo 4.1 de este Reglamento.
 
-###### Artículo 162.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-1. La DEOE deberá llevar a cabo dos supervisiones a los OPL respecto de los procedimientos de impresión y producción de la documentación y materiales electorales. La primera verificación deberá realizarse en los inicios de la producción, y durante la misma se examinará, en su caso, el cumplimiento de las observaciones que se hubieren formulado; la segunda verificación se hará cuando la producción se encuentre en un 50% a 75% de avance. La DEOE deberá informar previamente a los OPL las fechas de las verificaciones.
+Artículo 162
+
+1. La DEOE deberá llevar a cabo dos supervisiones a los OPL respecto de los procedimientos de impresión y producción de la documentación y materiales electorales
+
+2. La primera verificación deberá realizarse en los inicios de la producción, y durante la misma se examinará, en su caso, el cumplimiento de las observaciones que se hubieren formulado, mismas que serán verificadas y validadas por la DEOE y el OPL a pie de máquina para la producción a gran escala; la segunda verificación se hará cuando la producción se encuentre en un 50% a 75% de avance. La DEOE deberá informar previamente a los OPL las fechas de las verificaciones.
 
 #### SECCIÓN OCTAVA. MEDIDAS DE SEGURIDAD DE DOCUMENTOS Y MATERIALES ELECTORALES
 
@@ -2351,7 +2439,9 @@ a) Designación del personal autorizado para el acceso a la bodega electoral;
 
 b) Designación de una persona responsable de llevar el control preciso sobre la asignación de los folios de las boletas que se distribuirán en cada mesa directiva de casilla;
 
-3. A más tardar treinta días antes de la fecha de la jornada electoral, y previa celebración de las reuniones de coordinación necesarias para establecer la logística correspondiente, cada consejo distrital del Instituto o del órgano competente del OPL, deberán aprobar mediante acuerdo, la designación de supervisores electorales y CAE, así como de los prestadores de servicios o personal técnico y administrativo que auxiliará al presidente, secretario y consejeros electorales del consejo correspondiente en el procedimiento de conteo, sellado, agrupamiento e integración de las boletas en razón del número de electores que corresponda a cada una de las casillas a instalar el día de la elección.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+3. A más tardar veinticinco días antes de la fecha de la jornada electoral, y previa celebración de las reuniones de coordinación necesarias para establecer la logística correspondiente, cada consejo distrital del Instituto o del órgano competente del OPL, deberán aprobar mediante acuerdo, la designación de SE y CAE correspondientes, así como de los prestadores de servicios o personal técnico y administrativo que auxiliará al presidente, secretario y consejeros electorales del consejo correspondiente en el procedimiento de conteo, sellado, agrupamiento e integración de las boletas en razón del número de electores que corresponda a cada una de las casillas a instalar el día de la elección.
 
 ###### Artículo 168.
 
@@ -2415,9 +2505,11 @@ f) Seguimiento del itinerario de los vehículos y recepción en los distritos.
 
 1. Las boletas electorales deberán estar en las sedes de los consejos distritales del Instituto y de los órganos competentes de los OPL, a más tardar quince días antes de la fecha de la elección respectiva.
 
-###### Artículo 177.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-1. Las tareas de conteo, sellado y agrupamiento de boletas, así como la integración de la documentación para las casillas, que realicen los funcionarios y órganos del Instituto y de los OPL, según el caso, facultados para tal efecto, se realizarán de acuerdo al procedimiento descrito en el Anexo 5 de este Reglamento, previa determinación de la logística que se apruebe para ese efecto. Los supervisores electorales y CAE designados para tal efecto, invariablemente apoyarán en dichas actividades.
+Artículo 177
+
+1. Las tareas de conteo, sellado y agrupamiento de boletas, así como la integración de la documentación para las casillas, que realicen los funcionarios y órganos del Instituto y de los OPL, según el caso, facultados para tal efecto, se realizarán de acuerdo al procedimiento descrito en el Anexo 5 de este Reglamento, previa determinación de la logística que se apruebe para ese efecto. El Instituto apoyará a los OPL en la planeación y capacitación del grupo de multiplicadores del OPL a cargo de la capacitación a quienes auxiliarán en el conteo, sellado y agrupamiento de las boletas de las elecciones locales.
 
 ###### Artículo 178.
 
@@ -2453,17 +2545,23 @@ d) En su caso, las boletas necesarias para que vote la ciudadanía que obtuvo re
 
 #### SECCIÓN CUARTA. DISTRIBUCIÓN DE LA DOCUMENTACIÓN Y MATERIALES ELECTORALES A LA PRESIDENCIA DE LAS MESAS DIRECTIVAS DE CASILLA
 
-###### Artículo 182.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-1. Sin afectación al debido desarrollo de las actividades inherentes a la integración de las mesas directivas de casilla, los supervisores electorales y los CAE apoyarán en las actividades de preparación e integración de la documentación y materiales electorales.
+Artículo 182
 
-2. El personal técnico y administrativo del Instituto y del OPL que corresponda, podrá participar en dichas actividades.
+1. Sin afectación al debido desarrollo de las actividades inherentes a la integración de las mesas directivas de casilla, los supervisores electorales y los CAE apoyarán en las actividades de preparación e integración de la documentación y materiales electorales de las elecciones federales y llevarán a cabo la revisión en lo que corresponde a las elecciones locales.
+
+2. En caso de elecciones concurrentes, los SE y los CAE locales apoyarán la preparación de la documentación y los materiales correspondientes a las elecciones locales.
+
+3. El personal técnico y administrativo del Instituto y del OPL que corresponda, también podrá participar en las actividades señaladas en el numeral anterior, siempre y cuando cuente con la autorización del órgano competente.
 
 ###### Artículo 183.
 
 1. La persona designada para llevar el control y seguimiento preciso sobre la asignación de los folios de las boletas, también deberá verificar que se cuenta con toda la documentación y materiales electorales con base en el recibo que se entregará al presidente de la mesa directiva de casilla.
 
-2. La presidencia de los consejos distritales del Instituto o de los consejos competentes de los OPL, según corresponda, entregarán a cada presidente de mesa directiva de casilla, por conducto de CAE y dentro de los cinco días previos al anterior en que deba llevarse a cabo la jornada electoral respectiva, la documentación y materiales electorales. En el caso de elecciones concurrentes, cada presidente de mesa directiva de casilla recibirá la documentación y materiales electorales de las elecciones federales y locales que se celebren. Para efectos de lo anterior, a más tardar veinte días antes de la celebración de la jornada electoral, la junta local y el Órgano Superior de Dirección del OPL acordarán la logística necesaria para este fin.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. La presidencia de los consejos distritales del Instituto o de los consejos competentes de los OPL, según corresponda, entregarán a cada presidente de mesa directiva de casilla, por conducto del CAE y dentro de los cinco días previos al anterior en que deba llevarse a cabo la jornada electoral respectiva, la documentación y materiales electorales. En el caso de elecciones concurrentes, cada presidente de mesa directiva de casilla recibirá la documentación y materiales electorales de las elecciones federales y locales que se celebren. En este caso, los CAE serán auxiliados por los CAE locales, por lo que el órgano local deberá proveer los recursos materiales necesarios para facilitar la entrega conjunta de los paquetes de ambas elecciones. Para efectos de lo anterior, a más tardar veinte días antes de la celebración de la jornada electoral, la junta local y el Órgano Superior de Dirección del OPL acordarán la logística necesaria para este fin.
 
 3. Para efecto de lo señalado en los numerales que anteceden, los vocales de organización de las juntas distritales ejecutivas del Instituto elaborarán un programa de entrega y celebrarán reuniones de coordinación con el personal involucrado en la entrega, bajo la coordinación de los consejos distritales del Instituto, a más tardar la semana previa a la prevista para la distribución.
 
@@ -2491,7 +2589,9 @@ d) En su caso, las boletas necesarias para que vote la ciudadanía que obtuvo re
 
 ###### Artículo 186.
 
-1. El Instituto y los OPL emitirán al inicio del proceso electoral, una convocatoria en la que se difundirán los requisitos para obtener la acreditación como observador electoral.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+1. El Instituto y los OPL emitirán en la sesión inicial del proceso electoral, una convocatoria en la que se difundirán los requisitos para obtener la acreditación como observador electoral, tomando en consideración los modelos que forman parte de este Reglamento (Anexo 6.6).
 
 2. Quienes se encuentren acreditados como observadores electorales tendrán derecho a realizar las actividades de observación de los actos de carácter público de preparación y desarrollo de los procesos electorales federales y locales, tanto ordinarios como extraordinarios, así como de las consultas populares, incluyendo los que se lleven a cabo durante la jornada electoral y sesiones de los órganos electorales del Instituto y de los OPL, en términos de lo establecido en la LGIPE y este Reglamento.
 
@@ -2521,7 +2621,9 @@ c) Escrito bajo protesta en el que manifieste que cumple con los requisitos esta
 
 d) Dos fotografías recientes tamaño infantil del solicitante, y
 
-e) Copia de la credencial para votar.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+e) Copia de la credencial para votar vigente.
 
 2. La solicitud podrá ser presentada individualmente o a través de la organización de observadores electorales a la que pertenezcan.
 
@@ -2609,7 +2711,9 @@ e) Copia de la credencial para votar.
 
 ###### Artículo 199.
 
-1. El Instituto y los OPL, a través de sus páginas de internet, pondrán a disposición de las organizaciones de observadores electorales los materiales didácticos que se utilizarán para la capacitación de la elección correspondiente.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+1. El Instituto y los OPL, a través de sus páginas de Internet pondrán a disposición de sus órganos desconcentrados competentes y de las organizaciones de observadores electorales los materiales didácticos que se utilizarán para la capacitación de la elección correspondiente.
 
 2. En caso de procesos locales, el material didáctico y de apoyo deberá ser elaborado por los OPL y validado por la DECEyEC.
 
@@ -2623,17 +2727,25 @@ e) Copia de la credencial para votar.
 
 1. La autoridad competente para expedir la acreditación de los observadores electorales para los procesos electorales federales y locales, sean éstos ordinarios o extraordinarios, serán los consejos locales y distritales del Instituto.
 
-2. Conforme a lo anterior, una vez acreditados los requisitos establecidos en la LGIPE y en el presente Reglamento para obtener la acreditación de observador electoral, la presidencia del consejo local o distrital del Instituto, presentará las solicitudes al consejo respectivo para su aprobación, misma que deberá resolverse a más tardar en la siguiente sesión que celebren dichos consejos, observándose en todos los casos, los plazos establecidos en el presente Capítulo.
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-3. Quienes hayan obtenido su acreditación como observadores para un proceso electoral ordinario, podrán participar en el extraordinario que derive del mismo, previa solicitud de ratificación y verificación del cumplimiento de los requisitos legales que realice el consejo local o distrital del Instituto que le otorgó la acreditación.
+2. Para el caso de las solicitudes de observadores electorales presentadas ante los órganos de los OPL, la autoridad responsable de aprobarlas y emitir la acreditación correspondiente serán los consejos locales del Instituto o el Consejo Distrital que determine el propio Consejo Local.
 
-4. En caso que el consejo distrital que acreditó al observador electoral en la elección ordinaria, no se haya instalado para la elección extraordinaria respectiva, quien solicite la ratificación podrá entregar su solicitud ante la junta distrital ejecutiva correspondiente, y ésta deberá remitirla dentro de las veinticuatro horas siguientes, a la presidencia del consejo local de la entidad federativa respectiva.
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-5. El consejo local o distrital aprobará la ratificación y expedirá la acreditación respectiva, así como el gafete de observador electoral, sin que sea necesaria la asistencia a un nuevo curso de capacitación, salvo en aquellos casos en que se presenten modificaciones sustantivas respecto a la elección ordinaria. En este último supuesto, el consejo local podrá auxiliarse de la junta distrital ejecutiva en la que se presentó la solicitud, proporcionando los materiales didácticos necesarios para el nuevo curso de capacitación que deba impartirse.
+3. En caso de que como excepción, la Secretaría Ejecutiva reciba solicitudes de acreditación de observadores electorales, en cuyo caso las remitirá en un plazo no mayor a 24 horas al Consejo Local que corresponda para su procesamiento.
 
-6. En caso que un ciudadano pretenda observar la elección local de otra entidad federativa distinta a donde fue aprobada su solicitud por el órgano competente del Instituto y después de haber tomado el curso impartido por las instancias señaladas en el presente Capítulo, el órgano competente del Instituto aprobará las solicitudes correspondientes.
+4. Conforme a lo anterior, una vez acreditados los requisitos establecidos en la LGIPE y en el presente Reglamento para obtener la acreditación de observador electoral, la presidencia del consejo local o distrital del Instituto, presentará las solicitudes al consejo respectivo para su aprobación, misma que deberá resolverse a más tardar en la siguiente sesión que celebren dichos consejos, observándose en todos los casos, los plazos establecidos en el presente Capítulo.
 
-7. Los consejos locales o distritales podrán aprobar acreditaciones como observadores electorales hasta en la última sesión previa a que se celebre la jornada electoral respectiva.
+5. Quienes hayan obtenido su acreditación como observadores para un proceso electoral ordinario, podrán participar en el extraordinario que derive del mismo, previa solicitud de ratificación y verificación del cumplimiento de los requisitos legales que realice el consejo local o distrital del Instituto que le otorgó la acreditación.
+
+6. En caso que el consejo distrital que acreditó al observador electoral en la elección ordinaria, no se haya instalado para la elección extraordinaria respectiva, quien solicite la ratificación podrá entregar su solicitud ante la junta distrital ejecutiva correspondiente, y ésta deberá remitirla dentro de las veinticuatro horas siguientes, a la presidencia del consejo local de la entidad federativa respectiva.
+
+7. El consejo local o distrital aprobará la ratificación y expedirá la acreditación respectiva, así como el gafete de observador electoral, sin que sea necesaria la asistencia a un nuevo curso de capacitación, salvo en aquellos casos en que se presenten modificaciones sustantivas respecto a la elección ordinaria. En este último supuesto, el consejo local podrá auxiliarse de la junta distrital ejecutiva en la que se presentó la solicitud, proporcionando los materiales didácticos necesarios para el nuevo curso de capacitación que deba impartirse.
+
+8. En caso que un ciudadano pretenda observar la elección local de otra entidad federativa distinta a donde fue aprobada su solicitud por el órgano competente del Instituto y después de haber tomado el curso impartido por las instancias señaladas en el presente Capítulo, el órgano competente del Instituto aprobará las solicitudes correspondientes.
+
+9. Los consejos locales o distritales podrán aprobar acreditaciones como observadores electorales hasta en la última sesión previa a que se celebre la jornada electoral respectiva.
 
 ###### Artículo 202.
 
@@ -2723,7 +2835,9 @@ f) Durante la jornada electoral, a cuántas y cuáles casillas acudió, y
 
 g) Descripción de las actividades realizadas.
 
-2. Los informes que se presenten ante el Instituto, deberán ser entregados en las juntas locales o distritales ejecutivas ante las que hubiesen sido acreditados, y éstas serán las responsables de concentrarlos y enviarlos a la DEOE para su sistematización.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. Los informes que se presenten ante el Instituto deberán ser entregados en las juntas locales o distritales ejecutivas ante las que hubiesen sido acreditados, y éstas serán las responsables de su concentración y sistematización bajo la coordinación de la DEOE.
 
 3. El Secretario Ejecutivo entregará la información concentrada y sistematizada al Consejo General, y será el responsable de gestionar su publicación en la página electrónica del Instituto, previa protección de datos personales.
 
@@ -2735,7 +2849,11 @@ g) Descripción de las actividades realizadas.
 
 2. El informe deberá presentarse durante la sesión ordinaria que celebren los consejos locales y distritales del Instituto, en el mes previo a la jornada electoral.
 
-3. La Secretaría Ejecutiva deberá presentar al Consejo General, en cada sesión ordinaria que éste celebre durante el plazo de acreditación, un informe respecto del número de observadores acreditados, así como un informe final al término del proceso electoral correspondiente.
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+3. Asimismo, se presentará un informe consolidado en la última sesión del proceso electoral que celebren los consejos locales y distritales del Instituto.
+
+4. La Secretaría Ejecutiva deberá presentar al Consejo General, en cada sesión ordinaria que éste celebre durante el plazo de acreditación, un informe respecto del número de observadores acreditados, así como un informe final al término del proceso electoral correspondiente.
 
 #### SECCIÓN SÉPTIMA. DISPOSICIONES COMPLEMENTARIAS
 
@@ -2957,17 +3075,27 @@ j) El espacio interior sea suficiente para albergar simultáneamente al número 
 
 ###### Artículo 234.
 
-1. Para el caso de secciones electorales que presenten movimientos constantes de registros ciudadanos que se incorporen o se den de baja del padrón electoral y de la lista nominal de electores una vez que obtienen su credencial para votar con fotografía, se procederá de la manera siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-a) La junta distrital ejecutiva correspondiente, previo análisis, determinará con base en los cortes estadísticos del padrón electoral y lista nominal que le proporcione la DERFE, las secciones que contengan menos de cien registros ciudadanos en padrón electoral y, por otro lado, las secciones que reporten más de cien ciudadanos en padrón electoral, pero que en lista nominal se encuentren menos de cien electores.
+1. Para el caso de secciones electorales que presenten menos de cien registros ciudadanos en padrón electoral y, por otro lado, las secciones que reporten más de cien ciudadanos en padrón electoral, pero que en lista nominal se encuentren menos de cien electores, se procederá de la manera siguiente:
 
-b) De encontrarse secciones que se ubiquen en los supuestos del inciso anterior, los consejos distritales aprobarán, en la misma sesión en que se apruebe el listado de ubicación de casillas básicas y contiguas, las secciones electorales del listado nominal inferior a cien electores; aquéllas que teniendo más de cien, el número se hubiera reducido por causas supervenientes, como la migración; así como las secciones y casillas vecinas en las que ejercerán su voto los electores. La comunicación a los electores residentes de estas secciones se hará durante el mes previo a la jornada electoral.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-c) En estos casos, los electores acudirán a ejercer su voto a la casilla de la sección más cercana a su domicilio y dentro de su municipio, independientemente del número de casillas que tenga dicha sección, para lo cual los listados nominales correspondientes se sumarán a los ya aprobados y se entregarán al presidente de la casilla.
+a) La junta distrital ejecutiva correspondiente, previo análisis, determinará con base en los cortes estadísticos del padrón electoral y lista nominal que le proporcione la DERFE, las secciones que se encuentren en alguno de estos supuestos. Al respecto, elaborará una propuesta de reasignación para que los ciudadanos residentes en estas secciones puedan votar en la casilla de la sección electoral más cercana a su domicilio y dentro de las jurisdicciones que correspondan en las elecciones a las que tiene (sic) derecho a votar.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+b) Los consejos distritales, en la misma sesión en que se apruebe el listado de ubicación de casillas básicas y contiguas, aprobarán las secciones y casillas vecinas en las que ejercerán su voto los electores de las secciones con menos de cien electores en lista nominal o más de cien cuyo número se hubiera reducido por causas supervenientes, como la migración. Durante el mes previo a la jornada electoral se informará a los electores de estas secciones, la casilla a la que fueron reasignados para ejercer su voto.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+c) Los listados nominales de las secciones donde no se instalará casilla se entregarán al presidente de la mesa directiva de la casilla donde fueron asignados esos ciudadanos, para que los electores ejerzan su voto.
 
 d) La situación de este tipo de secciones se informará al consejo local y distrital correspondiente, para que tenga conocimiento de las circunstancias. Para el caso de las entidades federativas con elecciones concurrentes o no, se deberá informar constantemente a los OPL sobre los avances en la materia.
 
-e) Los consejos distritales podrán aprobar casillas en secciones de menos de cien electores, con el objeto de salvaguardar el derecho al voto, siempre y cuando se cuente al menos con cincuenta electores y la distancia a la casilla más cercana se encuentre a más de cuarenta kilómetros. Los consejos distritales podrán determinar su instalación aun mediando una distancia menor, cuando las condiciones de vialidad y medios de transporte dificulten el ejercicio del derecho.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+e) Los consejos distritales podrán aprobar casillas en secciones de menos de cien electores, con el objeto de salvaguardar el derecho al voto, siempre y cuando se garantice la integración de la mesa directiva de casilla y la distancia a la casilla más cercana se encuentre a más de 25 kilómetros. Los consejos distritales podrán determinar su instalación aun mediando una distancia menor, cuando las condiciones de vialidad y medios de transporte dificulten el ejercicio del derecho.
 
 ###### Artículo 235.
 
@@ -2995,7 +3123,9 @@ c) En cuanto a la distribución de la lista nominal de las secciones donde se re
 
 3. Para el caso elecciones concurrentes, los miembros de la junta distrital ejecutiva podrán ser acompañados en los recorridos, por funcionarios del OPL que corresponda.
 
-4. Una vez concluidos los recorridos, se deberá obtener la anuencia por escrito del propietario, arrendatario o responsable del inmueble que se haya seleccionado para la instalación de una o más casillas y posteriormente se levantará el inventario de necesidades para su equipamiento.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+4. A partir del inicio de los recorridos, se deberá obtener la anuencia por escrito del propietario, arrendatario o responsable del inmueble que se haya seleccionado para la instalación de una o más casillas, y se levantará el inventario de necesidades para su equipamiento.
 
 ###### Artículo 238.
 
@@ -3077,7 +3207,37 @@ f) El OPL deberá entregar la documentación y material electoral correspondient
 
 2. Para las funciones relativas a la preparación e instalación de la casilla, desarrollo de la votación, conteo de los votos y llenado de las actas, integración del expediente de casilla y del paquete electoral, publicación de resultados y clausura de casilla, traslado de los paquetes electorales a los órganos electorales respectivos, los integrantes de la mesa de casilla única realizarán, además, las actividades que se describen en el Anexo 8.1 del presente Reglamento.
 
-3. El procedimiento a seguir durante la recepción de votación en casilla única se contienen en el mismo Anexo 8.1
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+3. El procedimiento a seguir durante la recepción de votación en casilla única se contienen (sic) en el mismo Anexo 8.1.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+4. Una vez cerrada la votación, como primer paso del escrutinio será necesario que los funcionarios de la casilla abran sucesivamente las urnas, una por una, para efectuar la revisión del contenido a efecto de cerciorarse que no haya votos depositados en una urna equivocada y, en su caso, deberán colocarlos en la urna correspondiente. Este procedimiento iniciará con la elección presidencial, y una vez concluida la revisión se devolverán las boletas a la urna y se cerrará ésta, continuando luego con la primera elección local, conforme al orden de cómputo establecido en la LGIPE. De esta forma alternada entre elecciones federales y locales, se continuará hasta concluir con la revisión de las boletas de todas las elecciones, una por una. Realizado lo anterior, se procederá a efectuar el escrutinio y cómputo de las elecciones, a partir de Presidencia de la República y Gubernatura o Jefatura de Gobierno, simultáneamente, y de esta forma el resto de las elecciones.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+5. No obstante lo anterior, si durante el escrutinio y cómputo de alguna elección aparecieran uno o varios votos de una elección diferente cuyo cómputo hubiera finalizado y el acta correspondiente hubiera sido concluida, se procederá de la siguiente manera:
+
+a) El hecho se describirá en la Hoja de Incidentes señalando el sentido del o los votos de que se trate, anexando los mismos e indicando que se envían para que sean considerados en la sesión de cómputo por el Consejo Distrital.
+
+b) La Hoja de Incidentes y sus anexos se deberán integrar al expediente de la elección que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+6. Complementariamente a la previsión anterior, una vez concluido el cómputo de Presidencia o de Gubernatura o Jefatura de Gobierno, se procederá de inmediato al llenado y firma del acta de escrutinio y cómputo, para que la información de la misma sea enviada conforme a los procedimientos que se establezcan para los Conteos Rápidos y el PREP. De manera similar se procederá a realizar el escrutinio y cómputo simultáneo de las elecciones subsecuentes, levantándose de inmediato el acta correspondiente a cada de una de ellas, lo que impulsará asimismo una mayor oportunidad en el envío de las imágenes y, en su caso, datos requeridos para el PREP.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+7. Cada vez que se concluya con el llenado del acta correspondiente a una elección federal o local, se integrará el expediente respectivo, colocándolo en el interior de la caja paquete electoral, y se llenará la fracción que corresponda del cartel de resultados.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+8. Al concluir la totalidad de los escrutinios y cómputos de las tres elecciones federales (cinco en las casillas especiales) o la totalidad del número de elecciones locales de que se trate, se iniciará el traslado de los paquetes a las sedes respectivas sin esperar a que concluya el escrutinio y cómputo del otro tipo de elecciones (federales o locales), siempre que la previsión correspondiente haya sido tomada en los mecanismos de recolección. El traslado de los paquetes estará a cargo del funcionario designado por la o el presidente de casilla, quien será eximido de firmar el resto de la documentación de la casilla, permaneciendo los demás funcionarios, lo cual quedará consignado en la constancia de clausura señalando el nombre del funcionario y la hora en que se inició el traslado de los paquetes.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+9. Estas actividades serán asistidas por los CAE y CAE locales en los términos que se establezca (sic) en el Programa de Asistencia Electoral aprobado para el proceso electoral que corresponda, así como en lo señalado en los convenios de colaboración que se suscriban entre el Instituto y cada OPL.
 
 #### SECCIÓN SEXTA. CASILLAS ESPECIALES
 
@@ -3101,7 +3261,9 @@ f) El OPL deberá entregar la documentación y material electoral correspondient
 
 ###### Artículo 250.
 
-1. En el caso de elecciones locales concurrentes, los electores sólo podrán sufragar en las casillas especiales para el tipo de elección que corresponda según su domicilio y la ubicación de la casilla especial, de acuerdo a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+1. En el caso de elecciones federales, locales y/o concurrentes, los electores, representantes de partidos políticos o de candidaturas independientes, así como funcionarios de casilla especial, sólo podrán sufragar en las casillas especiales para el tipo de elección que corresponda según su domicilio y la ubicación de la casilla especial, de acuerdo a lo siguiente:
 
 a) Los electores que se encuentren transitoriamente fuera de su sección, pero dentro de su municipio o demarcación territorial de la Ciudad de México y dentro de su distrito local, podrán votar por ayuntamientos o alcaldías, diputados por los principios de mayoría relativa y de representación proporcional, así como por gobernador o jefe de gobierno, en las entidades en las cuales se lleve a cabo esta elección.
 
@@ -3116,6 +3278,10 @@ e) Los electores que se encuentren transitoriamente fuera de su sección, munici
 f) En los casos en que los ciudadanos tengan derecho a votar para la elección de diputados únicamente por el principio de representación proporcional, el presidente de la mesa directiva les entregará las boletas únicas para tal tipo de elección, asentando la leyenda "representación proporcional" o la abreviatura "R.P.".
 
 g) Las boletas de la elección de diputados en las que aparezca la leyenda "representación proporcional" o las iniciales "RP", sólo deberán computarse en el escrutinio de la elección de diputados por el principio de representación proporcional. Cualquier boleta electoral para diputado local que carezca de leyenda alguna, será considerada como voto por ambos principios, por lo que para efectos del escrutinio y cómputo en la casilla, será contabilizada para la elección de diputados locales de mayoría relativa.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+h) En aquellos casos en los que la legislación local disponga la elección de autoridades distintas a las señaladas en este artículo elegidas por el principio de mayoría relativa y se requiera la utilización de una boleta adicional, los ciudadanos podrán votar para dicha elección, únicamente cuando el domicilio de su credencial para votar se encuentre dentro del ámbito geográfico que corresponda a dicha elección y aparezca en la lista nominal correspondiente.
 
 #### SECCIÓN SÉPTIMA. SISTEMA DE CONSULTA DE CASILLAS ESPECIALES (SICCE)
 
@@ -3246,6 +3412,10 @@ h) En el supuesto que algún partido político nacional, estatal o candidato ind
 i) En caso que algún partido político pretenda registrar como representante general o ante mesa directiva de casilla, a un ciudadano que haya sido registrado previamente como representante de otro partido político o candidatura independiente, los vocales ejecutivos y secretarios de las juntas locales y distritales notificarán al partido político o candidato independiente solicitante, que el ciudadano fue registrado con anterioridad por otro contendiente político y, por lo tanto, se requiere que proceda a remplazarlo, siempre y cuando esto se realice dentro de los plazos de registro o sustitución previstos en la LGIPE.
 
 2. Para garantizar a los representantes de partidos políticos y de candidaturas independientes su debida acreditación ante la mesa directiva de casilla, el presidente del consejo competente, durante la distribución de la documentación y materiales electorales, entregará a los presidentes de las mesas directivas de casilla, una relación que contenga el nombre de los representantes de partidos políticos con registro nacional, local y, en su caso, candidaturas independientes, que tengan derecho de actuar en la casilla, así como la lista de representantes generales por partido político y candidatura independiente, de conformidad con el Anexo 9.3 de este Reglamento. En caso de elecciones locales y concurrentes, dicha lista será proporcionada previamente y mediante oficio dirigido al OPL, por la junta local ejecutiva del Instituto.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+3. Los representantes de los partidos políticos con registro nacional o estatal, así como los representantes de los candidatos independientes podrán ejercer su derecho al sufragio conforme a los criterios establecidos al efecto en el Anexo 9.4 y se hará del conocimiento de las presidencias de mesa directiva de casilla a través de los formatos comprendidos en los Anexos 9.3-F-2 y el 9.3-F-3.
 
 ###### Artículo 262.
 
@@ -3516,6 +3686,14 @@ n) El compromiso de que cada partido político asumirá las responsabilidades qu
 ###### Artículo 278.
 
 1. Las coaliciones deberán observar las mismas reglas de paridad de género que los partidos políticos, aun cuando se trate de coaliciones parciales o flexibles, en cuyo caso, las candidaturas que registren individualmente como partido, no serán acumulables a las de la coalición para cumplir con el principio de paridad.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+En el supuesto de coaliciones locales, se estará a lo siguiente:
+
+a) En caso de que los partidos políticos que integran coaliciones hubieran participado en forma individual en el proceso electoral anterior, se considerará la suma de la votación obtenida por cada partido político que integre la coalición correspondiente.
+
+b) En caso de que los partidos políticos que participen en forma individual, lo hayan hecho en coalición en el proceso electoral anterior, se considerará la votación obtenida por cada partido en lo individual.
 
 ###### Artículo 279.
 
@@ -3947,7 +4125,15 @@ c) Someter a consideración del Consejo General la propuesta de persona o person
 
 d) Resolver las cuestiones no previstas respecto a la organización de debates.
 
-4. El Consejo General designará a las personas que fungirán como moderadores de los debates, previo al inicio de las precampañas.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+4. El Consejo General designará a las personas que fungirán como moderadores de cada debate a más tardar treinta días antes de la fecha de la celebración del mismo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+5. Los partidos políticos, los candidatos o los representantes de los candidatos al cargo de elección respecto del cual se realice el debate, se abstendrán de buscar contacto por sí o a través de terceros con las personas designadas como moderadores del debate, a partir de su designación y hasta la celebración del debate, para tratar asuntos relacionados con la moderación del debate.
+
+Lo anterior, en el entendido que la Comisión Temporal es la encargada de coordinar la realización de debates en la elección presidencial.
 
 > <small>(REFORMADO, D.O.F. 26 DE SEPTIEMBRE DE 2017)</small>
 
@@ -4069,13 +4255,17 @@ f) Tipo de intervención que se requiere al Instituto.
 
 5. La base de datos que alimentará la herramienta informática del SIJE, será la correspondiente al sistema de ubicación de casillas con corte de las 20:00 del día previo al de la elección.
 
-6. El cierre de la herramienta informática que se implemente, será a las 23:00 horas del día de la elección.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+6. El cierre de la herramienta informática que se implemente, será a las 03:00 horas del día siguiente al de la elección.
 
 ###### Artículo 316.
 
 1. El Instituto diseñará, instalará y operará el SIJE con el objetivo de informar de manera permanente y oportuna al Consejo General, a los consejos locales y distritales del Instituto y, en caso de elecciones concurrentes, a los OPL que correspondan, sobre el desarrollo de la jornada electoral.
 
-2. Se establecerá una meta en términos porcentuales, del número de casillas con reporte sobre su instalación al SIJE, según corte de información en horario del centro, misma que deberá aprobarse por la Comisión de Organización Electoral, así como el Consejo General, a propuesta de la DEOE, a más tardar en el mes de julio del año previo al de la elección ordinaria que se celebre. En elecciones extraordinarias se podrán realizar ajustes, por parte de la Comisión de Capacitación y Organización Electoral o, en su caso, la Comisión de Organización Electoral, en la meta establecida para la elección ordinaria de la cual derive.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. Se establecerá una meta en términos porcentuales, del número de casillas con reporte sobre su instalación al SIJE, según corte de información en horario del centro, misma que deberá aprobarse por la Comisión de Organización Electoral, así como el Consejo General, a propuesta de la DEOE, antes del inicio del proceso electoral. En elecciones extraordinarias se podrán realizar ajustes, por parte de la Comisión de Capacitación y Organización Electoral o, en su caso, la Comisión de Organización Electoral, en la meta establecida para la elección ordinaria de la cual derive.
 
 ###### Artículo 317.
 
@@ -4127,7 +4317,13 @@ IX. Definición y funcionamiento de la herramienta informática.
 
 3. Las vocalías ejecutivas y de organización electoral de las juntas locales y distritales ejecutivas del Instituto, serán responsables de la implementación del SIJE en sus respectivos ámbitos de competencia.
 
-4. Los supervisores electorales y CAES serán responsables de la recopilación y transmisión de la información desde las casillas, en el ámbito de responsabilidad que les corresponda. Por lo anterior, deben participar en su totalidad, sin excepción alguna, en los simulacros que se lleven a cabo para asegurar el correcto funcionamiento de todos los procedimientos del SIJE.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+4. Los supervisores electorales y CAE serán responsables de la recopilación y transmisión de la información desde las casillas, en el ámbito de responsabilidad que les corresponda. Por lo anterior, deben participar en su totalidad, sin excepción alguna, en los simulacros que se lleven a cabo para asegurar el correcto funcionamiento de todos los procedimientos del SIJE.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+5. En el caso de elecciones concurrentes, los CAE locales auxiliarán al CAE en la atención de las necesidades de información y en la atención de los incidentes, para lo cual deberán recibir la capacitación correspondiente, impartida por el INE, y participar en los simulacros que se realicen. Este procedimiento formará parte del Manual de Operación que aprobará la Comisión respectiva, y que obrará como anexo técnico de los convenios de colaboración correspondientes.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -4183,7 +4379,9 @@ IX. Definición y funcionamiento de la herramienta informática.
 
 1. En cualquier tipo de elección federal o local, la operación de los mecanismos de recolección estará a cargo del Instituto. En el convenio general de coordinación y colaboración que se celebre con cada OPL, se establecerá la forma en que podrán coordinarse y participar los OPL en el mecanismo destinado para las elecciones locales, de acuerdo a lo dispuesto en el artículo 326, numeral 2 de este Reglamento, con el fin de agilizar el procedimiento.
 
-2. En caso de elecciones concurrentes, se llevarán a cabo dos operativos; uno para las elecciones federales y otro para las elecciones locales.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. En caso de elecciones concurrentes, la planeación de los mecanismos de recolección se hará atendiendo al interés de ambas instituciones de recibir con la mayor oportunidad los paquetes de resultados electorales en los órganos correspondientes. Por ello, existirán mecanismos que sólo atiendan al traslado de elecciones federales o locales y mecanismos para la atención conjunta de ambos tipos de elecciones, según se establezca en los estudios de factibilidad en términos de este apartado.
 
 3. Tratándose de elecciones locales y concurrentes, los gastos de operación de los mecanismos de recolección para las elecciones locales serán a cargo del OPL.
 
@@ -4193,7 +4391,9 @@ IX. Definición y funcionamiento de la herramienta informática.
 
 a) Centro de Recepción y Traslado Fijo (CRyT Fijo): mecanismo que se deberá ubicar en un lugar previamente determinado, cuyo objetivo es la recepción y concentración de paquetes electorales programados para su traslado conjunto al consejo correspondiente.
 
-b) Centro de Recepción y Traslado Itinerante (CRyT Itinerante): mecanismo excepcional cuyo objetivo es la recolección de paquetes electorales programados, que recorrerá diferentes puntos de una ruta determinada. En caso de aprobarse CRyT Itinerantes, se deberá requerir el acompañamiento de representantes de partidos políticos y candidatos independientes, considerando en cada caso el vehículo o vehículos necesarios para el traslado.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+b) Centro de Recepción y Traslado Itinerante (CRyT Itinerante): mecanismo cuyo objetivo es la recolección de paquetes electorales programados, que recorrerá diferentes puntos de una ruta determinada, con dificultades de acceso que imposibilitan la operación de otros mecanismos de recolección o del traslado individual del presidente o el funcionario encargado de entregar el paquete electoral en el consejo respectivo. En caso de aprobarse CRyT Itinerantes, se deberá requerir el acompañamiento de representantes de partidos políticos y candidatos independientes, considerando en cada caso el vehículo o vehículos necesarios para el traslado.
 
 c) Dispositivo de Apoyo para el Traslado de Funcionarios de Mesa Directiva de Casilla (DAT): mecanismo de transportación de presidentes o funcionarios de mesa directiva de casilla, para que a partir de la ubicación de la casilla, se facilite su traslado para la entrega del paquete electoral en la sede del consejo que corresponda o en el Centro de Recepción y Traslado Fijo, al término de la jornada electoral. Debido a que este mecanismo está orientado al apoyo del traslado de funcionarios de mesas directivas de casilla, por ningún motivo se utilizará para la recolección exclusiva de paquetes electorales.
 
@@ -4201,7 +4401,9 @@ c) Dispositivo de Apoyo para el Traslado de Funcionarios de Mesa Directiva de Ca
 
 1. Las juntas distritales ejecutivas del Instituto, en la primera semana del mes de marzo del año de la elección, elaborarán un estudio de factibilidad para las elecciones locales y otro para las federales en el caso de elecciones concurrentes por cada modalidad de mecanismo de recolección, en el que se describan las condiciones que justifiquen la necesidad de operación de dichos mecanismos, la cantidad de éstos, el listado de casillas que atenderán y el número (sic) paquetes electorales que recolectarán, las rutas de recolección y traslado, las previsiones de personal que se requerirá, así como los medios de transporte y comunicación que se utilizarán para ese fin. En el caso de los CRyT fijos, se precisará el equipamiento de los mismos.
 
-2. Para la elaboración de los estudios de factibilidad del mecanismo para las elecciones locales, la junta local ejecutiva del Instituto y el OPL correspondiente celebrarán una reunión de trabajo con el objeto de dar a conocer los plazos señalados en la legislación local que corresponda, para la entrega de paquetes, así como para que el OPL aporte la información e insumos que considere necesarios que el Instituto podrá tomar en cuenta para la elaboración de dicho estudio.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. Para la elaboración de los estudios de factibilidad del mecanismo para las elecciones locales, la junta local ejecutiva del Instituto y el OPL correspondiente celebrarán una reunión de trabajo con el objeto de dar a conocer los plazos señalados en la legislación local que corresponda, para la entrega de paquetes, así como para que el OPL aporte la información e insumos que considere necesarios que el Instituto deberá valorar en los análisis correspondientes.
 
 3. En cualquier tipo de elección que se celebre, el respectivo estudio de factibilidad se deberán considerar, entre otros, los factores que eventualmente pudieran dificultar a los funcionarios de las mesas directivas de casilla la entrega del paquete con el expediente de la elección en la sede del consejo competente, tales como:
 
@@ -4225,7 +4427,13 @@ i) Precisión del órgano u órganos electorales a los que, conforme a la legisl
 
 4. Podrá proponerse la operación de un CRyT fijo que fue utilizado en el proceso electoral federal inmediato anterior, para lo cual se deberán presentar los resultados y los beneficios que aportó su funcionamiento y se verificará durante el recorrido que se efectúe, que el lugar de instalación aún cumple con las características para el buen desarrollo de las funciones institucionales. Si se trata de una nueva propuesta, se deberá analizar su viabilidad y justificar la necesidad de su operación.
 
-5. En caso de elecciones locales, concurrentes o no, el estudio de factibilidad que se elabore para la implementación del mecanismo de recolección de las elecciones locales incluirá el número estimado de personal que se requerirá por modalidad de mecanismo. En su caso, y con base en la disponibilidad de personal con que cuenten las juntas distritales, la junta local que corresponda podrá solicitar oportunamente y mediante oficio al Órgano Superior de Dirección del OPL el número necesario e indispensable de personas que se requerirán para implementar el mecanismo para las elecciones locales.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+5. En caso de elecciones locales, concurrentes o no, el estudio de factibilidad que se elabore para la implementación del mecanismo de recolección de las elecciones locales incluirá el número estimado de personal que se requerirá por modalidad de mecanismo. En elecciones locales no concurrentes, y con base en la disponibilidad de personal con que cuenten las juntas distritales, la junta local que corresponda podrá solicitar oportunamente y mediante oficio al Órgano Superior de Dirección del OPL el número necesario e indispensable de personas que se requerirán para implementar el mecanismo para las elecciones locales.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+6. En elecciones concurrentes, los mecanismos de recolección serán atendidos directamente o coordinados en cada área de responsabilidad por los SE y los CAE y CAE locales, según corresponda. Estas previsiones incluirán la contratación de vehículos y conductores como parte de los operativos de recolección.
 
 ###### Artículo 331.
 
@@ -4239,11 +4447,15 @@ a) En sesión extraordinaria que celebren los consejos distritales en la segunda
 
 b) Para el caso de las elecciones locales o concurrentes, en el mes de marzo del año de la elección, los consejos locales deberán hacer del conocimiento de los OPL, los estudios de factibilidad presentados en los consejos distritales, a efecto que participen en el proceso de aprobación, mediante observaciones o, en su caso, nuevas propuestas al estudio de factibilidad para ser consideradas por los consejos distritales. Las observaciones y propuestas deberán ser remitidas al respectivo consejo local del Instituto, a más tardar, la tercera semana del mes de abril del año de la elección.
 
-c) Para el caso de elecciones locales o concurrentes, de manera conjunta con las observaciones, los OPL deberán remitir la previsión presupuestal considerada para la implementación del mecanismo de recolección para las elecciones locales; y en su caso, el listado necesario e indispensable de personas que se requerirán para implementar el mecanismo para las elecciones locales, referido en el artículo 330, numeral 5 de este Reglamento; en caso de no contar con el personal suficiente para atender el requerimiento, el OPL deberá remitir dicha información a más tardar en la tercera de abril, a efecto de que se incorpore en el acuerdo de aprobación correspondiente.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+c) Para el caso de elecciones locales o concurrentes, de manera conjunta con las observaciones, los OPL deberán remitir la previsión presupuestal considerada para la implementación del mecanismo de recolección para las elecciones locales; y en su caso, el listado necesario e indispensable de personas que se requerirán para implementar el mecanismo para las elecciones locales, referido en el artículo 330, numeral 5 de este Reglamento; en caso de no contar con el personal suficiente para atender el requerimiento, el OPL deberá remitir dicha información a más tardar en la tercera semana de abril, a efecto de que se incorpore en el acuerdo de aprobación correspondiente. En elecciones concurrentes, el OPL podrá entregar hasta la primera semana del mes anterior al de la elección, la relación de los supervisores electorales y CAE locales que coordinarán y/o apoyarán directamente los mecanismos de recolección de los paquetes de las elecciones locales.
 
 d) Previo a la aprobación de los mecanismos de recolección, los consejos distritales y los OPL podrán realizar, por separado o preferentemente de manera conjunta, recorridos en los distritos para verificar las propuestas presentadas por las juntas distritales ejecutivas.
 
-e) La aprobación de los mecanismos de recolección deberá realizarse en la sesión ordinaria que celebren los consejos distritales en el mes de abril del año de la elección. En el acuerdo de aprobación se deberá designar a los responsables y, en su caso, auxiliares de los mismos, de entre el personal administrativo, miembros del Servicio Profesional Electoral Nacional, supervisores electorales, CAES, o algún otro funcionario adscrito a la junta distrital ejecutiva correspondiente; de manera excepcional, de presentarse el supuesto referido en el artículo 330, numeral 5 de este Reglamento, la designación podrá recaer en el personal del OPL.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+e) La aprobación de los mecanismos de recolección deberá realizarse en la sesión ordinaria que celebren los consejos distritales en el mes de abril del año de la elección. En el acuerdo de aprobación se deberá designar a los responsables y, en su caso, auxiliares de los mismos, de entre el personal administrativo, miembros del Servicio Profesional Electoral Nacional, supervisores electorales, CAE, o algún otro funcionario adscrito a la junta distrital ejecutiva correspondiente; de manera excepcional, de presentarse el supuesto referido en el artículo 330, numeral 5 de este Reglamento, la designación podrá recaer en el personal del OPL. En elecciones concurrentes, en la tercera semana previa a la jornada electoral, se presentará a los consejos distritales del Instituto un informe complementario que contenga la relación de supervisores electorales y CAE locales que se harán cargo de los mecanismos de traslado de los paquetes de las elecciones locales.
 
 f) Una vez aprobados los mecanismos de recolección, los consejos distritales deberán remitir inmediatamente el acuerdo correspondiente a la junta local ejecutiva de la entidad que corresponda, para que ésta concentre los acuerdos distritales y, en caso de elecciones locales, los haga del conocimiento del OPL correspondiente dentro de las cuarenta y ocho horas siguientes.
 
@@ -4251,7 +4463,9 @@ g) Asimismo, se deberá informar a los partidos políticos y, en su caso, candid
 
 h) La acreditación se realizará ante los Consejos Distritales y de manera supletoria, ante los Consejos Locales del Instituto.
 
-i) Para el caso de la implementación de los mecanismos para elecciones locales, la junta local ejecutiva correspondiente informará al OPL la relación de los mecanismos acreditados a más tardar el día previo a la jornada electoral.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+i) Para el caso de la implementación de los mecanismos para elecciones locales, la junta local ejecutiva correspondiente informará al OPL la relación de los representantes acreditados para cada mecanismo a más tardar el día previo a la jornada electoral.
 
 j) Las juntas locales y distritales del Instituto, en coordinación con el OPL, impartirán talleres de capacitación al personal del OPL que, en su caso, haya sido designado.
 
@@ -4307,6 +4521,10 @@ e) Podrán acompañar y vigilar, por sus propios medios, el recorrido del mecani
 
 2. Tratándose de elecciones extraordinarias, el Consejo General o el Órgano Superior de Dirección del OPL que corresponda, podrán realizar ajustes en procedimientos y plazos para, en su caso, llevar a cabo el PREP. El OPL deberá informar cualquier determinación al Instituto.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+3. El Consejo General o el Órgano Superior de Dirección del OPL según corresponda, en el caso de elecciones extraordinarias, determinará la creación o no del COTAPREP y, la realización o no de auditorías, para lo cual se deberán tomar en consideración el número de actas a procesar, la complejidad de las condiciones en las que se desarrollará la elección, la suficiencia presupuestaria, entre otras. Cualquier determinación al respecto, deberá estar debidamente justificada y, tratándose de elecciones locales, deberá someterse a consideración de la Comisión competente del Instituto para que determine la procedencia de la decisión. Esta disposición no será aplicable en las elecciones de Presidente de la República, gobernadores de los estados y Jefe de Gobierno de la Ciudad de México.
+
 ###### Artículo 337.
 
 1. El resultado de la votación emitida en el extranjero será incluido en el PREP conforme a la normativa aplicable en el ámbito federal, y en el ámbito local, en aquellos casos en que la Constitución de la entidad federativa lo contemple.
@@ -4323,9 +4541,13 @@ a) Del Instituto, cuando se trate de:
 
 I. Elección de Presidente de la República;
 
-II. Elecciones de senadores;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-III. Elecciones de diputados federales;
+II. Elección de senadores;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+III. Elección de diputados federales;
 
 IV. Consulta popular, y
 
@@ -4333,35 +4555,61 @@ V. Otras elecciones que por mandato de autoridad o por asunción, corresponda al
 
 b) De los OPL, cuando se trate de:
 
-I. Elección de gobernador o jefe de gobierno de la Ciudad de México;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-II. Elecciones de diputados de los congresos locales o de la Legislatura de la Ciudad de México;
+I. Elección de Gobernador o Jefe de Gobierno de la Ciudad de México;
 
-III. Elecciones de integrantes de los ayuntamientos o alcaldías de la Ciudad de México; y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+II. Elección de diputados de los congresos locales o de la Legislatura de la Ciudad de México;
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+III. Elección de integrantes de los ayuntamientos o alcaldías de la Ciudad de México; y
 
 IV. Otras elecciones que por disposición legal o por mandato de autoridad, corresponda al OPL llevar a cabo.
 
-3. El Instituto y los OPL, en el ámbito de sus competencias, deberán acordar la designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, por lo menos seis meses antes al día de la jornada electoral.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-4. Para la implementación y operación del PREP, el Instituto y los OPL, según corresponda, podrán auxiliarse de terceros conforme a su capacidad técnica y financiera, y siempre que los terceros se ajusten a la normatividad aplicable y cumplan con los objetivos del PREP.
+3. El Instituto y los OPL, en el ámbito de sus competencias, deberán acordar la designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, por lo menos nueve meses antes al día de la jornada electoral.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+4. Para la implementación y operación del PREP, el Instituto y los OPL, según corresponda, podrán auxiliarse de terceros conforme a su capacidad técnica y financiera, y siempre que los terceros se ajusten a la normatividad aplicable y cumplan con los objetivos del PREP. La vigilancia del cumplimiento de lo anterior estará a cargo del Instituto o los OPL; el Instituto será el encargado de vigilar el cumplimiento de las disposiciones que rigen al PREP, por parte del tercero, tratándose de elecciones federales, consultas populares federales y aquellas elecciones que corresponda al Instituto llevar a cabo. Lo mismo corresponderá a los OPL tratándose de elecciones locales y ejercicios de participación ciudadana locales.
 
 5. En los contratos celebrados con terceros para la implementación y operación del PREP, no podrán establecerse condiciones en las que éstos, de manera directa o indirecta, contravengan lo dispuesto en el presente Reglamento, obstaculicen la supervisión del Instituto o de los OPL, o impidan la debida instrumentación del programa; adicionalmente, deben incluirse, en el alcance de la contratación, todos los requisitos técnicos y condiciones que se establecen en el presente Reglamento, siempre que guarden relación con los servicios contratados. El OPL deberá informar al Instituto sobre el cumplimiento de estas disposiciones.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+6. Para lo anterior, el Instituto o el OPL, en el ámbito de su competencia, deberá elaborar el anexo técnico que forme parte del convenio, contrato o instrumento jurídico. En él se establecerá el alcance de la participación del tercero que deberá incluir como mínimo los requisitos establecidos por el Instituto.
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 339.
 
-1. El Consejo General y los Órganos Superior de Dirección, en el ámbito de sus respectivas competencias, y considerando la elección de que se trate, deberán acordar al menos, lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-a) Designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, cuando menos seis meses antes del día de la jornada electoral.
+1. El Consejo General y los Órganos Superiores de Dirección, en el ámbito de sus respectivas competencias, y considerando la elección de que se trate, deberán acordar al menos, lo siguiente:
 
-b) La creación del COTAPREP al menos seis meses antes del día de la jornada electoral, en el que se determinen, por lo menos, los siguientes aspectos: la vigencia del Comité, los miembros que lo integran y su Secretario Técnico, una síntesis curricular que demuestre su experiencia, las funciones, atribuciones y cualquier otro supuesto que el presente Reglamento norme al respecto.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-c) El proceso técnico operativo que deberá contemplar, al menos, las fases de acopio y digitalización de las actas de escrutinio y cómputo destinadas para el PREP; la captura y verificación de datos; la publicación de datos e imágenes y el empaquetado de las actas destinadas para el PREP.
+a) Designación o ratificación de la instancia interna responsable de coordinar el desarrollo de las actividades del PREP, cuando menos nueve meses antes del día de la jornada electoral.
 
-d) La ubicación de los CATD y la instrucción para la instalación y habilitación de los mismos, previendo mecanismos de contingencia para la ubicación, instalación, habilitación y operación de los CATD, en los supuestos de caso fortuito o fuerza mayor.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-e) Instruir a los consejos locales, distritales o municipales, según corresponda, para que supervisen las actividades relacionadas con la implementación y operación del PREP en los CATD y, en su caso, en los recintos en los que se desarrollen las fases del proceso técnico operativo.
+b) La integración del COTAPREP al menos siete meses antes del día de la jornada electoral, en el que se determinen, por lo menos, los siguientes aspectos: la vigencia del Comité, los miembros que lo integran y su Secretario Técnico, una síntesis curricular que demuestre su experiencia, las funciones, atribuciones y cualquier otro supuesto que el presente Reglamento norme al respecto.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+c) El proceso técnico operativo que deberá contemplar, el rango mínimo y máximo de CATD y, en su caso de CCV, que podrán instalarse y, al menos, las fases de acopio y digitalización de las actas de escrutinio y cómputo destinadas para el PREP; la captura y verificación de datos; la publicación de datos e imágenes y el empaquetado de las actas destinadas para el PREP, así como, la operación del mecanismo para digitalizar actas desde las casillas.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+d) Las sedes en donde se instalarán los CATD, y en su caso los CCV, así como la instrucción para la instalación y habilitación de los mismos, previendo mecanismos de contingencia para su ubicación, instalación, habilitación y operación en los supuestos de caso fortuito o fuerza mayor.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+e) Instruir a los consejos locales, distritales o municipales, según corresponda, para que supervisen las actividades relacionadas con la implementación y operación del PREP en los CATD y, en su caso, en los CCV.
 
 f) La fecha en que se ejecutarán, al menos, tres simulacros del PREP.
 
@@ -4372,6 +4620,14 @@ h) El número de actualizaciones por hora de los datos; el número mínimo deber
 i) El número de actualizaciones por hora de las bases de datos que contengan los resultados electorales preliminares; el número mínimo deberá ser de tres por hora.
 
 j) Fecha y hora de publicación de la última actualización de datos, imágenes y bases de datos de los resultados electorales preliminares.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. Previo a la aprobación de los acuerdos a que hace referencia el numeral anterior y que se señalan en el lineamiento 33 del Anexo 13 del presente Reglamento, los Órganos Superiores de Dirección deberán remitirlos al Instituto con la finalidad de que éste brinde asesoría y, emita la opinión y las recomendaciones correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+3. Cualquier modificación a los acuerdos emitidos por los Órganos Superiores de Dirección deberá ser informada al Instituto.
 
 #### SECCIÓN SEGUNDA. ACUERDOS A EMITIR
 
@@ -4387,7 +4643,9 @@ j) Fecha y hora de publicación de la última actualización de datos, imágenes
 
 a) Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-b) Contar con experiencia en materias como estadística, tecnologías de la información y comunicaciones, investigación de operaciones o ciencia política, preferentemente con conocimientos en materia electoral;
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+b) Contar con título y/o cédula profesional, y con al menos cinco años de experiencia en materias como estadística, tecnologías de la información y comunicaciones, investigación de operaciones o ciencia política, preferentemente con conocimientos en materia electoral;
 
 c) No haber sido candidato a cargo de elección popular en los últimos tres años;
 
@@ -4397,17 +4655,37 @@ e) No haber sido designado consejero electoral del Consejo General o de Órgano 
 
 f) No haberse desempeñado como miembro de dirigencias nacionales, estatales o municipales de partido político alguno en los últimos tres años;
 
-g) Su participación no debe generar un conflicto de interés con los involucrados en la implementación y operación del PREP; en caso de presentarse, debe hacerlo de conocimiento del Instituto u OPL según corresponda.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-2. En la integración del COTAPREP se procurará la renovación parcial del mismo.
+g) Su participación no debe implicar un conflicto de interés con los involucrados en la implementación y operación del PREP o cualquier actividad relacionada; en caso de presentarse, debe hacerlo de conocimiento del Instituto u OPL, según corresponda. En esta situación, el Consejo General del Instituto o el Órgano de Dirección Superior del OPL, según corresponda, será el órgano competente para determinar si existe un conflicto de interés que constituya es (sic) un impedimento para que ser (sic) miembro del COTAPREP.
 
-3. Cada COTAPREP deberá contar con integrantes que, en conjunto, cuenten con experiencia en estadística, tecnologías de la información y comunicaciones, investigación de operaciones y ciencia política.
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-4. En la integración de los COTAPREP se deberá considerar pluralidad, eficacia y profesionalismo, así como garantizar el cumplimiento de las funciones y atribuciones que se establecen en el presente Reglamento.
+h) No prestar sus servicios profesionales o formar parte del ente designado como auditor.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+i) No prestar sus servicios profesionales o formar parte del tercero encargado de la implementación del PREP, en aquellos casos en los que el Instituto o los OPL, determinen auxiliarse de un tercero para la implementación y operación del PREP.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+j) No formar parte de algún otro comité o comisión creados por el Instituto o el OPL, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. La instancia interna responsable de coordinar el desarrollo de las actividades del PREP será la encargada de validar el cumplimiento de los requisitos de los integrantes del COTAPREP.
+
+3. En la integración del COTAPREP se procurará la renovación parcial del mismo.
+
+4. Cada COTAPREP deberá contar con integrantes que, en conjunto, cuenten con experiencia en estadística, tecnologías de la información y comunicaciones, investigación de operaciones y ciencia política.
+
+5. En la integración de los COTAPREP se deberá considerar pluralidad, eficacia y profesionalismo, así como garantizar el cumplimiento de las funciones y atribuciones que se establecen en el presente Reglamento.
 
 ###### Artículo 342.
 
-1. El COTAPREP deberá entrar en funciones con una anticipación mínima de seis meses al día de la jornada electoral correspondiente, y tendrá las atribuciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+1. El COTAPREP deberá entrar en funciones con una anticipación mínima de siete meses al día de la jornada electoral correspondiente, y tendrá las atribuciones siguientes:
 
 a) Realizar análisis, estudios y propuestas, en el desarrollo y optimización del PREP, con la finalidad que éste cumpla con los objetivos y metas planteadas;
 
@@ -4427,13 +4705,19 @@ h) Realizar reuniones de trabajo con representantes de los partidos políticos y
 
 i) Elaborar un informe de actividades, al menos cada dos meses, que deberá ser entregado al Consejo General o al Órgano Superior de Dirección que corresponda;
 
-j) Presenciar la ejecución de todos los simulacros del PREP, debiendo asistir a algún recinto donde se lleve a cabo el proceso técnico operativo de al menos un simulacro;
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+j) Presenciar la ejecución de todos los simulacros del PREP, debiendo asistir a algún recinto donde se lleven a cabo, al menos alguna de las fases del proceso técnico operativo.
 
 k) Elaborar un informe final de las actividades desempeñadas durante la vigencia del COTAPREP, que deberá ser entregado al Consejo General o al Órgano Superior de Dirección que corresponda, dentro del mes del día de la jornada electoral, y
 
 l) Las demás que sean necesarias para el cumplimiento de sus atribuciones, siempre y cuando se encuentren apegadas a lo que dispone la LGIPE, este Reglamento y su Anexo 13, y demás normatividad aplicable.
 
-2. En las reuniones que lleve a cabo el comité, los representantes de los partidos políticos y, en su caso, de los candidatos independientes ante el Consejo General o el Órgano Superior de Dirección del OPL, según el caso, podrán dar a conocer sus observaciones, comentarios y sugerencias respecto a los temas que se aborden en cada reunión. El comité deberá analizar lo hecho valer por los representantes para que, en las reuniones subsecuentes, se presente el seguimiento que se hubiere dado.
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. Adicionalmente, el COTAPREP que sea integrado por el Instituto tendrá la función de brindar asesoría y apoyar a éste en sus funciones de seguimiento y asesoría en materia de implementación y operación del PREP en elecciones locales, para lo cual podrán contar con personal de apoyo y, en su caso, el Instituto deberá prever los recursos necesarios.
+
+3. En las reuniones que lleve a cabo el comité, los representantes de los partidos políticos y, en su caso, de los candidatos independientes ante el Consejo General o el Órgano Superior de Dirección del OPL, según el caso, podrán dar a conocer sus observaciones, comentarios y sugerencias respecto a los temas que se aborden en cada reunión. El comité deberá analizar lo hecho valer por los representantes para que, en las reuniones subsecuentes, se presente el seguimiento que se hubiere dado.
 
 ###### Artículo 343.
 
@@ -4467,7 +4751,9 @@ V. Fungir como enlace del Comité ante el Secretario Ejecutivo o su homólogo en
 
 ###### Artículo 344.
 
-1. Los COTAPREP deberán realizar una sesión de instalación, la cual se llevará a cabo dentro de los primeros cinco días siguientes a su entrada en funciones o aprobación del acuerdo por el que se determina su creación. En dicha sesión se aprobará el plan de trabajo y el calendario para las sesiones ordinarias.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+1. Los COTAPREP deberán realizar una sesión de instalación, la cual se llevará a cabo dentro de los primeros cinco días siguientes a su entrada en funciones o aprobación del acuerdo por el que se determina su integración. En dicha sesión se aprobará el plan de trabajo y el calendario para las sesiones ordinarias.
 
 2. A las sesiones del COTAPREP podrán acudir, en calidad de invitados con derecho a voz, los miembros del Consejo General o del Órgano Superior de Dirección que corresponda, o quien los represente; los funcionarios de la autoridad administrativa electoral correspondiente y, en su caso, especialistas cuyos conocimientos y experiencia aporten elementos relevantes a los trabajos propios de los comités.
 
@@ -4485,6 +4771,14 @@ b) Dar a conocer los avances y seguimiento de los simulacros y la operación del
 
 #### SECCIÓN TERCERA. COMITÉ TÉCNICO ASESOR DEL PREP (COTAPREP)
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+Artículo 340
+
+1. El Instituto y cada OPL deberán integrar, en el ámbito de su competencia, a más tardar siete meses antes de la fecha de la jornada electoral respectiva, un Comité Técnico Asesor que brinde asesoría técnica en materia del PREP, cuyos miembros serán designados por el Consejo General o el Órgano Superior de Dirección, según corresponda. En aquellos casos en los que el Instituto sea el responsable de implementar dos o más PREP, podrá integrar un solo COTAPREP.
+
+2. El COTAPREP que sea integrado por el OPL se conformará por un mínimo de tres y un máximo de cinco miembros; el que integre el Instituto estará conformado con un mínimo de tres y un máximo de siete miembros, y en ambos casos, serán auxiliados por el titular de la instancia interna responsable de coordinar la implementación y operación del PREP, quien fungirá como su secretario técnico.
+
 ###### Artículo 346.
 
 1. El Instituto y los OPL, en el ámbito de su competencia, deberán implementar un sistema informático para la operación del PREP. El sistema, ya sea propio o desarrollado por terceros, será independiente y responsabilidad de cada una de dichas autoridades; además, deberá cumplir las etapas mínimas señaladas en el Anexo 13 de este Reglamento.
@@ -4501,6 +4795,18 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 
 2. Para la designación del ente auditor se dará preferencia a instituciones académicas o de investigación y deberá efectuarse a más tardar, cuatro meses antes del día de la jornada electoral. El ente auditor deberá contar con experiencia en la aplicación de auditorías con los alcances establecidos en el numeral anterior.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+3. La instancia interna responsable de coordinar el desarrollo de las actividades del PREP será la encargada de validar el cumplimiento de la experiencia del ente auditor.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+4. El ente auditor deberá presentar, previo a su designación, una propuesta técnico económica que incluya el cronograma de las actividades a realizar y que cumpla con el anexo técnico que para tal efecto se establezca, el cual a su vez deberá considerar los requisitos mínimos establecidos por el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+5. El Instituto será el encargado de vigilar el cumplimiento por parte del ente auditor, de las disposiciones que rigen al PREP, tratándose de elecciones federales, consultas populares federales y aquellas elecciones que corresponda al Instituto llevar a cabo. Lo mismo corresponderá a los OPL tratándose de elecciones locales y ejercicios de participación ciudadana locales.
+
 #### SECCIÓN CUARTA. SISTEMA INFORMÁTICO Y SU AUDITORÍA
 
 ###### Artículo 348.
@@ -4515,17 +4821,25 @@ b) Análisis de vulnerabilidades, considerando al menos pruebas de penetración 
 
 2. Los ejercicios tendrán como objetivo que el personal o los prestadores de servicios del PREP lleve a cabo la repetición de las actividades necesarias para la operación del programa, a fin de adiestrarse en su ejecución.
 
-3. El objeto de los simulacros es replicar, en su totalidad, la operación del PREP, desarrollando cada una de las fases del proceso técnico operativo en el orden establecido. Se deberán realizar como mínimo, tres simulacros durante los treinta días previos al de la jornada electoral.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+3. El objeto de los simulacros es replicar, en su totalidad, la operación del PREP, desarrollando cada una de las fases del proceso técnico operativo en el orden establecido. Se deberán realizar como mínimo, tres simulacros durante los tres domingos previos al de la jornada electoral.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN SEXTA. EJERCICIOS Y SIMULACROS
 
 ###### Artículo 350.
 
-1. Los CATD son los centros oficiales para el acopio de las actas de escrutinio y cómputo destinadas para el PREP. Constituyen las unidades básicas de la operación del PREP, en las cuales se pueden realizar actividades de digitalización, captura, verificación y transmisión de datos e imágenes, conforme se establezca en el proceso técnico operativo.
+1. Los CATD son los centros oficiales en los cuales se lleva a cabo el acopio de las actas de escrutinio y cómputo destinadas para el PREP. Constituyen las unidades básicas de la operación del PREP, en las cuales, además se pueden realizar actividades de digitalización, captura, verificación y transmisión de datos e imágenes, conforme se establezca en el proceso técnico operativo.
 
-2. El Instituto y los OPL, en el ámbito de su competencia, deberán determinar la ubicación de los CATD y adoptar las medidas correspondientes para adecuar los espacios físicos de las instalaciones. Los criterios para su ubicación se encuentran previstos en el Anexo 13 de este Reglamento.
+2. Los CCV son los centros en los que se realizan actividades de captura y verificación de datos, los cuales se podrán ubicar preferentemente, en alguna sede del Instituto o de los OPL, según corresponda, o bien en cualquier otra sede. Los CCV se pueden instalar adicionalmente a los CATD pues, en su caso, fungen como apoyo en las labores de captura y verificación de datos. Para determinar su instalación se deberán tomar en consideración a las capacidades técnicas, materiales y humanas con que cuente el Instituto o los OPL, según corresponda.
 
-#### SECCIÓN SÉPTIMA. CENTROS DE ACOPIO Y TRANSMISIÓN DE DATOS (CATD)
+3. El Instituto y los OPL, en el ámbito de su competencia, deberán determinar la ubicación de los CATD y, en su caso de los CCV, así como adoptar las medidas correspondientes para adecuar los espacios físicos de las instalaciones. Los criterios para su ubicación se encuentran previstos en el Anexo 13 de este Reglamento.
+
+#### SECCIÓN SÉPTIMA. CENTROS DE ACOPIO Y TRANSMISIÓN DE DATOS (CATD) Y CENTROS DE CAPTURA Y VERIFICACIÓN (CCV)
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 351.
 
@@ -4555,7 +4869,9 @@ b) Tipo de elecciones;
 
 c) PREP;
 
-d) CATD y proceso técnico operativo;
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+d) CATD, en su caso CCV, y proceso técnico operativo;
 
 e) Seguridad de la información, en el ámbito de competencia que corresponda, y
 
@@ -4569,21 +4885,31 @@ f) Manejo del sistema informático, en el ámbito de competencia que corresponda
 
 2. Los difusores oficiales serán invitados a participar mediante convocatoria o invitación directa, según lo determine el Instituto o los OPL. En los instrumentos jurídicos que, en su caso, sean suscritos para tales efectos, se determinarán y detallarán los mecanismos de intercambio de información entre ambas partes. Asimismo, el Instituto y los OPL, según corresponda, deberán publicar en su portal de internet, la lista de difusores oficiales.
 
-3. El inicio y cierre de la publicación de los resultados electorales preliminares dependerá de la elección de que se trate, con base en lo siguiente:
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-a) Elecciones federales: la publicación podrá iniciar a partir de las 20:00 horas, tiempo del centro, considerando las zonas de husos horarios más occidentales del territorio nacional, quedando prohibido publicar por cualquier medio, los resultados electorales preliminares antes de la hora señalada. El cierre de operaciones será después de un plazo máximo de veinticuatro horas contadas a partir de la hora de inicio de la publicación;
+3. El Instituto y los OPL, en el ámbito de sus competencias, deberán construir respectivamente, un prototipo navegable de su sitio de publicación que se deberá revisar en el marco de las sesiones del COTAPREP, a más tardar cuatro meses antes del día de la Jornada Electoral. Dicho prototipo deberá considerar la plantilla base de la interfaz proporcionada por el Instituto, observando lo establecido en los Lineamientos del PREP, en lo que refiere a los datos mínimos a publicar.
 
-b) Elecciones locales: los OPL deberán iniciar la publicación a partir de las 18:00 horas del horario local de la entidad federativa que corresponda, quedando prohibido publicar por cualquier medio los resultados electorales preliminares antes de la hora señalada. El cierre de operaciones será después de un plazo máximo de veinticuatro horas contadas a partir de la hora de inicio de la publicación.
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-4. El Instituto y los OPL cerrarán operaciones antes del plazo señalado en las fracciones anteriores, siempre y cuando se logre el 100% del registro, captura y publicación de las actas PREP recibidas en los CATD.
+4. El inicio y cierre de la publicación de los resultados electorales preliminares dependerá de la elección de que se trate con base en lo siguiente:
 
-5. Al cierre de la publicación del PREP, el Instituto y los OPL deberán levantar un acta circunstanciada en la que se haga constar la información relevante al cierre.
+a) Elecciones federales: la publicación podrá iniciar a partir de las 20:00 horas, tiempo del centro, considerando las zonas de husos horarios más occidentales del territorio nacional, quedando prohibido publicar por cualquier medio, los resultados electorales preliminares antes de la hora señalada. El cierre de publicación será en un plazo máximo de veinticuatro horas contadas a partir de la hora de inicio de la publicación;
 
-6. La publicación de los resultados electorales preliminares se realizará con base en los datos a capturar, calcular y publicar establecidos en el Anexo 13. El tratamiento de inconsistencias de los datos contenidos en las actas de escrutinio y cómputo destinadas para el PREP, se hará de conformidad con lo dispuesto en el anexo mencionado.
+b) Elecciones locales: los OPL deberán determinar la hora de inicio de su publicación entre las 18:00 y las 20:00 horas del horario local de la entidad federativa que corresponda, quedando prohibido publicar por cualquier medio los resultados electorales preliminares antes de la hora señalada. El cierre de publicación será en un plazo máximo de veinticuatro horas contadas a partir de la hora de inicio de la publicación.
 
-7. Una vez concluida la operación del PREP, el Instituto y los OPL deberán poner a disposición del público en general, a través de Internet y de forma permanente, el portal de los resultados electorales preliminares y las bases de datos finales, manteniendo el formato y contenido intactos.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-8. Los difusores oficiales deberán garantizar que el acceso a la información sea público y gratuito.
+5. El Instituto y los OPL cerrarán la publicación antes del plazo señalado en las fracciones anteriores, siempre y cuando se logre el 100% del registro de las actas PREP esperadas y se hayan agotado los recursos de recuperación de las mismas.
+
+6. Al cierre de la publicación del PREP, el Instituto y los OPL deberán levantar un acta circunstanciada en la que se haga constar la información relevante al cierre.
+
+7. La publicación de los resultados electorales preliminares se realizará con base en los datos a capturar, calcular y publicar establecidos en el Anexo 13. El tratamiento de inconsistencias de los datos contenidos en las actas de escrutinio y cómputo destinadas para el PREP, se hará de conformidad con lo dispuesto en el anexo mencionado.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+8. Una vez concluida la operación del PREP, el Instituto y los OPL deberán mantener a disposición del público en general, a través de Internet y de forma permanente, el portal de los resultados electorales preliminares y las bases de datos finales, conservando el formato y contenido intactos. En caso de que la dirección electrónica utilizada para la publicación del PREP el día de la jornada electoral sea modificada, el OPL deberá informarlo al Instituto en un plazo máximo de 3 días contados a partir de que esto ocurra, y hacerlo de conocimiento público.
+
+9. Los difusores oficiales deberán garantizar que el acceso a la información sea público y gratuito.
 
 #### SECCIÓN NOVENA. PUBLICACIÓN DE RESULTADOS ELECTORALES PRELIMINARES
 
@@ -4667,7 +4993,9 @@ f) Publicación.
 
 2. Los COTECORA se integrarán por las figuras siguientes:
 
-a) Asesores Técnicos: De tres a cinco expertos en métodos estadísticos y diseño muestral, con derecho a voz y voto, y
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+a) Asesores Técnicos: Cuando menos tres expertos en métodos estadísticos y diseño muestral, con derecho a voz y voto, y;
 
 b) Secretario Técnico: Funcionario del Instituto o del OPL, según corresponda, con derecho a voz, quien será el enlace entre el comité y el Consejo General respectivo, y auxiliará en todo momento a los asesores técnicos.
 
@@ -4843,13 +5171,23 @@ f) La generación y envío del reporte con la simulación de las estimaciones, a
 
 2. El Instituto establecerá los mecanismos de coordinación mediante convenios específicos con los OPL que deberán celebrarse al menos tres meses antes de la jornada electoral, para la participación del personal que recabará y transmitirá los datos obtenidos de las actas de escrutinio y cómputo respectivas.
 
-3. El Instituto y el OPL, en sus respectivos ámbitos de competencia, deberán diseñar el programa de operación logística que asegure la recolección y transmisión de los datos de una manera segura y oportuna.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-4. El personal en campo autorizado para tener acceso a los resultados de la votación anotados en las actas de escrutinio y cómputo de casilla, serán exclusivamente los supervisores electorales y CAE.
+3. El Instituto y el OPL, en sus respectivos ámbitos de competencia, deberán diseñar el Programa de Operación Logística que asegure la recolección y transmisión de los datos de una manera segura y oportuna. El OPL deberá informar al Instituto sobre sus previsiones al respecto, a efecto de que, en su caso, pueda recibir las recomendaciones pertinentes, y deberá hacerlo de su conocimiento una vez que sea aprobado por su Órgano Superior de Dirección, dentro de los tres días posteriores a que ello ocurra, por conducto de la UTVOPL.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+4. El personal en campo autorizado para tener acceso a los resultados de la votación anotados en las actas de escrutinio y cómputo de casilla, serán los supervisores electorales y CAE. Solamente en casos de necesidad evidente, ante la asignación de diversas casillas a un solo CAE, el Consejo Distrital podrá aprobar que el CAE local lo auxilie enviándole una fotografía del acta correspondiente, en cuyo caso el CAE será el responsable de transmitirla conforme al procedimiento previamente establecido. Asimismo, para el caso de que sea necesario, el Consejo Distrital aprobará en la sesión ordinaria del mes previo al de la jornada electoral, un orden de prelación de técnicos electorales que podrán auxiliar enviando al CAE la fotografía del acta correspondiente.
 
 5. Para asegurar la oportunidad en el reporte de los datos desde las casillas, el personal en campo deberá comunicar los resultados de manera inmediata, una vez que se haya llenado el acta de escrutinio y cómputo de casilla de la elección correspondiente.
 
-6. Cuando se trate de elecciones concurrentes y en la misma casilla se deban reportar resultados de votación para el conteo rápido institucional y para el conteo rápido a cargo del OPL, en primera instancia se reportarán los resultados de la elección federal y posteriormente los de la elección local, a las instancias previamente definidas.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+6. En elecciones concurrentes, la recopilación de los resultados registrados en las actas de casilla será auxiliada por los CAE locales en los términos que se establezca en el Programa de Operación de los Conteos Rápidos aprobado para el proceso electoral que corresponda, así como en lo señalado en los convenios de colaboración que se suscriban entre el Instituto y cada OPL.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+7. En el envío oportuno de información lo correspondiente al Conteo Rápido será siempre de primera prioridad en las tareas del CAE. En el caso de las elecciones concurrentes y de la misma casilla se deban reportar resultados de votación para el conteo rápido de la elección presidencial y para el conteo rápido de Gubernatura y Jefatura de Gobierno, habiéndose obtenido ambos resultados, en primera instancia se reportarán los de la elección federal y posteriormente los de la elección local, a las instancias previamente definidas.
 
 ###### Artículo 380.
 
@@ -4888,6 +5226,10 @@ II. Casillas que se integraron al cálculo final, cada una con el resultado de l
 ###### Artículo 383.
 
 1. La recepción, depósito y salvaguarda de los paquetes electorales en que se contengan los expedientes de casilla, por parte de los órganos competentes del Instituto y del OPL, según el caso, una vez concluida la jornada electoral, se desarrollará conforme al procedimiento que se describe en el Anexo 14 de este Reglamento, con el propósito de realizar una eficiente y correcta recepción de paquetes electorales, en la que se garantice que los tiempos de recepción de los paquetes electorales en las instalaciones del Instituto y de los OPL se ajusten a lo establecido en la LGIPE y las leyes vigentes de los estados que corresponda, en cumplimiento a los principios de certeza y legalidad.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. En elecciones concurrentes, los OPL podrán, mediante acuerdo de los órganos competentes, autorizar la participación de los supervisores electorales y CAE locales para auxiliar la recepción y depósito en bodega de los paquetes de las elecciones locales.
 
 ### CAPÍTULO V.. CÓMPUTOS DE ELECCIONES FEDERALES
 
@@ -4959,11 +5301,9 @@ III. En caso de empate, se adoptará el criterio alfabético iniciando por apell
 
 IV. Como medida extraordinaria y para asegurar su asistencia, se podrán asignar supervisores electorales y CAES, considerando la cercanía de sus domicilios.
 
-i) En el caso de elecciones concurrentes, además de lo anterior, se distribuirán los supervisores electorales y CAES entre las autoridades federal y locales, atendiendo a lo siguiente:
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-I. El personal ubicado en los números nones apoyarán a los consejos distritales del Instituto.
-
-II. El personal ubicado en los números pares apoyarán a los órganos competentes del OPL.
+i) En el caso de elecciones concurrentes, los SE y CAE apoyarán en la realización de los cómputos de la elección federal.
 
 5. El Secretario deberá levantar desde el inicio un acta que deje constancia de las actividades desarrolladas en la reunión de trabajo, misma que será firmada al margen y al calce por todos aquellos que intervinieron y así quisieron hacerlo, y en caso contrario se asentará razón de ello. Asimismo, agregará los informes que presente el Presidente del Consejo, así como los análisis preliminares que, en su caso, presenten los representantes.
 
@@ -5101,13 +5441,23 @@ a) Se abrirá una primera ronda de intervenciones de tres minutos para exponer s
 
 b) Después de haber intervenido todos los oradores que hubiesen solicitado la palabra, en su caso se abrirá una segunda ronda de intervenciones de dos minutos para réplicas y posteriormente se procederá a votar.
 
-4. El debate sobre la validez o nulidad de los votos reservados para ser dirimidos en el Pleno del consejo distrital, se sujetará a las siguientes reglas:
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O.F. 18 DE DICIEMBRE DE 2017)</small>
 
-a) Se abrirá una primera ronda de intervenciones de dos minutos por cada boleta reservada para exponer su argumentación;
+4. El procedimiento de deliberación de los votos reservados provenientes de los grupos de trabajo para ser dirimidos en el Pleno del Consejo se efectuará de conformidad con lo siguiente:
 
-b) Después de haber intervenido todos los oradores que hubiesen solicitado la palabra, en su caso, se abrirá una segunda ronda de intervenciones de hasta por un minuto para réplicas, y
+a) En el Pleno del Consejo, el Secretario realizará sobre la mesa y a la vista de los integrantes la clasificación, uno por uno, de todos los votos reservados, agrupándolos por características de marca similar e integrará los conjuntos correspondientes.
 
-c) Una vez que concluya la segunda ronda, el Presidente solicitará se proceda a tomar la votación correspondiente.
+b) Si durante la integración de los conjuntos de votos reservados referida en el inciso anterior, algún integrante del Consejo advirtiera que por la naturaleza o particularidad de la(s) marca(s) que presenta un voto determinado, no fuera posible clasificarlo en un conjunto, se le dará un tratamiento diferenciado en lo individual.
+
+c) Los integrantes del Consejo iniciarán la deliberación sobre la validez o nulidad respecto del primer voto reservado de cada conjunto sujetándose a las siguientes reglas:
+
+I. Se abrirá una primera ronda de intervenciones de dos minutos, para que los integrantes del Consejo Distrital que así lo soliciten, expongan sus argumentos respecto de la calidad del primer voto del conjunto.
+
+II. Después de haber intervenido todos los oradores que hubiesen solicitado la palabra, en su caso, se abrirá una segunda ronda de intervenciones de hasta por un minuto.
+
+III. Una vez concluida la segunda ronda, el Presidente del Consejo solicitará se proceda a tomar la votación correspondiente del primer voto reservado y con base en la definición que se apruebe, someterá a votación mostrando uno por uno y sin discusión, el resto de los votos clasificados en el conjunto.
+
+d) De igual forma se procederá con el resto de los conjuntos de votos reservados.
 
 5. Durante el desarrollo de la sesión de cómputos, a efecto de salvaguardar los derechos de todos los integrantes del consejo, y para garantizar el adecuado curso de las deliberaciones, el presidente cuidará que los oradores practiquen la moderación en el ejercicio de su derecho al uso de la palabra.
 
@@ -5577,7 +5927,9 @@ s) El secretario recibe sin discutir los escritos de protesta que los representa
 
 t) El Secretario entrega a los representantes de partido político o de candidato independiente copia de la documentación de la elección local.
 
-u) El secretario llena el "Recibo de copia legible de las actas de casilla entregados a los representantes de los partidos políticos y candidatos independientes".
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+u) El secretario llena el Recibo de copia legible de las actas de casilla y del acuse de recibo de la Lista Nominal entregadas a los representantes de los Partidos Políticos y de candidatos independientes.
 
 ###### Artículo 427.
 
@@ -5593,7 +5945,15 @@ u) El secretario llena el "Recibo de copia legible de las actas de casilla entre
 
 1. Los OPL deberán emitir lineamientos para llevar a cabo la sesión especial de cómputo, para lo cual deberán ajustarse a las reglas previstas en el Capítulo V del Título III de este Reglamento, así como a lo establecido en las bases generales y lineamientos que para tal efecto sean aprobados por el Consejo General.
 
-2. El Instituto tendrá acceso al sistema de cómputos en las entidades federativas a través de su página de intranet, a efecto de obtener reportes y bases de datos descargables para dar seguimiento a las actividades de los OPL.
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. En elecciones concurrentes, los lineamientos que se aprueben deberán considerar la participación de los CAE locales para llevar a cabo el recuento de los votos de los paquetes electorales que se determinen. Asimismo, los supervisores locales y demás personal de apoyo podrán colaborar en las actividades de carácter general que se requieran durante el desarrollo de los cómputos.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+3. Cuando las legislaciones locales señalen una fecha distinta a la referida en el artículo 396 de este Reglamento para realizar la sesión especial de cómputo, los OPL emitirán los lineamientos referidos en el párrafo anterior ajustándose a la fecha establecida en su legislación local, garantizando los elementos de vigilancia, certeza y seguridad contenidos en el presente Reglamento.
+
+4. El Instituto tendrá acceso al sistema de cómputos en las entidades federativas a través de su página de intranet, a efecto de obtener reportes y bases de datos descargables para dar seguimiento a las actividades de los OPL.
 
 ### CAPÍTULO VIII.. TABLAS DE RESULTADOS ELECTORALES
 
@@ -5601,7 +5961,9 @@ u) El secretario llena el "Recibo de copia legible de las actas de casilla entre
 
 1. Los OPL deberán publicar en su portal de Internet, las bases de datos que integren los resultados de los cómputos de votos de las elecciones a su cargo, a más tardar, cinco días posteriores al cierre de la última sesión de cómputo distrital o municipal, según corresponda. Dichos resultados deberán presentarse desagregados a nivel de acta de escrutinio y cómputo y se deberán apegar a los formatos definidos por el Instituto para estos efectos.
 
-2. Los OPL deberán remitir al Instituto, por conducto de la UTVOPL, las tablas de los resultados electorales actualizadas de las elecciones que hubieren celebrado, tanto ordinarias como extraordinarias, dentro de los treinta días siguientes a aquél en que se tuviera conocimiento o se hubiese notificado por las autoridades jurisdiccionales en materia electoral, la sentencia del último medio de impugnación, que en su caso, se hubiere interpuesto contra los resultados de los cómputos respectivos, a fin de incorporarlos en la versión del Sistema de Consulta de la Estadística Electoral del Instituto.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2017)</small>
+
+2. Los OPL deberán remitir al Instituto, por conducto de la UTVOPL, las tablas de los resultados electorales actualizadas de las elecciones que hubieren celebrado, tanto ordinarias como extraordinarias, dentro de los treinta días siguientes a aquél en que se hubiese notificado por las autoridades jurisdiccionales en materia electoral, la sentencia del último medio de impugnación, que en su caso, se hubiere interpuesto contra los resultados de los cómputos respectivos, a fin de incorporarlos en la versión del Sistema de Consulta de la Estadística Electoral del Instituto.
 
 3. Las tablas de resultados deberán elaborarse conforme a lo dispuesto en los Lineamientos para el diseño de las Tablas de Resultados Electorales de los Organismos Públicos Locales Electorales para su Incorporación al Sistema de Consulta de la Estadística Electoral, que se contienen en el Anexo 15 de este Reglamento, los cuales podrán ser actualizados por el área competente del Instituto, a fin de homogenizar los tiempos de elaboración y entrega de los formatos, así como los elementos que integrarán las tablas de resultados electorales.
 
@@ -6126,5 +6488,79 @@ TERCERO.- Publíquese un extracto del presente Acuerdo y la presente modificaci�
 CUARTO.- Se instruye al Secretario Ejecutivo a que notifique, por conducto de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos a los Partidos Políticos Nacionales.
 
 QUINTO.- Se ordena a la Unidad Técnica de Servicios de Informática a que ponga a disposición en el portal de Internet del Instituto Nacional Electoral, el presente Acuerdo.
+
+D.O.F. 18 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE ELECCIONES, EN TÉRMINOS DE LO DISPUESTO POR EL ARTÍCULO 441 DEL PROPIO REGLAMENTO", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO.- Se aprueban las modificaciones a los artículos del Reglamento de Elecciones, para quedar como se muestra en el Anexo 1 de este Acuerdo, que es parte integral del mismo.
+
+SEGUNDO.- Se aprueba la adición, sustitución y modificación de los siguientes Anexos que son parte integral del Reglamento de Elecciones, que corresponden y complementan directamente algunas de las reformas referidas en el Punto anterior, y que conforman en conjunto el Anexo 2, del presente Acuerdo:
+
+Anexo Tipo de anexo Título del anexo
+
+Anexo 4.1 Modificación Documentos y materiales
+
+Electorales
+
+Anexo 6.6 Adición Modelo de Convocatoria
+
+para la Observación Electoral
+
+Anexo 9.4 Adición Criterios para la emisión
+
+del voto de los representantes
+
+de partidos políticos y
+
+candidaturas independientes
+
+en las elecciones locales
+
+Anexo 10.1 Sustitución Sistema Nacional de Registro
+
+de Precandidatos y Candidatos
+
+Anexo 13 Modificación Lineamientos del Programa de
+
+Resultados Electorales
+
+Preliminares (PREP)
+
+Anexo 18
+
+Formato 18.5 Sustitución Estructura de los archivos CSV
+
+para el tratamiento de la base
+
+de datos relativa al Sistema
+
+de Programa de Resultados
+
+Electorales Preliminares
+
+Anexo 18
+
+Formato 18.10 Modificación Catálogo de abreviaturas
+
+de las entidades federativas
+
+TERCERO.- Se instruye al Secretario Ejecutivo a que, por conducto de la Dirección Ejecutiva de Organización Electoral, dé a conocer el contenido del presente Acuerdo a las y los integrantes de las Juntas Ejecutivas y Consejos Locales y Distritales del Instituto.
+
+CUARTO.- Se instruye a la Unidad Técnica de Vinculación con Organismos Públicos Electorales dar a conocer el contenido del presente Acuerdo a las y los integrantes de los órganos directivos de los OPL, a fin de que realicen las previsiones correspondientes y, de ser necesario, promuevan las adecuaciones a los documentos normativos que hubiesen aprobado con antelación.
+
+QUINTO.- El presente Acuerdo entrará en vigor al momento de su aprobación.
+
+SEXTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+SÉPTIMO.- Se ordena la publicación del presente Acuerdo, así como la versión actualizada del Reglamento de Elecciones y sus Anexos, en los medios de que disponga el Instituto.
+
+## TRANSITORIOS
+
+Primero. Por cuanto hace al plazo establecido en el artículo 339, numeral 1, inciso a) del RE y el establecido en el lineamiento 33 del Anexo 13 Lineamientos del Programa de Resultados Electorales Preliminares, referente a la aprobación del acuerdo por el que se designa o ratifica a la instancia interna responsable de coordinar el Programa de Resultados Electorales Preliminares, será aplicable a partir del Proceso Electoral 2018-2019, por lo que para el Proceso Electoral concurrente 2017-2018, dicho acuerdo deberá ser aprobado, a más tardar, el 1º de diciembre de 2017, y cada OPL deberá remitirlo al Instituto dentro de los cinco días naturales siguientes a su aprobación.
+
+Por lo que respecta a los entregables y a los plazos establecidos en el numeral 33 del Anexo 13 Lineamientos del Programa de Resultados Electorales Preliminares, relativos al informe mensual sobre el avance en la implementación y operación del Programa, correspondiente al mes de octubre y, al proyecto de Acuerdo por el que se determina la integración del Comité Técnico Asesor del Programa, éstos aplicarán a partir del Proceso Electoral 2018-2019.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
