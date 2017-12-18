@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2017-03-23"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -2711,21 +2711,27 @@ Los peritos deben tener título en la ciencia o arte a que pertenezca la cuesti�
 
 La prueba pericial se ofrecerá expresando los puntos sobre los que debe versar y las cuestiones que han de resolver los peritos. La contraparte podrá adherirse a la prueba agregando nuevos puntos o cuestiones.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 339.
 
-La parte que desee rendir prueba pericial, deberá promoverla dentro del período de ofrecimiento por medio de un escrito en que formulará las preguntas o precisará los puntos sobre que debe versar y hará la designación del perito de su intención, teniendo a su disposición la lista oficial de peritos del Poder Judicial del Estado, en caso de que quisiera hacer uso de la misma para la designación correspondiente.
+La parte que desee rendir prueba pericial, deberá promoverla dentro del período de ofrecimiento por medio de un escrito en el que formulará las preguntas o precisará los puntos sobre los que debe versar y hará la designación del perito de su intención, teniendo a su disposición la lista oficial de peritos del Poder Judicial del Estado y la de Peritos Valuadores registrados en el Gobierno del Estado, en caso de que quisiera hacer uso de las mismas para la designación correspondiente.
 
-El Tribunal concederá, a las demás partes, el término de tres días para que adicionen el cuestionario con lo que les interese, previniéndoles que, en el mismo término, nombren el perito que les corresponda, teniendo a su disposición la lista oficial de peritos del Poder Judicial del Estado en caso de que quisiera hacer uso de la misma para la designación correspondiente.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-Si pasado el término no hicieren el nombramiento que les corresponde, el tribunal de oficio, hará el o los nombramientos pertinentes, siguiendo el orden de la lista oficial de peritos del Poder Judicial del Estado.
+El Tribunal concederá, a las demás partes, el término de tres días para que adicionen el cuestionario con lo que les interese, previniéndoles que, en el mismo término, nombren el perito que les corresponda, teniendo a su disposición la lista oficial de peritos del Poder Judicial del Estado y la de Peritos Valuadores registrados en el Gobierno del Estado, en caso de que quisiera hacer uso de las mismas para la designación correspondiente.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
+Si pasado el término no hicieren el nombramiento que les corresponde, el tribunal de oficio, hará el o los nombramientos pertinentes, siguiendo el orden de la lista oficial de peritos del Poder Judicial del Estado.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 340.
 
-Las partes quedan obligadas a que sus peritos, dentro del plazo de tres días, contados a partir del siguiente de habérseles tenido como tales, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar el original o copia certificada de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se les designa; asimismo, manifestarán bajo protesta de decir verdad, que conocen los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular. Si no lo hicieren, o no aceptaren, el tribunal hará de oficio, desde luego, los nombramientos que a aquellos correspondía.
+Las partes quedan obligadas a que sus peritos, dentro del plazo de tres días, contados a partir del siguiente de habérseles tenido como tales, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar, el original o copia certificada de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se les designa y, en tratándose de los peritos de las listas oficiales del Poder Judicial del Estado y del Gobierno del Estado, bastará que adjunten el original o copia certificada de su registro, lo que acreditará su calidad de perito en el arte, técnica, oficio o industria que en dicho documento se asiente; de lo contrario, deberán justificarlo ante el Juez de los autos. Además de lo anterior, los peritos de las partes manifestarán bajo protesta de decir verdad, que conocen los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular. Si no lo hicieren, o no aceptaren, el tribunal hará de oficio, desde luego, los nombramientos que a aquellos correspondía.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 Los peritos nombrados por el tribunal serán notificados personalmente de su designación y en igual término y condiciones que los peritos de las partes, deberán aceptar y protestar desempeñar el cargo.
 
@@ -2807,11 +2813,21 @@ La recusación se resolverá por el procedimiento incidental, a menos que el per
 
 Los honorarios de cada perito serán pagados por la parte que lo nombró, o en cuya rebeldía lo hubiera nombrado el tribunal, y los del tercero, por ambas partes, sin perjuicio de lo que se resuelva definitivamente sobre condenación en costas.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 353.
 
-Para el pago de los honorarios de los peritos designados por la autoridad judicial, el juez fijará de oficio, en el acto de la aceptación, el monto de los honorarios que se causarán por la intervención de los peritos auxiliares de la administración de Justicia. En ese acto los peritos presentarán al tribunal el monto al que asciendan sus honorarios y, en su caso, peticionarán los gastos que justifiquen haber realizado en el desempeño de su función. Con dicha solicitud se dará vista a la parte que deba pagarlos, por el término de tres días y, transcurrido dicho plazo, conteste o no la parte interesada, el Juez deberá resolver lo conducente y ordenará el pago, tomando en cuenta lo peticionado por el perito, pero ponderando la naturaleza del servicio, las dificultades que ofrezca, las condiciones en que habrá de prestarse, el importe de las prestaciones reclamadas, la situación económica de quien deba cubrir los honorarios y los requerimientos profesionales o técnicos propios del cargo, a fin de que el importe de los honorarios constituya una equitativa retribución del servicio prestado.
+Para el pago de los honorarios de los peritos designados por la autoridad judicial, el juez fijará de oficio, en el acto de la aceptación, el monto de los honorarios que se causarán por la intervención de los peritos auxiliares de la administración de Justicia, tomando en cuenta lo peticionado por el perito, pero ponderando la naturaleza del servicio, las dificultades que ofrezca, las condiciones en que habrá de prestarse, el importe de las prestaciones reclamadas, la situación económica de quien deba cubrir los honorarios y los requerimientos profesionales o técnicos propios del cargo, a fin de que el importe de los honorarios constituya una equitativa retribución del servicio prestado.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+Para ello, en el propio acto de la aceptación del cargo, los peritos presentarán al tribunal el monto al que asciendan sus honorarios y, en su caso, peticionarán los gastos que justifiquen haber realizado en el desempeño de su función. Con dicha solicitud se dará vista a la parte que deba pagarlos, por el término de tres días y, transcurrido dicho plazo, conteste o no la parte interesada, el Juez deberá resolver lo conducente y ordenará el pago, atendiendo los parámetros mencionados en el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+Las partes deberán depositar en el juzgado los honorarios correspondientes dentro de los dos días siguientes al dictado de la resolución respectiva, siendo condición indispensable, que previamente estén depositados los honorarios, para que el perito pueda emitir su dictamen en el plazo solicitado por la autoridad judicial.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
 El importe de los honorarios de los peritos que no hayan sido nombrados por el Juzgador, sino por las partes, se estará a lo que hubieren convenido con la parte interesada o, en su defecto, se liquidarán conforme al sistema previsto en el párrafo anterior.
 
@@ -2823,7 +2839,7 @@ Una vez que quede firme la providencia que fije el monto de los honorarios del a
 
 Las partes y los peritos nombrados por el Juez en rebeldía y como terceros en discordia tienen prohibido convenir los honorarios de manera extraoficial o entregar o recibir pago alguno por ese concepto, cuando el monto no haya sido judicialmente declarado.
 
-La falta de resolución sobre el monto de los honorarios o firmeza legal de la misma no será obstáculo para que los peritos auxiliares cumplan con ejercicio de su encargo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 Las reglas previstas para el pago de honorarios de los peritos serán también aplicables para los Auxiliares de la Administración de Justicia del Poder Judicial, siempre que el presente Código no prevea una forma distinta de regularlos.
 
@@ -3391,7 +3407,7 @@ I.- Sólo los Jueces de Primera Instancia pueden decretar la separación de que 
 
 II.- La solicitud puede ser escrita o verbal, en ella se señalarán las causas en que se funda, el domicilio, en que se desea habitar, la existencia de hijos menores y las demás circunstancias del caso.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO No. LX-63, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2008, LA PRESENTE FRACCIÓN QUEDA CONFORMADA POR DOS PÁRRAFOS.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO No. LX-63, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2008, LA PRESENTE FRACCIÓN QUEDA CONFORMADA POR DOS PÁRRAFOS.]</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -8086,3 +8102,11 @@ P.O. 23 DE MARZO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-372 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 339, PÁRRAFOS PRIMERO Y SEGUNDO; 340, PÁRRAFO PRIMERO; 353, PÁRRAFO PRIMERO; SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO, RECORRIÉNDOSE EL ACTUAL SEGUNDO PARA SER CUARTO DEL ARTÍCULO 353; Y SE DEROGA EL PÁRRAFO TERCERO DEL ARTÍCULO 354, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
