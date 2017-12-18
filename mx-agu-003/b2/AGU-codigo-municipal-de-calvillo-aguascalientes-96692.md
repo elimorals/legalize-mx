@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2017-06-12"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -295,7 +295,13 @@ V.- El Comité de Desarrollo Urbano y Rural;
 
 VI.- El Comité de Adquisiciones; y
 
-VII.- Aquellos Comités o Consejos Ciudadanos que estén previstos en alguna Ley o sean aprobados por acuerdo del Ayuntamiento.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+VII. Comité de Ciudades Hermanas y;
+
+(REUBICADA, P.O. 18 DE DICIEMBRE DE 2017)
+
+VIII. Aquellos Comités o Consejos Ciudadanos que estén previstos en alguna Ley o sean aprobados por acuerdo del Ayuntamiento.
 
 ###### Artículo 19.
 
@@ -1065,7 +1071,9 @@ IV.- Comisión de Educación, Cultura y Deporte;
 
 V.- Comisión de Salud, Asistencia Social, Familia, Menores y Tercera Edad;
 
-VI.- Comisión de Desarrollo Económico y Rural Sustentable;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+VI.- Comisión de Desarrollo Económico, Turismo y Rural Sustentable;
 
 VII.- Comisión de Servicios Públicos y Ecología;
 
@@ -2563,9 +2571,9 @@ c). Departamento de Reglamentos y Control Sanitario,
 
 d). (DEROGADO, P.O. 19 DE ENERO DE 2015)
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-e). Departamento de Atención al Migrante,
+e) Departamento de Atención al Migrante, Hermanamientos y Asuntos Internacionales;
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -24282,6 +24290,16 @@ Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al dí
 Artículo Cuarto.- Cúmplase.
 
 P.O. 12 DE JUNIO DE 2017.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL DECRETO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Cúmplase.
+
+P.O. 18 DE DICIEMBRE DE 2017.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL DECRETO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
 
