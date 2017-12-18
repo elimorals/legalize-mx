@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2017-10-30"
+last_updated: "2017-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -1709,6 +1709,8 @@ IV. Las demás que señale la Ley o el H. Ayuntamiento por conducto del Presiden
 
 #### SECCIÓN TERCERA. De la Contraloría Municipal
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 146.
 
 Corresponde a la Contraloría Municipal, como único órgano de control interno del Municipio de San José de Gracia, el despacho de los siguientes asuntos:
@@ -1725,27 +1727,73 @@ V. Practicar auditorias, revisiones, visitas e inspecciones a las dependencias y
 
 VI. Vigilar el cumplimiento por parte de las dependencias y entidades municipales de las normas jurídicas y administrativas que rigen su funcionamiento;
 
-VII. Investigar de oficio o en atención a las quejas, a las denuncias y a los hechos o elementos detectados en las auditorias, revisiones, visitas e inspecciones practicadas por la Contraloría Municipal, las conductas de los servidores públicos municipales que impliquen presunta responsabilidad administrativa y en su caso, substanciar el Procedimiento de Responsabilidad Administrativa e imponer las sanciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes;
+VII. Conocer e investigar las conductas de los servidores públicos de la administración pública municipal, que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes, para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia de la Sala Administrativa, y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
-VIII. Instruir y resolver los recursos de revisión y demás recursos administrativos de las diferentes leyes administrativas vigentes, que le corresponda conocer a la Contraloría Municipal;
+VIII. Fungir en los procesos de responsabilidad administrativa, ya sean disciplinarios y/o resarcitorios como Autoridad Substanciadora y Resolutoria en términos de la fracción anterior;
 
-IX. Dictaminar mensualmente la Cuenta de la Hacienda Pública Municipal que formula la Dirección de Finanzas;
+IX. En el ámbito de su competencia dirigir y conducir el procedimiento de responsabilidades administrativas desde la admisión del informe de presunta responsabilidad, hasta la conclusión de la audiencia inicial y en su caso cuando sean faltas administrativas no graves hasta la imposición de la sanción y ejecución de la sanción, lo anterior conforme a lo establecido en la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes;
 
-X. Emitir las observaciones y las recomendaciones con carácter obligatorio que se deriven del cumplimiento de sus atribuciones y darles el seguimiento correspondiente;
+X. Expedir copias certificadas de constancias de expedientes que obren en su poder;
 
-XI. Fincar pliegos preventivos de responsabilidad cuando detecte irregularidades por actos u omisiones de servidores públicos, en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores y de recursos económicos del Municipio o de aquellos concertados con la Federación y el Estado que se traduzcan en daños y perjuicios estimables en dinero, causados a la Hacienda Pública Municipal, de la Federación, del Estado o al patrimonio de sus entidades, organismos descentralizados; auxiliares y fideicomisos públicos;
+XI. Admitir el dictamen de presunta responsabilidad emitido por la Unidad de Investigación y Recepción de Quejas y Denuncias, con el objeto de tramitar, sustanciar y resolver los procedimientos de responsabilidad administrativa disciplinaria y/o resarcitoria, en contra de servidores públicos de la administración pública municipal, por conductas que pudieran constituir responsabilidad en los términos de la ley en la materia en cuanto a faltas administrativas no graves, por lo que respecta a las faltas administrativas calificadas como graves, en contra de funcionarios públicos de la administración pública municipal, así como particulares vinculados a las mismas, proceder a turnar el expediente a la Autoridad Judicial competente para su resolución;
 
-XII. Informar al Presidente Municipal y al Síndico de Hacienda sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la administración pública municipal;
+XII. Instruir y resolver los recursos de revisión y demás recursos administrativos de las diferentes leyes administrativas vigentes, que le corresponda conocer a la Contraloría Municipal;
 
-XIII. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención y resolución;
+XIII. Dictaminar mensualmente la Cuenta de la Hacienda Pública Municipal que formula la Dirección de Finanzas;
 
-XIV. Ejecutar las funciones establecidas en este Código y en la Legislación Federal, Estatal y Municipal aplicables para los órganos internos de control;
+XIV. Emitir las observaciones y las recomendaciones con carácter obligatorio que se deriven del cumplimiento de sus atribuciones y darles el seguimiento correspondiente;
 
-XV. Designar a su personal que auditará a las dependencias y entidades municipales como empresas paramunicipales, fideicomisos y organismos públicos descentralizados, así como normar y controlar su desempeño;
+XV. Informar al Presidente Municipal y al Síndico de Hacienda sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la administración pública municipal;
 
-XVI. Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la administración pública municipal, que previene el presente Código; y,
+XVI. Turnar a las dependencias las quejas y denuncias que de su análisis inicial resulten ser asuntos de mero trámite a efecto de su atención y resolución;
 
-XVII. Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
+XVII. Ejecutar las funciones establecidas en este Código y en la Legislación Federal, Estatal y Municipal aplicables para los órganos internos de control;
+
+XVIII. Designar a su personal que auditará a las dependencias y entidades municipales como empresas paramunicipales, fideicomisos y organismos públicos descentralizados, así como normar y controlar su desempeño;
+
+XIX. Dictar las disposiciones que requiera la Contraloría Municipal para la adecuada aplicación y cumplimiento de la Entrega-Recepción de la administración pública municipal, que previene el presente Código; y
+
+XX. La demás que expresamente les señalen las leyes y Reglamentos Vigentes en el Municipio de San José de Gracia, Ags., así como la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 146 BIS.- El Órgano de Control Interno estará integrado por la Autoridad Substanciadora, así como de la Unidad de Investigación y Recepción de Quejas y Denuncias, notificadores, así como por el personal administrativo y demás servidores públicos que se requieran para satisfacer las necesidades del servicio y que se establezcan en el presupuesto de egresos.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 146 TER.- El titular de la Unidad de Investigación y Recepción de Quejas y Denuncias tendrá a su cargo la realización de las facultades que la Ley de Responsabilidades Administrativas del Estado de Aguascalientes otorga a la autoridad investigadora entre ellas las siguientes:
+
+I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y hechos de corrupción de los servidores públicos de las Dependencias Municipales y particulares, conforme a los (sic) previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de competencia de la Unidad;
+
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos de las Dependencias Municipales, así como de las de los Particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes. La investigación por la presunta responsabilidad de faltas administrativas iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos. En la investigación, podrá solicitar información o documentación a cualquier persona física o moral con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+III. Realizar, por sí o a través del personal a su cargo, las acciones para la recepción de denuncias por faltas administrativas imputables a los servidores públicos de las Dependencias Municipales o bien referidas a faltas de particulares;
+
+IV. Realizar por sí o a través de los servidores públicos a su cargo, el trámite y desahogo de los procedimientos administrativos de investigación, por actos u omisiones de los servidores públicos de las Dependencias Municipales o de particulares que puedan constituir responsabilidades de acuerdo a la normativa aplicable, autorizando con su firma los acuerdos e informes, así como informar de los mismos a su superior inmediato;
+
+V. Suscribir los acuerdos para habilitar al personal a su cargo para realizar actuaciones, diligencias y notificaciones en los procedimientos administrativos de investigación seguidos a los servidores públicos de las Dependencias Municipales o particulares;
+
+VI. Acordar los escritos, promociones, oficios y demás documentos que se reciban, relacionados con los procedimientos administrativos de investigación de su competencia;
+
+VII. Concluido el procedimiento de investigación, aprobar el acuerdo en el que se determine si existen o no elementos que presuman conductas constitutivas de probables faltas administrativas, formulando la calificación si dichas conductas consisten en faltas administrativas graves o no graves, así como suscribir el informe de presunta responsabilidad administrativa para turnarlo al Contralor Municipal como autoridad substanciadora;
+
+VIII. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+IX. Llevar a cabo todos los actos procesales respectivos en carácter de autoridad investigadora ante la Sala Administrativa conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
+
+X. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+XI. Ordenar medidas de apremio y dictar medidas cautelares;
+
+XII. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+XIII. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+
+XIV. Actuar como coadyuvante del Ministerio Público, adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones, previa aprobación del Titular;
+
+XV. Expedir copias certificadas de constancias de expedientes que obren en su poder;
+
+XVI. Las demás que a la autoridad investigadora le atribuye la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 #### SECCIÓN CUARTA. De la Dirección General del Sistema para el Desarrollo Integral de la Familia
 
@@ -13540,3 +13588,9 @@ P.O. 30 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO QUE REFORMA Y ADICIONA EL CÓDIGO MUNICIPAL DEL MUNICIPIO DE SAN JOSÉ DE GRACIA".]
 
 [LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]
+
+P.O. 18 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO QUE REFORMA Y ADICIONA EL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA, AGS.".]
+
+ÚNICO.- El presente decreto surte efectos e inicia su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
