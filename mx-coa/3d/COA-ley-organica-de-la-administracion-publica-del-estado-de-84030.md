@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2017-08-11"
+last_updated: "2017-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 19 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, SALVO LAS DISPOSICIONES RELATIVAS A LA SECRETARÍA DE LAS MUJERES, SECRETARÍA DE LA JUVENTUD Y DE LA PROCURADURÍA PARA NIÑOS, NIÑAS Y LA FAMILIA, QUE CONTINUARÁN EN VIGOR, HASTA EN TANTO NO SE LLEVE A CABO LA ENTREGA RECEPCIÓN A LA DEPENDENCIA O ENTIDAD QUE ASUMIRÁ SUS ATRIBUCIONES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -2116,3 +2118,21 @@ NOVENO.- La Secretaría de Fiscalización y Rendición de Cuentas como Órgano E
 DÉCIMO.- Los artículos 74, 75 y 75 BIS de la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza continuarán en vigor hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción emita los formatos para la presentación de las declaraciones patrimoniales y de intereses.
 
 DÉCIMO PRIMERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1136.- SE CREA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado, el 30 de noviembre de 2011, salvo las disposiciones relativas a la Secretaría de las Mujeres, Secretaría de la Juventud y de la Procuraduría para Niños, Niñas y la Familia, que continuarán en vigor, hasta en tanto no se lleve a cabo la entrega recepción a la dependencia o entidad que asumirá sus atribuciones.
+
+TERCERO.- Cuando en esta ley se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por la ley anterior, dichas atribuciones se entenderán conferidas a la dependencia que determine esta ley y demás disposiciones relativas.
+
+CUARTO.- Cuando alguna de las dependencias conforme a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado, el 30 de noviembre de 2011, pase a otras secretarías o entidades, el traspaso se hará incluyendo los recursos humanos, materiales y financieros que tenga asignados para el ejercicio de sus atribuciones.
+
+QUINTO.- Dentro de los treinta días naturales siguientes a la entrada en vigor de la presente ley, el Congreso realizará las adecuaciones o elaboración de leyes secundarias que resulten necesarias al marco jurídico, a fin de hacer efectivas las disposiciones de esta ley.
+
+SEXTO.- En un plazo no mayor a noventa días naturales posteriores a la entrada en vigor de este Decreto, deberán de expedirse las adecuaciones a las disposiciones reglamentarias y administrativas que resulten necesarias para la aplicación de la presente ley, en tanto, se seguirán aplicando las vigentes en lo que no se oponga al presente Decreto.
+
+SÉPTIMO.- Los asuntos que se encuentren en trámite a la entrada en vigor de la presente ley, serán desahogados por las unidades administrativas correspondientes de las dependencias que asuman la competencia para ello conforme a este Decreto y se regirán por las disposiciones que se encontraban vigentes al momento que dio inició su substanciación.
