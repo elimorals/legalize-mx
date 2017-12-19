@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-483-de-la-comision-estatal-de-derechos-humanos-27314
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-27"
-last_updated: "2016-02-09"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 483 DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 27 de diciembre de 2002.
 
@@ -287,9 +287,11 @@ Las atribuciones contenidas en los artículos 4, 7, 8, 9, 10 y 11 de la presente
 
 ### CAPÍTULO SEGUNDO. BASES DE ORGANIZACIÓN
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-La Comisión Estatal de Derechos Humanos se integra con un Presidente, un Consejo Consultivo, una secretaría técnica del Consejo Consultivo, una contraloría interna, una secretaría ejecutiva, visitadurías generales, visitadurías adjuntas, visitadurías auxiliares, direcciones, jefaturas de departamento, delegaciones, y el personal técnico y administrativo necesario para el ejercicio de sus atribuciones.
+La Comisión Estatal de Derechos Humanos se integra con un presidente, un Consejo Consultivo, una Secretaría Técnica del Consejo Consultivo, un Órgano Interno de Control, denominado Contraloría Interna, una Secretaría Ejecutiva, Visitaduría Generales, Visitaduría Adjuntas, Visitaduría Auxiliares, direcciones, jefaturas de departamento, delegaciones, y el personal técnico y administrativo necesario para el ejercicio de sus atribuciones.
 
 El Reglamento establecerá la estructura orgánica, los requisitos para la designación de los titulares de cada una de las áreas y las facultades de éstos, con excepción de las que corresponden a la Presidencia, al Consejo Consultivo y a la Contraloría Interna.
 
@@ -367,7 +369,9 @@ I. Elaborar, reformar, adicionar y, en su caso, aprobar el Reglamento Interno de
 
 II. Opinar sobre el proyecto del informe anual que el Presidente de la Comisión debe dar a conocer a la sociedad;
 
-III. Designar, a propuesta del Presidente de la Comisión, al secretario técnico del Consejo, al contralor interno y a los integrantes de los órganos colegiados, cuya creación sea necesaria para el cumplimiento de las atribuciones de la Comisión;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III. Designar, a propuesta del presidente de la Comisión al secretario técnico del Consejo y a los integrantes de los órganos colegiados, cuya creación sea necesaria para el cumplimiento de las atribuciones de la Comisión;
 
 IV. Conocer y opinar sobre el informe del Presidente de la Comisión respecto al ejercicio presupuestal;
 
@@ -395,9 +399,15 @@ I. Ser veracruzano y haber residido en la Entidad durante los dos años anterior
 
 II. Tener, cuando menos, treinta y cinco años de edad cumplidos al día de la designación;
 
-III. Poseer, al día del nombramiento, título de licenciado en contaduría pública o equivalente, expedido por autoridad o por institución legalmente facultada para ello, con experiencia profesional mínima de cinco años en contaduría pública o auditoría y contar, preferentemente, con estudios de postgrado; y
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III. Contar con título profesional legalmente expedido y cédula profesional en alguna de las áreas económicas, contables, jurídicas o administrativas y acreditar experiencia profesional de cuando menos cinco años en actividades afines y poseer, preferentemente estudios de postgrado; y
 
 IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, u otro que lastime su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+El titular de la Contraloría Interna, será nombrado por el Congreso del Estado mediante convocatoria pública, con el voto de las dos terceras partes de los diputados presentes, por un período de cinco años y podrá ser reelecto hasta por un período.
 
 ###### ARTÍCULO 23.
 
@@ -405,7 +415,9 @@ La Contraloría Interna tendrá las siguientes atribuciones:
 
 I. Emitir las disposiciones, reglas, criterios, lineamientos, bases y políticas de carácter administrativo en el ejercicio de las atribuciones que conforme a la Ley competen a la Comisión;
 
-II. Elaborar el programa anual de control y auditoría;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+II. Elaborar el programa anual de auditoría interna, de control y evaluación del origen y aplicación de los recursos financieros;
 
 III. Observar y vigilar el cumplimiento, por parte de los órganos y la estructura administrativa de la Comisión, de las normas de control, fiscalización y evaluación;
 
@@ -417,7 +429,9 @@ VI. Supervisar el cumplimiento de los lineamientos generales, sistemas y procedi
 
 VII. Vigilar que las erogaciones del Organismo se ajusten al presupuesto autorizado;
 
-VIII. Recibir y atender las quejas y denuncias que se presenten en contra de los servidores públicos de la Comisión Estatal; practicar investigaciones sobre sus actos y fincarles, en su caso, las responsabilidades a que haya lugar;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VIII. Prevenir, corregir e investigar hechos que pudieran constituir responsabilidades y faltas administrativas, así como sancionar aquellos distintos a las que son competencia del Tribunal Estatal de Justicia Administrativa, de conformidad con la Ley en la materia;
 
 IX. Supervisar el desarrollo de las licitaciones;
 
@@ -425,9 +439,53 @@ X. Inspeccionar y evaluar los inventarios y almacenes;
 
 XI. Revisar los procedimientos para el control de inventarios, el aseguramiento y resguardo de bienes, muebles, así como para la baja y determinación de su destino final;
 
-XII. Acordar con el Presidente de la Comisión los asuntos de su competencia e informarle de aquellos que le encomiende; y
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-XIII. Las demás que le otorguen las disposiciones aplicables, así como aquellas que le confiera el Presidente de la Comisión.
+XII. Acordar con el presidente de la Comisión los asuntos de su competencia e informarle de aquellos que le encomiende;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIII. Iniciar, investigar, substanciar y resolver los procedimientos de responsabilidad administrativa, por actos u omisiones de los servidores públicos que hayan sido calificados como faltas administrativas no graves, en términos de la ley de la materia, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrá aplicar las sanciones que correspondan. Cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante el Tribunal Estatal de Justicia Administrativa; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIV. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XV. Implementar acciones para orientar a los Servidores Públicos en el desempeño de sus funciones, para estar en concordancia con el Sistema Estatal Anticorrupción, de conformidad con la Ley en la materia;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XVI. Recibir, registrar, verificar y generar la información que, para efectos de los Sistemas Nacional y Estatal Anticorrupción, deberán contener las Plataformas Digitales respectivas, en relación a las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, así como de la evolución del patrimonio de los servidores públicos de la Comisión. También podrá requerir información adicional, realizando las investigaciones pertinentes; de no existir anomalía alguna tendrá que expedir la certificación correspondiente;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XVII. Resolver el recurso de revocación que interpongan los servidores públicos de la Comisión respecto de las resoluciones por las que se les impongan sanciones administrativas, y dar seguimiento al cumplimiento de las resoluciones dictadas por los órganos jurisdiccionales;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Vigilar que la Comisión, en ejercicio de sus atribuciones, se conduzca bajo criterios de eficiencia, austeridad y disciplina presupuestaria;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIX. Presentar denuncias por hechos u omisiones que puedan constituir un delito cometido por los servidores públicos de la Comisión ante la Fiscalía Especializada en Delitos relacionados con Hechos de Corrupción y cometidos por Servidores Públicos del Estado, así como conocer de las mismas y dar trámite a los procedimientos de responsabilidad administrativa, en términos de la ley de la materia;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XX. Intervenir en el proceso de entrega y recepción de las áreas administrativas de la Comisión;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXI. Conocer de las quejas y denuncias que se presenten en contra de los servidores públicos de la Comisión y dar trámite a los procedimientos de responsabilidad administrativa, en términos de la ley de la materia;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXII. Levantar actas administrativas a los servidores públicos de la Comisión por el incumplimiento de sus deberes legales, para iniciar el procedimiento de responsabilidad administrativa; y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Las demás que le otorguen las disposiciones aplicables, así como aquellas que le confiera el presidente de la Comisión.
 
 ### CAPÍTULO CUARTO. DEL PATRIMONIO DE LA COMISIÓN
 
@@ -570,3 +628,11 @@ G.O. 9 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 371 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, TODAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA ANTICORRUPCIÓN”.]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
