@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2017-07-18"
+last_updated: "2017-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -134,8 +136,6 @@ El horario de labores de los servidores públicos del Tribunal, con las modalida
 I. Personal operativo, de 8:30 a 15:30 horas;
 
 II. Personal con actividad jurisdiccional de mandos medios y superiores, oficiales jurisdiccionales, secretarios particulares de Magistrados, personal de enlace adscrito a los diferentes archivos del Tribunal, de 9:00 a 16:00 horas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 25 DE JUNIO DE 2013)</small>
 
@@ -669,11 +669,11 @@ I. Región del Noroeste I: Dos Salas que se denominarán, "Primera Sala Regional
 
 II. Región del Noroeste II: Una Sala que se denominará "Sala Regional del Noroeste II", con sede en Ciudad Obregón, Estado de Sonora;
 
-III. Región del Noroeste III: Una Sala que se denominará "Sala Regional del Noroeste III", con sede en la Ciudad de Culiacán, Estado de Sinaloa;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+
+III. Región del Noroeste III: Dos Salas que se denominarán "Primera Sala Regional del Noroeste III y "Segunda Sala Regional del Noroeste III", con sede en la Ciudad de Culiacán, Estado de Sinaloa;
 
 IV. Región del Norte-Centro I: Una Sala que se denominará "Sala Regional del Norte-Centro I", con sede en la Ciudad de Chihuahua, Estado de Chihuahua;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
@@ -849,8 +849,6 @@ Bis.- El Tribunal contará con las Salas Auxiliares siguientes, cuya denominaci�
 
 I. (DEROGADA, D.O.F. 29 DE ABRIL DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
 II. (DEROGADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)
 
 III. (DEROGADA, D.O.F. 28 DE OCTUBRE DE 2015)
@@ -859,17 +857,13 @@ III. (DEROGADA, D.O.F. 28 DE OCTUBRE DE 2015)
 
 IV. Cuarta Sala Auxiliar, con sede en la ciudad de Victoria de Durango, Estado de Durango, que será la Sala Regional del Norte-Centro III, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción XXII, y 22, fracción XXII, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
 
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2015)</small>
-
-V. Quinta Sala Auxiliar, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave, que será también la Sala Especializada en Materia de Comercio Exterior, conforme a lo establecido en el artículo 23, fracción IV, de este Reglamento.
+V. (DEROGADA, D.O.F. 19 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2013)</small>
 
 VI. Sexta Sala Auxiliar, con sede en la ciudad de Morelia, Estado de Michoacán, que será la Sala Regional del Pacífico-Centro, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción XXI, y 22, fracción XXI, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
 
-> <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
-
-VII. Séptima Sala Auxiliar, con sede en la ciudad de Zacatecas, Estado de Zacatecas, que será la Sala Regional del Norte-Centro IV, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21 fracción XXIII, y 22 fracción XXIII, de este Reglamento, en relación con los diversos 31 y 32 de la Ley.
+VII. (DEROGADA, D.O.F. 19 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
@@ -885,7 +879,19 @@ X.- Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sed
 
 La Sala Auxiliar ejercerá competencia mixta para tramitar y resolver los juicios que sean de su competencia como Sala Regional Metropolitana, así como aquellos procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+
+XI. Salas Auxiliares en Materia de Pensiones Civiles cuya denominación, sede, competencia para instruir y resolver los juicios en esta materia de conocimiento será la siguiente:
+
+a) Sala Auxiliar en Materia de Pensiones Civiles, con sede en la Ciudad de Zacatecas, Estado de Zacatecas, que también será la Sala Regional del Norte-Centro IV, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción XXIII, y 22, fracción XXIII, de este Reglamento.
+
+b) Sala Auxiliar en Materia de Pensiones Civiles con sede en el Municipio de San Pedro Garza García, en el Estado de Nuevo León, que también será la Segunda Sala Especializada en Materia de Comercio Exterior, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 23, fracción IV, inciso b), de este Reglamento.
+
+c) Sala Auxiliar en Materia de Pensiones Civiles con sede en la Ciudad de Toluca, Estado de México, que también será la Sala Regional Sur del Estado de México, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Regional, conforme a los artículos 21, fracción XXIX, y 22, fracción XXIX, de este Reglamento.
+
+d) Sala Auxiliar en Materia de Pensiones Civiles con sede en la Ciudad de México, sin perjuicio de la competencia que le corresponde como Sala Auxiliar Metropolitana en términos de la fracción IX de este mismo artículo 23 Bis, y que también será la Sala Especializada en Materia del Juicio de Resolución Exclusiva de Fondo, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 23, fracción V, de este Reglamento.
+
+e) Sala Auxiliar en Materia de Pensiones Civiles con sede en la Ciudad de Xalapa-Enríquez, en el Estado de Veracruz de Ignacio de la Llave, que también será la Tercera Sala Especializada en Materia de Comercio Exterior, sin perjuicio de la competencia que le corresponde para instruir y resolver juicios en su carácter de Sala Especializada, conforme al artículo 23, fracción IV, inciso c), de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
 
@@ -1264,8 +1270,6 @@ II. Recibir y revisar los anexos presentados junto con la promoción correspondi
 > <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
 III. Registrar en el Sistema de Control y Seguimiento de Juicios o en el Sistema de Justicia en Línea a través de su Subsistema de Juicio Tradicional, según corresponda, los anexos de la promoción que corresponda y turnarlos electrónica y físicamente al archivo de la Sala de manera inmediata.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 25 DE JUNIO DE 2013)</small>
 
@@ -3338,3 +3342,19 @@ Artículo Octavo.- La Junta de Gobierno y Administración girará las instruccio
 Artículo Noveno.- La Junta de Gobierno y Administración emitirá un acuerdo específico para establecer las guardias de la Tercera Sección de la Sala Superior y de la Sala Auxiliar en Materia de Responsabilidades Administrativas Graves durante los períodos vacacionales que se presenten posteriormente a la entrada en vigor del presente acuerdo.
 
 Artículo Décimo.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en la página WEB del Tribunal.
+
+D.O.F. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SS/22/2017 POR EL QUE SE REFORMAN LOS ARTÍCULOS 22, FRACCIÓN III, Y 23 BIS, DEL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA, EN DONDE SE DETERMINAN LAS SALAS REGIONALES QUE SERÁN APOYADAS POR LAS SALAS AUXILIARES DE ESTE TRIBUNAL, ASÍ COMO LA CREACIÓN DE UNA SEGUNDA SALA REGIONAL EN CADA UNO DE LOS ESTADOS DE SINALOA Y GUANAJUATO"]
+
+Primero.- El presente Acuerdo surtirá efectos a partir del 03 de enero de 2018.
+
+Segundo.- La Junta de Gobierno y Administración, con base en el análisis de la información estadística de las Salas que integran este Tribunal, y en el ámbito de su competencia, supervisará el cumplimiento del presente Acuerdo.
+
+Tercero.- La competencia territorial y sede de la Segunda Sala Regional en el Estado de Guanajuato, cuya creación se determina en el presente Acuerdo, se establecerá una vez que se consolide la celebración del Acuerdo intergubernamental entre este Tribunal y el Ejecutivo de la citada entidad federativa.
+
+Cuarto.- La Junta de Gobierno y Administración emitirá los acuerdos y reglas necesarios para el inicio de la operación de las Salas Auxiliares, de la Segunda Sala Regional del Noroeste III y de la nueva Sala Regional en el Estado de Guanajuato; así como de la distribución de los expedientes respectivos y de otros aspectos derivados de las disposiciones de este Acuerdo, procurando dotar a las nuevas Salas Auxiliares de las mejores prácticas registradas en el Tribunal en materia de pensiones civiles.
+
+Quinto.- Se abroga el Acuerdo G/45/2015, aprobado por el Pleno Jurisdiccional de la Sala Superior, en la sesión del 27 de mayo de 2015, publicado en el Diario Oficial de la Federación el 9 de junio de 2015.
+
+Sexto. Publíquese este Acuerdo en el Diario Oficial de la Federación y en la página web del Tribunal.
