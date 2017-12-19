@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2017-10-09"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -44,6 +44,8 @@ Artículo 1
 
 2. Lo no previsto en el presente Reglamento se ajusta a las disposiciones complementarias aprobadas por el Pleno del Senado, a propuesta de los órganos competentes.
 
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+
 Artículo 2
 
 1. Para los efectos del presente Reglamento se entiende por:
@@ -51,6 +53,8 @@ Artículo 2
 Constitución: La Constitución Política de los Estados Unidos Mexicanos;
 
 Gaceta: La Gaceta del Senado;
+
+Iniciativa preferente: Es la que presenta el Ejecutivo Federal en términos de lo señalado por el tercer párrafo del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos;
 
 Junta: La Junta de Coordinación Política;
 
@@ -1796,9 +1800,13 @@ I. Encabezado o título, con el señalamiento preciso del o de los ordenamientos
 
 II. Fundamento legal;
 
-III. Exposición de motivos, con las razones que la sustentan y la descripción del proyecto;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
 
-IV. Texto normativo que se propone de nuevos ordenamientos o de adiciones o reformas a los ya existentes;
+III. Exposición de motivos, con las razones que la sustentan, el alcance y competencia constitucional para legislar sobre la materia, así como la descripción del proyecto;
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+
+IV. Texto normativo que se propone de nuevos ordenamientos o de adiciones o reformas a los ya existentes; señalando su denominación, naturaleza y ámbito de aplicación;
 
 V. Régimen transitorio y, en su caso, el señalamiento de la legislación a derogar o abrogar;
 
@@ -1806,7 +1814,11 @@ VI. Lugar y fecha de formulación; y
 
 VII. Nombre y firma del o los autores y, en su caso, el grupo parlamentario del cual forman parte.
 
-2. En el caso de textos normativos de nuevos ordenamientos, a que se refiere la fracción IV del párrafo anterior, los senadores desarrollan el articulado correspondiente en forma lógica y ordenada, procurando estructurarlo en libros; los libros en títulos; los títulos en capítulos; los capítulos en secciones; las secciones en artículos; los artículos en fracciones y las fracciones en incisos. La división en libros sólo procede cuando se trata de textos muy extensos.
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+
+2. En el caso de textos normativos de nuevos ordenamientos, a que se refiere la fracción IV del numeral anterior, los senadores deberán desarrollar el articulado correspondiente en forma lógica y ordenada, distinguiendo los artículos en lo particular que tengan un fin general o federal de validez y aplicación; se procurará que el texto normativo se estructure en libros; los libros en títulos; los títulos en capítulos; los capítulos en secciones; las secciones en artículos; los artículos en fracciones y las fracciones en incisos. En el artículo primero de cada ordenamiento se establecerá su alcance y competencia constitucional. La división en libros sólo procede cuando se trata de textos muy extensos.
+
+Conforme a lo anterior, los senadores harán coincidir la denominación, con la naturaleza, objeto, fin, ámbitos de validez y aplicación del texto normativo del nuevo ordenamiento. Para ello se establece que llevarán la denominación de General, aquellos que inciden válidamente y que son de competencia concurrente en todos los órdenes (sic) gobierno y como Federal aquellos que serán aplicados a todas las personas en el territorio nacional por autoridades federales, en ambos casos de acuerdo a lo establecido en la Constitución.
 
 3. En el caso de solicitud de permiso del Presidente de la República para salir del territorio nacional por más de siete días, la iniciativa correspondiente debe contener objeto, duración e itinerario del viaje, además de los elementos aplicables referidos en el párrafo 1 de este artículo.
 
@@ -1900,6 +1912,10 @@ Artículo 180
 
 3. Un dictamen no se supedita a la emisión de una opinión.
 
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+
+4. En el caso de la iniciativa preferente, la Comisión deberá remitir su opinión a la dictaminadora, en un plazo máximo de diez días naturales, de lo contrario se entenderá su declinación.
+
 Artículo 181
 
 1. La rectificación de turno modifica el trámite dado a una iniciativa o proyecto al retirarlos de una comisión para asignarlos a otra u otras, en atención a una correspondencia más idónea.
@@ -1916,7 +1932,9 @@ Artículo 181
 
 Artículo 182
 
-1. Los dictámenes legislativos son los documentos formulados en comisiones, por los cuales se propone al Pleno una decisión sobre las iniciativas o proyectos turnados por el Presidente.
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+
+1. Los dictámenes legislativos son los documentos formulados en comisiones, por los cuales se propone al Pleno una decisión sobre las iniciativas o proyectos turnados por el Presidente que cumplen con lo dispuesto en el artículo 169 de este Reglamento.
 
 2. Al emitir dictamen las comisiones proponen aprobar, modificar o desechar, parcial o totalmente, iniciativas o proyectos.
 
@@ -1988,7 +2006,9 @@ V. Objeto y descripción de la iniciativa o proyecto;
 
 VI. Método de trabajo, análisis, discusión y valoración de las propuestas;
 
-VII. Consideraciones de orden general y específico que motivan el sentido del dictamen y, de ser procedentes, las modificaciones realizadas;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+
+VII. Consideraciones de orden general y específico que motivan el sentido del dictamen, comprendiendo su denominación, naturaleza y ámbito de aplicación y, de ser procedentes, las modificaciones realizadas;
 
 VIII. En su caso, texto normativo y régimen transitorio del ordenamiento de que se trata;
 
@@ -3301,3 +3321,15 @@ D.O.F. 9 DE OCTUBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+D.O.F. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL SENADO DE LA REPÚBLICA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 169, 182 Y 190 DEL REGLAMENTO DEL SENADO EN MATERIA DE DENOMINACIÓN Y NATURALEZA DE LAS NORMAS QUE EMANAN DEL PODER LEGISLATIVO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
