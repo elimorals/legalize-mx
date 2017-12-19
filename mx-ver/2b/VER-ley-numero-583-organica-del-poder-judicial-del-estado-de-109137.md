@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-organica-del-poder-judicial-del-estado-de-109137
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-04"
-last_updated: "2016-08-19"
+last_updated: "2017-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 583 ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 4 de agosto de 2015.
 
@@ -59,7 +59,7 @@ A. Jurisdiccionales:
 
 I. El Tribunal Superior de Justicia;
 
-II. El Tribunal de lo Contencioso Administrativo;
+II. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2017)
 
 III. El Tribunal de Conciliación y Arbitraje;
 
@@ -317,7 +317,9 @@ XII. Resolver, de oficio o por denuncia, las contradicciones entre precedentes o
 
 XIII. Resolver los conflictos de competencia que surjan entre las salas del Tribunal Superior de Justicia, entre éstas y los juzgados o de los juzgados entre sí;
 
-XIV. Resolver los conflictos de competencia que se presenten entre los distintos tribunales o salas que conforman el Poder Judicial, entre el Tribunal de Conciliación y Arbitraje y los juzgados o entre el Tribunal de lo Contencioso Administrativo y los juzgados;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIV. Resolver los conflictos de competencia que se presenten entre los distintos tribunales o salas que conforman el Poder Judicial, y entre el Tribunal de Conciliación y Arbitraje y los juzgados;
 
 XV. Establecer, en su respectivo ámbito y en los términos de esta Ley, los precedentes obligatorios del Pleno o de las salas y ordenar su publicación, debidamente compilada y sistematizada, por conducto del presidente del Tribunal;
 
@@ -663,305 +665,67 @@ La Sala de Responsabilidad Juvenil tendrá la facultad de resolver los recursos 
 
 Los presidentes de las salas de los tribunales del Poder Judicial serán suplidos, en sus faltas temporales que no excedan de diez días consecutivos, por el magistrado que ellos mismos designen, pero si excedieren de ese término, la designación del magistrado presidente interino la hará la sala a la que pertenezcan. Tratándose del magistrado adscrito a la Sala de Responsabilidad Juvenil, la designación de sustitución la hará el presidente del Tribunal Superior de Justicia.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ### CAPÍTULO II. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
 #### Sección Primera. Integración y funcionamiento
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 1 DE JULIO DE 2016)</small>
-
 ###### Artículo 34.
 
-El Tribunal de lo Contencioso Administrativo es el órgano especializado del Poder Judicial, con atribuciones para dirimir las controversias que se susciten entre particulares y las autoridades de la administración pública estatal o municipal, los organismos autónomos previstos en el artículo 67, fracciones III y IV, de la Constitución Política del Estado, la Universidad Veracruzana y demás instituciones de educación superior a las que la ley otorgue autonomía, en funciones de derecho público; así como las que promueva la autoridad que resulte afectada por un acto definitivo de la administración pública estatal o municipal, atendiendo a la competencia que señalen la presente Ley, el Código de Procedimientos Administrativos para el Estado y demás normativa aplicable; así como para dar cumplimiento a la legislación en materia de anticorrupción en el ámbito de competencia jurisdiccional del Estado.
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 1 DE JULIO DE 2016)</small>
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 35.
 
-El Tribunal de lo Contencioso Administrativo funcionará en Pleno y en salas; se compondrá por diez magistrados, uno de los cuales formará parte del Consejo de la Judicatura y no integrará sala. Habrá una Sala Superior, una sala especializada en materia anticorrupción y tres salas regionales. El Pleno se integrará por todos los magistrados adscritos a salas: la Sala Superior por tres magistrados, la sala especializada en materia anticorrupción por tres magistrados, y las salas regionales en forma unitaria. El Pleno, la Sala Superior, la sala especializada en materia anticorrupción, y las salas regionales, contarán con un secretario de acuerdos, secretarios de estudio y cuenta, actuarios y el personal administrativo que requieran para su buen funcionamiento, nombrados conforme a lo señalado por esta Ley. El secretario de acuerdos de la Sala Superior fungirá como tal en el Pleno del Tribunal.
-
-Los Magistrados del Tribunal de lo Contencioso Administrativo, serán suplidos en sus faltas temporales que no excedan de diez días consecutivos, por el Secretario de Acuerdos de la sala correspondiente.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 #### Sección Segunda. Atribuciones
 
 ###### Artículo 36.
 
-Son atribuciones del Pleno del Tribunal de lo Contencioso Administrativo:
-
-I. Designar, de entre sus miembros, al presidente del Tribunal;
-
-II. Adscribir a sus magistrados a las salas correspondientes;
-
-III. Discutir y, en su caso, aprobar el anteproyecto anual de presupuesto de egresos del Tribunal, para su envío oportuno al presidente del Consejo de la Judicatura;
-
-IV. Expedir, reformar y derogar el Reglamento Interior del Tribunal;
-
-V. Fijar, en su respectivo ámbito, los precedentes obligatorios, en los términos que señala esta Ley, y resolver las contradicciones existentes en las salas;
-
-VI. Proponer al Pleno del Tribunal Superior de Justicia, para su consideración, proyectos de iniciativas de leyes o decretos relacionados con el ámbito de su competencia;
-
-VII. Autorizar, en unión del secretario general de acuerdos, las actas en las que consten las deliberaciones del Pleno y los acuerdos que éste dicte;
-
-VIII. Dar cuenta al Consejo de la Judicatura de las irregularidades de que tenga conocimiento, cometidas por los secretarios, actuarios y demás servidores públicos del Tribunal, que afecten el buen funcionamiento del mismo; y
-
-IX. Las demás que deriven de las disposiciones legales estatales.
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, G.O. 1 DE JULIO DE 2016)</small>
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 37.
 
-El Pleno sesionará con la asistencia de por lo menos cinco de sus integrantes, y sus acuerdos se tomarán por mayoría de votos de los presentes, quienes sólo podrán abstenerse de votar en los casos en que tengan impedimento legal. Cuando exista empate, el presidente tendrá voto de calidad.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+###### Artículo 38.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE JULIO DE 2016)</small>
-
-###### ARTÍCULO 38.
-
-LA SALA SUPERIOR TENDRÁ SU SEDE OFICIAL EN EL MUNICIPIO DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE Y TENDRÁ COMPETENCIA PARA:
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
-
-I. RESOLVER LOS RECURSOS DE REVISIÓN QUE SE INTERPONGAN EN CONTRA DE LAS RESOLUCIONES DE LAS SALAS;
-
-II. Resolver los recursos de reclamación que se interpongan en contra de los acuerdos de trámite dictados por el presidente del Tribunal;
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
-
-III. CONOCER LAS EXCITATIVAS PARA LA IMPARTICIÓN DE JUSTICIA QUE PROMUEVAN LAS PARTES, CUANDO LOS MAGISTRADOS DE LAS SALAS NO DICTEN LA RESOLUCIÓN QUE CORRESPONDA DENTRO DE LOS PLAZOS SEÑALADOS POR LA LEY;
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
-
-IV. GIRAR MANDAMIENTOS A LAS SALAS, EN EL ÁMBITO DE SU COMPETENCIA, PARA ENCOMENDARLES LA REALIZACIÓN DE ALGUNA DILIGENCIA;
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
-
-V. CALIFICAR LAS EXCUSAS O IMPEDIMENTOS DE LOS MAGISTRADOS DEL TRIBUNAL. EN EL CASO DE LA SALA ESPECIALIZADA EN MATERIA ANTICORRUPCIÓN, SE DEBERÁ ESTAR A LAS REGLAS DE SUPLENCIA PARA LA CONFORMACIÓN DE LA SALA;
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
-
-VI. RESOLVER LOS CONFLICTOS DE COMPETENCIA QUE SE SUSCITEN ENTRE LAS SALAS;
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
-
-VII. CONOCER DEL INCUMPLIMIENTO DE LAS SENTENCIAS DE LAS SALAS; Y
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE REFORMÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, G.O. 1 DE JULIO DE 2016)</small>
-
-VIII. CONOCER DE LOS DEMÁS ASUNTOS QUE ESTABLEZCAN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA CONSTITUCIÓN DEL ESTADO, LAS LEYES GENERALES, Y LAS DEMÁS LEYES APLICABLES EN EL ESTADO.
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2016)</small>
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 38 Bis.
 
-La sala especializada en materia anticorrupción del Tribunal de lo Contencioso Administrativo tendrá su residencia en Xalapa-Enríquez, Veracruz de Ignacio de la Llave, y tendrá competencia en el Estado para:
-
-I. Designar de entre sus integrantes a su presidente;
-
-II. Conocer de:
-
-a) Las Responsabilidades Administrativas de los Servidores Públicos y Particulares vinculados con faltas graves promovidas por la Contraloría General del Estado y los Órganos Internos de Control de los entes públicos estatales o municipales, o por el Órgano de Fiscalización Superior del Estado, para la imposición de las sanciones que correspondan, en términos de lo dispuesto por la Ley de Responsabilidades Administrativas vigente para el Estado. Así como fincar a los responsables el pago de las indemnizaciones y sanciones que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, o al Patrimonio de los entes públicos estatales o municipales.
-
-Bajo ninguna circunstancia se entenderá que la atribución de la sala especializada en materia anticorrupción, para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves, se contrapone o menoscacaba (sic) la facultad que cualquier ente público posea para imponer sanciones a particulares en los términos de la legislación aplicable.
-
-b) Los procedimientos, resoluciones definitivas, recursos o actos administrativos, dictados por la autoridad estatal o municipal, que impongan sanciones a los servidores públicos y a los particulares, cuando estos últimos ejerzan recursos económicos procedentes de la Hacienda Pública estatal o municipal;
-
-c) Los asuntos que le sean turnados para sancionar responsabilidades administrativas que la ley determine como graves en casos de servidores públicos y de los particulares que participen en dichos actos;
-
-d) El recurso por medio del cual se califica como grave la falta administrativa que se investiga contra un servidor público;
-
-e) Los juicios interpuestos contra servidores públicos por las responsabilidades administrativas que la ley respectiva determine como graves;
-
-f) Los juicios contra particulares donde se les impute responsabilidad administrativa por actos vinculados con otros servidores públicos derivados de los juicios a que hace referencia el inciso anterior; y
-
-g) Los demás casos que establezcan las leyes generales respecto a los tribunales administrativos en materia anticorrupción.
-
-III. Imponer los medios de apremio para hacer cumplir sus resoluciones;
-
-IV. Imponer las medidas precautorias y cautelares que le soliciten en términos de lo establecido en la Ley de Responsabilidades Administrativas vigente para el Estado, cuando sean procedentes, con una duración no mayor a noventa días hábiles;
-
-V. Fincar responsabilidades administrativas a los servidores públicos y particulares en los casos que la legislación determine como graves, e imponer a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, o al patrimonio de los entes públicos estatales o municipales;
-
-VI. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como posibles nombramientos o encargos públicos del orden estatal, municipal o intermunicipal, según corresponda;
-
-VII. Sancionar a las personas morales cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. En estos casos podrá procederse a la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que sea definitiva;
-
-VIII. A petición de su Magistrado Presidente, solicitar al Pleno de la Sala Superior que se realicen las gestiones necesarias ante las autoridades competentes para garantizar las condiciones que permitan a los Magistrados de la propia sala especializada en materia de anticorrupción, ejercer con normalidad y autonomía sus atribuciones;
-
-IX. Dar seguimiento y proveer la ejecución de las resoluciones que emita;
-
-X. Atender los mandamientos de la Sala Superior en el ámbito de su competencia;
-
-XI. Solicitar el auxilio de las salas regionales para la realización de diligencias fuera de su jurisdicción territorial;
-
-XII. Proponer, en su respectivo ámbito, reformas al Reglamento Interior del Tribunal de lo Contencioso Administrativo;
-
-XIII. Rendir oportunamente al presidente del Tribunal un informe bimestral de las actividades de la sala; y
-
-XIV. Las señaladas en las demás leyes como competencia exclusiva de la sala especializada en materia anticorrupción.
-
-Las resoluciones definitivas de la sala especializada en materia anticorrupción, se tomarán por mayoría de votos, por lo que para la validez de las sesiones se requerirá siempre de la presencia de tres Magistrados.
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE ADICIONÓ ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, G.O. 1 DE JULIO DE 2016)</small>
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 38 Ter.
 
-Los Magistrados de la sala especializada en materia anticorrupción tendrán las siguientes atribuciones:
-
-I. Admitir, prevenir, reconducir o mejor proveer, la acción de responsabilidades contenida en el informe de presunta responsabilidad administrativa;
-
-II. Admitir o tener por contestada la demanda, en sentido negativo;
-
-III. Admitir o rechazar la intervención del tercero;
-
-IV. Admitir, desechar o tener por no ofrecidas las pruebas;
-
-V. Admitir, desechar y tramitar los incidentes y recursos que le competan, formular los proyectos de resolución, de aclaraciones de la resolución y someterlos a la consideración de la sala especializada en materia anticorrupción;
-
-VI. Dictar los acuerdos o providencias de trámite necesarios para instruir el procedimiento sancionatorio, incluyendo la imposición de las medidas de apremio necesarias para hacer cumplir sus determinaciones, acordar las promociones de las partes y los informes de la (sic) autoridades y atender la correspondencia necesaria, autorizándola con su firma;
-
-VII. Formular el proyecto de resolución definitiva y, en su caso, el que recaiga a la instancia de apelación o ejecutoria;
-
-VIII. Dictar los acuerdos y providencias relativas a las medidas cautelares provisionales en los términos de la Ley de Responsabilidades Administrativas vigente para el Estado, así como proponer a la sala especializada en materia anticorrupción, el proyecto de resolución correspondiente a la medida cautelar definitiva que se estime procedente;
-
-IX. Proponer a la sala especializada en materia anticorrupción la designación del perito tercero;
-
-X. Solicitar la debida integración del expediente para un mejor conocimiento de los hechos en la búsqueda de la verdad material; asimismo los Magistrados podrán acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecida por las partes en el procedimiento de investigación;
-
-XI. Dirigir la audiencia de vista con el personal de apoyo administrativo y jurisdiccional que requiera;
-
-XII. Dar seguimiento y proveer la ejecución de las resoluciones que emita;
-
-XIII. Coadyuvar con las autoridades competentes para el mejor desempeño de sus funciones;
-
-XIV. Proponer al Consejo de la judicatura, por conducto del Tribunal de lo contencioso administrativo, el nombramiento, remoción y liquidación del Secretario de Acuerdos, Secretarios de Estudio y Cuenta, Actuarios y demás personal administrativo de la Sala Especializada, con excepción de los defensores jurídicos;
-
-XV. Solicitar a la autoridad correspondiente, la exhibición de cualquier documento que tenga relación con los hechos; y
-
-XVI. Las demás que les correspondan conforme a las disposiciones legales aplicables.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 39.
 
-Las salas regionales del Tribunal de lo Contencioso Administrativo tendrán la residencia y jurisdicción territorial siguiente:
-
-I. Sala Regional Zona Norte, con residencia en Tuxpan, los distritos judiciales de Pánuco, Ozuluama, Tantoyuca, Huayacocotla, Chicontepec, Tuxpan, Poza Rica y Papantla;
-
-II. Sala Regional Zona Centro, con residencia en Xalapa, los distritos judiciales de Misantla, Jalacingo, Coatepec, Xalapa, Huatusco, Córdoba, Orizaba, Zongolica y Veracruz; y
-
-III. Sala Regional Zona Sur, con residencia en Coatzacoalcos, los distritos judiciales de Cosamaloapan, San Andrés Tuxtla, Acayucan y Coatzacoalcos.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 40.
 
-Las salas regionales tendrán competencia para:
-
-I. Conocer de:
-
-a) Actos administrativos que dicte, ordene, ejecute o trate de ejecutar la autoridad, por violaciones cometidas en los mismos o durante el procedimiento administrativo; en este último caso, cuando trasciendan al sentido de las resoluciones;
-
-b) Actos administrativos que dicte, ordene, ejecute o trate de ejecutar la autoridad, que afecten derechos de particulares;
-
-c) Actos que dicte, ordene, ejecute o trate de ejecutar de manera unilateral la autoridad, respecto de contratos administrativos u otros acuerdos de voluntad de la misma naturaleza que se hubiesen celebrado con los particulares en los renglones administrativo y fiscal;
-
-d) Actos administrativos que se configuren por el silencio de la autoridad;
-
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 POR EL QUE SE DEROGÓ ESTE INCISO, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-e) (DEROGADO, G.O. 1 DE JULIO DE 2016)
-
-f) Resoluciones favorables a los particulares que causen lesión al interés público, cuya nulidad demande la autoridad;
-
-g) Los juicios que se promuevan contra las resoluciones negativas fictas en materia fiscal y administrativa, configuradas por el silencio de la autoridad para dar respuesta a la instancia de un particular en el plazo que fije la ley;
-
-h) Resoluciones definitivas dictadas en el recurso de revocación; y
-
-i) Los demás actos y resoluciones que señale la ley;
-
-II. Imponer los medios de apremio para hacer cumplir sus resoluciones;
-
-III. Atender los mandamientos de la sala superior;
-
-IV. Solicitar el auxilio de las otras salas regionales para la realización de diligencias fuera de su jurisdicción territorial;
-
-V. Proponer, en su respectivo ámbito, reformas al Reglamento del Tribunal de lo Contencioso Administrativo;
-
-VI. Rendir oportunamente al presidente del Tribunal un informe bimestral de las actividades de la sala; y
-
-VII. Conocer los demás asuntos que establezcan la Constitución y las leyes del Estado.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 41.
 
-Las salas regionales conocerán, por razón de territorio, de los actos que dicten, ordenen, ejecuten o traten de ejecutar las autoridades administrativas con sede en su jurisdicción.
-
-También conocerán de los asuntos planteados por quienes tuvieren su domicilio dentro de su jurisdicción, independientemente de la autoridad responsable, excepto cuando se trate de actos de autoridades municipales o entidades paramunicipales.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 #### Sección Tercera. De su Presidente
 
 ###### Artículo 42.
 
-El presidente del Tribunal será elegido por el Pleno cada tres años, durante la primera semana de diciembre del año de que se trate, y podrá ser reelegido de forma inmediata, por una sola vez.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 43.
 
-El presidente del Tribunal tendrá las atribuciones siguientes:
-
-I. Ejercer la representación legal del Tribunal;
-
-II. Presidir la sala superior;
-
-III. Designar, por riguroso turno, al magistrado ponente en los recursos que conozca la sala superior;
-
-IV. Dar cuenta a la sala superior de las excitativas para la impartición de justicia que promuevan las partes;
-
-V. Dictar los acuerdos de trámite necesarios para la sustanciación de los asuntos competencia de la sala superior;
-
-VI. Presentar a la sala superior, para su aprobación, las actas en que se hagan constar las deliberaciones y los acuerdos;
-
-VII. Informar al presidente del Tribunal Superior de Justicia, para su publicación, de las resoluciones y precedentes obligatorios dictados por el Tribunal;
-
-VIII. Proponer al Consejo de la Judicatura el nombramiento del secretario de acuerdos, secretarios de estudio y cuenta, actuarios y demás personal administrativo de la sala superior;
-
-IX. Ejercer su presupuesto bajo los criterios de legalidad, transparencia, honradez y austeridad;
-
-X. Presentar ante el Consejo de la Judicatura y el Pleno del Tribunal de lo Contencioso Administrativo, en la última semana de noviembre de cada año, un informe por escrito de las actividades realizadas por el órgano jurisdiccional que preside. Este informe se remitirá al Congreso del Estado;
-
-XI. Conocer y someter a la consideración de la sala superior las excusas o impedimentos de los magistrados del Tribunal;
-
-XII. Resolver las solicitudes de licencia no mayores de diez días naturales que le formulen los magistrados del Tribunal, así como conocer de los avisos que éstos le den respecto de sus ausencias no mayores a cinco días;
-
-XIII. Atender las observaciones y recomendaciones que le formule el Órgano de Fiscalización Superior, respecto del ejercicio del presupuesto, en los términos que establezca la ley;
-
-XIV. Elaborar y someter a la consideración del Pleno del Tribunal, a más tardar el catorce de septiembre de cada año, su anteproyecto anual de presupuesto; y
-
-XV. Las demás que establezcan la Constitución y las leyes del Estado.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 44.
 
-El presidente del Tribunal de lo Contencioso Administrativo, en caso de ausencias temporales que no excedan de diez días consecutivos, será suplido por el magistrado que él designe; si la ausencia excediere de ese término, la designación del magistrado presidente interino la hará el Pleno del Tribunal.
-
-De presentarse la solicitud de una licencia sin goce de sueldo, corresponderá al Congreso del Estado otorgarla hasta por ciento veinte días.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO III. DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
@@ -1739,13 +1503,17 @@ Los auxiliares de la administración de justicia cooperarán con las autoridades
 
 #### Sección Primera. Integración y funcionamiento
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 115.
 
-El Consejo de la Judicatura será el órgano encargado de conducir la administración, vigilancia, disciplina y carrera del Poder Judicial, con excepción del Tribunal Superior de Justicia; y estará integrado por seis miembros:
+El Consejo de la Judicatura será el órgano encargado de conducir la administración, vigilancia, disciplina y carrera del Poder Judicial, con excepción del Tribunal Superior de Justicia; y estará integrado por cinco miembros:
 
 I. El Presidente del Tribunal Superior de Justicia, quien lo presidirá;
 
-II. Tres magistrados nombrados por el Pleno del Tribunal Superior de Justicia, mediante votación secreta, provenientes: uno del propio Tribunal Superior de Justicia, otro del Tribunal de lo Contencioso Administrativo y el tercero del Tribunal de Conciliación y Arbitraje;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+II. Dos magistrados nombrados por el Pleno del Tribunal Superior de Justicia, mediante votación secreta, provenientes: uno del propio Tribunal Superior de Justicia, y otro del Tribunal de Conciliación y Arbitraje;
 
 III. Un consejero propuesto por el Gobernador y ratificado por el Congreso; y
 
@@ -2769,7 +2537,9 @@ En el Tribunal Superior de Justicia funcionará durante los dos periodos de vaca
 
 Los magistrados designados para integrar la Sala de Guardia sólo podrán excusarse de ello por causa de enfermedad, lo que resolverá el propio Pleno.
 
-Los tribunales de lo Contencioso Administrativo y de Conciliación y Arbitraje dispondrán de igual forma sobre la guardia respectiva, que despachará los asuntos urgentes.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+El Tribunal de Conciliación y Arbitraje dispondrá de igual forma sobre la guardia respectiva, que despachará los asuntos urgentes.
 
 Se consideran asuntos urgentes los casos de desistimiento de la acción penal por parte del Ministerio Público, cuando haya detenido; los referidos a demandas de amparo y los que entrañen cumplimiento de ejecutorias en la misma materia que ordenen la libertad de alguna persona y los casos de alimentos, providencias precautorias, depósito de personas y libertad caucional. La Sala de Guardia tendrá facultades para interponer los recursos que sean procedentes conforme a la Ley de Amparo.
 
@@ -2869,9 +2639,11 @@ El Consejo de la Judicatura será el encargado de otorgar licencias a los demás
 
 ### CAPÍTULO VII. DE LOS PRECEDENTES DEL PODER JUDICIAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 221.
 
-Los precedentes que establezcan el Pleno del Tribunal Superior de Justicia y sus salas, el Tribunal de lo Contencioso Administrativo y el Tribunal de Conciliación y Arbitraje serán obligatorios para los órganos jurisdiccionales de menor jerarquía, en su misma materia, y se sujetarán a las reglas siguientes:
+Los precedentes que establezcan el Pleno del Tribunal Superior de Justicia y sus salas y el Tribunal de Conciliación y Arbitraje serán obligatorios para los órganos jurisdiccionales de menor jerarquía, en su misma materia, y se sujetarán a las reglas siguientes:
 
 I. Se integrarán con cinco resoluciones consecutivas en el mismo sentido en la materia, no interrumpidas por otra en contrario y aprobadas por unanimidad de votos de sus magistrados;
 
@@ -2943,11 +2715,9 @@ RÚBRICA.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 892 PUBLICADO EL PRIMERO DE JULIO DE DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL DEL ESTADO DE VERACRUZ, POR EL QUE SE REFORMARON, ADICIONARON Y DEROGARON DIVERSOS PRECEPTOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 G.O. 1 DE JULIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 892 QUE REFORMA LOS ARTÍCULOS 34, 35, 37 Y 38; ADICIONA LOS ARTÍCULOS 38 BIS Y 38 TER, Y DEROGA EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 40, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 892 QUE REFORMA LOS ARTÍCULOS 34, 35, 37 Y 38; ADICIONA LOS ARTÍCULOS 38 BIS Y 38 TER, Y DEROGA EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 40, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial Órgano del Gobierno del Estado.
 
@@ -2977,7 +2747,7 @@ SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
 
 G.O. 12 DE JULIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 895 QUE REFORMA LOS ARTÍCULOS 11, 24 Y 31 Y ADICIONA UN ARTICULO 31 BIS, A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 895 QUE REFORMA LOS ARTÍCULOS 11, 24 Y 31 Y ADICIONA UN ARTICULO 31 BIS, A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -3000,3 +2770,11 @@ G.O. 19 DE AGOSTO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 372 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor en términos de lo dispuesto por el artículo Octavo transitorio del Decreto número 343 que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado el 2 de octubre del 2017.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
