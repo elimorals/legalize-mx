@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-586-de-la-comision-estatal-para-la-atencion-y-90621"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-03"
-last_updated: "2012-12-03"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 586 DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 3 de diciembre de 2012.
 
@@ -146,6 +146,10 @@ III. No haber sido condenado por delito alguno.
 Los Comisionados y el Secretario Ejecutivo serán nombrados por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes, a propuesta del Gobernador del Estado, y durarán en su encargo cuatro años con posibilidad de reelección por una sola ocasión.
 
 Los Comisionados elegirán, de entre sus pares, a quien se desempeñará como Presidente de la Comisión. El Presidente durará en su cargo dos años, con posibilidad de una sola reelección.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+El titular de la Contraloría Interna, será nombrado por el Congreso del Estado mediante convocatoria pública, con el voto de las dos terceras partes de los diputados presentes, por un período de cinco años.
 
 ###### Artículo 10.
 
@@ -295,9 +299,147 @@ I. Vigilar el cumplimiento de la presente ley, así como de los reglamentos, dec
 
 II. Comprobar el cumplimiento, por parte de los servidores públicos adscritos a los órganos, unidades o áreas de la Comisión, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
 
-III. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales de la Comisión; y
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-IV. Las demás que le confieran esta ley y demás disposiciones aplicables.
+III. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales de la Comisión;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+IV. Prevenir, corregir e investigar hechos que pudieran constituir responsabilidades y faltas administrativas, así como sancionar aquellos distintos a las que son competencia del Tribunal Estatal de Justicia Administrativa, de conformidad con la ley en la materia;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+V. Organizar y coordinar el sistema de control y evaluación de la Comisión, así como inspeccionar el manejo y custodia del gasto público e ingresos del mismo y su congruencia con el presupuesto de egresos;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VI. Vigilar que las normas, procedimientos administrativos y contables se apliquen eficientemente, conforme a los lineamientos establecidos por las leyes de la materia y los principios de contabilidad generalmente aceptados;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VII. Vigilar el cumplimiento de los convenios que se firmen entre la Comisión y las dependencias federales, estatales o municipales, así como con otros organismos y asociaciones;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VIII. Elaborar el programa anual de auditoría interna, de control y evaluación del origen y aplicación de los recursos financieros;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+IX. Vigilar que los recursos asignados a la Comisión se utilicen exclusivamente para los fines a que estén destinados;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+X Vigilar que la Comisión, en ejercicio de sus atribuciones, se conduzca bajo criterios de eficiencia, austeridad y disciplina presupuestaria;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XI. Actuar en coordinación con las áreas administrativas para verificar que se cumpla con la normatividad en el ejercicio del gasto;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XII. Dictar las políticas en materia de control interno necesarias para el funcionamiento de la Comisión;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIII. Realizar, a las áreas administrativas de la Comisión, auditorías financieras, operacionales, de resultado de programas y de legalidad, tomando las acciones legales a que haya lugar en caso de hallar irregularidades;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIV. Llevar el control y dar seguimiento a las observaciones y recomendaciones derivadas de las auditorías practicadas a las áreas administrativas de la Comisión;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XV. Vigilar el cumplimiento de las metas del programa anual de actividades;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XVI. Revisar el informe trimestral que le envíe el secretario ejecutivo, para los efectos del artículo 179 del Código Financiero para el Estado;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XVII. Analizar los estados financieros de la Comisión y, en su caso, emitir las recomendaciones pertinentes;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Formular opinión al Pleno sobre los criterios contables y de control en materia de programación y presupuestación;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIX. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales de la Comisión;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XX. Conocer del recurso de revocación previsto en la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXI. Aplicar las sanciones a los proveedores o licitantes que infrinjan la Ley de adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXII. Recibir, registrar, verificar y generar la información que, para efectos de los Sistemas Nacional y Estatal Anticorrupción, deberán contener las Plataformas Digitales respectivas, en relación a las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, así como de la evolución del patrimonio de los servidores públicos de la Comisión. También podrá requerir información adicional, realizando las investigaciones pertinentes; de no existir anomalía alguna tendrá que expedir la certificación correspondiente;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Presentar denuncias por hechos u omisiones que puedan constituir un delito cometido por los Servidores Públicos de la Comisión ante la Fiscalía Especializada en Delitos relacionados con Hechos de Corrupción y cometidos por Servidores Públicos del Estado, así como conocer de las mismas y dar trámite a los procedimientos de responsabilidad administrativa, en términos de la ley de la materia;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXIV. Implementar acciones para orientar a los servidores públicos en el desempeño de sus funciones, para estar con (sic) concordancia con el Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXV. Valorar las recomendaciones que se le hagan a la Comisión, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno y con ello la prevención de faltas administrativas y hechos de corrupción. Informar al secretario ejecutivo y al pleno de éstas, y si corresponde, sus avances y resultados;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXVI. Conocer de las quejas y denuncias que se presenten en contra de los servidores públicos de la Comisión y dar trámite a los procedimientos de responsabilidad administrativa, en términos de la ley de la materia;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXVII. Intervenir en el proceso de entrega y recepción de las áreas administrativas de la Comisión;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXVIII. Coadyuvar con el Pleno en la elaboración y actualización de los Lineamientos a que se refiere la Ley;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXIX. Proporcionar al secretario ejecutivo y al Pleno la información que le sea requerida;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXX. Rendir al Pleno, a través del secretario ejecutivo, el informe trimestral de las actividades realizadas en ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXI. Vigilar que las disposiciones establecidas en esta Ley sean aplicadas por las áreas administrativas del Instituto;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXII. Asistir a las sesiones del Pleno, con derecho a voz, pero sin voto;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXIII. Levantar actas administrativas a los servidores públicos de la Comisión por el incumplimiento de sus deberes legales, para iniciar el procedimiento de responsabilidad administrativa; y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXIV. Las demás que expresamente establezcan las Leyes, las disposiciones aplicables y las que le sean asignadas por el Pleno en lo que no contravenga la Ley.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 28.
+
+El contralor interno de la Comisión Estatal de (sic) para la Atención y Protección de los Periodistas, para su designación, debe reunir los requisitos siguientes:
+
+I. Ser veracruzano y haber residido en la entidad durante los dos años anteriores al día de la designación, o mexicano por nacimiento, con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano en pleno ejercicio de sus derechos;
+
+II. Tener, cuando menos, treinta y cinco años de edad cumplidos al día de la designación;
+
+III. Contar con título profesional legalmente expedido y cédula profesional en alguna de las áreas económicas, contables, jurídicas o administrativas y acreditar experiencia profesional de cuando menos cinco años en actividades afines y poseer, preferentemente estudios de postgrado; y
+
+IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, u otro que lastime su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -332,3 +474,13 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 371 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, TODAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA ANTICORRUPCIÓN".]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
