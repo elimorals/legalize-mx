@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2016-11-11"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 58 ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -53,11 +55,11 @@ ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 La presente Ley es de observancia general para la Administración Pública del Estado de Veracruz de Ignacio de la Llave y tiene por objeto establecer las bases de la organización y funcionamiento de las dependencias centralizadas y entidades paraestatales en que se divide.
 
-> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 2.
 
-Las Secretarías del Despacho, la Procuraduría General de Justicia, la Contraloría General y la Coordinación General de Comunicación Social integran la Administración Pública Centralizada.
+Las Secretarías del Despacho, la Contraloría General y la Coordinación General de Comunicación Social, integran la Administración Pública Centralizada.
 
 ###### Artículo 3.
 
@@ -97,7 +99,7 @@ III. Tener un modo honesto de vivir; y
 
 IV. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
 
-Para ser titular de la Procuraduría General de Justicia se estará a lo dispuesto por los artículos 50 y 53 de la Constitución Política del Estado.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ## TÍTULO SEGUNDO
 
@@ -117,7 +119,9 @@ IV. Crear, conforme a las bases que establece esta Ley y demás legislación apl
 
 V. Agrupar las entidades paraestatales por sectores definidos, conforme a la esfera de competencia de las Secretarías del Despacho;
 
-VI. Ordenar la realización de auditorías, revisiones y evaluaciones a las dependencias centralizadas y entidades paraestatales, y designar a los titulares de sus respectivos órganos de control interno y vigilancia;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VI. Ordenar la realización de auditorías, revisiones y evaluaciones a las dependencias centralizadas y entidades paraestatales, así como designar a los titulares de los órganos internos de control de las mismas;
 
 VII. Autorizar, por escrito, conforme a lo dispuesto por esta ley y demás leyes del Estado, a los titulares de las dependencias y entidades de la Administración Pública a celebrar acuerdos y convenios en el ámbito de su competencia;
 
@@ -197,9 +201,7 @@ XI Bis. Secretaría de Protección Civil;
 
 XII. Contraloría General
 
-> <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
-
-XIII. Procuraduría General de Justicia
+XIII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, G.O. 6 DE OCTUBRE DE 2011)</small>
 
@@ -217,15 +219,19 @@ Las atribuciones otorgadas al Gobernador, Secretarios de Despacho y demás Funci
 
 Al frente de cada dependencia habrá un titular que, para el despacho de los asuntos que le competan, se auxiliará con subsecretarios o sus equivalentes, directores generales, directores, subdirectores, jefes y subjefes de departamento, oficina, sección y mesa, y demás prestadores de servicios de apoyo técnico o asesoría, en términos de lo dispuesto por esta ley, cuando así lo señalen sus respectivos reglamentos interiores y lo determinen sus presupuestos.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Cada dependencia contará, además, con una unidad administrativa o áreas subordinadas al titular de la misma, responsables de la planeación, presupuestación, programación, ejercicio, evaluación del desempeño del presupuesto a su cargo y difusión de la información financiera, en términos de las disposiciones aplicables.
+Cada dependencia contará, además, con una Unidad Administrativa o áreas subordinadas al titular de la misma, responsables de la planeación, presupuestación, programación, ejercicio y difusión de la información financiera, en términos de las disposiciones aplicables.
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-En el caso de la Secretaría de Finanzas y Planeación, las funciones que corresponden a la unidad administrativa se desarrollarán conforme a la distribución de competencias que establezca su reglamento interior.
+Asimismo contará con un Órgano Interno de Control, dependiente de la Contraloría General el cual, entre otras funciones, evaluará el desempeño de la dependencia.
 
-> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+En el caso de la Secretaría de Finanzas y Planeación, las funciones que corresponden a la Unidad Administrativa se desarrollarán conforme a la distribución de competencias que establezca su reglamento interior.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 Los titulares de las unidades administrativas a que se refiere este artículo deberán contar con experiencia laboral en la administración pública y con título profesional de licenciatura, preferentemente en Derecho, Contaduría, Administración, Economía, o posgrado en alguna rama de la administración pública, expedido por autoridad o institución legalmente facultada para ello, cumpliendo los demás requisitos que establezca la legislación aplicable.
 
@@ -267,7 +273,9 @@ XIV. Tener bajo su adscripción directa, para la atención y despacho de los asu
 
 XV. Designar a los prestadores de servicios de apoyo técnico o asesoría que requieran para el mejor desempeño de sus funciones y de conformidad con el presupuesto respectivo;
 
-XVI. Expedir los Manuales de Organización, Procedimientos y Servicios al Público necesarios para el funcionamiento de la dependencia a su cargo, los que deberán contener información sobre su estructura, organización y forma de realizar las actividades que están bajo su responsabilidad, así como sobre sus sistemas de comunicación y coordinación. Los manuales y demás instrumentos de apoyo administrativo interno deberán mantenerse permanentemente actualizados;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XVI. Expedir los Manuales de Organización, Procedimientos y Servicios al Público necesarios para el funcionamiento de la dependencia a su cargo, los que deberán contener información sobre su estructura, organización y formas de realizar las actividades que estén bajo su responsabilidad, así como sobre sus sistemas de comunicación, coordinación y los procedimientos administrativos que se establezcan. Los manuales de organización general deberán publicarse en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, mientras que los manuales de procedimientos y de servicios al público deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opere la Contraloría General. Los manuales y demás instrumentos de apoyo administrativo interno deberán mantenerse permanentemente actualizados.
 
 XVII. Atender las incidencias de carácter laboral y aplicar las sanciones que correspondan;
 
@@ -1909,21 +1917,31 @@ II. Participar en la evaluación periódica de la relación que guardan los prog
 
 III. Controlar y evaluar los programas de inversión de las dependencias y entidades de la administración pública, conforme a los objetivos del Plan Veracruzano de Desarrollo;
 
-> <small>(REFORMADA, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-IV. Proponer las normas y lineamientos que regulen los procedimientos de control, supervisión y evaluación de la Administración Pública Estatal, así como realizar el control y evaluación del gasto público, conforme al registro de las operaciones financieras, presupuestales y contables que se realicen a través del Sistema Integral de Administración Financiera del Estado de Veracruz;
+IV. Proponer, en colaboración con las autoridades que integran el Comité Coordinador del Sistema Estatal Anticorrupción, las normas y lineamientos que regulen los procedimientos de control, supervisión y evaluación de la Administración Pública Estatal, así como realizar el control y evaluación del gasto público, conforme al registro de las operaciones financieras, presupuestales y contables que se realicen a través del Sistema Integral de Administración Financiera del Estado de Veracruz;
 
 V. Revisar, en los términos de los instrumentos de coordinación que se suscriban, que los recursos financieros ministrados por la Federación al Gobierno del Estado, sean canalizados hacia los objetivos propuestos en los programas respectivos y se apliquen con honestidad y transparencia;
 
-VI. Vigilar, en coordinación con la Secretaría de Finanzas y Planeación, que los empleados que administren fondos y valores del Estado caucionen debidamente su manejo;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-VII. Establecer los criterios y procedimientos para la realización de auditorías y revisiones en las dependencias y entidades;
+VI. Vigilar, en colaboración con las autoridades que integran el Comité Coordinador del Sistema Estatal Anticorrupción, que los empleados que administren fondos y valores del Estado caucionen debidamente su manejo;
 
-VIII. Emitir, en coordinación con la Secretaría de Finanzas y Planeación, criterios y lineamientos en materia de adquisiciones, obras públicas, arrendamientos, contratación de servicios, desincorporación de activos, control de inventarios, manejo de almacenes, conservación, mantenimiento, resguardo y enajenación de los bienes de propiedad estatal;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-IX. Verificar y comprobar, en coordinación con la Secretaría de Finanzas y Planeación, el cumplimiento de las normas y disposiciones internas en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, control, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles; concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
+VII. Establecer, en coordinación con las autoridades que integran el Comité Coordinador del Sistema Estatal Anticorrupción, los criterios y procedimientos para la realización de auditorías y revisiones en las dependencias y entidades;
 
-X. Opinar sobre los proyectos de normas de contabilidad y control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, así como los de contratación de deuda y manejo de fondos y valores que formule la Secretaría de Finanzas y Planeación;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VIII. Emitir, en coordinación con la Secretaría de Finanzas y Planeación, los criterios y lineamientos en materia de adquisiciones, obras públicas, arrendamientos, contratación de servicios, desincorporación de activos, control de inventarios, manejo de almacenes, conservación, mantenimiento, resguardo y enajenación de los bienes de propiedad estatal; así como proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación que realicen las dependencias y entidades de la Administración Pública Estatal y promover, con la intervención que corresponda a otras dependencias, la coordinación y cooperación con los Poderes del Estado, los órganos constitucionales autónomos, los municipios y demás entes públicos encargados del régimen de contratación pública, con excepción de las empresas productivas del Estado;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+IX. Fiscalizar, directamente o a través de los órganos internos de control, que las dependencias y entidades cumplan con las disposiciones legales y normativas en materia de sistemas de registro y contabilidad, contratación y pago de personal, inversiones, concesiones, contratación de servicios, obra pública, gasto corriente, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes, control de inventarios y, en general, sobre los activos y recursos de la Administración Pública Estatal;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+X. Participar en las reuniones del Sistema Nacional de Fiscalización del cual es integrante, así como presentar y opinar sobre proyectos de normas en materia de auditoría y control de recursos públicos y demás que sean necesarias para alcanzar los fines del Sistema;
 
 > <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -1937,7 +1955,9 @@ XIV. Llevar el registro de la normatividad interna de las entidades paraestatale
 
 XV. Proponer al Gobernador del Estado la designación de comisarios, o sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las entidades paraestatales;
 
-XVI. Designar a los auditores externos de las dependencias y entidades y coordinar, supervisar y evaluar sus actividades;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XVI. Designar, coordinar y remover a los auditores externos de las dependencias y entidades, así como supervisar y evaluar sus actividades;
 
 XVII. Informar al Gobernador del Estado y a los titulares de las dependencias y entidades que correspondan, los resultados de la verificación y evaluación de las mismas;
 
@@ -1951,9 +1971,11 @@ XXI. Vigilar el cumplimiento de las normas de control y evaluación; así como a
 
 XXII. Verificar que las dependencias y entidades cumplan las disposiciones legales en materia de planeación, programación, presupuestación, ejercicio, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores;
 
-XXIII. Realizar auditorías, revisiones y evaluaciones a las dependencias y entidades;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-XXIV. Inspeccionar y vigilar que las dependencias y entidades cumplan con las disposiciones legales y normativas en materia de sistemas de registro y contabilidad, contratación y pago de personal, inversiones, concesiones, contratación de servicios, obra pública, gasto corriente, adquisiciones, arrendamientos, conservación, enajenación y baja de bienes muebles e inmuebles, almacenes, control de inventarios y, en general, sobre los activos y recursos de la Administración Pública Estatal;
+XXIII. Realizar auditorías, revisiones y evaluaciones a las dependencias y entidades de la Administración Pública Estatal, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+XXIV. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2017)
 
 XXV. Supervisar que los recursos, las estructuras administrativas y procedimientos de la Administración Pública Estatal sean empleados de manera eficiente y racional;
 
@@ -1961,29 +1983,85 @@ XXVI. Promover la capacitación del personal del Gobierno del Estado para el mej
 
 XXVII. Revisar el desempeño de los servicios administrativos que proporciona el Gobierno Estatal, en apoyo a los programas del mismo, y proponer medidas para su mejoramiento;
 
-XXVIII. Supervisar que los recursos financieros otorgados por la Federación dentro de los convenios y programas que se establezcan con el Estado, sean canalizados hacia los objetivos propuestos en los mismos y se apliquen con honestidad y transparencia;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXVIII. Supervisar, en coordinación con las autoridades que integran el Sistema Estatal Anticorrupción, que los recursos financieros otorgados por la Federación dentro de los convenios y programas que se establezcan con el Estado, sean canalizados hacia los objetivos propuestos en los mismos y se apliquen con honestidad y transparencia;
 
 XXIX. (DEROGADA, G.O. 24 DE FEBRERO DE 2006)
 
 XXX. Verificar que los arrendamientos inmobiliarios que celebre la Administración Pública Estatal estén sustentados en dictamen de justipreciación de rentas emitido por autoridad catastral;
 
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-XXXI. Atender las quejas e inconformidades que presenten los particulares con motivo de licitaciones, concursos, convenios o contratos que celebren con las dependencias y entidades;
+XXXI. Atender las quejas e inconformidades que presenten los particulares con motivo de licitaciones, concursos, convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
-> <small>(REFORMADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-XXXII. Conocer de la responsabilidad administrativa de los servidores públicos en términos de la ley de la materia; y
+XXXII. Conocer e investigar las conductas de los servidores públicos de la Administración Pública Estatal que puedan constituir responsabilidades administrativas, así como substanciar y resolver los procedimientos correspondientes conforme a lo establecido en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave, por sí, o por conducto de los órganos internos de control que correspondan a cada dependencia del Poder Ejecutivo y sus entidades; para lo cual podrán aplicar las sanciones que correspondan.
+
+Cuando los casos sean de la competencia del Tribunal Estatal de Justicia Administrativa, y se trate de faltas administrativas graves, deberá turnarlo para su respectiva resolución; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
 > <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
 
 XXXIII. Evaluar la gestión de los programas presupuestarios y actividades institucionales de las dependencias y entidades de la administración pública estatal, en el marco del sistema de evaluación del desempeño, previsto en el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
 
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXIV. Colaborar en el marco del Sistema Estatal Anticorrupción en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXV. Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables, incluidas las políticas de coordinación en materia de combate a la corrupción establecidas por el Comité Coordinador del mencionado Sistema;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXVI. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Ejecutivo local, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos del Estado y promover, ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXVII. Normar y llevar el registro de los servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales y de intereses que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXVIII. Establecer mecanismos internos para la Administración Pública Estatal que prevengan actos u omisiones que pudieran constituir responsabilidades administrativas;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXIX. Formular y conducir, en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y acceso por parte de los particulares a la información que aquélla genere; así como promover dichas acciones hacia la sociedad;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XL. Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal; y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XLI. Emitir el Código de Ética de los servidores públicos estatales, así como las Reglas de Integridad para el ejercicio de la función pública.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 34 Bis.
+
+Los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal y de sus áreas de auditoría, quejas, investigación y sustanciación, serán responsables de mantener el control interno de la dependencia o entidad a la que se encuentren adscritos. Asimismo, tendrán como función apoyar la política de control interno y la toma de decisiones relativas al cumplimiento de los objetivos y políticas institucionales, así como al óptimo desempeño de servidores públicos y órganos, a la modernización continua y desarrollo eficiente de la gestión administrativa y al correcto manejo de los recursos públicos.
+
+Los órganos internos de control de las entidades que cuenten con un régimen específico de control interno se sujetarán a la organización y funciones establecidas en las disposiciones mediante las que se crea la respectiva entidad, las cuales deberán ajustarse a los parámetros establecidos por el Comité Coordinador del Sistema Estatal Anticorrupción.
+
+Los órganos internos de control, en ejercicio de su función de auditoría, se regirán por las leyes y disposiciones sobre adquisiciones, obra pública, presupuesto, contabilidad, procedimiento administrativo, transparencia y acceso a la información, responsabilidades, combate a la corrupción entre otras afines a la materia, así como por las bases y principios de coordinación que emitan el Comité Coordinador del Sistema Estatal Anticorrupción y la Contraloría General respecto de dichos asuntos, igualmente sobre la organización, funcionamiento y supervisión de los sistemas de control interno, mejora de gestión en las dependencias y entidades de la Administración Pública Estatal y presentación de informes por parte de dichos órganos.
+
+Las unidades a que se refiere el párrafo anterior y los órganos internos de control formularán en el mes de noviembre su plan anual de trabajo y de evaluación. Cuando se renueve el titular del Poder Ejecutivo, podrá formularse en enero del siguiente año.
+
+Los titulares de las unidades encargadas de la función de auditoría de la Contraloría General y de los órganos internos de control, en los meses de mayo y noviembre entregarán informes al titular de dicha dependencia, sobre hallazgos en la gestión y recomendaciones en relación con las acciones correctivas, preventivas y oportunidades de mejora respecto de la calidad y eficiencia de los distintos procesos internos y sobre la relación de los procedimientos por faltas administrativas y de sanciones aplicadas por los órganos internos de control; las acciones de responsabilidad presentadas ante el Tribunal Estatal de Justicia Administrativa y las sanciones correspondientes; las denuncias por actos de corrupción que presenten ante la Fiscalía Especializada en Combate a la Corrupción; así como un informe detallado del porcentaje de los procedimientos iniciados por los órganos internos de control que culminaron con una sanción firme, a cuánto ascienden, y en su caso, las indemnizaciones efectivamente cobradas durante el período del informe.
+
+Con base en dichos informes, recomendaciones y las bases y principios de coordinación que emita el Comité Coordinador del Sistema Estatal Anticorrupción, tanto las dependencias y entidades, así como la Contraloría General, implementarán las acciones pertinentes para mejora de la gestión.
+
+Conforme a lo dispuesto en las leyes en la materia, así como en las bases y principios de coordinación emitidos por el Comité Coordinador del Sistema Estatal Anticorrupción, los titulares de los órganos internos de control encabezarán comités de control y desempeño institucional para el seguimiento y evaluación general de la gestión.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 De la Procuraduría General de Justicia
 
 ###### Artículo 35.
 
-La Procuraduría General de Justicia es la dependencia encargada del Ministerio Público, responsable de procurar y vigilar el cumplimiento de las leyes y ejercer las acciones correspondientes en contra de los infractores de la ley, así como las que tengan por objeto la efectiva reparación del daño causado y la protección de los derechos de la víctima del acto ilícito, en términos de lo dispuesto por la Constitución Federal, la Constitución Política del Estado, la Ley Orgánica del Ministerio Público y demás disposiciones aplicables.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE OCTUBRE DE 2011)</small>
 
@@ -2036,6 +2114,10 @@ XII. Coordinar con las dependencias de la administración pública estatal los p
 ###### Artículo 38.
 
 El presente capítulo tiene por objeto establecer las bases de organización, funcionamiento y control de las entidades paraestatales a que hace referencia el artículo 3 de esta ley. Las relaciones del Ejecutivo del Estado, o de sus dependencias, con las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública, se sujetarán, en primer término, a lo establecido en esta ley y sus disposiciones reglamentarias y, sólo en lo no previsto, a otras disposiciones según la materia que corresponda.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Finanzas y Planeación y la Contraloría General emitirán los criterios para la clasificación de las entidades paraestatales conforme a sus objetivos y actividades, en aquellas que cumplan una función institucional y las que realicen fines comerciales con el propósito de, en su caso, establecer mecanismos diferenciados que hagan eficiente su organización, funcionamiento, control y evaluación. Dichos mecanismos contemplarán un análisis sobre los beneficios y costos de instrumentar prácticas de gobierno corporativo en las entidades con fines comerciales, a efecto de considerar la conveniencia de su adopción.
 
 ###### Artículo 39.
 
@@ -2710,3 +2792,13 @@ QUINTO. Para llevar a cabo las actividades derivadas de las facultades transferi
 SEXTO. En tanto se expidan las nuevas normas reglamentarias o reformas correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
 
 SÉPTIMO Las donaciones, compensaciones, multas o cuotas voluntarias de los trámites administrativos relacionados con los servicios prestados por la Secretaría, la Procuraduría y los Municipios en materia forestal, tendrán un fin específico relacionado con la protección y restauración del medio ambiente del Estado de Veracruz y serán depositados en el Subfiso del Fondo Forestal Estatal.
+
+G.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 369 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El titular del Poder Ejecutivo deberá expedir las reformas al Reglamento Interior de la Contraloría General, en un plazo no mayor a sesenta días naturales, contado a partir de la entrada en vigor del presente Decreto.
