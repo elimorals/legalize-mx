@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-875-de-transparencia-y-acceso-a-la-informacion-11666
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-29"
-last_updated: "2017-11-06"
+last_updated: "2017-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY NÚMERO 875 DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el jueves 29 de septiembre de 2016.
 
@@ -2073,7 +2075,9 @@ II. Asistir a los Comisionados en la sustanciación y resolución de los recurso
 
 III. Apoyar al Comisionado Presidente en la elaboración del orden del día y de las actas de las sesiones del Pleno;
 
-IV. Notificar a los Comisionados y al Comisario la convocatoria a sesiones ordinarias y extraordinarias del Pleno, anexando el orden del día de los asuntos a tratar, así como toda la documentación necesaria para la discusión correspondiente;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+IV. Notificar a los Comisionados la convocatoria a sesiones ordinarias y extraordinarias del Pleno, anexando el orden del día de los asuntos a tratar, así como toda la documentación necesaria para la discusión correspondiente;
 
 V. Levantar las actas de las sesiones;
 
@@ -2439,11 +2443,13 @@ VIII. Resguardar los expedientes que les sean entregados al Secretario de Acuerd
 
 IX. Las demás que expresamente establezcan la Ley, las disposiciones aplicables y las que le sean asignadas por el Pleno.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 115.
 
-El titular del Órgano de Control Interno será designado por el Congreso del Estado, conforme a la normatividad correspondiente. Tendrá también el carácter de Comisario del Instituto y ejercerá las atribuciones siguientes:
+A. El Órgano Interno de Control tendrá las siguientes atribuciones:
 
-I. Organizar y coordinar el sistema de control y evaluación del Instituto, así como inspeccionar el ejercicio del gasto público e ingresos del mismo y su congruencia con el presupuesto de egresos;
+I. Organizar y coordinar el sistema de control y evaluación del Instituto, así como inspeccionar el manejo y custodia del gasto público e ingresos del mismo y su congruencia con el presupuesto de egresos;
 
 II. Vigilar que las normas, procedimientos administrativos y contables se apliquen eficientemente, conforme a los lineamientos establecidos por las leyes de la materia y los principios de contabilidad generalmente aceptados;
 
@@ -2457,7 +2463,7 @@ VI. Vigilar que el Instituto, en ejercicio de sus atribuciones, se conduzca bajo
 
 VII. Actuar en coordinación con las áreas administrativas para verificar que se cumpla con la normatividad en el ejercicio del gasto;
 
-VIII. Informar a los Comisionados y al Secretario Ejecutivo respecto de las faltas cometidas por los servidores públicos del Instituto en el ejercicio del gasto;
+VIII. Informar a los comisionados y al secretario ejecutivo respecto de las faltas cometidas por los servidores públicos del Instituto en el ejercicio del gasto;
 
 IX. Dictar las políticas en materia de control interno necesarias para el funcionamiento del Instituto;
 
@@ -2477,21 +2483,19 @@ XVI. Conocer del recurso de revocación previsto en la Ley de Adquisiciones, Arr
 
 XVII. Aplicar las sanciones a los proveedores o licitantes que infrinjan la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado;
 
-XVIII. Supervisar el cumplimiento de las obligaciones de los servidores públicos del Instituto, en lo relativo a su situación patrimonial, recibir las declaraciones patrimoniales y remitirlas al Congreso del Estado, de conformidad con la normatividad aplicable;
+XVIII. Recibir, registrar, verificar y generar la información que, para efectos de los Sistemas Nacional y Estatal Anticorrupción, deberán contener las Plataformas Digitales respectivas, en relación a las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, así como de la evolución del patrimonio de los servidores públicos de la Comisión. También podrá requerir información adicional, realizando las investigaciones pertinentes; de no existir anomalía alguna tendrá que expedir la certificación correspondiente;
 
-XIX. Conocer de las quejas y denuncias que se presenten en contra de los servidores públicos del Instituto y dar trámite a los procedimientos de responsabilidad administrativa, en términos de la ley de la materia;
+XIX. Presentar denuncias por hechos u omisiones que puedan constituir un delito cometido por los servidores públicos del Instituto ante la Fiscalía Especializada en Delitos relacionados con Hechos de Corrupción y cometidos por servidores públicos del Estado, así como conocer de las mismas y dar trámite a los procedimientos de responsabilidad administrativa, en términos de la ley de la materia;
 
-XX. Dar a conocer a la Dirección de Administración y Finanzas, en caso de determinarse alguna responsabilidad administrativa, para proceder a su sanción en términos del artículo 76 de la Ley de Responsabilidades de los Servidores Públicos para el Estado Libre y Soberano de Veracruz, con independencia de la facultad que los superiores jerárquicos tienen en ejercicio de sus atribuciones de dirección y vigilancia;
-
-En caso de que la Dirección de Administración y Finanzas no emita sanción conforme a la ley de la materia, resolver sobre la misma, pudiendo aplicar a solicitud de dicha Dirección o de considerarlo procedente, la sanción económica a que hace referencia el artículo 56, fracción VI, de la Ley de Responsabilidades de los Servidores Públicos para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave;
+XX. Implementar acciones para orientar a los servidores públicos en el desempeño de sus funciones, para estar con concordancia con el Sistema Estatal Anticorrupción;
 
 XXI. Intervenir en el proceso de entrega y recepción de las áreas administrativas del Instituto;
 
 XXII. Coadyuvar con el Pleno en la elaboración y actualización de los Lineamientos a que se refiere la Ley;
 
-XXIII. Proporcionar al Secretario Ejecutivo y al Pleno la información que le sea requerida;
+XXIII. Proporcionar al secretario ejecutivo y al Pleno la información que le sea requerida;
 
-XXIV. Rendir al Pleno, a través del Secretario Ejecutivo, el informe trimestral de las actividades realizadas en ejercicio de sus atribuciones;
+XXIV. Rendir al Pleno, a través del secretario ejecutivo, el informe trimestral de las actividades realizadas en ejercicio de sus atribuciones;
 
 XXV. Vigilar que las disposiciones establecidas en esta Ley sean aplicadas por las áreas administrativas del Instituto;
 
@@ -2499,9 +2503,21 @@ XXVI. Asistir a las sesiones del Pleno, con derecho a voz, pero sin voto;
 
 XXVII. Levantar actas administrativas a los servidores públicos del Instituto por el incumplimiento de sus deberes legales, para iniciar el procedimiento de responsabilidad administrativa;
 
-XXVIII. Suscribir las actas levantadas; y
+XXVIII. Prevenir, corregir e investigar hechos que pudieran constituir responsabilidades y faltas administrativas, así como sancionar aquellos distintos a las que son competencia del Tribunal Estatal de Justicia Administrativa, de conformidad con la ley en la materia; y
 
 XXIX. Las demás que expresamente establezcan la Ley, las disposiciones aplicables y las que le sean asignadas por el Pleno.
+
+B. El titular del Órgano Interno de Control, para su designación, debe reunir los requisitos siguientes:
+
+I. Ser veracruzano y haber residido en la entidad durante los dos años anteriores al día de la designación, o mexicano por nacimiento, con vecindad mínima de cinco años en el estado; en ambos casos, ser ciudadano en pleno ejercicio de sus derechos;
+
+II. Tener, cuando menos, treinta y cinco años de edad cumplidos al día de la designación;
+
+III. Contar con título profesional legalmente expedido y cédula profesional en alguna de las áreas económicas, contables, jurídicas o administrativas y acreditar experiencia profesional de cuando menos cinco años en actividades afines y poseer, preferentemente estudios de postgrado; y
+
+IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, u otro que lastime su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+C. El titular del Órgano Interno de Control será nombrado por el Congreso del Estado mediante convocatoria pública, con el voto de las dos terceras partes de los diputados presentes, por un período de cinco años y podrá ser reelecto hasta por un período.
 
 ###### Artículo 116.
 
@@ -3806,5 +3822,13 @@ G.O. 6 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 303 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 371 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, TODAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA ANTICORRUPCIÓN".]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
