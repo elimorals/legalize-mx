@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2015-05-26"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -47,11 +49,13 @@ De Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Ll
 
 ## TÍTULO PRIMERO. PRINCIPIOS GENERALES
 
-> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 1.
 
-Las disposiciones del presente Código tienen por objeto regular las bases generales de los actos y procedimientos de la Administración Pública; así como el recurso de revocación y el juicio contencioso administrativo ante el órgano jurisdiccional competente.
+Las disposiciones del presente Código tienen por objeto regular las bases generales de los actos y procedimientos de la Administración Pública; del recurso de revocación, el juicio contencioso administrativo ante el órgano jurisdiccional competente; así como la calificación y sanción a servidores públicos estatales y municipales respecto de faltas administrativas graves y a particulares vinculados con éstas, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(REFORMADO, G.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 Los procedimientos administrativos, así como los recursos y medios de impugnación a que se refiere el párrafo anterior, deberán estar regulados por leyes especiales y se regirán por éstas en lo que no se opongan al presente Código y, en lo no previsto en dichas leyes, se aplicarán las disposiciones de este ordenamiento. Los recursos y medios de impugnación no previstos en el presente Código o en las leyes especiales, se tendrán por inexistentes o insubsistentes.
 
@@ -83,7 +87,9 @@ VIII. Código: El Código de Procedimientos Administrativos para el Estado de Ve
 
 IX. Dirección de correo electrónico: El sistema de comunicación a través de redes informáticas, señalado por las partes para enviar y recibir mensajes y documentos electrónicos relacionados con los actos a los que se refiere este Código;
 
-X. Firma electrónica: El conjunto de datos electrónicos contenido en un mensaje o adjuntado al mismo, utilizado como medio para identificar a su autor o emisor;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+X. Faltas Administrativas: Las descritas en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave;
 
 XI. Firma electrónica certificada o avanzada: La que ha sido autorizada por la autoridad certificadora en los términos que señala este Código, consistente en el conjunto de datos electrónicos integrados o asociados inequívocamente a un mensaje, que permite asegurar su integridad y autenticidad y la identidad del firmante;
 
@@ -105,9 +111,13 @@ XIX. Juicio de lesividad: El procedimiento incoado por la autoridad ante el Trib
 
 XX. Normas: Las leyes, reglamentos, decretos, acuerdos, bandos u otras disposiciones de carácter general, que rijan en el Estado de Veracruz de Ignacio de la Llave;
 
-XXI. Nulidad: La expresión, manifestación o reconocimiento emanados del órgano competente, en el sentido de que un acto administrativo no cumple con los elementos de validez que se establecen en este Código y que por tanto no genera efectos jurídicos;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-XXII. Oficina ejecutora: La autoridad fiscal estatal o municipal que, de conformidad con las normas aplicables, tiene atribuciones para ordenar y substanciar el procedimiento administrativo de ejecución;
+XXI. Ley de Responsabilidades Administrativas: La Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXII. Ley General: La Ley General de Responsabilidades Administrativas;
 
 XXIII. Organismos autónomos: Los previstos en el artículo 67, fracciones III y IV, de la Constitución Política del Estado, así como la Universidad Veracruzana y demás instituciones estatales de educación superior a las que la ley otorgue autonomía;
 
@@ -123,23 +133,33 @@ XXVIII. Servidores públicos: Las personas que desempeñan un empleo, cargo o co
 
 XXIX. Sistema de información: El utilizado para generar, enviar, recibir, archivar o procesar de alguna forma un mensaje de datos; y
 
-XXX. Tribunal: El Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado de Veracruz de Ignacio de la Llave.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXX. Tribunal: El Tribunal Estatal de Justicia Administrativa; y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXXI. UMA: La Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 3.
 
-La Administración Pública, conforme a los principios de descentralización, desconcentración, coordinación, cooperación, eficiencia y eficacia, deberá abstenerse de prácticas que impliquen vías de hecho administrativas contrarias a las garantías constitucionales, a las disposiciones previstas en este Código o en otras normas.
+La Administración Pública, conforme a los principios de descentralización, desconcentración, coordinación, cooperación, eficiencia y eficacia, deberá abstenerse de prácticas que impliquen vías de hecho administrativas contrarias a los derechos humanos y a las disposiciones previstas en este Código o en otras normas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE FEBRERO DE 2004)</small>
 
 Para su debida validez y eficacia, las comunicaciones entre los servidores públicos por las que se ordene o solicite la tramitación o ejecución de actos y procedimientos administrativos, así como de acciones de control y evaluación, deberán hacerse en forma escrita, debidamente fundadas y motivadas en las disposiciones aplicables al caso concreto.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-El incumplimiento de las disposiciones previstas en este ordenamiento dará lugar a la responsabilidad de los servidores públicos, en términos de la ley de la materia y este Código, sin perjuicio de las demás responsabilidades que señalen las leyes del Estado.
+El incumplimiento de las disposiciones previstas en este ordenamiento dará lugar a la responsabilidad de los servidores públicos, en términos de la Ley General y la Ley de Responsabilidades Administrativas, sin perjuicio de las demás responsabilidades que señalen las leyes del Estado.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 4.
 
-El procedimiento administrativo y el juicio contencioso se regirán por los principios de legalidad, prosecución del interés público, igualdad y proporcionalidad, imparcialidad, sencillez, celeridad, oficiosidad, eficacia, publicidad, gratuidad y buena fe; en consecuencia:
+El procedimiento administrativo y el juicio contencioso se regirán por los principios de legalidad, prosecución del interés público, igualdad y proporcionalidad, respeto a los derechos humanos, verdad material, imparcialidad, sencillez, celeridad, oficiosidad, eficacia, publicidad, gratuidad y buena fe; adicionalmente el Tribunal observará en sus actuaciones los principios de autonomía, celeridad, plena jurisdicción, razonabilidad, presunción de inocencia, tipicidad y debido proceso; en consecuencia:
 
 I. Se ajustarán estrictamente a las disposiciones de este Código;
 
@@ -151,19 +171,25 @@ IV. Se impulsarán de oficio, sin perjuicio de la intervención de las partes in
 
 V. Se cuidará que alcancen sus finalidades y efectos legales;
 
-VI. Las actuaciones serán públicas, salvo que la moral o el interés general exija que sean secretas;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VI. Las actuaciones serán públicas, salvo que el interés general exija que sean secretas;
 
 > <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
 VII. Serán gratuitos, sin que pueda condenarse al pago de gastos y costas;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-VIII. Las autoridades, El Tribunal y las partes interesadas se conducirán en las promociones y actuaciones con honradez, transparencia y respeto; y
+VIII. Las autoridades, el Tribunal y las partes interesadas en todo tipo de documentos que elaboren, deberán conducirse con honradez, transparencia y respeto; y
 
-> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-IX. Las autoridades de la Administración Pública estatal y municipal tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos. Las disposiciones relativas a derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de la materia, favoreciendo en todo tiempo a los administrados.
+IX. Las autoridades de la Administración Pública Estatal y Municipal tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Las disposiciones relativas a derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de los que el Estado Mexicano sea parte en la materia, favoreciendo en todo tiempo a los administrados.
 
 ## TÍTULO SEGUNDO. DE LAS RELACIONES ENTRE LA ADMINISTRACIÓN PÚBLICA Y LOS PARTICULARES
 
@@ -259,9 +285,11 @@ IV. Que sea expedido sin que medie error respecto a la referencia específica de
 
 ### CAPÍTULO II. DE LA EFICACIA Y LA EJECUTIVIDAD
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 9.
 
-El acto administrativo será válido mientras su invalidez no haya sido declarada por la autoridad competente o por el Tribunal, en términos de las normas jurídicas aplicables o, en su defecto, de este Código.
+El acto administrativo será válido mientras su invalidez no haya sido declarada por el Tribunal, en términos de las normas jurídicas aplicables o, en su defecto, de este Código.
 
 ###### Artículo 10.
 
@@ -327,11 +355,13 @@ El acto anulable se considerará válido; gozará de presunción de legalidad y 
 
 El saneamiento del acto anulable, tendrá por efecto que éste se considere como si siempre hubiere sido válido.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 18.
 
-El superior jerárquico podrá, de oficio, reconocer la anulabilidad o declarar la nulidad del acto en vía administrativa, cuando éste no reúna los requisitos o elementos de validez que señala este Código. También podrá revocarlo de oficio, cuando sobrevengan cuestiones de oportunidad e interés público previstos en Ley.
+El superior jerárquico podrá, de oficio, reconocer la ausencia de alguno de los elementos de validez del acto administrativo en ejercicio de su facultad de revisión y en consecuencia, revocarlo o modificarlo en vía administrativa. También podrá revocarlo de oficio, cuando sobrevengan cuestiones de oportunidad e interés público previstos en Ley.
 
-Cuando se haya generado algún derecho o beneficio al interesado, no se podrá anular de oficio el acto administrativo. En este caso, la autoridad, para demandar su nulidad, tendrá que iniciar juicio de lesividad ante el Tribunal, salvo en los casos en que las normas aplicables permitan a la autoridad revocar o anular oficiosamente dichos actos administrativos, o cuando el interesado se haya conducido con dolo, mala fe o violencia para obtener dicha resolución favorable.
+Cuando con un acto administrativo se haya generado algún derecho o beneficio a favor del interesado, no podrá ser revocado de oficio, en cuyo caso y para impedir que siga surtiendo sus efectos, la autoridad deberá demandar su nulidad mediante el juicio de lesividad, salvo en los casos en que las normas aplicables permitan a la autoridad revocarlo oficiosamente o cuando el interesado se haya conducido con dolo, mala fe o violencia para obtener dicha resolución favorable.
 
 ###### Artículo 19.
 
@@ -573,9 +603,11 @@ V. Si se resuelve que la notificación fue legalmente practicada y, como consecu
 
 #### SECCIÓN PRIMERA. DE LAS REGLAS GENERALES
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 45.
 
-En el procedimiento administrativo, en el recurso de revocación y en el juicio contencioso se admitirán toda clase de pruebas, excepto la confesional de las autoridades mediante absolución de posiciones, las que no tengan relación con el asunto, las que resulten inútiles para la decisión del caso, así como la que sean contrarias a la moral o al derecho.
+En el procedimiento administrativo, en el recurso de revocación, en el juicio contencioso y en la calificación e imposición de sanciones por faltas administrativas se admitirán toda clase de pruebas, excepto la confesional de las autoridades mediante absolución de posiciones, las que no tengan relación con el asunto, las que resulten inútiles para la decisión del caso, así como las que sean contrarias al derecho.
 
 ###### Artículo 46.
 
@@ -615,7 +647,13 @@ VI. La presuncional;
 
 VII. Fotografías y demás elementos aportados por la ciencia; y
 
-VIII. Los demás medios que produzcan convicción.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VIII. Los informes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+IX. Los demás medios que produzcan convicción.
 
 Las actuaciones harán prueba plena y deberán ser tomadas en cuenta por la Autoridad o el Tribunal al momento de resolver, sin necesidad de ser ofrecidas como tales.
 
@@ -703,17 +741,19 @@ Cuando el citado para absolver posiciones no comparezca, el personal actuante de
 
 #### SECCIÓN TERCERA. DE LOS DOCUMENTOS PÚBLICOS Y PRIVADOS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 66.
 
-Son documentos públicos aquellos cuya formulación está encomendada por ley a las personas dotadas de fe pública y los expedidos por servidores públicos en el ejercicio de sus funciones.
+Son documentos públicos, todos aquellos que sean expedidos por las personas en ejercicio del servicio público. Son documentos privados los que no cumplan con la condición anterior.
 
 La calidad de públicos se demuestra por la existencia regular sobre los documentos, de sellos, firmas u otros signos exteriores que, en su caso, prevengan las normas, salvo prueba en contrario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 67.
 
-Los documentos públicos expedidos por autoridades de la Federación, de los Estados, del Distrito Federal o de los municipios harán fe en el Estado de Veracruz de Ignacio de la Llave, sin necesidad de legalización.
+Los documentos públicos expedidos por autoridades de la Federación, de las entidades federativas o de los municipios, harán fe en el Estado de Veracruz, sin necesidad de legalización.
 
 Para que hagan fe los documentos procedentes del extranjero, deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares, o ajustarse a los convenios que la Federación haya celebrado en esta materia.
 
@@ -741,7 +781,9 @@ A fin de que las partes puedan rendir sus pruebas, las autoridades tienen obliga
 
 Cuando sin justa causa a la autoridad requerida no expida las copias de los documentos ofrecidos para probar los hechos que se le imputan y siempre que los documentos solicitados hubieran sido identificados con toda precisión tanto en sus características como en su contenido, se presumirán ciertos los hechos que se pretendan probar con esos documentos.
 
-En los casos en que la autoridad requerida no sea parte, la autoridad o el Tribunal podrán hacer valer como medida de apremio la imposición de una multa de cincuenta a cien días de salario mínimo vigente en la capital del Estado a la autoridad omisa, sin perjuicio de las demás sanciones que procedan por las responsabilidades en que incurra.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+En los casos en que la autoridad requerida no sea parte, la autoridad o el Tribunal podrán hacer valer como medida de apremio la imposición de una multa de cincuenta a cien UMAS a la autoridad omisa, sin perjuicio de las demás sanciones que procedan por las responsabilidades en que incurra.
 
 ###### Artículo 73.
 
@@ -791,7 +833,9 @@ Quienes tengan conocimiento de los hechos que las partes deben de probar, están
 
 La parte que ofrezca la prueba testimonial deberá indicar el nombre y domicilio de los testigos y tendrá la obligación de presentarlos.
 
-Cuando se trate del juicio contencioso y el oferente estuviere imposibilitado para presentar a los testigos, lo manifestará así bajo protesta de decir verdad y pedirá que se les cite, en cuyo caso el Tribunal ordenará la citación, con el apercibimiento de aplicación de las medidas de apremio previstas por este Código, al testigo que no comparezca sin causa justificada o que se niegue a declarar. En caso de que el señalamiento del domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el juicio, se impondrá al promovente multa de cincuenta a cien días de salario mínimo general vigente en la capital del Estado en la fecha de su imposición.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Cuando se trate del juicio contencioso y el oferente estuviere imposibilitado para presentar a los testigos, lo manifestará así bajo protesta de decir verdad y pedirá que se les cite, en cuyo caso el Tribunal ordenará la citación, con el apercibimiento de aplicación de las medidas de apremio previstas por este Código, al testigo que no comparezca sin causa justificada o que se niegue a declarar. En caso de que el señalamiento del domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el juicio, se impondrá al promovente multa de cincuenta a cien UMAS.
 
 La prueba testimonial será declarada desierta cuando el oferente no presente a declarar a sus testigos ante la autoridad, o no se presenten a la segunda citación del Tribunal, imponiéndose las multas con que hubieren sido apercibidos como medida de apremio.
 
@@ -801,9 +845,11 @@ La falta de cumplimiento de alguno de los requisitos para el ofrecimiento de la 
 
 Los servidores públicos no están obligados a declarar como testigos. Sólo cuando la autoridad o el Tribunal lo estimen indispensable para la investigación de la verdad, se les solicitará que rindan su testimonio por oficio, conforme al interrogatorio escrito que para tal efecto presente el oferente de la prueba.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 81.
 
-La autoridad o el Tribunal señalarán día y hora para la recepción de la prueba testimonial. Para el examen de los testigos se presentarán, al ofrecerse la prueba, interrogatorios escritos. Las preguntas deberán tener relación directa con los puntos controvertidos, no serán contrarias al derecho o a la moral y deberán estar concebidas en términos claros y precisos, sin que pueda ir implícita la respuesta en ellas ni se comprenda en una sola más de un hecho.
+La autoridad o el Tribunal señalarán día y hora para la recepción de la prueba testimonial. Para el examen de los testigos se presentarán, al ofrecerse la prueba, interrogatorios escritos. Las preguntas deberán tener relación directa con los puntos controvertidos, no serán contrarias al derecho deberán estar concebidas en términos claros y precisos, sin que pueda ir implícita la respuesta en ellas ni se comprenda en una sola más de un hecho.
 
 La protesta y examen de los testigos se hará en presencia de las partes que concurrieren. Al final del examen de cada testigo, las partes podrán, por una sola vez y en forma oral, formularle repreguntas, previa autorización de la autoridad o del Tribunal. La autorización a una de las partes implica la de la otra.
 
@@ -1001,7 +1047,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa de cincuenta a cien días de salario mínimo vigente en la capital del Estado; si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor al importe de su jornal o salario de un día; y tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III. Multa de cincuenta a cien UMAS; si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor al importe de su jornal o salario de un día; y tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
 
 IV. Expulsión temporal de las personas del lugar donde se lleve a cabo la diligencia o actuación, cuando ello sea necesario para su continuación;
 
@@ -1009,7 +1057,9 @@ V. Auxilio de la fuerza pública; o
 
 VI. Los demás que establece este Código.
 
-La multa a que se refiere la fracción II tendrá el carácter de crédito fiscal y se fijará en cantidad líquida, haciéndose efectivo conforme al procedimiento de ejecución.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Las multas que impongan las autoridades tendrán el carácter de crédito fiscal y se fijará en cantidad líquida, haciéndose efectivo conforme al procedimiento de ejecución.
 
 ### CAPÍTULO VII. DE LAS RESOLUCIONES EN GENERAL
 
@@ -1151,9 +1201,11 @@ En el caso de que la recusación sea procedente y fundada, la resolución respec
 
 Si se declarara improcedente o infundada la causa de recusación que se hubiere alegado, el recusante no podrá volver a hacer valer alguna otra causa de recusación, en ese procedimiento, a menos que sea superveniente o que en su defecto, haya cambio de servidor público, en cuyo caso podrá hacer valer la causal de impedimento respecto a éste.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 136.
 
-La intervención del servidor público que se encuentre en alguno de los supuestos del artículo 128 de este Código, no implicará la invalidez de los actos administrativos en que haya intervenido, cuando éstos sean favorables al particular, pero en todo caso dará lugar a responsabilidad administrativa, en términos del presente Código o de las normas aplicables.
+La intervención del servidor público que se encuentre en alguno de los supuestos del artículo 128 de este Código, no implicará la invalidez de los actos administrativos en que haya intervenido, cuando éstos sean favorables al particular, pero en todo caso dará lugar a responsabilidad administrativa, en términos de la Ley General y la Ley de Responsabilidades Administrativas.
 
 ###### Artículo 137.
 
@@ -1823,9 +1875,13 @@ II. Por embargo; y
 
 III. Por remate, enajenación fuera de remate o adjudicación al fisco.
 
-Cuando el dos por ciento del crédito sea inferior al importe de dos días de salario mínimo general vigente en la capital del Estado, se cobrará este importe en vez del dos por ciento.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, podrán exceder de la cantidad equivalente al salario mínimo general vigente en la capital del Estado elevado al año.
+Cuando el dos por ciento del crédito sea inferior al importe de dos UMAS, se cobrará este importe en vez del dos por ciento.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, podrán exceder de la cantidad equivalente a la UMA.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo, en su caso, los que deriven de embargos, que únicamente comprenderán los de transporte y almacenaje de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el registro público que corresponda, los erogados por la obtención de certificados de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores o administradores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios.
 
@@ -1881,15 +1937,15 @@ El notificador ejecutar designado por la oficina en que sea radicado el crédito
 
 Si el requerimiento de pago se hizo por edicto, la diligencia de embargo se entenderá con una autoridad administrativa estatal o municipal de la circunscripción donde estén ubicados los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor, en cuyo caso se entenderá con él.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 198.
 
 La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, siempre que los mismos sean de fácil realización o venta, sujetándose al orden siguiente:
 
-I. Dinero, metales preciosos, depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+I. Dinero, metales preciosos, depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen (sic) en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de veinte UMAS elevadas al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
 
 II. Acciones, bonos, cupones vencidos, valores mobiliarios y en general créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, Estados y Municipios y de instituciones o empresas de reconocida solvencia.
 
@@ -2111,7 +2167,7 @@ Para que sea aplicable la excepción a que se refiere el párrafo anterior, ser�
 
 La vigencia y exigibilidad del crédito cuya preferencia se invoque deberá comprobarse en forma fehaciente al hacerse valer el recurso de revocación o el juicio contencioso.
 
-En ningún caso, el fisco estatal o municipal entrarán (sic) en los juicios universales. Cuando se inicie un juicio concursal, la autoridad jurisdiccional que conozca del asunto, deberá dar aviso a las autoridades fiscales competentes para que, en su caso, hagan exigibles los créditos fiscales a su favor a través del procedimiento de ejecución.
+En ningún caso, el fisco estatal o municipal entrarán en los juicios universales. Cuando se inicie un juicio concursal, la autoridad jurisdiccional que conozca del asunto, deberá dar aviso a las autoridades fiscales competentes para que, en su caso, hagan exigibles los créditos fiscales a su favor a través del procedimiento de ejecución.
 
 ###### Artículo 221.
 
@@ -2131,7 +2187,9 @@ La oficina ejecutara obtendrá del Registro Público que corresponda, certificad
 
 El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a la determinación del precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diez días antes de la fecha del remate.
 
-La convocatoria se fijará en los estrados de la oficina ejecutora y en los lugares públicos que se estimen convenientes. Cuando el valor de los bienes muebles o inmuebles exceda de la cantidad que corresponda a una vez el salario mínimo general vigente en la capital del Estado elevado al año, la convocatoria se publicará en la Gaceta Oficial y en uno de los periódicos de mayor circulación donde resida la oficina ejecutora, por dos veces con un intervalo de siete días.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+La convocatoria se fijará en los estrados de la oficina ejecutora y en los lugares públicos que se estimen convenientes. Cuando el valor de los bienes muebles o inmuebles exceda de la cantidad que corresponda a una UMA elevada al año, la convocatoria se publicará en la Gaceta Oficial y en uno de los periódicos de mayor circulación donde resida la oficina ejecutora, por dos veces con un intervalo de siete días.
 
 En todo caso, a petición del deudor y a su costa, la oficina ejecutora podrá ordenar una publicidad más amplia, dentro del plazo señalado en el primer párrafo de este artículo.
 
@@ -2327,131 +2385,65 @@ Para resolver sobre la preferencia de derechos, se estará a lo dispuesto por lo
 
 ### CAPÍTULO IV. DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL FINCAMIENTO DE RESPONSABILIDADES A LOS SERVIDORES PÚBLICOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE ABRIL DE 2003)</small>
-
 ###### Artículo 251.
 
-Las autoridades, a través de sus unidades de control interno, serán competentes para la determinación de responsabilidades a los servidores públicos y, en su caso, para el fincamiento de las indemnizaciones y sanciones administrativas que correspondan; así como para promover ante las autoridades competentes el fincamiento de otras responsabilidades y presentar las denuncias y querellas penales, en términos de las normas aplicables.
-
-> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
-
-Cuando se actualice alguno de los supuestos previstos en el párrafo anterior, las unidades de control interno de las autoridades aplicarán el siguiente procedimiento:
-
-> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
-
-I. Se citará personalmente al presunto responsable a una audiencia en la sede de la autoridad, haciéndole saber los hechos u omisiones que se le imputan y que sean causa de responsabilidad en los términos de ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y formular alegatos, por sí o por medio de un defensor; apercibido que de no comparecer sin justa causa, se tendrá por precluido su derecho para ofrecer pruebas y formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días;
-
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
-
-II. Celebrada la audiencia, se emitirá resolución dentro de los quince días siguientes, en la que se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanciones correspondientes, y se notificará al responsable y al superior jerárquico dicha resolución para los efectos que procedan. Cuando la resolución constituya, además, un crédito fiscal, se remitirá un tanto autógrafo de la misma a la oficina ejecutora que corresponda, para el efecto de que si, en un plazo de quince días siguientes a la fecha en que surta efectos la notificación, el crédito fiscal no es cubierto, o no es impugnado y debidamente garantizado en términos de las normas aplicables, se haga efectivo a través del procedimiento administrativo de ejecución;
-
-> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
-
-III. Si celebrada la audiencia, los órganos de control interno de las autoridades no encontraren elementos suficientes para fincar la responsabilidad, emitirán una resolución en ese sentido, en el plazo señalado en la fracción anterior; y
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE ABRIL DE 2003)</small>
-
-IV. En cualquier momento, previo o posterior al citatorio al que se refiere la fracción I del presente artículo, los órganos de control interno de las autoridades podrán acordar como medida precautoria la suspensión temporal de los presuntos responsables, en sus cargos, empleos o comisiones, si a su juicio conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se impute. El acuerdo que al efecto se emita hará constar expresamente esta salvedad.
-
-La suspensión temporal a que se refiere esta fracción, suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo a comisión, y regirá desde el momento en que sea notificada al interesado. La suspensión cesará cuando así lo resuelva fundada y motivadamente la autoridad que la haya acordado, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo.
-
-Si los servidores públicos suspendidos temporalmente no resultaron responsables de la falta que se les imputa, serán restituidos en el goce de sus derechos y se les cubrirán las percepciones correspondientes al tiempo que estuvieron suspendidos.
-
-Si el nombramiento del servidor público de que se trate corresponde al Gobernador del Estado, se requerirá autorización de éste para dicha suspensión. Si el nombramiento fue efectuado o requirió ratificación por el Poder Legislativo, en los términos de la Constitución Política del Estado, se requerirá autorización del Congreso del Estado o, en su caso, de la Diputación Permanente.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 252.
 
-Los titulares de las dependencias, entidades u órganos de la Administración Pública observarán, en el ámbito de su competencia, las reglas contenidas en el presente Código y las leyes del Estado, en los procedimientos que se sigan para la investigación, determinación de responsabilidades y aplicación de sanciones.
-
-> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2013)</small>
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 252 Bis.
 
-Las sanciones por falta administrativa a quienes, no obstante desempeñar un cargo, empleo o comisión públicos, no sean sujetos de las leyes que regulan en el orden estatal o municipal las responsabilidades de servidores públicos, consistirán en:
-
-I. Apercibimiento privado o público;
-
-II. Amonestación privada o pública;
-
-III. Suspensión;
-
-IV. Destitución del cargo;
-
-V. Sanción económica, cuando se haya causado un daño patrimonial u obtenido un lucro; y
-
-VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
-
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años si el monto de aquéllos no excede de cien veces el salario mínimo mensual vigente en la zona económica donde se desempeñe el servidor público y de tres a diez años si excede de dicho límite.
-
-> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2013)</small>
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 252 Ter.
 
-Las sanciones administrativas a que se refiere el artículo anterior se impondrán tomando en cuenta los elementos siguientes:
-
-I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan las disposiciones de este Código o las que se dicten con base en éste;
-
-II. Las circunstancias sociales y culturales del servidor público;
-
-III. El nivel jerárquico, los antecedentes y las condiciones del infractor;
-
-IV. Los medios de ejecución y la conducta de los que intervinieron;
-
-V. La antigüedad en el servicio;
-
-VI. La reincidencia; y
-
-VII. En su caso, el monto del beneficio, daño o perjuicio económicos derivados de la infracción.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 253.
 
-De todas las diligencias que se practiquen en el procedimiento a que se refiere este Capítulo se levantará acta circunstanciada, que suscribirán quienes intervengan en ellas.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 254.
 
-Los superiores jerárquicos de los servidores públicos sujetos a un procedimiento de responsabilidad, podrán designar un delegado que participe en las diligencias, a quien se le dará vista de las actuaciones.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 255.
 
-El procedimiento a que se refiere este capítulo, se inscribirá en un registro, que contendrá la sección de procedimientos disciplinarios y la correspondiente a las sanciones impuestas.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 256.
 
-En contra de las resoluciones definitivas que se dicten en el procedimiento a que se refiere este Capítulo, se podrá interponer el recurso de revocación o el juicio contencioso previstos en este Código.
-
-Las resoluciones revocatorias o anulatorias dictadas con motivo de la interposición del recurso o del juicio, tendrán el efecto de restituir al servidor público en el goce de los derechos de que hubiese sido privado por la ejecución de la sanción, sin perjuicio de lo que establezcan otras normas.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 257.
 
-La ejecución de las sanciones administrativas impuestas por resolución firme se llevará a cabo de inmediato, en los términos que la misma disponga. La suspensión, destitución o inhabilitación que se imponga a los servidores públicos, surtirá efectos al notificarse personalmente la resolución y se considerará de orden público.
-
-En el caso de los servidores públicos de base, la suspensión y la destitución se sujetarán a lo previsto en la Ley de la materia.
-
-> <small>N. DE E. ES DE OBSERVARSE QUE EN EL EXTRACTO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 22 DE ABRIL DE 2003, EL LEGISLADOR ES OMISO AL SEÑALAR EL ESTADO QUE GUARDARA EL PÁRRAFO TERCERO DEL PRESENTE ARTÍCULO, SIN EMBARGO, DE LA LECTURA DE ESTE ÚLTIMO SE CONCLUYE QUE DICHO PÁRRAFO FUE DEROGADO, LO QUE SE HACE DEL CONOCIMIENTO DEL USUARIO.</small>
-
-> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
-
-Las sanciones económicas que se impongan en las resoluciones dictadas en el procedimiento a que se refiere este Capítulo, constituirán créditos fiscales y se harán efectivas mediante el procedimiento administrativo de ejecución.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 258.
 
-Si el servidor público presunto responsable, confesare su responsabilidad por el incumplimiento de las obligaciones a que se encuentra sujeto con motivo de su empleo, cargo a comisión, se procederá de inmediato a dictar resolución, a no ser que quien conozca del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión o el monto de los daños y perjuicios causados. En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica; pero en lo que respecta a indemnización, en todo caso, deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberán restituirse los bienes o productos que se hubieren percibido con motivo de la infracción.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 259.
 
-Las atribuciones de los órganos de control interno de las autoridades y del superior jerárquico para determinar responsabilidades e imponer sanciones caducan en tres años, contados a partir de la fecha de la comisión de la infracción.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO EN SU NUMERACIÓN, G.O. 13 DE AGOSTO DE 2013)</small>
 
 ### CAPÍTULO VI (SIC). DEL PROCEDIMIENTO PARA LA RESCISIÓN ADMINISTRATIVA DE LOS CONTRATOS DE OBRA PÚBLICA
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Artículo 259 A. Las Dependencias y Entidades de la Administración Pública, por sí o a solicitud del órgano interno de control, podrán rescindir administrativamente los contratos de obra pública por contravención a las disposiciones de la Ley de Obras Públicas del Estado y demás aplicables en la materia, así como por el incumplimiento de cualquiera de las obligaciones del contratista.
+Artículo 259 A. Las Dependencias y Entidades de la Administración Pública, por sí o a solicitud del órgano interno de control, podrán rescindir administrativamente los contratos de obra pública por contravención a las disposiciones de la Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave y demás aplicables en la materia, así como por el incumplimiento de cualquiera de las obligaciones del contratista.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
 La rescisión operará de pleno derecho y sin necesidad de declaración judicial, en aquellos casos en los que la dependencia o entidad sea la que determine rescindir un contrato, de conformidad con el procedimiento que establece el presente capítulo.
 
-Cuando el contratista considere que existen elementos para rescindir el contrato, será necesario que acuda ante el Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado para obtener la declaración correspondiente.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Cuando el contratista considere que existen elementos para rescindir el contrato, será necesario que acuda ante el Tribunal para obtener la declaración correspondiente.
 
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -2501,9 +2493,9 @@ d) La citación al contratista para la celebración del acta circunstanciada de 
 
 II. Transcurrido el término a que se refiere la fracción anterior, se resolverá de manera fundada y motivada, considerando los argumentos y pruebas que hubiere hecho valer el contratista, indicándose la determinación de dar o no por rescindido el contrato.
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Artículo 259 D. Las dependencias o entidades deberán abstenerse de cubrir los importes resultantes de trabajos ejecutados, aún no liquidados, hasta que el contratista otorgue el finiquito correspondiente, dentro de los treinta días naturales siguientes a la fecha de notificación de la resolución al procedimiento administrativo de rescisión de contrato.
+Artículo 259 D. Las dependencias o entidades deberán abstenerse de cubrir los importes resultantes de trabajos ejecutados, aún no liquidados, hasta que el contratista otorgue el finiquito correspondiente, dentro de los treinta días naturales siguientes a la fecha de notificación de la resolución al procedimiento administrativo de rescisión de contrato, en términos del Reglamento de la Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz.
 
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -2779,9 +2771,11 @@ La Secretaría podrá establecer penas convencionales a cargo del adjudicatario 
 
 Artículo 259 Y. Para cubrir oportunamente los gastos debidamente justificados que se eroguen por la administración y venta de los bienes, su importe se cargará a la cuenta que al efecto se establezca, el cual se recuperará con el producto de su venta.
 
-> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Artículo 259 Z. Los servidores públicos que participen en la realización de los procedimientos descritos en este Capítulo, serán responsables por la inobservancia de las disposiciones establecidas al efecto, en términos de la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes aplicables.
+Artículo 259 Z. Los servidores públicos que participen en la realización de los procedimientos descritos en este Capítulo, serán responsables por la inobservancia de las disposiciones establecidas al efecto, en términos de la Ley General y la Ley de Responsabilidades Administrativas, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes aplicables.
+
+> <small>(ADICIONADO, G.O. 10 DE AGOSTO DE 2004)</small>
 
 Queda estrictamente prohibido a los servidores públicos de la Secretaría que hayan intervenido directamente en la operación, adquirir por sí o por interpósita persona los bienes recibidos con motivo de la dación en pago.
 
@@ -2837,7 +2831,9 @@ En el escrito de interposición del recurso de revocación, el interesado deber�
 
 I. La autoridad a quien se dirige;
 
-II. El nombre del recurrente, y del tercero perjudicado si lo hubiere, así como el domicilio que señale para oír y recibir notificaciones y documentos;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+II. El nombre del recurrente, y del tercero interesado si lo hubiere, así como el domicilio que señale para oír y recibir notificaciones y documentos;
 
 III. El acto o resolución administrativa que impugna, así como la fecha en que le fue notificado o, en su caso, la declaratoria bajo protesta de decir verdad de la fecha en que tuvo conocimiento del acto o resolución;
 
@@ -2991,13 +2987,15 @@ III. Actos que dicte, ordene, ejecute a trate de ejecutar, de manera unilateral 
 
 IV. Actos administrativos que se configuren por el silencio de la autoridad, en términos de este Código;
 
-V. Resoluciones dictadas por la autoridad que impongan sanciones a los servidores públicos que hayan incurrido en responsabilidad administrativa;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+V. Resoluciones dictadas, con motivo de los recursos de revocación a que se refieren la Ley General y la Ley de Responsabilidades Administrativas;
 
 VI. Resoluciones favorables a los particulares que causen lesión al interés público, cuya nulidad demande la autoridad;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-VII. Resoluciones definitivas dictadas en el recurso de revocación;
+VII. Resoluciones definitivas dictadas en el recurso de revocación del presente Código o las previstas en la Ley General y la Ley de Responsabilidades Administrativas;
 
 > <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -3007,15 +3005,13 @@ VIII. Actos administrativos dictados por la Administración Pública en los supu
 
 IX. Actas circunstanciadas que decidan la remoción de los miembros de las Instituciones de Seguridad Pública en el Estado;
 
-(ADICIONADA, G.O. 13 DE AGOSTO DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 29 DE ENERO DE 2001, SE APRECIA LA EXISTENCIA DE ESTA FRACCIÓN.
+> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
 X. Actos administrativos, decretos y acuerdos de carácter general, diversos a los reglamentos, cuando sean autoaplicativos o cuando el interesado los controvierta con motivo de su primer acto de aplicación;
 
 > <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
 XI. Incumplimiento de contratos administrativos celebrados por la Administración Pública estatal o municipal y los organismos autónomos; y
-
-> <small>N. DE E. EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN X, PERO DEL ANÁLISIS DE LA PUBLICACIÓN DE 13 DE AGOSTO DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XII.</small>
 
 XII. Los demás actos y resoluciones que señale la ley.
 
@@ -3025,7 +3021,9 @@ XII. Los demás actos y resoluciones que señale la ley.
 
 Procede el juicio contencioso en vía sumaria exclusivamente en contra de:
 
-I. Actos y resoluciones administrativas y fiscales cuya cuantía no exceda de cinco veces el salario mínimo vigente en la jurisdicción de la Sala Regional, elevado al año al momento de su emisión;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+I. Actos y resoluciones administrativas y fiscales cuya cuantía no exceda de quince veces la UMA;
 
 II. Resoluciones que impongan multas o sanciones pecuniarias por infracción a las normas administrativas locales y municipales;
 
@@ -3059,9 +3057,9 @@ c) El particular a quien favorezca la resolución cuya nulidad demande la autori
 
 d) (DEROGADO, G.O. 5 DE NOVIEMBRE DE 2010)
 
-> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-III. El tercero perjudicado que tenga un derecho incompatible con la pretensión del demandante.
+III. El tercero interesado que tenga un derecho incompatible con la pretensión del demandante.
 
 ###### Artículo 282.
 
@@ -3071,21 +3069,25 @@ Sólo podrán intervenir en juicio quienes tengan un interés jurídico o legít
 
 Cuando las partes tengan reconocida la personería ante la autoridad demandada, ésta será admitida en el juicio, siempre que se compruebe esa circunstancia con las constancias respectivas.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 284.
 
-Las partes deberán señalar, en el escrito inicial que presenten, domicilio en el municipio donde resida la Sala del Tribunal ante la que se promueva, para que en él se hagan las notificaciones personales indicadas en este Código. En caso contrario, se les requerirá para que lo señalen en un plazo de tres días, con el apercibimiento que de no hacerlo, las notificaciones que deban ser personales se efectuarán por lista de acuerdos.
+Las partes deberán señalar, en el escrito inicial que presenten, domicilio en el municipio donde resida el Tribunal, para que en él se hagan las notificaciones personales indicadas en este Código. En caso contrario, se les requerirá para que lo señalen en un plazo de tres días, con el apercibimiento que de no hacerlo, las notificaciones que deban ser personales se efectuarán por lista de acuerdos.
 
 ###### Artículo 285.
 
 Las diligencias que deban practicarse fuera del recinto de las Salas del Tribunal, se encomendarán a los secretarios de acuerdos o actuarios de la Sala correspondiente.
 
-Las diligencias que deban realizarse fuera del territorio del Estado, se encomendarán por medio de exhorto al Tribunal de lo Contencioso Administrativo o Tribunal Judicial de la entidad federativa de que se trate. El Tribunal, a solicitud de parte, podrá entregar el exhorto al interesado, quien bajo su más estricta responsabilidad lo hará llegar al Tribunal exhortado para su trámite, pudiéndose devolver el documento diligenciado por conducto del mismo interesado.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Las diligencias que deban realizarse fuera del territorio del Estado, se encomendarán por medio de exhorto al Tribunal de Justicia Administrativa o Tribunal Judicial de la entidad federativa de que se trate. El Tribunal, a solicitud de parte, podrá entregar el exhorto al interesado, quien bajo su más estricta responsabilidad lo hará llegar al Tribunal exhortado para su trámite, pudiéndose devolver el documento diligenciado por conducto del mismo interesado.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 286.
 
-Los magistrados del Tribunal estarán impedidos para conocer de los juicios en que intervengan, en los casos previstos por la Ley Orgánica del Poder Judicial del Estado. Cuando alguno de los magistrados del Tribunal se encuentre impedido, hará la manifestación ante el Presidente del Tribunal, quien la remitirá a la Sala Superior para que califique la excusa de plano y, cuando proceda, designe a quien deba sustituir al magistrado impedido.
+Los magistrados del Tribunal estarán impedidos para conocer de los juicios en que intervengan, en los casos previstos por la Ley Orgánica del Tribunal Estatal de Justicia Administrativa. Cuando alguno de los magistrados del Tribunal se encuentre impedido, hará la manifestación ante el presidente del Tribunal, quien la remitirá a la Sala Superior para que califique la excusa de plano y, cuando proceda, designe a quien deba sustituir al magistrado impedido.
 
 En el caso de que, presentándose un impedimento, el magistrado que conozca del asunto no se excuse en los términos del párrafo anterior, la parte perjudicada podrá recusarlo a través de la interposición del incidente a que se refieren los artículos 312, fracción V, 317 y 318 de este Código.
 
@@ -3099,9 +3101,13 @@ Las resoluciones del Tribunal tendrán el carácter de
 
 I. Acuerdos, las determinaciones de trámite;
 
-II. Sentencias interlocutorias, las que no resuelven una cuestión principal; y
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-III. Sentencias definitivas, las que resuelven el juicio o recurso en lo principal.
+II. Resoluciones interlocutorias, las que no resuelven una cuestión principal; y
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III. Sentencias, las que resuelven el juicio en lo principal.
 
 ### CAPÍTULO II. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
@@ -3111,7 +3117,9 @@ Es improcedente el juicio contencioso ante el Tribunal, en los casos, por las ca
 
 I. Que no sean de la competencia del Tribunal;
 
-II. Que hayan sido impugnados en un diverso proceso jurisdiccional, siempre que exista sentencia ejecutoria que decida el fondo del asunto;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+II. Que hayan sido impugnados en un medio de defensa ordinario o diverso proceso jurisdiccional, ya sea que se encuentre pendiente de resolverse y ya resuelto;
 
 III. Que no afecten el interés legítimo del actor;
 
@@ -3119,9 +3127,9 @@ IV. Que se hayan consentido expresamente por el actor, mediante manifestaciones 
 
 V. Que se hayan consentido tácitamente, entendiéndose por tales aquéllos contra los que no se promueva recurso de revocación o juicio contencioso en los plazos señalados por este Código;
 
-VI. Que hayan sido materia de sentencia pronunciada por el Tribunal, siempre que hubiera identidad de partes y se trate del mismo acto impugnado, aunque los conceptos de impugnación sean diversos;
+VI. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2017)
 
-VII. Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante una autoridad administrativa o ante el propio Tribunal;
+VII. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2017)
 
 VIII. Que puedan impugnarse por medio de algún recurso o medio de defensa, con excepción de aquéllos cuya interposición sea optativa;
 
@@ -3133,7 +3141,13 @@ XI. Cuando de las constancias de autos apareciere claramente que no existe el ac
 
 XII. Cuando el acto o resolución impugnados no puedan surtir efecto alguno, legal o materialmente, por haber dejado de existir el objeto o materia del mismo; o
 
-XIII. En los demás casos en que la improcedencia resulte de alguna disposición legal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIII. Cuando una o varias autoridades demandadas no haya dictado, ordenado, ejecutado o tratado de ejecutar el acto impugnado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIV. En los demás casos en que la improcedencia resulte de alguna disposición legal.
 
 ###### Artículo 290.
 
@@ -3149,7 +3163,9 @@ IV. Si la autoridad demandada deja sin efectos el acto impugnado; o
 
 V. En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
 
-El sobreseimiento del juicio podrá ser total o parcial.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+El sobreseimiento del juicio podrá ser total o parcial, en relación a alguna de las partes o a alguno de los actos impugnados.
 
 ###### Artículo 291.
 
@@ -3157,9 +3173,11 @@ Contestada la demanda, el magistrado examinará el expediente y si encontrare ac
 
 ### CAPÍTULO III. DE LA DEMANDA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 292.
 
-La demanda deberá formularse por escrito y presentarse directamente ante la Sala Regional con jurisdicción territorial en el municipio en el que tenga su domicilio el demandante, dentro de los quince días siguientes al en que surta efectos la notificación del acto o resolución que se impugna, o al en que se haya tenido conocimiento del mismo, con las excepciones siguientes:
+La demanda deberá formularse por escrito y presentarse directamente ante la Autoridad que emitió el acto o ante la Oficialía de Partes del Tribunal, dentro de los quince días siguientes al en que surta efectos la notificación del acto o resolución que se impugna, o al en que se haya tenido conocimiento del mismo, con las excepciones siguientes:
 
 I. Tratándose de la resolución negativa o afirmativa fictas, la demanda podrá presentarse en cualquier tiempo, mientras no se notifique la resolución expresa;
 
@@ -3169,15 +3187,21 @@ II. Cuando se pida la nulidad de una resolución favorable a un particular, la d
 
 III. Si el particular afectado reside fuera del Estado, pero dentro del país y no tiene representante en el mismo, el término para iniciar el juicio será de treinta días a partir del día siguiente al en que surta efectos su notificación;
 
-> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-IV. Si el particular afectado reside en el extranjero y no tiene representante en el Estado o en el país, el plazo para iniciar el juicio será de cuarenta y cinco días a partir del día siguiente al en que surta efectos su notificación; o
+IV. Si el particular afectado reside en el extranjero y no tiene representante en el Estado o en el país, el plazo para iniciar el juicio será de cuarenta y cinco días a partir del día siguiente al en que surta efectos su notificación;
 
-> <small>(ADICIONADA, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-V. Cuando se impugnen actos o resoluciones en la vía sumaria, deberá presentarse dentro de los cinco días hábiles siguientes al en que surta efectos la notificación del acto o al en que se haya tenido conocimiento del mismo.
+V. Cuando se impugnen actos o resoluciones en la vía sumaria, deberá presentarse dentro de los cinco días hábiles siguientes al en que surta efectos la notificación del acto o al en que se haya tenido conocimiento del mismo; o
 
-La demanda podrá enviarse por correo registrado con acuse de recibo, y se tomará como fecha de presentación aquella en que se deposite en la oficina de correos.
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VI. Cuando una ley de forma expresa disponga otro plazo.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+La demanda también podrá enviarse por correo certificado con acuse de recibo, y se tomará como fecha de presentación aquella en que se deposite.
 
 ###### Artículo 293.
 
@@ -3191,19 +3215,27 @@ II. El acto o resolución que se impugna;
 
 III. Las autoridades o particulares a quienes se demanden;
 
-IV. El nombre y domicilio del tercero perjudicado, si lo hubiere;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+IV. El nombre y domicilio del tercero interesado, si lo hubiere;
 
 V. Los hechos que sustenten la impugnación del actor o demandante;
 
-VI. Los conceptos de impugnación y las pretensiones que se deducen;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VI. Los conceptos de impugnación y las pretensiones que se deducen. En caso de que el acto impugnado se trate de una resolución negativa ficta, la demanda podrá presentarse sin expresión de conceptos de impugnación, los que deberán formularse en la ampliación de demanda;
 
 VII. La fecha en que se notificó o se tuvo conocimiento del acto o resolución que se impugne;
 
 VIII. Las pruebas que se ofrezcan; y
 
-IX. La solicitud de suspensión del acto impugnado, en su caso.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Cuando se omitan los requisitos a que se refieren las fracciones I, II y VI la Sala Regional desechará por improcedente la demanda interpuesta. Cuando se omitan los requisitos previstos en las fracciones III, IV, V, VII y VIII la Sala Regional requerirá al promovente para que los señale dentro del plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según el caso.
+IX. La solicitud de suspensión del acto impugnado, sin perjuicio que la misma se solicite hasta antes de la celebración de la audiencia de ley.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Cuando se omitan los requisitos a que se refieren las fracciones I, II y VI la Sala Unitaria desechará por improcedente la demanda interpuesta. Cuando se omitan los requisitos previstos en las fracciones III, IV, V, VII y VIII la citada Sala requerirá al promovente para que los señale dentro del plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según el caso.
 
 ###### Artículo 294.
 
@@ -3225,15 +3257,21 @@ V. Los documentos que ofrezca como prueba; y
 
 VI. El interrogatorio para los testigos y cuestionario para los peritos, en caso del ofrecimiento de las pruebas testimonial o pericial.
 
-Si no se adjuntan a la demanda los documentos a que se refiere este precepto, la Sala Regional requerirá al promovente para que los presente dentro del plazo de cinco días. Cuando el promovente no los presente dentro de dicho plazo y se trate de los documentos a que se refieren las fracciones I a IV, se tendrá por no presentada la demanda. Si se trata de las pruebas a que se refieren las fracciones V y VI, las mismas se tendrán por no ofrecidas.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Si no se adjuntan a la demanda los documentos a que se refiere este precepto, la Sala Unitaria requerirá al promovente para que los presente dentro del plazo de cinco días. Cuando el promovente no los presente dentro de dicho plazo y se trate de los documentos a que se refieren las fracciones I a IV, se tendrá por no presentada la demanda. Si se trata de las pruebas a que se refieren las fracciones V y VI, las mismas se tendrán por no ofrecidas.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 296.
 
-Dentro de los tres días siguientes a la presentación de la demanda, se dictará acuerdo sobre su admisión. En el mismo acuerdo se admitirán o desecharán las pruebas ofrecidas y, en su caso, se dictarán las providencias necesarias para su desahogo. Asimismo, se proveerá lo conducente sobre la suspensión del acto o resolución impugnados, cuando se hubiere solicitado en la demanda o cuando proceda de oficio.
+Dentro de los tres días siguientes a la presentación de la demanda, se dictará acuerdo sobre su admisión. En el mismo acuerdo se admitirán o desecharán las pruebas ofrecidas y, en su caso, se dictarán las providencias necesarias para su desahogo. Tratándose de la suspensión deberá resolverse dentro del término de veinticuatro horas siguientes a la presentación de la demanda.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 297.
 
-La Sala Regional desechará la demanda, cuando:
+La Sala Unitaria desechará la demanda, cuando:
 
 I. No contenga la firma autógrafa o huella digital del promovente;
 
@@ -3255,11 +3293,13 @@ IV. Cuando con motivo de la contestación, se introduzcan cuestiones que sin vio
 
 En el escrito de ampliación de demanda se deberá señalar el nombre del actor y el juicio en que se actúa, y le serán aplicables en la conducente, lo dispuesto en el último párrafo de los artículos 293 y 295 de este Código.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 299.
 
-El tercero perjudicado, dentro de los quince días siguientes al en que surta efectos la notificación que se le haga de la demanda, podrá apersonarse en juicio, mediante escrito que contendrá los requisitos de la demanda o de la contestación, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
+El tercero interesado, dentro de los quince días siguientes al en que surta efectos la notificación que se le haga de la demanda, podrá apersonarse en juicio, mediante escrito que contendrá los requisitos de la demanda o de la contestación, según sea el caso, así como la justificación de su derecho para intervenir en el asunto. Para el caso que no haya sido señalado por la parte actora, el tercero interesado podrá apersonarse en cualquier momento del juicio, hasta antes de la audiencia de ley.
 
-Deberá adjuntar a su escrito, el documento con el que acredite su personaría cuando no promueva en nombre propio, las pruebas documentales que ofrezca, el interrogatorio para los testigos y el cuestionario para los peritos. Es aplicable en lo conducente, lo dispuesto en el último párrafo de los artículos 293 y 295 del presente Código.
+Deberá adjuntar a su escrito, el documento con el que acredite su personería cuando no promueva en nombre propio, las pruebas documentales que ofrezca, las causales de improcedencia que estime operantes, el interrogatorio para los testigos y el cuestionario para los peritos. Es aplicable en lo conducente, lo dispuesto en el último párrafo de los artículos 293 y 295 del presente Código.
 
 ### CAPÍTULO IV. DE LA CONTESTACIÓN DE DEMANDA
 
@@ -3269,13 +3309,15 @@ Admitida la demanda se correrá traslado de ella a los demandados, emplazándolo
 
 El plazo para la contestación de la ampliación de demanda será de diez días posteriores al en que surta efectos la notificación de dicha ampliación.
 
-(ADICIONADO, G.O. 13 DE AGOSTO DE 2013) (N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ORIGINAL PUBLICADO EL 29 DE ENERO DE 2001, SE APRECIA LA EXISTENCIA DEL TERCER PÁRRAFO)
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Cuando el acto impugnado se trate de una resolución negativa ficta, no se ampliará la contestación de demanda.
+
+> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
 En la vía sumaria, el plazo para la contestación de la demanda será de cinco días posteriores al en que surta efectos el emplazamiento. La contestación de la ampliación será de cinco días hábiles ulteriores al en que surta efectos la notificación de la ampliación de la demanda.
 
 Si no se produce la contestación dentro del plazo señalado, o esta no se refiere a todos los hechos, se tendrán como ciertos los que el actor impute de manera precisa al demandado, salvo que por las pruebas rendidas o por hechos notorios resulten desvirtuados.
-
-> <small>N. DE E. EL CONTENIDO DE ESTE PÁRRAFO YA EXISTÍA, SIN EMBARGO, DEL ANÁLISIS A LA ADICIÓN AL TERCER PÁRRAFO DE FECHA 13 DE AGOSTO DE 2013, PASO A SER UN NUEVO QUINTO PÁRRAFO.</small>
 
 Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por el actor como demandada, de oficio se le correrá traslado de la demanda para que la conteste en el plazo a que se refiere el primer párrafo de este artículo.
 
@@ -3293,7 +3335,9 @@ IV. Los argumentos que tiendan a demostrar la ineficacia de los conceptos de imp
 
 V. Las pruebas que el demandado ofrezca; y
 
-VI. Nombre y domicilio del tercero perjudicado, cuando exista y no se haya señalado por el demandante.
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VI. Nombre y domicilio del tercero interesado, cuando exista y no se haya señalado por el demandante.
 
 ###### Artículo 302.
 
@@ -3331,17 +3375,21 @@ Se dictará acuerdo sobre la contestación de demanda a más tardar al tercer d�
 
 Iniciado el juicio contencioso administrativo, podrán decretarse todas las medidas cautelares necesarias o la suspensión del acto impugnado, para el efecto de mantener las cosas en el estado en que se encuentren, en tanto se dicte sentencia. No se otorgarán las medidas cautelares ni la suspensión, si se sigue perjuicio al interés público, si se contravienen disposiciones de orden público o se deja sin materia el juicio.
 
-La Sala Regional podrá decretar medidas cautelares positivas cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una lesión importante del derecho que pretende, por el simple transcurso del tiempo.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Las medidas cautelares y la suspensión del acto impugnado se decretarán de plano por la Sala Regional, en el mismo acuerdo en que se admita la demanda y podrá solicitarlas el actor en el escrito de demanda, o en cualquier momento mientras se encuentre en trámite el juicio ante la Sala Regional que conozca del asunto.
+La Sala Unitaria podrá decretar medidas cautelares positivas cuando, tratándose de situaciones jurídicas duraderas, se produzcan daños substanciales al actor o una lesión importante del derecho que pretende, por el simple transcurso del tiempo.
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+La suspensión del acto impugnado se decretará dentro del término de veinticuatro horas siguientes a la presentación de la demanda y las medidas cautelares se decretarán de plano, ambos casos a cargo de la Sala Unitaria, en el mismo acuerdo en que se admita la demanda y podrá solicitarlas el actor en el escrito de demanda, o en cualquier momento mientras se encuentre en trámite el juicio ante la Sala Unitaria que conozca el asunto.
 
 Cuando se otorguen las medidas cautelares o la suspensión del acto, se comunicarán sin demora a la autoridad demandada para su inmediato cumplimiento.
 
-> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 305 Bis.
 
-La suspensión del acto impugnado se decretará de oficio o a petición de parte. Sólo procederá la suspensión de oficio cuando se trate de multa excesiva, confiscación de bienes y actos que de llegar a consumarse hagan imposible restituir al actor en el pleno goce de sus derechos.
+La suspensión del acto impugnado se decretará de oficio o a petición de parte en cualquier momento del juicio, mientras no se haya celebrado la audiencia. Sólo procederá la suspensión de oficio cuando se trate de multa excesiva, confiscación de bienes y actos que de llegar a consumarse hagan imposible restituir al actor en el pleno goce de sus derechos.
 
 > <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -3351,9 +3399,11 @@ La suspensión podrá concederse con efectos restitutorios, siempre que proceda 
 
 La suspensión podrá ser revocada o modificada por la sala, en cualquier momento del juicio, previa vista que se conceda a los interesados en un plazo de tres días, si varían las condiciones en las cuales se otorgó.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 307.
 
-Tratándose de multas, impuestos, derechos o cualquier otro concepto que de conformidad con las leyes sea considerado crédito fiscal, la Sala podrá conceder la suspensión del procedimiento administrativo de ejecución.
+Tratándose de multas, impuestos, derechos o cualquier otro concepto que de conformidad con las leyes sea considerado o equiparado a un crédito fiscal, la Sala podrá conceder la suspensión del procedimiento administrativo de ejecución.
 
 Cuando de conformidad con las leyes fuere necesario garantizar el interés fiscal, la suspensión del acto reclamado se concederá, una vez que éste se encuentre debidamente garantizado, en cualquiera de las formas que se establecen en las disposiciones fiscales relativas, a menos que la garantía se hubiese constituido de antemano ante la autoridad demandada. No obstante lo anterior, la Sala que conozca del asunto podrá conceder dicha suspensión sin necesidad de que se garantice el interés fiscal, por notoria insuficiencia económica del demandante.
 
@@ -3385,7 +3435,7 @@ La Sala, dentro de los tres días siguientes, dará vista a las demás partes y 
 
 En el juicio contencioso serán de previo y especial pronunciamiento, los incidentes de:
 
-I. Incompetencia en razón del territorio
+I. (DEROGADA, G.O. 19 DE DICIEMBRE DE 2017)
 
 II. Acumulación de autos;
 
@@ -3395,19 +3445,19 @@ IV. Interrupción por causa de muerte, disolución, incapacidad o declaratoria d
 
 V. Recusación por causa de impedimento.
 
-Cuando la promoción del incidente sea frívola o improcedente, se impondrá a quien lo promueva una multa de cincuenta hasta cien días de salario mínimo vigente en la capital del Estado.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Cuando la promoción del incidente sea frívola o improcedente, se impondrá a quien lo promueva una multa de cincuenta hasta cien UMAS.
 
 ###### Artículo 313.
 
-Cuando ante una de las Salas Regionales se promueva juicio del que otra deba conocer por razón de territorio, se declarará incompetente de plano y comunicará su resolución a la que en su concepto corresponda ventilar el negocio, enviándole los autos.
+(DEROGADO, G.O. 19 DE DICIEMBRE DE 2017)
 
-Si la Sala Regional requerida lo acepta, comunicará su resolución a la requirente y a las partes. En caso de no aceptarlo, hará saber su resolución a la sala requirente y a las partes y remitirá los autos a la Sala Superior, para que ésta determine la Sala Regional que deba conocer del asunto, notificando su decisión a las partes y a las salas respectivas.
-
-Cuando una Sala Regional esté conociendo de algún juicio que sea de la competencia de otra, cualesquiera de las partes podrá ocurrir a la Sala Superior, exhibiendo copia certificada de la demanda y de las constancias que estime pertinentes. La Sala Superior resolverá la cuestión de competencia y ordenará la remisión de los autos a la Sala Regional que corresponda.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 314.
 
-La Sala Regional acordará la acumulación de los autos de los juicios contenciosos que ante ella se sigan, de oficio o a petición de parte, en los siguientes casos:
+La Sala Unitaria acordará la acumulación de los autos de los juicios contenciosos que ante ella se sigan, de oficio o a petición de parte, en los siguientes casos:
 
 I. Cuando las partes sean las mismas y se invoquen idénticos agravios;
 
@@ -3431,15 +3481,21 @@ I. Se decretará por la Sala a partir de la fecha en que ésta tenga conocimient
 
 II. Si transcurrido el plazo máximo de interrupción, no comparece el albacea, el representante legal o el autor, la Sala acordará la reanudación del juicio, ordenando que todas las notificaciones se efectúen por estrados al representante de la sucesión o de la liquidación, según sea el caso.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 317.
 
-Las partes podrán recusar a los magistrados del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 163 de la Ley Orgánica del Poder Judicial del Estado.
+Las partes podrán recusar a los magistrados del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere la Ley Orgánica del Tribunal Estatal de Justicia Administrativa.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 318.
 
-La recusación de magistrados se promoverá mediante escrito que se presente ante la Sala Regional en que se halle adscrito el magistrado, acompañando las pruebas que se ofrezcan. La Sala Regional, dentro de los cinco días siguientes, enviará al Presidente del Tribunal, el escrito de recusación junto con un informe que el magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento de la Sala Superior. A falta de informe, se presumirá cierto el impedimento. Si la Sala Superior considera fundada la recusación, el magistrado recusado será sustituido por quien esa designe.
+La recusación de magistrados se promoverá mediante escrito que se presente ante la Sala Unitaria en que se halle adscrito el magistrado, acompañando las pruebas que se ofrezcan. La Sala Unitaria, dentro de los cinco días siguientes, enviará al presidente del Tribunal, el escrito de recusación junto con un informe que el magistrado recusado debe rendir, a fin de que se someta el asunto al conocimiento de la Sala Superior. A falta de informe, se presumirá cierto el impedimento. Si la Sala Superior considera fundada la recusación, el magistrado recusado será sustituido por quien esa designe.
 
-Si la recusación se promueve contra algún magistrado de la Sala Superior, éste será sustituido por el secretario de acuerdos del Tribunal, quien integrará Sala para conocer de la recusación y, de resultar está fundada, sustituirá al magistrado recusado.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Si la recusación se promueve contra algún magistrado de la Sala Superior, éste será sustituido por el secretario General de Acuerdos del Tribunal, quien integrará Sala para conocer de la recusación y, de resultar ésta fundada, sustituirá al magistrado recusado.
 
 Los magistrados que conozcan de una recusación serán irrecusables para ese sólo efecto.
 
@@ -3453,11 +3509,17 @@ Las demás cuestiones que surjan dentro del juicio contencioso se decidirán de 
 
 La audiencia del juicio tendrá por objeto:
 
-I. Desahogar las pruebas admitidas;
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+I. Desahogo y recepción de pruebas;
 
 II. Resolver cualquier cuestión incidental que se plantee en la audiencia; y
 
 III. Oír los alegatos.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+En los casos de la impugnación de una resolución negativa ficta, el asunto deberá ser siempre atendido en cuanto al fondo.
 
 ###### Artículo 321.
 
@@ -3529,9 +3591,11 @@ V. Arbitrariedad, desproporción, desigualdad, injusticia manifiesta, desvío de
 
 Las sentencias que declaren la nulidad del acto impugnado precisarán la forma y términos en que las autoridades demandadas deben otorgar o restituir a los particulares en el pleno goce de los derechos afectados. En caso de que en la sentencia se condene al pago de daños y perjuicios que se hayan causado, en forma dolosa o culposa, por la emisión o ejecución del acto anulado, se cuantificará el monto de los mismos, los cuales serán pagados por las autoridades demandadas, sin perjuicio de que estas repitan en contra de los servidores públicos responsables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 328.
 
-Las partes podrán formular excitativa de justicia ante la Sala Superior, si el magistrado de la sala regional no dicta sentencia dentro del plazo legal respectivo.
+Las partes podrán formular excitativa de justicia ante la Sala competente, si el magistrado de la sala competente no dicta sentencia dentro del plazo legal respectivo.
 
 Recibida la excitativa de justicia, el Presidente de la Sala Superior solicitará informe al magistrado que corresponda, quien deberá rendirlo dentro del plazo de tres días. Si se encuentra fundada la excitativa, el Presidente otorgará al magistrado un plazo que no excederá de tres días para que dicte la resolución correspondiente.
 
@@ -3547,41 +3611,47 @@ III. Las consentidas expresamente por las partes o sus representantes legales.
 
 ### CAPÍTULO IX. DEL CUMPLIMIENTO DE LA SENTENCIA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 330.
 
-Cuando haya causado ejecutoria una sentencia favorable al actor, la Sala Regional competente la comunicará por oficio y sin demora alguna, a las autoridades demandadas para su cumplimiento.
+Cuando haya causado ejecutoria una sentencia favorable al actor, la Sala Unitaria competente la comunicará por oficio y sin demora alguna, a las autoridades demandadas para su cumplimiento.
 
 En el propio oficio en que se haga la notificación a los demandados, se les prevendrá para que informen sobre el cumplimiento que se dé a la sentencia respectiva.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 331.
 
-Si dentro de los tres días siguientes a la notificación a los demandados, la sentencia no quedare cumplida o no se encontrare en vías de cumplimiento, la Sala Regional competente, de oficio o a petición de parte, solicitará un informe a las autoridades para que manifiesten lo conducente. Se procederá de la misma forma, cuando el actor manifieste que existe defecto o exceso en la ejecución de la sentencia o que se ha repetido el acto impugnado.
+Si dentro de los tres días siguientes a la notificación a los demandados, la sentencia no quedare cumplida o no se encontrare en vías de cumplimiento, la Sala Unitaria competente, de oficio o a petición de parte, solicitará un informe a las autoridades para que manifiesten lo conducente. Se procederá de la misma forma, cuando el actor manifieste que existe defecto o exceso en la ejecución de la sentencia o que se ha repetido el acto impugnado.
 
-La Sala Regional resolverá si el demandado ha cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma o si no se ha repetido el acto impugnado; de lo contrario, la requerirá para que cumpla la decisión respectiva en un plazo de tres días posteriores al en que surta efectos la notificación y previniéndola que, en caso de renuencia, se le impondrá una multa de cincuenta hasta mil días de salario mínimo vigente en la capital del Estado. Cuando la naturaleza del acto lo permita, el magistrado comisionará al secretario de acuerdos o actuario para que dé cumplimiento a la ejecutoria, en caso de que no lo haga la autoridad en ese plazo.
+La Sala Unitaria resolverá si el demandado ha cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma o si no se ha repetido el acto impugnado; de lo contrario, la requerirá para que cumpla la decisión respectiva en un plazo de tres días posteriores al en que surta efectos la notificación y previniéndola que, en caso de renuencia, se le impondrá una multa de cincuenta hasta mil UMAS. Cuando la naturaleza del acto lo permita, el magistrado comisionará al secretario General de Acuerdos o al actuario para que dé cumplimiento a la ejecutoria, en caso de que no lo haga la autoridad en ese plazo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 332.
 
-En el supuesto de que la autoridad o servidor público persistiera en su actitud, la Sala Superior resolverá a instancia de la Sala Regional, solicitar del titular de la autoridad a quien se encuentre subordinado, conmine al servidor público responsable para que dé cumplimiento a las determinaciones del Tribunal, en un plazo de tres días siguientes al en que surta efectos la notificación. Cuando los servidores públicos de la autoridad no tuvieren superior, el requerimiento se hará directamente con ellos.
+En el supuesto de que la autoridad o servidor público persistiera en su actitud, la Sala Superior resolverá a instancia de la Sala Unitaria, solicitar del titular de la autoridad a quien se encuentre subordinado, conmine al servidor público responsable para que dé cumplimiento a las determinaciones del Tribunal, en un plazo de tres días siguientes al en que surta efectos la notificación. Cuando los servidores públicos de la autoridad no tuvieren superior, el requerimiento se hará directamente con ellos.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Si no obstante los requerimientos anteriores, no se da cumplimiento a la resolución, la Sala Superior podrá decretar la destitución del servidor público responsable, excepto que goce de fuero. En este último caso, la Sala Superior dará vista al Ministerio Público, para los efectos a que haya lugar.
+Cuando el actor fallezca o se haya declarado ausente durante el período de ejecución de sentencia, y en la sentencia se haya condenado al pago de prestaciones pecuniarias, los interesados deberán acreditar su derecho a recibir las cantidades para sí, en los plazos, procedimientos y leyes respectivas que establezca la legislación civil y así hacerse acreedores de tales prestaciones.
 
 Las autoridades requeridas como superiores jerárquicos incurren en responsabilidad, por falta de cumplimiento de las ejecutorias, en los mismos términos que las autoridades demandadas.
 
-> <small>(ADICIONADO, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 332 Bis.
 
-En el caso de inejecución de sentencia, la Sala Superior, una vez determinado el incumplimiento por la imposibilidad manifiesta de la autoridad condenada, ordenará a la Sala Regional instruir de oficio el cumplimiento sustituto de la sentencia, a fin de determinar lo conducente sobre el modo o cuantía de la restitución.
+En el caso de inejecución de sentencia, la Sala Superior, una vez determinado el incumplimiento por la imposibilidad manifiesta de la autoridad condenada, ordenará a la Sala Unitaria instruir de oficio el cumplimiento sustituto de la sentencia, a fin de determinar lo conducente sobre el modo o cuantía de la restitución.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 333.
 
-Si la naturaleza del acto lo permite, la Sala Regional determinará el cumplimiento sustituto de las ejecutorias, cuando su ejecución afecte gravemente a la sociedad o a terceros en mayor proporción que los beneficios económicos que pudiere obtener el actor.
+Si la naturaleza del acto lo permite, la Sala Unitaria determinará el cumplimiento sustituto de las ejecutorias, cuando su ejecución afecte gravemente a la sociedad o a terceros en mayor proporción que los beneficios económicos que pudiere obtener el actor.
 
-En esos casos, cualquiera de las partes podrá solicitar el cumplimiento sustituto de la ejecutoria ante la Sala Regional, la que, previa solicitud del juicio contencioso original, resolverá de plano, allegándose de los elementos necesarios para proveer lo conducente sobre el modo o cuantía de la restitución.
+En esos casos, cualquiera de las partes podrá solicitar el cumplimiento sustituto de la ejecutoria ante la Sala Unitaria, la que, previa solicitud del juicio contencioso original, resolverá de plano, allegándose de los elementos necesarios para proveer lo conducente sobre el modo o cuantía de la restitución.
 
 ###### Artículo 334.
 
@@ -3603,13 +3673,17 @@ II. Queja; y
 
 III. Revisión.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 337.
 
-El recurso de reclamación tiene por objeto que las Salas Regionales o la Sala Superior revoquen, modifiquen o confirmen sus propios acuerdos.
+El recurso de reclamación tiene por objeto que las Salas Unitarias o la Sala Superior revoquen, modifiquen o confirmen sus propios acuerdos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 338.
 
-El recurso de reclamación es procedente en contra de acuerdos de trámite dictados por el Presidente del Tribunal, así como en contra de aquellos pronunciados por las Salas Regionales que:
+El recurso de reclamación es procedente en contra de acuerdos de trámite dictados por el presidente del Tribunal, así como en contra de aquellos pronunciados por los Magistrados de las Salas Unitarias que:
 
 I. Desechen la demanda;
 
@@ -3621,9 +3695,11 @@ IV. Concedan o nieguen la suspensión o señalen el monto de las fianzas o contr
 
 V. Desechen las pruebas ofrecidas hasta antes de la celebración de la audiencia del juicio.
 
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 339.
 
-El recurso de reclamación se interpondrá por escrito, con expresión de agravios y acompañando las copias respectivas para cada una de las partes, dentro del plazo de tres días, contados a partir del siguientes (sic) al en que surta efectos la notificación del acuerdo recurrido, ante la Sala Superior o la Sala Regional, según corresponda.
+El recurso de reclamación se interpondrá por escrito, con expresión de agravios y acompañando las copias respectivas para cada una de las partes, dentro del plazo de tres días, contados a partir del siguiente al en que surta efectos la notificación del acuerdo recurrido, ante la Sala Superior o la Sala Unitaria, según corresponda.
 
 ###### Artículo 340.
 
@@ -3647,11 +3723,15 @@ El recurso de queja deberá interponerse por escrito, ante la Sala que conozca o
 
 Admitido el recurso, la Sala requerirá a la autoridad contra la que se hubiere Interpuesto, para que rinda un informe con justificación sobre la materia de la queja, dentro de un plazo de tres días y dentro de los tres días siguientes dictará la resolución que proceda.
 
-La falta de informes establece la presunción de ser ciertos los hechos que el interesado le impute a las autoridades. En este supuesto, las autoridades omisas se harán acreedoras a una multa de cincuenta a cien días de salario mínimo vigente en la capital del Estado, que impondrá de plano la Sala que conozca de la queja al resolver el recurso.
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+La falta de informes establece la presunción de ser ciertos los hechos que el interesado le impute a las autoridades. En este supuesto, las autoridades omisas se harán acreedoras a una multa de cincuenta a cien UMAS, que impondrá de plano la Sala que conozca de la queja al resolver el recurso.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 344.
 
-El recurso de revisión es procedente contra las resoluciones pronunciadas por las Salas Regionales que:
+El recurso de revisión es procedente contra las resoluciones pronunciadas por las Salas Unitarias que:
 
 I. Decreten o nieguen el sobreseimiento del juicio;
 
@@ -3659,9 +3739,11 @@ II. Decidan la cuestión planteada, por violaciones cometidas en ellas o durante
 
 III. Pongan fin al procedimiento de ejecución de la sentencia.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 345.
 
-El recurso de revisión podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de cinco días siguientes al en que surta efectos la notificación de la resolución que se impugne. Se presentará ante la Sala Regional correspondiente para su remisión y posterior resolución de la Sala Superior.
+El recurso de revisión podrá ser interpuesto por cualquiera de las partes, con expresión de agravios, dentro del plazo de cinco días siguientes al en que surta efectos la notificación de la resolución que se impugne. Se presentará ante la Sala Unitaria correspondiente para su remisión y posterior resolución de la Sala Superior.
 
 De ser procedente el recurso, el Presidente de la Sala Superior designará a un magistrado ponente y mandará correr traslado del mismo a las demás partes por el plazo de cinco días posteriores al en que surta efectos la notificación, para que expongan lo que a su derecho convenga.
 
@@ -3882,3 +3964,11 @@ G.O. 26 DE MAYO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. En un plazo no mayor de ciento veinte días naturales, contado a partir del inicio de vigencia de la presente resolución, se deberá adecuar la normativa interna de la Secretaría de Finanzas y Planeación del Gobierno del Estado a lo dispuesto en este Decreto, y emitirse las reglas de operación del Registro Estatal de Certificados Digitales.
+
+G.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 370 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
