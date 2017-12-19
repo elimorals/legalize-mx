@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-del-estado-de-queretaro-101804"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2017-09-01"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE HACIENDA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -69,9 +69,11 @@ Para los efectos de esta Ley, las siglas UMA se entenderán como el número de v
 
 Es ingreso, aquel recurso financiero o material que perciba el Estado por cualquiera de los conceptos contenidos en la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 7.
 
-Los obligados a presentar avisos, declaraciones y pagos, los realizarán en las Administraciones Tributarias Regionales, Oficinas Recaudadoras Locales, medios electrónicos o cualquier otra opción que al efecto establezca la Secretaría de Planeación y Finanzas.
+Los obligados a presentar avisos, declaraciones, realizar pagos o aquellos que soliciten trámites o servicios, podrán realizarlos en las Administraciones Regionales, Oficinas Recaudadoras Locales o a través de medios electrónicos que al efecto establezca la Secretaría de Planeación y Finanzas.
 
 Quien haga el pago de contribuciones deberá obtener la forma oficial, el recibo oficial o la forma valorada que determine para tal efecto la Secretaría de Planeación y Finanzas o los comprobantes que las disposiciones respectivas establezcan.
 
@@ -181,7 +183,9 @@ Base
 
 Es base de este impuesto:
 
-I. Para automóviles y camiones de hasta 3,500 kg, el resultado de multiplicar el valor consignado en la factura por el factor de ajuste. Dicho factor se obtendrá de acuerdo al año modelo del vehículo, de acuerdo con la siguiente tabla:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO Y TABLA], P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+I. Para automóviles y camiones de hasta 3,500 kg, el resultado de multiplicar el valor consignado en el comprobante fiscal que ampare la primera enajenación del vehículo por el factor de ajuste. Dicho factor se obtendrá de acuerdo al año modelo del vehículo, de acuerdo con la siguiente tabla:
 
 Años de Factor
 
@@ -219,11 +223,11 @@ Tasa
 
 La tasa del impuesto por la adquisición de automóviles y camiones de hasta 3,500 kg, que no sean nuevos, será el 1.25% del valor obtenido conforme al artículo anterior. Cuando la cantidad que resulte sea inferior al equivalente a 7.5 UMA, se cobrará esta cantidad en sustitución de la que resulte de aplicar dicha tasa.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 16.
 
-La cuota del impuesto por la adquisición de motocicletas de hasta diez años de antigüedad, estará sujeta a la siguiente tabla:
+La cuota del impuesto por la adquisición de motocicletas cuyo año modelo tenga hasta diez años de antigüedad al ejercicio fiscal en curso, estará sujeta a la siguiente tabla:
 
 Centímetros cúbicos UMA
 
@@ -233,47 +237,47 @@ De 201 a 500 cc. 8.75
 
 De 501 cc. en adelante 18.75
 
-La cuota del impuesto por la adquisición de remolques de hasta diez años de antigüedad, estará sujeta a lo siguiente:
+La cuota del impuesto por la adquisición de remolques cuyo año modelo tenga hasta diez años de antigüedad al ejercicio fiscal en curso, estará sujeta a lo siguiente:
 
 Capacidad de carga UMA
 
-Hasta 1,000 Kg 7.5
+Hasta 1,000 kg 7.5
 
-De 1,001 a 3,500 Kg 10
+De 1, 001 a 3,500 kg 10
 
-De 3,501 a 5,000 Kg 12.5
+De 3,501 a 5,000 kg 12.5
 
-De 5,001 a 8,000 Kg 15
+De 5,001 a 8,000 kg 15
 
-De 8,001 a 10,000 Kg 17.5
+De 8,001 a 10,000 kg 17.5
 
-De más de 10,000 Kg 20
+De más de 10,000 kg 20
 
-La cuota del impuesto por la adquisición de camiones de hasta diez años de antigüedad, con capacidad de carga de más de 3,500 Kg, estará sujeta a la siguiente tabla:
+La cuota del impuesto por la adquisición de camiones cuyo año modelo tenga hasta diez años de antigüedad al ejercicio fiscal en curso, con capacidad de carga de más de 3,500 kg, estará sujeta a la siguiente tabla:
 
 Capacidad de carga UMA
 
-De 3,501 a 10,000 Kg 50
+De 3,501 a 10,000 kg 50
 
-De 10,001 a 15,000 Kg 56.25
+De 10,001 a 15,000 kg 56.25
 
-De 15,001 a 20,000 Kg 62.5
+De 15,001 a 20,000 kg 62.5
 
-De 20,001 a 30,000 Kg 68.75
+De 20,001 a 30,000 kg 68.75
 
-De 30,001 Kg en adelante 75
+De 30,001 kg en adelante 75
 
-Por la adquisición de vehículos de motor y remolques a que se refiere esta Ley, cuya antigüedad sea de más de diez años, se pagarán:
+Por la adquisición de vehículos de motor y remolques a que se refiere esta Ley, cuyo año modelo tenga más de diez años de antigüedad al ejercicio fiscal en curso, se pagarán:
 
 Vehículo o remolque UMA
 
-Automóviles y camiones con capacidad
+Automóviles y camiones con
 
-de carga de más de 3,500 Kg 12.5
+capacidad de carga de más de 3,500 kg 12.5
 
-Automóviles y camiones con capacidad
+Automóviles y camiones con
 
-de carga de hasta de 3,500 Kg 7.5
+capacidad de carga de hasta 3,500 kg 7.5
 
 Motocicletas 3.75
 
@@ -293,19 +297,19 @@ El cobro por la adquisición, por cualquier título, de vehículos de motor o re
 
 Las personas físicas y morales obligadas al pago de este impuesto, deberán presentar ante las autoridades fiscales los siguientes documentos:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-I. El comprobante fiscal o la representación impresa del comprante fiscal digital del vehículo, documentos que deberán estar emitidos o endosados a favor del interesado, indicando la fecha de la adquisición.
+I. El comprobante fiscal, la representación impresa del comprobante fiscal digital o el documento emitido por autoridad competente que acredite la propiedad del vehículo; documentales que deberán estar emitidas o endosadas a favor del adquirente del mismo, indicando la fecha de la adquisición.
 
-No se aceptarán dichos documentos, cuando éstos o los endosos que obren en los mismos, presenten tachaduras, alteraciones o enmendaduras;
+No se aceptarán dichos documentos, cuando éstos o los endosos que obren en los mismos presenten tachaduras, alteraciones o enmendaduras.
 
-II. La documentación señalada en el artículo 158, fracciones II, III y IV de esta Ley; y
+La autoridad fiscal podrá solicitar la validación de las documentales a que se refiere esta fracción ante las instancias competentes; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-III. Tarjeta y placas de circulación cuando éstas últimas hayan perdido su vigencia.
+II. La documentación señalada en el artículo 158, fracciones II, III y IV de esta Ley.
 
-Para el caso de pérdida o extravío de los documentos a que se refiere el párrafo anterior, deberá presentarse la constancia de no infracción expedida por la Secretaría de Seguridad Ciudadana del Estado de Querétaro.
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
 ### Capítulo Segundo. Impuesto Sobre Tenencia o Uso de Vehículos
 
@@ -551,7 +555,7 @@ Los contribuyentes comprobarán el pago del impuesto con la copia de la forma po
 
 Tratándose de automóviles, ómnibus, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
 
@@ -559,23 +563,23 @@ TARIFA
 
 Límite inferior Límite superior Cuota fija Tasa para aplicarse
 
-$ $ $ sobre el excedente
+sobre el excedente
 
-del limite inferior
+del límite inferior
 
-%
+$ $ $ %
 
-0.01 476,104.33 0.00 3.75
+0.01 620,912.63 0.00 3
 
-476,104.34 916,236.33 17,853.91 10.875
+620,912.64 1,194,911.94 18,627.38 9
 
-916,236.34 1,231,523.21 65,718.26 16.625
+1,194,911.95 1,606,093.88 70,287.32 10
 
-1,231,523.22 1,546,810.07 118,134.71 21
+1,606,093.89 2,017,275.81 111,405.51 11
 
-1,546,810.08 En adelante 184,344.94 23.875
+2,017,275.82 En adelante 156,635.52 12
 
-Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80; y
+Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendría que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80; y
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -607,7 +611,7 @@ Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de mu
 
 Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.875%.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 35.
 
@@ -617,19 +621,19 @@ TARIFA
 
 Límite inferior Límite superior Cuota fija Tasa para aplicarse
 
-$ $ $ sobre el excedente
+sobre el excedente
 
-del limite inferior
+del límite inferior
 
-%
+$ $ $ %
 
-0.01 222,080.00 0.00 3.75
+0.01 459,693.71 0.00 3
 
-222,080.01 305,412.11 8,328.00 10.875
+459,693.72 809,056.69 13,790.81 9
 
-305,412.12 410,507.74 17,390.36 16.625
+809,056.70 1,087,461.78 45,233.48 10
 
-410,507.75 En adelante 34,862.51 21
+1,087,461.79 En adelante 73,073.99 11
 
 ###### Artículo 36.
 
@@ -1623,13 +1627,13 @@ Por la inscripción del acto mediante el cual se adquiera el usufructo o la nuda
 
 Para los efectos correspondientes, se considera vivienda:
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-a) De interés social, aquella cuyo valor, al término de su edificación, no exceda del equivalente a 20 UMA, y
+a) De interés social, aquella cuyo valor, al término de su edificación, no exceda del equivalente a 20 UMA elevado al año.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-b) Popular, aquella cuyo valor, al término de su edificación, no exceda del equivalente a 30 UMA.
+b) Popular, aquella cuyo valor, al término de su edificación, no exceda del equivalente a 30 UMA elevado al año.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -2041,77 +2045,95 @@ XIX. Impresión del croquis de ubicación de un inmueble en tamaño carta, ofici
 
 XX. Copia certificada del croquis de ubicación de un inmueble en tamaño carta, oficio o doble carta, con ortofoto de fondo, 7.5 UMA;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-XXI. Copia simple de la carta catastral con división predial escala 1:1000, en papel albanene o bond (60x90 cm), 12.5 UMA.
+XXI. Copia simple de la carta catastral con división predial escala 1:1000, en papel bond (60x90 cm), 12.5 UMA;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-XXII. Copia simple de la carta catastral con curvas de nivel escala 1:1000, en papel albanene o bond (60x90 cm), 8.75 UMA;
+XXII. Copia simple de la carta catastral con curvas de nivel escala 1:1000, en papel bond (60x90 cm), 8.75 UMA;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-XXIII. Copia simple de la carta de sector catastral con división manzanera escala 1:5000, en papel albanene o bond (60x90 cm), 8.75 UMA y
+XXIII. Copia simple de la carta de sector catastral con división manzanera escala 1:5000, en papel bond (60x90 cm), 8.75 UMA; y
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-XXIV. Copia simple de la carta de manzana catastral con división predial escala 1:500, en papel albanene o bond (60x90 cm), 12.5 UMA.
+XXIV. Copia simple de la carta de manzana catastral con división predial escala 1:500, en papel bond (60x90 cm), 12.5 UMA.
 
 ###### Artículo 117.
 
 Por la ejecución de deslindes catastrales se causarán y pagarán:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-I. De predios urbanos y predios valuados como urbanos, en los términos de la Ley de Catastro para el Estado de Querétaro, con superficie:
+l. De predios urbanos y predios valuados como urbanos, en los términos de la Ley de Catastro para el Estado de Querétaro, con superficie:
 
 Metros Cuadrados UMA Sumar 1.25 UMA
 
 por cada
 
-Hasta de 150 25
+Hasta de 150 50
 
-De más de 150 25 15 m2 hasta llegar a 500 m2
+De más de 150 50 10 m2 hasta llegar a 500 m2
 
-De más de 500 55 16 m2 hasta llegar a 1000 m2
+De más de 500 93.75 20 m2 hasta llegar a 1000 m2
 
-De más de 1000 95 80 m2 hasta llegar a 5000 m2
+De más de 1000 125 80 m2 hasta llegar a 5000 m2
 
-De más de 5000 157.5 100 m2 hasta llegar a 20000 m2
+De más de 5000 187.5 100 m2 hasta llegar a 20000 m2
 
-De más de 20000 345 120 m2 hasta llegar a 50000 m2
+De más de 20000 375 120 m2 hasta llegar a 50000 m2
 
-De más de 50000 657.5 200 m2 excedente
+De más de 50000 687.5 200 m2 excedente
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 II. De predios rústicos con superficie:
 
 Hectáreas UMA
 
-Hasta 10 68.75 Por primera hectárea o fracción, sumar 12.5
+Hasta 10 125 Por primera hectárea o fracción, sumar 12.5
 
 UMA por cada hectárea o fracción que se
 
 exceda de la primera hectárea.
 
-De más de 10 181.25 Sumar 8.75 UMA por cada hectárea hasta
+De más de 10 237.5 Sumar 9.75 UMA por cada hectárea hasta
 
 llegar a 50 Has.
 
-De más de 50 531.25 Sumar 7.5 UMA por cada hectárea hasta
+De más de 50 627.5 Sumar 7.40 UMA por cada hectárea hasta
 
 llegar a 100 Has.
 
-De más de 100 843.75 Sumar 6.25 UMA por cada hectárea
+De más de 100 997.5 Sumar 3.75 UMA por cada hectárea
 
 excedente.
 
-III. Cuando el contribuyente presente adjunto a su solicitud de deslinde catastral, el plano de levantamiento topográfico del predio realizado conforme a las normas técnicas para ejecución de deslindes de la Dirección de Catastro y efectuado por topógrafo geodesta con equipo electrónico digital inscrito en el padrón de contratistas de Gobierno del Estado y reconocido por la Dirección de Catastro, se pagará el 30 por ciento de los montos establecidos en las fracciones I y II del presente artículo, siempre y cuando dicho topógrafo geodesta realice la investigación de antecedentes de propiedad del predio objeto del deslinde y de los predios colindantes en el Registro Público de la Propiedad y el Comercio. El topógrafo geodesta a que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro de acuerdo al resultado del procedimiento administrativo de deslinde catastral;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-IV. Cuando el solicitante del deslinde catastral, debidamente citado, no asista a la diligencia para señalar los linderos de su propiedad o asistiendo se niegue a señalarlos, se causarán y pagará un 20 por ciento de los montos establecidos en las fracciones I y II del presente artículo por concepto de reinicio o reprogramación de la diligencia de deslinde. Este pago se deberá realizar en un plazo de un mes posterior a la fecha de programación inicial de la diligencia de deslinde; en caso contrario se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados; y
+III. Cuando el contribuyente opte por efectuar el trámite de deslinde catastral mediante topógrafo geodesta con equipo electrónico digital inscrito en el padrón de contratistas de Gobierno del Estado y reconocido por la Dirección de Catastro, se pagará el 70 por ciento de los montos establecidos en las fracciones I y II del presente artículo, siempre y cuando dicho topógrafo geodesta presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio realizado conforme a las normas técnicas para ejecución de deslindes de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto del deslinde y de los predios colindantes en el Registro Público de la Propiedad, así como la solicitud y la documentación requerida para el trámite de deslinde catastral. Dicho expediente se someterá a revisión por parte de la Dirección de Catastro y en caso de que ésta detectara alguna inconsistencia atribuible al topógrafo geodesta, que motive una nueva revisión del expediente, se causarán y pagarán 20 UMA por la citada revisión. El topógrafo geodesta a que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de deslinde catastral;
 
-V. Cuando el solicitante del deslinde catastral, debidamente citado, en la diligencia manifieste desconocer los linderos de su propiedad, se causarán y pagará un 20 por ciento de los montos establecidos en las fracciones I y II del presente artículo por concepto de inicio del trámite de replanteo topográfico, además de pagar la diferencia entre el monto pagado por la ejecución del deslinde y el monto calculado en los términos del artículo 119 de esta Ley. Estos pagos se deberán realizar en un plazo de un mes posterior a la fecha de programación inicial de la diligencia de deslinde; en caso contrario se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+IV. Cuando el solicitante del deslinde catastral, debidamente citado, no asista a la diligencia para señalar los linderos de su propiedad o asistiendo se niegue a señalarlos, se causarán y pagará un 20 por ciento de los montos establecidos en las fracciones I y II del presente artículo por concepto de reinicio o reprogramación de la diligencia de deslinde. Este pago se deberá realizar en un plazo de un mes posterior a la fecha de programación inicial de la diligencia de deslinde; en caso contrario se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+V. Cuando el solicitante del deslinde catastral, debidamente citado, en la diligencia manifieste desconocer los linderos de su propiedad, se causarán y pagará un 20 por ciento de los montos establecidos en las fracciones I y II del presente artículo por concepto de inicio del trámite de replanteo topográfico, además de pagar la diferencia entre el monto pagado por la ejecución del deslinde y el monto calculado en los términos del artículo 119 de esta Ley. Estos pagos se deberán realizar en un plazo de un mes posterior a la fecha de programación inicial de la diligencia de deslinde; en caso contrario se archivará la solicitud, sin que el interesado pueda solicitar la devolución de los derechos previamente pagados;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VI. Cuando derivado del deslinde catastral se detecten diferencias en cuanto a la clasificación o superficie del bien objeto del mismo manifestadas al inicio de dicho trámite, el contribuyente deberá pagar la cantidad correspondiente a la diferencia entre los derechos pagados inicialmente y los efectivamente causados conforme a la superficie o clasificación derivada de la realización del procedimiento;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VII. Cuando una vez concluido el procedimiento de deslinde catastral sea necesario realizar alguna modificación al plano resultante del mismo, con motivo de pronunciamiento, opinión técnica o resolución de autoridad competente, el solicitante deberá pagar la cantidad correspondiente al 20 por ciento sobre el monto de los derechos establecidos en las fracciones I y II del presente artículo; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VIII. Cuando el interesado solicite la reactivación de un procedimiento de deslinde catastral que se hubiese declarado caduco o suspendido a solicitud del interesado, en términos de las disposiciones legales aplicables, se pagará la cantidad correspondiente al 50 por ciento de los derechos establecidos en las fracciones I y II del presente artículo.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -2119,47 +2141,53 @@ V. Cuando el solicitante del deslinde catastral, debidamente citado, en la dilig
 
 Por la ejecución de levantamientos topográficos de planimetría, se causarán y pagarán:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-I. De predios urbanos o predios valuados como urbanos en los términos de la Ley de Catastro para el Estado de Querétaro, con superficie:
+l. De predios urbanos o predios valuados como urbanos en los términos de la Ley de Catastro para el Estado de Querétaro, con superficie:
 
 Metros Cuadrados UMA Sumar 1.25 UMA por cada:
 
 Hasta de 150 25
 
-De más de 150 25 15 m2 hasta llegar a 500 m2
+De más de 150 25 18 m2 hasta llegar a 500 m2
 
-De más de 500 55 16 m2 hasta llegar a 1000 m2
+De más de 500 49.31 35 m2 hasta llegar a 1000 m2
 
-De más de 1000 95 80 m2 hasta llegar a 5000 m2
+De más de 1000 67.17 100 m2 hasta llegar a 5000 m2
 
-De más de 5000 157.5 100 m2 hasta llegar a 20000 m2
+De más de 5000 117.17 180 m2 hasta llegar a 20000 m2
 
-De más de 20000 345 120 m2
+De más de 20000 221.34 250 m2 hasta llegar a 50000 m2
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+De más de 50000 371.34 200 m2 excedente
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 II. De predios rústicos con superficie:
 
 Hectáreas UMA
 
-Hasta de 10 43.75 Por la primera hectárea o fracción, más
+Hasta de 10 62.5 Por la primera hectárea o fracción, más
 
-12.5 UMA por cada hectárea o fracción
+7.5 UMA por cada hectárea o fracción
 
 que se exceda de la primera hectárea.
 
-De más de 10 156.25 Sumar 8.75 UMA por cada hectárea
+De más de 10 130 Sumar 5.5 UMA por cada hectárea
 
 hasta llegar a 50 Has.
 
-De más de 50 506.25 Sumar 6.25 UMA por cada hectárea
+De más de 50 350 Sumar 3.5 UMA por cada hectárea
 
 hasta llegar a 100 Has.
 
-De más de 100 818.75 Sumar 3.75 UMA por cada hectárea
+De más de 100 525 Sumar 2.25 UMA por cada hectárea
 
 excedente.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III. Cuando el contribuyente opte por efectuar el trámite de levantamiento topográfico mediante topógrafo geodesta con equipo electrónico digital inscrito en el padrón de contratistas de Gobierno del Estado y reconocido por la Dirección de Catastro, se pagará el 50 por ciento de los montos establecidos en las fracciones I y II del presente artículo, siempre y cuando dicho topógrafo geodesta presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio realizado conforme a las normas técnicas para ejecución de deslindes de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de levantamiento topográfico; dicho expediente se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al topógrafo geodesta, que ocasionara una nueva revisión, pagará 20 UMA por la misma. El topógrafo geodesta al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de levantamiento topográfico.
 
 ###### Artículo 119.
 
@@ -2210,6 +2238,54 @@ De más de 100 1637.5 Sumar 7.5 UMA por cada hectárea
 excedente.
 
 Si el solicitante requiere la realización de un deslinde catastral inmediatamente posterior a la ejecución del replanteo topográfico y siempre que el dictamen aporte los datos técnicos para realizarlo, el monto de los derechos por concepto de la ejecución del deslinde catastral se calculará al 50% de lo señalado en el artículo 116.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 119 Bis.
+
+Por la ejecución de plano catastral derivado de trabajos técnicos de topografía, geodesia o aerofotogrametría, que contengan elementos físicos o virtuales del predio o desarrollos inmobiliarios, se causarán y pagarán:
+
+l. De predios urbanos o predios valuados como urbanos en los términos de la Ley de Catastro para el Estado de Querétaro, con superficie:
+
+Metros Cuadrados UMA Sumar 1.25 UMA por cada:
+
+Hasta de 150 35
+
+De más de 150 35 14 m2 hasta llegar a 500 m2
+
+De más de 500 66.25 25 m2 hasta llegar a 1000 m2
+
+De más de 1000 91.25 120 m2 hasta llegar a 5000 m2
+
+De más de 5000 132.92 145 m2 hasta llegar a 20000 m2
+
+De más de 20000 262.23 170 m2 hasta llegar a 50000 m2
+
+De más de 50000 482.82 200 m2 excedente
+
+II. De predios rústicos con superficie:
+
+Hectáreas UMA
+
+Hasta de 10 87.5 Por la primera hectárea o fracción, más
+
+8.75 UMA por cada hectárea o fracción
+
+que se exceda de la primera hectárea.
+
+De más de 10 166.3 Sumar 7.00 UMA por cada hectárea
+
+hasta llegar a 50 Has.
+
+De más de 50 446.3 Sumar 5.25 UMA por cada hectárea
+
+hasta llegar a 100 Has.
+
+De más de 100 708.8 Sumar 3.00 UMA por cada hectárea
+
+excedente.
+
+III. Cuando el contribuyente opte por efectuar el trámite de plano catastral mediante topógrafo geodesta con equipo electrónico digital inscrito en el padrón de contratistas de Gobierno del Estado y reconocido por la Dirección de Catastro, se causarán y pagará el 50 por ciento de los montos establecidos en las fracciones I y II del presente artículo, siempre y cuando dicho topógrafo geodesta presente ante la Dirección de Catastro el expediente que incluya el plano de levantamiento topográfico del predio, realizado conforme a las normas técnicas para ejecución de planos catastrales de la Dirección de Catastro, la investigación de antecedentes de propiedad del predio objeto de levantamiento y de los predios colindantes en el Registro Público de la Propiedad, la solicitud y la documentación requerida para el trámite de plano catastral; dicho expediente se someterá a revisión por parte de la Dirección de Catastro, si éste tuviera alguna inconsistencia atribuible al topógrafo geodesta, que ocasionara una nueva revisión, pagará 20 UMA por la misma. El topógrafo geodesta al que se hace referencia en esta fracción, estará obligado a realizar las modificaciones, actualizaciones y anotaciones que establezca la Dirección de Catastro, de acuerdo al resultado del procedimiento administrativo de plano catastral.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -2367,17 +2443,17 @@ Tequisquiapan 10
 
 Tolimán 10
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 122.
 
 Por la expedición de copias de aerofotografías de 23x23 cm, se causarán y pagarán:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+l. Impresas en papel fotográfico, 18.75 UMA por fotografía;
 
-I. Impresas en papel fotográfico, 18.75 UMA por fotografía, y
+II. Por ampliaciones impresas en papel fotográfico, 6.25 UMA por cada 529 cm2 adicionales; y
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-II. Por ampliaciones impresas en papel fotográfico, 6.25 UMA por cada 529 cm2 adicionales.
+III. Impresas en papel bond tamaño carta, 3.75 UMA por fotografía.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -2451,9 +2527,11 @@ Por los servicios relativos a la expedición de documentos en donde conste la in
 
 I. Copia fotostática de información de vértice geodésico, 1.25 UMA por vértice;
 
-II. Posicionamiento en campo de vértice de control geodésico para el apoyo de levantamientos topográficos, sin monumentación, 8.75 UMA por vértice;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-III. Posicionamiento en campo de vértice de control geodésico para el apoyo de levantamientos topográficos, incluye monumentación, 50 UMA por vértice, y
+II. Posicionamiento en campo de vértice de control geodésico para el apoyo de levantamientos topográficos, sin monumentación, 16.55 UMA por vértice;
+
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
 IV. Observaciones de la Estación Fija de la Dirección de Catastro:
 
@@ -2465,7 +2543,7 @@ Horas subsecuentes hasta 10 horas 0.3125
 
 Más de 10 horas hasta 24 horas 7.5
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 126.
 
@@ -2473,9 +2551,9 @@ Por los servicios catastrales relativos a fraccionamientos y condominios, se cau
 
 TRÁMITE UMA
 
-Alta de fraccionamiento 8.75
+Alta de fraccionamiento
 
-Alta de condominio 8.75
+Alta de condominio 17.5
 
 Expedición de dictamen técnico
 
@@ -2483,13 +2561,23 @@ Reconsideración de valor catastral 6.25
 
 Preasignación de claves catastrales
 
-Relotificación de fraccionamiento 26.25
+Relotificación de fraccionamiento
 
-Modificación al régimen en condominio
+Modificación al régimen en condominio 26.25
 
-Expedición de listados de fraccionamientos 3.75
+Expedición de listados de fraccionamientos
 
 o condominios
+
+Individualización de clave 3.75
+
+Actualización de datos catastrales
+
+(nombre del propietario y
+
+domicilio fiscal)
+
+En caso de que no sea posible realizar el alta del fraccionamiento o condominio por la falta de algún requisito o la inconsistencia de algún documento presentado, por la subsecuente revisión del expediente se causará el 50 por ciento de los derechos que por dichos conceptos establece el presente artículo.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -2515,9 +2603,11 @@ No estarán obligadas al pago de este derecho las autoridades federales, estatal
 
 IV. Por la certificación de documentos catastrales con fojas de una hasta cinco, 6.25 UMA y por cada foja excedente, el 0.125 UMA;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-V. Por la autorización de las formas para la elaboración de los avalúos fiscales que efectúan los peritos valuadores con registro ante la Dirección de Catastro, 0.125 UMA, por foja;
+V. Por la autorización de las formas para la elaboración de los avalúos para efectos hacendarios que realicen los valuadores con nombramiento emitido por el Poder Ejecutivo del Estado de Querétaro, así como por la revisión de los mismos y la supervisión de la actividad de dichos valuadores, el 2.5 por ciento del monto de los derechos establecidos en el artículo 124 de esta Ley, cantidad que en ningún caso deberá ser inferior a 5 UMA;
+
+Cuando se trate de avalúos que se realicen para operaciones traslativas de dominio de vivienda de interés social o popular con crédito hipotecario de instituciones u organismos federales o estatales, se pagará por este concepto 1 UMA;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -2525,9 +2615,9 @@ VI. Por la expedición del archivo digital del área de dibujo del plano de leva
 
 Estos archivos sólo se expedirán a los solicitantes de los levantamientos topográficos o deslindes catastrales que correspondan;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-VII. Por la certificación de planos de deslinde catastral producto de la modificación, rectificación o aclaración de linderos, a solicitud del propietario, 12.5 UMA;
+VII. Por la modificación y certificación de planos de deslinde catastral producto de la modificación, rectificación o aclaración de linderos, a solicitud del propietario, el 25 por ciento de los derechos causados por el deslinde catastral correspondiente. La modificación, rectificación o aclaración respectiva se deberá manifestar en un plazo máximo de un mes calendario posterior a la fecha de haber concluido el procedimiento de deslinde el trabajo;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -2585,13 +2675,21 @@ XIX. Por la emisión de dictamen técnico que incluya trabajos de brigada de top
 
 XX. Por el empadronamiento de los avisos de traslado de dominio, 3.75 UMA.
 
-Para efectos de esta fracción, se entenderá por empadronamiento del aviso de traslado de dominio, aquel que se realice con motivo del primer registro de un inmueble en el Padrón Catastral, así como del primer cambio de propietario que recaiga sobre un predio que se derive de un fraccionamiento o condominio; y
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Para efectos de esta fracción, se entenderá por empadronamiento del aviso de traslado de dominio, aquel que se realice con motivo del primer registro de un inmueble en el Padrón Catastral, así como del primer cambio de propietario que recaiga sobre un predio que se derive de un fraccionamiento o condominio;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 XXI. Por la expedición del informe de valor referido de inmueble, a petición del interesado, 3.75 UMA, por predio.
 
-Se exceptúa del pago de los derechos a que se refiere esta fracción, cuando los servicios respectivos sean solicitados por las autoridades federales, estatales o municipales.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Se exceptúa del pago de los derechos a que se refiere esta fracción, cuando los servicios respectivos sean solicitados por las autoridades federales, estatales o municipales; y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXII. Por el alta de predio omiso, 3. 75 UMA.
 
 ###### Artículo 128.
 
@@ -2623,87 +2721,163 @@ Por los servicios prestados por las autoridades de la Secretaría de Educación,
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 132.
 
-Por el registro de Colegios de Profesionistas:
+Por los trámites que realice la Dirección Estatal de Profesiones de la Secretaría de Educación del Poder Ejecutivo del Estado de Querétaro, se causarán y pagarán los siguientes derechos:
+
+l. En materia de registro de colegios, asociaciones y federaciones de profesionistas:
 
 CONCEPTO UMA
 
-Por registro. 150
+Por el registro de un colegio de profesionistas 50
 
-Por expedición de autorización para constituir. 15
+Por la expedición de autorización para la
 
-Por anotaciones al registro. 15
+constitución de un colegio de
 
-Por inscripción de asociados que no figuren en el
+profesionistas 15
 
-registro original. 0.625
+Por las anotaciones al registro 15
 
-Por la expedición de una autorización para constituir 12.5
+Por la inscripción de asociados que no
 
-una asociación de profesionistas.
+figuren en el registro original 0.625
 
-Por registro de una asociación de profesionistas. 125
+Por la expedición de una autorización para
 
-Por la expedición de una autorización para constituir 31.25
+constituir una asociación de profesionistas 12.5
 
-una federación de profesionistas.
+Por el registro de una asociación de
 
-Por registro de una federación. 312.50
+profesionistas 12.5
 
-###### Artículo 133.
+Por la expedición de una autorización para
 
-Por los trámites que realice la Dirección Estatal de Profesiones ante la Instancia Federal correspondiente de la Secretaría de Educación Pública, se causarán y pagarán los siguientes:
+constituir una federación de profesionistas 31.25
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+Para el registro de una federación de
 
-I. En relación a títulos profesionales, de diploma de especialidad o de grado académico:
+colegios de profesionistas 312.50
 
-CONCEPTO UMA
+II. Por el trámite de títulos profesionales, de diploma de especialidad o de grado académico y otros conceptos previstos en la ley estatal de la materia:
 
-Por trámite de registro de un establecimiento educativo 43.75
-
-legalmente autorizado para expedirlos.
-
-Por trámite de enmiendas al registro de un
-
-establecimiento educativo. 12.5
-
-Por trámite de registro de Título y Expedición de cédula 7.5
-
-profesional de licenciatura y grado académico.
-
-Por trámite de Registro de Título y Expedición de cédula 3.75
-
-profesional de Técnico Superior Universitario, Profesional
-
-Asociado de Institución Pública y de Niveles Técnicos.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-II. Otros conceptos:
+a) En relación a títulos profesionales de los niveles de profesional asociado, técnico, técnico superior, técnico superior universitario, licenciatura, especialidad o de grado académico:
 
 CONCEPTO UMA
 
-Por trámite de registro de Diploma y Expedición de Cédula 10
+Por trámite de Registro de Título y
 
-Profesional para el ejercicio de una especialidad.
+Expedición de Cédula Profesional
 
-Por trámite de duplicado de cédula profesional. 2.5
+de Profesional Asociado, Técnico,
 
-Por trámite de expedición de autorización provisional 2.5
+Técnico Superior y Técnico Superior
 
-para ejercer por estar el título profesional en trámite o
+Universitario. 5
 
-para ejercer como pasante.
+Por trámite de registro de Título y
+
+Expedición de Cédula Profesional de
+
+Licenciatura y Grado Académico. 11
+
+Por trámite de registro de Diploma y
+
+Expedición de Cédula Profesional para
+
+el ejercicio de una Especialidad. 17
+
+Por trámite de Duplicado de Cédula
+
+Profesional. 5
+
+b) Otros conceptos:
+
+CONCEPTO UMA
+
+Por trámite de expedición de autorización
+
+provisional para ejercer por estar el
+
+título profesional en trámite o para
+
+ejercer como pasante. 3
+
+Por trámite de consultas de archivo. 1.5
+
+Por trámite de constancias de
+
+antecedentes profesionales. 6
+
+III. Por los trámites que realice ante la Secretaría de Educación Pública del Gobierno Federal:
+
+a) En relación a títulos profesionales, de diploma de especialidad o de grado académico:
+
+CONCEPTO UMA
+
+Por trámite de registro de un
+
+establecimiento educativo
+
+legalmente autorizado para expedirlos. 43.75
+
+Por trámite de enmiendas al registro
+
+de un establecimiento educativo. 12.5
+
+Por trámite de registro de Título y
+
+Expedición de cédula profesional
+
+de licenciatura y grado académico. 7.5
+
+Por trámite de Registro de Título
+
+y Expedición de cédula profesional
+
+de Técnico Superior Universitario,
+
+Profesional Asociado de Institución
+
+Pública y de Niveles Técnicos. 3.75
+
+b) Otros conceptos:
+
+CONCEPTO UMA
+
+Por trámite de registro de Diploma y
+
+Expedición de Cédula Profesional para
+
+el ejercicio de una especialidad. 10
+
+Por trámite de duplicado de cédula
+
+profesional. 2.5
+
+Por trámite de expedición de autorización
+
+provisional para ejercer por estar el título
+
+profesional en trámite o para ejercer como
+
+pasante. 2.5
 
 Por trámite de consultas de archivo. 1.25
 
-Por trámite de constancias de antecedentes profesionales. 6.25
+Por trámite de constancias de
 
-Por trámite de devolución de documentos originales. 1.25
+antecedentes profesionales. 6.25
+
+Por trámite de devolución de
+
+documentos originales. 1.25
+
+###### Artículo 133.
+
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -2885,377 +3059,9 @@ estudios, una vez concluido el plazo para la entrega de la
 
 resolución. 2.5
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
 ###### Artículo 135.
 
-Por los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, se causarán y pagarán los siguientes derechos:
-
-I. Parque Querétaro 2000:
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-a) Talleres:
-
-TALLERES COSTO COSTO
-
-INSCRIPCIÓN MENSUALIDAD
-
-UMA
-
-Iniciación deportiva y 1 1
-
-basquetbol
-
-Fútbol, pre-karate y karate 1 2
-
-Judo 1 3
-
-Gimnasio, tae-bo, yoga 1 2
-
-y aerobics.
-
-Béisbol 1 1.125
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-b) Natación:
-
-TALLERES DÍAS A LA COSTO COSTO
-
-SEMANA INSCRIPCIÓN MENSUALIDAD
-
-UMA
-
-Alberca 02 2 4
-
-Semiolímpica 03 2 5
-
-Alberca 02 3 6
-
-Olímpica 03 3 8
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-c) Polo acuático y nado sincronizado:
-
-INSTALACIÓN DÍAS A LA INSCRIPCIÓN MENSUALIDAD
-
-SEMANA
-
-UMA
-
-Alberca Olímpica 3 3.75 10.15
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-d) Equipo de natación para usuarios en general:
-
-INSTALACIÓN DÍAS A LA COSTO COSTO
-
-SEMANA INSCRIPCIÓN MENSUALIDAD
-
-UMA
-
-Alberca Olímpica Lunes
-
-(Preequipo) a viernes
-
-3.75 10.15
-
-Alberca Olímpica Lunes
-
-(Equipo) a viernes
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-e) Uso de instalaciones:
-
-USO POR HORA
-
-CON LUZ CON LUZ
-
-NATURAL ARTIFICIAL
-
-Concha acústica
-
-UMA
-
-2 4
-
-USO POR EVENTO
-
-SÓLO PISTA PISTA Y CAMPO
-
-Pista de tartán
-
-UMA
-
-12 20
-
-USO POR EVENTO
-
-CON LUZ CON LUZ
-
-Cancha de fútbol rápido, NATURAL ARTIFICIAL
-
-cancha de béisbol y softbol UMA
-
-4 6
-
-USO POR HORA UMA
-
-Cancha empastada
-
-de fútbol siete 3.75
-
-Cancha de voleibol
-
-de playa 1
-
-USO POR HORA USO POR HORA
-
-CON LUZ NATURAL CON ALUMBRADO
-
-Cancha de tenis LUNES A SÁBADO, CUALQUIER DÍA
-
-VIERNES DOMINGO DE LA SEMANA
-
-Y DÍAS
-
-FESTIVOS
-
-UMA
-
-1 2 2.5
-
-USO POR HORA CON LUZ CON LUZ
-
-NATURAL ARTIFICIAL
-
-UMA
-
-Campo de fútbol
-
-americano 3.4375 5.1625
-
-(uso por hora)
-
-USO POR HORA
-
-INSTALACIÓN
-
-CON LUZ CON LUZ
-
-NATURAL ARTIFICIAL
-
-UMA
-
-Gimnasio de talentos deportivos 6.0625 8.0625
-
-Área de tenis de mesa 5.2875 7.825
-
-f) Costo por admisión general $2.00;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-II. Auditorio General Arteaga:
-
-TALLERES COSTO COSTO
-
-INSCRIPCIÓN MENSUALIDAD
-
-UMA
-
-Tae kwon do, box, lucha libre,
-
-fisicoculturismo,
-
-karate do, aerobics, 1.25 2.5
-
-básquetbol y
-
-gimnasio
-
-Pilates 2.5 2.5
-
-Voleibol 1.25 1.5625
-
-HORAS COSTO COSTO
-
-A LA SEMANA INSCRIPCIÓN MENSUALIDAD
-
-UMA
-
-Gimnasia olímpica
-
-2 a 5 2.5 2.5
-
-6 a 10 2.5 3.75
-
-CONCEPTO UMA
-
-Uso del auditorio con fines de lucro 169
-
-Uso del auditorio sin fines de lucro 84
-
-Uso del foro, por evento 42
-
-Uso de sala de juntas por cada 2 horas 4
-
-Renta de duela con luz natural 6.0625
-
-Renta de duela con luz artificial 8.0625
-
-III. Casa de la Juventud:
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-a) Talleres:
-
-CONCEPTO COSTO COSTO
-
-INSCRIPCIÓN MENSUALIDAD
-
-UMA
-
-Aerobics, fisicoculturismo, jazz,
-
-tae kwon do, gimnasia reductiva,
-
-cultura física infantil, fútbol,
-
-zumba, yoga, pilates
-
-y bailes latinos 1 2
-
-Natación (3 días a la semana) 2 5
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-b) Uso de instalaciones:
-
-INSTALACIÓN CON LUZ CON LUZ
-
-NATURAL ARTIFICIAL
-
-UMA
-
-Cancha de fútbol USO POR
-
-empastado EVENTO 8 25
-
-Auditorio USO 6
-
-POR
-
-HORA
-
-Cancha de fútbol siete USO 4 6
-
-POR
-
-HORA
-
-IV. Unidad Deportiva Plutarco Elías Calles:
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-a) Talleres:
-
-TALLERES COSTO COSTO
-
-INSCRIPCIÓN MENSUALIDAD
-
-UMA
-
-Aerobics, tae kwon do, deporte 1 2
-
-infantil, gimnasio de pesas,
-
-fútbol, voleibol, básquetbol,
-
-tenis de mesa, béisbol,
-
-atletismo y box
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-b) Uso de instalaciones:
-
-INSTALACIÓN USO POR UMA
-
-HORA
-
-Cancha de fútbol empastado 4
-
-Cancha de béisbol 0.6625
-
-Auditorio 3
-
-Cancha de fútbol rápido 3
-
-USO POR CON LUZ CON LUZ
-
-HORA NATURAL ARTIFICIAL
-
-UMA
-
-Cancha de frontón 1 2
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-V. Campamento San Joaquín:
-
-INSTALACIÓN O SERVICIO CARACTERÍSTICA UMA
-
-Hospedaje por noche. 1.1875
-
-Alimentos por cada alimento.
-
-Uso de regaderas. Por persona 1
-
-Talleres por semana,
-
-incluye material.
-
-Renta del auditorio. Por hora 2.8875
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-VI. Estadio Municipal
-
-CONCEPTO UMA CARACTERÍSTICAS
-
-Uso del estadio municipal
-
-con fines de lucro 1163.75 Por evento
-
-Uso del estadio municipal
-
-sin fines de lucro 447.5 Por evento
-
-Uso del estadio municipal
-
-eventos deportivos no
-
-profesionales 17.5 Por hora
-
-Uso del estadio municipal
-
-eventos deportivos no
-
-profesionales con luz
-
-artificial 41.25 Por hora
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-VII. Clase muestra en los talleres en cualquier unidad deportiva, 0.8125 UMA.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-VIII. Por reposición de credencial, en todas las unidades deportivas, 1 UMA.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ### Capítulo Noveno. Por los servicios prestados por la Procuraduría General de Justicia del Estado
 
@@ -3341,13 +3147,17 @@ subsecuente
 
 No pagarán los derechos a que se refiere este artículo, las personas físicas que mediante credencial vigente acrediten ser estudiantes de una institución educativa y soliciten la prestación de los servicios correspondientes con fines académicos.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 138
+###### Artículo 138 Bis.
 
-Bis. Por la expedición y renovación de licencias y permisos para Agentes y Empresas Inmobiliarias, se causará y pagará un derecho equivalente a 5 UMA.
+Por los servicios prestados respecto de agentes y empresas inmobiliarias, se causarán y pagarán los siguientes derechos:
 
-Por la expedición de constancias e información relativa al Registro de Agentes y Empresas Inmobiliarias del Estado de Querétaro, se causará y pagará un derecho equivalente a 1 UMA.
+l. Por la expedición y renovación de licencias y permisos para agentes y empresas inmobiliarias, se causará y pagará un derecho equivalente a 5 UMA;
+
+II. Por la reposición de licencias y permisos para agentes y empresas inmobiliarias, se causará y pagará un derecho equivalente a 2 UMA; y
+
+III. Por la expedición de constancias e información relativa al Registro de Agentes y Empresas Inmobiliarias del Estado de Querétaro, se causará y pagará un derecho equivalente a 1 UMA.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -3397,9 +3207,19 @@ Por la reproducción de expediente de
 
 desarrollos inmobiliarios en medios electrónicos. 75
 
-### Capítulo Décimo. Por los servicios prestados por la Secretaría de la Contraloría
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+###### Artículo 139 Bis.
+
+Por la inscripción, renovación, adición de especialidades, actualización de situación financiera y actualización de datos en la constancia de registro en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, se cobrarán derechos a razón de 15 UMA.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 139 Ter.
+
+Por el envío por mensajería con acuse de recibido de la constancia de Registro en el Padrón de Contratistas al domicilio del interesado, se causará y pagará un derecho equivalente a 2.5 UMA.
+
+### Capítulo Décimo. Por los servicios prestados por la Secretaría de la Contraloría
 
 ###### Artículo 140.
 
@@ -3417,31 +3237,9 @@ certificadas de documentos. Primera hoja 0.625
 
 Hoja adicional 0.25
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
 ###### Artículo 140 Bis.
 
-Por los servicios prestados por el Centro Estatal de Evaluación y Control de Confianza, se causarán y pagarán los siguientes derechos:
-
-CONCEPTO UMA
-
-Aplicación de la evaluación de control de confianza 100
-
-integral.
-
-Aplicación de la evaluación de control de confianza 60
-
-diferenciada.
-
-Aplicación de la evaluación de control de confianza 55
-
-por convalidación.
-
-Aplicación de la evaluación para la obtención de la 54
-
-licencia oficial colectiva para portación de armas.
-
-La Federación, el Estado y los municipios, así como sus entidades paraestatales y las empresas de seguridad privada que presten sus servicios en la entidad, se consideran sujetos obligados al pago de los derechos correspondientes a la aplicación de las evaluaciones a que se refiere el presente artículo.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -3577,9 +3375,9 @@ b) Por la segunda visita de inspección, 25 UMA, y
 
 c) Por la tercera visita de inspección y por cada visita subsecuente, 50 UMA;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-II. Por los cursos de capacitación en materia de protección civil para grupos de entre 10 y 50 personas, 6.25 VFC, por participante.
+II. Por los cursos de capacitación en materia de protección civil:
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -3667,8 +3465,6 @@ Zona C: Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San J
 
 ### Capítulo Décimo Primero. Servicios prestados por las Autoridades de la Secretaría de Seguridad Ciudadana
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
 ###### Artículo 145.
 
 (DEROGADO, P.O. 16 DE DICIEMBRE DE 2016)
@@ -3677,13 +3473,11 @@ Zona C: Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San J
 
 ###### Artículo 146.
 
-Por la inscripción, renovación, adición de especialidades, actualización de situación financiera y actualización de datos en la constancia de registro en el Padrón de Contratistas de Obra Pública del Estado de Querétaro, se cobrarán derechos a razón de 15 UMA.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 147.
 
-Por el envío por mensajería con acuse de recibido de la constancia de Registro en el Padrón de Contratistas al domicilio del interesado, se causará y pagará un derecho equivalente a 2.5 UMA.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -3719,113 +3513,7 @@ Por la expedición de la constancia de no inhabilitación a favor de las persona
 
 ###### Artículo 151.
 
-Por los servicios prestados por el Instituto de Formación Policial, se causarán y pagarán los siguientes derechos:
-
-I. Por la capacitación que se imparta en materia de actualización:
-
-a) Para instituciones públicas o privadas, 12.5 UMA por cada hora, por grupo de hasta 30 personas, y
-
-b) Para interesados individualmente considerados, 1.25 UMA por hora;
-
-II. Por la capacitación que se imparta en materia de especialización básica, se causarán y pagarán los siguientes derechos:
-
-a) Para instituciones públicas o privadas, 23.75 UMA por hora, por grupo de hasta 30 personas, y
-
-b) Para interesados individualmente considerados, 2.375 UMA por hora;
-
-III. Por la capacitación que se imparta en materia de especialización avanzada:
-
-a) Para instituciones públicas o privadas, 47.5 UMA, por hora, por grupo de hasta 30 personas, y
-
-b) Para interesados individualmente considerados, 4.75 UMA por hora;
-
-IV. Por el servicio de asesoría especial que se imparta a instituciones públicas o privadas, 16.25 UMA por hora;
-
-V. Por la aplicación de estudios psicológicos al personal de instituciones públicas o privadas, 78.75 UMA por estudio;
-
-VI. Por la atención psicológica al personal de instituciones públicas o privadas, 10 UMA por hora, por persona;
-
-VII. Por la evaluación del nivel de conocimientos y habilidades del personal de las instituciones públicas o privadas, 10 UMA por estudio, por persona;
-
-VIII. Por la capacitación en el Curso Básico de Formación para Custodios, 1371.25 UMA por persona;
-
-IX. Por la capacitación en el Curso Básico de Formación para Policía Estatal Preventivo, 2085 UMA por persona;
-
-X. Por el proceso de selección previo a los cursos de capacitación a que se refieren las fracciones VIII y IX de este artículo, 140 UMA;
-
-XI. Por la expedición de duplicado de certificado de estudios, 2.5 UMA;
-
-XII. Por la capacitación en el Curso Básico de Formación para Policía Estatal Preventivo, Adiestramiento Intensificado con perfil de ingreso con Licenciatura, 1590 UMA por persona;
-
-XIII. Por instrucción en la Licenciatura en Seguridad Pública, con internado, a 322.5 UMA por persona, por módulo o cuatrimestre;
-
-XIV. Por instrucción en la Licenciatura en Seguridad Pública, sin internado, 162.5 UMA por persona, por módulo o cuatrimestre;
-
-XV. Por instrucción de Técnico Superior Universitario en Emergencias Médicas y Desastres, en modalidad escolarizada, 75 UMA por persona, por módulo o cuatrimestre;
-
-XVI. Por la instrucción de Técnico Superior Universitario en Emergencias Médicas y Desastres, en modalidad ejecutiva, 50 UMA por persona, por módulo o cuatrimestre;
-
-XVII. Por la capacitación que se imparta en materia de atención de emergencias, 6.25 UMA por persona, por curso de hasta cuarenta horas;
-
-XVIII. Por la capacitación en el Curso Básico de Formación para Personal de Seguridad Privada, se causará y pagará por persona, un derecho equivalente a 250 UMA;
-
-XIX. Por capacitación en el curso de formación inicial única para Policía Estatal Preventivo, 413 UMA por persona;
-
-XX. Por capacitación en el curso de formación inicial única para Policía Municipal Preventivo, 413 UMA por persona;
-
-XXI. Por capacitación en el curso de formación inicial única para Policía Procesal, 413 UMA por persona;
-
-XXII. Por la capacitación en el curso de formación inicial única para custodios se causará y pagará por persona un derecho equivalente a 413 UMA;
-
-XXIII. Por la capacitación en el curso de formación inicial equivalente para elementos en activo, 206 UMA, por persona;
-
-XXIV. Por la capacitación en el curso de formación básica única para operadores del Sistema de Justicia Penal Acusatorio, 413 UMA por persona;
-
-XXV. Por la capacitación en el taller para uso y manejo de la tableta para elementos en activo, 2 UMA por persona;
-
-XXVI. Por capacitación en el taller de técnicas de la función policial para elementos en activo, 31.75 UMA por persona;
-
-XXVII. Por el trámite y, en su caso, la validación que se realice en materia de capacitación a prestadores de servicios de seguridad privada:
-
-a) Capacitación inicial, actualización o especialización a prestadores de servicios de seguridad privada sometido a proceso de validación, 25 UMA;
-
-b) Evaluación para validación de docente o instructor para capacitación, a prestadores de servicios de seguridad privada, 78.75 UMA;
-
-c) Evaluación para renovación de validación de docente o instructor para capitación a prestadores de servicios de seguridad privada, 40 UMA, y
-
-d) Evaluación para la validación de instalaciones para impartir capacitación a prestadores de servicios de seguridad privada, 25 UMA;
-
-XXVIII. Por el trámite y, en su caso, validación que se realice en materia de capacitación a escuelas privadas de manejo de vehículos:
-
-a) Capacitación inicial, actualización o especialización a escuelas privadas de manejo de vehículos sometidas a proceso de validación, 25 UMA;
-
-b) Evaluación para validación de docente o instructor para capacitación a escuelas privadas de manejo de vehículos, 78.75 UMA, y
-
-c) Evaluación para renovación de validación de docente o instructor para capacitación a escuelas privadas de manejo de vehículos, 40 UMA;
-
-XXIX. Por el uso de instalaciones por parte de instituciones públicas o privadas, con fines académicos:
-
-INSTALACIÓN UMA
-
-Aula hasta para 2
-
-35 personas
-
-Auditorio Por hora 6
-
-Salón de usos 8
-
-Múltiples
-
-Pista de 10
-
-Práctica
-
-XXX. Por el servicio de asignación de instructores para instituciones públicas o privadas, 4.25 UMA, por hora.
-
-El pago y sujeción al proceso de selección previsto en la fracción X de este artículo, será condición indispensable para tomar los cursos a que se refieren las fracciones VIII y IX.
-
-La capacitación contemplada en las fracciones XII, XVII y XVIII, será impartida únicamente cuando se reúnan al menos 15 participantes para la apertura de cada grupo; la contemplada en las fracciones XIII y XIV, será impartida únicamente cuando se reúnan al menos 30 participantes para la apertura de cada grupo; la contemplada en las fracciones XV y XVI, será impartida únicamente cuando se reúnan al menos 20 participantes para la apertura de cada grupo.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ###### Artículo 152.
 
@@ -3885,43 +3573,41 @@ Para el caso de no cubrir el pago de los derechos correspondientes en el plazo s
 
 Por los servicios prestados por las autoridades de la Secretaría de Seguridad Ciudadana, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-I. Por el trámite y en su caso, expedición de:
+l. Por el trámite y, en su caso, expedición de:
 
-CONCEPTO SERVICIO SERVICIO
+CONCEPTO SERVICIO PÚBLICO SERVICIO
 
-PÚBLICO PARTICULAR
+UMA PARTICULAR
 
-UMA
+Permiso de conducir No aplica 3
 
-Permiso de conducir para
+para menor de edad.
 
-menor de edad. No aplica 2.5
+Reposición de permiso No aplica 1.75
 
-Reposición de permiso
+de conducir para menor
 
-de conducir
+de edad.
 
-para menor de edad. No aplica 1.25
-
-Licencia para conducir. 3.75 9.375
+Licencia para conducir. 3.75 9.875
 
 Reposición de licencia
 
-para conducir,
+para conducir, excepto
 
-excepto motocicleta. 1.875 5
+motocicleta. 1.875 5.5
 
-Licencia para conducir
+Licencia para conducir No aplica 3
 
-motocicleta. No aplica 2.5
+motocicleta.
 
 Reposición de licencia
 
-Para conducir
+para conducir
 
-motocicleta. No aplica 1.25
+motocicleta. No aplica 1.75
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -4021,39 +3707,33 @@ Por refrendo anual se entenderá la revalidación de la permanencia en el padró
 
 Por los servicios de control vehicular, se pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-I. Por el servicio de refrendo:
+l. Por el servicio de refrendo:
 
 TRANSPORTE TIPO UMA
 
-Automóvil, camión, autobús y 5.625
+Privado Automóvil, camión, autobús 6.975 y remolque
 
-remolque
+Motocicleta 4.475
 
-Privado Motocicleta 3.125
+Demostración 9.475
 
-Demostración 8.125
+Público Automóvil, camión y autobús 6.975
 
-Público Automóvil, camión y autobús 5.625
-
-El refrendo comprenderá la expedición de calcomanía de revalidación y la tarjeta de circulación que corresponda.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 II. Por la expedición de placas metálicas, tarjeta de circulación y engomado, realizada con motivo del alta o registro en el Padrón Vehicular Estatal o en el canje de placas cuando este ocurra:
 
 TRANSPORTE TIPO UMA
 
-Privado Automóvil, camión,
+Privado Automóvil, camión, autobús, remolque 11 .35
 
-autobús, remolque 10
+Privado Motocicleta 6.35
 
-Privado Motocicleta 5
+Privado Demostración 13.85
 
-Privado Demostración 12.5
-
-Público Automóvil, camión y autobús 13.75
+Público Automóvil, camión y autobús 15.1
 
 Cuando se expidan los documentos mencionados en el párrafo anterior con motivo del canje de placas, el costo del servicio de refrendo se entenderá incluido en las cantidades a que se refiere esta fracción;
 
@@ -4063,9 +3743,9 @@ III. La expedición de placas metálicas, tarjeta de circulación y engomado par
 
 IV. Por la baja del vehículo en el Padrón Vehicular Estatal se pagarán 2.5 UMA;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-V. Por la reposición de la tarjeta de circulación o calcomanía se pagará 1.875 UMA por cada uno de dichos conceptos. Para ello, será necesario que la unidad se encuentre al corriente en el pago del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular. En el caso de reposición de la tarjeta de circulación, se deberá presentar constancia de no infracción emitida por los sistemas de información de la Secretaría de Seguridad Ciudadana del Estado de Querétaro, y
+V. Por la reposición de la tarjeta de circulación se pagará 1.875 UMA. Para ello, será necesario que la unidad se encuentre al corriente en el pago. del impuesto sobre tenencia o uso de vehículos que corresponda y de los derechos por control vehicular. Se deberá presentar constancia de no infracción emitida por los sistemas de información de la Secretaría de Seguridad Ciudadana del Estado de Querétaro; y
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -4079,37 +3759,47 @@ Para los efectos del presente artículo, los vehículos de transporte funerario 
 
 La Dirección de Ingresos podrá sustituir las placas, tarjeta de circulación y engomados sin que se cubran los derechos a que hace referencia este Capítulo, de aquellos vehículos a los cuales se les haya asignado una combinación alfanumérica de placas metálicas de circulación, conforme a las disposiciones que para tal efecto fijó la Secretaría de Comunicaciones y Transportes, la cual coincida con la misma combinación alfanumérica asignada en anteriores canjes totales de placas metálicas de circulación a otro vehículo sobre el cual exista reporte de robo vigente. Dicha sustitución sólo procederá cuando se valide ante las autoridades de seguridad pública que el número de serie del vehículo del cual se pretende realizar dicha sustitución es diferente del que presenta reporte de robo vigente.
 
-Las propietarios, tenedores o usuarios de vehículos nuevos o usados, domiciliados en el territorio del Estado o que tengan su residencia en el mismo, deberán registrar dichos vehículos en el Padrón Vehicular Estatal, dentro de los quince días hábiles siguientes a la fecha en que adquirieron la propiedad, tenencia o uso de dichos vehículos.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Los propietarios, tenedores o usuarios de vehículos nuevos o usados, domiciliados en el territorio del Estado o que tengan su residencia en el mismo, deberán registrar dichos vehículos en el Padrón Vehicular Estatal, dentro de los quince días hábiles siguientes a la fecha en que adquirieron la propiedad, tenencia o uso de dichos vehículos.
 
 ###### Artículo 158.
 
 Las personas físicas o morales que sean propietarias o arrendatarias de unidades automotrices nuevas o usadas y pretendan inscribirlas en el Padrón Vehicular Estatal, deberán presentar en original y copia, la siguiente documentación:
 
-I. Factura original o el comprobante fiscal digital correspondiente, de acuerdo con lo siguiente:
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-A. Tratándose de vehículos nuevos, se deberá presentar, el comprobante fiscal digital relativo a la primera enajenación del mismo.
+l. El comprobante fiscal, la representación impresa del comprobante fiscal digital o el documento emitido por autoridad competente que acredite la propiedad del vehículo, documentales que deberán estar emitidas o endosadas a favor del propietario, indicando la fecha de la adquisición.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+No se aceptarán los documentos a que se refiere la presente fracción en los siguientes casos:
 
-En caso de unidades enajenadas a crédito, a falta de comprobante fiscal digital del vehículo, se deberá presentar la carta factura mediante la cual se acredite la propiedad del mismo.
+a) No indiquen el número de identificación vehicular.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+b) Presenten tachaduras, alteraciones o enmendaduras.
 
-B. En el caso de vehículos usados, se deberá presentar la factura o la representación impresa del comprobante fiscal digital de la unidad, expedida a nombre del propietario o endosada a su nombre, indicando la fecha de adquisición.
+La autoridad fiscal podrá solicitar la validación de las documentales a que se refiere esta fracción, ante las instancias competentes.
 
-Además de lo anterior, se deberá presentar la factura o comprobante fiscal digital en el que conste la primera enajenación de la unidad al consumidor.
+i) Tratándose de vehículos nuevos, se deberá presentar el comprobante fiscal digital relativo a la primera enajenación del mismo.
 
-En el supuesto de no contar con la factura de origen o copia de la misma, la Dirección de Ingresos asignará el valor del vehículo de acuerdo a los valores publicados en la Guía Autométrica que corresponda al año modelo del vehículo o, en su defecto, le asignará el valor de un vehículo con características similares, inscrito en el Padrón Vehicular Estatal.
+En caso de unidades enajenadas a crédito, se deberá presentar la representación impresa del comprobante fiscal digital correspondiente a dicha operación y la carta factura mediante la cual se acredite la propiedad del mismo.
 
-Se considerará como valor de la unidad, en el caso de vehículos facturados como seminuevos o usados por armadoras, el utilizado para determinar el primer pago del Impuesto sobre Tenencia o Uso de Vehículos, siempre y cuando este haya sido realizado por la armadora. En caso de que no se cuente con ese pago o éste se haya realizado a nombre de un particular, se aplicará lo establecido en el párrafo anterior;
+ii) En el caso de vehículos usados, se deberá presentar el comprobante fiscal, la representación impresa del comprobante fiscal digital o el documento emitido por la autoridad competente que acredite la propiedad del vehículo. Documentales que deberán estar emitidas o endosadas a favor del propietario, indicando la fecha de la adquisición.
+
+Además de lo anterior se deberá presentar la factura o comprobante fiscal digital en el que conste la primera enajenación de la unidad al consumidor.
+
+En el supuesto de que no se cuente con documento idóneo del que se desprenda el valor del vehículo, la autoridad fiscal asignará a la unidad de que se trate el valor de un vehículo con características similares, inscrito en el Padrón Vehicular Estatal.
+
+Se considerará como valor de la unidad, en el caso de vehículos facturados como seminuevos o usados por armadoras, el utilizado para determinar el primer pago del Impuesto sobre Tenencia o Uso de Vehículos, siempre y cuando éste haya sido realizado por la armadora. En caso de que no se cuente con ese pago o éste se haya realizado a nombre de un particular, se aplicará lo establecido en el párrafo anterior;
 
 II. Identificación oficial vigente con fotografía y firma del propietario del vehículo, o arrendatario. Si el propietario o arrendatario del vehículo es persona moral, deberá presentar acta constitutiva de la sociedad; documento donde conste quién es el representante legal de la sociedad e identificación oficial con fotografía y firma del representante legal. En el caso de que la persona física o el representante legal de la persona moral, no realicen personalmente el trámite, el promovente deberá presentar adicionalmente carta poder firmada por el propietario o arrendatario de la unidad o representante legal de la sociedad, firmada ante dos testigos, además de presentar original y copia de la identificación de quien otorga y recibe dicho poder, así como copia de la identificación de los dos testigos;
 
-III. Comprobante de domicilio en el Estado de Querétaro y en los casos en los que así lo determine la autoridad fiscal, constancia de residencia expedida por la autoridad municipal competente;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-IV. Presentar los comprobantes de pago del impuesto sobre tenencia o uso de vehículos respectivo, correspondientes a los últimos cinco ejercicios fiscales, incluyendo aquél en que se realice el trámite.
+III. Comprobante de domicilio en el Estado de Querétaro, emitido a nombre del propietario o arrendatario del vehículo. En caso de que dicho comprobante se encuentre emitido a favor de un tercero, se deberá atender a lo dispuesto en los criterios normativos de la autoridad fiscal;
 
-Dichos documentos estarán sujetos a validación con la autoridad emisora, previo a la inscripción en el Padrón Vehicular Estatal o, en su caso, comprobar que se encuentra libre del pago del impuesto respectivo;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+IV. Previo al registro en el Padrón Vehicular Estatal, la autoridad fiscal podrá validar los datos asentados en los registros vehiculares de otras entidades federativas;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -4123,27 +3813,67 @@ Tratándose de robo o extravío de una o ambas placas, también deberá exhibirs
 
 VI. Si el vehículo que se pretende registrar es de procedencia extranjera, se deberán presentar los documentos originales que acrediten la legal estancia del vehículo en el país o, en su caso, copia certificada emitida por las autoridades aduaneras, así como acreditar el cumplimiento de los requisitos que establezcan las disposiciones federales aplicables al caso en particular;
 
-VII. Las personas físicas o morales que pretendan realizar el cambio de propietario de vehículos nuevos o usados registrados en el Padrón Vehicular Estatal deberán presentar además de lo señalado en las fracciones I, II, III y IV del presente artículo, la factura debidamente endosada a su nombre y la tarjeta de circulación; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VII. Las personas físicas o morales que pretendan realizar el cambio de propietario de un vehículo deberán presentar además de lo señalado en las fracciones I, II y III del presente artículo, comprobante fiscal, la representación impresa del comprobante fiscal digital o el documento emitido por autoridad competente que acredite la propiedad del vehículo y la tarjeta de circulación; y
 
 VIII. Cuando derivado de un error en un movimiento al Padrón Vehicular Estatal por causas no imputables al contribuyente se deba realizar la baja y alta del vehículo, no se causarán los derechos a que hacen referencia las fracciones II, IV y VI del artículo 157 de la presente Ley.
 
 Tratándose de vehículos nuevos, el contribuyente solo deberá presentar la documentación señalada en las fracciones I, II, y III de este artículo.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-El contribuyente o su representante legal deberán presentar el vehículo cuando la autoridad fiscal lo solicite, a fin de que se cotejen los datos insertos en la documentación que se presente con el vehículo respectivo. Cuando a petición del contribuyente, la revisión física de los vehículos se realice fuera de las instalaciones de las autoridades fiscales, se causarán y pagarán 5 UMA.
+El contribuyente o su representante legal deberán presentar el vehículo a revisión física cuando la autoridad fiscal lo solicite, a fin de que se cotejen los datos insertos en la documentación que se presente con el vehículo respectivo. Cuando a petición del contribuyente, la revisión física de los vehículos se realice fuera de las instalaciones de las autoridades fiscales, se causarán y pagarán 5 UMA.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-No se aceptarán los documentos a que se refiere este artículo, cuando presenten tachaduras, enmendaduras o alteraciones.
+Se deberá presentar la constancia de revisión alfanumérica emitida por la Fiscalía General del Estado de Querétaro, cuando así lo determine la autoridad fiscal.
 
 ###### Artículo 159.
 
 Si el vehículo que se pretende registrar, cuenta con placas de circulación expedidas por la Secretaría de Comunicaciones y Transportes, el contribuyente deberá presentar, además de los requisitos contemplados en el artículo 158 de esta Ley, la tarjeta de circulación expedida por dicha Secretaría.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 160.
 
-Para la obtención de placas metálicas de circulación con características especiales deberán cumplirse los requisitos y procedimientos que mediante acuerdo establezca la Secretaría de Planeación y Finanzas, mismo que deberá publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+Para la obtención de placas metálicas de circulación, para vehículos antiguos, vehículos destinados al transporte de personas con discapacidad y vehículos de demostración, se deberán cumplir los siguientes requisitos:
+
+A. Para la obtención de placas para vehículos antiguos
+
+I. Comprobar que el vehículo para el cual se solicitan las placas mencionadas cuenta con una antigüedad mínima de 30 años;
+
+II. Presentar el documento expedido por los clubes o asociaciones de vehículos antiguos afiliados a la Federación Mexicana de Automóviles Antiguos y de Colección, A.C., en el cual conste que el vehículo conserva sus características originales;
+
+III. Presentar la documentación señalada en el artículo 158 de la presente Ley; y
+
+IV. Acreditar encontrarse al corriente en el cumplimiento de sus obligaciones fiscales estatales y federales administradas por el Estado de Querétaro.
+
+B. Para la obtención de placas para vehículos destinados al transporte de personas con discapacidad
+
+I. Entregar la constancia de discapacidad permanente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia. Si el propietario del vehículo para el cual se solicitan las placas de circulación es una persona distinta de aquella que acredita la discapacidad permanente, deberá acreditar su calidad de cónyuge o el grado de parentesco, hasta el cuarto grado, en los términos que precise el Código Civil del Estado de Querétaro;
+
+II. Presentar la identificación oficial vigente de la persona con discapacidad; y
+
+III. Adjuntar la documentación señalada en el artículo 158 de la presente Ley.
+
+Se podrá dotar de hasta dos juegos de placas por cada persona con discapacidad permanente.
+
+Las personas físicas y morales que deseen obtener dichas placas, además de adjuntar la documentación señalada en el artículo 158 de la presente Ley, deberán acreditar que su actividad se encuentra ligada al transporte o atención de personas con discapacidad, mediante el acta constitutiva, instrumento de creación o, en su caso, la constancia de situación fiscal emitida por el Servicio de Administración Tributaria o, en su caso, la concesión especial de transporte público correspondiente.
+
+La autorización de juegos de placas adicionales quedará a criterio de la autoridad fiscal.
+
+C. Para la obtención de placas de vehículos de demostración
+
+l. Solicitar por escrito la expedición de placas de vehículos de demostración, mediante promoción formulada en los términos previstos por el Código Fiscal del Estado de Querétaro; y
+
+II. Acreditar encontrarse al corriente en el cumplimiento de sus obligaciones fiscales estatales y federales administradas por el Estado de Querétaro.
+
+Podrán obtener placas de demostración, las personas morales con domicilio fiscal o sucursal ubicados en el territorio del Estado de Querétaro y que tengan el carácter de fabricantes, distribuidores autorizados, ensambladores o comerciantes de vehículos nuevos, así como aquellas relacionadas con el sector automotriz.
+
+Este tipo de placas se dotarán a los automóviles previstos en la Ley Federal del Impuesto Sobre Automóviles Nuevos, así como a los destinados para pruebas relacionadas con el sector automotriz.
+
+La autoridad fiscal podrá verificar el cumplimiento de las obligaciones en materia de placas de demostración. Cuando derivado de dicha verificación, se detecte que las placas referidas han sido utilizadas con un destino diverso para el cual fueron autorizadas, se aplicarán las sanciones previstas en el Código Fiscal del Estado de Querétaro.
 
 ###### Artículo 161.
 
@@ -4169,9 +3899,11 @@ V. La autoridad fiscal podrá dar de baja del Padrón Vehicular Estatal un vehí
 
 VI. Tratándose de trámites de baja de vehículos destinados al servicio de transporte público en el Estado, derivados de la reasignación de concesiones, bastará con la solicitud por escrito por parte de la autoridad competente.
 
-El trámite de baja señalado en el párrafo anterior, no causará los derechos señalados en la fracción IV del artículo 157 de la presente Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Las bajas de vehículos señaladas en las fracciones III, IV y V, no causarán los derechos que establece la fracción IV del artículo 157 de la presente Ley.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Las bajas de vehículos señaladas en las fracciones III, IV, V y VI, no causarán los derechos que establece la fracción IV del artículo 157 de la presente Ley.
 
 ###### Artículo 163.
 
@@ -4259,8 +3991,6 @@ Tratándose de solicitudes que requieran la expedición de copias certificadas, 
 
 ### Capítulo Décimo Séptimo. Por los servicios prestados por el Estado en Materia de Transporte Público
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
 ###### Artículo 167.
 
 Por los servicios de suscripción al Padrón de Proveedores de la Administración Pública Estatal, prestados por la Oficialía Mayor, se causarán y pagarán 5 UMA, tratándose de personas físicas y 12.5 UMA, en el caso de personas morales.
@@ -4271,27 +4001,7 @@ Por los servicios de suscripción al Padrón de Proveedores de la Administració
 
 Por los servicios prestados por la Secretaría de Desarrollo Sustentable, se causarán y pagarán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-I. Por las autorizaciones para operar centros de verificación vehicular en modalidad estatal, se pagarán:
-
-ZONA I ZONA II ZONA III
-
-Cadereyta de Jalpan de Serra,
-
-Querétaro, San Montes, Landa de
-
-Juan del Río, Ezequiel Montes, Matamoros,
-
-Corregidora y Tequisquiapan, Peñamiller, Pinal de
-
-El Marqués Pedro Escobedo, Amoles, San Joaquín,
-
-Huimilpan y Arroyo Seco,
-
-Amealco Tolimán y Colón
-
-400 UMA 225 UMA 143.75 UMA
+l. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -4321,9 +4031,7 @@ Para los efectos de este artículo, se entenderá por centros de verificación v
 
 III. Por la expedición de constancia de la emisión de certificado de verificación vehicular se pagarán 0.75 UMA;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-IV. Por cada certificado y holograma de verificación vehicular tipo estatal de que se dote a los centros de verificación autorizados, se pagará el equivalente a 0.91 UMA;
+IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -4337,9 +4045,9 @@ VI. Por cada certificado y holograma de verificación vehicular tipo doble cero 
 
 VII. Por cada certificado y holograma de verificación vehicular tipo 1 de que se dote a los centros de verificación autorizados, se pagará el equivalente a 1.5 UMA;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-VIII. Por cada certificado y holograma de verificación vehicular tipo 2 de que se dote a los centros de verificación autorizados, se pagará el equivalente a 1.25 UMA;
+VIII. Por cada certificado y holograma de verificación vehicular tipo 2 de que se dote a los centros de verificación autorizados, se pagará el equivalente a 0.80 UMA;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -4441,7 +4149,7 @@ a) General, 2.8875 UMA, y
 
 b) Menores de 12 años y personas adultas mayores, 2.3125 UMA.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 169 Bis.
 
@@ -4503,11 +4211,11 @@ Postes unifila/listón rojo 1
 
 Rotafolio 4
 
-Tablón medio 1
+Tablón medio con paño 1
 
 Tablón completo 1
 
-Tablón redondo 1
+Tablón redondo con paño 1
 
 Paño mantel 1
 
@@ -4579,7 +4287,69 @@ Uso de plugg (trifásico) 250 VCA, 100A, 3PH, 3P 6
 
 Espacio para exhibición de vehículos 24
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+Lobbie PB-P 481.20
+
+Lobbie PB-O 481.20
+
+Lobbie PB 926.41
+
+Lobbie N1-P - 94.66
+
+Lobbie N1-O 164.08
+
+Lobbie N3-P 136.31
+
+Lobbie N3-O 132.53
+
+Vestíbulo Exterior 340.26
+
+Sala A Tarifa 24 horas 1971.04
+
+Sala B Tarifa 24 horas 797.27
+
+Sala C Tarifa 24 horas 398.64
+
+Sala D Tarifa 24 horas 383.87
+
+Pasillo PB Tarifa 24 hora 391 .26
+
+Gran Salón Querétaro Tarifa 24 horas 3942.08
+
+Terraza PB Tarifa 24 horas 645.94
+
+Salón Corregidora Tarifa 24 horas 819.42
+
+Salón Corregidor Tarifa 24 horas 516.75
+
+Pasillo N3B Tarifa 24 horas 258.38
+
+Salón Casa de los Corregidores
+
+Tarifa 24 horas 1593.95
+
+Acueducto 301 Tarifa 24 horas 74.44
+
+Acueducto 302 Tarifa 24 horas 81.20
+
+Acueducto 303 Tarifa 24 horas 81.20
+
+Acueducto 304 Tarifa 24 horas 101 .50
+
+Acueducto 305 Tarifa 24 horas 101 .50
+
+Acueducto 306 Tarifa 24 horas 81.20
+
+Acueducto 307 Tarifa 24 horas 81.20
+
+Acueducto 308 Tarifa 24 horas 74.44
+
+Acueductos 301-308 Tarifa 24 horas 848.95
+
+Silla Valenciana 0.245
+
+Silla Parma 0.245
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 169 Ter.
 
@@ -4617,21 +4387,31 @@ Sillón doble café 8
 
 Pódium 6
 
-Eslinga 2 m 2
+Eslinga 2m 2
 
-Eslinga 3 m 2
+Eslinga 3m 2
 
-Micrófono inalámbrico Sennheiser md 5235 5
+Micrófono inalámbrico
 
-Micrófono Sennheiser mkh416 ambiental 2
+Sennheiser md 5235 5
+
+Micrófono Sennheiser mkh416
+
+ambiental 2
 
 Micrófono electrovoice rs27 2
 
-Micrófono inalámbrico tipo Lavalier Sennheiser MZ-2 Gold 6
+-Micrófono inalámbrico tipo
 
-Micrófono inalámbrico tipo Lavalier con solapa Countryman 6
+Lavalier Sennheiser MZ-2 Gold 6
 
-Micrófono ambiental Countryman M2H 3
+Micrófono inalámbrico tipo
+
+Lavalier con solapa Countryman 6
+
+Micrófono ambiental Countryman
+
+M2H 3
 
 Caja directa Klark Teknik 2
 
@@ -4653,21 +4433,31 @@ Micrófono Shure Beta 87 2
 
 Subsnake ramtech 12 canales 2
 
-Monitor de piso electrovoice plasma P1 5
+Monitor de piso electrovoice
 
-Monitor de piso electrovoice plasma P2 5
+plasma P1 5
+
+Monitor de piso electrovoice
+
+plasma P2 5
 
 Consola Yamaha M7CL 48 CH 64
 
 Consola Yamaha LS9 32 CH 24
 
-Sistema de Monitoreo Psm 700 Shure 11
+Sistema de Monitoreo Psm 700
 
-Video proyector Eiky 15 mil lúmenes 160
+Shure 11
 
-Cabeza móvil de iluminación robótica
+Video proyector Eiky 15 mil
 
-Clay Paky1 Alpha Whas halo 1200/Dts Whash 19
+Lúmenes 160
+
+Cabeza móvil de iluminación
+
+robótica Clay Paky1 Alpha Whas
+
+halo 1200/Dts Whash 19
 
 Leeko 25/50 3
 
@@ -4683,9 +4473,13 @@ Leeko 14 2
 
 Par 64 2
 
-Máquina de niebla Hazer marca Lemaitre 7
+Máquina de niebla Hazer marca
 
-Leeko robótico ETC modelo Revolution Original 10
+Lemaitre 7
+
+Leeko robótico ETC modelo
+
+Revolution Original 10
 
 Grúa 27
 
@@ -4697,13 +4491,29 @@ Servicio de líneas telefónicas 6
 
 Uso de instalación eléctrica 38
 
-Uso de instalación eléctrica 220V/30A/3F 23
+Uso de instalación eléctrica
+
+220V/30A/3F 23
 
 Centro de carga 8
 
-Cable de 4 líneas camlook para centro de carga 6
+Cable de 4 líneas camlook para
 
-Espacio para exhibición de vehículos 24
+centro de carga 6
+
+Espacio para exhibición de
+
+vehículos 24
+
+Terraza Tarifa 24 horas. 252.22
+
+Tablón Redondo con Paño 1
+
+Silla Valenciana 0.245
+
+Silla Parma 0.245
+
+Tablón Medio con Paño 1
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -4773,297 +4583,17 @@ Tratándose de solicitudes formuladas en los términos de la Ley de Transparenci
 
 Cuando la información objeto de la petición se encuentre en sistemas informáticos y sea necesario procesarla, el cobro de su procesamiento, será el equivalente al que corresponda por cada hoja digitalizada, en términos de este artículo.
 
-> <small>(REFORMADA SU DENOMINACIÓ, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 172 Bis.
 
-Por los servicios que presta el Estado en materia de transporte público, se causarán y pagarán los siguientes derechos:
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-I. Por los servicios prestados en materia de concesiones de transporte público:
-
-CONCEPTO UMA
-
-Por el estudio y, en su caso, trámite de la solicitud 1
-
-de concesión de servicio público o especial
-
-de transporte en cualquiera de sus modalidades
-
-o por su regularización.
-
-Por el refrendo anual de una concesión de servicio 60
-
-público de transporte en la modalidad de servicio
-
-colectivo.
-
-Por el refrendo anual de una concesión de servicio 40
-
-público de transporte en la modalidad de taxi, mixto,
-
-salvamento y arrastre; así como de servicio especial
-
-de transporte en cualquiera de sus modalidades.
-
-Por el refrendo anual de una concesión de servicio 100
-
-público auxiliar de depósito y guarda de vehículos.
-
-Por el refrendo anual extemporáneo de una concesión 88
-
-de servicio público de transporte en la modalidad de
-
-servicio colectivo.
-
-Por el refrendo anual extemporáneo de una concesión 60
-
-de servicio público de transporte en la modalidad de
-
-taxi, mixto, salvamento y arrastre; así como de servicio
-
-especial de transporte en cualquiera de sus modalidades.
-
-Por el refrendo anual extemporáneo de una concesión 120
-
-de servicio público de depósito y guarda de vehículos.
-
-Por la expedición del título de concesión de servicio 184
-
-público de transporte en la modalidad de servicio
-
-colectivo.
-
-Por la expedición del título de concesión de servicio 120
-
-público de transporte en la modalidad de taxi, mixto,
-
-salvamento y arrastre; así como de servicio especial
-
-de transporte en cualquiera de sus modalidades.
-
-Por la expedición de un nuevo título de concesión de 90
-
-servicio público o especial de transporte en cualquiera
-
-de sus modalidades, con motivo del cambio de titular
-
-por la incapacidad física o mental, declaración de
-
-ausencia o fallecimiento del concesionario.
-
-Por la expedición de título de concesión de guarda y 120
-
-depósito.
-
-Por la consolidación de una concesión de servicio 90
-
-público de transporte en cualquiera de sus modalidades,
-
-a solicitud de parte interesada.
-
-Por la reposición de un título de concesión de servicio 30
-
-público o especial de transporte en cualquiera de sus
-
-modalidades.
-
-Por cesión de derechos a cualquier persona de los 315
-
-designados como beneficiarios en términos de lo
-
-estipulado en el artículo 131 de la Ley de Movilidad
-
-para el Transporte del estado de Querétaro.
-
-Por la cesión de derechos a un tercero 550
-
-Por la reposición de holograma 1
-
-Por el refrendo extemporáneo, se pagará de manera 50
-
-adicional a los derechos que correspondan para cada
-
-modalidad del servicio de transporte, se pagarán los
-
-siguientes derechos:
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-II. Por la revisión física y mecánica de los vehículos destinados al servicio público o especial de transporte en cualquiera de sus modalidades, tanto para el refrendo anual de una concesión, como para el alta o baja de vehículos concesionados o con permiso:
-
-MODALIDAD ZONA
-
-1 2
-
-UMA
-
-Colectivo 30 20
-
-Taxi, mixto, salvamento y arrastre, 22 15
-
-escolar, de personal, turístico, para
-
-personas con discapacidad y de carga.
-
-Para efectos de este artículo, la zona 1 comprende los municipios de Amealco de Bonfil, Corregidora, El Marqués, Huimilpan, Pedro Escobedo, Querétaro, San Juan del Río y Tequisquiapan y la zona 2 comprende los municipios de Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Jalpan de Serra, Landa de Matamoros, Peñamiller, Pinal de Amoles, San Joaquín y Tolimán;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-III. Por la revisión de las instalaciones para prestar el servicio de depósito y guarda de vehículos; 22 UMA;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-IV. Por la tramitación y en su caso, expedición de autorización para instalar publicidad en vehículos de transporte público, con vigencia de hasta un año, por cada mes de la vigencia solicitada:
-
-TIPO DE PUBLICIDAD UMA
-
-Lateral Colectivo. 5
-
-Posterior Colectivo. 5
-
-Integral Colectivo. 10
-
-Posterior-Interior Colectivo 10
-
-Integral Interior Colectivo 10
-
-Taxi Exterior 5
-
-Taxi Lateral interior 5
-
-Otros medios electrónicos para 5
-
-transmitir publicidad al usuario.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-V. Por la tramitación, estudio de campo y diagnóstico de factibilidad para autorización de modificación de ruta de transporte público colectivo; 50 UMA.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-VI. Por la modificación de ruta de transporte público colectivo; 10 UMA.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-VII. Por la tramitación y expedición de un permiso temporal de hasta por 6 meses de un servicio de transporte público o especial de transporte en cualquiera de sus modalidades, cuando exista una necesidad de servicio inmediata o emergente, 30 UMA. En caso de que la vigencia del citado permiso sea hasta 30 días, 5 UMA. Más de 30 días y hasta 6 meses, 30 UMA. Por la inscripción de permisionarios, 1 UMA. Por la inscripción del permiso, 1 UMA;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-VIII. Por la expedición de la identificación de conductor de vehículo de servicio público o especial de transporte en cualquiera de sus modalidades, 1 UMA;
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-IX. Por la expedición de constancia de no infracción a la Ley de Movilidad para el Transporte del Estado de Querétaro, 2 UMA, y
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
-
-X. Por la expedición de permiso anual para el servicio privado de transporte de pasajeros, a través de empresas que operen, utilicen y/o administren aplicaciones, para el control, programación, y/o geolocalización en dispositivos fijos o móviles, 50 UMA por vehículo.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ### Capítulo Primero. De los Aprovechamientos
 
 ###### Artículo 172 Ter.
 
-Por los servicios relativos en materia del Registro Público de Transporte, se causarán y pagarán derechos, de conformidad con las siguientes cuotas:
-
-CONCEPTO UMA
-
-Por la inscripción del concesionario de servicio 1
-
-público o especial de transporte, en cualquiera
-
-de sus modalidades, así como por la modificación
-
-de sus datos en dicho registro.
-
-Por la inscripción de título de concesión de servicio 1
-
-público o especial de transporte, en cualquiera de sus
-
-modalidades.
-
-Por la expedición de constancia de concesión de 5
-
-servicio público o especial de transporte, en
-
-cualquiera de sus modalidades.
-
-Por la inscripción de resolución administrativa de 5
-
-otorgamiento de una ruta e itinerario de un servicio
-
-público colectivo de transporte.
-
-Por la inscripción de la transmisión de concesión 1
-
-de servicio público o especial de transporte, en
-
-cualquiera de sus modalidades.
-
-Por la inscripción de prórroga de una concesión 5
-
-de servicio público o especial de transporte, en
-
-cualquier modalidad.
-
-Por la inscripción de sentencia judicial o administrativa 1
-
-en la que se ordene la modificación, cancelación o
-
-rectificación de una concesión de servicio público o
-
-especial de transporte, en cualquiera de sus modalidades.
-
-Por la inscripción de conductor de vehículo destinado 1
-
-al servicio público o especial de transporte, en cualquiera
-
-de sus modalidades.
-
-Por la inscripción de alta o baja de vehículo amparado 1
-
-por una concesión de servicio público o especial de
-
-transporte, en cualquiera de sus modalidades.
-
-Por la inscripción de refrendo autorizado de una 1
-
-concesión de servicio público o especial de
-
-transporte, en cualquiera de sus modalidades.
-
-Por la inscripción de la designación de beneficiarios 1
-
-por persona física titular de una concesión de servicio
-
-público o especial de transporte, en cualquiera de sus
-
-modalidades.
-
-Por la modificación de beneficiarios 1
-
-Por la inscripción de la resolución administrativa que 5
-
-determine la reasignación y, en su caso, la consolidación
-
-de una concesión de servicio público o especial de
-
-transporte, en cualquiera de sus modalidades.
-
-Por la resolución administrativa por cambio de 5
-
-nomenclatura
-
-Por cambio de propietario 1
-
-Por la reposición de tarjeta preferencial de prepago 0.5
-
-Por la expedición de copias simples, por cada hoja 0.008
-
-Por la certificación de copias 1
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ### Capítulo Segundo. De las Contribuciones Especiales
 
@@ -5754,3 +5284,111 @@ La presente Ley entrará en vigor el día de su publicación en el Periódico Of
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el 1 de enero de 2018, considerando lo previsto en los párrafos subsecuentes.
+
+La reforma y adición al artículo 6 bis de la Ley de Deuda Pública del Estado de Querétaro, iniciará su vigencia a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Lo dispuesto en el artículo 150 de la Ley de Hacienda del Estado de Querétaro, estará en vigor hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción establezca la operación del Sistema nacional de Servidores públicos y particulares sancionados, previsto por el artículo 49, fracción III, de la Ley General del Sistema Nacional Anticorrupción.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2018, serán las siguientes:
+
+l. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
+
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+VIII. Se cancelan los créditos fiscales por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2017, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular, previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2013 y anteriores;
+
+IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial;
+
+X. De los recursos que se obtengan por los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.50 UMA, por cada pago que se realice por dicho concepto, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
+
+XI. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, del setenta y cinco por ciento;
+
+XII. De los recursos que se obtengan por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.50 UMA, por cada pago que se realice por dicho concepto, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
+
+XIII. De los recursos que se obtengan por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.85 UMA, por cada pago que se realice por dicho concepto, se destinarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía, prioritariamente al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga";
+
+XIV. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad, con motivo del pago de los derechos a que hace referencia el primer párrafo de esta fracción;
+
+b) El medio de defensa no haya sido extemporáneo;
+
+c) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal; y
+
+d) El particular presente ante las autoridades jurisdiccionales competentes el escrito mediante el cual se desista del medio de defensa señalado en el inciso a) de esta fracción.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal del Estado, se generará la orden de pago correspondiente.
+
+La restitución prevista en esta fracción podrá realizarse antes de que se dicte sentencia que ponga fin al medio de defensa mencionado;
+
+XV. Las tarjetas de circulación a que hace referencia el artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014, 2015, 2016 y 2017 continuarán vigentes hasta el 31 de marzo de 2019.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2018, por los servicios de control vehicular y del Impuesto Sobre Tenencia o Uso de Vehículos que contempla la referida ley.
+
+Los citados contribuyentes, tenedores o usuarios, deberán comprobar la vigencia de las tarjetas de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el comprobante de pago respectivo;
+
+XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
+
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del Impuesto Sobre Loterías, Rifas, Sorteos, Concursos y Juegos con Apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir del 1° de enero del 2015; y
+
+XVIII. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
+
+Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
