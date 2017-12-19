@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2017-12-01"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -3511,7 +3511,9 @@ Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta d�
 
 Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien amenace o agreda a un servidor público en el momento de ejercer sus funciones o con motivo de ellas.
 
-### CAPÍTULO I. FRACCIONAMIENTO INDEBIDO
+### CAPÍTULO IX. DELITOS COMETIDOS POR SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 332.
 
@@ -3521,7 +3523,7 @@ Los servidores públicos que cometan los ilícitos previstos en el presente Tít
 
 ## TÍTULO XIX. DELITOS CONTRA EL DESARROLLO URBANO Y EL DERECHO A LA VIVIENDA
 
-### CAPÍTULO II. VENTA O PROMESA DE VENTA INDEBIDA
+### CAPÍTULO I. FRACCIONAMIENTO INDEBIDO
 
 ###### Artículo 333.
 
@@ -3549,15 +3551,13 @@ A quien se retracte espontáneamente de sus falsas declaraciones rendidas ante l
 
 Si la declaración falsa hubiere sido elemento de convicción para la imposición de sanción privativa de libertad, existiendo posterior reconocimiento de inocencia del inculpado, al falso declarante se le impondrán de tres a diez años de prisión y multa hasta de cien días de salario.
 
-### CAPÍTULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO II. VENTA O PROMESA DE VENTA INDEBIDA
 
 ###### Artículo 337.
 
 A quien simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial o administrativa, de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrán de seis meses a cinco años de prisión y multa hasta de cuarenta días de salario.
 
-### CAPÍTULO I. DE LOS DELITOS ELECTORALES
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
 ###### Artículo 338.
 
@@ -3565,7 +3565,9 @@ A quien ante la autoridad impute falsamente a una persona un hecho calificado co
 
 No se procederá contra el probable responsable sino una vez pronunciada sentencia absolutoria o acto de sobreseimiento que causen ejecutoria o hubiere reconocimiento de inocencia del inculpado.
 
-### CAPÍTULO II
+### CAPÍTULO I. DE LOS DELITOS ELECTORALES
+
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 339.
 
@@ -3589,9 +3591,7 @@ A los servidores públicos que ilegalmente permitan la salida temporal de las pe
 
 Si la reaprehensión del evadido se lograre por informes proporcionados por el responsable de la evasión, las sanciones se reducirán hasta en dos terceras partes de las previstas.
 
-### CAPÍTULO I. VIOLENCIA FÍSICA O PSICOLÓGICA
-
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+### CAPÍTULO II
 
 ###### Artículo 344.
 
@@ -3611,7 +3611,7 @@ II. El cónyuge, concubina o concubinario y parientes colaterales por consanguin
 
 III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad.
 
-### CAPÍTULO II. VIOLENCIA ECONÓMICA O PATRIMONIAL
+### CAPÍTULO I. VIOLENCIA FÍSICA O PSICOLÓGICA
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3619,7 +3619,7 @@ III. Los que estén ligados con el delincuente por amor, respeto, gratitud o est
 
 A quien quebrante una sanción de privación, suspensión o inhabilitación de derechos se le impondrá multa hasta de ciento cincuenta días de salario. En caso de reincidencia, se duplicará la multa y se impondrá prisión de seis meses a dos años.
 
-### CAPÍTULO III. VIOLENCIA OBSTÉTRICA
+### CAPÍTULO II. VIOLENCIA ECONÓMICA O PATRIMONIAL
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3627,7 +3627,7 @@ A quien quebrante una sanción de privación, suspensión o inhabilitación de d
 
 A quien altere, modifique, cambie, obstruya o destruya, mueva o manipule de cualquier forma los vestigios, huellas, objetos, instrumentos o cadáveres que se encuentren en el lugar de los hechos como resultado de la acción u omisión delictivas, se le impondrán de seis meses a tres años de prisión y multa hasta de cincuenta días de salario.
 
-### CAPÍTULO IV. VIOLENCIA EN EL ÁMBITO FAMILIAR
+### CAPÍTULO III. VIOLENCIA OBSTÉTRICA
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3637,13 +3637,95 @@ Al servidor público que, por cualquier medio, facilite información sobre manda
 
 Igual sanción se aplicará al servidor público que indebidamente quebrante la reserva de las actuaciones o proporcione copia de ellas o de los documentos que obren en la investigación ministerial.
 
-### CAPÍTULO V. VIOLENCIA INSTITUCIONAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO IV. VIOLENCIA EN EL ÁMBITO FAMILIAR
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
+###### Artículo 348 Bis.
+
+Comete el delito de prevaricación el servidor público que dolosamente:
+
+I. Dicte una resolución de fondo o una sentencia definitiva que sean ilícitas por violar algún precepto terminante de la ley;
+
+II. Dicte una resolución de fondo o una sentencia definitiva que sean ilícitas por ser contrarias a las actuaciones seguidas en juicio; o
+
+III. Omita dictar una resolución de trámite, de fondo o una sentencia definitiva lícita, dentro de los términos dispuestos en la ley.
+
+Al responsable de este delito se le impondrá de cuatro a diez años de prisión, multa de cien a quinientas Unidades de Medida y Actualización, y destitución e inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 348 Ter.
+
+Se equipara a la prevaricación y se sancionará como tal al servidor público que, por motivos injustificados:
+
+I. Ejecute actos o incurra en omisiones que produzcan un daño o concedan a alguien una ventaja indebida;
+
+II. Oculte al imputado el nombre de quien le acusa, salvo en los casos previstos, por la ley, no le dé a conocer el delito que se le atribuye o no realice el descubrimiento probatorio conforme a lo que se establece (sic) el Código Nacional de Procedimientos Penales;
+
+III. No dicte auto de vinculación a proceso o de libertad a un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a disposición, a no ser que el imputado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo;
+
+IV. Abra proceso penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley; o
+
+V. Admita o nombre un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos correspondientes.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 348 Quater.
+
+Comete el delito contra la procuración de justicia el servidor público que indebidamente:
+
+I. Detenga a un individuo fuera de los casos señalados por la ley, o lo retenga por más tiempo que el señalado por la Constitución;
+
+II. Se abstenga de iniciar la investigación correspondiente, cuando sea puesta a su disposición una persona por un delito doloso que sea perseguible de oficio;
+
+III. Se abstenga de ejercer la acción penal que corresponda de una persona que se encuentre detenida a su disposición como imputado de algún delito, cuando esta sea procedente conforme a la Constitución y a las leyes de la materia, en los casos en que la ley les imponga esa obligación;
+
+IV. Ejercite la acción penal cuando no proceda denuncia, querella u otro requisito equivalente;
+
+V. Desvíe u obstaculice la investigación del hecho delictuoso de que se trate o favorezca que el imputado se sustraiga a la acción de la justicia; o
+
+VI. Realice la aprehensión sin poner al detenido a disposición del juez en el término señalado por el artículo 16 de la Constitución.
+
+A quien cometa los delitos previstos en las fracciones II, III y IV, se le impondrá pena de prisión de tres a ocho años, multa de cincuenta a doscientas Unidades de Medida y Actualización, y destitución e inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos.
+
+A quien cometa los delitos previstos en las fracciones I, V y VI, se le impondrán de cuatro a diez años de prisión, multa de cien a quinientas Unidas (sic) de Medida y Actualización, y destitución e inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 348 Quinquies.
+
+Comete el delito contra la administración de justicia el servidor público que a sabiendas:
+
+I. Conozca de negocios para los cuales tenga impedimento legal o se abstenga de conocer de los que le corresponda, sin tener impedimento legal para ello;
+
+II. Dirija o aconseje a las personas que ante ellos litiguen;
+
+III. Retarde o entorpezca maliciosamente o por negligencia la administración de justicia;
+
+IV. Ordene la aprehensión de un individuo por delito que no amerite pena privativa de libertad, o en casos en que no proceda denuncia, querella u otro requisito equivalente;
+
+V. No ordene la libertad de un imputado, decretando su vinculación a proceso, cuando sea acusado por delito o modalidad que tenga señalada pena no privativa de libertad o alternativa;
+
+VI. Prolongue la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motive el procedimiento;
+
+VII. Demore injustificadamente el cumplimiento de las resoluciones judiciales, en las que se ordene poner en libertad a un detenido;
+
+VIII. Ordene o practique cateos o visitas domiciliarias fuera de los casos autorizados por la ley;
+
+IX. Imponga gabelas o contribuciones en cualesquiera lugares de detención o internamiento, o cobre cualquier cantidad a los imputados, sentenciados o a sus familiares, a cambio de proporcionarles bienes o servicios que gratuitamente brinde el Estado para otorgarles condiciones de privilegio en el alojamiento, alimentación o régimen; o
+
+X. Obligue al imputado a declarar.
+
+A quien cometa los delitos previstos en las fracciones I, II, III, IV, VIII y IX, se le impondrá pena de prisión de tres a ocho años, multa de cincuenta a doscientas Unidades de Medida y Actualización, y destitución e inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos.
+
+A quien cometa los delitos previstos en las fracciones V, VI, VII y X, se le impondrán de cuatro a diez años de prisión, multa de cien a quinientas Unidas (sic) de Medida y Actualización, y destitución e inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos.
+
 ## TÍTULO XX. DELITOS CONTRA LA FUNCIÓN ELECTORAL
 
-### CAPÍTULO VI. VIOLENCIA LABORAL
+### CAPÍTULO V. VIOLENCIA INSTITUCIONAL
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3651,7 +3733,7 @@ Igual sanción se aplicará al servidor público que indebidamente quebrante la 
 
 Se impondrán de tres a diez años de prisión y multa hasta de mil días de salario a quien, sin contar con el permiso o la licencia de la autoridad correspondiente, inicie obra de construcción de fraccionamiento o de lotificación.
 
-### CAPÍTULO VII. VIOLENCIA EN EL ÁMBITO EDUCATIVO
+### CAPÍTULO VI. VIOLENCIA LABORAL
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3663,9 +3745,9 @@ I. Venda o prometa vender lotes de fraccionamiento o de lotificaciones; o
 
 II. Venda o prometa vender construcciones ubicadas en conjuntos habitacionales.
 
-### CAPÍTULO VII BIS. FEMINICIDIO
+### CAPÍTULO VII. VIOLENCIA EN EL ÁMBITO EDUCATIVO
 
-> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 351.
 
@@ -3675,7 +3757,9 @@ Estos delitos se perseguirán por querella del particular afectado o de la autor
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
+### CAPÍTULO VII BIS. FEMINICIDIO
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 352.
 
@@ -3707,9 +3791,7 @@ Los delitos electorales en el Estado serán los previstos en la Ley General en M
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
-
-> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
+### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 359.
 
@@ -3725,9 +3807,9 @@ Los delitos electorales en el Estado serán los previstos en la Ley General en M
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA G.O. 27 DE AGOSTO DE 2010)</small>
 
-### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
+### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 361.
 
@@ -3737,9 +3819,9 @@ Si la víctima estuviere embarazada o en período de puerperio, la sanción se i
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
 
-> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 362.
 
@@ -3748,6 +3830,10 @@ A quien realice actos que afecten los bienes comunes de la pareja o el patrimoni
 En caso de que los actos señalados en el párrafo anterior estuvieren dirigidos a privar a la mujer de los medios económicos indispensables para su subsistencia, o a impedirle satisfacer sus necesidades básicas o las de su familia, la sanción se incrementará en un tercio.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+
+### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+
+> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 363.
 
@@ -4501,15 +4587,13 @@ Segundo. En la aplicación del presente Decreto de reforma se empleará el princ
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 4o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+G.O. 19 DE DICIEMBRE DE 2017.
 
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 368 QUE ADICIONA EL CAPÍTULO IX DENOMINADO "DELITOS COMETIDOS POR SERVIDORES PÚBLICOS", CON LOS ARTÍCULOS 348 BIS, 348 TER, 348 QUATER Y 348 QUINQUIES, AL TÍTULO XVIII "DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA" DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
-Segundo. El Congreso de la Unión deberá armonizar el marco jurídico en la materia para adecuarlo al contenido del presente Decreto en un plazo que no excederá de 365 días a partir de la entrada en vigor del mismo, debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como la concurrencia de los tres órdenes de gobierno para garantizar los derechos derivados del presente Decreto.
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
-Tercero. El monto de los recursos asignados, en el Presupuesto de Egresos de la Federación y en el presupuesto de las entidades federativas del ejercicio fiscal que corresponda, para los programas de atención médica y medicamentos gratuitos, de apoyo económico para personas que tengan discapacidad permanente, de pensiones para personas adultas mayores, y de becas para estudiantes que se encuentren en condición de pobreza, no podrá ser disminuido, en términos reales, respecto del que se haya asignado en el ejercicio fiscal inmediato anterior.
-
-D.O.F. 18 DE DICIEMBRE DE 2020.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DECLARA REFORMADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE MOVILIDAD Y SEGURIDAD VIAL".]
 
