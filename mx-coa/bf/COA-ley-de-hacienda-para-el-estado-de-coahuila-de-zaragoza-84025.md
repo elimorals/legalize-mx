@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2017-03-17"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -389,9 +389,9 @@ I. Las erogaciones que se cubran por concepto de:
 
 II. Las erogaciones que efectúen:
 
-1. Instituciones sin fines de lucro conformadas como Asociación Civil, que promuevan o realicen asistencia social;
+1. (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
-2. Sindicatos de trabajadores, agrupaciones de empresarios o de propietarios en cámaras, uniones o asociaciones, agrupaciones de profesionistas en institutos, colegios o asociaciones sin fines de lucro;
+2. (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 3. Partidos y asociaciones políticas constituidos conforme a la ley de la materia;
 
@@ -401,9 +401,9 @@ II. Las erogaciones que efectúen:
 
 6. La empresa social, constituida por avecindados e hijos de ejidatarios con derechos a salvo;
 
-7. Las asociaciones rurales de interés colectivo; y
+7. (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
-8. La unidad agrícola industrial de la mujer campesina.
+8. (DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
@@ -761,55 +761,55 @@ TARIFA
 
 I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse ésta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $71.00 (SESENTA Y UN PESOS 00/100 M.N.).
 
-II. La inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, pagarán por la inscripción o registro como cuota $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+II. Se pagará una cuota de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.) en los siguientes supuestos:
+
+1). Por la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, aun cuando el valor del documento a inscribir sea indeterminado.
+
+2). Por la inscripción de la escritura constitutiva de sociedades civiles y asociaciones de carácter civil, así como cualquier modificación a la escritura constitutiva.
+
+3). Los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento.
+
+4). La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos del dominio; los que limiten el dominio del vendedor, del embargo, así como de cédulas hipotecarias, de servidumbres y de fianzas.
+
+5). Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales.
+
+6). Cuando las inscripciones a que se refiere el primer párrafo del artículo 79, se deriven de la inscripción de actos jurídicos por los que se deban pagar los derechos establecidos en el artículo 82 fracción IV y 82-A, de la Sección de Comercio.
+
+7). La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan el capital y sólo sean consecuencia legal de contratos que se otorguen por las mismas partes que figuran en la primera escritura, sin aumentar el capital ni transferir derechos.
+
+8). La inscripción del título o contrato cuando se aumente el capital o se transfiera algún derecho.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 79-A.
 
-En la inscripción o registro de los documentos que se describen en el artículo anterior, si el valor excede de $300,000.00 (TRESCIENTOS MIL PESOS 00/100 M.N.), se pagará adicionalmente por lo que exceda de dicha cantidad el 6 al millar.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+En la inscripción o registro de los documentos que se describen en la fracción II incisos 1), 4) y 8) del artículo anterior, si el valor de la operación que se contenga en el documento excede de $300,000.00 (TRESCIENTOS MIL PESOS 00/100 M.N.), se pagará adicionalmente por lo que exceda de dicha cantidad el 6 al millar.
 
 ###### ARTICULO 79-B.
 
-Cuando el valor del documento a inscribir sea indeterminado, se pagarán $1,648.00 (UN MIL SEISCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.).
-
-Cuando una parte del valor sea determinada y la otra indeterminada se pagará por cada parte lo que corresponde, con arreglo a lo dispuesto en este artículo y a los artículos 79 y 79-A.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 79-C.
 
-La inscripción de la escritura constitutiva de sociedades civiles y asociaciones de carácter civil, así como cualquier modificación a la escritura constitutiva $71.00 (SETENTA Y UN PESOS 00/100 M.N.), por hoja.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 79-D.
 
-Los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento, lo que resulte mayor entre el 25% de los derechos que se hayan causado por la primera inscripción o $71.00 (SETENTA Y UN PESOS 00/100 M.N.), por hoja.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 79-E.
 
-La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos del dominio; los que limiten el dominio del vendedor, del embargo, así como de cédulas hipotecarias, de servidumbres y de fianzas, se pagarán conforme a la fracción II, del artículo 79 y al artículo 79-A de esta ley;
-
-Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales, se pagarán $71.00 (SETENTA Y UN PESOS 00/100 M.N.) por hoja;
-
-Cuando las inscripciones a que se refiere el primer párrafo del artículo 79, se deriven de la inscripción de actos jurídicos por los que se deban pagar los derechos establecidos en el artículo 82 fracción IV y 82-A, de la Sección de Comercio, se pagarán $71.00 (SETENTA Y UN PESOS 00/100 M.N.); por hoja.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 79-F.
 
-La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan el capital y sólo sean consecuencia legal de contratos que causaron derechos de registro y se otorguen por las mismas partes que figuran en la primera escritura, sin aumentar el capital ni transferir derechos, $71.00 (SETENTA Y UN PESOS 00/100 M.N.) por hoja.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 79-G.
 
-La inscripción del título o contrato a que se refiere el artículo anterior, cuando se aumente el capital o se transfiera algún derecho, se pagará conforme a la fracción II del artículo 79 y al artículo 79-A, sobre el importe del aumento del capital o del derecho que se transfiera.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -839,13 +839,15 @@ VI. La expedición de certificados o certificaciones relativos a las constancias
 
 5. Otros certificados y certificaciones $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
 
-VII. La cancelación de inscripciones en el Registro causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $79.00 (SETENTA Y NUEVE PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-En caso de que no se conozca el importe de los derechos pagados para su inscripción, se causará el 10% de los que corresponderían por su inscripción.
+VII. La cancelación de inscripciones en el Registro causará el 10% de los derechos que se causaron por su inscripción.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 VIII. La inscripción de declaración unilateral de voluntad en que se contenga la lotificación de un fraccionamiento, por lote $58.00 (CINCUENTA Y OCHO PESOS 00/100 M.N.); y,
 
-IX. Por otros no especificados, $255.00 (DOSCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.).
+IX. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 80.
 
@@ -859,9 +861,9 @@ Los pagos realizados previamente a la prestación del servicio, se considerarán
 
 Para la determinación de los derechos que establece la Primera Parte de esta Sección, serán aplicables las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-I. Cuando se trate de actos, contratos o resoluciones por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el que resulte más alto entre el valor declarado en el título o documento respectivo, y el determinado por la autoridad catastral estatal;
+I. En relación al artículo 79-A de esta Ley, cuando se trate de actos, contratos o resoluciones el valor por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el que resulte más alto entre el valor declarado en el título o documento respectivo, y el determinado por la autoridad catastral estatal;
 
 II. En los contratos de garantía, en los embargos y otros gravámenes, el monto de las obligaciones garantizadas, cuando el monto sea indeterminado, se tomará como base el valor catastral;
 
@@ -869,19 +871,23 @@ III. En los casos de información ad-perpetuam, el valor catastral de los inmueb
 
 IV. En las emisiones de cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito, cuyas comisiones, cuotas, derechos u otros conceptos no puedan determinarse al momento de realizarse la operación, se pagará por la inscripción de dicha hipoteca, independientemente de la que se constituye a favor de los tenedores de las cédulas, las cuotas correspondientes por cantidad indeterminada;
 
-V. En toda transmisión de bienes o derechos reales que se realizan por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes a fin de que sirva de base para el cobro de los derechos; en ningún caso la base de los derechos será inferior al valor catastral;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+V. En toda transmisión de bienes o derechos reales que se realizan por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre cada uno de ellos. Se determinará por el valor más alto entre el de la operación y el valor catastral.
 
-VI. En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de dominio o cualquier otra que dé lugar a una inscripción complementaria, se pagará el 75% de lo que correspondería con arreglo a la fracción II del artículo 79 y al artículo 79-A, y al practicarse la inscripción complementaria se cubrirá el 25% restante;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+VI. En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de dominio o cualquier otra que dé lugar a una inscripción complementaria, se pagará el 75% de los derechos que se causen, y al practicarse la inscripción complementaria se cubrirá el 25% restante;
 
-VII. Para aplicación de las tarifas establecidas en la fracción II del artículo 79 y el artículo 79-A, la nuda propiedad se valuará, en su caso, con el 75% del valor del inmueble y el usufructo en el 25% del mismo;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VII. Para los efectos del cálculo de los derechos la nuda propiedad se valuará con el 75% de los derechos que se causen y el usufructo con el 25% del mismo;
 
 VIII. Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, se tendrá como valor la suma total de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
 
-IX. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos a la propiedad, podrán ser superiores a tres días de salario mínimo general vigente en el Estado, elevado al año.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+IX. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos a la propiedad, podrán ser superiores a 1,095 (Mil Noventa y Cinco) veces Unidad de Medida y Actualización (UMA).
 
 SEGUNDA PARTE
 
@@ -899,27 +905,33 @@ TARIFA
 
 I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse ésta por no ser procedente y cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $71.00 (SETENTA Y UN PESOS 00/100 M.N.);
 
-II. La inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de su capital social, se pagará conforme a la fracción II del artículo 79 y al artículo 79-A, de esta ley, sobre el monto del capital social o de sus aumentos.
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES], P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Tratándose de sociedades mercantiles de capital variable, se pagará conforme a esta fracción, por los aumentos de capital en su parte variable, que se presente para su inscripción;
+II. Se pagará una cuota de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.) en los siguientes supuestos:
 
-III. La inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles, que no se refieran a aumento de capital social, $71.00 (SETENTA Y UN PESOS 00/100 M.N.), por hoja;
+1). La inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de su capital social.
 
-IV. La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares, pagarán como cuota $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
+2). Tratándose de sociedades mercantiles de capital variable, por los aumentos de capital en su parte variable, que se presente para su inscripción y sus modificaciones;
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+3). La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares.
+
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
+
+IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 82-A.
 
-La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares, si el valor excede de $300,000.00 (TRESCIENTOS MIL PESOS 00/100 M.N.), adicionalmente se pagará por lo que exceda de dicha cantidad, el 6 al millar.
+Tratándose de inscripciones relativas a los incisos 1, 2 y 3 de la fracción II del artículo 82 de esta Ley, si el valor excede de $300,000.00 (TRESCIENTOS MIL PESOS 00/100 M.N.), adicionalmente se pagará por lo que exceda de dicha cantidad, el 6 al millar.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 82-B.
 
-La inscripción de reestructuración de créditos, causará derechos conforme a la fracción IV, del artículo 82 y al artículo 82-A, únicamente sobre el monto en el que se incremente el crédito ya inscrito, cuando no exista incremento se pagarán $71.00 (SETENTA Y UN PESOS 00/100 M.N.) por hoja.
+La inscripción de reestructuración de créditos, causará derechos conforme a la fracción II, artículo 82 y al artículo 82-A, únicamente sobre el monto en el que se incremente el crédito ya inscrito.
 
-La misma tarifa se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos.
+El mismo procedimiento se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -939,13 +951,9 @@ II. La expedición de certificados o certificaciones relativos a constancias del
 
 4. Otros certificados y certificaciones, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
 
-III. La inscripción de títulos o documentos relativos a sociedades mercantiles o civiles que no expresen valor y que de su texto no pueda deducirse, siendo condición indispensable, que la escritura constitutiva se encuentre inscrita previamente en el Registro, $71.00 (SETENTA Y UN PESOS 00/100 M.N.) por hoja;
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
-Cuando parte del valor sea indeterminado y parte determinado, se pagará por cada parte lo que corresponda, con arreglo a los artículos 82, 82-A, 82-B y a las fracciones anteriores.
-
-Si en una misma escritura se consignaren diversos contratos, se pagará por cada parte lo que corresponda, con arreglo a las fracciones anteriores.
-
-IV. Las inscripciones complementarias derivadas de contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad, $71.00 (SETENTA Y UN PESOS 00/100 M.N.) por hoja.
+IV. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
 V. La cancelación de inscripciones relativas al comercio causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $71.00 (SETENTA Y UN PESOS 00/100 M.N.).
 
@@ -967,7 +975,13 @@ III. En los casos en que un título tenga que inscribirse en varias secciones, l
 
 IV. Cuando deban hacerse inscripciones de distintas operaciones que deriven de la constitución o disolución de alguna sociedad mercantil, se causarán los derechos por la inscripción en la Sección de Comercio, independientemente de los que causen las otras inscripciones.
 
-V. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos al comercio, podrán ser superiores a tres días de salario mínimo general vigente en el Estado, elevado al año.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+V. En ningún caso los derechos por los servicios prestados por el Registro Público, relativos al comercio, podrán ser superiores (sic) 1,095 (Mil Noventa y Cinco) veces Unidad de Medida y Actualización (UMA)
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+VI. Si en una misma escritura se consignaren diversos contratos, se pagará por cada parte lo que corresponda, con arreglo a las fracciones 82, fracción II, 82-A y 82B.
 
 ###### ARTICULO 85.
 
@@ -1287,6 +1301,10 @@ Los sujetos de este derecho están obligados a solicitar a la Secretaría de Fin
 
 Cuando el titular de la licencia no sea quien enajene o preste los servicios, objeto de este derecho, deberá registrar ante la Secretaría de Finanzas el nombre de la persona que en su lugar explota los derechos que le otorga la licencia mencionada.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+La Secretaria de Finanzas emitirá la autorización para que la persona distinta al titular preste los servicios que autoriza la licencia de referencia.
+
 ###### ARTICULO 95.
 
 Los sujetos de este derecho que cuenten con licencia para su funcionamiento, deberán obtener dentro del mes de enero de cada año la revalidación anual de la licencia para el funcionamiento de estos establecimientos.
@@ -1451,6 +1469,10 @@ OBJETO
 
 La autorización de cambio de titular de una licencia causará derechos a razón del 70% de la tarifa establecida en el artículo 105, según el establecimiento de que se trate.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, la autorización emitida por la Secretaría de Finanzas, para que persona distinta al titular de la licencia preste los servicios que autoriza la licencia de referencia, causará derechos a razón del 10% de la tarifa establecida en el artículo 105, según el establecimiento de que se trate.
+
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 110.
@@ -1493,6 +1515,16 @@ I. Expedición de tarjetas de circulación y calcomanía con número identificat
 
 Los ingresos que se generen conforme al inciso anterior, deberán destinarse para programas de rehabilitación y mejoramiento de las vías de comunicación.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+3. Expedición de la tarjeta con vigencia anual, $200.00 (DOSCIENTOS PESOS 00/100 M.N.).
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+4. Reposición por pérdida de la tarjeta de circulación, $100.00 (CIEN PESOS 00/100 M.N.).
+
+Los ingresos que se generen conforme al inciso anterior, deberán destinarse para programas de rehabilitación y mejoramiento de las vías de comunicación.
+
 II. Expedición de juego de placas para demostración de vehículos $2,070.00 (DOS MIL SETENTA PESOS 00/100 M.N.);
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
@@ -1521,7 +1553,7 @@ VII. Por la obtención de un número de placas específico (sujeto a disponibili
 
 VIII. Expedición de permisos por quince días para circular sin placas, $500.00 (QUINIENTOS PESOS 00/100 M.N.);
 
-IX. Reposición o cambio de tarjeta de circulación, $320.00 (TRESCIENTOS VEINTE PESOS 00/100 M.N.);
+IX. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2017)
 
 X. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $40.00 (CUARENTA PESOS 00/100 M.N.); por la primera hoja y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
 
@@ -1971,9 +2003,17 @@ V. Permiso con vigencia de cinco años para servicio de transporte especializado
 
 2. Refrendo $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.); y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-VI. Permiso anual para transporte de personal, $1,800.00 (MIL OCHOCIENTOS PESOS 00/100 M.N.)
+VI. Permiso con vigencia de 5 años para el servicio de transporte de personal propio.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+1.- Expedición, $1,800.00 (MIL OCHOCIENTOS PESOS M/N).
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+2.- Refrendo anual $900.00 (NOVECIENTOS PESOS M/N).
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2034,6 +2074,38 @@ XVIII. Derecho de preferencia por parcela, $567.39 (QUINIENTOS SESENTA Y SIETE P
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 XIX. Registro de Director responsable de obra y Corresponsable de obra por tres años, $1,702.17 (MIL SETECIENTOS DOS PESOS 17/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XX. Registro con vigencia de 5 años para el funcionamiento de las empresas de redes de transporte, servicio entre particulares $8,900.00 (OCHO MIL NOVECIENTOS PESOS M/N) por vehículo.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXI. Permiso anual para el transporte turístico $5,500.00 (CINCO MIL QUINIENTOS PESOS M/N)
+
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXII. Permiso con vigencia de 5 años para el transporte de personas con discapacidad:
+
+1. Expedición, $2,900.00 (DOS MIL NOVECIENTOS PESOS M/N)
+
+2. Refrendo anual $1,800.00 (MIL OCHOCIENTOS PESOS M/N))
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Permiso anual para ambulancias $1,200.00 (MIL DOCIENTOS (SIC) PESOS M/N)
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXIV. Permiso anual para el transporte ejecutivo $1,800.00 (MIL OCHOCIENTOS PESOS M/N)
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXV. Permiso anual para el transporte mixto y de pasaje $1,100.00 (MIL CIEN PESOS M/N)
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XXVI. Permiso anual para el transporte de carga de agua potable $1,725.00 (MIL SETECIENTOS VEINTICINCO PESOS M/N)
 
 SUJETO
 
@@ -2357,13 +2429,13 @@ Son sujetos a este derecho las personas físicas y morales, explotadores tratado
 
 BASE
 
-### CAPITULO DECIMO. POR SERVICIOS DE LA PROCURADURIA DE JUSTICIA DEL ESTADO
+### CAPITULO DECIMO. POR SERVICIOS DE LA FISCALÍA GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 > <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
 
 OBJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 #### SECCION CUARTA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
 
@@ -2517,13 +2589,11 @@ VIII. Formatos catastrales valorados
 
 El pago de los derechos a que se refiere el artículo 155, se realizará en las Instituciones de Crédito o establecimientos autorizados por la Secretaría de Finanzas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 157.
 
-Los servicios que presta la Procuraduría General de Justicia del Estado a través de sus unidades administrativas, causarán derechos conforme a la siguiente:
+Los servicios que presta la Fiscalía General del Estado de Coahuila de Zaragoza, a través de sus unidades administrativas, causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -3386,3 +3456,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1152.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil dieciocho.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
