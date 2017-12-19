@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2017-09-01"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE OBRA PUBLICA DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -57,11 +59,11 @@ Que en lo referente al padrón de contratistas, se resaltan algunas innovaciones
 
 Que se continúa haciendo la distinción entre suspender y cancelar el registro de los contratistas. En el primero se agregan algunas otras disposiciones referentes a la calidad de deudor en que incurra el contratista pero que además esté sujeto al procedimiento de suspensión de pagos, así como otro tipo de conductas que contravengan a la obra pública, pero que estas estén debidamente comprobadas por la Secretaría de la Contraloría como unidad administrativa interesada en el buen desempeño de los contratistas. La calidad de deudor y la sujeción a procedimiento de suspensión de pagos se toma en consideración pues es obvio que un contratista en tales circunstancias en ningún momento podría garantizar certidumbre y solvencia en su desempeño. En el segundo, se contemplan dos conductas más, una relacionada con la voluntad propia del contratista de que le sea cancelado su registro. Las fracciones IV y V del artículo 24 prevén, la primera, la conducta dolosa y de mala fe por parte del contratista durante el concurso de adjudicación o dentro del proceso de ejecución de la Obra. La fracción V del citado artículo prevé la figura de la reincidencia del contratista en cuanto a la rescisión administrativa de un contrato de obra, pues, se considera que estas reincidencias y sus antecedentes negativos, pueden servir como medida para cancelar el registro al contratista en virtud de que tales antecedentes constituyen una evidencia de la nula confianza y seguridad que deposita la contratante en el contratista.
 
-Que en el capitulo segundo, se innova la creación del Comité de Selección de Contratistas cuya función principal es la de llevar a cabo el proceso de selección de candidatos a realizar obra pública pero bajo la modalidad de invitación restringida y otros procedimientos que a lo largo de la ley se mencionan. La creación de este órgano colegiado obedece a la necesidad de que estos procesos sean llevados con la mayor claridad posible a fin de que se garantice la imparcialidad y el sano criterio de las personas involucradas en este proceso. La forma en que se integra este comité intenta representar a todos y cada uno de los interesados que directa o indirectamente estén inmiscuidos en la realización de la obra. Se obliga, asimismo, a que cualquier decisión, acto o resolución que emita este órgano esté debidamente fundado y motivado para evitar cualquier violación a las garantías de los gobernados por parte de aquel.
+Que en el capítulo segundo, se innova la creación del Comité de Selección de Contratistas cuya función principal es la de llevar a cabo el proceso de selección de candidatos a realizar obra pública pero bajo la modalidad de invitación restringida y otros procedimientos que a lo largo de la ley se mencionan. La creación de este órgano colegiado obedece a la necesidad de que estos procesos sean llevados con la mayor claridad posible a fin de que se garantice la imparcialidad y el sano criterio de las personas involucradas en este proceso. La forma en que se integra este comité intenta representar a todos y cada uno de los interesados que directa o indirectamente estén inmiscuidos en la realización de la obra. Se obliga, asimismo, a que cualquier decisión, acto o resolución que emita este órgano esté debidamente fundado y motivado para evitar cualquier violación a las garantías de los gobernados por parte de aquel.
 
 Que se agrega el capítulo tercero con la finalidad de establecer en forma clara, cuáles habrán de ser las causas que impidan a las contratantes a recibir propuesta alguna. Como se observa en el artículo 27 del presente ordenamiento, se desarrolla su contenido de manera más casuístico (sic) con el objeto de encuadrar las conductas posibles que puedan presentarse por parte de los contratistas.
 
-Que en el capitulo de la (sic) Fases para la realización de la Obra, se establecen de manera clara y sistemática las fases de la obra pública, todas y cada una de ellas tiene (sic) el objeto de contemplar las medidas mínimas que toda obra requiere y a garantizar con ello el cabal y buen cumplimiento de las mismas, obligándose con ello a que el contratista bajo ninguna circunstancia dejará de cumplir con el orden que se establece en el artículo 28 de la presente ley.
+Que en el capítulo de la (sic) Fases para la realización de la Obra, se establecen de manera clara y sistemática las fases de la obra pública, todas y cada una de ellas tiene (sic) el objeto de contemplar las medidas mínimas que toda obra requiere y a garantizar con ello el cabal y buen cumplimiento de las mismas, obligándose con ello a que el contratista bajo ninguna circunstancia dejará de cumplir con el orden que se establece en el artículo 28 de la presente ley.
 
 Que con el criterio de fortalecer la planta productiva local en la industria de la construcción, se establecen los montos que sirven como parámetro para la determinación de cuál será la modalidad bajo la cual se asignará la obra pública. En este rubro están consideradas la adjudicación directa, la invitación restringida y la licitación pública. Los montos de cada una de ellas están basados en las consideraciones que sobre el presupuesto y la magnitud de la obra que se pudiese realizar con las cantidades que implican los porcentajes descritos en el artículo 31 de esta ley. El requisito común que entre todas las modalidades descritas se mencionan, es el relacionado con la capacidad financiera y técnica de los contratistas además de los mencionados en los artículos respectivos.
 
@@ -77,7 +79,7 @@ Que en el capítulo primero del titulo cuarto de este apartado, se abraza todo l
 
 Que en el capítulo segundo del Título Cuarto, se contempla la etapa de terminación y recepción de los trabajos. En la primera etapa se establece la obligación del contratista de dar aviso por escrito a la contratante de la terminación de la obra. Asimismo, y con el propósito de evitar daños a la obra que pueden repercutir en perjuicio del contratista se prevé el caso en que la contratante se negare a recibirla, para lo cual se faculta al contratista a hacer entrega de la obra al órgano de control correspondiente, eximiéndolo de esta manera de realizar cualquier gasto que por concepto de custodia y cuidado de los trabajos se tuvieron que erogar.
 
-Que en el Titulo Quinto capítulo único, se establecen todas las disposiciones relacionadas con la ejecución de la obra por administración directa. Así, con el propósito de fomentar la participación de la iniciativa privada, la creación de fuentes de empleo y un mayor circulante, entre otros, se establece como condición indispensable el que la dependencia, entidad o ayuntamiento interesada en realizar obra pública bajo esta modalidad, cuente con el total de los recursos técnicos y financieros necesarios, para que no haya duda del buen éxito y la calidad de la obra que ejecutasen. Asimismo, se prevé la figura del comité de compras cuya función más importante es la de llevar a cabo el proceso de adquisición de los materiales e insumos que se requieran para la ejecución de la obra con el propósito de evitar la carga de trabajo y los procesos burocráticos que, de acuerdo y conforme a los procedimientos que la ley correspondiente establece, retardan y complican el ritmo con el que muchas veces las obras deberían avanzar. De esta manera, se deja abierta la posibilidad de reglamentar y completar la conformación de dicho comité en el reglamento correspondiente.
+Que en el Título Quinto capítulo único, se establecen todas las disposiciones relacionadas con la ejecución de la obra por administración directa. Así, con el propósito de fomentar la participación de la iniciativa privada, la creación de fuentes de empleo y un mayor circulante, entre otros, se establece como condición indispensable el que la dependencia, entidad o ayuntamiento interesada en realizar obra pública bajo esta modalidad, cuente con el total de los recursos técnicos y financieros necesarios, para que no haya duda del buen éxito y la calidad de la obra que ejecutasen. Asimismo, se prevé la figura del comité de compras cuya función más importante es la de llevar a cabo el proceso de adquisición de los materiales e insumos que se requieran para la ejecución de la obra con el propósito de evitar la carga de trabajo y los procesos burocráticos que, de acuerdo y conforme a los procedimientos que la ley correspondiente establece, retardan y complican el ritmo con el que muchas veces las obras deberían avanzar. De esta manera, se deja abierta la posibilidad de reglamentar y completar la conformación de dicho comité en el reglamento correspondiente.
 
 Que toda la información que se requiera sobre los actos y contratos referidos en esta ley y que tengan que ver con la obra pública está regulada en el título sexto, con la especificación de que tal documentación se reservará por el lapso de tres años, tiempo que se considera prudente y necesario para que la autoridad resguarde dicha documentación. Asimismo, la calidad de la obra es un aspecto relevante e imprescindible para el buen funcionamiento y de éstas, así como para la garantía de contar con obras que vayan acordes con las exigencias de la sociedad. Pero no basta con exigir el aspecto cualitativo sino que es necesario que este sea verificable y comprobable. Motivo por el cual se establecen en el artículo 74 de esta ley la posibilidad de llevar a cabo tal comprobación a través de los laboratorios debidamente certificados y aceptados por la contratante, garantizando con esto también, un clima de seguridad y confianza no solo para con el Gobierno del Estado, sino también para con la sociedad misma que es la principal beneficiada con la creación de obras con calidad certificada.
 
@@ -139,15 +141,21 @@ VII.- Todos aquellos de naturaleza análoga.
 
 La inversión en obra pública se sujetará a lo previsto en la normatividad que regula al gasto público, al ejercicio de los presupuestos de egresos del Estado y los Municipios, así como en lo previsto en la ley de la materia y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 4.
 
-La aplicación de la presente Ley corresponde al Ejecutivo del Estado, a través de las dependencias competentes en las materias de Planeación y Finanzas, Desarrollo Urbano, Obra Pública, Fiscalización y Control, y a los Municipios, en el ámbito de la competencia que les corresponda, sin perjuicio de la intervención que competa a otras dependencias estatales o municipales.
+La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado, a través de las dependencias competentes en las materias de planeación y finanzas, desarrollo urbano y obras públicas y contraloría, y a los municipios, en el ámbito de la competencia que les corresponda, sin perjuicio de la intervención que competa a otras dependencias estatales o municipales.
 
-Para la aplicación de la presente Ley, a la Secretaría de Planeación y Finanzas le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la entidad ejecutora.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Para la aplicación de la presente Ley, a la Secretaría de Planeación y Finanzas del Poder Ejecutivo le compete la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora. En el caso de entidades y municipios, la dependencia o unidad encargada de las finanzas públicas será la compete (sic) la suficiencia presupuestal y el pago de las obras realizadas, previa autorización de la dependencia ejecutora.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 Las Secretarías de Desarrollo Urbano y Obras Públicas, de Planeación y Finanzas y de la Contraloría, conjuntamente y, en su caso, con los Municipios, expedirán las disposiciones administrativas necesarias que para la aplicación de la presente Ley deberán observarse en la contratación, ejecución y supervisión de la obra pública.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2007)</small>
 
 Cuando se autorice la ejecución de obra pública o actividad alguna de las señaladas en el primer párrafo del artículo 1, en beneficio de los mencionados en la fracción VII del mismo numeral, serán las mismas autoridades señaladas en este artículo, quienes se encargarán de vigilar el desarrollo y ejecución de las obras y actividades mencionadas cuando se realicen por administración, así como de la contratación cuando sea necesario, cuya formalización la hará la autoridad competente en términos de la ley.
 
@@ -255,7 +263,7 @@ X.- Los programas de obra pública indicarán las fechas previstas para la inici
 
 Las dependencias y las entidades remitirán sus programas de obra pública a la Secretaría de Planeación y Finanzas en las fechas establecidas por esta y en estricto apego a lo estipulado en la Ley para el Manejo de los Recursos Públicos, para que en su caso puedan ser consideradas en el presupuesto de egresos del estado.
 
-Cuando participen fondos estatales o federales, los Municipios remitirán sus programas de obra pública, a la Secretaría de Planeación y Finanzas para la verificación de su congruencia con el Plan Estatal de Desarrollo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
@@ -269,53 +277,69 @@ Las dependencias, entidades y Municipios dentro de sus programas, elaborarán lo
 
 ###### ARTÍCULO 19.
 
-Los presupuestos para la obra pública y su calendarización física y financiera una vez elaborados, serán remitidos a la dependencia encargada de la Planeación y las Finanzas correspondiente para que sea incluido en el respectivo presupuesto de egresos.
-
-Los expedientes técnicos de las obras y sus respectivos presupuestos, previamente validados por las dependencias normativas, deberán remitirse por parte de las dependencias, entidades y Municipios a la dependencia encargada de la Planeación y las Finanzas que corresponda, para su análisis y aprobación, apegándose a la normatividad establecida según sea el caso. Una vez hecho lo anterior, dichos documentos se devolverán a la dependencia, entidad o municipio.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 2017)
 
 ## TÍTULO III. DEL PROCESO PARA LA CONTRATACIÓN Y REALIZACIÓN DE LA OBRA PÚBLICA
 
 ### CAPÍTULO I. DEL PADRÓN DE CONTRATISTAS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-La Secretaría de la Contraloría tendrá a su cargo el Padrón de Contratistas de obra pública del Estado de Querétaro, clasificando según su especialidad, capacidad económica y técnicas a las personas físicas o morales. En el caso de la obra que se ejecute con recursos provenientes de los Municipios, los Municipios podrán tener en particular su propio padrón de contratistas, en caso de no contar con el, se referirán al padrón de contratistas de la Secretaria de La Contraloría de Gobierno del Estado.
+La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo tendrá a su cargo el Padrón de Contratistas de obra pública del Estado de Querétaro, clasificando según su especialidad, capacidad económica y técnicas a las personas físicas o morales. En el caso de la obra que se ejecute con recursos provenientes de los municipios, los municipios podrán tener en particular su propio padrón de contratistas, en caso de no contar con él, se referirán al padrón de contratistas de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo.
 
-La Secretaría de la Contraloría hará del conocimiento de las dependencias, entidades, Municipios y al público en general, de las personas registradas en el padrón; esta información será publicada en forma bimestral en las oficinas de dicha secretaría, y de manera anual en el periódico oficial de (sic) gobierno del Estado La Sombra de Arteaga, debidamente actualizada, en los primeros treinta días del año que corresponda. De la misma manera, los Municipios que cuenten con este, deberán hacer público su padrón de contratistas en las oficinas de la dependencia encargada de la ejecución de las obras públicas en forma bimestral y publicarlos en el periódico oficial del Gobierno del Estado La Sombra de Arteaga y en sus gacetas municipales en los primeros treinta días del año que corresponda.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo hará del conocimiento de las dependencias, entidades, municipios y al público en general, de las personas registradas en el padrón; esta información será publicada en forma bimestral en las oficinas de dicha Secretaría y de manera anual en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", debidamente actualizada, en los primeros treinta días del año que corresponda. De la misma manera, los municipios que cuenten con éste, deberán hacer público su padrón de contratistas en las oficinas de la dependencia encargada de la ejecución de las obras públicas en forma bimestral y publicarlos en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" y en sus gacetas municipales, en los primeros treinta días del año que corresponda.
 
 Sólo podrán celebrar contratos de obra pública o de servicios relacionados con la misma, las personas con registro vigente en el padrón.
 
 La clasificación por especialidad requerida, a que se refiere el primer párrafo de este artículo, deberá ser considerada en la convocatoria y en la contratación de la obra pública.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 21.
 
-Las personas interesadas en registrarse en el Padrón de Contratistas de Obra Pública en el Estado o de los Municipios, deberán solicitarlo por escrito ante la dependencia u órgano de control interno que corresponda, cumpliendo con los requisitos que para tal efecto establezca la Secretaría de la Contraloría.
+Las personas interesadas en registrarse en el Padrón de Contratistas de Obra Pública en el Estado o de los municipios, deberán solicitarlo por escrito ante la dependencia u órgano interno de control que corresponda, cumpliendo con los requisitos que para tal efecto establezca la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo.
 
 La vigencia del registro en el Padrón será anual, del 1 de julio al 30 de junio del siguiente año.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 22.
 
-La Secretaría de la Contraloría o en su caso el órgano de control interno de cada municipio, resolverá sobre el registro o la renovación en el Padrón de Contratistas de Obra Pública dentro de un término que no exceda de diez días hábiles contados a partir de la fecha de recepción de la solicitud.
+La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o, en su caso, la dependencia responsable en cada municipio resolverá sobre el registro o la renovación en el Padrón de Contratistas de Obra Pública dentro de un término que no exceda de diez días hábiles contados a partir de la fecha de recepción de la solicitud.
 
 Si transcurrido este plazo, no se ha dado respuesta al contratista, se considerará procedente el registro o la renovación del mismo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 23.
 
-La Secretaría de la Contraloría, o en su caso el órgano de control interno de cada municipio, podrá suspender temporalmente el registro de los contratistas cuando:
+La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o, en su caso, la dependencia responsable en cada municipio, podrá suspender temporalmente el registro de los contratistas cuando:
 
 I.- El Contratista sea declarado por la autoridad competente, como incapacitado legalmente para contratar.
 
-II.- El Contratista esté sujeto a un procedimiento de suspensión de pagos. Cuando cualquier tipo de autoridad conozca de este procedimiento, deberá notificarlo a la Secretaría de la Contraloría o al órgano de control interno de cada municipio.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-III.- El Contratista incurra en actos contrarios u omisiones relacionadas con la obra pública, que le sean imputables y estén debidamente comprobados por la Secretaría de la Contraloría u órgano de control interno de cada municipio.
+II.- El Contratista esté sujeto a un procedimiento de suspensión de pagos. Cuando cualquier tipo de autoridad conozca de este procedimiento, deberá notificarlo a la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo, a la Dirección Jurídica de la Secretaría de la Contraloría o al órgano interno de control de cada municipio.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III.- El Contratista incurra en actos contrarios u omisiones relacionadas con la obra pública, que le sean imputables y estén debidamente comprobados.
 
 IV.- El Contratista incurra en cualquiera otra causa que por su gravedad sea análoga a las contenidas en las fracciones anteriores, fehacientemente afecten a los intereses de la contratante o que en su caso por disposición de la ley sean necesarias.
 
-Cuando el Contratista acredite la desaparición de la causa que originó la suspensión temporal del registro, la Secretaría de la Contraloría o en su caso el órgano de control interno de cada municipio, podrá levantar dicha restricción en la vigencia del registro del interesado. Apercibiéndolo que en caso de reincidencia, será suspendido definitivamente.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Cuando el Contratista acredite la desaparición de la causa que originó la suspensión temporal del registro, la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o, en su caso, la dependencia responsable en cada municipio podrá levantar dicha restricción en la vigencia del registro del interesado. Apercibiéndolo que, en caso de reincidencia, será suspendido definitivamente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
-La Secretaría de la Contraloría o en su caso el órgano de control interno de cada municipio, deberán cancelar el registro del contratista cuando:
+La Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o, en su caso, la dependencia responsable en cada municipio, deberán cancelar el registro del contratista cuando:
 
 I.- Se le declare en estado de quiebra, o en su caso sujeto a concurso de acreedores.
 
@@ -331,9 +355,13 @@ VI.- Haya celebrado contratos en contravención con lo dispuesto en esta ley.
 
 VII.- A solicitud del contratista.
 
-En el caso de que proceda la cancelación del registro en el Padrón de Contratistas, la Secretaría de la Contraloría o en su caso los órganos de control interno de los Municipios, lo publicará en el Periódico Oficial La Sombra de Arteaga.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+En el caso de que proceda la cancelación del registro en el Padrón de Contratistas, la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o, en su caso, la dependencia responsable en cada municipio, lo publicará en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 ### CAPÍTULO II. DEL COMITÉ DE SELECCIÓN DE CONTRATISTAS
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 25.
 
@@ -341,41 +369,37 @@ El Comité de Selección de Contratistas es el órgano encargado de llevar a cab
 
 a) Un representante de la dependencia, entidad o municipio ejecutor, con derecho a voz y a emitir propuesta de candidatos.
 
-b) Un representante del órgano de control, con derecho a voz.
+b) Un representante del órgano interno de control de la dependencia, entidad o municipio ejecutor, con derecho a voz.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+c) Un representante de la organización formal de la Industria de la construcción.
 
-c) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2016)
+d) Un representante de la organización formal de los servicios de consultoría.
 
-d) Un representante de la organización formal de la Industria de la construcción.
+e) Un representante de los colegios de profesionistas de la localidad que estén relacionados con la obra pública.
 
-e) Un representante de la organización formal de los servicios de consultoría.
+f) Un representante del Sistema Estatal o Municipal de los Consejos de Concertación Ciudadana, con derecho a voz.
 
-f) Un representante de los colegios de profesionistas de la localidad que estén relacionados con la obra pública.
+g) Un representante de la dependencia normativa del tipo de obra de que se trate, con derecho a voz.
 
-g) Un representante del Sistema Estatal o Municipal de los Consejos de Concertación Ciudadana, con derecho a voz.
+En lo que se refiere a los incisos c), d) y e), se les convocará dependiendo del tipo de obra o contrato y según la especialidad de que se trate, los que tendrán derecho a voz y a emitir propuesta de candidatos.
 
-h) Un representante de la dependencia normativa del tipo de obra de que se trate, con derecho a voz.
-
-En lo que se refiere a los incisos d), e) y f), se les convocará dependiendo del tipo de obra o contrato y según la especialidad de que se trate, los que tendrán derecho a voz y a emitir propuesta de candidatos.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 26.
 
 En el caso de los concursos de obra pública bajo la modalidad de invitación restringida a cuando menos tres contratistas, los participantes deberán ser previamente propuestos por el Comité de Selección de Contratistas, de acuerdo al siguiente procedimiento:
 
-1. Para poder participar como candidato en el Comité de Selección para los concursos bajo esta modalidad, los interesados deberán estar inscritos en el Padrón de Contratistas del Gobierno del Estado de Querétaro, a cargo de la Secretaria de la Contraloría del Estado o en los padrones de contratistas de cada municipio y se trate exclusivamente de obras a ejecutarse con recursos propios del municipio, en los cuales no intervengan recursos estatales ni federales. Los registros deberán ser vigentes. Si no se contara con padrón de contratistas en el Municipio de que se trate, se atenderá al de la Secretaría de la Contraloría del Estado.
+1. Para poder participar como candidato en el Comité de Selección para los concursos bajo esta modalidad, los interesados deberán estar inscritos en el Padrón de Contratistas del Gobierno del Estado de Querétaro, a cargo de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o en los padrones de contratistas de cada municipio y se trate exclusivamente de obras a ejecutarse con recursos propios del municipio, en los cuales no intervengan recursos estatales ni federales. Los registros deberán ser vigentes. Si no se contara con padrón de contratistas en el Municipio de que se trate, se atenderá al de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo.
 
-2. Cuando exista la necesidad de obras que requieran ser concursadas por invitación restringida a cuando menos tres contratistas, la dependencia, entidad o municipio interesado, deberá dirigirse por escrito a la Secretaría de la Contraloría u órgano de control interno respectivo, para que convoque a la reunión del Comité de Selección, indicándole las características de aquellas, el origen de los recursos por invertir, la aprobación de los mismos, el presupuesto y el calendario de ejecución. Una vez cubierto lo anterior, la Secretaría de la Contraloría procederá a la citación del Comité a que se refiere esta fracción, señalando el lugar, la fecha y la hora para su desahogo a fin de proceder a la selección.
+2. Cuando exista la necesidad de obras que requieran ser concursadas por invitación restringida a cuando menos tres contratistas, la dependencia, entidad o municipio interesado, deberá dirigirse por escrito a la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o a la dependencia responsable en cada municipio respectivo, para que convoque a la reunión del Comité de Selección, indicándole las características de aquellas, el origen de los recursos por invertir, la aprobación de los mismos, el presupuesto y el calendario de ejecución. Una vez cubierto lo anterior, la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o la dependencia responsable en cada municipio respectivo procederá a la citación del Comité a que se refiere esta fracción, señalando el lugar, la fecha y la hora para su desahogo a fin de proceder a la selección.
 
-3. El Comité de Selección de Contratistas, con base en los inscritos en el padrón respectivo, seleccionará a aquellos cuya capacidad técnica y financiera se adecue a las características de la obra pública por ejecutar, tomando en consideración además, la experiencia y la especialidad requeridas, procurando diversificar dicha selección, para evitar el acaparamiento de las obras a favor de uno o mas contratistas.
+3. El Comité de Selección de Contratistas, con base en los inscritos en el· padrón respectivo, seleccionará a aquellos cuya capacidad técnica y financiera se adecue a las características de la obra pública por ejecutar, tomando en consideración, además, la experiencia y la especialidad requeridas, procurando diversificar dicha selección, para evitar el acaparamiento de las obras a favor de uno o más contratistas.
 
-4. Por cada una de las obras que fuesen a ejecutarse a cargo de las dependencias, entidades o Municipios (sic),
+4. Por cada una de las obras que fuesen a ejecutarse a cargo de las dependencias, entidades o municipios y que deban ser concursadas por invitación restringida, el Comité de Selección elegirá a tres o más contratistas, dependiendo el monto de que se trate.
 
-5 (sic). y que deban ser concursadas por invitación restringida, el Comité de Selección elegirá a tres o más contratistas dependiendo el monto de que se trate.
+5. Una vez seleccionados los candidatos a invitación, el Comité de Selección, a través de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o a la dependencia responsable en cada municipio respectivo, elaborará el acta respectiva que plasme lo acordado, misma que será suscrita por los participantes y se entregará copia del documento a cada uno de ellos.
 
-6. Una vez seleccionados los candidatos a invitación, el comité a través de la Secretaría de la Contraloría, elaborará el acta respectiva que plasme lo acordado, misma que será suscrita por los participantes y se entregará copia del documento a cada uno de ellos.
-
-7. Con base en el contenido de la fracción anterior, la dependencia, entidad o ayuntamiento, en un plazo no mayor a 5 días naturales previo al evento de apertura de propuestas procederá a invitar a los contratistas seleccionados, recabando el acuse de recibo correspondiente.
+6. Con base en el contenido de la fracción anterior, la dependencia, entidad o ayuntamiento, en un plazo no mayor a 5 días naturales previo al evento de apertura de propuestas procederá a invitar a los contratistas seleccionados, recabando el acuse de recibo correspondiente.
 
 Todo acto o resolución que realice el Comité de Selección deberá estar debidamente fundado y motivado.
 
@@ -471,7 +495,9 @@ Cuando existan circunstancias extraordinarias o casos fortuitos o de fuerza mayo
 
 Las circunstancias extraordinarias a las que se refiere el párrafo anterior serán cuando:
 
-I.- A juicio de la Dependencia o Entidad ejecutoras y de común acuerdo con la Coordinación de Planeación y de los Ayuntamientos, en su caso, la obra sea de tal urgencia que deba iniciarse de inmediato y terminarse en un plazo perentorio y no se disponga del tiempo necesario para cumplir con los requisitos establecidos.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+I.- A juicio de la dependencia o entidad ejecutora y de los ayuntamientos, en su caso, la obra sea de tal urgencia que deba iniciarse de inmediato y terminarse en un plazo perentorio y no se disponga del tiempo necesario para cumplir con los requisitos establecidos.
 
 II.- Atendiendo al importe total de la obra, no se justifique efectuar los gastos que tanto el convocante como los participantes tendrían que hacer para cumplir los requisitos establecidos.
 
@@ -479,9 +505,7 @@ III.- Por las características particulares de la obra, se advierta que ésta re
 
 IV.- El contrato sólo pueda celebrarse con una determinada persona por ser ésta el titular de la o las patentes necesarias para realizar las obras.
 
-> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2014)</small>
-
-Tampoco será aplicable lo dispuesto por el artículo 30 de la presente ley en tratándose de los contratos previstos por el segundo párrafo del artículo 3 de la Ley Orgánica del Poder Legislativo del Estado de Querétaro, cuando su adjudicación directa se haya resuelto por el Pleno del mismo.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
@@ -491,7 +515,9 @@ I.- Los recursos técnicos, financieros, además de una experiencia mínima de d
 
 II.- Tener el contratista establecida en el Estado de Querétaro la administración principal de su actividad con una antigüedad mínima de dos años.
 
-III.- Que los contratistas cuenten con su registro actualizado en el Padrón de Contratistas en la Secretaría de la Contraloría de Gobierno del Estado o de los Municipios.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III.- Que los contratistas cuenten con su registro actualizado en el Padrón de Contratistas de Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o de los municipios.
 
 IV.- No se encuentren en los supuestos del Artículo 27.
 
@@ -513,9 +539,13 @@ V.- Adjudicación del contrato y ejecución de los trabajos.
 
 Las dependencias, entidades y Municipios, podrán contratar obra pública bajo la modalidad de invitación restringida siempre y cuando se dé cumplimiento a los siguientes requisitos:
 
-I.- Que los contratistas invitados hayan sido elegidos previamente por el Comité de Selección convocado por la Secretaría de la Contraloría de Gobierno del Estado o por los Municipios.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-II.- Que los contratistas elegidos cuenten al momento de la invitación, con su registro actualizado en el Padrón de Contratistas de la Secretaría de la Contraloría de Gobierno del Estado o de los Municipios.
+I.- Que los contratistas invitados hayan sido elegidos previamente por el Comité de Selección convocado por la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o por los Municipios.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+II.- Que los contratistas elegidos cuenten, al momento de la invitación, con su registro actualizado en el Padrón de Contratistas de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o de los municipios.
 
 III.- Que los interesados que acepten participar, una vez que se conozca el catálogo de conceptos y se realice la visita al lugar donde se realizarán los trabajos, lo manifiesten por escrito.
 
@@ -561,7 +591,9 @@ VIII.- Los criterios generales conforme a los cuales se adjudicará el contrato.
 
 IX.- La experiencia, capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características de la obra pública en cuestión.
 
-X.- Que los contratistas interesados cuenten con su registro actualizado en el Padrón de Contratistas de la Secretaría de la Contraloría de Gobierno del Estado o de los Municipios.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+X.- Que los contratistas interesados cuenten con su registro actualizado en el Padrón de Contratistas de la Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o de los municipios.
 
 XI.- La relación de insumos que a juicio de la convocante sean prioritarios para la ejecución de la obra.
 
@@ -585,7 +617,9 @@ I.- Acta constitutiva para personas morales; acta de nacimiento y registro feder
 
 II.- Declaración bajo protesta de decir verdad de no encontrarse en los supuestos del artículo 27 de esta ley.
 
-III.- Registro vigente en el Padrón de Contratistas de la Secretaría de la Contraloría de Gobierno del Estado o de los Municipios.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III.- Registro vigente en el Padrón de Contratistas de Secretaría de Desarrollo Urbano y Obras Públicas del Poder Ejecutivo o de los municipios.
 
 IV.- Líneas comerciales de crédito.
 
@@ -715,7 +749,9 @@ El procedimiento para el acto de la apertura de las proposiciones técnicas ser�
 
 I.- El acto estará presidido por el servidor público que designe la convocante, quien será la única autoridad facultada para aceptar o desechar las proposiciones que se hubieren presentado en los términos de esta ley.
 
-II.- La convocante invitará a participar a un representante del órgano de control interno, uno de la dependencia encargada de las finanzas, uno de la dependencia normativa y un representante de la sociedad civil en los términos que establezca el reglamento de esta ley, pudiendo ser de la Organización Formal de la Construcción, de la Organización Formal de la Consultoría, los Colegios y Asociaciones de Profesionistas afines a la naturaleza de la obra que se trate o a un representante del Sistema Estatal o Municipal de los Consejos de Concertación Ciudadana.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+II.- La convocante invitará a participar a un representante del órgano interno de control de la dependencia, entidad o municipio convocante, uno de la unidad administrativa de las finanzas de la dependencia convocante, entidad o municipio, uno de la dependencia normativa y un representante de la sociedad civil, en los términos que establezca el reglamento de esta Ley, pudiendo ser de la Organización Formal de la Construcción, de la Organización Formal de la Consultoría, los Colegios y Asociaciones de Profesionistas afines a la naturaleza de la obra que se trate o a un representante del Sistema Estatal o Municipal de los Consejos de Concertación Ciudadana.
 
 III.- Los licitantes entregarán sus proposiciones, técnicas y económicas en sobres cerrados en forma inviolable y se procederá a la apertura de la propuesta técnica exclusivamente.
 
@@ -739,7 +775,9 @@ I.- Se procederá sólo a la apertura de las propuestas económicas de los licit
 
 II.- El acto estará presidido por el servidor público que designe la convocante, quien será la única autoridad facultada para aceptar o desechar las proposiciones que se hubieren presentado en los términos de esta ley.
 
-III.- La convocante invitará a participar a un representante del órgano de control interno, uno de la dependencia encargada de las finanzas, uno de la dependencia normativa y un representante de la sociedad civil en los términos que establezca el reglamento de esta ley, pudiendo ser de la Organización Formal de la Construcción, de la Organización Formal de la Consultoría o de los Colegios y Asociaciones de Profesionistas afines a la naturaleza de la obra que se trate o un representante del Sistema Estatal o Municipal de los Consejos de Concertación Ciudadana. Los licitantes podrán a su criterio estar presentes en este acto.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III.- La convocante invitará a participar a un representante del órgano interno de control de la dependencia, entidad o municipio convocante, uno de la unidad o área encargada de la administración de recursos asignados a la dependencia convocante, entidad o municipio, uno de la dependencia normativa y un representante de la sociedad civil, en los términos que establezca el reglamento de esta Ley, pudiendo ser de la Organización Formal de la Construcción, de la Organización Formal de la Consultoría, los Colegios y Asociaciones de Profesionistas afines a la naturaleza de la obra que se trate o a un representante del Sistema Estatal o Municipal de los Consejos de Concertación Ciudadana.
 
 IV.- Los licitantes verificarán que los sobres que contengan las proposiciones económicas se encuentren debidamente cerrados y sin alteración alguna.
 
@@ -931,7 +969,9 @@ Los ajustes o incrementos de los precios unitarios contratados, serán sobre la 
 
 Una vez adjudicada la obra, suscritos los documentos requeridos y recibido el anticipo correspondiente, la contratante dará posesión al contratista del sitio destinado a la obra y aquel deberá dar inicio a los trabajos en la fecha estipulada en el contrato; el contratista podrá iniciar la obra, si lo estimare conveniente y bajo su responsabilidad, aun antes de la recepción del anticipo.
 
-Las dependencias, las entidades y los Municipios ejecutantes estarán obligados, en los términos de esta ley, a informar al órgano de control correspondiente del inicio, del avance y de la conclusión de las obras a su cargo.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Las dependencias, las entidades y los municipios ejecutantes estarán obligados, en los términos de esta Ley, a informar al órgano interno de control correspondiente del inicio, del avance y de la conclusión de las obras a su cargo.
 
 En el momento del inicio, el representante de la contratista en la obra y el supervisor de la contratante, abrirán la bitácora correspondiente quienes serán los autorizados para hacer las anotaciones respectivas, además de aquellas personas que la contratante así lo designe.
 
@@ -981,9 +1021,11 @@ IV.- Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de
 
 Una vez comunicada por la contratante la terminación anticipada de los contratos o el inicio del procedimiento de rescisión de los mismos, ésta procederá a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas, levantado con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentre la obra. En el caso de entidades, el acta circunstanciada se levantará ante la presencia de fedatario público. El contratista estará obligado a devolver a la contratante, en un plazo no mayor de diez días naturales, contados a partir del inicio del procedimiento respectivo, toda la documentación que ésta le hubiere entregado para la realización de los trabajos.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 62.
 
-De ocurrir los supuestos señalados en el artículo anterior, en un plazo de tres días hábiles siguientes contados a partir de la suspensión, la contratante notificará la suspensión, rescisión o terminación anticipada del contrato al contratista y, posteriormente, hará de su conocimiento al órgano de control correspondiente.
+De ocurrir los supuestos señalados en el artículo anterior, en un plazo de tres días hábiles siguientes contados a partir de la suspensión, la contratante notificará la suspensión, rescisión o terminación anticipada del contrato al contratista y, posteriormente, hará de su conocimiento al órgano interno de control correspondiente.
 
 ###### ARTÍCULO 63.
 
@@ -1023,7 +1065,9 @@ Una vez que se haya constatado la terminación de los trabajos en los términos 
 
 La contratante, informará por escrito al órgano de control correspondiente, la terminación de los trabajos y la fecha señalada para su recepción a fin de que éstas, si lo estiman conveniente, nombren a un representante para que asista al acto de recepción que será dentro del plazo referido en el párrafo anterior.
 
-En la fecha señalada, la contratante bajo su responsabilidad, recibirá los trabajos ejecutados levantando el acta correspondiente. Si ha transcurrido el plazo que se menciona en el párrafo segundo y la dependencia, entidad o municipio por causas imputables a éstas aun no hayan recibido o se negaren a recibir dichos trabajos, el contratista podrá entregarlos directamente al órgano de control correspondiente debiendo notificar lo anterior, por escrito, a la contratante.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+En la fecha señalada, la contratante, bajo su responsabilidad, recibirá los trabajos ejecutados levantando el acta correspondiente. Si ha transcurrido el plazo que se menciona en el párrafo segundo y la dependencia, entidad o municipio por causas imputables a éstas aun no hayan recibido o se negaren a recibir dichos trabajos, el contratista podrá entregarlos directamente al órgano interno de control correspondiente debiendo notificar lo anterior, por escrito, a la contratante.
 
 Los gastos que se ocasionen por concepto de custodia y resguardo en los supuestos del párrafo anterior, serán a cargo de la contratante.
 
@@ -1039,9 +1083,11 @@ Si transcurridos doce meses a partir de la fecha de recepción de los trabajos, 
 
 El contratista será el único responsable de la adecuada ejecución de los trabajos y deberá sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, medio ambiente y uso de la vía pública así como de las disposiciones establecidas al efecto por la contratante; las responsabilidades, así como los daños y perjuicios que resultaren por su inobservancia, serán a cargo del contratista.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 69.
 
-Una vez concluida la obra, o parte utilizable de la misma, el órgano de control correspondiente vigilará que la unidad que deba operarla, reciba oportunamente de la autoridad responsable de su ejecución, la obra en condiciones de operación, los planos definitivos autorizados acordes a la misma, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos para su funcionamiento, conservación, mantenimiento correspondientes y los certificados de garantía de calidad de los bienes instalados.
+Una vez concluida la obra o parte utilizable de la misma, el órgano interno de control correspondiente vigilará que la unidad que deba operarla reciba oportunamente de la autoridad responsable de su ejecución, la obra en condiciones de operación, los planos definitivos autorizados acordes a la misma, las normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos para su funcionamiento, conservación, mantenimiento correspondientes y los certificados de garantía de calidad de los bienes instalados.
 
 ###### ARTÍCULO 70.
 
@@ -1050,6 +1096,8 @@ La contratante u organismo operador al que se le consigne la responsabilidad de 
 ## TÍTULO V. DE LA OBRA POR ADMINISTRACIÓN DIRECTA Y DE LAS EXCEPCIONES
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 71.
 
@@ -1095,9 +1143,11 @@ El incumplimiento a lo previsto en esta ley será motivo de responsabilidad en l
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 73.
 
-La forma y términos en que las dependencias, entidades o Municipios deberán remitir al órgano de control correspondiente la información relativa a los actos y contratos materia de esta ley, serán establecidas de manera sistemática y coordinada por estas últimas en el ámbito de sus respectivas competencias.
+La forma y términos en que las dependencias, entidades o municipios deberán remitir al órgano interno de control correspondiente la información relativa a los actos y contratos materia de esta Ley, serán establecidas de manera sistemática y coordinada por estas últimas en el ámbito de sus respectivas competencias.
 
 Para tal efecto las dependencias, entidades Municipios conservarán toda la documentación comprobatoria de dichos actos y contratos cuando menos por un lapso de tres años, contados a partir de la fecha de su recepción.
 
@@ -1107,7 +1157,9 @@ La comprobación de la calidad y de las especificaciones de la obra pública, se
 
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por el perito que realice la verificación, así como por el contratista y el representante de la contratante adquirente que hubiere intervenido.
 
-El órgano de control podrá verificar en cualquier tiempo que las obras y servicios se realicen según lo establecido en esta ley, así también podrá solicitar, a contratante y contratista datos e informes y podrá hacer visitas e inspecciones que consideren necesarias.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+El órgano interno de control podrá verificar en cualquier tiempo que las obras y servicios se realicen según lo establecido en esta Ley, así también podrá solicitar, a contratante y contratista, datos e informes y podrá hacer las visitas e inspecciones que consideren necesarias.
 
 ## TÍTULO VII. DE LAS INFRACCIONES Y LAS SANCIONES
 
@@ -1115,11 +1167,13 @@ El órgano de control podrá verificar en cualquier tiempo que las obras y servi
 
 ###### ARTÍCULO 75.
 
-Los licitantes o contratistas que infrinjan las disposiciones de esta ley, serán sancionados por el órgano de control correspondiente, con multa equivalente a la cantidad de cincuenta hasta mil veces el salario mínimo general vigente en el Estado en la fecha de la infracción.
+Los licitantes o contratistas que infrinjan las disposiciones de esta Ley, serán sancionados por el órgano interno de control correspondiente, con multa equivalente a la cantidad de cincuenta hasta mil veces la Unidad de Medida y Actualización vigente en el Estado en la fecha de la infracción.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 76.
 
-El órgano de control correspondiente además de la sanción a que se refiere el artículo anterior, inhabilitará temporalmente para participar en procedimientos de contratación o celebrar contratos regulados por esta ley, cuando se encuentren en uno de los supuestos siguientes:
+El órgano interno de control correspondiente, además de la sanción a que se refiere el artículo anterior, inhabilitará temporalmente para participar en procedimientos de contratación o celebrar contratos regulados por esta Ley, cuando se encuentren en uno de los supuestos siguientes:
 
 I.- Los licitantes que injustificadamente y por causas imputables a los mismos no formalicen el contrato adjudicado por la convocante.
 
@@ -1129,13 +1183,19 @@ III.- Los contratistas que no cumplan con sus obligaciones contractuales por cau
 
 IV.- Los licitantes o contratistas que proporcionen información falsa, o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración de un contrato o durante su vigencia, o bien, en la prestación o desahogo de una queja en audiencia de conciliación o de una inconformidad.
 
-La inhabilitación que imponga no será menor de tres meses ni mayor de 5 años, plazo en (sic) que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el periódico oficial de (sic) Gobierno del Estado.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
-Las dependencias y entidades, dentro de los quince días siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta ley, remitirán a la contraloría documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+La inhabilitación que imponga no será menor de tres meses ni mayor de 5 años, plazo en que comenzará a contarse a partir del día siguiente a la fecha en que la autoridad resolutora haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Las dependencias y entidades, dentro de los quince días siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la autoridad resolutora la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 77.
 
-El órgano de control correspondiente impondrá las sanciones considerando:
+El órgano interno de control correspondiente impondrá las sanciones considerando:
 
 I.- Los daños o perjuicios que se hubieren producido o puedan producirse.
 
@@ -1145,11 +1205,15 @@ III.- La gravedad de la infracción, y
 
 IV.- Las condiciones del infractor.
 
-El órgano de control correspondiente impondrá las sanciones administrativas de que trata este Título, con base en las disposiciones relativas a la legislación aplicable a la materia.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+El órgano interno de control correspondiente impondrá las sanciones administrativas de que trata este Título, con base en las disposiciones relativas a la legislación aplicable a la materia.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 78.
 
-El órgano de control correspondiente aplicará las sanciones que procedan, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, a los servidores públicos que infrinjan las disposiciones de este ordenamiento.
+El órgano interno de control correspondiente aplicará las sanciones que procedan, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos, a los servidores públicos que infrinjan las disposiciones de este ordenamiento.
 
 ###### ARTÍCULO 79.
 
@@ -1191,7 +1255,7 @@ I.- La nulidad del procedimiento, estableciendo las directrices necesarias para 
 
 II.- La declaración de improcedencia del recurso interpuesto.
 
-###### ARTICULO 83.
+###### ARTÍCULO 83.
 
 En contra de las resoluciones emitidas por el órgano de control, el interesado podrá interponer recurso de inconformidad ante el Tribunal de lo Contencioso Administrativo, en los términos de su ley reglamentaria.
 
@@ -1225,7 +1289,7 @@ Los procedimientos de contratación, de aplicación de sanciones y de inconformi
 
 Los contratos de obra pública y servicios relacionados con las mismas que se encuentren vigentes al entrar en vigor esta ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
 
-###### ARTICULO OCTAVO.
+###### ARTÍCULO OCTAVO.
 
 Al inicio de la vigencia de la Ley de Procedimiento Administrativo, quedará sin efectos en su totalidad, el capitulo VIII de la presente ley.
 
@@ -1462,3 +1526,111 @@ La presente Ley entrará en vigor el día de su publicación en el Periódico Of
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el 1 de enero de 2018, considerando lo previsto en los párrafos subsecuentes.
+
+La reforma y adición al artículo 6 bis de la Ley de Deuda Pública del Estado de Querétaro, iniciará su vigencia a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Lo dispuesto en el artículo 150 de la Ley de Hacienda del Estado de Querétaro, estará en vigor hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción establezca la operación del Sistema nacional de Servidores públicos y particulares sancionados, previsto por el artículo 49, fracción III, de la Ley General del Sistema Nacional Anticorrupción.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2018, serán las siguientes:
+
+I. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente.
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos.
+
+c) La expedición de certificados de no propiedad;
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular.
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos.
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios.
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial.
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos.
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos.
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
+
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+VIII. Se cancelan los créditos fiscales por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2017, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+Se cancelan los adeudos del Impuesto Sobre Tenencia o Uso de Vehículos, así como los derechos por control vehicular, previstos en la Ley de Hacienda del Estado de Querétaro, generados por los ejercicios fiscales 2013 y anteriores;
+
+IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del Impuesto Predial;
+
+X. De los recursos que se obtengan por los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.50 UMA, por cada pago que se realice por dicho concepto, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
+
+XI. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa de Apoyo a la Tenencia gozarán de una reducción en el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, del setenta y cinco por ciento;
+
+XII. De los recursos que se obtengan por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.50 UMA, por cada pago que se realice por dicho concepto, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
+
+XIII. De los recursos que se obtengan por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157 de la Ley de Hacienda del Estado de Querétaro, la cantidad equivalente a 0.85 UMA, por cada pago que se realice por dicho concepto, se destinarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía, prioritariamente al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga";
+
+XIV. Las autoridades fiscales podrán restituir las cantidades pagadas por los particulares por concepto de derechos contenidos en la Ley de Hacienda del Estado de Querétaro, siempre y cuando:
+
+a) Los particulares hayan promovido un medio de defensa en materia de constitucionalidad, con motivo del pago de los derechos a que hace referencia el primer párrafo de esta fracción;
+
+b) El medio de defensa no haya sido extemporáneo;
+
+c) Las cantidades sujetas a restitución hayan sido efectivamente pagadas al fisco estatal; y
+
+d) El particular presente ante las autoridades jurisdiccionales competentes el escrito mediante el cual se desista del medio de defensa señalado en el inciso a) de esta fracción.
+
+Para efectos de lo anterior, previa opinión favorable de la Procuraduría Fiscal del Estado, se generará la orden de pago correspondiente.
+
+La restitución prevista en esta fracción podrá realizarse antes de que se dicte sentencia que ponga fin al medio de defensa mencionado;
+
+XV. Las tarjetas de circulación a que hace referencia el artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014, 2015, 2016 y 2017 continuarán vigentes hasta el 31 de marzo de 2019.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2018, por los servicios de control vehicular y del Impuesto Sobre Tenencia o Uso de Vehículos que contempla la referida ley.
+
+Los citados contribuyentes, tenedores o usuarios, deberán comprobar la vigencia de las tarjetas de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el comprobante de pago respectivo;
+
+XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
+
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del Impuesto Sobre Loterías, Rifas, Sorteos, Concursos y Juegos con Apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir del 1° de enero del 2015; y
+
+XVIII. Los derechos previstos en los artículos 169 Bis y 169 Ter de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
+
+Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
