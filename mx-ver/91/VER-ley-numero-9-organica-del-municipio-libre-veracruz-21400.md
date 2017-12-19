@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2017-11-23"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -1853,11 +1853,31 @@ X. Las demás que le otorguen esta ley y las leyes del Estado.
 
 #### SECCIÓN CUARTA. DE LA CONTRALORÍA
 
-> <small>(REFORMADO, G.O. 18 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 73 Quater.
 
-El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de esta Ley, establecerá un órgano de control interno autónomo, el cual se denominará Contraloría, que desarrollará funciones de control y evaluación; su titular deberá reunir los requisitos establecidos en el artículo 68 de este mismo ordenamiento.
+El Ayuntamiento, de conformidad con lo dispuesto por el artículo 35, fracción XXI, de esta Ley, establecerá un órgano de control interno autónomo, denominado Contraloría, con funciones de auditoría, control y evaluación; de desarrollo y modernización administrativa; y de sustanciación de los procedimientos de responsabilidad que correspondan en contra de servidores públicos del Ayuntamiento.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+Para ocupar el cargo de contralor se requiere:
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+I. Ser veracruzano, o ciudadano mexicano con residencia en el Estado no menor de tres años, mayor de treinta años de edad, en pleno goce de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+II. Contar con título profesional legalmente expedido y cédula profesional en alguna de las áreas económicas, contables, jurídicas o administrativas y contar con experiencia profesional de, cuando menos, tres años en actividades afines; y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III. No haber sido condenado por delito intencional que amerite pena privativa de libertad.
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+El titular de la Contraloría será designado por el Cabildo y ejercerá sus funciones con autonomía técnica y de gestión.
 
 > <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
 
@@ -1897,31 +1917,73 @@ Artículo 73 Novies. Los hechos, conclusiones, recomendaciones y, en general, lo
 
 Las actividades propias de la auditoría no obstaculizarán las labores operativas y trámites administrativos que directamente realicen las dependencias y entidades.
 
-> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 73 Decies.
+Artículo 73 decies. La Contraloría realizará las actividades siguientes:
 
-La Contraloría, con base en sus programas anuales de auditoría y sin perjuicio de lo establecido en otras disposiciones legales, realizará las actividades siguientes:
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2013)</small>
 
 I. Evaluar los sistemas y procedimientos de las dependencias y entidades;
 
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2013)</small>
+
 II. Revisar las operaciones, transacciones, registros, informes y estados financieros;
+
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2013)</small>
 
 III. Comprobar el cumplimiento de las normas, disposiciones legales y políticas aplicables a la entidad, en el desarrollo de sus actividades;
 
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2013)</small>
+
 IV. Examinar la asignación y utilización de los recursos financieros, humanos y materiales;
+
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2013)</small>
 
 V. Revisar el cumplimiento de los objetivos y metas fijados en los programas a cargo de la dependencia o entidad;
 
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2013)</small>
+
 VI. Participar en la determinación de indicadores para la realización de auditorías operacionales y de resultados de los programas;
+
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2013)</small>
 
 VII. Analizar y opinar sobre la información que produzca la dependencia o entidad para efectos de evaluación;
 
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 2013)</small>
+
 VIII. Promover la capacitación del personal de auditoría;
 
-IX. Vigilar el cumplimiento de las medidas correctivas; y
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-X. Las demás que determine el Cabildo.
+IX. Vigilar el cumplimiento de las medidas correctivas;
+
+> <small>(REFORMADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+X. Recibir, registrar, verificar y generar la información que, para efectos de los Sistemas Nacional y Estatal Anticorrupción, deberán contener las Plataformas Digitales respectivas, en relación a las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, así como de la evolución del patrimonio de los servidores públicos del Ayuntamiento. También podrá requerir información adicional, realizando las investigaciones pertinentes; de no existir anomalía alguna tendrá que expedir la certificación correspondiente;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XI. Supervisar y coordinar los procesos de entrega y recepción de los servidores públicos de las áreas administrativas del Ayuntamiento, para verificar que se realicen conforme a las normas y lineamientos aplicables;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XII. Participar dentro del Sistema Estatal Anticorrupción en las acciones de apoyo que requiera el Sistema Estatal de Fiscalización para la implementación de mejoras en la fiscalización del Ayuntamiento;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIII. Recibir las denuncias y quejas en contra de los servidores públicos del Ayuntamiento por hechos presuntamente constitutivos de faltas administrativas por conductas sancionables en términos de la ley que corresponda;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XIV. Iniciar, investigar, substanciar y resolver los procedimientos de responsabilidad administrativa, por actos u omisiones de los servidores públicos que hayan sido calificados como faltas administrativas no graves, en términos de la ley de la materia, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan. Cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante el Tribunal Estatal de Justicia Administrativa; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XV. Resolver el recurso de revocación que interpongan los servidores públicos municipales respecto de las resoluciones por las que se les impongan sanciones administrativas, y dar seguimiento al cumplimiento de las resoluciones dictadas por los órganos jurisdiccionales; y
+
+> <small>(ADICIONADA, G.O. 19 DE DICIEMBRE DE 2017)</small>
+
+XVI. Las demás que determine el Cabildo.
 
 > <small>(ADICIONADO, G.O. 12 DE JUNIO DE 2013)</small>
 
@@ -4017,8 +4079,16 @@ Segundo. Se exceptúa su aplicación para la Administración Pública Municipal 
 
 G.O. 23 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 342 QUE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 100 DE LA LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y REFORMA EL PRIMER PÁRRAFO, LA FRACCIÓN I Y ADICIONA UNA FRACCIÓN V AL ARTÍCULO 95 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 342 QUE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 100 DE LA LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y REFORMA EL PRIMER PÁRRAFO, LA FRACCIÓN I Y ADICIONA UNA FRACCIÓN V AL ARTÍCULO 95 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 371 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS; DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, TODAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA ANTICORRUPCIÓN".]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
