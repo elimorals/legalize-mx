@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2017-05-19"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -1548,7 +1548,9 @@ VI. Cuando hayan intervenido un orador en contra y uno a favor, el Presidente pr
 
 1. La discusión de los dictámenes con proyectos de ley o decreto en lo particular, implica la reserva de artículos determinados para su análisis.
 
-2. Las reservas son propuestas de modificación, adición o eliminación de uno o varios artículos incluidos en el proyecto.
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2017)</small>
+
+2. Las reservas son propuestas de modificación, adición o eliminación de uno o varios artículos al proyecto.
 
 3. Las reservas tendrán que presentarse por escrito antes del inicio de la discusión del dictamen y se registrarán ante la Secretaría, salvo que se discuta un dictamen como resultado de la modificación al orden del día, en cuyo caso, las reservas se presentarán en el transcurso de la discusión en lo particular.
 
@@ -3858,7 +3860,7 @@ Décimo Tercero. (DEROGADO, D.O.F. 20 DE ABRIL DE 2011)
 
 SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 15 de diciembre de 2010.- Dip. Jorge Carlos Ramírez Marín, Presidente.- Rúbrica.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 20 DE ABRIL DE 2011.
 
@@ -4009,3 +4011,9 @@ D.O.F. 19 DE MAYO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 2, 150, 180 Y 242 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 109 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
