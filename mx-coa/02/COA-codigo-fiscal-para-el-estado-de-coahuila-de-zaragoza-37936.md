@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2015-12-22"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,213 +21,433 @@ state: "COA"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2017.
 
-Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
+Ley publicada en el Suplemento E del Periódico Oficial del Estado de Tabasco, el sábado 13 de diciembre de 2014.
 
-El C. ENRIQUE MARTÍNEZ Y MARTÍNEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+DECRETO 167
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
+LIC. ARTURO NÚÑEZ JIMÉNEZ, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 51 FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA LOCAL: A SUS HABITANTES SABED:
 
-DECRETA:
+Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
-NÚMERO 157.-
+LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y:
 
-CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+ANTECEDENTES
+
+[...]
+
+SEXTO.- En esas condiciones, estando facultado el Honorable Congreso del Estado, conforme a los artículos 36, fracción I, de la Constitución Política del Estado libre y Soberano de Tabasco, para expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración de la Entidad, se emite el siguiente:
+
+DECRETO 167
 
 ## TITULO I. DISPOSICIONES GENERALES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO 1.
+###### ARTÍCULO 1.
 
-Las personas físicas y las morales que residan en el Estado o que realicen los actos o actividades que los ordenamientos fiscales gravan, están obligadas a contribuir para el gasto público del Estado conforme a las leyes fiscales respectivas. Las disposiciones de este Código se aplicarán en su defecto.
+Objeto de la Ley
 
-La Federación, el Estado, los Municipios y sus organismos descentralizados quedan obligados a pagar contribuciones cuando realicen los actos o actividades gravadas y únicamente estarán exentos cuando las leyes lo señalen expresamente.
+Esta Ley es de orden público e interés social y de observancia general en el Estado de Tabasco. Tiene por objeto organizar la institución del Ministerio Público, en los términos que disponen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Tabasco, bajo la figura de una Fiscalía General del Estado, con la naturaleza de órgano público autónomo, dotado de personalidad jurídica y patrimonio propio.
 
-###### ARTICULO 2.
+###### ARTÍCULO 2.
 
-Son leyes fiscales locales, además del presente Código:
+Glosario
 
-I. La Ley de Ingresos y el Presupuesto de Egresos del Estado.
+Para los efectos de esta Ley, se entenderá por:
 
-II. La Ley de Hacienda del Estado.
+I. Constitución General: La Constitución Política de los Estados Unidos Mexicanos;
 
-III. Las que autoricen ingresos extraordinarios.
+II. Constitución del Estado: La Constitución Política del Estado Libre y Soberano de Tabasco;
 
-IV. Las que organicen los servicios administrativos para la recaudación, distribución y control de los ingresos y egresos del Estado.
+III. Código Nacional: El Código Nacional de Procedimientos Penales;
 
-V. Los convenios de coordinación que celebre el Estado con la Federación o los Municipios; y la legislación federal o municipal de conformidad con lo que establezcan los propios convenios; y
+IV. Fiscal General: El Fiscal General del Estado de Tabasco;
 
-VI. Las demás leyes de carácter fiscal.
+V. Fiscalía General: La Fiscalía General del Estado de Tabasco;
 
-Los reglamentos de las leyes fiscales participarán de la misma naturaleza de éstas.
+VI. Fiscal del Ministerio Público: Los agentes de la Fiscalía General, responsables de la investigación y persecución de los delitos;
 
-###### ARTICULO 3.
+VII. Fiscal especializado: en plural o singular, los titulares de las Fiscalías Especializadas que regula esta Ley;
 
-Las contribuciones se clasifican en impuestos, derechos y contribuciones especiales, los que se definen de la siguiente manera:
+VIII. Ley: La Ley Orgánica de la Fiscalía General del Estado de Tabasco;
 
-I. Impuestos son las prestaciones establecidas en Ley que deben pagar las personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma y que sean distintas de las señaladas en las fracciones II y III de este artículo.
+IX. Ministerio Público: El Ministerio Público del Estado de Tabasco;
 
-II. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público. También son derechos las contribuciones a cargo de los órganos desconcentrados por prestar servicios exclusivos del Estado.
+X. Policía: Los cuerpos de policía y sus integrantes, especializados en la investigación de delitos; así como todos los policías que pertenecen a las instituciones de seguridad pública del Estado de Tabasco y sus municipios, que en el ámbito de sus respectivas competencias actúan bajo el mando y conducción del Ministerio Público, en la investigación de delitos de la competencia de éste; y
 
-Los recargos, las sanciones, los gastos de ejecución y de la indemnización a que se refiere el antepenúltimo párrafo del artículo 22 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el artículo 1º.
+XI. Reglamento Interior: el Reglamento Interior de la Fiscalía General;
 
-III. Contribuciones especiales son las prestaciones cuyo presupuesto de hecho se caracteriza por un beneficio económico particular proporcionado al contribuyente por la realización de obras públicas o de tareas estatales o municipales provocadas por las actividades del contribuyente. Su rendimiento no debe tener un destino ajeno al financiamiento de las obras o actividades correspondientes.
+XII. Servicio Profesional de Carrera: El Servicio Profesional de Carrera de la Fiscalía General del Estado de Tabasco.
 
-###### ARTICULO 4.
+###### ARTÍCULO 3.
 
-Son aprovechamientos los ingresos distintos de las contribuciones que percibe el estado por funciones de derecho público, los ingresos derivados de financiamientos y los que obtengan los organismos descentralizados que no tengan la naturaleza de derechos.
+Principios
 
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el antepenúltimo párrafo del artículo 22 de este Código, que se aplican en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+Los principios por los cuales se rige la actuación de la Fiscalía General son los de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos, establecidos en el orden constitucional y en los tratados internacionales de los que México forma parte.
 
-Son productos, las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
+###### ARTÍCULO 4.
 
-###### ARTICULO 5.
+Reglas de Competencia
 
-Son participaciones los ingresos provenientes de contribuciones y aprovechamientos federales o municipales que tiene derecho a percibir el Estado por disposición constitucional, por virtud de su adhesión al sistema nacional de coordinación fiscal, o por las leyes fiscales respectivas.
+El Ministerio Público del Estado de Tabasco perseguirá ante los tribunales los delitos del orden común y los que sean de la jurisdicción de las autoridades del Estado de Tabasco conforme a las reglas de competencia establecidas en el Código Nacional y las leyes aplicables. En el mismo contexto, se conducirá respecto de los tipos, formas y reglas de incompetencia.
 
-###### ARTICULO 6.
+Asimismo, en su calidad de representante de la sociedad, intervendrá en todos los asuntos que esta Ley u otros ordenamientos establezcan en el ámbito de sus atribuciones.
 
-Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus funcionarios o empleados o de los particulares, así como aquellos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
+###### ARTÍCULO 5.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+Facultades del Ministerio Público
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+El Ministerio Público iniciará y conducirá la investigación de los hechos que las leyes señalen como delito, coordinará a la Policía y a los servicios periciales durante la misma, resolverá sobre el ejercicio de la acción penal en la forma establecida por los ordenamientos aplicables y, en su caso, ordenará las diligencias pertinentes y útiles para demostrar, o no, la existencia del delito y la responsabilidad de quien lo cometió o participó en su comisión.
 
-La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará a través de autoridades fiscales, las cuales podrán ser auxiliadas por otras dependencias oficiales o por organismos públicos o privados, por disposición de la ley o por autorización de dicha autoridad.
+En el ejercicio de sus funciones, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en los hechos que se les imputen; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos aquellos asuntos que la ley determine.
 
-###### ARTICULO 7.
+El Ministerio Público participará en el proceso penal, con absoluto apego a los principios rectores, facultades, bases, reglas, lineamientos y formalidades señalados en el Código Nacional, en esta Ley y demás normatividad aplicable. En ese marco, realizará las investigaciones que corresponda debiendo en todo momento respetar y proteger tanto la dignidad de la víctima u ofendido como la del imputado. Del mismo modo, actuará con respeto a la investidura de los servidores públicos y a los derechos de las partes que intervengan en el procedimiento penal.
 
-Las disposiciones fiscales que establezcan cargas a los particulares y las que señalan excepciones a las mismas, así como las que fijan las infracciones y sanciones, son de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa.
+###### ARTÍCULO 6.
 
-Las otras disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica. A falta de norma fiscal expresa, se aplicarán supletoriamente las disposiciones del derecho común cuando su aplicación no sea contraria a la naturaleza propia del derecho fiscal.
+Corresponden a la Fiscalía General las siguientes atribuciones:
 
-###### ARTICULO 8.
+A. En materia de Persecución del Delito:
 
-Las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales.
+I. Vigilar la observancia de los principios constitucionales en el ámbito de su competencia, sin perjuicio de las facultades que legalmente correspondan a otras autoridades jurisdiccionales o administrativas;
 
-Dichas contribuciones se determinarán conforme a las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+II. Conducir y mandar a las Policías en la investigación de los delitos y coordinar los servicios periciales;
 
-Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse mediante declaración que se presentará ante las oficinas autorizadas.
+III. Investigar los delitos y ejercitar acción penal ante los tribunales;
 
-I. Si la contribución se calcula por períodos establecidos en Ley y en los casos de retención o de recaudación de contribuciones, los contribuyentes, retenedores o las personas a quienes las leyes impongan la obligación de recaudarlas, las enterarán a más tardar el día 17 del mes de calendario inmediato posterior al de terminación del período de la retención o de la recaudación, respectivamente.
+IV. Desarrollar mecanismos de atención institucionales con perspectiva de género y de protección a grupos vulnerables;
 
-II. En cualquier otro caso dentro de los 5 días siguientes al momento de la causación.
+V. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes;
 
-En el caso de contribuciones que se deben pagar mediante retención, cuando quien deba efectuarla no la retenga, estará obligado a enterar una cantidad equivalente a la que debió haber retenido.
+VI. Asegurar los bienes, instrumentos, objetos o productos del delito, así como aquellos que tengan relación con éste, y disponer de ellos conforme a las reglas y procedimientos que establecen el Código Nacional y la ley correspondiente en el orden local; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+VII. Las demás que le confieran la presente Ley y otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+B. En materia de Atención a Víctimas u Ofendidos del Delito, a través de programas específicos:
 
-Quien haga pago de créditos fiscales deberá obtener de los establecimientos autorizados, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por las autoridades fiscales o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito, se deberá obtener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo electrónico con sello digital.
+I. Otorgar atención médica y psicológica de urgencia y de acompañamiento a las víctimas u ofendidos del delito;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Proporcionar orientación y asesoría jurídica a las víctimas y a los ofendidos por delitos, y vigilar que se garantice o se cubra la reparación del daño, de conformidad con las disposiciones legales aplicables;
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+III. Canalizar a las víctimas y a los ofendidos por delitos, a las dependencias y entidades que proporcionen servicios de carácter tutelar, asistencial, preventivo, médico, psicológico y educacional, vigilando su adecuada atención; y
 
-Las dependencias y organismos descentralizados de la Administración Pública Estatal, que presten servicios deberán expedir las formas valoradas que hayan sido aprobadas por la Secretaría de Finanzas, para que los contribuyentes puedan realizar el pago respectivo.
+IV. Las demás que le confieran la presente ley y otros ordenamientos legales.
 
-###### ARTICULO 9.
+C. En materia de Extinción de Dominio:
 
-El cumplimiento de las leyes fiscales, no podrá eludirse por la simulación de actos jurídicos regidos por disposiciones de derecho privado, que signifiquen el desconocimiento de una obligación de carácter fiscal. En tales casos la obligación con todo y sus accesorios, que se pretende eludir, deberá cumplirse plenamente aplicando además las sanciones respectivas por las infracciones en que se hubiere incurrido.
+Promover la acción de extinción de dominio ante los órganos jurisdiccionales correspondientes, sobre bienes que hayan sido instrumento, objeto o producto del delito o cuando hayan sido destinados a ocultar o mezclar bienes producto de éste; cuando estén siendo utilizados por un tercero, para la realización de los hechos ilícitos a que se refiere la Ley de Extinción de Dominio del Estado de Tabasco, si su dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo; y en aquellos casos en que los bienes estén titulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos y el imputado se comporte como dueño respecto de los mismos.
 
-###### ARTICULO 10.
+D. En materia de Protección de Personas:
 
-Las leyes fiscales, sus reglamentos y las disposiciones fiscales de carácter general, entrarán en vigor en el Estado, el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, salvo que en ellas se establezca una fecha posterior.
+La Fiscalía es la encargada de garantizar, en los casos urgentes, la protección de los sujetos en situación de riesgo y otorgar, a quienes considere pertinente, las medidas de protección necesarias, con base en los criterios orientadores; sin perjuicio de que pueda solicitar la colaboración de la Secretaría de Seguridad Pública para tal fin, con independencia de las facultades que corresponden a la autoridad judicial, de conformidad con lo establecido en la legislación local correspondiente y en el Código Nacional.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### ARTÍCULO 7.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+Del Titular de la Fiscalía General
 
-###### ARTICULO 11.
+La Fiscalía General estará a cargo del Fiscal General, quien ejercerá autoridad jerárquica sobre todo el personal de la misma.
 
-Se considera domicilio fiscal:
+###### ARTÍCULO 8.
 
-I. Tratándose de personas físicas:
+De la designación del Fiscal General
 
-a) Cuando realizan actividades empresariales, el local en que se encuentre el principal asiento de sus negocios.
+El Fiscal General será designado por el Congreso del Estado o, en su defecto, por el Titular del Poder Ejecutivo, por un periodo improrrogable de nueve años, conforme al procedimiento señalado en la Constitución del Estado.
 
-b) Cuando no realicen las actividades señaladas en el inciso anterior, el local que utilicen para el desempeño de sus actividades.
+Si el Fiscal designado no concluye su período de nueve años, por cualquier causa, quien se nombre para sustituirlo lo será por el tiempo restante al originalmente designado.
 
-c) Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación. Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de cinco días para acreditar que su domicilio corresponde a uno de los supuestos previstos en los incisos a) o b) de esta fracción.
+A la conclusión del período para el cual haya sido designado el Fiscal General, cesará desde luego en su ejercicio, sin necesidad de Acuerdo alguno; si a esa fecha no existiese nuevo Fiscal designado, suplirá su ausencia el Vicefiscal que señale el Reglamento Interior, en tanto el Congreso o el Titular del Ejecutivo, en su caso, realizan la designación correspondiente.
 
-Siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en los incisos anteriores o no hayan sido localizados en los mismos, se considerará como domicilio el que hayan manifestado a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten éstas.
+###### ARTÍCULO 9.
 
-II. En el caso de personas morales:
+Normatividad interna
 
-a) Cuando sean residentes en el país, el local en donde se encuentre la administración principal del negocio.
+El Fiscal General emitirá el Reglamento Interior, así como los manuales de organización y de procedimientos, acuerdos, lineamientos circulares, instructivos, y demás disposiciones administrativas que rijan la organización y funcionamiento de la Fiscalía General y regulen la actuación de sus diferentes unidades administrativas y sus servidores públicos.
 
-b) Si se trata de establecimientos de personas morales residentes en el extranjero, dicho establecimiento; en el caso de varios establecimientos, el local en donde se encuentre la administración principal del negocio en el país, o en su defecto el que designen.
+Todos los reglamentos, acuerdos o lineamientos de orden general que emita el Fiscal General, serán publicados en el Periódico Oficial del Estado de Tabasco.
 
-Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligados a ello, o hubieran designado como domicilio fiscal un lugar distinto al que les corresponda de acuerdo con lo dispuesto en este mismo precepto o cuando hayan manifestado un domicilio ficticio, las autoridades fiscales podrán practicar diligencias en cualquier lugar en el que realicen sus actividades o en el lugar que conforme a este artículo se considere su domicilio, indistintamente.
+###### ARTÍCULO 10.
 
-###### ARTICULO 12.
+Estructura Orgánica
 
-Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios fiscales, éstos coincidirán con el año de calendario. Cuando las personas morales inicien sus actividades con posterioridad al 1o. de enero, en dicho año el ejercicio fiscal será irregular, debiendo iniciarse el día en que comiencen actividades y terminarse el 31 de diciembre del año de que se trate.
+La estructura orgánica de la Fiscalía General deberá comprender, al menos, las siguientes unidades administrativas:
 
-Cuando las leyes fiscales establezcan que las contribuciones se calculen por mes, se entenderá que corresponde al mes de calendario.
+I. Oficina del Fiscal General;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2009)</small>
+II. Vicefiscalías;
 
-###### ARTICULO 13.
+III. Fiscalías Especializadas;
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de Enero; el primer lunes de febrero en conmemoración del 5 de Febrero; el tercer lunes de marzo en conmemoración del 21 de Marzo; el 1o. y 5 de Mayo; el 16 de Septiembre; el 12 de Octubre; el tercer lunes de noviembre en conmemoración del 20 de Noviembre; el 1o. de Diciembre de cada seis años, cuando corresponda a la transmisión del poder Ejecutivo Federal; el 1º de diciembre de cada seis años cuando corresponda a la transmisión del poder Ejecutivo Estatal y el 25 de Diciembre.
+IV. Fiscales del Ministerio Público, encargados de la investigación y la persecución de los delitos;
 
-Tampoco se contará en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales. No son vacaciones generales si se llegan a otorgar en forma escalonada.
+V. Policía de Investigación;
 
-En los plazos establecidos por períodos y aquellos en que se señale una fecha determinada para su extinción se computarán todos los días.
+VI. Servicios Periciales y de Ciencias Forenses;
 
-Cuando los plazos se fijen por mes o por año, sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes de calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inició. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
+VII. Órgano Especializado en Mecanismos Alternativos de Solución de Controversias;
 
-No obstante lo dispuesto en los párrafos anteriores, si el último día del plazo o en la fecha determinada, las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores, o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable, inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones o pagos.
+VIII. Visitaduría General;
 
-También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva, ante las instituciones de crédito autorizadas.
+IX. Direcciones Administrativas;
 
-Las autoridades fiscales podrán habilitar los días inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
+X. Escuela de la Fiscalía;
 
-###### ARTICULO 14.
+XI. Contraloría; y
 
-La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas entre las 7:30 y las 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez. Tratándose de la verificación de bienes y de mercancías en transporte, se considerarán hábiles todos los días del año y las veinticuatro horas del día.
+XII. Las demás que establezcan esta Ley, el Reglamento Interior y otras disposiciones aplicables, para los fines respectivos.
 
-Las autoridades fiscales para la práctica de visitas domiciliarias, del procedimiento administrativo de ejecución y de notificaciones, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia, realice las actividades por las que debe pagar contribuciones en días y horas inhábiles.
+El Fiscal General, de conformidad con la disponibilidad presupuestal, podrá crear las unidades administrativas que resulten necesarias para el ejercicio de las funciones de la Fiscalía, atendiendo a los requerimientos del servicio, así como establecer Fiscalías especiales para el conocimiento, la atención y la persecución de delitos específicos que así lo ameriten por sus características, trascendencia e interés.
 
-También se podrá efectuar la habilitación a que se refiere este párrafo, para la continuación de una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de la contabilidad o de los bienes del particular.
+En la investigación de los delitos o en el ejercicio de la acción penal, todas las corporaciones de seguridad, sean públicas o privadas, serán auxiliares de la Fiscalía y en esa condición actuarán bajo su mando.
 
-###### ARTICULO 15.
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
 
-Se entiende por enajenación de bienes:
+El Fiscal General, los Vicefiscales, los Fiscales Especializados, el personal de confianza, los fiscales del Ministerio Público, los integrantes de la Policía Ministerial y todos los miembros del Servicio Profesional de Carrera o de designación especial estarán sujetos a la Ley General de Responsabilidades Administrativas, así como al régimen especial de la materia, previsto en esta Ley.
 
-I. Toda transmisión de propiedad, aún en la que el enajenante se reserva el dominio del bien enajenado.
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
 
-II. En endoso a favor de persona determinada de la factura que ampara la propiedad de un bien mueble. Cuando el endoso se realiza en blanco, se presumirá que el tenedor de la factura es el endosatario o propietario del bien cuya propiedad se encuentra amparada en la factura endosada.
+Su actuación será vigilada por el Órgano Superior de Fiscalización del Estado, la Visitaduría General y la Contraloría, conforme a sus respectivas competencias.
 
-III. Las adjudicaciones, aun cuando se realicen a favor del acreedor.
+###### ARTÍCULO 11.
 
-IV. La aportación a una sociedad o asociación.
+Facultades y obligaciones del Fiscal General
 
-V. La que se realiza mediante el arrendamiento financiero.
+El Fiscal General tendrá las siguientes facultades y obligaciones:
 
-VI. La que se realiza a través del fideicomiso, en los siguientes casos:
+I. Determinar la política institucional del Ministerio Público y los criterios y prioridades en la investigación de los delitos y el ejercicio de la acción penal;
 
-a) En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+II. Coadyuvar en la definición y la aplicación de la política criminal del Estado en los términos que establezcan las leyes;
 
-b) En el acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+III. Garantizar la autonomía del Ministerio Público;
 
-VII. La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+IV. Dictar los criterios generales que deberán regir la protección y la atención de víctimas u ofendidos y testigos;
 
-a) En el acto en el que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+V. Participar en la integración de los organismos, mecanismos e instancias de coordinación y colaboración, tanto nacionales y estatales como del extranjero, en materia de procuración de justicia y seguridad pública;
 
-b) En el acto en el que el fideicomitente ceda sus derechos si entre éstos se incluye el de que los bienes se transmitan a su favor.
+VI. Presentar anualmente al Congreso del Estado y al titular del Poder Ejecutivo, dentro de los primeros quince días del mes de diciembre de cada año, por escrito, un informe de actividades;
 
-VIII. La transmisión de dominio de un bien tangible o del derecho para adquirirlo que se efectúe a través de enajenación de títulos de crédito o de la cesión de derechos que los representen.
+VII. Comparecer ante el Congreso del Estado, cuando se le cite a rendir cuentas o a informar sobre su gestión;
 
-Tratándose de vehículos automotores, se presumirá que el propietario es la persona a cuyo nombre se obtuvo el registro vehicular y las placas metálicas con numero identifica torio (sic) correspondiente.
+VIII. Proponer a los servidores públicos que gozan del derecho de iniciar leyes ante el Congreso del Estado, proyectos legislativos relacionados con las funciones de la Fiscalía;
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
+IX. Emitir opiniones respecto de las iniciativas o proyectos legislativos, en el ámbito de su competencia, ante el Congreso del Estado;
+
+X. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento de la Fiscalía y ejercer la disciplina entre sus integrantes;
+
+XI. Conocer y resolver las excusas y recusaciones que sean interpuestas en contra de los Fiscales del Ministerio Público;
+
+XII. Conceder licencias y aceptar las renuncias de los servidores públicos de la Fiscalía;
+
+XIII. Determinar los cambios de adscripción de los servidores públicos de la Fiscalía;
+
+XIV. Elaborar el Proyecto de Presupuesto de Egresos de la Fiscalía General para cada ejercicio fiscal, y remitirlo, por conducto del titular del Poder Ejecutivo, al Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+XV. Administrar los recursos de la Fiscalía, en los términos que señalen los ordenamientos relativos y enviar mensualmente, dentro de los treinta días siguientes del mes que corresponda, al Órgano Superior de Fiscalización del Estado de Tabasco, el avance financiero y presupuestal. Asimismo, remitir los informes de autoevaluación trimestrales y anualmente al mencionado Órgano, a más tardar el treinta de abril del año siguiente, la cuenta pública de la Fiscalía General, debidamente comprobada y con la información suficiente en los términos de la ley aplicable, para los efectos legales correspondientes;
+
+XVI. Realizar las acciones necesarias en cumplimiento de las disposiciones legales y reglamentarias relativas a la constitución y administración de fondos en el ámbito de su competencia;
+
+XVII. Expedir las normas reglamentarias que sean necesarias para el ejercicio de sus atribuciones y el adecuado funcionamiento de la Fiscalía General;
+
+XVIII. Emitir instrucciones generales o particulares al personal de la Fiscalía sobre el ejercicio de sus funciones y la prestación del servicio;
+
+XIX. Otorgar los nombramientos y, en su caso, los poderes legales necesarios a los servidores públicos que deban actuar con la representación de la Fiscalía;
+
+XX. Celebrar los actos jurídicos que sean necesarios, relacionados con las funciones de la Fiscalía;
+
+XXI. Ofrecer y entregar recompensas, conforme lo señale la normatividad correspondiente;
+
+XXII. Conceder audiencias a las personas que lo soliciten, para tratar asuntos relativos a la procuración de justicia; y
+
+XXIII. Las demás que establezcan las leyes y los reglamentos.
+
+El Fiscal ejercitará, por sí o por conducto de los titulares de las unidades y órganos que integran la Fiscalía, las atribuciones a que se refiere este ordenamiento, según las previsiones de las leyes y reglamentos y los acuerdos que dicte.
+
+Las atribuciones establecidas en las fracciones I, III, IV, VI, VII, VIII, IX, X, XIV y XVII, de este artículo, son indelegables.
+
+###### ARTÍCULO 12.
+
+De las Vicefiscalías.
+
+Para el desarrollo de las atribuciones de la Fiscalía, se establecerán, de acuerdo a la disponibilidad presupuestal, las Vicefiscalías que sean necesarias, las que auxiliarán al Fiscal en los términos de sus respectivas competencias, con la estructura y funciones que señalen las disposiciones legales, reglamentarias y administrativas aplicables.
+
+###### ARTÍCULO 13.
+
+De las Fiscalías Especializadas
+
+Para el desarrollo de las funciones de la Fiscalía, se contará con un sistema de especialización y coordinación, sujeto a las bases generales siguientes:
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+I. De conformidad con las leyes aplicables y con las necesidades del servicio, la Fiscalía General contará con fiscalías especializadas en la investigación y la persecución de delitos, atendiendo a las diversas formas de manifestación u operación de la delincuencia; a la naturaleza, complejidad e incidencia de aquéllos; así como en razón de la pertenencia de la víctima u ofendido a grupos vulnerables, en su caso.
+
+Cuando la Constitución General, la del Estado, o las leyes Generales aplicables, según la materia de que se trate, ordenen la creación de Fiscalías Especializadas, su naturaleza, atribuciones, integración, organización y funcionamiento, incluyendo el mecanismo de designación o remoción de sus titulares, en su caso, estarán sujetos a dichos ordenamientos, en lo conducente;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+II. Las Fiscalías Especializadas actuarán en la circunscripción territorial que el Fiscal General determine mediante acuerdo, en coordinación con las demás unidades administrativas competentes;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+III. Las Fiscalías Especializadas contarán con la estructura administrativa que establezcan las normas aplicables y dispondrán del personal necesario, incluyendo fiscales del Ministerio Público especializados en sus respectivas materias, así como de los recursos financieros y materiales que se requieran para su efectiva operación; y
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+IV. El Fiscal General expedirá las normas necesarias para la coordinación y la articulación entre las Fiscalías Especializadas, a efecto de optimizar los recursos disponibles, a la vez que garantizar la eficacia en su actuación. En el Presupuesto de Egresos que se someta al Congreso se identificará el monto aprobado a cada Fiscalía Especializada, para el respectivo ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+Conforme al artículo 54 Ter, párrafo quinto, de la Constitución del Estado, los fiscales especializados en materia de delitos electorales y en materia de hechos de corrupción, serán nombrados y removidos libremente por el Fiscal General; no obstante, dichos nombramientos o remociones, en su caso, podrán ser objetados por el voto de dos terceras partes de los miembros presentes del Congreso, en un plazo no mayor a veinte días naturales.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 13-A.
+
+De la Fiscalía Especializada en Delitos Electorales
+
+Conforme a lo previsto por la Ley General en Materia de Delitos Electorales, la Fiscalía General contará con una Fiscalía Especializada en Delitos Electorales, por cuyo conducto deberá:
+
+I. Desarrollar mecanismos de coordinación y colaboración entre la Federación, las demás entidades federativas y los municipios, con la finalidad de fortalecer el combate de los delitos de carácter electoral;
+
+II. Participar en la implementación de un sistema de formación, actualización, capacitación y profesionalización de los servidores públicos que participen en los procesos de investigación de delitos electorales;
+
+III. Aplicar los protocolos estandarizados en materia de investigación y persecución de delitos electorales, incluyendo el uso de la fuerza pública;
+
+IV. Participar en la cooperación e intercambio de información entre las diversas instancias de procuración de justicia en el país en materia de delitos electorales;
+
+V. Recopilar e intercambiar con otras instituciones, datos y estadísticas relativos a delitos electorales, de conformidad con la normatividad aplicable;
+
+VI. Participar en la ejecución de políticas, programas y estrategias para el combate a los delitos electorales;
+
+VII. Promover la participación de la comunidad y de instituciones académicas, para que coadyuven en los procesos de evaluación de las políticas de prevención de delitos electorales; y
+
+VIII. Las demás que establezcan la Ley General en materia de Delitos Electorales y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 13-B.
+
+De la Fiscalía Especializada en Combate a la Corrupción
+
+La Fiscalía Especializada en Combate a la Corrupción es el órgano con autonomía técnica y operativa responsable de investigar y perseguir las conductas que la ley considera como delitos por hechos de corrupción.
+
+El titular de la Fiscalía Especializada en Combate a la Corrupción formará parte del Comité Coordinador del Sistema Estatal Anticorrupción y, en esa condición, tendrá las responsabilidades y funciones que se establecen en la Ley del Sistema Anticorrupción del Estado de Tabasco y demás normatividad aplicable.
+
+Su titular presentará anualmente al Fiscal General un informe de actividades y resultados, el cual será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco. Dicho informe será remitido, además, al Comité Coordinador del Sistema Estatal Anticorrupción y al Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 13-C.
+
+De las atribuciones de la Fiscalía Especializada en Combate a la Corrupción
+
+Además de las atribuciones señaladas en el Artículo 6 de esta Ley, la Fiscalía Especializada en Combate a la Corrupción tendrá, de manera específica, las siguientes:
+
+I. Ejercer las atribuciones que la Constitución General y la del Estado, el Código Nacional, la Ley General de Responsabilidades Administrativas, esta Ley y demás ordenamientos aplicables confieren al Ministerio Público en lo relativo a delitos en materia de corrupción, con excepción de los cometidos por servidores públicos de la Fiscalía General, en cuyo caso se estará a lo dispuesto en el artículo 21 de esta ley;
+
+II. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+III. Nombrar, previo acuerdo con el Fiscal General, a los titulares de las unidades administrativas que integren la Fiscalía Especializada en Combate a la Corrupción;
+
+IV. Proponer al Fiscal General el nombramiento de los agentes del Ministerio Público por designación especial que reúnan amplia experiencia profesional en combate a la corrupción;
+
+V. Proponer a la unidad administrativa competente el contenido teórico práctico de los programas de capacitación, actualización y especialización, respecto de los agentes del Ministerio Público adscritos a la Fiscalía Especializada;
+
+VI. Diseñar e implementar estrategias y líneas de acción para combatir los delitos en materia de corrupción;
+
+VII. Implementar planes y programas destinados a detectar la comisión de delitos en materia de corrupción en el ámbito de su competencia. Dichos planes y programas deberán ser aprobados por el Fiscal General;
+
+VIII. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de delitos en materia de corrupción;
+
+IX. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad, respecto de delitos en materia de corrupción;
+
+X. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de control y fiscalización de recursos públicos, a fin de fortalecer el desarrollo de las investigaciones;
+
+XI. Requerir a las instancias de gobierno competentes, la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquier otro de similar naturaleza;
+
+XII. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para que pueda ser utilizada por ésta y otras unidades competentes de la Fiscalía General, en especial la relacionada con la investigación de los hechos que la ley considera como delitos en materia de corrupción;
+
+XIII. Coadyuvar con otras áreas competentes de la Fiscalía General, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con hechos de corrupción;
+
+XIV. Generar herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita; y
+
+XV. Las demás que, en su caso, le confieran otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 13-D.
+
+De la Fiscalía Especializada en la Investigación del Delito de Tortura
+
+De conformidad con lo ordenado por la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Fiscalía General del Estado contará con la Fiscalía Especializada en la Investigación del Delito de Tortura, dotada de autonomía técnica y operativa.
+
+Dicha Fiscalía Especializada, además de lo dispuesto en el Código Nacional, una vez que tenga conocimiento de la probable comisión del delito de tortura, deberá llevar a cabo las acciones establecidas en el artículo 35 de la Ley General citada en el párrafo anterior.
+
+Para ser integrante y permanecer en la Fiscalía Especializada en la investigación del delito de tortura, será necesario cumplir con los requisitos establecidos en el artículo 58 de la Ley General de la materia.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+###### ARTÍCULO 13-E.
+
+De las atribuciones de la Fiscalía Especializada en la investigación del Delito de Tortura
+
+La Fiscalía Especializada en la investigación del Delito de Tortura tendrá, en el ámbito de su competencia, las obligaciones y facultades siguientes:
+
+I. Iniciar y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+II. Requerir a las instancias del sector público competentes, y del sector privado en los casos que disponga la Ley General de Víctimas, a que se le brinde atención médica, psicológica y jurídica a las personas Víctimas de las conductas previstas en dicha Ley General;
+
+III. Requerir la participación de las autoridades en materia de atención a Víctimas, en términos de las disposiciones aplicables;
+
+IV. Ejecutar, supervisar y evaluar el Protocolo Homologado, así como los protocolos de actuación y para la investigación a que se refieren los artículos 60 y 61 de la Ley General de la materia;
+
+V. Pedir a las autoridades competentes su colaboración y apoyo para la investigación y persecución de los delitos materia de su competencia;
+
+VI. Decretar las medidas de protección en favor de la vida o la integridad de las Víctimas, de conformidad con la legislación aplicable;
+
+VII. Solicitar las medidas cautelares aplicables al imputado por los delitos previstos en la Ley General, de conformidad con la legislación aplicable;
+
+VIII. Establecer mecanismos de cooperación con otras autoridades competentes para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
+
+IX. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías Especializadas con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en la Ley General y participar en la actualización del Registro Nacional del Delito de Tortura;
+
+X. Llevar a cabo análisis de contextos y patrones sobre la comisión del delito de tortura, con base en los datos del Registro Nacional del Delito de Tortura y otra información disponible;
+
+XI. Ingresar a cualquiera de los lugares de privación de libertad en donde se presuma que se cometió el delito de tortura;
+
+XII. Proponer políticas para la prevención de las conductas previstas en la Ley General de la materia; y
+
+XIII. Las demás que dispongan la Ley General de la materia, esta Ley y otras disposiciones aplicables.
+
+###### ARTÍCULO 14.
+
+De los Fiscales del Ministerio Público encargados de la investigación y la persecución de los delitos
+
+Los Fiscales del Ministerio Público encargados de la investigación y la persecución de los delitos gozarán de autonomía en el ejercicio de sus facultades, podrán actuar válidamente en cualquier lugar del territorio del Estado y, además de las enunciadas en la Constitución General y el Código Nacional, tendrán las siguientes atribuciones:
+
+I. Dirigir las investigaciones penales que se les asignen;
+
+II. Promover acciones penales, civiles y administrativas e interponer los recursos correspondientes, conforme a lo establecido en las leyes de la materia respectiva;
+
+III. Promover los mecanismos alternativos de solución de controversias en los casos autorizados por la ley;
+
+IV. Vigilar la correcta aplicación de la ley, en los casos de delitos cometidos por miembros de pueblos o comunidades indígenas;
+
+V. Intervenir en los asuntos relativos a los menores de edad, personas con discapacidad y adultos mayores, en los casos previstos en las leyes civiles y procesales que correspondan;
+
+VI. Certificar copia de las actuaciones, los documentos y medios de investigación que obren en su poder con motivo y en ejercicio de sus funciones; y
+
+VII. Las demás que les otorguen las leyes correspondientes.
+
+###### ARTÍCULO 15.
+
+De la Policía de Investigación
+
+La Policía de Investigación dependerá del Vicefiscal que determine el Reglamento Interior y actuará coordinadamente con los Fiscales del Ministerio Público en la investigación de los delitos, en estricto respeto a los principios que rigen el procedimiento penal y la actuación de las autoridades, conforme a lo dispuesto en la Constitución General, el Código Nacional y demás leyes aplicables.
 
 ###### ARTICULO 15-A.
 
@@ -247,29 +467,13 @@ Para determinar el monto de las cantidades a que se refiere el párrafo anterior
 
 Cuando de conformidad con las disposiciones fiscales se deban realizar operaciones aritméticas, con el fin de determinar factores o proporciones, las mismas deberán calcularse hasta el diezmilésimo.
 
-### CAPITULO II. DE LOS MEDIOS ELECTRONICOS
+### CAPÍTULO II. DE LAS FACULTADES DEL MINISTERIO PÚBLICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+###### ARTÍCULO 16.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+De los Servicios Periciales y de Ciencias Forenses
 
-###### ARTICULO 16.
-
-Cuando las disposiciones fiscales obliguen a presentar documentos, éstos podrán ser digitales, y mediante una Clave de Identificación Estatal optar por cumplir con sus obligaciones a través de la red electrónica mundial, salvo los casos que establezcan una regla diferente.
-
-Para efectos del párrafo anterior, se entiende por documento, entre otros, las solicitudes, declaraciones, avisos y constancias a que se refieren los artículos 19 y 31 de este Código.
-
-Se entiende por documento digital todo mensaje de datos que contiene información o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología.
-
-En los documentos digitales, una Clave de Identificación Estatal, garantizará la procedencia del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
-
-Los datos de creación de las Claves de Identificación Estatal, podrán ser tramitados directamente ante las autoridades fiscales competentes, ubicadas de acuerdo con la circunscripción territorial correspondiente al domicilio fiscal del contribuyente, requiriendo que el interesado comparezca personalmente para acreditar su identidad. A su vez, facilitarán las herramientas informáticas para que el interesado genere su propia Clave de Identificación Estatal, la cual se considera válida desde el momento mismo de su creación.
-
-Los datos de identidad que las autoridades fiscales competentes obtengan con motivo de la comparecencia, no quedarán comprendidos dentro de lo dispuesto por el artículo 62 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+Los Servicios Periciales y de Ciencias Forenses dependerán directamente del Fiscal General. Es la unidad responsable de auxiliar a los Fiscales del Ministerio Público y a la Policía en la investigación y la persecución de los delitos, encargándose de buscar, obtener, preservar y analizar, conforme a los principios y métodos técnico-científicos apropiados, los indicios y pruebas tendentes al esclarecimiento de los hechos y la identidad de quienes intervinieron en ellos, así como de emitir los dictámenes pertinentes.
 
 ###### ARTICULO 16-A.
 
@@ -317,23 +521,31 @@ El titular de la Clave de Identificación Estatal será responsable de las conse
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
-###### ARTICULO 17.
+###### ARTÍCULO 17.
 
-Las autoridades fiscales deberán establecer mediante Reglas de Carácter General los requisitos y procedimientos que deberán observar los contribuyentes para el cumplimiento de lo dispuesto en los artículos 16, 16-A, 16-B y 16-C de este Código.
+Órgano Especializado en Mecanismos Alternativos de Solución de Controversias
 
-Las reglas que para tal efecto expidan las autoridades fiscales deberán ser publicadas en el Periódico Oficial del Estado.
+La Fiscalía contará con órganos especializados en mecanismos alternativos de solución de controversias, que deberán fomentar la cultura de la paz y tramitar los procedimientos alternativos previstos en el Código Nacional y las leyes de la materia, y ejercer sus facultades con independencia técnica y de gestión así como proponer el procedimiento alternativo que resulte más adecuado para cada caso concreto. Dichos órganos se crearán en el territorio estatal conforme a la disponibilidad presupuestal y lo señalado en el Reglamento Interior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+###### ARTÍCULO 18.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+Visitaduría General
 
-###### ARTICULO 18.
+La Visitaduría General dependerá directamente del Fiscal; estará a cargo de un Visitador General y contará con los visitadores que se requieran. Tendrá las siguientes funciones:
 
-El uso de las Claves de Identificación Estatal que se establezcan para la presentación de documentos, declaraciones y realización de pagos a través de la red electrónica mundial, sustituye a la firma autógrafa y producirá los mismos efectos que las leyes otorgan a las declaraciones y pagos efectuados en los establecimientos autorizados; en consecuencia, las declaraciones y pagos realizados mediante el uso de la red electrónica mundial tendrán el mismo valor probatorio.
+I. Ordenar y realizar revisiones del cumplimiento de las labores encomendadas al personal de la Fiscalía;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
+II. Iniciar y dar seguimiento al procedimiento disciplinario previsto en esta Ley y demás ordenamientos aplicables; y
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2017)</small>
+
+III. Las demás que le confieran las leyes y los reglamentos.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+
+De conformidad con lo establecido por la Ley General de Responsabilidades Administrativas, corresponderá a la Visitaduría General cumplir las funciones de autoridad investigadora respecto de las conductas de los Servidores Públicos de la fiscalía General y de particulares, que puedan constituir responsabilidades administrativas en el ámbito de su competencia, a efecto de determinar la existencia o inexistencia de actos u omisiones que la ley señale como falta administrativa y calificarla como grave o no grave, para los efectos procedentes.
 
 ###### ARTICULO 18-A.
 
@@ -347,41 +559,13 @@ Las personas físicas y morales que tengan asignado un buzón tributario deberá
 
 ## TITULO II. DE LOS PROCEDIMIENTOS, DERECHOS Y OBLIGACIONES DE LOS CONTRIBUYENTES
 
-### CAPITULO UNICO
+### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA FISCALÍA GENERAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+###### ARTÍCULO 19.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+Direcciones Administrativas
 
-###### ARTICULO 19.
-
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada autográficamente por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella dactilar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-Las promociones deberán presentarse en las formas que al efecto aprueben las autoridades fiscales, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera.
-
-Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos.
-
-I. Constar por escrito.
-
-II. El nombre, la denominación o razón social y el domicilio fiscal manifestado al registro estatal de contribuyentes, y la clave que le correspondió en dicho registro.
-
-III. El número de cuenta estatal que le sea asignado.
-
-IV. Señalar la autoridad a la que se dirige y el propósito de la promoción.
-
-V. En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
-
-Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de diez días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
-
-Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos a que se refiere el artículo 22 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+Las Direcciones Administrativas de la Fiscalía General se encargarán de atender y desahogar los asuntos de orden administrativo relacionados con los recursos humanos, financieros y materiales; así como del cumplimiento de las normas relativas a las adquisiciones, arrendamientos y prestación de servicios; y de obras públicas; transparencia y acceso a la información pública, comunicación social y representación legal de la Fiscalía General, entre otras.
 
 ###### ARTICULO 19-A.
 
@@ -399,205 +583,127 @@ Cuando no se cumplan los requisitos a que se refieren las fracciones I y II de e
 
 El promovente deberá contar con la Clave de Identificación Estatal, la cual garantizará la procedencia del documento digital. Cuando acompañe documentos distintos a escrituras o poderes notariales, y éstos no sean digitalizados, la promoción deberá presentarla en forma impresa, cumpliendo los requisitos a que se refiere el artículo 19 de este Código. Las escrituras o poderes notariales deberán presentarse en forma digitalizada, cuando se acompañen a un documento digital.
 
-###### ARTICULO 20.
+###### ARTÍCULO 20.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o notario.
+Escuela de la Fiscalía
 
-Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar todo tipo de instancias o promociones dentro del procedimiento administrativo que se relacione con estos propósitos.
+La Escuela de la Fiscalía tendrá las siguientes funciones:
 
-Quien promueva a nombre de otro deberá acreditar que la representación le fue otorgada a mas tardar en la fecha en que se presenta la promoción inicial.
+I. Diseñar los planes y programas interdisciplinarios de profesionalización, capacitación, especialización y actualización del personal;
 
-###### ARTICULO 21.
+II. Tramitar los registros correspondientes para el reconocimiento oficial de los planes de estudio que imparta;
 
-Los créditos fiscales y sus accesorios se causarán y pagarán en moneda nacional. De provenir su pago por situaciones pactadas en moneda extranjera, el tipo de cambio se determinará conforme al valor del día que rija de acuerdo a la determinación del tipo de cambio que publica el Banco de México, en el Diario Oficial de la Federación.
+III. Organizar maestrías, especialidades, diplomados, cursos, seminarios, ciclos de conferencias, coloquios, mesas redondas y cualquier otra actividad académica que sea necesaria para la formación y debida capacitación, especialización y actualización del personal de la Fiscalía General;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+IV. Dictaminar sobre la evaluación del aprovechamiento académico de los participantes en los cursos y demás eventos académicos;
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+V. Instrumentar cursos y evaluaciones que, entre otros aspectos, incluyan formación en materia de derechos humanos y perspectiva de género, que sirvan de parámetro para el ingreso, la permanencia y el ascenso;
 
-Se aceptarán como medios de pago, los cheques certificados, los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito, así como las transferencias electrónicas de fondos reguladas por el Banco de México. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán en los lugares y operaciones que así autoricen las autoridades fiscales. Las transferencias electrónicas de fondos reguladas por el Banco de México, solamente se aceptarán de acuerdo a las reglas generales que fijen las autoridades fiscales. Los créditos fiscales podrán ser cubiertos en especie, previa autorización debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
+VI. Impulsar el desarrollo y la difusión de la investigación jurídica, así como la elaboración de libros, antologías, ensayos, folletos, memorias y, en general, de los documentos y materiales necesarios para el fortalecimiento de la cultura jurídica;
 
-Los pagos que se hagan se aplicarán a los créditos más antiguos siempre que se trate de la misma contribución y antes de acreditarse al adeudo principal, se hará a los accesorios en el siguiente orden:
+VII. Promover la celebración de convenios de coordinación e intercambio documental, científico y tecnológico con instituciones y organizaciones que realicen actividades afines, con el objeto de complementar y fortalecer las propias;
 
-I. Gastos de Ejecución.
+VIII. Establecer bases de cooperación con instituciones similares del país y del extranjero, así como con organismos públicos o privados e instituciones de educación superior, para el mejor logro de sus objetivos; y
 
-II. Recargos.
+IX. Todas las demás que se determinen en el Reglamento Interior.
 
-III. Multas.
+###### ARTÍCULO 21.
 
-IV. La indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código.
+De la Contraloría
 
-Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
+La Contraloría será el órgano encargado de vigilar que los recursos de la Fiscalía se manejen adecuadamente para el cumplimiento de sus objetivos, ajustándose en todo momento a los planes y presupuestos aprobados, debiendo revisar y evaluar el ejercicio del gasto público de la Fiscalía y su congruencia con el presupuesto de egresos.
 
-Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pesos, se efectuarán ajustando su monto a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior.
+Le compete además, realizar la evaluación del desempeño específico de las diferentes unidades de la Fiscalía General, con respecto al cumplimiento de los objetivos y metas comprendidas en el ejercicio de sus atribuciones y recursos, y administración de los servicios a su cargo, de conformidad con lo establecido en la normatividad aplicable.
 
-###### ARTICULO 22.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2017)</small>
 
-Cuando no se cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno, de acuerdo a la tasa de recargos que para cada ejercicio fiscal establezca la Ley de Ingresos del Estado.
+Deberá también actuar, conforme a lo establecido por la Ley General de Responsabilidades Administrativas, como autoridad substanciadora en los procedimientos de responsabilidad administrativa relacionados con los actos, omisiones o conductas indebidas de los servidores públicos de la Fiscalía General, en el ejercicio de sus funciones.
 
-Los recargos se calcularán sobre el total del crédito fiscal y mientras subsistan las facultades de la autoridad para determinar el crédito fiscal o para obtener su cobro mediante el procedimiento administrativo de ejecución o en su caso, mientras no se haya extinguido el derecho del particular para solicitar la devolución de cantidades pagadas indebidamente o de saldos a favor. En su cálculo se excluirán los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se calcularán aplicando al monto de las cantidades actualizadas la tasa que fije la Ley respectiva por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente al en que debió hacerse el pago y hasta que el mismo se efectúe.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2017)</small>
 
-Cuando los recargos determinados por el contribuyente sean inferiores, a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
+Corresponde a la Contraloría, recibir, registrar y custodiar las declaraciones patrimoniales que presenten los servidores públicos de la Fiscalía General, así como promover su presentación en tiempo y forma. Además, verificar su contenido mediante las investigaciones que fueren pertinentes de acuerdo con la Ley General de Responsabilidades Administrativas y demás disposiciones aplicables.
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste y se exigirá independientemente de los conceptos a que se refiere el artículo anterior. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
 
-En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en el segundo párrafo de este artículo.
+En los casos calificados como Faltas no Graves, la Contraloría substanciará el procedimiento en su totalidad y emitirá la resolución que corresponda. Por lo que se refiere a conductas calificadas como Faltas Administrativas Graves o Faltas de Particulares, la Contraloría procederá ante el Tribunal de Justicia Administrativa, en los términos señalados en la Ley General de la materia.
 
-###### ARTICULO 23.
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
 
-Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se pague mediante declaración, únicamente podrá solicitar la devolución del saldo a favor quien presentó la declaración, salvo que se trate del cumplimiento de resolución o sentencia firme de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración señalada.
+El titular de la Contraloría Interna de la Fiscalía General será designado por mayoría de los miembros presentes del Congreso del Estado, en términos de la fracción XIX del artículo 36 de la Constitución del Estado.
 
-Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto se anule. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
+###### ARTÍCULO 22.
 
-Las autoridades fiscales podrán requerir al promovente a fin de que en un plazo máximo de diez días presente la documentación necesaria para acreditar su derecho, en caso de que no lo hubiere hecho en su solicitud inicial, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente.
+Requisitos para ser Fiscal General
 
-Las autoridades fiscales podrán devolver una cantidad menor a la solicitada por los contribuyentes con motivo de la revisión efectuada a la documentación aportada. En este caso, se considerará negada por la parte que no sea devuelta. Las autoridades fiscales deberán fundar y motivar las causas que sustentan la negativa parcial o total de la devolución respectiva.
+Adicionalmente a los requisitos que establece el artículo 54 Ter de la Constitución del Estado, para ocupar el cargo de Fiscal General se requiere:
 
-Las autoridades fiscales deberán pagar la devolución dentro de los cuarenta días siguientes al en que se presente la solicitud respectiva o se cumplan con los requerimientos que en su caso, hiciere la autoridad.
+I. Estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
-Cuando las autoridades fiscales procedan a la devolución de cantidades señaladas como saldo a favor en las declaraciones presentadas por los contribuyentes, sin que medie más trámite que el requerimiento de datos, informes o documentos adicionales o la simple comprobación de que se efectuaron los pagos de contribuciones que el contribuyente declara haber hecho, la orden de devolución no implicará resolución favorable al contribuyente. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades devueltas indebidamente como por las de los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución, independientemente de las sanciones que procedan.
+II. No ser ministro de culto religioso;
 
-La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
+III. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables; y
 
-###### ARTICULO 24.
+IV. Aprobar las evaluaciones de control de confianza que se determinen en el marco del Sistema Nacional de Seguridad Pública.
 
-Cuando los contribuyentes presenten una solicitud de devolución de un saldo a favor o de un pago de lo indebido, y la devolución se efectúe fuera del plazo establecido en el artículo anterior, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo conforme a una tasa que será igual a la prevista para los recargos por mora, en los términos del artículo 22 de este Código que se aplicará sobre la devolución actualizada.
+###### ARTÍCULO 23.
 
-Cuando el contribuyente presente una solicitud de devolución que sea negada y posteriormente sea concedida por la autoridad en cumplimiento de una resolución dictada en un recurso administrativo o de una sentencia emitida por un órgano jurisdiccional, el cálculo de los intereses se efectuará a partir de:
+De la remoción del Fiscal General
 
-I. Tratándose de saldos a favor o cuando el pago de lo indebido se hubiese determinado por el propio contribuyente, a partir de que se negó la autorización o de que venció el plazo de cuarenta días para efectuar la devolución, lo que ocurra primero.
+El Fiscal General será removido por el Titular del Ejecutivo, mediante Acuerdo por escrito, por cualquiera de las siguientes causas graves:
 
-II. Cuando el pago de lo indebido se hubiese determinado por la autoridad, a partir de que se pagó dicho crédito.
+I. Si pierde la condición de ciudadano mexicano, en términos de lo señalado por el artículo 37 de la Constitución General;
 
-En ningún caso los intereses a cargo del fisco estatal excederán de los que se causen en los últimos cinco años.
+II. Si le sobreviene una incapacidad total o permanente que le impida el correcto ejercicio de su cargo, por más de seis meses;
 
-###### ARTICULO 25.
+III. Si durante su desempeño incurre en el incumplimiento de alguno de los requisitos establecidos para su designación; o
 
-Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto, bastará que efectúen la compensación en la declaración respectiva. Si las cantidades que tengan a su favor los contribuyentes derivan de contribuciones distintas o de otros créditos, sólo se podrán compensar previa autorización expresa de las autoridades fiscales.
+IV. Si comete violaciones graves a la Constitución General o a la Constitución del Estado.
 
-Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades compensadas indebidamente y a partir de la fecha de la compensación.
+Lo señalado en las fracciones anteriores se aplicará sin perjuicio de lo establecido en el Título IV de la Constitución General y en el Título Séptimo de la Constitución del Estado, en materia de responsabilidades de los servidores públicos.
 
-###### ARTICULO 26.
+El Acuerdo de remoción deberá ser notificado de inmediato al Presidente del Congreso del Estado o de la Comisión Permanente, en sus recesos, para los efectos de su ratificación en términos de la fracción III, tercer párrafo del artículo 54, ter, de la Constitución del Estado.
 
-Los contribuyentes obligados a pagar mediante declaración periódica podrán acreditar el importe de los estímulos fiscales a que tengan derecho, contra las cantidades que están obligados a pagar, siempre que cumplan con los demás requisitos formales que se establezcan en las disposiciones que otorguen los estímulos.
+###### ARTÍCULO 24.
 
-En los casos en que las disposiciones que otorguen los estímulos establezcan la obligación de cumplir con requisitos formales se entenderá que nace el derecho para obtener el estímulo, a partir del día en que se obtenga la autorización o el documento respectivo.
+Protesta
 
-Cuando los contribuyentes acrediten cantidades por concepto de estímulos fiscales a los que no tuvieran derecho, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades acreditadas indebidamente y a partir de la fecha del acreditamiento.
+Antes de tomar posesión de su cargo, el Fiscal General deberá rendir la protesta constitucional para su ejercicio, ante el Congreso del Estado o ante el Titular del Poder Ejecutivo, en caso de haber sido designado por éste.
 
-###### ARTICULO 27.
+El Visitador General, los Vicefiscales, los titulares de las fiscalías especializadas, los encargados de las unidades y de los órganos especializados, los fiscales del ministerio público, los directores y demás titulares de las unidades administrativas, antes de tomar posesión de sus cargos, rendirán la protesta constitucional ante el Fiscal General o ante quien éste designe.
 
-Son responsables solidarios con los contribuyentes:
+###### ARTÍCULO 25.
 
-I. Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones.
+Requisitos para ser Vicefiscal, Fiscal Especializado, Visitador y Contralor
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+Para ser Vicefiscal o Fiscal Especializado, deberán cumplirse los mismos requisitos que para ser Fiscal General; con excepción de la edad y de la experiencia profesional, que en este caso serán de, al menos, treinta años y cinco años, respectivamente. Lo anterior, con independencia del cumplimiento de requisitos adicionales que prevean otros ordenamientos legales aplicables.
 
-I-A. Los funcionarios públicos que autoricen algún acto jurídico o den trámite a algún documento si no se cercioran de que se han cubierto las contribuciones respectivas, o no den cumplimiento a las disposiciones correspondientes que regulan el pago del gravamen.
+Para ser Visitador o Contralor, además de lo señalado en el párrafo anterior, los designados deberán contar con título profesional en las carreras de derecho, administración, contaduría o similares, con una antigüedad de cuando menos cinco años.
 
-II. Las personas que estén obligadas a efectuar pagos provisionales por cuenta del contribuyente, hasta por el monto de estos pagos.
+###### ARTÍCULO 26.
 
-III. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquellas que se causaron durante su gestión.
+Requisitos para ser titular de otras unidades
 
-La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las sociedades mercantiles, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirige, cuando dicha sociedad incurra en cualesquiera de los siguientes supuestos:
+Los coordinadores, titulares de unidad, directores generales y de área deberán reunir los requisitos que se establezcan en el Reglamento Interior y las demás disposiciones aplicables.
 
-a) No solicite su inscripción en el Registro Estatal de Contribuyentes.
+###### ARTÍCULO 27.
 
-b) Cambie su domicilio a otra entidad federativa
+Inexistencia de antecedentes
 
-c) Cambie su domicilio dentro del Estado, sin presentar el aviso correspondiente en los términos de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio de una visita y antes de que se haya notificado la resolución que se dicte respecto de la misma, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
+Previo al ingresar a laborar a la Fiscalía, se deberán verificar los antecedentes de cada aspirante en el Registro Nacional de Personal de las Instituciones de Seguridad Pública y, en su caso, en el sistema equivalente con que se cuente en el Estado de Tabasco, en los términos previstos en las disposiciones legales aplicables.
 
-d) No lleve contabilidad o la lleve en forma incompleta, la oculte o la destruya, parcial o totalmente.
+###### ARTÍCULO 28.
 
-e) No cubra los créditos fiscales dentro de los términos legales, tratándose de sociedades que no tengan las obligaciones a que se refieren los incisos a), c) y d), respecto del crédito que se adeuda.
+Designación y remoción del personal de la Fiscalía General
 
-IV. Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del valor de la misma.
+El Fiscal General podrá designar y remover libremente a los servidores públicos de la Fiscalía General, excepto a los que pertenezcan al Servicio Profesional de Carrera, quienes se regirán conforme a las disposiciones aplicables al mismo.
 
-V. Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención estas efectúen actividades en el Estado, por las que deban pagarse contribuciones hasta por el monto de dichas contribuciones.
+###### ARTÍCULO 29.
 
-VI. Quienes ejerzan, la patria potestad o la tutela, por las contribuciones a cargo de su representado.
+De las Ausencias
 
-VII. Los legatarios y los donatarios a título particular respecto de las obligaciones fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos.
-
-VIII. Quienes manifiesten su voluntad de asumir responsabilidad solidaria.
-
-IX. Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado.
-
-X. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad, en la parte del interés fiscal que no alcancen a ser garantizada con los bienes de la misma.
-
-XI. Las sociedades escindidas, por las contribuciones causadas en relación con la transmisión de los activos, pasivos y de capitales transmitidos por la escindente, así como por las contribuciones causadas por esta última con anterioridad a la escisión, sin que la responsabilidad exceda del valor del capital de cada una de ellas al momento de la escisión.
-
-La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas, los responsables solidarios podrán ser sancionados por actos u omisiones propios.
-
-###### ARTICULO 28.
-
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas, deberán solicitar su inscripción en el Registro Estatal de Contribuyentes requisitando debidamente la forma autorizada para ello y presentar cuando proceda los siguientes avisos:
-
-I. Cambio de nombre, denominación o razón social.
-
-II. Cambio de domicilio.
-
-III. Suspensión o baja de obligaciones fiscales.
-
-IV. Liquidación, fusión o escisión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-Cuando un mismo contribuyente tenga diversos giros, sucursales o locales, deberá registrar cada uno por separado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-Las autoridades fiscales competentes expedirán, dentro de los 45 días siguientes a la fecha de presentación de la solicitud de registro, la constancia de registro. Los contribuyentes deberán colocarlas en lugar visible en sus establecimientos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-Mientras las constancias de registro no sean canceladas por autoridad competente, tendrán duración y vigencia indefinida y no requerirán ser renovadas. Cuando se cancele la constancia de registro, el interesado deberá entregarla en la oficina de la autoridad fiscal competente en razón de su domicilio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
-
-Las autoridades fiscales competentes llevarán registros de contribuyentes basándose en los datos que las personas les proporcionen de conformidad con este artículo y en los que la propia autoridad obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales, cuando en este último caso se trate de asuntos en que éstas sean parte. Las personas inscritas deberán conservar en su domicilio fiscal la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo, hasta por el término de cinco años posteriores a la fecha en que hubiere ocurrido la baja o la extinción de la obligación fiscal correspondiente.
-
-###### ARTICULO 29.
-
-Las personas que de acuerdo con las disposiciones fiscales estén obligadas a llevar contabilidad, deberá observar las siguientes reglas:
-
-I. Llevarán los sistemas y registro contables que se requieran conforme a la naturaleza de la contribución a pagar.
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-II. Llevarán la contabilidad en el domicilio fiscal declarado ante las autoridades correspondientes. Los contribuyentes podrán procesar a través de medios electrónicos, datos e información de su contabilidad en lugar distinto a su domicilio fiscal, sin que por ello se considere que se lleva la contabilidad fuera del domicilio mencionado.
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
-
-III. Los asientos en la contabilidad serán analíticos, y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas.
-
-Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos respectivos.
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
-
-En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables a que se refiere la fracción I de este artículo, por los registros, cuentas especiales, libros y registros sociales, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público Registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Nóminas, impuesto por Servicios de Hospedaje e Impuesto Sobre Rifas, Sorteos y Juegos con Apuestas, tendrán la obligación de proporcionar dentro de los 10 días siguientes a la fecha en que haya presentado en citado dictamen, copia impresa y en dispositivo magnético de dicho dictamen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+Los servidores públicos de la Fiscalía General serán suplidos en sus ausencias en los términos que establezca el Reglamento Interior.
 
 ###### ARTÍCULO 29-A.
 
@@ -611,65 +717,73 @@ Los sujetos obligados al pago del (sic) impuestos estatales, están obligados a 
 
 Las autoridades fiscales del Estado, cuando se encuentren en el ejercicio de sus facultades de comprobación previstas en este Código, respecto de contribuciones estatales, están facultadas para exigir a los contribuyentes la exhibición de la contabilidad, registros contables y documentos, incluidos los registros que el contribuyente esté obligado a llevar para otras contribuciones federales, estatales o municipales, así como la información necesaria para demostrar el cumplimiento de sus obligaciones tributarias, de conformidad con la legislación aplicable.
 
-###### ARTICULO 30.
+###### ARTÍCULO 30.
 
-Las personas obligadas a llevar contabilidad deberán conservarlas en el lugar a que se refiere la fracción II del artículo 29 de este Código a disposición de las autoridades fiscales.
+Del Servicio Profesional de Carrera
 
-Las personas que no estén obligadas a llevar contabilidad deberán conservar en su domicilio a disposición de las autoridades, toda documentación relacionada con el cumplimiento de las disposiciones fiscales.
+El servicio profesional de carrera es el sistema de carácter obligatorio y permanente, que tiene por objeto garantizar la igualdad de oportunidades de Fiscales del Ministerio Público, Peritos y Policías de Investigación, para el ingreso; la permanencia; la compensación; el reconocimiento, con base en la evaluación periódica y objetiva de su desempeño; así como la separación o baja del servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+Las relaciones jurídicas entre la Fiscalía general y los fiscales del ministerio público, policías de investigación, peritos y demás personal que formen parte del Servicio Profesional de Carrera, serán de carácter administrativo y se regirán por lo establecido en el Artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos, en esta Ley y demás ordenamientos legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+###### ARTÍCULO 31.
 
-###### ARTICULO 31.
+Bases Generales del Servicio Profesional de Carrera
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes, declaraciones o avisos, ante las autoridades fiscales, así como de expedir constancias o documentos, lo harán en las formas que al efecto aprueben éstas, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos, que dichas formas requieran.
+El Servicio Profesional de Carrera se iniciará con el reclutamiento, formación inicial e ingreso; continuará con la formación permanente y alta especialización; se medirá con la evaluación del desempeño y de competencias profesionales; certificación y control de confianza; se fomentará con estímulos, promociones y ascensos; fomento al desarrollo humano y profesional; y podrá concluir ordinariamente de conformidad con las disposiciones que emita el Fiscal General o extraordinariamente a través del procedimiento de separación o remoción de personal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+Para los efectos antes descritos, las normas reglamentarías del Servicio Profesional de Carrera desarrollarán los contenidos de estas etapas y los requisitos que deberán reunir tanto los aspirantes como los integrantes del Servicio Profesional de Carrera, así como el procedimiento para su separación en los casos de incumplimiento con los procesos de evaluación o los requisitos de permanencia, en los términos de esta Ley y las disposiciones que al efecto se emitan.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+El Fiscal emitirá los instrumentos que regulen los derechos y obligaciones de los servidores públicos de la Fiscalía; así como todos aquellos procedimientos y órganos necesarios para la organización y funcionamiento del Servicio Profesional de Carrera.
 
-Los contribuyentes podrán cumplir con la obligación a que se refiere el párrafo anterior, mediante la presentación de solicitudes, declaraciones o avisos, en documentos digitales a través de los medios y formatos electrónicos que señalen las autoridades fiscales mediante reglas de carácter general.
+La unidad administrativa que determine el Fiscal implementará el Servicio Profesional de Carrera acorde a las necesidades de la Fiscalía, de conformidad con las disposiciones expedidas por el Fiscal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+###### ARTÍCULO 32.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+De los Fiscales del Ministerio Público
 
-En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por las autoridades fiscales, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga su nombre, domicilio y clave de registro de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+Para ingresar o permanecer como Fiscales del Ministerio Público sujetos al Servicio Profesional de Carrera además de la confianza que le deposite su superior jerárquico, se requerirá cumplir con los requisitos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+I. Para ingresar:
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+a) Ser ciudadano mexicano, en pleno ejercicio de sus derechos:
 
-Los formatos electrónicos a que se refiere el segundo párrafo de este artículo, se darán a conocer en la página electrónica de las autoridades fiscales.
+b) Contar con título de licenciado en derecho expedido y registrado legalmente, y con la correspondiente cédula profesional;
 
-Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, deberán presentarlas aun cuando no haya pago a efectuar.
+c) Tener acreditado, en su caso, el Servicio Militar Nacional;
 
-Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones en el Estado, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
+d) Aprobar el proceso de evaluación de control de confianza y de competencias profesionales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+e) Cumplir los requisitos y los procedimientos de reclutamiento, en los términos que señalen las disposiciones aplicables;
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+f) No estar sujeto a proceso penal, en cualquiera de sus instancias, en el que se haya dictado auto de formal prisión o en su caso, auto de vinculación a proceso por delito por el que proceda la prisión preventiva oficiosa;
 
-Las declaraciones, avisos, solicitudes de inscripción en el registro de contribuyentes y demás documentos que exijan las disposiciones fiscales, se presentarán en los establecimientos autorizados de las autoridades fiscales.
+g) No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
 
-Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones, ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, su clave de Registro Estatal de Contribuyentes, su número de registro estatal, su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos.
+h) Ser de notoria buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de un delito doloso o culposo por el que proceda la prisión preventiva oficiosa;
 
-###### ARTICULO 32.
+i) No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo; y
 
-Las declaraciones que presenten los contribuyentes serán definitivas y se podrán modificar por el propio contribuyente, siempre que no se haya iniciado el ejercicio de las facultades de comprobación.
+j) Los demás que establezcan las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+II. Para permanecer
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+a) Cumplir los requisitos a que se refiere la fracción I de este artículo durante el servicio;
 
-Cuando se inicie el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración complementaria en las formas especiales autorizadas por las autoridades fiscales, debiéndose pagar las multas que establece el citado artículo 75.
+b) Aprobar los programas de formación permanente y alta especialización, así como las evaluaciones que establezcan las disposiciones aplicables;
 
-Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 22 de este Código, a partir de la fecha en que se debió hacer el pago.
+c) Aprobar las evaluaciones de control de confianza, del desempeño en el ejercicio de sus funciones, del rendimiento orientado a resultados, y de competencias profesionales que establezcan el reglamento respectivo y demás disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+d) No ausentarse del servicio sin causa justificada por tres días laborables consecutivos, o cinco discontinuos, dentro de un período de treinta días naturales;
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+e) Mantener vigente la certificación a que se refiere el artículo 31 de esta Ley;
+
+f) Cumplir las órdenes de comisión, rotación y cambio de adscripción;
+
+g) Cumplir con las obligaciones que les impongan las leyes respectivas y demás disposiciones aplicables;
+
+h) No incurrir en actos u omisiones que causen la pérdida de confianza o afecten la prestación del servicio, y
+
+i) Los demás requisitos que establezcan las disposiciones aplicables.
 
 ###### ARTÍCULO 32-A.
 
@@ -699,139 +813,151 @@ La Secretaría de Finanzas a través de la Administración Fiscal General deber�
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO PRIMERO
+### CAPÍTULO IV. DE LA ORGANIZACIÓN DE LA FISCALÍA GENERAL
 
-###### ARTICULO 33.
+###### ARTÍCULO 33.
 
-Son autoridades fiscales para los efectos de este Código y demás leyes fiscales vigentes:
+De la Policía de Investigación
 
-I. El Gobernador del Estado.
+Para ingresar o permanecer como policía de investigación sujeto al servicio de carrera, además de la confianza que le deposite su superior jerárquico, se requerirá cumplir con los requisitos siguientes:
 
-II. El Secretario de Finanzas.
+I. Para ingresar:
 
-III. El Subsecretario de Ingresos de la Secretaría de Finanzas.
+a) Cumplir con los requisitos previstos en el artículo 32, fracción I, incisos a), c), d), e), f), g), h) e i), de esta Ley;
 
-IV. Los titulares de las unidades administrativas de la Secretaría de Finanzas con las facultades y atribuciones que les otorgue el Reglamento Interior de dicha Dependencia.
+b) Tener título legalmente expedido y registrado por la autoridad competente o carrera terminada en los casos previstos por el Reglamento;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+c) Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
-V. El Titular de la Administración Fiscal General, conforme a las facultades y atribuciones que le otorga la ley de la materia, su reglamento interior y demás disposiciones aplicables.
+d) Absten erse (sic) de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+e) Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, y
 
-VI. Los Titulares de las Unidades Administrativas de la Administración Fiscal General, conforme a las facultades y atribuciones que le otorga la ley de la materia, su reglamento interior y las demás disposiciones aplicables.
+f) Los demás que establezcan otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
+II. Para permanecer.
 
-Para efectos de la fracción anterior, la Administración Fiscal General y sus Unidades Administrativas serán consideradas como autoridades fiscales para efectos de la Ley de Coordinación Fiscal y de los convenios celebrados con el Gobierno Federal, al amparo de dicha ley
+a) Cumplir los requisitos a que se refiere la fracción I de este artículo durante el servicio;
 
-###### ARTICULO 34.
+b) Cumplir con los requisitos previstos en el artículo 32, fracción II, incisos b), c), d), e), f), g) y h), de esta Ley;
 
-Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
+c) No superar la edad máxima de retiro señalada en los ordenamientos respectivos; y
 
-I. Explicar las disposiciones fiscales utilizando en lo posible un lenguaje llano alejado de tecnicismos y en los casos en que sean de naturaleza compleja, elaborar y distribuir folletos a los contribuyentes.
+d) Los demás requisitos que establezcan las disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+###### ARTÍCULO 34.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+De los peritos
 
-II. Mantener oficinas en diversos lugares del Estado que se ocuparán de orientar y auxiliar a los contribuyentes en el cumplimiento de sus obligaciones. En el caso de que dicho cumplimiento se realice a través de medios electrónicos, las autoridades fiscales podrán poner a su disposición el equipo para ello.
+Para ingresar o permanecer como perito sujeto al servicio de carrera, además de la confianza que le deposite su superior jerárquico, se requerirá cumplir con los requisitos siguientes:
 
-III. Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes y en su caso distribuirlos con oportunidad, e informar de las fechas y lugares de presentación.
+I. Para ingresar:
 
-IV. Señalar en forma precisa en los requerimientos mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos a que estén obligados, cuál es el documento cuya presentación se exige.
+Cumplir con los requisitos previstos en el artículo 32 fracción I, incisos a), c), d), e), f), g), h) e l), de esta Ley;
 
-V. Difundir entre los contribuyentes sus derechos y los medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales.
+Tener título legalmente expedido y registrado por la autoridad competente que lo faculte para ejercer la ciencia, técnica, arte o disciplina de que se trate, o acreditar plenamente los conocimientos correspondientes a la disciplina sobre la que deba dictaminar, cuando de acuerdo con las normas aplicables no necesite título o cédula profesional para su ejercicio, y
 
-VI. Efectuar en distintas partes del Estado reuniones de información con los contribuyentes y recaudadores, especialmente cuando se modifiquen las disposiciones fiscales y durante los principales períodos de presentación de declaraciones.
+Los demás que establezcan otras disposiciones aplicables.
 
-VII. Publicar las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se podrán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a períodos inferiores a un año.
+II. Para permanecer:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+a) Cumplir los requisitos a que se refiere la fracción I de este artículo durante el servicio;
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+b) Cumplir con los requisitos previstos en el artículo 32, fracción II, incisos b), c), d), e), f), g) y h), de esta Ley;
 
-Los servicios de asistencia al contribuyente a que se refiere esta fracción, deberán difundirse a través de la página electrónica que al efecto establezcan las autoridades fiscales. En dicha página también se darán a conocer la totalidad de los trámites fiscales.
+c) Los demás requisitos que establezcan las disposiciones aplicables.
 
-###### ARTICULO 35.
+Los Fiscales del Ministerio Público, Policías de Investigación y Peritos, además de los requisitos señalados en los artículos 32, 33 y en este artículo, respectivamente, deberán cumplir con los que establezcan La Ley General del Sistema Nacional de Seguridad Pública y con las disposiciones que al efecto emita el Fiscal. La pérdida de la confianza o el incumplimiento a alguno de los demás requisitos de ingreso o permanencia tendrá como consecuencia la separación del cargo de los servidores públicos involucrados, de conformidad con el procedimiento previsto en esta ley, el cual será instruido y resuelto por los órganos que determine el Reglamento respectivo y sus resoluciones serán definitivas e inatacables, por lo que en su contra sólo procederá el juicio de amparo.
 
-Las autoridades fiscales sólo están obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados de su resolución favorable se derivan derechos para el particular, en los casos en que la consulta se haya referido a circunstancias reales y concretas y la resolución se haya emitido por escrito por autoridad competente para ello.
+###### ARTÍCULO 35.
 
-Las autoridades fiscales no resolverán las consultas efectuadas por los particulares cuando las mismas versen sobre la interpretación o aplicación directa de la Constitución. En estos casos, no procederá la negativa ficta a que se refiere el artículo 37 de este Código.
+Transparencia y objetividad
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+En el Reglamento del Servicio Profesional de Carrera se deberán garantizar la debida transparencia y objetividad en la evaluación de los méritos e idoneidad de los postulantes, candidatos o servidores públicos.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+###### ARTÍCULO 36.
 
-Las autoridades fiscales publicarán mensualmente un extracto de las principales resoluciones favorables a los contribuyentes a que se refiere este artículo.
+Seguridad Social
 
-###### ARTICULO 36.
+El personal de la Fiscalía estará incorporado al Instituto de Seguridad Social del Estado de Tabasco y gozará de las prestaciones que establece la ley que regula a dicho organismo.
 
-Los funcionarios fiscales facultados debidamente, podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Gobierno del Estado.
+Las disposiciones reglamentarias del Servicio Profesional de Carrera se encaminarán a fortalecer el sistema de seguridad social de los servidores públicos de la Fiscalía, de sus familias y dependientes, para lo cual se deberá instrumentar un sistema complementario de seguridad social.
 
-###### ARTICULO 37.
+###### ARTÍCULO 37.
 
-Las peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de hasta tres meses; transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo mientras no se dicte la resolución, o bien, esperar a que ésta se dicte.
+Sistema Complementario de Seguridad Social
 
-###### ARTICULO 38.
+El Sistema Complementario de Seguridad Social para los integrantes del Servicio Profesional de Carrera, tiene como propósito, conforme a la disponibilidad presupuestal, otorgar beneficios adicionales a los previstos en la normatividad aplicable, específicamente en los siguientes rubros:
 
-El Gobernador del Estado o el Secretario de Finanzas, previo acuerdo del Gobernador, podrán:
+I. Prestaciones médicas extraordinarias por daños sufridos en el ejercicio de sus funciones oficiales;
 
-I. Condonar o eximir, total o parcialmente, el pago de contribuciones y sus accesorios, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, promover el empleo, así como en casos de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+II. Prestaciones económicas para adquirir un bien inmueble, crédito para la educación del integrante del Servicio Profesional de Carrera y para sus descendientes beneficiarios ante el Instituto de Seguridad Social del Estado de Tabasco;
 
-II. Dictar las medidas relacionadas con la administración, control, forma de pago y procedimientos señalados en las leyes fiscales, sin variar las disposiciones relacionadas con el sujeto, objeto, la base, la cuota, la tasa o la tarifa de los gravámenes, las infracciones o las sanciones de las mismas, a fin de facilitar el cumplimiento de las obligaciones de los contribuyentes.
+III. Prestaciones sociales adicionales que complementen los seguros de vida o de retiro; y
 
-III. Conceder subsidios o estímulos fiscales.
+IV. Jubilaciones o pensiones otorgadas con el total del salario integrado y demás emolumentos recibidos por el integrante del Servicio Profesional de Carrera, el cual se homologará con los incrementos recibidos por el personal en activo correspondiente a su categoría.
 
-Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
+Para el otorgamiento de las prestaciones complementarias aquí previstas, el Consejo de Profesionalización de la Fiscalía establecerá los criterios y lineamientos correspondientes; así mismo, realizará a través de la comisión respectiva, las gestiones necesarias para hacer posible su cumplimiento ante las instancias públicas y privadas.
 
-###### ARTICULO 39.
+###### ARTÍCULO 38.
 
-Los actos administrativos que se deban notificar deberán tener por lo menos los siguientes requisitos:
+Consejo de Profesionalización de la Fiscalía
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+La Fiscalía contará con un Consejo de Profesionalización, presidido por el Fiscal, el cual tiene por objeto fungir como instancia y consultiva respecto de las políticas y estrategias de reclutamiento, selección, evaluación, desarrollo profesional y humano del personal de procuración de justicia.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+La organización, el funcionamiento y las atribuciones del Consejo de Profesionalización y de sus Comisiones, se establecerán en el Reglamento Interior, así como en el Reglamento del Servicio Profesional de Carrera y en los acuerdos que emita el Fiscal.
 
-I. Constar por escrito en documento impreso, y en su caso, en digital.
+###### ARTÍCULO 39.
 
-Tratándose de actos administrativos que consten en documentos digitales, las Autoridades Fiscales emitirán reglas de carácter general que faciliten su aplicación;
+Integración del Consejo de Profesionalización de la Fiscalía
 
-II. Señalar la autoridad que lo emite;
+El Consejo de Profesionalización de la Fiscalía estará integrado por:
 
-III. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate;
+I. El Fiscal General, quien lo presidirá;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+II. El Vicefiscal del ramo, que fungirá como Secretario Técnico del Consejo;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+III. El Secretario Técnico del Consejo Estatal de Seguridad Pública;
 
-IV. Ostentar la firma del funcionario competente y, en su caso, el nombre o nombres de las personas a las que se envíe. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación. En el caso de resoluciones administrativas que consten en documentos digitales, las Autoridades Fiscales emitirán reglas de carácter general que faciliten su aplicación.
+IV. Un representante de la Comisión Estatal de los Derechos Humanos;
 
-Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
+V. Un representante de la Secretaría de Educación del Gobierno del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. El Director de la Escuela de la Fiscalía; y
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+VII. Tres ciudadanos de reconocido prestigio profesional y buena reputación, designados por el Fiscal a propuesta, indistintamente, de instituciones de educación superior, colegios de profesionistas, organizaciones no gubernamentales o grupos civiles constituidos.
 
-###### ARTICULO 40.
+Por cada miembro del Consejo se designará un suplente, salvo en el caso del Fiscal General, cuyas ausencias serán cubiertas por el Vicefiscal del ramo.
 
-Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, estas podrán aplicar como medidas de apremio, indistinta o conjuntamente, las siguientes:
+Los cargos de los integrantes del Consejo de Profesionalización de la Fiscalía tendrán el carácter de honorarios y por su desempeño no se percibirá remuneración alguna.
 
-I. Solicitar el auxilio de la fuerza pública.
+###### ARTÍCULO 40.
 
-Para los efectos de esta fracción, los cuerpos de seguridad o policiales deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal.
+Separación o baja
 
-El apoyo a que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales ingresen al domicilio fiscal, establecimientos, sucursales, oficinas, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que utilicen para el desempeño de sus actividades los contribuyentes, así como para brindar la seguridad necesaria al personal actuante, y se solicitará en términos de los ordenamientos que regulan la seguridad pública de la Federación, de las entidades federativas o de los municipios o, en su caso, de conformidad con los acuerdos de colaboración administrativa que tengan celebrados con la Federación.
+La separación o baja del Servicio Profesional de Carrera será:
 
-II. Imponer la multa que corresponda en los términos de este Código.
+I. Ordinaria, que comprende:
 
-III. Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente o responsable solidario, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo 40-A de este Código.
+a) La renuncia;
 
-Para lo dispuesto en esta fracción, la autoridad que practique el aseguramiento precautorio deberá levantar acta circunstanciada en la que precise de que manera el contribuyente se opuso u obstaculizó físicamente el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, y deberá observar en todo momento las disposiciones contenidas en la Sección II del Capítulo III del Título V de este Código.
+b) La incapacidad permanente para el desempeño de sus funciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+c) La jubilación; y
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+d) El fallecimiento
+
+II. Extraordinaria, que comprende:
+
+a) La separación del servicio por el incumplimiento de los requisitos de permanencia en la Fiscalía; y
+
+b) La remoción o cese, cuando se acredite alguna de las causas señaladas en el artículo 42 de esta ley.
+
+Si la autoridad jurisdiccional resolviere que la separación, baja, remoción, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar al servidor público la indemnización y las prestaciones que le correspondan al momento de la terminación del servicio, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+En todo caso, la indemnización consistirá en tres meses de sueldo base. Las demás prestaciones comprenderán el sueldo base, así como los beneficios, recompensas, estipendios, asignaciones, gratificaciones, premios, retribuciones, subvenciones, haberes, dietas, compensaciones o cualquier otro concepto que percibía el interesado por la prestación de sus servicios, las cuales se computarán desde la fecha de su separación, baja, cese o remoción, hasta por un período máximo de nueve meses.
+
+El Reglamento del Servicio Profesional de Carrera establecerá el procedimiento para la separación o baja.
 
 ###### ARTICULO 40-A.
 
@@ -923,105 +1049,107 @@ Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracc
 
 No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
 
-###### ARTICULO 41.
+###### ARTÍCULO 41.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+Responsabilidades civiles, administrativas y penales
 
-I. Requerir su presentación en un plazo no mayor de seis días.
+Los servidores públicos de la Fiscalía serán sujetos de las responsabilidades civiles, administrativas y penales que correspondan, por hechos u omisiones que les sean atribuibles con motivo del ejercicio de sus funciones, de conformidad con las leyes, ordenamientos y procedimientos aplicables.
 
-II. Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiera determinado en la última o cualquiera de las seis últimas declaraciones de la contribución que se trate. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
+###### ARTÍCULO 42.
 
-Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la propia autoridad fiscal podrá hacer efectiva al contribuyente, con carácter provisional, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+Causas de responsabilidad
 
-Si el contribuyente o responsable solidario presenta la declaración omitida antes de que se le haga efectiva la cantidad resultante conforme a lo previsto en esta fracción, queda liberado de hacer el pago determinado provisionalmente. Si la declaración se presenta después de haberse efectuado el pago provisional determinado por la autoridad, éste se ajustará conforme al importe que se tenga que pagar con la declaración que se presente.
+Son causas de responsabilidad de los servidores públicos de la Fiscalía, sin perjuicio de aquellas que se establezcan en las leyes especiales de la materia, las siguientes:
 
-III. Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de seis días. Si no se atiende el requerimiento se impondrá multa por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
+I. Incumplir, de forma deliberada o negligente, las obligaciones que el Código Nacional impone a los Fiscales del Ministerio Público;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2009)</small>
+II. Retrasar o perjudicar por negligencia la debida actuación de la Fiscalía;
 
-III-A. Embargar precautoriamente los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones en los últimos tres ejercicios o cuando no atienda tres requerimientos de la autoridad en los términos de la fracción IV de este Artículo por una misma omisión, salvo tratándose de declaraciones, en que bastará con no atender un requerimiento. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o dos meses después de practicado si no obstante el incumplimiento las autoridades fiscales no inician el ejercicio de sus facultades de comprobación.
+III. Realizar o encubrir conductas que atenten contra la autonomía de los Fiscales del Ministerio Público, tales como aceptar o ejercer consignas, presiones, encargos, comisiones o cualquier otra que genere o implique subordinación indebida respecto de alguna persona o autoridad;
 
-IV. Elaborar una liquidación provisional de la contribución por el equivalente a la más alta de las tres últimas declaraciones presentadas por dicha contribución.
+IV. Distraer de su objeto, para uso propio o ajeno, el equipo, los datos confidenciales o los objetos materiales o bienes bajo su custodia o de la Fiscalía;
 
-En el caso de la fracción III y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
+V. No asegurar los bienes, objetos, instrumentos o productos de delito y, en su caso, no solicitar su decomiso o la respectiva declaración de abandono, cuando así proceda en los términos que establezcan las leyes;
 
-###### ARTICULO 42.
+VI. Abstenerse de ejercer la acción de extinción de dominio en los casos y en los términos que establezca la ley de la materia;
 
-Las autoridades fiscales a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales, estará facultada para:
+VII. Omitir dictar las medidas urgentes de protección a que haya lugar;
 
-I. Rectificar los errores aritméticos, omisiones u otros que aparezcan en las declaraciones, solicitudes o avisos, para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión de que se trate.
+VIII. Realizar cualquier acto de discriminación basado en el origen étnico, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana del usuario y;
 
-II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, su contabilidad para efectos de su revisión, así como proporcionar los datos, documentos o informes que se les requieran.
+IX. Las demás que establezcan otras disposiciones aplicables.
 
-III. Ordenar y practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías.
+###### ARTÍCULO 43.
 
-IV. Revisar los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes y su relación con el cumplimiento de disposiciones fiscales.
+Excusas
 
-V. Practicar u ordenar se practique avalúo o verificación física de toda clase de bienes, incluso durante su transporte.
+Todo servidor público de la Fiscalía debe excusarse en los asuntos en que intervenga, cuando de manera análoga incurran en él una o más de las causas que motivan la excusa de los funcionarios del Poder Judicial, contempladas en el Código Nacional. La excusa deberá ser calificada en definitiva por el Fiscal.
 
-VI. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones.
+Cuando, a pesar de tener algún impedimento, el servidor público de quien se trate no se excuse, la víctima, el ofendido, el imputado o su defensor podrán recusarlo con expresión de causa ante el Fiscal, quien, luego de escuchar al recusado, determinará si éste debe o no continuar interviniendo en el asunto de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+###### ARTÍCULO 44.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
+Impedimentos
 
-VII. Allegarse las pruebas necesarias para formular la denuncia o querella ante el ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la ley relativa concede a las actas del Ministerio Público; y la propia Autoridad, a través de los abogados que designe, será coadyuvante del ministerio público, en los términos del Código de Procedimientos Penales vigente en el Estado.
+Ningún funcionario o empleado de la Fiscalía podrá desempeñar otro puesto oficial o ejercer la abogacía, sino en causa propia, de su cónyuge, concubinario o concubina, ascendientes o descendientes; tampoco podrá ser corredor, comisionista, apoderado judicial, tutor, curador, albacea judicial, a no ser que tenga interés en la herencia; interventor en una quiebra o concurso, ni árbitro o arbitrador. No quedan comprendidos en esta prohibición los puestos de carácter docente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### ARTÍCULO 45.
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+Sanciones
 
-VIII. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
+Las sanciones por incurrir en las causas de responsabilidad a que se refiere esta Ley, serán:
 
-###### ARTICULO 43.
+I. Apercibimiento;
 
-En la orden de visita, además de los requisitos a que se refiere el artículo 39 de este Código, se deberá indicar:
+II. Multa por el equivalente a uno o hasta quince días de salario;
 
-I. El lugar o lugares donde debe efectuarse la visita.
+III. Suspensión del empleo, sin goce de sueldo, hasta por noventa días; y
 
-II. El nombre de la persona o personas que deban efectuar la visita las cuales podrán ser sustituidas, aumentadas o reducidas en su número, en cualquier tiempo por la autoridad competente. La sustitución o aumento de las personas que deban efectuar la visita se notificará al visitado.
+IV. Remoción, salvo que se trate de miembros del Servicio Profesional de Carrera, caso en el que se estará a las reglas del propio Servicio.
 
-Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2017)</small>
 
-###### ARTICULO 44.
+Las sanciones por incurrir en las causas de responsabilidad a que se refiere esta Ley, serán las establecidas en la Ley General de Responsabilidades Administrativas, una vez concluidos los procedimientos correspondientes.
 
-En los casos de visita en el domicilio fiscal, las autoridades fiscales, los visitados, responsables solidarios y los terceros estarán a lo siguiente:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE AGOSTO DE 2017)</small>
 
-I. La visita se realizará en el lugar o lugares señalados en la orden de visita.
+Para la aplicación de las sanciones deberá seguirse, en lo conducente, el procedimiento previsto en la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables, según corresponda.
 
-II. Si al presentarse los visitadores al lugar en donde debe practicarse la diligencia, no estuviere el visitado o su representante legal, dejarán citatorio con la persona que se encuentre en dicho lugar para que el mencionado visitado o su representante los esperen a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la vista se iniciará con quien se encuentre en el lugar visitado.
+ARTÍCULOS TRANSITORIOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
-En este caso, los visitadores al dejar dicho citatorio, podrán hacer una relación de los libros y documentos que integren la contabilidad.
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
+SEGUNDO. De conformidad con lo señalado en el artículo Octavo Transitorio del Decreto de Reformas a la Constitución Política del Estado Libre y Soberano de Tabasco, publicado en el Periódico Oficial del Estado el 21 de Junio de 2014, se formula y expide la Declaratoria expresa del inicio de vigencia de la Fiscalía General de Justicia del Estado, como órgano constitucional autónomo.
 
-III. Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la visita.
+De igual modo, una vez publicado el presente decreto, se citará de inmediato al Procurador General de Justicia del Estado que se halle en funciones, a efecto de que rinda ante el Pleno de los Diputados del H. Congreso del Estado la protesta constitucional para el inicio de su encargo como Fiscal General del Estado de Tabasco por el tiempo que establece el artículo 54 Ter, de la Constitución, contabilizado a partir de la fecha en que haya sido designado como Procurador General de Justicia.
 
-Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lugar donde se esté llevando a cabo la visita, porque se ausenten antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo, en tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante su negativa o impedimento de los designados, los visitadores podrán designar a quienes deban sustituirlos. La sustitución de los testigos no invalida los resultados de la visita.
+TERCERO. Las facultades otorgadas al Procurador General de Justicia en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán conferidas al Fiscal o a la Fiscalía General, siempre que éstas sean compatibles con las atribuciones que le otorga la Constitución Política del Estado Libre y Soberano de Tabasco y con su condición de órgano constitucional autónomo.
 
-###### ARTICULO 45.
+Las disposiciones establecidas en la Nueva Ley Orgánica de la Fiscalía General del Estado de Tabasco, que son propias del Sistema de Justicia Procesal Penal Acusatorio, resultarán aplicables e iniciarán su vigencia partir de la fecha y en los términos en que lo haga el Código Nacional de Procedimientos Penales en el Estado de Tabasco.
 
-Los visitados, sus representantes o la persona con quien se entienda la visita en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares objeto de la misma, así como mantener a su disposición la contabilidad y demás papeles que acrediten el cumplimiento de las disposiciones fiscales, de los que los visitadores podrán sacar copias para que previo cotejo con sus originales, se certifiquen por éstos y sean anexadas a las actas finales o parciales que levanten con motivo de la visita; estando obligado asimismo a permitir la verificación de bienes y mercancías.
+CUARTO. El Fiscal General expedirá los reglamentos Interior de la Fiscalía General y del Servicio Profesional de Carrera, así como los demás ordenamientos que resulten necesarios, dentro de los 180 días hábiles siguientes al inicio de la vigencia de la presente Ley.
 
-Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán obtener copias de la contabilidad y demás papeles relacionados con el cumplimiento de las disposiciones fiscales, para que, previo cotejo con los originales, se certifiquen por los visitadores:
+En tal razón, la Fiscalía general continuará aplicando las disposiciones reglamentarias y administrativas que no se opongan a la ley Orgánica de la Fiscalía general del Estado, hasta en tanto se expidan y entren en vigor los ordenamientos que los sustituyan.
 
-I. El visitado, su representante o quien se encuentre en el lugar de la visita se niegue a recibir la orden.
+QUINTO. El otorgamiento de las prestaciones complementarias de seguridad social contenidas en las fracciones I y III del artículo 37 de esta Ley, se otorgarán en un plazo no mayor a dos años; las contenidas en las fracciones II y IV, del referido artículo, se otorgarán en un plazo no mayor de tres años, en ambos casos contados a partir del inicio de la vigencia del presente Decreto.
 
-II. Existan dos o más sistemas de contabilidad con distinto contenido, sin que se puedan conciliar con los datos que requieren los avisos o declaraciones presentados.
+SEXTO. La estructura orgánica y funcional de la Fiscalía General se integrará en forma paulatina conforme a las necesidades institucionales y capacidades presupuestales. El Fiscal General dictará los acuerdos administrativos necesarios para tales efectos.
 
-III. Se lleven dos o más libros sociales similares con distinto contenido.
+SÉPTIMO. Los recursos materiales, financieros, presupuestales con que cuenta la Procuraduría General de Justicia del Estado de Tabasco, pasarán a formar parte del patrimonio de la Fiscalía General del Estado.
 
-IV. No se hayan presentado todas las declaraciones periódicas a que obligan las disposiciones fiscales, por el período al que se refiere la visita.
+En razón de lo anterior, la Secretaría de Planeación y Finanzas, la de Administración, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, conforme resulte necesario en el ámbito de sus respectivas competencias, en coordinación con el Fiscal General, deberán realizar las acciones administrativas y legales necesarias para la constitución del patrimonio de la Fiscalía General en tanto órgano constitucional autónomo y promover las adecuaciones correspondientes a dicha figura en cuanto a la contabilidad gubernamental y las reglas para el manejo presupuestal y financiero de los recursos de que disponga, tanto en el orden estatal como en el federal. Lo anterior, con la intervención y vigilancia que corresponda al Congreso del Estado y al Órgano de Fiscalización Superior.
 
-V. Los datos anotados en la contabilidad no coincidan o no se puedan conciliar con los asentados en las declaraciones o avisos presentados o cuando los documentos que amparen los actos o actividades del visitado no aparezcan asentados en dicha contabilidad o cuando sean falsos o amparen operaciones inexistentes.
+OCTAVO. Los servidores públicos de la Procuraduría General de Justicia del Estado, pasarán a formar parte de la Fiscalía General del Estado de Tabasco, sin que sus derechos laborales se vean afectados con la entrada en vigor de esta Ley.
 
-VI. Cuando el visitado sea emplazado a huelga o suspensión de labores, en cuyo caso la contabilidad sólo podrá recogerse dentro de las cuarenta y ocho horas anteriores a la fecha señalada para el inicio de la huelga o suspensión de labores.
+Los servidores públicos que a la fecha de entrada en vigor de este decreto hubiesen sido designados por el Titular del Poder Ejecutivo del Estado o por el Procurador General de Justicia, permanecerán en los cargos respectivos, hasta que sean nombrados por el Fiscal General los titulares de las nuevas unidades administrativas establecidas en la Ley Orgánica de la Fiscalía general del Estado.
 
-VII. Si el visitado, su representante o la persona con quien se entienda la visita se niega a permitir a los visitadores el acceso a los lugares donde se realiza la visita; así como a mantener a su disposición la contabilidad, correspondencia o contenido de cajas de valores.
+El Fiscal General emitirá las disposiciones que regirán para la presentación de la Declaración de Situación Patrimonial, de los servidores públicos de la Fiscalía obligados a la misma, en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del presente decreto.
 
-En el caso de que los visitadores obtengan copias de la contabilidad por encontrarse el visitado en cualquiera de los supuestos previstos por el tercer párrafo de este artículo, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el artículo 46 de este Código, con la que podrá terminar la visita en el domicilio o establecimientos del visitado, pudiéndose continuar el ejercicio de las facultades de comprobación o en las oficinas de las autoridades fiscales, donde se levantará el acta final, con las formalidades a que se refiere el citado artículo.
+NOVENO. Los procedimientos jurisdiccionales y administrativos, relacionados con la separación, remoción, cese o cualquier otra forma de conclusión de los servicios de trabajadores o empleados al servicio de la Procuraduría General de Justicia que estuviesen en trámite a la entrada en vigor de este Decreto, se concluirán conforme a la normatividad que les era aplicable al inicio del procedimiento de que se trate. Los procedimientos iniciados después de la entrada en vigor de este Decreto y los ordenamientos administrativos correspondientes, se tramitarán conforme a ellos.
 
-Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores obtengan copias de sólo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos de los que se obtuvieron copias, pudiéndose continuar la visita en el domicilio o establecimientos del visitado. En ningún caso las autoridades fiscales podrán recoger la contabilidad del visitado.
+Los procedimientos administrativos de responsabilidad iniciados a la fecha a los servidores públicos de la Procuraduría General de Justicia del Estado que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este decreto continuaran conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento.
+
+DÉCIMO. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Tabasco, publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el 17 de noviembre de 2012. De igual manera, quedarán sin efecto las disposiciones que contravengan el presente Decreto.
 
 ###### ARTICULO 46.
 
@@ -1303,11 +1431,7 @@ El personal oficial que intervenga en los diversos trámites relativos a la apli
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO SEGUNDO. De los Acuerdos Conclusivos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+### CAPÍTULO V. DE LAS FACULTADES Y OBLIGACIONES DE LOS INTEGRANTES DE LA FISCALÍA
 
 ###### ARTICULO 62-A.
 
@@ -1365,7 +1489,7 @@ Las autoridades fiscales no podrán desconocer los hechos u omisiones sobre los 
 
 ## TITULO IV. DE LAS INFRACCIONES Y DELITOS FISCALES
 
-### CAPITULO I. DE LAS INFRACCIONES
+### CAPÍTULO VI. DE LOS NOMBRAMIENTOS, REMOCIONES Y AUSENCIAS
 
 ###### ARTICULO 63.
 
@@ -1639,7 +1763,7 @@ V. De 10 a 20 días de salario mínimo vigente en la Entidad a la establecida en
 
 Las sanciones que se apliquen en términos de este Código y de los Convenios de Colaboración Administrativa celebrados con la Federación, serán destinados a la formación de fondos de productividad, capacitación y equipamiento del personal que interviene en la administración, determinación y vigilancia de las disposiciones fiscales, conforme a la normatividad que al efecto expida el titular de las autoridades fiscales.
 
-### CAPITULO II. DE LOS DELITOS FISCALES
+### CAPÍTULO VII. DEL SERVICIO PROFESIONAL DE CARRERA
 
 ###### ARTICULO 81.
 
@@ -1793,7 +1917,7 @@ Se impondrá sanción de tres meses a tres años de prisión, al particular o em
 
 ## TITULO V. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
-### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPÍTULO VIII. RESPONSABILIDADES Y SANCIONES
 
 #### SECCION I. DISPOSICIONES GENERALES
 
@@ -1997,7 +2121,7 @@ b) Si tiene su causa en un vicio de forma de la resolución impugnada, ésta se 
 
 Cuando se interponga un medio de impugnación, se suspenderá el efecto de la resolución hasta que se dicte la sentencia que ponga fin a la controversia.
 
-### CAPITULO II. DE LAS NOTIFICACIONES Y LA GARANTIA DEL INTERES FISCAL
+### CAPÍTULO IX. EXCUSAS, RECUSACIONES Y SANCIONES
 
 ###### ARTICULO 117.
 
@@ -2675,7 +2799,9 @@ II. Por consulta entre autoridades, si de dicha consulta depende la entrega de l
 
 ###### ARTICULO PRIMERO.
 
-El presente Código entrará el (sic) vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+Se expide la Ley Orgánica de la Fiscalía General del Estado de Tabasco, para quedar como sigue
+
+LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
 ###### ARTICULO SEGUNDO.
 
@@ -2791,7 +2917,39 @@ Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 22 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO No. 337.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## N. DE E. TRANSITORIOS DEL DECRETO 167.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Pleno del Tribunal o el Consejo de la Judicatura, en su caso, realizarán las acciones y dictarán los acuerdos de orden jurisdiccional y administrativo que resulten necesarios al interior del Poder Judicial del Estado, para la implementación y puesta en marcha de los órganos jurisdiccionales o unidades administrativas que se crean o modifican sus funciones con motivo de este Decreto.
+
+Del mismo modo, realizarán las gestiones necesarias ante los Poderes Ejecutivo y Legislativo del Estado, para atender adecuadamente las necesidades presupuestales derivadas de la entrada en vigor de este Decreto.
+
+TERCERO. Se derogan las demás disposiciones legales de igual naturaleza y aquellas reglamentarias que se opongan a la presente Ley.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS ONCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CATORCE. DIP. FRANCISCO .JAVIER CABRERA SANDOVAL, PRESIDENTE. DIP. CASILDA RUIZ AGUSTÍN, SECRETARIA. RÚBRICAS.
+
+Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+EXPEDIDO EN EL PALACIO DE GOBIERNO, RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS DOCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL CATORCE.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+
+LIC. ARTURO NÚÑEZ JIMÉNEZ
+
+GOBERNADOR DEL ESTADO DE TABASCO
+
+C. CÉSAR RAÚL OJEDA ZUBIETA
+
+SECRETARIO DE GOBIERNO
+
+LIC. JUAN JOSÉ PERALTA FÓCIL
+
+COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE AGOSTO DE 2017.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2804,3 +2962,27 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 112 POR EL QUE "SE REFORMAN LA FRACCIÓN XV, DEL PRIMER PÁRRAFO DEL ARTÍCULO 11; 13, FRACCIONES I A IV DEL PRIMER PÁRRAFO; LAS FRACCIONES II Y III DEL PRIMER PÁRRAFO DEL ARTÍCULO 18; PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 21; PÁRRAFO PRIMERO DEL ARTÍCULO 25 Y EL ARTÍCULO 45; SE ADICIONAN, LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 10; UN SEGUNDO PÁRRAFO AL ARTÍCULO 13; LOS ARTÍCULOS 13-A, 13-B, 13-C, 13-D Y 13-E; UN PÁRRAFO SEGUNDO AL ARTÍCULO 18; Y LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 21; TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- A partir de la entrada en vigor de este Decreto, para el caso en que las reformas al Código Penal para el Estado de Tabasco contemplen una descripción legal de una conducta delictiva que en los artículos reformados se contemplaban como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los casos de hechos que constituyan alguno de los delitos reformados por el presente Decreto, cuando se tenga conocimiento de los mismos, el Ministerio Público iniciará la investigación de conformidad con la traslación del tipo que resulte;
+
+II. En las investigaciones iniciadas, en los (sic) que aún no se ejercite la acción penal, el Ministerio Público ejercerá ésta de conformidad con la traslación del tipo que resulte;
+
+III. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+IV. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+
+V. La autoridad ejecutora, al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+TERCERO.- Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+CUARTO.- El titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanzas, realizará los ajustes presupuestales necesarios para garantizar el inicio de funciones de las fiscalías especializadas que se crean mediante el presente Decreto; además de realizar las previsiones conducentes para la presupuestación del gasto de la Fiscalía General del Estado en el proyecto de presupuesto para el ejercicio fiscal del 2018. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+QUINTO. En un plazo no mayor a cuarenta y cinco días posteriores a la publicación del presente Decreto, el Fiscal General del Estado realizará las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas funciones que resultan de las reformas materia del presente Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
