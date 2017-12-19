@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-etica-de-los-servidores-publicos-del-poder-96677"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-20"
-last_updated: "2013-11-20"
+last_updated: "2017-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DE LAS Y LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 20 de noviembre del 2013.
 
@@ -106,3 +108,15 @@ T R A N S I T O R I O S
 Dado en la sede del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los diez días del mes de octubre del dos mil trece.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.- LA CONTRALORA GUBERNAMENTAL.- GILDA CAVAZOS LLITERAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE EXPIDE EL CÓDIGO DE ÉTICA DE LAS Y LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE TAMAULIPAS".]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+Segundo. La Dependencia o Entidad del Poder Ejecutivo del Gobierno del Estado, a través de sus Comités, emitirán las reformas necesarias a sus Códigos de Conducta para que se ajusten al presente Código.
+
+Tercero. Se abroga el Código de Ética de las y los Servidores Públicos del Poder Ejecutivo del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado, el día 20 de noviembre del 2013.
