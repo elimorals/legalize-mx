@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2015-12-22"
+last_updated: "2017-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -973,6 +975,18 @@ VII. Allegarse las pruebas necesarias para formular la denuncia o querella ante 
 
 VIII. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 42-A.
+
+Cancelar, revocar o dejar sin efectos los certificados de sello digital en los términos de las leyes estatales, federales y del Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila tenga suscrito con la Federación, así como restringir el uso del certificado de la firma electrónica avanzada o cualquier otro mecanismo permitido en las disposiciones jurídicas aplicables, y resolver las aclaraciones o solicitudes que presenten los contribuyentes para subsanar o desvirtuar las irregularidades detectadas en el ejercicio de las atribuciones a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 42-B.
+
+Llevar a cabo el procedimiento establecido en las leyes estatales, federales y en el Convenio de Colaboración Administrativa en Materia Fiscal Federal que el Estado de Coahuila tenga suscrito con la Federación, en aquellos casos en que se detecte que un contribuyente ha emitido comprobantes fiscales sin contar con los activos, personal, infraestructura o capacidad material, directa o indirectamente, para prestar los servicios o producir, comercializar o entregar bienes que amparen tales comprobantes, o bien, que dichos contribuyentes se encuentren no localizados y se presuma la inexistencia de las operaciones amparadas en tales comprobantes.
+
 ###### ARTICULO 43.
 
 En la orden de visita, además de los requisitos a que se refiere el artículo 39 de este Código, se deberá indicar:
@@ -1351,7 +1365,7 @@ El procedimiento de acuerdo conclusivo suspende los plazos a que se refiere el a
 
 ###### ARTICULO 62-E.
 
-El contribuyente que haya suscrito un acuerdo conclusivo tendrá derecho, por única ocasión, a la condonación del 100% de las multas. Las autoridades fiscales deberán tomar en cuenta los alcances del acuerdo conclusivo para, en su caso, emitir la resolución que corresponda. La condonación prevista en este artículo no dará derecho a devolución o compensación alguna.
+El contribuyente que haya suscrito un acuerdo conclusivo tendrá derecho, por única ocasión, a la condonación del 100'% de las multas. Las autoridades fiscales deberán tomar en cuenta los alcances del acuerdo conclusivo para, en su caso, emitir la resolución que corresponda. La condonación prevista en este artículo no dará derecho a devolución o compensación alguna.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2003,65 +2017,43 @@ Cuando se interponga un medio de impugnación, se suspenderá el efecto de la re
 
 Las notificaciones de los actos administrativos se harán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 I. Personalmente o por correo certificado o mensaje de datos con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 La notificación electrónica de documentos digitales se realizará en el buzón tributario conforme las reglas de carácter general que para tales efectos establezcan las autoridades fiscales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 El acuse de recibo consistirá en el documento digital con firma electrónica que transmita el destinatario al abrir el documento digital que le hubiera sido enviado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó para abrir el documento a notificar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 Previo a la realización de la notificación electrónica, al contribuyente le será enviado un aviso mediante el mecanismo elegido por el contribuyente en términos del último párrafo del artículo 18-A de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 Los contribuyentes contarán con tres días para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 En caso de que el contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 La clave de seguridad será personal, intransferible y de uso confidencial, por lo que el contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
-
 El acuse de recibo también podrá consistir en el documento digital con firma electrónica avanzada que genere el destinatario de documento remitido al autenticarse en el medio por el cual le haya sido enviado el citado documento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un sello digital que lo autentifique.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -2069,13 +2061,13 @@ Las notificaciones en el buzón tributario serán emitidas anexando el sello dig
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
 
-III. Por estrados, en los casos que señalen las leyes fiscales y este Código.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2017)</small>
+
+III.- Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del registro estatal de contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación y en los demás casos que señalen las Leyes fiscales y este Código.
 
 IV. Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en el Estado.
 
 V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 120 de este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
@@ -2802,5 +2794,21 @@ El presente Decreto entrará en vigor el día primero de enero de dos mil diecis
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1156.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 117; SE ADICIONAN: LOS ARTÍCULOS 42-A Y 42-B, DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, CONTENIDO EN EL DECRETO NO. 157, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NO. 1 DE FECHA 02 DE ENERO DE 2014".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil dieciocho.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
