@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-para-la-conservacion-de-la-imagen-urbana-del-24963"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2002-05-25"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO PARA LA CONSERVACION DE LA IMAGEN URBANA DEL DISTRITO I DE LA CIUDAD DE VILLAHERMOSA, TABASCO
 
-REGLAMENTO PARA LA CONSERVACION DE LA IMAGEN URBANA DEL DISTRITO I DE LA CIUDAD DE VILLAHERMOSA, TABASCO
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCIÓN Y CONSERVACIÓN DE INMUEBLES PATRIMONIALES DEL CENTRO ANTIGUO DE LA CIUDAD DE VILLAHERMOSA, CENTRO, TABASCO, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO PARA LA CONSERVACIÓN DE LA IMAGEN URBANA DEL DISTRITO I DE LA CIUDAD DE VILLAHERMOSA, TABASCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 25 de mayo de 2002.
 
@@ -33,7 +35,9 @@ ANDRES RAFAEL GRANIER MELO, PRESIDENTE DEL H. AYUNTAMIENTO CONSTITUCIONAL DEL MU
 
 QUE EL HONORABLE AYUNTAMIENTO QUE PRESIDO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, 65 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, 50 FRACCIÓN III, 67 FRACCIONES II Y XIV, 94, 98, 99 Y 100 DE LA LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO; EN SESIÓN DE FECHA SIETE DE MAYO DEL AÑO DOS MIL DOS, Y;
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 Por lo que en consecuencia se tiene a bien expedir el siguiente:
 
@@ -73,7 +77,7 @@ VI.- INMUEBLE CON CARACTERISTICAS DE ARQUITECTURA TRADICIONAL.- Son los que sin 
 
 VII.- INMUEBLES PROTEGIDOS.- los que poseen valor histórico, arquitectónico, artístico o con características de arquitectura tradicional; y
 
-VlIl.- ZONA DE INMUEBLES PROTEGIDOS.- El área en que se ubican varios inmuebles de los indicados en las fracciones II, IV, V y VI del presente artículo y que forman un conjunto en el paisaje urbano.
+VIII.- ZONA DE INMUEBLES PROTEGIDOS.- El área en que se ubican varios inmuebles de los indicados en las fracciones II, IV, V y VI del presente artículo y que forman un conjunto en el paisaje urbano.
 
 ###### ARTICULO 4.
 
@@ -253,7 +257,7 @@ Cuando la nueva construcción se encuentre dentro del campo visual de un inmuebl
 
 CUBIERTAS. Para la construcción de cubiertas deberá observarse lo siguiente:
 
-I.- Las cubiertas y techumbres deberán ser semejantes a las adyacentes de una o dos aguas, con una pendiente no mayor de 45% y con acabado, textura y color parecido al barro o recubiertas con tejas de barro. Podrán usarse pretiles para ocultar el canalón de aguas pluviales. De igual manera, podrán autorizarse cubiertas planas dependiendo del carácter del edificio, y previa autorización de la Dirección. Entre dos inmuebles protegidos con cubiertas indinadas no se autorizará ninguna construcción con cubierta plana; y
+I.- Las cubiertas y techumbres deberán ser semejantes a las adyacentes de una o dos aguas, con una pendiente no mayor de 45% y con acabado, textura y color parecido al barro o recubiertas con tejas de barro. Podrán usarse pretiles para ocultar el canalón de aguas pluviales. De igual manera, podrán autorizarse cubiertas planas dependiendo del carácter del edificio, y previa autorización de la Dirección. Entre dos inmuebles protegidos con cubiertas inclinadas no se autorizará ninguna construcción con cubierta plana; y
 
 II.- No se autorizaran construcciones o volúmenes, permanentes o temporales, en azoteas que sean visibles desde la vía pública a cualquier distancia, tales como: tanques de gas o agua, aires acondicionados integrales, tendederos, bodegas, cuartos de servicio o cualquier otro elemento que altere el perfil de la construcción. Tratándose de inmuebles que cuenten con instalaciones o construcciones visibles desde la vía pública, deberán de edificar muros ligeros que los oculten y armonicen con las características del inmueble.
 
@@ -325,7 +329,7 @@ Para solicitar la autorización de permisos de demolición, se deberá presentar
 
 Para la realización de las obras, los proyectos necesarios deberán ser formulados por profesionistas con conocimientos de la materia en ejercicio de sus facultades. Los proyectos deberán considerar las proporciones, la escala, las características de los volúmenes y sus techumbres, el ritmo de los vanos y la relación de estos con los muros, los colores, las texturas y los materiales del entorno arquitectónico y urbano inmediato.
 
-### CAPITULO VIII. DE LA REPARACION y ADAPTACION DE INMUEBLES PROTEGIDOS
+### CAPITULO VIII. DE LA REPARACION Y ADAPTACION DE INMUEBLES PROTEGIDOS
 
 ###### ARTICULO 34.
 
@@ -399,7 +403,7 @@ V.- Se autorizará la apertura de vanos cuando se trate de restablecer los origi
 
 VI.- La supresión de vanos se ajustará a lo especificado en el artículo 26 del presente ordenamiento;
 
-VIl.- No se permitirán canales, tubos de lámina u otros elementos visibles para alojar bajadas de aguas pluviales adosados a los muros de fachada o que descarguen directamente al área de circulación peatonal o banquetas;
+VII.- No se permitirán canales, tubos de lámina u otros elementos visibles para alojar bajadas de aguas pluviales adosados a los muros de fachada o que descarguen directamente al área de circulación peatonal o banquetas;
 
 VIII.- No se permitirá retirar o demoler aplanados aunque estos no tengan elementos decorativos, sin importar la superficie donde se encuentren aplicados los mismos, salvo los casos de un deterioro superior al 40% de la superficie total;
 
@@ -569,9 +573,9 @@ VI.- Quien afecte, deteriore o elimine árboles en áreas públicas;
 
 VII.- Quien ejecute obras temporales o permanentes en la vía pública;
 
-VIII.- Quien ejecute obras distintas las (sic) que le hubiesen sido autorizadas; y
+VIII.- Quien ejecute obras distintas (sic) las que le hubiesen sido autorizadas; y
 
-IX.- Quien demuela totalmente, modifique, intervenga o restaure irreversiblemente un inmueble considerado como protegido, sin sujetarse a lo dispuesto en el presente Reglamento; (sic)
+IX.- Quien demuela totalmente, modifique, intervenga o restaure irreversiblemente un inmueble considerado como protegido, sin sujetarse a lo dispuesto en el presente Reglamento;
 
 ###### ARTICULO 56.
 
@@ -714,3 +718,17 @@ ANDRÉS RAFAEL GRANIER MELO
 SECRETARIO DEL AYUNTAMIENTO
 
 ARIEL ENRIQUE CETINA BERTRUY
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO PARA LA PROTECCIÓN Y CONSERVACIÓN DE INMUEBLES PATRIMONIALES DEL CENTRO ANTIGUO DE LA CIUDAD DE VILLAHERMOSA, CENTRO, TABASCO".]
+
+Artículo primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+Artículo segundo.- Se abrogan el reglamento para la Zona Luz y el Reglamento para la Conservación de la Imagen Urbana del Distrito I de la ciudad de Villahermosa, Tabasco. Quedan sin efecto las disposiciones reglamentarias y normativas que se opongan al contenido del presente Reglamento.
+
+Artículo tercero.- Las personas físicas o jurídicas colectivas que habiten o dispongan de Inmuebles Patrimoniales en el área materia del presente Reglamento, deberán adoptar las disposiciones y lineamientos previstos, a partir de la entrada en vigor del presente Reglamento. Contando para ello con el plazo que determine el Comité dependiendo de la complejidad de la intervención.
+
+Artículo cuarto.- En tanto no se expidan las Normas Técnicas Complementarias a que hace mención el presente Reglamento, se utilizarán las NTC del Reglamento de Construcciones del Municipio de (sic) Centro, estado de Tabasco, vigente.
