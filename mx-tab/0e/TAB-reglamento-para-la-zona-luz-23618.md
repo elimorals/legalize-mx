@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-para-la-zona-luz-23618"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-07"
-last_updated: "2001-11-07"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO PARA LA ZONA LUZ
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA PROTECCIÓN Y CONSERVACIÓN DE INMUEBLES PATRIMONIALES DEL CENTRO ANTIGUO DE LA CIUDAD DE VILLAHERMOSA, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA PROTECCIÓN Y CONSERVACIÓN DE INMUEBLES PATRIMONIALES DEL CENTRO ANTIGUO DE LA CIUDAD DE VILLAHERMOSA, CENTRO, TABASCO, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO PARA LA ZONA LUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 7 de noviembre de 2001.
 
@@ -33,7 +33,9 @@ QUIM. ANDRES RAFAEL GRANIER MELO, PRESIDENTE DEL AYUNTAMIENTO CONSTITUCIONAL DEL
 
 QUE EL HONORABLE AYUNTAMIENTO QUE PRESIDO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, 65 FRACCION I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO, 50 FRACCION III, 67 FRACCION II, 94, 98 Y 99 DE LA LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO, Y:
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 SEXTO.- Que el Honorable Ayuntamiento que presido, con fundamento en lo dispuesto por los artículos 115 de la Constitución Política de los Estados Unidos Mexicanos, 65 fracción I de la Constitución-Política del Estado Libre y Soberano de Tabasco, 50 fracción III, 67 fracción II, 94, 98 Y 99 de la Ley Orgánica de los Municipios del Estado de Tabasco, en sesión de fecha cinco de noviembre del año dos mil uno, ha tenido a bien emitir el siguiente:
 
@@ -770,3 +772,19 @@ ANDRÉS RAFAEL GRANIER MELO
 SECRETARIO DEL AYUNTAMIENTO
 
 ARIEL ENRIQUE CETINA BERTRUY
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO PARA LA PROTECCIÓN Y CONSERVACIÓN DE INMUEBLES PATRIMONIALES DEL CENTRO ANTIGUO DE LA CIUDAD DE VILLAHERMOSA, CENTRO, TABASCO".]
+
+Artículo primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+Artículo segundo.- Se abrogan el reglamento para la Zona Luz y el Reglamento para la Conservación de la Imagen Urbana del Distrito I de la ciudad de VIllahermosa (sic), Tabasco.
+
+Quedan sin efecto las disposiciones reglamentarias y normativas que se opongan al contenido del presente Reglamento.
+
+Artículo tercero.- Las personas físicas o jurídicas colectivas que habiten o dispongan de Inmuebles Patrimoniales en el área materia del presente Reglamento, deberán adoptar las disposiciones y lineamientos previstos, a partir de la entrada en vigor del presente Reglamento. Contando para ello con el plazo que determine el Comité dependiendo de la complejidad de la intervención.
+
+Artículo cuarto.- En tanto no se expidan las Normas Técnicas Complementarias a que hace mención el presente Reglamento, se utilizarán las NTC del Reglamento de Construcciones del Municipio de Centro, estado de Tabasco, vigente.
