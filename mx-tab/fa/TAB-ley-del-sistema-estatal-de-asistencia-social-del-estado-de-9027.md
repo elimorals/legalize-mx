@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-estatal-de-asistencia-social-del-estado-de-9027
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "2015-12-23"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 27 de diciembre de 1986.
 
@@ -33,7 +33,7 @@ Que el H. Congreso del Estado se ha servido dirigirme lo siguiente:
 
 La H. Quincuagésima Segunda Legislatura del Estado Libre y Soberano de Tabasco, en uso de las facultades conferidas por el artículo 36 fracción I, de la Constitución Política Local, y
 
-.
+[...]
 
 Ha tenido a bien emitir el siguiente:
 
@@ -221,13 +221,17 @@ El Sistema para el Desarrollo Integral de la Familia operará los establecimient
 
 Asimismo supervisará mediante los procedimientos que establece la Ley, que los establecimientos privados cuyo objeto primordial sea la prestación de servicios de asistencia social, operen conforme a lo establecido en el párrafo que antecede.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 16.
 
-El Organismo tendrá las siguientes atribuciones:
+El Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 I. Vigilar el estricto cumplimiento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 II. Elaborar un Programa Estatal de Asistencia Social, conforme a las disposiciones de la Ley de Planeación, los lineamientos del Plan Estatal de Desarrollo, y demás instrumentos de planeación de la administración pública del estado;
 
@@ -255,9 +259,15 @@ IV. Prestar servicios de representación y asistencia jurídica y de orientació
 
 V. Poner a disposición del Ministerio Público, los elementos a su alcance para la protección de los derechos familiares, así como de los derechos de niñas, niños y adolescentes;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 VI. Apoyar en la vigilancia de la aplicación de las Normas Oficiales Mexicanas en la materia;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 VII. Administrar el Patrimonio de la Beneficencia Pública, e impulsar los programas de asistencia social que contribuyan al uso eficiente de los bienes que lo componen;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 VIII. Realizar inspecciones de la situación de los menores de las mujeres recluidas en los Centros de Reinserción Social del Estado para proteger sus derechos y facilitar la vida familiar;
 
@@ -269,35 +279,69 @@ IX. Supervisar la actividad y los servicios de asistencia social que presten las
 
 De manera específica, conforme a la Ley General de Derechos de Niñas, Niños y Adolescentes, y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco, deberá establecer, en el ámbito de su competencia, los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 X. Elaborar y actualizar el Directorio Estatal de las Instituciones Públicas y Privadas de Asistencia Social;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 XI. Organizar el Servicio Estatal de Información sobre la Asistencia Social;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 XII. Organizar, promover y operar el Centro de Información y Documentación sobre Asistencia Social; dicho centro deberá de contar con un padrón de beneficiarios que permita el seguimiento y detalle de los apoyos otorgados a las personas por parte del DIF Tabasco, evitando con ello duplicidad de subsidios en programas estatales. El citado padrón deberá acatar las disposiciones en materia de información pública, previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 XIII. Difundir la información sobre el acceso al financiamiento nacional, internacional y estatal para actividades de asistencia social;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 XIV. Realizar y apoyar estudios e investigaciones en materia de asistencia social;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 XV. Promover la formación, capacitación y profesionalización del personal encargado de la prestación de los servicios de asistencia social;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 XVI. Operar establecimientos de asistencia social en beneficio de los individuos y grupos en situación vulnerable protegidos por esta Ley y demás leyes del estado, así como convenir con personas físicas o morales la prestación de dichos servicios;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 XVII. Diseñar modelos de atención para la prestación de los servicios asistenciales;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 XVIII. Operar en el marco de sus atribuciones programas de rehabilitación y educación especial;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 XIX. Prestar apoyo, así como colaboración técnica y administrativa en materia de asistencia social a los Municipios;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 XX. Promover la integración de fondos mixtos para la asistencia social, así como fomentar, apoyar y evaluar las actividades de asistencia social privadas;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 XXI. Asignar, de acuerdo a su disponibilidad, recursos económicos temporales y otorgar apoyos técnicos a instituciones privadas y sociales de asistencia social, previa autorización de la Junta de Gobierno;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 XXII. Coadyuvar con la Secretaría de Relaciones Exteriores en la ejecución y difusión de programas en materia de asistencia social del Estado mexicano provenientes de organismos internacionales y multilaterales; y de manera especial promover y en su caso contribuir en la gestión de programas para el estado de Tabasco del Fondo de las Naciones Unida (sic) para la Infancia (UNICEF);
 
-XXIII. Coordinar los esfuerzos públicos y privados para la integración social de los sujetos de la asistencia, y la elaboración y seguimiento de los programas respectivos;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Coordinar los esfuerzos públicos, privados y sociales, para el apoyo y la integración de los sujetos de la asistencia social a una vida plena y productiva; y para la elaboración y seguimiento de los programas respectivos.
+
+Para el cumplimiento de esta atribución, en forma directa o en coadyuvancia con las instituciones u organismos de los sectores social y privado, el DIF Tabasco establecerá programas permanentes que promuevan y estimulen la participación y la solidaridad de los diversos sectores de la población, en especial de los jóvenes, en favor de los beneficiarios de los servicios básicos de asistencia social, como una herramienta de formación de valores y construcción de ciudadanía;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 XXIV. Promover la creación y el desarrollo de instituciones públicas y privadas de asistencia social;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 XXV. Establecer prioridades en materia de asistencia social;
 
@@ -309,9 +353,15 @@ XXVI. Emitir dictamen ante el juez competente y expedir, por conducto de la Proc
 
 XXVII. Proveer la protección y asistencia necesaria a las niñas, niños y adolescentes migrantes, no acompañados;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 XXVIII. Proveer la atención necesaria a los menores de conformidad con la Convención Interamericana sobre Restitución Internacional de Menores;
 
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+
 XXIX. Asumir el ejercicio de las funciones que, en materia de asistencia social, transfieran al gobierno del estado la Federación, las entidades federativas vecinas, o los municipios del estado por vía de convenio;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 XXX. Acreditar la elegibilidad de las personas que soliciten algún servicio público de asistencia social, o para recibir apoyo económico o en especie del Sistema;
 
@@ -322,6 +372,8 @@ XXXI. Promover campañas en los medios masivos de comunicación sobre los derech
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
 XXXII. Autorizar, por medio de la emisión de un Certificado Oficial DIF, a las personas con título profesional que ejerzan profesiones en el trabajo social, medicina, psicología o carreras afines y que presten sus servicios en instituciones públicas o privadas o como personas físicas, para que intervengan en procedimientos de adopción nacional o internacional; y cancelar, de conformidad con la ley de la materia, el Certificado Oficial DIF, cuando las personas antes indicadas vulneren los derechos de niñas, niños y adolescentes o incurran en actos contrarios al interés superior de la niñez, independientemente de las responsabilidades de orden administrativo, civil o penal que les sean imputables y las sanciones que resulten. De cada caso de cancelación el DIF Estatal dará cuenta al DIF Nacional, así como a la Secretaría de Educación del Estado, para los efectos legales correspondientes; y
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
 XXXIII. Todas las demás que esta Ley u otras estatales y federales señalen en materia de protección a la familia y asistencia social, o que deriven de tratados internacionales en materia de derechos humanos.
 
@@ -635,6 +687,10 @@ Los trabajadores del Organismo Estatal estarán incorporados al régimen de la L
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
+### CAPITULO CUARTO. DE LOS ESTIMULOS O APOYOS ECONOMICOS A PARTICIPANTES EN PROGRAMAS SOCIALES
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 47.
 
 Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia social y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, el Gobierno del Estado, con la participación del Organismo, celebrará convenios o acuerdos dentro del marco del Convenio Único de Desarrollo para la coordinación de acciones a nivel estatal o municipal, con las entidades y dependencias de la Administración Pública Federal, en los términos del Sistema Estatal de Planeación y de la Ley de Salud del Estado de Tabasco.
@@ -716,6 +772,32 @@ III.- Notificación de la existencia de personas que requieran de asistencia soc
 IV.- Formulación de sugerencias para mejorar los servicios de asistencia social; y
 
 V.- Otras actividades que coadyuven a la protección de la salud.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 57.
+
+En el marco de la implementación de los programas a su cargo, el Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, podrá otorgar, promover o gestionar estímulos o apoyos económicos a los beneficiarios y a los participantes solidarios en dichos programas. El monto de los recursos públicos asignados al Sistema DIF para estos efectos, será determinado para cada ejercicio fiscal de conformidad con las disponibilidades presupuestales del Gobierno del Estado. Lo anterior, independientemente de los recursos de cualquier índole que aporten para los mismos efectos los individuos, empresas u organizaciones de los sectores social y privado.
+
+Los estímulos y apoyos a que se refiere este artículo serán otorgados mediante las instituciones, mecanismos y reglas de operación que al efecto establezca el Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco en el programa respectivo y su operación se sujetará en todo momento a los ordenamientos y reglas de transparencia, disciplina presupuestal, vigilancia y fiscalización a cargo de las instancias correspondientes.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 58.
+
+En el caso de programas referidos en el artículo anterior, dirigidos específicamente a jóvenes de entre 16 y 25 años de edad, como participantes solidarios en apoyo los individuos y colectivos beneficiarios de los servicios de asistencia social a que se refieren los artículos 3 y 4 de esta Ley, deberá establecerse, entre otros, el requisito de encontrarse inscrito en alguna institución de educación pública o privada y no abandonar sus estudios mientras participe en el programa. Las reglas de operación del programa respectivo podrán establecer las excepciones fundadas a estos casos.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 59.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, elaborará y mantendrá actualizado el padrón de participantes inscritos en los respectivos programas, los que serán publicados de conformidad con las normas y reglas en materia de transparencia y acceso a la información pública.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 60.
+
+En el proyecto de presupuesto anual del Organismo, que apruebe la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, para su integración al Proyecto de Decreto de Presupuesto General de Egresos que formule el Titular del Poder Ejecutivo, se deberá considerar una partida específica con los recursos suficientes para la adecuada ejecución de los programas a que se refiere este Capítulo.
 
 ## TRANSITORIOS
 
@@ -808,3 +890,11 @@ SÉPTIMO. Para efectos de lo dispuesto en la fracción VI del artículo 116 de l
 OCTAVO. Las autoridades estatales y municipales, con el objeto de dar cumplimiento a lo previsto en este Decreto, deberán implementar las políticas y acciones correspondientes confórme a los programas aplicables y los que deriven de la misma.
 
 NOVENO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas y los Ayuntamientos Municipales, conforme a sus respectivas atribuciones, realizarán los ajustes presupuestales necesarios para la adecuada operación de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco y demás reformas a que se refiere el presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 137 POR EL QUE “SE REFORMA EL ARTÍCULO 16, EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN XXIII; Y SE ADICIONA UN CAPÍTULO CUARTO, FORMADO POR LOS ARTÍCULOS 57, 58, 59 Y 60, QUE TAMBIÉN SE ADICIONAN, TODOS DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
