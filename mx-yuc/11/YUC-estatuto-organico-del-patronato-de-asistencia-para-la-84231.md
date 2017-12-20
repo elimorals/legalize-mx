@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-patronato-de-asistencia-para-la-84231"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-12-21"
-last_updated: "2011-12-21"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "YUC"
 ---
 # ESTATUTO ORGANICO DEL PATRONATO DE ASISTENCIA PARA LA REINSERCION SOCIAL EN EL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO 558/2017 POR EL QUE SE EXTINGUE Y LIQUIDA EL PATRONATO DE ASISTENCIA PARA LA REINSERCIÓN SOCIAL EN EL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 20 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL PATRONATO DE ASISTENCIA PARA LA REINSERCIÓN SOCIAL EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 21 de diciembre de 2011.
 
@@ -445,3 +447,29 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 558/2017 POR EL QUE SE EXTINGUE Y LIQUIDA EL PATRONATO DE ASISTENCIA PARA LA REINSERCIÓN SOCIAL EN EL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto, se abroga el Decreto 468/2011 por el que se expide el Estatuto Orgánico del Patronato de Asistencia para la Reinserción Social en el Estado de Yucatán, publicado en el diario oficial del estado el 21 de diciembre de 2011.
+
+Tercero. Obligación de la dependencia coordinadora de sector
+
+La Secretaría General de Gobierno, en su carácter de dependencia coordinadora de sector, una vez concluido el proceso de desincorporación del Patronato de Asistencia para la Reinserción Social en el Estado de Yucatán, deberá informar este hecho a la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes, para los efectos que correspondan.
+
+Cuarto. Trámite de asuntos
+
+Los acuerdos, convenios así como los asuntos, expedientes y demás actos jurídicos, pendientes y en trámite, que se encuentren bajo cualquier concepto en el Patronato de Asistencia para la Reinserción Social en el Estado de Yucatán, se transferirán y quedarán a cargo de la Secretaría General de Gobierno, a partir de la entrada en vigor de este decreto.
+
+Quinto. Transferencia de recursos
+
+A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto del ejercicio fiscal en curso, las economías, recursos en cuentas, bienes muebles e inmuebles del Patronato de Asistencia para la Reinserción Social en el Estado de Yucatán, pasarán al dominio y uso de la Secretaría General de Gobierno.
