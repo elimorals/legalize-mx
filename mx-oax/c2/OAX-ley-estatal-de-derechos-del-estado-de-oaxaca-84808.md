@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2017-10-07"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ESTATAL DE DERECHOS DE OAXACA, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -4025,7 +4025,7 @@ III Obtención de base catastral generadas por trámite de integración al padr�
 
 IV Censo catastral en áreas contiguas:
 
-a) Cuando se cuente con información cartográfica planimétrica, ortofoto digital escala 1:1 ,000 por cada bien inmueble: 4.00
+a) Cuando se cuente con información cartográfica planimétrica, ortofoto digital escala 1:1,000 por cada bien inmueble: 4.00
 
 b) Cuando no se cuente con información cartográfica digital se realizará el levantamiento topográfico del predio y sus construcciones para la generación de la misma por predio igual o menor a 500 m2: 10.00
 
@@ -4723,7 +4723,7 @@ i) Exámen de grado: 17.28
 
 j) Expedición de grado: 23.08
 
-A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II ; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
+A excepción de los incisos a), d), i), k), l), m), n) de la fracción I; fracción II; y, a), c), f), h), i), j) de la fracción III; se aplicarán porcentajes de becas determinadas por el H. Consejo Académico de la Universidad que van del 25%, 50%, 75% y 100% de descuento.
 
 ### Capítulo Octavo. Por los Servicios que presta la Universidad de la Sierra Sur
 
@@ -6446,3 +6446,11 @@ PRIMERO. Publíquese en el Periódico Oficial del Gobierno el (sic) Estado.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas y/o abrogadas.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 779.- MEDIANTE EL CUAL SE EXPIDE LA LEY ESTATAL DE DERECHOS DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciocho, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga la Ley Estatal de Derechos publicada en la Segunda Sección del Periódico Oficial del Gobierno del Estado de fecha 24 de dicembre (sic) de 2011.
