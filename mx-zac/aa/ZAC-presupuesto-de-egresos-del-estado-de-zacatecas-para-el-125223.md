@@ -1,0 +1,32 @@
+---
+title: "PRESUPUESTO DE EGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2018"
+identifier: "ZAC-presupuesto-de-egresos-del-estado-de-zacatecas-para-el-125223"
+country: "mx"
+rank: "presupuesto"
+publication_date: "2017-12-20"
+last_updated: "2017-12-20"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125223&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-zac"
+scjn_id: "125223"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "PRESUPUESTO"
+original_gazette_section: "101 SUPLEMENTO 4 TOMOS 1-2"
+reform_count: "0"
+scjn_last_update: "2017-12-20"
+issue_date: "2017-12-18"
+state: "ZAC"
+---
+# PRESUPUESTO DE EGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2018
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 274 POR EL QUE SE EXPIDE ESTE PRESUPUESTO, PUBLICADO EL 20 DE DICIEMBRE DE 2017, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+PRESUPUESTO DE EGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2018
+
+TEXTO ORIGINAL.
+
+Presupuesto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 20 de diciembre de 2017.
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMÁGEN PDF".]</small>
