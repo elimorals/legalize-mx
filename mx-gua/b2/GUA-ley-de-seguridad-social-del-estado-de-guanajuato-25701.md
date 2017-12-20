@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-social-del-estado-de-guanajuato-25701"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-16"
-last_updated: "2016-07-01"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 20 DE DICIEMBRE DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR CIENTO VEINTE DÍAS SIGUIENTE A SU PUBLICACIÓN.]</small>
+
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 16 de agosto de 2002.
 
@@ -1774,3 +1776,39 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 273, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. La presente Ley entrará en vigor ciento veinte días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley de Seguridad Social contenida en el Decreto número 128 de la Quincuagésima Octava Legislatura del Congreso del Estado, publicado en el Periódico Oficial del Gobierno del Estado número 98, Segunda Parte, de fecha 16 de agosto de 2002.
+
+Trámites y procedimientos pendientes de resolución
+
+Artículo Tercero. Los trámites y procedimientos pendientes de resolución con anterioridad a la vigencia de esta Ley, se resolverán conforme a las disposiciones de la Ley que se abroga.
+
+Obligación de expedir reglamentos
+
+Artículo Cuarto. En tanto se expiden los reglamentos correspondientes, continuarán aplicándose las disposiciones vigentes, en lo que no se opongan al presente ordenamiento.
+
+Designación de los integrantes de la Comisión Técnica de Vigilancia Artículo Quinto. Para los efectos del artículo 125, a partir de la entrada en vigor de la presente Ley, los integrantes de la Comisión Técnica de Vigilancia deberán ser nombrados en un plazo máximo de 30 días naturales siguientes.
+
+Los bienes, recursos humanos, financieros y presupuestales asignados al Órgano de Control y Vigilancia se destinarán a la Comisión Técnica de Vigilancia para el cumplimiento de sus fines.
+
+Designación del titular del Órgano Interno de Control
+
+Artículo Sexto. A partir de la entrada en vigor de la presente Ley, en un plazo que no exceda de 30 días naturales siguientes, la Secretaría de la Transparencia y Rendición de Cuentas en términos del artículo 32, fracción I, inciso g) de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, designará al titular del Órgano Interno de Control.
+
+En la misma fecha señalada en el párrafo anterior, la Coordinación de Auditoría Interna hará entrega recepción al Órgano Interno de Control, de la documentación, auditorías, informes, y procedimientos administrativos que se encuentren en trámite al momento que entre en vigor la presente Ley, los que se sujetarán a las disposiciones contenidas en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios y demás normativa aplicable.
+
+La entrega recepción incluirá los bienes, recursos humanos, financieros y presupuestales asignados a la Coordinación de Auditoría Interna.
+
+Entrega recepción del Órgano de Control y Vigilancia
+
+Artículo Séptimo. En cumplimiento al artículo 128, realizada la designación del titular del Órgano Interno de Control, el Órgano de Control y Vigilancia hará entrega recepción a éste de la documentación, auditorías, informes, y procesos que se encuentren en trámite, los cuales se llevarán hasta su conclusión con arreglo en las disposiciones que se abrogan.
