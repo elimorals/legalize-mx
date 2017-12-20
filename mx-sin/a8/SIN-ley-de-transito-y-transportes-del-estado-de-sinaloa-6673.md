@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2017-06-12"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -335,29 +335,25 @@ I. Para servicio particular;
 
 II. Para servicio público;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
 
 III. Para servicios de seguridad pública;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2016)</small>
 
 IV. Para demostración;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+V. Para motocicletas y similares;
 
-V. Para motocicletas y similares; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+VI. Para vehículos de uso de personas con discapacidad; y
 
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-VI. Para vehículos de uso de personas con discapacidad.
+VII. Para ómnibus.
 
 ###### ARTICULO 39.
 
@@ -367,11 +363,15 @@ Las placas de demostración se proporcionarán exclusivamente a las personas que
 
 Las personas a quienes se expidan placas de demostración son responsables del uso que se les dé y sólo pueden utilizarlas para demostrar a la clientela el funcionamiento de los vehículos en las vías públicas.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 41.
 
-Las placas y tarjetas de circulación servirán como identificación del vehículo. Las placas tendrán una vigencia de tres años y las tarjetas de circulación se revalidarán anualmente. En caso de traslación de la propiedad por cualquier medio previsto en la legislación, el interesado deberá tramitar el cambio de propietario en un plazo no mayor de quince días posteriores a la fecha de traslación.
+Las placas y la tarjeta de circulación servirán como identificación del vehículo. La tarjeta de circulación y la calcomanía de refrendo deberán revalidarse anualmente dentro de los tres primeros meses del año calendario para el que son expedidas.
+
+Cuando se lleve a cabo la traslación de la propiedad del vehículo, por cualquiera de los medios previstos por el derecho común, el adquirente deberá tramitar el alta vehicular ante la dependencia competente del Gobierno del Estado, dentro de los 15 días hábiles siguientes a la fecha del acto que dio lugar a la adquisición.
+
+Por lo que corresponde a la placa de identificación vehicular, su vigencia será permanente y únicamente cesará cuando el vehículo cambie de propietario.
 
 ###### ARTICULO 42.
 
@@ -2392,3 +2392,25 @@ TERCERO. Dentro de los 45 días siguientes a la fecha de entrada en vigor de las
 CUARTO. Las concesiones para la prestación del servicio público de transporte de personas, otorgadas con anterioridad a la entrada en vigor del presente decreto, tendrán la vigencia para la cual hayan sido expedidas.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 291 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOCISIONES DE LA LEY DE HACIENDA, Y LEY DE TRÁNSITO Y TRANSPORTES, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Aquellos vehículos que antes de la entrada en vigor de este Decreto hayan adquirido su placa de identificación vehicular, están obligados a realizar el canje para adquirir la placa permanente al término de su vigencia, de conformidad con las disposiciones fiscales anteriores, que era de tres años.
+
+TERCERO. Las personas físicas y morales tenedoras o usuarias de vehículos, que previo a la entrada en vigor del presente Decreto, tengan adeudos por concepto del Impuesto sobre Tenencia o Uso de Vehículos, continuarán obligadas a su pago, en los términos de las disposiciones legales vigentes en la fecha de su causación.
+
+CUARTO. A más tardar el 31 de diciembre de 2017, el titular del Poder Ejecutivo del Estado deberá emitir un Acuerdo de Carácter General, para que durante el periodo comprendido del 01 de enero, al 31 de diciembre del año 2018, se otorgue un estímulo fiscal a las personas propietarias de vehículos con una antigüedad de 10 o más años, que se encuentren en los supuestos del artículo 48, fracción III, inciso D), numerales 1, 2 y 5 de la Ley de Hacienda del Estado de Sinaloa, y se aplicará de la siguiente manera:
+
+1. Para vehículo de servicio particular 55%
+
+2. Para vehículo de servicio público estatal 55%
+
+5. Para motocicletas 33.33%
+
+La aplicación del estímulo previsto en el presente artículo transitorio será válida durante todo el ejercicio fiscal del año 2018, independientemente del cobro de las sanciones respectivas derivadas del tiempo en el que se realice el trámite correspondiente, de conformidad con lo previsto en el artículo 49 de la Ley de Hacienda del Estado de Sinaloa.
+
+QUINTO. Durante el Ejercicio Fiscal del año 2018, del monto recaudado por concepto de revalidación anual de tarjeta de circulación y calcomanía de refrendo, serán destinados $160,000, 000.00 (Ciento sesenta millones de pesos 00/100 M.N.) a la partida presupuestal correspondiente al seguro popular y el monto restante a la correspondiente a las pensiones del sector educativo.
