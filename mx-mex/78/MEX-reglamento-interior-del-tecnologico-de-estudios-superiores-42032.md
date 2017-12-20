@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4203
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-02"
-last_updated: "2011-03-25"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE IXTAPALUCA
 
-REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE IXTAPALUCA DEL ESTADO DE MEXICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE IXTAPALUCA, PUBLICADO EN LA G.G. DE 20 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 25 DE MARZO DE 2011.
+REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE IXTAPALUCA DEL ESTADO DE MEXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta de Gobierno del Estado de México, el jueves 2 de diciembre de 2004.
 
@@ -450,3 +452,17 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periodico Oficial "Gaceta del Go
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE IXTAPALUCA”.]
+
+Primero.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+Segundo.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+Tercero.- Se abroga el Reglamento Interior del Tecnológico de Estudios Superiores de Ixtapaluca, publicado en el Periódico Oficial Gaceta del Gobierno el 2 de diciembre de 2004.
+
+Cuarto.- Las autoridades administrativas procederán hacer explicita la igualdad de género cuando se refiera a personas y a órganos del Organismo.
+
+Quinto.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
