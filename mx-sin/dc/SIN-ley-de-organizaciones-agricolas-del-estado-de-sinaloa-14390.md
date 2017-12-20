@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-organizaciones-agricolas-del-estado-de-sinaloa-14390"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-31"
-last_updated: "2016-12-28"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ORGANIZACIONES AGRÍCOLAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 31 de marzo de 1997.
 
@@ -93,9 +93,17 @@ C).- El área (3) tres, de temporal y agostadero, comprende las Sindicaturas de 
 
 VIII.- Asociación de Agricultores del Río Elota, que comprende los Municipios de Elota, San Ignacio y Cosalá;
 
-IX.- Asociación de Agricultores del Río Baluarte, con jurisdicción en los Municipios de Mazatlán, Concordia y Rosario;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-X.- Asociación de Agricultores del Río Las Cañas, con jurisdicción en el Municipio de Escuinapa.
+IX.- Asociación de Agricultores del Río Baluarte, con jurisdicción en los Municipios de Concordia y Rosario;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+X.- Asociación de Agricultores del Río Las Cañas, con jurisdicción en el Municipio de Escuinapa;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XI. Asociación de Agricultores del Río Presidio, con jurisdicción en el Municipio de Mazatlán.
 
 Cuando a juicio del Comité Directivo de la Confederación de Asociaciones Agrícolas del Estado de Sinaloa, en su caso, se considere que es necesario establecer nuevas Asociaciones Agrícolas, en las zonas de producción que no cuenten con una y previa su propuesta, el Congreso del Estado podrá autorizarlas y determinar su jurisdicción, en los términos de esta Ley. La resolución que emita el citado Comité Directivo, sea en sentido negativo o positivo, deberá ser debidamente razonada.
 
@@ -1452,3 +1460,9 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 282 QUE REFORMA Y ADICIONA EL ARTÍCULO 4o DE LA LEY DE ORGANIZACIONES AGRÍCOLAS DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
