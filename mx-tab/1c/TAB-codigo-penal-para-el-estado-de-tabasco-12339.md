@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2017-08-23"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -3853,7 +3853,7 @@ Se impondrá de dos a cinco años de prisión y multa de cien a trescientos día
 
 ### CAPITULO I BIS. DE LA VERACIDAD DE LAS COMUNICACIONES A LOS SERVICIOS DE EMERGENCIA
 
-> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 295.
 
@@ -4049,7 +4049,15 @@ Al que para la realización de actividades delictivas utilice instalaciones o me
 
 ###### Artículo 312 Bis.
 
-A quien utilice el servicio telefónico o cualquier medio de comunicación masiva para dar aviso de alarma o emergencia falsa, provocando con ello la movilización o presencia de los servicios de emergencia o cuerpos de seguridad pública, o provoque caos o inseguridad social, se le impondrá prisión de seis meses a dos años y de cincuenta a trescientos días multa.
+A quien utilice el servicio telefónico fijo o celular, internet, radio o cualquier medio de comunicación masiva para dar aviso de alarma o emergencia falsa, provocando con ello la movilización o presencia de los servicios de emergencia, protección civil, bomberos o elementos de las corporaciones de seguridad pública, o provoque caos o inseguridad social, se le impondrá prisión de seis meses a dos años y de cincuenta a trescientos días de unidades de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+En caso de reincidencia, se impondrá de dos a cuatro años de prisión y multa de quinientos a mil días de unidades de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+El uso indebido de los medios de comunicación para movilizar cuerpos de emergencia protección civil, bomberos o elementos de las corporaciones de seguridad pública se perseguirá de oficio, debiendo proveer lo necesario el Fiscal del Ministerio Público.
 
 ### CAPITULO III. USURPACION DEL USO DE DOCUMENTO
 
@@ -4984,3 +4992,15 @@ CUARTO.- El titular del Poder Ejecutivo del Estado, por conducto de la Secretar�
 QUINTO. En un plazo no mayor a cuarenta y cinco días posteriores a la publicación del presente Decreto, el Fiscal General del Estado realizará las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas funciones que resultan de las reformas materia del presente Decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 136 POR EL QUE “SE REFORMA EL PRIMER PÁRRAFO, Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO, AL ARTÍCULO 312 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
