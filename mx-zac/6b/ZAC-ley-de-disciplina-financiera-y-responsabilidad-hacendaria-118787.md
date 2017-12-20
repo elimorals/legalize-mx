@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-disciplina-financiera-y-responsabilidad-hacendaria-11878
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "ZAC"
 ---
 # LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -145,11 +149,15 @@ Las disposiciones de esta Ley tienen base y fundamento en las disposiciones cons
 
 A falta de disposición expresa en esta Ley, se aplicarán supletoriamente el Código Fiscal del Estado de Zacatecas y sus Municipios, la Ley de Hacienda del Estado de Zacatecas, la Ley de Hacienda Municipal del Estado de Zacatecas, la Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 Proceso de presupuestación.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 5.
 
-La programación de gasto público estatal tendrá su base en el Plan Estatal de Desarrollo y las directrices que formule el Ejecutivo del Estado. Para su integración al Presupuesto de Egresos, la Secretaría dictará las disposiciones procedentes.
+La programación de gasto público estatal tendrá su base en el Plan Estatal de Desarrollo y las directrices que formule el Ejecutivo del Estado a través de la Coordinación Estatal de Planeación. Para su integración al Presupuesto de Egresos, la Secretaría dictará las disposiciones procedentes.
 
 Gasto Público.
 
@@ -157,7 +165,11 @@ Gasto Público.
 
 El gasto público comprenderá las erogaciones por tipo de gasto corriente, gasto de capital, amortización de la deuda y disminución de pasivos, pensiones y jubilaciones y participaciones.
 
-Los Entes Públicos deberán planear, programar, presupuestar, controlar y evaluar sus actividades respecto al gasto público. Tratándose de las entidades, deberán efectuar sus actividades de acuerdo con el sector programático que les corresponda en términos del Acuerdo de Sectorización que emita el Ejecutivo o del respectivo acuerdo, decreto o Ley de su creación.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LOS ENTES PÚBLICOS DEBERÁN PLANEAR, PROGRAMAR, PRESUPUESTAR, CONTROLAR Y EVALUAR SUS ACTIVIDADES RESPECTO AL GASTO PÚBLICO. TRATÁNDOSE DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS, DEBERÁN EFECTUAR SUS ACTIVIDADES DE ACUERDO CON EL SECTOR PROGRAMÁTICO QUE LES CORRESPONDA EN TÉRMINOS DEL ACUERDO DE SECTORIZACIÓN QUE EMITA EL EJECUTIVO O DEL RESPECTIVO ACUERDO, DECRETO O LEY DE SU CREACIÓN.
 
 Los Entes Públicos responsables del Gasto están obligados a la transparencia y rendición de cuentas, de la administración de los recursos públicos, en los términos de esta Ley y demás disposiciones aplicables
 
@@ -287,11 +299,15 @@ V. Un estudio actuarial de las pensiones de sus trabajadores, el cual como míni
 
 La Ley de Ingresos y el Decreto del Presupuesto de Egresos del Estado deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y Transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 Facultad de la Secretaría para formular proyectos de presupuesto.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-La Secretaría está facultada para formular el Proyecto de Presupuesto de Egresos de las entidades y dependencias del Poder Ejecutivo cuando éstas no lo presentaren en el plazo que establece esta Ley, o en los casos en que habiendo presentado no se apeguen a las disposiciones legales emitidas para tal efecto. La omisión señalada en este artículo será informada a la Secretaría de la Función Pública para los efectos de responsabilidad administrativa.
+La Secretaría está facultada para formular el Proyecto de Presupuesto de Egresos de las entidades y dependencias del Poder Ejecutivo cuando éstas no los presentaran en el plazo que establece esa Ley, o en los casos en que habiendo presentado no se apeguen a las disposiciones legales emitidas para tal efecto. En el caso de los demás Entes Públicos, les asignará el presupuesto aprobado para el ejercicio fiscal inmediato anterior. La omisión señalada en este articulo será informada a la Secretaría de la Función Pública o al órgano interno de control del Ente Público incumplido, para los efectos de responsabilidad administrativa de los servidores públicos.
 
 Impacto presupuestario.
 
@@ -451,13 +467,27 @@ IV. Cuarto Trimestre, se realizarán ampliaciones o reducciones siempre y cuando
 
 ### Capítulo I. Ejercicio del Presupuesto de Egresos
 
-Ejercicio del gasto del Poder Ejecutivo.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-###### Artículo 29.
+EJERCICIO DEL GASTO DEL PODER EJECUTIVO.
 
-A las dependencias del Poder Ejecutivo del Estado, la Secretaría le (sic) realizará su asignación mensual en el techo financiero de acuerdo con los calendarios aprobados. Las dependencias serán estrictamente responsables de la ejecución de los recursos en los programas y proyectos, dentro del marco legal que los regulan conforme a su fuente de financiamiento y en los plazos de los calendarios de ejecución, además, atenderán para su ejercicio, las normas y políticas del ejercicio del gasto que emita la Secretaría.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Los subejercicios de los presupuestos de las dependencias y entidades que resulten, deberán subsanarse en un plazo máximo de 30 días hábiles. En caso contrario dichos recursos serán reasignados a programas prioritarios emitidos por el titular del Ejecutivo a través de la Secretaría.
+###### ARTÍCULO 29.
+
+A LAS DEPENDENCIAS DEL PODER EJECUTIVO DEL ESTADO, LA SECRETARÍA LE REALIZARÁ SU ASIGNACIÓN MENSUAL EN EL TECHO FINANCIERO DE ACUERDO CON LOS CALENDARIOS APROBADOS. LAS DEPENDENCIAS SERÁN ESTRICTAMENTE RESPONSABLES DE LA EJECUCIÓN DE LOS RECURSOS EN LOS PROGRAMAS Y PROYECTOS, DENTRO DEL MARCO LEGAL QUE LOS REGULAN CONFORME A SU FUENTE DE FINANCIAMIENTO Y EN LOS PLAZOS DE LOS CALENDARIOS DE EJECUCIÓN, ADEMÁS, ATENDERÁN PARA SU EJERCICIO, LAS NORMAS Y POLÍTICAS DEL EJERCICIO DEL GASTO, QUE EMITA LA COMISIÓN INTERSECRETARIAL DE GASTO-FINANCIAMIENTO.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+EXCEPCIONALMENTE Y PARA EFECTOS DE AGILIZAR LA EJECUCIÓN DE LOS RECURSOS PÚBLICOS, LA SECRETARÍA PODRÁ EFECTUAR LAS TRANSFERENCIAS DE RECURSOS A LAS DEPENDENCIAS CON BASE EN EL PRESUPUESTO DE EGRESOS Y DE ACUERDO CON LOS CALENDARIOS DE MINISTRACIÓN CORRESPONDIENTES, DE PROGRAMAS O FONDOS ESPECÍFICOS, A UNA CUENTA PRODUCTIVA Y ESPECÍFICA A CARGO DEL TITULAR Y EL COORDINADOR ADMINISTRATIVO, DE LOS QUE SERÁN ESTRICTAMENTE RESPONSABLES DE SU EJECUCIÓN, CONFORME A ESTA LEY, Y DENTRO DEL MARCO LEGAL QUE LOS REGULA CONFORME A SU NATURALEZA Y A LA FUENTE DE FINANCIAMIENTO ASÍ COMO A LOS PLAZOS DE EJECUCIÓN. PARA SU EJERCICIO ATENDERÁN LAS NORMAS Y POLÍTICAS DEL EJERCICIO DEL GASTO QUE EMITA LA COMISIÓN INTERSECRETARIAL DE GASTO-FINANCIAMIENTO.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LA SECRETARÍA PODRÁ HACER USO DE LOS SUBEJERCICIOS, CUANDO ESTOS TENGAN UNA ANTIGÜEDAD DE 30 DÍAS Y NO HAYAN SIDO JUSTIFICADOS POR LAS DEPENDENCIAS O ENTES PÚBLICOS, EN ESTE CASO SERÁN REASIGNADOS A PROGRAMAS PRIORITARIOS EMITIDOS POR EL TITULAR DEL EJECUTIVO A TRAVÉS DE LA SECRETARÍA.
 
 Ejercicio del gasto público de otros Entes Públicos.
 
@@ -521,7 +551,9 @@ Las partidas del presupuesto podrán ampliarse por el Ejecutivo del Estado en el
 
 Por ingresos extraordinarios entre otros, se entenderán:
 
-I. Excedentes que resulten de los ingresos ordinarios a que se refiera la Ley de Ingresos del Estado vigente en el año de su obtención;
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+I. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 II. Remanentes que tengan los organismos descentralizados, entre sus ingresos y egresos netos, que se consignen como erogaciones recuperables dentro de sus presupuestos;
 
@@ -533,13 +565,21 @@ V. Los provenientes de los acuerdos y convenios que el Estado celebre con el Eje
 
 El ejercicio de los mencionados recursos extraordinarios se considerará de ampliación automática, por lo que el Ejecutivo del Estado deberá informar a la Legislatura del Estado de las correspondientes asignaciones, transferencias y aplicaciones, cuando rinda la Cuenta Pública de cada ejercicio fiscal.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 Ingresos extraordinarios y su asignación.
 
-###### Artículo 35.
+> <small>(REFORMADO [N. DE E ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Tratándose de ingresos extraordinarios, el gasto público deberá ajustarse a lo dispuesto por el Decreto aprobatorio.
+###### ARTÍCULO 35.
 
-En uso de sus facultades el Ejecutivo del Estado, por conducto de la Secretaría, podrá asignar los recursos que se obtengan en exceso de los previstos en la Ley de Ingresos, a los programas que considere prioritarios, y que contribuyan al balance presupuestario.
+TRATÁNDOSE DE INGRESOS EXTRAORDINARIOS:
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+EN USO DE SUS FACULTADES EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARÍA, PODRÁ ASIGNAR LOS RECURSOS EXTRAORDINARIOS, A LOS PROGRAMAS QUE CONSIDERE PRIORITARIOS Y QUE CONTRIBUYAN AL BALANCE PRESUPUESTARIO.
 
 De los movimientos que se efectúen en los términos de este artículo, el Ejecutivo informará a la Legislatura del Estado al rendir la cuenta pública estatal.
 
@@ -617,19 +657,27 @@ En estos casos los compromisos excedentes no cubiertos quedarán sujetos para lo
 
 En los casos de los pagos que se generen en cumplimiento de los contratos de obligaciones que se deriven de esquemas de Asociaciones Público-Privadas, éstos se regirán por lo establecido en la Constitución Política del Estado Libre y Soberano de Zacatecas, la Ley de Obligaciones, Empréstitos y Deuda Pública del Estado de Zacatecas y sus Municipios y legislación de la materia.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 Celebración de convenios.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 43.
 
-Los Entes Públicos podrán celebrar convenios de coordinación, colaboración, concertación y transferencia de recursos o cualquier otro documento contractual que involucre el ejercicio de recursos, con la Federación o con los municipios.
+Los Entes Públicos podrán celebrar convenios de coordinación, colaboración, concertación y transferencia de recursos o cualquier otro documento contractual que involucre el ejercicio de recursos, con la Federación, los municipios o con asociaciones públicas o privadas. En este último caso se deberá contar con un análisis de viabilidad financiera y su correspondiente aprobación presupuestaria, proyectada mínimo a tres años, que tenga por objeto impedir que se comprometa la capacidad financiera de los Entes Públicos que participen en estos esquemas financieros.
 
-Cuando se trata de mezcla de recursos estatales, la celebración de estos convenios, deberá tener la aprobación de la Secretaría, evitando comprometer recursos que excedan la capacidad financiera del ente público, y en todos los casos, atenderá a la disponibilidad financiera, suficiencia presupuestaria y flujo de efectivo, contenidos en sus propios presupuestos autorizados para el ejercicio fiscal correspondiente.
+Cuando se trata de mezcla de recursos estatales, la celebración de estos convenios, deberá tener la aprobación presupuestaria de la Secretaría, evitando comprometer recursos que excedan la capacidad financiera del ente público, y en todos los casos, atenderá a la disponibilidad financiera, suficiencia presupuestaria y flujo de efectivo, contenidos en sus propios presupuestos autorizados para el ejercicio fiscal correspondiente.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 Aprobación para celebración de contratos.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 44.
 
-Las dependencias y entidades del Poder Ejecutivo, antes de suscribir convenios u otros documentos contractuales que requieran aportación de recursos financieros, deberán obtener la aprobación de la Secretaría, la que verificará que exista la disponibilidad de los mismos, con la finalidad de que la Coordinación Estatal de Planeación emita los respectivos oficios de autorización y aprobación de acuerdo con la política de gasto.
+Las dependencias y entidades del Poder Ejecutivo, antes de suscribir convenios u otros documentos contractuales que requieran aportación de recursos financieros, deberán obtener la aprobación presupuestaria de la Secretaría, la que verificará que exista la disponibilidad de los mismos, con la finalidad de que la Coordinación Estatal de Planeación emita los respectivos oficios de autorización y aprobación de acuerdo con la política de gasto.
 
 Recuperación de préstamos.
 
@@ -693,6 +741,12 @@ La Secretaría podrá entregar adelantos de participaciones a los Municipios, pr
 
 La Secretaría podrá autorizar o negar las peticiones a que se refiere el párrafo anterior, en función de la situación de las finanzas públicas del Gobierno del Estado y del resultado que arroje el análisis practicado a la capacidad financiera del Municipio, Entidad u Organismo solicitante.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LOS RECURSOS SERÁN TRANSFERIDOS POR LA SECRETARÍA A LOS MUNICIPIOS PREVIA FIRMA DEL CONVENIO DE TRANSFERENCIA DE LOS RECURSOS PÚBLICOS ESTATALES, CON LA TRANSFERENCIA DEL RECURSO, LA SECRETARÍA EFECTUARÁ EL MOMENTO CONTABLE DEL EGRESO PAGADO.
+
 ### Capítulo III. Prohibiciones en materia de ejecución del gasto
 
 Prohibición para fungir como ejecutores del gasto.
@@ -730,6 +784,30 @@ Dictámenes presupuestales.
 ###### Artículo 53.
 
 La Secretaría deberá emitir los dictámenes presupuestales antes de la aprobación de las estructuras orgánicas y ocupacionales de las dependencias y entidades.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+TRATÁNDOSE DE ESTRUCTURAS ORGÁNICAS DE NUEVA CREACIÓN, LAS DEPENDENCIAS Y LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS, ENVIARÁN A LA COORDINACIÓN GENERAL JURÍDICA Y LA SECRETARÍA DE LA FUNCIÓN PÚBLICA, LA PROPUESTA ADJUNTANDO UN PROYECTO DE IMPACTO PRESUPUESTARIO, DEBIDAMENTE FIRMADOS POR LOS TITULARES Y COORDINADORES ADMINISTRATIVOS, PARA QUE ÉSTAS OTORGUEN SU AUTORIZACIÓN.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LA SECRETARÍA DE FINANZAS, PODRÁ AUTORIZAR LA DISPONIBILIDAD PRESUPUESTARIA DE ESTRUCTURAS ORGÁNICAS DE NUEVA CREACIÓN SIEMPRE Y CUANDO EXISTA SUFICIENCIA DE RECURSOS DISPONIBLES PARA TAL FIN Y CUMPLA CON LAS OBLIGACIONES EN MATERIA DE SERVICIOS PERSONALES QUE ALUDE ESTA LEY.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LAS ESTRUCTURAS ORGÁNICAS DE NUEVA CREACIÓN DEBERÁN CONFORMARSE PREFERENTEMENTE CON EL PERSONAL QUE YA SE ENCUENTRE LABORANDO EN EL GOBIERNO DEL ESTADO MEDIANTE LAS REASIGNACIONES QUE DESIGNE LA SECRETARÍA DE ADMINISTRACIÓN, OPTIMIZANDO LOS RECURSOS HUMANOS Y PERFILES PROFESIONALES EXISTENTES.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LOS ENTES PÚBLICOS, DEBERÁN ATENDER DE IGUAL MANERA LOS PÁRRAFOS ANTERIORES, A TRAVÉS DE SUS UNIDADES DE ADMINISTRACIÓN.
 
 Obligaciones en materia de servicios personales.
 
@@ -999,11 +1077,21 @@ Transporte y hospedaje.
 
 Los pasajes aéreos y terrestres, así como los servicios de hospedaje, deberán adquirirse garantizando los esquemas, programas o paquetes que resulten más económicos en su contratación, conforme a las políticas establecidas en los documentos que normen la ejecución del gasto de los Entes Públicos.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 Asesoría y otros.
 
-###### Artículo 75.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-En el Poder Ejecutivo, se elimina la contratación en servicios de asesoría, consulta, asistencia e intercambio en materia jurídica, económica, contable, de ingeniería, arquitectónica, entre otras, que pudiesen ser requeridas para el cumplimiento de las obligaciones del Poder Ejecutivo; salvo los casos que se encuentran debidamente justificados y sólo con la autorización de la Secretaría.
+###### ARTÍCULO 75.
+
+EN EL PODER EJECUTIVO, SE ELIMINA LA CONTRATACIÓN EN SERVICIOS DE ASESORÍA, CONSULTA, ASISTENCIA E INTERCAMBIO EN MATERIA JURÍDICA, ECONÓMICA, CONTABLE, DE INGENIERÍA, ARQUITECTÓNICA, ENTRE OTRAS, QUE PUDIESEN SER REQUERIDAS PARA EL CUMPLIMIENTO DE LAS OBLIGACIONES DEL PODER EJECUTIVO; SALVO LOS CASOS QUE SE ENCUENTRAN DEBIDAMENTE JUSTIFICADOS Y SÓLO CON LA AUTORIZACIÓN PRESUPUESTARIA DE LA SECRETARÍA.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+RESPECTO DE LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS, LA CONTRATACIÓN DE SERVICIOS PODRÁ REALIZARSE, SOLO CUANDO SE ENCUENTREN DEBIDAMENTE JUSTIFICADOS Y CON LA AUTORIZACIÓN DE SUS JUNTAS U ÓRGANOS DE GOBIERNO, BAJO SU ESTRICTA RESPONSABILIDAD.
 
 Asimismo, se elimina la contratación de servicios de limpieza u otros que puedan realizarse con el personal con que actualmente cuenta el Poder Ejecutivo del Estado.
 
@@ -1027,7 +1115,11 @@ Convenios o pari-passus.
 
 Los Entes Públicos, dentro del ejercicio fiscal, podrán realizar convenios de reasignación de recursos con la Federación, otros Estados, Municipios, o Asociaciones Público Privadas, en los que se comprometa la aportación de recursos o pari-passu, siempre y cuando exista disposición y suficiencia presupuestal.
 
-Las dependencias, en el caso del Poder Ejecutivo, propondrán al Titular del Ejecutivo, por conducto de la Coordinación de Planeación, la firma de dichos convenios; la Secretaría deberá expedir autorización por escrito de tal aportación de recursos, siempre y cuando exista suficiencia presupuestal y no afecte el equilibrio financiero, o bien que se realicen los ajustes al presupuesto en capítulos y partidas que otorguen suficiencia presupuestal para su aportación.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LAS DEPENDENCIAS, EN EL CASO DEL PODER EJECUTIVO, PROPONDRÁN AL TITULAR DEL EJECUTIVO, POR CONDUCTO DE LA COORDINACIÓN GENERAL JURÍDICA, LA FIRMA DE DICHOS CONVENIOS; LA SECRETARÍA DEBERÁ EXPEDIR LA AUTORIZACIÓN PRESUPUESTARIA YA SEA POR ESCRITO O MEDIANTE LA FIRMA DE SU TITULAR EN DICHO CONVENIO DE APORTACIÓN DE RECURSOS ESTATALES, SIEMPRE Y CUANDO EXISTA SUFICIENCIA PRESUPUESTAL Y NO AFECTE EL EQUILIBRIO FINANCIERO, O BIEN QUE SE REALICEN LOS AJUSTES AL PRESUPUESTO EN CAPÍTULOS Y PARTIDAS QUE OTORGUEN SUFICIENCIA PRESUPUESTAL PARA SU APORTACIÓN.
 
 Aportaciones para convenios o pari-passu de organismos descentralizados.
 
@@ -1055,11 +1147,15 @@ El Ejecutivo del Estado, por conducto de la Secretaría, autorizará la ministra
 
 Los titulares de las dependencias y entidades serán responsables, en el ámbito de sus competencias, de que la ministración de subsidios y transferencias que se les haya autorizado con cargo a sus presupuestos se otorguen y ejerzan conforme a lo establecido en esta Ley y demás disposiciones aplicables.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 Padrón de beneficiarios de subsidios y ayudas.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 82.
 
-Las dependencias y entidades sólo podrán conceder subsidios, ministrar donativos, otorgar gratificaciones o dar ayuda de cualquier clase, hasta por los montos aprobados en sus presupuestos, siempre y cuando cuenten con los padrones de beneficiarios, estudios socio económicos y la justificación y ampliación conforme a las disposiciones fiscales con la autorización previa y por escrito de la Secretaría que justifique tales erogaciones. La Secretaría se abstendrá de otorgar dichas autorizaciones respecto de subsidios cuando éstos afecten negativamente la recaudación de ingresos que hayan sido previamente afectados a medios de pago de obligaciones contraídas por el Estado, las entidades o los fideicomisos constituidos por el Estado para contratar financiamientos, conforme a las disposiciones legales aplicables.
+Los Entes Públicos, sólo podrán conceder subsidios, ministrar donativos, otorgar gratificaciones o dar ayuda de cualquier clase, hasta por los montos aprobados en sus presupuestos para tal fin. Se deberá formular un padrón de beneficiarios para personas físicas y otro para personas morales y publicarlo en la página de internet del Ente Público, de manera trimestral. Para el caso de personas físicas, el peticionario lo realizará mediante solicitud donde justifique la petición; previo a su otorgamiento, el ente público realizará un estudio socio económico del beneficiario. Los subsidios, ayudas o transferencias a personas morales, se realizarán invariablemente a través de convenios de transferencia, aplicación, rendición de cuentas y transparencia de recursos públicos. Los Entes Públicos se abstendrán de otorgar dichas autorizaciones respecto de subsidios, cuando éstos afecten negativamente la recaudación de ingresos que hayan sido previamente afectados a medios de pago de obligaciones contraídas por el Estado, las entidades o los fideicomisos constituidos por el Estado para contratar financiamientos, conforme a las disposiciones legales aplicables.
 
 Requisitos para otorgamiento de subsidios
 
@@ -1257,7 +1353,9 @@ Comisión lntersecretarial de Gasto-Financiamiento.
 
 En el Poder Ejecutivo, la Comisión lntersecretarial de Gasto-Financiamiento será la instancia de asesoría y seguimiento permanente del Poder Ejecutivo en las señaladas materias incluidas en su denominación.
 
-La Comisión intersecretarial de Convenios y Auditorías Gubernamentales será la instancia de asesoría y seguimiento permanente del Ejecutivo en las señaladas materias incluidas en su denominación.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE PÁRRAFO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 El Poder Ejecutivo del Estado podrá crear las Comisiones Intersecretariales que considere necesarias para optimizar la aplicabilidad de esta Ley y expedirá las normas para la integración y funcionamiento de las mismas.
 
@@ -1390,6 +1488,18 @@ Los fideicomisos públicos sin estructura orgánica, o no considerados entidades
 Las dependencias, por conducto de la Secretaría en su carácter de fideicomitente única de la Administración Pública Centralizada y de sus organismos descentralizados, sólo podrán constituir los fideicomisos públicos sin estructura orgánica.
 
 El propósito de los fideicomisos señalados en el párrafo anterior, deberá relacionarse invariablemente con alguna de las áreas prioritarias o estratégicas indicadas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Zacatecas, en las leyes estatales, o decretos, o bien, con las áreas prioritarias que se establezcan en el Plan Estatal de Desarrollo, en los programas que deriven del mismo, en las previstas en las disposiciones de carácter general emitidas por el Ejecutivo Estatal, o las tendientes a la satisfacción de los intereses del Estado y necesidades populares.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+QUEDA PROHIBIDO CONSTITUIR FIDEICOMISOS QUE PRETENDAN ELUDIR EL PRINCIPIO DE ANUALIDAD EN LA EJECUCIÓN DE LOS RECURSOS. SÓLO SE PODRÁN CONSTITUIR FIDEICOMISOS QUE ESTÉN MANDATADOS POR LEY O DECRETO, SUJETOS A LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LAS MINISTRACIONES DESTINADAS AL FIDEICOMISO DEBERÁN SER PRESUPUESTADAS Y AFECTAR EL PRESUPUESTO DE LAS DEPENDENCIAS O ENTES PÚBLICOS QUE LO VAYAN A CONSTITUIR.
 
 ### Capítulo V. Cuenta Pública
 
@@ -1664,3 +1774,17 @@ FABIOLA GILDA TORRES RODRÍGUEZ.
 EL SECRETARIO DE FINANZAS
 
 JORGE MIRANDA CASTRO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. "DISPOSICIONES TRANSITORIAS DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]</small>
+
+Artículo Único.- Las presentes reformas, adiciones y derogaciones a la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Zacatecas y sus Municipios, entrarán en vigor el primero de enero del año dos mil dieciocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 273.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+ÚNICO.- El presente Decreto entrará en vigor el 1ro. de enero del 2018, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
