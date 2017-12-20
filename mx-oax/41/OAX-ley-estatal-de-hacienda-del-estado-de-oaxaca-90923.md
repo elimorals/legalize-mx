@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2017-10-07"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,359 +21,191 @@ state: "OAX"
 ---
 # LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+REGLAMENTO DE LA COMISION DE FISCALIZACION DEL CONSEJO ESTATAL ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL MORELOS
 
-LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2005.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
+Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de noviembre de 2002.
 
-Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
+Al margen izquierdo un emblema que dice: IEE.- Instituto Estatal Electoral.- Morelos.
 
-LIC. GABINO CUE MONTEAGUDO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
-
-QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN, APROBAR LO SIGUIENTE:
-
-DECRETO NÚM. 1385
-
-LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
-
-DECRETA
-
-LEY ESTATAL DE HACIENDA
+REGLAMENTO DE LA COMISIÓN DE FISCALIZACIÓN DEL CONSEJO ESTATAL ELECTORAL DEL INSTITUTO ESTATAL ELECTORAL MORELOS.
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, y tiene por objeto reglamentar el artículo 22 fracción III de la Constitución Política del Estado Libre y Soberano de Oaxaca.
-
-La aplicación e interpretación de esta Ley, para efectos fiscales y exclusivamente en el ámbito de competencia del Ejecutivo Estatal, corresponde a la Secretaría de Finanzas, sin menoscabo de la interpretación que realicen los órganos jurisdiccionales estatales o federales.
-
-El Código Fiscal para el Estado de Oaxaca será supletorio de esta Ley en lo conducente, y en su defecto, las contenidas en la legislación común, en lo que no se opongan a la naturaleza del derecho fiscal.
+El presente reglamento tiene por objeto regular la organización, funcionamiento y procedimientos de la comisión de fiscalización.
 
 ###### ARTÍCULO 2.
 
-Para efectos de esta Ley, se entiende por:
-
-I. Base: A la manifestación de riqueza gravada, siendo necesaria una estrecha relación entre el hecho imponible y la base gravable a la que se aplica la tasa o tarifa del impuesto;
-
-II. Causación: Al Momento exacto en que se considera consumado el hecho generador de la contribución;
-
-III. Código: Al Código Fiscal para el Estado de Oaxaca;
-
-IV. Lugar de pago: La Secretaría, las sucursales o a través de los medios electrónicos que al efecto proporcionen los bancos y entidades financieras; así como en las sucursales de casas comerciales, oficinas postales y otros organismos públicos o privados;
-
-V. Objeto: Al elemento económico sobre el que se asienta la contribución;
-
-VI. Obligaciones específicas de cada contribución: A los deberes a cargo de los contribuyentes que no pueden generalizarse;
-
-VII. Pago: Al elemento temporal en que se deben cubrir las contribuciones;
-
-VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-IX. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-X. Tasa o Tarifa: Porcentaje que se aplica a la base para determinar el monto de la contribución, y
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XI. Unidad de Medida y Actualización (UMA): Unidad de cuenta, índice, base, medida o referencia establecida por el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y la ley reglamentaria de la materia.
-
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
-
-XII. Zona Económica Especial: La establecida por la Ley Federal de Zonas Económicas y la Ley de Coordinación Estatal de las Zonas Económicas Especiales.
+La Comisión de Fiscalización es el órgano especializado del Consejo Estatal Electoral de carácter permanente, que tiene a su cargo la revisión de los informes anuales, de campaña y actividades relativas a educación, capacitación política, investigación socioeconómica y política, y tareas editoriales, que presenten los partidos políticos, así como la vigilancia del origen, uso, destino y monto de los recurso (sic) públicos y privados que le son entregados durante los periodos ordinarios y de campaña, con la suma de atribuciones que le confiere el Código Electoral para el Estado.
 
 ###### ARTÍCULO 3.
 
-La Secretaría podrá ser auxiliada por las sucursales o a través de los medios electrónicos que al efecto proporcionen las instituciones bancarias y entidades financieras; así como en las sucursales de casas comerciales, oficinas postales y otros organismos públicos o privados, que cumplan con todos los requisitos de seguridad y control que, en su caso, determine la Secretaría, como auxiliares en la recaudación de los ingresos, considerando al efecto la mayor cobertura y eficiencia posibles.
-
-Para tal efecto, la Secretaría podrá celebrar los acuerdos, contratos y convenios que sean necesarios con los entes privados antes señalados.
-
-La Secretaría de Finanzas deberá identificar cada uno de los ingresos en cuentas bancarias productivas específicas, en las cuales se depositaran los recursos estatales y federales transferidos por cualquier concepto, durante el ejercicio fiscal que corresponda.
-
-Se faculta al titular de la Secretaría de Finanzas delegar la suscripción de trámites e instrumentos jurídicos con instituciones de crédito, previo acuerdo y publicidad en el Periódico Oficial del Estado.
+La Comisión de Fiscalización se rige por las disposiciones contenidas en la legislación electoral para la Entidad, Reglamento Interior del Instituto Estatal Electoral, Reglamento de Fiscalización de los ingresos que reciban los partidos políticos por cualquier modalidad y financiamiento, así como su empleo y aplicación, Reglamento para el Financiamiento publico otorgado a los partidos políticos para los gastos que realizan por concepto de actividades relativas a educación, capacitación política, investigación socioeconómica y política y tareas editoriales, el presente reglamento y los acuerdos que en pleno emita el Consejo Estatal Electoral.
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
-### CAPÍTULO PRIMERO. SOBRE RIFAS, LOTERÍAS, SORTEOS Y CONCURSOS
+### CAPÍTULO SEGUNDO. DE SU INTEGRACIÓN
 
 ###### ARTÍCULO 4.
 
-Es objeto de este impuesto:
-
-I. Los ingresos que se perciban sobre el total de billetes o boletos enajenados para participar en rifas, loterías, sorteos y concursos de toda clase que se celebren dentro del territorio del Estado.
-
-II. Los ingresos obtenidos de premios en efectivo o en especie derivados de rifas, loterías, sorteos y concursos de toda clase.
+Los asuntos relacionados con la organización, funcionamiento interior y procedimientos que no se encuentren regulados por el presente ordenamiento, serán resueltos por el pleno de la Comisión de Fiscalización.
 
 ###### ARTÍCULO 5.
 
-Son sujetos de este impuesto:
+La Comisión de Fiscalización se integrará por tres Consejeros Electorales, entre los cuales estará el Consejero Presidente quien la presidirá, el Secretario Ejecutivo quien fungirá como coordinador de los trabajos, el Director Ejecutivo de Administración y Financiamiento como Secretario técnico, así como el personal que determine el Consejo Estatal Electoral para coadyuvar en las funciones de la Comisión.
 
-I. Las personas físicas, morales o unidades económicas que organicen rifas, loterías, sorteos y concursos de toda clase que se celebren dentro del territorio del Estado.
-
-II. Las personas físicas, morales o unidades económicas que obtengan ingresos en efectivo o en especie por premios derivados de rifas, loterías, sorteos y concursos de toda clase, independientemente de que el organizador y el evento mismo de cuyo resultado dependan la obtención del ingreso, se encuentren y/o celebren dentro o fuera de la entidad.
+En el caso que se requiera contará con el auxilio o asesoría técnico-científica de especialistas.
 
 ###### ARTÍCULO 6.
 
-Es base de este impuesto:
-
-I. El monto total del ingreso obtenido por la enajenación de billetes o boletos y demás comprobantes que permitan participar en rifas, loterías, sorteos y concursos de toda clase, y
-
-II. La obtención de premios, sin deducción alguna.
-
-Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios, el valor de facturación, o el del avalúo comercial vigente en el momento de su entrega, el que sea mayor.
+El moderador de la Comisión será el Consejero Presidente, quien conducirá el desarrollo y las discusiones de las reuniones de trabajo que celebre la misma.
 
 ###### ARTÍCULO 7.
 
-El impuesto se causará conforme a las siguientes tasas:
-
-I. Sobre el monto total de los ingresos por la enajenación de billetes o boletos y demás comprobantes que permitan participar en rifas, loterías, sorteos y concursos de toda clase 6 por ciento, y
-
-II. Ingresos por la obtención de premios 6 por ciento.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+La Comisión de Fiscalización contará con el apoyo técnico de un despacho contable, que coadyuve a la auditoría de los informes financieros de los partidos políticos, el cual se contratará mediante licitación pública que emita para tal efecto el Consejo Estatal Electoral.
 
 ###### ARTÍCULO 8.
 
-Las personas físicas, morales o unidades económicas que organicen o celebren eventos generadores de premios objeto de este impuesto, tendrán las siguientes obligaciones:
-
-I. Presentar ante la Secretaría o en la Delegación o Subdelegación Fiscal que corresponda a su domicilio fiscal en el Estado, a más tardar tres días antes de realizarse el evento o espectáculo público:
-
-a) El aviso en el formato que para tal efecto emita la Secretaría;
-
-b) Garantizar el interés fiscal que ampare el 4 por ciento del valor total del boletaje a vender, mediante billete de depósito, efectivo o cheque de caja, y
-
-c) En los casos de ampliación o suspensión del evento, presentar el aviso correspondiente a más tardar un día antes de la realización prevista.
-
-II. Presentar su declaración de pago dentro de los quince días siguientes a la realización de las rifas, loterías, sorteos o concursos, cuando se trate del impuesto causado conforme a la fracción I del artículo anterior de esta Ley.
-
-III. Retener y enterar el impuesto retenido mediante declaración dentro (sic) los quince días siguientes a la entrega del premio, en la Secretaría o en la Delegación o Subdelegación Fiscal que corresponda a su domicilio fiscal en el Estado, para el caso de la fracción II del artículo anterior, y
-
-IV. Proporcionar, cuando lo solicite el interesado, constancia de retención de dicho impuesto.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracciones anteriores el sujeto obligado se hará acreedor a una multa por el equivalente de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
-
-Cuando los sujetos obligados no garanticen el interés fiscal de conformidad con lo dispuesto por el inciso b) fracción I del presente artículo, la autoridad fiscal podrá suspender la organización o evento, hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor designado podrá solicitar el auxilio de la fuerza pública.
-
-Los servidores públicos estatales o municipales, al otorgar permisos para la realización de rifas, loterías, sorteos y/o concursos, deberán dar aviso a la Secretaría o a sus Delegaciones o Subdelegaciones Fiscales, de las autorizaciones que otorguen a más tardar al día siguiente de su emisión.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-La Secretaría será competente para intervenir durante el desarrollo de la rifa, lotería, sorteo o concurso atendiendo a las formalidades señaladas en el Código.
+La Comisión funcionará en pleno y sus resoluciones se tomarán por mayoría simple o unanimidad de votos.
 
 ###### ARTÍCULO 9.
 
-No causarán este impuesto:
+El Consejero Presidente y los Consejeros Electorales tendrán derecho a voz y voto, los demás integrantes únicamente a voz.
 
-I. Los ingresos obtenidos por la enajenación de billetes y demás comprobantes que permiten participar en rifas, loterías, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Federal o Estatal, cuyo objeto social sea la obtención de recursos para destinarlos a la beneficencia pública debidamente reconocidas, y
-
-II. Los ingresos obtenidos por premios con motivo de concursos científicos, académicos, artísticos o literarios.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-### CAPÍTULO SEGUNDO. SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
+### CAPÍTULO TERCERO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN
 
 ###### ARTÍCULO 10.
 
-Es objeto de este impuesto la realización con fines lucrativos de cualquier diversión y espectáculo público, excepto todos aquellos por los que se esté obligado al pago del Impuesto al Valor Agregado.
-
-Para efectos de este impuesto se entenderá como diversión y espectáculo público toda actividad de esparcimiento que se realice en un espacio donde se congrega el público para presenciarla, sea en teatros, estadios, explanadas, terrenos, circos o recintos semejantes.
+La Comisión de Fiscalización tendrá la suma de atribuciones que le otorga el Código Electoral para el Estado, realizando sus actividades en estricto apego a las disposiciones legales y reglamentarias, tomando los acuerdos necesarios para su funcionamiento, que no resulten incompatibles con dichas disposiciones.
 
 ###### ARTÍCULO 11.
 
-Son sujetos de este impuesto las personas físicas, morales o unidades económicas, que habitual o eventualmente, obtengan un ingreso por la realización y/u organización de cualquier diversión o espectáculo público en el territorio del Estado.
+Las reuniones de trabajo que lleve a cabo la Comisión de Fiscalización tendrán el carácter de privado.
 
 ###### ARTÍCULO 12.
 
-Es base del pago de este impuesto, el monto total de los ingresos obtenidos por la venta de boletos de entrada o participación a las diversiones, espectáculos públicos y derechos de mesa o reservados, cualesquiera que sea la denominación que se les dé, inclusive las de donativos, cooperación o reservación.
-
-En el caso de espectáculos públicos que condicione el acceso a la compra de un artículo en promoción se tomara como base del impuesto el precio comercial del artículo promocionado.
+El Coordinador de la Comisión convocará a las sesiones de trabajo, por lo menos con veinticuatro horas de anticipación.
 
 ###### ARTÍCULO 13.
 
-Este impuesto se calculará aplicando la tasa del 4 por ciento al monto total de los ingresos obtenidos.
+Las reuniones de trabajo durarán el tiempo necesario para desahogar los puntos del orden del día, con el objeto de realizar los trabajos encomendados, y tomar los acuerdos que correspondan.
 
 ###### ARTÍCULO 14.
 
-El impuesto se pagará una vez que haya sido determinado por el interventor hasta antes del término del evento.
-
-El interventor deberá observar las formalidades que para tal efecto se establecen en el Código.
+Al celebrarse la reunión de trabajo, el moderador, la declarará abierta, a continuación el Coordinador dará lectura a los puntos del orden del día listados en la convocatoria correspondiente; una vez aprobados, se dará inicio a su análisis y discusión, con el objeto de llevar a cabo los acuerdos y resoluciones que se requieran, levantándose para dicha reunión el acta respectiva, misma que firmarán los que en ella hayan intervenido.
 
 ###### ARTÍCULO 15.
 
-Los sujetos de este impuesto, tendrán a su cargo las siguientes obligaciones:
+Las reuniones de trabajo se llevarán a cabo una vez al mes de manera ordinaria y en forma extraordinaria cuantas veces sea necesario.
 
-Presentar a más tardar tres días antes de realizarse el evento o espectáculo público:
-
-I. El aviso en el formato que para tal efecto emita la Secretaría;
-
-II. Garantizar el interés fiscal que ampare el 4 por ciento del valor total del boletaje a vender, mediante billete de depósito, efectivo o cheque de caja, y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
-III. Presentar el aviso correspondiente en los casos de ampliación o suspensión del periodo de realización de la diversión o espectáculo, ante la Secretaría o en la Delegación o Subdelegación Fiscal que corresponda a su domicilio fiscal en el Estado, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar o suspender.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracciones anteriores el sujeto obligado se hará acreedor a una multa por el equivalente de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+Cuando el Secretario Ejecutivo reciba alguna queja sobre el origen y aplicación de los recursos, derivada del financiamiento de los partidos políticos, éste convocará inmediatamente a reunión de trabajo.
 
 ###### ARTÍCULO 16.
 
-Las personas físicas, morales o unidades económicas que realicen actividades de venta de boletos de diversiones o espectáculos deberán verificar previo a la venta de los boletos, se haya presentado el aviso a que refiere la fracción I del artículo 15 de la presente Ley; en caso contrario, se harán acreedores a una multa por el equivalente de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
+Las notificaciones que deban realizarse de acuerdo al Código Estatal Electoral para el Estado, al Reglamento de Fiscalización, al Reglamento del Financiamiento Público otorgado a los partidos políticos para los gastos realizados por concepto de actividades relativas a educación, capacitación política, investigación socioeconómica y política, y tareas editoriales, así como aquellas que ordene la propia comisión de fiscalización o el Consejo Estatal Electoral, serán efectuadas por conducto del coordinador de la comisión.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+El Coordinador de la Comisión será el responsable de las notificaciones que se realicen durante los procedimientos de fiscalización.
 
 ###### ARTÍCULO 17.
 
-Cuando los sujetos de este impuesto, obligados a garantizar el interés fiscal de acuerdo con lo dispuesto en el artículo 15 fracción II de la presente Ley, no hubieren cumplido tal obligación, la autoridad fiscal podrá suspender la diversión o espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor designado podrá solicitar el auxilio de la fuerza pública.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+Las notificaciones podrán hacerse de manera personal, directamente al interesado, o bien por cédula que se dejará en el domicilio del interesado con cualquier persona que en el se encuentre, y surtirán efecto al día siguiente en que se realicen.
 
 ###### ARTÍCULO 18.
 
-Los servidores públicos estatales o municipales, al otorgar permisos para la realización de diversiones o espectáculos públicos, deberán dar aviso a la Secretaría o a sus Delegaciones o Subdelegaciones Fiscales, de las autorizaciones que otorguen a más tardar al día siguiente de su emisión.
+La Comisión presentará por conducto de su Coordinador, los proyectos de resolución, dictámenes e informes, ante el Consejo Estatal Electoral para su análisis y aprobación en su caso.
+
+Anualmente, el coordinador presentará los proyectos de actualización del reglamento en materia de fiscalización que la comisión realice, para la adecuada presentación de los informes respecto del origen, y destino de los ingresos y egresos de los partidos políticos, que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación.
 
 ###### ARTÍCULO 19.
 
-Son responsables solidarios en el pago de este impuesto los que organicen, manejen, patrocinen o intervengan, sea cual fuere el nombre y función con el que lo hagan, en las actividades gravadas en este capítulo, así como los propietarios de una empresa dedicada a otro giro, cuando permitan que en su local se exploten las actividades descritas, por las cuales se cobre al espectador y que sean distintos al precio de los servicios que tiene autorizado el establecimiento.
+Los procedimientos que lleve a cabo la Comisión de Fiscalización, se sujetarán a lo dispuesto en las disposiciones legales y reglamentarias aplicables.
 
 ###### ARTÍCULO 20.
 
-No causarán este impuesto:
+Los partidos políticos presentarán ante el Consejo Estatal Electoral por conducto del Director Ejecutivo de Administración y Financiamiento en su carácter de Secretario técnico de la Comisión de Fiscalización, sus informes anuales o de campaña, en los plazos establecidos por el Código Electoral.
 
-I. Las diversiones o espectáculos públicos organizados directamente por la Federación, Estado, Municipios o instituciones de beneficencia pública debidamente reconocidas; y
-
-II. Las diversiones y espectáculos públicos cuyos cobros de derechos de entrada o participación estén gravados por el impuesto al valor agregado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-III. Las representaciones culturales que se realicen por artistas o grupos independientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-Para efectos del presente artículo se entenderá por:
-
-a) Organización Directa: Cuando el pago por las diversiones o espectáculos públicos ingresen al erario Federal, Estatal o Municipal, según el caso y consten en recibos oficiales.
-
-b) Artista Independiente: Al creador o intérprete que no depende de institución o empresa alguna, comercializando por sí mismo sus productos culturales y que de manera autónoma financia sus actividades.
-
-c) Grupo independiente a dos o más individuos interactuantes e interdependientes, que se reúnen para crear o interpretar por si mismos sus productos culturales y que financian con recursos propios la realización de sus actividades.
-
-La Federación, Ayuntamientos, Poderes Legislativo y Judicial, Órganos Autónomos, dependencias, organismos descentralizados e instituciones de beneficencia pública; deberán dar aviso a la Secretaría de las diversiones o espectáculos públicos que organicen directamente quince días antes de la realización del evento.
-
-Tratándose de las instituciones de beneficencia pública deberán acreditar con el instrumento jurídico que reconozca debidamente su situación.
+De la presentación de los informes, dará fe el Secretario Ejecutivo, levantándose para tal efecto el acta circunstanciada respectiva, misma que será firmada por los funcionarios del partido político de que se trate, por el Secretario técnico y por el Coordinador; haciéndose constar además la fecha, hora y personas que intervienen en dicho acto, procediéndose a foliar y sellar la documentación que se presente.
 
 ###### ARTÍCULO 21.
 
-La omisión del aviso a que se refiere el artículo anterior, tendrá como consecuencia que los ingresos obtenidos por las diversiones y espectáculos públicos serán sujetos del presente Capítulo.
+El Coordinador de la Comisión dará cuenta de la presentación de los informes anuales o de campaña exhibidos por los partidos políticos al Consejo Estatal Electoral, para su conocimiento y recepción formal.
 
-### CAPÍTULO TERCERO
-
-CEDULAR A LOS INGRESOS POR EL OTORGAMIENTO DEL USO O GOCE TEMPORAL DE BIENES INMUEBLES.
+### CAPÍTULO CUARTO. DE LOS PROCEDIMIENTOS DE LA COMISIÓN
 
 ###### ARTÍCULO 22.
 
-Es objeto de este impuesto el otorgamiento del uso o goce temporal de bienes inmuebles, ubicados en el territorio del Estado de Oaxaca.
+La Comisión iniciará el procedimiento de fiscalización, a que se refiere el artículo 72 del Código Electoral para el Estado, una vez que el Consejo Estatal Electoral determine la remisión a dicha Comisión, de los informes anuales o de campaña que presenten los partidos políticos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 23.
 
-Son sujetos de este impuesto las personas físicas, morales o unidades económicas que perciban ingresos por otorgar a título oneroso el uso o goce temporal de bienes inmuebles ubicados en el territorio del estado de Oaxaca, con independencia de la Entidad Federativa en la que el contribuyente tenga su domicilio fiscal.
+Durante los procesos electorales la Comisión de Fiscalización, podrá llevar a cabo el monitoreo de spots y publicidad diversa que contraten los partidos, para el efecto de verificar lo reportado en los informes que sobre gastos de campaña presente los partidos políticos en radio y televisión, de acuerdo a lo establecido en el artículo 64 del Código Electoral para el Estado de Morelos y en el Reglamento de Fiscalización.
 
-Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles los siguientes:
-
-I. Los provenientes de arrendamiento o subarrendamiento y en general, por otorgar a título oneroso el uso o goce temporal de bienes inmuebles en cualquier otra forma, y
-
-II. Los rendimientos de certificados de participación inmobiliaria no amortizables.
-
-Para los efectos de este capítulo se consideran ingresos gravables por este impuesto, los percibidos en efectivo, bienes, servicios y crédito.
-
-Los ingresos en crédito se declararán y se calculará el impuesto que les corresponda hasta el mes de calendario en el que sean cobrados.
-
-> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-Cuando los ingresos gravados por este impuesto, deriven de bienes en copropiedad, cada uno de los copropietarios deberán cumplir con todas las obligaciones en materia de este impuesto, debiendo cubrirlo en la parte que le corresponda atendiendo a la participación en la propiedad sobre la cosa común, que conste en el documento constitutivo de la copropiedad.
-
-Lo dispuesto en los párrafos anteriores es aplicable a los integrantes de la sociedad conyugal en caso de que el bien forme parte de la misma.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
-
-Las personas físicas, morales o unidades económicas que otorguen el uso o goce temporal de bienes inmuebles ubicados dentro del polígono territorial de las zonas económicas especiales, no causarán el pago de este impuesto por un periodo de diez años a partir de que se genere la obligación del pago.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
-
-Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que otorguen el uso o goce temporal de bienes inmuebles dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de dos punto cinco por ciento sobre la base que señala en el artículo 24 de esta Ley por los cinco años siguientes.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 24.
 
-La base de este impuesto son los ingresos obtenidos por los conceptos a que se refiere el artículo que antecede, pudiéndose efectuar las adecuaciones siguientes:
+El monitoreo será realizado por una empresa especializada y con experiencia en el área a que se hace referencia en el párrafo anterior, la cual coadyuvara a la Comisión de fiscalización y la que será designada mediante el procedimiento de licitación reglamentado en el Instituto Estatal Electoral.
 
-I. Los pagos efectuados por el Impuesto Predial correspondiente al año calendario sobre dichos inmuebles, así como por las contribuciones de mejoras que afecten a los mismos;
-
-II. Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen el inmueble;
-
-III. Los intereses nominales pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles;
-
-IV. Los salarios serán deducibles siempre y cuando se cumpla la obligación de inscribir a sus trabajadores en el Instituto Mexicano del Seguro Social y tengan entradas en tiempo y forma las cuotas obrero-patronales correspondientes. Los salarios, comisiones y honorarios, pagados por quien concede el uso y goce temporal de bienes inmuebles en un año de calendario, no deberán exceder en su conjunto, del 10 por ciento de los ingresos anuales obtenidos por conceder el uso o goce temporal de bienes inmuebles;
-
-V. El importe de las primas de seguros que amparen los bienes respectivos, y
-
-VI. Las inversiones en construcciones, incluyendo adiciones y mejoras.
-
-Los contribuyentes que otorguen el uso o goce temporal de bienes inmuebles podrán optar por deducir el 35 por ciento de los ingresos a que se refiere este capítulo, en substitución de las deducciones señaladas en este artículo. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del Impuesto Predial de dichos inmuebles correspondientes al año de calendario o al periodo durante el cual se obtuvieron los ingresos según corresponda.
-
-Los contribuyentes que ejerzan la opción prevista en el párrafo anterior, lo deberán hacer por todos los inmuebles por los que otorguen el uso o goce temporal, incluso por aquellos en los que tengan el carácter de copropietarios, a más tardar en la fecha en la que se presente la primera declaración que corresponda al año de calendarios de que se trate, y una vez ejercida no podrá variarse en los pagos de dicho año, pudiendo cambiar la opción al presentar la primera declaración del año siguiente.
-
-En el caso de copropietarios, cada uno podrá efectuar las deducciones que le correspondan, multiplicando la cantidad que corresponda, por los conceptos y en los términos de este artículo, por el porcentaje que resulte de participación en la propiedad, según conste en el documento constitutivo de la copropiedad sobre el bien común.
-
-Tratándose de subarrendamiento, solo se deducirá el importe de las rentas que pague el arrendatario al arrendador.
-
-Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso por otorgar el uso o goce temporal del mismo u otorgue su uso o goce temporal de manera gratuita, no podrá deducir la parte de los gastos, así como tampoco el Impuesto Predial y las contribuciones de mejoras que correspondan proporcionalmente a la unidad por él ocupada o de la otorgada gratuitamente. En los casos de subarrendamiento, el subarrendador no podrá deducir la parte proporcional del importe de las rentas pagadas que correspondan a la unidad que ocupe o que otorgue gratuitamente.
-
-La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita en relación con el total de metros cuadrados de construcción del bien inmueble.
-
-Los contribuyentes al efectuar los pagos a que se refiere este capítulo, harán las deducciones a que se refiere este artículo, que correspondan al periodo por el que se presente la declaración. Cuando las deducciones no se efectúen dentro del periodo al que corresponden, se podrán efectuar en los siguientes periodos del mismo año calendario.
-
-Tratándose de inversiones, los contribuyentes de este impuesto podrán deducir de los ingresos del periodo, la sexta parte de la deducción que corresponda al año calendario, independientemente del uso que se dé al inmueble de que se trate.
-
-En el caso de que los ingresos percibidos sean inferiores a las deducciones de periodo, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los periodos siguientes, siempre y cuando dichas deducciones corresponden al mismo calendario.
-
-Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos en materia de este impuesto.
-
-Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el año calendario, las deducciones a que se refieren las fracciones I a V de este artículo se aplicarán únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al en que se otorgue dicho uso o goce.
+(REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 30 DE NOVIEMBRE DE 2005)
 
 ###### ARTÍCULO 25.
 
-En las operaciones de fideicomiso por las que se otorgue el uso o goce temporal de bienes inmuebles, se considera que los rendimientos son ingresos del fideicomitente aun en el caso de que el fideicomisario sea una persona distinta a éste, a excepción de los fideicomisos irrevocables en los cuales el fideicomitente no tenga derecho a readquirir del fiduciario el bien inmueble, en cuyo caso se considera que los rendimientos son ingresos del fideicomisario desde el momento en que el fideicomitente pierda el derecho a readquirir el bien inmueble y los correspondientes ingresos hayan sido efectivamente cobrados por la institución fiduciaria aun cuando estos no sean obtenidos y/o estén disponibles por los fideicomisarios.
+La recepción, control y resguardo de los informes y la documentación de las finanzas y recursos de los partidos políticos, así como toda la documentación que sea dirigida a la Comisión, estará a cargo del Director Ejecutivo de Administración y Financiamiento, misma que se remitirá al archivo del Instituto Estatal Electoral cuando haya causado estado el proceso de fiscalización; la documentación establecida en el artículo 72 del Código Electoral, se devolverá a los partidos políticos.
 
-Sólo se entenderán como efectivamente cobrados cuando hayan sido obtenidos en efectivo, mediante traspasos de cuentas en instituciones de crédito o casas de bolsa, o en otros bienes que no sean títulos de crédito. También se entiende que es efectivamente cobrado cuando el interés del acreedor fiduciario queda satisfecho mediante cualquier forma de extinción de las obligaciones previstas en el derecho común.
+La documentación deberá ser recibida con el sello correspondiente y firma de la persona responsable, anotándose la hora y fecha de presentación, describiéndose en la medida de lo posible los anexos; dicha documentación se registrará en un libro de control, asignándole un número de entrada, y a su vez, inmediatamente se hará formalmente del conocimiento de los miembros de la Comisión.
 
-La institución fiduciaria efectuará pagos bimestrales definitivos y enterará este impuesto en los términos del artículo 27 por cuenta de aquel o aquellos a quienes correspondan las rentas ó rendimientos, en los términos del párrafo anterior, debiendo notificar a los fideicomisarios de tal situación, mediante entrega de copia simple de los comprobantes de pago correspondientes.
-
-Cuando se extinga el contrato de fideicomiso irrevocable aludido en este artículo, la institución fiduciaria deberá dar aviso a la Secretaría de tal situación a efecto de que la misma verifique el cumplimiento de las obligaciones fiscales previstas en este capítulo por cada uno de los fideicomisarios.
-
-> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 24], P.O. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 26.
 
-Este impuesto se calculará aplicando a la base la tasa del 5 por ciento.
+Se creará un archivo de seguimiento por partido político, al que solo tendrán acceso los miembros de la Comisión, con la obligación de guardar discreción de la información que consulten durante el proceso de fiscalización.
 
-> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+T R A N S I T O R I O S
+
+PRIMERO.- Las disposiciones del presente Reglamento entrarán en vigor a partir del primero de enero del año dos mil tres.
+
+SEGUNDO.- Cualquier disposición emitida con anterioridad que contravenga al presente reglamento, quedara sin efecto legal alguno.
+
+TERCERO.- El presente Reglamento deberá publicarse en el Periódico Oficial denominado "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+Dado en el salón de sesiones del Consejo Estatal Electoral del Instituto Estatal Electoral, en la ciudad de Cuernavaca, Morelos a los once días del mes de noviembre del año dos mil dos.
+
+CONSEJERO PRESIDENTE
+
+LIC. JOSÉ TEODORO LAVÍN LEÓN
+
+SECRETARIO EJECUTIVO
+
+LIC. MARCO ANTONIO FERNÁNDEZ TORRES
+
+CONSEJEROS ELECTORALES
+
+C. MARIO ANTONIO CABALLERO LUNA
+
+C. MAURICIO ALAIN ORIHUELA FLORES
+
+C. JOSÉ LUIS RODRÍGUEZ MARTÍNEZ
+
+C. HUMBERTO VALVERDE PRADO
+
+RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 2005.
+
+PRIMERO.- La adición de los artículos 23 y 24 del Capítulo Quinto del presente Reglamento, entrarán en vigor a partir del día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos, quedando a partir de esa fecha sin efecto legal alguno el texto anterior de los preceptos normativos de referencia.
+
+SEGUNDO.- Publíquense la reforma de los artículos antes citados, en el periódico oficial denominado "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+TERCERO.- Infórmese al Congreso del Estado, las reformas efectuadas al presente Reglamento, en cumplimiento al decreto número 799 publicado en el Periódico Oficial "Tierra y Libertad" número 4416, de fecha 29 de septiembre del año en curso, por el que se reforman diversas disposiciones del Código Electoral para el Estado.
 
 ###### ARTÍCULO 27.
 
@@ -415,7 +247,9 @@ Cuando los ingresos a que se refiere este capítulo sean percibidos a través de
 
 La presentación de declaración informativa a que refiere este artículo se realizará en el formato y conforme a las reglas de carácter general que emita la Secretaría.
 
-### CAPÍTULO CUARTO. SOBRE LAS DEMASÍAS CADUCAS
+### CAPÍTULO QUINTO. DEL PROCEDIMIENTO DE MONITOREO
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 29.
 
@@ -449,7 +283,9 @@ Los sujetos obligados al pago de este impuesto, deberán presentar declaración 
 
 La presentación de declaración informativa a que refiere el párrafo anterior se realizará en el formato y conforme a las reglas de carácter general que emita la Secretaría.
 
-### CAPÍTULO QUINTO. SOBRE TENENCIA O USO DE VEHÍCULOS
+### CAPÍTULO SEXTO. DE LA RECEPCIÓN DE DOCUMENTOS Y ARCHIVO DE LA COMISIÓN
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTICULO 23], P.O. 30 DE NOVIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 34.
 
