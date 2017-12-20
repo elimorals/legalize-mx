@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-76202"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-18"
-last_updated: "2016-10-05"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 18 de agosto de 2010.
 
@@ -3877,13 +3877,25 @@ V. La reincidencia en el incumplimiento de obligaciones, y
 
 VI. En su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
-Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento de alguna de las obligaciones a que se refiere la presente ley, incurra nuevamente en la misma conducta infractora al presente ordenamiento legal.
-
-Las multas deberán ser pagadas en la Secretaría de Administración y Finanzas del Gobierno del Estado; si el infractor no cumple con su obligación, se procederá a su cobro conforme a la legislación fiscal aplicable.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 En el caso de los partidos políticos, el monto de las multas se restará de sus ministraciones de financiamiento público ordinario, conforme a lo que se determine en la resolución.
 
-Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en este Título, serán destinados al órgano de Ciencia y Tecnología en la Entidad.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Se considerará reincidente al infractor que habiendo sido declarado responsable del incumplimiento de alguna de las obligaciones a que se refiere la presente ley, incurra nuevamente en la misma conducta infractora al presente ordenamiento legal.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Las multas deberán ser pagadas en el área encargada de administrar los recursos del Instituto Estatal Electoral; si el infractor no cumple con su obligación, el Instituto dará vista a las autoridades hacendarias a efecto de que procedan a su ejecución coactiva conforme a la legislación fiscal aplicable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador considerados en este Título, serán destinados al Fondo Estatal de Ciencia, Tecnología e Innovación, de la manera siguiente:
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+I. Una vez recaudado los recursos correspondientes, el Instituto o la autoridad hacendaria, en su caso, remitirán los montos en un plazo no mayor a 30 días hábiles, se realizará la trasferencia de los montos correspondientes a la Junta de Gobierno del Consejo de Ciencia y Tecnología del Estado de Nayarit.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2016)</small>
 
@@ -4334,3 +4346,11 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Para los efectos previstos en el artículo 101 párrafo tercero de la presente ley, el Congreso del Estado contará con un plazo que no exceda de noventa días contados a partir del día siguiente de la entrada en vigor del presente decreto, para designar al titular del órgano al que el mismo precepto se refiere.
 
 Tercero.- Se reconocen y quedan a salvo los derechos adquiridos de quienes atiendan las responsabilidades inherentes a los cargos ejecutivos, directivos, técnicos y administrativos del Instituto Estatal Electoral.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ELECTORAL DEL ESTADO DE NAYARIT".]
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO: El ejecutivo realizará las adecuaciones al reglamento del Fondo Estatal de Ciencia y Tecnología, en lo referente al destino de los montos provenientes de las multas remitidas por el Instituto Estatal Electoral de Nayarit.
