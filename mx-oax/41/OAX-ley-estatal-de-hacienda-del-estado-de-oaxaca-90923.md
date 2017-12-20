@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2017-10-07"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -71,7 +71,9 @@ VI. Obligaciones específicas de cada contribución: A los deberes a cargo de lo
 
 VII. Pago: Al elemento temporal en que se deben cubrir las contribuciones;
 
-VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VIII. Reglas: Reglas de Carácter General;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -173,7 +175,9 @@ La Secretaría será competente para intervenir durante el desarrollo de la rifa
 
 No causarán este impuesto:
 
-I. Los ingresos obtenidos por la enajenación de billetes y demás comprobantes que permiten participar en rifas, loterías, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Federal o Estatal, cuyo objeto social sea la obtención de recursos para destinarlos a la beneficencia pública debidamente reconocidas, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+I. Los ingresos obtenidos por la enajenación de billetes y demás comprobantes que permiten participar en rifas, loterías, sorteos y concursos de toda clase, organizados por organismos públicos descentralizados de la Administración Pública Federal o Estatal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública; así como los obtenidos por las instituciones educativas sin fines de lucro, y
 
 II. Los ingresos obtenidos por premios con motivo de concursos científicos, académicos, artísticos o literarios.
 
@@ -297,7 +301,7 @@ Son sujetos de este impuesto las personas físicas, morales o unidades económic
 
 Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles los siguientes:
 
-I. Los provenientes de arrendamiento o subarrendamiento y en general, por otorgar a título oneroso el uso o goce temporal de bienes inmuebles en cualquier otra forma, y
+I. Los provenientes de arrendamiento o subarrendamiento o en general, por otorgar a título oneroso el uso y goce temporal de bienes inmuebles en cualquier otra forma, y
 
 II. Los rendimientos de certificados de participación inmobiliaria no amortizables.
 
@@ -311,51 +315,19 @@ Cuando los ingresos gravados por este impuesto, deriven de bienes en copropiedad
 
 Lo dispuesto en los párrafos anteriores es aplicable a los integrantes de la sociedad conyugal en caso de que el bien forme parte de la misma.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Las personas físicas, morales o unidades económicas que otorguen el uso o goce temporal de bienes inmuebles ubicados dentro del polígono territorial de las zonas económicas especiales, no causarán el pago de este impuesto por un periodo de diez años a partir de que se genere la obligación del pago.
+Son responsables solidarios de este impuesto los Poderes Legislativo y Judicial, Órganos Autónomos, Dependencias y Entidades de la Federación, el Estado o Municipios, que estén obligados a retener conforme lo señalado en este artículo.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Posteriormente a los diez años de no causación, las personas físicas, morales o unidades económicas que otorguen el uso o goce temporal de bienes inmuebles dentro del polígono territorial de las zonas económicas especiales, se les calculará este impuesto aplicando una tasa de dos punto cinco por ciento sobre la base que señala en el artículo 24 de esta Ley por los cinco años siguientes.
+Los responsables solidarios deberán retener y enterar el impuesto conforme al procedimiento que para tal efecto se establezca en Reglas, debiendo proporcionar a los contribuyentes constancias de retención y comprobante fiscal.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
-La base de este impuesto son los ingresos obtenidos por los conceptos a que se refiere el artículo que antecede, pudiéndose efectuar las adecuaciones siguientes:
-
-I. Los pagos efectuados por el Impuesto Predial correspondiente al año calendario sobre dichos inmuebles, así como por las contribuciones de mejoras que afecten a los mismos;
-
-II. Los gastos de mantenimiento que no impliquen adiciones o mejoras al bien de que se trate y por consumo de agua, siempre que no los paguen quienes usen o gocen el inmueble;
-
-III. Los intereses nominales pagados por préstamos utilizados para la compra, construcción o mejoras de los bienes inmuebles;
-
-IV. Los salarios serán deducibles siempre y cuando se cumpla la obligación de inscribir a sus trabajadores en el Instituto Mexicano del Seguro Social y tengan entradas en tiempo y forma las cuotas obrero-patronales correspondientes. Los salarios, comisiones y honorarios, pagados por quien concede el uso y goce temporal de bienes inmuebles en un año de calendario, no deberán exceder en su conjunto, del 10 por ciento de los ingresos anuales obtenidos por conceder el uso o goce temporal de bienes inmuebles;
-
-V. El importe de las primas de seguros que amparen los bienes respectivos, y
-
-VI. Las inversiones en construcciones, incluyendo adiciones y mejoras.
-
-Los contribuyentes que otorguen el uso o goce temporal de bienes inmuebles podrán optar por deducir el 35 por ciento de los ingresos a que se refiere este capítulo, en substitución de las deducciones señaladas en este artículo. Quienes ejerzan esta opción podrán deducir, además, el monto de las erogaciones por concepto del Impuesto Predial de dichos inmuebles correspondientes al año de calendario o al periodo durante el cual se obtuvieron los ingresos según corresponda.
-
-Los contribuyentes que ejerzan la opción prevista en el párrafo anterior, lo deberán hacer por todos los inmuebles por los que otorguen el uso o goce temporal, incluso por aquellos en los que tengan el carácter de copropietarios, a más tardar en la fecha en la que se presente la primera declaración que corresponda al año de calendarios de que se trate, y una vez ejercida no podrá variarse en los pagos de dicho año, pudiendo cambiar la opción al presentar la primera declaración del año siguiente.
-
-En el caso de copropietarios, cada uno podrá efectuar las deducciones que le correspondan, multiplicando la cantidad que corresponda, por los conceptos y en los términos de este artículo, por el porcentaje que resulte de participación en la propiedad, según conste en el documento constitutivo de la copropiedad sobre el bien común.
-
-Tratándose de subarrendamiento, solo se deducirá el importe de las rentas que pague el arrendatario al arrendador.
-
-Cuando el contribuyente ocupe parte del bien inmueble del cual derive el ingreso por otorgar el uso o goce temporal del mismo u otorgue su uso o goce temporal de manera gratuita, no podrá deducir la parte de los gastos, así como tampoco el Impuesto Predial y las contribuciones de mejoras que correspondan proporcionalmente a la unidad por él ocupada o de la otorgada gratuitamente. En los casos de subarrendamiento, el subarrendador no podrá deducir la parte proporcional del importe de las rentas pagadas que correspondan a la unidad que ocupe o que otorgue gratuitamente.
-
-La parte proporcional a que se refiere el párrafo que antecede, se calculará considerando el número de metros cuadrados de construcción de la unidad por él ocupada u otorgada de manera gratuita en relación con el total de metros cuadrados de construcción del bien inmueble.
-
-Los contribuyentes al efectuar los pagos a que se refiere este capítulo, harán las deducciones a que se refiere este artículo, que correspondan al periodo por el que se presente la declaración. Cuando las deducciones no se efectúen dentro del periodo al que corresponden, se podrán efectuar en los siguientes periodos del mismo año calendario.
-
-Tratándose de inversiones, los contribuyentes de este impuesto podrán deducir de los ingresos del periodo, la sexta parte de la deducción que corresponda al año calendario, independientemente del uso que se dé al inmueble de que se trate.
-
-En el caso de que los ingresos percibidos sean inferiores a las deducciones de periodo, los contribuyentes podrán considerar la diferencia que resulte entre ambos conceptos, como deducible en los periodos siguientes, siempre y cuando dichas deducciones corresponden al mismo calendario.
-
-Las deducciones a que se refiere este artículo deberán estar relacionadas con los inmuebles por los que se obtengan los ingresos en materia de este impuesto.
-
-Cuando el uso o goce temporal del bien de que se trate no se hubiese otorgado por todo el año calendario, las deducciones a que se refieren las fracciones I a V de este artículo se aplicarán únicamente cuando correspondan al periodo por el cual se otorgó el uso o goce temporal del bien inmueble o a los tres meses inmediatos anteriores al en que se otorgue dicho uso o goce.
+La base de este impuesto son los ingresos obtenidos por los conceptos a que refiere el artículo que antecede.
 
 ###### ARTÍCULO 25.
 
@@ -387,7 +359,9 @@ El pago de este impuesto se efectuará mediante declaración bimestral definitiv
 
 Los sujetos obligados al pago de este impuesto tendrán a su cargo las siguientes obligaciones:
 
-I. Llevar contabilidad de conformidad con el Código. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 35 por ciento a que se refiere el artículo 24 de esta Ley;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+I. Llevar contabilidad de conformidad con el Código;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -409,11 +383,9 @@ IV. Presentar declaración anual informativa del ejercicio dentro de los tres me
 
 Cuando los ingresos a que se refiere este capítulo sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria la que cumpla con las obligaciones previstas en este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-La presentación de declaración informativa a que refiere este artículo se realizará en el formato y conforme a las reglas de carácter general que emita la Secretaría.
+La presentación de las declaraciones a que refiere este artículo se realizará en el formato y conforme a las Reglas que emita la Secretaría.
 
 ### CAPÍTULO CUARTO. SOBRE LAS DEMASÍAS CADUCAS
 
@@ -1049,7 +1021,7 @@ Este impuesto se calculará aplicando a la base, la tasa del 0.6 por ciento.
 
 En ningún caso el impuesto a pagar será inferior a 3.0 al valor de la Unidad de Medida y Actualización vigente.
 
-Cuando se pague el impuesto a que se refiere el presente capítulo dentro de los quince días hábiles siguientes a aquel en que se realice la operación objeto del presente impuesto, se aplicará a la base la tasa del 0.0 por ciento.
+> <small>(DEROGADO PÁRRAFO TERCERO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 50.
 
@@ -1067,15 +1039,21 @@ II. Los servidores públicos que autoricen cualquier trámite relacionado con ve
 
 ### CAPÍTULO SÉPTIMO. SOBRE LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 52.
 
-Es objeto de este impuesto, el servicio de hospedaje que se reciba en hoteles, moteles, albergues, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes, casas de huéspedes y otros establecimientos que presten servicios de esta naturaleza, incluyendo los prestados bajo la modalidad de tiempo compartido.
+Es objeto de este impuesto, el servicio de hospedaje que se reciba en hoteles, moteles, albergues, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes, casas de huéspedes, casas y departamentos total o parcialmente, y otros establecimientos que presten servicios de esta naturaleza, incluyendo los prestados bajo la modalidad de tiempo compartido.
 
 No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios, internados y aquellos prestados por establecimientos con fines no lucrativos.
 
 ###### ARTÍCULO 53.
 
 Son sujetos obligados al pago del impuesto que establece este capítulo, las personas físicas, morales o unidades económicas que dentro del estado de Oaxaca, reciban los servicios señalados en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Las personas físicas, morales o unidades económicas que en su carácter de intermediarias, promotoras o facilitadoras intervengan de cualquier forma en el cobro de las contraprestaciones por servicio de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al impuesto, deberán inscribirse al padrón del impuesto correspondiente en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en la recaudación y entero de dicho impuesto. La Secretaría emitirá Reglas que determine la forma de alta y baja del registro y de la presentación de las declaraciones correspondientes.
 
 > <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2017)</small>
 
@@ -1103,17 +1081,17 @@ Los sujetos obligados de este impuesto, deberán pagarlo en el momento de liquid
 
 Los prestadores de los servicios a que hace referencia el artículo 52 de esta Ley, deberán retener dicho impuesto al momento de hacer efectivo los importes señalados en el artículo 54 del mismo ordenamiento y enterarlo a la Secretaría con base en lo dispuesto por el artículo 57 de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+En los supuestos previstos en el primer párrafo del artículo 52, cuando intervenga una persona física, moral o unidad económica en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ella lo correspondiente al impuesto, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal.
+
 ###### ARTÍCULO 57.
 
 Son responsables solidarios del pago de este impuesto, los prestadores de los servicios de hospedaje, quienes tendrán las siguientes obligaciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 I. Enterar una cantidad equivalente a la que debieron retener en los términos de este capítulo, aún cuando no hubieren hecho la retención correspondiente o no hayan recibido el pago de las contraprestaciones relativas al servicio prestado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -1125,11 +1103,9 @@ II. El pago de este impuesto se efectuará mediante declaración bimestral defin
 
 III. Presentar declaración anual informativa del ejercicio dentro de los tres meses siguientes al cierre del mismo, cuando hayan obtenido ingresos anuales superiores a $100,000.00.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la Secretaría o en la Delegación o Subdelegación Fiscal correspondiente a su domicilio fiscal en el Estado, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto retenido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la Secretaría o en las oficinas autorizadas que correspondan, o bien, a través de la página de internet de la Secretaría, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto retenido.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -1203,21 +1179,23 @@ Posteriormente a los diez años de no causación, las personas físicas, morales
 
 Son objeto de este impuesto:
 
-I. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal subordinado, por los servicios prestados dentro del territorio del Estado, bajo la dirección o dependencia de un patrón o de un tercero que actúe en su nombre, aun cuando cualesquiera de los sujetos mencionados en esta fracción, o todos ellos tengan su domicilio fiscal fuera del estado, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+I. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección o dependencia de un patrón, o que se realicen mediante un contratista, intermediario laboral, tercero o cualquiera que sea su denominación, aun cuando cualesquiera de los sujetos mencionados en esta fracción, o todos ellos tengan su domicilio fiscal fuera del Estado, y
 
 II. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al trabajo personal, por los Servicios prestados dentro del territorio del estado, aún cuando los prestadores del servicio o los beneficiaros del mismo, o ambos, tengan su domicilio fiscal fuera de éste.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
-
-Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, ya sea subordinado o no, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria; gratificaciones, percepciones, habitación, primas, pagos por concepto de fondo de ahorro que no reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro, comisiones, prestaciones en especie; los honorarios profesionales, emolumentos; contraprestaciones contractuales, cuando el contrato tenga como objeto la prestación de un servicio; los pagos a los administradores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de sociedades o asociaciones como remuneración a dichos cargos; los pagos realizados a fiduciarios como remuneración a sus servicios; los pagos por concepto de servicios personales; y cualquier otra de la misma naturaleza que las anteriores, con independencia de la denominación que reciba.
+Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, ya sea subordinado o no, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria; gratificaciones, percepciones, habitación, primas, pagos por concepto de fondo de ahorro que no se encuentren registrados ante la Comisión Nacional del Sistema de Ahorro para el Retiro, comisiones, prestaciones en especie; los honorarios profesionales, emolumentos; contraprestaciones contractuales, cuando el contrato tenga como objeto la prestación de un servicio; los pagos a los administradores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de sociedades o asociaciones como remuneración a dichos cargos; los pagos realizados a fiduciarios como remuneración a sus servicios; los pagos por concepto de servicios personales; y cualquier otra de la misma naturaleza que las anteriores, con independencia de la denominación que reciba.
 
 Lo anterior, sin perjuicio de las excepciones señaladas en el artículo 67 de esta ley.
 
-En el caso de la fracción primera de este artículo, las personas físicas, morales o unidades económicas que contraten la prestación de servicios con personas domiciliadas dentro o fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos de dicha fracción, estarán obligadas a enterar el impuesto que corresponda de conformidad con lo previsto en el presente Capítulo.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-En el caso de la tracción II de este artículo, las personas físicas, morales o unidades económicas que contraten la prestación de servicios con personas domiciliadas fuera del territorio del Estado, cuando el servicio personal se preste en los términos de la misma fracción, estarán obligadas a enterar el impuesto que corresponda de conformidad con lo previsto en el presente Capítulo.
+En el caso de la fracción primera de este artículo, las personas físicas, morales o unidades económicas que contraten la prestación de servicios con personas domiciliadas dentro o fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos de dicha fracción, estarán obligadas a retener y a enterar el impuesto que corresponda de conformidad con lo previsto en el presente Capítulo.
+
+En el caso de la fracción II de este artículo, las personas físicas, morales o unidades económicas que contralen la prestación de servicios con personas domiciliadas fuera del territorio del Estado, cuando el servicio personal se preste en los términos de la misma fracción, estarán obligadas a enterar el impuesto que corresponda de conformidad con lo previsto en el presente Capítulo.
 
 ###### ARTÍCULO 64.
 
@@ -1225,9 +1203,21 @@ Son sujetos de este impuesto las personas físicas, morales o unidades económic
 
 Cuando el pago de las erogaciones por remuneraciones al trabajo personal ya sea subordinado o no, se realice a través de un intermediario laboral, cualquiera que sea la denominación que los beneficiarios del servicio e intermediarios asuman, ambos serán responsables solidarios entre sí, respecto del cumplimiento de las obligaciones contenidas en este Capítulo.
 
-Cuando una persona física, moral o unidad económica en virtud de un contrato cualquiera que sea su forma o denominación, como parte de las obligaciones contraídas, pongan a disposición trabajadores para que ejecuten los servicios o trabajos acordados bajo la dirección del beneficiario de los mismos, en las instalaciones que éste determine, el beneficiario de los trabajos o los servicios asumirá las obligaciones establecidas en este Capítulo respecto del pago del impuesto en relación con dichos trabajadores, en el supuesto de que la persona física, moral o la unidad económica, omita su cumplimiento.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-La responsabilidad solidaria subsistirá hasta en tanto el intermediario laboral cumpla con todas las obligaciones a que se encuentra sujeto en éste Capítulo.
+Están obligados a retener y enterar este impuesto en los términos de la presente Ley, quienes obtengan de otras personas físicas, morales o unidades económicas, en su calidad de intermediarias, de conformidad a los artículos 13, 14 y 15 de la Ley Federal del Trabajo, domiciliadas dentro o fuera del territorio de esta entidad, la prestación de un servicio personal subordinado, siempre que el mismo se preste dentro del territorio del Estado. En este caso deberán entregar a la persona física, moral o unidad económica que les proporcione los trabajadores, la constancia de retención correspondiente.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+La retención deberá realizarse sobre el importe total, que por concepto de remuneraciones al trabajo personal se pacte o se haya pactado por los servicios prestados.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Las Dependencias y Entidades de la Administración Pública Federal, Estatal o Municipal en la celebración de contratos de obra pública deberán retener este impuesto a las personas físicas, morales o unidades económicas obligadas al pago de esta contribución al momento del pago de las estimaciones correspondiente de la obra.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Para determinar la cantidad a retener se tomará como base del impuesto, la cantidad establecida por concepto de mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 66 de esta Ley, por cada pago de estimaciones por trabajos ejecutados, que se otorgue al obligado de este impuesto a cuenta de pago final y hasta la terminación de la obra.
 
 ###### ARTÍCULO 65.
 
@@ -1247,11 +1237,9 @@ El pago de este impuesto se efectuará mediante declaración bimestral definitiv
 
 Se exceptúan para el cálculo del impuesto, las erogaciones que se efectúen por concepto de:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2016)</small>
-
-I. Aportaciones del patrón al fondo de ahorro constituido a favor de sus trabajadores, únicamente las que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro;
+I. Aportaciones del patrón al fondo de ahorro constituido a favor de sus trabajadores, cuando éste se encuentre registrado ante la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
 II. Depósitos a la cuenta individual del trabajador de ahorro para el retiro, hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia, y las aportaciones voluntarias y complementarias, hasta por un monto de 20 Salarios elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro;
 
@@ -1534,3 +1522,11 @@ PRIMERO. Publíquese en el Periódico Oficial del Gobierno el (sic) Estado.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas y/o abrogadas.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 781.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciocho, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
