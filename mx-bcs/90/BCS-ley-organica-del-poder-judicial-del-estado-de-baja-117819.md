@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-31"
-last_updated: "2017-03-10"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
 
@@ -139,21 +139,21 @@ Los Magistrados que aspiren a ser reelectos deberán ser evaluados y deben conse
 
 Las resoluciones del Congreso del Estado de Baja California Sur, respecto a la reelección o no reelección de Magistrados, serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MARZO DE 2017)</small>
 
 ###### Artículo 8.
 
 Los Magistrados que previa reelección concluyan su segundo periodo constitucional en el cargo, tendrán derecho a partir de ese momento a un haber de retiro equivalente al cien por ciento del total de las percepciones que correspondan a los Magistrados en activo, durante los dos años posteriores a la conclusión del cargo; del mismo derecho gozarán los magistrados que concluyan su primer periodo constitucional en el cargo y no sean reelectos.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2017)</small>
 
 En caso de que un Magistrado sea removido de su cargo por alguna causa de responsabilidad de las indicadas en la Constitución Política del Estado, no tendrán derecho al haber de retiro.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2017)</small>
 
 El derecho al haber de retiro previsto en el presente artículo es intransferible.
 
-> <small>(DEROGADO CUARTO, QUINTO Y SEXTO PÁRRAFOS, P.O. 10 DE MARZO DE 2017)</small>
+> <small>(DEROGADO CUARTO, QUINTO Y SEXTO PÁRRAFOS, B.O. 10 DE MARZO DE 2017)</small>
 
 ###### Artículo 9.
 
@@ -221,7 +221,9 @@ XII. Exigir al Presidente del Tribunal el fiel cumplimiento de sus obligaciones;
 
 XIII. Imponer correcciones disciplinarias, conforme a las leyes respectivas, a los abogados, agentes de negocios, procuradores o litigantes cuando, en las promociones que hagan ante el Pleno, falten al respeto al Tribunal Superior de Justicia, alguno de sus miembros o a cualquier otro servidor público del Poder Judicial;
 
-XIV. Resolver las denuncias o quejas que se presenten en contra del Presidente del Tribunal, Magistrados y Consejeros, previa la sustanciación correspondiente de acuerdo al procedimiento que señale la Constitución Política del Estado y la presente Ley Orgánica;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XIV. Investigar de oficio o con motivo de denuncias o quejas que se presenten en contra de los miembros del Consejo de la Judicatura del Estado, de acuerdo al procedimiento que señale la Constitución Política del Estado, la presente Ley Orgánica y la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur;
 
 XV. Dictar las medidas pertinentes, a efecto de que en las Salas del Tribunal, el trabajo se distribuya proporcional y equitativamente;
 
@@ -231,7 +233,13 @@ XVII. Determinar los casos de retiro de los Magistrados del Tribunal Superior de
 
 XVIII. Resolver sobre las licencias de Magistrados, con o sin goce de sueldo, siempre que no sea mayor a treinta días;
 
-XIX. Conocer y resolver cualquier asunto de competencia del Poder Judicial, cuyo conocimiento no corresponda al Consejo de la Judicatura o a su Presidente, por disposición expresa de la Ley;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XIX. Sustanciar y resolver el procedimiento de responsabilidad administrativa de los Magistrados del Tribunal Superior de Justicia, en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur;
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+En el caso del párrafo anterior el Magistrado imputado deberá excusarse de conocer, tramitar o participar en las sesiones sobre la sustanciación o resolución del procedimiento.
 
 XX. Emitir los acuerdos que estime pertinentes para llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos adscritos al Tribunal Superior de Justicia, así como para celebrar convenios con la Comisión Nacional Bancaria y de Valores o cualquier otra institución a efecto de obtener información relativa al patrimonio de los Magistrados y Consejeros;
 
@@ -1491,9 +1499,9 @@ III. Ordenar y practicar por sí o con auxilio de los órganos de control intern
 
 IV. Informar el resultado de las visitas ordinarias, extraordinarias o especiales, dando cuenta al Pleno del Tribunal o del Consejo, según corresponda con el acta levantada con motivo de la misma, dentro del término de cinco días hábiles siguientes a la visita;
 
-V. Conocer y tramitar en términos de la presente Ley, todos los procedimientos administrativos de responsabilidad en contra de los servidores públicos del Poder Judicial, con excepción de los Magistrados.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Para este efecto llevará a cabo la substanciación de procedimientos de quejas, denuncias y apertura de procedimiento administrativo de oficio o a instancia de parte, desde la radicación hasta ponerlos en estado de resolución, turnando el respectivo proyecto de resolución al Pleno del Consejo;
+V. Sustanciar el procedimiento de responsabilidad administrativa de servidores públicos, desde la admisión del Informe de presunta responsabilidad administrativa, en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, relativas a las faltas a la función pública encomendada a los servidores públicos del Poder Judicial del Estado de Baja California Sur, con excepción de los procedimientos que se instruyan en contra de Magistrados, Consejeros, Visitador General, Visitadores Auxiliares, Contralor General y Auditores Adjuntos, turnando el respectivo proyecto de resolución al Pleno del Consejo;
 
 VI. Ordenar a los órganos de control interno la instrumentación del Programa Usuario Simulado, con la finalidad de investigar o detectar conductas de servidores públicos del Poder Judicial que tergiversando sus atribuciones utilicen el cargo para obtener algún beneficio económico o personal, así como dirigir y supervisar su operación, informando al Pleno del Consejo las técnicas y estrategias a utilizar y los resultados obtenidos; este Programa se podrá autorizar tanto para la investigación de un caso real y concreto, como para detectar posibles actos de corrupción.
 
@@ -1575,7 +1583,13 @@ II. Asignar la adscripción y competencia en que deban ejercer sus funciones los
 
 III. Cambiar de adscripción y competencia a los jueces y demás servidores públicos, siempre que las necesidades del servicio lo requieran;
 
-IV. Resolver respecto de los procedimientos en contra del personal adscrito a los órganos jurisdiccionales y a las dependencias del Poder Judicial, sustanciados por la Visitaduría Judicial y la Contraloría, respectivamente; imponiendo las sanciones o correcciones disciplinarias que procedan, conforme a las leyes aplicables;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IV. Resolver respecto de los procedimientos en contra del personal adscrito a los órganos jurisdiccionales y a las dependencias administrativas del Poder Judicial, en términos del artículo 242 de esta Ley, imponiendo las sanciones o correcciones disciplinarias que procedan, conforme a las leyes aplicables.
+
+En el caso de los miembros del Consejo de la Judicatura, tendrá atribuciones para sustanciar y resolver el procedimiento de responsabilidad administrativa de los Consejeros, en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur. En estos casos el Consejero imputado deberá excusarse de conocer, tramitar o participar en las sesiones sobre la sustanciación o resolución del procedimiento
+
+Asimismo, resolver los procedimientos de queja administrativa en contra de los auxiliares de la administración de justicia en términos de esta Ley y del Reglamento de Auxiliares de la Administración de Justicia.
 
 V. Ordenar, por conducto del Presidente del Pleno del Consejo, que se haga la denuncia que corresponda ante el ministerio público en los casos de la posible comisión de delitos oficiales imputables a los servidores públicos subordinados al Consejo y que deban ser sancionados por las autoridades competentes;
 
@@ -1633,7 +1647,9 @@ XXIX. Crear las áreas, direcciones, unidades u órganos técnicos necesarios pa
 
 XXX. Supervisar directamente o a través de las Comisiones o de los órganos de control interno, el funcionamiento de las direcciones, unidades y de los órganos técnicos, desconcentrados y descentralizados del Poder Judicial;
 
-XXXI. Investigar de oficio o a petición de parte, la conducta de los empleados y funcionarios públicos del Poder Judicial, en relación a hechos que puedan constituir irregularidades que transgredan cualquier disposición legal;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XXXI. Investigar de oficio o con motivo de denuncias o quejas que se presenten en contra de los servidores públicos del Poder Judicial del Estado, excepto de los Consejeros, de acuerdo al procedimiento que señale la Constitución Política del Estado, la presente Ley Orgánica y la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur;
 
 XXXII. Conducir la Carrera Judicial en el Poder Judicial en el ámbito de su competencia;
 
@@ -1789,7 +1805,17 @@ V. Los peritos, médicos legistas, traductores o intérpretes oficiales y demás
 
 VI. Los síndicos, interventores, albaceas, tutores, curadores, depositarios y los Notarios, en las funciones que les sean encomendadas de acuerdo con la Ley; y
 
-VII. Todos los demás a quienes las Leyes les confieran ese carácter.
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VII.- El Director General de Ejecución Prevención y Reinserción Social;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Los servidores públicos de quienes los órganos jurisdiccionales o el Consejo de la Judicatura requieran su cooperación o auxilio para cumplir con sus atribuciones legales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IX.- Todos los demás a quienes las Leyes les confieran ese carácter.
 
 ###### Artículo 125.
 
@@ -2023,7 +2049,9 @@ I. Incumplir las actividades que le son encomendadas dentro del plazo concedido;
 
 II. Provocar el retraso innecesario de procedimientos en los que se solicite su participación;
 
-III. Incumplir con el servicio social a que se refiere esta Ley y su Reglamento;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. Incumplir sus obligaciones o prohibiciones establecidas en esta Ley y en el Reglamento de Auxiliares de la Administración de Justicia;
 
 IV. Ostentarse como miembro del Poder Judicial; y
 
@@ -2035,9 +2063,13 @@ Los Peritos son responsables por los delitos y faltas oficiales en que incurran 
 
 La falta indicada (sic) la fracción III y IV del artículo que antecede será considerada grave, y trae consigo la cancelación inmediata del nombramiento como perito auxiliar de la administración de justicia del Estado, bastando para ello que se acredite la actualización del supuesto de referencia.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 140.
 
-El Pleno del Consejo tramitará hasta su total resolución, las quejas administrativas en contra de peritos y auxiliares conforme al procedimiento previsto por el Reglamento de la presente Ley.
+La Visitaduría Judicial tramitará hasta el proyecto de resolución, las quejas administrativas en contra de peritos, así como de los auxiliares que no sean servidores públicos sujetos a sus facultades de control interno, conforme al procedimiento previsto por el Reglamento de Auxiliares de la Administración de Justicia.
+
+Las quejas administrativas presentadas contra auxiliares que sean servidores públicos y tengan un empleo, cargo o comisión fuera del Poder Judicial serán remitidas al Órgano Interno de Control, Contraloría ú Órgano con función similar que sea competente.
 
 ###### Artículo 141.
 
@@ -2048,6 +2080,10 @@ I. Por haber emitido con dolo, dictámenes o traducciones que contengan certific
 II. Por haber obtenido la autorización como perito auxiliar en la Administración de Justicia, proporcionando a la Secretaría Ejecutiva datos o documentos falsos; y
 
 III. Por omitir prestar sus servicios sin causa justificada, una vez que haya aceptado y protestado el cargo.
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IV. Cuando se resuelvan fundadas las objeciones o quejas administrativas, ante el órgano jurisdiccional o el Consejo de la Judicatura respectivamente, por dolo, negligencia, soborno o simulación contra la actuación del auxiliar.
 
 ### CAPÍTULO TERCERO. DE LOS NOTARIOS
 
@@ -2233,7 +2269,9 @@ VI. Hacer entrega en cualquier momento al órgano de control interno, la informa
 
 VII. Tener a su cargo la organización y el cumplimiento de las actividades del área de fotocopiado; y
 
-VIII. Las demás que señale el Reglamento, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo, su presidente, o el Oficial Mayor.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VIII. Las demás que señalen las leyes, reglamentos, acuerdos generales o cualquier cuerpo normativo que con motivo del servicio público desempeñado le sea aplicable, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo, su Presidente o el Oficial Mayor.
 
 #### SECCIÓN V. DEL COMITÉ DE ADQUISICIONES
 
@@ -2609,7 +2647,9 @@ El Visitador General tendrá las siguientes atribuciones:
 
 I. Practicar visitas ordinarias y extraordinarias a los diversos órganos del Poder Judicial para verificar el cumplimiento de las disposiciones legales y las emitidas por el pleno del Consejo o por su presidente;
 
-II. Iniciar, diligenciar y sustanciar hasta el estado de resolución el procedimiento de responsabilidad, en los términos previstos en esta Ley y su Reglamento, con las más amplias facultades de investigación de los hechos, siempre que no sean contrarias a derecho, relativas a las faltas a la función pública encomendada a los servidores públicos adscritos a los órganos jurisdiccionales del Poder Judicial, con excepción del Visitador General y los Visitadores Auxiliares;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. Fungir como autoridad investigadora en los términos establecidos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, relativas a las faltas a la función pública encomendada a los servidores públicos adscritos a los órganos jurisdiccionales del Poder Judicial, con excepción de los Magistrados, Visitador General y Visitadores Auxiliares;
 
 III. Examinar los expedientes formados por motivo de las causas radicadas en los juzgados, así como los expedientes formados con motivo de los tocas de las Salas, que se estime conveniente a fin de verificar que se lleven con arreglo a la ley, si las resoluciones o acuerdos han sido dictados y cumplidos oportunamente, si las notificaciones y diligencias se efectuaron en los plazos legales, si se han respetado los términos constitucionales y derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales suscritos por el Estado Mexicano, y la Constitución Política del Estado Libre y Soberano de Baja California Sur;
 
@@ -2631,7 +2671,9 @@ XI. Instrumentar en la esfera de su competencia y bajo los lineamientos, la dire
 
 XII. Delegar sus atribuciones a los visitadores auxiliares, para el cumplimiento de las funciones de la Visitaduría; y
 
-XIII. Las demás que señale el Reglamento, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo o su Presidente.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XIII. Las demás que señalen las Leyes y Reglamentos, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo o su Presidente.
 
 Contra las actuaciones, acuerdos o resoluciones emitidas por la Visitaduría Judicial no procederá recurso ordinario alguno.
 
@@ -2671,7 +2713,9 @@ I. Vigilar el cumplimiento de las normas de control interno establecidas en esta
 
 II. Practicar visitas ordinarias y extraordinarias a las dependencias del Poder Judicial para verificar el cumplimiento de las disposiciones establecidas en los ordenamientos jurídicos y las emitidas por el Pleno del Consejo o por su Presidente;
 
-III. Iniciar, diligenciar y sustanciar hasta el estado de resolución el procedimiento de responsabilidad, en los términos previstos en esta Ley y su Reglamento, con las más amplias facultades de investigación de los hechos, siempre que no sean contrarias a derecho, relativas a las faltas a la función pública encomendada a los servidores públicos adscritos a las dependencias del Tribunal y darles el trámite correspondiente, con excepción de los procedimientos que se instruyan en contra del Contralor General y los Auditores Adjuntos;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. Fungir como autoridad investigadora en los términos establecidos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, relativas a las faltas a la función pública encomendada a los servidores públicos adscritos a las dependencias administrativas del Poder Judicial, con excepción de los Consejeros, Contralor General, Auditores Adjuntos, Visitador General y Visitadores Auxiliares;
 
 IV. Diseñar las políticas, planes de trabajo, sistemas y acciones, para el logro de su objetivo institucional de fiscalización y evaluación;
 
@@ -2695,7 +2739,9 @@ XIII. Poner a consideración del Presidente del Consejo de la Judicatura para su
 
 XIV. Supervisar el ejercicio del gasto público y su aplicación de acuerdo con el presupuesto de egresos autorizado y con apego a la normatividad aplicable;
 
-XV. Vigilar el cumplimiento de las normas de control establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California Sur, y en su caso la Ley Federal de Responsabilidad de los Servidores Públicos;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XV. Vigilar el cumplimiento de las normas de control establecidas por la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, y en su caso la Ley General de Responsabilidades Administrativas;
 
 XVI. Participar en las reuniones que celebra la Comisión de Escalafón del Poder Judicial, para vigilar que se cumpla la normatividad que en materia de recursos humanos sea aplicable;
 
@@ -3095,11 +3141,15 @@ El Reglamento de la presente Ley fijará las atribuciones de los servidores púb
 
 ### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 229.
 
-Son órganos de control interno del Consejo de la Judicatura, la Visitaduría Judicial y la Contraloría, de conformidad con las facultades establecidas en esta Ley y su Reglamento.
+Son órganos del Poder Judicial del Estado, facultados para aplicar la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, el Pleno del Tribunal Superior de Justicia, el Pleno del Consejo de la Judicatura y su Presidente, la Comisión de Vigilancia y Disciplina, la Visitaduría Judicial y la Contraloría General, de conformidad con las facultades establecidas en esta Ley y su Reglamento.
 
-En los casos que se presente queja o denuncia en contra del visitador general o visitadores auxiliares, así como del Contralor o Auditores adjuntos, conocerá de la sustanciación del procedimiento el Secretario Ejecutivo del Consejo, en términos de lo previsto en la presente Ley y su Reglamento.
+En los casos que se presente queja, denuncia o se inicie una investigación oficiosa en contra del Visitador General, Visitadores Auxiliares, Contralor General y Auditores Adjuntos, conocerá de la sustanciación del procedimiento de responsabilidad el Secretario Ejecutivo del Consejo, desde la admisión del informe de presunta responsabilidad administrativa hasta el estado de resolución, en los términos previstos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
+
+Para los efectos del párrafo anterior, el Secretario Técnico de la Comisión de Vigilancia y Disciplina del Consejo de la Judicatura ejercerá la función de autoridad investigadora y rendirá al Secretario Ejecutivo del Consejo el informe referido.
 
 ###### Artículo 230.
 
@@ -3109,17 +3159,39 @@ Los Magistrados del Tribunal Superior de Justicia y los Consejeros de la Judicat
 
 Los Magistrados del Tribunal Superior de Justicia y los Jueces del fuero común, serán responsables al establecer o fijar la interpretación de los preceptos constitucionales y legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 232.
 
-Para los efectos del procedimiento de queja a que se refiere este Título, derivada del procedimiento llevado a cabo por la Visitaduría y la Contraloría, tendrán el carácter de parte el servidor público a quien se atribuye la falta administrativa, y la persona que lo denuncia o formula la queja.
+Para los efectos del procedimiento de responsabilidad administrativa a que se refiere este Título, tendrán el carácter de partes:
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+I. El órgano que desempeñe la función de autoridad investigadora;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. El servidor público señalado como presunto responsable de la falta administrativa;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. El particular, sea persona física o moral, señalado como presunto responsable en la comisión de faltas de particulares y;
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IV. Los terceros, que son todos aquellos a quienes pueda afectar la resolución que se dicte en el procedimiento de responsabilidad administrativa, incluido el denunciante.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 233.
 
-Los Magistrados, Consejeros de la Judicatura, Jueces, Coordinadores Administrativos y Jefes de Unidad los Juzgados del Sistema Penal Acusatorio, Secretario General de Acuerdos del Pleno y la Presidencia, Secretario Ejecutivo del Consejo de la Judicatura, Secretario Particular, Secretarios Auxiliares, Secretarios de Acuerdos y Secretarios de Estudios y Proyectos de Primera y Segunda Instancia, Actuarios y Notificadores; así como los Titulares y Jefes de Departamento de las dependencias del Poder Judicial, y demás servidores públicos que determine la Ley, estarán obligados a presentar declaraciones de situación patrimonial, de intereses y fiscal, ante la instancia competente en términos de las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos, debiendo entregar copia a la Contraloría del Poder Judicial.
+Los Magistrados, Consejeros de la Judicatura, Jueces, Coordinadores Administrativos y Jefes de Unidad de los Juzgados del Sistema Penal Acusatorio, Secretario General de Acuerdos del Pleno y la Presidencia, Secretario Ejecutivo del Consejo de la Judicatura, Secretario Particular, Secretarios Auxiliares, Secretarios de Acuerdos y Secretarios de Estudios y Proyectos de Primera y Segunda Instancia, Actuarios y Notificadores; así como los Titulares y Jefes de Departamento de las dependencias administrativas del Poder Judicial, y demás servidores públicos que determine la Ley, estarán obligados a presentar declaraciones de situación patrimonial, de intereses y fiscal, ante la instancia competente en términos de las Leyes Generales y las que en el ámbito estatal normen el Sistema Estatal Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos, debiendo entregar copia a la Contraloría del Poder Judicial.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 234.
 
-Todo servidor público del Poder Judicial, será sujeto de responsabilidad de conformidad a lo establecido por la Constitución Política del Estado y esta Ley, teniendo la obligación de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión y cuyo incumplimiento, dará lugar al procedimiento y a las sanciones que correspondan.
+Todo servidor público del Poder Judicial, será sujeto de responsabilidad de conformidad a lo establecido por la Constitución Política del Estado y la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, teniendo la obligación de salvaguardar los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público y cuyo incumplimiento, dará lugar al procedimiento y a las sanciones que correspondan.
 
 ###### Artículo 235.
 
@@ -3149,7 +3221,9 @@ XI. Dejar de preservar la ética, dignidad, imparcialidad y profesionalismo prop
 
 XII. Ausentarse durante su jornada de trabajo, de la residencia del órgano al que esté adscrito, o dejar de desempeñar las funciones o las labores que tenga a su cargo, sin la autorización correspondiente;
 
-XIII. El incumplimiento de las obligaciones previstas en el artículo 46 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, así como de las previstas (sic) las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XIII. El incumplimiento de las obligaciones o abstenciones específicas o generales preceptuadas en leyes, ordenamientos procesales, reglamentos, acuerdos generales o cualquier cuerpo normativo obligatorio para el empleo, cargo o comisión desempeñado, así como las previstas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur;
 
 XIV. Concurrir a sus labores en estado de ebriedad o bajo el influjo de cualquier droga;
 
@@ -3279,11 +3353,11 @@ VIII. Dar fe de hechos falsos; y
 
 IX. Además de las señaladas en el artículo 235 que antecede, serán faltas de los actuarios las previstas por las fracciones II, VIII, XI y XII del artículo 236 de esta Ley.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 240.
 
-El procedimiento para determinar las responsabilidades de los servidores públicos del Poder Judicial, se iniciará de oficio cuando de una visita resulte alguna irregularidad que pueda constituir una conducta materia del procedimiento de responsabilidad o cuando algún servidor público adscrito al Tribunal Superior de Justicia o al Consejo de la Judicatura tenga conocimiento del hecho; por queja cuando se formule a cargo de quien considere ser agraviado por la conducta presumiblemente infractora; o por denuncia presentada a cargo de cualquier persona ajena al asunto en que se cometió la conducta atribuida al servidor público.
-
-Las quejas que se formulen deberán estar apoyadas en elementos probatorios para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+La investigación por la presunta responsabilidad de faltas administrativas iniciará de oficio, por denuncia, queja o derivado de las visitas o auditorías practicadas por parte de los Órganos Internos de Control del Consejo de la Judicatura o, en su caso, de auditores externos, cuando así lo determine el Pleno del Consejo.
 
 ###### Artículo 241.
 
@@ -3291,123 +3365,181 @@ Cuando se presente una queja o denuncia ante el juez o el titular de la dependen
 
 La omisión a lo anterior, dará lugar a responsabilidad administrativa.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 242.
 
-Será competente para sustanciar el procedimiento de queja una vez iniciado, el titular del órgano de control que corresponda de acuerdo a la naturaleza de la falta. La autoridad competente para resolver acerca de las responsabilidades de los servidores públicos del Poder Judicial, así como para imponer las sanciones a que se refiere el artículo 247 de la presente Ley será:
+Las autoridades competentes para resolver acerca de las responsabilidades de los servidores públicos del Poder Judicial por faltas administrativas, así como para imponer las sanciones a que se refiere la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, serán:
 
-I. El Pleno del Consejo tratándose de faltas cometidas por Jueces, Coordinadores Administrativos, Secretario General y funcionarios de Presidencia, Secretarios de Acuerdos, Secretarios de Estudios y Proyectos y Actuarios; así como por Consejeros y los titulares de las dependencias del Consejo de la Judicatura;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-II. El Pleno del Tribunal, tratándose de Magistrados o Consejeros; y
+I. El Pleno del Consejo, tratándose de faltas cometidas por Consejeros, Jueces, Coordinadores Administrativos, Jefes de Unidad de los Juzgados del Sistema Penal Acusatorio, Secretario General de Acuerdos del Pleno y la Presidencia y funcionarios de la Presidencia del Tribunal Superior de Justicia o del Consejo de la Judicatura, Secretario Ejecutivo del Consejo de la Judicatura, Secretarios de Acuerdos, Secretarios de Estudios y Proyectos, Actuarios y Notificadores, así como los Titulares y Jefes de Departamento de las dependencias del Consejo de la Judicatura;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. El Pleno del Tribunal, tratándose de Magistrados; y
 
 III. El Presidente del Consejo de la Judicatura, en todos los demás casos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 243.
 
-El plazo para la presentación de denuncia o queja, se sujetará a las siguientes reglas:
+La presentación de denuncia o queja, se sujetará a las siguientes reglas:
 
-I. Deberá presentarse dentro del término de treinta días hábiles, contados a partir del siguiente al en que el quejoso o denunciante haya tenido conocimiento de la conducta presumiblemente infractora; y
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-II. Independientemente de esa circunstancia, el plazo para iniciar el procedimiento de oficio, prescribirá en tres años, contados a partir de la fecha en que se haya cometido la conducta presumiblemente infractora.
+I.- Las autoridades investigadoras establecerán áreas de fácil acceso, para que cualquier interesado pueda presentar denuncias o quejas por presuntas faltas administrativas, en cualquier momento, hasta antes de la prescripción, de conformidad con los criterios establecidos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II.- Las denuncias podrán ser anónimas. En su caso, las autoridades investigadoras mantendrán con carácter de confidencial la identidad de las personas que denuncien las presuntas infracciones.
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III.- La denuncia deberá contener los datos o indicios que permitan advertir la presunta responsabilidad administrativa por la comisión de faltas administrativas, y podrán ser presentadas de manera electrónica a través de los mecanismos que para tal efecto establezcan las autoridades investigadoras, lo anterior sin menoscabo de la plataforma digital que determine, para tal efecto, el Sistema Estatal Anticorrupción.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 244.
 
-Para la determinación de las responsabilidades a que se refiere este Título deberá llevarse el siguiente procedimiento:
+En los procedimientos de responsabilidad administrativa ante los órganos del Poder Judicial del Estado deberán observarse los principios y procedimientos establecidos en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
 
-I. El procedimiento podrá iniciar a instancia de parte o de oficio cuando en ejercicio de las facultades de vigilancia se detecten irregularidades durante las visitas ordinarias, extraordinarias o especiales practicadas en los términos de la presente Ley a los órganos o dependencias del Poder Judicial, en cuyo caso el acta levantada al efecto, hará las veces de escrito inicial.
+I. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-El procedimiento iniciado de oficio seguirá en lo conducente el trámite previsto para la denuncia o queja.
+II. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-II. Cuando la denuncia o queja se presente por escrito, deberá contener: nombre y apellidos del promovente, nombre, cargo y área de adscripción del servidor público al que se atribuyen los hechos, relación sucinta del hecho materia de la queja, la cual deberá expresar bajo protesta de decir verdad; ofrecimiento de las pruebas que pretenda desahogar para sustentar su queja y, firma del quejoso o denunciante.
+III. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-La omisión de requisitos formales en el escrito inicial dará lugar a la prevención al promovente para que subsane el requisito omitido dentro de un plazo de 3 días hábiles.
+IV. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-III. Cuando la denuncia o queja sea recabada por comparecencia, dicha diligencia deberá contener los mismos requisitos establecidos en la fracción anterior, pudiendo ofrecer las pruebas que considere pertinentes para sustanciar su queja en un plazo de tres días hábiles, contados a partir del día siguiente al en que llevó a cabo su comparecencia;
+V. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-IV. El órgano de control, radicará la denuncia o queja iniciada, dentro de los tres días hábiles siguientes a su presentación, y ordenará su ratificación dentro de los ocho días hábiles posteriores con excepción de aquellas denuncias o quejas que se hayan realizado por comparecencia, en cuyo caso se dará el trámite que corresponda.
+VI. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-Si la denuncia o queja inicial presentada por escrito no fuere ratificada o el promovente no haya subsanado la omisión en el cumplimiento de los requisitos formales dentro del plazo concedido al efecto, el titular del órgano de control que corresponda, de acuerdo a la naturaleza de la falta, dará cuenta al Presidente del Consejo de la Judicatura, para el efecto de que se determine el desechamiento de la queja o denuncia, o bien la prosecución del procedimiento respecto de aquellas faltas que por su gravedad así lo ameriten. Lo mismo será aplicable si existiere desistimiento escrito debidamente ratificado, o por comparecencia, del denunciante o quejoso;
+VII. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-V. Si la denuncia o queja inicial presentada por escrito fuera ratificada, subsanada, o se hubiera ordenado su prosecución oficiosa, se ordenará notificar al servidor público denunciado y correrle traslado con copia simple del escrito inicial y anexos que se hubieren presentado, para el efecto de que sea emplazado y rinda su informe en el plazo de cinco días hábiles, ofreciendo las pruebas que estime pertinentes, debiendo hacer del conocimiento del Presidente del Consejo de la Judicatura el inicio de dicho procedimiento.
+VIII. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-El informe deberá referirse a todos y cada uno de los hechos comprendidos en la denuncia o queja, afirmándolos o negándolos, y expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia o queja sobre los cuales el denunciado no suscitare explícitamente controversia, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del denunciante.
+IX. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-Si el denunciado no rindiera dicho informe no se interrumpirá la consecución del procedimiento;
+X. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-VI. Recibido el informe, o vencido el plazo para su presentación, se llevará a cabo el desahogo de las pruebas ofrecidas por las partes dentro de los siguientes treinta días hábiles.
-
-Si una de las partes no acudiera a una diligencia de desahogo de pruebas, se procederá por única ocasión a fijar nuevo día y hora para llevarla a cabo; si por segunda ocasión inasistiera, el desahogo de las pruebas se llevará a cabo sin su presencia.
-
-En el último acto de desahogo de pruebas, las partes podrán formular sus alegatos en forma verbal;
-
-VII. Integrado el expediente de queja, tratándose de asuntos que deba resolver el Pleno del Consejo, el órgano de control lo remitirá dentro de los siguientes tres días hábiles a la Comisión de Vigilancia y Disciplina, para el efecto de que se realice la asignación del asunto, por turno, en los próximos tres días hábiles al Consejero que corresponda para la elaboración del proyecto de resolución, el cual deberá ser circulado oportunamente a los integrantes del Pleno del Consejo dentro de un término no mayor a quince días hábiles;
-
-VIII. Agotado ese término, el Pleno del Consejo discutirá y resolverá si la queja es fundada o infundada, en sesión que deberá celebrarse dentro de los diez días hábiles siguientes;
-
-IX. Emitida la resolución definitiva, la Secretaría Ejecutiva, por sí o por medio del actuario que para el efecto sea designado, la notificará a las partes dentro de los tres días hábiles siguientes; y
-
-X. Si la queja fuera declarada procedente, la sanción impuesta deberá ejecutarse dentro de los siguientes quince días a la notificación a que se refiere la fracción que antecede, para lo cual la Secretaría Ejecutiva tomará las medidas que sean necesarias.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 245.
 
-En caso de haberse impuesto sanción económica, se requerirá de pago al responsable para el efecto de que la exhiba en el plazo de tres días hábiles siguientes y, en caso de omitir el cumplimiento del pago, su cobro se realizará mediante descuento salarial vía nómina, convenio de pago en parciales que no podrá exceder de 3 meses o a través del procedimiento económico coactivo.
+Los Servidores Públicos que resulten responsables por la comisión de faltas administrativas no graves se le condenará al pago del monto de la reparación del daño cuando hayan causado de manera culposa o negligente, daños y/o perjuicios al patrimonio del Poder Judicial del Estado.
+
+Para el efecto del párrafo anterior, el servidor público contará con el plazo de tres días hábiles siguientes a que surta efectos la notificación, para exhibir el monto de dicha reparación y, en caso de incumplimiento, su cobro se realizará mediante descuento salarial vía nómina, convenio de pago en parcialidades que no podrá exceder de 3 meses o a través del procedimiento económico coactivo; lo anterior con independencia de la aplicación de otras sanciones que procedan.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 246.
 
-En todo lo no previsto en la presente Ley Orgánica para la sustanciación del procedimiento de queja, se aplicará supletoriamente lo previsto en el Código de Procedimientos Civiles de la entidad, en lo conducente.
+En el procedimiento de investigación de presuntas faltas administrativas, así como en lo que no se oponga a lo dispuesto en el procedimiento de responsabilidad en contra de los servidores públicos del Poder Judicial, será de aplicación supletoria lo dispuesto en la Ley de Procedimiento Contencioso Administrativo en vigor en la Entidad, según corresponda.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 247.
 
-Las sanciones aplicables a las faltas contempladas en el presente Título, y el incumplimiento de las obligaciones de los servidores públicos previstas en el artículo 46 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, así como las previstas en las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos; y les resulten aplicables consistirán en:
+Las sanciones aplicables a las faltas contempladas en el presente Título, serán las previstas en la propia Ley, así como las establecidas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
 
-I. Apercibimiento, el cual consistirá en la prevención verbal que se haga al servidor público infractor, haciéndole saber que de incurrir en una nueva falta, se le aplicarán una o más de las sanciones previstas en la presente Ley Orgánica, según sea el caso;
+I. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-II. Amonestación, la cual consistirá en hacer saber por escrito al servidor público infractor las consecuencias de la conducta cometida, a efecto de prevenir su reincidencia;
+II. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-III. Sanción económica de treinta a noventa veces el valor diario de la unidad de medida y actualización vigente en la época de la conducta atribuida, que consistirá en el pago que debe hacer el infractor en cantidad cierta y determinada;
+III. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-IV. Suspensión, que consistirá en la separación temporal del cargo que ocupa el infractor, que podrá ser de uno a tres meses del cargo, empleo o comisión, privando al servidor público del derecho de percibir remuneración o cualquiera otra de las prestaciones económicas a que tenga derecho;
+IV. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-V. Destitución del puesto, que consistirá en la pérdida definitiva del cargo, empleo o comisión dentro del Poder Judicial;
+V. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones dentro del Poder Judicial, que consistirá en el impedimento temporal de seis meses a tres años para ocupar cargo, empleo o comisión públicos, cuando la falta cometida implique lucro o se haya causado daño o perjuicio al quejoso o denunciante, si el monto de aquellos no excede de quinientas veces el valor diario de la unidad de medida y actualización vigente; y, la inhabilitación será de tres a seis años cuando exceda de dicha cantidad, éste último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos; y
+VI. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-VII. Inhabilitación definitiva para desempeñar empleos, cargos o comisiones dentro del Poder Judicial.
+VII. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 248.
 
-Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
+Las sanciones administrativas que impongan las autoridades facultadas del Poder Judicial del Estado de Baja California Sur, deberán considerar los elementos del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, así como los siguientes:
 
-I. La magnitud del daño causado o el peligro en que se haya colocado la administración de justicia con la infracción cometida;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-II. El nivel jerárquico, los antecedentes y las condiciones del infractor;
+I. El nivel jerárquico y los antecedentes del infractor, entre ellos, la antigüedad en el servicio;
 
-III. Las circunstancias de tiempo, lugar y modo de la conducta infractora;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-IV. Los medios de ejecución empleados;
+II. Las condiciones exteriores y los medios de ejecución, y
 
-V. La reincidencia en el incumplimiento de obligaciones;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-VI. El monto del beneficio obtenido por el infractor o el monto del daño o perjuicio económicos causados a un tercero, derivado del incumplimiento de obligaciones; y
+III. La reincidencia en el incumplimiento de obligaciones.
 
-VII. Las demás circunstancias que sean relevantes para determinar la gravedad de la infracción cometida.
+IV. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
+
+V. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
+
+VI. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
+
+VII. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+En caso de reincidencia la sanción que imponga el órgano resolutor del Poder Judicial no podrá ser igual o menor a la impuesta con anterioridad.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada y hubiere causado ejecutoria, cometa otra del mismo tipo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 249.
 
-Con independencia de si el motivo de la queja da o no lugar a responsabilidad, durante el procedimiento el Presidente del Consejo de la Judicatura dictará las medidas provisionales necesarias para hacer cesar los efectos de la conducta denunciada en los casos que ello sea posible.
+Con independencia de si el motivo de la queja, denuncia o solicitud oficiosa de la autoridad investigadora de algún Órgano del Poder Judicial del Estado da o no lugar a iniciar el procedimiento de responsabilidad administrativa, durante el procedimiento de investigación o del procedimiento de responsabilidad administrativa, el Presidente del Consejo de la Judicatura dictará las medidas provisionales necesarias para hacer cesar los efectos de la conducta presuntamente irregular en los casos en que ello sea posible.
 
-En cualquier momento, previo o posteriormente a la recepción del informe o celebración de la audiencia, el Pleno del Consejo o su Presidente según corresponda, podrán determinar la suspensión temporal de los cargos, empleos o comisiones de los probables responsables, con la correspondiente retención del cincuenta por ciento de las percepciones del servidor público involucrado, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo. La suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que se hallare suspendido.
+Asimismo, al inicio o durante la sustanciación del procedimiento de responsabilidad, por falta administrativa no grave, el Presidente del Consejo de la Judicatura podrá dictar como medida cautelar la suspensión temporal del empleo, cargo o comisión que desempeñe el servidor público señalado como presuntamente responsable, en los términos dispuestos por la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Otras medidas cautelares podrán ser decretadas al inicio o durante la sustanciación del procedimiento de responsabilidad administrativa por las autoridades resolutoras facultadas en esta Ley, dependiendo del servidor público de que se trate.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Para efectos de los párrafos segundo y tercero de este artículo, el otorgamiento de medidas cautelares se tramitará conforme a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 250.
 
-Si el Pleno del Consejo o su Presidente, estimaren que la queja fue interpuesta con dolo, sustentando la misma en hechos, testimonios o documentos cuya falsedad se haya demostrado durante el procedimiento, se impondrá al denunciante, al quejoso o a su representante, o abogado, o a ambos, una multa de sesenta a ciento veinte veces el valor diario de la unidad de medida y actualización, tomando como base el valor vigente al momento de interponerse la queja.
+Si el Pleno del Consejo o su Presidente, determinan que la queja o denuncia fue interpuesta con dolo, sustentando la misma en hechos, testimonios o documentos cuya falsedad se haya demostrado durante el procedimiento, se impondrá al denunciante, al quejoso o a su representante, o abogado, o a ambos, una multa de sesenta a ciento veinte veces el valor diario de la unidad de medida y actualización, tomando como base el valor vigente al momento de interponerse la queja.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+En los casos en que, derivado de las investigaciones, acontezca la presunta comisión de delitos, se presentarán las denuncias correspondientes ante el Ministerio Público competente.
+
+> <small>(REFORMADO B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 251.
 
-En caso de que la sanción impuesta por el Pleno del Consejo, sea la destitución del puesto, el Pleno del Tribunal, a petición de parte interesada, podrá revisar dicha decisión para el efecto de verificar que se ajustó a las reglas previstas en la presente ley y demás disposiciones aplicables.
+Los Servidores Públicos que resulten responsables por la comisión de faltas administrativas, en los términos de las resoluciones administrativas que se dicten, podrán interponer el recurso de revocación ante la autoridad que emitió la resolución dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva. El recurso será resuelto por el Órgano del Poder Judicial que haya emitido la resolución recurrida conforme a la tramitación establecida en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
 
-En los demás casos no procederá recurso alguno en contra de la resolución que emita el Pleno del Consejo en el procedimiento a que se refiere este Capítulo.
+En contra de las resoluciones que se dicten en el recurso de revocación no procederá recurso o juicio ordinario alguno.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 251 Bis.
+
+El recurso de reclamación procederá en contra de las resoluciones de los órganos sustanciadores o de las autoridades resolutoras del Poder Judicial del Estado que admitan, desechen o tengan por no presentado el informe de presunta responsabilidad administrativa, la contestación o alguna prueba; las que decreten o nieguen el sobreseimiento del procedimiento de responsabilidad administrativa antes del cierre de instrucción y aquéllas que admitan o rechacen la intervención del tercero interesado.
+
+La reclamación se interpondrá ante el órgano substanciador del procedimiento de responsabilidad administrativa o de la autoridad resolutora, según corresponda, que haya dictado el auto o resolución recurrida, dentro de los cinco días hábiles siguientes a aquél en que surta efectos la notificación de que se trate.
+
+Interpuesto el recurso, se ordenará correr traslado a la contraparte por el término de tres días hábiles para que exprese lo que a su derecho convenga y lo resolverá la autoridad substanciadora o resolutora que haya emitido el auto recurrido en el término de cinco días hábiles.
+
+La resolución de la reclamación no admitirá recurso legal alguno.
 
 ## TÍTULO DÉCIMO. DE LAS EXCITATIVAS DE JUSTICIA
 
@@ -3841,7 +3973,7 @@ SÉPTIMO.- El Consejo de la Judicatura deberá quedar instalado en los términos
 
 OCTAVO.- La Secretaría de Finanzas del Gobierno del Estado de Baja California Sur y el Congreso del Estado de Baja California Sur, deberán considerar en los presupuestos correspondientes, los recursos económicos necesarios para sufragar la infraestructura, equipamiento y gasto de operación del Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, B.O. 10 DE MARZO DE 2017)</small>
 
 NOVENO.- Se abroga la Ley Orgánica del Poder Judicial del Estado de Baja California Sur publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 01 de septiembre de 2015.
 
@@ -3873,10 +4005,26 @@ ALVARO DE LA PEÑA ANGULO
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-P.O. 10 DE MARZO DE 2017.
+B.O. 10 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 2426 SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+B.O. 20 DE DICIEMBRE DE 2017.
+
+## N. DE E. TRANSITORIOS DEL "DECRETO 2503.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de las reformas contenidas en el presente Decreto, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
