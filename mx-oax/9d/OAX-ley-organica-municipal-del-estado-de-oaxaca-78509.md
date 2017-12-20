@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2017-10-20"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -1097,11 +1097,17 @@ XVII.- Recepcionar los recursos provenientes de los Fondos de Participaciones, A
 
 Para lo cual deberá notificar a la Secretaría de Finanzas las cuentas bancarias productivas específicas receptoras y administradoras de los recursos señalados en el párrafo anterior.
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-XVIII.- Expedir licencias, permisos o autorizaciones para el funcionamiento de comercios, espectáculos, bailes y diversiones públicas en general, previo dictamen de las comisiones respectivas, en la expedición de licencias para el funcionamiento de cualquier entidad financiera, esta deberá contar con la autorización correspondiente por la Comisión Nacional Bancaria y de Valores.
+XVIII.- Expedir licencias, permisos, autorizaciones o refrendos, previa presentación del Registro Federal de Contribuyentes, cuando se trate de funcionamiento o instalación de comercios, diversiones, bailes y espectáculos públicos, previo dictamen de las comisiones respectivas.
 
-En caso de no contar con esta autorización, se le negará la licencia para su instalación y se deberá notificar a la Comisión Nacional Bancaria y de Valores, para que ejerza sus facultades de acuerdo a la legislación procedente,
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de solicitudes de expedición de licencias para el funcionamiento de cualquier entidad financiera, adicional a lo señalado en el párrafo anterior, el solicitante deberá acompañar a su solicitud la autorización de la Comisión Nacional Bancaria y de Valores.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Cuando no se cuente con la autorización de la Comisión antes citada, se negará la expedición de licencia, además de notificar de lo anterior a la Comisión Nacional Bancaria y de Valores para los efectos legales que correspondan.
 
 XIX.- Expedir licencias a establecimientos que expendan bebidas alcohólicas, las que de concederse tendrán siempre el carácter de temporales, previa autorización del Cabildo y con apego a la Ley Estatal de Salud;
 
@@ -2998,3 +3004,9 @@ P.O. 20 DE OCTUBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El Órgano Superior de Fiscalización del Estado, deberá emitir las guías y lineamientos a que se refiere la fracción III del artículo 184, en un plazo de noventa días naturales a partir de la publicación del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 783.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciocho, previa publicación en el Periódico Oficial del Gobierno del Estado.
