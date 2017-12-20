@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-11120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2017-10-31"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -138,6 +138,22 @@ IV. Derechos por servicios de control vehicular, únicamente en licencias de con
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2016)</small>
 
 Los beneficios a que se refiere este Artículo podrán hacerse efectivos en una sola ocasión por año, únicamente en los actos relativos a la persona del pensionado, jubilado, adulto mayor de 60 años y personas con discapacidad, y previo el acreditamiento de que se encuentra en alguno de los supuestos señalados en este Artículo.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Para el beneficio establecido en la fracción IV de este artículo, sólo en relación a personas con discapacidad y cuando éstas no cuenten con vehículo a su nombre, el beneficio podrá ser aplicado, en relación a un vehículo propiedad del padre o tutor. Únicamente en los casos de que el vehículo sea enajenado o haya sido declarado como pérdida total por algún percance o por robo, el beneficio podrá otorgarse por una segunda ocasión en el año.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Los pensionados y jubilados, personas de la tercera edad y personas con discapacidad, gozarán de una reducción del 50% en el pago de los derechos causados por los servicios que preste el Registro Público de la Propiedad y del Comercio en materia de propiedad, sobre bienes del pensionado o jubilado, de las personas de la tercera edad y personas con discapacidad.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Únicamente en el caso de las personas con discapacidad, el beneficio señalado en el párrafo anterior podrá ser aplicado por el padre o tutor, sobre un solo bien, en el cual habite la persona con discapacidad, o bien, vaya a ser destinado para tal fin, previo estudio socioeconómico que se realice por la autoridad estatal o municipal competente.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Derechos por Servicios de Registro Civil, únicamente en actos relativos al beneficiario. En el caso de la (sic) personas con discapacidad este beneficio se extenderá a su padre o tutor legal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2016)</small>
 
@@ -357,11 +373,21 @@ e) Apostillas: $362.00
 
 f) Cartas de Ciudadano Sudcaliforniano: $722.00
 
-II.- Seguridad privada Tarifa:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-a) Expedición de licencias; $7,942.00
+II.- Seguridad Pública. Tarifa:
 
-b) Refrendo anual de licencia; $3,610.00
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+a) Expedición de licencias para prestar
+
+servicios de seguridad privada; $7,942.00
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+b) Refrendo anual de licencia para prestar
+
+servicios de seguridad privada; $3,610.00
 
 c) Autorización y Registro de Personal de
 
@@ -370,6 +396,20 @@ Seguridad Privada por cada agente. $362.00
 d) Constancia de No Antecedentes Penales; $72.00
 
 e) Aplicación de Evaluaciones; $4,621.00
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+f) Inclusión de modalidades en la licencia
+
+para prestar Servicios de Seguridad Privada; $3,610.00
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+g) Estudio y tramite de la solicitud de
+
+autorización para prestar Servicios de
+
+Seguridad Privada; $362.00
 
 Los derechos causados conforme a esta Fracción, se deberán pagar los primeros quince días después de haber cumplido con los requisitos que para el registro le solicite al interesado la Subsecretaría de Seguridad Pública del Gobierno del Estado, cuando sea licencia de funcionamiento y cuando sea refrendo los primeros treinta días del mes de enero.
 
@@ -438,6 +478,66 @@ n) Por celebración de examen para Notario Titular; $8,448.00
 ñ) Por apertura de expediente de Notario Titular. $11,552.00
 
 Los ingresos que se obtengan por la recaudación de los derechos a que se refiere esta Fracción, se destinarán al Archivo General de Notarias, para el mantenimiento, conservación y operación de los servicios en materia notarial.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+V.- Protección Civil Tarifa
+
+a) Revalidación Anual de Programa Interno
+
+de Protección Civil; $6,000.00
+
+b) Expedición de registro como asesor y
+
+capacitador independiente en materia de
+
+Protección Civil; $3,000.00
+
+c) Expedición de registro como asesor,
+
+capacitador independiente en materia de
+
+Protección Civil y elaboración de Programas
+
+Internos de Protección Civil; $6,000.00
+
+d) Revisión y aprobación de Programa Interno
+
+de Protección Civil, 2-10 trabajadores y
+
+afluencia igual o menor a 20 personas; $300.00
+
+e) Revisión y aprobación de Programa Interno
+
+de Protección Civil, 2-10 trabajadores y
+
+afluencia mayor a 20 personas; $500.00
+
+f) Revisión y aprobación de Programa Interno
+
+de Protección Civil, 11-40 trabajadores y
+
+afluencia mayor a 20 personas; $600.00
+
+g) Revisión y aprobación de Programa Interno
+
+de Protección Civil, 41-80 trabajadores; $1,000.00
+
+h) Revisión y aprobación de Programa Interno
+
+de Protección Civil, mayor a 80 trabajadores; $1,500.00
+
+i) Curso de capacitación a integrantes de
+
+brigadas internas de Protección Civil, 2-10
+
+personas, de 6 a 8 horas de capacitación; $4,000.00
+
+j) Curso de capacitación a integrantes de
+
+brigadas internas de Protección Civil, 11-25
+
+personas, de 6 a 8 horas de capacitación. $6,000.00
 
 ### Capítulo Tercero. De los servicios prestados por la Secretaría de Pesca, Acuacultura y Desarrollo Agropecuario
 
@@ -657,11 +757,85 @@ formación para el trabajo, sea cual fuere la
 
 modalidad. $902.00
 
-### Capítulo Quinto. De los Servicios prestados por la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XLVII. Formato de certificado o certificación de estudios para
+
+instituciones educativas formadoras de docentes; $45.00
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XLVIII. Formato de título profesional para
+
+instituciones educativas formadoras de docentes; $80.00
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XLIX. Expedición de constancias de título profesional
+
+o grado académico de tipo superior; $144.00
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+L. Expedición de constancia de no sanción en
+
+materia de profesiones; $144.00
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LI. Gestión de expedición de la cedula profesional
+
+federal ante la Dirección General de Profesiones
+
+de la Secretaría de Educación Pública, en la
+
+Ciudad de México; $500.00
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LII. Revisión y autorización de los reglamentos
+
+internos de las instituciones de educación media
+
+superior y superior con reconocimiento de validez
+
+oficial de estudios otorgado por la Secretaría
+
+de Educación Pública Estatal; $1,500.00
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LIII. Regularización y actualización de expedientes
+
+de incorporación y refrendos anuales, de escuelas
+
+particulares de Educación Básica; $5,776.00
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LIV. Expedición de copias certificadas de documentos,
+
+por cada hoja tamaño carta u oficio; $108.00
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LV. Todos los servicios prestados por la Secretaría
+
+de Educación Pública que no estén contemplados
+
+en los incisos anteriores, causarán derechos y por
+
+cada uno de ellos se cubrirá el pago de: $273.00
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+### Capítulo Quinto. De los Servicios prestados por la Secretaría de Turismo, Economía y Sustentabilidad
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 20.
 
-Por los servicios que preste la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales, se causarán y pagarán derechos conforme a la siguiente:
+Por los servicios que preste la Secretaría de Turismo, Economía y Sustentabilidad, se causarán y pagarán derechos conforme a la siguiente:
 
 I.- Medio ambiente y ecología Tarifa:
 
@@ -745,11 +919,49 @@ a) De uso de suelo: $2,166.00
 
 b) De Lotificación y/o Sembrado de Edificios: $2,166.00
 
-### Capítulo Sexto. De los servicios prestados por la Secretaría de Planeación Urbana, Infraestructura y Transporte
+> <small>(ADICIONADA [N. DE E. CON SU INCISO], B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II.- En Materia de Turismo Tarifa:
+
+a) Curso de formación de guías de turista,
+
+por hora a cada persona: $58.00
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN II, B.O. 20 DE DICIEMBRE DE 2017]</small>
+
+Los ingresos que se obtengan por la recaudación de los derechos a que se refiere la presente fracción, serán destinados a sufragar los gastos generados por la contratación de instructores profesionales que habrán de impartir los módulos de capacitación requeridos por la norma que establece los elementos a que deben sujetarse los Guías Generales y Especializados en temas o localidades específicos de carácter cultural.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III.- Operaciones Inmobiliarias Tarifa:
+
+a) Expedición de Licencia para ejercer como
+
+Agente Profesional Inmobiliario; $1,500.00
+
+b) Revalidación de licencia para ejercer como
+
+agente profesional inmobiliario; $1,000.00
+
+c) Inscripción en el Registro Estatal de Agentes
+
+Profesionales Inmobiliarios; $300.00
+
+d) Capacitación, actualización y Profesionalización
+
+en materia de Operaciones Inmobiliarias, por
+
+persona. $300.00
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+### Capítulo Sexto. De los Servicios prestados por la Secretaría de Planeación Urbana, Infraestructura y Movilidad
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 21.
 
-Por los servicios que preste la Secretaría de Planeación Urbana, Infraestructura y Transporte, se causarán y pagarán derechos conforme a la siguiente:
+Por los Servicios que preste la Secretaría de Planeación Urbana, Infraestructura y Movilidad, se causarán y pagarán derechos conforme a la siguiente:
 
 I.- Pavimentación Tarifa:
 
@@ -765,7 +977,9 @@ II.- Cambio de régimen a propiedad en condominio a que se refiere la Ley Sobre 
 
 Para los efectos de esta Fracción, se entenderá por unidad, la unidad de propiedad exclusiva a que se refiere el Artículo 2° Fracción XVI de la Ley referida.
 
-III. Transporte Tarifa:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. Movilidad Tarifa:
 
 I. Por la expedición del título de concesión para
 
@@ -885,17 +1099,11 @@ IV. Autorización de libros para medicamentos
 
 estupefacientes y psicotrópicos; $362.00
 
-V. Autorización para manejo de recetario de código
+V. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-de barras; $506.00
+VI. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
-VI. Autorización de recetarios para prescripción
-
-de medicamentos controlados del grupo II y III; $362.00
-
-VII. Expedición de código de barras para recetario
-
-especial; $650.00
+VII. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
 VIII. Publicidad en eventos locales de bebidas
 
@@ -961,41 +1169,7 @@ b) Elaboración de estudios para la clasificación
 
 sanitaria; $25,271.00
 
-XVI. Para el análisis de agua de mar y de moluscos
-
-bivalvos para el Programa Mexicano de Sanidad de
-
-Moluscos Bivalvos;
-
-A. Agua de Mar:
-
-Fisicoquímicos
-
-a) PH; $288.00
-
-b) Temperatura del agua y ambiental; $1,084.00
-
-c) Oxígeno disuelto; $434.00
-
-d) Salinidad; $216.00
-
-e) Hidrocarburo de origen petrolero; $216.00
-
-Microbiológicos:
-
-Coliformes fecales; $362.00
-
-B. Moluscos Bivalvos:
-
-Microbiológicos
-
-a) E. Coli; $2,238.00
-
-b) Coliformes fecales; $362.00
-
-c) PH; $288.00
-
-d) Salinidad. $216.00
+XVI. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2017)
 
 ###### Artículo 23.
 
@@ -1009,17 +1183,11 @@ Los ingresos que se obtengan por la recaudación de los derechos a que se refier
 
 ###### Artículo 25.
 
-Por los servicios prestados por la Secretaría de Turismo, se causarán y se pagarán derechos conforme la siguiente:
-
-Tarifa:
-
-I. Curso de formación de guías de turista, por hora a
-
-cada persona: $58.00
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2017)
 
 ###### Artículo 26.
 
-Los ingresos que se obtengan por la recaudación de los derechos a que se refiere el Artículo anterior, serán destinados a sufragar los gastos generados por la contratación de instructores profesionales que habrán de impartir los módulos de capacitación requeridos por la norma que establece los elementos a que deben sujetarse los Guías Generales y Especializados en temas o localidades específicos de carácter cultural.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2017)
 
 ### Capítulo Noveno. De los servicios prestados por la Secretaría de Finanzas y Administración
 
@@ -1141,11 +1309,13 @@ b) Automovilista: $901.00
 
 c) Motociclista: $732.00
 
-17 Permiso provisional por 90 días a jóvenes mayores
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-de 16 años y menores de 18 años, previo curso de
+17 Permiso provisional por seis meses a
 
-educación vial: $939.00
+jóvenes mayores de 16 años y menores
+
+de 18 años, previo curso de educación vial; $600.00
 
 18 Reposición por robo o extravío de licencia: 50 por ciento
 
@@ -1154,6 +1324,18 @@ del costo dentro del primer año a partir de su expedición,
 30 por ciento del costo dentro del segundo o tercer año.
 
 Para los efectos de lo dispuesto en los numerales 8 y 16 de la presente fracción, el contribuyente, de ser el caso, deberá acreditar ante la autoridad exactora estatal, no contar con multas pendientes de pago por infracciones al Reglamento de Tránsito Municipal que corresponda.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+19 Gestión para la tramitación del pasaporte; $500.00
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+La tarifa del numeral 17, puede verse disminuida a una tercera parte de su valor, siempre que el menor cumpla con los siguientes requisitos:
+
+a) Que el pago del periodo inmediato anterior lo haya efectuado por el valor total establecido para el otorgamiento del permiso provisional, y
+
+b) Que no haya sido infraccionado en el periodo de seis meses inmediato anterior a la renovación del permiso provisional.
 
 II.- Registro Civil
 
@@ -1437,17 +1619,19 @@ a) Cuota fija para toda clase de inscripción: $1,877.00
 
 b) Por el valor de la operación: 1.95 al millar
 
-La inscripciones de los poderes, sustitución o
+5 La inscripciones de los poderes, sustitución o
 
 revocación de los mismos en forma total o parcial
 
 por cada poderdante o apoderado: $469.00
 
-La inscripción de créditos hipotecarios,
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-refaccionarios o de habilitación o avío, se
+6 La inscripción de créditos hipotecarios
 
-cobrará en los siguientes términos:
+refaccionarios o de habilitación o avío,
+
+se cobrará en los siguientes términos:
 
 a) Cuota fija para toda clase de inscripción: $563.00
 
@@ -1531,9 +1715,13 @@ a) Cuota fija por servicio hasta 10 años: $469.00
 
 b) Por cada hoja $23.00
 
-16 Por la expedición de constancias, por cada persona:
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Cuota fija por servicio: $188.00
+16 Por la expedición de constancias,
+
+por cada predio:
+
+Cuota fija por servicio $188.00
 
 Las certificaciones o constancias que son solicitadas con
 
@@ -1596,6 +1784,12 @@ a) Pago fijo por servicio: $469.00
 b) Por cada hoja adicional, a partir de la hoja
 
 número 20: $3.00
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+25 Por la expedición de Constancia del historial
+
+registral: $1,100.00
 
 En ningún caso los Derechos a que se refiere esta
 
@@ -1944,3 +2138,9 @@ B.O. 31 DE OCTUBRE DE 2017.
 Primero.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2502.- SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 16 Y SUS INCISOS A) Y B), LA FRACCIÓN III DEL ARTÍCULO 21, EL NÚMERO 17 DE LA FRACCIÓN I Y LOS NÚMEROS 6 Y 16 DE LA FRACCIÓN III DEL ARTÍCULO 27, SE ADICIONAN CUATRO ÚLTIMOS PÁRRAFOS AL ARTÍCULO 5, LOS INCISOS F) Y G) A LA FRACCIÓN II Y UNA FRACCIÓN V CON LOS INCISOS A), B), C), D), E), F), G), H), I), Y J) AL ARTÍCULO 16, LAS FRACCIONES XLVII, XLVIII, XLIX, L, LI, LII, LIV, Y LV AL ARTÍCULO 19; SE ADICIONAN UNA FRACCIÓN II CON UN INCISO A) Y UNA FRACCIÓN III CON LOS INCISOS A), B), C),Y D) AL ARTÍCULO 20; EL NÚMERO 19 Y UN ÚLTIMO PÁRRAFO CON LOS INCISOS A) Y B) A LA FRACCIÓN I Y EL NÚMERO 25 A LA FRACCIÓN III DEL ARTÍCULO 27; Y SE DEROGAN LAS FRACCIONES V, VI, VII, Y XVI DEL ARTÍCULO 22, Y LOS ARTÍCULOS 25 Y 26, TODOS DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día 01 de enero del 2018, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
