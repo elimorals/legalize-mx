@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2017-02-22"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -5101,7 +5101,9 @@ Cuando una persona deje sus bienes para la creación, vía testamentaria, de una
 
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
 
-II.- El que haya presentado denuncia o querella contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, por delito que merezca pena de prisión, aún cuando aquéllas sean fundadas, si fuere su descendiente, ascendiente, cónyuge o hermano, a no ser que ese acto haya sido preciso para que el denunciante o querellante salvará su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. El que con dolo y de manera infundada haya presentado denuncia o querella contra la persona autora de la sucesión, sus ascendientes, descendientes, hermanas, hermanos o cónyuge, por delito que merezca pena de prisión.
 
 III.- El cónyuge que mediante sentencia ejecutoria ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
@@ -13070,3 +13072,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE “DECRETO N° RFCOD/0405/2017 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1219, FRACCIÓN II DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
