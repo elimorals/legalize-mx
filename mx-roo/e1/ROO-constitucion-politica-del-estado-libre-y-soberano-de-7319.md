@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2017-09-22"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -279,9 +279,9 @@ La correspondencia que bajo cualquier forma circule en el Estado, estará exenta
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. El derecho a la información será garantizado por el Estado.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. Este Instituto contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado o la Diputación Permanente, en su caso; durará cuatro años en su encargo sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. El presupuesto de egresos del Instituto no podrá ser menor al cero punto diez por ciento del presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Instituto será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El derecho de acceso a la información y la protección de datos personales será garantizado por un órgano público autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, denominado Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo. Este Instituto contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado o la Diputación Permanente, en su caso; durará cuatro años en su encargo sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. El presupuesto de egresos del Instituto no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Instituto será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 Este órgano garante estará integrado por tres comisionados que durarán en su encargo siete años, serán nombrados en los términos que prevea la ley, procurando la equidad de género y cumpliendo como mínimo con los requisitos previstos en las fracciones I, II, IV, V, VI y VII del artículo 101 de la Constitución Política del Estado Libre y Soberano de Quintana Roo. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución y serán sujetos de juicio político.
 
@@ -861,9 +861,9 @@ La Ley General de Instituciones y Procedimientos Electorales establece los requi
 
 > <small>(DEROGADO DÉCIMO SEGUNDO PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los titulares de los órganos internos de control será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir el tabulador desglosado de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su presupuesto de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El presupuesto de egresos del Tribunal Electoral de Quintana Roo no podrá ser menor al cero punto doce por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir el tabulador desglosado de las remuneraciones que perciban los servidores públicos del Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los titulares de los órganos internos de control será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo, presentará su proyecto de presupuesto de egresos ante la Legislatura a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda, para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda. El presupuesto de egresos del Tribunal Electoral de Quintana Roo no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
@@ -1207,11 +1207,11 @@ La Legislatura podrá requerir información o documentación al Gobernador del E
 
 La Ley Orgánica del Poder Legislativo de Quintana Roo, regulará el ejercicio de estas facultades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-###### ARTICULO 67.
+###### Artículo 67.
 
-El Poder Legislativo del Estado administrará con autonomía su presupuesto, el cual no podrá ser menor al uno punto sesenta y cinco por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate, y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior.
+El Poder Legislativo del Estado administrará con autonomía su presupuesto, el cual no será menor al presupuesto otorgado en el año inmediato anterior.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -1555,23 +1555,37 @@ XV.- Las demás que le confiera expresamente esta Constitución.
 
 #### SECCION SEXTA. De la Revisión y Fiscalización del Estado
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 77.
+
+La Auditoría Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio. El proyecto de presupuesto de egresos será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El presupuesto de egresos de la Auditoría Superior del Estado no será menor al presupuesto otorgado en el año inmediato anterior.
+
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
-
-###### ARTICULO 77.
-
-La Auditoría Superior del Estado, de la Legislatura, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. Asimismo, contará con personalidad jurídica y patrimonio propio. El presupuesto de egresos de la Auditoría Superior del Estado no podrá ser menor al cero punto cuarenta y uno por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior.
 
 La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 El Titular de la Auditoría Superior del Estado será electo por el voto de las dos terceras partes de los miembros presentes de la Legislatura del Estado. Los auditores especiales serán nombrados por el Titular de la Auditoría Superior del Estado, y ratificados por la Legislatura o en su caso, por la Diputación Permanente. Los auditores especiales auxiliarán al Titular en sus funciones. El titular durará en su encargo siete años y podrá ser nombrado nuevamente por una sola vez. Los auditores especiales, durarán en su encargo siete años, con la posibilidad de ser nombrados por un periodo adicional de tres años. El titular de la Auditoría Superior del Estado podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por causas y conforme a los procedimientos previstos en el título octavo de esta Constitución. El titular y los auditores especiales no podrán, durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 Para ser Titular de la Auditoría Superior del Estado, se requiere cumplir los requisitos establecidos en las fracciones I, II, IV y V del artículo 101 de esta Constitución y los que señale la Ley de la materia. En todo caso, deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades. Para ser auditor especial, se deberán cubrir los mismos requisitos que para ser titular. La ley determinará el procedimiento para la designación y remoción del titular y los auditores especiales.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+
 La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
 
 Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE JULIO DE 2017)</small>
+
 La Auditoría Superior del Estado tendrá a su cargo:
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
 I. Revisar y fiscalizar en forma posterior la cuenta pública que los gobiernos, estatal y municipales le presenten sobre su gestión financiera, incluyendo las acciones en materia de fondos, recursos locales y deuda pública, a efecto de comprobar que la recaudación, manejo, custodia y aplicación de los ingresos y egresos durante un ejercicio fiscal, se ejercieron con apego a los criterios y disposiciones legales aplicables y determinar el grado de cumplimiento de los objetivos contenidos en los planes y programas aprobados conforme a la ley. La fiscalización también procederá respecto a la recaudación, administración, manejo o ejercicio de los recursos públicos que realice cualquier persona física o moral, pública o privada.
 
@@ -1591,6 +1605,8 @@ Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que det
 
 Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoria Superior del Estado rendirá un informe específico a la Legislatura del Estado y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado, la Fiscalía Especializada en Combate a la Corrupción del Estado o las autoridades competentes;
 
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
 II. Entregar a la Legislatura del Estado, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno de la Legislatura del Estado. El Informe General Ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoria Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
 Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo y de los informes individuales de auditoría, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por la Auditoria Superior del Estado para la elaboración de los informes individuales de auditoría.
@@ -1605,13 +1621,19 @@ La Auditoria Superior del Estado deberá entregar a la Legislatura del Estado, l
 
 La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo a la Legislatura del Estado a que se refiere esta fracción; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
 
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles y archivos indispensables para realizar sus investigaciones, sujetándose a las leyes respectivas y a las formalidades prescritas para los cateos.
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
 IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción del Estado, para la imposición de las sanciones que correspondan a los servidores públicos estatales y, en el caso de los párrafos segundo y tercero de la fracción I de este artículo, a los servidores públicos estatales, municipales, y a los particulares.
 
 Los Poderes del Estado, los municipios y las demás entidades fiscalizadas facilitarán los auxilios que requiera la Auditoria Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la Ley. Asimismo, los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales y municipales, deberán proporcionar la información y documentación que solicite la Auditoria Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la Ley.
 
 La Legislatura del Estado concluirá la revisión de la Cuenta Pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, sigan su curso en términos de lo dispuesto en este artículo;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
 
 V.- Las demás facultades y atribuciones que le otorguen las leyes respectivas.
 
@@ -1819,9 +1841,9 @@ V.- Facilitar al Poder Judicial el auxilio que requiera para el ejercicio de sus
 
 VI.- Mantener la administración pública en constante perfeccionamiento, adecuándola a las necesidades técnicas y humanas de la entidad.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-VII.- Presentar a la Legislatura antes del 16 de Noviembre de cada año las iniciativas de Ley de Ingresos del Estado, que deberán regir en el año inmediato siguiente.
+VII.- Presentar a la Legislatura a más tardar el 20 de noviembre de cada año la iniciativa de Ley de Ingresos del Estado, que deberán regir en el año inmediato siguiente;
 
 VIII.- Gestionar ante las dependencias federales la aplicación de las medidas conducentes, a efecto de que se cumplan cabalmente en el Estado las leyes que emanen de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -1861,9 +1883,9 @@ Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por
 
 La Legislatura Estatal, mediante la ley o decreto que al efecto expida, establecerá un Organismo de Protección de los Derechos Humanos, en el marco que otorga el orden jurídico vigente, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, del Estado o de los Ayuntamientos que violen estos derechos.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-El Organismo que establezca la legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo, el cual será órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. Esta Comisión contará con un órgano interno de control, cuyo titular será designado por la Legislatura o la Diputación Permanente, en su caso; durará cuatro años sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. La Ley establecerá los requisitos y el procedimiento para la designación del titular del órgano interno de control. El presupuesto de egresos de la Comisión de los Derechos Humanos de Quintana Roo no podrá ser menor al cero punto quince por ciento del presupuesto de Egresos del Estado, para el ejercicio fiscal de que se trate y en ningún caso, será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos de la Comisión, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+El Organismo que establezca la legislatura se denominará Comisión de los Derechos Humanos del Estado de Quintana Roo, el cual será órgano público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, independencia funcional y financiera, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna. Esta Comisión contará con un órgano interno de control, cuyo titular será designado por la Legislatura o la Diputación Permanente, en su caso; durará cuatro años sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia. La Ley establecerá los requisitos y el procedimiento para la designación del titular del órgano interno de control. El presupuesto de egresos de la Comisión de los Derechos Humanos de Quintana Roo no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos de la Comisión, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos de la Comisión, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 La Comisión de los Derechos Humanos del Estado de Quintana Roo, tendrá un Consejo Consultivo integrado por un Presidente y seis Consejeros, que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Legislatura o, en sus recesos, por la Diputación Permanente, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas, la duración del encargo y los requisitos para acceder a éste.
 
@@ -1977,11 +1999,13 @@ El Fiscal General del Estado y sus agentes, serán responsables de toda falta, o
 
 C.- La Fiscalía General del Estado administrará con autonomía su presupuesto; el Fiscal General del Estado elaborará el anteproyecto de presupuesto de egresos de la Fiscalía General.
 
-En todo caso, el anteproyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Fiscal General del Estado remitirá dicho anteproyecto a la Legislatura del Estado para su inclusión en el Proyecto de Presupuesto de Egresos del Estado a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+En todo caso, el proyecto de presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Fiscal General del Estado remitirá dicho proyecto a la Legislatura del Estado para su inclusión en el Proyecto de Presupuesto de Egresos del Estado a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda.
 
-El presupuesto de egresos para la Fiscalía General del Estado no podrá ser menor al dos punto cero cinco por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate, y en ningún caso será menor al presupuesto otorgado en el año inmediato anterior.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+El presupuesto de egresos para la Fiscalía General del Estado no será menor al presupuesto otorgado en el año inmediato anterior.
 
 La Cuenta Pública de la Fiscalía General del Estado se sujetará a lo dispuesto por esta Constitución y las leyes aplicables en la materia.
 
@@ -2301,11 +2325,11 @@ Los integrantes del Consejo de la Judicatura, con excepción de su Presidente, r
 
 El Consejo de la Judicatura del Estado propondrá al Pleno del Tribunal Superior de Justicia la división territorial del Estado en distritos y circuitos judiciales, con base en la agrupación de sus municipios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-###### ARTICULO 109.
+###### Artículo 109.
 
-El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución; el Presupuesto de Egresos para el Poder Judicial no podrá ser menor al dos punto veintisiete por ciento del Presupuesto de Egresos del Estado para el ejercicio fiscal de que se trate, y en ningún caso será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda.
+El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el proyecto de Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución; el Presupuesto de Egresos para el Poder Judicial no será menor al presupuesto otorgado en el año inmediato anterior, para tal efecto, el proyecto de presupuesto de egresos será remitido a la Legislatura para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -2361,7 +2385,9 @@ Los magistrados no podrán tener, servir o desempeñar al mismo tiempo otro empl
 
 La retribución que perciban los Magistrados del Tribunal de Justicia Administrativa del Estado, será la equivalente a la de un Magistrado Numerario del Tribunal Superior de Justicia del Estado.
 
-El proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 15 de noviembre del año anterior al ejercicio fiscal que corresponda. El presupuesto de egresos del Tribunal de Justicia Administrativa del Estado, deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+El proyecto de presupuesto de egresos del Tribunal, será remitido a la Legislatura, para su inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda y deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El presupuesto de egresos del Tribunal de Justicia Administrativa del Estado, no será menor al presupuesto otorgado en el año inmediato anterior.
 
 El Tribunal de Justicia Administrativa del Estado contará con un órgano interno de control, cuyo titular será designado por la Legislatura del Estado o la Diputación Permanente, en su caso; durará cuatro años en su cargo, sin posibilidad de reelección, y no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en las asociaciones científicas, docentes, artísticas o de beneficencia.
 
@@ -2447,11 +2473,11 @@ La administración de la hacienda pública estará a cargo del Ejecutivo por con
 
 La ley determinará la organización y funcionamiento de las oficinas de hacienda en el Estado.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 118.
 
-Anualmente, a más tardar el 15 de noviembre, el Ejecutivo presentará a la Legislatura el proyecto de Presupuesto de Egresos, que deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos estatales, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
+Anualmente, a más tardar el 20 de noviembre, el Ejecutivo presentará a la Legislatura el proyecto de Presupuesto de Egresos, que deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos estatales, sujetándose a lo dispuesto en el artículo 165 de esta Constitución.
 
 ###### ARTICULO 119.
 
@@ -5256,3 +5282,11 @@ P.O. 22 DE SEPTIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 117 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente decreto.
