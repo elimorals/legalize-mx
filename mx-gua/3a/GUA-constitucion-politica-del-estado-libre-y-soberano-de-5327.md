@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2017-12-13"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1325,9 +1325,9 @@ Designar a los Magistrados Supernumerarios a propuesta del Pleno del Supremo Tri
 
 Designar a los Consejeros del Poder Judicial en los términos que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Designar por el voto de más de la mitad de la totalidad de sus integrantes, al titular del organismo estatal de protección de los Derechos Humanos, de acuerdo a la propuesta que formule el Ejecutivo del Estado de conformidad con el procedimiento de consulta pública contemplado en esta Constitución y en los términos de la Ley de la materia. Así como a los integrantes del Consejo Consultivo. La Diputación Permanente tendrá la facultad de ratificar los nombramientos de los integrantes del Consejo Consultivo, en los términos de la Ley de la materia.
+Designar por el voto de las dos terceras partes de sus integrantes presentes, al titular del organismo estatal de protección de los Derechos Humanos, de conformidad con el procedimiento de consulta pública contemplado en esta Constitución y en los términos de la Ley de la materia. Así como a los integrantes del Consejo Consultivo, con la mayoría calificada antes señalada.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -1419,9 +1419,15 @@ VI.- Conocer de las renuncias de los servidores públicos del Congreso, en los t
 
 VII.- Expeditar los trabajos pendientes al tiempo del receso y ejecutar, en los nuevos, lo que fuere necesario, dando cuenta al Congreso con unos y con otros;
 
-VIII.- Conceder licencias para separarse de su cargo, al Gobernador del Estado, y a los Diputados en los términos de la Fracción XXVII del Artículo 63; y,
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-IX.- Las demás consignadas de modo expreso en esta Constitución.
+VIII.- Conceder licencias para separarse de su cargo, al Gobernador del Estado, y a los Diputados en los términos de la Fracción XXVII del Artículo 63;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IX.- Ratificar los nombramientos de los integrantes del Consejo Consultivo del organismo estatal de protección de los Derechos Humanos, en los términos de la Ley de la materia; y,
+
+X.- Las demás consignadas de modo expreso en esta Constitución.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2003)</small>
 
@@ -1707,9 +1713,7 @@ XII.- Proponer por ternas al Congreso del Estado la aprobación de los Magistrad
 
 Proponer al Congreso del Estado, la terna para la designación de Consejero que integre el Consejo del Poder Judicial. Emitir dictamen sobre la propuesta de reelección o de no reelección de un Magistrado cuando le corresponda atendiendo al origen de la propuesta de designación del mismo fundado en el dictamen de evaluación que emita la Comisión de Evaluación.
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
-
-Proponer en terna al Congreso del Estado, a los candidatos para elegir al titular del organismo estatal de protección de los Derechos Humanos, una vez que haya efectuado el procedimiento de consulta pública a que se refiere el artículo 4 de esta Constitución y de conformidad con la Ley de la materia. En caso de que la terna que proponga sea rechazada, formulará una nueva. Si esta segunda terna es rechazada por el Congreso del Estado, el Gobernador del Estado designará de entre los propuestos, a la persona que será el titular del organismo estatal de protección de los Derechos Humanos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -4028,3 +4032,9 @@ P.O. 13 DE DICIEMBRE DE 2017.
 Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Congreso del Estado deberá efectuar los ajustes normativos que correspondan en un plazo de ciento ochenta días posteriores a la entrada en vigencia y de conformidad con los alcances de este decreto.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 272, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
