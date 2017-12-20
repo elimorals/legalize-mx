@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-el-funcionamiento-de-establecimientos-en-los-459
 country: "mx"
 rank: "ley"
 publication_date: "1993-09-11"
-last_updated: "2017-02-22"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY QUE REGULA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS EN LOS QUE SE EXPENDEN, DISTRIBUYEN O INGIEREN BEBIDAS ALCOHOLICAS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ALCOHOLES DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 20 DE DICIEMBRE DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMERO DE ENERO DEL AÑO 2018.]</small>
+
 LEY QUE REGULA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS EN LOS QUE SE EXPENDEN, DISTRIBUYEN O INGIEREN BEBIDAS ALCOHÓLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICAL: 20 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 11 de septiembre de 1993.
 
@@ -910,3 +912,27 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/EXLEY/0547/2017 I P.O. LEY DE ALCOHOLES DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de enero del año 2018.
+
+SEGUNDO. A partir de la vigencia de este Decreto se abroga la Ley que Regula el Funcionamiento de Establecimientos en los que se Expenden, Distribuyen o Ingieren Bebidas Alcohólicas, publicada en el Periódico Oficial del Estado No. 73 del 11 de septiembre de 1993.
+
+Los reglamentos que derivan de la Ley que se abroga, con la entrada en vigor de este Decreto, conservarán su vigencia en lo que no contravengan las disposiciones contenidas en este, hasta en tanto no se emita la reglamentación correspondiente.
+
+TERCERO. Los ayuntamientos de los municipios del Estado, de conformidad con las leyes, expedirán cada uno, de acuerdo con sus particulares condiciones los reglamentos a esta Ley, los que deberán remitirse al Ejecutivo del Estado para su publicación en el Periódico Oficial, quedando este poder facultado para formular las observaciones que estime prudentes antes de su publicación.
+
+CUARTO. Los establecimientos con el giro de cantina, cervecería, salón de baile, salón de juego y parque estacionamiento seguirán operando bajo las condiciones de funcionamiento establecidas por la Ley vigente a la fecha de expedición de la licencia correspondiente, con sujeción a las obligaciones establecidas por la presente ley.
+
+QUINTO. Las y los titulares que hayan trasladado a una tercera persona el uso o goce de la licencia que les corresponde, deberán cumplir los requisitos previstos para la figura de transferencia temporal que contempla este Decreto, a más tardar el día 31 de agosto del año 2018.
+
+En los casos que no se regularicen dentro del plazo concedido en el párrafo anterior, las personas operadoras deberán solicitar a la Dirección, la expedición del permiso o licencia a su nombre.
+
+Si no se inicia este trámite dentro del plazo concedido o no se cumplen los requisitos exigidos dentro de este Decreto, se revocará la licencia o permiso.
+
+SEXTO. Las licencias o permisos expedidos con anterioridad a esta Ley seguirán vigentes, siempre y cuando se haya cumplido con todos los requisitos previstos en la misma. En caso contrario, las personas titulares u operadoras deberán subsanar la omisión de cualquier requisito o requisitos antes del día primero de septiembre del año 2018. Transcurrido el término anterior, las licencias o permisos que no fueren regularizados quedarán revocadas. Las y los titulares de las licencias o permisos otorgados con anterioridad a la entrada en vigor de este Decreto y que sigan vigentes, quedarán obligados al cumplimiento de las disposiciones de este ordenamiento.
+
+SÉPTIMO. Los procedimientos iniciados durante la vigencia de la Ley que Regula el Funcionamiento de los Establecimientos en los que se Expenden, Distribuyen o Ingieren Bebidas Alcohólicas, deberán concluirse bajo las disposiciones previstas por la misma.
