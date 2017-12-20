@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2017-10-26"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -3119,7 +3119,7 @@ A quien quebrante sellos puestos por orden de una autoridad, se le aplicará de 
 
 Al servidor público que dolosamente, con motivo de sus funciones exceda el límite de sus potestades o atribuciones, en detrimento de un particular o de la función pública, se le impondrá de dos a ocho años de prisión, de veinte a ochenta días multa, destitución del empleo o cargo e inhabilitación hasta por seis años.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO I. DELITOS ELECTORALES
 
 ###### Artículo 262.
 
@@ -3133,9 +3133,9 @@ En todo caso, la reparación del daño referida en la fracción VI del artículo
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE NOVIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL DECRETO PUBLICADO EL 2 DE NOVIEMBRE DE 2001, SE APRECIA LA EXISTENCIA DE ESTE CAPÍTULO.
 
-### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
+### CAPÍTULO II. DELITOS DE VIOLENCIA POLÍTICA
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 262
 
@@ -3149,9 +3149,9 @@ b.- Si se suspende el ocultamiento de manera espontánea dentro de las setenta y
 
 > <small>N. DE E. EL CONTENIDO DE ESTE CAPÍTULO EXISTÍA DESDE EL TEXTO ORIGINAL EN EL CAPÍTULO XV, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 12 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER CAPÍTULO XVI.</small>
 
-### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+### CAPÍTULO I. DELITOS CONTRA LA PRESERVACIÓN Y PROTECCIÓN AL AMBIENTE
 
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 263.
 
@@ -3159,7 +3159,7 @@ Para los efectos de este Código, se reputarán como servidores públicos a los 
 
 ## TÍTULO CUARTO. DE LOS DELITOS CONTRA LA HACIENDA PÚBLICA
 
-### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -3181,15 +3181,19 @@ No se considerarán tortura los dolores o sufrimientos que sean consecuencia ún
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JULIO DE 2017)</small>
 
-### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+### CAPÍTULO III. REGLAS COMUNES A LOS DELITOS CONTRA EL AMBIENTE
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ###### Artículo 264 Bis.
 
 Comete el delito de intimidación el servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y de treinta a cien días multa.
+
+### CAPÍTULO IV. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 265.
 
@@ -3337,7 +3341,9 @@ A quien para hacer efectivo un derecho o pretendido derecho que deba ejercitar p
 
 Este delito se perseguirá por querella.
 
-## TÍTULO QUINTO. DE LOS DELITOS EN MATERIA ELECTORAL
+## TÍTULO QUINTO. DE LOS DELITOS EN MATERIA ELECTORAL Y VIOLENCIA POLÍTICA
+
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 279.
 
@@ -3368,6 +3374,8 @@ No se impondrá pena alguna a quien hubiere omitido el pago total o parcial de a
 ###### Artículo 283.
 
 La autoridad fiscal sólo podrá otorgar el perdón cuando las personas procesadas por delitos contra la hacienda pública, paguen íntegramente las prestaciones fiscales originadas por los hechos imputados, o bien, a su juicio quede debidamente garantizado el interés fiscal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ## TÍTULO SEXTO. DE LOS DELITOS CONTRA EL AMBIENTE
 
@@ -3490,6 +3498,20 @@ IV.- Condicione la prestación de un servicio público o la realización de una 
 ###### Artículo 289.
 
 Se impondrán hasta quinientos días multa a los ministros de culto religioso que en el desarrollo de actos públicos propios de su ministerio induzcan expresamente al electorado a votar en favor o en contra de un candidato o partido político o a la abstención del ejercicio del derecho al voto.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 289
+
+a.- A quien dolosamente anule o limite el ejercicio de los derechos políticos o de las funciones públicas a una mujer por razones de género, se impondrá de dos a cuatro años de prisión y de cien a cuatrocientos días multa.
+
+Para efectos de este delito, se presume que existen razones de género cuando:
+
+I.- Existan situaciones de poder que den cuenta de un desequilibrio en perjuicio de la víctima.
+
+II.- Existan situaciones de desventaja provocadas por condiciones del género.
+
+Las sanciones a que se refiere el primer párrafo de este artículo se aumentarán de una mitad del mínimo a una mitad del máximo cuando en la comisión de este delito intervenga un servidor público o un dirigente partidista, cuando se emplease violencia o engaño, o por el aprovechamiento de una situación de vulnerabilidad de la mujer.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -3804,5 +3826,11 @@ Artículo Único. EI presente Decreto entrará en vigencia al día siguiente al 
 P.O. 26 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 216, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 153 EN SU ÚLTIMO PÁRRAFO; Y SE ADICIONAN UNA FRACCIÓN VI AL ARTÍCULO 153, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN VI PARA QUEDAR COMO VII; Y UN TÍTULO SÉPTIMO DENOMINADO “DEL DELITO CONTRA LA LIBRE EXPRESIÓN”, INTEGRADO POR EL CAPÍTULO ÚNICO DENOMINADO “DELITO CONTRA LA LIBRE EXPRESIÓN”, DENTRO DE LA SECCIÓN TERCERA DEL LIBRO SEGUNDO, QUE CONTENDRÁ UN ARTÍCULO 240-D, DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 274, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN Y SE MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
