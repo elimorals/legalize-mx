@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2016-03-22"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de Abril de 2014.
 
@@ -31,7 +31,9 @@ Rolando Rodrigo Zapata Bello, Gobernador del Estado de Yucatán, con fundamento 
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODOS DEL ESTADO DE YUCATÁN, EMITE LA SIGUIENTE,
 
-E X P O S I C I Ó N D E M O T I V O S: …
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción XII, inciso b) de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -63,23 +65,33 @@ III. Consejo estatal: el Consejo Estatal para la Prevención, Atención, Sanció
 
 IV. Derechos humanos de las mujeres: los derechos humanos enunciados en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado mexicano sea parte y en la Constitución Política del Estado de Yucatán.
 
-V. Misoginia: la aversión u odio a las mujeres que pueden derivar en alguno de los tipos de violencia previstos en esta ley.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+V. Empoderamiento de la mujer: el proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VI. Misoginia: la aversión u odio a las mujeres que pueden derivar en alguno de los tipos de violencia previstos en esta ley.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VII. Modalidades de violencia: las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres, a que se refiere el artículo 7.
 
 > <small>(REFORMADA, D.O. 22 DE MARZO DE 2016)</small>
 
-VI. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, direccionada a eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género.
+VIII. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, direccionada a eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género.
 
-VII. Programa especial: el Programa Especial para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Yucatán.
-
-> <small>(REFORMADA, D.O. 22 DE MARZO DE 2016)</small>
-
-VIII. Sistema estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
-
-IX. Víctima: la niña, adolescente o mujer de cualquier edad a quien se le inflige algún tipo de violencia contra las mujeres.
+IX. Programa especial: el Programa Especial para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres en el Estado de Yucatán.
 
 > <small>(REFORMADA, D.O. 22 DE MARZO DE 2016)</small>
 
-X. Violencia contra las mujeres: la acción u omisión, por motivos de género, de violencia económica, física, patrimonial, psicológica o sexual contra las mujeres, en términos del artículo 6 de esta ley.
+X. Sistema estatal: el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+XI. Víctima: la niña, adolescente o mujer de cualquier edad a quien se le inflige algún tipo de violencia contra las mujeres.
+
+> <small>(REFORMADA, D.O. 22 DE MARZO DE 2016)</small>
+
+XII. Violencia contra las mujeres: la acción u omisión, por motivos de género, de violencia económica, física, patrimonial, psicológica o sexual contra las mujeres, en términos del artículo 6 de esta ley.
 
 ###### Artículo 3.
 
@@ -97,7 +109,9 @@ I. La igualdad de género.
 
 II. El respeto a los derechos humanos de las mujeres.
 
-III. La no discriminación por razones de género.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. La no discriminación por razones de género, en términos del último párrafo del artículo 1o de la Constitución Política de los Estados Unidos Mexicanos.
 
 IV. La libertad y autonomía de las mujeres.
 
@@ -129,7 +143,21 @@ IX. No ser obligada a participar en mecanismos de conciliación o de justicia al
 
 X. Obtener la reparación de los daños sufridos.
 
-XI. Los demás derechos previstos en esta ley y en otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XI. A solicitar y recibir órdenes de protección, ya sean de emergencia, cautelares o definitivas, así como las medidas de protección establecidas en el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XII. A ser informado de los derechos que le reconoce esta ley y demás normativa aplicable así como las instituciones que los garantizan.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XIII. En caso de tener alguna discapacidad, a recibir los servicios necesarios por parte de personal especializado para salvaguardar sus derechos.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XIV. Los demás derechos previstos en esta ley, en la ley general, en las leyes general y estatal de víctimas, y en otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 6.
 
@@ -139,7 +167,9 @@ Las medidas de atención a que se refiere esta ley corresponderán a los tipos d
 
 I. Violencia económica: es toda acción u omisión del agresor que se manifiesta a través de limitaciones encaminadas a controlar el ingreso de las percepciones económicas de la víctima, en la negación injustificada para obtener recursos económicos, en la exigencia de exámenes de no gravidez, en el incumplimiento de las condiciones de trabajo, en la explotación laboral y en la percepción de un salario menor por igual trabajo dentro de un mismo centro laboral.
 
-II. Violencia física: es cualquier acción u omisión intencional que cause daño físico a la víctima.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. Violencia física: es cualquier acción u omisión intencional que cause daño físico a la víctima, aun cuando este no ocasione cicatrices, moretones o cualquier otra marca visible.
 
 III. Violencia patrimonial: es cualquier acción u omisión que se manifiesta a través de la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos de la mujer, independientemente de si se trata de bienes comunes o propios de la víctima.
 
@@ -151,13 +181,23 @@ VI. Violencia feminicida: es la forma extrema de violencia de género contra las
 
 VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+La Comisión de Derechos Humanos del Estado de Yucatán y los organismos de la sociedad civil o internacionales, en caso de violencia feminicida, podrán solicitar la declaratoria de la alerta de violencia de género, en términos del artículo 24, fracción III, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+La Comisión de la Igualdad de Género del Congreso deberá dar seguimiento a la atención de la declaratoria de alerta de género, dentro del ámbito de sus atribuciones.
+
 ###### Artículo 7.
 
 Modalidades de violencia
 
 Los tipos de violencia, mencionados en el artículo anterior, se pueden presentar en las modalidades siguientes:
 
-I. Violencia familiar: es la ejercida en contra de un miembro de la familia por el cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante, adoptado, dentro o fuera del domicilio familiar.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+I. Violencia familiar: es la ejercida en un acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir, usando cualquiera de los tipos de violencia, en contra de un miembro de la familia por el cónyuge, concubina o concubinario, o con quien mantengan o hayan mantenido una relación de hecho, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante, adoptado, dentro o fuera del domicilio familiar.
 
 II. Violencia laboral: es la que ocurre en una relación de trabajo, constituida en términos de las leyes aplicables, incluyendo aquellas que no llegaron a constituirse cuando se trate de mujeres aspirantes a un trabajo y, por motivos de género, se niegue la contratación.
 
@@ -165,7 +205,13 @@ III. Violencia escolar: es la que ocurre dentro de los centros educativos, cuand
 
 IV. Violencia en la comunidad: es la ejercida de forma individual o colectiva, que ocurre en los espacios públicos, de libre tránsito o sociales.
 
-V. Violencia institucional: es la cometida por las personas con calidad de servidores públicos.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+V. Violencia institucional: es la cometida por las personas con calidad de servidores públicos que tenga como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia, así como a cualquier otra a que tengan derecho, siempre que cubran los requisitos exigidos por la normativa vigente.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VI. Violencia política: es la practicada en el marco del ejercicio de los derechos político-electorales, por medio de acción u omisión, con el fin de menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
 
 ###### Artículo 8.
 
@@ -213,6 +259,10 @@ h) El Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
 
 i) El Sistema para el Desarrollo Integral de la Familia.
 
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+j) La Comisión Ejecutiva Estatal de Atención a Víctimas.
+
 II. El Poder Judicial del Estado de Yucatán.
 
 III. Los ayuntamientos a través de los organismos o dependencias municipales encargados de la protección de los derechos humanos de las mujeres.
@@ -229,7 +279,9 @@ Las autoridades integrantes del sistema estatal se coordinarán entre sí y con 
 
 Facultades y obligaciones generales
 
-Las autoridades que integran el sistema estatal tendrán las atribuciones generales siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Las autoridades que integran el sistema estatal tendrán las facultades y obligaciones siguientes:
 
 I. Prestar los servicios de atención que prevé esta ley y difundirlos.
 
@@ -248,6 +300,10 @@ VI. Canalizar a las víctimas a los servicios de atención prestados por otras a
 VII. Informar al Ministerio Público de los delitos que conozca relacionados con la violencia contra la mujer, siempre y cuando éstos se persigan de oficio.
 
 VIII. Capacitar a los servidores públicos adscritos en materia de derechos humanos de las mujeres y de perspectiva de género, particularmente a aquellos que intervengan en la atención de víctimas.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IX. Participar, dentro del ámbito de su competencia, en la Red Interinstitucional de Atención a Hombres que ejercen Violencia de Género.
 
 ###### Artículo 13.
 
@@ -275,7 +331,7 @@ La Secretaría General de Gobierno, en el ámbito de su competencia, tendrá las
 
 I. Coordinar las acciones del sistema estatal y supervisar el cumplimiento del programa especial.
 
-II. Solicitar a la autoridad federal competente, en casos de violencia feminicida y previo acuerdo con el Gobernador del estado, la emisión de la declaratoria de alerta de violencia de género en el estado, en los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+II. (DEROGADA, D.O. 20 DE DICIEMBRE DE 2017)
 
 III. Vigilar que las dependencias y entidades de la Administración Pública estatal cumplan con las medidas de atención previstas en esta ley.
 
@@ -329,7 +385,9 @@ Secretaría de Educación
 
 La Secretaría de Educación, en el ámbito de su competencia, tendrá las atribuciones siguientes:
 
-I. Impulsar programas educativos en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres; el respeto a su dignidad; así como la modificación de los modelos de conducta sociales y culturales que impliquen prejuicios y estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+I. Impulsar programas educativos en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres; el respeto a su dignidad; así como la modificación de los modelos de conducta sociales y culturales que impliquen prejuicios y estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres, así como sobre educación sexual.
 
 II. Implementar mecanismos de detección, denuncia y canalización de la violencia contra las mujeres dentro de los centros educativos, así como darle seguimiento hasta concluir el proceso.
 
@@ -403,7 +461,11 @@ IV. Promover, en coordinación con el Instituto para la Igualdad entre Mujeres y
 
 V. Diseñar campañas de difusión para impulsar la igualdad de género salarial y prevenir que las empresas exijan certificados de no gravidez para otorgar empleos.
 
-VI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VI. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género.
+
+VII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADO SU EPÍGRAFE, D.O. 4 DE MARZO DE 2016)</small>
 
@@ -437,7 +499,15 @@ X. Proponer las medidas de atención que deberán instrumentar las autoridades q
 
 XI. Promover una imagen de las mujeres libres de prejuicios y estereotipos, así como la eliminación del lenguaje sexista o misógino.
 
-XII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XII. Implementar políticas públicas orientadas a los agresores y encaminadas a la erradicación de los estereotipos que permiten la perpetuación de los patrones de conducta que legitiman la violencia de género.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XIII. Supervisar y coordinar las actividades de la Red Interinstitucional de Atención a Hombres que ejercen Violencia de Género.
+
+XIV. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 22.
 
@@ -445,7 +515,9 @@ Sistema para el Desarrollo Integral de la Familia en Yucatán
 
 El Sistema para el Desarrollo Integral de la Familia en Yucatán, en el ámbito de su competencia, tendrá las atribuciones siguientes:
 
-I. Proporcionar atención psicológica y legal, especializada y gratuita, a las mujeres que sean víctimas de violencia familiar.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+I. Proporcionar atención psicológica y legal, especializada y gratuita, a las mujeres que sean víctimas de violencia familiar, que favorezcan su empoderamiento y reparen el daño causado por dicha violencia.
 
 > <small>(REFORMADA, D.O. 4 DE MARZO DE 2016)</small>
 
@@ -487,7 +559,11 @@ V. Celebrar convenios con las autoridades federales, estatales y municipales par
 
 VI. Instalar y administrar refugios temporales para las víctimas.
 
-VII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VII. Implementar políticas públicas orientadas a los agresores y encaminadas a la erradicación de los estereotipos que permiten la perpetuación de los patrones de conducta que legitiman la violencia de género.
+
+VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ### Capítulo III. Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres
 
@@ -523,33 +599,45 @@ IX. Proponer acciones para hacer efectivo el programa especial y esta ley.
 
 X. Impulsar campañas de difusión para dar a conocer a la población en general, las formas de expresión de la violencia contra las mujeres, sus efectos en las víctimas, así como las acciones para su prevención y erradicación.
 
-XI. Aprobar su reglamento interior y demás normatividad interna que requiera para el cumplimiento de su objeto.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
-XII. Las demás previstas en esta ley y otras disposiciones legales y normativas aplicables.
+XI. Aprobar su reglamento interior y demás normativa interna que requiera para el cumplimiento de su objeto, así como la relacionada con la Red Interinstitucional de Atención a Hombres que ejercen Violencia de Género.
+
+> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XII. Presentar por escrito un informe anual al H. Congreso del Estado.
+
+XIII. Las demás previstas en esta ley y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 27.
 
 Integración del consejo estatal
 
-El consejo estatal se integrará de la manera siguiente:
+El consejo estatal se integrará por quien ejerza la titularidad de:
 
-I. El Secretario General de Gobierno, quien lo presidirá
+I. La Secretaría General de Gobierno, quien lo presidirá.
 
-II. El Secretario de Salud.
+II. La Secretaría de Salud.
 
-III. El Secretario de Educación.
+III. La Secretaría de Educación.
 
-IV. El Secretario de Desarrollo Social.
+IV. La Secretaría de Desarrollo Social.
 
-V. El Secretario de Seguridad Pública.
+V. La Secretaría de Seguridad Pública.
 
-VI. El Fiscal General del Estado.
+VI. La Fiscalía General del Estado.
 
-VII. El Secretario del Trabajo y Previsión Social.
+VII. La Secretaría del Trabajo y Previsión Social.
 
-VIII. El Director General del Sistema para el Desarrollo Integral de la Familia en Yucatán.
+VIII. El Sistema para el Desarrollo Integral de la Familia en Yucatán.
 
-IX. El Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Yucatán.
+IX. La Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+X. El Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Yucatán.
+
+XI. Tres organizaciones de la sociedad civil, debidamente constituidas conforme a la legislación aplicable y con actividad acreditada en temas de violencia contra las mujeres, que serán designados por medio de convocatoria, y durarán cuatro años en el cargo.
 
 > <small>(REFORMADO, D.O. 4 DE MARZO DE 2016)</small>
 
@@ -559,27 +647,31 @@ Secretaria ejecutiva
 
 El consejo estatal contará con una secretaria ejecutiva, con derecho a voz y voto, que será la Directora General del Instituto para la Igualdad entre Mujeres y Hombres en Yucatán.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
 Invitados
 
-El presidente podrá invitar a las sesiones del consejo estatal, procurando la participación de las mujeres, a las personas siguientes:
+La persona que presida el consejo estatal podrá invitar a las sesiones de este, procurando la participación de las mujeres, a las personas siguientes:
 
-I. Los titulares de los organismos o dependencias municipales encargados de la protección de los derechos humanos de las mujeres, cuando los temas a tratar en las sesiones sean de su competencia.
+I. Quien ejerza la titularidad de los organismos o dependencias municipales encargados de la protección de los derechos humanos de las mujeres, cuando los temas a tratar en las sesiones sean de su compentencia (sic).
 
-II. El presidente de la Comisión de Derechos Humanos del Estado de Yucatán.
+II. Quien presida la Comisión de Derechos Humanos del Estado de Yucatán.
 
-III. Los representantes de instituciones académicas y organizaciones de la sociedad civil.
+III. Representantes de instituciones académicas y organizaciones de la sociedad civil.
 
-IV. Los expertos o personas de reconocido prestigio en la materia.
+IV. Expertos o personas de reconocido prestigio en la materia.
 
 Los invitados participarán con derecho a voz, pero no a voto.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 30.
 
 Suplencias
 
-Los integrantes del consejo estatal deberán designar a los funcionarios que los sustituirán en casos de ausencia, los cuales deberán tener, al menos, el rango de director o su equivalente.
+Quienes integren el consejo estatal deberán designar a los funcionarios que los sustituirán en casos de ausencia, los cuales deberán tener, al menos, el rango de director o su equivalente.
 
 ###### Artículo 31.
 
@@ -587,13 +679,15 @@ Carácter de los cargos
 
 Los cargos de los integrantes del consejo estatal son de carácter honorífico, por tanto, quienes lo ocupen no recibirán retribución alguna por su desempeño.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 32.
 
 Cuórum
 
-Las sesiones serán válidas con la asistencia de la mitad más uno de los integrantes del consejo estatal.
+Las sesiones serán válidas con la asistencia de la mitad más uno de quienes integran el consejo estatal.
 
-Los acuerdos se tomarán por el voto de la mayoría simple que asista a la sesión de que se trate. En caso de empate, el presidente tendrá voto de calidad.
+Los acuerdos se tomarán por el voto de la mayoría simple que asista a la sesión de que se trate. En caso de empate, quien presida el consejo estatal tendrá voto de calidad.
 
 ###### Artículo 33.
 
@@ -660,6 +754,14 @@ El Gobernador del estado podrá prescindir de la expedición del programa especi
 Ejecución del programa especial
 
 Las autoridades encargadas de la ejecución del programa especial deberán considerar en su presupuesto anual las previsiones correspondientes y sujetar su actuación a la disponibilidad presupuestaria.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 39 Bis.
+
+Objeto de la red
+
+El consejo estatal, para el cumplimiento de su objeto y sus atribuciones, contará con la Red Interinstitucional de Atención a Hombres que Ejercen Violencia de Género, que tendrá por objeto la promoción de acciones interinstitucionales para la prevención, detección y atención de los hombres que ejercen la violencia de género; la capacitación de servidores públicos y la sensibilización de la sociedad en general en los derechos de esta ley; y para el desarrollo de políticas públicas que impulsen la erradicación de los estereotipos de género que permiten la perpetuación de patrones de conducta que legitiman la violencia de género.
 
 ## Título tercero. Atención a víctimas
 
@@ -929,7 +1031,9 @@ VI. Asesoría jurídica.
 
 VII. Apoyo psicológico.
 
-VIII. Programas reeducativos.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VIII. Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada.
 
 IX. Capacitación laboral.
 
@@ -958,6 +1062,10 @@ Los centros de reeducación deberán ubicarse y funcionar en lugar diferente de 
 Asistencia a los centros de reeducación
 
 Los centros de reeducación únicamente admitirán a los agresores que asistan de manera voluntaria o por disposición judicial.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+El agresor deberá participar obligatoriamente en los programas de reeducación integral, cuando así se determine por mandato de la autoridad judicial competente.
 
 ###### Artículo 65.
 
@@ -1126,3 +1234,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Artículo segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 555/2017 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Aprobación de normativa interna
+
+El Consejo Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres deberá aprobar la normativa interna de la Red Interinstitucional de Atención a Hombres que Ejercen Violencia de Género dentro de un plazo de noventa días naturales contado a partir de la entrada en vigor de este decreto.
