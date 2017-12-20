@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2017-11-08"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -49,17 +49,21 @@ Es de observancia general en todo el Estado de Nuevo León y las disposiciones q
 
 La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las Leyes que rigen a dichas instituciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 2.
 
-Todo individuo tiene derecho a recibir educación de calidad y, por lo tanto, todos los habitantes del Estado de Nuevo León, tienen las mismas oportunidades de acceso al sistema educativo estatal, con solo satisfacer los requisitos que establezcan las disposiciones generales aplicables. La educación que se imparta en la entidad, tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+Todo individuo tiene derecho a recibir educación de calidad y, por lo tanto, todos los habitantes del Estado de Nuevo León, tienen las mismas oportunidades de acceso, tránsito y permanencia al sistema educativo estatal, con solo satisfacer los requisitos que establezcan las disposiciones generales aplicables, debiendo garantizar el acceso a la educación básica y media superior aun cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad.
 
-La educación es medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad, y es factor determinante para la adquisición de conocimientos para formar a los hombres y mujeres de manera que tengan sentido de solidaridad social.
+La autoridad educativa brindará las facilidades necesarias para la obtención de documentación requeridas para cursar la educación básica y media superior, para la ubicación por grado, ciclo escolar o nivel educativo que corresponda conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y en su caso, saber previa evaluación de los educandos.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+La autoridad educativa promoverá acciones similares para el caso de la educación superior.
 
-En el sistema educativo estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social privilegiando la participación de los educandos, padres de familia, autoridades educativas y docentes para alcanzar los fines y objetivos a que se refiere el Artículo 7º de esta Ley.
+La educación que se imparta en la entidad, tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+
+La educación es el medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la trasformación de la sociedad, y es factor determinante para la adquisición de conocimientos para formar a los hombres y mujeres de manera que tengan sentido de solidaridad social.
+
+En el sistema educativo estatal deberá asegurarse la participación activa de todos los involucrados en el proceso educativo, con sentido de responsabilidad social privilegiando la participación de los educandos, padres de familia, autoridades educativas y docentes para alcanzar los fines y objetivos a que se refiere el Artículo 7 de esta Ley.
 
 ###### Artículo 3.
 
@@ -271,19 +275,21 @@ El Gobierno Estatal y los Ayuntamientos podrán celebrar convenios entre ellos o
 
 #### SECCIÓN 1. DE LA EQUIDAD EN LA EDUCACIÓN
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 13.
 
-Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos, así como, a los beneficios del desarrollo.
-
-La autoridad educativa implementará programas especiales, que prevengan y atiendan de forma permanente los casos de ausentismo y deserción escolar de las niñas y los niños, con el fin de lograr su reintegración inmediata al sistema estatal de educación básica. En todos los casos informarán a la Procuraduría de la Defensa del Menor y la Familia para que en ejercicio de sus atribuciones legales coadyuve a que los menores ocurran a su instrucción básica.
+Las autoridades educativas tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, el logro de la efectiva igualdad en oportunidades de acceso, tránsito y permanencia en los servicios educativos, así como, a los beneficios del desarrollo.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
+La autoridad educativa implementará programas especiales, que prevengan y atiendan de forma permanente los casos de ausentismo y deserción escolar de las niñas y los niños, con el fin de lograr su reintegración inmediata al sistema estatal de educación básica. En todos los casos informarán a la Procuraduría de la Defensa del Menor y la Familia para que en ejercicio de sus atribuciones legales coadyuve a que los menores ocurran a su instrucción básica.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 14.
 
-Para garantizar el acceso y la permanencia de los individuos en los servicios educativos, las medidas señaladas en el Artículo anterior estarán dirigidas, de manera preferente, a los grupos y regiones con mayor rezago educativo o que enfrenten condiciones de desventajas económicas, sociales, u otras, considerando las características particulares de los grupos y regiones, en términos de lo dispuesto por los Artículos 7° y 8° de esta Ley.
+Para garantizar el acceso, tránsito y la permanencia de los individuos en los servicios educativos, las medidas señaladas en el Artículo anterior estarán dirigidas, de manera preferente, a quienes pertenezcan a los grupos y regiones con mayor rezago educativo disperso o que enfrenten situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o situación migratoria, considerando también las características particulares de los grupos y regiones, en términos de lo dispuesto por los Artículos 7 y 8 de esta Ley.
 
 ###### Artículo 15.
 
@@ -445,9 +451,13 @@ III.- Ajustar en su caso, el calendario escolar para cada ciclo lectivo de la ed
 
 IV.- Prestar los servicios de formación, actualización, capacitación y superación profesional para los maestros de educación básica, de conformidad con lo dispuesto por la Ley General del Servicio Profesional Docente;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-V.- Revalidar y otorgar equivalencias de estudio de la educación preescolar, primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida;
+V.- Revalidar y otorgar equivalencias de estudio de la educación preescolar, primaria, secundaria, la normal y demás para la formación de maestros de educación básica, de acuerdo con los lineamientos generales que la Secretaría de Educación Pública expida; de igual forma, promover la simplificación de dichos procedimientos atendiendo a los principios de celeridad, imparcialidad, flexibilidad y asequibilidad.
+
+Asimismo, podrán autorizar o delegar, según sea el caso, que las instituciones particulares con validez oficial de estudios, y las públicas que no cuenten con autorización expresa en su normativa, otorguen revalidaciones y equivalencias parciales respecto de los planes y programas de estudios que imparten, siempre que estén de acuerdo a los lineamientos y criterios que la secretaria expida en términos del artículo 115 de esta Ley. Las autorizaciones que otorgue la autoridad educativa podrán ser revocadas cuando existe algún incumplimiento a los lineamientos que señale la autoridad educativa. Lo anterior con independencia de las infracciones que pudieran configurarse, en término de lo previsto en el capítulo VIII de esta Ley.
+
+Las constancias de revalidación que otorguen deberán ser registradas ante el Sistema de Información y Gestión Educativa bajo el procedimiento y formato que determine la autoridad educativa.
 
 VI.- Otorgar, negar y revocar autorización a los particulares para impartir la educación inicial, básica, normal y demás para la formación de maestros de educación básica;
 
@@ -489,27 +499,27 @@ XIV.- Participar en la integración y operación de un sistema nacional de educa
 
 XV.- Participar con la Secretaría de Educación Pública en la operación de los mecanismos de administración escolar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
 
 XVI.- Promover la congruencia de los planes, programas y acciones que emprenda con las directrices que, con base en los resultados de la evaluación, emita el Instituto Nacional para la Evaluación de la Educación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+XVII.- Disponer que en los planteles de educación básica el número de alumnos en cada grupo de clase no exceda de 30, con excepción de los grupos de educación especial;
 
-XVII.- Disponer que en los planteles de educación básica el número de alumnos en cada grupo de clase no exceda de 30, con excepción de los grupos de educación especial; y
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVIII.- Participar con la Secretaria de Educación en el cumplimiento de la fracción VIII Bis del artículo 12 de la Ley General de Educación referente a las normas de control escolar como facilitadoras del proceso de inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2015)</small>
 
-XVIII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+XIX.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 22.
 
-Adicionalmente a las atribuciones exclusivas a que se refiere el Artículo anterior de esta Ley, a la autoridad educativa estatal y de manera concurre (sic) con la autoridad educativa federal, le corresponde el ejercicio de las siguientes atribuciones:
+Adicionalmente a las atribuciones exclusivas a que se refiere el artículo anterior de esta Ley, a la autoridad educativa estatal y de manera concurrente con la autoridad educativa federal, le corresponde el ejercicio de las siguientes atribuciones:
 
 I.- Determinar y formular planes y programas de estudio distintos a los de la educación básica obligatoria y a los de la formación de maestros de educación básica, además promover y prestar servicios educativos distintos de los previstos en las fracciones I y IV del Artículo 22, de acuerdo con las necesidades nacionales, regionales y estatales;
 
@@ -575,13 +585,17 @@ XVII.- Instrumentar un sistema accesible a los ciudadanos y docentes para la pre
 
 XVIII.- Diseñar y aplicar programas y acciones tendientes a fortalecer la autonomía de gestión de las escuelas, acorde a los lineamientos que expida la Secretaría de Educación Pública;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2017)</small>
+(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE DICIEMBRE DE 2017
 
-XIX.- Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento a través de los planes y programas de estudio; y
+XIX.- Fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo, para apoyar el aprendizaje de los estudiantes, ampliar sus competencias para la vida y favorecer su inserción en la sociedad del conocimiento a través de los planes y programas de estudio;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XX.- Suscribir con las autoridades correspondientes los acuerdos y convenios que faciliten la inscripción, reinscripción, y el transito nacional e internacional de estudiantes en nuestra entidad; y
 
 > <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2017)</small>
 
-XX.- Las demás que con tal carácter establezca esta Ley y las otras disposiciones legales aplicables.
+XXI.- Las demás que con tal carácter establezca esta Ley y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2017)</small>
 
@@ -895,9 +909,13 @@ IV.- Crear un paquete común garantizado de acciones concretas y medibles para l
 
 La educación secundaria comprende tres grados educativos. Se orienta por el plan y programas de estudio establecidos por la autoridad educativa federal y los fines y criterios establecidos en los Artículos 7° y 8° de esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 48.
 
-La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas para responder a las necesidades de la población rural dispersa y a las características lingüísticas y culturales de cada uno de los grupos indígenas y migratorios que habitan en el estado. Para tal efecto, se promoverá entre estos últimos la educación bilingüe e intercultural, con libros y materiales didácticos, además del español en su lengua materna.
+La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas para responder a las necesidades de la población rural dispersa y a las características lingüísticas y culturales de cada uno de los grupos indígenas y migratorios que habitan en el Estado. Para tal efecto, se promoverá entre estos últimos la educación bilingüe e intercultural, con libros y materiales didácticos, además del español en su lengua materna.
+
+Para el caso de los servicios educativos correspondientes a los tipos medio superior y superior, las autoridades educativas promoverán acciones similares.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -1621,9 +1639,11 @@ II.- Con instalaciones, infraestructura y equipamiento que satisfagan las condic
 
 III.- Con planes y programas de estudio que la autoridad educativa considere procedentes, en el caso de educación distinta de la educación preescolar, primaria, secundaria, la normal y demás para la formación de docentes de educación básica.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 108.
 
-La autoridad educativa estatal publicará en el mes de enero de cada año en el órgano informativo oficial correspondiente, una relación de las instituciones a las que haya concedido autorización o reconocimiento de validez oficial de estudios durante el año anterior a la publicación. Asimismo, publicará oportunamente y en cada caso, la inclusión o la supresión del acuerdo por el que se otorguen, nieguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
+La autoridad educativa estatal publicará en el mes de enero de cada año en el órgano informativo oficial correspondiente y en sus portales electrónicos, una relación de las instituciones a las que haya concedido autorización o reconocimiento de validez oficial de estudios durante el año anterior a la publicación, así como de aquellas a las que hayan autorizado a revalidar o equiparar estudios. Asimismo, publicará oportunamente y en cada caso, la inclusión o la supresión del acuerdo por el que se otorguen, nieguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
 Los particulares que impartan estudios con autorización o con reconocimiento deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
 
@@ -1697,17 +1717,21 @@ Además, deberán contar con personal que acredite la preparación adecuada para
 
 ### CAPÍTULO VII. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 114.
 
-Los estudios realizados en el sistema educativo estatal tendrán validez en toda la República con fundamento en lo establecido en la Ley General.
+Los estudios realizados en el sistema educativo estatal tendrán validez en toda la Republica con fundamento en lo establecido en la Ley General.
 
-Las instituciones del sistema educativo estatal, conforme a los lineamientos que establezcan las autoridades educativas, expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos a las personas que hayan concluido estudios de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes.
+Las instituciones del sistema educativo estatal, conforme a los lineamientos que establezcan las autoridades educativas, expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos, estos deberán registrarse en el Sistema de Información y Gestión Educativa y entregárseles a las personas que hayan concluido estudios de conformidad con los requisitos establecidos en los planes y programas de estudio correspondientes.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 115.
 
 Los estudios realizados fuera del sistema educativo nacional podrán adquirir validez oficial, mediante su revalidación, siempre y cuando sean equiparables con estudios realizados dentro de dicho sistema.
 
-La revalidación podrá otorgarse por niveles educativos, por grados escolares, o por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
+La revalidación podrá otorgarse por niveles educativos, por grados escolares, ciclos o por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva, la cual deberá facilitar el tránsito de educandos en el sistema Educativo Nacional.
 
 ###### Artículo 116.
 
@@ -2052,3 +2076,13 @@ P.O. 8 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM 307. SE REFORMAN LAS FRACCIONES III Y IV; Y POR ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 20 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚM. 308. "SE REFORMA POR MODIFICACIÓN LOS ARTÍCULOS 2; 13 PRIMER PÁRRAFO; 14; 21 FRACCIÓN V; 22 PRIMER PÁRRAFO, ASÍ COMO SU FRACCIÓN XVII; 48; 108 PRIMER PÁRRAFO; 114 Y 115; SE ADICIONA UNA FRACCIÓN XVII PASANDO LA ACTUAL A SER XIX DEL ARTÍCULO 21 Y SE ADICIONA UNA FRACCIÓN XX RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 22, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Primero.- El presente Decreto entrara en vigor el día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan cualquier disposición que se contraponga al presente Decreto.
+
+Tercero.- Dentro de los 180 días naturales al inicio de la vigencia del presente Decreto, la Secretaria de Educación del Estado, llevará a cabo la modificación a su normativa interna para el cumplimiento de este Decreto.
