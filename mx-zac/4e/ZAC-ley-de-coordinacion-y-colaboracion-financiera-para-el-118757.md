@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-y-colaboracion-financiera-para-el-118757"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2016-12-31"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "ZAC"
 ---
 # LEY DE COORDINACION Y COLABORACION FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Gobierno del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -43,7 +47,7 @@ RESULTANDO TERCERO. El proponente justificó su iniciativa, bajo la siguiente:
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[.]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo se
 
@@ -79,7 +83,11 @@ Para efectos de esta Ley se entenderá por:
 
 I. Año base. Corresponde al año 2016, como ejercicio de punto de partida y comparación, para el crecimiento de los Municipios en esfuerzo recaudatorio por el cobro de las contribuciones relativas al Impuesto Predial y Derechos de Agua;
 
-II. Asamblea. Asamblea Hacendaría del Estado;
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. ASAMBLEA. ASAMBLEA FINANCIERA DEL ESTADO;
 
 III. Comité. El Comité de Operación Financiera;
 
@@ -109,7 +117,11 @@ XV. SEDESOL. A la Secretaría de Desarrollo Social del Estado de Zacatecas;
 
 XVI. Secretaría. La Secretaría de Finanzas, del Gobierno del Estado de Zacatecas; y
 
-XVII. Sistema de Coordinación. El Sistema Estatal de Coordinación Financiera.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XVII. SISTEMA DE COORDINACIÓN. SISTEMA ESTATAL DE COORDINACIÓN Y COLABORACIÓN FINANCIERA.
 
 ###### Artículo 3.
 
@@ -183,23 +195,47 @@ II. El Comité de Operación Financiera.
 
 La Asamblea estará integrada por el titular del Poder Ejecutivo del Estado, el Secretario de Finanzas, los Presidentes Municipales y el Auditor Superior del Estado.
 
-La reunión se llevará a cabo con base en lo siguiente:
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTE PÁRRAFO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 I. El titular del Poder Ejecutivo del Estado, será miembro honorifico de la Asamblea;
 
-II. El Secretario de Finanzas, fungirá como Presidente y podrá ser suplido por el Subsecretario de Ingresos;
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-III. El Director de Coordinación Hacendaria de la Secretaría, será el Secretario de Actas y Acuerdos;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. EL SECRETARIO DE FINANZAS, FUNGIRÁ COMO PRESIDENTE Y PODRÁ SER SUPLIDO POR EL FUNCIONARIO QUE ÉL DESIGNE;
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. EL DIRECTOR DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DE LA SECRETARÍA, SERÁ EL SECRETARIO DE ACTAS Y ACUERDOS;
 
 IV. El Auditor Superior del Estado, quien podrá ser suplido por el Director de Auditoría Financiera a Municipios; y
 
-V. Por parte de los Municipios asistirán sus respectivos Presidentes Municipales, quienes podrán ser suplidos por los tesoreros o su equivalente.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+V. POR PARTE DE LOS MUNICIPIOS SERÁN LOS TESOREROS O SU EQUIVALENTE;
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VI. EL SUBSECRETARIO DE INGRESOS DE LA SECRETARÍA, QUIEN FUNGIRÁ COMO COORDINADOR TÉCNICO.
 
 ###### Artículo 9.
 
 La Asamblea tendrá por lo menos una sesión ordinaria en cada ejercicio fiscal, previa convocatoria por escrito de su Presidente, quien de igual forma podrá convocar a sesiones extraordinarias, ya sea a solicitud del Comité o de la propia Secretaría.
 
-La convocatoria emitida debe ser entregada por lo menos 10 días hábiles antes de la celebración de la sesión, en la cual se determinará expresamente el lugar y la hora de la sesión.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+LA CONVOCATORIA EMITIDA DEBE SER ENTREGADA POR LO MENOS 5 DÍAS HÁBILES ANTES DE LA CELEBRACIÓN DE LA SESIÓN, EN LA CUAL SE DETERMINARÁ EXPRESAMENTE EL LUGAR Y LA HORA DE LA SESIÓN.
 
 ###### Artículo 10.
 
@@ -215,9 +251,17 @@ La Asamblea tendrá las siguientes facultades:
 
 I. Realizar, en forma permanente, el análisis y estudio de la normatividad estatal y municipal relativa a sus respectivas haciendas;
 
-II. Aprobar el reglamento interior de los órganos del Sistema Estatal de Coordinación y Colaboración Financiera;
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-III. Vigilar que los Convenios de Coordinación y de Colaboración Administrativa que celebren el Estado y los Municipios se sujeten a las disposiciones que esta Ley y, otras que le sean aplicables;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. APROBAR EL REGLAMENTO INTERIOR DE LOS ÓRGANOS DEL SISTEMA ESTATAL DE COORDINACIÓN Y COLABORACIÓN FINANCIERA, PROPUESTO POR EL COMITÉ DE OPERACIÓN FINANCIERA;
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. VIGILAR, QUE LOS CONVENIOS DE COORDINACIÓN Y DE COLABORACIÓN ADMINISTRATIVA QUE CELEBREN EL ESTADO Y LOS MUNICIPIOS SE SUJETEN A LAS DISPOSICIONES QUE ESTA LEY U OTRAS QUE LE SEAN APLICABLES;
 
 IV. Acrecentar el fortalecimiento financiero de los Municipios, mediante acciones de coordinación y colaboración tendientes a incentivar y apoyar la eficiencia recaudatoria;
 
@@ -235,15 +279,39 @@ X. Aprobar los programas de capacitación y certificación de funcionarios estat
 
 XI. Realizar todas aquéllas funciones que se desprendan de esta Ley, de los Convenios de Coordinación y de Colaboración Administrativa, así como de los acuerdos que se tomen en la Asamblea.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XII. APROBAR LA CREACIÓN DE LA COMISIÓN CERTIFICADORA DEL ESTADO DE ZACATECAS PARA LOS PROCESOS DE CERTIFICACIÓN DE FUNCIONARIOS ESTATALES Y MUNICIPALES.
+
 ###### Artículo 12.
 
 El Comité se integra conforme a las siguientes reglas:
 
-I. Estará conformado por la Secretaría y diez Municipios del Estado por región, los cuales serán representados por el Tesorero o su equivalente, según corresponda;
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-II. Será presidido conjuntamente por el Secretario, que podrá ser suplido por el Subsecretario de Ingresos, y por el Tesorero o su equivalente del Municipio de la región en donde se lleve a cabo la reunión; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-III. El Director de Coordinación Hacendaría de la Secretaría, quien fungirá como Secretario de Actas y Acuerdos.
+I. DIEZ MUNICIPIOS, UNO POR CADA REGIÓN DEL ESTADO, LOS CUALES SERÁN REPRESENTADOS POR EL TESORERO O SU EQUIVALENTE, SEGÚN CORRESPONDA;
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. EL SECRETARIO DE FINANZAS, QUIEN FUNGIRÁ COMO PRESIDENTE Y PODRÁ SER SUPLIDO POR EL FUNCIONARIO QUE ÉL DESIGNE;
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. EL SUBSECRETARIO DE INGRESOS DE LA SECRETARÍA, QUIEN FUNGIRÁ COMO COORDINADOR TÉCNICO;
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IV. EL DIRECTOR DE COORDINACIÓN Y COLABORACIÓN FINANCIERA DE LA SECRETARÍA, SERÁ EL SECRETARIO DE ACTAS Y ACUERDOS.
 
 Los Municipios a que hace referencia la fracción I de este artículo, se elegirán y ejercerán funciones por orden alfabético, con duración de un año y con base en la distribución siguiente:
 
@@ -267,15 +335,29 @@ Región 9: Apozol, Apulco, Huanusco, Jalpa, Juchipila, Mezquital del Oro, Moyahu
 
 Región 10: Cuauhtémoc, Genaro Codina, Gral. Pánfilo Natera, Loreto, Luis Moya y Ojocaliente.
 
-###### Artículo 13.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-El Comité se reunirá mensualmente para el cumplimiento de sus funciones, a convocatoria realizada por la Secretaría, con base en las reglas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 13.
+
+EL COMITÉ SE REUNIRÁ BIMESTRALMENTE PARA EL CUMPLIMIENTO DE SUS FUNCIONES, A CONVOCATORIA REALIZADA POR LA SECRETARÍA, CON BASE EN LAS REGLAS SIGUIENTES:
 
 I. Lugar de reunión, establecido dentro del territorio del Estado;
 
-II. Notificarse con anticipación de 10 días hábiles; y
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. NOTIFICARSE CON ANTICIPACIÓN DE 5 DÍAS HÁBILES;
 
 III. Incluir una propuesta de orden del día, la que deberá contener la revisión de la distribución y determinación de las participaciones establecidas en el Capítulo I, del Título Cuarto de esta Ley.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IV. EN CASO DE QUE NO PUEDA ASISTIR EL REPRESENTANTE DE REGIÓN, SE TURNARÁ CONVOCATORIA AL TESORERO DEL MUNICIPIO QUE SIGUE EN ORDEN ALFABÉTICO, QUIEN SERÁ EL SUPLENTE PARA LA REUNIÓN A LA CUAL SE LE CONVOQUE.
 
 ###### Artículo 14.
 
@@ -298,6 +380,12 @@ VII. Formular las propuestas de modificación a los criterios de distribución d
 VIII. Vigilar que los Convenios de Coordinación y Colaboración Administrativa que efectúen el Estado y los Municipios se sujeten a las disposiciones de esta Ley y otras que les sean aplicables; y
 
 IX. Sustanciar y resolver las inconformidades que se formulen de acuerdo con el Título Quinto de esta Ley.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+X. PROPONER EL REGLAMENTO INTERIOR DE LOS ÓRGANOS DEL SISTEMA ESTATAL DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA SU APROBACIÓN POR LA ASAMBLEA.
 
 ## TÍTULO TERCERO. COORDINACIÓN Y COLABORACIÓN ADMINISTRATIVA EN INGRESOS Y GASTO PÚBLICO
 
@@ -323,9 +411,13 @@ Los actos u omisiones que impliquen el incumplimiento de los Convenios de Coordi
 
 ### CAPÍTULO II. COORDINACIÓN ADMINISTRATIVA EN INGRESOS
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 19.
 
-El Estado y los Municipios deberán, en materia de coordinación de ingresos, cumplir tanto con las normas contenidas en la Ley de Coordinación como con las disposiciones que se contienen en el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, en el Convenio de Colaboración Administrativa con sus anexos, y en la Declaratoria de Coordinación en materia Federal de Derechos entre la Federación y el Estado de Zacatecas.
+El Estado y los Municipios deberán, en materia de coordinación de ingresos, cumplir tanto con las normas contenidas en la Ley de Coordinación como con las disposiciones que se contienen en el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, en el Convenio de Colaboración Administrativa en Materia Fiscal Federal con sus anexos, y en la Declaratoria de Coordinación en materia Federal de Derechos entre la Federación y el Estado de Zacatecas.
 
 ###### Artículo 20.
 
@@ -427,9 +519,13 @@ IV. A fondos constituidos para apoyar proyectos de infraestructura concesionada 
 
 V. Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, derivado de convenios de gasto firmados entre la Federación, Estado y Municipios.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-Para los efectos de esta Ley, el proceso administrativo del gasto público comprende las funciones de planeación, programación, presupuestación, aprobación, ejecución, control, evaluación y transparencia, de los recursos que se destinan al ejercicio del gasto coordinado entre el Estado y los Municipios, aplicando los momentos contables, con base en lo establecido la Ley General de Contabilidad Gubernamental.
+Para los efectos de esta Ley, el proceso administrativo del gasto público comprende las funciones de planeación, programación, presupuestación, aprobación, ejecución, control, evaluación y transparencia, de los recursos que se destinan al ejercicio del gasto coordinado entre el Estado y los Municipios, aplicando los momentos contables, con base en lo establecido en la Ley General de Contabilidad Gubernamental.
 
 ###### Artículo 28.
 
@@ -511,37 +607,73 @@ La parte que transfiera sus facultades en materia de gasto público, tendrá la 
 
 ### CAPÍTULO I. PARTICIPACIONES
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 33.
 
-De las cantidades que perciba el Estado dentro del ejercicio de que se trate, por concepto de participaciones federales, se constituirá el “Fondo Único de Participaciones”, el cual se integra con base en lo siguiente:
+De las cantidades que perciba el Estado dentro del ejercicio de que se trate, por concepto de participaciones federales, se distribuirá a los municipios con base en lo siguiente:
 
-I. El 23% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-II. El 100% de los recursos provenientes del Fondo de Fomento Municipal;
+I. El Fondo Único de Participaciones, el cual se integra de la forma siguiente:
 
-III. El 23% del monto percibido por el Estado, de la Recaudación Federal del Impuesto Especial Sobre Producción y Servicios;
+a) El 22% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General;
 
-IV. El 23% de la recaudación del Estado del Impuesto Sobre Automóviles Nuevos;
+b) El 100% de los recursos provenientes del Fondo de Fomento Municipal;
 
-V. El 23% del Fondo de Fiscalización y Recaudación;
+c) El 22% del monto percibido por el Estado, de la Recaudación Federal del Impuesto Especial Sobre Producción y Servicios;
 
-VI. El 20% del Fondo del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolina y diésel:
+d) El 22% de la recaudación del Estado del Impuesto Sobre Automóviles Nuevos;
 
-a) 9/ 11 del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolina y diésel, que se distribuye entre todas las Entidades Federativas; y
+e) El 22% del Fondo de Fiscalización y Recaudación;
 
-b) 2/11 del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolina y diésel, que se distribuye entre las 10 Entidades Federativas que, de acuerdo a la última información oficial del Instituto Nacional de Estadística y Geografía, tengan los menores niveles de Producto Interno Bruto per cápita no minero y no petrolero.
+f) El 22% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos; y
 
-Los subfondos establecidos en la presente fracción, se determinarán y distribuirán con base en lo dispuesto en el penúltimo párrafo del artículo 4-A de la Ley de Coordinación, aplicando el 30% entre los Municipios, así como en los criterios y bases establecidos para el Fondo único de Participaciones previsto en la presente Ley;
+g) El 100% del Impuesto Sobre la Renta, en los términos establecidos en el artículo 3-B de la Ley de Coordinación.
 
-VII. El 23% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-VIII. El 20% del Impuesto Estatal a la Venta Final de Bebidas con Contenido Alcohólico, establecido en la Ley de Hacienda del Estado de Zacatecas; y
+II. El 20% del Fondo del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolinas y diesel:
 
-IX. El 100% del Impuesto Sobre la Renta, en los términos establecidos en el artículo 3-B de la Ley de Coordinación.
+a) 2/11 del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolinas y diesel, que se distribuye entre las 10 Entidades Federativas que, de acuerdo a la última información oficial del Instituto Nacional de Estadística y Geografía, tengan los menores niveles de Producto Interno Bruto per cápita no minero y no petrolero.
 
-###### Artículo 34.
+b) 9/11 del Impuesto Especial Sobre Producción y Servicios aplicado a la venta final de gasolinas y diesel, que se distribuye entre todas las Entidades Federativas; y
 
-La distribución del Fondo Único de Participaciones a los Municipios, se determinará conforme a lo siguiente:
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. El Fondo de Estabilización Financiera, el cual se integra de la forma siguiente:
+
+a) El 1% de las cantidades que el Estado reciba por concepto de participaciones del Fondo General;
+
+b) El 1% del monto percibido por el Estado, de la Recaudación Federal del Impuesto Especial Sobre Producción y Servicios;
+
+c) El 1% de la recaudación del Estado del Impuesto Sobre Automóviles Nuevos;
+
+d) El 1% del Fondo de Fiscalización y Recaudación;
+
+e) El 1% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
+
+IV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+
+V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+
+VI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+
+VII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+
+VIII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+
+IX. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 34.
+
+LA DISTRIBUCIÓN DEL FONDO ÚNICO DE PARTICIPACIONES A LOS MUNICIPIOS QUE ESTABLECE EL ARTÍCULO 33 FRACCIÓN I DE ESTA LEY, SE DETERMINARÁ CONFORME A LO SIGUIENTE:
 
 > <small>[N. DE E. VÉASE FÓRMULAS EN EL SUPLEMENTO AL P.O. DE 31 DE DICIEMBRE DE 2016, PÁGINA 36.]</small>
 
@@ -549,9 +681,17 @@ Donde:
 
 FuPít Es la participación del fondo al que se refiere este artículo del municipio i en el año t.
 
-FuPi, 16. Es la participación del fondo al que se refiere este artículo que el municipio i recibió en el año base.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-AFuP16, t. Es el crecimiento en el fondo al que se refiere este artículo entre el año base y el periodo t.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+FUPI, 16. ES LA PARTICIPACIÓN DEL FONDO AL QUE SE REFIERE ESTE ARTÍCULO QUE EL MUNICIPIO I RECIBIÓ EN EL AÑO BASE, CONSIDERANDO PARA ELLO LO ESTABLECIDO EN EL ARTÍCULO 33 FRACCIÓN I, INCISOS A), B), C), D), E) Y F).
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+AFUP16, T. ES EL CRECIMIENTO EN EL FONDO AL QUE SE REFIERE ESTE ARTÍCULO ENTRE EL AÑO BASE Y EL PERIODO T, CONSIDERANDO PARA ELLO LO ESTABLECIDO EN EL ARTÍCULO 33 FRACCIÓN I, INCISOS A), B), C), D), E) Y F).
 
 IP. Es el Coeficiente Impuesto Predial para distribución del 50% del excedente del Fondo Único de Participaciones con respecto al año base del municipio i en el año t en que se efectúa el cálculo.
 
@@ -561,17 +701,59 @@ RP. Es la recaudación del impuesto predial, que registren un flujo de efectivo,
 
 RA. Es la recaudación de los derechos de agua, que registren un flujo de efectivo, del municipio i en el año t, que corresponde al inmediato anterior al que se efectúa el cálculo del fondo al que se refiere este artículo, reportada en los formatos que emita la Secretaría.
 
-? Es la suma sobre todos los Municipios de la variable que le sigue.
+--- (sic) Es la suma sobre todos los Municipios de la variable que le sigue.
 
 i
 
 Cuando en el ejercicio que corresponda la distribución del Fondo establecido en el artículo 33 de la presente Ley, sea menor a lo participado en el ejercicio del año inmediato anterior, los Municipios recibirán las participaciones en proporción a lo transferido en ese mismo ejercicio.
 
-###### Artículo 35.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Las participaciones que correspondan a los Municipios del Fondo que establece el artículo 33 de la presente Ley, se calcularán para cada ejercicio fiscal por la Secretaría y se entregarán mensualmente en términos de lo establecido en lo dispuesto por el artículo 6 de la Ley de Coordinación.
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Durante los primeros tres meses de cada ejercicio, las participaciones del Fondo establecidas en el párrafo que antecede, se calcularán provisionalmente con los coeficientes del ejercicio inmediato anterior, en tanto se obtenga la información necesaria para calcular los nuevos coeficientes establecidos en el artículo 33 de esta Ley.
+###### Artículo 34 Bis.
+
+Para la distribución del Fondo establecido en artículo 33 fracción II de esta Ley, se aplicará el 70% con base en el número de habitantes publicado en la última información oficial por municipio del Instituto Nacional de Estadística y Geografía. El 30% restante se distribuirá aplicando el coeficiente efectivo al monto a distribuir, en los términos establecidos en el artículo 34-Ter del presente ordenamiento.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 34 Ter.
+
+La distribución del Fondo de Estabilización Financiera a los Municipios que establece el artículo 33 fracción III de esta Ley, se determinará del resultado de multiplicar el monto total a distribuir de este fondo por el coeficiente efectivo que corresponda por municipio del fondo establecido en el artículo 34 de este ordenamiento.
+
+Se entenderá como coeficiente efectivo al resultante de dividir las participaciones percibidas a cada uno de los Municipios que les corresponda del Fondo Único de Participaciones, establecido en el artículo 34 de esta Ley, entre el total del citado Fondo Único de Participaciones.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 35.
+
+LAS PARTICIPACIONES QUE CORRESPONDAN A LOS MUNICIPIOS DEL FONDO QUE ESTABLECE EL ARTÍCULO 33 FRACCIÓN I DE LA PRESENTE LEY, SE CALCULARÁN PARA CADA EJERCICIO FISCAL POR LA SECRETARÍA Y SE ENTREGARÁN EN TÉRMINOS DE LO ESTABLECIDO EN LO DISPUESTO POR EL ARTÍCULO 6 DE LA LEY DE COORDINACIÓN.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+DURANTE LOS PRIMEROS TRES MESES DE CADA EJERCICIO, LAS PARTICIPACIONES DEL FONDO ESTABLECIDAS EN EL PÁRRAFO QUE ANTECEDE, SE CALCULARÁ PROVISIONALMENTE CON LOS COEFICIENTES DEL EJERCICIO INMEDIATO ANTERIOR, PARA LO CUAL LOS MUNICIPIOS PREVIAMENTE REPORTARÁN A LA SECRETARÍA A MÁS TARDAR EL 20 DE MARZO DEL EJERCICIO QUE CORRESPONDA AL CÁLCULO, LA INFORMACIÓN RELATIVA AL IMPUESTO PREDIAL Y DERECHOS POR SUMINISTRO DE AGUA, DE NO CUMPLIR CON EL CITADO PLAZO, SE CONSIDERARÁN LAS CIFRAS REPORTADAS EN EL EJERCICIO INMEDIATO ANTERIOR CON UNA DISMINUCIÓN DEL 10 POR CIENTO PARA EFECTOS DE LA DETERMINACIÓN ESTABLECIDA EN EL ARTÍCULO 34 DE ESTA LEY.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+EN CUMPLIMIENTO A LO ESTABLECIDO AL PÁRRAFO ANTERIOR, LA SECRETARÍA REALIZARÁ LOS AJUSTES DE LAS PARTICIPACIONES QUE CORRESPONDAN A LOS MUNICIPIOS DEL FONDO ESTABLECIDO EN EL ARTÍCULO 34, EN EL MES DE ABRIL, EN EL QUE SE INCLUIRÁN LOS ANTICIPOS ENTREGADOS EN EL PRIMER TRIMESTRE DEL EJERCICIO.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 35 Bis.
+
+Las participaciones que correspondan a los Municipios del Fondo que establece el artículo 33 fracción III de la presente Ley, se calcularán mensualmente por la Secretaría, y ésta deberá mantenerlos y depositarlos en una cuenta productiva, cuyos intereses que se generen formarán parte de este Fondo, y se entregará a los Municipios en una sola exhibición en los primeros diez días del mes de diciembre.
+
+La participación correspondiente al mes de diciembre, la Secretaría realizará una estimación que se incluirá en el monto entregado a los Municipios en los términos del párrafo anterior, en caso de haber diferencia se ajustará en el mes de enero del ejercicio siguiente.
 
 ###### Artículo 36.
 
@@ -585,15 +767,23 @@ El Secretario expedirá los acuerdos que contengan la información a que se refi
 
 Cuando las entregas del Fondo establecido en el artículo 33 de esta Ley, no fueren oportunas, sin perjuicio de lo dispuesto por el artículo 8 de la Ley de Coordinación, los Municipios podrán reclamar esta situación ante la Legislatura o ante las instancias establecidas en la propia Ley de Coordinación, quienes dentro de los siguientes cinco días hábiles, conminarán a la Secretaría para que efectúe las entregas en los términos de la presente Ley.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 38.
 
-Las participaciones que correspondan a los Municipios son inembargables, y no pueden ser sujetas a retención. La Secretaría podrá retener las participaciones del Fondo establecido en el artículo 33 de esta Ley, con el consentimiento por escrito de los Ayuntamientos, previa solicitud con copia certificada del acta de la Sesión de Cabildo en que conste que se aprobó por mayoría, para el solo efecto del cumplimiento de las obligaciones contraídas a su cargo, sin perjuicio de lo establecido en el artículo 9 de la Ley de Coordinación.
+Las participaciones que correspondan a los Municipios son inembargables, y no pueden ser sujetas a retención. La Secretaría podrá retener las participaciones del Fondo establecido en el artículo 33 fracciones I y II de esta Ley, con el consentimiento por escrito de los Ayuntamientos, previa solicitud con copia certificada del acta de la Sesión de Cabildo en que conste que se aprobó por mayoría, para el solo efecto del cumplimiento de las obligaciones contraídas a su cargo, los que deriven de convenios con la Secretaría y cuando exista ordenamiento expreso de autoridad competente en caso de incumplimiento de obligaciones, sin perjuicio de lo establecido en el artículo 9 de la Ley de Coordinación.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 39.
 
-Los Municipios podrán recibir anticipos a cuenta de sus participaciones, previa aprobación de la Secretaría, los cuales deberán ser liquidados a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, para estos efectos, los Municipios cubrirán a la Secretaría una tasa de interés equivalente a la que establezca anualmente el Congreso de la Unión para los casos de autorizaciones de pago a plazos de contribuciones.
+Los Municipios podrán recibir anticipos a cuenta de sus participaciones, previa aprobación de la Secretaría, los cuales deberán ser liquidados a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, para estos efectos, los Municipios cubrirán a la Secretaría una tasa de interés equivalente a la que se establezca anualmente en la Ley de Ingresos del Estado para los casos de autorizaciones de pago a plazos de contribuciones.
 
-Los anticipos no se autorizarán durante los últimos tres meses de la administración que solicita.
+Los Municipios podrán recibir anticipos a cuenta de sus participaciones, previa aprobación de la Secretaría, los cuales deberán ser liquidados a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, para estos efectos, los Municipios cubrirán a la Secretaría una tasa de interés equivalente a la que establezca anualmente la Legislatura del Estado en la Ley de Ingresos del ejercicio vigente, para los casos de autorizaciones de pago a plazos de contribuciones.
 
 ###### Artículo 40.
 
@@ -746,3 +936,17 @@ FABIOLA GILDA TORRES RODRÍGUEZ.
 EL SECRETARIO DE FINANZAS
 
 JORGE MIRANDA CASTRO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO TERCERO DEL "DECRETO NO. 273.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+Artículo Único.- Las presentes reformas, adiciones y derogaciones a esta Ley de Coordinación y Colaboración Financiera para el Estado de Zacatecas y sus Municipios, entrarán en vigor el primero de enero del año dos mil dieciocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+## TRANSITORIO
+
+ÚNICO.- El presente Decreto entrará en vigor el 1ro. de enero del 2018, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
