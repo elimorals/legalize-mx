@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2017-11-24"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -887,21 +887,21 @@ IV. Las demás que le asigne el Titular del Poder Ejecutivo del Estado.
 
 Para el ejercicio de las atribuciones que le confiere el Código y el despacho de los asuntos de su competencia, esta Secretaría contará con la siguiente estructura:
 
-I. Subsecretaría de Prevención y Seguridad Pública:
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
-a) (DEROGADO, D.O. 1 DE ENERO DE 2013)
+I. Subsecretaría de Prevención y Reinserción Social:
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+a) Dirección de la Unidad Estatal de Protección Civil;
 
-b) Dirección de la Unidad Estatal de Protección Civil, y
+b) Dirección de Ejecución;
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+c) Dirección del Centro de Reinserción Social de Mérida;
 
-c) Dirección de Ejecución, Prevención y Reinserción Social.
+d) Dirección del Centro de Reinserción Social de Tekax;
 
-d) (DEROGADO, D.O. 1 DE ENERO DE 2013)
+e) Dirección del Centro de Reinserción Social de Valladolid, y
 
-e) (DEROGADO, D.O. 1 DE ENERO DE 2013)
+f) Dirección de Servicios Postpenales.
 
 II. Subsecretaría de Gobierno y Desarrollo Político:
 
@@ -945,21 +945,25 @@ VI. Dirección Jurídica.
 
 La Secretaría General podrá tener los asesores y las unidades administrativas que estime convenientes y le permita su presupuesto autorizado.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 38.
 
-La Secretaría General contará con los siguientes organismos desconcentrados, cuya estructura queda regida por lo que establezca la normatividad específica:
+La Secretaría General de Gobierno contará con los siguientes órganos desconcentrados, que le estarán jerárquicamente subordinados:
 
-I. La Oficina del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, la cual coordinará sus funciones con la Subsecretaría de Prevención y Seguridad Pública;
+I. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, que deberá coordinarse con la Subsecretaría de Prevención y Reinserción Social;
 
-II. El Centro Especializado en la Aplicación de Medidas para Adolescentes, el cual coordinará sus funciones con la Subsecretaría de Prevención y Seguridad Pública.
+II. El Centro Estatal de Información sobre Seguridad Pública, que deberá coordinarse con la Subsecretaría de Prevención y Reinserción Social;
 
-III. El Centro Estatal de Evaluación y Control de Confianza, el cual coordinará sus funciones con la Subsecretaría de Prevención y Seguridad Pública;
+III. El Centro Estatal de Prevención del Delito y Participación Ciudadana, que deberá coordinarse con la Subsecretaría de Prevención y Reinserción Social;
 
-IV. El Centro Estatal de Desarrollo Municipal, el cual coordinará sus funciones con la Subsecretaría de Gobierno y Desarrollo Político, y
+IV. El Centro Estatal de Evaluación y Control de Confianza, que deberá coordinarse con la Subsecretaría de Prevención y Reinserción Social;
 
-V. La Representación del Gobierno del Estado de Yucatán en la Ciudad de México, la cual coordinará sus funciones con la Subsecretaría de Gobierno y Desarrollo Político.
+V. El Centro Especializado en la Aplicación de Medidas para Adolescentes, que deberá coordinarse con la Subsecretaría de Prevención y Reinserción Social;
+
+VI. El Instituto de Desarrollo Regional y Municipal, que deberá coordinarse con la Subsecretaría de Gobierno y Desarrollo Político, y
+
+VII. La Representación del Gobierno del Estado de Yucatán en la Ciudad de México, que deberá coordinarse con la Subsecretaría de Gobierno y Desarrollo Político.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -1005,29 +1009,29 @@ II. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
 
 III. Guardar la relación que conforme a las normas jurídicas aplicables deba tener el Poder Ejecutivo del Estado o esta Secretaría con las autoridades especializadas en justicia para adolescentes.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 40.
 
-Al Subsecretario de Prevención y Seguridad Pública le corresponde el despacho de los siguientes asuntos:
+Al Subsecretario de Prevención y Reinserción Social le corresponde el despacho de los siguientes asuntos:
 
-I. Participar en el Consejo Estatal de Seguridad Pública y ejecutar las acciones que correspondan a esta Secretaría en la materia conforme la normatividad aplicable;
+I. Coordinar la implementación de los mecanismos para la determinación y ejecución de las acciones de prevención, auxilio y restablecimiento para la salvaguarda de las personas, sus bienes, el entorno y el funcionamiento de los servicios necesarios, en los casos de alto riesgo, emergencia o desastre;
 
-II. Coordinar con la Unidad de Protección Civil la implementación de los mecanismos para la determinación y ejecución de las acciones de prevención, auxilio y reestablecimiento (sic) para la salvaguarda de las personas, sus bienes, el entorno y el funcionamiento de los servicios necesarios, en los casos de alto riesgo, emergencia o desastre;
+II. Fungir como autoridad penitenciaria y desempeñar las funciones que para tal efecto establezcan el artículo 15 y otras disposiciones de la Ley Nacional de Ejecución Penal, para lo cual se apoyará en la Dirección de Ejecución;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+III. Planear y coordinar la administración y operación del sistema penitenciario, así como supervisar el adecuado funcionamiento de los centros penitenciarios y de internamiento del estado;
 
-III. Participar conjuntamente con la Dirección de Ejecución, Prevención y Reinserción Social en la planeación y organización de la política criminológico- readaptativa, tanto en materia de prevención del delito como en lo que atañe al tratamiento del delincuente y la ayuda a la víctima;
+IV. Procurar la reinserción social efectiva mediante la implementación de los distintos programas institucionales que, de conformidad con la legislación aplicable, se desarrollen dentro de los centros penitenciarios y de internamiento del estado, y la prestación de servicios postpenales;
 
-IV. Coadyuvar en la vigilancia de la ejecución de las sanciones impuestas por las autoridades judiciales en materia penal y las medidas que se deben aplicar a los adolescentes, conforme a las atribuciones del Ejecutivo del Estado previstas en la normatividad aplicable;
+V. Vigilar, en el ámbito de su competencia, la correcta ejecución de las penas y medidas de seguridad impuestas por el órgano jurisdiccional;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
+VI. Ejecutar y supervisar la prisión preventiva y las sanciones y medidas de seguridad que, de conformidad con las leyes penales, imponga o modifique el órgano jurisdiccional;
 
-V. Procurar el cumplimiento de sistemas de Reinserción Social que permita a los sentenciados su reinserción y capacitación para la convivencia armónica, posterior al cumplimiento de la sanción privativa de libertad, y
+VII. Proporcionar la vigilancia para mantener el orden y la tranquilidad en los centros penitenciarios del estado y las demás instalaciones que determinen las disposiciones legales y normativas aplicables;
 
-VI. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
+VIII. Brindar servicios de mediación para la solución de conflictos interpersonales derivados de las condiciones de convivencia interna en los centros penitenciarios del estado, y de justicia restaurativa, en términos de la Ley Nacional de Ejecución Penal, y
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-VII. Las demás que le encomienden otras disposiciones normativas aplicables.
+IX. Las demás que establezcan, principalmente, para el ejercicio de las atribuciones que, en su carácter de autoridad penitenciaria le correspondan, el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal y otras disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -1035,47 +1039,73 @@ VII. Las demás que le encomienden otras disposiciones normativas aplicables.
 
 La Dirección de la Unidad Estatal de Protección Civil tendrá las atribuciones que le confieren la Ley de Protección Civil del Estado de Yucatán y las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 42.
 
-Al Director de Ejecución, Prevención y Reinserción Social le corresponde el despacho de los siguientes asuntos:
+Al Director de Ejecución le corresponde el despacho de los siguientes asuntos:
 
-I. Planear, organizar, coordinar y dirigir la política de reinserción social que, de acuerdo a la ley de la materia, corresponda a esta Secretaría, tanto en lo que se refiere a la prevención del delito como en lo que atañe al tratamiento del delincuente y la ayuda a la víctima;
+I. Implementar, en el ámbito de su competencia, la política penitenciaria del estado;
 
-II. Vigilar la ejecución de las sanciones impuestas por las autoridades judiciales en materia penal;
+II. Ejercer directamente las atribuciones que le correspondan a la Subsecretaria de Prevención y Reinserción Social, en su carácter de autoridad penitenciaria, salvo que su titular se las reserve;
 
-III. Establecer y mantener actualizado el Registro Estatal de Procesados y Sentenciados;
+III. Coordinar y vigilar el adecuado funcionamiento de los centros penitenciarios y de internamiento del estado y del Centro Especializado en la Aplicación de Medidas para Adolescentes;
 
-IV. Organizar y vigilar el cumplimiento de sistemas de reinserción social que permita a las personas puestas a disposición del Ejecutivo del Estado, su reinserción y capacitación para la convivencia armónica, posterior al cumplimiento de la sanción privativa de libertad;
+IV. Verificar el adecuado desarrollo de los programas institucionales que se desarrollen en los centros penitenciarios y de internamiento del estado;
 
-V. Vigilar la operación y administración de los Centros de Reinserción Social del Estado;
+V. Verificar la ejecución de la prisión preventiva y de las sanciones y medidas de seguridad que imponga o modifique el órgano jurisdiccional;
 
-VI. Seleccionar y capacitar, de acuerdo a los criterios establecidos en el Sistema Penitenciario Nacional, al personal de los Centros de Reinserción Social;
+VI. Integrar y mantener actualizados los registros y las bases de datos del sistema penitenciario del estado, y proporcionar la información que le corresponda, en términos de la Ley Nacional de Ejecución Penal y las demás disposiciones legales y normativas aplicables;
 
-VII. Distribuir, trasladar, custodiar, vigilar y dar tratamiento a las personas privadas de su libertad por orden de los tribunales del Estado, desde el momento de su ingreso a los Centros de Reinserción Social;
+VII. Gestionar, de conformidad con las disposiciones federales emitidas, principalmente, por la Conferencia Nacional del Sistema Penitenciario, la capacitación y profesionalización del personal del sistema penitenciario del estado, y
 
-VIII. Aplicar los sustitutivos de prisión que dicten las autoridades judiciales en sentencias ejecutoriadas;
+VIII. Las demás que establezcan el Código Nacional de Procedimientos Penales, la Ley Nacional de Ejecución Penal y otras disposiciones legales y normativas aplicables.
 
-IX Elaborar los planes y programas relacionados con el Sistema Penitenciario del Estado, y
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
-X. Las demás que le encomienden otras disposiciones normativas aplicables.
+###### Artículo 42 Bis.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+Los centros penitenciarios y de internamiento del estado estarán encabezados por un Director, quien será nombrado y removido libremente por el secretario general de Gobierno, y tendrá las facultades y obligaciones establecidas en el artículo 16 de la Ley Nacional de Ejecución Penal y de otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 42 Ter.
+
+El Director de Servicios Postpenales tendrá las facultades y obligaciones que le confiere la Ley de Servicios Postpenales del Estado de Yucatán a la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 43.
 
-La Oficina del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública tendrá las atribuciones que le confieren la Ley de Seguridad Pública del Estado de Yucatán y demás disposiciones legales aplicables.
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública tendrá las atribuciones que le confieren la Ley del Sistema Estatal de Seguridad Pública y las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 43 Bis.
+
+El Centro Estatal de Información sobre Seguridad Pública tendrá las atribuciones que le confieren la Ley del Sistema Estatal de Seguridad Pública y las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 43 Ter.
+
+El Centro Estatal de Prevención del Delito y Participación Ciudadana tendrá las atribuciones que le confieren la Ley del Sistema Estatal de Seguridad Pública y las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 43 Quater.
+
+El Centro Estatal de Evaluación y Control de Confianza tendrá las atribuciones que le confieren la Ley del Sistema Estatal de Seguridad Pública y las demás disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 44.
 
-El Centro Especializado en la Aplicación de Medidas para Adolescentes tendrá las atribuciones que le confieren la Ley de Justicia para Adolescentes del Estado de Yucatán, su Reglamento y las demás disposiciones legales aplicables.
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+El Centro Especializado en la Aplicación de Medidas para Adolescentes tendrá las atribuciones que le confieren la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, su decreto de regulación y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 44 Bis.
 
-El Centro Estatal de Evaluación y Control de Confianza, tendrá las atribuciones que le confieren su Decreto de Creación, su Reglamento y las demás disposiciones legales aplicables.
+(DEROGADO, D.O. 20 DE DICIEMBRE DE 2017)
 
 ###### Artículo 45.
 
@@ -1181,15 +1211,17 @@ VI. Proporcionar asesoría técnica en materia de topografía a los núcleos agr
 
 VII. Las demás que le confieran las leyes agrarias y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 51.
 
-El Centro Estatal de Desarrollo Municipal tendrá las atribuciones que le confieren su Decreto de creación y las que establezcan otras disposiciones legales aplicables.
+El Instituto de Desarrollo Regional y Municipal tendrá las atribuciones que le confieren su decreto de regulación y otras disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 51 Bis.
 
-La Representación del Gobierno del Estado de Yucatán en la Ciudad de México, tendrá las atribuciones que le confieren su Decreto de creación y las que establezcan otras disposiciones legales aplicables.
+La Representación del Gobierno del Estado de Yucatán en la Ciudad de México tendrá las atribuciones que le confieren su decreto de regulación y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 52.
 
@@ -4531,13 +4563,17 @@ c) Grupo motorizado para la vigilancia de las zonas bancarias, comerciales y emp
 
 d) Unidad Modelo de Inteligencia Policial;
 
-e) Unidad Bancaria Comercial y Policial;
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
 
-f) Unidad Canina;
+e) Unidad de Policía Procesal;
 
-g) Unidad de Transportes, y
+f) Unidad Bancaria Comercial y Policial;
 
-h) Las demás que sean necesarias por acuerdo del Titular del Poder Ejecutivo a propuesta del Secretario.
+g) Unidad Canina;
+
+h) Unidad de Transportes, y
+
+i) Las demás que sean necesarias por acuerdo del Titular del Poder Ejecutivo a propuesta del Secretario.
 
 > <small>(ADICIONADO, D.O. 11 DE MARZO DE 2015)</small>
 
@@ -5254,6 +5290,12 @@ El grupo motorizado para la vigilancia de las zonas bancarias, comerciales y emp
 ###### Artículo 214.
 
 La Unidad Modelo de Inteligencia Policial tendrá a su cargo la labor de investigar, desarrollar, mantener y dar soporte técnico a los Sistemas de Información que apoyan la Gestión Operativa y Administrativa de la Secretaría de Seguridad Pública, utilizando tecnología de vanguardia de redes en voz y datos, con los estándares de seguridad y actualización de esta tecnología.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 214 Bis.
+
+La Unidad de Policía Procesal tendrá las atribuciones que establezcan el artículo 22 de la Ley Nacional de Ejecución Penal y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 215.
 
@@ -13196,3 +13238,19 @@ D.O. 24 DE NOVIEMBRE DE 2017.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el 1 de enero de 2018.
+
+D.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 557/2017 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, EN MATERIA DE EJECUCIÓN PENAL".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Obligación normativa
+
+El gobernador deberá expedir, en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, los reglamentos interiores de los centros penitenciarios del estado.
+
+Tercero. Nombramiento de los directores
+
+Los directores de los centros penitenciarios serán los servidores públicos que, a la entrada en vigor de este decreto, tengan el cargo de director de alguno de los centros de reinserción social del estado.
