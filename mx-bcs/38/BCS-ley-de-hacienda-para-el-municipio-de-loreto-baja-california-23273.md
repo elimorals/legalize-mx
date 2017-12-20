@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-loreto-baja-california-232
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2016-10-31"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 5 de noviembre de 2001.
 
@@ -185,7 +187,7 @@ En ningún caso el impuesto predial anual será inferior a tres veces el valor d
 
 ###### Artículo 14.
 
-El impuesto predial sobre la propiedad urbana se causara:
+El impuesto predial sobre la propiedad urbana se causará:
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -218,6 +220,10 @@ El valor del terreno de un predio regular se determinará multiplicando la super
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 e). Predios destinados al campo de golf en el área de Nopoló, a razón de 2.65 al millar.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
+
+f). A razón de 1.40 al millar anual sobre el valor catastral de los predios con edificaciones residenciales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -1027,17 +1033,17 @@ I. Por cada copia de planos 5 veces el valor diario de la
 
 Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 II. Avalúos periciales por cada predio
 
-Incluida la construcción, sobre su valor,
+incluida la construcción, sobre su valor,
 
 sin que pueda ser inferior a dos
 
 veces el valor diario de la Unidad de
 
-Medida y Actualización 0.10 al millar.
+Medida y Actualización 1.0 al millar.
 
 > <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -1064,8 +1070,6 @@ proporcionar información económica
 y/o certificado 1 vez el valor diario de la Unidad
 
 de Medida y Actualización por predio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -1135,8 +1139,6 @@ VII. Por expedición de coordenadas UTM 5 veces el valor diario de la
 
 Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 VIII. Por registro de perito valuador:
@@ -1153,9 +1155,7 @@ B) Revalidación de registro anual 30 veces el valor diario de la
 
 Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
 IX. Avalúos catastrales.- Por cada
 
@@ -1163,7 +1163,7 @@ predio sobre el valor, sin que pueda
 
 ser inferior a un día de salario
 
-mínimo; 0.1 al millar
+mínimo 1.0 al millar
 
 > <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -1185,8 +1185,6 @@ subdivisión de predios 1 vez el valor diario de la
 
 Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
 XIII. Por registro de Ingenieros Topógrafos para deslindes oficiales:
@@ -1202,8 +1200,6 @@ Unidad de Medida y Actualización.
 B) Revalidación de registro anual 30 veces el valor diario de la
 
 Unidad de Medida y Actualización.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, B.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -3786,3 +3782,13 @@ P.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2487.- SE ADICIONA UN INCISO F) AL ARTÍCULO 14; Y SE REFORMAN LAS FRACCIONES II Y IX DEL ARTÍCULO 49, AMBOS DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE LORETO, BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del 01 de enero de 2018, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, las autoridades municipales a través de las dependencias de la administración pública municipal, deberán proveer lo necesario administrativamente para la regularización de las disposiciones contenidas en el presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
