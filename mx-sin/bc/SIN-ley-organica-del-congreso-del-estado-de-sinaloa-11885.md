@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-congreso-del-estado-de-sinaloa-11885"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-20"
-last_updated: "2017-08-02"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 20 de noviembre de 1995.
 
@@ -1167,15 +1167,117 @@ En el ejercicio de sus funciones, dicha instancia deberá garantizar la separaci
 
 ARTICULO 92 BIS C. Cualquier persona, cuando presuma que los titulares de los Órganos Internos de Control de cualquiera de los organismos constitucionales autónomos, haya incurrido en los supuestos previstos en el Título VI de la Constitución Política del Estado de Sinaloa, podrá presentar denuncias ante las autoridades correspondientes, acompañándola de los documentos y evidencias en las cuales se sustente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+### CAPITULO VII BIS A. DEL ORGANO INTERNO DE CONTROL DEL CONGRESO DEL ESTADO DE SINALOA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 92 BIS D.- El Congreso del Estado contará con un órgano interno de control, que tendrá las funciones de vigilancia, control, evaluación e inspección y las demás que le señalen otras disposiciones legales.
+
+Asimismo, contará con autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Congreso del Estado y de particulares vinculados con faltas graves, para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
+
+En el desempeño de su cargo, el titular del órgano interno de control se sujetará a los principios previstos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 92 BIS E.- El Titular del Órgano Interno de Control será designado por el pleno del Congreso del Estado con el voto de las dos terceras partes de sus miembros presentes, a propuesta de la Junta de Coordinación Política.
+
+El Órgano Interno de Control dependerá de la Junta de Coordinación Política y tendrá una relación de coordinación con la Secretaría General del Congreso, sus unidades y áreas administrativas, así como con la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 92 BIS F.- El titular del Órgano Interno de Control será sujeto a responsabilidad en términos de la Ley General de Responsabilidades Administrativas del Estado y podrá ser sancionado de conformidad con el procedimiento previsto en la norma aplicable.
+
+Tratándose de los demás servidores públicos adscritos al Órgano Interno de Control serán sancionados por su titular o el servidor público en quien delegue la facultad en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 92 BIS G.- El Órgano Interno de Control deberá inscribir y mantener actualizada la información correspondiente del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal; de todos los servidores públicos del Congreso del Estado, de conformidad con la Ley General de Responsabilidades Administrativas, Ley del Sistema Anticorrupción y Ley de Responsabilidades Administrativas del Estado.
+
+El titular del Órgano Interno de Control se abstendrá de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los cargos docentes.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 92 BIS H.- Los servidores públicos adscritos al Órgano Interno de Control del Congreso y, en su caso, los profesionales contratados para la práctica de auditorías deberán guardar estricta reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 92 BIS I.- El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano mexicano, preferentemente sinaloense residente del Estado, en pleno goce de sus derechos civiles y políticos;
+
+II. Tener por lo menos treinta años cumplidos el día de la designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena de prisión;
+
+IV. Contar al momento de su designación con una experiencia de al menos cinco años en el control, manejo o fiscalización de recursos y responsabilidades administrativas;
+
+V. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+
+VI. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación, a despachos que hubieren prestado sus servicios al Congreso del Estado o haber fungido como consultor o auditor externo al Congreso del Estado en lo individual durante ese periodo; y
+
+VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 92 BIS J.- El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Las que contempla la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado;
+
+II. Inspeccionar el cumplimiento de las normas de funcionamiento administrativo que rijan a servidores públicos del Congreso;
+
+III. Vigilar y comprobar el cumplimiento por parte de los órganos administrativos de las obligaciones en materia de planeación, programación, presupuestación, ingresos, egresos, patrimonio y fondos; así como, la administración de recursos humanos, materiales y financieros;
+
+IV. Presentar a la Junta de Coordinación Política los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Congreso del Estado;
+
+V. Verificar que el ejercicio de gasto del Congreso se realice conforme a la normatividad aplicable, los programas aprobados y montos autorizados;
+
+VI. Revisar que las operaciones presupuestales que realice el Congreso, se hagan con apego a las disposiciones legales y administrativas aplicables y, en su caso, determinar las desviaciones de las mismas y las causas que les dieron origen;
+
+VII. Investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del Congreso del Estado;
+
+VIII. Promover ante las instancias correspondientes las acciones administrativas y legales que se deriven de los resultados de las auditorías;
+
+IX. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Congreso;
+
+X. Solicitar la información y efectuar visitas a las áreas del Congreso para el cumplimento de sus funciones.
+
+XI. Sustanciar el procedimiento administrativo y aplicar las sanciones inherentes a las responsabilidades de los servidores públicos del Congreso;
+
+XII. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos, empleando la metodología que determine el mismo;
+
+XIII. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Congreso del Estado, empleando la metodología que determine;
+
+XIV. Recibir quejas y denuncias conforme a las leyes aplicables;
+
+XV. Guardar reserva de la información que se le proporcione en ejercicio de sus atribuciones, en términos de la Ley de Transparencia y Acceso a la Información Pública y Ley de Protección de Datos Personales en Posesión de Sujetos Obligados, ambas del Estado de Sinaloa.
+
+XVI. Llevar el registro y seguimiento de la declaración de situación patrimonial y vigilar que se cumplan las disposiciones legales en dicha materia;
+
+XVII. Recibir, tramitar y resolver las inconformidades, procedimientos y recursos administrativos que se promuevan en materia de adquisiciones, arrendamientos, servicio (sic) y obras públicas;
+
+XVIII. Intervenir en los actos de entrega-recepción de los servidores públicos del Congreso de mandos medios y superiores, en los términos de la normativa aplicable;
+
+XIX. Participar, conforme a las disposiciones vigentes, en los Comités y Subcomités de los que el Órgano Interno de Control forme parte, e intervenir en los actos que se deriven de los mismos;
+
+XX. Atender las solicitudes de las diferentes áreas del Congreso en los asuntos de su competencia;
+
+XXI. Proponer los proyectos de modificación o actualización de su estructura orgánica, personal o recursos;
+
+XXII. Presentar a la Junta de Coordinación Política un informe previo y anual de resultados de su gestión, y comparecer ante la misma cuando así lo requiera su Presidente;
+
+XXIII. Presentar los informes respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre la imposición de sanciones en materia de responsabilidades administrativas; y
+
+XXIV. Las demás que le señalen los ordenamientos legales aplicables o que determine la Junta de Coordinación Política.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
 ### CAPÍTULO VIII. DE LA ORGANIZACIÓN TÉCNICA Y ADMINISTRATIVA DEL CONGRESO DEL ESTADO
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
-
-### CAPITULO IX. DE LA AUDITORIA SUPERIOR DEL ESTADO
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA GENERAL
 
@@ -1337,7 +1439,9 @@ Al frente del Instituto habrá un Director y contará con las unidades y Departa
 
 #### SECCION PRIMERA. DE LAS SESIONES
 
-### CAPITULO I. DE LOS PERIODOS DE SESIONES
+### CAPITULO IX. DE LA AUDITORIA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 103.
 
@@ -1355,7 +1459,7 @@ La Auditoría Superior del Estado, como órgano técnico de fiscalización gener
 
 ## TITULO QUINTO. DEL FUNCIONAMIENTO DEL CONGRESO
 
-### CAPITULO II. DEL PROCESO LEGISLATIVO
+### CAPITULO I. DE LOS PERIODOS DE SESIONES
 
 ###### ARTICULO 106.
 
@@ -1393,9 +1497,7 @@ Para el caso de la apertura y clausura de sus períodos extraordinarios de sesio
 
 "El Congreso del Estado de Sinaloa (abre-clausura) hoy (fecha) el (número) Período Extraordinario de Sesiones".
 
-### CAPITULO III. DE LA ASISTENCIA DE LOS CIUDADANOS A LAS SESIONES
-
-Y DEL ORDEN PÚBLICO
+### CAPITULO II. DEL PROCESO LEGISLATIVO
 
 #### SECCION SEGUNDA. DEL CEREMONIAL
 
@@ -1993,15 +2095,9 @@ Las Leyes no comprenderán más que un sólo objeto que se expresará siempre en
 
 Toda Ley o Decreto será expedido bajo la firma del Presidente y Secretarios del Congreso, en la siguiente forma: "El Congreso del Estado Libre y Soberano de Sinaloa, representado por su (número de orden) Legislatura, ha tenido a bien expedir la (o el) siguiente Ley (o Decreto); (número) o nombre oficial de la Ley o Decreto". Seguirá el texto y al final dirá: " Es dado en el Palacio del Poder Legislativo del Estado en Culiacán Rosales, Sinaloa a los.... días del mes de......de....."
 
-### CAPÍTULO III BIS. DE LA DIFUSIÓN DEL TRABAJO PARLAMENTARIO
+### CAPITULO III. DE LA ASISTENCIA DE LOS CIUDADANOS A LAS SESIONES
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
-
-ARTICULO 225 BIS.- El Congreso del Estado contará con un canal televisivo para la permanente difusión de sus sesiones públicas, así como de todas aquellas actividades que contribuyan al desarrollo y fortalecimiento de la cultura parlamentaria y democrática de los sinaloenses.
-
-El Canal Legislativo estará a cargo de la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, la cual será responsable de todo lo relativo a su funcionamiento y estará apoyada por la Dirección de Gestión y Vinculación Social.
-
-En tanto no se establezca previsión presupuestal para la creación de un Canal Televisivo exclusivo del Poder Legislativo del Estado, la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, con apoyo de la Dirección de Gestión y Vinculación Social celebrarán convenios de colaboración con las diversas repetidoras o canales de naturaleza cultural y académica que se proyectan en el Estado, a través de los sistemas ordinario o de cable local, con el fin de posibilitar la inmediata transmisión en vivo o diferido de las sesiones y trabajos de esta Soberanía.
+Y DEL ORDEN PÚBLICO
 
 ###### ARTICULO 220.
 
@@ -2029,13 +2125,21 @@ Cuando el Congreso o su Presidente lo consideren conveniente, ordenarán que se 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2001)</small>
 
+### CAPÍTULO III BIS. DE LA DIFUSIÓN DEL TRABAJO PARLAMENTARIO
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2001)</small>
+
+ARTICULO 225 BIS.- El Congreso del Estado contará con un canal televisivo para la permanente difusión de sus sesiones públicas, así como de todas aquellas actividades que contribuyan al desarrollo y fortalecimiento de la cultura parlamentaria y democrática de los sinaloenses.
+
+El Canal Legislativo estará a cargo de la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, la cual será responsable de todo lo relativo a su funcionamiento y estará apoyada por la Dirección de Gestión y Vinculación Social.
+
+En tanto no se establezca previsión presupuestal para la creación de un Canal Televisivo exclusivo del Poder Legislativo del Estado, la Comisión de Biblioteca, Cultura Parlamentaria y Asuntos Editoriales, con apoyo de la Dirección de Gestión y Vinculación Social celebrarán convenios de colaboración con las diversas repetidoras o canales de naturaleza cultural y académica que se proyectan en el Estado, a través de los sistemas ordinario o de cable local, con el fin de posibilitar la inmediata transmisión en vivo o diferido de las sesiones y trabajos de esta Soberanía.
+
 ### CAPITULO IV. DE LA CONSULTA POPULAR
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO V. DE LAS REFORMAS A LA CONSTITUCION
-
-### CAPITULO UNICO. DE LA ORGANIZACION DEL JURADO Y PERSONAS SUJETAS A SU JURISDICCION
 
 ###### ARTICULO 226.
 
@@ -2057,9 +2161,7 @@ IV.- Bases para su desarrollo.
 
 Una vez concluida la consulta pública y previo informe que al respecto se presente a la Cámara, el Congreso podrá ordenar la publicación de la memoria de la consulta o de las conclusiones en su caso.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
+### CAPITULO UNICO. DE LA ORGANIZACION DEL JURADO Y PERSONAS SUJETAS A SU JURISDICCION
 
 ###### ARTICULO 229.
 
@@ -2086,6 +2188,10 @@ C.- Decreto que acuerda la reforma o adición.
 VI.- El Ejecutivo del Estado no podrá hacer alguna observación ni oponerse a sancionar y promulgar las reformas constitucionales, aprobadas en los términos expresados en las fracciones que anteceden.
 
 ## TITULO SEXTO. DE LAS FUNCIONES DE JURADO
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 230.
 
@@ -2344,3 +2450,15 @@ P.O. 2 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 205 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 335 QUE ADICIONA EL CAPÍTULO VII BIS A, DENOMINADO "DEL ÓRGANO INTERNO DE CONTROL DEL CONGRESO DEL ESTADO" AL TÍTULO CUARTO DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Dentro del plazo de sesenta días naturales posteriores a la fecha de publicación del presente Decreto, deberá expedirse el Reglamento Interior del Órgano Interno de Control del Congreso.
+
+TERCERO. Se deroga el Acuerdo Número 21, de fecha cuatro de noviembre del año dos mil once y todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. La persona que a la fecha de la entrada en vigor del presente Decreto ocupe la titularidad del Órgano Interno de Control continuará en sus funciones hasta que la Junta de Coordinación Política proponga un nuevo nombramiento al Pleno y esté aprobado por el mismo.
