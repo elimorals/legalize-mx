@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2017-11-01"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -109,363 +109,67 @@ III.- Las adquisiciones que realicen la Federación, el Estado o sus Municipios,
 
 IV.- Las adquisiciones que realicen las agencias distribuidoras de vehículos nuevos, siempre y cuando, reciban a cuenta el vehículo de motor usado por parte del propietario, para que éste adquiera a su nombre un vehículo nuevo en la propia agencia de que se trate.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA] SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO II. IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+ART. 9o.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-ART. 9o.- Están obligadas al pago del impuesto previsto en este Capítulo, las personas físicas y las morales, tenedoras o usuarias de los vehículos a que el mismo se refiere, siempre que el Estado de Sinaloa expida placas de circulación en su jurisdicción territorial a dichos vehículos.
+ART. 10.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
+ART. 11.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
+ART. 12.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-ART. 10.- Los contribuyentes pagarán el impuesto a que se refiere este Capítulo, por año de calendario, durante los tres primeros meses, ante las oficinas autorizadas, salvo que en el apartado correspondiente se establezca disposición en contrario.
+ART. 13.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+ART. 14.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-ART. 11.- El impuesto se pagará en las oficinas en las que la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa autorice el registro, alta del vehículo o expida el permiso provisional para circulación en traslado de dicho vehículo. Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las oficinas de la mencionada Secretaría, siempre y cuando el domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público se encuentre dentro del territorio del Estado de Sinaloa.
+ART. 14 BIS.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-El pago antes mencionado podrá realizarse de manera simultánea con los derechos por los servicios de control vehicular establecidos en esta Ley.
+ART. 14 BIS-1.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+ART. 15.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-ART. 12.- Para los efectos de este capítulo se considera como:
+ART. 15-A.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-I. Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
-
-II. Año Modelo, el año de fabricación o ejercicio automotriz comprendido por el periodo entre el 1 de octubre del año anterior y el 30 de septiembre del año que transcurra;
-
-III. Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico que configuran externamente a un vehículo y de la que derivan los diversos modelos;
-
-IV. Versión, cada una de las distintas presentaciones comerciales que tiene un modelo;
-
-V. Línea:
-
-a) Automóviles con motor de gasolina o gas hasta de 4 cilindros.
-
-b) Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
-
-c) Automóviles con motor diesel.
-
-d) Camiones con motor de gasolina, gas o diesel.
-
-e) Tractores no agrícolas tipo quinta rueda.
-
-f) Autobuses integrales.
-
-g) Automóviles eléctricos;
-
-VI. Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
-
-VII. Vehículo nuevo:
-
-a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos;
-
-b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de este apartado; al año modelo en que se efectúe la importación o a los nueve años modelos inmediatos anteriores al año de la importación definitiva; y,
-
-VIII. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
-
-En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ART. 13.- Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
-
-I. Quienes por cualquier título adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de dicha contribución;
-
-II. Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera; y,
-
-III. Los servidores públicos competentes que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Sinaloa o del impuesto sobre tenencia o uso de vehículos previsto en la legislación federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda.
-
-Las autoridades competentes, solamente registrarán vehículos cuyos propietarios se encuentren domiciliados en el territorio del Estado de Sinaloa.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ART. 14.- Cuando por cualquier causa un vehículo cambie de propietario, salga de la posesión o deje de ser usado por la persona a nombre de quien está inscrito en el padrón vehicular estatal o dicho vehículo sea registrado en otra entidad federativa, o entre en desuso, la persona a nombre de quien está inscrito el vehículo, estará obligada a dar de baja el vehículo y placas de circulación del padrón vehicular, debiendo cumplir con lo establecido en esta Ley y en lo que al efecto se consigne en la Ley de Tránsito y Transportes del Estado de Sinaloa.
-
-En caso de incumplimiento, será considerado responsable solidario del pago del impuesto a que se refiere este Capítulo.
-
-Cuando los particulares sean omisos en el cumplimiento de la obligación a que se refiere el primer párrafo de este precepto, el plazo a que se refiere el artículo 52 del Código Fiscal del Estado de Sinaloa, se computará a partir de la fecha en la que las autoridades fiscales tengan conocimiento del cambio de propietario, poseedor o usuario del vehículo de que se trate.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ART. 14 BIS.- Cuando el contribuyente del impuesto a que se refiere este Capítulo, sufra la pérdida total por accidente o como consecuencia de un fenómeno meteorológico o desastre natural, pagará el impuesto correspondiente en proporción al número de meses transcurridos hasta la fecha en que ocurriera tal eventualidad, aplicándose el factor contenido en la tabla del artículo 15-B de la presente Ley, siempre y cuando quede debidamente acreditada la misma ante la autoridad competente; y sin que dicha circunstancia origine el derecho a solicitar la devolución o compensación del impuesto, en caso de haberse cubierto el mismo con anterioridad a la pérdida total del vehículo.
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-ART. 14 BIS-1.- En los casos en que los contribuyentes obligados a realizar el pago en el Estado demuestren haber cubierto el impuesto sobre tenencia o uso de vehículos correspondiente al año de calendario de que se trate en otra entidad federativa, cuyo objeto grave la tenencia o uso de vehículos, o que en dicha entidad se encontraba exento del pago del impuesto, podrá solicitar se acredite el importe cubierto o la exención del plazo transcurrido en el año calendario, debiendo pagar, en su caso, la parte proporcional que quede pendiente una vez realizado el cálculo correspondiente al de esta entidad, aplicándose el factor correspondiente contenido en la tabla del artículo 15-B de esta Ley.
-
-No será sujeto de devolución o compensación, el importe cubierto en exceso en otra entidad federativa.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ART. 15.- La Federación, el Distrito Federal, los Estados, los Municipios, sus organismos descentralizados, autónomos o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo; con las excepciones que señala el artículo 15-A, de esta ley; aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos o estén exentos de ellos.
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ART. 15-A.- No se causará el impuesto a que se refiere este Capítulo, por la tenencia o uso de los siguientes vehículos:
-
-I. Los eléctricos e híbridos;
-
-II. Los importados temporalmente, en los términos de la legislación aduanera;
-
-III. Los vehículos de la Federación, Estados, Municipios y Distrito Federal, y sus organismos descentralizados, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los Cuerpos de Bomberos;
-
-IV. Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
-
-V. Los que tengan para su venta los fabricantes, las plantas ensambladuras (sic), sus distribuidores y los comerciantes en el ramo de vehículos. Tratándose de automóviles, el impuesto no se causará, siempre que carezcan de placas de circulación;
-
-VI. Las embarcaciones dedicadas al transporte marítimo;
-
-VII. Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga; y,
-
-VIII. Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente, dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate.
-
-Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, III y IV de este artículo, deberán comprobar ante la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa que se encuentran comprendidos en dichos supuestos.
-
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN I. VEHÍCULOS NUEVOS Y DE HASTA NUEVE AÑOS MODELO ANTERIOR DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
+ART. 15-B.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-ART. 15-B.- En el caso de vehículos nuevos o importados, el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo, permiso provisional para circulación en traslado o alta del vehículo.
+ART. 15-C.-(DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-Los importadores ocasionales efectuarán el pago del impuesto a que se refiere este Capítulo, correspondiente al primer año de calendario, en el momento en que soliciten el registro del vehículo de que se trate, ante las oficinas de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa. Por el segundo y siguientes años de calendario, se estará a lo dispuesto en el artículo 10 de esta Ley.
-
-Para los efectos del párrafo anterior, el impuesto se entenderá causado en el momento en el que queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva.
-
-Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en el artículo 10 y el presente artículo de esta ley, según sea el caso.
-
-En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación del impuesto a que se refiere este apartado, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
-
-Para los efectos de este apartado, también se consideran automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
-
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este apartado, se pagará como si éste fuese nuevo.
-
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
-
-Mes de Adquisición Factor aplicable al impuesto causado
-
-Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
-
-Tratándose de vehículos usados, el impuesto deberá calcularse y enterarse en el momento en el cual se solicite el registro del vehículo en la entidad, aplicándose el factor correspondiente contenido en la tabla que antecede.
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ART. 15-C.- Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
-
-> <small>(ADICIONADA [N. DE E. REPUBLICADA] CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN II. AUTOMÓVILES
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
+ART. 15-D.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-ART. 15-D.- Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, nuevos, el impuesto se calculará como a continuación se indica:
-
-I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
-
-Límite inferior Límite superior Cuota fija Tasa para
-
-$ $ $ aplicarse sobre
-
-el excedente del
-
-límite inferior
-
-%
-
-0.01 526,657.78 0.00 3.0
-
-526,657.79 1,013,523.64 15,799.73 8.7
-
-1,013,523.65 1,362,288.13 58,157.06 13.3
-
-1,362,288.14 1,711,052.62 104,542.74 16.8
-
-1,711,052.63 En adelante 163,135.16 19.1
-
-Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por dichos vehículos será mayor al que tendrían (sic) que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80; y,
-
-I. Para automóviles destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil.
-
-Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
-
-Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
-
-Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
-
-> <small>(ADICIONADA [N. DE E. REPUBLICADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN III. OTROS VEHÍCULOS
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
+ART. 15-E.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-ART. 15-E.- En esta sección se establecen las disposiciones aplicables a las aeronaves y motocicletas.
+ART. 15-F.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
+ART. 15-G.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-ART. 15-F.- Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $9,557.39 para aeronaves de pistón, turbohélice y helicópteros; y por la cantidad de $10,294.49 para aeronaves de reacción.
+ART. 15-H.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
+ART. 15-I.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-ART. 15-G.- Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
-
-Límite inferior Límite superior Cuota fija Tasa para
-
-$ $ $ aplicarse sobre
-
-el excedente del
-
-límite inferior
-
-%
-
-0.01 220,660.00 0.00 3.0
-
-220,660.01 303,459.28 6,619.80 8.7
-
-303,459.29 407,882.92 13,823.33 13.3
-
-407,882.93 En adelante 27,711.67 16.8
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ART. 15-H.- Para los efectos de lo dispuesto en los artículos 15-D, 15-G y 15-F de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación.
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ART. 15-I.- Las autoridades competentes, para expedir los certificados de aeronavegabilidad y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere este apartado, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales correspondientes.
-
-> <small>(ADICIONADA [N. DE E. REPUBLICADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN IV. VEHÍCULOS USADOS
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
+ART. 15-J.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-ART. 15-J.- Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelo (sic) anteriores al de aplicación de este Capítulo, a que se refiere el artículo 15-D fracción II de esta Ley, así como de aeronaves, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda, conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
+ART. 15-K.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
-TABLA
-
-Años de antigüedad Factor
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.883
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 0.500
-
-El resultado obtenido conforme al párrafo anterior, se actualizará de acuerdo con lo dispuesto en el artículo 15-H de esta Ley.
-
-Tratándose de automóviles de servicio particular que pasen a ser de servicio público de transporte denominados "taxis", el impuesto a que se refiere este apartado se calculará, para el ejercicio fiscal siguiente a aquél en el que se dé esta circunstancia, conforme al siguiente procedimiento:
-
-I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla establecida en este artículo; y,
-
-II. La cantidad obtenida conforme a la fracción anterior se actualizará de conformidad con lo dispuesto en el artículo 15-H de esta Ley; el resultado obtenido se multiplicará por 0.245%.
-
-Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ART. 15-K.- Tratándose de automóviles de fabricación nacional o importada, de hasta nueve años modelo (sic) anteriores al de aplicación de este Capítulo, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-a) El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
-
-TABLA
-
-Años de antigüedad Factor de depreciación
-
-1 0.850
-
-2 0.725
-
-3 0.600
-
-4 0.500
-
-5 0.400
-
-6 0.300
-
-7 0.225
-
-8 0.150
-
-9 0.075
-
-b) La cantidad obtenida conforme al inciso anterior, se actualizará de acuerdo con lo dispuesto en el artículo 15-H de esta Ley; al resultado se le aplicará la tarifa a que hace referencia el artículo 15-D de esta Ley.
-
-Para efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ART. 16.- Tratándose de motocicletas de fabricación nacional o importada, de hasta nueve años modelo (sic) anteriores al de aplicación de este Capítulo, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
-
-TABLA
-
-Años de antigüedad Factor de depreciación
-
-1 0.9
-
-2 0.8
-
-3 0.7
-
-4 0.6
-
-5 0.5
-
-6 0.4
-
-7 0.3
-
-8 0.2
-
-9 0.1
-
-A la cantidad obtenida conforme al párrafo anterior, se le aplicará la tarifa a que hace referencia el artículo 15-G de esta Ley.
-
-Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+ART. 16.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1817,41 +1521,53 @@ c).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 III.- Por control vehicular:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-a).- Por la expedición de placas con vigencia que determine la norma oficial mexicana correspondiente expedida por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcomanía:
+a).- Por la expedición de placas, tarjeta de circulación y calcomanía de refrendo:
 
-1.- Para vehículos de servicio particular 15.00
+1.- Para vehículos de servicio particular 25.00
 
 2.- Para vehículos de servicio
 
-público estatal 15.00
+público estatal 25.00
 
-3.- Para vehículo de demostración
+3.- Para vehículos de demostración
 
-(placas y tarjeta de circulación) 40.00
+(placas y tarjeta de circulación) 55.00
 
 4.- Para remolques (placas y tarjeta
 
-de circulación) 10.00
+de circulación) 15.00
 
 5.- Para motocicletas (placas y tarjeta
 
-de circulación) 10.00
+de circulación) 15.00
+
+6.- Para ómnibus 25.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+b).- Por reposición de juego de placas por daños que impidan la visibilidad de su contenido, robo, extravío o destrucción:
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-b).- Por reposición de juego de placas cuya vigencia sea la que señale la norma oficial mexicana correspondiente expedida por la Secretaría de Comunicaciones y Transportes, por pérdida o deterioro:
-
 1.- Para vehículo de servicio particular 15.00
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 2.- Para vehículo de servicio público
 
 Estatal 17.00
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
 3.- Para vehículo de demostración 40.00
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
 4.- Para remolques 10.00
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 5.- Para motocicletas 10.00
 
@@ -1861,21 +1577,23 @@ por pérdida, deterioro o cualquier otra
 
 causa: 4.00
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-d).- Por refrendo anual de placas y tarjeta de circulación con vigencia señalada por la norma oficial mexicana expedida por la Secretaría de Comunicaciones y Transportes, con emisión de calcomanía:
+d).- Por revalidación anual de tarjeta de circulación y calcomanía de refrendo:
 
-1.- Para vehículo de servicio particular 6.00
+1.- Para vehículos de servicio particular 16.00
 
-2.- Para vehículo de servicio público
+2.- Para vehículos de servicio público
 
-Estatal 6.00
+estatal 16.00
 
-3.- Para vehículos de demostración 20.00
+3.- Para vehículos de demostración 30.00
 
-4.- Para remolques 5.00
+4.- Para remolques 10.00
 
-5.- Para motocicletas 3.00
+5.- Para motocicletas 6.00
+
+6.- Para ómnibus 16.00
 
 e).- Por la baja de placas 1.00
 
@@ -1884,6 +1602,26 @@ f).- Por la expedición de cada permiso
 para circular sin placas en vehículos
 
 de servicio particular, por día: 0.50
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+g).- Por la baja definitiva del Registro del Vehículo, de conformidad con el artículo 42 de la Ley de Tránsito y Transportes del Estado de Sinaloa, cuando opere:
+
+1.- Por destrucción o inutilización del vehículo
+
+que impida su circulación 16.00
+
+2.- Por cambio del servicio a que estaba destinado 16.00
+
+3.- Por cambio en la clase de vehículo que requiera
+
+de placas diferentes 16.00
+
+4.- Por requerirse para el registro en otra entidad
+
+federativa donde vaya a radicar el propietario del
+
+vehículo 16.00
 
 IV.- Por cada concesión de servicio público de
 
@@ -1994,6 +1732,12 @@ Fuera de la zona urbana, además de la cuota señalada se pagará 0.50 veces el 
 XIII.- Por revisión de las condiciones físicas de
 
 los vehículos de servicio público 2.00
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XIV.- Por la búsqueda de información
+
+ante autoridades fuera del Estado 1.00
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -4288,3 +4032,25 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Para efectos de la aplicación del presente Decreto y a fin de regular el cobro del Impuesto Sobre la Prestación de Servicios de Hospedaje en el Estado cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro por los servicios de hospedaje, la Secretaría de Administración y Finanzas deberá emitir Reglas de Carácter General para la inscripción en el Registro Estatal de Contribuyentes y para el cobro de la citada contribución, lo cual, no deberá exceder del término de 15 días siguientes de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 291 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOCISIONES DE LA LEY DE HACIENDA, Y LEY DE TRÁNSITO Y TRANSPORTES, AMBAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Aquellos vehículos que antes de la entrada en vigor de este Decreto hayan adquirido su placa de identificación vehicular, están obligados a realizar el canje para adquirir la placa permanente al término de su vigencia, de conformidad con las disposiciones fiscales anteriores, que era de tres años.
+
+TERCERO. Las personas físicas y morales tenedoras o usuarias de vehículos, que previo a la entrada en vigor del presente Decreto, tengan adeudos por concepto del Impuesto sobre Tenencia o Uso de Vehículos, continuarán obligadas a su pago, en los términos de las disposiciones legales vigentes en la fecha de su causación.
+
+CUARTO. A más tardar el 31 de diciembre de 2017, el titular del Poder Ejecutivo del Estado deberá emitir un Acuerdo de Carácter General, para que durante el periodo comprendido del 01 de enero, al 31 de diciembre del año 2018, se otorgue un estímulo fiscal a las personas propietarias de vehículos con una antigüedad de 10 o más años, que se encuentren en los supuestos del artículo 48, fracción III, inciso D), numerales 1, 2 y 5 de la Ley de Hacienda del Estado de Sinaloa, y se aplicará de la siguiente manera:
+
+1. Para vehículo de servicio particular 55%
+
+2. Para vehículo de servicio público estatal 55%
+
+5 (SIC). Para motocicletas 33.33%
+
+La aplicación del estímulo previsto en el presente artículo transitorio será válida durante todo el ejercicio fiscal del año 2018, independientemente del cobro de las sanciones respectivas derivadas del tiempo en el que se realice el trámite correspondiente, de conformidad con lo previsto en el artículo 49 de la Ley de Hacienda del Estado de Sinaloa.
+
+QUINTO. Durante el Ejercicio Fiscal del año 2018, del monto recaudado por concepto de revalidación anual de tarjeta de circulación y calcomanía de refrendo, serán destinados $160,000,000.00 (Ciento sesenta millones de pesos 00/100 M.N.) a la partida presupuestal correspondiente al seguro popular y el monto restante a la correspondiente a las pensiones del sector educativo.
