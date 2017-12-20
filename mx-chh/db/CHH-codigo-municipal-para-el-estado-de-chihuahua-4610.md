@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2017-10-25"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -343,7 +345,7 @@ VI.- Que a criterio del Congreso del Estado, no afecte la subsistencia del, o lo
 
 VII.- Cuando la solicitud sea presentada por el diez por ciento de los electores residentes en los municipios involucrados, los promoventes podrán nombrar a un representante quien tendrá el derecho de expresar por escrito al Congreso del Estado la opinión de los solicitantes, dentro de los sesenta días siguientes a la fecha en que se le comunique la solicitud; asimismo, el representante tendrá los mismos derechos a que se refiere el artículo 53 constitucional respecto a la iniciativa popular.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. LA FRACCIÓN VI NO CUENTA CON UN SEGUNDO PÁRRAFO], P.O. 7 DE AGOSTO DE 2004)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 7 DE AGOSTO DE 2004)</small>
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2004)</small>
 
@@ -1123,6 +1125,10 @@ El ayuntamiento, al momento de realizar el cálculo y elaborar el Presupuesto de
 
 Los Ayuntamientos, al aprobar el Presupuesto de Egresos Municipal, deberán autorizar las partidas que fueren necesarias para el pago de la administración seccional y la prestación, a cargo de ésta, de los servicios públicos que le competan y la realización de las obras que correspondan. En caso de que el Ayuntamiento no autorice las partidas solicitadas por las secciones municipales, la negativa correspondiente deberá estar debidamente fundada y motivada.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Por ningún motivo el Ayuntamiento dejará de autorizar el presupuesto destinado a las juntas municipales. Su omisión será causa grave de responsabilidad.
+
 VI.- Recaudar, previo acuerdo con el tesorero municipal, los ingresos municipales de la sección, e informar de ello al Ayuntamiento, por conducto del tesorero municipal, haciendo la aplicación de los mismos de acuerdo con el presupuesto aprobado;
 
 VII.- Velar por el mantenimiento y patrimonio municipal seccional;
@@ -1570,6 +1576,10 @@ V.- Determinar y aplicar las sanciones que procedan por el incumplimiento de las
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
 
 VI.- Proponer al Presidente Municipal el anteproyecto del Presupuesto anual de egresos, previo análisis del diverso que remitan las juntas municipales, y dirigir, programar y controlar la inversión pública municipal, con la participación de la Oficialía Mayor, en su caso;
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+En el cálculo y elaboración del Presupuesto de Egresos se deberá oportunamente invitar a las autoridades de las secciones municipales para analizar y discutir su anteproyecto de Presupuesto de Egresos, para los efectos legales correspondientes. La falta de notificación a las autoridades seccionales para dar cumplimiento a lo anterior será causa grave de responsabilidad en los términos de Ley.
 
 VII.- Realizar los pagos, de acuerdo con el presupuesto de egresos y las órdenes que reciba, en la inteligencia, de que salvo los correspondientes a sueldos, no podrá hacer ningún otro, sin orden escrita y directa del Presidente Municipal o por conducto de la Oficialía Mayor.
 
@@ -4774,3 +4784,9 @@ P.O. 25 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO LXV/RFCOD/0394/2017 I P.O., POR EL QUE SE REFORMAN LOS ARTÍCULOS 60 FRACCIÓN XI Y 74 TER DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO RFCOD/0413/2017 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día primero de enero del año 2018, para los efectos relativos a la formulación y presentación del Presupuesto de Egresos de cada municipio en la Entidad, correspondiente al ejercicio fiscal 2019 y subsecuentes.
