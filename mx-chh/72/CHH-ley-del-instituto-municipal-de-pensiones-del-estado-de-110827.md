@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-municipal-de-pensiones-del-estado-de-110827"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-26"
-last_updated: "2016-01-27"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,25 @@ state: "CHH"
 ---
 # LEY DEL INSTITUTO MUNICIPAL DE PENSIONES DEL ESTADO DE CHIHUAHUA
 
-LEY DE INGRESOS PARA EL MUNICIPIO DE JACALA DE LEDEZMA, HIDALGO, CORRESPONDIENTE AL EJERCICIO FISCAL 2020
+LEY DEL INSTITUTO MUNICIPAL DE PENSIONES DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
-Ley publicada en el Alcance Treinta del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2019.
+Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 26 de diciembre de 2015.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+EL CIUDADANO LICENCIADO CÉSAR HORACIO DUARTE JÁQUEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
-(NOTA: EL 29 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 104/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
+
+DECRETO:
+
+DECRETO No.
+
+1137/2015 I P.O.
+
+LA SEXAGÉSIMA CUARTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDA EN SU PRIMER PERÍODO ORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL,
+
+DECRETA
 
 ###### ARTÍCULO ÚNICO.
 
@@ -42,6 +52,10 @@ LEY DEL INSTITUTO MUNICIPAL DE PENSIONES
 ###### ARTÍCULO 1.
 
 Esta Ley tiene por objeto regular las prestaciones de seguridad social de los trabajadores al servicio del Municipio de Chihuahua y los organismos municipales descentralizados que se incorporen, así como las del propio Instituto.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+También es objeto de la presente Ley regular la prestación de servicio médico con motivo de indemnización por daños personales, a aquellas personas que así autorice el H. Ayuntamiento de Chihuahua.
 
 ###### ARTÍCULO 2.
 
@@ -80,6 +94,10 @@ Si el servidor público desempeña varios puestos que devengan diversos sueldos,
 X. SUELDO REGULADOR. El promedio ponderado del sueldo del trabajador de los últimos cinco años de servicio, previa actualización con el Índice Nacional de Precios al Consumidor.
 
 XI. TRABAJADOR. Toda persona física que presta un servicio físico o intelectual al patrón, en virtud de nombramiento expedido o por figurar en la nómina de pago de sueldos.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XII. ASEGURADO(A) POR RESPONSABILIDAD PATRIMONIAL. Las personas que con motivo de indemnización por daños personales, autorice el H. Ayuntamiento de Chihuahua, para disfrutar del servicio médico-asistencial por parte del Instituto Municipal de Pensiones.
 
 ### CAPÍTULO SEGUNDO. INSTITUTO MUNICIPAL DE PENSIONES
 
@@ -175,25 +193,15 @@ V. El importe de prestaciones no reclamadas por los interesados, respecto de las
 
 VI. Cualquier otra aportación.
 
-###### Artículo 10.
+###### ARTÍCULO 10.
 
-Los derechos por servicio de alumbrado público, se regulan por lo dispuesto en los artículos 62 al 66 de la Ley de Hacienda para los Municipios del Estado de Hidalgo; considerando para la determinación de este derecho lo establecido en el convenio que para tal efecto celebre el Municipio con la Comisión Federal de Electricidad, o con cualquier otro prestador de servicio, y en el que se determinarán, de conformidad con la legislación federal aplicable, los elementos de contribución.
+Los trabajadores realizarán una contribución al Instituto, equivalente al 12.8% de su sueldo de cotización; el Municipio y los organismos descentralizados municipales que se incorporen, efectuarán una aportación equivalente al 15% del sueldo de cotización del trabajador.
 
-En tanto no se haya celebrado el convenio correspondiente que contenga los elementos de esta contribución, aplicarán las siguientes tasas:
-
-Tasa fija
-
-Uso doméstico. 5.0%
-
-Uso comercial. 5.0%
-
-Uso industrial. 1.5%
-
-(NOTA: EL 29 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 104/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-Los trabajadores no adquirirán derecho alguno, ni individual ni colectivo, sobre el Patrimonio del Instituto, sino exclusivamente el de gozar de los beneficios establecidos en este Ordenamiento.
+Los trabajadores, beneficiarios y asegurados por responsabilidad patrimonial, no adquirirán derecho alguno, ni individual ni colectivo, sobre el patrimonio del Instituto, sino exclusivamente el de gozar de los beneficios establecidos en este Ordenamiento.
 
 ###### ARTÍCULO 12.
 
@@ -240,6 +248,10 @@ III. Cuando sufra prisión preventiva seguida de sentencia absolutoria, mientras
 IV. Cuando fuere suspendido y reinstalado por laudo ejecutorio.
 
 En los casos anteriores, se considerará computable siempre y cuando pague el derechohabiente la totalidad de las aportaciones que se dejaron de cubrir oportunamente y sus intereses.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 17 BIS. Los (sic) personas aseguradas por responsabilidad patrimonial no adquieren derecho a pensiones, jubilaciones, aguinaldos o cualquier otra prestación, única y exclusivamente contarán con servicio médico a título personal, sin posibilidad de hacer extensivo el servicio a persona alguna.
 
 ###### ARTÍCULO 18.
 
@@ -379,85 +391,9 @@ El último sueldo devengado para efectos de fijar el monto de la pensión, se de
 
 Toda fracción de más de seis meses de servicio se considerará como año completo.
 
-###### Artículo 35.
+###### ARTÍCULO 35.
 
-Los productos se determinarán y pagarán de acuerdo con lo establecido por los artículos 188 al 191 de la Ley de Hacienda para los Municipios del Estado de Hidalgo.
-
-Arrendamiento de bienes muebles e inmuebles propiedad del Municipio.
-
-Cuota fija $
-
-Uso de plazas y pisos en las calles, pasajes
-
-y lugares públicos. (Tarifa por día por m2) 6.80
-
-Uso de plazas y pisos en las calles
-
-y lugares públicos en festividades. (Por metro) 6.80
-
-Locales situados en el interior y exterior de los
-
-mercados. (Tarifa mensual). N/A
-
-Planchas situadas en el interior y exterior de los
-
-mercados. (Tarifa mensual). N/A
-
-Puestos de tianguis fijos. (Tarifa mensual). 85.70
-
-Estacionamiento en la vía pública. (Expedición de
-
-permisos de carga y descarga cuota por día) N/A
-
-Arrendamiento de terrenos, montes, pastos y demás
-
-bienes del Municipio. (m2 por mes). N/A
-
-Para los conceptos antes mencionados, se cobrará conforme a las estipulaciones que se acuerden en los contratos celebrados al respecto o en los términos de las concesiones respectivas, de conformidad con las leyes o disposiciones aplicables.
-
-Establecimientos y empresas del Municipio.
-
-Expedición en copia simple o certificada, o reproducción de la información en dispositivos de almacenamiento, derivado del ejercicio del derecho de acceso a la información, aplicando las siguientes cuotas:
-
-Cuota fija $
-
-EXPEDICIÓN DE HOJAS SIMPLES, POR CADA HOJA 3.20
-
-Copia certificada 6.60
-
-DISCO COMPACTO 12.40
-
-COPIA DE PLANOS 76.70
-
-COPIA CERTIFICADA DE PLANOS 76.70
-
-Asistencia Social
-
-Cuota fija $
-
-Consulta Médica General 30.00
-
-Desayunos fríos 0.50
-
-Dotación Alimentaria Menores de Cinco Años en Riesgo 14.00
-
-Dotación Alimentaria Adultos Mayores de 60 Años 10.00
-
-Cuota de Recuperación UBR 20.00
-
-Dieta para Público en General 25.00
-
-Dieta Niños (EAEyD) 4.50
-
-Dieta Adultos (EAEyD) 6.50
-
-La explotación o enajenación de cualquier naturaleza de los bienes propiedad del Municipio.
-
-Venta de bienes muebles e inmuebles propiedad del Municipio.
-
-Los capitales y valores del Municipio y sus rendimientos.
-
-Los bienes de beneficencia.
+El trabajador que se inhabilite física o mentalmente por causas de trabajo, en forma total y permanente, independientemente de los años de servicio, tendrá derecho a recibir una pensión por invalidez.
 
 ###### ARTÍCULO 36.
 
@@ -597,15 +533,21 @@ La percepción de una pensión por orfandad, es compatible con el disfrute de ot
 
 El servicio médico-asistencial se prestará por el Instituto Municipal de Pensiones, a través del área médica o por la institución de seguridad social federal o estatal, ya sea por disposición de la Ley o por convenio celebrado con el Instituto. En el primer caso el servicio médico-asistencial se prestará de conformidad con las disposiciones contenidas en esta sección; en el segundo, de acuerdo a las normas de la Institución que proporcione el servicio.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 56.
 
-Tienen derecho al servicio médico-asistencial los derechohabientes y sus beneficiarios en los términos del artículo 4 de esta Ley.
+Tienen derecho al servicio médico-asistencial los derechohabientes y sus beneficiarios, así como los asegurados por responsabilidad patrimonial, en los términos del artículo 4 de esta Ley.
 
 ###### ARTÍCULO 57.
 
 El carácter de trabajador al servicio del Municipio y organismos descentralizados municipales que se incorporen, solo se acreditará mediante documento expedido por quien legalmente corresponda y siempre que su remuneración esté consignada expresamente en el presupuesto de egresos respectivo.
 
 Tratándose de trabajadores eventuales, extraordinarios o interinos de las dependencias municipales descentralizadas y centralizadas, el Instituto Municipal de Pensiones podrá celebrar convenios para la prestación de servicio médico.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 57 BIS. El carácter de asegurado por responsabilidad patrimonial solo se acreditará mediante acuerdo aprobado por el H. Ayuntamiento.
 
 ###### ARTÍCULO 58.
 
@@ -625,15 +567,21 @@ I. Cuando en las unidades se carezca de los elementos necesarios para tratar al 
 
 II. En los casos de notoria urgencia debidamente comprobada a juicio de la Subdirección Médica del Instituto.
 
-III. Cuando el derechohabiente o beneficiario opte por atenderse con médico particular en intervenciones quirúrgicas que estén comprendidas en los servicios médicos-asistenciales que preste el Instituto Municipal de Pensiones, en estos casos, solo los honorarios médicos serán a cargo del derechohabiente o beneficiario. Las condiciones de hospitalización se ajustarán a lo dispuesto en esta Ley.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. Cuando el derechohabiente, beneficiario o asegurado por responsabilidad patrimonial, opte por atenderse con médico particular en intervenciones quirúrgicas que estén comprendidas en los servicios médicos-asistenciales que preste el Instituto Municipal de Pensiones, en estos casos, solo los honorarios médicos serán a cargo del derechohabiente, beneficiario o asegurado por responsabilidad patrimonial. Las condiciones de hospitalización se ajustarán a lo dispuesto en esta Ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 60.
 
-Los derechohabientes cuyo padecimiento no les impida presentarse a consulta externa deberán acudir a la administración de la Subdirección Médica del Instituto en solicitud de orden de consulta para médico general.
+Los derechohabientes, beneficiarios o asegurados por responsabilidad patrimonial cuyo padecimiento no les impida presentarse a consulta externa, deberán acudir a la administración de la Subdirección Médica del Instituto en solicitud de orden de consulta para médico general.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 61.
 
-El servicio de visitas domiciliarias se proporcionará a los derechohabientes cuando estén impedidos por una enfermedad para acudir a consulta externa.
+El servicio de visitas domiciliarias se proporcionará a los derechohabientes, beneficiarios o asegurados por responsabilidad patrimonial cuando estén impedidos por una enfermedad para acudir a consulta externa.
 
 ###### ARTÍCULO 62.
 
@@ -715,9 +663,11 @@ A) Durante treinta días posteriores al fallecimiento, si el trabajador había p
 
 B) Durante el tiempo en que conserven ese carácter, cuando el trabajador hubiese prestado sus servicios y aportado al fondo por más de seis años.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 71.
 
-Para que los derechohabientes tengan acceso a los servicios médico-asistenciales, deberán afiliarse previamente al Departamento de Afiliación del Instituto presentando solicitud por escrito en las formas previamente aprobadas.
+Para que los derechohabientes, beneficiarios o asegurados por responsabilidad patrimonial tengan acceso a los servicios médico-asistenciales, deberán afiliarse previamente al Departamento de Afiliación del Instituto presentando solicitud por escrito en las formas previamente aprobadas.
 
 ###### ARTÍCULO 72.
 
@@ -747,7 +697,19 @@ Los derechohabientes aportarán al fondo mencionado en el artículo anterior, el
 
 En las mismas condiciones, el Municipio y los organismos descentralizados municipales que se incorporen, aportarán la diferencia entre el costo total de los servicios médicos y el monto de las aportaciones.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+En el caso de las personas aseguradas por responsabilidad patrimonial, el Municipio pagará el total de los gastos médicos.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+El Instituto Municipal de Pensiones deberá prever en su presupuesto de egresos las partidas necesarias para cubrir los gastos médicos que se generen.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 Cuando entre el costo del servicio médico y las aportaciones de las partes haya una diferencia igual o mayor al 50% de lo aportado, el Consejo Directivo deberá hacer una revisión de los gastos de servicios médicos y las aportaciones, para adecuar el monto de las aportaciones de las partes, al costo real del servicio médico.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 Las diferencias aportadas por el Municipio y los organismos descentralizados municipales, en el semestre inmediato anterior, se considerarán prestaciones generales que deben incluirse en el cálculo del costo de los recursos humanos.
 
@@ -807,9 +769,11 @@ Los préstamos a corto plazo causarán un interés anual sobre saldos insolutos.
 
 Los préstamos se amortizarán mediante descuentos quincenales por cantidades iguales, que cubran simultáneamente suerte principal e intereses.
 
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 86.
 
-El trabajador podrá solicitar renovación de su préstamo cuando haya cubierto el setenta y cinco por ciento del mismo y el Instituto descontará su sueldo insoluto bonificándole los intereses.
+El trabajador podrá solicitar renovación de su préstamo cuando haya cubierto el setenta y cinco por ciento del mismo y el Instituto descontará su saldo insoluto bonificándole los intereses.
 
 ###### ARTÍCULO 87.
 
@@ -879,9 +843,11 @@ IV. Negarse reiteradamente a proporcionar atención médica a los derechohabient
 
 V. Ordenar estudios externos, análisis de laboratorio, placas radiográficas o intervención de especialistas, cuando se haga evidente lo innecesario de estas instancias para lograr con la consulta interna la salud del paciente, beneficiario o derechohabiente.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 98.
 
-Se reputará como fraude y se sancionará como tal, en los términos del Código Penal del Estado de Chihuahua, el obtener las prestaciones y servicios que esta Ley establece, sin tener el carácter de derechohabiente o beneficiario de los mismos o derechos a ellos, mediante cualquier engaño, ya sea en virtud de simulación, sustitución de personas o cualquier otro acto.
+Se reputará como fraude y se sancionará como tal, en los términos del Código Penal del Estado de Chihuahua, el obtener las prestaciones y servicios que esta Ley establece, sin tener el carácter de derechohabiente, beneficiario de los mismos o derechos a ellos, de igual forma los asegurados por responsabilidad patrimonial, mediante cualquier engaño, ya sea en virtud de simulación, sustitución de personas o cualquier otro acto.
 
 T R A N S I T O R I O S
 
@@ -1016,3 +982,11 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días del mes de diciembre del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO RFLEY/0412/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO MUNICIPAL DE PENSIONES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
