@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "2016-09-30"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 10 de septiembre de 1976.
 
@@ -182,6 +182,10 @@ Si la mora en el pago de las aportaciones, es imputable únicamente a la Entidad
 ###### Artículo 11.
 
 Las entidades públicas que no enteren al Instituto los adeudos que tengan a su favor, dentro de un plazo de un mes, contado a partir de su vencimiento, deberán cubrir intereses moratorios a la tasa del 1.5 % mensual.
+
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
+En ningún caso la mora en el pago de las aportaciones al Instituto podrá exceder el monto equivalente a tres veces el promedio del pago mensual total y completo de las aportaciones en el año inmediato anterior. Las entidades públicas otorgarán al Instituto garantías amplias y suficientes, incluso a través de la afectación de los recursos a que por ley tengan derecho, para que, si el total de su mora llegase a rebasar el monto máximo antes señalado, este pueda realizar el cobro de los adeudos de forma efectiva e inmediata.
 
 > <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
@@ -475,9 +479,11 @@ El Consejo Directivo, a propuesta del Comité de Inversión y Finanzas del Insti
 
 Cuando se trate de servidores públicos que no sean derechohabientes del Instituto, los descuentos deberán hacerse al amparo de un convenio marco que se suscriba con la institución a la que pertenezcan dichos trabajadores, mediante el cual, el patrón se obligue a retener de la nómina y a pagar puntualmente las obligaciones que los trabajadores adquieran con el Instituto y, en su caso, actuar como aval o garante solidario del trabajador.
 
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 49.
 
-(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
+Para garantizar el pago de los esquemas optativos de préstamos a plazo con descuento en nómina señalados en el artículo anterior, el Instituto, en coordinación con las entidades públicas, procurará el establecimiento de mecanismos de garantía amplias y suficientes que aseguren que dichos pagos se realicen de forma efectiva y en términos de lo establecido en las reglas de operación de los esquemas optativos de préstamos y en las propias garantías, lo anterior, con el fin de aumentar sus plazos y disminuir su tasa de interés, para hacerla competitiva.
 
 ###### Artículo 50.
 
@@ -719,9 +725,19 @@ En percepciones por cátedra o puestos no escalafonarios, se promediarán las vi
 
 La cuota diaria de jubilación o pensión que se conceda conforme a esta ley en ningún caso será mayor de ocho veces el salario mínimo general vigente a la fecha de jubilación. Ninguna entidad pública o servidor público tendrá la obligación de cubrir aportaciones ordinarias que excedan las correspondientes al importe de la máxima jubilación o pensión establecida en este artículo. Los sujetos de esta ley y el Instituto cuidarán que dichas aportaciones no rebasen el tope antes señalado.
 
+> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 74.
 
-(DEROGADO, D.O. 30 DE SEPTIEMBRE DE 2016)
+El Instituto deberá ofrecer a sus derechohabientes esquemas de jubilación o pensión optativos y complementarios a lo establecido en el artículo anterior. Dichos esquemas deberán incluir por lo menos tres aspectos obligatorios en su diseño: edad de retiro, años de aportaciones y aportaciones del trabajador, todas superiores a las establecidas para otorgar la pensión máxima a que se refiere el artículo anterior.
+
+En ningún caso, la suma de los esquemas optativos y complementarios de pensión o jubilación y la pensión o jubilación regular que el Instituto otorgue, podrá rebasar los diez salarios mínimos vigentes a la fecha de jubilación.
+
+Todo esquema de jubilación o pensión optativo y complementario que se ofrezca deberá ser autorizado por el Consejo Directivo.
+
+En el caso de esquemas estrictamente individuales, estos deberán estar acompañados del respectivo análisis actuarial que muestre que no representan una carga financiera adicional a la de los esquemas obligatorios que otorga el Instituto.
+
+Tratándose de esquemas de jubilación o pensión optativos y complementarios de carácter general, estos deberán estar segmentados, por lo menos, por grupos de edad y años de aportaciones, así como señalar el mínimo de participantes que se requiere en cada segmento para hacerlos viables. Deberán, también, estar acompañados del respectivo análisis actuarial que haga explícito el elemento de transferencias intergeneracionales de beneficios financieros y muestre que no representan una carga económica adicional para el Instituto.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -1398,3 +1414,21 @@ La reforma al artículo 83 de la Ley de Seguridad Social para los Servidores Pú
 Cuarto. Expedición del estatuto orgánico
 
 El Consejo Directivo del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán deberá emitir su estatuto orgánico dentro de los noventa días naturales siguientes a la entrada en vigor del presente decreto.
+
+D.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 556/2017 POR EL QUE SE MODIFICA LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARÁCTER ESTATAL”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán; con excepción del artículo 74 del mismo, el cual entrará en vigor dentro de los doscientos cuarenta días naturales siguientes al de su publicación en el citado diario oficial.
+
+Segundo. Esquema de pensión complementario
+
+El Consejo Directivo del Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán, deberá iniciar el análisis y desarrollo de esquemas de pensión complementarios señalados en el artículo 74 de la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal; así como dar comienzo al desahogo específico de las solicitudes individuales o colectivas que al respecto se presenten en un plazo máximo de hasta noventa días naturales siguientes a la entrada en vigor del artículo 74 de este decreto.
+
+Durante el plazo previo a la entrada en vigor del artículo 74 de este decreto, el Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán, deberá realizar los estudios actuariales que sean necesarios para determinar por segmentos de antigüedad y monto adicional de cotización de los trabajadores al servicio del estado derechohabientes, con la finalidad de determinar los esquemas para acceder a una jubilación o pensión con uno o dos salarios mínimos adicionales teniendo como tope máximo diez salarios mínimos.
+
+Tercero. Constitución de garantías
+
+El Instituto de Seguridad Social de los Trabajadores del Estado de Yucatán se coordinará con el Gobierno del estado; las entidades de la Administración Pública estatal, los poderes Legislativo y Judicial y los organismos constitucionales autónomos estatales, que no estén afectos a un régimen distinto de seguridad social, y los ayuntamientos de los municipios que, mediante convenio, se adhieran a los derechos y obligaciones previstos en la Ley de Seguridad Social para los Servidores Públicos del Estado de Yucatán, de sus Municipios y de los Organismos Públicos Coordinados y Descentralizados de Carácter Estatal, para el establecimiento de las garantías amplias y eficientes a que hacen referencia los artículos 11 y 49 de esta ley, en un plazo de noventa días a partir de la entrada en vigor de este decreto.
