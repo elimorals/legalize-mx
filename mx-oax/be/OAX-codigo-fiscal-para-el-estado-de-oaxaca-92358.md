@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2016-12-31"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -161,9 +161,9 @@ VII. El Director de Auditoría e Inspección Fiscal y los Coordinadores de la Di
 
 VIII. Los auditores, inspectores, visitadores, notificadores, ejecutores e interventores;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-IX. El Coordinador de Delegaciones Fiscales, delegados y subdelegaciones fiscales;
+IX. El Coordinador de Centros Integrales de Atención al Contribuyente;
 
 X. Director General del Instituto Catastral del Estado y los Coordinadores de la Dirección a su cargo;
 
@@ -597,7 +597,9 @@ II. Lo ordene una resolución judicial o administrativa;
 
 III. Fallezca la persona física titular del certificado. En este caso la revocación deberá solicitarse por un tercero legalmente autorizado, quien deberá acompañar el acta de defunción correspondiente;
 
-IV. Se disuelvan, liquiden o extingan las sociedades, asociaciones y demás personas morales. En este caso, serán los liquidadores quienes presenten la solicitud correspondiente;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IV. Tratándose de personas morales, cuando éstas se disuelvan, liquiden o extingan. En este caso, serán los liquidadores quienes presenten la solicitud correspondiente;
 
 V. La sociedad escindente o la sociedad fusionada desaparezca con motivo de la escisión o fusión, respectivamente. En el primer caso, la cancelación la podrá solicitar cualquiera de las sociedades escindidas; en el segundo, la sociedad que subsista;
 
@@ -605,13 +607,39 @@ VI. Transcurra el plazo de vigencia del certificado;
 
 VII. Se pierda o inutilice por daños, el medio electrónico en el que se contengan los certificados;
 
-VIII. Se compruebe que al momento de su expedición, el certificado no cumplió los requisitos legales, situación que no afectará los derechos de terceros de buena fe, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-IX. Cuando se ponga en riesgo la confidencialidad de los datos de creación de Firma electrónica avanzada de la Secretaría.
+VIII. Se compruebe que al momento de su expedición, el certificado no cumplió los requisitos legales, situación que no afectará los derechos de terceros de buena fe;
 
-Las autoridades fiscales podrán tramitar la cancelación de los certificados, de sellos o firmas digitales, cuando se den hipótesis análogas a las previstas en las fracciones VII y IX de este artículo.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IX. Se ponga en riesgo la confidencialidad de los datos de creación de firma electrónica avanzada de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+X. Detecten que las o los contribuyentes, en un mismo ejercicio fiscal y estando obligados a ello, omitan la presentación de tres o más declaraciones periódicas consecutivas o no consecutivas, previo requerimiento de la autoridad para su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XI. Durante el procedimiento administrativo de ejecución no localicen al contribuyente o éste desaparezca;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XII. En el ejercicio de sus facultades de comprobación, detecten que el contribuyente no puede ser localizado; éste desaparezca durante el procedimiento, o bien se tenga conocimiento de que los comprobantes fiscales emitidos se utilizaron para amparar operaciones inexistentes, simuladas o ilícitas, y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XIII. Cuando aún sin ejercer sus facultades de comprobación, detecten la existencia de una o más infracciones previstas en los artículos 268, 269 y 270 de este ordenamiento y la conducta sea realizada por el contribuyente titular del certificado.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Las autoridades fiscales podrán tramitar la cancelación de los certificados, de sellos o firmas digitales, cuando se den hipótesis análogas a las previstas en las fracciones VII y IX de este artículo. Cuando las autoridades fiscales revoquen un certificado expedido por ella, se anotará en el mismo la fecha y hora de su revocación. Para los terceros de buena fe, la revocación de un certificado que emitan las autoridades fiscales, surtirá efectos a partir de la fecha y hora que se dé a conocer la revocación en la página electrónica de la Secretaría.
 
 Las solicitudes de revocación a que se refiere este artículo deberán presentarse de conformidad con las Reglas que al efecto establezca la Secretaría.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Los contribuyentes a quienes se les haya dejado sin efectos el certificado de sello digital podrán llevar a cabo el procedimiento que, mediante reglas, determine la autoridad fiscal para subsanar las irregularidades detectadas, en el cual podrán aportar las pruebas que a su derecho convenga, a fin de obtener un nuevo certificado. La autoridad fiscal deberá emitir la resolución sobre dicho procedimiento en un plazo máximo de tres días, contado a partir del día siguiente a aquel en que se reciba la solicitud correspondiente.
 
 ###### ARTÍCULO 47.
 
@@ -975,11 +1003,23 @@ Las autoridades fiscales efectuarán la devolución mediante cheque nominativo o
 
 En caso de que el pago se realice mediante cheque nominativo, se considerará que la devolución está a disposición del contribuyente al día hábil siguiente en que surta efectos la notificación de la autorización de la devolución respectiva, y siempre que el cheque se encuentre efectivamente a su disposición. El cheque estará a disposición del contribuyente en un plazo de 30 días.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 71.
 
-Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención o recaudación de contribuciones a terceros.
+Podrán compensarse los adeudos fiscales cuando:
 
-Para efecto de lo dispuesto en el párrafo anterior, los contribuyentes efectuarán la compensación de las cantidades a su favor actualizadas conforme a lo previsto en el artículo 23 de este Código, desde el mes en que se realizó el pago de lo indebido, hasta aquél en que la compensación se realice; debiendo además presentar aviso de compensación dentro de los cinco días siguientes a aquél en que la misma se haya efectuado, para lo cual deberán proporcionar la información y acompañar la documentación que al efecto se solicite en la forma oficial que para estos efectos se publique.
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+I. Los contribuyentes obligados a pagar mediante declaración opten por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención o recaudación de contribuciones a terceros, y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. Los contribuyentes a los que se les haya determinado un crédito fiscal firme opten por compensar contra saldos pendientes de pago por parte del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Para efecto de lo dispuesto en la fracción I, los contribuyentes efectuarán la compensación de las cantidades a su favor actualizadas conforme a lo previsto en el artículo 23 de este Código, desde el mes en que se realizó el pago de lo indebido, hasta aquél en que la compensación se realice; debiendo, además, presentar aviso de compensación dentro de los cinco días siguientes a aquél en que la misma se haya efectuado, para lo cual deberán proporcionar la información y acompañar la documentación que al efecto se solicite en la forma oficial que para estos efectos se publique. Tratándose de la fracción II podrá hacerse la compensación previa manifestación de la voluntad del contribuyente, de conformidad con las Reglas que al efecto establezca la Secretaría.
 
 Los contribuyentes que hayan ejercido la opción a que se refiere el primer párrafo del presente artículo, que tuvieran remanente una vez efectuada la compensación, podrán solicitar la devolución de dicho remanente.
 
@@ -1089,53 +1129,29 @@ II. Proporcionar de inmediato a sus clientes, la impresión del comprobante fisc
 
 ### CAPÍTULO SEXTO. DE LOS DICTÁMENES DE CONTRIBUCIONES ESTATALES POR CONTADOR PÚBLICO AUTORIZADO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 81.
 
-Están obligadas a dictaminar sus contribuciones estatales por contador público registrado, en los términos de este Código y su Reglamento, las personas físicas, morales o unidades económicas, que se encuentren en alguno de los supuestos siguientes y por cada uno de ellos:
+Las personas físicas, morales o unidades económicas, estarán obligadas a dictaminar sus contribuciones estatales por contador público registrado, en los términos de este Código y su Reglamento, cuando se encuentren en los supuestos siguientes:
 
-I. Las que en el año calendario inmediato anterior hayan causado la obligación de pago de la tenencia o uso, de un promedio mensual de veinte o más vehículos;
+I. Que en el año calendario inmediato anterior hayan obtenido ingresos superiores a $10,000,000.00, por concepto de prestación de servicios de hospedaje, y
 
-II. Las que en el año calendario inmediato anterior hayan obtenido ingresos superiores a $1,000,000.00, por concepto de prestación de servicios de hospedaje;
+II. Las que por concepto del impuesto sobre erogaciones por remuneraciones al trabajo personal en el año calendario inmediato anterior hayan contado con un promedio mensual de ciento cincuenta o más trabajadores, o cuando por concepto de pago sobre erogaciones por remuneraciones al trabajo personal haya sido igual o superior a $400,000.00 pesos en promedio mensual.
 
-III. Las que en el año calendario inmediato anterior hayan contado con un promedio mensual de cien o más trabajadores;
-
-IV. Las que en el año calendario inmediato anterior hayan obtenido ingresos superiores a $750,000.00, por concepto del otorgamiento del uso o goce temporal de bienes inmuebles;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-V. Las que estén constituidas como organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos conforme a la ley de la materia;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-VI. Las que en el año calendario inmediato anterior hayan obtenido ingresos superiores a $100,000.00, por concepto de demasías caducas; y
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-VII. Las que en el año calendario inmediato anterior hayan enajenado un promedio mensual de diez o más vehículos de motor usados.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-A partir del segundo ejercicio en que se encuentren en suspensión de actividades, los contribuyentes a que se refieren las fracciones II, III, IV, VI y VII de este artículo, no estarán obligados a dictaminar sus contribuciones estatales.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+A partir del segundo ejercicio en que se encuentren en suspensión de actividades, los contribuyentes a que se refiere la fracción II de este artículo, no estarán obligados a dictaminar sus contribuciones estatales.
 
 Las personas físicas, morales o unidades económicas, que no estén obligadas a dictaminar sus contribuciones estatales por contador público registrado, podrán optar por hacerlo en los términos del artículo 82 de este Código y su Reglamento.
 
-Los contribuyentes a que se refiere este artículo deberán presentar ante la autoridad fiscal estatal competente lo siguiente:
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+Los contribuyentes a que se refiere este artículo deberán presentar ante la autoridad fiscal lo siguiente:
 
 a) Aviso de dictamen a través de los formatos autorizados para tal efecto por la Secretaría, dentro de los tres meses siguientes a la terminación del ejercicio a dictaminar, y
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
 b) Dictamen formulado por contador público registrado, incluyendo la información y documentación que indique el Reglamento, a más tardar el 30 de junio del año inmediato posterior a la terminación del ejercicio a dictaminar.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+Cuando el dictamen y la información relacionada con el mismo se presenten fuera de los plazos que prevé este artículo, éstos se tendrán por no presentados.
 
-Cuando el dictamen y la información relacionada con el mismo se presenten fuera de los plazos que prevé este articulo, estos se tendrán por no presentados.
-
-En el caso de que en el dictamen se determinen diferencias de contribuciones a pagar, éstas deberán enterarse mediante declaración complementaria ante la Secretaría, dentro de los diez días posteriores a la presentación del dictamen.
+En el caso de que el dictamen determine diferencias de contribuciones a pagar, éstas deberán enterarse mediante declaración complementaria ante la Secretaría, dentro de los diez días posteriores a la presentación del dictamen.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -1431,7 +1447,7 @@ En el ámbito estatal y para efectos del adecuado ejercicio de sus funciones, la
 
 Los hechos que las autoridades fiscales conozcan con motivo del ejercicio de sus facultades de comprobación, o bien que consten en los expedientes, documentos o bases de datos que tengan en su poder o a las que tengan acceso, así como los proporcionados por otras autoridades, podrán utilizarse como sustento de la motivación de las resoluciones que emitan.
 
-Cuando el afectado no tenga conocimiento de los expedientes o documentos que hubieren sido proporcionados por otras autoridades y éstos vayan a utilizarse para motivar las resoluciones de la autoridad fiscal, dichas autoridades deberán correr traslado al afectado, concediéndole un plazo de quince días para que manifieste lo que a su derecho convenga, y en su caso presente los documentos que desvirtúen los hechos que hubieren informados por las referidas autoridades.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 98.
 
@@ -1561,21 +1577,33 @@ III. Practicar visitas domiciliarias a los contribuyentes, los responsables soli
 
 IV. Revisar los dictámenes formulados por contadores públicos sobre impuestos estatales y su relación con el cumplimiento de disposiciones fiscales estatales;
 
-V. Practicar visitas de inspección a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones fiscales en materia de la expedición de comprobantes fiscales y de la presentación de solicitudes o avisos en materia del registro estatal de contribuyentes; verificar que la operación de los sistemas y registros electrónicos, que en materia estatal estén obligados a llevar los contribuyentes, se realice conforme lo establecen las disposiciones fiscales; para solicitar la exhibición de la documentación o los comprobantes que amparen la legal propiedad, o posesión, de las mercancías; así como para verificar que los permisos otorgados por la Secretaría cumplan con el fin para el que fueron otorgados;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-VI. Realizar en términos de los Convenios de Colaboración Administrativa en Materia Fiscal Federal celebrados con el Gobierno Federal, o los Convenios de Colaboración Administrativa celebrados con los Gobiernos de los Municipios del Estado, el ejercicio de las facultades de comprobación que en este Código se prevén, así como las que correspondan respecto de actividades en materia federal, estatal o municipal;
+V. Practicar visitas de inspección a los contribuyentes, a fin de verificar el pago de contribuciones, presentación de declaraciones, expedición de comprobantes fiscales y/o la presentación de solicitudes o avisos en materia del registro estatal de contribuyentes; operación de los sistemas y registros electrónicos que se realicen conforme lo establecen las disposiciones fiscales; la documentación o los comprobantes que amparen la legal propiedad o posesión de mercancías; así como revisar que los permisos otorgados por la Secretaría cumplan con el fin para el que fueron expedidos;
 
-VII. Recabar de los funcionarios públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+VI. Clausurar los establecimientos, sucursales, locales, puestos fijos o semifijos en la vía pública, cuando la autoridad fiscal, en uso de sus facultades, se percate de la existencia de irregularidades en el cumplimiento de las obligaciones fiscales. En este caso, procederá conforme a lo previsto en el artículo 173 A del presente Código.
 
-VIII. Allegarse las pruebas necesarias para formular la denuncia o querella al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la Ley relativa concede a las actas levantadas ante el Ministerio Público; y la Secretaría, a través de los abogados que designe para tales efectos, será coadyuvante de éste, en los términos del Código Procesal Penal para el Estado de Oaxaca, así como en los lugares donde se aplique el Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VII. Realizar en términos de los Convenios de Colaboración Administrativa en Materia Fiscal Federal celebrados con el Gobierno Federal, o los Convenios de Colaboración Administrativa celebrados con los Gobiernos de los Municipios del Estado, el ejercicio de las facultades de comprobación que en este Código se prevén, así como las que correspondan respecto de actividades en materia federal, estatal o municipal;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VIII. Recabar de los servidores públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones, y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IX. Allegarse las pruebas necesarias para formular la denuncia o querella al ministerio público para que ejercite la acción penal por la posible comisión de delitos fiscales.
 
 El ejercicio de las facultades a que se refiere este artículo lo podrán realizar las autoridades fiscales de forma simultánea, indistinta o sucesiva, y en cada caso, se considerarán iniciadas con el primer acto que se notifique al contribuyente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 108.
 
-Cuando en el ejercicio de sus facultades de comprobación del cumplimiento de las obligaciones fiscales o las de verificación establecidas en este Código, las autoridades fiscales conozcan que los contribuyentes no se encuentran inscritos en el registro estatal de contribuyentes, podrán solicitar, a éstos la información necesaria para su inscripción en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
+Las autoridades fiscales, cuando en el ejercicio de sus facultades o a través (sic) Convenios de Intercambio de Información conozcan que los contribuyentes no se encuentran inscritos en el Registro Estatal de Contribuyentes, deberán solicitar a éstos la información necesaria para su inscripción en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito, en términos del artículo 170 de este Código.
 
 En caso que los obligados directos a realizar la inscripción no proporcionen la información necesaria para hacerlo, las autoridades procederán a recabarla incluso de terceros que cuenten con elementos que permitan discernir que es aplicable para los fines que se persiguen.
 
@@ -1783,7 +1811,9 @@ Dicha reserva tampoco comprenderá la información relativa a los créditos fisc
 
 Sólo por acuerdo expreso del Secretario se podrán publicar los siguientes datos por grupos de contribuyentes: nombre, actividad, ingreso total, utilidad fiscal o valor de sus actos o actividades y contribuciones acreditables o pagadas.
 
-Mediante convenio de intercambio recíproco de información, suscrito por el Secretario, se podrá suministrar la información a otras autoridades fiscales de otras entidades federativas, siempre que se pacte que la misma sólo se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente por la entidad de que se trate.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Mediante convenio de intercambio recíproco de información, se podrá suministrar la información a otras autoridades fiscales, siempre que se pacte que la misma únicamente se utilizará para efectos fiscales y se guardará el secreto fiscal correspondiente.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2105,11 +2135,17 @@ Los visitados, su representante legal o las personas con quien se entienda la vi
 
 Cuando los visitados lleven su contabilidad o parte de ella con sistema de registro electrónico, o la microfilmen o graben en discos ópticos o en cualquier otro medio autorizado por las disposiciones aplicables a la contabilidad, deberán poner a disposición de los visitadores cuando ello sea requerido, a sus operadores para que los auxilien en el desarrollo de la visita.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 149.
 
-Para su desarrollo y eficacia, respeto a los derechos de los contribuyentes las visitas domiciliarias deberán sujetarse a lo siguiente:
+Las visitas domiciliarias deberán sujetarse a lo siguiente:
 
 I. El desarrollo del procedimiento y los hechos u omisiones conocidos por los visitadores en el desarrollo de la visita que produzcan el incumplimiento de disposiciones fiscales, deberán hacerse constar en actas parciales, los cuales harán prueba para efectos de las contribuciones a cargo del visitado, de la existencia de los mismos durante el periodo revisado;
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+La autoridad que practique la visita, deberá notificar legalmente al contribuyente la fecha, hora y lugar en que tendrá lugar la continuación de cada una de las actuaciones posteriores al acta de inicio.
 
 II. Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos deberán levantarse las actas que correspondan cumpliendo con los requisitos de procedimiento establecidos para el inicio de la visita, las cuales se agregarán al acta final de visita, que podrá ser levantada en cualquiera de los lugares visitados.
 
@@ -2197,17 +2233,19 @@ VI. Cuando durante el plazo para concluir el ejercicio de las facultades de comp
 
 Cuando las autoridades fiscales no levanten el acta final de visita domiciliaria o no emitan el oficio de observaciones dentro del plazo establecido en este artículo, quedarán sin efectos tanto las ordenes, como las actuaciones que en ellos se hubieren realizado.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 154.
 
-Cuando las autoridades fiscales para el ejercicio de las facultades de comprobación soliciten de los contribuyentes, responsables solidarios o terceros, documentación para su revisión, se estará a los siguientes plazos para proporcionarla:
+Cuando las autoridades fiscales para el ejercicio de las facultades de comprobación soliciten de las y los contribuyentes, responsables solidarios o terceros, documentación para su revisión, se estará a los siguientes plazos para proporcionarla:
 
-I. Los libros y registros que formen parte de la contabilidad, así como los diagramas y contenido del sistema de registro electrónico en su caso, que le sean solicitados durante una visita domiciliaria, deberán presentarse de inmediato;
+I. De inmediato cuando se solicite durante una visita domiciliaria;
 
-II. Cuando los documentos de los que el visitado debe tener en su poder que habiendo sido requeridos en el curso de una visita domiciliaria, no sean presentados en los términos de la fracción anterior, independientemente de las sanciones a que se hubiere hecho acreedor el contribuyente omiso, deberá presentarlos en el plazo de seis días, y
+II. Dentro de los seis días, cuando la contabilidad requerida, no sea presentada en los términos de la fracción anterior, y
 
-III. En los casos no previstos en las fracciones anteriores, el plazo de presentación será de quince días.
+III. Quince días, en los casos no previstos en las fracciones anteriores.
 
-Los plazos a que se refieren las fracciones II y III de este artículo podrán ampliarse a solicitud del interesado, por diez días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o sean de difícil obtención. La solicitud deberá presentarse dentro del plazo original que corresponda.
+Los plazos a que se refiere (sic) las fracciones II y III de este artículo, podrán ampliarse a solicitud de la o el interesado por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
 ### CAPÍTULO TERCERO. DE LA REVISIÓN DE DICTÁMENES PARA EFECTOS FISCALES
 
@@ -2301,7 +2339,9 @@ V. Se levantará acta circunstanciada en la que se harán constar los hechos, om
 
 VI. Realizada la visita de inspección, si al cierre del acta de visita domiciliaria, el visitado o la persona con quien se entiende la diligencia o los testigos designados por ésta se niegan a firmar el acta, dicha circunstancia se asentará en la propia acta, sin que se afecte la validez o valor probatorio de la misma, dándose por concluida la visita correspondiente;
 
-VII. Cuando de las irregularidades conocidas por los visitadores se desprendan sanciones que consistan en la clausura del establecimiento visitado, los visitadores procederán en términos de las disposiciones aplicables a realizar dicha clausura, la cual se levantará en términos de dichas disposiciones cuando exista causa justificada para hacerlo, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VII. Cuando de las irregularidades conocidas se constituyan hechos por los cuales se deba efectuar el procedimiento de clausura, los visitadores actuarán en términos del artículo 173 A de este Código, y
 
 VIII. Concluida la visita, las autoridades en la propia acta, harán saber al interesado que cuenta con un plazo de tres días para desvirtuar la comisión de las infracciones que se le imputen, para lo cual deberá presentar las pruebas que a sus intereses convengan.
 
@@ -2339,19 +2379,21 @@ III. La información proporcionada por terceros a solicitud de las autoridades f
 
 IV. Cualquier otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades de comprobación, siempre y cuando se encuentre referida a operaciones realizadas por el contribuyente sujeto a determinación presuntiva.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 163.
 
-Cuando en el desarrollo de sus facultades de comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes, la autoridad advierta cualquiera de las irregularidades que se prevén en el artículo 109 de este Código, deberá darlo a conocer al contribuyente dentro de la última acta parcial y oficio de observaciones.
+Cuando en el desarrollo de sus facultades de comprobación la autoridad advierta cualquiera de las irregularidades que se prevén en el artículo 109 de este Código, deberá darlo a conocer al contribuyente antes del levantamiento de la última acta parcial o de la notificación del oficio de observaciones.
 
-El contribuyente deberá informar dentro del plazo de quince días por escrito a la autoridad, cuáles fueron las acciones realizadas para subsanar las irregularidades. Recibido el escrito del contribuyente en el que informa haber subsanado las irregularidades, la autoridad en el plazo de cinco días determinará y comunicará al revisado si se continuará con el ejercicio de las facultades de comprobación en forma ordinaria, o si se realizará la determinación presuntiva por considerarse que no se subsanaron las irregularidades que dieron origen a ello. Si el contribuyente dentro del plazo establecido no informa haber subsanado las irregularidades que generan la causa de determinación presuntiva, la autoridad procederá a realizarlo de esta forma.
+El contribuyente contará con un plazo de quince días, para subsanar las irregularidades e informar a la autoridad cuáles fueron las acciones realizadas, o bien, manifestar lo que a su derecho convenga. Recibido el escrito del contribuyente, la autoridad en el plazo de cinco días valorará, determinará y comunicará al revisado si se subsanó la irregularidad dada a conocer, o si se realizará la determinación presuntiva por considerarse que no se subsanaron las irregularidades que dieron origen a ello. Si el contribuyente dentro del plazo establecido no informa haber subsanado las irregularidades que genera la causa de determinación presuntiva, la autoridad procederá a realizar la determinación de esta forma.
 
 La determinación presuntiva realizada en los términos de este artículo, no admite prueba en contrario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 164.
 
-En caso que los contribuyentes se coloquen en las causales de determinación presuntiva previstas en el artículo 109 de este Código, y cuando después de haberse realizado el procedimiento establecido en el artículo anterior, no hubiesen subsanado las irregularidades que son causa de determinación presunta y no puedan comprobar por el periodo sujeto a revisión, sobre base cierta la base gravable para la determinación de las contribuciones estatales que se generaron a su cargo, se presumirá que sus ingresos derivados de las operaciones realizadas son iguales al resultado de alguna de las operaciones siguientes:
+En caso que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva previstas en el artículo 109 de este Código, y cuando después de haberse realizado el procedimiento establecido en el artículo anterior, no hubiesen subsanado las irregularidades que son causa de determinación presuntiva y no puedan comprobar por el periodo sujeto a revisión, sobre base cierta la base gravable para la determinación de las contribuciones estatales que se generaron a su cargo, se presumirá que sus ingresos derivados de las operaciones realizadas son iguales al resultado de alguna de las operaciones siguientes:
 
 I. Si con base a la contabilidad o documentación del contribuyente, o por información de terceros, se puedan reconstruir las operaciones correspondientes cuando menos treinta días consecutivos, lo más cercano posible al cierre del ejercicio, el ingreso o valor de las operaciones realizadas se determinarán con base en el promedio diario del periodo reconstruido, el que se multiplicará por el número de días que comprenda el periodo sujeto a revisión.
 
@@ -2449,21 +2491,17 @@ III. Cuando se trate de la segunda o posteriores ocasiones en que se hubiere omi
 
 #### SECCIÓN SEGUNDA. DE LA INSCRIPCIÓN DE OFICIO EN EL REGISTRO ESTATAL DE CONTRIBUYENTES
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 170.
 
-Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación adviertan la existencia de contribuyentes que no se encuentran inscritos en el registro estatal de contribuyentes, y se cuente con los datos necesarios para hacerlo, procederán a realizar de oficio la inscripción correspondiente, a efecto de lo cual se estará a lo siguiente:
+Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación o como resultado del intercambio de información con otras autoridades fiscales se advierta la existencia de contribuyentes que no se encuentran inscritos en el Registro Estatal de Contribuyentes, y se cuente con los datos necesarios para hacerlo, procederán a realizar de oficio la inscripción correspondiente, observando lo siguiente:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+I. Requerirán por una sola ocasión, la presentación del documento omitido otorgando un plazo de 6 días contados a partir del requerimiento notificado.
 
-I. Requerirán por una sola ocasión, la presentación del documento omitido en los términos de la fracción I del artículo 102 de este Código;
+II. Si después de efectuado el requerimiento establecido en la fracción anterior, el contribuyente persiste en conducta omisa, la autoridad fiscal, emitirá resolución fundada y motivada en la que de conformidad con los datos que tenga en su poder realice la inscripción oficiosa del contribuyente, la cual deberá ser notificada personalmente.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-II. Si después de efectuado el requerimiento establecido en la fracción anterior, el contribuyente persiste en conducta omisa, la autoridad fiscal, independientemente de la imposición de la sanción que corresponda, emitirá resolución fundada y motivada en la que de conformidad con los datos que tenga en su poder realice la inscripción oficiosa del contribuyente en el Registro Estatal de Contribuyentes, la cual deberá ser notificada personalmente;
-
-III. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
-
-IV. La inscripción realizada en términos de este artículo, genera a cargo del contribuyente todas las obligaciones fiscales que de ella se deriven.
+La inscripción realizada en términos de este artículo genera a cargo del contribuyente todas las obligaciones que de ella se deriven.
 
 #### SECCIÓN TERCERA. COBRO DE CRÉDITOS RESULTANTES POR CHEQUES DEVUELTOS
 
@@ -2503,7 +2541,61 @@ Las autoridades fiscales del Estado podrán suspender cualquier evento cuando qu
 
 También se podrá suspender el evento tratándose del Impuesto Sobre Diversiones y Espectáculos Públicos, cuando los sujetos obligados al mismo, no cumplan con las obligaciones establecidas en el capítulo correspondiente en la Ley Estatal de Hacienda.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN QUINTA. DE LA CLAUSURA
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 173 A. La autoridad fiscal como resultado de la visita de inspección podrá ordenar la clausura de establecimientos, sucursales y locales en los casos siguientes:
+
+I. Cuando el contribuyente haya omitido inscribirse en el Registro Estatal de Contribuyentes:
+
+a) 3 días, cuando operó por 6 meses sin estar inscrito;
+
+b) 10 días, por operar por más de 6 meses hasta 12 meses sin estar inscrito, y
+
+c) 15 días, por operar por más de 12 meses sin estar inscrito.
+
+II. Cuando el sujeto obligado omita el pago de las contribuciones a su cargo:
+
+a) 3 días, en tres ocasiones consecutivas omita el pago correspondiente;
+
+b) 10 días, más de tres hasta 6 ocasiones consecutivas omita el pago correspondiente, y
+
+c) 15 días, más de 6 ocasiones consecutivas en adelante omita el pago correspondiente.
+
+El cómputo del plazo de la clausura será desde el día en que se coloquen los sellos, independientemente de que se trate de un día incompleto.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 173 B. El procedimiento de clausura deberá sujetarse a lo siguiente:
+
+I. Realizarse mediante un acto de autoridad debidamente fundado y motivado por la autoridad competente.
+
+II. Llevar a cabo el levantamiento del acta con el contribuyente, o representante legal o apoderado legal, en el domicilio fiscal, establecimiento, sucursal y/o local.
+
+III. Determinar el plazo de clausura, de acuerdo con lo previsto en el artículo 173 A de este Código.
+
+IV. Colocar los sellos de clausura, los que deberán contener los logotipos oficiales, número de folio y motivo de la clausura.
+
+Cuando la orden de clausura afecta a un local o establecimiento que además de fines comerciales o industriales sirve de habitación, constituyendo el domicilio de una o más personas físicas, la clausura se ejecutará únicamente para suspender el funcionamiento del local o establecimiento del contribuyente, sin que impida la entrada o salida de la habitación.
+
+En ningún caso la Secretaría será responsable por daños a los bienes que hubiesen quedado en el interior del establecimiento clausurado, por lo que, si en el mismo se encuentran mercancías susceptibles de descomposición o animales vivos, se apercibirá al interesado para que los extraiga en el momento de la diligencia.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 173 C. La diligencia deberá constar en un acta donde consten los datos correspondientes al procedimiento de clausura, en la que se hará constar en forma pormenorizada los hechos u omisiones conocidos y en su caso las irregularidades detectadas.
+
+El acta deberá ser firmada por el servidor público que la levante y por el sujeto obligado, su representante legal o la persona, con quien se entienda la diligencia y por dos testigos de asistencia, quienes serán nombrados por la persona que atienda la diligencia y a falta de tal nombramiento, lo hará el servidor público actuante.
+
+De dicha acta se dejará copia a la persona con quien se haya entendido la diligencia. Si la persona con quien se entendió la diligencia o los testigos se nieguen a firmarla o a aceptar copia del acta, dicha circunstancia se hará constar en la propia acta, sin que esto afecte su validez y valor probatorio.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 173 D. Clausurado el establecimiento en los términos señalados, ninguna autoridad administrativa distinta a la Secretaría, podrá levantar la clausura.
+
+La Secretaría una vez transcurrido el plazo de la clausura mediante acta, procederá a retirar los sellos de clausura.
 
 ## TÍTULO CUARTO. DEL EMBARGO PRECAUTORIO, EL ASEGURAMIENTO DE BIENES Y DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
@@ -2699,9 +2791,7 @@ Para la práctica del aseguramiento precautorio se observarán las disposiciones
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
-#### SECCIÓN SEGUNDA:. DEL REQUERIMIENTO DE PAGO Y EMBARGO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
 ###### ARTÍCULO 184.
 
@@ -2809,9 +2899,9 @@ Las autoridades fiscales continuarán con el procedimiento administrativo de eje
 
 En todos los casos, cuando hubiere negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante la Sala del Tribunal que conozca del juicio respectivo
 
-#### SECCIÓN TERCERA. DE LA INTERVENCIÓN DE NEGOCIACIONES
+#### SECCIÓN SEGUNDA:. DEL REQUERIMIENTO DE PAGO Y EMBARGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 192.
 
@@ -2999,7 +3089,9 @@ En igual forma procederá el ejecutor cuando la persona con quien se entienda la
 
 Si no fuere factible romper o forzar las cerraduras de cajas u otros objetos unidos a un inmueble o de difícil transportación, el ejecutor trabará embargo sobre ellos y su contenido y los sellará, en cuyo caso el deudor se considerará como depositario de los mismos con las obligaciones que para ello se prevén en las disposiciones aplicables; para su apertura se seguirá el procedimiento establecido en el párrafo anterior.
 
-#### SECCIÓN CUARTA. DEL REMATE
+#### SECCIÓN TERCERA. DE LA INTERVENCIÓN DE NEGOCIACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 208.
 
@@ -3063,6 +3155,8 @@ La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o
 
 Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida o a la enajenación de los bienes o derechos que componen la misma de forma separada, cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado período del año, en cuyo caso el porciento será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porciento del crédito que resulte.
 
+#### SECCIÓN CUARTA. DEL REMATE
+
 ###### ARTÍCULO 217.
 
 La enajenación de bienes embargados, procederá:
@@ -3077,6 +3171,10 @@ Salvo los casos que este Código autoriza, toda enajenación se hará en subasta
 
 Cuando la naturaleza de los bienes embargados así lo permita, la autoridad podrá ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Las enajenaciones fuera de remate podrán ser en subasta pública, misma que se llevará a cabo a través de medios electrónicos, respetando la base fijada para su venta.
+
 ###### ARTÍCULO 219.
 
 La base para la enajenación de los bienes inmuebles y negociaciones embargados, será la de avalúo pericial, conforme al procedimiento establecido en el Reglamento.
@@ -3089,9 +3187,9 @@ Los avalúos realizados en términos de este artículo deberán ser notificados 
 
 El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere la fracción II, inciso b) del artículo 244, en relación con el 251 de este Código, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores que cumplan con los requisitos señalados en el Reglamento o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo establecido en el artículo 251 de este Código, o haciéndolo no designen valuador, o habiéndose nombrado perito por dichas personas, no se presente el dictamen dentro de los plazos a que se refiere el párrafo quinto de este artículo, se tendrá por aceptado el avalúo hecho por la autoridad.
+Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo establecido en el artículo 251 de este Código, o haciéndolo no designen valuador, o habiéndose nombrado perito por dichas personas, no se presente el dictamen dentro de los plazos a que se refiere el párrafo séptimo de este artículo, se tendrá por aceptado el avalúo hecho por la autoridad.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3101,17 +3199,21 @@ Cuando del dictamen rendido por el perito del embargado o terceros acreedores re
 
 En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de cinco días si se trata de bienes muebles, diez días si son inmuebles y quince días cuando sean negociaciones, a partir de la fecha de su aceptación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 220.
 
-El remate deberá ser convocado al día siguiente de haberse efectuado la notificación del avalúo, para que tenga verificativo dentro de los veinte días siguientes. La convocatoria se hará cuando menos diez días antes del inicio del período señalado para el remate y la misma se mantendrá en los lugares o medios en que se haya fijado o dado a conocer hasta la conclusión del remate.
+El remate o la enajenación fuera de remate deberá ser convocado al día siguiente de haber quedado firme la determinación del valor que deberá servir de base para el remate o la enajenación fuera de remate de los bienes embargados, para que tenga verificativo dentro de los veinte días siguientes.
 
-La convocatoria se realizará por tres días en el Periódico Oficial del Gobierno del Estado, y se fijará además, en los medios electrónicos correspondientes en el portal electrónico de la autoridad, y en sitio visible y abierto al público de la oficina ejecutora o en los lugares públicos que se juzgue conveniente. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
+La publicación de la convocatoria de remate o la difusión de la convocatoria de la enajenación fuera de remate, se hará cuando menos diez días antes del inicio del período señalado para el remate o enajenación fuera de remate y la misma se mantendrá en los lugares o medios en que se haya fijado o dado a conocer hasta la conclusión del remate o enajenación fuera de remate.
+
+La convocatoria se fijará en los medios electrónicos correspondientes en el portal electrónico de la autoridad, y en sitio visible y abierto al público de la autoridad fiscal o en los lugares públicos que se juzgue conveniente. En la convocatoria se darán a conocer los bienes objeto del remate o la enajenación fuera de remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 221.
 
-La autoridad ejecutora, cuando ello sea aplicable, deberá obtener un certificado de gravámenes de los últimos diez años, debiendo notificar a más tardar en la fecha de publicación de la convocatoria a remate su realización, personalmente o en los términos previstos en este Código cuando no fuere posible la notificación personal, a los acreedores del deudor que en él aparecieren, a efecto que en términos de este Código concurran a hacer valer la preferencia que les corresponda.
+La autoridad fiscal, cuando ello sea aplicable, deberá obtener un certificado de gravámenes de los últimos diez años, debiendo notificar a más tardar en la fecha de publicación de la convocatoria a remate o enajenación fuera de remate su realización, personalmente o en los términos previstos en este Código cuando no fuere posible la notificación personal, a los acreedores del deudor que en él aparecieren, a efecto que en términos de este Código concurran a hacer valer la preferencia que les corresponda.
 
 Cuando hubiesen concurrido en términos de este Código a hacer valer su derecho de preferencia, los acreedores a que alude el párrafo anterior podrán hacer las observaciones que estimen dentro de los tres días siguientes, pudiendo enviarlas en documento digital que contenga firma electrónica avanzada a la dirección de correo electrónico institucional que expresamente se señale en la convocatoria, debiendo señalar su dirección de correo electrónico. Dichas observaciones serán resueltas por la autoridad ejecutora en un plazo de tres días y la resolución se hará del conocimiento del acreedor.
 
@@ -3127,21 +3229,29 @@ La autoridad exactora podrá enajenar a plazos los bienes embargados en los caso
 
 Si del producto del remate se obtiene una cantidad mayor al adeudo existente, el remanente aun en caso de enajenación a plazos, deberá ser entregado al deudor a partir de la fecha en que se haya realizado en los términos del Reglamento.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 223.
 
-Las posturas deberán enviarse en documento digital con firma electrónica avanzada, a la dirección de correo electrónico institucional que se señale en la convocatoria para el remate. La Secretaría a través de la autoridad competente, mandará el acuse de recibo electrónico con sello digital que confirme la recepción de las posturas. Las características para dichos acuses se emitirán en Reglas.
+Las posturas deberán enviarse en documento digital con firma electrónica avanzada, a la dirección de correo electrónico institucional que se señale en la convocatoria para el remate. La Secretaría, a través de la autoridad competente, mandará el acuse de recibo electrónico con sello digital que confirme la recepción de las posturas. Las características para dichos acuses se emitirán en las Reglas que para tal efecto expida la Secretaría.
 
-Para intervenir en una subasta será necesario que el postor, a más tardar en la fecha de envío de su postura, realice una transferencia electrónica de fondos equivalente cuando menos al 10% del valor fijado a los bienes en la convocatoria. Esta transferencia deberá hacerse de conformidad con las Reglas que para tal efecto expida la Secretaría, y su importe se considerará como depósito para los efectos del siguiente párrafo y de los artículos 227, 228, y 229 de este Código.
+Para intervenir en una subasta será necesario que el postor, a más tardar en la fecha de envío de su postura, realice una transferencia electrónica de fondos equivalente cuando menos al 10 por ciento del valor fijado a los bienes en la convocatoria.
 
-El importe de los depósitos que se constituyen de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados.
+En el caso de enajenación fuera de remate, la transferencia electrónica de fondos deberá ser cuando menos por el quince por ciento del valor fijado a los bienes en la convocatoria.
 
-Después de fincado el remate se devolverán a los postores que no hubieren resultado adjudicados, los fondos transferidos electrónicamente, y los que correspondan al admitido, continuarán como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
+Esta transferencia deberá hacerse de conformidad con las Reglas que para tal efecto expida la Secretaría, y su importe se considerará como depósito para los efectos del siguiente párrafo y de los artículos 227, 228 y 229 de este Código.
+
+El importe de los depósitos que se constituyen de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan las y los postores por las adjudicaciones que se les hagan de los bienes rematados o enajenados fuera de remate.
+
+Después de fincado el remate o la enajenación respectiva se devolverán a los postores o interesados que no hubieren resultado adjudicados, los fondos transferidos electrónicamente, y los que correspondan al admitido, continuarán como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
 
 La Secretaría, a través de Reglas, podrá establecer facilidades administrativas para que en sustitución de la firma electrónica avanzada, se empleen otros medios de identificación electrónica.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 224.
 
-El documento digital en que se haga la postura, deberá contener los siguientes datos:
+El documento digital en que se haga la postura o propuestas según sea el caso, deberá contener los siguientes datos:
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -3159,19 +3269,21 @@ V. El monto y número de la transferencia electrónica de fondos que se haya rea
 
 Si las posturas no cumplen los requisitos a que se refieren las fracciones anteriores y los que se señalen en la convocatoria, la autoridad fiscal no las calificará como posturas legales, situación que a través de los medios electrónicos se hará del conocimiento del interesado, antes de la fecha señalada para el remate.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 225.
 
-En el portal electrónico de subastas de la Secretaría, se especificará el período correspondiente a cada remate, el registro de los postores y las posturas que se reciban, así como la fecha y hora de su recepción.
+En el portal electrónico de subastas de la Secretaría, se especificará el período correspondiente a cada remate o enajenación fuera de remate, el registro de las posturas o propuestas que se reciban, así como la fecha y hora de su recepción.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+Cada subasta de remate o periodo de enajenación fuera de remate tendrá una duración de cinco días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del quinto día. En dicho periodo las y los postores o interesados presentarán sus posturas o propuestas. Para los efectos de este párrafo se entenderá que las 12:00 horas corresponden a la zona horaria del Centro de México.
 
-Cada subasta tendrá una duración de cinco días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del quinto día. En dicho periodo los postores presentarán sus posturas y podrán mejorar las propuestas. Para los efectos de este párrafo se entenderá que las 12:00 horas corresponden a la zona horaria del Centro de México.
-
-Si dentro de los veinte minutos previos al vencimiento del plazo de remate se recibe una postura que mejore las anteriores, el remate no se cerrará conforme al término mencionado en el párrafo precedente, en este caso y a partir de las 12:00 horas del día de que se trate, se concederán plazos sucesivos de 5 minutos cada uno, hasta que la última postura no sea mejorada. Una vez transcurrido el último plazo sin que se reciba una mejor postura se tendrá por concluido el remate.
+Si dentro de los veinte minutos previos al vencimiento del plazo de remate se recibe una postura que mejore las anteriores, el remate no se cerrará conforme al término mencionado en el párrafo precedente. En este caso y a partir de las 12:00 horas del día de que se trate, se concederán plazos sucesivos de 5 minutos cada uno, hasta que la última postura no sea mejorada. Una vez transcurrido el último plazo sin que se reciba una mejor postura se tendrá por concluido el remate.
 
 La Secretaría fincará el remate a favor de quien haya hecho la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se fincará el remate a favor de quien haya hecho la primera postura recibida.
 
-Una vez fincado el remate se comunicará a través de la dirección de correo electrónico que se hubiese señalado para participar en la realización de la subasta, el resultado del mismo a los postores que hubieren participado en él, remitiendo el acta que al efecto se hubiere levantado.
+Para la enajenación fuera de remate que se realice a través de subasta pública una vez agotado el periodo de subasta, la Secretaría comunicará el resultado del mismo a través del portal electrónico de subastas de la Secretaría a las y los interesados que hubieren participado en él.
+
+Una vez fincado el remate, se comunicará el resultado del mismo a las y los postores que hubieren participado en él, a través de la dirección de correo electrónico que se hubiese señalado para participar en la realización de la subasta, remitiendo el acta que al efecto se hubiere levantado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3183,43 +3295,65 @@ La autoridad podrá adjudicar el bien al postor que haya presentado la segunda p
 
 En caso de incumplimiento de los postores, se iniciará nuevamente la almoneda en la forma y plazos que señalan los artículos respectivos.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, cuando la o el interesado en cuyo favor se hubiere fincado la enajenación fuera de remate no cumpla con las obligaciones que contraiga y las que este Código señala, perderá el importe del depósito que hubiera constituido y se aplicará, de plano, a favor del fisco estatal.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+En este caso, será notificado el interesado que hubiese ofrecido la segunda mejor propuesta más alta; una vez hecho lo anterior, se adjudicarán a su favor los bienes.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 227.
 
-Fincado el remate de bienes muebles se aplicará el depósito del postor adjudicado. Dentro de los tres días siguientes a la fecha del remate, dicho postor deberá enterar mediante transferencia electrónica de fondos que realice conforme a lo que se establezca en Reglas, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de la mejora que hubiere realizado.
+Fincado el remate o la enajenación fuera de remate de bienes muebles se aplicarán el depósito constituido. Dentro de los tres días siguientes a la fecha de fincado el remate o la enajenación fuera de remate, el postor o interesado deberá enterar mediante transferencia electrónica de fondos que realice conforme a lo que se establezca en Reglas, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de la mejora a través de las pujas o propuestas que hubiere realizado.
 
-Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos.
+Tan pronto como el postor o interesado cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria del remate o de la enajenación de los mismos, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
 
-A más tardar el sexto día después que el postor adjudicado hubiere realizado el pago, la autoridad deberá entregar al adquirente, conjuntamente con los documentos que acrediten su propiedad, los bienes que le hubiere adjudicado.
+A más tardar el sexto día después que el postor o interesado adjudicado hubiere realizado el pago, la autoridad deberá entregar al adquirente, conjuntamente con los documentos que acrediten su propiedad, los bienes que le hubiere adjudicado.
 
 Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 228.
 
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido por el postor adjudicado. Dentro de los diez días siguientes a la fecha del remate, el postor enterará mediante transferencia electrónica de fondos conforme a las Reglas que al efecto expida la Secretaría, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras que hubiere realizado.
+Fincado el remate o la enajenación fuera de remate de bienes inmuebles o negociaciones se aplicará el depósito constituido por el postor o interesado adjudicado. Dentro de los diez días siguientes a la fecha de fincado el remate o la enajenación fuera de remate, el postor o interesado enterará mediante transferencia electrónica de fondos conforme a las Reglas que al efecto expida la Secretaría, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras que a través de la pujas o propuestas que se realicen.
 
-Hecho el pago a que se refiere el párrafo anterior y designado en su caso el notario por el postor, se citará al ejecutado para que, dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido que si no lo hace, la escritura se emitirá mediante la relatoría de la forma de enajenación respecto del inmueble o negociación adjudicados.
+Hecho el pago a que se refiere el párrafo anterior y designado en su caso el notario por el postor o interesado, se citará al ejecutado para que dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido que si no lo hace, la escritura se emitirá mediante la relatoría de la forma de enajenación respecto del inmueble o negociación adjudicados.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 229.
 
-Los bienes adquiridos en remate, en virtud del pago realizado por la autoridad respecto de los gravámenes existentes, o debido a la no comparecencia del deudor preferente a deducir su preferencia, pasarán a ser propiedad del adquirente.
+Los bienes adquiridos en remate o la enajenación fuera de remate, tratándose de inmuebles, pasarán a ser propiedad del adquirente libre de gravámenes y a fin de que éstos se cancelen, la autoridad ejecutora realizará el trámite de cancelación en un plazo que no excederá de quince días hábiles.
 
 El ejecutado, aún en el caso de rebeldía, responde por la evicción y los vicios ocultos.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 230.
 
-Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, la autoridad ejecutora dispondrá que se entregue al adquirente girando las órdenes necesarias en un plazo no mayor a treinta días, si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
+Una vez que se hubiera otorgado y firmado la escritura en que conste la adjudicación de un inmueble, la autoridad ejecutora dispondrá que se entregue al adquirente girando las órdenes necesarias en un plazo no mayor a treinta días, aún las de desocupación si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 231.
 
-En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado que no sea de su exclusiva responsabilidad, podrá, dentro del plazo mínimo de quince días y máximo de seis meses contado a partir de la fecha en que hubiere solicitado la entrega de los bienes, requerir a la autoridad fiscal por la cancelación de la operación realizada, y por la entrega del monto pagado por la adquisición de dichos bienes.
+En el caso en que los bienes rematados o enajenados fuera de remate no puedan ser adjudicados o entregados al postor o interesado a cuyo favor se hubiera fincado el remate o la enajenación fuera de remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado que no sea de su exclusiva responsabilidad, podrá, dentro del plazo mínimo de quince días y máximo de seis meses contado a partir de la fecha en que hubiere solicitado la entrega de los bienes, requerir a la autoridad fiscal por la cancelación de la operación realizada, y por la entrega del monto pagado por la adquisición de dichos bienes.
 
-La autoridad entregará la cantidad depositada por el postor, actualizada en términos de lo establecido en el artículo 23 de este Código desde la fecha en que se hubiere realizado el depósito de la postura o el pago definitivo, hasta la fecha en que dicha devolución se realice. Si dentro del plazo de dos meses a partir de la solicitud de devolución del depósito, cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, previo acuerdo con el adquirente de los mismos en que así lo acepte, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+La autoridad entregará la cantidad depositada por la o el postor en un plazo de dos meses contados a partir de la fecha en que se efectúe la solicitud, cantidad que será actualizada en términos de lo establecido en el artículo 23 de este Código desde la fecha en que se hubiere realizado el depósito de la postura o el pago definitivo, hasta la fecha en que dicha devolución se realice. Si dentro del plazo señalado cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, previo acuerdo y aceptación del adquirente, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+
+Transcurrido el plazo máximo de seis meses a que se refiere el primer párrafo, sin que el postor o interesado solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abandono a favor del fisco estatal dentro de los dos meses contados a partir de la fecha en que concluya el plazo citado y se estará a lo dispuesto en el artículo 241 de este Código.
 
 En el caso que la autoridad fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado. Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la autoridad fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 232.
 
-Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o por medio de interpósita persona, a los jefes y demás personas de las oficinas ejecutoras, así como a todos aquéllos que hubieren intervenido por parte del fisco estatal en el procedimiento administrativo de ejecución. El remate efectuado con infracción a este precepto será nulo y los infractores serán sancionados conforme a este Código y a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+Queda estrictamente prohibido adquirir los bienes objeto de un remate o la enajenación fuera de remate, por sí o por medio de interpósita persona, a los jefes y demás personas de las oficinas ejecutoras, así como a todos aquéllos que hubieren intervenido por parte del fisco estatal desde el inicio de facultades de comprobación y dentro del procedimiento administrativo de ejecución. El remate o la enajenación fuera de remate efectuado con infracción a este precepto será nulo y los infractores serán sancionados conforme a este Código y a la Leyes de Responsabilidades de los Servidores Públicos aplicables.
 
 ###### ARTÍCULO 233.
 
@@ -3229,11 +3363,15 @@ I. A falta de postores, y
 
 II. A falta de pujas, o en caso de posturas o pujas iguales, cuando la cantidad ofrecida no sea mayor a la base fijada para el remate, y ésta no sea mayor al crédito fiscal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 234.
 
-Cuando no hubiera postores o no se hubieran presentado posturas legales, la autoridad se adjudicará el bien. En este caso el valor de la adjudicación será el 60% del valor de avalúo.
+Cuando no hubiera postores o interesados y no se hubieran presentado posturas legales o propuestas, la autoridad se adjudicará el bien. En este caso el valor de la adjudicación será el 60 por ciento del valor de avalúo.
 
-Los bienes que se adjudiquen a favor del fisco estatal, podrán ser donados para obras o servicios públicos, o a instituciones asistenciales o de beneficencia.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría podrá enajenar o donar los bienes que se adjudiquen a favor del fisco estatal conforme a este artículo para obras o servicios públicos, o a instituciones asistenciales o de beneficencia social debidamente reconocidas, de conformidad con lo previsto en el Reglamento.
 
 La adjudicación se tendrá por formalizada una vez que la autoridad ejecutora firme el acta de adjudicación correspondiente.
 
@@ -3243,9 +3381,11 @@ Los bienes adjudicados por las autoridades fiscales de conformidad con lo dispue
 
 De los ingresos obtenidos por remates de los bienes, disminuidos con los gastos de administración y mantenimiento, se destinará el 5% a un fondo de administración y mantenimiento de dichos bienes, que se constituirá en la Secretaría, a lo que establezcan las Reglas que al efecto se emitan. Una vez que se hayan rematado los bienes, la autoridad fiscal deberá reintegrar los recursos que haya obtenido de dicho fondo y, de existir remanente, se entregará el 5% de los ingresos obtenidos para su capitalización.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 236.
 
-Cuando la traslación de bienes se deba inscribir en el registro público de la propiedad, excepto de aquéllos que la ley señale de protocolización necesaria, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho registro. Cuando los bienes trasmitidos fueren muebles, el acta de adjudicación tendrá el carácter de título de propiedad, y en caso de ser varios muebles, la autoridad a petición del adjudicado, expedirá sin costo para el adquirente de los bienes, copias certificadas por cada uno de dichos bienes.
+Cuando la traslación de bienes se deba inscribir en el Instituto de la Función Registral del Estado de Oaxaca, excepto de aquéllos que la ley señale de protocolización necesaria, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho Instituto. Cuando los bienes trasmitidos fueren muebles, el acta de adjudicación tendrá el carácter de título de propiedad, y en caso de ser varios muebles, la autoridad a petición del adjudicado, expedirá sin costo para el adquirente de los bienes, copias certificadas por cada uno de dichos bienes.
 
 Una vez aplicado el producto obtenido por la adjudicación, en los términos del artículo 237 de este Código, el saldo que, en su caso quede pendiente a cargo del contribuyente, en caso que no existan otros bienes sobre los que pueda trabarse embargo, se registrará en una subcuenta especial de créditos incobrables.
 
@@ -3257,15 +3397,23 @@ I. Se adjudiquen los bienes a favor del fisco, en términos del artículo 234 de
 
 II. Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, siempre que en la localidad no se pueden guardar o depositar en lugares apropiados para su conservación.
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. Se trate de bienes cuya guarda pueda ocasionar gastos que no estén en relación con su valor.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 238.
 
-El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal en el orden que establece el artículo 30 de este Código.
+El producto obtenido del remate, enajenación fuera de remate o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal y los accesorios en el orden que establece el artículo 30 de este Código.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 239.
 
-En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente. En todos los casos en que el deudor realice pago parcial o total de los créditos fiscales adeudados, la autoridad deberá poner los bienes a disposición del embargado, a más tardar el día siguiente al en que se realice el entero del crédito y sus accesorios.
+En tanto no se hubieran rematado, enajenado fuera de remate o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente. En todos los casos en que el deudor realice pago parcial o total de los créditos fiscales adeudados, la autoridad deberá poner los bienes a disposición del embargado, a más tardar el día hábil siguiente a aquel en que se realice el entero del crédito y sus accesorios.
 
-Una vez realizado el pago por el embargado o cuando obtenga resolución o sentencia favorable derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes que obliguen a las autoridades a entregar los mismos, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición y en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente.
+Una vez realizado el pago por el embargado o cuando obtenga resolución o sentencia favorable derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado fuera de remate o adjudicado los bienes que obliguen a las autoridades a entregar los mismos, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición y en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente.
 
 ###### ARTÍCULO 240.
 
@@ -3281,9 +3429,13 @@ II. Cuando el embargado efectúe el pago del crédito fiscal u obtenga resoluci�
 
 III. Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad y los propietarios de los mismos no los retiren dentro de los quince días contados a partir de la fecha en que se pongan a su disposición.
 
-Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Los bienes que pasen a propiedad del fisco estatal conforme a este artículo, podrán ser enajenados o donados para obras o servicios públicos, o a instituciones asistenciales o de beneficencia social debidamente reconocidas.
+Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día hábil siguiente a aquél en que se le notifique la resolución correspondiente.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Los bienes que pasen a propiedad del fisco estatal conforme a este artículo, la Secretaría podrá enajenarlos o donarlos para obras o servicios públicos, o a instituciones asistenciales o de beneficencia social debidamente reconocidas, con base en lo señalado en el Reglamento.
 
 Cuando los bienes a que se refiere este artículo hubieren sido enajenados, el producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos del Reglamento.
 
@@ -3733,9 +3885,13 @@ III. No permitir la verificación de bienes, mercancías, discos, cintas o cualq
 
 IV. No poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita, cuando ello sea necesario;
 
-V. Presentar fuera de los plazos establecidos en el artículo 153 de este Código la documentación que les sea solicitada dentro del ejercicio de las facultades de comprobación del cumplimiento de sus obligaciones fiscales, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-VI. No presentar en el lugar señalado en el mandamiento correspondiente, la documentación que le hubiere sido requerida para su revisión en las oficinas de la autoridad en los términos del artículo 150 fracción I de este Código.
+V. Presentar fuera de los plazos establecidos en las fracciones II y III del artículo 154 de este Código la documentación que les sea solicitada dentro del ejercicio de las facultades de comprobación del cumplimiento de sus obligaciones fiscales, y
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+VI. No presentar en el lugar señalado en el mandamiento correspondiente, la documentación que le hubiere sido requerida para su revisión en las oficinas de la autoridad en los términos del artículo 151 fracción I de este Código.
 
 > <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 14 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2016, SE ADVIERTE QUE FUERON REESTRUCTURADAS LAS FRACCIONES DE ESTE ARTÍCULO, PÁGINA DE LA 15 A LA 16.]</small>
 
@@ -4122,3 +4278,9 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil diecisiete, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 780.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciocho, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
