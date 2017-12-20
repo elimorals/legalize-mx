@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2017-09-09"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -69,7 +71,9 @@ I. Aportaciones: A los Fondos de Aportaciones Federales transferidos por la Fede
 
 II. Congreso: Al Congreso del Estado;
 
-III. Decreto: Al Decreto que establece Bases, Factores de Distribución, Montos Estimados y Plazos para el Pago de Participaciones Fiscales Federales a los Municipios del Estado de Oaxaca, para el ejercicio fiscal que corresponda;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+III. Decreto: Decreto que establece los porcentajes, fórmulas y variables utilizadas para la distribución de los fondos que integran las Participaciones a los Municipios en el Ejercicio Fiscal que corresponda;
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -81,9 +85,21 @@ VI. Ley de Coordinación: A la Ley de Coordinación Fiscal;
 
 VII. Municipio: Al nivel de Gobierno, investido de personalidad jurídica, con territorio y patrimonio propios, autónomo en su régimen interior, con capacidad económica propia y con la libre administración de su hacienda; con una población asentada en una circunscripción territorial y gobernado por un Ayuntamiento;
 
-VIII. Participaciones: A las Participaciones Federales que el Estado y los Municipios perciben de conformidad con los Capítulos I al IV de la Ley de Coordinación, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-IX. Secretaría: A la Secretaría de Finanzas del Poder Ejecutivo del Estado.
+VIII. Órgano de Fiscalización: Órgano Superior de Fiscalización del Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IX. Participaciones: Participaciones Federales que el Estado y los Municipios reciban de conformidad con lo dispuesto en los Capítulos I a IV de la Ley de Coordinación;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+X. Periódico Oficial: Periódico Oficial del Gobierno del Estado, y
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+XI. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado.
 
 ###### ARTICULO 3.
 
@@ -97,9 +113,11 @@ I. Tratándose de dos o más Municipios del Estado, previo acuerdo entre sus Ayu
 
 II. Tratándose de dos o más Municipios de otros Estados, en este caso, deberán de contar con la aprobación de la Legislatura del Estado correspondiente y publicarse dicha autorización en el Periódico Oficial del Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-ARTÍCULO 4A.- Los Municipios del Estado deberán informar dentro de los primeros diez días de cada mes, sobre los ingresos recaudados incluso las contribuciones pagadas en especie o en servicios, a la Secretaría y Auditoria Superior del Estado a fin de cumplir con la cuenta comprobada que mensualmente se remite a la Secretaría de Hacienda y Crédito Público.
+ARTICULO 4 A.- Cuando los Municipios del Estado se hayan coordinado para el cobro de impuestos federales coordinados, deberán informar dentro de los primeros diez días de cada mes, sobre los ingresos recaudados, incluso los pagados en especie o en servicios, a la Secretaría, a fin de cumplir con la cuenta comprobada que mensualmente se remite a la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 Asimismo, las autoridades municipales estarán obligadas a mantener bajo resguardo y custodia la documentación justificatoria y comprobatoria de los ingresos recaudados, hasta en tanto no se extingan las facultades de fiscalización correspondientes.
 
@@ -235,13 +253,13 @@ Asimismo, para que resulte aplicable lo dispuesto en el primer párrafo de este 
 
 Las Participaciones que correspondan a los Municipios, resultantes de los fondos que establece la Ley de Coordinación, se calcularán y distribuirán por conducto de la Secretaría con base en el Decreto que anualmente el Congreso apruebe.
 
-Las Participaciones se transferirán a las cuentas bancarias productivas específicas notificadas a la Secretaría anualmente, mediante acta de cabildo aprobada por mayoría de sus integrantes, donde conste la institución financiera, clave interbancaria y el número de referencia de las mismas, además de señalar la elección de ministración que acuerde el Ayuntamiento.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-La ministración podrá realizarse a petición del Ayuntamiento:
+Las Participaciones se transferirán a las cuentas bancarias productivas específicas aperturadas para cada uno de los fondos que la integran y que sean notificadas a la Secretaría anualmente, mediante acta de cabildo aprobada por mayoría de sus integrantes, donde conste la institución financiera, clave interbancaria y el número de referencia de las mismas.
 
-I. En forma mensual dentro de los cinco días hábiles siguientes a la fecha en que se reciban de la Federación, o
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-II. Los días quince y último de cada mes en partes iguales.
+La entrega de Participaciones se realizará al Ayuntamiento dentro de los cinco días siguientes a la fecha en que se reciban de la Federación.
 
 Una vez notificada la liquidación de ajustes de participaciones que realice la Federación al Estado, la Secretaría efectuará igualmente los ajustes de participaciones que correspondan a los Municipios, realizando la liquidación y entero que resulte a favor de los mismos en los términos y plazos que establezca la Ley de Coordinación Fiscal.
 
@@ -285,27 +303,27 @@ Las Participaciones que correspondan al Estado y Municipios, serán administrada
 
 Las Aportaciones que correspondan al Estado y Municipios, serán administradas y ejercidas de conformidad con las disposiciones que para tal efecto se establezcan por la Federación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 10.
 
-La Auditoría Superior del Estado, revisará y dictaminará sobre los cálculos de participaciones vigilando el estricto cumplimiento tanto de lo dispuesto en la Ley de Coordinación como en la presente Ley.
+El Órgano de Fiscalización revisará y fiscalizará el cálculo de los fondos de Participaciones, vigilando el estricto cumplimiento de las disposiciones de la Ley de Coordinación, así como de lo dispuesto en la presente Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 11.
 
-Las bases, factores de distribución, montos estimados y plazos de las Participaciones municipales para el ejercicio que se trate, quedarán establecidas mediante Decreto que emita anualmente el Congreso, el que se publicará en el Periódico Oficial del Estado.
+El Congreso, mediante Decreto anual, aprobará los porcentajes, fórmulas y variables utilizadas, así como los montos estimados de los fondos de Participaciones que le correspondan a los Municipios para el ejercicio fiscal de que se trate.
 
-Tratándose de los montos de las Participaciones a que se refiere este artículo, la Secretaría deberá publicarlos mediante Acuerdo en el Periódico Oficial del Estado, quince días después de que la Secretaría de Hacienda y Crédito Público, en términos del artículo 6°, cuarto párrafo de la Ley de Coordinación, publique en el Diario Oficial de la Federación, las Participaciones estimadas que le correspondan al Estado y de las que éste debe participar a los Municipios que lo conforman.
+El calendario de entrega, porcentaje, fórmulas y variables utilizadas y montos estimados de los fondos de Participaciones que tenga obligación de participar a los Municipios, se publicarán por el Ejecutivo Estatal a través de la Secretaría a más tardar el 15 de febrero, en el Periódico Oficial, así como en su página oficial de internet.
 
-La Secretaría publicará en el Periódico Oficial del Estado trimestralmente el importe de las Participaciones entregadas y el monto definitivo que le haya correspondido a los Municipios en el ejercicio de que se trate, dentro de los tres primeros meses del ejercicio inmediato posterior.
+La Secretaría publicará en el Periódico Oficial y en su página de internet, el monto de cada uno de los conceptos de las Participaciones entregadas a cada Municipio, desglosado por fondo y monto mensual dentro de los primeros quince días del mes siguiente al que termine el trimestre que corresponda; asimismo, publicará el monto definitivo que le haya correspondido a los Municipios en el ejercicio de que se trate, incluidos los ajustes realizados.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 12.
 
-Los factores de participación que conforme a las bases de los artículos 6 y 7 de la presente Ley resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen, se aplicarán provisionalmente los que correspondan al año inmediato anterior.
+Las fórmulas de los fondos de Participaciones contenidas en los artículos 6, 7, 7A y 7B de la presente Ley, se revisarán y modificarán anualmente. En tanto que las variables no se actualicen, se aplicarán provisionalmente los que correspondan al año inmediato anterior.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -317,19 +335,19 @@ Los Municipios sólo podrán afectar los fondos que establece el artículo 9 de 
 
 Se consideran ingresos de libre disposición los ingresos de gestión y las participaciones federales que les corresponda por mandato de ley.
 
-Los Municipios podrán convenir con el Estado la afectación de sus Participaciones o Aportaciones susceptibles de afectación, dicho convenio deberá contener la autorización para que la Secretaría realice pagos por cuenta del mismo hasta por el monto que la Ley de Coordinación establezca.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Los Municipios podrán convenir con la Secretaría la afectación de sus Participaciones o Aportaciones susceptibles de afectación, mediante la suscripción de convenios derivados de los mecanismos de contratación de deuda garantizada, bajo un vehículo específico de pago y en los términos que se convengan con la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 14.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 15.
 
-Las compensaciones que se requieran efectuar a los Municipios como consecuencia de ajustes en participaciones o descuentos originados del incumplimiento de obligaciones fiscales federales y/o estatales, no estarán sujetas a lo dispuesto en el artículo 13 de esta Ley.
-
-Procederán las compensaciones con cargo a las Participaciones, cuando existan obligaciones pendientes de liquidar ante las autoridades federales o estatales por los Municipios; exista acuerdo entre las partes interesadas y/o esta Ley así lo autorice.
+Las compensaciones que se requieran efectuar a los Municipios como consecuencia de ajustes en Participaciones o descuentos originados del incumplimiento de metas pactadas con la Federación o el Estado en materia de administración de contribuciones, no estarán sujetas a lo previsto en el artículo 13 de esta Ley.
 
 ###### ARTICULO 16.
 
@@ -481,17 +499,25 @@ I. Desde la etapa de distribución de las Aportaciones que le correspondan a los
 
 II. Recibidos los recursos de las Aportaciones de que se trate por los Ejecutores de gasto local hasta su erogación total, corresponderá a la Secretaría de la Contraloría y Transparencia Gubernamental en el ámbito local, tratándose de los Municipios por la Contraloría Municipal;
 
-III. En el ejercicio de dichos recursos, los Ejecutores de gasto local deberán sujetarse a la evaluación del desempeño con base en indicadores, la que estará a cargo de la Instancia Técnica de Evaluación y la Secretaría; respecto de los recursos ejercidos por los Municipios estará a cargo de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-Los resultados de las evaluaciones deberán ser informados en los términos del artículo 48 de la Ley de Coordinación.
+III. En el ejercicio de dichos recursos, los Ejecutores de gasto local deberán sujetarse a la evaluación del desempeño con base en indicadores, la que estará a cargo de la Instancia Técnica de Evaluación y la Secretaría; respecto de los recursos ejercidos por los Municipios, la evaluación estará a cargo del Órgano de Fiscalización.
 
-IV. La fiscalización de la Cuenta Pública del Estado y Municipios, será efectuada por el Congreso por conducto de la Auditoria Superior del Estado, a fin de verificar que los Ejecutores de gasto local aplicaron los recursos de las Aportaciones para los fines previstos en la Ley de Coordinación.
+Los resultados de las evaluaciones deberán ser informados en los términos del artículo 48 de la Ley de Coordinación, y
 
-La Auditoria Superior del Estado verificará que los Ejecutores de gasto local cumplieron con las disposiciones legales y administrativas federales.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+IV. La fiscalización de la Cuenta Pública del Estado y Municipios, será efectuada por el Congreso por conducto del Órgano de Fiscalización, a fin de verificar que los Ejecutores de gasto local aplicaron los recursos de las Aportaciones para los fines previstos en la Ley de Coordinación.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+El Órgano de Fiscalización verificará que los Ejecutores de gasto local cumplieron con las disposiciones legales y administrativas federales.
 
 Cuando las autoridades señaladas en las fracciones I y II, en el ejercicio de las etapas que se señalan conozcan que los recursos de las Aportaciones no han sido aplicados a los fines que por cada Fondo se señale en la Ley de Coordinación, deberán hacerlo del conocimiento de la Auditoría Superior de la Federación y de la Función Pública en forma inmediata.
 
-Por su parte la Auditoría Superior del Estado detecte que los recursos de las Aportaciones no se han destinado a los fines establecidos en la Ley de Coordinación, deberá hacerlo del conocimiento inmediato de la Autoría (sic) Superior de la Federación.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+Por su parte, cuando el Órgano de Fiscalización detecte que los recursos de las Aportaciones no se han destinado a los fines establecidos en la Ley de Coordinación, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación.
 
 Las responsabilidades administrativas, civiles y penales en que incurran los servidores públicos locales o municipales por el manejo o aplicación indebidos de los recursos de las Aportaciones de la Ley de Coordinación, serán determinados y sancionados por las autoridades federales o locales competentes, en los términos de las disposiciones aplicables.
 
@@ -637,9 +663,9 @@ El Consejo de Coordinación Hacendaria, será un órgano técnico formado por:
 
 I. Un Presidente, quien será el Titular de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-II. Un Secretario, quien será el Titular de la Tesorería de la Secretaría:
+II. Un Secretario Técnico, quien será la o el titular de la Subsecretaría de Ingresos de la Secretaría;
 
 III. Vocales quienes serán:
 
@@ -647,9 +673,13 @@ a) Las autoridades hacendarias municipales;
 
 b) El Presidente diputado de la Comisión Permanente de Hacienda;
 
-c) El Presidente diputado de la Comisión Permanente de Vigilancia de la Auditoría Superior del Estado, y
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
 
-d) El titular de la Auditoría Superior del Estado.
+c) La o el Diputado Presidente de la Comisión Permanente de Vigilancia del Órgano Superior de Fiscalización, y
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+d) La o el titular del Órgano de Fiscalización.
 
 Los cargos del Consejo de Coordinación Hacendaria son honoríficos.
 
@@ -868,3 +898,9 @@ TERCERO. Únicamente por el Ejercicio Fiscal 2017, los contribuyentes que utilic
 CUARTO. El Estado transferirá a los Municipios el total de los recursos provenientes del cobro de la prestación de los servicios prestados por el Estado, en términos de lo dispuesto por la fracción XIII del artículo 25 de la Ley de Coordinación Fiscal para el Estado de Oaxaca, y de las fracciones XIV y XV del artículo 31 de la Ley Estatal de Derechos, en el marco de los Convenios de Coordinación y Colaboración Administrativa que sean celebrados entre el Estado y los Municipios.
 
 Los recursos a que se refiere el párrafo anterior serán destinados por los Municipios preferentemente a obras y acciones de infraestructura básica y desarrollo social.
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 782.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciocho, previa publicación en el Periódico Oficial del Gobierno del Estado.
