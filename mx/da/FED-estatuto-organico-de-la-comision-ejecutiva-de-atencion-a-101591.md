@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-ejecutiva-de-atencion-a-101591
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-27"
-last_updated: "2017-08-09"
+last_updated: "2017-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-05-27"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2017.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de junio de 2014.
 
@@ -1297,81 +1297,79 @@ Los servidores públicos de dichas unidades administrativas ejercerán las atrib
 
 > <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2017)
 
 ###### Artículo 42.
 
-La denominación y sede de las Delegaciones y Subdelegaciones con que cuenta la Comisión Ejecutiva, son las siguientes:
+La Comisión Ejecutiva contará con una Delegación en las siguientes entidades federativas:
 
-I. Estado de Baja California
+I. Estado de Aguascalientes;
 
-a) Delegación Baja California, con sede en la ciudad de Tijuana.
+II. Estado de Baja California;
 
-II. Estado de Chiapas
+III. Estado de Baja California Sur;
 
-a) Delegación Chiapas, con sede en la ciudad de Tuxtla Gutiérrez.
+IV. Estado de Campeche;
 
-Para la mejor prestación del servicio, la Delegación Chiapas contará con una Subdelegación con sede en la ciudad de Tapachula.
+V. Estado de Colima;
 
-III. Estado de Chihuahua
+VI. Estado de Chiapas;
 
-a) Delegación Chihuahua, con sede en la ciudad de Ciudad Juárez.
+VII. Estado de Chihuahua;
 
-IV. Estado de Coahuila de Zaragoza
+VIII. Estado de Coahuila de Zaragoza;
 
-a) Delegación Coahuila, con sede en la ciudad de Torreón.
+IX. Estado de Durango;
 
-V. Distrito Federal
+X. Estado de Guanajuato;
 
-a) Delegación Distrito Federal, con sede en la Ciudad de México.
+XI. Estado de Guerrero;
 
-VI. Estado de Durango
+XII. Estado de Hidalgo;
 
-a) Delegación Durango, con sede en la ciudad de Durango.
+XIII. Estado de Jalisco;
 
-VII. Estado de Guanajuato
+XIV. Estado de México;
 
-a) Delegación Guanajuato, con sede en la ciudad de Guanajuato.
+XV. Estado de Michoacán;
 
-VIII. Estado de Guerrero
+XVI. Estado de Morelos;
 
-a) Delegación Guerrero, con sede en la ciudad de Acapulco.
+XVII. Estado de Nayarit;
 
-IX. Estado de Jalisco
+XVIII. Estado de Nuevo León;
 
-a) Delegación Jalisco, con sede en la ciudad de Guadalajara.
+XIX. Estado de Oaxaca;
 
-X. Estado de Michoacán de Ocampo
+XX. Estado de Puebla;
 
-a) Delegación Michoacán, con sede en la ciudad de Morelia.
+XXI. Estado de Querétaro;
 
-XI. Estado de Morelos
+XXII. Estado de Quintana Roo;
 
-a) Delegación Morelos, con sede en la ciudad de Cuernavaca.
+XXIII. Estado de San Luis Potosí;
 
-XII. Estado de Nayarit
+XXIV. Estado de Sinaloa;
 
-a) Delegación Nayarit, con sede en la ciudad de Tepic.
+XXV. Estado de Sonora;
 
-XIII. Estado de Nuevo León
+XXVI. Estado de Tabasco;
 
-a) Delegación Nuevo León, con sede en la ciudad de Monterrey.
+XXVII. Estado de Tamaulipas;
 
-XIV. Estado de Puebla
+XXVIII. Estado de Tlaxcala;
 
-a) Delegación Puebla, con sede en la ciudad de Puebla.
+XIX (SIC). Estado de Veracruz;
 
-XV. Estado de Sinaloa
+XXX. Estado de Yucatán;
 
-a) Delegación Sinaloa, con sede en la ciudad de Culiacán.
+XXXI. Estado de Zacatecas, y
 
-XVI. Estado de Veracruz de Ignacio de la Llave
+XXXII. Ciudad de México.
 
-a) Delegación Veracruz, con sede en la ciudad de Veracruz.
+La Comisión Ejecutiva considerando las necesidades de las víctimas en las entidades federativas, podrá establecer subdelegaciones, de acuerdo a su suficiencia presupuestaria.
 
-XVII. Estado de Yucatán
-
-a) Delegación Yucatán, con sede en la ciudad de Mérida.
+Las sedes de las delegaciones y subdelegaciones, se establecerán en el Acuerdo que al efecto emita la Comisión Ejecutiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2017)</small>
 
@@ -1521,7 +1519,7 @@ Sexto. Los Centros de Atención a Víctimas y Ofendidos (CAVs) ubicados en disti
 
 Así lo aprobó el Pleno de la Comisión Ejecutiva de Atención a Víctimas, en la Trigésima Cuarta Sesión Ordinaria celebrada el día 27 de mayo de 2014.- El Comisionado Presidente, Sergio Jaime Rochín del Rincón.- Rúbrica.- Los Comisionados: Adrián Franco Zevada, Susana Thalía Pedroza de la Llave, Julio Antonio Hernández Barros, Carlos Ríos Espinosa, María del Rosario Torres Mata.- Rúbricas.- La Secretaria Técnica, quien da fe, Alejandra Soto Alfonso.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 23 DE ENERO DE 2015.
 
@@ -1548,3 +1546,13 @@ D.O.F. 9 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS."]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 42 DEL ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VICTIMAS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Comisión Ejecutiva de Atención a Víctimas en un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Acuerdo, deberá instalar las Delegaciones en las entidades federativas de Aguascalientes, Baja California Sur, Campeche, Colima, Estado de México, Hidalgo, Oaxaca, Querétaro, Quintana Roo, San Luis Potosí, Sonora, Tabasco, Tamaulipas, Tlaxcala y Zacatecas.
+
+TERCERO. La Comisión Ejecutiva publicará en el Diario Oficial de la Federación el Acuerdo a que se refiere el artículo 42 del presente Estatuto Orgánico, en un plazo de 30 días hábiles, posteriores a la integración de las Delegaciones referidas en el Transitorio anterior.
