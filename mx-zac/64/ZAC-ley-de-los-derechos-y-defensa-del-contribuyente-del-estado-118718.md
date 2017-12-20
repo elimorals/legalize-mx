@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-y-defensa-del-contribuyente-del-estado-1187
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2017-01-21"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "ZAC"
 ---
 # LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-> <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2018.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 31 de diciembre de 2016.
 
@@ -47,7 +47,7 @@ RESULTANDO TERCERO. El proponente justificó su Iniciativa, bajo la siguiente:
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[.]
 
 Por lo anteriormente expuesto y fundado y con apoyo además en lo dispuesto en los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo se
 
@@ -65,7 +65,11 @@ La presente ley es de orden público, de aplicación en todo el territorio del E
 
 I. Regular los derechos y garantías básicas de los contribuyentes en sus relaciones con las autoridades fiscales;
 
-II. Organizar el funcionamiento de la Procuraduría;
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+II. ORGANIZAR EL FUNCIONAMIENTO DE LA COMISIÓN;
 
 III. Garantizar el derecho de los contribuyentes a recibir justicia en materia fiscal, respecto de contribuciones y aprovechamientos de ámbito estatal y municipal, mediante asesoría, representación y defensa, mediación, recepción de quejas y emisión de recomendaciones en los términos que este mismo ordenamiento establece, y
 
@@ -93,7 +97,11 @@ III. A conocer el estado de tramitación de los procedimientos en los que sea pa
 
 IV. A conocer la identidad de las autoridades fiscales bajo cuya responsabilidad se tramiten los procedimientos en los que tengan condición de interesados;
 
-V. A obtener certificación y copia de las declaraciones presentadas por el contribuyente, previo el pago de los derechos que en su caso, establezca la Ley de Ingresos del Estado de Zacatecas;
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+V. A OBTENER CERTIFICACIÓN Y COPIA DE LAS DECLARACIONES PRESENTADAS POR EL CONTRIBUYENTE, PREVIO EL PAGO DE LOS DERECHOS QUE, EN SU CASO, ESTABLEZCA LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS;
 
 VI. A no aportar los documentos que ya se encuentran en poder de la autoridad fiscal actuante;
 
@@ -117,7 +125,9 @@ XIII. A corregir su situación fiscal con motivo del ejercicio de las facultades
 
 XIV. Dentro de los juicios promovidos ante el Tribunal de lo Contencioso Administrativo del Estado de Zacatecas, a señalar domicilio para recibir notificaciones en cualquier parte del territorio del Estado de Zacatecas; y
 
-XV. Los contribuyentes, cuyos ingresos en el ejercicio inmediato anterior, no hayan superado un monto equivalente a 20 veces la unidad de medida y actualización elevado al año y garanticen el interés fiscal mediante embargo en la vía administrativa, deberán ser designados como depositarios de los bienes y el embargo no podrá comprender las mercancías que integren el inventario circulante del negocio, excepto cuando se trate de mercancías de origen extranjero respecto de la cual no se acredite con la documentación correspondientes o legal estancia en el país.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE DEROGA ESTA FRACCIÓN, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+XV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2017)
 
 ###### Artículo 4.
 
@@ -135,9 +145,13 @@ Las actuaciones de las autoridades fiscales que requieran la intervención de lo
 
 Las autoridades fiscales deberán prestar a los contribuyentes la necesaria asistencia e información acerca de sus derechos y obligaciones en materia fiscal. Así mismo y sin perjuicio de lo que dispone el artículo 102 del Código Fiscal del Estado de Zacatecas y sus Municipios, las autoridades fiscales deberán publicar los textos actualizados de las normas tributarias en sus páginas de Internet, así como contestar en forma oportuna las consultas tributarias.
 
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 7.
 
-Las autoridades fiscales realizarán campañas de difusión a través de medios masivos de comunicación, para fomentar y generar en la población zacatecana la cultura contributiva y divulgarlos (sic) derechos del contribuyente.
+Las autoridades fiscales realizarán campañas de difusión a través de medios masivos de comunicación, para fomentar y generar en la población zacatecana la cultura contributiva y divulgar los derechos del contribuyente.
 
 ###### Artículo 8.
 
@@ -225,7 +239,11 @@ No se incluirá en el expediente administrativo que se envíe, la información q
 
 Para los efectos de este artículo, no se considerará expediente administrativo, los documentos antecedentes de una resolución en la que las leyes no establezcan un procedimiento administrativo previo.
 
-## TÍTULO III. Defensa y Protección de los Derechos del Contribuyente
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA DENOMINACIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+## TÍTULO II. DEFENSA Y PROTECCIÓN DE LOS DERECHOS DEL CONTRIBUYENTE
 
 ### CAPÍTULO I. De la Comisión Estatal de la Defensa del Contribuyente
 
@@ -263,7 +281,11 @@ Se entiende por autoridades fiscales las que se señalan en el artículo 5 del C
 
 Corresponderá a la Comisión Estatal de la Defensa del Contribuyente:
 
-I. Atender y resolver las solicitudes de asesoría y consulta que le presenten los contribuyentes por actos de las autoridades fiscales;
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+I. ATENDER Y RESOLVER LAS SOLICITUDES DE ASESORÍA Y CONSULTA QUE LE PRESENTEN LOS CONTRIBUYENTES POR ACTOS DE LAS AUTORIDADES FISCALES, ASÍ COMO TRAMITAR Y RESOLVER, EN LO CONDUCENTE, LOS ACUERDOS ANTICIPADOS DE PAGO Y LOS ACUERDOS CONCLUSIVOS A QUE SE REFIERE EL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS.
 
 II. Representar al contribuyente ante la autoridad correspondiente, promoviendo a su nombre los recursos administrativos procedentes y en su caso ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, ejerciendo las acciones a que haya lugar, deduciendo con oportunidad y eficacia los derechos de sus representados, hasta su total resolución;
 
@@ -579,13 +601,25 @@ II. Para los efectos de lo dispuesto en el último párrafo del artículo 31 cit
 
 III. Los contribuyentes podrán presentar en los juicios de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas, como prueba documental, el expediente administrativo en los términos establecidos en el artículo 21 de la presente Ley, no obstante que exista disposición en contrario en el Código Fiscal del Estado de Zacatecas y sus Municipios.
 
-Cuarto. El Poder Ejecutivo del Estado deberá prever los recursos para la creación y funcionamiento de la Comisión Estatal de la Defensa del Contribuyente, haciendo las adecuaciones necesarias que no impliquen un incremento del gasto total aprobado para el ejercicio fiscal 2017, pudiendo de igual forma, otorgar suficiencia presupuestal derivada del incremento de los ingresos propios.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Quinto. La designación del primer Comisionado deberá llevarse a cabo durante el primer semestre del ejercicio 2017. Dentro de los siguientes cuarenta y cinco días a su elección, deberá constituirse el Órgano de Gobierno de la Comisión Estatal de la Defensa del Contribuyente, órgano que deberá expedir su Estatuto Orgánico a más tardar dentro de treinta días siguientes a su constitución. La Comisión Estatal de la Defensa del Contribuyente deberá estar operando y funcionando, a partir del 1 de enero de 2018.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+CUARTO. EL PODER EJECUTIVO DEL ESTADO DEBERÁ PREVER LOS RECURSOS PARA LA CREACIÓN Y FUNCIONAMIENTO DE LA COMISIÓN ESTATAL DE LA DEFENSA DEL CONTRIBUYENTE, HACIENDO LAS ADECUACIONES NECESARIAS QUE NO IMPLIQUEN UN INCREMENTO DEL GASTO TOTAL APROBADO PARA EL EJERCICIO FISCAL 2018, PUDIENDO DE IGUAL FORMA, OTORGAR SUFICIENCIA PRESUPUESTAL DERIVADA DEL INCREMENTO DE LOS INGRESOS PROPIOS.
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+QUINTO. LA DESIGNACIÓN DEL PRIMER COMISIONADO DEBERÁ LLEVARSE A CABO DURANTE EL MES DE ENERO DEL EJERCICIO 2018. DENTRO DE LOS SIGUIENTES TREINTA DÍAS HÁBILES A LA DESIGNACIÓN DEL COMISIONADO, DEBERÁ CONSTITUIRSE EL ÓRGANO DE GOBIERNO DE LA COMISIÓN ESTATAL DE LA DEFENSA DEL CONTRIBUYENTE, Y A SU VEZ, ÉSTE ÓRGANO DEBERÁ EXPEDIR SU ESTATUTO ORGÁNICO A MÁS TARDAR DENTRO DE LOS QUINCE DÍAS HÁBILES SIGUIENTES A SU CONSTITUCIÓN. LA COMISIÓN ESTATAL DE LA DEFENSA DEL CONTRIBUYENTE DEBERÁ ESTAR OPERANDO Y FUNCIONANDO, A PARTIR DEL 16 DE ABRIL DE 2018.
 
 Sexto. El Comisionado, es el responsable del proceso de constitución de la Comisión Estatal de la Defensa del Contribuyente, se le faculta para decidir sobre cualquier obstáculo o imprevisto que impida o retrase el proceso de creación y constitución de la Comisión Estatal de la Defensa del Contribuyente, referido en el artículo anterior, debiendo en la primera sesión del Órgano de Gobierno, llevada a cabo después de tomada la decisión, ponerla a consideración de éste para que, en su caso la ratifique.
 
-Séptimo. De acuerdo con el segundo párrafo de la fracción XIII del artículo 25 de esta Ley, las personas que al inicio de las operaciones de la Comisión Estatal tengan el carácter de síndicos, podrán solicitar su registro ante ésta a partir del 1 de febrero de 2018.
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 QUE REFORMA ESTE TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+SÉPTIMO. DE ACUERDO CON EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XIII DEL ARTÍCULO 25 DE ESTA LEY, LAS PERSONAS QUE AL INICIO DE LAS OPERACIONES DE LA COMISIÓN ESTATAL TENGAN EL CARÁCTER DE SÍNDICOS DEL CONTRIBUYENTE, PODRÁN SOLICITAR SU REGISTRO ANTE ÉSTA A PARTIR DEL 16 DE ABRIL DE 2018.
 
 Octavo. La Comisión Estatal de la Defensa del Contribuyente realizará una campaña masiva para difundir las nuevas disposiciones contenidas en esta Ley.
 
@@ -601,7 +635,7 @@ DADO en el Despecho del Poder Ejecutivo del Estado, a los veintinueve días del 
 
 A t e n t a m e n t e.
 
-“SUFRAGIO EFECTIVO. NO REELECCIÓN”
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
 
 EL GOBERNADOR DEL ESTADO DE ZACATECAS
 
@@ -620,3 +654,17 @@ EL SECRETARIO DE FINANZAS
 JORGE MIRANDA CASTRO
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+(NOTA: EL 4 DE DICIEMBRE DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2018, DECLARÓ LA INVALIDEZ DEL DECRETO 273 PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTE DE DICIEMBRE DE DOS MIL DIECISIETE, MEDIANTE EL CUAL SE PROMULGARON Y PUBLICARON LAS REFORMAS, ADICIONES Y DEROGACIONES DE DIVERSAS DISPOSICIONES, LA CUAL SURTIÓ EFECTOS EL 4 DE MARZO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+P.O. 20 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. "DISPOSICIONES TRANSITORIAS DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]</small>
+
+Artículo Único.- Las presentes reformas, adiciones y derogaciones a la Ley de los Derechos y Defensa del Contribuyente del Estado de Zacatecas y sus Municipios, entrarán en vigor el primero de enero del año dos mil dieciocho, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NO. 273.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE LOS DERECHOS Y DEFENSA DEL CONTRIBUYENTE DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+ÚNICO.-·El presente Decreto entrará en vigor el 1ro. de enero del 2018, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
