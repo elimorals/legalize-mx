@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-nacional-electoral-para-la-106845"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-03-26"
-last_updated: "2017-08-29"
+last_updated: "2017-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106845&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-03-11"
 
 REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 26 de marzo de 2015.
 
@@ -115,11 +115,11 @@ g) Los Organismos Públicos Locales Electorales, y
 
 h) Las Juntas Ejecutivas Locales y Distritales.
 
-> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EN EL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2017, EL PRESENTE ARTÍCULO EN SU FRACCIÓN III CONTENÍA HASTA EL INCISO N) Y CON LA PRESENTE REFORMA SE PRECISA ÚNICAMENTE HASTA EL INCISO K).]</small>
-
 > <small>(REFORMADO, D.O.F. 22 DE MARZO DE 2017)</small>
 
 Artículo 5
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
 
 1. Para los efectos del presente Reglamento, se entenderá:
 
@@ -153,6 +153,8 @@ h) Organismos Públicos. Los Organismos Públicos Locales Electorales de las ent
 
 i) Juntas. Las Juntas Ejecutivas del Instituto, Locales y Distritales.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
+
 III. Por lo que hace a la terminología:
 
 a) Aspirante. La o el ciudadano mexicano que, una vez publicada la Convocatoria para el proceso de selección y designación para la integración de los órganos superiores de dirección de los Organismos Públicos, requisite el formato de solicitud de registro proporcionado por el Instituto;
@@ -164,6 +166,8 @@ b) Causa grave. Las establecidas en el artículo 102, párrafo 2 de la Ley Gener
 c) Convocatoria: Es el documento que aprueba el Consejo General del Instituto, y que se dirige a la ciudadanía interesada para participar en un procedimiento de selección y designación de la o el Consejero Presidente y las o los Consejeros Electorales de un Organismo Público;
 
 d) Cotejo documental o compulsa. Acto a través del cual se verifica que las copias o certificaciones presentadas por los aspirantes coincidan con los documentos originales;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
 
 e) Designación. Es la atribución del Consejo General de nombrar a las y los Consejeros Presidentes y Consejeros Electorales de los Organismos Públicos;
 
@@ -179,13 +183,21 @@ h) Portal. La página de Internet del Instituto;
 
 i) Remoción: Es la atribución del Consejo General para que, conforme al procedimiento establecido en la Ley General y en el presente ordenamiento, determine la separación del cargo de Consejera o Consejero Presidente, y Consejeras o Consejeros Electorales de los Organismos Públicos Locales por infracciones al artículo 102 numeral 2 de la Ley General;
 
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2017)</small>
 
-j) Sistema de Registro. Herramienta informática para el registro de aspirantes a Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público; y
+j) Sistema de Registro. Herramienta informática para el registro de aspirantes a Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público;
 
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2017)</small>
 
-k) Instructivo. Documento para la recepción de la documentación que presenten las y los aspirantes a los cargos de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de los Organismos Públicos.
+k) Instructivo. Documento para la recepción de la documentación que presenten las y los aspirantes a los cargos de Consejera o Consejero Presidente y Consejeras o Consejeros Electorales de los Organismos Públicos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
+
+l) Vacante. Separación generada por cualquier causa, que implique la imposibilidad de reincorporarse al cargo para concluír el periodo del nombramiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
+
+m) Ausencia temporal. Separación del cargo, generada por cualquier causa justificada en el ejercicio de algún derecho, que impide atender el cargo sólo de manera provisional, para luego reincorporarse a las funciones.
 
 > <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EN EL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 29 DE AGOSTO DE 2017, EL PRESENTE ARTÍCULO EN SU FRACCIÓN I CONTENÍA HASTA EL INCISO F) Y CON LA PRESENTE MODIFICACIÓN SE PRECISA ÚNICAMENTE HASTA EL INCISO E), LA FRACCIÓN II, PUNTO 2 CONTENÍA HASTA EL INCISO S), AHORA SE MENCIONA HASTA EL INCISO Q).]</small>
 
@@ -193,7 +205,11 @@ k) Instructivo. Documento para la recepción de la documentación que presenten 
 
 ###### Artículo 6.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
+
 1. Son atribuciones del Consejo General:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 20 DE DICIEMBRE DE 2017)</small>
 
 I. Dentro del procedimiento de selección y designación de las y los Consejeros Presidentes y Consejeras o Consejeros Electorales, las siguientes:
 
@@ -203,7 +219,9 @@ b) Aprobar las Convocatorias para participar en los procedimientos de selección
 
 c) Votar las propuestas que presente la Comisión de Vinculación;
 
-d) Realizar la designación correspondiente en caso de que ocurra una vacante de Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público, de acuerdo a lo establecido en la Constitución, la Ley General y este ordenamiento;
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2017)</small>
+
+d) Realizar la designación correspondiente en caso de que ocurra una vacante de Consejera o Consejero Presidente, o Consejera o Consejero Electoral de un Organismo Público, de acuerdo con el procedimiento previsto en la Constitución, la Ley General y este ordenamiento, así como, en su caso, la de quien deba cubrir temporalmente la Presidencia, en tanto se lleva a cabo dicho procedimiento;
 
 > <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
 
@@ -839,21 +857,11 @@ c) Incapacidad permanente total;
 
 d) Remoción.
 
-(REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 35], D.O.F. 29 DE AGOSTO DE 2017)
-
 Artículo 32
 
-1. Si la vacante corresponde al cargo de Consejera o Consejero Presidente, se estará a lo siguiente:
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2017)</small>
 
-a) La o el Secretario Ejecutivo del Organismo Público notificará la vacante a la Comisión de Vinculación, y ésta al Consejo General. Las y los Consejeros Electorales del Organismo Público, en sesión pública, aprobarán la designación provisional de la o el Consejero Presidente, seleccionando a uno de ellos, en un plazo de cinco días hábiles a partir de la generación de la vacante.
-
-> <small>(REFORMADO, D.O.F. 29 DE AGOSTO DE 2017)</small>
-
-b) En caso de existir empate y no lograr un acuerdo en el plazo estipulado, la o el Secretario Ejecutivo del Organismo Público lo notificará al Consejo General del Instituto para que éste designe a una o un Consejero Presidente provisional de entre las y los Consejeros Electorales que se encuentren en funciones, quien tendrá esta responsabilidad únicamente durante el tiempo que le tome al Instituto, llevar a cabo el procedimiento previsto en el artículo 101 de la Ley General.
-
-2. (DEROGADO, D.O.F. 29 DE AGOSTO DE 2017)
-
-3. (DEROGADO, D.O.F. 29 DE AGOSTO DE 2017)
+1. En el caso que se genere una vacante o ausencia temporal mayor a treinta días en la Presidencia, la Secretaría Ejecutiva del Organismo Público la notificará a la Comisión de Vinculación, para que ésta someta a la aprobación del Consejo General en la siguiente sesión que éste celebre, la propuesta de la Consejera o Consejero en funciones del mismo Organismo Público que deberá fungir como Presidenta o Presidente provisional, en tanto no se realice el nombramiento definitivo, o bien, se cumpla el plazo o la condición que permita la reincorporación del o la servidora pública que se haya ausentado temporalmente.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 36], D.O.F. 29 DE AGOSTO DE 2017)</small>
 
@@ -897,7 +905,7 @@ Artículo 36
 
 3. En cualquier etapa del procedimiento, la Unidad de lo Contencioso dará vista de la denuncia a la autoridad que corresponda, respecto de aquellos hechos que pudieran configurar alguna causa de responsabilidad distinta de las señaladas en el artículo 102, párrafo 2 de la Ley General y 34, párrafo 2, del presente Reglamento.
 
-Además, en cualquier caso, recibida una queja o denuncia, la Secretaría Ejecutiva informará de inmediato -vía correo electrónico- a los integrantes del Consejo General, con independencia del cumplimiento de lo establecido en el artículo 45, numeral 2 de este Reglamento.
+Además, en cualquier caso, recibida una queja o denuncia, la Secretaría Ejecutiva informará de inmediato –vía correo electrónico– a los integrantes del Consejo General, con independencia del cumplimiento de lo establecido en el artículo 45, numeral 2 de este Reglamento.
 
 (REFORMADO, D.O.F. 22 DE MARZO DE 2017) (REUBICADO [N. DE E. ANTES ARTÍCULO 40], D.O.F. 29 DE AGOSTO DE 2017)
 
@@ -1188,3 +1196,23 @@ TERCERO. Publíquese el presente Acuerdo y el Reglamento del Instituto Nacional 
 CUARTO. Se instruye al Secretario Ejecutivo a que haga del conocimiento de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación el cumplimiento a las ejecutorias SUP-RAP-89/2017, SUP-RAP-90/2017, SUP-RAP-94/2017 y SUP-RAP-97/2017 Acumulados.
 
 QUINTO. El presente Reglamento entrará en vigor el día de su aprobación, modificándose el Reglamento del Instituto Nacional Electoral para la designación y sanción de las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos Locales Electorales, publicado en el Diario Oficial de la Federación el 22 de marzo de 2017.
+
+D.O.F. 20 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL POR EL QUE SE REFORMA EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES".]</small>
+
+PRIMERO. Se aprueba la reforma al Reglamento del Instituto Nacional Electoral para la Designación y Remoción de las y los Consejeros Presidentes y las y los Consejeros Electorales de los Organismos Públicos Locales Electorales en los términos que se señalan en el cuadro previsto en las consideraciones.
+
+SEGUNDO. Se instruye a la Secretaría Ejecutiva para que, a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales, haga del conocimiento de los órganos máximos de dirección de los Organismos Públicos Locales el contenido del presente Acuerdo.
+
+TERCERO. Publíquese de inmediato el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta Electoral y en la página de internet de este Instituto.
+
+CUARTO. El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL POR EL QUE SE REFORMA EL REGLAMENTO DEL INSTITUTO NACIONAL ELECTORAL PARA LA DESIGNACIÓN Y REMOCIÓN DE LAS Y LOS CONSEJEROS PRESIDENTES Y LAS Y LOS CONSEJEROS ELECTORALES DE LOS ORGANISMOS PÚBLICOS LOCALES ELECTORALES".]
+
+ÚNICO. Las Consejeras y Consejeros que, en su caso, hayan sido designados como presidentes provisionales, para cubrir una vacancia o ausencia temporal de la Presidencia del OPL, conforme al Reglamento anterior a esta reforma, conservarán dicho carácter hasta en tanto el Consejo General no realice la designación definitiva de la Consejera o Consejero Presidente, de conformidad con el artículo 32, párrafo 1, de este cuerpo normativo, o bien, se reincorpore la o el Presidente correspondiente.
+
+> <small>[N. DE E. VÉASE EL ANEXO 1 EN LA TERCERA SECCIÓN DEL D.O.F. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 39 A LA 45.]</small>
+
+> <small>[N. DE E. VÉASE EL ANEXO 2 EN LA TERCERA SECCIÓN DEL D.O.F. DE 20 DE DICIEMBRE DE 2017, PÁGINAS DE LA 46 A LA 50.]</small>
