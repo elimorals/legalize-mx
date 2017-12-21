@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2017-12-20"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 ---
 # REGLAMENTO PARA LA GESTION INTEGRAL DEL MUNICIPIO DE GUADALAJARA, JALISCO
 
-REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE GUADALAJARA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 20 DE DICIEMBRE DE 2017.
+REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 21 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -839,7 +841,9 @@ II. Condicionados: Los usos cuyo impacto es superior al del uso predominante de 
 
 III. Prohibidos: Aquellos que no cumplen con alguna de las dos fracciones anteriores, y que por su naturaleza no son compatibles con el uso predominante de una Zona.
 
-En cualquier caso, las direcciones de Ordenamiento del Territorio, de Movilidad y Transporte, de Medio Ambiente, y de Protección Civil y Bomberos, podrán indicar otras condicionantes contempladas en la reglamentación federal, estatal y municipal.
+> <small>(REFORMADO, G.M. 21 DE DICIEMBRE DE 2017)</small>
+
+En cualquier caso, las Direcciones de Ordenamiento del Territorio, de Movilidad y Transporte, de Medio Ambiente, y de Resiliencia, podrán indicar otras condicionantes contempladas en la normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1959,6 +1963,8 @@ Para la identificación de los PIUE en la cartografía que corresponda, podrá u
 
 ### CAPÍTULO I. Del Área Dictaminadora para la Gestión Integral de la Ciudad
 
+> <small>(REFORMADO, G.M. 21 DE DICIEMBRE DE 2017)</small>
+
 ## TÍTULO TERCERO. De la Dictaminación
 
 ### CAPÍTULO II. De la Dictaminación del Uso del Suelo
@@ -1967,7 +1973,7 @@ Para la identificación de los PIUE en la cartografía que corresponda, podrá u
 
 ###### Artículo 122.
 
-El Área Dictaminadora para la Gestión Integral de la Ciudad, estará conformada por las Direcciones de Ordenamiento del Territorio, Obras Públicas, Movilidad y Transporte, Medio Ambiente y Protección Civil y Bomberos.
+El Área Dictaminadora para la Gestión Integral de la Ciudad, estará conformada por las Direcciones de Ordenamiento del Territorio, de Obras Públicas, de Movilidad y Transporte, de Medio Ambiente y la Dirección Resiliencia dependiente de la Dirección de Obras Públicas.
 
 ###### Artículo 123.
 
@@ -2335,11 +2341,13 @@ V. Las áreas libres de las edificaciones deberán ser arborizadas o jardinadas 
 
 VI. Contar con los accesos adecuados y los espacios para estacionamiento para vehículos motorizados y no motorizados en las cantidades requeridas por los Programas y Planes Municipales de Desarrollo Urbano, utilización de la construcción y tipo de zona, así como con las adecuaciones viales y señalamientos necesarios;
 
-VII. Contar durante la ejecución de la obra con un plan de atención a emergencias de acuerdo al tipo de obra que se trate de conformidad con el dictamen emitido por la Dirección de Protección Civil y Bomberos; y
+> <small>(REFORMADA, G.M. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.M. 24 DE ABRIL DE 2017)</small>
+VII. Contar durante la ejecución de la obra con un protocolo de medidas de seguridad y atención a emergencias de acuerdo al tipo de obra que se trate de conformidad con el dictamen emitido por la Dirección de Resiliencia; y
 
-VIII. Cumplir con lo previsto en el dictamen emitido por la Dirección de Protección Civil y Bomberos para realizar trabajos en altura.
+> <small>(REFORMADA, G.M. 21 DE DICIEMBRE DE 2017)</small>
+
+VIII. Cumplir con lo previsto en el dictamen emitido por la Dirección de Resiliencia para realizar trabajos en altura.
 
 > <small>(ADICIONADO, G.M. 16 DE MAYO DE 2017)</small>
 
@@ -2903,9 +2911,9 @@ I. Definición de áreas de uso público del proyecto: Planta conceptual represe
 
 II. Planta arquitectónica accesible de las áreas de uso público.
 
-### CAPÍTULO VII. De la Dictaminación en Materia de Protección Civil
+### CAPÍTULO VII. De la Dictaminación en Materia de Resiliencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 181.
 
@@ -2979,13 +2987,15 @@ La declaración de daños es el documento mediante el cual las personas a las qu
 
 (DEROGADO, G.M. 24 DE ABRIL DE 2017)
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.M. 21 DE DICIEMBRE DE 2017)</small>
+
 ### CAPÍTULO VIII. De la Delimitación de Colonias, la Nomenclatura y la Asignación de Números Oficiales
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
 ###### Artículo 190.
 
-La expedición de la Licencia de Construcción, requiere cumplir con las normas técnicas vigentes establecidas por la Dirección de Protección Civil y Bomberos, siendo estos los que recaigan en cualquiera de las características siguientes:
+Para la expedición de la licencia de construcción, se requiere cumplir con las normas técnicas previamente establecidas por la Dirección de Resiliencia, en los siguientes supuestos:
 
 I. Construcciones de más de 3000 metros cuadrados;
 
@@ -3009,17 +3019,15 @@ VI. Construcciones de infraestructura de transportes, redes de drenaje y agua, f
 
 VII. Las demás que establezcan los distintos reglamentos o leyes en la materia.
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
-
 ###### Artículo 191.
 
-Para otorgar el visto bueno para el proceso constructivo y de demolición, la Dirección de Protección Civil y Bomberos propondrá la elaboración y expedición de las normas técnicas, en las que se fijarán los requerimientos para la elaboración del estudio de riesgos de las acciones urbanísticas señaladas en el artículo anterior.
+(DEROGADO, G.M. 21 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, G.M. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 192.
 
-Una vez recibidos los requisitos completos y correctos, la Dirección de Protección Civil y Bomberos elaborará y expedirá la constancia de medidas de seguridad favorable para el proceso constructivo en un plazo máximo de 20 días hábiles.
+Una vez recibidos los requisitos completos y correctos, la Dirección de Resiliencia expedirá el visto bueno para el proceso constructivo en un plazo máximo de 10 días hábiles.
 
 ###### Artículo 193.
 
@@ -4185,7 +4193,9 @@ b) Las pendientes para el escurrimiento laminar de aguas pluviales o de otra ín
 
 VI. Condiciones de diseño de los carriles de circulación interior:
 
-a) Si el ángulo longitudinal del cajón de estacionamiento con respecto al eje del carril está entre los 0 y 45º, su anchura deberá ser 3 metros;
+> <small>(REFORMADO, G.M. 21 DE DICIEMBRE DE 2017)</small>
+
+a) El número de accesos y salidas debe ajustarse a las requeridas por la Dirección de Resiliencia;
 
 b) Si el ángulo longitudinal del cajón de estacionamiento con respecto al eje del carril está entre los 45º y 70º, su anchura deberá ser 3.5 metros;
 
@@ -5202,3 +5212,21 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en las fracciones VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE GUADALAJARA, AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA, AL REGLAMENTO DE GESTIÓN DEL DESARROLLO URBANO PARA EL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Estas reformas entrarán en vigor a partir del primer día hábil del mes de enero del año 2018.
+
+Tercero. Se instruye al Coordinador General de Administración e Innovación Gubernamental y al Tesorero Municipal que realicen las acciones pertinentes para el cabal cumplimiento de las reformas que se aprueban.
+
+Cuarto. Se instruye a la Coordinadora General de Gestión Integral de la Ciudad, al Director de Protección Civil y Bomberos y al Director de Medio Ambiente a que lleven a cabo las acciones tendientes a lograr el cabal cumplimiento de las reformas que se aprueban.
+
+Quinto. Se instruye a la Dirección de Resiliencia para que en un plazo no mayor a seis meses emita las normas técnicas aplicables en los procesos constructivos conforme a sus atribuciones.
+
+Sexto. Una vez publicadas las presentes reformas remítase una copia al Congreso del Estado de Jalisco, para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley de Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Séptimo. Se instruye para que el titular de la Dirección de Resiliencia y su equipo, se incorporen a las mesas de trabajo que encabezará la Comisión Edilicia de Protección Civil y Bomberos y que participe también la Comisión Edilicia de Reglamentos y Vigilancia.
