@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-del-consejo-estatal-para-la-atencion-e-76970
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-09-25"
-last_updated: "2010-09-25"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERNO DEL CONSEJO ESTATAL PARA LA ATENCION E INCLUSION DE PERSONAS CON DISCAPACIDAD, DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERNO DEL CONSEJO ESTATAL PARA LA ATENCION E INCLUSION DE PERSONAS CON DISCAPACIDAD
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2017, SE DEROGAN LAS DISPOSICIONES RELATIVAS A LA DESIGNACIÓN DEL TERCER VICEPRESIDENTE Y LOS CONSEJEROS REPRESENTANTES DE LAS ORGANIZACIONES DEL CONSEJO ESTATAL PARA LA ATENCIÓN E INCLUSIÓN DE PERSONAS CONTENIDAS EN EL PRESENTE ORDENAMIENTO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERNO DEL CONSEJO ESTATAL PARA LA ATENCIÓN E INCLUSIÓN DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Reglamento Publicado en el Periódico Oficial del Estado de Jalisco, el sábado 25 de septiembre de 2010.
 
@@ -371,3 +373,21 @@ TRANSITORIOS (SIC)
 Lic. Héctor Figueroa Solano.
 
 Secretario Ejecutivo del Consejo Estatal para La Atención e Inclusión de Personas con Discapacidad.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIGELAG ACU 044/2017 DEL GOBERNADOR DEL ESTADO DE JALISCO MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.
+
+PRIMERO. El presente acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se derogan las disposiciones relativas a la designación del tercer vicepresidente y los consejeros representantes de las organizaciones del Consejo Estatal para la Atención e Inclusión de Personas contenidas en el Reglamento Interno (sic) Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad publicado el sábado 25 de septiembre de 2010, en el Periódico Oficial “El Estado de Jalisco”.
+
+TERCERO. La Secretaría de Movilidad, junto con el Consejo, publicarán dentro de los 180 días posteriores a la entrada en vigor del presente Reglamento, los criterios técnicos y mecanismos para el otorgamiento de los distintivos oficiales que acrediten a los vehículos que utilizan personas con discapacidad para el uso de estacionamientos destinados a este grupo poblacional. A su vez, en los criterios técnicos y mecanismos antes señalados se determinará el procedimiento necesario para el otorgamiento de placas de vehículos que sean conducidos por personas con discapacidad o sirvan de transporte para las mismas.
+
+CUARTO. La Secretaría de Salud contará con 180 días posteriores a la entrada en vigor del presente Reglamento para publicar los criterios técnicos y bases que utilizará a efecto de la Certificación de Reconocimiento y Calificación de Discapacidad que favorezca el mejor funcionamiento del Registro Estatal.
+
+QUINTO. La Secretaría de Infraestructura y Obra Pública determinará y publicará los lineamientos técnicos de accesibilidad y diseño universal a que se refiere el presente Reglamento, dentro de los 180 días posteriores a la entrada en vigor del presente Reglamento.
+
+SEXTO. Para efecto de dar cumplimiento de lo dispuesto en el presente Acuerdo, las autoridades en sus respectivos ámbitos de competencia, deberán, en caso de ser necesario, realizar las gestiones administrativas y financieras para proveer de manera progresiva su implementación.
