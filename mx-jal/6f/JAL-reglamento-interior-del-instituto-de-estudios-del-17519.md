@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-de-estudios-del-17519"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-10"
-last_updated: "2013-06-22"
+last_updated: "2017-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS DEL FEDERALISMO "PRISCILIANO SANCHEZ"
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS DEL FEDERALISMO "PRISCILIANO SÁNCHEZ"
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 26725/LXI/17, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2013.
+REGLAMENTO INTERIOR DEL INSTITUTO DE ESTUDIOS DEL FEDERALISMO "PRISCILIANO SÁNCHEZ" DEL ESTADO DE DE JALISCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado Jalisco, el jueves 10 de agosto de 2000.
 
@@ -632,3 +634,9 @@ P.O. 15 DE NOVIEMBRE DE 2007.
 P.O. 22 DE JUNIO DE 2013.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26725/LXI/17 QUE ABROGA EL DECRETO 15816 Y EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO INSTITUTO DE ESTUDIOS DEL FEDERALISMO "PRISCILIANO SÁNCHEZ".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
