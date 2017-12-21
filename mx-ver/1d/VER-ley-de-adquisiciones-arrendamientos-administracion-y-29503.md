@@ -4,7 +4,7 @@ identifier: "VER-ley-de-adquisiciones-arrendamientos-administracion-y-29503"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-21"
-last_updated: "2017-02-17"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de febrero de 2003.
 
@@ -47,9 +47,11 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES M
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 1º.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular lo relativo a la planeación, programación, adquisición, almacenaje, enajenación, baja y control de bienes muebles, así como la contratación de arrendamientos y servicios relacionados con aquéllos que, para desarrollar sus atribuciones, requieran:
+La presente Ley es de orden público y tiene por objeto reglamentar la aplicación de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos y 72 párrafo cuarto de la Constitución Política del Estado de Veracruz en materia a lo relativo a la planeación, programación, adquisición, almacenaje, enajenación, baja y control de bienes muebles, así como la contratación de arrendamientos y servicios relacionados con aquéllos que, para desarrollar sus atribuciones, requieran:
 
 I. El Poder Ejecutivo del Estado, por conducto de sus dependencias y demás entidades de la administración pública;
 
@@ -61,57 +63,129 @@ IV. Los organismos autónomos de Estado; y
 
 V. Los Ayuntamientos y las entidades de la Administración Pública Municipal.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Estarán excluidos de la aplicación de la presente Ley, las adquisiciones, arrendamientos de bienes y la contratación de servicios con cargo total o parcial a recursos federales, conforme a los convenios que se celebren con el Ejecutivo Federal.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Los Entes públicos señalados en el presente artículo están obligados a cumplir las disposiciones de esta Ley; deberán realizar las acciones referidas, observando los principios de legalidad, honestidad, honradez, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, imparcialidad, control y rendición de cuentas.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Las adquisiciones, arrendamientos y servicios que contraten las empresas productivas del Estado y sus empresas productivas subsidiarias quedan excluidos de la aplicación de este ordenamiento.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Quedan facultados para aplicar e interpretar la presente Ley los Entes Públicos señalados en el presente artículo, en el ámbito de sus respectivas competencias.
+
 ###### Artículo 2º.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Institución: las señaladas en el artículo anterior;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. En cada institución:
+I. Adjudicación directa: Contratación que lleva a cabo un Ente Público con un proveedor determinado;
 
-a).- Comité: el de adquisiciones, arrendamientos, servicios y enajenaciones que, como órgano colegiado, regula y vigila los procedimientos establecidos en el presente ordenamiento;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b).- Unidad administrativa: la responsable de establecer, ejecutar y controlar los procedimientos relativos a las materias a las que se refiere la presente Ley;
+II. Catálogo: El listado ordenado, homogéneo y codificado que tiene el fin de identificar nombres y números correspondientes;
 
-c).- Comisión de licitación o mesa de trabajo: la designada por la unidad administrativa para hacerse cargo del proceso de licitación;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-d).- Órgano de control interno: el encargado de controlar y evaluar el ejercicio del gasto público, así como la correcta aplicación de esta Ley;
+III. Comisión de licitación: La designada por la Unidad Administrativa en cada Ente Público para hacerse cargo del proceso de licitación;
 
-e).- Proveedor: la persona física o moral que suministra o está en posibilidades de suministrar, como oferente, los bienes o servicios que las instituciones requieran;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-f).- Licitante: los proveedores que participan en un proceso de licitación;
+IV. Comité: El de adquisiciones, arrendamientos, servicios y enajenaciones que, como órgano colegiado en cada Ente Público, regule y vigile los procedimientos establecidos en la presente Ley;
 
-g).- Padrón de proveedores: el registro nominal de proveedores;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-h).- Catálogo: el listado ordenado, homogéneo y codificado con el fin de identificar nombres y números correspondientes; y
+V. Compras consolidadas: Aquellas que efectúen dos o más Dependencias de un mismo Ente Público o dos o más entidades;
 
-i).- Postor: quien oferta en un proceso de enajenación de bienes de las instituciones.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-III. Contrataciones: el procedimiento mediante el cual se llevan al cabo las adquisiciones, almacenajes, arrendamientos, enajenaciones y los servicios;
+VI. Conflicto de Interés: La posible afectación del desempeño imparcial y objetivo de las funciones de los Servidores Públicos en razón de intereses personales, familiares o de negocios;
 
-IV. Compras consolidadas: aquellas que efectúen dos o más dependencias de una misma institución, o dos o más instituciones;
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V. Licitación: Procedimiento mediante el que se convoca a oferentes a fin de llevar al cabo una contratación; y
+VII. Contrataciones: El procedimiento mediante el cual se llevan al cabo las adquisiciones, almacenajes, arrendamientos, enajenaciones y los servicios;
 
-VI. Adjudicación directa: Contratación que lleva a cabo una institución con un proveedor determinado.
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VIII. Entes Públicos: A los Poderes Legislativo y Judicial, las Dependencias y Entidades de la Administración Pública Estatal y Municipal, los Organismos Constitucionales Autónomos; los Órganos Jurisdiccionales que no formen parte del Poder Judicial; así como cualquier otro ente sobre el que tenga control cualquiera de los Organismos Públicos previstos en el artículo 1 de esta Ley;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IX. Ley: La Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+X. Licitación: El procedimiento mediante el que se convoca a oferentes a fin de llevar al cabo una contratación;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XI. Licitante: Los proveedores que participan en un proceso de licitación;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XII. Órganos Internos de Control: Las áreas administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los Entes Públicos, así como aquellas otras instancias de los órganos constitucionales autónomos que, conforme a sus respectivas normas, sean competentes para aplicar las leyes en materia de responsabilidades de servidores públicos;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIII. Padrón de proveedores: El registro nominal de proveedores del Gobierno del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIV. Plataforma Digital Nacional: La plataforma a que se refiere la Ley General del Sistema Nacional Anticorrupción;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XV. Postor: Quien oferta en un proceso de enajenación de bienes de los Entes públicos;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVI. Proveedor: La persona física o moral que suministra o está en posibilidades de suministrar, como oferente, los bienes o servicios que los Entes públicos requieran;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVII. Servidores Públicos: Las personas que desempeñan un empleo, cargo o comisión en los Entes Públicos, en el ámbito estatal o municipal, conforme a lo dispuesto en el artículo 108 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Unidad Administrativa: El área administrativa responsable de establecer, ejecutar y controlar los procedimientos relativos a las materias a las que se refiere la presente Ley; y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIX. UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las Entidades Federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 3°.
 
-Para los efectos de esta Ley, por adquisiciones, almacenaje, arrendamientos, servicios y enajenaciones de las instituciones se entenderá:
+Para los efectos de esta Ley, se entenderá por adquisiciones, almacenaje, arrendamientos, servicios y enajenaciones de los Entes públicos, lo siguiente:
 
 I. Adquisiciones: las de materiales, suministros, bienes y en general aquellos insumos que se encuentren considerados en sus catálogos de cuentas;
 
-II. Almacenaje: el de los materiales, suministros y bienes en general adquiridos por las instituciones;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+II. Almacenaje: El de los materiales, suministros y bienes en general adquiridos por los Entes Públicos;
 
 III. Arrendamientos: los que se realicen sobre bienes ajenos para su uso y disfrute temporal;
 
-IV. Servicios: los que se presten sobre bienes directamente de su propiedad o arrendados, referidos a la instalación, conservación, mantenimiento y reparación, así como al procesamiento de datos, maquila y otros análogos a los enunciados; y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V. Enajenaciones: las que se realicen respecto de activos de su propiedad.
+IV. Enajenaciones: Las que se realicen respecto de activos de su propiedad; y
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Servicios: Los que se presten sobre bienes directamente de su propiedad o arrendados, referidos a la instalación, conservación, mantenimiento y reparación, así como al procesamiento de datos, maquila y otros análogos a los enunciados.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 4°.
 
-Cada institución integrará un comité con sus representantes y con los de la iniciativa privada, el cual tendrá las atribuciones siguientes:
+Cada Ente Público integrará un comité con sus representantes y con los de la iniciativa privada, el cual tendrá las atribuciones siguientes:
 
 I. Vigilar que el ejercicio del gasto público, en los procesos de licitación, se realice conforme a las disposiciones de esta Ley, procurando que prevalezcan los principios de publicidad, concurrencia e igualdad;
 
@@ -127,9 +201,11 @@ VI. Elaborar y aprobar el manual que rija su integración y funcionamiento.
 
 En el caso de los ayuntamientos, las atribuciones conferidas al comité serán ejercidas por sus respectivos cabildos.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 5°.
 
-Las instituciones podrán establecer subcomités, en los que intervendrán sus áreas administrativas y sus órganos de control interno, se integrarán en número impar y en ellos podrán participar los sectores representativos de la industria y del comercio del Estado y de los municipios.
+Los Entes Públicos podrán establecer subcomités, en los que intervendrán sus áreas administrativas y sus Órganos Internos de Control, se integrarán en número impar y en ellos podrán participar los sectores representativos de la industria y del comercio del Estado, así como de los municipios.
 
 ###### Artículo 6°.
 
@@ -157,19 +233,25 @@ VIII. Reducir los plazos contemplados en el artículo 35, sin que ello implique 
 
 IX. Las demás que les confieran éste y otros ordenamientos.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 7°.
 
-Las instituciones podrán establecer comisiones de licitación, que se encargarán de los procedimientos de contratación.
+Los Entes Públicos podrán establecer comisiones de licitación, que se encargarán de los procedimientos de contratación.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 8°.
 
-Las instituciones no financiarán a los proveedores.
+Los Entes Públicos no financiarán a los proveedores.
 
 No se reputará financiamiento el otorgamiento de anticipos, los cuales quedarán debidamente garantizados por los proveedores.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 9°.
 
-Las instituciones, a través de su unidad administrativa, efectuarán las contrataciones, conforme a la modalidad que en cada caso establece esta Ley.
+Los Entes Públicos, a través de su Unidad Administrativa, efectuarán las contrataciones, conforme a la modalidad que en cada caso establece esta Ley.
 
 ###### Artículo 10.
 
@@ -177,23 +259,29 @@ El objeto y monto de las contrataciones se apegarán a lo previsto en el presupu
 
 En los contratos se pactará preferentemente la condición de precio fijo; tratándose de bienes o servicios a precios oficiales, o sujetos a variaciones del tipo de cambio, se reconocerán los incrementos o decrementos autorizados.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 11.
 
-Las instituciones, a través de sus áreas administrativas, podrán realizar compras consolidadas.
+Los Entes Públicos, a través de sus unidades administrativas, podrán realizar compras consolidadas.
 
-> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+Cada Ente Público llevará un registro de los servidores públicos que participen en las contrataciones públicas para su integración a la Plataforma Digital Nacional.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 12.
 
-En lo no previsto por esta Ley se aplicarán, en lo conducente, las disposiciones del Código Civil y del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+En lo no previsto en esta Ley, se aplicará supletoriamente el Código Civil y del Código de Procedimientos Administrativos, ambos para el Estado de Veracruz de Ignacio de la Llave.
 
 ## TÍTULO SEGUNDO
 
 ### CAPÍTULO ÚNICO. Planeación, Programación y Presupuestación
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 13.
 
-Las instituciones planearán las contrataciones que pretendan efectuar, tomando en consideración lo siguiente:
+Los Entes Públicos planearán las contrataciones que pretendan efectuar, tomando en consideración lo siguiente:
 
 I. Los objetivos y prioridades de los planes estatal y municipales de desarrollo, según corresponda, así como los específicos que de ambos emanen.
 
@@ -203,9 +291,11 @@ III. Las directrices que se establezcan para la presupuestación del gasto públ
 
 IV. Las demás disposiciones que regulen la ejecución de las actividades y la celebración de las operaciones previstas en esta Ley.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 14.
 
-Las distintas áreas que integran las instituciones elaborarán sus programas anuales de adquisiciones, arrendamientos y servicios, según sea el caso, los que serán consolidados para su publicación.
+Las distintas áreas que integran los Entes Públicos elaborarán sus programas anuales de adquisiciones, arrendamientos y servicios, según sea el caso, los que serán consolidados para su publicación.
 
 ###### Artículo 15.
 
@@ -217,7 +307,9 @@ II. La calendarización física y financiera de los recursos necesarios;
 
 III. Los bienes necesarios para atender sus programas; en su caso, las normas de calidad aplicables conforme a la Ley Federal sobre Metrología y Normalización, que servirán de referencia para exigir la misma especificación técnica a los bienes de procedencia extranjera; los plazos estimados de suministro, y los avances tecnológicos incorporados en los bienes y servicios que satisfagan los requerimientos de las propias instituciones;
 
-IV. En su caso, los planos, proyectos, especificaciones y programas de ejecución, cuando se trate de adquisiciones de bienes muebles de fabricación especial o para obras públicas;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Los bienes necesarios para atender sus programas; en su caso, las normas de calidad aplicables conforme a la Ley Federal sobre Metrología y Normalización, que servirán de referencia para exigir la misma especificación técnica a los bienes de procedencia extranjera; los plazos estimados de suministro, y los avances tecnológicos incorporados en los bienes y servicios que satisfagan los requerimientos de los propios Entes Públicos;
 
 V. Preferir la utilización de los bienes o servicios que se produzcan en el Estado y en el país, sobre los extranjeros, con especial atención a los sectores económicos cuya promoción, fomento y desarrollo estén comprendidos en los objetivos y prioridades de los planes estatal y municipales de desarrollo y en los programas específicos;
 
@@ -225,29 +317,35 @@ VI. Los requerimientos de conservación, mantenimiento preventivo y restauració
 
 VII. Las demás previsiones que deban tomarse en cuenta, según la naturaleza y características de las adquisiciones, arrendamientos o servicios.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 16.
 
-A fin de obtener las mejores condiciones en cuanto a precio, calidad y oportunidad y de apoyar en condiciones de competencia a las áreas prioritarias del desarrollo en el Estado, los programas anuales referidos en el artículo anterior, servirán de base al área encargada de la función financiera y administrativa en cada institución para planear, programar y licitar públicamente las compras y la contratación de servicios en forma consolidada.
+A fin de obtener las mejores condiciones en cuanto a precio, calidad y oportunidad y de apoyar en condiciones de competencia a las áreas prioritarias del desarrollo en el Estado, los programas anuales referidos en el artículo anterior, servirán de base a la Unidad Administrativa en cada Ente Público para planear, programar y licitar públicamente las compras y la contratación de servicios en forma consolidada.
 
-(REFORMADO PRIMER PÁRRAFO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-Cada institución, a más tardar en la primera quincena de marzo de cada año, publicará la relación de requerimientos, derivados del programa anual de adquisiciones consolidado, de bienes muebles y servicios de sus distintas áreas, con la estimación de cantidades o volúmenes y los periodos aproximados de compra o contratación.
+Cada Ente Público, a más tardar en la primera quincena de marzo de cada año, publicará la relación de requerimientos, derivados del programa anual de adquisiciones consolidado, de bienes muebles y servicios de sus distintas áreas, con la estimación de cantidades o volúmenes y los períodos aproximados de compra o contratación.
 
-La publicación a que se refiere el párrafo anterior, no implicará obligación alguna de contratación y podrá ser adicionada, modificada, suspendida o cancelada, sin responsabilidad alguna para la institución.
+La publicación a que se refiere el párrafo anterior, no implicará obligación alguna de contratación y podrá ser adicionada, modificada, suspendida o cancelada, sin responsabilidad alguna para el Ente Público.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-Las instituciones que requieran contratar o realizar estudios o proyectos, primero verificarán si en sus archivos o en los de las dependencias o entidades afines, existen estudios o proyectos sobre la materia. De contar con éstos, luego de comprobarse que el estudio o proyecto localizado satisface los requerimientos, no procederá otra contratación.
+Los Entes Públicos que requieran contratar o realizar estudios o proyectos, primero verificarán si en sus archivos o en los de las dependencias o entidades afines, existen estudios o proyectos sobre la materia. De contar con éstos, luego de comprobarse que el estudio o proyecto localizado satisface los requerimientos, no procederá otra contratación.
 
 ###### Artículo 19.
 
 El arrendamiento de bienes sólo podrá celebrarse cuando se justifique su necesidad, mediante dictamen por escrito, donde se demuestre que no es posible o conveniente su adquisición.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 20.
 
-En el presupuesto de egresos de las instituciones se contemplarán los rubros referidos a los gastos que originen las contrataciones.
+En el presupuesto de egresos de los Entes Públicos se contemplarán los rubros referidos a los gastos que originen las contrataciones.
 
 ###### Artículo 21.
 
@@ -255,7 +353,9 @@ Ninguna convocatoria será publicada, si antes no se verifica la suficiencia de 
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO ÚNICO. Padrón de Proveedores
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO PRIMERO. Padrón de Proveedores
 
 (REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
 
@@ -307,23 +407,81 @@ e). La demás información que la unidad administrativa determine mediante dispo
 
 Cumplidos que sean los requisitos del artículo anterior, se otorgará el registro al proveedor en el padrón respectivo, asignándole el número correspondiente. La referencia de dicho numeral tendrá por satisfechos los requisitos señalados a los proveedores en la convocatoria, excepto aquellos en que se exijan características específicas. El registro y su renovación anual serán gratuitos.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 24.
 
-La institución, de manera fundada, motivada, respetando la garantía de audiencia y de conformidad con el Título Quinto de esta Ley, podrá cancelar los registros. La cancelación se notificará a las demás instituciones.
+El Ente Público, de manera fundada, motivada, respetando el derecho de audiencia y de conformidad con el Título Quinto de esta Ley, podrá cancelar los registros. Dicha cancelación se notificará a los demás Entes Públicos.
 
-### CAPÍTULO I. Disposiciones Generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO SEGUNDO. De los Servidores Públicos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 25.
 
-(DEROGADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+Los servidores públicos que participen en las contrataciones gubernamentales deberán:
+
+I. Establecer un registro de los servidores públicos autorizados para participar en contrataciones gubernamentales;
+
+II. Mantener actualizado el sistema de Información de contrataciones gubernamentales en cumplimiento a la normatividad aplicable en materia anticorrupción;
+
+III. Cerciorarse, antes de la celebración de cualquier contrato de adquisiciones, arrendamientos o para la enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza o la contratación de obra pública o servicios relacionados con ésta, que el particular manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se genera un conflicto de interés;
+
+IV. Verificar que las manifestaciones señaladas en la fracción anterior consten por escrito y se hagan del conocimiento del Órgano Interno de Control, previo a la celebración del acto en cuestión; y
+
+V. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 25 Bis.
+
+Los servidores públicos de cada uno de los Entes Públicos que en el ejercicio de sus funciones tengan conocimiento de infracciones a la presente Ley o a las disposiciones que de ella deriven, deberán comunicarlo a las autoridades que resulten competentes.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 25 Ter.
+
+Los servidores públicos de cada uno de los Entes Públicos deberán abstenerse de:
+
+I. Participar en contrataciones públicas cuando exista conflicto de interés;
+
+II. Diseñar especificaciones a favor de determinados proveedores;
+
+III. Restringir a los interesados la información sobre las oportunidades de contratación;
+
+IV. Invocar la urgencia como excusa para adjudicar contratos a un solo proveedor o prestador de servicios, cuando las circunstancias y la Ley no lo justifiquen;
+
+V. Violar la confidencialidad de las ofertas;
+
+VI. Descalificar a posibles proveedores, estableciendo arbitrariamente reglas y/o procedimientos de precalificación;
+
+VII. Aceptar dádivas por sí o por interpósita persona;
+
+VIII. Omitir los procedimientos para exigir el cumplimiento de las normas contractuales en materia de calidad, cantidad u otras especificaciones técnicas asociadas con el objeto del contrato;
+
+IX. Desviar los bienes entregados para venderlos de nuevo o para uso personal;
+
+X. Exigir cualquier tipo de prestación que violente los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que debe observar cualquier servidor público; y
+
+XI. Recibir productos o servicios, diferentes, de menor calidad o en menor cantidad de los señalados en los pedidos o contratos.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 25 Quater.
+
+La contravención a lo dispuesto en el artículo anterior será sancionada en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave, con independencia de aquellas responsabilidades de orden civil o penal a que haya lugar.
 
 ## TÍTULO CUARTO. Procedimientos de Contratación
 
-### CAPÍTULO II. Licitación Pública
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 26.
 
-Las instituciones, bajo su estricta responsabilidad, efectuarán sus contrataciones conforme a alguno de los procedimientos siguientes:
+Los Entes Públicos, bajo su estricta responsabilidad, efectuarán sus contrataciones conforme a alguno de los procedimientos siguientes:
 
 I. Licitación pública;
 
@@ -337,25 +495,31 @@ III. Adjudicación directa.
 
 Las dependencias, organismos y entidades señaladas en el artículo 1 de esta Ley se sujetarán, en los procedimientos de contratación, a los montos y modalidades siguientes:
 
-I. La que rebase el monto de 181,612 salarios mínimos general vigentes en la zona económica de la localidad, se hará en licitación pública nacional o internacional;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+I. La que rebase el monto de 192,583.7901 UMAS, se hará en licitación pública nacional e internacional;
 
-II. La que se encuentra entre los 181, 612 y los 90,806 salarios mínimos general vigente en la zona económica de la localidad más .01 centavos, se hará en licitación pública estatal;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 5 DE SEPTIEMBRE DE 2007)</small>
+II. La que se encuentre entre las 192,583.7901 y las 96,292.9554 UMAS, se hará en licitación pública estatal;
 
-III. La que se encuentre entre los 90,806 y los 1,135 salarios mínimos general vigentes en la zona económica de la localidad, se hará en licitación simplificada; y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. La inferior a los 1,135 salarios mínimos general vigente en la zona económica de la localidad, se hará en adjudicación directa.
+III. La que se encuentre entre las 96,292.9553 y las 1,203.5691 UMAS, se hará en licitación simplificada; y
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. La inferior a las 1,203.5691 UMAS, se hará en adjudicación directa.
 
 Los montos señalados se considerarán sin tomar en cuenta los impuestos que causen las contrataciones.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 28.
 
-Las instituciones podrán celebrar contratos abiertos respecto de bienes o servicios recurrentes, debiendo establecer, de acuerdo a su presupuesto, los mínimos y máximos a contratar, determinando la fecha de pago, que no podrá exceder de treinta días naturales siguientes a su entrega.
+Los Entes Públicos podrán celebrar contratos abiertos respecto de bienes o servicios recurrentes, debiendo establecer, de acuerdo a su presupuesto, los mínimos y máximos a contratar, determinando la fecha de pago, que no podrá exceder de treinta días naturales siguientes a su entrega.
 
-### CAPÍTULO III. Convocatorias y Bases
+### CAPÍTULO II. Licitación Pública
 
 ###### Artículo 29.
 
@@ -373,9 +537,29 @@ II. Nacionales: en las que participen únicamente personas físicas o morales de
 
 III. Internacionales: cuando en ellas participen personas físicas o morales de cualquier nacionalidad y de los bienes que se pretenden adquirir sean de origen nacional o extranjero.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 29 Bis.
+
+En las licitaciones públicas, en aquellos casos que determine el Órgano Interno de Control del ente público, atendiendo al impacto que la contratación tenga en sus programas sustantivos, participarán testigos sociales.
+
+Los testigos sociales tendrán las funciones siguientes:
+
+I. Proponer a los entes públicos mejoras para fortalecer la transparencia, imparcialidad y las disposiciones legales en materia de adquisiciones, arrendamientos y servicios;
+
+II. Dar seguimiento al establecimiento de las acciones que se recomendaron derivadas de su participación en las contrataciones; y
+
+III. Emitir al final de su participación el testimonio correspondiente del cual entregarán un ejemplar al Órgano Interno de Control del ente público. Dicho testimonio deberá ser publicado dentro de los diez días naturales siguientes a su participación en la página de Internet del ente público.
+
+En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio al área de quejas del Órgano Interno de Control del Ente Público y/o al Órgano de Fiscalización Superior del Estado.
+
+Se podrá exceptuar la participación de los testigos sociales en aquéllos casos en que los procedimientos de contrataciones contengan información clasificada como reservada que pongan en riesgo la seguridad pública, en los términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 30.
 
-Sólo se efectuarán licitaciones de carácter internacional, cuando resulte obligatorio conforme a lo establecido en los Tratados Internacionales o que, previa investigación de mercado realizada por la Institución, se declare que no existe oferta en cantidad y calidad aceptables de proveedores nacionales; o cuando el precio sea menor, en igual o superior condición de calidad de los bienes.
+Sólo se efectuarán licitaciones de carácter internacional, cuando resulte obligatorio conforme a lo establecido en los Tratados Internacionales o que, previa investigación de mercado realizada por el Ente Público, se declare que no existe oferta en cantidad y calidad aceptables de proveedores nacionales; o cuando el precio sea menor, en igual o superior condición de calidad de los bienes.
 
 Podrá negarse la participación a extranjeros en licitaciones internacionales, cuando con el país de su domicilio fiscal no se tenga celebrado un tratado y ese país no conceda un trato recíproco a los licitantes, proveedores, bienes o servicios mexicanos.
 
@@ -415,11 +599,13 @@ IV. Emisión del dictamen técnico económico: en un término de hasta veinte d�
 
 V. Notificación del fallo: en un plazo de hasta cinco días hábiles a partir de la emisión del dictamen técnico económico.
 
-### CAPÍTULO IV. Presentación y Apertura de las Proposiciones
+### CAPÍTULO III. Convocatorias y Bases
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 36.
 
-Las unidades administrativas publicarán la convocatoria en la Gaceta Oficial del estado y en uno de los diarios de mayor circulación estatal, así como en los medios electrónicos que tengan establecidos las instituciones.
+Las unidades administrativas publicarán la convocatoria en la Gaceta Oficial del Estado y en uno de los diarios de mayor circulación estatal, así como en los medios electrónicos que tengan establecidos los Entes Públicos.
 
 Los Ayuntamientos realizarán la publicación a la que este artículo se refiere en su Tabla de Avisos y en un periódico de circulación local o regional.
 
@@ -429,7 +615,9 @@ El costo de las bases se fijará en razón de la recuperación de las erogacione
 
 Las convocatorias contendrán:
 
-I. Nombre de la Institución convocante y de la unidad administrativa responsable de la licitación;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+I. Nombre del Ente Público convocante y de la Unidad Administrativa responsable de la licitación;
 
 II. Número de licitación y origen de los recursos;
 
@@ -449,9 +637,11 @@ IX. Porcentajes de anticipos que en su caso se vayan a otorgar; y
 
 X. Los demás datos que sean necesarios a criterio de la convocante.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 38.
 
-Si conforme a las características especiales de la licitación no existen en el país los bienes o servicios a contratar y la Institución tiene conocimiento que existen en el extranjero proveedores específicos, se les invitará a participar en la misma enviándoles copia de la convocatoria a través de sus representaciones diplomáticas acreditadas en el país o por cualquier otro medio.
+Si conforme a las características especiales de la licitación no existen en el país los bienes o servicios a contratar y el Ente Público tiene conocimiento que existen en el extranjero proveedores específicos, se les invitará a participar en la misma enviándoles copia de la convocatoria a través de sus representaciones diplomáticas acreditadas en el país o por cualquier otro medio.
 
 ###### Artículo 39.
 
@@ -487,7 +677,9 @@ XIV. Moneda en que se efectuará el pago respectivo; en caso de ser extranjera, 
 
 XV. Forma y porcentaje para garantizar los anticipos y el cumplimiento del contrato;
 
-XVI. Nombre de la institución a favor de quien se facturarán los bienes o servicios;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVI. Nombre del Ente Público a favor de quien se facturarán los bienes o servicios;
 
 XVII. En su caso, la designación de la comisión de servidores públicos encargada del procedimiento de licitación;
 
@@ -507,11 +699,13 @@ La Junta de aclaraciones tendrá por objeto esclarecer aquellos aspectos de la c
 
 Cualquier modificación a las bases de la licitación, derivada de la junta de aclaraciones, será considerada como parte de aquéllas.
 
-### CAPÍTULO V. Declaración de Desierto, Fallo y Excepciones a la Licitación Pública
+### CAPÍTULO IV. Presentación y Apertura de las Proposiciones
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 41.
 
-Los proveedores que cumplan con lo establecido en la convocatoria y las bases de licitación podrán presentar a la institución sus proposiciones técnicas y económicas.
+Los proveedores que cumplan con lo establecido en la convocatoria y las bases de licitación podrán presentar al Ente Público sus proposiciones técnicas y económicas.
 
 ###### Artículo 42.
 
@@ -541,27 +735,41 @@ VI. Se procederá al cierre del acta, que firmarán los intervenientes (sic), ju
 
 VII. Terminado el procedimiento anterior, se turnará el expediente al área que corresponda, para la emisión del dictamen técnico respectivo; emitido éste, la comisión de licitación o mesa de trabajo procederá a formular el dictamen técnico económico.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 44.
 
-La institución notificará el fallo a los licitantes, por escrito y con acuse de recibo, a través de correo certificado o cualquier medio electrónico, en los términos del Código de Procedimientos Administrativos.
+El Ente Público notificará el fallo a los licitantes, por escrito y con acuse de recibo, a través de correo certificado o cualquier medio electrónico, en los términos del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
-(REFORMADO PRIMER PARRAFO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 45.
 
-Las instituciones no podrán recibir proposiciones o celebrar contratación alguna, con las personas físicas o morales que se mencionan:
+Los Entes Públicos no podrán recibir propuestas o celebrar contratación alguna, con las personas físicas o morales que se mencionan:
 
-I. Aquellas con las que cualquier servidor público en cargos de dirección, mandos medios o superiores de la propia institución, tenga relación familiar o de negocios, incluyendo aquellas de cuya contratación pueda resultar algún beneficio económico para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles hasta el segundo, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o bien para socios, sociedades o asociaciones de las que el servidor público o las personas antes enunciadas, formen o hayan formado parte, cuando menos dos años antes de que aquél haya ocupado el cargo;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Los servidores públicos ajenos a la dirección o el mando en la institución, pero que desempeñen un empleo, cargo o comisión en la misma, o de las personas morales de las que éstos formen parte, a menos que se solicite previamente la autorización expresa al órgano de control interno, el cual podrá pedir la opinión del subcomité;
+I. Aquellas con las que cualquier servidor público en cargos de dirección, mandos medios o superiores del propio Ente Público, tenga relación familiar o de negocios, incluyendo aquellas de cuya contratación pueda resultar algún beneficio económico para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles hasta el segundo, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o bien para socios, sociedades o asociaciones de las que el servidor público o las personas antes enunciadas, formen o hayan formado parte, cuando menos dos años antes de que aquél haya ocupado el cargo;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+II. Los servidores públicos ajenos a la dirección o el mando en el Ente Público, pero que desempeñen un empleo, cargo o comisión en la misma, o de las personas morales de las que éstos formen parte, a menos que se solicite previamente la autorización expresa al Órgano Interno de Control, el cual podrá pedir la opinión del subcomité;
 
 III. Aquellas personas inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
-IV. Aquellos proveedores a los que, por causas imputables a ellos, la institución convocante les hubiera rescindido administrativamente un contrato en más de una ocasión, dentro de un lapso de dos años calendario, contados a partir de la primera rescisión. Dicho impedimento prevalecerá ante la propia Institución convocante durante dos años calendario, contados a partir de la fecha de rescisión del segundo contrato;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V. Los proveedores que se encuentren en el supuesto de la fracción anterior respecto de dos o más instituciones, durante un año calendario;
+IV. Aquellos proveedores a los que, por causas imputables a ellos, el Ente Público convocante les hubiera rescindido administrativamente un contrato en más de una ocasión, dentro de un lapso de dos años calendario, contados a partir de la primera rescisión. Dicho impedimento prevalecerá ante el propio convocante durante dos años calendario, contados a partir de la fecha de rescisión del segundo contrato;
 
-VI. Las que hubieren incumplido sus obligaciones contractuales respecto de las materias de esta Ley, por causas imputables a ellas y que hayan ocasionado daños o perjuicios a una institución;
+Los proveedores que se encuentren en el supuesto de la fracción anterior respecto de dos o más Entes Públicos, durante un año calendario;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Las que hubieren incumplido sus obligaciones contractuales respecto de las materias de esta Ley, por causas imputables a ellas y que hayan ocasionado daños o perjuicios a un Ente Público;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI. Los proveedores o licitantes cuya actividad mercantil o de negocios, de conformidad con su objeto social registrado y autorizado, no corresponda o no tenga relación con los bienes o servicios solicitados por el Ente Público;
 
 VII. Los proveedores o licitantes cuya actividad mercantil o de negocios, de conformidad con su objeto social registrado y autorizado, no corresponda o no tenga relación con los bienes o servicios solicitados por la institución;
 
@@ -569,7 +777,9 @@ VIII. Las que hubieren proporcionado información falsa, o que hayan actuado con
 
 IX. Las que hayan celebrado contratos en contravención a lo dispuesto por esta Ley;
 
-X. Los proveedores que se encuentren en mora respecto de la entrega de bienes o servicios por causas imputables a ellos;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+X. Las que por sí o a través de empresas del mismo grupo, elaboren dictámenes, peritajes y avalúos, cuando se requiera dirimir controversias entre tales personas y el Ente Público;
 
 XI. Aquellas a las que se haya declarado en suspensión de pagos o estado de quiebra, o que estén sujetas a concurso de acreedores;
 
@@ -577,15 +787,25 @@ XII. Las que por sí o a través de empresas del mismo grupo, elaboren dictámen
 
 XIII. Las demás que por cualquier causa se encuentren impedidas por disposición de la ley.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 45 Bis.
+
+Las dependencias y entidades podrán utilizar el abastecimiento simultáneo a efecto de distribuir entre dos o más proveedores las partidas de bienes o servicios, cuando así lo hayan establecido en la convocatoria a la licitación, siempre que con ello no restrinjan la libre participación.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 46.
 
-Queda prohibido a los licitantes concertar posturas entre si. Los órganos de control interno de las instituciones vigilarán el cumplimiento de las disposiciones de la Ley Federal de Competencia Económica y pondrán en conocimiento de la Comisión Federal de Competencia toda posible irregularidad; vigilarán, asimismo, la Ley Federal de Metrología y Normalización, específicamente en lo relativo a normas oficiales mexicanas o normas mexicanas.
+Queda prohibido a los licitantes concertar posturas. Los Órganos Internos de Control de los Entes Públicos vigilarán el cumplimiento de las disposiciones de la Ley Federal de Competencia Económica y pondrán en conocimiento de la Comisión Federal de Competencia toda posible irregularidad; vigilarán, asimismo, la Ley Federal de Metrología y Normalización, específicamente en lo relativo a normas oficiales mexicanas o normas mexicanas.
 
-### CAPÍTULO VI. Licitación Simplificada y Adjudicación Directa
+### CAPÍTULO V. Declaración de Desierto, Fallo y Excepciones a la Licitación Pública
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 47.
 
-La institución, a través de la unidad administrativa, podrá declarar desierto el procedimiento de contratación, cuando:
+El Ente Público, a través de la Unidad Administrativa, podrá declarar desierto el procedimiento de contratación, cuando:
 
 I. No haya licitantes;
 
@@ -633,13 +853,17 @@ Si la segunda convocatoria se declara desierta, se procederá a la adjudicación
 
 En caso de que una licitación sea declarada parcialmente desierta, respecto a una o varias partidas no adjudicadas, se estará a los montos establecidos en esta Ley.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 54.
 
-Cuando por razones de seguridad de las instituciones, no sea conveniente proceder a una licitación pública, se podrá optar por la licitación simplificada o incluso por la adjudicación directa, siempre y cuando lo solicite la unidad administrativa de manera fundada y razonada al subcomité y éste lo autorice.
+Cuando por razones de seguridad de los Entes Públicos no sea conveniente proceder a una licitación pública, se podrá optar por la licitación simplificada o incluso por la adjudicación directa, siempre y cuando lo solicite la Unidad Administrativa de manera fundada y razonada al Subcomité y éste lo autorice.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 55.
 
-Las instituciones podrán celebrar contrataciones, a través de adjudicación directa, previa autorización del subcomité y sin necesidad de efectuar el procedimiento establecido en el artículo 35 de esta Ley, siempre que el área usuaria emita un dictamen de procedencia, que funde y motive esta determinación, cuando:
+Los Entes Públicos podrán celebrar contrataciones, a través de adjudicación directa, previa autorización del Subcomité y sin necesidad de efectuar el procedimiento establecido en el artículo 35 de esta Ley, siempre que el área usuaria emita un dictamen de procedencia, que funde y motive esta determinación, cuando:
 
 I. Se trate de adquisiciones de bienes perecederos cuya ministración no sea permanente;
 
@@ -669,41 +893,51 @@ XII. Se trate de servicios de consultoría;
 
 XIII. Se trate de bienes provenientes de personas, que por encontrarse en estado de liquidación o disolución, o bien bajo intervención judicial, ofrezcan condiciones excepcionalmente favorables; y
 
-XIV. Las instituciones se adhieran a un proceso de licitación celebrado por otra.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIV. Los Entes Públicos se adhieran a un proceso de licitación celebrado por otra.
+
+### CAPÍTULO VI. Licitación Simplificada y Adjudicación Directa
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 56.
+
+Para proceder a una licitación simplificada, el Ente Público invitará cuando menos a tres de sus proveedores registrados, a quienes les hará llegar la información a que se refiere el artículo siguiente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 57.
+
+La invitación que por escrito haga llegar el Ente Público a los proveedores contendrá las bases que especificarán, como mínimo, los datos de la convocante, la cantidad, descripción de los bienes o servicios requeridos mediante un anexo técnico, de ser necesario, plazo, lugar de entrega, condiciones de pago, sanción en caso de no sostener su proposición, el pedido o contrato, lugar, fecha y hora para el acto de recepción y apertura de proposiciones, fecha para la emisión del fallo que estará sustentado en un dictamen técnico económico que al efecto emita la comisión de licitación.
+
+El fallo de la licitación, si no es posible emitirlo en el acto de recepción y apertura de proposiciones, deberá notificarse por escrito en un plazo máximo de tres días hábiles.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 58.
+
+La licitación simplificada se realizará en una sola etapa, de conformidad con el procedimiento señalado en el artículo 43 de esta Ley con o sin la presencia de los participantes, pero invariablemente se contará con la participación del Órgano Interno de Control. Sólo se admitirá una proposición por participante. En caso de que se presentara sólo una de ellas, la unidad procederá a realizar una investigación de mercado para determinar la conveniencia de adjudicar el contrato al licitante único. Si se declara desierta la licitación simplificada, el Ente Público podrá adjudicarlo directamente.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 59.
+
+Las adjudicaciones directas sólo se realizarán con los proveedores previamente registrados en el padrón de los Entes Públicos.
 
 ### CAPÍTULO VII. Formalización del Contrato
 
 > <small>(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003)</small>
 
-###### Artículo 56.
-
-Para proceder a una licitación simplificada, la institución invitará cuando menos a tres de sus proveedores registrados, a quienes les hará llegar la información a que se refiere el artículo siguiente.
-
-###### Artículo 57.
-
-La invitación que por escrito haga llegar la institución a los proveedores contendrá las bases que especificarán, como mínimo, los datos de la convocante, la cantidad, descripción de los bienes o servicios requeridos mediante un anexo técnico, de ser necesario, plazo, lugar de entrega, condiciones de pago, sanción en caso de no sostener su proposición, el pedido o contrato, lugar, fecha y hora para el acto de recepción y apertura de proposiciones, fecha para la emisión del fallo que estará sustentado en un dictamen técnico económico que al efecto emita la comisión de licitación.
-
-El fallo de la licitación, si no es posible emitirlo en el acto de recepción y apertura de proposiciones, deberá notificarse por escrito en un plazo máximo de tres días hábiles.
-
-(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003) (F. DE E., G.O. 8 DE DICIEMBRE DE 2003)
-
-###### Artículo 58.
-
-La licitación simplificada se realizará en una sola etapa, de conformidad con el procedimiento señalado en el artículo 43 de esta Ley con o sin la presencia de los participantes, pero invariablemente se contará con la participación del órgano de control interno. Sólo se admitirá una proposición por participante. En caso de que se presentara sólo una de ellas, la unidad procederá a realizar una investigación de mercado para determinar la conveniencia de adjudicar el contrato al licitante único. Si se declara desierta la licitación simplificada, la institución podrá adjudicarlo directamente.
-
-###### Artículo 59.
-
-Las adjudicaciones directas sólo se realizarán con los proveedores previamente registrados en el padrón de las instituciones.
-
-### CAPÍTULO I. Infracciones
-
 ###### Artículo 60.
 
 Las adjudicaciones directas por monto previstas en el presupuesto de egresos y en esta Ley se formalizarán mediante pedido; las adjudicaciones que rebasen los montos para la adjudicación directa, derivadas de los supuestos del artículo 55 de la presente Ley y de los procedimientos de licitación, se harán mediante contrato.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 61.
 
-Los contratos que celebren las instituciones contendrán:
+Los contratos que celebren los Entes Públicos contendrán:
 
 I. Antecedentes;
 
@@ -725,9 +959,13 @@ IX. Si el precio está sujeto a modificación, las causas que la originan y la f
 
 X. Cláusula penal por incumplimiento;
 
-XI. Los derechos de autor u otros exclusivos que se constituyan, a favor de la institución;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XII. Nombre de la institución a la que se facturará;
+XI. Los derechos de autor u otros exclusivos que se constituyan, a favor del Ente Público;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XII. Nombre del Ente Público a la que se facturará;
 
 XIII. En su caso, la capacitación del personal;
 
@@ -735,9 +973,11 @@ XIV. Causas de rescisión; y
 
 XV. Su fundamentación legal.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 62.
 
-Las instituciones pactarán pena convencional a cargo del proveedor por atraso en la entrega de los bienes o de la prestación del servicio, la que no excederá del monto de la fianza del cumplimiento del contrato y que será cuantificada en relación a los bienes o servicios no entregados o prestados de manera oportuna.
+Los Entes Públicos pactarán pena convencional a cargo del proveedor por atraso en la entrega de los bienes o de la prestación del servicio, la que no excederá del monto de la fianza del cumplimiento del contrato y que será cuantificada en relación a los bienes o servicios no entregados o prestados de manera oportuna.
 
 ###### Artículo 63.
 
@@ -757,9 +997,11 @@ II. Para el cumplimiento de los contratos, cuando menos el diez por ciento sobre
 
 En las operaciones financiadas con cargo total o parcial a recursos estatales que se efectúen al amparo de esta Ley, las garantías se constituirán a favor del Gobierno del Estado de Veracruz de Ignacio de la Llave; las operaciones que los Ayuntamientos efectúen con cargo exclusivo a los recursos que manejen como propios, deberán constituirse a favor de la Tesorería Municipal correspondiente.
 
+(REFORMNADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)
+
 ###### Artículo 65.
 
-Las instituciones podrán pactar con sus proveedores la ampliación mediante adendum de los contratos formalizados, sean éstos de bienes o servicios, siempre y cuando ésta no represente más del veinte por ciento del monto total de la partida que se amplíe y que el proveedor sostenga en la ampliación el precio pactado originalmente.
+Los Entes Públicos podrán pactar con sus proveedores la ampliación de los contratos mediante el adendum correspondiente, siempre y cuando no represente más del veinte por ciento del monto total de la partida presupuestal que se amplié y que el proveedor sostenga en la ampliación el precio pactado originalmente.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 25 DE NOVIEMBRE DE 2003)</small>
 
@@ -773,11 +1015,13 @@ Las ampliaciones se harán dentro de los seis meses posteriores a la firma del c
 
 Para la investigación de mercado, mejoramiento de sistemas, de arrendamiento, servicios generales, almacenamiento, precios, control de calidad y otros análogos, las unidades administrativas podrán contratar servicios de consultoría.
 
-El resultado de tal consultoría estará a disposición de las demás instituciones.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+El resultado de tal consultoría estará a disposición de los demás Entes Públicos.
 
 ## TÍTULO QUINTO
 
-### CAPÍTULO II. Sanciones
+### CAPÍTULO I. Infracciones
 
 ###### Artículo 67.
 
@@ -785,35 +1029,47 @@ Las contrataciones realizadas fuera de los procedimientos aquí previstos, será
 
 También incurrirá en responsabilidad, quien autorice o efectúe operaciones parciales con el fin de no celebrar una licitación pública.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 68.
 
-Los subcomités no autorizarán condiciones desfavorables para el patrimonio de la institución, tal como autorizar modificaciones a los precios, anticipos o pagos predeterminados.
+Los subcomités no autorizarán condiciones desfavorables para el patrimonio del Ente Público, tal como autorizar modificaciones a los precios, anticipos o pagos predeterminados.
 
 ###### Artículo 69.
 
 Las infracciones cometidas por los servidores públicos que intervengan en los procedimientos previstos en la presente Ley, serán sancionadas por la autoridad competente y de conformidad con el procedimiento legalmente establecido.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 70.
 
-Incurrirá en responsabilidad el servidor público que no comunique a su superior las infracciones que, de la presente Ley, tenga conocimiento.
+Incurrirá en responsabilidad el servidor público que no comunique a su superior jerárquico las infracciones a la presente Ley, de las cuales tenga conocimiento, y podrá ser sancionado de conformidad con la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 71.
 
-Serán sancionados conforme a lo dispuesto por esta Ley los licitantes o proveedores que la infrinjan.
+Serán sancionados conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave, los licitantes o proveedores que infrinjan la presente Ley.
 
 ###### Artículo 72.
 
 Los proveedores y licitantes, se conducirán de conformidad con la buena fe y prudencia debida. Son infracciones:
 
-I. Proporcionar a la institución información falsa o documentación alterada;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+I. Proporcionar al Ente Público información falsa o documentación alterada;
 
 II. Incumplir con los términos del contrato;
 
-III. Lesionar el interés público o la economía de las instituciones;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. Lesionar el interés público o la economía de los Entes Públicos;
 
 IV. Declararse en quiebra una vez formalizado el contrato;
 
-V. Realizar prácticas desleales para con la institución o demás licitantes;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Realizar prácticas desleales para con el Ente Público o demás licitantes;
 
 VI. Injustificadamente y por causas que les sean imputables, no formalicen el contrato adjudicado por los convocantes;
 
@@ -821,27 +1077,33 @@ VII. No sostener sus proposiciones técnicas y económicas presentadas en la lic
 
 VIII. Las demás previstas por esta Ley o en otros ordenamientos aplicables.
 
-### CAPÍTULO I. Rescisión Administrativa de los Contratos
+### CAPÍTULO II. Sanciones
 
 ###### Artículo 73.
 
 A los proveedores o licitantes que infrinjan esta Ley se les aplicarán las sanciones siguientes:
 
-I. Multa de cien a mil días de salario mínimo general diario, vigente en la capital del Estado, en la fecha en que se cometa la infracción; y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+I. Multa de cien a mil UMAS; y
 
 II. Prohibición para participar en los procesos de licitación durante dos años.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 74.
 
-Al proveedor que, en forma reiterada, infrinja las disposiciones de esta Ley, se le cancelará su registro de manera definitiva en el padrón de proveedores, haciéndolo del conocimiento de las demás instituciones.
+Al proveedor que, en forma reiterada, infrinja las disposiciones de esta Ley, se le cancelará su registro de manera definitiva en el padrón de proveedores, haciéndolo del conocimiento de los demás Entes Públicos y debiéndose incorporar dicha información a la Plataforma Digital Nacional en el sistema correspondiente.
 
 ###### Artículo 75.
 
 Las sanciones de prohibición general o cancelación definitiva serán sin perjuicio de las económicas que procedan.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 76.
 
-Para fijar las sanciones a los proveedores o licitantes, la institución, por conducto de su órgano de control interno, aplicará el siguiente procedimiento:
+Para fijar las sanciones a los proveedores o licitantes, el Ente Público, por conducto de su Órgano Interno de Control, aplicará el siguiente procedimiento:
 
 I. Se notificará personalmente en el domicilio que el proveedor tenga registrado, el acuerdo emitido por el órgano de control interno, en el que consten las presuntas conductas ilícitas que se atribuyan al proveedor;
 
@@ -849,7 +1111,9 @@ II. El proveedor tendrá un término de cinco días hábiles para manifestar por
 
 III. Agotado el término señalado anteriormente, previa certificación de ello, se procederá a abrir un período probatorio de tres días hábiles, en el que se desahogarán las pruebas ofrecidas y se presentará el pliego de alegatos;
 
-IV. La audiencia anterior no se diferirá por ningún motivo, excepto por caso fortuito o fuerza mayor a juicio de la institución.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. La audiencia anterior no se diferirá por ningún motivo, excepto por caso fortuito o fuerza mayor a juicio del Ente Público.
 
 De lo actuado se levantará acta circunstanciada, la cual se firmará por lo (sic) intervenientes (sic); de la inasistencia o de la negativa a la firma se asentará razón de ello; y
 
@@ -859,45 +1123,53 @@ V. Hecho lo anterior, el órgano de control interno pronunciará la resolución 
 
 Para aplicar las sanciones, el órgano de control interno evaluará los antecedentes documentales del proveedor, considerando la gravedad de la infracción, los precedentes en la materia y las demás circunstancias que en el caso concurran.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 78.
 
-De no ser cubiertas, en el término de cinco días hábiles siguientes a su requerimiento, las sanciones económicas impuestas, así como los reintegros de anticipos o pagos hechos a los proveedores, una vez fijados en cantidad líquida, se constituirán en créditos fiscales a favor de la Institución agraviada.
+De no ser cubiertas, en el término de cinco días hábiles siguientes a su requerimiento, las sanciones económicas impuestas, así como los reintegros de anticipos o pagos hechos a los proveedores, una vez fijados en cantidad líquida, se constituirán en créditos fiscales a favor del Ente Público agraviado.
 
 ## TÍTULO SEXTO
 
-### CAPÍTULO II. Recurso de Revocación
+### CAPÍTULO I. Rescisión Administrativa de los Contratos
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 79.
 
-Para que la institución ejerza la rescisión administrativa, deberá agotar previamente el siguiente procedimiento:
+Para que el Ente Público ejerza la rescisión administrativa, deberá agotar previamente el siguiente procedimiento:
 
 I. Se notificará personalmente en el domicilio del proveedor señalado en el contrato, el inicio del procedimiento; a la cédula de notificación se agregará un acuerdo que contenga los conceptos de incumplimiento;
 
 II. El proveedor expondrá por escrito lo que a su derecho convenga aportando las pruebas que estime pertinentes dentro del término de cinco días naturales contados a partir de la notificación;
 
-III. La institución, a través de su unidad jurídica o su equivalente, una vez transcurrido el término señalado, valorando las pruebas ofrecidas en su caso y los argumentos que juzgue necesarios, resolverá lo conducente; y
+REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)
+
+III. El Ente Público, a través de su unidad jurídica o su equivalente, una vez transcurrido el término señalado, valorando las pruebas ofrecidas en su caso y los argumentos que juzgue necesarios, resolverá lo conducente; y
 
 IV. La resolución se notificará por escrito al proveedor dentro de los tres días hábiles siguientes, por cualquier medio que permita dejar constancia de la misma.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 80.
 
-En tratándose de incumplimiento del contrato, la institución podrá optar por demandar su cumplimiento o la rescisión y el resarcimiento de daños y perjuicios.
+En tratándose de incumplimiento del contrato, el Ente Público podrá optar por demandar su cumplimiento o la rescisión y el resarcimiento de daños y perjuicios.
 
 ###### Artículo 81.
 
 Cuando proceda la rescisión, se harán efectivas las garantías o fianzas otorgadas y se exigirá el reintegro de los anticipos o pagos efectuados.
 
-### CAPÍTULO ÚNICO. Almacenes y Control de Inventarios
+### CAPÍTULO II. Recurso de Revocación
 
 ###### Artículo 82.
 
 Los actos o resoluciones definitivos dictados dentro del procedimiento de contratación podrán ser impugnados por el proveedor agraviado.
 
-> <small>(REFORMADO PRIMER PARRAFO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 83.
 
-El recurso de revocación se sustanciará conforme a lo establecido en el Código de Procedimientos Administrativos para el estado de Veracruz de Ignacio de la Llave, con las modificaciones siguientes:
+El recurso de revocación se sustanciará conforme a lo establecido en el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave, con las modificaciones siguientes:
 
 I. El órgano de control interno será el competente para conocer de este medio de impugnación;
 
@@ -909,25 +1181,29 @@ IV. Se admitirán toda clase de pruebas, excepto la confesional y aquellas que a
 
 V. El órgano de control interno resolverá en un término de cinco días hábiles siguientes a la fecha de interposición del recurso.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 84.
 
-La resolución del recurso de revocación podrá ser impugnada ante el Tribunal de lo Contencioso Administrativo del Estado.
+La resolución del recurso de revocación podrá ser impugnada ante el Tribunal Estatal de Justicia Administrativa.
 
 ## TÍTULO SÉPTIMO
 
-### CAPÍTULO ÚNICO. Procedimiento de Enajenación y Baja de Bienes Muebles
+### CAPÍTULO ÚNICO. Almacenes y Control de Inventarios
 
-> <small>(REFORMADO, G.O. 25 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 85.
 
-Los bienes muebles que se adquieran y que por su naturaleza y costo deban constituir activo fijo de la institución, serán objeto de registro en inventario y contabilidad.
+Los bienes muebles que se adquieran y que por su naturaleza y costo deban constituir el activo fijo del Ente Público, serán objeto de registro en inventario y contabilidad.
 
-Las instituciones determinarán los bienes muebles que deban ser asegurados.
+Los Entes Públicos determinarán los bienes muebles que deban ser asegurados.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 86.
 
-Las instituciones expedirán manuales de procedimientos para el control de sus bienes muebles y manejo de almacenes y, a efecto de mantener actualizados los inventarios y resguardos, los revisarán físicamente, cuando menos cada seis meses.
+Los Entes Públicos expedirán manuales de procedimientos para el control de sus bienes muebles y manejo de almacenes y, a efecto de mantener actualizados los inventarios y resguardos, los revisarán físicamente, cuando menos cada seis meses.
 
 ###### Artículo 87.
 
@@ -955,17 +1231,23 @@ II. El resguardo, que tiene por objeto controlar la asignación de los bienes mu
 
 III. El registro total para los bienes de consumo.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 89.
 
-La clasificación de los bienes muebles se hará en el catálogo correspondiente que establezca la institución. Ningún bien mueble se entregará a un servidor público, sin que antes haya pasado por el control del almacén y éste haya firmado el resguardo respectivo.
+La clasificación de los bienes muebles se hará en el catálogo correspondiente que establezca el Ente Público.
+
+Ningún bien mueble se entregará a servidor público alguno, previo paso por el control del almacén y éste haya firmado el resguardo respectivo.
 
 ###### Artículo 90.
 
 Los bienes muebles adquiridos o producidos para su comercialización, así como aquellos que sean sometidos a procesos productivos, estarán sujetos a registro de entrada y salida en almacén y a verificación física, con la periodicidad que permita su mejor control.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 91.
 
-Si los bienes carecen de los documentos que acrediten su legítima propiedad, el titular de la unidad administrativa, cuando proceda, tramitará su reposición en los términos establecidos por las disposiciones legales correspondientes, o elaborará acta administrativa para hacer constar que pertenecen a la institución y que figuran en sus inventarios.
+Si los bienes carecen de la documentación que acrediten su legítima propiedad, el titular de la Unidad Administrativa, cuando proceda, tramitará su reposición en los términos establecidos por las disposiciones legales aplicables, o elaborará el acta administrativa correspondiente a fin de hacer constar que pertenecen al Ente Público y que figuran en sus inventarios.
 
 ###### Artículo 92.
 
@@ -993,17 +1275,23 @@ Cuando los bienes estén asegurados, pagarán los gastos directos e indirectos d
 
 ## TÍTULO OCTAVO
 
+### CAPÍTULO ÚNICO. Procedimiento de Enajenación y Baja de Bienes Muebles
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 94.
 
-Las instituciones dispondrán de sus bienes muebles inventariados; cuando proceda su enajenación se contará previamente con la autorización del Congreso del Estado o de la Diputación Permanente.
+Los Entes Públicos dispondrán de sus bienes muebles inventariados; cuando proceda su enajenación se contará previamente con la autorización del Congreso del Estado o de la Diputación Permanente en los términos de la legislación aplicable.
 
 ###### Artículo 95.
 
 Los bienes muebles de las instituciones que se encuentren inventariados podrán darse de baja mediante aprobación del subcomité y previo dictamen técnico sobre el estado material de los mismos.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 96.
 
-La enajenación onerosa de bienes muebles cuyo valor exceda el equivalente de quinientos días de salario mínimo general vigente en la capital del Estado, se hará mediante el procedimiento de subasta pública o restringida.
+La enajenación onerosa de bienes muebles cuyo valor exceda el equivalente de quinientas UMAS, se hará mediante el procedimiento de subasta pública o restringida.
 
 ###### Artículo 97.
 
@@ -1023,17 +1311,25 @@ II. La unidad administrativa seguirá el orden progresivo de la relación de los
 
 III. A quien haya formulado la postura más alta se le adjudicará el bien subastado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 100.
 
-Las instituciones, a través de su subcomité, podrán restringir la subasta, en los casos siguientes:
+Los Entes Públicos, a través de su Subcomité, podrán restringir la subasta, en los casos siguientes:
 
 I. Que en la subasta pública, los bienes no hayan sido adjudicados por falta de posturas;
 
-II. El monto de los bienes no exceda del equivalente a quinientos días de salario mínimo general vigente en la capital del Estado;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-III. Que la enajenación se realice con municipios, instituciones de beneficencia, educativas y culturales, a quienes proporcionen servicios sociales y asistenciales; a las comunidades agrarias, o entidades paraestatales que los requieran para el cumplimiento de sus propios fines; y
+II. El monto de los bienes no exceda del equivalente a quinientas UMAS;
 
-IV. Cuando se celebre con personal al servicio de la institución convocante.
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. Que la enajenación se realice con municipios, Entes públicos de beneficencia educativa y cultural, a quienes proporcionen servicios sociales y asistenciales, a las comunidades agrarias o entidades paraestatales que los requieran para el cumplimiento de sus propios fines; y
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Cuando se celebre con personal al servicio del Ente Público convocante.
 
 ###### Artículo 101.
 
@@ -1043,13 +1339,17 @@ Los avalúos, tendrán una vigencia de ciento ochenta días naturales, contados 
 
 En el caso de que los bienes subastados no se adjudiquen, la unidad administrativa realizará un análisis de costo-beneficio, con la finalidad de reducir el precio base de venta hasta en un veinte por ciento, previa autorización del subcomité, y convocará a una nueva subasta.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 103.
 
-Realizada la nueva subasta, si la venta no se efectúa, los bienes serán donados a alguna institución de beneficencia, educativa, cultural, núcleos agrarios o entre las mismas instituciones, siempre que sus directivos no tengan relación familiar o de negocios con funcionarios de mandos medios y superiores, de conformidad con lo dispuesto por la fracción I del artículo 45 de esta Ley.
+Realizada la nueva subasta, si la venta no se efectúa, los bienes serán donados a alguna institución de beneficencia, educativa, cultural, núcleos agrarios o entre los mismos Entes Públicos, siempre que sus directivos no tengan relación familiar o de negocios con funcionarios de mandos medios y superiores, de conformidad con lo dispuesto por el artículo 45 fracción I del (sic) de esta Ley.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 104.
 
-Las Instituciones podrán donar a asociaciones civiles, de beneficencia pública o privada, educativas, culturales, núcleos agrarios o entre las mismas instituciones los bienes dados de baja, siempre y cuando su valor no exceda el equivalente a cinco mil días de salario mínimo general vigente en la capital del Estado.
+Los Entes Públicos podrán donar a asociaciones civiles, de beneficencia pública o privada, educativas, culturales, núcleos agrarios o entre los mismos Entes Públicos los bienes dados de baja, siempre y cuando su valor no exceda el equivalente a cinco mil UMAS.
 
 ###### Artículo 105.
 
@@ -1059,17 +1359,21 @@ La baja o enajenación de los bienes deberá contabilizarse y registrarse en los
 
 Cuando los bienes se hubieren extraviado o robado y medie denuncia penal o acta administrativa, según corresponda, se procederá a su baja provisional, transcurridos cinco años sin que sean recuperados se procederá a su baja definitiva.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 107.
 
-Cuando las instituciones tengan el dictamen de que sus bienes han perdido parcial o totalmente su funcionalidad, se procederá a su enajenación o baja conforme a lo dispuesto en esta Ley.
+Cuando los Entes Públicos tengan el dictamen de que sus bienes han perdido parcial o totalmente su funcionalidad, se procederá a su enajenación o baja conforme a lo dispuesto en esta Ley.
 
 ###### Artículo 108.
 
 Si alguna de las partes del bien dado de baja es aprovechable, se le asignará el lugar en que se utilizará, elaborando su registro; de no ser así, ingresará al almacén.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 109.
 
-Las instituciones podrán destruir los bienes muebles de su propiedad, cuando:
+Los Entes Públicos podrán destruir los bienes muebles de su propiedad, cuando:
 
 I. Por su naturaleza o estado físico, peligre o altere la salubridad, la seguridad o el medio ambiente;
 
@@ -1077,13 +1381,17 @@ II. Se agoten los procedimientos para su enajenación o donación de acuerdo a l
 
 III. Por disposición legal se ordene su destrucción.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 110.
 
-Los bienes adquiridos o producidos por las instituciones, destinados a programas que contemplen su comercialización o donación no requieren de la autorización del Congreso del Estado.
+Los bienes adquiridos o producidos por los Entes Públicos, destinados a programas que contemplen su comercialización o donación no requerirán de la autorización del Congreso del Estado.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 111.
 
-Las instituciones conservarán su documentación en forma ordenada que compruebe sus operaciones en los términos de esta Ley.
+Los Entes Públicos conservarán su documentación en forma ordenada, de forma tal que compruebe sus operaciones en los términos de esta Ley.
 
 ## TRANSITORIOS
 
@@ -1166,3 +1474,17 @@ G.O. 17 DE FEBRERO DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 378 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Tercero. Todos los procedimientos iniciados por probables responsabilidades administrativas de los servidores públicos o particulares, antes de la entrada en vigor de la normatividad en combate a la corrupción, continuarán su trámite y resolución de conformidad con la legislación vigente al momento de su inicio.
+
+Cuarto. Los Órganos Internos de Control contarán con un plazo de sesenta días hábiles, contado a partir de la entrada en vigor del presente Decreto, para que expidan la normatividad que regulará la figura de los testigos sociales, establecida en el artículo 29 Bis, de la presente Ley.
+
+Quinto. Se derogan todas las disposiciones que se opongan al presente Decreto.
