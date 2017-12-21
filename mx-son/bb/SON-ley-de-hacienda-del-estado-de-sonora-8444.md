@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2017-08-03"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,11 @@ state: "SON"
 ---
 # LEY DE HACIENDA DEL ESTADO DE SONORA
 
-[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2. DE ACUERDO AL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 106, PUBLICADO EN EL B.O. DE 26 DE DICIEMBRE DE 2016, CUANDO SE SEÑALE EN EL CÓDIGO FISCAL DEL ESTADO Y LEY DE HACIENDA DEL ESTADO, LA MENCIÓN DE SALARIOS MÍNIMOS EN EL ÁREA GEOGRÁFICA "B", DEBERÁ ENTENDERSE COMO LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, EN VIRTUD DEL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN CON FECHA 22 DE DICIEMBRE DE 2015, CON VIGENCIA PARA LOS ARTÍCULOS 19 Y 23 DEL CITADO REGLAMENTO, UNA VEZ QUE ESTÉ VIGENTE EL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, DECRETO QUE FUE PUBLICADO EN EL MISMO ÓRGANO DE DIFUSIÓN CON FECHA 27 DE ENERO DE 2016, VIGENTE EL DÍA SIGUIENTE AL DE SU CITADA PUBLICACIÓN Y POR ÚLTIMO CON RELACIÓN A LA PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 28 DE ENERO DE 2016, EN EL QUE SE DETERMINARON EL VALOR DIARIO, MENSUAL Y ANUAL EN EL AÑO 2016.]
-
-[NOTA 3. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -581,6 +577,10 @@ I.- Del 1.4% para los ingresos comprendidos en los artículos 70, excepción de 
 
 II.- De 1.8% para los ingresos a que aluden los artículos 70 en su fracción III inciso k), y 71 en su fracción IV.
 
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III.- Los contribuyentes señalados en el artículo 71 fracción IV de la presente Ley, que les corresponda pagar conforme a cuotas fijas se ajustarán a lo establecido en el artículo 94 del presente ordenamiento.
+
 ###### Artículo 78.
 
 Los municipios de la entidad percibirán el 30% del 1.4% y 1.8%, por los ingresos gravables que se perciban en los mismos, así como de los recargos y multas correspondientes.
@@ -681,11 +681,33 @@ De las Declaraciones y Pago del Impuesto
 
 El pago del impuesto deberá hacerse dentro de los días 1 al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. El impuesto mínimo que deberán pagar los contribuyentes no podrá ser menor de $400.00 mensuales, excepto tratándose de contribuyentes que utilicen un solo vehículo para prestar el servicio público de transporte en sus sistemas de automóvil de alquiler, automóvil de alquiler colectivo, para trabajadores agrícolas y especializado para personas con discapacidad y de la tercera edad, cuyo mínimo a pagar no podrá ser menor a $150.00 mensuales.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 94.
 
-Los contribuyentes con ingresos anuales hasta de $360,000.00, pagarán el impuesto mediante una cuota fija mensual que determinará la Secretaría de Hacienda, en cuyo caso el impuesto se pagará dentro de los primeros veinte días del mes a que corresponda.
+Los contribuyentes señalados en el artículo 71 fracción IV de la presente Ley, que obtengan ingresos anuales hasta por el monto de $360,000.00, pagarán el impuesto mediante la cuota fija mensual que a continuación se señala:
+
+P01 TAXI $100.00
+
+P02 URBANO $320.00
+
+P03 SUB-URBANO $240.00
+
+P04 FORÁNEO $400.00
+
+P05 TURISMO $240.00
+
+P06 AGRICOLA $84.00
+
+P07 ESPECIALIZADO EXENTO
+
+P08 ESCOLAR EXENTO
+
+P09 COLECTIVO $150.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+El impuesto se pagará dentro de los primeros veinte días del mes a que corresponda.
 
 ###### Artículo 95.
 
@@ -1615,17 +1637,17 @@ IV.- Las autoridades federales, estatales o municipales competentes en el Estado
 
 (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 192.
 
 El impuesto deberá pagarse en la oficina recaudadora o en las instituciones autorizadas para tal efecto, del domicilio de cualquiera de los sujetos o del lugar en que se celebró la operación.
 
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 193.
 
 El pago del impuesto se hará dentro de los veinte días siguientes a la operación si consta en documento privado. Si consta en documento público, el pago se hará antes de que el documento sea autorizado por el notario o funcionario correspondiente.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 194.
 
@@ -2047,11 +2069,15 @@ Para efectos de este Impuesto se entiende por valor de la emisión, el monto tot
 
 Cuando el monto de las disminuciones a que se refieren las fracciones anteriores de este artículo sea superior al valor de las actividades correspondientes al mes de que se trate, la diferencia se amortizará en los meses siguientes hasta agotarse.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 212
 
-M BIS 2.- Sobre la base gravable se aplicará la tasa del 6%.
+M BIS 2.- Sobre la base gravable se aplicará la tasa del 12%.
+
+La mitad de los recursos que se obtengan por parte del Estado serán destinados a instituciones de asistencia privada autorizadas por la Secretaría de Hacienda, CONADIC y CLUNI, que operen programas de prevención y rehabilitación de adicciones.
+
+Los recursos serán otorgados de conformidad con los lineamientos que al efecto expida la Secretaría de Hacienda.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -2125,11 +2151,15 @@ La base de este impuesto es el monto total de los pagos realizados en dinero o e
 
 Son sujetos del impuesto quienes realicen los pagos en dinero o en especie por las remuneraciones a que se refiere el artículo 213 de esta Ley.
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 216.
 
-La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones en dinero o en especie, pagadas en un mes o parte de el, será del 2%. Cuando el pago por concepto de remuneraciones en dinero o en especie se realice por contribuyentes dedicados a actividades agrícolas, silvícola, ganaderas o de pesca. La tasa aplicable será del 1%, siempre y cuando los productos no hayan sido objeto de transformación industrial.
+La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones en dinero o en especie, pagadas en un mes o parte de él, será del 2%. Cuando el pago por concepto de remuneraciones en dinero o en especie se realice por contribuyentes dedicados a actividades agrícolas, silvícolas, ganaderas, acuícolas o pesca, la tasa aplicable será del 1%, siempre y cuando los productos no hayan sido objeto de transformación industrial.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Los contribuyentes que realicen las actividades previstas en el párrafo anterior no podrán acumular estímulos o beneficios de esta Ley o de otras Leyes afines.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2157,9 +2187,9 @@ III.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
 
 IV.- Contraprestaciones cubiertas por instituciones y asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como las que lleven a cabo gratuitamente, actividades sociales, deportivas o culturales.
 
-> <small>(REFORMADA, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará de la base de este impuesto, un monto equivalente a una Unidad de Medida y Actualización al domicilio del Contribuyente elevado al mes por cada trabajador hasta un máximo de 5 trabajadores, al cual no se le podrá acumular estímulos o beneficios de otras Leyes afines. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
+V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un máximo de 20 trabajadores, a quienes se les exentará de la base de este impuesto, un monto equivalente a una Unidad de Medida y Actualización elevado al mes por cada trabajador hasta un máximo de 6 trabajadores, al cual no se le podrá acumular estímulos o beneficios de otras Leyes afines. Por el excedente se pagará el impuesto en los términos del Artículo 216 de este Capítulo. Para acogerse a este beneficio se deberá considerar la suma total de empleados contratados en cada una de las sucursales, en caso de que los hubiere.
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -2193,17 +2223,21 @@ XIII.- Pagos que resulten del subsidio para el empleo conforme a la Ley del Impu
 
 XIV.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XIV Bis.- Al patrón que contrate algún trabajador de recién ingreso para ocupar algún puesto de nueva creación, sin que pueda recibir este beneficio alguna entidad o dependencia pública, siendo aplicable únicamente respecto de trabajadores que perciban, diariamente, hasta seis Unidades de Medida y Actualización en el Estado prevaleciente en la zona donde se haya dado la contratación.
+XIV Bis.- Al patrón que contrate algún trabajador de recién ingreso para ocupar algún puesto de nueva creación, sin que pueda recibir este beneficio alguna entidad o dependencia pública, siendo aplicable únicamente respecto de trabajadores que perciban, diariamente, hasta seis veces Unidad de Medida y Actualización general vigente en el Estado prevaleciente en la zona donde se haya dado la contratación.
 
 > <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 2 DE JUNIO DE 2014)</small>
 
 Para los efectos de la presente fracción, se entenderá por trabajador de recién ingreso, la persona que preste sus servicios a su patrón y que cumpla con una o más de las siguientes características:
 
-a) Tener entre 18 y 29 años de edad, que no hayan causado previamente alta ante el Instituto Mexicano del Seguro Social, y que hayan terminado su educación obligatoria, salvo los casos de excepción que apruebe la autoridad correspondiente, en términos de lo dispuesto en el artículo 22 de la Ley Federal del Trabajo; así como también, la autorización de sus padres o tutores a que se refiere el artículo 23 de la misma Ley señalada;
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Ser recién egresado de una universidad, tecnológico, colegio de bachilleres u otro centro de preparación académica que no haya causado previamente alta ante el Instituto Mexicano del Seguro Social;
+a) Tener entre 18 y 29 años de edad, que no hayan causado previamente alta ante el Instituto Mexicano del Seguro Social o cualquier otro instituto de seguridad social legalmente reconocido, y que hayan terminado su educación obligatoria, salvo los casos de excepción que apruebe la autoridad correspondiente, en términos de lo dispuesto en el artículo 22 de la Ley Federal del Trabajo; así como también, la autorización de sus padres o tutores a que se refiere el artículo 23 de la misma Ley señalada;
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b) Ser recién egresado de una universidad, tecnológico, colegio de bachilleres u otro centro de preparación académica y que no haya cotizado previamente ante el Instituto Mexicano del Seguro Social o cualquier otro instituto de seguridad social legalmente reconocido;
 
 c) Contar con 40 años cumplidos, haber estado registrado como trabajador en el Instituto Mexicano del Seguro Social o cualquier otro instituto de seguridad social legalmente reconocido, y acreditar haber perdido su empleo dentro de los seis meses anteriores a su nueva contratación; o
 
@@ -2213,9 +2247,9 @@ d) Tener alguna discapacidad.
 
 XV.- El tiempo extraordinario dentro de los márgenes señalados en la Ley Federal del Trabajo;
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Para que los conceptos mencionados en este articulo, se les excluya del objeto del Impuesto a que se refiere este Capítulo, deberán estar debidamente identificados y registrados en la Contabilidad del Contribuyente.
+Para que los conceptos mencionados en este artículo, se les excluya del objeto del Impuesto a que se refiere este Capítulo, deberán estar desglosados en la declaración mensual del Impuesto Sobre Remuneraciones al Trabajo Personal y debidamente identificados y registrados en la Contabilidad del Contribuyente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE JUNIO DE 2014)</small>
 
@@ -2259,11 +2293,11 @@ El beneficio que se confiere en el presente artículo no otorga a los contribuye
 
 Se otorga un estímulo fiscal a las micros, pequeñas, medianas y grandes empresas establecidas en el Estado que hayan generado empleos en los últimos 12 meses, o que vayan a generar empleo en el ejercicio fiscal de que se trate, equivalente al 13.8% del Impuesto sobre Remuneraciones al Trabajo Personal que se cause, el cual se disminuirá contra el propio impuesto, en la misma declaración del período al que corresponda el pago, en ese sentido los impuestos estatales causados por el pago de este impuesto sobre Remuneración al Trabajo Personal serán determinados una vez aplicando el estímulo.
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Dicho estímulo será aplicable a todas las micros, pequeñas, medianas y grandes empresas del Estado que se encuentren legal y físicamente establecidas en Sonora; y que además hayan incrementado el número de trabajadores en los parámetros establecidos en la siguiente tabla, considerando para ello el incremento en la plantilla laboral, tomando como base los empleados formales registrados ante el Instituto Mexicano del Seguro Social al último día del ejercicio fiscal siguiente:
+Dicho estímulo será aplicable a todas las micros, pequeñas, medianas y grandes empresas del Estado que se encuentren legal y físicamente establecidas en Sonora; y que además hayan incrementado el número de trabajadores en los parámetros establecidos en la siguiente tabla, considerando para ello el incremento en la plantilla laboral, tomando como base los empleados formales registrados ante el Instituto Mexicano del Seguro Social o cualquier otro instituto de seguridad social legalmente reconocido al último día del ejercicio fiscal siguiente:
 
-> <small>N. DE E. VÉASE TABLA EN EL B.O. DE 15 DE DICIEMBRE DE 2014, PÁGINA 7.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL B.O. DE 15 DE DICIEMBRE DE 2014, PÁGINA 7.]</small>
 
 > <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
@@ -2279,9 +2313,9 @@ Las grandes empresas tendrán el beneficio fiscal siempre y cuando demuestren la
 
 O bien que hayan presentado un incremento de por lo menos 5% en remuneraciones al trabajo personal declaradas en el mismo mes del año anterior y su incremento al periodo en declaración.
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Para efectos del presente artículo, se considera como plantilla laboral el número de empleados registrados ante el Instituto Mexicano del Seguro Social.
+Para efectos del presente artículo, se considera como plantilla laboral el número de empleados registrados ante el Instituto Mexicano del Seguro Social o cualquier otro instituto de seguridad social legalmente reconocido.
 
 > <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
@@ -2299,19 +2333,21 @@ Las empresas que no se ubiquen en los supuestos señalados en el presente artíc
 
 El otorgamiento de los beneficios en el pago del impuesto a que se refiere el presente artículo, no exime el pago del impuesto para el sostenimiento de las Universidades de Sonora y de la contribución para el Consejo Estatal de Concertación para la Obra Pública ni las Contribuciones para el Fortalecimiento de la Infraestructura Educativa.
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Los contribuyentes que accedan a los beneficios previstos en este artículo, deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto causado.
+Los contribuyentes que accedan a los beneficios previstos en este artículo, deberán solicitar previamente autorización ante la Secretaría de Hacienda, y renovar su solicitud de forma trimestral.
 
 > <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
 Los beneficios que se confieren en el presente artículo, no serán acumulables con otras reducciones establecidas en las disposiciones fiscales, ni darán lugar a la compensación o devolución alguna, ni serán aplicables en los accesorios en caso de que estos se hubieren causado.
 
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Para que los conceptos mencionados en este artículo, se les excluya del objeto del Impuesto a que se refiere este Capítulo, deberán estar desglosados en la declaración mensual del Impuesto Sobre Remuneraciones al Trabajo Personal y debidamente identificados y registrados en la Contabilidad del Contribuyente.
+
 > <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
 Los presentes beneficios serán otorgados de conformidad con los lineamientos que al efecto expida la Secretaría de Hacienda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -2323,7 +2359,9 @@ La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación
 
 Los contribuyentes beneficiarios al estímulo previsto en este artículo deberán presentar sus declaraciones fiscales de conformidad con las disposiciones vigentes, señalando el monto del impuesto causado y el monto del estímulo a que sean acreedores, mismo que será deducido del impuesto.
 
-El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+El beneficio que se confiere en el presente artículo no otorga a los contribuyentes el derecho de devolución o compensación, ni será aplicable en los accesorios en caso de que estos se hubieren causado.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -2331,39 +2369,37 @@ El beneficio que se confiere en el presente artículo no otorga a los contribuye
 
 Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros veinte días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de quién perciba los pagos cuando quién los efectúa resida fuera del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-Los contribuyentes que tributen en los términos de la Sección II del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, es decir, de los denominados "del Régimen de incorporación fiscal", podrán optar por pagar este impuesto mediante declaración bimestral dentro de los primeros veinte días del bimestre siguiente a aquel en que se causó, debiendo informar de esta opción a la autoridad fiscal.
+Los contribuyentes que tributen en los términos de la Sección II del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, es decir, de los denominados “del Régimen de incorporación fiscal”, podrán optar por pagar este impuesto mediante declaración bimestral dentro de los primeros veinte días del bimestre siguiente a aquel en que se causó, debiendo informar de esta opción a la autoridad fiscal con anticipación.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
 Los contribuyentes dedicados a actividades agrícolas, silvícolas o de pesca, previa autorización de la Secretaría de Hacienda, podrán efectuar el pago del impuesto dentro de los veinte días inmediatos posteriores al término de sus respectivos ciclos productivos tratándose de trabajadores contratados por tiempo determinado, siempre que los productos no hayan sido objeto de transformación industrial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Cuando los contribuyentes realicen el pago del impuesto con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales, de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales o en forma espontánea y en una sola exhibición fuera de los plazos señalados, podrán efectuar el pago del impuesto mediante la presentación de declaraciones periódicas hasta de doce meses, y de anexo que contenga el monto de las remuneraciones pagadas por el contribuyente, el número de empleados, el impuesto causado, el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública, las Contribuciones para el Fortalecimiento de la Infraestructura Educativa y recargos, desglosados en forma mensual, así como las sanciones que correspondan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-Los contribuyentes que en el año de calendario inmediato anterior hayan efectuado pagos mensuales, cuya suma anual no hubiera excedido de $600.00, podrán realizar el pago del impuesto mediante la presentación de una sola declaración anual, a más tardar a los 20 días del mes de febrero, por el importe total del período de 12 meses del año de que se trate. Para ejercer esta opción los contribuyentes deberán presentar previamente un aviso por escrito ante la Secretaría de Hacienda, manifestando que efectuarán su pago en forma anual y que presentarán una declaración complementaria en el mes de enero de cada año subsecuente, en caso de que las remuneraciones realizadas excedan de las declaradas.
+Los contribuyentes que en el año de calendario inmediato anterior hayan efectuado pagos mensuales, siempre y cuando la suma anual del Impuesto pagado no hubiera excedido de $600.00, podrán realizar el pago del impuesto mediante la presentación de una sola declaración anual, a más tardar a los 20 días del mes de febrero, por el importe total del período de 12 meses del año de que se trate. Para ejercer esta opción los contribuyentes deberán presentar previamente un aviso por escrito ante la Secretaría de Hacienda, manifestando que efectuarán su pago en forma anual y que presentarán una declaración complementaria en el mes de enero de cada año subsecuente, en caso de que las remuneraciones realizadas excedan de las declaradas.
 
 ###### Artículo 220.
 
 Son obligaciones a cargo de los sujetos que realizan los pagos gravados por este impuesto:
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda y proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos respectivos, dentro de los 30 días siguientes a aquél en que se realicen las erogaciones por remuneración al trabajo personal.
+I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda y proporcionar la información relacionada con su identidad, CURP las personas físicas, su domicilio, correo electrónico y en su caso, su representación legal y en general sobre su situación fiscal, mediante los avisos respectivos, dentro de los 30 días siguientes a aquél en que se realicen las erogaciones por remuneración al trabajo personal.
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 La Secretaría de Hacienda del Estado de oficio podrá inscribir a los contribuyentes cuando tenga a su disposición información o documentos que acrediten que realiza pagos a que se refiere el artículo 213 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Hacienda podrá enviar invitaciones y avisos a sus contribuyentes sobre sus obligaciones y situación fiscal vía electrónica.
 
 > <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
@@ -2393,17 +2429,15 @@ Tratándose del establecimiento de varias sucursales de una misma empresa, en el
 
 Los contribuyentes que cuenten con varias sucursales en el Estado y que por cuestiones contables deban pagar el impuesto por cada sucursal, deberán obtener autorización por escrito de la Secretaría de Hacienda para tales efectos, a la cual se le denominará Oficina Administrativa. En este caso no podrán ser beneficiarios de lo establecido en la fracción V del artículo 218 de esta Ley.
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV.- Los contribuyentes que dejen de causar este impuesto, presentarán por una sola vez ante la oficina recaudadora que corresponda, la declaración correspondiente sin impuesto a cargo, acompañada por la constancia de baja del trabajador presentada ante el Seguro Social, anotando "0" (cero) en el renglón o renglones de dicha declaración que correspondan a este impuesto. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas;
+IV.- Los contribuyentes que dejen de causar este impuesto, presentarán ante la oficina recaudadora que corresponda, la declaración correspondiente sin impuesto a cargo, acompañada por la constancia de baja del trabajador presentada ante el Seguro Social, anotando “0” (cero) en el renglón o renglones de dicha declaración que correspondan a este impuesto. Cuando el periodo de no causación por alta de trabajadores excede de 6 meses deberá presentar el aviso de disminución o suspensión de obligaciones fiscales.
 
 > <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
 V.- Las personas físicas que tengan registrados varios establecimientos con distintas actividades deberán presentar una sola declaración del impuesto en la oficina recaudadora o institución autorizada al efecto, correspondiente a su domicilio fiscal. En dicha declaración deberán incluirse las erogaciones en forma desglosada de cada uno de los establecimientos;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-VI.- Los contribuyentes que tengan registrados trabajadores que no les resulte impuesto a pagar, presentarán por una sola vez la declaración correspondiente sin impuesto a cargo, anotando "0" (cero) en el renglón o renglones de dicha declaración que correspondan a la base e importe a pagar de este impuesto, debiéndose incluir los importes referentes al cálculo para la determinación del gravamen. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas, debiendo únicamente presentar las correspondientes a los meses de enero y diciembre de los ejercicios fiscales posteriores;
+VI.- (DEROGADA, B.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADA, B.O. 23 DE DICIEMBRE DE 2002)</small>
 
@@ -3417,17 +3451,15 @@ La Secretaría de Hacienda podrá expedir las disposiciones necesarias para el c
 
 En los Capítulos siguientes se señalan los servicios que quedan sujetos al pago de derechos y el importe de los mismos.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-El monto de las cuotas o tarifas de los derechos que este título establece en cantidades determinadas, se actualizará en los meses de enero y julio de cada año, conforme al factor que se obtenga de acuerdo con el siguiente procedimiento:
+El monto de las cuotas o tarifas de los derechos que este título establece en cantidades determinadas, se actualizará en el mes de enero de cada año, conforme al factor que se obtenga de acuerdo con el siguiente procedimiento:
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-El factor aplicable para el mes de enero, será el que resulte de dividir el índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior entre el mes de mayo inmediato anterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes de mayo entre el del mes de noviembre inmediato anterior.
+El factor aplicable será el que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior al de la fecha para el cual se hace el ajuste, entre el citado índice correspondiente al mes de noviembre del segundo año inmediato anterior al de esa fecha; el factor a aplicar a las cuotas o tarifas no podrá exceder del 10% en el ejercicio fiscal que se trate.
 
-> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2007)</small>
-
-Se exceptúa del procedimiento de actualización anterior, a los derechos por servicios por la expedición, cambio de domicilio y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico, los cuales se actualizarán anualmente en el mes de enero, con el factor que se obtenga de dividir el índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior al de la fecha para el cual se hace el ajuste, entre el citado índice correspondiente al mes de noviembre del segundo año inmediato anterior al de esa fecha.
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 28 DE DICIEMBRE DE 1995)</small>
 
@@ -3535,9 +3567,9 @@ de edad. $495,596.00
 
 q).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-r) Fábrica de producto regional típico $3,000.00
+r).- Fabrica y comercialización de producto regional típico. $3,000.00
 
 > <small>(ADICIONADO, B.O. 13 DE NOVIEMBRE DE 2014)</small>
 
@@ -3549,11 +3581,11 @@ Fabricación (Hectolitros)
 
 Hasta 2,000 10,000
 
-2,001 – 4,000 20,000
+2,001 - 4,000 20,000
 
-4001 – 6,000 30,000
+4001 - 6,000 30,000
 
-6001 – 10,000 40,000
+6001 - 10,000 40,000
 
 > <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -3563,13 +3595,19 @@ t).- Restaurante Rural $10,000.00
 
 u).- Hoteles o Moteles Rurales $20,000.00
 
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+v).- Fábricas de producto vitivinícolas y sus derivados $115,000.00
+
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 II.- Por la revalidación:
 
 a).- Fábrica. $45,000.00
 
-b).- Fábrica de producto regional típico. $3,000.00
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b).- Fabrica y comercialización de producto regional típico.$ 3,000.00
 
 c).- Agencia distribuidora. $45,000.00
 
@@ -3633,11 +3671,11 @@ Volumen Anual en Hectolitros Revalidación
 
 Hasta 2,000 10,000
 
-2,001 – 4,000 15,000
+2,001 - 4,000 15,000
 
-4001 – 6,000 20,000
+4001 - 6,000 20,000
 
-6001 – 10,000 25,000
+6001 - 10,000 25,000
 
 > <small>(ADICIONADO, B.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -3723,9 +3761,17 @@ que implique cambio de propietario, cambio de domicilio,
 
 cambio de giro o cambio de nombre comercial. $5, 000.00
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII.- Durante el período correspondiente a los trámites administrativos relacionados con la obtención de la licencia de funcionamiento para la venta y consumo de bebidas con contenido alcohólico, a petición del solicitante y previa evaluación de los motivos que la justifiquen, la Secretaría de Hacienda podrá expedir permisos provisionales, previo pago de los derechos correspondientes, hasta por tres meses, renovable por una sola ocasión por el plazo solicitado inicialmente, sin que su expedición implique la autorización de la licencia definitiva.
+e).- Por la autorización y registro de la documentación que se exhiba
+
+para acreditar el legal uso o aprovechamiento de un tercero de una
+
+licencia de alcoholes distinta al propietario. $1,000.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VII.- Durante el período correspondiente a los trámites administrativos relacionados con la obtención de la licencia de funcionamiento para la venta y consumo de bebidas con contenido alcohólico, a petición del solicitante y previa evaluación de los motivos que la justifiquen, la Secretaría de Hacienda podrá expedir permisos provisionales, previo pago de los derechos correspondientes, hasta por tres meses, renovable por dos ocasiones por el plazo solicitado inicialmente, sin que su expedición implique la autorización de la licencia definitiva.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3765,7 +3811,9 @@ m).- Hotel o motel. $11,297.00
 
 n).- Porteadora. $ 4,549.00
 
-ñ).- Fábrica de producto regional típico. $ 3,740.00
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+ñ) Fábrica y comercialización de producto regional típico. $ 3,740.00
 
 o).- Billar o Boliche. $16,696.00
 
@@ -3808,6 +3856,10 @@ t).- Hoteles o Moteles Rurales $2,083.00
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 Cuando se realice el canje de la licencia correspondiente, no se cobrarán los derechos de revalidación contenida en la fracción II de este artículo.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+El cobro señalado en el inciso n) de la fracción VIII del presente artículo no se cobrará a los productores de Bacanora que cuenten con la denominación de origen.
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
@@ -4027,9 +4079,17 @@ b).- Copia certificada $50.00
 
 Penales, por cada uno. $ 70.00
 
-> <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-10.- Por expedición de constancia de adeudo o no adeudo fiscal y/o no inscripción en el registro estatal de contribuyentes. $50.00
+10.- Expedición de constancia de adeudo o no adeudo fiscal, no inscripción en el Registro Estatal de Contribuyentes o bien de opinión de situación fiscal del contribuyente:
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+a).- Por expedición de constancia de adeudo o no adeudo fiscal y/o no inscripción en el Registro Estatal de Contribuyentes. $90.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b).- Opinión sobre situación fiscal para fines de licitaciones estatales. $150.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -4115,27 +4175,41 @@ servidor público. $176.00
 
 Los derechos por estos servicios, se cobrarán conforme a las siguientes cuotas.
 
-1.- Por expedición de testimonios de escrituras públicas incluida su certificación. Por hoja de los testimonios. $137.00
+1.- Por expedición de testimonios de escrituras públicas incluida su certificación.
 
-2.- Por expedición de documentos integrantes del apéndice (planos, colindancias, etc.), por cada hoja, incluida su certificación. $77.00
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Por hoja de los testimonios. $117.50
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2.- Por expedición de documentos integrantes del apéndice (planos, colindancias, etc.), por cada hoja, incluida su certificación $68.00
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
 3.- Por expedición de copias de escrituras públicas, por cada hoja del libro o apéndice.
 
-a).- Copia simple $17.00
+a).- Copia simple $16.50
 
-b).- Copia certificada. $64.00
+b).- Copia certificada $56.00
 
-4.- Por rendir informe sobre existencia o no de testamento, a la autoridad judicial, por cada autor de la sucesión. $77.00
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-5.- Por autorización de protocolos para uso de los notarios (sellado y certificado) por cada libro. $146.00
+4.- Por rendir informe sobre existencia o no de testamento, a la autoridad judicial, por cada autor de la sucesión: $233.00
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+5.- Por autorización de protocolos para uso de los notarios (sellado y certificado) por cada libro. $350.00
 
 6.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-7.- Por la recepción de cada libro y de cada uno de los apéndices del protocolo notarial para su guarda y custodia, ya sea por antigüedad o por cierre de notaría pública: $77.00
+7.- Por la recepción de cada libro y de cada uno de los apéndices del protocolo notarial para su guarda y custodia, ya sea por antigüedad o por cierre de notaría pública: $200.00
 
-8.- Por certificación de cierre de protocolos enviados por los notarios para tal fin, por cada libro. $137.00
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+8.- Por certificación de cierre de protocolos enviados por los notarios para tal fin, por cada libro. $350.00
 
 9.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
@@ -4143,31 +4217,45 @@ b).- Copia certificada. $64.00
 
 11.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. CON SU INCISO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
 12.- Por la sola búsqueda y localización de información relativa a escrituras públicas y antecedentes notariales y brindar información al interesado sin que esto implique la expedición y cobro del documento correspondiente:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
-
-a).- Por notario y por cada año de búsqueda. $150.00
+a).- Por notario y por cada año de búsqueda $120.00
 
 13.- Por los servicios urgentes a petición del usuario se causará un derecho adicional equivalente al 50% sobre la cantidad fijada para el servicio que se solicita. Se considerarán servicios urgentes cuando se proporcione dentro de las veinticuatro horas siguientes.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-14.- Por la presentación de examen de aspirante a notario. $ 15,000.00
+14.- Por la presentación de examen de aspirante a notario $20,879.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-15.- Por presentación de examen de oposición para ser titular de una notaría pública. $ 25,000.00
+15.- Por presentación de examen de oposición para ser titular de una notaría pública.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+$35,131.00
 
-16.- Por la autorización de proyectos de escrituras a los jueces locales en funciones de Notario Público por Ministerio de Ley, por cada instrumento, que requiera autorización. $ 250.00
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2009)</small>
+16.- Por la autorización de proyectos de escrituras a los jueces locales en funciones de Notario Público por Ministerio de Ley, por cada instrumento que requiera autorización.
 
-17.- Por la inscripción de disposiciones testamentarias en el Registro Nacional de Testamentos y el Registro Local de Testamentos. $ 120.00 Por cada disposición testamentaria.
+$1,500.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+17.- Por cada uno de los instrumentos por revisar durante la visita especial a notarías públicas $200.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+18.- Por expedición de testimonios, copias certificadas y copias simples, que se encuentren depositadas en los archivos de la Dirección General de Notarías, en las cuales haya intervenido como parte de la escritura dependencias o entidades de la Administración Pública Federal, Estatal o Municipal, los derechos por los servicios se reducirán en un 50%
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+19.- Asimismo, las que deriven con motivo de programas oficiales para satisfacer la demanda de dar seguridad jurídica de patrimonio seguro, se reducirá en un 33% el pago de estos derechos a los particulares beneficiados y a las personas morales tales como asociaciones de asistencia privada y asociaciones que cuenten con la CLUNI (Clave Única de Inscripción al Registro Federal de las Organizaciones de la Sociedad Civil), en tales programas, debiendo el interesado acreditar dicho beneficio mediante constancia expedida por el responsable del programa.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+En cuanto a las personas de la tercera edad que presenten su credencial vigente del INSEN se les otorgará un 30% de descuento en los servicios prestados por esta Dirección, siempre y cuando sea el interviniente en el documento solicitado.
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
@@ -4193,19 +4281,21 @@ II.- Por cada página completa en cada publicación. N$ 460.00
 
 III.- Por suscripción anual del Boletín Oficial, sin entrega a domicilio. N$ 670.00
 
-IV.- Por suscripción anual del Boletín Oficial, al extranjero N$ 2,344.00
+IV.- (DEROGADA, B.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 V.- Costo unitario por Boletín $ 8.00
 
-VI.- Por copia del Boletín Oficial:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI.- Por reproducción del archivo digitalizado del Boletín Oficial del Estado:
 
 a).- Por cada hoja N$ 2.00
 
 b).- Por certificación del Boletín Oficial. N$ 10.00
 
-VII.- Por suscripción anual por correo dentro del país. N$ 1,300.00
+VII.- (DEROGADA, B.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -4239,15 +4329,23 @@ VII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2004)
 
 VIII.- Por apostillar documentos públicos para presentarse en países firmantes de la Convención de La Haya. $200.00
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IX.- Por copia simple de documentos del archivo histórico que sea posible su fotocopiado. $7.50
+IX.- Por reproducción de documentos digitalizados del Archivo histórico del Estado:
+
+Por primera foja digitalizada $290.00
+
+Por foja adicional del mismo volumen $90.00
 
 X.- Por la certificación de constancias y copias de expedientes y documentos del Archivo Histórico. N$ 20.00
 
 > <small>(ADICIONADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 XI.- Por la expedición de constancias del archivo administrativo de Servidores Públicos del Estado y copias de los documentos contenidos en el expediente, sin importar el número de documentos. $ 50.00
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XII.- Por reproducción de documentos digitalizados de formatos amplios, planos y/o mapas del acervo histórico. $200.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -4489,7 +4587,7 @@ Por cuatro años. $650.00
 
 Por cinco años. $1,000.00
 
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+(DEROGADO SÉPTIMO PÁRRAFO DEL INCISO A), B.O. 14 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4505,7 +4603,7 @@ Por tres años. $620.00
 
 Por cuatro años. $780.00
 
-> <small>(DEROGADO SEXTO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+(DEROGADO SEXTO PÁRRAFO DEL INCISO B), B.O. 14 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -4531,9 +4629,9 @@ Por tres años. $517.00
 
 Permanente $1,090.00
 
-> <small>(DEROGADO SEXTO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+(DEROGADO SEXTO PÁRRAFO DEL INCISO D), B.O. 14 DE DICIEMBRE DE 2015)
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+(DEROGADO ANTERIOR SEGUNDO PÁRRAFO DEL INCISO D), B.O. 31 DE DICIEMBRE DE 2012)
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -4551,9 +4649,11 @@ b).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
 c).- (DEROGADO, B.O. 19 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 d).- Por conducir vehículos de propulsión automotriz en los casos previstos en el artículo 23 de la Ley de Tránsito del Estado de Sonora. En este supuesto se podrán otorgar permisos con vigencia de 6 meses, 1 año y 2 años.
+
+(DEROGADO SEGUNDO PÁRRAFO DEL INCISO D), B.O. 31 DE DICIEMBRE DE 2012)
 
 Por 1 año $1,000.00
 
@@ -4567,9 +4667,7 @@ A las reposiciones o reexpediciones de licencias se les aplicara el 50% del impo
 
 Cuando la expedición o renovación de licencias de conducir sea solicitada con motivo de la aplicación de la Ley de Tránsito del Estado, por parte de la autoridad competente, se cobrará un importe adicional del 25% sobre el costo de expedición de la licencia de que se trate.
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
-
-Las licencias descritas en el presente artículo deberán incluir una póliza de seguro de responsabilidad civil a favor del titular de la licencia, sin que dicha póliza impacte en el costo de la referida licencia. Condicionada dicha póliza al pago de un deducible hasta por la cantidad de 200 veces el salario mínimo diario vigente en la ciudad de Hermosillo por parte del titular de la licencia y el seguro que incluirá la licencia de conducir vigente será hasta una responsabilidad de $50,000.00 pesos, por lo que deberán presupuestarse los recursos necesarios para que la Secretaría de Hacienda licite la póliza que cubra lo previsto en este párrafo, debiendo contratarse una empresa que se encuentre debidamente registrada ante la Comisión Nacional de Seguros y Fianzas y dicha empresa deberá contar con garantías de servicio en siniestros debidamente estipuladas en las condiciones del seguro de referencia al deducible citado y hasta el monto de garantía de responsabilidad señalado, cantidades éstas que han sido especificadas con anterioridad.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
 > <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2017, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN II DEL B.O. DE 6 DE JULIO DE 2017.]</small>
 
@@ -4625,7 +4723,9 @@ motocicletas y motonetas. $ 75.00
 
 La expedición, canje o baja de placas, así como la expedición de las licencias para manejar, a que se refiere esta ley, se autorizarán previo el cumplimiento de los requisitos establecidos en la Ley de Tránsito del Estado de Sonora.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Tratándose del aviso de bajas de placas por cambio de propietario ya presentadas, el Contribuyente podrá revertir dicho aviso en el transcurso de los quince días hábiles siguientes a su fecha de presentación, previo el pago de las disposiciones fiscales que apliquen en los términos de esta Ley y la Ley de Tránsito para el Estado de Sonora
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -5075,9 +5175,9 @@ d) Por certificado de libertad y/o existencia de gravamen, se cobrará:
 
 $400.00
 
-Para el caso de que la inscripción afecta a la certificación antes mencionada contenga varios lotes o fracciones, por cada uno se cobrará:
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-$50.00
+Para el caso de que la inscripción afecta a la certificación antes mencionada contenga más de cinco anotaciones, por cada una anotación extra se cobrará: $50.00
 
 Tratándose de certificado de libertad y/o gravamen destinado para la edificación de vivienda se cobrará
 
@@ -5085,7 +5185,9 @@ $200.00
 
 Para el caso de que la inscripción afecta a la certificación antes mencionada contenga varios lotes o fracciones, destinados para la edificación de vivienda por cada uno se cobrará $25.00
 
-e) Por cada hoja copia que forme parte de escritura pública que obre registrada, se cobrará: $15.00
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+e) Por cada hoja copia certificada que forme parte de escritura pública que obre registrada, se cobrará: $15.00
 
 Cuando las certificaciones a que se refiere este punto se solicite con motivo de programas oficiales para satisfacer necesidades de vivienda, se exceptuará del pago de estos derechos a los particulares beneficiados con tales programas, debiendo el interesado acreditar dicho beneficio mediante constancia expedida por la responsable del programa.
 
@@ -5127,9 +5229,9 @@ $150.00
 
 Para el caso, de que el documento no esté consultable en formato digital, su verificación física no causará derecho alguno.
 
-8.- Por servicio anual de consulta en línea, sobre documentación Digitalizada y que obra en la base de datos del Registro Público de la Propiedad se cobrará:
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-$5,000.00
+8.- Por servicio anual de consulta en línea de inscripciones que obren en la base de datos de cada Oficina Registral, según la disponibilidad, así como los términos y condiciones de servicio vigentes a la fecha que se solicite se cobrará: $5,000.00
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -5144,6 +5246,10 @@ $5,000.00
 11.- Por la presentación del aviso previo sin incluir la emisión del certificado se cobrará:
 
 $262.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+12.- Por la presentación de la junta de herederos se cobrará: $300.00
 
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
@@ -5213,7 +5319,9 @@ I.- Por las inscripciones de:
 
 3.- Defunciones.
 
-3.1.- Sin la entrega de la copia al interesado. Gratuita
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3.1.- Sin la entrega de la copia al interesado, siempre y cuando sea inscrita en el horario de oficina Gratuita.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5259,21 +5367,17 @@ Código Civil deban registrarse. $630.00
 
 8.- Expedición de Actas Interestatales $280.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II.- Por la expedición de actas del Registro Civil en las oficialías, Archivo Estatal y Cajeros automáticos expendedores de Actas:
+II.- Por la expedición de actas del Registro Civil en las oficialías, Archivo Estatal, Cajeros automáticos expendedores y actas en línea vía internet:
 
 1.- Servicio Ordinario.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-1.1.- Impreso del libro (medio electrónico, expedición
+1.1.- Impreso del libro, sistema electrónico, cajeros automáticos y actas vía internet $90.00
 
-en línea y cajeros automáticos). $90.00
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-1.2.- Trascripción del libro (mecanografiada). $90.00
+1.2.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, B.O. 22 DE FEBRERO DE 2017)</small>
 
@@ -5285,11 +5389,21 @@ III.- Por las anotaciones marginales:
 
 2.- (DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-3.- De las resoluciones de complementación y rectificación
+3.- De las resoluciones de complementación y rectificación de actas por la vía administrativa:
 
-de actas por la vía administrativa $400.00
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3.1.- Aclaración de acta $486.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3.2.- Medios de prueba $2,461.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3.3.- Adecuación a la realidad social $3,800.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -5529,103 +5643,19 @@ El Estado procederá a cobrar los derechos enunciados en esta fracción, siempre
 
 II.- Servicios en materia de desarrollo urbano y ecología.
 
-1.- Trabajos de revisión de documentación
+1.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
-y autorización de desarrollo. 2.5 al millar sobre
+2.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
-el presupuesto de
+3.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
-urbanización.
+4.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
-2.- Derechos por supervisión de obras de
+5.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
-urbanización. 3.5 al millar sobre
+6.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
-el presupuesto de
-
-urbanización.
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-3.- Por subdivisión de terrenos con uso industrial, turísticos o campestre por lote:
-
-a).- Para lotes hasta 1000 m2 $210.00
-
-b).- Para lotes mayores de 1001 m2 hasta
-
-10,000 m2. $280.00
-
-c).- Para los lotes mayores de 10,001 m2. $350.00, por el
-
-número de lotes
-
-resultantes, pero
-
-nunca será mayor
-
-de $2,000.00
-
-(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001) (F. DE E., B.O. 22 DE ENERO DE 2002)
-
-4.- Por fusión de terrenos con uso industrial,
-
-turístico o campestre
-
-a).- Por lotes con superficie total a fusionar de
-
-1 m2 hasta 1000m2. $210.00
-
-b).- Para lotes con superficie total a fusionar de
-
-1001 m2 hasta 100,000 m2 $455.00
-
-c).- Para lotes con superficie total a fusionar de
-
-100,001 m2 en adelante $700.00
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-5.- Por relotificación a desarrollos industriales, turísticos o campestres ya autorizados por la Secretaría de Infraestructura y Desarrollo Urbano, por lote.
-
-a).- Por el proceso de relotificación donde intervengan
-
-de 1 lote hasta 5 lotes. $350.00
-
-b).- Por el proceso de relotificación donde intervengan
-
-de 6 lotes hasta 12 lotes. $175.00
-
-c).- Por el proceso de relotificación donde intervengan
-
-12 lotes en adelante. $70.00
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-6.- Por la aprobación por parte de la Secretaría de
-
-Infraestructura y Desarrollo Urbano, de la publicidad
-
-destinada a promover un desarrollo industrial,
-
-turístico o campestre, autorizado. $616.00
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-7.- Por cada revisión y aprobación, si procede, de
-
-los proyectos de agua potable y alcantarillado, de
-
-fraccionamientos, cuando el organismo operador de
-
-agua potable, drenaje, alcantarillado, tratamiento
-
-y disposición de aguas residuales lo solicite, se
-
-cobrará una cuota equivalente a $683.00 por los
-
-primeros 200 lotes y $27.00 por cada siete lotes
-
-adicionales.
+7.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
 8.- Por la expedición de autorización para el
 
@@ -5647,11 +5677,7 @@ vehículos destinados al servicio público de
 
 transporte concesionado por el Estado. N$3,000.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-10.- Por análisis y expedición de dictamen sobre
-
-aspectos de desarrollo urbano $122.00
+10.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
 11.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2008)
 
@@ -5727,13 +5753,7 @@ b) Ruido y/o vibraciones de fuentes fijas. $4,114.00
 
 c) Contaminantes en aguas residuales. $1,343.00
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-16.- Por la expedición del permiso de venta para
-
-la enajenación de los lotes que conforman un
-
-desarrollo turístico, industrial o campestre $1,050.00
+16.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -5831,7 +5851,9 @@ generadora de residuos peligrosos (microgenerador). $1,089.00
 
 Los servicios a que se refieren los puntos 8, 9, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 y 31, de esta fracción, se prestarán por conducto de la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora.
 
-III.- Servicios Prestados por la Secretaría de Salud Pública del Estado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III.- Servicios prestados por la Secretaría de Salud Pública del Estado.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
@@ -5865,15 +5887,7 @@ controlados por la Secretaría de Salud,
 
 solicitados por los interesados. $1.000.000
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-6.- Capacitación en manejo y dispensación de
-
-medicamentos a los operadores de farmacias,
-
-droguerías, boticas, almacenes de medicamentos,
-
-tanto públicos como privados $600.00
+6.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -5991,19 +6005,27 @@ cadáveres cuando esta sea decretada por autoridad
 
 judicial o por el Ministerio Público en un proceso penal.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
+20.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
-20.- Guía para examen de responsable técnico de
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-aplicación de plaguicidas: $ 422.00
+21.- Expedición de licencia sanitaria para los centros de desarrollo integral infantil $809.00
 
-IV.- Servicios Prestados por la Secretaría de Educación y Cultura del Estado.
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+22.- Por la solicitud de información referente a los giros, establecimientos y bases de datos con las que cuenta la comisión $542.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+23.- Por la realización de estudio costero de fuentes de contaminación $3,076.00
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV.- Servicios prestados por la Secretaría de Educación y Cultura del Estado.
 
 1.- Revisión de documentos por hoja. N$3.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
-
-2.- Por constancia de estudios de educación básica. N$15.00
+2.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -6019,7 +6041,7 @@ c).- De educación superior. $210.00
 
 4.- Por solicitud de equivalencia de estudios:
 
-a).- de educación básica. $29.00
+a).- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
 b).- De educación media superior. $140.00
 
@@ -6043,21 +6065,9 @@ b).- de tipos media y superior por materia. N$3.00
 
 superior por materia. N$3.00
 
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
+8.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
-8.- Resolución de trámite de reconocimiento de
-
-validez oficial de estudios a particulares por cada
-
-plan de estados de tipo superior. N$150.00
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2005)</small>
-
-9.- Resolución de trámite de reconocimiento de
-
-validez oficial de estudios a particulares por cada
-
-plan de estudios de tipo medio. N$150.00
+9.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
 10.- Registro de particulares que imparten
 
@@ -6135,9 +6145,7 @@ medio superior. $26.00
 
 y expedición ante la Federación. $227.00
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-20.- Duplicado de cédula profesional. $255.00
+20.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6157,9 +6165,7 @@ Grado Académico y Diploma de Especialidad $800.00
 
 24.- Duplicado de Cédula $255.00
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-25.- Expedición de Cédula de Profesionista Certificado $255.00
+25.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -6171,9 +6177,53 @@ de validez para la impartición e (sic) educación continua $200.00
 
 27.- Certificación de Título Profesional $62.00
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+28.- (DEROGADO, B.O. 21 DE DICIEMBRE DE 2017)
 
-28.- Constancia de Estudios de Educación Básica $58.00
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+29.- Autenticación de documentos académicos del tipo medio superior y capacitación para el trabajo $78.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+30.- Autenticación de documentos académicos del tipo superior $78.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+31.- Trámite de actualización por cada plan de estudios de tipo medio superior y capacitación para el trabajo con Reconocimiento de Validez Oficial $2,150.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+32.- Trámite de actualización por cada plan de estudios de tipo superior con Reconocimiento de Validez Oficial $2,850.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+33.- Expedición de duplicado de Equivalencia o Revalidación de estudios del tipo medio superior o superior $35.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+34.- Cambio de domicilio, modalidad o denominación en acuerdo de otorgamiento de Reconocimiento de Validez Oficial de Estudios del tipo medio superior, capacitación para el trabajo o tipo superior $4,200.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+35.- Cambio de titular de cada plan de estudios con Reconocimiento de Validez Oficial de Estudios, del tipo medio superior, capacitación para el trabajo y tipo superior $4,500.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+36.- Inspección y Vigilancia anual por cada plan de estudios del tipo medio superior, capacitación para el trabajo y tipo superior otorgado por la Secretaría de Educación y Cultura en el que no haya tenido alumnos inscritos durante el año fiscal inmediato anterior $4,800.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+37.- Trámite de solicitud de Reconocimiento de Validez Oficial de Estudios a particulares por cada plan de estudios de tipo superior $7,500.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+38.- Trámite de Reconocimiento de Validez Oficial de Estudios a particulares por cada plan de estudios de tipo medio superior y de capacitación para el trabajo
+
+$5,700.00
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+39.- Renovación de Registro de Colegio de Profesionistas. La cuota por este concepto será el equivalente al 20% del pago del registro del colegio de profesionistas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -6191,17 +6241,9 @@ V.- Servicios prestados por el Secretario Ejecutivo del Consejo Estatal de Segur
 
 El pago de estos derechos no implica la autorización para el funcionamiento de las empresas que realicen el entero.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-3.- Por los servicios especiales de seguridad
-
-pública que preste el Estado de Sonora a
-
-particulares, se cobrará por semestre de calendario
-
-en forma anticipada, por cada elemento de
-
-seguridad en activo. $18,600.00
+3.- Por los servicios especiales de vigilancia que preste el Estado de Sonora a instituciones públicas o a particulares por conducto de la Secretaría de Seguridad Pública, se cobrará en forma anticipada y mensual por cada Elemento. $18,600.00
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -6209,9 +6251,9 @@ seguridad en activo. $18,600.00
 
 elementos prospectos de seguridad privada. $ 65.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Los ingresos que se perciban por los derechos a que se refieren los puntos 3 y 4 anteriores, serán destinados exclusivamente para el fortalecimiento de los programas a cargo del Secretario Ejecutivo de Seguridad Pública y demás erogaciones necesarias para la adecuada y eficaz prestación del servicio.
+De los ingresos que se perciban por los derechos a que se refiere el punto anterior, el veinte por ciento será destinado exclusivamente para el fortalecimiento de los programas a cargo de la Secretaría de Seguridad Pública y demás erogaciones necesarias para la adecuada y eficaz prestación del servicio.
 
 5.- (DEROGADO, B.O. 6 DE AGOSTO DE 2012)
 
@@ -6554,6 +6596,10 @@ b).- Carreras de caballos.
 c).- Peleas de gallos.
 
 La cuota a pagar es asignable por la Dependencia que preste el servicio.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Ley que regula la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico en el Estado de Sonora.
 
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
@@ -7308,3 +7354,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 189, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES FISCALES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2018, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
