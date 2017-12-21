@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2017-08-03"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, ALMACENAMIENTO, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -144,6 +146,12 @@ I Bis 1.- Fábrica de Cerveza Artesanal.- Lugar de elaboración y envasado de ce
 Los titulares de las licencias o sus representantes, no podrán estar asociados de ninguna manera con algún otro productor de bebidas con contenido alcohólico que no tenga licencia para Fábrica de Cerveza Artesanal.
 
 La asociación entre productores de cerveza artesanal solo podrá darse con el fin de protección, fomento y promoción, y de ninguna manera podrán compartir gastos o utilidades entre ellos.
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+I BIS 2.- Fábrica de productos vitivinícolas y sus derivados.- Lugar autorizado para la elaboración, envasamiento, distribución y venta de bebidas con contenido alcohólico elaboradas a base de productos de uva y sus derivados dentro del territorio sonorense.
+
+Estos establecimientos podrán distribuir y comercializar su producto en forma personal o a establecimientos que cuenten con licencia para alguna de las actividades de distribución y comercialización de productos con contenido alcohólico debidamente autorizado por la Secretaría, ello de acuerdo a lo señalado en el artículo 11 de esta ley.
 
 II.- Agencia Distribuidora.- Negocio de distribución específica y venta al mayoreo y menudeo de productos de alcohol o bebidas con contenido alcohólico.
 
@@ -833,7 +841,9 @@ I.- Para la celebración de eventos sociales y culturales; y
 
 II.- Para la celebración de ferias, exposiciones, fiestas regionales o eventos deportivos, en los lugares que tradicionalmente y de acuerdo con su idiosincrasia, lleven a cabo los habitantes de los municipios correspondientes, tomando en cuenta el día o los días de los festejos acostumbrados.
 
-Las autorizaciones a que se refieren las fracciones I y II de este artículo, quedarán condicionadas a la circunstancia de que un porcentaje de los beneficios que se obtengan con la realización de los eventos mencionados, se destinen al Sistema Municipal para el Desarrollo Integral de la Familia.
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Las autorizaciones a que se refieren las fracciones I y II de este artículo, quedarán condicionadas a la circunstancia de que un porcentaje de los beneficios totales que se obtengan con la realización de los eventos mencionados, se destinen al Sistema Municipal para el Desarrollo Integral de la Familia. La autoridad municipal deberá rendir informe trimestral a la Secretaría, de la aplicación y destino de dicho beneficio.
 
 Se exceptúan de lo dispuesto en este artículo, los giros autorizados en los términos del artículo 10 de esta Ley.
 
@@ -881,7 +891,25 @@ IV.- Las sanciones que se le hubieren impuesto indicando fecha, concepto y monto
 
 V.- Relación de cambios de giro, horario y domicilio; y
 
-VI.- Los demás datos que se consideren convenientes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI.- El permisionario de una licencia podrá conceder autorización de uso a un tercero mediante convenio, siendo éste último quien exclusivamente podrá operar el giro correspondiente.
+
+Dicha autorización deberá ser inscrita ante la Dirección General de Bebidas de (sic) Alcohólicas dentro de los treinta días siguientes a la celebración del convenio y procederá su cancelación:
+
+a) Cuando la soliciten conjuntamente el permisionario y el tercero autorizado o cuando expire en su vigencia el convenio celebrado entre ambos;
+
+b) Por cancelación o expiración de la licencia de alcoholes; o
+
+c) Por orden judicial o tribunal competente.
+
+Para inscribir una autorización bastará formular la solicitud correspondiente en los términos que fije la Secretaría.
+
+Las sanciones por infracciones a la presente Ley serán aplicadas al permisionario, aunque fueran cometidas por el tercero autorizado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VII.- Los demás datos que se consideren convenientes.
 
 #### SECCIÓN IX. DEL FALLECIMIENTO DE LOS TITULARES DE LICENCIAS Y PERMISOS
 
@@ -1638,3 +1666,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 189, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES FISCALES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2018, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
