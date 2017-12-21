@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2017-12-19"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -337,11 +337,51 @@ Las circunstancias personales o subjetivas que aumenten o disminuyan la sanción
 
 Las objetivas se tendrán en cuenta para los que intervienen en la comisión del ilícito, si tienen conocimiento de ellas.
 
-### CAPÍTULO X. PERSONAS MORALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO X. PERSONAS JURÍDICAS
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 42.
 
-Cuando una persona moral, con excepción de las instituciones del Estado, facilite los medios para la comisión del delito, de modo que éste resulte cometido a su nombre, bajo su amparo o en su provecho, el juez, con audiencia del representante legal de la misma, impondrá en la sentencia las sanciones previstas en este código, sin perjuicio de la responsabilidad individual por el delito cometido.
+Cuando algún miembro o representante de una persona jurídica, de una sociedad, corporación o empresa de cualquier clase, con excepción de las instituciones del Estado, cometa un delito con los medios que para tal objeto las mismas entidades le proporcione, de modo que éste resulte cometido a su nombre, bajo el amparo de la representación social o en beneficio de ella, el juez podrá, en los casos especificados por la ley, decretar en la sentencia las sanciones previstas en este Código, por los tipos penales que el mismo prevé, así como por los señalados en otras leyes, sin perjuicio de la responsabilidad individual por el delito cometido.
+
+Para los efectos de lo previsto en el artículo 422 del Código Nacional de Procedimientos Penales, a las personas jurídicas se les podrá imponer una o varias de las sanciones previstas en este Código, si hubieran intervenido en la comisión de los siguientes delitos:
+
+I. De los previstos en el presente Código:
+
+a) Terrorismo, previsto en los artículos 311 al 313;
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2018 Y SU ACUMULADA 17/2018, DECLARÓ LA INVALIDEZ DEL INCISO B) DE LA FRACCIÓN I DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE ENERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 379, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+b) SECUESTRO, PREVISTO EN LOS ARTÍCULOS 163 AL 167;
+
+c) Corrupción de niñas, niños, adolescentes o de personas que no tienen capacidad para comprender el significado del hecho o incapaces, previsto en el artículo 190 sexies, párrafo primero;
+
+d) Tráfico de influencias, previsto en el artículo 327;
+
+e) Cohecho, previsto en el artículo 322, fracción II;
+
+f) Tráfico de menores, previsto en los artículos 243 y 244;
+
+g) Robo de vehículos, previsto en los artículos 207 a 209;
+
+h) Administración fraudulenta, previsto en el artículo 218;
+
+i) Encubrimiento, previsto en el artículo 229;
+
+j) Operaciones con recursos de procedencia ilícita, previsto en el artículo 230; y
+
+k) Contra el ambiente, previsto en los artículos 259 a 264;
+
+II. De los delitos establecidos en los siguientes ordenamientos:
+
+a) Defraudación Fiscal y su equiparable, previstos en el artículo 96 del Código Financiero para el Estado de Veracruz de Ignacio de la Llave;
+
+b) Trata de personas, previsto en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos en el Estado de Veracruz de Ignacio de la Llave; y
+
+c) En los demás casos expresamente previstos en la legislación aplicable.
 
 ## TÍTULO III. DE LAS CONSECUENCIAS JURÍDICAS DEL DELITO
 
@@ -633,27 +673,39 @@ La publicación de sentencia consiste en su inserción total o parcial en uno o 
 
 Si el delito por el que se impuso la publicación de sentencia fue cometido valiéndose de un medio de comunicación masiva, además de la publicación a que se refiere el artículo anterior, se hará también en el medio utilizado al cometer el delito, con las mismas características que en este acto se tomaron en cuenta.
 
-### CAPÍTULO XI. DISPOSICIONES ACERCA DE SANCIONES A LAS PERSONAS MORALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO XI. DISPOSICIONES ACERCA DE SANCIONES A LAS PERSONAS JURÍDICAS
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 73.
 
-Para la imposición de sanciones a las personas morales, el juez observará las reglas siguientes:
+En concordancia con el artículo 422 del Código Nacional de Procedimientos Penales, para la imposición de sanciones a las personas jurídicas, el juez observará las siguientes reglas y límites de punibilidad:
 
 I. La multa se impondrá tomando en cuenta el capital social y el estado de sus negocios, así como la gravedad y las consecuencias del delito;
 
-II. La disolución implicará la conclusión definitiva de todas sus actividades e impedirá su reconstitución, real o encubierta, por las mismas personas físicas que las integraron, sin perjuicio de los actos necesarios para la liquidación total. En caso de disolución, la autoridad ejecutora de las consecuencias jurídicas del delito designará liquidador que proceda a cumplir todas las obligaciones contraídas por la persona moral, incluyendo las responsabilidades derivadas del delito.
+II. Suspensión de actividades, por un plazo de entre seis meses a seis años;
 
-La parte conducente de la sentencia se inscribirá en el Registro Público de la Propiedad y en cualquier otro donde estuviere inscrita la persona moral. Los registradores procederán a la cancelación definitiva de las inscripciones correspondientes;
+III. Clausura de locales y establecimientos, por un plazo de entre seis meses a seis años;
 
-III. La suspensión de la actividad de la persona moral no excederá de un año, contado a partir del día en que la sentencia cause ejecutoria;
+IV. Prohibición de realizar en el futuro las actividades en cuyo ejercicio se haya cometido el delito o participado en su comisión, por un plazo de entre seis meses a diez años;
 
-IV. Se precisará la prohibición de realizar determinadas operaciones o negocios;
+V. Inhabilitación temporal consistente en la suspensión de derechos para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave, así como por la Ley de Obras Públicas y Servicios relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave, por un plazo de entre seis meses a seis años;
 
-V. La intervención consistirá en la remoción de sus cargos de los administradores o gerentes y de los comisarios, encargando temporalmente las funciones de éstos a uno o varios interventores, los cuales serán designados por la autoridad ejecutora una vez que la sentencia haya quedado firme. La intervención cesará cuando los órganos competentes de la persona moral sustituyan a quienes cometieron el delito; y
+VI. Intervención judicial para salvaguardar los derechos de los trabajadores o de los acreedores en un plazo de entre seis meses a seis años.
 
-VI. Se observarán las disposiciones establecidas respecto a las personas físicas, en cuanto sean aplicables, por lo que hace a la reparación del daño y al decomiso y aplicación de los instrumentos y objetos del delito.
+La intervención judicial podrá afectar a la totalidad de la organización o limitarse a alguna de sus instalaciones, secciones o unidades de negocio. Se determinará exactamente el alcance de la intervención y quién se hará cargo de la misma, así como los plazos en que deberán realizarse los informes de seguimiento para el órgano judicial. La intervención judicial se podrá modificar o suspender en todo momento previo informe del interventor y de la Fiscalía General. El interventor tendrá derecho a acceder a todas las instalaciones y locales de la empresa o persona jurídica, así como a recibir cuanta información que estime necesaria para el ejercicio de sus funciones. La legislación aplicable determinará los aspectos relacionados con las funciones del interventor y su retribución respectiva; y
 
-Al imponer las consecuencias jurídicas previstas en este capítulo se adoptará las medidas necesarias para dejar a salvo los derechos de los trabajadores.
+VII. La disolución implicará la conclusión definitiva de todas sus actividades e impedirá su reconstitución, real o encubierta, por las mismas personas físicas que las integraron, sin perjuicio de los actos necesarios para la liquidación total. En caso de disolución, la autoridad ejecutora de las consecuencias jurídicas del delito designará liquidador que proceda a cumplir todas las obligaciones contraídas por la persona jurídica, incluyendo las responsabilidades derivadas del delito.
+
+Se observarán las disposiciones establecidas respecto de las personas físicas, en cuanto sean aplicables, por lo que hace a la reparación del daño y al decomiso y aplicación de los instrumentos y objetos del delito.
+
+En todos los supuestos previstos en el artículo 422 del Código Nacional de Procedimientos Penales, las sanciones podrán atenuarse hasta en una cuarta parte, si con anterioridad al hecho que se les imputa, las personas jurídicas contaban con un órgano de control permanente, encargado de verificar el cumplimiento de las disposiciones legales aplicables para darle seguimiento a las políticas internas de prevención delictiva y que hayan realizado antes o después la disminución del daño provocado por el hecho típico.
+
+La parte conducente de la sentencia se inscribirá en el Registro Público de la Propiedad y en cualquier otro donde estuviere inscrita la persona jurídica. Los registradores procederán a la cancelación definitiva de las inscripciones correspondientes.
+
+Al imponer las sanciones previstas en este Capítulo se adoptarán las medidas necesarias para dejar a salvo los derechos de los trabajadores.
 
 ### CAPÍTULO XII. TRATAMIENTO DE INIMPUTABLES O IMPUTABLES DISMINUIDOS
 
@@ -823,7 +875,9 @@ No procederá la sustitución en los delitos de violencia de género.
 
 Cuando el sentenciado cubra o garantice la reparación del daño y cumpla las tres quintas partes de la pena de prisión, en el caso de los delitos dolosos, o la mitad en los culposos, podrá obtener su libertad condicional por acuerdo de la autoridad ejecutora, siempre que por pruebas evidentes se aprecie su readaptación social.
 
-Este beneficio no se concederá a los reincidentes ni a los sentenciados por los delitos de homicidio calificado, secuestro, violación, pornografía infantil o robo calificado.
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2018 Y SU ACUMULADA 17/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011, FECHA EN QUE ENTRÓ EN VIGOR LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+Este beneficio no se concederá a los reincidentes ni a los sentenciados por los delitos de homicidio calificado, SECUESTRO, violación, pornografía infantil o robo calificado.
 
 ###### Artículo 95.
 
@@ -1403,6 +1457,8 @@ Cuando la víctima sea menor de edad o incapaz, la pena de prisión será de tre
 
 ### CAPÍTULO III. SECUESTRO
 
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2018 Y SU ACUMULADA 17/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011, FECHA EN QUE ENTRÓ EN VIGOR LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(REFORMADO, G.O. 15 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 162.
@@ -1433,6 +1489,8 @@ III. La prisión será de cincuenta años a vitalicia cuando se prive de la vida
 
 A los sentenciados por el delito de secuestro previsto en este artículo no se les concederán los beneficios comprendidos en la Ley de Ejecución de Sanciones para el Estado de Veracruz de Ignacio de la Llave; y su tratamiento o internamiento penitenciario se ajustará estrictamente a lo que dicho ordenamiento disponga en el caso específico de la comisión de este ilícito.
 
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2018 Y SU ACUMULADA 17/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011, FECHA EN QUE ENTRÓ EN VIGOR LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 163 Bis.
@@ -1443,11 +1501,15 @@ Se le impondrán de veinte a cuarenta años de prisión y multa de quinientos a 
 
 La pena contemplada en el párrafo que antecede, se le impondrá a quien realice la privación de la libertad a través de una detención en calidad de rehén a una persona amenazándola con privarla de la vida o con causarle daño, para obligar a sus familiares o a un particular a que realice o deje de realizar un acto cualquiera.
 
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2018 Y SU ACUMULADA 17/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011, FECHA EN QUE ENTRÓ EN VIGOR LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(REFORMADO, G.O. 3 DE ENERO DE 2007)</small>
 
 ###### Artículo 164.
 
 Si el secuestrador libera espontáneamente a la víctima dentro de las cuarenta y ocho horas siguientes a la privación de su libertad, sin causarle daño y sin haber satisfecho ninguna de las pretensiones a que se refiere el artículo 163 de este Código, se le impondrán de ocho a quince años de prisión y multa de cien a trescientos días de salario.
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2018 Y SU ACUMULADA 17/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011, FECHA EN QUE ENTRÓ EN VIGOR LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE NOVIEMBRE DE 2004)</small>
 
@@ -1459,6 +1521,8 @@ I. Intervenga, con fines lucrativos, como asesor de los familiares o de quienes 
 
 II. Intimide a los familiares de la víctima o a sus gestores para no colaborar con las autoridades competentes.
 
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2018 Y SU ACUMULADA 17/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011, FECHA EN QUE ENTRÓ EN VIGOR LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 ###### Artículo 166.
 
 Se impondrán de uno a ocho años de prisión y multa hasta de quinientos días de salario a quien:
@@ -1468,6 +1532,8 @@ I. Actúe como intermediario en las negociaciones del rescate sin el acuerdo de 
 II. Proporcione o difunda información confidencial; o
 
 III. Aconseje o disuada para no presentar la denuncia del secuestro cometido o para no informar o no colaborar con la autoridad competente en el conocimiento de la comisión del secuestro.
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2018 Y SU ACUMULADA 17/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011, FECHA EN QUE ENTRÓ EN VIGOR LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### Artículo 167.
 
@@ -3113,7 +3179,7 @@ II. Profane un cadáver o restos humanos, con actos de vilipendio, mutilación, 
 
 III. Viole o vilipendie el lugar donde repose un cadáver, restos humanos o sus cenizas.
 
-## TÍTULO XVII. DELITOS CONTRA EL SERVICIO PÚBLICO
+## TÍTULO XVII. DELITOS POR HECHOS DE CORRUPCIÓN
 
 ### CAPÍTULO II. ABUSO DE AUTORIDAD
 
@@ -3129,9 +3195,9 @@ La pena privativa de libertad se aumentará en una mitad para quienes organizan,
 
 A quien contrate, organice, instruya, entrene o equipe a personas en tácticas, técnicas o procedimientos militares para el desarrollo de actividades terroristas, de escuadrones de la muerte o grupos de justicia privada, se le impondrán de siete a veinte años de prisión y multa hasta de seiscientos días de salario.
 
-### CAPÍTULO II BIS. DESAPARICIÓN FORZADA DE PERSONAS
+### CAPÍTULO II BIS. SIMULACIÓN DE REINTEGRO DE RECURSOS
 
-> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 301.
 
@@ -3189,7 +3255,9 @@ Los rebeldes no serán responsables de las muertes o de las lesiones inferidas e
 
 No se aplicará sanción a los rebeldes que depongan las armas antes de ser tomados prisioneros.
 
-### CAPÍTULO III. INCUMPLIMIENTO DEL DEBER LEGAL
+### CAPÍTULO II TER. DESAPARICIÓN FORZADA DE PERSONAS
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 309.
 
@@ -3203,13 +3271,15 @@ III. Abolir o reformar la Constitución Política del Estado o las instituciones
 
 IV. Separar o impedir el desempeño de su cargo a algún servidor público, estatal o municipal.
 
-### CAPÍTULO IV. COALICIÓN
+### CAPÍTULO III. INCUMPLIMIENTO DEL DEBER LEGAL
 
 ###### Artículo 310.
 
 A quienes, para hacer uso de un derecho o pretextando su ejercicio o para evitar el cumplimiento de una ley, se reúnan tumultuariamente y perturben el orden público, con empleo de violencia en las personas o sobre las cosas o amenacen a la autoridad para obligarla a tomar alguna determinación, se les impondrán de seis meses a tres años de prisión, multa hasta de cuarenta días de salario y suspensión de derechos políticos hasta por dos años.
 
-### CAPÍTULO V. COHECHO
+### CAPÍTULO IV. COALICIÓN
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 311.
 
@@ -3227,7 +3297,9 @@ A quien administre dinero o bienes relacionados con terroristas se le impondrán
 
 Se considera terrorista y se sancionará como tal a quien haga señales, dé voces de alarma o provoque estruendos por los medios idóneos, simulando la posible existencia de alguno de los actos considerados por el delito de terrorismo, con el fin de suscitar tumultos, desórdenes, alarma o zozobra aun cuando éstos no se produzcan.
 
-### CAPÍTULO VI. PECULADO
+### CAPÍTULO V. COHECHO
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 314.
 
@@ -3239,9 +3311,13 @@ II. Elementos fundamentales de instituciones de docencia o investigación; o
 
 III. Recursos esenciales que el Estado destine para el mantenimiento del orden público.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ## TÍTULO XVIII. DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO VII. EXACCIÓN ILEGAL
+### CAPÍTULO V BIS. USO ILÍCITO DE ATRIBUCIONES Y FACULTADES
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 315.
 
@@ -3253,21 +3329,37 @@ II. Continúe ejerciendo las funciones de su empleo, cargo o comisión habiendo 
 
 III. Ejerza atribuciones que correspondan a un empleo, cargo o comisión del servicio público, distinto para el que fue designado o elegido.
 
-Al responsable del delito previsto en este artículo se le impondrán de uno a seis años de prisión y multa hasta de ciento cincuenta días de salario.
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública estatal centralizada o municipal, organismos descentralizados, empresa de participación estatal mayoritaria, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, de órganos constitucionales autónomos, del Congreso del Estado o del Poder Judicial del Estado, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Por sí o por interpósita persona, cuando legalmente le sean requeridos, rinda informes en los que manifieste hechos o circunstancias falsas o niegue la verdad en todo o en parte sobre los mismos; y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI. Teniendo obligación por razones de su empleo, cargo o comisión, de custodiar, vigilar, proteger o dar seguridad a personas, lugares, instalaciones u objetos, incumpliendo su deber, en cualquier forma propicie daño a las personas, o a los lugares, instalaciones u objetos, o pérdida o sustracción de objetos que se encuentren bajo su cuidado.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Al responsable del delito previsto en este artículo se le impondrán de dos a siete años de prisión y multa de cincuenta a doscientas Unidades de Medida y Actualización.
 
 ###### Artículo 316.
 
 Se impondrán las mismas sanciones que señala el artículo anterior al servidor público que, sin presentar renuncia o sin causa justificada, con perjuicio del servicio, abandone el empleo, cargo o comisión para el que fue nombrado.
 
-### CAPÍTULO VIII. INTIMIDACIÓN
+### CAPÍTULO VI. PECULADO
 
 ###### Artículo 317.
 
 Se impondrán de dos a ocho años de prisión y multa hasta de doscientos días de salario al servidor público que ilegalmente ordene o ejecute un acto o inicie un procedimiento, en beneficio propio o ajeno o en perjuicio de alguien.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 318.
 
-Se impondrán de tres a diez años de prisión y multa hasta de cuatrocientos días de salario al servidor público que:
+Se impondrán de tres a doce años de prisión y multa de doscientas hasta setecientas Unidades de Medidas y Actualización, al servidor público que:
 
 I. Por sí o por interpósita persona sustraiga, reproduzca, entregue, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se halle bajo su custodia, o a la cual tenga acceso o conocimiento, en virtud de su empleo, cargo o comisión;
 
@@ -3281,113 +3373,177 @@ V. A sabiendas aplique fondos públicos a un fin distinto al que estaban destina
 
 VI. Realice inversiones, enajenaciones, adquisiciones o cualquier otro acto que produzca algún beneficio económico indebido, para sí o para otro, valiéndose de información que tenga en razón de su empleo, cargo o comisión.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO IX. TRÁFICO DE INFLUENCIA
+VII. Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2018 Y SU ACUMULADA 17/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE ENERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 379, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VIII. EJERCIENDO SUS FUNCIONES O CON MOTIVO DE ELLAS COMETIERA VIOLENCIA, VEJACIONES, TRATOS CRUELES, INHUMANOS, DEGRADANTES O INSULTOS A PERSONA ALGUNA.
+
+ESTE DELITO SE AGRAVARÁ CUANDO EL SUJETO PASIVO SE TRATEN (SIC) MENORES DE EDAD, PERSONAS DE LA TERCERA EDAD, MUJERES EN CUALQUIER ETAPA DEL EMBARAZO, POR ORIGEN ÉTNICO O NACIONAL O CUENTE CON ALGUNA DISCAPACIDAD FÍSICA;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IX. Indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+X. Estando encargado de procurar o administrar justicia, bajo cualquier pretexto, se niegue injustificadamente a despachar un trámite pendiente ante él, dentro de los términos establecidos por la ley;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XI. Siendo el encargado o elemento de una fuerza pública, requerido legalmente por una autoridad competente para que le preste auxilio, se niegue a dárselo o retrase el mismo injustificadamente;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XII. Estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de reinserción social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos, o centros de arraigo, sin los requisitos legales, reciba como privada de su libertad, detenida, arrestada, arraigada o interna a una persona o la mantenga en las citadas condiciones, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviese; o no cumpla la orden de libertad girada por la autoridad competente;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIII. Teniendo conocimiento de una privación ilegal de la libertad no la denunciara inmediatamente a la autoridad competente, o no la haga cesar, también inmediatamente, si esto estuviese en sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIV. Haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y disponga de ellos indebidamente, para sí mismo o para terceros;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XV. Obtenga, exija o solicite sin derecho alguno o causa legítima, para sí o para terceros, parte del sueldo o remuneración de uno o más de sus subalternos, dádivas u otros bienes o servicios;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVI. Autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público o para participar en adquisiciones, arrendamientos, servicios u obras públicas, siempre que lo haga con conocimiento de tal situación;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVII. Otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación;
+
+(NOTA: EL 8 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2018 Y SU ACUMULADA 17/2018, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE ENERO DE 2018, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 379, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVIII. OBLIGUE AL INCULPADO A DECLARAR, USANDO LA INCOMUNICACIÓN, LA INTIMIDACIÓN, LA TORTURA O TRATOS CRUELES, INHUMANOS O DEGRADANTES;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIX. Impida la ejecución de las sanciones de privación de la libertad; y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XX. Omita el registro de la detención correspondiente o dilate injustificadamente poner al detenido a disposición de la autoridad correspondiente.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO VII. EXACCIÓN ILEGAL
 
 ###### Artículo 318 Bis.
 
-Comete el delito de desaparición forzada de persona el servidor público que realice, ordene, autorice, consienta, tolere, apoye o conozca de la detención o privación de la libertad de una persona y además incurra en una o más de las siguientes hipótesis:
+Se impondrán de cinco a quince años de prisión y multa de quinientas a mil Unidades de Medida y Actualización, y prohibición para desempeñar cargo, empleo o comisión públicos, tomando en consideración el monto de la simulación ocurrida, al servidor o ex servidor público que ordene, autorice o realice el reintegro de recursos públicos a las cuentas bancarias aperturadas para el depósito de recursos financieros de carácter federal, estatal o municipal que le sean asignados al ente público, con la finalidad de resarcir el patrimonio público o solventar las observaciones que hayan sido determinadas por la Auditoría Superior, el Órgano de Fiscalización Superior del Estado, la Contraloría o cualquier otra autoridad que lo hubiere ordenado, y posteriormente los asigne o desvíe nuevamente a un fin distinto al que originalmente estaban reservados o destinados por disposición de ley.
 
-a). Se niegue a reconocer dicha detención o privación de la libertad;
-
-b). Omita dolosamente o se niegue a rendir informe sobre dicha detención o privación de libertad;
-
-c). Oculte o mantenga dolosamente el ocultamiento de la víctima;
-
-d). Se niegue a informar sobre cualquier dato que tenga sobre la detención, la privación de libertad o el paradero de la víctima;
-
-e). Dolosamente proporcione información falsa o rinda informes falsos sobre la detención, la privación de libertad o el paradero de la víctima.
-
-Al servidor público que cometa el delito de desaparición forzada de persona, se le impondrá una pena de diez a treinta años de prisión y multa de mil a cuatro mil días de salario, además de la inhabilitación definitiva para ejercer la función pública.
-
-> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
-
-### CAPÍTULO X. ENRIQUECIMIENTO ILÍCITO
+### CAPÍTULO VIII. INTIMIDACIÓN
 
 ###### Artículo 318 Ter.
 
+Comete el delito de desaparición forzada de persona el servidor público que realice, ordene, autorice, consienta, tolere, apoye o conozca de la detención o privación de la libertad de una persona y además incurra en una o más de las siguientes hipótesis:
+
+I. Se niegue a reconocer dicha detención o privación de la libertad;
+
+II. Omita dolosamente o se niegue a rendir informe sobre dicha detención o privación de libertad;
+
+III. Oculte o mantenga dolosamente el ocultamiento de la víctima;
+
+IV. Se niegue a informar sobre cualquier dato que tenga sobre la detención, la privación de libertad o el paradero de la víctima; y
+
+V. Dolosamente proporcione información falsa o rinda informes falsos sobre la detención, la privación de libertad o el paradero de la víctima. Al servidor público que cometa el delito de desaparición forzada de persona, se le impondrá una pena de diez a treinta años de prisión y multa de mil a cuatro mil días de salario, además de la inhabilitación definitiva para ejercer la función pública.
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 318 Quater.
+
 Será igualmente considerado como sujeto activo del delito de desaparición forzada de persona, el particular que:
 
-a). Con la autorización, apoyo, tolerancia, o aquiescencia de algún servidor público, realice alguna de las conductas descritas en el artículo anterior;
+I. Con la autorización, apoyo, tolerancia, o aquiescencia de algún servidor público, realice alguna de las conductas descritas en el artículo anterior; y
 
-b). Intervenga con cualquier grado de autoría o participación en la comisión de alguna de las hipótesis descritas en el artículo anterior.
+II. Intervenga con cualquier grado de autoría o participación en la comisión de alguna de las hipótesis descritas en el artículo anterior. Al particular que cometa el delito de desaparición forzada de persona, se le impondrá una pena de diez a veinticinco años de prisión y multa de quinientos a dos mil días de salario.
 
-Al particular que cometa el delito de desaparición forzada de persona, se le impondrá una pena de diez a veinticinco años de prisión y multa de quinientos a dos mil días de salario.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
-
-###### Artículo 318 Quáter.
+###### Artículo 318 Quinquies.
 
 Se equipara al delito de desaparición forzada de persona el omitir entregar a su familia o a la autoridad a una persona, viva o muerta, que haya nacido durante la privación de libertad de una mujer víctima de desaparición forzada de persona y se sancionará conforme a lo dispuesto en los dos artículos anteriores.
 
-> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 318. Quinquies.
+###### Artículo 318. Sexies.
 
 Se sancionará, a quien sin ser autor o partícipe, incurra en alguna de las conductas relacionadas con este delito, conforme a lo siguiente:
 
-a). Ayude a eludir la aplicación de la justicia o a entorpecer la investigación de cualquiera de los delitos de desaparición forzada de persona o su equiparado, con pena de cinco a diez años de prisión y multa de doscientos a mil días de salario.
+I. Ayude a eludir la aplicación de la justicia o a entorpecer la investigación de cualquiera de los delitos de desaparición forzada de persona o su equiparado, con pena de cinco a diez años de prisión y multa de doscientos a mil días de salario;
 
-b). Teniendo conocimiento de la comisión de este delito, omita dar aviso a la autoridad correspondiente, con pena de cinco a diez años de prisión y multa de doscientos a mil días de salario.
+II. Teniendo conocimiento de la comisión de este delito, omita dar aviso a la autoridad correspondiente, con pena de cinco a diez años de prisión y multa de doscientos a mil días de salario;
 
-c). No evite la comisión de este delito, pudiendo hacerlo sin riesgo propio o ajeno, con pena de uno a cinco años de prisión y multa de cien a quinientos días de salario.
+III. No evite la comisión de este delito, pudiendo hacerlo sin riesgo propio o ajeno, con pena de uno a cinco años de prisión y multa de cien a quinientos días de salario; y
 
-d). Teniendo conocimiento del destino final de una persona nacida de una mujer víctima de desaparición forzada de persona, no proporcione la información a la autoridad competente, con pena de tres a seis años de prisión y multa de cien a trescientos días de salario.
+IV. Teniendo conocimiento del destino final de una persona nacida de una mujer víctima de desaparición forzada de persona, no proporcione la información a la autoridad competente, con pena de tres a seis años de prisión y multa de cien a trescientos días de salario. Si fuere servidor público, se sancionará además con inhabilitación definitiva e inconmutable para ejercer la función pública.
 
-Si fuere servidor público, se sancionará además con inhabilitación definitiva e inconmutable para ejercer la función pública.
-
-> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
-
-Artículo 318 Sexties. Serán atenuantes punitivas y reducirán la pena hasta en una mitad, las siguientes:
-
-a). Que la víctima fuere liberada espontáneamente durante los cinco días siguientes a su privación de libertad;
-
-b). Que quien hubiere intervenido con cualquier grado de participación en la comisión del delito, o quien no lo hubiere evitado pudiendo hacerlo, proporcione información que conduzca a la libertad de la víctima.
-
-> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 318 Septies.
 
-Serán atenuantes punitivas y reducirán la pena hasta en un tercio, las siguientes:
+Serán atenuantes punitivas y reducirán la pena hasta en una mitad, las siguientes:
 
-a). Que el autor o partícipe proporcione información que conduzca a dar con el paradero de los restos corpóreos de la víctima;
+I. Que la víctima fuere liberada espontáneamente durante los cinco días siguientes a su privación de libertad; y
 
-b). Que el autor material del delito proporcione información relativa a la responsabilidad y paradero del autor intelectual y se logre la ubicación o captura de éste.
+II. Que quien hubiere intervenido con cualquier grado de participación en la comisión del delito, o quien no lo hubiere evitado pudiendo hacerlo, proporcione información que conduzca a la libertad de la víctima.
 
-> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 318 Octies.
 
+Serán atenuantes punitivas y reducirán la pena hasta en un tercio, las siguientes:
+
+I. Que el autor o partícipe proporcione información que conduzca a dar con el paradero de los restos corpóreos de la víctima; y
+
+II. Que el autor material del delito proporcione información relativa a la responsabilidad y paradero del autor intelectual y se logre la ubicación o captura de éste.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 318 Nonies.
+
 Serán agravantes punitivas y aumentarán la pena hasta en una mitad más, las siguientes:
 
-a). Que durante la desaparición forzada a la víctima le sobrevenga la muerte;
+I. Que durante la desaparición forzada a la víctima le sobrevenga la muerte;
 
-b). Que se haya realizado alguna acción tendiente a ocultar el cadáver de la víctima;
+II. Que se haya realizado alguna acción tendiente a ocultar el cadáver de la víctima;
 
-c). Que se haya realizado la conducta con el fin de ocultar o procurar la impunidad por la comisión de otro delito;
+III. Que se haya realizado la conducta con el fin de ocultar o procurar la impunidad por la comisión de otro delito;
 
-d). Que la víctima sea periodista o defensor de derechos humanos;
+IV. Que la víctima sea periodista o defensor de derechos humanos;
 
-e). Que se haya realizado la conducta con el fin de obtener algún beneficio;
+V. Que se haya realizado la conducta con el fin de obtener algún beneficio;
 
-f). Que la desaparición forzada se ejecute como consecuencia de una práctica policial en la investigación o persecución de algún delito;
+VI. Que la desaparición forzada se ejecute como consecuencia de una práctica policial en la investigación o persecución de algún delito;
 
-g). Que la víctima se encuentre en una situación de vulnerabilidad. Se considera situación de vulnerabilidad la condición de desventaja de la víctima derivada de una o más de las siguientes circunstancias:
+VII. Que la víctima se encuentre en una situación de vulnerabilidad. Se considera situación de vulnerabilidad la condición de desventaja de la víctima derivada de una o más de las siguientes circunstancias:
 
-1. Su origen, sexo, orientación sexual, o condición socioeconómica precaria;
+a) Su origen, sexo, orientación sexual, o condición socioeconómica precaria;
 
-2. Nivel educativo, falta de oportunidades, embarazo, violencia o discriminación sufridas previas a la consumación de este delito;
+b) Nivel educativo, falta de oportunidades, embarazo, violencia o discriminación sufridas previas a la consumación de este delito;
 
-3. Trastorno físico o mental, o discapacidad;
+c) Trastorno físico o mental, o discapacidad;
 
-4. Pertenencia a un pueblo o comunidad indígena;
+d) Pertenencia a un pueblo o comunidad indígena;
 
-5. Tener más de sesenta años de edad o menos de dieciocho;
+e) Tener más de sesenta años de edad o menos de dieciocho; y
 
-6. Su condición migratoria, aislamiento social, cultural o lingüístico.
+f) Su condición migratoria, aislamiento social, cultural o lingüístico.
 
-### CAPÍTULO XI. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
+### CAPÍTULO IX. TRÁFICO DE INFLUENCIA
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 319.
 
@@ -3405,31 +3561,75 @@ I. Por razón de su empleo, cargo o comisión tenga conocimiento de que existe i
 
 II. Al concluir el empleo, cargo o comisión no entregue a la persona autorizada para recibir los bienes, documentación, archivos, expedientes y todo lo que haya estado bajo su responsabilidad.
 
-### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
+### CAPÍTULO X. ENRIQUECIMIENTO ILÍCITO
 
 ###### Artículo 321.
 
-Se impondrán prisión de seis meses a seis años y multa hasta de doscientas veces el salario, a los servidores públicos que se unan para tomar medidas contrarias a una ley, reglamento o disposición de carácter general, para impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la función pública, en cualquiera de sus niveles de gobierno.
+Se impondrán prisión de uno a siete años y multa de cien a trescientas Unidades de Medida y Actualización, a los servidores públicos que se unan para tomar medidas contrarias a una ley, reglamento o disposición de carácter general, para impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la función pública, en cualquiera de sus niveles de gobierno.
 
-### CAPÍTULO XIII. ULTRAJES A LA AUTORIDAD
+### CAPÍTULO XI. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
 ###### Artículo 322.
 
-Comete el delito de cohecho:
+Cometen el delito de cohecho:
 
-I. El servidor público que por sí o por interpósita persona solicite o reciba indebidamente, para sí o para otro, dinero o cualquier otra dádiva o acepte una promesa para hacer o dejar de hacer algo lícito o ilícito, relacionado con sus funciones; o
+I. El servidor público que por sí, o por interpósita persona solicite o reciba ilícitamente para sí o para otro, dinero o cualquier beneficio, o acepte una promesa, para hacer o dejar de realizar un acto propio de sus funciones inherentes a su empleo, cargo o comisión;
 
-II. Quien de manera espontánea dé u ofrezca, por sí o por interpósita persona, dinero o cualquier otra dádiva al servidor público, para los fines a que se refiere la fracción anterior.
+II. El que dé, prometa o entregue cualquier beneficio a alguna de las personas que se mencionan en presente el artículo, para que haga u omita un acto relacionado con sus funciones, a su empleo, cargo o comisión, y
 
-> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2015)</small>
+III. El legislador local que, en el ejercicio de sus funciones o atribuciones, y en el marco del proceso de aprobación del presupuesto de egresos respectivo, gestione o solicite:
 
-Cuando el dinero, dádiva o servicios de que se trate sea inferior al equivalente de mil días de salario, se aplicará prisión de tres a siete años y multa hasta de cuatrocientos días de salario. Cuando el equivalente rebase los mil días de salario, la sanción será de cinco a diez años de prisión y multa hasta de setecientos días de salario.
+a) La asignación de recursos a favor de un ente público, exigiendo u obteniendo, para sí o para un tercero, una comisión, dádiva o contraprestación, en dinero o en especie, distinta a la que le corresponde por el ejercicio de su encargo;
 
-El dinero o dádivas entregadas, en su caso, se aplicarán en beneficio de la Asistencia Pública del Estado.
+b) El otorgamiento de contratos de obra pública o de servicios a favor de determinadas personas físicas o morales.
 
-### CAPÍTULO XIV. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+Se aplicará la misma pena a cualquier persona que gestione, solicite a nombre o en representación del legislador local las asignaciones de recursos u otorgamiento de contratos a que se refieren los incisos a) y b) de este artículo.
 
-### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
+Al que comete el delito de cohecho se le impondrán las siguientes sanciones:
+
+Cuando la cantidad o el valor de la dádiva, de los bienes o la promesa no excedan del equivalente de quinientas Unidades de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de cinco a nueve años de prisión y multa de cien a cuatrocientas Unidades de Medida y Actualización.
+
+Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación exceda de quinientas Unidades de Medida y Actualización en el momento de cometerse el delito, se impondrán de diez a quince años de prisión y multa de quinientas a mil Unidades de Medida y Actualización.
+
+En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO XII. QUEBRANTAMIENTO DE SELLOS
+
+###### Artículo 322 Bis.
+
+Comete el delito de uso ilícito de atribuciones y facultades el servidor público que:
+
+I. Niegue el otorgamiento o contratación de las operaciones a que hacen referencia las fracciones II, III y IV del artículo 318 de este Código, existiendo todos los requisitos establecidos en la normatividad aplicable para su autorización; y
+
+II. Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, omita cumplir con dicha obligación.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis a doce años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 322 Ter.
+
+Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebida de las operaciones, a que hace referencia la fracción anterior, o sea parte en las mismas.
+
+Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de cuatro a ocho años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 322 Quater.
+
+Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
+
+I. Genere y utilice información falsa o alterada, respecto de los rendimientos o beneficios que obtenga; y
+
+II. Cuando estando legalmente obligado a entregar a una autoridad información sobre los rendimientos o beneficios que obtenga, la oculte.
+
+Al que cometa el delito a que se refiere el presente artículo, se le impondrán de ocho a quince años de prisión y multa de doscientas a quinientas Unidades de Medida y Actualización.
+
+### CAPÍTULO XIII. ULTRAJES A LA AUTORIDAD
 
 ###### Artículo 323.
 
@@ -3447,7 +3647,7 @@ I. El servidor público que a título personal e indebidamente utilice fondos p�
 
 II. Cualquier persona que sin tener el carácter de servidor público, estando obligado legalmente a la custodia, administración o aplicación de recursos públicos estatales o municipales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
-### CAPÍTULO II. FRAUDE PROCESAL
+### CAPÍTULO XIV. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
 ###### Artículo 325.
 
@@ -3457,7 +3657,7 @@ I. Cuando las prestaciones indebidas no excedan del equivalente de quinientas ve
 
 II. Si su equivalente excediera de quinientas veces el salario, se impondrán de dos a diez años de prisión y multa de trescientos a quinientos días de salario.
 
-### CAPÍTULO III. FALSAS DENUNCIAS Y SIMULACIÓN DE PRUEBAS
+### CAPÍTULO I. FALSEDAD ANTE LA AUTORIDAD
 
 ###### Artículo 326.
 
@@ -3467,15 +3667,23 @@ I. Por sí o por interpósita persona, utilizando la violencia física o moral, 
 
 II. Realice una conducta ilícita u omita una lícita que lesione los intereses del denunciante, querellante o informante o de algún tercero interesado.
 
-### CAPÍTULO IV. EVASIÓN DE PRESOS
-
-> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
+### CAPÍTULO II. FRAUDE PROCESAL
 
 ###### Artículo 327.
 
-Se impondrán de uno a cuatro años de prisión y multa hasta de ciento cincuenta días de salario al servidor público que por sí o por interpósita persona, sin estar autorizado para ello y aprovechando el empleo, cargo o comisión que desempeñe, promueva o gestione la emisión o ejecución de un acto o resolución oficial en beneficio propio o de un tercero.
+Comete el delito de tráfico de influencia:
 
-### CAPÍTULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
+I. El servidor público que por sí o por interpósita persona, sin estar autorizado para ello y aprovechando el empleo, cargo o comisión que desempeñe, promueva o gestione la emisión o ejecución de un acto o resolución oficial en beneficio propio o de un tercero;
+
+II. Cualquier persona que promueve la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior;
+
+III. El servidor público que por sí o por interpósita persona, indebidamente solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera otra persona; y
+
+IV. Al particular que, sin estar autorizado para ello, intervenga ante los servidores públicos facultados para tomar decisiones dentro de negocios públicos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otros.
+
+Se impondrán de ocho a quince años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
+
+### CAPÍTULO III. FALSAS DENUNCIAS Y SIMULACIÓN DE PRUEBAS
 
 ###### Artículo 328.
 
@@ -3485,7 +3693,9 @@ Se aplicará la misma sanción a quien haga figurar como suyos bienes que el ser
 
 Además de las sanciones establecidas en este artículo, se decomisarán en beneficio del Estado aquellos bienes cuya procedencia no logre justificarse de acuerdo con la ley en materia de responsabilidades de los servidores públicos del Estado.
 
-### CAPÍTULO VI. QUEBRANTAMIENTO DE LA SANCIÓN DE PRIVACIÓN, SUSPENSIÓN O INHABILITACIÓN DE DERECHOS
+### CAPÍTULO IV. EVASIÓN DE PRESOS
+
+> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 329.
 
@@ -3499,21 +3709,19 @@ Cuando la ley autorice el empleo de medios de apremio, el delito sólo se consum
 
 Se aplicarán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien impida que la autoridad ejerza sus funciones o resista el cumplimiento de una orden cuya ejecución se lleve a cabo en forma legal. De emplearse violencia física o moral, la sanción se agravará hasta en un año.
 
-### CAPÍTULO VII. CONTRA LA PRESERVACIÓN DEL LUGAR DE LOS HECHOS
+### CAPÍTULO V. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### Artículo 330.
 
 Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien quebrante los sellos que se fijen por orden de autoridad competente.
 
-### CAPÍTULO VIII. REVELACIÓN DE INFORMACIÓN RESERVADA
+### CAPÍTULO VI. QUEBRANTAMIENTO DE LA SANCIÓN DE PRIVACIÓN, SUSPENSIÓN O INHABILITACIÓN DE DERECHOS
 
 ###### Artículo 331.
 
 Se impondrán de seis meses a dos años de prisión y multa hasta de cuarenta días de salario a quien amenace o agreda a un servidor público en el momento de ejercer sus funciones o con motivo de ellas.
 
-### CAPÍTULO IX. DELITOS COMETIDOS POR SERVIDORES PÚBLICOS
-
-> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO VII. CONTRA LA PRESERVACIÓN DEL LUGAR DE LOS HECHOS
 
 ###### Artículo 332.
 
@@ -3523,7 +3731,7 @@ Los servidores públicos que cometan los ilícitos previstos en el presente Tít
 
 ## TÍTULO XIX. DELITOS CONTRA EL DESARROLLO URBANO Y EL DERECHO A LA VIVIENDA
 
-### CAPÍTULO I. FRACCIONAMIENTO INDEBIDO
+### CAPÍTULO VIII. REVELACIÓN DE INFORMACIÓN RESERVADA
 
 ###### Artículo 333.
 
@@ -3551,13 +3759,15 @@ A quien se retracte espontáneamente de sus falsas declaraciones rendidas ante l
 
 Si la declaración falsa hubiere sido elemento de convicción para la imposición de sanción privativa de libertad, existiendo posterior reconocimiento de inocencia del inculpado, al falso declarante se le impondrán de tres a diez años de prisión y multa hasta de cien días de salario.
 
-### CAPÍTULO II. VENTA O PROMESA DE VENTA INDEBIDA
+### CAPÍTULO IX. DELITOS COMETIDOS POR SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 337.
 
 A quien simule actos jurídicos o altere elementos de prueba para obtener una resolución judicial o administrativa, de la que derive el perjuicio de alguien o un beneficio indebido, se le impondrán de seis meses a cinco años de prisión y multa hasta de cuarenta días de salario.
 
-### CAPÍTULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+### CAPÍTULO I. FRACCIONAMIENTO INDEBIDO
 
 ###### Artículo 338.
 
@@ -3565,9 +3775,7 @@ A quien ante la autoridad impute falsamente a una persona un hecho calificado co
 
 No se procederá contra el probable responsable sino una vez pronunciada sentencia absolutoria o acto de sobreseimiento que causen ejecutoria o hubiere reconocimiento de inocencia del inculpado.
 
-### CAPÍTULO I. DE LOS DELITOS ELECTORALES
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO II. VENTA O PROMESA DE VENTA INDEBIDA
 
 ###### Artículo 339.
 
@@ -3591,7 +3799,7 @@ A los servidores públicos que ilegalmente permitan la salida temporal de las pe
 
 Si la reaprehensión del evadido se lograre por informes proporcionados por el responsable de la evasión, las sanciones se reducirán hasta en dos terceras partes de las previstas.
 
-### CAPÍTULO II
+### CAPÍTULO III. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
 
 ###### Artículo 344.
 
@@ -3611,23 +3819,21 @@ II. El cónyuge, concubina o concubinario y parientes colaterales por consanguin
 
 III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad.
 
-### CAPÍTULO I. VIOLENCIA FÍSICA O PSICOLÓGICA
+### CAPÍTULO I. DE LOS DELITOS ELECTORALES
 
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 346.
 
 A quien quebrante una sanción de privación, suspensión o inhabilitación de derechos se le impondrá multa hasta de ciento cincuenta días de salario. En caso de reincidencia, se duplicará la multa y se impondrá prisión de seis meses a dos años.
 
-### CAPÍTULO II. VIOLENCIA ECONÓMICA O PATRIMONIAL
-
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+### CAPÍTULO II
 
 ###### Artículo 347.
 
 A quien altere, modifique, cambie, obstruya o destruya, mueva o manipule de cualquier forma los vestigios, huellas, objetos, instrumentos o cadáveres que se encuentren en el lugar de los hechos como resultado de la acción u omisión delictivas, se le impondrán de seis meses a tres años de prisión y multa hasta de cincuenta días de salario.
 
-### CAPÍTULO III. VIOLENCIA OBSTÉTRICA
+### CAPÍTULO I. VIOLENCIA FÍSICA O PSICOLÓGICA
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3639,7 +3845,7 @@ Igual sanción se aplicará al servidor público que indebidamente quebrante la 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO IV. VIOLENCIA EN EL ÁMBITO FAMILIAR
+### CAPÍTULO II. VIOLENCIA ECONÓMICA O PATRIMONIAL
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3725,7 +3931,7 @@ A quien cometa los delitos previstos en las fracciones V, VI, VII y X, se le imp
 
 ## TÍTULO XX. DELITOS CONTRA LA FUNCIÓN ELECTORAL
 
-### CAPÍTULO V. VIOLENCIA INSTITUCIONAL
+### CAPÍTULO III. VIOLENCIA OBSTÉTRICA
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3733,7 +3939,7 @@ A quien cometa los delitos previstos en las fracciones V, VI, VII y X, se le imp
 
 Se impondrán de tres a diez años de prisión y multa hasta de mil días de salario a quien, sin contar con el permiso o la licencia de la autoridad correspondiente, inicie obra de construcción de fraccionamiento o de lotificación.
 
-### CAPÍTULO VI. VIOLENCIA LABORAL
+### CAPÍTULO IV. VIOLENCIA EN EL ÁMBITO FAMILIAR
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3745,7 +3951,7 @@ I. Venda o prometa vender lotes de fraccionamiento o de lotificaciones; o
 
 II. Venda o prometa vender construcciones ubicadas en conjuntos habitacionales.
 
-### CAPÍTULO VII. VIOLENCIA EN EL ÁMBITO EDUCATIVO
+### CAPÍTULO V. VIOLENCIA INSTITUCIONAL
 
 > <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -3757,9 +3963,9 @@ Estos delitos se perseguirán por querella del particular afectado o de la autor
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO VII BIS. FEMINICIDIO
+### CAPÍTULO VI. VIOLENCIA LABORAL
 
-> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 352.
 
@@ -3791,7 +3997,9 @@ Los delitos electorales en el Estado serán los previstos en la Ley General en M
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
+### CAPÍTULO VII. VIOLENCIA EN EL ÁMBITO EDUCATIVO
+
+> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 ###### Artículo 359.
 
@@ -3807,9 +4015,9 @@ Los delitos electorales en el Estado serán los previstos en la Ley General en M
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA G.O. 27 DE AGOSTO DE 2010)</small>
 
-### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
+### CAPÍTULO VII BIS. FEMINICIDIO
 
-> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 361.
 
@@ -3819,9 +4027,7 @@ Si la víctima estuviere embarazada o en período de puerperio, la sanción se i
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
-
-> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+### CAPÍTULO VIII. DISPOSICIONES COMUNES PARA LOS DELITOS DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 362.
 
@@ -3831,9 +4037,9 @@ En caso de que los actos señalados en el párrafo anterior estuvieren dirigidos
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+### CAPÍTULO I. ESPIONAJE CONTRA LAS INSTITUCIONES DE SEGURIDAD PUBLICA
 
-> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, G.O. 27 DE AGOSTO DE 2010)</small>
 
 ###### Artículo 363.
 
@@ -3857,6 +4063,10 @@ Si el sujeto activo del delito fuere servidor público, además de las penas se�
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
+### CAPÍTULO II. MOVILIZACION DE SERVICIOS DE EMERGENCIA
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+
 ###### Artículo 364.
 
 Se impondrán de seis meses a dos años de prisión y multa de hasta doscientos días de salario, a quien al interior de una familia y en contra de una persona del sexo femenino integrante de la misma:
@@ -3874,6 +4084,10 @@ V. Obligue a establecer relación de noviazgo, concubinato o matrimonio con pers
 VI. Limite, prohíba o condicione el acceso y uso de métodos de salud sexual y reproductiva.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
+
+### CAPITULO III. PERTURBACION DEL ORDEN PUBLICO
+
+> <small>(REFORMADO, G.O. 22 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 365.
 
@@ -4595,15 +4809,19 @@ Primero. El presente Decreto entrará en vigor el día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DECLARA REFORMADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE MOVILIDAD Y SEGURIDAD VIAL".]
+G.O. 21 DE DICIEMBRE DE 2017.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 379 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo.- El Congreso de la Unión deberá expedir, en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, la Ley General en Materia de Movilidad y Seguridad Vial.
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
-Tercero.- El Congreso de la Unión deberá armonizar, en lo que corresponda, y en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor de la Ley a que se refiere el artículo anterior, la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, de acuerdo con lo dispuesto en el presente Decreto y la referida Ley.
+Segundo. Los procedimientos iniciados antes de la vigencia del presente Decreto continuarán su sustanciación de conformidad con la legislación aplicable al momento de ser iniciados.
 
-D.O.F. 24 DE DICIEMBRE DE 2020.
+Tercero. Las personas sentenciadas continuarán cumpliendo la pena de conformidad con lo establecido en la legislación vigente en el momento en que la misma haya quedado firme.
+
+Cuarto. En la aplicación del presente Decreto se tendrá presente el principio de sucesión de normas sustantivas penales.
+
+Quinto. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en el Código Penal para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, se entenderán referidas a la Unidad de Medida y Actualización.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADOS LOS ARTÍCULOS 4o. Y 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE JUVENTUD”.]
 
