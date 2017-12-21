@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-546-organica-de-la-fiscalia-general-del-estado-10589
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-29"
-last_updated: "2016-11-08"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "VER"
 ---
 # LEY NUMERO 546 ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE ENERO DE 2018 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY NÚMERO 546 ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 29 de enero de 2015.
 
@@ -116,6 +120,14 @@ XI. Fiscal: El que ejerce las facultades del Ministerio Público;
 XII. Fiscal Especial: El nombrado por acuerdo del Fiscal General para asuntos específicos y de carácter temporal;
 
 XIII. Fiscal Especializado: El Fiscal que ejerce las facultades del Ministerio Público en determinada materia;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIII Bis. Fiscal Anticorrupción: Al titular de la Fiscalía Especializada en Combate a la Corrupción;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIII Ter. Fiscalía Anticorrupción: A la Fiscalía Especializada en Combate a la Corrupción;
 
 XIV. Ministerio Público: La Institución del Ministerio Público;
 
@@ -375,7 +387,9 @@ En estos casos, el Fiscal ordenará que se levante el acta de defunción y que e
 
 Excusas y recusaciones
 
-Los Fiscales deberán excusarse de intervenir en el conocimiento y trámite de los asuntos cuando exista alguna de las causas de impedimento que la ley señala en los mismos casos en que deben hacerlo los jueces y magistrados del Poder Judicial del Estado. De la excusa conocerá el superior jerárquico inmediato.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Los fiscales deberán excusarse de intervenir en el conocimiento y trámite de los asuntos cuando exista alguna de las causas de impedimento que la ley señala en los mismos casos en que deben hacerlo los jueces y magistrados del Poder Judicial del Estado, así como los magistrados del Tribunal Estatal de Justicia Administrativa; de la excusa conocerá el superior jerárquico inmediato.
 
 En las recusaciones se estará a lo previsto en el Código Nacional.
 
@@ -415,11 +429,9 @@ II. Visitador General;
 
 III. Fiscal de Investigaciones Ministeriales;
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 887 POR EL QUE SE ADICIONÓ ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 28 DE JUNIO DE 2016)</small>
-
-III BIS. FISCAL ESPECIALIZADO EN COMBATE A LA CORRUPCIÓN;
+III. Bis. Fiscalía Anticorrupción;
 
 IV. Fiscales Regionales;
 
@@ -440,6 +452,10 @@ VIII. Fiscales Especiales;
 IX. Fiscales Especializados;
 
 X. Fiscales;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+X Bis. Policía de Investigación;
 
 XI. Peritos;
 
@@ -813,7 +829,9 @@ X. Designar al servidor público que lo supla en sus ausencias temporales, confo
 
 Atribución de Crear y Suprimir Unidades Administrativas
 
-De conformidad con las necesidades del servicio, el Fiscal General podrá establecer, fusionar o suprimir las Fiscalías Especiales o unidades administrativas de la Fiscalía General, mediante acuerdo publicado en la Gaceta Oficial del Estado.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+De conformidad con las necesidades del servicio, el Fiscal General podrá establecer, fusionar o suprimir las Fiscalías Especiales o unidades administrativas de la Fiscalía General, mediante acuerdo publicado en la Gaceta Oficial del Estado, con excepción de la Fiscalía Anticorrupción.
 
 ###### Artículo 33.
 
@@ -839,45 +857,207 @@ De la Unidad de Análisis de la Información.
 
 La Unidad de Análisis de la Información estará adscrita a la oficina del Fiscal General, y cumplirá las funciones que en materia de inteligencia y política criminal establecen esta Ley, su Reglamento, y demás normatividad aplicable.
 
-### CAPÍTULO II. DE LA VISITADURÍA GENERAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO III. DE LA FISCALÍA DE INVESTIGACIONES MINISTERIALES
+### CAPÍTULO I BIS. DE LA FISCALÍA ANTICORRUPCIÓN
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 35 Bis.
+
+La Fiscalía Anticorrupción, es el órgano de la Fiscalía General con autonomía de acción y decisión para investigar y perseguir delitos por hechos de corrupción.
+
+Contará con el personal operativo, directivo, administrativo y auxiliar, capacitados para el debido cumplimiento de sus funciones, así como con las unidades administrativas necesarias para el seguimiento de las investigaciones, encaminadas a combatir los hechos que la ley considera como delitos en materia de corrupción, de conformidad con los recursos y capacidad con que cuente la Fiscalía General.
+
+Para el desarrollo de sus funciones se auxiliará de la Policía Ministerial así como de los Servicios Periciales que, en su caso, deberán dar trámite y desahogo en la investigación de un hecho probable delictivo, al peritaje solicitado en el término que al efecto establezca el Ministerio Público y que resulte acorde con la complejidad del peritaje a realizar; abordando los protocolos respectivos y aplicables.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 35 Ter.
+
+Atribuciones en materia de Combate a la Corrupción
+
+La Fiscalía Anticorrupción contará con las siguientes atribuciones:
+
+I. Ejercer las que la Constitución, las leyes, los reglamentos y demás disposiciones jurídicas confieren al Ministerio Público, en lo relativo a la investigación y persecución de los delitos en materia de su competencia;
+
+II. Implementar planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos en materia de su competencia;
+
+III. Diseñar e implementar estrategias y líneas de acción para combatir los delitos en materia de corrupción;
+
+IV. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendentes a combatir los delitos en materia de corrupción;
+
+V. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con las autoridades de los órdenes y niveles de gobierno respectivos para el debido cumplimiento de sus funciones;
+
+VI. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de corrupción;
+
+VII. Diseñar, integrar e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable, para que pueda ser utilizada por ésta y otras unidades competencia de la Fiscalía;
+
+VIII. Celebrar, en conjunto con el fiscal general, convenios con instituciones y organismos públicos o privados, nacionales o locales, en el ámbito de su competencia;
+
+IX. Participar como integrante en el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+X. Contar con fiscales, peritos, policías de investigación y demás personal que le sean adscritos por conducto de la Subdirección de Recursos Humanos, para la atención de los asuntos de su competencia, sobre los que ejercerá mando directo en los términos señalados en esta Ley;
+
+XI. Proponer, a quien corresponda, el contenido teórico práctico de los programas de capacitación, actualización y especialización respecto del personal adscrito a esta Fiscalía Especializada;
+
+XII. Coordinar y supervisar la actuación de la policía de investigación y peritos adscritos a su área de competencia;
+
+XIII. Emitir acuerdos, circulares, instructivos, bases y demás disposiciones administrativas que rijan la organización y actuación de la Fiscalía en el ámbito de su competencia;
+
+XIV. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización, a fin de fortalecer el desarrollo de las investigaciones en la materia de su competencia;
+
+XV. Requerir a las instancias de gobierno, así como personas físicas y morales, la información útil o necesaria para las investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
+
+XVI. Coadyuvar con otras áreas de la Fiscalía General en el desarrollo de herramientas de inteligencia, investigación y demás que sean necesarias para conocer la evolución de las actividades relacionadas con su competencia;
+
+XVII. Generar sus propias herramientas para identificar patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita, vinculadas a hechos de corrupción;
+
+XVIII. Emitir guías y manuales técnicos, junto con las áreas competentes de la Fiscalía General, para la formulación de dictámenes en materia de análisis fiscal, financiero y contable que requieran los fiscales en cumplimiento de sus funciones de investigación y persecución de hechos materia de su competencia;
+
+XIX. Dirigir, coordinar y realizar la investigación de los hechos que presuntamente constituyan delitos en materia de su competencia;
+
+XX. Llevar a cabo y suscribir la celebración de convenios, en conjunto con el fiscal general, con las entidades federativas para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad, así como de las unidades de inteligencia patrimonial o equivalentes de las entidades federativas, para la investigación y persecución de los hechos materia de su competencia;
+
+XXI. Conducir la investigación para la obtención de datos o medios de prueba relacionados con hechos en materia de corrupción;
+
+XXII. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzca como dueño, dueño beneficiario o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo, cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado;
+
+XXIII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, dueños beneficiarios o beneficiarios controladores, cuyo valor equivalga a los bienes desaparecidos o no localizados por causas atribuibles al imputado o sentenciado, cuando estos bienes estén relacionados con hechos en materia de corrupción, que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
+
+XXIV. Solicitar información a las instituciones públicas federales, estatales o municipales, órganos autónomos estatales o federales y, en general, a cualquier entidad pública o privada, personas físicas y morales;
+
+XXV. Autorizar el criterio de oportunidad, abstención de investigar y archivo temporal, en términos de lo establecido por el artículo 7 de esta Ley, en los asuntos materia de su competencia;
+
+XXVI. Acordar y autorizar, cuando proceda, la propuesta de los Fiscales de su adscripción, la determinación de no ejercicio de la acción penal, previo estudio técnico jurídico de la carpeta de investigación;
+
+XXVII. Supervisar y dar seguimiento a los mandamientos emitidos por el órgano jurisdiccional, así como su cumplimiento en los asuntos de su competencia;
+
+XXVIII. Procurar que los derechos de la víctima u ofendido sean tutelados, preservando los relativos a la reparación del daño cuando sea procedente;
+
+XXIX. Supervisar el funcionamiento de las unidades administrativas que le estén adscritas;
+
+XXX. Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir todas las necesidades que surjan en el desempeño de sus facultades;
+
+XXXI. Ejercer las atribuciones que el Código Nacional de Procedimientos Penales establece para las Procuradurías Generales de Justicia o Fiscalías Generales, en los procesos penales que sean de su competencia, incluso en los casos en que el proceso deba seguirse conforme a disposiciones anteriores al inicio de dicho ordenamiento; y
+
+XXXII. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 35 Quater.
+
+Del fiscal anticorrupción
+
+El fiscal anticorrupción, deberá cumplir con los mismos requisitos para ser fiscal general y será nombrado por el Congreso del Estado, en términos de la Constitución local.
+
+El fiscal anticorrupción durará en su cargo cinco años.
+
+No podrá ser fiscal especializado en Combate a la Corrupción la persona que haya ocupado el cargo de secretario de despacho o su equivalente, fiscal general del Estado, senador, diputado local o federal o presidente municipal, durante el año previo al día de su nombramiento.
+
+Cuando el fiscal anticorrupción esté por concluir el período para el que haya sido nombrado, el fiscal general lo hará saber al Congreso del Estado con dos meses de anticipación, para el nombramiento correspondiente.
+
+En el caso de renuncia o ausencia por más de treinta días el fiscal general notificará de manera inmediata al Congreso del Estado para que emita la convocatoria respectiva.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 35 Quinquies.
+
+De las causas de remoción
+
+El fiscal anticorrupción podrá ser removido por el Congreso del Estado, por sí o a solicitud del fiscal general, cuando se actualice alguna de las causales siguientes:
+
+I. No aprobar las evaluaciones de control de confianza;
+
+II. Hacer uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; siempre y cuando los resultados toxicológicos así lo demuestren, realizados por personal especializado y en presencia de abogado o persona de su confianza;
+
+III. Incurrir en violaciones graves y plenamente acreditadas a los derechos humanos, previstos por la Constitución Federal, la Constitución del Estado y los tratados internacionales de los que el Estado Mexicano sea parte;
+
+IV. Adquirir incapacidad total, cuando los peritajes clínicos así lo determinen y sea validado por un juez;
+
+V. Adquirir incapacidad temporal que impida el correcto ejercicio de sus funciones durante más de un mes, cuando los peritajes clínicos así lo determinen;
+
+VI. Incurrir en responsabilidad administrativa grave en términos de la Ley General de Responsabilidades y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave;
+
+VII. Haber sido condenado por delito doloso;
+
+VIII. Utilizar, en beneficio propio o de terceros, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley; y
+
+IX. Abstenerse de determinar sin causa justificada y en forma reiterada, los asuntos de su competencia dentro los plazos previstos por la Ley.
+
+### CAPÍTULO II. DE LA VISITADURÍA GENERAL
 
 ###### Artículo 36.
 
 De la Visitaduría General
 
-La Visitaduría General es el órgano de control interno de la Fiscalía General, en lo que se refiere a las funciones que realicen sus servidores públicos; por tanto, el Visitador General tiene las atribuciones siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-I. Realizar las visitas de inspección y evaluación técnico-jurídica que determine el Fiscal General a las unidades administrativas que integran la Fiscalía General, a fin de observar e inspeccionar los asuntos que en ellas se ventilan y rendirle el informe correspondiente, con las propuestas que, en su caso, resulten conducentes;
+La Visitaduría General es el órgano de inspección, supervisión y evaluación de la Fiscalía General, estará a cargo de un visitador general, quien será nombrado y removido libremente por el fiscal general y cuenta con las siguientes atribuciones:
 
-II. Ejercer las normas de control acerca del funcionamiento de la Fiscalía General, de acuerdo con las políticas que determine el Reglamento de esta Ley y demás disposiciones legales aplicables;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-III. Emitir recomendaciones genéricas o específicas a los servidores públicos de la Fiscalía General, para subsanar deficiencias detectadas o para la práctica de diligencias que perfeccionen su actuación;
+I. Realizar visitas de inspección ordinarias, extraordinarias y especiales, a fin de verificar la actuación de los servidores públicos de la Fiscalía, para corroborar el debido cumplimiento de la función sustantiva de la misma, elaborar las actas correspondientes y realizar las observaciones, recomendaciones e instrucciones para mejorar el servicio y evitar la continuación de deficiencias o irregularidades, así como rendir los informes que sean necesarios.
 
-IV. Generar las propuestas necesarias para el mejor funcionamiento de la Fiscalía General, que autorice su Titular;
+Se entenderá por función sustantiva la encaminada al cumplimiento de las atribuciones del Ministerio Público, previstas en el Título Segundo de esta Ley y el artículo 34 de su reglamento, así como demás disposiciones aplicables;
 
-V. Verificar y vigilar que los servidores públicos actúen con estricto respeto a los principios de legalidad, imparcialidad, transparencia, honradez y profesionalismo, a fin de prevenir y combatir la corrupción;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VI. Hacer del conocimiento de otras instancias de control o vigilancia, aquellos hechos posiblemente constitutivos de responsabilidad, que no sean de su competencia, pero que sean advertidos en el ejercicio de sus funciones o con motivo de ellas;
+II. Detectar y verificar las faltas u omisiones en que incurran el personal de la Fiscalía, mismas que contravengan esta Ley, su reglamento y demás disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII. Iniciar, substanciar y resolver los procedimientos administrativos de responsabilidad, cuando en la realización de las visitas de inspección o de los estudios técnico-jurídicos que realice en las distintas áreas de la Fiscalía General, se detecten faltas u omisiones que contravengan esta Ley y demás disposiciones aplicables; así como iniciar, substanciar y resolver los procedimientos de separación a que se refiere esta Ley en su Título Octavo, e imponer las sanciones que la ley señale;
+III. Revisar que las actuaciones de los servidores públicos de la Fiscalía, se encuentren debidamente fundadas y motivadas, sean imparciales, idóneas, suficientes y que sus conclusiones cumplan con los requisitos técnicos y jurídicos de la materia en que se desempeñen;
 
-> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VIII. Iniciar las carpetas de investigación, cuando de la realización de las visitas de inspección o de los estudios técnico jurídicos que realice en las distintas áreas de la Fiscalía General, se detecten hechos posiblemente constitutivos de delito cometidos por servidores públicos de la misma, y perseguir el delito ante los tribunales competentes;
+IV. Formular el proyecto de calendario mensual de las visitas ordinarias de inspección y supervisión, a las diversas áreas de la Fiscalía;
 
-IX. Formular el proyecto de calendario mensual de las visitas de inspección y evaluación técnico-jurídica a las diversas áreas de la Fiscalía General, y someterlo a consideración del Fiscal General;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-X. Acordar con el Fiscal General los asuntos relevantes detectados en las visitas de inspección y evaluación técnico-jurídica practicadas por el personal de la Visitaduría General;
+V. Implementar los mecanismos necesarios para realizar una eficaz inspección y supervisión de las actuaciones del personal operativo, en el ejercicio de sus funciones;
 
-XI. Implementar los mecanismos necesarios para realizar una eficaz supervisión respecto de las actuaciones de los servidores públicos en el ejercicio de sus funciones; y
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XII. Las demás que le señalen esta Ley, su Reglamento y otras disposiciones legales aplicables.
+VI. Dar vista al Órgano Interno de Control, cuando conozca de alguna conducta que pueda ser constitutiva de una falta administrativa, que no sea de su competencia, así como a la Fiscalía Anticorrupción cuando se trate de posibles hechos de corrupción;
 
-### CAPÍTULO IV. DE LA ESPECIALIZACIÓN Y DESCONCENTRACIÓN REGIONAL
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VII. Elaborar los dictámenes, opiniones, estudios, informes y demás documentos que les sean solicitados por las unidades administrativas de la Fiscalía o los que les correspondan en razón de sus atribuciones, con base en los sistemas que al efecto se establezcan;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VIII. Establecer los instrumentos y mecanismos de control y resguardo de los expedientes relativos a las inspecciones y supervisiones, en coordinación con las unidades administrativas correspondientes;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IX. Recibir, por cualquier vía, las quejas y denuncias que formulen los particulares y las autoridades o que por cualquier otro medio se tenga conocimiento, sobre actos u omisiones en el desempeño de las funciones de los servidores públicos;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+X. Practicar las diligencias necesarias para la investigación de las quejas y denuncias que conozca, integrando los expedientes correspondientes, para determinar si procede solicitar el inicio de un procedimiento de responsabilidad administrativa al órgano substanciador o, en su caso, una investigación penal a la Fiscalía correspondiente;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XI. Acceder a los sistemas informáticos institucionales, para verificar su correcta operación y ejecución, así como la actualización de las bases de datos, por parte del personal autorizado;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XII. Establecer sistemas de coordinación con las demás unidades administrativas de la Fiscalía, a fin de mejorar el cumplimiento de los programas y actividades a su cargo;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIII. Requerir a autoridades y todo tipo de personas la información que sea necesaria para el cumplimiento de sus atribuciones y proporcionar la que les corresponda, observando las disposiciones en materia de transparencia y acceso a la información pública y protección de datos personales;
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIV. Sistematizar y registrar en una base de datos los períodos de información previa, en coordinación con el Órgano Interno de Control; y
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XV. Las demás que establezcan otras disposiciones aplicables y las que le encomiende el Fiscal General.
+
+### CAPÍTULO III. DE LA FISCALÍA DE INVESTIGACIONES MINISTERIALES
 
 ###### Artículo 37.
 
@@ -885,7 +1065,7 @@ De la Fiscalía de Investigaciones Ministeriales
 
 El titular de la Fiscalía de Investigaciones Ministeriales dirigirá las investigaciones y ejercerá la acción penal de los delitos de relevancia social que determine el Fiscal General.
 
-### CAPÍTULO V. DE LOS FISCALES
+### CAPÍTULO IV. DE LA ESPECIALIZACIÓN Y DESCONCENTRACIÓN REGIONAL
 
 ###### Artículo 38.
 
@@ -897,9 +1077,13 @@ I. Sistema de especialización:
 
 a) La Fiscalía General contará con Fiscalías Especializadas en la investigación y la persecución de delitos, atendiendo a las formas de manifestación de la delincuencia, así como a la naturaleza, complejidad e incidencia de aquéllos;
 
-b) Las Fiscalías Especializadas actuarán en la circunscripción territorial que el Fiscal General determine, mediante acuerdo, en coordinación con las demás unidades administrativas competentes; y
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-c) Las Fiscalías Especializadas contarán con las funciones y estructura administrativa que establezca el reglamento de esta Ley.
+b) Las Fiscalías Especializadas actuarán en la circunscripción territorial que el fiscal general determine, mediante acuerdo, en coordinación con las demás unidades administrativas competentes, con excepción de la Fiscalía Anticorrupción, que tendrá competencia en todo el Estado y deberá coordinarse con los fiscales regionales y todas las unidades administrativas que integran la Fiscalía General, para el debido cumplimiento de sus atribuciones, previo acuerdo con el fiscal general; y
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+c) Las Fiscalías Especializadas contarán con las funciones y estructura administrativa que establezca esta Ley y su reglamento.
 
 (NOTA: EL 5 DE SEPTIEMBRE DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2016, DECLARÓ LA INVALIDEZ TOTAL DEL DECRETO 887 POR EL QUE SE ADICIONÓ ESTE INCISO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -919,9 +1103,7 @@ d) La ubicación y los ámbitos territorial y material de competencia de los Fis
 
 e) El Fiscal General expedirá las normas necesarias para la coordinación y la articulación de los Fiscales de Distrito y las unidades especializadas, a efecto de garantizar la unidad de actuación y dependencia jerárquica de la Fiscalía General.
 
-### CAPÍTULO VI. DE LAS UNIDADES Y SUB-UNIDADES DE ATENCIÓN TEMPRANA
-
-> <small>(REFORMADO SU ACÁPITE, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO V. DE LOS FISCALES
 
 ###### Artículo 39.
 
@@ -1037,7 +1219,9 @@ El Fiscal General deberá informar al Congreso del Estado de la remoción del Fi
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO VII. DE LA POLICÍA DE INVESTIGACIÓN
+### CAPÍTULO VI. DE LAS UNIDADES Y SUB-UNIDADES DE ATENCIÓN TEMPRANA
+
+> <small>(REFORMADO SU ACÁPITE, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 40.
 
@@ -1059,7 +1243,7 @@ c) En caso de que los hechos sean constitutivos de delitos, informar de inmediat
 
 d) Reportar en forma inmediata a la autoridad competente de hechos posiblemente constitutivos de delito o faltas administrativas o que afecten el orden público.
 
-### CAPÍTULO VIII. DE LA CONDUCCIÓN Y MANDO
+### CAPÍTULO VII. DE LA POLICÍA DE INVESTIGACIÓN
 
 ###### Artículo 41.
 
@@ -1069,7 +1253,7 @@ La Fiscalía General, además de ejercer la conducción y mando de las policías
 
 Su estructura orgánica y la forma en la que intervendrá se determinará en esta Ley y su Reglamento, así como en los manuales, acuerdos y circulares expedidos por el Fiscal General.
 
-### CAPÍTULO IX. DE LOS SERVICIOS PERICIALES
+### CAPÍTULO VIII. DE LA CONDUCCIÓN Y MANDO
 
 ###### Artículo 42.
 
@@ -1083,7 +1267,7 @@ La Policía de Investigación estará bajo la conducción y mando del Fiscal Gen
 
 La Policía de Investigación actuará bajo la conducción y mando de la Institución del Ministerio Público, y la auxiliará en la investigación de los delitos y, en su caso, en la persecución de los presuntos responsables. En consecuencia, acatarán las instrucciones que se les dicten para tal efecto, cumplirán las actuaciones que les encomienden durante la investigación y deberán hacer cumplir las citaciones, presentaciones y notificaciones que se le ordenen. También ejecutarán las órdenes de aprehensión, cateos y otros mandamientos que dispongan los órganos jurisdiccionales.
 
-### CAPÍTULO ÚNICO. DE LA RELACIÓN CON LAS POLICÍAS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+### CAPÍTULO IX. DE LOS SERVICIOS PERICIALES
 
 ###### Artículo 43.
 
@@ -1117,9 +1301,7 @@ Los Servicios Periciales también actuarán en auxilio de las instituciones púb
 
 ## TÍTULO QUINTO. DE LA CONDUCCIÓN Y MANDO
 
-### CAPÍTULO I. DE LOS ÓRGANOS
-
-> <small>(REFORMADO SU ACÁPITE, G.O. 8 DE NOVIEMBRE DE 2016)</small>
+### CAPÍTULO ÚNICO. DE LA RELACIÓN CON LAS POLICÍAS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
 ###### Artículo 47.
 
@@ -1185,7 +1367,9 @@ El Fiscal examinará las actuaciones que le hubieren sido entregadas y dispondr�
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO II. DEL CENTRO ESTATAL DE ATENCIÓN A VÍCTIMAS DEL DELITO
+### CAPÍTULO I. DE LOS ÓRGANOS
+
+> <small>(REFORMADO SU ACÁPITE, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 51.
 
@@ -1205,7 +1389,7 @@ IV. Centro de Evaluación y Control de Confianza; y
 
 V. (DEROGADA, G.O. 8 DE NOVIEMBRE DE 2016)
 
-### CAPÍTULO III. DEL ÓRGANO ESPECIALIZADO EN MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
+### CAPÍTULO II. DEL CENTRO ESTATAL DE ATENCIÓN A VÍCTIMAS DEL DELITO
 
 ###### Artículo 52.
 
@@ -1245,7 +1429,7 @@ Coordinación con otras Instituciones
 
 El Centro de Atención a Víctimas del Delito establecerá mecanismos de coordinación con la Comisión Estatal para la Atención Integral a Víctimas del Delito y con otras instituciones públicas y privadas, con la finalidad de vigilar el respeto irrestricto a los derechos humanos de la víctima u ofendido, especialmente para cumplir con lo dispuesto en los Tratados Internacionales en los que el Estado Mexicano sea parte, en los Protocolos en la materia, en la Ley General de Víctimas y demás disposiciones legales.
 
-### CAPÍTULO IV. DEL INSTITUTO DE FORMACIÓN PROFESIONAL
+### CAPÍTULO III. DEL ÓRGANO ESPECIALIZADO EN MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS
 
 ###### Artículo 55.
 
@@ -1255,7 +1439,7 @@ La Fiscalía General contará con un órgano especializado en mecanismos alterna
 
 El Fiscal General podrá suscribir convenios de colaboración con el Poder Judicial del Estado para articular, unificar, eficientar y economizar los servicios de solución de controversias.
 
-### CAPÍTULO V. DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA
+### CAPÍTULO IV. DEL INSTITUTO DE FORMACIÓN PROFESIONAL
 
 ###### Artículo 56.
 
@@ -1305,7 +1489,7 @@ Acreditación del Servicio Social
 
 El Director del Instituto de Formación Profesional expedirá y suscribirá el documento por el que se acredite la prestación del servicio social o la realización de práctica profesional, integrándolo a los expedientes o archivos correspondientes.
 
-### CAPÍTULO VI
+### CAPÍTULO V. DEL CENTRO DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
 ###### Artículo 60.
 
@@ -1449,7 +1633,7 @@ El Centro de Evaluación y Control de Confianza someterá, de manera aleatoria, 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 8 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO ÚNICO. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
+### CAPÍTULO VI
 
 ###### Artículo 73.
 
@@ -1469,7 +1653,7 @@ El Centro de Evaluación y Control de Confianza someterá, de manera aleatoria, 
 
 ## TÍTULO SÉPTIMO. RÉGIMEN DE LOS SERVIDORES PÚBLICOS
 
-### CAPÍTULO I. SERVICIO DE CARRERA
+### CAPÍTULO ÚNICO. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
 
 ###### Artículo 77.
 
@@ -1501,7 +1685,7 @@ IV. Ejercer o desempeñar las funciones de depositario o apoderado judicial, sí
 
 ## TÍTULO OCTAVO. DEL SERVICIO DE CARRERA
 
-### CAPÍTULO II. DE LAS COMISIONES DEL SERVICIO DE CARRERA
+### CAPÍTULO I. SERVICIO DE CARRERA
 
 ###### Artículo 80.
 
@@ -1659,7 +1843,7 @@ VI. Contra la resolución de la Visitaduría General procederá el recurso de Re
 
 VII. Contra la resolución del Fiscal General no procederá recurso alguno.
 
-### CAPÍTULO I. DE LA CONSTITUCIÓN DEL FONDO AUXILIAR
+### CAPÍTULO II. DE LAS COMISIONES DEL SERVICIO DE CARRERA
 
 ###### Artículo 89.
 
@@ -1707,7 +1891,7 @@ VI. Las demás que señalen otras disposiciones legales aplicables.
 
 ## TÍTULO NOVENO. DEL FONDO AUXILIAR
 
-### CAPÍTULO II. DE LA ADMINISTRACIÓN Y OPERACIÓN DEL FONDO
+### CAPÍTULO I. DE LA CONSTITUCIÓN DEL FONDO AUXILIAR
 
 ###### Artículo 92.
 
@@ -1757,7 +1941,7 @@ IX. Cubrir el pago de pólizas con motivo del seguro de vida e incapacidad total
 
 X. Los demás que el Comité Técnico estime convenientes para el mejoramiento de la procuración de justicia.
 
-### CAPÍTULO I. DE LOS COMITÉS ESPECIALIZADOS Y DE LOS CONSEJOS INTERNOS
+### CAPÍTULO II. DE LA ADMINISTRACIÓN Y OPERACIÓN DEL FONDO
 
 ###### Artículo 97.
 
@@ -1835,7 +2019,7 @@ El importe de las multas que, con motivo del Procedimiento de Responsabilidad, s
 
 ## TÍTULO DÉCIMO. OTRAS DISPOSICIONES
 
-### CAPÍTULO II. DE LA CONTRALORÍA GENERAL
+### CAPÍTULO I. DE LOS COMITÉS ESPECIALIZADOS Y DE LOS CONSEJOS INTERNOS
 
 ###### Artículo 107.
 
@@ -1849,13 +2033,59 @@ III. Consejos Distritales de Participación Ciudadana en materia de Procuración
 
 El Reglamento de esta Ley precisará su organización y funcionamiento.
 
-### CAPÍTULO III. DE LAS RESPONSABILIDADES
+### CAPÍTULO II. DE LA CONTRALORÍA GENERAL
+
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 108.
 
-La Fiscalía General contará con una Contraloría General, como órgano auxiliar, y estará a cargo de un Contralor General, quien será nombrado y removido por el Fiscal General; sus percepciones serán acordes con las atribuciones y grado de responsabilidad que se fijen en el Reglamento de esta Ley, y tendrá las funciones de planeación, organización, dirección, supervisión y evaluación de los programas y acciones necesarios para ejercer inspección, vigilancia, control y evaluación del patrimonio, presupuesto, ingresos, gastos, recursos y obligaciones durante el ejercicio presupuestal, así como el control e inspección del cumplimiento de las normas de funcionamiento administrativo que rijan a las unidades administrativas, servidores públicos y empleados de la Fiscalía General, con excepción de aquellas que correspondan expresamente a la Visitaduría General.
+La Fiscalía General contará con una Contraloría General, como órgano interno de control y estará a cargo de un contralor general, quien será nombrado y removido por el Congreso del Estado, a quien le corresponde el ejercicio de las funciones que le otorga la Constitución Federal, la Constitución local, así como las leyes generales y estatales aplicables, tendrá las siguientes atribuciones:
 
-### CAPITULO IV. DE LA SUPLETORIEDAD
+I. Proponer la instrumentación de acciones de mejora en materia de control y evaluación;
+
+II. Difundir entre los servidores públicos de la dependencia, las disposiciones en materia de control y de responsabilidades, que incidan en el desarrollo de sus labores;
+
+III. Realizar las acciones de control y evaluación a los ingresos, gastos, recursos y obligaciones de la Fiscalía General;
+
+IV. Verificar el adecuado ejercicio del presupuesto, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable;
+
+V. Participar en los procesos de entrega y recepción de las unidades administrativas, verificando su apego a la normatividad correspondiente;
+
+VI. Recibir y turnar a la autoridad competente las quejas y denuncias que se interpongan en contra del personal operativo por el ejercicio de su cargo, así como recibir y tramitar las sugerencias y reconocimientos ciudadanos;
+
+VII. Verificar la presentación oportuna de las declaraciones patrimonial y de intereses, así como la constancia de presentación de la declaración fiscal de los servidores públicos;
+
+VIII. Realizar las acciones de control y evaluación, a fin de constatar que se observen las disposiciones jurídicas aplicables en el ejercicio de los recursos federales;
+
+IX. Vigilar que se cumplan con las disposiciones jurídicas aplicables en sus diferentes ámbitos, así como dar vista a la Visitaduría General cuando se trate del cumplimiento de funciones sustantivas;
+
+X. Dar vista a la autoridad competente de los hechos que tenga conocimiento que puedan ser constitutivos de delito;
+
+XI. Mantener informado al fiscal general sobre el cumplimiento de su ámbito competencial;
+
+XII. Investigar, substanciar y resolver los procedimientos de responsabilidad administrativa, salvo cuando sea competencia del sistema disciplinario previsto en esta Ley e imponer sanciones o solicitar su imposición a las autoridades competentes, de conformidad con lo que dispongan las leyes en materia de responsabilidades administrativas y en su caso, ejecutar las sanciones administrativas de su competencia;
+
+XIII. Dar vista a la Fiscalía Anticorrupción en caso de conocer de actos de corrupción atribuibles a los servidores públicos, cometidos en beneficio propio o de tercero;
+
+XIV. Conocer de los asuntos en donde exista concurso de conductas del servidor público y algunas que sean competencia del Órgano Interno de Control y otras sean del sistema disciplinario de esta Ley, a efecto de no dividir la continencia de la causa y emitir una sola resolución con motivo de dicho concurso;
+
+XV. Declinar competencia hacia la Visitaduría General en los casos en que resulte incompetente el Órgano Interno de Control, cuando exista conflicto de interés en su actuación, o cuando se trate de servidores públicos de dicho Órgano;
+
+XVI. Conocer, tramitar y resolver los recursos administrativos que le correspondan, de acuerdo con las disposiciones jurídicas aplicables;
+
+XVII. Vigilar que las actividades de las unidades administrativas, cumplan con las políticas, normas, lineamientos, procedimientos y demás disposiciones jurídicas aplicables en el ámbito de su competencia;
+
+XVIII. Verificar el adecuado ejercicio del presupuesto de la dependencia organismo auxiliar de su adscripción, atendiendo a los principios de racionalidad, austeridad y disciplina presupuestaria que establece la normatividad aplicable;
+
+XIX. Informar al fiscal anticorrupción sobre los resultados obtenidos en la materia, dentro del ámbito de su competencia; y
+
+XX. Las demás que le confieran otras disposiciones jurídicas aplicables.
+
+Las responsabilidades administrativas en que incurran los servidores públicos del Órgano Interno de Control de la Fiscalía, serán investigadas por la Visitaduría General y substanciadas y sancionadas por el fiscal general, por conducto de la unidad jurídica, siempre y cuando éstas no sean competencia del Tribunal Estatal de Justicia Administrativa.
+
+Cuando la denuncia sea contra servidores de la Visitaduría General, la investigación estará a cargo del Órgano Interno de Control.
+
+### CAPÍTULO III. DE LAS RESPONSABILIDADES
 
 ###### Artículo 109.
 
@@ -1868,6 +2098,8 @@ Los servidores públicos sujetos a proceso penal por la probable comisión de al
 ###### Artículo 111.
 
 La responsabilidad en que incurra el Fiscal General se sujetará a lo establecido en el Título Quinto, Capítulo I, de la Constitución del Estado.
+
+### CAPITULO IV. DE LA SUPLETORIEDAD
 
 ###### Artículo 112.
 
@@ -1948,3 +2180,21 @@ TERCERO. El orientador jurídico de la Fiscalía General que haya sido asignado 
 CUARTO. Dentro del término de sesenta días siguientes al inicio de la vigencia del presente Decreto, deberá ajustarse el contenido del Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Veracruz de Ignacio de la Llave, para su pleno cumplimiento.
 
 QUINTO. El Congreso del Estado deberá adecuar, en un plazo no mayor de sesenta días, contado a partir del siguiente al del inicio de vigencia de este Decreto, la legislación en materia de víctimas del delito, a efecto de incorporar las previsiones necesarias para el fortalecimiento del servicio de asesoría jurídica gratuita a las víctimas del delito.
+
+G.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 376 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, con excepción de lo dispuesto en los artículos transitorios siguientes.
+
+Segundo. Por única ocasión el Congreso del Estado procederá al nombramiento del fiscal anticorrupción conforme al siguiente procedimiento:
+
+Dentro de los diez días hábiles siguientes a la publicación del presente Decreto, el Congreso del Estado emitirá la Convocatoria a que hace mención el artículo 67 de la Constitución Política del Estado de Veracruz de Ignacio de la Llave.
+
+El plazo de registro durará cinco días hábiles contados a partir del día siguiente de la publicación de la Convocatoria, la Comisión Permanente de Justicia y Puntos Constitucionales recibirá las solicitudes de registro, realizará las entrevistas y presentará la terna al Pleno para su votación, dentro de los diez días hábiles siguientes al vencimiento del plazo de registro.
+
+Tercero. El Congreso del Estado realizará las acciones necesarias para proveer de recursos a la Fiscalía Anticorrupción. El presupuesto aprobado deberá cubrir los capítulos de servicios personales, materiales y suministros, así como de servicios generales necesarios para cumplir con sus funciones.
+
+Cuarto. La Fiscalía General, dentro del marco de sus atribuciones y en un plazo no mayor a noventa días a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones correspondientes a su Reglamento Interno.
+
+Quinto. Se derogan todas las disposiciones que se opongan al presente Decreto.
