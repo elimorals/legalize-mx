@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-de-lo-contencioso-103724"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-01"
-last_updated: "2016-04-26"
+last_updated: "2017-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103724&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2014-10-22"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 21 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 1 de diciembre de 2014.
 
@@ -1793,3 +1795,17 @@ G.O. 26 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL EL TRIBUNAL DA A CONOCER LA MODIFICACIÓN AL ARTÍCULO 76 DEL REGLAMENTO INTERIOR DE ESTE ÓRGANO JURISDICCIONAL, APROBADO POR LA SALA SUPERIOR EN SESIÓN PLENARIA DEL DÍA 13 DE ABRIL DE 2016”.]
 
 ÚNICO.- La presente modificación entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal del primero de diciembre de dos mil catorce.
+
+TERCERO.- Hasta en tanto no se actualicen los manuales y procedimientos administrativos, continuarán vigentes los existentes, siempre y cuando no se contrapongan al contenido y alcance del presente Reglamento.
+
+CUARTO.- El horario establecido en el presente Reglamento será para el personal de nuevo ingreso; en el caso de los trabajadores que ya laboran en el Tribunal, será respetado el horario establecido en su nombramiento o en las Condiciones Generales de Trabajo, de ser aplicables.
+
+QUINTO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
