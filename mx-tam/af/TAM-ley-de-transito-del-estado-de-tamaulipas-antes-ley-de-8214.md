@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2017-12-15"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAM"
 ---
 # LEY DE TRANSITO DEL ESTADO DE TAMAULIPAS - ANTES LEY DE TRANSITO Y TRANSPORTE -
 
-> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2002.]</small>
+[NOTA 1: DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2002.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -207,9 +209,17 @@ Es obligación de las autoridades de tránsito poner a disposición de la depend
 
 Una vez satisfechos dichos requisitos, se autorizará su circulación, previo pago de las infracciones a que se hiciera merecedor.
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-ARTICULO 14 BIS.- Todo vehículo automotor que circule por las vías públicas en el Estado y sus municipios, deberá contar y portar en el vehículo, póliza de seguro vigente para responder de los daños a terceros, en su persona o bienes, que con motivo del uso del vehículo automotor pudiera producirse a usuarios, peatones, conductores o terceros, en su persona o patrimonio.
+ARTICULO 14 BIS.- Todo vehículo automotor que circule por las vías públicas en el Estado y sus municipios, deberá contar con póliza de seguro vigente para responder de los daños a terceros, en su persona o bienes, que con motivo del uso del vehículo automotor pudiera producirse a usuarios, peatones, conductores o terceros, en su persona o patrimonio. Dicha póliza de seguro deberá portarse en el vehículo por el poseedor del mismo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Los vehículos que no cuenten con placas del Estado de Tamaulipas y que circulen permanentemente en la entidad, deberán contar y portar póliza de seguro vigente a que hace referencia el párrafo anterior y con el engomado que previo pago, será expedido por la Secretaría de Finanzas a tales vehículos, siempre y cuando cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes; este último deberá colocarse en el vehículo de forma visible adherido al vidrio parabrisas delantero lado derecho, con el que se acreditará ante las autoridades correspondientes que cuentan con la póliza de seguro vigente.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+La Policía Estatal y las autoridades de tránsito municipal, conforme las facultades otorgadas en la ley correspondiente, podrán verificar que los vehículos cuenten con el engomado expedido por la Secretaría de Finanzas y la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes; en caso de que el vehículo o el poseedor del mismo, no cuenten o no exhiban la póliza de seguro vigente o con el engomado referido según sea el caso, se emitirán las sanciones correspondientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -383,105 +393,105 @@ Los vehículos estacionados en lugares prohibidos o que obstaculicen el libre tr
 
 Los Ayuntamientos, a través de la dependencia competente, podrán autorizar a los particulares el establecimiento de pensiones o estacionamientos de vehículos en propiedad privada, cumpliendo previamente con las normas de seguridad e higiene y demás disposiciones legales correspondientes.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)</small>
 
 ### CAPITULO VI. DEL SERVICIO PUBLICO DE TRANSPORTE
 
 ###### ARTICULO 28.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 29.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 30.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 31.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 32.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 33.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 34.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 35.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 36.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 37.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 38.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)</small>
 
 ### CAPITULO VII. DE LOS DERECHOS Y OBLIGACIONES DE LOS CONCESIONARIOS
 
 ###### ARTICULO 39.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002).
 
 ###### ARTICULO 40.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002).
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)</small>
 
 ### CAPITULO VIII. DE LA SUSPENSION Y CANCELACION DE LICENCIAS, CONCESIONES Y PERMISOS
 
 ###### ARTICULO 41.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 42.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 43.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 44.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 45.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)</small>
 
 ### CAPITULO IX. DE LAS COMISIONES CONSULTIVAS DEL TRANSPORTE
 
 ###### ARTICULO 46.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 47.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 48.
 
-(DEROGADO POR EL ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010)
+(DEROGADO POR ARTÍCULO TERCERO DEL DECRETO NO. LX-1080, P.O. 2 DE NOVIEMBRE DE 2010 RELATIVO AL DECRETO NO. 668 DE P.O. 12 DE FEBRERO DE 2002)
 
 ### CAPITULO X. DE LAS SANCIONES
 
@@ -565,6 +575,12 @@ VI.- Detención del vehículo automotor y su remisión a las instituciones de re
 
 No obstante lo establecido en la fracción VI del presente artículo, no será remitido a las instituciones de resguardo el vehículo en caso de que su propietario o el conductor del mismo retire el objeto que obstruya la visibilidad del conductor; o impida la visión al interior del vehículo, en el momento que la autoridad correspondiente se lo solicite, lo anterior sin demérito de la aplicación de la multa correspondiente.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VII.- Para el supuesto de que el vehículo o el poseedor del vehículo no exhiba o cuente con el seguro vehicular vigente, se aplicará una multa desde cuarenta hasta sesenta veces el valor diario de la Unidad de Medida y Actualización; y en el caso de que el vehículo no cuente con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, se procederá a la detención del vehículo automotor y se remitirá a las instituciones de resguardo que correspondan y además se aplicará la multa mencionada en este artículo.
+
+Dichas multas no podrán ser condonadas ni reducidas.
+
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
 ###### ARTICULO 50.
@@ -637,6 +653,14 @@ Se abroga el Reglamento de Tránsito en el Estado de Tamaulipas, expedido por De
 
 Los derechos, permisos y concesiones otorgados durante la vigencia del ordenamiento legal a que se refiere el transitorio anterior, no perderán su validez y continuarán rigiéndose por la presente Ley.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO CUARTO.
+
+Para efectos de lo dispuesto en el párrafo segundo del artículo 14 BIS de esta ley, los propietarios de los vehículos deberán cumplir con la obligación señalada, en el periodo comprendido del 1 de febrero al 31 de julio de 2018.
+
+Para efectos de lo dispuesto en la fracción VII del artículo 49 BIS, y acorde al periodo establecido en el párrafo que antecede, una vez transcurrido éste, podrán ser sancionados por las autoridades competentes, los propietarios de los vehículos que incumplan con lo señalado en el segundo párrafo del artículo 14 BIS de la Ley de Tránsito.
+
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 3 de noviembre de 1987.- Diputado Presidente, JOSE M. TERAN BERRONES.- Rúbrica.- Diputado Secretario, RAUL MANDUJANO FLORES.- Rúbrica.- Diputado Secretario, PROFR. ARTURO AGUILAR COBOS.- Rúbricas.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
@@ -646,6 +670,24 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estad
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+En tanto se expide el reglamento a que hace mención esta ley, se continuarán aplicando, de manera supletoria, en todo lo que no se oponga a la misma, el Reglamento de Tránsito y Transporte del Estado de Tamaulipas, los acuerdos relativos y demás disposiciones aplicables.
+
+###### ARTICULO TERCERO.
+
+Se deroga la Ley de Tránsito y Transporte, en lo referente a Transporte Público, publicada en el Periódico Oficial del Estado Número uno extraordinario de fecha lunes 30 de Noviembre de 1987.
 
 ###### ARTICULO CUARTO.
 
@@ -668,24 +710,6 @@ II.- Servicio especializado y de carga:
 Sujeto a las condiciones físicas y mecánicas que determine la Dirección.
 
 Por lo anterior, deberán relacionar en forma consecutiva las unidades que entrarán en dicho proceso, detallando las características de las mismas y el plazo para su renovación.
-
-###### ARTICULO UNICO.
-
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 12 DE FEBRERO DE 2002.
-
-###### ARTICULO PRIMERO.
-
-La presente ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTICULO SEGUNDO.
-
-En tanto se expide el reglamento a que hace mención esta ley, se continuarán aplicando, de manera supletoria, en todo lo que no se oponga a la misma, el Reglamento de Tránsito y Transporte del Estado de Tamaulipas, los acuerdos relativos y demás disposiciones aplicables.
-
-###### ARTICULO TERCERO.
-
-Se deroga la Ley de Tránsito y Transporte, en lo referente a Transporte Público, publicada en el Periódico Oficial del Estado Número uno extraordinario de fecha lunes 30 de Noviembre de 1987.
 
 ###### ARTICULO QUINTO.
 
@@ -782,3 +806,31 @@ P.O. 15 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-373 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRANSITO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del 2018, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para efecto de lo dispuesto en los artículos 93 BIS y 99 de la Ley de Hacienda para el Estado de Tamaulipas, las cuotas por los servicios que prestan los organismos públicos descentralizados deberán publicarse en el Periódico Oficial del Estado, mediante el tabulador que las fije, a más tardar el 01 de febrero del año corriente, acorde a la Ley de Ingresos que corresponda.
+
+###### ARTICULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+###### ARTICULO CUARTO.
+
+Tratándose de las menciones al salario mínimo que se hagan en contratos y convenios, se atenderá a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+###### ARTICULO QUINTO.
+
+El valor de la Unidad de Medida y Actualización, será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+###### ARTICULO SEXTO.
+
+Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
