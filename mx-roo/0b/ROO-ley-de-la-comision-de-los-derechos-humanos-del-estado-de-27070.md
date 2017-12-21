@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-27070"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-13"
-last_updated: "2017-07-19"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 13 de diciembre de 2002.
 
@@ -263,7 +263,7 @@ I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos pol�
 
 II. Tener una residencia en el Estado no menor de 5 años anteriores al día de su designación;
 
-III. Contar, por lo menos, con 30 años cumplidos el día de su designación;
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2009)</small>
 
@@ -273,45 +273,51 @@ IV. Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 V. No haber sido sancionado en el desempeño de algún cargo, empleo o comisión dentro de la administración pública estatal o municipal con motivo de una recomendación de algunos de los Organismos Públicos Defensores de los Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VI. Poseer, al día de su designación, título y cédula profesional de nivel licenciatura, preferentemente de Licenciado en Derecho, y
+VI. Poseer, al día de su designación, con antigüedad mínima de cinco años, título y cédula profesional de nivel licenciatura, preferentemente de Licenciado en Derecho.
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII. No ser Secretario de Estado o Procurador General de Justicia del Estado, a menos que se separe del cargo, un año previo a la designación.
+VII. Contar preferentemente con experiencia en materia de derechos humanos o actividades afines reconocidas por las leyes mexicanas y los instrumentos internacionales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VIII. No haber sido Secretario, Director General o su equivalente en la Administración Pública Paraestatal, Fiscal General del Estado, Senador, Diputado Federal o Local, ni presidente municipal, durante el año previo al de su designación;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IX. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político durante el año previo al de su designación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 16.
 
-El Presidente será designado por el voto de las dos terceras partes de los miembros presentes de la Legislatura, o en sus recesos, por la Diputación Permanente de entre las propuestas que formulen los Grupos Parlamentarios y las organizaciones de la sociedad civil que se encuentren legalmente constituidas en los términos de la legislación civil o aplicable, cuyo objeto social se encuentre vinculado con la promoción y defensa de los derechos humanos. El Presidente durará en su cargo cuatro años.
+El Presidente será designado por el voto de las dos terceras partes de los miembros presentes de la Legislatura, o en sus recesos, por la Diputación Permanente. El Presidente de la Comisión durará en su cargo cuatro años.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-El procedimiento para la designación del Presidente se sujetará al trámite siguiente:
+El procedimiento para la designación del Presidente, se sujetará al trámite siguiente:
 
-I. Llegado el momento de la designación, el Presidente de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios representados en la Legislatura, así como a las organizaciones de la sociedad civil legalmente constituidas en los términos de la legislación civil aplicable, cuyo objeto social se encuentre vinculado con la promoción y defensa de los derechos humanos, para que presenten sus propuestas. Los convocados podrán presentar no más de una propuesta;
+I. Llegado el momento de la designación, el Presidente de la Mesa Directiva de la Legislatura, o de la Diputación Permanente a propuesta de la Comisión de Derechos Humanos de la Legislatura, emitirá una convocatoria pública y abierta, en la que se establecerán los medios idóneos para acreditar el cumplimiento de los requisitos de elegibilidad, así como los plazos y términos que regularán la designación.
 
-II. El plazo para la recepción de propuestas será de cinco días naturales siguientes a la publicación de la Convocatoria en el Periódico Oficial del Estado de Quintana Roo, en dos diarios de circulación en el Estado y en la página Web del Poder Legislativo del Estado de Quintana Roo.
+II. El plazo para la recepción de solicitudes de registro será de diez días naturales siguientes a la publicación de la Convocatoria en el Periódico Oficial del Estado de Quintana Roo, en dos diarios de circulación en el Estado y en la página Web del Poder Legislativo del Estado de Quintana Roo.
 
-Las propuestas se deberán presentar por escrito ante la Oficialía de Partes del Poder Legislativo debiendo acompañar copia certificada de cada documentación que acredite el cumplimiento de los requisitos que establece la ley, así como un escrito firmado por el aspirante donde manifieste su consentimiento para participar en el proceso.
+Las organizaciones de la sociedad civil legalmente constituidas en los términos de la legislación civil aplicable con una antigüedad mínima de dos años, cuyo objeto social se encuentre vinculado con la promoción y defensa de los derechos humanos, que acrediten haber participado u organizado por lo menos dos actividades en el año inmediato anterior al comienzo de este procedimiento podrán proponer a un aspirante al cargo de Presidente de la Comisión de los Derechos Humanos del Estado, mediante escrito ante la Oficialía de Partes del Poder Legislativo, conjuntamente con la documentación certificada que acredite el cumplimiento del aspirante acerca de los requisitos que establece la ley, así como un escrito firmado por el aspirante, mediante el que manifieste su consentimiento para participar en el procedimiento, además de señalar domicilio para oír y recibir notificaciones en la ciudad de Chetumal, a falta de éste, las notificaciones se harán por estrados del Poder Legislativo. En caso de que, aun señalando domicilio para tales efectos, no se pueda llevar a cabo la notificación respectiva por no encontrarse representante que la reciba, la misma se hará mediante estrados del Poder Legislativo.
 
-Los representantes legales de la sociedad civil, así como los coordinadores de los Grupos Parlamentarios deberán señalar por escrito y al momento de presentar su propuesta, domicilio para oír y recibir notificaciones en la ciudad de Chetumal, a falta de éste, las notificaciones se harán por estrados del Poder Legislativo;
+III. Vencido el plazo señalado en la fracción anterior, las propuestas se turnarán inmediatamente a la Comisión de Derechos Humanos de la Legislatura para que proceda a verificar el contenido de la documentación presentada, si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos o que la documentación no es correcta, se notificará a las organizaciones de la sociedad civil, para que a más tardar dentro de los dos días hábiles siguientes contados a partir de la notificación, anexen o corrijan la documentación respectiva. Cumplido este plazo, quienes no hayan subsanado los requisitos o la documentación observada, se tendrá por no presentada la propuesta;
 
-III. Vencido el plazo señalado en la fracción anterior, las propuestas se turnarán inmediatamente a la Comisión de Derechos Humanos de la Legislatura para que proceda a verificar el contenido de la documentación presentada, si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos o que la documentación no es correcta, se notificará al grupo parlamentario que corresponda por conducto de su coordinador o a las Organizaciones de la Sociedad Civil a través de la persona que hayan acreditado para tales efectos, para que a más tardar dentro de los dos días hábiles siguientes contados a partir de la notificación, anexen o corrijan la documentación respectiva. Cumplido este plazo, quienes no hayan subsanado los requisitos o la documentación observada, se tendrá por no presentada la propuesta;
+IV. La Comisión de Derechos Humanos de la Legislatura, dentro de los diez días hábiles siguientes, publicará en los estrados del Poder Legislativo del Estado y en su Página Web, la lista de aspirantes que hayan cumplido con los requisitos, y llevará (sic) cabo las entrevistas a los mismos de manera pública;
 
-IV. Una vez recibidas las propuestas y/o subsanadas las omisiones o errores si los hubieren, la Comisión de Derechos Humanos de la Legislatura, dentro de los tres días hábiles siguientes deberá elaborar el Dictamen que contendrá la relación de las propuestas que cubrieron los requisitos legales;
+V. Una vez concluidas las entrevistas, las organizaciones de la sociedad civil a que se refiere la fracción II de este artículo, excepto aquellas que en términos de la misma fracción hubieren presentado propuesta de aspirante al cargo, así como la ciudadanía en general, podrán emitir opinión en relación a los aspirantes y presentarla por escrito debidamente sustentada ante la Oficialía de Partes del Poder Legislativo dirigida a la Comisión de Derechos Humanos de la Legislatura. El plazo para la recepción de opiniones vencerá a los tres días hábiles siguientes a que hubieren concluido las entrevistas;
 
-V. Una vez emitido el Dictamen se hará del conocimiento de la ciudadanía en general, los nombres de las personas que han cumplido con los requisitos para ocupar el cargo, mediante publicación en la Página Web del Poder Legislativo del Estado y en dos diarios de circulación en el Estado, con el fin de que emitan su opinión debidamente sustentada y por escrito presentada ante la Oficialía de Partes del Poder Legislativo y dirigida a la Comisión de Derechos Humanos de la Legislatura. El plazo para la recepción de opiniones será de tres días hábiles siguientes a la publicación respectiva;
-
-VI. La Comisión de Derechos Humanos de la Legislatura, una vez recibidas las opiniones de la sociedad deberá presentarlas con el Dictamen respectivo a la consideración de la Legislatura o en su caso, de la Diputación Permanente, para que en sesión que para tal efecto se celebre, se someta a votación de sus integrantes, y se determine quién de los candidatos propuestos resultare electo, debiéndole notificar su designación para que acuda a rendir protesta de ley;
+VI. Una vez recibidas las opiniones a que se refiere la fracción anterior, en un plazo no mayor a tres días hábiles siguientes, la Comisión de Derechos Humanos de la Legislatura, elaborará un Dictamen que contenga una terna con los aspirantes que considere idóneos para ocupar el cargo y presentarlo a la consideración de la Legislatura o en su caso de la Diputación Permanente para la designación correspondiente;
 
 VII. El candidato que resulte electo, deberá rendir la protesta de ley correspondiente ante la Legislatura o la Diputación Permanente en su caso, y
 
-VIII. La designación del Presidente se mandará a publicar en el Periódico Oficial del Estado de Quintana Roo y en la página Web del Poder Legislativo del Estado de Quintana Roo.
+VIII. La designación del Presidente se mandará a publicar en el Periódico Oficial del Estado de Quintana Roo y en la página web del Poder Legislativo del Estado de Quintana Roo, señalando el inicio y fin del periodo del encargo.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
@@ -1158,3 +1164,11 @@ SEGUNDO. Las reformas y adiciones a la Ley Orgánica del Tribunal Electoral de Q
 TERCERO. A la entrada en vigor del presente decreto, quien se encuentre ejerciendo las funciones de contraloría interna del Poder Legislativo asumirá las funciones del órgano interno que se crea, hasta en tanto se realiza la designación del Titular del Órgano Interno de Control del Poder Legislativo del Estado.
 
 CUARTO. Los titulares de los Órganos Internos de Control de los órganos autónomos reconocidos por la Constitución Política del Estado Libre y Soberano de Quintana Roo que resulten designados en virtud del presente Decreto, iniciarán sus funciones de conformidad con lo previsto en el presente Decreto hasta el primero de enero del año dos mil dieciocho.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 140 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 15, EL ARTÍCULO 16 Y EL ARTÍCULO 17; SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 15; Y SE ADICIONAN LAS FRACCIONES VIII Y IX DEL ARTÍCULO 15, TODOS DE LA LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que se contrapongan al presente Decreto.
