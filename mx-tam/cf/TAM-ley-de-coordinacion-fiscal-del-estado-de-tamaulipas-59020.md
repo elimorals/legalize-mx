@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2017-02-16"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 16 DE FEBRERO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXIII-92 PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -965,17 +965,21 @@ P.O. 13 DE DICIEMBRE DE 2016.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-92 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS”.]
-
 P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-92 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el 1 de enero del 2017, previa publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto Sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2018 será equivalente al 37 por ciento de los ingresos obtenidos por dicho impuesto.
+
+Este porcentaje será distribuido a cada municipio en proporción a la recaudación que se obtenga de dichos impuestos conforme al domicilio declarado por el contribuyente al efectuar su pago.
 
 ###### ARTÍCULO TERCERO.
 
@@ -986,5 +990,33 @@ Tratándose de las menciones al salario mínimo que se hagan en contratos y conv
 El valor de la Unidad de Medida y Actualización, será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
 
 ###### ARTÍCULO QUINTO.
+
+Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-373 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del 2018, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efecto de lo dispuesto en los artículos 93 BIS y 99 de la Ley de Hacienda para el Estado de Tamaulipas, las cuotas por los servicios que prestan los organismos públicos descentralizados deberán publicarse en el Periódico Oficial del Estado, mediante el tabulador que las fije, a más tardar el 01 de febrero del año corriente, acorde a la Ley de Ingresos que corresponda.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+###### ARTÍCULO CUARTO.
+
+Tratándose de las menciones al salario mínimo que se hagan en contratos y convenios, se atenderá a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+###### ARTÍCULO QUINTO.
+
+El valor de la Unidad de Medida y Actualización, será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
 
 Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
