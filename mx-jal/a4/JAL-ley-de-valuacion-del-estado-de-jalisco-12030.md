@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-valuacion-del-estado-de-jalisco-12030"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-05"
-last_updated: "2015-10-24"
+last_updated: "2017-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE VALUACION DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 26726/LXI/17, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE VALUACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -704,3 +706,11 @@ P.O. 19 DE SEPTIEMBRE DE 2000.
 P.O. 24 DE OCTUBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26726/LXI/17 QUE ABROGA LA LEY DE VALUACIÓN DEL ESTADO DE JALISCO; Y EXTINGUE LA COMISIÓN DE VALUACIÓN DEL ESTADO DE JALISCO; ABROGA EL DECRETO 13605 Y EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; SE ABROGA EL DECRETO 12804 Y EXTINGUE EL CONSEJO FORESTAL Y DE LA FAUNA”.]
+
+PRIMERO. Este decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial “El Estado de Jalisco".
+
+SEGUNDO. Se autoriza al Poder Ejecutivo del estado de Jalisco para que, a través de la Secretaría de Planeación, Administración y Finanzas, realice las adecuaciones pertinentes para el cumplimiento de este decreto en el Presupuesto de Egresos del Gobierno del Estado.
