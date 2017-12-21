@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2017-12-01"
+last_updated: "2017-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -81,7 +81,9 @@ VII.- Bebidas alcohólicas: Aquellas que a la temperatura de 15º centígrados t
 
 Cuando en esta ley se haga referencia a bebidas alcohólicas se entenderá que está incluida la cerveza;
 
-VIII.- Billar o boliche: Establecimiento donde se practica el billar o el boliche, y en el que como servicio se pueden enajenar bebidas alcohólicas para su consumo en el interior del mismo lugar;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Billar o boliche: Establecimiento donde se practica el billar o el boliche, y en el que como servicio se pueden enajenar bebidas alcohólicas para su consumo en el interior del mismo lugar, en el caso de billar este deberá contar cuando menos con cinco mesas para jugar billar y esta deberá ser su actividad principal.
 
 IX.- Bodega: Lugar donde se almacenan bebidas alcohólicas, propio del establecimiento que se dedica a elaborar, envasar o enajenar dichos productos;
 
@@ -101,7 +103,9 @@ XVI.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
 
 XVII.- Centro de espectáculos: Lugar en el que se presentan espectáculos artísticos, deportivos o culturales, cuyo acceso se controla mediante boletos de distribución gratuita u onerosa, en el que se puede enajenar bebidas alcohólicas, que serán servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
 
-XVIII.- Centro recreativo y deportivo o club: Establecimiento donde se ofrecen al público, servicios específicos e instalaciones deportivas, que podrá contar con licencia para la enajenación de bebidas alcohólicas, para su consumo en el interior del mismo lugar;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVIII.- Centro recreativo y deportivo o club: Establecimiento donde se ofrecen al público, servicios específicos e instalaciones deportivas, deberá contar al menos con una cancha de futbol, tenis, alberca o alguna otra superficie donde se practique algún deporte. Y el total de su superficie deberá no ser menor de los diez mil metros cuadrados, que podrá contar con licencia para la enajenación de bebidas alcohólicas, para su consumo en el interior del mismo lugar;
 
 XIX.- Cerveza: Bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquiera semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición del lúpulo o sucedáneos de éste.
 
@@ -129,7 +133,9 @@ XXVIII.- Enajenación: Acto mediante el cual una persona transmite a otra, una c
 
 XXIX.- Enajenación ilícita: Es la venta de bebidas alcohólicas que realice toda persona que no cuente con licencia o permiso, o que teniéndolos, lo haga fuera de los días, de los horarios o de las condiciones establecidas en la ley, en la licencia o en el permiso;
 
-XXX.- Envasadora: Negociación que se dedica al envasamiento de bebidas alcohólicas para su enajenación en envase cerrado y al mayoreo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXX.- Envasadora: Negociación que se dedica al envasamiento de bebidas alcohólicas para su enajenación en envase cerrado sin enfriar y al mayoreo el cual deberá contar con las instalaciones e infraestructura acorde con su objeto
 
 XXXI.- Establecimiento: Lugar destinado para la enajenación, distribución o consumo de bebidas alcohólicas, independientemente del nombre con que se le designe;
 
@@ -169,9 +175,9 @@ XLIII.- Restaurant bar: Establecimiento donde se expenden alimentos para su cons
 
 XLIV.- Sala de degustación para la venta exclusiva de cerveza artesanal: Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos y que cuente con música grabada o en vivo;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XLV.- Salón de recepción: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para diversión de los asistentes y por prestar servicios de banquete, el cual incluye el consumo de bebidas alcohólicas en envase abierto y al copeo en el interior del mismo durante el desarrollo del evento;
+XLV.- Salón de Fiestas y Eventos: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para diversión de los asistentes y por prestar servicios de banquete, el cual incluye el consumo de bebidas alcohólicas en envase abierto y al copeo en el interior del mismo durante el desarrollo del evento, dicho lugar no podrá funcionar como discoteca, bar, restaurant-bar o cualquier otro giro.
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
@@ -209,13 +215,11 @@ Para los efectos de esta ley se considera que la actividad se realiza de manera 
 
 En los abarrotes, agencias o subagencias, almacenes, bodegas, centros comerciales, distribuidoras, expendios o depósitos, licorerías, minisúper y supermercados, la enajenación o distribución de bebidas alcohólicas sólo podrá efectuarse en envase cerrado y para su posterior consumo en lugar distinto a éstos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 7o.
 
-En los bares, billares o boliches, cantinas o tabernas, cabaret o centros nocturnos, casinos, círculos o clubes sociales, cafés cantantes, centros recreativos y deportivos o clubes, centros de espectáculos públicos autorizados, cervecerías, coctelerías, discotecas, fondas, loncherías, taquerías, cenadurías; comedores y similares, inmuebles construidos o habilitados para ferias, restaurantes, restaurantes bar y salones de recepciones, la enajenación de bebidas alcohólicas sólo podrá efectuarse en envase abierto o al copeo y para su consumo en el interior del establecimiento.
+En los bares, billares o boliches, cantinas o tabernas, cabaret o centros nocturnos, casinos, círculos o clubes sociales, cafés cantantes, centros recreativos y deportivos o clubes, centros de espectáculos públicos autorizados, cervecerías, coctelerías, discotecas, fondas, loncherías, taquerías, cenadurías; comedores y similares, inmuebles construidos o habilitados para ferias, restaurantes, restaurantes bar y salón de fiestas y eventos, la enajenación de bebidas alcohólicas sólo podrá efectuarse en envase abierto o al copeo y para su consumo en el interior del establecimiento.
 
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS
 
@@ -283,15 +287,17 @@ XXIV.- Minisuper;
 
 XXV.- Restaurante;
 
-XXVI.- Restaurante-bar;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXVI.- Restaurant Bar;
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
 XXVII.- Sala de degustación para venta exclusiva de cerveza artesanal;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XXVIII.- Salón de recepción;
+XXVIII.- Salón de fiestas y eventos;
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
@@ -357,11 +363,9 @@ IV.- Retirar del establecimiento a las personas ebrias, cuando causen desorden, 
 
 V.- Impedir escándalos en los establecimientos, recurriendo, para evitarlos, a la fuerza pública. Cuando tenga conocimiento o encuentre alguna persona armada o que use o posea, dentro del local, estupefacientes o cualquier otra droga enervante, deberá denunciarlo a la autoridad competente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-VI.- Enajenar únicamente bebidas alcohólicas que no estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan cuando sean constitutivas de delitos, conservando en los establecimientos, y poniéndolos a disposición de la autoridad, los comprobantes del origen de las bebidas alcohólicas que enajenan;
+VI.- Enajenar únicamente bebidas alcohólicas nacionales o extranjeras, siempre y cuando estas últimas hayan cumplido con el pago de los impuestos de importación, así como con las disposiciones y restricciones no arancelarias, que no estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan cuando sean constitutivas de delitos, conservando en los establecimientos, y poniéndolos a disposición de la autoridad, los comprobantes del origen de las bebidas alcohólicas que enajenan;
 
 VII.- Observar los requisitos de funcionamiento de salubridad e higiene que establezcan las leyes y reglamentos respectivos;
 
@@ -441,6 +445,10 @@ III.- Las cantinas o tabernas y cervecerías, de lunes a sábado de las diez a l
 
 IV.- Las loncherías, fondas, coctelerías, taquerías, comedores, cenadurías y otros establecimientos similares que tengan por actividad la enajenación y consumo de alimentos, todos los días de las diez a las veinticuatro horas;
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Estos establecimientos podrán permanecer abiertos, pero no deberán enajenar ni permitir el consumo de bebidas alcohólicas fuera de este horario.
+
 V.- Los billares o boliches, de lunes a sábado de las doce a las veinticuatro horas, y los domingos de las doce a las veintidós horas;
 
 VI.- Los centros recreativos, deportivos o clubes, centros de espectáculos, casinos, círculos o clubes sociales, café cantantes, de lunes a sábado de las doce a las dos horas del día siguiente, y los domingos de las doce a las veinticuatro horas;
@@ -453,13 +461,13 @@ VII.- Los cabarets o centros nocturnos y discotecas, de domingo a jueves de las 
 
 VIII.- Los bares, bares de hotel y motel, restaurantes y restaurantes-bar, de lunes a sábado de las diez a las dos horas del día siguiente, y los domingos de las diez a las veinticuatro horas; y
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IX.- Los salones de recepciones, de lunes a sábado de las diez a las cuatro horas del día siguiente, y los domingos de las diez a las veinticuatro horas.
+En los casos de los restaurantes y restaurant-bar, estos podrán permanecer abiertos, pero no deberán enajenar ni permitir el consumo de bebidas alcohólicas fuera de este horario.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-En los días 15 de septiembre, 24 y 31 de diciembre se podrá optar por observar el horario aplicable a sábado.
+IX.- Los salones de fiestas y eventos, de lunes a sábado de las diez a las cuatro horas del día siguiente, y los domingos de las diez a las veinticuatro horas. En los días 15 de septiembre, 24 y 31 de diciembre se observará el horario aplicable a sábado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -521,9 +529,13 @@ IX.- Constancia expedida por el Ayuntamiento, respecto al cumplimiento de los re
 
 X.- Constancia de no adeudos fiscales, expedida por la Oficina Fiscal del Estado, así como de estar inscrito en el Registro Estatal de Contribuyentes;
 
-XI.- Dos fotografías, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones sanitarias;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XII.- Los establecimientos que expendan bebidas alcohólicas, con excepción de restaurantes, casinos, círculos o clubes sociales, bares de hoteles, discotecas, restaurant bar y supermercados, deberán estar ubicados a una distancia fuera de un perímetro de doscientos metros de otro similar, de planteles educativos, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, centros de trabajo con más de cien empleados, templos religiosos, centros de convivencia o instalaciones deportivas, edificios públicos o de asistencia social, así como en zonas residenciales, exceptuando sus áreas comerciales;
+XI.- Fotografías impresas a color, tanto del exterior como del interior del local, que muestren la totalidad del mismo, incluyendo sus instalaciones de atención al cliente, cocina, instalaciones sanitarias, entre otras, según su caso;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XII.- Los establecimientos que expendan bebidas alcohólicas, con los giros de agencia o subagencias, almacén, bar, bar de motel, billar o boliche, bodega, cabaret o centro nocturno, café cantante, cantina o taberna, centro de espectáculos, cervecería, coctelerías, distribuidora, envasadora, expendio o depósito y licorería, deberán estar ubicados a una distancia fuera de un perímetro de doscientos metros de otro similar, de planteles educativos, centros culturales, hospitales, sanatorios, hospicios, asilos, centros asistenciales, centros de trabajo con más de cien empleados, templos religiosos, centros de convivencia o instalaciones deportivas, edificios públicos o de asistencia social, así como en zonas residenciales, exceptuando sus áreas comerciales; quienes operen establecimientos en contravención a lo señalado en esta fracción, serán sancionados de acuerdo a lo establecido en el artículo 68, fracción IV, inciso j de esta ley.
 
 XIII.- Cubrir el pago de los derechos correspondientes que señala la Ley de Hacienda del Estado;
 
@@ -543,9 +555,15 @@ Recibida la solicitud y los anexos a que se refiere el artículo anterior, en la
 
 Una vez practicada la inspección, y comprobado que el establecimiento reúne los requisitos de ley, el Ejecutivo del Estado, por conducto de la Secretaría, dentro de los treinta días siguientes, resolverá si es de otorgarse o no la licencia correspondiente. Si después de concluido este plazo no se hubiere otorgado la licencia, se considerará como rechazada la solicitud del interesado, empezando a correr a partir de entonces el término para que el solicitante interponga el recurso de reconsideración al que se refiere el capítulo XI de la presente ley.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 28.
 
-La Secretaría podrá otorgar permisos para cada establecimiento que se instale provisionalmente para enajenar bebidas alcohólicas, cuando se trate de la celebración de eventos especiales, ferias, kermesses, salón de recepción, eventos deportivos y fiestas tradicionales. En ningún caso se otorgarán permisos a una misma persona física o moral por más de treinta días en un año de calendario.
+La Secretaría podrá otorgar permisos para cada establecimiento que se instale provisionalmente para enajenar bebidas alcohólicas, cuando se trate de la celebración de eventos especiales, ferias, kermesses, salón de fiestas y eventos, eventos deportivos y fiestas tradicionales. En ningún caso se otorgarán permisos a una misma persona física o moral por más de treinta días en un año de calendario.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+En ningún caso se otorgaran permisos provisionales o eventuales para establecimientos que se encuentren debidamente establecidos y funcionen diariamente, estos deberán tramitar su licencia de funcionamiento conforme al artículo 9 de la presente Ley.
 
 ###### ARTICULO 29.
 
@@ -561,11 +579,7 @@ La transgresión prevista a lo anterior, tendrá como consecuencia la cancelaci�
 
 ###### ARTICULO 31.
 
-Se exceptúa de lo dispuesto en el artículo anterior, el caso de fallecimiento del titular de la licencia, en cuya situación podrá expedirse la licencia a favor del o de los herederos legalmente acreditados, debiéndose elaborar la solicitud correspondiente para que se autorice el cambio respectivo, y entretanto, con la copia de la solicitud recibida, el establecimiento podrá continuar funcionando con la licencia a nombre del fallecido.
-
-En tanto concluye el juicio sucesorio, la licencia permanecerá a nombre del titular fallecido, agregándose el término "sucesores", teniendo como representante legal al albacea designado.
-
-En los casos de cambio de denominación o razón social de las personas morales, se podrá expedir nueva licencia con la modificación mencionada.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 32.
 
@@ -735,7 +749,13 @@ III.- Cuando el establecimiento haya dejado de reunir cualquiera de los requisit
 
 IV.- A quienes vendan bebidas con contenido alcohólico a menores de edad o a las demás personas señaladas en la fracción I del artículo 16 de esta ley, o les permitan su consumo en el interior de su establecimiento;
 
-V.- Cuando se compruebe la enajenación, traspaso o arrendamiento de la licencia o permiso de funcionamiento;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V.- Cuando se compruebe la enajenación, traspaso o arrendamiento de la licencia o permiso de funcionamiento:
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Se considera que no existe enajenación, arrendamiento o traspaso de la licencia, cuando el contratante cumpla con lo establecido en el artículo 51, fracción VIII párrafos segundo y tercero de la Ley de Hacienda para el Estado de Tamaulipas.
 
 VI.- Se realicen actos constitutivos de delitos o que entrañen violación a las leyes y reglamentos aplicables en el interior de los establecimientos a que se refiere la presente ley, sin perjuicio de las sanciones de carácter penal o administrativo a que se dieren lugar, si hay culpa o responsabilidad del propietario o encargado;
 
@@ -911,9 +931,19 @@ III.- Lugares en que lo exija la moralidad o salud pública; y
 
 IV.- Los demás que señalan las leyes y sus reglamentos.
 
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 63.
 
-Queda prohibida la enajenación y consumo de bebidas alcohólicas en los sitios destinados exclusivamente a su almacenamiento, así como en carpas, circos y cines.
+Queda prohibida la enajenación y consumo de bebidas alcohólicas en los sitios destinados exclusivamente a su almacenamiento, así como en carpas circos y cines.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, se prohíbe a todos aquellos establecimientos, la enajenación y consumo de bebidas alcohólicas, ya sea abarrotes, bares, cantina o taberna, coctelería, expendio o deposito, fonda, lonchería, taquería, cenaduría, comedor y similares, minisúper, restaurante y restaurant-bar contemplados en el artículo 10 de esta Ley, que se encuentren a bordo de carreteras en el territorio estatal, fuera de centros poblacionales de acuerdo a lo que establezcan las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+El Estado podrá determinar la prohibición referida en el párrafo anterior, de acuerdo a las condiciones territoriales de los establecimientos que soliciten la licencia para la enajenación de bebidas alcohólicas o su renovación, calificando si éstos se encuentran fuera o dentro de centros poblaciones.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1019,9 +1049,19 @@ i).- A los que violen lo dispuesto en el artículo 62 fracciones III y IV de est
 
 j).- A quienes operen establecimientos en contravención a lo señalado en la fracción XII del artículo 25 de esta ley;
 
-k).- Cuando el establecimiento continúe operando después de haber sido notificada la cancelación de la licencia o permiso; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-l).- A quienes desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores;
+k).- Cuando el establecimiento continúe operando después de haber sido notificada la cancelación de la licencia o permiso;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+l).- A quienes desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores; y
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+m).- A los que vendan bebidas alcohólicas extranjeras sin el debido pago de impuestos de importación y que no hayan cumplido con las disposiciones y restricciones no arancelarias;
+
+En este último caso adicionalmente a la multa, la autoridad visitadora, podrá en el acto embargar precautoriamente la mercancía ilegal y ponerla a disposición de la autoridad competente en materia de comercio exterior y aduanera.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1043,9 +1083,11 @@ VIII.- Con arresto administrativo hasta por treinta y seis horas, multa de quini
 
 IX.- Con multa de diez mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización, a quienes no presenten la declaración a que se refiere el artículo 16 fracción XVII de esta ley o la presente después de haber sido requerida por la Oficina Fiscal del Estado que corresponda al domicilio del obligado.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 69.
 
-En los supuestos señalados en la Fracción III incisos a) y b) del artículo anterior, adicionalmente a la clausura temporal o definitiva, las autoridades encargadas de la aplicación de esta ley procederán, en su caso, a decomisar la mercancía que se encontrare en el establecimiento.
+En los supuestos señalados en las fracciones III incisos a) y b), IV incisos f) y k) y VIII, del artículo anterior, adicionalmente a la clausura temporal o definitiva, las autoridades encargadas de la aplicación de esta ley procederán, en su caso, a decomisar la mercancía que se encontrare en el establecimiento, la cual quedará bajo su guarda y custodia, hasta que se emita una resolución definitiva por parte de la autoridad correspondiente, y en caso de no favorecer al contribuyente, se procederá a la destrucción de la misma.
 
 ###### ARTICULO 70.
 
@@ -1081,7 +1123,9 @@ La Secretaría, para hacer efectivo el cobro de las sanciones económicas impues
 
 El recurso de reconsideración es el medio de defensa legal de los particulares afectados por las resoluciones emitidas por la Secretaría.
 
-Se interpondrá el recurso de reconsideración por escrito ante la propia Secretaría, dentro de los cinco días hábiles siguientes a la notificación de la resolución cuyos efectos se impugne.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Se interpondrá el recurso de reconsideración por escrito ante la propia autoridad competente, dentro de los cinco días hábiles siguientes a la notificación de la resolución cuyos efectos se impugne.
 
 La resolución del recurso podrá dejar sin efecto, modificar o confirmar la resolución impugnada.
 
@@ -1268,3 +1312,31 @@ P.O. 1 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-373 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRANSITO Y DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del 2018, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efecto de lo dispuesto en los artículos 93 BIS y 99 de la Ley de Hacienda para el Estado de Tamaulipas, las cuotas por los servicios que prestan los organismos públicos descentralizados deberán publicarse en el Periódico Oficial del Estado, mediante el tabulador que las fije, a más tardar el 01 de febrero del año corriente, acorde a la Ley de Ingresos que corresponda.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+###### ARTÍCULO CUARTO.
+
+Tratándose de las menciones al salario mínimo que se hagan en contratos y convenios, se atenderá a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+###### ARTÍCULO QUINTO.
+
+El valor de la Unidad de Medida y Actualización, será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
