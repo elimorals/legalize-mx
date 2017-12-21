@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-y-servicios-relacionados-con-ellas-95031"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-16"
-last_updated: "2016-01-11"
+last_updated: "2017-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY NÚMERO 825 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 16 de abril de 2013.
 
@@ -62,6 +64,10 @@ III. El Poder Legislativo;
 IV. Los organismos autónomos del Estado, previstos en el artículo 67 de la Constitución Política del Estado; y
 
 V. Los municipios a través de sus dependencias centralizadas y entidades paramunicipales.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Los titulares o representantes de los Entes Públicos, servidores públicos, particulares, y demás personas que tengan alguna injerencia en los procedimientos de licitación, adjudicación y/o ejecución de obras públicas o servicios relacionados con ellas, deberán observar lo que establece la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave, la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal Anticorrupción de Veracruz de Ignacio de la Llave, respecto de las sanciones, actuaciones y contrataciones atinentes.
 
 > <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
 
@@ -262,6 +268,22 @@ VII. Emitir las opiniones pertinentes cuando se le requiera, respecto a los info
 VIII. Establecer los grupos de trabajo que se estimen pertinentes para el mejor análisis de los asuntos específicos de su interés; y
 
 IX. Las demás que en su caso se establezcan en el Reglamento.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 7 Bis.
+
+Los titulares o representantes de los Entes Públicos que tengan a su cargo la ejecución de obras públicas o servicios relacionados con ellas, deberán remitir a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, los nombres y adscripción de los servidores públicos que intervengan en los procedimientos para contrataciones públicas, ya sea en la tramitación, atención y resolución para la adjudicación de un contrato, otorgamiento de una concesión, licencia, permiso o autorización y su prórroga.
+
+Dicha información deberá ser actualizada de manera quincenal y ser publicada en el portal digital de los Entes Públicos.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 7 Ter.
+
+Los titulares o representantes de los Entes Públicos que tengan a su cargo la ejecución de obras públicas o servicios relacionados con ellas, pondrán a disposición de los particulares en las bases de licitación los formatos que se utilizarán para que formulen un manifiesto de vínculos o relaciones de negocios, personales o familiares, así como de posibles conflictos de interés.
+
+Dichos formatos deberán enviarse a la Plataforma Digital Nacional del Sistema Nacional Anticorrupción, en términos de la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave, la Ley General del Sistema Nacional Anticorrupción y la Ley del Sistema Estatal Anticorrupción de Veracruz de Ignacio de la Llave.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
 
@@ -479,9 +501,11 @@ Los órganos de control respectivos verificarán que para la ejecución de la ob
 
 ### CAPÍTULO IV. DEL PADRÓN DE CONTRATISTAS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 26.
 
-La Sefiplan integrará el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas, fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, capacidad técnica y económica, así como su ubicación en el Estado, a los cuales les asignará un número de registro.
+La SEFIPLAN integrará el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas, fijará los criterios y procedimientos para clasificar a las personas inscritas en él, de acuerdo con su especialidad, actividad, datos generales, nacionalidad, experiencia, capacidad técnica, económica y financiera, e historial respecto de contratos celebrados con las dependencias y entidades de la administración pública estatal, y en su caso, los municipios, a los cuales les asignará un número de registro.
 
 La Sefiplan mantendrá actualizado el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas, que hará público a través de su página electrónica oficial en internet, de conformidad con las disposiciones aplicables en materia de transparencia y protección de datos personales.
 
@@ -491,33 +515,59 @@ Sólo se podrán celebrar contratos de obra pública o de servicios relacionados
 
 La convocatoria y los procedimientos de contratación de la obra pública deberán considerar la clasificación del contratista, atendiendo a su especialidad, capacidad técnica y económica.
 
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 26 Bis.
+
+La SEFIPLAN pondrá a disposición de las Dependencias y Entidades, así como de los Entes Públicos ajenos al Poder Ejecutivo Estatal que celebren el convenio a que hace referencia el artículo 30 de esta Ley, para consulta y cotejo, los documentos que presente el contratista para su registro ante el Padrón.
+
 ###### Artículo 27.
 
 Las personas interesadas en inscribirse en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas, deberán solicitarlo por escrito, acompañando los documentos siguientes:
 
-I. Comprobante de domicilio fiscal;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Tratándose de personas morales, el acta constitutiva, y en su caso, las modificaciones a la misma;
+I. Comprobante de domicilio fiscal y en caso de ser distinto, del domicilio para oír y recibir notificaciones;
 
-III. Tratándose de personas físicas, el acta de nacimiento;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. Identificación oficial;
+II. Tratándose de personas morales, acta constitutiva protocolizada ante fedatario público, sus modificaciones y datos de su inscripción en el Registro Público de la Propiedad y del Comercio;
 
-V. Constancias que prueben la experiencia y especialidad;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VI. Los que acrediten que tiene capacidad y que cuenta con recursos humanos, técnicos y económicos;
+III. Identificaciones oficiales vigentes de los accionistas de las personas morales, y tratándose de personas físicas el acta de nacimiento e identificación oficial vigente;
 
-VII. Estados financieros auditados;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Relación de Accionistas y nombre de sus representantes legales, así como la información relativa a los documentos que los acrediten como tales y sus datos de inscripción en el Registro Público de la Propiedad;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Constancias que prueben la experiencia y especialidad del contratista y la información relativa a los contratos de obras o servicios relacionados con ellas, que lo acrediten concluidos en tiempo y monto, actualizado de forma semestral;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI. Información referente a la capacidad técnica, económica y financiera; los recursos económicos se deberán comprobar con la última declaración anual formulada ante la Secretaria de Hacienda y Crédito Público o con el balance correspondiente, que comprenda hasta sesenta días naturales anteriores a la fecha de solicitud de inscripción;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VII. Acreditar que cuenta con los recursos financieros, con la presentación de estados financieros auditados;
 
 VIII. Maquinaria y equipos disponibles, especificando cual son de su propiedad;
 
-IX. Última declaración anual del pago de impuestos;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IX. Última declaración anual y provisional del pago de Impuestos Sobre la Renta e Impuesto al Valor Agregado, con excepción en los casos de reciente apertura fiscal y, en su caso, del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal del período inmediato anterior;
 
 X. Inscripción en el Registro Federal de Contribuyentes;
 
-XI. Cédula profesional de las personas físicas o de los responsables técnicos de la especialidad de las personas morales;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XII. Registro en el Instituto Mexicano del Seguro Social y en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
+XI. Cédula profesional del responsable técnico y currículum de su experiencia, afín a la especialidad del Registro;
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XII. Constancia de registro patronal ante el Instituto Mexicano del Seguro Social y en el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; y
 
 XIII. En el caso de las personas físicas o morales cuyo domicilio fiscal se encuentre establecido fuera del Estado de Veracruz de Ignacio de la Llave, deberán anexar, además de los requisitos anteriores:
 
@@ -529,13 +579,39 @@ b) Exhibir los contratos de obra pública ejecutada en los últimos tres años a
 
 c) Señalar domicilio para oír y recibir toda clase de notificaciones aún las de carácter personal en el Estado, y acompañar comprobante de tener un domicilio en el territorio del Estado.
 
-Los documentos mencionados en esta fracción deberán ser presentados en original o en documentos certificados legalmente, para su cotejo;
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XIV. Acreditar la capacitación de su personal en instituciones, escuelas u organismos especializados, autorizados y registrados por la Secretaría del Trabajo y Previsión Social en términos de lo dispuesto por la Ley Federal del Trabajo;
 
 XV. Estar inscrito en el Sistema de Información Empresarial Mexicano (SIEM); y
 
-XVI. Los demás documentos e información que la Sefiplan considere pertinentes. Esta dependencia podrá verificar en cualquier tiempo la información a la que se refiere este artículo.
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVI. Opinión de cumplimiento de obligaciones fiscales emitida por el Servicio de Administración Tributaria del mes en curso, y la constancia de cumplimiento de obligaciones fiscales por contribuciones estatales emitida por la Dirección General de Recaudación de la SEFIPLAN; además de la opinión de cumplimiento de obligaciones fiscales en materia de seguridad social; y
+
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVII. Los demás documentos e información que la SEFIPLAN considere pertinentes. Esta dependencia podrá verificar en cualquier tiempo la información a la que se refiere este artículo.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 27 Bis.
+
+La SEFIPLAN, como responsable de la administración del Padrón, tendrá las siguientes funciones:
+
+I. Proporcionar a las dependencias y entidades estatales las claves y contraseñas de acceso para validar o consultar la información en el Padrón;
+
+II. Administrar y actualizar la información contenida en el Padrón;
+
+III. Atender las solicitudes y consultas relacionadas con el Padrón; y
+
+IV. Definir estándares y procedimientos de calidad y seguridad de la información contenida en el Padrón, que garanticen su inalterabilidad y conservación.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 27 Ter.
+
+Para el caso de obras que estén a cargo de los municipios, éstos podrán llevar su propio registro, observando las disposiciones conducentes de este capítulo o bien regirse por el de la SEFIPLAN, previo convenio que al efecto se suscriba entre ambas entidades.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
 
@@ -551,15 +627,17 @@ La Sefiplan, atendiendo a la documentación presentada, podrá reclasificar, en 
 
 El refrendo del registro en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas será anual, presentada la solicitud por el interesado, la Sefiplan resolverá sobre la misma en un plazo no mayor de diez días hábiles, pronunciándose sobre si aprueba o no el refrendo. Los contratistas estarán obligados a proporcionar la información que se les requiera para efectos de actualizaciones o refrendo.
 
-> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 30.
 
-Con la finalidad de simplificar y evitar la presentación de documentación que haya sido validada por la Sefiplan, en los procesos de contratación en su fase de licitación, o invitación a cuando menos tres personas, los Entes Públicos del Poder Ejecutivo Estatal solicitarán únicamente la cédula de identificación del Padrón de Contratistas del Estado y un escrito firmado por el contratista o representante legal, según sea el caso, bajo protesta de decir verdad, en el que se afirme que todos los documentos que fueron presentados para la inscripción al padrón al que se refiere el artículo 27 de esta Ley, se encuentran vigentes.
+Con la finalidad de contar con la información que permita evaluar la acreditación de experiencia, capacidad técnica y financiera en los procesos de contratación en su fase de licitación o invitación a cuando menos tres personas, los Entes Públicos solicitarán la cédula de identificación del Padrón de Contratistas del Estado, así como los documentos que se indiquen en las bases de licitación.
 
-Los demás Entes Públicos ajenos al Poder Ejecutivo Estatal podrán optar por convenir con este último, la utilización del procedimiento descrito en el párrafo anterior.
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-En el caso de licitaciones públicas, cuando el licitante no cuente con la cédula de identificación del Padrón de Contratistas del Estado, deberá presentar la documentación que se establece en el Reglamento para estos efectos.
+La SEFIPLAN pondrá a disposición de los Entes Públicos, para consulta y fines de verificación, una base de datos con los documentos presentados por el Contratista, al momento de inscribirse en el Padrón.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 31.
 
@@ -707,9 +785,9 @@ XI. El señalamiento que para intervenir en el acto de presentación y apertura 
 
 XII. La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica, para efectos de la firma del contrato. Asimismo, la indicación de que el licitante deberá proporcionar una dirección de correo electrónico, en caso de contar con él;
 
-> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XIII. La indicación de que las personas que de acuerdo a lo que prevé esta Ley pretendan participar en el procedimiento de contratación para la ejecución de una obra, manifiesten bajo protesta de decir verdad que los estudios, planes o programas que previamente hayan realizado, incluyen supuestos, especificaciones e información verídicos y se ajustan a los requerimientos reales de la obra a ejecutar; así como, en su caso, consideran costos estimados apegados a las condiciones del mercado. En el supuesto de que la manifestación se haya realizado con falsedad, se sancionará al licitante conforme a lo previsto por esta Ley y demás disposiciones aplicables;
+XIII. La indicación de que las personas que de acuerdo a lo que prevé esta Ley pretendan participar en el procedimiento de contratación para la ejecución de una obra, manifiesten bajo protesta de decir verdad que los estudios, planes o programas que previamente hayan realizado, incluyen supuestos, especificaciones e información verídicos y se ajustan a los requerimientos reales de la obra a ejecutar; así como, en su caso, consideran costos estimados apegados a las condiciones del mercado. En el supuesto de que la manifestación se haya realizado con falsedad, se sancionará al licitante conforme a lo previsto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave.
 
 XIV. La forma en que los licitantes acreditarán su experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
 
@@ -729,7 +807,9 @@ XXI. Porcentaje, forma y términos de las garantías que deban otorgarse;
 
 XXII. Modelo de contrato, del tipo de licitación de que se trate, al que se sujetarán las partes;
 
-XXIII. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo será sancionado en los términos de lo previsto por esta Ley y el Reglamento;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXIII. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo será sancionado en los términos de lo previsto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave.
 
 XXIV. El procedimiento de ajuste de costos que deberá aplicarse, según el tipo de contrato;
 
@@ -741,7 +821,11 @@ XXVII. El domicilio de la oficina o el medio electrónico en que podrán present
 
 XXVIII. Precisar que será requisito el que los licitantes presenten una declaración de integridad, en la que manifiesten, bajo protesta de decir verdad, que por sí mismos o a través de interpósita persona, se abstendrán de adoptar conductas, para que los servidores públicos de los entes públicos, induzcan o alteren las evaluaciones de las proposiciones, el resultado del procedimiento, u otros aspectos que otorguen condiciones más ventajosas con relación a los demás participantes; y
 
-XXIX. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación.
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXIX. Escrito en el cual el contratista manifieste bajo protesta de decir verdad que no desempeña empleo, cargo o comisión en el servicio público o, en su caso, que a pesar de desempeñarlo, con la formalización del contrato correspondiente no se actualiza un conflicto de interés. Dicha manifestación deberá hacerse de conocimiento del Órgano Interno de Control que corresponda, previo a la celebración del acto en cuestión. En caso de que el contratista sea persona moral, dichas manifestaciones deberán presentarse respecto a los socios o accionistas que ejerzan control sobre la sociedad; y
+
+XXX. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación.
 
 ###### Artículo 40.
 
@@ -899,7 +983,9 @@ Los entes públicos se abstendrán de recibir propuestas o celebrar contrato alg
 
 I. Aquellas con las que el servidor público que intervenga en cualquier etapa del procedimiento de contratación, tengan relación personal, familiar o de negocios de las que pueda resultar algún beneficio para él, su cónyuge, concubina o parientes consanguíneos hasta el cuarto grado y por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, para socios o sociedades de las que el servidor público o las personas antes referidas, formen parte; al menos que el servidor público le esté permitido excusarse de intervenir en el procedimiento respectivo;
 
-II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del órgano de control respectivo, conforme a la ley de responsabilidades de los servidores públicos del Estado, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, derivados de la aplicación de las disposiciones relativas, así como de la ley en materia de adquisiciones del Estado, y el presente ordenamiento;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del órgano interno de control respectivo; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público, derivado de la aplicación de las disposiciones relativas, así como de la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave.
 
 III. Los licitantes que participen en un mismo procedimiento de contratación y que se encuentren vinculados entre sí por algún socio o asociado en común;
 
@@ -1205,85 +1291,53 @@ Los contratistas o los entes públicos podrán presentar ante el órgano interno
 
 ### CAPÍTULO IX. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 79.
 
-Los contratistas que incurran en infracciones de esta Ley, así como en el incumplimiento de los contratos, según la gravedad del acto u omisión de que fueren responsables, serán sancionados con:
+Los servidores públicos y los particulares que infrinjan las disposiciones de esta Ley, así como en el incumplimiento de los contratos, según la gravedad del acto u omisión de que fueren responsables, serán sancionados de acuerdo con las disposiciones de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Veracruz de Ignacio de la Llave.
 
-I. Multa equivalente de diez a mil días de salario mínimo general vigente en la capital del Estado en la fecha de la infracción;
+I. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+II. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2017)
 
-II. La suspensión o cancelación del registro en el Padrón, sin perjuicio de lo anterior;
+III. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+IV. (DEROGADA, G.O. 21 DE DICIEMBRE DE 2017)
 
-III. Cuando proceda, el órgano de control interno podrá proponer la rescisión del contrato; y
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2016)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. Inhabilitación temporal para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por esta Ley. La inhabilitación procederá en los siguientes supuestos:
-
-a) Los licitantes que injustificadamente y por causas imputables a los mismos no formalicen el contrato adjudicado por la convocante;
-
-b) Los contratistas a los que se les haya rescindido administrativamente un contrato en dos o más Entes Públicos en un plazo de tres años;
-
-c) Los contratistas que no cumplan con sus obligaciones contractuales por causas imputables a ellos y que, como consecuencia, causen daños o perjuicios graves al Ente Público de que se trate;
-
-d) Los que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una solicitud de conciliación o de una inconformidad;
-
-e) Aquellas que promuevan recursos con el propósito de retrasar o entorpecer la contratación; y
-
-f) Cuando no se entere la multa a que fueron acreedores por algún incumplimiento dentro del plazo establecido y sin que medie la interposición de algún recurso en donde se suspenda el procedimiento sancionador o su ejecución.
-
-La inhabilitación que se imponga no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría General del Estado la haga del conocimiento del Ente Público, mediante la publicación de la circular respectiva en la Gaceta Oficial del Estado y en los medios electrónicos respectivos.
-
-Si al día en que se cumpla el plazo de inhabilitación a que se refiere el párrafo que antecede el sancionado no ha pagado la multa que hubiere sido impuesta en términos de la fracción I de este artículo, la mencionada inhabilitación subsistirá hasta que se realice el pago correspondiente.
-
-Los Entes Públicos, dentro de los quince días siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la Contraloría General del Estado la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 80.
 
-Los servidores públicos que infrinjan las disposiciones de esta Ley, serán sancionados en términos de la ley de responsabilidades aplicable.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2017)
 
 ###### Artículo 81.
 
-Los entes públicos impondrán las multas de acuerdo a los siguientes criterios:
-
-I. Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de destruir prácticas tendentes a infringir, de cualquier forma, las disposiciones de esta Ley o las que se dicten con base en ella;
-
-II. Cuando sean varios los responsables, cada uno será sancionado con el total de la multa que se imponga;
-
-III. Tratándose de contratistas reincidentes, se impondrá otra multa mayor, dentro de los límites señalados en el artículo precedente o se duplicará la multa inmediata anterior que se hubiere impuesto; y
-
-IV. En el caso de que persista la infracción se rescindirá el contrato respectivo, sin perjuicio de hacer efectivas las fianzas otorgadas.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2017)
 
 ###### Artículo 82.
 
-No se impondrán sanciones cuando se haya incurrido en la infracción por causas de fuerza mayor o de caso fortuito, o cuando se observe de forma espontánea el precepto que se hubiere dejado de cumplir. No se considerará que el cumplimiento es espontáneo cuando la omisión sea descubierta por las autoridades o medie un requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2017)
 
 ###### Artículo 83.
 
-En el procedimiento para la aplicación de las sanciones a que se refiere este capítulo, se observarán las siguientes reglas:
-
-I. Se comunicará por escrito al presunto infractor los hechos constitutivos de la infracción, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días hábiles, exponga lo que a su derecho convenga y aporte las pruebas que estime pertinentes;
-
-II. Transcurrido el término a que se refiere la fracción anterior, se resolverá considerando los argumentos y pruebas que se hubieren hecho valer; y
-
-III. La resolución será debidamente fundada y motivada, y se comunicará por escrito al afectado.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2017)
 
 ###### Artículo 84.
 
-Los servidores públicos de los entes públicos, que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las normas que de ella se deriven deberán comunicarlo a las autoridades que resulten competentes.
-
-La omisión a lo dispuesto en el párrafo anterior será sancionada administrativamente.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2017)
 
 ###### Artículo 85.
 
-Las responsabilidades a que se refiere la presente Ley son independientes de las de orden civil, penal, resarcitorio o cualquier otra que resultare de las mismas conductas.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2017)
 
 ###### Artículo 86.
 
-Los actos, convenios y contratos que los entes públicos realicen en contravención a lo dispuesto por esta Ley, serán nulos.
+(DEROGADO, G.O. 21 DE DICIEMBRE DE 2017)
 
 T R A N S I T O R I O S
 
@@ -1338,3 +1392,15 @@ SEGUNDO. Se deroga el artículo Sexto Transitorio de la Ley Número 825 de Obras
 TERCERO. Se concede al Ejecutivo Estatal un plazo de 90 días naturales para expedir el Reglamento de Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave, tomando en consideración las modificaciones realizadas a la misma a través del presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 377 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. La Secretaría de Finanzas y Planeación contará con noventa días hábiles para realizar las adecuaciones administrativas correspondientes.
+
+Tercero. Todos los procedimientos iniciados por probables responsabilidades administrativas de los servidores públicos o particulares, antes de la entrada en vigor de la normatividad en combate a la corrupción, continuarán su trámite y resolución de conformidad con la legislación vigente al momento de su inicio.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
