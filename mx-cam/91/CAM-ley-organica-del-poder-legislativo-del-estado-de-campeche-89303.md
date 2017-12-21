@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2017-07-13"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -665,7 +665,9 @@ Cuando la índole de un asunto amerite que deba ser objeto de estudio por más d
 
 Las comisiones ordinarias ejercerán sus funciones exclusivamente en los lapsos que comprendan los períodos ordinarios y extraordinarios. Los asuntos que se encuentren sin dictaminar, al concluir cada uno de los mencionados períodos, las comisiones deberán entregarlos, en el estado que se encuentren, a la Diputación Permanente para que ésta se aboque a su estudio y emisión de dictamen.
 
-Al concluir el segundo período de receso del tercer año de la Legislatura, la Diputación Permanente entregará, bajo inventario, a la primera Mesa Directiva de la siguiente Legislatura los documentos o expedientes que obren en su poder, en el estado en que se encuentren.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Al concluir el último periodo de receso del tercer año de la Legislatura, la Diputación Permanente entregará, bajo inventario, a la primera Mesa Directiva de la siguiente Legislatura los documentos o expedientes que obren en su poder, en el estado en que se encuentren.
 
 #### Sección Tercera. De las Comisiones Especiales
 
@@ -787,9 +789,11 @@ Los diputados, a partir del momento en que queden investidos como tales, bajo la
 
 Todas las tareas legislativas y de gestión que realicen los diputados tenderán a la procuración del bienestar de la población campechana, sin importar sus preferencias ideológicas o partidistas.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 51.
 
-Para dar cumplimiento a la atribución que se les asigna en la fracción XVIII del artículo 48, los diputados realizarán con periodicidad, individualmente o en grupo, visitas de trabajo a las comunidades urbanas y rurales de la Entidad; visitas de las cuales rendirán informe, en su oportunidad, a la asamblea.
+Para dar cumplimiento a la atribución que se les asigna en la fracción XVIII del artículo 48, los diputados realizarán de forma permanente visitas a sus respectivos distritos o sus circunscripciones plurinominales, y deberán presentar por escrito al Congreso un informe de las actividades realizadas durante el correspondiente ejercicio anual, con antelación de treinta días para su integración al informe anual de labores del Congreso. Dicho informe deberá publicarse en la página electrónica oficial del Congreso del Estado.
 
 ### Capítulo Séptimo. De los Grupos Parlamentarios
 
@@ -827,17 +831,23 @@ Corresponde a los coordinadores de los Grupos Parlamentarios, asistidos de sus r
 
 ### Capítulo Octavo. De las sesiones
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 57.
 
-El Congreso del Estado tendrá dos períodos ordinarios de sesiones y dos períodos de receso por cada uno de los tres años de ejercicio constitucional de una Legislatura.
+El Congreso del Estado tendrá tres periodos ordinarios de sesiones y tres periodos de receso por cada uno de los años de ejercicio constitucional de una Legislatura.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 58.
 
-El primer período ordinario comprenderá del 1 de octubre al 20 de diciembre; y el segundo período tendrá lugar del 1 de abril al 30 de junio. Ambos períodos podrán prorrogarse hasta por 15 días cada uno.
+El primer periodo ordinario comprenderá del 1 de octubre al 20 de diciembre; el segundo periodo tendrá lugar del 1 de febrero al 31 de marzo y, el tercer periodo abarcará del 1 de mayo al 31 de julio. Periodos que podrán prorrogarse hasta por quince días cada uno. Sólo durante el segundo periodo ordinario el Congreso sesionará, cuando menos, una vez por semana.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 59.
 
-El primer período de receso comprenderá del 21 de diciembre al 31 de marzo; y el segundo del 1 de julio al 30 de septiembre.
+El primer periodo de receso comprenderá del 21 de diciembre al 31 de enero; el segundo periodo de receso del 1 de abril al 30 de abril y, el tercer periodo de receso del 1 de agosto al 30 de septiembre.
 
 ###### Art. 60.
 
@@ -1421,33 +1431,43 @@ Capítulo Decimocuarto
 
 Del protocolo o ceremonial
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 106.
 
-En la sesión de apertura de un período ordinario de sesiones el presidente de la Mesa Directiva hará la declaración siguiente: "Siendo los ____ días del mes de ________ del año de ________, se abre él (primer o segundo) período ordinario de sesiones del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+En la sesión de apertura de un periodo ordinario de sesiones el presidente de la Mesa Directiva hará la declaración siguiente: "Siendo los _____días del mes de _______ del año de ______, se abre el (primer, segundo o tercer) periodo ordinario de sesiones del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 107.
 
-En la sesión de clausura de un período ordinario de sesiones el presidente de la Mesa Directiva hará la declaración siguiente: "Siendo los ___ días del mes de ______ del año de ______, se clausura él (primer o segundo) período ordinario de sesiones del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+En la sesión de clausura de un periodo ordinario de sesiones el presidente de la Mesa Directiva hará la declaración siguiente: "Siendo los ____ días del mes de ____ del año de _____, se clausura el (primer o segundo o tercer) periodo ordinario de sesiones del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
 
 ###### Art. 108.
 
 Cuando se trate de la apertura o de la clausura de un período extraordinario de sesiones el presidente de la Mesa Directiva hará similares declaraciones, con las adecuaciones respectivas.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 109.
 
-Al iniciarse un período de receso, la Diputación Permanente expedirá un acuerdo con el texto siguiente: "Siendo los ___ días del mes de _____ del año de _____, se abre él (primer o segundo) período de receso del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+Al iniciarse un periodo de receso, la Diputación Permanente expedirá un acuerdo con el texto siguiente: "Siendo los _____ días del mes de ____ del año de ____, se abre el (primer o segundo o tercer) periodo de receso del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Art. 110.
 
-Al concluir un período de receso el acuerdo que expida la Diputación Permanente será en los términos siguientes: "Siendo los ___ días del mes de ______ del año de ________, se clausura él (primer o segundo) período de receso del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+Al concluir un periodo de receso el acuerdo que expida la Diputación Permanente será en los términos siguientes: "Siendo los ____ días del mes de ___ del año de _____, se clausura el (primer o segundo o tercer) periodo de receso del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
 
 Este acuerdo, así como el previsto en el artículo anterior, será firmado por los secretarios (sic)
 
 de la Diputación.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 111.
 
-En la sesión en que se adopte la resolución de prorrogar un período ordinario de sesiones, el presidente de la Mesa Directiva hará la siguiente declaración: "Se prorroga por (número) días él (sic) (primer o segundo) período ordinario de sesiones, del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
+En la sesión en que se adopte la resolución de prorrogar un periodo ordinario de sesiones, el presidente de la Mesa Directiva hará la siguiente declaración: "Se prorroga por (número) días el (primer o segundo o tercer) periodo ordinario de sesiones del (primer o segundo o tercer) año de ejercicio constitucional de la (número) Legislatura del Congreso del Estado de Campeche."
 
 ###### Art. 112.
 
@@ -2113,9 +2133,11 @@ Si el quórum para la validez de las sesiones no pudiese ser satisfecho, la dete
 
 Emitido el acuerdo, las actividades del Poder Legislativo quedarán en suspenso entretanto dure el impedimento.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 169.
 
-Las iniciativas y propuestas que presenten los diputados en lo particular, o los grupos parlamentarios, o sus coordinadores, que por cualquiera causa no hayan sido turnadas a comisiones, o que habiéndose turnado no hubiesen sido dictaminadas ni por ésas ni por la Diputación Permanente, al concluir el segundo período del tercer año de ejercicio de la Legislatura en la que fueron presentadas, dicha Diputación ordenará su remisión al archivo previa la declaración de haber quedado caducado su derecho a ser objeto de análisis, discusión y dictaminación alguna. El tema sobre el que esas iniciativas o propuestas hayan versado, si aún continuase siendo de interés y actualidad, podrá ser tratado en una nueva iniciativa o propuesta que presente alguno de los integrantes de la subsiguiente Legislatura.
+Las iniciativas y propuestas que presenten los diputados en lo particular, o los grupos parlamentarios, o sus coordinadores, que por cualquiera causa no hayan sido turnadas a comisiones, o que habiéndose turnado no hubiesen sido dictaminadas ni por ésas ni por la Diputación Permanente, al concluir el último periodo de receso del tercer año de ejercicio de la Legislatura en la que fueron presentadas, dicha Diputación ordenará su remisión al archivo previa la declaración de haber quedado caducado su derecho a ser objeto de análisis, discusión y dictaminación alguna. El tema sobre el que esas iniciativas o propuestas hayan versado, si aún continuase siendo de interés y actualidad, podrá ser tratado en una nueva iniciativa o propuesta que presente alguno de los integrantes de la subsiguiente Legislatura.
 
 ###### Art. 170.
 
@@ -2218,3 +2240,11 @@ TERCERO.- Por única ocasión la elección de los integrantes de la Comisión de
 CUARTO.- En un término de 90 días contados a partir de la entrada en vigor de este decreto, deberá armonizarse el marco reglamentario del Órgano Interno de Control, a propuesta del titular del mismo.
 
 QUINTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 237 POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 44, LOS ARTÍCULOS 51, 57, 58, 59, 106, 107, 109, EL PÁRRAFO PRIMERO DEL ARTÍCULO 110, LOS ARTÍCULOS 111 Y 169 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
