@@ -4,7 +4,7 @@ identifier: "VER-reglamento-para-el-gobierno-interior-del-poder-legislativo-2899
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-17"
-last_updated: "2017-11-16"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el lunes 17 de febrero de 2003.
 
@@ -171,9 +171,9 @@ VII. Solicitar a los servidores de la administración pública estatal o municip
 
 VIII. Proponer por escrito a la Junta de Trabajos Legislativos, asuntos para incluirse en el orden del día de las sesiones ordinarias o de las que celebre la Permanente;
 
-> <small>(REFORMADA, G.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IX. Solicitar al Presidente que se verifique el quórum a través del Sistema Electrónico. Si no es posible su operación se verificará mediante el pase de lista cuando se instale la sesión o cuando se vaya a votar algún asunto;
+IX. Solicitar al presidente que se verifique el quórum a través del Sistema electrónico. Si no es posible la operación se verificará mediante el pase de lista;
 
 X. Recibir una dieta mensual, compensaciones, subsidios, ayudas y las demás percepciones necesarias para el cumplimiento de sus funciones legislativas, de control, de representación y de gestoría, de conformidad con las disposiciones presupuestales aplicables.
 
@@ -195,9 +195,11 @@ Son obligaciones de los diputados, además de las establecidas por el artículo 
 
 I. Rendir protesta conforme a lo establecido por el artículo 15 de la Ley;
 
-> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Asistir con puntualidad, y sólo retirarse por causa justificada, cuando se realicen sesiones del Pleno, de la Permanente o de las Comisiones. En las sesiones del Pleno registrarán su asistencia en el Sistema Electrónico que, al efecto, se abrirá treinta minutos antes de la hora fijada para el inicio;
+II. Asistir con puntualidad, y solo retirarse por causa justificada, cuando se realicen sesiones del Pleno, de la Permanente o de las Comisiones. En las sesiones del Pleno registrarán su asistencia en el Sistema Electrónico, el cual se abrirá para tal efecto, treinta minutos antes de la hora fijada para el inicio, y se cerrará en el momento en que aquéllas inicien, previa instrucción del presidente.
+
+Tratándose de las sesiones del Pleno, se contabilizará como asistencia el registro ante el Sistema Electrónico que hagan los diputados hasta quince minutos después de la hora programada para el inicio de la sesión. Transcurrido ese plazo, la asistencia se contabilizará con retardo. Una vez cerrado el Sistema Electrónico, la diputada o el diputado que no haya registrado su asistencia, podrá hacerlo ante la Secretaría, contabilizándose aquélla con retardo.
 
 III. Desempeñar los cargos, funciones y comisiones que les encomiende el Pleno, la Permanente o el Presidente;
 
@@ -311,17 +313,37 @@ Para el caso de la fracción VI, sólo se otorgará un permiso por mes al mismo 
 
 Los diputados dispondrán de dos días hábiles, a partir del siguiente a cuando se produzca la inasistencia para, en su caso, remitir al Presidente la correspondiente solicitud de justificación, con los medios que la acrediten. En ese supuesto, en la siguiente sesión se informará de la justificación de la inasistencia y se harán las anotaciones pertinentes en la documentación relativa a la sesión.
 
-> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 16 Bis.
 
-En ningún caso el Presidente justificará más de seis inasistencias en un período de sesiones ordinarias, salvo por las causas señaladas en las fracciones I y III del artículo anterior.
+A los diputados que, injustificadamente o sin permiso del presidente, faltaren a sesiones, o acumulen más de tres retardos durante el mes, conforme lo dispuesto por el párrafo segundo de la fracción II del artículo 9 de este Reglamento, no se les cubrirá la dieta correspondiente a las sesiones en que hubiesen estado ausentes. Para efectuar el descuento, la Tesorería dividirá la dieta de cada diputado entre el número de sesiones que el Congreso haya celebrado durante el mes.
+
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2017)</small>
 
 Las inasistencias por causa de enfermedad, o durante los períodos pre y post parto, se justificarán hasta por un máximo de ocho sesiones consecutivas o las que se efectúen en un máximo de ocho semanas.
 
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 A los diputados que, injustificadamente o sin permiso del Presidente, faltaren a sesiones, no se les cubrirá la dieta correspondiente a las sesiones en que hubiesen estado ausentes. Para efectuar el descuento, la Tesorería dividirá la dieta de cada diputado entre el número de sesiones que el Congreso haya celebrado durante el mes.
 
+> <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2017)</small>
+
 La documentación emitida por el Sistema Electrónico servirá de soporte, en su caso, para aplicar la sanción prevista en el párrafo anterior.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 16 Ter.
+
+Se computará como inasistencia de la diputada o del diputado a una sesión cuando:
+
+I. No registre su asistencia al inicio;
+
+II. En caso de votación nominal no vote o no manifieste su abstención, en al menos dos tercios de los dictámenes que se discutan en la sesión, salvo que exista causa justificada;
+
+III. Ante la solicitud de un diputado, o a instancia del presidente, se verifique el quórum a través del Sistema Electrónico, o mediante el pase de lista, según sea el caso, y no registre su asistencia; o
+
+IV. Acumule más de tres retardos durante el mes.
 
 #### SECCIÓN SEGUNDA. De las Sanciones
 
@@ -439,7 +461,9 @@ Son atribuciones del Presidente, además de las establecidas por el artículo 24
 
 I. Instruir al Secretario para que verifique la asistencia de los diputados a través del Sistema Electrónico. Si no es posible su operación, se procederá a la aplicación del registro a través del pase de lista; así como para justificar las ausencias que se le hubieren notificado previamente;
 
-II. Declarar que hay o no quórum al momento de instalar la sesión o cuando haya de efectuarse una votación si previamente lo solicitare un diputado;
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+II. Declarar que hay o no quórum al momento de instalar la sesión, cuando haya de efectuarse una votación, o cuando así lo solicite un diputado, en cualquier momento de la sesión;
 
 III. Informar al Pleno, al término de la lista de asistencia, el nombre de los diputados que hayan justificado su inasistencia y los motivos de la misma;
 
@@ -525,9 +549,9 @@ VII. Asentar en las actas de cada sesión el nombre del diputado que la presida,
 
 VIII. Tener a su cargo los archivos que genere el Sistema Electrónico;
 
-> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IX. Registrar, cuando no sea posible hacerlo a través del Sistema Electrónico, la asistencia de los diputados o el sentido de la votación nominal de éstos, lo que hará constar, en su caso, en las relaciones impresas que emita el mismo;
+IX. Registrar, cuando no sea posible hacerlo a través del Sistema Electrónico, la asistencia de los diputados; los retardos, de conformidad a lo dispuesto por el segundo párrafo de la fracción II del artículo 9; o el sentido de la votación nominal de éstos, lo que hará contar, en su caso, en las relaciones impresas que emita el mismo;
 
 > <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2006)</small>
 
@@ -1035,11 +1059,13 @@ VI. El Secretario computará los votos, hará público el resultado y el Preside
 
 Cuando hubiere empate en las votaciones que se refieran a elección de personas, se repetirá la votación en la misma sesión y, si resultaren empatados por segunda vez, se discutirá y votará de nuevo y así sucesivamente, hasta lograr un acuerdo mayoritario.
 
+> <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 100.
 
-Los dictámenes con proyecto de ley, decreto o iniciativa ante el Congreso de la Unión, serán sometidos a votación nominal, tanto en lo general como en lo particular.
+Los Dictámenes con Proyecto de Acuerdo, y los proyectos de Punto de Acuerdo presentados por la Junta de Coordinación Política serán igualmente votados de manera nominal.
 
-Los restantes dictámenes o propuestas se someterán a votación económica, excepto que, a petición de un diputado, secundada por tres diputados, lo sean en votación nominal.
+Las restantes propuestas se someterán a votación económica, excepto que, a petición de un diputado, secundada por tres diputados, lo sean en votación nominal.
 
 ###### Artículo 101.
 
@@ -1810,5 +1836,13 @@ G.O. 16 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 360 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y DEL REGLAMENTO DE LOS SERVICIOS ADMINISTRATIVOS DEL CONGRESO, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 380 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
