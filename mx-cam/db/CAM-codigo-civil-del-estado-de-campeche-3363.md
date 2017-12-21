@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2017-12-12"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -1795,11 +1795,9 @@ VI.- El compromiso expreso de los cónyuges de no realizar actos de manipulació
 
 En el convenio de divorcio por mutuo consentimiento, deberá estipularse la potestad sobre los hijos menores e incapacitados. A falta de estipulación expresa, se entenderá consentida la potestad de ambos cónyuges.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1981)</small>
-
 ###### Art. 284.
 
-El divorcio por mutuo consentimiento, no puede pedirse sino pasado un año de celebrado el matrimonio.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -16376,3 +16374,11 @@ P.O. 12 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 225 POR EL QUE “SE DEROGA EL ARTÍCULO 284 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
