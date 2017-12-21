@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2017-12-15"
+last_updated: "2017-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -361,7 +363,9 @@ II. Formular y dirigir la política de ingresos y egresos del Estado, de acuerdo
 
 III. Emitir políticas, lineamientos y manuales para la planeación, programación, ejercicio presupuestario, ejercicio y evaluación del gasto público con enfoque en resultados a los que deben sujetarse los ejecutores del gasto. Ello sin detrimento de las facultades que las leyes confieren a la Contraloría Gubernamental en materia de Evaluación del Desempeño;
 
-IV. Recaudar y administrar los impuestos, derechos, contribuciones especiales, productos y aprovechamientos del Estado, así como aquellos derivados de los convenios que celebren con la Federación y los municipios, así como dictar las medidas administrativas necesarias para estos efectos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Recaudar y administrar los impuestos, derechos, contribuciones especiales, productos y aprovechamientos del Estado, así como aquellos derivados de los convenios que celebren con la Federación y los municipios, así como dictar las medidas administrativas necesarias para estos efectos; asimismo controlar y vigilar los ingresos que tiene derecho a percibir el Estado por conducto de los organismos públicos descentralizados;
 
 V. Formular el Programa de Gasto Público Estatal y presentar al titular del Poder Ejecutivo los proyectos de Ley de Ingresos y de Decreto del Presupuesto de Egresos del Estado dando la participación que legalmente corresponda al Jefe de la Oficina del Gobernador en los términos de esta Ley, así como las demás propuestas de adecuación al orden normativo para optimizar la administración de las finanzas públicas;
 
@@ -375,11 +379,15 @@ IX. Recibir la información contable, financiera, patrimonial, presupuestal y pr
 
 X. Administrar y custodiar los fondos y valores del Gobierno del Estado y fincar, en su caso, las responsabilidades correspondientes, sin demérito de la acción que compete a la Contraloría Gubernamental y, en su caso, a la Procuraduría General de Justicia;
 
-XI. Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones, verificaciones y demás actos previstos por la legislación fiscal y aduanera para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XI.- Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones, verificaciones y demás actos previstos por la legislación fiscal y aduanera para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios y demás obligados en materia de Comercio Exterior, de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
 
 XII. Ordenar y practicar las visitas domiciliarias, auditorías, inspecciones, verificaciones y demás actos previstos por la legislación fiscal para comprobar el cumplimiento en el pago de impuestos, derechos, aprovechamientos, estímulos fiscales, franquicias, comprobantes fiscales y accesorios de carácter estatal, y de los de carácter federal de acuerdo a las atribuciones y funciones contenidas en los convenios celebrados con la Federación;
 
-XIII. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de visitas domiciliarias, auditorías, inspecciones o verificaciones correspondientes;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIII. Expedir las credenciales o constancias de identificación del personal que se autorice para la práctica de notificaciones, visitas domiciliarias, auditorías, inspecciones, verificaciones y actos del procedimiento administrativo de ejecución;
 
 XIV. Determinar contribuciones omitidas y sus accesorios, así como los demás créditos fiscales que resulten a cargo de los contribuyentes, responsables solidarios y demás obligados;
 
@@ -411,7 +419,9 @@ XXVII. Recibir y resolver las solicitudes presentadas por los contribuyentes res
 
 XXVIII. Resolver las solicitudes de condonación y cancelación de créditos fiscales;
 
-XXIX. Notificar todo tipo de actos administrativos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXIX. Notificar los procedimientos administrativos que lleven a cabo las autoridades fiscales incluso aquellos que deriven del ejercicio de la colaboración administrativa en materia fiscal federal y todo tipo de actos administrativos;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -1604,6 +1614,34 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-373 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del 2018, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efecto de lo dispuesto en los artículos 93 BIS y 99 de la Ley de Hacienda para el Estado de Tamaulipas, las cuotas por los servicios que prestan los organismos públicos descentralizados deberán publicarse en el Periódico Oficial del Estado, mediante el tabulador que las fije, a más tardar el 01 de febrero del año corriente, acorde a la Ley de Ingresos que corresponda.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+###### ARTÍCULO CUARTO.
+
+Tratándose de las menciones al salario mínimo que se hagan en contratos y convenios, se atenderá a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+###### ARTÍCULO QUINTO.
+
+El valor de la Unidad de Medida y Actualización, será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
