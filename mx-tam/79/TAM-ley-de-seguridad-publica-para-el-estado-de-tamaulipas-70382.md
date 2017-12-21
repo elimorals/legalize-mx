@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-70382"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-27"
-last_updated: "2016-09-20"
+last_updated: "2017-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
@@ -669,9 +671,13 @@ XXVII.- Otorgar y garantizar la protección y auxilio en todo momento a las víc
 
 XXVIII.- Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice; y
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XXIX.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+XXIX.- Vigilar y verificar que los vehículos automotores que circulen por las vías públicas en el Estado y sus municipios, cuenten y porten con la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes y con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, según sea el caso.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXX.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
@@ -2165,9 +2171,7 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE JUNIO DE 2016.
 
-> <small>[N. DE E. TRANSITORIOS DEL“DECRETO NO. LXII-964 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NO. LXII-249, DEL 25 DE JUNIO DE 2014 Y PUBLICADO EN EL PERIÓDICO OFICIAL NO. 77, DEL 26 DE JUNIO DE 2014, Y SE ABROGA LA LEY DE JUSTICIA DE PAZ PARA EL ESTADO DE TAMAULIPAS, EXPEDIDA MEDIANTE DECRETO NO. LIX-935, DEL 31 DE MAYO DE 2007, PUBLICADA EN EL PERIÓDICO OFICIAL NO. 92 DEL 1 DE AGOSTO DE 2007".]</small>
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-989, MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO TERCERO Y LOS ARTÍCULOS 20 PÁRRAFO 1, FRACCIONES IV Y V Y 26; Y SE ADICIONAN LA FRACCIÓN VI AL PÁRRAFO 1, DEL ARTÍCULO 20 Y EL ARTÍCULO 26 BIS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-964 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NO. LXII-249, DEL 25 DE JUNIO DE 2014 Y PUBLICADO EN EL PERIÓDICO OFICIAL NO. 77, DEL 26 DE JUNIO DE 2014, Y SE ABROGA LA LEY DE JUSTICIA DE PAZ PARA EL ESTADO DE TAMAULIPAS, EXPEDIDA MEDIANTE DECRETO NO. LIX-935, DEL 31 DE MAYO DE 2007, PUBLICADA EN EL PERIÓDICO OFICIAL NO. 92 DEL 1 DE AGOSTO DE 2007".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2178,6 +2182,8 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Todos los procesos y recursos iniciados con las disposiciones que mediante el presente Decreto, se reforman o adicionan, deberán concluirse con el procedimiento mediante el cual se iniciaron; sin embargo, para efecto de la competencia jurisdiccional en materia penal de los juzgados menores, se atenderá al contenido de las declaratorias emitidas por el Congreso del Estado para la operación del Sistema de Justicia Penal Acusatorio y Oral, conforme a las fechas de vigencia, territorio y delitos en ellas precisados.
 
 P.O. 20 DE SEPTIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-989, MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO TERCERO Y LOS ARTÍCULOS 20 PÁRRAFO 1, FRACCIONES IV Y V Y 26; Y SE ADICIONAN LA FRACCIÓN VI AL PÁRRAFO 1, DEL ARTÍCULO 20 Y EL ARTÍCULO 26 BIS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2196,3 +2202,31 @@ Sin demérito de lo establecido en el párrafo que antecede, los elementos que f
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-373 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del 2018, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efecto de lo dispuesto en los artículos 93 BIS y 99 de la Ley de Hacienda para el Estado de Tamaulipas, las cuotas por los servicios que prestan los organismos públicos descentralizados deberán publicarse en el Periódico Oficial del Estado, mediante el tabulador que las fije, a más tardar el 01 de febrero del año corriente, acorde a la Ley de Ingresos que corresponda.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+###### ARTÍCULO CUARTO.
+
+Tratándose de las menciones al salario mínimo que se hagan en contratos y convenios, se atenderá a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+###### ARTÍCULO QUINTO.
+
+El valor de la Unidad de Medida y Actualización, será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
