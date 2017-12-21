@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-organica-de-la-fiscalia-general-de-121352"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-05-02"
-last_updated: "2017-05-02"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el martes 2 de mayo de 2017.
 
@@ -2259,6 +2259,16 @@ Para el eficaz desempeño de las atribuciones del Fiscal General, y sin perjuici
 
 Para el eficaz desempeño de las atribuciones del Fiscal General, y sin perjuicio de su ejercicio directo por parte del mismo, delega íntegramente y para todos los delitos; de conformidad con la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y la legislación local e internacional aplicable; con independencia de lo establecido en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, según las reglas para la imposición del internamiento preventivo, establecidas en el artículo 122 de la Ley Nacional en la materia; en el Sistema de Justicia Penal Acusatorio, en el titular de la Fiscalía Especializada en Procuración de Justicia para Adolescentes: la autorización de la determinación del no ejercicio de la acción Penal, a que se refiere el artículo 255 del Código Nacional de Procedimientos Penales; para lo cual antes de la Audiencia Inicial, el Agente del Ministerio Público Especializado en Procuración de Justicia para Adolescentes enviará la carpeta de investigación a la Dirección General de la Fiscalía Especializada en Procuración de Justicia para Adolescentes; dentro del término de quince días, para que su titular, oyendo el parecer de sus Agentes Especiales, autorice en definitiva si debe o no ejercitarse la acción Penal.
 
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 132 BIS.- El Fiscal General acuerda delegar en el Director General de la Fiscalía Especializada en Procuración de Justicia para Adolescentes y Corrupción de Menores, para que en el marco de una investigación y en el ámbito de su competencia, ejerza la facultad de planear, autorizar y ejecutar entregas vigiladas y operaciones encubiertas previstas en el artículo 251 fracción IX del Código Nacional de Procedimientos Penales.
+
+Lo anterior, teniendo como protocolos de actuación la planeación, la autorización y la ejecución de las entregas vigiladas y las operaciones encubiertas, a través de los Agentes Ministeriales de Investigación Criminal, quienes actuaran en el caso concreto bajo su coordinación, dirección y mando en los procesos tácticos y operativos de: Planeación, recolección, procesamiento, análisis, difusión, explotación y retroalimentación de información; con la finalidad de evaluarla sistemáticamente, para su conversión en conocimientos específicos, mediante:
+
+I. Análisis de inteligencia criminal: reuniendo información sobre organizaciones delictivas, estructuras, jerarquización interna, modo de operación, circuito criminal específico, identificación personal de los integrantes; destinada al planeamiento y ejecución de las operaciones tácticas de su localización, detención y desarticulación; con el propósito de su Procesamiento Penal; y,
+
+II. Análisis Investigativo Criminal: generando procedimientos destinados a crear un perfil del delincuente basado en las características de los delitos que cometiera; para su localización, detención y su Procesamiento Penal.
+
 ###### ARTÍCULO 133.
 
 La Dirección General de la Fiscalía Especializada en Procuración de Justicia para Adolescentes; tendrá a su cargo Unidades Especializadas en Procuración de Justicia para Adolescentes en los Distritos Judiciales de San Luis Rio Colorado, Caborca, Navojoa, Nogales, Ciudad Obregón, Hermosillo, Guaymas y Agua Prieta; así como las siguientes Unidades de carácter itinerante:
@@ -2702,3 +2712,11 @@ EL FISCAL GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 LIC. RODOLFO ARTURO MONTES DE OCA MENA
 
 > <small>[N. DE E. VÉASE IMAGEN EN LA SECCIÓN II DEL B.O. DE 2 DE MAYO DE 2017, PÁGINA 67.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ADICIONA EL ARTÍCULO 132 BIS DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA”.]
+
+PRIMERO (SIC).- El presente Acuerdo entrará en vigor al día siguiente de su expedición, independientemente de la fecha de su publicación, que deberá ser en el Boletín Oficial del Gobierno del Estado.
