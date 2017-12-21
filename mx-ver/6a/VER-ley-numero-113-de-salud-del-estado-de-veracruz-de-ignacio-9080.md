@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2017-07-04"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -136,6 +136,10 @@ XVIII.- Participar con las autoridades federales en el desarrollo de los program
 > <small>(ADICIONADA, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 XVIII Bis.- La Protección Social en Salud.
+
+> <small>(ADICIONADA, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVIII Ter.- El desarrollo de programas de salud en materia de donación y trasplante de órganos, tejidos y células; así como la promoción de una cultura de la donación, procuración y trasplante de los mismos;
 
 > <small>(REFORMADA, G.O. 9 DE FEBRERO DE 2016)</small>
 
@@ -3177,6 +3181,118 @@ El Consejo Estatal de Protección Social en Salud estará integrado por el titul
 
 El Consejo Estatal de Protección Social en Salud ejercerá las atribuciones que le otorgue su reglamento interior, que será expedido por el Titular del Ejecutivo Estatal, el cual establecerá, así mismo, las reglas para su organización y funcionamiento.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+TITULO DECIMOSEXTO
+
+DE LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 357.
+
+La donación y trasplante de órganos, tejidos y células de seres humanos con fines terapéuticos, se sujetará a lo dispuesto en la Ley General de Salud, sus disposiciones reglamentarias, las normas oficiales mexicanas en la materia, así como en los lineamientos que emitan organismos internacionales y demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 358.
+
+Para efectos de este Título, se estará a las definiciones que se desprenden de los artículos 314 y 343 de la Ley General de Salud, así como a las siguientes:
+
+I. Centro Estatal de Trasplantes: El Centro Estatal de Trasplantes de Órganos, Tejidos y Células de Seres Humanos del Estado de Veracruz; y
+
+II. Comité Interno de Trasplantes: El órgano interdisciplinario integrado con personal de la salud especializado de cada establecimiento de salud autorizado para realizar trasplantes.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 359.
+
+El Gobierno del Estado, a través del Centro Estatal de Trasplantes, concurrirá con las autoridades federales en la materia, a efecto de coadyuvar en los objetivos del Subsistema Nacional de Donación y Trasplantes, así como en las diversas acciones y actividades que las mismas determinen en sus programas.
+
+Asimismo, las autoridades sanitarias estatales procurarán el apoyo y la coordinación con el Centro Nacional de Trasplantes, los Centros de Trasplantes de las demás entidades federativas, las instituciones de educación superior a través de sus escuelas y facultades de medicina, los colegios y las academias legalmente reconocidos de medicina, cirugía y ciencias y las instituciones de salud públicas, sociales y privadas con autorización legal y capacidad técnica para realizar, conforme a los procedimientos jurídicos y protocolos médicos aplicables, la disposición de órganos y tejidos con fines terapéuticos.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 360.
+
+El Centro Estatal de Trasplantes tiene las atribuciones siguientes:
+
+I. Difundir y promover el cumplimiento, en el ámbito estatal de las Normas Oficiales Mexicanas, Lineamientos, Procedimientos y disposiciones emitidas por el Centro Nacional de Trasplantes, en materia de disposición de órganos, tejidos, células y cadáveres de seres humanos, incluyendo la extracción, donación, trasplante y asignación y demás normatividad aplicable;
+
+II. Promover en el estado de Veracruz que los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes se ajusten a las disposiciones aplicables, en beneficio de las personas que lo necesitan;
+
+III. Promover convenios, acuerdos y bases de coordinación y colaboración con Instituciones del Sector Salud de Veracruz, así como otros documentos que apoyen, para facilitar y mejorar el cumplimiento de sus funciones;
+
+IV. Coadyuvar con el Centro Nacional de Trasplantes en la acreditación y evaluación de los profesionales que realizan actos de disposición de órganos y tejidos, así como la integración de los comités internos de trasplantes;
+
+V. Integrar y mantener actualizados, en coordinación con el Centro Nacional de Trasplantes, los expedientes de los establecimientos de salud que tengan autorización para la disposición de órganos, tejidos, células y cadáveres con fines de trasplantes, de conformidad en lo establecido por la normatividad aplicable;
+
+VI. Coordinar conjuntamente con el Centro Nacional de Trasplantes, los métodos de asignación de órganos a nivel estatal;
+
+VII. Supervisar y dar seguimiento en el estado, dentro del ámbito de su competencia, al procedimiento de asignación con fines terapéuticos de órganos, tejidos y células, con excepción de las células progenitoras hematopoyéticas;
+
+VIII. Emitir opiniones técnicas que sean requeridas sobre asuntos específicos en materia de trasplantes que se realicen en el estado de Veracruz;
+
+IX. Fomentar en el estado de Veracruz la cultura de la donación, en coordinación con el Consejo Nacional de Trasplantes;
+
+X. Implementar y diseñar acciones en relación con la donación y trasplante de órganos, tejidos y células y publicar o difundir, previa valoración y autorización del Centro Nacional de Trasplantes y áreas competentes;
+
+XI. Diseñar cursos de capacitación e impartirlos, previa valoración y autorización del Centro Nacional de Trasplantes y áreas competentes, al personal de salud que participe en donaciones y trasplantes de órganos y tejidos, así como a la población en general;
+
+XII. Integrar y coordinar módulos de información al público para promover la donación de órganos y tejidos en el estado y establecer mecanismos de participación de la sociedad;
+
+XIII. Promover, bajo la coordinación del Centro Nacional de Trasplantes, acciones de cooperación en materia de trasplantes y en el ámbito de sus atribuciones, con instituciones del Sector Salud de Veracruz, organismos gubernamentales y no gubernamentales estatales, nacionales e internacionales, y con empresas de la iniciativa privada;
+
+XIV. Coordinar con las áreas correspondientes el sistema estadístico estatal en materia de trasplantes;
+
+XV. Coadyuvar con las autoridades sanitarias federales y estatales en términos de los acuerdos o convenios de coordinación que, para tal efecto, se suscriban, en lo referente al control y vigilancia de las donaciones y trasplantes de órganos, células y tejidos de seres humanos, así como de las actividades relacionadas con éstos, de los establecimientos en que se realicen dichos actos y que los profesionales de las disciplinas de la salud que intervengan en la extracción de órganos y tejidos o en trasplantes, se ajusten a las disposiciones legales aplicables a la materia;
+
+XVI. Expedir en el ámbito estatal, a solicitud de los interesados, el documento oficial de donación mediante el cual se manifieste el consentimiento expreso de todas aquellas personas cuya voluntad sea donar sus órganos después de su muerte, para que sean utilizados en trasplantes. Lo anterior bajo los lineamientos del Centro Nacional de Trasplantes;
+
+XVII. Dar aviso a las instancias correspondientes cuando se detecten irregularidades en el desarrollo de las atribuciones en el ámbito de competencia estatal; y
+
+XVIII. Las demás disposiciones legales aplicables, así como las órdenes y acuerdos delegatorios que expida el director general de Servicios de Salud de Veracruz.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 361.
+
+La Secretaría de Salud Estatal y el Centro Estatal de Trasplantes se coordinarán con las autoridades competentes, para la realización de actividades educativas, de investigación y de difusión para el fomento de una cultura de donación, procuración y trasplantes de órganos, tejidos y células. Se considerará de interés público promover la cultura de la donación de órganos, tejidos y células.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 362.
+
+El Gobierno del Estado, a través del Centro Estatal de Trasplantes, garantizará mecanismos eficaces para:
+
+I. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos, tejidos y células en términos de las disposiciones aplicables, y
+
+II. Promover que los establecimientos en los que se realice la procuración y trasplante de órganos, tejidos y células, realicen los procedimientos de trasplante en forma oportuna y adecuada en beneficio de los usuarios de los servicios de salud.
+
+Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos actuarán con la debida diligencia que ameritan estos casos y auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 363.
+
+Corresponde a la Secretaría de Salud del Estado, a través del Centro Estatal de Trasplantes y de los establecimientos de salud autorizados para obtener órganos, tejidos y células con fines de trasplantes, intervenir en el proceso de procuración y donación de órganos, tejidos y células, en los términos previstos en la Ley General de Salud, su reglamento en materia de trasplantes y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 364.
+
+Al ser advertida en el proceso de donación, procuración, asignación y trasplante de órganos, tejidos y células, de cualquier irregularidad, deberá darse aviso al Centro Estatal de Trasplantes para que éste lleve a cabo las acciones procedentes.
+
+> <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 365.
+
+La Secretaría de Salud Estatal y el Centro Estatal de Trasplantes, en el ámbito de sus respectivas competencias, harán constar el mérito y altruismo del donador y de su familia, que los reconozca como benefactores de la sociedad.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -3402,5 +3518,13 @@ G.O. 4 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 292 QUE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 4° DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 381 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
