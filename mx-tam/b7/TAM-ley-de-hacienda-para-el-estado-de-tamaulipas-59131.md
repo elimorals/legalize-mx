@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2017-05-23"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -173,9 +173,11 @@ II. El acto, convenio o contrato se celebre o surta sus efectos en el Estado, si
 
 III. Los bienes objeto del acto gravado se encuentren dentro del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 8.
 
-Son sujetos de este impuesto, las personas físicas o morales que habitual o accidentalmente realicen actos gravados por este impuesto.
+Son sujetos de este impuesto, las personas físicas o morales que habitual o eventualmente realicen actos gravados por este impuesto.
 
 ###### Artículo 9.
 
@@ -201,23 +203,27 @@ El impuesto se causará sobre el importe del 2 por ciento sobre su base.
 
 Tratándose de vehículos, el impuesto no podrá ser menor a diez veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 11.
 
-El pago del impuesto deberá ser efectuado a más tardar el día siguiente hábil a aquel en que se haya realizado cualquiera de los actos, convenios o contratos objeto de este impuesto.
+Tratándose de contribuyentes o retenedores habituales, efectuarán el pago a más tardar el día quince del mes siguiente, por las operaciones correspondientes al mes inmediato anterior por el que causaron el impuesto o estuvieron obligados a retener.
 
-En los casos en que los actos gravados se deriven de convenios o contratos, el impuesto se pagará a más tardar al día siguiente hábil de su fecha, independientemente del momento en que surtan sus efectos.
-
-Tratándose de contribuyentes o retenedores habituales, efectuarán el pago a más tardar el día 15 del mes siguiente, por las operaciones correspondientes al mes inmediato anterior por el que causaron el impuesto o estuvieron obligados a retener.
+Tratándose de contribuyentes que eventualmente realicen actos gravados por este impuesto, el pago del mismo deberá ser efectuado a más tardar el día hábil siguiente a aquel en que se haya realizado cualquiera de los actos, convenios o contratos objeto de este impuesto, independientemente del momento en que surtan sus efectos.
 
 ###### Artículo 12.
 
 Los bienes y negociaciones de los cuales se deriven ingresos gravados por este impuesto, responderán por el pago de éste.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 13.
 
-Los sujetos de este impuesto tendrán las siguientes obligaciones:
+Los sujetos habituales de este impuesto tendrán las siguientes obligaciones:
 
-I. Tratándose de contribuyentes habituales, solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas, utilizando al efecto las formas aprobadas. La Secretaría de Finanzas podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+I. Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas, utilizando al efecto las formas aprobadas. La Secretaría de Finanzas podrá de oficio inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado;
 
 II. Presentar declaración en las oficinas autorizadas, junto con la documentación o contratos de este impuesto;
 
@@ -493,7 +499,9 @@ Para efectos de este Capítulo, se presume que el propietario es tenedor o usuar
 
 Los contribuyentes pagarán el impuesto por año de calendario ante las oficinas autorizadas durante los seis primeros meses, salvo en los casos de vehículos nuevos o importados, supuestos en los que el impuesto deberá calcularse y enterarse previamente al momento en el cual se solicite el registro del vehículo en el padrón vehicular o realice cualquier trámite tendiente a obtener la autorización o permiso de cualquier índole para circulación en traslado.
 
-El impuesto se pagará en las oficinas o instituciones autorizadas por la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+El impuesto será calculado y determinado por la autoridad fiscal y se pagará en las oficinas o instituciones autorizadas por la Secretaría de Finanzas del Estado.
 
 El pago antes mencionado se realizará de manera simultánea con los Derechos por los Servicios de Control Vehicular establecidos en esta ley y demás contribuciones que resulten aplicables dentro del trámite realizado.
 
@@ -769,7 +777,7 @@ El Gobierno del Estado podrá celebrar convenios con las autoridades federales c
 
 #### Sección Tercera. del Registro Público del Comercio
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 42.
 
@@ -1045,9 +1053,9 @@ La Federación, el Estado, los Municipios, los organismos autónomos y las entid
 
 Son responsables solidarios del pago de este impuesto quienes contraten, subcontraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago se realice por conducto de terceros o intermediarios.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Se entiende por subcontratación, el trabajo por medio del cual un contratista o subcontratista ejecuta obras o presta servicios con trabajadores bajo su dependencia, a favor de otra persona física o moral que resulta beneficiaria de los servicios contratados, la cual fija las tareas a realizar y supervisa el desarrollo de los servicios o la ejecución de las obras contratadas.
+Se entiende por subcontratación, el trabajo por medio del cual un contratista, subcontratista, comisionista, asociado, afiliado, intermediario, consignatario o cualquier otra persona física o moral que desempeñe función análoga, ejecuta obras o presta servicios con trabajadores bajo su dependencia, a favor de otra persona física o moral que resulta beneficiaria de los servicios contratados, la cual fija las tareas a realizar y supervisa el desarrollo de los servicios o la ejecución de las obras contratadas.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -1151,9 +1159,17 @@ VI.- Conservar la documentación comprobatoria del pago de las remuneraciones ob
 
 VII.- Registrar su calidad de contribuyentes, para efectos de pago y control, según sea el caso, si la administración principal de su empresa está fuera del Estado, pero establezcan sucursales, bodegas, agencias, oficinas u otras dependencias dentro del territorio del propio Estado, cuando se encuentren gravadas por este impuesto o cuando sólo tengan las otras obligaciones;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Retener el impuesto a que se refiere este Capítulo, las personas físicas o morales que contraten o subcontraten la prestación de servicios, de contribuyentes cuyo domicilio esté ubicado dentro o fuera del territorio del Estado, para que pongan a su disposición, personal que lleve a cabo la actividad a la que se dedique, siempre que el servicio personal subordinado se preste en el territorio de esta entidad y que las cantidades que el prestador del servicio erogue a favor de sus trabajadores o quienes presten servicios personales independientes, den lugar a las erogaciones gravadas por este impuesto;
+VIII.- Las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado, deberán retener el impuesto a que se refiere este capítulo a los contribuyentes cuyo domicilio esté ubicado dentro o fuera del territorio del Estado, cuando éstos pongan a su disposición, personal que lleve a cabo la actividad a la que se dedique, siempre que el servicio personal subordinado se preste en el territorio de esta entidad y que las cantidades que el prestador del servicio erogue a favor de sus trabajadores o quienes presten servicios personales independientes, den lugar a las erogaciones gravadas por este impuesto;
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+En tratándose de las personas físicas o morales que operen con comisionistas, asociados, afiliados, intermediarios, consignatarios o cualquier otra persona física o moral que desempeñe función análoga, deberán obtener de éstos copia de los comprobantes por concepto del pago del Impuesto Sobre Remuneraciones al Trabajo Personal Subordinado, así como del pago de las cuotas obrero patronales al Instituto Mexicano del Seguro Social. Los comisionistas, asociados, afiliados, intermediarios, consignatarios o cualquier otra persona física o moral que desempeñe función análoga o como se les señale, están obligados a entregar al contratante los comprobantes y la información a que se refiere este párrafo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Los contratantes a que se refiere el párrafo anterior, deberán informar en la declaración mensual a que se refiere el artículo 50 de esta Ley, el número de empleados según sea el caso, el impuesto pagado y folio de la declaración de sus comisionistas, asociados, afiliados, intermediarios, consignatarios o cualquier otra persona física o moral que desempeñe función análoga.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -1251,7 +1267,9 @@ b) Instituciones sin fines de lucro que realicen o promuevan asistencia social e
 
 c) Las asociaciones religiosas debidamente registradas ante la Secretaría de Gobernación;
 
-d) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+d). Las asociaciones civiles que impartan educación en cualquiera de sus niveles y que cuenten con autorización o reconocimiento de validez oficial y con planes de estudio autorizados por las autoridades competentes, y las federales por cooperación; y
 
 e) Clubes de servicio.
 
@@ -1407,9 +1425,17 @@ El cobro de los derechos establecidos en el presente Título III dará lugar, en
 
 Los derechos por concepto de constancias, certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por servidores públicos del Gobierno del Estado, se causarán conforme a la siguiente tarifa:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE .E ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-I. Búsqueda de expedientes y documentos, tres veces el valor diario de la Unidad de Medida y Actualización; certificación o expedición de copia certificada, una vez el valor diario de la Unidad de Medida y Actualización por hoja. Tratándose de certificación de averiguaciones previas, expedientes de procedimientos judiciales o administrativos, se cobrará hasta 15 hojas, una vez el valor diario de la Unidad de Medida y Actualización; hasta 40 hojas, dos veces el valor diario de la Unidad de Medida y Actualización; hasta 70 hojas, tres veces el valor diario de la Unidad de Medida y Actualización; hasta 105 hojas, cuatro veces el valor diario de la Unidad de Medida y Actualización; y de 106 hojas en adelante, cinco veces el valor diario de la Unidad de Medida y Actualización;
+I.- Búsqueda de expedientes y documentos, tres veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Expedición de constancias, certificaciones o copias certificadas de expedientes y documentos, dos veces el valor diario de la Unidad de Medida y Actualización si las hojas del documento no exceden de 15; de 16 a 30 hojas cuatro veces el valor diario de la Unidad de Medida y Actualización; de 31 a 50 hojas seis veces el valor diario de la Unidad de Medida y Actualización; de 51 en adelante siete veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de certificación de averiguaciones previas, expedientes de procedimientos judiciales o administrativos, se cobrará hasta 15 hojas, una vez el valor diario de la Unidad de Medida y Actualización, hasta 35 hojas, dos veces el valor diario de la Unidad de Medida y Actualización; hasta 60 hojas, tres veces el valor diario de la Unidad de Medida y Actualización; hasta 90 hojas, cuatro veces el valor diario de la Unidad de Medida y Actualización; hasta 115 hojas, cinco veces el valor diario de la Unidad de Medida y Actualización; hasta 150 hojas seis veces el valor diario de la Unidad de Medida y Actualización; y de 151 hojas en adelante, siete veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1451,9 +1477,7 @@ I. Por el examen para obtener la patente de aspirante de Notario Público, tresc
 
 II. Por el examen para obtener el fíat de Notario Público, cuatrocientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-III. Constancia de no inhabilitación para el servicio público, tres veces el valor diario de la Unidad de Medida y Actualización;
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1491,17 +1515,27 @@ d).- Por la autorización de cada libro del protocolo notarial, cinco veces el v
 
 e).- Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, una veces (sic) el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+f).- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
-f).- Localización de instrumento inscrito en los protocolos, tres veces el valor diario de la Unidad de Medida y Actualización por año de búsqueda; expedición de copia certificada de los mismos, dos veces el valor diario de la Unidad de Medida y Actualización si las hojas del documento no exceden de 15; de 16 a 30 hojas cuatro veces el valor diario de la Unidad de Medida y Actualización; de 31 a 50 hojas seis veces el valor diario de la Unidad de Medida y Actualización; de 51 en adelante siete veces el valor diario de la Unidad de Medida y Actualización; certificado con reserva de prioridad 10 veces el valor diario de la Unidad de Medida y Actualización; certificado informativo, de no propiedad, de única propiedad, índice de titulares e informes, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización;
+g).- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+h).- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
-g).- Expedición de testimonios, diez veces el valor diario de la Unidad de Medida y Actualización, despacho de copias certificadas para elaboración de testimonios, se cobrará hasta 15 hojas, una vez el valor diario de la Unidad de Medida y Actualización; hasta 40 hojas, dos veces el valor diario de la Unidad de Medida y Actualización; hasta 70 hojas, tres veces el valor diario de la Unidad de Medida y Actualización; hasta 105 hojas, cuatro veces el valor diario de la Unidad de Medida y Actualización; y de 106 hojas en adelante, cinco veces el valor diario de la Unidad de Medida y Actualización; y
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
+VIII. Por la expedición de constancia de funciones notariales solicitadas por los notarios y adscritos del Estado de Tamaulipas, cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-h).- Por la búsqueda de aviso de testamento en el Registro Local de Avisos de Testamento y en su caso la expedición de constancia de existencia o inexistencia de disposición testamentaria, solicitadas por particulares que acrediten su interés legítimo, cinco veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IX. Los servicios prestados por la Dirección de Asuntos Notariales, se causarán conforme a lo siguiente:
+
+a).- Localización de instrumento inscrito en los protocolos, tres veces el valor diario de la Unidad de Medida y Actualización por año de búsqueda; expedición de copia certificada de los mismos, dos veces el valor diario de la Unidad de Medida y Actualización si las hojas del documento no exceden de 15; de 16 a 30 hojas cuatro veces el valor diario de la Unidad de Medida y Actualización; de 31 a 50 hojas seis veces el valor diario de la Unidad de Medida y Actualización; de 51 en adelante siete veces el valor diario de la Unidad de Medida y Actualización; certificado con reserva de prioridad 10 veces el valor diario de la Unidad de Medida y Actualización; certificado informativo, de no propiedad, de única propiedad, índice de titulares e informes, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización;
+
+b).- Expedición de testimonios, diez veces el valor diario de la Unidad de Medida y Actualización, despacho de copias certificadas para elaboración de testimonios, se cobrará hasta 15 hojas, una vez el valor diario de la Unidad de Medida y Actualización; hasta 40 hojas, dos veces el valor diario de la Unidad de Medida y Actualización; hasta 70 hojas, tres veces el valor diario de la Unidad de Medida y Actualización; hasta 105 hojas, cuatro veces el valor diario de la Unidad de Medida y Actualización; y de 106 hojas en adelante, cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+c).- Por la búsqueda de aviso de testamento en el Registro Local de Avisos de Testamento y en su caso la expedición de constancia de existencia o inexistencia de disposición testamentaria, solicitadas por particulares que acrediten su interés legítimo, cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+d).- Por la búsqueda de aviso de poder en el Registro Local y/o Nacional de Avisos de Poderes y en su caso la expedición de constancia de existencia o inexistencia del mismo, solicitadas por particulares que acrediten su interés legítimo, cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 61.
 
@@ -1525,13 +1559,13 @@ Los derechos por actas del Registro Civil se causarán conforme a la siguiente t
 
 I. INSCRIPCIONES.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-1.- Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos del estado civil de las personas, una vez el valor diario de la Unidad de Medida y Actualización. La inscripción de hechos relativos al nacimiento, y la expedición de la primer acta certificada de nacimiento, se hará sin pago alguno de derechos;
+1. Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos del estado civil de las personas, una vez el valor diario de la Unidad de Medida y Actualización. La inscripción de hechos relativos al nacimiento y la defunción, así como la expedición de la primer acta certificada de nacimiento y defunción, se hará sin pago alguno de derechos;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2.- Inscripción de actas de matrimonio, diez veces el valor diario de la Unidad de Medida y Actualización, cuando se celebre en la oficialía; y veinticinco veces el valor diario de la Unidad de Medida y Actualización, cuando éste sea celebrado fuera de la sede de la oficialía, así como en día u hora inhábil; e
+2. Inscripción de actas de matrimonio, diez veces el valor diario de la Unidad de Medida y Actualización, cuando se celebre en la oficialía; y cuarenta veces el valor diario de la Unidad de Medida y Actualización, cuando éste sea celebrado fuera de la sede de la oficialía, así como en día u hora inhábil; e
 
 3. Inscripción de actas de divorcio:
 
@@ -1561,31 +1595,31 @@ a).- La inscripción de las resoluciones judiciales de cancelación o rectificac
 
 b).- La corrección de errores en inscripciones causará la cuota igual al importe de tres veces el valor diario de la Unidad de Medida y Actualización, y;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-c).- Por la anotación del cambio de régimen patrimonial del matrimonio, efectuado por la vía judicial o ante Notario Público, dos veces el valor diario de la Unidad de Medida y Actualización.
+c).- Por la anotación del cambio de régimen patrimonial del matrimonio, efectuado por la vía judicial o ante Notario Público, diez veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 III. CERTIFICACIONES.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a).- Por la expedición de certificaciones de actas y constancias que obren en los libros del Registro Civil, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización por hoja;
+a).- Por la expedición de certificaciones de actas y constancias que obren en los libros del Registro Civil, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización por hoja, así mismo por la expedición de certificaciones de actas de manera digital, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización por hoja.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 b).- Las certificaciones de firmas, inscripciones, anotaciones, índices o apéndices que obren en los libros o en la base de datos de cualquier Oficialía o del archivo central del Registro Civil, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización, por hoja, y;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-c).- Por la expedición de copias certificadas de actas que obren en la base de datos del Registro Civil, en lugar distinto al de su registro, por medio de la conexión estatal entre la Coordinación General, Oficialías y Cajeros Automatizados, el importe igual a una vez el valor diario de la Unidad de Medida y Actualización.
+c).- Por la expedición de copias certificadas de actas que obren en la base de datos del Registro Civil, en lugar distinto al de su registro, por medio de la conexión estatal entre la Coordinación General, Oficialías y Cajeros Automatizados, el importe igual a una vez el valor diario de la Unidad de Medida y Actualización, así mismo por la expedición de certificaciones de actas de manera digital, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización por hoja.
 
 IV. DIVORCIO ADMINISTRATIVO.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Por la realización del trámite para la obtención de divorcio administrativo que efectúen las Oficialías del Registro Civil del Estado, incluyendo la anotación respectiva para la cancelación del matrimonio, se causará una cuota igual al importe de treinta veces el valor diario de la Unidad de Medida y Actualización.
+Por la realización del trámite para la obtención de divorcio administrativo que efectúen las Oficialías del Registro Civil del Estado, incluyendo la anotación respectiva para la cancelación del matrimonio, se causará una cuota igual al importe de treinta y cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1615,9 +1649,11 @@ e).- Por la expedición de copias certificadas de actas, de distinto Estado del 
 
 f).- Por el trámite y expedición de constancias diversas derivadas de la actividad del registro civil, distintas a las enunciadas en las fracciones del presente artículo, una vez el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 63.
 
-En los derechos que se causen por matrimonios a domicilio, los Oficiales del Registro Civil y sus Secretarios, tendrán derecho a una participación, los primeros de un 12 por ciento y los segundos de un 7 por ciento.
+En los derechos que se causen por matrimonios a domicilio, los Oficiales del Registro Civil y sus Secretarios, tendrán derecho a una participación, los primeros de un treinta por ciento y los segundos de un diez por ciento.
 
 ###### Artículo 64.
 
@@ -1627,9 +1663,11 @@ Los servicios que se presten en el Instituto Registral y Catastral del Estado de
 
 I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, fideicomisos, de resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, sobre el valor 8 al millar; por lo que hace a la inscripción de Cancelaciones de cualquier índole, se pagará el importe de diez veces el valor diario de la Unidad de Medida y Actualización por inscripción practicada;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Por la calificación de todo documento que se devuelva sin cumplimentar por carencia u omisión de requisitos, impedimento legal o a petición del interesado, cada vez que se presente, el importe de una vez el valor diario de la Unidad de Medida y Actualización;
+II. Por la calificación de todo documento que se devuelva al solicitante, denegado y/o con defecto, por carecer u omitir requisitos legales de forma y fondo del acto jurídico, para su reingreso deberá cubrir el importe de una vez el valor diario de la Unidad de Medida y Actualización;
+
+Debiendo la autoridad registral, en un solo momento realizar todas las observaciones al documento que se someta a calificación.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1639,17 +1677,17 @@ III. La inscripción de la escritura constitutiva, cualquier modificación a la 
 
 IV. Por la revocación o renuncia de los poderes, por cada apoderado se cobrará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, 4 al millar. La inscripción de cédulas hipotecarias, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización. La inscripción de sujeción a litigio, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización por anotación.
+V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, cuatro al millar. La inscripción de cédulas hipotecarias, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización. La inscripción de sujeción a litigio, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización por anotación.
 
-En el caso de ampliación de embargo previamente registrado, aun tratándose de diversos inmuebles, con el importe de siete veces el valor diario de la Unidad de Medida y Actualización.
+En el caso de ampliación de embargo previamente registrado y tratándose de diversos inmuebles, con el importe de siete veces el valor diario de la Unidad de Medida y Actualización, por cada inmueble.
 
 VI. La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío otorgados por instituciones de crédito, de seguros o de fianzas sobre el importe de la operación, 4 al millar;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII. La inscripción de las informaciones ad-perpetuam, en las que no se adquiera el dominio o posesión de bienes inmuebles, con el importe de cinco veces el valor diario de la Unidad de Medida y Actualización; por finca.
+VII. La inscripción de las informaciones ad-perpetuam, en las que no se adquiera el dominio o posesión de bienes inmuebles, con el importe de cinco veces el valor diario de la Unidad de Medida y Actualización; por finca;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1663,25 +1701,25 @@ IX. La inscripción de la condición de resolutoria sobre bienes inmuebles en lo
 
 X. La inscripción de fraccionamientos de terrenos, así como de actos, contratos, convenios o resoluciones judiciales o administrativas por las que se lotifique, relotifique, divida, subdivida o fusione un inmueble por cada lote que resulte, causarán los derechos de inscripción siguientes:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 a).- Lote urbano, siete veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b).- Lote rústico, cinco veces el valor diario de la Unidad de Medida y Actualización;
+b).- Lote rústico y/o campestre, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 Por la inscripción de la constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad siete veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-En el caso de las fusiones, el pago de derechos se hará, en los términos citados, por cada uno de los lotes fusionados, más el lote resultante.
+En el caso de las fusiones, el pago de derechos se hará, en los términos citados, por cada uno de los lotes fusionados.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XI. El depósito de testamentos, búsqueda de testamento y expedición de constancias respectivas, por cada una cinco veces el valor diario de la Unidad de Medida y Actualización;
+XI. El depósito de testamentos, búsqueda de testamento y expedición de constancias respectivas, por cada una seis veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1701,9 +1739,9 @@ XV. Certificación o expedición de copia certificada de los mismos, dos veces e
 
 XVI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XVII. Por la expedición de avisos preventivos en los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión total o parcial de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, el importe de diez veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad;
+XVII. Por la expedición de Certificados con Reserva de Prioridad y/o avisos preventivos en los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión total o parcial de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, el importe de diez veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1711,9 +1749,9 @@ XVIII. Por la inscripción de contratos de mutuo con garantía hipotecaria celeb
 
 XIX. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XX. Por la inscripción de aclaración de actos, contratantes, bienes, derechos, y demás datos consagrados en el documento previamente inscrito en el Instituto Registral y Catastral del Estado, o por cualquier tipo de anotación, siete veces el valor diario de la Unidad de Medida y Actualización;
+XX. Por la inscripción de aclaración de actos, contratantes, bienes, derechos, y demás datos consagrados en el documento previamente inscrito en el Instituto Registral y Catastral del Estado, o por cualquier tipo de anotación, ocho veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1747,6 +1785,10 @@ Para la determinación y cobro de los derechos que establece el artículo anteri
 
 I. Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no se cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la autoridad catastral correspondiente;
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de herencias y donaciones entre ascendientes y descendientes en línea recta se tomará como base para el pago de derechos de registro, el resultado del valor del avaluó vigente a la fecha de firma de la escritura, al cual se le realizará la multiplicación por el 25%; de su resultado cubrirá lo correspondiente del ocho al millar.
+
 II. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
 III. En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este artículo;
@@ -1759,9 +1801,9 @@ V. Para la aplicación de los derechos comprendidos en la fracción I del artíc
 
 VI. Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, el valor se determinará en la suma de estas, si se puede determinar exactamente su cuantía, en caso contrario se tomará como base, la cantidad que resulte, haciendo el cómputo por un año; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII. En los casos en que los servicios que preste el Instituto Registral y Catastral del Estado de Tamaulipas, no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza, y; si por la naturaleza del acto no fuera susceptible asimilarlo a los actos comprendidos en esta Sección, causará derechos por su anotación a razón de siete veces el valor diario de la Unidad de Medida y Actualización.
+VII. En los casos en que los servicios que preste el Instituto Registral y Catastral del Estado de Tamaulipas, no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza, y; si por la naturaleza del acto no fuera susceptible asimilarlo a los actos comprendidos en esta Sección, causará derechos por su anotación a razón de siete veces el valor diario de la unidad de medida y actualización.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1787,9 +1829,7 @@ IV. Por la inscripción de bienes inmuebles o derechos reales pertenecientes a l
 
 V. Por la inscripción de títulos dentro del Programa de Regularización de la Tenencia de la Tierra en propiedad o posesión particular en el territorio del Estado, que permita la reinscripción al programa de Apoyos Directos al Campo, de los predios rurales privados, con superficies elegibles, carentes de documentación y libre de toda litis, que ya estén inscritos en dicho Programa, sin importar el nombre de éste;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-VI. Por la inscripción de avisos preventivos de compra-venta, hipoteca o donaciones celebradas en términos del presente artículo; y
+VI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -1805,37 +1845,51 @@ No se causarán los derechos a que se refieren los artículos 64 y 68 de esta Le
 
 ###### Artículo 68.
 
-Los servicios que se presten en el Instituto Registral y Catastral del Estado de Tamaulipas causarán derechos de acuerdo con la siguiente tarifa:
+Los servicios que se presten en el Instituto Registral y Catastral del Estado de Tamaulipas, causarán derechos de acuerdo con la siguiente tarifa:
 
-I. El examen de todo documento, sea público o privado, que se presente al Registro para su inscripción, cuando se rehúse éste por no ser inscribible o cuando por otros motivos se devuelva sin inscribir, dos días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. La inscripción de documentos cuyo tenor y autenticidad deban hacerse notorios en los términos que lo dispone el artículo 16 fracción II del Código de Comercio, con el importe de cien días de salario mínimo;
+I. El examen de todo documento, sea público o privado, que se presente al Registro para su inscripción, cuando se rehúse éste por no ser inscribible o cuando por otros motivos se devuelva sin inscribir, dos veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+II. La inscripción de documentos cuyo tenor y autenticidad deban hacerse notorios en los términos que lo dispone el artículo 16 fracción II del Código de Comercio, con el importe de cien veces el valor diario de la Unidad de Medida y Actualización;
 
 III. La inscripción de las escrituras constitutivas de Sociedades Mercantiles, o de las relativas a aumento de su capital social, se cobrarán sobre el monto del capital social o de los aumentos del mismo 8 al millar;
 
-IV. La inscripción de las modificaciones a la escritura constitutiva de Sociedades Mercantiles, siempre que no se refiera a aumento de capital social, con el importe de cuatro días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+IV. La inscripción de las modificaciones a la escritura constitutiva de Sociedades Mercantiles, siempre que no se refiera a aumento de capital social, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización;
 
-V. La inscripción de actas de asamblea de socios o de juntas de administradores con el importe de diez días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VI. El depósito del programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles con el importe de cuatro días de salario mínimo;
+V. La inscripción de actas de asamblea de socios o de juntas de administradores con el importe de diez veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI. El depósito del programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles con el importe de cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
 VII. Por la inscripción del acta de emisión de bonos y obligaciones de Sociedades Anónimas, se cobrarán las cuotas que correspondan, conforme a la fracción III de esta Tarifa;
 
-VIII. La inscripción de los acuerdos de fusión o escisión de sociedades, con el importe de cuatro días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IX. La inscripción de los acuerdos de disolución o liquidación de sociedades mercantiles con el importe de cuatro días de salario mínimo, aún en el caso en que se lleven a cabo en un solo acto;
+VIII. La inscripción de los acuerdos de fusión o escisión de sociedades, con el importe de cuatro veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IX. La inscripción de los acuerdos de disolución o liquidación de sociedades mercantiles con el importe de cuatro veces el valor diario de la Unidad de Medida y Actualización, aún en el caso en que se lleven a cabo en un solo acto;
 
 X. En los casos de las fracciones VIII y IX de este artículo, si como consecuencia de la liquidación, fusión o escisión de la sociedad, se adjudican bienes inmuebles, los derechos se causarán conforme a lo dispuesto en los artículos 65 fracción I y 66 fracción I de esta Ley;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XI. La inscripción de poderes mercantiles y sustitución de los mismos, otorgados dentro o fuera del Estado, con el equivalente a diez días de salario mínimo si un solo poderdante designa un solo apoderado; por cada poderdante o apoderado adicional se cobrará además tres días de salario mínimo.
+XI. La inscripción de poderes mercantiles y sustitución de los mismos, otorgados dentro o fuera del Estado, con el equivalente a diez veces el valor diario de la Unidad de Medida y Actualización si un solo poderdante designa un solo apoderado; por cada poderdante o apoderado adicional se cobrará además tres veces el valor diario de la Unidad de Medida y Actualización.
 
-Por la revocación o renuncia de los poderes, por cada una se cobrará diez días de salario mínimo. No se causarán los derechos previstos en esta fracción cuando los poderes que se otorguen a los administradores o gerentes de sociedades mercantiles, consten en las escrituras constitutivas o modificatorias de dichas sociedades.
+Por la revocación o renuncia de los poderes, por cada una se cobrará diez veces el valor diario de la Unidad de Medida y Actualización. No se causarán los derechos previstos en esta fracción cuando los poderes que se otorguen a los administradores o gerentes de sociedades mercantiles, consten en las escrituras constitutivas o modificatorias de dichas sociedades.
 
-XII. Por la inscripción y revocación de poderes diferentes a los anteriores, con el importe de cuatro días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XII. Por la inscripción y revocación de poderes diferentes a los anteriores, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización;
 
 XIII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
@@ -1843,33 +1897,33 @@ XIV. La inscripción de contratos mercantiles de cualquier clase, derivados de l
 
 XV. Por inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, otorgados por instituciones de crédito, de seguros, de fianzas, sobre el importe de la operación 4 al millar;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XVI. La inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial, con el importe de diez días de salario mínimo;
+XVI. La inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XVII. Búsqueda de documentos seis días de salario mínimo; certificaciones o copia certificada, un día de salario mínimo;
+XVII. Búsqueda de documentos siete veces el valor diario de la Unidad de Medida y Actualización; certificaciones o copia certificada, una vez el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XVIII. Anotaciones de fianzas, contra-fianzas, u obligaciones solidarias con el fiador, para el solo efecto de comprobar la solvencia del fiador, con fiador u obligado solidario, el importe de diez días de salario mínimo;
+XVIII. Anotaciones de fianzas, contra-fianzas, u obligaciones solidarias con el fiador, para el solo efecto de comprobar la solvencia del fiador, con fiador u obligado solidario, el importe de diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XIX. Por el registro del sello y firma que deben efectuar los corredores públicos en los términos de la Ley Federal de Correduría Pública, diez días de salario mínimo;
+XIX. Por el registro del sello y firma que deben efectuar los corredores públicos en los términos de la Ley Federal de Correduría Pública, diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XX. Por la aclaración de los actos realizados por el Instituto Registral y Catastral del Estado de Tamaulipas cinco veces el valor diario de la Unidad de Medida y Actualización; y
+XX. Por la aclaración de los actos realizados por el Instituto Registral y Catastral del Estado de Tamaulipas ocho veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XXI. Por la cancelación de los actos realizados por el Instituto Registral y Catastral del Estado de Tamaulipas cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-El importe de los derechos señalados en las fracciones III, VII, XIII y XIV, de esta ley, en ningún caso será inferior al equivalente a diez días de salario mínimo.
+El importe de los derechos señalados en las fracciones III, VII, XIII y XIV, de esta ley, en ningún caso será inferior al equivalente a diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 69.
 
@@ -2169,9 +2223,11 @@ b).- Por expedición, reposición o canje de placas de vehículos de motor o rem
 
 Las personas físicas o morales que adquieran vehículos de motor o remolques, nuevos o usados, que no cuenten con placas vigentes del Estado de Tamaulipas, deberán efectuarlo dentro de los quince días siguientes a la fecha de adquisición.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. La asignación del número de control vehicular y de la documentación correspondiente a vehículos del servicio público de transporte:
+II. La asignación del número de control vehicular y de la documentación correspondiente a vehículos del servicio público de transporte y de los servicios auxiliares del transporte de arrastre o traslado y salvamento:
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 1.- De pasajeros:
 
@@ -2186,6 +2242,8 @@ b).- Libre, treinta y seis veces el valor diario de la Unidad de Medida y Actual
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 c).- De ruta, treinta y seis veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 2.- Especializados:
 
@@ -2209,6 +2267,8 @@ d).- Servicio (sic) de emergencia particulares, treinta y seis veces el valor di
 
 e).- Funerarios, treinta y seis veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 3.- Carga:
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
@@ -2219,9 +2279,7 @@ a).- Materiales y sustancias, treinta y seis veces el valor diario de la Unidad 
 
 b).- Mudanzas, treinta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-c).- Grúas y plataformas, cien veces el valor diario de la Unidad de Medida y Actualización;
+c).- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2235,25 +2293,35 @@ e).- Reparto de productos o servicios, treinta y seis veces el valor diario de l
 
 Los derechos comprendidos en esta fracción y la anterior, deberán pagarse dentro de los seis primeros meses del año, de conformidad con las disposiciones de las autoridades correspondientes;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-III. El cambio de características y de modalidad de los vehículos que prestan el servicio público de transporte, causan los derechos previstos en la fracción II de este artículo y deberán pagarse en el momento de su autorización;
+4.- Servicios auxiliares del transporte público:
 
-IV. Por la expedición de placas de demostración, cincuenta días de salario mínimo. Estas placas solo podrán expedirse a empresas que demuestren operar como comercializadoras habituales de vehículos;
+a).- Arrastre o traslado, cien veces el valor diario de la Unidad de Medida y Actualización; y
+
+b).- Salvamento, cien veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. El cambio de características y de modalidad de los vehículos que prestan el servicio público de transporte y los servicios auxiliares, causan los derechos previstos en la fracción II de este artículo y deberán pagarse en el momento de su autorización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Por la expedición de placas de demostración, cincuenta veces el valor diario de la Unidad de Medida y Actualización. Estas placas solo podrán expedirse a empresas que demuestren operar como comercializadoras habituales de vehículos;
 
 V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VI. Por la expedición de la constancia de cumplimiento de requisitos para la obtención de concesiones y permisos para la prestación del servicio público del transporte, así como para la prórroga de su vigencia, cien veces el valor diario de la Unidad de Medida y Actualización, por cada unidad;
+VI. Por la expedición de la constancia de cumplimiento de requisitos para la obtención de concesiones para la prestación del servicio público del transporte y de permisos para los servicios auxiliares, así como para la prórroga de su vigencia, cien veces el valor diario de la Unidad de Medida y Actualización, por cada unidad o depósito de vehículos en el cual se presten los servicios auxiliares de guarda y custodia, respectivamente;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII. Por la autorización para la cesión de derechos y obligaciones derivados de una concesión para la prestación del servicio público de transporte, doscientos veces el valor diario de la Unidad de Medida y Actualización, por cada unidad;
+VII. Por la autorización para la cesión de derechos y obligaciones derivados de una concesión para la prestación del servicio público de transporte y de un permiso para la prestación de los servicios auxiliares, doscientos veces el valor diario de la Unidad de Medida y Actualización, por cada unidad o depósito de vehículos en el cual se presten los servicios auxiliares de guarda y custodia, respectivamente;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VIII. Por el otorgamiento de permiso para la prestación del servicio privado de transporte de pasajeros y de carga en el Estado, treinta veces el valor diario de la Unidad de Medida y Actualización, por cada unidad;
+VIII. Por el otorgamiento de concesión para la prestación del servicio privado de transporte de pasajeros, especializado y de carga en el Estado, treinta veces el valor diario de la Unidad de Medida y Actualización, por cada unidad;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2360,6 +2428,10 @@ XX. Por la expedición de Cédula de Inspección Vehicular, documental y mecáni
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXII. Por la expedición del engomado a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, que efectúe la Secretaría de Finanzas, quince veces el valor diario de la Unidad de Medida y Actualización; la vigencia del documento referido comprenderá de la fecha de su expedición al 31 de diciembre del año calendario de que se trate.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -2499,9 +2571,9 @@ II. Por los servicios que a continuación se señalan, se pagarán las siguiente
 
 6.- Evaluación del estudio de riesgo, setenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-7.- Por la realización de las visitas técnicas en los procesos de evaluación, veinticinco veces el valor diario de la Unidad de Medida y Actualización.
+7.- Por la realización de las visitas técnicas en los procesos de evaluación de informes preventivos, estudios de riesgo, daño e impacto ambiental, así como visitas técnicas de verificación para la autorización de sitios de Acopio, Reciclaje, Reutilización y Disposición Final de Residuos de Manejo Especial, cuarenta veces el valor diario de la Unidad de Medida de Actualización.
 
 III. Por el derecho de ingreso de visitantes ecoturistas a las áreas naturales protegidas, declaradas por el Titular del Ejecutivo Estatal:
 
@@ -2643,9 +2715,9 @@ XIII. Por los servicios de verificación vehicular de medición de los niveles d
 
 5.- Por la expedición del holograma correspondiente, hasta tres veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XIV. Por la explotación y aprovechamiento de recursos minerales o sustancias no reservadas a la Federación, un quince por ciento de una vez el valor diario de la Unidad de Medida y Actualización por metro cúbico proyectado a utilizarse;
+XIV. Por la explotación y aprovechamiento de recursos minerales o sustancias no reservadas a la Federación, un veinte por ciento de una vez el valor diario de la Unidad de Medida y Actualización por metro cúbico proyectado a utilizarse;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2667,6 +2739,18 @@ XVIII. Por la recepción, evaluación y resolución de la autorización para un 
 
 XIX. Por prórroga de la autorización para la recolección y transporte de residuos de manejo especial cuando no exista modificación a la autorización, un veinte por ciento de una vez el valor diario de la Unidad de Medida y Actualización por unidad de motor y capacidad de carga que corresponda.
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XX. Por el registro en el Padrón de Auditor Ambiental Externo, doscientas veces el valor diario de la Unidad de Medida de Actualización.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXI. Por los Servicios del Laboratorio Ambiental, hasta dos mil veces el valor diario de la Unidad de Medida de Actualización.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXII. Los residentes en el extranjero por el derecho de contratar un prestador de servicios registrado para realizar aprovechamiento de vida silvestre mediante la caza deportiva, veinte veces el valor diario de la Unidad de Medida y Actualización.
+
 ###### Artículo 76.
 
 (DEROGADO, P.O. 17 DE DICIEMBRE DE 2014)
@@ -2675,9 +2759,45 @@ XIX. Por prórroga de la autorización para la recolección y transporte de resi
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
-### CAPITULO UNICO
+### CAPITULO XI. DE LOS DERECHOS POR LOS SERVICIOS DE ADMINISTRACIÓN Y CONTROL EN MATERIA AGROPECUARIA
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Artículo 100 BIS. Para efecto de los servicios prestados por la Dirección de Fomento Pecuario, dependiente de la Secretaría de Desarrollo Rural, se causarán derechos conforme a las siguientes tarifas:
+
+I.- Por obtener el registro, refrendo o baja del registro de fierro, señal de sangre, tatuaje y cualquier otro medio de identificación, así como autorizar la traslación de dominio de los derechos que amparan estos documentos, se pagará el importe de siete veces el valor diario de la Unidad de Medida y Actualización.
+
+Tratándose de ejidatarios cuyo registro en cabezas de ganado bovino no exceda de cincuenta, por los derechos a que se refiere el párrafo anterior, se pagará el importe equivalente a seis veces el valor diario de la Unidad de Medida y Actualización.
+
+En los casos de productores cuyo registro en cabezas de ganado bovino exceda de doscientas, se pagará el importe equivalente a doce veces el valor diario de la Unidad de Medida y Actualización.
+
+II.- Por obtener el registro de corrales de acopio para exportación de ganado bovino y de fierro limpio, se pagará el importe equivalente a treinta veces el valor diario de la Unidad de Medida y Actualización.
+
+III.- Por la obtención del registro de vehículo dedicado al transporte de ganado en pie o de productos de origen animal, se pagará el importe equivalente a siete veces el valor diario de la Unidad de Medida y Actualización.
+
+IV.- Por el registro ante la Secretaría de Desarrollo Rural, pagarán el importe equivalente a:
+
+a) Setenta veces el valor diario de la Unidad de Medida y Actualización, los introductores y acopiadores de especies pecuarias;
+
+b) Veinte veces el valor diario de la Unidad de Medida y Actualización, las empresas dedicadas al comercio de productos y subproductos cárnicos, lácteos y pieles;
+
+c) Doscientos sesenta y cuatro veces el valor diario de la Unidad de Medida y Actualización, los mayoristas y tiendas departamentales de autoservicio.
+
+V.- Por la expedición de las autorizaciones de inspección de ganado en tránsito, sus productos y subproductos en los términos de la ley y demás aplicables, se pagará el importe equivalente a una vez el valor diario de la Unidad de Medida y Actualización.
+
+VI.- Por la obtención del certificado de inspección de carne en canal o en sus diversas presentaciones, con motivo de verificación de sanidad y comprobación de la propiedad y procedencia de la misma, se pagará catorce veces el valor diario de la Unidad de Medida y Actualización.
+
+VII.- Por extender las autorizaciones de inspección de colmenas, se pagará el importe equivalente a punto dos el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Artículo 100 TER. Para efecto de los servicios prestados por la Dirección de Agricultura, dependiente de la Secretaría de Desarrollo Rural, se causarán derechos conforme a las siguientes tarifas:
+
+I.- Por expedir el registro de las empresas almacenadoras, industrializadoras, compradores y prestadores de servicios para especies vegetales, sus productos y subproductos, se pagará punto cero cero quince veces el Valor Diario de la Unidad de Medida y Actualización, por cada tonelada del producto de que se trate.
+
+II.- Por el acopio de los productos de las empresas almacenadoras industrializadoras, compradores y prestadores de servicios para especies vegetales, se pagará el 3 al millar, por cada tonelada del producto de que se trate.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 77.
 
@@ -2759,9 +2879,9 @@ Los propietarios o poseedores de predios que se encuentren dentro del área de b
 
 Por la expedición de licencias para el funcionamiento de establecimientos o locales que enajenan total o parcialmente al público en general bebidas alcohólicas, se causarán conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-I.- Restaurantes, bares de los hoteles y moteles, restaurantes bar, bares, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de recepción, billares y boliches, con el importe de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización. Los cabarets, centros nocturnos y discotecas, con el importe de mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
+I.- Restaurantes, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de fiestas y eventos, billares y boliches, con el importe de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización. Los bares de los hoteles y moteles, con el importe de quinientas veces el valor diario de la Unidad de Medida y Actualización. Los cabarets, centros nocturnos y discotecas, con el importe de mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2771,13 +2891,13 @@ II.- Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otr
 
 III.- Supermercados, con el importe de cuatrocientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV.- Minisúperes y abarrotes, con el importe de doscientas veces el valor diario de la Unidad de Medida y Actualización. Licorerías, depósitos, agencias, subagencias, expendios, almacenes, bodegas, envasadoras y distribuidoras, con el importe de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización;
+IV.- Minisúper y abarrotes, con el importe de doscientas veces el valor diario de la Unidad de Medida y Actualización. Licorerías, depósitos y expendios con el importe de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; Las agencias, subagencias, almacenes, bodegas, envasadoras y distribuidoras, con el importe de mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V.- Cantinas, tabernas, cervecerías y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe trescientas veces el valor diario de la Unidad de Medida y Actualización;
+V.- Cantinas, tabernas, cervecerías, restaurantes-bar, bares y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe (sic) setecientas veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2789,11 +2909,31 @@ VII.- Por el trámite de la solicitud de expedición de licencia que se devuelva
 
 Cuando por primera vez se expida licencia para la enajenación de bebidas alcohólicas en el segundo semestre del año, se aplicará el 50 por ciento del importe.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 82.
 
-Por Dictamen de Impacto Urbano que resulte procedente de cualquier fraccionamiento se pagarán 100 veces el valor diario de la Unidad de Medida y Actualización, y por los servicios para el control en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, se pagará el 1.50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización, por metro cuadrado o fracción del área del predio.
+Los servicios prestados en materia de Desarrollo Urbano se causaran, conforme a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+I.- Por Dictamen de Impacto Urbano que resulte procedente de cualquier fraccionamiento se pagarán cien (100) veces el valor diario de la Unidad de Medida de Actualización.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+II.- Por los servicios para el control en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, se pagará 1.50 por ciento de una vez el valor diario de la Unidad de Medida de Actualización, por metro cuadrado de la superficie total del predio.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III.- Por la expedición de Constancias para dar respuesta de emisión por derecho de preferencia o derecho de tanto, tres veces el valor diario de la Unidad de Medida de Actualización.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV.- Por la expedición de Constancias de Dictamen de congruencia a los Ayuntamientos para emisión de modificaciones o cambios de uso de suelo para el proceso de insertar este en el Programa Municipal a que refiera, cincuenta veces el valor diario de la Unidad de Medida de Actualización.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V.- Por la expedición de Constancia de No Inconveniente para la inscripción en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano y continuar con el proceso ante el Instituto Registral y Catastral referente a tramites de divisiones, subdivisiones y fusiones, tres veces el valor diario de la Unidad de Medida de Actualización.
 
 ###### Artículo 83.
 
@@ -2873,9 +3013,9 @@ V. Por la capacitación, actualización, especialización y profesionalización 
 
 VI. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII. Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de setenta y cinco veces el valor diario de la Unidad de Medida y Actualización, por cada evaluación.
+VII. Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de cuarenta veces el valor diario de la Unidad de Medida y Actualización, por cada evaluación.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2893,33 +3033,37 @@ Por los servicios de almacenaje de bienes en bodegas o locales proporcionados po
 
 El servicio por publicaciones en el Periódico Oficial del Estado, causará derechos conforme a la siguiente tarifa:
 
-I. PRECIO DEL PERIODICO OFICIAL.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+I.- Precio del Periódico Oficial.
 
-1. Ejemplar del día, 30 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+1. Ejemplar del día, cuarenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-2. Ejemplar atrasado, 60 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Ejemplar atrasado, ochenta por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 3. Ejemplar extraordinario o con anexo hasta 20 páginas, 60 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; de 21 a 50 páginas, dos veces el valor diario de la Unidad de Medida y Actualización; y con más de 50 páginas, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4. Suscripción semestral, treinta y un días de salario mínimo. El pago deberá efectuarse con un mes de anticipación a los siguientes períodos optativos: enero a junio y de julio a diciembre, o de abril a septiembre y de octubre a marzo; y
+4. Suscripción semestral, treinta y un veces el valor diario de la Unidad de Medida y Actualización. El pago deberá efectuarse con un mes de anticipación a los siguientes períodos optativos: enero a junio y de julio a diciembre, o de abril a septiembre y de octubre a marzo; y
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 5.- Por el envío de ejemplares a domicilio se cobrará, dos veces y media el valor diario de la Unidad de Medida y Actualización.
 
-II. PUBLICACIONES.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+II. Publicaciones.
 
-1.- Avisos judiciales, edictos, convocatorias, requerimientos, autorizaciones, 0.4 por ciento de una vez el valor diario de la Unidad de Medida y Actualización por palabra, por cada publicación; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+1. Avisos judiciales, edictos, convocatorias, requerimientos, autorizaciones, cero punto ocho por ciento de una vez el valor diario de la Unidad de Medida y Actualización por palabra, por cada publicación; y
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2939,9 +3083,11 @@ Por la prestación del servicio de telefonía rural a través de la red de Telec
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2011)
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 92.
 
-Por los servicios prestados por los entes públicos señalados en el artículo 5 párrafo 1, incisos a) al f) de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, en el ejercicio de la libertad de información pública, se causarán conforme a lo siguiente:
+Por los servicios prestados por los sujetos obligados señalados en el artículo 22 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, en el ejercicio de la libertad de información pública, se causarán conforme a lo siguiente:
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -2955,13 +3101,11 @@ II. Por expedición de copia certificada, se pagará 5 por ciento de una vez el 
 
 III. Por expedición de copia a color, se pagará 40 por ciento de una vez el valor diario de la Unidad de Medida y Actualización por hoja;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. Por cada disco flexible de 3.5 pulgadas que contenga la información requerida, se pagará 15 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+IV. Por cada dispositivo de almacenamiento que contenga la información requerida, se pagará una vez y media el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-V. Por cada disco compacto que contenga la información requerida, se pagará 25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+V. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2017)
 
 VI. Por expedición de copia simple de planos o por la expedición de copia certificada de planos, se pagarán los derechos establecidos en el artículo 72 de esta ley.
 
@@ -2989,9 +3133,9 @@ III.- Por la autorización de cada una de los libros para el registro de medicam
 
 IV.- Por la expedición de cada cincuenta etiquetas de códigos de barra, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V.- Por la aprobación de planos de construcción de ingeniería sanitaria para casa - habitación unifamiliar, se pagará el diez por ciento de una vez el valor diario de la Unidad de Medida y Actualización, por metro cuadrado;
+V. Por la aprobación de planos de construcción de ingeniería sanitaria para casa - habitación unifamiliar, se pagará el diez por ciento de una vez el valor diario de la Unidad de Medida y Actualización, por metro cuadrado; únicamente en aquellas áreas donde se encuentren ubicados los servicios sanitarios;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3057,17 +3201,17 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 13.- Por consultorio de medicina dental especializada, se pagará doce veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-14.- Por estéticas, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
+14.- Por estéticas, spas y spas con servicios tópicos no invasivos, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización, y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 15.- Por establecimiento dedicado a realizar tatuajes, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-16.- Por establecimiento dedicado a realizar delineado permanente (micro pigmentación), se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
+16.- Por establecimiento dedicado a realizar delineado permanente (micro pigmentación, micro blading o cualquier otra técnica para el mismo fin), se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización del responsable sanitario;
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3089,17 +3233,13 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 21.- Por gabinete de radioterapia, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-22.- Por casa de salud, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
+22.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 23.- Por centros de atención infantil, estancias, o guarderías, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización; y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-24.- Por unidad auxiliar de salud, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
+24.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3121,9 +3261,9 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 29.- Por internado para niños de 6 a 18 años, orfanato, casa hogar, albergue (menores), se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-30.- Por centro de atención de adicciones, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
+30.- Por Centro de Atención de Adicciones y/o Clínicas de Rehabilitación, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3141,17 +3281,15 @@ VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
 34.- Por servicios públicos de hospitalización, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización, y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-35.- Por dispensario médico, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización; y
+35.- (DEROGADO, P.O. 21 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 36.- Por servicio de enfermería, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IX.- Por capacitación a petición de parte, se pagarán veinticinco veces el valor diario de la Unidad de Medida y Actualización;
+IX.- Por capacitación a petición de parte, se pagará una vez el valor diario de la Unidad de Medida y Actualización, por cada persona que reciba la capacitación;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3213,6 +3351,12 @@ XXIII.- Por la certificación y/o expedición de certificado de salud para manej
 
 XXIV.- Por concepto de fumigación, desinfección, desinsectación y/o desratización para control de fauna nociva en materia de sanidad internacional terrestre, en vehículos en tránsito en los puentes internacionales, tipo sedán y pickups, se pagará cuatro veces el valor diario de la Unidad de Medida y Actualización; para camiones, autobuses o transporte de carga, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Artículo 93 BIS. Para los servicios de salud prestados a la población que no cuente con seguridad social o que requiera alguno de los servicios que no se encuentran otorgados dentro del Catálogo Universal de Servicios de Salud (CAUSES) del Programa Seguro Médico para una Nueva Generación y del Fondo de Protección contra Gastos Catastróficos, quien requiera de cualquier servicio médico, deberá cubrir el costo del mismo de acuerdo al Tabulador de Cuotas de Recuperación de Servicios Médicos vigente, el cual se publicará en el Periódico Oficial del Estado de Tamaulipas.
+
+El cobro a que se refiere el párrafo anterior, se efectuará siempre y cuando no contravengan los principios de universalidad y gratuidad, en relación a los grupos sociales en situación de vulnerabilidad, considerando las condiciones socioeconómicas de los usuarios.
+
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 94.
@@ -3247,6 +3391,10 @@ Por cualquier otro servicio que se ajuste a la definición de derechos prevista 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+
 ###### Artículo 99.
 
 Se pagarán los Derechos por los servicios que prestan los organismos públicos descentralizados del Estado conforme al tabulador vigente que se publique en el Periódico Oficial del Estado.
@@ -3261,7 +3409,7 @@ Los ingresos recaudados por las dependencias de la administración estatal en t�
 
 Por cualquier servicio que preste el Gobierno del Estado a través de las entidades de la administración estatal, que se sitúen conforme a la definición de derechos prevista en el Código Fiscal del Estado de Tamaulipas y de conformidad con el costo que represente proporcionarlo.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ## TITULO IV. DE LAS CONTRIBUCIONES ESPECIALES
 
@@ -3554,3 +3702,31 @@ P.O. 23 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-373 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del 2018, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efecto de lo dispuesto en los artículos 93 BIS y 99 de la Ley de Hacienda para el Estado de Tamaulipas, las cuotas por los servicios que prestan los organismos públicos descentralizados deberán publicarse en el Periódico Oficial del Estado, mediante el tabulador que las fije, a más tardar el 01 de febrero del año corriente, acorde a la Ley de Ingresos que corresponda.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+###### ARTÍCULO CUARTO.
+
+Tratándose de las menciones al salario mínimo que se hagan en contratos y convenios, se atenderá a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+###### ARTÍCULO QUINTO.
+
+El valor de la Unidad de Medida y Actualización, será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
