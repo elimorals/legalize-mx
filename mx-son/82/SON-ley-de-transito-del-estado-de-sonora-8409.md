@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2017-08-03"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE TRANSITO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRÁNSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -275,9 +277,7 @@ En caso de duda sobre si un camino o calle deba ser o no considerado como vía p
 
 Las Leyes Fiscales respectivas, determinarán las características, vigencia y cuantía de los derechos por concepto de placas de circulación, expedición de licencias, calcomanías por revisados, permisos, estacionamientos exclusivos, estacionamientos públicos y estacionómetros.
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
-
-Las licencias descritas en el presente artículo deberán incluir una póliza de seguro de responsabilidad civil a favor del titular de la licencia, sin que dicha póliza impacte en el costo de la referida licencia. Condicionada dicha póliza al pago de un deducible hasta por la cantidad de 200 Unidades de Medida y Actualización por parte del titular de la licencia y el seguro que incluirá la licencia de conducir vigente será hasta una responsabilidad de $50.000.00 pesos, por lo que deberán presupuestarse los recursos necesarios para que la Secretaría de Hacienda licite la póliza que cubra lo previsto en este párrafo, debiendo contratarse una empresa que se encuentre debidamente registrada ante la Comisión Nacional de Seguros y Fianzas y dicha empresa deberá contar con garantías de servicio en siniestros debidamente estipuladas en las condiciones del seguro de referencia al deducible citado y hasta el monto de garantía de responsabilidad señalado, cantidades éstas que han sido especificadas con anterioridad.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ## TITULO SEGUNDO. DE LAS REGLAS DE TRANSITO
 
@@ -3550,3 +3550,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 189, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES FISCALES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2018, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
