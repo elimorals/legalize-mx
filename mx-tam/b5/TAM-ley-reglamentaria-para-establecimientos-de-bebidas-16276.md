@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2017-12-01"
+last_updated: "2017-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,91 @@ state: "TAM"
 ---
 # LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHOLICAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+LEY NUMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO UNICAMENTE COMO TEMAPACHE SE ENTENDERAN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2012.
 
-Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
+Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
-TOMAS YARRINGTON RUVALCABA, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz-Llave.
 
-Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
+Miguel Alemán Velazco, Gobernador Constitucional del Estado Libre y Soberano de Veracruz-Llave, a sus habitantes sabed:
 
-Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+Que la H. Legislatura del Estado se ha servido dirigirme la siguiente Ley para su promulgación:
 
-LA QUINCUAGESIMA SEPTIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
-D E C R E T O No. 171
+"La Honorable Quincuagésima Octava Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 68, fracción I de la Constitución Política Local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
 
-LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHOLICAS
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+LEY NÚMERO 44
+
+LEY DE COORDINACION FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+
+### CAPÍTULO I. Disposiciones generales
+
+###### Artículo 1.
+
+La presente Ley establece y regula el Sistema Estatal de Coordinación Fiscal; y tiene por objeto:
+
+I. Establecer y regular los fondos para la distribución de las participaciones federales a los municipios;
+
+II. Establecer las reglas para la distribución de otros ingresos federales o estatales que se les transfieran a los municipios;
+
+III. Normar la aplicación por los municipios de las aportaciones federales que les correspondan;
+
+IV. Establecer las bases para la celebración de convenios de colaboración administrativa en materia fiscal entre estado y municipios, y
+
+V. Regular los procedimientos que permitan cubrir oportunamente las obligaciones de deuda a cargo de los municipios, en que se hubieren otorgado participaciones federales en garantía.
+
+###### Artículo 2.
+
+Para los efectos de esta Ley, se entenderá por:
+
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+I. Ley: La Ley de Coordinación Fiscal para el Estado y los Municipios de Veracruz de Ignacio de la Llave;
+
+II. Municipio o municipios: El o los municipios que se encuentran dentro del territorio de la entidad;
+
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+III. Legislatura: La H. Legislatura del Estado de Veracruz de Ignacio de la Llave, y
+
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+IV. Secretaría: La Secretaría de Finanzas y Planeación del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+###### Artículo 3.
+
+Las participaciones federales serán cubiertas a los municipios en efectivo, sin condicionamiento alguno; son inembargables; no pueden estar sujetas a retención y no pueden afectarse a fines específicos.
+
+###### Artículo 4.
+
+Se exceptúan de lo señalado en el artículo anterior, las participaciones federales que se otorguen en garantía de pago de obligaciones contraídas por los municipios a favor de la Federación, el Estado, instituciones de crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
+
+Para otorgar las participaciones federales en garantía, los municipios deberán contar con la previa autorización de la Legislatura; cumplir con lo establecido en la Ley de Deuda Pública Municipal, e inscribir en el Registro de Obligaciones y Empréstitos de Entidades y Municipios de la Secretaría de Hacienda y Crédito Público y en el Registro de Deuda Pública Estatal el documento en donde conste el monto comprometido. La Secretaría dentro de los cinco días siguientes aquel en que la Federación haga efectiva dicha percepción al Estado, hará la retención que corresponda, siempre y cuando con anterioridad le haya sido notificada por el interesado.
+
+###### Artículo 5.
+
+La Legislatura vigilará el estricto cumplimiento de la presente Ley y de la Ley de Coordinación Fiscal en lo referente a las participaciones federales que les correspondan a los municipios, y sobre la aplicación por los ayuntamientos de las aportaciones federales.
+
+La Legislatura determinará los montos a distribuir a los municipios de las participaciones federales de conformidad a lo establecido por esta Ley.
+
+Los municipios podrán dirigir sus inconformidades a la Legislatura del Estado respecto de la aplicación de la presente Ley. La Legislatura resolverá las inconformidades en los términos que corresponda.
+
+###### Artículo 6.
+
+En la distribución de participaciones y aportaciones federales a cada municipio corresponde a la Legislatura actualizar los cálculos que con base en las fórmulas establecidas en esta Ley.
+
+Para el desarrollo de las fórmulas para la distribución de participaciones y aportaciones federales establecidas en esta Ley, se utilizará la información estadística más reciente publicada por el Instituto Nacional de Estadística, Geografía e Informática; así como la información que sobre recaudación de ingresos federales, estatales y municipales deberán proporcionar la Secretaría y los municipios a la Legislatura.
+
+La Secretaría proporcionará la asesoría y el apoyo para la elaboración de los cálculos a que se refiere esta Ley, si así lo requiere la Legislatura a través de las Comisiones respectivas; a las que les proporcionará la información que al respecto obre en su poder.
+
+La negativa por parte de la Secretaría o de algún municipio a proporcionar oportunamente a la Legislatura la información antes señalada, dará lugar a responsabilidades administrativas, independientemente de las civiles o penales que resultaren.
 
 ###### ARTICULO 1o.
 
@@ -217,7 +281,31 @@ En los abarrotes, agencias o subagencias, almacenes, bodegas, centros comerciale
 
 En los bares, billares o boliches, cantinas o tabernas, cabaret o centros nocturnos, casinos, círculos o clubes sociales, cafés cantantes, centros recreativos y deportivos o clubes, centros de espectáculos públicos autorizados, cervecerías, coctelerías, discotecas, fondas, loncherías, taquerías, cenadurías; comedores y similares, inmuebles construidos o habilitados para ferias, restaurantes, restaurantes bar y salones de recepciones, la enajenación de bebidas alcohólicas sólo podrá efectuarse en envase abierto o al copeo y para su consumo en el interior del establecimiento.
 
-### CAPITULO II. DE LOS ESTABLECIMIENTOS
+### CAPÍTULO II. De las participaciones
+
+###### Artículo 7.
+
+De las participaciones que le correspondan anualmente a la entidad de acuerdo con la Ley de Coordinación Fiscal, cuando menos el 20% corresponderá a los municipios que la integran.
+
+Las participaciones federales que el Estado reciba y deba hacer efectivas a los municipios, se repartirán de acuerdo a lo establecido en la Ley de Coordinación Fiscal, en esta Ley y en las demás disposiciones aplicables.
+
+###### Artículo 8.
+
+La Secretaría dentro de los cinco días siguientes a aquel en que el Estado reciba las participaciones de la Federación, ministrará a los municipios las participaciones que les correspondan.
+
+El retraso en las ministraciones dará lugar al pago de intereses en los términos del artículo 6 de la Ley de Coordinación Fiscal.
+
+En caso de incumplimiento en el pago de participaciones, el Municipio podrá solicitar a la Federación le entregue de manera directa dichas participaciones, en términos del artículo 6 de la Ley de Coordinación Fiscal.
+
+###### Artículo 9.
+
+Las participaciones federales a favor de los municipios, se repartirán a partir de la constitución de fondos estatales, para lo cual se crean:
+
+I. El Fondo General de Participaciones Municipales, mediante el cual el Estado distribuirá entre los municipios por lo menos el 20% de las participaciones que perciba el Fondo General de Participaciones que la Federación tiene integrado;
+
+II. El Fondo de Fomento Municipal, a través del cual el Estado distribuirá el 100% de las participaciones federales que reciba del Fondo de Fomento Municipal que la Federación tiene integrado, y
+
+III. El Fondo de Reserva de Contingencia que se integrará con las participaciones federales que, en su caso, reciba el Estado de la Reserva de Contingencia que establece el artículo 4 de la Ley de Coordinación Fiscal.
 
 ###### ARTICULO 8o.
 
@@ -227,273 +315,1227 @@ Los establecimientos destinados al almacenamiento, distribución y enajenación 
 
 Para la operación y funcionamiento de los establecimientos destinados al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, en envase cerrado o abierto, o al copeo, deberán contar previamente cada uno con la licencia o permiso expedido por el Ejecutivo del Estado, por conducto de la Secretaría, la que las otorgará en los términos y bajo las condiciones que establece la presente ley.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Para los efectos de esta ley, la operación y funcionamiento de los establecimientos que se dedican al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas se clasifican en:
+La distribución del Fondo General de Participaciones Municipales y del Fondo de Fomento Municipal se efectuará conforme a los siguientes porcentajes:
 
-I.- Abarrotes;
+a) 50% con base en el Índice Municipal de Pobreza (IMP), y
 
-II.- Agencia;
+b) 50% con base en el Coeficiente de Participación Municipal (CPM).
 
-III.- Almacén;
+###### Artículo 11.
 
-IV.- Bar;
+El Índice Municipal de Pobreza (IMP) considera las siguientes variables:
 
-V.- Bar de hotel y motel;
+a) Población de 15 años o más que no sabe leer y escribir;
 
-VI.- Billares o boliches;
+b) Población ocupada que no percibe ingresos o que éstos son de hasta 2 salarios mínimos;
 
-VII.- Bodega;
+c) Población que habita en viviendas particulares sin disponibilidad de drenaje conectado a fosa séptica o a la calle, y
 
-VIII.- Cabaret o centro nocturno;
+d) Población que habita en viviendas particulares sin disponibilidad de electricidad.
 
-IX.- Café cantante;
+Para calcular las participaciones que conforme al Índice Municipal de Pobreza (IMP) correspondan a cada municipio se desarrollará la siguiente fórmula:
 
-X.- Cantina o taberna;
+IMP¡= Ri1B1+Ri2B2+Ri3B3+Ri4B4
 
-XI.- Casino, círculo o club social;
+Donde:
 
-XII.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2001)
+Ri1...4= Rezago asociado a cada una de las cuatro necesidades básicas consideradas por el IMP en el i-ésimo municipio con respecto al rezago estatal en esa misma necesidad.
 
-XIII.- Centro de espectáculos;
+B1...4= Ponderador cuyo valor es 0.25 en cada uno de los rezagos.
 
-XIV.- Centro recreativo y deportivo o club;
+Variables:
 
-XV.- Cervecería;
+R1= Población ocupada que no percibe ingresos o que éstos son de hasta 2 salarios mínimos.
 
-XVI.- Coctelería;
+R2 = Población de 15 años o más que no sabe leer y escribir.
 
-XVII.- Discoteca;
+R3 = Población que habita en viviendas particulares sin disponibilidad de drenaje conectado a fosa séptica o a la calle.
 
-XVIII.- Distribuidora;
+R4= Población que habita en viviendas particulares sin disponibilidad de electricidad.
 
-XIX.-Envasadora
+Una vez determinado el IMP para todos los municipios de la entidad, se suman y se calcula su distribución porcentual multiplicando cada valor índice por cien.
 
-XX.- Expendio o depósito;
+###### Artículo 12.
 
-XXI.- Fonda, lonchería, taquería, cenaduría, comedor y similar;
+El Coeficiente de Participación Municipal (CPM) considera las siguientes variables:
 
-XXII.- Licorería;
+a) Recaudación de impuestos, derechos y contribuciones por mejoras del municipio en el año inmediato anterior para el cual se efectúa el cálculo, y
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+b) Recaudación de impuestos, derechos y contribuciones por mejoras del municipio en el segundo año inmediato anterior para el cual se efectúa el cálculo.
 
-XXIII.- Microcervecería;
+Los impuestos, derechos y contribuciones por mejoras a que se refiere este artículo, son los que se establecen en la Ley de Hacienda Municipal incluyendo la recuperación de los rezagos, sin considerar los accesorios y gastos de ejecución.
 
-XXIV.- Minisuper;
+Para calcular las participaciones federales que conforme al Coeficiente de Participación Municipal (CPM) correspondan a cada municipio se desarrollará la siguiente fórmula:
 
-XXV.- Restaurante;
+Bi
 
-XXVI.- Restaurante-bar;
+CPM i t = ________
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+TB
 
-XXVII.- Sala de degustación para venta exclusiva de cerveza artesanal;
+Donde:
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+CPM i t= Coeficiente de participación del municipio i-ésimo en el año para el cual se efectúa el cálculo.
 
-XXVIII.- Salón de recepción;
+TB = Suma de Bi
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+(CPM i t-1) (RID i t-1)
 
-XXIX.- Subagencia;
+Bi=____________________
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+RID i t-2
 
-XXX.- Supermercado; y
+CPM i t-1 = Coeficiente de participación del municipio i-ésimo en el año inmediato anterior a aquel para el cual se efectúa el cálculo.
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
+RID i t-1 = Recaudación de impuestos, derechos y contribuciones por mejoras del municipio i-ésimo en el año inmediato anterior a aquel para el cual se efectúa el cálculo.
 
-XXXI.- Tienda de cerveza artesanal.
+RID i t-2 = Recaudación de impuestos, derechos y contribuciones por mejoras del municipio i-ésimo en el segundo año inmediato anterior a aquel para el cual se efectúa el cálculo.
 
-###### ARTICULO 11.
+Una vez determinado el CPM para todos los municipios de la entidad, se suman y se calcula su distribución porcentual multiplicando cada valor índice por cien.
 
-Los establecimientos similares a los señalados en el artículo anterior, no enunciados en éste, cualquiera que sea su denominación o identificación, serán clasificados por la Secretaría, por analogía.
+Los municipios informarán a la Legislatura dentro de los tres primeros meses del año la recaudación que hayan obtenido por concepto de impuestos, derechos y contribuciones por mejoras en el año inmediato anterior.
 
-###### ARTICULO 12.
+El órgano de fiscalización de la Legislatura podrá comprobar la veracidad de la información señalada en el párrafo anterior y, en su caso, se efectuarán los ajustes correspondientes a las participaciones.
 
-Las licencias o permisos que permitan la enajenación de bebidas alcohólicas, sólo concederán la autorización de expenderlas en el domicilio expresado en la propia licencia o permiso.
+###### Artículo 13.
 
-###### ARTICULO 13.
+En caso de integrarse un Fondo de Reserva de Contingencia de conformidad con el artículo 4 de la Ley de Coordinación Fiscal, se repartirá aplicando el Índice Municipal de Pobreza y el Coeficiente de Participación Municipal que corresponda a cada municipio en el ejercicio de que se trate.
 
-Los establecimientos destinados para la enajenación de bebidas alcohólicas en envase abierto o al copeo, deberán reunir los requisitos que al efecto señale la presente ley, y contarán por lo menos con:
+###### Artículo 14.
 
-I. Un mostrador;
+Los municipios recibirán como mínimo el 20% de la participación que le corresponda al Estado de los ingresos provenientes del Impuesto Especial sobre Producción y Servicios y el 20% de lo que recaude el Estado por concepto del impuesto sobre automóviles nuevos.
 
-II. Servicio de agua potable, excepto en las localidades que carezcan de este servicio, pero deberá contar con depósito de agua para la limpieza;
+La distribución de los conceptos señalados en el párrafo anterior, se hará aplicando el Índice Municipal de Pobreza y el Coeficiente de Participación Municipal en los porcentajes a que hace referencia el artículo 10 de esta Ley.
 
-III. Sanitarios para hombres y, en su caso, para mujeres, los cuales deberán estar separados y contar con su propio lavamanos;
+> <small>(REFORMADO, G.O. 9 DE JUNIO DE 2008)</small>
 
-IV. La ventilación e iluminación adecuada; y
+###### Artículo 15.
 
-V.- Salida de emergencia.
+El Estado participará a los municipios el 20% de la recaudación que efectúe la Secretaría por concepto del Impuesto Sobre Tenencia o Uso de Vehículos, sin incluir los accesorios. Las participaciones sobre dicho concepto serán distribuidas mediante la aplicación de los factores establecidos en la siguiente tabla:
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+MUNICIPIO FACTOR DE DISTRIBUCIÓN
 
-###### ARTICULO 14.
+1. ACAJETE 0.00144017889
 
-Los propietarios, administradores o encargados de los establecimientos de bar, cabaret o centro nocturno, cantina o taberna, cervecerías, microcervecerías, salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal que cuenten con entradas directas por la vía pública, además de los requisitos señalados en el artículo anterior, deberán tener fijas persianas, tabiques, mamparas u otros medios que impidan la visibilidad hacia el interior, y evitar molestias a los transeúntes.
+2. ACATLÁN 0.00148295939
 
-###### ARTICULO 15.
+3. ACAYUCAN 0.00800621175
 
-El original de la licencia de funcionamiento deberá fijarse en un lugar visible en el interior del establecimiento, además de indicar en el exterior del mismo, el número de la licencia.
+4. ACTOPAN 0.00419915967
 
-### CAPITULO III. DE LAS OBLIGACIONES
+5. ACULA 0.00109833429
 
-###### ARTICULO 16.
+6. ACULTZINGO 0.00160067111
 
-Son obligaciones de los propietarios, representantes legales o encargados de los establecimientos en que se enajenen bebidas alcohólicas, las siguientes:
+7. AGUA DULCE 0.01003961907
 
-I.- Impedir la enajenación y consumo de bebidas alcohólicas a menores de edad, a personas que no estén en pleno goce de sus facultades mentales, a personas armadas o bajo los efectos de psicotrópicos, así como a los elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones, debiendo fijar letreros visibles en el interior del establecimiento, señalando esta prohibición;
+8. ALPATLÁHUAC 0.00131527721
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+9. ALTO LUCERO DE GUTIÉRREZ
 
-II.- Impedir conductas que tiendan a alentar, favorecer o tolerar la prostitución o que los clientes tengan cualquier tipo de interacción que implique contacto físico impúdico con las meseras o meseros, artistas que se presenten, bailarinas o bailarines o cualquier empleada o empleado del lugar, así como de no permitir en su establecimiento la presentación de espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales;
+BARRIOS 0.00369198132
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+10. ALTOTONGA 0.00318660341
 
-III.- Impedir que los clientes practiquen en el lugar juegos prohibidos por la ley o que crucen apuestas en juegos permitidos o que dentro del establecimiento se lleven a cabo apuestas o de juegos de azar;
+11. ALVARADO 0.00453995489
 
-IV.- Retirar del establecimiento a las personas ebrias, cuando causen desorden, actos reñidos con la moral, para lo cual solicitarán, si fuere necesario, el auxilio de la fuerza pública;
+12. AMATITLÁN 0.00127152484
 
-V.- Impedir escándalos en los establecimientos, recurriendo, para evitarlos, a la fuerza pública. Cuando tenga conocimiento o encuentre alguna persona armada o que use o posea, dentro del local, estupefacientes o cualquier otra droga enervante, deberá denunciarlo a la autoridad competente;
+13. AMATLÁN DE LOS REYES 0.00320090329
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+14. ÁNGEL R. CABADA 0.00395323005
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+15. APAZAPAN 0.00103181939
 
-VI.- Enajenar únicamente bebidas alcohólicas que no estén adulteradas, contaminadas o alteradas, en los términos de las disposiciones de salud aplicables, sin perjuicio de las sanciones administrativas de las autoridades sanitarias o penales que correspondan cuando sean constitutivas de delitos, conservando en los establecimientos, y poniéndolos a disposición de la autoridad, los comprobantes del origen de las bebidas alcohólicas que enajenan;
+16. AQUILA 0.00102477504
 
-VII.- Observar los requisitos de funcionamiento de salubridad e higiene que establezcan las leyes y reglamentos respectivos;
+17. ASTACINGA 0.00136133278
 
-VIII.- Destinar el establecimiento al giro autorizado, exclusivamente;
+18. ATLAHUILCO 0.00142549775
 
-IX.- Presentar el original de la licencia o permiso de funcionamiento, y demás documentos que esta ley exige, cuando lo requiera la autoridad competente;
+19. ATOYAC 0.00377390147
 
-X.- Permitir a los visitadores practicar la visita domiciliaria ordenada por la autoridad competente, así como proporcionarles los datos, informes y documentos que les soliciten y permitirles el acceso a todas las partes o secciones que conforman el establecimiento;
+20. ATZACAN 0.00181851935
 
-XI.- Pintar en la parte exterior y al frente del establecimiento, en lugar visible, un rectángulo de color negro de veinte por veintiocho centímetros y en color blanco el número de la licencia;
+21. ATZALAN 0.00360744287
 
-XII.- Impedir la entrada a menores de edad o a personas que no estén en pleno goce de sus facultades mentales, tratándose de bar, cabaret o centro nocturno, cantina o taberna, o cervecería, debiendo fijar letreros visibles en el exterior del establecimiento, señalando esta prohibición.
+22. AYAHUALULCO 0.00176388309
 
-XIII.- Impedir que las personas que concurran a los establecimientos de bar, cabaret o centro nocturno, cantina, cervecería o discoteca permanezcan en ellos después del horario fijado en el artículo 19 de esta ley;
+23. BANDERILLA 0.00249236372
 
-XIV.- Iniciar las actividades autorizadas en la licencia en un plazo no mayor de noventa días naturales a partir de la fecha en que fue expedida la misma;
+24. BENITO JUÁREZ 0.00180899249
 
-XV.- Informar a la Secretaría la suspensión de las actividades señaladas en la licencia, por un lapso mayor a treinta días naturales consecutivos, debiendo utilizar para este efecto la forma autorizada por la Secretaría, misma que se presentará ante la Oficina Fiscal correspondiente dentro de los siete días hábiles siguientes al del inicio de la suspensión;
+25. BOCA DEL RÍO 0.02465583133
 
-XVI.- Pagar los derechos correspondientes a la licencia dentro del plazo que fijen las leyes. Los comprobantes de pago deberán conservarse en el establecimiento en el que se opere para que los visitadores puedan verificarlos;
+26. CALCAHUALCO 0.00141787444
 
-XVII.- Presentar en el mes de febrero de cada año, en el caso de agencias, subagencias, envasadoras, distribuidoras y otros establecimientos que vendan al mayoreo, una declaración de ventas de bebidas alcohólicas por cliente correspondiente al año de calendario anterior, en los formatos aprobados por la Secretaría; y
+27. CAMARÓN DE TEJEDA 0.00113071127
 
-XVIII.- Las agencias, subagencias, envasadoras, distribuidoras y otros establecimientos que vendan al mayoreo, se abstendrán de enajenar bebidas alcohólicas a establecimientos no autorizados en los términos de esta ley.
+28. CAMERINO Z. MENDOZA 0.00480314273
 
-###### ARTICULO 17.
+29. CARLOS A. CARRILLO 0.00108022996
 
-No podrán otorgarse licencias a:
+30. CARRILLO PUERTO 0.00161302792
 
-I.- Menores de edad e incapacitados legalmente;
+31. CASTILLO DE TEAYO 0.00214219032
 
-II.- Quienes hayan sufrido condena por delitos fiscales, sexuales, contra la vida o la salud, si no han transcurrido cinco años desde que se extinguió la condena;
+32. CATEMACO 0.00437006538
 
-III.- Los que hubieren tenido licencia o permiso y hayan cedido los derechos del mismo a terceras personas;
+33. CAZONES DE HERRERA 0.00271083965
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+34. CERRO AZUL 0.00368491815
 
-IV.- Quienes en los tres años anteriores a la fecha de su solicitud hubieren sido sancionados con la cancelación de una licencia;
+35. CITLATÉPETL 0.00136162529
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2017)</small>
+36. COACOATZINTLA 0.00137757831
 
-V.- Reincidentes en la infracción de disposiciones sobre la materia;
+37. COAHUITLÁN 0.00127827250
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
+38. COATEPEC 0.00659188234
 
-VI.- Lugares en los que se lleve a cabo la presentación de espectáculos con personas que realicen actos de exhibicionismo corporal con fines lascivos o sexuales; y
+39. COATZACOALCOS 0.08125811533
 
-> <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2017)</small>
+40. COATZINTLA 0.00323750264
 
-VII.- Lugares en lo que se lleven a cabo juegos prohibidos por la ley o que crucen apuestas en juegos permitidos o que dentro del establecimiento se lleven a cabo apuestas o de juegos de azar.
+41. COETZALA 0.00101108256
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+42. COLIPA 0.00147907244
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2013)</small>
+43. COMAPA 0.00186759370
 
-### CAPITULO IV. DE LOS DIAS Y HORARIOS DE FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS
+44. CÓRDOBA 0.02995025750
 
-###### ARTICULO 18.
+45. COSAMALOAPAN 0.00812963294
 
-Los establecimientos a que se refiere esta ley, se regirán, para la distribución y enajenación de bebidas alcohólicas, por los días y horarios que se señalen en la presente ley o los que se hagan constar en las propias licencias o permisos.
+46. COSAUTLÁN DE CARVAJAL 0.00252836870
 
-###### ARTICULO 19.
+47. COSCOMATEPEC 0.00227579303
 
-La enajenación de bebidas alcohólicas al público podrá realizarse solo en los días y horarios siguientes:
+48. COSOLEACAQUE 0.01499659786
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+49. COTAXTLA 0.00671078338
 
-I.- Los abarrotes, expendios o depósitos, licorerías, minisuper y supermercados, de lunes a sábado, de las diez a las veinticuatro horas, y los domingos de las diez a las veinte horas;
+50. COXQUIHUI 0.00145545963
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+51. COYUTLA 0.00170502210
 
-II.- Las agencias, subagencias, distribuidoras, almacenes, envasadoras y bodegas de lunes a domingo de las siete a las diecinueve horas;
+52. CUICHAPA 0.00213604972
 
-III.- Las cantinas o tabernas y cervecerías, de lunes a sábado de las diez a las veinticuatro horas;
+53. CUITLÁHUAC 0.00326320606
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+54. CHACALTIANGUIS 0.00204352637
 
-IV.- Las loncherías, fondas, coctelerías, taquerías, comedores, cenadurías y otros establecimientos similares que tengan por actividad la enajenación y consumo de alimentos, todos los días de las diez a las veinticuatro horas;
+55. CHALMA 0.00200834068
 
-V.- Los billares o boliches, de lunes a sábado de las doce a las veinticuatro horas, y los domingos de las doce a las veintidós horas;
+56. CHICONAMEL 0.00125949394
 
-VI.- Los centros recreativos, deportivos o clubes, centros de espectáculos, casinos, círculos o clubes sociales, café cantantes, de lunes a sábado de las doce a las dos horas del día siguiente, y los domingos de las doce a las veinticuatro horas;
+57. CHICONQUIACO 0.00158277425
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+58. CHICONTEPEC 0.00304921088
 
-VII.- Los cabarets o centros nocturnos y discotecas, de domingo a jueves de las veinte a las dos horas del día siguiente, y los viernes y sábados de las veinte a las cuatro horas del día siguiente;
+59. CHINAMECA 0.00214346854
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+60. CHINAMPA DE GOROSTIZA 0.00167097729
 
-VIII.- Los bares, bares de hotel y motel, restaurantes y restaurantes-bar, de lunes a sábado de las diez a las dos horas del día siguiente, y los domingos de las diez a las veinticuatro horas; y
+61. CHOCAMÁN 0.00166107277
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+62. CHONTLA 0.00184956981
 
-IX.- Los salones de recepciones, de lunes a sábado de las diez a las cuatro horas del día siguiente, y los domingos de las diez a las veinticuatro horas.
+63. CHUMATLÁN 0.00130071904
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+64. EL HIGO 0.00448053654
 
-En los días 15 de septiembre, 24 y 31 de diciembre se podrá optar por observar el horario aplicable a sábado.
+65. EMILIANO ZAPATA 0.00458937766
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+66. ESPINAL 0.00174259177
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+67. FILOMENO MATA 0.00158470437
 
-ARTICULO 19 BIS.- La distribución de bebidas alcohólicas enajenadas por los establecimientos previstos en la fracción II del artículo anterior, se realizará en un horario que comprende de lunes a domingo de las 7:00 a las 22:00 horas.
+68. FORTÍN 0.00452589326
 
-La presente disposición contempla exclusivamente el horario de distribución de bebidas alcohólicas, por lo que se prohíbe su enajenación fuera del horario estipulado en la presente ley.
+69. GUTIÉRREZ ZAMORA 0.00507817517
 
-###### ARTICULO 20.
+70. HIDALGOTITLÁN 0.00243613913
 
-Independientemente de los señalados en otros ordenamientos legales, el Ejecutivo del Estado, por conducto de la Secretaría, señalará los días en que, en los establecimientos a que se refiere la presente ley, no podrán enajenarse ni consumirse bebidas alcohólicas, En este caso, la Secretaría dará a conocer éstos días a través de los medios de comunicación que estime convenientes.
+71. HUATUSCO 0.00561690188
 
-###### ARTICULO 21.
+72. HUAYACOCOTLA 0.00198519134
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+73. HUEYAPAN DE OCAMPO 0.00383787129
 
-###### ARTICULO 22.
+74. HUILOAPAN DE CUAUHTÉMOC 0.00140914775
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+75. IGNACIO DE LA LLAVE 0.00264207947
 
-###### ARTICULO 23.
+76. ILAMATLÁN 0.00127118522
 
-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2001)
+77. ISLA 0.00482318602
+
+78. IXCATEPEC 0.00160732806
+
+79. IXHUACÁN DE LOS REYES 0.00179309046
+
+80. IXHUATLÁN DE MADERO 0.00257570767
+
+81. IXHUATLÁN DEL CAFÉ 0.00258313730
+
+82. IXHUATLÁN DEL SURESTE 0.00233021071
+
+83. IXHUATLANCILLO 0.00143909009
+
+84. IXMATLAHUACAN 0.00201326908
+
+85. IXTACZOQUITLÁN 0.01487963872
+
+86. JALACINGO 0.00211986406
+
+87. JALCOMULCO 0.00130100998
+
+88. JÁLTIPAN 0.00461445297
+
+89. JAMAPA 0.00139992931
+
+90. JESÚS CARRANZA 0.00319662576
+
+91. JILOTEPEC 0.00154720639
+
+92. JOSÉ AZUETA 0.00351065013
+
+93. JUAN RODRÍGUEZ CLARA 0.00387307071
+
+94. JUCHIQUE DE FERRER 0.00315625844
+
+95. LA ANTIGUA 0.00445059098
+
+96. LA PERLA 0.00165090802
+
+97. LANDERO Y COSS 0.00118931605
+
+98. LAS CHOAPAS 0.00805675342
+
+99. LAS MINAS 0.00126676044
+
+100. LAS VIGAS DE RAMÍREZ 0.00201133164
+
+101. LERDO DE TEJADA 0.00388242035
+
+102. LOS REYES 0.00135172196
+
+103. MAGDALENA 0.00115745503
+
+104. MALTRATA 0.00146921053
+
+105. MANLIO FABIO ALTAMIRANO 0.00219767731
+
+106. MARIANO ESCOBEDO 0.00214112211
+
+107. MARTÍNEZ DE LA TORRE 0.01185674852
+
+108. MECATLÁN 0.00169099117
+
+109. MECAYAPAN 0.00141657090
+
+110. MEDELLÍN 0.00341068462
+
+111. MIAHUATLÁN 0.00146276434
+
+112. MINATITLÁN 0.02077915837
+
+113. MISANTLA 0.00539639499
+
+114. MIXTLA DE ALTAMIRANO 0.00133430472
+
+115. MOLOACÁN 0.00391767995
+
+116. NANCHITAL DE LÁZARO
+
+CÁRDENAS DEL RÍO 0.01031268460
+
+117. NAOLINCO 0.00188766984
+
+118. NARANJAL 0.00108041633
+
+119. NARANJOS-AMATLÁN 0.00359472020
+
+120. NAUTLA 0.00224156051
+
+121. NOGALES 0.00429936601
+
+122. OLUTA 0.00257484394
+
+123. OMEALCA 0.00209280825
+
+124. ORIZABA 0.03188751675
+
+125. OTATITLÁN 0.00190111272
+
+126. OTEAPAN 0.00185666687
+
+127. OZULUAMA 0.00463599512
+
+128. PAJAPAN 0.00140146134
+
+129. PÁNUCO 0.00836683404
+
+130. PAPANTLA 0.01562085073
+
+131. PASO DE OVEJAS 0.00313622556
+
+132. PASO DEL MACHO 0.00261829530
+
+133. PEROTE 0.00361239713
+
+134. PLATÓN SÁNCHEZ 0.00213703326
+
+135. PLAYA VICENTE 0.00474026189
+
+136. POZA RICA DE HIDALGO 0.02598330256
+
+137. PUEBLO VIEJO 0.00380541096
+
+138. PUENTE NACIONAL 0.00238166485
+
+139. RAFAEL DELGADO 0.00133965572
+
+140. RAFAEL LUCIO 0.00144363248
+
+141. RÍO BLANCO 0.00591111466
+
+142. SALTABARRANCA 0.00146099076
+
+143. SAN ANDRÉS TENEJAPAN 0.00121111480
+
+144. SAN ANDRÉS TUXTLA 0.00773342114
+
+145. SAN JUAN EVANGELISTA 0.00330956704
+
+146. SAN RAFAEL 0.00433208682
+
+147. SANTIAGO SOCHIAPAN 0.00322095348
+
+148. SANTIAGO TUXTLA 0.00425594720
+
+149. SAYULA DE ALEMÁN 0.00357720918
+
+150. SOCONUSCO 0.00175947552
+
+151. SOCHIAPA 0.00099132132
+
+152. SOLEDAD ATZOMPA 0.00175396723
+
+153. SOLEDAD DE DOBLADO 0.00290426888
+
+154. SOTEAPAN 0.00197256661
+
+155. TAMALÍN 0.00224008116
+
+156. TAMIAHUA 0.00295328011
+
+157. TAMPICO ALTO 0.00225576905
+
+158. TANCOCO 0.00104178473
+
+159. TANTIMA 0.00183867042
+
+160. TANTOYUCA 0.00523841862
+
+161. TATAHUICAPAN DE JUÁREZ 0.00127129223
+
+162. TATATILA 0.00126905457
+
+163. TECOLUTLA 0.00351197772
+
+164. TEHUIPANGO 0.00177428077
+
+165. ÁLAMO TEMAPACHE 0.00801186048
+
+166. TEMPOAL 0.00468356179
+
+167. TENAMPA 0.00125643278
+
+168. TENOCHTITLÁN 0.00147902493
+
+169. TEOCELO 0.00254854425
+
+170. TEPATLAXCO 0.00148500870
+
+171. TEPETLÁN 0.00131306180
+
+172. TEPETZINTLA 0.00163956800
+
+173. TEQUILA 0.00165012546
+
+174. TEXCATEPEC 00.00165208201
+
+175. TEXHUACAN 0.00119989729
+
+176. TEXISTEPEC 0.00222942586
+
+177. TEZONAPA 0.00388768853
+
+178. TIERRA BLANCA 0.01140911971
+
+179. TIHUATLÁN 0.00653002171
+
+180. TLACOJALPAN 0.00166039476
+
+181. TLACOLULAN 0.00138080343
+
+182. TLACOTALPAN 0.00277181798
+
+183. TLACOTEPEC DE MEJÍA 0.00138788325
+
+184. TLACHICHILCO 0.00148747866
+
+185. TLALIXCOYAN 0.00336575616
+
+186. TLALNELHUAYOCAN 0.00141059087
+
+187. TLALTETELA 0.00134522826
+
+188. TLAPACOYAN 0.00450260156
+
+189. TLAQUILPA 0.00151690384
+
+190. TLILAPAN 0.00104630501
+
+191. TOMATLÁN 0.00171075984
+
+192. TONAYÁN 0.00144373290
+
+193. TOTUTLA 0.00150913864
+
+194. TRES VALLES 0.00469328136
+
+195. TUXPAN 0.02581257874
+
+196. TUXTILLA 0.00097862054
+
+197. ÚRSULO GALVÁN 0.00317175517
+
+198. UXPANAPA 0.00152427411
+
+199. VEGA DE ALATORRE 0.00362537120
+
+200. VERACRUZ 0.09387125717
+
+201. VILLA ALDAMA 0.00160870817
+
+202. XALAPA 0.06579315133
+
+203. XICO 0.00244945340
+
+204. XOXOCOTLA 0.00138293145
+
+205. YANGA 0.00188256522
+
+206. YECUATLA 0.00212464922
+
+207. ZACUALPAN 0.00164600760
+
+208. ZARAGOZA 0.00161183264
+
+209. ZENTLA 0.00155196480
+
+210. ZONGOLICA 0.00290134117
+
+211. ZONTECOMATLÁN 0.00144388400
+
+212. ZOZOCOLCO DE HIDALGO 0.00168944916
+
+### CAPÍTULO III. De las aportaciones federales
+
+###### Artículo 16.
+
+Las participaciones se determinarán por cada ejercicio fiscal, para lo cual se hará en forma provisional un cálculo mensual, considerando la recaudación federal participable obtenida en el mes inmediato anterior.
+
+Cada cuatro meses la Legislatura realizará un ajuste de las participaciones efectuando el cálculo sobre la recaudación obtenida en ese periodo. Las diferencias resultantes serán liquidadas dentro de los dos meses siguientes.
+
+A más tardar dentro de los cinco meses siguientes, al cierre de cada ejercicio fiscal la Legislatura determinará las participaciones que correspondan a la recaudación obtenida en el ejercicio; aplicará las cantidades que hubiera afectado provisionalmente a los fondos y formulará de inmediato las liquidaciones que procedan.
+
+Durante los primeros cinco meses de cada ejercicio, las participaciones se calcularán provisionalmente con los factores y coeficientes del ejercicio inmediato anterior, en tanto se cuente con la información necesaria para calcular los nuevos coeficientes.
+
+###### Artículo 17.
+
+Los municipios recibirán directamente de la Federación en términos de la Ley de Coordinación Fiscal lo siguiente:
+
+a) Los ingresos que se generen por la colindancia de los municipios de la entidad con litorales por los que se realicen materialmente la entrada o salida al país de bienes que se importen o exporten, de conformidad con lo establecido en los convenios que se celebren para tal efecto;
+
+b) Los derechos adicionales sobre la extracción de petróleo excluyendo el derecho extraordinario sobre el mismo, respecto de los municipios colindantes con los litorales por donde se realice materialmente la salida del país de dichos productos, y
+
+c) Los ingresos que deriven de convenios de colaboración celebrados con la Federación.
+
+### CAPÍTULO IV. De la colaboración administrativa entre los Municipios y el Estado
+
+###### Artículo 18.
+
+De los ingresos que el Estado otorgue a los municipios, derivados de convenios de colaboración, corresponderá a la Legislatura vigilar la debida aplicación de los mismos.
+
+###### Artículo 19.
+
+El Fondo de Aportaciones para la Infraestructura Social Municipal y el Fondo de Aportaciones para el Fortalecimiento de los Municipios que se integran con los recursos que la Federación transfiera a los municipios, estarán a lo dispuesto en la Ley de Coordinación Fiscal, condicionando su gasto a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece dicha Ley.
+
+> <small>(REFORMADO, G.O. 13 DE FEBRERO DE 2008)</small>
+
+Las aportaciones federales serán cubiertas a los municipios en efectivo, sin condicionamiento alguno, son inembargables y no pueden estar sujetas a retención, salvo el Fondo de Aportaciones para la Infraestructura Social, cuyos derechos, ingresos, o ambos, podrán afectarse por los Municipios como fuente de pago, garantía, o ambas, de sus obligaciones, en términos de la Ley de Coordinación Fiscal Federal, esta Ley y las demás disposiciones aplicables.
+
+Los fondos de aportaciones se integran, distribuyen, administran y ejercen de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal, en la legislación estatal correspondiente y conforme a las normas que para tal efecto emita la Legislatura.
+
+> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
+
+Con el fin de cumplir con sus obligaciones en términos de la Ley de Coordinación Fiscal Federal, el Estado podrá instrumentar mecanismos de captación, distribución, o ambos, de las aportaciones federales, incluyendo los recursos que correspondan a los Municipios para su posterior entrega, a través de cuentas, depósitos, fideicomisos u otros medios legales, los cuales en su operación deberán respetar los montos, plazos y condiciones de entrega de los recursos a los Municipios conforme a la Ley y a los convenios aplicables, sin perjuicio de cumplir con los fines de las afectaciones que, como fuente de pago, garantía, o ambas, hubieren realizado los Municipios a favor de sus acreedores en términos del Código Hacendario Municipal.
+
+> <small>(ADICIONADO, G.O. 13 DE FEBRERO DE 2008)</small>
+
+Los fideicomisos que se constituyan como mecanismos de captación, distribución, o ambos, no serán considerados, en ningún caso, parte de la administración pública estatal, por lo que no les serán aplicables las disposiciones de las entidades paraestatales.
+
+###### Artículo 20.
+
+El Fondo de Aportaciones para la Infraestructura Social Municipal de cada Municipio se ejercerá en los términos que definan los Ayuntamientos previo acuerdo con el Consejo de Desarrollo Municipal.
+
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios, se destinará exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes.
+
+###### Artículo 21.
+
+Respecto de las Aportaciones Federales que integran los fondos señaladas en el artículo anterior, los municipios tendrán las siguientes obligaciones:
+
+I. Hacer del conocimiento de sus habitantes los montos que reciban, las acciones y obras a realizar, el costo de cada una de ellas, su ubicación, metas y beneficiarios;
+
+II. Promover la participación de las comunidades beneficiarias en su destino, aplicación y vigilancia, así como en la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar, y
+
+III. Informar a sus habitantes, al término de cada ejercicio, sobre los resultados alcanzados.
+
+###### Artículo 22.
+
+Los Consejos de Desarrollo Municipal a que se hace referencia el artículo 20 de esta Ley, tendrán las siguientes atribuciones:
+
+a) Establecer los objetivos, programas y acciones del Fondo para la Infraestructura Social Municipal;
+
+b) Promover e impulsar la organización social y la participación de la población en la planeación y desarrollo de los programas y acciones del Fondo;
+
+c) Seleccionar y apoyar las obras y acciones a realizar con cargo al Fondo, en base a las propuestas que hagan los Comités Comunitarios;
+
+d) Participar en el seguimiento, control y evaluación del Fondo;
+
+e) Promover e impulsar el establecimiento y desarrollo de las contralorías sociales;
+
+f) Apoyar la planeación del desarrollo municipal;
+
+g) Impulsar y apoyar los programas de desarrollo institucional, coordinados con el Estado y la Federación tendentes a mejorar las capacidades técnicas de las administraciones municipales y Comités Comunitarios;
+
+h) Ordenar y sistematizar las demandas sociales definidas al interior de los Comités Comunitarios, y
+
+i) Establecer comisiones de trabajo por actividad, a fin de dar seguimiento a las acciones definidas por los diferentes Comités.
+
+La organización y funcionamiento de los Consejos de Desarrollo Municipal serán establecidos en el Reglamento que para tal efecto emita la Legislatura.
+
+###### Artículo 23.
+
+El Ejecutivo del Estado, por conducto de la Secretaría podrá celebrar convenios de colaboración administrativa con los municipios, entre otras, sobre las siguientes materias:
+
+I. Registro de contribuyentes;
+
+II. Recaudación, notificación, cobranza, verificación y fiscalización respecto de contribuciones estatales coordinadas;
+
+III. Recaudación, notificación y cobranza respecto de ingresos coordinados conforme a lo establecido en el convenio de colaboración administrativa en materia fiscal federal;
+
+IV. Catastro;
+
+V. Capacitación;
+
+VI. Desarrollo de sistemas de informática para la recaudación de contribuciones estatales y municipales;
+
+VII. Vigilancia del cumplimiento de obligaciones fiscales;
+
+VIII. Intercambio de información respecto de ingresos y actividades coordinadas;
+
+IX. Convenios de colaboración respecto de puentes de peaje operados por la Federación ubicados en los municipios, y
+
+X. Modernización administrativa.
 
 ### CAPITULO V. DE LA EXPEDICION DE LAS LICENCIAS
 
-###### ARTICULO 24.
+###### Artículo 24.
 
-El otorgamiento de la licencia o permiso constituye un acto de la autoridad que otorga exclusivamente al solicitante un derecho personal, intransferible y condicionado al cumplimiento estricto de la ley, y solo permite el almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas en un determinado establecimiento cuyo propietario, domicilio y giro aparecen descritos en la licencia o permiso respectivo.
+Los convenios de colaboración administrativa, en todo caso, serán autorizados por el Cabildo correspondiente y por la H. Legislatura del Estado.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+## TRANSITORIOS
 
-Las licencias o permisos para microcervecerías, salas de degustación para la venta exclusiva de cerveza artesanal y tiendas de cerveza artesanal, se otorgarán a precio preferencial a fin de impulsar el desarrollo económico generado por el sector de la cerveza artesanal en el Estado.
+Artículo primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del Estado de Veracruz-Llave.
+
+Artículo segundo. Para el ejercicio fiscal del año 2000, los fondos de participaciones que establece el artículo 9, así como las participaciones que señala el artículo 14 de esta Ley, se distribuirán aplicando los factores de distribución de participaciones federales a municipios empleados en el ejercicio fiscal de 1999, que a continuación se señalan:
+
+MUNICIPIO FACTORES DE
+
+DISTRIBUCIÓN
+
+1. ACAJETE 0.00145517121
+
+2. ACATLAN 0.00156313276
+
+3. ACAYUCAN 0.00790320647
+
+4. ACTOPAN 0.00417976365
+
+5. ACULA 0.00111253575
+
+6. ACULTZINGO 0.00141902468
+
+7. AGUA DULCE 0.01053189143
+
+8. ALAMO TEMAPACHE 0.00761913742
+
+9. ALPATLAHUAC 0.00126707341
+
+10. ALTO LUCERO 0.00374097175
+
+11. ALTOTONGA 0.00269856008
+
+12. ALVARADO 0.00446373526
+
+13. AMATITLAN 0.00128396818
+
+14. AMATLAN DE LOS REYES 0.00313791285
+
+15. ANGEL R. CABADA 0.00388846149
+
+16. ANTIGUA LA 0.00476254953
+
+17. APAZAPAN 0.00109635054
+
+18. AQUILA 0.00108352926
+
+19. ASTACINGA 0.00134140885
+
+20. ATLAHUILCO 0.00138502143
+
+21. ATOYAC 0.00388551900
+
+22. ATZACAN 0.00177730744
+
+23. ATZALAN 0.00314116593
+
+24. AYAHUALULCO 0.00158220820
+
+25. BANDERILLA 0.00248944944
+
+26. BENITO JUAREZ 0.00175159826
+
+27. CAMARON DE TEJEDA 0.00115800142
+
+28. BOCA DEL RIO 0.02581551143
+
+29. CALCAHUALCO 0.00135549814
+
+30. CAMERINO Z. MENDOZA 0.00499107347
+
+31. CARLOS A. CARRILLO 0.00109901190
+
+32. CARRILLO PUERTO 0.00148278932
+
+33. CASTILLO DE TEAYO 0.00207694026
+
+34. CATEMACO 0.00424300759
+
+35. CAZONES DE HERRERA 0.00257961075
+
+36. CERRO AZUL 0.00383616544
+
+37. CITLALTEPEC 0.00128838555
+
+38. COACOATZINTLA 0.00140652626
+
+39. COAHUITLAN 0.00127761415
+
+40. COATEPEC 0.00669687107
+
+41. COATZACOALCOS 0.08482821590
+
+42. COATZINTLA 0.00321620262
+
+43. COETZALA 0.00104711780
+
+44. COLIPA 0.00150368174
+
+45. COMAPA 0.00181479185
+
+46. CORDOBA 0.03145721718
+
+47. COSAMALOAPAN 0.00832913875
+
+48. COSAUTLAN DE
+
+CARVAJAL 0.00255052140
+
+49. COSCOMATEPEC 0.00201918088
+
+50. COSOLEACAQUE 0.01550428815
+
+51. COTAXTLA 0.00692373048
+
+52. COXQUIHUI 0.00128431667
+
+53. COYUTLA 0.00149017098
+
+54. CUICHAPA 0.00220457991
+
+55. CUITLAHUAC 0.00337637632
+
+56. CHACALTIANGUIS 0.00206536204
+
+57. CHALMA 0.00195547517
+
+58. CHICONAMEL 0.00118283517
+
+59. CHICONQUIACO 0.00150795606
+
+60. CHICONTEPEC 0.00257645065
+
+61. CHINAMECA 0.00219104423
+
+62. CHINAMPA DE
+
+GOROSTIZA 0.00159202964
+
+63. CHOAPAS LAS 0.00766486189
+
+64. CHOCAMAN 0.00164189064
+
+65. CHONTLA 0.00173215386
+
+66. CHUMATLAN 0.00133880280
+
+67. EMILIANO ZAPATA 0.00467702559
+
+68. ESPINAL 0.00146092997
+
+69. FILOMENO MATA 0.00156534230
+
+70. FORTIN 0.00471335783
+
+71. GUTIERREZ ZAMORA 0.00515840541
+
+72. HIDALGOTITLAN 0.00236234435
+
+73. HIGO EL 0.00456386540
+
+74. HUATUSCO 0.00551274983
+
+75. HUAYACOCOTLA 0.00182522982
+
+76. HUEYAPAN DE OCAMPO 0.00353211085
+
+77. HUILOAPAN 0.00124630192
+
+78. IGNACIO DE LA LLAVE 0.00265201006
+
+79. ILAMATLAN 0.00113363933
+
+80. ISLA 0.00481816214
+
+81, IXCATEPEC 0.00155087868
+
+82. IXHUACAN DE LOS REYES 0.00177528570
+
+83. IXHUATLAN DE MADERO 0.00208161445
+
+84. IXHUATLAN DEL CAFE 0.00253642040
+
+85. IXHUATLAN DEL SURESTE 0.00234520202
+
+86. IXHUATLANCILLO 0.00140528077
+
+87. IXMATLAHUACAN 0.00202907287
+
+88. IXTACZOQUITLAN 0.01553006076
+
+89. JALACINGO 0.00190456550
+
+90. JALCOMULCO 0.00136370258
+
+91. JALTIPAN DE MORELOS 0.00470470776
+
+92. JAMAPA 0.00142234044
+
+93. JESUS CARRANZA 0.00310459439
+
+94. JILOTEPEC 0.00155360286
+
+95. JOSE AZUETA 0.00347352209
+
+96. JUAN RODRIGUEZ CLARA 0.00385101458
+
+97. JUCHIQUE DE FERRER 0.00315893082
+
+98. LANDERO Y COSS 0.00126269938
+
+99. LERDO DE TEJADA 0.00403570179
+
+100. MAGDALENA 0.00122823104
+
+101. MALTRATA 0.00142653859
+
+102. MANLIO F. ALTAMIRANO 0.00223350984
+
+103. MARIANO ESCOBEDO 0.00209161551
+
+104. MARTINEZ DE LA TORRE 0.01173519303
+
+105. MECATLAN 0.00164314282
+
+106. MECAYAPAN 0.00129748431
+
+107. MEDELLIN DE BRAVO 0.00341483725
+
+108. MIAHUATLAN 0.00154780140
+
+109. MINAS LAS 0.00131345127
+
+110. MINATITLAN 0.02098632070
+
+111. MISANTLA 0.00522138915
+
+112. MIXTLA DE ALTAMIRANO 0.00122877508
+
+113. MOLOACAN 0.00402884046
+
+114. NANCHITAL 0.01091363862
+
+115. NAOLINCO 0.00193712957
+
+116. NARANJAL 0.00111079209
+
+117. NARANJOS AMATLAN 0.00363653972
+
+118. NAUTLA 0.00233289997
+
+119. NOGALES 0.00450133267
+
+120. OLUTA 0.00265585985
+
+121. OMEALCA 0.00202360978
+
+122. ORIZABA 0.03379903919
+
+123. OTATITLAN 0.00196895009
+
+124. OTEAPAN 0.00188902804
+
+125. OZULUAMA 0.00458402731
+
+126. PAJAPAN 0.00130649557
+
+127. PANUCO 0.00786642939
+
+128. PAPANTLA 0.01504423466
+
+129. PASO DE OVEJAS 0.00316813915
+
+130. PASO DEL MACHO 0.00253327507
+
+131. PERLA LA 0.00142856955
+
+132. PEROTE 0.00354864338
+
+133. PLATON SANCHEZ 0.00201720255
+
+134. PLAYA VICENTE 0.00451235289
+
+135. POZA RICA DE HIDALGO 0.02702781510
+
+136. PUEBLO VIEJO 0.00375506531
+
+137. PUENTE NACIONAL 0.00244680472
+
+138. RAFAEL DELGADO 0.00130811131
+
+139. RAFAEL LUCIO 0.00149546217
+
+140. REYES LOS 0.00137723910
+
+141. RIO BLANCO 0.00618949798
+
+142. SALTABARRANCA 0.00153641542
+
+143. SAN ANDRES TENEJAPA 0.00129298674
+
+144. SAN ANDRES TUXTLA 0.00668390703
+
+145. SAN JUAN EVANGELISTA 0.00318808583
+
+146. SANTIAGO TUXTLA 0.00385170249
+
+147. SAYULA DE ALEMAN 0.00355948899
+
+148. SOCONUSCO 0.00176284501
+
+149. SOCHIAPA 0.00102493215
+
+150. SOLEDAD ATZOMPA 0.00152334174
+
+151. SOLEDAD DE DOBLADO 0.00279282595
+
+152. SOTEAPAN 0.00171884593
+
+153. TAMALIN 0.00224703388
+
+154. TAMIAHUA 0.00282705871
+
+155. TAMPICO ALTO 0.00222311511
+
+156. TANCOCO 0.00107240302
+
+157. TANTIMA 0.00177860581
+
+158. TANTOYUCA 0.00388812054
+
+159. TATAHUICAPAN 0.00118008660
+
+160. TATATILA 0.00128979955
+
+161. TECOLUTLA 0.00346267035
+
+162. TEHUIPANGO 0.00148681573
+
+163. TEMPOAL 0.00438830342
+
+164. TENAMPA 0.00124894388
+
+165. TENOCHTITLAN 0.00152233046
+
+166. TEOCELO 0.00263547388
+
+167. TEPATLAXCO 0.00149855180
+
+168. TEPETLAN 0.00130846550
+
+169. TEPETZINTLA 0.00160969516
+
+170. TEQUILA 0.00157717747
+
+171. TEXCATEPEC 0.00118037162
+
+172. TEXHUACAN 0.00120867287
+
+173. TEXISTEPEC 0.00213795157
+
+174. TEZONAPA 0.00341487423
+
+175. TIERRA BLANCA 0.01118808990
+
+176. TIHUATLAN 0.00611833423
+
+177. TLACOJALPAN 0.00172292149
+
+178. TLACOLULAN 0.00138304995
+
+179. TLACOTALPAN 0.00278393226
+
+180. TLACOTEPEC DE MEJIA 0.00145602557
+
+181. TLACHICHILCO 0.00141868746
+
+182. TLALIXCOYAN 0.00318800518
+
+183. TLALNEHUAYOCAN 0.00139084725
+
+184. TLALTETELA 0.00138142000
+
+185. TLAPACOYAN 0.00443327861
+
+186. TLAQUILPA 0.00151369493
+
+187. TLILAPAN 0.00111382888
+
+188. TOMATLAN 0.00179160369
+
+189. TONAYAN 0.00148900898
+
+190. TOTUTLA 0.00146223921
+
+191. TRES VALLES 0.00465204344
+
+192. TUXPAN 0.02630183245
+
+193. TUXTILLA 0.00102973850
+
+194. URSULO GALVAN 0.00325837657
+
+195. UXPANAPA 0.00137055284
+
+196. VEGA DE ALATORRE 0.00373772387
+
+197. VERACRUZ 0.09850552921
+
+198. VIGAS LAS 0.00203853245
+
+199. VILLA ALDAMA 0.00168534637
+
+200. XALAPA 0.06854661414
+
+201. XICO 0.00239734052
+
+202. XOXOCOTLA 0.00139827321
+
+203. YANGA 0.00192962548
+
+204. YECUATLA 0.00212982962
+
+205. ZACUALPAN 0.00156546465
+
+206. ZARAGOZA 0.00167397443
+
+207. ZENTLA 0.00152601322
+
+208. ZONGOLICA 0.00244867199
+
+209. ZONTECOMATLAN 0.00131932621
+
+210. ZOZOCOLCO DE
+
+HIDALGO 0.00157628307
+
+TOTAL 1.00000000000
+
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2012)</small>
+
+Artículo tercero. Para el ejercicio fiscal del año 2013, los fondos de participaciones que establecen los artículos 9 y 14 de esta Ley, el Fondo de Compensación del ISAN, así como los Fondos de Fiscalización y el Fondo de Extracción de Hidrocarburos, se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2012, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
+
+La recaudación derivada de la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios, al consumo de gasolina y diesel, en sus porcentajes correspondientes al 9/11 y al 2/11 del Fondo de Compensación para las 10 entidades más pobres, se distribuirán a los municipios de la Entidad en 70% con base en el factor de distribución del Fondo de Fortalecimiento Municipal y Demarcaciones Territoriales del D. F., (FORTAMUNDF) y en 30% con base en el Fondo de Infraestructura Social Municipal, (FISM) vigentes en 2012.
+
+Artículo cuarto. (DEROGADO, G.O. 9 DE JUNIO DE 2008)
+
+Artículo quinto. Para efecto de la determinación del Coeficiente de Participación Municipal (CPM i t-1) señalado en el artículo 12, y el coeficiente de recaudación municipal (CISTUV i t-1) señalado en el artículo 15, correspondiente al ejercicio fiscal del año 2001, se utilizarán los factores de distribución que se señalan en el artículo segundo transitorio de esta Ley.
+
+Artículo sexto. La Legislatura del Estado, en un plazo de treinta días contados a partir del inicio de vigencia de la presente Ley, expedirá el Reglamento a que hace referencia el artículo 22 de esta Ley.
+
+Dada en el salón de sesiones de la H. LVIII Legislatura del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los quince días del mes de diciembre de mil novecientos noventa y nueve. Gabriel Miguel Domínguez Portilla, diputado presidente.- Rúbrica. Guillermo Gerónimo Hernández, diputado secretario.- Rúbrica."
+
+En cumplimiento de lo dispuesto por los artículos 87 fracción I y 93 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, mando se publique, circule y se le dé el debido cumplimiento, residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los veinte días del mes de diciembre de mil novecientos noventa y nueve.
+
+Miguel Alemán Velazco
+
+Gobernador Constitucional del Estado
+
+(Rúbrica)
+
+Noemí Quirasco Hernández
+
+Secretaria General de Gobierno
+
+(Rúbrica)
+
+Juan Amieva Huerta
+
+Secretario de Finanzas y Planeación
+
+(Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 3 DE ENERO DE 2002
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 25 DE DICIEMBRE DE 2002.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+DECRETO No. 547 DE REFORMA CONSTITUCIONAL.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 8 DE DICIEMBRE DE 2003.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+G.O. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 12 DE ENERO DE 2005.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 11 DE ENERO DE 2006.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE ENERO DE 2007.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este decreto.
+
+G.O. 15 DE AGOSTO DE 2007.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE VERACRUZ.
+
+G.O. 31 DE DICIEMBRE DE 2007.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 13 DE FEBRERO DE 2008.
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan a este Decreto.
+
+G.O. 9 DE JUNIO DE 2008.
+
+Artículo único. El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial del Estado.
+
+G.O. 12 DE DICIEMBRE DE 2008.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 4 DE DICIEMBRE DE 2009.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 27 DE DICIEMBRE DE 2010.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 14 DE DICIEMBRE DE 2011.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE DICIEMBRE DE 2012.
 
 ###### ARTICULO 25.
 
@@ -1223,7 +2265,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 21 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-92 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 590 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ ”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
