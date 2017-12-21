@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-benito-juarez-del-estado-88631
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-20"
-last_updated: "2016-12-21"
+last_updated: "2017-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 20 de junio de 2012.
 
@@ -67,9 +67,11 @@ Los ingresos municipales deberán determinarse, liquidarse y recaudarse y la fac
 
 La recaudación y administración de los impuestos, derechos, productos y aprovechamientos a que se refiere esta ley, es competencia de la Tesorería Municipal de Benito Juárez, sus Dependencias, Direcciones, Unidades Administrativas y Auxiliares, en los términos previstos por sus respectivos Reglamentos Interiores.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 5.
 
-Para efecto de mejor comprensión, cuando en esta Ley se mencione S. M. G., se entenderá como Salario Mínimo General Vigente, diario, que corresponda al Estado de Quintana Roo.
+Cuando en esta Ley se haga mención a las siglas UMA, se entenderá que se refiere al valor diario de la Unidad de Medida y Actualización vigente.
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -209,11 +211,13 @@ III. El fundo legal.
 
 IV. La propiedad comunal ejidal, parcelaria, cuando éstos pertenezcan a ejidatarios del núcleo ejidal de que se trate, con excepción de solares urbanos.
 
-###### Articulo 18.
+###### Artículo 18.
 
 Cuando el impuesto causado sea cubierto en una sola emisión por anticipado y cubra todo el año y sea enterado en la Tesorería Municipal se faculta al Ayuntamiento a conceder un descuento hasta del 25% del total del importe, siempre y cuando el pago se efectué antes del 31 de enero y si el pago se realiza posteriormente y hasta el último día hábil del mes de febrero, hasta un 15% de descuento del total del importe, previo acuerdo del Ayuntamiento.
 
-Cuando el contribuyente sea una persona con discapacidad, pensionado, jubilado o cuente con su credencial del lNAPAM o INSEN, el Ayuntamiento podrá conceder un descuento hasta del 50% del total del importe señalado en el artículo 14 de esta Ley, cuando el importe anual causado sea cubierto en una sola exhibición por anticipado. Este beneficio se aplicará a un solo inmueble del contribuyente, si dicho inmueble corresponde al domicilio de su propia casa habitación y podrá aplicarse hasta por un valor de veinte mil S.M.G. al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en el párrafo anterior.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Cuando el contribuyente sea una persona con discapacidad, pensionado, jubilado o cuente con su credencial del INAPAM o INSEN, el Ayuntamiento podrá conceder un descuento hasta del 50% del total del importe señalado en el artículo 14 de esta Ley, cuando el importe anual causado sea cubierto en una sola exhibición por anticipado. Este beneficio se aplicará a un solo inmueble del contribuyente, si dicho inmueble corresponde al domicilio de su propia casa habitación y podrá aplicarse hasta por un valor de veinte mil veces UMA. Al contribuyente que goce de este beneficio no le será aplicable lo dispuesto en el párrafo anterior.
 
 Se faculta al Ayuntamiento, para que en las situaciones de emergencia derivadas de desastres naturales, declaradas por el Titular del Ejecutivo del Estado, se concedan estímulos fiscales a los contribuyentes hasta de un 50% del monto del impuesto predial, cuando éste sea cubierto en una sola emisión, por anticipado y cubra todo el año, y sea enterado en la Tesorería Municipal antes del 31 de diciembre del año de la contingencia, y hasta un 25% del total del importe, si el pago se realiza en los meses de enero y febrero del año siguiente.
 
@@ -435,37 +439,59 @@ I. Obras de teatro, zarzuelas, comedia y opera, 4%.
 
 II. Variedades y similares, aun cuando se realicen en lugares como restaurantes, bares, cabarets, salones de fiesta o baile y centros nocturnos, 20%
 
-III. Cuando no se expidan boletos o comprobantes, la Tesorería Municipal fijará cuotas diarias de 2.5 a 15 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. Circos, 6% o en su caso, la Tesorería Municipal fijará una cuota diaria de 4.0 a 6.0 S.M.G.
+III. Cuando no se expidan boletos o comprobantes, la Tesorería Municipal fijará cuotas diarias de 2.5 a 15 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Circos 6% o en su caso, la Tesorería Municipal fijará una cuota diaria de 4.0 a 6.0 UMA.
 
 V. Jaripeos, Box, Lucha, Juegos Deportivos, Kermeses o Verbenas, 10%
 
-VI. Ferias y juegos mecánicos en general, 8% o en su caso, la cuota diaria que fije la Tesorería Municipal de 4 a 8 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI. Ferias y juegos mecánicos en general, 8% o en su caso, la cuota diaria que fije la Tesorería Municipal de 4 a 8 UMA.
 
 VII. Bailes públicos populares que se celebren de forma permanente o eventual:
 
-a) Según aforo hasta 100 personas, 7 SMG.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) De 101 hasta 500 personas, 50 SMG.
+a) Según aforo hasta 100 personas, 7 UMA.
 
-c) De 501 hasta 2000 personas, 70 SMG.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-d) De 2001 en adelante, 90 SMG.
+b) De 101 hasta 500 personas, 50 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+c) De 501 hasta 2000 personas, 70 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+d) De 2001, en adelante, 90 UMA.
 
 VIII. No especificados, siempre que no sean gravados por el Impuesto al Valor agregado, del 15% al 30%.
 
-IX. Aparatos automáticos y electrónicos no musicales, que trabajen con cualquiera tipo de ficha, moneda, tarjeta y electrónicos, la cuota mensual por cada juego será de 1.0 a 5.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IX. Aparatos automáticos y electrónicos no musicales, que trabajen con cualquiera tipo de ficha, moneda, tarjeta y electrónicos, la cuota mensual por cada juego será de 2.7 UMA.
 
 X. Proyecciones públicas con fines lucrativos excepto cines, del 10 al 20%
 
 XI. Cines, 10%.
 
-XII. Juegos electromecánicos que funcionen con tarjetas, fichas y/o monedas, la cuota mensual por cada máquina será de 2.0 a 3.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XIII. Videojuegos, la cuota mensual por máquina será de 2.0 a 3.0 S.M.G.
+XII. Juegos electromecánicos que funcionen con tarjetas, fichas y/o monedas, la cuota mensual por cada máquina será de 2.7 UMA.
 
-XIV. Eventos de luz y sonido, de 5.0 a 15 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIII. Videojuegos, la cuota mensual por máquina será de 2.7 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XIV. Eventos de luz y sonido, de 5.0 a 15 UMA.
 
 XV. Conciertos, recitales y audiciones musicales de 6 al 8 %.
 
@@ -551,9 +577,13 @@ El pago de este impuesto, se causará anualmente de conformidad con la siguiente
 
 TARIFA
 
-I. Bicicletas y triciclo 1.5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Coches y carros de mano o tracción animal 1.5 S.M.G.
+I. Bicicletas y triciclos 1.5 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+II. Coches y carros de mano o tracción animal 1.5 UMA.
 
 Si el período de circulación del vehículo es menor de un semestre, sólo causará el 50% de las cuotas anteriores.
 
@@ -613,11 +643,15 @@ Este impuesto se calculará aplicando a la base la tasa correspondiente de acuer
 
 TARIFAS
 
-I. Sobre los ingresos obtenidos por premios derivados de loterías, rifas, sorteos y concursos; 6%;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+I. Sobre los ingresos obtenidos por premios derivados de loterías, rifas, sorteos y concursos, 10%;
 
 II. Sobre los ingresos obtenidos por la enajenación de billetes y demás comprobantes que permitan participar en loterías, rifas, sorteos o concursos de todo tipo 10%;
 
-III. El 6% de la base a que se refiere la fracción IV del artículo 37 cuando se trate de apuestas y juegos permitidos.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. El 10% de la base a que se refiere la fracción IV del artículo 37 cuando se trate de apuestas y juegos permitidos;
 
 IV. El 5% de la base a que se refiere la fracción V del artículo 37, cuando se trate de comprobantes, billetes o cualquier otro comprobante que permita participar en rifas, sorteos y concursos de manera gratuita.
 
@@ -659,13 +693,17 @@ El impuesto se causará de conformidad con la siguiente:
 
 TARIFA
 
-I. Conjuntos musicales, 0.5 S.M.G. hasta 4.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-por elemento cada día de actuación
+I. Conjuntos musicales, 0.5 hasta 4.0 UMA.
 
-II. Solistas, pagaran 0.5 S.M.G. hasta 4.0 S.M.G.
+por elemento, cada día de actuación:
 
-por cada día de función
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+II. Solistas, pagarán 0.5 hasta 4.0 UMA.
+
+por cada día de función:
 
 ###### Artículo 44.
 
@@ -841,35 +879,63 @@ Todos los servicios que proporcione la Dirección de Transito Municipal, así co
 
 I. Vehículos que se matriculen y registren en las Oficinas del Estado:
 
-a) Automóviles y camiones 2.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Motocicletas 1.0 S.M.G.
+a) Automóviles y camiones 2.0 UMA.
 
-c) Bicicletas y triciclos 0.5 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-d) Carros y carretas de tracción animal 0.5 S.M.G.
+b) Motocicletas 1.0 UMA.
 
-e) Carros de mano 0.5 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-f) Remolque hasta de 10 toneladas 1.0 S.M.G.
+c) Bicicletas y triciclos 0.5 UMA.
 
-Más de 10 y hasta 15 toneladas 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Más de 15 y hasta 20 Toneladas 1.5 S.M.G.
+d) Carros y carretas de tracción animal 0.5 UMA.
 
-Más de 20 toneladas 2.5 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-g) Lanchas particulares de 5 hasta 10 metros 3.5 S.M.G.
+e) Carros de mano 0.5 UMA.
 
-h) Lanchas particulares de 11 metros en adelante 4.5 S.M.G.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+f) Remolque hasta de 10 toneladas 1.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Más de 10 y hasta 15 toneladas 1.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Más de 15 y hasta 20 Toneladas 1.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Más de 20 toneladas 2.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+g) Lanchas particulares de 5 hasta 10 metros 3.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+h) Lanchas particulares de 11 metros en adelante 4.5 UMA.
 
 i) Lanchas para servicio Público:
 
-1. Hasta 5 metros 13.5 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. De 5 a 10 metros 19.5 S.M.G.
+1. Hasta 5 metros 13.5 UMA.
 
-3. De más de 10 metros 45.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. De 5 a 10 metros 19.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3. De más de 10 metros 45.0 UMA.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
@@ -877,87 +943,133 @@ En el caso de los incisos a), b), c), d), e) y f) tratándose de matrícula y re
 
 II. Derechos de control vehicular:
 
-a) Para automóviles y camionetas particulares hasta de dos toneladas, 10% del Impuesto Sobre Tenencia o Uso de Vehículos, del año calendario vigente o 6.3 S.M.G., cualquiera que sea el mayor;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Para camiones particulares hasta de ocho toneladas un 55% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 6.0 S.M.G., cualquiera que sea el mayor. De más de 8 toneladas un 56% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 7.0 S.M.G., cualquiera que sea el mayor;
+a) Para automóviles y camionetas particulares hasta de dos toneladas, 10% del Impuesto Sobre Tenencia o Uso de Vehículos, del año calendario vigente o 6.3 UMA, cualquiera que sea el mayor;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b) Para camiones particulares hasta de ocho toneladas un 55% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 6.0 UMA, cualquiera que sea el mayor. De más de 8 toneladas un 56% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 7.0 UMA, cualquiera que sea el mayor;
 
 c) Para automóviles y camionetas en servicio público:
 
-1. Taxis: un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 8.0 S.M.G., cualquiera que sea el mayor;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Arrendadoras: un 18% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 17 S.M.G., cualquiera que sea mayor.
+1. Taxis: un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 8.0 UMA, cualquiera que sea el mayor;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Arrendadoras: un 18% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 17 UMA, cualquiera que sea mayor.
 
 d) Para camiones de servicio público local:
 
-1. Hasta de ocho toneladas, un 60% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, u 8.0 S.M.G., cualquiera que sea el mayor;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Más de ocho toneladas, un 60% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, u 11.5 S.M.G., cualquiera que sea el mayor.
+1. Hasta de ocho toneladas, un 60% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, u 8.0 UMA, cualquiera que sea el mayor;
 
-e) Por la autorización de modificación del parque 11 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Más de ocho toneladas, un 60% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, u 11.5 UMA, cualquiera que sea el mayor.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+e) Por la autorización de modificación del parque
 
 vehicular para la prestación del servicio público de
 
 transporte urbano y suburbano de pasajeros en ruta
 
-establecida, por unidad.
+establecida, por unidad. 11 UMA.
 
-f) Para autobuses particulares, un 50% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 5.3 S.M.G., cualquiera que sea mayor
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-g) Para remolques 3.0 S.M.G.
+f) Para autobuses particulares, un 50% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente o 6.3 UMA, cualquiera que sea mayor
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+g) Para remolques 3.0 UMA.
 
 h) Para motocicletas, cada año
 
-1. Particulares 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Arrendadora 2.2 S.M.G.
+1. Particulares 1.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Arrendadora 2.2 UMA.
 
 i) Para bicicletas cada año
 
-1. Particulares 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Servicio Público 2.2 S.M.G.
+1. Particulares 1.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Servicio Público 2.2 UMA.
 
 j) Para triciclos cada año
 
-1. Particulares 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Servicio Público 2.2 S.M.G.
+1. Particulares 1.0 UMA.
 
-k) Para carros de tracción animal 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-l) Para carros de mano 1.0 S.M.G.
+2. Servicio Público 2.2 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+k) Para carros de tracción animal 1.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+l) Para carros de mano 1.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 m) Para demostración,
 
 permisos provisionales para
 
-circulación de vehículos 3.0 S.M.G.
+circulación de vehículos 3.0 UMA.
 
 con vigencia de 15 días
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 n) Por expedición de tarjetas
 
-de circulación 0.5 S.M.G.
+de circulación 0.5 UMA.
 
-o) Por refrendo de calcomanía identificadora de placas un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 2.0 S.M.G., cualquiera que sea el mayor
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-p) Por placas de demostración 6.3 S.M.G.
+o) Por refrendo de calcomanía identificadora de placas un 10% del Impuesto Sobre Tenencia y Uso de Vehículos del año calendario vigente, o 2.0 UMA, cualquiera que sea el mayor
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+p) Por placas de demostración 6.3 UMA.
 
 Tratándose de derecho vehicular del inciso a) a la n) deberán pagar en un plazo de 30 días, en el caso del inciso o), el plazo del pago será los primeros tres meses de cada año.
 
 III. Por la expedición o renovación de licencias para conducir vehículos de motor causarán los derechos por cada año de vigencia de la misma, conforme a la siguiente tarifa:
 
-a) Licencia de servicio público estatal 4.5 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+a) Licencia de servicio público estatal 4.5 UMA.
 
-b) Licencia de chofer 6.20 SMG.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+b) Licencia de chofer 6.20 UMA.
 
-c) Licencia de automovilista 5.75 SMG.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-d) Licencia de motociclista 2.3 S.M.G.
+c) Licencia de automovilista 5.75 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+d) Licencia de motociclista 2.3 UMA.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
@@ -965,55 +1077,55 @@ En el caso de los incisos b) y c) de ésta fracción, cuando se tramite la licen
 
 IV. Por la expedición del permiso provisional para conducir vehículos de motor, los derechos de (sic) causarán por cada mes de vigencia del mismo, conforme a la siguiente tarifa:
 
-a) Menor de edad 1.1 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Extranjero 1.2 S.M.G.
+a) Menor de edad 1.1 UMA.
 
-V. Por reexpedición de la licencia de conducir en caso de extravío o destrucción causará derechos por 6 S.M.G. En todo caso, la licencia deberá ser reexpedida en los mismos términos que el documento extraviado o destruido.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b) Extranjero 1.2 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Por reexpedición de la licencia de conducir en caso de extravío o destrucción causará derechos por 6 UMA. En todo caso, la licencia deberá ser reexpedida en los mismos términos que el documento extraviado o destruido.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 VI. Por la expedición de constancias de licencias
 
-para conducir 6 S.M.G.
+para conducir 6 UMA.
 
-VII. Por la expedición y reposición de la licencia para 9 S.M.G
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-conducir vehículos de motor mediante los
+VII. Por la expedición y reposición de la licencia para conducir vehículos de motor mediante los cuales se preste el servicio público de transporte de pasajeros mediante el régimen de concesión en su modalidad de servicio público de automóviles de alquiler tipo servicio ruletero. 9 UMA.
 
-cuales se preste el servicio público de transporte
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-de pasajeros mediante el régimen de concesión en
+VIII. Por la expedición y reposición de la licencia para conducir vehículos de motor mediante los cuales se preste el servicio público de transporte de pasajeros en autobuses en ruta establecida en el Municipio de Benito Juárez, Quintana Roo, mediante el régimen de concesión. 11 UMA.
 
-su modalidad de servicio público de automóviles de
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-alquiler tipo servicio ruletero.
-
-VIII. Por la expedición y reposición de la licencia para 11 S.M.G.
-
-conducir vehículos de motor mediante los cuales se
-
-preste el servicio público de transporte de pasajeros
-
-en autobuses en ruta establecida en el Municipio de
-
-Benito Juárez, Quintana Roo, mediante el régimen de
-
-concesión.
-
-IX. Por el examen optometrista de agudeza visual para conducir un vehículo de motor, se causará el derecho equivalente a 1.2 S.M.G.
+IX. Por el examen optometrista de agudeza visual para conducir un vehículo de motor, se causará el derecho equivalente a 1.2 UMA.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 Cuando se tramite éste examen con motivo de un primer empleo, se otorgará un descuento de hasta el 50% en el pago del derecho respectivo, previa acreditación de la obtención del primer empleo a que hace referencia la ley de la materia.
 
-X. Por el examen de grupo sanguíneo y la expedición del comprobante correspondiente, se causará el derecho equivalente a 1.2 S.M.G.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+X. Por el examen de grupo sanguíneo y la expedición del comprobante correspondiente, se causará el derecho equivalente a 1.2 UMA.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 Cuando se tramite éste examen con motivo de un primer empleo, se otorgará un descuento de hasta el 50% en el pago del derecho respectivo, previa acreditación de la obtención del primer empleo a que hace referencia la ley de la materia.
 
-XI. Por el arrastre de grúa, derivado de hechos de tránsito 8.3 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XII. Por cada día de estancia de vehículos en el corralón 0.4 S.M.G.
+XI. Por el arrastre de grúa, derivado de hechos de tránsito 8.3 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XII. Por cada día de estancia de vehículos en el corralón 0.4 UMA.
 
 REGISTRO DE VEHÍCULOS
 
@@ -1079,101 +1191,125 @@ I. (DEROGADA, P.O. 8 DE OCTUBRE DE 2014)
 
 II. Matrimonios
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 a) En las oficinas del registro
 
-civil en días y horas hábiles 2.0 S.M.G.
+civil en días y horas hábiles 2.0 UMA.
 
-a) (sic) En las oficinas del registro
-
-civil en días y horas hábiles 2.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 b) En las oficinas del registro
 
-civil en días y horas inhábiles 5.5 S.M.G.
+civil en días y horas inhábiles 5.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 c) Fuera de las oficinas del
 
-registro civil en días y horas hábiles 6.5 S.M.G.
+registro civil en días y horas hábiles 6.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 d) Fuera de las oficinas del
 
 registro civil en sábados y domingos
 
-y días festivos 22.5 S.M.G.
+y días festivos 22.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 e) Registro de matrimonios
 
 contraídos por mexicanos fuera
 
-de la República 8.5 S.M.G.
+de la República 8.5 UMA.
 
-f) Rectificación de actas de matrimonio 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+f) Rectificación de actas de matrimonio 1.0 UMA.
 
-g) Matrimonio entre extranjeros en la oficina del Registro 55.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Civil
+g) Matrimonio entre extranjeros en la oficina del Registro Civil 65.0 UMA.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-h) Matrimonios entre extranjeros fuera de la oficina del 70.0 S.M.G.
+h) Matrimonios entre extranjeros fuera de la oficina del Registro Civil 70.0 UMA.
 
-Registro Civil
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO [REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2012)</small>
+i) Matrimonio entre extranjeros y mexicanos en las oficinas
 
-i) Matrimonio entre extranjeros y mexicanos en las oficinas 20.0 S.M.G.
+del Registro Civil 20.0 UMA.
 
-del Registro Civil
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+j) Matrimonio entre extranjeros y mexicanos fuera de las
 
-j) Matrimonio entre extranjeros y mexicanos fuera de las 65.0 SMG.
+oficinas del Registro Civil 65.0 UMA.
 
-oficinas del Registro Civil
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-k) Por la expedición de copias certificadas de actos del 2.5 S.M.G.
+k) Por la expedición de copias certificadas de actos del
 
 estado civil de las personas a través de medios remotos o
 
-terminales electrónicas
+terminales electrónicas 2.5 UMA.
 
 III. Divorcios
 
 a) Divorcios voluntarios
 
-1. Por acta de solicitud 10.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Por acta de divorcio 10.0 S.M.G.
+1. Por acta de solicitud 10.0 UMA.
 
-3. Por acta de audiencia 5.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Por cada acta de divorcio
+2. Por acta de divorcio 10.0 UMA.
 
-decretada por las autoridades judiciales
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-que se inscriba en el
+3. Por acta de audiencia 5.0 UMA.
 
-Registro Civil 5.5 S.M.G.
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+4. Por acta de desistimiento 10.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b) Por cada acta de divorcio decretada
+
+por las autoridades judiciales que se inscriba
+
+en el Registro Civil 5.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 c) Por el registro de la escritura
 
-que contenga el divorcio notarial 10. S.M.G.
+que contenga el divorcio notarial 10.0 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 d) Divorcio entre extranjeros en
 
-las oficinas del Registro Civil 50.0 S.M.G.
+las oficinas del Registro Civil 50.0 UMA
 
 IV. Por cada acta de supervivencia
 
-a) En la oficina del registro civil 0.3 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Levantada a domicilio 2.5 S.M.G.
+a) En la oficina del registro civil 0.3 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b) Levantada a domicilio 2.5 UMA.
 
 V. Otros
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 a) Inscripción de ejecutorias
 
@@ -1183,17 +1319,21 @@ persona, la presunción de muerte
 
 o que ha perdido la capacidad de
 
-administrar bienes. 7.5 S.M.G.
+administrar bienes 7.5 UMA.
 
-b) Asentamientos de actas de defunción 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-c) Anotaciones marginales 0.5 S.M.G.
+b) Asentamientos de actas de defunción 1.0 UMA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+c) Anotaciones marginales 0.5 UMA.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 d) Expedición de certificaciones de
 
-actas de nacimiento, por cada una 1.0 S.M.G.
+actas de nacimiento, por cada una 1.0 UMA.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -1203,43 +1343,69 @@ copia certificada del acta de nacimiento,
 
 procederá la exención de su cobro.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 e) Expedición de copias certificadas
 
-(sic) actas de divorcio, por cada una 3.5 S.M.G.
+de actas de divorcio, por cada una 3.5 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 f) Expedición de actas de defunción,
 
-por cada una 1.0 S.M.G.
+por cada una 1.0 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 g) Expedición de actas de matrimonio,
 
-por cada una 1.0 S.M.G.
+por cada una 1.0 UMA
 
-h) Transcripción de documentos, por cada acto 4.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-i) Expedición de acta de reconocimiento 1.0 S.M.G.
+h) Transcripción de documentos, por cada acto 4.0 UMA
 
-j) Expedición de acta de adopción 4.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-k) Expedición de acta de inscripción 4.0 S.M.G.
+i) Expedición de acta de reconocimiento 1.0 UMA
 
-l) Constancia de inexistencia registral 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+j) Expedición de acta de adopción 4.0 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+k) Expedición de acta de inscripción 4.0 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+l) Constancia de inexistencia registral 1.0 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 m) Certificación de documentos que
 
-integran los apéndices de los actos registrales 5.0 S.M.G.
+integran los apéndices de los actos registrales 5.0 UMA
 
-n) Búsqueda de documentos 10.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-o) Otros no especificados 10.0 S.M.G.
+n) Búsqueda de documentos 10.0 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+o) Otros no especificados 10.0 UMA
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 p) Trámite de actas certificadas de otros Municipios del Estado y de otras Entidades Federativas:
 
-1. Nacimiento, Matrimonio, defunción, reconocimiento 2.75 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Adopción, divorcio o inscripción de actos 6.50 S.M.G.
+1. Nacimiento, Matrimonio, defunción, reconocimiento 2.75 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Adopción, divorcio o inscripción de actos 6.50 UMA
 
 Los derechos señalados en los incisos h), i), j), k) y l) de esta fracción, se causarán con la expedición por cada copia certificada de los actos correspondientes.
 
@@ -1331,11 +1497,13 @@ Cuando el Municipio no pueda efectuar por sí mismo la función contenida en la 
 
 Las licencias y refrendos de obras comprendidas en la fracción I, se expedirán por un período de 360 días y las comprendidas en la fracción II, por los plazos que fijen el Ayuntamiento, los que no serán menores que el anterior.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 68.
 
-La ejecución de toda obra sin licencia respectiva, se sancionará de 1 a 10 SMG por metro cuadrado, multa que podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia. Tratándose de viviendas de interés medio, la sanción no podrá exceder en un 30% sobre el valor total de la construcción realizada.
+La ejecución de toda obra sin licencia respectiva, se sancionará de 1 a 10 U.M.A. por metro cuadrado, multa que podrá ampliarse hasta un 50% del costo estimado de la obra en caso de reincidencia. Tratándose de viviendas de interés medio, la sanción no podrá exceder en un 30% sobre el valor total de la construcción realizada.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 Lo dispuesto en el párrafo anterior no será aplicable para las viviendas de interés social.
 
@@ -1349,13 +1517,17 @@ Las licencias de demolición se conferirán previa expedición de las autorizaci
 
 TARIFA
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 I. Cuando se trata de casa-habitación
 
-cualquiera que sea su tipo por m2 0.15 S.M.G.
+cualquiera que sea su tipo por m2 0.15 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 II. Tratándose de construcciones
 
-determinadas a fines distintos a 0.30 S.M.G.
+determinadas a fines distintos a 0.30 UMA.
 
 lo señalado en el inciso anterior,
 
@@ -1375,39 +1547,45 @@ I. Por la autorización del régimen de propiedad en condominio por tipo de cons
 
 a) Interés social EXENTO
 
-b) Medio 6 S.M.G. por unidad privativa
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-c) Residencial 8 S.M.G. por unidad privativa
+b) Medio 6 UMA por unidad privativa
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+c) Residencial 8 UMA por unidad privativa
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 d) Comercial en Zona
 
-Hotelera 10 S.M.G. por unidad privativa
+Hotelera 10 UMA por unidad privativa
 
 II. Por la autorización subdivisión o fraccionamiento de predios de tipo general:
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a) Cuando resulten 2 lotes 15 SMG.
+a) Cuando resulten 2 lotes 15.0 UMA.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Cuando resulten más de 2 lotes, por cada lote excedente 15 SMG.
+b) Cuando resulten más de 2 lotes, por cada lote excedente 15.0 UMA.
 
 III. Por la fusión de predios en general:
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a) Por la fusión de 2 lotes 15 SMG.
+a) Por la fusión de 2 lotes 4.60 UMA.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Por cada lote que exceda de 2, a 15 SMG.
+b) Por cada lote que exceda de 2 4.03 UMA.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 72 Bis.
 
-Por la emisión de documentos en materia de Desarrollo Urbano, se pagará 4.0 S.M.G.
+Por la emisión de documentos en materia de Desarrollo Urbano, se pagará 4.0 UMA.
 
 ### CAPÍTULO V. DE LAS CERTIFICACIONES
 
@@ -1421,51 +1599,101 @@ Las certificaciones o legalizaciones de documentos a que se hace referencia en e
 
 TARIFA
 
-I. Legalización de firmas 1.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+I. Legalización de firmas 1.0 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 II. Expedición de certificados de algún hecho ocurrido en presencia de la autoridad, excluyendo
 
-copias certificadas del registro civil 2.0 S.M.G.
+copias certificadas del registro civil 2.0 UMA.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 III. Expedición de copias certificadas por parte de la Secretaria General del Ayuntamiento:
 
-A) Constancias existentes en los archivos del Municipio, por cada hoja: 0.10 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-B) Certificación de actas de las sesiones del Ayuntamiento y sus anexos por hoja: 0.50 S.M.G.
+A) Constancias existentes en los archivos del Municipio, por cada hoja: 0.10 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+B) Certificación de actas de las sesiones del Ayuntamiento y sus anexos por hoja: 0.50 UMA
 
 C) Ejemplares de la Gaceta Oficial:
 
-a) Ejemplar de Gaceta Oficial hasta 5 hojas 2.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Ejemplar de Gaceta oficial de 6 hasta 20 hojas 3.0 S.M.G
+a) Ejemplar de Gaceta Oficial hasta 5 hojas 2.0 UMA
 
-c) Ejemplar de Gaceta Oficial de 21 hojas en adelante 4.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b) Ejemplar de Gaceta oficial de 6 hasta 20 hojas 3.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+c) Ejemplar de Gaceta Oficial de 21 hojas en adelante 4.0 UMA.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-IV. Por expedición de certificados emitidos por la Tesorería Municipal: 3.0 S.M.G.
+IV. Por expedición de certificados emitidos por la Tesorería Municipal: 3.0 UMA.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 V. Por expedición de documentos por parte de la Secretaria General del Ayuntamiento:
 
-A) Certificados médicos: 0.50 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-B) Certificados médicos programa alcoholimetría (con grado de alcohol de 0.40 miligramos o más o por el uso de cualquier narcótico o droga): 4.0 S.M.G.
+A) Certificados médicos: 0.50 UMA.
 
-C) Constancias de arresto: 0.50 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-D) Constancias de arresto programa alcoholimetría (con grado de alcohol de 0.40 miligramos o más o por el uso de cualquier narcótico o droga): 6.00 S.M.G.
+B) Certificados médicos programa alcoholimetría (con grado de alcohol de 0.40 miligramos o más o por el uso de cualquier narcótico o droga): 4.0 UMA.
 
-E) Constancias de siniestros bomberos: 5.00 S.M.G
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+C) Constancias de arresto: 0.50 UMA.
 
-VI. Por la expedición de constancias sobre embargos 5.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-administrativos expedidas por la Tesorería Municipal.
+D) Constancias de arresto programa alcoholimetría (con grado de alcohol de 0.40 miligramos o más o por el uso de cualquier narcótico o droga): 6.00 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+E) Constancias de siniestros bomberos: 5.00 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI. Por la expedición de constancias sobre embargos 5.0 UMA.
+
+Administrativos expedidas por la Tesorería Municipal.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VII. Por expedición de certificados y constancias
+
+por parte de la Contraloría Municipal, por cada hoja. 0.10 UMA.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VIII. Expedición de Constancias de No Inhabilitación
+
+expedidas por la Contraloría Municipal. De 0 a 2.0 UMA.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IX. Por la expedición de documentos en copia simple,
+
+por parte de la Contraloría Municipal:
+
+A) De una a cinco fojas no se causará derecho alguno.
+
+B) De seis fojas en adelante y por cada una 0.025 UMA.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+X. Por la expedición de cada disco compacto 1.0 UMA.
 
 ###### Artículo 75.
 
@@ -1491,21 +1719,25 @@ Por los servicios de Panteones que preste el Municipio, se cobrarán los derecho
 
 I. La concesión temporal o la adquisición a perpetuidad de terrenos en los panteones
 
-a) Primer patio, concesión o refrendos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-por seis años de 12.0 a 18.5 S.M.G.
+a) Primer patio, concesión o refrendos por seis años de 12.0 a 18.5 UMA.
 
-b) Segundo patio, concesión o refrendos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-por seis años de 8.5 a 12.5 S.M.G.
+b) Segundo patio, concesión o refrendos por seis años de 8.5 a 12.5 UMA.
 
-c) Primer patio, perpetuidad de 25.7 a 38.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-d) Segundo patio, perpetuidad de 12.0 a 18.0 S.M.G.
+c) Primer patio, perpetuidad de 25.7 a 38.0 UMA.
 
-e) Zonas de restos áridos, osarios
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a perpetuidad de 12.0 a 18.5 S.M.G.
+d) Segundo patio, perpetuidad de 12.0 a 18.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+e) Zona de restos áridos, osarios a perpetuidad de 12.0 a 18.5 UMA
 
 f) Las inhumaciones en el tercer patio (fosa común) serán gratuitas.
 
@@ -1513,45 +1745,49 @@ II. Por el traslado de cadáveres o restos áridos, exhumaciones y/o inhumacione
 
 TARIFA
 
-a) Autorización de traslado de un Cadáver de un Municipio a otro, previo permiso sanitario y del
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Registro Civil de 1.8 a 2.4 S.M.G.
+a) Autorización de traslado de un Cadáver de un Municipio a otro, previo permiso sanitario y del Registro Civil de 1.8 a 2.4 UMA.
 
-b) Autorización de traslado de un cadáver de un Municipio del Estado a otra entidad de la República, previo permiso sanitario y del Registro Civil de 2.8 a 3.6 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-c) Autorización de traslado de un
+b) Autorización de traslado de un cadáver de un Municipio del Estado a otra entidad de la República, previo permiso sanitario y del Registro Civil de 2.8 a 3.6 UMA.
 
-cadáver de un Municipio del Estado
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-al extranjero, previo permiso sanitario
+c) Autorización de traslado de un cadáver de un Municipio del Estado al extranjero, previo permiso sanitario y del Registro Civil de 10 a 14.0 UMA.
 
-y del Registro Civil de 10 a 14.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-d) Autorización de traslado de restos áridos fuera de un Municipio del Estado al extranjero, previo
+d) Autorización de traslado de restos áridos fuera de un Municipio del Estado al extranjero, previo permiso sanitario y del Registro Civil de 1.8 a 2.4 UMA.
 
-permiso sanitario y del Registro Civil de 1.8 a 2.4 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-e) Autorización de traslado de restos áridos de un Municipio a otro, previo permiso sanitario y
+e) Autorización de traslado de restos áridos de un Municipio a otro, previo permiso sanitario y del Registro Civil de 1.1 a 1.5 UMA.
 
-del Registro Civil de 1.1 a 1.5 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-f) Autorización de traslado de restos áridos de un Municipio del Estado al extranjero, previo
+f) Autorización de traslado de restos áridos de un Municipio del Estado al extranjero, previo permiso sanitario y del Registro Civil de 13.7 a 21.4 UMA.
 
-permiso sanitario y del Registro Civil de 13.7 a 21.4 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-g) Autorización de traslado de restos áridos de un Municipio del Estado a otro Estado de la República de 1.2 a 1.6 S.M.G.
+g) Autorización de traslado de restos áridos de un Municipio del Estado a otro Estado de la República de 1.2 a 1.6 UMA.
 
-h) Permisos para construir dentro del panteón municipal, a cargo de empleados no municipales, previo pago y entrega de la copia del documento que acredite la propiedad 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-i) Titulación o reposición de títulos,
+h) Permisos para construir dentro del panteón municipal, a cargo de empleados no municipales, previo pago y entrega de la copia del documento que acredite la propiedad 1.0 UMA.
 
-así como si regularización 3.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-j) Exhumación de cadáveres 4.0 a 6.0 S.M.G.
+i) Titulación o reposición de títulos, así como su regularización 3.0 UMA.
 
-k) Exhumación de cadáveres para
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-su posterior inhumación 6.0 a 9.0 S.M.G.
+j) Exhumación de cadáveres 4.0 a 6.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+k) Exhumación de cadáveres para su posterior inhumación 6.0 a 9.0 UMA.
 
 ###### Artículo 78.
 
@@ -1585,65 +1821,89 @@ Los derechos respectivos se cubrirán previamente a la prestación del servicio,
 
 I. Alineación de predios:
 
-a) En las zonas urbanas y residenciales denominadas “A” por la clasificación catastral
+a) En las zonas urbanas y residenciales denominadas "A" por la clasificación catastral
 
-1. Con frente hasta de 20 metros 3.0 a 10 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+1. Con frente hasta de 20 metros 3.0 a 10 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 2. Con frente de más de 20 metros
 
-y hasta 40 metros lineales .0 a 15 S.M.G.
+y hasta 40 metros lineales 8.0 a 15 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 3. Por cada metro adicional a los
 
-40 metros de frente 0.2 S.M.G.
+40 metros de frente 0.2 UMA.
 
-b) En las zonas suburbanas y fuera de zonas residenciales denominadas “B” por la clasificación catastral
+b) En las zonas suburbanas y fuera de zonas residenciales denominadas "B" por la clasificación catastral
 
-1. Con frente hasta de 20 metros 3.0 a 8.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Con frente de más de 20 metros 3.0 a 9.0 S.M.G.
+1. Con frente hasta de 20 metros 3.0 a 8.0 UMA.
 
-3. Régimen en condominio 4.0 a 8.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Con frente de más de 20 metros 3.0 a 9.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3. Régimen en condominio 4.0 a 8.0 UMA.
 
 II. Expedición
 
-a) Del número oficial 5.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) De la placa 6.0 S.M.G.
+a) Del número oficial 5.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b) De la placa 6.0 UMA.
 
 III. Constancia de uso y destino de suelo
 
-a) Interés social de 5.0 a 10.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Nivel medio de 5.0 a 20,0 S.M.G.
+a) Interés social de 5.0 a 10.0 UMA
 
-c) Residencial de 5.0 a 28.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-d) Comercial, industrial y de
+b) Nivel medio de 5.0 a 20.0 UMA
 
-servicios de 10 a 500 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-e) Con fines turísticos 20 a 5000 S.M.G.
+c) Residencial de 5.0 a 28.0 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+d) Comercial, industrial y de servicios de 10 a 500 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+e) Con fines turísticos 20 a 5000 UMA
 
 IV. Para la determinación de las tarifas correspondientes a los puntos c) y d) de esta fracción, se estará a las características y especificaciones que respecto al uso y destino de los mismos se señalen en el Reglamento o Normatividad Municipal correspondiente.
 
 TARIFA
 
-a) Hasta 15 salarios mínimos de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-la zona económica elevado al año 8.0 S.M.G.
+a) Hasta 15 UMA elevado al año 8.0 UMA.
 
-b) De 16 a 25 salarios mínimos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-de la zona económica elevado al año 12.0 S.M.G.
+b) De 16 a 25 UMA elevado al año 12.0 UMA
 
-c) De 26 a 213 salarios mínimos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-de la zona económica elevado al año 4 al millar
+c) De 26 a 213 UMA elevado al año 4 al millar
 
-d) De 214 salarios mínimos de la zona
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-económica elevado al año en adelante 3 al millar
+d) De 214 UMA elevado al año 3 al millar
 
 V. Los servicios prestados por la Dirección de Catastro Municipal, causarán derechos cuyo pago deberá efectuarse al momento de solicitarse el servicio y de acuerdo con la siguiente:
 
@@ -1651,89 +1911,93 @@ TARIFA
 
 a) Por la subdivisión de predios:
 
-1. Cuando resulten dos lotes 6.75 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Cuando resulten más de dos lotes,
+1. Cuando resulten dos lotes 7.16 UMA.
 
-por lote excedente 5.40 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Cuando resulten más de dos lotes, por lote excedente 5.73 UMA.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 3. Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular, se causará el 50% de los derechos a que se refieren los numerales 1 y 2 de esta fracción e inciso.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4. Prórroga de subdivisión, 6.75 S.M.G.
+4. Prórroga de subdivisión, 7.16 UMA.
 
-b) Por croquis de localización 8.10 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-c) Por copias heliográficas y/o bond de
+b) Por croquis de localización 8.59 UMA.
 
-planos 8.10 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-d) Por certificados de valor catastral
+c) Por copias heliográficas y/o bond de planos 8.59 UMA.
 
-y vigencia (Cédulas catastrales) 4.10 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+d) Por certificados de valor catastral y vigencia (Cédulas catastrales) 4.35 UMA.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 e) Certificación de medidas y colindancias:
 
-1) De 1 a 300 metros cuadrados 14.58 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2) De 301 a 600 metros cuadrados 21.87 S.M.G.
+1) De 1 a 300 metros cuadrados 15.46 UMA.
 
-3) De 601 a 1000 metros cuadrados 29.16 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4) De 1001 a 2000 metros cuadrados 36.45 S.M.G.
+2) De 301 a 600 metros cuadrados 23.19 UMA.
 
-5) De 2001 a 5000 metros cuadrados 43.74 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-6) De 5001 a 10000 metros cuadrados 58.32 S.M.G.
+3) De 601 a 1000 metros cuadrados 30.92 UMA.
 
-7) De 10001 metros cuadrados a 2 hectáreas 72.90 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-8) De 2.01 hectáreas a 4 hectáreas 145.89 S.M.G.
+4) De 1001 a 2000 metros cuadrados 38.65 UMA.
 
-9) Más de 4 hectáreas o 4000 metros cuadrados, 0.17 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-según el perímetro, por metro lineal
+5) De 2001 a 5000 metros cuadrados 46.38 UMA.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-f) Constancias de propiedad o constancias 3.24 S.M.G
+6) De 5001 a 10000 metros cuadrados 61.84 UMA.
 
-de no propiedad.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-g) La expedición de documentos extraviados 2.92 S.M.G.
+7) De 10001 metros cuadrados a 2 hectáreas 77.30 UMA.
 
-h) Por declaración de documentos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-inscritos en el registro público de
+8) De 2.01 hectáreas a 4 hectáreas 154.69 UMA.
 
-la propiedad y del comercio para su
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-registro en el padrón de contribuyentes
+9) Más de 4 hectáreas o 4000 metros cuadrados, según perímetro, por metro lineal. 0.18 UMA.
 
-del impuesto predial 4.10 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-i) Por la asignación de claves
+f) Constancias de propiedad o constancias de no propiedad 3.44 UMA.
 
-catastrales y avalúos en propiedad
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-de régimen en condominio, fraccionamiento
+g) La expedición de documentos extraviados 3.10 UMA
 
-y subdivisiones se aplicará por indiviso
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-o fracción resultante 4.10 S.M.G.
+h) Por declaración de documentos inscritos en el registro público de la propiedad y del comercio para su registro en el padrón de contribuyentes del impuesto predial 4.35 UMA.
 
-j) Por la práctica de avalúos que
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-realicen peritos designados por la dirección
+i) Por la asignación de claves catastrales y avalúos en propiedad de régimen en condominio, fraccionamiento y subdivisiones se aplicará por indiviso o fracción resultante 4.35 UMA.
 
-de Catastro Municipal a solicitud del
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-interesado, se ajustará a lo siguiente
+j) Por la práctica de avalúos que realicen peritos designados por la dirección de Catastro Municipal a solicitud del interesado, se ajustará a lo siguiente
 
 1. Hasta $100,000.00 5% sobre el valor que resulte
 
@@ -1741,115 +2005,91 @@ interesado, se ajustará a lo siguiente
 
 4.5 S.M.G.
 
-3. Cuando el avalúo se realice a
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-los bienes inmuebles destinados para la
+3. Cuando el avalúo se realice a los bienes inmuebles destinados para la vivienda de interés social y popular 4.77 UMA.
 
-vivienda de interés social y popular
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-k) Por verificación de medidas y colindancias cuando 4.10 S.M.G.
-
-se trate de predios sujetos o derivados de
-
-programas de la Comisión para la Regularización de
-
-la Tenencia de la Tierra o cuando previamente exista
-
-una certificación de medidas y colindancias
-
-realizada por la Dirección de Catastro Municipal.
+k) Por verificación de medidas y colindancias ( (sic) cuando se trate de predios sujetos o derivados de programas de la Comisión para la Regularización de la Tenencia de la Tierra o cuando previamente exista una certificación de medidas y colindancias realizada por la Dirección de Catastro Municipal. 4.35 UMA.
 
 l) Los servicios catastrales no previstos en esta tarifa, pagarán una cuota que no excederá del costo de los mismos, la que será fijada por la Dirección de Catastro Municipal, atendiendo al valor comercial que representa la prestación del servido.
 
 m) Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etcétera, los interesados deberán cubrirlos sin que excederán del costo comercial de los mismos.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-n) Por alta de predio en el padrón catastral,
+n) Por alta de predio en el padrón catastral, cambio de propietario, cambio de condición, corrección de datos en cedula catastral, constancia de nomenclatura, constancia de desglose de áreas, constancias de construcción o información catastral por escrito. 4.35 UMA.
 
-cambio de propietario, cambio de condición,
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-corrección de datos en cedula catastral,
+o) Por la búsqueda y expedición de copias simples de cédulas catastrales o de cualquier otro documento catastral, por cada hoja 1.06 UMA.
 
-constancia de nomenclatura, constancia de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-desglose de áreas, constancias de
-
-construcción o información catastral
-
-por escrito. 4.10 S.M.G
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-o) Por la búsqueda y expedición de copias simples 1 S.M.G.
-
-de cédulas catastrales o de cualquier otro documento
-
-catastral, por cada hoja
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-p) Por autorización para escrituración de lote
-
-(carta de liberación de lote) 6.75 S.M.G.
+p) Por autorización para escrituración de lote (Carta de liberación de lote) 7.16 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 q) Certificación de medidas y colindancias Zona Agropecuaria:
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-1. Hasta 300 metros cuadrados 21.87 SMG.
+1. Hasta 300 metros cuadrados 23.19 UMA.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. De 301 a 600 metros cuadrados 29.16 SMG.
+2. De 301 a 600 metros cuadrados 30.92 UMA.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-3. De 601 a 1000 metros cuadrados 36.45 SMG.
+3. De 601 a 1000 metros cuadrados 38.65 UMA.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4. De 1001 a 2000 metros cuadrados 43.74 SMG.
+4. De 1001 a 2000 metros cuadrados 46.38 UMA.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-5. De 2001 a 5000 metros cuadrados 58.32 SMG.
+5. De 2001 a 5000 metros cuadrados 61.84 UMA.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-6. De 5001 a 10000 metros cuadrados 72.90 SMG.
+6. De 5001 a 10000 metros cuadrados 77.30 UMA.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-7. De 10001 a 2 hectáreas 109.35 SMG.
+7. De 10001 a 2 hectáreas 115.95 UMA.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-8. De 2.01 hectáreas a 4 hectáreas 174.96 SMG.
+8. De 2.01 hectáreas a 4 hectáreas 185.51 UMA.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 r) Por la fusión de predios:
 
-1. Cuando se fusiones (sic) dos lotes 6.75 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Por lote adicional 5.40 S.M.G.
+1. Cuando se fusionen dos lotes 7.16 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Por lote adicional 5.73 UMA.
 
 3. Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular, se causará el 50% de los derechos a que se refieren los numerales 1 y 2 de esta fracción e inciso
 
-4. Prórroga por fusión 6.75 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+4. Prórroga por fusión 7.16 UMA.
 
-s) Asignación de nomenclatura a fraccionamientos 24.25 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+s) Asignación de nomenclatura a fraccionamientos 25.72 UMA.
 
-t) Por la búsqueda y expedición de copias certificadas de documentos que emita la Dirección de Catastro. 4.10 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+t) Por la búsqueda y expedición de copias certificadas de documentos que emita la Dirección de Catastro. 4.35 UMA.
 
 ###### Artículo 83.
 
@@ -1863,369 +2103,537 @@ I. Por los tres meses siguientes, dichas Oficinas refrendarán los alineamientos
 
 II. Concluidos los tres meses de este último refrendo, no podrá concederse otro, debiendo presentarse nueva solicitud y cubrirse el importe íntegro del derecho correspondiente;
 
-III. la expedición de copias de alineamiento o de los refrendos, causarán un derecho igual al 25% de la cuota que se hubiere cubierto con motivo de la expedición del alineamiento o del refrendo, que en ningún caso será menor a 2.5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. La expedición de copias de alineamiento o de los refrendos, causarán un derecho igual al 25% de la cuota que se hubiere cubierto con motivo de la expedición del alineamiento o del refrendo, que en ningún caso será menor a 2.5 UMA.
 
 ### CAPÍTULO VIII. LICENCIAS Y REFRENDOS DE FUNCIONAMIENTO COMERCIAL, INDUSTRIAL Y DE SERVICIOS
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 85.
 
-Las personas físicas o morales que realicen actividades comerciales, industriales, de servicios y de inversión de capitales, salvo disposición expresa en contrario, deberán de solicitar su inscripción en el Padrón Municipal de Contribuyentes dentro de los treinta días siguientes a partir de que se realicen las situaciones jurídicas o de hecho, u obtengan ingresos derivados de sus actividades en el Municipio.
+Las personas físicas o morales que realicen actividades comerciales, industriales, de servicios y de inversión de capitales, salvo disposición expresa en contrario, deberán de solicitar su inscripción en el Padrón Municipal de Contribuyentes dentro de los treinta días naturales siguientes a partir de que se realicen las situaciones jurídicas, de hecho u obtengan ingresos derivados de sus actividades en el Municipio, para lo cual deberán cumplir con los siguientes requisitos:
 
-Las licencias deberán de exhibirse en lugar visible y a la vista del público en el establecimiento o local para el cual fueron expedidas.
+I. Original y copia del formato cumplimentado que determine el Municipio;
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+II. Aviso de inscripción, apertura de sucursal y/o modificación de situación fiscal del Servicio de Administración Tributaria SAT;
 
-Las licencias se otorgarán por cada giro, en base a la asignación de actividad o actividades por parte del Sistema de Administración Tributaria SAT, previa revisión practicada por la autoridad municipal. Se entiende por giro toda actividad concreta, ya sea comercial, industrial o de prestación de servicios, según la clasificación de los padrones de la Tesorería Municipal.
+III. En el caso de las personas físicas: copia de identificación oficial u original de carta poder acompañada de las copias de las identificaciones oficiales del contribuyente y, en su caso de su apoderado;
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+En el caso de personas morales: copia de la escritura pública constitutiva e identificación oficial del representante legal, quien deberá acreditar sus facultades de representación, mediante escritura pública u original de carta poder emitida por representante legal facultado, y
 
-Las licencias otorgadas por la autoridad municipal, podrán ser revocadas en los casos que señala la reglamentación.
+IV. En su caso, original para cotejo y copia del contrato de arrendamiento que acredite la legal ocupación del inmueble donde esté ubicado el establecimiento mercantil, acompañado de las copias de las identificaciones oficiales de los comparecientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 86.
 
-Las personas a que se hace referencia en el artículo anterior, deberán mediante los medios electrónicos dispuestos por el Municipio o de forma personal solicitar dentro del mismo plazo la expedición de Licencias de Funcionamiento, para lo cual deberán acompañar a su solicitud los siguientes documentos:
+Las personas a que se hace referencia en el artículo anterior deberán, mediante los medios electrónicos dispuestos por el Municipio o de forma personal, solicitar dentro del mismo plazo la expedición de la licencia de funcionamiento, la cual es de vigencia trianual con refrendo declarativo anual, será por cada establecimiento y en el reverso de la misma contendrá el o los giros autorizados de acuerdo con la actividad establecida por el Servicio de Administración Tributaria SAT y de acuerdo con la clasificación determinada en el artículo 88 de esta ley, para lo cual deben cumplir con los siguientes requisitos:
 
-I. Original para cotejo y copia de la inscripción en el Registro Federal de Contribuyentes y al Padrón Estatal de Contribuyentes;
+I. Original y copia del formato cumplimentado que determine el Municipio;
 
-II. Croquis de ubicación del establecimiento;
+II. Original para cotejo y copia de la constancia de uso y destino de suelo para operación vigente;
 
-III. Copia del recibo del pago del impuesto predial correspondiente al ejercicio fiscal de que se trate, así como el pago de los de derechos a que se refiere el artículo 120 de esta ley;
+III. Original para cotejo y copia del dictamen aprobatorio para locales comerciales vigente, expedido por la Dirección General de Protección Civil;
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+IV. Original para cotejo y copia del recibo oficial de pago vigente para el funcionamiento del establecimiento mercantil en horas extraordinarias, en su caso;
 
-En caso de que se trate de un nuevo contribuyente, para el otorgamiento de una licencia de funcionamiento, el establecimiento, local, ubicación o plaza comercial deberán estar al corriente en el pago de los derechos de recolección, transporte, tratamiento y destino final de residuos sólidos a que se refiere el artículo 120 de esta Ley.
+V. Original para cotejo y copia de la anuencia vigente para operar como estacionamiento público, en su caso, y
 
-IV. Original para cotejo y copia de la Licencia de Bebidas Alcohólicas con el resello actualizado en el domicilio y nombre de propietario, si en el establecimiento se expiden bebidas alcohólicas;
+VI. Original para cotejo y copia de la constancia de no adeudo de pago vigente de zona federal marítimo terrestre, en su caso.
 
-V. Constancia de uso de suelo del establecimiento; y
+Para la expedición y entrega de la licencia de funcionamiento y del refrendo anual declarativo, es requisito indispensable que los contribuyentes estén al corriente en el pago del impuesto predial y de los derechos establecidos en el artículo 120 de esta ley, estatus que será corroborado por la autoridad municipal en sus bases de datos y padrones respectivos, pudiendo solicitar al contribuyente, en cualquier momento, que exhiba los recibos de pago o constancias de no adeudo que considere pertinente para acreditar tales extremos.
 
-VI. Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro sea considerado de riesgo de acuerdo a la reglamentación municipal correspondiente.
+El original de la licencia de funcionamiento y del refrendo anual declarativo deberá exhibirse en un lugar visible y a la vista del público en el establecimiento mercantil para el cual fue expedida; en caso de no dar cumplimiento, podrán ser requeridos y sancionados por la autoridad municipal correspondiente.
 
-Esta Licencia de Funcionamiento se expedirá por establecimiento y por giro de acuerdo a la clasificación que establece el artículo 88 de esta Ley.
+La licencia de funcionamiento únicamente otorga derecho al particular de ejercer la o las actividades especificadas en la misma: La práctica de una actividad o giro distinto al autorizado, así como el incumplimiento en la obtención de cualquiera de los requisitos establecidos en esta Ley y demás legislación municipal correspondiente, dará lugar a que la autoridad municipal revoque la licencia de funcionamiento en cualquier momento.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII. Copia simple y original para cotejo de documento que acredite la legal posesión o propiedad del inmueble de que se trate.
+###### Artículo 86 Bis.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+Los contribuyentes deberán solicitar el refrendo declarativo anual de la licencia de funcionamiento, a través de los medios electrónicos dispuestos por el Municipio o de forma personal, mediante declaración bajo protesta de decir verdad, sobre si ha habido modificación a las condiciones de su otorgamiento.
 
-VIII. Si se encuentra en zona federal marítimo terrestre y ambientes costeros, copia simple y documento original para cotejo de la concesión emitida por la autoridad federal competente y constancia de no adeudo.
+La declaración anual que sirva para refrendar la licencia, deberá entregarse en formato único emitido por la oficina responsable de licencias, junto con el recibo de pago de impuestos y derechos correspondientes, en los meses de enero y febrero al vencimiento de los años uno y dos siguientes a la obtención de la licencia de funcionamiento trianual.
+
+El refrendo declarativo tendrá vigencia anual y autorizará el funcionamiento del establecimiento mercantil, mediante la exhibición de la licencia trianual y los acuses de recibido de los refrendos declarativos correspondientes a los años uno y dos después de la obtención de la licencia.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 87.
 
-Las Licencias de Funcionamiento a que se refiere el artículo 88, son de vigencia anual y los contribuyentes deberán solicitar su renovación en los meses de enero y febrero de cada año, para lo cual presentarán solicitud en las formas que para el efecto aprueben las autoridades fiscales municipales, a la que acompañarán los siguientes documentos:
+Los contribuyentes que modifiquen su domicilio fiscal, su actividad comercial, su denominación o razón social, o su Registro Federal de Contribuyentes, deberán acudir de forma personal a las oficinas de la Dirección de Ingresos de la Tesorería Municipal, dentro del mismo plazo establecido en el artículo 85 de esta Ley para solicitar la modificación correspondiente; para lo cual, deberán exhibir el original y copia del formato cumplimentado y la constancia de situación fiscal del Servicio de Administración Tributaria SAT que refleje la modificación.
 
-I. Licencia de funcionamiento del año inmediato anterior;
+Los contribuyentes o los propietarios de los inmuebles donde se ubique el establecimiento mercantil, deberán solicitar de forma personal en las oficinas de la Dirección de Ingresos de la Tesorería Municipal, la suspensión de la actividad comercial y baja del Padrón Municipal de Contribuyentes, dentro del mismo plazo establecido en el artículo 85 de esta Ley; para lo cual, deberán cumplimentar los siguientes requisitos:
 
-II. Copia del recibo del pago del impuesto predial correspondiente al ejercicio fiscal de que se trate, así como el pago de los derechos a que se refiere el artículo 120 de esta Ley, salvo en el último caso previsto en el artículo 86 fracción III, segundo párrafo, de este ordenamiento.
+I. Original de la licencia de funcionamiento y del refrendo declarativo anual;
 
-III. Original para cotejo y copia de la Licencia de Bebidas Alcohólicas con resello actualizado en el domicilio y nombre de propietario, si se expiden bebidas alcohólicas;
+II. Original y copia del formato cumplimentado que determine el Municipio, y
 
-IV. Autorización expedida por la Dirección de Protección Civil Municipal o la Autoridad Municipal competente en caso de que el giro sea considerado de riesgo de acuerdo a la reglamentación municipal correspondiente.
-
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
-
-V. Si se encuentra en zona federal marítimo terrestre, copia de la concesión y constancia de no adeudo.
-
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
-
-VI. Licencia de Funcionamiento Estatal vigente del año a renovar, en su caso.
-
-Así mismo los contribuyentes que modifiquen su domicilio fiscal, su actividad preponderante, denominación o razón social, o Registro Estatal de Contribuyentes deberán presentar adjunto a la forma aprobada por la Tesorería, la licencia de funcionamiento para que la autoridad Municipal proceda a la actualización de la misma; así como quienes suspendan actividades o pretendan cancelar su registro Municipal de contribuyentes, en todos los casos se sujetarán a los plazos establecidos en el artículo 85 de la presente Ley.
+III. Aviso de suspensión de actividades del Servicio de Administración Tributaria SAT. Quedan exentos de este requisito los propietarios del inmueble.
 
 ###### Artículo 88.
 
 El palo de los derechos por licencia de funcionamiento en los casos de apertura o refrendo anual de los ya establecidos, se efectuarán conforme a las siguientes tarifas:
 
-I. Agencias Aduanales de 3.0 S.M.G. a 10.1 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+I. Agencias Aduanales de 3.0 UMA a 10.1 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 II. Agencias, concesionarios y locales
 
 de ventas de automóviles, camiones,
 
-maquinaria pesada de 3.5 S.M.G. a 14,0 S.M.G.
+maquinaria pesada de 3.5 UMA a 14.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 III. Agencias de gas doméstico o
 
 industrial, excepto el anhídrido
 
-carbónico de 3.0 S.M.G. a 5.5 S.M.G.
+carbónico de 3.0 UMA a 5.5 UMA
 
-IV. Agencias de lotería de 0.5 S.M.G. a 3.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V. Agencias de viaje de 3.0 S.M.G. a 12.0 S.M.G.
+IV. Agencias de lotería de 0.5 UMA a 3.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Agencias de viaje de 3.0 UMA a 12.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 VI. Agencias distribuidoras de
 
-refrescos de 3.0 S.M.G. a 8.0 S.M.G.
+refrescos de 3.0 UMA a 8.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 VII. Agencias distribuidoras y
 
-depósitos de cervezas de 5.5 S.M.G. a 14.0 S.M.G.
+depósitos de cervezas de 5.5 UMA a 14.0 UMA
 
-VIII. Agencias funerarias de 3.0 S.M.G. a 12.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IX. Aluminios y vidrios de 3.0 S.M.G. a 8.0 S.M.G.
+VIII. Agencias funerarias de 3.0 UMA a 12.0 UMA
 
-X. Artesanías de 2.0 S.M.G. a 8.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XI. Artículos deportivos de 2.0 S.M.G. a 12.0 S.M.G.
+IX. Aluminios y vidrios de 3.0 UMA a 8.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+X. Artesanías de 2.0 UMA a 8.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XI. Artículos deportivos de 2.0 UMA a 12.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XII. Artículos eléctricos y
 
-fotográficos de 3.5 S.M.G. a 12.0 S.M.G.
+fotográficos de 3.5 UMA a 12.0 UMA
 
 XIII. Arrendadoras
 
-a. Bicicletas, por unidad 0.1 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b. Motocicletas, por unidad 0.2 S.M.G.
+a. Bicicletas, por unidad 0.1 UMA
 
-c. De automóviles, por unidad 03 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b. Motocicletas, por unidad 0.2 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+c. De automóviles, por unidad 0.3 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 d. De lanchas y barcos, por
 
-unidad de 0.5 S.M.G. a 1.6 S.M.G.
+unidad de 0.5 UMA a 1.6 UMA
 
-e. De sillas y mesas de 1.0 S.M.G. a 5.5 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+e. De sillas y mesas de 1.0 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XIV. Bancos e Instituciones
 
-de Crédito de 5.5 S.M.G. a 12.0 S.M.G.
+de Crédito de 5.5 UMA a 12.0 UMA
 
-XV. Billares de 1.1 S.M.G. a 3.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XVI. Bodegas de 1.1 S.M.G. a 5.5 S.M.G.
+XV. Billares de 1.1 UMA a 3.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVI. Bodegas de 1.1 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XVII. Boneterías y
 
-lencerías de 1.1 S.M.G. a 3.0 S.M.G.
+lencerías de 1.1 UMA a 3.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XVIII. Cabarets, cantinas,
 
 salones de baile y establecimientos
 
-similares de 12.0 S.M.G. a 28.0 S.M.G.
+similares de 12.0 UMA a 28.0 UMA
 
-XIX. Carnicerías de 1.6 S.M.G. a 5.5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XX. Carpinterías de 1.1 S.M.G. a 5.5 S.M.G.
+XIX. Carnicerías de 1.6 UMA a 5.5 UMA
 
-XXI. Cinematógrafos de 2.5 S.M.G. a 12.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XXII. Comercios y ambulantes de 0.5 S.M.G. a 5.5 S.M.G.
+XX. Carpinterías de 1.1 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXI. Cinematógrafos de 2.5 UMA a 12.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXII. Comercios y ambulantes de 0.5 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XXIII. Congeladora y empacadora
 
-de mariscos de 5.5 S.M.G. a 28.0 S.M.G.
+de mariscos de 5.5 UMA a 28.0 UMA
 
-XXIV. Constructoras de 5.5 S.M.G. a 14.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXIV. Constructoras de 5.5 UMA a 14.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XXV. Consultorios, clínicas
 
 médicas y laboratorios de
 
-análisis clínicos de 3.0 S.M.G. a 12.0 S.M.G.
+análisis clínicos de 3.0 UMA a 12.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XXVI. Despachos y bufetes de
 
-prestación de servicios de 3.0 S.M.G. a 12.0 S.M.G.
+prestación de servicios de 3.0 UMA a 12.0 UMA
 
 XXVII. Diversiones y espectáculos públicos
 
-a. Por un día de 0.3 S.M.G. a 1.6 S. M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+a. Por un día de 0.3 UMA a 1.6 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 b. Por más de un día, hasta tres
 
-meses de 0.7 S.M.G. a 3.0 S.M.G.
+meses de 0.7 UMA a 3.0 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 c. Por más de tres meses,
 
-hasta seis meses de 1.6 S.M.G. a 3.0 S.M.G.
+hasta seis meses de 1.6 UMA a 3.0 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 d. Por más de seis meses, hasta
 
-una año de 3.0 S.M.G. a 5.5 S.M.G.
+un año de 3.0 UMA a 5.5 UMA
 
 XXVIII. Expendio de bebidas alcohólicas en envase cerrado:
 
-a) Al mayoreo de 5.5 S.M.G. a 12.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Al menudeo de 5.5 S.M.G. a 10.0 S.M.G.
+a) Al mayoreo de 5.5 UMA a 12.0 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b) Al menudeo de 5.5 UMA a 10.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XXIX. Expendio de gasolina
 
-y aceite de 5.5 S.M.G. a 10.0 S.M.G.
+y aceite de 5.5 UMA a 10.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XXX. Fábricas de agua purificada
 
-o destilada no gaseosas de 3.0 S.M.G. a 5.5 S.M.G.
+o destilada no gaseosas de 3.0 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XXXI. Fábricas de bloques, mosaicos
 
-y cal de 5.5 S.M.G. a 10.0 S.M.G.
+y cal de 5.5 UMA a 10.0 UMA
 
-XXXII. Fábrica de hielo de 3.0 S.M.G. a 8.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XXXIII. farmacias y boticas de 3.0 S.M.G. a 5.5 S.M.G.
+XXXII. Fábrica de hielo de 3.0 UMA a 8.0 UMA
 
-XXXIV. Ferreterías de 3.1 S.M.G. a 8.5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XXXV. Fruterías y verdulerías de 1.1 S.M.G. a 5.5 S.M.G.
+XXXIII. farmacias y boticas de 3.0 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXXIV. Ferreterías de 3.1 UMA a 8.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXXV. Fruterías y verdulerías de 1.1 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XXXVI. Hoteles:
 
 a) De primera (cuatro y cinco
 
-estrellas) de 12.0 S.M.G. a 28.0 S.M.G.
+estrellas) de 12.0 UMA a 28.0 UMA
 
 b) De segunda (dos y tres
 
-estrellas) de 8.0 S.M.G. a 12.0 S.M.G.
+estrellas) de 8.0 UMA a 12.0 UMA
 
-c) De tercera de 3.0 S.M.G. a 8.0 S.M.G.
+c) De tercera de 3.0 UMA a 8.0 UMA
 
-d) De casa de huéspedes de 1.6 S.M.G. a 5.5 S.M.G.
+d) De casa de huéspedes de 1.6 UMA a 5.5 UMA
 
-XXXVII. Imprentas de 3.0 S.M.G. a 5.5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XXXVIII. Joyerías de 5.5 S.M.G. a 12.0 S.M.G.
+XXXVII. Imprentas de 3.0 UMA a 5.5 UMA
 
-XXXIX. Líneas aéreas de 8.0 S.M.G. a 12.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXXVIII. Joyerías de 5.5 UMA a 12.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXXIX. Líneas aéreas de 8.0 UMA a 12.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XL. Líneas de transportes
 
-urbanos de 5.5 S.M.G. a 10.0 S.M.G.
+urbanos de 5.5 UMA a 10.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 XLI. Líneas transportistas
 
-foráneas de 8.0 S.M.G. a 12.0 S.M.G.
+foráneas de 8.0 UMA a 12.0 UMA
 
-XLII. Loncherías y fondas de 1.1 S.M.G. a 3.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XLIII. Molinos y granos de 1.1 S.M.G. a 3.0 S.M.G.
+XLII. Loncherías y fondas de 1.1 UMA a 3.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XLIII. Molinos y granos de 1.1 UMA a 3.0 UMA
 
 XLIV. Muebles y equipos de
 
-oficina de 5.5 S.M.G. a 10.0 S.M.G.
+oficina de 5.5 UMA a 10.0 UMA
 
-XLV. Neverías y refresquerías de 3.0 S.M.G. a 5.5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XLVI. Opticas de 3.0 S.M.G. a 8.0 S.M.G.
+XLV. Neverías y refresquerías de 3.0 UMA a 5.5 UMA
 
-XLVII. Zapaterías de 3.0 S.M.G. a 5.5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XLVIII. Otros juegos de 1.1 S.M.G. a 5.5 S.M.G.
+XLVI. Ópticas de 3.0 UMA a 8.0 UMA
 
-XLIX. Panaderías de 1.1 S.M.G. a 5.5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XLVII. Zapaterías de 3.0 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XLVIII. Otros juegos de 1.1 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XLIX. Panaderías de 1.1 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 L. Papelerías, librerías y artículos
 
-de escritorio de 3.0 S.M.G. a 5.5 S.M.G.
+de escritorio de 3.0 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LI. Peluquerías y salones de
 
-belleza de 2.0 S.M.G. a 5.5 S.M.G.
+belleza de 2.0 UMA a 5.5 UMA
 
-LII. Perfumes y cosméticos de 3.0 S.M.G. a 10.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-LIII. Pescaderías de 1.1 S.M.G. a 5.5 S.M.G.
+LII. Perfumes y cosméticos de 3.0 UMA a 10.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+LIII. Pescaderías de 1.1 UMA a 5.5 UMA
 
 LIV. Productos forestales
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 a. Por el otorgamiento de
 
-licencias de 0.5 S.M.G. a 1.6 S.M.G.
+licencias de 0.5 UMA a 1.6 UMA
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 b. Por servicios de inspección y
 
-vigilancia de 0.5 S.M.G. a 3.0 S.M.G.
+vigilancia de 0.5 UMA a 3.0 UMA
 
-LV. Refaccionarias de 5.5 S.M.G. a 10.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+LV. Refaccionarias de 5.5 UMA a 10.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LVI. Renta de equipos y accesorios
 
-de pesca y buceo de 3,0 S.M.G. a 8.0 S.M.G.
+de pesca y buceo de 3.0 UMA a 8.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LVII. Restaurantes con bebidas
 
-alcohólicas con vino de mesa
+alcohólicas, con vino de mesa
 
-excepto cerveza de 8.0 S.M.G. a 14.0 S.M.G.
+excepto cerveza de 8.0 UMA a 14.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LVIII. Restaurantes con venta de
 
-cerveza y bebidas alcohólicas de 5.5 S.M.G. a 10.0 S.M.G.
+cerveza y bebidas alcohólicas de 5.5 UMA. a 10.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LIX. Restaurantes sin venta de bebidas
 
-alcohólicas de 3.5 S.M.G. a 8.0 S.M.G.
+alcohólicas de 3.5 UMA a 8.0 UMA
 
-LX. Salones de espectáculos de 3.0 S.M.G. a 10.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-LXI. Sastrerías de 1.1 S.M.G. a 3.0 S.M.G.
+LX. Salones de espectáculos de 3.0 UMA a 10.0 UMA
 
-LXII. Subagencias de 5.5 S.M.G. a 10.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-LXIII. Supermercados de 5.5 S.M.G. a 12.0 S.M.G.
+LXI. Sastrerías de 1.1 UMA a 3.0 UMA
 
-LXIV. Talleres 1.1 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-LXV. Taller de herrería 3.0 S.M.G.
+LXII. Subagencias de 5.5 UMA a 10.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+LXIII. Supermercados de 5.5 UMA a 12.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+LXIV. Talleres 1.1 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+LXV. Taller de herrería 3.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LXVI. Taller de refrigeración y
 
-aire acondicionado de 4.0 S.M.G. a 10.0 S.M.G.
+aire acondicionado de 4.0 UMA a 10.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LXVII. Talleres
 
-electromecánicos de 3.0 S.M.G. a 5.5 S.M.G.
+electromecánicos de 3.0 UMA a 5.5 UMA
 
-LXVIII. Talleres mecánicos de 3.0 S.M.G. a 8.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-LXIX. Tendejones de 0.7 S.M.G. a 1.6 S.M.G.
+LXVIII. Talleres mecánicos de 3.0 UMA a 8.0 UMA
 
-LXX. Tienda de Abarrotes de 1.6 S.M.G. a 3.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+LXIX. Tendejones de 0.7 UMA a 1.6 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+LXX. Tienda de Abarrotes de 1.6 UMA a 3.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LXXI. Tienda de ropas y
 
-telas de 3.0 S.M.G. a 8.0 S.M.G.
+telas de 3.0 UMA a 8.0 UMA
 
-LXXII. Tortillerías de 0.7 S.M.G. a 1.6 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+LXXII. Tortillerías de 0.7 UMA a 1.6 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LXXIII. Transportes de materiales
 
-para construcción por unidad de 0.5 S.M.G. a 1.0 S.M.G.
+para construcción por unidad de 0.5 UMA a 1.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LXXIV. Venta de materiales para
 
-construcción de 5.5 S.M.G. a 12.0 S.M.G.
+construcción de 5.5 UMA a 12.0 UMA
 
-LXXV. Vulcanizadoras de 1.6 S.M.G. a 5.5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-LXXVI. otros giros de 0.5 S.M.G. a 4.0 S.M.G.
+LXXV. Vulcanizadoras de 1.6 UMA a 5.5 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+LXXVI. otros giros de 0.5 UMA a 4.0 UMA
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 LXXVII. Muebles para el
 
-hogar de 3.5 S.M.G. a 10.0 S.M.G.
+hogar de 3.5 UMA a 10.0 UMA
 
-LXXVII (SIC). Inmobiliarias de 1.0 S.M.G. a 5.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
-
-LXXVIII. Inmobiliarias de 1.0 S.M.G. a 5.0 S.M.G.
+LXXVIII. Inmobiliarias de 1.0 UMA a 5.0 UMA
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 Para el caso de expedición de la licencia de funcionamiento por la apertura de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se exentará el pago del primer año, previa acreditación de los requisitos que establezca el ayuntamiento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 89.
 
-Los contribuyentes que no se hayan inscrito en el padrón municipal o que no hubieran solicitado la licencia correspondiente en los plazos establecidos en los artículos 85, 86 y 87 de esta Ley, serán requeridos por la autoridad fiscal municipal, según lo dispuesto en el Código Fiscal Municipal.
+Los contribuyentes que no se hayan inscrito en el padrón municipal o que no hubieran solicitado en tiempo y forma alguno de los trámites establecidos en los artículos 85, 86 y 87 de esta ley, serán requeridos y sancionados por la autoridad fiscal municipal, en términos de lo dispuesto en el Código Fiscal Municipal para el Estado de Quintana Roo.
 
-Simultáneamente al requerimiento, la autoridad impondrá la sanción que corresponda en los términos del Código Fiscal Municipal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO IX. LICENCIAS PARA FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN HORAS EXTRAORDINARIAS
 
@@ -2233,27 +2641,35 @@ Simultáneamente al requerimiento, la autoridad impondrá la sanción que corres
 
 La autorización para el funcionamiento de establecimientos comerciales fuera del horario normal que fijen los reglamentos, causarán diariamente derechos por cada hora extraordinaria, como sigue:
 
-I. Clubes, centros nocturnos, bares,
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-cabarets y discotecas, en que se
+I. Clubes, centros nocturnos, bares, cabarets y discotecas, en que se expendan bebidas alcohólicas de 15 a 30 UMA.
 
-expendan bebidas alcohólicas de 15 a 30 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Restaurantes, fondas, loncherías,
+II. Restaurante Bar y minisúper pertenecientes a cadenas comerciales, así como Restaurante Bar ubicado en el interior de cadenas hoteleras, en los que se expendan bebidas alcohólicas de: 3.5 a 15 UMA.
 
-minisúper y demás en que se expendan
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-bebidas alcohólicas de: 2.5 a 15 S.M.G.
+III. Restaurantes Bar, fondas, loncherías, cocktelerías y minisúper no pertenecientes a cadenas comerciales, en los que se expendan bebidas alcohólicas de: 2.5 a 12 UMA.
 
-III. Otros establecimientos que vendan
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-alimentos sin bebidas alcohólicas,
+IV. Otros establecimientos que vendan alimentos en los que se expenda únicamente cerveza como bebida alcohólica de: 2 a 10 UMA.
 
-excepto cerveza de: 1.2 a 24 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Supermercados, tiendas de autoservicio y tiendas departamentales en los que se expendan bebidas alcohólicas, de: 2.5 a 15 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI. Hoteles, moteles y centros de hospedaje en los que se preste el servicio a comensales en la habitación (servicio a cuartos/ room service) con o sin alimentos en los cuales se expendan bebidas alcohólicas, de: 3 a 10 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 91.
 
-El derecho por horas extraordinarias a que se refiere el artículo anterior, será pagado por mensualidades adelantadas, dentro de los cinco primeros días de cada mes.
+El derecho por horas extraordinarias a que se refiere el artículo anterior, será pagado por mensualidades adelantadas, dentro de los diez primeros días de cada mes.
 
 ### CAPÍTULO X. RASTRO E INSPECCIÓN SANITARIA
 
@@ -2265,13 +2681,21 @@ TARIFA
 
 Por cabeza
 
-I. Ganado vacuno hasta 1.4 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Ganado porcino hasta 0.8 S.M.G.
+I. Ganado vacuno hasta 1.4 UMA.
 
-III. Ganado lanar o cabrío hasta 0.2 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. Aves hasta 0.2 S.M.G.
+II. Ganado porcino hasta 0.8 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. Ganado lanar o cabrío hasta 0.2 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Aves hasta 0.2 UMA.
 
 Considerando las necesidades de industriales, empacadoras, empresas, asociaciones de productores y otras personas físicas y morales, que necesitan sacrificar sus propios animales, o para insumo de procesos industriales, este servicio podrá ser concesionado a particulares, previa autorización otorgada por el Ayuntamiento, garantizando desde luego la salud pública.
 
@@ -2285,13 +2709,21 @@ TARIFA
 
 Por cabeza
 
-I. Ganado Vacuno hasta 0.6 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Ganado porcino hasta 0.4 S.M.G.
+I. Ganado vacuno hasta 0.6 UMA.
 
-III. Ganado lanar o cabrío hasta 0.2 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. Aves hasta 0.03 S.M.G.
+II. Ganado porcino hasta 0.4 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. Ganado lanar o cabrío hasta 0.2 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Aves hasta 0.03 UMA.
 
 ### CAPÍTULO XI. TRASLADO DE ANIMALES SACRIFICADOS EN LOS RASTROS
 
@@ -2303,15 +2735,23 @@ TARIFA
 
 Por cabeza
 
-I. Ganado bovino 1.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Ganado porcino 0.3 S.M.G.
+I. Ganado bovino 1.0 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+II. Ganado porcino 0.3 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 III. Ganado no comprendido en las
 
-fracciones anteriores 0.6 S.M.G.
+fracciones anteriores 0.6 UMA.
 
-IV. Aves 0.03 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Aves 0.03 UMA.
 
 En tanto se adquieren los vehículos para atender las necesidades de la distribución, estos servicios podrán ser objeto de concesión a particulares, previo contrato celebrado con el Ayuntamiento, siempre que el servicio prestado les garantice la salud pública.
 
@@ -2335,15 +2775,23 @@ TARIFA
 
 Por cabeza
 
-I. Ganado Vacuno y equino,
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-cada una 0.7 S.M.G.
+I. Ganado vacuno y equino,
 
-II. Ganado porcino 0.3 S.M.G.
+cada una 0.7 UMA.
 
-III. Ganado lanar o cabrío 0.2 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. Aves 0.3 S.M.G.
+II. Ganado porcino 0.3 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. Ganado lanar o cabrío 0.2 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Aves 0.3 UMA.
 
 ### CAPÍTULO XIII. REGISTRO Y BÚSQUEDA DE FIERROS Y SEÑALES PARA GANADO
 
@@ -2351,11 +2799,15 @@ IV. Aves 0.3 S.M.G.
 
 Los propietarios de dos o más cabezas de ganado, están obligados a presentar su registro, en enero de cada año, ante la Tesorería Municipal, su fierro marcador o las señales que identifiquen a los animales de su propiedad y a exhibir los títulos que amparen dichos fierros o señales.
 
-El derecho que se pagará por el Registro de Fierros, será de: 3.0 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+El derecho que se pagará por el Registro de Fierros, será de 3.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 99.
 
-Por cada búsqueda de señales y marcas que se hagan en los archivos, a solicitud de los interesados y duplicados que se expidan, se pagara 1.5 S.M.G.
+Por cada búsqueda de señales y marcas que se hagan en los archivos, a solicitud de los interesados y duplicados que se expidan, se pagará 1.5 UMA.
 
 ### CAPÍTULO XIV. EXPEDICIÓN DE CERTIFICADOS DE VECINDAD, DE RESIDENCIA Y DE MORADA CONYUGAL
 
@@ -2367,15 +2819,17 @@ La expedición de constancias de vecindad, de residencia y de morada conyugal, c
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-I. De vecindad 3.0 S.M.G.
+I. De vecindad 3.0 UMA.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. De residencia 3.0 S.M.G.
+II. De residencia 3.0 UMA.
 
-III. De morada conyugal 2,0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. De morada conyugal 2.0 UMA.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -2385,23 +2839,41 @@ Por los servicios que presta la Secretaría General del Ayuntamiento de Benito J
 
 I. Para los estacionamientos al público eventuales, incluyendo los servicios de acomodadores de autos, entendiéndose por estacionamientos al público eventuales, los que prestan servicio en predios acondicionados de manera temporal para ofrecer este servicio a los asistentes a eventos, ferias, conciertos, exposiciones o análogos que no sean de carácter permanente:
 
-a).- de 1 a 199 cajones de estacionar 20 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b).- de 200 a 499 cajones de estacionar 40 S.M.G.
+a) de 1 a 199 cajones de estacionar 20 UMA.
 
-c).- de 501 en adelante cajones de estacionar 60 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Constancia de apertura de estacionamiento público 40 S.M.G.
+b) de 200 a 499 cajones de estacionar 40 UMA.
 
-III. Renovación anual de la constancia de apertura para la operación de los estacionamientos al público 20 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. Constancia para la prestación del servicio de acomodadores 40 S.M.G.
+c) de 500 en adelante cajones de estacionar 60 UMA.
 
-V. Renovación anual para la prestación del servicio de acomodadores 20 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VI. Constancia para la prestación de servicio de estacionamiento al público vinculado a establecimientos mercantiles 120 S.M.G.
+II. Constancia de apertura de estacionamiento público 40 UMA.
 
-VII. Renovación anual para la prestación de servicio de estacionamiento al público vinculado a establecimientos mercantiles 80 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. Renovación anual de la constancia de apertura para la operación de los estacionamientos al público 20 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Constancia para la prestación del servicio de acomodadores 40 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Renovación anual para la prestación del servicio de acomodadores 20 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI. Constancia para la prestación de servicio de estacionamiento al público vinculado a establecimientos mercantiles 120 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VII. Renovación anual para la prestación de servicio de estacionamiento al público vinculado a establecimientos mercantiles 80 UMA.
 
 ### CAPÍTULO XV. ANUNCIOS
 
@@ -2425,79 +2897,97 @@ Por la expedición de licencias, permisos o autorizaciones que otorguen las auto
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-I. Anuncios adosados sin iluminación, anualmente 6.0 SMG.
+I. Anuncios adosados sin iluminación, anualmente 6.0 UMA.
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 II. Anuncios adheribles colocados en vehículos de servicio público, por vehículo anualmente:
 
-a) En el exterior del vehículo 18.0 SMG.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) En el interior del vehículo 3.6 SMG
+a) En el exterior del vehículo 18.0 UMA.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-III. Volantes, encartes ofertas por mes 7.8 SMG.
+b) En el interior del vehículo 3.6 UMA.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. Por difusión fonética de publicidad en la vía pública anualmente, por unidad de sonido por día 9.0 SMG.
+III. Volantes, encartes ofertas por mes 7.8 UMA.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V. Mantas; en la vía pública por mes 7.2 SMG
+IV. Por difusión fonética de publicidad en la vía pública anualmente, por unidad de sonido por día 9.0 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Mantas; en la vía pública por mes 7.2 UMA.
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 VI. Por anuncios espectaculares para publicidad propia con altura a partir de 4 metros hasta 12 metros de altura total anualmente:
 
-a) Cuyo contenido se despliegue a través de una sola carátula, vista o pantalla excepto electrónicos 270.0 SMG
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Cuyo contenido se despliegue a través de 2 o más carátulas, vistas o pantallas, excepto electrónicos 540.0 SMG.
+a) Cuyo contenido se despliegue a través de una sola carátula, vista o pantalla excepto electrónicos 270.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+b) Cuyo contenido se despliegue a través de 2 o más carátulas, vistas o pantallas, excepto electrónicos 540.0 UMA.
 
 VII. Anuncios luminosos, anualmente
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a) Por pantalla 13.0 SMG.
+a) Por pantalla 13.0 UMA.
 
 b) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2014)
 
-VIII. Anuncios giratorios, anualmente 45.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VIII. Anuncios giratorios, anualmente 45.0 UMA.
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 IX. Anuncio cuyo contenido se transfiera a través de pantalla electrónica anualmente.
 
-a) Adosadas 600.0 SMG.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Autosoportante 900.0 SMG.
+a) Adosadas 600.0 UMA.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-X. Anuncios pintados, por metro cuadrado anual 1.50 SMG
+b) Autosoportante 900.0 UMA.
 
-XI. Por la cartelera de cines, por día 1.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XII. Carteles y Posters, por mes 2 S.M.G.
+X. Anuncios pintados, por metro cuadrado anual 1.50 UMA.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XIII. Anuncios luminosos de gas neón, por metro cuadrado anualmente 3.0 SMG.
+XI. Por la cartelera de cines, por día 1.0 UMA.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XIV. Anuncio espectacular para publicidad de centros comerciales, publicidad a terceros y publicistas anualmente a la misma tarifa de 135.0 SMG.
+XII. Carteles y Posters, por mes 2 UMA.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XV. Tapiales anualmente 18.0 SMG.
+XIII. Anuncios luminosos de gas neón, por metro cuadrado anualmente 3.0 UMA.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XVI. Toldos en proyección y autosoportante anualmente 7.50 SMG.
+XIV. Anuncio espectacular para publicidad de centros comerciales, publicidad a terceros y publicistas anualmente a la misma tarifa de 135.0 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XV. Tapiales anualmente 18.0 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XVI. Toldos en proyección y autosoportante anualmente 7.50 UMA.
 
 ###### Artículo 105.
 
@@ -2521,31 +3011,29 @@ Solamente por concesión de permiso de ruta expedido por el Ayuntamiento en tér
 
 TARIFA POR AÑO
 
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 I. Concesiones de permiso de ruta
 
 a) Autobuses urbanos por
 
-unidad de 1.0 S.M.G. a 36.0 S.M.G.
+unidad de 1.0 UMA. a 36.0 UMA.
 
 b) Autobuses suburbanos por
 
-unidad de 1.0 S.M.G. a 36.0 S.M.G.
+unidad de 1.0 UMA. a 36.0 UMA.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Por el registro de cambio de vehículo en la concesión, para la prestación del servidor público de transporte urbano y suburbano de pasajeros en ruta establecida, por cada unidad 12 S.M.G.
+II. Por el registro de cambio de vehículo en la concesión, para la prestación del servicio público de transporte urbano y suburbano de pasajeros en ruta establecida, por cada unidad 12 UMA.
 
-III. Permiso temporal a vehículos no
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-concesionados por reparación de la unidad,
+III. Permiso temporal a vehículos no concesionados por reparación de la unidad, diariamente 1.0 UMA.
 
-diariamente 1.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV. Modificación temporal a la concesión
-
-del permiso de ruta, diariamente por
-
-unidad 1.0 S.M.G.
+IV. Modificación temporal a la concesión del permiso de ruta, diariamente por unidad 1.0 UMA.
 
 ###### Artículo 108.
 
@@ -2569,21 +3057,25 @@ Si los propietarios o poseedores de solares o predios referidos no cumplieran co
 
 La autoridad municipal podrá requerir en cualquier momento al propietario o poseedor del predio independientemente de la fecha señalada en el artículo anterior para que realice la limpieza, desmonte o desyerbado. En caso de que los propietarios o poseedores no cumplan con lo previsto en el artículo 110 de esta Ley o con el requerimiento formulado por la autoridad, ésta podrá por sí misma o mediante la contratación de terceros, efectuar el servicio de desmonte, desyerba o limpieza de los predios con o sin construcción, según sea el caso, situación que conlleva a que los propietarios o poseedores de los bienes inmuebles estén obligados a cubrir íntegramente la prestación de ese servicio a la autoridad municipal, misma que además impondrá una multa en base al tipo y superficie de cada predio, conforme a la siguiente tarifa:
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 a) Habitacional
 
-1. De 1 m2 A 200 m2 de 3.0 a 20 S.M.G.
+1. De 1 m2 A 200 m2 de 3.0 a 20 UMA.
 
-2. De 201 m2 A 1000 m2 de 21 a 50 S.M.G.
+2. De 201 m2 A 1000 m2 de 21 a 50 UMA.
 
-3. De 1001 m2 en delante de 51 a 100 S.M.G.
+3. De 1001 m2 en delante de 51 a 100 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 b) Comercial
 
-1. De 1 m2 A 200 m2 de 50 a 100 S.M.G.
+1. De 1 m2 A 200 m2 de 50 a 100 UMA.
 
-2. De 201 m2 a 1000 m2 de 101 a 200 S.M.G.
+2. De 201 m2 a 1000 m2 de 101 a 200 UMA
 
-3. De 1001 m2 en delante de 201 a 500 S.M.G.
+3. De 1001 m2 en delante de 201 a 500 UMA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -2591,9 +3083,13 @@ b) Comercial
 
 Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de inmuebles, se causarán los siguientes derechos:
 
-1. De 1 m2 a 200 m2 a 1 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. De 201 m2 en adelante a 2 S.M.G.
+1. De 1 m2 a 200 m2 a 1 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. De 201 m2 en adelante a 2 UMA.
 
 El pago de las obligaciones establecidas, deberán de ser realizadas en un término de quince días de manera conjunta con la multa correspondiente ante la Tesorería Municipal, una vez hecha la notificación, mediante las formas que establece el Código Fiscal Municipal del Estado de Quintana Roo, o en su caso, las aprobadas por la autoridad fiscal municipal.
 
@@ -2655,11 +3151,17 @@ Son sujetos de este derecho las personas físicas o morales, empresas, organizad
 
 Este derecho se causará mensualmente, y será enterado en la Tesorería Municipal, a más tardar el día hábil siguiente a la firma del convenio respectivo, conforme a las siguientes tarifas:
 
-l. Por la prestación del Servicio de Seguridad, de un elemento de policía por 8 horas diarias de labores 185 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Por la prestación del Servicio de Seguridad de un elemento de policía por 12 horas diarias de labores 277 S.M.G.
+I. Por la prestación del Servicio de Seguridad, de un elemento de policía por 8 horas diarias de labores 185 UMA.
 
-III. Por la prestación del Servicio de Seguridad de un elemento de policía por 24 horas diarias de labores 554 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+II. Por la prestación del Servicio de Seguridad de un elemento de policía por 12 horas diarias de labores 277 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. Por la prestación del Servicio de Seguridad de un elemento de policía por 24 horas diarias de labores 554 UMA.
 
 ###### Artículo 119.
 
@@ -2691,7 +3193,7 @@ II. Por la presentación de desechos sólidos directamente en el relleno sanitar
 
 Están obligados a realizar el pago de éste derecho, las personas físicas o morales que presenten residuos sólidos directamente en las instalaciones del relleno sanitario, para su tratamiento y disposición final. La tarifa que deberá de pagar por este servicio los sujetos obligados es de $2.00 (Son: Dos Pesos 00/100 M.N.) por kilogramo de residuos sólidos presentado.
 
-Para determinar el monto deberán pesarse los residuos sólidos presentados, en la báscula instalada en el relleno sanitario para tal efecto, y que será operada por el organismo público descentralizado "Solución Integral de Residuos Sólidos Cancún”. Los derechos establecidos en la fracción II de este artículo, deberán ser cubiertos en las instalaciones del relleno sanitario que se encuentre en operación.
+Para determinar el monto deberán pesarse los residuos sólidos presentados, en la báscula instalada en el relleno sanitario para tal efecto, y que será operada por el organismo público descentralizado "Solución Integral de Residuos Sólidos Cancún". Los derechos establecidos en la fracción II de este artículo, deberán ser cubiertos en las instalaciones del relleno sanitario que se encuentre en operación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -2701,11 +3203,11 @@ III. De registro de planes de manejo de Residuos Sólidos urbanos
 
 Están obligados a pagar este derecho de forma anual, todos los establecimientos comerciales y de servicios que generen residuos sólidos urbanos, y que estén obligados a presentar Plan de Manejo de Residuos Sólidos Urbanos de conformidad con el artículo 37 segundo párrafo de la Ley para la Prevención y la Gestión Integral de Residuos del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-Los derechos que deberán pagar por este servicio los sujetos obligados, serán los equivalentes a 40 días de S.M.G.
+Los derechos que deberán pagar por este servicio los sujetos obligados, serán los equivalentes a 40 UMA.
 
-Los derechos a que se refiere este artículo, serán entregados íntegramente y conforme se recauden mensualmente por la Tesorería Municipal, al organismo público descentralizado "Solución Integral de Residuos Sólidos Cancún”.
+Los derechos a que se refiere este artículo, serán entregados íntegramente y conforme se recauden mensualmente por la Tesorería Municipal, al organismo público descentralizado "Solución Integral de Residuos Sólidos Cancún".
 
 El ayuntamiento, propondrá a la Legislatura del Estado, a más tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a los derechos por la prestación del servicio establecido en este numeral.
 
@@ -2739,57 +3241,63 @@ Para el uso de la vía pública para el ejercicio de una actividad lucrativa de 
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-I. Puestos ubicados en la vía pública, mensual 3 a 20 S.M.G.
+I. Puestos ubicados en la vía pública, mensual 3 a 20 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 II. Andamios, maquinaria y materiales
 
-de construcción, diarios de 0.9 a 1.2 S.M.G.
+de construcción, diarios de 0.9 a 1.2 UMA.
 
-III. Otros aparatos, diario de 1.2 a 1.6. S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III. Otros aparatos, diario de 1.2 a 1.6. UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 IV. Por sitio exclusivo, diario, por
 
-metro lineal 0.9 a 1.2 S.M.G.
+metro lineal 0.9 a 1.2 UMA.
 
-V. Autos de alquiler (sitio) diario por
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-metro lineal 0.9 a 1.2 S.M.G.
+V. Autos de alquiler (sitio), diario por
+
+metro lineal 0.9 a 1.2 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 VI. Autobuses de pasajeros que utilicen
 
 la vía pública como terminal, diario,
 
-por metro lineal 0.9 a 1.2 S.M.G.
+por metro lineal 0.9 a 1.2 UMA.
 
-VII. Casetas telefónicas, cuota
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-mensual 3 S.M.G.
+VII. Casetas telefónicas, cuota mensual 3 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 VIII. Por dispensario de refrescos,
 
 bebidas, cigarros, galletas, dulces,
 
-botanas, cuota mensual 2 a 3 S.M.G.
+botanas, cuota mensual 2 a 3 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 IX. Por el cierre de calles para eventos especiales, por día:
 
-a) Eventos en zonas urbanas
+a) Eventos en zonas urbanas populares De 1.00 a 4.00 UMA.
 
-populares De 1.00 a 4..00 (sic) S.M.G.
+b) Eventos en la zona centro de la ciudad De 30.00 a 45.00 UMA.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+c) Eventos en zona residencial De 50.00 a 80.00 UMA.
 
-b) Eventos en la zona centro de la ciudad de 30.00 a 45.00 SMG.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
-
-c) Eventos en zona residencial de 50.00 a 80.00 SMG.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
-
-d) en las demás zonas no previstas con antelación de 40.00 a 60.00 SMG.
+d) En las demás zonas no previstas con antelación De 40.00 a 60.00 UMA.
 
 X. Por la expedición del permiso para realizar en calles maniobras de carga y descarga reguladas por el Reglamento de Transporte de Carga, se establece la siguiente tarifa:
 
@@ -2801,6 +3309,8 @@ De las 5:00 De las 22:00
 
 a las 22:00 horas horas a las 5:00 horas
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 a) Permiso diario para
 
 realizar maniobras de
@@ -2811,15 +3321,17 @@ Primer Cuadro de la Ciudad
 
 y Zona Hotelera para
 
-Vehículos de más de 3.5 y
+vehículos de más de 3.5 y
 
-hasta 12 toneladas, (en los
+hasta 12 toneladas. (en los
 
 que estarán contemplados
 
 los vehículos denominados
 
-como Rabón, Torton, Olla, Grúa) 2 S.M.G. 1.5 S.M.G.
+como Rabón, Torton, Olla, Grúa) 2 UMA. 1.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 b) Permiso semanal para
 
@@ -2829,15 +3341,17 @@ y descarga en el Primer
 
 Cuadro de la Ciudad y Zona
 
-hotelera para vehículos de más
+Hotelera para vehículos de más
 
-de 3.5 y hasta toneladas, (en
+de 3.5 y hasta toneladas. (en
 
 los que estarán contemplados los
 
 vehículos denominados como Rabón,
 
-Torton, Olla, Grúa) 8 S.M.G. 7 S.M.G.
+Torton, Olla, Grúa) 8 UMA. 7 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 c) Permiso quincenal para
 
@@ -2849,13 +3363,15 @@ de la Ciudad y Zona Hotelera
 
 para vehículos de más de 3.5 y
 
-hasta 12 toneladas, (en los que
+hasta 12 toneladas. (en los que
 
 estarán contemplados los vehículos
 
 denominados como Rabón, Torton,
 
-Olla, Grúa) 16 S.M.G. 14 S.M.G.
+Olla, Grúa) 16 UMA. 14 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 d) Permiso mensual para
 
@@ -2867,13 +3383,15 @@ de la Ciudad y Zona Hotelera
 
 para vehículos de más de 3.5
 
-y hasta 12 toneladas, (en los
+y hasta 12 toneladas. (en los
 
 que estarán contemplados los
 
 vehículos denominados como Rabón,
 
-Torton, Olla, Grúa) 32 S.M.G. 28 S.M.G.
+Torton, Olla, Grúa) 32 UMA. 28 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 e) Permiso diario para realizar
 
@@ -2881,17 +3399,19 @@ maniobras de carga y descarga en
 
 el Primer Cuadro, Centro de la
 
-Cuidad, Zona Hotelera y el resto de
+Ciudad, Zona Hotelera y el resto de
 
 la Ciudad de Cancún para vehículos
 
-de más de 12 toneladas, (en los que
+de más de 12 toneladas. (en los que
 
-están contemplados los vehículos
+estarán contemplados los vehículos
 
 denominados como Tráiler sencillo,
 
-Bomba y Grúa Grande) 2.5 S.M.G. 2 S.M.G.
+Bomba y Grúa Grande) 2.5 UMA. 2 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 f) Permiso semanal para realizar
 
@@ -2899,53 +3419,59 @@ maniobras de carga y descarga en
 
 el Primer Cuadro, Centro de la
 
-Cuidad, Zona Hotelera y el resto
+Ciudad, Zona Hotelera y el resto
 
 de la Ciudad de Cancún para vehículos
 
-de más de 12 toneladas, (en los
+de más de 12 toneladas. (en los
 
-que están contemplados los vehículos
+que estarán contemplados los vehículos
 
 denominados como Tráiler sencillo,
 
-Bomba y Grúa Grande) 10 S.M.G. 9 S.M.G.
+Bomba, Grúa Grande) 10 UMA. 9 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 g) Permiso quincenal para realizar
 
 maniobras de carga y descarga en el
 
-Primer Cuadro, Centro de la Cuidad,
+Primer Cuadro, Centro de la Ciudad,
 
 Zona Hotelera y el resto de la
 
 Ciudad de Cancún para vehículos de
 
-más de 12 toneladas, (en los que
+más de 12 toneladas. (en los que
 
-están contemplados los vehículos
+estarán contemplados los vehículos
 
 denominados como Tráiler sencillo,
 
-Bomba y Grúa Grande) 20 S.M.G. 18 S.M.G.
+Bomba, Grúa Grande) 20 UMA. 18 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 h) Permiso mensual para realizar
 
 maniobras de carga y descarga en el
 
-Primer Cuadro, Centro de la Cuidad,
+Primer Cuadro, Centro de la Ciudad,
 
 Zona Hotelera y el resto de la
 
 Ciudad de Cancún para vehículos de
 
-más de 12 toneladas, (en los que
+más de 12 toneladas. (en los que
 
-están contemplados los vehículos
+estarán contemplados los vehículos
 
 denominados como Tráiler sencillo,
 
-Bomba y Grúa Grande) 40 S.M.G. 36 S.M.G.
+Bomba, Grúa Grande) 40 UMA. 36 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 i) Permiso diario para realizar
 
@@ -2959,11 +3485,13 @@ tengan frigorífico, contenedor o de
 
 más de 5 y hasta 12 toneladas. (en
 
-los que están contemplados los
+los que estarán contemplados los
 
 vehículos denominados como Rabón,
 
-Torton, Olla, Grúa) 2 S.M.G. 1.5 S.M.G.
+Torton, Olla, Grúa) 2 UMA. 1.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 j) Permiso semanal para realizar
 
@@ -2977,15 +3505,17 @@ frigorífico, contenedor o de más de
 
 5 y hasta 12 toneladas. (en los que
 
-están contemplados los vehículos
+estarán contemplados los vehículos
 
 denominados como Rabón, Torton,
 
-Olla, Grúa) 8 S.M.G. 7 S.M.G.
+Olla, Grúa) 8 UMA. 7 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 k) Permiso quincenal para realizar
 
-maniobras de carga o descarga en
+maniobras de carga y descarga en
 
 horario restringido en el Centro de la
 
@@ -2995,15 +3525,17 @@ frigorífico, contenedor o de más de 5
 
 y hasta 12 toneladas. (en los que
 
-están contemplados los vehículos
+estarán contemplados los vehículos
 
 denominados como Rabón, Torton, Olla,
 
-Grúa) 16 S.M.G. 14 S.M.G.
+Grúa) 16 UMA. 14 UMA.
 
-l) permiso mensual para realizar
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-maniobras de carga o descarga en
+l) Permiso mensual para realizar
+
+maniobras de carga y descarga en
 
 horario restringido en el Centro de la
 
@@ -3013,11 +3545,13 @@ frigorífico, contenedor o de más de 5
 
 y hasta 12 toneladas. (en los que
 
-están contemplados los vehículos
+estarán contemplados los vehículos
 
 denominados como Rabón, Torton, Olla,
 
-Grúa) 32 S.M.G. 28 S.M.G.
+Grúa) 32 UMA. 28 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 m) Permiso diario para realizar
 
@@ -3031,11 +3565,13 @@ más de un destinatario, para vehículos
 
 hasta de 12 toneladas. (en los que
 
-están contemplados los vehículos
+estarán contemplados los vehículos
 
 denominados como Rabón, Torton, Olla,
 
-Grúa) 2.5 S.M.G. 2 S.M.G.
+Grúa) 2.5 UMA. 2 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 n) Permiso semanal para realizar
 
@@ -3049,11 +3585,13 @@ más de un destinatario, para vehículos
 
 hasta de 12 toneladas. (en los que
 
-están contemplados los vehículos
+estarán contemplados los vehículos
 
 denominados como Rabón, Torton, Olla,
 
-Grúa) 9 S.M.G. 8 S.M.G.
+Grúa) 9 UMA. 8 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 o) Permiso quincenal para realizar
 
@@ -3067,11 +3605,13 @@ a más de un destinatario, para
 
 vehículos hasta de 12 toneladas.
 
-en los que están contemplados los
+(en los que estarán contemplados los
 
 vehículos denominados como Rabón,
 
-Torton, Olla, Grúa) 18 S.M.G. 16 S.M.G.
+Torton, Olla, Grúa) 18 UMA. 16 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 p) Permiso mensual para realizar
 
@@ -3085,31 +3625,35 @@ a más de un destinatario, para
 
 vehículos hasta de 12 toneladas.
 
-(en los que están contemplados los
+(en los que estarán contemplados los
 
 vehículos denominados como Rabón,
 
-Torton, Olla, Grúa) 36 S.M.G. 32 S.M.G.
+Torton, Olla, Grúa) 36 UMA. 32 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 q) Permiso diario para transportar
 
 materiales explosivos en el
 
-municipio. 5 S.M.G. 4.5 S.M.G.
+municipio. 5 UMA. 4.5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 r) Permiso anual para establecer
 
 las bases y estaciones de servicio
 
-público de carga y descarga. 2846.34 S.M.G.
+público de carga y descarga. 2846.34 UMA.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XI. Estructuras móviles motorizadas sobre ruedas donde se comercialicen alimentos preparados de más de 1.5 toneladas con previa autorización del Ayuntamiento de 30 a 60 S.M.G. mensual.
+XI. Estructuras móviles motorizadas sobre ruedas donde se comercialicen alimentos preparados de más de 1.5 toneladas con previa autorización del Ayuntamiento de 30 a 60 UMA mensual.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XII. Permiso de Instalación de Modulo fijo para prestación de servicio con previa autorización del Ayuntamiento 22 S.M.G. mensual por modulo y/o cajero automático de institución financiera.
+XII. Permiso de Instalación de Modulo fijo para prestación de servicio con previa autorización del Ayuntamiento 22 UMA mensual por modulo y/o cajero automático de institución financiera.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -3118,6 +3662,12 @@ Los trailers que tengan más de una caja, se les cobrará el 50% adicional a las
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 Las flotillas de más de 10 vehículos cuyo propietario sea una misma persona física o moral, podrán solicitar a la Tesorería Municipal, un descuento de hasta el 50% de la tarifa que corresponda, respecto de cada permiso solicitado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 124 Bis.
+
+Por la expedición del gafete o credencial a los comerciantes con permisos para realizar actividades en la vía pública se causará un derecho de 3 UMA de manera cuatrimestral.
 
 ### CAPÍTULO XXIII. OTROS NO ESPECIFICADOS
 
@@ -3139,13 +3689,17 @@ IV. Los promotores de tiempo compartido.
 
 V. Degustación con venta en general.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VI. Exposiciones de productos y servicios en general.
+VI. Exposiciones de productos, Expo-Ferias y servicios en general.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII. Estructuras temporales mayores a 50 m2 donde se comercialicen artículos diversos para su venta al público en general previa autorización del Ayuntamiento.
+VII. Estructuras temporales y Expo-Ferias mayores a 50 m2 donde se comercialicen artículos diversos para su venta al público en general previa autorización del Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VIII. Mesas de hospitalidad.
 
 ###### Artículo 126.
 
@@ -3153,49 +3707,37 @@ Los derechos a que se refiere el artículo anterior, se pagaran de acuerdo a lo 
 
 TARIFA
 
-I. Para los vendedores de tiempo
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-compartido de 10.0 S.M.G. a 50.0 S.M.G.
+I. Para los vendedores de tiempo compartido de 10.0 UMA a 50.0 UMA por mes.
 
-por mes.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Para los directores
+II. Para los directores responsables de la construcción de obras de 10.0 UMA. a 50.0 UMA por año.
 
-responsables de la construcción
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-de obras de 10,0 S.M.G. a 50.0 S.M.G. por año.
+III. Para los peritos valuadores de 10.0 UMA a 50.0 UMA por año.
 
-III. Para los peritos
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-valuadores de 10.0 S.M.G. a 50.0 S.M.G. por año.
+IV. Para los promotores de tiempos compartidos de 10.0 UMA a 50.0 UMA por año.
 
-IV. Para los promotores de tiempos
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-compartidos de 10.0 S.M.G. a 50.0 S.M.G. por año.
+V. Para la degustación con venta en general de 15.0 UMA a 30.0 UMA por día.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V. Para la degustación con venta en
+VI. Exposiciones de productos, Expo-Ferias y servicios en general. de 0.5 a 3.0 UMA por metro cuadrado por día.
 
-general de 10.0 a 15.0 SMG
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-por día
+VII. Estructuras temporales y Expo-Ferias mayores a 50 m2 donde se comercialicen artículos diversos para su venta al público en general previa autorización del Ayuntamiento de 30 a 50 UMA diario.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VI. Para las exposiciones de productos y
-
-servicios en general de 0.5 a 3.0 SMG por
-
-metro
-
-cuadrado por
-
-día.
-
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
-
-VII. Por estructuras temporales mayores a 50 m2 donde se comercialicen artículos diversos para su venta al público en general con previa autorización del Ayuntamiento de 30 a 50 SMG diario.
+VIII. Mesas de hospitalidad 30 UMA mensual
 
 ###### Artículo 127.
 
@@ -3221,177 +3763,259 @@ Por los servicios que presta el Municipio en materia de ecología y protección 
 
 TARIFA
 
-I.- Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de chapeo y desmonte, el solicitante deberá de cubrir 0.13 S.M.G. por metro cuadrado del total de la superficie respecto de la cual, solicita dicho permiso.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+I.- Por el estudio, análisis de la solicitud y en su caso la expedición o prórroga del permiso de chapeo y desmonte, el solicitante deberá de cubrir 0.13 UMA por metro cuadrado del total de la superficie respecto de la cual, solicita dicho permiso.
 
-II.- Por el estudio y análisis de la solicitud y en su caso, la expedición o prórroga de permisos de poda o tala, el solicitante deberá cubrir previamente, el equivalente a 2.5 S.M.G. Quedarán exceptuados de dicho pago, los particulares y Dependencias de los gobiernos federal, local o municipal, únicamente cuando se trate de árboles en vía pública que, por su crecimiento, causen alguna afectación. Las Dependencias antes citadas, así como cualquier institución pública estará exenta del (sic) esta contribución, cuando el o los árboles al interior de un predio del cual acrediten la propiedad o posesión, causen afectación por su crecimiento.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+II.- Por el estudio y análisis de la solicitud y en su caso, la expedición o prórroga de permisos de poda o tala, el solicitante deberá cubrir previamente, el equivalente a 2.5 UMA. Quedarán exceptuados de dicho pago, los particulares y Dependencias de los gobiernos federal, local o municipal, únicamente cuando se trate de árboles en vía pública que, por su crecimiento, causen alguna afectación. Las Dependencias antes citadas, así como cualquier institución pública estará exenta de esta contribución, cuando el o los árboles al interior de un predio del cual acrediten la propiedad o posesión, causen afectación por su crecimiento.
 
-III.- Por el estudio y expedición del dictamen de afectación de bien inmueble por árboles en predios particulares vecinos, se deberá cubrir previamente el equivalente a 1.5 SMG.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+III.- Por el estudio y expedición del dictamen de afectación de bien inmueble por árboles en predios particulares vecinos, se deberá cubrir previamente el equivalente a 1.5 UMA.
 
-IV.- Por la expedición del permiso de operación, el solicitante deberá cubrir los salarios mínimos vigentes, de acuerdo al siguiente tabulador:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-1. Agencias y concesionarias de venta de 85 S.M.G.
+IV.- Por la expedición del permiso de operación, el solicitante deberá cubrir el pago de derechos, de acuerdo al siguiente tabulador:
 
-automóviles, camiones y maquinaria pesada
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Agencias funerarias, crematorios e incineradores 42 S.M.G.
+1. Agencias y concesionarias de venta de
 
-3. Bodegas 136 S.M.G.
+automóviles, camiones y maquinaria pesada 85 UMA.
 
-4. Cabarets, cantinas, salones de baile y 60 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-establecimientos similares
+2. Agencias funerarias, crematorios e incineradores 42 UMA.
 
-5. Carnicerías, pollos asados y rostizados, carpinterías 74 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-6. Calderas y cámaras de basura, Compra-venta de 74 S.M.G.
+3. Bodegas 136 UMA.
 
-refacciones y partes usadas automotriz (deshuesadero),
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-centro de verificación de emisiones
+4. Cabarets, cantinas, salones de baile y establecimientos similares 60 UMA.
 
-7. Congeladoras y empacadoras 46 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-8. Consultorios, clínicas médicas, laboratorios de 13 a 74 S.M.G.
+5. Carnicerías, pollos asados y rostizados, carpinterías 74 UMA.
 
-análisis clínicos y veterinarias
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-9. Centro llantero 87 S.M.G.
+6. Calderas y cámaras de basura, Compra-venta de refacciones y partes usadas automotriz (deshuesadero), centro de verificación de emisiones 74 UMA.
 
-10. Centro educativo 31 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-11. Circos 35 S.M.G.
+7. Congeladoras y empacadoras 46 UMA.
 
-12. Criadero 20 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-13. Cines, discotecas centros nocturnos de diversión 210 S.M.G.
+8. Clínicas médicas, laboratorios de análisis clínicos y veterinarias 13 a 74 UMA.
 
-y apuestas y similares
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-14. Distribuidora de lácteos, carnes de res y aves, 27 S.M.G.
+9. Centro llantero 87 UMA.
 
-carnes frías y similares, así como distribución de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-gases industriales y medicinales, extintores
+10. Centro educativo 31 UMA.
 
-15. Encierro de autobuses y vehículos 51 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-16. Estaciones de servicio de gasolina, gas L.P. y 250 S.M.G.
+11. Circos 35 UMA.
 
-autoconsumo
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-17. Establecimientos recreativos y de servicios 200 S.M.G.
+12. Criadero 20 UMA.
 
-turísticos, áreas de servicios en centros turísticos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-18. Fábricas de bloques, mosaicos, vigas, postes, cal 90 S.M.G.
+13. Cines, discotecas centros nocturnos de diversión y apuestas y similares 210 UMA.
 
-y similares
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-19. Fábricas de hielo 20 S.M.G.
+14. Distribuidora de lácteos, carnes de res y aves, carnes frías y similares, así como distribución de gases industriales y medicinales, extintores 27 UMA.
 
-20. Ferreterías 11 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-21. Fruterías y verdulerías 17 S.M.G.
+15. Encierro de autobuses y vehículos 51 UMA.
 
-22. Fumigadoras 20 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-23. Granjas porcícolas y avícolas 40 S.M.G.
+16. Estaciones de servicio de gasolina, gas L.P. y autoconsumo 250 UMA.
 
-24. Hospitales 250 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+17. Establecimientos recreativos y de servicios turísticos, áreas de servicios en centros turísticos 200 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+18. Fábricas de bloques, mosaicos, vigas, postes, cal y similares 90 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+19. Fábricas de hielo 20 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+20. Ferreterías 11 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+21. Fruterías y verdulerías 17 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+22. Fumigadoras 20 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+23. Granjas porcícolas y avícolas 40 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+24. Hospitales 250 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 25. Hoteles
 
-a) De primera (4 o 5 estrellas y Gran 400 S.M.G.
+a) De primera (4 o 5 estrellas y Gran 400 UMA.
 
 Turismo)
 
-b) De segunda (2 o 3 estrellas) 150 S.M.G.
+b) De segunda (2 o 3 estrellas) 150 UMA.
 
-c) De tercera, hostales, casas de huéspedes 50 S.M.G.
+c) De tercera, hostales, casas de huéspedes y moteles 50 UMA.
 
-y moteles
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-26. Imprentas 18 S.M.G
+26. Imprentas 18 UMA.
 
-27. Lavaderos de autos y camiones 15 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-28. Loncherías, taquería y fondas 8 S.M.G.
+27. Lavaderos de autos y camiones 15 UMA.
 
-29. Lavanderías y tintorerías 15 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-30. Madererías 20 S.M.G.
+28. Loncherías, taquería y fondas 8 UMA.
 
-31. Panaderías, tortillerías y molinos 9 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-32. Plantas purificadoras de agua 30 S.M.G.
+29. Lavanderías y tintorerías 15 UMA.
 
-33. Plantas embotelladoras de bebidas purificadas y 250 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-refrescos
+30. Madererías 20 UMA.
 
-34. Plantas concreteras, de asfalto y procesadoras de 250 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-material pétreo
+31. Panaderías, tortillerías y molinos 9 UMA.
 
-35. Paleterías 8 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-36. Pescaderías 11 S.M.G.
+32. Plantas purificadoras de agua 30 UMA.
 
-37. Procesadoras de alimentos, producción y 19 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-transformación de productos
+33. Plantas embotelladoras de bebidas purificadas y refrescos 250 UMA.
 
-38. Pinturas y sus derivados 18 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-39. Recicladoras de metales, plásticos y cartón 15 S.M.G.
+34. Plantas concreteras, de asfalto y procesadoras de material pétreo 250 UMA.
 
-40. Restaurantes y cocktelerías 24 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-41. Restaurantes bar 50 S.M.G.
+35. Paleterías 8 UMA.
 
-42. Recolectores de grasa y/o aceite vegetal o 33 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-animal, de residuos sólidos de trampas de grasa,
+36. Pescaderías 11 UMA.
 
-de residuos peligrosos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-43. Renta de baños portátiles 177 S.M.G.
+37. Procesadoras de alimentos, producción y transformación de productos 19 UMA.
 
-44. Salones de espectáculos, de eventos, jardines 35 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-de fiestas
+38. Pinturas y sus derivados 18 UMA.
 
-45. Supermercados, centros comerciales y similares 260 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-46. Tiendas de mascotas, minisúper 15 S.M.G.
+39. Recicladoras de metales, plásticos y cartón 15 UMA.
 
-47. Talleres 25 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-48. Taller de herrería y soldadura 28 S.M.G.
+40. Restaurantes y cocktelerías 24 UMA.
 
-49. Taller de refrigeración y aire acondicionado 28 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-50. Talleres electromecánicos 25 S.M.G.
+41. Restaurantes bar 50 UMA.
 
-51. Talleres de hojalatería y pintura 28 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-52. Talleres mecánicos, cambio de aceite automotriz 28 S. M.G.
+42. Recolectores de grasa y/o aceite vegetal o animal, de residuos sólidos de trampas de grasa, de residuos peligrosos 33 UMA.
 
-53. Venta de materiales para la construcción 20 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-54. Venta de productos de limpieza y químicos 20 S.M.G.
+43. Renta de baños portátiles 177 UMA.
 
-55. Vulcanizadoras 11 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-56. Viveros 9 S.M.G.
+44. Salones de espectáculos, de eventos, jardines de fiestas 35 UMA.
 
-57. Sonido fijo, por día 8 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+45. Supermercados, centros comerciales y similares 260 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+46. Tiendas de mascotas, minisúper 15 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+47. Talleres 25 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+48. Taller de herrería y soldadura 28 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+49. Taller de refrigeración y aire acondicionado 28 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+50. Talleres electromecánicos 25 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+51. Talleres de hojalatería y pintura 28 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+52. Talleres mecánicos, cambio de aceite automotriz 28 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+53. Venta de materiales para la construcción 20 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+54. Venta de productos de limpieza y químicos 20 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+55. Vulcanizadoras 11 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+56. Viveros 9 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+57. Sonido fijo, por día 8 UMA.
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
@@ -3401,33 +4025,29 @@ Para el caso de expedición del permiso de operación a que se refiere ésta fra
 
 V. Por los servicios prestados en el Parque Urbano Kabah, el solicitante deberá cubrir los salarlos mínimos vigentes de acuerdo al siguiente tabulador:
 
-1. Proyección de películas y videos ambientales 0.5 S.M.G. por proyección
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Renta de palapa o instalaciones para eventos 0.5 S.M.G.
+1. Proyección de películas y videos ambientales por proyección 0.5 UMA.
 
-de educación ambiental por persona asistente al evento
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-3. Recorridos guiados por el parque, con plática 4.0 S.M.G.
+2. Renta de palapa o instalaciones para eventos de educación ambiental por persona asistente al evento 0.5 UMA.
 
-sobre la flora y la fauna (incluye taller de
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-reciclado o papiroflexia). Costo por actividad
+3. Recorridos guiados por el parque, con plática sobre la flora y la fauna (incluye taller de reciclado o papiroflexia). Costo por actividad en grupo de 40 personas 4.0 UMA.
 
-en grupo de 40 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4. Venta de plantas de ornato producidas
+4. Venta de plantas de ornato producidas mediante acodos o estacas 1.0 UMA.
 
-mediante acodos o estacas 1.0 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+VI. Por el estudio y expedición de factibilidad ecológica, se causará el equivalente a 10 UMA.
 
-VI. Por el estudio y expedición de factibilidad ecológica,
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-se causará el equivalente a 10 S.M.G.
-
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
-
-VII. Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de Desarrollo el solicitante deberá de cubrir el equivalente a 0.08 S.M.G. por metro cuadrado, del total de la superficie respecto de la cual, solicita dicho permiso.
+VII. Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de Desarrollo el solicitante deberá de cubrir el equivalente a 0.08 UMA por metro cuadrado, del total de la superficie respecto de la cual, solicita dicho permiso.
 
 ###### Artículo 131.
 
@@ -3435,25 +4055,17 @@ Por el registro de establecimientos comerciales, criadores y prestadores de serv
 
 TARIFAS
 
-I. Por el registro de
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-establecimientos comerciales
+I. Por el registro de establecimientos comerciales de venta de animales 15 UMA.
 
-de venta de animales 15 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Por el registro de
+II. Por el registro de establecimientos de cría de animales 15 UMA.
 
-establecimientos de cría
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-de animales 15 S.M.G.
-
-III. Por el registro a
-
-Prestadores de Servicios
-
-vinculados con el Manejo,
-
-Producción y Venta de Animales 15 S.M.G.
+III. Por el registro a Prestadores de Servicios vinculados con el Manejo, Producción y Venta de Animales 15 UMA.
 
 Los derechos previstos en el presente artículo deberán ser pagados previamente a la expedición de la constancia de registro que corresponda.
 
@@ -3469,45 +4081,53 @@ Causarán derechos los servicios prestados por la autoridad municipal de Protecc
 
 TARIFAS
 
-I. Por el servicio de asesoría
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-técnica 2.0 S.M.G.
+I. Por el estudio, análisis de la solicitud y en su caso la expedición o prorroga del permiso de chapeo y desmonte, el solicitante deberá cubrir 0.13 UMA por metro cuadrado del total de la superficie respecto de la cual, solicita dicho permiso.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II. Por registros efectuados ante la autoridad 4 S.M.G
+II. Por registros efectuados ante la autoridad
 
-municipal de Protección Civil.
+municipal de Protección Civil. 4 UMA.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-III. Certificación como prestador de servidos 45 S.M.G.
+III. Certificación como prestador de servicios 45 UMA.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 IV. Permisos
 
-a) Para la venta de artesanía pirotécnica no 8 S.M.G
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-explosiva en temporada, debajo de 10kgs
+a) Para la venta de artesanía pirotécnica no
+
+explosiva en temporada, debajo de 10kgs 8 UMA.
 
 b) Para anuncios publicitaros (sic), torres, y
 
 antenas de comunicación
 
-1. Anuncios panorámicos de 10 m2 a nivel 30 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+1. Anuncios panorámicos de 10 m2 a nivel
 
 de piso y anuncios panorámicos de menos
 
-de 10 m2 a una altura menor de 6 metros.
+de 10 m2 a una altura menor de 6 metros. 30 UMA.
 
-2. Anuncios panorámicos de 10 m2 en 50 S.M.G
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Anuncios panorámicos de 10 m2 en
 
 azotea y anuncios panorámicos de menos
 
-de 10m2 a una altura mayor de 6 metros.
+de 10m2 a una altura mayor de 6 metros. 50 UMA.
 
-3. Anuncio panorámico de tipo unipolar de 100 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3. Anuncio panorámico de tipo unipolar de
 
 más de 10 m2 en áreas no urbanas, torres
 
@@ -3515,49 +4135,67 @@ o antenas de comunicación de cualquier
 
 tipo arriba de 10 metros desde el nivel
 
-de piso o azotea
+de piso o azotea 100 UMA.
 
-4. Torres y antenas de comunicación de 150 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+4. Torres y antenas de comunicación de
 
 cualquier tipo arriba de 10 metros desde
 
-nivel de piso o azotea
+nivel de piso o azotea 150 UMA.
 
-5. Anuncios panorámicos de tipo unipolar 200 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-en áreas urbanas
+5. Anuncios panorámicos de tipo unipolar
+
+en áreas urbanas 200 UMA.
 
 c) Para evento masivo:
 
-1. Por millar de asistencia 90 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+1. Por millar de asistencia 90 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 2. Por instalación de equipos y estructuras
 
-especiales 200 S.M.G.
+especiales 200 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 d) Para el almacenamiento provisional de
 
-pirotecnia artesanal, en temporada 50 S.M.G.
+pirotecnia artesanal, en temporada 50 UMA.
 
-e) Para locales que almacenen y/o distribuyan gas 30 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+e) Para locales que almacenen y/o distribuyan gas
 
 LP en recipientes portátiles (tanques de máximo
 
-10 kilogramos)
+10 kilogramos) 30 UMA.
 
 f) Para la instalación de circos, exposiciones y
 
 juegos
 
-1. Por circos y exposiciones 100 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Por cada juego mecánico (menos de 20 1 S.M.G.
+1. Por circos y exposiciones 100 UMA.
 
-juegos mecánicos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-3. Por cada juego mecánico (más de 21 3 S.M.G.
+2. Por cada juego mecánico (menos de 20
 
-juegos mecánicos)
+juegos mecánicos) 1 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3. Por cada juego mecánico (más de 21
+
+juegos mecánicos) 3 UMA.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -3565,151 +4203,139 @@ V. Dictámenes aprobatorios:
 
 a) Para marinas
 
-1. Para instalaciones con afluencia menor 15 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a 49 personas
+1. Para instalaciones con afluencia menor a 49 personas 15 UMA.
 
-2. Para afluencia de 50 a 100 personas 30 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-3. Para instalaciones con afluencia 50 S.M.G.
+2. Para afluencia de 50 a 100 personas 30 UMA.
 
-masiva, de 101 a 500 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4. Para instalaciones con afluencia masiva 200 S.M.G.
+3. Para instalaciones con afluencia masiva, de 101 a 500 personas 50 UMA.
 
-de 501 a 999 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-5. Para instalaciones con afluencia masiva 425 S.M.G.
+4. Para instalaciones con afluencia masiva de 501 a 999 personas 200 UMA.
 
-de mas de 1000 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+5. Para instalaciones con afluencia masiva de más de 1000 personas 425 UMA.
 
 b) Para escuelas, guarderías y centros educativos
 
-1. Para instalaciones con afluencia menor 15 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a 49 personas
+1. Para instalaciones con afluencia menor a 49 personas 15 UMA.
 
-2. Para afluencia de 50 a 100 personas 30 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-3. Para instalaciones con afluencia 50 S.M.G.
+2. Para afluencia de 50 a 100 personas 30 UMA.
 
-masiva, de 101 a 500 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4. Para instalaciones con afluencia masiva 200 S.M.G.
+3. Para instalaciones con afluencia masiva, de 101 a 500 personas 50 UMA.
 
-de 501 a 999 personas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-5. Para instalaciones con afluencia masiva 425 S.M.G.
+4. Para instalaciones con afluencia masiva de 501 a 999 personas 200 UMA.
 
-de más de 1000 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-6. Por instalaciones comerciales de gas LP 50 S.M.G.
+5. Para instalaciones con afluencia masiva de más de 1000 personas 425 UMA.
 
-estacionario (en su caso) de 100 a 4000 litros
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+6. Por instalaciones comerciales de gas LP estacionario (en su caso) de 100 a 4000 litros 50 UMA.
 
 c) Para hoteles
 
-1. Para instalaciones con afluencia menor
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a 49 personas 15 S.M.G. j
+1. Para instalaciones con afluencia menor a 49 personas 15 UMA. j
 
-2. Para afluencia de 50 a 100 personas 30 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-3. Para instalaciones con afluencia 50 S.M.G.
+2. Para afluencia de 50 a 100 personas 30 UMA.
 
-masiva, de 101 a 500 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4. Para instalaciones con afluencia masiva 200 S.M.G.
+3. Para instalaciones con afluencia masiva, de 101 a 500 personas 50 UMA.
 
-de 501 a 999 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-5. Para instalaciones con afluencia masiva 425 S.M.G.
+4. Para instalaciones con afluencia masiva de 501 a 999 personas 200 UMA.
 
-de más de 1000 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-6. Por instalaciones industriales que 100 S.M.G.
+5. Para instalaciones con afluencia masiva de más de 1000 personas 425 UMA.
 
-almacenen y/o distribuyen gas LP y/o
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-combustibles en recipientes fijos de
+6. Por instalaciones industriales que almacenen y/o distribuyen gas LP y/o combustibles en recipientes fijos de hasta 5000 litros 100 UMA.
 
-hasta 5000 litros
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-7. Por instalaciones industriales que 250 S.M.G.
+7. Por instalaciones industriales que almacenen y/o distribuyen gas LP y/o combustibles en recipientes fijos de hasta 10,000 litros 250 UMA.
 
-almacenen y/o distribuyen gas LP y/o
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-combustibles en recipientes fijos de
-
-hasta 10,000 litros
-
-8. Por instalaciones industriales que 500 S.M.G.
-
-almacenen y/o distribuyen gas LP y/o
-
-combustibles en recipientes fijos de
-
-más de 10,000 litros
+8. Por instalaciones industriales que almacenen y/o distribuyen gas LP y/o combustibles en recipientes fijos de más de 10,000 litros 500 UMA.
 
 d) Para gaseras
 
-l. Para instalaciones con afluencia menor 15 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a 49 personas
+1. Para instalaciones con afluencia menor a 49 personas 15 UMA.
 
-2. Para afluencia de 50 a 100 personas 30 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-3. Para instalaciones con afluencia 50 S.M.G.
+2. Para afluencia de 50 a 100 personas 30 UMA.
 
-masiva, de 101 a 500 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4. Para instalaciones con afluencia masiva 200 S.M.G.
+3. Para instalaciones con afluencia masiva, de 101 a 500 personas 50 UMA.
 
-de 501 a 999 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-5. Para instalaciones con afluencia masiva 425 S.M.G.
+4. Para instalaciones con afluencia masiva de 501 a 999 personas 200 UMA.
 
-de más de 1000 personas
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-6. Por vehículos que transportan gas LP 30 S.M.G.
+5. Para instalaciones con afluencia masiva de más de 1000 personas 425 UMA.
 
-en recipientes portátiles
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-7. Por vehículos que transportan gas LP 50 S.M.G.
+6. Por vehículos que transportan gas LP en recipientes portátiles 30 UMA.
 
-en recipientes fijos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-8. Por instalaciones industriales que 100 S.M.G.
+7. Por vehículos que transportan gas LP en recipientes fijos 50 UMA.
 
-almacenan y/o distribuyen gas LP y/o
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-combustibles con recipiente fijo hasta
+8. Por instalaciones industriales que almacenan y/o distribuyen gas LP y/o combustibles con recipiente fijo hasta por 5000 litros 100 UMA.
 
-por 5000 litros
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-9. Por instalaciones industriales que 250 S.M.G.
+9. Por instalaciones industriales que almacenan y/o distribuyen gas LP y/o combustibles con recipiente fijo hasta por 10,000 litros 250 UMA.
 
-almacenan y/o distribuyen gas LP y/o
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-combustibles con recipiente fijo hasta
+10. Por instalaciones industriales que almacenan y/o distribuyen gas LP y/o combustibles con recipiente fijo de más de 10,000 litros 500 UMA.
 
-por 10,000 litros
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-10. Por instalaciones industriales que 500 S.M.G.
-
-almacenan y/o distribuyen gas LP y/o
-
-combustibles con recipiente fijo de más
-
-de 10.000 litros
-
-e) Para gasolineras 400 S.M.G.
+e) Para gasolineras 400 UMA.
 
 f) Para locales comerciales y renovaciones de bajo riesgo
 
-1. Para locales con afluencia menor a 49 10 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-personas, menores a 60 m2
+1. Para locales con afluencia menor a 49
+
+personas, menores a 60 m2,
 
 establecidos en plazas comerciales,
 
@@ -3719,9 +4345,11 @@ de carga y descarga aérea, camiones
 
 foráneos de carga, casas de cambio,
 
-casas de empeño, cajeros automáticos
+casas de empeño, cajeros automáticos 10 UMA.
 
-2. Para locales con afluencia menor a 49 15 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Para locales con afluencia menor a 49
 
 personas, de 61 a 150 m2, establecidos
 
@@ -3733,79 +4361,85 @@ descarga aérea, camiones foráneos de
 
 carga, casas de cambio, casas de
 
-empeño, cajeros automáticos
+empeño, cajeros automáticos 15 UMA.
 
-3. Para locales con afluencia menor a 49 3 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3. Para locales con afluencia menor a 49
 
 personas menores a 60 m2, establecidos
 
 en el resto del municipio, para todos los
 
-giros restantes
+giros restantes 3 UMA.
 
-4. Para locales con afluencia menor a 49 5 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+4. Para locales con afluencia menor a 49
 
 personas, de 61 a 150 m2, establecidos
 
 en el resto del municipio, para todos los
 
-giros restantes
+giros restantes 5 UMA.
 
-Para locales comerciales y renovaciones de mediano y alto riesgo
+g) Para locales comerciales y renovaciones de mediano y alto riesgo
 
-1. Para instalaciones con afluencia menor 15 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a 49 personas
+1. Para instalaciones con afluencia menor a 49 personas 15 UMA.
 
-2. Para instalaciones con afluencia de 50 30 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a 100 personas
+2. Para instalaciones con afluencia de 50 a 100 personas 30 UMA.
 
-3. Para Instalaciones con afluencia masiva 50 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-de 101 a 500 personas
+3. Para Instalaciones con afluencia masiva de 101 a 500 personas 50 UMA.
 
-4. Para Instalaciones con afluencia masiva 200 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-de 501 a 999 personas
+4. Para Instalaciones con afluencia masiva de 501 a 999 personas 200 UMA.
 
-5. Para Instalaciones con afluencia masiva 425 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-de más de 1000 personas
+5. Para Instalaciones con afluencia masiva de más de 1000 personas 425 UMA.
 
-6. Por operaciones de alto riesgo 200 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-7. Por locales con productos químicos de 100 S.M.G.
+6. Por operaciones de alto riesgo 200 UMA.
 
-autoconsumo hasta por 5000 litros
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-8. Por locales con productos químicos de 250 S.M.G.
+7. Por locales con productos químicos de autoconsumo hasta por 5000 litros 100 UMA.
 
-autoconsumo hasta por 10,000 litros
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-9. Por locales con productos químicos de 500 S.M.G.
+8. Por locales con productos químicos de autoconsumo hasta por 10,000 litros 250 UMA.
 
-autoconsumo más de 10,000 litros
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-10. Locales que utilizan, almacenan y/o 60 S.M.G.
+9. Por locales con productos químicos de autoconsumo más de 10,000 litros 500 UMA.
 
-distribuyen productos químicos al
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-menudeo
+10. Locales que utilizan, almacenan y/o distribuyen productos químicos al menudeo 60 UMA.
 
-11. Locales que utilizan, almacenan y/o 350 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-distribuyen productos químicos al
+11. Locales que utilizan, almacenan y/o distribuyen productos químicos al mayoreo 350 UMA.
 
-mayoreo
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-h) Para transporte de combustible 50 S.M.G.
+h) Para transporte de combustible 50 UMA.
 
-i) Para la quema de pirotecnia debajo de 10 20 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-kilogramos
+i) Para la quema de pirotecnia debajo de 10 kilogramos 20 UMA.
 
-j) Para planta de distribución 750 S.M.G
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+j) Para planta de distribución 750 UMA
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -3817,75 +4451,83 @@ conforme al peso que se establece a
 
 continuación
 
-1. Arriba de 10 kgs y hasta 20 kgs 50 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. Más de 20 kgs y hasta 30 kgs 100 S.M.G.
+1. Arriba de 10 kgs y hasta 20 kgs 50 UMA.
 
-3. Más de 30 kgs y hasta 50 kgs 150 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4. Más de 50 kgs y hasta 100 kgs 200 S.M.G.
+2. Más de 20 kgs y hasta 30 kgs 100 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3. Más de 30 kgs y hasta 50 kgs 150 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+4. Más de 50 kgs y hasta 100 kgs 200 UMA.
 
 b) Para uso de explosivos, conforme al peso que se
 
 establece a continuación
 
-1. De 1 a 1000 kilogramos 10 a 50 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-2. 1001 a 9999 kilogramos 80 S.M.G.
+1. De 1 a 1000 kilogramos 10 a 50 UMA.
 
-3. 10,000 a 49.000 100 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-4. Más de 49.000 y hasta 99.000 150 S.M.G.
+2. De 1001 a 9999 kilogramos 80 UMA.
 
-kilogramos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-5. Más de 99,000 y hasta 300,000 200 S.M.G.
+3. De 10,000 a 49.000 100 UMA.
 
-kilogramos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-6. Por cada kilo excedente arriba de 0.065 S.M.G. por
+4. Más de 49.000 y hasta 99.000 kilogramos 150 UMA.
 
-300,000 kilogramos kilo excedente
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-c) En planos, para autorización de proyectos de 30 S.M.G.
+5. Más de 99,000 y hasta 300,000 kilogramos 200 UMA.
 
-gasolineras, tiendas de autoservicio,
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-discotecas, centros comerciales, supermercados
+6. Por cada kilo excedente arriba de 300,000 kilogramos 0.065 UMA por kilo excedente
 
-d) Visto bueno de gas en cilindros para puestos
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-ambulantes y semifijos:
+c) En planos, para autorización de proyectos de gasolineras, tiendas de autoservicio, discotecas, centros comerciales, supermercados 30 UMA.
 
-1. Cilindro de 10 kilogramos 5 S.M.G.
+d) Visto bueno de gas en cilindros para puestos ambulantes y semifijos:
 
-2. Cilindro de 20 kilogramos 8 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-3. Cilindro de 30 kilogramos 10 S.M.G.
+1. Cilindro de 10 kilogramos 5 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+2. Cilindro de 20 kilogramos 8 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+3. Cilindro de 30 kilogramos 10 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VII. Por la revisión y hasta la autorización mediante resolución, de programas internos de protección civil para establecimientos con afluencia masiva 8 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VIII. Prórroga para el cumplimiento de observaciones derivadas de una inspección de protección civil 1 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IX. Evaluación del programa de seguridad acuática 8 UMA
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-VII. Por la revisión y hasta la autorización mediante 8 S.M.G
-
-resolución, de programas internos de protección
-
-civil para establecimientos con afluencia masiva
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-VIII. Prórroga para el cumplimiento de observaciones 1 S.M.G.
-
-derivadas de una Inspección de protección civil
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-IX. Evaluación del programa de seguridad acuática 8 S.M.G
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-X. No causarán derechos los siguientes trámites
-
-y/o servicios
+X. No causarán derechos los siguientes trámites y/o servicios
 
 a) Autorización de auto-refugio
 
@@ -3895,11 +4537,9 @@ c) Evaluación de guardavidas
 
 d) Capacitación en materia de protección civil
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XI. Otros servicios no definidos en las anteriores 7 S.M.G.
-
-fracciones
+XI. Otros servicios no definidos en las anteriores fracciones 7 UMA.
 
 ### CAPÍTULO XXVII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACIÓN
 
@@ -3911,15 +4551,23 @@ TARIFA
 
 I.- Por la expedición de documentos en copia simple:
 
-a) De una a cinco fojas no se causará de derecho alguno.
+a) De una a cinco fojas no se causará derecho alguno.
 
-b) De seis fojas en adelante 0.025 S.M.G. por cada una.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-II.- Por la expedición de videocintas 2.00 S.M.G. por cada una.
+b) De seis fojas en adelante 0.025 UMA por cada una.
 
-III.- Por la expedición de audiocasettes 1.00 S.M.G. por cada uno.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-IV.- Por la expedición de disco compacto 1.00 S.M.G. por cada uno.
+II.- Por la expedición de videocintas 2.00 UMA por cada una.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+III.- Por la expedición de audiocasettes 1.00 UMA por cada uno.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV.- Por la expedición de disco compacto 1.00 UMA por cada uno.
 
 Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
 
@@ -3937,27 +4585,45 @@ TARIFA
 
 l.- Por el servicio de esterilización de perros o gatos:
 
-a) Por macho 5.25 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Por hembra 6 S.M.G.
+a) Por macho 5.25 UMA.
 
-II.- Por observación antirrábica 0.9 S.M.G.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-III.- Por desparasitación 1.2 S.M.G.
+b) Por hembra 6 UMA.
 
-IV.- Por aplicación de vacuna antirrábica 1.2 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V.- Por baño garrapaticida 0.9 S.M.G.
+II.- Por observación antirrábica, 0.9 UMA.
 
-VI.- Por adopción 5 S.M.G.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-VII.- Por destino final 2.5 S.M.G.
+III.- Por desparasitación, 1.2 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV.- Por aplicación de vacuna antirrábica, 1.2 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V.- Por baño garrapaticida, 0.9 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI.- Por adopción 5 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VII.- Por destino final 2.5 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 VIII.- Por cremación:
 
-a) Cremación Individual 14 S.M.G.
+a) Cremación individual 14 UMA.
 
-b) Cremación común $15.00 por kilogramo de peso del animal.
+b) Cremación común $15.00 pesos por kilogramo de peso del animal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -3967,7 +4633,7 @@ b) Cremación común $15.00 por kilogramo de peso del animal.
 
 ###### Artículo 133
 
-Ter.- Por el servicio de Inscripción en el Registro Único de Personas Acreditadas, se realizará por única ocasión el pago de la tarifa de 4 S.M.G.
+Ter.- Por el servicio de Inscripción en el Registro Único de Personas Acreditadas, se realizará por única ocasión el pago de la tarifa de 4 UMA.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
@@ -3981,33 +4647,51 @@ Quater.- Todos los servicios que proporcione la Dirección de Zona Federal Marí
 
 I. Constancias:
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-a) De uso o no uso de la Zona Federal Marítimo Terrestre 10.0 SMG.
+a) De uso o no uso de la Zona Federal MarítimoTerrestre 11.0 UMA.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) De no adeudo por derecho de uso, goce y/o aprovechamiento de la Zona Federal Marítimo Terrestre 10.0 SMG.
+b) De no adeudo por derecho de uso, goce y/o aprovechamiento de la Zona Federal Marítimo Terrestre 11.0 UMA.
 
-II. Impresión de planos con levantamientos geodésicos, vértices GPS de la pleamar, de la zona federal marítimo terrestre, de los terrenos ganados al mar u alguna otra área federal costera. De 30.0 a 70.0 SMG.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-III. Levantamientos geodésicos, georeferenciación, vértices GPS, de la zona federal marítimo terrestre, terrenos ganados al mar u alguna otra área federal costera solicitada por un particular. De 40.0 a 100.0 SMG.
+II. Impresión de planos con levantamientos geodésicos, vértices GPS de la pleamar, de la zona federal marítimo terrestre, de los terrenos ganados al mar u alguna otra área federal costera. De 32.0 a 75.0 UMA
 
-IV. Por cualquier modificación en la superficie, nombre, domicilio, uso, concesión y/o propietario en el padrón de contribuyentes de la ZOFEMAT 5.0 SMG.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-V. Expedición de copia certificada de constancias existentes en los expedientes del padrón de usuarios y/o concesionarios y/o permisatarios de la ZOFEMAT 0.5 SMG. por cada hoja.
+III. Levantamientos geodésicos, georeferenciación, vértices GPS, de la zona federal marítimo terrestre, terrenos ganados al mar u alguna otra área federal costera solicitada por un particular. De 43.0 a 107.0 UMA.
 
-VI. Por la visita técnica, revisión y resolución de congruencia de uso de suelo relativo a la ZOFEMAT De 50.0 a 70.0 SMG
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+IV. Por cualquier modificación en la superficie, nombre, domicilio, uso, concesión y/o propietario en el padrón de contribuyentes de la ZOFEMAT 6.0 UMA.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+V. Expedición de copia certificada de constancias existentes en los expedientes del padrón de usuarios y/o concesionarios y/o permisatarios de la ZOFEMAT 1.0 UMA por cada hoja.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+VI. Por la visita técnica, revisión y resolución de congruencia de uso de suelo relativo a la ZOFEMAT De 53.0 a 75.0 UMA
 
 VII. Factibilidad de usos y aprovechamientos:
 
-a) Masajes 48.0 SMG.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-b) Artesanías 35.0 SMG.
+a) Masajes 51.0 UMA.
 
-c) Prestadores de servicios turísticos 100.0 SMG.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-d) Eventos especiales 50.0 SMG. Por módulo.
+b) Artesanías 38.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+c) Prestadores de servicios turísticos 107.0 UMA.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+d) Eventos especiales 57.0 UMA por módulo de 100 personas.
 
 Tratándose de la apertura de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se otorgará un descuento de hasta el 50% en el pago de los derechos que señala el presente capítulo, previa acreditación de los requisitos que establezca el ayuntamiento.
 
@@ -4049,6 +4733,8 @@ El producto líquido de los bienes mostrencos que sean rematados o vendidos conf
 
 ### CAPÍTULO III. MERCADOS
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 141.
 
 Por locales en los mercados y otros sitios, será pagada una renta mensual de acuerdo a la siguiente:
@@ -4057,115 +4743,47 @@ TARIFA
 
 I. Mercados:
 
-a) Accesorios y locales con
+a) Locales y espacios aledaños, por metro cuadrado de 2.00 a 6.0 UMA.
 
-puerta a la calle, por metro
+II. Áreas comerciales no especificadas:
 
-cuadrado de 1.5 a 2.0 S.M.G.
+a) Espacios y áreas comerciales por metro cuadrado de 1.5 A 9.0 UMA.
 
-b) Accesorios en el pasaje, por
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-metro cuadrado de 0.5 a 1.5 S.M.G.
+###### Artículo 141 Bis.
 
-c) Locales en el interior, por
+Será pagada una renta diaria por metro cuadrado de acuerdo a ubicación, giro y condiciones de cada espacio o local, conforme a la siguiente tabla:
 
-metro cuadrado de 1.0 a 2.0 S.M.G.
+TARIFA
 
-d) loca les en el interior, por
+I. En sitios frente a espectáculos públicos
 
-metro cuadrado de 0.1 a 0.5 S.M.G.
+a) Puestos semifijos, de refrescos, y comestibles en general, por metro cuadrado diariamente De 0.09 a 0.55 UMA
 
-e) Carnicerías, por metro cuadrado
+II. En portales zaguanes, calles y otros no especificados
 
-de 1.0 a 1.5 S.M.G.
+a) Puestos fijos o semifijos Personas físicas, por metro cuadrado diario De 1.0 a 1.5 UMA
 
-f) Pescaderías, por metro cuadrado
+b) Puestos fijos o semifijos para Personas Morales, por metro cuadrado diario De 1.5 a 2.0 UMA
 
-de 1.0 a 1.5 S.M.G.
+c) Puestos móviles o carros de mano con venta de refrescos, comestibles en general, por metro cuadrado diario De 0.09 a 0.55 UMA
 
-g) Los que establezcan fuera de
+d) Puestos fijos, por metro diario De 0.25 a 0.55 UMA
 
-los mercados, puestos de frutas,
+III. Ambulantes
 
-verduras, carnes cocidas o
+a) Vendedores con carro expendiendo paletas y otro tipo de alimentos, diario De 0.09 a 0.55 UMA
 
-cualesquiera otros artículos
+b) Vendedores de ropa, calzado, mercería y loza, diario De 0.25 a 0.85 UMA
 
-alimenticios, por metro cuadrado
+c) Vendedores de dulces y frutas, diario De 0.15 a 0.35 UMA
 
-de 0.5 a 1.0 S.M.G.
+d) Merolicos, anunciantes y comerciantes, diario De 0.25 a 0.85 UMA
 
-h) Servicios frigoríficos, por
+e) Cuando los vendedores no establezcan puestos semifijos en la vía pública, pagarán diario De 0.15 a 0.35 UMA
 
-metro cuadrado de 0.15 a 1.0 S.M.G.
-
-i) Servicios de almacenaje, por
-
-metro cuadrado de 0.5 a 0.9 S.M.G.
-
-II. En Sitios Frente A Espectáculos Públicos
-
-a) Puestos semifijos, de refrescos,
-
-y comestibles en general, por metro
-
-cuadrado diariamente, de 0.08 10.5 S.M.G.
-
-III. En Portales Zaguanes y Calles:
-
-a. Puestos fijos o semifijos, por
-
-metro cuadrado diario 0.5 a 0.8 S.M.G.
-
-b. Puestos móviles o carros de
-
-mano con venta de refrescos,
-
-comestibles en general, por metro
-
-cuadrado diario 0.08 a 0.5 S.M.G.
-
-c. Puestos fijos, por metro cuadrado
-
-diario 0.2 a 0.5 S.M.G.
-
-IV. Ambulantes
-
-a) Vendedores con carro expendiendo
-
-paletas y otro tipo de alimentos,
-
-diario 0.08 a 0.5 S.M.G.
-
-b) Vendedores de ropa, calzado,
-
-mercería y loza, diario 0.2 a 0.8 S.M.G.
-
-c) Vendedores de dulces y frutas,
-
-diario 0.1 a 0.3 S.M.G.
-
-d) Merolicos, anunciantes y
-
-comerciantes, diario 0.2 a 0.8 S.M.G.
-
-e) El arrendamiento del lugar
-
-público ocupado por las ferias,
-
-juegos mecánicos y carpas, será
-
-calificado por la Tesorería Municipal
-
-y el pago será diario
-
-f) Cuando los vendedores no
-
-establezcan puestos semifijos en la
-
-vía pública, pagaran diario 0.1 a 3.0 S.M.G.
-
-g) Otros no especificados, diario 0.8 a 5.0 S.M.G.
+f) Otros no especificados, diario De 0.85 a 5.0 UMA
 
 ### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
@@ -4189,9 +4807,11 @@ Artículo. 145.- El Ayuntamiento podrán obtener ingresos para su hacienda media
 
 ### CAPÍTULO VII. PRODUCTOS DIVERSOS
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 146.
 
-Los productos no especificados en este capítulo, así como el costo administrativo que origine la impresión o fabricación de formatos, calcomanías y demás valores, cualquiera que sea su tamaño, forma o composición, inclusive la reposición de documento extraviado de licencias de funcionamiento, la tarifa será de 2.00 S.M.G.
+Los productos no especificados en este capítulo, así como el costo administrativo que origine la impresión o fabricación de formatos, calcomanías y demás valores, cualquiera que sea su tamaño, forma o composición, inclusive la reposición de documento extraviado de licencias de funcionamiento, la tarifa será de 2.00 UMA.
 
 ## TÍTULO QUINTO. APROVECHAMIENTOS
 
@@ -4364,3 +4984,11 @@ P.O. 21 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 2017, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 144 POR EL QUE SE REFORMAN, DEROGAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales que contravengan el presente decreto.
