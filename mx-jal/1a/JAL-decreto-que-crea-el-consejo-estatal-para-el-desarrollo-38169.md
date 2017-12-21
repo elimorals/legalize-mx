@@ -4,7 +4,7 @@ identifier: "JAL-decreto-que-crea-el-consejo-estatal-para-el-desarrollo-38169"
 country: "mx"
 rank: "decreto"
 publication_date: "2016-10-11"
-last_updated: "2016-10-11"
+last_updated: "2017-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURISTICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 26726/LXI/17, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 SE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Decreto publicado en el Periódico Oficial del Estado de Jalisco, el jueves 20 de julio de 1989.
 
@@ -362,3 +362,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26726/LXI/17 QUE ABROGA LA LEY DE VALUACIÓN DEL ESTADO DE JALISCO; Y EXTINGUE LA COMISIÓN DE VALUACIÓN DEL ESTADO DE JALISCO; ABROGA EL DECRETO 13605 Y EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; SE ABROGA EL DECRETO 12804 Y EXTINGUE EL CONSEJO FORESTAL Y DE LA FAUNA".]
+
+PRIMERO. Este decreto iniciará su vigencia el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se autoriza al Poder Ejecutivo del estado de Jalisco para que, a través de la Secretaría de Planeación, Administración y Finanzas, realice las adecuaciones pertinentes para el cumplimiento de este decreto en el Presupuesto de Egresos del Gobierno del Estado.
