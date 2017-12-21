@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2017-08-03"
+last_updated: "2017-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # CODIGO FISCAL DEL ESTADO DE SONORA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -115,7 +117,7 @@ II.- Los organismos descentralizados de la Federación, del Estado de Sonora y d
 
 ###### ARTÍCULO 7º.
 
-No podrá exigirse el pago de tributo alguno que no se encuentre previstos en la Ley de Hacienda del Estado, en la Ley de Ingresos o en una Ley especial.
+No podrá exigirse el pago de tributo alguno que no se encuentre previsto en la Ley de Hacienda del Estado, en la Ley de Ingresos o en una Ley especial.
 
 ###### ARTÍCULO 8º.
 
@@ -417,11 +419,17 @@ ARTÍCULO 24 BIS.- Los Poderes del Estado, incluidas en el Poder Ejecutivo las e
 
 El pago de los créditos fiscales deberá hacerse en efectivo, mediante transferencias electrónicas, cheque certificado, tarjeta de crédito o débito, salvo que las disposiciones aplicables establezcan que se haga en especie.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 15 DE DICIEMBRE DE 2014)</small>
+Se aceptarán como medio de pago de las contribuciones y aprovechamientos en lugar del efectivo, los cheques del contribuyente del mismo Banco en que se efectúe el pago, cheques certificados, la transferencia electrónica a favor del Gobierno del Estado, las tarjetas de crédito y débito, los cheques de cuentas personales de los contribuyentes, los cuales se presumirán recibidos bajo la condición "salvo buen cobro" para los efectos de acreditar que se ha efectuado el pago, en éste caso, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Hacienda o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original del sello de pagado y firma de cajero autorizado tendrán validez y una vez que se haya hecho efectivo en cheque personal en la cámara de compensación, momento en el que se entenderán como pagadas las contribuciones.
 
-Los giros postales, telegráficos o bancarios, los cheques certificados y los pagos en tarjeta de crédito o débito realizados en los lugares autorizados por la Secretaría de Hacienda, se admitirán como efectivo. También se admitirán como medio de pago los cheques de cuentas personales de los contribuyentes, los cuales se presumirán recibidos bajo la condición “salvo buen cobro” para los efectos de acreditar que se ha efectuado el pago, en éste caso, la forma oficial, el recibo oficial o la forma valorada, expedidos y controlados exclusivamente por la Secretaría de Hacienda o la documentación que en las disposiciones respectivas se establezca en la que conste la impresión original de la máquina registradora tendrán validez una vez que se haya hecho efectivo en cheque personal en la cámara de compensación, momento en el que se entenderán como pagadas las contribuciones.
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Se entiende por transferencia electrónica de fondos, el pago de las contribuciones que por instrucción de los contribuyentes, a través de la afectación de fondos de su cuenta bancaria a favor del Gobierno del Estado, se realiza por las instituciones de crédito, en forma electrónica.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de pago de contribuciones y aprovechamientos por cheque, el importe del mismo debe ser por la cantidad exacta a pagar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -543,8 +551,6 @@ Los contribuyentes que hayan ejercido la opción a que se refiere el primer pár
 
 Se podrán compensar los créditos y deudas entre el Estado por una parte y la Federación y Municipios, por la otra. Tratándose de la compensación con Federación y Municipios se requerirá acuerdo previo con éstos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 33.
@@ -560,6 +566,10 @@ La solicitud o los avisos a que se refiere el primer párrafo de este artículo 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 Los avisos, declaraciones o manifestaciones se harán en las formas oficiales que al efecto se publiquen en el portal electrónico de la Secretaría de Hacienda, pudiendo reproducirse por cualquier interesado, salvo tratándose de formas valoradas, las cuales serán proporcionadas en las oficinas recaudadoras de acuerdo a las disposiciones administrativas de carácter general que establezca dicha Secretaría. A falta de forma publicada, se podrá utilizar formato libre.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de personas físicas o morales cuyas actividades (sic) reguladas por leyes administrativas en el Estado y tengan la obligación de efectuar un pago anual, bianual o trianual por conceptos de Derechos en los términos de la Ley de Hacienda del Estado, deberán de solicitar su inscripción en el Registro Estatal de Contribuyentes en los 45 días siguientes al pago efectuado o presentar un aumento de obligaciones fiscales si ya están inscritos; cumplido el plazo la Secretaría de Hacienda podrá realizar su registro de contribuyente de conformidad con lo dispuesto en el artículo 34 de este Código.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -580,6 +590,10 @@ III.- No se encuentren inscritos en el Registro Estatal de Contribuyentes.
 IV.- Habiendo vencido el plazo para presentar alguna declaración u aviso y, con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada.
 
 La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y siempre que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Las personas morales o como se le (sic) denomine en los términos de la Ley que las regula entre otros: sus socios, accionistas, asociados, la administración única de las sociedades mercantiles, los asociantes y los asociados de una asociación en participación podrán ser sujeto (sic) de este precepto a excepción de la fracción III cuando no sean objeto de alguna contribución estatal.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -1504,6 +1518,10 @@ Cuando otras autoridades proporcionen expedientes o documentos a las autoridades
 Las mencionadas autoridades estarán a lo dispuesto en el primer párrafo de este artículo, sin perjuicio de su obligación de mantener la confidencialidad de la información proporcionada por terceros independientes que afecte su posición competitiva, a que se refiere el artículo 80 de este Código.
 
 Las copias o reproducciones que deriven del microfilm, disco óptico, medios magnéticos, digitales, electrónicos o magneto ópticos de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2017)</small>
+
+Las autoridades fiscales presumirán como cierta la información contenida en los comprobantes fiscales digitales por Internet y en las bases de datos que lleven o tengan en su poder o a las que tengan acceso.
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
@@ -4244,3 +4262,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 21 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 189, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES FISCALES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2018, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
