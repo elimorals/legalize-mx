@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-aduanera-107394"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-04-20"
-last_updated: "2015-04-20"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107394&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,6 +24,8 @@ REGLAMENTO DE LA LEY ADUANERA
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS DOS MESES SIGUIENTES A SU PUBLICACIÓN.</small>
 
 TEXTO ORIGINAL.
+
+ÚLTIMA ACTUALIZACIÓN POR ANEXO EXPEDIDO POR LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 20 de abril de 2015.
 
@@ -1379,9 +1381,11 @@ Para efectos del artículo 98 de la Ley, en las importaciones si con motivo del 
 
 En los supuestos a que se refiere el párrafo anterior, las Autoridades Aduaneras procederán a determinar los créditos fiscales que correspondan, conforme a lo previsto en los artículos 98 y 152 de la Ley.
 
+(ACTUALIZADO EN SU MONTO, D.O.F. 22 DE DICIEMBRE DE 2017)
+
 ###### Artículo 144.
 
-Para efectos del artículo 100, fracción II de la Ley, las empresas que hayan realizado importaciones con un valor superior a $106,705,330.00 en el ejercicio inmediato anterior a aquél en que soliciten su inscripción en el registro del despacho de Mercancías de las empresas, presentarán su solicitud ante la Autoridad Aduanera debiendo cumplir con lo siguiente:
+Para efectos del artículo 100, fracción II de la Ley, las empresas que hayan realizado importaciones con un valor superior a $120,139,530.00 en el ejercicio inmediato anterior a aquél en que soliciten su inscripción en el registro del despacho de Mercancías de las empresas, presentarán su solicitud ante la Autoridad Aduanera debiendo cumplir con lo siguiente:
 
 I. Realizar el pago del derecho que corresponda conforme a la Ley Federal de Derechos;
 
@@ -2282,3 +2286,9 @@ Quinto. Las referencias que señalan los artículos 127, fracción II, inciso e)
 Sexto. Las solicitudes presentadas por los contribuyentes ante las Autoridades Aduaneras que se encuentren en trámite en términos del Reglamento de la Ley Aduanera que se abroga, deberán resolverse conforme a las disposiciones vigentes a la fecha de su presentación.
 
 Dado en la Residencia del Poder Ejecutivo Federal, Ciudad de México, Distrito Federal, a diecisiete de abril de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de la Defensa Nacional, Salvador Cienfuegos Zepeda.- Rúbrica.- El Secretario de Marina, Vidal Francisco Soberón Sanz.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan José Guerra Abud.- Rúbrica.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Enrique Martínez y Martínez.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Gerardo Ruiz Esparza.- Rúbrica.- La Secretaria de Salud, María de las Mercedes Martha Juan López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
