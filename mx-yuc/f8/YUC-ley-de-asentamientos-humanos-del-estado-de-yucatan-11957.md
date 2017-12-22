@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-asentamientos-humanos-del-estado-de-yucatan-11957"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-30"
-last_updated: "2016-12-28"
+last_updated: "2017-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 30 de junio de 1995.
 
@@ -105,9 +105,17 @@ VIII. DESARROLLO URBANO.- El proceso de planeación y regulación para la fundac
 
 IX. DESTINOS.- Los fines públicos a los que se prevea dedicar determinadas áreas o predios de los centros de población.
 
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IX Bis.- ESPACIO PÚBLICO.- Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
+
 X. EQUIPAMIENTO URBANO.- El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos.
 
 XI. FUNDACION.- La acción de establecer un centro de población.
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XI Bis.- GESTIÓN INTEGRAL DE RIESGOS.- El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción que involucra a los tres órdenes de gobierno, así como a los sectores de la sociedad, lo que facilita la implementación de políticas públicas, estrategias y procedimientos que combatan las causas estructurales de los desastres y fortalezcan las capacidades de Resiliencia o resistencia de la sociedad. Comprende la identificación de los riesgos y, en su caso, su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
 
 XII. INFRAESTRUCTURA URBANA.- Los sistemas y redes de conducción y distribución de bienes y servicios en los centros de población.
 
@@ -121,7 +129,13 @@ XVI. PROVISIONES.- Las áreas que serán utilizadas para la fundación de un cen
 
 XVII. RESERVAS.- Las áreas de un centro de población que serán utilizadas para su crecimiento.
 
-XVIII. SECRETARIA.- La Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda del Gobierno del Estado.
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XVII Bis.- RESILIENCIA.- Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
+
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XVIII.- SECRETARIA.- La Secretaría de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado.
 
 XIX. SERVICIOS URBANOS.- Las servicios públicos prestados directamente por la autoridad competente o concesionados para satisfacer necesidades colectivas en los centros de población.
 
@@ -563,6 +577,10 @@ Los programas sectoriales de desarrollo urbano son el conjunto de estudios, pol�
 
 Los programas de desarrollo urbano deberán apegarse a los criterios generales de regulación ecológica de los asentamientos humanos establecidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Protección al Ambiente del Estado y en los demás reglamentos y normas en materia ecológica.
 
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 29 BIS.- Los planes y programas de desarrollo urbano deberán garantizar la dotación suficiente de espacios públicos por habitante y conectividad, a partir de la adquisición y habilitación de los espacios públicos adicionales a los existentes dentro de los polígonos sujetos a las áreas de densificación.
+
 ### Capítulo III. DE LAS CONURBACIONES
 
 ###### ARTICULO 30.
@@ -801,7 +819,7 @@ Para tal efecto, los propietarios de los predios o en su caso, los notarios, los
 
 Son provisiones, las áreas que serán utilizadas para la fundación de los centros de población.
 
-### CAPITULO V. DE LA CONSERVACION Y MEJORAMIENTO DE LOS CENTROS DE
+### Capítulo V. DE LA CONSERVACION Y MEJORAMIENTO DE LOS CENTROS DE
 
 POBLACION
 
@@ -847,13 +865,113 @@ III. Las normas y criterios técnicos aplicables a las acciones de conservación
 
 IV. Las bases de los acuerdos entre las autoridades federal, estatal y municipal y los particulares para la realización de las acciones de conservación y mejoramiento de la zona.
 
-### CAPITULO I. DE LOS CERTIFICADOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-### Capítulo II. DE LAS LICENCIAS DE USO DEL SUELO
+### Capítulo VII. DE LA REGULACION DEL ESPACIO PUBLICO
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 62 BIS.- Se deberá privilegiar el diseño, adecuación, mantenimiento y protección de espacios públicos, teniendo en cuenta siempre el desarrollo de la ciudad, en los procesos de planeación urbana, programación de inversiones públicas, aprovechamiento y utilización de áreas, polígonos y predios baldíos, públicos o privados, dentro de los centros de población.
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 62 TER.- Los instrumentos de planeación y regulación del ordenamiento territorial de los asentamientos humanos del estado deberán definir la dotación de espacio público de acuerdo con las normas oficiales mexicanas aplicables y deberán privilegiar la dotación y preservación del espacio para el tránsito de los peatones y bicicletas; y la conectividad entre vialidades que propicien la movilidad; igualmente los espacios abiertos para el deporte, los parques y las plazas, de manera que cada colonia, barrio y localidad cuente con dotación igual o mayor establecida en las normas mencionadas.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 62 QUATER.- Los instrumentos de planeación y regulación del ordenamiento territorial de los asentamientos humanos municipales deberán de incluir los aspectos relacionados con el uso, aprovechamiento y custodia del espacio público, así como mecanismos efectivos de participación social como la consulta, la opinión y la deliberación con la población, sus organizaciones e instituciones, para determinar las prioridades y los proyectos sobre espacio público y para dar seguimiento a la ejecución de obras, la evaluación de los programas y la operación y funcionamiento de dichos espacios, así como, entre otras acciones, las siguientes:
+
+I.- Establecer las medidas para la identificación y mejor localización de los espacios públicos en relación con la función que tendrán y con la ubicación de los beneficiarios, de conformidad con las normas nacionales en la materia.
+
+II.- Crear y defender el espacio público, la calidad de su entorno y las alternativas para su expansión.
+
+III.- Definir las características del espacio público y el trazo de la red vial, de manera que esta garantice la conectividad adecuada para la movilidad y su adaptación a diferentes densidades en el tiempo.
+
+IV.- Definir la mejor localización y dimensiones de los equipamientos colectivos de interés público o social en cada barrio, en relación con la función que tendrán y con la ubicación de los beneficiarios, como centros docentes y de salud, espacios públicos para la recreación, el deporte y zonas verdes destinados a parques, plazas, jardines o zonas de esparcimiento, de acuerdo con las normas y lineamientos vigentes.
+
+V.- Establecer los instrumentos bajo los cuales se podrá autorizar la ocupación del espacio público, que únicamente podrá ser de carácter temporal y uso definido.
+
+Los ayuntamientos serán los encargados de velar, vigilar y proteger la seguridad, integridad y calidad del espacio público.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 62 QUINQUIES.- El uso, aprovechamiento y custodia del espacio público se sujetará a lo siguiente:
+
+I.- Prevalecerá el interés general sobre el particular.
+
+II.- Se deberá promover la equidad en su uso y disfrute.
+
+III.- Se deberá asegurar la accesibilidad universal y libre circulación de todas las personas, y promover espacios públicos que sirvan como transición y conexión entre barrios y que fomenten la pluralidad y la cohesión social.
+
+IV.- En el caso de los bienes de dominio público, éstos son inalienables; se podrán realizar donaciones y permutas de acuerdo a lo establecido en la Ley de Bienes del Estado de Yucatán.
+
+V.- Se procurará mantener el equilibrio entre las áreas verdes y la construcción de la infraestructura, tomando como base de cálculo las normas nacionales en la materia.
+
+VI.- Los espacios públicos originalmente destinados a la recreación, el deporte y zonas verdes destinados a parques, jardines o zonas de esparcimiento, no podrán ser destinados a otro uso.
+
+VII.- Los instrumentos en los que se autorice la ocupación del espacio público solo confieren a sus titulares el derecho sobre la ocupación temporal y para el uso definido.
+
+VIII.- Se promoverá la adecuación de los reglamentos municipales que garanticen comodidad y seguridad en el espacio público, sobre todo para los peatones, con una equidad entre los espacios edificables y los no edificables.
+
+IX.- Se deberán definir los instrumentos, públicos o privados, que promuevan la creación de espacios públicos de dimensiones adecuadas para integrar barrios, de tal manera que su ubicación y beneficios sean accesibles a distancias peatonales para sus habitantes.
+
+X.- Se establecerán los lineamientos para que el diseño y traza de vialidades en los centros de población asegure su continuidad, procure una cantidad mínima de intersecciones y que fomente la movilidad, de acuerdo con las características topográficas y culturales de cada región.
+
+XI.- Se deberá asegurar la preservación y restauración del equilibrio ecológico y la protección al ambiente, la calidad formal e imagen urbana y la conservación de los monumentos y el paisaje y mobiliario urbano.
+
+XII.- En caso de tener que utilizar suelo destinado a espacio público para otros fines, la autoridad tendrá que justificar sus acciones para dicho cambio en el uso de suelo, además de sustituirlo por otro de características, ubicación y dimensiones similares.
+
+Los municipios promoverán la gestión del espacio público con cobertura suficiente. Para el caso de la seguridad pública en los espacios públicos de los municipios, estos podrán coordinarse con la autoridad estatal, dentro del ámbito de sus respectivas jurisdicciones.
+
+Todos los habitantes tienen el derecho de denunciar, ante las autoridades correspondientes, cualquier acción que atente contra la integridad y condiciones de uso, goce y disfrute del espacio público.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+### Capítulo VIII. DE LA RESILIENCIA URBANA Y LA PREVENCION Y REDUCCION DE RIESGOS EN LOS ASENTAMIENTOS HUMANOS
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 62 SEXIES.- Las autoridades competentes establecerán estrategias de gestión integral de riesgos, que incluirán acciones de prevención y, en su caso, de reubicación de asentamientos humanos, así como acciones reactivas tales como previsiones financieras y operativas para la recuperación. En general, deberán promover medidas que permitan a los asentamientos incrementar su resiliencia.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 62 SEPTIES.- Las normas del presente capítulo son obligatorias para todas las personas, físicas y morales, públicas o privadas, y tienen por objeto establecer las especificaciones a que estarán sujetos los procesos de ocupación del territorio, tales como aprovechamientos urbanos así como edificación de obras de infraestructura, equipamiento urbano y viviendas, en zonas sujetas a riesgos geológicos e hidrometeorológicos, a fin de prevenir riesgos a la población y evitar daños irreversibles en sus personas o sus bienes, así como para mitigar los impactos y costos económicos y sociales en los centros de población.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 62 OCTIES.- Tratándose de acciones, proyectos u obras que se encuentren ubicados en zonas de alto riesgo conforme a los planes o programas de desarrollo urbano y ordenamiento territorial aplicables, las autoridades, antes de otorgar licencias relativas a Usos del suelo y edificaciones, construcciones, así como factibilidades y demás autorizaciones urbanísticas, deberán solicitar un estudio de prevención de riesgo que identifique que se realizaron las medidas de mitigación adecuadas, en los términos de las normas oficiales mexicanas y de las disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 62 NONIES.- Independiente de los casos a que alude el artículo anterior, cuando no exista regulación expresa, las obras e instalaciones siguientes deberán contar con estudios de prevención de riesgo, tomando en cuenta su escala y efecto:
+
+I. Los ductos y redes de infraestructura vial, hidráulica y de energía primaria;
+
+II. Las instalaciones de tratamiento, confinamiento, eliminación o disposición de residuos peligrosos y municipales;
+
+III. Los equipamientos de propiedad pública donde se brinden servicios de salud, educación, seguridad, transporte y abasto, y
+
+IV. Las instalaciones de almacenamiento, confinamiento, distribución, venta o transformación de combustibles.
+
+Los estudios de prevención de riesgos geológicos e hidrometeorológicos contendrán las especificaciones, responsables técnicos, requisitos y alcances que determine el acuerdo que para tales efectos publique la Secretaria de Gobernación, en coordinación con la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+
+Las autorizaciones para el crecimiento urbano deberán ajustarse a dichos estudios y en ningún caso podrán asignarse usos o aprovechamientos urbanos o asentamientos humanos en zonas de alto riesgo que no hubieran tomado medidas de mitigación previas. En tales zonas estará estrictamente prohibido realizar cualquier obra o edificación de carácter permanente.
+
+Las autoridades estatales y municipales realizarán las modificaciones necesarias a los planes y programas de desarrollo urbano y ordenación territorial para que las zonas consideradas como de riesgo no mitigable se clasifiquen como no urbanizables o con usos compatibles con dicha condición.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 62 DECIES.- Es obligación de las autoridades estatales o municipales asegurarse, previamente a la expedición de las autorizaciones para el uso, edificación o aprovechamiento urbano o habitacional, cambio de uso del suelo o impactos ambientales del cumplimiento de las leyes estatales y federales en materia de prevención de riesgos en los asentamientos humanos.
+
+En todas las acciones que impliquen la expansión del área urbana, para el fraccionamiento de terrenos o conjuntos habitacionales, para la subdivisión o parcelación de la tierra, para el cambio de uso del suelo o en autorizaciones de impacto ambiental, las autoridades estatales o municipales deberán asegurarse que no se ocupen áreas de alto riesgo, sin que se tomen las medidas de prevención correspondiente.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 62 UNDECIES.- Es obligación de las autoridades estatales y municipales asegurarse que en las obras, o inversiones en que intervengan o autoricen se cumplan las normas sobre prevención de riesgos en los asentamientos humanos que se establecen las leyes aplicables en materia de asentamientos humanos y protección civil.
 
 ## TITULO QUINTO. DEL CONTROL DEL DESARROLLO URBANO
 
-### Capítulo III. DE LAS CONSTANCIAS DE FACTIBILIDAD DE USO DEL SUELO
+### CAPITULO I. DE LOS CERTIFICADOS
 
 ###### ARTICULO 63.
 
@@ -871,7 +989,7 @@ El Registro Público de la Propiedad tendrá la obligación de expedir los certi
 
 Los certificados a que se refiere el artículo 64 de esta Ley, tendrán una vigencia de diez días naturales contados a partir de la fecha de su expedición. Los referidos certificados perderán su vigencia, si durante el plazo correspondiente, entraren en vigor modificaciones a los programas de desarrollo urbano que afecten la zona en la cual se encuentre ubicada el área o predio de que se trate.
 
-### CAPITULO IV. DE LAS OBLIGACIONES DE LAS AUTORIDADES
+### Capítulo II. DE LAS LICENCIAS DE USO DEL SUELO
 
 ###### ARTICULO 67.
 
@@ -903,7 +1021,7 @@ Las licencias de uso del suelo tendrán una vigencia de un año contado a partir
 
 Los municipios podrán celebrar convenios de coordinación administrativa con la Secretaría, con el objeto de que ésta coadyuve a la expedición de las licencias de uso del suelo a que se refiere el presente capítulo.
 
-### CAPITULO V. DE LA INSPECCION Y VIGILANCIA
+### Capítulo III. DE LAS CONSTANCIAS DE FACTIBILIDAD DE USO DEL SUELO
 
 ###### ARTICULO 72.
 
@@ -927,13 +1045,13 @@ La autoridad municipal estará obligada a expedir las constancias de factibilida
 
 Las constancias de factibilidad de uso del suelo tendrán una vigencia de treinta días hábiles contados a partir de la fecha de su expedición, a menos que los programas de desarrollo urbano en los cuales se funden, fueren modificados durante dicho plazo.
 
-### Capítulo I. DE LAS INFRACCIONES
+### CAPITULO IV. DE LAS OBLIGACIONES DE LAS AUTORIDADES
 
 ###### ARTICULO 76.
 
 Ninguna autoridad podrá expedir permisos, autorizaciones y licencias relacionadas con los usos y destinos de áreas o predios, sin que la persona interesada exhiba la licencia de uso del suelo.
 
-### Capítulo II. DE LAS MEDIDAS DE SEGURIDAD Y DE LAS SANCIONES
+### CAPITULO V. DE LA INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 77.
 
@@ -967,7 +1085,7 @@ Dentro de los cinco días hábiles siguientes a la conclusión del período prob
 
 ## TITULO SEXTO. DE LAS INFRACCIONES, MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### Capítulo único
+### Capítulo I. DE LAS INFRACCIONES
 
 ###### ARTICULO 82.
 
@@ -982,6 +1100,8 @@ I. Dar curso a documentos, contratos o convenios que contravengan lo dispuesto e
 II. Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos confidenciales o aprovecharse de ellos.
 
 III. Exigir, a título de cooperación o colaboración u otra finalidad semejante, cualquier prestación pecuniaria o de otra índole no prevista en esta Ley.
+
+### Capítulo II. DE LAS MEDIDAS DE SEGURIDAD Y DE LAS SANCIONES
 
 ###### ARTICULO 84.
 
@@ -1042,6 +1162,8 @@ Las medidas de seguridad y las sanciones, se impondrán tomando en consideració
 Si las circunstancias así lo exigieren, podrán imponerse al infractor simultáneamente las sanciones y las medidas de seguridad que correspondan, sin perjuicio de la responsabilidad penal en que incurriere.
 
 ## TITULO SEPTIMO. DEL RECURSO DE RECONSIDERACION
+
+### Capítulo único
 
 ###### ARTICULO 91.
 
@@ -1104,3 +1226,11 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 561/2017 POR EL QUE SE MODIFICA LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE YUCATÁN Y LA LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN".]
+
+Único. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
