@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2017-12-08"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -403,43 +403,47 @@ Las entidades públicas deberán condenar la violencia contra la mujer y no invo
 
 I. Rehusar la práctica de todo tipo de violencia contra la mujer;
 
-II. Proceder con la debida diligencia a fin de prevenir, investigar y sancionar, conforme a la legislación estatal, todo acto de violencia contra la mujer, ya se trate de actos perpetrados por autoridades o por particulares;
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II. Evitar la revictimización
+
+III. Proceder con la debida diligencia a fin de prevenir, investigar y sancionar, conforme a la legislación estatal, todo acto de violencia contra la mujer, ya se trate de actos perpetrados por autoridades o por particulares;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-III. Denunciar conforme a la legislación civil, penal, laboral, administrativa y electoral a fin de que se sancionen y reparen los agravios ocasionados a las mujeres que sean objeto de violencia.
+IV. Denunciar conforme a la legislación civil, penal, laboral, administrativa y electoral a fin de que se sancionen y reparen los agravios ocasionados a las mujeres que sean objeto de violencia.
 
-IV. Garantizar a las mujeres el acceso a la justicia;
+V. Garantizar a las mujeres el acceso a la justicia;
 
-V. Elaborar planes de acción estatal y municipal, para promover la protección de la mujer contra toda forma de violencia e incluir disposiciones con ese fin en los planes existentes, teniendo en cuenta, según proceda, la cooperación que puedan proporcionar las organizaciones no gubernamentales;
+VI. Elaborar planes de acción estatal y municipal, para promover la protección de la mujer contra toda forma de violencia e incluir disposiciones con ese fin en los planes existentes, teniendo en cuenta, según proceda, la cooperación que puedan proporcionar las organizaciones no gubernamentales;
 
-VI. Elaborar, con carácter general, enfoques de tipo preventivo y todas las medidas de índole jurídica, política, administrativa y cultural que puedan fomentar la protección de la mujer contra toda forma de violencia, y evitar eficazmente la reincidencia en la victimización de la mujer como consecuencia de leyes, prácticas de aplicación de la Ley y otras intervenciones que no tengan en cuenta la discriminación contra la mujer;
+VII. Elaborar, con carácter general, enfoques de tipo preventivo y todas las medidas de índole jurídica, política, administrativa y cultural que puedan fomentar la protección de la mujer contra toda forma de violencia, y evitar eficazmente la reincidencia en la victimización de la mujer como consecuencia de leyes, prácticas de aplicación de la Ley y otras intervenciones que no tengan en cuenta la discriminación contra la mujer;
 
-VII. Garantizar, dentro de un marco de cooperación interinstitucional, que las mujeres víctimas de violencia y sus hijos, dispongan de asistencia especializada, como servicios de rehabilitación, ayuda para el cuidado y manutención de sus hijos e hijas, tratamiento, asesoría, servicios, instalaciones y programas sociales y de salud, así como estructuras de apoyo;
+VIII. Garantizar, dentro de un marco de cooperación interinstitucional, que las mujeres víctimas de violencia y sus hijos, dispongan de asistencia especializada, como servicios de rehabilitación, ayuda para el cuidado y manutención de sus hijos e hijas, tratamiento, asesoría, servicios, instalaciones y programas sociales y de salud, así como estructuras de apoyo;
 
-VIII. Consignar en los presupuestos del Estado y de los municipios los recursos adecuados para las actividades relacionadas con la eliminación de la violencia contra la mujer;
+IX. Consignar en los presupuestos del Estado y de los municipios los recursos adecuados para las actividades relacionadas con la eliminación de la violencia contra la mujer;
 
-IX. Adoptar medidas para que las autoridades encargadas de hacer cumplir la Ley, y los funcionarios que han de aplicar las políticas de prevención, investigación y castigo de la violencia contra la mujer, reciban una formación que las sensibilice respecto de las necesidades de la mujer;
+X. Adoptar medidas para que las autoridades encargadas de hacer cumplir la Ley, y los funcionarios que han de aplicar las políticas de prevención, investigación y castigo de la violencia contra la mujer, reciban una formación que las sensibilice respecto de las necesidades de la mujer;
 
-X. Adoptar todas las medidas apropiadas, especialmente en el sector educativo en coordinación con la familia, para modificar las pautas sociales y culturales de comportamiento del hombre y de la mujer y eliminar los prejuicios y las prácticas consuetudinarias o de otra índole basadas en la idea de la inferioridad o la superioridad de uno de los sexos y en la atribución de papeles estereotipados al hombre y a la mujer;
+XI. Adoptar todas las medidas apropiadas, especialmente en el sector educativo en coordinación con la familia, para modificar las pautas sociales y culturales de comportamiento del hombre y de la mujer y eliminar los prejuicios y las prácticas consuetudinarias o de otra índole basadas en la idea de la inferioridad o la superioridad de uno de los sexos y en la atribución de papeles estereotipados al hombre y a la mujer;
 
-XI. Promover la investigación, recoger datos y compilar estadísticas, especialmente en lo concerniente a la violencia en el hogar, relacionadas con la frecuencia de las distintas formas de violencia contra la mujer, y fomentar las investigaciones sobre las causas, la naturaleza, la gravedad y las consecuencias de esta violencia, así como sobre la eficacia de las medidas aplicadas para impedirla y reparar sus efectos; se deberán publicar esas estadísticas, así como las conclusiones de las investigaciones;
+XII. Promover la investigación, recoger datos y compilar estadísticas, especialmente en lo concerniente a la violencia en el hogar, relacionadas con la frecuencia de las distintas formas de violencia contra la mujer, y fomentar las investigaciones sobre las causas, la naturaleza, la gravedad y las consecuencias de esta violencia, así como sobre la eficacia de las medidas aplicadas para impedirla y reparar sus efectos; se deberán publicar esas estadísticas, así como las conclusiones de las investigaciones;
 
-XII. Adoptar medidas orientadas a eliminar la violencia contra las mujeres en situación de vulnerabilidad;
+XIII. Adoptar medidas orientadas a eliminar la violencia contra las mujeres en situación de vulnerabilidad;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
-XIII. Proporcionar modelos de atención, prevención y sanción que establezcan el Estado y los municipios, siendo estos el conjunto de medidas y acciones con perspectiva de género para proteger a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales.
+XIV. Proporcionar modelos de atención, prevención y sanción que establezcan el Estado y los municipios, siendo estos el conjunto de medidas y acciones con perspectiva de género para proteger a las víctimas de violencia familiar, que garanticen a las mujeres su seguridad y el ejercicio pleno de sus derechos fundamentales.
 
-XIV. Integrar y actualizar un sistema de información acerca de la violencia contra la mujer y las medidas adoptadas para poner en práctica la presente Ley;
+XV. Integrar y actualizar un sistema de información acerca de la violencia contra la mujer y las medidas adoptadas para poner en práctica la presente Ley;
 
-XV. Promover la elaboración de directrices adecuadas para ayudar a aplicar los principios enunciados en la presente Ley;
+XVI. Promover la elaboración de directrices adecuadas para ayudar a aplicar los principios enunciados en la presente Ley;
 
-XVI. Reconocer el importante papel que desempeñan en todo el mundo. El movimiento en pro de la mujer y las organizaciones no gubernamentales en la tarea de despertar la conciencia acerca del problema de la violencia contra la mujer y aliviar dicho problema;
+XVII. Reconocer el importante papel que desempeñan en todo el mundo. El movimiento en pro de la mujer y las organizaciones no gubernamentales en la tarea de despertar la conciencia acerca del problema de la violencia contra la mujer y aliviar dicho problema;
 
-XVII. Facilitar y promover la labor del movimiento en pro de la mujer y las organizaciones no gubernamentales, y cooperar con ellos en los planos local, regional y nacional; y
+XVIII. Facilitar y promover la labor del movimiento en pro de la mujer y las organizaciones no gubernamentales, y cooperar con ellos en los planos local, regional y nacional; y
 
-XVIII. Alentar a las organizaciones a las que pertenezcan a que incluyan en sus programas, según convenga, la eliminación de la violencia contra la mujer.
+XIX. Alentar a las organizaciones a las que pertenezcan a que incluyan en sus programas, según convenga, la eliminación de la violencia contra la mujer.
 
 ###### Artículo 13.
 
@@ -691,37 +695,45 @@ V. Fortalecer e impulsar la creación de nuevas instituciones públicas y privad
 
 VI. Integrar el Sistema Estatal de Prevención, Erradicación y Sanción de la Violencia contra las Mujeres e incorporar su contenido al Sistema;
 
-VII. Promover, en coordinación con la Federación, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de las mujeres y de la no violencia, de acuerdo con el Programa Estatal;
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-VIII. Impulsar programas locales para el adelanto y desarrollo de las mujeres y mejorar su calidad de vida;
+VII. Realizar mesas de trabajo interinstitucional a nivel estatal y municipal, para evaluar, y en su caso redireccionar, los esfuerzos, instrumentos, planes, programas, políticas públicas, servicios y acciones, que se realicen para erradicar la violencia en contra de las mujeres.
 
-IX. Proveer de los recursos presupuestarios, humanos y materiales, en coordinación con las autoridades que integran los sistemas locales, a los programas estatales y el Programa Estatal;
+VIII. Promover, en coordinación con la Federación, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de las mujeres y de la no violencia, de acuerdo con el Programa Estatal;
 
-X. Impulsar la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Nacional;
+IX. Impulsar programas locales para el adelanto y desarrollo de las mujeres y mejorar su calidad de vida;
 
-XI. Promover programas de información a la población en la materia;
+X. Proveer de los recursos presupuestarios, humanos y materiales, en coordinación con las autoridades que integran los sistemas locales, a los programas estatales y el Programa Estatal;
 
-XII. Impulsar programas reeducativos integrales para personas agresoras;
+XI. Impulsar la creación de refugios para las víctimas conforme al modelo de atención diseñado por el Sistema Nacional;
 
-XIII. Difundir por todos los medios de comunicación el contenido de esta Ley;
+XII. Promover programas de información a la población en la materia;
 
-XIV. Rendir un informe anual sobre los avances de los programas locales;
+XIII. Impulsar programas reeducativos integrales para personas agresoras;
 
-XV. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres;
+XIV. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
-XVI. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior;
+XV. Rendir un informe anual sobre los avances de los programas locales;
 
-XVII. Impulsar la participación de las organizaciones privadas, dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
+XVI. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres;
 
-XVIII. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres, a fin de mejorar los mecanismos para su erradicación;
+XVII. Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior;
 
-XIX. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
+XVIII. Impulsar la participación de las organizaciones privadas, dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
 
-XX. Impulsar adecuaciones al marco normativo en materia de órdenes de protección y coadyuvar al cumplimiento de las obligaciones que deriven de la eventual emisión de una alerta por violencia contra las mujeres, en concordancia con la presente Ley, así como para establecer como agravantes los delitos contra la vida y la integridad cuando estos sean cometidos contra mujeres, por su condición de género;
+XIX. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres, a fin de mejorar los mecanismos para su erradicación;
 
-XXI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XXII. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+Para ello, se deberá convocar a las mesas de trabajo interinstitucional, a las asociaciones civiles, legalmente constituidas, que atienden los refugios para mujeres en situación de violencia, sus hijas e hijos.
+
+XX. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
+
+XXI. Impulsar adecuaciones al marco normativo en materia de órdenes de protección y coadyuvar al cumplimiento de las obligaciones que deriven de la eventual emisión de una alerta por violencia contra las mujeres, en concordancia con la presente Ley, así como para establecer como agravantes los delitos contra la vida y la integridad cuando estos sean cometidos contra mujeres, por su condición de género;
+
+XXII. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+XXIII. Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
 
 a) Derechos humanos y género;
 
@@ -729,13 +741,13 @@ b) Perspectiva de género para la debida diligencia en la conducción de averigu
 
 c) Incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
 
-XXIII. Crear el banco estatal de datos e información sobre casos y delitos de violencia contra las mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimar para definir políticas en materia de prevención del delito, procuración y administración de justicia.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Proporcionar de manera periódica la información a que se refiere esta fracción al Banco Nacional de Datos e Información sobre Casos y Delitos de Violencia Contra las Mujeres;
+XXIV. Crear el banco estatal de datos e información sobre casos y delitos de violencia contra las mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimar para definir políticas en materia de prevención del delito, procuración y administración de justicia. Proporcionar de manera periódica la información a que se refiere esta fracción al Banco Nacional de Datos e Información sobre Casos y Delitos de Violencia Contra las Mujeres;
 
-XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; y
+XXV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; y
 
-XXV. Las demás que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
+XXVI. Las demás que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
 ###### Artículo 37.
 
@@ -805,7 +817,9 @@ II. A legisladores o legisladoras del Congreso del Estado;
 
 III. A quien ejerza la Presidencia del Tribunal Superior de Justicia del Estado, o a una persona en su representación, designada por el Consejo de la Judicatura; y
 
-IV. Las organizaciones de la sociedad civil que tengan por objeto, realizar acciones afines a las descritas en la Ley.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IV. Las organizaciones de la sociedad civil que tengan por objeto, realizar acciones afines a las descritas en la Ley, considerando aquéllas que atienden a los refugios para mujeres en situación de violencia, sus hijas e hijos.
 
 ###### Artículo 43.
 
@@ -1371,7 +1385,9 @@ III. Toda persona que colabore en los refugios y Centros de Atención Externa, y
 
 IV. Resguardar toda la información personal e información sensible de las mujeres que reciban los servicios, así como la de sus hijas e hijos de conformidad con lo establecido en la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza así como lo dispuesto en la Ley Federal de Protección de Datos Personales en Posesión de Particulares; y
 
-V. Las servidoras o servidores públicos que infrinjan esta disposición serán sancionados conforme a la normatividad correspondiente.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V. Las servidoras o servidores públicos que infrinjan esta disposición serán sancionados conforme a la normatividad correspondiente. De igual forma, las y los servidores públicos que en el ejercicio de sus funciones incurran en la revictimización de las mujeres, serán acreedores a una sanción administrativa.
 
 ###### Artículo 76.
 
@@ -1551,7 +1567,9 @@ En la denuncia que recabe el Ministerio Público del Estado, además de contempl
 
 I. Respetar la forma espontánea en que la víctima realice su declaración;
 
-II. Establecer las circunstancias de los hechos que se denuncian incorporando la perspectiva de género;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II. Establecer las circunstancias de los hechos que se denuncian incorporando la perspectiva de género; y evitando la revictimización
 
 III. Incluir, en su caso, la descripción de los antecedentes de violencia, y si éstos fueron o no denunciados;
 
@@ -1912,6 +1930,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 1031.- SE REFORMA LA FRACCIÓN XIII, RECORRIENDO LAS CONSECUENTES DEL ARTÍCULO 12, ASÍ COMO LAS FRACCIONES IV Y V DEL ARTÍCULO 15 AMBOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE COAHUILA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1044.- SE ADICIONA LA FRACCIÓN II AL ARTÍCULO 12, RECORRIENDO LAS SUBSECUENTES; SE ADICIONA LA FRACCIÓN VII RECORRIENDO LAS SUBSECUENTES, Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN XIX ANTES XVIII DEL ARTÍCULO 36; Y SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 42; LA FRACCIÓN V DEL ARTÍCULO 75 Y FRACCIÓN II DEL ARTÍCULO 97, DE LA LEY DE ACCESO DE LA MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
