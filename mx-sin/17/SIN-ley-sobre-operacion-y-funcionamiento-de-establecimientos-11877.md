@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-operacion-y-funcionamiento-de-establecimientos-11877"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-05"
-last_updated: "2016-12-28"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY SOBRE OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DESTINADOS A LA PRODUCCIÓN, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 5 de junio de 1998.
 
@@ -65,9 +65,11 @@ Las aportaciones en efectivo o en especie que con este propósito se recauden, s
 
 La elaboración, envasamiento, almacenamiento, distribución, transportación, venta y consumo de bebidas con contenido alcohólico, sólo se autorizarán en los lugares que señale esta Ley y previo cumplimiento de los requisitos previstos en ella o en su Reglamento y demás disposiciones aplicables.
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Los establecimientos destinados a la elaboración, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas alcohólicas, en envase cerrado o abierto, para operar, deberán contar previamente con la licencia y en su caso, la revalidación respectiva; las que se otorgarán en los términos y bajo las condiciones que establece la presente Ley y demás ordenamientos aplicables.
+###### Artículo 6°.
+
+Los establecimientos destinados a la elaboración, envasado, distribución, almacenamiento, transportación, venta y consumo de bebidas alcohólicas, en envase cerrado o abierto, para operar, deberán contar previamente con licencia, en su caso con la revalidación respectiva, o permiso provisional; las que se otorgarán en los términos y bajo las condiciones que establece la presente Ley y demás ordenamientos aplicables.
 
 ###### Artículo 7º.
 
@@ -137,9 +139,11 @@ XXIV. Supermercado, y
 
 XXV. Ultramarino.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 10.
 
-Para el otorgamiento de las licencias respectivas y la definición de los giros, se entiende por:
+Para el otorgamiento de las licencias o permisos provisionales respectivos y la definición de los giros, se entiende por:
 
 I. AGENCIA MATRIZ: Los establecimientos donde se almacena, distribuye y vende cerveza a negocios autorizados y al público de mostrador en envase o cartón cerrado;
 
@@ -223,11 +227,21 @@ Los giros de supermercados, ultramarinos y salas de fiesta, podrán tener sus ex
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 16.
 
 Para establecer y operar los negocios a que se refiere esta Ley, se requiere de licencia expedida por el Ejecutivo del Estado, por conducto de la dependencia competente, la cual se otorgará cuando se cumplan los requisitos y el procedimiento que la misma establece y no se afecte el interés social.
 
-Se consideran establecimientos clandestinos todos aquellos que expendan bebidas alcohólicas sin contar con la licencia a que se refiere el párrafo anterior. Al que realice este tipo de actividad se le sancionará conforme al Artículo 69 párrafo segundo de esta Ley, independientemente de las que señalen otras disposiciones legales.
+Para el caso de los giros a que se refieren las fracciones II, IV, X, XVIII, XIX, XX, XXI y XXIII, del artículo 10 de la presente Ley, el Ejecutivo del Estado por conducto de la dependencia competente, podrá otorgar permiso provisional de funcionamiento, para lo cual el interesado deberá solicitarlo por escrito, al que acompañará las constancias necesarias con las que acreditará que se inició procedimiento para la obtención de opinión favorable, o en su caso, que ya le fue concedida por el Ayuntamiento respectivo.
+
+En cuanto a los giros a que se refieren las fracciones XI y XXIV se les podrá otorgar permiso provisional solo si ya cuentan con la opinión favorable del Ayuntamiento respectivo.
+
+El permiso provisional estará sujeto a los mismos requisitos que para su ejercicio establece la presente Ley para la licencia, por lo que le serán aplicables a su titular las disposiciones relativas a su inspección y, en su caso, las sanciones administrativas establecidas en el presente ordenamiento.
+
+El permiso provisional otorgado en los términos del presente artículo, quedará sin efectos si el H. Ayuntamiento correspondiente declara improcedente el otorgamiento de la opinión favorable, o bien, si habiendo sido otorgada es revocada.
+
+Se consideran establecimientos clandestinos todos aquellos que expendan bebidas alcohólicas sin contar con la licencia o permiso provisional a que se refieren los párrafos anteriores. Al que realice este tipo de actividad se le sancionará conforme al Artículo 69 párrafo segundo de esta Ley, independientemente de las que señalen otras disposiciones legales.
 
 ###### Artículo 17.
 
@@ -237,15 +251,21 @@ El otorgamiento de la licencia estará condicionada a cumplir con la normativida
 
 La licencia se cancelará cuando se vulnere el orden público o el interés general.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 18.
 
-El Gobierno del Estado, por conducto de la dependencia competente, en coordinación con los Ayuntamientos, integrará un padrón oficial de establecimientos que cuenten con licencia para expender bebidas con contenido alcohólico, mismo que deberá mantener actualizado, en el que se anotarán, como mínimo los siguientes datos:
+El Gobierno del Estado por conducto de la dependencia competente, en coordinación con los Ayuntamientos, integrará un padrón oficial de establecimientos que cuenten con licencia o permiso provisional para expender bebidas con contenido alcohólico mismo que deberá mantener actualizado, en el que se anotarán, como mínimo los siguientes datos:
 
-I. Nombre y domicilio del titular de la licencia;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I. Nombre y domicilio del titular de la licencia o permiso provisional;
 
 II. Denominación, ubicación y giro del establecimiento;
 
-III. Fecha de expedición de la licencia;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+III. Fecha de expedición de la licencia o permiso provisional;
 
 IV. Fecha de la constancia de no adeudo fiscal al Estado y a la Autoridad Municipal;
 
@@ -256,6 +276,10 @@ VI. Relación de cambios de giro y de ubicación.
 ###### Artículo 19.
 
 Las licencias a que se refiere esta Ley, tendrán vigencia anual y podrán ser revalidadas por el Ayuntamiento, previa la presentación de la licencia original del año anterior y la verificación de que se están cumpliendo los requisitos de ley.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+El permiso provisional se otorgará con una vigencia de seis meses, los cuales podrán ser prorrogados por un periodo igual, a solicitud del interesado, para lo cual deberá acreditar que el procedimiento para la obtención de la licencia correspondiente está en trámite, o bien, que se cuenta con la opinión favorable emitida por el Ayuntamiento que corresponda a la ubicación del giro de que se trate.
 
 ### CAPITULO SEGUNDO. DE LA EXPEDICIÓN DE LICENCIAS
 
@@ -417,9 +441,13 @@ Son obligaciones de los propietarios o encargados de los establecimientos en que
 
 I. Vigilar bajo su responsabilidad que las bebidas con contenido alcohólico no estén adulteradas, contaminadas, alteradas o en estado de descomposición;
 
-II. Permitir la inspección de sus instalaciones, local completo, licencia y demás documentos que esta Ley señala;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-III. Exhibir en lugar accesible y visible copia completamente legible de la licencia, de la revalidación del último año y de la cédula de empadronamiento fiscal que muestre el número de registro. Presentar los originales a solicitud del inspector del ramo;
+II. Permitir la inspección de sus instalaciones, local completo, licencia, o permiso provisional y demás documentos que esta Ley señala;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+III. Exhibir en lugar accesible y visible copia fotostática completamente legible de la licencia o de su revalidación del último año; del permiso provisional o de su prórroga y de la cédula de empadronamiento fiscal que muestre el número de registro. Asimismo, presentar los originales a solicitud del inspector del ramo;
 
 IV. Retirar a los ebrios del establecimiento, para lo cual solicitará si fuere necesario el auxilio de la fuerza pública;
 
@@ -449,7 +477,9 @@ Los establecimientos a que se refieren las fracciones III, V, VII, VIII, IX, X, 
 
 En los casos que la autoridad considere necesario, exigirá a los propietarios, administradores o encargados de los negocios dedicados a cualquier giro, vigilancia policiaca permanente.
 
-El incumplimiento de esta disposición será causal de cancelación de la licencia respectiva.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+El incumplimiento de esta disposición será causal de cancelación de la licencia o permiso provisional, respectivos, en su caso.
 
 ###### Artículo 42.
 
@@ -483,7 +513,9 @@ IV. Vender bebidas alcohólicas a militares o miembros de la policía que se enc
 
 V. Permitir la entrada a menores de edad en los negocios señalados en las fracciones I, III, V, VI, VII, VIII, IX, XI, XII y XVI del artículo 9 de esta Ley, exceptuando el giro de discotecas cuando se celebren eventos en que no se vendan y consuman bebidas con contenido alcohólico, debiendo el propietario o encargado inscribir en parte visible del interior y exterior del establecimiento esta prohibición;
 
-VI. Operar el establecimiento en materia de ventas de bebidas con contenido alcohólico en forma distinta a la autorizada por la licencia correspondiente y a lo establecido en la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VI. Operar el establecimiento en materia de ventas de bebidas con contenido alcohólico en forma distinta a la autorizada por la licencia correspondiente o permiso provisional y a lo establecido en la presente Ley y su Reglamento;
 
 VII. Permitir el consumo de bebidas alcohólicas dentro de los establecimientos a que se refieren las fracciones I, II, IV, XI, XIII, XIV, XV, XVI, XVII, XXIV y XXV del Artículo 9 de esta Ley;
 
@@ -497,7 +529,9 @@ XI. Recibir objetos personales o mercaderías en prenda o en pago por las bebida
 
 XII. Que el local dedicado a la venta y consumo de bebidas con contenido alcohólico tenga comunicación hacia diferentes habitaciones, comercios o locales ajenos al sitio de consumo o se utilicen como tal;
 
-XIII. Vender fuera de los horarios establecidos en la licencia o permiso respectiva y en el Reglamento de la presente Ley; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XIII. Vender fuera de los horarios establecidos en la licencia, permiso eventual otorgado por los Ayuntamientos o permiso provisional y en el Reglamento de la presente Ley; y
 
 XIV. Pintar o fijar en las paredes exteriores o interiores del local, cualquier imagen o leyenda que ofenda la moral y las buenas costumbres.
 
@@ -509,9 +543,11 @@ I. La vía pública; y
 
 II. Lugares en que así lo exijan las buenas costumbres, la salud y el orden público, tales como parques, plazas públicas, en el interior y exterior de planteles educativos de todo nivel académico, templos, cementerios, teatros, carpas, circos, cinematógrafos, salas de video, ferias o kermesse infantiles, centros de readaptación social, edificios públicos y en los hospitales, salvo en caso de prescripción médica.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 47.
 
-Queda prohibido a los dueños o encargados de las salas de fiestas, promover o realizar cualquier tipo de evento extraordinario con venta de bebidas alcohólicas, sin el permiso correspondiente.
+Queda prohibido a los dueños o encargados de las salas de fiestas, promover o realizar cualquier tipo de evento extraordinario con venta de bebidas alcohólicas, sin el permiso eventual correspondiente.
 
 ###### Artículo 48.
 
@@ -521,9 +557,11 @@ Asimismo, los particulares que tengan establecimientos a los que se refiere esta
 
 La no observancia a lo dispuesto por este ordenamiento, faculta a la dependencia estatal competente al secuestro y decomiso de las bebidas alcohólicas, sin perjuicio de aplicar la sanción a que se refiere el artículo 69 segundo párrafo de la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 49.
 
-En los restaurantes podrán expenderse bebidas alcohólicas para su consumo dentro del establecimiento, siempre que cuenten con la licencia respectiva, que debe ser distinta a la autorización para funcionar como negocio de alimentos preparados.
+En los restaurantes podrán expenderse bebidas alcohólicas para su consumo dentro del establecimiento, siempre que cuenten con la licencia respectiva o, en su caso, el permiso provisional, que debe ser distinta a la autorización para funcionar como negocio de alimentos preparados.
 
 La venta de bebidas alcohólicas será complemento moderado en el consumo de alimentos.
 
@@ -557,9 +595,11 @@ Los Presidentes Municipales en su ámbito de competencia, coadyuvarán en el cum
 
 Las corporaciones policíacas estarán obligadas a prestar el apoyo que se requiera y, de igual manera, actuar en los casos que tengan conocimiento de alguna violación a la presente Ley y su Reglamento, para lo cual deberán levantar acta por escrito y turnarla a la dependencia competente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 53.
 
-Los inspectores en el ejercicio de sus funciones tendrán libre acceso a los negocios que se encuentren dentro de alguno de los giros que considera esta Ley. Los titulares de las licencias o encargados de los establecimientos objeto de la inspección, estarán obligados a permitir el acceso a los mismos, y dar facilidades e informes para el eficaz desarrollo de su labor.
+Los inspectores en el ejercicio de sus funciones tendrán libre acceso a los negocios que se encuentren dentro de alguno de los giros que considera esta Ley. Los titulares de las licencias y permisos provisionales, o encargados de los establecimientos objeto de la inspección, estarán obligados a permitir el acceso a los mismos, y dar facilidades e informes para el eficaz desarrollo de su labor.
 
 ###### Artículo 54.
 
@@ -569,11 +609,13 @@ Las visitas de inspección deberán apegarse y cumplir con las normas procedimen
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 55.
 
-Los inspectores de la dependencia competente, están obligados a levantar en todos los casos un acta circunstanciada donde conste la causa o motivo de la visita, el desarrollo y las conclusiones de la diligencia, ante la presencia de dos testigos, que deberán ser diferentes a la autoridad inspectora. En todo caso, deberá asentarse en la misma, con toda claridad, si el titular de la licencia cumple con las disposiciones de la presente Ley y su Reglamento.
+Los inspectores de la dependencia competente, están obligados a levantar en todos los casos un acta circunstanciada donde conste la causa o motivo de la visita, el desarrollo y las conclusiones de la diligencia, ante la presencia de dos testigos, que deberán ser diferentes a la autoridad inspectora. En todo caso, deberá asentarse en la misma, con toda claridad, si el titular de la licencia o permiso provisional cumple con las disposiciones de la presente Ley y su Reglamento.
 
-En la hipótesis de que de la visita se desprendiera el incumplimiento de alguna o algunas de las obligaciones a cargo de los titulares de las licencias, el inspector lo hará constar y lo notificará a la persona con quien entienda la diligencia, haciéndole saber que dispone de 5 días hábiles, para presentar las pruebas y alegatos que a su derecho convengan.
+En la hipótesis de que de la visita se desprendiera el incumplimiento de alguna o algunas de las obligaciones a cargo de los titulares de las licencias o permisos provisionales, el inspector lo hará constar y lo notificará a la persona con quien entienda la diligencia, haciéndole saber que dispone de 5 días hábiles, para presentar las pruebas y alegatos que a su derecho convengan.
 
 ###### Artículo 56.
 
@@ -583,27 +625,41 @@ Transcurrido el plazo a que se refiere la última parte del artículo anterior, 
 
 La resolución que emita la dependencia competente, se notificará personalmente al interesado, y de no encontrarse, se actuará supletoriamente conforme al Código de Procedimientos Civiles para el Estado de Sinaloa en esta materia.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 58.
 
-Las sanciones pecuniarias a cargo de los titulares de las licencias a que se refiera la presente Ley, tendrán el carácter de créditos fiscales, y su cobro se sujetará a las disposiciones del Código Fiscal del Estado de Sinaloa.
+Las sanciones pecuniarias a cargo de los titulares de las licencias o permisos provisionales a que se refiera la presente Ley, tendrán el carácter de créditos fiscales, y su cobro se sujetará a las disposiciones del Código Fiscal del Estado de Sinaloa.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 59.
 
-Las resoluciones que emita la dependencia competente podrán establecer como sanción al incumplimiento de las obligaciones a cargo de los titulares de las licencias a que se refiere la presente Ley, la clausura provisional de los establecimientos o en su caso la cancelación de las licencias en las hipótesis siguientes:
+Las resoluciones que emita la dependencia competente podrán establecer como sanción al incumplimiento de las obligaciones a cargo de los titulares de las licencias o permisos provisionales a que se refiere la presente Ley, la clausura provisional de los establecimientos o en su caso la cancelación de las licencias o, en su caso, permisos provisionales, en las hipótesis siguientes:
 
-I. Cuando el establecimiento haya dejado de reunir cualesquiera de los requisitos que establece la presente Ley o se incurra por parte de los titulares de las licencias en faltas u omisiones graves a juicio de la autoridad;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-II. Por hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, cuando sea culpa del titular de la licencia o encargado o bien cuando medien motivos de interés general;
+I. Cuando el establecimiento haya dejado de reunir cualesquiera de los requisitos que establece la presente Ley o se incurra por parte de los titulares de las licencias o, en su caso, permisos provisionales, en faltas u omisiones graves a juicio de la autoridad;
 
-III. Cuando la licencia sea explotada por persona distinta a su titular. En los casos de cesión de derechos, deberá cumplir con los requisitos que establece esta Ley;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II. Por hechos o actos que se realicen dentro de los establecimientos que alteren el orden público, la moral o las buenas costumbres, cuando sea culpa del titular de la licencia, en su caso, del permiso provisional o encargado o bien cuando medien motivos de interés general;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+III. Cuando la licencia o el permiso provisional sea explotada por persona distinta a su titular. En los casos de cesión de derechos, deberá cumplir con los requisitos que establece esta Ley;
 
 IV. Por negar el acceso al personal acreditado por la autoridad de la materia para realizar visitas de inspección y por negarse a proporcionar la documentación que al momento de la misma se le requiera;
 
 V. Por reincidencia, según lo establecido en el artículo 71 de la presente Ley;
 
-VI. Cuando la licencia sea explotada en un domicilio distinto al que se señala en la misma, salvo en los casos que se haya autorizado cambio de ubicación por la dependencia competente;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-VII. Por operar fuera de los horarios establecidos en la licencia de funcionamiento correspondiente y en el Reglamento de la presente Ley; y
+VI. Cuando la licencia o el permiso provisional, en su caso, sea explotada en un domicilio distinto al que se señala en la misma, salvo en los casos que se haya autorizado cambio de ubicación por la dependencia competente;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VII. Por operar fuera de los horarios establecidos en la licencia o permiso provisional de funcionamiento correspondiente y en el Reglamento de la presente Ley; y
 
 VIII. Por venta de bebidas con contenido alcohólico a menores de edad, discapacitados mentales y militares y policías en servicio.
 
@@ -623,11 +679,19 @@ III. Disparo de arma de fuego; y
 
 IV. Distribución, venta y/o consumo de estupefacientes.
 
-En todos estos casos, la clausura implica la cancelación definitiva de la licencia respectiva cuando se desprenda de las investigaciones que los actos cometidos son imputables al propietario o encargado de la negociación.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En todos estos casos, la clausura implica la cancelación definitiva de la licencia o permiso provisional, respectivo, cuando se desprenda de las investigaciones que los actos cometidos son imputables al propietario o encargado de la negociación.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En los casos en que resulte procedente la cancelación definitiva del permiso provisional, en los términos del párrafo que antecede, también quedará sin materia el procedimiento seguido por el titular para la obtención de la licencia definitiva correspondiente, debiéndose informar de inmediato al Ayuntamiento que corresponda, a fin de que dé por concluido el trámite de emisión de opinión favorable, en su caso.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 61.
 
-Tiene atribuciones para ordenar la clausura definitiva de los establecimientos a que se refiere esta Ley y la cancelación de la licencia respectiva por las infracciones cometidas y que señala el artículo precedente, la dependencia competente del Gobierno del Estado.
+Tiene atribuciones para ordenar la clausura definitiva de los establecimientos a que se refiere esta Ley y la cancelación de la licencia o permiso provisional respectivo, por las infracciones cometidas y que señala el artículo precedente, la dependencia competente del Gobierno del Estado.
 
 ###### Artículo 62.
 
@@ -649,9 +713,11 @@ Al notificar la resolución que ponga fin al procedimiento a que se refiere el a
 
 Procede el arresto administrativo hasta por 36 horas o multa en contra de aquellas personas que se nieguen u opongan al cumplimiento de las disposiciones de las autoridades encargadas de la aplicación de la presente ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 66.
 
-La dependencia estatal competente, está facultada para clausurar provisional o definitivamente los establecimientos a que se refiere esta Ley y a cancelar la licencia respectiva, cuando dicha medida lo exija la salud pública, las buenas costumbres o medie algún motivo de interés general, informándole al Ayuntamiento correspondiente.
+La dependencia estatal competente, está facultada para clausurar provisional o definitivamente los establecimientos a que se refiere esta Ley y a cancelar la licencia o permiso provisional respectivos, cuando dicha medida lo exija la salud pública, las buenas costumbres o medie algún motivo de interés general, informándole al Ayuntamiento correspondiente.
 
 ###### Artículo 67.
 
@@ -669,9 +735,11 @@ Podrán levantarse en forma provisional los sellos de clausura, previa petición
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 68.
 
-Las sanciones por violación a las disposiciones de esta Ley, consistirán en multa, clausura provisional, clausura definitiva del establecimiento y la cancelación de la licencia en su caso, de los locales donde se elaboren, envasen, distribuyan, transporten, almacenen, vendan y/o consuman bebidas con contenido alcohólico.
+Las sanciones por violación a las disposiciones de esta Ley, consistirán en multa, clausura provisional, clausura definitiva del establecimiento y la cancelación de la licencia o, en su caso, permiso provisional, de los locales donde se elaboren, envasen, distribuyan, transporten, almacenen, vendan y/o consuman bebidas con contenido alcohólico.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -679,7 +747,9 @@ Las sanciones por violación a las disposiciones de esta Ley, consistirán en mu
 
 Se aplicará multa por el equivalente de 50 a 250 veces el valor diario de la Unidad de Medida y Actualización, en caso de incumplimiento de las obligaciones y prohibiciones que esta Ley y su Reglamento establecen. Esta sanción se impondrá a los propietarios o encargados o a quien o quienes resulten responsables, sin perjuicio de las que impongan otras Leyes.
 
-A los propietarios o encargados de negocios que expendan bebidas con contenido alcohólico sin contar con la licencia respectiva conforme al artículo 16 de esta Ley, se les impondrá multa por el equivalente de 80 a 800 veces el valor diario de la Unidad de Medida y Actualización, además se les decomisarán las bebidas con contenido alcohólico que en ellos se encuentren; asimismo, se harán acreedor a lo anterior, los propietarios, encargados y los que expendan las citadas bebidas en cualquier local o lugar, sin contar con la licencia o el permiso correspondiente.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+A los propietarios o encargados de negocios que expendan bebidas con contenido alcohólico sin contar con la licencia respectiva, o en su caso, permiso provisional, conforme al artículo 16 de esta Ley, se les impondrá multa por el equivalente de 80 a 800 veces el valor diario de la Unidad de Medida y Actualización, además se les decomisarán las bebidas con contenido alcohólico que en ellos se encuentren; asimismo, se harán acreedores a lo anterior, los propietarios, encargados y los que expendan las citadas bebidas en cualquier local o lugar, sin contar con la licencia, permiso eventual otorgado por los Ayuntamientos o permiso provisional.
 
 ###### Artículo 70.
 
@@ -693,9 +763,11 @@ Para los efectos de esta Ley, se considera reincidencia cuando se cometan durant
 
 Corresponde a la dependencia estatal competente la imposición de multas, las cuales turnará a la autoridad encargada de hacerlas efectivas, de conformidad con el Código Fiscal del Estado de Sinaloa.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 73.
 
-La imposición de las sanciones que considera este capítulo, son sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los infractores. Las infracciones las comete el titular de la licencia por hecho propio o ajeno, entendiéndose en este último caso, cuando sean imputables a sus trabajadores, representantes, o cualesquiera otra persona que esté bajo su cuidado, dirección, dependencia o responsabilidad.
+La imposición de las sanciones que considera este capítulo, son sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los infractores. Las infracciones las comete el titular de la licencia o permiso provisional, por hecho propio o ajeno, entendiéndose en este último caso, cuando sean imputables a sus trabajadores, representantes, o cualquier otra persona que esté bajo su cuidado, dirección, dependencia o responsabilidad.
 
 ## TITULO OCTAVO. DE LOS MEDIOS DE IMPUGNACIÓN
 
@@ -824,3 +896,13 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivos del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 290 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY SOBRE OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DESTINADOS A LA PRODUCCIÓN, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS, Y DE LA LEY DE HACIENDA, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Ejecutivo del Estado en un plazo de noventa días siguientes a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones necesarias al Reglamento de la presente Ley.
