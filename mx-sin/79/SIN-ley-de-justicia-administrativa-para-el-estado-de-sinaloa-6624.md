@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-administrativa-para-el-estado-de-sinaloa-6624"
 country: "mx"
 rank: "ley"
 publication_date: "1993-03-26"
-last_updated: "2017-06-26"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 26 de marzo de 1993.
 
@@ -967,9 +967,11 @@ ARTICULO 32 BIS-F. Los servidores públicos adscritos al órgano interno de cont
 
 Los Asuntos competencia del Tribunal se promoverán, substanciarán y resolverán en los términos que dispone la presente Ley. A falta de disposición expresa, se aplicará supletoriamente el Código de Procedimientos Civiles vigente en el Estado, siempre que se refiera a instituciones previstas en esta Ley y que la disposición supletoria se avenga al procedimiento contencioso administrativo que la misma establece.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 34.
 
-Cuando otras leyes y reglamentos contengan recursos administrativos para combatir los actos impugnados, podrá optarse por agotarlos o recurrir directamente ante el Tribunal. Para acudir al Tribunal, el interesado deberá previamente desistirse del recurso intentado.
+Cuando otras leyes y reglamentos contengan recursos administrativos para combatir los actos o resoluciones de las autoridades, el contribuyente podrá optar por agotarlos o acudir directamente ante el Tribunal de Justicia Administrativa en términos de la Ley respectiva. Para acudir al Tribunal, el interesado deberá previamente desistirse del recurso intentado.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -997,7 +999,9 @@ No procederá la gestión de negocios. Quien promueva a nombre de otro, deberá 
 
 La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y los testigos, ante Notario Público o ante los Secretarios del Tribunal.
 
-La Representación de las autoridades sólo podrá recaer en la dependencia o unidad administrativa encargada de su defensa jurídica por ministerio de Ley.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+La representación de las autoridades sólo podrá recaer en la dependencia o unidad administrativa encargada de su defensa jurídica, en términos de lo dispuesto en las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -1145,25 +1149,41 @@ I.- Por medio de oficio a las autoridades y personalmente a los particulares, cu
 
 a) La que admita o deseche la demanda, su ampliación y la contestación de ambas;
 
-b) La que admita o deseche un recurso;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-c) La que señale día y hora para el desahogo de una audiencia;
+b) La que tenga por no presentada la demanda, la ampliación de demanda y la contestación respectiva;
 
-d) La que mande emplazar a un tercero o citar a los testigos;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-e) El requerimiento de un acto, a la parte que deba cumplirlo;
+c) La que deseche o tenga por no ofrecida alguna prueba;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-f). La de sobreseimiento y sentencia;
+d) La que admita o deseche un recurso;
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-g). La que admita o deseche la petición de ejercicio de facultad de atracción; y,
+e) La que señale día y hora para el desahogo de una audiencia;
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-h). Aquellas que el Magistrado estime necesario.
+f) La que ordene el emplazamiento de un tercero o la cita a testigos;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+g) El requerimiento de un acto, a la parte que deba cumplirlo;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+h) La de sobreseimiento y la sentencia interlocutoria o definitiva;
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+i) La que admita o deseche la petición del ejercicio de la facultad de atracción; y,
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+j) Las demás que el Magistrado estime necesario.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1463,7 +1483,9 @@ Cuando las pruebas documentales no obren en poder del actor o no haya podido obt
 
 Si la demanda del particular fuere obscura, irregular o no llena alguno de los requisitos del artículo 56 de esta Ley, el Magistrado de Sala prevendrá al actor señalándole expresamente en qué consiste su omisión, para que la aclare, corrija o complete dentro de los cinco días siguientes; si no lo hiciere, se tendrá por no interpuesta la demanda.
 
-Si no acompaña los documentos y demás elementos informativos a que se refiere el artículo 57 de esta Ley; se le prevendrá por el mismo término para su exhibición; si no los presenta y se trata de los documentos a que se refieren las fracciones I, II y V, se desechará la demanda, salvo que tratándose de la fracción II, se refiera a actos ya ejecutados, respecto de los cuales el actor manifieste, bajo protesta de decir verdad, desconocer la resolución de la que emana la ejecución reclamada, en cuyo caso se estará a lo dispuesto por el artículo 57 BIS del presente ordenamiento; si se trata de las pruebas a que se refieren las fracciones III y IV, las mismas le serán desechadas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Si no acompaña los documentos y demás elementos informativos a que se refiere el artículo 57 de esta Ley, se le prevendrá por el mismo término para su exhibición, si no los presenta y se trata de los documentos a que se refieren las fracciones I, II y V, se desechará la demanda, salvo que tratándose de la fracción II, se refiera a actos ya ejecutados, respecto de los cuales el actor manifieste bajo protesta de decir verdad, desconocer la resolución de la que emana la ejecución reclamada, en cuyo caso se estará a lo dispuesto por el artículo 57 BIS del presente ordenamiento; si se trata de las pruebas a que se refieren las fracciones III y IV, las mismas se tendrán por no ofrecidas.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1473,17 +1495,9 @@ En el auto en que se admita la demanda, se dictarán las providencias necesarias
 
 Cuando en las pruebas ofrecidas exista alguna que por su naturaleza requiera ser desahogada en audiencia, ésta, deberá celebrarse dentro de los cuarenta y cinco días siguientes a su admisión.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
-
 ###### ARTICULO 61.
 
-El Magistrado de Sala desechará la demanda, cuando:
-
-I.- Contenga huella digital del promovente y, ésta no sea ratificada en el término concedido al efecto;
-
-II.- Encontrare motivo indudable y manifiesto de improcedencia; y,
-
-III.- Prevenido el actor para que aclare, corrija o complete la demanda, en los términos del artículo 59 de esta ley, no lo hiciere.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2017)
 
 ### CAPITULO VI. DE LA CONTESTACION
 
@@ -1605,13 +1619,11 @@ No se otorgará la suspensión si se causa perjuicio al interés social, se cont
 
 Cuando proceda el otorgamiento de la suspensión, ésta medida cautelar genérica tendrá efectos restitutorios tratándose de actos que afecten a particulares de escasos recursos económicos, impidiéndoles el ejercicio de su única actividad de subsistencia; actos privativos de libertad decretados al particular por faltas administrativas; o bien, cuando a criterio del Magistrado sea necesario otorgarle estos efectos, con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al propio particular, siempre que no se lesionen derechos de terceros.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 71.
 
-Tratándose de multas, impuestos, derechos o cualquier otro crédito fiscal, el Magistrado instructor discrecionalmente podrá conceder la suspensión sin necesidad de que se garantice su importe.
-
-Cuando a juicio del Magistrado fuere necesario garantizar los intereses del fisco, la suspensión del acto reclamado se concederá, previo aseguramiento de los mismos, en cualquiera de las formas que establece esta ley, a menos que la garantía se hubiere constituido de antemano ante la autoridad demandada.
-
-En todo caso, el auto que exija o dispense el otorgamiento de la garantía no será recurrible.
+Tratándose de multas, impuestos, derechos o cualquier otro crédito fiscal, el Magistrado instructor podrá conceder la suspensión, previa garantía, en cualquiera de las formas que establece esta Ley, a menos que la garantía se hubiere constituido de antemano ante la autoridad demandada.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
 
@@ -1641,7 +1653,9 @@ La garantía y contragarantía a que se refiere este artículo, se presentarán 
 
 Las garantías a que se refieren los artículos 72 y 73 de esta Ley, podrán ofrecerse en alguna de las formas siguientes:
 
-I.- Depósito de dinero en la institución de crédito que legalmente corresponda o ante la Secretaría de Hacienda Pública y Tesorería del Estado o las Tesorerías Municipales, según sea el caso;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I.- Depósito de dinero en la institución de crédito que legalmente corresponda, o ante el Servicio de Administración Tributaria del Estado de Sinaloa o las Tesorerías Municipales, según sea el caso;
 
 II.- Pago bajo protesta;
 
@@ -1673,9 +1687,17 @@ b). Resolución que se pretenda impugnar y fecha de notificación de la misma;
 
 c). Los hechos que se pretenden resguardar con la medida cautelar;
 
-d). Los motivos por los cuales solicita la medida cautelar; y,
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-e). Una copia del escrito mencionado para cada una de las partes del juicio, para correrles traslado.
+d). Los motivos por los cuales solicita la medida cautelar;
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+e). Una copia del escrito mencionado para cada una de las partes del juicio, para correrles traslado; y,
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+f). En su caso, la garantía que se hubiere constituido ante la autoridad demandada.
 
 La solicitud previa de la medida cautelar, no interrumpirá el término para la interposición de la demanda, su otorgamiento surtirá efectos hasta por quince días, los que se prorrogarán una vez presentada esta. De no cumplir con los citados requisitos, se tendrá por no solicitada.
 
@@ -2105,6 +2127,22 @@ V. Declarar la configuración de la Negativa Ficta o en su caso, de la Positiva 
 
 VI.- Absolver o condenar a la autoridad al cumplimiento de la obligación reclamada.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Si la sentencia obliga a la autoridad a realizar determinado acto, reponer o iniciar un procedimiento, deberá de cumplirse en un plazo de cien días, contados a partir de que la sentencia quede firme.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Dentro del mismo término deberá emitir la resolución definitiva, aun cuando, tratándose de asuntos fiscales, hayan transcurrido los plazos señalados en los artículos 78-BIS-B del Código Fiscal del Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Si dentro del plazo señalado en el segundo párrafo del presente artículo la autoridad no haya emitido y notificado la resolución definitiva, precluirá el derecho para emitirla, salvo que la sentencia le confiera o reconozca un derecho al particular.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Cuando se interponga juicio de amparo o recurso de revisión, se suspenderá el efecto de la sentencia hasta que se dicte la resolución que ponga fin a la controversia.
+
 ###### ARTICULO 96.
 
 Las sentencias deberán contener:
@@ -2169,11 +2207,11 @@ Las sentencias que declaren fundada la acción del demandante, dejarán sin efec
 
 Las partes podrán formular excitativa de justicia ante la Sala Superior, si la sentencia no es dictada dentro del plazo al que se refiere el artículo 95 de la presente Ley. Si después de oír al Magistrado Instructor, la Sala Superior considera que la excitativa es fundada, le otorgará el plazo de diez días para que dicte la sentencia.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 100.
 
-La aclaración de sentencia tendrá lugar cuando se requiera esclarecer algún concepto o suplir cualquier omisión que contenga, sin que esto implique variar o modificar el sentido en que fue pronunciada la misma. Podrá solicitarla cualquiera de las partes y su trámite será incidental.
+La aclaración de sentencia tendrá lugar cuando se estime que es contradictoria, ambigua u obscura, sin que esto implique variar o modificar el sentido en que fue pronunciada la misma. Podrá ser solicitada por cualquiera de las partes y su trámite será vía incidental.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2017)</small>
 
@@ -2185,11 +2223,15 @@ Las sentencias dictadas por las Salas Regionales del Tribunal causarán ejecutor
 
 En igual forma, causarán ejecutoria los convenios que suscriben las partes para conciliar sus intereses poniendo fin al juicio, siempre que hayan sido elevados a la categoría de cosa Juzgada por la Sala de Conocimiento.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 102.
 
-La declaración de sentencia ejecutoria, se hará de oficio o a petición de parte. La que favorezca a un particular y contenga una obligación de hacer o de condena, deberá comunicarse a la autoridad correspondiente dentro de los diez días hábiles siguientes a la fecha en que se declaró ejecutoriada la sentencia, previniéndola y conminándola a rendir un informe sobre su cumplimiento dentro de los quince días siguientes.
+La declaración de firmeza de una sentencia, se hará de oficio o a petición de parte. La que favorezca a un particular reconociendo un derecho subjetivo y se condene a la obligación correlativa, deberá comunicarse a la autoridad correspondiente dentro de los diez días hábiles siguientes a la fecha en que se declaró la firmeza de la sentencia.
+
+A partir de la fecha en que se realice la notificación a la que se refiere el párrafo anterior, empezará a correr el plazo previsto en el artículo 95 de la presente Ley para el cumplimiento a la sentencia.
+
+Para verificar el cumplimiento de la sentencia, la Sala del conocimiento podrá prevenir y conminar a la autoridad demandada a que informe acerca del cumplimiento dado a la sentencia, conforme lo dispone el artículo siguiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -2311,9 +2353,9 @@ Existiendo resolución administrativa, si la Sala considera que la queja es impr
 
 Podrán ser impugnadas por las partes, mediante recurso de revisión:
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-I.- Las resoluciones que admitan o desechen la demanda o su ampliación;
+I.- Las resoluciones que admitan o desechen la demanda o tengan por no presentada la demanda, la ampliación, la contestación y ampliación a la misma, o alguna prueba;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2772,3 +2814,105 @@ CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido al pr
 QUINTO. En un plazo que no deberá de exceder de noventa días posteriores al inicio de vigencia del presente Decreto, el Tribunal de Justicia Administrativa deberá realizar las adecuaciones correspondientes a su Reglamento.
 
 SEXTO. El o los Magistrados con adscripción a una Sala Especializada en materia de responsabilidades administrativas ejercerán su cargo en la materia asignada. Pudiendo en su caso, la Sala Superior del Tribunal asignarles nueva adscripción en caso de creación de nueva Sala o Salas especializadas, o en razón de política de rotación de Magistrados de Sala especializada.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 334 POR EL QUE SE EXPIDEN LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA Y LA LEY ORGÁNICA DE LA PROCURADURÍA FISCAL, AMBAS DEL ESTADO DE SINALOA; Y SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, CÓDIGO FISCAL MUNICIPAL, LEY DE HACIENDA, LEY DE COORDINACIÓN FISCAL, LEY DE JUSTICIA ADMINISTRATIVA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, LEY DE TRÁNSITO Y TRANSPORTES, LEY DE PLANEACIÓN, LEY DE AGUA POTABLE Y ALCANTARILLADO, Y LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS, TODOS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de Abril del año 2018, previa su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador Constitucional del Estado de Sinaloa, deberá expedir el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa dentro de los cinco días posteriores a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Gobernador Constitucional del Estado de Sinaloa designará al Director General del Servicio de Administración Tributaria del Estado de Sinaloa conforme a lo previsto en el artículo 17 de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, dentro de los cinco días posteriores a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador Constitucional del Estado de Sinaloa, en su carácter de Presidente Honorario del Órgano Superior de Dirección del Servicio de Administración Tributaria del Estado de Sinaloa, emitirá y publicará en el Periódico Oficial “El Estado de Sinaloa”, el Estatuto del Servicio Fiscal de Carrera de dicho organismo, que deberá entrar en vigor el mismo día en que el presente Decreto inicie su vigencia.
+
+Una vez instalado el Órgano Superior de Dirección del Servicio de Administración Tributaria del Estado de Sinaloa, procederá a ratificar el Estatuto del Servicio Fiscal de Carrera del organismo y será el responsable de mantenerlo actualizado, así como analizar y, en su caso, aprobar las reformas que sean sometidas a su consideración por el Director General del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO QUINTO.
+
+Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de Administración y Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Tributaria del Estado de Sinaloa, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior o cualquier otra disposición jurídica que emane de ellos.
+
+###### ARTÍCULO SEXTO.
+
+Toda mención que se haga a la autoridad fiscal o tributaria del estado de Sinaloa en cualquier ordenamiento jurídico o administrativo, federal o estatal, se entenderá hecha al Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que, a la fecha de entrada en vigor de la presente Ley, se encuentren en trámite ante la Procuraduría Fiscal, la Subsecretaría de Ingresos o en cualquier unidad administrativa de la Secretaría de Administración y Finanzas, se seguirán tramitando hasta su total conclusión ante el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Las solicitudes de devolución de cantidades a favor de los contribuyentes que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite ante la Secretaría de Administración y Finanzas, seguirán su trámite ante el Servicio de Administración Tributaria del Estado de Sinaloa, para lo cual dicho órgano desconcentrado en el primer acto de autoridad, requerimiento o aviso relacionado con la solicitud de devolución, notificará al particular la sustitución de autoridad.
+
+Los recursos y juicios interpuestos en contra de actos o resoluciones de la Procuraduría Fiscal del Estado de Sinaloa, la Subsecretaría de Ingresos o de cualquier unidad administrativa de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite y representación de dicha Procuraduría Fiscal, vinculados con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su reglamento o cualquier disposición que emane de ellos, se seguirán tramitando por la citada Procuraduría Fiscal hasta su total conclusión.
+
+###### ARTÍCULO OCTAVO.
+
+Los amparos contra actos o resoluciones de las unidades administrativas adscritas a la Procuraduría Fiscal, la Subsecretaría de Ingresos o cualquier unidad administrativa de la Secretaría de Administración y Finanzas, cuya interposición les sea notificada, con el carácter de autoridad responsable o de tercero interesado, con anterioridad a la entrada en vigor de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, que estén vinculados con la materia objeto de la presente Ley, su reglamento o cualquier disposición que emane de ellos, se seguirán tramitando por la Procuraduría Fiscal del Estado de Sinaloa hasta su total conclusión.
+
+###### ARTÍCULO NOVENO.
+
+Las unidades administrativas que con la emisión de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa resulten competentes, notificarán por escrito a los contribuyentes de la sustitución de autoridad, para tal efecto se estará a lo siguiente:
+
+a) Tratándose del ejercicio de las facultades de comprobación, la autoridad que resulte competente notificará por escrito al contribuyente del cambio de autoridad, así como del aumento o sustitución de auditores, antes de continuar con el desahogo de los procedimientos inherentes al acto de fiscalización.
+
+b) Tratándose de actos distintos a los actos de fiscalización, dicha notificación se entenderá hecha con el primer acuerdo, aviso o respuesta que recaiga al trámite de que se trate, sin que sea necesario emitir un escrito ex profeso para tal efecto.
+
+En todo caso, los actos y resoluciones deberán estar debidamente fundados y motivados conforme al texto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, coordinará las acciones necesarias para que los archivos y expedientes vinculados con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior y cualquier otra disposición jurídica que de ellos emane, pasen a formar parte del inventario del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Para efectos de lo dispuesto en el presente transitorio se deberán realizar las actas de entrega-recepción, con todas las formalidades y requisitos previstos en las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Gobernador Constitucional del Estado de Sinaloa, a través de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, dispondrá lo conducente a fin de que a partir de la entrada en vigor del presente Decreto se lleve a cabo la asignación de los recursos materiales y financieros que requiera el Servicio de Administración Tributaria del Estado de Sinaloa para el correcto ejercicio de las atribuciones objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, conforme a lo dispuesto en la Ley del Servicio de Administración Tributaria del Estado de Sinaloa y del Estatuto del Servicio Fiscal de Carrera, transferirá al personal que formarán (sic) parte del Servicio de Administración Tributaria del Estado de Sinaloa, de entre los que se encuentren prestando servicios en las diferentes áreas de la Subsecretaría de Ingresos. Para este objeto, el Servicio de Administración Tributaria del Estado de Sinaloa, proporcionará capacitación al personal que opte por someterse a las pruebas de selección contempladas en el Estatuto del Servicio Fiscal de Carrera.
+
+La asignación de personal que integre el Servicio de Administración Tributaria del Estado de Sinaloa, deberá concluir en un plazo no mayor a un año conforme a lo establecido en el Estatuto del Servicio Fiscal de Carrera. En tanto este proceso no concluya, las áreas o unidades de la Subsecretaría de Ingresos encargadas de las funciones de la administración tributaria del Estado (sic) Sinaloa, deberán seguir desarrollando las mismas en el marco de las facultades que tiene a su cargo y que les otorga la Ley, hasta que sean sustituidas por el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los servidores públicos de base que se encuentran prestando servicios en la Subsecretaría de Ingresos, cuyas atribuciones sean asumidas por el Servicio de Administración Tributaria del Estado de Sinaloa a la entrada en vigor del presente Decreto, en ninguna forma resultarán afectados en los derechos adquiridos con motivo de su relación laboral, conservando ante su transición al nuevo organismo desconcentrado la misma calidad, sus derechos y preservando su antigüedad en los términos de la normatividad aplicable, subrogándose al Servicio de Administración Tributaria del Estado de Sinaloa, como nuevo empleador en todos los derechos y obligaciones derivados de esa relación laboral y aquellos consagrados en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, o en las Condiciones Generales de Trabajo establecidas en el contrato colectivo de trabajo.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se abroga la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, publicada en el Periódico Oficial “El Estado de Sinaloa”, número 99, de fecha 18 de agosto de 1993, Segunda Sección.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Gobernador Constitucional del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial “El Estado de Sinaloa”, el Reglamento de la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, en un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Gobernador Constitucional del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial “El Estado de Sinaloa”, las modificaciones necesarias al Reglamento de la Ley de Tránsito y Transportes del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+La recaudación que se obtenga por el pago de los últimos cinco años anteriores a la entrada en vigor del presente Decreto, del Impuesto Sobre Tenencia o Uso de Vehículos a que se refería el Capítulo II de la Ley de Hacienda del Estado de Sinaloa, el 20% será distribuido a los municipios en los términos y para los efectos que establece el Artículo 3° Bis A de la Ley de Coordinación Fiscal del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Las funciones que realizaba la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF) hasta la entrada en vigor del presente Decreto, serán desempeñadas por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, en términos de su Reglamento Interior. Los derechos de los trabajadores serán respetados en la reestructura objeto del presente Decreto.
+
+Los juicios en los que sea parte la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF) hasta la entrada en vigor del presente Decreto, serán competencia de la Secretaría General de Gobierno en términos de lo dispuesto por su Reglamento Interior.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaciones que se estimen pertinentes para efectos de reasignar el presupuesto que a prorrata aportaban para sufragar los gastos de la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF), hasta la entrada en vigor del presente Decreto, de acuerdo con la legislación aplicable.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
