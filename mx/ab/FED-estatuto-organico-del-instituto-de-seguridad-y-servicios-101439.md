@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-101439
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-18"
-last_updated: "2014-06-18"
+last_updated: "2017-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101439&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2014-06-04"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2018 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 18 de junio de 2014.
 
@@ -123,6 +125,8 @@ Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabaj
 
 ## TRANSITORIOS
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ## TÍTULO PRIMERO. Disposiciones Generales
 
 ###### ARTÍCULO 1.
@@ -135,7 +139,9 @@ En el ejercicio de sus responsabilidades y en el ámbito de sus competencias, lo
 
 Las disposiciones contenidas en este ordenamiento son de carácter general y deben ser observadas por los órganos de gobierno, la Secretaría General y por las Unidades Administrativas Centrales y Desconcentradas del Instituto, con fundamento en las atribuciones que les confieren la Ley y sus reglamentos.
 
-El incumplimiento a lo dispuesto en la Ley, este Estatuto Orgánico y demás normatividad aplicable, por parte de los servidores públicos del Instituto, dará lugar al procedimiento y a las sanciones que señale la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, con independencia de las sanciones civiles, penales o de cualquier otra naturaleza a que se hagan acreedores.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+El incumplimiento a lo dispuesto en la Ley, este Estatuto Orgánico y demás normatividad aplicable, por parte de los servidores públicos del Instituto, dará lugar al procedimiento y a las sanciones que señale la Ley General de Responsabilidades Administrativas, con independencia de las sanciones civiles, penales o de cualquier otra naturaleza a que se hagan acreedores.
 
 ###### ARTÍCULO 3.
 
@@ -241,9 +247,13 @@ h) Escuela Nacional de Enfermería e Investigación.
 
 El Instituto cuenta con una Unidad de Desarrollo Institucional que se estructura conforme a lo establecido en los artículos 87 y 88; así como con un Órgano Interno de Control, que se rige conforme a lo que establece la ley aplicable en la materia y se organiza en términos de lo que disponen los artículos 89 y 90 de este Estatuto Orgánico.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 7.
 
-Para lo no previsto en este Estatuto Orgánico, se estará a lo dispuesto por la Ley y por los Acuerdos de la Junta y del Director General, en ejercicio de sus respectivas facultades.
+Para lo no previsto en el presente instrumento, se estará a lo dispuesto por la Ley, por los Acuerdos y Resoluciones que emita la Junta, así como por las disposiciones emitidas por el Director General en ejercicio de sus facultades.
+
+La interpretación para efectos administrativos de este Estatuto, corresponde al Instituto a través de la Dirección Jurídica del Instituto.
 
 ## TÍTULO SEGUNDO. De los órganos de gobierno
 
@@ -547,9 +557,11 @@ El Director General puede delegar cualquiera de sus facultades en otros servidor
 
 Para los efectos anteriores, puede emitir acuerdos delegatorios u otorgar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial, así como sustituirlos y revocarlos. Puede conferir poderes generales y especiales a terceros para llevar la representación y defensa jurídica de los intereses del Instituto.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 27.
 
-En sus ausencias, el Director General será suplido por el Secretario General, por el Director Jurídico, por el Director de Administración, por el Director de Finanzas o por el Director de Prestaciones Económicas, Sociales y Culturales, en el orden indicado.
+En ausencia del Director General, los asuntos del Instituto serán atendidos por los titulares de las Unidades Administrativas en el respectivo ámbito de sus competencias.
 
 ### CAPÍTULO TERCERO. De la Comisión Ejecutiva del Fondo de la Vivienda
 
@@ -819,11 +831,17 @@ La Comisión de Vigilancia deberá conocer, para su estudio y análisis, los est
 
 Cuando la Comisión de Vigilancia encuentre alguna irregularidad con relación a las inversiones, estados financieros, estados de ingresos y egresos, operaciones o servicios, lo hará del conocimiento inmediato del Director General, quien informará a la Junta.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ## TÍTULO TERCERO. De la Secretaría General y de las Unidades Administrativas Centrales y Desconcentradas
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO PRIMERO. Disposiciones Generales
 
-###### ARTÍCULO 52.
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 52.
 
 Son atribuciones de la Secretaría General y de las Unidades Administrativas Centrales y Desconcentradas del Instituto las siguientes:
 
@@ -873,13 +891,21 @@ XXII. Ejercer la facultad de atracción de los asuntos competencia de las Delega
 
 XXIII. Contribuir con la Dirección de Tecnología y Estrategia Digital para la incorporación de tecnologías de la información a fin de mejorar la atención al derechohabiente y los procesos administrativos, entre ellos, la firma electrónica; y
 
-XXIV. Las demás que señalen otras disposiciones aplicables y las que les asignen la Junta o el Director General.
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+XXIV. Responder de manera oportuna, fundada y motivada a la Unidad de Transparencia, las solicitudes de acceso a la información y de protección de datos personales, así como realizar las acciones necesarias para fortalecer la cultura institucional de transparencia y rendición de cuentas: y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+XXV. Las demás que señalen otras disposiciones aplicables y las que les asignen la Junta o el Director General.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 53.
 
-La Secretaría General, las Unidades Administrativas Centrales y las Desconcentradas del Instituto, serán encabezadas por el Secretario General y los Titulares de dichas Unidades quienes se auxiliarán por los Subdirectores, Jefes de Servicios, Jefes de Departamento y Jefes de Oficina, así como por los Subdelegados, Jefes de Unidad y demás personal que autorice el presupuesto.
+La Secretaría General y las Unidades Administrativas del Instituto, serán encabezadas por el Secretario General y los Titulares de dichas Unidades quienes se auxiliarán por los Subdirectores, Subcoordinadores, Jefes de Servicios, Jefes de Departamento, Subjefes de Departamento y Jefes de Oficina, así como por los Subdelegados, Jefes de Unidad y demás personal que autorice el presupuesto.
 
-Podrán delegar el ejercicio de sus funciones en los Subdirectores bajo su mando o, en el caso de las Delegaciones Estatales y Regionales, en los Subdelegados o Jefes de Unidad.
+Las facultades previstas en el presente ordenamiento para cada uno de los titulares referidos en el párrafo que antecede podrán ser delegadas a los Subdirectores, Jefes de Servicios, Subcoordinadores y Jefes de Departamento a su mando o, en el caso de las Delegaciones Regionales y Estatales, en los Subdelegados o Jefes de Unidad en términos del acuerdo delegatorio correspondiente que sea publicado en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO 54.
 
@@ -889,85 +915,73 @@ Las Unidades Administrativas Desconcentradas del Instituto contarán con la auto
 
 En sus ausencias, el Secretario General y los titulares de las Unidades Administrativas Centrales y Desconcentradas serán suplidos por los servidores públicos del rango inmediato inferior, en el orden de prelación que determine este Estatuto Orgánico para cada una de ellas.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ### CAPÍTULO SEGUNDO. De la Secretaría General
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 56.
 
-La Secretaría General es responsable de apoyar al Director General, a los demás órganos de gobierno y a las Unidades Administrativas del Instituto para promover y fortalecer la coordinación e integración institucional, la permanente transformación y mejora de los sistemas, estructuras y procesos internos, con base en el registro y acreditación de los derechos de la población afiliada. Mide la calidad y oportunidad de los servicios y prestaciones; desarrolla y aplica para ello, los procesos de planeación y evaluación necesarios en el conjunto del Instituto y realiza tareas de vinculación con organizaciones sindicales, de derechohabientes, sociales y con instituciones públicas nacionales de los tres órdenes de gobierno, y extranjeras en las que participe el Instituto o con las que deba mantener comunicación.
+La Secretaría General es responsable de apoyar al Director General, a los demás órganos de gobierno y a las Unidades Administrativas del Instituto para promover y fortalecer la coordinación e integración institucional, así como realizar tareas de vinculación con organizaciones sindicales, de derechohabientes, sociales y con instituciones públicas nacionales de los tres órdenes de gobierno, y extranjeras en las que participe el Instituto o con las que deba mantener comunicación.
 
 Son atribuciones de la Secretaría General las siguientes:
 
 I. Fungir como Secretario de la Junta, en los términos del artículo 18 de este Estatuto Orgánico;
 
-II. Preparar y presentar al Director General los proyectos del programa institucional y de los programas operativos anuales de las Unidades Administrativas, que deben someterse a la Junta;
+II. Asegurar que los cuerpos colegiados institucionales cumplan con los calendarios de sesiones aprobados por sus órganos de gobierno y con lo señalado en el Reglamento de Sesiones de cuerpos colegiados;
 
-III. Coordinar, supervisar, orientar y apoyar la formulación e implementación de los planes y programas del Instituto y de sus Unidades Administrativas, de conformidad con las políticas nacionales y sectoriales aplicables;
+III. Participar e intervenir en los cuerpos colegiados y en los mecanismos de participación sectoriales relacionados con la planeación, programación, estadística y evaluación;
 
-IV. Diseñar, integrar y coordinar con el apoyo de las Unidades Administrativas, el sistema interno de evaluación del desempeño institucional para el mejoramiento de los seguros, prestaciones y servicios;
+IV. Coordinar al Comité de Evaluación y Seguimiento de los Servicios de Salud establecido en la Ley;
 
-V. Participar en el diseño de lineamientos relacionados con los procesos estadísticos y con los indicadores de control de las tareas del Instituto y de sus Unidades Administrativas. Preparar y presentar al Director General el proyecto de informe sobre el estado que guarde la administración del Instituto que debe someterse a la Junta;
+V. Administrar y supervisar el proceso de incorporación al régimen del Instituto de las dependencias y entidades previstas en la Ley, y la afiliación de sus trabajadores; proponer al Director General acciones para asegurar el cumplimiento de las obligaciones de las instituciones afiliadas;
 
-VI. Realizar actividades de desarrollo institucional en los términos de los artículos 6, 87 y 88 de este Estatuto Orgánico;
+VI. Determinar, administrar, coordinar y vigilar el proceso de vigencia de derechos de los trabajadores, pensionados y familiares derechohabientes incorporados al régimen de la Ley;
 
-VII. Asegurar que los cuerpos colegiados institucionales cumplan con los calendarios de sesiones aprobados por sus órganos de gobierno y con lo señalado en el Reglamento de Sesiones de cuerpos colegiados;
+VII. Determinar, administrar y coordinar la continuación voluntaria en todos o en alguno de los seguros del régimen obligatorio a los que se refiere el artículo 200 de la Ley;
 
-VIII. Participar e intervenir en los cuerpos colegiados y en los mecanismos de participación sectoriales relacionados con la planeación, programación, estadística y evaluación;
+VIII. Establecer las políticas, normas y lineamientos para la integración y operación de la base de datos del expediente electrónico único previsto en la ley, así como administrarla y resguardarla;
 
-IX. Coordinar al Comité de Evaluación y Seguimiento de los Servicios de Salud establecido en la Ley;
+IX. Determinar el monto de los Bonos de Pensión que corresponden a los trabajadores que a la fecha de entrada en vigor de la Ley se encontraban separados del servicio y que con posterioridad reingresaran al mismo, de conformidad con lo que establece el artículo Décimo Sexto Transitorio de la Ley;
 
-X. Administrar y supervisar el proceso de incorporación al régimen del Instituto de las dependencias y entidades previstas en la Ley, y la afiliación de sus trabajadores; proponer al Director General acciones para asegurar el cumplimiento de las obligaciones de las instituciones afiliadas;
+X. Establecer los mecanismos para la revisión y corrección en su caso, de los Bonos de Pensión de los trabajadores de reingreso, de conformidad con las Reglas para el Ajuste de los Bonos de Pensión emitidas por la Secretaría de Hacienda y Crédito Público;
 
-XI. Determinar, administrar, coordinar y vigilar el proceso de vigencia de derechos de los trabajadores, pensionados y familiares derechohabientes incorporados al régimen de la Ley;
+XI. Administrar el uso y destino de los Documentos de Elección a que se refiere el artículo 43 del Reglamento para el Ejercicio del Derecho de Opción que tienen los Trabajadores de conformidad con los artículos Quinto y Séptimo Transitorios del Decreto por el que se expide la Ley;
 
-XII. Determinar, administrar y coordinar la continuación voluntaria en todos o en alguno de los seguros del régimen obligatorio a los que se refiere el artículo 200 de la Ley;
+XII. Definir los medios de identificación con que se acreditarán los derechohabientes, para ejercer los derechos que les confiere la Ley, y vigilar los lineamientos para su expedición y administración;
 
-XIII. Establecer las políticas, normas y lineamientos para la integración y operación de la base de datos del expediente electrónico único previsto en la ley, así como administrarla y resguardarla;
+XIII. Emitir recomendaciones en materia de afiliación y vigencia de derechos relacionados con los convenios de portabilidad con otros institutos de seguridad social o con entidades que operen otros sistemas de seguridad social compatibles con lo previsto en la Ley, así como proponer e instrumentar las reglas de carácter general para la transferencia de derechos entre el propio Instituto, el Instituto Mexicano del Seguro Social y otros sistemas de seguridad social;
 
-XIV. Determinar el monto de los Bonos de Pensión que corresponden a los trabajadores que a la fecha de entrada en vigor de la Ley se encontraban separados del servicio y que con posterioridad reingresaran al mismo, de conformidad con lo que establece el artículo Décimo Sexto Transitorio de la Ley;
+XIV. Establecer políticas, normas y lineamientos para el acceso y transferencia de información de las dependencias y entidades afiliadas, o de otros organismos, con la base de datos institucional de derechohabientes, así como con la Comisión Nacional del Sistema de Ahorro para el Retiro y con las Empresas Operadoras de la Base de Datos Nacional SAR;
 
-XV. Establecer los mecanismos para la revisión y corrección en su caso, de los Bonos de Pensión de los trabajadores de reingreso, de conformidad con las Reglas para el Ajuste de los Bonos de Pensión emitidas por la Secretaría de Hacienda y Crédito Público;
+XV. Atraer asuntos de las Unidades Administrativas Desconcentradas cuando lo considere necesario para salvaguardar el interés institucional, previa autorización del Director General;
 
-XVI. Administrar el uso y destino de los Documentos de Elección a que se refiere el artículo 43 del Reglamento para el Ejercicio del Derecho de Opción que tienen los Trabajadores de conformidad con los artículos Quinto y Séptimo Transitorios del Decreto por el que se expide la Ley;
+XVI. Contribuir a garantizar el ejercicio pleno de los derechos de los usuarios del Instituto y derechohabientes, mediante el diseño, desarrollo, coordinación y supervisión del sistema de comunicación directa y atención a los derechohabientes, así como de información que permita brindar respaldo y auxilio respecto de los seguros, prestaciones y servicios señalados en la Ley, así como dar seguimiento, en coordinación con las Unidades Administrativas competentes, a las acciones iniciadas;
 
-XVII. Definir los medios de identificación con que se acreditarán los derechohabientes, para ejercer los derechos que les confiere la Ley, y vigilar los lineamientos para su expedición y administración;
+XVII. Recibir, procesar y dar seguimiento, hasta su solución, a las recomendaciones y conciliaciones que emita la Comisión Nacional de los Derechos Humanos respecto al otorgamiento de seguros, prestaciones y servicios del Instituto;
 
-XVIII. Emitir recomendaciones en materia de afiliación y vigencia de derechos relacionados con los convenios de portabilidad con otros institutos de seguridad social o con entidades que operen otros sistemas de seguridad social compatibles con lo previsto en la Ley, así como proponer e instrumentar las reglas de carácter general para la transferencia de derechos entre el propio Instituto, el Instituto Mexicano del Seguro Social y otros sistemas de seguridad social;
+XVIII. Fungir como enlace ante la Comisión Nacional de Arbitraje Médico para la atención y seguimiento de los asuntos relacionados con el Instituto;
 
-XIX. Establecer políticas, normas y lineamientos para el acceso y transferencia de información de las dependencias y entidades afiliadas, o de otros organismos, con la base de datos institucional de derechohabientes, así como con la Comisión Nacional del Sistema de Ahorro para el Retiro y con las Empresas Operadoras de la Base de Datos Nacional SAR;
+XIX. Presidir los Comités de Quejas Médicas y establecer un Comité Técnico para la Dictaminación de Solicitudes de Reembolso de Gastos Médicos. Promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes administrativo, médico y jurídico que al efecto elaboren las Unidades Administrativas competentes del Instituto, sin perjuicio de la delegación de facultades que corresponda;
 
-XX. Concertar y coordinar con las diversas Unidades Administrativas del Instituto, así como con la representación sindical, el diseño, aplicación, seguimiento y evaluación de programas, proyectos, modelos, incentivos y acciones que redunden en la mejora continua de los servicios que otorga el Instituto y en la calidad de la atención que brinda a sus derechohabientes;
+XX. Promover la utilización de medios alternativos de solución de controversias entre las distintas áreas del Instituto para atender y resolver inconformidades y quejas de los derechohabientes;
 
-XXI. Diseñar y operar metodologías de análisis, técnicas, procesos y herramientas para la medición de impacto, el seguimiento y la evaluación cuantitativa y cualitativa de los programas institucionales;
+XXI. Supervisar la atención que las Unidades Administrativas del Instituto den a las peticiones de los derechohabientes y de la ciudadanía, que formulen a la Presidencia de la República debidamente fundadas y motivadas;
 
-XXII. Atraer asuntos de las Unidades Administrativas Desconcentradas cuando lo considere necesario para salvaguardar el interés institucional, previa autorización del Director General;
+XXII. Planear, coordinar y evaluar proyectos y acciones para la atención de grupos y segmentos de derechohabientes que se encuentren en situación de riesgo y/o vulnerabilidad; promover para ellos, atención preferencial y la organización de redes sociales de apoyo para su atención;
 
-XXIII. Contribuir a garantizar el ejercicio pleno de los derechos de los usuarios del Instituto y derechohabientes, mediante el diseño, desarrollo, coordinación y supervisión del sistema de comunicación directa y atención a los derechohabientes, así como de información que permita brindar respaldo y auxilio respecto de los seguros, prestaciones y servicios señalados en la Ley, así como dar seguimiento, en coordinación con las Unidades Administrativas competentes, a las acciones iniciadas;
+XXIII. Coordinar las acciones dirigidas a promover la igualdad de género y la no discriminación, en forma transversal y en los términos del Plan Nacional de Desarrollo en todos los seguros, prestaciones y servicios que proporcione el Instituto en todas sus Unidades Administrativas;
 
-XXIV. Recibir, procesar y dar seguimiento, hasta su solución, a las recomendaciones y conciliaciones que emita la Comisión Nacional de los Derechos Humanos respecto al otorgamiento de seguros, prestaciones y servicios del Instituto;
+XXIV. Coordinar la operación del Centro de Estudios y de Apoyo para la Mujer y del Centro de Estudios y Apoyo al Adulto Mayor;
 
-XXV. Fungir como enlace ante la Comisión Nacional de Arbitraje Médico para la atención y seguimiento de los asuntos relacionados con el Instituto;
+XXV. Instrumentar las acciones que garanticen a los cónyuges y concubinos de los derechohabientes, con independencia de su sexo, el acceso pleno y no discriminatorio al ejercicio de sus derechos en los términos de la Ley;
 
-XXVI. Presidir los Comités de Quejas Médicas y establecer un Comité Técnico para la Dictaminación de Solicitudes de Reembolso de Gastos Médicos. Promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes administrativo, médico y jurídico que al efecto elaboren las Unidades Administrativas competentes del Instituto, sin perjuicio de la delegación de facultades que corresponda;
+XXVI. Apoyar a la Dirección General en la promoción y conducción de las relaciones institucionales en el ámbito nacional e internacional; y
 
-XXVII. Promover la utilización de medios alternativos de solución de controversias entre las distintas áreas del Instituto para atender y resolver inconformidades y quejas de los derechohabientes;
+XXVII. La (sic) demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
 
-XXVIII. Promover y difundir una cultura de transparencia, protección de datos personales y rendición de cuentas institucional, así como establecer y coordinar las funciones de enlace institucional para el acceso a la información pública gubernamental, datos personales y la corrección de los mismos, tanto con las Unidades Administrativas del Instituto, como con el Comité de Información y con el Instituto Federal de Acceso a la Información y Protección de Datos;
-
-XXIX. Supervisar la atención que las Unidades Administrativas del Instituto den a las peticiones de los derechohabientes y de la ciudadanía, que formulen a la Presidencia de la República;
-
-XXX. Planear, coordinar y evaluar proyectos y acciones para la atención de grupos y segmentos de derechohabientes que se encuentren en situación de riesgo y/o vulnerabilidad; promover para ellos, atención preferencial y la organización de redes sociales de apoyo para su atención;
-
-XXXI. Coordinar las acciones dirigidas a promover la igualdad de género y la no discriminación, en forma transversal y en los términos del Plan Nacional de Desarrollo en todos los seguros, prestaciones y servicios que proporcione el Instituto en todas sus Unidades Administrativas;
-
-XXXII. Coordinar la operación del Centro de Estudios y de Apoyo para la Mujer y del Centro de Estudios y Apoyo al Adulto Mayor;
-
-XXXIII. Instrumentar las acciones que garanticen a los cónyuges y concubinos de los derechohabientes, con independencia de su sexo, el acceso pleno y no discriminatorio al ejercicio de sus derechos en los términos de la Ley;
-
-XXXIV. Apoyar a la Dirección General en la promoción y conducción de las relaciones institucionales en el ámbito nacional e internacional; y
-
-XXXV. La demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Secretario General será suplido por el Prosecretario de la Junta, por el Subdirector de Atención al Derechohabiente o por el Subdirector de Afiliación y Vigencia de Derechos, en el orden indicado.
+Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Secretario General será suplido por el Prosecretario de la Junta, por el Subdirector de Atención al Derechohabiente o por el Subdirector de Afiliación y Vigencia en el orden indicado.
 
 ### CAPÍTULO TERCERO. De las Unidades Administrativas Centrales
 
@@ -1879,41 +1893,67 @@ VI. Aprobar la instalación de grupos de trabajo o comisiones para apoyar las fu
 
 VII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ## TÍTULO CUARTO. Del Desarrollo Institucional y el Control Interno
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO PRIMERO. De la Unidad de Desarrollo Institucional
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 87.
 
-El Instituto contará con una Unidad de Desarrollo Institucional que será la encargada de coordinar, supervisar y asesorar a las Unidades Administrativas del Instituto y a su personal, a fin de prevenir y corregir deficiencias en la operación institucional, promover acciones de desarrollo institucional e incorporarlos a la planeación institucional, así como evitar el desvío y dispendio de recursos.
+El Instituto contará con una Unidad de Desarrollo Institucional que será la encargada de trabajar en la permanente transformación y mejora de los sistemas, estructuras y procesos internos. Mide la calidad y oportunidad de los servicios y prestaciones; desarrolla y aplica para ello, los procesos de planeación y evaluación necesarios en el conjunto del Instituto y es responsable de coordinar, supervisar y asesorar a las Unidades Administrativas del Instituto y a su personal, a fin de prevenir y corregir deficiencias en la operación institucional, promover acciones de desarrollo institucional e incorporarlos a la planeación institucional, así como evitar el desvío y dispendio de recursos.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 88.
 
-La Unidad de Desarrollo Institucional tendrá las atribuciones siguientes:
+El titular de la Unidad de Desarrollo Institucional tendrá las atribuciones siguientes:
 
-I. Apoyar al Director General en la coordinación de acciones de carácter general para la instrumentación y mejora del sistema de desarrollo institucional, en el Instituto;
+I. Preparar y presentar al Director General los proyectos del programa institucional y de los programas operativos anuales de las Unidades Administrativas, que deben someterse a la Junta;
 
-II. Coordinar la revisión y propuesta de objetivos, lineamientos y normas en materia de desarrollo institucional, así como promover su difusión y cumplimiento;
+II. Coordinar, supervisar, orientar y apoyar la formulación e implementación de los planes y programas del Instituto y de sus Unidades Administrativas, de conformidad con las políticas nacionales y sectoriales aplicables;
 
-III. Proponer y difundir el programa de trabajo en materia de desarrollo institucional y dar seguimiento a su cumplimiento;
+III. Diseñar, integrar y coordinar con el apoyo de las Unidades Administrativas, el sistema interno de evaluación del desempeño institucional para el mejoramiento de los seguros, prestaciones y servicios;
 
-IV. Coordinar la elaboración del informe anual y el reporte de avances sobre el funcionamiento y estado que guarda el sistema de desarrollo institucional;
+IV. Participar en el diseño de lineamientos relacionados con los procesos estadísticos y con los indicadores de control de las tareas del Instituto y de sus Unidades Administrativas. Preparar y presentar al Director General el proyecto de informe sobre el estado que guarde la administración del Instituto que debe someterse a la Junta;
 
-V. Promover la cultura de control, administración de riesgos, procurar la eficiencia operativa institucional, así como de cero tolerancia y de sanción a la corrupción;
+V. Concertar y coordinar con las diversas Unidades Administrativas del Instituto, así como con la representación sindical, el diseño, aplicación, seguimiento y evaluación de programas, proyectos, modelos, incentivos y acciones que redunden en la mejora continua de los servicios que otorga el Instituto y en la calidad de la atención que brinda a sus derechohabientes;
 
-VI. Coordinar a las Unidades Administrativas del Instituto en el ejercicio de identificación, evaluación y administración de riesgos estratégicos;
+VI. Diseñar y operar metodologías de análisis, técnicas, procesos y herramientas para la medición de impacto, el seguimiento y la evaluación cuantitativa y cualitativa de los programas institucionales;
 
-VII. Proponer y coordinar el establecimiento de medidas y controles para apoyar la eficiencia operativa institucional, conforme a los procedimientos y sistemas establecidos;
+VII. Apoyar al Director General en la coordinación de acciones de carácter general para la instrumentación y mejora del sistema de desarrollo institucional, en el Instituto;
 
-VIII. Coordinar la atención de requerimientos en materia de desarrollo institucional que realicen los órganos de gobierno, atender las auditorías, visitas e inspecciones realizadas por órganos fiscalizadores, así como supervisar y asesorar a las Unidades Administrativas del Instituto en la atención de recomendaciones;
+VIII. Coordinar la revisión y propuesta de objetivos, lineamientos y normas en materia de desarrollo institucional, así como promover su difusión y cumplimiento;
 
-IX. Proponer y acordar con el Director General y las Unidades Administrativas del Instituto, las medidas para la instrumentación y mejora del Sistema de Desarrollo Institucional;
+IX. Proponer y difundir el programa de trabajo en materia de desarrollo institucional y dar seguimiento a su cumplimiento;
 
-X. Desarrollar y coordinar la instrumentación del programa de capacitación y desarrollo de competencias en materia de desarrollo institucional, para lo cual se apoyará en la Dirección de Prestaciones Económicas, Sociales y Culturales;
+X. Coordinar la elaboración del informe anual y el reporte de avances sobre el funcionamiento y estado que guarda el sistema de desarrollo institucional;
 
-XI. Promover el desarrollo administrativo integral y la mejora de la gestión en el Instituto; y
+XI. Fungir como enlace del Instituto ante las instancias correspondientes en materia de control interno y administración de riesgos;
 
-XII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable.
+XII. Promover la cultura de control interno, administración de riesgos, procurar la eficiencia operativa institucional, así como de cero tolerancia y de sanción a la corrupción;
+
+XIII. Coordinar a las Unidades Administrativas del Instituto en el ejercicio de identificación, evaluación y administración de riesgos estratégicos;
+
+XIV. Proponer y coordinar el establecimiento de medidas y controles para apoyar la eficiencia operativa institucional, conforme a los procedimientos y sistemas establecidos;
+
+XV. Coordinar la atención de requerimientos en materia de desarrollo institucional que realicen los órganos de gobierno, atender las auditorías, visitas e inspecciones realizadas por órganos fiscalizadores, así como supervisar y asesorar a las Unidades Administrativas del Instituto en la atención de recomendaciones;
+
+XVI. Proponer y acordar con el Director General y las Unidades Administrativas del Instituto, las medidas para la instrumentación y mejora del Sistema de Desarrollo Institucional;
+
+XVII. Desarrollar y coordinar la instrumentación del programa de capacitación y desarrollo de competencias en materia de desarrollo institucional, para lo cual se apoyará en la Dirección de Prestaciones Económicas, Sociales y Culturales;
+
+XVIII. Promover el desarrollo administrativo integral y la mejora de la gestión en el Instituto;
+
+XIX. Coordinar la realización de auditorías internas para verificar que los procedimientos institucionales cumplan con el marco normativo aplicable y recomendar las acciones preventivas o correctivas;
+
+XX. Establecer un registro de las acciones preventivas y correctivas que deriven del resultado de las auditorías internas; y
+
+XXI. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable.
 
 ### CAPÍTULO SEGUNDO. De los Órganos Internos de Control
 
@@ -1997,15 +2037,25 @@ Se compone por cinco miembros, de los cuales cuando menos dos son personas indep
 
 Los otros tres miembros del Comité son designados respectivamente por la Secretaría de Hacienda y Crédito Público, por el Banco de México y por el propio Instituto, y le corresponde al Director General, o a quien éste designe, presidirlo.
 
-### CAPÍTULO SEXTO. Del Comité de Información
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO SEXTO. Transparencia y Acceso a la Información Pública
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 97.
 
-El Comité de Información del Instituto es el órgano colegiado que establecen y regulan los artículos 29 y 30 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+El Instituto impulsará y facilitará el acceso a la información pública y el ejercicio de los derechos de acceso, rectificación, corrección y oposición en dicha materia, cumpliendo en todo momento con las obligaciones establecidas en el artículo 11 de la Ley Federal de Transparencia y Acceso a la Información Pública y el Título Segundo de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y las demás disposiciones jurídicas que resulten aplicables.
+
+El Director General designará al responsable de la Unidad de Transparencia, quien tendrá las funciones referidas en el artículo 61 del primer ordenamiento citado en el párrafo que antecede.
+
+El servidor público designado deberá promover y difundir la cultura de transparencia, protección de datos personales y rendición de cuentas institucional, así como establecer y coordinar las funciones de enlace institucional para el acceso a la información pública gubernamental, datos personales y corrección de los mismos, tanto con las Unidades Administrativas del Instituto, como con el Comité de Transparencia y con el Instituto Federal de Acceso a la Información y Protección de Datos Personales.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 98.
 
-El Instituto impulsará y facilitará el acceso a la información pública gubernamental, de acuerdo con la legislación de la materia y las disposiciones que al efecto emita el Instituto Federal de Acceso a la Información y Protección de Datos.
+El Comité de Transparencia del Instituto es el órgano colegiado que establecen y regulan los artículos 43 de la Ley General de transparencia y Acceso a la Información Pública, 64 y 65 de la Ley Federal de Transparencia y Acceso a la Información Pública y las demás disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -2030,3 +2080,21 @@ Lo anterior me permito hacerlo de su conocimiento para los efectos legales proce
 Atentamente
 
 México, D.F., a 4 de junio de 2014.- El Secretario General y Secretario de la Junta Directiva, Ricardo Luis Antonio Godina Herrera.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+Primero.- Las modificaciones al Estatuto Orgánico entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se mantendrán en vigor todas las disposiciones reglamentarias y administrativas que no se opongan a lo dispuesto en este Estatuto Orgánico
+
+Tercero.- Para efectos de cumplir con lo previsto en este Estatuto Orgánico, en un lapso no mayor a 60 días naturales a partir de la entrada en vigor de este ordenamiento, deberán realizarse las transferencias de áreas y adscripciones que resulten del cambio estatutario, así como las modificaciones o adecuaciones a la normatividad que las rija.
+
+La estructura de la Subdirección de Innovación y Calidad de la Secretaría General pasará a integrar la de Unidad de Desarrollo Institucional.
+
+Esta Subdirección, continuará realizando las atribuciones y funciones que venía desempeñando, por lo que se transfiere con todos sus recursos humanos, materiales y financieros y seguirán ocupando los espacios físicos en los que operan actualmente.
+
+Cuarto.- Una vez agotados los procedimientos establecidos en los Lineamientos por los que se establece el proceso para la emisión de instrumentos normativos del ISSSTE, así como la integración y funcionamiento del COMERI, remítase el presente instrumento para su publicación en el Diario Oficial de la Federación.
