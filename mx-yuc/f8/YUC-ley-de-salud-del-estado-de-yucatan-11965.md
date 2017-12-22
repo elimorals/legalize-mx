@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2017-11-24"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -1681,6 +1681,8 @@ DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 168.
 
 (DEROGADO, D.O. 9 DE JULIO DE 2007)
@@ -1737,7 +1739,7 @@ DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS Y BEBIDAS EN GENERAL.
 
 ###### ARTICULO 179.
 
-Es competencia del Estado ejercer el control y Regulación Sanitaria de los establecimientos y actividades a que se refiere el Apartado "B" del artículo de esta Ley, mediante la realización de las acciones necesarias que tengan por objeto prevenir riesgos y daños a la salud de la población.
+Es competencia del Estado ejercer el control y Regulación Sanitaria de los establecimientos y actividades a que se refiere el Apartado "B" del artículo 7-H de esta Ley, mediante la realización de las acciones necesarias que tengan por objeto prevenir riesgos y daños a la salud de la población.
 
 Dichas acciones consisten en el otorgamiento de las autorizaciones sanitarias respectivas, la vigilancia y verificación de los establecimientos, la aplicación de medidas de seguridad, la imposición de sanciones y en general todos aquellos actos que permitan preservar la salubridad local de los habitantes de esta Entidad Federativa.
 
@@ -2093,6 +2095,8 @@ La autoridad sanitaria, una vez terminada la edificación del centro de reunión
 
 ### CAPITULO XIV. ESTABLECIMIENTOS DE HOSPEDAJE
 
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 236.
 
 Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y estéticas, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas; arreglo estético de uñas de manos y pies o apliquen tratamientos de belleza en general al público en las que no se requiere intervención médica en cualquiera de sus prácticas.
@@ -2133,7 +2137,7 @@ Corresponde a la autoridad sanitaria ejercer la verificación de los establecimi
 
 ###### ARTICULO 242.
 
-Para los efectos de esta Ley, se entiende por establecimientos de hospedaje, los hoteles, moteles, casas de huéspedes y todas aquellas edificaciones que proporcionen al público alojamiento y otros servicios complementarios, mediante el pago de un precio determinado, comprendiendo también los apartamentos amueblados y campos para casa móviles de turistas.
+Para los efectos de esta Ley, se entiende por establecimientos de hospedaje, los hoteles, moteles, albergues, posadas, hosterías, mesones, haciendas, campamentos, paraderos de casas rodantes, incluyendo los prestados bajo la modalidad de tiempo compartido; casas o departamentos, enteros o por habitaciones privadas o compartidas, que proporcionen al público alojamiento o albergue temporal y otros servicios complementarios, a cambio de una contraprestación.
 
 ###### ARTICULO 243.
 
@@ -3400,3 +3404,25 @@ El gobernador deberá regular a la comisión intersecretarial para la reinserci�
 Décimo. Previsiones presupuestales
 
 El Gobierno del estado deberá realizar las previsiones y adecuaciones presupuestales necesarias para el adecuado cumplimiento de las disposiciones de la Ley Nacional de Ejecución Penal y de las establecidas en los artículos quinto y sexto de este decreto al momento de su entrada en vigor.
+
+D.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 562/2017 POR EL QUE SE MODIFICAN LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN Y LA LEY DE SALUD DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2018, previa publicación en el diario oficial del gobierno del estado de Yucatán.
+
+Segundo. Actualización reglamentaria
+
+El Poder Ejecutivo del Estado, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor de este decreto, estará obligado a realizar las modificaciones necesarias a las disposiciones reglamentarias en materia de transporte, tránsito y vialidad del estado, relativas a las infracciones cometidas en perjuicio de personas con discapacidad, para efecto de considerar la actualización y el incremento del monto de las multas, como a continuación se señala:
+
+a) En los casos relativos a estacionarse en una zona de paso de peatones o rampas especiales para personas con discapacidad o a menos de 5 metros de ellas; debiendo ser considerada esta para la imposición de la sanción como grave.
+
+b) Estacionarse en los lugares destinados exclusivamente para vehículos de personas con discapacidad; debiendo ser considerada esta para la imposición de la sanción como grave.
+
+c) Negar o cobrar la prestación del servicio de transporte a personas con discapacidad, debiendo ser considerada esta para la imposición de la sanción como grave.
+
+Tercero. Derogación tácita.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
