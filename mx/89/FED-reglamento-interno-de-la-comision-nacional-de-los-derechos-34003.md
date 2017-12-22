@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-los-derechos-3400
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-09-29"
-last_updated: "2017-06-26"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34003&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-08-12"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
 
@@ -1117,9 +1117,7 @@ Las oficinas foráneas dependerán de alguna de las visitadurías generales y te
 
 Las visitadurías generales conocerán de quejas por presuntas violaciones a derechos humanos de cualquier naturaleza jurídica, y también tendrán a su cargo la tramitación de los expedientes de queja y recursos que el presidente de la Comisión Nacional les encomiende para su atención y trámite.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 28 DE JUNIO DE 2007)</small>
-
-La Tercera Visitaduría General coordinará las acciones de la Comisión Nacional para el ejercicio de las facultades que el Protocolo Facultativo de la Convención contra la Tortura y otros tratos o Penas Crueles, Inhumanos o Degradantes, otorga al Mecanismo Nacional de Prevención.
+> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL TRANSITORIO SEGUNDO DEL ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DEL MECANISMO NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2017)</small>
 
@@ -2598,3 +2596,11 @@ Tercero. La actual área de Atención a la Discapacidad de la Comisión Nacional
 Cuarto. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas, se seguirán substanciando de conformidad con la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, así como con el Reglamento Interno de la Comisión Nacional de los Derechos Humanos en vigor hasta antes de la publicación del presente acuerdo. Los procedimientos que se inicien por hechos cometidos antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas se regirán por las disposiciones sustantivas vigentes al momento de que se cometieron éstos.
 
 Quinto. El Manual de Organización General de la Comisión Nacional de los Derechos Humanos, que refleje las modificaciones realizadas al Reglamento Interno, será expedido dentro de los seis meses siguientes a la entrada en vigor del presente Acuerdo, y deberá ser publicado en la Gaceta de la Comisión Nacional y en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DEL MECANISMO NACIONAL DE PREVENCIÓN DE LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se deroga el segundo párrafo, del artículo 61, del Reglamento Interno de la Comisión Nacional de los Derechos Humanos.
