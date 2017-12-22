@@ -4,7 +4,7 @@ identifier: "SIN-codigo-fiscal-del-estado-de-sinaloa-6437"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-28"
-last_updated: "2016-12-28"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FISCAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 28 de diciembre de 1994.
 
@@ -65,9 +65,11 @@ a).- Los empréstitos que se utilicen para sufragar los gastos extraordinarios d
 
 b).- Los que sean decretados excepcionalmente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 3o.
 
-La recaudación y en general el manejo de la Hacienda Pública Estatal, serán competencia de la Secretaría de Hacienda Pública y Tesorería, la cual podrá ser auxiliada en la recaudación por las dependencias y entidades de la Administración Pública, Federal, Estatal y Municipal, así como por otras personas físicas o morales, siempre que así lo establezcan las normas jurídicas correspondientes.
+La recaudación y, en general el manejo de la Hacienda Pública Estatal, serán competencia de la Secretaría de Administración y Finanzas, la cual podrá ser auxiliada en la recaudación por las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como por otras personas físicas o morales, siempre que así lo establezcan las normas jurídicas correspondientes.
 
 ###### ARTICULO 4o.
 
@@ -145,9 +147,11 @@ Los recargos se causarán por cada mes o fracción que transcurra a partir del d
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, esta deberá aceptar el pago y procederá a exigir el remanente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 18.
 
-Quién haga pago de créditos fiscales deberá obtener de las Oficinas Recaudadoras de la Secretaría de Hacienda Pública y Tesorería, el recibo oficial, forma valorada, comprobante de pago o la documentación que en las disposiciones respectivas se establezcan, en la que conste la impresión original de la máquina registradora, o bien, el comprobante deberá ostentar el sello de la institución de crédito cuando el pago se realice por este medio.
+Quien haga pagos de créditos fiscales deberá obtener el recibo oficial, forma valorada, comprobante de pago o la documentación que en las disposiciones respectivas se establezcan.
 
 ###### ARTICULO 19.
 
@@ -191,15 +195,29 @@ IV.- La Ley de Coordinación Fiscal Federal.
 
 V.- La Ley de Coordinación Fiscal del Estado de Sinaloa.
 
-VI.- La Ley de Justicia Administrativa para el Estado de Sinaloa.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-VII.- La Ley Orgánica de la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería.
+VI.- La Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
 
-VIII.- Las que establezcan contribuciones, productos y aprovechamientos.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-IX.- Las que autoricen ingresos extraordinarios.
+VII.- La Ley de Justicia Administrativa para el Estado de Sinaloa.
 
-X.- Los demás ordenamientos que contengan disposiciones hacendarias.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VIII.- La Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IX.- Las que establezcan contribuciones, productos y aprovechamientos.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+X.- Las que autoricen ingresos extraordinarios.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XI.- Los demás ordenamientos que contengan disposiciones hacendarias.
 
 ###### ARTICULO 25.
 
@@ -245,15 +263,21 @@ III.- Si se trata de obligaciones derivadas de contratos o concesiones que no se
 
 Los créditos fiscales podrán hacerse efectivos mediante el procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 32.
 
-El pago de los créditos fiscales deberá hacerse precisamente en efectivo y en las Oficinas Recaudadoras del Estado, o en las Instituciones de Crédito u otro tipo de organizaciones cuando haya convenio con las mismas, salvo que las disposiciones aplicables establezcan que se haga en especie.
+El pago de los créditos fiscales deberá hacerse en efectivo, transferencia electrónica, cheque certificado o en especie, según corresponda, ante las Oficinas Recaudadoras del Servicio de Administración Tributaria del Estado de Sinaloa o ante los auxiliares de recaudación que éste autorice.
+
+Por auxiliares de recaudación se deben entender todas las instituciones bancarias, tiendas de conveniencia y cualquier otro establecimiento que cuente con convenio celebrado con el Servicio de Administración Tributaria del Estado de Sinaloa para recibir pagos de los contribuyentes.
 
 ###### ARTICULO 33.
 
 Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
 
-También se admitirá como medio de pago, los cheques de cuentas personales de los causantes que cumplan con los requisitos que para hacer uso de esta forma de pago establezcan las disposiciones fiscales o en su defecto las que fije la Secretaría de Hacienda Pública y Tesorería.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+También se admitirá como medio de pago, los cheques de cuentas personales de los contribuyentes que cumplan con los requisitos que para hacer uso de esta forma de pago establezcan las disposiciones fiscales o en su defecto las que fije el Servicio de Administración Tributaria del Estado de Sinaloa.
 
 ###### ARTICULO 34.
 
@@ -263,17 +287,21 @@ La autoridad fiscal recibirá el pago hecho por el sujeto pasivo, responsable so
 
 Las manifestaciones y declaraciones de los notarios, jueces que actúen por receptoría y contadores, se entenderán hechas bajo su estricta responsabilidad.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 36.
 
-Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaria de Hacienda Pública y Tesorería podrá ordenar, por medio de disposiciones de carácter general, y con el objeto de facilitar el cumplimiento de las obligaciones, que la información correspondiente se proporcione en declaración distinta de aquella con la cual se efectué el pago.
+Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, el Servicio de Administración Tributaria del Estado de Sinaloa podrá ordenar, por medio de disposiciones de carácter general, y con el objeto de facilitar el cumplimiento de las obligaciones, que la información correspondiente se proporcione en declaración distinta de aquélla con la cual se efectúe el pago.
 
 ###### ARTICULO 37.
 
 La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 38.
 
-La Secretaría de Hacienda Pública y Tesorería del Estado, podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederá de dos años, salvo que se trate de adeudos cuantiosos, o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
+El Servicio de Administración Tributaria del Estado de Sinaloa podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederá de dos años, salvo que se trate de adeudos cuantiosos, o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
 
 En los casos a que se refiere este precepto deberá garantizarse el interés fiscal salvo que proceda dispensar la garantía.
 
@@ -307,9 +335,11 @@ IV.- Los impuestos, derechos, productos y los aprovechamientos, distintos de los
 
 Cuando las leyes fiscales establezcan que las contribuciones se calcularán por ejercicios fiscales, éstos coincidirán con el año de calendario; cuando las personas morales inicien sus actividades con posterioridad al 1o. de Enero en dicho año, el ejercicio fiscal será irregular, debiendo iniciarse el día en que comiencen actividades y terminarse el 31 de Diciembre del año que se trate.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 42.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el 5 de febrero; el 21 de marzo; el 1o. de mayo; el 5 de mayo; el 16 de septiembre; el 12 de octubre; el 1o. y el 20 de noviembre; y el 25 de diciembre, así como las fechas que correspondan a la transmisión del Poder Ejecutivo Federal, y del Poder Ejecutivo Estatal.
+En los plazos fijados en días, no se contarán los sábados, los domingos, el 1o. de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, el 1o. de mayo, el 5 de mayo, el 16 de septiembre, el 12 de octubre, el 1o. de noviembre y el tercer lunes de noviembre en conmemoración del 20 de noviembre, 25 de diciembre, así como las fechas que correspondan a la transmisión del Poder Ejecutivo Federal y del Poder Ejecutivo Estatal.
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -353,9 +383,11 @@ No se otorgará condonación total o parcial de contribuciones, productos o reca
 
 Quién incumpla con esta disposición deberá cubrir de su peculio el importe de lo condonado, mediante el fincamiento de pliego de responsabilidad y sin perjuicio de que se apliquen las penas previstas por las leyes respectivas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 49.
 
-Sólo las multas fiscales que se impongan por las autoridades estatales, por infracciones a este Código y demás leyes, podrán ser condonadas total o parcialmente por las autoridades competentes de acuerdo al Reglamento Interno de la Secretaría de Hacienda Pública y Tesorería, para lo cual se apreciarán discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción. La solicitud de condonación de multas, no constituirá instancia.
+Sólo las multas fiscales que se impongan por las autoridades estatales, por infracciones a este Código y demás leyes, podrán ser condonadas total o parcialmente por las autoridades competentes de acuerdo a la Ley del Servicio de Administración Tributaria del Estado de Sinaloa y el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa, para lo cual se apreciarán discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad que impuso la sanción. La solicitud de condonación de multas, no constituirá instancia.
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, respecto de la multa de que se trate, si así se pide y se garantiza el interés fiscal o se dispensa su garantía.
 
@@ -383,9 +415,17 @@ Los contribuyentes obligados a pagar mediante declaración periódica podrán ac
 
 El crédito fiscal se extingue por prescripción en el término de cinco años.
 
-El término de la prescripción se inicia a partir de fecha en que el pago pudo ser legalmente exigible y se podrá oponer como excepción en el recurso administrativo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigible y se podrá oponer como excepción en el recurso administrativo o en el juicio contencioso administrativo local.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales, una vez transcurrido el plazo precisado en el presente artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+El término previsto para que se consuma la prescripción se interrumpe por cada gestión de cobro que el acreedor notifique al deudor, que éste se haga sabedor, o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad fiscal dentro del procedimiento administrativo de ejecución que se haga del conocimiento del contribuyente.
 
 ###### ARTICULO 53.
 
@@ -433,7 +473,9 @@ III.- Los adquirentes de negociaciones respecto de las contribuciones que se hub
 
 IV.- Los terceros que para garantizar obligaciones fiscales constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los entregados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado.
 
-V.- Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad, sin que en ningún caso su responsabilidad exceda de su aportación a la sociedad.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V.- Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad, en la parte de interés fiscal que no alcance a ser garantizada con los bienes de la misma, siempre que dicha sociedad incurra en cualquiera de los supuestos a que se refieren los incisos a), b), c) y d) de la fracción XI de este artículo, sin que en ningún caso su responsabilidad exceda de su aportación que tenía de capital social de la sociedad durante el periodo o a la fecha de que se trate;
 
 VI.- Los co-propietarios, condóminos, poseedores o los participantes en derecho mancomunado, respecto de los créditos fiscales derivados del bien o derecho común, por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponda en el bien o en el derecho mancomunado.
 
@@ -443,21 +485,55 @@ VIII.- Los legatarios y donatarios a título particular respecto de los crédito
 
 IX.- Los representantes de los contribuyentes que para cubrir créditos fiscales hayan librado cheques sin tener fondos disponibles, o que teniéndolos dispongan de ellos antes de que transcurra el plazo de su presentación.
 
-X.- Las instituciones de crédito autorizadas para llevar a cabo operaciones fiduciarias respecto de los créditos fiscales que se hubieran causado por los ingresos derivados de la actividad objeto del fideicomiso hasta donde alcancen los bienes fideicomitidos, así como por los avisos y declaraciones que deban presentar los contribuyentes con quienes operen en relación con dichos bienes fideicomitidos.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XI.- Los liquidadores y síndicos, por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquéllas que se causaron durante su gestión.
+X.- Las instituciones de crédito autorizadas para llevar a cabo operaciones fiduciarias respecto de los créditos fiscales que se hubieran causado por los ingresos derivados de la actividad objeto del fideicomiso hasta donde alcancen los bienes fideicomitidos, así como por los avisos y declaraciones que deban presentar los contribuyentes con quienes operen en relación con dichos bienes fideicomitidos; y,
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XI. Los liquidadores y síndicos, por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquéllas que se causaron durante su gestión.
+
+No será aplicable lo dispuesto en el párrafo anterior, cuando la sociedad en liquidación cumpla con las obligaciones de presentar los avisos y de proporcionar los informes a que se refiere este Código.
+
+La persona o personas cualquiera que sea el nombre con que se le designe, que tengan conferida la dirección general, la gerencia general o la administración única de las personas morales durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la persona moral que dirigen, cuando dicha persona moral incurra en cualquiera de los siguientes supuestos:
+
+a) No solicite su inscripción en el Padrón de Contribuyentes del Estado.
+
+b) Cambie su domicilio sin presentar el aviso correspondiente, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
+
+c) No lleve contabilidad, la oculte o la destruya.
+
+d) Desocupe el local donde tenga su domicilio fiscal, sin presentar aviso de cambio de domicilio.
 
 XII.- Quienes manifiesten su voluntad de asumir responsabilidad solidaria.
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XIII.- Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, hasta por el monto de dichas contribuciones;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XIV.- Quienes ejerzan la patria potestad o la tutela, por las contribuciones a cargo de su representado;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XV.- Las sociedades escindidas por las contribuciones causadas en relación con la transmisión de los activos, pasivos y del capital transmitidos por la escindente, así como por las contribuciones causadas por esta última con anterioridad a la escisión, sin que la responsabilidad exceda del valor del capital de cada una de ellas al momento de la escisión;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XVI.- Las personas a quienes residentes en el extranjero les presten servicios personales subordinados o independientes, cuando éstos sean pagados por residentes en el extranjero hasta el monto del impuesto causado; y,
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XVII.- Los asociantes, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas mediante la asociación en participación incurra en cualquier (sic) de los supuestos a que se refieren los incisos a), b), c) y d) de la fracción XI de este artículo, sin que la responsabilidad exceda de la aportación hecha a la asociación en participación durante el periodo o la fecha de que se trate.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Los responsables solidarios también lo son por los accesorios de las contribuciones, con excepción de las multas.
+
 ###### ARTICULO 60.
 
-Para efectos de este código son responsables solidarios, también:
-
-I.- Los representantes, sea cual fuere el nombre con el que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones hasta por el monto de dicha contribución; y
-
-II.- Quienes ejerzan la patria potestad o la tutela, por las contribuciones a cargo de su representado.
-
-Los responsables solidarios también lo son por los accesorios de las contribuciones con excepción de las multas.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2017)
 
 ### CAPITULO TERCERO. DERECHOS Y OBLIGACIONES DE LOS PARTICULARES
 
@@ -491,9 +567,13 @@ III.- Tratándose de personas físicas o morales residentes fuera del territorio
 
 Todo sujeto pasivo está obligado según corresponda a:
 
-I.- Pagar en las Oficinas Recaudadoras de la Secretaría de Hacienda Pública y Tesorería del Estado o en las oficinas que designe la propia Secretaría, las contribuciones y créditos fiscales determinados a su cargo, dentro de los plazos legalmente señalados por las disposiciones fiscales, al menos que se impugnen total o parcialmente y se garantice el interés fiscal en la parte que corresponda a la impugnación.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-II.- Empadronarse en la Oficina que para tal efecto señale la Secretaría de Hacienda Pública y Tesorería, así como dar aviso de los cambios de domicilio, giro, razón social, traspaso, clausura o suspensión de actividades dentro del plazo que las disposiciones fiscales señalen para ello, dichos avisos deberán presentarse dentro de los diez días siguientes de aquél en que se realicen los supuestos antes enumerados.
+I.- Pagar en las Oficinas Recaudadoras del Servicio de Administración Tributaria del Estado de Sinaloa o ante los auxiliares de recaudación que éste autorice, las contribuciones y créditos fiscales determinados a su cargo, dentro de los plazos legalmente señalados por las disposiciones fiscales, al menos que se impugnen total o parcialmente y se garantice el interés fiscal en la parte que corresponda a la impugnación;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II.- Registrarse en la Oficina que para tal efecto señale el Servicio de Administración Tributaria del Estado de Sinaloa, así como dar aviso de los cambios de domicilio, giro, razón social, traspaso, clausura o suspensión de actividades dentro del plazo que las disposiciones fiscales señalen para ello, dichos avisos deberán presentarse dentro de los diez días siguientes de aquél en que se realicen los supuestos antes enumerados;
 
 III.- Presentar en el plazo que estipulan las leyes tributarias las declaraciones, informes o comunicaciones que se exijan para cada gravamen.
 
@@ -507,9 +587,11 @@ VII.- Conservar por 5 años, los comprobantes y sistemas de contabilidad, así c
 
 VIII.- Cumplir con las demás obligaciones que les señalen las leyes fiscales del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 63.
 
-Las personas físicas y morales que deban presentar declaraciones periódicas, deberán solicitar su inscripción ante la Secretaría de Hacienda Pública y Tesorería del Estado, y proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos que la misma dependencia proporcione o apruebe.
+Las personas físicas y morales que deban presentar declaraciones periódicas, deberán solicitar su inscripción en el Padrón de Contribuyentes del Estado ante el Servicio de Administración Tributaria del Estado de Sinaloa, y proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos que la misma dependencia proporcione o apruebe.
 
 ###### ARTICULO 64.
 
@@ -531,7 +613,9 @@ Quién promueve a nombre de otro deberá acreditar que la representación le fue
 
 Para el cumplimiento de las obligaciones que se establecen en el artículo anterior de este Código se observarán las siguientes reglas:
 
-I.- El empadronamiento y la presentación de avisos de clausura, de traspaso, de suspensión temporal, así como los de cambio de actividad, de domicilio y de razón o denominación social, deberán hacerse en las formas aprobadas por la Secretaría de Hacienda Pública y Tesorería, proporcionando los datos e informes que las mismas requieran. Cuando las disposiciones fiscales no señalen plazo para el cumplimiento de esta (sic) obligaciones, se tendrá por establecido el de 30 días siguientes a la fecha de realización del hecho de que se trate.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I.- El empadronamiento y la presentación de avisos de clausura, de traspaso, de suspensión temporal, así como los de cambio de actividad, de domicilio y de razón o denominación social, deberán hacerse en las formas aprobadas por el Servicio de Administración Tributaria del Estado de Sinaloa, proporcionando los datos e informes que las mismas requieran. Cuando las disposiciones fiscales no señalen plazo para el cumplimiento de estas obligaciones, se tendrá por establecido el de 30 días siguientes a la fecha de realización del hecho de que se trate; y,
 
 II.- Cuando en las disposiciones fiscales se disponga que los sujetos pasivos expidan o recaben documentación comprobatoria de las operaciones realizadas, ésta deberá contener los datos que señalen esas disposiciones y que serán los suficientes para identificar la operación de que se trate y la persona que la realice.
 
@@ -551,11 +635,15 @@ En los demás casos el silencio de las autoridades se considerará como resoluci
 
 Toda promoción que se presente ante las autoridades fiscales deberá estar firmada por el interesado o por quién esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
 
-Las promociones deberán presentarse preferentemente en las formas que al efecto apruebe la Secretaría de Hacienda Pública y Tesorería, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Las promociones deberán presentarse preferentemente en las formas que al efecto apruebe el Servicio de Administración Tributaria del Estado de Sinaloa, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
 
 I.- Constar por escrito.
 
-II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado al Registro Estatal de Contribuyentes.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado en el Padrón de Contribuyentes del Estado;
 
 III.- Señalar la autoridad a la que se dirige el propósito de la promoción; y
 
@@ -579,11 +667,15 @@ El contribuyente que habiendo efectuado el pago de una contribución determinada
 
 En ningún caso los intereses a cargo del fisco estatal excederán de los que se causen en cinco años.
 
-Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando éstos sean objeto de una sentencia ejecutoriada o sean firmes por cualquier otra causa, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente aún cuando la devolución ya hubiera sido solicitada. En este caso se notificará personalmente al contribuyente la resolución que efectúe la compensación.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros cuando estos sean objeto de una sentencia ejecutoriada o sean firmes por cualquier otra causa, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente aun cuando la devolución ya hubiera sido solicitada. En este caso se notificará personalmente al contribuyente la resolución que efectúe la compensación.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 72.
 
-Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión o de liquidación, de personas morales, que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el registro estatal de contribuyentes, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión a la Secretaría de Hacienda Pública y Tesorería dentro del mes siguiente a la autorización de la escritura.
+Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas en que se haga constar actas constitutivas, de fusión o de liquidación, de personas morales, que comprueben dentro del mes siguiente a la firma que han presentado solicitud de inscripción, o aviso de liquidación o de cancelación, según sea el caso, en el Padrón de Contribuyentes del Estado, de la persona moral de que se trate, debiendo asentar en su protocolo la fecha de su presentación; en caso contrario, el fedatario deberá informar de dicha omisión al Servicio de Administración Tributaria del Estado dentro del mes siguiente a la autorización de la escritura.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
 
@@ -651,6 +743,8 @@ V.- Las omisiones conocidas en la revisión, efectuada por el Contador Público,
 
 ### CAPITULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 73.
 
 Son autoridades fiscales para efectos del presente Código y demás ordenamientos fiscales:
@@ -665,35 +759,37 @@ III.- El Subsecretario de Ingresos.
 
 IV.- El Procurador Fiscal del Estado.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-V. El Director de Recaudación.
+V.- Las precisadas en la Ley del Servicio de Administración Tributaria del Estado de Sinaloa; y,
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-VI. El Director de Fiscalización; y
+VI.- Las precisadas en el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa.
 
-VII.- Los Recaudadores de Rentas de la Entidad.
+VII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 74.
 
-Las autoridades fiscales del Estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Sinaloa, el Reglamento Orgánico de la Administración Pública Estatal de Sinaloa, el Reglamento Interior de la Secretaría de Administración y Finanzas y las Leyes Fiscales del Estado, cumpliendo con los requisitos que para tal efecto se señalen.
+Las autoridades fiscales del Estado ejercerán su competencia en el territorio del mismo, conforme lo precisa este Código, demás leyes y ordenamientos aplicables. Para el cumplimiento de sus funciones y en ejercicio de sus facultades, podrán delegarlas, siempre que no se contravengan las disposiciones establecidas en la Ley Orgánica de la Administración Pública del Estado de Sinaloa, el Reglamento Orgánico de la Administración Pública Estatal de Sinaloa, la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa y demás ordenamientos jurídicos en materia fiscal del Estado, cumpliendo con los requisitos que para tal efecto se señalen.
 
 La delegación de facultades deberá publicarse en el Periódico Oficial "El Estado de Sinaloa".
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 75.
 
-La recaudación, administración, liquidación, verificación y vigilancia de las contribuciones y demás ingresos propios del Estado, estarán a cargo de las autoridades fiscales de acuerdo a las facultades que a las mismas le determine el Reglamento Interior de la Secretaría de Administración y Finanzas, así como de otros organismos o instituciones de crédito que la propia Secretaría les encomiende expresamente.
+La recaudación, administración, liquidación, verificación y vigilancia de las contribuciones y demás ingresos propios del Estado, estarán a cargo de las autoridades fiscales de acuerdo a las facultades que a las mismas le determine la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa y el Reglamento Interior de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa.
 
-Son autoridades competentes para ordenar la práctica de visitas domiciliarias y determinar créditos fiscales, el Secretario de Administración y Finanzas y el Subsecretario de Ingresos, además de aquellas que el Reglamento Interior de la citada Secretaría así lo determine.
+Son autoridades competentes para ordenar la práctica de visitas domiciliarias, revisiones de gabinete, determinar créditos fiscales y autorizar devoluciones, las precisadas en la Ley del Servicio de Administración Tributaria del Estado de Sinaloa y en el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 76.
 
-La Secretaría de Hacienda Pública y Tesorería con el objeto de simplificar las obligaciones de los contribuyentes, de facilitar la recaudación de los ingresos, y de hacer más efectivos y prácticos los sistemas de control fiscal, podrá dictar disposiciones de carácter general, sin contravenir en alguna forma las normas establecidas en las leyes fiscales. Dichas disposiciones sólo serán válidas si se publican en el Periódico Oficial del Estado.
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, por sí o a través del Servicio de Administración Tributaria del Estado de Sinaloa, con el objeto de simplificar las obligaciones de los contribuyentes, de facilitar la recaudación de los ingresos, y de hacer más efectivos y prácticos los sistemas de control fiscal, podrá dictar disposiciones de carácter general, sin contravenir en alguna forma las normas establecidas en las leyes fiscales. Dichas disposiciones sólo serán válidas si se publican en el Periódico Oficial "El Estado de Sinaloa".
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -703,7 +799,7 @@ Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsa
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-I. Rectificar los errores aritméticos, omisiones u otros, que aparezcan en las declaraciones, solicitudes o avisos, para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión de que se trate;
+I.- Rectificar los errores aritméticos, omisiones u otros, que aparezcan en las declaraciones, solicitudes o avisos, para lo cual las autoridades fiscales podrán requerir al contribuyente la presentación de la documentación que proceda, para la rectificación del error u omisión de que se trate;
 
 1.- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
@@ -717,27 +813,27 @@ I. Rectificar los errores aritméticos, omisiones u otros, que aparezcan en las 
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimiento o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad así como que proporcionen los datos, otros documentos o informes que se les requieran;
+II.- Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimiento o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad así como que proporcionen los datos, otros documentos o informes que se les requieran;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-III. Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías;
+III.- Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-IV. Revisar los dictámenes que formulen los contadores públicos sobre los estados financieros de los contribuyentes en relación con el cumplimiento de disposiciones fiscales estatales. Para tal efecto, los dictámenes de Contador Público, tendrán presunción de veracidad, en este caso se aplicará supletoriamente el Código Fiscal de la Federación en lo no previsto por este Código;
+IV.- Revisar los dictámenes que formulen los contadores públicos sobre los estados financieros de los contribuyentes en relación con el cumplimiento de disposiciones fiscales estatales. Para tal efecto, los dictámenes de Contador Público, tendrán presunción de veracidad, en este caso se aplicará supletoriamente el Código Fiscal de la Federación en lo no previsto por este Código;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-V. Requerir declaraciones y avisos, cuando las personas obligadas a presentarlos no lo hagan dentro del plazo señalado en las disposiciones fiscales;
+V.- Requerir declaraciones y avisos, cuando las personas obligadas a presentarlos no lo hagan dentro del plazo señalado en las disposiciones fiscales;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-VI. Ordenar la intervención con cargo a la caja o a la administración, en el domicilio o establecimiento de los contribuyentes, a efecto de comprobar y hacer efectivas las contribuciones que se causen, en aquellos casos en que hubiese presunción de que el contribuyente se ausente, enajene, oculte sus bienes o realice cualquier maniobra tendiente a evadir el pago del gravamen;
+VI.- Ordenar la intervención con cargo a la caja o a la administración, en el domicilio o establecimiento de los contribuyentes, a efecto de comprobar y hacer efectivas las contribuciones que se causen, en aquellos casos en que hubiese presunción de que el contribuyente se ausente, enajene, oculte sus bienes o realice cualquier maniobra tendiente a evadir el pago del gravamen;
 
-VII. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
+VII.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
-VIII. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
+VIII.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 IX.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones;
 
@@ -751,31 +847,31 @@ b).- El auxilio de la fuerza pública; y
 
 c).- La denuncia ante el Ministerio Público para la consignación respectiva por desobediencia a un mandato legítimo de autoridad competente.
 
-XI.- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique la Secretaría de Hacienda Pública y Tesorería, tendrán valor probatorio pleno salvo prueba en contrario; y la propia Secretaría, a través de los agentes hacendarios que designe, será coadyuvante del Ministerio Público en los términos del Código de Procedimientos Penales del Estado.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XII. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
+XI.- Allegarse de las pruebas necesarias a fin de que la Procuraduría Fiscal cuente con los elementos necesarios para denunciar al Ministerio Público, la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique el Servicio de Administración Tributaria del Estado de Sinaloa, tendrán valor probatorio pleno salvo prueba en contrario; y será coadyuvante del Ministerio Público en los términos del Código Nacional de Procedimientos Penales.
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XIII. Exigir de los contribuyentes, obligados solidarios y terceros, el cumplimiento de sus respectivas obligaciones que les imponga la legislación fiscal; y
+XII.- Exigir de los contribuyentes, obligados solidarios y terceros, el cumplimiento de sus respectivas obligaciones que les imponga la legislación fiscal; y,
 
-a).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-b).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
+XIII.- Aplicar el procedimiento administrativo de ejecución previsto en el presente Código.
 
-c).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
+XIV.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-XIV. Aplicar el procedimiento administrativo de ejecución previsto en el presente Código.
-
-XV. (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
+XV.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 XVI.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 XVII.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 XVIII.- (DEROGADA, P.O. 19 DE SEPTIEMBRE DE 2001)
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de subsidios y estímulos fiscales, las autoridades competentes podrán ejercer las facultades referidas en el presente artículo a fin de verificar el cumplimiento de los requisitos contenidos en las disposiciones legales que los regulan. Lo anterior, sin menoscabo de lo que se establezca en dichas disposiciones jurídicas.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -871,7 +967,9 @@ Si habiendo precedido citatorio la visita no se inicia con el visitado o su repr
 
 Cuando exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad;
 
-II.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual podrá ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial, cumpliendo al respecto con lo previsto en la fracción III del artículo 78 de este Código;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán a la última acta parcial que de la visita se haga, la cual podrá ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial, cumpliendo al respecto con lo previsto en la fracción III del artículo 78 de este Código;
 
 III.- Durante el desarrollo de la visita, los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen, siempre que dicho aseguramiento no impida la realización de las actividades del visitado. Para efectos de esta fracción, se considera que no se impide la realización de actividades, cuando se asegure contabilidad o correspondencia no relacionada con las actividades del mes en curso y los dos anteriores. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, debiendo dejar copia del mismo;
 
@@ -879,37 +977,95 @@ IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se
 
 Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales.
 
-Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si después del cierre del acta final y en el plazo que señala la fracción VIII de este artículo, el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentren en poder de una autoridad;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si después del cierre de la última acta parcial y en el plazo que señala la fracción VII de este artículo, el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que estos se encuentren en poder de una autoridad;
 
 V.- Cuando resulte imposible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal, podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia, excepto en el supuesto de que el visitado hubiere desaparecido del domicilio fiscal durante el desarrollo de la visita;
 
 VI.- Si en el cierre del acta final de la visita no estuviese presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente; si no se presentare, el acta final se levantará ante quien estuviese presente en el lugar visitado; en ese momento, cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entienda la diligencia y los testigos firmarán el acta, de la que se dejará copia al visitado. Si el visitado, o la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dichas circunstancias se asentarán en la propia acta sin que esto afecte la validez y el valor probatorio de la misma;
 
-VII.- Las actas parciales se entenderán, que forman parte integrante del acta final de la visita aunque no se señale así expresamente; y,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Dentro del acta final se le dará al contribuyente un término de 15 días hábiles para que proceda a hacer las observaciones que estime pertinentes sobre los hechos consignados en las actas de visita.
+VII.- Previo al estudio y análisis de la documentación e información requerida en la visita domiciliaria, procederá a levantar la última acta parcial en la que consignarán todos los hechos u omisiones conocidos durante el desarrollo de la misma y que pudieran entrañar incumplimiento a las disposiciones fiscales, otorgándole al contribuyente un plazo de 20 días hábiles para proporcionar la información, los documentos, libros o registros con los que cuente y desvirtúen los hechos y/u omisiones consignados por la autoridad fiscal u opte por corregir su situación fiscal;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Una vez valorada la información y documentación proporcionada por el contribuyente dentro del plazo previsto en la fracción anterior, la autoridad fiscal procederá al levantamiento del acta final; y,
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IX.- Las actas parciales se entenderán que forman parte integrante, del acta final de la visita, aunque no se señale así expresamente.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 78 BIS-B.- Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes dentro de un plazo máximo de seis meses; o la revisión de la contabilidad de los mismos, que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de seis meses. Ambos plazos contarán a partir de que se notifique al contribuyente el inicio de las facultades de comprobación.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Los plazos a que se refiere el párrafo anterior, podrán ampliarse por un periodo adicional de seis meses, siempre que el oficio mediante el cual se ordena la prórroga correspondiente, haya sido expedido por la autoridad o autoridades fiscales que ordenaron la visita o la revisión. En este caso, el plazo se entenderá prorrogado a partir del vencimiento del plazo previsto en al párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Los plazos para concluir las visitas domiciliarias o las revisiones de la contabilidad en las oficinas de la autoridad a que se refiere el primer párrafo de este artículo, y la prórroga a la que se refiere el párrafo anterior, sólo podrán suspenderse en los siguientes casos:
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
-ARTICULO 78 BIS-B.- Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes dentro de un plazo máximo de tres meses; o la revisión de la contabilidad de los mismos, que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de un mes. Ambos plazos contarán a partir de que se notifique al contribuyente el inicio de las facultades de comprobación.
-
-Los plazos a que se refiere el párrafo anterior, podrán ampliarse por dos meses hasta por dos ocasiones, siempre que el oficio mediante el cual se ordena la prórroga correspondiente, haya sido expedido, en la primera ocasión por la autoridad o autoridades fiscales que ordenaron la visita o revisión y, en la segunda, por el superior jerárquico de la autoridad o autoridades fiscales que ordenaron la citada visita o revisión. En su caso, dicho plazo se entenderá prorrogado hasta que transcurra el término a que se refiere el segundo párrafo de la fracción IV del artículo 78 BIS-A de este Código.
-
-Los plazos para concluir las visitas domiciliarias o las revisiones de la contabilidad en las oficinas de la autoridad a que se refiere el primer párrafo de este artículo, y los plazos de las prórrogas que procedan conforme a este artículo, se suspenderán en los casos de:
-
 a).- Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga;
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 b).- Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión;
 
-c).- Cambio de domicilio fiscal del contribuyente, cuando no presente el aviso correspondiente o no se encuentre el que haya señalado, hasta que se localice; y,
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+c).- Cambio de domicilio fiscal del contribuyente, cuando no presente el aviso correspondiente o no se encuentre el que haya señalado, hasta que se localice;
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 d).- Interposición de algún medio de defensa contra actos que deriven del ejercicio de sus facultades de comprobación, desde la fecha en que se interpongan hasta que se dicte resolución definitiva de los mismos.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+e).- Si el contribuyente omite atender el requerimiento de información, datos o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que el contribuyente conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses.
+
+En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+f).- Impedimento de la autoridad fiscal para continuar con el ejercicio de las facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca. Situación que deberá ser publicada en el Periódico Oficial "El Estado de Sinaloa" y en la página de Internet del Servicio de Administración Tributaria del Estado de Sinaloa;
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+g).- Cuando el contribuyente no se localice al iniciar la revisión de gabinete, hasta que sea localizado; y/o,
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+h).- Cuando el contribuyente no se localice durante el transcurso de la revisión de gabinete, desde el momento de su desaparición y hasta en tanto sea localizado.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
 Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones, o en su caso el de conclusión de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 De la misma manera quedarán sin efectos la orden y las actuaciones que de ella se derivaron durante la visita, revisión o ejercicio de facultades de comprobación, si la autoridad no emite y notifica personalmente al contribuyente dentro de un plazo de tres meses contados a partir de la fecha en que se levante el acta final de la visita o tratándose de revisión en el domicilio de la autoridad, de que se notifique el oficio de observaciones, resolución que determine el resultado de la revisión.
 
-Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa contra el acta final de visita o del oficio de observaciones de que se trate, dicho plazo se suspenderá, desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Si el contribuyente no corrige totalmente su situación fiscal, conforme a la última acta parcial, la autoridad emitirá el acta final y posteriormente la resolución que determine las contribuciones o aprovechamientos omitidos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Por su parte, en la revisión de gabinete, si el contribuyente no corrige totalmente su situación fiscal conforme al oficio de observaciones, o no desvirtúe los hechos u omisiones consignados en dicho documento, la autoridad fiscalizadora emitirá la resolución que determine las contribuciones o aprovechamientos omitidos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En ambos casos, la resolución deberá ser notificada personalmente al contribuyente en un plazo máximo de 3 meses, contados a partir de la fecha en que se levante el acta final de la visita o, tratándose de revisión en el domicilio de la autoridad, a partir de que se cumpla el plazo previsto en la fracción VI del artículo 78 Bis-D del presente Código.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Si durante el término para emitir la resolución, al que se refiere el párrafo que antecede, los contribuyentes interponen algún medio de defensa contra el acta final de visita o del oficio de observaciones de que se trate, dicho plazo se suspenderá, desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -923,9 +1079,19 @@ En el caso de conclusión anticipada a que se refiere este artículo, se deberá
 
 ARTICULO 78 BIS-D.- Cuando las autoridades fiscales soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
-I.- La solicitud se notificará en el domicilio manifestado ante el registro de contribuyentes por la persona a quien va dirigida, y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde ésta se encuentre. Si al presentarse el notificador en el lugar donde deba de practicarse la diligencia, no estuviere la persona a quien va dirigida la solicitud o su representante legal, se dejará citatorio con la persona que se encuentre en dicho lugar, para que el contribuyente, responsable solidario, tercero o representante legal lo esperen a hora determinada del día siguiente para recibir la solicitud; si no lo hiciere la solicitud se notificará con quien se encuentre en el domicilio señalado en la misma;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-II.- En la solicitud se indicará el lugar en el cual se deban proporcionar los informes y documentos, concediéndole un plazo de 15 días para su entrega;
+I.- La solicitud se notificará en el domicilio manifestado ante el Padrón de Contribuyentes del Estado por la persona a quien va dirigida, y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde ésta se encuentre. Si al presentarse el notificador en el lugar donde deba de practicarse la diligencia, no estuviere la persona a quien va dirigida la solicitud o su representante legal, se dejará citatorio con la persona que se encuentre en dicho lugar, para que el contribuyente, responsable solidario, tercero o representante legal lo esperen a hora determinada del día siguiente para recibir la solicitud; si no lo hiciere, la solicitud se notificará con quien se encuentre en el domicilio señalado en la misma;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II.- Para la presentación de la información y documentación requerida, se tendrán los siguientes plazos:
+
+a) Respecto de los libros y registros que formen parte de su contabilidad, solicitados en el transcurso de una visita, deberán presentarse de inmediato.
+
+b) Cuando los documentos sean de los que deba tener en su poder el contribuyente y le sean solicitados durante el desarrollo de una visita, tendrá seis días hábiles para su presentación, contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva.
+
+En los casos distintos a los incisos anteriores, el contribuyente contará con quince días hábiles, contados a partir del día siguiente a aquél en que surta efectos la notificación de la solicitud respectiva.
 
 III.- Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante, debiendo acreditar plenamente esta circunstancia;
 
@@ -933,7 +1099,9 @@ IV.- Como consecuencia de la revisión de los informes, datos, documentos o cont
 
 V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión de gabinete de los documentos presentados;
 
-VI.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción, el contribuyente o responsable solidario contará con un plazo de 10 días, contados a partir del día siguiente a aquél en el que se le notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VI.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción, el contribuyente o responsable solidario contará con un plazo de 20 días, contados a partir del día siguiente a aquél en el que se le notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal.
 
 Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo probatorio el contribuyente no presenta documentación comprobatoria que los desvirtúe.
 
@@ -979,6 +1147,44 @@ Respecto de la revisión efectuada las autoridades fiscales deberán levantar un
 
 ARTICULO 78 BIS-G.- Cuando el Contador Público no dé cumplimiento a las disposiciones establecidas en este Código y en el instructivo que al afecto (sic) se publique, las autoridades fiscales estarán facultadas para rechazar durante un período de tres años los dictámenes formulados por él. En caso de reincidencia, no se volverá a aceptar ningún dictamen.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 78 BIS-H.- Las autoridades fiscales podrán determinar presuntivamente el monto de las contribuciones a cargo de los contribuyentes, valor de actos o actividades y erogaciones, cuando:
+
+I. Se opongan u obstaculicen la iniciación o el desarrollo de las facultades de comprobación de las autoridades fiscales, u omitan presentar declaraciones de cualquier contribución hasta el momento en que se inicie el ejercicio de dichas facultades y siempre que haya transcurrido más de un mes desde el día en que venció el plazo para la presentación de la declaración de que se trate;
+
+II. No proporcione la información que la autoridad fiscal le solicite, su contabilidad, comprobantes, registros y demás documentos que la integren;
+
+III. No presenten los libros y registros de contabilidad, la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones, o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales;
+
+IV. Omisión del registro de operaciones o ingresos, valor de actos o actividades y erogaciones por más de tres por ciento sobre los declarados en el periodo objeto de revisión; y,
+
+V. Se adviertan otras irregularidades en su contabilidad que imposibiliten el conocimiento de sus operaciones.
+
+La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
+
+a) Para los efectos de la determinación presuntiva, las autoridades fiscales calcularán las contribuciones omitidas, valor de actos y erogaciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
+
+1. Utilizando los datos de la contabilidad del contribuyente;
+
+2. Tomando como base los datos contenidos en las declaraciones del periodo objeto de revisión;
+
+3. Con otra información obtenida por la autoridad fiscal en el ejercicio de sus facultades de comprobación; y,
+
+4. Con la información proporcionada por el Instituto Mexicano del Seguro Social derivada de los convenios de coordinación para el intercambio de información.
+
+b) Las autoridades fiscales podrán determinar presuntivamente en los mismos términos que han quedado descritos en el párrafo anterior, las contribuciones que se debieron haber retenido, cuando aparezca omisión en la retención o traslado y el entero, por más del tres por ciento sobre las retenciones enteradas. Para efectos de la determinación presuntiva a que se refiere este artículo, las autoridades fiscales podrán utilizar indistintamente cualquiera de los procedimientos previstos en el presente numeral.
+
+c) Para la comprobación de los ingresos, valor de actos o actividades, erogaciones, así como de las contribuciones omitidas, las autoridades fiscales presumirán, salvo prueba en contrario:
+
+1. Que la información contenida en la contabilidad, documentación comprobatoria y correspondencia que se encuentren en poder del contribuyente, pertenece o tiene relación con operaciones celebradas por éste, aun cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente;
+
+2. Que la información contenida en los sistemas de contabilidad a nombre del contribuyente, localizada en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponden a operaciones del contribuyente;
+
+3. Que los depósitos en la cuenta o cuentas bancarias del contribuyente que no correspondan a registros de su contabilidad que esté obligado a llevar, son ingresos, valor de actos o actividades por los que se deben pagar contribuciones; y,
+
+4. Que son ingresos, valor de actos o actividades o erogaciones del contribuyente por los que deben pagar contribuciones, los depósitos hechos en cuenta o cuentas de cheques personales de los gerentes, administradores o terceros, cuando efectúen pagos de deudas del contribuyente con cheques de dichas cuentas o depositen o retiren en la (sic) mismas, cantidades que correspondan al contribuyente y éste no los registre en contabilidad.
+
 ###### ARTICULO 79.
 
 Las autoridades fiscales proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
@@ -1007,11 +1213,13 @@ Las autoridades fiscales sólo están obligadas a contestar las consultas que so
 
 Los funcionarios fiscales facultados debidamente podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial "El Estado de Sinaloa".
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 82.
 
-Las resoluciones administrativas de carácter individual favorable a un particular sólo podrán ser modificadas por el Tribunal de lo Contencioso Administrativo del Estado mediante juicio iniciado por las autoridades fiscales.
+Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal de Justicia Administrativa del Estado, mediante juicio iniciado por las autoridades fiscales.
 
-Cuando la Secretaría de Hacienda Pública y Tesorería modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
+Cuando el Servicio de Administración Tributaria del Estado de Sinaloa modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
 
 ###### ARTICULO 83.
 
@@ -1025,21 +1233,53 @@ Cuando se requiera al promovente que cumpla los requisitos omitidos o proporcion
 
 Cuando al verificar el cumplimiento de las obligaciones fiscales de los sujetos pasivos o responsables solidarios, sea necesario recabar de los propios responsables o de terceros, datos, informes o documentos relacionados con los hechos que se deban comprobar, una vez realizada la compulsa, la autoridad fiscal hará saber sus resultados a dichos sujetos pasivos o responsables solidarios para que dentro de los cinco días hábiles siguientes manifiesten lo que a sus intereses convenga.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 85.
 
-La Secretaría de Hacienda Pública y Tesorería podrá celebrar convenios con los sujetos pasivos a fin de determinar estimativamente la base gravable a las que aplicarán las tasas, cuotas o tarifas que señalen las leyes fiscales para el pago de sus contribuciones a cuota fija.
+La Secretaría de Administración y Finanzas, a través del Servicio de Administración Tributaria del Estado de Sinaloa, podrá celebrar convenios con los sujetos pasivos a fin de determinar estimativamente la base gravable a las que aplicarán las tasas, cuotas o tarifas que señalen las leyes fiscales para el pago de sus contribuciones en parcialidades.
 
-La vigencia de los convenios estará limitada a la del año de calendario en que se celebren, pero podrán ser prorrogados anualmente cuando a juicio de la Secretaría de Hacienda Pública y Tesorería subsistan las condiciones jurídicas o de hecho que las hayan motivado.
+La vigencia de los convenios estará limitada a la del año de calendario en que se celebren, pero podrán ser prorrogados anualmente cuando a juicio del Servicio de Administración Tributaria del Estado de Sinaloa subsistan las condiciones jurídicas o de hecho que las hayan motivado.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 86.
 
-Las facultades de las autoridades fiscales de la Secretaría de Hacienda Pública y Tesorería para determinar la existencia de obligaciones fiscales, señalar sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento de dichas disposiciones, se extinguen en el término de cinco años, no sujeto a interrupción ni suspensión. Dicho término empezará a correr a partir:
+Las facultades de las autoridades fiscales para determinar la existencia de obligaciones fiscales, imponer sanciones por infracciones a las disposiciones fiscales, así como para verificar el cumplimiento de dichas disposiciones, se extinguen en el término de cinco años. Dicho término empezará a correr a partir:
 
 I.- Del día siguiente en que se hubiese vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones y avisos.
 
 II.- Del día siguiente al en que se produjo el hecho generador del crédito fiscal, si no existiera obligación de presentar declaraciones, manifestaciones o avisos; y
 
 III.- Del día siguiente al en que se hubiese cometido la infracción a las disposiciones fiscales, pero si la infracción fuere de carácter continuo, el término correrá a partir del día siguiente al en que hubiese cesado. Las facultades de las autoridades de la Secretaría para investigar hechos de delito en materia fiscal, no se extinguirán conforme a este artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+El plazo a que se refiere el presente artículo será de diez años, cuando el sujeto obligado no haya presentado su solicitud de registro en el Padrón de Contribuyentes del Estado, no lleve contabilidad o no la conserve durante el plazo que establece este Código, así como por los ejercicios en que no presente alguna declaración del ejercicio, estando obligado a presentarlas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+El plazo al que se refiere el presente artículo, se suspenderá únicamente cuando se actualice alguno de los siguientes supuestos:
+
+a) Que la autoridad fiscal ejerza facultades de comprobación. En este caso, el plazo se entenderá suspendido a partir de su inicio y hasta que se emita la resolución correspondiente o cuando concluya el plazo que establece el penúltimo párrafo del artículo 78-Bis-B de este Código, para emitirla. De no emitirse la resolución, se entenderá que no hubo suspensión.
+
+b) Que el contribuyente interponga algún medio de defensa en contra de actos o resoluciones de la autoridad fiscal. El plazo de caducidad se reanudará una vez que se emita resolución firme en el medio de defensa correspondiente.
+
+c) Cuando la autoridad fiscal no pueda iniciar el ejercicio de facultades de comprobación en virtud de que el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso correspondiente.
+
+d) Cuando el contribuyente haya señalado de forma incorrecta su domicilio fiscal.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En los supuestos a los que se refieren los incisos c) y d) que anteceden, el cómputo del plazo de caducidad se reiniciará una vez que sea localizado el contribuyente.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Las facultades de las autoridades fiscales para investigar hechos constitutivos de delito en materia fiscal, no se extinguirán conforme a este artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Transcurridos los plazos a que se refiere el presente artículo, el contribuyente podrá solicitar que se declare que se han extinguido las facultades de las autoridades fiscales.
 
 ###### ARTICULO 87.
 
@@ -1061,9 +1301,11 @@ III.- Conceder subsidios o estímulos fiscales.
 
 Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 90.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, la Secretaría de Hacienda Pública y Tesorería exigirá la presentación del documento respectivo ante las oficinas correspondientes, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
+Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, la autoridad competente exigirá la presentación del documento respectivo, procediendo en forma simultánea o sucesiva a realizar uno o varios de los actos siguientes:
 
 I.- Tratándose de la omisión en la presentación de tres declaraciones periódicas para el pago de contribuciones, ya sea provisional o del ejercicio, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión, una cantidad igual a la contribución que hubiese determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o la que resulte para dichos períodos de la determinación formulada por la autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsecuente para el pago de contribuciones propias o retenidas. Esta cantidad a pagar tendrá el carácter de pago provisional y no libera a los obligados de presentar la declaración omitida.
 
@@ -1093,7 +1335,7 @@ El personal oficial que intervenga en los diversos trámites relativos a la apli
 
 ###### ARTICULO 93.
 
-El Secretario de Hacienda Pública y Tesorería, el Subsecretario de Ingresos y los Recaudadores de Rentas del Estado, como autoridades fiscales de la Secretaría de Hacienda Pública y Tesorería son las facultadas para determinar que se ha cometido una infracción a las disposiciones fiscales y las contenidas en este capítulo y lo son también para imponer las sanciones procedentes que establezca el presente Código.
+El Secretario de Administración y Finanzas, el Director General del Servicio de Administración Tributaria del Estado de Sinaloa y las autoridades fiscales previstas en la Ley del Servicio de Administración Tributaria del Estado de Sinaloa y en el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa, son las autoridades facultadas para determinar que se ha cometido una infracción a las disposiciones fiscales y las contenidas en este capítulo y, lo son también, para imponer las sanciones procedentes que establezca el presente Código.
 
 ###### ARTICULO 94.
 
@@ -1127,7 +1369,9 @@ VI.- La autoridad fiscal se abstendrá de imponer sanciones cuando se haya incur
 
 Son infracciones cuya responsabilidad corresponde a los sujetos pasivos de una obligación fiscal; y a cada uno corresponderá la sanción que en cada caso se señala:
 
-I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el registro de causantes todas las actividades por las que sea contribuyente habitual o no citar su número de registro de contribuyentes en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquiera oficina o autoridades fiscales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el Padrón de Contribuyentes del Estado todas las actividades por las que sea contribuyente habitual, o no citar su registro de contribuyentes en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridad fiscal.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -1135,145 +1379,91 @@ Multa de uno hasta diez veces el valor diario de la Unidad de Medida y Actualiza
 
 Si el registro se hace en forma espontánea no importando que sea fuera de plazo, no se aplicará la multa.
 
-II.- Obtener o usar más de un número de registro para el cumplimiento de las obligaciones a su cargo en relación con uno o más impuestos estatales.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+II.- No obtener oportunamente los permisos, placas, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalan dichas disposiciones o no devolverlos oportunamente dentro del plazo que las mismas disposiciones establecen.
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+Multa de uno hasta diez veces el valor diario de la unidad de medida y actualización.
 
-III.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos correspondientes.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+III.- No llevar los sistemas de contabilidad que requieran las disposiciones fiscales; llevarlos en forma contraria a las disposiciones fiscales aplicables; no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos o inexactos o fuera de los plazos respectivos.
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+Multa de cinco hasta veinte veces el valor diario de la unidad de medida y actualización.
 
-IV.- No obtener oportunamente los permisos, placas, boletas de registro, o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalan dichas disposiciones o no devolverlos oportunamente dentro del plazo que las mismas disposiciones establecen.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+IV.- No presentar los asientos o sistemas de contabilidad, cuando lo exigen las disposiciones fiscales.
 
-Multa de uno hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+Multa de uno hasta diez veces el valor diario de la unidad de medida y actualización.
 
-V.- Perforar o destruir sin estar facultados, los cierres de control que determinan las leyes fiscales, o desprenderlos de los barriles, botellas, botes o demás vasijas que contengan los productos gravados; o alterar o destruir los cordones, envolturas o sellos oficiales.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+V.- No proporcionar oportunamente a las autoridades los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas.
 
-Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
+Multa de cinco hasta veinte veces el valor diario de la unidad de medida y actualización.
 
-VI.- No llevar los sistemas de contabilidad que requieran las disposiciones fiscales federales; llevarlos en forma distinta como estas prescriben; no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos o fuera de los plazos respectivos.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+VI.- No presentar o no proporcionar o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, no comprobarlo o no aclararlos cuando las autoridades fiscales lo soliciten.
 
-Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
+Multa de cinco a diez veces el valor diario de la unidad de medida y actualización.
 
-VII.- Llevar doble contabilidad.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
-
-VIII. Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquiera anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
-
-IX.- Destruir o inutilizar los asientos contables cuando no haya transcurrido el plazo durante el cual conforme a la ley deben conservar.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
-
-X.- No presentar los asientos o sistemas de contabilidad, cuando lo exigen las disposiciones fiscales.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de uno hasta diez veces el valor diario de la Unidad de Medida y Actualización.
-
-XI.- No proporcionar oportunamente a las autoridades los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
-
-XII.- Faltar a la obligación de extender recibos, facturas o cualesquiera otro documento que señalen las leyes fiscales. No exigirlos cuando tengan la obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
-
-XIII.- No presentar o no proporcionar o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, no comprobarlo o no aclararlos cuando las autoridades fiscales lo soliciten.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de cinco a diez veces el valor diario de la Unidad de Medida y Actualización.
-
-XIV.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, o documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
-
-XV.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, o documentos a que se refieren las dos fracciones anteriores, alterados o falsificados.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
-
-XVI.- Declarar ingresos menores de los percibidos, hacer deducciones derivadas de hechos falsos, o que no están autorizadas o que no reúnan los requisitos exigidos por las disposiciones fiscales; ocultar u omitir bienes o existencias que deban figurar en los inventarios, o listarlos a precios inferiores de los reales; no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que éstas dispongan.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
-
-XVII.- No pagar los impuestos o derechos dentro de los plazos señalados por las Leyes fiscales.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+VII.- No pagar los impuestos o derechos dentro de los plazos señalados por las leyes fiscales.
 
 Multa del 50% al 100% de la prestación fiscal.
 
-XVIII.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitud, simulaciones, falsificaciones y otras maniobras.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+VIII.- Resistirse por cualquier medio, a las visitas de inspección; no suministrar los datos e informes que legalmente puedan exigir inspectores, auditores o visitadores; no mostrar los sistemas de contabilidad, documentos, registros o impedir acceso a los almacenes, depósitos, tinacales, bodegas o cualquier otra dependencia y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita;
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+Multa de veinte hasta cien veces el valor diario de la unidad de medida y actualización.
 
-XIX.- Emplear para el pago de una prestación fiscal marbetes de clase o leyenda distinta de las previstas en las disposiciones respectivas.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+IX.- No conservar documentos y correspondencia que le sean dejados en calidad de depositario, por los visitadores, inspectores o auditores al estarse practicando visitas domiciliarias.
 
-Multa de tres hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+Multa de diez hasta cincuenta veces el valor diario de la unidad de medida y actualización.
 
-XX.- Expender marbetes o traficar con ellos sin autorización legal; adquirir marbetes de emisión fenecida o traficar con ellos, emplear para el pago de créditos fiscales marbetes que no correspondan a la época en que debió hacerse el pago.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+X.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
 
-Multa de uno hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+Multa de uno hasta diez veces el valor diario de la unidad de medida y actualización.
 
-XXI.- Resistirse por cualquier medio, a las visitas de inspección; no suministrar los datos, e informes que legalmente puedan exigir inspectores, auditores o visitadores; no mostrar los sistemas de contabilidad, documentos, registros o impedir acceso a los almacenes, depósitos, tinacales, bodegas o cualquier otra dependencia y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+XI.- No presentar el Dictamen de Obligaciones Fiscales Estatales en los términos del artículo 78 BIS-C de este Código.
 
-Multa de veinte hasta cien veces el valor diario de la Unidad de Medida y Actualización.
+Multa de diez hasta cincuenta veces el valor diario de la unidad de medida y actualización.
 
-XXII.- No conservar documentos y correspondencia que le sean dejados en calidad de depositario, por los visitadores, inspectores o auditores al estarse practicando visitas domiciliarias.
+XII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+XIII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+XIV.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-XXIII.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
+XV.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+XVI.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-Multa de uno hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+XVII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+XVIII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-XXIV. No presentar el Dictamen de Obligaciones Fiscales Estatales en los términos del artículo 78 BIS-C de este Código.
+XIX.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+XX.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+XXI.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
+
+XXII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
+
+XXIII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
+
+XXIV.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 98.
 
@@ -1285,157 +1475,97 @@ I.- No expedir las notas de liquidación de alguna prestación fiscal, aún en l
 
 Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-II.- Expedir las notas a que se refiere la fracción anterior en forma que de lugar a la evasión total o parcial del gravamen.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+II.- Autorizar actos o contratos de enajenación o traspaso de negociaciones, de disolución por la Ley, sin cerciorarse previamente de que se esté al corriente en las obligaciones fiscales, o sin dar los avisos que prevengan las leyes de la materia.
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+Multa de dos hasta diez veces el valor diario de la unidad de medida y actualización.
 
-III.- Autorizar actos o contratos de enajenación o traspaso de negociaciones; de disolución por la Ley, sin cerciorarse previamente de que se esté al corriente en las obligaciones fiscales, o sin dar los avisos que prevengan las leyes de la materia.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+III.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo en el plazo que fijen las disposiciones fiscales o cuando lo exijan las autoridades competentes, o presentarlos de manera incompleta o inexacta.
 
-Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+Multa de una hasta diez veces el valor diario de la unidad de medida y actualización.
 
-IV.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+IV.- Resistirse por cualquier medio, a las visitas de auditores o inspectores; no suministrar los datos o informes que legalmente exijan los auditores, visitadores o inspectores; no mostrarles los libros, documentos, registros y, en general, los elementos necesarios para la práctica de la visita.
 
-Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+Multa de dos hasta diez veces el valor diario de la unidad de medida y actualización.
 
-V.- Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+V.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
 
-Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
+Multa de una hasta diez veces el valor diario de la unidad de medida y actualización.
 
-VI.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento.
+VI.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+VII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+VIII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-VII.- Cooperar con los infractores o facilitarles en cualquier forma la omisión total o parcial del pago de contribuciones mediante alteraciones, ocultaciones u otros hechos u omisiones.
+IX.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
-
-VIII.- Resistirse, por cualquier medio, a las visitas de auditores o inspectores, no suministrar los datos o informes que legalmente puedan exigir los auditores, visitadores o inspectores; no mostrarles los libros, documentos, registros y, en general, los elementos necesarios para la práctica de la visita.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
-
-IX.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 99.
 
-Son infracciones cuya responsabilidad corresponde a los funcionarios y empleados públicos del Estado, así como a los encargados al servicio público u órganos oficiales de la misma Entidad, y a cada uno corresponderá la sanción que en cada caso se señala:
+Son infracciones cuya responsabilidad corresponde a los servidores públicos del Estado, así como a los encargados del servicio público y órganos oficiales de la misma entidad, y a cada uno corresponderá la sanción que en cada caso se señala:
 
-I.- Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general no cuidar el cumplimiento de las disposiciones fiscales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+I.- No prestar auxilio y colaboración a las autoridades fiscales estatales para la determinación y cobro de las prestaciones fiscales.
 
-Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Esta responsabilidad será exigible aun cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo.
+Multa de dos hasta diez veces el valor diario de la unidad de medida y actualización.
 
-II.- Extender actas, expedir certificados legalizar firmas, autorizar documentos inscribirlos o registrarlos cuando no exista constancia de que se pagó el impuesto o derecho correspondiente.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+II.- No suministrar los datos, documentación o informes que legalmente requieran las autoridades fiscales estatales, en uso de sus facultades de comprobación o presentarlos incompletos o con datos inexactos.
 
-III.- Recibir el pago de una prestación fiscal y no enterar su importe dentro de los plazos legales.
+Multa de dos hasta diez veces el valor diario de la unidad de medida y actualización.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Multa de diez hasta cien veces el valor diario de la Unidad de Medida y Actualización. Esta sanción se aplicará sin perjuicio de la sanción penal que corresponda.
+III.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
 
-IV.- No exigir el pago total de las contribuciones causadas.
+Multa de una hasta diez veces el valor diario de la unidad de medida y actualización.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+IV.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+V.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-V.- No presentar o no proporcionar, o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos y no prestar auxilio y colaboración a las autoridades fiscales para la determinación y cobro de las prestaciones fiscales.
+VI.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+VII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+VIII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-VI.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados.
+IX.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+X.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+XI.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-VII.- Alterar documentos fiscales que tengan en su poder.
+XII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+XIII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+XIV.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-VIII.- Asentar falsamente que se dio cumplimiento a las disposiciones fiscales o que se practicaron visitas de auditoría o inspección o incluir datos falsos en las actas relativas.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
-
-IX.- No practicar las visitas de inspección cuando tengan la obligación de hacerlo.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
-
-X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
-
-XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozca, revelar los datos declarados por los contribuyentes o aprovecharse de ellos.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
-
-Para los efectos de esta infracción, los representantes de los causantes que integren los organismos fiscales autónomos, se asimilan a los empleados o funcionarios Públicos.
-
-XII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento cooperar en cualquier forma para que se eludan las prestaciones fiscales.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
-
-XIII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos o informes que legalmente puedan exigir los inspectores, auditores o visitadores; no mostrar los documentos, registros, o locales y en general negarse a proporcionar los elementos que se requieran en relación con el objeto de la visita.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
-
-XIV.- Exigir bajo el título de cooperaciones, colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias del cargo.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
-
-XV.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+XV.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 100.
 
 Son infracciones cuya responsabilidad recae sobre terceros, y a cada uno corresponderá la sanción que en cada caso se señala:
 
-I.- No inscribirse en el Registro Estatal de Causantes, o consentir o tolerar que se inscriban a su nombre en dicho registro negociaciones ajenas o percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto último origine la evasión de contribuciones.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I.- No inscribirse en el Padrón de Contribuyentes del Estado, o consentir o tolerar que se inscriban a su nombre en dicho registro negociaciones ajenas;
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -1447,77 +1577,49 @@ II.- No proporcionar avisos, informes, datos o documentos o no exhibirlos en el 
 
 Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-III.- Presentar los avisos, informes, datos o documentos de que se habla en la fracción anterior, alterados, falsificados, incompletos o inexactos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+III.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos;
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-IV.- Proporcionar los avisos, datos, informes o documentos a que se refieren las fracciones anteriores, alterados o falsificados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IV.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de acuerdo con las disposiciones fiscales;
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-V.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+V.- Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos e informes que legalmente puedan exigir los visitadores, auditores o inspectores, no mostrar los documentos, registros, bodegas, depósitos, locales o cajas de valores y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal de los contribuyentes con quienes haya efectuado operaciones, en relación con el objeto de la visita.
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+Multa de veinte hasta cien veces el valor diario de la unidad de medida y actualización.
 
-VI.- Contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+VI.- Infringir disposiciones fiscales en forma distinta de la prevista en las fracciones precedentes.
 
-Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+Multa de una hasta diez veces el valor diario de la unidad de medida y actualización.
 
-VII.- Ser cómplice en cualquier forma no prevista, la comisión de infracciones fiscales.
+VII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+VIII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+IX.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-VIII.- No enterar total o parcialmente el importe de las prestaciones fiscales retenidas, recaudadas o que debieron de retener o recaudar, dentro de los plazos que establezcan las disposiciones fiscales.
+X.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+XI.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+XII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas.
+XIII.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
-
-X.- Adquirir, ocultar retener o enajenar productos, mercancías o artículos, a sabiendas de que no se cubrieron las contribuciones que en relación con los mismos se hubiesen debido pagar.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
-
-XI.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de acuerdo con las disposiciones fiscales.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
-
-XII.- Alterar o destruir los cordones, envolturas o sellos oficiales.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
-
-XIII.- Resistirse por cualquier medio a las visitas domiciliarias; no suministrar los datos e informes que legalmente puedan exigir los visitadores, auditores o inspectores, no mostrar los documentos, registros, bodegas, depósitos, locales o cajas de valores y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal de los contribuyentes con quienes haya efectuado operaciones, en relación con el objeto de la visita.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de veinte hasta cien veces el valor diario de la Unidad de Medida y Actualización.
-
-XIV.- Infringir disposiciones fiscales en forma distinta de la prevista en las fracciones precedentes.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
-
-Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
+XIV.- (DEROGADA, P.O. 22 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 101.
 
@@ -1537,13 +1639,17 @@ II.- Los que participen en las tareas de asistencia al contribuyente previstas p
 
 La infracción en cualquier forma a las disposiciones fiscales, diversas a las previstas en este capítulo, se sancionará con multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 103.
 
-Si al cometer una infracción a las leyes fiscales se ha incurrido en responsabilidad penal por la comisión de un delito, las autoridades fiscales que tengan conocimiento de la comisión, harán la querella relativa al Ministerio Público para los efectos a que haya lugar.
+Si al cometer una infracción a las leyes fiscales se ha incurrido en responsabilidad penal por la comisión de un delito, las autoridades fiscales que conozcan de la comisión, lo harán del conocimiento a la Procuraduría Fiscal para que formule la querella respectiva ante el Ministerio Público, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 104.
 
-La reincidencia en la comisión de infracciones que tengan como consecuencia la evasión de créditos fiscales se sancionará, la primera vez, con la aplicación de la multa procedente mas un 50%, la segunda vez, con la multa procedente más un 100%.
+La reincidencia en la comisión de infracciones que tengan como consecuencia la evasión de créditos fiscales se sancionará, la primera vez, con la aplicación de la multa procedente más un 50%, la segunda vez, con la multa procedente más un 100%.
 
 ###### ARTICULO 105.
 
@@ -1567,6 +1673,8 @@ El Gobernador del Estado podrá mediante acuerdo expreso establecer fondos con m
 
 ### CAPITULO UNICO. DE LOS RECURSOS ADMINISTRATIVOS
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 106.
 
 Se entiende por delito fiscal la conducta típica, antijurídica y culpable descrita como tal en este Código, cuyas consecuencias jurídicas son aplicables a quienes en materia fiscal cometan actos u omisiones dolosas, que conlleven a un daño o posible daño en perjuicio de los intereses del fisco estatal.
@@ -1575,67 +1683,255 @@ Se entiende por delito fiscal la conducta típica, antijurídica y culpable desc
 
 En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas, con arreglo a las leyes fiscales, harán efectivas las contribuciones omitidas, los recargos y las sanciones administrativas correspondientes, sin que ello afecte al procedimiento penal.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 108.
 
-Cuando la autoridad fiscal tenga conocimiento de la probable existencia de un delito de los previstos en este Código de inmediato lo hará del conocimiento del Ministerio Público del Fuero Común para los efectos legales que procedan, aportándole las actuaciones y pruebas que se hubiesen allegado.
+Cuando la autoridad fiscal tenga conocimiento de la probable existencia de un delito de los previstos en este Código, de inmediato lo hará del conocimiento a la Procuraduría Fiscal del Estado de Sinaloa, aportándole las actuaciones y pruebas que se hubiesen allegado, para los efectos legales que proceda.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 109.
 
-Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que previamente la Secretaría de Hacienda Pública y Tesorería formule querella.
+Para proceder penalmente por los delitos fiscales previstos en este capítulo, será necesario que previamente la Secretaría de Administración y Finanzas, a través de la Procuraduría Fiscal del Estado de Sinaloa, formule querella con la información que para tal efecto le sea proporcionada por el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 110.
 
-Los procesos por los delitos fiscales a que se refieren las fracciones de este artículo se deberán sobreseer a petición de la Secretaría de Hacienda Pública y Tesorería, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará antes de que el Ministerio Público del Fuero Común formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera. En el caso del delito de defraudación fiscal, no se formulará querella por la Secretaría de Hacienda Pública y Tesorería cuando el contribuyente pague las contribuciones adeudadas junto con sus accesorios.
+Cuando los procesados por delitos fiscales paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción del Servicio de Administración Tributaria, proporcionará a la Procuraduría Fiscal los elementos suficientes con los que se acredite lo anterior a fin de que esta última proceda a solicitar el sobreseimiento del proceso respectivo. La petición anterior será procedente antes de que el Ministerio Público del Fuero Común formule su acusación en su alegato de apertura, en términos de lo previsto por el artículo 394 del Código Nacional de Procedimientos Penales, y surtirá efectos respecto de las personas a que la misma se refiera.
+
+En el caso del delito de defraudación fiscal, no se formulará querella por la Procuraduría Fiscal del Estado de Sinaloa, cuando el contribuyente pague las contribuciones adeudadas junto con sus accesorios.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 111.
 
-En todo lo no previsto en el presente capítulo serán aplicables las reglas señaladas en el Código de Procedimientos Penales para el Estado de Sinaloa.
+Son responsables de los delitos fiscales quienes se ubiquen en alguno de los siguientes supuestos:
+
+I. Concierten la realización del delito;
+
+II. Realicen la conducta o en alguno de los hechos punibles previstos en el presente Código;
+
+III. Se sirvan de otra persona como instrumento para ejecutarlo;
+
+IV. Induzca dolosamente a otro a cometerlo;
+
+V. Ayuden dolosamente a otro para su comisión; y,
+
+VI. Auxilien a otro después de su ejecución.
+
+Los supuestos antes descritos se aplicarán sin importar si se cometió el delito por una sola persona o de forma conjunta.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 112.
 
-Se impondrá prisión de diez meses a cinco años, a los funcionarios o servidores públicos que practiquen o pretendan practicar visitas domiciliarias sin mandamiento escrito de la autoridad fiscal competente.
+La acción penal en los delitos fiscales prescribirá en tres años contados a partir del día en que se tenga conocimiento del delito, y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la posible comisión del delito.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 113.
 
-Se impondrá prisión de 10 meses a 5 años a quien:
+La tentativa de los delitos previstos en este Código es punible, cuando la resolución de cometer un hecho delictivo se traduce en un principio de su ejecución o en la realización total de los actos que debieran producirlo, si la interrupción de éstos o la no producción del resultado se debe a causas ajenas a la voluntad del agente.
 
-I.- Grabe o manufacture sin autorización de la Secretaría de Hacienda Pública y Tesorería, matrices, punzones, dados, clichés o negativos semejantes a los que la propia Secretaría usa para imprimir, grabar o troquelar cualquier comprobante de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal.
+La tentativa se sancionará con prisión de hasta las dos terceras partes de la sanción que corresponda por el delito de que se trate, si éste se hubiere consumado.
 
-II.- Imprima, grabe o troquele calcomanías o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal sin la autorización por escrito de la Secretaría de Hacienda Pública y Tesorería.
+Si el autor desistiera de la ejecución o impidiere la consumación del delito, no se impondrá sanción alguna, a no ser que los actos ejecutados constituyan por sí mismos, delito.
 
-III.- Altere en sus características las formas valoradas o numeradas, placas, calcomanías o comprobantes de pago de contribuciones u objetos que se utilicen oficialmente como medio de control fiscal.
-
-IV.- Forme algún comprobante de los mencionados anteriormente con los fragmentos de otros recortados o mutilados. Esta sanción se aplicará aún cuando el falsario no se haya propuesto obtener algún provecho.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 114.
 
-Comete delito de uso indebido de formas valoradas o numeradas, placas, calcomanías o cualquier otro medio de control fiscal falsificados:
+En todo lo no previsto en el presente capítulo, serán aplicables las reglas señaladas en el Código Nacional de Procedimientos Penales.
 
-I.- El particular o servidor público que con conocimiento de que fueron impresos o grabados sin autorización de la Secretaría de Hacienda Pública y Tesorería, los posea, venda, ponga en circulación o en su caso, adhiera en documentos u objetos para el pago u abstención del mismo, de alguna prestación fiscal.
-
-II.- Quien venda, utilice o ponga en circulación o en alguna otra forma comercie con dichos objetos, sin (sic) son manufacturados con fragmentos o recortes de otros.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 115.
 
-El delito tipificado en el artículo que antecede será sancionado con prisión de diez meses a cinco años. Al empleado público que en cualquier forma participe en el delito citado se le impondrá de uno a seis años de prisión.
+Se impondrá prisión de diez meses a 5 años a quien:
+
+I. Grabe o manufacture sin autorización de la Secretaría de Administración y Finanzas, matrices, punzones, dados, clichés o negativos semejantes a los que la propia Secretaría usa para imprimir, grabar o troquelar cualquier comprobante de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal.
+
+II. Imprima, grabe o troquele calcomanías o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal sin la autorización por escrito de la Secretaría de Administración y Finanzas.
+
+III. Altere en sus características las formas valoradas o numeradas, placas, calcomanías o comprobantes de pago de contribuciones u objetos que se utilicen oficialmente como medio de control fiscal.
+
+IV. Forme algún comprobante de los mencionados anteriormente con los fragmentos de otros recortados o mutilados. Esta sanción se aplicará aun cuando el falsario no se haya propuesto obtener algún provecho.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 115-A.
+
+Comete delito de uso indebido de formas valoradas o numeradas, placas, calcomanías o cualquier otro medio de control fiscal falsificados:
+
+I. El particular o servidor público que con conocimiento de que fueron impresos o grabados sin autorización de la Secretaría de Administración y Finanzas, los posea, venda, ponga en circulación o en su caso, adhiera en documentos u objetos para el pago u obtención del mismo, de alguna prestación fiscal.
+
+II. Quien venda, utilice o ponga en circulación o en alguna otra forma comercie con dichos objetos, si son manufacturados con fragmentos o recortes de otros.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 115-B.
+
+El delito tipificado en el artículo que antecede será sancionado con prisión de diez meses a cinco años. Al servidor público que en cualquier forma participe en el delito citado, se le impondrá de uno a seis años de prisión.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 115-C.
+
+Se impondrá sanción de diez meses a cinco años de prisión, a quien:
+
+I. Rinda con falsedad al citado registro, los datos, informes o avisos a que se encuentra obligado;
+
+II. Obtenga o use más de un número de registro para el cumplimiento de las obligaciones a su cargo en relación con uno o más impuestos estatales;
+
+III. Perfore o destruya sin estar facultado, los cierres de control que determinan las leyes fiscales, o desprenderlos de los barriles, botellas, botes o demás vasijas que contengan los productos gravados; o altere, destruya los cordones, envolturas o sellos oficiales;
+
+IV. Haga, mande o permita en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; altere, raspe o tache en perjuicio del fisco, cualquiera anotación, asiento o constancia hecha en la contabilidad; o mande o consienta que se hagan esas alteraciones, raspaduras o tachaduras;
+
+V. Presente los avisos, solicitudes, datos, informes, copias, o documentos, incompletos o con errores que traigan consigo la evasión de una prestación fiscal;
+
+VI. Presente los avisos, solicitudes, datos, informes, copias, o documentos alterados o falsificados;
+
+VII. Expenda marbetes o trafique con ellos sin autorización legal, adquiera marbetes de emisión fenecida o trafique con ellos, emplee para el pago de créditos fiscales marbetes que no correspondan a la época en que debió hacerse el pago;
+
+VIII. Desocupe o desaparezca del lugar donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al Padrón de Contribuyentes del Estado, después de la notificación de la orden de visita domiciliaria o del requerimiento de la contabilidad, documentación o información, de conformidad con la fracción II del artículo 77 de este Código, o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, o que hubieran realizado actividades por las que deban pagar contribuciones, o cuando las autoridades fiscales tengan conocimiento de que fue desocupado el domicilio derivado del ejercicio de sus facultades de comprobación.
+
+Para los efectos de esta fracción, se entiende que el contribuyente desaparece del local en donde tiene su domicilio fiscal cuando la autoridad no pueda practicar la diligencia en términos de este Código;
+
+IX. Contribuya a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan;
+
+X. Adquiera, oculte, retenga o enajene productos, mercancías o artículos, a sabiendas de que no se cubrieron las contribuciones que en relación con los mismos se hubiesen debido pagar;
+
+XI. Altere o destruya los aparatos de control, cordones, envolturas, sellos o marcas oficiales colocados con fines fiscales o impida que se logre el propósito para el que fueron colocados;
+
+XII. Altere o destruya las máquinas registradoras de operación de caja en las oficinas recaudadoras.
+
+XIII. Expida las notas de liquidación en forma que dé lugar a la evasión total o parcial del gravamen;
+
+XIV. Proporcione los informes, datos o documentos que les requiera la autoridad fiscal alterados, falsificado, incompletos o inexactos;
+
+XV. Extienda constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento; y,
+
+XVI. Coopere o facilite en cualquier forma la omisión total o parcial del pago de contribuciones mediante alteraciones, ocultaciones u otros hechos u omisiones.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 115-D.
+
+Se impondrá prisión de uno a seis años a los servidores públicos del Estado, así como a los encargados del servicio público y órganos oficiales de la misma Entidad, cuando realicen alguna de las siguientes conductas:
+
+I. Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales.
+
+Esta conducta será sancionada aun cuando los servidores públicos no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo;
+
+II. Extender actas, expedir certificados legalizar firmas, autorizar documentos inscribirlos o registrarlos cuando no exista constancia de que se pagó el impuesto o derecho correspondiente;
+
+III. Recibir el pago de una prestación fiscal y no enterar su importe dentro de los plazos legales;
+
+IV. No exigir el pago total de las contribuciones causadas;
+
+V. Presentar los informes, avisos, datos o documentos alterados o falsificados;
+
+VI. Alterar documentos fiscales que tengan en su poder;
+
+VII. Asentar falsamente que se dio cumplimiento a las disposiciones fiscales o que se practicaron visitas de auditoría o inspección o incluir datos falsos en las actas relativas;
+
+VIII. No practicar las visitas de inspección cuando tengan la obligación de hacerlo;
+
+IX. Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento; cooperar en cualquier forma para que se eludan las prestaciones fiscales;
+
+X. Exigir bajo el título de cooperaciones, colaboración y otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aun cuando se aplique a la realización de las funciones propias del cargo;
+
+XI. Intervenir en la tramitación o resolución de algún asunto, cuando tengan impedimento de acuerdo con las disposiciones fiscales.
+
+La pena que se establece en el presente artículo será independiente a las sanciones que en materia de responsabilidades administrativas imponga la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 115-E.
+
+Se impondrá sanción de uno a seis años de prisión, al servidor público que en contravención a lo dispuesto por el artículo 92 de este Código, divulgue información y proporcione documentación a terceros, respecto a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación.
+
+Lo dispuesto en el párrafo anterior no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los servidores públicos encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en proceso del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias.
+
+Para los efectos de lo dispuesto en el párrafo anterior, los representantes de los causantes que integren los organismos autónomos, se asimilan a los servidores públicos.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 115-F.
+
+Se impondrá prisión de diez meses a cinco años, a los servidores públicos que ordenen o practiquen visitas domiciliarias o embargos sin mandamiento escrito de la autoridad fiscal competente. Las mismas penas se impondrán a los servidores públicos que realicen la verificación física de mercancías en transporte en lugar distinto a los recintos fiscales.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 115-G.
+
+Se sancionará con prisión de uno a cinco años al servidor público que amenace de cualquier modo a un contribuyente o a sus representantes o dependientes, con formular por sí o por medio de la dependencia de su adscripción, una querella ante el Ministerio Público para que se ejercite acción penal por la posible comisión de delitos fiscales.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 116.
 
-Comete el delito de defraudación fiscal quien haga uso de engaños o aproveche errores para omitir total o parcialmente el pago de contribuciones, o quien realice cualquier hecho, aserción, omisión, simulación, ocultación o maniobra que tenga por objeto producir o facilitar la evasión total o parcial de los tributos. Salvo prueba en contrario, la intención de defraudar al fisco se presume en los casos siguientes:
+Comete el delito de defraudación fiscal quien haga uso de engaños o aproveche errores para omitir total o parcialmente el pago de contribuciones, o quien realice cualquier hecho, que tenga por objeto producir o facilitar la evasión total o parcial de los tributos u obtener beneficio indebido con perjuicio del fisco estatal.
 
-a).- Cuando las declaraciones fiscales contengan datos falsos.
+Para efectos del presente artículo, se equiparará a la defraudación fiscal y será sancionado con las mismas penas, quien:
 
-b).- Proporcionar con falsedad, a las autoridades fiscales que lo requieran, los datos que sean necesarios para determinar el ingreso gravable o las contribuciones que se causen.
+I. Omita presentar las declaraciones que tengan carácter de definitivas, periódicas o provisionales que exijan las leyes fiscales, dejando de pagar la contribución correspondiente;
 
-c).- Excluir algún bien, actividad u operación gravable, que implique una declaración fiscal incompleta.
+II. Presente declaraciones fiscales que contengan datos falsos;
 
-d).- Informar inexactamente sobre negocios o actividades concernientes a ventas, compras, existencias o valuación de mercancías, capitales o factores análogos y similares.
+III. Proporcione con falsedad, a las autoridades fiscales que lo requieran, los datos que sean necesarios para determinar el ingreso gravable o las contribuciones que se causen;
 
-e).- Llevar dos o más sistemas de contabilidad similares con distintos asientos o datos.
+IV. Excluya algún bien, actividad u operación gravable, que implique una declaración fiscal incompleta;
 
-f).- No enterar a las autoridades fiscales, dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido o recaudado de los contribuyentes, por concepto de contribuciones.
+V. Informe inexactamente sobre negocios o actividades concernientes a ventas, compras, existencias o valuación de mercancías, capitales o factores análogos y similares;
 
-El delito de defraudación fiscal se sancionará con prisión de diez meses a dos años.
+VI. Lleve dos o más sistemas de contabilidad similares con distintos asientos o datos;
+
+VII. Perciba a nombre propio ingresos gravables que correspondan a otra persona, cuando esto último origine la evasión de contribuciones;
+
+VIII. Utilice a interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos correspondientes;
+
+IX. No expida recibos, facturas, comprobantes o cualquier otro documento que señalen las leyes fiscales;
+
+X. Declare ingresos menores de los percibidos, hacer deducciones derivadas de hechos falsos, o que no están autorizadas o que no reúnan los requisitos exigidos por las disposiciones fiscales;
+
+XI. Oculte u omita bienes o existencias que deban figurar en los inventarios, o listarlos a precios inferiores de los reales;
+
+XII. Eluda el pago de las prestaciones fiscales como consecuencia de inexactitud, simulaciones, falsificaciones y otras maniobras;
+
+XIII. No entere total o parcialmente el importe de las prestaciones fiscales retenidas, recaudadas, dentro de los plazos que establezcan las disposiciones fiscales;
+
+XIV. Presente los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas;
+
+XV. Expida, adquiera o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados;
+
+XVI. Se beneficie sin derecho de un subsidio o estímulo fiscal;
+
+XVII. Manifieste datos falsos para obtener de la autoridad fiscal la devolución de contribuciones que no le correspondan;
+
+XVIII. Manifieste datos falsos para realizar la compensación de contribuciones que no le correspondan;
+
+XIX. Utilice datos falsos para acreditar o disminuir contribuciones;
+
+XX. No lleve los sistemas o registros contables a que se esté obligado conforme a las disposiciones fiscales o asiente datos falsos en dichos sistemas o registros;
+
+XXI. Destruir o inutilizar los asientos contables cuando no haya transcurrido el plazo durante el cual conforme a la ley deben conservar.
+
+La omisión total o parcial de alguna contribución a que se refiere el párrafo anterior comprende, indistintamente, los pagos provisionales, periódicos o definitivos o el impuesto del ejercicio o contribución, en los términos de las disposiciones fiscales.
+
+El delito de defraudación fiscal se sancionará con las penas siguientes:
+
+a) Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $500,000.00 (Quinientos mil pesos 00/100 M.N.)
+
+b) Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de $500,000.00 (Quinientos mil pesos 00/100 M.N.) y hasta de $1'000, 000.00 (Un millón de pesos 00/100 M.N.)
+
+c) Con prisión de tres años a seis años cuando el monto de lo defraudado fuere mayor de $1'000,000.00 (Un millón de pesos 00/100 M.N.)
+
+Cuando no se pueda determinar la cuantía de lo que se defraudó o se intentó defraudar, la pena será de tres meses a seis años de prisión.
+
+Si el monto de lo defraudado es restituido de manera inmediata en una sola exhibición, la pena aplicable podrá atenuarse hasta en un cincuenta por ciento.
 
 ###### ARTICULO 117.
 
@@ -1643,9 +1939,13 @@ Se impondrá sanción de tres meses a tres años de prisión, al depositario o i
 
 Igual sanción se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente cuando esta se los requiera.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Incurre en desobediencia a mandato legítimo de autoridad competente, quien habiendo sido requerido por tres ocasiones para la presentación de los documentos a que se refiere la fracción III del artículo 90, éstos no se hayan presentado en tiempo y forma, y se sancionará conforme a lo previsto en el Código Penal para el Estado de Sinaloa.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 117
+
+BIS.- Incurre en desobediencia a mandato legítimo de autoridad competente, quien habiendo sido requerido por tres ocasiones para la presentación de los documentos a que se refiere la fracción III del artículo 90, estos no se hayan presentado en tiempo y forma, y se sancionará conforme a lo previsto en el Código Penal para el Estado de Sinaloa.
 
 ## TITULO SEXTO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL
 
@@ -1653,19 +1953,19 @@ Incurre en desobediencia a mandato legítimo de autoridad competente, quien habi
 
 ###### ARTICULO 118.
 
-Contra los actos administrativos dictados en materia fiscal en el Estado de Sinaloa se podrá interponer los siguientes recursos:
+Contra las resoluciones y actos administrativos dictados en materia fiscal en el Estado de Sinaloa se podrá interponer los siguientes recursos:
 
 I.- El de revocación.
 
 II.- El de oposición al procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Además de estos recursos administrativos, el contribuyente contará con un procedimiento denominado "Justicia de Ventanilla" que se iniciará a petición de parte; no constituirá instancia; se podrá interponer en cualquier tiempo, una vez que haya quedado firme la resolución que determinó el crédito por no haberse interpuesto un medio de defensa en su contra dentro de los plazos previstos por las leyes y dicha interposición se realice antes de que sean rematados los bienes; sin que haya prescrito el crédito fiscal y se alegue que el crédito proviene de una resolución emitida en contravención a las disposiciones fiscales y que no se refieran al procedimiento. La autoridad fiscal competente podrá, por una sola vez y de manera discrecional, modificar o revocar en beneficio del contribuyente la resolución de que se trate.
+Además de estos recursos administrativos, el contribuyente contará con un procedimiento denominado Justicia de Ventanilla que se iniciará a petición de parte; no constituirá instancia; se podrá interponer en cualquier tiempo, una vez que haya quedado firme la resolución que determinó el crédito por no haberse interpuesto un medio de defensa en su contra, dentro de los plazos previstos por las leyes y dicha interposición se realice antes de que sean rematados los bienes; sin que haya prescrito el crédito fiscal y se alegue que el crédito proviene de una resolución emitida en contravención a las disposiciones fiscales y que no se refieran al procedimiento. La autoridad fiscal competente podrá, por una sola vez y de manera discrecional, modificar o revocar en beneficio del contribuyente la resolución de que se trate.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-El trámite de este procedimiento se iniciará con un escrito, que contendrá, el nombre completo del contribuyente y el de su representante si lo hubiere, domicilio fiscal y domicilio para recibir notificaciones, el planteamiento del problema en forma sencilla. Conocerá de este procedimiento el Procurador Fiscal, el cual resolverá en un plazo no mayor de quince días hábiles, contados a partir de la fecha de interposición del escrito correspondiente, quien atendiendo las circunstancias del asunto, podrá ordenar la suspensión del procedimiento administrativo de ejecución en contra del promovente.
+El trámite de este procedimiento se iniciará con un escrito, que contendrá el nombre completo del contribuyente y el de su representante, si lo hubiere, domicilio fiscal y domicilio para recibir notificaciones, el planteamiento del problema en forma sencilla. Conocerá de este procedimiento la Dirección Jurídica del Servicio de Administración Tributaria del Estado de Sinaloa, quien lo resolverá en un plazo no mayor de quince días hábiles, contados a partir de la fecha de presentación del escrito correspondiente, y atendiendo a las circunstancias del asunto, podrá ordenar la suspensión del procedimiento administrativo de ejecución en contra del promovente.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -1675,13 +1975,17 @@ Por ser aplicable este procedimiento a resoluciones que han quedado firmes o con
 
 El recurso de revocación procederá contra las resoluciones:
 
-I.- Definitivas mediante las cuales las autoridades de la Secretaría de Hacienda Pública y Tesorería determine contribuciones o accesorios.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I.- Definitivas mediante las cuales, las autoridades fiscales del Estado determinen contribuciones o accesorios.
 
 II.- Que nieguen la devolución de cantidades que procedan conforme a la Ley.
 
 III.- Que impongan cargas a los particulares, emitidas por las autoridades fiscales del Estado cuando la Ley de la materia no establezca medios de defensa alguno.
 
-Para los efectos de esta fracción se entiende que se establecen cargas a los particulares conforme al contenido del Artículo 25 de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Para los efectos de esta fracción se entiende que se establecen cargas a los particulares conforme al contenido del Artículo 25 de este Código.
 
 ###### ARTICULO 120.
 
@@ -1695,15 +1999,19 @@ III.- Cuando afecten el interés jurídico de terceros cuando estos afirmen ser 
 
 IV.- Procede también este recurso contra los actos de las autoridades fiscales que determinen el valor de los bienes embargados.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 121.
 
-La interposición de los recursos administrativos será optativa para el particular, antes de acudir ante el Tribunal de lo Contencioso Administrativo.
+La interposición de los recursos administrativos será optativa para el particular, antes de acudir ante el Tribunal de Justicia Administrativa del Estado.
 
 Cuando el recurso se interponga ante la autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
-###### ARTICULO 122.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-La autoridad facultada para resolver los recursos administrativos, será la Procuraduría Fiscal del Estado, ante quién deberá presentarse el escrito de interposición del recurso dentro de los 15 días siguientes a aquél en que haya surtido efectos la notificación respectiva.
+###### Artículo 122.
+
+La autoridad facultada para resolver los recursos administrativos, será la Dirección Jurídica del Servicio de Administración Tributaria del Estado de Sinaloa, ante quien deberá presentarse el escrito de interposición del recurso dentro de los 15 días siguientes a aquél en que haya surtido efectos la notificación respectiva.
 
 ###### ARTICULO 123.
 
@@ -1715,9 +2023,11 @@ Cuando en este recurso se alegue que el procedimiento administrativo de ejecuci�
 
 Si el particular tiene su domicilio fuera de la población en que radica la autoridad facultada para resolver el recurso, el escrito de interposición de éste podrá presentarse por correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida el recurrente; en estos casos se tendrá como fecha de presentación del escrito respectivo, la del día en que se depositó en la oficina de correos. Si el particular afectado por el acto o resolución administrativa fallece durante el plazo a que se refiere este Artículo, se suspenderá hasta un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 125.
 
-La autoridad deberá dictar resolución a los recursos y notificarla en un término que no excederá de cien días naturales, a partir de la fecha de interposición de éstos ante la Procuraduría Fiscal del Estado. En el caso de que la autoridad no resuelva en dicho término se entenderá como resolución positiva ficta.
+La autoridad deberá dictar resolución a los recursos y notificarla en un término que no excederá de cien días naturales, a partir de la fecha de interposición de estos ante la autoridad competente. En el caso de que la autoridad no resuelva en dicho término se entenderá como resolución positiva ficta.
 
 ###### ARTICULO 126.
 
@@ -1751,7 +2061,9 @@ En los recursos administrativos se admitirán toda clase de pruebas, excepto la 
 
 Las pruebas supervinientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
-Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos particulares, los documentos solo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Harán prueba plena la confesión expresa del recurrente, las presunciones legales que no admitan prueba en contrario, así como los hechos legalmente afirmados por autoridad en documentos públicos; pero si en estos últimos se contienen declaraciones de verdad o manifestaciones de hechos particulares, los documentos sólo prueban plenamente que, ante la autoridad que los expidió, se hicieron tales declaraciones o manifestaciones, pero no prueban la verdad de lo declarado o manifestado.
 
 Las demás pruebas quedarán a la prudente apreciación de la autoridad.
 
@@ -1765,7 +2077,9 @@ I.- No afecten el interés jurídico del recurrente.
 
 II.- Se dicten en un recurso administrativo o en cumplimiento de éstos o de sentencias.
 
-III.- Hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+III.- Hayan sido impugnados ante el Tribunal de Justicia Administrativa del Estado.
 
 IV.- Se hayan consentido, entendiéndose por consentimiento cuando no se promueva el recurso en el plazo señalado.
 
@@ -1785,7 +2099,13 @@ III.- En caso de que el recurrente muera durante la substanciación del recurso,
 
 IV.- Si la autoridad contra la que se implementa el recurso deja sin efecto el acto impugnado.
 
-V.- En los demás casos en que por disposición legal haya impedimento para resolver el recurso en cuanto al fondo.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V.- Cuando de las constancias se demuestre que no existe la resolución o acto impugnado.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VI.- En los demás casos en que por disposición legal haya impedimento para resolver el recurso en cuanto al fondo.
 
 El sobreseimiento del recurso podrá ser total o parcial.
 
@@ -1793,13 +2113,19 @@ El sobreseimiento del recurso podrá ser total o parcial.
 
 El escrito de interposición de los recursos deberá satisfacer los requisitos contenidos en el Artículo 69 de éste Código y señalar además:
 
-I.- El acto que impugna.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-II.- Los agravios que le cause el acto impugnado.
+I.- La resolución o acto que impugna;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II.- Los agravios que le cause la resolución o acto impugnado;
 
 III.- Las pruebas y los hechos controvertidos de que se trate.
 
-Cuando no se haga valer alguno de los señalamientos de las Fracciones I y II de este Artículo la autoridad fiscal otorgará un plazo de 6 días hábiles, para que subsane la omisión y si en dicho plazo no cumple con el requerimiento se desechará por improcedente el recurso interpuesto y si se omiten las de la Fracción III se tendrá por no ofrecidas las pruebas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Cuando no se cumpla con lo señalado en las fracciones I, II y III de este artículo, la autoridad fiscal requerirá al promovente para que en un plazo de 6 días hábiles siguientes a aquél en que haya surtido efectos la notificación, subsane dicha omisión. Si en dicho plazo no señala la resolución o acto impugnado se tendrá por no presentado el recurso, si no indica los agravios que le cause la resolución o el acto impugnado se desechará por improcedente el recurso interpuesto, si omite los hechos controvertidos se perderá el derecho para hacerlos valer o se tendrá por no ofrecidas las pruebas.
 
 ###### ARTICULO 132.
 
@@ -1807,21 +2133,29 @@ El promovente deberá acompañar al escrito en que se interpongan los recursos:
 
 I.- Los documentos que acrediten su personalidad cuando actúen en nombre de otro o de personas morales.
 
-II.- El documento en que conste el acto impugnado.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-III.- Constancia de notificación del acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancias o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación en el órgano en que ésta se hizo.
+II.- El documento en que consten la resolución o el acto impugnado;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+III.- Constancia de notificación de la resolución o acto impugnado, excepto cuando el promovente declare bajo protesta de decir verdad que no recibió constancias o cuando la notificación se haya practicado por correo certificado con acuse de recibo o se trate de negativa ficta. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación en el órgano en que ésta se hizo;
 
 IV.- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
 
-Si no se cumple con alguno de los requisitos señalados en las fracciones anteriores, la autoridad fiscal le dará un término de 6 días hábiles para que se cumpla, transcurrido el término sin que se haya subsanado la omisión, se tendrá por no interpuesto el mismo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Si no se acompaña alguno de los documentos señalados en las fracciones anteriores, la autoridad fiscal requerirá al promovente para que en un término de 6 días hábiles siguientes a aquél en que haya surtido efectos la notificación los presentes (sic). Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, se tendrán por no ofrecidas.
 
 Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiese podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
 
 La autoridad fiscal a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiese tenido oportunidad de obtenerlas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 133.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de actos recurribles se estará a las siguientes reglas:
+Cuando se alegue que una resolución o acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de actos recurribles se estará a las siguientes reglas:
 
 I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
 
@@ -1863,11 +2197,21 @@ I.- Constar por escrito.
 
 II.- Señalar la autoridad que lo emite.
 
-III.- Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-IV.- Ostentar la firma de funcionario competente.
+III.- Señalar lugar y fecha de emisión;
 
-V.- El nombre y domicilio de las personas a las que vaya dirigido, cuando se ignore el nombre y/o el domicilio se señalarán los datos suficientes que permitan su identificación o la del lugar o lugares que habrán de inspeccionarse.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IV.- Estar fundado y motivado, y expresar la resolución, objeto o propósito de que se trate;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V.- Ostentar la firma de servidor público competente; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VI.- El nombre y domicilio de las personas a las que vaya dirigido, cuando se ignore el nombre y/o el domicilio se señalarán los datos suficientes que permitan su identificación o la del lugar o lugares que habrán de inspeccionarse.
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria, se señalará, además, la causa legal de la responsabilidad.
 
@@ -1885,15 +2229,25 @@ Si el interesado o su representante legal, al conocer una resolución dictada en
 
 Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales si las personas a quienes deban notificarse se presentan en las mismas.
 
-También podrán efectuar en el último domicilio que el interesado haya señalado para efectos de su registro ante la Secretaría de Hacienda Pública y Tesorería, salvo que hubiera designado otro para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de actuaciones relacionadas con el trámite o resolución de los mismos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Toda notificación personal realizada con quien deba entenderse será legalmente válida, aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales. En el caso de las sociedades en proceso de liquidación, cuando se haya nombrado varios liquidadores las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse validamente con cualquiera de ellos.
+También podrán efectuar en el último domicilio que el interesado haya señalado para efectos de su registro ante el Servicio de Administración Tributaria del Estado de Sinaloa, salvo que hubiera designado otro para recibir notificaciones al iniciar alguna instancia o en el curso de un procedimiento administrativo, tratándose de actuaciones relacionadas con el trámite o resolución de los mismos.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Toda notificación personal realizada con quien deba entenderse será legalmente válida, aun cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales. En el caso de las sociedades en proceso de liquidación, cuando se haya nombrado varios liquidadores las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
 Cuando la notificación sea personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, sea para que lo espere a una hora fija del día hábil siguiente o para que acuda a notificarse dentro del plazo de 3 días a las oficinas de las autoridades fiscales.
 
 Tratándose de actos relativos a procedimientos administrativos de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperare, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En el caso de que éstos últimos se nieguen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancias para dar cuenta al Jefe de la Oficina Recaudadora.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento los honorarios que establece el Reglamento de este Código.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento los honorarios equivalentes a seis veces el valor de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+La autoridad fiscal determinará los honorarios a que se refiere el párrafo anterior y los hará del conocimiento del infractor conjuntamente con la notificación de la infracción de que se trate. Dichos honorarios se deberán pagar a más tardar en la fecha en que se cumpla con el requerimiento.
 
 ###### ARTICULO 138.
 
@@ -1937,6 +2291,58 @@ La garantía deberá comprender, además de las contribuciones adeudadas, actual
 
 El reglamento de este Código establecerá los requisitos que deberán satisfacer las garantías. La Secretaría de Administración y Finanzas, vigilará que sean suficientes tanto en el momento de su aceptación como con posterioridad y, si no lo fueran, exigirán su ampliación o procederán al secuestro de otros bienes.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+El Servicio de Administración Tributaria del Estado de Sinaloa vigilará que las garantías sean suficientes, tanto en el momento de su aceptación, como con posterioridad y, si no lo fuera, exigirá su ampliación o procederán al embargo de otros bienes.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 142
+
+BIS.- Para los efectos del artículo 142 del presente Código, la garantía del interés fiscal se otorgará a favor del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Los gastos que se originen con motivo del ofrecimiento de la garantía del interés fiscal deberán ser cubiertos por el interesado, inclusive los que se generen cuando sea necesario realizar la práctica de avalúos.
+
+I. Para los efectos del artículo 142, fracción II del Código, la prenda o hipoteca se constituirán conforme a lo siguiente:
+
+a) La prenda se constituirá sobre bienes muebles por el 75% de su valor, siempre que estén libres de gravámenes hasta por ese porcentaje, y deberá inscribirse en el Registro Público de la Propiedad que corresponda, cuando los bienes en que recaiga o el propio contrato de prenda estén sujetos a esta formalidad.
+
+b) No se aceptarán en prenda los bienes de fácil descomposición o deterioro, los que se encuentren embargados, ofrecidos en garantía, o con algún gravamen o afectación; los sujetos al régimen de copropiedad, cuando no sea posible que el Gobierno Estatal asuma de manera exclusiva la titularidad de todos los derechos; los afectos a algún fideicomiso; los que por su naturaleza o por disposición legal estén fuera del comercio y aquellos que sean inembargables en términos de este Código, así como las mercancías de procedencia extranjera, cuya legal estancia no esté acreditada en el país, los semovientes, las armas prohibidas y, las materias y sustancias inflamables, contaminantes, radioactivas o peligrosas.
+
+c) La hipoteca se constituirá sobre bienes inmuebles por el 75% del valor de avalúo o del valor catastral. A la solicitud respectiva se deberá acompañar el certificado del Registro Público de la Propiedad que corresponda, expedido con un máximo de tres meses de anticipación a la fecha de la solicitud, en el que no aparezca anotado algún gravamen ni afectación urbanística o agraria. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de estos y el interés fiscal a garantizar no podrá exceder del 75% del valor.
+
+El otorgamiento de la garantía a que se refiere esta fracción se hará mediante escritura pública que deberá inscribirse en el Registro Público de la Propiedad que corresponda y contener los datos del crédito fiscal que se garantice.
+
+El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año.
+
+II. Para los efectos del artículo 142, fracción III de este Código, la póliza en la que se haga constar la fianza quedará en poder y guarda de la autoridad fiscal y deberá contener los textos únicos que señale el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+III. Para los efectos del artículo 142, fracción IV del Código, para que un tercero asuma la obligación solidaria de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
+
+a) Manifestar su voluntad de asumir la obligación solidaria, mediante escrito firmado ante fedatario público o ante la autoridad fiscal que tenga encomendado el cobro del crédito fiscal; en este último caso, la manifestación deberá realizarse ante la presencia de dos testigos. Además, el escrito a que se refiere esta fracción deberá detallar los bienes sobre los cuales recaerá primeramente la obligación solidaria asumida.
+
+b) El escrito a que se refiere el inciso anterior deberá ser firmado por el interesado y tratándose de personas morales, por el administrador único o, en su caso, por la totalidad de los miembros del consejo de administración. Cuando en los estatutos sociales de la persona moral interesada el presidente del consejo de administración tenga conferidas las mismas facultades de administración que el propio consejo, bastará la firma de dicho presidente para tener por cumplido el requisito.
+
+Para que un tercero asuma la obligación de garantizar el interés fiscal por cuenta de otro en alguna de las formas a que se refiere el artículo 142, fracciones II y V del Código, deberá cumplir con los requisitos que para cada garantía se establecen en este Código;
+
+IV. Para los efectos del artículo 142, fracción V del Código, el embargo en la vía administrativa se sujetará a las siguientes reglas:
+
+a) Se practicará a solicitud del contribuyente, quién señalará los bienes de su propiedad sobre los que deba trabarse el embargo, debiendo ser suficientes para garantizar el interés fiscal.
+
+b) Tratándose de personas físicas, el depositario de los bienes será el contribuyente y en el caso de personas morales, su representante legal. Cuando a juicio de la autoridad fiscal exista peligro de que el depositario se ausente, enajene u oculte los bienes o realice maniobras tendientes a evadir el cumplimiento de sus obligaciones, podrá removerlo del cargo; en este supuesto, los bienes se depositarán con la persona que designe la autoridad fiscal;
+
+c) Deberá inscribirse en el Registro Público de la Propiedad que corresponda el embargo de los bienes que estén sujetos a esta formalidad; y,
+
+d) Antes de la práctica de la diligencia de embargo en la vía administrativa, deberán cubrirse los gastos de ejecución y gastos extraordinarios que puedan ser determinados en términos de los artículos 149 y 150 de este Código. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
+
+V. La garantía del interés fiscal que se ofrezca, será objeto de calificación y de aceptación, en su caso, la autoridad fiscal deberá verificar que se cumplan los requisitos que establecen en este Código en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubre los conceptos que señala el artículo 142 de este Código. Cuando no se cumplan los requisitos a que se refiere esta fracción la autoridad fiscal requerirá al promovente a fin de que, en un plazo de diez días contado a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con el requisito omitido, en caso contrario no se aceptará la garantía.
+
+La Autoridad Fiscal podrá aceptar la garantía ofrecida por el contribuyente aun y cuando ésta no sea suficiente para garantizar el interés fiscal de acuerdo con lo establecido en el artículo 142 del Código, instaurando el procedimiento administrativo de ejecución por el monto no garantizado.
+
+VI. Para garantizar el interés fiscal sobre un mismo crédito fiscal, podrán combinarse las diferentes formas que al efecto establece el artículo 142 de este Código, así como sustituirse entre sí, en cuyo caso antes de cancelarse la garantía original deberá constituirse la garantía sustituta, siempre y cuando la garantía que se pretende sustituir no sea exigible.
+
+La garantía constituida podrá garantizar uno o varios créditos fiscales siempre que la misma comprenda los conceptos previstos en el artículo 142, segundo párrafo de este Código.
+
 ###### ARTICULO 143.
 
 Procede garantizar el interés fiscal, cuando:
@@ -1959,7 +2365,9 @@ Cuando se dé aviso de baja o suspensión de actividades, el contribuyente deber
 
 Las garantías constituidas para asegurar el interés fiscal que se refieren las fracciones II, IV y V del Artículo 142 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
 
-Si la garantía consiste en depósito de dinero en Institución de Crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Hacienda Pública y Tesorería.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Si la garantía consiste en depósito de dinero en Institución de Crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por el Servicio de Administración Tributaria del Estado de Sinaloa.
 
 ###### ARTICULO 145.
 
@@ -1979,9 +2387,13 @@ En el supuesto del párrafo anterior, si el particular no presenta declaración 
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubiesen embargado bienes suficientes para garantizar el interés fiscal.
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán acudir al Tribunal de lo Contencioso Administrativo que conozca el juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañará los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso, otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará en lo conducente las reglas establecidas por este Código para el citado incidente de suspensión a la ejecución.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán acudir al Tribunal de Justicia Administrativa del Estado que conozca el juicio respectivo u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañará los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso, otorgamiento de la garantía del interés fiscal. El superior jerárquico aplicará en lo conducente las reglas establecidas por este Código para el citado incidente de suspensión a la ejecución.
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 147.
 
@@ -2025,35 +2437,37 @@ Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios 
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación que establece este Código, o el juicio de nulidad respectivo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 151.
 
-Se suspenderá el procedimiento administrativo de ejecución durante la tramitación del recurso administrativo, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate, los recargos y los accesorios legales. La suspensión podrá ser solicitada en cualquier tiempo ante la Secretaría de Hacienda Pública y Tesorería, acompañando copia del escrito con el que se hubiese iniciado el recurso administrativo.
+Se suspenderá el procedimiento administrativo de ejecución durante la tramitación del recurso administrativo, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate, los recargos y los accesorios legales. La suspensión podrá ser solicitada en cualquier tiempo ante la autoridad fiscal competente, acompañando copia del escrito con el que se hubiese iniciado el recurso administrativo.
 
 ###### ARTICULO 152.
 
 A partir del día hábil siguiente al vencimiento de los plazos señalados dentro de la ley para el pago de los créditos fiscales o para el cumplimiento de las obligaciones fiscales, se iniciará el procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 153.
 
-Las autoridades fiscales para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor, señalándole un plazo improrrogable de quince días para que cubra el importe total de lo requerido, mas los recargos y gastos de ejecución, apercibiéndole que de no hacerlo, se procederá al embargo de bienes bastantes de su propiedad para cubrir el crédito fiscal antes mencionado.
+Las autoridades fiscales para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán de pago al deudor y en caso de que éste no pruebe en ese momento haberlo efectuado, se procederá de inmediato como sigue:
 
-En la misma forma se procederá cuando sea necesario requerir a los contribuyentes, terceros, retenedores, responsables solidarios y particulares por el incumplimiento de obligaciones fiscales, en este caso con el apercibimiento de multas.
+I. Embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos en favor del fisco;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+II. A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
+
+El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género se inscribirá en el Registro Público de la Propiedad que corresponda en atención a la naturaleza de los bienes o derechos de que se trate.
+
+Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público de la Propiedad que corresponda, en todas ellas se inscribirá el embargo.
+
+En la misma forma procederá el embargo para hacer efectivos los créditos exigibles a cargo de retenedores, responsables solidarios, particulares y terceros.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 154.
 
-Transcurrido el plazo de quince días después de haber sido requerido de pago, si el deudor no ha cubierto totalmente el crédito a su cargo, se procederá como sigue:
-
-I.- Embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera de subasta o adjudicarlos en favor del fisco.
-
-II.- A embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
-
-El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género se inscribirá en el Registro Público que corresponda en atención a la naturaleza de los bienes o derechos de que se trate.
-
-Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público que corresponda, en todas ellas se inscribirá el embargo.
+No se practicará embargo respecto de aquellos créditos fiscales que hayan sido impugnados en sede administrativa o jurisdiccional y se encuentren garantizados en términos de lo establecido en el presente Código.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2141,11 +2555,15 @@ Si al designarse bienes para el embargo se opusiese un tercero fundándose en el
 
 Cuando los bienes señalados para la traba estuvieran ya embargados por otras autoridades no fiscales, se practicará, no obstante, la diligencia. Dichos bienes se entregarán al depositario designado por la oficina ejecutora o por el ejecutor y se dará aviso a la autoridad correspondiente para que él o los interesados puedan demostrar su derecho de prelación en el cobro.
 
-En caso de controversia ésta será resuelta por el Tribunal de lo Contencioso Administrativo. En tanto se resuelve esta inconformidad no se aplicará el producto.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En caso de controversia, ésta será resuelta por el Tribunal de Justicia Administrativa del Estado. En tanto se resuelve esta inconformidad, no se aplicará el producto.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 164.
 
-EL embargo de créditos será notificado directamente por la oficina ejecutara a los deudores del crédito.
+El embargo de créditos será notificado directamente por la oficina ejecutora a los deudores del crédito.
 
 En igual forma procederá el ejecutor cuando la persona con quien se entienda la diligencia no abriese los muebles en los que aquel suponga se guardan dinero, alhajas, objetos de arte u otros bienes embargables. Si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina exactora, donde serán abiertos en el término de tres días por el deudor o por su representante legal y, en caso contrario por un experto designado por la propia oficina.
 
@@ -2169,9 +2587,11 @@ Cuando el interventor tenga conocimiento de irregularidades en el manejo de la n
 
 Si las medidas a que se refiere el párrafo anterior no fueran acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en intervención con cargo a la administración, o bien iniciará de inmediato el procedimiento administrativo de ejecución conforme a lo establecido en este Código.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 167.
 
-El interventor administrador tendrá todas las facultades que normalmente correspondan a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la ley, para ejercer actos de administración, para pleitos y cobranzas, para otorgar y suscribir títulos de créditos, y para presentar denuncias y querellas y desistirse de las mismas previo acuerdo del Secretario de Hacienda Pública y Tesorería del Estado.
+El interventor administrador tendrá todas las facultades que normalmente correspondan a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la ley, para ejercer actos de administración, para pleitos y cobranzas, para otorgar y suscribir títulos de créditos, y para presentar denuncias y querellas, y desistirse de las mismas previo acuerdo de la autoridad competente en términos de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior y las disposiciones jurídicas aplicables.
 
 El interventor administrador no quedará supeditado en su actuación al consejo de administración, asamblea de accionistas, socios o partícipes.
 
@@ -2191,9 +2611,11 @@ Cuando se den los supuestos de enajenación de la negociación intervenida a que
 
 El nombramiento de interventor administrador, deberá anotarse en el Registro Público que corresponda al domicilio de la negociación intervenida.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 170.
 
-Sin perjuicio de lo dispuesto por el Artículo 168 de este Código, la asamblea y administración de la sociedad podrán continuar reuniéndose regularmente para conocer los asuntos que les competen y de los informes que formule el interventor administrador sobre el funcionamiento y las operaciones de la negociación, así como para opinar sobre los asuntos que les someta a su consideración. El interventor podrá convocar a asamblea de accionistas, socios o partícipes y citar a la administración de la sociedad con los propósitos que considere necesarios o convenientes, previa autorización de la Secretaría de Hacienda Pública y Tesorería del Estado.
+Sin perjuicio de lo dispuesto por el Artículo 168 de este Código, la asamblea y administración de la sociedad podrán continuar reuniéndose regularmente para conocer los asuntos que les competen y de los informes que formule el interventor administrador sobre el funcionamiento y las operaciones de la negociación, así como para opinar sobre los asuntos que se sometan a su consideración. El interventor podrá convocar a asamblea de accionistas, socios o partícipes y citar a la administración de la sociedad con los propósitos que considere necesarios o convenientes, previa autorización de la autoridad competente en términos de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior y las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 171.
 
@@ -2263,9 +2685,11 @@ Si el importe de la postura es menor al interés fiscal, se rematarán de contad
 
 La autoridad exactora podrá enajenar a plazos los bienes embargado (sic). En este supuesto el embargado quedará liberado de la obligación de pago.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 182.
 
-Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria, expedido por la Secretaría de Hacienda Pública y Tesorería del Estado.
+Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria, expedido por la autoridad competente en términos de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior y las disposiciones jurídicas aplicables.
 
 El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente Artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la autoridad ejecutora, se devolverán los certificados de depósito a los postores, o las cantidades depositadas en la propia oficina, excepto en que corresponda al admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
 
@@ -2273,7 +2697,9 @@ El importe de los depósitos que se constituyan de acuerdo con lo que establece 
 
 El escrito en que se haga la postura deberá contener:
 
-I.- Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor, y en su caso, la clave del registro federal de contribuyentes; Tratándose de sociedades, la denominación o razón social, la fecha de constitución y el domicilio social.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I.- Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor y, en su caso, la clave del Padrón de Contribuyentes del Estado; tratándose de sociedades, la denominación o razón social, la fecha de constitución y el domicilio social.
 
 II.- La cantidad que se ofrezca y la forma de pago.
 
@@ -2307,9 +2733,11 @@ El ejecutado, aún en el caso de rebeldía, responde por la evicción.
 
 Los bienes pasarán a ser propiedad del adquirente libres de gravámenes y a fin de que éstos se cancelen, tratándose de inmuebles, la autoridad ejecutora lo comunicará al Registro Público que corresponda, en un plazo que no excederá de quince días.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 189.
 
-Una vez que se hubiese otorgado y firmado la escritura en que conste la adjudicación de un inmueble, la autoridad ejecutora dispondrá que se entregue al adquirente, girando las ordenes necesarias, aún las de desocupación, si estuviese habitado por el ejecutado o por terceros que no pudieran acreditar legalmente el uso.
+Una vez que se hubiese otorgado y firmado la escritura en que conste la adjudicación de un inmueble, la autoridad ejecutora dispondrá que se entregue al adquirente, girando las órdenes necesarias, aun las de desocupación, si estuviese habitado por el ejecutado o por terceros que no pudieran acreditar legalmente el uso.
 
 ###### ARTICULO 190.
 
@@ -2365,7 +2793,7 @@ En caso de conflicto, el remanente se depositará en institución de crédito au
 
 ###### ARTICULO 198.
 
-El conocimiento y resolución del Juicio de Nulidad corresponde al Tribunal de lo Contencioso Administrativo del Estado y el mismo se tramitará y regirá por lo dispuesto en la Ley de Justicia Administrativa para el Estado de Sinaloa.
+El conocimiento y resolución del juicio contencioso administrativo local corresponde al Tribunal de Justicia Administrativa del Estado, y el mismo se tramitará y regirá por lo dispuesto en la Ley de Justicia Administrativa para el Estado de Sinaloa.
 
 T R A N S I T O R I O S
 
@@ -2488,3 +2916,105 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO. 334 POR EL QUE SE EXPIDEN LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA Y LA LEY ORGÁNICA DE LA PROCURADURÍA FISCAL, AMBAS DEL ESTADO DE SINALOA; Y SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, CÓDIGO FISCAL MUNICIPAL, LEY DE HACIENDA, LEY DE COORDINACIÓN FISCAL, LEY DE JUSTICIA ADMINISTRATIVA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, LEY DE TRÁNSITO Y TRANSPORTES, LEY DE PLANEACIÓN, LEY DE AGUA POTABLE Y ALCANTARILLADO, Y LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS, TODOS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de Abril del año 2018, previa su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador Constitucional del Estado de Sinaloa, deberá expedir el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa dentro de los cinco días posteriores a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Gobernador Constitucional del Estado de Sinaloa designará al Director General del Servicio de Administración Tributaria del Estado de Sinaloa conforme a lo previsto en el artículo 17 de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, dentro de los cinco días posteriores a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador Constitucional del Estado de Sinaloa, en su carácter de Presidente Honorario del Órgano Superior de Dirección del Servicio de Administración Tributaria del Estado de Sinaloa, emitirá y publicará en el Periódico Oficial "El Estado de Sinaloa", el Estatuto del Servicio Fiscal de Carrera de dicho organismo, que deberá entrar en vigor el mismo día en que el presente Decreto inicie su vigencia.
+
+Una vez instalado el Órgano Superior de Dirección del Servicio de Administración Tributaria del Estado de Sinaloa, procederá a ratificar el Estatuto del Servicio Fiscal de Carrera del organismo y será el responsable de mantenerlo actualizado, así como analizar y, en su caso, aprobar las reformas que sean sometidas a su consideración por el Director General del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO QUINTO.
+
+Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de Administración y Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Tributaria del Estado de Sinaloa, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior o cualquier otra disposición jurídica que emane de ellos.
+
+###### ARTÍCULO SEXTO.
+
+Toda mención que se haga a la autoridad fiscal o tributaria del estado de Sinaloa en cualquier ordenamiento jurídico o administrativo, federal o estatal, se entenderá hecha al Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que, a la fecha de entrada en vigor de la presente Ley, se encuentren en trámite ante la Procuraduría Fiscal, la Subsecretaría de Ingresos o en cualquier unidad administrativa de la Secretaría de Administración y Finanzas, se seguirán tramitando hasta su total conclusión ante el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Las solicitudes de devolución de cantidades a favor de los contribuyentes que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite ante la Secretaría de Administración y Finanzas, seguirán su trámite ante el Servicio de Administración Tributaria del Estado de Sinaloa, para lo cual dicho órgano desconcentrado en el primer acto de autoridad, requerimiento o aviso relacionado con la solicitud de devolución, notificará al particular la sustitución de autoridad.
+
+Los recursos y juicios interpuestos en contra de actos o resoluciones de la Procuraduría Fiscal del Estado de Sinaloa, la Subsecretaría de Ingresos o de cualquier unidad administrativa de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite y representación de dicha Procuraduría Fiscal, vinculados con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su reglamento o cualquier disposición que emane de ellos, se seguirán tramitando por la citada Procuraduría Fiscal hasta su total conclusión.
+
+###### ARTÍCULO OCTAVO.
+
+Los amparos contra actos o resoluciones de las unidades administrativas adscritas a la Procuraduría Fiscal, la Subsecretaría de Ingresos o cualquier unidad administrativa de la Secretaría de Administración y Finanzas, cuya interposición les sea notificada, con el carácter de autoridad responsable o de tercero interesado, con anterioridad a la entrada en vigor de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, que estén vinculados con la materia objeto de la presente Ley, su reglamento o cualquier disposición que emane de ellos, se seguirán tramitando por la Procuraduría Fiscal del Estado de Sinaloa hasta su total conclusión.
+
+###### ARTÍCULO NOVENO.
+
+Las unidades administrativas que con la emisión de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa resulten competentes, notificarán por escrito a los contribuyentes de la sustitución de autoridad, para tal efecto se estará a lo siguiente:
+
+a) Tratándose del ejercicio de las facultades de comprobación, la autoridad que resulte competente notificará por escrito al contribuyente del cambio de autoridad, así como del aumento o sustitución de auditores, antes de continuar con el desahogo de los procedimientos inherentes al acto de fiscalización.
+
+b) Tratándose de actos distintos a los actos de fiscalización, dicha notificación se entenderá hecha con el primer acuerdo, aviso o respuesta que recaiga al trámite de que se trate, sin que sea necesario emitir un escrito ex profeso para tal efecto.
+
+En todo caso, los actos y resoluciones deberán estar debidamente fundados y motivados conforme al texto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, coordinará las acciones necesarias para que los archivos y expedientes vinculados con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior y cualquier otra disposición jurídica que de ellos emane, pasen a formar parte del inventario del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Para efectos de lo dispuesto en el presente transitorio se deberán realizar las actas de entrega-recepción, con todas las formalidades y requisitos previstos en las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Gobernador Constitucional del Estado de Sinaloa, a través de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, dispondrá lo conducente a fin de que a partir de la entrada en vigor del presente Decreto se lleve a cabo la asignación de los recursos materiales y financieros que requiera el Servicio de Administración Tributaria del Estado de Sinaloa para el correcto ejercicio de las atribuciones objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, conforme a lo dispuesto en la Ley del Servicio de Administración Tributaria del Estado de Sinaloa y del Estatuto del Servicio Fiscal de Carrera, transferirá al personal que formarán parte del Servicio de Administración Tributaria del Estado de Sinaloa, de entre los que se encuentren prestando servicios en las diferentes áreas de la Subsecretaría de Ingresos. Para este objeto, el Servicio de Administración Tributaria del Estado de Sinaloa, proporcionará capacitación al personal que opte por someterse a las pruebas de selección contempladas en el Estatuto del Servicio Fiscal de Carrera.
+
+La asignación de personal que integre el Servicio de Administración Tributaria del Estado de Sinaloa, deberá concluir en un plazo no mayor a un año conforme a lo establecido en el Estatuto del Servicio Fiscal de Carrera. En tanto este proceso no concluya, las áreas o unidades de la Subsecretaría de Ingresos encargadas de las funciones de la administración tributaria del Estado (sic) Sinaloa, deberán seguir desarrollando las mismas en el marco de las facultades que tiene a su cargo y que les otorga la Ley, hasta que sean sustituidas por el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los servidores públicos de base que se encuentran prestando servicios en la Subsecretaría de Ingresos, cuyas atribuciones sean asumidas por el Servicio de Administración Tributaria del Estado de Sinaloa a la entrada en vigor del presente Decreto, en ninguna forma resultarán afectados en los derechos adquiridos con motivo de su relación laboral, conservando ante su transición al nuevo organismo desconcentrado la misma calidad, sus derechos y preservando su antigüedad en los términos de la normatividad aplicable, subrogándose al Servicio de Administración Tributaria del Estado de Sinaloa, como nuevo empleador en todos los derechos y obligaciones derivados de esa relación laboral y aquellos consagrados en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, o en las Condiciones Generales de Trabajo establecidas en el contrato colectivo de trabajo.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se abroga la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa", número 99, de fecha 18 de agosto de 1993, Segunda Sección.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Gobernador Constitucional del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa", el Reglamento de la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, en un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Gobernador Constitucional del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa", las modificaciones necesarias al Reglamento de la Ley de Tránsito y Transportes del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+La recaudación que se obtenga por el pago de los últimos cinco años anteriores a la entrada en vigor del presente Decreto, del Impuesto Sobre Tenencia o Uso de Vehículos a que se refería el Capítulo II de la Ley de Hacienda del Estado de Sinaloa, el 20% será distribuido a los municipios en los términos y para los efectos que establece el Artículo 3° Bis A de la Ley de Coordinación Fiscal del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Las funciones que realizaba la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF) hasta la entrada en vigor del presente Decreto, serán desempeñadas por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, en términos de su Reglamento Interior. Los derechos de los trabajadores serán respetados en la reestructura objeto del presente Decreto.
+
+Los juicios en los que sea parte la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF) hasta la entrada en vigor del presente Decreto, serán competencia de la Secretaría General de Gobierno en términos de lo dispuesto por su Reglamento Interior.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaciones que se estimen pertinentes para efectos de reasignar el presupuesto que a prorrata aportaban para sufragar los gastos de la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF), hasta la entrada en vigor del presente Decreto, de acuerdo con la legislación aplicable.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
