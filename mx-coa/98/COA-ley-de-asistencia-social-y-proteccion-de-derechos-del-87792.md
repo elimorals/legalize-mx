@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2017-06-23"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -184,6 +184,10 @@ a) En estado de gestación o lactancia, carentes de recursos económicos, y sus 
 b) En situación de maltrato o abandono, o
 
 c) En situación de explotación, incluyendo la sexual.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+d) Jefas de Familia.
 
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 2017)</small>
 
@@ -1348,3 +1352,11 @@ CUARTO.- El Comité para la administración del Fondo para la Investigación y A
 QUINTO.- Los Lineamientos para la Administración de los recursos del Fondo para la Investigación y Atención del Autismo, deberán ser emitidos dentro de los treinta días posteriores a la instalación del Comité.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1045.- SE ADICIONA EL INCISO D) DE LA FRACCIÓN II AL ARTÍCULO 6, DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
