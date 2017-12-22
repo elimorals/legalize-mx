@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-responsabilidades-de-los-servidores-publicos-del-6667"
 country: "mx"
 rank: "ley"
 publication_date: "1985-11-08"
-last_updated: "2016-12-28"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,748 +21,1290 @@ state: "SIN"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA
 
-[NOTA 1. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, DE LOS CAPÍTULOS I, VII Y IX SE DEROGAN LOS ARTÍCULOS QUE SE REFIEREN A LA MATERIA DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS DEL ESTADO, QUEDANDO VIGENTES LOS DIVERSOS DISPOSITIVOS JURÍDICOS QUE RIGEN LOS PROCEDIMIENTOS RELATIVOS AL JUICIO POLÍTICO Y A LA DECLARATORIA DE PROCEDENCIA POR LA COMISIÓN DE DELITOS.]
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, LA PRESENTE DEROGACIÓN ENTRARÁ EN VIGOR A LOS TREINTA DÍAS SIGUIENTES A SU PUBLICACIÓN.]
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE ENERO DE 2016.
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
-Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 8 de noviembre de 1985.
+ARTURO MONTIEL ROJAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE SINALOA
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-El Ciudadano ANTONIO TOLEDO CORRO, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+DECRETO NUMERO 46
 
-Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
+A H. "LV" LEGISLATURA DEL ESTADO DE MEXICO
 
-El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su Quincuagésima Primera Legislatura, ha tenido a bien expedir el siguiente:
-
-DECRETO NUMERO 291
-
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, DE LOS CAPÍTULOS I, VII Y IX SE DEROGAN LOS ARTÍCULOS QUE SE REFIEREN A LA MATERIA DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS DEL ESTADO, QUEDANDO VIGENTES LOS DIVERSOS DISPOSITIVOS JURÍDICOS QUE RIGEN LOS PROCEDIMIENTOS RELATIVOS AL JUICIO POLÍTICO Y A LA DECLARATORIA DE PROCEDENCIA POR LA COMISIÓN DE DELITOS.</small>
+DECRETA:
 
 ###### ARTICULO PRIMERO.
 
-Se abroga la Ley de Responsabilidades de los Funcionarios y Empleados al Servicio del Estado y de los Municipios de Sinaloa, contenida en el Decreto número 38 expedido el 12 de junio de 1975 y publicada en el Periódico Oficial "El Estado de Sinaloa", número 80, el día 4 de julio del mismo año, y se derogan todas aquellas disposiciones que se opongan a la presente Ley. Los procedimientos que se hubieren iniciado bajo la vigencia de la que se abroga y que estuvieren pendientes de resolución al entrar ésta en vigor, continuarán tramitándose y se resolverán conforme a aquélla.
+Se expide la Ley de Transparencia y Acceso a la Información Pública del Estado de México, conforme al tenor siguiente:
 
-###### ARTICULO SEGUNDO.
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE JULIO DE 2008)</small>
 
-Dentro de los treinta días siguientes al que entre en vigor el presente Decreto, se reformará la Ley Orgánica del Congreso del Estado para el efecto de establecer, con el carácter de permanente, la Comisión Instructora.
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-###### ARTICULO TERCERO.
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-Independientemente de las disposiciones contenidas en la presente Ley, quedan preservados los derechos sindicales de los servidores públicos de base.
+### Capítulo I. Objeto de la Ley
 
-###### ARTICULO CUARTO.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-Las unidades específicas a que se refiere el Artículo 54 de la presente Ley, se establecerán en un plazo no mayor de noventa días a partir de la fecha en que ésta entre en vigor.
+###### Artículo 1.
 
-###### ARTICULO QUINTO.
+La presente Ley es reglamentaria de los párrafos décimo quinto, décimo sexto y décimo séptimo del artículo 5 de la Constitución Política del Estado Libre y Soberano de México, y tiene por objeto, transparentar el ejercicio de la función pública, tutelar y garantizar a toda persona, el ejercicio del derecho de acceso a la información pública, que se encuentren en posesión de los sujetos obligados, y tiene como objetivos:
 
-Las Contralorías Generales a que se refiere esta Ley, se establecerán en un plazo no mayor de noventa días a partir de la fecha de iniciación de su vigencia, y dentro del mismo plazo el Gobernador del Estado adecuará, en lo conducente, a los términos de la misma, la estructura y atribuciones de la Contraloría General del Poder Ejecutivo creada mediante decreto expedido por su titular con fecha 11 de junio de 1984, publicado en el Periódico Oficial "El Estado de Sinaloa", número 82, correspondiente al día 9 de julio del mismo año.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-###### ARTICULO SEXTO.
+I. Promover la transparencia de la gestión pública y la rendición de cuentas de los sujetos obligados hacia la sociedad, bajo el principio de máxima publicidad;
 
-Dentro del mismo plazo señalado en el artículo anterior, se creará la Unidad de Control y Evaluación en el seno del Comité Estatal de Planeación para el Desarrollo de Sinaloa y en el seno de los Comités de Planeación para el Desarrollo Municipal.
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2012)</small>
 
-###### ARTICULO SEPTIMO.
+II. Facilitar el acceso de los particulares a la información pública, mediante procedimientos sencillos y expeditos, de manera oportuna y gratuita;
 
-La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 1992)</small>
+III. Contribuir a la mejora de la gestión pública y a la toma de decisiones en las políticas gubernamentales, mediante mecanismos que alienten la participación ciudadana en el acceso a la información;
 
-###### ARTICULO OCTAVO.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-En tanto no se establezcan las Contralorías Generales de los Poderes Legislativo y Judicial, la Contaduría Mayor de Hacienda y la Oficialía Mayor, respectivamente, desarrollarán las funciones que esta Ley encomienda a las Contralorías.
+IV. Promover una cultura de transparencia y acceso a la información; y
 
-Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los siete días del mes de octubre de mil novecientos ochenta y cinco.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-Profr. Eladio Rafael López Mejia
+V. Garantizar a través de un órgano autónomo:
 
-Diputado Presidente
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-C. Alberto Rodríguez Sarmiento
+A) El acceso a la información pública;
 
-Diputado Secretario
+B) (DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-C. Leocadio Salas Hernández
+C) (DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-Diputado Secretario
+D) (DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-Es dado en el Palacio del Poder Ejecutivo en la ciudad de Culiacán Rosales, Sinaloa, a los cinco días del mes de noviembre de mil novecientos ochenta y cinco.
+Dicho órgano será responsable de promover y difundir estas garantías y resolver los procedimientos relacionados con éstas.
 
-El Gobernador Constitucional del Estado
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-C. ANTONIO TOLEDO CORRO
+Los particulares tendrán acceso preferente a la información personal que de ellos posea cualquier sujeto obligado, en los términos y condiciones establecidas en la Ley de Protección de Datos Personales del Estado de México.
 
-El Secretario de Gobierno
+### Capítulo II. De las Definiciones
 
-LIC. ELEUTERIO RIOS ESPINOZA
+###### Artículo 2.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+Para los efectos de esta Ley, se entenderá por:
 
-P.O. 16 DE NOVIEMBRE DE 1992.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-###### ARTICULO UNICO.
+I. Comité de Información: al cuerpo colegiado que se integre para resolver sobre la información que deberá clasificarse, así como para atender y resolver los requerimientos de las Unidades de Información y del Instituto.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-P.O. 13 DE ABRIL DE 2011.
+II. Datos Personales: a cualquier información concerniente a una persona física o jurídica colectiva identificada o indentificable, establecida en cualquier formato o modalidad y que esté almacenada en bases de datos, conforme a lo establecido en esta Ley.
 
-Artículo Primero.- La presente ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-Artículo Segundo.- Se derogan los capítulos V, VI y VIII de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+III. Derecho de Acceso a la Información: a la facultad que tiene toda persona para acceder a la información pública generada, o en poder de los sujetos obligados con forme (sic) a esta Ley.
 
-Artículo Tercero.- De los capítulos I, VII, y IX, de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, únicamente se derogan los artículos que se refieren a la materia de responsabilidad administrativa de los servidores públicos del Estado, quedando vigentes los diversos dispositivos jurídicos que se contienen en dichos capítulos y que rigen los procedimientos relativos al juicio político y a la declaratoria de procedencia por la comisión de delitos.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-Artículo Cuarto.- A la entrada en vigor de la presente ley, continuarán vigentes los capítulos II, III, y IV de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, referentes al juicio político y a la declaratoria de procedencia por la comisión de delitos.
+IV. Documentos: a los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, convenios, contratos, instructivos, notas, memorándums, estadísticas, o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier formato, sea escrito, sonoro, visual, electrónico, informático, holográfico o de cualquier tecnología de información existente.
 
-Artículo Quinto. Se derogan todas las disposiciones que se opongan a la presente ley.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-Artículo Sexto.- Los procedimientos y recursos administrativos que se hayan iniciado por las autoridades conforme a las leyes o reglamentos aplicables, antes de la entrada en vigor de este ordenamiento y que se encuentren en trámite o pendientes de resolución, deberán sustanciarse y resolverse conforme con las disposiciones vigentes en el momento en el que se iniciaron tales procedimientos.
+V. Información Clasificada: aquella considerada por la presente Ley como reservada o confidencial.
 
-Artículo Séptimo.- Cuando en materia de responsabilidad de servidores públicos, otras leyes, reglamentos y demás disposiciones jurídicas o administrativas hagan mención de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, se entenderán referidas a este ordenamiento, con la salvedad que se establece en el artículo cuarto transitorio del presente decreto.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-Artículo Octavo.- En tanto no se establezcan los Órganos Internos de Control de los Poderes Legislativo y Judicial; la Comisión de Fiscalización del Congreso del Estado y el Pleno del Supremo Tribunal de Justicia del Estado, respectivamente, desarrollarán las funciones que esta Ley les encomienda; asimismo, en los Ayuntamientos será el Síndico Procurador quien ejercerá las citadas funciones. El Congreso del Estado, el Supremo Tribunal y demás sujetos obligados al cumplimiento de la presente Ley, contarán con 90 días naturales para establecer sus respectivos Órganos Internos de Control, por lo que deberán hacer las previsiones legales, reglamentarias, presupuestales y administrativas necesarias para cumplir con esta disposición.
+VI. Información Confidencial: a la clasificada con este carácter, por las disposiciones de esta u otras leyes.
 
-Artículo Noveno.- Las Dependencias y Organismos que a la entrada en vigor del presente Decreto cuenten con Órganos Internos de Control, deberán reformar sus reglamentos adicionando las facultades que esta Ley les confiere, en un plazo no mayor a 90 días naturales, lo cual no implicará el incremento de su estructura orgánica.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-Artículo Décimo.- Las declaraciones patrimoniales de los servidores públicos de los Municipios que a la entrada en vigor del presente Decreto, tenga bajo su resguardo la Unidad de Trasparencia y Rendición de Cuentas del Estado, deberán ser entregados al Síndico Procurador correspondiente, mediante el procedimiento de entrega-recepción.
+VII. Información Pública: a la contenida en los documentos que los sujetos obligados generen en ejercicio de sus atribuciones.
 
-P.O. 17 DE JUNIO DE 2016.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+VIII. Información Reservada: a la clasificada con este carácter de manera temporal por las disposiciones de esta Ley, cuya divulgación puede causar daño en términos de lo establecido por el artículo 20 del presente ordenamiento.
 
-###### ARTICULO 1o.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-Son sujetos de esta Ley los servidores públicos del Estado y de los Municipios, independientemente de la jerarquía, denominación y origen del empleo, cargo o comisión.
+IX. Instituto: al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-###### ARTICULO 2o.
+X. Ley: a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
-Para los efectos de la aplicación de la presente Ley, se entenderá por servidor público lo dispuesto en el artículo 130 de la Constitución Política del Estado.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-###### ARTICULO 3o.
+XI. Órganos Autónomos: al Instituto Electoral del Estado de México, el Tribunal Estatal Electoral, la Comisión de Derechos Humanos del Estado de México, el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, las Universidades e Instituciones de Educación Superior dotadas de autonomía, y cualquier otro establecido en la Constitución Política del Estado Libre y Soberano de México.
 
-La aplicación de la presente Ley corresponde, en sus respectivos ámbitos de competencia:
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-I.- Al Poder Ejecutivo del Estado;
+XII. Seguridad del Estado: a la integridad de los elementos esenciales del Estado de México y Municipios, como población, territorio, gobierno, orden jurídico, la soberanía estatal, la autonomía municipal y la seguridad interior.
 
-II.- Al Congreso del Estado;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-III.- Al Poder Judicial del Estado;
+XIII. Servidor Público: a toda persona que desempeñe un empleo, cargo o comisión en alguno de los poderes del Estado, en los municipios, en los tribunales administrativos y organismos auxiliares, así como los titulares o quienes hagan sus veces en empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a estas, en los fideicomisos públicos y en los órganos autónomos. Por lo que toca a los demás trabajadores del sector auxiliar, su calidad de servidores públicos estará determinada por los ordenamientos legales respectivos.
 
-IV.- A los Ayuntamientos de la Entidad;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-V.- A las Contralorías Generales de cada uno de los Poderes del Estado y de los Ayuntamientos; y,
+XIV. Servidor Público Habilitado: a la persona encargada dentro de las diversas unidades administrativas o áreas del sujeto obligado, de apoyar con información y datos personales que se ubiquen en la misma, a sus respectivas Unidades de Información, respecto de las solicitudes presentadas, y aportar en primera instancia el fundamento y motivación de la clasificación de la información.
 
-VI.- A quienes determine la presente Ley y las disposiciones legales relativas.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-###### ARTICULO 4o.
+XV. Unidades de Información: a las establecidas por los sujetos obligados para tramitar las solicitudes de acceso a la información pública, a datos personales, así como los derechos ARCO definidos en la Ley de Protección de Datos Personales del Estado de México.
 
-Se concede acción popular para que cualquier ciudadano pueda denunciar los delitos y faltas a que se refiere la presente Ley, bajo la estricta responsabilidad del denunciante y mediante la presentación de elementos de prueba.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-###### ARTICULO 5o.
+XVI. Versión Pública: al documento en el que se elimina, suprime o borra la información clasificada como reservada o confidencial para permitir su acceso.
 
-Los procedimientos relativos a lo preceptuado en esta Ley se desarrollarán autónomamente y por la vía procesal correspondiente, sin que puedan imponerse por una sola conducta dos sanciones de la misma naturaleza.
+## TITULO SEGUNDO. SUJETOS DE LA LEY
 
-###### ARTICULO 6o.
+### Capítulo I. De los Derechos de las Personas
 
-Para la aplicación de la presente Ley se establecen los siguientes procedimientos:
+###### Artículo 3.
 
-I.- Juicio Político;
+La información pública generada, administrada o en posesión de los Sujetos Obligados en ejercicio de sus atribuciones, será accesible de manera permanente a cualquier persona, privilegiando el principio de máxima publicidad de la información. Los Sujetos Obligados deben poner en práctica, políticas y programas de acceso a la información que se apeguen a criterios de publicidad, veracidad, oportunidad, precisión y suficiencia en beneficio de los solicitantes.
 
-II.- Declaratoria de Procedencia por la Comisión de Delitos; y,
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
-III.- De Responsabilidades y Sanciones Administrativas.
+###### Artículo 4.
 
-### CAPITULO II. DE LOS SUJETOS, CAUSAS Y SANCIONES EN EL JUICIO POLITICO
+Toda persona tiene el derecho de acceso a la información pública, sin necesidad de acreditar su personalidad ni interés jurídico.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+En materia política, solo podrán ejercer este derecho los mexicanos.
 
-###### ARTICULO 7o.
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-Son sujetos de Juicio Político, el Gobernador del Estado, los Diputados de la Legislatura, los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados de las Salas de Circuito del Poder Judicial del Estado, los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal o paramunicipal, así como los Presidentes Municipales, Regidores y Síndicos Procuradores de los Ayuntamientos y comisionados del organismo garante a que se refiere el artículo 109 Bis B de la Constitución Política del Estado de Sinaloa.
+###### Artículo 5.
 
-###### ARTICULO 8o.
+En el caso de los derechos, los principios, los procedimientos, las medidas de seguridad en el tratamiento, y demás disposiciones en materia de datos personales se deberá estar a lo que dispone la Ley de Protección de Datos Personales del Estado de México.
 
-Procederá el juicio político en contra del Gobernador del Estado, los Diputados Locales y los Magistrados del Supremo Tribunal de Justicia, solamente por las faltas u omisiones en que incurran durante el ejercicio de su encargo, en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+###### Artículo 6.
 
-###### ARTICULO 9o.
+El acceso a la información pública será permanente y gratuito. La expedición de documentos, grabaciones y reproducciones se sujetará, en su caso, al pago de los derechos, productos y aprovechamientos establecidos en la legislación correspondiente.
 
-Son causas que lesionan los intereses públicos fundamentales o su buen despacho:
+> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-I.- La violación grave a disposición expresa de la Constitución Política de los Estados Unidos Mexicanos, o de la del Estado, o de las leyes que de ellas emanen;
+En ningún caso, el pago de derechos deberá exceder el costo de reproducción de la información en el material solicitado y el costo de envío.
 
-II.- El manejo indebido de fondos y recursos del Estado o de la Federación; y,
+### Capítulo II. De los Sujetos Obligados
 
-III.- Los ataques a la libertad de sufragio.
+###### Artículo 7.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2016)</small>
+Son sujetos obligados:
 
-### CAPITULO III. DEL PROCEDIMIENTO EN EL JUICIO POLITICO
+I. El Poder Ejecutivo del Estado de México, las dependencias y organismos auxiliares, los fideicomisos públicos y la Procuraduría General de Justicia;
 
-### CAPITULO IV. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
+II. El Poder Legislativo del Estado, los órganos de la Legislatura y sus dependencias;
 
-###### ARTICULO 10.
+III. El Poder Judicial y el Consejo de la Judicatura del Estado;
 
-El juicio político procede en contra de los Secretarios de Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como de los titulares y directores o equivalentes de las entidades, instituciones u organismos que integren la administración pública paraestatal y paramunicipal, los Presidentes Municipales, Regidores y Síndicos Procuradores de los Ayuntamientos así como los comisionados del organismo garante a que se refiere el artículo 109 Bis B de la Constitución Política del Estado de Sinaloa, por las causas señaladas en el artículo anterior y además por las siguientes:
+IV. Los Ayuntamientos y las dependencias y entidades de la administración pública municipal;
 
-I.- Las violaciones graves y sistemáticas a las garantías individuales o sociales;
+V. Los Órganos Autónomos;
 
-II.- La usurpación de atribuciones;
+VI. Los Tribunales Administrativos.
 
-III.- Cualquier infracción a la Constitución Política de los Estados Unidos Mexicanos, a la del Estado, a las leyes federales o locales, cuando cause perjuicios graves a la Federación, al Estado, a los Municipios, a la sociedad, o motive algún trastorno en el funcionamiento normal de las instituciones;
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-IV.- Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la administración pública federal, estatal o municipal y a las leyes que determinen el manejo de sus recursos económicos.
+Los partidos políticos atenderán los procedimientos de transparencia y acceso a la información pública por conducto del Instituto Electoral del Estado de México, y proporcionarán la información a que están obligados en los términos del Código Electoral del Estado de México.
 
-###### ARTICULO 11.
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
-No procederá el Juicio Político por la sola expresión de las ideas.
+Los sujetos obligados deberán hacer pública toda aquella información relativa a los montos y las personas a quienes entreguen, por cualquier motivo, recursos públicos, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos.
 
-### CAPITULO V. DE LAS RESPONSABILIDADES Y SANCIONES ADNINISTRATIVAS (SIC)
+Los servidores públicos deberán transparentar sus acciones así como garantizar y respetar el derecho a la información pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-###### ARTICULO 12.
+###### Artículo 8.
 
-Los servidores públicos mencionados en el presente Capítulo, en su caso, serán sancionados con destitución del empleo, cargo o comisión y atendiendo a la gravedad de la falta podrá imponerse además inhabilitación para el servicio público, desde uno hasta veinte años.
+Los responsables y quienes intervengan en el procesamiento de datos de información reservada y confidencial están obligados a guardar el secreto y sigilo correspondiente, conservando la confidencialidad aún después de cesar en su función como servidor público.
 
-###### ARTICULO 13.
+En caso de contravención se estará a lo dispuesto por los ordenamientos administrativos correspondientes, independientemente de las acciones penales o civiles correspondientes.
 
-En el procedimiento relativo al Juicio Político, el Congreso del Estado fungirá como Jurado de Acusación y el Supremo Tribunal de Justicia como Jurado de Sentencia.
+###### Artículo 9.
 
-###### ARTICULO 14.
+Los Sujetos Obligados deberán informar anualmente por escrito al Instituto sobre las actividades realizadas, en cumplimiento de las obligaciones que se deriven de la presente Ley.
 
-Sólo podrá darse inicio al procedimiento a que se refiere el artículo anterior, previa denuncia por escrito, la que deberá contener los siguientes requisitos;
+###### Artículo 10.
 
-I.- Nombre y domicilio del denunciante;
+En la Administración y Custodia de los archivos de información pública, los sujetos obligados, los servidores públicos habilitados y los servidores públicos en general, se ajustarán a lo establecido por la Ley de Documentos Administrativos e Históricos del Estado de México.
 
-II.- Relación suscinta (sic) de los hechos y de los elementos de prueba en que se apoye la denuncia; y,
+###### Artículo 11.
 
-III.- Firma o huella digital del denunciante.
+Los Sujetos Obligados sólo proporcionarán la información que generen en el ejercicio de sus atribuciones.
 
-A las denuncias anónimas no se les dará curso alguno.
+## TITULO TERCERO. DE LA INFORMACION
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+### Capítulo I. De la información Pública de Oficio
 
-###### ARTICULO 15.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-La denuncia deberá ser presentada ante la Secretaría General del Congreso del Estado y ratificada dentro de los tres días hábiles siguientes.
+###### Artículo 12.
 
-Una vez formado el expediente se remitirá al Presidente del Congreso, quien lo turnará a la Comisión de Puntos Constitucionales y Gobernación para que después de analizarlo dictamine si la conducta atribuida encuadra dentro de las causales establecidas para el Juicio Político, si el denunciado está comprendido entre los servidores públicos señalados en el Artículo 7o., y si la denuncia amerita el inicio del procedimiento. En este último supuesto, se turnarán al seno del Congreso el dictamen y demás constancias. En caso negativo, el Presidente de dicha Comisión declarará la improcedencia del Juicio Político y mandará archivar el expediente como asunto concluido.
+Los Sujetos Obligados deberán tener disponible en medio impreso o electrónico, de manera permanente y actualizada, de forma sencilla, precisa y entendible para los particulares, la información siguiente:
 
-###### ARTICULO 16.
+I. Leyes, reglamentos, decretos, acuerdos, convenios, manuales de organización y procedimientos y demás disposiciones en los que se establezca su marco jurídico de actuación;
 
-Recibido el dictamen de la Comisión de Puntos Constitucionales y Gobernación, en su primera sesión el Congreso del Estado lo turnará a la Comisión Instructora, a la cual le corresponderá practicar, con audiencia del denunciado, las diligencias necesarias para la comprobación de la conducta o hecho materia de aquella y establecer las circunstancias del caso, así como la intervención que haya tenido el servidor público denunciado.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Los trámites señalados en el artículo anterior y en el primer párrafo de éste, tendrán el carácter de reservados.
+II. Directorio de servidores públicos de mandos medios y superiores con referencia particular a su nombramiento oficial, puesto funcional, remuneración de acuerdo con lo previsto por el Código Financiero; datos que deberán señalarse de forma independiente por dependencia y entidad pública de cada Sujeto Obligado;
 
-La Comisión Instructora, dentro de los tres días siguientes de recibido el expediente, le hará llegar al denunciado copia de la denuncia y de las constancias que se estimen necesarias, emplazándole para que en un término de siete días hábiles siguientes a la notificación, en uso de su garantía de audiencia, comparezca personalmente o conteste por escrito sobre la materia de la denuncia, ofrezca pruebas y designe defensor si lo estima conveniente.
+III. Los programas anuales de obras y, en su caso, la información relativa a los procesos de licitación y contratación del área de su responsabilidad;
 
-###### ARTICULO 17.
+IV. La que contenga los sistemas, procesos, oficinas, ubicación, costos y responsables de atender las solicitudes de acceso a la información, así como el registro de las solicitudes recibidas y atendidas;
 
-Concluido el término de contestación de la denuncia, la Comisión Instructora procederá a la calificación, admisión y desahogo de las pruebas ofrecidas, dentro de un periodo de veinte días hábiles, pudiendo además allegarse las que estime necesarias.
+V. Nombre, dirección, teléfono y horarios de atención al público de los responsables de las Unidades de Información;
 
-Si no es posible recibir oportunamente las pruebas admitidas o se considera necesario allegarse otras, la Comisión podrá ampliar el plazo por el tiempo estrictamente necesario, sin que pueda exceder de quince días hábiles.
+VI. La contenida en los acuerdos y actas de las reuniones oficiales, de cualquier órgano colegiado de los Sujetos Obligados;
 
-###### ARTICULO 18.
+VII. Presupuesto asignado y los informes sobre su ejecución, en los términos que establece el Presupuesto de Egresos del Gobierno del Estado;
 
-Agotada la recepción de las pruebas se pondrá el expediente a la vista, primero del denunciante y después del denunciado, por cinco días hábiles a cada uno, para que formulen por escrito sus alegatos.
+VIII. Padrones de beneficiarios de los programas desarrollados por el Estado y los municipios, así como información disponible sobre el diseño, montos, acceso y ejecución de los programas de subsidio, siempre y cuando la publicación de estos datos no produzca discriminación. Esta disposición sólo será aplicable en aquellos programas que por su naturaleza y características permitan la integración de los padrones de referencia;
 
-### CAPITULO VI. DEL PROCEDIMIENTO PARA LA APLICACION DE SANCIONES ADMINISTRATIVAS
+IX. La situación financiera de los municipios, Poder Legislativo y sus órganos, Poder Judicial y Consejo de la Judicatura, Tribunales Administrativos, Órganos Autónomos, así como de la deuda pública municipal, conforme a las disposiciones legales aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+X. La que proporcionen los partidos políticos a la autoridad electoral, a la que sólo tendrán acceso los mexicanos;
 
-###### ARTICULO 19.
+XI. Los procesos de licitación y contratación para la adquisición de bienes, arrendamientos y prestación de servicios que hayan celebrado en el área de su responsabilidad con personas físicas o morales de derecho privado;
 
-Transcurrido el término de alegatos, la Comisión Instructora formulará sus conclusiones dentro de los tres días hábiles siguientes.
+XII. Convenios que suscriban con otros entes de los sectores público, social y privado;
 
-###### ARTICULO 20.
+XIII. Mecanismos de participación ciudadana en los procesos de elaboración, implementación y evaluación de políticas públicas y toma de decisiones;
 
-Si de las constancias del procedimiento se desprende la inculpabilidad del denunciado, la Comisión Instructora propondrá en sus conclusiones que se declare que no ha lugar a proceder en su contra.
+XIV. Planeación, programación y contenidos de la información que difundan a través de los diversos medios escritos y electrónicos;
 
-Si a juicio de la Comisión resulta probable la responsabilidad del denunciado, propondrá en sus conclusiones que se declare:
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-I.- Que está legalmente comprobada la conducta o el hecho materia de la denuncia;
+XV. Agenda de reuniones públicas a las que convoquen los titulares de los sujetos obligados;
 
-II.- Que existe probable responsabilidad del denunciado;
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-III.- La sanción que deba imponerse de acuerdo con esta Ley; y,
+XVI. Índices de Información clasificada como reservada y listado de bases de datos personales que cada sujeto obligado posee y maneja;
 
-IV.- Que en caso de ser aprobadas las conclusiones, se formule ante el Supremo Tribunal de Justicia del Estado, la acusación correspondiente.
+XVII. Expedientes concluidos relativos a la expedición de autorizaciones, permisos, licencias, certificaciones y concesiones;
 
-De igual manera, deberán asentarse en las conclusiones las circunstancias que hubieren concurrido en los hechos.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-###### ARTICULO 21.
+XVIII. Los informes de las auditorías realizadas por los órganos de control interno, la Secretaría de la Contraloría, los órganos de control interno de los Poderes Legislativo y Judicial, las contralorías de los órganos autónomos, el Órgano Superior de Fiscalización, las contralorías municipales y por los despachos externos y las aclaraciones que correspondan;
 
-La Comisión Instructora entregará sus conclusiones conjuntamente con las demás actuaciones a los Secretarios del Congreso, para que den cuenta al Presidente del mismo, quien anunciará que aquel debe reunirse y resolver sobre las imputaciones dentro de los tres días hábiles siguientes.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-El día y hora de la sesión se les notificará al denunciante y al denunciado, para que se presenten personalmente a fin de que aleguen lo que a sus derechos convenga.
+XIX. Programas de trabajo e informes anuales de actividades de acuerdo con cada plan o programa establecido por los Sujetos Obligados;
 
-La intervención que éste y los artículos anteriores señalan a la Comisión Instructora, deberá agotarla en un término máximo de sesenta días hábiles contado a partir del siguiente a la fecha en que se le haya turnado la denuncia, sin perjuicio de lo previsto en el segundo párrafo del artículo 17.
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 22.
+XX. Los indicadores establecidos por los Sujetos Obligados, tomando en cuenta las metas y objetivos planteados en el Plan Estatal de Desarrollo y demás ordenamientos aplicables;
 
-En la sesión a que se refiere el artículo anterior el Congreso del Estado se erigirá en Jurado de Acusación previa declaratoria de su Presidente. Acto continuo se concederá la palabra al denunciante y enseguida al denunciado o a su defensor o a ambos si así lo solicitan, para que aleguen lo que a sus derechos convenga. El denunciante podrá replicar, y si así lo hiciere, el denunciado o su defensor podrán hacer uso de la palabra en último término.
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Acto seguido, las partes serán retiradas del recinto de la sesión y se procederá a discutir las conclusiones propuestas por la Comisión Instructora.
+XXI. Los trámites y servicios ofrecidos así como los requisitos para acceder a los mismos;
 
-###### ARTICULO 23.
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Si el Congreso del Estado, por mayoría de los Diputados presentes, resuelve que ha lugar a formular la acusación, el denunciado quedará separado de su cargo. En caso contrario, continuará en el ejercicio de las funciones que esté desempeñando y el expediente se archivará como asunto concluido.
+XXII. Informes y estadísticas que tengan que realizar en términos del Código Administrativo del Estado de México;
 
-###### ARTICULO 24.
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
 
-La acusación se formulará ante el Supremo Tribunal de Justicia del Estado, acompañándola de las actuaciones practicadas y se designará una Comisión de Acusación compuesta de tres Diputados para que la sostengan.
+XXIII. Las cuentas públicas, estatal y municipales.
 
-###### ARTICULO 25.
+###### Artículo 13.
 
-Recibida la acusación en el Supremo Tribunal de Justicia, el Pleno designará una Comisión de tres Magistrados, a la cual se turnará aquella, a efecto de que emplace a la Comisión de Acusación y al acusado para que en un término de cinco días hábiles, siguientes a la fecha del emplazamiento, formulen por escrito sus alegatos y para que este último nombre defensor si lo desea. Concluido dicho término, la Comisión de Magistrados podrá ordenar la práctica de diligencias para mejor proveer, las que podrán desahogarse en un término de quince días hábiles.
+Los Sujetos Obligados a los que se refiere el artículo 7 fracción I de esta Ley, adicionalmente a la información señalada en el artículo anterior deberán contar de manera permanente y actualizada, con la siguiente:
 
-###### ARTICULO 26.
+I. La derivada del Sistema de Planeación Democrática para el desarrollo del Estado de México;
 
-Concluido el término de alegatos a que se refiere el Artículo anterior o desahogadas las pruebas que se hubieren mandado practicar, la Comisión de Magistrados entregará de inmediato el expediente al Presidente del Supremo Tribunal de Justicia.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-###### ARTICULO 27.
+II. Los ingresos, egresos y deuda pública en los términos que establezca la legislación aplicable, que será proporcionada por la Secretaría de Finanzas; y
 
-Recibido el expediente el Presidente convocará a Pleno, señalando día y hora para la celebración de la sesión correspondiente, lo que mandará notificar a la Comisión de Acusación, al acusado y a su defensor en su caso, citándolos para que comparezcan.
+III. Los proyectos de disposiciones reglamentarias, directamente, a través de la Dirección Jurídica y Consultiva del Estado de México o del Consejo Consultivo para la Actualización de la Legislación del Estado de México, diez días hábiles anteriores a su publicación, se podrán dar a conocer por los medios disponibles. Lo anterior no aplicará cuando las anteriores instancias, determinen que su conocimiento puede afectar los objetivos que se pretenden lograr con su vigencia o se trate de situaciones de emergencia.
 
-###### ARTICULO 28.
+###### Artículo 14.
 
-En la sesión a que alude el artículo anterior, el Presidente del Supremo Tribunal de Justicia del Estado lo declarará erigido en Jurado de Sentencia y se procederá de conformidad con el siguiente orden:
+Los Sujetos Obligados a los que se refiere el artículo 7 fracción II de esta Ley, adicionalmente a la información señalada en el artículo 12 deberán contar, de manera permanente y actualizada, con la siguiente:
 
-I.- La Secretaría hará relación de las constancias del expediente;
+> <small>(REFORMADA, G.G. 1 DE FEBRERO DE 2007)</small>
 
-II.- Se concederá la palabra a un miembro de la Comisión de Acusación y al acusado o a su defensor o a ambos si así lo solicitan, para que formulen sus pedimentos en proposiciones concretas; y,
+I. Informes y cuentas públicas que por disposición legal deben entregar las entidades públicas estatales y municipales al Poder Legislativo y que hayan sido revisados por la Legislatura;
 
-III.- A continuación el Pleno citará a las partes para sentencia y dará por concluida la sesión. Dicha sentencia se pronunciará dentro de los tres días hábiles siguientes.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-### CAPITULO VII. DE LA PRESCRIPCION
+II. Las iniciativas de ley, informes, diario de debates, decretos, acuerdos o cualquier otra disposición de carácter general, la fecha en que se recibió, las Comisiones a las que se turne, y los dictámenes y resoluciones que, en su caso, recaigan sobre las mismas;
 
-###### ARTICULO 29.
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
 
-Las audiencias que se celebren en el juicio político o en los actos previos a él, se llevarán a cabo en sesión pública, excepto cuando las buenas costumbres o el interés general requieran que sean secretas.
+III. La agenda legislativa; y
 
-###### ARTICULO 30.
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
 
-No procede recurso legal alguno en contra de las resoluciones de los Jurados de Acusación y de Sentencia.
+IV. Las listas de asistencia y votación de cada una de las sesiones.
 
-###### ARTICULO 31.
+###### Artículo 15.
 
-Tratándose de Juicio Político en contra de los servidores públicos señalados en el artículo 8o., que se instaure con base en resolución declarativa dictada por la Cámara de Diputados del Congreso de la Unión, se observará el procedimiento establecido en el presente Capítulo, a partir del turno del expediente a la Comisión Instructora.
+Los Sujetos Obligados a los que se refiere el artículo 7 fracción IV de esta Ley, adicionalmente a la información señalada en el artículo 12 deberán contar, de manera permanente y actualizada, con la siguiente:
 
-### CAPITULO VIII. DEL REGISTRO PATRIMONIAL DE LOS SERVIDORES PUBLICOS
+I. Datos referentes al desarrollo de obras para brindar los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público; programas de limpia, recolección, traslado y tratamiento de residuos sólidos; ubicación geográfica de mercados y centrales de abasto, panteones, rastros, parques, jardines y su equipamiento;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+II. Planes de Desarrollo Municipal; reservas territoriales y ecológicas; participaciones federales y todos los recursos que integran su hacienda, cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-###### ARTICULO 32.
+III. Información en materia de protección civil, los planes de desarrollo urbano, ordenamientos ecológicos y uso de la vía pública.
 
-Todo servidor público es penalmente responsable de los delitos que cometa y su conducta delictuosa será perseguida y sancionada conforme a las leyes penales.
+###### Artículo 16.
 
-###### ARTICULO 33.
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
 
-Tratándose de delitos que se imputen a los servidores públicos a que se refiere el párrafo segundo del artículo 135 de la Constitución Política del Estado, se requiere declaratoria previa del Congreso Local erigido en Jurado de Acusación, para resolver sobre la subsistencia del fuero constitucional cuya remoción se solicita y de que ha lugar a proceder penalmente en contra del inculpado.
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+###### Artículo 17.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+La información referente a las obligaciones de transparencia será puesta a disposición de los particulares por cualquier medio que facilite su acceso, dando preferencia al uso de sistemas computacionales y las nuevas tecnologías de información.
 
-###### ARTICULO 34.
+###### Artículo 18.
 
-La denuncia o querella contra alguno de los servidores públicos mencionados en el artículo anterior, se presentará ante el Procurador General de Justicia del Estado, quien mandará practicar las diligencias necesarias para la integración de la investigación correspondiente.
+Los Sujetos Obligados pondrán a disposición de las personas interesadas los medios necesarios, a su alcance, para que éstas puedan obtener la información, de manera directa y sencilla. Las unidades de información deberán proporcionar apoyo a los usuarios que lo requieran y dar asistencia respecto de los trámites y servicios que presten.
 
-En el supuesto de que la denuncia o querella se enderece en contra del Procurador General de Justicia, ésta se presentará ante el Gobernador del Estado, quien designará a un Agente del Ministerio Público especial, para el solo efecto de que integre la investigación.
+### Capítulo II. De la Información Clasificada como
 
-En ambos casos la investigación se sustanciará conforme a lo establecido en el Código Nacional de Procedimientos Penales.
+Reservada y Confidencial
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+###### Artículo 19.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+El derecho de acceso a la información pública sólo será restringido cuando se trate de información clasificada como reservada o confidencial.
 
-###### ARTICULO 35.
+###### Artículo 20.
 
-Concluida la investigación y satisfechos los requisitos para el ejercicio de la acción penal, se remitirá al Congreso del Estado, quien lo turnará a la Comisión Instructora.
+Para los efectos de esta Ley, se considera información reservada, la clasificada como tal, de manera temporal, mediante acuerdo fundado y motivado, por los sujetos obligados cuando:
 
-###### ARTICULO 36.
+I. Comprometa la Seguridad del Estado o la Seguridad Pública;
 
-Corresponde a la Comisión Instructora analizar el expediente a que se refiere el artículo anterior, así como practicar las diligencias pertinentes y emitir dictamen sobre la procedencia o improcedencia de la acusación.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-###### ARTICULO 37.
+II. Pueda dañar la conducción de las negociaciones de acuerdos interinstitucionales, incluida aquella información que otros Estados u organismos institucionales entreguen con carácter de confidencial al Estado de México; así como la que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto no sea adoptada la decisión definitiva, la cual deberá estar documentada;
 
-Si a juicio de la Comisión Instructora la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso para que éste resuelva si se continúa o no con el procedimiento, sin perjuicio de reanudarlo si posteriormente aparecen motivos que lo justifiquen.
+III. Pueda dañar la situación económica y financiera del Estado de México;
 
-###### ARTICULO 38.
+IV. Ponga en riesgo la vida, la seguridad o la salud de cualquier persona, o cause perjuicio a las actividades de fiscalización, verificación, inspección y comprobación del cumplimiento de las Leyes, de prevención del delito, procuración y administración de justicia, de readaptación social y de la recaudación de contribuciones;
 
-Para los efectos del artículo 36, la Comisión Instructora deberá rendir su dictamen en un plazo de treinta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de dicha Comisión, en cuyo caso se ampliará el plazo a lo estrictamente necesario.
+V. Por disposición legal sea considerada como reservada;
 
-La Comisión Instructora turnará su dictamen a los Secretarios del Congreso para que den cuenta al Presidente del mismo.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-### CAPITULO IX. DISPOSICIONES COMUNES
+VI. Pueda causar daño o alterar el proceso de investigación en averiguaciones previas, procesos judiciales procesos o procedimientos administrativos, incluidos los de quejas, denuncias, inconformidades, responsabilidades administrativas y resarcitorias en tanto no hayan causado estado; y
 
-###### ARTICULO 39.
+VII. El daño que pueda producirse con la publicación de la información sea mayor que el interés público de conocer la información de referencia.
 
-Recibido el dictamen, el Presidente del Congreso convocará a sesión dentro de los cinco días hábiles siguientes, haciendo saber al Procurador General de Justicia o al Agente del Ministerio Público Especial, según corresponda, así como al denunciado y a su defensor, el día y hora que para tal efecto se señale, a fin de que, si así lo desean, comparezcan a la misma.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 40.
+###### Artículo 21.
 
-El día de la sesión a que se refiere el artículo anterior, el Presidente del Congreso hará la declaratoria de que éste se erige en Jurado de Acusación para los efectos del artículo 33. Acto seguido, la Secretaria dará lectura al dictamen de la Comisión Instructora, y se concederá la palabra al Procurador General de Justicia o al Agente del Ministerio Público Especial, según corresponda, y al denunciado o a su defensor, o a ambos si así lo solicitan, para que aleguen lo que a sus derechos convenga.
+El acuerdo que clasifique la información como reservada deberá contener los siguientes elementos:
 
-Las partes podrán replicar y contrarreplicar por una sola vez y hecho lo anterior se retirarán del recinto.
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Retiradas las partes, se procederá a discutir y a votar el dictamen correspondiente.
+I. Un razonamiento lógico que demuestre que la información encuadra en alguna de las hipótesis de excepción previstas en la Ley;
 
-###### ARTICULO 41.
+II. Que la liberación de la información de referencia pueda amenazar efectivamente el interés protegido por la Ley;
 
-Si el Congreso del Estado declara que ha lugar a proceder contra el denunciado, éste quedará inmediatamente separado de su cargo y sujeto a la jurisdicción de los tribunales competentes; en este caso, se enviará el expediente relativo a la Procuraduría General de Justicia para que ejercite la acción penal correspondiente.
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Si no se emite declaratoria de procedencia, el servidor público continuará en el desempeño de su cargo y no habrá lugar a procedimiento ulterior, por los mismos hechos, en tanto no concluyan sus funciones.
+III. La existencia de elementos objetivos que permitan determinar si la difusión de la información causaría un daño presente, probable y específico a los intereses jurídicos tutelados en los supuestos de excepción previstos en la Ley.
 
-###### ARTICULO 42.
+###### Artículo 22.
 
-Cuando alguno de los servidores públicos a que se refiere el artículo 33 cometa un delito durante el tiempo que esté separado de su cargo por virtud de la Declaratoria de Procedencia, no se requerirá decretarla nuevamente, excepto si ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto pero de los enumerados en el mismo artículo, en cuyo caso se procederá de acuerdo con lo dispuesto en dicho precepto.
+La información clasificada como reservada, podrá permanecer con tal carácter hasta por un periodo de 9 años, contados a partir de su clasificación, salvo que antes del cumplimiento del periodo de restricción, dejaran de existir los motivos de su reserva.
 
-###### ARTICULO 43.
+###### Artículo 23.
 
-Ninguna autoridad judicial del Estado podrá iniciar causa penal en contra de los servidores públicos mencionados en el artículo 33, sin haberse satisfecho el procedimiento establecido en el presente Capítulo. Si se contraviene lo anterior, el Presidente del Congreso librará oficio al tribunal que conozca de la misma, a fin de que suspenda su tramitación en tanto se resuelve si ha lugar a proceder, ordenando la libertad en el caso de que el servidor público se encontrare detenido.
+Los Sujetos Obligados podrán solicitar autorización al Instituto para ampliar el tiempo de reserva, hasta por un plazo igual y por una sola vez, siempre que subsistan las circunstancias que motivaron su clasificación.
 
-###### ARTICULO 44.
+###### Artículo 24.
 
-Las resoluciones y declaraciones que en materia de Declaración de Procedencia dicte el Congreso no serán recurribles.
+Tratándose de información, en posesión de los Sujetos Obligados, que se relacione con el secreto comercial, industrial, fiscal, bancario, fiduciario u otro considerado como tal por alguna disposición legal, se estará a lo que la legislación de la materia establezca.
 
-###### ARTICULO 45.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
-Tratándose de delitos federales que se imputen al Gobernador, a los Diputados Locales o a los Magistrados del Supremo Tribunal de Justicia, una vez recibida por el Congreso del Estado la Declaratoria de Procedencia dictada por la Cámara de Diputados del Congreso de la Unión, la intervención de la Legislatura Local se limitará a declarar si ha lugar o no a proceder penalmente en contra del inculpado, observando en lo conducente el procedimiento establecido en el presente Capítulo.
+###### Artículo 25.
 
-En caso afirmativo, el servidor público quedará a disposición de las autoridades competentes para que procedan con arreglo a la Ley y en caso negativo, se mandará archivar el expediente como asunto concluido, debiendo comunicar a la Cámara de Diputados del Congreso de la Unión, en ambos casos, la resolución que se dicte.
+Para los efectos de esta Ley, se considera información confidencial, la clasificada como tal, de manera permanente, por su naturaleza, cuando:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)</small>
+I. Contenga datos personales;
 
-###### ARTICULO 46.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+II. Así lo consideren las disposiciones legales; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+III. Se entregue a los Sujetos Obligados bajo promesa de secresía (sic).
 
-###### ARTICULO 47.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+No se considerará confidencial la información que se encuentre en los registros públicos o en fuentes de acceso público, ni tampoco la que sea considerada por la presente Ley como información pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+###### Artículo 25 Bis.
 
-###### ARTICULO 48.
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+###### Artículo 26.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-###### ARTICULO 49.
+###### Artículo 27.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+###### Artículo 28.
 
-###### ARTICULO 50.
+El acuerdo que clasifique la información como confidencial deberá contener un razonamiento lógico en el que demuestre que la información se encuentra en alguna o algunas de las hipótesis previstas en la presente Ley.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+## TITULO CUARTO. DEL ACCESO A LA INFORMACION PUBLICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+### Capítulo I. De los Comités de Información
 
-###### ARTICULO 51.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+###### Artículo 29.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+Los Sujetos Obligados establecerán un comité de información integrado:
 
-###### ARTICULO 52.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+l. En el Poder Ejecutivo, por el titular de la dependencia, del organismo auxiliar o, del fideicomiso o, el servidor público que ellos mismos designen, quien presidirá el Comité;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+II. El responsable o titular de la unidad de información; y
 
-###### ARTICULO 53.
+III. El titular del órgano del control interno.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+El Comité adoptará sus decisiones por mayoría de votos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)</small>
+En los casos de los Poderes Legislativo y Judicial, por el Presidente de la Junta de Coordinación Política y por el Presidente del Consejo de la Judicatura o por quien estos designen respectivamente; en, el caso de los Ayuntamientos por el Presidente Municipal o quien éste designe; en el caso de los Órganos Autónomos y Tribunales Administrativos, la titularidad del sujeto obligado se establecerá con base en lo dispuesto en sus reglamentos respectivos.
 
-###### ARTICULO 54.
+###### Artículo 30.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+Los Comités de Información tendrán las siguientes funciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+I. Coordinar y supervisar las acciones realizadas en cumplimiento de las disposiciones previstas en esta Ley;
 
-###### ARTICULO 55.
+II. Establecer de conformidad con las disposiciones reglamentarias, las medidas que coadyuven a una mayor eficiencia en la atención de las solicitudes de acceso a la información;
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+III. Aprobar, modificar o revocar la clasificación de la información;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 56.
+IV. Supervisar la aplicación de los lineamientos en materia de acceso a la información pública para el manejo, mantenimiento y seguridad de los datos personales, así como los criterios de clasificación expedidos por el Instituto;
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+V. Elaborar un programa para facilitar la sistematización y actualización de la información, mismo que deberá remitirse al Instituto dentro de los primeros veinte días de cada año; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+VI. Enviar los datos necesarios para la elaboración del informe anual del Instituto, de conformidad con lo que éste solicite;
 
-###### ARTICULO 57.
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+VII. Emitir las resoluciones que correspondan para la atención de las solicitudes de información, así como de acceso y de corrección de datos personales, de acuerdo con los lineamientos que emita el Instituto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
 
-###### ARTICULO 58.
+VIII. Dictaminar las declaratorias de inexistencia de la información que les remitan las unidades administrativas, y resolver en consecuencia.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+###### Artículo 31.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
 
-###### ARTICULO 59.
+### Capítulo II. De las Unidades de Información
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+###### Artículo 32.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+Los Sujetos Obligados contarán con un área responsable para la atención de las solicitudes de información, a la que se le denominará Unidad de Información.
 
-###### ARTICULO 60.
+###### Artículo 33.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+Los Sujetos Obligados designarán a un responsable para atender la Unidad de Información, quien fungirá como enlace entre éstos y los solicitantes. Dicha Unidad será la encargada de tramitar internamente la solicitud de información y tendrá la responsabilidad de verificar en cada caso que la misma no sea confidencial o reservada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-###### ARTICULO 61.
+Las solicitudes de acceso a la información y las respuestas que se les dé, incluyendo, en su caso, la información entregada, así como las resoluciones a los recursos que en su caso se promuevan serán públicas, y de ser el caso que contenga datos personales que deban ser protegidos se podrá dar su acceso en su versión pública, siempre y cuando la resolución de referencia se someta a un proceso de disociación, es decir, no haga identificable al titular de tales datos personales.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+###### Artículo 34.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+El responsable de la Unidad de Información deberá tener el perfil adecuado para el cumplimiento de las obligaciones que se derivan de la presente Ley.
 
-###### ARTICULO 62.
+###### Artículo 35.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+Las Unidades de Información tendrán las siguientes funciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+I. Recabar, difundir y actualizar la información pública de oficio a la que se refiere esta Ley;
 
-###### ARTICULO 63.
+II. Entregar, en su caso, a los particulares la información solicitada;
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+III. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre el lugar donde les pueden proporcionar la información que solicitan;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+IV. Efectuar las notificaciones a los particulares;
 
-###### ARTICULO 64.
+V. Proponer al Comité los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+VI. Proponer a quien preside el Comité de Información, los servidores públicos habilitados en cada unidad administrativa;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+VII. Llevar un registro de las solicitudes de acceso a la información, sus resultados y costos;
 
-###### ARTICULO 65.
+VIII. Presentar ante el Comité, el proyecto de clasificación de información;
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+IX. Las demás necesarias para facilitar el acceso a la información; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+X. Las demás que disponga esta Ley y las disposiciones reglamentarias.
 
-###### ARTICULO 66.
+###### Artículo 36.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+###### Artículo 37.
 
-###### ARTICULO 67.
+Cada Unidad de Información deberá elaborar un catálogo de información o de expedientes clasificados que será del conocimiento público.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+###### Artículo 38.
 
-###### ARTICULO 68.
+Los Sujetos Obligados, a través de las Unidades de Información, acatarán las resoluciones, lineamientos y criterios del Instituto y atenderán los requerimientos de informes que realice el mismo.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+El gobierno del Estado de México podrá nombrar delegados administrativos para dar una mejor atención a las solicitudes de información.
 
-###### ARTICULO 69.
+### Capítulo III. De los Servidores Públicos Habilitados
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+###### Artículo 39.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+Los Servidores Públicos Habilitados serán designados por el Presidente del Comité de Información.
 
-###### ARTICULO 70.
+###### Artículo 40.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+Los Servidores Públicos Habilitados tendrán las siguientes funciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+I. Localizar la información que le solicite la Unidad de Información;
 
-###### ARTICULO 71.
+II. Proporcionar la información que obre en los archivos y que le sea solicitada por la Unidad de Información;
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+III. Apoyar a la Unidad de Información en lo que ésta le solicite para el cumplimiento de sus funciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+IV. Proporcionar a la Unidad de Información, las modificaciones a la información pública de oficio que obre en su poder;
 
-###### ARTICULO 72.
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+V. Integrar y presentar al Responsable de la Unidad de Información la propuesta de clasificación de información, la cual tendrá los fundamentos y argumentos en que se basa dicha propuesta;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+VI. Verificar, una vez analizado el contenido de la información, que no se encuentre en los supuestos de información clasificada; y
 
-###### ARTICULO 73.
+VII. Dar cuenta a la Unidad de Información del vencimiento de los plazos de reserva.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+### Capítulo IV. Del Procedimiento de Acceso
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, DE LOS CAPÍTULOS I, VII Y IX SE DEROGAN LOS ARTÍCULOS QUE SE REFIEREN A LA MATERIA DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS DEL ESTADO, QUEDANDO VIGENTES LOS DIVERSOS DISPOSITIVOS JURÍDICOS QUE RIGEN LOS PROCEDIMIENTOS RELATIVOS AL JUICIO POLÍTICO Y A LA DECLARATORIA DE PROCEDENCIA POR LA COMISIÓN DE DELITOS.</small>
+###### Artículo 41.
 
-###### ARTICULO 74.
+Los Sujetos Obligados sólo proporcionarán la información pública que se les requiera y que obre en sus archivos. No estarán obligados a procesarla, resumirla, efectuar cálculos o practicar investigaciones.
 
-El Juicio Político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, y dentro del año siguiente a la conclusión de sus funciones.
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
-En ambos casos, las sanciones correspondientes se aplicarán en un lapso no mayor de un año a partir de iniciado el procedimiento.
+###### Artículo 41 Bis.
 
-###### ARTICULO 75.
+El procedimiento de acceso a la información se rige por los siguientes principios:
 
-La acción penal por delitos cometidos durante el tiempo del encargo prescribe en el término que fije el Código Penal, pero dicho plazo de prescripción no será inferior a tres años.
+l. Simplicidad y rapidez;
 
-Tratándose de delitos imputados al Gobernador del Estado, a los Diputados de la Legislatura Local, a los Magistrados del Supremo Tribunal de Justicia, a los Secretarios de Despacho del Poder Ejecutivo, al Procurador General de Justicia y a los Presidentes Municipales, el término de prescripción se interrumpe mientras duren en el desempeño de su encargo. Lo mismo se observará si el servidor público ha sido nombrado o electo para ocupar otro cargo distinto, pero de los enumerados en el Artículo 33.
+II. Gratuidad del procedimiento; y
 
-###### ARTICULO 76.
+III. Auxilio y orientación a los particulares.
 
-El procedimiento ante el superior jerárquico, por faltas administrativas que le competa sancionar, sólo podrá iniciarse dentro del mes siguiente de que se tenga conocimiento de la probable falta. Tratándose de la obtención de un lucro o si se causan daños patrimoniales y cuando se trate de actos u omisiones graves, el procedimiento podrá iniciarse durante el período del desempeño del empleo, cargo o comisión y hasta tres años después de concluidos éstos.
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+###### Artículo 42.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)</small>
+Cualquier persona, podrá ejercer el derecho de acceso a la información pública sin necesidad de acreditar su personalidad ni interés jurídico; cuando se trate de consultas verbales y mediante la presentación de una solicitud por escrito libre, en los formatos proporcionados por el Instituto a través de la Unidad de Información respectiva o vía electrónica, a través del sistema automatizado de solicitudes respectivo. Cuando se realice una consulta verbal deberá ser resuelta por la Unidad de Información en el momento, de no ser posible se invitará al particular a iniciar el procedimiento de acceso; las consultas verbales no podrán ser recurribles conforme lo establece la presente ley.
 
-###### ARTICULO 77.
+###### Artículo 43.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+La solicitud por escrito deberá contener:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 78.
+I. El nombre del solicitante, domicilio para recibir notificaciones y, en su caso, correo electrónico;
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+II. La descripción clara y precisa de la información que solicita;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+III. Cualquier otro detalle que facilite la búsqueda de la información; y
 
-###### ARTICULO 79.
+IV. Modalidad en la que solicita recibir la información.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+No se dará curso a las solicitudes que carezcan de los requisitos establecidos en la fracción primera de este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 80.
+###### Artículo 44.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+La Unidad de Información notificará al particular, por escrito o vía electrónica, dentro del plazo de cinco días hábiles, si requiere completar, corregir o ampliar los datos de la solicitud escrita. Si transcurrido un plazo igual no es atendido el requerimiento, se tendrá por no presentada la petición, quedando a salvo los derechos de la persona para volverla a presentar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-###### ARTICULO 81.
+###### Artículo 45.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+De no corresponder la solicitud a la Unidad de Información, ésta orientará a los solicitantes para que presenten la solicitud a la Unidad de Información que corresponda en un plazo no mayor a cinco días hábiles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-###### ARTICULO 82.
+###### Artículo 46.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+La Unidad de Información deberá entregar la información solicitada dentro de los quince días hábiles contados a partir del día siguiente a la presentación de la solicitud. Este plazo podrá ampliarse hasta por otros siete días hábiles, siempre que existan razones para ello, debiendo notificarse por escrito al solicitante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-###### ARTICULO 83.
+###### Artículo 47.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+En el caso de que no se cuente con la información solicitada o que ésta sea clasificada, la Unidad de Información deberá notificarlo al solicitante por escrito, en un plazo que no exceda a quince días hábiles contados a partir del día siguiente a la presentación de la solicitud. Este plazo podrá ampliarse hasta por otros siete días hábiles, siempre que existan razones para ello, debiendo notificarse por escrito al solicitante.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-###### ARTICULO 84.
+###### Artículo 48.
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+La obligación de acceso a la información pública se tendrá por cumplida, cuando el solicitante previo el pago, previsto en el artículo 6 de esta Ley, si es el caso, tenga a su disposición la información vía electrónica o copias simples, certificadas o en cualquier otro medio en el que se encuentre contenida la información solicitada, o cuando realice la consulta de la información en el lugar en el que ésta se localice.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA A LA LEY.</small>
+Cuando la información solicitada ya esté disponible para consulta, se le hará saber por escrito al solicitante el lugar donde puede consultarla y las formas para reproducir o adquirirla.
 
-###### ARTICULO 85.
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
 
-(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE SINALOA, P.O. 13 DE ABRIL DE 2011)
+Cuando el Sujeto Obligado no entregue la respuesta a la solicitud dentro del plazo previsto en la Ley, la solicitud se entenderá negada y el solicitante podrá interponer el recurso de revisión previsto en este ordenamiento.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA PUBLICADA EN EL P.O. EL 13 DE ABRIL DE 2011, DE LOS CAPÍTULOS I, VII Y IX SE DEROGAN LOS ARTÍCULOS QUE SE REFIEREN A LA MATERIA DE RESPONSABILIDAD ADMINISTRATIVA DE LOS SERVIDORES PÚBLICOS DEL ESTADO, QUEDANDO VIGENTES LOS DIVERSOS DISPOSITIVOS JURÍDICOS QUE RIGEN LOS PROCEDIMIENTOS RELATIVOS AL JUICIO POLÍTICO Y A LA DECLARATORIA DE PROCEDENCIA POR LA COMISIÓN DE DELITOS.</small>
+Una vez entregada la información, el solicitante acusará recibo por escrito, dándose por terminado el trámite de acceso a la información.
 
-###### ARTICULO 86.
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-No podrá dispensarse ningún trámite de los establecidos en la presente Ley.
+###### Artículo 49.
 
-###### ARTICULO 87.
+Cuando un mismo medio, impreso o electrónico, contenga información pública y clasificada, la unidad de información sólo podrá proporcionar la primera, siempre que lo anterior sea técnicamente factible, pudiendo generar versiones públicas.
 
-Cuando se emplace a un servidor público para comparecer en cualesquiera de los procedimientos a que se refiere esta Ley, se le apercibirá de que si se abstiene de comparecer o de formular declaración por escrito, se tendrán por presuntativamente ciertos los hechos imputados y por perdido el derecho que podría haber ejercitado, sin que ello sea obstáculo para la continuación del procedimiento.
+### Capítulo V. Del Procedimiento para el Acceso y Corrección de Datos Personales
 
-###### ARTICULO 88.
+###### Artículo 50.
 
-Si durante la tramitación de alguno de los asuntos a que se refiere esta Ley el Congreso entrare en receso, se suspenderán los términos que estuvieren transcurriendo, los cuales continuarán al iniciarse el siguiente período de sesiones, excepto que la propia Legislatura estime necesario prorrogar o abrir un período extraordinario.
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-###### ARTICULO 89.
+###### Artículo 51.
 
-Las notificaciones y comunicados para la práctica de diligencias, se entregarán personalmente o se enviarán por correo, en pieza certificada y con acuse de recibo.
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 58 PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2016, TODAS LAS MENCIONES AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA DISTINTAS A SU NATURALEZA, PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LAS LEYES LOCALES, ASÍ COMO EN CUALQUIER DISPOSICIÓN JURÍDICA QUE EMANE DE ESTAS, SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
+###### Artículo 52.
 
-###### ARTICULO 90.
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-Al instruirse alguno de los procedimientos establecidos por esta Ley, los encargados de las oficinas públicas estarán obligados a expedir las copias certificadas que les soliciten las partes, y si no lo hicieren, la autoridad instructora les apercibirá para que las expidan; en caso de persistencia en la negativa, les impondrá una multa de hasta diez veces el salario mínimo general diario vigente en el Estado y si no obstante lo anterior, no se cumple con lo solicitado, se procederá conforme a lo establecido en el Capítulo Sexto de esta Ley o conforme a las Leyes penales aplicables.
+###### Artículo 53.
 
-###### ARTICULO 91.
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-Cuando en el curso de un procedimiento se presentare nueva denuncia en contra del servidor público, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción, procurando de ser posible la acumulación procesal. Si éste fuese procedente, se dictará una sola resolución.
+###### Artículo 54.
 
-###### ARTICULO 92.
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-Para el cumplimiento de los acuerdos y resoluciones que se dicten en los procedimientos a que se refiere esta Ley, se podrán emplear los siguientes medios de apremio:
+###### Artículo 55.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, G.G. 31 DE AGOSTO DE 2012)
 
-I. Multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización; y,
+## TITULO QUINTO. DEL INSTITUTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION
 
-II.- Auxilio de la fuerza pública.
+### Capítulo I. De la Naturaleza y Atribuciones
 
-###### ARTICULO 93.
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-Los puntos resolutivos de las Declaratorias de Procedencia por la Comisión de Delitos y las sentencias definitivas que se dicten en los juicios políticos se remitirán al Ejecutivo del Estado, para que sean publicadas en el Periódico Oficial "El Estado de Sinaloa".
+###### Artículo 56.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+Se crea el Órgano Público Autónomo de carácter estatal denominado Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, dotado de personalidad jurídica y patrimonio propio, con autonomía operativa, presupuestaria y de decisión, que tiene por objeto la difusión, protección y respeto al derecho de acceso a la información pública y a la protección de datos personales.
 
-Así mismo, de toda resolución definitiva que se dicte en los procedimientos previstos en esta Ley, se enviará copia al expediente personal del servidor público.
+El Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, podrá modificar su estructura y base de organización, conforme al procedimiento que al efecto establezca el Pleno, cuando sea necesario, para mejorar el desempeño de sus funciones, el cumplimiento de sus fines o la coordinación de sus actividades.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+###### Artículo 57.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2016)</small>
+En su organización, funcionamiento y control, el Instituto se sujetará a lo establecido por la presente Ley y su Reglamento Interior y en sus decisiones se regirá por los principios de autonomía, legalidad, publicidad y objetividad.
 
-###### ARTICULO 94.
+> <small>(ADICIONADO, G.G. 28 DE DICIEMBRE DE 2004)</small>
 
-En todo lo no previsto por esta Ley se observarán, en lo conducente, las disposiciones de los Códigos Penal para el Estado y Nacional de Procedimientos Penales.
+El Instituto aplicará las disposiciones del Libro Décimo Tercero del Código Administrativo del Estado de México, en lo que no se oponga a la presente Ley. Asimismo, determinará la conformación de sus comités a efecto de dar debido cumplimiento a lo dispuesto por dicho Código.
 
-TRANSITORIOS:
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 560 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, 7, 10, PRIMER PÁRRAFO, 15, 34, 35, 93, SEGUNDO PÁRRAFO Y 94 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA”.]
+###### Artículo 58.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+Para el ejercicio de sus atribuciones, el Instituto tendrá acceso a la información pública que se genere en el ámbito de los Sujetos Obligados; tratándose de información clasificada como reservada o confidencial, podrá conocerla para resolver medios de impugnación, determinando su debida clasificación o desclasificación y de no proceder esta última, continuará bajo el resguardo del sujeto obligado en cuya posesión originalmente se encontraba.
 
-SEGUNDO. Las reformas a los artículos 34, 35 y 94 entrarán en vigor de conformidad con la gradualidad establecida en el Decreto número 177, publicado en el Periódico Oficial "El Estado de Sinaloa" No. 092 del jueves 31 de julio de 2014, Edición Extraordinaria, que declara adoptado en el Estado de Sinaloa el Sistema Procesal Penal Acusatorio y Oral y el inicio de vigencia gradual del Código Nacional de Procedimientos Penales.
+Los Sujetos Obligados deberán facilitar los trabajos del Instituto.
 
-P.O. 28 DE DICIEMBRE DE 2016.
+###### Artículo 59.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas presupuestales que anualmente se le señalen en el Presupuesto de Egresos del Gobierno del Estado de México.
 
-PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+###### Artículo 60.
 
-SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+El Instituto tendrá las siguientes atribuciones:
 
-TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+I. Interpretar en el orden administrativo la presente Ley;
 
-CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+II. Vigilar en el ámbito de su competencia el cumplimiento de la presente Ley;
 
-QUINTO. El Ejecutivos del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2012)</small>
 
-SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+III. Establecer lineamientos y criterios en materia de acceso a la información pública para todos los sujetos obligados de la Ley, y vigilar su cumplimiento;
+
+IV. (DEROGADA, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+V. Emitir criterios para la clasificación de la información pública y vigilar su cumplimiento;
+
+VI. (DEROGADA, G.G. 24 DE JULIO DE 2008)
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+VII. Conocer y resolver los recursos de revisión que promuevan los particulares en contra de actos de los sujetos obligados por esta Ley. Dichas resoluciones tendrán efectos de pleno derecho para los sujetos obligados;
+
+VIII. Solicitar a los Sujetos Obligados los datos para la integración de su informe anual, incluidas las consultas verbales atendidas;
+
+IX. Proporcionar asesoría y apoyo técnico a los Sujetos Obligados para la elaboración y ejecución de programas de información;
+
+> <small>(REFORMADA, G.G. 31 DE AGOSTO DE 2012)</small>
+
+X. Proporcionar a los sujetos obligados un sitio web tipo dentro de sus ordenadores o servidores, el cual deberá contener cuando menos la información pública de oficio, el sistema de datos personales así como cualquier otra información que considere conveniente difundir en materia de transparencia y acceso a la información;
+
+XI. Apoyar a los Sujetos Obligados en el cumplimiento de las obligaciones que les impone la presente Ley;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XII. Hacer del conocimiento del órgano de control interno o equivalente de cada Sujeto Obligado las infracciones a esta Ley;
+
+XIII. Elaborar formatos de solicitudes de acceso a la información pública y orientar a los particulares;
+
+XIV. Coadyuvar a la elaboración y aplicación de los criterios para la conservación y archivo de la información pública;
+
+XV. Realizar y difundir estudios e investigaciones que contribuyan al objeto de esta Ley;
+
+XVI. Capacitar a los servidores públicos en materia de acceso a la información;
+
+XVII. Difundir entre los servidores públicos y los particulares los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de aquélla;
+
+XVIII. Rendir informe anual de actividades a través de su Presidente ante el Pleno de la Legislatura, dentro del primer periodo ordinario de sesiones del año;
+
+XIX. Designar, a través de su Presidente, a los servidores públicos de su adscripción y administrar sus recursos materiales y financieros;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XX. Elaborar y remitir a la Secretaría de Finanzas su proyecto de presupuesto anual para que sea integrado al proyecto de presupuesto del Gobierno del Estado;
+
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2011)</small>
+
+XXI. Expedir su Reglamento Interior y demás normas de operación;
+
+> <small>(REFORMADA, G.G. 28 DE DICIEMBRE DE 2004)</small>
+
+XXII. Administrar los recursos humanos, bienes y patrimonio del Instituto, así como determinar y autorizar su estructura orgánica y su personal.
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XXIII. Realizar de oficio y a petición de parte, si existen elementos suficientes a juicio del Pleno del Instituto, análisis y recomendaciones, o en su caso, lineamientos en relación con presuntos incumplimientos a las disposiciones de la Ley;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXIV. Emitir comunicados públicos sobre el incumplimiento de sus resoluciones o por infracciones reiteradas a la Ley, en el ámbito de su competencia;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XXV. Ordenar a los sujetos obligados la ejecutoría en la entrega de información en términos de la presente Ley;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXVI. Revisar los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXVII. Establecer procedimientos para verificar las acciones realizadas por los Sujetos Obligados en el cumplimiento de sus obligaciones en términos de la presente Ley;
+
+> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+
+XXVIII. Nombrar al Contralor Interno del Instituto; y
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+XXIX. Las demás que le confiere la presente Ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 2 DE AGOSTO DE 2011)</small>
+
+El Instituto tendrá su domicilio en la Ciudad de Toluca de Lerdo y ejercerá sus funciones en todo el territorio del Estado.
+
+### Capítulo II. De la Administración e Integración del Instituto
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 61.
+
+La dirección y administración del Instituto estará a cargo de un Pleno y su Presidente, quien tendrá la representación legal del Órgano, así como las facultades que le confiera el Pleno en el Reglamento Interior.
+
+El Pleno estará integrado por cinco Comisionados, los cuales serán propuestos por el Gobernador del Estado y aprobados por la Legislatura. La designación de uno de estos Comisionados como Presidente, recaerá en la propia Legislatura.
+
+Las decisiones de los Comisionados se harán constar en actas en las que sólo se asentarán los asuntos a tratar y los acuerdos tomados.
+
+###### Artículo 62.
+
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 63.
+
+Los Comisionados y el Comisionado Presidente desempeñarán su cargo por un periodo de cinco años; y, en lo individual, podrán ser ratificados para fungir por otro periodo igual, o ser nuevamente designados con distintos nombramientos, en este supuesto al término de su gestión no podrán ser ratificados.
+
+En todo caso, deberá observarse el mismo procedimiento que se siguió para la primera designación.
+
+> <small>(ADICIONADO, G.G. 29 DE JULIO DE 2013)</small>
+
+Si cumplido el plazo a que se refiere este artículo, no se hubieren aprobado las designaciones de quienes habrán de desempeñar el cargo de Comisionados para el periodo siguiente, seguirán en vigor los nombramientos anteriores hasta en tanto la Legislatura apruebe la designación de los nuevos. En ningún caso se entenderá esto como ratificación del encargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 64.
+
+Los Comisionados y el Comisionado Presidente sólo podrán ser removidos de su cargo y destituidos por las causales siguientes:
+
+I. Cuando en ejercicio de sus funciones transgredan en forma grave o reiterada las disposiciones contenidas en la Constitución General de la República, la Particular del Estado y esta Ley, o incurra en alguna responsabilidad administrativa que amerite su destitución; lo cual deberá ser calificado por las dos terceras partes de los integrantes (sic) Legislatura del Estado;
+
+II. Cuando hayan sido condenados por un delito que merezca pena corporal, mediante sentencia ejecutoria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 65.
+
+El Procedimiento para la destitución de los integrantes del Pleno, por alguna de las causales establecidas en la fracción I del artículo anterior, se sujetará a las reglas siguientes:
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+l. Será iniciado a solicitud de por lo menos la cuarta parte de los integrantes de la Legislatura, o a propuesta del Titular del Ejecutivo;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+II. Si es propuesto por el Titular del Ejecutivo, lo comunicará a la Legislatura, para que ésta proceda conforme a la fracción siguiente;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+III. Iniciado el procedimiento, la Legislatura del Estado citará al o a los Comisionados inculpados, para que comparezcan a desahogar su garantía de audiencia, en la que podrán formular alegatos y ofrecer las pruebas que a sus intereses convengan;
+
+IV. Desahogada la garantía de audiencia, la Legislatura del Estado determinará la responsabilidad del o de los inculpados, calificará la gravedad de la infracción, y resolverá, por las dos terceras partes de sus integrantes, si es el caso de proceder a la destitución;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+V. La resolución de la Legislatura que determine la destitución de alguno o algunos de los Comisionados, será comunicado al Titular del Ejecutivo para que proponga a los nuevos Comisionados.
+
+En el supuesto de que la Legislatura resuelva que no es el caso de proceder a la destitución, se dará por terminado el procedimiento respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 66.
+
+Para ser Comisionado se requiere:
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+l. Cumplir con cualquiera de las calidades señaladas en el artículo 23 de la Constitución Política del Estado Libre y Soberano de México, o tener, cuando menos, un año de residencia fija en determinado lugar del territorio de la entidad;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+II. Tener más de treinta años de edad a la fecha de su nombramiento;
+
+III. Gozar de buena reputación y no haber sido condenado por delito que merezca pena corporal;
+
+IV. No tener ni haber tenido cargo alguno de elección popular ni haber sido postulado como candidato, en los últimos cinco años anteriores a la designación;
+
+V. No haber sido titular de alguna de las secretarías de la administración pública estatal ni Procurador General de Justicia del Estado durante un año previo a su designación;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+VI. Contar con título profesional y tener conocimientos en la materia;
+
+VII. Gozar de prestigio social y profesional;
+
+VIII. No ser ni haber sido dirigente de partido o asociación política alguna por lo menos cinco años antes de su designación; y
+
+IX. No ser ni haber sido ministro de culto por lo menos cinco años antes de su designación.
+
+###### Artículo 67.
+
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 68.
+
+Durante su gestión los Comisionados y el Comisionado Presidente no podrán desempeñar ningún otro empleo, cargo o comisión, salvo las docentes en instituciones educativas o alguna de beneficencia que no implique remuneración, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Instituto.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 69.
+
+A fin de poder cumplir con sus atribuciones y objetivos, el Instituto contará con la estructura orgánica y funcional necesaria, así como con un Contralor Interno quien tendrá las facultades que le establezca el Reglamento Interior.
+
+### Capítulo III. De los Medios de Impugnación
+
+###### Artículo 70.
+
+En las respuestas desfavorables a las solicitudes de acceso a la información pública o de corrección de datos personales, las unidades de información deberán informar a los interesados el derecho y plazo que tienen para promover recurso de revisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 71.
+
+Los particulares podrán interponer recurso de revisión cuando:
+
+I. Se les niegue la información solicitada;
+
+II. Se les entregue la información incompleta o no corresponda a la solicitada;
+
+III. (DEROGADA, G.G. 31 DE AGOSTO DE 2012)
+
+> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+IV. Se considere que la respuesta es desfavorable a su solicitud.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 72.
+
+El recurso de revisión se presentará por escrito ante la Unidad de Información correspondiente, o vía electrónica por medio del sistema automatizado de solicitudes respectivo, dentro del plazo de 15 días hábiles, contados a partir del día siguiente de la fecha en que el afectado tuvo conocimiento de la resolución respectiva.
+
+###### Artículo 73.
+
+El escrito de recurso de revisión contendrá:
+
+I. Nombre y domicilio del recurrente, y en su caso, la persona o personas que éste autorice para recibir notificaciones;
+
+II. Acto impugnado, Unidad de Información que lo emitió y fecha en que se tuvo conocimiento del mismo;
+
+III. Razones o motivos de la inconformidad;
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+IV. Firma autógrafa, electrónica avanzada del recurrente o en su caso huella digital para el caso de que se presente por escrito, requisitos sin los cuales no se dará trámite el recurso.
+
+Al escrito de recurso deberá acompañarse copia del escrito que contenga el acto impugnado.
+
+> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+###### Artículo 74.
+
+El Instituto subsanará las deficiencias de los recursos en su admisión y al momento de su resolución; asimismo, establecerá las condiciones necesarias para que los particulares puedan establecer sus recursos de manera electrónica.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 75.
+
+Recibido el recurso de revisión, el Comisionado Presidente, en un plazo no mayor de tres días hábiles, lo turnará a un Comisionado quien será designado ponente, quien presentará al Pleno el expediente con el proyecto de resolución. El Pleno resolverá en definitiva dentro de un plazo de treinta días hábiles siguientes a la fecha de interposición del recurso.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 75 Bis.
+
+Las resoluciones deberán contener lo siguiente:
+
+l. Lugar, fecha en que se pronuncia, el nombre del recurrente, sujeto obligado y extracto breve de los hechos cuestionados;
+
+II. Los preceptos que la fundamenten y las consideraciones que la sustenten;
+
+III. Los alcances y efectos de la resolución, fijando con precisión, en su caso los órganos obligados a cumplirla; y
+
+IV. Los puntos resolutivos.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+Artículo 75 Bis A.- El recurso será sobreseído cuando:
+
+l. El recurrente se desista expresamente del recurso;
+
+II. El recurrente fallezca o, tratándose de personas morales, se disuelva;
+
+III. La dependencia o entidad responsable del acto o resolución impugnado lo modifique o revoque, de tal manera que el medio de impugnación quede sin efecto o materia.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 76.
+
+La resolución del Instituto deberá remitirse a la Unidad de Información, quien deberá cumplirla dentro del plazo de quince días hábiles.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 77.
+
+Las prescripciones contenidas en el presente capítulo serán aplicables a los Poderes Legislativo, Ejecutivo y Judicial, a los Municipios del Estado, a los Órganos Autónomos y Tribunales Administrativos.
+
+En estos casos el recurso de revisión será resuelto por el Instituto.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 78.
+
+Las resoluciones que dicte el Instituto en los recursos de revisión serán definitivas para los sujetos obligados en la presente Ley. Se resguarda el derecho de los particulares a impugnar las resoluciones referidas por la vía del Juicio de Amparo, en los términos de las leyes aplicables.
+
+###### Artículo 79.
+
+La Comisión de Derechos Humanos del Estado de México tendrá la intervención que la ley de su creación le atribuye, para garantizar el ejercicio del derecho de acceso a la información pública y de protección de datos personales.
+
+## TITULO SEXTO. DEL ACCESO A LA INFORMACION EN LOS DEMAS SUJETOS OBLIGADOS
+
+### Capítulo Único
+
+###### Artículo 80.
+
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
+
+###### Artículo 81.
+
+(DEROGADO, G.G. 24 DE JULIO DE 2008)
+
+## TITULO SEPTIMO. DE LAS RESPONSABILIDADES Y LAS SANCIONES
+
+### Capítulo Único
+
+###### Artículo 82.
+
+Para los efectos de esta ley son causas de responsabilidad administrativa de los servidores públicos de los sujetos obligados:
+
+I. Cualquier acto u omisión que provoque la suspensión o deficiencia en la atención de las solicitudes de información;
+
+II. Alterar la información solicitada;
+
+III. Actuar con dolo o mala fe en la clasificación o desclasificación de la información;
+
+IV. Entregar información clasificada como reservada;
+
+V. Entregar información clasificada como confidencial fuera de los casos previstos por esta ley;
+
+VI. Vender, sustraer o publicitar la información clasificada;
+
+> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+
+VII. Hacer caso omiso de los requerimientos y resoluciones del Instituto;
+
+VIII. En general dejar de cumplir con las disposiciones de esta ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE JULIO DE 2008)</small>
+
+El Instituto aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios, para sancionar a quienes no cumplan las obligaciones de la presente Ley.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+El Instituto remitirá las resoluciones que impongan sanciones para efectos de registro a la Secretaría de la Contraloría del Poder Ejecutivo y a las instancias homólogas de los demás sujetos obligados.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.G. 24 DE JULIO DE 2008)</small>
+
+El Instituto, por acuerdo del Pleno podrá realizar un extrañamiento público al sujeto obligado que actualice alguna de las causas de responsabilidad administrativa, establecidas en esta Ley y en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, sin necesidad de que inicie el procedimiento administrativo disciplinario.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 83.
+
+Los servidores públicos de los sujetos obligados que incurran en las responsabilidades administrativas establecidas en el artículo anterior, serán sancionados de acuerdo con la gravedad de la conducta incurrida y conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de México y Municipios.
+
+El Instituto deberá considerar como elemento agravante la reincidencia en que incurran los servidores públicos al momento de determinar la aplicación de la sanción correspondiente.
+
+###### Artículo 84.
+
+La atención extemporánea de las solicitudes de información no exime a los servidores públicos de la responsabilidad administrativa en que hubiese incurrido en términos de este capítulo.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 85.
+
+En el caso de que el Instituto determine que por negligencia no se hubiere atendido alguna solicitud en los términos de esta ley, requerirá a la Unidad de Información correspondiente para que proporcione la información sin costo alguno para el solicitante, dentro del plazo de quince días hábiles a partir del requerimiento.
+
+> <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 86.
+
+Los servidores públicos de los sujetos obligados que de acuerdo con el Instituto, hagan caso omiso de los requerimientos y resoluciones para la entrega de la información, podrán ser sancionados conforme a los ordenamientos aplicables y, en su caso, lo harán del conocimiento del Ministerio Público, quien deberá investigar dichas conductas.
+
+> <small>(ADICIONADO, G.G. 24 DE JULIO DE 2008)</small>
+
+###### Artículo 87.
+
+Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere el artículo anterior, son independientes de las de orden civil y penal que procedan, así como los procedimientos para el resarcimiento del daño ocasionado por el sujeto obligado.
+
+T R A N S I T O R I O S
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La Ley de Transparencia y Acceso a la Información Pública del Estado de México y las reformas al Código Administrativo del Estado de México y a la Ley de Documentos Administrativos e Históricos del Estado de México tendrán vigencia, hasta en tanto entren en vigor los párrafos segundo y tercero, adicionados al artículo 5 de la Constitución Política del Estado Libre y Soberano de México, aprobados por esta Legislatura.
+
+TERCERO.- Los Consejeros del Instituto deberán ser designados dentro de los tres meses siguientes al inicio de la vigencia de la presente Ley e iniciarán sus funciones un mes después de su designación.
+
+CUARTO.- El Poder Legislativo, el Poder Ejecutivo, el Poder Judicial, los Municipios, los órganos autónomos y los Tribunales Administrativos, emitirán las disposiciones reglamentarias correspondientes a la presente Ley, dentro de los seis meses siguientes al inicio de su vigencia.
+
+QUINTO.- Los Sujetos Obligados deberán nombrar a los responsables de las Unidades de Información, o su equivalente y, a los integrantes de los comités de información, así como designar a los servidores públicos habilitados a más tardar tres meses después de la designación de los Consejeros y del Consejero Presidente.
+
+La conformación de las estructuras a que se refiere esta disposición, deberá hacerse con los recursos humanos, materiales y financieros asignados, por lo que no deberá implicar erogaciones adicionales.
+
+SEXTO.- La información pública de oficio a que se refiere la presente Ley deberá estar disponible a más tardar un año después de la designación de los Consejeros y del Consejero Presidente.
+
+SEPTIMO.- Los Sujetos Obligados deberán elaborar el catálogo de información a que se refiere la presente Ley, a más tardar un año después de la designación de los Consejeros y del Consejero Presidente.
+
+OCTAVO.- Los particulares podrán presentar solicitudes de acceso a la información pública y corrección de datos personales en términos de la presente Ley, después de un año de la designación de los Consejeros y del Consejero Presidente.
+
+NOVENO.- El Instituto expedirá su reglamento interior dentro de los tres meses siguientes a su integración.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
+
+Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los dieciocho días del mes de marzo del año dos mil cuatro.- Presidente.- Dip. Juan Ignacio Samperio Montaño.- Secretarios.- Dip. Juan Manuel San Martín Hernández.- Dip. María Isabel de Jesús Viejo Plancarte.- Rúbricas.
+
+Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 30 de abril del 2004.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE MEXICO
+
+ARTURO MONTIEL ROJAS
+
+(RUBRICA).
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+MANUEL CADENA MORALES
+
+(RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 28 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto ene l Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 29 DE DICIEMBRE DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Sujetos Obligados cumplirán de manera obligatoria con lo previsto en las fracciones XIX, XX, XXI y XXII del artículo 12 a más tardar a los 90 días posteriores al de la entrada en vigor del presente decreto.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.G. 1 DE FEBRERO DE 2007.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- La reforma a la Ley de Transparencia y Acceso a la Información Pública del Estado de México, contenida en el presente Decreto, entrará en vigor al día siguiente del inicio de la vigencia de la reforma al primer párrafo de la fracción XXXII del artículo 61 de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO.- El presente Decreto será aplicable en la entrega, recepción, revisión y fiscalización de las cuentas públicas del Estado y de los municipios, correspondientes al ejercicio fiscal 2006.
+
+G.G. 24 DE JULIO DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Dos de los Comisionados del Instituto deberán ser propuestos por el Gobernador del Estado dentro de los treinta días siguientes a la entrada en vigor del presente decreto.
+
+CUARTO.- Los Consejeros en funciones concluirán su encargo en los términos de sus nombramientos originales y serán elegibles para un nuevo periodo tal y como lo establece la Ley en vigor a la fecha de su nombramiento.
+
+QUINTO.- Los sujetos obligados, en el ámbito de sus competencias, realizarán las adecuaciones requeridas para dar cumplimiento al presente decreto dentro de los 60 días hábiles siguientes al de su entrada en vigor.
+
+SEXTO.- Se extingue el Organismo Público Descentralizado no sectorizado de carácter Estatal denominado Instituto de Transparencia y Acceso a la Información Pública del Estado de México.
+
+SÉPTIMO.- El Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios aplicará las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a lo establecido por el presente decreto, hasta en tanto se expidan las que habrán de sustituirlas.
+
+OCTAVO.- Los recursos humanos, materiales y financieros con los que venía operando el Instituto de Transparencia y Acceso a la Información Pública del Estado de México, como organismo público descentralizado, se transferirán al órgano autónomo.
+
+NOVENO.- Se respetarán los derechos laborales adquiridos por los servidores públicos adscritos al organismo público descentralizado que pasen a formar parte del órgano autónomo.
+
+DÉCIMO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en el Instituto de Transparencia y Acceso a la Información Pública del Estado de México, como organismo público descentralizado, al momento de la entrada en vigor del presente decreto, serán atendidos hasta su conclusión por el órgano autónomo, de conformidad con las atribuciones que le confiere el presente decreto. Los procedimientos y recursos administrativos iniciados al amparo de la Ley vigente, y que se encuentren en trámite al entrar en vigor el presente ordenamiento, se sustanciarán y resolverán conforme a la disposición legal anterior.
+
+DÉCIMO PRIMERO.- Los recursos económicos, pagos y actos que se encuentren en trámite al momento de la entrada en vigor del presente decreto a favor del Instituto de Transparencia y Acceso a la Información Pública del Estado de México, se entenderán transferidos o aplicables al órgano autónomo, a partir de la fecha de entrada en vigor del presente decreto.
+
+DÉCIMO SEGUNDO.- A partir de la fecha de entrada en vigor del presente decreto, cuando en otros ordenamientos legales, reglamentarios, administrativos y documentación se haga referencia al Instituto de Transparencia y Acceso a la Información Pública del Estado de México, como organismo público descentralizado se entenderá al órgano autónomo.
+
+DÉCIMO TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente decreto.
+
+G.G. 2 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 31 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las solicitudes y recursos de revisión en trámite a la entrada en vigor de la Ley que se crea por este Decreto se resolverán conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
+
+CUARTO.- Los sujetos obligados deberán conformar el registro a que se refiere el artículo 52 de esta Ley, a más tardar en un plazo de doce meses después de la entrada en vigor de la misma.
+
+QUINTO.- La Secretaría de Finanzas realizará el estudio correspondiente a fin de proponer el esquema de ampliación presupuestal para la implementación de las medidas de seguridad previstas en el Título Sexto de la presente Ley, en un plazo de ciento ochenta días posterior al inicio de su vigencia.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+SÉPTIMO.- El Presupuesto de Egresos del Estado, para el Ejercicio Fiscal de 2013, deberá considerar partidas suficientes para el adecuado funcionamiento en las materias de esta Ley, del Instituto (sic) Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+Sin perjuicio de lo anterior, la Secretaría de Finanzas, en un plazo máximo de treinta días naturales, contado a partir de la entrada en vigor de la presente Ley, proveerá con sujeción a las previsiones que para tal efecto estén contenidas en el Presupuesto de Egresos del Estado, los recursos adicionales necesarios al Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales de (sic) Estado de México y Municipios, para dar inicio a la implementación de las nuevas atribuciones contenidas en esta Ley.
+
+G.G. 29 DE JULIO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57. POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2016)</small>
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Gobierno Digital del Estado de México y Municipios en un plazo no mayor a ciento veinte días hábiles a la entrada en vigor del presente Decreto.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2016)</small>
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 67 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2016)</small>
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el tres de septiembre de dos mil diez y se deroga el Libro Décimo Quinto del Código Administrativo del Estado de México publicado en el periódico oficial "Gaceta del Gobierno" el cinco de enero de dos mil seis.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
