@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-de-lo-contencioso-61354"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-29"
-last_updated: "2015-09-11"
+last_updated: "2017-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 29 de abril de 2008.
 
@@ -974,3 +976,15 @@ P.O. 11 DE SEPTIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL PLENO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LOS ORDENAMIENTOS JURÍDICOS SIGUIENTES: REGLAMENTO PARA LA ENTREGA RECEPCIÓN DE LAS ÁREAS DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO; REGLAMENTO DE LA ESPECIALIDAD EN JUSTICIA ADMINISTRATIVA Y DE LA MAESTRÍA EN JUSTICIA ADMINISTRATIVA; REGLAMENTO DEL SERVICIO ADMINISTRATIVO DE CARRERA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO Y DE LOS LINEAMIENTOS PARA LA UTILIZACIÓN DEL JUICIO EN LÍNEA ANTE EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+SEGUNDO. A la entrada en vigor del presente Reglamento, se abroga el Reglamento Interior del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato, aprobado por el Pleno y publicado en el Periódico Oficial del Gobierno del Estado el 29 de abril de 2008, así como su última reforma publicada en el mismo medio oficial de difusión el 11 de septiembre de 2015 y las demás disposiciones normativas que se opongan al presente.
+
+TERCERO. Las áreas del Órgano Interno de Control entrarán en funciones una vez que el Tribunal cuente con el presupuesto para ello.
+
+CUARTO. El Tribunal continuará teniendo su residencia en la ciudad de Guanajuato, Capital, en tanto cuente con sus instalaciones en el municipio de Silao de la Victoria.
