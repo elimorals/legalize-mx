@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2017-12-07"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE DICIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1996,15 +1996,13 @@ Para los efectos de este artículo, cuando uno de los hermanos, ascendiente o de
 
 ### CAPÍTULO VI. EXPLOTACIÓN LABORAL DE MENORES, PERSONAS CON DISCAPACIDAD FÍSICA O MENTAL Y ADULTOS MAYORES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ARTÍCULO 190 BIS. Al que por cualquier medio, regentee, administre, induzca u obtenga un beneficio económico, a través de la explotación laboral de un menor, de una persona con discapacidad física o mental o mayores de sesenta años, poniéndolo a trabajar en las calles, avenidas, ejes viales, espacios públicos, recintos privados o cualquier vía de circulación, se le impondrá de dos a seis años de prisión y de cien a trescientos días multa. También se le condenará al pago de la retribución omitida o despojada, la cual deberá fijarse con base en la naturaleza y condiciones de las actividades laborales desarrolladas por el sujeto pasivo; pero en ningún caso podrá ser menor al salario mínimo general vigente.
-
-> <small>(ADICIONADO, G.O. 22 DE JULIO DE 2005)</small>
+ARTÍCULO 190 BIS.- Al que por cualquier medio, regentee, administre, induzca u obtenga un beneficio económico, a través de la explotación laboral de un menor, de una persona con discapacidad física o mental o mayores de sesenta años, poniéndolo a trabajar en las calles, avenidas, ejes viales, espacios públicos, recintos privados o cualquier vía de circulación, se le impondrá de tres a seis años de prisión y de trescientas a quinientas veces la Unidad de Medida y Actualización. También se le condenará al pago de la retribución omitida o despojada, la cual deberá fijarse con base en la naturaleza y condiciones de las actividades laborales desarrolladas por el sujeto pasivo; pero en ningún caso podrá ser menor al salario mínimo general vigente.
 
 Se entiende por explotación laboral, la acción de despojar o retener, todo o en parte, el producto del trabajo, contra la voluntad de quien labora.
 
-> <small>(ADICIONADO, G.O. 22 DE JULIO DE 2005)</small>
+Cuando se despoje o retenga del producto del trabajo aún con su consentimiento a menores de 16 años de edad se aplicará la pena señalada en el párrafo primero de este artículo.
 
 Las penas de prisión y multa, previstas en el párrafo inicial de este precepto, se incrementarán en una mitad en términos del artículo 71 de este ordenamiento, cuando la conducta se realice respecto de dos o más sujetos pasivos, o cuando se emplee la violencia física o moral, o cuando cometan el delito conjuntamente tres o más personas.
 
@@ -4706,9 +4704,9 @@ X. INTRODUZCA O SUSTRAIGA DE LAS URNAS ILÍCITAMENTE UNA O MÁS BOLETAS ELECTORA
 
 XI. OBTENGA O SOLICITE DECLARACIÓN FIRMADA DEL ELECTOR ACERCA DE LA INTENCIÓN O SENTIDO DE SU VOTO, O MEDIANTE AMENAZA O PROMESA DE PAGA O DÁDIVA, COMPROMETA SU VOTO EN FAVOR DE UN DETERMINADO PARTIDO POLÍTICO O CANDIDATO;
 
-> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2017)</small>
-
 (NOTA: EL 21 DE SEPTIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO NOVENO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 63/2017 Y SUS ACUMULADAS 65/2017, 66/2017, 67/2017, 68/2017, 70/2017, 71/2017, 72/2017, 74/2017 Y 75/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2017)</small>
 
 XII. IMPIDA EN FORMA VIOLENTA LA INSTALACIÓN, APERTURA O CIERRE DE UNA CASILLA, O INDEBIDAMENTE IMPIDA LA INSTALACIÓN NORMAL DE LA CASILLA. SI LA CONDUCTA SE REALIZA POR UNA O VARIAS PERSONAS ARMADAS O QUE UTILICEN O PORTEN OBJETOS PELIGROSOS, A LA PENA SEÑALADA SE AUMENTARÁ HASTA EN UNA MITAD, CON INDEPENDENCIA DE LAS QUE CORRESPONDAN POR LA COMISIÓN DE OTROS DELITOS;
 
@@ -5810,8 +5808,18 @@ SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su cono
 
 G.O. 7 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y LA LEY DEL FONDO DE APOYO A LA PROCURACIÓN DE JUSTICIA EN EL DISTRITO FEDERAL".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y LA LEY DEL FONDO DE APOYO A LA PROCURACIÓN DE JUSTICIA EN EL DISTRITO FEDERAL”.]
 
 PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- En tanto no entre en vigor la Unidad de Medida y Actualización se utilizara la Unidad de Cuenta vigente en la Ciudad de México.
