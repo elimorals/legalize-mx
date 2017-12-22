@@ -4,7 +4,7 @@ identifier: "LGPC"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-06"
-last_updated: "2017-06-23"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPC"
 
 LEY GENERAL DE PROTECCIÓN CIVIL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de junio de 2012.
 
@@ -404,9 +404,15 @@ XXVII. Intercambiar con otros países y con organismos internacionales, conocimi
 
 XXVIII. Promover que los gobiernos de las entidades federativas y de los municipios o delegaciones, según corresponda, elaboren y mantengan actualizados sus respectivos programas de protección civil y formen parte de sus planes de desarrollo;
 
-XXIX. Proponer, en coordinación con la Secretaría de Hacienda y Crédito Público, los modelos de contratación de seguros e instrumentos financieros de gestión de riesgos, que garanticen a la Federación las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, y
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
-XXX. Las demás que señalen los ordenamientos aplicables o que le atribuyan el Presidente o el Consejo Nacional dentro de la esfera de sus facultades.
+XXIX. Proponer, en coordinación con la Secretaría de Hacienda y Crédito Público, los modelos de contratación de seguros e instrumentos financieros de gestión de riesgos, que garanticen a la Federación las mejores condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+XXX. Coadyuvar con los gobiernos de las entidades federativas, así como con los de municipios y delegaciones, según corresponda, en la elaboración y actualización de protocolos de actuación para la atención de niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores, en sus programas de protección civil, y
+
+XXXI. Las demás que señalen los ordenamientos aplicables o que le atribuyan el Presidente o el Consejo Nacional dentro de la esfera de sus facultades.
 
 ###### Artículo 20.
 
@@ -1029,3 +1035,9 @@ D.O.F. 23 DE JUNIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE PROTECCIÓN CIVIL, EN MATERIA INNOVACIÓN TECNOLÓGICA”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXX AL ARTÍCULO 19 DE LA LEY GENERAL DE PROTECCIÓN CIVIL”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
