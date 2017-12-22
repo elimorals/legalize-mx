@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2017-12-08"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -173,7 +173,17 @@ III. Recibir los beneficios de las obras públicas de interés colectivo que rea
 
 IV. Proponer ante las autoridades municipales las medidas o acciones que consideren de utilidad pública.
 
-V. Los demás derechos que se deriven de los bandos de policía y buen gobierno, reglamentos o cualquiera otra disposición de carácter general, expedida por el ayuntamiento.
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V. Acceder a las políticas públicas con perspectiva de género, con la finalidad de que se garanticen los derechos de igualdad entre mujeres y hombres, acordes a la inclusión social y la igualdad de oportunidades con la finalidad de garantizar su empoderamiento.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VI. Recibir de manera permanente la atención integral con perspectiva de género a través de los ayuntamientos y sus unidades administrativas designadas particularmente a erradicar las malas condiciones y situaciones en contra de las mujeres.
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VII. Los demás derechos que se deriven de los bandos de policía y buen gobierno, reglamentos o cualquiera otra disposición de carácter general, expedida por el Ayuntamiento.
 
 ###### ARTÍCULO 20.
 
@@ -3911,7 +3921,7 @@ Los ayuntamientos acordarán lo conducente para que los juzgados municipales cue
 
 ### CAPÍTULO III. DEL RECURSO DE INCONFORMIDAD
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2007)</small>
 
 ###### ARTÍCULO 389.
 
@@ -4502,3 +4512,11 @@ P.O. 8 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1042.- SE ADICIONAN LAS FRACCIONES V Y VI RECORRIENDO EL NUMERAL DE LA EXISTENTE V AL VII, DEL ARTÍCULO 19 PARA (SIC) DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
