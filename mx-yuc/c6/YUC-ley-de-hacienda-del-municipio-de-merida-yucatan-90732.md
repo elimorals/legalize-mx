@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2017-01-25"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2016.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 25 DE ENERO DE 2017.]
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -62,6 +60,20 @@ LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA
 ###### ARTÍCULO 1.
 
 El Ayuntamiento del Municipio de Mérida, Yucatán, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá, por conducto de su Hacienda Pública, los ingresos que por concepto de impuestos, contribuciones de mejoras, derechos, productos, aprovechamientos, participaciones y aportaciones, transferencias, asignaciones, subsidios y otras ayudas e ingresos derivados de financiamientos que se establecen en esta Ley y en la Ley de Ingresos del Municipio de Mérida.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO CON SUS INCISOS], D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+El Ayuntamiento del Municipio de Mérida podrá establecer programas de estímulos para los contribuyentes, mismos que deberán publicarse en la Gaceta Municipal del Ayuntamiento de Mérida. En dichos programas, podrá establecerse entre otras acciones lo siguiente:
+
+a) Bonificaciones, estímulos fiscales, así como la condonación total o parcial de contribuciones, aprovechamientos y sus accesorios.
+
+b) La autorización de pagos diferidos de contribuciones y aprovechamientos, en modalidad diferente a lo establecido en el artículo 26 de este mismo ordenamiento legal.
+
+c) La condonación total o parcial de créditos fiscales causados.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, el Ayuntamiento de Mérida podrá establecer programas de estímulos que incentiven el cumplimiento de obligaciones de pago de los contribuyentes. Entre dichos programas se podrá incluir la organización de loterías, sorteos o rifas fiscales, con diversos premios en los que participarán los contribuyentes que hayan cumplido con el pago de sus contribuciones.
 
 #### Sección Segunda. De las disposiciones fiscales
 
@@ -203,9 +215,11 @@ f).- Los requerimientos de licencia de funcionamiento, de documentación a contr
 
 La Hacienda Pública del Municipio de Mérida, se rige por los principios establecidos en la Base Novena del Artículo 77 de la Constitución Política del Estado; administrándose conforme a las leyes correspondientes, reglamentos y demás disposiciones normativas que acuerde el Ayuntamiento. El único órgano de la administración pública municipal, facultado para recaudar y administrar los ingresos y aplicar los egresos, es la Dirección de Finanzas y Tesorería Municipal.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-El Presidente Municipal, el Director de Finanzas y/o Tesorero Municipal, son las autoridades competentes en el orden administrativo para:
+El Presidente Municipal y el Director de Finanzas y Tesorero Municipal, son las autoridades competentes en el orden administrativo para:
 
 a).- Cumplir y hacer cumplir las disposiciones legales de naturaleza fiscal, aplicables en el Municipio de Mérida.
 
@@ -282,6 +296,10 @@ ARTÍCULO 20 A.- Son Ingresos derivados de Financiamiento, los ingresos obtenido
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 20 B.- Son recursos propios que obtienen las diversas entidades que conforman el sector paramunicipal por sus actividades de producción y/o comercialización.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Los ingresos producidos por los organismos descentralizados o paramunicipales se percibirán cuando lo decreten y exhiban conforme a sus respectivos regímenes interiores.
 
 ###### ARTÍCULO 20.
 
@@ -591,7 +609,7 @@ Cuando el pago de las contribuciones o de los créditos fiscales, hubiese sido m
 
 #### Sección Décima Quinta. Del pago en exceso
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 35.
 
@@ -609,7 +627,7 @@ Cuando el contribuyente pague en una sola exhibición, el total de las contribuc
 
 ###### ARTÍCULO 37.
 
-Las autoridades fiscales municipales facultadas para el cobro de las contribuciones, están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo y conforme a las disposiciones siguientes:
+Las autoridades fiscales municipales facultadas para el cobro de las contribuciones, están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo o transferencia electrónica y conforme a las disposiciones siguientes:
 
 I.- Si el pago de lo indebido se hubiese efectuado en el cumplimiento de un acto de autoridad, el derecho a la devolución nace, cuando dicho acto hubiere quedado insubsistente.
 
@@ -727,15 +745,31 @@ Las bases del impuesto predial son:
 
 I.- El valor catastral del inmueble.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-II.- La contraprestación que produzcan los inmuebles, incluyendo los del dominio público, cuando por cualquier título se utilicen para fines distintos a su objeto; los terrenos o construcciones ubicadas en los mismos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario, el usufructuario, o el concesionario, independientemente de que se pacte en efectivo, especie o servicios.
+II.- La contraprestación que produzcan los inmuebles, incluyendo los del dominio público, cuando por cualquier título se utilicen para fines distintos a su objeto; los terrenos o construcciones ubicadas en los mismos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario, el fiduciario, el usufructuario, o el concesionario, independientemente de que se pacte en efectivo, especie o servicio.
 
 De la base Valor Catastral
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 45.
 
-Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que de conformidad con la Ley del Catastro del Estado de Yucatán y su reglamento, y el Reglamento del Catastro del Municipio de Mérida, expedirá la Dirección del Catastro del Municipio de Mérida.
+Cuando la base del impuesto predial, sea el valor catastral de un inmueble, dicha base estará determinada por el valor consignado en la cédula, que, de conformidad con el Reglamento del Catastro del Municipio de Mérida, expedirá la Dirección de Catastro del Municipio de Mérida.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En todo lo no previsto en el Reglamento del Catastro del Municipio de Mérida, se aplicarán las disposiciones de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán (INSEJUPY) y su respectivo Reglamento.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO CON SUS FRACCIONES], D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+La Dirección de Catastro del Municipio de Mérida deberá generar una nueva cédula catastral cuando:
+
+I.- El Congreso del Estado de Yucatán apruebe las tablas de valores unitarios de terreno y construcción y éstas sean publicadas en el Diario Oficial del Gobierno del Estado de Yucatán; en cuyo caso, transcurridos los treinta días hábiles contados a partir del día siguiente hábil a la publicación de dichas tablas, se tendrá por conforme al contribuyente con el valor catastral asignado al inmueble de su propiedad.
+
+II.- Se modifique el valor catastral de un inmueble propiedad del contribuyente, como resultado de los servicios catastrales que presta la Dirección de Catastro del Municipio de Mérida solicitados por el propio contribuyente; en cuyo caso, transcurridos los diez días hábiles siguientes a la recepción del servicio o a la entrega por parte de la Dirección de Catastro, se tendrá por conforme al contribuyente con el valor catastral asignado al inmueble de su propiedad.
+
+III.- Se modifique el valor catastral de un inmueble por detección de construcción no manifestada ante la Dirección de Catastro del Municipio de Mérida.
 
 Cuando la Dirección de Catastro del Municipio de Mérida expidiere una cédula con diferente valor al contenido en la que existía registrada en el padrón municipal, el nuevo valor servirá como base para calcular el impuesto predial a partir del mes siguiente al en que se emita la citada cédula.
 
@@ -749,7 +783,7 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 5 A LA 35.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -757,7 +791,7 @@ II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas p
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 56 A LA 61.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 35 A LA 45.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -765,7 +799,7 @@ III.- Los valores unitarios para los terrenos ubicados en el periférico y las c
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 61 A LA 62.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59; 30 DE DICIEMBRE DE 2016, PÁGINA 44.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59; 30 DE DICIEMBRE DE 2016, PÁGINA 44; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 45 A LA 46.]</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -777,7 +811,7 @@ IV.- Los valores unitarios para los locales correspondientes a las plazas comerc
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 62.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45; 22 DE DICIEMBRE DE 2017, PÁGINA 46.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -785,7 +819,71 @@ V.- Los valores unitarios para los diferentes tipos de construcción y factores 
 
 > <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 63 A LA 64.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 60 A LA 63; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 48.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 60 A LA 63; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 48; 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 46 A LA 51.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V Bis.- Para determinar el valor unitario de construcción a aplicar dependiendo de sus especificaciones, se utilizarán las tablas de criterios de valuación de la construcción establecidos por sección, unidad habitacional o comisarías del Municipio de Mérida, de acuerdo al tipo de construcción indicado en el plano· catastral y de conformidad con lo que se señala en el inciso b de la fracción XIII del Artículo 28 Bis del Reglamento del Catastro del Municipio de Mérida.
+
+Cuando no se puedan determinar las especificaciones a que se refiere el párrafo que antecede, se aplicará el tipo de construcción genérico indicado en las propias tablas.
+
+A) Para las secciones 1, 2 y 3 los criterios de valuación serán los siguientes:
+
+B) [N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 51.]
+
+B) (SIC) Para las unidades habitacionales México Norte, Residencial Montecristo, Ampliación Plan de Ayala, Buenavista, Gonzalo Guerrero, Montes de Amé, San Ramón, San Ramón Norte, Villas La Hacienda, Xaman Kab, Aurea Residencial, Residencial Piedrasul, Altabrisa, Residencial San Antonio, Residencial Sol Campestre, San Antonio Cucul, Montealban, Monterreal, Xaman Tan, Villareal, Privada Los Alamos, Xo'tik, Residencial Puerta de Piedra Dzityá, Royal del Parque, San Antonio Residencial, Condominio Alto Viento, Condominio Modena, Condominio Novara, Condominio Privada Temozón Norte, Condominio Punta Lomas, Condominio San Andrés Cocoyoles, Condominio Temozón 39, Bogdan, Algarrobos Desarrollo Residencial, San Pedro Cholul (sección 35), Alura, Cholul 26, Cloverleaf Cholul, Jalapa, Las Fincas Cholul, Vida Verde, Condominios de la sección 35, Floresta Residencial, Los Héroes, Cerradas de Gran Santa Fe, Gran Santa Fe, Gran Santa Fe II, Gran Santa Fe Norte, Sian Ka'An II, Ceiba II, El Arca y los complementos de las secciones 16 y 26, los criterios de valuación serán los siguientes:
+
+> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 52.]</small>
+
+C) Para las unidades habitacionales Campestre, Benito Juárez Norte, Privada Sodzil, Verona de San Angelo, Condominio San Antonio Cucul, Montecristo, Montebello, Condominios Cabo Norte, Las Fincas, Punta Lago Privada Residencial, Residencial Xcanatun, Ceiba II, Altozano, Ceiba, Condominio Artisana, Condominio Chaactun, Condominio El Sueño, Condominio Privada Club de Golf, Condominio Villareal y los complementos de las secciones 34, 35, 44 y 45 los criterios de valuación serán los siguientes:
+
+> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 52.]</small>
+
+D) Para la unidad habitacional Villas del Rey los criterios de valuación serán los siguientes:
+
+> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 53.]</small>
+
+E) Para la unidad habitacional Vía Montejo y el condominio Yucatán Village & Resort (Contry Club) los criterios de valuación serán los siguientes:
+
+> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 53.]</small>
+
+F) Para los complementos de las secciones 37, 38, 39, 40, 42, 43, 47, 48, 49 y 50 y los predios ubicados en las comisarías con hasta 300.00 metros cuadrados de construcción pertenecientes al Municipio de Mérida, los criterios de valuación serán los siguientes:
+
+> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 53.]</small>
+
+G) Para las unidades habitacionales no contempladas en las fracciones I, II, III, IV, V y VI de este inciso; complementos de las secciones 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 36, 41 y 46; y predios en comisarías con más de 300.00 metros cuadrados de construcción, pertenecientes al Municipio de Mérida, los criterios serán los siguientes:
+
+> <small>[N. DE E. VÉANSE TABLAS EN EL D.O. DE 22 DE DICIEMBRE DEL 2017, PÁGINA 54.]</small>
+
+H) Para los predios ubicados en las calles y avenidas principales los valores genéricos de la construcción serán los equivalentes a Moderno-Mediano-Regular y Moderno-Mediano-Bueno, dependiendo de su ubicación.
+
+I) Para los predios ubicados en el periférico y calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico el valor genérico de la construcción será el equivalente a Moderno-Mediano-Regular.
+
+Significado de la clasificación
+
+A-P-R: Antiguo-Popular-Regular
+
+A-E-R: Antiguo-Económico-Regular
+
+A-M-R: Antiguo-Mediano-Regular
+
+M-P-R: Moderno-Popular-Regular
+
+M-E-R: Moderno-Económico-Regular
+
+M-M-R: .Moderno-Mediano-Regular
+
+M-P-B: Moderno-Popular-Bueno
+
+M-E-B: Moderno-Económico-Bueno
+
+M-M-B: Moderno-Mediano-Bueno
+
+M-C-B: Moderno-Calidad-Bueno
+
+M-L-B: Moderno-Lujo-Bueno
+
+En los casos en que se realice una visita de inspección al predio, se podrán modificar los criterios de valuación especificados en este inciso, de acuerdo con las características físicas de la construcción observadas en la inspección.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -798,6 +896,8 @@ VI.- Los coeficientes de demérito que afectan los valores unitarios de terreno 
 FACTORES DE DEMÉRITO (el valor unitario de terreno se multiplicará por el factor o factores de demérito que correspondan para disminuir su valor catastral unitario de tierra):
 
 A) DE FORMA* POR FRENTE (NO APLICA SI EL PREDIO ES INTERIOR, SIN ACCESO A VIALIDAD)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 FRENTE (metros): FACTOR
 
@@ -816,6 +916,8 @@ Este demérito no aplica en los siguientes casos:
 I. Si el predio es interior, sin acceso a vialidad
 
 II. Para la superficie que resulte de multiplicar el frente por sí mismo y su resultado multiplicado por el factor 3.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 FONDO/FRENTE FACTOR:
 
@@ -852,6 +954,8 @@ INFRAESTRUCTURA URBANA: Los sistemas y redes de conducción y distribución de b
 G) DE SUPERFICIE
 
 Si el predio es mayor de 2,500 m² el excedente de terreno por sobre esa cantidad podrá ser afectado de acuerdo a la siguiente tabla de factores:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 SUPERFICIE EXCEDENTE SOBRE 2,500 M2 FACTOR
 
@@ -921,11 +1025,11 @@ El Impuesto Predial, se causará sobre la base de rentas, frutos civiles o cualq
 
 De las Obligaciones del Contribuyente
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 50.
 
-Los propietarios, fideicomisarios, fideicomitentes, usufructuarios o concesionarios de inmuebles, incluyendo los del dominio público de la federación, del estado y municipio, cuando por cualquier título se utilicen total o parcialmente para fines distintos a su objeto; que se encuentren en los supuestos previstos en el artículo anterior referentes a otorgarlo en uso o goce mediante el pago de una contraprestación, estarán obligados a empadronarse en la Dirección de Finanzas y Tesorería Municipal en un plazo máximo de treinta días, contados a partir de la fecha de celebración del contrato correspondiente, entregando copia del mismo a la propia Dirección.
+Los propietarios, fideicomisarios, fideicomitentes, fiduciarios, arrendadores, subarrendadores, usufructuarios o concesionarios de inmuebles, incluyendo los del dominio público de la federación, del estado y municipio, cuando por cualquier título se utilicen total o parcialmente para fines distintos a su objeto; que se encuentren en los supuestos previstos en el artículo anterior referentes a otorgarlo en uso o goce mediante el pago de una contraprestación, estarán obligados a empadronarse en la Dirección de Finanzas y Tesorería Municipal en un plazo máximo de treinta días, contados a partir de la fecha de celebración del contrato correspondiente, entregando copia del mismo a la propia Dirección.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -1057,9 +1161,9 @@ IV.- La disolución de la copropiedad y de la sociedad conyugal, siempre que las
 
 V.- Cuando se adquieran inmuebles por herencia o legado.
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-VI.- La donación entre consortes, ascendientes y descendientes en línea directa, con la comprobación del parentesco respectivo ante la Dirección de Finanzas y Tesorería Municipal.
+VI.- La donación entre consortes, ascendientes y descendientes en línea directa, con la comprobación del parentesco respectivo en original o copia certificada ante la Dirección de Finanzas y Tesorería Municipal.
 
 De la base
 
@@ -1117,9 +1221,15 @@ a) Superficie Total M2 b) Valor Unitario $ c) Valor del Terreno $
 
 B).- construcción:
 
-a) Superficie Total M2 b) Valor unitario $ c) Valor de la construcción $
+a) Superficie Total M2
 
-Valor Comercial $ __________.
+b) Valor unitario $
+
+c) Valor de la construcción $
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+d) Valor Comercial $ __________
 
 V.- UNIDAD CONDOMINAL:
 
@@ -1137,9 +1247,9 @@ Cuando se formalice la adquisición de un inmueble, que provenga de un proyecto 
 
 Cuando se formalice la adquisición de un inmueble que provenga del trámite de Revisión Técnica de la Documentación en Régimen de Condominio y no se hubiere obtenido la Cédula de Inscripción de Constitución de Régimen en Condominio, en vez del valor contenido en la cédula catastral vigente que menciona el primer párrafo de este artículo, se considerará el valor catastral que aparezca en el oficio que para tal efecto expida la Dirección del Catastro del Municipio de Mérida, siempre y cuando esté vigente.
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Los oficios mencionados en los dos párrafos que inmediatamente anteceden, tendrán una vigencia de seis meses contados a partir de la fecha de su expedición; dicha vigencia terminará anticipadamente cuando durante ese plazo, la Dirección del Catastro del Municipio de Mérida, emita la cédula catastral correspondiente al inmueble materia de la adquisición.
+Los oficios mencionados en los dos párrafos que inmediatamente anteceden, tendrán vigencia hasta el treinta y uno de diciembre del año de su expedición o hasta que la Dirección de Catastro del Municipio de Mérida emita una nueva cédula catastral correspondiente al inmueble materia de la adquisición.
 
 Vigencia de los avalúos
 
@@ -1173,7 +1283,9 @@ II.- Nombre del fedatario público, número que le corresponda a la notaría o e
 
 III.- Firma y sello, en su caso, del autorizante.
 
-IV.- Fecha en que se firmó la escritura de adquisición del inmueble o de los derechos sobre el mismo.
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IV.- Número de escritura y fecha en que se firmó la escritura de adquisición del inmueble o de los derechos sobre el mismo.
 
 V.- Naturaleza del acto, contrato o concepto de adquisición.
 
@@ -1189,11 +1301,11 @@ IX.- Liquidación del impuesto.
 
 Para el caso de que el manifiesto no expresare el RFC del adquirente o fuere de nacionalidad Extranjera, la Dirección de Finanzas y Tesorería Municipal, expedirá el Comprobante Fiscal Digital (CFDI) para público en general o para residentes en el extranjero, según sea el caso y enviará a la dirección de correo electrónico del fedatario público el archivo XML del CFDI y su representación gráfica, de conformidad con las reglas vigentes establecidas por el Servicio de Administración Tributaria.
 
-A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto, y en caso de las fracciones V, VI, VIII, IX, XI, XII y XIII del artículo 56 y fracciones I y II del artículo 57, se anexará adicionalmente copia del contrato o instrumento jurídico por el que se traslade la propiedad del inmueble de que se trate.
 
-La obligación de presentar la manifestación a que se refiere el primer párrafo de éste artículo no se aplicará en los casos previstos en la fracción V del artículo 57 de esta Ley.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 De los responsables solidarios
 
@@ -1421,6 +1533,10 @@ XX.- Emisión de la Cédula Urbana.
 
 XXI.- Revisión de Integración de Predios Ejidales.
 
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XXII.- Autorización de prototipo.
+
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 De la Base y de las Cuotas
@@ -1575,7 +1691,7 @@ d) Zona 4. Conservación de los Recursos Naturales
 
 5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 1000 Licencia
 
-Para los efectos de la fracción I, numeral 2, los incisos c) y d) no aplicarán para Desarrollos Inmobiliarios que cuenten con autorización anterior al año 2017, a estos desarrollos autorizados se les aplicará el inciso b).
+> <small>(DEROGADO ÚLTIMO PÁRRAFO DEL NUMERAL 2 DE LA FRACCIÓN I, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 e) Se pagará de acuerdo al giro de que se trate:
 
@@ -1651,7 +1767,9 @@ h) Para la instalación de torre de comunicación de una estructura monopolar pa
 
 i) Para la instalación de gasolinera o estación de servicio 70 Constancia
 
-j) Para giros de utilidad temporal 5 Constancia
+> <small>(REFORMADO, D.O, 22 DE DICIEMBRE DE 2017)</small>
+
+j) Para giros de utilidad temporal 25 Constancia
 
 k) Para el establecimiento de bancos de explotación de materiales.
 
@@ -1749,7 +1867,7 @@ d) Zona 4. Conservación de los Recursos Naturales
 
 1,100 Licencia
 
-Para los efectos de la fracción IV, numeral 1, los incisos c) y d) no aplicarán para Desarrollos Inmobiliarios que cuenten con autorización anterior al año 2017, a estos desarrollos autorizados se les aplicará el inciso b).
+> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO DE LA FRACCIÓN IV, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 Por la renovación de la licencia de construcción a que se refiere la fracción IV de este artículo, se pagará una cuota equivalente al 50 por ciento de los derechos establecidos en dicha fracción por los trabajos otorgados en la correspondiente licencia.
 
@@ -1809,7 +1927,7 @@ solicitada
 
 vialidad
 
-Para los efectos de la fracción VI, numeral 1, los incisos c) y d) no aplicarán para Desarrollos Inmobiliarios que cuenten con autorización anterior al año 2017, a estos desarrollos autorizados se les aplicará el inciso b).
+> <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN VI, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 VII.- Validación de planos 0.25 Por plano
 
@@ -1823,17 +1941,21 @@ VIII.- Emisión de dictamen técnico
 
 4. Zona 4. Conservación de los Recursos Naturales 50 Constancia
 
-Para los efectos de la fracción VIII, los numerales 3 y 4 no aplicarán para Desarrollos Inmobiliarios que cuenten con autorización anterior al año 2017, a estos desarrollos autorizados se les aplicará el numeral 2.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO DE LA FRACCIÓN VIII, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 IX.- Permisos de anuncios
 
-a) Instalación de anuncios de propaganda o publicidad permanentes en inmuebles o en mobiliario urbano 1 Metro Cuadrado
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+a) Instalación de anuncios de carácter mixto o de propaganda o publicidad permanentes en inmuebles o en mobiliario urbano 1 Metro Cuadrado
 
 b) Instalación de anuncios de carácter denominativo permanente en inmuebles con una superficie mayor de 1.5 metros cuadrados
 
 0.75 Metro Cuadrado
 
-c) Instalación de anuncios de propaganda o publicidad transitorios en inmuebles o en mobiliario urbano:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+c) Instalación de anuncios transitorios en inmuebles
 
 1) De 1 a 5 días naturales 0.15 Metro Cuadrado
 
@@ -1843,23 +1965,35 @@ c) Instalación de anuncios de propaganda o publicidad transitorios en inmuebles
 
 4) De 1 a 30 días naturales 0.50 Metro Cuadrado
 
-d) Por exhibición de anuncios de propaganda o publicidad permanentes en vehículos de Transporte Público 2 Metro Cuadrado
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-e) Por exhibición de anuncios de propaganda o publicidad transitorios en vehículos de Transporte Público 1.5 Metro Cuadrado
+d) Por exhibición de anuncios de carácter mixto o de propaganda o publicidad permanentes en vehículos de servicio de transporte público o de uso privado 2 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+e) Por exhibición de anuncios de carácter mixto o de propaganda o publicidad transitorios en vehículos de servicio de transporte público 1.5 Metro Cuadrado
 
 f) Por renovación de permisos permanentes, para la difusión de propaganda o publicidad asociada a música o sonido 0.25 Por Día
 
-g) Para la proyección óptica permanente de anuncios 2.5 Metro Cuadrado
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-h) Para la proyección permanente a través de medios electrónicos de anuncios
+g) Para la proyección óptica de anuncios 2.5 Metro Cuadrado
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+h) Por la instalación de anuncios electrónicos
 
 2 Metro Cuadrado
 
-i) Por exhibición de anuncios transitorios de propaganda o publicidad inflables suspendidos en el aire, con capacidad de 1 hasta 50 kg. de gas Helio
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+i) Por exhibición de anuncios inflables suspendidos en el aire, con capacidad de 1 hasta 50 kg. de gas Helio
 
 2.5 Por elemento
 
-j) Por exhibición de anuncios transitorios de propaganda o publicidad inflables suspendidos en el aire, con capacidad de más de 50 kg. de gas Helio
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+j) Por exhibición de anuncios inflables suspendidos en el aire, con capacidad de más de 50 kg. de gas Helio
 
 3 Por elemento
 
@@ -1867,13 +2001,17 @@ k) Por exhibición de anuncios figurativos o volumétricos
 
 5 Por elemento
 
-l) Por la difusión de propaganda o publicidad impresa en volantes o folletos:
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+l) Por la difusión de propaganda o publicidad impresa en volantes, catálogos de ofertas o folletos:
 
 1) De 1 hasta 5 millares 1
 
 2) Por millar adicional 0.10
 
-m) Por instalación permanente de anuncios de propaganda o publicidad en inmuebles o en mobiliario urbano, iluminados con luz Neón
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+m) Por instalación de anuncios iluminados con luz Neón
 
 1.5 Metro Cuadrado
 
@@ -2103,7 +2241,17 @@ XXII.- Revisión de integración de predios ejidales 0.014 Metro
 
 cuadrado del terreno
 
-En la zona de conservación ecológica Reserva Cuxtal se aplicarán las cuotas correspondientes a la zona 4.
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XXIII.- Autorización de Prototipo
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En las zonas denominadas Centros de Población y Centros de Población en Transición, se pagarán los derechos de acuerdo a lo establecido en la Zona 1. Consolidación Urbana, independientemente de la zona en la que se encuentren.
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En la zona de conservación ecológica Reserva Cuxtal se pagarán los derechos de acuerdo a lo establecido en la Zona 4. Conservación de los Recursos Naturales.
 
 De las exenciones
 
@@ -2399,6 +2547,14 @@ a).- División (Por cada parte): 0.5
 
 4. Zona 4. Conservación de los Recursos Naturales 5
 
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En las zonas denominadas Centros de Población y Centros de Población en Transición, se pagarán los derechos de acuerdo a lo establecido en la Zona 1. Consolidación Urbana, independientemente de la zona en la que se encuentren.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+En la zona de conservación ecológica Reserva Cuxtal se pagarán los derechos de acuerdo a lo establecido en la Zona 4. Conservación de los Recursos Naturales.
+
 b).- Por cada copia hasta tamaño cuatro cartas: 2.0
 
 c).- Por cada copia mayor al tamaño cuatro cartas: 5.0
@@ -2465,7 +2621,9 @@ a).- Para la factibilidad de división, urbanización catastral, cambio de nomen
 
 b).- Para la elaboración de actas circunstanciadas por cada predio colindante que requiera de investigación documental 20.0
 
-VII.- Por los trabajos de topografía que se requieran para la elaboración de planos o la diligencia de verificación, se causarán derechos de acuerdo a la superficie, conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VII.- Por los trabajos de topografía que se requieran para la elaboración de planos o la diligencia de verificación, se causarán derechos de acuerdo a la superficie, metro lineal o punto posicionado geográficamente, conforme a lo siguiente:
 
 a).- De Terreno:
 
@@ -2495,21 +2653,29 @@ De hasta 50.00 m2 0.00
 
 De 50.01 m2 en adelante, por m2 excedente 0.014
 
-Tratándose de trabajos de topografía para desarrollos inmobiliarios, que hayan cumplido con todos los requisitos legales que señalan las normas de la materia, se pagará una cuota equivalente al 40 por ciento de los derechos establecidos en el anterior inciso a) de esta fracción.
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-En el caso de que el particular haya realizado los trabajos de topografía del desarrollo inmobiliario, y lo presente a la Dirección de Catastro Municipal para su revisión, en lugar de aplicar las cuotas establecidas en el anterior inciso a) de esta fracción se cobrarán los siguientes conceptos a efectos de verificar la información contenida en el estudio topográfico:
+c) Por la localización del predio y determinación de sus vértices, por cada metro lineal con base a la distancia existente desde el punto de referencia catastral más cercano al predio solicitado: .081
 
-a) Por la localización del predio y determinación de sus vértices, por cada metro lineal con base a la distancia existente desde el punto de referencia catastral más cercano al predio solicitado 0.081 por cada metro lineal
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+d) Por cada punto posicionado geográficamente con sistemas de posicionamiento global (G.P.S.): 16.0
 
-b) Por cada punto posicionado geográficamente con sistemas de posicionamiento global (G.P.S.) 16.0 U. M. A.
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-En el caso de localización de predios y determinación de sus vértices, se cobrará adicionalmente a la superficie del predio, lo siguiente:
+e) En el caso de localización de predios y determinación de sus vértices, se cobrará adicionalmente a la superficie del predio, lo siguiente:
 
-a).- Cuando se trate de la ubicación de un predio dentro de una manzana, se aplicará el cobro de acuerdo con la tarifa de terreno de esta fracción, a toda la superficie existente en la manzana.
+1. Cuando se trate de la ubicación de un predio dentro de una manzana, se aplicará el cobro de acuerdo con la tarifa de terreno del inciso a) de esta fracción, a toda la superficie existente en la manzana, o
 
-b).- Cuando se trate de la ubicación de una manzana, se aplicara el cobro por metro lineal con base en la distancia existente desde el punto de referencia catastral más cercano a la manzana solicitada por cada metro lineal 0.081
+2. Cuando se trate de la ubicación de una manzana, se aplicará el cobro por metro lineal con base en la distancia existente desde el punto de referencia catastral más cercano a la manzana solicitada por cada metro lineal. .081
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de trabajos de topografía para desarrollos inmobiliarios que se requieran para la diligencia de verificación de medidas físicas y/o para el proyecto de división del predio en que se constituirá el desarrollo inmobiliario, se podrá pagar una cuota equivalente al 40 por ciento de los derechos establecidos en el inciso a) siempre que haya acreditado el proyecto del desarrollo inmobiliario exhibiendo la Licencia o Factibilidad de uso de suelo de Desarrollo Inmobiliario expedida por la Dirección de Desarrollo Urbano del Municipio de Mérida.
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -2628,6 +2794,26 @@ VI.- Asignación de nomenclatura en planos de fraccionamientos y divisiones de p
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 VII.- Por revisión y validación en línea (vía internet) de planos en formato catastral, elaborados y presentados por un dibujante empadronado, se cobrará por cada plano. 0.32 U.M.A.
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Por la elaboración del Avalúo Catastral con visita de campo, se cobrará por cada avalúo dependiendo de la superficie de construcción del predio:
+
+a) Con construcción de hasta 200.00 metros cuadrados 11 U.M.A.
+
+b) Con construcción de 200.01 a 500.00 metros cuadrados 22 U.M.A.
+
+c) Con construcción de 500.01 a 1,500.00 metros cuadrados 62 U.M.A.
+
+d) Con construcción de 1,500.01 metros cuadrados en adelante 262 U.M.A.
+
+Los avalúos catastrales con visita a campo causarán adicionalmente los derechos de conformidad con lo establecido en el artículo 89, fracción VI inciso a).
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IX.- Por la elaboración de plano de armado documental se pagará por cada plano 20 U.M.A .
+
+Los armados documentales causarán adicionalmente· derechos, de conformidad con lo establecido en el artículo 89, fracciones V, inciso b), VI y VII y el artículo 95, fracciones I, inciso b) y IV.
 
 #### Sección Novena. Derechos por servicio de Alumbrado Público
 
@@ -3329,6 +3515,14 @@ II.- Por automóviles o camionetas $ 10.00 por hora
 
 III.- Por otros vehículos de mayor capacidad de carga. $15.00 por hora
 
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IV.- Por el extravío del ticket del estacionamiento se cobrará 2 U.M.A.
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V.- Por el extravío de la tarjeta de salida del estacionamiento se cobrará 1 U.M.A.
+
 Por la primera hora de uso de estacionamiento o fracción de esta se cobrarán las cuotas establecidas en el párrafo anterior. Posterior a la primera hora, se cobrará el equivalente al 50% de la cuota establecida, según sea el caso, por fracciones de tiempo de hasta media hora.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
@@ -3473,7 +3667,9 @@ De 0 a 20 38.50 pesos 0.00 pesos
 
 De 21 a 999999 0 pesos 1.91 pesos
 
-c) Para el caso de consumo para uso doméstico en fraccionamientos ubicados en comisarías,
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+c) Para el caso de consumo para uso doméstico en fraccionamientos o en inmuebles que se encuentren bajo el régimen de propiedad en condominio ubicados en comisarías,
 
 Límites Cuota Cuota por
 
@@ -3623,7 +3819,9 @@ De la clasificación
 
 #### Sección Única. Aprovechamientos
 
-Multas Federales No Fiscales
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+De la clasificación
 
 ###### ARTÍCULO 145.
 
@@ -3819,19 +4017,13 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ###### ARTÍCULO 163.
 
-De conformidad con lo establecido en la Ley de Coordinación Fiscal y en los convenios de Colaboración Administrativa en Materia Fiscal Federal, así como con aquellos de carácter estatal el Municipio de Mérida, tendrá derecho a percibir los ingresos derivados del cobro de multas administrativas, impuestas por autoridades federales no fiscales o en su caso las impuestas por autoridades estatales no fiscales. Estas multas tendrán el carácter de aprovechamientos y se actualizarán en los términos de las disposiciones respectivas.
-
-De la clasificación
-
-###### ARTÍCULO 164.
-
 Los aprovechamientos que percibirá el Ayuntamiento de Mérida, a través de la Dirección de Finanzas y Tesorería Municipal u oficinas autorizadas, serán:
 
 I.- Recargos.
 
-II.- Gastos de ejecución e indemnizaciones
+II.- Gastos de ejecución e indemnizaciones.
 
-III.- Multas por infracciones a las leyes y reglamentos municipales y otros ordenamientos aplicables.
+III.- Multas impuestas por infracciones previstas en las leyes y reglamentos municipales.
 
 IV.- Multas federales no fiscales.
 
@@ -3839,7 +4031,21 @@ V.- Multas por infracciones previstas en el Reglamento de la Ley de Transporte d
 
 VI.- Honorarios por notificación.
 
-VII.- Aprovechamientos Diversos.
+VII.- Multas impuestas a servidores públicos por la autoridad judicial en caso de incumplimiento a requerimientos.
+
+VIII.- Multas impuestas a servidores públicos o a personas físicas o morales, públicas o privadas, como medios de apremio para hacer cumplir las determinaciones de la autoridad investigadora, sustanciadora o resolutora, durante el Procedimiento de probable Responsabilidad Administrativa, o por otros ordenamientos aplicables.
+
+IX.- Las garantías a las que se refieren el artículo 9 de la presente Ley que se hagan efectivas a favor del Municipio por resoluciones de la autoridad competente;
+
+X.- Aprovechamientos Diversos.
+
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Multas Federales No Fiscales
+
+###### ARTÍCULO 164.
+
+De conformidad con lo establecido en la Ley de Coordinación Fiscal y en los Convenios de Colaboración Administrativa en Materia Fiscal Federal, así como con aquellos de carácter estatal el Municipio de Mérida, tendrá derecho a percibir los ingresos derivados del cobro de multas administrativas, impuestas por autoridades federales no fiscales o en su caso las impuestas por autoridades estatales no fiscales. Estas multas tendrán el carácter de aprovechamientos y se actualizarán en los términos de las disposiciones respectivas.
 
 De los honorarios por notificación
 
@@ -3989,29 +4195,45 @@ j).- Proporcionar o manifestar datos falsos a la autoridad fiscal, de conformida
 
 k) Omitir contribuciones retenidas.
 
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+l) Las personas que instalen en forma clandestina conexiones de agua potable.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+m) Conectar directamente a la red de agua potable del Municipio de Mérida equipos de bombeo para succión.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+n) Interconectar a la red de agua potable del Municipio de Mérida líneas de distribución no autorizadas.
+
 ###### ARTÍCULO 177.
 
 A quien cometa las infracciones a que se refiere el artículo 176, se hará acreedor de las siguientes sanciones:
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-I.- Multa de 10 a 15 veces la unidad de medida y actualización, a las comprendidas en los incisos a), c), d), e) y h).
+I.- Multa de 5 a 10 veces la unidad de medida y actualización, a las comprendidas en el inciso l).
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-II.- Multa de 25 a 30 veces la unidad de medida y actualización, a la establecida en el inciso f).
+II.- Multa de 10 a 15 veces la unidad de medida y actualización, a las comprendidas en los incisos a), c), d), e) y h).
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-III.- Multa de 50 a 60 veces la unidad de medida y actualización, a la establecida en el inciso b).
+III.- Multa de 25 a 30 veces la unidad de medida y actualización, a la establecida en el inciso f) y m).
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-IV.- Multa de 150 a 170 veces la unidad de medida y actualización, a la establecida en el inciso g).
+IV.- Multa de 50 a 60 veces la unidad de medida y actualización, a la establecida en el inciso b) y n).
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
 
-V.- Multa de 50 a 60 veces la unidad de medida y actualización, a la establecida en el inciso i), j) y k).
+V.- Multa de 150 a 170 veces la unidad de medida y actualización, a la establecida en el inciso g).
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VI.- Multa de 50 a 60 veces la unidad de medida y actualización, a la establecida en el inciso i), j) y k).
 
 Para el caso de las infracciones previstas en los incisos c), d) y h) del artículo 176 de esta Ley, sin perjuicio de la sanción que corresponda, el Director de Finanzas y Tesorero Municipal, o el Subdirector de Ingresos, quedarán facultados para ordenar la clausura temporal del comercio, negocio o establecimiento que corresponda, por el tiempo que subsista la infracción
 
@@ -4896,3 +5118,119 @@ Por los servicios que presta la Dirección Municipal de Catastro se causarán de
 III.- Por la expedición de oficio de:
 
 a).- División (Por cada parte) 0.5
+
+D.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 564/2017 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA, YUCATÁN]
+
+Artículo Primero.- Este Decreto entrará en vigor el día uno de enero del año dos mil dieciocho, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+Artículo Tercero.- En caso de que durante el ejercicio fiscal 2018 fueran modificadas mediante Sesión de Cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta, del Capítulo II, del Título Segundo, se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+Artículo Cuarto.- Para el ejercicio fiscal 2018, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48 las bonificaciones se otorgarán de conformidad con la siguiente tabla:
+
+Mes en el que se paga el Factor de bonificación
+
+equivalente a una
+
+anualidad en una sola
+
+exhibición
+
+Enero 0.20
+
+Febrero 0.10
+
+Marzo 0.08
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año 2018.
+
+Artículo Quinto.- Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2018, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2018, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2018, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Asimismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original;
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno; y
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería Municipal la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería Municipal dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2018.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2018, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2018 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+Artículo Sexto.- Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982; siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2018, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre de 2017.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Nacional Electoral (INE).
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+Artículo Séptimo.- Si durante el ejercicio fiscal 2018 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos penúltimo y último del artículo 45 de esta Ley.
+
+Artículo Octavo.- Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+Artículo Noveno.- Las constancias que haya expedido la Dirección de Finanzas y Tesorería Municipal, para el registro de peritos valuadores, seguirán vigentes respecto de los avalúos que se emitan para efectos del Impuesto Sobre Adquisición de Inmuebles.
+
+Artículo Décimo.- En el ejercicio fiscal 2018 el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 4% del que le haya correspondido durante el ejercicio fiscal 2017 para los predios cuyo valor catastral sea menor o igual a $500,000.00 y para los predios cuyo valor catastral sea superior a $500,000.00 el impuesto predial no podrá exceder de un 10% del que le haya correspondido durante el ejercicio fiscal 2017. Este comparativo se efectuará solamente sobre el impuesto principal, sin tomar en consideración, bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+Se exceptúan de lo dispuesto en el párrafo inmediato anterior:
+
+a) Los predios, que como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en más de un 50% el valor catastral que tenían antes de dichas modificaciones, de conformidad con las disposiciones legales aplicables.
+
+b) Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior.
+
+Artículo Décimo Primero.- Para los derechos por los servicios que presta la Dirección de Desarrollo Urbano durante el ejercicio fiscal 2018, todos los desarrollos que cuenten con autorización de constitución de desarrollo inmobiliario o su similar (autorización por Gobierno del Estado) con fecha anterior al 18 de octubre de 2017 en la cual entró en vigor el Programa Municipal de Desarrollo Urbano de Mérida, que se encuentren en la Zona 3. Regeneración y Desarrollo Sustentable y en la Zona 4. Conservación de los Recursos Naturales, pagarán en todos los trámites subsecuentes a dicha autorización, los derechos establecidos para la Zona 2. Crecimiento Urbano.
