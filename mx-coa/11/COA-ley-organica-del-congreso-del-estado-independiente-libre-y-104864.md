@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2016-10-04"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -1707,7 +1707,59 @@ III. Promover la difusión de las publicaciones editoriales;
 
 IV. Publicar en la página del Congreso la relación de los documentos legislativos, políticos e históricos existentes en archivo del Congreso del Estado; así como las iniciativas de reforma a la legislación del Estado con sus respectivas exposiciones de motivos. Esto independientemente de que pueda difundirse esta información por otros medios.
 
-V. Las demás que se acuerden por el Pleno, la Diputación Permanente, o la Junta de Gobierno, en virtud de ser necesarias para el cumplimiento de sus funciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V. Coordinar los trabajos de la Dirección de Comunicación Social en lo correspondiente a la creación y administración de la Red de Enlaces del Congreso con organismos de la Sociedad Civil y difundir por medio de esta Red el contenido de la Gaceta Parlamentaria e información que considere necesaria informar a los integrantes de la Red.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VI. Las demás que se acuerden por el Pleno, la Diputación Permanente, o la Junta de Gobierno, en virtud de ser necesarias para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 135 Bis.
+
+El Comité Editorial tendrá la facultad de autorizar el uso del Salón de Sesiones y las instalaciones del Congreso del Estado de Coahuila, en lo correspondiente a la realización de eventos culturales o educativos, a:
+
+a. Universidades.
+
+b. Centros académicos y culturales.
+
+c. Instituciones electorales para fines estrictamente educativos.
+
+d. Asociaciones y Organizaciones de la Sociedad Civil.
+
+Observando las siguientes condiciones de uso:
+
+I.- El Salón de Sesiones y cualquier instalación no podrá ser prestado para realizar actividades con fines lucrativos y/o de proselitismo, así como para aquellas actividades que no se apeguen a los fines y principios que persigue el Congreso del Estado de Coahuila.
+
+II.- La solicitud para el uso del Salón de Sesiones o cualquier otra instalación se deberá hacer por escrito, cuando menos con un mes de anticipación a la fecha del evento que se trate; dicho escrito deberá señalar con claridad el objetivo de la actividad, el día y hora en que se pretende realizar, así como el número aproximada de quienes participaran en la misma.
+
+En aquellos casos en que se justifique la celebración del evento, la solicitud se podrá realizar en un plazo menor al señalado en el párrafo anterior.
+
+La autorización del Salón de Sesiones o cualquier otro espacio del congreso, quedara sujeta a la disponibilidad de dichos espacios.
+
+III.- La solicitud deberá ser presentada ante el Congreso del Estado de Coahuila.
+
+IV.- Una vez aprobada o rechazada la solicitud, se notificará por escrito, exponiendo los motivos y razonamientos por los cuales se aprobó o en su defecto rechazó dicha solicitud.
+
+V.- Las ideas expresadas durante el desarrollo de los eventos, conferencias y/o reuniones, serán responsabilidad exclusiva de los participantes y expositores.
+
+VI.- El material didáctico y de información que se utilice y distribuya durante el evento es responsabilidad de los organizadores.
+
+VII.- Una vez aprobada la solicitud de préstamo del salón de sesiones o cualquier otra instalación, el organizador deberá sujetarse a los siguientes lineamientos:
+
+a) Antes y posterior a la utilización del Salón de Sesiones y de cualquier otra instalación, se hará una revisión física del inmueble, por el personal que designe el Comité Editorial del Congreso, verificando que dicho inmueble quede en las mismas condiciones en que fue otorgado; siendo responsabilidad del organizador reparar cualquier daño sufrido con motivo de la realización del evento en dicho inmueble.
+
+b) El número de participantes en el evento estará limitado a la capacidad del salón de sesiones o al espacio de la instalación solicitada.
+
+c) Es responsabilidad de los organizadores mantener o llamar al orden a los participantes en el evento.
+
+d) En el evento se tratarán única y exclusivamente los asuntos aprobados por el Comité Editorial del Congreso del Estado, absteniéndose de realizar los participantes, conferencistas y/o expositores denostaciones y alusiones de índole personal, a organizaciones, agrupaciones, instituciones y partidos políticos.
+
+e) Las actividades o eventos podrán suspenderse, por alteración del orden, y por no sujetarse a los presentes lineamientos.
+
+En todo evento, conferencia y/o reunión, se designará el personal que se estime necesario, con la finalidad de vigilar el estricto cumplimiento de los lineamientos para el préstamo de salón de sesiones y de las instalaciones solicitadas.
 
 ###### ARTÍCULO 136.
 
@@ -2679,6 +2731,10 @@ VI. La Información de Prensa; y
 
 VII. La información general de la Legislatura, de los Diputados, de los Grupos Parlamentarios, de las Comisiones, de la Mesa Directiva y del Congreso del Estado.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VIII. Un enlace que lleve al usuario a llenar y enviar a la Dirección de Comunicación Social, una cédula de registro, a efectos de acreditarse como integrante de la Red de Enlaces del Congreso del Estado con la Sociedad Civil.
+
 No podrá contener dicha página propaganda, publicidad o información comercial ni de proselitismo político.
 
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS ESPECIALES
@@ -2907,7 +2963,13 @@ VI. Divulgar entre las y los diputados el compendio de noticias de los diversos 
 
 VII. Ordenar las publicaciones que indique quien presida la Junta de Gobierno, por disposición propia o de la Junta de Gobierno, así como a solicitud de la Mesa Directiva o de la Diputación Permanente; y
 
-VIII. Las demás que se deriven de la presente ley o de los acuerdos de la Junta de Gobierno.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VIII. Diseñar la cedula de registro establecida en la fracción VIII del artículo 255 de esta Ley y crear, administrar y salvaguardar la base de datos que contenga la información de la Red de Enlaces del Congreso con organismos de la Sociedad Civil observando en todo momento los ordenamientos legales de la materia de "Ley de protección de datos personales en posesión de sujetos obligados del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IX. Las demás que se deriven de la presente ley o de los acuerdos de la Junta de Gobierno.
 
 ###### ARTÍCULO 280.
 
@@ -3138,3 +3200,19 @@ P.O. 4 DE OCTUBRE DE 2016.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1122.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor a partir de la expedición del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
