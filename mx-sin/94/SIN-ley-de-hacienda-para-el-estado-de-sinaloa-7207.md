@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2017-12-20"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -225,7 +225,9 @@ ART. 20.- Los contribuyentes de este impuesto podrán celebrar convenios respect
 
 ART. 21.- Son obligaciones de los contribuyentes de este impuesto además de las señaladas en el Código Fiscal del Estado de Sinaloa las siguientes:
 
-I.- Solicitar la inscripción ante la Secretaría de Hacienda Pública y Tesorería.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I.- Solicitar la inscripción en el Padrón de Contribuyentes del Estado ante el Servicio de Administración Tributaria del Estado de Sinaloa;
 
 II.- Presentar las declaraciones correspondientes aun cuando no se hubieren efectuado erogaciones gravadas.
 
@@ -279,11 +281,13 @@ d) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 e).- Partidos, Asociaciones Políticas y Asociaciones Religiosas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 23.- Las autoridades fiscales podrán estimar las erogaciones de los sujetos de este impuesto, en base a lo establecido en el Código Fiscal del Estado de Sinaloa.
+ART. 23.- Las autoridades fiscales podrán determinar presuntivamente las erogaciones de los sujetos de este impuesto, con base a lo establecido en el Código Fiscal del Estado de Sinaloa.
 
-ART. 24.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ART. 24.- Para efectos del presente impuesto, el Estado podrá celebrar convenios de coordinación para el intercambio de información con el Instituto Mexicano del Seguro Social de conformidad a lo dispuesto en el artículo 22 de la Ley del Seguro Social.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -599,9 +603,9 @@ ART. 34 BIS-20. El impuesto se calculará aplicando la tasa del 5% a la diferenc
 
 El monto del avalúo es la valoración del bien mueble dado en prenda, que queda consignado en la boleta o billete de empeño, contrato o cualquier otra denominación que se otorgue al documento en el que se formalice el préstamo otorgado, los intereses pactados y cualquier otro gasto por parte, del prestamista, así como el plazo para la recuperación del bien dado en prenda.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 34 BIS-21. El pago de este impuesto se efectuará mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, a más tardar el día 17 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
+ART. 34 BIS-21.- El pago de este impuesto se efectuará mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas del Servicio de Administración Tributaria del Estado de Sinaloa, a más tardar el día 17 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -619,55 +623,71 @@ II. Mantener en los establecimientos o sucursales en los cuales se realicen las 
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO I. LEGALIZACION DE FIRMAS, CERTIFICACIONES Y EXPEDICION DE COPIAS DE DOCUMENTOS
+### CAPITULO I. LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICACIONES, DE COPIAS DE DOCUMENTOS Y DE CONSTANCIAS
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 35.- Los derechos por concepto de legalización de firmas, certificaciones y expedición de copias de documentos por los funcionarios competentes del Estado se causarán conforme a la siguiente:
+ART. 35.- Los derechos por concepto de legalización de firmas, expedición de certificaciones, de copias de documentos y de constancias por los servidores públicos competentes del Estado se causarán conforme a la siguiente:
 
-T A R I F A:
+T A R I F A
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-VECES EL VALOR DIARIO DE
+CONCEPTO VECES EL VALOR DIARIO DE
 
 LA UNIDAD DE MEDIDA Y
 
 ACTUALIZACIÓN
 
-CONCEPTO
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 I.- Legalización de firmas: 1.00
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 II.- Certificaciones de firmas en actas
 
 constitutivas de Sociedades Cooperativas 0.80
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 III.- Certificados de "No adeudo" por
 
 concepto de créditos fiscales 0.25
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 IV.- Certificados de "No adeudo" por
 
 concepto de multas 0.25
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 V.- Certificados del valor fiscal
 
 de predios 0.25
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 VI.- Certificados de fechas de pagos
 
 de créditos fiscales 0.25
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 VII.- Copias certificadas de documentos
 
 por hoja 0.25
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 VIII.- Copias simples de los documentos a
 
 que se refiere la fracción VI anterior
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 IX.- Duplicados autógrafos al carbón de
 
@@ -675,11 +695,15 @@ los mismos documentos a que se
 
 refiere la fracción VI anterior 0.05
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 X.- Copias simples de los documentos a
 
 que se refiere la fracción VII
 
 anterior, por hoja 0.05
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 XI.- Duplicados autógrafos al carbón de
 
@@ -687,17 +711,31 @@ los mismos documentos a que se refiere la
 
 fracción VII anterior, por hoja 0.25
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 XII.- Testimonios notariales por hoja 3.00
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 XIII.- Autorización libros Protocolo
 
 Notariales 5.00
 
-XIV. Cualquiera otra certificación que se
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-expida diferente de las ya expresadas 1.00
+XIV.- Certificado de Validación de Pedimento
 
-Para la legalización de firmas y expedición de certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos fiscales respectivos.
+de Importación Definitiva. 1.0
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XV.- Cualquiera otra constancia
+
+que se expida. 1.0
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Para la legalización de firmas, expedición de certificados, de copias de documentos y de constancias, comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos fiscales respectivos.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1177,6 +1215,10 @@ que se realice, respecto de la que guarda
 
 el Instituto 0.40
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+No son sujetos del pago señalado en la fracción VI inciso b), los registros derivados de programas de instituciones federales y estatales, de regularización de la tenencia de la tierra, en su primer registro catastral.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 38.- Los casos no previstos en esta tarifa serán resueltos por el Instituto Catastral, asimilándolos con alguno de los señalados en ella.
@@ -1331,17 +1373,17 @@ VI.- La certificación de la falta o ilegibilidad de actas o libros del Registro
 
 ART. 41.- La recaudación de los derechos a que se refiere este Capítulo se hará por conducto de las Oficinas del Registro Civil contra la entrega de los recibos oficiales que les proporcione la Oficina Recaudadora de su jurisdicción, y los fondos recaudados se concentrarán cada quince días en la correspondiente Oficina Recaudadora.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 42.- Las formas oficiales numeradas valoradas utilizables para copias certificadas de actas del Registro Civil serán proporcionadas a las oficinas del Registro Civil por la Secretaría de Hacienda Pública y Tesorería del Estado, la que tendrá a su cargo el resguardo, manejo y control de las mismas.
+ART. 42.- Las formas oficiales numeradas valoradas utilizables para copias certificadas de actas del Registro Civil serán proporcionadas a las oficinas del Registro Civil por el Servicio de Administración Tributaria del Estado de Sinaloa, quien tendrá a su cargo el resguardo, manejo y control de las mismas.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO IV. PUBLICACIONES EN EL PERIODICO OFICIAL
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 43.- Causan derechos fiscales las publicaciones de interés particular que se hagan en el Periódico Oficial del Gobierno del Estado, las suscripciones, la venta de números sueltos y los edictos de remate de la Secretaría de Hacienda Pública y Tesorería, de la Subsecretaría de Ingresos, de la Dirección de Ingresos y Control Fiscal y de las Oficinas Recaudadoras. Estos últimos se agregarán a los gastos de procedimientos de ejecución cuando las Oficinas Recaudadoras ejerzan la acción económica-coactiva.
+ART. 43.- Causan derechos fiscales las publicaciones de interés particular que se hagan en el Periódico Oficial "El Estado de Sinaloa", las suscripciones, la venta de números sueltos y los edictos de remate de la Secretaría de Administración y Finanzas, de la Subsecretaría de Ingresos y de las Oficinas Recaudadoras del Servicio de Administración Tributaria del Estado de Sinaloa. Estos últimos se agregarán a los gastos de procedimientos de ejecución cuando las Oficinas Recaudadoras ejerzan la acción económica-coactiva.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1447,9 +1489,9 @@ Toda publicación o suscripción deberá ser pagada previamente en la Oficina Re
 
 ART. 46.- Los derechos fiscales de legalización de títulos profesionales se causarán, por cada título que expidan las autoridades educativas competentes del Estado y que el Ejecutivo legalice con su firma, con una cuota equivalente a 2.50 veces el valor diario de la Unidad de Medida y Actualización en la fecha de causación del derecho correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-El contribuyente podrá hacer el pago de la cuota a que se refiere el párrafo anterior, en la Oficina Recaudadora de Rentas del Estado correspondiente, debiendo presentar en la Secretaría General de Gobierno, junto con el título cuya legalización se pretenda, el recibo oficial de pago correspondiente que le será devuelto con el título.
+El contribuyente podrá hacer el pago de la cuota a que se refiere el párrafo anterior, en la Oficina Recaudadora del Servicio de Administración Tributaria del Estado de Sinaloa que corresponda, debiendo presentar en la Secretaría General de Gobierno, junto con el título cuya legalización se pretenda, el recibo oficial de pago correspondiente que le será devuelto con el título.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1810,6 +1852,10 @@ inmuebles, se causarán: 10.00
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 El cobro de los derechos a que se refiere esta fracción, no deberá exceder de 750 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+No son sujetos del pago las solicitudes de registro efectuadas por instituciones federales y estatales, derivadas de programas de regularización de tenencia de la tierra.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -2439,21 +2485,23 @@ ART. 58.- Los Oficiales Registradores, al solicitárseles un servicio de su comp
 
 ART. 59.- De los ingresos percibidos en el cobro de los derechos a que se refiere este Capítulo, el Oficial Registrador participará en la proporción que al efecto señale la Secretaría de Hacienda Pública y Tesorería del Estado. Los oficiales registradores asegurarán un servicio rápido y eficaz y cobrarán quincenalmente la participación que les corresponda, la que les será pagada por la Oficina Recaudadora correspondiente, previa liquidación y haciéndoles los descuentos respectivos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO VIII. DERECHOS POR EL OTORGAMIENTO DE LICENCIAS PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS Y LOCALES PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
+### CAPITULO VIII
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 1999)</small>
+DERECHOS POR EL OTORGAMIENTO DE LICENCIAS Y PERMISOS PROVISIONALES PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS Y LOCALES PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS
 
-ART. 60.- Es objeto de este derecho el otorgamiento de licencias para el funcionamiento de establecimientos y locales en los que se vendan y/o consuman bebidas alcohólicas, siempre que dicha venta se efectúe al público en general.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 1999)</small>
+ART. 60.- Es objeto de este derecho el otorgamiento de licencias o permisos provisionales para el funcionamiento de establecimientos y locales en los que se vendan y/o consuman bebidas alcohólicas, siempre que dicha venta se efectúe al público en general.
 
-ART. 61.- Son sujetos de este derecho las personas físicas y morales a quienes se les otorguen licencias, para el funcionamiento de establecimientos y locales en los términos del artículo anterior.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 1999)</small>
+ART. 61.- Son sujetos de este derecho las personas físicas y morales a quienes se les otorguen licencias o permisos provisionales para el funcionamiento de establecimientos y locales en los términos del artículo anterior.
 
-ART. 62.- La base de este derecho es el tipo de licencia que se otorgue en los términos de lo dispuesto por la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Sinaloa y su Reglamento, conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ART. 62.- La base de este derecho es el tipo de licencia o permiso provisional que se otorgue en los términos de lo dispuesto por la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa y su Reglamento, conforme a lo siguiente:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
@@ -2535,7 +2583,51 @@ con venta al público
 
 en general 1911 1911 1911
 
-II.- (DEROGADA, P.O. 17 DE MARZO DE 1999)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II.- Por el otorgamiento de permisos provisionales de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, y, en su caso, sus prórrogas, deberá cubrirse el equivalente al número de veces el valor diario de la Unidad de Medida y Actualización de acuerdo a la siguiente:
+
+TARIFA
+
+GIROS CATEGORÍA
+
+A B C
+
+Supermercado 396 318 240
+
+Almacén 318 240 240
+
+Restaurante c/vta. 318 240 240
+
+de cerveza
+
+Restaurante c/vta. 318 240 240
+
+de cerveza y vinos
+
+de mesa
+
+Restaurante c/vta. 318 240 240
+
+de cerveza, vinos
+
+y licores
+
+Restaurante 318 240 240
+
+con bar anexo
+
+Salón de Boliche 240 240 240
+
+Depósito 318 318 318
+
+de Cerveza
+
+Bodega sin venta
+
+al público 318 318 318
+
+Club Social 318 318 318
 
 III.- (DEROGADA, P.O. 17 DE MARZO DE 1999)
 
@@ -2669,11 +2761,15 @@ ART. 68. Los ingresos que se recauden por concepto de las cuotas y los derechos 
 
 ### CAPITULO X. INSPECCION Y VIGILANCIA DE OBRA PUBLICA DIRECTA
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 69.- Por el servicio de fiscalización y control que las leyes de la materia encomiendan a la Contraloría General del Poder Ejecutivo y demás autoridades competentes del Estado, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 3% sobre el importe de cada una de las estimaciones de trabajo.
+ART. 69.- Por el servicio de verificación, inspección, fiscalización y control que las leyes de la materia encomienden a la Secretaría de Transparencia y Rendición de Cuentas, y al Congreso del Estado, los contratistas con quienes se celebren contratos de obra pública del Estado y de servicios relacionados con la misma, o con sus organismos públicos descentralizados, pagarán un derecho equivalente al 3% sobre el importe de cada una de las estimaciones de trabajo.
 
-La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago de las estimaciones de obra, retendrá el importe del derecho a que se refiere el párrafo anterior.
+La oficina pagadora de la dependencia de la administración pública estatal y sus organismos descentralizados, al hacer el pago de las estimaciones de obra, retendrá el importe del derecho a que se refiere el párrafo anterior y lo deberá enterar a más tardar a los veinte días del mes siguiente al que se hayan efectuado las retenciones correspondientes.
+
+Del monto total de las retenciones efectuadas se destinará el 50% a la Secretaría de Transparencia y Rendición de Cuentas, y el 50% restante al Congreso del Estado, para el financiamiento de la prestación de los servicios a que refiere este artículo, en los términos de los convenios de colaboración administrativa que celebren para tal efecto.
+
+En el caso del Congreso del Estado, la Junta de Coordinación Política determinará mediante acuerdo aprobado por el Pleno, el porcentaje que corresponderá a cada órgano técnico fiscalizador a su cargo, como su Órgano Interno de Control, la Unidad Técnica de Evaluación de la Comisión Permanente de Fiscalización y la Auditoría Superior del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3029,13 +3125,21 @@ DERECHOS POR LA PRESTACIÓN DE SERVICIOS Y USO O GOCE DE BIENES DEL DOMINIO PÚB
 
 ART. 78 BIS-10. Los Organismos Descentralizados como personas jurídicas, cuyo objetivo primordial es auxiliar a la Administración Pública Centralizada en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Gobierno del Estado, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, conforme a los rubros, conceptos, cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, los que deberán ser publicados en el Periódico Oficial "El Estado de Sinaloa", para tener vigencia y aplicabilidad.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+### CAPITULO XVI. POR LA PRESTACION DE SERVICIOS A TERCEROS
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ART. 78 BIS-11.- El servicio que el Estado preste a nombre de terceros, así como la administración y recaudación de contribuciones que realice a nombre de estos, causarán un derecho en los términos previstos en los Acuerdos y Convenios que para tal efecto se celebren.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 79.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Hacienda Pública y Tesorería.
+ART. 79.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Administración y Finanzas.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -3049,9 +3153,9 @@ En estos casos se cobrará una cuota mensual de dos veces el valor diario de la 
 
 ART. 81.- La Oficina Recaudadora expedirá el recibo oficial de pago correspondiente y rendirá su cuenta al Departamento de control del Ejercicio del Presupuesto, justificando y comprobando las operaciones con los documentos y órdenes concernientes a fin de que quede precisado el origen, motivo legal y monto de cada producto.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 82.- Los productos que se obtengan de operaciones hechas con bienes producidos o con servicios prestados por establecimientos que dependan del Gobierno del Estado y que sean pagados en los propios establecimientos, se concentrarán a la Secretaría de Hacienda Pública y Tesorería con la documentación a que se refiere el artículo anterior, para que éste a su vez, rinda la cuenta correspondiente al Departamento de Control del Ejercicio del Presupuesto.
+ART. 82.- Los productos que se obtengan de operaciones hechas con bienes producidos o con servicios prestados por establecimientos que dependan del Gobierno del Estado y que sean pagados en los propios establecimientos, se concentrarán a la Secretaría de Administración y Finanzas con la documentación a que se refiere el artículo anterior, para que éste a su vez, rinda la cuenta correspondiente al departamento o el área encargada del control del ejercicio del presupuesto.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3064,6 +3168,10 @@ ART. 84.- Ingresarán también por este concepto las recuperaciones de créditos
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 85.- Igualmente ingresarán como productos los ingresos obtenidos de otras unidades de producción pertenecientes al Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+## TITULO TERCERO. DE LOS PRODUCTOS
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3121,21 +3229,21 @@ ART. 97.- El Juez de Primera Instancia que conozca del juicio, inmediatamente qu
 
 ART. 98.- En caso de que después de radicado el juicio intestamentario se presente alguna persona reclamando la herencia y le sean reconocidos sus derechos hereditarios, será a cargo de ella el importe de los honorarios y gastos del interventor y demás gastos comprobados que haya originado la tramitación anterior a ese reconocimiento.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 99.- Hecha la declaración de herederos en favor de la beneficencia pública, el Juez del conocimiento lo comunicará por Oficio a la Oficina Recaudadora respectiva, para que esta de cuenta a la Secretaría de Hacienda Pública y Tesorería del Estado, sin perjuicio de que se continúe el procedimiento hasta la aprobación de la cuenta de división y partición de los bienes.
+ART. 99.- Hecha la declaración de herederos en favor de la beneficencia pública, el Juez del conocimiento lo comunicará por Oficio a la Oficina Recaudadora respectiva, para que ésta de cuenta a la Secretaría de Administración y Finanzas del Estado, sin perjuicio de que se continúe el procedimiento hasta la aprobación de la cuenta de división y partición de los bienes.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 100.- La Secretaría de Hacienda Pública y Tesorería del Estado queda facultada para acordar que se vendan en subasta pública o fuera de almoneda, los bienes que por este concepto se adjudiquen a la beneficencia pública del Estado, o bien acordar que se destinen a alguno de los fines de la beneficencia.
+ART. 100.- La Secretaría de Administración y Finanzas del Estado queda facultada para acordar que se vendan en subasta pública o fuera de almoneda, los bienes que por este concepto se adjudiquen a la beneficencia pública del Estado, o bien acordar que se destinen a alguno de los fines de la beneficencia.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 101.- Mientras tanto que los diversos servicios de la beneficencia sean sostenidos con cargo al Presupuesto de Egresos del Estado, ingresarán al erario estatal los productos que se obtengan de la venta o explotación de los bienes de las herencias vacantes, pudiendo también destinarse esos bienes, a juicio del ejecutivo, a los servicios públicos del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 102.- Los denunciantes de herencias vacantes siempre que hayan satisfecho los requisitos que establezca la Secretaría de Hacienda Pública y Tesorería, tendrán derecho a una participación del veinticinco por ciento que se fijará tomando como base la tercera parte del valor catastral de los bienes inmuebles o del valor comercial de los bienes muebles.
+ART. 102.- Los denunciantes de herencias vacantes siempre que hayan satisfecho los requisitos que establezca la Secretaría de Administración y Finanzas, tendrán derecho a una participación del veinticinco por ciento que se fijará tomando como base la tercera parte del valor catastral de los bienes inmuebles o del valor comercial de los bienes muebles.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3175,7 +3283,7 @@ ART. 109.- La devolución de los depósitos por cauciones, se harán en los caso
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-## TITULO TERCERO. DE LOS PRODUCTOS
+## TITULO CUARTO. DE LOS APROVECHAMIENTOS
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3187,7 +3295,7 @@ ART. 110.- La percepción de las participaciones se regirá por las Leyes y conv
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-## TITULO CUARTO. DE LOS APROVECHAMIENTOS
+## TITULO QUINTO. DE LAS PARTICIPACIONES
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3225,7 +3333,7 @@ ART. 113.- El gravamen a que se refiere este capítulo se pagará al cubrirse el
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-## TITULO QUINTO. DE LAS PARTICIPACIONES
+## TITULO SEXTO. TASAS ADICIONALES
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3247,57 +3355,9 @@ ART. 115.- Las participaciones que correspondan a los Municipios del Estado en e
 
 ART. 116.- Cuando un impuesto del Estado sea condonado totalmente, y en forma general respecto de los habitantes de una zona que haya sufrido alguna calamidad pública y la condonación sea parcial, el gravamen adicional municipal se causará únicamente sobre la porción no condonada. En ningún otro caso la condonación de un impuesto del Estado implicará la del gravamen adicional municipal.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ART. 117.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras de Rentas del Estado y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Hacienda Pública y Tesorería.
-
-## TITULO SEXTO. TASAS ADICIONALES
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO XX. Impuesto a la Industria Algodonera
-
-ART. 259.- Es objeto de este impuesto la producción industrial de algodón en pluma.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 260.- Son causantes del impuesto las personas físicas o jurídicas que realicen él o los procesos industriales mediante los cuales se produce el algodón en pluma, cuando el producto elaborado sea propiedad de quienes efectúen dicho proceso o procesos de elaboración.
-
-ART. 261.- El impuesto se causará con una cuota de $82.00 por tonelada de algodón en pluma producido.
-
-El peso del algodón en pluma producido será el que resulte mayor entre el determinado por básculas que use el causante para cuantificar su producción o bien el que sirva de base en sus operaciones de venta o maquila.
-
-Para efectos fiscales no se admitirá que el rendimiento en el algodón en pluma sea inferior al 34% del peso total del algodón en hueso o rama recibido para su despepite, ni cualquier otra deducción.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 262.- El impuesto se determinará por períodos que abarquen del día primero al día quince y del día dieciséis al día último de cada mes, debiendo enterarse en la Oficina Recaudadora correspondiente a la jurisdicción donde se encuentre ubicada la planta o plantas industriales del causante, dentro de los cinco días hábiles siguientes a la terminación de cada período y mediante las formas de declaración que para el efecto autorice la Secretaría de Hacienda Pública y Tesorería.
-
-Cuando un mismo causante opere más de una planta industrial, las declaraciones y pago correspondiente a cada período se hará en forma separada por cada una de las plantas.
-
-ART. 263.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados:
-
-I.- A presentar aviso de iniciación de producción dentro de los cinco días hábiles siguientes a la iniciación de cada ciclo productivo;
-
-II.- A presentar aviso de terminación de producción dentro de los cinco días hábiles siguientes a la terminación de cada ciclo productivo;
-
-III.- A presentar una declaración sobre los resultados de producción correspondientes a cada ciclo productivo. Esta declaración deberá presentarse dentro de los quince días hábiles siguientes a la fecha de terminación de cada ciclo productivo;
-
-IV.- A llevar registros de entradas, salidas, existencias de algodón en hueso o en rama, así como de producción, entradas, salidas, ventas y existencias de algodón en pluma;
-
-V.- A proporcionar a las autoridades fiscales todos los datos, libros y documentos que les soliciten;
-
-VI.- A recibir las visitas de inspección e investigación, así como a proporcionar a los inspectores y auditores, los datos informes y documentos que les soliciten.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice para el efecto la Secretaría de Hacienda Pública y Tesorería.
-
-ART. 264.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la primera venta de semilla industrial, borra y demás subproductos que se obtengan al industrializar el algodón en rama, siempre y cuando se haya cubierto el impuesto contenido en cada Capítulo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 264 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+ART. 117.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras del Servicio de Administración Tributaria del Estado de Sinaloa y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Administración y Finanzas.
 
 ### CAPITULO XXI. Impuesto a la Industria Arrocera
 
@@ -4054,3 +4114,129 @@ CUARTO. A más tardar el 31 de diciembre de 2017, el titular del Poder Ejecutivo
 La aplicación del estímulo previsto en el presente artículo transitorio será válida durante todo el ejercicio fiscal del año 2018, independientemente del cobro de las sanciones respectivas derivadas del tiempo en el que se realice el trámite correspondiente, de conformidad con lo previsto en el artículo 49 de la Ley de Hacienda del Estado de Sinaloa.
 
 QUINTO. Durante el Ejercicio Fiscal del año 2018, del monto recaudado por concepto de revalidación anual de tarjeta de circulación y calcomanía de refrendo, serán destinados $160,000,000.00 (Ciento sesenta millones de pesos 00/100 M.N.) a la partida presupuestal correspondiente al seguro popular y el monto restante a la correspondiente a las pensiones del sector educativo.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 283 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA DEL ESTADO Y A LA LEY DE HACIENDA MUNICIPAL, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. La vigencia del presente Decreto iniciará al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa" al 31 de diciembre del año 2018.
+
+SEGUNDO. Lo previsto en el artículo primero del presente Decreto únicamente será aplicable al primer registro catastral, asimismo, el artículo segundo de dicho Decreto, será aplicable a un registro en lo individual derivado de programas de regularización de tenencia de la tierra.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 290 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY SOBRE OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DESTINADOS A LA PRODUCCIÓN, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS, Y DE LA LEY DE HACIENDA, AMBAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. El Ejecutivo del Estado en un plazo de noventa días siguientes a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones necesarias al Reglamento de la presente Ley.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 337 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA EL ARTÍCULO 69 DE LA LEY DE HACIENDA Y ADICIONA UN CAPÍTULO XVI AL TÍTULO TERCERO, CON EL ARTÍCULO 90-H A LA LEY DE HACIENDA MUNICIPAL, AMBAS DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO. 334 POR EL QUE SE EXPIDEN LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA Y LA LEY ORGÁNICA DE LA PROCURADURÍA FISCAL, AMBAS DEL ESTADO DE SINALOA; Y SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, CÓDIGO FISCAL MUNICIPAL, LEY DE HACIENDA, LEY DE COORDINACIÓN FISCAL, LEY DE JUSTICIA ADMINISTRATIVA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, LEY DE TRÁNSITO Y TRANSPORTES, LEY DE PLANEACIÓN, LEY DE AGUA POTABLE Y ALCANTARILLADO, Y LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS, TODOS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de Abril del año 2018, previa su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador Constitucional del Estado de Sinaloa, deberá expedir el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa dentro de los cinco días posteriores a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Gobernador Constitucional del Estado de Sinaloa designará al Director General del Servicio de Administración Tributaria del Estado de Sinaloa conforme a lo previsto en el artículo 17 de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, dentro de los cinco días posteriores a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador Constitucional del Estado de Sinaloa, en su carácter de Presidente Honorario del Órgano Superior de Dirección del Servicio de Administración Tributaria del Estado de Sinaloa, emitirá y publicará en el Periódico Oficial "El Estado de Sinaloa", el Estatuto del Servicio Fiscal de Carrera de dicho organismo, que deberá entrar en vigor el mismo día en que el presente Decreto inicie su vigencia.
+
+Una vez instalado el Órgano Superior de Dirección del Servicio de Administración Tributaria del Estado de Sinaloa, procederá a ratificar el Estatuto del Servicio Fiscal de Carrera del organismo y será el responsable de mantenerlo actualizado, así como analizar y, en su caso, aprobar las reformas que sean sometidas a su consideración por el Director General del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO QUINTO.
+
+Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de Administración y Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Tributaria del Estado de Sinaloa, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior o cualquier otra disposición jurídica que emane de ellos.
+
+###### ARTÍCULO SEXTO.
+
+Toda mención que se haga a la autoridad fiscal o tributaria del estado de Sinaloa en cualquier ordenamiento jurídico o administrativo, federal o estatal, se entenderá hecha al Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que, a la fecha de entrada en vigor de la presente Ley, se encuentren en trámite ante la Procuraduría Fiscal, la Subsecretaría de Ingresos o en cualquier unidad administrativa de la Secretaría de Administración y Finanzas, se seguirán tramitando hasta su total conclusión ante el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Las solicitudes de devolución de cantidades a favor de los contribuyentes que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite ante la Secretaría de Administración y Finanzas, seguirán su trámite ante el Servicio de Administración Tributaria del Estado de Sinaloa, para lo cual dicho órgano desconcentrado en el primer acto de autoridad, requerimiento o aviso relacionado con la solicitud de devolución, notificará al particular la sustitución de autoridad.
+
+Los recursos y juicios interpuestos en contra de actos o resoluciones de la Procuraduría Fiscal del Estado de Sinaloa, la Subsecretaría de Ingresos o de cualquier unidad administrativa de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite y representación de dicha Procuraduría Fiscal, vinculados con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su reglamento o cualquier disposición que emane de ellos, se seguirán tramitando por la citada Procuraduría Fiscal hasta su total conclusión.
+
+###### ARTÍCULO OCTAVO.
+
+Los amparos contra actos o resoluciones de las unidades administrativas adscritas a la Procuraduría Fiscal, la Subsecretaría de Ingresos o cualquier unidad administrativa de la Secretaría de Administración y Finanzas, cuya interposición les sea notificada, con el carácter de autoridad responsable o de tercero interesado, con anterioridad a la entrada en vigor de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, que estén vinculados con la materia objeto de la presente Ley, su reglamento o cualquier disposición que emane de ellos, se seguirán tramitando por la Procuraduría Fiscal del Estado de Sinaloa hasta su total conclusión.
+
+###### ARTÍCULO NOVENO.
+
+Las unidades administrativas que con la emisión de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa resulten competentes, notificarán por escrito a los contribuyentes de la sustitución de autoridad, para tal efecto se estará a lo siguiente:
+
+a) Tratándose del ejercicio de las facultades de comprobación, la autoridad que resulte competente notificará por escrito al contribuyente del cambio de autoridad, así como del aumento o sustitución de auditores, antes de continuar con el desahogo de los procedimientos inherentes al acto de fiscalización.
+
+b) Tratándose de actos distintos a los actos de fiscalización, dicha notificación se entenderá hecha con el primer acuerdo, aviso o respuesta que recaiga al trámite de que se trate, sin que sea necesario emitir un escrito ex profeso para tal efecto.
+
+En todo caso, los actos y resoluciones deberán estar debidamente fundados y motivados conforme al texto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, coordinará las acciones necesarias para que los archivos y expedientes vinculados con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior y cualquier otra disposición jurídica que de ellos emane, pasen a formar parte del inventario del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Para efectos de lo dispuesto en el presente transitorio se deberán realizar las actas de entrega-recepción, con todas las formalidades y requisitos previstos en las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Gobernador Constitucional del Estado de Sinaloa, a través de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, dispondrá lo conducente a fin de que a partir de la entrada en vigor del presente Decreto se lleve a cabo la asignación de los recursos materiales y financieros que requiera el Servicio de Administración Tributaria del Estado de Sinaloa para el correcto ejercicio de las atribuciones objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, conforme a lo dispuesto en la Ley del Servicio de Administración Tributaria del Estado de Sinaloa y del Estatuto del Servicio Fiscal de Carrera, transferirá al personal que formarán (sic) parte del Servicio de Administración Tributaria del Estado de Sinaloa, de entre los que se encuentren prestando servicios en las diferentes áreas de la Subsecretaría de Ingresos. Para este objeto, el Servicio de Administración Tributaria del Estado de Sinaloa, proporcionará capacitación al personal que opte por someterse a las pruebas de selección contempladas en el Estatuto del Servicio Fiscal de Carrera.
+
+La asignación de personal que integre el Servicio de Administración Tributaria del Estado de Sinaloa, deberá concluir en un plazo no mayor a un año conforme a lo establecido en el Estatuto del Servicio Fiscal de Carrera. En tanto este proceso no concluya, las áreas o unidades de la Subsecretaría de Ingresos encargadas de las funciones de la administración tributaria del Estado (sic) Sinaloa, deberán seguir desarrollando las mismas en el marco de las facultades que tiene a su cargo y que les otorga la Ley, hasta que sean sustituidas por el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los servidores públicos de base que se encuentran prestando servicios en la Subsecretaría de Ingresos, cuyas atribuciones sean asumidas por el Servicio de Administración Tributaria del Estado de Sinaloa a la entrada en vigor del presente Decreto, en ninguna forma resultarán afectados en los derechos adquiridos con motivo de su relación laboral, conservando ante su transición al nuevo organismo desconcentrado la misma calidad, sus derechos y preservando su antigüedad en los términos de la normatividad aplicable, subrogándose al Servicio de Administración Tributaria del Estado de Sinaloa, como nuevo empleador en todos los derechos y obligaciones derivados de esa relación laboral y aquellos consagrados en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, o en las Condiciones Generales de Trabajo establecidas en el contrato colectivo de trabajo.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se abroga la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa", número 99, de fecha 18 de agosto de 1993, Segunda Sección.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Gobernador Constitucional del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa", el Reglamento de la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, en un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Gobernador Constitucional del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa", las modificaciones necesarias al Reglamento de la Ley de Tránsito y Transportes del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+La recaudación que se obtenga por el pago de los últimos cinco años anteriores a la entrada en vigor del presente Decreto, del Impuesto Sobre Tenencia o Uso de Vehículos a que se refería el Capítulo II de la Ley de Hacienda del Estado de Sinaloa, el 20% será distribuido a los municipios en los términos y para los efectos que establece el Artículo 3° Bis A de la Ley de Coordinación Fiscal del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Las funciones que realizaba la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF) hasta la entrada en vigor del presente Decreto, serán desempeñadas por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, en términos de su Reglamento Interior. Los derechos de los trabajadores serán respetados en la reestructura objeto del presente Decreto.
+
+Los juicios en los que sea parte la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF) hasta la entrada en vigor del presente Decreto, serán competencia de la Secretaría General de Gobierno en términos de lo dispuesto por su Reglamento Interior.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaciones que se estimen pertinentes para efectos de reasignar el presupuesto que a prorrata aportaban para sufragar los gastos de la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF), hasta la entrada en vigor del presente Decreto, de acuerdo con la legislación aplicable.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
