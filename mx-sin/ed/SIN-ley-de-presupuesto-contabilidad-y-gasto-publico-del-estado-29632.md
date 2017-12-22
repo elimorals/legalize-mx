@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-2963
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-02"
-last_updated: "2015-11-27"
+last_updated: "2017-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el miércoles 2 de abril de 2003.
 
@@ -986,3 +988,25 @@ P.O. 27 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor el 1 de enero de 2018, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las disposiciones de la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, para el Ejercicio Fiscal del año 2018, así como las Leyes de Ingresos de los Municipios para dicho Ejercicio Fiscal, serán aplicables conforme a esta Ley.
+
+TERCERO. Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Sinaloa contenida en el Decreto N° 258 de fecha 11 de marzo de 2003 y publicado el 17 del mismo mes y año.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+QUINTO. En tanto se expida el Reglamento de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Sinaloa, se continuará aplicando el Reglamento de la (sic) de Presupuesto, Contabilidad y Gasto Público del Estado de Sinaloa, así como las demás disposiciones vigentes en la materia, en lo que no se opongan a esta Ley. Dicho reglamento deberá expedirse a más tardar a los 90 días naturales posteriores a la entrada en vigor de esta Ley en el Periódico Oficial "El Estado de Sinaloa" y se sujetará estrictamente a las disposiciones que esta Ley establece.
+
+SEXTO. El Sistema de Control Presupuestario y el Sistema de Registro y Control de las Erogaciones de Servicios Personales a que se refieren, respectivamente, los artículos 50 y 17 de esta Ley, deberán concluir su implantación a más tardar en el ejercicio fiscal 2018.
+
+La Secretaría deberá poner en funcionamiento y concluir su funcionamiento a más tardar en el ejercicio fiscal 2018 todos los sistemas a que se refiere la Ley. La Secretaría, con base en criterios económicos, financieros, técnicos y operativos, definirá si todos los sistemas a que se refieren la Ley y su Reglamento, así como otros sistemas que, bajo su control, funcionarán bajo un mismo sistema electrónico, dividido en componentes y debidamente interconectados o si se requieren sistemas tecnológicos distintos. Asimismo, determinará la conveniencia o no, de utilizar sistemas o componentes que actualmente estén operando.
+
+SÉPTIMO. El Ejecutivo del Estado, por conducto de la Secretaría, deberá concluir la implantación del Sistema de Evaluación del Desempeño a que se refieren los artículos 89, 90 y 91 de esta Ley, a más tardar en diciembre del ejercicio fiscal 2019. Para los efectos de este artículo, la Secretaría deberá presentar el Sistema de Evaluación del Desempeño a más tardar en diciembre de 2018.
+
+OCTAVO. El Ejecutivo del Estado por conducto de la Secretaría, deberá realizar los ajustes necesarios a los sistemas y registros de contabilidad a fin de dar cumplimiento con la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables, con el objeto de que se implante a más tardar en el ejercicio fiscal 2018.
