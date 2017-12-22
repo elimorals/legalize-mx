@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollos-inmobiliarios-del-estado-de-yucatan-77611"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-07"
-last_updated: "2016-12-28"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 7 de diciembre de 2010.
 
@@ -259,7 +259,13 @@ El Desarrollador Inmobiliario presentará a la autoridad municipal su propuesta 
 
 El Área de destino a que se refiere el párrafo anterior, nunca podrá ser menor al 10% del Área bruta.
 
-Dentro del área de donación, el 30% será destinado para área verde.
+> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Dentro del área de donación, el 30% será destinado a área verde y se privilegiara el uso de esta área.
+
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Las áreas de destino a que se refiere este artículo no pueden ser residuales ni estar ubicadas en zonas inundables o de riesgos, o presentar condiciones topológicas más complicadas que el promedio del fraccionamiento o conjunto urbano.
 
 ###### Artículo 17.
 
@@ -472,3 +478,11 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 561/2017 POR EL QUE SE MODIFICA LA LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE YUCATÁN Y LA LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN".]
+
+Único. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
