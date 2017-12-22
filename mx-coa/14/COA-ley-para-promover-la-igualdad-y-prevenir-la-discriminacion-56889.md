@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2017-12-08"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -63,7 +63,9 @@ III. Definir los tipos de discriminación que viven los diversos grupos afectado
 
 Para los efectos de esta ley se entiende por:
 
-I. Adultos mayores: Las personas de 60 años o más;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I. Personas adultas mayores: Toda persona que cuente con sesenta años o más de edad y que, por cualquier motivo, se encuentre domiciliada o en tránsito en el territorio del Estado, sea cual fuere su condición física o mental.
 
 II. Congreso: El Congreso del Estado de Coahuila de Zaragoza;
 
@@ -89,13 +91,17 @@ IX. Gobierno del Estado: Conjunto de dependencias e instituciones que conforman 
 
 X. Igualdad: el derecho fundamental de las personas que se encuentren en el territorio del Estado de Coahuila a no ser discriminadas de ninguna manera; a ejercer sus derechos con las mismas oportunidades; a ser tratadas con dignidad; a acceder sin distinción, restricción, exclusión o rechazo alguno a los beneficios de los servicios públicos, de trabajo, salud, educación, transporte, comunicaciones, seguridad social y jurídica, así como al ejercicio de las garantías individuales para hacer efectivo su derecho a la no discriminación, o en contra de cualquier otra circunstancia que impida o limite a las personas a alcanzar su pleno desarrollo;
 
-XI. Jóvenes: Las personas de entre 12 y 29 años de edad;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XI. Las y los jóvenes: considerando como tales a todos aquellos que sin distinción de ningún tipo, con edad entre los doce y veintinueve años habiten en nuestra entidad.
 
 XII. Ley: La Ley para Promover la Igualdad y Prevenir la Discriminación en el Estado de Coahuila de Zaragoza;
 
 XIII. Municipios: Los Municipios del Estado de Coahuila de Zaragoza;
 
-XIV. Niños: Las personas hasta los 12 años de edad cumplidos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XIV. Niña o niño: Personas menores de 12 años de edad.
 
 XV. Persona con discapacidad: Todo ser humano que padece temporal o permanentemente una disminución en sus facultades físicas, psíquicas o sensoriales que le impide realizar una actividad normal;
 
@@ -103,15 +109,17 @@ XVI. Población indígena: Aquéllos que descienden de poblaciones que habitaban
 
 XVII. Poderes Públicos: Los Poderes Legislativo, Ejecutivo y Judicial del Estado;
 
-XVIII. Sectores Vulnerables: Los integrados por: niños, adultos mayores, indígenas, mujeres, personas con discapacidades, en pobreza extrema, sin empleo, presidiarios y expresidiarios, y en general cualquier sector de la población que directa o indirectamente se enfrente a tratos o acciones discriminatorias;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Sectores Vulnerables: Los integrados por: niñas y niños, personas adultas mayores, personas indígenas, mujeres, personas con discapacidad, en pobreza extrema, sin empleo, presidiarios y expresidiarios, y en general cualquier sector de la población que directa o indirectamente se enfrente a tratos o acciones discriminatorias;
 
 XIX. Servidores públicos: Los descritos como tales en la Constitución Política del Estado de Coahuila, en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila y demás disposiciones aplicables;
 
 XX. Titular del Ejecutivo: El Gobernador Constitucional del Estado de Coahuila.
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XXI. Trato diferenciado: La forma de considerar a las personas con discapacidad o movilidad limitada, adultos mayores, mujeres en periodo de gestación y en general toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente, mediante una atención preferente y adecuada.
+XXI. Trato diferenciado: La forma de considerar a las personas con discapacidad o movilidad limitada, personas adultas mayores, mujeres en periodo de gestación y en general toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente, mediante una atención preferente y adecuada.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2016)</small>
 
@@ -141,21 +149,27 @@ k.- Discriminación por VIH-Sida: el sida es una enfermedad socialmente estigmat
 
 l.- Discriminación por discapacidad: se manifiesta cuando una persona es menospreciada o infravalorada por sufrir algún tipo de discapacidad, bien sea física o mental.
 
-m.- Discriminación por Sobre peso y Obesidad: se presenta cuando el sujeto ya sea niño-niña, joven, adulto o adulto mayor, hombre o mujer atraviesa una condición de Sobre peso u Obesidad, y dicha condición, lo expone a burlas, a trato desigual, al desempleo, a la exclusión de alguna actividad deportiva o recreativa, o algún tipo de agresión o de aislamiento social; víctima de igual manera de cualquier otra práctica discriminatoria bajo los entendidos de que no está en condiciones de salud apropiada para realizar algún tipo de tarea.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+m.- Discriminación por Sobre peso y Obesidad: se presenta cuando el sujeto ya sea niña-niño, población joven, persona adulta o persona adulta mayor, hombre o mujer atraviesa una condición de sobre peso u obesidad, y dicha condición, lo expone a burlas, a trato desigual, al desempleo, a la exclusión de alguna actividad deportiva o recreativa, o algún tipo de agresión o de aislamiento social; víctima de igual manera de cualquier otra práctica discriminatoria bajo los entendidos de que no está en condiciones de salud apropiada para realizar algún tipo de tarea.
 
 n.- Discriminación por Embarazo: se presenta cuando por condición de embarazo en el caso específico de la mujer se le niega la contratación dentro de un trabajo, o es expuesta a burlas o comentarios despectivos debido a los prejuicios de compañeros o clientes de trabajo. Es el tipo de discriminación que se ejerce en contra de las mujeres embarazadas en el trabajo, la escuela o en la sociedad en general.
 
-ñ.- Discriminación hacia los Adultos Mayores: la discriminación que se ejerce hacia esta población está relacionada principalmente con la percepción de que son socialmente improductivos, así como con la escasa valoración que se hace de su experiencia y capacidades, negándoles la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ñ.- Discriminación hacia las Personas Adultas Mayores: la discriminación que se ejerce hacia esta población está relacionada principalmente con la percepción de que son socialmente improductivos, así como con la escasa valoración que se hace de su experiencia y capacidades, negándoles la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos.
 
 o.- Discriminación hacia la Mujer: se expresa particularmente en todas aquellas prácticas violentas o de trato desigual prevalentes en todas las culturas. Se ejerce en el ámbito doméstico y laboral, provocada por patrones de una cultura patriarcas (sic) que se manifiesta en todo tipo de opresión: desde ser violentadas sexualmente, hasta la conculcación de sus derechos, tales como: transgresión de los deseos, motivaciones y libertad; omisión, ofensa, discriminación, descalificación, uso no permitido de su cuerpo e intromisión en su sexualidad.
 
-p.- Discriminación hacia los Jóvenes y adolescentes
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-Dicha discriminación se da cuando se les asocia con una serie de prejuicios que hacen más compleja su integración. Se les ha estigmatizado como irresponsables, sin ambiciones ni compromiso con su país o entorno y, más grave aún, se les criminaliza. No se les reconoce las formas de organización o asociación como las denominadas tribus urbanas, entre otro tipo de afiliaciones, y sobre todo no se les genera las condiciones laborales, educativas o de fomento cultural apropiadas para su propio crecimiento y formación.
+p.- Discriminación hacia las y los jóvenes, y adolescentes: Dicha discriminación se da cuando se les asocia con una serie de prejuicios que hacen más compleja su integración. Se les ha estigmatizado como irresponsables, sin ambiciones ni compromiso con su país o entorno y, más grave aún, se les criminaliza. No se les reconoce las formas de organización o asociación como las denominadas tribus urbanas, entre otro tipo de afiliaciones, y sobre todo no se les genera las condiciones laborales, educativas o de fomento cultural apropiadas para su propio crecimiento y formación.
 
 q.- Discriminación hacia las Niñas y niños: se da cuando existen violaciones a los derechos de las niñas y los niños, o cuando se presentan prácticas de maltrato o castigo en alguna de sus tipologías o representaciones que atentan con el desarrollo biológico, psicológico, emocional, social y espiritual del niño-niña. Dichas prácticas pueden presentarse dentro del propio hogar, los espacios educativos, o diferentes contextos de interacción social.
 
-r.- Discriminación hacia los Migrantes y Refugiados: se presenta cuando existe una violación de sus derechos, la explotación económica, la inseguridad social, el menosprecio y el racismo, así como el riesgo de muerte, son los principales elementos que definen la situación de vida de quienes han optado por la migración como una estrategia de vida y de superación.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+r.- Discriminación hacia las personas migrantes y refugiados: se presenta cuando existe una violación de sus derechos, la explotación económica, la inseguridad social, el menosprecio y el racismo, así como el riesgo de muerte, son los principales elementos que definen la situación de vida de quienes han optado por la migración como una estrategia de vida y de superación.
 
 s.- Discriminación por Analfabetismo o Nivel Académico: Es la discriminación que se realiza en contra de las personas que no saben leer o que poseen un nivel académico menor (primario, secundario o trunco), se da en especial a la hora de solicitar trabajos, e incluso en los que no se precisa del conocimiento básico escolarizado, así como también se da cuando las personas analfabetas o con los estudios truncos, pretenden iniciar estudios de nuevo, siendo humillados y maltratados por alumnos o docentes.
 
@@ -177,9 +191,9 @@ IV. En el ámbito educativo, los requisitos académicos, de evaluación y los l�
 
 V. Las que se establezcan como requisitos de ingreso o permanencia para el desempeño del servicio público y cualquier otro señalado en los ordenamientos legales;
 
-> <small>(REFORMADA, P. O. 19 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-VI. El trato diferenciado que en su beneficio reciban las personas con discapacidad o movilidad limitada, adultos mayores, mujeres en periodo de gestación y en general toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente.
+VI. El trato diferenciado que en su beneficio reciban las personas con discapacidad o movilidad limitada, personas adultos mayores, mujeres en periodo de gestación y en general toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente;
 
 VII. Las distinciones, exclusiones, restricciones o preferencias que se hagan entre ciudadanos y no ciudadanos, y
 
@@ -375,13 +389,13 @@ XXXII. Restringir la participación en actividades deportivas, recreativas o cul
 
 XXXIII. Menospreciar, o tratar de manera despreciativa a persona que vive bajo algún tipo de discapacidad, bien será física, mental o intelectual;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XXXIV. Restringir las oportunidades de desarrollo, empleo, salud, superación personal por el hecho de vivir bajo alguna discapacidad;
+XXXIV. Negar la contratación de un trabajo, limitar el acceso a un servicio, o ser expuesta a burlas, comentarios despectivos o discriminatorios por el hecho de encontrarse en situación de embarazo; Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser persona adulta mayor;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XXXV. Trato diferente, ser sujeto de burlas o restringir el derecho de desarrollo, empleo, servicio de salud, educación, o superación personal por atravesar una condición de Sobre peso u Obesidad, o cualquier otro desorden alimenticio;
+XXXV. Tratar de manera discriminante, de abandono, abuso o maltrato, ser sujeto de burlas, estigmas o menosprecio, o negar algún tipo de servicio por el hecho de ser persona adulta mayor;
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -391,13 +405,13 @@ XXXVI. Menospreciar bajo los entendidos de que no está en condiciones de salud 
 
 XXXVII. Negar o limitar información relacionada con sus derechos reproductivos, o impedir el libre ejercicio de la determinación del número y espaciamiento de los hijos;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XXXVIII. Negar la contratación de un trabajo, limitar el acceso a un servicio, o ser expuesta a burlas, comentarios despectivos o discriminatorios por el hecho de encontrarse en situación de embarazo; Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser adulto mayor;
+XXXVIII. Trato desigual, o ser víctima de perjuicios, estigmas, o algún tipo de opresión, transgresiones, descalificaciones por el hecho de ser persona joven o adolescente;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XXXIX. Tratar de manera discriminante, de abandono, abuso o maltrato, ser sujeto de burlas, estigmas o menosprecio, o negar algún tipo de servicio por el hecho de ser adulto mayor;
+XXXIX. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser persona joven o adolescente;
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -411,9 +425,9 @@ XLI. Negar la posibilidad de incorporarse a los espacios laborales o en su extre
 
 XLII. Trato desigual, o ser víctima de perjuicios (sic), estigmas, o algún tipo de opresión, transgresiones, descalificaciones por el hecho de ser joven o adolescente;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XLIII. Negar la posibilidad de incorporarse a los espacios laborales o en su extremo ser víctimas de la explotación y de los abusos por el hecho de ser joven o adolescente;
+XLIII. Violación de los derechos, a los tratados internacionales, explotación económica, inseguridad social, menosprecio, racismo, secuestro, así como el riesgo de muerte por el hecho de ser persona migrante o refugiado;
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -493,9 +507,9 @@ LXI. Limitar, obstaculizar o negar cualquier empleo de oficio o profesional por 
 
 El titular del ejecutivo a través de las entidades públicas diseñarán e instrumentarán políticas, acciones afirmativas, compensatorias o cualquier otra medida de trato diferenciado que resulte justificada a fin de garantizar la igualdad real de oportunidades, así como prevenir las formas de discriminación a que se refiere la fracción VI del artículo 3° de esta ley.
 
-> <small>(ADICIONADO, P. O. 19 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-ARTÍCULO 14 BIS.- Las entidades del sector público y privado, están obligadas a habilitar cajas y ventanillas receptoras de atención preferente, para las mujeres en periodo de gestación, adultos mayores, personas con discapacidad o movilidad limitada, y en general para toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente, así como también deben mostrar en un lugar fácil de observar letreros con el texto o imagen que señale la atención preferente. De la misma forma deberán reservar cajones de estacionamiento y marcarlos como reservados para el acceso de personas de trato diferenciado.
+ARTÍCULO 14 BIS. Las entidades del sector público y privado, están obligadas a habilitar cajas y ventanillas receptoras de atención preferente, para las mujeres en periodo de gestación, personas adultas mayores, personas con discapacidad o movilidad limitada, y en general para toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente, así como también deben mostrar en un lugar fácil de observar letreros con el texto o imagen que señale la atención preferente. De la misma forma deberán reservar cajones de estacionamiento y marcarlos como reservados para el acceso de personas de trato diferenciado.
 
 ###### ARTÍCULO 15.
 
@@ -513,7 +527,9 @@ V. Promover la libre expresión de los estudiantes, vigilando que se desarrollen
 
 VI. Difundir campañas que promuevan la paz social y la armonía entre los miembros de la comunidad;
 
-VII. Alentar la producción y difusión de libros para niños y jóvenes;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VII. Alentar la producción y difusión de libros para niñas y niños, y para las y los jóvenes;
 
 VIII. Otorgar becas e incentivos que permitan el ingreso y permanencia en los centros educativos en todos los niveles;
 
@@ -585,7 +601,9 @@ III. Garantizar el acceso a los servicios de atención médica, según lo dispue
 
 IV. Promover la creación de centros gerontológicos de acuerdo a la densidad poblacional, con áreas especializadas de atención física, mental, psicológica y emocional de calidad, con particular atención a las personas miembros de los sectores vulnerables;
 
-V. Diseñar, instrumentar y ejecutar programas de apoyo financiero para la construcción de estancias y albergues suficientes y adecuados a la realidad social, destinados principalmente a niños y adultos mayores, con equipo y personal especializado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V. Diseñar, instrumentar y ejecutar programas de apoyo financiero para la construcción de estancias y albergues suficientes y adecuados a la realidad social, destinados principalmente a niñas y niños, y a personas adultas mayores, con equipo y personal especializado;
 
 VI. Garantizar la asistencia de intérpretes en lengua de señas mexicana y equipos necesarios, considerando todas las discapacidades en cualquier proceso informativo o administrativo que se brinde en oficinas, dependencias, así como en los centros de salud o en actividades de interés público y social que realice la Secretaría;
 
@@ -599,11 +617,15 @@ IX. Las demás que señalen esta ley y otras disposiciones aplicables.
 
 Para el cumplimiento del objeto de esta ley, la Secretaría de Finanzas llevará a cabo las siguientes acciones:
 
-I. Crear programas de apoyo financiero para la construcción de estancias, centros de reposo para ancianos y albergues;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I. Crear programas de apoyo financiero para la construcción de estancias, centros de reposo y albergues para personas adultas mayores;
 
 II. Incentivar fiscalmente las actividades de personas que presten apoyo profesional a personas u organizaciones de sectores vulnerables;
 
-III. Gestionar el apoyo fiscal a las empresas que contraten a personas con discapacidad, o en aquellas que tengan entre su personal a por lo menos 40% de mujeres o adultos mayores en puestos de supervisión y dirección, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+III. Gestionar el apoyo fiscal a las empresas que contraten a personas con discapacidad, o en aquellas que tengan entre su personal a por lo menos 40% de mujeres o personas adultas mayores en puestos de supervisión y dirección, y
 
 IV. Las demás que señalen esta ley y otras disposiciones aplicables.
 
@@ -1107,7 +1129,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
 
-TERCERO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
+TERCERO. Todas las disposiciones menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
 
 Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
 
@@ -1226,3 +1248,11 @@ P.O. 8 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación el (sic) Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1043.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
