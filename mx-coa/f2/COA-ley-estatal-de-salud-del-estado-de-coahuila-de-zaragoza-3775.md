@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2017-12-01"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -51,7 +51,9 @@ Los recursos destinados por el estado y los municipios a la protección de la sa
 
 El derecho a la protección de la salud, tiene las siguientes finalidades:
 
-I. El bienestar físico y mental del hombre, para contribuir al ejercicio pleno de sus capacidades;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I. El bienestar físico y mental de las personas, para contribuir al ejercicio pleno de sus capacidades;
 
 II. La prolongación y el mejoramiento de la calidad de la vida humana;
 
@@ -115,7 +117,11 @@ X. La educación para la salud;
 
 XI. La orientación y vigilancia en materia de nutrición;
 
-XII. La prevención y el control de los efectos nocivos de los factores ambientales en la salud del hombre;
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 1041 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2017, SE ADVIERTE QUE EL CONTENIDO DE ESTA REFORMA CORRESPONDE A LA ANTERIOR FRACCIÓN XII.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XI (SIC). La prevención y el control de los efectos nocivos de los factores ambientales en la salud de las personas;
 
 XIII. La salud ocupacional y el saneamiento básico;
 
@@ -1221,9 +1227,11 @@ La Secretaría de Salud del Estado, en coordinación con las autoridades federal
 
 El trabajo o las actividades comerciales, industriales, profesionales o de otra índole, se ajustarán, por lo que a la protección de la salud se refiere, a las normas que al efecto dicten las autoridades sanitarias, de conformidad con esta Ley y demás disposiciones legales sobre salud ocupacional.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 105.
 
-El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre.
+El Gobierno del Estado, en coordinación con las dependencias y entidades federal competentes, desarrollará y difundirá la investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del ser humano.
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
@@ -1901,7 +1909,7 @@ X. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
 
 Artículo 155 bis 3. En la esfera de su competencia, corresponde a los municipios:
 
-I. Diseñar, formular y aplicar, en coordinación con el Consejo Estatal contra las Adicciones (sic), la política municipal orientada a la sensibilización, prevención y erradicación de las adicciones;
+I. Diseñar, formular y aplicar, en coordinación con el Consejo Estatal contra las Adiciones (sic), la política municipal orientada a la sensibilización, prevención y erradicación de las adicciones;
 
 II. Brindar capacitación sobre las adicciones al personal del ayuntamiento y, en especial, a las personas que asistan a adictos, a fin de mejorar la atención y asistencia que se otorga a los mismos;
 
@@ -3392,3 +3400,11 @@ P.O. 1 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 1012.- SE REFORMA Y ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE LAS ULTERIORES DEL ARTÍCULO 4°, Y SE ADICIONA UN PÁRRAFO A LA FRACCIÓN IV Y UNA FRACCIÓN V AL ARTÍCULO 94 DE LA LEY ESTATAL DE SALUD”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1041.- SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 2, LA FRACCIÓN XI DEL INCISO A DEL ARTÍCULO 4, ASÍ COMO EL ARTÍCULO 105 DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
