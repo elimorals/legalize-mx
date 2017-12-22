@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2017-04-24"
+last_updated: "2017-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-19"
 
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -144,6 +144,10 @@ XXV. Mediador comunitario: especialista que habiendo satisfecho los requisitos a
 
 XXVI. Re-mediación: procedimiento posterior a la mediación, que se utiliza cuando el convenio alcanzado en ésta se ha incumplido parcial o totalmente, o cuando surgen nuevas circunstancias que hacen necesario someter el asunto nuevamente a mediación.
 
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XXVII. Creadores culturales: la persona o conjunto de personas dedicadas a una o varias actividades o manifestaciones culturales dentro del ámbito artístico, cuya obra sea considerada representativa, valiosa o innovadora.
+
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
 ###### Artículo 4.
@@ -164,7 +168,9 @@ III. Inmuebles públicos destinados (sic) la prestación de servicios públicos;
 
 IV. Inmuebles, espacios y vehículos destinados al servicio público de transporte;
 
-V. Inmuebles y muebles de propiedad particular, siempre que tengan efectos en la vía o espacios públicos o se ocasionen molestias a los vecinos, y
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V. Inmuebles y muebles de propiedad particular, siempre que tengan efectos en la vía, espacios y servicios públicos o se ocasionen molestias a los vecinos, y
 
 VI. Lugares de uso común tales como plazas, áreas verdes, jardines, senderos, calles, avenidas interiores y áreas deportivas, de recreo o esparcimiento, que formen parte de los inmuebles sujetos al régimen de propiedad en condominio, conforme a lo dispuesto por la ley de la materia.
 
@@ -306,6 +312,14 @@ V. Dotar de espacios físicos, de recursos materiales y financieros para la efic
 
 VI. Proponer a la Consejería a los servidores públicos de la Delegación que reúnan los requisitos a que se refiere el artículo 68 de la Ley, para que éstos sean canalizados al Tribunal Superior de Justicia de la Ciudad de México, para que se formen como mediadores comunitarios.
 
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VII. Realizar acciones que motiven el respeto, mantenimiento, promoción y fomento de actividades en los espacios públicos en coordinación con la ciudadanía.
+
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VIII. Llevar a cabo actividades deportivas, artísticas y culturales en espacios públicos en coordinación con la ciudadanía.
+
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
 ###### Artículo 13.
@@ -356,6 +370,10 @@ d) La conservación del medio ambiente y de la salubridad general, y
 
 e) El respeto, en beneficio colectivo, del uso y destino de los bienes del dominio público.
 
+> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+f) la protección, respeto, mantenimiento, promoción y fomento de actividades deportivas, culturales y expresiones artísticas en los espacios públicos destinados para tales fines.
+
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
 ###### Artículo 15.
@@ -374,13 +392,19 @@ V. Prevenir riesgos contra la integridad física de las personas;
 
 VI. Permitir la libertad de acción de las personas en las vías y espacios públicos;
 
-VII. Solicitar servicios de urgencias médicas, rescate o policiales, en situaciones de emergencia;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VII. Llamar y/o solicitar a los servicios de emergencia únicamente cuando haya una causa que lo justifique
 
 VIII. Requerir la presencia policíaca en caso de percatarse de la realización de conductas o de hechos violentos que puedan causar daño a personas o bienes de terceros o que afecten la convivencia armónica;
 
-IX. Conservar limpias las vías y espacios públicos;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
 
-X. Hacer uso adecuado de los bienes, espacios y servicios públicos conforme a su naturaleza y destino;
+IX. Conservar limpias las vías y espacios públicos; y participar en jornadas de limpieza y mantenimiento de los mismos;
+
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+X. Hacer uso adecuado de los bienes, espacios y servicios públicos conforme a su naturaleza y destino; y a su vez fomentar la promoción de las diversas actividades que ahí se ofrezcan.
 
 XI. Cuidar el equipamiento y mobiliario urbano, así como los bienes de interés cultural, urbanístico y arquitectónico de la ciudad;
 
@@ -426,6 +450,16 @@ V. Promover los valores de la cultura cívica a través de campañas de informac
 
 VI. Promover los métodos alternativos de solución de controversias con la intervención de mediadores comunitarios de las Delegaciones.
 
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VII. Preservar y difundir el patrimonio cultural de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 16 Bis.
+
+En el caso de las expresiones artísticas o culturales, éstas deberán estar debidamente registradas ante la autoridad competente y tener el permiso correspondiente para el uso de la vía pública.
+
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN VECINAL
@@ -445,6 +479,16 @@ III. Organizar la participación vecinal para la prevención de infracciones;
 IV. Promover, en el ámbito de su competencia, la difusión de los valores y alcances de la cultura cívica y de la legalidad así como de campañas de información y cursos formativos entre los órganos de representación ciudadana, y
 
 V. Promover el uso de la mediación comunitaria en la gestión para la solución y prevención de conflictos comunitarios.
+
+> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 17 Bis.
+
+Las Delegaciones deberán organizar conjuntamente con los Comités Ciudadanos y Consejos del Pueblo, otros órganos de representación vecinal, organizaciones de la sociedad civil y/o instituciones educativas, por lo menos en forma trimestral:
+
+I. Jornadas de limpieza, mantenimiento y conservación de espacios públicos, en las que se incentive la participación ciudadana.
+
+II. Talleres, exposiciones, muestras culturales, artísticas y/o deportivas en espacios públicos.
 
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
@@ -480,6 +524,12 @@ Corresponde a los Colaboradores Comunitarios realizar visitas a las diversas ár
 
 Los Jueces y Secretarios otorgarán las facilidades necesarias para que los Colaboradores Comunitarios debidamente acreditados realicen sus visitas, proporcionándoles acceso a las diversas áreas así como la información que requieran, siempre que sea procedente de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal.
 
+> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 22 Bis.
+
+Los Jueces y Secretarios, conforme a los ordenamientos jurídicos aplicables, reconocerán el derecho de expresión de los grupos artísticos o culturales que estén debidamente acreditados ante la autoridad competente.
+
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
 ## TÍTULO TERCERO. INFRACCIONES Y SANCIONES
@@ -494,9 +544,13 @@ Los Jueces y Secretarios otorgarán las facilidades necesarias para que los Cola
 
 Son infracciones contra la dignidad de las personas;
 
-I. Vejar o maltratar física o verbalmente a cualquier persona;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
 
-II. Permitir a menores de edad el acceso a lugares a los que expresamente les esté prohibido;
+I. Vejar, intimidar o maltratar física o verbalmente a cualquier persona;
+
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II. Permitir a menores de edad el acceso a lugares a los que expresamente les esté prohibido, así como promover o permitir que éstos realicen sobre vías de circulación vehicular, cualquier actividad por la que se pretenda obtener un ingreso económico;
 
 III. Propinar a una persona, en forma intencional y fuera de riña, golpes que no le causen lesión; y
 
@@ -550,7 +604,9 @@ Son infracciones contra la seguridad ciudadana:
 
 I. Permitir el propietario o poseedor de un animal que éste transite libremente, o transitar con él sin adoptar las medidas de seguridad necesarias, de acuerdo con las características particulares del animal, para prevenir posibles ataques a otras personas o animales, así como azuzarlo, o no contenerlo;
 
-II. Impedir o estorbar de cualquier forma el uso de la vía pública, la libertad de tránsito o de acción de las personas, siempre que no exista permiso ni causa justificada para ello. Para estos efectos, se entenderá que existe causa justificada siempre que la obstrucción del uso de la vía pública, de la libertad de tránsito o de acción de las personas sea inevitable y necesaria y no constituya en sí misma un fin, sino un medio razonable de manifestación de las ideas, de asociación o de reunión pacifica;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II. Impedir o estorbar de cualquier forma el uso de la vía pública, la libertad de tránsito o de acción de las personas, siempre que no exista permiso ni causa justificada para ello. para estos efectos, se entenderá que existe causa justificada siempre que la obstrucción del uso de la vía pública, de la libertad de tránsito o de acción de las personas sea inevitable y necesaria y no constituya en sí misma un fin, sino un medio razonable de manifestación de las ideas, de expresión artística o cultural de asociación o de reunión pacifica;
 
 III. Usar las áreas y vías públicas sin contar con la autorización que se requiera para ello;
 
@@ -564,7 +620,9 @@ VII. Detonar o encender cohetes, juegos pirotécnicos, fogatas o elevar aerósta
 
 VIII. Reñir con una o más personas;
 
-IX. Solicitar los servicios de emergencia, policía, bomberos o de establecimientos médicos o asistenciales, públicos o privados, cuando no se requieran. Asimismo, proferir voces, realizar actos o adoptar actitudes que constituyan falsas alarmas de siniestros o que puedan producir o produzcan el temor o pánico colectivos;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IX. Llamar y/o solicitar al servicio telefónico de emergencias con fines ociosos que distraigan la prestación del mismo que constituyan falsas alarmas de siniestros o que puedan producir o produzcan el temor o pánico colectivos;
 
 X. Alterar el orden, arrojar líquidos u objetos, prender fuego o provocar altercados en los eventos o espectáculos públicos o en sus entradas o salidas;
 
@@ -587,6 +645,12 @@ Obra culposamente el que produce el daño, que no previó siendo previsible o pr
 Las infracciones establecidas en las fracciones I, II, III y IV se sancionarán con multa por el equivalente de 11 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
 
 Las infracciones establecidas en las fracciones V, VI, VII, VIII, IX, X, XII, XIII y XIV se sancionarán con multa por el equivalente de 21 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 25 a 36 horas.
+
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO PUBLICADO EN LA G.O. DE 22 DE DICIEMBRE DE 2017, PÁGINAS DE LA 3 A LA 6 SE ADVIERTE QUE LO RELATIVO A LA SANCIÓN DE LA FRACCIÓN IX TAMBIÉN SE ENCUENTRA EN EL PÁRRAFO PRECEDENTE]</small>
+
+> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+La fracción IX se sancionará con multa equivalente de cincuenta a cien veces la Unidad de Medida y Actualización o arresto de 36 horas, y se aplicará al titular o poseedor de la línea telefónica desde la que se realice la llamada. En caso de reincidencia se duplicará el monto de la multa.
 
 La infracción establecida en la fracción XI se sancionará con arresto de 25 a 36 horas.
 
@@ -652,19 +716,27 @@ XIV. Colocar transitoriamente o fijar, sin autorización para ello, elementos de
 
 XV. Obstruir o permitir la obstrucción de la vía pública, con motivo de la instalación, modificación, cambio, o mantenimiento de los elementos constitutivos de un anuncio y no exhibir la documentación correspondiente que autorice a realizar dichos trabajos.
 
-Las infracciones establecidas en las fracciones I a VII se sancionarán con multa por el equivalente de 11 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 13 a 24 horas.
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
 
-La fracción VIII, se sancionará con multa por el equivalente de 21 a 40 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 25 a 36 horas.
+Las infracciones establecidas en las fracciones I a VII se sancionarán con multa por el equivalente de 11 a 20 veces la Unidad de Cuenta de la Ciudad de México vigente y con arresto de 13 a 24 horas.
 
-Las infracciones establecidas en las fracciones IX a XIV se sancionarán con multa por el equivalente de 21 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente o con arresto de 25 a 36 horas.
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+La fracción VIII, se sancionará con multa por el equivalente de 21 a 40 veces la Unidad de Cuenta de la Ciudad de México vigente y con arresto de 25 a 36 horas.
+
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Las infracciones establecidas en las fracciones IX a XIV se sancionarán con multa por el equivalente de 21 a 30 veces la Unidad de Cuenta de la Ciudad de México vigente y con arresto de 25 a 36 horas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADA], G.O. 22 DE DICIEMBRE DE 2017)</small>
 
 La infracción establecida en la fracción XV se sancionará con arresto de 20 a 36 horas.
 
-> <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 27.
 
-En el supuesto de que el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, el cual no podrá exceder de treinta y seis horas.
+Las infracciones establecidas en las fracciones V, VI, XII y XIII del artículo 26 de la Ley, el Juez considerará al imponer la sanción la reparación de los daños causados por el infractor como mínimo, así como alguna otra actividad de apoyo a la comunidad de las previstas en esta Ley, conmutando de esa forma el arresto, sin menos cabo de la imposición de la multa que corresponda.
 
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
@@ -708,11 +780,13 @@ Para la determinación de la reincidencia, el Juez deberá consultar el Registro
 
 ### CAPÍTULO II. DE LAS ACTIVIDADES DE APOYO A LA COMUNIDAD
 
-> <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 33.
 
-Cuando el infractor acredite de manera fehaciente su identidad y domicilio, podrá solicitar al Juez le sea permitido realizar actividades de apoyo a la comunidad a efecto de no cubrir la multa o el arresto que se le hubiese impuesto, excepto en los casos de reincidencia.
+Cuando el infractor acredite de manera fehaciente su identidad y domicilio, podrá solicitar al Juez le sea permitido realizar actividades de apoyo a la comunidad a efecto de no cubrir el arresto que se le hubiese impuesto, excepto en los casos de reincidencia.
+
+> <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
 Las actividades de apoyo a la comunidad se desarrollarán por un lapso equivalente a las horas de arresto que correspondan a la infracción que se hubiera cometido. En ningún caso podrán realizarse dentro de la jornada laboral del infractor.
 
@@ -748,6 +822,10 @@ IV. Realización de obras de balizamiento, limpia o reforestación en lugares de
 
 V. Impartición de pláticas a vecinos o educandos de la comunidad en que hubiera cometido la infracción, relacionadas con la convivencia ciudadana o realización de actividades relacionadas con la profesión, oficio u ocupación del infractor.
 
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VII (SIC). Participar en talleres, exposiciones, muestras culturales, artísticas y/o deportivas en espacios públicos que organice la delegación en donde se haya cometido la infracción.
+
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
 ###### Artículo 37.
@@ -770,11 +848,11 @@ En el supuesto de que el infractor no realice las actividades de apoyo a la comu
 
 ### CAPÍTULO I. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 39.
 
-Los procedimientos que se realicen ante los Juzgados, se iniciarán con la presentación del probable infractor por el elemento de policía, con la queja de particulares por la probable comisión de infracciones, o por remisión de otras autoridades que pongan en conocimiento al Juez Cívico hechos presuntamente considerados infracciones a esta Ley y demás ordenamientos aplicables, en caso de ser competente, así lo acordará y continuará con el procedimiento.
+Los procedimientos que se realicen ante los juzgados, se iniciarán con la presentación del probable infractor por el elemento de policía, con la queja de particulares por la probable comisión de infracciones, por la remisión o a solicitud de otras autoridades que pongan en conocimiento al Juez Cívico hechos presuntamente considerados infracciones a esta Ley y demás ordenamientos aplicables, en caso de ser competente, así lo acordará y continuará con el procedimiento.
 
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
@@ -1498,6 +1576,12 @@ El Juez, al iniciar su turno, continuará la tramitación de los asuntos que hay
 
 Los Jueces podrán solicitar a los servidores públicos los datos, informes o documentos sobre asuntos de su competencia, para mejor proveer.
 
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 107 Bis.
+
+En el caso de la infracción establecida en la fracción IX del artículo 25, realizar el requerimiento de información necesaria a las organizaciones públicas o privadas competentes, para identificar al titular de la línea telefónica y su domicilio.
+
 > <small>(REFORMADO, G.O. 23 DE MARZO DE 2017)</small>
 
 ###### Artículo 108.
@@ -1903,3 +1987,23 @@ G.O. 24 DE ABRIL DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- En tanto entre en vigencia la Unidad de Medida y Actualización se entenderá que es la Unidad de Cuenta de la Ciudad de México.
+
+G.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y DE LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL".]
+
+PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- En tanto no entre en vigor la Unidad de Medida y Actualización se utilizara la Unidad de Cuenta vigente en la Ciudad de México.
