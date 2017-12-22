@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2017-11-01"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -688,6 +688,10 @@ Cuando el bien inmueble, sea adquirido por herencia o legados, por el cónyuge s
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 Tratándose de adquisición de casa-habitación tipo interés social, de nueva construcción cuyo valor no exceda de 5,500 veces el valor diario de la Unidad de Medida y Actualización el impuesto se calculará sobre el 10% de la base gravable. En las que el valor sea de 5,501 a 9,500 veces el valor diario de la Unidad de Medida y Actualización el impuesto se calculará sobre el 32% de la base gravable.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+No son sujetos del pago del presente impuesto, las adquisiciones de inmuebles derivadas de programas de regularización de tenencia de la tierra de instituciones federales y estatales.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
 
@@ -1743,15 +1747,25 @@ Por la búsqueda exhaustiva de información pública de los Ayuntamientos o de s
 
 Cuando en esta Ley se tenga fijado el cobro de algún derecho, por la reproducción de materiales que contengan información pública de los Ayuntamientos o de sus entidades públicas, no se aplicará la tarifa que señala este Capítulo.
 
-### CAPITULO I. POR EL ARRENDAMIENTO Y VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+### CAPÍTULO XVI. DERECHOS POR INSPECCIÓN Y VIGILANCIA DE OBRA PÚBLICA DIRECTA
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 90-H.
+
+Por el servicio de verificación, inspección, fiscalización y control que las leyes de la materia encomienden a los organos internos de control de los municipios, y al Congreso del Estado, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, o con sus organismos públicos descentralizados, pagarán un derecho equivalente al 3% sobre el importe de cada una de las estimaciones de trabajo.
+
+La oficina pagadora de los ayuntamientos o de los organismos públicos descentralizados, al hacer el pago de las estimaciones de obra, retendrán el importe del derecho a que se refiere el párrafo anterior y lo deberá enterar a más tardar a los veinte días del mes siguiente al que se hayan efectuado las retenciones correspondientes.
+
+Del monto total de las retenciones efectuadas se destinará una tercera parte a los organos internos de control de los municipios, y las dos teceras (sic) partes restantes al Congreso del Estado, cuyo porcentaje será destinado a la Auditoría Superior del Estado, para el financiamiento de la prestación de los servicios a que refiere este artículo, en los términos de los convenios de colaboración administrativa que celebren para tal efecto.
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE DEPENDAN DEL MUNICIPIO
+### CAPITULO I. POR EL ARRENDAMIENTO Y VENTA DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1767,7 +1781,7 @@ La venta o adjudicación de solares baldíos en los Municipios se regirá por la
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO III. RENDIMIENTO SOBRE INVERSIONES
+### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE DEPENDAN DEL MUNICIPIO
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1815,9 +1829,9 @@ Los ingresos recaudados por el concepto contenido en este capítulo se destinar�
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
-### CAPITULO I. MULTAS
+### CAPITULO III. RENDIMIENTO SOBRE INVERSIONES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 95.
 
@@ -1825,7 +1839,7 @@ Tendrán carácter de productos, los rendimientos obtenidos por las inversiones 
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPITULO II. REINTEGROS
+### CAPITULO I. MULTAS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1841,7 +1855,7 @@ El Tesorero Municipal y las demás autoridades fiscales o a quién deleguen facu
 
 La falta de cumplimiento en el pago de los Impuestos y Derechos, así como las obligaciones previstas en esta Ley deberán ser sancionadas con multas de un tanto del Impuesto o Derecho de que se trate.
 
-### CAPITULO III. REZAGOS
+### CAPITULO II. REINTEGROS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1849,7 +1863,7 @@ La falta de cumplimiento en el pago de los Impuestos y Derechos, así como las o
 
 Con este título se dará entrada en la contabilidad de la Tesorería Municipal, de todos los reintegros que se hagan en el erario municipal, especificando el concepto, incluyendo el pago de la alimentación de los reos del Estado y de la Federación que reintegren los citados Gobiernos, devolución de importes que pagó de más el Municipio, pago de funcionarios municipales quien por error no cobraron correctamente un tributo a un causante y sea irrecuperable de parte de éste y sanciones que se fijen a funcionarios y empleados del Municipio al fincárseles alguna responsabilidad de acuerdo con la Ley.
 
-### CAPITULO IV. RECARGOS
+### CAPITULO III. REZAGOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1857,7 +1871,7 @@ Con este título se dará entrada en la contabilidad de la Tesorería Municipal,
 
 Todos los rezagos o créditos por los impuestos, derechos, productos, aprovechamientos y participaciones causados en años anteriores ingresarán a la Tesorería Municipal debiendo el Tesorero remitir al H. Ayuntamiento en el mes de febrero de cada año, un informe de los créditos activos y de los pasivos del erario municipal liquidados hasta el 31 de diciembre del año anterior y de todas las advertencias y aclaraciones que juzgue conveniente.
 
-### CAPITULO V. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
+### CAPITULO IV. RECARGOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1865,7 +1879,7 @@ Todos los rezagos o créditos por los impuestos, derechos, productos, aprovecham
 
 Por concepto de indemnización al Fisco Municipal, ingresarán recargos por la falta de pago oportuno de los créditos fiscales, la indemnización por insuficiencia de fondos y en los casos de prórroga para el pago de créditos fiscales, en los términos que disponga la presente Ley y demás disposiciones fiscales.
 
-### CAPITULO VI. OTROS APROVECHAMIENTOS
+### CAPITULO V. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1885,7 +1899,7 @@ En ningún caso podrá ser, en total, ni menor del importe de un día de salario
 
 Los gastos a que se refiere el inciso b) de este Artículo, se causarán conforme a la erogación real que realice el Municipio dentro del procedimiento administrativo de ejecución.
 
-### CAPITULO UNICO
+### CAPITULO VI. OTROS APROVECHAMIENTOS
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1919,7 +1933,7 @@ Se constituirán con este título todos aquellos ingresos que a favor del fisco 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 105.
 
@@ -1953,7 +1967,9 @@ f) Pro-Turismo. 6.5%
 
 ## TITULO OCTAVO. INGRESOS EXTRAORDINARIOS
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 106.
 
@@ -1965,7 +1981,7 @@ Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se p
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 107.
 
@@ -1989,7 +2005,7 @@ Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se p
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO III. DE LAS AUTORIDADES FISCALES
+### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
 
 ###### ARTICULO 112.
 
@@ -2033,7 +2049,7 @@ Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se p
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO IV. DE LOS CREDITOS FISCALES
+### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
 ###### ARTICULO 122.
 
@@ -2057,7 +2073,7 @@ Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se p
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO V. DISPOSICIONES DIVERSAS
+### CAPITULO IV. DE LOS CREDITOS FISCALES
 
 ###### ARTICULO 127.
 
@@ -2157,7 +2173,7 @@ Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se p
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
+### CAPITULO V. DISPOSICIONES DIVERSAS
 
 ###### ARTICULO 150.
 
@@ -2229,7 +2245,7 @@ Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se p
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO VII. INFRACCIONES Y SANCIONES
+### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
 
 ###### ARTICULO 167.
 
@@ -2397,7 +2413,7 @@ REMATES
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO VIII. RECURSO DE INCONFORMIDAD
+### CAPITULO VII. INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 205.
 
@@ -2435,9 +2451,7 @@ Las infracciones a los demás reglamentos y disposiciones de los Municipios que 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+### CAPITULO VIII. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 212.
 
@@ -3162,3 +3176,17 @@ La validación de los programas del cuerpo voluntarios de bomberos que realice e
 ###### ARTÍCULO CUARTO.
 
 El Instituto Estatal de Protección Civil deberá expedir los lineamientos para la certificación de los Cuerpos Voluntarios de Bomberos de cada uno de los municipios que cuenten con el mismo, así como los lineamientos financieros y de atención a la población objetivo a que refiere el presente Decreto, a más tardar 90 días naturales, contados a partir de la entrada en vigor del mismo.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 283 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA DEL ESTADO Y A LA LEY DE HACIENDA MUNICIPAL, AMBAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO. La vigencia del presente Decreto iniciará al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa" al 31 de diciembre del año 2018.
+
+SEGUNDO. Lo previsto en el artículo primero del presente Decreto únicamente será aplicable al primer registro catastral, asimismo, el artículo segundo de dicho Decreto, será aplicable a un registro en lo individual derivado de programas de regularización de tenencia de la tierra.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 337 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA EL ARTÍCULO 69 DE LA LEY DE HACIENDA Y ADICIONA UN CAPÍTULO XVI AL TÍTULO TERCERO, CON EL ARTÍCULO 90-H A LA LEY DE HACIENDA MUNICIPAL, AMBAS DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
