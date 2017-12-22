@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2012-01-12"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -95,6 +95,10 @@ XVII. Entidades Federativas. Los estados de la federación y el Distrito Federal
 XVIII. Estado. Los Poderes de la Unión, de las entidades federativas y de los municipios;
 
 XIX. Estímulos Fiscales. Los incentivos otorgados por el Estado a través de beneficios preferentes en el ejercicio de la tributación;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+XIX Bis. Figuras Asociativas. Los ejidos, comunidades y las organizaciones y asociaciones de carácter nacional, estatal, regional, distrital, municipal o comunitario de productores del medio rural, pequeñas unidades de producción y, en su caso, las ramas de producción, que se constituyan o estén constituidas, de conformidad con las leyes vigentes y las demás disposiciones aplicables;
 
 XX. Marginalidad. La definida de acuerdo con los criterios dictados por el Instituto Nacional de Estadística, Geografía e Informática;
 
@@ -560,7 +564,7 @@ XIV. Las demás que se deriven del cumplimiento de esta Ley.
 
 ### CAPÍTULO II. De la Investigación y la Transferencia Tecnológica
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 33.
 
@@ -1512,9 +1516,11 @@ La Secretaría en coordinación con las dependencias y entidades de los gobierno
 
 ### CAPÍTULO XIV. De la Organización Económica y los Sistemas Producto
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 143.
 
-El Gobierno Federal, mediante mecanismos de coordinación, con los gobiernos de las entidades federativas y de los municipios, promoverá y fomentará el desarrollo del capital social en el medio rural a partir del impulso a la asociación y la organización económica y social de los productores y demás agentes de la sociedad rural, quienes tendrán el derecho de asociarse libre, voluntaria y democráticamente, procurando la promoción y articulación de las cadenas de producción-consumo para lograr una vinculación eficiente y equitativa entre los agentes del desarrollo rural sustentable. Lo anterior, dando prioridad a los sectores de población más débiles económica y socialmente y a sus organizaciones, a través de:
+El Gobierno Federal, mediante mecanismos de coordinación, con los gobiernos de las entidades federativas y de los municipios, promoverá y fomentará el desarrollo del capital social en el medio rural a partir del impulso a la asociación y la organización económica y social de los productores y demás agentes de la sociedad rural, quienes tendrán el derecho de asociarse libre, voluntaria y democráticamente, debiendo, las organizaciones que, en su caso, se integren conforme a lo anterior, ser representativas, transparentes y rendir cuentas, con el objetivo de procurar la promoción y articulación de las cadenas de producción-consumo para lograr una vinculación eficiente y equitativa entre los agentes del desarrollo rural sustentable. Lo anterior, dando prioridad a los sectores de población más débiles económica y socialmente y a sus organizaciones, a través de:
 
 I. Habilitación de las organizaciones de la sociedad rural para la capacitación y difusión de los programas oficiales y otros instrumentos de política para el campo;
 
@@ -1552,9 +1558,11 @@ VIII. La promoción, mediante la participación y compromiso de las organizacion
 
 IX. El fortalecimiento de las unidades productivas familiares y grupos de trabajo de las mujeres y jóvenes rurales.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 145.
 
-Se reconocen como formas legales de organización económica y social, las reguladas por la Ley Agraria; las que se regulan en las leyes federales, estatales y del Distrito Federal vigentes, cualquiera que sea su materia.
+Se reconocen como formas legales de organización económica y social, las reguladas por esta Ley, por la Ley Agraria, por la Ley de Organizaciones Ganaderas y por la Ley de Asociaciones Agrícolas; así como las que se regulan en las leyes federales y de las entidades federativas vigentes, cualquiera que sea su materia.
 
 ###### Artículo 146.
 
@@ -1924,6 +1932,10 @@ II. Su contribución a compensar los desequilibrios regionales e internacionales
 
 III. Precisión en cuanto a su naturaleza generalizada o diferenciada por tipo de productor, ubicación geográfica y nivel socioeconómico del beneficiario;
 
+> <small>(ADICIONADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+Para efecto de lo anterior, en las Reglas de Operación de los programas de SAGARPA que integran el Programa Especial Concurrente destinados a la producción de alimentos, se establecerán los apoyos que se asignarán para impulsar preferentemente a los pequeños productores, con el objeto de fomentar el equilibrio entre las regiones y la competitividad del sector;
+
 IV. Atención preferente a la demanda, considerando la inducción necesaria para impulsar el cambio propuesto en el marco de la planeación nacional del desarrollo;
 
 V. La concurrencia de recursos federales, estatales y municipales y de los propios beneficiarios, a fin de asegurar la corresponsabilidad entre el Estado y la sociedad y multiplicar el efecto del gasto público;
@@ -1960,7 +1972,7 @@ México, D.F., a 13 de noviembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Pr
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de diciembre de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O.F. 2 DE FEBRERO DE 2007.
 
@@ -2025,3 +2037,9 @@ D.O.F. 26 DE MAYO DE 2011.
 D.O.F. 12 DE ENERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 3o., 143, 145 Y 191 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
