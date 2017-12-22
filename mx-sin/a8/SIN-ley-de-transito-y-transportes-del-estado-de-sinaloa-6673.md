@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2017-12-20"
+last_updated: "2017-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -309,11 +309,43 @@ II. Presentar los documentos que acrediten la legal tenencia del vehículo con �
 
 III. Aprobar la revisión del sistema electromecánico del vehículo, con el objeto de hacer constar por las autoridades de tránsito que se encuentran satisfechos los requisitos de circulación;
 
-IV. Comprobar que se ha hecho el pago de los impuestos y derechos federales y estatales que sean procedentes; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-V. Comprobar que cuenta con seguro automotriz vigente expedido por compañía autorizada para ello que garantice al menos daños a terceros.
+IV. Comprobar que se ha hecho el pago de los impuestos y derechos federales y estatales que sean procedentes;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V. Comprobar que cuenta con seguro automotriz vigente expedido por compañía autorizada para ello que garantice al menos daños a terceros; y,
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VI. Presentar consulta electrónica del Registro Público Vehicular (REPUVE) en el que conste que el vehículo no cuenta con reporte de robo a la fecha de la solicitud, misma que será verificada por las autoridades de tránsito.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Para el registro de vehículos de procedencia extranjera, además de los requisitos antes precisados, se debe presentar el Certificado de Validación de Pedimento de Importación Definitiva al que se refiere el artículo 34 BIS del presente ordenamiento jurídico. Lo anterior, tratándose de emplacamiento por primera vez en el país o de reemplacamiento, cuando el vehículo tenga placas de otra entidad federativa y pretenda emplacar en el Estado de Sinaloa.
 
 Los vehículos asignados al servicio público de autotransporte deben satisfacer además el pago de los derechos relativos al otorgamiento o revalidación de la concesión o permiso, así como acreditar que se cumple con todas las obligaciones derivadas de dicha concesión o permiso.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 34 BIS.- El Certificado de Validación de Pedimento de Importación Definitiva, es la constancia que expide el Servicio de Administración Tributaria del Estado de Sinaloa a través de la Dirección de Comercio Exterior, en la que se constata la existencia en los registros de la autoridad aduanera del documento que acredita la legal estancia del vehículo en el país.
+
+Para la obtención del Certificado de Validación de Pedimento de Importación Definitiva, además del comprobante que ampare el pago de derechos correspondiente, se debe presentar el formato de solicitud acompañado del pedimento en original y copia simple, así como de la identificación oficial de quien realice el trámite.
+
+Una vez colmados los requisitos, la autoridad competente deberá entregar el Certificado referido en un plazo máximo de 5 días hábiles contados a partir de la fecha en la que la Dirección de Comercio Exterior reciba la solicitud.
+
+El Certificado de Validación de Pedimento de Importación Definitiva, deberá contener lo siguiente:
+
+a) Los datos del pedimento del que se solicita la validación, así como de la persona que presentó la solicitud;
+
+b) La existencia o inexistencia del pedimento en el registro de la autoridad aduanera;
+
+c) La fecha en la que se realizó la búsqueda en los registros de la autoridad aduanera;
+
+d) El nombre y cargo del servidor público que realizó la búsqueda; y,
+
+e) Firma, nombre y cargo de la autoridad competente que emite el certificado.
 
 ###### ARTICULO 35.
 
@@ -2414,3 +2446,105 @@ CUARTO. A más tardar el 31 de diciembre de 2017, el titular del Poder Ejecutivo
 La aplicación del estímulo previsto en el presente artículo transitorio será válida durante todo el ejercicio fiscal del año 2018, independientemente del cobro de las sanciones respectivas derivadas del tiempo en el que se realice el trámite correspondiente, de conformidad con lo previsto en el artículo 49 de la Ley de Hacienda del Estado de Sinaloa.
 
 QUINTO. Durante el Ejercicio Fiscal del año 2018, del monto recaudado por concepto de revalidación anual de tarjeta de circulación y calcomanía de refrendo, serán destinados $160,000, 000.00 (Ciento sesenta millones de pesos 00/100 M.N.) a la partida presupuestal correspondiente al seguro popular y el monto restante a la correspondiente a las pensiones del sector educativo.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 334 POR EL QUE SE EXPIDEN LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA Y LA LEY ORGÁNICA DE LA PROCURADURÍA FISCAL, AMBAS DEL ESTADO DE SINALOA; Y SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, CÓDIGO FISCAL MUNICIPAL, LEY DE HACIENDA, LEY DE COORDINACIÓN FISCAL, LEY DE JUSTICIA ADMINISTRATIVA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, LEY DE TRÁNSITO Y TRANSPORTES, LEY DE PLANEACIÓN, LEY DE AGUA POTABLE Y ALCANTARILLADO, Y LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS, TODOS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de Abril del año 2018, previa su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador Constitucional del Estado de Sinaloa, deberá expedir el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa dentro de los cinco días posteriores a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Gobernador Constitucional del Estado de Sinaloa designará al Director General del Servicio de Administración Tributaria del Estado de Sinaloa conforme a lo previsto en el artículo 17 de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, dentro de los cinco días posteriores a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador Constitucional del Estado de Sinaloa, en su carácter de Presidente Honorario del Órgano Superior de Dirección del Servicio de Administración Tributaria del Estado de Sinaloa, emitirá y publicará en el Periódico Oficial "El Estado de Sinaloa", el Estatuto del Servicio Fiscal de Carrera de dicho organismo, que deberá entrar en vigor el mismo día en que el presente Decreto inicie su vigencia.
+
+Una vez instalado el Órgano Superior de Dirección del Servicio de Administración Tributaria del Estado de Sinaloa, procederá a ratificar el Estatuto del Servicio Fiscal de Carrera del organismo y será el responsable de mantenerlo actualizado, así como analizar y, en su caso, aprobar las reformas que sean sometidas a su consideración por el Director General del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO QUINTO.
+
+Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de Administración y Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Tributaria del Estado de Sinaloa, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior o cualquier otra disposición jurídica que emane de ellos.
+
+###### ARTÍCULO SEXTO.
+
+Toda mención que se haga a la autoridad fiscal o tributaria del estado de Sinaloa en cualquier ordenamiento jurídico o administrativo, federal o estatal, se entenderá hecha al Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que, a la fecha de entrada en vigor de la presente Ley, se encuentren en trámite ante la Procuraduría Fiscal, la Subsecretaría de Ingresos o en cualquier unidad administrativa de la Secretaría de Administración y Finanzas, se seguirán tramitando hasta su total conclusión ante el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Las solicitudes de devolución de cantidades a favor de los contribuyentes que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite ante la Secretaría de Administración y Finanzas, seguirán su trámite ante el Servicio de Administración Tributaria del Estado de Sinaloa, para lo cual dicho órgano desconcentrado en el primer acto de autoridad, requerimiento o aviso relacionado con la solicitud de devolución, notificará al particular la sustitución de autoridad.
+
+Los recursos y juicios interpuestos en contra de actos o resoluciones de la Procuraduría Fiscal del Estado de Sinaloa, la Subsecretaría de Ingresos o de cualquier unidad administrativa de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite y representación de dicha Procuraduría Fiscal, vinculados con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su reglamento o cualquier disposición que emane de ellos, se seguirán tramitando por la citada Procuraduría Fiscal hasta su total conclusión.
+
+###### ARTÍCULO OCTAVO.
+
+Los amparos contra actos o resoluciones de las unidades administrativas adscritas a la Procuraduría Fiscal, la Subsecretaría de Ingresos o cualquier unidad administrativa de la Secretaría de Administración y Finanzas, cuya interposición les sea notificada, con el carácter de autoridad responsable o de tercero interesado, con anterioridad a la entrada en vigor de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, que estén vinculados con la materia objeto de la presente Ley, su reglamento o cualquier disposición que emane de ellos, se seguirán tramitando por la Procuraduría Fiscal del Estado de Sinaloa hasta su total conclusión.
+
+###### ARTÍCULO NOVENO.
+
+Las unidades administrativas que con la emisión de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa resulten competentes, notificarán por escrito a los contribuyentes de la sustitución de autoridad, para tal efecto se estará a lo siguiente:
+
+a) Tratándose del ejercicio de las facultades de comprobación, la autoridad que resulte competente notificará por escrito al contribuyente del cambio de autoridad, así como del aumento o sustitución de auditores, antes de continuar con el desahogo de los procedimientos inherentes al acto de fiscalización.
+
+b) Tratándose de actos distintos a los actos de fiscalización, dicha notificación se entenderá hecha con el primer acuerdo, aviso o respuesta que recaiga al trámite de que se trate, sin que sea necesario emitir un escrito ex profeso para tal efecto.
+
+En todo caso, los actos y resoluciones deberán estar debidamente fundados y motivados conforme al texto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, coordinará las acciones necesarias para que los archivos y expedientes vinculados con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior y cualquier otra disposición jurídica que de ellos emane, pasen a formar parte del inventario del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Para efectos de lo dispuesto en el presente transitorio se deberán realizar las actas de entrega-recepción, con todas las formalidades y requisitos previstos en las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Gobernador Constitucional del Estado de Sinaloa, a través de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, dispondrá lo conducente a fin de que a partir de la entrada en vigor del presente Decreto se lleve a cabo la asignación de los recursos materiales y financieros que requiera el Servicio de Administración Tributaria del Estado de Sinaloa para el correcto ejercicio de las atribuciones objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, conforme a lo dispuesto en la Ley del Servicio de Administración Tributaria del Estado de Sinaloa y del Estatuto del Servicio Fiscal de Carrera, transferirá al personal que formarán parte del Servicio de Administración Tributaria del Estado de Sinaloa, de entre los que se encuentren prestando servicios en las diferentes áreas de la Subsecretaría de Ingresos. Para este objeto, el Servicio de Administración Tributaria del Estado de Sinaloa, proporcionará capacitación al personal que opte por someterse a las pruebas de selección contempladas en el Estatuto del Servicio Fiscal de Carrera.
+
+La asignación de personal que integre el Servicio de Administración Tributaria del Estado de Sinaloa, deberá concluir en un plazo no mayor a un año conforme a lo establecido en el Estatuto del Servicio Fiscal de Carrera. En tanto este proceso no concluya, las áreas o unidades de la Subsecretaría de Ingresos encargadas de las funciones de la administración tributaria del Estado (sic) Sinaloa, deberán seguir desarrollando las mismas en el marco de las facultades que tiene a su cargo y que les otorga la Ley, hasta que sean sustituidas por el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los servidores públicos de base que se encuentran prestando servicios en la Subsecretaría de Ingresos, cuyas atribuciones sean asumidas por el Servicio de Administración Tributaria del Estado de Sinaloa a la entrada en vigor del presente Decreto, en ninguna forma resultarán afectados en los derechos adquiridos con motivo de su relación laboral, conservando ante su transición al nuevo organismo desconcentrado la misma calidad, sus derechos y preservando su antigüedad en los términos de la normatividad aplicable, subrogándose al Servicio de Administración Tributaria del Estado de Sinaloa, como nuevo empleador en todos los derechos y obligaciones derivados de esa relación laboral y aquellos consagrados en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, o en las Condiciones Generales de Trabajo establecidas en el contrato colectivo de trabajo.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se abroga la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa", número 99, de fecha 18 de agosto de 1993, Segunda Sección.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Gobernador Constitucional del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa", el Reglamento de la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, en un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Gobernador Constitucional del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa", las modificaciones necesarias al Reglamento de la Ley de Tránsito y Transportes del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+La recaudación que se obtenga por el pago de los últimos cinco años anteriores a la entrada en vigor del presente Decreto, del Impuesto Sobre Tenencia o Uso de Vehículos a que se refería el Capítulo II de la Ley de Hacienda del Estado de Sinaloa, el 20% será distribuido a los municipios en los términos y para los efectos que establece el Artículo 3° Bis A de la Ley de Coordinación Fiscal del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Las funciones que realizaba la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF) hasta la entrada en vigor del presente Decreto, serán desempeñadas por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, en términos de su Reglamento Interior. Los derechos de los trabajadores serán respetados en la reestructura objeto del presente Decreto.
+
+Los juicios en los que sea parte la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF) hasta la entrada en vigor del presente Decreto, serán competencia de la Secretaría General de Gobierno en términos de lo dispuesto por su Reglamento Interior.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaciones que se estimen pertinentes para efectos de reasignar el presupuesto que a prorrata aportaban para sufragar los gastos de la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF), hasta la entrada en vigor del presente Decreto, de acuerdo con la legislación aplicable.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
