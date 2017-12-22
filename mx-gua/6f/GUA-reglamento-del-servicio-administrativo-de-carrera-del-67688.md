@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-administrativo-de-carrera-del-67688"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-06"
-last_updated: "2015-11-27"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # REGLAMENTO DEL SERVICIO ADMINISTRATIVO DE CARRERA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO -- ANTES REGLAMENTO DEL SERVICIO ADMINISTRATIVO DE CARRERA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO --
 
-REGLAMENTO DEL SERVICIO ADMINISTRATIVO DE CARRERA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
+REGLAMENTO DEL SERVICIO ADMINISTRATIVO DE CARRERA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de marzo de 2009.
 
@@ -31,51 +31,81 @@ CONSIDERANDOS.
 
 Por lo anterior y con fundamento en lo dispuesto por los artículos 16, fracción XII, y 40 de la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato, se expide el siguiente:
 
-REGLAMENTO DEL SERVICIO ADMINISTRATIVO DE CARRERA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+REGLAMENTO DEL SERVICIO ADMINISTRATIVO DE CARRERA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO
 
 ## TÍTULO PRIMERO. Disposiciones generales
 
 ### Capítulo Primero. Generalidades
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de este ordenamiento son de observancia general y tienen por objeto regular el servicio administrativo de carrera de los servidores públicos del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato.
+Las disposiciones de este ordenamiento son de observancia general y tienen por objeto regular el servicio administrativo de carrera de los servidores públicos del Tribunal de Justicia Administrativa del Estado de Guanajuato.
 
 ###### Artículo 2.
 
 Para los efectos de este reglamento se entiende por:
 
-I.- Comisión: La comisión del servicio administrativo de carrera del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-II.- Consejo: El Consejo Administrativo del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+I.- Comisión: La comisión del servicio administrativo de carrera del Tribunal de Justicia Administrativo (sic) del Estado de Guanajuato.
 
-III.- Coordinador: El coordinador de administración y servicio administrativo de carrera del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-IV.- Coordinador de Recursos Humanos: El coordinador de recursos humanos de la dirección administrativa del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+II.- Consejo: El Consejo Administrativo del Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
-V.- Director: El director del instituto de la justicia administrativa del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+III.- Coordinador: El coordinador de administración y servicio administrativo de carrera del Tribunal de Justicia Administrativa del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+IV.- Coordinador de Recursos Humanos: El coordinador de recursos humanos de la dirección administrativa del Tribunal de Justicia Administrativa del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V.- Director: El director del instituto de la justicia administrativa del Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
 VI.- Especialidad: La especialidad en justicia administrativa;
 
-VII.- Eventos académicos: Los cursos, diplomados, conferencias, seminarios, paneles, mesas redondas, congresos y demás actividades análogas que desarrolle, convoque o participe el Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Instituto: El instituto de la justicia administrativa del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+VII.- Eventos académicos: Los cursos, diplomados, conferencias, seminarios, paneles, mesas redondas, congresos y demás actividades análogas que desarrolle, convoque o participe el Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
-IX.- Ley: La Ley Orgánica del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-X.- Presidente: El Presidente del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+VIII.- Instituto: El instituto de la justicia administrativa del Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
-XI.- Reglamento: El reglamento del servicio administrativo de carrera del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-XII.- Reglamento Interior: El reglamento interior del Tribunal de lo Contencioso Administrativo del Estado de Guanajuato;
+IX.- Ley: La Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+X.- Presidente: El Presidente del Tribunal de Justicia Administrativa del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XI.- Reglamento: El reglamento del servicio administrativo de carrera del Tribunal de Justicia Administrativa del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XII.- Reglamento Interior: El reglamento interior del Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
 XIII.- Servicio: El servicio administrativo de carrera; y
 
-XIV.- Tribunal: El Tribunal de lo Contencioso Administrativo del Estado de Guanajuato.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+XIV.- Tribunal: El Tribunal de Justicia Administrativa del Estado de Guanajuato.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 3.
 
-El Servicio es el sistema mediante el cual los servidores públicos del Tribunal, ingresarán, se formarán, podrán ser promovidos, permanecerán y participarán en programas de actualización y desarrollo, en términos de lo dispuesto por el artículo 39 de la Ley y del Reglamento y tendrá por objeto:
+El Servicio es el sistema mediante el cual los servidores públicos del Tribunal, ingresarán, se formarán, podrán ser promovidos, permanecerán y participarán en programas de actualización y desarrollo, en términos de lo dispuesto por el artículo 56 de la Ley y del Reglamento y tendrá por objeto:
 
 I.- Establecer los cargos o puestos del Servicio;
 
@@ -131,9 +161,11 @@ VII.- El Coordinador de Recursos Humanos; y
 
 VIII.- El Jurado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 7.
 
-Al Pleno del Tribunal le corresponde la planeación del Servicio, en términos de lo dispuesto por el artículo 44, fracción VIII del Reglamento Interior.
+Al Pleno del Tribunal le corresponde la planeación del Servicio, en términos de lo dispuesto por el artículo 66, fracción VIII del Reglamento Interior.
 
 ###### Artículo 8.
 
@@ -159,9 +191,13 @@ II.- Proponer al Consejo la integración del jurado para los concursos de oposic
 
 III.-Elaborar los exámenes para los concursos de oposición y proponerlos al Consejo;
 
-IV.- Realizar las entrevistas a que se refiere la fracción III del articulo 17 del Reglamento;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-V.- Llevar a cabo la evaluación a que se refiere la fracción IV del artículo 17 del Reglamento;
+IV. Realizar las entrevistas a que se refiere la fracción III del artículo 17 del Reglamento;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+V. Llevar a cabo la evaluación a que se refiere la fracción IV del artículo 17 del Reglamento;
 
 VI.- Proponer al Consejo los sistemas de promoción y ascenso, con base a los méritos del personal del Servicio;
 
@@ -179,7 +215,9 @@ I.- Formar parte y presidir la Comisión;
 
 II.- Suscribir los nombramientos que otorgue el Consejo; y
 
-III.- Suscribir los convenios a que se refiere la fracción V del articulo 8 del Reglamento, a nombre del Consejo.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+III.- Suscribir los convenios a que se refiere la fracción V del artículo 8 del Reglamento, a nombre del Consejo.
 
 ###### Artículo 11.
 
@@ -227,7 +265,7 @@ I.- Formar parte de la Comisión;
 
 II.- Participar en la elaboración de los exámenes de los concursos de oposición, de ingreso y promoción, así como en la propuesta de la integración del jurado correspondiente;
 
-III.- Verificar el cumplimiento de los requisitos de la .convocatoria y el perfil de los aspirantes a los concursos de oposición, de ingreso y promoción;
+III.- Verificar el cumplimiento de los requisitos de la convocatoria y el perfil de los aspirantes a los concursos de oposición, de ingreso y promoción;
 
 IV.- Integrar el expediente personal de los servidores públicos adscritos al Servicio;
 
@@ -251,9 +289,11 @@ III.- Evaluar el examen a que se refieren las fracciones anteriores, de cuyos re
 
 ### Capítulo Único. De los concursos de oposición y de los nombramientos
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 15.
 
-La celebración y organización de los concursos de oposición para los cargos a que se refiere el articulo 16 del Reglamento, estará a cargo de la Comisión, con el apoyo del Instituto y del Coordinador, eh los términos que determine el Consejo en la convocatoria.
+La celebración y organización de los concursos de oposición para los cargos a que se refiere el artículo 16 del Reglamento, estará a cargo de la Comisión, con el apoyo del Instituto y del Coordinador, en los términos que determine el Consejo en la convocatoria.
 
 Los exámenes de oposición deberán evaluar las habilidades, conocimientos y aptitudes básicas, debiéndose elaborar de forma tal, que los aspirantes demuestren su capacidad para ocupar la plaza vacante.
 
@@ -303,7 +343,9 @@ En el supuesto de que se presente cualquier situación no prevista, la Comisión
 
 La ponderación de los elementos para evaluar a los participantes de los concursos de oposición, se expresará en puntos dentro de una escala de cero a cien, y se integrará otorgando hasta las equivalencias siguientes:
 
-I.- Cincuenta puntos a la calificación obtenida en el examen a que se refiere la fracción II del artículo 17 del Reglamento;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I. Cincuenta puntos a la calificación obtenida en el examen a que se refiere la fracción II del artículo 17 del Reglamento;
 
 II.- Quince puntos a los cursos que se hayan recibido o impartido en el Instituto, en su caso;
 
@@ -354,6 +396,8 @@ Los valores otorgados para los supuestos enumerados en cada uno de los incisos a
 ###### Artículo 20.
 
 En el puntaje total obtenido por cada aspirante a la plaza concursada, no se considerará el otorgamiento de la puntuación correspondiente a la evaluación al desempeño cuando el concursante, siendo servidor público del Tribunal, hubiere sido sancionado mediante procedimiento administrativo disciplinario; o bien, se acredite fehacientemente que no ha cumplido con las metas establecidas en el programa anual de trabajo del Tribunal.
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 21.
 
@@ -419,7 +463,7 @@ El procedimiento de evaluación consistirá en el método por el cual se califiq
 
 Las evaluaciones al desempeño serán instrumentadas por el Consejo, a través de la Comisión, considerando:
 
-I.- .Cumplimiento y desarrollo eficiente de las actividades programadas;
+I.- Cumplimiento y desarrollo eficiente de las actividades programadas;
 
 II.- Asistencia y puntualidad;
 
@@ -548,3 +592,7 @@ P.O. 27 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. EL “ACUERDO DEL PLENO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE GUANAJUATO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LOS ORDENAMIENTOS JURÍDICOS SIGUIENTES: REGLAMENTO PARA LA ENTREGA RECEPCIÓN DE LAS ÁREAS DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO; REGLAMENTO DE LA ESPECIALIDAD EN JUSTICIA ADMINISTRATIVA Y DE LA MAESTRÍA EN JUSTICIA ADMINISTRATIVA; REGLAMENTO DEL SERVICIO ADMINISTRATIVO DE CARRERA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO Y DE LOS LINEAMIENTOS PARA LA UTILIZACIÓN DEL JUICIO EN LÍNEA ANTE EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
