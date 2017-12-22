@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-de-los-municipios-del-6672"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-21"
-last_updated: "2016-12-28"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 21 de marzo de 1984.
 
@@ -47,9 +47,11 @@ LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS DEL ESTADO DE SINALOA
 
 La presente Ley es de observancia general para los Municipios del Estado de Sinaloa y sus Instituciones y Organismos que forman la administración Pública Paramunicipal, a los que en lo sucesivo se les identificará como Entidades Públicas Municipales.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 2.
 
-Para los efectos de esta Ley, la relación jurídica de trabajo se entienda entre las Entidades Públicas Municipales y los trabajadores de base que les presten servicios.
+Para los efectos de esta Ley, la relación jurídica de trabajo se entenderá entre las Entidades Públicas Municipales y los trabajadores de base que les presten servicios.
 
 ###### ARTICULO 3.
 
@@ -101,7 +103,9 @@ Son trabajadores de confianza los Secretarios de los Ayuntamientos, los Oficiale
 
 En los organismos descentralizados municipales, los Directores, Sub-Directores, Gerentes, Tesoreros, Administradores, Pagadores y en general los que dispongan las Leyes o Reglamentos que rijan al organismo de que se trate.
 
-La anterior clasificación es meramente anunciativa (sic) más no limitativa, pues también se consideran trabajadores de confianza a todos aquellos que desempeñen funciones en dirección, inspección, vigilancia y fiscalización cuando tengan carácter general y las que se relacionen con trabajos particulares de los titulares de las Entidades Públicas Municipales.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+La anterior clasificación es meramente enunciativa más no limitativa, pues también se consideran trabajadores de confianza a todos aquellos que desempeñen funciones en dirección, inspección, vigilancia y fiscalización cuando tengan carácter general y las que se relacionen con trabajadores particulares de los titulares de las Entidades Públicas Municipales.
 
 ###### ARTICULO 9.
 
@@ -287,6 +291,8 @@ Todo convenio o liquidación para ser válido, deberá hacerse por escrito y con
 
 Son obligaciones del trabajador:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 I.- Desempeñar sus labores con la intensidad, cuidado y esmero apropiados en el lugar, condiciones de tiempo y forma, sujetándose a la dirección de sus superiores jerárquicos, observando las disposiciones reglamentarias correspondientes, los manuales de organización, de procedimientos y de servicios públicos y demás disposiciones orgánicas que se dicten y cumplir con las obligaciones que les impongan las condiciones generales de trabajo;
 
 II.- Asistir puntualmente a sus labores de acuerdo con los horarios correspondientes;
@@ -385,7 +391,9 @@ IV.- El arresto del trabajador;
 
 V.- El cumplimiento de los servicios y el desempeño de los cargos mencionados en los artículos 5o. y el de las obligaciones consignadas en el 31, fracción III, de la Constitución Política de los Estados Unidos Mexicanos; y,
 
-VI.- La (sic) demás que prevengan las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VI.- Las demás que prevengan las leyes y reglamentos.
 
 ###### ARTICULO 41.
 
@@ -487,6 +495,8 @@ I.- Los conocimientos, traducidos en los principios teóricos, prácticos o tít
 
 II.- La aptitud, iniciativa, laboriosidad y la eficacia para efectuar una actividad determinada;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 III.- La antigüedad en el servicio prestado; y,
 
 IV.- La disciplina y puntualidad.
@@ -509,9 +519,11 @@ Los Ayuntamientos proporcionarán a la Comisión Mixta de Escalafón los medios 
 
 Las facultades, obligaciones, atribuciones, procedimientos y derechos de las Comisiones Mixtas de Escalafón en su caso, quedarán especificados en los reglamentos y convenios, sin contravenir lo preceptuado en esta Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 54.
 
-Los titulares de las Entidades Públicas Mpales., (sic) les darán a conocer a la Comisión Mixta de Escalafón las vacantes que se presenten, dentro de los diez días siguientes en que se dicte el aviso de baja o se apruebe la creación de plazas.
+Los titulares de las entidades públicas municipales, les darán a conocer a la Comisión Mixta de Escalafón las vacantes que se presenten, dentro de los diez días siguientes en que se dicte el aviso de baja o se apruebe la creación de plazas.
 
 Al tener conocimiento de las vacantes, la Comisión Mixta de Escalafón procederá, desde luego, convocar a concurso entre los trabajadores de la categoría inmediata inferior, mediante circulares o boletines que se fijarán en lugares visibles de los centros de trabajo correspondiente.
 
@@ -531,7 +543,9 @@ Cuando se trate de vacantes temporales que no excedan de seis meses no se mover�
 
 Las vacantes temporales mayores de seis meses, serán las que se originen por incapacidad o licencia sin goce de sueldo, otorgadas a un trabajador de base para desempeñar puestos de confianza, comisiones sindicales o cargo de elección popular.
 
-Las vacastes (sic) temporales mayores de seis meses serán ocupadas por escalafón, pero los trabajadores ascendidos serán nombrados en todo caso con el carácter de provisionales, de tal modo que si quien disfrute de incapacidad o licencia reingrese al servicio, automáticamente se correrá en forma inversa el escalafón sin responsabilidad para las Entidades Públicas Municipales.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+Las vacantes temporales mayores de seis meses serán ocupadas por escalafón, pero los trabajadores ascendidos serán nombrados en todo caso con el carácter de provisionales, de tal modo que si quien disfrute de incapacidad o licencia reingrese al servicio, automáticamente se correrá en forma inversa el escalafón sin responsabilidad para las entidades públicas municipales.
 
 ## TITULO SEXTO. DE LOS RIESGOS DEL TRABAJO
 
@@ -659,7 +673,9 @@ V.- La indicación del lugar en que puedan obtenerse las pruebas que el reclaman
 
 En la demanda se ofrecerán y acompañarán las pruebas de que disponga y los documentos que acrediten la personalidad del representante, en su caso.
 
-El Tribunal dentro de las setenta y dos horas siguientes contadas a partir del momento en que se reciba la demanda dictará el auto de radicación, en el que ordenará se emplaze (sic) a la parte demandada dentro de los cinco días posteriores, apercibiéndosele que de no contestar la demanda dentro del término que señale el artículo siguiente o de resultar mal representada (sic), la misma se tendrá por contestada en sentido afirmativo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+El Tribunal dentro de las setenta y dos horas siguientes contadas a partir del momento en que se reciba la demanda, dictará el auto de radicación, en el que ordenará se emplace a la parte demandada dentro de los cinco días posteriores, apercibiéndosele que de no contestar la demanda dentro del término que señale el artículo siguiente o de resultar mal representada, la misma se tendrá por contestada en sentido afirmativo.
 
 ###### ARTICULO 72.
 
@@ -773,17 +789,25 @@ El Presidente del Tribunal podrá habilitar las horas y días inhábiles para qu
 
 Los miembros del Tribunal podrán ser recusados por las siguientes causas:
 
-I.- El parentezco (sic) por consanguinidad, dentro del cuarto grado o el de afinidad dentro del segundo con el trabajador;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-II.- El mismo parentezco (sic), dentro del segundo grado, con el representante legal del trabajador;
+I.- El parentesco por consanguinidad, dentro del cuarto grado o el de afinidad dentro del segundo con el trabajador;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II.- El mismo parentesco, dentro del segundo grado, con el representante legal del trabajador;
 
 III.- Ser o haber sido denunciante o acusador privado del trabajador;
 
 IV.- Seguir proceso con el trabajador, o ser un apoderado legal;
 
-V.- Ser socio, arrendatario, patrón o dependen (sic) económicamente del trabajador; y,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-VI.- Ser deudor, acreedor, heredero o legatario del trabajador;
+V.- Ser socio arrendatario, patrón o dependiente económico del trabajador; y,
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+VI.- Ser deudor, acreedor, heredero o legatario del trabajador.
 
 Los miembros del tribunal deberán excusarse del conocimiento del negocio cuando concurra alguna de las causas señaladas.
 
@@ -877,9 +901,13 @@ Las Entidades Públicas Municipales no podrán aceptar en ningún caso la cláus
 
 Son obligaciones de los sindicatos:
 
-I.- Proporcionar los informes que en base a esta Ley solicite el tribunal;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
 
-II.- Comunicar al tribunal dentro de los diez días siguientes a cada elección, los cambios que ocurrieren en su comité ejecutivo, las altas y bajas de sus miembros, y las modificaciones que sufran los estatutos, para lo cual acompañarán por duplicado copia autorizada de las actas respectivas; y,
+I.- Proporcionar los informes que con base a esta Ley solicite el Tribunal;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II.- Comunicar al Tribunal dentro de los diez días siguientes a cada elección, los cambios que ocurrieren en su comité ejecutivo, las altas y bajas de sus miembros, y las modificaciones que sufran los estatutos, para lo cual acompañarán por duplicado copia autorizada de las actas respectivas;
 
 III.- Facilitar la labor del tribunal en los conflictos que se ventilen ante el mismo, ya sea del sindicato o de sus miembros, proporcionándole la cooperación que le soliciten; y,
 
@@ -945,7 +973,9 @@ La huelga general sólo puede ser motivada por cualquiera de las causas siguient
 
 I.- Por falta de pago de salarios consecutivos correspondientes a un mes de trabajo, salvo el caso de fuerza mayor que calificará el tribunal competente, mediante el estudio que verifique de las pruebas aportadas por las partes;
 
-II.- Por que (sic) la política general del Ayuntamiento respectivo, sea contraria a los derechos fundamentales que esta Ley concede a los trabajadores, debiendo en tal caso la coalición, hacer la comprobación respectiva ante el Tribunal; y,
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+II.- Porque la política general del Ayuntamiento respectivo, sea contraria a los derechos fundamentales que esta Ley concede a los trabajadores, debiendo en tal caso la coalición, hacer la comprobación respetiva ante el Tribunal; y,
 
 III.- Por negarse el Presidente Municipal a discutir los pliegos de peticiones que se formulen y a conceder las prestaciones que se soliciten en el mismo, de resultar procedentes, dentro del término de diez días de su presentación.
 
@@ -1021,7 +1051,9 @@ En tanto no se declare ilegal, ilícita, inexistente o terminado el estado de hu
 
 La huelga terminará:
 
-I.- Por aveniencia entre las partes en conflicto;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
+I.- Por avenencia entre las partes en conflicto;
 
 II.- Por resolución de la asamblea de trabajadores tomada por la mayoría de los miembros;
 
@@ -1154,3 +1186,105 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO. 334 POR EL QUE SE EXPIDEN LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA Y LA LEY ORGÁNICA DE LA PROCURADURÍA FISCAL, AMBAS DEL ESTADO DE SINALOA; Y SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL, CÓDIGO FISCAL MUNICIPAL, LEY DE HACIENDA, LEY DE COORDINACIÓN FISCAL, LEY DE JUSTICIA ADMINISTRATIVA, LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, LEY DE TRÁNSITO Y TRANSPORTES, LEY DE PLANEACIÓN, LEY DE AGUA POTABLE Y ALCANTARILLADO, Y LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS MUNICIPIOS, TODOS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de Abril del año 2018, previa su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador Constitucional del Estado de Sinaloa, deberá expedir el Reglamento Interior del Servicio de Administración Tributaria del Estado de Sinaloa dentro de los cinco días posteriores a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Gobernador Constitucional del Estado de Sinaloa designará al Director General del Servicio de Administración Tributaria del Estado de Sinaloa conforme a lo previsto en el artículo 17 de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, dentro de los cinco días posteriores a la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador Constitucional del Estado de Sinaloa, en su carácter de Presidente Honorario del Órgano Superior de Dirección del Servicio de Administración Tributaria del Estado de Sinaloa, emitirá y publicará en el Periódico Oficial "El Estado de Sinaloa", el Estatuto del Servicio Fiscal de Carrera de dicho organismo, que deberá entrar en vigor el mismo día en que el presente Decreto inicie su vigencia.
+
+Una vez instalado el Órgano Superior de Dirección del Servicio de Administración Tributaria del Estado de Sinaloa, procederá a ratificar el Estatuto del Servicio Fiscal de Carrera del organismo y será el responsable de mantenerlo actualizado, así como analizar y, en su caso, aprobar las reformas que sean sometidas a su consideración por el Director General del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO QUINTO.
+
+Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de Administración y Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Tributaria del Estado de Sinaloa, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior o cualquier otra disposición jurídica que emane de ellos.
+
+###### ARTÍCULO SEXTO.
+
+Toda mención que se haga a la autoridad fiscal o tributaria del estado de Sinaloa en cualquier ordenamiento jurídico o administrativo, federal o estatal, se entenderá hecha al Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos que, a la fecha de entrada en vigor de la presente Ley, se encuentren en trámite ante la Procuraduría Fiscal, la Subsecretaría de Ingresos o en cualquier unidad administrativa de la Secretaría de Administración y Finanzas, se seguirán tramitando hasta su total conclusión ante el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Las solicitudes de devolución de cantidades a favor de los contribuyentes que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite ante la Secretaría de Administración y Finanzas, seguirán su trámite ante el Servicio de Administración Tributaria del Estado de Sinaloa, para lo cual dicho órgano desconcentrado en el primer acto de autoridad, requerimiento o aviso relacionado con la solicitud de devolución, notificará al particular la sustitución de autoridad.
+
+Los recursos y juicios interpuestos en contra de actos o resoluciones de la Procuraduría Fiscal del Estado de Sinaloa, la Subsecretaría de Ingresos o de cualquier unidad administrativa de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, que a la fecha de entrada en vigor del presente Decreto, se encuentren en trámite y representación de dicha Procuraduría Fiscal, vinculados con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su reglamento o cualquier disposición que emane de ellos, se seguirán tramitando por la citada Procuraduría Fiscal hasta su total conclusión.
+
+###### ARTÍCULO OCTAVO.
+
+Los amparos contra actos o resoluciones de las unidades administrativas adscritas a la Procuraduría Fiscal, la Subsecretaría de Ingresos o cualquier unidad administrativa de la Secretaría de Administración y Finanzas, cuya interposición les sea notificada, con el carácter de autoridad responsable o de tercero interesado, con anterioridad a la entrada en vigor de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, que estén vinculados con la materia objeto de la presente Ley, su reglamento o cualquier disposición que emane de ellos, se seguirán tramitando por la Procuraduría Fiscal del Estado de Sinaloa hasta su total conclusión.
+
+###### ARTÍCULO NOVENO.
+
+Las unidades administrativas que con la emisión de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa resulten competentes, notificarán por escrito a los contribuyentes de la sustitución de autoridad, para tal efecto se estará a lo siguiente:
+
+a) Tratándose del ejercicio de las facultades de comprobación, la autoridad que resulte competente notificará por escrito al contribuyente del cambio de autoridad, así como del aumento o sustitución de auditores, antes de continuar con el desahogo de los procedimientos inherentes al acto de fiscalización.
+
+b) Tratándose de actos distintos a los actos de fiscalización, dicha notificación se entenderá hecha con el primer acuerdo, aviso o respuesta que recaiga al trámite de que se trate, sin que sea necesario emitir un escrito ex profeso para tal efecto.
+
+En todo caso, los actos y resoluciones deberán estar debidamente fundados y motivados conforme al texto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, coordinará las acciones necesarias para que los archivos y expedientes vinculados con la materia objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa, su Reglamento Interior y cualquier otra disposición jurídica que de ellos emane, pasen a formar parte del inventario del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+Para efectos de lo dispuesto en el presente transitorio se deberán realizar las actas de entrega-recepción, con todas las formalidades y requisitos previstos en las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Gobernador Constitucional del Estado de Sinaloa, a través de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, dispondrá lo conducente a fin de que a partir de la entrada en vigor del presente Decreto se lleve a cabo la asignación de los recursos materiales y financieros que requiera el Servicio de Administración Tributaria del Estado de Sinaloa para el correcto ejercicio de las atribuciones objeto de la Ley del Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, conforme a lo dispuesto en la Ley del Servicio de Administración Tributaria del Estado de Sinaloa y del Estatuto del Servicio Fiscal de Carrera, transferirá al personal que formarán (sic) parte del Servicio de Administración Tributaria del Estado de Sinaloa, de entre los que se encuentren prestando servicios en las diferentes áreas de la Subsecretaría de Ingresos. Para este objeto, el Servicio de Administración Tributaria del Estado de Sinaloa, proporcionará capacitación al personal que opte por someterse a las pruebas de selección contempladas en el Estatuto del Servicio Fiscal de Carrera.
+
+La asignación de personal que integre el Servicio de Administración Tributaria del Estado de Sinaloa, deberá concluir en un plazo no mayor a un año conforme a lo establecido en el Estatuto del Servicio Fiscal de Carrera. En tanto este proceso no concluya, las áreas o unidades de la Subsecretaría de Ingresos encargadas de las funciones de la administración tributaria del Estado (sic) Sinaloa, deberán seguir desarrollando las mismas en el marco de las facultades que tiene a su cargo y que les otorga la Ley, hasta que sean sustituidas por el Servicio de Administración Tributaria del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los servidores públicos de base que se encuentran prestando servicios en la Subsecretaría de Ingresos, cuyas atribuciones sean asumidas por el Servicio de Administración Tributaria del Estado de Sinaloa a la entrada en vigor del presente Decreto, en ninguna forma resultarán afectados en los derechos adquiridos con motivo de su relación laboral, conservando ante su transición al nuevo organismo desconcentrado la misma calidad, sus derechos y preservando su antigüedad en los términos de la normatividad aplicable, subrogándose al Servicio de Administración Tributaria del Estado de Sinaloa, como nuevo empleador en todos los derechos y obligaciones derivados de esa relación laboral y aquellos consagrados en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria, o en las Condiciones Generales de Trabajo establecidas en el contrato colectivo de trabajo.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se abroga la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa", número 99, de fecha 18 de agosto de 1993, Segunda Sección.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Gobernador Constitucional del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa", el Reglamento de la Ley Orgánica de la Procuraduría Fiscal del Estado de Sinaloa, en un plazo no mayor a 90 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, el Gobernador Constitucional del Estado de Sinaloa, deberá expedir y publicar en el Periódico Oficial "El Estado de Sinaloa", las modificaciones necesarias al Reglamento de la Ley de Tránsito y Transportes del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+La recaudación que se obtenga por el pago de los últimos cinco años anteriores a la entrada en vigor del presente Decreto, del Impuesto Sobre Tenencia o Uso de Vehículos a que se refería el Capítulo II de la Ley de Hacienda del Estado de Sinaloa, el 20% será distribuido a los municipios en los términos y para los efectos que establece el Artículo 3° Bis A de la Ley de Coordinación Fiscal del Estado de Sinaloa.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Las funciones que realizaba la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF) hasta la entrada en vigor del presente Decreto, serán desempeñadas por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, en términos de su Reglamento Interior. Los derechos de los trabajadores serán respetados en la reestructura objeto del presente Decreto.
+
+Los juicios en los que sea parte la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF) hasta la entrada en vigor del presente Decreto, serán competencia de la Secretaría General de Gobierno en términos de lo dispuesto por su Reglamento Interior.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Gobierno del Estado de Sinaloa y los Municipios deberán hacer las modificaciones que se estimen pertinentes para efectos de reasignar el presupuesto que a prorrata aportaban para sufragar los gastos de la Comisión Coordinadora de Capacitación y Asesoría Fiscal (COCCAF), hasta la entrada en vigor del presente Decreto, de acuerdo con la legislación aplicable.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
