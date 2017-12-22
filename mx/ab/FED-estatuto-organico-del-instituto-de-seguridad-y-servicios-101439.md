@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-101439
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-18"
-last_updated: "2014-06-18"
+last_updated: "2017-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101439&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,23 +19,21 @@ issue_date: "2014-06-04"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
+LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2017.
 
-Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 18 de junio de 2014.
+Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 29 de abril del 2005.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.- Secretaría General.- Prosecretaría de la Junta Directiva.- SG/SJD/0495/2014.
+EL C. ENRIQUE MARTÍNEZ Y MARTÍNEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
-Lic. Sebastián Lerdo de Tejada C.
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
-Director General del Instituto.
+DECRETA:
 
-Presente.
+NÚMERO 369.-
 
-En sesión ordinaria celebrada por la Junta Directiva, el día 29 de abril de 2014, al tratarse lo relativo a la aprobación del Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, se tomó el siguiente:
-
-ACUERDO 57.1344.2014.- “La Junta Directiva, con fundamento en los artículos 214, fracción VI de la Ley del ISSSTE; 58, fracción VIII de la Ley Federal de las Entidades Paraestatales; y 13, fracción I, del Estatuto Orgánico del Instituto, aprueba, por unanimidad, el siguiente acuerdo:
+LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ###### ARTÍCULO PRIMERO.
 
@@ -45,27 +43,29 @@ Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabaj
 
 ÍNDICE
 
-## TÍTULO PRIMERO. Disposiciones Generales
+## TÍTULO PRIMERO
 
-## TÍTULO SEGUNDO. De los órganos de gobierno
+## TÍTULO SEGUNDO. LOS PRINCIPIOS DEL DESARROLLO CULTURAL
 
-### CAPÍTULO PRIMERO. De la Junta Directiva
+### CAPÍTULO ÚNICO. BASES NORMATIVAS
 
-### CAPÍTULO SEGUNDO. Del Director General
+### CAPÍTULO PRIMERO. EL DERECHO FUNDAMENTAL A LA CULTURA
 
-### CAPÍTULO TERCERO. De la Comisión Ejecutiva del Fondo de la Vivienda
+### CAPÍTULO SEGUNDO. EL GARANTISMO CULTURAL
 
-### CAPÍTULO CUARTO. De la Comisión Ejecutiva del Fondo Nacional de Pensiones
+### CAPÍTULO TERCERO. LA POLÍTICA CULTURAL
 
-### CAPÍTULO QUINTO. De la Comisión de Vigilancia
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-## TÍTULO TERCERO. De la Secretaría General y de las Unidades Administrativas Centrales y Desconcentradas
+### CAPÍTULO CUARTO. LA ACCIÓN CULTURAL Y ARTÍSTICA
 
-### CAPÍTULO PRIMERO. Disposiciones Generales
+## TÍTULO TERCERO. EL PATRIMONIO CULTURAL
 
-### CAPÍTULO SEGUNDO. De la Secretaría General
+### CAPÍTULO QUINTO. LA INTERPRETACIÓN MÁS FAVORABLE DEL DERECHO A LA CULTURA
 
-### CAPÍTULO TERCERO. De las Unidades Administrativas Centrales
+### CAPÍTULO PRIMERO. REGLAS GENERALES
+
+### CAPÍTULO SEGUNDO. LA DECLARATORIA DE ZONA PROTEGIDA
 
 #### SECCIÓN PRIMERA. De la Dirección Jurídica
 
@@ -83,7 +83,7 @@ Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabaj
 
 #### SECCIÓN OCTAVA. De la Dirección de Comunicación Social
 
-### CAPÍTULO CUARTO. De las Unidades Administrativas Desconcentradas
+### CAPÍTULO TERCERO. EL COMITÉ DEL PATRIMONIO CULTURAL DEL ESTADO
 
 #### SECCIÓN PRIMERA. Del FOVISSSTE
 
@@ -101,157 +101,549 @@ Estatuto Orgánico del Instituto de Seguridad y Servicios Sociales de los Trabaj
 
 #### SECCIÓN OCTAVA. De la Escuela Nacional de Enfermería e Investigación
 
-## TÍTULO CUARTO. Del Desarrollo Institucional y el Control Interno
+## TITULO CUARTO. DE LAS FUNCIONES DE LA SECRETARÍA EN EL DESARROLLO CULTURAL
 
-### CAPÍTULO PRIMERO. De la Unidad de Desarrollo Institucional
+### CAPÍTULO CUARTO. EL REGISTRO DEL PATRIMONIO CULTURAL
 
-### CAPÍTULO SEGUNDO. De los Órganos Internos de Control
+### CAPÍTULO QUINTO. LOS ÓRGANOS COADYUVANTES
 
-## TÍTULO QUINTO. De otros Órganos Institucionales
+## TÍTULO QUINTO.
 
-### CAPÍTULO PRIMERO. Del Consejo Asesor Científico y Médico
+EL CONSEJO DE CULTURA.
 
-### CAPÍTULO SEGUNDO. Del Comité de Bioética
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2013)</small>
 
-### CAPÍTULO TERCERO. Del Comité de Evaluación y Seguimiento de los Servicios de Salud
+### CAPÍTULO SEXTO. LA PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO CUARTO. Del Comité de Abasto de Medicamentos
+### CAPÍTULO SÉPTIMO. LA PROTECCIÓN DEL RÉGIMEN ESPECIAL DEL PATRIMONIO CULTURAL
 
-### CAPÍTULO QUINTO. Del Comité de Inversiones del Instituto
+### CAPÍTULO OCTAVO. LAS FALTAS ADMINISTRATIVAS
 
-### CAPÍTULO SEXTO. Del Comité de Información
+### CAPÍTULO PRIMERO. BASES GENERALES
+
+###### ARTÍCULO 101.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 102.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 103.
+
+LA SECRETARÍA EN EL MARCO DE LA POLÍTICA CULTURAL. La Secretaría es la dependencia de la Administración Pública centralizada, encargada de diseñar la política cultural del Estado en los términos de esta ley.
+
+Para efectos del párrafo anterior, la Secretaría realizará diagnósticos y evaluaciones periódicas e instrumentará mecanismos específicos de consulta a los participantes en la actividad cultural y artística y elaborará un informe anual sobre los resultados de las acciones del Estado en materia de política cultural.
+
+###### ARTÍCULO 104.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 105.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 106.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 107.
+
+LA SECRETARÍA COMO ENCARGADA DE LAS DEPENDENCIAS QUE CONTRIBUYAN AL DESARROLLO CULTURAL. La Secretaría es la dependencia a través del cual se establecen, mantienen y fortalecen las relaciones con otros organismos e instancias de carácter cultural de los tres ámbitos de gobierno, además de los sectores educativo y científico, que desarrollen programas culturales sin menoscabo de la autoridad de éstos en las áreas de su propia competencia.
+
+El Instituto tiene a su cargo la dirección, operación y administración de las dependencias e instalaciones que, para el cumplimiento de su objeto, le sean asignadas a efecto de contribuir a la preservación del patrimonio cultural, histórico, artístico, paleontológico, arqueológico y arquitectónico en los términos de la legislación aplicable.
+
+###### ARTÍCULO 108.
+
+EL INSTITUTO COMO ENCARGADO DE LAS DEPENDENCIAS QUE CONTRIBUYAN AL DESARROLLO CULTURAL. El Instituto tiene a su cargo la dirección, operación y administración de las dependencias e instalaciones que, para el cumplimiento de su objeto, le sean asignadas a efecto de contribuir a la preservación del patrimonio cultural, histórico, artístico, paleontológico, arqueológico y arquitectónico en los términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 109.
+
+INFRAESTRUCTURA CULTURAL DE LA SECRETARÍA. Forman parte de la estructura orgánica y administrativa de la Secretaría, las siguientes entidades.
+
+I. Casa de la Cultura de Parras de la Fuente.
+
+II. Casa de la Cultura de Piedras Negras.
+
+III. Casa de la Cultura de Saltillo.
+
+IV. Casa de la Cultura de Guerrero.
+
+V. Casa de la Cultura de Frontera.
+
+VI. Casa de la Cultura de Viesca.
+
+VII. Centro de Iniciación Artística Pilar Rioja, en Torreón.
+
+VIII. Centro de las Artes Laguna, en Torreón.
+
+IX. Centro de las Artes en Saltillo.
+
+X. Centro Cultural y de Bellas Artes Santa Anita, en Saltillo.
+
+XI. Teatro de la Ciudad Fernando Soler, en Saltillo.
+
+XII. Museo Coahuila y Texas, en Monclova.
+
+XIII. Museo Venustiano Carranza de Cuatro Ciénegas.
+
+XIV. Museo de la Revolución, en Saltillo.
+
+XV. Museo de los Presidentes Coahuilenses, en Saltillo.
+
+XVI. Museo del Sarape y Trajes mexicanos, en Saltillo.
+
+XVII. Museo Taurino, en Saltillo.
+
+XVIII. Museo de las Artes Gráficas, en Saltillo.
+
+XIX. Museo de la Revolución, en Torreón.
+
+XX. Museo Salas Carranza, en Saltillo.
+
+XXI. Museo de las Momias, en Arteaga.
+
+XXII. Museo del Normalismo, en Saltillo.
+
+XXIII. Museo Francisco Villa, en Sabinas.
+
+XXIV. Museo del Palacio, en Saltillo.
+
+XXV. Escuela de Danza.
+
+Las demás que el Estado le transfiera, determine o asigne.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 110.
+
+ESTRUCTURA ORGÁNICA. Pertenecen a la estructura orgánica de la Secretaría:
+
+1. La Banda de Música del Estado.
+
+2. Los Coros de Saltillo y Torreón.
+
+3. La Escuela de Danza de Saltillo.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+4. La Orquesta Filarmónica del Desierto.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+5. El Coro Infantil.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 111.
+
+LAS FUNCIONES DE LA SECRETARÍA. Para el cumplimiento de sus objetivos, la Secretaría tiene las siguientes funciones:
+
+I. Promover, mediante la cultura, el desarrollo integral de los coahuilenses.
+
+II. Coordinar y apoyar a las dependencias y entidades federales, estatales y municipales en la realización de actividades culturales que se efectúen en el Estado.
+
+III. Celebrar y promover acciones interdisciplinarias y de coordinación institucional con las autoridades federales, así como con las de diversos estados.
+
+IV. Llevar a cabo eventos de difusión e intercambio cultural.
+
+V. Fomentar la investigación y difusión de las artes en sus distintas manifestaciones.
+
+VI. Investigar, difundir, preservar y fomentar culturas populares para impulsar y alentar su desarrollo.
+
+VII. Fomentar la creación y difusión literarias en todos sus géneros.
+
+VIII. Ejercer las acciones correspondientes a la preservación del patrimonio cultural del Estado.
+
+IX. Fomentar la capacitación y profesionalización cultural y artística de la sociedad civil.
+
+X. Realizar estudios e investigaciones y demás actividades tendientes a incrementar el acervo cultural en todas sus áreas.
+
+XI. Convocar a concursos en las diversas manifestaciones culturales y artísticas a efecto de alentar la participación democrática de los coahuilenses.
+
+XII. Promover publicaciones, grabaciones, filmaciones y, en general, cualquier material para el registro y divulgación, así como la organización de eventos relacionados con sus fines.
+
+XIII. Promover, coordinar y realizar actos de reconocimiento a aquellos coahuilenses o mexicanos que hayan contribuido y contribuyan al desarrollo artístico y cultural del Estado, de la nación o de la comunidad internacional y otorgar los estímulos necesarios para fomentar e impulsar su desarrollo.
+
+XIV. Expedir constancias, certificados y diplomas, como reconocimiento de la enseñanza que imparta, en los términos que señale la legislación aplicable, procurando la validación oficial de las instituciones federales y estatales en el campo de la educación artística formal e informal.
+
+XV. Adquirir, usufructuar, administrar, conservar y operar los bienes muebles e inmuebles destinados al cumplimiento de su objeto.
+
+XVI.- Coordinar y fomentar la creación de nuevos espacios de desarrollo cultural: museos, teatros, centros de investigación artística, casas de cultura, galerías y librerías.
+
+XVII. Promover la realización de festivales, encuentros y reuniones regionales, nacionales e internacionales en materia cultural y artística.
+
+XVIII. Utilizar los medios de comunicación del Gobierno del Estado, así como aquellos que se consideren pertinentes para el desarrollo, difusión y fomento de la cultura.
+
+XIX. Administrar los recursos y presupuestos que le sean asignados.
+
+XX. Ejecutar, celebrar y suscribir contratos, convenios, y toda clase de actos jurídicos relacionados con su objeto; y
+
+XXI. En general, todas aquellas necesarias para el cumplimiento de sus objetivos y funciones que se señalen en la presente ley y las que le confieran otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 112.
+
+LA SECRETARÍA EN EL DESARROLLO CULTURAL. La Secretaría tendrá facultades para elaborar y, en su caso, supervisar y autorizar anualmente los anexos y expedientes técnicos de los convenios estatales de desarrollo, para todos aquellos capítulos relacionados con la cultura en los aspectos de equipamiento, proyectos especiales, promoción, fomento y construcción de obra pública destinada al servicio cultural, así como para la restauración de obras artísticas y del patrimonio arquitectónico e histórico del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 113.
+
+LA SECRETARÍA COMO GUARDIÁN DE LOS BIENES CULTURALES. La Secretaría establecerá y mantendrá activo el registro e inventario de bienes y recursos culturales del estado.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 114.
+
+LA SECRETARÍA COMO ENTIDAD NORMATIVA. La Secretaría es la entidad normativa técnica en materia de educación cultural y artística en el estado, en estrecha coordinación y vinculación con las autoridades federales y estatales correspondientes, con las instituciones de educación superior del estado y del país y con todas las instancias nacionales e internacionales, cuyos objetivos sean afines.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 115.
+
+LA SECRETARÍA COMO PROMOTOR DEL DESARROLLO CULTURAL. La Secretaría llevará a cabo acciones que, conforme a sus programas y partidas presupuestales aprobadas, tiendan a otorgar reconocimientos, estímulos y becas que impulsen el desarrollo cultural.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 116.
+
+LA SECRETARÍA COMO PROMOTORA DE LA IDENTIDAD. La Secretaría promoverá la difusión de tradiciones y valores estatales, regionales y nacionales que fortalezcan la identidad como coahuilenses y como mexicanos.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPÍTULO SEGUNDO. LOS ÓRGANOS DEL INSTITUTO
+
+###### ARTÍCULO 117.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 118.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 119.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 120.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 121.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 122.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 123.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 124.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 125.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 126.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 127.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 128.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+### CAPÍTULO TERCERO. DEL PATRIMONIO DEL INSTITUTO
+
+###### ARTÍCULO 129.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+###### ARTÍCULO 130.
+
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
+
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES CAPITULO TERCERO], P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 ## TRANSITORIOS
 
+PRIMERO. La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se deroga la Ley del Patrimonio Cultural del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado, número 30, de fecha 14 de abril de 1989.
+
+TERCERO. Se deroga el Decreto que crea el Instituto Coahuilense de Cultura, publicado en el Periódico Oficial del Gobierno del Estado, número 13, de fecha 15 de febrero de 1994.
+
+CUARTO. El Instituto que mediante esta ley se crea, funcionará con el personal y los recursos materiales que actualmente se encuentran adscritos al Instituto Coahuilense de Cultura, creado mediante Decreto publicado en el Periódico Oficial del Gobierno del Estado, número 13, de fecha 15 de febrero de 1994.
+
+Los derechos adquiridos por los trabajadores que se adscriben al Instituto Coahuilense de Cultura, creado mediante esta ley, serán plenamente respetados.
+
+QUINTO. Dentro de un año siguiente contado a partir de la entrada en vigor de esta ley, se expedirán y publicarán en el Periódico Oficial del Gobierno del Estado, los siguientes documentos:
+
+I. El Programa Cultural.
+
+II. Reglamento de la presente ley.
+
+SEXTO. Se derogan todas aquellas disposiciones que se opongan al contenido de la presente ley.
+
+DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila, a los dieciocho días del mes de febrero del año dos mil cinco.
+
+DIPUTADO PRESIDENTE.
+
+JESÚS DE LEÓN TELLO.
+
+(RÚBRICA)
+
+DIPUTADO SECRETARIO.
+
+FERNANDO DE LA FUENTE VILLAREAL.
+
+(RÚBRICA)
+
+DIPUTADA SECRETARIA.
+
+MARÍA BEATRIZ GRANILLO VÁZQUEZ.
+
+(RÚBRICA)
+
+IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE
+
+Saltillo, Coahuila, 23 de Febrero de 2005
+
+EL GOBERNADOR DEL ESTADO
+
+LIC. ENRIQUE MARTÍNEZ Y MARTÍNEZ
+
+(RÚBRICA)
+
+EL SECRETARIO DE GOBIERNO
+
+LIC. JOSÉ JESÚS RAÚL SIFUENTES GUERRERO
+
+(RÚBRICA)
+
+EL SECRETARIO DE FINANZAS
+
+LIC. JAVIER GUERRERO GARCÍA
+
+(RÚBRICA)
+
+LA SECRETARIA DE EDUCACIÓN PÚBLICA
+
+MTRA. MA. DE LOS ÁNGELES ERRISÚRIZ ALARCÓN
+
+(RÚBRICA
+
+EL SECREETARIO DE PLANEACIÓN Y DESARROLLO
+
+C.P. IGNACIO DIEGO MUÑOZ
+
+(RÚBRICA)
+
+LA SECREARIA DE LA CONTRALORÍA Y MODERNIZACIÓN ADMINISTRATIVA
+
+C.P. INÉS GARZA ORTA
+
+(RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE NOVIEMBRE DE 2006.
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2006.
+
+ÚNICO.-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 2007.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE ENERO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Para integrar el Consejo de Cultura se seguirán las siguientes reglas:
+
+I. Dentro de los treinta días siguientes a la entrada en vigor de este Decreto, el Ejecutivo del Estado, a través de la Secretaría de Cultura, integrará el Comité Técnico a que se refiere el Artículo 138 de esta Ley.
+
+II. La Secretaría de Cultura auxiliada por el mencionado Comité Técnico, expedirá la Convocatoria Pública que contendrá las bases para integrar el Consejo de Cultura, dentro de los sesenta días siguientes a la constitución del mencionado Comité Técnico.
+
+III. En la Convocatoria se establecerá un plazo razonable para recibir las solicitudes de los interesados en integrar el padrón artístico y cultural. Hecho el registro y la validación correspondiente por parte de la Secretaría de Cultura, con auxilio del Comité Técnico, se procederá a convocar a las elecciones respectivas de los representantes de cada área. Las integraciones y designaciones de los demás sectores del Consejo de Cultura se realizarán conforme a las bases que se expidan en la Convocatoria.
+
+IV. La Secretaría de Cultura podrá solicitar el auxilio del Instituto Electoral y de Participación Ciudadana de Coahuila, para organizar las elecciones del sector artístico y cultural.
+
+V. La primera sesión del Consejo de Cultura se convocará por el Ejecutivo del Estado, a través de la Secretaría de Cultura, una vez que estén elegidos los representantes del sector artístico y cultural, para instalar los trabajos del Consejo.
+
+La Secretaría de Cultura preparará los trabajos correspondientes.
+
+TERCERO. El Ejecutivo del Estado, a través de la Secretaría de Cultura, deberá realizar los actos necesarios para dar cumplimiento a este Decreto.
+
+CUARTO. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Decreto, se expedirá el Reglamento del Consejo de Cultura.
+
+P.O. 9 DE AGOSTO DE 2016.
+
 ## TÍTULO PRIMERO. Disposiciones Generales
 
-###### ARTÍCULO 1.
+###### ARTÍCULO 1°.
 
-El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado tiene por objeto garantizar el derecho a la seguridad social que consagra la Constitución Política de los Estados Unidos Mexicanos, y contribuir al bienestar de los trabajadores, pensionados y familiares derechohabientes, a través de la administración de los seguros, prestaciones y servicios a que se refiere la Ley.
+EL ÁMBITO DE VALIDEZ FORMAL DE LA LEY. Esta ley es de orden público, de interés social y de observancia obligatoria en todo el régimen interior del estado, en materia de desarrollo cultural.
 
-En el ejercicio de sus responsabilidades y en el ámbito de sus competencias, los servidores públicos del Instituto deben promover, respetar, proteger y garantizar los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; para lo cual, deben actuar bajo criterios de legalidad, honestidad, igualdad, equidad, transparencia, no discriminación e integridad, ello con el propósito de ofrecer seguros, prestaciones y servicios de calidad, con oportunidad y calidez.
+###### ARTÍCULO 2°.
 
-###### ARTÍCULO 2.
+EL OBJETO DE LA LEY. Esta ley tiene por objeto:
 
-Las disposiciones contenidas en este ordenamiento son de carácter general y deben ser observadas por los órganos de gobierno, la Secretaría General y por las Unidades Administrativas Centrales y Desconcentradas del Instituto, con fundamento en las atribuciones que les confieren la Ley y sus reglamentos.
+I. Establecer el derecho fundamental de acceso a la cultura.
 
-El incumplimiento a lo dispuesto en la Ley, este Estatuto Orgánico y demás normatividad aplicable, por parte de los servidores públicos del Instituto, dará lugar al procedimiento y a las sanciones que señale la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, con independencia de las sanciones civiles, penales o de cualquier otra naturaleza a que se hagan acreedores.
+II. Establecer las garantías para asegurar el derecho de acceso a la cultura.
 
-###### ARTÍCULO 3.
+III. Establecer una política de Estado en materia de desarrollo cultural.
 
-La Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado establece los siguientes órganos de gobierno:
+IV. Establecer lineamientos para promover el desarrollo cultural sin discriminación, en el marco de una sociedad democrática.
 
-I. La Junta Directiva;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-II. El Director General;
+V. Establecer las atribuciones de la Secretaría de Cultura en materia de Desarrollo Cultural.
 
-III. La Comisión Ejecutiva del Fondo de la Vivienda;
+###### ARTÍCULO 3°.
 
-IV. La Comisión Ejecutiva del PENSIONISSSTE; y
+LA FINALIDAD DE LA LEY. Esta ley tiene como finalidad:
 
-V. La Comisión de Vigilancia.
+I. Consolidar el estado humanista, social y democrático de derecho, en lo que respecta al desarrollo cultural.
 
-###### ARTÍCULO 4.
+II. Promover, establecer y garantizar el derecho fundamental de acceso a la cultura.
 
-Para los efectos de este Estatuto Orgánico se entiende por:
+III. Promover, desarrollar y consolidar la política cultural en el estado.
 
-I. Calidad: los estándares que deben observarse en la prestación de los seguros y servicios conforme a los principios y prácticas establecidas por las normas oficiales mexicanas y que son generalmente aceptadas por la comunidad científica;
+Estas finalidades son vinculantes normativamente para todas las dependencias y entidades públicas y privadas y para toda persona sujeta a esta ley.
 
-II. Calidez: el trato respetuoso, cordial, atento y con información que se proporciona al derechohabiente;
+###### ARTÍCULO 4°.
 
-III. Comisión Ejecutiva del FOVISSSTE: órgano de gobierno del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+EL ÁMBITO DE VALIDEZ SUSTANCIAL DEL DERECHO FUNDAMENTAL DE ACCESO A LA CULTURA. El diseño, la interpretación y la aplicación de los actos o normas en materia de desarrollo cultural, deberán ajustarse a los principios, normas y valores del Estado humanista, social y democrático de derecho que establece la Constitución.
 
-IV. Comisión Ejecutiva del PENSIONISSSTE: órgano de gobierno del Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado;
+Todo acto o norma que contravenga esta disposición deberá desaplicarse, invalidarse o interpretarse conforme a la Constitución por el órgano judicial competente en el estado, según la ley en la materia.
 
-V. Comisión: la Comisión de Vigilancia del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+###### ARTÍCULO 5°.
 
-VI. Comités Técnicos de Apoyo: los Comités Técnicos de Apoyo de la Junta Directiva;
+EL CATÁLOGO DE DENOMINACIONES. Para los efectos de esta ley, se entenderá por:
 
-VII. Comités u órganos colegiados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o de sus órganos desconcentrados: Son los Comités de Inversión, de Riesgo Financiero o de Riesgo Operativo, así como los demás que, por disposición legal, normativa o estatutaria, o por Acuerdo de la Junta Directiva o de la Comisión Ejecutiva respectiva, corresponda crear;
+I. Constitución Federal. La Constitución Política de los Estados Unidos Mexicanos.
 
-VIII. Desarrollo Institucional: Acciones concernientes a las buenas prácticas y la mejora continua de los procesos institucionales;
+II. Constitución. La Constitución Política del Estado de Coahuila de Zaragoza.
 
-IX. Director General: el Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+III. Código Civil. El Código Civil para el Estado de Coahuila de Zaragoza.
 
-X. Expediente electrónico único: el conjunto de documentos, escritos, gráficos y de imagen, que integran todo lo relativo a vigencia de derechos, historial de cotización, situación jurídica, historia clínica, historia crediticia institucional, entre otros conceptos;
+IV. Código Procesal Civil. El Código Procesal Civil para el Estado de Coahuila de Zaragoza.
 
-XI. FOVISSSTE: el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+V. Ley General de Bienes. La Ley General de Bienes del Estado de Coahuila de Zaragoza.
 
-XII. Instituto: el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+VI. Estado. El Estado de Coahuila de Zaragoza.
 
-XIII. La Junta: la Junta Directiva del Instituto;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-XIV. Ley: la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+VII. Secretaría. La Secretaría de Cultura.
 
-XV. Oportunidad: Brindar al derechohabiente la atención cuando la requiere, realizar todas las acciones necesarias y aplicar los protocolos establecidos con la secuencia adecuada, conforme a los recursos disponibles;
+VIII. Ejecutivo del Estado. El Gobernador del Estado de Coahuila de Zaragoza.
 
-XVI. PENSIONISSSTE: el Fondo Nacional de Pensiones de los Trabajadores al Servicio del Estado;
+IX. Comité. El Comité del Patrimonio Cultural del Estado.
 
-XVII. Unidades Administrativas del Instituto: las señaladas en el artículo 5 de este Estatuto Orgánico;
+X. Conservación. La acción de preservar el buen estado de los bienes muebles e inmuebles del patrimonio cultural del estado.
 
-XVIII. Unidades médicas: los consultorios auxiliares, unidades y clínicas de medicina familiar, clínicas de especialidades, clínicas hospital y hospitales generales; y
+XI. Recuperación. El conjunto de acciones tendientes a rescatar aquellos elementos del patrimonio cultural tangible e intangible.
 
-XIX. Unidades médicas desconcentradas: el Centro Médico Nacional "20 de Noviembre" y los hospitales regionales.
+XII. Restauración. El conjunto de intervenciones tendientes a reparar un bien cultural, mantener un sitio o monumento histórico o artístico en estado de servicio, conforme a sus características históricas, constructivas y estéticas.
 
-###### ARTÍCULO 5.
+XIII. Las juntas. Las Juntas de Protección y Conservación del Patrimonio Cultural del Estado.
 
-Para la planeación, ejecución y evaluación de los asuntos y actos que le competen, el Instituto cuenta con los órganos de gobierno y con las siguientes Unidades Administrativas:
+###### ARTÍCULO 6°.
 
-I. Secretaría General;
+LOS ORDENAMIENTOS SUPLETORIOS. A falta de disposición expresa, se aplicarán en lo conducente:
 
-II. Unidades Administrativas Centrales:
+I. El Código Civil.
 
-a) Dirección Jurídica;
+II. El Código Procesal Civil.
 
-b) Dirección de Administración;
+III. La Ley General de Bienes.
 
-c) Dirección de Finanzas;
+IV. Las demás disposiciones aplicables relacionadas con las materias que regula esta ley.
 
-d) Dirección de Prestaciones Económicas, Sociales y Culturales;
+###### ARTÍCULO 7°.
 
-e) Dirección Médica;
+EL DERECHO FUNDAMENTAL DE ACCESO A LA CULTURA. El derecho de acceso a la cultura es parte integrante de los derechos fundamentales de las personas y, por ende, es universal, indivisible e interdependiente.
 
-f) Dirección de Delegaciones;
+Toda persona tiene derecho a participar libremente en la vida cultural de la comunidad; a disfrutar de los bienes y servicios culturales y a participar en el progreso científico y de los beneficios que de él resulten.
 
-g) Dirección de Tecnología y Estrategia Digital;
-
-h) Dirección de Comunicación Social; y
-
-i) Coordinación de Hospitales Regionales.
-
-III. Unidades Administrativas Desconcentradas:
-
-a) FOVISSSTE;
-
-b) PENSIONISSSTE;
-
-c) SuperISSSTE;
-
-d) Sistema de Agencias Turísticas TURISSSTE;
-
-e) Centro Médico Nacional “20 de Noviembre” y Hospitales Regionales;
-
-f) Delegaciones Estatales y Regionales;
-
-g) Escuela de Dietética y Nutrición; y
-
-h) Escuela Nacional de Enfermería e Investigación.
-
-###### ARTÍCULO 6.
-
-El Instituto cuenta con una Unidad de Desarrollo Institucional que se estructura conforme a lo establecido en los artículos 87 y 88; así como con un Órgano Interno de Control, que se rige conforme a lo que establece la ley aplicable en la materia y se organiza en términos de lo que disponen los artículos 89 y 90 de este Estatuto Orgánico.
-
-###### ARTÍCULO 7.
-
-Para lo no previsto en este Estatuto Orgánico, se estará a lo dispuesto por la Ley y por los Acuerdos de la Junta y del Director General, en ejercicio de sus respectivas facultades.
+Igualmente, toda persona tiene derecho a la protección de los intereses morales y materiales que le correspondan por razón de las producciones científicas, culturales, literarias o artísticas de su autoría.
 
 ## TÍTULO SEGUNDO. De los órganos de gobierno
 
-### CAPÍTULO PRIMERO. De la Junta Directiva
+### CAPÍTULO CUARTO. LA PROTECCIÓN DE LOS DERECHOS CULTURALES
 
-###### ARTÍCULO 8.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-La Junta es un órgano de gobierno del Instituto en términos de lo señalado en el artículo 209 de la Ley. Tiene a su cargo las tareas de planeación estratégica, de definición de prioridades y de normatividad de los programas, estructuras y funciones institucionales, así como de evaluación, control y supervisión de las actividades de los demás órganos de gobierno y Unidades Administrativas del propio Instituto.
+###### ARTÍCULO 131.
+
+LA SECRETARÍA COMO PROTECTORA DE LOS DERECHOS CULTURALES. La Secretaría, a través de sus instancias facultadas para ello, conocerá las quejas por violación a los derechos culturales.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 132.
+
+EL DERECHO DE QUEJA. Toda persona podrá presentar ante la Secretaría, queja por presunta violación a sus derechos culturales.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 133.
+
+EL PROCEDIMIENTO. La Secretaría, una vez recibida la queja señalará fecha y hora para desahogar una audiencia y pedirá un informe circunstanciado a la autoridad responsable.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 134.
+
+LA AUDIENCIA. En la audiencia, la Secretaría le hará saber al quejoso y a la autoridad responsable las opciones probables para solucionar la queja. Sí elige cualquiera de ellas, levantará el acta respectiva con el convenio o la medida conducente para resolver la queja.
+
+En caso contrario, la Secretaría emitirá una recomendación a la autoridad responsable para solucionar el conflicto.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 8°.
+
+EL DERECHO DE ACCESO A LA CULTURA Y LA AFIRMACIÓN DE LA IDENTIDAD DE LAS COMUNIDADES. Las personas tienen el derecho de desarrollar y participar de los bienes culturales de la comunidad y son responsables de reconocer respetuosamente los bienes culturales de los demás.
+
+El Estado reconoce e impulsa la cultura Mexicana, compuesta por las experiencias históricas de la comunidad nacional y por las actividades universales.
+
+La cultura es un recurso para el desarrollo económico y social de la comunidad. El Estado señalará las normas que garanticen el derecho de acceso a la cultura, así como para proteger los derechos del artista, del creador cultural, del trabajador de la cultura, y para preservar los bienes y el patrimonio cultural.
+
+En su tarea de fortalecer, impulsar y preservar la cultura, el Estado reconoce la diversidad de identidades que concurren a la integración de la cultura nacional.
+
+###### ARTÍCULO 9º.
+
+EL DERECHO DE ACCESO A LA CULTURA Y LA AFIRMACIÓN DE LA IDENTIDAD DE LOS INDIVIDUOS Y LAS COMUNIDADES. El Estado reconoce la diversidad cultural y promueve el respeto de las distintas identidades culturales, a partir de las bases siguientes:
+
+I. Que la identidad de los individuos y de las comunidades es la causa primera de la soberanía popular; y
+
+II. Que la cultura, en sus expresiones diversas, tangibles e intangibles, sustenta la identidad de los individuos y de sus comunidades y, como tal, resulta un componente esencial para elevar la calidad de vida y para lograr un desarrollo autodeterminado, incluyente, integral y sustentable.
 
 ###### ARTÍCULO 9.
 
@@ -263,561 +655,643 @@ II. El Titular y dos Subsecretarios de la Secretaría de Hacienda y Crédito Pú
 
 III. Nueve representantes de las organizaciones de trabajadores, designados conforme a las Bases expedidas por el Ejecutivo Federal a que se refiere el artículo 225 de la Ley.
 
-###### ARTÍCULO 10.
+###### ARTÍCULO 10°.
 
-Por cada miembro propietario de la Junta se nombrará un suplente, que actuará en sus ausencias temporales.
+LOS DERECHOS CULTURALES INDIVIDUALES. Toda persona tiene derecho a:
 
-El Presidente de la Junta será suplido en sus ausencias temporales por uno de los representantes del Estado que se elija entre los asistentes a la sesión.
+I. Aprender, acrecentar, renovar, preservar, proteger, defender y transmitir los valores culturales que le den identidad individual dentro de su comunidad.
 
-Los integrantes a que se refiere la fracción II del artículo anterior serán suplidos por un servidor público de rango inmediato inferior al del propietario.
+II. Acceder a los valores testimoniales de los bienes tangibles e intangibles, integrantes del patrimonio cultural universal, sin más limitación a la que esté sujeto el bien, en razón de su régimen de propiedad o posesión.
 
-Los integrantes a que se refiere la fracción III del propio artículo anterior serán suplidos por quienes designen las organizaciones de trabajadores de las cuales provengan, de acuerdo con las Bases expedidas por el Ejecutivo Federal.
+III. Asociarse y colaborar en la vida cultural, a disfrutar de las artes y a participar en el progreso científico y de los beneficios que de él resulten.
+
+IV. Expresar sus valores culturales de identidad, sin más limitación que la que las leyes impongan.
+
+V. Colaborar con su comunidad en la recuperación, estudio, protección, conservación, aprovechamiento sustentable y no excluyente, difusión, promoción y reformulación de aquellos bienes testimonio de los valores culturales que integran la identidad comunitaria.
+
+VI. El reconocimiento, defensa, goce y disfrute de su creación intelectual individual.
+
+VII. Los demás derechos culturales que forman parte del desarrollo de la dignidad personal.
 
 ###### ARTÍCULO 11.
 
-Para ser miembro de la Junta se requiere:
+LOS DERECHOS CULTURALES SOCIALES. Toda persona tiene derecho a:
 
-I. Ser ciudadano mexicano y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+I. Descubrir, rescatar, investigar, restaurar, preservar, proteger, defender, difundir, promover y transmitir los valores integrantes de su identidad comunitaria.
 
-II. No desempeñar cargo alguno de elección popular; y
+II. Usar de manera responsable, sustentable y no excluyente, los bienes portadores de los valores integrantes de su identidad comunitaria y sus entornos tutelares, sin más limitación a la que esté sujeto el bien, en razón de su régimen de propiedad o posesión.
 
-III. Ser de reconocida competencia y honorabilidad.
+III. Participar en las decisiones que afecten los bienes portadores de los valores integrantes de su identidad comunitaria, sin más limitación a la que esté sujeto el bien, en razón de su régimen de propiedad o posesión.
 
-Los miembros de la Junta no podrán ser al mismo tiempo servidores públicos de confianza del Instituto, salvo el Director General.
+IV. Asociarse para la protección, preservación y valoración de los bienes testimonio de los valores integrantes de su identidad comunitaria.
+
+V. Proponer la caracterización de bienes culturales relevantes del patrimonio cultural o de una zona de bienes, cuya conservación sea de interés nacional, estatal, municipal o comunitario, observando en todo momento las facultades competenciales en materia de caracterización de bienes culturales y con pleno respeto a su régimen de propiedad.
+
+VI. Elaborar, proponer y coadyuvar en la ejecución de un plan de manejo, respecto de los bienes testimonio de los valores integrantes de su identidad comunitaria que hayan sido declarados bienes culturales adscritos al patrimonio cultural del estado o zona protegida.
+
+VII. El reconocimiento, defensa, goce y disfrute de la creación intelectual colectiva de su comunidad.
+
+VIII. Los demás derechos culturales que forman parte del desarrollo social.
 
 ###### ARTÍCULO 12.
 
-Los miembros de la Junta durarán en sus cargos el tiempo que subsista su designación.
+EL GARANTISMO CULTURAL. Las dependencias y entidades públicas, en el ámbito de sus competencias establecerán las garantías necesarias para que la protección de los derechos culturales sea real y efectiva.
 
-Los representantes de las organizaciones de trabajadores podrán recibir una remuneración por el desempeño de sus funciones, de conformidad con lo que al respecto acuerde la Junta, con base en la propuesta que formule la Secretaría General y a partir de las disponibilidades presupuestales. Los representantes del Estado no recibirán remuneración alguna por sus labores en este Órgano.
+Los particulares deberán cumplir con las medidas que dicten las autoridades conforme a esta ley para asegurar el derecho fundamental a la cultura.
 
 ###### ARTÍCULO 13.
 
-Las sesiones de la Junta se conducirán de acuerdo con el Reglamento de Sesiones y deben sujetarse al orden del día; que será conformado y sometido a votación de sus integrantes por su Presidente.
+LAS GARANTÍAS CULTURALES. El Estado, con pleno respeto a la diversidad de las manifestaciones culturales y con la colaboración de todas aquéllas personas que participen en las actividades culturales deberá:
+
+I. Contribuir al desarrollo, capacitación y profesionalización de la actividad artística y, al mismo tiempo, promover, difundir y estimular la circulación de su obra.
+
+II. Propiciar las condiciones para que, sin demérito de su régimen de propiedad o de posesión, los particulares permitan la exhibición pública de colecciones o bienes individuales adscritos al patrimonio cultural.
+
+III. Fomentar la cooperación con los demás estados de la república, con otros países y con las entidades y dependencias federales competentes en el ámbito de la cultura y con las instituciones de educación superior, así como con las organizaciones no gubernamentales y las comunitarias dedicadas al desarrollo cultural.
+
+IV. Fomentar la cooperación con las organizaciones culturales privadas existentes en el estado.
 
 ###### ARTÍCULO 14.
 
-Son atribuciones de la Junta:
-
-I. Aprobar el Estatuto Orgánico y los reglamentos necesarios para la operación del Instituto, propuestos por el Director General;
-
-II. Conocer y, en su caso, aprobar:
-
-a) Los planes y programas que sean presentados por la Dirección General para la operación y servicios del Instituto;
-
-b) El programa institucional y los programas operativos anuales, de acuerdo con lo establecido en la Ley de Planeación, así como los estados financieros del Instituto y los programas y presupuestos correspondientes;
-
-c) El presupuesto de gastos de administración, operación y vigilancia del Instituto;
-
-d) En el primer bimestre del año, el informe del estado que guarde la administración del Instituto;
-
-e) Las políticas de inversión del Instituto, a propuesta del Comité de Inversiones; excepto en el caso del seguro de retiro, cesantía en edad avanzada y vejez;
-
-f) El programa anual de reservas actuariales y financieras que deban constituirse para asegurar el otorgamiento de los seguros y prestaciones que determina la Ley, así como el cumplimiento de sus fines, excepto en el caso del seguro de retiro, cesantía en edad avanzada y vejez; y
-
-g) Cada año, los fondos necesarios para que el Director General autorice donativos y pagos extraordinarios, con sujeción a las disposiciones legales. El Director General presentará un informe anual en la primera sesión ordinaria de la Junta del año siguiente; en el que dará cuenta del destino de estos fondos.
-
-III. Aprobar la concertación de los préstamos para el financiamiento del Instituto con créditos internos y externos, y atender los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidad financiera;
-
-IV. Expedir las normas o bases generales, con arreglo a las cuales, el Director General pueda disponer de los activos fijos del Instituto cuando fuese necesario;
-
-V. Establecer, con sujeción a las disposiciones legales relativas, y conforme a los procedimientos respectivos que fije el Reglamento de la Ley Federal de las Entidades Paraestatales, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que el Instituto requiera para la prestación de sus servicios, con excepción de aquellos inmuebles de organismos descentralizados que la Ley General de Bienes Nacionales considere como del dominio público de la Federación;
-
-VI. Establecer o suprimir Delegaciones del Instituto en las Entidades Federativas;
-
-VII. Constituir, a propuesta del Director General, un Consejo Asesor Científico y Médico y las comisiones necesarias para su mejor operación interna;
-
-VIII. Nombrar y remover, a propuesta del Director General, al Secretario General, y a los Titulares de las Unidades Administrativas Centrales y Desconcentradas del Instituto, sin perjuicio de las facultades que al efecto le delegue;
-
-IX. Nombrar y remover, a propuesta de su Presidente, al Prosecretario de la Junta;
-
-X. Otorgar premios, estímulos y recompensas a los servidores públicos del Instituto, de conformidad con lo que establece la ley de la materia;
-
-XI. Conferir poderes generales o especiales de acuerdo con el Director General;
-
-XII. Autorizar al Director General a celebrar los convenios de incorporación voluntaria al régimen de la Ley;
-
-XIII. Aprobar mecanismos de contribución solidaria entre el Instituto y sus derechohabientes;
-
-XIV. Dictar los acuerdos que resulten necesarios para otorgar los beneficios previstos en los seguros, prestaciones y servicios establecidos en la Ley;
-
-XV. Resolver los recursos contra las resoluciones de la propia Junta que afecten intereses particulares, a que se refiere el artículo 219 de la Ley, cuyo trámite se realizará por conducto del Secretario de la Junta y mediante el procedimiento que, al efecto se establezca;
-
-XVI. Presentar al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y al Congreso de la Unión, a más tardar el 30 de junio de cada año, un informe dictaminado por auditor externo que incluya, al menos, los siguientes elementos:
-
-a) La situación financiera de cada uno de los seguros ofrecidos por el Instituto, y la actuarial de sus Reservas, con elementos de juicio para evaluar si las primas correspondientes son suficientes para cubrir los gastos actuales y futuros de los beneficios derivados de cada seguro;
-
-b) Los posibles riesgos, contingencias y pasivos que se toman en cada seguro y la capacidad financiera del Instituto para responder a ellos en función de sus ingresos y las Reservas disponibles;
-
-c) Estimaciones sobre las posibles modificaciones a las Cuotas y Aportaciones de cada seguro que, en su caso, se puedan prever para mantener la viabilidad financiera del Instituto, y de las fechas estimadas en que dichas modificaciones puedan ser requeridas; y
-
-d) La situación de sus pasivos laborales y de cualquiera otra índole que comprometan su gasto por más de un ejercicio fiscal.
-
-Para los propósitos anteriores, la Junta informará sobre las tendencias demográficas de los Derechohabientes, mismas que deben incluir el análisis de las modificaciones en la esperanza de vida; tendencias en la transición epidemiológica, y cambios en la composición de género de la fuerza laboral, entre otros factores. La estimación de riesgos, a su vez, considerará factores derivados del ciclo económico, de la evolución del costo de los tratamientos y medicamentos, los costos laborales, de la situación macroeconómica, así como cualquier otro factor que afecte la capacidad del Instituto para cumplir con sus compromisos. En todos los casos, la estimación sobre riesgos y pasivos laborales y de cualquier otro tipo, se formulará con estricto apego a los principios de contabilidad generalmente aceptados por la profesión contable organizada en México.
-
-Asimismo, deberá contener información sobre el estado que guardan las instalaciones y equipos del Instituto, particularmente los dedicados a la atención médica, para poder atender de forma satisfactoria a sus derechohabientes.
-
-XVII. Con relación al FOVISSSTE, conocer y, en su caso, aprobar:
-
-a) El presupuesto de ingresos y egresos, así como los programas de labores y de financiamiento del FOVISSSTE para el siguiente año;
-
-b) En el primer bimestre del año, el informe de actividades de la Comisión Ejecutiva del FOVISSSTE y, dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio;
-
-c) El presupuesto de gastos de administración, operación y vigilancia del FOVISSSTE, que no deberá exceder del 0.75 por ciento de los recursos totales que maneje;
-
-d) Las Reservas que deban constituirse para asegurar la operación del FOVISSSTE y el cumplimiento de los demás fines y obligaciones del mismo;
-
-e) Las reglas para el otorgamiento de créditos;
-
-f) Los programas y acciones para vigilar que los créditos y los financiamientos que se otorguen se destinen a los fines para los que fueron programados; y
-
-g) Las demás medidas necesarias para el cumplimiento de los fines del Fondo de la Vivienda.
-
-XVIII. Con relación al PENSIONISSSTE, conocer y, en su caso, aprobar:
-
-a) El presupuesto de ingresos y egresos, así como los programas de labores y de inversión del PENSIONISSSTE para el siguiente año;
-
-b) En el primer bimestre del año, el informe de actividades de la Comisión Ejecutiva del PENSIONISSSTE y, dentro de los cuatro primeros meses del año, los estados financieros que resulten de la operación en el último ejercicio;
-
-c) La estrategia de inversión de los recursos del PENSIONISSSTE, a propuesta de la Comisión Ejecutiva del mismo;
-
-d) El programa de Reservas que deban constituirse para asegurar la operación del PENSIONISSSTE y el cumplimiento de los demás fines y obligaciones del mismo, a propuesta de su Comisión Ejecutiva;
-
-e) La constitución de sociedades de inversión especializadas de fondos para el retiro;
-
-f) Anualmente, el presupuesto de gastos de administración, operación y vigilancia del PENSIONISSSTE; y
-
-g) Las demás medidas necesarias para el cumplimiento de los fines del PENSIONISSSTE.
-
-XIX. Proponer al Ejecutivo Federal los proyectos de reformas a la Ley; y
-
-XX. En general, realizar todos aquellos actos y operaciones autorizados por la Ley y los que fuesen necesarios para la mejor administración y gobierno del Instituto.
+LA GARANTÍA DE EXPRESIÓN CULTURAL. El Estado garantizará la libertad de expresión y creación cultural.
 
 ###### ARTÍCULO 15.
 
-La Junta celebrará por lo menos una sesión ordinaria cada tres meses y las sesiones extraordinarias que se requieran para el debido funcionamiento del Instituto.
-
-Las sesiones serán válidas con la asistencia de por lo menos diez miembros, cinco de los cuales deberán ser representantes del Estado.
+LA GARANTÍA DE LA DISCRIMINACIÓN CULTURAL POSITIVA. Las dependencias y entidades públicas diseñarán e instrumentarán políticas, acciones afirmativas, compensatorias o cualquier otra medida de discriminación cultural positiva que resulte justificada con base empírica, a fin de garantizar efectivamente el derecho a la cultura.
 
 ###### ARTÍCULO 16.
 
-La convocatoria para la celebración de las sesiones ordinarias de la Junta la emitirá su Presidente, la cual debe acompañarse con el orden del día de la sesión e incluir la carpeta documental electrónica, que sustente los asuntos a tratar. En el caso de sesiones extraordinarias, éstas se realizarán exclusivamente para desahogar los temas de la convocatoria y conforme al Reglamento de Sesiones.
+LA INSTRUMENTACIÓN DE LAS GARANTÍAS CULTURALES. Las acciones para el desarrollo cultural que se emprendan y las que se propongan por el Gobierno del Estado, ayuntamientos, individuos o comunidades, se instrumentarán con pleno respeto de su diversidad cultural, propiciarán el respetuoso intercambio cultural y promoverán la revaloración y el fortalecimiento de las diversas identidades tendiente a fortalecer la nacional.
 
 ###### ARTÍCULO 17.
 
-La Junta se auxilia en sus funciones, con un Secretario y un Prosecretario.
+EL ESTADO COMO RECTOR DE LA POLÍTICA CULTURAL. El Estado, a través de la Secretaría, tiene a su cargo la rectoría del desarrollo cultural.
 
 ###### ARTÍCULO 18.
 
-El Secretario General del Instituto funge como Secretario de la Junta. En caso de ausencia temporal de éste en las sesiones del Órgano, será sustituido por el Prosecretario.
+LA FINALIDAD DE LA POLÍTICA CULTURAL. La política cultural tiene como finalidad:
 
-El Secretario de la Junta asiste a las sesiones con voz y sin voto. Es fedatario de las sesiones, de las votaciones, de las deliberaciones de los asuntos planteados y de los actos, acuerdos y resoluciones de dicho órgano de gobierno. Integra, además, las actas de las mismas.
+I. Afirmar y fortalecer la identidad nacional a través de las diversas expresiones culturales.
 
-Asimismo, desempeña las siguientes funciones:
+II. Fomentar el diálogo respetuoso entre culturas.
 
-I. Hacer llegar a los miembros de la Junta, en los términos del Reglamento de Sesiones, la convocatoria, el orden del día y la carpeta documental electrónica de los asuntos que ésta deba conocer;
+III. Incorporar la cultura como un elemento sustantivo para el desarrollo integral de la sociedad en general.
 
-II. Comunicar, atender, dar seguimiento, difundir y vigilar el cumplimiento de los asuntos relativos a las sesiones y Acuerdos de la Junta, hacerlos del conocimiento de la Dirección General, de los otros órganos de gobierno, de la Secretaría General y de las Unidades Administrativas Centrales y Desconcentradas del Instituto;
+IV. Fomentar la libertad de expresión cultural; estimular la formación, actualización y profesionalización de los trabajadores de la cultura, de los investigadores, promotores, creadores, intérpretes y ejecutantes.
 
-III. Fungir como asesor permanente de los Comités Técnicos de Apoyo de la Junta Directiva y de los órganos de gobierno de las Unidades Administrativas Desconcentradas;
-
-IV. Analizar los asuntos a consideración de la Junta para verificar su presentación dentro de la normatividad aplicable;
-
-V. Tramitar las propuestas de los representantes del Estado y de las organizaciones de trabajadores en los órganos de gobierno, previo acuerdo con el Director General;
-
-VI. Mantener actualizado el registro de los Acuerdos emitidos por la Junta, establecer y mantener un sistema de seguimiento de los mismos y difundirlos, así como salvaguardar el archivo;
-
-VII. Proponer a la Junta con base en las disponibilidades presupuestales, las remuneraciones que, en su caso, podrán recibir los representantes de las organizaciones de trabajadores por su participación en los órganos de gobierno establecidos en la Ley; y
-
-VIII. Las demás que le encomiende la Junta.
+V. Propiciar a través del desarrollo cultural un mejor y más satisfactorio nivel de vida para la población del Estado.
 
 ###### ARTÍCULO 19.
 
-El Prosecretario apoya al Secretario de la Junta en el cumplimiento de las funciones que este Estatuto Orgánico y el Reglamento de Sesiones le confieren, así como las que por acuerdo expreso del Secretario le sean encomendadas.
+EL OBJETO DE LA POLÍTICA CULTURAL. La política cultural del Estado favorecerá y promoverá la cooperación solidaria de todos aquellos que participen en las actividades culturales y si fuere necesario, fortalecerá y complementará la acción de éstos en los siguientes ámbitos:
 
-Asimismo, brinda orientación operativa a los Comités Técnicos de Apoyo del Instituto y a los órganos de gobierno de las Unidades Administrativas Desconcentradas, en el desempeño de sus funciones.
+I. El conocimiento, desarrollo y difusión de la cultura y la historia de los Estados Unidos Mexicanos, en particular dentro del estado.
+
+II. El conocimiento, desarrollo y difusión de los valores universales de la cultura.
+
+III. La investigación, restauración, conservación, defensa y protección del patrimonio cultural del estado.
+
+IV. La difusión y promoción de la creación y ejecución artísticas, en sus expresiones individuales y colectivas, incluido el sector audiovisual.
+
+V. El conocimiento, fortalecimiento, desarrollo y difusión de las culturas indígenas y de las culturas populares.
+
+VI. El desarrollo y consolidación de los sistemas de casas de cultura, archivos, bibliotecas, museos y demás espacios de desarrollo cultural.
+
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+
+VII. La animación cultural que aliente la creatividad, con especial énfasis en la niñez, la juventud, así como en personas de la tercera edad, y que estimule la integración de las personas con discapacidad y demás grupos vulnerables.
+
+VIII. La vinculación del sector cultural con los sectores educativo, turístico, de desarrollo social, del medio ambiente y demás sectores de la sociedad.
+
+IX. La protección legal del artista, del creador y su obra cultural, y del trabajador de la cultura.
+
+X. La iniciación, formación y profesionalización cultural y artística de las personas.
+
+XI. La coordinación de las organizaciones culturales.
+
+XII. El diseño de estrategias para el financiamiento de proyectos y actividades culturales.
+
+XIII. La atención en materia de cultura a grupos migrantes y culturas fronterizas.
+
+XIV. El respetuoso intercambio cultural.
+
+XV. En la creación, ampliación, remodelación y acondicionamiento de los inmuebles destinados a las actividades culturales y artísticas. Asimismo promoverá su uso adecuado a través de programas culturales específicos, acordes con la vocación del espacio.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-La Junta podrá constituir Comités Técnicos de Apoyo para el eficaz desarrollo de sus atribuciones. Éstos se integrarán por:
-
-I. El Secretario de la Junta, quien fungirá como asesor permanente;
-
-II. El titular de la Unidad Administrativa competente del Instituto, quien se desempeñará como coordinador;
-
-III. Representantes del Estado; y
-
-IV. Un representante de cada una de las organizaciones de trabajadores que conformen la Junta.
-
-El Secretario será suplido por el Prosecretario. En el caso de los integrantes que prevén las fracciones II, III y IV, las dependencias federales y las organizaciones de trabajadores nombrarán a un propietario y a un suplente que cubrirá las ausencias del primero.
+EL PROGRAMA DE CULTURA. Para la ejecución de la política cultural del Estado, la Secretaría diseñará e instrumentará el Programa de Desarrollo Cultural que será de observancia general para todas las dependencias y entidades estatales, municipales y particulares.
 
 ###### ARTÍCULO 21.
 
-Los Comités Técnicos de Apoyo tendrán las siguientes funciones consultivas y de análisis:
+LA GARANTÍA FISCAL. Las organizaciones, empresas e industrias del sector privado que realicen acciones tendientes a incentivar el desarrollo cultural en el estado, serán beneficiarios de subsidios y estímulos fiscales en las contribuciones estatales y municipales, en los términos aprobados por el Congreso del Estado en las leyes de ingresos correspondientes y demás ordenamientos legales aplicables.
 
-I. Atender los asuntos que conforme a su competencia les haya encomendado la Junta;
-
-II. Llevar a cabo los estudios, análisis y propuestas de solución a los problemas que les hayan sido planteados por la Junta, apegándose estrictamente a la normatividad aplicable; y
-
-III. Presentar el informe correspondiente, en los términos establecidos por la Junta en el Acuerdo respectivo.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 22.
 
-Los Comités Técnicos de Apoyo sesionarán a convocatoria de su coordinador o del Secretario de la Junta, en ausencia de aquél; con la continuidad que sea necesaria para resolver las tareas que les haya asignado la Junta en el Acuerdo que les dio origen.
+LA GARANTÍA INSTITUCIONAL PARA PROTEGER LOS DERECHOS CULTURALES. La Secretaría es la encargada de proteger los derechos culturales consignados en la presente ley.
 
-Sus integrantes tendrán los siguientes derechos y obligaciones:
-
-I. Asistir a las sesiones en los términos de la convocatoria;
-
-II. Analizar los asuntos turnados al Comité Técnico de Apoyo y formular observaciones y propuestas;
-
-III. Emitir su voto en los asuntos sometidos a su consideración; y
-
-IV. Desempeñar las actividades que al efecto le sean asignadas por el Comité Técnico de Apoyo.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-Previo Acuerdo de la Junta, los Comités Técnicos de Apoyo podrán a su vez crear Subcomités, con la integración, competencia y facultades que su propio Acuerdo de constitución les asigne.
+LA GARANTÍA DE LA ACCIÓN CULTURAL Y ARTÍSTICA. La Secretaría, a través de sus instancias competentes, es la encargada de proteger los derechos que resulten del ejercicio de la acción cultural y artística en el estado consignados en el Capítulo Cuarto del Título Segundo de esta ley, así como ser el conducto institucional en la materia con las instancias federales competentes.
 
-### CAPÍTULO SEGUNDO. Del Director General
+### CAPÍTULO ÚNICO.
+
+DE LAS ATRIBUCIONES, INTEGRACIÓN Y FUNCIONAMIENTO DEL CONSEJO DE CULTURA.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 135.
+
+El Consejo de Cultura. El Consejo de Cultura es el órgano de carácter ciudadano que con voz y voto coadyuva con el Ejecutivo del Estado en la rectoría de la política pública en materia cultural, el cual funge como un espacio de vinculación, deliberación, colaboración y corresponsabilidad entre la autoridad y la sociedad, en especial con la comunidad artística.
+
+El Ejecutivo, a través de la Secretaría de Cultura, ejercitará las funciones que le corresponda conforme a la ley tomando en cuenta las decisiones del Consejo de Cultura en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 136.
+
+Las atribuciones del Consejo de Cultura. El Consejo de Cultura es un órgano colegiado con atribuciones propositivas, de consulta y orientación de la política pública en materia cultural.
+
+El Consejo de Cultura tendrá las atribuciones siguientes:
+
+I. En materia propositiva:
+
+1. Proponer las bases generales, principios o criterios rectores para que la Secretaría de Cultura elabore y lleve a cabo el Plan Estatal de Cultura.
+
+2. Proponer las bases generales para que la Secretaría de Cultura elabore el Plan Anual de Actividades, desglosado por programas y acciones.
+
+3. Proponer las bases generales para que la Secretaría de Cultura instrumente la promoción cultural a partir de programas diseñados conjuntamente por artistas y autoridades.
+
+4. Exponer y denunciar en las sesiones respectivas los casos en los que la autoridad cultural, funcionarios o empleados de la Secretaría de Cultura se aparten de las normas y criterios que rijan los planes y programas establecidos.
+
+5. Proponer el diseño de mecanismos financieros novedosos que permitan a la Secretaría de Cultura allegarse recursos para financiar programas.
+
+6. Conocer y encauzar las denuncias de las presuntas violaciones a los derechos culturales.
+
+7. Proponer la elaboración de leyes y reglamentos en la materia para que las autoridades competentes las presenten o autoricen en la esfera de su competencia.
+
+8. Proponer mecanismos que favorezcan la transparencia y la rendición de cuentas en el sector cultura.
+
+9. Proponer a las autoridades competentes descuentos, deducciones, donaciones y cualquier otro estímulo económico en materia de fomento cultural.
+
+10. Proponer la implementación de un esquema de asistencia y protección social para artistas y promotores culturales, con la coparticipación de éstos en la conformación de un Fondo destinado a ese propósito.
+
+11. Proponer las bases generales para la preservación y fortalecimiento de las culturas populares del Estado.
+
+II. En materia de consulta y opinión especializada:
+
+1. Desarrollar las bases para recabar la opinión de la comunidad cultural y demás sectores de la sociedad respecto a la política cultural del Estado, la cual hará del conocimiento de las autoridades competentes.
+
+2. Brindar asesoría y apoyo a la Secretaría de Cultura para llevar a cabo proyectos y programas que eleven la calidad de los servicios culturales.
+
+3. Crear Grupos de Trabajo o comisiones que sean necesarias para planear, instrumentar o evaluar la política pública.
+
+4. Crear observatorios ciudadanos en materia cultural para analizar y evaluar los programas y acciones de la materia.
+
+III. En materia de orientación:
+
+1. Establecer las directrices o pautas generales para el desarrollo de la política cultural.
+
+2. Establecer las bases generales para que la Secretaría de Cultura pueda presentar el Plan Anual de aplicación presupuestal, en el que se dé preferencia a proyectos culturales y artísticos realizados por coahuilenses.
+
+3. Establecer bases generales para la orientación de los mecanismos financieros y fondos económicos de apoyo a las iniciativas de los creadores, artistas, intelectuales y promotores culturales de la entidad, organizados en compañías y asociaciones civiles, que permitan allegarles recursos bajo esquemas modernos de financiamiento y propiciar con ello la multiplicación de la actividad cultural en todo el estado.
+
+4. Diseñar bases generales de los programas que autorizará la Secretaría de Cultura que fortalezcan, impulsen y vinculen integralmente los procesos de capacitación, creación, producción y difusión del arte, y que aseguren la sustentabilidad, el fortalecimiento y el crecimiento de proyectos artísticos sólidos, de mediano y largo plazo.
+
+5. Diseñar las bases para que la Secretaría de Cultura instrumente mecanismos de supervisión y evaluación a fin de evitar la arbitrariedad en el ejercicio de las funciones culturales.
+
+6. Orientar la política cultural hacia la procuración de un equilibrio en la aplicación presupuestal, considerando las necesidades y características de las distintas regiones del Estado, así como de las diferentes disciplinas artísticas y manifestaciones culturales.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 137.
+
+La integración del Consejo de Cultura. El Consejo de Cultura se integrará:
+
+I. Por el sector público estatal:
+
+1. El titular del Ejecutivo del Estado.
+
+2. La Secretaría de Cultura.
+
+3. La Secretaría de Educación.
+
+4. La Secretaría de Finanzas.
+
+II. Por el sector público federal y municipal:
+
+1. Un representante del área cultural federal.
+
+2. Un representante por cada una de las cinco regiones en el Estado.
+
+III. Por el sector artístico y cultural, con representación de todas las regiones del Estado:
+
+1. Dos integrantes de cada una de las áreas de Teatro, Danza, Música, Artes Plásticas y Visuales, y Literatura; y
+
+2. Un integrante de cada una de las áreas de Cine, Cultura Popular y Patrimonio Cultural, Promoción Cultural, Historia y Periodismo Cultural.
+
+IV. Por el sector de la ciudadanía en general:
+
+1. Un representante de la iniciativa privada.
+
+2. Un representante de la comunidad académica relacionado con el ámbito cultural.
+
+3. Un representante de las organizaciones no gubernamentales relacionado con el ámbito cultural.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 138.
+
+La designación del Consejo de Cultura. El Consejo de Cultura se designará de la manera siguiente:
+
+I. El sector público estatal se integrará por los titulares de las dependencias correspondientes. Cada titular podrá designar un suplente que en todo caso será un funcionario vinculado con el tema cultural.
+
+II. El sector público federal y municipal se integrará:
+
+1. El representante del área cultural federal será invitado por el Ejecutivo del Estado, a través de la Secretaría de Cultura.
+
+2. El representante de cada una de las cinco regiones en el Estado, será elegido por los presidentes municipales que integran la misma región, debiendo recaer la representación en una persona que haya destacado en la cultura en general.
+
+III. El sector artístico y cultural se elegirá de la siguiente forma:
+
+1. Por cada representante de cada área se elegirá un propietario y un suplente por mayoría bajo la misma fórmula.
+
+2. Se erigirán a través del voto libre y secreto de los integrantes que correspondan a cada área del padrón artístico y cultural.
+
+3. La duración del cargo será de tres años, sin derecho a la reelección consecutiva.
+
+4. Para ser integrante del padrón artístico o cultural, se deberá contar con los siguientes requisitos:
+
+a) Tener 18 años de edad y ser coahuilense, residente o haber realizado obra artística o cultural en el Estado, durante los tres años previos a la elección.
+
+b) Ser artista profesional, promotor cultural, periodista cultural, académico, investigador o teórico de la cultura y el arte, con cinco años de participación. Quienes no reúnan el tiempo y requisitos serán incluidos en el padrón en su calidad de postulantes con voz pero sin voto.
+
+c) Presentar solicitud de inscripción y anexar los comprobantes de formación y trayectoria artística. No se considera trayectoria artística el trabajo que hubiera realizado con el carácter de alumno o estudiante.
+
+El registro, validación y actualización del padrón le corresponde a la Secretaría de Cultura, que se auxiliará por un Comité Técnico integrado por tres personas que hayan destacado en la comunidad artística o cultural, a invitación de la Secretaría.
+
+5. Además de los requisitos previstos en el numeral anterior, cada área del padrón deberá cumplir con los siguientes criterios:
+
+a) Artes plásticas y visuales: si el solicitante ha expuesto su obra individualmente en por lo menos 2 ocasiones en alguna institución de reconocido prestigio en las artes visuales; o haber ilustrado por lo menos 2 libros o revistas especializadas en artes de circulación nacional; ha participado como museógrafo o curador en por lo menos 5 exposiciones; o ha recibido por lo menos en 3 ocasiones premios, becas o reconocimientos por su obra o trayectoria artística por parte de una institución de carácter estatal, nacional o internacional.
+
+b) Danza: Si el solicitante tiene una trayectoria como ejecutante, maestro, coreógrafo, director o investigador de danza, con preparación académica en alguna institución o asociación especializada con reconocimiento oficial, y ha participado en por lo menos 5 montajes o programas artísticos; o bien haber recibido 3 premios, becas o reconocimientos otorgados por instituciones oficiales que avalen su trayectoria y experiencia.
+
+c) Literatura: si el solicitante ha publicado 3 de sus obras literarias en alguna editorial o en revista especializada; ha obtenido 3 premios, becas u otro reconocimiento por su obra o trayectoria; o ha publicado al menos 3 libros de crítica o ensayo literario en una editorial establecida, sin tomar en cuenta las publicaciones de autor.
+
+d) Música: si se ha publicado parte de la obra musical del solicitante en alguna editorial o en una revista especializada en por lo menos 3 ocasiones; le han sido presentadas, por lo menos 2 composiciones, por un ensamble musical en alguna sala de conciertos del Estado, del país o del extranjero; le ha sido editado parte de su producción musical en por lo menos 3 discos compactos por una productora musical o institución cultural; o participa como ejecutante o director en algún escenario a donde el público acuda exclusivamente a escuchar música, con una trayectoria continua comprobable y/o una formación académica profesional equivalente al menos a un 60% de la curricula escolar.
+
+e) Teatro: si el solicitante se ha presentado en al menos 5 obras en algún escenario público de clara vocación teatral, ya sea como actor, director o escenógrafo y 10 como diseñador de vestuario, maquillaje, iluminación o sonido; es dramaturgo y ha publicado 3 de sus obras en alguna editorial o en alguna revista especializada en literatura o teatro; ha obtenido 3 premios, becas u otro reconocimiento por su obra o trayectoria; o 3 de sus obras han sido representadas profesionalmente.
+
+f) Cine: si el solicitante ha participado en por lo menos 10 obras cinematográficas profesionales terminadas (cortometraje o largometraje) y con propuesta artística, en formato de cine y/o video, y dicha obra haya sido exhibida en salas de cine o en canales de televisión o ha sido distribuida en empresas especializadas en la comercialización de obras cinematográficas, como Director, Productor, Sonidista Editor, Diseñador de Producción, Director de Arte, Guionista, Músico de cine, Director Asistente, Continuista, Animador Cinematográfico, Creador de Efectos Especiales para Cine, Maquillista especializado en Cine, o Actores de cine sin considerarse este último los que participan como extras; o que haya participado en al menos 3 festivales cinematográficos nacionales y/o internacionales.
+
+g) Cultura Popular y Patrimonio Cultural: si el solicitante es artesano, creador o ejecutante de cualquier manifestación popular con 5 años de trayectoria; o es académico, teórico, creador o crítico sobre patrimonio cultural y ha publicado por lo menos 3 ensayos en catálogos, revistas especializadas o medios de comunicación.
+
+h) Promoción cultural, historia y periodismo cultural: si el solicitante ha realizado actividades comprobadas como empresario artístico o promotor cultural en los últimos 5 años; es historiador o investigador y ha publicado por lo menos 3 ensayos en catálogos, revistas especializadas o medios de comunicación; o es crítico, editorialista, locutor o periodista cultural en medios de comunicación escrita, radial, televisiva o electrónica en los últimos 5 años o haber obtenido premios, por lo menos en 3 ocasiones, por su labor periodística a nivel estatal, nacional o internacional.
+
+6. Para poder ser electo como integrante del sector artístico y cultural, se deben reunir los siguientes requisitos:
+
+a) Estar inscrito en el padrón artístico y cultural a que se refiere el numeral- del artículo - de esta Ley.
+
+b) Poseer reconocida trayectoria demostrada en el área que se postula, teniendo una participación profesional, activa y comprobada de mínimo siete años anteriores al día de su elección.
+
+c) No ocupar el día de la elección un cargo de dirección en mandos medios o superiores en dependencias del gobierno federal, estatal o municipal, a menos que se haya separado con un año de anticipación a la emisión de la convocatoria respectiva.
+
+IV. El sector de la ciudadanía en general:
+
+1. El representante de la iniciativa privada será invitado por el Ejecutivo del Estado de entre los representantes de la iniciativa privada en el Estado.
+
+2. El representante de la comunidad académica o de las organizaciones no gubernamentales, se elegirá por los integrantes del Consejo de Cultura de entre las personas que hayan presentado su solicitud correspondiente.
+
+V. El Consejo de Cultura expedirá las bases de la convocatoria para integrar cada unos (sic) de los sectores correspondientes.
+
+> <small>(ADICIONADO, P.O. 18 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 139.
+
+Del funcionamiento del Consejo de Cultura. Los integrantes del Consejo de Cultura tendrán voz y voto en las sesiones para participar en los asuntos que les compete conforme a la ley.
+
+El reglamento de esta Ley que expedirá el Ejecutivo regulará la organización y funcionamiento del Consejo de Cultura.
 
 ###### ARTÍCULO 24.
 
-El Director General es el representante legal del Instituto. Tiene a su cargo la conducción y ejecución de las acciones del Instituto conforme a la Ley, a este Estatuto Orgánico y a las demás disposiciones aplicables. Conforme al artículo 220 de la Ley tiene las funciones siguientes:
-
-I. Convocar y presidir las sesiones de la Junta, ejecutar los Acuerdos y resoluciones de la misma, así como representar al Instituto en todos los actos que requieran su intervención;
-
-II. Someter a la Junta los proyectos de Estatuto Orgánico, reglamentos y normas previstos en la Ley, así como sus reformas;
-
-III. Presentar a la Junta las políticas, estrategias y planes generales necesarios para la conducción del Instituto;
-
-IV. Someter a la aprobación de la Junta:
-
-a) El programa institucional;
-
-b) El programa operativo anual, de acuerdo con lo establecido en la Ley de Planeación;
-
-c) El programa de administración y constitución de Reservas;
-
-d) El programa anual de préstamos;
-
-e) Los estados financieros; y
-
-f) El informe financiero y actuarial del Instituto.
-
-V. Presentar a la Junta un informe anual del estado que guarde la administración del Instituto;
-
-VI. Autorizar donativos y pagos extraordinarios conforme al Artículo 14, fracción II inciso g) del Estatuto Orgánico;
-
-VII. Resolver los asuntos urgentes del Instituto, a reserva de informar a la Junta sobre las acciones realizadas y los resultados obtenidos;
-
-VIII. Establecer las medidas que aseguren la solidez financiera a largo plazo del Instituto;
-
-IX. Informar bimestralmente a la Secretaría de Hacienda y Crédito Público sobre el incumplimiento en el pago de Cuotas y Aportaciones;
-
-X. Presidir las sesiones de la Comisión Ejecutiva del FOVISSSTE, de la Comisión Ejecutiva del PENSIONISSSTE, y de los Consejos Directivos de TURISSSTE y SuperISSSTE, facultad que podrá ser delegada en los primeros dos casos, en el Vocal Ejecutivo respectivo; y en los segundos dos casos, en su respectivo Director General;
-
-XI. Presidir las sesiones del Comité de Control y Auditoría;
-
-XII. Firmar las escrituras públicas, títulos de crédito, convenios y contratos en que el Instituto intervenga, representar al Instituto en toda gestión judicial, extrajudicial y administrativa y, en general, llevar la firma del Instituto, sin perjuicio de la delegación de facultades que para este efecto estime necesaria;
-
-XIII. Ejercitar y desistirse de las acciones legales;
-
-XIV. Publicar los reglamentos, aprobados por la Junta y expedir los manuales de organización, de procedimientos, de servicios al público y de integración y funcionamiento del Instituto y de sus demás órganos de gobierno y Unidades Administrativas internas, así como las disposiciones y lineamientos normativos distintos a los reglamentos expedidos por el Titular del Ejecutivo Federal necesarios para la operación del Instituto;
-
-XV. Proponer a la Junta el nombramiento y, en su caso, la remoción del Secretario General, de los Titulares de las Unidades Administrativas Centrales y Desconcentradas del Instituto, y nombrar a los trabajadores de base y de confianza de los siguientes niveles, sin perjuicio de la delegación de facultades que para este efecto estime necesaria;
-
-XVI. Establecer los mecanismos de evaluación de desempeño del Instituto;
-
-XVII. Formular el calendario oficial de actividades del Instituto y conceder licencias al personal, vigilar sus labores e imponer las correcciones disciplinarias procedentes conforme a las Condiciones Generales de Trabajo, sin perjuicio de la delegación de facultades que para este efecto estime necesaria;
-
-XVIII. Supervisar a través de la Coordinación de Hospitales Regionales o del servidor público que designe, el funcionamiento de los hospitales regionales del Instituto, con el fin de promover que los servicios que se presten a los usuarios y derechohabientes se brinden con calidad, calidez, oportunidad y eficacia, así como cuidar que los servidores públicos de dichas Unidades Administrativas cumplan con lo establecido en el artículo primero del Estatuto Orgánico;
-
-XIX. Operar por sí mismo, o por el servidor público que designe, las relaciones internacionales, intersectoriales e interinstitucionales; y
-
-XX. Las demás que le fijen las leyes, los reglamentos y aquellas que expresamente le asigne la Junta.
+EL TRABAJO CULTURAL Y ARTÍSTICO EN EL FORTALECIMIENTO DE LA IDENTIDAD CULTURAL. El Estado reconoce en el trabajo de los artistas y creadores el fortalecimiento de la identidad cultural.
 
 ###### ARTÍCULO 25.
 
-El Director General es auxiliado en el ejercicio de sus funciones por el Secretario General, por los Directores de las Unidades Administrativas Centrales, por los Coordinadores, por los Vocales Ejecutivos, por los Directores de Unidades Administrativas Desconcentradas, por los Delegados y por los demás servidores públicos del Instituto.
+EL TRABAJO CULTURAL Y ARTÍSTICO EN LA SOCIEDAD DEMOCRÁTICA. El Estado reconoce que el trabajo cultural y artístico es un factor determinante para la preservación de la identidad cultural. Impulsa la calidad de vida, la tolerancia, la justicia, la paz social y el desarrollo de la sociedad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 ###### ARTÍCULO 26.
 
-El Director General puede delegar cualquiera de sus facultades en otros servidores públicos del Instituto, sin perjuicio de ejercerlas en forma directa, con excepción de aquellas que por disposición legal expresa o determinación de la Junta le correspondan exclusivamente.
+LA GARANTÍA DE NO-DISCRIMINACIÓN CULTURAL. Queda prohibida toda discriminación cultural motivada por origen étnico o nacional, género, edad, situación de discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias u orientación sexual, estado civil o cualquier otra circunstancia o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades individuales y colectivos.
 
-Para los efectos anteriores, puede emitir acuerdos delegatorios u otorgar poderes generales y especiales con las facultades que le competan, entre ellas las que requieran autorización o cláusula especial, así como sustituirlos y revocarlos. Puede conferir poderes generales y especiales a terceros para llevar la representación y defensa jurídica de los intereses del Instituto.
+Toda persona tiene derecho a adquirir y desarrollar la formación necesaria para el ejercicio de sus facultades creativas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 27.
 
-En sus ausencias, el Director General será suplido por el Secretario General, por el Director Jurídico, por el Director de Administración, por el Director de Finanzas o por el Director de Prestaciones Económicas, Sociales y Culturales, en el orden indicado.
+LAS ACCIONES EN EL CAMPO DE LA CULTURA. La Secretaría promoverá acciones en el campo de la cultura para:
+
+I. La vinculación con educación, turismo y medio ambiente.
+
+II. La vinculación con el sector laboral para incentivar acciones y programas culturales, incorporar al trabajador al desarrollo cultural y en especial para el fomento al empleo de los artistas y creadores culturales en la disciplina de su especialidad.
+
+III. La vinculación con nuevas tecnologías.
+
+IV. Propiciar el financiamiento y los apoyos al desarrollo cultural.
+
+V. Proteger y garantizar los derechos de creadores, intérpretes y ejecutantes.
+
+VI. La difusión de actividades culturales.
+
+VII. La protección y estímulo para el desarrollo de los niños creadores y artistas.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPÍTULO TERCERO. De la Comisión Ejecutiva del Fondo de la Vivienda
 
 ###### ARTÍCULO 28.
 
-La Comisión Ejecutiva del FOVISSSTE es el órgano que coadyuva con el Instituto en la administración del fondo de vivienda de los trabajadores al servicio del Estado. Se integra por dieciocho miembros:
-
-I. El Director General del Instituto, quien la preside;
-
-II. El Vocal Ejecutivo, nombrado por la Junta a propuesta del Director General del Instituto;
-
-III. Tres vocales nombrados por la Secretaría de Hacienda y Crédito Público, y un vocal nombrado por cada una de las siguientes instituciones: la Secretaría de Desarrollo Social, la Secretaría del Trabajo y Previsión Social, la Secretaría de la Función Pública y la Comisión Nacional de Vivienda;
-
-IV. Nueve vocales de las organizaciones de trabajadores, designados conforme a las Bases expedidas por el Ejecutivo Federal y en cumplimiento de lo señalado en el artículo 225 de la Ley; y
-
-El Secretario de la Junta asiste con voz y sin voto.
+LAS REDES DE CASAS DE CULTURA, DE CENTROS CULTURALES Y DE MUSEOS. Para impulsar el desarrollo cultural en el estado, la Secretaría propiciará la creación de redes de casas de cultura, de centros culturales, museos y demás espacios de desarrollo cultural.
 
 ###### ARTÍCULO 29.
 
-Los integrantes de la Comisión Ejecutiva del FOVISSSTE no pueden ser miembros de la Junta, con excepción del Director General del Instituto. No puede formar parte de este órgano el Secretario General de la sección sindical que corresponda al FOVISSSTE.
+LA PROMOCIÓN DE ACCIONES Y OBJETIVOS. Las acciones y objetivos previstos en los artículos 31 y 33 de esta ley, se promoverán en forma equilibrada a través de las redes para alentar el desarrollo cultural municipal y regional, a partir de los principios de descentralización y fortalecimiento económico del sector.
 
 ###### ARTÍCULO 30.
 
-Para ocupar el cargo de Vocal de la Comisión Ejecutiva se requiere ser mexicano, estar en pleno goce y ejercicio de los derechos civiles y políticos, ser de reconocida honorabilidad y contar con experiencia técnica y administrativa.
-
-Los vocales duran en sus funciones por todo el tiempo que subsista su designación.
-
-Los representantes de las organizaciones de trabajadores podrán recibir una remuneración por el desempeño de sus funciones, de conformidad con lo que al respecto acuerde la Junta, con base en la propuesta que formule la Secretaría General a partir de las disponibilidades presupuestales. Los representantes del Estado no recibirán remuneración alguna por sus labores en la Comisión Ejecutiva de FOVISSSTE.
-
-Por cada vocal propietario se designa un suplente, que actúa en caso de faltas temporales del propietario. Los representantes del Estado deberán ser suplidos por un servidor público de rango inmediato inferior al del miembro propietario. Los representantes de los trabajadores serán suplidos por quienes designen las organizaciones de las cuales provengan, de acuerdo con las Bases expedidas por el Ejecutivo Federal.
+LOS MUSEOS. Son museos los espacios e instituciones de carácter permanente que adquieren, conservan, investigan, custodian, comunican y/o exhiben para fines de estudio, educación y contemplación, conjuntos y colecciones de bienes del patrimonio cultural tangible e intangible, dotados de valor arqueológico, artístico, histórico, paleontológico, científico, tecnológico o de cualquier otra naturaleza de carácter cultural.
 
 ###### ARTÍCULO 31.
 
-La Comisión Ejecutiva del FOVISSSTE tendrá las atribuciones siguientes:
+LOS OBJETIVOS DE LOS MUSEOS. Los museos tienen los objetivos siguientes:
 
-I. Resolver sobre las operaciones del FOVISSSTE, excepto aquellas que por su importancia ameriten Acuerdo expreso de la Junta, la que deberá acordar lo conducente dentro de los quince días siguientes a la fecha en que se haga la petición correspondiente;
+I. La planeación, diagnóstico, promoción, difusión, capacitación, organización, coordinación, comunicación, utilización de nuevas tecnologías, y la evaluación de las actividades que se realicen con vistas a elevar la calidad de sus servicios.
 
-II. Someter a consideración de la Junta los asuntos a que se refiere el artículo 214, fracción XVI de la Ley; y
+II. La conservación, catalogación, restauración y exhibición ordenada de sus bienes y colecciones.
 
-III. Las demás que le señalen la Ley, el Estatuto Orgánico, el Reglamento Orgánico del Fondo de la Vivienda o la Junta.
+III. La investigación en el ámbito de sus colecciones o de su especialidad.
+
+IV. La organización periódica de exposiciones, conforme a los criterios técnicos y científicos pertinentes, de acuerdo con la naturaleza del museo.
+
+V. La elaboración de catálogos y monografías de sus bienes, colecciones y fondos museísticos.
+
+VI. El desarrollo de actividades didácticas a partir de sus contenidos.
+
+VII. Coadyuvar con los particulares para la adecuada tenencia, custodia, restauración, conservación, exhibición y difusión de sus colecciones, fomentando con pleno respeto a su régimen de propiedad, el acceso público a los valores culturales de los cuales son portadores.
+
+VIII. Los demás que se les encomienden en función de esta ley, o por sus disposiciones reglamentarias o demás disposiciones aplicables.
 
 ###### ARTÍCULO 32.
 
-La Comisión Ejecutiva del FOVISSSTE sesionará por lo menos una vez cada dos meses. Las sesiones serán válidas con la asistencia de por lo menos diez de sus miembros, de los cuales uno será el Presidente de la Comisión Ejecutiva, cuatro representantes del Estado y cinco de las organizaciones de trabajadores.
+LA GARANTÍA DE ACCESO A LOS MUSEOS. Los museos y espacios culturales públicos estarán abiertos en los días y horas establecidos según sus condiciones, y sus costos serán accesibles a la demanda social y a las condiciones de cada espacio.
 
-Las decisiones se toman por mayoría de votos de los presentes y, en caso de empate, el Presidente tiene voto de calidad.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+Las personas adultas mayores, gozarán de tarifas preferenciales siempre que lo acrediten con una identificación oficial; para el efecto, la credencial de elector, o la que emite el Instituto Nacional de las Personas Adultas Mayores.
 
 ###### ARTÍCULO 33.
 
-La Comisión Ejecutiva del FOVISSSTE cuenta con un Secretario Técnico, designado por la propia Comisión a propuesta del Vocal Ejecutivo.
+LAS CASAS DE CULTURA Y CENTROS CULTURALES. Formarán parte de las redes de casas de la cultura, centros y espacios de desarrollo cultural, las instituciones públicas y privadas que impulsen los siguientes objetivos:
 
-La integración y atribuciones de la Secretaría Técnica son las establecidas en el Reglamento Orgánico del Fondo de la Vivienda.
+I. Promover la participación de la comunidad en las diferentes expresiones culturales.
+
+II. Propiciar la comprensión, apreciación y práctica de las diferentes disciplinas artísticas.
+
+III. Desarrollar las habilidades necesarias para la expresión artística de los ciudadanos.
+
+IV. Coadyuvar a la formación integral de la persona y al desarrollo de su creatividad, a partir de la educación artística.
+
+V. Contribuir a la preparación de ciudadanos aptos para conocer, valorar y apreciar la calidad de las manifestaciones artísticas.
+
+VI. Identificar, estimular y encauzar vocaciones artísticas para su adecuado desarrollo.
+
+VII. Encauzar hacia actividades culturales el tiempo libre de la ciudadanía.
+
+VIII. Rescatar, investigar, registrar y difundir los elementos de las culturas populares e indígenas.
+
+IX. Coadyuvar a la defensa del patrimonio cultural, municipal, regional, estatal y nacional, vigilando la preservación de los bienes tangibles e intangibles que lo integran.
+
+X. Servir de espacio para respaldar y conjuntar los esfuerzos de otras organizaciones con fines culturales.
+
+XI. Apoyar a los creadores y artistas del estado, mediante estímulos y acciones concretas.
+
+XII. Difundir las expresiones artísticas y culturales de nuestro pluralismo cultural.
+
+XIII. Alentar las expresiones artísticas mediante la impartición de cursos y talleres.
+
+XIV. Formar cuadros básicos y directivos para el impulso y promoción de la cultura.
+
+XV. Cualquier otro, que en términos generales, promueva el desarrollo cultural en el Estado.
 
 ### CAPÍTULO CUARTO. De la Comisión Ejecutiva del Fondo Nacional de Pensiones
 
 ###### ARTÍCULO 34.
 
-La Comisión Ejecutiva del PENSIONISSSTE es el órgano de dirección y administración del PENSIONISSSTE. Se integra por dieciocho miembros:
-
-I. El Director General del Instituto, quien la preside;
-
-II. El Vocal Ejecutivo del PENSIONISSSTE, nombrado por la Junta a propuesta del Director General del Instituto;
-
-III. Tres vocales nombrados por la Secretaría de Hacienda y Crédito Público, dos vocales nombrados por el Banco de México y un vocal nombrado por cada una de las siguientes instituciones: la Secretaría del Trabajo y Previsión Social y la Secretaría de la Función Pública; y
-
-IV. Nueve vocales nombrados por las organizaciones de trabajadores conforme a las Bases expedidas por el Ejecutivo Federal en cumplimiento de lo señalado en el artículo 225 de la Ley.
-
-El Secretario de la Junta asiste con voz y sin voto.
+EL PRINCIPIO DE EFICACIA. El derecho a acceder de manera eficaz a la cultura tiene por objeto que las autoridades interpreten, desarrollen y apliquen las normas de la materia para favorecer el ejercicio del derecho de acceso a la cultura.
 
 ###### ARTÍCULO 35.
 
-Los integrantes de la Comisión Ejecutiva del PENSIONISSSTE no pueden ser miembros de la Junta del Instituto, con excepción del Director General. No puede formar parte de este órgano el Secretario General de la sección sindical que corresponda al PENSIONISSSTE.
+LOS CRITERIOS DEMOCRÁTICOS DE INTERPRETACIÓN. La interpretación y aplicación del derecho de acceso a la cultura se regirá por los criterios siguientes:
+
+I. El marco constitucional se determina por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de Coahuila, la Declaración Universal de los Derechos Humanos, el Pacto Internacional de Derechos Civiles y Políticos, la Convención Interamericana de Derechos Humanos, y los demás instrumentos internacionales suscritos y ratificados por el Estado mexicano.
+
+II. Sin perjuicio del precedente judicial federal o local y su obligatoriedad, se tomará en cuenta la doctrina de los órganos internacionales especializados en la materia.
+
+III. Prevalecerá la aplicación especial de esta ley, sin perjuicio de lo previsto en las fracciones siguientes.
+
+IV. Si las normas en la materia tienen diversas interpretaciones prevalecerá aquella que tutele con mayor eficacia el derecho de acceso a la cultura.
+
+V. Si resulta algún conflicto entre métodos de interpretación prevalecerá aquél que desarrolle los principios del Estado humanista, social y democrático que postula la Constitución Política del Estado de Coahuila.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 36.
 
-Para ocupar el cargo de Vocal de la Comisión Ejecutiva del PENSIONISSSTE se requiere ser mexicano, estar en pleno goce y ejercicio de los derechos civiles y políticos, gozar de reconocido prestigio en materia financiera, económica, jurídica o de seguridad social, ser de reconocida honorabilidad y contar con experiencia técnica y administrativa.
-
-Los vocales duran en sus funciones el tiempo que subsista su designación.
-
-Los representantes de las organizaciones de trabajadores podrán recibir una remuneración por el desempeño de sus funciones, de conformidad con lo que al respecto acuerde la Junta, con base en la propuesta que formule la Secretaría General a partir de las disponibilidades presupuestales. Los representantes del Estado no recibirán remuneración alguna por sus labores en la Comisión Ejecutiva de PENSIONISSSTE.
-
-Por cada vocal propietario se designa un suplente, que actuará en caso de faltas temporales del propietario. Los representantes del Estado serán suplidos por un servidor público de rango inmediato inferior al del propietario. Los representantes de los trabajadores serán suplidos por quienes designen las organizaciones de las cuales provengan, de acuerdo a las Bases expedidas por el Ejecutivo Federal.
+LA SECRETARÍA COMO ÓRGANO GARANTE DE INTERPRETACIÓN GENERAL. La Secretaría establecerá criterios generales de interpretación de las normas en la materia, para que las dependencias y entidades públicas y los particulares apliquen con certeza el principio de la interpretación más favorable del derecho de acceso a la cultura.
 
 ###### ARTÍCULO 37.
 
-La Comisión Ejecutiva del PENSIONISSSTE tiene las atribuciones siguientes:
-
-I. Resolver sobre las operaciones del PENSIONISSSTE, excepto aquellas que por su importancia ameriten Acuerdo expreso de la Junta;
-
-II. Someter a consideración de la Junta los asuntos a que se refiere el artículo 214, fracción XVII de la Ley;
-
-III. Proponer a la Junta del Instituto la estrategia de inversión de los recursos de pensiones conforme a lo establecido en el artículo 109 de la Ley;
-
-IV. Determinar, a propuesta de los Comités de Inversión de las Sociedades de Inversión Especializadas de Fondos para el Retiro administradas por el PENSIONISSSTE, y previa opinión de los Comités de Riesgos Financieros de las mismas Sociedades de Inversión, el régimen de inversión de los recursos;
-
-V. Recibir los informes del Contralor Normativo y del Comisario de cada Sociedad de Inversión Especializada de Fondos para el Retiro administradas por el PENSIONISSSTE, así como los dictámenes de los auditores externos; y
-
-VI. Las demás que señale la Ley, este Estatuto Orgánico, el Reglamento Orgánico del PENSIONISSSTE, la Junta o la normatividad aplicable al Sistema de Ahorro para el Retiro.
+EL INTERÉS PÚBLICO DEL PATRIMONIO CULTURAL. Es de utilidad e interés público la investigación, protección, conservación, restauración, recuperación y enriquecimiento del patrimonio cultural del estado.
 
 ###### ARTÍCULO 38.
 
-La Comisión Ejecutiva del PENSIONISSSTE sesionará por lo menos una vez cada dos meses.
-
-Las sesiones de la Comisión Ejecutiva son válidas con la asistencia de por lo menos diez de sus miembros, de los cuales uno será el Presidente de la Comisión Ejecutiva, cuatro representantes del Estado y cinco de las organizaciones de trabajadores.
-
-Las decisiones se toman por mayoría de votos de los presentes y, en caso de empate, el Presidente tiene voto de calidad.
+LA CONSTITUCIÓN DEL PATRIMONIO CULTURAL. El patrimonio cultural del estado está constituido por los bienes tangibles e intangibles portadores de valores testimoniales de la identidad de los individuos y de sus comunidades, con independencia de su fecha de creación, los cuales serán objeto de un régimen especial de protección, en los términos de la presente ley.
 
 ###### ARTÍCULO 39.
 
-La Comisión Ejecutiva del PENSIONISSSTE cuenta con un Secretario Técnico, designado por la propia Comisión, a propuesta del Vocal Ejecutivo.
+EL RÉGIMEN ESPECIAL DEL PATRIMONIO CULTURAL. Para los efectos del artículo anterior se considerará el establecimiento de un régimen especial de protección al patrimonio cultural del estado, conforme a su naturaleza, a favor de:
 
-La integración y atribuciones de la Secretaría Técnica se establecen en el Reglamento Orgánico del PENSIONISSSTE.
+I. Los monumentos, sitios históricos, obras arquitectónicas, de escultura o de pintura monumental.
+
+II. Los bienes, elementos o estructuras de carácter arqueológico y/o paleontológico.
+
+III. Inscripciones y grupos de elementos pictográficos que tengan valor desde el punto de vista de la historia, del arte o de la ciencia.
+
+IV. Los centros históricos de las poblaciones del estado, así como los conjuntos, grupos de construcciones aisladas o reunidas cuya arquitectura, unidad e integración en el paisaje, también les otorgue un valor cultural excepcional desde el punto de vista de la historia, del arte o de la ciencia.
+
+V. Los sitios y lugares creados por el hombre que tengan un valor excepcional desde el punto de vista de la historia, del arte o de la ciencia.
+
+VI. Las zonas arqueológicas, los monumentos artísticos e históricos que cuenten con una declaratoria federal o estatal.
+
+VII. Las formaciones geológicas y fisiográficas; las zonas delimitadas que hayan sido o sean el hábitat de especies animales y vegetales; así como los monumentos naturales constituidos por formaciones físicas o biológicas, o por grupos de esas formaciones que tengan un valor excepcional desde el punto de vista de la historia, del arte o de la ciencia.
+
+VIII. Los idiomas, lenguas y dialectos, fiestas, celebraciones, ceremonias y ritos, las ferias, la gastronomía e indumentaria; las expresiones artísticas; la memoria histórica y las tradiciones orales; las tecnologías y los conocimientos propios; las formas tradicionales de organización, las culturas populares y cualesquiera otra manifestación intangible de la identidad cultural.
+
+IX. Así como los demás bienes tangibles e intangibles que les estén asociados.
 
 ### CAPÍTULO QUINTO. De la Comisión de Vigilancia
 
 ###### ARTÍCULO 40.
 
-La Comisión de Vigilancia tiene por objeto vigilar y evaluar el desempeño general del Instituto, y el cumplimiento de las responsabilidades y funciones de la Secretaría General y de las Unidades Administrativas del Instituto.
+LAS CATEGORÍAS DEL PATRIMONIO CULTURAL. Las categorías que de manera enunciativa se consideran para el establecimiento de un régimen especial de protección estatal y municipal, son:
 
-Se integra por once miembros, con voz y voto:
+I. Bienes o sitios históricos. Los bienes muebles e inmuebles o sitios históricos vinculados a la historia social, política, económica, industrial y religiosa a los que las comunidades reconozcan un valor cultural, y aquellos relacionados con hechos o personajes históricos.
 
-I. Dos representantes de la Secretaría de Hacienda y Crédito Público;
+II. Bienes artísticos. Los bienes muebles e inmuebles reconocidos por las comunidades como portadores de valores estéticos y cuya importancia acredite su conservación, tales como:
 
-II. Dos representantes de la Secretaría de la Función Pública;
+a. Las obras plásticas y artesanales;
 
-III. Un representante de la Secretaría de Salud;
+b. Los archivos y documentos literarios y musicales; y
 
-IV. Un representante del Instituto, designado por el Director General, quien es el Secretario Técnico; y
+c. Los inmuebles que por su diseño, ornamentación o características constructivas marquen una etapa o estilo en la arquitectura regional.
 
-V. Cinco representantes designados por las organizaciones de trabajadores conforme a las Bases expedidas por el Ejecutivo Federal, en cumplimiento de lo señalado en el artículo 225 de la Ley.
+III. Bienes científicos. Todo bien, documento, registro, expediente, archivo, colección, biblioteca y en general, todo aquel objeto reconocido como relevante para la investigación tecnológica y científica.
 
-Los resultados de sus actividades y programa de trabajo, deberán someterse a consideración de la Junta a través del Director General.
+IV. Los petroglifos y bienes paleontológicos.
 
-Para el ejercicio de sus funciones, el Secretario Técnico de la Comisión de Vigilancia tendrá el apoyo de un Prosecretario, nombrado y removido por el Director General.
+V. Zonas protegidas. Las áreas territoriales reconocidas por las comunidades como relevantes por su significado histórico, artístico, natural o simbólico.
 
 ###### ARTÍCULO 41.
 
-Para ser miembro de la Comisión de Vigilancia se requiere ser mexicano, en pleno goce y ejercicio de los derechos civiles y políticos, de reconocido prestigio en materia financiera, económica, jurídica o de seguridad social, y con experiencia técnica y administrativa.
-
-Los integrantes de la Comisión de Vigilancia duran en sus funciones el tiempo que subsista su designación.
-
-Los representantes de las organizaciones de trabajadores podrán recibir una remuneración por el desempeño de sus funciones, de conformidad con lo que al respecto acuerde la Junta, con base en la propuesta que formule la Secretaría General a partir de las disponibilidades presupuestales. Los representantes del Estado no recibirán remuneración alguna por sus labores en la Comisión de Vigilancia.
-
-Por cada miembro de la Comisión de Vigilancia se nombrará un suplente, que actuará en caso de faltas temporales del titular, quien debe ser un servidor público con rango inmediato inferior al del propietario, en el caso de los representantes del Estado; y de quienes las organizaciones de trabajadores nombren con este carácter, en lo que corresponde a su representación.
-
-En caso de ausencia temporal del Secretario Técnico, el Prosecretario de la Comisión de Vigilancia lo suplirá.
+EL RÉGIMEN DE EXCLUSIÓN DE BIENES Y ZONAS FEDERALES. Quedan excluidos del régimen de esta ley, los bienes propiedad de la Nación y los bienes y zonas que hayan sido objeto de una declaratoria por parte del Presidente de la República, en términos de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos.
 
 ###### ARTÍCULO 42.
 
-La Junta designará, cada doce meses al Presidente de la Comisión de Vigilancia, en forma rotativa de entre los miembros representantes del Estado. En caso de inasistencia del Presidente y su suplente, el Secretario Técnico presidirá la sesión de trabajo.
+EL RÉGIMEN ESPECIAL DE PROTECCIÓN DEL PATRIMONIO CULTURAL. El régimen especial de protección del patrimonio cultural tendrá por objeto detener y reparar el deterioro causado por agentes naturales o por la acción humana.
+
+Se consideran patrimonio cultural:
+
+I. Sitios de interés histórico: conjunto de inmuebles o espacios urbanos o naturales vinculado con la historia social, política, religiosa, económica o cultural del Estado.
+
+II. Conjuntos arquitectónicos: ciudades, villas, pueblos, centros históricos, centros urbanos o rurales, barrios o parte de ellos, que por haber conservado en gran proporción la forma, las edificaciones y la unidad de su traza urbana, reflejan claramente épocas pasadas, costumbres y tradiciones.
+
+III. Zonas de interés simbólico: localidades que por las peculiaridades de su traza, edificaciones, espacios abiertos, su relación con el entorno natural, además de sus tradiciones y costumbres, constituyen sitios de importancia cultural.
+
+IV. Zonas de atracción natural: sitios y lugares que por sus características naturales, topográficas, hidrológicas, de flora y fauna constituyen, por sí mismos, conjuntos de atracción pública o de interés científico.
+
+V. Zonas paleontológicas: sitios y lugares depositarios de vestigios paleontológicos que, por sus características, deben de ser objeto de un régimen de protección especial.
+
+VI. Los bienes y las zonas federales: los monumentos artísticos e históricos y las zonas arqueológicas que cuenten con declaratoria federal o estatal que serán objeto de un régimen de protección que haga concurrir las facultades estatales y municipales para su preservación, de manera especial en lo relativo a la planeación urbana, giros comerciales, tránsito y licencias de construcción.
+
+VII. Los bienes culturales intangibles y los valores culturales: idiomas, lenguas y dialectos, fiestas, celebraciones, ceremonias y ritos; ferias; gastronomía e indumentaria; expresiones artísticas; memoria histórica y tradiciones orales; tecnologías y conocimientos propios; formas tradicionales de organización; las culturas populares e indígenas y cualesquiera otra manifestación intangible de la identidad cultural.
 
 ###### ARTÍCULO 43.
 
-La Comisión de Vigilancia tiene las siguientes atribuciones:
+LAS POLÍTICAS Y ACCIONES EN MATERIA DE PROTECCIÓN. Para garantizar una protección y conservación eficaces, así como para revalorar el patrimonio cultural y natural del estado se adoptarán:
 
-I. Vigilar el cumplimiento de las disposiciones legales y reglamentarias aplicables al Instituto;
+I. Políticas culturales que atribuyan al patrimonio cultural del estado una función en la vida colectiva, así como para integrar la protección y enriquecimiento de dicho patrimonio a los programas estatales de desarrollo.
 
-II. Verificar que las inversiones y los recursos del Instituto se destinen a los fines previstos en los presupuestos y programas aprobados;
+II. Acciones para el desarrollo de estudios e investigación científica y técnica que permitan perfeccionar los métodos de intervención frente a los peligros que amenacen al patrimonio cultural.
 
-III. Determinar la realización de auditorías en todos los casos en que lo estime necesario, para lo cual puede auxiliarse con las áreas afines del propio Instituto;
+III. Acciones para la capacitación y preparación de personal especializado en materia de protección, conservación, rehabilitación y revaloración del patrimonio cultural, así como para estimular la investigación en este campo.
 
-IV. Proponer a la Junta o al Director General, según sus respectivas atribuciones, las medidas que juzgue apropiadas para alcanzar una mayor calidad, eficiencia y eficacia en la administración de los seguros, prestaciones y servicios;
-
-V. Examinar los estados financieros y la valuación financiera y actuarial del Instituto; verificar la suficiencia de las Cuotas y Aportaciones y el cumplimiento de los programas anuales de constitución de Reservas;
-
-VI. Analizar la información relativa al entero de Cuotas y Aportaciones establecidas en la Ley;
-
-VII. Designar a los auditores externos que auxilien a la Comisión de Vigilancia en las actividades que así lo requieran;
-
-VIII. Conformar, a través de la Secretaría Técnica, los grupos de trabajo que estime necesarios para el cumplimiento de lo señalado en el artículo 224 de la Ley;
-
-IX. Citar a comparecer a los Titulares de la Secretaría General, de las Unidades Administrativas Centrales y Desconcentradas del Instituto y de las Coordinaciones, para que éstos rindan informe de su gestión, previa aprobación de la Junta del programa anual de visitas y comparecencias;
-
-X. Realizar visitas de supervisión a las Unidades Administrativas Desconcentradas del Instituto, con el objeto de verificar que se cumpla con las metas programadas, con parámetros de calidad, eficiencia, eficacia y oportunidad. Podrá emitir recomendaciones para la corrección de las deficiencias observadas;
-
-XI. Informar al Director General y, en su caso, al titular del Órgano Interno de Control, las irregularidades detectadas en el ejercicio de sus funciones;
-
-XII. Participar en los órganos colegiados y grupos de trabajo en los que sea convocada; y
-
-XIII. Las demás que señalen la Ley, este Estatuto Orgánico, otras disposiciones aplicables o aquellas que expresamente le asigne la Junta del Instituto.
+IV. Acciones para el uso respetuoso y creativo del patrimonio cultural.
 
 ###### ARTÍCULO 44.
 
-Corresponde al Presidente de la Comisión de Vigilancia:
+LA PROTECCIÓN DE OFICIO O A PETICIÓN DE PARTE. Los lugares o las zonas a que hacen alusión los artículos 39, 40 y 42 de esta ley serán objeto de un régimen especial de protección, a petición de parte o de oficio, en los términos y en las condiciones consignados en la declaratoria expedida mediante decreto del Gobernador del Estado.
 
-I. Representar a la Comisión de Vigilancia ante la Junta y el Director General;
+Previamente, de acuerdo con el procedimiento administrativo establecido en el reglamento de esta ley para la declaratoria de zona protegida, se oirá a los particulares interesados, que deberán ser notificados y tendrán derecho a rendir pruebas referentes al valor cultural del bien y a formular alegatos en un término no mayor de 20 días.
 
-II. Rendir a la Junta el Informe Anual de la Comisión de Vigilancia;
-
-III. Verificar que se cumpla el programa anual de comparecencias y visitas aprobado por la Junta;
-
-IV. Presidir las sesiones y firmar las actas correspondientes;
-
-V. Convocar a los miembros de la Comisión de Vigilancia a las sesiones ordinarias y extraordinarias;
-
-VI. Informar en cada sesión del cumplimiento de los Acuerdos emitidos;
-
-VII. Resolver con su voto de calidad en los casos de empate; y
-
-VIII. Las demás que señalen otras disposiciones aplicables.
+La resolución definitiva que apruebe o deseche la declaratoria se pronunciará dentro de los 30 días siguientes a la expiración del término de que trata el párrafo anterior.
 
 ###### ARTÍCULO 45.
 
-Corresponde al Secretario Técnico de la Comisión de Vigilancia:
+LOS REQUISITOS PARA EXPEDIR UNA DECLARATORIA DE ZONA PROTEGIDA. La declaratoria de zona protegida estatal o municipal, deberá contener:
 
-I. Asistir a las sesiones y visitas de supervisión;
+I. La causa de interés público que motiva la declaratoria.
 
-II. Presidir las sesiones y visitas en caso de ausencia del Presidente y su suplente;
+II. La descripción precisa del perímetro que la comprende, considerando el establecimiento de un perímetro nuclear, uno de transición y otro de amortiguamiento.
 
-III. Levantar las actas de las sesiones e integrarlas al registro autorizado;
+III. Los planos de la zona.
 
-IV. Hacer llegar a los miembros, con la oportuna anticipación, la convocatoria, el orden del día y la carpeta documental de apoyo a las actividades y sesiones de la Comisión de Vigilancia;
+IV. La forma de integración de la Junta que deberá encargarse del control y vigilancia para el exacto cumplimiento de la declaratoria.
 
-V. Comunicar a quien corresponda, para su seguimiento y ejecución, los Acuerdos tomados en las sesiones;
+V. Especialmente las características del lugar o de la zona y, en su caso, las condiciones a las que deberán sujetarse las intervenciones que se hagan en dichas áreas; y
 
-VI. Conformar y apoyar el funcionamiento de los grupos de trabajo que la Comisión de Vigilancia estime necesarios;
-
-VII. Firmar las actas de las sesiones y recabar las firmas de los asistentes;
-
-VIII. Formular las recomendaciones y propuestas de los asuntos a tratar en el orden del día;
-
-IX. Emitir su voto en los asuntos que se propongan en las sesiones;
-
-X. Cumplir con las obligaciones y responsabilidades que resulten de los Acuerdos tomados en las sesiones; y
-
-XI. Las demás que le encomienden la propia Comisión de Vigilancia y el Director General.
+VI. Las demás que sean necesarias para cumplir esta ley y su reglamento.
 
 ###### ARTÍCULO 46.
 
-La Comisión de Vigilancia celebrará por lo menos una sesión ordinaria cada tres meses. El orden del día contendrá un reporte sobre el cumplimiento de los Acuerdos adoptados.
-
-Podrá realizar sesiones extraordinarias, a las que convoca su Presidente o cuatro de sus miembros.
-
-Para que sus Acuerdos sean válidos, es necesario que estén presentes cuando menos tres representantes del Estado, uno de los cuales será el Presidente, y tres de las organizaciones de trabajadores.
+LA PUBLICACIÓN DE LA DECLARATORIA DE ZONA PROTEGIDA. La declaratoria de un lugar o zona protegida deberá publicarse en el Periódico Oficial del Gobierno de Estado y tendrá por objeto desarrollar un plan de manejo que propicie obras tendientes a su conservación, restauración y mejoramiento.
 
 ###### ARTÍCULO 47.
 
-Son obligaciones de los miembros de la Comisión de Vigilancia:
+EL COMITÉ DEL PATRIMONIO CULTURAL DEL ESTADO. El Comité será presidido por el titular del Ejecutivo del Estado, quien designará un secretario técnico, y en él participarán las siguientes instancias:
 
-I. Asistir a las sesiones en el lugar, fecha y hora señalados en la convocatoria;
+I. La Secretaría de Educación Pública del Estado de Coahuila.
 
-II. Formular las recomendaciones y propuestas de los asuntos a tratar en el orden del día;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2007)</small>
 
-III. Emitir su voto en los asuntos que se propongan en las sesiones;
+II. La Secretaría de Obras Públicas y Transporte.
 
-IV. Cumplir con las obligaciones y responsabilidades que resulten de los Acuerdos tomados en las sesiones;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
-V. Comunicar al Presidente, por conducto del Secretario Técnico, con la oportuna anticipación, la imposibilidad para asistir a las sesiones;
+III. La Secretaría.
 
-VI. Guardar secrecía sobre los asuntos que se atienden. Para el cumplimiento de las responsabilidades en materia de acceso a la información y garantizar la protección de datos personales, la Secretaría Técnica dará atención y cumplimiento a las solicitudes que sean de la competencia de la Comisión de Vigilancia; y
+IV. El Centro del Instituto Nacional de Antropología e Historia en el Estado.
 
-VII. Las demás que les fijen las leyes o los reglamentos y aquellas que expresamente les asigne la Comisión de Vigilancia.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+V. Secretaría de Medio Ambiente.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+VI. Secretaría de Desarrollo Económico, Competitividad y Turismo.
+
+VII. El Instituto Coahuilense de Acceso a la Información Pública.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+VIII. Dos promotores culturales reconocidos, a propuesta de la Secretaría.
+
+IX. Las autoridades federales, estatales y municipales de las cuales se estime importante su presencia.
+
+X. Dos representantes de centros históricos en el Estado, invitados a la sesión en la que se trate algún asunto de su interés.
+
+XI. Los ayuntamientos municipales, a través de las Juntas de Protección y Conservación del Patrimonio Cultural, invitados a la sesión en la que se trate algún asunto de su interés.
+
+XII. Cuando la naturaleza del bien de que se trate lo requiera, se podrá invitar a las sesiones del Comité a aquellos expertos cuya opinión deba ser tomada en cuenta.
 
 ###### ARTÍCULO 48.
 
-Para el desempeño de sus atribuciones, la Comisión de Vigilancia podrá procurarse la información que requiera de la Secretaría General, las Unidades Administrativas Centrales y Desconcentradas del Instituto, las cuales deben proporcionar la documentación e informes correspondientes. Asimismo, contará con el apoyo de los Órganos Internos de Control en el Instituto.
+EL COMITÉ COMO MÁXIMA AUTORIDAD CONSULTIVA. El Comité será la máxima instancia de consulta para opinar sobre el impacto cultural que pueda ocasionar el desarrollo de las obras descritas en el primer párrafo del artículo 44 de esta ley.
+
+Para el caso de las obras que pretendan realizar los organismos públicos federales, estatales o municipales, ya sea para la construcción, modificación o demolición de edificios públicos o de sus fachadas, de obras de arte público, de ornato y fachadas de los edificios públicos, los ayuntamientos, previo al otorgamiento de la licencia correspondiente, deberán tomar en cuenta la opinión del Comité.
 
 ###### ARTÍCULO 49.
 
-La Comisión de Vigilancia presentará un informe anual a la Junta sobre el ejercicio de sus atribuciones. Los integrantes de la Comisión de Vigilancia podrán solicitar concurrir a las sesiones de la Junta para tratar asuntos urgentes relacionados con las atribuciones de la propia Comisión de Vigilancia.
+LA OPINIÓN DEL COMITÉ. Los ayuntamientos consultarán la opinión del Comité, previo otorgamiento del permiso para el levantamiento de construcciones o instalaciones, permanentes o temporales, la fijación de anuncios o aditamentos, o la ejecución de obras de cualquier clase, incluidos los monumentos de arte público, en las zonas protegidas a que se refiere esta ley.
 
 ###### ARTÍCULO 50.
 
-La Comisión de Vigilancia deberá conocer, para su estudio y análisis, los estados financieros, sus anexos y los programas anuales de constitución de Reservas del Instituto, así como los informes trimestrales del ejercicio del presupuesto presentados por la Junta al Poder Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público.
+LAS PROHIBICIONES EN LAS ZONAS PROTEGIDAS. En las zonas protegidas queda prohibida la instalación visible de hilos telegráficos y telefónicos, conductores eléctricos, transformadores, postes y, en general, cualquier instalación eléctrica o electrónica. Las antenas de todo tipo deberán quedar ocultas dentro de la finca de su ubicación.
+
+Las autoridades municipales, en colaboración con las dependencias y entidades de los tres ámbitos de gobierno, promoverán el mejoramiento de la imagen urbana en aquellos lugares en los que ya exista ese tipo de instalaciones, considerando la posibilidad de recursos económicos o partidas presupuestales disponibles.
+
+Las autoridades municipales determinarán la naturaleza de los giros establecidos dentro de las zonas protegidas y de que éstos guarden las condiciones necesarias de limpieza y aspecto, respetando los elementos ornamentales y arquitectónicos que las caracterizan.
 
 ###### ARTÍCULO 51.
 
-Cuando la Comisión de Vigilancia encuentre alguna irregularidad con relación a las inversiones, estados financieros, estados de ingresos y egresos, operaciones o servicios, lo hará del conocimiento inmediato del Director General, quien informará a la Junta.
+LA REGULACIÓN DE PUBLICIDAD Y PROPAGANDA. Los elementos de publicidad y propaganda en zonas protegidas serán regulados en el Reglamento Municipal correspondiente, pudiendo el Municipio escuchar la opinión del Comité en la emisión, modificación o abrogación del ordenamiento referido.
 
 ## TÍTULO TERCERO. De la Secretaría General y de las Unidades Administrativas Centrales y Desconcentradas
 
@@ -825,149 +1299,29 @@ Cuando la Comisión de Vigilancia encuentre alguna irregularidad con relación a
 
 ###### ARTÍCULO 52.
 
-Son atribuciones de la Secretaría General y de las Unidades Administrativas Centrales y Desconcentradas del Instituto las siguientes:
+LAS OBLIGACIONES DE PROPIETARIOS. Los propietarios o poseedores de inmuebles ubicados dentro de las zonas protegidas deberán mantenerlos en buen estado, con especial consideración de las fachadas de los mismos, de acuerdo con las normas técnicas que expida el Comité.
 
-I. Cumplir y hacer cumplir las normas y políticas generales del Instituto;
-
-II. Planear, organizar, dirigir, controlar y evaluar las funciones encomendadas, de acuerdo con las disposiciones legales en la materia, así como los criterios, lineamientos y Acuerdos que emitan los órganos de gobierno;
-
-III. Formular los anteproyectos de los programas que correspondan a su competencia y cumplirlos, una vez aprobados;
-
-IV. Rendir informes al Director General, en los asuntos de su competencia;
-
-V. Proponer al Director General los proyectos de reglamentos, normas, informes y demás asuntos relacionados con el ámbito de su competencia que deban someterse a consideración y aprobación de la Junta;
-
-VI. Someter a la consideración y aprobación del Director General, previa validación de la Dirección Jurídica, los proyectos de manuales de organización y procedimientos;
-
-VII. Realizar estudios y formular proyectos de modernización de las áreas a su cargo y proponer al Director General políticas y lineamientos que mejoren los seguros, prestaciones y servicios del Instituto;
-
-VIII. Acordar con el Director General los asuntos cuya importancia así lo requiera;
-
-IX. Desempeñar las comisiones que les encomiende el Director General;
-
-X. Proporcionar, en los plazos establecidos, los informes y la documentación que requiera la Dirección Jurídica respecto de los asuntos de su competencia;
-
-XI. Proporcionar los informes y datos que les sean solicitados por los órganos de gobierno, las demás Unidades Administrativas y los Órganos de Control Interno del Instituto, así como los que se refieren al acceso a la información, transparencia, rendición de cuentas y protección de datos personales, de acuerdo con la normatividad aplicable;
-
-XII. Rendir los informes previos y justificados requeridos por las autoridades jurisdiccionales e informar a la Dirección Jurídica;
-
-XIII. Coordinarse, entre sí y con las dependencias y entidades de la Administración Pública Federal;
-
-XIV. Normar, asesorar y supervisar las actividades de las Delegaciones, Subdelegaciones y unidades, en el ámbito de su competencia;
-
-XV. Administrar con eficiencia y transparencia los recursos humanos, materiales y financieros asignados al área de su responsabilidad, de conformidad con los presupuestos, programas y políticas institucionales;
-
-XVI. Cumplir con las disposiciones aplicables sobre capacitación y adiestramiento de los trabajadores del Instituto y participar en el diseño de dichos programas;
-
-XVII. Promover la mejora profesional del personal adscrito;
-
-XVIII. Representar al Instituto en el ámbito de su competencia;
-
-XIX. Suscribir en representación del Instituto, de acuerdo a las facultades otorgadas por el poder notarial correspondiente, los actos jurídicos, convenios, contratos y documentos que sean necesarios con el sector público, privado y social para el cumplimiento de sus funciones;
-
-XX. Certificar los documentos que obren en su poder y expedir las constancias que se requieran en las materias del ámbito de su competencia; asimismo, cuando los soliciten ciudadanos y derechohabientes de acuerdo a la normatividad aplicable en materia de transparencia, protección de datos personales y rendición de cuentas;
-
-XXI. Notificar a la Dirección Jurídica del Instituto, o a la unidad jurídica que corresponda, así como al Órgano Interno de Control respectivo, las irregularidades cometidas por servidores públicos en detrimento del patrimonio institucional; deberá iniciar, en el caso de quienes hayan cometido irregularidades, incluidos particulares, el proceso judicial por la vía procedente, a través de las áreas jurídicas del propio Instituto;
-
-XXII. Ejercer la facultad de atracción de los asuntos competencia de las Delegaciones, del Centro Médico Nacional “20 de Noviembre” y Hospitales Regionales, cuando sea del interés del Instituto. Sólo podrán hacerlo, previa autorización del Director General;
-
-XXIII. Contribuir con la Dirección de Tecnología y Estrategia Digital para la incorporación de tecnologías de la información a fin de mejorar la atención al derechohabiente y los procesos administrativos, entre ellos, la firma electrónica; y
-
-XXIV. Las demás que señalen otras disposiciones aplicables y las que les asignen la Junta o el Director General.
+En todo caso, el Comité hará del conocimiento público dichas normas técnicas y fijará un plazo adecuado para su aplicación.
 
 ###### ARTÍCULO 53.
 
-La Secretaría General, las Unidades Administrativas Centrales y las Desconcentradas del Instituto, serán encabezadas por el Secretario General y los Titulares de dichas Unidades quienes se auxiliarán por los Subdirectores, Jefes de Servicios, Jefes de Departamento y Jefes de Oficina, así como por los Subdelegados, Jefes de Unidad y demás personal que autorice el presupuesto.
-
-Podrán delegar el ejercicio de sus funciones en los Subdirectores bajo su mando o, en el caso de las Delegaciones Estatales y Regionales, en los Subdelegados o Jefes de Unidad.
+PLAZO DE EJECUCIÓN. El Ayuntamiento podrá fijar un plazo máximo para hacer nuevas construcciones o modificar las ya existentes, atendiendo a las recomendaciones del Comité. Si al concluir dicho plazo, las obras no hubieren sido terminadas, el propietario podrá solicitar una prórroga, misma que será concedida únicamente cuando los trabajos se hayan apegado a las especificaciones y detalles establecidos.
 
 ###### ARTÍCULO 54.
 
-Las Unidades Administrativas Desconcentradas del Instituto contarán con la autonomía técnica y operativa que les concede este Estatuto Orgánico. La estructura interna y las atribuciones de estas Unidades se establecerán en su respectivo Reglamento Orgánico.
+EL USO ADECUADO DE MONUMENTOS Y BIENES INMUEBLES DEL PATRIMONIO CULTURAL. El Comité promoverá el uso adecuado de los bienes del patrimonio cultural, cuidando que sea acorde con los fines para los cuales fue creado o destinado. Se prohíbe realizar acciones que pongan en peligro su importancia o integridad; tampoco podrán ser utilizados para fines que perjudiquen o menoscaben sus méritos.
 
 ###### ARTÍCULO 55.
 
-En sus ausencias, el Secretario General y los titulares de las Unidades Administrativas Centrales y Desconcentradas serán suplidos por los servidores públicos del rango inmediato inferior, en el orden de prelación que determine este Estatuto Orgánico para cada una de ellas.
+EL ACCESO A LAS ZONAS PROTEGIDAS. Se permitirá el acceso al personal del Comité a los monumentos y fincas que se encuentren dentro de las zonas protegidas, previa identificación y contando para ello con la anuencia del propietario o poseedor.
 
 ### CAPÍTULO SEGUNDO. De la Secretaría General
 
 ###### ARTÍCULO 56.
 
-La Secretaría General es responsable de apoyar al Director General, a los demás órganos de gobierno y a las Unidades Administrativas del Instituto para promover y fortalecer la coordinación e integración institucional, la permanente transformación y mejora de los sistemas, estructuras y procesos internos, con base en el registro y acreditación de los derechos de la población afiliada. Mide la calidad y oportunidad de los servicios y prestaciones; desarrolla y aplica para ello, los procesos de planeación y evaluación necesarios en el conjunto del Instituto y realiza tareas de vinculación con organizaciones sindicales, de derechohabientes, sociales y con instituciones públicas nacionales de los tres órdenes de gobierno, y extranjeras en las que participe el Instituto o con las que deba mantener comunicación.
+LA PROTECCIÓN DE VALORES Y BIENES INTANGIBLES. La protección de los valores culturales y bienes intangibles a que se refiere esta ley comprende las acciones de investigar, rescatar, restaurar, habilitar, registrar, preservar y difundir su conocimiento, tanto por las autoridades y órganos de apoyo, como por los particulares interesados.
 
-Son atribuciones de la Secretaría General las siguientes:
-
-I. Fungir como Secretario de la Junta, en los términos del artículo 18 de este Estatuto Orgánico;
-
-II. Preparar y presentar al Director General los proyectos del programa institucional y de los programas operativos anuales de las Unidades Administrativas, que deben someterse a la Junta;
-
-III. Coordinar, supervisar, orientar y apoyar la formulación e implementación de los planes y programas del Instituto y de sus Unidades Administrativas, de conformidad con las políticas nacionales y sectoriales aplicables;
-
-IV. Diseñar, integrar y coordinar con el apoyo de las Unidades Administrativas, el sistema interno de evaluación del desempeño institucional para el mejoramiento de los seguros, prestaciones y servicios;
-
-V. Participar en el diseño de lineamientos relacionados con los procesos estadísticos y con los indicadores de control de las tareas del Instituto y de sus Unidades Administrativas. Preparar y presentar al Director General el proyecto de informe sobre el estado que guarde la administración del Instituto que debe someterse a la Junta;
-
-VI. Realizar actividades de desarrollo institucional en los términos de los artículos 6, 87 y 88 de este Estatuto Orgánico;
-
-VII. Asegurar que los cuerpos colegiados institucionales cumplan con los calendarios de sesiones aprobados por sus órganos de gobierno y con lo señalado en el Reglamento de Sesiones de cuerpos colegiados;
-
-VIII. Participar e intervenir en los cuerpos colegiados y en los mecanismos de participación sectoriales relacionados con la planeación, programación, estadística y evaluación;
-
-IX. Coordinar al Comité de Evaluación y Seguimiento de los Servicios de Salud establecido en la Ley;
-
-X. Administrar y supervisar el proceso de incorporación al régimen del Instituto de las dependencias y entidades previstas en la Ley, y la afiliación de sus trabajadores; proponer al Director General acciones para asegurar el cumplimiento de las obligaciones de las instituciones afiliadas;
-
-XI. Determinar, administrar, coordinar y vigilar el proceso de vigencia de derechos de los trabajadores, pensionados y familiares derechohabientes incorporados al régimen de la Ley;
-
-XII. Determinar, administrar y coordinar la continuación voluntaria en todos o en alguno de los seguros del régimen obligatorio a los que se refiere el artículo 200 de la Ley;
-
-XIII. Establecer las políticas, normas y lineamientos para la integración y operación de la base de datos del expediente electrónico único previsto en la ley, así como administrarla y resguardarla;
-
-XIV. Determinar el monto de los Bonos de Pensión que corresponden a los trabajadores que a la fecha de entrada en vigor de la Ley se encontraban separados del servicio y que con posterioridad reingresaran al mismo, de conformidad con lo que establece el artículo Décimo Sexto Transitorio de la Ley;
-
-XV. Establecer los mecanismos para la revisión y corrección en su caso, de los Bonos de Pensión de los trabajadores de reingreso, de conformidad con las Reglas para el Ajuste de los Bonos de Pensión emitidas por la Secretaría de Hacienda y Crédito Público;
-
-XVI. Administrar el uso y destino de los Documentos de Elección a que se refiere el artículo 43 del Reglamento para el Ejercicio del Derecho de Opción que tienen los Trabajadores de conformidad con los artículos Quinto y Séptimo Transitorios del Decreto por el que se expide la Ley;
-
-XVII. Definir los medios de identificación con que se acreditarán los derechohabientes, para ejercer los derechos que les confiere la Ley, y vigilar los lineamientos para su expedición y administración;
-
-XVIII. Emitir recomendaciones en materia de afiliación y vigencia de derechos relacionados con los convenios de portabilidad con otros institutos de seguridad social o con entidades que operen otros sistemas de seguridad social compatibles con lo previsto en la Ley, así como proponer e instrumentar las reglas de carácter general para la transferencia de derechos entre el propio Instituto, el Instituto Mexicano del Seguro Social y otros sistemas de seguridad social;
-
-XIX. Establecer políticas, normas y lineamientos para el acceso y transferencia de información de las dependencias y entidades afiliadas, o de otros organismos, con la base de datos institucional de derechohabientes, así como con la Comisión Nacional del Sistema de Ahorro para el Retiro y con las Empresas Operadoras de la Base de Datos Nacional SAR;
-
-XX. Concertar y coordinar con las diversas Unidades Administrativas del Instituto, así como con la representación sindical, el diseño, aplicación, seguimiento y evaluación de programas, proyectos, modelos, incentivos y acciones que redunden en la mejora continua de los servicios que otorga el Instituto y en la calidad de la atención que brinda a sus derechohabientes;
-
-XXI. Diseñar y operar metodologías de análisis, técnicas, procesos y herramientas para la medición de impacto, el seguimiento y la evaluación cuantitativa y cualitativa de los programas institucionales;
-
-XXII. Atraer asuntos de las Unidades Administrativas Desconcentradas cuando lo considere necesario para salvaguardar el interés institucional, previa autorización del Director General;
-
-XXIII. Contribuir a garantizar el ejercicio pleno de los derechos de los usuarios del Instituto y derechohabientes, mediante el diseño, desarrollo, coordinación y supervisión del sistema de comunicación directa y atención a los derechohabientes, así como de información que permita brindar respaldo y auxilio respecto de los seguros, prestaciones y servicios señalados en la Ley, así como dar seguimiento, en coordinación con las Unidades Administrativas competentes, a las acciones iniciadas;
-
-XXIV. Recibir, procesar y dar seguimiento, hasta su solución, a las recomendaciones y conciliaciones que emita la Comisión Nacional de los Derechos Humanos respecto al otorgamiento de seguros, prestaciones y servicios del Instituto;
-
-XXV. Fungir como enlace ante la Comisión Nacional de Arbitraje Médico para la atención y seguimiento de los asuntos relacionados con el Instituto;
-
-XXVI. Presidir los Comités de Quejas Médicas y establecer un Comité Técnico para la Dictaminación de Solicitudes de Reembolso de Gastos Médicos. Promover la adecuada atención y resolución de sus asuntos, conforme a los dictámenes administrativo, médico y jurídico que al efecto elaboren las Unidades Administrativas competentes del Instituto, sin perjuicio de la delegación de facultades que corresponda;
-
-XXVII. Promover la utilización de medios alternativos de solución de controversias entre las distintas áreas del Instituto para atender y resolver inconformidades y quejas de los derechohabientes;
-
-XXVIII. Promover y difundir una cultura de transparencia, protección de datos personales y rendición de cuentas institucional, así como establecer y coordinar las funciones de enlace institucional para el acceso a la información pública gubernamental, datos personales y la corrección de los mismos, tanto con las Unidades Administrativas del Instituto, como con el Comité de Información y con el Instituto Federal de Acceso a la Información y Protección de Datos;
-
-XXIX. Supervisar la atención que las Unidades Administrativas del Instituto den a las peticiones de los derechohabientes y de la ciudadanía, que formulen a la Presidencia de la República;
-
-XXX. Planear, coordinar y evaluar proyectos y acciones para la atención de grupos y segmentos de derechohabientes que se encuentren en situación de riesgo y/o vulnerabilidad; promover para ellos, atención preferencial y la organización de redes sociales de apoyo para su atención;
-
-XXXI. Coordinar las acciones dirigidas a promover la igualdad de género y la no discriminación, en forma transversal y en los términos del Plan Nacional de Desarrollo en todos los seguros, prestaciones y servicios que proporcione el Instituto en todas sus Unidades Administrativas;
-
-XXXII. Coordinar la operación del Centro de Estudios y de Apoyo para la Mujer y del Centro de Estudios y Apoyo al Adulto Mayor;
-
-XXXIII. Instrumentar las acciones que garanticen a los cónyuges y concubinos de los derechohabientes, con independencia de su sexo, el acceso pleno y no discriminatorio al ejercicio de sus derechos en los términos de la Ley;
-
-XXXIV. Apoyar a la Dirección General en la promoción y conducción de las relaciones institucionales en el ámbito nacional e internacional; y
-
-XXXV. La demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Secretario General será suplido por el Prosecretario de la Junta, por el Subdirector de Atención al Derechohabiente o por el Subdirector de Afiliación y Vigencia de Derechos, en el orden indicado.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPÍTULO TERCERO. De las Unidades Administrativas Centrales
 
@@ -975,477 +1329,61 @@ Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Secretario G
 
 ###### ARTÍCULO 57.
 
-La Dirección Jurídica es la encargada de representar al Instituto para defender sus intereses y patrimonio, así como de ofrecer a los órganos de gobierno, Secretaría General y Unidades Administrativas del Instituto, asesoría jurídica, a efecto de que los actos jurídicos se lleven a cabo conforme a las disposiciones aplicables.
-
-La Dirección Jurídica tendrá las atribuciones siguientes:
-
-I. Planear, normar, coordinar, supervisar y evaluar los servicios jurídicos de todas las áreas del Instituto, así como la aplicación de las disposiciones legales que regulan el funcionamiento del Instituto y de sus unidades Administrativas Desconcentradas;
-
-II. Representar al Instituto para su defensa jurídica en todo tipo de gestiones judiciales, extrajudiciales y administrativas, y ante todo tipo de autoridades federales, estatales y municipales, en los términos de sus atribuciones y de los poderes otorgados. En las Delegaciones del Instituto, dicha defensa estará a cargo del titular de la Unidad Jurídica respectiva, sin perjuicio de que el área central lo realice cuando así lo considere conveniente;
-
-III. Representar al Director General y a la Junta en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en los que sean parte o en los que sin ser parte sea requerida su intervención. En el caso de las Delegaciones Estatales y Regionales del Instituto, la representación en esta materia estará a cargo del titular de la Unidad Jurídica respectiva, salvo los casos en que la Dirección Jurídica determine asumir dicha representación;
-
-IV. Validar las propuestas de nombramiento de los titulares de las Unidades Jurídicas de las Unidades Administrativas Desconcentradas del Instituto;
-
-V. Coordinar, supervisar y evaluar a las Unidades Jurídicas de las Unidades Administrativas Desconcentradas del Instituto;
-
-VI. Asesorar jurídicamente a los órganos de gobierno y Unidades Administrativas del Instituto;
-
-VII. Interponer las demandas judiciales y denuncias penales, formular los informes previo y justificado en los juicios de amparo y promover los recursos en los casos donde el Instituto sea parte, y coordinar lo que corresponda con las Unidades Jurídicas de las Unidades Administrativas Desconcentradas;
-
-VIII. Asesorar a los servidores públicos de mando del Instituto en las instancias judiciales, extrajudiciales y administrativas en las que hayan sido señalados como autoridades responsables, con la salvedad de aquellos asuntos en los que el Instituto sea la contraparte;
-
-IX. Establecer y aplicar en los casos que considere conveniente para los intereses del Instituto, medios alternativos de solución de controversias; para lo cual cuenta con una Unidad de Mediación;
-
-X. Establecer los mecanismos de comunicación y coordinación con las Unidades Administrativas del Instituto para apoyarlas en el cumplimiento de resoluciones judiciales o extrajudiciales;
-
-XI. Sustanciar los recursos administrativos previstos en la Ley, en coordinación con las áreas sustantivas sobre las que versen los mismos;
-
-XII. Certificar los documentos que obren en sus archivos relativos al ámbito de su competencia;
-
-XIII. Compilar y sistematizar el marco jurídico e instrumentos normativos relacionados con las atribuciones, funcionamiento y actividades de las distintas áreas del Instituto, además de mantener actualizado su registro;
-
-XIV. Establecer los lineamientos jurídicos para la formulación de manuales de organización y procedimientos, con el apoyo técnico de la Unidad de Desarrollo Institucional;
-
-XV. Tramitar, cuando así proceda, la publicación de la normatividad del Instituto en el Diario Oficial de la Federación y en la Normateca Electrónica Institucional;
-
-XVI. Emitir opiniones de carácter legal y criterios de interpretación respecto a la aplicación de las normas jurídicas y reglamentarias que regulan las actividades y funcionamiento del Instituto;
-
-XVII. Realizar y revisar los estudios y proyectos de reforma a la Ley y demás normatividad que integran el marco jurídico del Instituto para emitir la opinión jurídica que corresponda;
-
-XVIII. Dictaminar antes de su suscripción, los convenios y contratos que celebre el Director General, la Secretaría General y las Unidades Administrativas del Instituto, salvo que cuenten con área jurídica; además de realizar el registro correspondiente, una vez que hayan sido suscritos;
-
-XIX. Emitir, en coordinación con la Dirección de Administración los lineamientos generales para establecer contratos y convenios tipo, de observancia obligatoria para las áreas del Instituto, su suscripción y registro;
-
-XX. Apoyar al Responsable Inmobiliario, en términos de lo establecido en la Ley General de Bienes Nacionales, en el control y registro general de los bienes inmuebles del Instituto;
-
-XXI. Legalizar la adquisición, destino o enajenación de los bienes inmuebles del Instituto, así como intervenir en los asuntos de los que se deriven derechos y obligaciones a cargo del mismo;
-
-XXII. Supervisar los actos y operaciones que requieran la formalización ante fedatario público e inscripción de los mismos ante el Registro Público de la Propiedad y del Comercio de cada Entidad Federativa, excepto los relacionados con el FOVISSSTE, así como autorizar el pago de los honorarios correspondientes a los notarios públicos;
-
-XXIII. Dictaminar los procesos de enajenación de los bienes inmuebles de la reserva territorial del FOVISSSTE que no tengan utilidad institucional;
-
-XXIV. Otorgar o revocar los poderes generales, limitados y especiales de representación del Instituto para actos de administración, pleitos y cobranzas y actos de dominio, a favor de los servidores públicos del Instituto que así lo requieran en el ámbito de sus atribuciones, cuando así lo instruya el Director General;
-
-XXV. Establecer y mantener el registro de firmas de servidores públicos del Instituto;
-
-XXVI. Formular los convenios de incorporación, continuación voluntaria y reconocimiento de antigüedad a que se refiere la Ley;
-
-XXVII. Participar en la elaboración y autorización de los dictámenes jurídicos de incobrabilidad de las Unidades Administrativas Centrales del Instituto;
-
-XXVIII. Presidir el Comité de Mejora Regulatoria Interna, así como promover la adecuada atención y resolución de sus asuntos, sin perjuicio de la facultad para delegar esta función;
-
-XXIX. Procurar la actualización permanente del marco jurídico institucional y proponer al Director General, los cambios necesarios para la buena marcha del Instituto; para su modernización y mejora continua a fin de mejorar e innovar los servicios y prestaciones en beneficio del derechohabiente y la viabilidad institucional; y
-
-XXX. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Titular de la Dirección Jurídica será suplido por el Subdirector de lo Contencioso, por el Subdirector de lo Consultivo o por el Subdirector de Notariado y Bienes Inmuebles, en el orden indicado.
+LAS ACCIONES DE LA SECRETARÍA. Las acciones a que se refiere el artículo anterior serán coordinadas por la Secretaría, en colaboración con los órganos de apoyo y de los particulares interesados, y su finalidad será proteger los bienes culturales del estado, tanto tangibles como intangibles, como factor de integración de sus habitantes.
 
 #### SECCIÓN SEGUNDA. De la Dirección de Administración
 
 ###### ARTÍCULO 58.
 
-La Dirección de Administración es la encargada de coordinar el manejo de los recursos humanos, materiales, servicios generales y obra pública del Instituto, con base en criterios de racionalidad, eficacia, transparencia y disciplina presupuestal. Es además, el responsable inmobiliario.
-
-La Dirección de Administración tendrá las atribuciones siguientes:
-
-I. Establecer las políticas en materia de recursos humanos e intervenir en su selección, nombramiento, formación y adscripción, así como en todas las cuestiones relacionadas con la administración y desarrollo del personal y coordinar lo que corresponda con la Secretaría General y las Unidades Administrativas del Instituto, en los términos de este Estatuto Orgánico y de la normatividad y reglamentación aplicables;
-
-II. Coadyuvar con la Dirección de Prestaciones Económicas, Sociales y Culturales, en el diseño, organización, ejecución, difusión y evaluación de los programas de capacitación y adiestramiento, de desarrollo y actualización laboral de los trabajadores del Instituto;
-
-III. Coordinar y controlar el diseño y registro de estructuras laborales y ocupacionales de las Unidades Administrativas del Instituto, con apego a la normatividad aplicable; y contribuir con la Dirección de Finanzas en las acciones correspondientes con las dependencias globalizadoras;
-
-IV. Contribuir con la Secretaría General en el desarrollo del sistema institucional de indicadores para la medición del desempeño del personal que labora en las áreas prestadoras de servicios del Instituto, y aplicar las acciones que deriven de las evaluaciones realizadas;
-
-V. Coordinar y aplicar un sistema de incentivos al desempeño y a la eficiencia del personal que mejore la gestión de las Unidades Administrativas del Instituto;
-
-VI. Controlar y coordinar la retención y entero de las cuotas y aportaciones correspondientes al personal del Instituto, de conformidad con la Ley y con las disposiciones que emita la Comisión Nacional del Sistema de Ahorro para el Retiro;
-
-VII. Elaborar y supervisar el cumplimiento, con la asesoría de la Dirección Jurídica, de los lineamientos para el levantamiento de actas administrativas, aplicación de sanciones y elaboración de avisos de rescisión, en los casos en que se requiera terminar con la relación laboral del personal del Instituto;
-
-VIII. Integrar, en coordinación con la Dirección de Finanzas, la información estadística del Instituto, y desarrollar en conjunto con la Secretaría General un sistema de indicadores que permita calificar la eficiencia financiera de cada área, y realizar las acciones que se deriven de las evaluaciones, de acuerdo con la normatividad correspondiente;
-
-IX. Planear, organizar, normar, coordinar y controlar la administración de los recursos materiales del Instituto en términos de las disposiciones aplicables y fungir como Responsable Inmobiliario en términos de lo que establece el artículo 32 de la Ley General de Bienes Nacionales;
-
-X. Proponer los lineamientos y criterios conforme a los cuales el Instituto adquirirá o arrendará los bienes muebles y contratará los servicios generales requeridos para su operación y funcionamiento;
-
-XI. Coordinar las acciones relativas al control del inventario de los bienes muebles que integran el activo fijo del Instituto, en forma conjunta con la Dirección de Finanzas;
-
-XII. Establecer los lineamientos de operación de las áreas de almacén centrales, regionales, delegacionales y hospitalarias, y promover una mayor eficiencia y transparencia mediante sistemas modernos de distribución;
-
-XIII. Coordinar el proceso de determinación y gestión de insumos médicos y servicios para la salud, mediante la realización de estudios de costo efectividad y de impacto presupuestal;
-
-XIV. Con base en la información de necesidades proporcionada por la Dirección Médica, planear, ejecutar y controlar:
-
-a) La adquisición, la distribución y el abasto de medicamentos e insumos médicos para las unidades médicas del Instituto; y
-
-b) Los servicios de conservación y mantenimiento del equipo médico y electromecánico y de los inmuebles del Instituto, de acuerdo con las políticas y estrategias establecidas por la normatividad en materia de salud, protección civil y de protección del ambiente y el equilibrio ecológico.
-
-XV. Elaborar, con base en la información que proporcionen las Unidades Administrativas del Instituto, el programa anual de adquisiciones, arrendamientos y servicios, de conformidad con las disposiciones legales aplicables;
-
-XVI. Planear, ejecutar, coordinar y controlar, con base en los requerimientos que definan las Unidades Administrativas de Instituto, la obra pública, incluida la infraestructura hospitalaria, así como los servicios relacionados con la misma;
-
-XVII. Vigilar que las obras se realicen con apego a la normatividad en materia ambiental, de protección civil y conforme a las disposiciones, criterios y parámetros establecidos en las normas oficiales mexicanas que correspondan;
-
-XVIII. Dictaminar los aspectos técnicos para la funcionalidad de los bienes inmuebles, de acuerdo con las necesidades de las áreas proponentes;
-
-XIX. Elaborar, con base en la información que proporcionan la Secretaría General y las Unidades Administrativas del Instituto, el programa anual de inversión de obra pública y servicios relacionados con las mismas, y registrar su avance;
-
-XX. Coadyuvar con la Dirección Jurídica en la expedición de lineamientos con relación a la elaboración de dictámenes de factibilidad inmobiliaria, en los aspectos técnicos para la adquisición y arrendamiento de bienes inmuebles que tengan por objeto ampliar la reserva territorial e infraestructura del Instituto;
-
-XXI. Establecer, coordinar y controlar las funciones de administración de servicios generales, el sistema de seguridad y vigilancia y los comités de protección civil del Instituto, y vigilar la observancia de las normas técnicas aplicables en cada caso;
-
-XXII. Con base en la normatividad aplicable, programar, convocar los procesos de contratación y suscribir los contratos y convenios de adquisiciones y abasto, arrendamiento de bienes muebles, servicios generales, obra pública, servicios relacionados con la misma, servicios de conservación y mantenimiento de equipos e inmuebles, paquetes integrales de servicios y sistemas de almacenamiento y distribución de bienes, así como aplicar las sanciones económicas que procedan en los casos establecidos;
-
-XXIII. Procurar que las adquisiciones de bienes, arrendamientos y servicios de uso generalizado, se realicen de forma consolidada, conforme a las disposiciones que establezca la normatividad aplicable, lo anterior, con el fin de mejorar y garantizar el uso eficiente, transparente y eficaz de los recursos públicos;
-
-XXIV. Realizar los procedimientos administrativos de rescisión o terminación anticipada de los contratos que celebre, y proporcionar la información necesaria a la Dirección Jurídica para la defensa legal, en su caso, y ejercer las acciones que en derecho procedan para recuperar los adeudos originados con motivo de la rescisión, terminación anticipada o finiquito de los contratos celebrados;
-
-XXV. Planear, organizar, normar, coordinar, consolidar y controlar los procesos de planeación, programación y presupuesto, y evaluación del gasto del Instituto;
-
-XXVI. Integrar el proyecto de presupuesto anual de egresos del Instituto y proponerlo al Director General para su presentación y, en su caso, aprobación de la Junta;
-
-XXVII. Verificar que el ejercicio y registro del presupuesto anual de egresos, autorizado al Instituto, se realice de conformidad con la normativa aplicable;
-
-XXVIII. Integrar en el ámbito de su competencia y en coordinación con la Dirección de Finanzas, la información del avance físico-financiero del presupuesto central del seguro de salud establecido en la Ley;
-
-XXIX. Integrar en el ámbito de su competencia y en coordinación con la Dirección de Finanzas, la información que presente el Instituto a la Secretaría de Hacienda y Crédito Público para elaborar la Cuenta de la Hacienda Pública Federal;
-
-XXX. Coordinar a los cuerpos colegiados institucionales en materia de planeación, programación, presupuestación y evaluación del gasto, así como intervenir en los cuerpos colegiados y en los mecanismos de participación sectorial relacionados con estas materias;
-
-XXXI. Proponer al Director General acciones de mejora y simplificación administrativa para un uso más eficiente de los recursos humanos, materiales y, en el ámbito de su competencia, financieros del Instituto;
-
-XXXII. Coordinar el manejo, guarda, custodia y conservación de los archivos del Instituto;
-
-XXXIII. Coordinar, integrar, operar y administrar el programa de aseguramiento de los bienes patrimoniales del Instituto, así como el programa integral de seguros y fianzas de sus servidores públicos y, en su caso, de sus derechohabientes;
-
-XXXIV. Representar al Instituto y a sus órganos desconcentrados, en el ámbito de su competencia, ante la Secretaría de Hacienda y Crédito Público y los órganos de fiscalización; y
-
-XXXV. Las demás que le confieran este Estatuto Orgánico y la normativa aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Titular de la Dirección de Administración será suplido por el Subdirector de Programación y Presupuesto, por el Subdirector de Personal o por el Subdirector de Obras y Contratación, en el orden indicado.
+EL CATÁLOGO DEL PATRIMONIO CULTURAL. El Comité promoverá ante las autoridades federales, estatales y municipales, las instituciones de educación superior y las asociaciones civiles con objetivos culturales, la elaboración del catálogo que contenga la descripción de los bienes culturales tangibles e intangibles del Estado.
 
 #### SECCIÓN TERCERA. De la Dirección de Finanzas
 
 ###### ARTÍCULO 59.
 
-La Dirección de Finanzas es la encargada de la administración de los recursos financieros del Instituto, conforme a la planeación financiera y de inversiones institucionales y en estricto apego a las prioridades y criterios de eficiencia, racionalidad, austeridad y disciplina presupuestal.
+LA SECCIÓN ESPECIAL EN EL REGISTRO PÚBLICO. Se crea dentro del Registro Público, una sección que se denominará Registro del Patrimonio Cultural, en la que se inscribirán las declaratorias de bienes inmuebles adscritos al patrimonio cultural y la delimitación de las zonas protegidas.
 
-La Dirección de Finanzas tendrá las atribuciones siguientes:
-
-I. Organizar, coordinar, consolidar y controlar los procesos de planeación financiera, contabilidad, tesorería, inversiones, estadística y de estudios actuariales;
-
-II. Coadyuvar en el diseño, implementación, administración y operación de los sistemas de información para su funcionamiento;
-
-III. Representar al Instituto y a sus órganos desconcentrados, en el ámbito de su competencia, ante la Secretaría de Hacienda y Crédito Público y los órganos de fiscalización, en asuntos de contabilidad, tesorería e inversiones;
-
-IV. Coordinar a los cuerpos colegiados institucionales en materia de contabilidad, tesorería e inversiones, así como intervenir en los cuerpos colegiados y en los mecanismos de participación sectorial relacionados con estas materias;
-
-V. Recaudar y registrar los ingresos de cuotas, aportaciones provenientes de las dependencias y entidades afiliadas, la cuota social que aporta el Gobierno Federal para el seguro de salud o de cualquier otro ingreso generado por el Instituto, así como formular, consolidar y controlar el presupuesto de ingresos del Instituto, mantener el buen funcionamiento del sistema de recaudación de cuotas y aportaciones que serán depositadas en las Cuentas Individuales establecidas en la Ley;
-
-VI. Diseñar, proponer y operar los esquemas que permitan incrementar los ingresos del Instituto y ampliar la cobertura de los seguros, prestaciones y servicios que brindan las Unidades Administrativas, para lo cual someterá a la Junta las propuestas de fondeo y bursatilización, bajo criterios de transparencia y seguridad;
-
-VII. Integrar, en coordinación con la Dirección de Administración, en el ámbito de su competencia, la información que presente el Instituto a la Secretaría de Hacienda y Crédito Público para elaborar la Cuenta de la Hacienda Pública Federal;
-
-VIII. Establecer y operar el registro contable de los ingresos, egresos y del flujo de recursos financieros que por cualquier concepto realicen las Unidades Administrativas del Instituto;
-
-IX. Planear, programar y ejecutar actos de fiscalización en materia de determinación y liquidación de aportaciones de seguridad social que se deriven del ejercicio de sus facultades de comprobación, para lo cual podrá:
-
-a) Ordenar el inicio de actos de comprobación fiscal, de conformidad con los artículos 42 y 48 del Código Fiscal de la Federación, así como los demás actos tendentes a determinar y liquidar las aportaciones de seguridad social omitidas y sus accesorios;
-
-b) Solicitar a dependencias y entidades afiliadas, o a terceros, datos, informes o documentos relativos al ejercicio de las facultades de comprobación;
-
-c) Ordenar y facultar a representantes del Instituto para practicar las notificaciones de los actos relacionados con el ejercicio de las facultades de comprobación, así como las resoluciones administrativas resultantes de las mismas;
-
-d) Prorrogar los plazos en que deba concluir el ejercicio de sus facultades de comprobación, adicionales a visitas domiciliarias;
-
-e) Determinar y liquidar los créditos fiscales por concepto de aportaciones de seguridad social; y
-
-f) Realizar las gestiones de cobro de los créditos fiscales, en los términos de la Ley y el Código Fiscal de la Federación.
-
-X. Establecer y coordinar los procesos y acciones desarrollados por el Instituto y sus Unidades Administrativas para la cuantificación y recuperación de adeudos al Instituto;
-
-XI. Gestionar ante la Tesorería de la Federación la retención de transferencias y participaciones federales a las dependencias y entidades afiliadas y otras medidas previstas en la Ley, cuando existan adeudos por concepto de cuotas y aportaciones;
-
-XII. Proponer para su presentación a la Junta, la aprobación de convenios de reconocimiento y forma de pago de las cuotas y aportaciones omitidas por las entidades y dependencias;
-
-XIII. Establecer los lineamientos para constituir, incrementar y consolidar las Reservas establecidas en el artículo 234 de la Ley, así como elaborar y presentar anualmente a la Junta el programa correspondiente;
-
-XIV. Diseñar y requerir la contratación de las valuaciones actuariales anuales y estudios financieros para determinar la estructura de cuotas y aportaciones necesarias para cada uno de los seguros, prestaciones y servicios ofrecidos al amparo de la Ley, así como el nivel y composición de las reservas técnicas requeridas conforme a la normatividad aplicable;
-
-XV. Promover la utilización de los esquemas de Asociación Público Privadas para la construcción de infraestructura hospitalaria y prestación de servicios;
-
-XVI. Promover y coordinar, en el marco de la legislación aplicable, con las Unidades Administrativas y las entidades o instancias públicas y privadas que correspondan, mecanismos y esquemas innovadores de financiamiento que garanticen la sustentabilidad financiera de la operación y prestación de los servicios del Instituto;
-
-XVII. Cumplir con lo que establece el artículo 244 de la Ley, a través de las siguientes funciones:
-
-a) Proponer al Comité de Inversiones las alternativas de inversión de los recursos financieros del Instituto;
-
-b) Realizar las operaciones de inversión de las Reservas y de los excedentes de efectivo, de acuerdo con las políticas y directrices del Comité de Inversiones del Instituto;
-
-c) Aplicar las estrategias para cubrir el riesgo de inversión;
-
-d) Establecer y operar los sistemas de información para las operaciones de inversión de las Reservas y de los excedentes de efectivo y sobre los factores de riesgo de inversión;
-
-e) Elaborar y presentar al Comité de Inversiones un informe mensual pormenorizado de las operaciones y rendimientos obtenidos en la inversión de los excedentes de efectivo, y uno semestral, por las correspondientes a las reservas financieras del Instituto;
-
-f) Custodiar e invertir las Reservas y los recursos que por cualquier concepto recaude el Instituto, con excepción de los depositados en las Cuentas Individuales administradas por PENSIONISSSTE o cualquier otra Administradora de Fondos para el Retiro, bajo criterios de prudencia, seguridad, rendimiento, liquidez, diversificación de riesgo, transparencia y respeto a las sanas prácticas y usos del medio financiero nacional; y
-
-g) Las demás que le señalen los reglamentos, lineamientos y, en su caso, Acuerdos de la Junta, así como las que le encomiende el Comité de Inversiones.
-
-XVIII. Atender y representar al Instituto ante las instituciones del sistema financiero y de seguros para evaluar, contratar, normar, aprobar y controlar la apertura de cuentas de todo tipo y objeto, autorizando el monto de las comisiones, sus importes y su forma de pago, así como, en su caso, las condiciones de reciprocidad;
-
-XIX. Integrar, en coordinación con la Dirección de Administración, la información estadística del Instituto, y desarrollar en conjunto con la Secretaría General un sistema de indicadores que permitan calificar la eficiencia financiera de cada área y operar las acciones que deriven de las evaluaciones realizadas, de acuerdo con la normatividad correspondiente;
-
-XX. Diseñar, desarrollar y administrar, en coordinación con la Dirección de Administración, la función financiera de los servicios de salud en el Instituto, con base en el sistema de medición y evaluación del desempeño de las unidades médicas, así como determinar y administrar los requerimientos de información necesarios para planificar el adecuado financiamiento de dichos servicios;
-
-XXI. Participar con la Dirección de Administración en el proceso de determinación y gestión de insumos médicos y servicios para la salud, mediante la realización de estudios de costo efectividad y de impacto presupuestal;
-
-XXII. Elaborar e integrar, en coordinación con la Dirección de Administración, el programa de avance físico-financiero del presupuesto central del seguro de salud establecido en la Ley;
-
-XXIII. Determinar las condiciones financieras indispensables en la compensación o subrogación de servicios médicos entre el Instituto y otras instituciones o entidades del sector salud o del sector privado, para el aprovechamiento de la capacidad médica excedente del Instituto;
-
-XXIV. Elaborar y celebrar acuerdos de gestión con las Unidades Administrativas del Instituto, mediante los cuales se definan, promuevan y evalúen las metas específicas a cumplir en el otorgamiento de los seguros, prestaciones y servicios del Instituto;
-
-XXV. Administrar el pago de los montos constitutivos de los seguros de riesgos del trabajo y de invalidez y vida; establecer, en los términos de la Ley mecanismos de coordinación y pago con las entidades aseguradoras, así como procedimientos que favorezcan a que el derechohabiente pensionado elija la aseguradora que le ofrezca las mejores condiciones, previa determinación, en coordinación con la Dirección de Prestaciones Económicas, Sociales y Culturales, de los cálculos actuariales correspondientes;
-
-XXVI. Diseñar e implantar, en coordinación con la Dirección de Administración, los sistemas de registro, actualización y mantenimiento del inventario de activo fijo y de control de egresos del Instituto;
-
-XXVII. Integrar, para su presentación ante la Junta, los estados financieros y el informe financiero y actuarial del Instituto, así como el informe dictaminado a que se refiere el artículo 214, fracción XIX de la Ley;
-
-XXVIII. Participar en la integración y actualización de los lineamientos específicos para regular la transferencia de las reservas actuariales del Instituto correspondientes al seguro de salud con el Instituto Mexicano del Seguro Social;
-
-XXIX. Proponer, en el ámbito de su competencia, al Director General acciones de mejora y simplificación administrativa para una mayor eficiencia en el uso de los recursos financieros del Instituto;
-
-XXX. Apoyar a la Dirección de Prestaciones Económicas, Sociales y Culturales en los programas de capacitación, en materia de gestión administrativa, gerencial, económica y financiera, que requiera el personal directivo de las unidades médicas del Instituto; y
-
-XXXI. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Titular de la Dirección de Finanzas será suplido por el Tesorero General, por el Subdirector de Contaduría o por el Subdirector de Aseguramiento de la Salud, en el orden indicado.
+La declaratoria de que un bien inmueble es objeto de un régimen especial de protección deberá inscribirse también en el Registro Público.
 
 #### SECCIÓN CUARTA. De la Dirección de Prestaciones Económicas, Sociales y Culturales
 
 ###### ARTÍCULO 60.
 
-La Dirección de Prestaciones Económicas, Sociales y Culturales es la encargada de administrar, determinar y proporcionar las prestaciones económicas, sociales y culturales a que se refiere la Ley y es responsable de dictar las políticas institucionales en la materia para todas las Unidades Administrativas del Instituto.
-
-La Dirección de Prestaciones Económicas, Sociales y Culturales tendrá las atribuciones siguientes:
-
-I. Planear, organizar, normar, coordinar, controlar y evaluar las actividades que correspondan al Instituto para:
-
-a) La concesión de pensiones derivadas de los seguros de riesgos del trabajo e invalidez y vida, y de las reguladas en los artículos Décimo y Décimo Octavo Transitorio de la Ley; y
-
-b) La concesión de las pensiones derivadas de las Cuentas Individuales establecidas en la Ley, en lo que no se encuentre reservado por la normatividad aplicable a PENSIONISSSTE.
-
-II. Dictaminar, conceder, negar, suspender, modificar o revocar las pensiones previstas en la fracción anterior, y resolver las peticiones y recursos administrativos de su competencia que se presenten en relación con las mismas;
-
-III. Proponer e invitar al derechohabiente a la mediación para la solución de controversias, en los términos de lo establecido en el artículo 57 fracción IX de este Estatuto Orgánico;
-
-IV. Mantener actualizados e informar mensualmente a las direcciones de Administración y de Finanzas, los datos del sistema de nóminas de las pensiones otorgadas al amparo de la Ley, cuyo pago corresponda al Gobierno Federal, y aplicar los incrementos periódicos de las mismas, así como el pago de gastos de funeral de los pensionistas. Asimismo, autorizar en los casos y en los términos previstos por la Ley el pago del cien por ciento del último sueldo básico;
-
-V. Establecer las reglas para el reintegro de las indemnizaciones globales que realice el trabajador separado del servicio que reingrese al mismo; así como dictaminar la procedencia y en su caso el pago, de las solicitudes de prestaciones económicas, de acuerdo con las normas aplicables;
-
-VI. Evaluar y emitir recomendaciones sobre la situación y medidas necesarias en materia de seguridad y salud en el trabajo entre las dependencias y entidades afiliadas; promover la integración y funcionamiento de una Comisión Consultiva Nacional, de Comisiones Consultivas en las Entidades Federativas y de Comisiones de Seguridad y Salud en los centros de trabajo;
-
-VII. Impulsar la realización de estudios e investigaciones sobre seguridad e higiene en el trabajo, así como promover programas y acciones de difusión y capacitación para prevenir y evitar riesgos y accidentes;
-
-VIII. Organizar, diseñar, operar y controlar el sistema de administración, otorgamiento y recuperación del Fondo de Préstamos Personales, y proponer modalidades que permitan fortalecerlo y ampliar su cobertura, en beneficio de los derechohabientes;
-
-IX. Proponer para su presentación a la Junta el programa anual de otorgamiento de préstamos personales, así como los proyectos relativos a las tasas de interés y las diversas modalidades a que estarán sujetos los mismos, instrumentando los acuerdos correspondientes;
-
-X. Autorizar y otorgar, en su caso, los préstamos personales para los trabajadores o pensionados sujetos al régimen de la Ley, conforme a las disposiciones aplicables, calculando el monto y plazo de los mismos, para lo cual establecerá mecanismos que garanticen la transparencia, confiabilidad, oportunidad, imparcialidad y eficiencia en el otorgamiento de los mismos;
-
-XI. Determinar, en coordinación con las Unidades Administrativas competentes, los adeudos e intereses que se generen por concepto de préstamos personales concedidos por el Instituto, efectuando las gestiones necesarias para la aplicación oportuna de descuentos y/o recuperaciones, así como para la devolución de descuentos improcedentes;
-
-XII. Cancelar los adeudos de aquellos trabajadores o pensionados que por alguno de los motivos que señala la Ley estén imposibilitados de saldar sus créditos, para lo cual utilizará la reserva de garantía;
-
-XIII. Diseñar, organizar, ejecutar, difundir y evaluar, con el apoyo de la Dirección de Administración, los programas de capacitación y adiestramiento, de desarrollo y actualización laboral de los trabajadores del Instituto, mismos que deberán adecuarse a las necesidades operativas definidas por las Unidades Administrativas del Instituto;
-
-XIV. Diseñar, organizar, llevar a cabo, difundir y evaluar, en coordinación con las direcciones de Administración y de Finanzas, los programas de capacitación, en materia de gestión administrativa, gerencial, económica y financiera, que requiera el personal directivo de las unidades médicas del Instituto;
-
-XV. Diseñar, organizar, llevar a cabo, difundir y evaluar el sistema de formación, enseñanza y capacitación dirigido a los derechohabientes y usuarios de los seguros, prestaciones y servicios del Instituto, así como a las dependencias y entidades;
-
-XVI. Organizar, administrar y controlar el Fondo de Servicios Sociales y Culturales, con los programas y servicios previstos en la materia por la Ley, con excepción de los que conforme a este Estatuto Orgánico quedan a cargo de SuperISSSTE y del Sistema de Agencias Turísticas TURISSSTE;
-
-XVII. Proponer anualmente para su presentación a la Junta el costo unitario a cargo de la dependencia o entidad, por cada infante que haga uso de las estancias para el bienestar y desarrollo infantil;
-
-XVIII. Establecer las reglas para la prestación del servicio de estancias para el bienestar y desarrollo infantil sin discriminación y garantizar el acceso igualitario de los hijos de padres y madres trabajadores, con base en los recursos disponibles;
-
-XIX. Establecer las reglas para proporcionar el servicio de estancias para el bienestar y desarrollo infantil a los hijos con discapacidad, de madres y padres trabajadores;
-
-XX. Coordinar, integrar y promover los programas y acciones para la atención de los pensionados, jubilados y adultos mayores; y dar prioridad a las iniciativas y proyectos de carácter educativo, recreativo, ocupacional y deportivo que auspicien su mayor bienestar;
-
-XXI. Coadyuvar en el diseño, implementación, administración y operación de los sistemas de información y comunicaciones con los que deberán operar las Delegaciones del Instituto para conceder las pensiones y otorgar las prestaciones económicas, sociales y culturales;
-
-XXII. Ejercer por conducto de sus Subdirecciones, las Delegaciones Estatales y Regionales y sus Subdelegaciones de Prestaciones, las atribuciones establecidas en las fracciones II, III, VIII, X, XI y XII del presente artículo, sin perjuicio que éstas puedan ser ejercidas por la Dirección de Prestaciones Económicas, Sociales y Culturales; y
-
-XXIII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Titular de la Dirección de Prestaciones Económicas, Sociales y Culturales será suplido por el Subdirector de Pensiones, por el Subdirector de Otorgamiento de Crédito o por el Subdirector de Servicios Sociales y Culturales, en el orden indicado.
+LA OBLIGACIÓN DE INSCRIPCIÓN. Las personas físicas o morales deberán inscribir en el Registro del Patrimonio Cultural los bienes culturales de su propiedad que hayan sido declarados con esa categoría.
 
 #### SECCIÓN QUINTA. De la Dirección Médica
 
 ###### ARTÍCULO 61.
 
-La Dirección Médica es el área técnica responsable del diseño, prestación y supervisión de los servicios médicos del Instituto establecidos en el seguro de salud.
-
-La Dirección Médica tendrá las atribuciones siguientes:
-
-I. Prestar servicios médicos de calidad y con calidez a los derechohabientes;
-
-II. Garantizar el respeto de los Derechos Humanos en todos los servicios de salud, en las instalaciones médicas, hospitalarias y centros de enseñanza e investigación del Instituto;
-
-III. Planear, coordinar, normar y evaluar, con base en las políticas nacionales y sectoriales aplicables, el sistema institucional para el otorgamiento de los servicios médicos relacionados con el seguro de salud previsto en la Ley;
-
-IV. Difundir los programas que determine el Ejecutivo Federal en materia de salud y la normatividad relativa;
-
-V. Establecer y desarrollar las políticas y programas institucionales en el ámbito de la salud, con prioridad en el cuidado de la salud y la medicina preventiva, y determinar los modelos de atención, sistemas de coordinación y procedimientos de operación a que se sujetan todas las unidades médicas del Instituto;
-
-VI. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico del Centro Médico Nacional “20 de Noviembre” y los Hospitales Regionales del Instituto, así como sus reformas y adiciones;
-
-VII. Bajo la coordinación de la Secretaría General, normar, supervisar y controlar la operación de las unidades médicas desconcentradas;
-
-VIII. Normar, supervisar y controlar la operación de las unidades médicas y de los subdelegados médicos;
-
-IX. Bajo la coordinación de la Secretaría General y con la participación de la Dirección de Administración, proporcionará información necesaria para la integración, implementación y evaluación del Plan Rector para el Desarrollo y Mejoramiento de la Infraestructura y los Servicios de Salud previsto en la Ley;
-
-X. Elaborar en coordinación con la Secretaría General, el programa operativo anual del seguro de salud establecido en la Ley, y promover las acciones de mejoramiento, modernización y simplificación administrativa que correspondan;
-
-XI. Proporcionar a la Dirección de Administración información para determinar las necesidades de mantenimiento y conservación de la infraestructura, insumos y equipo médico y electromecánico de las unidades médicas del Instituto, de acuerdo con las políticas y estrategias establecidas por la normatividad para la protección del medio ambiente y equilibrio ecológico;
-
-XII. Proporcionar a la Dirección de Administración, información para la integración y actualización del registro general de los bienes que constituyen el inventario del equipo médico propiedad del Instituto;
-
-XIII. Coadyuvar en el establecimiento e implementación de las políticas para la administración, asignación y desarrollo del personal de los servicios de salud del Instituto; en particular, la definición del perfil profesional y las normas técnicas que deberán aplicarse en los procesos de selección del personal directivo de las unidades y subdelegaciones médicas, cuya observancia deberá supervisar, en coordinación con las Unidades Administrativas competentes;
-
-XIV. Planear, normar, coordinar y evaluar las acciones de formación y educación médica continua de los recursos humanos para la salud, así como el desarrollo e impacto de las acciones de investigación clínica, biomédica, epidemiológica y en servicios de salud que desarrollen las Delegaciones y todas las unidades médicas, incluidas las desconcentradas, del Instituto. Promover el intercambio académico y de servicios con instituciones públicas o privadas;
-
-XV. Proporcionar la información a la Dirección de Tecnología y Estrategia Digital para el diseño, implementación, administración y operación de los sistemas de información y comunicaciones con los que deberán operar las Delegaciones y todas las unidades médicas, incluidas las desconcentradas, del Instituto en la prestación de los servicios de salud;
-
-XVI. Proveer y actualizar la información clínica médica del expediente electrónico único de los derechohabientes;
-
-XVII. Proponer anualmente, a las direcciones de Finanzas y de Administración el Tabulador de Servicios Médicos para Pacientes no Derechohabientes y, una vez aprobado, aplicarlo y difundirlo en todas las unidades médicas, incluidas las desconcentradas, del Instituto;
-
-XVIII. Proponer anualmente acciones para la atención preferencial de pensionados, jubilados, discapacitados y grupos vulnerables, así como en materia de medicina del trabajo, y desarrollar programas y servicios extrahospitalarios e itinerantes de atención a la salud relacionados con estos ámbitos u otros afines;
-
-XIX. Supervisar la operación académica de las escuelas de Dietética y Nutrición y Nacional de Enfermería e Investigación, así como presidir su Consejo Directivo, en ausencia del Director General;
-
-XX. Proponer al Director General, bajo la coordinación de la Secretaría General y la Dirección Jurídica, los Reglamentos Orgánicos de las escuelas de Dietética y Nutrición y Nacional de Enfermería e Investigación, así como sus reformas y adiciones para su presentación ante la Junta, para aprobación;
-
-XXI. Proponer cada año al Director General, en coordinación con la Dirección de Administración, para su posterior presentación a la Junta, la lista de necesidades de plazas, y cuáles de ellas serán ocupadas por los egresados de las distintas especialidades médicas en el Instituto y de las escuelas de Dietética y Nutrición y Nacional de Enfermería e Investigación, misma que se integrará con base en las posibilidades presupuestales, las necesidades del servicio por especialidad, y el desempeño académico de cada uno de los egresados. La selección de aspirantes, deberá hacerse con base en el reglamento que, al respecto se expida;
-
-XXII. Participar en el Consejo Asesor Científico y Médico del Instituto;
-
-XXIII. Participar en el Comité de Bioética del Instituto;
-
-XXIV. Participar en los órganos colegiados correspondientes al desempeño de los servicios de salud del Instituto; y
-
-XXV. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General y en su caso, el Secretario General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Titular de la Dirección Médica será suplido por el Subdirector de Gestión y Evaluación en Salud, por el Subdirector de Prevención y Protección a la Salud o por el Subdirector de Regulación y de Atención Hospitalaria, en el orden indicado.
+LOS REGISTROS DE OFICIO O A PETICIÓN DE PARTE. La inscripción en los registros se hará de oficio o a petición de parte interesada. Para proceder a la inscripción de oficio deberá previamente notificarse en forma personal al interesado. En caso de ignorarse su nombre y domicilio, surtirá efectos de notificación personal la publicación de ésta en el Periódico Oficial del Gobierno del Estado.
 
 #### SECCIÓN SEXTA. De la Dirección de Delegaciones
 
 ###### ARTÍCULO 62.
 
-La Dirección de Delegaciones es la encargada de promover el desarrollo delegacional y coadyuvar al logro de los objetivos institucionales, a través de la supervisión, de la instrumentación de políticas, estrategias y líneas de acción emitidas por la Dirección General, la Secretaría General y las Unidades Administrativas del Instituto, con base en el apoyo, coordinación y evaluación de la gestión administrativa, técnica y financiera de las delegaciones estatales y regionales.
+LA OPOSICIÓN EN EL REGISTRO. El interesado podrá oponerse a la inscripción de un bien en los registros anteriormente aludidos y ofrecer pruebas en el término de 15 días, contados a partir de la fecha de notificación, ello con el fin de sustentar su postura respecto a la no inscripción de algún bien.
 
-La Dirección de Delegaciones tendrá las atribuciones siguientes:
+El Registro Público recibirá las pruebas y formulará el dictamen correspondiente dentro de los 30 días siguientes a la oposición, escuchando para ello la opinión del Comité
 
-I. Contribuir en la implantación de las políticas, estrategias y líneas de acción que establezca el Director General para el funcionamiento de las Delegaciones;
-
-II. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico de las Delegaciones Estatales y Regionales del Instituto, así como sus reformas y adiciones;
-
-III. Apoyar a las Unidades Administrativas del Instituto en su relación con las Delegaciones, y dar seguimiento al cumplimiento de los compromisos de intercambio de información entre ambos niveles de administración para el mejor desarrollo de sus actividades;
-
-IV. Evaluar con las Unidades Administrativas del Instituto la operación administrativa, técnica y financiera de las Delegaciones, de acuerdo con las disposiciones relativas;
-
-V. Auxiliar, en coordinación con la Dirección de Administración, a las Delegaciones en la elaboración de los anteproyectos y proyectos de sus programas de presupuesto, así como emitir opinión sobre las solicitudes de ampliación presupuestal que presenten las mismas;
-
-VI. Auxiliar a las Delegaciones en la elaboración, propuesta y cumplimiento de los proyectos de gestión;
-
-VII. Proponer y promover, previa aprobación del Director General, los criterios y lineamientos para la coordinación de las Delegaciones con las representaciones federales en las Entidades Federativas;
-
-VIII. Conocer de las auditorías que efectúe el Órgano Interno de Control a las Delegaciones y apoyar a éstas en la atención de las observaciones y/o recomendaciones derivadas de las mismas;
-
-IX. Participar en la organización de las giras de trabajo que realice el Director General a las Delegaciones, manteniéndole permanentemente informado sobre la situación operativa, los programas más relevantes y la problemática particular que corresponda;
-
-X. Coordinar las reuniones de Delegados Estatales y Regionales que se efectúen, así como concertar la participación de las Unidades Administrativas del Instituto en las mismas, informando de sus resultados al Director General;
-
-XI. Participar en las visitas de supervisión y evaluación que realiza la Comisión de Vigilancia a las Delegaciones del Instituto y efectuar el seguimiento a los compromisos que establezca dicho Órgano;
-
-XII. Proponer ante las instancias correspondientes del Instituto la actualización de los instrumentos jurídico-normativos que rigen la operación de las Delegaciones;
-
-XIII. Dar atención oportuna a todos los trámites y requerimientos derivados de la Ley de Amparo, reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos en los que sean parte o en los que, sin ser parte, sea requerida su intervención;
-
-XIV. Coadyuvar con la Dirección Jurídica y las demás Unidades Administrativas Centrales y Desconcentradas, en la ejecución de laudos, resoluciones y sentencias derivadas de acciones en contra del Instituto, así como de las sanciones aplicadas por acciones u omisiones por parte de los servidores públicos adscritos a las Delegaciones, de lo cual informará con oportunidad al Director General; y
-
-XV. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Titular de la Dirección de Delegaciones será suplido por el Subcoordinador de Enlace Institucional, por el Subcoordinador de Desarrollo Estratégico o por el Subcoordinador de Evaluación de Políticas Institucionales, en el orden indicado.
+El dictamen del Registro Público será turnado a la Secretaría de Gobierno del Estado, para que dentro del término de 30 días resuelva lo conducente.
 
 #### SECCIÓN SÉPTIMA. Dirección de Tecnología y Estrategia Digital
 
 ###### ARTÍCULO 63.
 
-La Dirección de Tecnología y Estrategia Digital se encarga del desarrollo tecnológico institucional y de apoyar a las Unidades Administrativas Centrales y Desconcentradas del Instituto en el otorgamiento de los seguros, prestaciones y servicios que se brindan al Derechohabiente, a través de proyectos de diseño y uso de tecnologías de la información.
+LA OPINIÓN DE AUTENTICIDAD DEL BIEN. La inscripción no determina la autenticidad del bien registrado.
 
-La Dirección de Tecnología y Estrategia Digital tendrá las siguientes funciones:
-
-I. Proponer y promover las políticas, estrategias y acciones necesarias para la modernización integral de los sistemas, tecnologías, estructuras y procesos del Instituto;
-
-II. Representar al Instituto, a la Secretaría General y a sus Unidades Administrativas ante las dependencias globalizadoras relacionadas con el desarrollo tecnológico, coordinar los programas establecidos en esta materia dentro de la Administración Pública Federal, así como los que le sean encomendados por el Director General;
-
-III. Planear, normar, administrar e impulsar el desarrollo del gobierno digital, de las comunicaciones y telecomunicaciones del Instituto, así como la provisión de estos servicios a sus Unidades Administrativas, con enfoques que auspicien la integración institucional, el enlace directo con los derechohabientes y la mayor eficiencia de las operaciones y servicios;
-
-IV. Establecer los lineamientos de coordinación y operación a que deberán sujetarse las áreas de informática y de comunicaciones de las Unidades Administrativas que cuenten con ellas. Orientar y dictaminar técnicamente los proyectos de desarrollo y equipamiento que requieran;
-
-V. Desarrollar, operar y dar respaldo técnico a los sistemas de información, bases de datos, registros electrónicos y digitales, procesos de intercambio y medios de acreditación que previene la Ley, en el marco de la normatividad aplicable, y se coordinará con la Dirección de Administración para consolidar los requerimientos de adquisiciones y servicios que sean necesarios en estas materias;
-
-VI. Revisar en el Instituto la totalidad de los procesos que se desarrollan para brindar las prestaciones, seguros y servicios a los derechohabientes, a fin de brindar asesoría y respaldo técnico en materia de estrategia digital e informática;
-
-VII. Apoyar la implantación de mecanismos, como la firma electrónica, que permitan una atención más eficiente y oportuna a los derechohabientes, así como procesos más ágiles y expeditos;
-
-VIII. Planear, coordinar y desarrollar los estudios y acciones necesarias para apoyar a la Secretaría General, las Unidades Administrativas, y de ser necesario, modernizar y adecuar los sistemas informáticos y la estrategia digital del Instituto;
-
-IX. Coordinar y dictaminar las solicitudes de estudios y proyectos de consultoría que requieran las Unidades Administrativas del Instituto para efectos del mejoramiento de servicios informáticos; y
-
-X. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Titular de la Dirección de Tecnología y Estrategia Digital será suplido por el Subdirector de Tecnología de la Información o por el Subdirector de Coordinación de Proyectos, en el orden indicado.
+A solicitud de parte, la opinión de autenticidad se expedirá a través del procedimiento que establezca el reglamento respectivo.
 
 #### SECCIÓN OCTAVA. De la Dirección de Comunicación Social
 
 ###### ARTÍCULO 64.
 
-La Dirección de Comunicación Social es la encargada de definir mecanismos de difusión, a través de los medios de comunicación, que hagan del conocimiento de los trabajadores, derechohabientes y sociedad en general, las políticas, programas y acciones del Instituto.
+LA FORMALIDAD. Los actos traslativos de dominio y los gravámenes impuestos sobre inmuebles adscritos al patrimonio cultural deberán constar en escritura pública.
 
-La Dirección de Comunicación Social tendrá las atribuciones siguientes:
+Quien transmita el dominio deberá manifestar, bajo protesta de decir verdad, si el bien materia de la operación es un bien cultural que haya sido objeto de declaratoria.
 
-I. Planear, coordinar, diseñar y evaluar las actividades de información, publicidad, difusión y relaciones públicas del Instituto;
-
-II. Emitir las disposiciones normativas en materia de comunicación social del Instituto;
-
-III. Formular e integrar los programas de información, publicidad, difusión y relaciones públicas del Instituto, así como dirigir y brindar los servicios de apoyo que sus Unidades Administrativas requieran;
-
-IV. Definir, producir, planear y ejecutar las campañas de difusión y publicidad del Instituto;
-
-V. Organizar entrevistas y conferencias con los medios de comunicación para informar acerca de las actividades institucionales, así como emitir boletines y demás materiales sobre las mismas;
-
-VI. Coordinar a las Unidades Administrativas del Instituto en el diseño de campañas y en el manejo de la información institucional, vigilar que éstas se apeguen a las directrices y disposiciones normativas en materia de comunicación emitidas por el Gobierno Federal y la Dirección General del Instituto;
-
-VII. Editar y distribuir libros, revistas y demás publicaciones del Instituto con apego a la normatividad aplicable;
-
-VIII. Coadyuvar con la Dirección de Tecnología y Estrategia Digital en el diseño, administración y actualización del portal y la página en Internet del Instituto, y difundir a través de ellos, materiales relevantes para los derechohabientes y los ciudadanos;
-
-IX. Coordinar el manejo de la información institucional a través de redes sociales;
-
-X. Diseñar materiales informativos y definir los medios de comunicación necesarios para difundir en el interior del Instituto las acciones y programas que se llevan a cabo en beneficio de los trabajadores y los derechohabientes;
-
-XI. Normar y supervisar el cumplimiento de las políticas de identidad institucional por las Unidades Administrativas del Instituto; y
-
-XII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Titular de la Dirección de Comunicación Social será suplido por el Jefe de Servicios de Información y Difusión, por el Jefe de Servicios de Programas de Comunicación, o por el Jefe de Servicios de Orientación, Información y Relaciones Públicas, en el orden indicado.
+Los notarios públicos mencionarán la declaratoria del bien y darán aviso al Registro Público de la operación celebrada, en un plazo de 30 días.
 
 ### CAPÍTULO CUARTO. De las Unidades Administrativas Desconcentradas
 
@@ -1453,431 +1391,185 @@ Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Titular de l
 
 ###### ARTÍCULO 65.
 
-El FOVISSSTE tiene por objeto administrar y operar el Fondo de la Vivienda del Instituto, de acuerdo con lo establecido en la Ley.
+EL AVISO. Las partes que intervengan en actos traslativos de dominio de bienes inmuebles objeto de declaratoria deberán dar aviso de su celebración dentro de los 30 días siguientes al Comité del Patrimonio Cultural del estado.
 
-El FOVISSSTE cuenta con una Comisión Ejecutiva, la cual está integrada y tiene las funciones previstas en los artículos 170 y 174 de la Ley, y 28 y 31 de (sic) Estatuto Orgánico, y sesiona de acuerdo al calendario que se apruebe.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 66.
 
-Son funciones del Vocal Ejecutivo del FOVISSSTE:
+EL INVENTARIO. La Secretaría formulará los inventarios de los bienes que se encuentren dentro de los inmuebles adscritos al patrimonio cultural.
 
-I. Asistir a las sesiones de la Junta con voz, pero sin voto, para informar de los asuntos relacionados con el FOVISSSTE;
+Para este efecto, los encargados del Registro Público deben enviar de inmediato copias de los asientos registrales que efectúen.
 
-II. Ejecutar los Acuerdos de la Junta y de la Comisión Ejecutiva del FOVISSSTE en relación con el propio Fondo;
-
-III. Convocar a las sesiones de la Comisión Ejecutiva del FOVISSSTE y presidir las mismas en ausencia del Director General;
-
-IV. Presentar a la Comisión Ejecutiva del FOVISSSTE, en las sesiones correspondientes, un informe bimestral sobre las actividades del propio Fondo;
-
-V. Presentar a la Comisión Ejecutiva del FOVISSSTE, para su consideración y, en su caso, aprobación y posterior presentación a la Junta:
-
-a) Los estados financieros y el informe de actividades del ejercicio anterior, en los primeros dos meses de cada año;
-
-b) Los presupuestos de ingresos y egresos, el presupuesto de gastos de administración, operación y vigilancia y los programas operativos, de financiamiento y de crédito para el año siguiente, a más tardar en el mes de septiembre de cada año;
-
-c) Un programa financiero relativo a los dos años siguientes, en los dos últimos meses de cada año; y
-
-d) En coordinación con la Dirección de Finanzas del Instituto, los estudios financieros y actuariales necesarios para determinar las Reservas que deban constituirse para asegurar la operación del Fondo y el cumplimiento de su objeto, informando a la Secretaría de Hacienda y Crédito Público.
-
-VI. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico del FOVISSSTE, así como sus reformas y adiciones;
-
-VII. Presidir los comités u órganos técnicos colegiados del FOVISSSTE;
-
-VIII. Planear, operar y administrar los sistemas de otorgamiento de crédito y de registro y recuperación de adeudos por los créditos otorgados con cargo al Fondo de la Vivienda;
-
-IX. Evaluar y registrar la oferta de vivienda para ser adquirida o construida, mediante créditos otorgados a los derechohabientes;
-
-X. Dar trámite, dictaminar y autorizar las solicitudes de crédito para vivienda, así como calcular el monto y plazo del crédito correspondiente, conforme a lo previsto en el programa a que se refiere la fracción V de este artículo, a las reglas para el otorgamiento de créditos que expida la Junta y a las políticas de crédito que emita la Comisión Ejecutiva, sin perjuicio de delegar o encomendar mediante mandato expresamente estas facultades, informando periódicamente lo que corresponda a la Comisión Ejecutiva del FOVISSSTE;
-
-XI. Autorizar las solicitudes de devolución de depósitos, informando a la Comisión Ejecutiva sobre lo realizado, así como dictaminar la liberación de los acreditados o sus beneficiarios de las obligaciones crediticias con motivo de invalidez, incapacidad total permanente o muerte, conforme a lo previsto en el artículo 182 de la Ley;
-
-XII. Suscribir los convenios y contratos que sean necesarios para cumplir con el objeto del FOVISSSTE, y cancelar los gravámenes correspondientes una vez liquidado el saldo de los créditos, sin perjuicio de otorgar los poderes necesarios para llevar a cabo dichos actos, con apego a las disposiciones y a las políticas institucionales aplicables;
-
-XIII. Coordinar las acciones para la regularización o municipalización de los conjuntos habitacionales financiados con cargo al FOVISSSTE;
-
-XIV. Promover la constitución de regímenes de propiedad y condominio de los conjuntos habitacionales financiados con cargo al FOVISSSTE;
-
-XV. Planear, desarrollar y operar los sistemas de administración, finanzas, contabilidad, servicios jurídicos, auditoría, contraloría interna, administración de riesgos, información, comunicaciones y demás que se requieran en los procesos y actividades del FOVISSSTE, de conformidad con el presupuesto autorizado y observando las políticas y normas que para ello establezca la Secretaría General y las Unidades Administrativas Centrales del Instituto;
-
-XVI. Proponer y llevar a cabo, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza del FOVISSSTE; y
-
-XVII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Vocal Ejecutivo del FOVISSSTE será suplido por el Subdirector de Crédito, por el Subdirector de Administración o por el Subdirector de Asuntos Jurídicos, en el orden indicado.
+Deberán anexarse a las declaratorias de adscripción de bienes culturales o de zonas protegidas, los inventarios correspondientes, de los cuales el Instituto y la Junta respectiva llevarán registro.
 
 #### SECCIÓN SEGUNDA. Del PENSIONISSSTE
 
 ###### ARTÍCULO 67.
 
-El PENSIONISSSTE tiene por objeto administrar las cuentas individuales de los trabajadores afiliados al Instituto e invertir los recursos correspondientes a dichas cuentas, de conformidad con lo establecido en la Ley y la normatividad aplicable, a través de sus Sociedades de Inversión Especializadas de Fondos para el Retiro, excepto los del Fondo de la Vivienda, que serán invertidos por el FOVISSSTE.
+LOS ÓRGANOS COADYUVANTES. Son órganos coadyuvantes en la aplicación de esta ley, en materia de patrimonio cultural, los siguientes:
 
-El PENSIONISSSTE contará con una Comisión Ejecutiva, la que funcionará en términos de lo establecido en el Reglamento Orgánico de PENSIONISSSTE.
+I. Las Juntas de Protección y Conservación del Patrimonio Cultural.
+
+II. Las asociaciones civiles constituidas para la preservación de los centros históricos.
+
+III. Los patronatos locales para la protección del patrimonio cultural.
+
+IV. Las asociaciones civiles constituidas con finalidades culturales o vinculadas a la cultura.
+
+V. Los ciudadanos del estado; y
+
+VI. Los demás a los que las disposiciones jurídicas les den ese carácter.
 
 ###### ARTÍCULO 68.
 
-Son funciones del Vocal Ejecutivo del PENSIONISSSTE:
-
-I. Asistir a las sesiones de la Junta con voz, pero sin voto, para informar de los asuntos relacionados con el PENSIONISSSTE;
-
-II. Ejecutar los Acuerdos de la Junta y de la Comisión Ejecutiva del PENSIONISSSTE en relación con el propio Fondo;
-
-III. Convocar a las sesiones de la Comisión Ejecutiva del PENSIONISSSTE y presidir las mismas, en ausencia del Director General;
-
-IV. Presentar a la Comisión Ejecutiva del PENSIONISSSTE, en las sesiones correspondientes, un informe bimestral sobre las actividades del propio Fondo;
-
-V. Presentar a la Comisión Ejecutiva del PENSIONISSSTE, para su consideración y, en su caso, aprobación y posterior presentación a la Junta:
-
-a) El informe de actividades del ejercicio anterior, en los primeros dos meses de cada año;
-
-b) Los estados financieros del Fondo, en los primeros cuatro meses de cada año;
-
-c) Los presupuestos de ingresos y egresos, el presupuesto de gastos de administración, operación y vigilancia y los programas operativo y de inversión para el año siguiente, a más tardar en el mes de septiembre de cada año;
-
-d) La estrategia de inversión de recursos, en los dos últimos meses de cada año;
-
-e) La constitución de sociedades de inversión especializadas de fondos para el retiro; y
-
-f) En coordinación con la Dirección de Finanzas del Instituto, los estudios financieros y actuariales necesarios para determinar las Reservas que deban constituirse para asegurar la operación del Fondo y el cumplimiento de su objeto, informando a la Secretaría de Hacienda y Crédito Público.
-
-VI. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico del PENSIONISSSTE, así como sus reformas y adiciones;
-
-VII. Presidir los comités u órganos técnicos colegiados de PENSIONISSSTE y de las sociedades de inversión especializadas de fondos para el retiro administradas por éste;
-
-VIII. Dirigir las actividades técnicas y operativas para la administración de las cuentas individuales de los trabajadores, así como para la inversión de los recursos depositados en éstas, conforme a la normatividad aplicable al Sistema de Ahorro para el Retiro;
-
-IX. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del PENSIONISSSTE, sin perjuicio de otorgar los poderes necesarios para llevar a cabo dichos actos, con apego a las disposiciones y a las políticas institucionales aplicables;
-
-X. Planear, desarrollar y operar los sistemas de administración, finanzas, contabilidad, servicios jurídicos, información, comunicaciones y demás que se requieran en los procesos y actividades del PENSIONISSSTE, de conformidad con el presupuesto autorizado y observando las políticas y normas que para ello establezcan las Unidades Administrativas Centrales del Instituto;
-
-XI. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza del PENSIONISSSTE; y
-
-XII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Vocal Ejecutivo del PENSIONISSSTE será suplido por el Subdirector de Inversiones, el Subdirector de Finanzas y Administración, o el Subdirector Jurídico, en el orden indicado.
+EL PRINCIPIO DE ASESORÍA Y APOYO PROFESIONAL. Las autoridades encargadas de la aplicación de esta ley solicitarán la asesoría y apoyo profesional de los institutos nacionales y dependencias federales, estatales y municipales y asociaciones o empresas que, por razón de su competencia en la materia, puedan brindarla.
 
 #### SECCIÓN TERCERA. Del SuperISSSTE
 
 ###### ARTÍCULO 69.
 
-El SuperISSSTE es la Unidad Administrativa con la que el Instituto da cumplimiento a lo establecido en el Artículo 123 apartado B, fracción XI, inciso e) de la Constitución Política de los Estados Unidos Mexicanos que dispone el establecimiento de tiendas económicas para beneficio de los trabajadores y sus familiares. Para ello, planea, administra y realiza los programas y servicios de apoyo para que los derechohabientes y la ciudadanía adquieran productos básicos y de consumo en las tiendas que para el efecto existen.
+LA INSTRUMENTACIÓN JURÍDICA. La Secretaría de Gobierno será la encargada de tramitar los expedientes y formular los proyectos de decreto que deba dictar el Ejecutivo del Estado en aplicación de esta ley.
 
-El SuperISSSTE tiene las atribuciones siguientes:
-
-I. La venta de productos básicos y bienes de consumo, así como de medicamentos y materiales de curación a los mejores precios posibles en relación con las condiciones vigentes en el mercado;
-
-II. La concertación y realización de programas de comercialización y acceso a bienes y productos en condiciones y precios preferentes; y
-
-III. La organización de sistemas y mecanismos de crédito al consumo, aprovechando en primer lugar las capacidades financieras y operativas del Instituto.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 70.
 
-Para su administración y funcionamiento, el SuperISSSTE contará con un Consejo Directivo que se integrará conforme lo disponga el Reglamento Orgánico, y será presidido por el Director General o, en sus ausencias, por el Director del SuperISSSTE, con las siguientes atribuciones:
-
-I. Definir los objetivos a los que deberá sujetarse el SuperISSSTE en cuanto a productividad, comercialización, finanzas, desarrollo tecnológico y administración en general;
-
-II. Conocer y, en su caso, aprobar, a propuesta del Director del SuperISSSTE:
-
-a) Las políticas generales y las prioridades a que estará sujeto el desarrollo de las funciones del SuperISSSTE, vigilando que las mismas sean acordes con las políticas, prioridades y programas institucionales;
-
-b) Las políticas de comercialización, inversión y administración que permitan obtener beneficios económicos y financieros con proveedores nacionales y extranjeros;
-
-c) Las normas y políticas necesarias para asegurar el abasto oportuno de bienes de consumo y servicios en las unidades de venta, verificando que éstos se otorguen a los mejores precios posibles en relación con los vigentes en el mercado;
-
-d) El anteproyecto anual del presupuesto del SuperISSSTE y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto, quedando su ejercicio bajo la coordinación de las direcciones de Finanzas y de Administración del Instituto;
-
-e) Los programas anuales de compras de bienes y contratación de servicios, así como las ventas que se esperen lograr para garantizar el cumplimiento de los objetivos del SuperISSSTE durante el ejercicio fiscal de que se trate; y
-
-f) El establecimiento, reubicación o supresión de centros de acopio, transporte y distribución, así como de unidades de venta del SuperISSSTE.
-
-III. Aprobar los mecanismos de coordinación y colaboración institucionales, así como los de concertación con los sectores público, social y privado, para el cumplimiento de su objeto;
-
-IV. Conocer los informes que le rinda el Director del SuperISSSTE y evaluar los resultados en materia de comercialización, operación y administración;
-
-V. Aprobar la instalación de grupos de trabajo o comisiones, para apoyar las funciones del Consejo Directivo; y
-
-VI. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable.
+LA CAMPAÑA PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL. Los sectores cultural, educativo, turístico y ambiental, y la Secretaría, en coordinación con las demás autoridades federales, estatales, municipales y los particulares, realizarán campañas permanentes para fomentar y difundir el conocimiento, respeto, conservación y enriquecimiento del patrimonio cultural.
 
 ###### ARTÍCULO 71.
 
-El Director del SuperISSSTE tendrá las funciones siguientes:
-
-I. Asistir a las sesiones de la Junta con voz, pero sin voto, para informar de los asuntos relacionados con el SuperISSSTE;
-
-II. Planear, programar, normar, organizar y dirigir las funciones encomendadas al SuperISSSTE y las acciones necesarias para el cumplimiento de su objeto;
-
-III. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico del SuperISSSTE, así como sus reformas y adiciones;
-
-IV. Presentar al Consejo Directivo del SuperISSSTE las propuestas que conforme a este Estatuto Orgánico y a la normatividad aplicable deba someterle, ejecutando sus acuerdos e informándole trimestralmente sobre su avance y cumplimiento;
-
-V. Formular y desarrollar las políticas que permitan elevar los niveles de competitividad en el desarrollo de la actividad comercial del SuperISSSTE, realizando los estudios e investigaciones necesarios para su mejoramiento;
-
-VI. Coordinar la operación de las representaciones y unidades de venta de SuperISSSTE, conforme a las políticas, normas y lineamientos institucionales;
-
-VII. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del SuperISSSTE, sin perjuicio de otorgar los poderes necesarios para llevar a cabo dichos actos, con apego a las disposiciones y a las políticas institucionales aplicables;
-
-VIII. Certificar y expedir copias de los originales de los expedientes generados por faltantes en inventarios que superen la merma permitida u otros expedientes que se generen en inventarios de naturaleza diferente, con apego a los procesos legales correspondientes;
-
-IX. Planear, desarrollar y operar los sistemas de administración, finanzas, contabilidad, servicios jurídicos, información, comunicaciones y demás que se requieran en los procesos y actividades del SuperISSSTE, de conformidad con el presupuesto autorizado y observando las políticas y normas que para ello establezcan las Unidades Administrativas Centrales del Instituto;
-
-X. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza del SuperISSSTE; y
-
-XI. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Director del SuperISSSTE será suplido por el Subdirector de Administración, por el Subdirector de Finanzas o por el Subdirector de Abasto, en el orden indicado.
+LA PARTICIPACIÓN CIUDADANA. Toda persona tiene derecho a participar en la protección del patrimonio cultural, en los términos de la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza.
 
 #### SECCIÓN CUARTA. Del Sistema de Agencias Turísticas TURISSSTE
 
 ###### ARTÍCULO 72.
 
-El Sistema de Agencias Turísticas TURISSSTE tiene por objeto planear, normar, dirigir y realizar los servicios turísticos que establece la Ley para beneficio de los derechohabientes.
+LAS OBLIGACIONES DE LOS AYUNTAMIENTOS EN MATERIA CULTURAL. Los ayuntamientos promoverán la formación de asociaciones civiles y uniones vecinales, así como la organización de representantes de los sectores más significativos de la población, como órganos de apoyo para impedir el deterioro o destrucción del patrimonio y promover su conservación y enriquecimiento.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+La Secretaría promoverá que en el sistema educativo del estado se realicen las actividades necesarias para dar a conocer a las nuevas generaciones los valores culturales y despertar en ellas el aprecio y respeto por dichos valores.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 73.
 
-Para su administración y funcionamiento, el Sistema de Agencias Turísticas TURISSSTE contará con un Consejo Directivo, que se integrará y funcionará conforme lo disponga el Reglamento Orgánico y será presidido por el Director General o, en sus ausencias, por el Director del Sistema de Agencias Turísticas TURISSSTE, con las siguientes funciones:
-
-I. Definir los objetivos a los que deberá sujetarse el Sistema de Agencias Turísticas TURISSSTE en cuanto a productividad, comercialización, finanzas, desarrollo tecnológico y administración en general;
-
-II. Conocer y, en su caso, aprobar, a propuesta del Director del Sistema de Agencias Turísticas TURISSSTE:
-
-a) Las políticas generales y las prioridades a que estará sujeto el desarrollo de las funciones del Sistema TURISSSTE, y vigilar que las mismas sean acordes con las políticas, prioridades y programas institucionales;
-
-b) Las normas y lineamientos para la operación de los programas en materia turística que ofrece el Instituto;
-
-c) Los mecanismos de coordinación y colaboración institucionales, así como con los sectores públicos, social y privado, para el cumplimiento del objeto del Sistema TURISSSTE;
-
-d) El anteproyecto anual de presupuesto del Sistema de Agencias Turísticas TURISSSTE y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto, su ejercicio queda bajo la coordinación de las direcciones de Finanzas y de Administración del Instituto;
-
-e) El anteproyecto del programa operativo anual, que especificará los volúmenes de servicios que se pretenden otorgar, los ingresos que se obtendrán, así como las Agencias Turísticas TURISSSTE responsables de su cumplimiento, y evaluará sus avances;
-
-f) Las políticas de comercialización, inversión y administración que permitan obtener mejores condiciones económicas y financieras para la prestación de servicios turísticos; y
-
-g) El establecimiento, reubicación o supresión de Agencias Turísticas.
-
-III. Proponer estrategias tendentes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su instrumentación;
-
-IV. Conocer los informes que rinda el Director del Sistema de Agencias Turísticas TURISSSTE y evaluar los resultados en materia de prestación de servicios turísticos a los derechohabientes del Instituto;
-
-V. Aprobar la instalación de grupos de trabajo o comisiones, para apoyar las funciones del Consejo Directivo; y
-
-VI. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable.
+EL RECONOCIMIENTO CIUDADANO. Los donativos, herencias y legados significativos que se realicen para enriquecer el patrimonio cultural del estado, serán objeto de reconocimiento mediante la inscripción del nombre de la persona que lo efectúe, en la placa de donadores que al efecto se instale en la Secretaría. La declaración correspondiente se efectuará anualmente por la Secretaría.
 
 ###### ARTÍCULO 74.
 
-El Director del Sistema de Agencias Turísticas TURISSSTE tiene las funciones siguientes:
+LAS JUNTAS DE PROTECCIÓN Y CONSERVACIÓN DEL PATRIMONIO CULTURAL. Las Juntas de Protección y Conservación del Patrimonio Cultural son organismos de interés público, creados en los municipios para la promoción, tramitación y cumplimiento, según el caso, de las declaratorias de bienes y zonas protegidas, que deban quedar sujetas al régimen de esta ley.
 
-I. Asistir a las sesiones de la Junta con voz, pero sin voto, para informar de los asuntos relacionados con el Sistema de Agencias Turísticas TURISSSTE;
+Las Juntas estarán integradas por:
 
-II. Planear, programar, normar, organizar y dirigir las funciones encomendadas al Sistema de Agencias Turísticas TURISSSTE y las acciones necesarias para el cumplimiento de su objeto;
+I. Un presidente, designado por sus integrantes.
 
-III. Establecer sistemas, modelos, metodologías y programas de calidad y sistematización de los procesos para elevar la eficiencia operativa y la calidad del servicio que brinda el Sistema TURISSSTE;
+II. Cuando menos cinco vocales, quienes representarán a los sectores cultural, educativo, turístico, ambiental y social, que actúen a nivel municipal; y
 
-IV. Proponer al Consejo Directivo la apertura, reubicación o cierre de las Agencias TURISSSTE con base en los estudios correspondientes;
+III. Cinco vocales que representarán a las organizaciones, cámaras, colonos y miembros de la comunidad, previa convocatoria del presidente municipal respectivo.
 
-V. Proponer al Director General, para su presentación ante la Junta, el Reglamento Orgánico del Sistema de Agencias Turísticas TURISSSTE, así como sus reformas y adiciones;
-
-VI. Presentar al Consejo Directivo del Sistema las propuestas que conforme a este Estatuto Orgánico y a la normatividad aplicable deba someterle, ejecutar sus acuerdos e informar trimestralmente sobre su avance y cumplimiento;
-
-VII. Formular y desarrollar las políticas que permitan elevar los niveles de competitividad en el desarrollo de la actividad del Sistema de Agencias Turísticas TURISSSTE, y realizar los estudios e investigaciones necesarios para su mejoramiento;
-
-VIII. Coordinar la operación de las Agencias TURISSSTE, conforme a las políticas, normas y lineamientos institucionales;
-
-IX. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto del Sistema de Agencias Turísticas TURISSSTE, con apego a las disposiciones y a las políticas institucionales aplicables;
-
-X. Planear, desarrollar y operar los sistemas de administración, finanzas, contabilidad, servicios jurídicos, información, comunicaciones y demás que se requieran en los procesos y actividades del Sistema de Agencias Turísticas TURISSSTE, de conformidad con el presupuesto autorizado y observando las políticas y normas que para ello establezcan las Unidades Administrativas Centrales del Instituto;
-
-XI. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza del Sistema de Agencias Turísticas TURISSSTE;
-
-XII. Proponer las modificaciones de la estructura orgánica del Sistema TURISSSTE; y
-
-XIII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Director del Sistema de Agencias Turísticas TURISSSTE será suplido por el Jefe de Servicios de Planeación y Evaluación, por el Jefe de Servicios Comerciales o por el Jefe de Servicios de Administración, en el orden indicado.
+Los integrantes de la Junta deberán ser personas cuyo desarrollo personal o profesional les haya permitido tener contacto con alguna de las especialidades del patrimonio cultural. Los cargos de los participantes en la Junta serán honoríficos, por lo tanto quienes la integren no recibirán remuneración alguna.
 
 #### SECCIÓN QUINTA. Del Centro Médico Nacional “20 de Noviembre” y de los Hospitales Regionales
 
 ###### ARTÍCULO 75.
 
-El Centro Médico Nacional "20 de Noviembre" y los Hospitales Regionales tienen por objeto, respectivamente, otorgar atención médica de alta especialidad y de tercer nivel a los derechohabientes del Instituto. Son las unidades médicas de más alto rango técnico, resolutivo y operativo dentro del sistema institucional de servicios de salud.
+LA CREACIÓN DE JUNTAS. Los presidentes municipales podrán crear, ya de oficio o a petición de parte, juntas en los municipios, aún antes de que se inicie un expediente de declaratoria de adscripción o de protección.
 
 ###### ARTÍCULO 76.
 
-Para su administración y funcionamiento, el Centro Médico Nacional “20 de Noviembre” y cada uno de los Hospitales Regionales contarán con un Consejo Directivo, que se integrará conforme al Reglamento Orgánico correspondiente y será presidido por el Director General, quien será suplido en sus ausencias por el Director Médico del Instituto.
+LAS FACULTADES DE LAS JUNTAS. Las Juntas que tengan a su cargo el cumplimiento de una declaratoria de adscripción de inmuebles o de zonas protegidas tendrán, con las modalidades que se señalen expresamente en el decreto respectivo y en el reglamento de la declaratoria que expida el Ayuntamiento, las siguientes facultades:
 
-El Director General podrá designar a un Coordinador de Hospitales Regionales con el propósito de asegurar una adecuada planeación de sus actividades, garantizar la operación eficiente, la atención adecuada a los derechohabientes y la evaluación del desempeño de estas unidades desconcentradas.
+I. Recomendar las disposiciones necesarias para la protección de la arquitectura en general, y en particular de los edificios, calles, plazas, jardines y elementos de ornato y servicio público, etcétera, que por su valor artístico o histórico, por su carácter, su tradición o por cualquier otra circunstancia deban conservarse.
 
-En los Consejos Directivos de los Hospitales Regionales participarán los Delegados del Instituto en las demarcaciones cubiertas por los servicios que, a nivel regional, brinda cada uno de ellos.
+II. Recomendar o no el otorgamiento del permiso para la colocación de obras y monumentos de arte público, de ornato urbano o relacionadas con el patrimonio cultural, así como de anuncios, rótulos, postes, líneas eléctricas, telefónicas o de cualquier índole, en los términos de la presente ley.
+
+III. Recomendar al Ayuntamiento la realización de las obras necesarias para la conservación, restauración, rescate, mejoramiento y aseo de las fincas, construcciones y calles, etcétera, de acuerdo con las disposiciones de esta ley.
+
+IV. Solicitar al Ayuntamiento la suspensión de las obras que no reúnan las condiciones requeridas o cuando éstas se ejecuten sin las autorizaciones y requisitos que esta ley señala. En caso necesario, la demolición o modificación a costa del propietario de las obras realizadas sin autorización o violando los términos de la concedida.
+
+V. Conocer y emitir opinión en lo referente a las autorizaciones que concedan otras autoridades estatales o municipales para el establecimiento de giros comerciales o industriales u otros, en las zonas declaradas protegidas, y que puedan lesionarlas.
+
+VI. Recomendar en qué casos las obras en proyecto o realizadas, colindantes o vecinas a los bienes inmuebles históricos o artísticos y a las zonas protegidas afectan negativamente a éstas por su cercanía o ubicación, mediante un peritaje debidamente fundamentado por el personal técnico adscrito a las Juntas.
+
+VII. Solicitar a los ayuntamientos que se retiren anuncios, rótulos y letreros que violen lo dispuesto en esta ley o en la declaratoria respectiva.
+
+VIII. En coordinación con las instancias correspondientes elaborar catálogos e inventarios de los bienes comprendidos en las declaratorias de adscripción o de zona protegida.
+
+IX. Efectuar en todo el tiempo y previa autorización de sus propietarios, visitas de inspección a los inmuebles, a fin de determinar su estado y la manera como se atiende a su protección y conservación, así como para tomar datos descriptivos, dibujos, fotografías, planos u otros trabajos que estime necesarios.
+
+X. Solicitar a los ayuntamientos, cuando así lo estime conveniente, la modificación de algún inmueble, notificando a su propietario; y
+
+XI. Las demás que les atribuyan las disposiciones legales.
 
 ###### ARTÍCULO 77.
 
-Los Consejos Directivos del Centro Médico Nacional “20 de Noviembre” y de los Hospitales Regionales tendrán respecto de dichas Unidades Administrativas Desconcentradas las siguientes atribuciones:
+LOS DICTÁMENES DE LAS JUNTAS. Las Juntas solicitarán a las instancias competentes de los tres niveles de gobierno, según sea el caso, el personal calificado necesario para proporcionar asesoría a los propietarios o poseedores de los predios o de los inmuebles incluidos en la declaratoria de bienes adscritos al patrimonio cultural o dentro de la zona protegida.
 
-I. Alinear y aprobar las políticas generales y las prioridades a que estarán sujetos, con relación a su productividad, su desempeño, la calidad de sus servicios, la aplicación financiera y el proceso administrativo, en congruencia con el Programa Sectorial de Salud y las políticas y prioridades institucionales;
+La emisión de dictámenes y la formulación de proyectos encomendados por la Junta al personal técnico de apoyo, serán respecto de:
 
-II. Proponer y coadyuvar al desarrollo de estrategias tendentes al mejoramiento y la resolución de aspectos de orden técnico y operacional, considerando las propuestas que formulen sus Directores en cuanto a:
+I. Expedición de declaratorias de adscripción o de zonas protegidas.
 
-a) Las políticas generales y las prioridades en materia asistencial, académica y de investigación;
+II. Dictámenes sobre la necesidad de remoción, demolición o destrucción total o parcial de bienes inmuebles adscritos al patrimonio cultural o que se encuentren en zonas protegidas.
 
-b) La definición de los programas de enseñanza e investigación;
+III. Ejecución de obras o trabajos en bienes inmuebles o zonas a que se refiere la fracción anterior.
 
-c) Las estrategias para el mejoramiento técnico, científico y del proceso asistencial;
+IV. Proyectos para la expropiación, así como la ocupación o aseguramiento temporal, parcial o total, o la imposición de alguna modalidad al uso o aprovechamiento de un bien que deba quedar adscrito al patrimonio cultural o que se encuentre en una zona protegida.
 
-d) El asesoramiento en asuntos de carácter científico-académico;
+V. Elaboración de los catálogos e inventarios del patrimonio cultural; y
 
-e) La evaluación y desarrollo de tecnología de vanguardia que coadyuve a mejorar la calidad de la atención médica y el sistema de atención médica en general; y
-
-f) Las innovaciones requeridas para mejorar el modelo asistencial y el sistema de atención médica en general.
-
-III. Conocer y, en su caso, aprobar, a propuesta del Director de la unidad médica:
-
-a) El anteproyecto anual de presupuesto y sus modificaciones, mismos que se someterán a aprobación de la Junta en el presupuesto del Instituto;
-
-b) El anteproyecto de programa operativo anual, así como los proyectos y programas especiales que se determinen necesarios, en apego a las disposiciones y políticas institucionales aplicables;
-
-c) Las políticas, bases y programas generales que rijan los convenios, contratos o acuerdos que se establezcan con otros organismos en materia asistencial, de enseñanza y de investigación; y
-
-d) Los informes que rindan los respectivos Directores.
-
-IV. Acordar la instalación de grupos de trabajo o comisiones para apoyar las funciones del Consejo Directivo; y
-
-V. Las demás que les confieran este Estatuto Orgánico y la normatividad aplicable.
+VI. Los demás que encomiende la Junta correspondiente.
 
 ###### ARTÍCULO 78.
 
-El Director del Centro Médico Nacional “20 de Noviembre” y los Directores de los Hospitales Regionales del Instituto tendrán las siguientes funciones:
-
-I. Planear, programar, organizar y dirigir las funciones encomendadas a la unidad médica bajo su cargo y las acciones necesarias para el cumplimiento de su objeto;
-
-II. Presentar al Consejo Directivo respectivo las propuestas que conforme a este Estatuto Orgánico y a la normatividad aplicable deba someterle, ejecutando sus acuerdos e informándole trimestralmente sobre su avance y cumplimiento;
-
-III. Desarrollar las políticas que permitan elevar los niveles de productividad y calidad en el servicio de la correspondiente unidad médica, realizando los estudios e investigaciones necesarios para su mejoramiento;
-
-IV. Coordinar la operación de las áreas y servicios de la correspondiente unidad médica, y atender los requerimientos, las observaciones y las quejas de los derechohabientes;
-
-V. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto de la correspondiente unidad médica, sin perjuicio de otorgar los poderes necesarios para llevar a cabo dichos actos, con apego a las disposiciones y a las políticas institucionales aplicables;
-
-VI. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza de la correspondiente unidad médica; y
-
-VII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Director del Centro Médico Nacional “20 de Noviembre” y los Directores de los Hospitales Regionales serán suplidos por el Subdirector Médico o por el Subdirector de Administración, en el orden indicado.
+LA OPINIÓN DE LA JUNTA. La Junta correspondiente podrá emitir su opinión o recomendación cuando así lo considere o por solicitud expresa del Ayuntamiento o Estado, sobre la autorización de permisos para la realización de obras en los bienes o zonas adscritos al patrimonio cultural.
 
 #### SECCIÓN SEXTA. De las Delegaciones Estatales y Regionales
 
 ###### ARTÍCULO 79.
 
-Para la atención de los asuntos de su competencia, el Instituto cuenta con las Delegaciones Estatales y Regionales cuya creación acuerde la Junta, que están jerárquicamente subordinadas a la administración central y tienen atribuciones específicas para resolver sobre las materias de su competencia territorial.
+LOS PATRONATOS LOCALES PARA LA PROTECCIÓN DEL PATRIMONIO CULTURAL. Los organismos emanados de la sociedad civil, tales como patronatos, fideicomisos, asociaciones civiles y fundaciones orientadas a la protección, restauración y recuperación del patrimonio cultural son órganos de apoyo para las autoridades que deban aplicar esta ley. Su carácter es honorario y tendrán funciones de promoción, en todo lo relativo a la conservación, protección, restauración, recuperación y enriquecimiento del patrimonio cultural del Estado.
 
 ###### ARTÍCULO 80.
 
-Las Delegaciones tienen por objeto promover, operar y vigilar el otorgamiento de los seguros, prestaciones y servicios a los derechohabientes del Instituto en su demarcación, de acuerdo a las atribuciones que les confiere la Ley, el Estatuto Orgánico y los Reglamentos respectivos, a fin de que las solicitudes, trámites y gestiones correspondientes se desahoguen con oportunidad y eficacia.
+LA PROTECCIÓN JURÍDICA. Los bienes muebles e inmuebles declarados bajo el régimen de protección al patrimonio cultural, estarán sujetos a la protección jurídica del estado, únicamente en lo que respecta a su valor cultural, sin demérito de las facultades que sobre ellos puedan ejercer sus propietarios o poseedores.
 
 ###### ARTÍCULO 81.
 
-El titular de cada Delegación es el Delegado nombrado por la Junta, a propuesta del Director General, cuya labor y desempeño son coordinados, apoyados y supervisados en forma directa por la Dirección de Delegaciones del Instituto.
+LOS EFECTOS. La adscripción al patrimonio cultural del Estado, de un bien propiedad de los organismos públicos y de las personas físicas o morales privadas, producirá los siguientes efectos:
 
-Los Delegados se auxilian de los Subdelegados, Jefes de Unidad y demás personal que señale el Reglamento Orgánico de las Delegaciones Estatales y Regionales del Instituto y el presupuesto autorizado, su nombramiento y remoción están sujetos a las disposiciones del Director General y, en su caso, a la delegación de facultades que éste acuerde.
+I. Sólo podrá ser gravado u objeto de actos de traslación de dominio, previo aviso por escrito y únicamente para efectos de registro, al Comité y a la Junta que corresponda.
 
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Delegado será suplido por el Subdelegado de Administración o por el Subdelegado de Prestaciones, en el orden indicado.
+II. Sólo podrá ser restaurado, adaptado o modificado en cualquier forma, previa autorización escrita por el Comité, el que la expedirá siempre que se respete la estructura y peculiaridad de su valor histórico, artístico y científico; y
+
+III. Deberá ser inscrito en el registro y catálogo de los bienes adscritos al patrimonio cultural.
 
 ###### ARTÍCULO 82.
 
-Los Delegados del Instituto presiden los órganos colegiados, comités y grupos de trabajo que se integren en las Delegaciones para el apoyo de las funciones institucionales.
-
-En cada Delegación funciona un Consejo Consultivo, cuyo propósito es colaborar con el Delegado en el otorgamiento y seguimiento de los seguros, prestaciones y servicios del Instituto, así como formular las propuestas correspondientes, dicho Consejo se integra conforme a lo dispuesto en el Reglamento Orgánico respectivo.
+LA NATURALEZA DE BIEN DEL DOMINIO PÚBLICO. Cuando un bien del Estado sea adscrito al patrimonio cultural pasará a formar parte de los bienes del dominio público, salvo que ya tenga esa condición jurídica.
 
 #### SECCIÓN SÉPTIMA. De la Escuela de Dietética y Nutrición
 
 ###### ARTÍCULO 83.
 
-La Escuela de Dietética y Nutrición tiene por objeto planear, normar, controlar y llevar a cabo las actividades relacionadas con la formación, capacitación y actualización de recursos humanos para la salud en materia de alimentación, dietética y nutrición, conforme a los lineamientos establecidos por las autoridades sanitarias y educativas competentes.
+EL DECRETO DEL EJECUTIVO. El destino o cambio de destino de inmuebles propiedad del estado, adscritos al patrimonio cultural, deberá hacerse por decreto que expida el titular del Ejecutivo, atendiendo a la opinión del Comité del Patrimonio Cultural del Estado.
 
 ###### ARTÍCULO 84.
 
-Para su administración y funcionamiento, la Escuela de Dietética y Nutrición cuenta con un Consejo Directivo, que se integra conforme lo disponga el Reglamento Orgánico y será presidido por el Director General o, en sus ausencias, por el Director Médico del Instituto, que tendrá las siguientes atribuciones:
-
-I. Proponer estrategias tendentes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su implementación y desarrollo;
-
-II. Conocer y, en su caso, aprobar, a propuesta del Director de la Escuela de Dietética y Nutrición:
-
-a) Las políticas generales y las prioridades a que está sujeto el desarrollo de las funciones de la Escuela, vigilando que las mismas sean acordes con las políticas, prioridades y programas institucionales;
-
-b) Los programas de educación en alimentación, nutrición y educación para la salud, previa aprobación de las autoridades sanitarias y educativas competentes;
-
-c) Los programas para la asesoría y orientación a diferentes grupos de población en materia de alimentación, nutrición y educación para la salud;
-
-d) El anteproyecto anual del presupuesto de la Escuela y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto, ejerciéndose a través de la Dirección Médica del Instituto;
-
-e) El anteproyecto del programa operativo anual, que especifique las actividades de capacitación, formación y actualización a desarrollar, las unidades responsables de su cumplimiento, los montos presupuestales a ejercer y las fuentes de financiamiento, evaluando sus avances; y
-
-f) Las políticas para la inscripción, reinscripción y el otorgamiento de becas a los alumnos de la Escuela de Dietética y Nutrición.
-
-III. Proponer la integración de normas para la planeación, organización, ejecución y control de las actividades de capacitación, formación y actualización de los recursos humanos que laboran en instituciones públicas y privadas del Sector Salud;
-
-IV. Diseñar mecanismos de coordinación, intercambio y colaboración institucionales, así como con los sectores públicos, social y privado, en aspectos académicos, de investigación y asistenciales relacionados con su objeto;
-
-V. Conocer los informes que le rinda el Director de la Escuela de Dietética y Nutrición y evaluar los resultados alcanzados;
-
-VI. Aprobar la instalación de grupos de trabajo o comisiones para apoyar las funciones del Consejo Directivo; y
-
-VII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable.
+LAS MODALIDADES A LA PROPIEDAD PRIVADA EN MATERIA DE PATRIMONIO CULTURAL. Los propietarios o poseedores de bienes adscritos al patrimonio cultural velarán por su cuidado y mantenimiento y, en su caso, realizarán los trabajos de restauración que recomiende el Comité. En el caso de que el propietario de dichos bienes esté imposibilitado económicamente para realizar esos trabajos, el ayuntamiento y el estado, en coordinación con las instancias correspondientes, promoverán la ejecución de los trabajos necesarios para evitar su deterioro o pérdida.
 
 ###### ARTÍCULO 85.
 
-El Director de la Escuela de Dietética y Nutrición tiene las siguientes funciones:
+LA VIGILANCIA Y CUIDADO. Corresponde a la Dirección de Obras Públicas municipal vigilar y cuidar que la conservación, restauración, adaptación o modificación de un bien adscrito al patrimonio cultural, se ejecute de acuerdo con lo recomendado por la Junta o el Comité.
 
-I. Planear, programar, organizar, dirigir y normar las funciones encomendadas a la Escuela de Dietética y Nutrición;
-
-II. Presentar al Consejo Directivo de la Escuela las propuestas que conforme a este Estatuto Orgánico y a la normatividad aplicable deba someterle, ejecutar sus acuerdos e informar trimestralmente sobre su avance y cumplimiento;
-
-III. Supervisar y evaluar los programas aprobados por el Consejo Directivo, a fin de detectar desviaciones en su cumplimiento y proponer oportunamente los proyectos de mejoramiento y solución de aspectos de orden técnico, administrativo y operacional de la Escuela de Dietética y Nutrición;
-
-IV. Suscribir los convenios y contratos que sean necesarios para el cumplimiento del objeto de la Escuela de Dietética y Nutrición, de acuerdo a las disposiciones y las políticas institucionales aplicables;
-
-V. Elaborar, revisar y autorizar, conforme a las normas establecidas por las autoridades sanitarias y educativas competentes, la documentación oficial correspondiente a la certificación de estudios que imparte la Escuela de Dietética y Nutrición;
-
-VI. Promover la compilación e intercambio de información bibliográfica, documental o de otro tipo que permita profundizar el estudio de la alimentación, nutrición y educación para la salud;
-
-VII. Proponer y aplicar, de conformidad con la delegación de facultades que acuerde el Director General, los nombramientos y remociones del personal directivo y de los trabajadores de base y de confianza de la Escuela de Dietética y Nutrición; y
-
-VIII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne el Director General.
-
-Conforme al artículo 55 de este ordenamiento, en sus ausencias, el Director de la Escuela de Dietética y Nutrición será suplido por el Subdirector Administrativo o por el Subdirector de Niveles Académicos, en el orden indicado.
+Las presentes disposiciones no impiden la realización de obras nuevas de arquitectura contemporánea o la adición de elementos arquitectónicos contemporáneos a inmuebles previamente edificados, las cuales deberán ser plenamente identificables y no impedir la adecuada lectura de los valores históricos del inmueble, siempre y cuando hayan sido autorizados por el ayuntamiento, previa recomendación del Comité.
 
 #### SECCIÓN OCTAVA. De la Escuela Nacional de Enfermería e Investigación
 
 ###### ARTÍCULO 86.
 
-La Escuela Nacional de Enfermería e Investigación tiene por objeto formar enfermeras especialistas de alto nivel que garanticen cuidados de alta calidad, con sentido humano, a los pacientes del Instituto. Está abierta a recibir aspirantes de todo el país, bajo criterios de selección fundados en el desempeño académico. Podrá concursar para su ingreso, personal adscrito a las unidades médicas del Instituto.
-
-Para cumplir con su objeto, la Escuela Nacional de Enfermería e Investigación podrá planear, normar, controlar y llevar a cabo las actividades relacionadas con la formación, capacitación y actualización de recursos humanos de alto nivel de especialización en enfermería en áreas de prevención, cuidados intensivos, cuidados especializados en las distintas ramas de la enfermería y cuidados paliativos, entre otros.
-
-Para su administración y funcionamiento, la Escuela Nacional de Enfermería e Investigación cuenta con un Consejo Directivo, que se integra conforme lo disponga el Reglamento Orgánico y será presidido por el Director General o, en sus ausencias, por el Director Médico del Instituto, que tendrá las siguientes atribuciones:
-
-I. Proponer estrategias tendentes al mejoramiento y solución de aspectos de orden técnico, administrativo y operacional, así como coadyuvar a su implementación y desarrollo;
-
-II. Conocer y, en su caso, aprobar, a propuesta del Director de la Escuela Nacional de Enfermería e Investigación:
-
-a) Las políticas generales y las prioridades a que estará sujeto el desarrollo de las funciones de la Escuela, vigilando que las mismas sean acordes con las políticas, prioridades y programas institucionales;
-
-b) Los programas de especialización en enfermería, previa aprobación de las autoridades sanitarias y educativas competentes;
-
-c) Los programas para la asesoría y orientación a diferentes grupos de población derechohabiente y a población abierta;
-
-d) El anteproyecto anual del presupuesto de la Escuela y sus modificaciones, los cuales serán sometidos a la autorización de la Junta dentro del presupuesto del Instituto, ejerciéndose a través de la Dirección Médica del Instituto;
-
-e) El anteproyecto del programa operativo anual, que especifique las actividades de capacitación, formación y actualización a desarrollar, las unidades responsables de su cumplimiento, los montos presupuestales a ejercer y las fuentes de financiamiento, evaluando sus avances; y,
-
-f) Las políticas para el concurso de ingreso, la inscripción, reinscripción y el otorgamiento de becas a los alumnos de la Escuela Nacional de Enfermería e Investigación.
-
-III. Proponer la integración de normas para la planeación, organización, ejecución y control de las actividades de capacitación, formación y actualización de los recursos humanos de enfermería que laboran en el Instituto y, en su caso, de instituciones públicas y privadas del Sector Salud;
-
-IV. Diseñar mecanismos de coordinación, intercambio y colaboración institucionales, así como con los sectores públicos, social y privado, en aspectos académicos, de investigación y de apoyo social relacionados con su objeto;
-
-V. Conocer los informes que le rinda el Director de la Escuela Nacional de Enfermería e Investigación y evaluar los resultados alcanzados;
-
-VI. Aprobar la instalación de grupos de trabajo o comisiones para apoyar las funciones del Consejo Directivo; y
-
-VII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable.
+LA EXCLUSIÓN DE BIENES. El Ejecutivo del Estado, mediante decreto y previa opinión del Comité o de la Junta que corresponda, podrá excluir o retirar bienes de la adscripción al patrimonio cultural del estado, a solicitud de parte o de oficio, cuando hubiere razón fundada para ello.
 
 ## TÍTULO CUARTO. Del Desarrollo Institucional y el Control Interno
 
@@ -1885,57 +1577,35 @@ VII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplic
 
 ###### ARTÍCULO 87.
 
-El Instituto contará con una Unidad de Desarrollo Institucional que será la encargada de coordinar, supervisar y asesorar a las Unidades Administrativas del Instituto y a su personal, a fin de prevenir y corregir deficiencias en la operación institucional, promover acciones de desarrollo institucional e incorporarlos a la planeación institucional, así como evitar el desvío y dispendio de recursos.
+LA SUSPENSIÓN O DEMOLICIÓN. Cuando en un bien adscrito al patrimonio cultural se ejecuten obras sin autorización o se viole lo ordenado o autorizado, la Dirección de Obras Públicas municipal ordenará la suspensión o demolición de lo edificado y, si fuere necesario, la restauración o reconstrucción del bien, en los siguientes supuestos:
+
+I. Si la obra realizada modifica o destruye la autenticidad del contenido histórico o artístico; y
+
+II. Si se altera la expresión formal, la escala, el espacio interior o exterior, el volumen, las texturas o colores, las relaciones con el medio, o se obstruye la adecuada visibilidad del bien adscrito al patrimonio cultural.
+
+La demolición de la obra o la restauración o reconstrucción del bien cultural, se hará en la medida en que éste haya sido indebidamente modificado, destruido o alterado.
+
+Si el daño fuere irreparable, además de las sanciones penales que se impongan, el responsable resarcirá al Estado el equivalente a tres veces el valor comercial de la pérdida.
 
 ###### ARTÍCULO 88.
 
-La Unidad de Desarrollo Institucional tendrá las atribuciones siguientes:
+LA RESPONSABILIDAD SOLIDARIA. En los casos del artículo anterior serán solidaria y mancomunadamente responsables, quienes hayan ordenado las obras y el contratista encargado de ejecutarlas.
 
-I. Apoyar al Director General en la coordinación de acciones de carácter general para la instrumentación y mejora del sistema de desarrollo institucional, en el Instituto;
-
-II. Coordinar la revisión y propuesta de objetivos, lineamientos y normas en materia de desarrollo institucional, así como promover su difusión y cumplimiento;
-
-III. Proponer y difundir el programa de trabajo en materia de desarrollo institucional y dar seguimiento a su cumplimiento;
-
-IV. Coordinar la elaboración del informe anual y el reporte de avances sobre el funcionamiento y estado que guarda el sistema de desarrollo institucional;
-
-V. Promover la cultura de control, administración de riesgos, procurar la eficiencia operativa institucional, así como de cero tolerancia y de sanción a la corrupción;
-
-VI. Coordinar a las Unidades Administrativas del Instituto en el ejercicio de identificación, evaluación y administración de riesgos estratégicos;
-
-VII. Proponer y coordinar el establecimiento de medidas y controles para apoyar la eficiencia operativa institucional, conforme a los procedimientos y sistemas establecidos;
-
-VIII. Coordinar la atención de requerimientos en materia de desarrollo institucional que realicen los órganos de gobierno, atender las auditorías, visitas e inspecciones realizadas por órganos fiscalizadores, así como supervisar y asesorar a las Unidades Administrativas del Instituto en la atención de recomendaciones;
-
-IX. Proponer y acordar con el Director General y las Unidades Administrativas del Instituto, las medidas para la instrumentación y mejora del Sistema de Desarrollo Institucional;
-
-X. Desarrollar y coordinar la instrumentación del programa de capacitación y desarrollo de competencias en materia de desarrollo institucional, para lo cual se apoyará en la Dirección de Prestaciones Económicas, Sociales y Culturales;
-
-XI. Promover el desarrollo administrativo integral y la mejora de la gestión en el Instituto; y
-
-XII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ### CAPÍTULO SEGUNDO. De los Órganos Internos de Control
 
 ###### ARTÍCULO 89.
 
-El Instituto cuenta con un Órgano Interno de Control, que tiene competencia sobre los órganos de gobierno, la Secretaría General, así como las Unidades Administrativas del Instituto, sin menoscabo de lo establecido en el artículo 90 de este Estatuto Orgánico.
+LA REPRODUCCIÓN DE BIENES DEL PATRIMONIO CULTURAL. La reproducción de bienes adscritos al patrimonio cultural del estado requiere el consentimiento previo y por escrito del propietario y de la Secretaría.
 
-Al frente del Órgano Interno de Control está su Titular, quien es designado en los términos que establece la ley aplicable en la materia y que se auxilia en el ejercicio de sus facultades por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
-
-Los servidores públicos señalados en el párrafo anterior, ejercen en el ámbito de sus respectivas competencias, las facultades previstas en la ley aplicable en la materia y demás ordenamientos legales y administrativos aplicables.
-
-Las ausencias del Titular del Órgano Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades serán suplidas de conformidad con lo previsto en la normatividad aplicable.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 90.
 
-El FOVISSSTE, el PENSIONISSSTE y el SuperISSSTE, como Unidades Administrativas Desconcentradas del Instituto cuentan, cada uno, con un Órgano Interno de Control, al frente del cual su Titular, quien es designado en los términos de la ley aplicable en la materia, se auxilia en el ejercicio de sus facultades por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
+LA REPRODUCCIÓN CON FINES COMERCIALES. La reproducción con fines comerciales de bienes de propiedad estatal o municipal adscritos al patrimonio cultural, requiere del consentimiento por escrito de la Secretaría, previo dictamen del Comité y pago de los derechos correspondientes, los cuales formarán parte del patrimonio de la Secretaría para el desarrollo de sus objetivos institucionales.
 
-Los servidores públicos señalados en el párrafo anterior, ejercen en el ámbito de sus respectivas competencias, las facultades previstas en la ley aplicable en la materia y demás ordenamientos legales y administrativos aplicables.
-
-Las ausencias del Titular del Órgano Interno de Control, así como de los titulares de las áreas de auditoría, quejas y responsabilidades serán suplidas de conformidad con lo previsto en la normatividad aplicable.
-
-En el supuesto de que alguna de las Unidades Administrativas Desconcentradas del Instituto no contase en forma temporal, por cualquier razón, con el Órgano Interno de Control que le corresponde, o con sus servicios, las facultades respectivas se ejercerán por el Órgano Interno de Control en el Instituto, a través de las diferentes áreas que lo conforman.
+Toda reproducción deberá llevar inscrita en forma indeleble la siguiente leyenda: "Reproducción autorizada por la Secretaría de Cultura".
 
 ## TÍTULO QUINTO. De otros Órganos Institucionales
 
@@ -1943,69 +1613,73 @@ En el supuesto de que alguna de las Unidades Administrativas Desconcentradas del
 
 ###### ARTÍCULO 91.
 
-El Consejo Asesor Científico y Médico es el órgano consultor del Instituto en todas las ramas y ámbitos comprendidos por las prestaciones, seguros y servicios que brinda, correspondiéndole proponer lineamientos, orientaciones, programas y proyectos relacionados con la articulación, profundización y actualización del sistema de seguridad social que la Constitución Política de los Estados Unidos Mexicanos y la Ley establecen, así como del modelo de atención integral a la salud que le es consustancial.
-
-El Consejo está formado por nueve personalidades destacadas en el ámbito de la investigación, la docencia, la difusión, la labor social o el desarrollo de políticas públicas en materia médica, de atención a personas con discapacidad, adultos mayores, de vivienda, de prestaciones económicas, sociales y culturales u otras áreas afines. Estas personalidades son propuestas por el Director General a la Junta que aprobará, en su caso, su incorporación. La Junta nombra al presidente del Consejo, a propuesta del Director General.
-
-El Consejo se reunirá ordinariamente al menos una vez al año. Podrá invitar a sus sesiones a personalidades y organizaciones de la seguridad social en el país y a nivel internacional.
-
-Establecerá los grupos de trabajo interno que requiera para brindar asesoría científica y técnica.
+LOS MEDIOS LÍCITOS PARA LA REPRODUCCIÓN DE LOS BIENES. Los medios que se empleen en la reproducción serán aquellos que no dañen, destruyan o menoscaben el valor de los bienes adscritos al patrimonio cultural, bajo la responsabilidad del reproductor.
 
 ### CAPÍTULO SEGUNDO. Del Comité de Bioética
 
 ###### ARTÍCULO 92.
 
-El Comité de Bioética es el órgano encargado de atender los problemas derivados de la atención médica preventiva, curativa, de rehabilitación y paliativa, señaladas en el artículo 33 de la Ley General de Salud. Se ocupa del análisis, discusión y apoyo en la toma de decisiones respecto de los problemas bioéticos que se presentan en la práctica clínica de las unidades médicas y en las actividades de las Unidades Administrativas del Instituto o en la docencia que se imparte en el área de salud. Asimismo, el Comité promueve la educación bioética de sus miembros, del personal y de los derechohabientes, para lo cual se elaborarán lineamientos y guías éticas institucionales para la atención y la docencia médica.
-
-El Comité de Bioética lo preside el Director General y, en su ausencia, el Secretario General. En él participan un representante de la Dirección Médica, otro de la Dirección Jurídica, y a propuesta del Director General, médicos de distintas especialidades y profesionales de la psicología, enfermería, trabajo social, nutrición, sociología, antropología, filosofía, derecho y otras disciplinas científicas y humanistas, así como derechohabientes.
+LA PREFERENCIA DE INSTITUCIONES OFICIALES. Las instituciones oficiales tendrán preferencia en la reproducción de bienes adscritos al patrimonio cultural, previo pago de los derechos correspondientes.
 
 ### CAPÍTULO TERCERO. Del Comité de Evaluación y Seguimiento de los Servicios de Salud
 
 ###### ARTÍCULO 93.
 
-En términos de lo establecido en el artículo 32 de la Ley, el Instituto contará con un Comité de Evaluación y Seguimiento de los Servicios de Salud, que se integra de manera paritaria con tres representantes de las áreas médica, administrativa y financiera del Instituto y tres representantes de las organizaciones de trabajadores, entre los cuales uno es nombrado por la representación sindical mayoritaria del propio Instituto y los dos restantes por las organizaciones mayoritarias de trabajadores al servicio del Estado, y aplica los criterios contenidos en las Bases expedidas por el Ejecutivo Federal a que se refiere el artículo 225 de la Ley.
+EL DICTAMEN. Toda reproducción de bienes adscritos al patrimonio cultural se hará previo dictamen del personal técnico de la junta respectiva o del Comité, los cuales decidirán sobre la conveniencia o inconveniencia de la copia, sobre el valor científico del original y sobre el medio a emplear.
 
 ###### ARTÍCULO 94.
 
-El Comité de Evaluación y Seguimiento de los Servicios de Salud tendrá las siguientes atribuciones:
-
-I. Colaborar en la integración, implementación, evaluación y actualización del Plan Rector para el Desarrollo y Mejoramiento de la Infraestructura y los Servicios de Salud del Instituto, de conformidad con lo que establezca el Reglamento que para este propósito apruebe la Junta;
-
-II. Analizar las acciones y resultados de las unidades médicas del Instituto, proponer medidas para la óptima organización, desarrollo y prestación de sus servicios;
-
-III. Impulsar y coordinar programas de gestoría y atención a demandas específicas de los derechohabientes en materia de servicios de salud, y establecer mecanismos de coordinación entre las autoridades competentes del Instituto y las representaciones de las organizaciones de trabajadores;
-
-IV. Plantear recomendaciones para que las unidades prestadoras de servicios de salud tengan mejores condiciones y recursos para servir adecuadamente a los derechohabientes, para lo cual se dará atención prioritaria a las cuestiones de equipamiento, infraestructura y recursos humanos; y
-
-V. Proponer métodos de medición y evaluación del desempeño del personal, así como sistemas de evaluación y estímulo a la productividad y la calidad en el servicio en las unidades médicas del Instituto.
+LA PROHIBICIÓN DE EXPORTACIÓN. Los bienes muebles de propiedad estatal o municipal adscritos al patrimonio cultural, no podrán ser exportados definitivamente ni podrán ser transferidos a extranjeros.
 
 ### CAPÍTULO CUARTO. Del Comité de Abasto de Medicamentos
 
 ###### ARTÍCULO 95.
 
-Es el órgano colegiado responsable de garantizar un abasto suficiente y oportuno de medicamentos en las unidades médicas del Instituto, y vigila que se optimicen los inventarios para evitar dispendios.
-
-El Comité lo preside el Director General, y en su ausencia el Secretario General. Lo integran la Secretaría General, las direcciones de Administración, de Finanzas y Médica. Asimismo, participa un representante designado por las organizaciones de trabajadores e incorpora expertos en demografía, epidemiología, actuaría y otros a propuesta del Presidente del Comité.
+LOS CONVENIOS. El Ejecutivo del Estado podrá celebrar convenios con los gobiernos de otros estados para asegurar la recuperación de los bienes de propiedad estatal o municipal adscritos al patrimonio cultural que hubiesen salido del territorio coahuilense.
 
 ### CAPÍTULO QUINTO. Del Comité de Inversiones del Instituto
 
 ###### ARTÍCULO 96.
 
-El Comité de Inversiones tiene como objeto analizar y hacer recomendaciones respecto de la inversión de los fondos de las Reservas que constituya el Instituto.
-
-Se compone por cinco miembros, de los cuales cuando menos dos son personas independientes, con experiencia mínima de cinco años en la materia.
-
-Los otros tres miembros del Comité son designados respectivamente por la Secretaría de Hacienda y Crédito Público, por el Banco de México y por el propio Instituto, y le corresponde al Director General, o a quien éste designe, presidirlo.
+LA COMPETENCIA DE LAS FALTAS. La imposición de sanciones administrativas compete a los ayuntamientos, a través de la dirección respectiva, con independencia de las que en su caso determine la autoridad judicial competente.
 
 ### CAPÍTULO SEXTO. Del Comité de Información
 
 ###### ARTÍCULO 97.
 
-El Comité de Información del Instituto es el órgano colegiado que establecen y regulan los artículos 29 y 30 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+LAS SANCIONES ECONÓMICAS. Las faltas administrativas se sancionarán con multa de cincuenta a mil días de salario mínimo general vigente en el estado, sin perjuicio de ordenar que el infractor cumpla con las obligaciones a su cargo conforme a esta ley y a su reglamento.
 
 ###### ARTÍCULO 98.
 
-El Instituto impulsará y facilitará el acceso a la información pública gubernamental, de acuerdo con la legislación de la materia y las disposiciones que al efecto emita el Instituto Federal de Acceso a la Información y Protección de Datos.
+LAS FALTAS ADMINISTRATIVAS. Son faltas administrativas:
+
+I. La ocultación dolosa de un bien que pertenezca o se considere como bien adscrito al patrimonio cultural.
+
+II. La falta reiterada de registro de un bien que se considere como patrimonio cultural.
+
+III. La falta de comunicación de la transferencia de dominio de un bien adscrito al patrimonio cultural.
+
+IV. El incumplimiento de disposiciones administrativas dadas por autoridades competentes que no constituyan delito.
+
+V. La omisión de presentación de la denuncia correspondiente por actos que se estimen como delictivos, cometidos en perjuicio del patrimonio cultural; y
+
+VI. Toda contravención a esta ley y a su reglamento que no esté considerada como delito.
+
+###### ARTÍCULO 99.
+
+LAS OTRAS SANCIONES. Los ayuntamientos, a través de sus órganos competentes en materia de obra pública, podrán imponer como sanción o medida precautoria la obligación de realizar trabajos de retiro, demolición, restitución o modificación de construcciones.
+
+###### ARTÍCULO 100.
+
+LA RESPONSABILIDAD SOLIDARIA. Para los efectos de este capítulo serán solidariamente responsables de las violaciones a las disposiciones de esta ley:
+
+I. Los propietarios de los inmuebles involucrados en las citadas violaciones.
+
+II. Quienes ordenen o hayan ordenado las acciones constitutivas de la violación; y
+
+III. Quienes retiren, efectúen demoliciones o modificación de construcciones en contravención a lo dispuesto por esta ley y su reglamento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ## TRANSITORIOS
 
@@ -2030,3 +1704,37 @@ Lo anterior me permito hacerlo de su conocimiento para los efectos legales proce
 Atentamente
 
 México, D.F., a 4 de junio de 2014.- El Secretario General y Secretario de la Junta Directiva, Ricardo Luis Antonio Godina Herrera.- Rúbrica.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 485 POR EL QUE “SE MODIFICA LA FRACCIÓN VII DEL ARTÍCULO 19 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 26 DE A LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 949.- SE REFORMA EL ARTÍCULO 32, DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 952.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Las disposiciones del presente Decreto entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Con la entrada en vigor del presente Decreto se extingue el Instituto Coahuilense de Cultura creado en el Decreto 369 que expide la Ley de Desarrollo Cultural publicado en el Periódico Oficial del Gobierno del Estado el veintinueve de abril del dos mil cinco.
+
+En virtud de lo anterior, se extingue la personalidad jurídica de mencionado Instituto Coahuilense de Cultura, la cual conservará exclusivamente para efectos del proceso de su liquidación.
+
+CUARTO.- Los bienes muebles e inmuebles que formen parte del Patrimonio del mencionado Instituto pasan a formar parte del dominio público del Estado, conforme a las disposiciones de la Ley General de Bienes del Estado de Coahuila.
+
+QUINTO.- Salvo que exista impedimento legal para ello, la conclusión de los procesos de liquidación y extinción no podrán exceder de un plazo de seis meses, contados a partir de la fecha de entrada en vigor del presente Decreto.
+
+SEXTO.- La Secretaría de Finanzas emitirá los lineamientos sobre el destino y aplicación que se dará a los bienes remanentes del proceso de liquidación del Instituto Coahuilense de Cultura, si los hubiere.
+
+SÉPTIMO.- Corresponderá a la Secretaría de Fiscalización y Rendición de Cuentas, conforme a sus atribuciones, vigilar y hacer el seguimiento de los procesos de liquidación y extinción que este decreto autoriza.
