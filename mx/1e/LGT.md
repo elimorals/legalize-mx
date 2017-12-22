@@ -4,7 +4,7 @@ identifier: "LGT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-06-17"
-last_updated: "2015-12-17"
+last_updated: "2017-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68848&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGT"
 
 LEY GENERAL DE TURISMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de junio de 2009.
 
@@ -48,9 +48,11 @@ Se expide la Ley General de Turismo.
 
 ### CAPÍTULO ÚNICO. De las Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, de observancia general en toda la República en materia turística, correspondiendo su aplicación en forma concurrente al Ejecutivo Federal, por conducto de la Secretaría de Turismo, y en el ámbito de sus respectivas competencias a las Dependencias y Entidades de la Administración Pública Federal, así como a los Estados, Municipios y el Distrito Federal. La interpretación en el ámbito administrativo, corresponderá al Ejecutivo Federal, a través de la Secretaría de Turismo.
+La presente Ley es de orden público e interés social, de observancia general en toda la República en materia turística, correspondiendo su aplicación en forma concurrente al Ejecutivo Federal, por conducto de la Secretaría de Turismo, y en el ámbito de sus respectivas competencias a las Dependencias y Entidades de la Administración Pública Federal, así como a los Estados, Municipios y la Ciudad de México. La interpretación en el ámbito administrativo, corresponderá al Ejecutivo Federal, a través de la Secretaría de Turismo.
 
 La materia turística comprende los procesos que se derivan de las actividades que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos.
 
@@ -60,9 +62,13 @@ Los procesos que se generan por la materia turística son una actividad priorita
 
 Esta Ley tiene por objeto:
 
-I. Establecer las bases generales de coordinación de las facultades concurrentes entre el Ejecutivo Federal, Estados, Municipios y el Distrito Federal, así como la participación de los sectores social y privado;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
-II. Establecer las bases para la política, planeación y programación en todo el territorio nacional de la actividad turística, bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado de los Estados, Municipios y el Distrito Federal, a corto, mediano y largo plazo;
+I. Establecer las bases generales de coordinación de las facultades concurrentes entre el Ejecutivo Federal, Estados, Municipios y la Ciudad de México, así como la participación de los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+II. Establecer las bases para la política, planeación y programación en todo el territorio nacional de la actividad turística, bajo criterios de beneficio social, sustentabilidad, competitividad y desarrollo equilibrado de los Estados, Municipios y la Ciudad de México, a corto, mediano y largo plazo;
 
 III. Determinar los mecanismos para la conservación, mejoramiento, protección, promoción, y aprovechamiento de los recursos y atractivos turísticos nacionales, preservando el patrimonio natural, cultural, y el equilibrio ecológico con base en los criterios determinados por las leyes en la materia, así como contribuir a la creación o desarrollo de nuevos atractivos turísticos, en apego al marco jurídico vigente;
 
@@ -74,7 +80,9 @@ VI. Facilitar a las personas con discapacidad las oportunidades necesarias para 
 
 VII. Salvaguardar la igualdad de género en la instrumentación y aplicación de políticas de apoyo y fomento al turismo;
 
-VIII. Establecer las reglas y procedimientos para la creación de las Zonas de Desarrollo Turístico Sustentable, su operación y las facultades concurrentes que, de manera coordinada, ejercerán el Ejecutivo Federal, los Estados y Municipios, y en su caso el Distrito Federal en dicha Zonas;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+VIII. Establecer las reglas y procedimientos para la creación de las Zonas de Desarrollo Turístico Sustentable, su operación y las facultades concurrentes que, de manera coordinada, ejercerán el Ejecutivo Federal, los Estados y Municipios, y en su caso la Ciudad de México en dichas Zonas;
 
 IX. Optimizar la calidad y competitividad de los servicios turísticos;
 
@@ -154,7 +162,9 @@ I. Formular y conducir la política turística nacional;
 
 II. Promover, a través del Consejo de Promoción, la actividad turística, nacional e internacional;
 
-III. Coordinar las acciones que lleven a cabo el Ejecutivo Federal, los Estados, Municipios y el Distrito Federal, en su caso; en el ámbito de sus respectivas competencias, para el desarrollo turístico del país, mismas que estarán sujetas a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos de la Federación;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+III. Coordinar las acciones que lleven a cabo el Ejecutivo Federal, los Estados, Municipios y la Ciudad de México, en su caso; en el ámbito de sus respectivas competencias, para el desarrollo turístico del país, mismas que estarán sujetas a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos de la Federación;
 
 IV. Atender los asuntos relacionados con la actividad turística del país;
 
@@ -166,7 +176,9 @@ VI. Coadyuvar a la aplicación de los instrumentos de política ambiental y de c
 
 VII. Formular las bases de coordinación entre los ámbitos de gobierno, para el establecimiento, regulación, administración y vigilancia de las Zonas de Desarrollo Turístico Sustentable;
 
-VIII. Promover la infraestructura y equipamiento, que contribuyan al fomento y desarrollo de la actividad turística, en coordinación con los Estados, Municipios y el Distrito Federal, y con la participación de los sectores social y privado, mismas que estarán sujetas a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos de la Federación;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+VIII. Promover la infraestructura y equipamiento, que contribuyan al fomento y desarrollo de la actividad turística, en coordinación con los Estados, Municipios y la Ciudad de México, y con la participación de los sectores social y privado, mismas que estarán sujetas a la disponibilidad de los recursos aprobados en el Presupuesto de Egresos de la Federación;
 
 IX. Promover acuerdos de cooperación y coordinación con el sector privado y social para el impulso, fomento y desarrollo de la actividad turística;
 
@@ -176,7 +188,9 @@ XI. Promover, realizar y difundir estudios, investigaciones e indicadores en mat
 
 XII. Establecer la regulación para la clasificación de establecimientos hoteleros y de hospedaje, de cumplimiento obligatorio en toda la República;
 
-Para el ejercicio de esta atribución el Ejecutivo Federal podrá signar convenios de colaboración con los Estados y el Distrito Federal en materia de registro de clasificación, verificación del cumplimiento de la regulación a que se refiere la fracción anterior, y la imposición de las sanciones a que haya lugar;
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+Para el ejercicio de esta atribución el Ejecutivo Federal podrá signar convenios de colaboración con los Estados y la Ciudad de México en materia de registro de clasificación, verificación del cumplimiento de la regulación a que se refiere la fracción anterior, y la imposición de las sanciones a que haya lugar;
 
 XIII. Promover y vigilar el cumplimiento de esta Ley y los demás ordenamientos y Normas Oficiales Mexicanas que de ella deriven, en el ámbito de su competencia;
 
@@ -184,9 +198,11 @@ XIV. Fijar e imponer, de acuerdo a esta Ley y los reglamentos correspondientes, 
 
 XV. Las demás previstas en éste y otros ordenamientos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 5.
 
-El Ejecutivo Federal, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los Estados, los Municipios, y el Distrito Federal, colaboren en el ejercicio de las siguientes atribuciones:
+El Ejecutivo Federal, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los Estados, los Municipios, y la Ciudad de México, colaboren en el ejercicio de las siguientes atribuciones:
 
 I. Administrar y supervisar las Zonas de Desarrollo Turístico Sustentable, conforme a lo establecido por esta Ley y los programas de ordenamiento turístico del territorio;
 
@@ -194,11 +210,15 @@ II. Elaborar y ejecutar programas de desarrollo de la actividad turística, y
 
 III. Realizar acciones operativas que complementen los fines previstos en este ordenamiento.
 
-En los convenios o acuerdos de coordinación a que se refiere este artículo se podrán establecer las políticas y acciones que habrán de instrumentar los gobiernos Federal, Estatal y Municipal, y del Distrito Federal para fomentar las inversiones y propiciar el desarrollo integral y sustentable en beneficio de los habitantes de la Zona; así como los compromisos que asumen dichos órdenes de gobierno para coordinar sus acciones dentro de éstas.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+En los convenios o acuerdos de coordinación a que se refiere este artículo se podrán establecer las políticas y acciones que habrán de instrumentar los gobiernos Federal, Estatal y Municipal, y la Ciudad de México para fomentar las inversiones y propiciar el desarrollo integral y sustentable en beneficio de los habitantes de la Zona; así como los compromisos que asumen dichos órdenes de gobierno para coordinar sus acciones dentro de éstas.
 
 Corresponde a la Secretaría evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo.
 
-Para los efectos de lo antes dispuesto, los convenios o acuerdos de coordinación que celebre el Ejecutivo Federal, por conducto de la Secretaría, con los gobiernos de los Estados o del Distrito Federal, con la participación, en su caso, de sus Municipios, deberán sujetarse a las bases previstas en el reglamento de esta Ley.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+Para los efectos de lo antes dispuesto, los convenios o acuerdos de coordinación que celebre el Ejecutivo Federal, por conducto de la Secretaría, con los gobiernos de los Estados o de la Ciudad de México, con la participación, en su caso, de sus Municipios, deberán sujetarse a las bases previstas en el reglamento de esta Ley.
 
 ### CAPÍTULO II. De las Dependencias Concurrentes en Materia Turística
 
@@ -226,7 +246,9 @@ VI. Promover y fomentar, en coordinación con la Secretaría de Economía y dem�
 
 VII. Coadyuvar con la Secretaría de Economía en las acciones tendientes a fortalecer y promover las micro, pequeñas y medianas empresas turísticas;
 
-VIII. Impulsar en coordinación con la Secretaría de Economía, ante las autoridades Federales, de los Estados, de los Municipios y del Distrito Federal, competentes, la instrumentación de mecanismos y programas tendientes a facilitar los trámites y gestión de los inversionistas y demás integrantes del sector turístico, que permitan la expedita creación y apertura de negocios y empresas en los destinos turísticos;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+VIII. Impulsar en coordinación con la Secretaría de Economía, ante las autoridades Federales, de los Estados, de los Municipios y de la Ciudad de México, competentes, la instrumentación de mecanismos y programas tendientes a facilitar los trámites y gestión de los inversionistas y demás integrantes del sector turístico, que permitan la expedita creación y apertura de negocios y empresas en los destinos turísticos;
 
 IX. Analizar y coadyuvar con la Secretaría de Seguridad Pública, en los casos en que se determine que sea necesaria la protección de la integridad física de los turistas;
 
@@ -254,11 +276,15 @@ XVIII. Las demás previstas en éste y otros ordenamientos.
 
 La Secretaría se coordinará con las dependencias y entidades competentes de la Administración Pública Federal para la realización de las acciones conducentes cuando la actividad turística de alguna región del país haya resultado considerablemente afectada, o esté en peligro de serlo, por fenómenos naturales.
 
-### CAPÍTULO III. De los Estados y el Distrito Federal
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO III. De los Estados y la Ciudad de México
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 9.
 
-Corresponde a los Estados y al Distrito Federal, de conformidad con lo dispuesto en esta Ley y las leyes locales en materia turística, las siguientes atribuciones:
+Corresponde a los Estados y a la Ciudad de México, de conformidad con lo dispuesto en esta Ley y las leyes locales en materia turística, las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política turística local;
 
@@ -282,7 +308,9 @@ X. Conducir la política local de información y difusión en materia turística
 
 XI. Proyectar y promover el desarrollo de la infraestructura turística;
 
-XII. Impulsar a las micro, pequeñas y medianas empresas turísticas que operen en los Estados y en el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+XII. Impulsar a las micro, pequeñas y medianas empresas turísticas que operen en los Estados y en la Ciudad de México;
 
 XIII. Diseñar, instrumentar, ejecutar y evaluar, los programas de investigación para el desarrollo turístico local;
 
@@ -312,7 +340,9 @@ I. Formular, conducir y evaluar la política turística municipal;
 
 II. Celebrar convenios en materia turística conforme a lo previsto en la presente Ley;
 
-III. Aplicar los instrumentos de política turística que les sean atribuidos por las leyes locales, así como la planeación, programación, fomento y desarrollo de la actividad turística en bienes y áreas de competencia municipal, en las materias que no estén expresamente atribuidas al Ejecutivo Federal, Estados o el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+III. Aplicar los instrumentos de política turística que les sean atribuidos por las leyes locales, así como la planeación, programación, fomento y desarrollo de la actividad turística en bienes y áreas de competencia municipal, en las materias que no estén expresamente atribuidas al Ejecutivo Federal, Estados o a la Ciudad de México;
 
 IV. Formular, ejecutar y evaluar el Programa Municipal de Turismo, el cual considerará las directrices previstas en el Plan Nacional de Desarrollo, el Programa Sectorial de Turismo y el Programa Local;
 
@@ -336,7 +366,9 @@ XIII. Operar módulos de información y orientación al turista;
 
 XIV. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente;
 
-XV. Atender los demás asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda esta Ley u otros ordenamientos legales en concordancia con ella y que no estén otorgados expresamente al Ejecutivo Federal, Estados o el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+XV. Atender los demás asuntos que en materia de planeación, programación, fomento y desarrollo de la actividad turística les conceda esta Ley u otros ordenamientos legales en concordancia con ella y que no estén otorgados expresamente al Ejecutivo Federal, Estados o la Ciudad de México;
 
 XVI. Emitir opinión ante la Secretaría, en aquellos casos en que la inversión concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos, dentro de su territorio, y
 
@@ -360,13 +392,15 @@ Será presidido por el titular de la Secretaría, y estará integrado por repres
 
 Podrán ser invitadas las instituciones y demás entidades públicas, federales o locales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo, las cuales participarán únicamente con derecho a voz.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 13.
 
-Los Estados y el Distrito Federal conformarán sus Consejos Consultivos Locales de Turismo, con el fin de lograr un desarrollo integral de la actividad turística local.
+Los Estados y la Ciudad de México conformarán sus Consejos Consultivos Locales de Turismo, con el fin de lograr un desarrollo integral de la actividad turística local.
 
-Los Consejos Consultivos Locales de Turismo serán presididos por el titular del Ejecutivo Estatal y en su caso por el Jefe de Gobierno del Distrito Federal, y estarán integrados por los funcionarios locales que tengan a su cargo la materia turística, y aquéllos que determine el Titular del Ejecutivo Local, y presidentes municipales conforme a lo que establezcan las disposiciones reglamentarias.
+Los Consejos Consultivos Locales de Turismo serán presididos por el titular del Ejecutivo Estatal y en su caso por el Jefe de Gobierno de la Ciudad de México, y estarán integrados por los funcionarios locales que tengan a su cargo la materia turística, y aquéllos que determine el Titular del Ejecutivo Local, y presidentes municipales conforme a lo que establezcan las disposiciones reglamentarias.
 
-Podrán ser invitadas las instituciones y entidades públicas, federales, locales y municipales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo en el Estado o en el Distrito Federal, las cuales participarán únicamente con derecho a voz.
+Podrán ser invitadas las instituciones y entidades públicas, federales, locales y municipales, privadas y sociales, que se determinen, y demás personas relacionadas con el turismo en el Estado o en la Ciudad de México, las cuales participarán únicamente con derecho a voz.
 
 ## TÍTULO TERCERO. De la Política y Planeación de la Actividad Turística
 
@@ -380,9 +414,11 @@ El Atlas Turístico de México es una herramienta para la promoción de la activ
 
 ### CAPÍTULO II. De la Incorporación de la Actividad Turística a las Cadenas Productivas
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 15.
 
-La Secretaría, los Estados, Municipios y el Distrito Federal, en el ámbito de sus respectivas competencias, estimularán y promoverán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar las economías locales y buscar el desarrollo regional.
+La Secretaría, los Estados, Municipios y la Ciudad de México, en el ámbito de sus respectivas competencias, estimularán y promoverán entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar las economías locales y buscar el desarrollo regional.
 
 Lo anterior, entre otros, a través de estudios sociales y de mercado, tomando en cuenta la información disponible en el Registro Nacional de Turismo y el Atlas Turístico de México.
 
@@ -400,7 +436,9 @@ La Secretaría, la Secretaría de Desarrollo Social, el Instituto Mexicano del S
 
 La Secretaría, con la participación de las distintas dependencias y entidades promoverá la suscripción de acuerdos con prestadores de servicios turísticos para el cumplimiento de los objetivos de este capítulo.
 
-Las instituciones, dependencias y entidades del sector público del Ejecutivo Federal, de los Estados Municipios y del Distrito Federal, promoverán entre sus trabajadores el turismo social.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+Las instituciones, dependencias y entidades del sector público del Ejecutivo Federal, de los Estados, Municipios y de la Ciudad de México, promoverán entre sus trabajadores el turismo social.
 
 ### CAPÍTULO IV. Del Turismo Accesible
 
@@ -414,13 +452,17 @@ Los prestadores de servicios turísticos deberán proveer lo necesario para que 
 
 La misma obligación tendrán las autoridades respecto de los sitios culturales con afluencia turística.
 
-La Secretaría, los Estados, Municipios y el Distrito Federal, supervisarán que lo dispuesto en este capítulo se cumpla.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría, los Estados, Municipios y la Ciudad de México, supervisarán que lo dispuesto en este capítulo se cumpla.
 
 ### CAPÍTULO V. De la Cultura Turística
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 20.
 
-La Secretaría, en coordinación con los Estados, los Municipios, el Distrito Federal y las dependencias de la Administración Pública Federal, promoverán y fomentarán entre la población aquellos programas y actividades que difundan la cultura, con el fin de crear el conocimiento de los beneficios de la actividad turística.
+La Secretaría, en coordinación con los Estados, los Municipios, la Ciudad de México y las dependencias de la Administración Pública Federal, promoverán y fomentarán entre la población aquellos programas y actividades que difundan la cultura, con el fin de crear el conocimiento de los beneficios de la actividad turística.
 
 > <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -478,11 +520,15 @@ IV. Establecer de manera coordinada los lineamientos o directrices que permitan 
 
 La integración, expedición, ejecución y evaluación del ordenamiento turístico general del territorio se llevará a cabo de conformidad con lo dispuesto en esta Ley y su Reglamento, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Asentamientos Humanos y demás disposiciones legales aplicables.
 
-Los Estados, los Municipios y el Distrito Federal, deberán participar en la formulación del Programa de Ordenamiento Turístico General del Territorio en los términos de esta Ley y demás disposiciones aplicables. Asimismo, la Secretaría deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación, y demás personas interesadas.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+Los Estados, los Municipios y la Ciudad de México, deberán participar en la formulación del Programa de Ordenamiento Turístico General del Territorio en los términos de esta Ley y demás disposiciones aplicables. Asimismo, la Secretaría deberá promover la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación, y demás personas interesadas.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 26.
 
-Cuando una región turística se ubique en el territorio de dos o más Estados o en el de éstos y el Distrito Federal, el Ejecutivo Federal, en coordinación con las autoridades locales y/o municipales comprendidas en el respectivo territorio y en el ámbito de su competencia, podrán formular un Programa de Ordenamiento Turístico Regional. Para tal efecto, el gobierno federal celebrará los acuerdos o convenios de coordinación procedentes con los órdenes de gobierno involucrados.
+Cuando una región turística se ubique en el territorio de dos o más Estados o en el de éstos y la Ciudad de México, el Ejecutivo Federal, en coordinación con las autoridades locales y/o municipales comprendidas en el respectivo territorio y en el ámbito de su competencia, podrán formular un Programa de Ordenamiento Turístico Regional. Para tal efecto, el gobierno federal celebrará los acuerdos o convenios de coordinación procedentes con los órdenes de gobierno involucrados.
 
 ###### Artículo 27.
 
@@ -494,9 +540,11 @@ II. Proponer los criterios para la determinación de los planes o programas de d
 
 III. Definir los lineamientos para su ejecución, seguimiento, evaluación y modificación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 28.
 
-Los programas de ordenamiento turístico local serán expedidos por las autoridades de los Estados y del Distrito Federal con la participación de los Municipios y tendrán por objeto:
+Los programas de ordenamiento turístico local serán expedidos por las autoridades de los Estados y de la Ciudad de México con la participación de los Municipios y tendrán por objeto:
 
 I. Determinar el área a ordenar, describiendo sus recursos turísticos; incluyendo un análisis de riesgos de las mismas;
 
@@ -504,9 +552,11 @@ II. Proponer los criterios para la determinación de los planes o programas de d
 
 III. Definir los lineamientos para su ejecución, seguimiento, evaluación y modificación.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 29.
 
-Los procedimientos bajo los cuales serán formulados, aprobados, expedidos, evaluados y modificados los programas de ordenamiento turístico local, serán determinados por las leyes de los Estados y del Distrito Federal en la materia, conforme a las siguientes bases:
+Los procedimientos bajo los cuales serán formulados, aprobados, expedidos, evaluados y modificados los programas de ordenamiento turístico local, serán determinados por las leyes de los Estados y de la Ciudad de México en la materia, conforme a las siguientes bases:
 
 I. Serán concordantes con los programas de ordenamiento turístico general y regional del territorio;
 
@@ -514,7 +564,9 @@ II. Las autoridades locales harán compatibles sus ordenamientos turísticos del
 
 Asimismo, los programas de ordenamiento turístico local preverán las disposiciones necesarias para la coordinación, entre las distintas autoridades involucradas, en la formulación y ejecución de los programas;
 
-III. Cuando un programa de ordenamiento turístico local incluya una Zona de Desarrollo Turístico Sustentable, el programa será elaborado y aprobado en forma conjunta por la Secretaría y el gobierno de los Estados o el del Distrito Federal de que se trate, y
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+III. Cuando un programa de ordenamiento turístico local incluya una Zona de Desarrollo Turístico Sustentable, el programa será elaborado y aprobado en forma conjunta por la Secretaría y el gobierno de los Estados o el de la Ciudad de México de que se trate, y
 
 IV. Las leyes locales en la materia, establecerán las formas y los procedimientos para que los particulares participen en la elaboración, ejecución, vigilancia y evaluación de los programas de ordenamiento turístico a que se refiere este precepto.
 
@@ -530,9 +582,13 @@ La Secretaría podrá respaldar técnicamente la formulación y ejecución de lo
 
 Las Zonas de Desarrollo Turístico Sustentable podrán ser declaradas como tales por su desarrollo actual o potencial.
 
-El Ejecutivo Federal, los Estados, los Municipios y el Distrito Federal, en el ámbito de sus respectivas competencias, podrán intervenir para impulsar la actividad turística en la Zona, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
 
-Los Estados, Municipios y el Distrito Federal, podrán presentar ante la Secretaría, proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable.
+El Ejecutivo Federal, los Estados, los Municipios y la Ciudad de México, en el ámbito de sus respectivas competencias, podrán intervenir para impulsar la actividad turística en la Zona, fomentando la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población.
+
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+Los Estados, Municipios y la Ciudad de México, podrán presentar ante la Secretaría, proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable.
 
 Los requisitos y el procedimiento para la emisión de la Declaratoria de Zona de Desarrollo Turístico Sustentable, así como la clasificación de las mismas, deberán establecerse en el reglamento respectivo.
 
@@ -552,17 +608,21 @@ El Decreto para la Declaratoria de Zona de Desarrollo Turístico Sustentable deb
 
 El Decreto con la declaratoria de Zona de Desarrollo Turístico Sustentable que emita el Ejecutivo Federal será publicado en el Diario Oficial de la Federación.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 36.
 
-La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública Federal y con el poder ejecutivo de los respectivos Estados, Municipios y el Distrito Federal, formularán los programas de manejo correspondientes para cada Zona.
+La Secretaría, en coordinación con las dependencias y entidades de la Administración Pública Federal y con el poder ejecutivo de los respectivos Estados, Municipios y la Ciudad de México, formularán los programas de manejo correspondientes para cada Zona.
 
 ## TÍTULO CUARTO. De la Promoción y Fomento al Turismo
 
 ### CAPÍTULO I. De la Promoción de la Actividad Turística
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 37.
 
-Los Estados, los Municipios y el Distrito Federal deberán coordinarse con la Secretaría para el desarrollo de las campañas de promoción turística en territorio nacional y el extranjero.
+Los Estados, los Municipios y la Ciudad de México deberán coordinarse con la Secretaría para el desarrollo de las campañas de promoción turística en territorio nacional y el extranjero.
 
 ###### Artículo 38.
 
@@ -570,7 +630,7 @@ La Secretaría en el ejercicio de sus atribuciones en materia de promoción tur�
 
 (NOTA: EL 24 DE ENERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 71/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 28 DE MAYO DE 2013, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis de jurisprudencia que lleva por rubro y datos de identificación: "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 ###### Artículo 39.
 
@@ -628,7 +688,9 @@ I. Elaborar estudios y proyectos que permitan identificar las zonas y áreas ter
 
 II. Crear y consolidar desarrollos turísticos conforme a los planes maestros de desarrollo, en los que habrán de considerarse los diseños urbanos y arquitectónicos del lugar, preservando el equilibrio ecológico y garantizando la comercialización de los servicios turísticos, en congruencia con el desarrollo económico y social de la región;
 
-III. Coordinar con las autoridades Federales, de los Estados, Municipios y el Distrito Federal, las gestiones necesarias para obtener y simplificar las autorizaciones, permisos o concesiones que permitan el desarrollo de proyectos productivos y de inversión turística así como la prestación de servicios turísticos;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+III. Coordinar con las autoridades Federales, de los Estados, Municipios y la Ciudad de México, las gestiones necesarias para obtener y simplificar las autorizaciones, permisos o concesiones que permitan el desarrollo de proyectos productivos y de inversión turística así como la prestación de servicios turísticos;
 
 IV. Ejecutar obras de infraestructura y urbanización, y realizar edificaciones e instalaciones en centros de desarrollo turístico que permitan la oferta de servicios turísticos; para dicho fin el Fondo deberá tomar en cuenta en la ejecución de dichas obras las necesidades de las personas con discapacidad;
 
@@ -680,15 +742,19 @@ Cada representante propietario acreditará ante el Comité a sus respectivos sup
 
 ### CAPÍTULO I. Del Registro Nacional de Turismo
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 46.
 
-El Registro Nacional de Turismo, es el catálogo público de prestadores de servicios turísticos en el país, el cual constituye el mecanismo por el que el Ejecutivo Federal, los Estados, Municipios y el Distrito Federal, podrán contar con información sobre los prestadores de servicios turísticos a nivel nacional, con objeto de conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera.
+El Registro Nacional de Turismo, es el catálogo público de prestadores de servicios turísticos en el país, el cual constituye el mecanismo por el que el Ejecutivo Federal, los Estados, Municipios y la Ciudad de México, podrán contar con información sobre los prestadores de servicios turísticos a nivel nacional, con objeto de conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera.
 
 En las disposiciones reglamentarias se establecerán todas aquellas personas físicas y morales obligadas a inscribirse en el Registro Nacional de Turismo.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 47.
 
-Corresponde a la Secretaría regular y coordinar la operación del Registro Nacional de Turismo, el cual será operado por los Estados, los Municipios y el Distrito Federal.
+Corresponde a la Secretaría regular y coordinar la operación del Registro Nacional de Turismo, el cual será operado por los Estados, los Municipios y la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE NOVIEMBRE DE 2014)</small>
 
@@ -706,9 +772,11 @@ El Registro Nacional de Turismo deberá operar bajo el principio de máxima publ
 
 La Secretaría deberá difundir la información que derive del Registro Nacional de Turismo, con el objeto de que se haga llegar al público en general, a través de su página Web y en los medios que ésta determine.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 51.
 
-La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la Secretaría, siendo responsabilidad de las autoridades de los Estados, Municipios y el Distrito Federal, constatar la veracidad de la información que proporcionen los prestadores de servicios turísticos.
+La base de datos del Registro Nacional de Turismo quedará bajo la guarda de la Secretaría, siendo responsabilidad de las autoridades de los Estados, Municipios y la Ciudad de México, constatar la veracidad de la información que proporcionen los prestadores de servicios turísticos.
 
 ###### Artículo 52.
 
@@ -844,9 +912,11 @@ VI. La realización de acciones para favorecer las inversiones y proyectos turí
 
 La Secretaría realizará estudios e investigaciones en materia turística, y llevará a cabo acciones para mejorar y complementar la enseñanza turística a nivel superior y de postgrado, dirigida al personal de instituciones públicas, privadas y sociales vinculadas y con objeto social relativo al turismo.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 65.
 
-La Secretaría participará en la elaboración de programas de profesionalización turística y promoverá, en coordinación con las dependencias y entidades de la Administración Pública Federal, gobiernos de los Estados, Municipios y el Distrito Federal, organismos públicos, privados y sociales, nacionales e internacionales, el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística. Asimismo establecerá lineamientos, contenidos y alcances a fin de promover y facilitar la certificación de competencias laborales.
+La Secretaría participará en la elaboración de programas de profesionalización turística y promoverá, en coordinación con las dependencias y entidades de la Administración Pública Federal, gobiernos de los Estados, Municipios y la Ciudad de México, organismos públicos, privados y sociales, nacionales e internacionales, el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la actividad turística. Asimismo establecerá lineamientos, contenidos y alcances a fin de promover y facilitar la certificación de competencias laborales.
 
 En los citados programas se deberá considerar la profesionalización respecto a la atención de las personas con discapacidad.
 
@@ -858,7 +928,9 @@ Corresponde a la Secretaría verificar el cumplimiento de esta Ley, su reglament
 
 Las visitas de verificación que efectúe la Secretaría, se regirán por esta Ley, su reglamento, así como por lo previsto en la Ley Federal del Procedimiento Administrativo.
 
-Las autoridades de turismo de los Estados, Municipios y del Distrito Federal, deberán brindar apoyo a la Secretaría para que ejerza sus facultades de verificación en las demarcaciones territoriales que les correspondan.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+Las autoridades de turismo de los Estados, Municipios y de la Ciudad de México, deberán brindar apoyo a la Secretaría para que ejerza sus facultades de verificación en las demarcaciones territoriales que les correspondan.
 
 ###### Artículo 67.
 
@@ -876,21 +948,27 @@ Tratándose de quejas que se deriven del incumplimiento de disposiciones estable
 
 Cuando derivado de una queja presentada por un turista ante la Procuraduría Federal del Consumidor, se detecte el probable incumplimiento de las disposiciones de esta Ley o de las disposiciones que de ella emanen, la Secretaría, podrá iniciar el procedimiento administrativo correspondiente, así como requerir al prestador de servicios turísticos información que estime para esclarecer los hechos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 69.
 
-Los prestadores que no se inscriban en el Registro Nacional de Turismo en los plazos señalados por esta Ley, serán sancionados con multa que podrá ir de quinientos hasta mil quinientos días de salario mínimo vigente en el Distrito Federal.
+Los prestadores que no se inscriban en el Registro Nacional de Turismo en los plazos señalados por esta Ley, serán sancionados con multa que podrá ir de quinientas hasta mil quinientas veces de la Unidad de Medida y Actualización, vigente al momento en que se cometa la violación.
 
 En caso de que el prestador de servicios turísticos persista en su conducta, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Nacional de Turismo.
 
 Los prestadores de servicios turísticos que omitan información o proporcionen información inexacta a las autoridades competentes, para su inscripción al Registro Nacional de Turismo, serán requeridos para que en un término de cinco días hábiles proporcione o corrija la información solicitada en el Registro.
 
-En caso de que el prestador de servicios turísticos haga caso omiso del requerimiento, se hará acreedor a una multa que podrá ir de doscientos hasta quinientos días de salario mínimo vigente en el Distrito Federal.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+En caso de que el prestador de servicios turísticos haga caso omiso del requerimiento, se hará acreedor a una multa que podrá ir de doscientas hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, vigente al momento en que se cometa la infracción.
 
 Si la conducta persiste, la autoridad competente podrá imponer clausura temporal del establecimiento correspondiente, la cual se levantará veinticuatro horas después de que el prestador de servicios turísticos de que se trate quede debidamente inscrito en el Registro Nacional de Turismo.
 
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 70.
 
-Las infracciones a lo establecido en las fracciones I, III y X del artículo 58 de esta ley, se sancionarán con multa de hasta quinientos días de salario mínimo vigente en el Distrito Federal.
+Las infracciones a lo establecido en las fracciones I, III y X del artículo 58 de esta Ley, se sancionarán con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, vigente al momento en que se cometa la infracción.
 
 ###### Artículo 71.
 
@@ -926,13 +1004,17 @@ Tercero. Las disposiciones emitidas con fundamento en la Ley Federal de Turismo 
 
 Cuarto. El Ejecutivo Federal deberá emitir el Reglamento de la presente Ley, dentro de los ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto.
 
-Los Estados y el Distrito Federal deberán adecuar a la presente Ley, su legislación en la materia, dentro de un año contado a partir de entrado en vigor el presente Decreto.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+Los Estados y la Ciudad de México deberán adecuar a la presente Ley, su legislación en la materia, dentro de un año contado a partir de entrado en vigor el presente Decreto.
 
 Quinto. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias a que se refiere esta Ley, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en el momento de su inicio.
 
 Sexto. la Secretaría de Turismo deberá modernizar la estructura del Registro Nacional de Turismo, para lo cual contará con un plazo de un año, contado a partir de la entrada en vigor del presente Decreto.
 
-La Secretaría, de manera coordinada con los Gobiernos locales, municipales y del Distrito Federal, deberá establecer los mecanismos que permitan la inscripción al Registro Nacional de Turismo, con el objeto de que los prestadores cuenten con las facilidades necesarias para llevar a cabo los trámites correspondientes.
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría, de manera coordinada con los Gobiernos locales, municipales y de la Ciudad de México, deberá establecer los mecanismos que permitan la inscripción al Registro Nacional de Turismo, con el objeto de que los prestadores cuenten con las facilidades necesarias para llevar a cabo los trámites correspondientes.
 
 Concluido el proceso de modernización del Registro Nacional de Turismo, la Secretaría, deberá publicar en el Diario Oficial de la Federación la convocatoria nacional de inscripción al Registro Nacional de Turismo dirigida a los prestadores de servicios turísticos.
 
@@ -1005,3 +1087,9 @@ OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educaci�
 NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
 
 DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 22 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE TURISMO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
