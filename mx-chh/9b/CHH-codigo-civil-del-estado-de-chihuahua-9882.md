@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2017-12-20"
+last_updated: "2017-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2017.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -577,9 +577,7 @@ VI.- La mención del Tribunal que pronunció el auto de discernimiento y la fech
 
 ### CAPITULO VI. DE LAS ACTAS DE EMANCIPACION
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
-
-89.- En los casos de emancipación por efecto del matrimonio no se formará acta separada; el jefe de la oficina anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
+89.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -611,21 +609,21 @@ Este escrito deberá ser firmado por los solicitantes y si alguno no pudiere o n
 
 94.- Al escrito que se refiere el artículo anterior, se acompañará:
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2017)</small>
 
-I.- La copia certificada del acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de 16 años y la mujer mayor de 14;
+I.- La copia certificada del acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que las personas contrayentes poseen la edad mínima para contraer matrimonio.
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
-
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los Artículos 137, 138 y 139 de este Código;
+II.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2017)</small>
 
-IV.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. Cuando por cualquier motivo no se acompañare el convenio y el matrimonio se celebrare bajo el régimen de sociedad conyugal, regirán dicha sociedad las reglas que establece este Código.
+IV.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de Separación de Bienes. Cuando por cualquier motivo no se acompañare el convenio y el matrimonio se celebrare bajo el régimen de Sociedad Conyugal, regirán dicha sociedad las reglas que establece este Código.
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 Si de acuerdo con lo dispuesto en el Artículo 173 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de ella;
 
@@ -675,7 +673,7 @@ I.- Los nombres, apellidos, edad, nacionalidad, ocupación, domicilio y lugar de
 
 II.- Los nombres, apellidos, ocupación y domicilio de los padres si fuesen conocidos;
 
-III.- El consentimiento de éstos, de los abuelos o tutores o de las autoridades que deban suplirlos;
+III.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2017)
 
 IV.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
@@ -937,33 +935,31 @@ La rectificación, modificación o nulidad decretada en la vía administrativa, 
 
 135.- Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2017)</small>
 
-136.- Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y la mujer catorce.
+136. La edad mínima para contraer matrimonio son los dieciocho años de edad.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2003)</small>
+137.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
-137.- El hijo o hija que no hayan cumplido dieciocho años no pueden contraer matrimonio sin consentimiento de sus padres, si vivieran ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de quien ejerza la patria potestad.
+138.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+139.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
-138.- Faltando padres y abuelos, se necesita el consentimiento de los tutores; en defecto de éstos, el Juez de Primera Instancia o de lo Familiar de la residencia del menor suplirá el consentimiento.
+140.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
-139.- Los interesados pueden ocurrir al Presidente Municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. La autoridad mencionada, después de levantar una información sobre el particular, suplirá o no el consentimiento.
+141.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
-140.- Si el Juez, en el caso del artículo 138 se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Supremo Tribunal de Justicia, en los términos que disponga el Código de Procedimientos Civiles.
+142.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
-141.- El ascendiente o tutor que ha prestado su consentimiento, firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya causa justa para ello.
-
-142.- Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; con tal que el matrimonio se verifique dentro del término fijado en el artículo 97.
-
-143.- El Juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado sino por justa causa superveniente.
+143.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
 144.- Son impedimentos para celebrar el contrato de matrimonio:
 
-I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2017)</small>
 
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o del juez, en sus respectivos casos;
+I. La falta de edad requerida por la Ley;
+
+II.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2017)
 
 III.- El parentesco de consanguinidad legítima o natural, sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medio hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
@@ -983,7 +979,9 @@ IX.- La discapacidad mental o intelectiva;
 
 X.- El matrimonio subsiste con persona distinta de aquella con quien se pretende contraer.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2017)</small>
+
+De estos impedimentos solo es dispensable el parentesco de consanguinidad en línea colateral desigual.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
@@ -1031,9 +1029,11 @@ En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los 
 
 158.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 
-159.- El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa ni ésta de la autorización de aquél salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2017)</small>
 
-160.- El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+159. El marido y la mujer, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa ni esta de la autorización de aquel salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+
+160.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
 161.- (DEROGADO, P.O. 30 DE MAYO DE 1981)
 
@@ -1053,7 +1053,7 @@ DISPOSICIONES GENERALES
 
 167.- Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él, y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
 
-168.- El menor que con arreglo a la Ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio.
+168.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
 169.- Son nulos los pactos que los esposos hicieren contra las leyes o los naturales fines del matrimonio.
 
@@ -1077,9 +1077,11 @@ La designación del administrador de los bienes de la sociedad conyugal podrá s
 
 174.- En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública haciendo la respectiva anotación en el Protocolo en que se otorgaron las primitivas capitulaciones y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra terceros.
 
-175.- La sociedad conyugal puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos; pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad, prestando su consentimiento, las personas a que se refiere el artículo 168.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2017)</small>
 
-Esta misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
+175. La sociedad conyugal puede terminar o ser modificada antes de que se disuelva el matrimonio si así lo convienen los esposos.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2017)</small>
 
 176.- Puede también terminar la sociedad conyugal durante el matrimonio, a petición de alguno de los cónyuges por los siguientes motivos:
 
@@ -1151,9 +1153,11 @@ IX.- Las bases para liquidar la sociedad.
 
 196.- La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos.
 
-197.- Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 168.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE DICIEMBRE DE 2017)</small>
 
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+197. Durante el matrimonio la Separación de Bienes puede ser modificada o terminar para ser substituida por la sociedad conyugal.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2017)</small>
 
 198.- No es necesario que conste en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración del matrimonio. Si se pacta durante el matrimonio, se observarán las formalidades exigidas para la trasmisión de los bienes de que se trate.
 
@@ -1221,25 +1225,19 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 9
 
 224.- La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-225.- La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad:
+225.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
-I.- Cuando haya habido hijos;
+226.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años, y ni él ni el otro cónyuge hubieren intentado la nulidad.
+227.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
-226.- La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tenga conocimiento del matrimonio.
-
-227.- Cesa esta causa de nulidad:
-
-I.- Si han pasado los treinta días sin que se haya pedido;
-
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil o practicando otros actos que a juicio del Juez sean tan conducentes al efecto como los expresados.
-
-228.- La nulidad por falta de consentimiento del tutor o del juez podrá pedirse, dentro del término de treinta días, por cualquiera de los cónyuges o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma, sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+228.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
 229.- El parentesco de consanguinidad no dispensado anula el matrimonio, pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
 
-230.- La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2017)</small>
+
+230. La acción de nulidad que dimana del parentesco de afinidad en línea recta, puede ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
 
 231.- La acción de nulidad que nace de la causa prevista en la fracción V del artículo 144, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
 
@@ -1341,9 +1339,9 @@ I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que
 
 II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 147 y cuando se celebre sin que hayan transcurrido los términos fijados en el artículo 146.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2017)</small>
 
-253.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en los delitos que señale el Código Penal.
+253. Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con una persona menor y quien autorice esos matrimonios, incurrirán en los delitos que señale el Código Penal.
 
 ### CAPITULO IX. DEL DIVORCIO
 
@@ -1357,7 +1355,7 @@ El divorcio por mutuo consentimiento, podrá realizarse de las siguientes formas
 
 a).- Se podrá acudir ante el Oficial del Registro Civil, siempre y cuando se reúnan los siguientes requisitos:
 
-1.- Los cónyuges sean mayores de edad;
+1.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
 2.- Tengan más de un año de haber contraído nupcias;
 
@@ -2941,7 +2939,7 @@ VI.- Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
 
 ### CAPITULO I. DE LA EMANCIPACION
 
-616.- El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+616.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2017)
 
 617.- Los mayores de dieciséis años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
 
@@ -2949,7 +2947,7 @@ Los padres o tutores pueden emancipar a sus hijos y pupilos que se encuentren en
 
 618.- El emancipado tiene la libre administración de sus bienes pero siempre necesita durante su menor edad:
 
-I.- Del consentimiento del que lo emancipó para contraer matrimonio antes de llegar a la mayor edad. Si el que otorgó la emancipación ejercía la patria potestad y ha muerto, o está incapacitado legalmente al tiempo en que el emancipado intente casarse, necesita éste el consentimiento del ascendiente a quien corresponda darlo, y en su defecto, el del Juez;
+I.- (DEROGADA, P.O. 23 DE DICIEMBRE DE 2017)
 
 II.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
 
@@ -2957,7 +2955,9 @@ III.- De un tutor para los negocios judiciales.
 
 619.- Hecha la emancipación, no puede ser revocada.
 
-620.- Fuera del caso a que se refiere el artículo 616, la emancipación siempre será decretada por el Juez, y la resolución correspondiente se remitirá al oficial del Registro Civil para que levante el acta respectiva.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2017)</small>
+
+620. La emancipación siempre será decretada por la o el Juez, y la resolución correspondiente se remitirá a quien funja como Oficial del Registro Civil para que levante el acta respectiva.
 
 ### CAPITULO II. DE LA MAYOR EDAD
 
@@ -13080,3 +13080,47 @@ P.O. 20 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO LXV/RFCOD/0458/2017 I P.O., MEDIANTE EL CUAL SE DEROGA DEL ARTÍCULO 255 SEGUNDO PÁRRAFO INCISO A), EL CONTENIDO DEL PUNTO NÚMERO 1, DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor de manera conjunta con el Decreto que homologa la edad para contraer matrimonio a los dieciocho años, sin régimen excepcional.
+
+P.O. 23 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO LXV/RFCOD/0459/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las personas menores de edad que hayan contraído lícitamente matrimonio y sin que existiese causal de nulidad hasta antes de la entrada en vigor del presente Decreto, continuarán con el vínculo matrimonial, salvo que algún contrayente quisiera disolverlo.
+
+De igual forma, continuarán bajo emancipación con todos los efectos legales. Aunque el matrimonio se disuelva, la o el cónyuge emancipado que sea menor de dieciocho años, no recaerá en la patria potestad.
+
+TERCERO.- La nulidad del matrimonio contraído por alguna persona menor de edad antes de la entrada en vigor del presente Decreto por falta de consentimiento de:
+
+A) Las personas ascendientes, solo podrá alegarse por aquellas a quienes correspondía otorgar dicho consentimiento, y dentro de treinta días contados desde que tenga conocimiento del matrimonio.
+
+Cesa esta causa de nulidad:
+
+I. Si han pasado los treinta días sin que se haya pedido.
+
+II. Si dentro de este término, la o el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a las o los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil o practicando otros actos que a juicio de la autoridad jurisdiccional, sean tan conducentes al efecto como los expresados.
+
+B) La persona tutora o de la autoridad jurisdiccional, podrá pedirse, dentro del término de treinta días, por cualquiera de los cónyuges o por la o el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella, se obtiene la ratificación de la parte tutora o la autorización judicial, confirmando el matrimonio.
+
+CUARTO.- Las personas menores de edad que hayan contraído matrimonio antes de la entrada en vigor del presente Decreto, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellas correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni esta de la autorización de aquel salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes. Pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y persona tutora para sus negocios judiciales.
+
+QUINTO.- Las personas menores de edad que hayan contraído matrimonio antes de la vigencia del presente Decreto, podrán:
+
+A) Otorgar capitulaciones matrimoniales, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo era necesario para la celebración del matrimonio hasta antes de la entrada en vigor del presente.
+
+B) Si así lo convienen, terminar la sociedad conyugal antes de que se disuelva el matrimonio, previo consentimiento de las personas que podían otorgarlo para la celebración del matrimonio hasta antes de la entrada en vigor del presente Decreto.
+
+C) Modificar la sociedad conyugal previo consentimiento de las personas que podían otorgarlo para la celebración del matrimonio hasta antes de la entrada en vigor del presente Decreto.
+
+D) Terminar la separación de bienes para ser substituida por la sociedad conyugal, previo consentimiento de las personas que podían otorgarlo para la celebración del matrimonio hasta antes de la entrada en vigor del presente Decreto.
+
+E) Modificar las capitulaciones matrimoniales, previo consentimiento de las personas que podían otorgarlo para la celebración del matrimonio hasta antes de la entrada en vigor del presente Decreto.
