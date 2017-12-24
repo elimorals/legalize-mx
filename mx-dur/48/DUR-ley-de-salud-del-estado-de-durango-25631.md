@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2017-11-30"
+last_updated: "2017-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -319,29 +319,35 @@ IV. Impulsar el desarrollo de la familia y de la comunidad, así como la integra
 
 V. Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propicien el desarrollo satisfactorio de la vida;
 
-VI. Impulsar en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
 
-VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionadas con la salud y con el uso de los servicios que presten para su protección;
+VI. Impulsar en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
 
-VIII. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta, y de cómo llevar una dieta equilibrada y la adecuada combinación de alimentos y su relación con la salud;
+VII. Establecer, promover y coordinar el Registro Estatal de Cáncer;
+
+VIII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionadas con la salud y con el uso de los servicios que presten para su protección;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+IX. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta, y de cómo llevar una dieta equilibrada y, la adecuada combinación de alimentos y su relación con la salud;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-IX. Impulsar campañas de difusión acerca del contenido nutricional de los diferentes alimentos;
+X. Impulsar campañas de difusión acerca del contenido nutricional de los diferentes alimentos;
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
 
-X. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, garanticen un combate eficiente al sobrepeso, obesidad, desnutrición, diabetes y trastornos de la conducta alimentaria y cuyos avances y resultados sean objeto de evaluación;
+XI. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, garanticen un combate eficiente al sobrepeso, obesidad, desnutrición, diabetes y trastornos de la conducta alimentaria y cuyos avances y resultados sean objeto de evaluación;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
 
-XI. Impulsar en los pueblos y comunidades indígenas los servicios de salud, a fin de que puedan gozar del máximo nivel posible de salud física y mental, fomentando la nutrición de la población indígena infantil, implementar programas para atención de personas con discapacidad; así como procurar que el personal de las instituciones de salud pública que prestan servicio en los pueblos y comunidades indígenas, cuenten con los conocimientos básicos sobre la lengua, cultura y costumbres de los mismos, a fin de que las respeten, asegurando el derecho de integrantes de los pueblos y comunidades indígenas a recibir la información necesaria en materia de salud en su propia lengua;
+XII. Impulsar en los pueblos y comunidades indígenas los servicios de salud, a fin de que puedan gozar del máximo nivel posible de salud física y mental, fomentando la nutrición de la población indígena infantil, implementar programas para atención de personas con discapacidad; así como procurar que el personal de las instituciones de salud pública que prestan servicio en los pueblos y comunidades indígenas, cuenten con los conocimientos básicos sobre la lengua, cultura y costumbres de los mismos, a fin de que las respeten, asegurando el derecho de integrantes de los pueblos y comunidades indígenas a recibir la información necesaria en materia de salud en su propia lengua; y
 
 > <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Promover y apoyar el desarrollo y libre ejercicio de la medicina tradicional así como el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen en condiciones adecuadas como parte de la cultura y patrimonio de los pueblos y comunidades indígenas, impulsando su estudio y rescate, así como difundir el derecho de los mismos a participar en la planificación y ejecución de los programas de salud, debiendo tomar en cuenta sus necesidades prioritarias.
+XIII. Promover y apoyar el desarrollo y libre ejercicio de la medicina tradicional así como el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen en condiciones adecuadas como parte de la cultura y patrimonio de los pueblos y comunidades indígenas, impulsando su estudio y rescate, así como difundir el derecho de los mismos a participar en la planificación y ejecución de los programas de salud, debiendo tomar en cuenta sus necesidades prioritarias.
 
 ###### ARTÍCULO 10.
 
@@ -381,11 +387,15 @@ XIV. Promover e impulsar la participación de la comunidad del Estado en el cuid
 
 XV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
 
-XVI. Instaurar programas de nutrición, para prevenir y atender la diabetes, la obesidad y el sobrepeso en la población duranguense; y
+XVI. Instaurar programas de nutrición, para prevenir y atender la diabetes, la obesidad y el sobrepeso en la población duranguense;
 
-XVII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+XVII. El diseño, la organización, coordinación y vigilancia del Registro Estatal de Cáncer; y
+
+XVIII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -663,7 +673,9 @@ II. Establecer los lineamientos y criterios correspondientes en materia de salub
 
 III. Establecer las acciones sanitarias en los límites territoriales con otras entidades federativas;
 
-IV. Llevar a cabo los programas y acciones que en materia de salubridad local se implanten;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+IV. Llevar a cabo los programas y acciones que en materia de salubridad local se implanten, incluyendo la prevención y detección oportuna de cáncer de mama y cáncer cervicouterino;
 
 V. Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los municipios, con sujeción a las políticas nacional y estatal de salud;
 
@@ -1101,9 +1113,15 @@ X. La promoción del mejoramiento de la nutrición;
 
 XI. La asistencia social a los grupos más vulnerables;
 
-XII. La atención a las víctimas de violencia intrafamiliar y de abandono; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
 
-XIII. Las demás que establezca esta Ley y otras disposiciones legales aplicables.
+XII. La atención a las víctimas de violencia intrafamiliar y de abandono;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+XIII. La prevención y detección oportuna de cáncer de mama y cáncer cervicouterino; y
+
+XIV. Las demás que establezca esta Ley y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 44.
 
@@ -1175,7 +1193,7 @@ Para fomentar el desarrollo de programas públicos de asistencia social, el Gobi
 
 ###### ARTÍCULO 50.
 
-La infancia en estado de vulnerabilidad social tienen (sic) derecho a recibir los servicios asistenciales que necesiten en cualquier momento en establecimientos públicos dependientes del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+La infancia en estado de vulnerabilidad social tienen derecho a recibir los servicios asistenciales que necesiten en cualquier momento en establecimientos públicos dependientes del Estado al que sean remitidos para su atención, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
 
 ###### ARTÍCULO 51.
 
@@ -1533,11 +1551,61 @@ El área administrativa que el Ejecutivo Estatal determine, prestará atención 
 
 Para tales efectos, dicha estructura administrativa establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO X. DE LA ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA Y CÁNCER CERVICOUTERINO
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 96 BIS.- Los usuarios tienen derecho a la atención integral de cáncer de mama y cáncer cervicouterino, y su acceso a los servicios públicos de salud de manera gratuita, eficiente, oportuna y de calidad, conforme a los lineamientos establecidos en materia de salubridad general.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 96 BIS 1.- Para el desarrollo de acciones en materia de promoción de la salud, prevención y detección, además de las que se establezcan en materia de salubridad general y en la Norma Oficial Mexicana en materia de cáncer de mama y cáncer cervicouterino, las autoridades sanitarias desarrollarán las siguientes actividades:
+
+I. Estudios de mastografía en unidades móviles y clínicas, previa autorización y certificación de las mismas, así como el papanicolaou y demás pruebas que detecten el cáncer cervicouterino;
+
+II. Jornadas de salud en los 39 municipios de (sic) Estado, en Centros de Reinserción Social y en clínicas, así como en comunidades indígenas y zonas de difícil acceso a los servicios de salud;
+
+III. Campañas de información sobre prevención y detección oportuna de cáncer de mama y cáncer cervicouterino;
+
+IV. Entregas de estudios de mastografía, papanicolaou y demás pruebas que detecten el cáncer cervicouterino;
+
+V. Seguimiento de los casos con resultados no concluyentes, sospechosos y altamente sospechosos de cáncer de mama o cáncer cervicouterino;
+
+VI. Apoyo psicológico individual para las personas con casos confirmados de cáncer de mama o cáncer cervicouterino.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 96 BIS 2.- Las acciones de diagnóstico, tratamiento y rehabilitación integral, serán las que determine la Secretaría de conformidad a lo establecido por el Sistema Nacional de Salud, los programas federales y la Norma Oficial Mexicana en materia de cáncer de mama y cáncer cervicouterino.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 96 BIS 3.- La prevención de cáncer de mama y cáncer cervicouterino incluye actividades de promoción de la salud tendientes a disminuir la prevalencia de los factores de riesgo en la comunidad, desarrollar entornos saludables, el reforzamiento de la participación social, la reorientación de los servicios de salud a la prevención y el impulso de políticas públicas saludables.
+
+La prevención de cáncer de mama y cáncer cervicouterino tiene como finalidad orientar y concientizar a las personas sobre la responsabilidad en el autocuidado de la salud, promover estilos de vida sanos a través de campañas de difusión.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 96 BIS 4.- Las actividades de detección de cáncer de mama consisten en autoexploración, examen clínico y mastografía, y en su caso papanicolaou y demás pruebas que detecten el cáncer cervicouterino debiendo la Secretaría, establecer los lineamientos para la realización de las mismas, de conformidad a lo establecido por el Sistema Nacional de Salud, en programas federales y en la Norma Oficial Mexicana de la materia.
+
+La Secretaría establecerá los lineamientos que deberán cumplir las instalaciones o unidades médicas para la prestación de los servicios a los que se refiere el presente Capítulo, a efecto de contar con la autorización necesaria para su funcionamiento en apego a los estándares de calidad establecidos en los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 96 BIS 5.- El tratamiento de cáncer de mama y cáncer cervicouterino debe realizarse por personal médico calificado que cuente con cédula de especialidad en oncología médica o quirúrgica o con entrenamiento específico comprobado con respaldo documental de instituciones con reconocimiento oficial.
+
+Las personas con cáncer de mama o cáncer cervicouterino en etapa terminal y sus familiares, tienen derecho a recibir atención paliativa, como parte de la atención integral; para tal efecto la Secretaría garantizará el acceso a este derecho, de conformidad a las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 96 BIS 6.- Todas las personas con tratamiento, deberán recibir una evaluación para determinar el tipo de rehabilitación integral que requieren.
+
+La Secretaría, podrá suscribir convenios con instituciones de salud a nivel federal, a fin de emitir medidas respectivas al cáncer de mama y al cáncer cervicouterino.
 
 ## TÍTULO QUINTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-### CAPÍTULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPÍTULO I. DE LOS PROFESIONALES, TÉCNICOS Y AUXILIARES
 
 ###### ARTÍCULO 97.
 
@@ -1575,7 +1643,7 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las espe
 
 Quienes en su anuncio, en los documentos, papelería o en la publicidad a que se refiere el párrafo anterior, indiquen la leyenda de “registro en trámite” o cualquier otra similar, estará a lo dispuesto por la fracción VI del artículo 289 de la presente Ley.
 
-### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
+### CAPÍTULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTÍCULO 101.
 
@@ -1603,7 +1671,7 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 El Gobierno del Estado, con la participación de las instituciones de educación superior, elaborará programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPÍTULO ÚNICO. ACCIONES Y BASES PARA LA INVESTIGACIÓN
+### CAPÍTULO III. FORMACIÓN, CAPACITACIÓN Y ACTUALIZACIÓN DEL PERSONAL
 
 ###### ARTÍCULO 106.
 
@@ -1645,7 +1713,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TÍTULO SEXTO. INVESTIGACIÓN PARA LA SALUD
 
-### CAPÍTULO ÚNICO. DE LA CAPTACIÓN Y SUMINISTRO
+### CAPÍTULO ÚNICO. ACCIONES Y BASES PARA LA INVESTIGACIÓN
 
 ###### ARTÍCULO 111.
 
@@ -1713,7 +1781,7 @@ Asimismo, fortalecerá las actividades docentes vinculadas a la investigación p
 
 ## TÍTULO SÉPTIMO. INFORMACIÓN PARA LA SALUD
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DE LA CAPTACIÓN Y SUMINISTRO
 
 ###### ARTÍCULO 118.
 
@@ -1737,7 +1805,7 @@ La Secretaría y el Organismo establecerán centros de información y de documen
 
 ## TÍTULO OCTAVO. PROMOCIÓN DE LA SALUD
 
-### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 121.
 
@@ -1759,7 +1827,7 @@ V. Ejercicios para la Salud; y
 
 VI. Fomento sanitario.
 
-### CAPÍTULO III. NUTRICIÓN Y ORIENTACIÓN ALIMENTARIA
+### CAPÍTULO II. EDUCACIÓN PARA LA SALUD
 
 ###### ARTÍCULO 123.
 
@@ -1791,7 +1859,7 @@ VI. Establecerán campañas de capacitación y sensibilización dirigidas a serv
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE ABRIL DE 2011)</small>
 
-### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPÍTULO III. NUTRICIÓN Y ORIENTACIÓN ALIMENTARIA
 
 ###### ARTÍCULO 125.
 
@@ -1847,7 +1915,7 @@ IX.- Llevar a cabo campañas de información acerca de los riesgos del consumo d
 
 X.- Promover con las autoridades correspondientes la prohibición de venta de bebidas energizantes a menores de edad.
 
-### CAPÍTULO V. EJERCICIO PARA LA SALUD
+### CAPÍTULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTÍCULO 128.
 
@@ -1893,7 +1961,7 @@ No se podrán descargar aguas residuales sin el tratamiento que señalan los cri
 
 La Secretaría y el Organismo, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración de distritos de riego, orientarán a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, sustancias tóxicas y desperdicios o basura.
 
-### CAPÍTULO VI. SALUD OCUPACIONAL
+### CAPÍTULO V. EJERCICIO PARA LA SALUD
 
 ###### ARTÍCULO 134.
 
@@ -1913,7 +1981,7 @@ III. Promover la capacitación y actualización continua de los trabajadores de 
 
 Para la mayor eficacia de las acciones a las que se refiere el artículo anterior, se creará el Centro Estatal Interinstitucional del Ejercicio para el Cuidado de la Salud del que formarán parte representantes de los sectores público, social y privado del Estado.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VI. SALUD OCUPACIONAL
 
 ###### ARTÍCULO 137.
 
@@ -1925,7 +1993,7 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 ## TÍTULO NOVENO. PREVENCIÓN Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 139.
 
@@ -1941,7 +2009,7 @@ III. Coadyuvar en la aplicación de los programas y actividades que establezca l
 
 Corresponde a la Secretaría y el Organismo, en coordinación con las autoridades sanitarias federales, realizar actividades de vigilancia epidemiológica, de prevención, control e investigación de enfermedades transmisibles, no transmisibles y accidentes.
 
-### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPÍTULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTÍCULO 141.
 
@@ -2055,7 +2123,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 La Secretaría y el Organismo determinarán los casos en que se deba proceder a las (sic) descontaminación microbiana o parasitaria, desinfección, desinfectación, desinfestación, u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPÍTULO IV. ACCIDENTES
+### CAPÍTULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTÍCULO 156.
 
@@ -2079,9 +2147,39 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPÍTULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPÍTULO III BIS. DEL REGISTRO ESTATAL DE CÁNCER
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 158 BIS.- El Registro Estatal de Cáncer tendrá una base poblacional, se integrará de la información proveniente del Sistema Estatal de Salud y contará con la siguiente información básica:
+
+I. Información del paciente, que se agrupa en los siguientes rubros:
+
+a) Datos relacionados con la identidad, historial ocupacional y laboral, observando las disposiciones relativas a la protección de datos personales de los pacientes; y
+
+b) Información demográfica.
+
+II. Información del tumor: Incluye la fecha de diagnóstico de cáncer; la localización anatómica; de ser el caso, la lateralidad; la incidencia y el estado de la enfermedad; la histología del tumor primario y su comportamiento;
+
+III. Información respecto al tratamiento que se ha aplicado al paciente y el seguimiento que se ha dado al mismo de parte de los médicos. Además, se incluirá información de curación y supervivencia;
+
+IV. La fuente de información utilizada para cada modalidad de diagnóstico y de tratamiento; y
+
+V. Toda aquella información adicional que determine la Secretaría.
+
+La Secretaría a través del Centro Estatal de Cancerología, integrará la información demográfica del Registro Estatal de Cáncer de todo el territorio estatal, divido por municipios.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 158 BIS 1.- Los entes integrantes del Sistema Estatal de Salud a los que se refiere el artículo 8 de esta Ley, estarán obligados a proporcionar a la Secretaría a través del Centro Estatal de Cancerología, la información relativa al Registro Estatal de Cáncer de conformidad con los reglamentos, formatos, metodología y lineamientos que se establezcan para tal efecto.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 158 BIS 2.- La Secretaría a través del Registro Estatal de Cáncer, proporcionará la información recabada al Registro Nacional de Cáncer y coadyuvará para implementar los mecanismos necesarios para la recopilación de datos.
+
+### CAPÍTULO IV. ACCIDENTES
 
 ###### ARTÍCULO 159.
 
@@ -2105,7 +2203,7 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 ## TÍTULO DÉCIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPÍTULO III. PROGRAMA CONTRA LA FÁRMACO-DEPENDENCIA
+### CAPÍTULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
 
 ###### ARTÍCULO 160.
 
@@ -2131,7 +2229,7 @@ IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, 
 
 V. Los demás casos que ameriten su estudio y análisis.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTÍCULO 162.
 
@@ -2149,7 +2247,7 @@ V. Reglamentación para el control del consumo del tabaco; y
 
 VI. Las demás que determinen las autoridades competentes.
 
-### CAPÍTULO I. DE LA DONACIÓN DE ÓRGANOS Y TRASPLANTES
+### CAPÍTULO III. PROGRAMA CONTRA LA FÁRMACO-DEPENDENCIA
 
 ###### ARTÍCULO 163.
 
@@ -2186,6 +2284,124 @@ En coordinación con los gobiernos municipales, el Gobierno del Estado determina
 A los establecimientos que vendan o utilicen substancias inhalantes o ingeribles con efectos psicotrópicos que no se ajusten a las medidas de control establecidas por el gobierno estatal y los Ayuntamientos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta Ley.
 
 ## TÍTULO DÉCIMO PRIMERO. PUBLICIDAD EN MATERIA DE SALUD
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 166.
+
+La Secretaría y el Organismo, realizarán acciones de publicidad que se refieran a la salud en coordinación con la Secretaría de Salud del Gobierno Federal, en el territorio del Estado, en los términos de los acuerdos de coordinación celebrados y los que en el futuro celebren.
+
+###### ARTÍCULO 167.
+
+La Secretaría y el Organismo, autorizarán y verificarán la publicidad relacionada con la prestación de servicios de salud, de instrumental y material médico y de productos higiénicos, que cuenten con registro sanitario y de procedimientos de embellecimiento.
+
+###### ARTÍCULO 168.
+
+Corresponderá a la Secretaría y al Organismo, la verificación de la actividad publicitaria de alimentos y bebidas no alcohólicas; productos de aseo, artículos de perfumería, belleza, y cualquier otro que se promueva y que pueda afectar la salud, en los medios de difusión local.
+
+###### ARTÍCULO 169.
+
+El monitoreo de medios publicitarios locales y de la publicidad de bebidas alcohólicas, tabaco, medicamentos de libre venta, plaguicidas, fertilizantes y sustancias tóxicas, le compete a la Secretaría y al Organismo.
+
+> <small>(REFORMADA SE DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2011)</small>
+
+## TÍTULO DÉCIMO SEGUNDO. DONACIÓN, TRANSPLANTES (SIC) Y PÉRDIDA DE LA VIDA
+
+DISPOSICIONES COMUNES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2011)</small>
+
+### CAPÍTULO I. DE LA DONACIÓN DE ÓRGANOS Y TRASPLANTES
+
+###### ARTÍCULO 170.
+
+En lo relativo a la donación, transplantes (sic) y pérdida de la vida, la competencia de la Secretaría y el Organismo, será determinada por los acuerdos de coordinación que se celebren entre el Gobierno Estatal y la Secretaría de Salud a nivel federal.
+
+###### ARTÍCULO 171.
+
+La Secretaría y el Organismo realizarán programas y acciones tendientes a la sensibilización y concientización de la población, que permitan generar una cultura positiva de la donación de órganos.
+
+###### ARTÍCULO 172.
+
+La Secretaría de Educación del Estado de Durango, deberá incluir en los programas de estudio temas relacionados con la donación de órganos.
+
+###### ARTÍCULO 173.
+
+La Secretaría y el Organismo, solicitarán a los medios de comunicación masiva espacios gratuitos para la difusión de campañas orientadas a promover una cultura de la donación de órganos e informar sobre los requisitos que establece la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS.- Compete a los servicios de salud:
+
+I.- El control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado “Centro Estatal de Trasplantes”;
+
+II.- La regulación y el control sanitario sobre cadáveres; y
+
+III.- Establecer, coordinar y dirigir las políticas de salud en materia de donación y trasplante de órganos, tejidos y células, por conducto del “Centro Estatal de Trasplantes”.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 1.- Para efectos de este título se entiende por:
+
+I. Células germinales: a las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
+
+II. Cadáver: al cuerpo humano en el que se compruebe la presencia de los signos de muerte por profesionales de la medicina;
+
+III. Componentes: a los órganos, los tejidos, las células y sustancias que forman el cuerpo humano, con excepción de los productos;
+
+IV. Componentes sanguíneos: a los elementos de la sangre y demás sustancias que la conforman;
+
+V. Destino final: a la conservación permanente, inhumación, incineración, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos, en condiciones sanitarias permitidas por esta ley y demás disposiciones aplicables;
+
+VI. Disponente: a aquel que conforme a los términos de la ley le corresponde decidir sobre su cuerpo o cualquiera de sus componentes en vida y para después de su muerte;
+
+VII. Donador o donante: al que tacita o expresamente consiente la disposición de su cuerpo o componentes para su utilización en trasplantes;
+
+VIII. Embrión: al producto de la concepción a partir de esta, y hasta el término de la duodécima semana estacional;
+
+IX. Feto: al producto de la concepción a partir de la decimotercera semana de edad estacional, hasta la expulsión del seno materno;
+
+X. Órgano: a la entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño de los mismos trabajos fisiológicos;
+
+XI. Producto: a todo tejido o sustancia extruida, excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este título, la placenta y los anexos de la piel;
+
+XII. Receptor: a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
+
+XIII. Tejido: a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función, y
+
+XIV. Trasplante: a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 2.- Los establecimientos de salud que requieren de autorización sanitaria son los dedicados a:
+
+I. La extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células;
+
+II. Los trasplantes de órganos y tejidos; los bancos de órganos, tejidos y células, y
+
+III. Los bancos de sangre y servicios de transfusión.
+
+Los Servicios de Salud otorgaran la autorización a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta ley y demás ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 3.- Los establecimientos a que se refiere el artículo anterior, contaran con un responsable sanitario, quien deberá presentar aviso de su designación ante los Servicios de Salud.
+
+Los establecimientos en los que se extraigan órganos y tejidos o se realicen trasplantes, adicionalmente, deberán contar con un comité interno de trasplantes y con un coordinador de estas acciones, que serán supervisadas por el comité institucional de bioética respectivo. Dichos Comités se sujetaran al reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 4.- Los órganos, tejidos y células no podrán ser sacados del territorio estatal, salvo que estén satisfechas las necesidades de ellos y en casos de urgencia.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 5.- Para el control sanitario de los productos y de la disposición del embrión y de las células germinales, se estará a lo dispuesto en la Ley General de Salud, en lo que resulte aplicable, y en las demás disposiciones generales que al efecto se expidan.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
+
+ARTÍCULO 173 BIS 6.- Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectué sin estar autorizada por esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
 
 ### CAPITULO II. DONACIÓN DE ORGANOS
 
@@ -2248,30 +2464,6 @@ ARTÍCULO 173 BIS 15.- Sólo en caso de que la pérdida de la vida del donante e
 ARTÍCULO 173 BIS 16.- El Centro Estatal de Trasplantes hará constar el mérito y altruismo del donador y de su familia, mediante la expedición del testimonio correspondiente que los reconozca como benefactores de la sociedad.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
-
-###### ARTÍCULO 166.
-
-La Secretaría y el Organismo, realizarán acciones de publicidad que se refieran a la salud en coordinación con la Secretaría de Salud del Gobierno Federal, en el territorio del Estado, en los términos de los acuerdos de coordinación celebrados y los que en el futuro celebren.
-
-###### ARTÍCULO 167.
-
-La Secretaría y el Organismo, autorizarán y verificarán la publicidad relacionada con la prestación de servicios de salud, de instrumental y material médico y de productos higiénicos, que cuenten con registro sanitario y de procedimientos de embellecimiento.
-
-###### ARTÍCULO 168.
-
-Corresponderá a la Secretaría y al Organismo, la verificación de la actividad publicitaria de alimentos y bebidas no alcohólicas; productos de aseo, artículos de perfumería, belleza, y cualquier otro que se promueva y que pueda afectar la salud, en los medios de difusión local.
-
-###### ARTÍCULO 169.
-
-El monitoreo de medios publicitarios locales y de la publicidad de bebidas alcohólicas, tabaco, medicamentos de libre venta, plaguicidas, fertilizantes y sustancias tóxicas, le compete a la Secretaría y al Organismo.
-
-> <small>(REFORMADA SE DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2011)</small>
-
-## TÍTULO DÉCIMO SEGUNDO. DONACIÓN, TRANSPLANTES (SIC) Y PÉRDIDA DE LA VIDA
-
-DISPOSICIONES COMUNES
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO III. TRASPLANTES
 
@@ -2365,97 +2557,25 @@ En los términos que precisen las disposiciones reglamentarias, los establecimie
 
 ARTÍCULO 123 (SIC) BIS 26.- La Secretaría de Salud del Estado, asignará al Centro Estatal de Trasplantes, los recursos económicos necesarios para su operación, funcionamiento y cumplimiento de su programa anual de trabajo.
 
-###### ARTÍCULO 170.
-
-En lo relativo a la donación, transplantes (sic) y pérdida de la vida, la competencia de la Secretaría y el Organismo, será determinada por los acuerdos de coordinación que se celebren entre el Gobierno Estatal y la Secretaría de Salud a nivel federal.
-
-###### ARTÍCULO 171.
-
-La Secretaría y el Organismo realizarán programas y acciones tendientes a la sensibilización y concientización de la población, que permitan generar una cultura positiva de la donación de órganos.
-
-###### ARTÍCULO 172.
-
-La Secretaría de Educación del Estado de Durango, deberá incluir en los programas de estudio temas relacionados con la donación de órganos.
-
-###### ARTÍCULO 173.
-
-La Secretaría y el Organismo, solicitarán a los medios de comunicación masiva espacios gratuitos para la difusión de campañas orientadas a promover una cultura de la donación de órganos e informar sobre los requisitos que establece la Ley General de Salud.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
-
-ARTÍCULO 173 BIS.- Compete a los servicios de salud:
-
-I.- El control sanitario de las donaciones y trasplantes de órganos, tejidos y células de seres humanos, por conducto del órgano desconcentrado “Centro Estatal de Trasplantes”;
-
-II.- La regulación y el control sanitario sobre cadáveres; y
-
-III.- Establecer, coordinar y dirigir las políticas de salud en materia de donación y trasplante de órganos, tejidos y células, por conducto del “Centro Estatal de Trasplantes”.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
-
-ARTÍCULO 173 BIS 1.- Para efectos de este título se entiende por:
-
-I. Células germinales: a las células reproductoras masculinas y femeninas capaces de dar origen a un embrión;
-
-II. Cadáver: al cuerpo humano en el que se compruebe la presencia de los signos de muerte por profesionales de la medicina;
-
-III. Componentes: a los órganos, los tejidos, las células y sustancias que forman el cuerpo humano, con excepción de los productos;
-
-IV. Componentes sanguíneos: a los elementos de la sangre y demás sustancias que la conforman;
-
-V. Destino final: a la conservación permanente, inhumación, incineración, desintegración e inactivación de órganos, tejidos, células y derivados, productos y cadáveres de seres humanos, incluyendo los de embriones y fetos, en condiciones sanitarias permitidas por esta ley y demás disposiciones aplicables;
-
-VI. Disponente: a aquel que conforme a los términos de la ley le corresponde decidir sobre su cuerpo o cualquiera de sus componentes en vida y para después de su muerte;
-
-VII. Donador o donante: al que tacita o expresamente consiente la disposición de su cuerpo o componentes para su utilización en trasplantes;
-
-VIII. Embrión: al producto de la concepción a partir de esta, y hasta el término de la duodécima semana estacional;
-
-IX. Feto: al producto de la concepción a partir de la decimotercera semana de edad estacional, hasta la expulsión del seno materno;
-
-X. Órgano: a la entidad morfológica compuesta por la agrupación de tejidos diferentes que concurren al desempeño de los mismos trabajos fisiológicos;
-
-XI. Producto: a todo tejido o sustancia extruida, excretada o expelida por el cuerpo humano como resultante de procesos fisiológicos normales. Serán considerados productos, para efectos de este título, la placenta y los anexos de la piel;
-
-XII. Receptor: a la persona que recibe para su uso terapéutico un órgano, tejido, células o productos;
-
-XIII. Tejido: a la entidad morfológica compuesta por la agrupación de células de la misma naturaleza, ordenadas con regularidad y que desempeñen una misma función, y
-
-XIV. Trasplante: a la transferencia de un órgano, tejido o células de una parte del cuerpo a otra, o de un individuo a otro y que se integren al organismo.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
-
-ARTÍCULO 173 BIS 2.- Los establecimientos de salud que requieren de autorización sanitaria son los dedicados a:
-
-I. La extracción, análisis, conservación, preparación y suministro de órganos, tejidos y células;
-
-II. Los trasplantes de órganos y tejidos; los bancos de órganos, tejidos y células, y
-
-III. Los bancos de sangre y servicios de transfusión.
-
-Los Servicios de Salud otorgaran la autorización a que se refiere el presente artículo a los establecimientos que cuenten con el personal, infraestructura, equipo, instrumental e insumos necesarios para la realización de los actos relativos, conforme a lo que establezcan las disposiciones de esta ley y demás ordenamientos legales.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
-
-ARTÍCULO 173 BIS 3.- Los establecimientos a que se refiere el artículo anterior, contaran con un responsable sanitario, quien deberá presentar aviso de su designación ante los Servicios de Salud.
-
-Los establecimientos en los que se extraigan órganos y tejidos o se realicen trasplantes, adicionalmente, deberán contar con un comité interno de trasplantes y con un coordinador de estas acciones, que serán supervisadas por el comité institucional de bioética respectivo. Dichos Comités se sujetaran al reglamento respectivo.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
-
-ARTÍCULO 173 BIS 4.- Los órganos, tejidos y células no podrán ser sacados del territorio estatal, salvo que estén satisfechas las necesidades de ellos y en casos de urgencia.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
-
-ARTÍCULO 173 BIS 5.- Para el control sanitario de los productos y de la disposición del embrión y de las células germinales, se estará a lo dispuesto en la Ley General de Salud, en lo que resulte aplicable, y en las demás disposiciones generales que al efecto se expidan.
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2011)</small>
-
-ARTÍCULO 173 BIS 6.- Se considerará disposición ilícita de órganos, tejidos, células y cadáveres de seres humanos, aquella que se efectué sin estar autorizada por esta Ley y demás disposiciones aplicables.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2011)</small>
-
 ### CAPÍTULO II (SIC). CONTROL SANITARIO DE LA DISPOSICIÓN DE SANGRE HUMANA
+
+###### ARTÍCULO 174.
+
+Le corresponde a la Secretaría y al Organismo, en los términos de las funciones descentralizadas a la entidad, organizar, operar, supervisar, evaluar los servicios de control y vigilancia sanitaria de la disposición de sangre, sus componentes, productos y derivados, con fines terapéuticos, docentes y de investigación.
+
+###### ARTÍCULO 175.
+
+Le Corresponde a la Secretaría y al Organismo vigilar el cumplimiento de los sectores social y privado de la Ley General de Salud y sus disposiciones reglamentarias en materia de disposición de sangre humana, quedando facultados para realizar el control y vigilancia sanitaria.
+
+###### ARTÍCULO 176.
+
+El control sanitario de la disposición de sangre humana, se llevará a cabo de conformidad con lo establecido en la Ley General de Salud, la presente Ley, las NOMs y demás disposiciones legales aplicables.
+
+###### ARTÍCULO 177.
+
+La disposición de sangre humana, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de Bancos de Sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones legales aplicables. La sangre se considerará como tejido.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO III. DE LA LIPOSUCCIÓN
 
@@ -2479,35 +2599,11 @@ Para la imposición de sanciones actuará como disposición Supletoria lo previs
 
 ### CAPÍTULO ÚNICO
 
-###### ARTÍCULO 174.
-
-Le corresponde a la Secretaría y al Organismo, en los términos de las funciones descentralizadas a la entidad, organizar, operar, supervisar, evaluar los servicios de control y vigilancia sanitaria de la disposición de sangre, sus componentes, productos y derivados, con fines terapéuticos, docentes y de investigación.
-
-###### ARTÍCULO 175.
-
-Le Corresponde a la Secretaría y al Organismo vigilar el cumplimiento de los sectores social y privado de la Ley General de Salud y sus disposiciones reglamentarias en materia de disposición de sangre humana, quedando facultados para realizar el control y vigilancia sanitaria.
-
-###### ARTÍCULO 176.
-
-El control sanitario de la disposición de sangre humana, se llevará a cabo de conformidad con lo establecido en la Ley General de Salud, la presente Ley, las NOMs y demás disposiciones legales aplicables.
-
-###### ARTÍCULO 177.
-
-La disposición de sangre humana, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos estará a cargo de Bancos de Sangre y servicios de transfusión que se instalarán y funcionarán de acuerdo con las disposiciones legales aplicables. La sangre se considerará como tejido.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2012)</small>
+## TÍTULO DÉCIMO TERCERO. INSUMOS PARA LA SALUD
 
 ### CAPÍTULO ÚNICO. ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
-
-### CAPÍTULO I. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
-
-## TÍTULO DÉCIMO TERCERO. INSUMOS PARA LA SALUD
-
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTÍCULO 178.
 
@@ -2533,7 +2629,9 @@ VII. Las demás que les competan conforme a la presente Ley, y demás disposicio
 
 ## TÍTULO DÉCIMO CUARTO. DEL CONTROL SANITARIO DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS Y ALCOHÓLICAS
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 180.
 
@@ -2547,9 +2645,7 @@ De conformidad con las disposiciones generales aplicables que expida la Secretar
 
 ## TÍTULO DÉCIMO QUINTO. SALUBRIDAD LOCAL
 
-### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTÍCULO 182.
 
@@ -2595,7 +2691,7 @@ El Ejecutivo Estatal publicará en el Periódico Oficial del Estado, las normas 
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente al de su publicación.
 
-### CAPÍTULO V. LIMPIEZA PÚBLICA
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTÍCULO 188.
 
@@ -2605,9 +2701,9 @@ Los vendedores, locatarios y las personas cuya actividad esté vinculada con los
 
 Los establecimientos semifijos y móviles destinados a la venta de alimentos para consumo inmediato, deberán cumplir con las disposiciones generales aplicables y las que se establezcan en el reglamento respectivo.
 
-### CAPÍTULO VI. RASTROS
+### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 190.
 
@@ -2641,7 +2737,7 @@ Cuando los edificios, construcciones o terrenos representen un peligro sanitario
 
 Cuando se pretenda llevar a cabo una construcción en terrenos pantanosos o que hubiesen estado destinados a basureros o cementerios, los interesados deberán comunicar estas circunstancias a la autoridad sanitaria, a fin de que ésta dicte las medidas que juzgue pertinentes con el objeto de evitar riesgos a la salud pública.
 
-### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO V. LIMPIEZA PÚBLICA
 
 ###### ARTÍCULO 197.
 
@@ -2667,7 +2763,9 @@ Los cadáveres deberán inhumarse, incinerarse o embalsamarse entre las doce y l
 
 La Secretaría y el Organismo determinarán el tiempo mínimo que han de permanecer los restos en las fosas. Mientras este plazo no termine, sólo podrán efectuarse las exhumaciones autorizadas por las autoridades sanitarias y las ordenadas por la autoridad judicial, previo cumplimiento de los requisitos sanitarios establecidos.
 
-### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VI. RASTROS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 202.
 
@@ -2695,7 +2793,7 @@ Las autoridades municipales correspondientes, fijarán lugares especiales para d
 
 Los Municipios deberán establecer depósitos de basura en los parques, jardines, paseos y otros lugares de la vía pública que estén dentro de su jurisdicción, además de ordenar la fumigación periódica de los mismos.
 
-### CAPÍTULO IX. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTÍCULO 205.
 
@@ -2715,7 +2813,7 @@ En uso de la prerrogativa referida en el artículo 184 de esta Ley, la COPRISED 
 
 En el reglamento correspondiente se establecerán los requisitos sanitarios relativos a la procedencia, manejo, tratamiento, cuidado y conservación de los animales destinados al sacrificio, así como las medidas de funcionamiento que deberán cumplir los vehículos para transportar a dichos animales.
 
-### CAPÍTULO X. PROSTITUCIÓN
+### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTÍCULO 208.
 
@@ -2749,7 +2847,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 No se podrán verter desechos o líquidos que conduzcan los caños, en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso y consumo humano. En todo caso, deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPÍTULO XI. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPÍTULO IX. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 215.
 
@@ -2759,7 +2857,7 @@ Las condiciones y requisitos sanitarios que deban reunir los establecimientos a 
 
 Para el funcionamiento de los establecimientos a que se refiere este capítulo, se requiere de aviso de funcionamiento.
 
-### CAPÍTULO XII. PREVENCIÓN Y CONTROL DE RABIA EN ANIMALES Y SERES HUMANOS
+### CAPÍTULO X. PROSTITUCIÓN
 
 ###### ARTÍCULO 217.
 
@@ -2771,7 +2869,7 @@ Cuando se trate de enfermedades de emergencia, graves o cuando así lo requiera 
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación social deberán, a partir de que tengan conocimiento de alguna enfermedad transmisible, adoptar las medidas de seguridad sanitaria que procedan para evitar la propagación de la misma, así como llevar a cabo la notificación a que se refiere el artículo 144 de esta Ley.
 
-### CAPÍTULO XIII. DE LAS ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
+### CAPÍTULO XI. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTÍCULO 219.
 
@@ -2793,15 +2891,13 @@ No podrán ejercer la prostitución los menores de edad y las personas que padez
 
 El Estado y los Ayuntamientos elaborarán y ejecutarán programas asistenciales, dirigidos a quienes se dediquen a la prostitución, privilegiando los cursos para la capacitación y el trabajo; debiendo procurar en lo posible la creación de bolsas de trabajo para su incorporación al sector productivo.
 
-### CAPÍTULO I. AUTORIZACIONES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO XII. PREVENCIÓN Y CONTROL DE RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTÍCULO 224.
 
 Para la construcción y acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, se deberán cumplir los requisitos que señala el artículo 185 de esta Ley.
 
-### CAPÍTULO II. REVOCACIONES DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO XIII. DE LAS ACTIVIDADES, ESTABLECIMIENTOS, PRODUCTOS Y SERVICIOS
 
 ###### ARTÍCULO 225.
 
@@ -2835,7 +2931,9 @@ Las autoridades sanitarias, en coordinación con los Ayuntamientos, mantendrán 
 
 Además de los establecimientos a que se refiere el artículo 225 de esta Ley, los Ayuntamientos deberán instalar una perrera para la guarda temporal de estos animales.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO I. AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 229.
 
@@ -2843,9 +2941,7 @@ Los baños públicos, albercas, gimnasios, centros de reunión y espectáculos, 
 
 ## TÍTULO DÉCIMO SEXTO. AUTORIZACIÓN Y CERTIFICADOS
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO II. REVOCACIONES DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 230.
 
@@ -2897,9 +2993,7 @@ Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autor
 
 Los derechos a que se refiere esta Ley, se regirán por lo dispuesto en la legislación fiscal aplicable y los convenios de coordinación que celebren en la materia el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. CERTIFICADOS
 
 ###### ARTÍCULO 240.
 
@@ -2965,7 +3059,7 @@ La COPRISED emitirá la resolución que corresponda al concluir la audiencia o d
 
 La resolución de revocación surtirá efectos de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -2997,7 +3091,9 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TÍTULO DÉCIMO SÉPTIMO. VIGILANCIA SANITARIA
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 252.
 
@@ -3101,7 +3197,9 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TÍTULO DÉCIMO OCTAVO. MEDIDAS DE SEGURIDAD, SANCIONES Y DELITOS
 
-### CAPÍTULO IV. DELITOS
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 264.
 
@@ -3221,9 +3319,7 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general,
 
 ARTÍCULO 276 BIS.- La Secretaría, el Organismo y la COPRISED, en el ámbito de sus competencias, implementarán programas de vigilancia para controlar la expedición o venta de cualquier tipo de medicamentos que se encuentren deteriorados o caducados y que incumplan con los requisitos relativos a su composición, estabilidad y eficacia poniendo así en peligro la salud de las personas.
 
-### CAPÍTULO V. RECURSO DE INCONFORMIDAD
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 277.
 
@@ -3347,7 +3443,11 @@ Esta sanción será procedente si previamente se hubiere dictado cualquier otra 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO VI. PRESCRIPCIÓN
+### CAPÍTULO IV. DELITOS
+
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTÍCULO 292.
 
@@ -3426,6 +3526,8 @@ En caso de que el probable infractor no compareciera dentro del plazo fijado en 
 ###### ARTÍCULO 300.
 
 En los casos de suspensión de trabajos o servicios, o de clausura temporal o definitiva, parcial o total, el personal comisionado para la ejecución procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las verificaciones.
+
+### CAPÍTULO VI. PRESCRIPCIÓN
 
 ###### ARTÍCULO 301.
 
@@ -3831,7 +3933,23 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 30 DE NOVIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 281.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 281.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. EL “DECRETO NO. 320”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 321.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE SALUD DEL ESTADO DE DURANGO, EN MATERIA DE ATENCIÓN INTEGRAL DEL CÁNCER DE MAMA Y CÁNCER CERVICOUTERINO".]
 
 ###### ARTÍCULO PRIMERO.
 
