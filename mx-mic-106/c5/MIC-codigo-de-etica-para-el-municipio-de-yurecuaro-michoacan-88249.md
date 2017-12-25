@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-etica-para-el-municipio-de-yurecuaro-michoacan-88249"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-06-12"
-last_updated: "2012-06-12"
+last_updated: "2017-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MIC"
 ---
 # CODIGO DE ETICA PARA EL MUNICIPIO DE YURECUARO, MICHOACAN
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA Y CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL MUNICIPIO DE YURÉCUARO, MICHOACÁN, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA Y CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL MUNICIPIO DE YURÉCUARO, MICHOACÁN, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE ÉTICA PARA EL MUNICIPIO DE YURÉCUARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 12 de junio de 2012.
 
@@ -240,3 +240,15 @@ SEGUNDA. La inobservancia a cualquiera de las disposiciones contenidas en este C
 TERCERA. El Presidente Municipal, remitirá el presente Reglamento para su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo para su conocimiento y efectos legales.
 
 CUARTA. Una vez en vigencia, publíquese en los estrados del Palkacio (sic) Municipal, asimismo, envíese una copia a la Sindicatura Municipasl (sic) y a la Secretaria del Ayuntamiento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA Y CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL MUNICIPIO DE YURÉCUARO, MICHOACÁN".]
+
+PRIMERO.- El presente Código de Ética y Conducta para los Servidores Públicos del Municipio de Yurécuaro, Michoacán, entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para el caso de los servidores públicos actualmente en funciones, deberán suscribir la carta compromiso referida en artículo 6 del presente Código en un plazo no mayor a ciento ochenta días naturales.
+
+TERCERO.- Se deroga el Código Ética, que fue publicado en el Periódico Oficial del Estado en su Tomo CLIV, Num. 51, Segunda Sección, con fecha el 12 junio de 2012. (Firmados).
