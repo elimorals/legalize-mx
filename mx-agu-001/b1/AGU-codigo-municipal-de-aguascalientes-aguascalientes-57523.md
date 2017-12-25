@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2017-11-13"
+last_updated: "2017-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3277,11 +3277,11 @@ Departamento de Evaluación a Obras Públicas.
 
 Departamento de Evaluación a Servicios Públicos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
-IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
+IX.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO.
 
-Coordinación Administrativa
+Coordinación Administrativa.
 
 Departamento de la Junta Municipal de Reclutamiento.
 
@@ -3295,7 +3295,7 @@ Dirección de Asuntos Internos de Seguridad Pública y Tránsito.
 
 Departamento de Procedimientos, Registro y Estadística.
 
-Departamento de Investigación y Control de Confianza.
+Departamento de Investigación.
 
 Dirección de Asuntos Jurídicos.
 
@@ -3313,7 +3313,7 @@ Dirección de Reglamentos.
 
 Coordinación de Licencias.
 
-Coordinación de Verificación,
+Coordinación de Verificación.
 
 Dirección de Mercados, Estacionamientos y Áreas Comerciales.
 
@@ -3321,7 +3321,7 @@ Departamento de Mercados y Estacionamientos.
 
 Departamento de Áreas Comerciales.
 
-Coordinación Municipal de Protección Civil
+Coordinación Municipal de Protección Civil.
 
 Departamento de Inspección y Capacitación.
 
@@ -8305,7 +8305,7 @@ ARTÍCULO 342 SEXIES.- La facultad inspectora de las actividades sujetas a este 
 
 Los integrantes del H. Ayuntamiento, así como el Secretario del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes podrán ordenar la práctica de visitas de inspección o medidas de vigilancia con el objeto de cuidar y prever la generación indebida del ruido a las prescripciones normativas en las zonas habitacionales.
 
-3 (SIC). El personal de la Secretaría del Medio Ambiente y Desarrollo Sustentable que tenga encomendada la función inspectora tendrá la condición de agentes de la autoridad.
+3. El personal de la Secretaría del Medio Ambiente y Desarrollo Sustentable que tenga encomendada la función inspectora tendrá la condición de agentes de la autoridad.
 
 4. Los propietarios, poseedores y responsables del bien inmueble habitacional emisor de ruidos y vibraciones deberán facilitar a los inspectores de la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes el acceso a su domicilio o focos generadores de ruidos y dispondrán del funcionamiento de las fuentes emisoras del ruido a las distintas velocidades, potencias, cargas o marchas que les indiquen los inspectores, pudiendo presenciar la inspección.
 
@@ -11169,9 +11169,9 @@ La Academia de Policía Municipal tendrá las atribuciones siguientes:
 
 I. Diseñar y coordinar la implementación del Sistema Integral de Desarrollo Policial, así como evaluar los ejes que lo conforman, en los términos que establezca la normativa aplicable;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
-II. Definir las políticas, estrategias y procedimientos para la profesionalización del personal de la Secretaria, en coordinación con las otras direcciones;
+II. Definir las políticas, estrategias y procedimientos para la profesionalización del personal de la Secretaria, en coordinación con las otras direcciones; para que como Institución educativa esté facultada para realizar actividades de educación en los niveles medio y superior a través de bachillerato, carrera técnica superior universitaria, licenciatura y posgrados, de conformidad con las disposiciones legales vigentes en materia de educación.
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -12393,7 +12393,9 @@ En materia de pruebas, para las reglas específicas de ofrecimiento y desahogo d
 
 V. Una vez desahogadas las pruebas, inmediatamente la Dirección de Asuntos Internos de Seguridad Pública procederá a formular, de manera verbal sus conclusiones y determinará la sanción que solicita. El integrante operativo deberá expresar, en forma verbal, los alegatos que a su derecho convengan, de forma inmediata a las conclusiones rendidas por parte de la Dirección. Posterior a la rendición de conclusiones y alegatos, la Comisión de Honor y Justicia declarará cerrada la instrucción del procedimiento;
 
-VI. Después de cerrada la instrucción y en la misma audiencia, la Comisión de Honor y Justicia, por conducto de su Presidente, emitirá su resolución declarando demostradas, o no demostradas, la falta y la responsabilidad del integrante operativo, la cual no podrá ser modificada una vez emitida en la audiencia única. A continuación, el Presidente declarará concluida la audiencia y comunicará al integrante que la resolución escrita, fundada y motivada, en la que se establecerá la sanción, le será notificada en un término no mayor a diez días hábiles. La resolución debidamente fundada y motivada, contendrá la exposición del hecho constitutivo de la falta, las razones por las que se consideró probada la responsabilidad del integrante en su comisión y, tomando en consideración la falta cometida, antigüedad, la jerarquía del integrante operativo y las pruebas desahogadas, la sanción aplicada. La resolución será firmada por todos los integrantes de la Comisión y notificada personalmente al infractor, se remitirá copia certificada a la Dirección de Asuntos Internos y a la Secretaría de Seguridad Pública, para que realice las anotaciones correspondientes en el expediente del integrante operativo y ejecute la sanción;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+VI. Después de cerrada la instrucción y en la misma audiencia, la Comisión de Honor y Justicia, por conducto de su Presidente, emitirá su resolución declarando demostradas, o no demostradas, la falta y la responsabilidad del integrante operativo, la cual no podrá ser modificada una vez emitida en la audiencia única. A continuación, el Presidente declarará concluida la audiencia y comunicará al integrante que la resolución escrita, fundada y motivada, en la que se establecerá la sanción, le será notificada en un término no mayor a diez días hábiles. La resolución debidamente fundada y motivada, contendrá la exposición del hecho constitutivo de la falta, las razones por las que se consideró probada la responsabilidad del integrante en su comisión y, tomando en consideración la falta cometida, antigüedad, la jerarquía del integrante operativo y las pruebas desahogadas, la sanción aplicada. La resolución será firmada por todos los integrantes de la Comisión que asistieron a la sesión y notificada personalmente al infractor, se remitirá copia certificada a la Dirección de Asuntos Internos y a la Secretaría de Seguridad Pública, para que realice las anotaciones correspondientes en el expediente del integrante operativo y ejecute la sanción;
 
 VII. La Comisión de Honor y Justicia levantará constancia por escrito de todo lo actuado en la audiencia única, o bien, lo registrará por métodos de grabación de audio y video; en este supuesto dichas grabaciones tendrán el valor de prueba para todos los efectos legales.
 
@@ -12506,6 +12508,48 @@ XV. Coordinarse con las demás autoridades e instituciones relacionadas con el S
 XVI. Fomentar la vocación de servicio mediante la promoción y permanencia entre los integrantes de la Secretaría, para satisfacer las expectativas de desarrollo profesional del personal; y
 
 XVII. Las demás que de manera implícita o explícita le confieran los instrumentos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 615 BIS.- La Comisión del Servicio Profesional de Carrera Policial seguirá el procedimiento que previene el presente apartado para el trámite de los asuntos de su competencia y cuidando respetar la garantía de audiencia, legalidad y debido proceso que consagra la Constitución Política de los Estados Unidos Mexicanos, de tal modo que se conceda al integrante operativo el derecho a un proceso justo, sujetándose al siguiente procedimiento:
+
+I. El Presidente citará con treinta días hábiles antes de la audiencia de la Comisión del Servicio Profesional de Carrera Policial, a los miembros de ésta y al integrante operativo involucrado, haciéndoles saber la naturaleza y causa del procedimiento a fin de que conozcan los hechos que se le imputan al infractor, corriéndoles traslado con todas las constancias que integran el expediente respectivo y las pruebas que haya, para que el infractor se presente ante dicha Comisión el día y hora señalados, asistido de quien designe para que lo defienda y asesore, aportando los elementos de prueba que juzgue convenientes, apercibido de que en el caso de no ofrecerlos, presentarlos y desahogarlos en la audiencia única se le tendrán por no ofrecidos; de no comparecer o no Justificar la causa legal de su inasistencia se tendrán por ciertos los hechos, y por perdidos los derechos que pudiera haber ejercitado;
+
+II. Abiertos los trabajos de la audiencia, el Secretario Técnico expondrá a la Comisión del Servicio Profesional de Carrera Policial los hechos constitutivos de la falta, así como las pruebas que existieren y, si estuviese presente, se concederá el uso de la voz al integrante operativo de seguridad pública a efecto de que, de considerlo pertinente, manifieste su versión de los hechos;
+
+III. Dentro de la Comisión, el Secretario Técnico, requerirá al integrante operativo de seguridad pública para que, ofrezca los medios de prueba que considere necesarios. Se les admitirán toda clase de pruebas, siempre que puedan ser desahogadas dentro de la audiencia única, excepto la confesional de la autoridad y las que fueren en contra del derecho, la moral y las buenas costumbres;
+
+IV. Cuando las pruebas admitidas dentro del procedimiento requieran de un desahogo especial, los costos y la aportación de los medios para su desahogo serán responsabilidad de quien la ofrezca, por lo que el incumplimiento o falta de preparación o la voluntad de tercero que hagan imposible el desahogo en el día y hora de la audiencia única será causa suficiente para declarar desierta la prueba, salvo que en el transcurso del procedimiento y hasta antes del cierre de la instrucción, aparecieren pruebas supervinientes.
+
+En materia de pruebas, para las reglas específicas de ofrecimiento y desahogo de pruebas, seré aplicable, en forma supletoria, el Código de Procedimientos Civiles vigente en el Estado de Aguascalientes, en lo que no contradiga el presente procedimiento;
+
+V. Una vez desahogadas las pruebas, el integrante operativo deberá expresar, en forma verbal, los alegatos qua a su derecho convengan, posterior a la rendición de conclusiones y alegatos; la Comisión del Servicio Profesional de Carrera Policial declarará cerrada la instrucción del procedimiento;
+
+VI. Después de cerrada la instrucción y en la misma audiencia, la Comisión, por conducto de su Presidente, emitirá su resolución declarando demostradas, o no demostradas, la falta y la responsabilidad del integrante operativo, la cual no podrá ser modificada una vez emitida en la audiencia única. A continuación, el Presidente declarará concluida la audiencia y comunicará al integrante que la resolución escrita, fundada y motivada, en la que se establecerá la sanción, le será notificada en un término no mayor a diez días hábiles. La resolución debidamente fundada y motivada, contendrá la exposición del hecho constitutivo de la falta, las razones por las que se consideró probada la responsabilidad del integrante en su comisión y, tomando en consideración la falta cometida, antigüedad, la jerarquía del Integrante operativo y las pruebas desahogadas, la sanción aplicada. La resolución será firmada por todos los integrantes de la Comisión que asistieron a la sesión y notificada personalmente al infractor, se remitirá copia certificada a la Secretaría de Seguridad Pública, para que realice las anotaciones correspondientes en el expediente del integrante operativo y ejecute la sanción;
+
+VII. La Comisión del Servicio Profesional de Carrera Policial levantará constancia por escrito de todo lo actuado en la audiencia única, o bien, lo registrará por métodos de grabación de audio y video; en este supuesto dichas grabaciones tendrán el valor de prueba para todos los efectos legales.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 615 TER.- En el momento de la citación para la audiencia única, el notificador requerirá al o los integrantes operativos para que designe domicilio para oír y recibir notificaciones, apercibiéndosele de que, en caso de no designar, no ser cierto el domicilio señalado o no dar aviso del cambio, las subsecuentes notificaciones, aún las de carácter personal, le serán hechas en los estrados del Palacio Municipal, así como en los estrados de la Secretaría de Seguridad Pública Municipal.
+
+A las notificaciones derivadas del presente procedimiento le será aplicable lo dispuesto por el apartado de notificaciones establecido en el Código de Procedimientos Civiles vigente en el Estado de Aguascalientes, en lo que no contravenga el presente procedimiento.
+
+En caso de que el integrante operativo se negare a firmar la notificación, el notificador podrá dar fe de dicha conducta y así asentarlo en la cédula da notificación. Dicha negativa no afectará la validez de la notificación realizada.
+
+Ésta disposición será aplicable a cualquiera de las notificaciones que se realicen durante el procedimiento previsto en este apartado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 615 QUATER.- La resolución de responsabilidad y la aplicación de sanciones serán tomadas por la Comisión del Servicio Profesional de Carrera Policial, por mayoría de votos de los presentes, la votación en el seno de la Comisión, será de manera abierta y razonada por sus integrantes, el Presidente tendrá voto de calidad en caso de empate. Para la declaración del quórum legal será necesaria la presencia de seis integrantes con voto, de lo contrario no se podrá llevar a cabo la audiencia única.
+
+Las atribuciones de la Comisión del Servicio Profesional de Carrera Policial se ejercerán sin perjuicio de las que correspondan al Presidente Municipal, al Secretario del H. Ayuntamiento y Director General de Gobierno, al Secretario de Seguridad Pública, al Contralor Municipal y a las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 615 QUINQUIES.- El Presidente a través del Secretario Técnico dirigirá el desarrollo de la audiencia única y dictará los acuerdos de mero trámite en la misma, cuidando en todo momento el cumplimiento de las formalidades esenciales, de igual manera cuenta con atribuciones para certificar toda clase de documentos que obren en los archivos de la Comisión del Servicio Profesional de Carrera.
+
+Contra las determinaciones dictadas por el Presidente a través del Secretario Técnico durante la audiencia única, procederá la interposición de incidentes para revocar dichas determinaciones de manera verbal, en forma inmediata al acto que lo motiva y se resolverá sin sustanciación alguna, por el Presidente de la Comisión; contra la resolución del incidente no habrá recurso alguno.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -20513,7 +20557,9 @@ las Zonas Especiales, corresponden al polígono denominado Zona de Protección H
 
 El referido polígono denominado Zona de Protección Histórico Patrimonial de la Ciudad de Aguascalientes, está definido y delimitado en términos del Decreto Presidencial publicado en el Diario Oficial de la Federación en fecha 19 de diciembre de 1990, que establece lo siguiente:
 
-Perímetro "A".- Partiendo del punto identificado con el número (1), ubicado en el cruce de los ejes de las calles Pedro Parga y López Velarde, continúa hacia el sur por el eje de la calle López Velarde, hasta llegar al cruce con la calle Primo Verdad (2), continúa hacia el poniente por el eje de la calle Primo Verdad, hasta llegar al cruce de la calle Hidalgo (3), continúa hacia el sur por la calle Hidalgo hasta el cruce con la calle Hospitalidad (4), continúa hacia el poniente por el eje de la calle Hidalgo hasta el cruce de la calle Morelos (5), continúa por la calle Morelos en dirección sur hasta el cruce de la avenida Francisco I. Madero (6), continúa en dirección oriente por la avenida Francisco I. Madero hasta llegar al cruce con la calle Hidalgo (7), continúa por la calle Hidalgo en dirección sur hasta el cruce con la calle Juan de Montoro (8), continúa en dirección oriente hasta el cruce con la calle 16 de septiembre (9), continúa por la calle 16 de septiembre en dirección sur hasta el cruce con la calle Hornedo (10), continúa por la calle Hornedo en dirección poniente hasta llegar al cruce con la calle Galeana (11), continúa por la calle Galeana en dirección norte hasta el cruce con la calle Insurgentes (12), continúa por la calle Insurgentes en dirección poniente hasta el cruce con la calle Guerrero (13), continúa en dirección norte por la calle Guerrero hasta el cruce con la calle Nieto (14), continúa por la calle Nieto en dirección poniente hasta el cruce con la calle J. Pani (15), continúa en dirección norte por el eje de la calle J. Pani hasta el cruce con la calle Manuel M. Ponce (16), continúa por la calle de Manuel M. Ponce en dirección poniente hasta el cruce con la calle Monroy (17), continúa por la calle Monroy en dirección norte hasta el cruce con la calle Esparza Oteo (18), continúa en dirección oriente por el eje de la calle Esparza Oteo hasta llegar al cruce de la calle Antonio Arias Bernal (19), continúa por la calle Antonio Arias Bernal en dirección norte hasta llegar al cruce con la calle Emiliano Zapata (20), continúa por el eje de la calle Emiliano Zapata en dirección oriente hasta llegar al cruce de la calle Eduardo J. Correa (21), continúa por la calle Eduardo J. Correa en dirección sur hasta llegar al cruce con la calle de Allende (22), continúa por el eje de la calle Allende en dirección oriente hasta llegar al cruce con la calle Morelos (23), continúa por la calle Morelos en dirección norte hasta llegar al cruce de la calle Pedro Parga (24), continúa por la calle Pedro Parga en dirección oriente hasta llegar al cruce con la calle López Velarde (1), cerrándose así éste perímetro.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+Perímetro "A".- Partiendo del punto identificado con el número (1), ubicado en el cruce de los ejes de las calles Pedro Parga y López Velarde continúa hacia el sur por el eje de la calle López Velarde, hasta llegar al cruce con la calle Primo Verdad (2), continúa hacia el poniente por el eje de la calle Primo Verdad, hasta llegar al cruce de la calle Hidalgo (3), continúa hacia el sur por la calle Hidalgo hasta el cruce con la calle Hospitalidad (4), continúa hacia el poniente por el eje de la calle Hidalgo hasta el cruce de la calle Morelos (5), continúa por la calle Morelos en dirección sur hasta el cruce de la avenida Francisco I. Madero (6), continúa en dirección oriente por la avenida Francisco I. Madero hasta llegar al cruce con la calle Hidalgo (7), continúa por la calle Hidalgo en dirección sur hasta el cruce con la calle Juan de Montoro (8), continúa en dirección oriente hasta el cruce con la calle 16 de septiembre (9), contínua por la calle 16 de septiembre en dirección sur hasta el cruce con la calle de Hornedo (10), continúa por la calle Hornedo en dirección poniente hasta llegar al cruce con la calle Galeana (11), continúa por la calle Galeana en dirección norte hasta el cruce con la calle Insurgentes (12), continúa por la calle Insurgentes en dirección poniente hasta el cruce con la calle Guerrero (13), continúa en dirección norte por la calle Guerrero hasta el cruce con la calle Nieto (14), continúa por la calle Nieto en dirección poniente hasta el cruce con la calle J. Pani (15), continúa en dirección norte por el eje de la calle J. Pani hasta el cruce con la calle Manuel M. Ponce (16), continúa por la calle de Manuel M. Ponce en dirección poniente hasta el cruce con la calle Monroy (17), continúa por la calle Monroy en dirección norte hasta el cruce con la calle Esparza Oteo (18), continúa en dirección oriente por el eje de la calle Esparza Oteo hasta llegar al cruce de la calle Antonio Arias Bernal (19), continúa por la calle Antonio Arias Bernal en dirección norte hasta llegar al cruce con la calle Emiliano Zapata (20), continúa por el eje de la calle Emiliano Zapata en dirección oriente hasta llegar al cruce de la calle Eduardo J. Correa (21), continúa por la calle Eduardo J. Correa en dirección sur hasta llegar al cruce con la calle de Allende (22), continúa por el eje de la calle Allende en dirección oriente hasta llegar al cruce con la calle Morelos (23), continúa por la calle Morelos en dirección norte hasta llegar al cruce de la calle Pedro Parga (24), continúa por la calle Pedro Parga en dirección oriente hasta llegar al cruce con la calle López Velarde (1), cerrándose así éste perímetro el cual, para efectos de lo dispuesto en el artículo 162 del Código Electoral del Estado de Aguascalientes, constituirá el primer cuadro de nuestra cabecera municipal.
 
 Perímetro "A.1".- Partiendo del punto identificado con el numeral (25), ubicado en el cruce de los ejes de las calles Vicenta Trujillo y Doctor Díaz de león, continúa por el eje de la calle Doctor Díaz de león en dirección sur hasta llegar al cruce con la paralela al paramento norte de la manzana 511, localizada a 30 metros de dicho paramento (26), continúa en dirección recta y al poniente por la paralela al paramento norte de la manzana 511 a 30 metros de dicho paramento hasta el cruce con el eje de la calle Cristóbal Colón (27), continúa por el eje de la calle Cristóbal Colón en dirección norte hasta llegar al cruce con la calle Vicenta Trujillo (28), continúa por la calle Vicenta Trujillo en dirección oriente hasta el cruce con la calle Doctor Díaz de león (25), para cerrarse así éste perímetro las características específicas de la Zona de Monumentos Históricos, materia de la citada declaratoria, son las siguientes:
 
@@ -27388,6 +27434,24 @@ P.O. 13 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
 
 ÚNICO.- Las presentes reformas y adiciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE REFORMA EL ARTÍCULO 1262 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]</small>
+
+ÚNICO.- La presente reforma iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO POR EL QUE “SE REFORMAN LOS ARTÍCULOS 559, 610, 615 BIS, 615 TER, 615 QUATER Y 615 QUINQUIES DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE "SE REFORMAN LOS ARTÍCULOS 8° Y 98 DEL REGLAMENTO DE LA DIRECCIÓN DE ASUNTOS INTERNOS DE SEGURIDAD PÚBLICA Y TRÁNSITO, ADSCRITA A LA SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO".]</small>
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ###### ARTICULO UNICO.
 
