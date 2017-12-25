@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-para-los-municipios-del-estado-de-hidalgo-83952
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-21"
-last_updated: "2017-10-23"
+last_updated: "2017-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -148,8 +148,6 @@ VI.- Los usufructuarios de bienes inmuebles;
 VII.- Los comisariados o representantes ejidales en los términos de la ley de la materia; y,
 
 VIII.- Los adquirentes de predios en relación al impuesto y sus accesorios insolutos a la fecha de la adquisición; en todo caso los predios quedarán preferentemente afectados al pago del impuesto y sus accesorios, independientemente de quien detente la propiedad o posesión de los mismos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -381,8 +379,6 @@ IV.- Naturaleza del acto o concepto de la adquisición;
 
 V.- Publicación, nomenclatura, superficie y linderos del predio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 VI.- Antecedentes de propiedad del inmueble en el Registro Público de la Propiedad y del Comercio;
@@ -407,7 +403,9 @@ En los casos en que la transmisión de la propiedad opere como consecuencia de u
 
 La declaración deberá acompañarse, además de lo señalado en los párrafos anteriores, de una constancia que expida la Tesorería Municipal en el mismo bimestre del calendario en que se presente dicha declaración o en el bimestre anterior, de que el propietario del inmueble objeto del traslado de dominio no tiene ningún adeudo en relación con ese propio inmueble, por concepto de impuestos, derechos o multas que graven los bienes inmuebles en los términos de esta Ley o de otras leyes de carácter local.
 
-Las declaraciones a que se refiere este Artículo se harán en las formas oficiales que apruebe la Tesorería Municipal y se presentarán dentro de un plazo de 20 días naturales, contados:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+Las declaraciones a que se refiere este artículo se harán en las formas oficiales que apruebe la Tesorería Municipal y se presentarán dentro de un plazo de 20 días hábiles, contados:
 
 a).- A partir de la fecha de la autorización preventiva de la escritura pública o la fecha del contrato privado en su caso;
 
@@ -415,9 +413,13 @@ b).- Cuando se trate de cesión de derechos hereditarios efectuados antes de que
 
 c).- Tratándose de compra-venta con reserva de dominio o cualesquiera otros contratos traslativos de dominio sujetos a condición suspensiva, a partir de la fecha de autorización preventiva de la escritura pública en que se haga constar el cumplimiento de la condición para que la transmisión opere, o de la fecha del documento privado en que se exprese dicha constancia;
 
-d).- Tratándose de la adquisición de la propiedad de bienes inmuebles en virtud de prescripción o de remate, judicial o administrativo, el plazo será de sesenta días contados a partir de la fecha en que hubiera causado ejecutoria la resolución judicial respectiva, si se trata de prescripción o de la fecha en que hubiere quedado firme el auto que fincó el remate;
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
-e).- En los casos de traslación de dominio, como consecuencia de sentencias judiciales, el término será de sesenta días contados a partir de la fecha en que dicha sentencia hubiera causado ejecutoria.
+d) Tratándose de la adquisición de la propiedad de bienes inmuebles en virtud de prescripción o de remate, judicial o administrativo, el plazo será de setenta días hábiles contados a partir de la fecha en que hubiera causado ejecutoria la resolución judicial respectiva, si se trata de prescripción o de la fecha en que hubiere quedado firme el auto que fincó el remate;
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+e) En los casos de traslación de dominio, como consecuencia de sentencias judiciales, el término será de setenta días hábiles contados a partir de la fecha en que dicha sentencia hubiera causado ejecutoria.
 
 ###### ARTÍCULO 34.
 
@@ -430,8 +432,6 @@ II.- A la adjudicación de los bienes de la sucesión o a los tres años de la m
 III.- Tratándose de adquisiciones efectuadas a través de fideicomisos, cuando se realicen los supuestos de la enajenación, en los términos del Código Fiscal de la Federación;
 
 IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva; y,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -476,8 +476,6 @@ No se pagará este impuesto en los siguientes casos:
 I.- En las adquisiciones por las instituciones de asistencia o de beneficencia, autorizadas por las leyes de la materia, instituciones públicas de enseñanza, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación por los bienes destinados exclusivamente a sus fines educativos;
 
 II.- En las adquisiciones que se realicen al constituir o disolver la sociedad conyugal; así como en el acto en que se cambien las capitulaciones matrimoniales. No queda incluida en esta fracción la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -639,7 +637,7 @@ En dicho convenio se establecerá que la base de este derecho será el total del
 
 En todo caso, la tasa aplicable no podrá ser superior al diez por ciento de la cuota a pagar por el consumo generado por el beneficiario.
 
-###### Articulo 66.
+###### ARTÍCULO 66.
 
 El convenio a que se refiere el Artículo anterior deberá ser sancionado por el Congreso del Estado y Publicado en el Periódico Oficial del Estado.
 
@@ -662,8 +660,6 @@ Los montos correspondientes deberán estar determinados en la Ley de Ingresos de
 ###### ARTÍCULO 70.
 
 Una vez instalados los medidores, el pago de los derechos por consumo de agua potable se determinara de conformidad con las cuotas y tarifas establecidas en la Ley de Ingresos para cada Municipio de conformidad con el Artículo 5o de este ordenamiento, salvo el supuesto previsto en el Artículo 71 de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -1842,5 +1838,11 @@ TERCERO.- El valor de la Unidad de Medida y Actualización será determinado con
 P.O. 23 DE OCTUBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 235 QUE ADICIONA EL ARTÍCULO 12 BIS Y REFORMA EL ARTÍCULO 98 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO; ASÍ COMO EL ARTÍCULO 25 DE LA LEY ESTATAL DE DERECHOS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 243 QUE REFORMA EL PÁRRAFO SÉPTIMO Y LOS INCISOS D) Y E) DEL ARTÍCULO 33 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
