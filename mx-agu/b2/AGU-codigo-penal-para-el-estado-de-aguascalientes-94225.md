@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2017-08-21"
+last_updated: "2017-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -280,6 +280,22 @@ III. Cuando en situación de peligro grave, actual o inminente, para un bien jur
 IV. Cuando se afecte a una persona en cumplimiento de un deber jurídico, siempre y cuando no exista el sólo propósito de causarle daño; o
 
 V. Cuando se actúa por obediencia legítima y jerárquica, aún cuando la orden constituya comisión de un hecho delictivo, si esta circunstancia no es notoria, ni se prueba que el sujeto activo la conocía, ni era previsible racionalmente.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+Se justificará igualmente la conducta típica y antijurídica, cuando se cause, a la persona o las personas, un daño suficiente para evitar la introducción o los actos idóneos tendientes a introducirse, sin derecho, a su negocio, su hogar o sus dependencias, a los de su familia, a los de cualquier persona que tenga el deber de defender, o al sitio donde se encuentren bienes jurídicos propios o ajenos sobre los que tenga la misma obligación.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+También se justificará la conducta típica y antijurídica, cuando se cause un daño suficiente para evitar cualquier agresión real, actual e inminente, que se cometa en el interior o en las dependencias de una negociación o de una casa habitación.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+Para determinar la relación de suficiencia en los supuestos descritos en los dos párrafos anteriores, se tomará en cuenta la furtividad y la violencia que, sobre las personas o sobre las cosas, haya ejercido el agresor para introducirse al inmueble o que ejerza para mantenerse dentro de él.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+En los casos de exceso de legítima defensa se impondrá una cuarta parte de la sanción prevista para el delito de que se trate, quedando subsistente la imputación a título doloso.
 
 ### CAPÍTULO V. Culpabilidad
 
@@ -1135,17 +1151,17 @@ Existen razones de género cuando se presente cualquiera de los supuestos establ
 
 Hostigamiento sexual. El Hostigamiento Sexual consiste en:
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
-I. El asedio que se haga, con fines lascivos, sobre personas de cualquier sexo por quien se aproveche de su posición jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier otra clase, que implique subordinación de parte de la víctima;
+I. El asedio que se haga con fines lascivos, sobre cualquier persona por quien se aproveche de su posición jerárquica, derivada de relaciones laborales, docentes, domésticas o de cualquier otra clase, que implique subordinación de parte de la víctima;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
-II. El asedio con fines lascivos para sí o por tercera persona, a personas de cualquier sexo, aprovechándose de cualquier circunstancia de necesidad o de desventaja de la víctima;
+II. El asedio con fines lascivos, para sí o por tercera persona, a cualquier persona, aprovechándose de cualquier circunstancia de necesidad o de desventaja de la víctima;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
-III. El asedio que se haga, con fines lascivos, sobre personas en espacios o establecimientos públicos, que afecte o perturben el derecho a la integridad física, psíquica y moral o el derecho al libre tránsito; causándole intimidación, degradación, humillación o un ambiente ofensivo; o
+III. El asedio que se haga con fines lascivos, sobre cualquier persona en espacios o establecimientos públicos, que afecte o perturben el derecho a la integridad física, psíquica y moral o el derecho al libre tránsito; causándole intimidación, degradación, humillación o un ambiente ofensivo; o
 
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -1933,11 +1949,15 @@ Al responsable de Usurpación de Profesiones se le aplicarán de 6 meses a 5 añ
 
 ### CAPÍTULO X. Tipos Penales Protectores de la Administración Pública
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 163 A.- Para los efectos de este Código, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, organismos públicos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, empresas productivas del Estado, en los órganos autónomos constitucionales, en el Congreso del Estado, en el Poder Judicial del Estado, o aquellos que manejen recursos económicos públicos. Las disposiciones contenidas en el presente Capítulo, son aplicables al Gobernador del Estado, a los Diputados, a los Magistrados del Supremo Tribunal de Justicia del Estado, por la comisión de los delitos previstos en este Capítulo, en materia estatal; y a los Presidentes Municipales, Regidores y Síndicos en materia municipal.
+
 > <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
 
-ARTÍCULO 163 A.- Para los efectos de este Código, es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, organismos públicos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, empresas productivas del Estado, en los órganos autónomos constitucionales, en el Congreso del Estado, o en el Poder Judicial del Estado, o que manejen recursos económicos públicos. Las disposiciones contenidas en el presente Capítulo, son aplicables al Gobernador del Estado, a los Diputados y a los Magistrados del Supremo Tribunal de Justicia del Estado, por la comisión de los delitos previstos en este Capítulo, en materia estatal.
-
 Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Capítulo
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
 
 De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, así como para participar en adquisiciones, arrendamientos, servicios u obras públicas, concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado por un plazo de uno a veinte años, atendiendo a los siguientes criterios:
 
@@ -1946,6 +1966,8 @@ I. Será por un plazo de uno hasta diez años cuando no exista daño o perjuicio
 II. Será por un plazo de diez a veinte años si dicho monto excede el límite señalado en la fracción anterior.
 
 Para efectos de lo anterior, el juez deberá considerar, en caso de que el responsable tenga el carácter de servidor público, además de lo previsto en el artículo 163 Ter de este Código, los elementos del empleo, cargo o comisión que desempeñaba cuando incurrió en el delito.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
 
 Cuando el responsable tenga el carácter de particular, el juez deberá imponer la sanción de inhabilitación para desempeñar un cargo público, así como para participar en adquisiciones, arrendamientos, concesiones, servicios u obras públicas, considerando, en su caso, lo siguiente:
 
@@ -1957,7 +1979,11 @@ III. Las condiciones exteriores y los medios de ejecución; y
 
 IV. El monto del beneficio que haya obtenido el responsable.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
+
 Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2017)</small>
 
 Cuando los delitos a que se refieren los artículos 169, 173, 174, 175 y 176 Bis del presente Código sean cometidos por servidores públicos electos popularmente o cuyo nombramiento este sujeto a ratificación del Congreso del Estado, las penas previstas serán aumentadas hasta en un tercio.
 
@@ -1983,9 +2009,11 @@ Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confian
 
 ARTÍCULO 163 C.- Cuando los delitos a que se refieren los artículos 169, 170 y 173 del presente Código, sean cometidos por servidores públicos miembros de alguna corporación policiaca las penas previstas serán aumentadas hasta en una mitad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 164.
 
-Ejercicio indebido del propio derecho. El Ejercicio Indebido del Propio Derecho consiste en el empleo de la violencia física o moral, o la furtividad, para hacer efectivo un derecho o pretendido derecho que puede ejercitarse por vía legal.
+Ejercicio indebido del propio derecho. El Ejercicio Indebido del Propio Derecho consiste en el empleo de la violencia física o moral, la furtividad, el hostigamiento o la intimidación para hacer efectivo un derecho o pretendido derecho que puede ejercitarse por vía legal.
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -3035,8 +3063,16 @@ Para tal efecto, el Ejecutivo Estatal y el Congreso del Estado proveerán los re
 
 P.O. 21 DE AGOSTO DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 127.- SE ADICIONA Y REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 127.- SE ADICIONA Y REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 218.- SE REFORMAN LOS ARTÍCULOS 114, 163 Y 164; Y SE ADICIONA EL ARTÍCULO 27, DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado de Aguascalientes.
