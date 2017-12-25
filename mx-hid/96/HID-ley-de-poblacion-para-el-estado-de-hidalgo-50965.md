@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2016-08-15"
+last_updated: "2017-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -37,7 +37,7 @@ QUE CONTIENE LA LEY DE POBLACION PARA EL ESTADO DE HIDALGO.
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado Libre y Soberano de Hidalgo; D E C R E T A:
 
-.
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -171,7 +171,7 @@ VI.- Promover la incorporación de contenidos de educación sexual y salud repro
 
 > <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
-VIl.- Promover la plena integración de la mujer, al proceso productivo, político, educativo, social y cultural, logrando una igualdad de género;
+VII.- Promover la plena integración de la mujer, al proceso productivo, político, educativo, social y cultural, logrando una igualdad de género;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2012)</small>
 
@@ -265,9 +265,11 @@ Para el diseño y actualización del Programa Estatal de Población, el CONSEJO 
 
 En cada uno de los Municipios del Estado, se integrará un Consejo Municipal de Población, el cual tendrá a su cargo la responsabilidad, en el ámbito de sus respectivas competencias, de los programas, subprogramas, objetivos y acciones que sobre Población se coordinen y realicen en el marco del Programa.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 23.
 
-El Consejo Municipal de Población estará integrado por un Presidente, que será el Presidente Municipal, un Vicepresidente, un Secretario Técnico y por Regidores, que se determinarán en el seno del propio Consejo Municipal, previo acuerdo de la mayoría de los integrantes. Se podrá invitar a quien se estime que con sus opiniones pueda coadyuvar al cumplimiento de los objetivos.
+El Consejo Municipal de Población estará integrado por un Presidente, que será el Presidente Municipal, un Secretario Técnico, por Regidores y miembros de la Administración Pública Municipal que atiendan lo relativo a las vertientes de salud, familia, equidad de género, desarrollo económico y medio ambiente, cuyo número de integrantes se determinará por la propia reglamentación que se disponga en cada Ayuntamiento. Se podrá invitar a quien se estime que con sus opiniones pueda coadyuvar al cumplimiento de los objetivos.
 
 Las funciones de los integrantes del Consejo serán honoríficas.
 
@@ -309,7 +311,7 @@ La orientación se hará a través de grupos multidisciplinarios.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2016)</small>
 
-### CAPÍTULO VIl. DE LA MUJER Y LA IGUALDAD DE GÉNERO
+### CAPÍTULO VII. DE LA MUJER Y LA IGUALDAD DE GÉNERO
 
 ###### Artículo 26.
 
@@ -373,7 +375,7 @@ I.- Culturales;
 
 II.- Económicos;
 
-IIl.- Políticos;
+III.- Políticos;
 
 IV.- Tradicionales; y
 
@@ -405,7 +407,7 @@ TERCERO.- El Reglamento de la presente Ley, deberá emitirse en un plazo no mayo
 
 CUARTO.- Se derogan todas las disposiciones que contravengan lo previsto en esta Ley.
 
-AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTICULO 51 DE LA CONSTlTUCION POLITICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS TRECE DIAS DEL MES DE JUNIO DEL AÑO DOS MIL SEIS.
+AL EJECUTIVO DE LA ENTIDAD PARA LOS EFECTOS DEL ARTICULO 51 DE LA CONSTITUCION POLITICA DEL ESTADO DE HIDALGO.- DADO EN LA SALA DE SESIONES DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE PACHUCA DE SOTO, HGO., A LOS TRECE DIAS DEL MES DE JUNIO DEL AÑO DOS MIL SEIS.
 
 PRESIDENTA
 
@@ -419,7 +421,7 @@ SECRETARIA
 
 DIP. LAURA SANCHEZ YONG
 
-EN USO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTICULOS 51 Y 71 FRACCION I DE LA CONSTITUCION POLITICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLlMIENTO.
+EN USO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTICULOS 51 Y 71 FRACCION I DE LA CONSTITUCION POLITICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTISIETE DIAS DEL MES DE JUNIO DEL AÑO DOS MIL SEIS.
 
@@ -427,7 +429,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 22 DE OCTUBRE DE 2012.
 
@@ -440,3 +442,9 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 241 QUE REFORMA EL ARTÍCULO 23 DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
