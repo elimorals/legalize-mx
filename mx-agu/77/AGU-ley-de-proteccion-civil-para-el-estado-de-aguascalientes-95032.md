@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-95032"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-08"
-last_updated: "2017-10-16"
+last_updated: "2017-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -171,7 +171,9 @@ Esta disposición se observará sin perjuicio de lo que se establece en la norma
 
 Es obligación de las instituciones y entidades del sector público, privado y social, en los casos que se determinen por la Coordinación:
 
-I. Garantizar la capacitación a su personal en materia de protección civil;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+I. Garantizar la capacitación teórica y práctica a su personal en materia de protección civil;
 
 II. Atender las demandas propias de capacitación en materia de prevención;
 
@@ -205,7 +207,9 @@ VII. La contratación de seguros y demás instrumentos de administración y tran
 
 VIII. Aprobar, publicar y vigilar la ejecución de los programas institucionales;
 
-IX. Vigilar, mediante las dependencias y entidades competentes, conforme a las disposiciones legales aplicables, que no se autoricen centros de población en zonas de riesgo y, de ser el caso, se notifique a las autoridades competentes para que proceda a su desalojo, así como al deslinde de las responsabilidades en las que incurren por la omisión y complacencia ante dichas irregularidades;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+IX. Vigilar, mediante las dependencias y entidades competentes, conforme a las disposiciones legales aplicables, que no se autoricen centros de población en zonas de riesgo y, de ser el caso, se notifique a las autoridades competentes para que proceda a su desalojo, así como al deslinde de las responsabilidades en las que incurren por la omisión y complacencia ante dichas irregularidades, debiendo publicar anualmente en el Periódico Oficial del Estado de Aguascalientes, la ubicación y delimitación de las zonas de riesgo;
 
 X. Coadyuvar con las Autoridades Federales en la integración del Sistema Nacional de Protección Civil y en la ejecución del Programa Nacional correspondiente en la Entidad;
 
@@ -301,9 +305,17 @@ Toda persona física o moral deberá:
 
 I. Informar a las autoridades competentes de cualquier riesgo, siniestro o desastre que se presente, así como de las que puedan presentarse;
 
-II. Cooperar con las autoridades correspondientes para programar las acciones a ejecutar en caso de alto riesgo, siniestro o desastre; y
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
-III. Colaborar con las autoridades estatales, municipales y organismos intermedios para el debido cumplimiento de los programas de protección civil.
+II. Cooperar con las autoridades correspondientes para programar las acciones a ejecutar en caso de alto riesgo, siniestro o desastre;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+III. Colaborar con las autoridades estatales, municipales y organismos intermedios para el debido cumplimiento de los programas de protección civil; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+IV. Participar en las capacitaciones y simulacros que establezcan las autoridades competentes; así como promover la realización de los mismos, para beneficio de sus trabajadores.
 
 ###### ARTÍCULO 15.
 
@@ -649,7 +661,9 @@ IX. Proporcionar información, dar asesoría a las empresas, instituciones u org
 
 X. Llevar el registro, prestar asesoría y coordinar a los grupos de voluntarios;
 
-XI. Integrar la red de comunicación que permita reunir informes sobre condiciones de alto riesgo, alertar a la población, convocar a los grupos voluntarios y en general dirigir las operaciones del Sistema Estatal;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+XI. Integrar la red de comunicación que permita reunir informes sobre condiciones de alto riesgo, alertar a la población, convocar a los grupos voluntarios y en general dirigir las operaciones del Sistema Estatal, habilitando entre otros medios, una aplicación informática que se diseñe para ejecutarla con teléfonos inteligentes, tabletas y otros tipos de dispositivos móviles;
 
 XII. Establecer y operar los centros de acopio para recibir y administrar ayuda a la población afectada por un siniestro o desastre; así como vigilar y disponer que todos los centros de acopio establecidos en la Entidad, por personas físicas o morales, destinen la ayuda recibida a la población afectada, estableciendo mecanismos ágiles de control en recepción y destino para su recepción;
 
@@ -837,9 +851,11 @@ III. De Recuperación.
 
 Los Subprogramas deberán contemplar los fenómenos perturbadores según su origen en: geológicos, hidrometeorológicos, químico-tecnológicos, sanitario-ecológicos y socio-organizativos.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 59.
 
-El subprograma de Prevención agrupará las acciones de protección civil tendientes a evitar o mitigar los efectos o bien, a disminuir la realización de hechos de alto riesgo, siniestro o desastre; y promover el desarrollo de la cultura de protección civil en la comunidad.
+El subprograma de Prevención agrupará las acciones de protección civil tendientes a evitar o mitigar los efectos o bien, a disminuir la realización de hechos de alto riesgo, siniestro o desastre; y promover el desarrollo de la cultura de protección civil en la comunidad, incluyendo la práctica periódica de simulacros, de acuerdo a las posibles contingencias que puedan presentarse, según el atlas de riesgo, de acuerdo a la ubicación de los centros de población del Estado, donde se practiquen.
 
 ###### ARTÍCULO 60.
 
@@ -979,7 +995,9 @@ III. La inclusión de la materia de primeros auxilios, en todos los niveles educ
 
 IV. La promoción del desarrollo de investigaciones y estudios académicos para la formación de especialistas en nivel superior, acerca de las temáticas de protección civil;
 
-V. La realización de eventos de capacitación en los cuales se transmitan conocimientos y habilidades básicas que permitan el aprendizaje de conductas de autoprotección y preparación;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+V. La realización de eventos de capacitación en los cuales se transmitan conocimientos y habilidades básicas que permitan el aprendizaje de conductas de autoprotección y preparación, mínimo dos veces al año;
 
 VI. La creación de acervos de información técnica sobre problemáticas o riesgos específicos que permitan a la población un conocimiento de los mismos; y
 
@@ -1061,11 +1079,17 @@ Para tal efecto, el particular interesado o el personal registrado deberá de so
 
 Las personas a que se refiere el Artículo anterior, deberán de llevar una bitácora con la relación y registro de todas las acciones que realizan, misma que será entregada a las Coordinaciones de Protección Civil dentro de la actualización de los Programas Internos que elaboren.
 
-###### ARTÍCULO 92.
+> <small>(REFORMADO [N. DE E. ESTA PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2017)</small>
 
-Los simulacros deberán realizarse por lo menos dos veces al año, mismos que serán supervisados por las Coordinaciones de Protección Civil, o en su caso por las personas señaladas en el Artículo 109 de la presente Ley.
+###### ARTICULO 92.
+
+Los simulacros deberán realizarse por lo menos dos veces al año, de acuerdo al atlas de riesgo que corresponda a las (sic) centros de población, mismos que serán supervisados por las Coordinaciones de Protección Civil, o en su caso por las personas señaladas en el Artículo 109 de la presente Ley.
 
 Las prácticas contra incendio, se realizarán cuando menos una vez al año, debiendo contar con la autorización de la Secretaría del Medio Ambiente del Estado o la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio que según corresponda.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+Los servidores públicos deberán de abstenerse de impedir, obstaculizar o entorpecer el cumplimiento del contenido de este Artículo, por razones de carga de trabajo y/o por cualquier otra causa.
 
 ###### ARTÍCULO 93.
 
@@ -1431,9 +1455,19 @@ La contravención a las disposiciones de esta Ley, se sancionarán en la forma s
 
 I. Las infracciones a los Artículos 5°, 6° y 7° de la presente Ley, se sancionarán con el equivalente a una multa de cien a quince mil veces el valor diario de la unidad de medida y actualización, existiendo siempre la posibilidad de que además se determine la clausura en caso de que la autoridad competente lo estime necesario de manera fundada y motivada.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
 
-II. En caso de incumplimiento a cualquiera otra obligación que determine esta Ley, o poner en riesgo a la población, se impondrá al infractor una sanción equivalente de cien a quince veces el valor diario de la unidad de medida y actualización, existiendo siempre la posibilidad de que además se determine la clausura en caso de que la autoridad competente lo estime necesario de manera fundada y motivada.
+II. Las infracciones cometidas en contra del tercer párrafo del Artículo 92, se sancionaran con multa equivalente de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+III. En caso de incumplimiento a cualquiera otra obligación que determine esta Ley, o poner en riesgo a la población, se impondrá al infractor una sanción equivalente de cien a quince mil veces el valor diario de la Unidad de Medida y Actualización, existiendo siempre la posibilidad de que además se determine la clausura en caso de que la autoridad competente lo estime necesario de manera fundada y motivada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de servidores públicos, las sanciones se aplicarán con independencia de la responsabilidad civil, penal y administrativa que pudiera corresponderles.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 25 DE DICIEMBRE DE 2017)</small>
 
 Para la aplicación de las sanciones pecuniarias a que se hace referencia en este Artículo, la autoridad que las imponga, tomará en cuenta la gravedad de la infracción, la capacidad económica y otras condiciones del infractor.
 
@@ -1550,3 +1584,11 @@ El presente Decreto entrará en vigor al día siguiente día (sic) de su publica
 ###### ARTÍCULO SEGUNDO.
 
 Se exhorta a las diversas instituciones que conforman el Sistema Educativo Estatal, a elaborar en los términos expuestos y de acuerdo a la normatividad aplicable, un Programa Interno de Protección Civil, ello con apoyo de la Coordinación Estatal de Protección Civil, para así salvaguardar la integridad física de la comunidad educativa y proteger las instalaciones, bienes muebles e información, patrimonio de las instituciones educativas, ante la ocurrencia de cualquier situación de emergencia.
+
+P.O. 25 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 217.- SE REFORMA LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
