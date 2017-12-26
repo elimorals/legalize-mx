@@ -4,7 +4,7 @@ identifier: "COA-ley-para-regular-la-apertura-instalacion-y-funcionamiento-10726
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-07"
-last_updated: "2017-11-21"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 7 de abril de 2015.
 
@@ -57,7 +57,9 @@ Son sujetos de esta Ley, las personas físicas y morales que tengan como activid
 
 Las personas físicas y morales que desempeñen las actividades descritas en el artículo anterior, independientemente de las obligaciones que otras Leyes, normas o reglamentos les impongan, deberán obtener permiso del Ejecutivo del Estado, por conducto de la Secretaría de Finanzas para su instalación y funcionamiento.
 
-Corresponde la aplicación de las normas contenidas en esta ley al Ejecutivo del Estado, a través de la Secretaría con auxilio de la Procuraduría.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Corresponde la aplicación de las normas contenidas en esta ley al Ejecutivo del Estado, a través de la Secretaría con auxilio de la Fiscalía General.
 
 ###### ARTÍCULO 4.
 
@@ -83,7 +85,9 @@ VII. Pignorante. Persona que solicita un préstamo con garantía prendaria.
 
 VIII. Pignorar. Dejar en prenda un objeto como garantía de un préstamo.
 
-IX. Procuraduría.- Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IX. Fiscalía General. Fiscalía General del Estado.
 
 X. Secretaría. Secretaría de Finanzas.
 
@@ -293,7 +297,9 @@ I. Solicitud por escrito.
 
 II. Exhibir el permiso original, en los casos de deterioro grave.
 
-III. Exhibir constancia o denuncia de hechos, de robo o extravío expedida por la Procuraduría a través del Ministerio Público correspondiente o, en su caso, por la autoridad municipal.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. Exhibir constancia o denuncia de hechos, de robo o extravío expedida por la Fiscalía General a través del Ministerio Público correspondiente o, en su caso, por la autoridad municipal.
 
 IV. Cubrir el costo que se establezca en las disposiciones aplicables.
 
@@ -327,13 +333,21 @@ IX. El historial de los premisos (sic), refrendos, modificaciones, cancelaciones
 
 Son obligaciones de los permisionarios las siguientes:
 
-I. Presentar, dentro de los primeros cinco días de cada mes, un informe a la Procuraduría, con el registro de todas las operaciones realizadas en el periodo correspondiente, el cual deberá contener como mínimo: datos aportados por los pignorantes, descripción detallada de los bienes otorgados en prenda y montos de las operaciones; dicha dependencia, tendrá bajo su más estricta responsabilidad la guarda y custodia de los datos personales aportados, salvaguardándolos en todo momento bajo las disposiciones aplicables a la materia.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Hacer del conocimiento de la Procuraduría, de forma inmediata cuando tenga conocimiento de la comisión de un ilícito en el interior de sus instalaciones.
+I. Presentar, dentro de los primeros cinco días de cada mes, un informe a la Fiscalía General, con el registro de todas las operaciones realizadas en el periodo correspondiente, el cual deberá contener como mínimo: datos aportados por los pignorantes, descripción detallada de los bienes otorgados en prenda y montos de las operaciones; dicha dependencia, tendrá bajo su más estricta responsabilidad la guarda y custodia de los datos personales aportados, salvaguardándolos en todo momento bajo las disposiciones aplicables a la materia.
 
-III. Proporcionar la información y documentación que le sea requerida por la Procuraduría, por conducto del Ministerio Público, sobre personas y operaciones de empeño de alhajas, relojes, vehículos, o cualquier objeto que se haya recibido en la casa de empeño o sus sucursales en el Estado, siempre y cuando se encuentren relacionadas con alguna averiguación previa o carpeta de investigación.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IV. Permitir el acceso y facilitar las diligencias de inspección, vigilancia y auditoría a que sea sujeto por parte de la Secretaría o la Procuraduría, siempre y cuando medie mandato u orden legítima y se lleve a cabo conforme a derecho.
+II. Hacer del conocimiento de la Fiscalía General, de forma inmediata cuando tenga conocimiento de la comisión de un ilícito en el interior de sus instalaciones.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. Proporcionar la información y documentación que le sea requerida por la Fiscalía General, por conducto del Ministerio Público, sobre personas y operaciones de empeño de alhajas, relojes, vehículos, o cualquier objeto que se haya recibido en la casa de empeño o sus sucursales en el Estado, siempre y cuando se encuentren relacionadas con alguna averiguación previa o carpeta de investigación.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. Permitir el acceso y facilitar las diligencias de inspección, vigilancia y auditoría a que sea sujeto por parte de la Secretaría o la Fiscalía General, siempre y cuando medie mandato u orden legítima y se lleve a cabo conforme a derecho.
 
 V. Llevar la contabilidad de acuerdo a las disposiciones aplicables en dicha materia.
 
@@ -359,7 +373,7 @@ A la Secretaría corresponderá realizar las funciones siguientes:
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-l. La recepción, análisis y calificación de las solicitudes para la expedición y modificación del permiso para la instalación y funcionamiento de casas de empeño, la revalidación del mismo, así como la integración del expediente correspondiente.
+I. La recepción, análisis y calificación de las solicitudes para la expedición y modificación del permiso para la instalación y funcionamiento de casas de empeño, la revalidación del mismo, así como la integración del expediente correspondiente.
 
 > <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
@@ -377,7 +391,9 @@ V. Notificar las resoluciones sobre la expedición, modificación y cancelación
 
 VI. Elaborar formatos de documentos relativos a la solicitud de expedición, modificación de permiso y demás papelería oficial necesaria para el cumplimiento del objeto de la Ley.
 
-VII. Llevar a cabo las visitas de inspección ya sea por si misma o en coordinación con la Procuraduría, con las formalidades que establece el Código Fiscal para el Estado de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII. Llevar a cabo las visitas de inspección ya sea por si misma o en coordinación con la Fiscalía General, con las formalidades que establece el Código Fiscal para el Estado de Coahuila de Zaragoza.
 
 VIII. Integrar el Registro Estatal de Casas de Empeño.
 
@@ -397,15 +413,21 @@ Si del resultado de la diligencia de inspección o auditoría, la Secretaría de
 
 Las casas de empeño tienen la obligación de llevar contabilidad, la cual deberán conservar en el domicilio que se señale para efectos fiscales. Dicha contabilidad, estará a disposición de las autoridades fiscales.
 
-### CAPÍTULO VI. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO VI. DE LA FISCALÍA GENERAL DEL ESTADO
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 34.
 
-La Procuraduría, para la atención de los asuntos que tiene encomendados por la presente Ley, se auxiliará de la Dirección que conforme sus facultades establezca el Reglamento Interior de la misma.
+La Fiscalía General, para la atención de los asuntos que tiene encomendados por la presente Ley, se auxiliará de la Dirección que conforme sus facultades establezca el Reglamento Interior de la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 35.
 
-Corresponden a la Procuraduría las siguientes funciones:
+Corresponden a la Fiscalía General las siguientes funciones:
 
 I. Auxiliar a la Secretaría en las visitas de verificación e inspección en los establecimientos de las casas de empeño, sus sucursales, bodegas y lugares de resguardo;
 
@@ -606,3 +628,51 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE “SE MODIFICAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 3; LA FRACCIÓN IX DEL ARTÍCULO 5; LA FRACCIÓN III DEL ARTÍCULO 26; LAS FRACCIONES I, II, III Y IV DEL ARTÍCULO 28; LA FRACCIÓN VII DEL ARTÍCULO 30; LA DENOMINACIÓN DEL CAPÍTULO VI; EL ARTÍCULO 34; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, la papelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
