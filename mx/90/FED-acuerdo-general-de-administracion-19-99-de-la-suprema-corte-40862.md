@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-19-99-de-la-suprema-corte-408
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-05-03"
-last_updated: "1999-05-03"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40862&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1999-05-03"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION 19/99 DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LA SECRETARIA GENERAL DE LA PRESIDENCIA Y OFICIALIA MAYOR, Y CREACION DE 2 SECRETARIAS ADMINISTRATIVAS]
 
-ACUERDO GENERAL DE ADMINISTRACION 19/99 POR EL QUE DESAPARECE LA SECRETARIA GENERAL DE LA PRESIDENCIA Y OFICIALIA MAYOR, SE CREAN DOS SECRETARIAS ADMINISTRATIVAS Y SE MODIFICA LA DENOMINACION DE LA CONTRALORIA GENERAL POR LA DE SECRETARIA DE LA CONTRALORIA Y DE GESTION ADMINISTRATIVA, AMPLIANDOSE SUS ATRIBUCIONES, PARA EL DEBIDO FUNCIONAMIENTO ADMINISTRATIVO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO GENERAL DE ADMINISTRACIÓN 19/99 POR EL QUE DESAPARECE LA SECRETARÍA GENERAL DE LA PRESIDENCIA Y OFICIALÍA MAYOR, SE CREAN DOS SECRETARÍAS ADMINISTRATIVAS Y SE MODIFICA LA DENOMINACIÓN DE LA CONTRALORÍA GENERAL POR LA DE SECRETARÍA DE LA CONTRALORÍA Y DE GESTIÓN ADMINISTRATIVA, AMPLIÁNDOSE SUS ATRIBUCIONES, PARA EL DEBIDO FUNCIONAMIENTO ADMINISTRATIVO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación, Tomo IX, Mayo de 1999, página 1117.
 
@@ -130,3 +132,19 @@ Suprema Corte de Justicia de la Nación
 Estructura Administrativa Vigente
 
 (VER TABLA ANEXA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
