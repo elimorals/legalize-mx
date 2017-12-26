@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-judicial-del-estado-de-sonora-14212"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-12"
-last_updated: "2017-08-03"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 12 de diciembre de 1996.
 
@@ -182,6 +182,12 @@ VI.- Autorizar el pago de los honorarios a los Magistrados suplentes cuando entr
 VII.- Dictar las bases de organización y funcionamiento de los órganos auxiliares del Supremo Tribunal de Justicia y, en su caso, los acuerdos de creación de los mismos;
 
 VIII.- Nombrar, conforme a lo que esta Ley establece respecto de la Carrera Judicial, al Secretario General de Acuerdos del Supremo Tribunal de Justicia, a los Secretarios Auxiliares y Secretarios Proyectistas, así como a los demás empleados subalternos del Supremo Tribunal de Justicia cuya designación no corresponda a otra autoridad, y aceptarles sus renuncias.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Emitir los acuerdos generales que correspondan conforme al artículo 38, segundo párrafo, para que los Secretarios Auxiliares ejerzan en las materias que respectivamente se les asignen, las funciones y obligaciones previstas en las fracciones I a VI del artículo 37.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
 Asimismo nombrar, a propuesta de su Presidente, a los titulares de los órganos auxiliares administrativos del Supremo Tribunal de Justicia, y resolver sobre sus renuncias;
 
@@ -521,9 +527,13 @@ XI.- Integrar y mantener permanentemente actualizados, para los efectos de la ca
 
 XII.- Las demás facultades y obligaciones que le señalen otras disposiciones legales o le confieran el Pleno, las Salas, las comisiones o el Presidente del Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 38.
 
 El Secretario General de Acuerdos, para el cumplimiento de sus atribuciones, contará con los Secretarios Auxiliares de Acuerdos y con los demás servidores públicos que autorice el presupuesto.
+
+Para el mejor desahogo de los asuntos, independiente de las atribuciones del Secretario General de Acuerdos previstas en el artículo 37, los Secretarios Auxiliares de Acuerdos, podrán ejercer por sí mismos las facultades y obligaciones establecidas en las fracciones I, II, III, IV, V y VI del artículo 37, en las materias que les asigne el Pleno y conforme lo determine mediante acuerdos generales.
 
 > <small>(REFORMADO, B.O. 7 DE SEPTIEMBRE DE 2007)</small>
 
@@ -2772,3 +2782,11 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 182, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
