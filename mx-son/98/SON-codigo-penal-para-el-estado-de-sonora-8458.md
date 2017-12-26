@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2017-11-27"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -471,9 +471,9 @@ Para que proceda lo que se prevé en esta fracción, será necesario que el ofen
 
 En los supuestos de las fracciones II y III, cuando el responsable de resarcir daños carezca de medios y recursos para realizar el pago correspondiente, el Estado, a través de sus organismos y dependencias competentes, tendrá la obligación de proporcionar a la víctima los tratamientos y cuidados necesarios para su recuperación, en términos de la Ley de Atención y Protección a Víctimas del Delito, la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora, y en su caso, la Ley de Acceso de las Mujeres a una Vida Libre de Violencia Familiar para el Estado de Sonora.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
-ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia intrafamiliar, rapto, acoso sexual, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio y chantaje.
+ARTICULO 29 BIS.- Salvo prueba en contrario y para los efectos del artículo 31 BIS, se considera que siempre existe daño moral en los delitos siguientes: corrupción de menores de edad e incapaces, utilización de imágenes y/o voces de personas menores de edad para la pornografía, relaciones sexuales remuneradas con personas menores de edad, violación, violencia intrafamiliar, rapto, abusos deshonestos, privación ilegal de libertad, homicidio, feminicidio y chantaje.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1193,11 +1193,9 @@ El plazo para la prescripción se aumentará en una mitad más, si el imputado, 
 
 La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que corresponda al delito cometido, incluyendo sus modalidades. Tratándose de los delitos de oficio, dicho plazo nunca será menor de tres años ni mayor de quince y en los delitos de querella nunca será menor de dos años ni mayor de diez.
 
-(NOTA: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, B.O. 15 DE JUNIO DE 2015)</small>
-
-En los delitos de homicidio calificado, feminicidio, SECUESTRO, utilización de imágenes y/o voces de personas menores de edad para la pornografía, TRATA DE PERSONAS, evasión de presos, DELINCUENCIA ORGANIZADA, desaparición forzada de personas, tráfico de menores e incapaces, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, el ejercicio de la acción penal será imprescriptible.
+En los delitos de homicidio calificado, feminicidio, utilización de imágenes y/o voces de personas menores de edad para la pornografía, evasión de presos, desaparición forzada de personas, tráfico de menores e incapaces, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, el ejercicio de la acción penal será imprescriptible.
 
 ###### ARTICULO 101.
 
@@ -1271,11 +1269,9 @@ Si para deducir una acción penal se requiere previa declaración de alguna auto
 
 Las sanciones privativas de libertad prescribirán en un tiempo igual al fijado en la condena, plazo que nunca será menor de cinco años ni mayor de veinte.
 
-(NOTA: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADO, B.O. 15 DE JUNIO DE 2015)</small>
-
-Las sanciones derivadas del ejercicio de la acción penal sobre los delitos de homicidio calificado, SECUESTRO, utilización de imágenes y/o voces de personas menores de edad para la pornografía, TRATA DE PERSONAS, evasión de presos, DELINCUENCIA ORGANIZADA, desaparición forzada de personas, feminicidio, tráfico de menores e incapaces, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, serán imprescriptibles.
+Las sanciones derivadas del ejercicio de la acción penal sobre los delitos de homicidio calificado, utilización de imágenes y/o voces de personas menores de edad para la pornografía, evasión de presos, desaparición forzada de personas, feminicidio, tráfico de menores e incapaces, violación y en el supuesto a que hace referencia el párrafo cuarto del artículo 213, serán imprescriptibles.
 
 > <small>(REFORMADO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
@@ -1557,25 +1553,7 @@ Cuando el miembro de la pandilla sea o haya sido servidor público de alguna cor
 
 ### CAPITULO VI. DELINCUENCIA ORGANIZADA
 
-(NOTA 1: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-(NOTA 2: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE ABRIL DE 2008)</small>
-
-ARTICULO 144 BIS.- Comete el delito de delincuencia organizada quien forme parte de un grupo estructurado de tres o más personas que actúan concertada y jerárquicamente, con el propósito de realizar conductas que, por sí o unidas a otras, tengan como fin o resultado, la comisión de alguno de los delitos siguientes: homicidio, secuestro, utilización de imágenes y/o voces de personas menores de edad para la pornografía, trata de personas, abigeato, robo de vehículos de propulsión mecánica y robo a instituciones bancarias.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-Al miembro de delincuencia organizada se le sancionará con prisión de cuatro a diez años y de doscientos cincuenta a quince mil días multa, independientemente de la sanción que le corresponda por el delito que cometiere.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-Cuando el miembro de delincuencia organizada realice o tenga asignadas en ésta, funciones de administración, dirección o supervisión, la sanción señalada en el párrafo anterior se aumentará en una mitad más el mínimo y el máximo.
-
-(NOTA: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+ARTICULO 144 BIS.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ### CAPITULO VII. DE LOS DELITOS CONTRA EL FUNCIONAMIENTO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
 
@@ -1645,25 +1623,15 @@ Cuando las autoridades de tránsito tengan conocimiento de la probable comisión
 
 ###### ARTICULO 144-A.
 
-Si las conductas a que se refiere el artículo anterior las realiza alguien que sea o haya sido servidor público de alguna Institución de Seguridad Pública, se le aumentará la sanción correspondiente hasta en una mitad más el mínimo y el máximo y se le impondrá, además, destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos.
-
-Al individualizar la pena, además de las circunstancias previstas para tal efecto en este Código, el Juez o Tribunal tomará en cuenta el delito o los delitos que la organización pretendía cometer o hubiere cometido, así como también la circunstancia de que ésta se encuentra integrada parcialmente por menores de edad o incapaces.
-
-(NOTA: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 144-B.
 
-El plazo de la prescripción de la acción y la sanción penal de los delitos señalados en el artículo 144 BIS se duplicará cuando se cometan por delincuencia organizada.
-
-(NOTA: EL 19 DE MAYO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 48/2015, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 16 DE JUNIO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 144-C.
 
-Los responsables del delito de delincuencia organizada no gozarán de los beneficios relativos a la libertad preparatoria ni a la remisión parcial de la pena que establecen las leyes correspondientes.
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE JULIO DE 2011)</small>
 
@@ -3497,13 +3465,11 @@ Al responsable de cualquier homicidio intencional que no tenga señalada una san
 
 Cuando en la comisión del delito de homicidio, intervengan dos o más personas, sin que exista entre éstas acuerdo previo, y no constare quién o quiénes infirieron la lesión mortal, a todos se les impondrá de cuatro a quince años de prisión.
 
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 258.
 
-Cuando el homicidio sea cometido a propósito de un allanamiento de morada, asalto o SECUESTRO, se sancionará con prisión de veinticinco a cincuenta años. La misma sanción se aplicará cuando el homicidio sea cometido en contra de una persona del sexo masculino a propósito de una violación o derivado de su condición de género.
+Cuando el homicidio sea cometido a propósito de un allanamiento de morada o asalto, se sancionará con prisión de veinticinco a cincuenta años. La misma sanción se aplicará cuando el homicidio sea cometido en contra de una persona del sexo masculino a propósito de una violación o derivado de su condición de género.
 
 > <small>(REFORMADO, B.O. 1 DE JUNIO DE 2017)</small>
 
@@ -3675,10 +3641,6 @@ No se aplicará sanción alguna cuando de no provocarse el aborto, la mujer emba
 
 ### CAPITULO II. SECUESTRO
 
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
 ###### ARTICULO 271.
 
 Se aplicará prisión de uno a cinco años y multa de treinta a trescientas Unidades de Medida y Actualización:
@@ -3762,10 +3724,6 @@ TITULO DECIMOSEPTIMO
 DELITOS CONTRA EL HONOR
 
 ### CAPITULO IV. TRATA DE PERSONAS
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
 
 ### CAPITULO I. ROBO
 
@@ -3901,13 +3859,9 @@ III. Si es cometido en contra de un menor de edad, de una mujer en estado de gra
 
 IV. El sujeto activo del delito sea o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las áreas de prevención o persecución de delitos, administración de justicia o reinserción social; asimismo, cuando porte vestimentas o instrumentos de identificación, de los utilizados por integrantes de instituciones de seguridad pública; o tenga alguna relación de confianza, laboral, de parentesco o de negocios con la víctima o con sus familiares;
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE ABRIL DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
-TITULO DECIMONOVENO
-
-PRIVACION ILEGAL DE LA LIBERTAD, VIOLACION DE OTROS DERECHOS, SECUESTRO Y TRATA DE PERSONAS
-
-## TITULO VIGESIMO. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
+## TITULO DECIMO NOVENO. PRIVACION ILEGAL DE LA LIBERTAD Y VIOLACION DE OTROS DERECHOS
 
 ### CAPITULO VI. DESPOJO
 
@@ -3967,165 +3921,49 @@ Se equipara al delito de privación ilegal de libertad y se sancionará con la p
 
 ###### ARTICULO 296.
 
-Comete el delito de secuestro y será sancionado con prisión de quince a cuarenta años, y de cien a cuatrocientos días multa quien, por cualquier medio, prive de la libertad a una persona, con alguno de los siguientes propósitos:
-
-I.- Obtener rescate por su liberación;
-
-II.- Que la autoridad haga, no haga o deje de hacer un acto de cualquier índole;
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-III. Causar daño o perjuicio al secuestrado o cualquier persona relacionada con éste;
-
-IV.- Obligarla a hacer, no hacer o dejar de hacer un acto de cualquier índole, o para que un tercero haga, no haga o deje de hacer algo.
-
-En todos los casos se impondrá como sanción el decomiso de los instrumentos, objetos y productos del delito, considerándose, entre éstos, los vehículos, armas, inmuebles y demás bienes de que se sirvan los responsables para la perpetración del delito de secuestro.
-
-Las mismas penas se impondrán a quién se apodere de un menor de dieciséis años, con el propósito de obtener un lucro, entregándoselo a una persona extraña a éste, o para dedicarlo a la mendicidad.
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 297.
 
-El delito de secuestro a que se refiere el artículo anterior, será calificado y se sancionará con prisión de veinte a cuarenta y cinco años y de doscientos cincuenta a cuatrocientos días multa, cuando concurra alguna de las circunstancias siguientes:
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
-I.- Se realice en despoblado o en paraje solitario;
-
-II.- Intervenga algún elemento o ex-elemento de cualquier Institución de Seguridad Pública;
-
-III.- Intervengan dos o más personas, en forma directa o indirecta;
-
-IV.- Se realice empleando violencia física o moral innecesaria;
-
-V.- Que la víctima sea menor de dieciséis años o mayor de sesenta, o se trate de mujer embarazada, o que por cualquier otro motivo la víctima esté en situación de desventaja respecto de quien la ejecuta;
-
-VI.- Que al tratarse del delito de secuestro, con alguno de los propósitos a que se refieren las fracciones I, II y IV del artículo 296 de este Código, el agente, en algún momento de su ejecución, haga uso de maltrato o de tormento, o le infiera a la víctima, alguna lesión que deje secuela de índole psicoemocional o de las enunciadas en el penúltimo párrafo del artículo 242 de este Código;
-
-VII.- Que el responsable allane el lugar en que se encuentra la víctima;
-
-VIII.- Que fuere cometido por la persona que tiene a la víctima bajo su custodia, guarda o educación, o aproveche la confianza en él depositada;
-
-IX.- Se haga uso de narcóticos o cualquier sustancia o elemento que anule, disminuya o tienda anular o disminuir la resistencia de la víctima;
-
-X.- Que alguno de los actos encaminados a la perpetración del delito se desarrolle inclusive en otra entidad federativa;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
-
-XI.- Que se utilicen instalaciones o bienes gubernamentales, frecuencias, claves o códigos oficiales;
-
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
-
-XII.- Que en la comisión del delito participe alguna persona que por su cargo, empleo, puesto o de la confianza en él depositada, tenga acceso a información o medios que faciliten la perpetración del delito; o
-
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2008)</small>
-
-XIII.- El delito fuere cometido en el interior de las instituciones de educación básica, media superior, superior o en sus inmediaciones.
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-ARTICULO 297 BIS.- La misma penalidad del artículo anterior se impondrá cuando algún pariente consanguíneo del secuestrado, dentro del segundo grado muera por alteraciones de salud que devinieren como efecto del delito, durante el secuestro o dentro de los siguientes sesenta días de perpetrado éste.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+ARTICULO 297 BIS.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 297-A.
 
-Cuando el secuestrado muera dentro de los siguientes sesenta días después de haber sido liberado, debido a alteraciones de salud que sean consecuencia del citado delito, la pena será de veinte a cincuenta años de prisión y de trescientos a quinientos días multa.
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 297-B.
 
-Si el agente, espontáneamente, libera al secuestrado, dentro de las setenta y dos horas siguientes a la privación de su libertad, sin lograr alguno de los propósitos del delito y sin que se haya actualizado alguno de los supuestos previstos por los artículos 297, 297 BIS y 297-A, y siempre que no lo haga por causas ajenas a su voluntad, la pena será de uno a seis años de prisión y de veinte a doscientos días multa.
-
-> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 2005)</small>
-
-Si en términos de la hipótesis a que se refiere el párrafo anterior se deja libre a la víctima, después de setenta y dos horas de haber sido privada de su libertad y siempre que no exceda de diez días, se impondrá al agente de tres a doce años de prisión y de treinta a trescientos días multa.
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 298.
 
-Se considerará como delito de secuestro, para los efectos de la sanción:
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
-
-I.- Al que aporte recursos económicos o de cualquier especie o colabore de cualquier manera a la localización de uno o varios actos encaminados a la perpetración del delito de secuestro, ya sean éstos preparatorios unívocos, que se traduzcan en un principio de ejecución, o en la realización total del hecho que la ley señale como delito;
-
-II.- Al que siendo propietario, poseedor, ocupante, arrendatario o usufructuario de una finca o establecimiento, cualquiera que sea su naturaleza, permita su empleo para la realización del delito de secuestro;
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-III.- Al que por sí, a través de terceros o a nombre de otros, dirija, administre o supervise cualquier tipo de asociación o grupo constituido con el propósito de practicar, o que se practique, el delito de secuestro o alguna de las actividades señaladas en este artículo;
-
-IV.- Al que sin consentimiento del que pueda resultar perjudicado y sin justa causa, revele datos, información, secretos o comunicación reservada que conoce o ha recibido con motivo de su empleo, cargo, puesto, o de la confianza en él depositada por cualquier causa, que coadyuven a la realización del delito de secuestro; y
-
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-V.- Al que proporcione cualquier medio para facilitar la permanencia en cautiverio del secuestrado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE OCTUBRE DE 2005)</small>
-
-ARTÍCULO 298 BIS.- Se impondrá de tres a ocho años de prisión a quien, en relación con los delitos previstos en este Capítulo y fuera de los casos de exclusión del delito previstos (sic) en este Código:
-
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-I.- Actúe como intermediario en las negociaciones del rescate, sin la aprobación de quienes representan o gestionan a favor de la víctima;
-
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-II.- Colabore en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información; o
-
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-III.- Intimide a la víctima, a sus familiares, a sus representantes o gestores, durante o después del secuestro, para que no colaboren con las autoridades competentes.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-Igual penalidad se aplicará al negociador de un secuestro que actúe a petición de quienes representan o gestionan a favor del ofendido o víctima, haciéndolo mediante el pago o cualquier otro interés, cuando se abstenga o evite informar o colaborar inmediatamente con las autoridades competentes.
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+ARTICULO 298 BIS.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 298-A.
 
-Se equipara al delito de secuestro y se sancionará con ocho a veinte años de prisión, al que impida a otro su libertad de actuar, hasta por un término máximo de veinticuatro horas, privándolo de la libertad en contra de su voluntad, en el interior de un vehículo o en otro lugar, con el propósito de obligarlo, por medio de la violencia física o moral, a entregar por sí o a través de un tercero, dinero o cualquier otro objeto, independientemente de su monto. Será delictuoso este proceder aún cuando el agente alegue un adeudo o que el objeto no es del sujeto pasivo o cualquier otra circunstancia similar.
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 299.
 
-A los elementos de las Instituciones de Seguridad Pública que, teniendo información, evidencias o cualquier otro dato relacionado, directa o indirectamente, con la preparación o comisión del delito de secuestro o sus equiparables, no lo comunique o haga saber, de inmediato, al Ministerio Público, se les impondrá de cinco a quince años de prisión.
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 28 DE FEBRERO DE 2011 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 300.
 
-Se impondrá de tres a nueve años de prisión, a quien, a sabiendas de que una suma de dinero o bienes de cualquier naturaleza provienen o representan el producto del delito de secuestro, realice cualquier acto jurídico regulado por el derecho común, con el propósito de ocultar o disfrazar el origen, naturaleza, propiedad, destino o localización del dinero o de los bienes de que se trate.
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 301.
 
-Cuando por las personas o circunstancias de tiempo, lugar, modo u ocasión en que se realice un acto jurídico, se pueda presumir, fundadamente, que determinadas sumas de dinero o bienes de cualquier naturaleza, provienen o representan el producto del delito de secuestro, deberán denunciarse tales hechos al Ministerio Público. El incumplimiento de esta obligación será sancionado con prisión de tres meses a tres años.
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
-
-ARTICULO 301 BIS.- Quienes cometan cualquiera de las conductas descritas en los artículos 296, 297 y 298, no gozarán de los beneficios libertarios previstos en las leyes correspondientes.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2002)</small>
+ARTICULO 301 BIS.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 301-A.
 
-Si además de los delitos previstos en este Título, resultare cometido otro, se aplicarán las reglas relativas al concurso de delitos.
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE DICIEMBRE DE 2002)</small>
 
@@ -4205,47 +4043,15 @@ Para efectos de este artículo se entiende que proceden o representan el product
 
 ###### ARTICULO 301-J.
 
-Comete el delito de trata de personas quien para sí o para un tercero induzca, procure, promueva, capte, reclute, facilite, traslade, consiga, solicite, ofrezca, mantenga, entregue o reciba a una persona recurriendo a la coacción física o moral, a la privación de la libertad, al engaño, al abuso de poder, al aprovechamiento de una situación de vulnerabilidad o a la concesión o recepción de pagos o beneficios para someterla a explotación o para extraer sus órganos, tejidos o sus componentes
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
-Para efectos de este artículo se entenderá por explotación el obtener provecho económico o cualquier otro beneficio para sí o para otra persona, mediante la prostitución ajena u otras formas de aprovechamiento sexual, los trabajos o servicios forzados, la esclavitud o la mendicidad ajena.
+ARTICULO 30 1-K.- (DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
-Cuando las conductas anteriores recaigan en una persona menor de dieciocho años de edad o persona que no tenga la capacidad de comprender el significado del hecho, se considerará como trata de personas incluso cuando no se recurra a ninguno de los medios señalados en el primer párrafo del presente artículo.
+###### ARTICULO 301-L.
 
-El consentimiento otorgado por la víctima en cualquier modalidad del delito de trata de personas no constituirá causa que excluye el delito.
+(DEROGADO, B.O. 26 DE DICIEMBRE DE 2017)
 
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, B.O. 7 DE ABRIL DE 2008)</small>
-
-###### ARTICULO 301-K.
-
-A quien cometa el delito de trata de personas se le aplicará:
-
-I.- De seis a doce años de prisión y de cien a quinientos días multa;
-
-II.- De nueve a dieciocho años de prisión y de doscientos a quinientos días multa, si se emplease violencia física o moral, o el agente se valiese de la función pública que tuviere o hubiese ostentado sin tener. Además, se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por veinticinco años;
-
-III.- Las penas de prisión que resulten de las fracciones I y II de este artículo se incrementarán hasta una mitad:
-
-a) Si el delito es cometido en contra de una persona menor de dieciocho años de edad;
-
-b) Si el delito es cometido en contra de una persona mayor de sesenta años de edad;
-
-c) Si el delito es cometido en contra de quien no tenga capacidad para comprender el significado del hecho; o
-
-d) Cuando el sujeto activo del delito tenga parentesco por consaguinidad (sic), afinidad o civil, habite en el mismo domicilio con la víctima, tenga una relación similar al parentesco o una relación sentimental o de confianza con el sujeto pasivo.
-
-(NOTA: EL 3 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO EN VÍA DE CONSECUENCIA, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 15 DE JUNIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, B.O. 10 DE MARZO DE 2011)</small>
-
-ARTICULO 301 L.- Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le impondrá una pena de seis meses a dos años de prisión y de cincuenta a doscientos días multa.
-
-La misma pena se impondrá a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes a denunciar el delito de trata de personas de cuya comisión tenga noticia.
-
-## TÍTULO VIGÉSIMO PRIMERO. ENCUBRIMIENTO Y OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], B.O. 9 DE JUNIO DE 2014)</small>
+## TITULO VIGESIMO. DELITOS EN CONTRA DE LAS PERSONAS EN SU PATRIMONIO
 
 ### CAPITULO UNICO. DELITOS ELECTORALES
 
@@ -4681,7 +4487,9 @@ Con excepción de los casos previstos en el artículo anterior, o cuando el deli
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 9 DE JUNIO DE 2014)</small>
 
-## TITULO VIGESIMO SEGUNDO. DELITOS ELECTORALES
+## TÍTULO VIGÉSIMO PRIMERO. ENCUBRIMIENTO Y OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], B.O. 9 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 329.
 
@@ -4715,9 +4523,9 @@ En los casos a que se contraen las fracciones anteriores, quedan exceptuados de 
 
 En los casos de encubrimiento del delito de abigeato, la sanción aplicable será la señalada en el artículo 312 de este Código.
 
-En los casos de encubrimiento del delito de secuestro la sanción aplicable será la señalada en el artículo 296 de este Código.
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
-La excusa absolutoria prevista en el segundo párrafo de este artículo, en relación con el cónyuge, concubina, concubinario, pariente del requerido, o de persona a quien éste deba respeto, cariño, gratitud o amistad íntima, no procederá en el delito de secuestro.
+> <small>(DEROGADO QUINTO PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
 > <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -4725,7 +4533,7 @@ ARTICULO 329 BIS.- En los casos de encubrimiento de delitos cometidos por direct
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 9 DE JUNIO DE 2014)</small>
 
-## TITULO VIGESIMO TERCERO. DELITOS CONTRA LA ECOLOGIA
+## TITULO VIGESIMO SEGUNDO. DELITOS ELECTORALES
 
 ###### ARTICULO 330.
 
@@ -4827,9 +4635,7 @@ En caso de reincidencia se aumentarán las sanciones a que se refieren los prece
 
 Ninguna suspensión de derechos políticos podrá acordarse sin que previamente se oiga en defensa al interesado.
 
-## TITULO VIGESIMO CUARTO. DELITOS EN CONTRA DE LOS ANIMALES POR ACTOS DE MALTRATO O CRUELDAD
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 17 DE DICIEMBRE DE 2015)</small>
+## TITULO VIGESIMO TERCERO. DELITOS CONTRA LA ECOLOGIA
 
 ###### ARTICULO 337.
 
@@ -4856,6 +4662,10 @@ Para los efectos de los artículos anteriores, cuando en la configuración del t
 Para proceder penalmente por los delitos previstos en este Capítulo, será necesario previamente que, en el ámbito estatal, la Secretaría de Infraestructura Urbana y Ecología, y en el ámbito municipal, los ayuntamientos, formulen la denuncia correspondiente.
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 17 DE DICIEMBRE DE 2015)</small>
+
+## TITULO VIGESIMO CUARTO. DELITOS EN CONTRA DE LOS ANIMALES POR ACTOS DE MALTRATO O CRUELDAD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 342.
 
@@ -5292,3 +5102,11 @@ B.O. 27 DE NOVIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el boletín oficial del Gobierno del Estado.
+
+B.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 73, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
