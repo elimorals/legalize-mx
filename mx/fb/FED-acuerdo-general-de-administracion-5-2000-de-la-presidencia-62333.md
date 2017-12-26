@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-5-2000-de-la-presidencia-6233
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-06-23"
-last_updated: "2000-06-23"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62333&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2000-06-23"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION 5/2000 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [DECLARACIONES SOBRE SITUACION PATRIMONIAL]
 
-ACUERDO GENERAL DE ADMINISTRACION 5/2000 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECE LA OBLIGACION DE PRESENTAR DECLARACIONES SOBRE SITUACION PATRIMONIAL A DIVERSOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO GENERAL DE ADMINISTRACIÓN 5/2000 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE ESTABLECE LA OBLIGACIÓN DE PRESENTAR DECLARACIONES SOBRE SITUACIÓN PATRIMONIAL A DIVERSOS SERVIDORES PÚBLICOS DE ESTE ALTO TRIBUNAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XII, Agosto de 2000, página 1319.
 
@@ -58,3 +60,19 @@ SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en e
 TERCERO.- Hágase del conocimiento de la Dirección General de Control Interno de la Suprema Corte de Justicia de la Nación el contenido del presente acuerdo.
 
 Así lo acordó y firma el señor Ministro Genaro David Góngora Pimentel, presidente de la Suprema Corte de Justicia de la Nación, a los veintitrés días del mes de junio del año dos mil, ante el coordinador general de Asuntos Jurídicos de la Presidencia de la Suprema Corte de Justicia de la Nación, quien da fe.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
