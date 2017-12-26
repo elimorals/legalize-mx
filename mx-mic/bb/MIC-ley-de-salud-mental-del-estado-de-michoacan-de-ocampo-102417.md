@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-mental-del-estado-de-michoacan-de-ocampo-102417"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2014-09-12"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -89,6 +89,10 @@ IX. Ley: Ley de Salud Mental del Estado de Michoacán de Ocampo;
 
 X. Ley de Salud: Ley de Salud del Estado de Michoacán de Ocampo;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+X BIS. Ley de Asistencia Social del Estado de Michoacán de Ocampo;
+
 XI. Personal de salud: Profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud;
 
 XII. Prevención de riesgos en salud mental: Acciones contenidas en los planes, programas, campañas y proyectos gubernamentales, nacionales e internacionales, con la finalidad de informar y educar a la población en relación a cualquier aspecto vinculado a la salud mental, e intervenir en las comunidades para evitar situaciones de riesgo y dar a conocer procedimientos con el propósito principal de preservar la calidad de vida;
@@ -110,6 +114,10 @@ XIX. Secretaría: Secretaría de Salud del Estado de Michoacán;
 XX. Secretaría de Educación: Secretaría de Educación del Estado de Michoacán;
 
 XXI. Secretaría de Seguridad Pública: Secretaría de Seguridad Pública del Estado de Michoacán
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXI BIS. Secretaría de Desarrollo Social y Humano;
 
 XXII. Segundo nivel de atención: Atención hospitalaria y ambulatoria otorgada por las unidades médicas dependientes de la Secretaría;
 
@@ -225,6 +233,10 @@ III. Diseñar y ejecutar de forma permanente campañas educativas de difusión m
 
 IV. Coordinar y supervisar las acciones para la salud mental;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV BIS. Vigilar y evaluar a los centros de atención de adicción, a efecto de que cumplan con las normas de salud, operación y funcionamiento;
+
 V. Instalar, administrar y operar los Módulos que constituyen la Red Estatal de Salud Mental;
 
 VI. Instalar y administrar el Centro de Investigación e Información en Salud Mental;
@@ -303,6 +315,10 @@ III. Elaborar programas en los que se informe a la comunidad sobre el desarrollo
 
 IV. Realizar programas para la prevención y control del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias que puedan causar alteraciones mentales o dependencia;
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV BIS. La mejora continua en los centros destinados a la prevención, orientación, desintoxicación, deshabituación y reinserción de la persona, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen;
+
 V. Detectar y atender de manera inmediata a personas que practiquen actividades que pongan en riesgo su vida; y,
 
 VI. Elaborar programas que promuevan la referencia de estudiantes que presenten conductas disfuncionales en las distintas áreas del desarrollo humano.
@@ -310,6 +326,10 @@ VI. Elaborar programas que promuevan la referencia de estudiantes que presenten 
 ###### Artículo 17.
 
 Los programas de prevención tendrán una orientación psicoeducativa y deberán ser accesibles a la población.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Las escuelas, centros de desarrollo infantil, centros de integración social, internados, albergues escolares e infantiles participarán en dichos programas conforme a lo que estipule la Ley de la materia, para atender de manera temprana la salud física y mental de la niñez, con el fin de generar un buen funcionamiento en los aspectos cognoscitivos, afectivos, conductuales, y, en última instancia, al despliegue óptimo de sus potencialidades individuales para la convivencia, el estudio y la recreación.
 
 ###### Artículo 18.
 
@@ -421,9 +441,13 @@ IV. Sensibilizar a la sociedad sobre los trastornos mentales y las alternativas 
 
 La Secretaría procurará dar prioridad en la atención especializada a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo, puerperio o en menopausia, adultos mayores y personas que se encuentran en situación de calle, de emergencia o desastre.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 39.
 
-El Gobierno del Estado y los Ayuntamientos a través de los Sistemas de Desarrollo Integral de la Familia elaborarán y ejecutarán programas conjuntos de asistencia a las personas en situación de calle que presenten trastornos mentales o discapacidades intelectuales o psicosociales procurando en lo máximo posible su inclusión en la sociedad. La Secretaría será coadyuvante con la atención médica a este sector vulnerable.
+El Gobierno del Estado y los Gobiernos Municipales, a través de los Sistemas de Desarrollo Integral de la Familia elaborarán y ejecutarán programas conjuntos de asistencia a las personas en situación de calle que presenten trastornos mentales o discapacidades intelectuales o psicosociales procurando en lo máximo posible su inclusión en la sociedad. La Secretaría será coadyuvante con la atención médica a este sector vulnerable.
+
+Podrán celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo o farmacodependencia, con el fin de que quienes requieran de asistencia, puedan, de acuerdo con sus posibilidades y características económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen.
 
 ###### Artículo 40.
 
@@ -464,6 +488,10 @@ V. El Titular del departamento de Salud Mental de la Secretaría;
 VI. Los Titulares de las unidades de la Secretaría especializadas en salud mental;
 
 VII. Un representante de la Secretaría de Educación Pública;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII BIS. Un representante de la Secretaría de Desarrollo Social y Humano;
 
 VIII. Un representante del Sistema para el Desarrollo Integral de la Familia Michoacán; y,
 
@@ -573,9 +601,19 @@ VIII. Las que le confiera la presente ley y el Reglamento.
 
 Para efectos del presente Capítulo, el internamiento es el ingreso de una persona con un trastorno mental severo en alguna de las instituciones hospitalarias del sector público, social o privado que presten servicios de salud mental, donde el profesional entrenado en salud mental realiza una evaluación y determina la inviabilidad de tratamiento ambulatorio. En todo internamiento será prioritaria la pronta recuperación y reinserción social de la persona.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Los centros para la prevención, tratamiento y formación de personal para el control de las adicciones, tienen como propósito la prevención, orientación, desintoxicación, deshabituación y reinserción de la persona, con el fin de mejorar la calidad de vida individual, familiar y social de la población, y su organización y funcionamiento deberá estar conforme al Reglamento que al respecto se emita.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 57.
 
-El internamiento de personas con padecimientos mentales, se debe ajustar a principios éticos, sociales, científicos y legales, así como a criterios contemplados en la presente ley, la Ley General de Salud, la Norma Oficial Mexicana Para la prestación de Servicios de Salud en Unidades de Atención Integral Hospitalaria Medico-Psiquiátrica y demás normatividad aplicable.
+El internamiento de personas con padecimientos mentales, se debe ajustar a principios éticos, sociales, científicos y legales, así como a criterios contemplados en la presente Ley, la Ley General de Salud, la Norma Oficial Mexicana para la prestación de Servicios de Salud en Unidades de Atención Integral Hospitalaria Médico-Psiquiátrica y demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Los sectores social y privado, que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo o farmacodependencia, el Gobierno del Estado dictaminará el otorgamiento de estímulos fiscales para inducir las acciones de los sectores social y privado en la prestación de servicios de salud en materia de asistencia social.
 
 ###### Artículo 58.
 
@@ -766,3 +804,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 26 veintiséis días del mes de agosto del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARIO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 423 POR EL QUE "SE ADICIONAN LAS FRACCIONES X BIS Y XXI BIS AL ARTÍCULO 4°, UNA FRACCIÓN IV BIS AL ARTÍCULO 10, UNA FRACCIÓN IV BIS AL ARTÍCULO 16, UN SEGUNDO PÁRRAFO AL ARTÍCULO 17, UNA FRACCIÓN VII BIS AL ARTÍCULO 43, UN SEGUNDO PÁRRAFO AL ARTÍCULO 56, UN SEGUNDO PÁRRAFO AL ARTÍCULO 57; Y SE REFORMA EL ARTÍCULO 39 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
