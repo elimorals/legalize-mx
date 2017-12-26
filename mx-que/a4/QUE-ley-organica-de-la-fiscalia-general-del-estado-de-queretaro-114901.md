@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2017-09-01"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -49,9 +49,11 @@ La presente Ley es de orden público e interés social, tiene por objeto organiz
 
 La Fiscalía General del Estado de Querétaro, es un organismo constitucional autónomo, con patrimonio propio, con autonomía técnica, presupuestal, de gestión y para emitir las reglas conforme a las cuales sistematizará la información bajo su resguardo acorde a los lineamientos establecidos en la ley respectiva, encargado de la procuración de justicia en el Estado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 3.
 
-En el ejercicio de sus atribuciones, todos los servidores públicos de la Fiscalía General del Estado de Querétaro deberán conforme al artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, promover, respetar, proteger y garantizar los Derechos Humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Asimismo, rigen su actuar los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, imparcialidad, lealtad, confidencialidad, transparencia, responsabilidad y demás que se dispongan en la normatividad aplicable.
+En el ejercicio de sus atribuciones, todos los servidores públicos de la Fiscalía General del Estado de Querétaro deberán conforme al artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos, promover, respetar, proteger y garantizar los Derechos Humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Asimismo, rigen su actuar los principios de legalidad, objetividad, eficiencia, eficacia, profesionalismo, honradez, imparcialidad, lealtad, confidencialidad, transparencia, responsabilidad, disciplina, integridad, rendición de cuentas y demás que se dispongan en la normatividad aplicable.
 
 ###### Artículo 4.
 
@@ -299,7 +301,9 @@ V. Dirigir a los órganos, áreas, direcciones, unidades administrativas y perso
 
 VI. Fomentar entre el personal de la Fiscalía General, la promoción, respeto, protección y garantía de los Derechos Humanos con perspectiva de género;
 
-VII. Expedir la normatividad de observancia general necesaria para el mejor despacho de los asuntos;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII. Expedir los reglamentos, acuerdos, circulares, protocolos y demás normatividad de observancia general necesaria para el mejor despacho de los asuntos;
 
 VIII. Ejercer las acciones y los recursos en materia penal, la adjudicación de bienes asegurados y decomisados, así como las de extinción de dominio y todas aquellas derivadas de las leyes aplicables, que sean de su competencia;
 
@@ -311,7 +315,9 @@ XI. Hacer del conocimiento de la autoridad competente, las irregularidades que a
 
 XII. Gestionar la programación, presupuestación y administración integral de los recursos humanos, materiales, tecnológicos y financieros a su cargo;
 
-XIII. Celebrar contratos, convenios y actos jurídicos con autoridades federales, estatales y municipales, paraestatales o autónomos, así como con organizaciones y personas de los sectores social y privado, para el cumplimiento de sus fines;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIII. Celebrar contratos, convenios y actos jurídicos con autoridades federales, estatales y municipales, paraestatales o autónomas, así como con organizaciones y personas de los sectores social y privado, para el cumplimiento de sus fines;
 
 XIV. Establecer los mecanismos y lineamientos para la entrega de recompensas en los supuestos de colaboración ciudadana para la localización, investigación y detención de personas relacionadas en hechos que puedan constituir delito;
 
@@ -337,13 +343,21 @@ XXII. Desarrollar las actividades específicas que se le asignen como integrante
 
 XXIII. Determinar el destino final de los bienes asegurados, abandonados o decomisados, conforme a las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XXIV. Supervisar la aplicación y difusión de los Mecanismos Alternativos de Solución de Controversias en Materia Penal; y
+XXIV. Supervisar la aplicación y difusión de los Mecanismos Alternativos de Solución de Controversias en Materia Penal;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XXV. Las demás contenidas en las disposiciones aplicables.
+XXV. Autorizar y expedir el manual de organización de la Fiscalía General y ordenar su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXVI. Autorizar los manuales de procedimientos de las direcciones de la Fiscalía General; y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXVII. Las demás contenidas en las disposiciones legales aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -373,7 +387,9 @@ V. Tener cuando menos cinco años de experiencia en la procuración de justicia 
 
 VI. No haber sido condenado por delito doloso y gozar de buena reputación.
 
-Las ausencias del Fiscal Anticorrupción se suplirán por el Titular de la Dirección adscrita a la Fiscalía Anticorrupción.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Las ausencias del Fiscal Anticorrupción se suplirán por el Titular de la Dirección adscrita a la Fiscalía Anticorrupción o, en su caso, por el servidor público que designe el Fiscal Anticorrupción.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -423,11 +439,19 @@ XIX. Coordinar el trabajo en conjunto con el área de Servicios Periciales de la
 
 XX. Proponer al Fiscal General la celebración de convenios con las instituciones de los tres órdenes de gobierno, así como con entes privados para tener acceso directo a la información disponible contenida en sus archivos, expedientes o documentos y que se encuentre relacionada con la investigación y persecución de los hechos que la ley considera como delitos en materia de corrupción;
 
-XXI. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado; de conformidad con las disposiciones legales aplicables;
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XXII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando estos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable; y
+XXI. Autorizar las resoluciones respecto del procedimiento abreviado y criterio de oportunidad de los Fiscales adscritos a la Fiscalía Anticorrupción, en términos de las disposiciones aplicables;
 
-XXIII. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
+XXII. Ordenar el aseguramiento de bienes propiedad del imputado, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible al imputado; de conformidad con las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Promover la extinción de dominio de los bienes de los imputados o sentenciados, así como de aquellos respecto de los cuales se conduzcan como dueños, o dueños beneficiarios o beneficiario controlador, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible al imputado o sentenciado, cuando éstos bienes estén vinculados con hechos que la ley considera como delitos en materia de corrupción que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable; y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXIV. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos le confieren.
 
 El Fiscal Anticorrupción formulará anualmente su anteproyecto de presupuesto de egresos, y lo remitirá al Fiscal General para que sea integrado en el proyecto de presupuesto anual de ingresos y egresos de la Fiscalía General.
 
@@ -489,11 +513,19 @@ II. Ejercer las funciones que le sean delegadas por el Fiscal General;
 
 III. Establecer entre sí la coordinación necesaria para el debido ejercicio de sus funciones y de las demás direcciones y áreas a su cargo;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IV. Girar las indicaciones al personal a su cargo, para el debido cumplimiento de sus funciones y las que resulten procedentes para el logro de los objetivos institucionales; y
+IV. Establecer entre sí la coordinación necesaria para el debido ejercicio de sus funciones y de las demás direcciones y áreas a su cargo;
 
-V. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+V. Ejercer las facultades que la ley le confiere al Ministerio Público en las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VI. Proponer al Fiscal General para su autorización y aprobación sus manuales de procedimientos; y
+
+VII. Ejercer las demás facultades y obligaciones que otras leyes y reglamentos les confieren.
 
 ### Capítulo Séptimo. De la Vice Fiscalía de Derechos Humanos y Desarrollo Institucional
 
@@ -521,13 +553,17 @@ V. Expedir la certificación de antecedentes penales, así como la cancelación 
 
 VI. Impulsar estrategias y acciones de coordinación que posibiliten a las víctimas y ofendidos del delito, el acceso a los Mecanismos Alternativos de Solución de Controversias en Materia Penal, dentro de la competencia de la Fiscalía General;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VII. Coordinar la aplicación y difusión de los Mecanismos Alternativos de Solución de Controversias en Materia Penal; y
+VII. Coordinar la aplicación y difusión de los Mecanismos Alternativos de Solución de Controversias en Materia Penal;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VIII. Realizar el cobro de derechos por el servicio de expedición de certificado de antecedentes penales, así como expedición de certificado de cancelación administrativa de registro de antecedentes penales; y
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
-VIII. Las demás contenidas en las disposiciones aplicables.
+IX. Las demás contenidas en las disposiciones aplicables.
 
 ### Capítulo Primero. Disposiciones generales
 
@@ -595,13 +631,17 @@ VII. Desarrollar las prácticas que permitan cumplir las obligaciones en materia
 
 VIII. Informar a las instancias correspondientes de cualquier acto que pudiera ser motivo de responsabilidades de los servidores públicos;
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IX. Autorizar en coordinación con el área competente, los accesos de usuario a los servidores públicos de su adscripción para el uso y manejo de los sistemas informáticos y tecnológicos que requieran en el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+X. Proponer al Fiscal General para su autorización y aprobación sus manuales de procedimientos; y
+
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-IX. Autorizar en coordinación con el área competente, los accesos de usuario a los servidores públicos de su adscripción para el uso y manejo de los sistemas informáticos y tecnológicos que requieran en el ejercicio de sus atribuciones; y
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-X. Las demás que se establezcan en las disposiciones legales aplicables.
+XI. Las demás que se establezcan en las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -729,13 +769,17 @@ XII. Participar y ejercer las acciones y peticiones correspondientes en las form
 
 XIII. Solicitar la aplicación de medidas cautelares, la imposición de penas y medidas de seguridad, así como la reparación del daño a favor de la víctima u ofendido del delito;
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIV. Intervenir en los procedimientos de ejecución de sanciones penales;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XV. Realizar el cobro de derechos por los servicios de expedición de documento que acredite la verificación alfanumérica de automotor que determine la existencia o no de irregularidad en sus datos de identificación vehicular, así como expedición de certificado de existencia o no de reporte de robo de vehículo automotor conforme a las bases de datos de la Fiscalía General; y
+
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-XIV. Intervenir en los procedimientos de ejecución de sanciones penales; y
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-XV. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+XVI. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
 ### Capítulo Octavo. De la Dirección Jurídica y de Vinculación Institucional
 
@@ -925,6 +969,10 @@ Artículo 28 undecies. El Centro, a petición de las instituciones públicas o e
 
 Artículo 28 duodecies. El Centro será el encargado de emitir el Certificado en Control de Confianza, Certificado Único Policial de los integrantes de la Dirección de Policía de Investigación del Delito y en su caso, de las Instituciones de Seguridad Pública que soliciten el servicio, siempre y cuando se hayan aprobado las evaluaciones y requisitos correspondientes de conformidad con las disposiciones legales vigentes, así como el certificado que corresponda, de acuerdo a sus atribuciones.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Artículo 28 terdecies. El Centro realizará el cobro de derechos por los servicios de evaluación en materia de control de confianza.
+
 ###### Artículo 25.
 
 La Dirección Jurídica y de Vinculación Institucional tiene las siguientes atribuciones:
@@ -969,13 +1017,15 @@ IV. Expedir constancias de capacitación, diplomas, títulos, reconocimientos y 
 
 V. Coordinarse con instancias federales, estatales, municipales, instituciones académicas de enseñanza superior o especializada, sean públicas o privadas para el cumplimiento de sus fines, proponiendo al Fiscal General la suscripción de convenios;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VI. Brindar servicios de profesionalización a instituciones públicas y entes privados, con base en las disposiciones aplicables; y
+VI. Brindar servicios de profesionalización a instituciones públicas y entes privados, con base en las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+VII. Realizar el cobro de derechos por los servicios de profesionalización que se imparta a instituciones públicas o privadas, expedición de documentos académicos y evaluación de nivel de conocimientos y habilidades al personal de instituciones públicas o privadas; y
+
+VIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
 ### Capítulo Segundo. De la designación del personal
 
@@ -1005,13 +1055,17 @@ V. Proporcionar los servicios administrativos generales que requieran las áreas
 
 VI. Resguardar y llevar el control administrativo de la evidencia que les sea remitida con motivo de la investigación de hechos delictivos de los que conozca la Fiscalía General;
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII. Coadyuvar administrativamente en el proceso de presentación de las declaraciones patrimoniales de los Servidores Públicos para su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VIII. Realizar el cobro de derechos por las bases de licitación; y
+
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
 
-VII. Coadyuvar administrativamente en el proceso de presentación de las declaraciones patrimoniales de los Servidores Públicos para su cumplimiento; y
-
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
-
-VIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+IX. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
 
 ### Capítulo Tercero. Del Servicio Profesional de Carrera
 
@@ -1019,31 +1073,121 @@ VIII. Las demás que le confieran las disposiciones legales aplicables y el regl
 
 La Contraloría tiene las siguientes atribuciones:
 
-I. Realizar las acciones de auditoría, fiscalización, control, vigilancia o inspección en relación a los actos, omisiones y otras irregularidades de servidores públicos en el manejo, aplicación, administración de fondos, valores y de recursos económicos de la Fiscalía General, en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Revisar el cumplimiento de los programas autorizados, de conformidad con las normas, lineamientos y demás disposiciones que dicte la administración pública;
+I. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos federales y estatales, otorgados a la Fiscalía General;
 
-III. Coordinar y vigilar el cumplimiento de las observaciones emitidas por las instancias fiscalizadoras, a fin de solventar su cumplimiento;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+II. Realizar las acciones de auditoría, fiscalización, control y vigilancia en relación a la actuación de los servidores públicos en la administración de fondos, valores y recursos humanos, materiales y económicos de la Fiscalía General, en los términos de la legislación aplicable;
 
-IV. Realizar las visitas de inspección ordinarias, extraordinarias y verificación de las áreas que integran la Fiscalía General, a fin de generar acciones preventivas, propuestas de mejora o bien, instaurar la investigación preliminar que resulte procedente;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+III. Revisar el cumplimiento de los programas autorizados, de conformidad con las normas, lineamientos y demás disposiciones aplicables;
 
-V. Coordinar y supervisar los procesos de entrega recepción de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+IV. Coordinar y vigilar el cumplimiento de las observaciones emitidas por las instancias fiscalizadoras, a fin de solventar su cumplimiento;
 
-VI. Instaurar y resolver los cuadernos de investigación preliminar y procedimientos de responsabilidad administrativa, y en su caso, aplicar la sanción correspondiente conforme a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+V. Inscribir y mantener actualizada la información correspondiente a los servidores públicos de las diversas áreas de la Fiscalía General, que comprenda el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal a través de la Plataforma Digital Nacional;
 
-VII. Conocer de las reclamaciones a cargo de la Fiscalía, en términos de la Ley de Responsabilidad Patrimonial del Estado Querétaro; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+VI. Realizar la verificación aleatoria de las declaraciones patrimoniales, que obren en el sistema de evolución patrimonial;
 
-VIII. Las demás que le confieran las disposiciones legales aplicables y el reglamento.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII. Expedir en caso de no existir ninguna anomalía, la certificación correspondiente, misma que se anotará en dicho sistema;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VIII. Ejecutar las investigaciones que correspondan;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IX. Inscribir en el Sistema Nacional de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Nacional, las anotaciones de aquellas abstenciones que se hayan realizado en términos de las disposiciones; así como hacerlas públicas de conformidad con la Ley General del Sistema Nacional Anticorrupción y los ordenamientos legales en materia de transparencia;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+X. Realizar las visitas de inspección y verificación de las áreas que integran la Fiscalía General, a fin de generar acciones preventivas, correctivas, propuestas de mejora o bien, instaurar la investigación preliminar que resulte procedente;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XI. Participar en la validación de la correcta aplicación de la norma y en los procesos en los que se solicite su intervención por cualquier área de la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XII. Coordinar, supervisar y validar los procesos de entrega recepción;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIII. Implementar los mecanismos internos que prevengan actos u omisiones que pudieran constituir responsabilidad administrativa en los términos establecidos por el sistema estatal y nacional anticorrupción;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIV. Evaluar anualmente el resultado de las acciones específicas que se hayan implementado conforme a los mecanismos de prevención e instrumentos de rendición de cuentas y proponer, en su caso, las modificaciones que resulten procedentes, en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XV. Presentar denuncias por hechos que las leyes señalen como delitos ante la Fiscalía Especializada en el Combate a la Corrupción adscrita a la Fiscalía General y ante la Fiscalía Especializada en el Combate a la Corrupción a que se refiere la Ley General de Responsabilidades Administrativas, así como ante las demás instancias federales y estatales competentes;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVI. Conocer de las quejas presentadas por cualquier interesado, derivadas de conductas en contra del personal de la Fiscalía General, que no constituyan faltas administrativas previstas en la Ley General de Responsabilidades Administrativas;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVII. Inscribir en el Sistema Nacional de Servidores Públicos y Particulares Sancionados de la Plataforma Digital Nacional las constancias de sanción o de inhabilitación que se encuentren firmes en contra de los servidores públicos o particulares que hayan sido sancionados por actos vinculados con faltas graves;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Conocer de las reclamaciones a cargo de la Fiscalía General, en términos de la Ley de Responsabilidad Patrimonial del Estado de Querétaro;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIX. Publicar la información relativa a los nombres y adscripción de los servidores públicos que intervengan en procedimientos de contrataciones públicas, ya sea en la tramitación, atención y resolución para la adjudicación de un contrato, otorgamiento de una concesión, licencia, permiso o autorización y sus prórrogas, así como la enajenación de bienes muebles y aquellos que dictaminan en materia de avalúos;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XX. Implementar el protocolo de actuación que en materia de contrataciones expida el Comité Coordinador del Sistema Nacional Anticorrupción, en términos de la Ley General de Responsabilidades Administrativas;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXI. Supervisar la ejecución de los procedimientos de contratación pública por parte de los contratantes para garantizar que se lleve a cabo en los términos de las disposiciones en la materia, realizando las verificaciones procedentes si se descubren anomalías;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXII. Expedir las constancias de No inhabilitación respecto de servidores públicos que pertenezcan o hayan pertenecido a la Fiscalía General;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Llevar a cabo el procedimiento administrativo de ejecución derivado de sanciones pecuniarias o multas administrativas impuestas al personal de la Fiscalía General, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXIV. Iniciar, substanciar y resolver los procedimientos de responsabilidad administrativa, tratándose de faltas administrativas no graves y en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXV. Adoptar las medidas necesarias para el fortalecimiento institucional y control interno, para prevenir faltas administrativas y hechos de corrupción;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXVI. Solicitar la aclaración de las declaraciones de situación patrimonial;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXVII. Imponer y ejecutar las sanciones administrativas por faltas administrativas no graves, en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXVIII. Realizar el cobro de derechos por los servicios de expedición de constancias de no inhabilitación; y
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXIX. Las demás que le confieran las disposiciones aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -1219,107 +1363,69 @@ La Fiscalía General elaborará un proyecto de presupuesto anual de egresos que 
 
 El presupuesto asignado a la Fiscalía General por el Congreso, no podrá ser inferior al asignado en el ejercicio fiscal inmediato anterior.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 51 Bis.
 
-La Fiscalía General del Estado de Querétaro, brindará los siguientes servicios, por los cuales se pagarán los derechos correspondientes:
+Son objeto de pago de derechos, los servicios prestados por la Fiscalía General, consistentes en:
 
-CONCEPTO UMA
+I. Expedición de certificado de antecedentes penales;
 
-Por la expedición de certificado de
+II. Expedición de documento que acredite la verificación alfanumérica de automotor que determine la existencia o no de irregularidad en sus datos de identificación vehicular;
 
-antecedentes penales. 2.5
+III. Expedición de certificado sobre la existencia o no de reporte de robo de vehículo automotor conforme a las bases de datos de la Fiscalía General del Estado;
 
-Por la expedición de documento que acredite
+IV. Expedición de constancias de no inhabilitación;
 
-la verificación alfanumérica de automotor que
+V. Profesionalización;
 
-determine la existencia o no de irregularidad
+VI. Expedición de documentos académicos;
 
-en sus datos de identificación vehicular. 6.25
+VII. Evaluaciones en materia de control de confianza;
 
-Por la expedición de certificado sobre la
+VIII. Evaluaciones para la obtención de Licencia Oficial correspondiente para portación de armas de fuego;
 
-existencia o no de reporte de robo o no de
+IX. Evaluaciones de nivel de conocimientos y habilidades del personal de instituciones públicas o privadas;
 
-vehículo automotor conforme a las bases de
+X. Expedición del certificado de cancelación administrativa de registro de antecedentes penales;
 
-datos de la Fiscalía General del Estado. 2.5
+XI. Bases de licitación pública; y
 
-Por la expedición de constancias de no
+XII. Procesos de obtención de perfil genético.
 
-inhabilitación, que comprendan el tiempo de
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-adscripción de la persona a la Fiscalía
+###### Artículo 52.
 
-General del Estado. 1.1
+Son sujetos de pago de los derechos previstos en el artículo que antecede, los siguientes:
 
-Por profesionalización que se imparta a
+I. Por los servicios comprendidos en las fracciones I, II, III y X, las personas que los soliciten;
 
-instituciones públicas o privadas, por cada
+II. Por los servicios comprendidos en la fracción IV, los servidores públicos de la Fiscalía General y personas que prestaron sus servicios y causaron baja por cualquier motivo en la Fiscalía General;
 
-hora por grupo de hasta 30 personas. 50
+III. Por los servicios comprendidos en la fracción V, las instituciones públicas y privadas, que lo soliciten;
 
-Expedición de documentos académicos Constancia de estudios 1
+IV. Por los servicios comprendidos en la fracción VI, los servidores públicos y personas que hayan participado en actividades de formación inicial, continua, de profesionalización y capacitación en el Instituto;
 
-Kardex (constancia de estudios con calificaciones) 1 Certificado de Técnico Superior Universitario Policial 4 Certificado de Licenciatura o Especialidad 7 Acta de titulación de Técnico Superior Universitario Policial 4 Acta de titulación de Licenciatura 5 Acta de Especialidad 7 Expedición de Título o Diploma 20 Copias certificadas de constancias de cursos de capacitación. 0.0125
+V. Por los servicios comprendidos en las fracciones VII, VIII y IX, las instituciones de seguridad pública o empresas de seguridad privada que soliciten la aplicación de evaluaciones para aspirantes o sus integrantes;
 
-Evaluaciones integrales 100
+VI. Por las bases de licitación, todos los proveedores interesados en participar en las mismas; y
 
-Evaluaciones diferenciadas 60 Convalidación de evaluaciones 55 Evaluaciones toxicológicas cinco elementos (cocaína, marihuana,
+VII. Por procesos de obtención de perfil genético, los integrantes de las instituciones de seguridad, de seguridad privada o del Sistema Estatal de Protección Civil de Querétaro, así como personas involucradas en procesos de ingreso a las mismas, cuando sea solicitado por el Centro Estatal de Evaluación y Control de Confianza.
 
-anfetaminas, benzodiacepinas y barbitúricos) 11 Evaluaciones toxicológicas de siete elementos
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-(cocaína, marihuana, anfetaminas, benzodiacepinas, barbitúricos,
+###### Artículo 53.
 
-metanfetaminas y opiáceos) 13 Evaluaciones para portación de armas de fuego para Instituciones de Seguridad
+Por los servicios prestados por la Fiscalía General, se causarán y pagarán derechos conforme a las siguientes cuotas:
 
-Pública y Procuración de Justicia
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. 26 DE DICIEMBRE DE 2017, PÁGINAS DE LA 28582 A LA 28583.]</small>
 
-Evaluaciones en materia
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-de control de confianza 54
+###### Artículo 54.
 
-Evaluaciones para portación de armas de fuego para Instituciones de Seguridad
-
-Pública y Procuración de Justicia: Evaluación psicológica, médica y toxicológica. Evaluación psicológica para portación de armas de fuego, para Instituciones
-
-de Seguridad Pública y Procuración de Justicia, consistente en: aplicación
-
-de batería de pruebas psicológicas con certificado médico-psicológico de salud mental 17
-
-Evaluación médica para portación de armas de fuego, para Instituciones de Seguridad
-
-Pública y Procuración de Justicia, consistente en: aplicación de batería de pruebas
-
-psicológicas con certificado médico de no impedimento físico (salud física) 7
-
-Evaluación toxicológica para portación de armas de fuego de siete elementos (cocaína,
-
-marihuana, anfetaminas, benzodiacepinas, barbitúricos, metanfetaminas y opiáceos),
-
-para Instituciones de Seguridad Pública y Procuración de Justicia, consistente
-
-en: aplicación de batería de pruebas psicológicas con certificado de no consumo de drogas,
-
-enervantes o psicotrópicos (toxicológico) 15
-
-Por evaluación de nivel de conocimientos y habilidades del personal de instituciones públicas o privadas,
-
-por cada persona evaluada. 50
-
-Por la expedición de copia fotostática de documentos en poder de la Fiscalía General del Estado. Por cada hoja 0.0125
-
-Por la expedición del certificado de cancelación Por cada delito respecto del cual se solicite
-
-administrativa de registro de antecedentes penales. la cancelación 25
-
-El valor del UMA se actualizará de conformidad con las disposiciones legales aplicables.
-
-Tratándose de expedición de copias que contengan información resguardada en medios electrónicos o magnéticos, el interesado deberá proveer los dispositivos de almacenaje digital que se requieran.
-
-La Fiscalía General estará facultada para exigir el pago de los derechos previstos en este artículo, mediante el procedimiento administrativo de ejecución de conformidad con las disposiciones legales aplicables.
+La Fiscalía General del Estado está facultada para hacer efectivas las sanciones pecuniarias o multas administrativas impuestas a su personal, mediante el procedimiento administrativo de ejecución, de conformidad con las disposiciones legales aplicables.
 
 ## TRANSITORIOS
 
@@ -1421,7 +1527,7 @@ Rúbrica
 
 P.O. 18 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
@@ -1443,7 +1549,9 @@ d) Contemplará una etapa en la que los aspirantes acudirán a exponer su perfil
 
 e) El procedimiento incluirá la etapa de dictaminación, propuesta y elección del Fiscal Especializado en el Combate a la Corrupción.
 
-Artículo Sexto. El funcionamiento del Centro de Evaluación y Control de Confianza entrará en vigor el 1 de enero de 2018.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Artículo Sexto. El funcionamiento del Centro de Evaluación y Control de Confianza entrará en vigor el 2 de julio de 2018.
 
 P.O. 1 DE SEPTIEMBRE DE 2017.
 
@@ -1452,3 +1560,11 @@ P.O. 1 DE SEPTIEMBRE DE 2017.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO Y REFORMA AL ARTÍCULO SEXTO TRANSITORIO DE LA LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
