@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2017-12-15"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3241,9 +3241,9 @@ Prescripción.
 
 121.- Cuando la sanción correspondiente del delito de que se trate no sea privativa de libertad, la prescripción de la acción penal operará en dos años.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-122.- La acción penal prescribirá en un plazo igual al tiempo de la sanción corporal que corresponda al delito de que se trata; pero en ningún caso bajará de tres años.
+122.- La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala la ley para el delito de que se trate, pero en ningún caso será menor de tres años.
 
 > <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2010)</small>
 
@@ -3917,17 +3917,47 @@ Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación e
 
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ### CAPITULO V.
 
-Peculado y concusión.
+Peculado, Tráfico de Influencias y concusión.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-212.- Al que cometa peculado, se le aplicará de uno a quince años de prisión, multa de mil a cincuenta mil pesos, destitución de empleo o cargo e inhabilitación de dos a seis años para obtener otro.
+212.- Comete el delito de peculado:
 
-213.- Comete el delito de peculado: todo empleado o funcionario encargado de un servicio público, del Estado, municipal o descentralizado, aunque sea en comisión o por tiempo limitado, que para usos propios o ajenos, distraiga de su objeto el dinero, valores, fincas o cualquiera otra perteneciente al Estado, a un Municipio, a un organismo descentralizado o a algún particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por cualquier otra causa.
+I.- Todo servidor público que para su beneficio o el de una tercera persona física o moral, distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito, en posesión o por otra causa;
 
-214.- (DEROGADO, P.O. 27 DE NOVIEMBRE DE 1982)
+II.- El servidor público que ilícitamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona;
+
+III.- Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades, y
+
+IV.- Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+213.- Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión y de treinta a cien días multa.
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión y de cien a ciento cincuenta días multa.
+
+Cuando los recursos materia del peculado sean aportaciones para los fines de seguridad pública se aplicará hasta un tercio más de las penas señaladas en los párrafos anteriores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+214.- Comete el delito de tráfico de influencia:
+
+I.- El servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión;
+
+II.- Cualquier persona que promueve la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior;
+
+III.- El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la primera fracción del artículo 217 de este Código; y
+
+IV.- Al particular que, sin estar autorizado legalmente para intervenir en un negocio público, afirme tener influencia ante los servidores públicos facultados para tomar decisiones dentro de dichos negocios, e intervenga ante ellos para promover la resolución ilícita de los mismos, a cambio de obtener un beneficio para sí o para otro.
+
+Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión y de treinta a cien días multa.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -4109,9 +4139,9 @@ VI.- El que a sabiendas gestione, obtenga o haga uso para sí o para otro, de un
 
 Falsedad en declaraciones judiciales o en informes dados a una Autoridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-230.- Se impondrán de dos meses a dos años de prisión y multa de diez a veinte días multa:
+230.- Se impondrán de dos a seis años de prisión y multa de cien a trescientas veces el valor de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2003)</small>
 
@@ -4159,15 +4189,25 @@ Falsedad.
 
 De la Suplantación de Identidad.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+232 Bis.- Al que por cualquier medio suplante la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la suplantación en su identidad, se le impondrá una pena de uno a cinco años de prisión y multa de quinientos a mil veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Se impondrá la pena del párrafo anterior, a quien se apodere, apropie, transfiera, utilice o disponga de datos personales sin autorización de su titular, con la finalidad de cometer un ilícito o favorecer su comisión.
+
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-232 Bis.- Al que por cualquier medio suplante la identidad de otra persona, u otorgue su consentimiento para llevar a cabo la suplantación en su identidad, se le impondrá una pena de uno a cinco años de prisión y multa de quinientos a mil días de salario mínimo vigente en el Estado.
-
-Se aumentaran en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
+Se aumentarán en una mitad las penas previstas en el párrafo anterior, a quien se valga de la homonimia, parecido físico o similitud de la voz para cometer el delito establecido en el presente artículo.
 
 (ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
 232 Bis A.- Se aumentará la pena prevista en el artículo anterior en dos terceras partes al que cometa el delito de suplantación de identidad dentro de la tramitación de la averiguación previa o proceso penal, conforme a las disposiciones penales aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, las penas contenidas en el artículo anterior, se aumentarán hasta en una mitad, cuando el ilícito sea cometido por un servidor público que aprovechándose de sus funciones o cargo, tenga acceso a bases de datos o se valga de su profesión para la obtención de las mismas.
 
 ### CAPITULO V.
 
@@ -5099,21 +5139,21 @@ III.- Al que, después de la ejecución del robo y sin haber participado en ést
 
 351.- Para la aplicación de la sanción se tendrá por consumado el robo, desde el momento en que el ladrón se apodera de la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-352.- Para establecer la cuantía que corresponda a los delitos previstos en este título, se tomará en consideración el salario mínimo general vigente en el momento y en el lugar que se cometió el delito.
+352.- Para establecer la cuantía que corresponda a los delitos previstos en este título, se tomará en consideración el valor de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-353.- Cuando el valor de lo robado no exceda de cien veces el salario, se aplicará prisión de un mes a dos años y multa de cinco a cien veces el salario.
+353.- Cuando el valor de lo robado no exceda de cien veces el valor de la Unidad de Medida y Actualización, se aplicará prisión de seis meses a tres años y multa de veinte a cien veces el valor de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-354.- Cuando el valor de lo robado exceda de cien veces el salario, pero no de quinientas, la prisión será de dos a cuatro años y la multa será de cien a ciento cincuenta veces el salario.
+354.- Cuando el valor de lo robado exceda de cien veces el valor de la Unidad de Medida y Actualización, pero no de quinientas, la prisión será de tres a seis años y la multa será de cien a doscientas veces el valor de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-355.- Cuando el valor de lo robado exceda de quinientas veces el salario, la prisión será de cuatro a diez años y la multa de ciento cincuenta a quinientas veces el salario.
+355.- Cuando el valor de lo robado exceda de quinientas veces el valor de la Unidad de Medida y Actualización, la prisión será de seis a diez años y la multa de doscientas a quinientas veces el valor de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -5123,9 +5163,9 @@ III.- Al que, después de la ejecución del robo y sin haber participado en ést
 
 357.- Al que sin derecho y sin consentimiento de quien pueda otorgarlo, se apodere:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-I.- De un vehículo de motor, se le aplicara de ocho a catorce años de prisión y multa de quinientos a mil días de salario.
+I.- De un vehículo de motor, se le aplicara de nueve a dieciséis años de prisión y multa de quinientos a mil quinientas veces el valor de la Unidad de Medida y Actualización.
 
 (REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -5179,7 +5219,9 @@ Si con alguna de las conductas previstas en este artículo resulta la comisión 
 
 358.- En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres meses a tres años de prisión.
 
-359.- Si el robo se ejecutare con violencia a las personas o las cosas, a la pena que corresponda por el robo simple, se agregarán de seis meses a cinco años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de acumulación.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+359.- Si el robo se ejecutare con violencia a las personas o las cosas, a la pena que corresponda por el robo simple, se agregarán de uno a ocho años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de acumulación.
 
 360.- La violencia a las personas se distingue en física y moral. Se entiende por violencia física en el robo, la fuerza material que para cometerlo se hace a una persona.
 
@@ -5251,9 +5293,9 @@ X.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 Abigeato.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-370.- Comete el delito de abigeato el que se apodere de una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
+370.- Comete el delito de abigeato el que se apodere, posea, se encuentre destazando o seccionando una o más cabezas de ganado sin derecho y sin consentimiento de la persona que pueda disponer de ellas de acuerdo con la ley, tenga o no la calidad de ganadero.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
@@ -5263,11 +5305,21 @@ Abigeato.
 
 372.- El abigeato de ganado mayor se sancionará:
 
-I.- Con prisión de cinco a diez años y multa de cien veces a quinientas veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II.- Con prisión de diez a doce años y multa de quinientas a novecientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de diez, y
+I.- Con prisión de cuatro a ocho años de prisión y multa de treinta a setenta veces el valor de la Unidad de Medida y Actualización cuando el apoderamiento, posesión, destazando o seccionando sea de una a dos cabezas;
 
-III.- Con prisión de doce a quince años cuando el apoderamiento exceda de diez cabezas y una multa de mil veces el salario mínimo vigente, que se incrementará en cien salarios, por cada cabeza que exceda de diez.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II.- Con prisión de ocho a doce años de prisión y multa de setenta a ciento cincuenta veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento, posesión, destazando o seccionando sea de tres a cinco cabeza (sic);
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III.- Con prisión de doce a dieciocho años de prisión y multa de ciento cincuenta a trescientas veces el valor de la Unidad de Medida y Actualización, cuando el apoderamiento, posesión, destazando o seccionando sea de seis a diez cabezas; y,
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV.- Con prisión de dieciocho a veinticinco años de prisión y multa de trescientas a seiscientas veces el valor de la Unidad de Medida y Actualización cuando el apoderamiento, posesión, destazando o seccionando sea de más de diez cabezas.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2015)</small>
 
@@ -5627,13 +5679,15 @@ V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, les
 
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en casos de violación.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-405.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+405.- A quien cometa el delito de violencia familiar se le impondrá de uno a seis años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además, se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2017)</small>
 
 La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de personas adultas mayores o en contra de persona con discapacidad.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
 En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
 
@@ -6380,3 +6434,9 @@ PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su
 SEGUNDO. Los procedimientos iniciados con anterioridad a la entrada en vigor de estas reformas, serán concluidos conforme a las disposiciones aplicables vigentes al momento de su inicio.
 
 TERCERO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 711.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
