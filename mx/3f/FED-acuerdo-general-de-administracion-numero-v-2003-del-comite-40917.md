@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-v-2003-del-comite-4091
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-05-21"
-last_updated: "2003-05-21"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40917&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-05-14"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO V/2003 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [SE CREA LA DIRECCION GENERAL DE ASUNTOS JURIDICOS]
 
-ACUERDO GENERAL DE ADMINISTRACION V/2003, DEL SIETE DE ABRIL DE DOS MIL TRES, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE CREA LA DIRECCION GENERAL DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO GENERAL DE ADMINISTRACIÓN V/2003, DEL SIETE DE ABRIL DE DOS MIL TRES, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 21 de mayo de 2003 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XVII, Mayo de 2003, página 1345.
 
@@ -142,3 +144,19 @@ CUARTO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y s
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.- Los Ministros: Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano, Juan Díaz Romero.- Rúbricas.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo General de Administración número V/2003 del siete de abril del año en curso, constante de seis fojas útiles, concuerda fiel y exactamente con su original, y se certifica para dar cumplimiento a lo dispuesto en su punto Cuarto Transitorio. México, Distrito Federal, a catorce de mayo de dos mil tres.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
