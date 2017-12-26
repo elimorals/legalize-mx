@@ -4,7 +4,7 @@ identifier: "COA-ley-de-instituciones-y-asociaciones-de-beneficencia-privada-522
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2006-10-27"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2006.
 
@@ -61,7 +61,9 @@ PATRONO. La persona que integra el patronato.
 
 LEY. La Ley de Instituciones y Asociaciones de Beneficencia Privada para el Estado libre y soberano de Coahuila de Zaragoza.
 
-SECRETARIA. La Secretaria de Desarrollo Social.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+SECRETARIA. La Secretaría de Inclusión y Desarrollo Social.
 
 JUNTA. La Junta de Beneficencia Privada del Estado.
 
@@ -277,9 +279,11 @@ Los herederos darán aviso a la Junta de los bienes objeto de la sucesión que, 
 
 El albacea o ejecutor testamentario no podrá gravar, ni enajenar los bienes de la sucesión en que tenga interés la beneficencia, sin previa autorización de la Junta, la que sólo se otorgará, si se justifica que dicha operación es necesaria para consolidarla.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 34.
 
-Los Notarios deberán enviar a la Junta, en un término de quince días siguientes a la fecha de la autorización de un instrumento que se otorgue en su protocolo, el testimonio de la escritura respectiva, donde conste cualquier operación en la que intervenga alguna institución de beneficencia y vigilará que en su caso, se inscriban tales actos en el Registro Público.
+Los Notarios deberán enviar a la Junta, en un término de quince días siguientes a la fecha de la autorización de un instrumento que se otorgue en su protocolo, el testimonio de la escritura respectiva, donde conste cualquier operación en la que intervenga alguna institución de beneficencia y vigilará que en su caso, se inscriban tales actos en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
 
 ###### ARTICULO 35.
 
@@ -551,9 +555,11 @@ Las instituciones y asociaciones que pretendan fusionarse, harán del conocimien
 
 En caso que la fusión extinga alguna institución, se indicará el sistema a seguir para la liquidación de sus pasivos, cumplimiento de obligaciones y forma de no interrumpir o terminar de prestar los servicios vigentes en el momento de la fusión.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 78.
 
-Una vez dictaminada por la Junta la documentación respectiva, el Ejecutivo del Estado remitirá su resolución dentro de los siguientes quince días hábiles, la cual se publicará en el Periódico Oficial del Estado. De aprobarse la fusión, se procederá a la protocolización de los estatutos, a su inscripción en el Registro Público de la Propiedad ya la cancelación de las inscripciones que corresponden a las instituciones fusionadas. Si la resolución fuere negativa se procederá en los mismos términos previstos en el artículo 54.
+Una vez dictaminada por la Junta la documentación respectiva, el Ejecutivo del Estado remitirá su resolución dentro de los siguientes quince días hábiles, la cual se publicará en el Periódico Oficial del Estado. De aprobarse la fusión, se procederá a la protocolización de los estatutos, a su inscripción en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza y a la cancelación de las inscripciones que corresponden a las instituciones fusionadas. Si la resolución fuere negativa se procederá en los mismos términos previstos en el artículo 54.
 
 ## TITULO CUARTO. DE LOS ORGANOS ESTATALES DE VIGILANCIA DE LAS INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA
 
@@ -563,9 +569,13 @@ Son órganos estatales de vigilancia en materia de beneficencia privada:
 
 a). El Gobernador Constitucional del Estado.
 
-b). La Secretaria de Desarrollo Social.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-c). La Secretaria de la Contraloría y Modernización Administrativa.
+b). La Secretaría de Inclusión y Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+c). La Secretaría de Fiscalización y Rendición de Cuenta.
 
 d). La Junta de Beneficencia Privada.
 
@@ -695,17 +705,23 @@ Las personas designadas por la Junta para practicar visitas o auditorias, no pod
 
 Los visitadores o auditores entregarán a la Junta su informe, haciendo las observaciones y recomendaciones que estimen convenientes para la operación de la institución.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 93.
 
-Los patronos, administradores, funcionarios o empleados de las instituciones de beneficencia privada deberán dar facilidades a los visitadores o auditores designados por la Junta y ésta dará a conocer el resultado correspondiente al Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Social.
+Los patronos, administradores, funcionarios o empleados de las instituciones de beneficencia privada deberán dar facilidades a los visitadores o auditores designados por la Junta y ésta dará a conocer el resultado correspondiente al Ejecutivo del Estado por conducto de la Secretaría de Inclusión y Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 94.
 
-La Secretaría de la Contraloría y Modernización Administrativa del Estado, intervendrá a solicitud de la Junta, como órgano auxiliar de ésta y podrá implementar sistemas y métodos para auxiliar en el buen funcionamiento y cumplimiento adecuado del objeto de las instituciones.
+La Secretaría de Fiscalización y Rendición de Cuenta del Estado, intervendrá a solicitud de la Junta, como órgano auxiliar de ésta y podrá implementar sistemas y métodos para auxiliar en el buen funcionamiento y cumplimiento adecuado del objeto de las instituciones.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 95.
 
-La Secretaria de la Contraloría y Modernización Administrativa del Estado, en caso que la Junta se lo solicite, verificará el inventario de los bienes afectos a las Instituciones, su situación financiera y operativa.
+La Secretaría de Fiscalización y Rendición de Cuenta del Estado, en caso que la Junta se lo solicite, verificará el inventario de los bienes afectos a las Instituciones, su situación financiera y operativa.
 
 ## TITULO QUINTO. DE LA EXTINCION DE LAS INSTITUCIONES Y ASOCIACIONES
 
@@ -777,19 +793,25 @@ Los liquidadores tendrán las siguientes facultades:
 
 5). Rendir cuatrimestralmente al Patronato y a la Junta un informe del estado que guarda el proceso de liquidación.
 
-6). Obtener del Registro Público la cancelación de la inscripción de la institución una vez concluida la liquidación.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+6). Obtener del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza la cancelación de la inscripción de la institución una vez concluida la liquidación.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 108.
 
-La Junta por causa grave y previa aprobación del Ejecutivo, podrá remover a los liquidadores nombrados y extender nuevos nombramientos, los que se inscribirán en el Registro Público. Los que hubieren sido removidos harán entrega a los nuevos liquidadores de toda la documentación que tuvieren y si se negaran a ello o no fuere posible hacerlo, la Junta suplirá a los primeros. Si fuere más de uno, los liquidadores obrarán conjuntamente y siempre lo harán en los términos acordados en la disolución.
+La Junta por causa grave y previa aprobación del Ejecutivo, podrá remover a los liquidadores nombrados y extender nuevos nombramientos, los que se inscribirán en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza. Los que hubieren sido removidos harán entrega a los nuevos liquidadores de toda la documentación que tuvieren y si se negaran a ello o no fuere posible hacerlo, la Junta suplirá a los primeros. Si fuere más de uno, los liquidadores obrarán conjuntamente y siempre lo harán en los términos acordados en la disolución.
 
 ###### ARTICULO 109.
 
 Durante la liquidación, la institución conservará su personalidad jurídica. Terminada la liquidación se levantará un acta y los liquidadores entregarán a la Junta toda la documentación correspondiente, incluyendo los libros respectivos, quien los remitirá para su guarda al archivo que corresponda.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 110.
 
-Los Notarios Públicos no autorizarán ningún documento donde se proceda a la liquidación de Instituciones cuando no se ajusten a lo dispuesto en la presente Ley. Igual obligación tendrán los Registradores Públicos y el Director del Registro Público, así como los Jueces Civiles que ordenen las inscripciones relativas.
+Los Notarios Públicos no autorizarán ningún documento donde se proceda a la liquidación de Instituciones cuando no se ajusten a lo dispuesto en la presente Ley. Igual obligación tendrán los Registradores Públicos y el Director del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, así como los Jueces Civiles que ordenen las inscripciones relativas.
 
 ## TITULO SEXTO. RESPONSABILIDADES Y RECONOCIMIENTOS
 
@@ -920,3 +942,53 @@ EL SECRETERIO (SIC) DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL EUGENIO RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 1177.- POR EL QUE “SE REFORMA AL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 3; LOS ARTÍCULOS 34 Y 78; LOS INCISOS B Y C DEL ARTÍCULO 79; LOS ARTÍCULO (SIC) 93, 94 Y 95; EL NUMERAL 6 DEL ARTÍCULO 107 Y LOS ARTÍCULOS 108 Y 110, DE LA LEY DE INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
