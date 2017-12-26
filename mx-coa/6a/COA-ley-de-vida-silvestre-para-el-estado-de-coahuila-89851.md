@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vida-silvestre-para-el-estado-de-coahuila-89851"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2012-10-16"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIDA SILVESTRE PARA EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 16 de octubre de 2012.
 
@@ -97,7 +97,7 @@ I Que la Secretaría, de conformidad a las facultades que posee en la materia, e
 
 II Que se trate de un área determinada donde una especie se halle en riesgo por cualquier razón, ya sea natural o artificial;
 
-III Superficies de tierra donde el deterioro ambiental, la erosión u otros factores han disminuido sus ecosistemas y biodiversidad, pero que aún así se conserve una parte de ella; y (sic)
+III Superficies de tierra donde el deterioro ambiental, la erosión u otros factores han disminuido sus ecosistemas y biodiversidad, pero que aún así se conserve una parte de ella; y
 
 IV Que se trate de un área donde un ecosistema esté en riesgo de desaparecer por factores que pueden detenerse o remediarse.
 
@@ -185,7 +185,9 @@ XXIX Repoblación: La liberación planificada al hábitat natural de ejemplares 
 
 XXX Sacrificio humanitario: El sacrificio necesario con métodos humanitarios que se practica en cualquier animal de manera rápida, sin dolor ni sufrimiento innecesario, utilizando métodos físicos o químicos, efectuado por personal capacitado, atendiendo a las normas oficiales mexicanas y las normas ambientales expedidas para tal efecto.
 
-XXXI Secretaría: La Secretaría de Medio Ambiente de Coahuila de Zaragoza.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXXI Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano.
 
 ### Capítulo III. Autoridades competentes
 
@@ -195,15 +197,23 @@ Son autoridades para la aplicación de esta ley:
 
 I El Gobernador del Estado;
 
-II La Secretaría de Medio Ambiente;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III La Secretaria de Fomento Agropecuario en lo que le compete;
+II La Secretaría de Medio Ambiente y Desarrollo Urbano;
 
-IV La Secretaría de Turismo en lo que es de su competencia o se le atribuya mediante acuerdos o convenios;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III La Secretaría de Desarrollo Rural en lo que le compete;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV La Secretaría de Economía y Turismo en lo que es de su competencia o se le atribuya mediante acuerdos o convenios;
 
 V La Fiscalía General del Estado en materia de delitos ambientales de competencia local; así como en casos de coordinación con otras dependencias o los municipios en temas relacionados con la presente;
 
-VI La Secretaría de Educación y Cultura, en materia de educación ambiental;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VI La Secretaría de Educación, en materia de educación ambiental;
 
 VII La Procuraduría del Medio Ambiente de Coahuila; y
 
@@ -383,9 +393,11 @@ La salud emocional y sicológica del personal que labora en dichos centros será
 
 Contratar o mantener personas que no reúnan las condiciones señaladas, importará las sanciones que sean aplicables conforme a derecho para los directivos y responsables de cada centro, dado que se estaría poniendo en riesgo la seguridad e integridad tanto del personal como de terceras personas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 28.
 
-La secretaría del Medio Ambiente en el Estado, deberá contemplar en su organigrama una Dirección de Zoológicos, con la finalidad de contar con el personal y los instrumentos necesarios para supervisar y autorizar la instalación y funcionamiento de los mismos.
+La secretaría del Medio Ambiente y Desarrollo Urbano, deberá contemplar en su organigrama una Dirección de Zoológicos, con la finalidad de contar con el personal y los instrumentos necesarios para supervisar y autorizar la instalación y funcionamiento de los mismos.
 
 Los permisos que se den para operar zoológicos o centros similares podrán ser revisados en cualquier momento, sin que se tengan que cumplir plazos o formas específicas.
 
@@ -895,7 +907,9 @@ El Consejo Ciudadano para la Preservación de la Vida Silvestre, se conformará 
 
 I Un representante del Gobernador del Estado, quien fungirá como presidente del mismo;
 
-II Un representante de la Secretaría de Medio Ambiente, quien desempeñará el cargo de Secretario del Consejo;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II Un representante de la Secretaría de Medio Ambiente y Desarrollo Urbano, quien desempeñará el cargo de Secretario del Consejo;
 
 III Un representante de la Fiscalía General del Estado;
 
@@ -1296,3 +1310,53 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE “SE REFORMAN LA FRACCIÓN XXXI DEL ARTÍCULO 13, LAS FRACCIONES II, III, IV Y VI DEL ARTÍCULO 14, EL PRIMER PÁRRAFO DEL ARTÍCULO 28, LA FRACCIÓN II DEL ARTÍCULO 85, DE LA LEY DE VIDA SILVESTRE PARA EL ESTADO DE COAHUILA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, la papelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
