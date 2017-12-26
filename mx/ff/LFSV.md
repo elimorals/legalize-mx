@@ -4,7 +4,7 @@ identifier: "LFSV"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1994-01-05"
-last_updated: "2011-11-16"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFSV"
 
 LEY FEDERAL DE SANIDAD VEGETAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1994.
 
@@ -460,13 +460,13 @@ La Secretaría brindará la asesoría técnica que en la materia le requieran lo
 
 ### CAPITULO I. DE LAS MEDIDAS FITOSANITARIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 19.
 
 Las medidas fitosanitarias tienen por objeto prevenir, confinar, excluir, combatir o erradicar las plagas que afectan a los vegetales, sus productos o subproductos, cuando puedan representar un riesgo fitosanitario.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 Las medidas fitosanitarias se determinarán en normas oficiales mexicanas, acuerdos, decretos, lineamientos y demás disposiciones legales aplicables en materia de sanidad vegetal, publicadas en el Diario Oficial de la Federación y que tendrán como finalidades entre otras, establecer:
 
@@ -546,7 +546,7 @@ Los requisitos y especificaciones señaladas en el reglamento de esta Ley y dem�
 
 La Secretaría podrá solicitar y recibir el apoyo de las autoridades federales, estatales y locales, para asegurar el cumplimiento de las disposiciones señaladas en este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 20.
 
@@ -564,7 +564,7 @@ III. Tomar en cuenta las normas, directrices o recomendaciones internacionales p
 
 IV. Cancelarse cuando ya no exista base científica que las sustente.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
@@ -574,7 +574,7 @@ La Secretaría elaborará, actualizará y difundirá el Directorio fitosanitario
 
 Dicho directorio consistirá en un catálogo de datos que incluirá la información básica de los profesionales y las personas físicas o morales acreditadas y aprobadas o que desarrollen actividades, que cumplan las normas oficiales mexicanas y demás disposiciones legales aplicables en materia de sanidad vegetal.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ### CAPITULO II. DE LA MOVILIZACION, IMPORTACION Y EXPORTACION EN MATERIA DE SANIDAD VEGETAL
 
@@ -742,7 +742,7 @@ IV. Aplicación inmediata de los métodos de combate existentes, preferentemente
 
 V. Evaluación detallada de los resultados y beneficios obtenidos anualmente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 34.
 
@@ -756,7 +756,7 @@ II. La plaga cuarentenaria que justifica su establecimiento; y
 
 III. El ámbito territorial de aplicación y los vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales o equipos sujetos a cuarentena que puedan representar un riesgo fitosanitario.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 35.
 
@@ -864,11 +864,11 @@ Para la instrumentación del Dispositivo Nacional de Emergencia, la Secretaría 
 
 La Secretaría podrá acordar y convenir con los gobiernos de los estados, organismos auxiliares y particulares interesados, la creación de uno o varios fondos de contingencia para afrontar inmediatamente las emergencias fitosanitarias que surjan por la presencia de plagas exóticas o existentes en el territorio nacional, que pongan en peligro el patrimonio agrícola o forestal del país.
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ## TITULO SEGUNDO BIS. DE LOS SISTEMAS DE REDUCCION DE RIESGOS DE CONTAMINACION EN LA PRODUCCION PRIMARIA DE VEGETALES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
@@ -946,11 +946,17 @@ La Secretaría supervisará y podrá reconocer, la implementación de sistemas d
 
 La Secretaría podrá coordinarse con la Secretaría de Salud para el control de los vegetales de importación que pudieran constituir un riesgo para la salud humana.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 47-K.
+
+La Secretaría y la Secretaría de Medio Ambiente y Recursos Naturales promoverán, dentro de sus respectivos ámbitos de competencia y de conformidad con las disposiciones aplicables, la reducción de riesgos de contaminación durante la producción primaria de vegetales, mediante la recolección de envases vacíos que contuvieron plaguicidas, con la finalidad de fortalecer las BPA´s, proteger los recursos naturales, prevenir riesgos de daño en la salud animal, humana y al medio ambiente.
+
 ## TITULO TERCERO. DE LA APROBACION, CERTIFICACION Y VERIFICACION E INSPECCION
 
 ### CAPITULO I. DE LA APROBACION
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 48.
 
@@ -964,7 +970,7 @@ III. Unidades de verificación; y
 
 IV. Laboratorios de pruebas.
 
-> <small>(DEROGADO SEGUNDO Y TERCER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(DEROGADO SEGUNDO Y TERCER PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 2007)</small>
 
@@ -1062,7 +1068,7 @@ La Secretaría aleatoriamente, podrá verificar o inspeccionar vegetales, sus pr
 
 Las unidades de verificación aprobadas o acreditadas, sólo podrán realizar verificaciones a petición de parte y sobre las materias en las que fueron aprobadas en términos del reglamento de esta ley; los dictámenes de verificación que formulen serán reconocidos por la Secretaría y los organismos de certificación acreditados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 57.
 
@@ -1074,7 +1080,7 @@ Si del resultado de la inspección se determina la comisión de alguna infracci�
 
 Cuando el dictamen de verificación o el acta de inspección determine la probable comisión de un delito, deberá formularse la denuncia correspondiente ante la autoridad competente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 58.
 
@@ -1114,7 +1120,7 @@ El campo agrícola, huerto, vivero, plantación, aserradero, patio de concentrac
 
 De comprobarse la presencia de una plaga o algún contaminante que afecte la sanidad de los vegetales, sus productos o subproductos, la Secretaría procederá en los términos del primer párrafo del artículo 30.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ## TITULO CUARTO. DE LOS INCENTIVOS, DENUNCIA CIUDADANA, SANCIONES, RECURSO DE REVISION Y DELITOS
 
@@ -1194,7 +1200,7 @@ XIV. Incumplir lo establecido en los artículos 53 y 56 de la presente ley; en c
 
 XV. No observar lo previsto en el artículo 57; en cuyo caso se impondrá multa de 500 a 10,000 salarios;
 
-XVI. Incumplir la obligación de guarda y custodia prevista en el párrafo segundo del artículo 60 de la ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios; y (sic)
+XVI. Incumplir la obligación de guarda y custodia prevista en el párrafo segundo del artículo 60 de la ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios; y
 
 > <small>(ADICIONADA, D.O.F. 26 DE JULIO DE 2007)</small>
 
@@ -1236,13 +1242,13 @@ La Secretaría ordenará que con cargo del infractor, se inmovilicen y, en su ca
 
 Asimismo, la Secretaría clausurará de manera temporal o definitiva en caso de reincidencia las instalaciones dedicadas a la producción de vegetales, sus productos o subproductos, cuando se infrinja lo previsto en el Título Segundo Bis de esta Ley y las normas oficiales mexicanas y demás disposiciones legales aplicables correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ###### Artículo 68.
 
 La Secretaría sancionará con la suspensión temporal de la aprobación, reconocimiento a terceros o permiso a:
 
-I. Las personas físicas o morales aprobadas que incumplan con lo dispuesto en los artículos 40, 48 párrafo final, 50, 53, 56 y 57 de esta ley; y (sic)
+I. Las personas físicas o morales aprobadas que incumplan con lo dispuesto en los artículos 40, 48 párrafo final, 50, 53, 56 y 57 de esta ley; y
 
 II. Los particulares que hayan obtenido el permiso previsto en el artículo 59 de esta ley cuando incumplan con las normas oficiales aplicables;
 
@@ -1278,7 +1284,7 @@ La interposición del recurso suspenderá la ejecución de la resolución impugn
 
 El reglamento de la presente ley establecerá los términos y demás requisitos para la tramitación y sustanciación del recurso.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 26 DE JULIO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 26 DE JULIO DE 2007)</small>
 
 ### CAPITULO V. DE LOS DELITOS
 
@@ -1334,7 +1340,7 @@ México, D.F., a 20 de diciembre de 1993.- Sen. Eduardo Robledo Rincón.- Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 26 DE JULIO DE 2007.
 
@@ -1347,3 +1353,11 @@ Artículo Tercero. En tanto no se expidan las disposiciones correspondientes, co
 D.O.F. 16 DE NOVIEMBRE DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 47-K A LA LEY FEDERAL DE SANIDAD VEGETAL".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a las Dependencias involucradas para el Ejercicio Fiscal que corresponda.
