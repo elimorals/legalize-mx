@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2017-11-23"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1735,23 +1735,35 @@ El Presidente será elegido por el pleno del Tribunal cada tres años en la prim
 
 El Tribunal Superior de Justicia funcionará en Pleno y en Salas, de conformidad con lo dispuesto en la Ley. El Pleno se integrará por el Presidente del Tribunal Superior de Justicia, quien lo presidirá, y por los presidentes de cada una de sus Salas, a excepción de la Sala de Responsabilidad Juvenil, las que resolverán en última instancia los asuntos de su competencia.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 58.
 
-Para ser magistrado se requiere:
+Para ser magistrado del Poder Judicial se requiere:
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 I. Ser veracruzano y haber residido en la Entidad durante los dos años anteriores al día de la designación; o mexicano por nacimiento con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano, en pleno ejercicio de sus derechos;
 
-II. Tener, cuando menos, treinta y cinco años cumplidos al día de la designación;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. Tener, cuando menos, treinta y cinco años cumplidos y no más de setenta al día de su designación;
 
 (NOTA: EL 10 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 79/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 III. Poseer, al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada, CON UNA ANTIGÜEDAD MÍNIMA DE CINCO AÑOS, y contar, preferentemente, con estudios de posgrado, o con experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 VI. Los demás requisitos que señale la ley.
 
@@ -1759,17 +1771,43 @@ VI. Los demás requisitos que señale la ley.
 
 No podrán ser magistrados las personas que hayan ocupado el cargo del Secretario del Despacho o su equivalente, Fiscal General del Estado, Senador, Diputado Local o Federal ni Presidente Municipal, durante el año previo al día de su nombramiento.
 
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 58 Bis.
+
+Para ser juez del Poder Judicial se requiere:
+
+I. Ser veracruzano y haber residido en la entidad durante los dos años anteriores al día de la designación; o mexicano por nacimiento con vecindad mínima de cinco años en el Estado; en ambos casos, ser ciudadano en pleno ejercicio de sus derechos;
+
+II. No tener más de sesenta y cinco años al día de su designación;
+
+III. Poseer, al día del nombramiento, título de licenciado en Derecho y cédula profesional expedidos por autoridad o institución legalmente facultada, con una antigüedad mínima de cinco años, y contar, preferentemente, con estudios de posgrado, o con experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+V. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;
+
+VI. Los demás requisitos que señale la ley.
+
+Serán nombrados por el Consejo de la Judicatura mediante concurso de oposición; durarán en su cargo cinco años y podrán ser ratificados las veces que sean necesarias, de acuerdo a los parámetros establecidos por el Consejo de la Judicatura, siempre que su función haya sido desempeñada con probidad, eficiencia y profesionalismo y que su expediente no tenga notas de demérito.
+
+Serán causas de remoción, además de las estipuladas por la Ley, el haber cumplido sesenta y cinco años de edad.
+
 (REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ENERO DE 2015) (F. DE E., G.O. 28 DE MAYO DE 2015)
 
 ###### Artículo 59.
 
 Los magistrados serán nombrados por el Congreso, a propuesta del Gobernador del Estado. En los recesos del Congreso la Diputación Permanente hará el nombramiento, con carácter provisional, en tanto aquél se reúne y da la aprobación definitiva.
 
-(NOTA: EL 10 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 79/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-(REFORMADO, G.O. 3 DE FEBRERO DE 2000) (F. DE E., G.O. 28 DE MAYO DE 2015)
+Los magistrados durarán en su cargo diez años, podrán ser ratificados por un período de cinco años, sólo serán removidos de conformidad con lo dispuesto en esta Constitución o por retiro forzoso. Será motivo de retiro forzoso:
 
-Los magistrados durarán en su cargo diez años IMPRORROGABLES, y sólo serán removidos de conformidad con lo dispuesto por esta Constitución.
+I. Haber cumplido los diez años en el cargo sin ratificación;
+
+II. Haber cumplido setenta años de edad; o
+
+III. Haber cumplido quince años en el cargo.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -12744,3 +12782,13 @@ G.O. 23 DE NOVIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. El Congreso del Estado deberá adecuar las leyes relativas, conforme a lo dispuesto en este Decreto, dentro de los sesenta días naturales siguientes al inicio de su vigencia.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 606 QUE REFORMA LOS ARTÍCULOS 58 Y 59 Y ADICIONA EL ARTÍCULO 58 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo. Se derogan todas las disposiciones que lo contravengan y se harán los ajustes necesarios en las leyes respectivas para su correcta implementación.
+
+Tercero. Todos los magistrados del Poder Judicial del Estado continuarán en el desempeño de su cargo por el plazo que para cada uno corresponda de acuerdo a su nombramiento, acatando las normas establecidas en la propia Constitución, con la calidad de magistrados propietarios y en igualdad de derechos y condiciones.
