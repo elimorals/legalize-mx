@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2016-12-30"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -1521,11 +1521,11 @@ HIDALGO 0.00157628307
 
 TOTAL 1.00000000000
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Artículo tercero. Para el ejercicio fiscal del año 2017, los fondos de participaciones que establecen los artículos 9 y 14 de esta Ley, el Fondo de Compensación del Impuesto sobre Automóviles Nuevos, los Fondos de Fiscalización y el Fondo de Extracción de Hidrocarburos se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2016, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
+Artículo tercero. Para el ejercicio fiscal del año 2018, los fondos de participaciones que establecen los artículos 9 y 14 de esta Ley, el Fondo de Compensación del Impuesto Sobre Automóviles Nuevos, los Fondos de Fiscalización y el Fondo de Extracción de Hidrocarburos se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2017, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
 
-La recaudación derivada de la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios al consumo de gasolina y diesel, en su porcentaje correspondiente al 9/11, se distribuirá a los municipios de la Entidad en 70% con base en el factor de distribución del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal (FORTAMUNDF) y en 30% con base en el Fondo de Infraestructura Social Municipal (FISM) vigentes en 2016.
+La recaudación derivada de la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios al consumo de gasolina y diesel, en su porcentaje correspondiente al 9/11, se distribuirá a los municipios de la Entidad en 70% con base en el factor de distribución del Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal (FORTAMUNDF) y en 30% con base en el Fondo de Infraestructura Social Municipal (FISM) vigentes en 2017.
 
 Artículo cuarto. (DEROGADO, G.O. 9 DE JUNIO DE 2008)
 
@@ -1716,6 +1716,14 @@ G.O. 30 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 9 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor el día 1° de enero de 2017, previa su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 386 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto iniciará su vigencia el día 1° de enero de 2018, previa su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
