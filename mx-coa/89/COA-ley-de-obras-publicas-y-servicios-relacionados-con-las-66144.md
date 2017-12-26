@@ -4,7 +4,7 @@ identifier: "COA-ley-de-obras-publicas-y-servicios-relacionados-con-las-66144"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2017-11-21"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -187,11 +187,11 @@ El Poder Ejecutivo del Estado, a través de la Secretaría y el Órgano de Contr
 
 Tales disposiciones se publicarán en el Periódico Oficial del Gobierno del Estado de Coahuila y en los medios de comunicación electrónica que establezca el Órgano de Control.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 8.
 
-La Secretaría de Desarrollo Económico, en el ámbito de su competencia y con la opinión de la Secretaría y del Órgano de Control, promoverá entre los órganos ejecutores, la participación de las empresas con domicilio fiscal en Coahuila de Zaragoza, especialmente de las micro, pequeñas y medianas.
+La Secretaría de Economía y Turismo, en el ámbito de su competencia y con la opinión de la Secretaría y del Órgano de Control, promoverá entre los órganos ejecutores, la participación de las empresas con domicilio fiscal en Coahuila de Zaragoza, especialmente de las micro, pequeñas y medianas.
 
 ###### Artículo 9.
 
@@ -271,11 +271,11 @@ Los Órganos Ejecutores que realicen obras públicas y servicios relacionados co
 
 Los Órganos Ejecutores, cuando sea el caso, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas. En las convocatorias a la licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-Los Órganos Ejecutores estarán obligados a considerar los efectos que se puedan causar sobre el medio ambiente con la ejecución de las obras públicas, con apoyo en la evaluación de impacto ambiental prevista por la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieran deteriorarse y se dará la intervención que corresponda a la Secretaría de Medio Ambiente del Estado y a las dependencias y entidades que tengan atribuciones en la materia.
+Los Órganos Ejecutores estarán obligados a considerar los efectos que se puedan causar sobre el medio ambiente con la ejecución de las obras públicas, con apoyo en la evaluación de impacto ambiental prevista por la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieran deteriorarse y se dará la intervención que corresponda a la Secretaría de Medio Ambiente y Desarrollo Urbano y a las dependencias y entidades que tengan atribuciones en la materia.
 
 ###### Artículo 19.
 
@@ -1449,11 +1449,11 @@ De existir desacuerdo entre las partes respecto al finiquito, o bien, el contrat
 
 Determinado el saldo total, la dependencia o entidad pondrá a disposición del contratista el pago correspondiente, mediante su ofrecimiento o la consignación respectiva, o bien, solicitará el reintegro de los importes resultantes; debiendo, en forma simultánea, levantar el acta administrativa que dé por extinguidos los derechos y obligaciones asumidos por ambas partes en el contrato.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 65.
 
-A la conclusión de las obras públicas, los órganos ejecutores, deberán informar a la Secretaría, solicitando se proceda a registrar en las oficinas de Catastro y del Registro Público de la Propiedad, los títulos de propiedad correspondientes de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las obras públicas y su inclusión en el catálogo e inventario de los bienes y recursos del estado y municipios.
+A la conclusión de las obras públicas, los órganos ejecutores, deberán informar a la Secretaría, solicitando se proceda a registrar en las oficinas del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, los títulos de propiedad correspondientes de aquellos inmuebles que se hayan adquirido con motivo de la construcción de las obras públicas y su inclusión en el catálogo e inventario de los bienes y recursos del estado y municipios.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -1781,7 +1781,9 @@ Las personas físicas o morales interesadas en inscribirse en el Padrón, deber�
 
 I. Solicitarlo en los formatos que, para el efecto, apruebe el Órgano Estatal de Control;
 
-II. Tratándose de sociedades o asociaciones deberán acompañar copia certificada del acta constitutiva y de sus reformas, debidamente inscritas en el Registro Público de la Propiedad, Sección Comercio;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. Tratándose de sociedades o asociaciones deberán acompañar copia certificada del acta constitutiva y de sus reformas, debidamente inscritas en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, Sección Comercio;
 
 > <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -2142,3 +2144,51 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. TRANSITOROS DEL DECRETO NÚMERO 1177 POR EL QUE “SE REFORMA (SIC) LOS ARTÍCULOS 8, 18, 65 Y LA FRACCIÓN II DEL ARTÍCULO 94, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]</small>
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
