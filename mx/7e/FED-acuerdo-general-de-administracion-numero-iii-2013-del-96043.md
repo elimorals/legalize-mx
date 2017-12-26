@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-iii-2013-del-96043"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-06-27"
-last_updated: "2013-06-27"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96043&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-06-27"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO III/2013, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE ESTABLECEN LAS FACULTADES Y ATRIBUCIONES DE LA UNIDAD DE IGUALDAD DE GENERO]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO III/2013 DE VEINTISIETE DE JUNIO DE DOS MIL TRECE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN POR EL QUE SE ESTABLECEN LAS FACULTADES Y ATRIBUCIONES DE LA UNIDAD DE IGUALDAD DE GÉNERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo 1, Agosto de 2013, páginas de la 1763 a la 1766.
 
@@ -86,3 +88,19 @@ Ministro Presidente Juan N. Silva Meza
 Notas: El Acuerdo General de Administración Número II/2013 del cinco de abril de dos mil trece, del Presidente de la Suprema Corte de Justicia de la Nación por el que se Suprime la Unidad de Enlace del Programa de Equidad de Género en la Suprema Corte de Justicia de la Nación y se crea la Unidad de Igualdad de Género, aparece publicado en el Semanario Judicial de la Federación y su Gaceta, Libro XIX, Tomo 3, abril de 2013, página 2315.
 
 El Reglamento Interior en Materia de Administración de la Suprema Corte de Justicia de la Nación citado, aparece publicado en el Semanario Judicial de la Federación y su Gaceta, Novena Época, Tomo XXXIII, marzo de 2011, página 2563.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
