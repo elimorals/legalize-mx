@@ -4,7 +4,7 @@ identifier: "COA-ley-para-combatir-el-ruido-en-el-estado-de-coahuila-de-89853"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-16"
-last_updated: "2013-12-27"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA COMBATIR EL RUIDO EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el día martes 16 de octubre de 2012.
 
@@ -57,9 +57,9 @@ c) La implementación de medidas, programas y acciones tendientes a someter al c
 
 La aplicación de la presente Ley corresponde a:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-A) El Ejecutivo del Estado por conducto de la Secretaría de Medio Ambiente del Estado; la Secretaría de Salud; la Procuraduría de Protección al Ambiente del Estado de Coahuila y las autoridades que para tal efecto en su momento sean designadas por el Gobernador; y
+A) El Ejecutivo del Estado por conducto de la Secretaría de Medio Ambiente y Desarrollo Urbano; la Secretaría de Salud; la Procuraduría de Protección al Ambiente del Estado de Coahuila y las autoridades que para tal efecto en su momento sean designadas por el Gobernador; y
 
 B) Los municipios del Estado de Coahuila, por conducto de sus departamentos o direcciones de ecología, salud, o las que para tal efecto designen los presidentes municipales y los ayuntamientos.
 
@@ -87,7 +87,9 @@ IX.-Responsable de Fuente Generadora del Ruido: Toda persona física o moral, p�
 
 X.- Ruido: Todo sonido indeseable que moleste o perjudique a las personas, y;
 
-XI.- Secretaría: La Secretaría de Medio Ambiente de Coahuila.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XI.- Secretaría: La Secretaría de Medio Ambiente y Desarrollo Urbano.
 
 Para las definiciones no previstas en la presente ley, se tomarán las establecidas en las normas oficiales mexicanas en materia de ruido.
 
@@ -437,31 +439,31 @@ Lo anterior sin perjuicio de los ilícitos penales y civiles que puedan configur
 
 Las sanciones que imponga la Secretaría y los municipios se determinarán considerando los aspectos establecidos en el Artículo 173 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en lo que sea conducente.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 22.
 
 Las sanciones económicas se aplicarán de conformidad a lo siguiente:
 
-I.- Multa de 50 hasta 200 salarios mínimos, a quien cometa las infracciones previstas en la fracción I del artículo 20.
+I.- Multa de 50 hasta 200 veces el valor diario de la unidad de medida y actualización, a quien cometa las infracciones previstas en la fracción I del artículo 20.
 
-En caso de reincidencia la multa podrá elevarse hasta un rango de entre 201 y 600 salarios mínimos.
+En caso de reincidencia la multa podrá elevarse hasta un rango de entre 201 y 600 veces el valor diario de la unidad de medida y actualización.
 
-II.- Multa de 400 hasta 1200 salarios mínimos por las infracciones establecidas en la fracción II, del artículo 20.
+II.- Multa de 400 hasta 1200 veces el valor diario de la unidad de medida y actualización, por las infracciones establecidas en la fracción II, del artículo 20.
 
 En caso de reincidencia se procederá a la clausura definitiva del lugar.
 
-III.- Multa de 50 a 100 salarios mínimos por las infracciones previstas en la fracción III, del artículo 20.
+III.- Multa de 50 a 100 veces el valor diario de la unidad de medida y actualización, por las infracciones previstas en la fracción III, del artículo 20.
 
-IV.- Multa de 400 hasta 950 salarios mínimos por la infracción señalada en la fracción IV del artículo 20.
+IV.- Multa de 400 hasta 950 veces el valor diario de la unidad de medida y actualización, por la infracción señalada en la fracción IV del artículo 20.
 
 La reincidencia se castigará con arresto de hasta 36 horas de quienes oponen resistencia, y con la clausura temporal del lugar, pudiendo ser esta de entre 15 y 60 días.
 
-V.- Multa de 500 hasta 2000 salarios mínimos por la infracción prevista en la fracción VI del artículo 20.
+V.- Multa de 500 hasta 2000 veces el valor diario de la unidad de medida y actualización, por la infracción prevista en la fracción VI del artículo 20.
 
-VI.- Multa de 100 hasta 250 salarios mínimos por las infracciones establecidas en las fracciones V, VII y VIII del artículo 20.
+VI.- Multa de 100 hasta 250 veces el valor diario de la unidad de medida y actualización, por las infracciones establecidas en las fracciones V, VII y VIII del artículo 20.
 
-VII.- Multa de 150 hasta 500 salarios mínimos por la infracción plasmada en la fracción IX del artículo 20.
-
-La imposición de las multas se realizará con base en el salario mínimo general diario vigente en el Estado al momento de cometerse la infracción.
+VII.- Multa de 150 hasta 500 veces el valor diario de la unidad de medida y actualización, por la infracción plasmada en la fracción IX del artículo 20.
 
 En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
@@ -542,3 +544,51 @@ EGLANTINA CANALES GUTIÉRREZ
 P.O. 27 DE DICIEMBRE DE 2013.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 1177 POR EL CUAL “SE MODIFICA EN (SIC) INCISO A) DEL ARTÍCULO 3, LA FRACCIÓN IX DEL ARTÍCULO 4 Y EL ARTÍCULO 22, TODOS DE LA LEY PARA COMBATIR EL RUIDO EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
