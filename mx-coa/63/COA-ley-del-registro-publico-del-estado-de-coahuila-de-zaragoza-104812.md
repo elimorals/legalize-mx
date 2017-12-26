@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-publico-del-estado-de-coahuila-de-zaragoza-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2017-04-18"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -45,15 +45,17 @@ LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 Las disposiciones de esta ley son de orden público e interés social. Su observancia es obligatoria y su ámbito de aplicación es en el territorio libre y soberano del Estado de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 2.
 
-El Registro Público del Estado de Coahuila de Zaragoza, es la institución jurídica unitaria, dependiente del Poder Ejecutivo, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes, y de los actos relativos a la constitución, modificación y extinción de las personas morales; así como de los otros actos, negocios, resoluciones y diligencias judiciales a los que el Código Civil para el Estado de Coahuila de Zaragoza, la Ley para la Familia de Coahuila de Zaragoza y esta ley se refieren y las consecuencias inherentes a dichas inscripciones. Los efectos del Registro son declarativos y no constitutivos.
+El Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, es la institución jurídica, dependiente del Poder Ejecutivo, que tiene por objeto regular la inscripción de los actos relativos a la constitución, transmisión, modificación, gravamen y extinción del derecho de propiedad y de los demás derechos reales sobre los bienes, y de los actos relativos a la constitución, modificación y extinción de las personas morales; así como de los otros actos, negocios, resoluciones y diligencias judiciales a los que el Código Civil para el Estado de Coahuila de Zaragoza, la Ley para la Familia de Coahuila de Zaragoza y esta ley se refieren y las consecuencias inherentes a dichas inscripciones; así mismo, ejercer las atribuciones y competencias que se establecen en la Ley General del Catastro y la Información Territorial para el Estado de Coahuila de Zaragoza. Los efectos del Registro son declarativos y no constitutivos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 3.
 
-El Registro Público se encuentra a cargo de la Dirección General del Registro Público del Estado de Coahuila de Zaragoza, con adscripción a la Secretaría de Gobierno.
+El Instituto Registral y Catastral del Estado de Coahuila de Zaragoza se encuentra a cargo de una Dirección General, con adscripción a la Secretaría de Gobierno.
 
 ###### Artículo 4.
 
@@ -63,19 +65,29 @@ I. Consentimiento. Declaración de la voluntad del titular registral o interesad
 
 II. Especialidad. Precisión o individualización del acto inscrito de tal manera que se identifique de manera indubitable a la naturaleza y alcances de los derechos inscritos.
 
-III. Fe pública registral: Verdad jurídica del contenido de los asientos del Registro Público, salvo prueba en contrario. Por este principio se reputa siempre exacto en beneficio del adquirente que contrató, confiando en el contenido de sus asientos y en consecuencia, se le protege con carácter absoluto en su adquisición;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IV. Inscripción. Todo acto que, conforme a la ley, sea inscrito en el Registro Público del Estado de Coahuila de Zaragoza, será bastante para que surta sus efectos ante terceros. Los títulos que conforme a esta ley sean registrables y no se registren, no producirán efectos en perjuicio de tercero.
+III. Fe pública registral: Verdad jurídica del contenido de los asientos del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, salvo prueba en contrario. Por este principio se reputa siempre exacto en beneficio del adquirente que contrató, confiando en el contenido de sus asientos y en consecuencia, se le protege con carácter absoluto en su adquisición;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. Inscripción. Todo acto que, conforme a la ley, sea inscrito en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, será bastante para que surta sus efectos ante terceros. Los títulos que conforme a esta ley sean registrables y no se registren, no producirán efectos en perjuicio de tercero.
 
 V. Legalidad. Consiste en que sólo se inscribirán los actos o documentos que reúnan los requisitos exigidos por la legislación aplicable para su inscripción.
 
 VI. Legitimación. Certeza y seguridad jurídica que se tiene sobre los derechos inscritos, los cuales gozan de una presunción de veracidad, que se mantiene hasta en tanto no se demuestre la discordancia entre el registro y la realidad.
 
-VII. Prelación. Preferencia entre derechos sobre dos o más actos que se refieran a un mismo folio, y se determinará por el orden de la presentación en el Registro Público del Estado de Coahuila de Zaragoza y no por la fecha del título o documento que contiene el acto jurídico a registrar.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VIII. Publicidad. Obligación de hacer del conocimiento público todos los actos o documentos inscritos en el Registro Público del Estado de Coahuila de Zaragoza, a fin de que surtan efectos contra terceros.
+VII. Prelación. Preferencia entre derechos sobre dos o más actos que se refieran a un mismo folio, y se determinará por el orden de la presentación en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza y no por la fecha del título o documento que contiene el acto jurídico a registrar.
 
-IX. Rogación. Las inscripciones en el Registro Público del Estado de Coahuila de Zaragoza se realizan a petición de parte o de las autoridades administrativas o judiciales; no son procedentes las inscripciones por voluntad del registrador o de oficio, toda vez que el Registro Público del Estado de Coahuila de Zaragoza tiene una función declarativa y no constitutiva.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VIII. Publicidad. Obligación de hacer del conocimiento público todos los actos o documentos inscritos en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, a fin de que surtan efectos contra terceros.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IX. Rogación. Las inscripciones en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza se realizan a petición de parte o de las autoridades administrativas o judiciales; no son procedentes las inscripciones por voluntad del registrador o de oficio, toda vez que el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza a (sic) tiene una función declarativa y no constitutiva.
 
 X. Tracto Sucesivo. Encadenamiento ininterrumpido de inscripción que impide que un mismo derecho real esté inscrito al mismo tiempo a nombre de dos o más personas, a menos que se trate de copropiedad, puesto que toda inscripción tiene un antecedente y debe extinguirse para dar lugar a una nueva.
 
@@ -83,13 +95,21 @@ X. Tracto Sucesivo. Encadenamiento ininterrumpido de inscripción que impide que
 
 Para los efectos de la presente ley se entenderá:
 
-I. Anotación Preventiva: Al asiento temporal y provisional de un documento en el Registro Público del Estado de Coahuila de Zaragoza como garantía precautoria de un derecho o de una futura inscripción;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Avisos de Presentación: A los medios por los cuales el Notario hará de conocimiento del Registro Público del Estado de Coahuila de Zaragoza la posible celebración de un determinado acto jurídico, y en su caso, la formalización de ese acto en su protocolo. Se clasificarán en avisos preventivos y definitivos;
+I. Anotación Preventiva: Al asiento temporal y provisional de un documento en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza como garantía precautoria de un derecho o de una futura inscripción;
 
-III. Aviso de Presentación Definitivo: Aquel por el cual el Notario comunica al Registro Público del Estado de Coahuila de Zaragoza, que el acto jurídico ya se formalizó;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IV. Aviso de Presentación Preventivo: Aquel por el cual el Notario comunica al Registro Público del Estado de Coahuila de Zaragoza, que ante él se está tramitando un determinado acto jurídico, con el objeto de publicitar la prelación;
+II. Avisos de Presentación: A los medios por los cuales el Notario hará de conocimiento del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza la posible celebración de un determinado acto jurídico, y en su caso, la formalización de ese acto en su protocolo. Se clasificarán en avisos preventivos y definitivos;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. Aviso de Presentación Definitivo: Aquel por el cual el Notario comunica al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, que el acto jurídico ya se formalizó;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. Aviso de Presentación Preventivo: Aquel por el cual el Notario comunica al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, que ante él se está tramitando un determinado acto jurídico, con el objeto de publicitar la prelación;
 
 V. Boletín Registral: Medio por el cual las oficinas registrales hacen del conocimiento general el estado que guardan los trámites;
 
@@ -99,13 +119,19 @@ VII. Calificador/Validador: Licenciados en derecho o abogados, encargados de rea
 
 VIII. Código Civil: Al Código Civil para el Estado de Coahuila de Zaragoza;
 
-IX. Catálogo de actos: Documento jurídico publicado en el Periódico Oficial del Estado, en el cual se establecen los actos jurídicos y los requisitos para que sea procedente su inscripción ante el Registro Público;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IX. Catálogo de actos: Documento jurídico publicado en el Periódico Oficial del Estado, en el cual se establecen los actos jurídicos y los requisitos para que sea procedente su inscripción ante el Instituto;
 
 X. Coordinador Jurídico: A la persona titular de la Coordinación Jurídica de las oficinas registrales;
 
-XI. Director General: A la persona titular de la Dirección General del Registro Público del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XII. Documento: Al documento que conste física o electrónicamente en el acervo del Registro Público del Estado de Coahuila de Zaragoza;
+XI. Director General: A la persona titular de la Dirección General del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XII. Documento: Al documento que conste física o electrónicamente en el acervo del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza;
 
 XIII. Ejecutivo: A la persona titular del Ejecutivo del Estado;
 
@@ -121,15 +147,19 @@ XVII. Función Registral: Al conjunto de procesos de operación y reglas que deb
 
 XVIII. Inscripción: A todo asiento o anotación realizado en el folio correspondiente, en relación con los actos jurídicos a que se refiere el Código Civil, la Ley para la Familia y otras disposiciones legales aplicables;
 
-XIX. Oficina Registral: Unidades desconcentradas de la Dirección General, que tienen como objetivo realizar la función registral sobre los bienes en los municipios que comprendan la circunscripción de su competencia;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIX. Oficina Registral: Unidades desconcentradas de la Dirección General del Instituto, que tienen como objetivo realizar la función registral sobre los bienes en los municipios que comprendan la circunscripción de su competencia;
 
 XX. Registrador: A la persona titular de cada una de las oficinas registrales ubicadas en el estado de Coahuila de Zaragoza de acuerdo a lo establecido en el artículo 7 de la presente ley;
 
-XXI. Registro Público: Al Registro Público del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+XXI. Instituto: Al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza;
 
-XXII. Reglamento: Al Reglamento Interior del Registro Público del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXII. Reglamento: Al Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -139,17 +169,21 @@ XXIII. Secretaría: A la Secretaría de Gobierno;
 
 XXIV. Ley para la Familia: A la Ley para la Familia de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 6.
 
-El Registro Público desempeñará las funciones registrales, con estricto apego a esta ley, al Código Civil, la Ley para la Familia y demás disposiciones legales, reglamentarias y administrativas que resulten aplicables.
+El Instituto desempeñará las funciones registrales, con estricto apego a esta ley, al Código Civil, la Ley para la Familia y demás disposiciones legales, reglamentarias y administrativas que resulten aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-La Dirección General del Registro Público tendrá su domicilio en el lugar que determine el Ejecutivo dentro de la zona metropolitana de Saltillo, Coahuila de Zaragoza, asimismo podrá establecer oficinas registrales, en los municipios que por su actividad inmobiliaria y económica en general lo justifiquen.
+La Dirección General del Instituto tendrá su domicilio en el lugar que determine el Ejecutivo dentro de la zona metropolitana de Saltillo, Coahuila de Zaragoza, asimismo podrá establecer oficinas registrales, en los municipios que por su actividad inmobiliaria y económica en general lo justifiquen.
 
-Para los efectos del servicio el Registro Público estará integrado por las oficinas registrales que se señalan a continuación:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Para los efectos del servicio el Instituto estará integrado por las oficinas registrales que se señalan a continuación:
 
 I. Oficina Saltillo: Ubicada en la zona metropolitana de Saltillo, tendrá jurisdicción en el municipio del mismo nombre, así como en los municipios de General Cepeda, Ramos Arizpe y Arteaga.
 
@@ -167,15 +201,21 @@ VII. Oficina Parras. Ubicada en el municipio de Parras, tendrá jurisdicción en
 
 VIII. Oficina San Pedro: Ubicada en el municipio de San Pedro de las Colonias tendrá jurisdicción en el municipio del mismo nombre, así como en el municipio de Francisco I. Madero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 8.
 
-Para su funcionamiento el Registro Público contará con la siguiente estructura organizacional:
+Para su funcionamiento el Instituto contará con la siguiente estructura organizacional:
 
 I. Dirección General, integrada a su vez por la Dirección Jurídica, Dirección de Seguimiento, Dirección de Administración y Control Interno, la Dirección de Archivo, Coordinación de Informática, Coordinación de Calidad; y
 
 II. Oficinas Registrales, integradas a su vez por la Dirección de la Oficina Registral, Coordinación Jurídica; además de las áreas de Recepción y Entrega, Inscripción, Certificación, Archivo y Unidad de Informática.
 
-### CAPÍTULO II. DIRECCIÓN GENERAL DEL REGISTRO PÚBLICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO II. DIRECCIÓN GENERAL DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 9.
 
@@ -197,49 +237,75 @@ Facultades y obligaciones de la persona titular de la Dirección General:
 
 I. Planear, organizar, coordinar, dirigir, controlar y evaluar los servicios de las oficinas registrales del estado;
 
-II. Resolver las consultas formuladas por el personal directivo, administrativo y operativo adscrito al Registro Público;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. Resolver las consultas formuladas por el personal directivo, administrativo y operativo adscrito al Instituto;
 
 III. Comunicar a los registradores, mediante circulares numeradas en forma progresiva, las determinaciones emitidas por el Ejecutivo o por la propia Dirección, respecto de la institución;
 
 IV. Proponer al Ejecutivo los nombramientos de los directores de las oficinas registrales;
 
-V. Autorizar la asignación de funciones del personal del Registro Público;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VI. Gestionar la instrumentación de los sistemas de tecnología requeridos para el funcionamiento del Registro Público;
+V. Autorizar la asignación de funciones del personal del Instituto;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VI. Gestionar la instrumentación de los sistemas de tecnología requeridos para el funcionamiento del Instituto;
 
 VII. Informar a la Secretaría sobre las actividades de las diferentes oficinas registrales y estadística de los servicios proporcionados;
 
-VIII. Dictar las medidas necesarias para agilizar la actividad en el Registro Público, promoviendo el desarrollo administrativo y tecnológico de los procedimientos registrales;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IX. Supervisar permanentemente la actualización del sistema registral, así como fortalecer la vinculación técnica, operativa y jurídica del Registro Público con otras dependencias, entidades e instituciones con el objeto de consolidar la administración territorial, catastral y registral del estado;
+VIII. Dictar las medidas necesarias para agilizar la actividad en el Instituto, promoviendo el desarrollo administrativo y tecnológico de los procedimientos registrales;
 
-X. Promover la implementación y operación del sistema de gestión de calidad en el Registro Público;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IX. Supervisar permanentemente la actualización del sistema registral, así como fortalecer la vinculación técnica, operativa y jurídica del Instituto o con otras dependencias, entidades e instituciones con el objeto de consolidar la administración territorial, catastral y registral del estado;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+X. Promover la implementación y operación del sistema de gestión de calidad en el Instituto;
 
 XI. Instruir la conformación de la estadística relativa a los movimientos registrales;
 
-XII. Elaborar y presentar propuestas de programas institucionales de corto, mediano y largo plazo, con los correspondientes proyectos de presupuestos, a fin de contar oportunamente con los recursos necesarios para la prestación del servicio registral y de favorecer la constante mejora y actualización del Registro Público;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XIII. Representar al Registro Público en los procedimientos judiciales o administrativos, en asuntos de su competencia y en aquellos en que sea parte, para lo cual podrá auxiliarse de la Dirección Jurídica;
+XII. Elaborar y presentar propuestas de programas institucionales de corto, mediano y largo plazo, con los correspondientes proyectos de presupuestos, a fin de contar oportunamente con los recursos necesarios para la prestación del servicio registral y de favorecer la constante mejora y actualización del Instituto;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIII. Representar al Instituto en los procedimientos judiciales o administrativos, en asuntos de su competencia y en aquellos en que sea parte, para lo cual podrá auxiliarse de la Dirección Jurídica;
 
 XIV. Proponer a la Secretaría las reformas y adiciones a los ordenamientos legales en materia registral;
 
 XV. Conocer, substanciar y resolver los recursos de inconformidad; pudiendo confirmar, modificar o revocar los actos que acuerden las oficinas registrales, para esto podrá auxiliarse de la Dirección Jurídica;
 
-XVI. Conocer, iniciar y resolver el procedimiento administrativo para fincar responsabilidad a los servidores públicos a su cargo, de acuerdo a la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVI. Conocer, iniciar y resolver el procedimiento administrativo para fincar responsabilidad a los servidores públicos a su cargo, de acuerdo a la Ley General de Responsabilidades Administrativas;
 
 XVII. Proponer a la Secretaría, la celebración de convenios y acuerdos de coordinación con dependencias o entidades federales, estatales o municipales, así como con organizaciones vinculadas con los servicios registrales, a efecto de difundir o mejorar la función registral;
 
-XVIII. Autorizar los manuales de organización, de procedimientos, del sistema informático registral y de servicios electrónicos que se requieran para el funcionamiento eficiente del Registro Público;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XIX. Actualizar la prestación de los servicios que ofrece el Registro Público, así como los trámites, requisitos y formatos para acceder a los mismos;
+XVIII. Autorizar los manuales de organización, de procedimientos, del sistema informático registral y de servicios electrónicos que se requieran para el funcionamiento eficiente del Instituto;
 
-XX. Ser depositario de la fe pública registral en el estado, emitiendo las certificaciones que obren en el acervo del Registro Público;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIX. Actualizar la prestación de los servicios que ofrece el Instituto, así como los trámites, requisitos y formatos para acceder a los mismos;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XX. Ser depositario de la fe pública registral en el estado, emitiendo las certificaciones que obren en el acervo del Instituto;
 
 XXI. Delegar facultades y obligaciones cuando las necesidades del servicio lo requieran, en términos de la presente ley, del Código Civil, del reglamento y las demás disposiciones legales que resulten aplicables; y
 
 XXII. Designar a la persona que suplirá sus ausencias temporales cuando éstas no excedan de un término mayor a quince días naturales.
 
 XXIII. Las que le sean encomendadas por esta ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 12.
 
@@ -299,7 +365,9 @@ IX. Rectificar los errores materiales contenidos en las inscripciones; o los de 
 
 X. Rendir a la Dirección General los informes que se le requieran de conformidad con lo establecido en el reglamento y el sistema de gestión de calidad;
 
-XI. Representar al Registro Público en los procedimientos judiciales o administrativos, en asuntos de su competencia y en aquellos en que sea parte;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XI. Representar al Instituto en los procedimientos judiciales o administrativos, en asuntos de su competencia y en aquellos en que sea parte;
 
 XII. Conocer, iniciar y resolver el procedimiento administrativo para fincar responsabilidad a los servidores públicos a su cargo, de acuerdo a los lineamientos que establece la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza;
 
@@ -315,21 +383,27 @@ XVII. Las demás que le asigne esta ley, el reglamento, el Director General y ot
 
 ### CAPÍTULO IV. DEL PERSONAL EN GENERAL
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 17.
 
-El personal del Registro Público deberá cumplir con los requisitos que establezcan la ley, el reglamento, las disposiciones aplicables en la materia y/o la Secretaría.
+El personal del Instituto deberá cumplir con los requisitos que establezcan la ley, el reglamento, las disposiciones aplicables en la materia y/o la Secretaría.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-El personal del Registro Público deberá de excusarse de conocer cuando ellos, su cónyuge o parientes hasta el cuarto grado de consanguinidad o de afinidad tengan algún interés en el asunto o sobre el documento que verse a calificar, de acuerdo al procedimiento establecido en el reglamento.
+El personal del Instituto deberá de excusarse de conocer cuando ellos, su cónyuge o parientes hasta el cuarto grado de consanguinidad o de afinidad tengan algún interés en el asunto o sobre el documento que verse a calificar, de acuerdo al procedimiento establecido en el reglamento.
 
 ## TÍTULO SEGUNDO. DEL PROCESO REGISTRAL
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 19.
 
-El Registro Público podrá inscribir documentos, hacer anotaciones y extender constancias y certificaciones en documentos físicos o electrónicos atendiendo a la distinta naturaleza de los bienes, actos o contratos, para lo cual se diversificará en los siguientes ramos:
+El Instituto podrá inscribir documentos, hacer anotaciones y extender constancias y certificaciones en documentos físicos o electrónicos atendiendo a la distinta naturaleza de los bienes, actos o contratos, para lo cual se diversificará en los siguientes ramos:
 
 I. Registro de bienes inmuebles;
 
@@ -371,11 +445,13 @@ VI. La constitución, modificación y extinción del patrimonio de la familia.
 
 VII. Las resoluciones judiciales, administrativas, arbitrales o del trabajo, que produzcan alguno o algunos de los efectos previstos en el párrafo primero de este artículo.
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 VIII. La hipoteca, los actos por virtud de los cuales se haya vendido, donado, cedido, dado en pago, adjudicado, permutado o extinguido por cualquier causa el derecho real de hipoteca, o las resoluciones en que se haya declarado consumada la prescripción negativa del mismo derecho.
 
 El derecho real de hipoteca establecido sobre bienes que pertenezcan a menores o incapacitados, sólo se inscribirá si existe resolución judicial ejecutoriada en la que se haya concedido permiso a padres o tutores para gravar los bienes de sus representados.
 
-Para que una escritura de hipoteca pueda ser inscrita en el Registro Público, el instrumento deberá contener, además de la fecha y hora en que se celebra el acto, el día y la hora en que se haya constituido la hipoteca, la inserción del certificado o certificados registrales en que consten la libertad del inmueble y/o los gravámenes anteriores que reporten, así como las limitaciones del dominio.
+Para que una escritura de hipoteca pueda ser inscrita en el Instituto, el instrumento deberá contener, además de la fecha y hora en que se celebra el acto, el día y la hora en que se haya constituido la hipoteca, la inserción del certificado o certificados registrales en que consten la libertad del inmueble y/o los gravámenes anteriores que reporten, así como las limitaciones del dominio.
 
 IX. Las resoluciones judiciales, administrativas o laborales, que hayan causado estado y que produzcan alguno de los efectos a que se contrae el párrafo primero de éste artículo.
 
@@ -401,7 +477,9 @@ Cuando se trate de testamento simplificado se harán las anotaciones en el apart
 
 Los Registradores sólo proporcionarán informes y expedirán constancias, en relación con testamentos ológrafos al mismo testador o a la autoridad judicial competente, en cumplimiento de un mandato de la misma.
 
-XIX. Los planes de desarrollo urbano y todas aquellas resoluciones administrativas que se dicten con apoyo en los propios planes o que afecten el desarrollo urbano, así como las autorizaciones de fraccionamientos, condominios, usos del suelo y demás similares otorgadas por las autoridades correspondientes de conformidad con la Ley de Asentamientos Humanos y Desarrollo Urbano del Estado de Coahuila de Zaragoza, así como las declaratorias ecológicas, zonas protegidas y demás que conforme a los ordenamientos en materia ecológica sean sujetos de inscripción en el Registro Público.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIX. Los planes de desarrollo urbano y todas aquellas resoluciones administrativas que se dicten con apoyo en los propios planes o que afecten el desarrollo urbano, así como las autorizaciones de fraccionamientos, condominios, usos del suelo y demás similares otorgadas por las autoridades correspondientes de conformidad con la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Coahuila de Zaragoza, así como las declaratorias ecológicas, zonas protegidas y demás que conforme a los ordenamientos en materia ecológica sean sujetos de inscripción en el Instituto.
 
 XX. Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión y los demás derechos reales sobre los bienes inmuebles pertenecientes al Estado o a los municipios, así como los demás actos, documentos, contratos, resoluciones y diligencias judiciales a que se refiere la Ley General de Bienes del Estado de Coahuila.
 
@@ -425,7 +503,9 @@ V. Las fianzas legales o judiciales de acuerdo a lo establecido en el artículo 
 
 VI. El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio de bienes inmuebles;
 
-VII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Instituto;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -437,9 +517,11 @@ IX. Cualquier otro título que sea susceptible de ser anotado de acuerdo con el 
 
 #### SECCIÓN II. DE LA INMATRICULACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 24.
 
-La inmatriculación es la primera inscripción en el Registro Público de un acto jurídico mediante el cual se adquiere la propiedad de bienes inmuebles o derechos reales sobre los mismos, respecto de los cuales no existen antecedentes registrales.
+La inmatriculación es la primera inscripción en el Instituto de un acto jurídico mediante el cual se adquiere la propiedad de bienes inmuebles o derechos reales sobre los mismos, respecto de los cuales no existen antecedentes registrales.
 
 Se practicará en los términos establecidos por el Código Civil y demás disposiciones aplicables.
 
@@ -473,9 +555,11 @@ IV. Las sociedades o asociaciones extranjeras que tengan autorización de la Sec
 
 V. Los poderes en general, a solicitud de parte interesada;
 
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 VI. Las fundaciones y asociaciones de beneficencia autorizada por el Ejecutivo;
 
-En las inscripciones de fundación de beneficencia privada, se hará constar el acta de aprobación de la Institución a que se refiere. El consejo de administración de dicha institución presentará al Registro Público, una copia de los estatutos de la misma a efecto de que se proceda a ser digitalizada; y
+En las inscripciones de fundación de beneficencia privada, se hará constar el acta de aprobación de la Institución a que se refiere. El consejo de administración de dicha institución presentará al Instituto, una copia de los estatutos de la misma a efecto de que se proceda a ser digitalizada; y
 
 VII. Los nombramientos de apoderados y administradores de las fundaciones y asociaciones de beneficencia, así como los documentos en que se consignan las facultades con arreglo a las cuales deban ejercer la función y los demás actos a que se refieren las fracciones I, II y III de este artículo.
 
@@ -489,19 +573,25 @@ La inscripción relativa a los actos de comercio, se sujetará a los lineamiento
 
 #### SECCIÓN I. DE LA RECEPCIÓN Y ENTREGA
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 28.
 
-Los interesados en obtener los servicios del Registro Público deberán presentar solicitud mediante los formatos físicos o electrónicos establecidos para tal efecto, anexando los documentos exigidos por esta ley, el reglamento y el catálogo de actos, dependiendo del servicio solicitado.
+Los interesados en obtener los servicios del Instituto deberán presentar solicitud mediante los formatos físicos o electrónicos establecidos para tal efecto, anexando los documentos exigidos por esta ley, el reglamento y el catálogo de actos, dependiendo del servicio solicitado.
 
-Es obligación del Registro Público recibir las solicitudes presentadas por los usuarios referentes a los servicios que proporciona, así como entregar los trámites concluidos y los que se declaren en estado suspensivo; también deberá resguardar y administrar dichos trámites una vez que hayan sido autorizados por el Coordinador Jurídico y/o el Registrador según corresponda.
+Es obligación del Instituto recibir las solicitudes presentadas por los usuarios referentes a los servicios que proporciona, así como entregar los trámites concluidos y los que se declaren en estado suspensivo; también deberá resguardar y administrar dichos trámites una vez que hayan sido autorizados por el Coordinador Jurídico y/o el Registrador según corresponda.
 
 ###### Artículo 29.
 
 Se recibirán las solicitudes de servicios, previa verificación del pago de los derechos registrales, a excepción de los trámites que por disposición de ley, no causen los citados derechos.
 
-Los documentos físicos que contengan los actos jurídicos presentados ante el Registro Público para su inscripción deberán constar en original.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-En todos los trámites electrónicos se deberá cumplir con los lineamientos establecidos por el Registro Público, mismos que serán publicados con oportunidad en el boletín registral. Cuando se entreguen todos los documentos en archivo electrónico, incluyendo sus anexos, no será necesario agregar documentos físicos.
+Los documentos físicos que contengan los actos jurídicos presentados ante el Instituto para su inscripción deberán constar en original.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+En todos los trámites electrónicos se deberá cumplir con los lineamientos establecidos por el Instituto, mismos que serán publicados con oportunidad en el boletín registral. Cuando se entreguen todos los documentos en archivo electrónico, incluyendo sus anexos, no será necesario agregar documentos físicos.
 
 ###### Artículo 30.
 
@@ -615,7 +705,9 @@ Las anotaciones que se practiquen por la suspensión provisional o definitiva de
 
 I. Juzgado o Tribunal que haya dictado la suspensión;
 
-II. El número del expediente y el número y fecha del oficio en que se comunique al Registro Público la resolución respectiva;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. El número del expediente y el número y fecha del oficio en que se comunique al Instituto la resolución respectiva;
 
 III. El nombre del o de los quejosos;
 
@@ -647,9 +739,11 @@ No se contemplarán como una sola unidad topográfica, aquellos que por virtud d
 
 Cuando se trate de ventas parciales, el inmueble en cuestión deberá ser previamente subdividido, generando por consecuencia los folios que sean necesarios.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 53.
 
-Cuando se divida un inmueble inscrito en el Registro Público se tomará razón en el folio correspondiente y se generarán tantos folios como resulten necesarios.
+Cuando se divida un inmueble inscrito en el Instituto se tomará razón en el folio correspondiente y se generarán tantos folios como resulten necesarios.
 
 ###### Artículo 54.
 
@@ -673,13 +767,17 @@ III. En los casos en que los inmuebles hayan sido fusionados o subdivididos y qu
 
 Los documentos que contengan actos o contratos en relación con inmuebles, deberán expresar todas las circunstancias que necesariamente deba contener la inscripción y que sean relativas a los otorgantes, a los inmuebles y a los derechos de que se trate.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 58.
 
-Si existiere alguna discrepancia entre los datos contenidos en el documento y los que obren en el Registro Público, serán estos últimos los que prevalezcan.
+Si existiere alguna discrepancia entre los datos contenidos en el documento y los que obren en el Instituto, serán estos últimos los que prevalezcan.
 
 ###### Artículo 59.
 
 Cuando se presente un documento para su inscripción y se encuentren pendientes de efectuar una o más inscripciones necesarias para establecer la debida ilación de actos para la secuencia registral, deberán constar los avisos de presentación de los documentos cuya inscripción servirá de antecedente a la del documento ingresado en último término, se extenderá el aviso de presentación de éste, pero no producirá su inscripción hasta que se establezca la debida secuencia registral. Si esto no se lograse durante la vigencia de los avisos de presentación de los documentos precedentes, se cancelará la del subsecuente, aun cuando se haya extinguido el plazo para su caducidad.
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)
 
 ###### Artículo 60.
 
@@ -713,7 +811,9 @@ f) La naturaleza del acto o negocio jurídicos.
 
 g) La fecha del título, número si lo tuviere, y el funcionario o notario que lo haya autorizado.
 
-h) El día y la hora de la presentación del título en el Registro Público.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+h) El día y la hora de la presentación del título en el Instituto.
 
 ###### Artículo 61.
 
@@ -739,25 +839,33 @@ II. Cuando un inmueble se constituya en régimen en condominio; el folio matriz 
 
 #### SECCIÓN III. DE LA CERTIFICACIÓN
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 65.
 
-En atención al principio de publicidad, los datos y constancias que obren en el Registro Público serán proporcionados a quien los solicite de manera personal y a través de los sistemas y procedimientos establecidos en esta ley y su reglamento.
+En atención al principio de publicidad, los datos y constancias que obren en el Instituto serán proporcionados a quien los solicite de manera personal y a través de los sistemas y procedimientos establecidos en esta ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 66.
 
-El Registro Público expedirá a solicitud de parte interesada, una vez hecha la verificación del pago de los derechos registrales correspondientes, certificaciones y/o constancias, de la información que conste en su acervo, la cual puede ser literal o concentrarse en determinados contenidos de los asientos.
+El Instituto expedirá a solicitud de parte interesada, una vez hecha la verificación del pago de los derechos registrales correspondientes, certificaciones y/o constancias, de la información que conste en su acervo, la cual puede ser literal o concentrarse en determinados contenidos de los asientos.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 67.
 
-El Registro Público expedirá las certificaciones de los asientos, respecto de uno o más inmuebles de acuerdo a los términos que se hayan asentado en el formato de solicitud.
+El Instituto expedirá las certificaciones de los asientos, respecto de uno o más inmuebles de acuerdo a los términos que se hayan asentado en el formato de solicitud.
 
 ###### Artículo 68.
 
 Para expedir un certificado de existencia o inexistencia de gravámenes, así como de la existencia o inexistencia de asientos relativos a algún derecho, se deberá de proceder con vista en las inscripciones, anotaciones preventivas, asientos y avisos de presentación que obren en todos los folios de registro y sean relativas a los inmuebles o derechos de que se trate.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 69.
 
-En las certificaciones que se soliciten para hacer constar la existencia de asientos en el Registro Público, sólo se hará mención de los cancelados cuando así lo solicite expresamente el interesado.
+En las certificaciones que se soliciten para hacer constar la existencia de asientos en el Instituto, sólo se hará mención de los cancelados cuando así lo solicite expresamente el interesado.
 
 #### SECCIÓN IV. DEL ARCHIVO
 
@@ -769,17 +877,23 @@ A petición de parte, previo pago de derechos, se podrán expedir copias simples
 
 No se expedirán constancias de los índices que obren en las oficinas registrales.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 71.
 
-Las entidades públicas o privadas, los notarios, las instituciones financieras y de crédito y los particulares que lo soliciten, podrán consultar la información que proporcione el Registro Público en su página de internet, de conformidad con los requisitos establecidos para tal efecto en el portal web del Gobierno del Estado.
+Las entidades públicas o privadas, los notarios, las instituciones financieras y de crédito y los particulares que lo soliciten, podrán consultar la información que proporcione el Instituto en su página de internet, de conformidad con los requisitos establecidos para tal efecto en el portal web del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 72.
 
-La información registral para su consulta, estará disponible en las oficinas del Registro Público, o vía internet, para lo cual se deberán cubrir los derechos de consulta en la forma y monto que señale la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
+La información registral para su consulta, estará disponible en las oficinas del Instituto, o vía internet, para lo cual se deberán cubrir los derechos de consulta en la forma y monto que señale la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 73.
 
-El Registro Público proporcionará la consulta de la información electrónica a los usuarios que lo soliciten, de acuerdo a lo dispuesto en el portal web del Gobierno del Estado o en el Boletín de cada una de las oficinas registrales.
+El Instituto proporcionará la consulta de la información electrónica a los usuarios que lo soliciten, de acuerdo a lo dispuesto en el portal web del Gobierno del Estado o en el Boletín de cada una de las oficinas registrales.
 
 ### CAPÍTULO V. DE LOS ÍNDICES
 
@@ -901,9 +1015,11 @@ Para que proceda la reposición de documentos a petición de parte interesada, b
 
 Detectada la pérdida o destrucción de algún documento, el Registrador dispondrá las medidas necesarias para su reposición, notificando, en el domicilio que aparezca en el instrumento que se pretende reponer, a las partes que en él intervengan, y a falta de domicilio a través del Boletín Registral, para que en un término de 15 días hábiles manifiesten lo que a su derecho convenga y en su caso aporten los elementos que faciliten la reposición.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 94.
 
-El Registrador solicitará a las autoridades catastrales estatales y municipales, a los juzgados del fuero común y federal, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Instituto Mexicano del Seguro Social, a las autoridades fiscales federales, estatales y municipales, a las juntas locales y federales de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza, a la Procuraduría General de la República, a la Procuraduría General del Estado de Coahuila de Zaragoza, a la Comisión para la Regularización de la Tenencia de la Tierra, al Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, a la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica de Coahuila, a la Dirección de Pensiones del Estado, a la Dirección de Notarías del Estado, a la Comisión Federal de Electricidad, al Colegio de Notarios del Estado de Coahuila de Zaragoza, a las afianzadoras y a las instituciones de crédito que operen en la entidad, le proporcionen en un plazo de ocho días hábiles la información y/o documentación que pudieran tener respecto de algún mandato judicial, administrativo o contrato que constituya algún gravamen, limitación de dominio y en general cualquier aspecto registral que tenga relación con los bienes o derechos materia del documento extraviado o destruido.
+El Registrador solicitará a las autoridades catastrales estatales y municipales, a los juzgados del fuero común y federal, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Instituto Mexicano del Seguro Social, a las autoridades fiscales federales, estatales y municipales, a las juntas locales y federales de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza, a la Procuraduría General de la República, a la Fiscalía General del Estado General del Estado (sic) de Coahuila de Zaragoza, a la Comisión para la Regularización de la Tenencia de la Tierra, al Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Instituto del Fondo Nacional de la Vivienda para los Trabajadores, a la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica de Coahuila, a la Dirección de Pensiones del Estado, a la Dirección de Notarías del Estado, a la Comisión Federal de Electricidad, al Colegio de Notarios del Estado de Coahuila de Zaragoza, a las afianzadoras y a las instituciones de crédito que operen en la entidad, le proporcionen en un plazo de ocho días hábiles la información y/o documentación que pudieran tener respecto de algún mandato judicial, administrativo o contrato que constituya algún gravamen, limitación de dominio y en general cualquier aspecto registral que tenga relación con los bienes o derechos materia del documento extraviado o destruido.
 
 ###### Artículo 95.
 
@@ -1051,21 +1167,27 @@ El término al que se refieren las fracciones II y VII de este artículo, no cor
 
 Las políticas de uso, seguridad y resguardo del sistema informático, así como las adecuaciones y mejoras al mismo, deberán establecerse de manera conjunta con la Secretaría de Fiscalización y Rendición de Cuentas.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 113.
 
-La Dirección General del Registro Público, a través de la Coordinación de Informática, deberá asegurar la correcta administración y apego a las políticas establecidas para la operación del sistema informático en cada una de las oficinas registrales.
+La Dirección General del Instituto, a través de la Coordinación de Informática, deberá asegurar la correcta administración y apego a las políticas establecidas para la operación del sistema informático en cada una de las oficinas registrales.
 
 ###### Artículo 114.
 
 La Secretaría de Fiscalización y Rendición de Cuentas supervisará la correcta aplicación de las políticas de uso, seguridad y resguardo del sistema del Registro Público emitiendo las recomendaciones que considere convenientes para la adecuada operación del mismo.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 115.
 
-El Registro Público en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, llevará diariamente una bitácora de los registros y el respaldo de la base de datos los cuales son susceptibles de auditoría en caso de tratamiento no autorizado.
+El Instituto en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, llevará diariamente una bitácora de los registros y el respaldo de la base de datos los cuales son susceptibles de auditoría en caso de tratamiento no autorizado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 116.
 
-Las entidades públicas o privadas, los notarios, las instituciones financieras y de crédito, podrán solicitar a través de la Secretaría de Fiscalización y Rendición de Cuentas, la clave de acceso y contraseña para acceder a los derechos de consulta de información del Registro Público.
+Las entidades públicas o privadas, los notarios, las instituciones financieras y de crédito, podrán solicitar a través de la Secretaría de Fiscalización y Rendición de Cuentas, la clave de acceso y contraseña para acceder a los derechos de consulta de información del Instituto.
 
 T R A N S I T O R I O S
 
@@ -1132,3 +1254,51 @@ P.O. 18 DE ABRIL DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en el presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE “SE MODIFICA LOS ARTÍCULOS 2 Y 3; LAS FRACCIONES III, IV, VII, VIII Y IX DEL ARTÍCULO 4; I, II, III, IV, IX, XI, XII, XIX, XXI Y XXII DEL ARTÍCULO 5; EL ARTÍCULO 6; EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 7; EL PRIMER PÁRRAFO DEL ARTÍCULO 8; LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO PRIMERO; EL ARTÍCULO 9; LAS FRACCIONES II, V, VI, VIII, IX, X, XII, XIII, XVI, XVIII, XIX Y XX DEL ARTÍCULO 11; EL ARTÍCULO 12; LA FRACCIÓN XI DEL ARTÍCULO 16; LOS ARTÍCULOS 17 Y 18; EL PRIMER PÁRRAFO DEL ARTÍCULO 19; LAS FRACCIONES VIII Y XIX DEL ARTÍCULO 22; LA FRACCIÓN VII DEL ARTÍCULO 23; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24 (SIC); LA FRACCIÓN VI DEL ARTÍCULO 26; EL ARTÍCULO 28; EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 29; LA FRACCIÓN SEGUNDA DEL ARTÍCULO 50; LOS ARTÍCULOS 53 Y 58; EL INCISO H DE LA FRACCIÓN II DEL ARTÍCULO 60; LOS ARTÍCULOS 65, 66, 67, 69, 71, 72, 73, 94, 113, 115 Y 116, DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, la papelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
