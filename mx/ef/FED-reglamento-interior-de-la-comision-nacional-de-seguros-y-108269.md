@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-de-seguros-y-108269
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-06-03"
-last_updated: "2015-06-03"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108269&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-06-01"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL DE SEGUROS Y FIANZAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 3 de junio de 2015.
 
@@ -74,6 +74,10 @@ b) De Supervisión de Reaseguro;
 c) De Supervisión Actuarial;
 
 d) De Supervisión del Seguro de Pensiones y Salud;
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2017)</small>
+
+d bis) De Supervisión de Fondos de Aseguramiento;
 
 e) De Análisis de Riesgos;
 
@@ -218,6 +222,10 @@ XVI. Ordenar a las Instituciones y Sociedades Mutualistas, en el ámbito de su c
 XVII. Recibir, resolver y verificar, en su caso, el cumplimiento, en el ámbito de su competencia, de los planes de regularización y programas de autocorrección que presenten las Instituciones y Sociedades Mutualistas.
 
 La Dirección General de Análisis de Riesgos tendrá únicamente las atribuciones señaladas en las fracciones I a VI, XVI y XVII de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2017)</small>
+
+La Dirección General de Supervisión de Fondos de Aseguramiento tendrá únicamente las atribuciones señaladas en las fracciones III a VI de este artículo.
 
 ###### Artículo 13.
 
@@ -390,6 +398,78 @@ Corresponde a la Dirección de Inspección del Seguro de Pensiones y Salud ejerc
 ###### Artículo 25.
 
 Corresponde a la Dirección de Vigilancia del Seguro de Pensiones y Salud ejercer las atribuciones que en materia de vigilancia tiene conferidas la Dirección General de Supervisión del Seguro de Pensiones y Salud en los artículos 12, fracciones V a VIII y X a XVI y 23, fracciones I, III, V a VIII, X respecto de la verificación del cumplimiento de los planes de regularización a que se refiere dicha fracción y XI de este Reglamento, así como las demás que se le atribuyan en los acuerdos de delegación respectivos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 25 Bis.
+
+Corresponde a la Dirección General de Supervisión de Fondos de Aseguramiento ejercer la inspección y vigilancia de los aspectos relativos a la organización, funcionamiento, operación y estructura de gobierno de los fondos de aseguramiento y de los organismos integradores que se registren ante la Secretaría en términos de la Ley de Fondos de Aseguramiento Agropecuario y Rural, así como de las coberturas y productos que ofrecen, la constitución e inversión de sus reservas técnicas, la integración de su fondo social, sus operaciones de reaseguro, su contabilidad, y las aportaciones que realizan a los fondos de protección y de retención común de riesgos previstos en dicha Ley. Asimismo, le corresponde supervisar que los recursos destinados a los programas de fomento y apoyo a los fondos de aseguramiento y a los organismos integradores se aplique conforme a lo previsto en el artículo 93 de la Ley de Fondos de Aseguramiento Agropecuario y Rural y demás disposiciones jurídicas aplicables, e informar a la Secretaría sobre los incumplimientos detectados.
+
+Para efectos de lo anterior, esta Dirección General tendrá las atribuciones siguientes:
+
+I. Ordenar y practicar las visitas de inspección a los fondos de aseguramiento, organismos integradores y demás participantes de los programas de fomento y apoyo a que se refiere la Ley de Fondos de Aseguramiento Agropecuario y Rural que la Secretaría le solicite a la Comisión para verificar el apego a lo previsto en dicha Ley y demás regulaciones que resulten aplicables, de conformidad con lo establecido en el artículo 52 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+II. Formular los informes correspondientes a la Secretaría de las visitas practicadas en términos de la fracción anterior;
+
+III. Requerir, en el ámbito de su competencia, información y documentación a los fondos de aseguramiento, organismos integradores y demás participantes de los programas de fomento y apoyo a que se refiere la Ley de Fondos de Aseguramiento Agropecuario y Rural, señalando los plazos y medios para su entrega;
+
+IV. Verificar en visita de inspección que la contabilidad de los fondos de aseguramiento se ajuste al catálogo general de cuentas que autorice la Comisión conforme a lo señalado en el artículo 38 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+V. Vigilar que la contabilidad de los fondos de aseguramiento se ajuste al catálogo general de cuentas que autorice la Comisión conforme a lo señalado en el artículo 38 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+VI. Verificar en visita de inspección que la presentación y aprobación de los estados financieros de los fondos de aseguramiento se apegue a lo dispuesto en el artículo 38 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+VII. Vigilar que la presentación y aprobación de los estados financieros de los fondos de aseguramiento se apegue a lo dispuesto en el artículo 38 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+VIII. Revisar los dictámenes a los estados financieros anuales de los fondos de aseguramiento realizados por un contador público independiente y verificar que los mismos se apeguen a lo dispuesto en el artículo 38 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+IX. Verificar en visita de inspección que los fondos de aseguramiento constituyan y, en su caso, incrementen las reservas técnicas necesarias para el cumplimiento de sus compromisos de aseguramiento con sus socios, conforme a lo previsto en la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+X. Vigilar que los fondos de aseguramiento constituyan y, en su caso, incrementen las reservas técnicas necesarias para el cumplimiento de sus compromisos de aseguramiento con sus socios, conforme a lo previsto en la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XI. Verificar en visita de inspección que los fondos de aseguramiento realicen la inversión de sus activos que respaldan sus reservas técnicas, conforme a lo previsto en el artículo 39 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XII. Vigilar que los fondos de aseguramiento realicen la inversión de sus activos que respaldan sus reservas técnicas, conforme a lo previsto en el artículo 39 de la Ley de Fondos de Aseguramiento Agropecuario y Rural.
+
+Para efectos del párrafo anterior, la Comisión mediante disposiciones de carácter general establecerá la forma y términos mediante los cuales los fondos de aseguramiento deberán informar y acreditar la realización de dichas inversiones;
+
+XIII. Recibir la información relacionada con la integración de la asamblea general de socios, el consejo de administración, el consejo de vigilancia y el nombramiento del director general de los fondos de aseguramiento y supervisar el cumplimiento por parte de los Fondos de Aseguramiento de lo previsto en los artículos 10 a 28 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XIV. Supervisar que las coberturas y productos que ofrecen los fondos de aseguramiento se apeguen a lo establecido en los artículos 29 a 33, 36 y 40 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XV. Verificar mediante visita de inspección que la constitución de las reservas técnicas de riesgos en curso y especial de contingencia se lleve a cabo de conformidad con lo establecido en el artículo 34 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XVI. Vigilar que la constitución de las reservas técnicas de riesgos en curso y especial de contingencia se lleve a cabo de conformidad con lo establecido en el artículo 34 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XVII. Verificar mediante visita de inspección que la integración del fondo social de los fondos de aseguramiento se realice en apego a lo señalado en el artículo 35 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XVIII. Vigilar que la integración del fondo social de los fondos de aseguramiento se realice en apego a lo señalado en el artículo 35 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XIX. Verificar mediante visita de inspección que la retención de riesgos y las operaciones de reaseguro que lleven a cabo los fondos de aseguramiento cumplan con lo establecido en el artículo 37 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XX. Vigilar que la retención de riesgos y las operaciones de reaseguro que lleven a cabo los fondos de aseguramiento cumplan con lo establecido en el artículo 37 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XXI. Verificar en visita de inspección que la participación de los fondos de aseguramiento en los fondos de protección y de retención común de riesgos, cumplan con lo previsto en los artículos 75 a 84 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XXII. Vigilar que la participación de los fondos de aseguramiento en los fondos de protección y de retención común de riesgos, cumplan con lo previsto en los artículos 75 a 84 de la Ley de Fondos de Aseguramiento Agropecuario y Rural;
+
+XXIII. Verificar en visita de inspección que los fondos de aseguramiento reflejen correctamente en su contabilidad la recepción y aplicación de los recursos que reciban derivados de los programas de fomento y apoyo a que se refiere la Ley de Fondos de Aseguramiento Agropecuario y Rural, de conformidad con lo previsto en las reglas de operación y el catálogo de cuentas de los Fondos de Aseguramiento que dé a conocer la Comisión, en términos del artículo 38 de dicha Ley;
+
+XXIV. Vigilar que los fondos de aseguramiento, los organismos integradores y demás participantes de los programas a que se refiere el primer párrafo de este artículo, reflejen de manera adecuada en su contabilidad, la recepción y aplicación de recursos derivados de cada uno de dichos programas, según corresponda, conforme a lo señalado en las reglas de operación aplicables y demás disposiciones jurídicas relacionadas con la materia, y
+
+XXV. Informar trimestralmente a la Secretaría sobre los resultados de la inspección y vigilancia que se realice sobre la operación y funcionamiento de los fondos de aseguramiento, así como sobre la aplicación de los recursos a los programas a que se refiere el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 25 Bis 1.
+
+Corresponde a la Dirección de Inspección de Fondos de Aseguramiento ejercer las atribuciones que en materia de inspección tiene conferidas la Dirección General de Supervisión de Fondos de Aseguramiento en los artículos 12, fracciones III a VI y 25 Bis, párrafo segundo, fracciones I a IV, VI, VIII, IX, XI, XV, XVII, XIX, XXI y XXIII, así como las demás que se le atribuyan en los acuerdos de delegación respectivos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 25 Bis 2.
+
+Corresponde a la Dirección de Vigilancia de Fondos de Aseguramiento ejercer las atribuciones que en materia de vigilancia tiene conferidas la Dirección General de Fondos de Aseguramiento en los artículos 12, fracciones V y VI y 25 Bis, párrafo segundo, fracciones III, V, VII, X, XII a XIV, XVI, XVIII, XX, XXII, XXIV y XXV, así como las demás que se le atribuyan en los acuerdos de delegación respectivos.
 
 ###### Artículo 26.
 
@@ -764,3 +844,11 @@ Los asuntos que se encuentren en trámite o pendientes de conclusión a la entra
 Las referencias que se hagan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas, a las unidades administrativas de la Comisión Nacional de Seguros y Fianzas que cambien de denominación por virtud del presente Reglamento, se entenderán hechas a las unidades administrativas que resulten competentes conforme al mismo.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a primero de junio de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL DE SEGUROS Y FIANZAS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
