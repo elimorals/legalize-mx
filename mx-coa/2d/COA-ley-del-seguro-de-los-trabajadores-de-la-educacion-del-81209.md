@@ -4,7 +4,7 @@ identifier: "COA-ley-del-seguro-de-los-trabajadores-de-la-educacion-del-81209"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2016-01-08"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de mayo de 2011.
 
@@ -45,9 +45,11 @@ LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACION.
 
 GENERALIDADES.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 1.
 
-El Seguro de los Trabajadores de la Educación es una Institución creada por el Gobierno del Estado, con personalidad jurídica y patrimonio propio que tiene por objeto asegurar en forma decorosa el bienestar de los familiares de los trabajadores de la Educación en casos de fallecimiento o en caso de inhabilitación absoluta en el servicio antes de que el titular de la Póliza de Seguro, cumpla quince años de servicio.
+El Seguro de los Trabajadores de la Educación es una Institución con personalidad jurídica y patrimonio propio perteneciente al Sindicato de la Sección 38 del SENTE, que tiene por objeto asegurar en forma decorosa el bienestar de los familiares de los trabajadores de la Educación en casos de fallecimiento o en caso de inhabilitación absoluta en el servicio.
 
 ###### ARTÍCULO 2.
 
@@ -101,7 +103,7 @@ X.- Por Apoyo Solidario, al beneficio igualitario a derechohabientes y beneficia
 
 XI.- Por SNTE, al Sindicato Nacional de Trabajadores de la Educación
 
-XII- Por Comité Ejecutivo, al cuerpo colegiado que por un periodo determinado ejerce la dirigencia del Gremio Magisterial afiliado al SNTE.
+XII.- Por Comité Ejecutivo, al cuerpo colegiado que por un periodo determinado ejerce la dirigencia del Gremio Magisterial afiliado al SNTE.
 
 XIII.- Por Secretario General, a la máxima autoridad del Comité Ejecutivo que ejerce la dirigencia del Gremio Magisterial afiliado al SNTE.
 
@@ -109,7 +111,9 @@ XIV.- Por consejo de administración, a los cuatro integrantes del cuerpo direct
 
 XV.- Por comisarios, a los representantes nombrados por el Ejecutivo Estatal, que asisten para atestiguar las sesiones del Consejo de Administración.
 
-XVI.- Por comité de control interno, a la unidad administrativa dentro del Organismo, encargada de vigilar y sancionar el cumplimiento a la Norma General de Control Interno.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVI.- Por comité de control interno, a la unidad administrativa dentro del Organismo, encargada de vigilar y sancionar el cumplimiento a las Normas Generales y estatales.
 
 XVII.- Por pensionado, a la persona que habiendo cumplido los requisitos que establece la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, deja el servicio activo.
 
@@ -349,11 +353,11 @@ El otorgamiento de préstamos para los trabajadores del organismo contemplado en
 
 #### SECCIÓN TERCERA. DE LOS INTERESES
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 25.
 
-Los intereses que se cobren por concepto de los préstamos que otorguen a los trabajadores de los Organismos contemplados en los incisos I, III, y IV del artículo 2 de esta Ley, serán del 9% anual calculado sobre el monto total del crédito aplicado a cada año del plazo, más el 3% calculado sobre el monto total del crédito independientemente del plazo para integrar el fondo de garantía.
+Los intereses que se cobren por concepto de los préstamos que otorguen a los trabajadores de los Organismos contemplados en los incisos I, III, y IV del artículo 2 de esta Ley, serán de dos veces la Tasa de Interés Interbancario de Equilibrio por año, más el 3% calculado sobre el monto total del crédito, independientemente del plazo, para integrar el fondo de garantía.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -405,13 +409,13 @@ Cuando las condiciones financieras lo permitan podrá aumentarse el valor de las
 
 #### SECCIÓN SEGUNDA. DE LA PÓLIZA DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 31.
 
-La póliza del Seguro de los Trabajadores de la Educación tendrá un valor de 4.6 salarios de un inspector de educación primaria de la zona económica II y se hará efectiva con un pago del 50% de su valor al momento de la jubilación o pensión y el restante 50% al momento de su fallecimiento en favor de los beneficiarios que haya designado el derechohabiente en su Cédula Testamentaria.
+La póliza del Seguro de los Trabajadores de la Educación tendrá un valor de 4.6 salarios de un inspector de educación primaria de la zona económica II, y se hará efectiva con un pago del 50% de su valor después de su jubilación o pensión y el restante 50% posterior a su fallecimiento en favor de los beneficiarios que haya designado el derechohabiente en su Cédula Testamentaria, mismo que será hecho a valor de cómo se esté pagando la citada póliza al momento de la actualización de la hipótesis señalada.
 
-Los requisitos para solicitar el pago de dicha póliza serán los que para tal efecto señale el Reglamento respectivo.
+Lo anterior de acuerdo a las posibilidades económicas de la institución, esto sin perjuicio de que si la dependencia llega a tener mayor capitalización, dicho valor pueda aumentarse o actualizarse.
 
 > <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -577,7 +581,9 @@ III. Llevar a cabo la elaboración y resguardo de las Actas de Consejo;
 
 IV. Revisar y validar los expedientes de las diversas prestaciones de la Institución;
 
-V. Administrar los recursos humanos de la Institución;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+V. Administrar los recursos humanos de la Institución exclusivamente por lo que respecta al debido cumplimiento de las obligaciones laborales, previa autorización de la Dirección.
 
 VI. Auxiliar al Director en el desempeño de sus funciones; y
 
@@ -589,7 +595,11 @@ VII. Las demás que señale el director, esta ley, su reglamento interior y los 
 
 Son facultades y obligaciones del Subdirector de Finanzas del Consejo de Administración:
 
-I. Suscribir, firmar, endosar, avalar, girar cheques, pagares o cualquier otro título de crédito para los fines que establece esta Ley, en forma mancomunada con el Director, y en cumplimiento con los acuerdos del Consejo de Administración.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+l. Suscribir, firmar, endosar, avalar, girar cheques, pagares o cualquier otro título de crédito para los fines que establece esta Ley, en forma mancomunada con el Director, y en cumplimiento con los acuerdos del Consejo de Administración.
+
+Dicha facultad implica la supervisión y autorización de la totalidad de los movimientos contables, incluida como tal la nómina del personal que labora para la Institución, así como pagos extraordinarios en cualquiera de los capítulos contables referentes a gastos.
 
 II. Llevar y autorizar con su firma y la del Director la contabilidad del Seguro de los Trabajadores;
 
@@ -621,11 +631,11 @@ III. Las demás que señale el director, ésta ley, su reglamento interior y los
 
 DE LAS SANCIONES.
 
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-###### ARTICULO 45.
+###### ARTÍCULO 45.
 
-El Organismo, en cumplimiento a la Norma General de Control Interno, constituirá un Comité de Control Interno a través del cual, atendiendo a su circunstancias y operaciones particulares, promoverá la efectividad, eficacia y economía en las operaciones, programas, proyectos, y calidad de los servicios que brinde, verificando el cumplimiento de sus objetivos Institucionales y previniendo desviaciones en la consecución de los mismos, así como mantener un adecuado manejo de los recursos y promover que su aplicación se realice con criterios de austeridad, disciplina, racionalidad y transparencia para los fines a que están destinados, previniendo o corrigiendo desviaciones u omisiones que afecten su debido cumplimiento.
+El Organismo constituirá un Comité de Control Interno a través del cual, atendiendo a su (sic) circunstancias y operaciones particulares, promoverá la efectividad, eficacia y economía en las operaciones, programas, proyectos, y calidad de los servicios que brinde, verificando el cumplimiento de sus objetivos Institucionales y previniendo desviaciones en la consecución de los mismos, así como mantener un adecuado manejo de los recursos y promover que su aplicación se realice con criterios de austeridad, disciplina, racionalidad y transparencia para los fines a que están destinados, previniendo o corrigiendo desviaciones u omisiones que afecten su debido cumplimiento.
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -740,3 +750,25 @@ SEGUNDO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en
 TERCERO.- Se otorga un plazo de treinta días posteriores a la entrada en vigor de la presente ley, para que se expidan los reglamentos referidos en la misma.
 
 CUARTO.- El Consejo de Administración contará con un plazo no mayor a 30 días contados a partir de la entrada en vigor del presente Decreto para emitir el manual de funciones de mandos intermedios con respecto a los inmuebles que coadyuven al financiamiento y capitalización del organismo.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1176.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA”.]
+
+PRIMERO.- Las disposiciones del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Las disposiciones relativas a las reformas y adiciones a la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación del Estado de Coahuila de Zaragoza, entrarán en vigor 30 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los trabajadores en transición que tuvieran derecho adquirido para disfrutar alguna de las pensiones otorgadas por la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza, publicada mediante Decreto Número 334, publicado en el Periódico Oficial del Gobierno del Estado Número 3, Tomo CXXIII, Segunda Sección, de fecha 8 de enero del 2016, mantendrán su derecho.
+
+TERCERO.- Se concede un plazo de 180 días contados a partir de la entrada en vigor de la presente ley a fin de que la Dirección de Pensiones de los Trabajadores de la Educación, regularice las cantidades recibidas en virtud del artículo 53, 54 y 55 de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza.
+
+CUARTO.- Se concede un plazo de 180 días contados a partir de la entrada en vigor de la presente ley a fin de que la Dirección de Pensiones de los Trabajadores de la Educación regularice la situación de los trabajadores del Servicio Médico que perciben la prestación de riesgo profesional, a fin de que recabe las cantidades que se dejaron de aportar por dicho concepto en los términos del artículo 54 de esta (sic) la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza y sean consideradas para la tabulación de las pensiones.
+
+QUINTO.- Queda expresamente prohibido que la Dirección de Pensiones de los Trabajadores de la Educación, admita a partir de la entrada en vigor de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza, en los términos del Artículo Primero Transitorio de este Decreto, a nuevos trabajadores de la Universidad Autónoma de Coahuila y la Universidad Autónoma Agraria Antonio Narro en cualquiera de sus regímenes pensionarios.
+
+SEXTO.- Los gastos de administración a que se refiere el artículo 21 de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza, pasarán a cargo de las cuentas individuales una vez que se extingan los recursos del fondo global por haber concluido el periodo de transición de los trabajadores afiliados a dicho régimen.
+
+Los gastos de administración antes referidas (sic) corresponderán al 1.5% de la nómina integrada del personal activo afiliado a la dirección de pensiones bajo el régimen de cuentas individuales cuyo monto se deducirá de las aportaciones que realicen las entidades aportantes a que se refiere el artículo 2 la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza. El remanente será distribuido a las cuentas individuales en la forma y términos que corresponda.
+
+SÉPTIMO.- Se abrogan todas las disposiciones que se opongan al presente decreto.
