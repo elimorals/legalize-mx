@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2017-03-15"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -785,9 +787,9 @@ X. Devolver para su cancelación la cédula o documento de empadronamiento en ca
 
 XI. Dar aviso a la Tesorería, en el término de treinta días hábiles posteriores, respecto del cese de actividades o de funcionamiento definitivo de su negociación, para su anotación correspondiente en el padrón fiscal del Municipio;
 
-XI. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
+XII. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
 
-XII. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
+XIII. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
 
 ###### Artículo 62.
 
@@ -939,7 +941,7 @@ III. No tengan la documentación a que estén obligados;
 
 IV. La información que se obtenga de terceros ponga de manifiesto discrepancias con sus datos o informes manifestados o declarados;
 
-VI. No manifiesten a la autoridad fiscal, en las formas y plazos establecidos, que se ha modificado el valor de un inmueble, se transmitió la propiedad o posesión del mismo, variaron sus características físicas, o se realizó cualquier otro hecho que sea relevante para la determinación de las contribuciones relacionadas con éstos;
+V. No manifiesten a la autoridad fiscal, en las formas y plazos establecidos, que se ha modificado el valor de un inmueble, se transmitió la propiedad o posesión del mismo, variaron sus características físicas, o se realizó cualquier otro hecho que sea relevante para la determinación de las contribuciones relacionadas con éstos;
 
 VI. Nieguen u obstaculicen, por cualquier medio, el acceso a los lugares en donde se presenten los espectáculos públicos o se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase, al personal designado por las autoridades fiscales para verificar el cumplimiento de las obligaciones del contribuyente;
 
@@ -3093,8 +3095,6 @@ La Tesorería ejercerá los derechos patrimoniales de los valores que represente
 
 Tratándose de empresas de participación municipal y de aquellas en que el Municipio tenga una participación minoritaria, el Cabildo designará al representante del Ayuntamiento ante los órganos de gobierno o las asambleas generales de accionistas o de socios de la entidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 286.
@@ -3545,15 +3545,11 @@ Si existen contratos por honorarios, no incrementarán sus percepciones ni obten
 
 #### SECCIÓN I. DE LA CONTABILIDAD GUBERNAMENTAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 355.
 
 La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su propia contabilidad, de conformidad con lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código y demás disposiciones aplicables, con el propósito de incluir las cuentas para registrar los activos, pasivos, hacienda pública o patrimonio, ingresos, gastos y otras pérdidas, cuentas de cierre o corte contable, cuentas de orden contables, cuentas de orden presupuestarias y cuentas de liquidación y cierre presupuestario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -3562,8 +3558,6 @@ La Tesorería y cada entidad, en el ámbito de su competencia, llevarán su prop
 Los registros contables del Ayuntamiento y los correspondientes a las entidades se llevarán con base acumulativa, que se registrarán en los momentos contables correspondientes para determinar costos y facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas con objetivos, metas y unidades responsables de su ejecución, a efecto de integrar la información que coadyuve a la toma de decisiones; así como a la verificación y evaluación de las actividades realizadas.
 
 Los sistemas de contabilidad que establezcan los manuales e instructivos que el Congreso apruebe se operarán en forma que facilite la fiscalización de los activos, pasivos, ingresos, egresos, avances del ejercicio de los presupuestos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del gasto público municipal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -3581,23 +3575,17 @@ La Tesorería emitirá las instrucciones sobre la forma y términos en que las e
 
 Las entidades someterán a la consideración de la Tesorería las modificaciones que consideren necesarias o convenientes a su sistema de contabilidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 359.
 
 Los estados financieros y demás información contable, presupuestal y programática, serán consolidados por la Tesorería, la que será responsable de:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
 I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos de lo dispuesto por la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
 
 II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -3613,8 +3601,6 @@ VII. Participar en la depuración de cuentas de balance; y
 
 VIII. Las demás que le indique el Presidente y las que se deriven de otros ordenamientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 360.
@@ -3622,8 +3608,6 @@ VIII. Las demás que le indique el Presidente y las que se deriven de otros orde
 El registro de las operaciones y la preparación de informes financieros de las dependencias y entidades deberá llevarse a cabo de acuerdo con los postulados básicos de contabilidad gubernamental, así como con las normas, reglas técnicas, criterios, lineamientos y demás disposiciones de observancia general que aprueben las autoridades o instancias competentes.
 
 #### SECCIÓN II. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -3635,45 +3619,31 @@ I. Activo;
 
 II. Pasivo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
 III. Hacienda Pública/patrimonio;
 
 IV. Ingresos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
 V. Gastos y otras pérdidas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
 VI. Cuentas de cierre o corte contable;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
 VII. Cuentas de orden contables;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
 
 VIII. Cuentas presupuestarias; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, G.O. 21 DE JULIO DE 2010)</small>
 
 IX. Cuentas de liquidación y cierre presupuestario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -3693,8 +3663,6 @@ Será responsabilidad de las dependencias y entidades la desagregación de las s
 
 La contabilidad de las dependencias y entidades contendrá los registros auxiliares para los programas presupuestales que muestren de manera sistemática los avances financieros y de consecución de metas, con objeto de facilitar la evaluación en el ejercicio del gasto público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 366.
@@ -3709,8 +3677,6 @@ El Ayuntamiento y sus entidades están obligados a resguardar y conservar en su 
 
 El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertura en los libros principales y registros auxiliares de contabilidad, los saldos de las cuentas de balance del ejercicio inmediato anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
 ###### Artículo 369.
@@ -3718,8 +3684,6 @@ El Ayuntamiento y sus entidades registrarán anualmente, como asiento de apertur
 El registro contable de los pagos correspondientes al pasivo a corto plazo, por operaciones de ejercicios anteriores de las dependencias y entidades, se efectuará de acuerdo a lo dispuesto por la Ley General de Contabilidad Gubernamental, este Código, las normas, reglas técnicas, criterios, lineamientos y demás disposiciones de observancia general que aprueben las autoridades competentes.
 
 #### SECCIÓN III. DE LOS ESTADOS FINANCIEROS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -3748,8 +3712,6 @@ La Tesorería emitirá y dará a conocer a las dependencias y entidades, los lin
 ###### Artículo 375.
 
 Para efectos de la formulación de la cuenta pública, la información que proporcionen las dependencias y entidades estará debidamente clasificada, de conformidad con los lineamientos que para tal fin emita el Congreso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -3795,15 +3757,11 @@ De no presentar en tiempo la cuenta pública al Congreso, el presidente, los int
 
 El control y la evaluación del gasto público municipal comprenden:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
 I. La supervisión permanente de los activos, pasivos, ingresos y egresos;
 
 II. El seguimiento a las acciones durante el desarrollo de la ejecución de los programas aprobados; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.O. 21 DE JULIO DE 2010)</small>
 
@@ -4059,7 +4017,7 @@ I. Aprobar anualmente en la Ley de Ingresos los programas anuales de financiamie
 
 > <small>(REFORMADA, G.O. 13 DE FEBRERO DE 2008)</small>
 
-ll. Autorizar a los Municipios la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten o éstos cuenten con recursos suficientes para pagar los financiamientos correspondientes;
+II. Autorizar a los Municipios la contratación de deuda pública extraordinaria, cuando a su juicio las circunstancias lo ameriten o éstos cuenten con recursos suficientes para pagar los financiamientos correspondientes;
 
 III. Autorizar de manera expresa la contratación de endeudamiento por los Ayuntamientos, cuando los plazos de amortización de los créditos rebasen el término del periodo constitucional para el que fueron elegidos;
 
@@ -4465,11 +4423,13 @@ XII. Las demás que les señalen la Constitución, el presente Código y demás 
 
 ### CAPÍTULO III. DEL INVENTARIO
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 447.
 
-El Municipio formará un inventario valorado de todos sus bienes y derechos, que contendrá los datos de identificación física, antecedentes jurídicos y administrativos, de los bienes municipales.
+El municipio actualizará cada año, en el mes de enero, un inventario general y avalúo de los bienes que conforman el patrimonio municipal de cualquiera naturaleza que sean. El avalúo deberá ser practicado por peritos que cuenten con cédula profesional, instituciones de crédito, agentes especializados o corredores públicos, y deberá consignar, al menos, el valor comercial y el de realización inmediata. Concurrirán a su formulación el presidente municipal, la Comisión de Hacienda y Patrimonio Municipal y el tesorero.
 
-El inventario será formulado por el Síndico y aprobado por el Cabildo.
+El inventario y el avalúo se extenderán por triplicado, y quedará un ejemplar en el archivo municipal, uno en la tesorería y el otro se remitirá al Congreso del Estado.
 
 ###### Artículo 448.
 
@@ -5054,6 +5014,14 @@ Tercero. Los ayuntamientos que dispongan de Código Hacendario Municipal propio 
 G.O. 15 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 257 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LOS SIGUIENTES ORDENAMIENTOS: DEL CÓDIGO HACENDARIO MUNICIPAL, DEL CÓDIGO DE DERECHOS, DE LA LEY DE FOMENTO ECONÓMICO, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL, Y DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA, TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
