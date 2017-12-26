@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-176-de-entrega-recepcion-para-el-estado-de-sonora-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-16"
-last_updated: "2014-06-16"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 16 de junio del 2014.
 
@@ -63,7 +63,9 @@ III. Unidades Administrativas: Las Subsecretarías y Direcciones Generales de la
 
 IV. Organismos Autónomos: Al Consejo Estatal Electoral, Tribunal Estatal Electoral, Comisión Estatal de los Derechos Humanos y al Instituto de Transparencia Informativa del Estado de Sonora y demás organismos autónomos creados en nuestro Estado;
 
-V. Sujetos Obligados: El Titular del Poder Ejecutivo, los Titulares de las Dependencias, Entidades y de las Unidades Administrativas y los Titulares de los Organismos Autónomos, el Poder Legislativo, el Poder Judicial y los Municipios; y
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+V. Sujetos Obligados: El Titular del Poder Ejecutivo, los Titulares de las Dependencias, Entidades y delas (sic) Unidades Administrativas y los Titulares de los Organismos Autónomos, el Poder Legislativo y el Poder Judicial; y
 
 VI. Contraloría o Contraloría Interna: A la Secretaría de la Contraloría General en el caso del Poder Ejecutivo y a los órganos de control, evaluación y desarrollo administrativo o sus equivalentes, en los organismos autónomos.
 
@@ -270,3 +272,13 @@ GUILLERMO PADRÉS ELÍAS
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO ROMERO LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 181, QUE REFORMA EL ARTÍCULO 3, FRACCIÓN V DE LA LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
