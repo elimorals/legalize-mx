@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-01-2011-del-90094"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-01-03"
-last_updated: "2012-03-22"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90094&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-01-03"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO 01/2011 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE REESTRUCTURA ORGANICA Y FUNCIONALMENTE SU ADMINISTRACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO 01/2011 DEL TRES DE ENERO DE DOS MIL ONCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REESTRUCTURA ORGÁNICA Y FUNCIONALMENTE SU ADMINISTRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA: 22 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Novena Época, Tomo XXXIII, Sección Segunda del Semanario Judicial de la Federación, el lunes 3 de enero de 2011.
 
@@ -274,3 +276,17 @@ S.J.F. Y G. 22 DE MARZO DE 2012.
 PRIMERO. El presente Instrumento Normativo entrará en vigor el día de su expedición.
 
 SEGUNDO. Publíquese este Instrumento Normativo en el Semanario Judicial de la Federación y su Gaceta, y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la ley Federal de Transparencia y Acceso a la Información Pública Gubernamental; sin menoscabo de que la Dirección General de Asuntos Jurídicos de este Alto Tribunal difunda el texto íntegro del Acuerdo General de Administración Número 01/2011 en dichos medios electrónicos.
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
