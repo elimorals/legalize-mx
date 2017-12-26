@@ -4,7 +4,7 @@ identifier: "COA-ley-del-servicio-medico-para-los-trabajadores-de-la-81211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2016-01-08"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DEL SERVICIO MEDICO PARA LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUILA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 6 de mayo de 2011.
 
@@ -89,29 +91,25 @@ XIII. El estado que guardan los sistemas pensionarios, los estudios actuariales 
 
 XIV. Las demás que dispongan la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza y otros ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 3o.
 
-Son sujetos de la presente Ley los trabajadores de la Educación Pública que forman parte del magisterio, servicios administrativos y manuales dependientes de:
+Son sujetos de la presente ley las entidades aportantes del fondo del Servicio Médico, los trabajadores de la Educación Pública que forman parte del magisterio, servicios administrativos y manuales dependientes de las mismas en activo, y los que habiendo cumplido los requisitos que establece la legislación en materia de pensiones dejan el servicio activo.
 
-I.- Gobierno del Estado de Coahuila de Zaragoza;
+Son instituciones aportantes del Servicio Médico:
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+I.- El Gobierno del Estado de Coahuila de Zaragoza;
 
-II.- Universidad Autónoma de Coahuila;
-
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+II.- La Universidad Autónoma de Coahuila;
 
 III.- La Universidad Autónoma Agraria Antonio Narro;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+IV.- La Sección 38 del Sindicato Nacional de los Trabajadores de la Educación o cualquiera que fuese su denominación futura:
 
-IV.- La Sección 38 del Sindicato Nacional de los Trabajadores de la Educación o cualquiera que fuese su denominación futura;
+V.- Las instituciones de seguridad social creadas para servicio de los trabajadores de la educación pública agremiados a la Sección 38 del Sindicato Nacional de los Trabajadores de la Educación.
 
-V.- Instituciones de seguridad social creadas para servicio de los trabajadores de la educación pública; y a
-
-VI.- Los beneficiarios de los titulares del derecho a recibir ayuda para atención médica, citados en los incisos anteriores en los términos que establecen esta Ley y su Reglamento.
+Además son sujetos de esta ley los beneficiarios de los trabajadores de las entidades aportantes derechohabientes del Servicio Médico.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -145,7 +143,7 @@ Para los efectos de esta Ley se entiende:
 
 I.- Por trabajador, a toda persona que por efectos de nombramiento, relación o contrato de trabajo preste sus servicios laborales a alguno de los organismos o entidades mencionados en el artículo 3o. siempre que hayan elegido la opción de este servicio.
 
-(NOTA: EL 9 DE JULIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2016 DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN I, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 9 DE JULIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2016 DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN I, DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 No se considerarán como trabajadores con derecho a estos servicios médicos a quienes no realicen pago de aportaciones O NO ESTÉN AL CORRIENTE EN EL PAGO, ni las personas que presten sus servicios mediante contrato sujeto a la legislación común, a las que por cualquier motivo perciban sus emolumentos exclusivamente con cargo a las partidas de honorarios, gastos generales o similares, o a las que presten servicios eventuales;
 
@@ -165,11 +163,17 @@ VIII.- Por plan de protección, las (sic) programas que se establezcan con fines
 
 IX.- Por comité de control interno, a la unidad administrativa dentro de la Institución, encargada de vigilar y sancionar el cumplimiento a la Norma General de Control Interno;
 
-X.- Por fondo de garantía, al fondo que se constituye con el porcentaje que esta Ley establece y que garantiza el pago de los saldos insolutos que dejara, por concepto de crédito en curso, un trabajador por fallecimiento;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+X.- Por fondo de garantía, al fondo que el Servicio Médico puede constituir, de acuerdo a su disponibilidad presupuestaria y sin detrimento del servicio a los derechohabientes y sus beneficiarios, para garantizar el pago de los saldos insolutos que dejaran, por concepto de créditos en curso, los derechohabientes en caso de fallecimiento;
 
 XI.- Por aportación, a la obligación económica que los empleadores definidos en esta Ley, deben de entregar a la Institución por cada uno de sus empleados en proporción a los sueldos que perciben;
 
 XII.- Por retención, a la deducción que por efectos de esta ley o que por mandato judicial se haga de los salarios de los trabajadores, o percepciones de los pensionados o jubilados según corresponda, para cumplir obligaciones o compromisos contraídos previamente y que se aplican directamente a la nómina de pago. Con independencia de lo anterior podrán realizarse retenciones adicionales convenidas voluntariamente con el trabajador, pensionados y jubilados, según corresponda;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Se consideran retenciones para efectos de la presente ley, las deducciones que se hagan a los trabajadores y pensionados derechohabientes del Servicio Médico en concepto de aportaciones y pago de adeudos con la institución.
 
 XIII.- Por copago, al costo de los servicios médicos, hospitalarios, y farmacéuticos compartidos entre la Institución y Derecho-Habiente;
 
@@ -303,11 +307,11 @@ X.- Por los muebles, inmuebles, útiles y enseres que hubiere adquirido para su 
 
 XI.- Por los ingresos derivados de los convenios que suscriba el Servicio Médico con el Gobierno del Estado y demás Entidades aportantes.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 19o.
 
-Las retenciones en favor del Servicio Médico previstas en la Fracción V del artículo 18, serán descontadas a los trabajadores en nóminas de los Empleadores, quienes tienen la obligación de entregarlas a la Institución, junto con las aportaciones señaladas en los incisos I, II, III y IV del mismo artículo 18.
+Las retenciones en favor del Servicio Médico previstas en la Fracción V del artículo 18 serán descontadas a los trabajadores en nóminas de los Empleadores, quienes tienen la obligación de entregarlas a la Institución, junto con los descuentos por adeudos contraídos frente al Servicio Médico y las aportaciones señaladas en los incisos I, II, III y IV del mismo artículo 18.
 
 ###### ARTICULO 20o.
 
@@ -329,9 +333,13 @@ A los trabajadores que desempeñen dos o más empleos en las entidades y organis
 
 Los fondos que recabe el Servicio Médico por los conceptos señalados en el artículo 18o, serán depositados en institución bancaria de la ciudad de Saltillo, Coahuila, y su inversión será dedicada exclusivamente a los fines señalados en esta Ley, con la vigilancia del Consejo de Administración y del Comisario.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 23o.
 
-Cuando por cualquier causa no se hubieren aplicado a los sueldos de los trabajadores los descuentos procedentes conforme a esta Ley, el Servicio Médico podrá mandar descontar hasta un veinticinco por ciento del sueldo, mientras el adeudo no esté cubierto, a menos que el trabajador solicite y obtenga mayores facilidades para el pago correspondiente.
+Es responsabilidad y obligación de las instituciones aportantes hacer las retenciones en las nóminas a su cargo, en concepto de contribuciones y pago de adeudos al Servicio Médico.
+
+Cuando por cualquier causa no se hubieren aplicado a los sueldos de los trabajadores los descuentos procedentes conforme a esta Ley, la institución aportante, con cargo a su patrimonio, enterará al Servicio Médico los montos correspondientes.
 
 ###### ARTICULO 24o.
 
@@ -364,6 +372,14 @@ II. Exista una necesidad para cumplir con el objeto de la o las instituciones de
 III. Lo proponga al Consejo de Administración el Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación;
 
 IV. Se lleve a cabo bajo la supervisión y vigilancia del Comité Ejecutivo de la Sección 38.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 24o C.- El Servicio Médico podrá otorgar a sus derechohabientes créditos para el pago en parcialidades de los adeudos generados por servicios prestados a los mismos o a sus beneficiarios en concepto de copago, costos de recuperación y otros.
+
+A dichos créditos deberá agregarse siempre un 20% destinado a constituir el fondo de garantía.
+
+El fondo de garantía deberá integrarse al patrimonio del Servicio Médico y utilizarse para los fines que esta ley establece.
 
 ### CAPITULO TERCERO.
 
@@ -747,6 +763,14 @@ III.- (DEROGADA, P.O. 8 DE ENERO DE 2016)
 
 IV.- Los trabajadores que se separen temporalmente del servicio activo, siempre que contribuyan con el total de las aportaciones al fondo del Servicio Médico.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Las contribuciones a que se refiere la fracción II anterior no podrán ser mayores en porcentaje a las que el artículo 18 establece para los trabajadores en activo.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El pensionado podrá elegir entre pagar sus contribuciones de manera directa o vía descuento por nómina, autorizando por escrito la retención o descuento, considerándose para tal efecto procedente el descuento en términos del segundo párrafo del artículo 23.
+
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 42o.
@@ -761,17 +785,9 @@ Cuando se presente una denuncia por grave irregularidad del Servicio Médico, é
 
 Practicada la información de la denuncia, si resultare procedente, en su caso se consignará al o los responsables ante las autoridades competentes. De resultar improcedente la denuncia, se reinstalará en su cargo a quien o quienes hubieren sido suspendidos.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+###### ARTÍCULO 44o.
 
-###### ARTICULO 44o.
-
-Son derecho-habientes de las prestaciones que esta Ley otorga:
-
-I.- Los trabajadores en servicio activo;
-
-II.- Los pensionados que cumplan con las aportaciones al fondo del Servicio Médico;
-
-III.- Los trabajadores que se separen temporalmente del servicio activo, siempre que contribuyan con el total de las aportaciones al fondo del Servicio Médico.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2017)
 
 ### CAPITULO SEPTIMO.
 
@@ -787,7 +803,21 @@ I.- El cónyuge o concubino(a) del derechohabiente, siempre y cuando no gozaran 
 
 II.- Los hijos menores de dieciocho años de edad o mayores de ésta y hasta los veinticuatro años once meses de edad siempre que sean estudiantes y dependan económicamente del trabajador derechohabiente; y los hijos que estén física o mentalmente impedidos para trabajar, cualquiera que sea su edad y lo certifique autoridad competente, y
 
-III.- A falta de los anteriores, podrán serlo los padres del derechohabiente siempre que dependan en forma económica de él y sean certificados por autoridad competente y no hubiere ninguno de los beneficiarios previstos en los incisos anteriores. Si los padres gozaran de servicio Médico en Institución Pública de Salud, por derecho propio, no podrán ser beneficiarios de las prestaciones de esta Ley.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Se consideran que son hijos estudiantes aquellos que se encuentren cursando estudios de educación básica, o una carrera profesional o técnica para adquirir un oficio, arte o profesión.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III.- A falta de beneficiarios que reúnan los requisitos previstos en las fracciones anteriores, o a falta de beneficiarios que hayan obtenido dicha calidad por su parentesco o relación con otro derechohabiente del Servicio Médico, podrán serlo los padres del derechohabiente siempre que dependan en forma económica de él y sean certificados por autoridad competente y no hubiere ninguno de los beneficiarios previstos en los incisos anteriores. Si los padres gozaran de Servicio Médico en Institución Pública de Salud, por derecho propio, no podrán ser beneficiarios de las prestaciones de esta Ley.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Se entiende que los padres, cónyuge o concubino(a) gozan de servicios de salud por derecho propio cuando en virtud de una relación de trabajo cuenten con dicho servicio en calidad de derechohabiente, cuando por relación de parentesco o cualquier otra, pudiera tenerlo en calidad de beneficiario o bien cuando tuviera contratados o convenidos dichos servicios bajo modalidad facultativa u otra similar frente a una institución de salud pública.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El concubinato y la dependencia económica se acreditarán en todo caso en los términos de la legislación común, mediante proceso de jurisdicción voluntaria promovido ante autoridad judicial competente en el Estado de Coahuila.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -910,3 +940,25 @@ Se derogan las disposiciones que se opongan al presente decreto.
 ###### ARTÍCULO TERCERO.
 
 El Consejo de Administración contará con un plazo no mayor a 30 días para emitir los reglamentos correspondientes.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1176.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA”.]
+
+PRIMERO.- Las disposiciones del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Las disposiciones relativas a las reformas y adiciones a la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación del Estado de Coahuila de Zaragoza, entrarán en vigor 30 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los trabajadores en transición que tuvieran derecho adquirido para disfrutar alguna de las pensiones otorgadas por la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza, publicada mediante Decreto Número 334, publicado en el Periódico Oficial del Gobierno del Estado Número 3, Tomo CXXIII, Segunda Sección, de fecha 8 de enero del 2016, mantendrán su derecho.
+
+TERCERO.- Se concede un plazo de 180 días contados a partir de la entrada en vigor de la presente ley a fin de que la Dirección de Pensiones de los Trabajadores de la Educación, regularice las cantidades recibidas en virtud del artículo 53, 54 y 55 de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza.
+
+CUARTO.- Se concede un plazo de 180 días contados a partir de la entrada en vigor de la presente ley a fin de que la Dirección de Pensiones de los Trabajadores de la Educación regularice la situación de los trabajadores del Servicio Médico que perciben la prestación de riesgo profesional, a fin de que recabe las cantidades que se dejaron de aportar por dicho concepto en los términos del artículo 54 de esta la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza y sean consideradas para la tabulación de las pensiones.
+
+QUINTO.- Queda expresamente prohibido que la Dirección de Pensiones de los Trabajadores de la Educación, admita a partir de la entrada en vigor de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza, en los términos del Artículo Primero Transitorio de este Decreto, a nuevos trabajadores de la Universidad Autónoma de Coahuila y la Universidad Autónoma Agraria Antonio Narro en cualquiera de sus regímenes pensionarios.
+
+SEXTO.- Los gastos de administración a que se refiere el artículo 21 de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza, pasarán a cargo de las cuentas individuales una vez que se extingan los recursos del fondo global por haber concluido el periodo de transición de los trabajadores afiliados a dicho régimen.
+
+Los gastos de administración antes referidas corresponderán al 1.5% de la nómina integrada del personal activo afiliado a la dirección de pensiones bajo el régimen de cuentas individuales cuyo monto se deducirá de las aportaciones que realicen las entidades aportantes a que se refiere el artículo 2 la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza. El remanente será distribuido a las cuentas individuales en la forma y términos que corresponda.
+
+SÉPTIMO.- Se abrogan todas las disposiciones que se opongan al presente decreto.
