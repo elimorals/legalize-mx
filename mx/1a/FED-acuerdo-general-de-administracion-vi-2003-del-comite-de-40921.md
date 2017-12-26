@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vi-2003-del-comite-de-40921"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-04-21"
-last_updated: "2003-04-21"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40921&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-04-21"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION VI/2003 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A MATERIA DE ADQUISICION, CONTRATACION, USOS, OBRA PUBLICA Y DESINCORPORACION]
 
-ACUERDO GENERAL DE ADMINISTRACION VI/2003, DEL VEINTIUNO DE ABRIL DE DOS MIL TRES, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE OTORGAN FACULTADES A DETERMINADOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL EN MATERIA DE ADQUISICION DE BIENES, CONTRATACION DE SERVICIOS, USOS, OBRA PUBLICA Y DESINCORPORACION DE BIENES
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO GENERAL DE ADMINISTRACIÓN VI/2003, DEL VEINTIUNO DE ABRIL DE DOS MIL TRES, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE OTORGAN FACULTADES A DETERMINADOS SERVIDORES PÚBLICOS DE ESTE ALTO TRIBUNAL EN MATERIA DE ADQUISICIÓN DE BIENES, CONTRATACIÓN DE SERVICIOS, USOS, OBRA PÚBLICA Y DESINCORPORACIÓN DE BIENES
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XVII, Mayo de 2003, página 1351.
 
@@ -78,3 +80,19 @@ CUARTO.- Lo no previsto en este acuerdo será resuelto por el Comité de Gobiern
 QUINTO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón, Sergio Salvador Aguirre Anguiano y Juan Díaz Romero, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
