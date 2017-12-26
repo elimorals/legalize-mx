@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-4-2000-de-la-suprema-62332"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-06-23"
-last_updated: "2000-06-23"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62332&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2000-06-23"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION 4/2000 DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [ESTRUCTURA ORGANIZACIONAL Y READSCRIPCION DE AREAS]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACION 4/2000 POR EL QUE DESAPARECEN LA COORDINACION GENERAL DE RELACIONES INSTITUCIONALES, COORDINACION GENERAL DE ADMINISTRACION Y LA COORDINACION GENERAL FINANCIERA Y SE READSCRIBEN LAS AREAS ADMINISTRATIVAS QUE TENIAN A SU CARGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XII, Agosto de 2000, página 1315.
 
@@ -92,3 +94,19 @@ TERCERO.- Quedarán a salvo los derechos laborales de todo el personal.
 CUARTO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo acordó y firma el señor Ministro Genaro David Góngora Pimentel, Presidente de la Suprema Corte de Justicia de la Nación, el día veintitrés de junio de 2000, ante el coordinador general de Asuntos Jurídicos de la Presidencia, que da fe.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
