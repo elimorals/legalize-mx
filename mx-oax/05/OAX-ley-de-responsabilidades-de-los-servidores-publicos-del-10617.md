@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-responsabilidades-de-los-servidores-publicos-del-10617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-01"
-last_updated: "2017-10-03"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DEL JUICIO POLÍTICO DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el Sábado 1o de junio de 1996.
 
@@ -830,3 +832,17 @@ Quinto. Los entes Públicos, en el ámbito de su competencia, deberán expedir l
 Sexto. A la fecha de entrada en vigor de la presente Ley, todas las menciones a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, previstas en diversos ordenamientos legales, se entenderán referidas a esta Ley.
 
 Séptimo. Los formatos que se utilizan en los ámbitos estatal y municipal para las declaraciones patrimonial y de intereses de los servidores públicos, seguirán vigentes hasta en tanto los Comités Coordinadores de los Sistemas Nacional y Estatal Anticorrupción expidan los nuevos formatos.
+
+P.O. DE 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 733.- MEDIANTE EL CUAL EXPIDE LA LEY DEL JUICIO POLÍTICO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, expedida mediante decreto número 67, por la Quincuagésima Sexta Legislatura Constitucional del Estado Libre y Soberano de Oaxaca.
+
+CUARTO.- Todos los procedimientos iniciados con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, continuarán tramitándose con ésta hasta su conclusión.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
