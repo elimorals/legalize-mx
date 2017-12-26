@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2017-03-17"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -87,9 +87,9 @@ VII. Política Estatal de Vivienda. El conjunto de acciones, medidas, lineamient
 
 VIII. Reglamento. El Reglamento de la Ley de Vivienda para el Estado de Coahuila de Zaragoza;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IX. Secretaría. La Secretaría de Desarrollo Social;
+IX. Secretaría. La Secretaría de Inclusión y Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
@@ -107,9 +107,9 @@ Las autoridades encargadas de la aplicación de esta ley son:
 
 I. El Titular del Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. La persona titular de la Secretaría de Desarrollo Social;
+II. La persona titular de la Secretaría de Inclusión y Desarrollo Social;
 
 III. La Comisión, y
 
@@ -727,11 +727,11 @@ Cuando se trate de suelo de origen ejidal o comunal, la promoción de su incorpo
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LA COMISIÓN ESTATAL DE VIVIENDA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 62.
 
-Se crea la Comisión Estatal de Vivienda como un organismo público descentralizado de la administración pública estatal, de servicio social, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Desarrollo Social y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
+Se crea la Comisión Estatal de Vivienda como un organismo público descentralizado de la administración pública estatal, de servicio social, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Inclusión y Desarrollo Social y tendrá por objeto proponer, promover y aplicar las políticas y lineamientos generales que en materia de vivienda se implementen en el Estado.
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
@@ -775,9 +775,9 @@ VI. Los demás que adquiera por cualquier título.
 
 Para su funcionamiento, la Comisión contará con una Junta de Gobierno que será su máxima autoridad, y se integrará de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-I. Una Presidencia, que será ocupada por quien sea titular de la Secretaría de Desarrollo Social;
+I. Una Presidencia, que será ocupada por quien sea titular de la Secretaría de Inclusión y Desarrollo Social;
 
 II. Una Secretaría Técnica, encabezada por quien sea titular de la Dirección General de la Comisión;
 
@@ -789,13 +789,15 @@ a) La Secretaría de Finanzas;
 
 b) La Secretaría de Infraestructura y Transporte;
 
-c) La Secretaría de Medio Ambiente;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+c) La Secretaría de Medio Ambiente y Desarrollo Urbano;
 
 d) La Dirección General de la Comisión Estatal para la Regulación de la Tenencia de la Tierra Urbana y Rústica de Coahuila;
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-e) La Dirección General del Registro Público del Estado de Coahuila de Zaragoza;
+e) La Dirección General del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza;
 
 IV. Por tres vocales del sector ciudadano que serán preferentemente los representantes de:
 
@@ -831,7 +833,9 @@ IV. Aprobar los planes, programas y presupuestos de la Comisión, así como sus 
 
 V. Establecer y ajustar los precios de los bienes que produzca y servicios que preste la Comisión, así como gestionar lo conducente para su publicación en el Periódico Oficial del Gobierno del Estado;
 
-VI. Autorizar y presentar ante el Congreso del Estado, la cuenta pública de la Comisión, en la forma y términos que establezca la Ley de Fiscalización Superior del Estado de Coahuila de Zaragoza y demás disposiciones que le sean aplicables;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VI. Autorizar y presentar ante el Congreso del Estado, la cuenta pública de la Comisión, en la forma y términos que establezca la Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza y demás disposiciones que le sean aplicables;
 
 VII. Aprobar la concertación de obligaciones para el financiamiento de la Comisión, así como observar los lineamientos que dicten las autoridades competentes, en materia del manejo de disponibilidades financieras;
 
@@ -851,9 +855,9 @@ XIV. Vigilar que los acuerdos de coordinación que se celebren con las dependenc
 
 XV. Analizar y aprobar en su caso, los informes periódicos que rinda quien sea titular de la Dirección General;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XVI. Establecer los lineamientos que debe cumplir la Comisión en materia de acceso a la información, en términos de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza y demás disposiciones en la materia;
+XVI. Establecer los lineamientos que debe cumplir la Comisión en materia de acceso a la información, en términos de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza y demás disposiciones en la materia;
 
 XVII. Procurar el incremento del patrimonio de la Comisión y vigilar su administración;
 
@@ -897,7 +901,9 @@ X. Presentar cada mes a la Presidencia de la Junta de Gobierno, el informe de de
 
 XI. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la Comisión y presentar a la Junta de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con dicho órgano;
 
-XII. Proporcionar la información y dar acceso a la documentación que le soliciten la dependencia a la que se encuentre adscrita, la Secretaría de Medio Ambiente, la Secretaría de Finanzas, la Secretaría de Fiscalización y Rendición de Cuentas, el auditor externo, así como a la Auditoría Superior del Estado, para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XII. Proporcionar la información y dar acceso a la documentación que le soliciten la dependencia a la que se encuentre adscrita, la Secretaría de Medio Ambiente y Desarrollo Urbano, la Secretaría de Finanzas, la Secretaría de Fiscalización y Rendición de Cuentas, el auditor externo, así como a la Auditoría Superior del Estado, para el cumplimiento de sus funciones;
 
 XIII. Proponer a la Junta de Gobierno, en su caso, las Reglas de Operación, manuales de organización, lineamientos y demás disposiciones de carácter interno;
 
@@ -1078,3 +1084,51 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 1177 POR EL QUE “SE REFORMA LA FRACCIÓN IX ARTÍCULO 6; LA FRACCIÓN II DEL ARTÍCULO 7; EL PRIMER PÁRRAFO DEL ARTÍCULO 62; LA FRACCIÓN I Y LOS INCISOS C Y E DE LA FRACCIÓN III DEL ARTÍCULO 65; LAS FRACCIONES VI Y XVI DEL ARTÍCULO 66 BIS Y LA FRACCIÓN XII DEL ARTÍCULO 66 QUÁTER DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
