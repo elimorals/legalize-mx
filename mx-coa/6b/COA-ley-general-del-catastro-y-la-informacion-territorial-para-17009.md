@@ -4,7 +4,7 @@ identifier: "COA-ley-general-del-catastro-y-la-informacion-territorial-para-1700
 country: "mx"
 rank: "ley_general"
 publication_date: "1999-07-23"
-last_updated: "2017-08-22"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY GENERAL DEL CATASTRO Y LA INFORMACION TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 23 de julio de 1999.
 
@@ -73,37 +75,25 @@ V. INFORMACIÓN GEOGRÁFICA. Los estudios sociográficos, geodésicos, del medio
 
 VI. (DEROGADA, P.O. 8 DE MAYO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
+VII. INSTITUTO. El Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
 
-VII. INSTITUTO. El Instituto Coahuilense del Catastro y la Información Territorial.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
-
-VIII. LEY. La Ley General del Catastro para el Estado de Coahuila.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VIII. LEY. La Ley General del Catastro y la Información Territorial para el Estado de Coahuila.
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
 IX. REGLAMENTO. El Reglamento de la Ley General del Catastro y la Información Territorial para el Estado de Coahuila.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
 X. UNIDAD. Unidad Catastral Municipal, considerada como el área integrada por el personal técnico y administrativo que señale el presupuesto municipal, encargada de las funciones catastrales que le asignan esta ley y su reglamento en el municipio que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
 XI. JUNTA. La Junta Municipal Catastral que se integre en cada municipio con las atribuciones de esta ley y su reglamento le confiere.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -149,25 +139,17 @@ I. El Congreso del Estado para aprobar los elementos que sirvan de base para fij
 
 II. (DEROGADA, P.O. 8 DE MAYO DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
-
-III. El Instituto Coahuilense del Catastro y la Información Territorial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+III. El Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
 IV. Los ayuntamientos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2010)</small>
 
 V. Los titulares de las Unidades Catastrales Municipales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2010)</small>
 
@@ -189,11 +171,11 @@ V. Las Asociaciones Agropecuarias.
 
 VI. Las personas o instituciones privadas cuya colaboración se haga necesaria a juicio de las autoridades catastrales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 10.
 
-Compete al Instituto Coahuilense del Catastro y la Información Territorial:
+Compete al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza:
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -377,75 +359,43 @@ XVI. Las demás que le señalen la presente ley, su reglamento y otras disposici
 
 El titular de la Unidad será en todo caso, el funcionario competente para ejercer las facultades y cumplir con las obligaciones que establece esta ley y su reglamento.
 
-### CAPÍTULO SEGUNDO. DEL INSTITUTO COAHUILENSE DE CATASTRO Y LA INFORMACIÓN TERRITORIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+### CAPÍTULO SEGUNDO. DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-El Instituto es el organismo público descentralizado, con personalidad jurídica y patrimonio propio encargado de todo lo relacionado con la planeación, rectoría, vigilancia y subsidiariedad administrativa en materia de catastro en el Estado y estará sectorizado a la Secretaría de Finanzas.
+El Instituto es un órgano desconcentrado de la Secretaría de Gobierno, encargado de todo lo relacionado con la planeación, rectoría, vigilancia y subsidiariedad administrativa en materia de catastro en el Estado. Tendrá su domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que pueda establecer en otras poblaciones de la entidad, las instalaciones y oficinas que estime necesarias para el cumplimiento de su objeto. El Instituto en coordinación con los ayuntamientos, expedirá las políticas, lineamientos y normas técnicas de carácter general relativas al ejercicio de la función catastral de acuerdo con las características y necesidades de cada municipio; así como las correspondientes a la organización y funcionamiento de los catastros municipales, con la facultad de realizar la vigilancia necesaria a los municipios para el cumplimiento de las disposiciones en materia catastral.
 
-Tendrá su domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que pueda establecer en otras poblaciones de la entidad, las instalaciones y oficinas que estime necesarias para el cumplimiento de su objeto.
-
-El Instituto en coordinación con los ayuntamientos, expedirá las políticas, lineamientos y normas técnicas de carácter general relativas al ejercicio de la función catastral de acuerdo con las características y necesidades de cada municipio; así como las correspondientes a la organización y funcionamiento de los catastros municipales, con la facultad de realizar la vigilancia necesaria a los municipios para el cumplimiento de las disposiciones en materia catastral.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 15.
 
-La dirección y administración del Instituto estarán a cargo de un Consejo Directivo, una Dirección General, que será designado por la persona titular del Ejecutivo y los demás órganos que prevea su reglamento interior.
+La dirección y administración del Instituto estarán a cargo de una Dirección General, que será designado por la persona titular del Ejecutivo y los demás órganos que prevea su reglamento interior.
 
-El Instituto contará, además, con el personal necesarios (sic) para su eficaz funcionamiento, en los términos de la plantilla que apruebe su Consejo Directivo, conforme al presupuesto correspondiente.
-
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+El Instituto contará, además, con el personal necesario para su eficaz funcionamiento, conforme al presupuesto correspondiente.
 
 ###### ARTÍCULO 16.
 
-El Consejo Directivo del Instituto, será el órgano máximo del mismo y estará integrado de la siguiente manera:
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2017)
 
-I. Un Presidente quien será la persona titular de la Secretaría de Finanzas.
-
-II. Una Secretaría Técnica, que será ocupada por quien sea titular de la Dirección General del Instituto.
-
-III. Cuatro Vocales, que serán:
-
-a. Quien sea titular de la Secretaría de Desarrollo Económico Competitividad y Turismo;
-
-b. Quien sea titular de la Dirección General del Registro Público del Estado de Coahuila de Zaragoza;
-
-c. Quien sea titular de la Comisión Estatal para la Regularización de la Tenencia de la Tierra Urbana y Rústica en Coahuila; y
-
-d. Una representación de los municipios del Estado, que se designará anualmente por los cinco ayuntamientos de los municipios del Estado con mayor población.
-
-Cada uno de los integrantes del Consejo designará a un suplente de entre las personas que laboren en sus respectivas dependencias.
-
-El Instituto contará con una comisaría, cuyo titular será designado por la Secretaría de Fiscalización y Rendición de Cuentas y tendrá las facultades y obligaciones establecidas en la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-Son facultades del Consejo Directivo:
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+Son facultades del Secretario de Gobierno:
 
 I. Establecer en estricto apego a las disposiciones aplicables, las políticas y lineamientos generales a que deben sujetarse los convenios que el Instituto celebre con los municipios de la entidad y demás organismos e instituciones, públicas o privadas.
 
 II. Establecer las directrices generales para el eficaz funcionamiento del Instituto.
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
-
 III. Aprobar el programa anual de operaciones del Instituto, que someta a su consideración quien sea titular de la Dirección General.
 
-IV. Aprobar el presupuesto anual de egresos y la estimación de ingresos para el ejercicio siguiente.
+V. (SIC) Examinar y aprobar los informes generales y especiales que somete a su consideración el titular de la Dirección General.
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
-
-V. Examinar y aprobar los informes generales y especiales que somete a su consideración el titular de la Dirección General.
-
-VI. Planear y autorizar la gestión de los créditos que requiera el Instituto para su adecuado funcionamiento.
-
-VII. Expedir el reglamento interior del Instituto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+VII. (SIC) Expedir el reglamento interior del Instituto.
 
 VIII. Otorgar poderes generales para pleitos y cobranzas y para actos de administración, con todas las facultades, aun las que requieren cláusula especial conforme a la ley, en los términos de las disposiciones aplicables del Código Civil para el Distrito Federal y del Código Civil para el Estado de Coahuila de Zaragoza, pudiendo conceder facultades para desistirse de amparos y para formular querellas y acusaciones de carácter penal.
 
@@ -455,63 +405,31 @@ IX. Celebrar con las dependencias y autoridades federales, convenios para el oto
 
 X. En general, realizar todos aquellos actos y operaciones autorizadas por la presente ley y los que fuesen necesarios para la mejor administración del Instituto.
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
-
 ###### ARTÍCULO 18.
 
-El Consejo Directivo celebrará por lo menos una sesión cada tres meses y las que sean necesarias para la eficaz marcha del Instituto. Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de los miembros del consejo, siempre que estuviere presente su presidente o quien legalmente deba sustituirlo.
-
-Las votaciones del consejo se tomarán por mayoría de votos de los miembros presentes. En caso de empate, quien ocupe la Presidencia tendrá voto de calidad.
-
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 19.
 
-Quien ocupe la Presidencia del Consejo Directivo tendrá las atribuciones siguientes:
-
-I. Convocar, a través de la Secretaría Técnica del Consejo a las sesiones ordinarias y extraordinarias que se desarrollen conforme al orden del día que para ese efecto se establezca.
-
-II. Dirigir las sesiones del Consejo y declarar resueltos los asuntos en el sentido de las votaciones.
-
-III. Resolver los asuntos que, debiendo ser conocidos por el Consejo, no admitan demora dada su urgencia.
-
-IV. Autorizar, en unión con la Secretaría Técnica, las actas que se levanten de las sesiones que celebre el Consejo.
-
-V. Realizar todos aquellos actos que fuesen necesarios para el mejor funcionamiento del Consejo y del Instituto.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2017)
 
 ARTÍCULO 19 BIS. (DEROGADO, P.O. 8 DE MAYO DE 2012)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-Quien ocupe la Dirección General del Instituto será designado por el Ejecutivo del Estado y tendrá las facultades y obligaciones siguientes:
-
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+Quien ocupe la Dirección General del Instituto tendrá las facultades y obligaciones siguientes:
 
 I. Ejecutar las funciones, ejercer las facultades y cumplir con las obligaciones que esta ley, su reglamento y demás disposiciones aplicables le atribuyan al Instituto.
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
-
 II. Representar al Instituto ante particulares y ante autoridades administrativas o judiciales con todas las facultades de un mandato general para actos de administración y para pleitos y cobranzas, incluidas aquéllas que requieren cláusula especial conforme a la ley, en los términos de las disposiciones aplicables de los artículos del Código Civil para el Distrito Federal y del Código Civil para el Estado de Coahuila de Zaragoza, pudiendo desistirse de amparos y formular querellas y acusaciones de carácter penal y con facultades para sustituir ese poder en todo o en parte, mediante el otorgamiento de poderes, conforme a su objeto para pleitos y cobranzas.
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+III. Presentar al Secretario de Gobierno, en el mes de septiembre de cada año, el programa de trabajo del Instituto, para el siguiente ejercicio anual.
 
-III. Presentar al Consejo Directivo, en el mes de septiembre de cada año, el programa de trabajo del Instituto, para el siguiente ejercicio anual.
+VI. (SIC) Llevar la contabilidad del Instituto, a través de las oficinas que se establezcan al efecto; así como responder del estado y manejo financiero del mismo.
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
-
-IV. Someter a la aprobación del Consejo los Presupuestos de Ingresos y Egresos del Instituto.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2012)</small>
-
-V. Gestionar el otorgamiento de créditos a favor del Instituto conforme a la Ley de Deuda Pública para el Estado de Coahuila de Zaragoza, previa autorización del Consejo Directivo.
-
-VI. Llevar la contabilidad del Instituto, a través de las oficinas que se establezcan al efecto; así como responder del estado y manejo financiero del mismo.
-
-VII. Asistir a las sesiones del Consejo Directivo, con voz pero sin voto.
-
-VIII. Dirigir y controlar las actividades de las áreas y personal del Instituto a su cargo.
+VIII. (SIC) Dirigir y controlar las actividades de las áreas y personal del Instituto a su cargo.
 
 IX. Nombrar, remover y reubicar al personal del Instituto, en los términos de las disposiciones aplicables.
 
@@ -519,9 +437,9 @@ X. Delegar sus funciones, en caso de ausencia temporal, en los funcionarios que 
 
 XI. Requerir a las personas físicas, morales, unidades económicas, así como a las autoridades estatales y municipales, la información estadística y geográfica que requiera el Instituto.
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2012)</small>
+XII. Las demás que por acuerdo del Titular del Ejecutivo o del Secretario de Gobierno se le atribuyan, así como las que le competen dentro del reglamento interno del Instituto y las demás disposiciones aplicables.
 
-XII. Las demás que por acuerdo del Consejo se le atribuyan, así como las que le competen dentro del reglamento interno del Instituto y las demás disposiciones aplicables.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 21.
 
@@ -529,23 +447,11 @@ El Instituto se integrará con las áreas técnicas, administrativas y Delegacio
 
 ###### ARTÍCULO 22.
 
-El patrimonio del Instituto se integrará con:
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2017)
 
-I. Las aportaciones en efectivo que con cargo al Presupuesto de Egresos del Estado, apruebe la legislatura estatal.
+###### ARTÍCULO 22
 
-II. Los incentivos que se establezcan a su favor en los Convenios de Colaboración que al efecto se celebren y en su caso con las aportaciones en efectivo que con cargo al Presupuesto de Egresos de los Municipios, aprueben los Ayuntamientos correspondientes.
-
-III. Con los bienes muebles e inmuebles que adquiera por cualquier título para el desempeño de las funciones que tiene a su cargo.
-
-IV. Los ingresos que perciba por los servicios que preste en cumplimiento de su objeto, o que le correspondan por cualquier otro título legal.
-
-V. Las herencias y legados que se hicieren a su favor.
-
-VI. Todos los demás que adquiera por cualquier otro medio legal.
-
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2017)</small>
-
-ARTÍCULO 22 BIS. Las relaciones laborales entre el organismo y sus trabajadores se regirán conforme al apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones que les resulten aplicables.
+BIS. (DEROGADO, P.O. 26 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO TERCERO. DE LAS JUNTAS CATASTRALES MUNICIPALES
 
@@ -803,25 +709,21 @@ VII. Incurrir en cualquier otro acto u omisión distinta a las enunciadas en las
 
 Son infracciones imputables a los servidores públicos de las dependencias y entidades de la administración pública estatal, de los municipios y organismos descentralizados, aquellas que por negligencia o por cualquier otra circunstancia alteren o falseen los datos que caracterizan a un predio para su identificación, y demás operaciones catastrales y de información territorial, con el fin de favorecer o perjudicar al propietario o poseedor del mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 52.
 
 Las infracciones a la presente ley se sancionarán conforme a lo siguiente:
 
-I. Para la infracción señalada en la fracción I del artículo 50, se impondrá una sanción de 5 a 10 días salario mínimo diario vigente en el Estado.
+I. Para la infracción señalada en la fracción I del artículo 50, se impondrá una sanción de 5 a 10 veces el valor diario de la unidad de medida y actualización.
 
-II. Para la infracción señalada en las (sic) fracción II del artículo 50, se impondrá una sanción de 20 a 30 días salario mínimo diario vigente en el Estado.
+II. Para la infracción señalada en la fracción II del artículo 50, se impondrá una sanción de 20 a 30 el valor diario de la unidad de medida y actualización.
 
-III. Para la infracción señalada en la fracción III y VII del artículo 50, se impondrá una sanción de 10 a 20 días salario mínimo diario vigente en el Estado.
+III. Para la infracción señalada en la fracción III y VII del artículo 50, se impondrá una sanción de 10 a 20 el valor diario de la unidad de medida y actualización
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+IV. Para las infracciones señaladas en las fracciones IV, V y VI, previstas en el artículo 50, se impondrá una sanción de 40 a 75 el valor diario de la unidad de medida y actualización.
 
-IV. Para las infracciones señaladas en las fracciones IV, V y VI, previstas en el artículo 50, se impondrá una sanción de 40 a 75 días de salario mínimo diario vigente en el Estado.
-
-V. Para la infracción señalada en el artículo 51, se impondrá una sanción de 50 a 100 días salario mínimo diario vigente en el Estado.
-
-Las sanciones que se impongan se calcularán tomando como base el salario mínimo vigente en el Estado el día de su pago.
+V. Para la infracción señalada en el artículo 51, se impondrá una sanción de 50 a 100 el valor diario de la unidad de medida y actualización.
 
 ###### ARTÍCULO 53.
 
@@ -939,13 +841,17 @@ Los albaceas o, en su defecto, los herederos deberán manifestar ante el ayuntam
 
 Los jueces, notarios y servidores públicos que en ejercicio de sus funciones intervengan en la tramitación o protocolización, en su caso, de las transmisiones a que se refiere este artículo, serán solidariamente responsables del cumplimiento de la obligación a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 75.
 
-Las oficinas del Registro Público no harán inscripción alguna en sus libros sino cuando se compruebe que fueron presentadas las manifestaciones correspondientes ante las Autoridades Catastrales debiendo acompañarse al documento o título, un certificado de la inscripción catastral y la autorización del plano del predio objeto de la operación.
+Las oficinas del Instituto no harán inscripción alguna en sus libros sino cuando se compruebe que fueron presentadas las manifestaciones correspondientes ante las Autoridades Catastrales debiendo acompañarse al documento o título, un certificado de la inscripción catastral y la autorización del plano del predio objeto de la operación.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 76.
 
-Las Autoridades del Registro Público proporcionarán a las Autoridades Catastrales un plazo de cinco días, los datos de inscripción correspondientes a las operaciones a que se refiere el artículo anterior.
+Las Autoridades del Instituto proporcionarán a las Autoridades Catastrales un plazo de cinco días, los datos de inscripción correspondientes a las operaciones a que se refiere el artículo anterior.
 
 ###### ARTÍCULO 77.
 
@@ -1089,9 +995,11 @@ Cuando no se acompañe alguno de los documentos a que se refieren las fracciones
 
 En el recurso de inconformidad a que se refiere el presente capítulo, se admitirán toda clase de pruebas, excepto la de confesión de las autoridades mediante absolución de posiciones.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 101.
 
-Cuando se promueva prueba pericial, el recurrente deberá indicar en su inconformidad, los nombres del o los peritos que proponga de su parte, que en todo caso deberán contar con registro ante el Instituto Coahuilense del Catastro y la Información Territorial y acompañar el dictamen correspondiente, que al efecto emitan sus peritos.
+Cuando se promueva prueba pericial, el recurrente deberá indicar en su inconformidad, los nombres del o los peritos que proponga de su parte, que en todo caso deberán contar con registro ante el Instituto y acompañar el dictamen correspondiente, que al efecto emitan sus peritos.
 
 ###### ARTÍCULO 102.
 
@@ -1344,3 +1252,51 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 1177 POR EL QUE "SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 2; LA FRACCIÓN III DEL ARTÍCULO 8; EL ARTÍCULO 9; EL PÁRRAFO PRIMERO DEL ARTÍCULO 10; LA DENOMINACIÓN DEL CAPÍTULO SEGUNDO DEL TÍTULO SEGUNDO; LOS ARTÍCULOS 14, 15, 17, 20, 21, 52, 75, 76, Y 101; SE DEROGAN LOS ARTÍCULOS 16, 18, 19, 22, 22 BIS DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos yseseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
