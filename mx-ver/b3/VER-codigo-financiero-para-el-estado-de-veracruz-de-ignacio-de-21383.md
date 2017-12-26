@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2017-10-16"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -105,7 +105,7 @@ XIV. Documento electrónico: El documento o archivo electrónico en cualquier fo
 
 XV. Entidades: Los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos del Estado; los Municipios; los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos del Estado y los Municipios, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones;
 
-XVI. Evaluación: El proceso que tiene como finalidad determinar el grado de eficacia, eficiencia, economía y calidad con que han sido empleados los recursos económicos destinados para alcanzar los objetivos previstos en las políticas públicas, el plan y los programas que de él se deriven, los programas presupuestarios y las actividades institucionales, posibilitando la adopción de medidas que garanticen el cumplimiento adecuado de las metas, de conformidad con lo señalado en el Título Sexto, denominado “De control y Evaluación del Gasto Público” del Libro Cuarto de este Código;
+XVI. Evaluación: El proceso que tiene como finalidad determinar el grado de eficacia, eficiencia, economía y calidad con que han sido empleados los recursos económicos destinados para alcanzar los objetivos previstos en las políticas públicas, el plan y los programas que de él se deriven, los programas presupuestarios y las actividades institucionales, posibilitando la adopción de medidas que garanticen el cumplimiento adecuado de las metas, de conformidad con lo señalado en el Título Sexto, denominado "De control y Evaluación del Gasto Público" del Libro Cuarto de este Código;
 
 XVII. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de las entidades, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
@@ -200,6 +200,10 @@ LXI. Transferencias federales etiquetadas: los recursos que reciben de la Federa
 LXII. Unidades administrativas: Las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos públicos asignados a las unidades presupuestales para la realización de sus atribuciones. En los fideicomisos públicos será el Secretario Técnico o su equivalente; y
 
 LXIII. Unidades presupuestales: Los Poderes Legislativo y Judicial, los Organismos Autónomos, las Dependencias y Entidades, que tengan asignación financiera en el presupuesto del Estado para el ejercicio de sus funciones;
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+LXIV. Unidad de Medida y Actualización (UMA).- A la Unidad de Medida y Actualización que se utiliza como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de dichas leyes;
 
 ###### Artículo 3.
 
@@ -605,9 +609,9 @@ La Secretaría podrá autorizar expresamente la aceptación de otros instrumento
 
 Para determinar las contribuciones se considerarán las fracciones del peso; para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de uno hasta cincuenta centavos se ajusten a la unidad del peso inmediato inferior, y las que contengan cantidades de cincuenta y uno a noventa y nueve centavos, se ajusten a la unidad del peso inmediato superior.
 
-Para los efectos de este Código, se entenderá por salario mínimo, el establecido como tal en las disposiciones legales respectivas del orden federal.
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES PÁRRAFO TERCERO], G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, el cobro se realizará conforme al salario mínimo vigente al momento del pago.
+Cuando no se cubra la contribución, producto o aprovechamiento en la fecha o época establecidas en este Código, el cobro se realizará conforme a la Unidad de Medida y Actualización vigente al momento del pago.
 
 ###### Artículo 38.
 
@@ -821,9 +825,9 @@ I. Resulte imposible localizar al contribuyente o responsables solidarios o ést
 
 II. Por insolvencia de los deudores. Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito, cuando no se puedan localizar los bienes o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución; o
 
-> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III. Por incosteabilidad en el cobro. Se consideran incosteables en el cobro, aquellos créditos fiscales cuyo importe sea inferior o igual al equivalente en moneda nacional a 5 días de salario mínimo, vigentes en la capital del Estado. Cuando el deudor tenga dos o más créditos a su cargo, se sumarán para determinar si resulta incosteable su cobro.
+III. Por incosteabilidad en el cobro. Se consideran incosteables en el cobro, aquellos créditos fiscales cuyo importe sea inferior o igual al equivalente en moneda nacional a 5.3013 Unidades de Medida y Actualización. Cuando el deudor tenga dos o más créditos a su cargo, se sumarán para determinar si resulta incosteable su cobro.
 
 Las disposiciones reglamentarias que expida el Ejecutivo Estatal, deberán indicar los requisitos que habrá de observar la autoridad fiscal para la cancelación de créditos fiscales a que se refiere éste artículo.
 
@@ -1177,17 +1181,27 @@ Tratándose de la omisión de contribuciones por error aritmético en las declar
 
 Son infracciones relacionadas con las funciones de los registros estatales de contribuyentes, las siguientes:
 
-I. No solicitar la inscripción cuando se está obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea. Se aplicará multa de 25 a 50 días de salario mínimo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+I. No solicitar la inscripción cuando se está obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea. Se aplicará multa de 26.5068 a 53.0136 Unidades de Medida y Actualización.
 
 Se excluye de responsabilidad por la comisión de esta infracción a las personas cuya solicitud de inscripción debe ser legalmente efectuada por otra, inclusive cuando dichas personas queden subsidiariamente obligadas a solicitar su inscripción.
 
-II. No presentar solicitud de inscripción a nombre de un tercero cuando legalmente se esté obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente espontáneamente. Se aplicará multa de 25 a 50 días de salario mínimo.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III. No presentar los avisos al registro o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea. Se aplicará multa de 20 a 50 días de salario mínimo.
+II. No presentar solicitud de inscripción a nombre de un tercero cuando legalmente se esté obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente espontáneamente. Se aplicará multa de 26.5068 a 53.0136 Unidades de Medida y Actualización.
 
-IV. No citar la clave del registro o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales, cuando se esté obligado conforme a la Ley. Se aplicará multa de 10 a 40 días de salario mínimo.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-V. Señalar como domicilio fiscal, para efectos de registro, un lugar distinto del que le corresponda. Se aplicará multa de 25 a 50 días de salario mínimo.
+III. No presentar los avisos al registro o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea. Se aplicará multa de 21.2054 a 53.0136 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. No citar la clave del registro o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales, cuando se esté obligado conforme a la Ley. Se aplicará multa de 10.6027 a 42.4109 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+V. Señalar como domicilio fiscal, para efectos de registro, un lugar distinto del que le corresponda. Se aplicará multa de 26.5068 a 53.0136 Unidades de Medida y Actualización.
 
 ###### Artículo 73.
 
@@ -1195,85 +1209,137 @@ Son infracciones relacionadas con la obligación de pago de las contribuciones, 
 
 I. No presentar las declaraciones, las solicitudes, avisos o constancias que exijan las disposiciones fiscales, o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos. Las multas a aplicar serán de acuerdo a lo siguiente:
 
-a) De 15 a 100 días de salario mínimo, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta la complementaria de aquélla, señalando las contribuciones adicionales; sobre las mismas se les aplicará también la multa a que se refiere este inciso.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-b) De 15 a 100 días de salario mínimo por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+a) De 15.9040 a 106.0272 Unidades de Medida y Actualización, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta la complementaria de aquélla, señalando las contribuciones adicionales; sobre las mismas se les aplicará también la multa a que se refiere este inciso.
 
-c) De 15 a 100 días de salario mínimo en los demás documentos.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+b) De 15.9040 a 106.0272 Unidades de Medida y Actualización por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+c) De 15.9040 a 106.0272 Unidades de Medida y Actualización en los demás documentos.
 
 II. Presentar las declaraciones, las solicitudes, avisos o expedir constancias incompletas o con errores. Las multas serán de acuerdo a lo siguiente:
 
-a) De 2 a 5 días de salario mínimo, por no anotar el nombre del contribuyente o hacerlo de manera equivocada.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-b) De 2 a 10 días de salario mínimo, por no anotar el domicilio o hacerlo equivocadamente.
+a) De 2.1205 a 5.3013 Unidades de Medida y Actualización, por no anotar el nombre del contribuyente o hacerlo de manera equivocada.
 
-c) De 1 a 2 días de salario mínimo por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la mitad de los términos de este inciso por cada dato que contenga el anexo no presentado.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales, cuando se trate de contribuciones que no sean determinables por los contribuyentes, salvo cuando el pago se efectúe espontáneamente. Se aplicará multa de 15 a 100 días de salario mínimo por cada requerimiento.
+b) De 2.1205 a 10.6027 Unidades de Medida y Actualización, por no anotar el domicilio o hacerlo equivocadamente.
 
-IV. No efectuar, en los términos de las disposiciones fiscales, los pagos de una contribución, cuando sean determinadas por el contribuyente. Se aplicará multa de 15 a 100 días de salario mínimo.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-V. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos preestablecidos, salvo cuando la presentación se efectúe en forma espontánea. Se aplicará multa de 5 a 10 días de salario mínimo.
+c) De 1.0602 a 2.1205 Unidades de Medida y Actualización por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la mitad de los términos de este inciso por cada dato que contenga el anexo no presentado.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales, cuando se trate de contribuciones que no sean determinables por los contribuyentes, salvo cuando el pago se efectúe espontáneamente. Se aplicará multa de 15.9040 a 106.0272 Unidades de Medida y Actualización por cada requerimiento.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. No efectuar, en los términos de las disposiciones fiscales, los pagos de una contribución, cuando sean determinadas por el contribuyente. Se aplicará multa de 15.9040 a 106.0272 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+V. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos preestablecidos, salvo cuando la presentación se efectúe en forma espontánea. Se aplicará multa de 5.3013 a 10.6027 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 VI. No pagar en forma total o parcial, dentro de los plazos señalados por las leyes fiscales, el importe de los cheques devueltos por causas imputables al librador se aplicará multa:
 
-a) De 10 a 40 días de salario mínimo, cuando el monto del cheque sea inferior a $1,000.00.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-b) De 15 a 200 días de salario mínimo cuando el monto del cheque sea superior al señalado en el inciso anterior.
+a) De 10.6027 a 42.4109 Unidades de Medida y Actualización, cuando el monto del cheque sea inferior a $1,000.00.
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VII. No presentar oportunamente el dictamen en materia de Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal; Impuesto por la Prestación de Servicios de Hospedaje; o Impuesto sobre Loterías, Rifas, Sorteos y Concursos, a que estén obligados los contribuyentes de conformidad con las disposiciones de este Código. Se aplicará una multa de 200 a 500 días de salario mínimo.
+b) De 15.92 a 212.05 Unidades de Medida y Actualización cuando el monto del cheque sea superior al señalado en el inciso anterior.
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VIII. No proporcionar a la autoridad la información solicitada en Medios Electrónicos. Se aplicará una multa de 15 a 100 días de salario mínimo
+VII. No presentar oportunamente el dictamen en materia de Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal; Impuesto por la Prestación de Servicios de Hospedaje; o Impuesto sobre Loterías, Rifas, Sorteos y Concursos, a que estén obligados los contribuyentes de conformidad con las disposiciones de este Código. Se aplicará una multa de 212.0545 a 530.1364 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VIII. No proporcionar a la autoridad la información solicitada en Medios Electrónicos. Se aplicará una multa de 15.9040 a 106.0272 Unidades de Medida y Actualización.
 
 ###### Artículo 74.
 
 Son infracciones relacionadas con la obligación de llevar contabilidad, siempre que sean descubiertas en el ejercicio de las facultades de comprobación, las siguientes:
 
-I. No usar contabilidad. Se aplicará multa de 10 a 50 días de salario mínimo.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. No usar algún libro o registro especial a que obliguen las leyes fiscales. Se aplicará multa de 5 a 40 días de salario mínimo.
+I. No usar contabilidad. Se aplicará multa de 10.6027 a 53.0136 Unidades de Medida y Actualización.
 
-III. Usar la contabilidad en forma distinta a como las disposiciones de este Código y de otras leyes señalan o llevarla en lugares distintos a los señalados en dichas disposiciones. Se aplicará multa de 1 a 15 días de salario mínimo.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IV. No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos. Se aplicará multa de 1 a 15 días de salario mínimo.
+II. No usar algún libro o registro especial a que obliguen las leyes fiscales. Se aplicará multa de 5.3013 a 42.4109 Unidades de Medida y Actualización.
 
-V. No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales. Se aplicará multa de 10 a 50 días de salario mínimo.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. Usar la contabilidad en forma distinta a como las disposiciones de este Código y de otras leyes señalan o llevarla en lugares distintos a los señalados en dichas disposiciones. Se aplicará multa de 1.0602 a 15.9040 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. No hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos, inexactos o fuera de los plazos respectivos. Se aplicará multa de 1.0602 a 15.9040 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+V. No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales. Se aplicará multa de 10.6027 a 53.0136 Unidades de Medida y Actualización.
 
 ###### Artículo 75.
 
 Son infracciones relacionadas con el ejercicio de la facultad de comprobación las siguientes:
 
-I. Oponerse a que se practique la visita en el domicilio fiscal. Se aplicará multa de 10 a 500 días de salario mínimo.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. No proporcionar en forma total la contabilidad, datos, informes, documentos, el contenido de las cajas de valores y, en general, cualquier elemento que requieran las autoridades fiscales competentes para comprobar el cumplimiento de las obligaciones fiscales propias o de terceros. Se aplicará multa de 20 a 150 días de salario mínimo.
+I. Oponerse a que se practique la visita en el domicilio fiscal. Se aplicará multa de 10.6027 a 530.1364 Unidades de Medida y Actualización;
 
-III. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito, durante el procedimiento de auditoría. Se aplicará multa de 3 a 150 días de salario mínimo.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. No proporcionar en forma total la contabilidad, datos, informes, documentos, el contenido de las cajas de valores y, en general, cualquier elemento que requieran las autoridades fiscales competentes para comprobar el cumplimiento de las obligaciones fiscales propias o de terceros. Se aplicará multa de 21.2054 a 159.0409 Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito, durante el procedimiento de auditoría. Se aplicará multa de 3.1808 a 159.0409 Unidades de Medida y Actualización.
 
 ###### Artículo 76.
 
 Son infracciones cuya responsabilidad recae sobre terceros, las siguientes:
 
-I. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan. Se aplicará multa de 10 a 100 días de salario mínimo.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Ser cómplice, en la comisión de infracciones fiscales. Se aplicará multa de 3 a 300 días de salario mínimo.
+I. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que se expidan. Se aplicará multa de 10.6027 a 106.0272 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. Ser cómplice, en la comisión de infracciones fiscales. Se aplicará multa de 3.1808 a 318.0818 Unidades de Medida y Actualización.
 
 ###### Artículo 77.
 
 Son infracciones a las disposiciones fiscales, en que pueden incurrir los servidores públicos por el ejercicio de sus funciones, las siguientes:
 
-I. No exigir el pago total de las contribuciones y sus accesorios, recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales. Se aplicará multa de 50 a 500 días de salario mínimo.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas en el domicilio fiscal o incluir en las actas relativas datos falsos. Se aplicará multa de 100 a 500 días de salario mínimo.
+I. No exigir el pago total de las contribuciones y sus accesorios, recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales. Se aplicará multa de 53.0136 a 530.1364 Unidades de Medida y Actualización.
 
-III. Exigir una prestación que no esté prevista en las disposiciones fiscales, aun cuando se destine a un gasto público. Se aplicará multa de 100 a 1000 días de salario mínimo.
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas en el domicilio fiscal o incluir en las actas relativas datos falsos. Se aplicará multa de 106.0272 a 530.1364 Unidades de Medida y Actualización.
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. Exigir una prestación que no esté prevista en las disposiciones fiscales, aun cuando se destine a un gasto público. Se aplicará multa de 106.0272 a 1060.2788 Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 78.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 10 a 100 días de salario mínimo.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de 10.6027 a 106.0272 Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -1411,7 +1477,9 @@ c) De dos a cuatro años de prisión, a quien a sabiendas de la falsedad que los
 
 d) De tres a seis años de prisión, al que, a sabiendas o sin que haya tomado las medidas indispensables para cerciorarse de la legítima procedencia, haya adquirido, posea, done, ceda o enajene un vehículo de dudosa procedencia, cuya documentación sea presentada ante la autoridad fiscal con el fin de regularizar el vehículo de procedencia ilegítima, con el propósito de obtener las placas de circulación, la tarjeta de circulación o los derechos de adquisición de vehículos automotores usados; realizar, altas, bajas o pretender pagar el impuesto sobre tenencia y uso de vehículos, valiéndose de documentación apócrifa.
 
-Se aumentará la sanción hasta con un año más y se impondrá multa de 30 a 500 días salario mínimo, cuando el particular dé u ofrezca dinero o dádivas a los funcionarios o servidores públicos estatales; la misma pena se aplicará a éstos últimos cuando acepten el dinero o dádiva citados.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Se aumentará la sanción hasta con un año más y se impondrá multa de 31.8081 a 530.1364 Unidades de Medida y Actualización, cuando el particular dé u ofrezca dinero o dádivas a los funcionarios o servidores públicos estatales; la misma pena se aplicará a éstos últimos cuando acepten el dinero o dádiva citados.
 
 ###### Artículo 95.
 
@@ -1423,7 +1491,9 @@ b) De cuatro a doce años de prisión, al que imprima, grabe o troquele sin auto
 
 c) De dos a nueve años de prisión, al que altere en sus características las placas, tarjetones o comprobantes de pago de prestaciones fiscales u objetos que se utilicen oficialmente como medio de control fiscal.
 
-d) De dos a ocho años de prisión y una multa de 30 a 500 días de salario mínimo, a quien forme las cosas y objetos señalados en los incisos anteriores con los fragmentos de otros recortados o mutilados.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+d) De dos a ocho años de prisión y una multa de 31.8081 a 530.1364 Unidades de Medida y Actualización, a quien forme las cosas y objetos señalados en los incisos anteriores con los fragmentos de otros recortados o mutilados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -1453,9 +1523,9 @@ VIII. Destruir, ordenar o permitir la destrucción total o parcial de los regist
 
 IX. Certificar hechos falsos o participar en cualquier forma en actos, manifestaciones o simulaciones que tengan por objeto engañar al Fisco Estatal.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-El delito de defraudación fiscal se sancionará con pena de tres meses a seis años de prisión si el monto de las contribuciones no enteradas es igual o inferior al equivalente a 1000 días de salario mínimo, y con prisión de dos a nueve años si dicho monto excede de esa cantidad. Asimismo, se impondrá una multa de 30 a 500 días de salario mínimo.
+El delito de defraudación fiscal se sancionará con pena de tres meses a seis años de prisión si el monto de las contribuciones no enteradas es igual o inferior al equivalente a 1060.2728 Unidades de Medida y Actualización, y con prisión de dos a nueve años si dicho monto excede de esa cantidad. Asimismo, se impondrá una multa de 31.8081 a 530.1364 Unidades de Medida y Actualización.
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -1469,7 +1539,9 @@ Se tomará en cuenta el monto no enterado dentro de un mismo periodo fiscal, aun
 
 Comete el delito de ejercicio indebido de la función pública en materia fiscal, el servidor público que ordene o realice cualquier acto ilegal o deje de cumplir con los deberes de su encargo o función, en perjuicio del erario estatal, de los derechos de alguien o en beneficio propio o ajeno.
 
-a) Se impondrá prisión de seis meses a tres años y multa de 50 a 500 días de salario mínimo, al servidor público que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+a) Se impondrá prisión de seis meses a tres años y multa de 53.0136 a 530.1364 Unidades de Medida y Actualización, al servidor público que:
 
 I. Practique visitas domiciliarias o embargos sin mandamiento escrito de autoridad fiscal competente.
 
@@ -1501,7 +1573,9 @@ Serán sancionados en los términos del presente artículo, el tercero, ya sea o
 
 Comete el delito de abuso de autoridad en materia fiscal, el servidor público de la Hacienda Pública Estatal que por sí o por interpósita persona, utilice formatos oficiales o cualquier tipo de documentación que se halle bajo su custodia o a la cual tenga acceso o conocimiento, en virtud de su empleo, cargo o comisión, para ordenar, ejecutar, cancelar o reproducir un acto de manera ilícita o iniciar un procedimiento en beneficio propio o ajeno, o en perjuicio de los contribuyentes o de la Hacienda Pública.
 
-Al infractor se le impondrán de 6 a 12 años de prisión, multa de 30 a 300 veces el salario mínimo diario vigente en el lugar y momento de comisión del delito y destitución e inhabilitación de 6 a 12 años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Al infractor se le impondrán de 6 a 12 años de prisión, multa de 31.8081 a 318.0818 Unidades de Medida y Actualización vigente en el momento de (sic) comisión del delito y destitución e inhabilitación de 6 a 12 años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -1535,7 +1609,9 @@ II. Las erogaciones en efectivo o en especie, por concepto de remuneraciones al 
 
 Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal, ya sea subordinado o no, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria; gratificaciones, percepciones, habitación, primas, comisiones, prestaciones en especie; los honorarios profesionales, emolumentos; aportaciones del patrón al fondo de ahorro constituido a favor de sus trabajadores; contraprestaciones contractuales, cuando el contrato tenga como objeto la prestación de un servicio; los pagos a los administradores, comisarios o miembros de los consejos directivos, de vigilancia o de administración de sociedades o asociaciones como remuneración a dichos cargos; los pagos realizados a fiduciarios como remuneración a sus servicios; los pagos por concepto de servicios personales; y cualquier otra de la misma naturaleza que las anteriores, con independencia de la denominación que reciba. Lo anterior, sin perjuicio de las excepciones señaladas en el artículo 103 de este Código.
 
-En el caso de la fracción I de este artículo, las personas físicas o morales que contraten la prestación de servicios con personas domiciliadas dentro o fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos de dicha fracción, estarán obligadas a retener y enterar el impuesto de conformidad con lo previsto en el presente Capítulo. En este caso, se deberá proporcionar constancia de retención por parte de la persona que realizó la contratación.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+En el caso de la fracción I de este artículo, las personas físicas o morales que contraten la prestación de servicios con personas domiciliadas dentro o fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos de dicha fracción, estarán obligadas a retener y enterar el impuesto de conformidad con lo previsto en el presente Capítulo. En este caso, se deberá proporcionar constancia de retención por parte de la persona que realizó la contratación y el prestador de servicios podrá acreditar dicha retención contra el Impuesto que le resulte a cargo en el mes de que se trate.
 
 En el caso de la fracción II de este artículo, las personas morales que contraten la prestación de servicios con personas domiciliadas fuera del territorio del Estado, cuando el servicio personal se preste en los términos de la misma fracción, estarán obligadas a retener y enterar el impuesto de conformidad con lo previsto en el presente Capítulo. De igual manera, se deberá proporcionar constancia de retención por parte de la persona que realizó la contratación.
 
@@ -2035,9 +2111,13 @@ Antigüedad Factor
 
 9 0.075
 
-Para los supuestos previstos en este artículo, en ningún caso el impuesto será menor a cuatro días de salario mínimo general del área geográfica correspondiente al domicilio del contribuyente, tratándose de automóviles; y de dos días de salario mínimo general del área geográfica correspondiente al domicilio del contribuyente, tratándose de motocicletas.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-En todo caso, los vehículos a que se refiere el inciso e) de la fracción I del Artículo 2-A de la Ley del Impuesto al Valor Agregado, pagarán dos salarios mínimos, independientemente de su antigüedad.
+Para los supuestos previstos en este artículo, en ningún caso el impuesto será menor a 4.2410 Unidades de Medida y Actualización tratándose de automóviles; y de 2.1205 Unidades de Medida y Actualización tratándose de motocicletas.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+En todo caso, los vehículos a que se refiere el inciso e) de la fracción I del Artículo 2-A de la Ley del Impuesto al Valor Agregado, pagarán 2.1205 Unidades de Medida y Actualización, independientemente de su antigüedad.
 
 ###### Artículo 126.
 
@@ -2065,9 +2145,13 @@ Los sujetos de este impuesto están obligados a exhibir ante la Oficina de Hacie
 
 Los vehículos con antigüedad igual o mayor de diez años:
 
-I. Pagarán el equivalente a dos días de salario mínimo general del área geográfica correspondiente al domicilio del contribuyente;
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Pagarán el equivalente a un día de salario mínimo general del área geográfica correspondiente al domicilio del contribuyente, tratándose de motocicletas.
+I. Pagarán el equivalente a 2.1205 Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. Pagarán el equivalente a 1.0602 Unidades de Medida y Actualización, tratándose de motocicletas.
 
 ###### Artículo 129.
 
@@ -2561,9 +2645,9 @@ APARTADO VI
 
 Destino del Impuesto
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Artículo 136 R. La recaudación, efectivamente ingresada, del impuesto a que se refiere este Capítulo se destinará a cubrir las obligaciones garantizadas con esta contribución y el remanente del monto recaudado será destinado, en partes iguales, al financiamiento del gasto público en el rubro de seguridad pública y de combate a la pobreza, mediante el fideicomiso público que se constituya para su administración.
+Artículo 136 R. La recaudación, efectivamente ingresada, del impuesto a que se refiere este Capítulo se destinará a cubrir las obligaciones garantizadas con esta contribución y el remanente del monto recaudado será destinado, en partes iguales, al financiamiento del gasto público en el rubro de seguridad pública y de combate a la pobreza.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR SEGUNDO TRANSITORIO DEL CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 31 DE JULIO DE 2013)</small>
 
@@ -2715,53 +2799,81 @@ Por los servicios prestados por la Secretaría de Finanzas y Planeación se paga
 
 I. Por la propuesta de Tablas de Valores Catastrales, por predio.
 
-a) De suelo urbano 0.022 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-b) De suelo rústico 0.012 salarios mínimos
+a) De suelo urbano 0.0233 UMA
 
-c) De construcción por cada tipo 20.0 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+b) De suelo rústico 0.0127 UMA
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+c) De construcción por cada tipo 21.2055 UMA
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
 II. Por la propuesta de cuotas y tarifas, por predio:
 
-a) De suelo urbano y suburbano 0.008 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-b) De suelo rústico 0.27 salarios mínimos
+a) De suelo urbano y suburbano 0.0085 UMA
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+b) De suelo rústico 0.0032 UMA
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
 III. Por la actualización del padrón catastral de los Ayuntamientos, por predio adicionado o modificado.
 
-a) De la base de datos alfanumérica 0.27 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-b) De la cartografía 0.27 salarios mínimos
+a) De la base de datos alfanumérica 0.2863 UMA
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+b) De la cartografía 0.2863 UMA
 
 > <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
 IV. Por el estudio de factibilidad para la actualización catastral, por predio.
 
-a) Hasta 10,000 predios 0.082 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-b) El excedente de 10,000 hasta 50,000 predios. 0.033 salarios mínimos
+a) Hasta 10,000 predios. 0.0869 UMA
 
-c) El excedente de 50,000 predios en adelante. 0.016 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
+b) El excedente de 10,000 hasta 50,000 predios. 0.0350 UMA
 
-V. Por la ejecución de programas para la actualización del padrón catastral gráfico y alfanumérico por predio revisado: 0.61 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+c) El excedente de 50,000 predios en adelante. 0.0170 UMA
+
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+V. Por la ejecución de programas para la actualización del padrón catastral gráfico y alfanumérico por predio revisado: 0.6468 UMA
 
 > <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
 VI. Por el levantamiento perimetral de un predio urbano o suburbano de localidades catastradas, con plano tamaño carta a escala variable, por metro cuadrado resultante:
 
-a) Hasta 300 m2. 0.033 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-b) El excedente de 301 a 500 m2. 0.027 salarios mínimos
+a) Hasta 300m 21.2404 UMA
 
-c) El excedente de 501 a 1,000 m2. 0.017 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-d) El excedente de 1,001 m2 en adelante. 0.011 salarios mínimos
+b) El excedente de 301 a 500 m 21.2341 UMA
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+c) El excedente de 501 a 1000 m 21.2235 UMA
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+d) El excedente de 1,001 m2. en adelante 0.0117 UMA
 
 > <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -2769,13 +2881,21 @@ VII. Por el levantamiento de la poligonal de predios rústicos, con plano y cuad
 
 Por hectárea resultante o fracción:
 
-a) Hasta 5 has. 17.0 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-b) El excedente de 5 hasta 50 has. 10.0 salarios mínimos
+a) Hasta 5 has. 18.0246 UMA
 
-c) El excedente de 50 hasta 200 has. 3.3 salarios mínimos
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-d) El excedente de 200 has en adelante 2.2 salarios mínimos
+b) El excedente de 5 hasta 50 has. 10.6027 UMA
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+c) El excedente de 50 hasta 200 has. 3.4989 UMA
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+d) El excedente de 200 has en adelante 2.3326 UMA
 
 ## TÍTULO CUARTO. DE LOS APROVECHAMIENTOS
 
@@ -2815,25 +2935,25 @@ B. Aprovechamientos en materia ambiental:
 
 I. Venta de certificado holográfico para verificación vehicular o verificentro:
 
-a) Certificado holográfico para verificación estática de vehículos con motor a gasolina, gas licuado de petróleo o gas natural, con expedición de holograma tipo “E”.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-1.5 salarios mínimos;
+a) Certificado holográfico para verificación estática de vehículos con motor a gasolina, gas licuado de petróleo o gas natural, con expedición de holograma tipo "E". 1.5904 UMA;
 
-b) Certificado holográfico para verificación a vehículos con motor a diésel.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-2 salarios mínimos;
+b) Certificado holográfico para verificación a vehículos con motor a diésel. 2.1205 UMA;
 
-c) Certificado holográfico para verificación dinámica con expedición de holograma tipo “0”
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-2 salarios mínimos;
+c) Certificado holográfico para verificación dinámica con expedición de holograma tipo "0" 2.1205 UMA;
 
-d) Certificado holográfico para verificación dinámica con expedición de holograma tipo “00”
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-5 salarios mínimos;
+d) Certificado holográfico para verificación dinámica con expedición de holograma tipo "00" 5.3013 UMA;
 
-e) Certificado holográfico para verificación dinámica estatal con expedición de holograma tipo “DE”.
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-1 salario mínimo;
+e) Certificado holográfico para verificación dinámica estatal con expedición de holograma tipo "DE". 1.0602 UMA;
 
 II. Pagos por responsabilidad resarcitoria, reparación de daños ocasionados al ambiente o de compensación derivada de menoscabo, alteración, afectaciones, daños, uso indebido o perjuicios que causen a los ecosistemas veracruzanos y que se cuantifiquen en términos de la Ley Estatal de Protección Ambiental, así como las leyes, reglamentos, disposiciones administrativas, licencias, autorizaciones, dictámenes y resolutivos que se emitan en la materia ambiental;
 
@@ -5562,3 +5682,11 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 Tercero. El Fideicomiso señalado en el artículo 113 deberá constituirse en un plazo de sesenta días naturales, a partir de la entrada en vigor del presente Decreto.
 
 Cuarto. El Ejecutivo del Estado emitirá la normatividad que establezca las bases de funcionamiento del Comité Técnico del Fideicomiso en un plazo no mayor de sesenta días naturales, a partir de la entrada en vigor de este Decreto.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 599 QUE REFORMA Y ADICIONA EL CÓDIGO FINANCIERO Y EL CÓDIGO DE DERECHOS, AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
