@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-3-2002-de-la-presidencia-6228
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-04-15"
-last_updated: "2002-04-15"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62287&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2002-04-15"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION 3/2002 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [ATRIBUCIONES DE LA DIRECCION GENERAL DE GESTION ADMINISTRATIVA DE ESTE ALTO TRIBUNAL]
 
-ACUERDO GENERAL DE ADMINISTRACION 3/2002, DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE CREA Y ESTABLECEN LAS ATRIBUCIONES DE LA DIRECCION GENERAL DE GESTION ADMINISTRATIVA DE ESTE ALTO TRIBUNAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO GENERAL DE ADMINISTRACIÓN 3/2002, DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE CREA Y ESTABLECEN LAS ATRIBUCIONES DE LA DIRECCIÓN GENERAL DE GESTIÓN ADMINISTRATIVA DE ESTE ALTO TRIBUNAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XV, abril de 2002, página 1395.
 
@@ -80,3 +82,19 @@ SEGUNDO.-Se derogan, a partir de la entrada en vigor de este acuerdo, todas aque
 TERCERO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo acordó el presidente de la Suprema Corte de Justicia de la Nación Ministro Genaro David Góngora Pimentel, el día quince del mes de abril del año dos mil dos, ante el coordinador general de Asuntos Jurídicos de la Presidencia de la Suprema Corte de Justicia de la Nación, que da fe.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
