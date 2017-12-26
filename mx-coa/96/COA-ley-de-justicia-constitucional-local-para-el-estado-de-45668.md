@@ -4,7 +4,7 @@ identifier: "COA-ley-de-justicia-constitucional-local-para-el-estado-de-45668"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-12"
-last_updated: "2005-07-12"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE JUSTICIA CONSTITUCIONAL LOCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 12 de julio de 2005.
 
@@ -157,7 +157,9 @@ II. Como demandado: la entidad, poder u órgano que hubiere emitido y promulgado
 
 III. Como tercero o terceros interesados: las personas, las entidades, poderes u órganos a que se refiere el artículo 158 de la Constitución Política del Estado, que sin tener el carácter de actores o demandados, pudieran resultar afectados por la sentencia que pudiera dictarse.
 
-IV. El Procurador General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. El Fiscal General del Estado.
 
 ###### Artículo 14.
 
@@ -165,7 +167,9 @@ La capacidad y representación. El actor, el demandado y, en su caso, el tercero
 
 En los procedimientos constitucionales no se admitirá ninguna forma de representación diversa a la prevista en el párrafo anterior; sin embargo las autoridades por medio de oficio podrán acreditarse delegados para que hagan promociones, concurran a las audiencias y en ellas rindan pruebas, formulen alegatos y promuevan los incidentes y recursos previstos en esta ley.
 
-El Gobernador del Estado, será representado por el Secretario del ramo o por el Procurador General de Justicia, según lo determine el propio Gobernador, considerando las competencias establecidas en la ley de la materia. El acreditamiento de la personalidad de estos servidores públicos y su suplencia se harán en los términos previstos en las leyes o reglamentos interiores que correspondan.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El Gobernador del Estado, será representado por el Secretario del ramo o por el Fiscal General del Estado, según lo determine el propio Gobernador, considerando las competencias establecidas en la ley de la materia. El acreditamiento de la personalidad de estos servidores públicos y su suplencia se harán en los términos previstos en las leyes o reglamentos interiores que correspondan.
 
 ###### Artículo 15.
 
@@ -443,7 +447,9 @@ La ejecución por falta de cumplimiento voluntario de la sentencia. Si dentro de
 
 El incidente de inejecución de la sentencia. Si dentro de las cuarenta y ocho horas siguientes a la notificación del requerimiento a que se refiere el artículo anterior, la ejecutoria no estuviere cumplida, cuando la naturaleza del acto así lo permita, o no se encontrase en vía de ejecución, el Presidente del Tribunal Superior de Justicia del Estado turnará el asunto al magistrado ponente para que trámite el incidente de inejecución.
 
-El magistrado ponente oirá a las partes y al Procurador General de Justicia del Estado y formulará un proyecto de resolución que someterá a la resolución del Pleno en el que considerará si el incumplimiento es excusable o inexcusable.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El magistrado ponente oirá a las partes y al Fiscal General del Estado y formulará un proyecto de resolución que someterá a la resolución del Pleno en el que considerará si el incumplimiento es excusable o inexcusable.
 
 ###### Artículo 55.
 
@@ -475,9 +481,11 @@ La sanción penal. Cuando en los términos de este capítulo, el Pleno del Tribu
 
 Si de la consignación hecha por el Tribunal Superior de Justicia del Estado, o durante la secuela del proceso penal, se presume la posible comisión de un delito distinto a aquel que fue materia de la propia consignación, se procederá en los términos dispuestos en la parte final del párrafo segundo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y en lo que sobre el particular establezcan las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 60.
 
-El archivo de procedimientos constitucionales. Los procedimientos constitucionales no pueden archivarse sin que quede enteramente cumplida la sentencia dictada o se hubiere extinguido la materia de la ejecución. El Procurador General de Justicia del Estado cuidara del cumplimiento de esta disposición.
+El archivo de procedimientos constitucionales. Los procedimientos constitucionales no pueden archivarse sin que quede enteramente cumplida la sentencia dictada o se hubiere extinguido la materia de la ejecución. El Fiscal General del Estado cuidara del cumplimiento de esta disposición.
 
 ### CAPÍTULO NOVENO. CORRECCIONES DISCIPLINARIAS
 
@@ -625,7 +633,9 @@ V. Los conceptos de invalidez.
 
 VI. La firma de los promoventes.
 
-Con el original de la demanda, se presentarán tantas copias cuantas sean necesarias para correr traslado al Procurador General de Justicia del Estado y a las demás partes.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Con el original de la demanda, se presentarán tantas copias cuantas sean necesarias para correr traslado al Fiscal General del Estado y a las demás partes.
 
 ###### Artículo 75.
 
@@ -647,7 +657,9 @@ La aclaración de la demanda. Si hubiere alguna irregularidad en el escrito de d
 
 En los procedimientos por acciones en contra de leyes electorales, el plazo para la aclaración de la demanda será de tres días.
 
-Si el promovente o promoventes no satisficieren los requisitos omitidos, no hicieren las aclaraciones conducentes o no presentaren las copias dentro del término señalado, el magistrado instructor mandará correr traslado al Procurador General de Justicia del Estado, por tres días y en vista de lo que este exponga, admitirá o desechará la demanda, según fuere procedente conforme a los principios de antiformalismo, subsanabilidad, proporcionalidad y razonabilidad de la tutela judicial efectiva.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Si el promovente o promoventes no satisficieren los requisitos omitidos, no hicieren las aclaraciones conducentes o no presentaren las copias dentro del término señalado, el magistrado instructor mandará correr traslado al Fiscal General del Estado, por tres días y en vista de lo que este exponga, admitirá o desechará la demanda, según fuere procedente conforme a los principios de antiformalismo, subsanabilidad, proporcionalidad y razonabilidad de la tutela judicial efectiva.
 
 ###### Artículo 78.
 
@@ -659,9 +671,11 @@ La admisión de la demanda. Si el magistrado instructor no encontrare motivo de 
 
 En los procedimientos por acciones en contra de leyes electorales, el plazo para rendir el informe que contengan las razones y fundamentos tendientes a sostener la inconstitucionalidad de la ley impugnada, será de seis días.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 80.
 
-La intervención del Procurador General de Justicia del Estado. Salvo en los casos en que el Procurador General de Justicia del Estado hubiere ejercitado la acción, el magistrado instructor le dará vista con el escrito y con los informes a que se refiere el artículo anterior, a efecto de que hasta antes de la citación para sentencia, formule el pedimento que corresponda.
+La intervención del Fiscal General del Estado. Salvo en los casos en que el Fiscal General del Estado hubiere ejercitado la acción, el magistrado instructor le dará vista con el escrito y con los informes a que se refiere el artículo anterior, a efecto de que hasta antes de la citación para sentencia, formule el pedimento que corresponda.
 
 ###### Artículo 81.
 
@@ -815,7 +829,9 @@ La ampliación de la demanda y su contestación se tramitarán conforme a lo pre
 
 Los escritos originales obscuros o irregulares. Si los escritos de demanda, contestación, reconvención o ampliación fueren obscuros o irregulares, el magistrado instructor prevendrá a los promoventes para que subsanen las irregularidades dentro del plazo de cinco días.
 
-De no subsanarse las irregularidades requeridas, y si a juicio del magistrado instructor la importancia y trascendencia del asunto lo amerita, correrá traslado al Procurador General de Justicia del Estado, por cinco días y con vista a su pedimento si lo hiciere, admitirá o desechará la demanda dentro de las cuarenta y ocho horas siguientes, conforme a los principios de la tutela judicial efectiva.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+De no subsanarse las irregularidades requeridas, y si a juicio del magistrado instructor la importancia y trascendencia del asunto lo amerita, correrá traslado al Fiscal General del Estado, por cinco días y con vista a su pedimento si lo hiciere, admitirá o desechará la demanda dentro de las cuarenta y ocho horas siguientes, conforme a los principios de la tutela judicial efectiva.
 
 ###### Artículo 101.
 
@@ -998,3 +1014,53 @@ EL SECRETARIO DE GOBIERNO.
 LIC. HORACIO DE JESÚS DEL BOSQUE DÁVILA.
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 1177 POR EL QUE “SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 13; EL TERCER PÁRRAFO DEL ARTÍCULO 14; SEGUNDO PÁRRAFO DEL ARTÍCULO 54; EL ARTÍCULO 60; ÚLTIMO PÁRRAFO DEL ARTÍCULO 74; EL TERCER PÁRRAFO DEL ARTÍCULO 77; EL ARTÍCULO 80 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 100, DE LA LEY DE JUSTICIA CONSTITUCIONAL LOCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando, (sic) hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
