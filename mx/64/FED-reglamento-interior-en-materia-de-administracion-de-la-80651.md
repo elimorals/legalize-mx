@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-en-materia-de-administracion-de-la-80651"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-12"
-last_updated: "2012-11-22"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80651&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-03-25"
 ---
 # REGLAMENTO INTERIOR EN MATERIA DE ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de abril de 2011.
 
@@ -509,7 +511,7 @@ XXI. Coordinar los programas educativos del Centro de Desarrollo Infantil, bajo 
 
 XXII. Atender, mediante el servicio de estancia infantil, a los hijos de los trabajadores de la Suprema Corte, que asisten a la escuela primaria, en tanto sus padres concluyen el horario laboral, a través de programas estratégicos de trabajo que favorezcan el desarrollo integral de los niños;
 
-XXIII. Coordinar los servicios médicos de atención a los trabajadores de la Suprema Corte y a sus hijos inscritos en el Centro de Desarrollo Infantil y en la Estancia Infantil en términos de la normativa aplicable, y (sic)
+XXIII. Coordinar los servicios médicos de atención a los trabajadores de la Suprema Corte y a sus hijos inscritos en el Centro de Desarrollo Infantil y en la Estancia Infantil en términos de la normativa aplicable, y
 
 > <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
 
@@ -861,7 +863,7 @@ VII. Conducir la organización de eventos que contribuyan a incrementar la cultu
 
 VIII. Dirigir acciones que en materia jurídico-consultiva y contenciosa requieran los órganos;
 
-IX. Presentar para validación del Oficial Mayor, los asuntos en el ámbito de su competencia que deban conocer los Comités; y, (sic)
+IX. Presentar para validación del Oficial Mayor, los asuntos en el ámbito de su competencia que deban conocer los Comités; y,
 
 > <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
 
@@ -945,7 +947,7 @@ XII. Fungir como unidad de enlace en materia de transparencia y acceso a la info
 
 XIII. Diseñar la imagen del portal de Internet y la red interna institucional, con el apoyo técnico de la Dirección General de Tecnologías de la Información, contando con la participación de los órganos en cuanto a los contenidos que deben publicarse, de conformidad con los lineamientos respectivos;
 
-XIV. Diseñar y gestionar la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios de comunicación; y, (sic)
+XIV. Diseñar y gestionar la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios de comunicación; y,
 
 > <small>(ADICIONADA, D.O.F. 22 DE NOVIEMBRE DE 2012)</small>
 
@@ -1193,7 +1195,7 @@ El Ministro Presidente, Juan N. Silva Meza.- Rúbrica.- Los Ministros: Luis Mar�
 
 EL LICENCIADO MARIO ALBERTO TORRES LOPEZ, DIRECTOR GENERAL DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CON FUNDAMENTO EN LOS ARTICULOS 153, FRACCION III, Y 162, FRACCION XII, DEL REGLAMENTO INTERIOR DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, EN RELACION AL ARTICULO CUARTO TRANSITORIO, PARRAFO TERCERO, DEL ACUERDO GENERAL DE ADMINISTRACION 01/2011, DEL TRES DE ENERO DE DOS MIL ONCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE REESTRUCTURA ORGANICA Y FUNCIONALMENTE SU ADMINISTRACION, CERTIFICA: Que esta copia del "Reglamento Interior en Materia de Administración de la Suprema Corte de Justicia de la Nación", constante de cuarenta y siete fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General y se certifica para la difusión correspondiente. México, Distrito Federal, a veinticinco de marzo de dos mil once.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 22 DE NOVIEMBRE DE 2012.
 
@@ -1202,3 +1204,17 @@ PRIMERO. El presente Acuerdo General de Administración entrará en vigor al dí
 SEGUNDO. La distribución de las atribuciones de la Dirección General de Desarrollo Interinstitucional que se suprime de la estructura orgánica básica administrativa de la Suprema Corte de Justicia de la Nación, quedará formalizada a la entrada en vigor del presente Acuerdo General de Administración.
 
 TERCERO. La distribución de las atribuciones de la Unidad de Innovación y Mejora Administrativa que se suprime de la estructura orgánica básica administrativa de la Suprema Corte de Justicia de la Nación, habrá de quedar formalizada a la entrada en vigor del presente Acuerdo General de Administración.
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
