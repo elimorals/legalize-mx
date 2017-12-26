@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-turismo-del-estado-de-oaxaca-117870"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2017-08-10"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TURISMO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Séptima Sección del Periódico Oficial Gobierno del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -115,25 +115,31 @@ VIII. Prestadores de Servicios Turísticos: Las personas físicas o morales que 
 
 IX. Programa Sectorial: Programa Sectorial de Turismo del Estado;
 
-X. Recursos Turísticos: Son todos los elementos naturales o artificiales de un lugar o región del Estado que constituyen un atractivo para la actividad turística;
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XI. Región Turística: Es un espacio homogéneo que puede abarcar el territorio de dos o más municipios y en el que, por la cercana distancia de los atractivos y servicios se complementan;
+X. Pueblo Mágico: Es toda aquella localidad que cuente con el nombramiento que otorga la Secretaría Federal de Turismo, que a través del tiempo y ante la modernidad, ha conservado su valor y herencia histórica, cultural y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible irremplazable;
 
-XII. Reglamento: El de la presente Ley;
+XI. Recursos Turísticos: Son todos los elementos naturales o artificiales de un lugar o región del Estado que constituyen un atractivo para la actividad turística;
 
-XIII. Ruta Turística: Es un circuito temático o geográfico que se basa en un patrimonio natural, cultural o artesanal de una zona;
+XII. Región Turística: Es un espacio homogéneo que puede abarcar el territorio de dos o más municipios y en el que, por la cercana distancia de los atractivos y servicios se complementan;
 
-XIV. Secretaría: La Secretaría de Turismo del Estado de Oaxaca;
+XIII. Reglamento: El de la presente Ley;
 
-XV. Secretaría Federal: La Secretaría de Turismo del Gobierno Federal;
+XIV. Ruta Turística: Es un circuito temático o geográfico que se basa en un patrimonio natural, cultural o artesanal de una zona;
 
-XVI. Trabajadores Turísticos: Aquella persona física que presta sus servicios en materia turística de manera subordinada y por el cual devenga un salario o percibe una remuneración económica;
+XV. Secretaría: La Secretaría de Turismo del Estado de Oaxaca;
 
-XVII. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población;
+XVI. Secretaría Federal: La Secretaría de Turismo del Gobierno Federal;
 
-XVIII. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones de territorio del Estado, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico. Estas zonas de acuerdo a la Ley General, se establecerán mediante declaratoria específica que emitirá el Presidente de la República, a propuesta del Titular del Ejecutivo del Estado, y
+XVII. Trabajadores Turísticos: Aquella persona física que presta sus servicios en materia turística de manera subordinada y por el cual devenga un salario o percibe una remuneración económica;
 
-XIX. Servicios Turísticos: Se consideran servicios turísticos los prestados a través de:
+XVIII. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XX (SIC). Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones de territorio del Estado, claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico. Estas zonas de acuerdo a la Ley General, se establecerán mediante declaratoria específica que emitirá el Presidente de la República, a propuesta del Titular del Ejecutivo del Estado;
+
+XX. Servicios Turísticos: Se consideran servicios turísticos los prestados a través de:
 
 a) Hoteles, moteles, albergues, y demás establecimientos y casas destinadas para el hospedaje, así como campamentos y paraderos de casas rodantes, centros culturales y de recreación, que presten servicios a turistas;
 
@@ -145,13 +151,11 @@ d) Restaurantes, cafeterías, bares, centros nocturnos y similares que presten s
 
 e) Empresas de sistema de intercambio de servicios turísticos;
 
-f) Transporte terrestre o acuático, eventual o programado, para el servicio exclusivo de turistas y/o de visitantes, y
+f) Transporte terrestre o acuático, eventual o programado, para el servicio exclusivo de turistas y/o de visitantes, y;
 
 g) Otros servicios y actividades que no se encuentren comprendidos en este artículo y que por su naturaleza estén vinculados con el turismo.
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2017)</small>
-
-XX. La promoción turística.- Comprende el conjunto de información persuasiva, verbal, escrita, audiovisual o en formato digitalizado, que tiene por objeto dar a conocer, promover y difundir a los turistas los atractivos naturales, el patrimonio cultural y los servicios turísticos disponibles en los municipios con la finalidad de incrementar la afluencia turística.
+XXI. La promoción turística. Comprende el conjunto de información persuasiva, verbal, escrita, audiovisual o en formato digitalizado, que tiene por objeto dar a conocer, promover y difundir a los turistas los atractivos naturales, el patrimonio cultural y los servicios turísticos disponibles en los municipios con la finalidad de incrementar la afluencia turística.
 
 ###### Artículo 5.
 
@@ -966,3 +970,9 @@ P.O. 10 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 662.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XX DEL ARTÍCULO 4; Y SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 8; Y EL ARTÍCULO 38 DE LA LEY DE TURISMO DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 726.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
