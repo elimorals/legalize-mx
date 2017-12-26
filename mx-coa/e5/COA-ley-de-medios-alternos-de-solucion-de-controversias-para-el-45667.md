@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-alternos-de-solucion-de-controversias-para-el-456
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-12"
-last_updated: "2013-05-31"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE MAYO DE 2013 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 12 de julio de 2005.
 
@@ -193,11 +191,13 @@ El Centro atenderá gratuitamente los casos que los particulares soliciten y los
 
 Los servidores públicos, estatales o municipales, y las personas físicas que deseen prestar estos servicios, podrán hacerlo siempre que cuenten con la certificación del Centro y se encuentren registrados en el mismo, de conformidad con lo dispuesto en esta Ley y su Reglamento, así como en el procedimiento que para tal efecto determine el Consejo de la Judicatura del Poder Judicial del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 10 Bis.
 
-Los órganos de solución de controversias en materia penal y de justicia para adolecentes (sic). La Procuraduría General de Justicia del Estado establecerá centros o instancias que brinden servicios gratuitos de solución de controversias en materia penal y de justicia para adolescentes, a través de los medios alternos previstos en esta Ley, en cuyo caso, los facilitadores encargados de la conducción de los medios alternos, deberán estar certificados e inscritos en el Centro.
+Los órganos de solución de controversias en materia penal y de justicia para adolescentes. La Fiscalía General del Estado establecerá centros o instancias que brinden servicios gratuitos de solución de controversias en materia penal y de justicia para adolescentes, a través de los medios alternos previstos en esta Ley, en cuyo caso, los facilitadores encargados de la conducción de los medios alternos, deberán estar certificados e inscritos en el Centro.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
 La aplicación de los medios alternativos en materia penal y de justicia para adolecentes (sic) corresponderá en forma exclusiva a la Procuraduría General de Justicia del Estado, quien en lo conducente se ajustara al procedimiento regulado en esta ley y a lo que establezcan las demás disposiciones aplicables.
 
@@ -439,11 +439,11 @@ VIII. Mantener el buen desarrollo de los procesos de medios alternos, así como 
 
 IX. Las demás inherentes al desarrollo de sus funciones.
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 21 Bis 1.
 
-Clasificación. Los facilitadores podrán ser públicos o privados. Serán públicos aquellos que se encuentren adscritos al Centro o a instancias de justicia alternativa que establezca el Ejecutivo del Estado, la Procuraduría General de Justicia del Estado y los Municipios, teniendo el carácter de servidores públicos; serán privados las personas físicas que realicen esa función en forma individual o como integrantes de cualquier otra institución que preste servicios de medios alternativos, de conformidad con lo previsto en la ley.
+Clasificación. Los facilitadores podrán ser públicos o privados. Serán públicos aquellos que se encuentren adscritos al Centro o a instancias de justicia alternativa que establezca el Ejecutivo del Estado, la Fiscalía General del Estado y los Municipios, teniendo el carácter de servidores públicos; serán privados las personas físicas que realicen esa función en forma individual o como integrantes de cualquier otra institución que preste servicios de medios alternativos, de conformidad con lo previsto en la ley.
 
 ### CAPITULO TERCERO. LAS PARTES
 
@@ -529,7 +529,9 @@ El acuerdo final podrá ser validado por la firma del director del Centro, a pet
 
 La eficacia jurídica. Los acuerdos de mediación, conciliación, y evaluación neutral celebrados ante facilitadores del Centro, deberán ser validados por el Director del Centro, con su firma, para contar con la calidad de cosa juzgada y, en caso de incumplimiento, podrán ser ejecutados por esta autoridad mediante una petición por escrito al juez competente, en los términos de las disposiciones legales aplicables. Se exceptúa de lo anterior los acuerdos que sean celebrados en asuntos de orden penal y de justicia para adolescentes, los cuales requerirán de su ratificación ante el juez de control penal para que tengan la calidad de cosa juzgada.
 
-Los acuerdos celebrados ante instituciones públicas o privadas estatales o municipales, ante organizaciones sociales o personas físicas, deberán ser remitidos al Centro para ser validados por su director y contar así con la eficacia jurídica a que se refiere este artículo, a excepción de aquellos que sean celebrados ante la instancia o centro de justicia alternativa correspondiente a la Procuraduría General de Justicia del Estado, cuya validación estará a cargo de su titular, con fundamento en lo que determinen las disposiciones normativas aplicables, sin perjuicio de que los asuntos de orden penal y de justicia para adolescentes deban ser validados por el juez competente.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Los acuerdos celebrados ante instituciones públicas o privadas estatales o municipales, ante organizaciones sociales o personas físicas, deberán ser remitidos al Centro para ser validados por su director y contar así con la eficacia jurídica a que se refiere este artículo, a excepción de aquellos que sean celebrados ante la instancia o centro de justicia alternativa correspondiente a la Fiscalía General del Estado, cuya validación estará a cargo de su titular, con fundamento en lo que determinen las disposiciones normativas aplicables, sin perjuicio de que los asuntos de orden penal y de justicia para adolescentes deban ser validados por el juez competente.
 
 En todo caso, el cumplimiento de lo acordado en sede ministerial extinguirá el ejercicio de la acción penal, en tanto que aquellos celebrados en el procedimiento penal producirán el sobreseimiento de éste.
 
@@ -1379,7 +1381,9 @@ IV. Coordinar y supervisar, en su caso, los centros regionales que constituya, a
 
 V. Elaborar los manuales operativos de observancia general de mediación, conciliación, evaluación neutral y arbitraje;
 
-VI. Formar, capacitar, evaluar y certificar a los facilitadores encargados de conducir los medios alternos, así como evaluar y certificar a los facilitadores de la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VI. Formar, capacitar, evaluar y certificar a los facilitadores encargados de conducir los medios alternos, así como evaluar y certificar a los facilitadores de la Fiscalía General del Estado.
 
 VII. Tener programas permanentes de actualización, capacitación y certificación de facilitadores;
 
@@ -1536,3 +1540,51 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Los asuntos iniciados y que se encuentren en proceso de desahogo a través de algunos de los medios alternos de solución de controversias previstos en esta ley, seguirán el procedimiento previstos en este Decreto, en lo que sea benéfico para las partes.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 1177 POR EL QUE "SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 10 BIS; EL ARTÍCULO 21 BIS 1; SEGUNDO PÁRRAFO DEL ARTÍCULO 28 Y LA FRACCIÓN VI DEL ARTÍCULO 112, DE LA LEY DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
