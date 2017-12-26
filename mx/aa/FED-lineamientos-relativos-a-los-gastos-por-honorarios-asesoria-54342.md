@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-relativos-a-los-gastos-por-honorarios-asesoria-543
 country: "mx"
 rank: "lineamientos"
 publication_date: "2007-02-28"
-last_updated: "2007-02-28"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54342&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2007-02-23"
 ---
 # LINEAMIENTOS RELATIVOS A LOS GASTOS POR HONORARIOS, ASESORIA, CONSULTORIA, ESTUDIOS E INVESTIGACIONES EN LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-LINEAMIENTOS DEL VEINTITRES DE FEBRERO DE DOS MIL SIETE RELATIVOS A LOS GASTOS POR HONORARIOS, ASESORIA, CONSULTORIA, ESTUDIOS E INVESTIGACIONES EN LA SUPREMA CORTE DE JUSTICIA DE LA NACION
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LINEAMIENTOS DEL VEINTITRÉS DE FEBRERO DE DOS MIL SIETE RELATIVOS A LOS GASTOS POR HONORARIOS, ASESORÍA, CONSULTORÍA, ESTUDIOS E INVESTIGACIONES EN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el miércoles 28 de febrero de 2007.
 
@@ -80,3 +82,19 @@ SEGUNDO. Publíquense estos Lineamientos en el Diario Oficial de la Federación,
 Así lo acordaron y firman el licenciado Jorge Sierra García de León, Oficial Mayor, y el licenciado Rafael Coello Cetina, Secretario Ejecutivo de Asuntos Jurídicos, ambos de la Suprema Corte de Justicia de la Nación.- El Oficial Mayor, Jorge Sierra García de León.- Rúbrica.- El Secretario Ejecutivo de Asuntos Jurídicos, Rafael Coello Cetina.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO EJECUTIVO DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia de los Lineamientos del veintitrés de febrero de dos mil siete relativos a los gastos por honorarios, asesoría, consultoría, estudios e investigaciones en la Suprema Corte de Justicia de la Nación, constante de cinco fojas útiles, concuerda fiel y exactamente con su original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente. México, Distrito Federal, a veintitrés de febrero de dos mil siete.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
