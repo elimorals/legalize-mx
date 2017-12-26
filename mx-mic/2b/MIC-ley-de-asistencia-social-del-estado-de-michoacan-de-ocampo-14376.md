@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2017-04-25"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -39,11 +39,11 @@ LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 1o.
 
-La presente Leyes de orden público e interés social, y tiene por objeto definir, regular y fijar las bases y procedimientos de la asistencia social, promover el desarrollo integral de la familia, apoyar la formación, subsistencia, y desarrollo de las personas que carezcan de integración familiar o de familia, así como organizar y dotar de competencia al Sistema para el Desarrollo Integral de la Familia estableciendo las bases concurrentes con el Ejecutivo del Estado, el Sistema Estatal de Desarrollo Social y los sectores privado y social.
+La presente Ley es de orden público e interés social, y tiene por objeto definir, regular y fijar las bases y procedimientos de la asistencia social, promover el desarrollo integral de la familia, apoyar la formación, subsistencia, y desarrollo de las personas que carezcan de integración familiar o de familia, así como organizar y dotar de competencia al Sistema para el Desarrollo Integral de la Familia estableciendo las bases concurrentes con el Ejecutivo del Estado, el Sistema Estatal de Desarrollo Social, los Gobiernos Municipales y los sectores privado y social.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -61,11 +61,11 @@ IV. Secretaría: Secretaría de Desarrollo Social en el Estado; y,
 
 V. Sistema: Sistema Estatal de Desarrollo Social al que se refiere la Ley de Desarrollo Social para el Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 3o.
 
-Corresponde al Estado en el marco de la corresponsabilidad con los sectores privado y social y bajo los principios de la política de desarrollo social a que se refiere la Ley de la materia, proporcionar los servicios de asistencia social, así como apoyar en su formación y subsistencia a los individuos carentes de familiares esenciales.
+Corresponde al Estado y Gobiernos Municipales, en el marco de la corresponsabilidad con los sectores privado y social, y bajo los principios de la política de desarrollo social a que se refiere la Ley de la materia, proporcionar los servicios de asistencia social, así como apoyar en su formación y subsistencia a los individuos carentes de familiares esenciales.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -208,6 +208,10 @@ XII. Prestar servicios de asistencia jurídica con efectos de representación de
 XIII. Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y expósitos, así como en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales vigentes;
 
 XIV. Fomentar la organización de grupos de promotores voluntarios y coordinar sus acciones, orientando su participación en los programas del Organismo;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIV BIS. Promover de forma coordinada con los Gobiernos Municipales, en sus respectivos ámbitos de competencia, el establecimiento y vigilancia de los centros y servicios de rehabilitación psicológica, social y ocupacional, para las personas que padezcan de una enfermedad por alcoholismo o farmacodependencia;
 
 XV. Participar en programas de rehabilitación y educación especial; y
 
@@ -471,7 +475,9 @@ II. Determinación de las acciones de orientación, estímulo y apoyo que llevar
 
 III. Fijación del objeto, materia y alcances jurídicos de los compromisos que asuman las partes con reserva de las funciones de autoridad que competan al Gobierno del Estado; y
 
-IV. Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. Expresión de las demás estipulaciones que de común acuerdo establezcan las partes, observando lo estipulado en la Ley de Responsabilidades Administrativas para el Estado de Michoacán de Ocampo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -501,19 +507,25 @@ El Gobierno del Estado, a través del Organismo o el Consejo Consultivo por cuen
 
 El Ejecutivo Estatal a través de la Secretaria o el Organismo, promoverán la organización y participación de la comunidad para que con base en los principios a que se refiere esta Ley, coadyuve en la prestación de servicios asistenciales para el desarrollo integral de la familia.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 34.
 
-La participación de la comunidad a que se refiere el artículo anterior, tiene por objeto fortalecer su estructura, propiciando la solidaridad entre las necesidades reales de la población.
+La participación de la comunidad a que se refiere el artículo anterior, tiene por objeto fortalecer su estructura, propiciando la solidaridad entre las necesidades reales de la población. Dicha participación, será a través de las siguientes acciones:
 
-Dicha participación, será a través de las siguientes acciones:
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-I. Promoción de hábitos de conducta y de valores que contribuyan a la protección de los grupos vulnerables, a su superación y a la prevención de invalidez;
+I. Promoción de hábitos de conducta y de valores que contribuyan a la protección de los grupos vulnerables, a su superación, a la prevención de invalidez y su recuperación física y mental;
 
-II. Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios de salud en materia de asistencia social, bajo la dirección y control de las autoridades correspondientes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social, participación y vigilancia en determinadas actividades de operación de los servicios de salud en materia de asistencia social, bajo la dirección y control de las autoridades correspondientes;
 
 III. Notificación de la existencia de personas que requieran de asistencia social cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
 
-IV. Formulación de sugerencias para mejorar los servicios de asistencia social; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. Formulación de sugerencias y presentación de propuestas para mejorar los servicios de asistencia social; y,
 
 V. Otras actividades que coadyuven a la protección de la salud.
 
@@ -578,3 +590,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Una vez entrado en vigor el presente Decreto, el Sistema para el Desarrollo Integral de la Familia Michoacana realizará un ajuste presupuestal para implementar programas especiales para la atención integral de las niñas y niños que viven con sus madres en centros penitenciarios.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, a partir del Presupuesto de Egresos para el ejercicio fiscal 2018, deberá hacer las previsiones presupuestarias para la implementación de los programas especiales para la atención integral de las niñas y niños que viven con sus madres en centros penitenciarios.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 423 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1°, 3°, 29 FRACCIÓN IV Y 34 FRACCIONES I, II Y IV; Y SE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 9°, DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
