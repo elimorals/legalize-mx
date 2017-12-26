@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "2017-05-02"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ CÓDIGO DE COMERCIO
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2017.
 
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA SECRETARÍA DE ECONOMÍA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2016.
+ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA SECRETARÍA DE ECONOMÍA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -6202,9 +6202,9 @@ Art. 1,067 Bis. Para hacer cumplir sus determinaciones el juez puede emplear cua
 
 I. Amonestación;
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2016)
+(ACTUALIZADA EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2017)
 
-II. Multa hasta de $7,124.55 (Siete mil ciento veinticuatro pesos 55/100 M.N.), monto que se actualizará en términos del artículo 1253, fracción VI;
+II. Multa hasta de $7,596.91 (Siete mil quinientos noventa y seis pesos 91/100 M.N.), monto que se actualizará en términos del artículo 1253, fracción VI;
 
 III. El uso de la fuerza pública y rompimiento de cerraduras si fuere necesaria, y
 
@@ -7528,7 +7528,7 @@ La prueba pericial sólo será admisible cuando se requieran conocimientos espec
 
 El título de habilitación de corredor público acredita para todos los efectos la calidad de perito valuador.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2008)</small>
 
 Art. 1,253. Las partes propondrán la prueba pericial dentro del término de ofrecimiento de pruebas en los siguientes términos:
 
@@ -7540,13 +7540,9 @@ I. Señalarán con toda precisión la ciencia, arte, técnica, oficio o industri
 
 II. Si falta cualquiera de los requisitos anteriores, el juez desechará de plano la prueba en cuestión;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
 
 III. En caso de estar debidamente ofrecida, el juez la admitirá, quedando obligadas las partes a que sus peritos, dentro del plazo de tres días, presenten escrito en el que acepten el cargo conferido y protesten su fiel y legal desempeño, debiendo anexar el original o copia certificada de su cédula profesional o documentos que acrediten su calidad de perito en el arte, técnica, oficio o industria para el que se les designa; manifestando, bajo protesta de decir verdad, que conocen los puntos cuestionados y pormenores relativos a la pericial, así como que tienen la capacidad suficiente para emitir dictamen sobre el particular, quedando obligados a rendir su dictamen dentro de los diez días siguientes a la fecha en que hayan presentado los escritos de aceptación y protesta del cargo de peritos, salvo que existiera en autos causa bastante por la que tuviera que modificarse la fecha de inicio del plazo originalmente concedido. Sin la exhibición de dichos documentos justificativos de su calidad, no se tendrá por presentado al perito aceptando el cargo, con la correspondiente sanción para las partes, sin que sea necesaria la ratificación de dichos dictámenes ante la presencia judicial;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
 
@@ -7556,19 +7552,13 @@ IV. Cuando se trate de juicios ejecutivos, especiales o cualquier otro tipo de c
 
 V. Cuando los peritos de las partes rindan sus dictámenes, y éstos resulten substancialmente contradictorios, se designará al perito tercero en discordia tomando en cuenta lo ordenado por el artículo 1255 de este código;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2008)</small>
 
 VI. La falta de presentación del escrito del perito designado por la oferente de la prueba, donde acepte y proteste el cargo, dará lugar a que se tenga por desierta dicha pericial. Si la contraria no designare perito, o el perito por ésta designado, no presentare el escrito de aceptación y protesta del cargo, dará como consecuencia que se tenga a ésta por conforme con el dictamen pericial que rinda el perito del oferente. En el supuesto de que el perito designado por alguna de las partes, que haya aceptado y protestado el cargo conferido, no presente su dictamen pericial en el término concedido, se entenderá que dicha parte acepta aquél que se rinda por el perito de la contraria, y la pericial se desahogará con ese dictamen. Si los peritos de ambas partes, no rinden su dictamen dentro del término concedido, el juez designará en rebeldía de ambas un perito único, el que rendirá su dictamen dentro del plazo señalado en las fracciones III y IV, según corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2017)
 
-(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2016)
-
-En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de $3,562.28 (Tres mil quinientos sesenta y dos pesos 28/100 M.N.) y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+En los casos a que se refieren los párrafos anteriores, el juez sancionará a los peritos omisos con multa hasta de $3,798.46 (Tres mil setecientos noventa y ocho pesos 46/100 M.N.) y corresponderá a la Secretaría de Economía actualizar cada año por inflación este monto expresado en pesos y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
 > <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 2012)</small>
 
@@ -8044,25 +8034,17 @@ IV. El tercero con interés legítimo, siempre y cuando le perjudique la resoluc
 
 Art. 1,338. La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sólo en el primero pudiendo ser éste, de tramitación inmediata o conjunta con la definitiva, según sea el caso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2017)
 
-(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2016)
-
-Art. 1,339. Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a $593,712.73 (Quinientos noventa y tres mil setecientos doce pesos 73/100 M.N.) por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+Art. 1,339. Son irrecurribles las resoluciones que se dicten durante el procedimiento y las sentencias que recaigan en negocios cuyo monto sea menor a $633,075.88 (Seiscientos treinta y tres mil setenta y cinco pesos 88/100 M.N.) por concepto de suerte principal, sin que sean de tomarse en consideración intereses y demás accesorios reclamados a la fecha de presentación de la demanda, debiendo actualizarse dicha cantidad anualmente.
 
 > <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 2012)</small>
 
 Corresponderá a la Secretaría de Economía actualizar cada año por inflación el monto expresado en pesos en el párrafo anterior y publicarlo en el Diario Oficial de la Federación, a más tardar el 30 de diciembre de cada año.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 2012)</small>
 
 Para estos efectos, se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Instituto Nacional de Estadística y Geografía entre la última actualización de dicho monto y el mes de noviembre del año en cuestión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE ENERO DE 2012)</small>
 
@@ -8092,11 +8074,9 @@ Los agravios que hayan de expresarse en contra del auto, interlocutoria o resolu
 
 Art. 1,339 Bis. Los asuntos de cuantía indeterminada siempre serán apelables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2017)
 
-(REFORMADO, D.O.F. 9 DE ENERO DE 2012) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2016)
-
-Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a $593,712.73 (Quinientos noventa y tres mil setecientos doce pesos 73/100 M.N.) por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
+Art. 1,340. La apelación no procede en juicios mercantiles cuando por su monto se ventilen en los juzgados de paz o de cuantía menor, o cuando el monto sea inferior a $633,075.88 (Seiscientos treinta y tres mil setenta y cinco pesos 88/100 M.N.) por concepto de suerte principal, debiendo actualizarse dicha cantidad en los términos previstos en el artículo 1339.
 
 Art. 1,341. Las sentencias interlocutorias son apelables, si lo fueren las definitivas conforme al artículo anterior. Con la misma condición, son apelables los autos si causan un gravamen que no pueda repararse en la definitiva, ó si la ley expresamente lo dispone.
 
@@ -8908,9 +8888,9 @@ V. La calificación sobre la admisibilidad de las pruebas, y
 
 VI. La citación para audiencia de juicio.
 
-> <small>(REFORMADO, D.O.F. 25 DE ENERO DE 2017)</small>
+(REFORMADO, D.O.F. 25 DE ENERO DE 2017) (ACTUALIZADO EN SU MONTO, D.O.F. 26 DE DICIEMBRE DE 2017)
 
-Art. 1,390 Bis 33. La audiencia preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a $2,000.00, ni superior a $6,477.08, monto que se actualizará en los términos del artículo 1253, fracción VI de este Código.
+Art. 1,390 Bis 33. La audiencia preliminar se llevará a cabo con o sin asistencia de las partes. A quien no acuda sin justa causa calificada por el juez se le impondrá una sanción, que no podrá ser inferior a $2,132.60 (Dos mil ciento treinta y dos 60/100 M.N.), ni superior a $6,906.51 (Seis mil novecientos seis 51/100 M.N.), monto que se actualizará en los términos del artículo 1253, fracción VI de este Código.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -10975,3 +10955,9 @@ D.O.F. 2 DE MAYO DE 2017.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Se derogan todas aquellas disposiciones legales que se opongan al presente Decreto.
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO PARA LA ACTUALIZACIÓN DE LOS MONTOS ESTABLECIDOS EN LOS ARTÍCULOS 1067 BIS FRACCIÓN II, 1253 FRACCIÓN VI, 1339, 1340 Y 1390 BIS 33 DEL CÓDIGO DE COMERCIO".]
+
+ÚNICO. - El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
