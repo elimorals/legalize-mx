@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-fomento-del-desarrollo-economico-del-estado-de-2270
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-06"
-last_updated: "2017-10-07"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de octubre del 2001.
 
@@ -243,6 +243,10 @@ IV.- Favorecer la integración sectorial y de procesos productivos para que sus 
 
 V.- Promover esquemas de subcontratación entre grandes empresas con las micro, pequeñas y medianas empresas.
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VI.- Promover el consumo y venta de productos oaxaqueños.
+
 ###### ARTICULO 15.
 
 Para el cumplimiento del artículo anterior, el Gobierno del Estado a través de la Secretaría y en coordinación con las dependencias y entidades públicas, y con el apoyo de los Consejos Estatal, Regional y Municipal, elaborará programas sectoriales y programas intersectoriales, impulsándose con ello:
@@ -251,19 +255,23 @@ I.- El establecimiento de empresas que propicien cadenas productivas en las dife
 
 II.- El desarrollo de la industria maquiladora para fomentar la creación de empleos productivos, el uso de insumos locales y procesos que propicien la utilización intensiva de mano de obra;
 
-III.- La asociación de las diversas formas de organización para la producción y distribución de bienes y servicios;
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IV.- La vinculación de las actividades del sector agropecuario con otras actividades económicas, propiciando su mejoramiento en cadenas productivas y distributivas;
+III.- La oferta de productos de origen oaxaqueño que cumplan con las Normas Oficiales vigentes para su comercialización. Para el caso de productos con Denominación de Origen, estos deberán estar certificados por el Consejo Regulador correspondiente.
 
-V.- La creación de esquemas de cooperación empresarial para la identificación y promoción de oportunidades de inversión;
+IV.- La asociación de las diversas formas de organización para la producción y distribución de bienes y servicios;
 
-VI.- La articulación de las actividades del sector turismo para ampliar, diversificar y mejorar la captación de divisas;
+V.- La vinculación de las actividades del sector agropecuario con otras actividades económicas, propiciando su mejoramiento en cadenas productivas y distributivas;
 
-VII.- La organización de centros de acopio para mejorar el abasto y distribución de productos alimenticios, que ordene y propicie la creación de espacios destinados a estas actividades;
+VI.- La creación de esquemas de cooperación empresarial para la identificación y promoción de oportunidades de inversión;
 
-VIII.- El aprovechamiento integral de los recursos naturales del Estado; y
+VII.- La articulación de las actividades del sector turismo para ampliar, diversificar y mejorar la captación de divisas;
 
-IX.- Las demás actividades afines a las anteriores que se deriven de los objetivos y metas del Plan Estatal de Desarrollo.
+VIII.- La organización de centros de acopio para mejorar el abasto y distribución de productos alimenticios, que ordene y propicie la creación de espacios destinados a estas actividades;
+
+IX.- El aprovechamiento integral de los recursos naturales del Estado; y
+
+X.- Las demás actividades afines a las anteriores que se deriven de los objetivos y metas del Plan Estatal de Desarrollo.
 
 ###### ARTICULO 16.
 
@@ -461,7 +469,7 @@ LIC. HECTOR ANUAR MAFUD MAFUD.
 
 Al C...
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 22 DE MARZO DE 2005.
 
@@ -476,3 +484,11 @@ PRIMERO. Publíquese en el Periódico Oficial del Gobierno el (sic) Estado.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas y/o abrogadas.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 746.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL FOMENTO DEL DESARROLLO ECONÓMICO DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. La Secretaría de Economía dentro del plazo de ciento ochenta días posteriores a la entrada en vigor del presente decreto, elaborará un catálogo de los productos oaxaqueños que cumplan con las normas oficiales y elaborará un plan de promoción y publicidad respecto de los mismos, conforme a lo dispuesto en el presente Decreto.
