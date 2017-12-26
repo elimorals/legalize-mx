@@ -4,7 +4,7 @@ identifier: "COA-ley-de-turismo-para-el-estado-de-coahuila-de-zaragoza-68148"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-10"
-last_updated: "2016-08-09"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 10 de febrero de 2009.
 
@@ -43,11 +43,15 @@ LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 La presente ley es de orden público e interés social y tiene por objeto regular la planeación, la promoción, el fomento y el desarrollo sustentable de las actividades turísticas en el Estado de Coahuila de Zaragoza, así como establecer las bases para la organización y funcionamiento de las dependencias competentes en la materia.
 
-La aplicación de esta ley corresponde al Ejecutivo del Estado, a través de la Secretaría de Turismo, a los municipios en la esfera de su competencia y demás autoridades y organismos competentes establecidos en la misma.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+La aplicación de esta ley corresponde al Ejecutivo del Estado, a través de la Secretaría de Economía y Turismo, a los municipios en la esfera de su competencia y demás autoridades y organismos competentes establecidos en la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 2.
 
-El Titular del Ejecutivo del Estado, por conducto de la Secretaría de Turismo podrá extender su relación con los municipios y demás instancias en materia de turismo, observando los principios de coordinación, cooperación, asistencia e información mutua así como al irrestricto respeto de sus ámbitos de competencia. Podrán celebrarse convenios, acuerdos, planes y programas conjuntos.
+El Titular del Ejecutivo del Estado, por conducto de la Secretaría de Economía y Turismo podrá extender su relación con los municipios y demás instancias en materia de turismo, observando los principios de coordinación, cooperación, asistencia e información mutua así como al irrestricto respeto de sus ámbitos de competencia. Podrán celebrarse convenios, acuerdos, planes y programas conjuntos.
 
 Esta ley, su reglamento y demás disposiciones en la materia, establecerán los lineamientos y mecanismos de organización y coordinación que deberán observar los organismos, asociaciones y programas en materia de turismo, que coadyuven directamente a (sic) al desarrollo de la infraestructura, a la promoción y fomento y demás acciones en materia turística.
 
@@ -83,9 +87,13 @@ XIII. REGISTRO. El Registro Estatal de Prestadores de Servicios Turísticos;
 
 XIV. REGLAMENTO. El Reglamento de la Ley de Turismo para el Estado de Coahuila;
 
-XV. REGLAMENTO INTERIOR. El Reglamento Interior de la Secretaría de Turismo del Estado de Coahuila;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XVI. SECRETARÍA. La Secretaría de Turismo del Gobierno del Estado de Coahuila;
+XV. REGLAMENTO INTERIOR. El Reglamento Interior de la Secretaría de Economía y Turismo del Estado de Coahuila;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVI. SECRETARÍA. La Secretaría de Economía y Turismo;
 
 XVII. TITULAR DEL EJECUTIVO. El Gobernador Constitucional del Estado de Coahuila de Zaragoza;
 
@@ -99,9 +107,11 @@ XX. ZONA TURÍSTICA. Las áreas desarrolladas o destinadas para llevar a cabo al
 
 ### CAPÍTULO SEGUNDO. ATRIBUCIONES EN MATERIA DE TURISMO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 4.
 
-Son atribuciones de la Secretaria de Turismo:
+Son atribuciones de la Secretaría de Economía y Turismo:
 
 I. Formular y desarrollar el Programa Estatal de Turismo, de acuerdo con los principios y objetivos del Plan Estatal de Desarrollo, esta ley, su reglamento y demás disposiciones aplicables;
 
@@ -137,9 +147,9 @@ XV. Promover, en coordinación con las instancias correspondientes y con los pre
 
 XVI. Celebrar convenios con las autoridades y responsables de las áreas naturales protegidas y las zonas con turismo ecológico para la promoción de los atractivos naturales y culturales con los que cuenta el Estado.
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XVII. Coordinar con la Secretaría de Medio Ambiente del Estado y con la Procuraduría de Protección al Ambiente del Estado, en el ámbito de sus respectivas atribuciones, la instrumentación de los programas y medidas para la preservación de los recursos naturales, prevención de la contaminación, para la ordenación y limpieza de las áreas naturales, para promover el turismo de naturaleza y el de bajo impacto, así como para el mejoramiento ambiental de las actividades e instalaciones turísticas;
+XVII. Coordinar con la Secretaría de Medio Ambiente y Desarrollo Urbano y con la Procuraduría de Protección al Ambiente del Estado, en el ámbito de sus respectivas atribuciones, la instrumentación de los programas y medidas para la preservación de los recursos naturales, prevención de la contaminación, para la ordenación y limpieza de las áreas naturales, para promover el turismo de naturaleza y el de bajo impacto, así como para el mejoramiento ambiental de las actividades e instalaciones turísticas:
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
@@ -345,9 +355,11 @@ IV. Participar con las instituciones educativas en el Estado, en la revisión de
 
 V. Las demás encaminadas a fomentar la capacitación turística en el Estado.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-La Secretaría implementará un registro o base de datos de centros de enseñanza dedicados a la especialidad de turismo, reconocidos oficialmente por la Secretaría de Educación y Cultura del Gobierno del Estado y demás instancias federales competentes.
+La Secretaría implementará un registro o base de datos de centros de enseñanza dedicados a la especialidad de turismo, reconocidos oficialmente por la Secretaría de Educación del Estado y demás instancias federales competentes.
 
 ###### Artículo 28.
 
@@ -425,7 +437,9 @@ Artículo 32 bis.- Los prestadores de servicios turísticos que tengan bajo su r
 
 La información que deberán proporcionar los prestadores de servicios a que a que (sic) se refiere este artículo, consiste en el nombre completo del huésped o huéspedes, en caso de ser varios en una misma habitación y el tipo y número de folio o clave de la identificación oficial así como los datos de entrada, permanencia y salida de los mismos.
 
-Podrán requerir información en los términos de este artículo quienes sean titulares de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Estado, los subsecretarios o subprocuradores respectivamente, o aquellos funcionarios que sean autorizados para tal efecto por los titulares, mediante acuerdo general publicado en el Periódico Oficial del Gobierno del Estado, la información que obtengan será reservada conforme a lo dispuesto en el artículo 30 de la Ley de Acceso a la Información Pública y Protección de datos Personales para el Estado de Coahuila.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Podrán requerir información en los términos de este artículo quienes sean titulares de la Secretaría de Seguridad Pública y de la Fiscalía General del Estado, los subsecretarios o subprocuradores respectivamente, o aquellos funcionarios que sean autorizados para tal efecto por los titulares, mediante acuerdo general publicado en el Periódico Oficial del Gobierno del Estado, la información que obtengan será reservada conforme a lo dispuesto en la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 
 ###### Artículo 33.
 
@@ -489,23 +503,37 @@ I. El titular del Ejecutivo del Estado, como presidente;
 
 II. El titular de la Secretaria, como secretario (a) técnico (a);
 
-III. El titular de la Secretaria de la Función Pública, como comisario del Consejo;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. El titular de la Secretaría de Fiscalización y Rendición de Cuentas, como comisario del Consejo;
 
 IV. Vocales:
 
 a. Titular de la Secretaria de Gobierno;
 
-b. Titular de la Secretaria de Finanzas del Estado;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-c. Titular de la Secretaría de Medio Ambiente y Recursos Naturales del Estado;
+b. Titular de la Secretaría de Finanzas;
 
-d. Titular de la Secretaria de Fomento Agropecuario del Estado;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-e. Titular de la Secretaria de Desarrollo Social del Estado;
+c. Titular de la Secretaría de Medio Ambiente y Desarrollo Urbano;
 
-f. Titular de la Secretaria de Educación y Cultura del Estado;
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-g. Titular del Instituto Coahuilense de Cultura;
+d. Titular de la Secretaría de Desarrollo Rural;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+e. Titular de la Secretaría de Inclusión y Desarrollo Social;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+f. Titular de la Secretaría de Educación;
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+g. Titular de la Secretaría de Cultura;
 
 h. Un representante por cada región económica del Estado, según lo previsto por el Plan Estatal de Desarrollo;
 
@@ -669,15 +697,53 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO NOVENO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EL 14 DE JULIO DE 2014".]
+P.O. 26 DE DICIEMBRE DE 2017.
 
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL DECRETO 1177 POR EL QUE "SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 1, EL PRIMER PÁRRAFO DEL ARTÍCULO 2, LAS FRACCIONES XV Y XVI DEL ARTÍCULO 3, EL PÁRRAFO PRIMERO Y LA FRACCIÓN XVII DEL ARTÍCULO 4, EL ARTÍCULO 27, EL TERCER PÁRRAFO DEL ARTÍCULO 32 BIS, Y LA FRACCIÓN III Y LOS INCISOS B, AL G. DE LA FRACCIÓN IV DEL ARTÍCULO 38, DE LA LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
-Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
 
-Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
 
-D.O.F. 26 DE JUNIO DE 2017.
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SEXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos yseseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN INCISO Y) A LA FRACCIÓN III DEL ARTÍCULO 7o., Y SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 7o. DE LA LEY DE INVERSIÓN EXTRANJERA”.]
 
