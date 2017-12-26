@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-3-98-de-la-presidencia-de-408
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-02-22"
-last_updated: "1999-02-22"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40800&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1998-02-12"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION 3/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [DECLARACIONES SOBRE SITUACION PATRIMONIAL]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACION 3/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECE LA OBLIGACION DE PRESENTAR DECLARACIONES SOBRE SITUACION PATRIMONIAL A DIVERSOS SERVIDORES PUBLICOS DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 22 de febrero de 1999.
 
@@ -64,3 +66,19 @@ TERCERO.- Hágase del conocimiento de la Contraloría General de la Suprema Cort
 Así lo acordó y firma el señor Ministro José Vicente Aguinaco Alemán, presidente de la Suprema Corte de Justicia de la Nación, a los doce días del mes de febrero de mil novecientos noventa y ocho, ante el Secretario General de la Presidencia y Oficial Mayor, que da fe.
 
 Magistrado Luis María Aguilar Morales, Secretario General de la Presidencia de la Suprema Corte de Justicia de la Nación, CERTIFICA: Que la presente copia fotostática consta de tres fojas útiles, concuerda fiel y exactamente con su original de acuerdo con el cotejo que se hace constar al margen de todas y cada una de sus fojas.- México, Distrito Federal, a diecisiete de febrero de mil novecientos noventa y nueve. Conste.- Rúbrica.- Cotejó: Lic. José Antonio Montoya García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
