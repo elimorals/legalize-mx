@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2017-12-22"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
 
@@ -139,7 +139,7 @@ X. Debida diligencia: La obligación de las y los servidores públicos, las depe
 
 Tratándose de niñas, las obligaciones señaladas en el párrafo anterior, se cumplirán con especial celeridad y de forma exhaustiva, libre de prácticas discriminatorias basadas en estereotipos de género, de conformidad con el interés superior de la niñez;
 
-XI. Derechos Humanos de las Mujeres: Refiere a aquellos que son parte inalienable, integrante e indivisible de los derechos humanos universales específicamente reconocidos para las mujeres en la Constitución Política de los Estados Unidos Mexicanos y demás legislación federal, estatal, municipal y en los instrumentos internacionales de la materia, ratificados por el Estado Mexicano entre ellos, la Convención sobre la Eliminación de todos (sic) las Formas de Discriminación contra la Mujer, CEDAW por sus siglas en inglés, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, también llamada “Belem Do Pará” y demás instrumentos internacionales en la materia;
+XI. Derechos Humanos de las Mujeres: Refiere a aquellos que son parte inalienable, integrante e indivisible de los derechos humanos universales específicamente reconocidos para las mujeres en la Constitución Política de los Estados Unidos Mexicanos y demás legislación federal, estatal, municipal y en los instrumentos internacionales de la materia, ratificados por el Estado Mexicano entre ellos, la Convención sobre la Eliminación de todos (sic) las Formas de Discriminación contra la Mujer, CEDAW por sus siglas en inglés, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, también llamada "Belem Do Pará" y demás instrumentos internacionales en la materia;
 
 XII. Discriminación contra las Mujeres: toda distinción, exclusión, restricción o preferencia que sufran las mujeres que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo;
 
@@ -207,7 +207,9 @@ d) Garantías de no repetición: Son las medidas generales, que evitan que hecho
 
 e) Obligación de investigar, juzgar y sancionar con perspectiva de género a través de los medios legales disponibles y deberá estar orientada a la determinación de la verdad histórica y jurídica: Esta obligación deberá incluir la investigación y sanción de las y los funcionarios que obstaculizaron o que con su negligencia violaron los derechos humanos de las mujeres y las niñas;
 
-XXXIV. Secretaría: Secretaría de las Mujeres del Estado de Coahuila de Zaragoza;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXXIV. Instituto Coahuilense de las Mujeres;
 
 XXXV. Sistema Estatal: El Sistema Estatal de Acceso de las Mujeres a una Vida Libre de Violencia;
 
@@ -615,7 +617,9 @@ II. La prohibición a la persona agresora de enajenar o hipotecar bienes de su p
 
 III. La posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio conyugal, hasta en tanto el órgano jurisdiccional determine lo conducente; y
 
-IV. El embargo precautorio de bienes inmuebles propiedad de la persona agresora, que deberá inscribirse con carácter temporal en el Registro Público del Estado de Coahuila de Zaragoza, o en su caso un porcentaje del salario mínimo o de salarios suficientes a efecto de garantizar y hacer efectivas las obligaciones alimentarias.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. El embargo precautorio de bienes inmuebles propiedad de la persona agresora, que deberá inscribirse con carácter temporal en el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza o en su caso un porcentaje del salario mínimo o de salarios suficientes a efecto de garantizar y hacer efectivas las obligaciones alimentarias.
 
 ###### Artículo 25.
 
@@ -771,27 +775,39 @@ El Consejo se conformará por las personas Titulares de las instituciones siguie
 
 I. Secretaría de Gobierno, quien ocupará la presidencia del Sistema Estatal;
 
-II. Secretaría de las Mujeres, quien fungirá como Secretaría Técnica;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III. Procuraduría General de Justicia del Estado;
+II. Instituto Coahuilense de las Mujeres, quien fungirá como Secretaría Técnica;
 
-IV. Comisión Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. Fiscalía General del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. Secretaría de Seguridad Pública;
 
 V. Secretaría de Educación;
 
 VI. Secretaría de Salud;
 
-VII. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII. Secretaría de Inclusión y Desarrollo Social;
 
 VIII. Secretaría del Trabajo;
 
-IX. Secretaría de Desarrollo Económico, Competitividad y Turismo;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IX. Secretaría de Economía y Turismo;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
 X. Secretaría de Infraestructura y Transporte;
 
-XI. Secretaría de Medio Ambiente;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XI. Secretaría de Medio Ambiente y Desarrollo Urbano;
 
 XII. (DEROGADA, P.O. 17 DE MARZO DE 2017)
 
@@ -801,7 +817,9 @@ XIV. Secretaría de Finanzas;
 
 XV. Secretaría de Fiscalización y Rendición de Cuentas;
 
-XVI. Secretaría de la Juventud;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVI. Instituto Coahuilense de la Juventud;
 
 XVII. Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza; y
 
@@ -949,7 +967,9 @@ III. Proporcionar a las mujeres víctimas de violencia, cuando ésta constituya 
 
 IV. Realizar ante hechos presumiblemente delictivos, los exámenes necesarios a las mujeres víctimas de violencia para determinar las alteraciones producidas en su estado de salud físico y emocional, así como su causa probable. Para tal fin, se aplicará el protocolo respectivo y se auxiliará por especialistas del sector salud;
 
-V. Colaborar proporcionando la información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres, a la Secretaría de las Mujeres e instancias encargadas de realizar estadísticas;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+V. Colaborar proporcionando la información sobre edad, género y número de víctimas, causas y daños derivados de la violencia contra las mujeres, al Instituto Coahuilense de las Mujeres e instancias encargadas de realizar estadísticas;
 
 VI. Proporcionar a las víctimas información sobre las instituciones públicas o privadas encargadas de brindarles asistencia;
 
@@ -959,9 +979,11 @@ VIII. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
 IX. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 51.
 
-Corresponde a la Comisión Estatal de Seguridad Pública:
+Corresponde a la Secretaría de Seguridad Pública:
 
 I. Participar en la elaboración y ejecución del Programa Estatal, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
 
@@ -1043,9 +1065,11 @@ VI. Hacer del conocimiento del Ministerio Público, aquellos casos que se presum
 
 VII. Las demás previstas para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 54.
 
-Corresponde a la Secretaría de Desarrollo Social:
+Corresponde a la Secretaría de Inclusión y Desarrollo Social:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -1059,9 +1083,11 @@ V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres 
 
 VI. Las demás previstas para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 55.
 
-Corresponde a la Secretaría de las Mujeres:
+Corresponde al Instituto Coahuilense de las Mujeres:
 
 I. Participar en la elaboración y ejecución del Programa Estatal, y en el diseño de nuevos modelos de prevención y erradicación de la violencia contra las mujeres;
 
@@ -1307,17 +1333,21 @@ k) Realizar trámites ante el registro civil para la obtención de documentos; y
 
 l) Ayudar a las mujeres a su retorno al lugar de origen cuando así lo deseen.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 69.
 
-El Centro contará con protocolos de actuación y atención, así como con la infraestructura adecuada y los recursos materiales y humanos para su operación. La Secretaría de las Mujeres, es la instancia encargada de la supervisión de dicho Centro.
+El Centro contará con protocolos de actuación y atención, así como con la infraestructura adecuada y los recursos materiales y humanos para su operación. La Secretaría de Gobierno, es la instancia encargada de la supervisión de dicho Centro.
 
 SECCIÓN TECERA (SIC)
 
 LA ATENCIÓN VÍA TELEFÓNICA
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 70.
 
-La Secretaría de las Mujeres será la entidad responsable de brindar atención vía telefónica a las víctimas de violencia con perspectiva de género. Además se encargará de elaborar el manual operativo de este tipo de atención, el cual deberá ser sometido a la consideración y aprobación del Sistema Estatal.
+El Instituto Coahuilense de las Mujeres será la entidad responsable de brindar atención vía telefónica a las víctimas de violencia con perspectiva de género. Además se encargará de elaborar el manual operativo de este tipo de atención, el cual deberá ser sometido a la consideración y aprobación del Sistema Estatal.
 
 El servicio de atención telefónica a las víctimas tendrá cobertura en todo el Estado, para lo cual, se deberán implementar las acciones y mecanismos que la garanticen.
 
@@ -1419,9 +1449,11 @@ I. Actualización y profesionalización en atención a la violencia contra las m
 
 II. Experiencia en la atención de víctimas, y deberá cumplir con los requisitos legales para el ejercicio de su respectiva profesión.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 81.
 
-La Secretaría de las Mujeres, podrá monitorear y dar seguimiento al funcionamiento de los refugios, para lo cual considerará la participación de las organizaciones y personas de la sociedad civil, en la supervisión de las actividades y los servicios que se brindan en los refugios.
+El Instituto Coahuilense de las Mujeres, podrá monitorear y dar seguimiento al funcionamiento de los refugios, para lo cual considerará la participación de las organizaciones y personas de la sociedad civil, en la supervisión de las actividades y los servicios que se brindan en los refugios
 
 ###### Artículo 82.
 
@@ -1553,13 +1585,17 @@ Pudiendo realizar actividades de acompañamiento y de traslado a favor de la ví
 
 #### SECCIÓN TERCERA. DE LAS OBLIGACIONES DE LAS AUTORIDADES Y ÓRGANOS AUXILIARES DE PROCURACIÓN DE JUSTICIA PARA ACTUAR CON LA DEBIDA DILIGENCIA
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 95.
 
-La Procuraduría General de Justicia del Estado, deberá actuar e investigar cualquier caso de violencia contra las mujeres y las niñas, con base en lo establecido en esta ley, garantizando la debida diligencia, la perspectiva de género, el interés superior de la niñez y el respeto a los derechos humanos en todas sus actuaciones.
+La Fiscalía General del Estado, deberá actuar e investigar cualquier caso de violencia contra las mujeres y las niñas, con base en lo establecido en esta ley, garantizando la debida diligencia, la perspectiva de género, el interés superior de la niñez y el respeto a los derechos humanos en todas sus actuaciones.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 96.
 
-La Procuraduría General de Justicia del Estado, está obligada a garantizar el derecho a interponer denuncias de las mujeres víctimas de violencia, sin restringirlo o negarlo por requisitos de carácter formal.
+La Fiscalía General del Estado, está obligada a garantizar el derecho a interponer denuncias de las mujeres víctimas de violencia, sin restringirlo o negarlo por requisitos de carácter formal.
 
 ###### Artículo 97.
 
@@ -1731,9 +1767,13 @@ Con la finalidad de avanzar en el desarrollo de políticas públicas coordinadas
 
 I. De prevención, que será coordinado por la Secretaría de Gobierno;
 
-II. De atención, que será coordinado por la Secretaría de las Mujeres; y
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III. De acceso a la justicia, el cual será coordinado por la Procuraduría General de Justicia del Estado.
+II. De atención, que será coordinado por la (sic) Instituto Coahuilense de las Mujeres, y
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. De acceso a la justicia, el cual será coordinado por la Fiscalía General del Estado.
 
 ###### Artículo 117.
 
@@ -1942,3 +1982,51 @@ P.O. 22 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE "SE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 6; LA FRACCIÓN IV DEL ARTÍCULO 24; LA FRACCIÓN II, III, IV, VII, IX, XI, XVI DEL ARTÍCULO 41; LA FRACCIÓN V DEL ARTÍCULO 50, PÁRRAFO PRIMERO DEL ARTÍCULO 51; EL PÁRRAFO PRIMERO DEL ARTÍCULO 54; EL PÁRRAFO PRIMERO DEL ARTÍCULO 55; EL ARTÍCULO 69; EL ARTÍCULO 70; EL ARTÍCULO 81; EL ARTÍCULO 95; EL ARTÍCULO 96; LAS FRACCIONES II Y III DEL ARTÍCULO 116, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
