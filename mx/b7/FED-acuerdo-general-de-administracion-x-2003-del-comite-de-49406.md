@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-x-2003-del-comite-de-49406"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-09-12"
-last_updated: "2004-01-16"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49406&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2003-08-04"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION X/2003 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [ESTRUCTURA ADMINISTRATIVA DE LA OFICIALIA MAYOR]
 
-ACUERDO GENERAL DE ADMINISTRACION X/2003, DEL CUATRO DE AGOSTO DE DOS MIL TRES, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE ESTABLECE Y REGULA LA ESTRUCTURA ADMINISTRATIVA DE LA OFICIALIA MAYOR DE ESTE ALTO TRIBUNAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 2004.
+ACUERDO GENERAL DE ADMINISTRACIÓN X/2003, DEL CUATRO DE AGOSTO DE DOS MIL TRES, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE ESTABLECE Y REGULA LA ESTRUCTURA ADMINISTRATIVA DE LA OFICIALÍA MAYOR DE ESTE ALTO TRIBUNAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de septiembre de 2003.
 
@@ -383,7 +385,7 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del Acuerdo General de Administración número X/2003, del cuatro de agosto del año en curso, constante de quince fojas útiles, concuerda fiel y exactamente con la copia certificada por el Director General de Asuntos Jurídicos de la Suprema Corte de Justicia de la Nación que se tuvo a la vista, y se certifica para dar cumplimiento a lo dispuesto en su punto Sexto Transitorio.- México, Distrito Federal, a cuatro de septiembre de dos mil tres.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 16 DE ENERO DE 2004.
 
@@ -392,3 +394,17 @@ PRIMERO. Este Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. A partir de la entrada en vigor de este Acuerdo, el personal que desarrollaba las funciones que se transfieren a la Secretaría de Administración de la Suprema Corte de Justicia de la Nación, dependerán de ésta.
 
 TERCERO. Publíquese este Acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública y en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
