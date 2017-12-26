@@ -4,7 +4,7 @@ identifier: "VER-ley-de-planeacion-del-estado-de-veracruz-de-ignacio-de-la-6593"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-29"
-last_updated: "2016-12-08"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 29 de enero de 1987.
 
@@ -77,13 +77,17 @@ Para los efectos de esta ley, se entenderá por Plan Estatal de Desarrollo el do
 
 SISTEMA ESTATAL DE PLANEACION DEMOCRATICA.
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 5o.
 
-Para la formulación, instrumentación, control y evaluación del Plan, los programas y proyectos de la Administración Pública, se llevará a cabo un proceso de planeación democrática, cuyas actividades permitan recoger, sintetizar, sistematizar, ordenar y traducir, en decisiones y acciones de gobierno, las demandas sociales.
+Para la formulación, instrumentación, control, evaluación y actualización del Plan, los programas y proyectos de la administración pública, se llevará a cabo un proceso de planeación democrática cuyas actividades permitan recoger, sintetizar, sistematizar, ordenar y traducir, en decisiones y acciones de gobierno, las demandas sociales.
+
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 6o.
 
-La organización y funcionamiento del Sistema Estatal de Planeación Democrática y el proceso de formulación, instrumentación, control y evaluación de los planes y los programas a que se refiere esta Ley, se fijarán en el Reglamento respectivo.
+La organización y funcionamiento del Sistema Estatal de Planeación Democrática y el proceso de formulación, instrumentación, control, evaluación y actualización de los planes y los programas a que se refiere esta ley se fijarán en el reglamento respectivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -363,25 +367,27 @@ El Gobernador del Estado, al enviar a la Legislatura del Estado, las iniciativas
 
 PLANES MUNICIPALES DE DESARROLLO Y SUS PROGRAMAS.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 26.
 
-Los Planes Municipales de Desarrollo de cada uno de los municipios del Estado deberán elaborarse, aprobarse y publicarse dentro de un plazo improrrogable de cuatro meses, contado a partir de la fecha de la toma de posesión de los Ayuntamientos respectivos, y su vigencia no excederá del período que les corresponda. Antes de publicarse en la Gaceta Oficial del estado, los Ayuntamientos remitirán su Plan Municipal de Desarrollo al Congreso del Estado, a efecto de que éste proceda conforme con lo previsto por el artículo 9 fracción VI inciso b) de esta Ley.
+Los planes municipales de desarrollo de cada uno de los municipios del Estado deberán tener una visión estratégica integral para el desarrollo sustentable e incluyente a mediano y largo plazo, con posible vigencia de hasta veinte años; elaborarse, en su caso actualizarse, aprobarse y publicarse dentro de un plazo improrrogable de cuatro meses, contado a partir de la fecha de la toma de posesión de los ayuntamientos respectivos. Antes de publicarse en la Gaceta Oficial del estado, los ayuntamientos remitirán su plan municipal de desarrollo o actualización en su caso, al Congreso del Estado, a efecto de que éste proceda conforme con lo previsto por el artículo 9 fracción VI, inciso b), de esta ley.
 
-> <small>(REFORMADO, G.O. 25 DE AGOSTO DE 2014)</small>
+El Plan precisará los objetivos, estrategias, indicadores y prioridades del desarrollo municipal, debiendo contener las previsiones sobre los recursos que serán asignados a tales fines, determinando los órganos responsables de su ejecución y el conjunto de las actividades económicas, sociales, deportivas y culturales a desarrollarse, las cuales deberán ser diseñadas conforme a las leyes y reglamentos de la materia, en congruencia con el Presupuesto de Egresos del ejercicio fiscal correspondiente, los programas que se deriven del plan deberán realizarse conforme a lo anterior.
 
-El Plan precisará los objetivos, estrategias y prioridades del desarrollo municipal, debiendo contener las previsiones sobre los recursos que serán asignados a tales fines, determinando los órganos responsables de su ejecución y el conjunto de las actividades económicas, sociales, deportivas y culturales a desarrollarse, las cuales deberán ser diseñadas conforme a las leyes y reglamentos de la materia, en congruencia con el presupuesto de egresos del ejercicio fiscal correspondiente. Los programas que se deriven del plan deberán realizarse conforme a lo anterior.
+Si existiere omisión en la ejecución de cualquiera de las obligaciones a realizar dentro del mismo, se estará a lo dispuesto por el Capítulo VII denominado "De la Responsabilidad Administrativa" del Título Sexo de la Ley Orgánica del Municipio Libre.
 
-> <small>(ADICIONADO, G.O. 18 DE JULIO DE 2014)</small>
-
-Si una vez que haya expirado el plazo al que se refiere el párrafo primero de este artículo existiere omisión en la ejecución de cualquiera de las obligaciones a realizar dentro del mismo, se estará a lo dispuesto por el Capítulo VII denominado “De la Responsabilidad Administrativa” del Título Sexto de la Ley Orgánica del Municipio Libre.
-
-> <small>(REFORMADO, G.O. 19 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 27.
 
-El Plan Municipal indicará los programas que deban realizarse, y la vigencia de éstos no excederá del periodo constitucional que corresponda al Ayuntamiento respectivo, con excepción del Programa Sectorial de Desarrollo Metropolitano Municipal, el cual deberá actualizarse por la siguiente administración municipal ante el Subcomité de Planeación para el Desarrollo Metropolitano Municipal.
+El Plan Municipal indicará las estrategias, programas, acciones que deban realizarse a mediano y largo plazo, así como los instrumentos de medición y evaluación necesarios para su seguimiento y actualización, y asegurará la continuidad de los programas y acciones, más allá de los períodos constitucionales, con una posible vigencia de hasta veinte años.
+
+El Plan Municipal de Desarrollo podrá actualizarse de acuerdo a las nuevas realidades del municipio, a los resultados obtenidos, y al seguimiento y evaluación realizados al mismo, y no podrá ser modificado en su totalidad.
+
+En caso de que se requiera de un nuevo Plan Municipal de Desarrollo se someterá a plebiscito la permanencia del plan vigente.
+
+El Programa Sectorial de Desarrollo Metropolitano Municipal, deberá actualizarse por la siguiente administración municipal ante el Subcomité de Planeación para el Desarrollo Metropolitano Municipal.
 
 ###### ARTICULO 28.
 
@@ -399,9 +405,11 @@ El Plan Municipal de Desarrollo se publicará en la "Gaceta Oficial", previa su 
 
 La coordinación en la ejecución del Plan Municipal y los programas, deberá proponerse al Ejecutivo del Estado, a través de los Convenios respectivos, para su adecuada vinculación con el Plan Estatal de Desarrollo.
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 32.
 
-El Plan Municipal de Desarrollo y sus programas, serán revisados y adecuados con la periodicidad que determine el propio Ayuntamiento en base a las condiciones y circunstancias imperantes durante su vigencia.
+El Plan Municipal de Desarrollo y sus programas, serán revisados y evaluados permanentemente, y serán actualizados con base en las condiciones y circunstancias imperantes. Las actualizaciones que se hagan deberán publicarse en el tablero de avisos y en la página de transparencia en cuanto sean aprobadas por el Cabildo, y al menos una vez al año en la Gaceta Oficial treinta días antes del inicio del siguiente ejercicio.
 
 ###### ARTICULO 33.
 
@@ -566,3 +574,13 @@ G.O. 8 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 3 QUE ADICIONA EL ARTÍCULO 4º BIS, REFORMA EL INCISO B) Y SE DEROGA EL INCISO C) DE LA FRACCIÓN DEL (SIC) ARTÍCULO 9º DE LA LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 603 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN Y LA LEY ORGÁNICA DEL MUNICIPIO LIBRE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Los 212 ayuntamientos del Estado, dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto, deberán aprobar el Reglamento de Planeación del Desarrollo Municipal.
+
+Tercero. Se deroga cualquier disposición que se oponga al presente Decreto.
