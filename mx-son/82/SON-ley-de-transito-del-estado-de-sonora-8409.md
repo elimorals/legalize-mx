@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2017-12-21"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE TRÁNSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -2471,7 +2471,7 @@ SP-30 La señal ZONA DE DERRUMBES se utilizará para indicar a los conductores d
 
 SP-31 La señal OBRAS EN EL CAMINO se utilizará para marcar un tramo ocupado temporalmente por trabajadores, ó equipo dedicado a labores de conservación ó reconstrucción, ó por instalaciones que requieren invasión ó cruces en la superficie de rodamiento.
 
-SP-32 La señal PEATONES se utilizará para advertir a los conductores de vehículos la proximidad de lugares frecuentados por peatones, ó bien de un cruce especialmente destinado a ellos.
+SP-32 La señal PEATONES se utilizará para advertir a los conductores de vehículos la proximidad de lugares frecuentados por peatones, ó bien de un cruce especialmente destinados a ellos.
 
 SP-33 La señal ESCUELA se utilizará para indicar la proximidad de un edificio escolar ó lugares cercanos de cruce habitual de escolares.
 
@@ -2509,7 +2509,7 @@ En todos los casos, la señal se colocará sobre el camino ó calle de menor vol
 
 SR-7 La señal CEDA EL PASO implica que el conductor detenga ó aminore la velocidad de su vehículo, cuando sea necesario ceder el paso al tránsito que se va a cruzar ó a incorporar.
 
-SR-8 La señal ADUANA se utilizará para indicar que todos los vehículos deberán detenerse en el lugar que se requiera, para revisión aduanal. En la parte inferior de la señal llevará la palabra ADUANA.
+SR-8 La señal ADUANA se utilizará para indicar que todos los vehículos deberán detenerse en el lugar que se requiera, para la revisión aduanal. En la parte inferior de la señal llevará la palabra ADUANA.
 
 SR-9 La señal VELOCIDAD RESTRINGIDA se utilizará para indicar la limitación de velocidad que se imponga a una arteria ó tramo de camino. En la parte inferior se colocará la palabra MAXIMA, MINIMA, FIJA ó SALIDA, según sea el caso.
 
@@ -3047,6 +3047,10 @@ XI. Estacionarse en carril de circulación, cuando el vehículo no sea visible a
 
 XII. Detenerse en carril de circulación a consecuencia de una falla mecánica sin instalar los dispositivos de advertencia correspondientes.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de la infracción señalada en la fracción V de este artículo, el infractor deberá llevar un curso de concientización que impartirá la autoridad municipal correspondiente o con quien haya convenido el Municipio para impartir dicho curso, en caso de que el Municipio no cuente con el recurso humano o la infraestructura para impartir el curso, o bien, no haya alguna institución pública o privada con la cual pueda convenir, el infractor realizará trabajo social.
+
 ###### ARTICULO 226.
 
 Al infractor reincidente, se le aplicará el doble de la multa que corresponda a la infracción cometida. Para los efectos de esta ley, se considerará como reincidencia la infracción de una misma disposición en más de tres ocasiones diversas durante el lapso de un año, contado a partir de la primera infracción.
@@ -3068,6 +3072,10 @@ Las multas podrán pagarse mediante cheque personal sin necesidad de certificaci
 El infractor que pague la multa, dentro de las veinticuatro horas siguientes a la de su imposición, gozará de un descuento del 50% de su importe.
 
 Si el pago de la multa se hace después de las veinticuatro horas, pero dentro de los tres días siguientes al de su imposición, el descuento será únicamente del 25%.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+No se aplicarán los descuentos antes aludidos, cuando se actualice la infracción señalada en la fracción V del artículo 225 BIS de esta Ley.
 
 ###### ARTICULO 230.
 
@@ -3562,3 +3570,11 @@ El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 187, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE TRÁNSITO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
