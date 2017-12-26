@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2017-11-21"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO NOVENO DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -3650,3 +3652,29 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1180.- SE EXPIDE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor de la presente Ley, se regirán por las disposiciones que se encontraban vigentes al momento que dio inició su substanciación.
+
+TERCERO. En un plazo no mayor de dos años a partir de la entrada en vigor del presente ordenamiento, se expedirá (sic) las disposiciones reglamentarias de esta Ley.
+
+CUARTO. En un plazo de un año contado a partir de la entrada en vigor de esta Ley, se adecuarán los planes y programas de desarrollo urbano de los centros de población mayores a cien mil habitantes, así como el programa estatal y los metropolitanos.
+
+QUINTO. Las autorizaciones, permisos y licencias expedidas conforme a las disposiciones aplicables durante la vigencia de la ley que se abroga, continuarán vigentes hasta la conclusión del término con el que fueron otorgadas.
+
+SEXTO. Posterior a la publicación de la presente Ley, deberán instalarse el Consejo Estatal Consultivo de Ordenamiento Territorial y Desarrollo Urbano, los Consejos Consultivos de Desarrollo Metropolitano y de Conurbaciones, y los Consejos Municipales de Desarrollo Urbano.
+
+Los consejos instalados conforme a las disposiciones de la Ley abrogada por el presente Decreto, continuarán su funcionamiento ejerciendo las facultadas (sic) que de acuerdo a su naturaleza les correspondan en el presente ordenamiento hasta en tanto sean constituidos los establecidos en la presente Ley.
+
+SÉPTIMO. Las disposiciones reglamentarias derivadas de la Ley abrogada por el presente Decreto, continuarán aplicándose en tanto no contravengan las disposiciones de esta Ley, hasta en tanto se expidan los reglamentos correspondientes.
+
+OCTAVO. En un plazo no mayor a un año posterior a la publicación de este ordenamiento, deberán de expedirse las adecuaciones a las leyes y demás disposiciones administrativas que resulten necesarias para la aplicación de la presente Ley.
+
+NOVENO. Se abroga la Ley de Asentamientos Humanos y Desarrollo Urbano del Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el martes 26 de julio de 1994.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a este decreto.
