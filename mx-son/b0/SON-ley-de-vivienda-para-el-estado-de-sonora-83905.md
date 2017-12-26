@@ -4,7 +4,7 @@ identifier: "SON-ley-de-vivienda-para-el-estado-de-sonora-83905"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-07"
-last_updated: "2017-08-03"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 166 DE VIVIENDA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 7 de noviembre de 2011.
 
@@ -473,9 +473,57 @@ XVIII.- Coordinar acciones con el Gobierno Estatal con la finalidad de recibir a
 
 XIX.- Las demás que señalen las leyes y los reglamentos aplicables.
 
-### CAPÍTULO VI. DE LA COORDINACIÓN GUBERNAMENTAL EN MATERIA DE VIVIENDA
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO VII. DE LA CONCERTACIÓN DEL SECTOR PÚBLICO CON LOS SECTORES SOCIAL Y PRIVADO
+### CAPÍTULO V BIS. DE LAS ACCIONES Y PREVENCIONES EN MATERIA DE VIVIENDA VANDALIZADA, POR PARTE DE LOS MUNICIPIOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 22 Bis.
+
+Los propietarios o poseedores de viviendas abandonadas y/o vandalizadas en los municipios, tienen la obligación de limpiarlas permanentemente y conservar la buena imagen del municipio, o cuando así sea requerido por la autoridad competente.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 22 Bis 1.
+
+Cuando los propietarios o poseedores de las viviendas a las que se hace referencia en el artículo anterior no efectúen la limpieza y conservación en los términos del artículo anterior, la autoridad competente, realizará los trabajos y cobrará las cuotas que establezca esta la (sic) Ley de Ingresos y Presupuesto de Ingresos vigente, sin perjuicio de la aplicación de la sanción correspondiente.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 22 Bis 2.
+
+Los propietarios de edificios, casas o cualquier construcción que se encuentren en estado de abandono o vandalizadas, deberán tomar las medidas necesarias que procedan para evitar que se conviertan en focos de infección, contribuyan a la inseguridad y que puedan causar algún peligro para los vecinos y transeúntes.
+
+La autoridad competente procederá al sellado de puertas y ventanas de cualquier construcción que se encuentre vandalizada, en estado ruinoso o abandono total, cuando dicho lugar sea un foco de infección o que represente inseguridad para los vecinos y transeúntes. Los gastos generados bajo este supuesto deberán cubrirse por el propietario o poseedor del inmueble; lo anterior con independencia de las sanciones que corresponda.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN II. DE LAS VISITAS DE VERIFICACIÓN
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 22 Bis 3.
+
+La autoridad correspondiente, en el ámbito de su respectiva competencia, realizará visitas de verificación ordinarias y extraordinarias, las primeras en días y horas hábiles y las segundas en cualquier tiempo; con el fin de verificar el cumplimiento de las disposiciones legales establecidas en esta Ley.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 22 Bis 4.
+
+En todo lo relativo al procedimiento para la realización de visitas de verificación, se estará a lo que dispone el Título Tercero, Capítulo IX de la Ley de Procedimiento Administrativo del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 22 Bis 5.
+
+Las atribuciones señaladas a los municipios en el presente capítulo, y de los artículos 96, 97, 98 y 99 de la presente Ley, podrán ser ejecutadas a través de Sindicatura o la autoridad que determine el Ayuntamiento dentro de sus ordenamientos respectivos.
+
+### CAPÍTULO VI. DE LA COORDINACIÓN GUBERNAMENTAL EN MATERIA DE VIVIENDA
 
 ###### Artículo 23.
 
@@ -525,7 +573,7 @@ VIII.- La definición de indicadores y mecanismos de evaluación de avances.
 
 El Programa Estatal de Vivienda una vez aprobado, se publicará en el Boletín Oficial del Gobierno del Estado, y será obligatorio para las dependencias y entidades de la administración pública estatal.
 
-### CAPÍTULO VIII. DEL FINANCIAMIENTO A LA VIVIENDA
+### CAPÍTULO VII. DE LA CONCERTACIÓN DEL SECTOR PÚBLICO CON LOS SECTORES SOCIAL Y PRIVADO
 
 ###### Artículo 27.
 
@@ -571,7 +619,7 @@ La participación de promotores de vivienda del sector privado en los programas 
 
 La participación de promotores de vivienda del sector social en los programas de vivienda del Estado, estará sujeta a la supervisión de la Comisión, entidad ante la que deberán estar acreditados y registrados, conforme a las disposiciones que emita, mismas que permitirán el desarrollo autónomo de los promotores sociales y básicamente estarán orientadas a garantizar la transparencia en el manejo y aplicación de los recursos, vigilando en todo momento el que estén a salvo sus derechos como beneficiarios y productores.
 
-### CAPÍTULO IX. DE LOS ESTÍMULOS A LA VIVIENDA
+### CAPÍTULO VIII. DEL FINANCIAMIENTO A LA VIVIENDA
 
 ###### Artículo 32.
 
@@ -737,7 +785,7 @@ IV.- Las previsiones de suelo para la dotación de infraestructura, equipamiento
 
 Los actos de adquisición, administración, transmisión, arrendamiento y demás relativos al aprovechamiento inmobiliario que realice la Comisión, destinados al cumplimiento y ejecución de sus programas, acciones, obras e inversiones, se sujetarán a las normas y disposiciones que establezca su Junta de Gobierno, con apego a las disposiciones de la presente Ley y la demás normatividad aplicable.
 
-### CAPÍTULO X. DE LAS NORMAS PARA LA VIVIENDA
+### CAPÍTULO IX. DE LOS ESTÍMULOS A LA VIVIENDA
 
 ###### Artículo 53.
 
@@ -747,7 +795,7 @@ I.- Al inscribir la adquisición de un terreno, la lotificación, y las comprave
 
 II.- Ser facilitadores para la emisión de documentos que conlleven la obtención de permisos o licencias de construcción implícitos en la urbanización, edificación o cualquier acción de urbanización que se requiera dentro del objeto del presente ordenamiento.
 
-### CAPÍTULO XI. DE LA CALIDAD Y SUSTENTABILIDAD DE LA VIVIENDA
+### CAPÍTULO X. DE LAS NORMAS PARA LA VIVIENDA
 
 ###### Artículo 54.
 
@@ -779,7 +827,7 @@ IX.- Los que tengan posibilidad o peligro de inestabilidad o deslizamiento del s
 
 Las acciones de suelo y vivienda financiadas con recursos públicos del Estado de Sonora deberán observar los lineamientos que en materia de vivienda popular o económica y de interés social, equipamiento, infraestructura y vinculación con el entorno establezca la Comisión, en observancia de lo establecido por la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Sonora y demás disposiciones aplicables.
 
-### CAPÍTULO XII. DE LA PRODUCCIÓN SOCIAL DE VIVIENDA
+### CAPÍTULO XI. DE LA CALIDAD Y SUSTENTABILIDAD DE LA VIVIENDA
 
 ###### Artículo 57.
 
@@ -809,9 +857,7 @@ III.- La conformación de paquetes de materiales y equipamientos para las famili
 
 Asimismo, la Comisión promoverá la celebración de convenios para el otorgamiento de asesoría y capacitación a los adquirentes de materiales para el uso adecuado de los productos, sobre sistemas constructivos y prototipos arquitectónicos, así como para la obtención de licencias y permisos de construcción necesarios.
 
-### CAPÍTULO XIII. DE LA TRANSMISIÓN DE PROPIEDAD Y ARRENDAMIENTO DE LA VIVIENDA SOCIAL Y DE LOTES DE FRACCIONAMIENTOS POPULARES
-
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2016)</small>
+### CAPÍTULO XII. DE LA PRODUCCIÓN SOCIAL DE VIVIENDA
 
 ###### Artículo 61.
 
@@ -847,7 +893,9 @@ La Comisión y las unidades administrativas responsables de las políticas de vi
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DEL 2016)</small>
 
-### CAPÍTULO XIV. DEL SISTEMA ESTATAL DE INFORMACIÓN E INDICADORES DE SUELO Y VIVIENDA
+### CAPÍTULO XIII. DE LA TRANSMISIÓN DE PROPIEDAD Y ARRENDAMIENTO DE LA VIVIENDA SOCIAL Y DE LOTES DE FRACCIONAMIENTOS POPULARES
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 68.
 
@@ -883,7 +931,7 @@ Cuando las viviendas de interés social y lotes regidos por esta ley se constitu
 
 Dentro del documento o ínstrumento jurídico que utilice la Comisión de Vivienda del Estado de Sonora para la transmisión de propiedad para vivienda de interés social, popular o económica, deberá incluir la siguiente clausula: “El inmueble objeto de este acto jurídico, se encuentra destinado al patrimonio de familia, en beneficio de la familia del adquiriente, por lo que es inalienable y no puede ser objeto de embargo ni gravamen alguno, así mismo quedará constituido el Testamento Público Simplificado de lo cual deberá tomarse nota al hacerse la inscripción en el Registro Público de la Propiedad”.
 
-### CAPÍTULO XV. DE LOS COMITÉS DE PARTICIPACIÓN CIUDADANA
+### CAPÍTULO XIV. DEL SISTEMA ESTATAL DE INFORMACIÓN E INDICADORES DE SUELO Y VIVIENDA
 
 ###### Artículo 73.
 
@@ -917,7 +965,7 @@ La Comisión informará de los procedimientos, tiempo de respuesta, costos, requ
 
 Las dependencias y entidades del Gobierno del Estado y de los ayuntamientos, las organizaciones de los sectores social y privado, así como las instituciones de educación superior y de investigación, proporcionarán la información necesaria para estimular la producción de vivienda en el Estado que les requiera la Comisión, en el marco de los acuerdos y convenios que al efecto se celebren.
 
-### CAPÍTULO XVI. DE LAS RESPONSABILIDADES, SANCIONES, MEDIDAS DE SEGURIDAD Y RECURSO
+### CAPÍTULO XV. DE LOS COMITÉS DE PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 78.
 
@@ -981,6 +1029,8 @@ De estimarse pertinente, la delimitación a que se refiere el párrafo anterior 
 
 Los Comités de Participación Ciudadana observarán en todo momento en sus acciones las consideraciones establecidas en la presente ley, así como en la Ley de Participación Ciudadana y los respectivos reglamentos.
 
+### CAPÍTULO XVI. DE LAS RESPONSABILIDADES, SANCIONES, MEDIDAS DE SEGURIDAD Y RECURSO
+
 ###### Artículo 87.
 
 La Comisión y las autoridades municipales, en el ámbito de sus respectivas competencias, impondrán las medidas de seguridad y sanciones administrativas por infracciones a esta ley, sus reglamentos y los programas de vivienda vigentes.
@@ -1024,6 +1074,54 @@ Los particulares inconformes con las resoluciones administrativas que se dicten 
 ###### Artículo 95.
 
 Los servidores públicos que intervengan en los programas de vivienda del Estado y sus Municipios que utilicen indebidamente su posición, para beneficiarse o favorecer a terceros en los procesos de producción y adquisición de vivienda, construcción de obras de infraestructura o en operaciones inmobiliarias, serán sancionados conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios o, en su caso, por el Código Penal para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 96.
+
+Cuando exista riesgo inminente a la seguridad de las personas y de daños o deterioro a sus bienes, que puedan causarse con motivo de las infracciones del capítulo V Bis, la autoridad competente en el ámbito de su respectiva competencia fundada y motivadamente podrá ordenar, alguna o algunas de las siguientes medidas de seguridad:
+
+I.- La clausura temporal, parcial o total de las instalaciones;
+
+II.- El retiro o desmantelamiento de instalaciones; y
+
+III.- La neutralización o cualquier acción análoga que impida que materiales, equipos, utensilios, instrumentos e instalaciones, generen los efectos previstos en el primer párrafo de este artículo.
+
+Asimismo, la autoridad competente podrá solicitar ante otras autoridades, la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 97.
+
+Las medidas de seguridad establecidas en el artículo 96 de la presente Ley, son de inmediata ejecución, tienen carácter temporal y preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 98.
+
+Las violaciones a las disposiciones del capítulo V Bis serán sancionadas administrativamente por la autoridad competente, con multa de 100 a 120 veces la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 99.
+
+Para la imposición de las sanciones establecidas en esta ley, deberá considerarse:
+
+I.- El daño que se haya producido o los que se pudieron causar;
+
+II.- La gravedad de la infracción;
+
+III.- El incumplimiento de las medidas correctivas o de urgente aplicación ordenadas;
+
+IV.- Las condiciones socio-económicas del infractor;
+
+V.- La negligencia, descuido, equivocación o intencionalidad del infractor;
+
+VI.- Los antecedentes del infractor y las circunstancias de modo, tiempo y lugar de la infracción;
+
+VII.- La reincidencia; y
+
+VIII.- Las demás circunstancias estimadas por la autoridad competente. En caso de reincidencia, se podrá duplicar el monto de la multa que corresponda.
 
 ## TRANSITORIOS
 
@@ -1078,3 +1176,15 @@ B.O. 3 DE AGOSTO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 180, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE VIVIENDA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones reglamentarias necesarias para la efectiva aplicación de esta Ley, deberán emitirse por las autoridades correspondientes dentro de un plazo no mayor a 90 días naturales, contado a partir del día en que entre en vigor el presente ordenamiento jurídico.
