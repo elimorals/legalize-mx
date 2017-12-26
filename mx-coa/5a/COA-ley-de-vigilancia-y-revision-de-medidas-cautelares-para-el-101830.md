@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vigilancia-y-revision-de-medidas-cautelares-para-el-1018
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-11"
-last_updated: "2017-03-17"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIGILANCIA Y REVISIÓN DE MEDIDAS CAUTELARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 11 de julio de 2014.
 
@@ -69,7 +69,9 @@ Para los efectos, aplicación e interpretación de esta Ley se entiende por:
 
 I. Código de Procedimientos Penales: El Código de Procedimientos Penales vigente en el Estado de Coahuila de Zaragoza.
 
-II. Comisión: La Comisión Estatal de Seguridad.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. Secretaría: La Secretaría de Seguridad Pública.
 
 III. Dirección de Ejecución: La Dirección de Ejecución de Penas.
 
@@ -81,7 +83,9 @@ VI. Director: El o la titular de la Dirección de Medidas Cautelares.
 
 VII. Ley: La Ley de Vigilancia y Revisión de Medidas Cautelares para el Estado de Coahuila de Zaragoza.
 
-VIII. Unidad Desconcentrada: La Unidad Desconcentrada de Ejecución de Penas y Reinserción Social.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VIII. Unidad del Sistema: La Unidad del Sistema Estatal Penitenciario.
 
 IX. Unidad: La Unidad Regional de Medidas Cautelares.
 
@@ -153,13 +157,19 @@ Sentencia en procedimiento abreviado.
 
 Cuando el juez de control dicte sentencia condenatoria en procedimiento abreviado, el juez de ejecución penal correspondiente tendrá a su cargo las controversias que puedan surgir durante la ejecución de las penas o medidas de seguridad impuestas en la resolución, de conformidad con lo previsto en la Ley de Ejecución de Sanciones Penales vigente en el Estado de Coahuila de Zaragoza.
 
-Si la sentencia en procedimiento abreviado resulta absolutoria para el imputado el propio juez de control remitirá su resolución a la Comisión, para que se ejecute la revocación de las medidas cautelares impuestas en su caso.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Cuando el juez de control dicte sentencia condenatoria en procedimiento abreviado, el juez de ejecución penal correspondiente tendrá a su cargo las controversias que puedan surgir durante la ejecución de las penas o medidas de seguridad impuestas en la resolución, de conformidad con lo previsto en la Ley Nacional de Ejecución Penal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 10.
 
-De la Comisión.
+De la Secretaría.
 
-Corresponde a la Comisión, a través de la Dirección, cumplimentar las decisiones judiciales en el ámbito administrativo, a través de las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Corresponde a la Secretaría, a través de la Dirección adscrita a la Unidad del Sistema Estatal Penitenciario, cumplimentar las decisiones judiciales en el ámbito administrativo, a través de las siguientes atribuciones:
 
 I. Llevar el registro de todas las medidas cautelares impuestas a que se refiere el Código de Procedimientos Penales;
 
@@ -345,7 +355,9 @@ Investigación y evaluación de riesgos procesales.
 
 La evaluación de riesgos procesales es el análisis realizado por personal especializado en la materia, de manera objetiva, imparcial y neutral acerca de las circunstancias personales, socioeconómicas y demás que la autoridad determine, a petición de las partes, a efecto de solicitar la medida cautelar idónea y proporcional al imputado.
 
-La Comisión, a través de la Dirección de Medidas Cautelares, realizará la evaluación de riesgos procesales conforme a lo previsto en esta ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría, a través de la Dirección de Medidas Cautelares, realizará la evaluación de riesgos procesales conforme a lo previsto en esta ley y demás disposiciones aplicables.
 
 ###### Artículo 24.
 
@@ -439,9 +451,13 @@ La Dirección de Medidas Cautelares informará oportunamente al Ministerio Públ
 
 Prohibición de salir sin autorización del país.
 
-Cuando se determine la medida cautelar de prohibición de salir sin autorización del país, se requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la resolución a la Secretaría de Gobierno para que, de conformidad con sus atribuciones, de aviso a las autoridades en materia de relaciones exteriores y a las consulares de otros países, para hacer efectiva la medida.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida. La Secretaría de Gobierno establecerá un lugar específico para el resguardo del pasaporte y demás documentos requeridos por la autoridad judicial para el fin de esta medida.
+Cuando se determine la medida cautelar de prohibición de salir sin autorización del país, se requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la resolución a la Secretaría de Seguridad Pública para que a través de la Dirección de Medidas Cautelares, de conformidad con sus atribuciones, de aviso a las autoridades en materia de relaciones exteriores y a las consulares de otros países, para hacer efectiva la medida.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida. La Dirección de Medidas Cautelares establecerá un lugar específico para el resguardo del pasaporte y demás documentos requeridos por la autoridad judicial para el fin de esta medida.
 
 ###### Artículo 35.
 
@@ -457,7 +473,9 @@ El resguardo en el propio domicilio con las modalidades que el juez disponga.
 
 Cuando el juez ordene la medida cautelar de resguardo en el domicilio con las modalidades que disponga, lo comunicará directamente a la Dirección de Medidas Cautelares para que se cumpla con las medidas adecuadas para su tratamiento y vigilancia, garantizando por cualquier medio ante la autoridad judicial el cumplimiento de las obligaciones contraídas.
 
-El juez de control que ordene el resguardo del imputado en el domicilio de éste, podrá determinar que la Comisión u otras instituciones policiales ejerzan vigilancia en el domicilio correspondiente u ordenar su arresto. En el primer caso, remitirá proveído a la autoridad vigilante para que rinda informe al juez de control, con la periodicidad que éste señale.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El juez de control que ordene el resguardo del imputado en el domicilio de éste, podrá determinar que la Secretaría de Seguridad Pública u otras instituciones policiales ejerzan vigilancia en el domicilio correspondiente u ordenar su arresto. En el primer caso, remitirá proveído a la autoridad vigilante para que rinda informe al juez de control, con la periodicidad que éste señale.
 
 ###### Artículo 37.
 
@@ -493,7 +511,9 @@ Al imponerse la medida de prohibición de convivencia, acercamiento o comunicaci
 
 Separación inmediata del domicilio.
 
-Al decretar la medida cautelar de separación inmediata del domicilio, el juez de control ordenará la notificación urgente de su resolución a la Comisión o a otras instituciones policiales en el estado y el municipio correspondiente, para su efectivo cumplimiento, haciéndole saber que la separación se acompaña de la prohibición expresa al imputado, de aproximarse al domicilio o lugar de convivencia del que ha sido separado, o la orden de que no se acerque a la víctima u ofendido ni se comunique por otros medios con ella. Podrá establecerse por un plazo de hasta seis meses, pero podrá prorrogarse hasta por un período igual, si así lo solicita la víctima u ofendido y no han cambiado las razones que la justificaron. Esta medida no exime al imputado de sus obligaciones alimentarias en caso de ser procedentes.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Al decretar la medida cautelar de separación inmediata del domicilio, el juez de control ordenará la notificación urgente de su resolución a la Secretaría de Seguridad Pública o a otras instituciones policiales en el estado y el municipio correspondiente, para su efectivo cumplimiento, haciéndole saber que la separación se acompaña de la prohibición expresa al imputado, de aproximarse al domicilio o lugar de convivencia del que ha sido separado, o la orden de que no se acerque a la víctima u ofendido ni se comunique por otros medios con ella. Podrá establecerse por un plazo de hasta seis meses, pero podrá prorrogarse hasta por un período igual, si así lo solicita la víctima u ofendido y no han cambiado las razones que la justificaron. Esta medida no exime al imputado de sus obligaciones alimentarias en caso de ser procedentes.
 
 En caso de que la víctima u ofendido tenga derecho a recibir alimentos del imputado, el juez de control, de oficio o a petición de parte, reunirá los elementos indispensables para determinar una pensión alimenticia provisional que sea proporcional a las posibilidades del imputado y a las necesidades de la víctima u ofendido y asumirá las decisiones para hacer efectiva esa pensión alimenticia.
 
@@ -585,7 +605,9 @@ La ejecución de la medida cautelar de prisión preventiva será cumplida en el 
 
 Cumplimiento de la medida de prisión preventiva.
 
-El juez de control remitirá su resolución a la Unidad Desconcentrada, la que formará el expediente respectivo para el debido y exacto cumplimiento de la medida.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El juez de control remitirá su resolución a la Unidad del Sistema Estatal Penitenciario, la que formará el expediente respectivo para el debido y exacto cumplimiento de la medida.
 
 El sitio destinado para cumplir la prisión preventiva será distinto a aquél en el que se ejecute la pena de prisión, el cual deberá estar completamente separado. Las mujeres quedarán recluidas en lugares diferentes al de los hombres, y los adolescentes de los adultos.
 
@@ -615,11 +637,17 @@ Desde que el imputado quede sujeto a proceso penal, deberán realizarse los estu
 
 Reuniones Institucionales periódicas.
 
-Para el ejercicio de sus facultades en materia de evaluación y seguimiento de medidas cautelares, la Unidad Desconcentrada podrá convocar o invitar a reuniones de trabajo a representantes de las siguientes instituciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-I. Secretaría de Gobierno;
+Para el ejercicio de sus facultades en materia de evaluación y seguimiento de medidas cautelares, la Unidad del Sistema podrá convocar o invitar a reuniones de trabajo a representantes de las siguientes instituciones:
 
-II. Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+I. Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. Fiscalía General de Justicia del Estado;
 
 III. Instituto Estatal de Defensoría Pública;
 
@@ -741,11 +769,15 @@ III. Determinación, con base en un dictamen técnico debidamente justificado, s
 
 IV. Informar a la autoridad competente sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada en relación con la ejecución o vigilancia de las medidas cautelares cuya aplicación o vigilancia les hubiere sido encomendada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 67.
 
-Secretaría de Gobierno.
+Secretaría de Seguridad Pública.
 
-Corresponde a la Secretaría de Gobierno el auxilio en la ejecución, durante el proceso penal, de las medidas cautelares o condiciones de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Corresponde a la Secretaría de Seguridad Pública el auxilio en la ejecución, durante el proceso penal, de las medidas cautelares o condiciones de:
 
 I. Garantía económica, tratándose de prendas e hipotecas;
 
@@ -887,9 +919,13 @@ Determinaciones, órdenes y acuerdos.
 
 Para los asuntos, determinaciones, órdenes y acuerdos inherentes a sus funciones, todo el personal de la Dirección de Medidas Cautelares estará obligado a respetar las líneas de jerarquía establecidas en esta ley.
 
-Los oficios, circulares, memorándums, y demás de naturaleza similar que la Unidad Desconcentrada a través de la Dirección de Ejecución gire a la Dirección, se comunicarán a los departamentos que, por el ejercicio de sus atribuciones corresponda su ejecución y cumplimiento.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Las determinaciones que en ejercicio de sus atribuciones emita el Director o los Jefes de los departamentos administrativos de la misma, serán por escrito y con copia a la Unidad Desconcentrada y a la Dirección de Ejecución.
+Los oficios, circulares, memorándums, y demás de naturaleza similar que la Unidad del Sistema Estatal Penitenciario a través de la Dirección de Ejecución gire a la Dirección, se comunicarán a los departamentos que, por el ejercicio de sus atribuciones corresponda su ejecución y cumplimiento.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Las determinaciones que en ejercicio de sus atribuciones emita el Director o los Jefes de los departamentos administrativos de la misma, serán por escrito y con copia a la Unidad del Sistema Estatal Penitenciarioy (sic) a la Dirección de Ejecución.
 
 ###### Artículo 78.
 
@@ -1430,3 +1466,51 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 1177 POR EL QUE “SE REFORMAN LAS FRACCIONES II Y VIII DEL ARTÍCULO 3; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 9; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 10; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 23; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 34; EL PÁRRAFO TERCERO DEL ARTÍCULO 36; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 41; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 51; EL PÁRRAFO SEGUNDO Y LAS FRACCIONES I Y II DEL ARTÍCULO 55; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 67 Y EL PÁRRAFO TERCERO Y CUARTO DEL ARTÍCULO 77DE (SIC) LA LEY DE VIGILANCIA Y REVISIÓN DE MEDIDAS CAUTELARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
