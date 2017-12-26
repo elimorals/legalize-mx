@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-del-catorce-de-noviembre-de-2006-de-la-63485"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2006-11-14"
-last_updated: "2006-11-14"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63485&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-11-14"
 ---
 # LINEAMIENTOS DEL CATORCE DE NOVIEMBRE DE 2006, DE LA SECRETARIA GENERAL DE LA PRESIDENCIA Y OFICIALIA MAYOR, DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LINEAMIENTOS DEL CATORCE DE NOVIEMBRE DE 2006, DE LA SECRETARIA GENERAL DE LA PRESIDENCIA Y OFICIALIA MAYOR, POR LOS QUE SE ESTABLECE EL PROCEDIMIENTO PARA EL OTORGAMIENTO DE LICENCIAS CON GOCE DE SUELDO Y DIAS ECONOMICOS A LOS SERVIDORES PUBLICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CONFORME A LO PREVISTO EN LOS ACUERDOS GENERALES DE ADMINISTRACION III/2005 Y IV/2006, DEL COMITE DE GOBIERNO Y ADMINISTRACION
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Lineamientos publicados en el Semanario Judicial de la Federación y su Gaceta, Tomo XXV, Enero de 2007, página 2555.
 
@@ -162,3 +164,19 @@ LICENCIADO MANUEL JUAN CORVERA CARAZA, DIRECTOR GENERAL DE PERSONAL DE LA SUPREM
 CERTIFICA:
 
 Que esta copia de los lineamientos del catorce de noviembre de 2006, de la Secretaría General de la Presidencia y Oficialía Mayor, por los que se establece el procedimiento para el otorgamiento de licencias con goce de sueldo y días económicos a los servidores públicos de la Suprema Corte de Justicia de la Nación, conforme a lo previsto en los Acuerdos Generales de Administración III/2005 y IV/2006, del Comité de Gobierno y Administración concuerda fiel y exactamente con el documento que se tuvo a la vista y se encuentra en los archivos de la Dirección General de Personal. En México, Distrito Federal, a los trece días del mes de diciembre del años dos mil seis.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
