@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-de-seguridad-publica-del-estado-de-coahuila-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-09"
-last_updated: "2017-10-24"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 9 de marzo de 2016.
 
@@ -69,11 +69,17 @@ IV. Centro Nacional: el Centro Nacional de Información;
 
 V. Certificado: el expedido por el Centro de Profesionalización a los integrantes del servicio profesional de carrera;
 
-VI. CES: Comisión Estatal de Seguridad
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VII. Comisionado: la persona titular de la CES;
+VI. Secretaría de Seguridad: la Secretaría de Seguridad Pública;
 
-VIII. Comisión: las Comisiones del Servicio Profesional de Carrera, Honor y Justicia de las Corporaciones Policiales de la Comisión Estatal de Seguridad, la Procuraduría General de Justicia del Estado, la Procuraduría para Niños, Niñas y la Familia y de los municipios;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII. Secretario de Seguridad: la persona titular de la Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VIII. Comisión: las Comisiones del Servicio Profesional de Carrera, Honor y Justicia de las Corporaciones Policiales de la Secretaría de Seguridad, la Fiscalía General, la Procuraduría para Niños, Niñas y la Familia y de los municipios;
 
 IX. Conferencia Estatal: la Conferencia Estatal de Directores de Seguridad Pública Municipal;
 
@@ -95,7 +101,9 @@ XVII. Estado: el Estado de Coahuila de Zaragoza;
 
 XVIII. Hoja de Servicios: el documento que resume la trayectoria de cada integrante de las instituciones de seguridad pública, de conformidad con las disposiciones aplicables;
 
-XIX. Instituciones de seguridad pública: la Comisión Estatal de Seguridad, la Procuraduría General de Justicia del Estado, la Procuraduría para Niños, Niñas y la Familia, el Secretariado Ejecutivo y dependencias encargadas de la seguridad pública en los municipios; y sus unidades administrativas internas, delegaciones o coordinaciones;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIX. Instituciones de seguridad pública: la Secretaría de Seguridad, la Fiscalía General, la Procuraduría para Niños, Niñas y la Familia, el Secretariado Ejecutivo y dependencias encargadas de la seguridad pública en los municipios; y sus unidades administrativas internas, delegaciones o coordinaciones;
 
 XX. Integrantes: los integrantes de las instituciones de seguridad pública;
 
@@ -105,9 +113,13 @@ XXII. Ley General: la Ley General del Sistema Nacional de Seguridad Pública;
 
 XXIII. Procedimiento: el instaurado a los integrantes de los servicios profesionales de carrera, por incumplimiento a los requisitos de permanencia o infracción al régimen disciplinario;
 
-XXIV. Procurador: la persona titular de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XXV. Procuraduría: la Procuraduría General de Justicia del Estado;
+XXIV. Fiscal General: la persona titular de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXV. Fiscalía General: la Fiscalía General del Estado;
 
 XXVI. Programa rector: el instrumento aprobado respectivamente por la Conferencia Nacional de Procuración de Justicia o por la Conferencia Nacional de Secretarios de Seguridad Pública, que establece el conjunto de contenidos encaminados a la profesionalización de los integrantes de cada una de las instituciones de seguridad pública;
 
@@ -149,7 +161,9 @@ El Estado garantizará la seguridad pública a través del diseño transversal d
 
 Función de seguridad pública
 
-La función de seguridad pública se realizará por conducto de la Secretaría de Gobierno a través de la CES; la Procuraduría; la PRONNIF; los ayuntamientos; las instancias encargadas de aplicar las infracciones administrativas; de los responsables de la prisión preventiva y la ejecución de penas; las autoridades competentes en materia de justicia para adolescentes, así como las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de la ley.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+La función de seguridad pública se realizará por conducto de la Secretaría de Seguridad; la Fiscalía General; la PRONNIF; los ayuntamientos; las instancias encargadas de aplicar las infracciones administrativas; de los responsables de la prisión preventiva y la ejecución de penas; las autoridades competentes en materia de justicia para adolescentes, así como las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de la ley.
 
 ###### Artículo 5.
 
@@ -209,7 +223,9 @@ Sistema Estatal de Información
 
 El Estado y los municipios integrarán los instrumentos de información del Sistema Estatal, para lo cual se establecerán las bases de datos sobre la seguridad pública, que serán desarrolladas, ejecutadas y actualizadas directamente por los titulares de los órganos encargados de estas funciones.
 
-Estará a cargo de la recopilación de información del Sistema Estatal, la unidad administrativa adscrita a la CES, la cual instrumentará los mecanismos necesarios para su resguardo, protección, administración e intercambio, entre las unidades del Sistema Estatal, de conformidad con la Ley General de Transparencia y Acceso a la Información, Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza y las demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Estará a cargo de la recopilación de información del Sistema Estatal, la unidad administrativa adscrita a la Secretaría de Seguridad, la cual instrumentará los mecanismos necesarios para su resguardo, protección, administración e intercambio, entre las unidades del Sistema Estatal, de conformidad con la Ley General de Transparencia y Acceso a la Información, Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza y Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza y las demás disposiciones aplicables.
 
 ###### Artículo 11.
 
@@ -259,7 +275,9 @@ El Estado y los municipios concretizarán la práctica de los propósitos, fines
 
 Contenido.
 
-El Programa Estatal de Seguridad Pública es el conjunto de acciones inmediatas, de mediano y largo plazo que en forma coordinada aprueban, operan y supervisan el Estado, a través de la Secretaría de Gobierno, la Procuraduría, la PRONNIF y los municipios.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El Programa Estatal de Seguridad Pública es el conjunto de acciones inmediatas, de mediano y largo plazo que en forma coordinada aprueban, operan y supervisan el Estado, a través de la Secretaría de Seguridad, la Fiscalía General, la PRONNIF y los municipios.
 
 ###### Artículo 14.
 
@@ -271,7 +289,9 @@ El Programa Estatal de Seguridad Pública se integra en el Estado al Plan Estata
 
 Autoridad y término para la elaboración y aprobación de los programas
 
-El proyecto del Programa Estatal de Seguridad Pública lo elaborará la Secretaría de Gobierno, integrando en lo conducente el proyecto que presente la Procuraduría y la PRONNIF, y deberá presentarlo oportunamente al Gobernador para su aprobación, quien lo someterá a consideración del Consejo de Estado y lo dará a conocer al Consejo Estatal dentro de los primeros tres meses del año de ejercicio.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El proyecto del Programa Estatal de Seguridad Pública lo elaborará la Secretaría de Seguridad, integrando en lo conducente el proyecto que presente la Fiscalía General y la PRONNIF, y deberá presentarlo oportunamente al Gobernador para su aprobación, quien lo someterá a consideración del Consejo de Estado y lo dará a conocer al Consejo Estatal dentro de los primeros tres meses del año de ejercicio.
 
 Los proyectos de los programas municipales los elaborarán los consejos municipales y deberán presentarlo oportunamente a sus ayuntamientos, para que lo aprueben y propongan al Consejo Estatal para su evaluación dentro de los primeros tres meses del año de ejercicio.
 
@@ -287,7 +307,9 @@ Patrimonio del Estado en materia de seguridad pública
 
 Para el cumplimiento de las materias de seguridad pública, el Estado contará con los siguientes recursos:
 
-I. Los que se asignen en el presupuesto estatal a la Secretaría de Gobierno, la Procuraduría y la PRONNIF para la aplicación a la seguridad pública;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+I. Los que se asignen en el presupuesto estatal a la Secretaría de Seguridad, la Fiscalía General y la PRONNIF para la aplicación a la seguridad pública;
 
 II. Los fondos que asignen la Federación y el Sistema Nacional al Estado; y
 
@@ -309,7 +331,9 @@ III. Los derechos y fondos que perciba con motivo de convenios o productos relat
 
 Otros recursos
 
-El gobernador, por sí o por conducto del Secretario de Gobierno, y los municipios implementarán las medidas que contribuyan a la recaudación y obtención de fondos y recursos para el financiamiento de la seguridad pública, conforme a las siguientes disposiciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El gobernador, por sí o por conducto del Secretario de Seguridad, y los municipios implementarán las medidas que contribuyan a la recaudación y obtención de fondos y recursos para el financiamiento de la seguridad pública, conforme a las siguientes disposiciones:
 
 I. Las formas y actividades de recaudación, obtención o de financiamiento que se implementen serán independientes de las aportaciones que el Presupuesto de Egresos del Estado, la Federación y el Sistema Nacional destinen a la seguridad pública, y
 
@@ -401,9 +425,13 @@ II. Tribunal Superior de Justicia del Estado;
 
 III. Congreso del Estado;
 
-IV. Comisión Estatal de Seguridad;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-V. Procuraduría;
+IV. Secretaría de Seguridad;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+V. Fiscalía General;
 
 VI. PRONNIF;
 
@@ -411,7 +439,9 @@ VII. Secretaría de Gobierno;
 
 VIII. Secretaría de Finanzas;
 
-IX. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IX. Secretaría de Inclusión y Desarrollo Social;
 
 X. Secretaría de Salud;
 
@@ -585,7 +615,9 @@ IV. Cumplir y hacer cumplir los programas, acciones y disposiciones del Sistema 
 
 V. Emitir las políticas y reglamentos para establecer la coordinación efectiva entre el Estado y los municipios;
 
-VI. Autorizar, por conducto de la CES, la prestación de servicios de seguridad privada por personas físicas o morales;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VI. Autorizar, por conducto de la Secretaría de Seguridad, la prestación de servicios de seguridad privada por personas físicas o morales;
 
 VII. Promover que la ciudadanía participe en el análisis de la problemática sobre seguridad pública, y
 
@@ -597,15 +629,39 @@ Atribuciones excepcionales del Ejecutivo
 
 Corresponde al Ejecutivo, ser el jefe supremo de las fuerzas de seguridad pública del Estado y de los municipios y asumir con tal carácter, cuando las circunstancias lo requieran y por el tiempo necesario, el mando directo e inmediato de todas las corporaciones de seguridad pública, en la totalidad o parte del territorio estatal e inclusive apoyarse en los elementos que presten servicios de seguridad privada en la entidad, en los términos de la Constitución Local.
 
-#### SECCIÓN II. DEL PROCURADOR
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-#### SECCIÓN III. DE LA PERSONA TITULAR DE LA SECRETARÍA DE GOBIERNO
+#### SECCIÓN I-A. DEL SECRETARIO DE GOBIERNO
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 39
+
+A (SIC). Atribuciones y deberes del Secretario de Gobierno
+
+Son atribuciones y deberes de la persona titular de la Secretaría de Gobierno, además de las previstas en la Constitución Local, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y el Reglamento Interior de la Secretaría de Gobierno, las siguientes:
+
+I. Presidir el Consejo Estatal de Seguridad Pública en ausencia del Ejecutivo y supervisar que se instrumenten y de cumplimiento a sus acuerdos;
+
+II. Supervisar que se dé cabal cumplimiento en el Estado a los acuerdos del Consejo Nacional de Seguridad Pública;
+
+III. Establecer mecanismos de coordinación interinstitucional con dependencias e instancias federales, estatales y municipales que ejercen facultades, realicen acciones, ejecuten programas y políticas públicas en materia de seguridad pública;
+
+IV. Las demás que le confieran las disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN II. DEL FISCAL GENERAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 41.
 
-Atribuciones y deberes del Procurador
+Atribuciones y deberes del Fiscal General
 
-Son atribuciones y deberes del Procurador, además de las previstas en la Constitución Local y la Ley Orgánica de la Procuraduría, las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Son atribuciones y deberes del Fiscal General, además de las previstas en la Constitución Local y la Ley Orgánica de la Fiscalía General del Estado, las siguientes:
 
 I. Formar parte del Sistema Nacional y de la Conferencia Nacional de Procuración de Justicia;
 
@@ -623,13 +679,19 @@ VII. Propiciar la participación de la ciudadanía en el análisis de la problem
 
 VIII. Las demás que le confieran las disposiciones legales aplicables.
 
-#### SECCIÓN IV. DE LA PERSONA TITULAR DE LA PRONNIF
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN III. DE LA PERSONA TITULAR DE LA SECRETARÍA DE SEGURIDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 42.
 
-Atribuciones y deberes de la persona titular de la Secretaría de Gobierno
+Atribuciones y deberes de la persona titular de la Secretaría de Seguridad
 
-Son atribuciones y deberes de la persona titular de la Secretaría de Gobierno, además de las previstas en la Constitución Local, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y el Reglamento Interior de la Secretaría de Gobierno, las siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PARRÁFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Son atribuciones y deberes de la persona titular de la Secretaría de Seguridad, además de las previstas en la Constitución Local, la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y el Reglamento Interior de la Secretaría de Seguridad Pública, las siguientes:
 
 I. Formar parte del Sistema Nacional y de la Conferencia Nacional de Secretarios de Seguridad Pública;
 
@@ -653,7 +715,7 @@ X. Propiciar la participación de la ciudadanía en el análisis de la problemá
 
 XI. Las demás que le confieran las disposiciones legales aplicables.
 
-#### SECCIÓN V. DE LAS AUTORIDADES MUNICIPALES
+#### SECCIÓN IV. DE LA PERSONA TITULAR DE LA PRONNIF
 
 ###### Artículo 43.
 
@@ -671,7 +733,7 @@ IV. Hacer observar el Programa Rector;
 
 V. Las demás que le confieran las disposiciones legales aplicables.
 
-#### SECCIÓN VI. SECRETARIADO EJECUTIVO
+#### SECCIÓN V. DE LAS AUTORIDADES MUNICIPALES
 
 ###### Artículo 44.
 
@@ -687,7 +749,9 @@ III. Supervisar la elaboración del Programa Municipal de Seguridad Pública y s
 
 IV. Celebrar los convenios previamente aprobados por el Ayuntamiento, y en su caso por el Congreso, con:
 
-1. El Gobierno del Estado, por conducto del Secretario de Gobierno.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+1. El Gobierno del Estado, por conducto del Secretario de Seguridad.
 
 2. Los Ayuntamientos de los municipios del Estado.
 
@@ -725,7 +789,7 @@ Otras Autoridades Municipales
 
 Son autoridades municipales en materia de seguridad pública las personas titulares de las Policías Preventivas de los municipios, y las demás que determinen las leyes y reglamentos aplicables.
 
-#### SECCIÓN I. PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+#### SECCIÓN VI. SECRETARIADO EJECUTIVO
 
 ###### Artículo 46.
 
@@ -745,7 +809,9 @@ IV. Las demás que se requieran y que el presupuesto permita.
 
 Nombramiento y remoción del Secretario Ejecutivo del Sistema Estatal
 
-El Ejecutivo nombrará y removerá libremente al Secretario Ejecutivo. Dicho nombramiento deberá contar con la ratificación del Congreso del Estado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El Ejecutivo nombrará y removerá libremente al Secretario Ejecutivo.
 
 ###### Artículo 48.
 
@@ -855,9 +921,13 @@ Integración
 
 La Conferencia Estatal estará integrada por:
 
-I. El Secretario de Gobierno, quien la presidirá;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. El Comisionado, quien será el secretario técnico;
+I. El Secretario de Seguridad, quien la presidirá;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. El Subsecretario de Operación Policial, quien será el secretario técnico;
 
 III. Los Directores de seguridad pública municipal u órgano equivalente;
 
@@ -1031,7 +1101,7 @@ Los acuerdos del Consejo Municipal se tomarán por mayoría simple de votos. En 
 
 ### CAPÍTULO VI. DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, Y DE LA PARTICIPACIÓN CIUDADANA
 
-#### SECCIÓN II. DE LA PARTICIPACIÓN CIUDADANA
+#### SECCIÓN I. PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
 
 ###### Artículo 64.
 
@@ -1039,7 +1109,9 @@ Subsistema Estatal de Prevención Social de la Violencia y la Delincuencia
 
 Dentro del Sistema Estatal se establecerá el subsistema de prevención social de la violencia y la delincuencia. La Secretaría de Gobierno, a través de la Unidad Administrativa correspondiente, en coordinación con el Secretariado Ejecutivo, son las autoridades competentes para llevar a cabo las acciones previstas en esta ley y en los demás ordenamientos correspondientes en materia de prevención social de la violencia y la delincuencia.
 
-Corresponde a la Secretaría de Gobierno, a través de la Unidad Administrativa correspondiente, la emisión de un Programa Estatal de Prevención Social de la Violencia y la Delincuencia. Para la elaboración del programa en cita, se deberá de tomar en cuenta las opiniones de la CES, la Procuraduría y la PRONNIF.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Corresponde a la Secretaría de Gobierno, a través de la Unidad Administrativa correspondiente, la emisión de un Programa Estatal de Prevención Social de la Violencia y la Delincuencia. Para la elaboración del programa en cita, se deberá de tomar en cuenta las opiniones de la Secretaría de Seguridad, la Fiscalía General y la PRONNIF.
 
 Los municipios aprobarán e implementarán Programas Municipales para la Prevención Social de la Violencia y la Delincuencia, de acuerdo a lo establecido en la legislación estatal relativa a la Prevención Social de la Violencia y la Delincuencia, y los lineamientos que establezca el Sistema Nacional.
 
@@ -1061,7 +1133,7 @@ V. Prevención de la delincuencia a través de campañas de difusión en los dif
 
 VI. Prevención del delito y conductas infractoras en el ámbito laboral, para promover la participación de ese sector en la prevención de la comisión de los delitos y faltas en los centros de trabajo y su entorno.
 
-#### SECCIÓN III. INSTANCIAS AUXILIARES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
+#### SECCIÓN II. DE LA PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 66.
 
@@ -1101,9 +1173,13 @@ III. El Secretario de Gobierno;
 
 IV. El Secretario Ejecutivo, quien fungirá como secretario técnico;
 
-V. El Procurador;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VI. El Comisionado;
+V. El Fiscal General;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VI. El Secretario de Seguridad;
 
 VII. Dos representantes de Organizaciones no Gubernamentales;
 
@@ -1175,7 +1251,7 @@ IV. Realizar denuncias o quejas sobre irregularidades relativas a seguridad púb
 
 V. Auxiliar a las autoridades competentes, en el ejercicio de sus tareas y participar en las actividades de carácter preventivo y social, cuando estas así lo determinen, y de modo que no pongan en riesgo el desempeño de las tareas encomendadas a las fuerzas de seguridad pública.
 
-#### SECCIÓN I. REGISTRO ESTATAL DE DETENIDOS
+#### SECCIÓN III. INSTANCIAS AUXILIARES DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
 ###### Artículo 74.
 
@@ -1217,7 +1293,9 @@ Para el debido ejercicio de las atribuciones enumeradas en el artículo anterior
 
 I. De prevención especial y general del delito y para sancionar las faltas administrativas:
 
-a) Fuerza Coahuila, que es la corporación policial del Gobierno del Estado de Coahuila de Zaragoza a cargo de la CES, la cual tendrá competencia en todo el Estado, para desempeñar las funciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+a) Fuerza Coahuila, que es la corporación policial del Gobierno del Estado de Coahuila de Zaragoza a cargo de la Secretaría de Seguridad, la cual tendrá competencia en todo el Estado, para desempeñar las funciones siguientes:
 
 1. Preventiva;
 
@@ -1237,7 +1315,9 @@ b) El Cuerpo Especializado de Seguridad Pública de la PRONNIF; y
 
 c) Los grupos especializados de policía metropolitana que se conformarán con elementos de Fuerza Coahuila y cuando así se convenga con los ayuntamientos respectivos, con integrantes de las Policías Preventivas Municipales.
 
-La competencia, funciones, integración, mando y demás elementos necesarios para la operación de las policías metropolitanas, se establecerán en el acuerdo que emita el Ejecutivo del Estado, en esta ley, en la Ley Orgánica de la Comisión Estatal de Seguridad Pública, en convenios de colaboración que se celebren observando lo dispuesto en el artículo 9 de esta ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+La competencia, funciones, integración, mando y demás elementos necesarios para la operación de las policías metropolitanas, se establecerán en el acuerdo que emita el Ejecutivo del Estado, en esta ley, en el Reglamento Interior de la Secretaría de Seguridad Pública, en convenios de colaboración que se celebren observando lo dispuesto en el artículo 9 de esta ley y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2017)</small>
 
@@ -1245,7 +1325,9 @@ d) Las Policías Preventivas Municipales con competencia en las circunscripcione
 
 II. En la investigación y persecución del delito, bajo la conducción y mando del Ministerio Público:
 
-a) La Policía Investigadora a cargo de la Procuraduría, la cual tendrá competencia en todo el Estado, y
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+a) La Policía Investigadora a cargo de la Fiscalía General, la cual tendrá competencia en todo el Estado, y
 
 b) Las demás corporaciones policiales en los términos de las disposiciones legales aplicables.
 
@@ -1323,9 +1405,13 @@ Para el cumplimiento de sus funciones y atribuciones, así como para el desarrol
 
 I. Mando supremo, que lo tendrá el ejecutivo del Estado sobre las fuerzas de seguridad pública de éste;
 
-II. Alto mando, que estará a cargo del Secretario de Gobierno, respecto de la corporación policial de la CES y el Procurador, respecto de la Policía Investigadora,
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III. Mando superior, que lo ejercerá el Comisionado respecto de la corporación policial, denominada Fuerza Coahuila y el Director General de la Policía Investigadora, respecto de la Policía Investigadora de la Procuraduría;
+II. Alto mando, que estará a cargo del Secretario de Seguridad, respecto de la corporación policial de la Secretaría de Seguridad y el Fiscal General, respecto de la Policía Investigadora,
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. Mando superior, que lo ejercerá el Subsecretario de Operación Policial respecto de la corporación policial, denominada Fuerza Coahuila y el Director General de la Policía Investigadora, respecto de la Policía Investigadora de la Fiscalía General;
 
 IV. Mandos operativos, que los tendrán los Directores de División o unidades equivalentes en los municipios; y
 
@@ -1443,7 +1529,9 @@ Cuando elementos de diversas corporaciones policiales conozcan de un mismo hecho
 
 Función de custodia
 
-Los agentes de seguridad, custodia y traslado de los centros de reinserción social, de internamiento para adolescentes y de vigilancia de audiencias judiciales, además de las obligaciones establecidas en la ley, tendrán las obligaciones y deberes siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PARRÁFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Los agentes de seguridad, custodia, guías técnicos y traslado de los centros de reinserción social, de internamiento para adolescentes y de vigilancia de audiencias judiciales, además de las obligaciones establecidas en la ley, tendrán las obligaciones y deberes siguientes:
 
 I. Mantener estrictamente vigilados dichos establecimientos a fin de garantizar la seguridad, el orden y la tranquilidad, de conformidad con las disposiciones aplicables;
 
@@ -1705,7 +1793,9 @@ El ingreso es el proceso de integración de los candidatos a la estructura insti
 
 Requisitos de ingreso al servicio profesional de carrera
 
-El ingreso al servicio profesional de carrera será de carácter obligatorio para el personal de las instituciones, de acuerdo a la Ley General, Ley Estatal, Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza, Ley Orgánica de la Comisión Estatal de Seguridad del Estado de Coahuila de Zaragoza, el Programa Rector y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El ingreso al servicio profesional de carrera será de carácter obligatorio para el personal de las instituciones, de acuerdo a la Ley General, Ley Estatal, Ley Orgánica de la Fiscalía General del Estado de Coahuila de Zaragoza, Reglamento Interior de la Secretaría de Seguridad Pública, el Programa Rector y demás ordenamientos aplicables.
 
 Los aspirantes a ingresar a las instituciones de seguridad pública, deberán cumplir, cuando menos, con los requisitos siguientes:
 
@@ -1797,7 +1887,9 @@ La institución de seguridad pública de que se trate expedirá las constancias 
 
 Designación especial
 
-Tratándose de personas con amplia experiencia profesional, el Procurador o el Secretario de Gobierno, de conformidad con las disposiciones aplicables, podrán, en casos excepcionales, llevar a cabo la designación especial de servidores públicos.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de personas con amplia experiencia profesional, el Fiscal General o el Secretario de Seguridad, de conformidad con las disposiciones aplicables, podrán, en casos excepcionales, llevar a cabo la designación especial de servidores públicos.
 
 Se entiende por designación especial, el nombramiento que se hace de los elementos antes señalados, dispensando la convocatoria y procesos de selección siempre que se cumplan los requisitos de ingreso.
 
@@ -3099,9 +3191,13 @@ Los municipios solo podrán celebrar convenios con el Centro de Profesionalizaci
 
 Definición
 
-El Centro de Comunicaciones, Cómputo, Control y Comando es una unidad administrativa adscrita a la CES encargada de implementar, administrar y desarrollar las herramientas tecnológicas aplicadas a la seguridad pública; así como proveer su uso a favor de las instituciones y corporaciones autorizadas en beneficio de la comunidad, comprenderá también el registro, atención y despacho de las llamadas al Sistema de Emergencia y Denuncia Anónima.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-El Centro de Comunicaciones, Cómputo, Control y Comando deberá de coordinarse en la ejecución de sus funciones con las instituciones de seguridad pública, protección civil, y demás autoridades que intervienen en la atención de emergencias, correspondiendo el mando operativo a la Comisión.
+El Centro de Comunicaciones, Cómputo, Control y Comando es una unidad administrativa adscrita a la Secretaría de Seguridad encargada de implementar, administrar y desarrollar las herramientas tecnológicas aplicadas a la seguridad pública; así como proveer su uso a favor de las instituciones y corporaciones autorizadas en beneficio de la comunidad, comprenderá también el registro, atención y despacho de las llamadas al Sistema de Emergencia y Denuncia Anónima.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+El Centro de Comunicaciones, Cómputo, Control y Comando deberá de coordinarse en la ejecución de sus funciones con las instituciones de seguridad pública, protección civil, y demás autoridades que intervienen en la atención de emergencias, correspondiendo el mando operativo a la Secretaría de Seguridad.
 
 ###### Artículo 204.
 
@@ -3133,7 +3229,9 @@ IV. Demás información y bases de datos que determinen los lineamientos del Cen
 
 De la unidad administrativa del Sistema Estatal de Información
 
-La CES a través de la unidad administrativa del Sistema Estatal de Información será responsable de la operación de las bases de datos que integran el Sistema Estatal de Información.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Seguridad a través de la unidad administrativa del Sistema Estatal de Información será responsable de la operación de las bases de datos que integran el Sistema Estatal de Información.
 
 ###### Artículo 207.
 
@@ -3143,9 +3241,13 @@ Todas las unidades administrativas de las instituciones de seguridad pública de
 
 Están igualmente obligadas a proporcionar información al Sistema Estatal de Información las siguientes autoridades:
 
-I. La Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. La Procuraduría;
+I. La Secretaría de Seguridad;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+II. La Fiscalía General;
 
 III. La Secretaría de Finanzas;
 
@@ -3181,7 +3283,7 @@ Modificación o eliminación de registros en el sistema nacional y estatal de in
 
 Para la modificación o eliminación de información dentro de los registros del Sistema Nacional y Estatal de Información se sujetará a lo dispuesto por los lineamientos que para tal efecto emita el Sistema Nacional, el Consejo Estatal y demás ordenamientos aplicables.
 
-#### SECCIÓN II. REGISTRO ESTATAL DE PERSONAL
+#### SECCIÓN I. REGISTRO ESTATAL DE DETENIDOS
 
 ###### Artículo 212.
 
@@ -3245,7 +3347,7 @@ Empleo de los datos
 
 Los datos integrados al Registro de Detenidos constituirán la plataforma para archivar, preservar, utilizar, enviar o recibir la información de los detenidos con el fin de dar cumplimiento a lo dispuesto en los artículos 112 y 114 de la Ley General.
 
-#### SECCIÓN III. HOJA DE SERVICIOS
+#### SECCIÓN II. REGISTRO ESTATAL DE PERSONAL
 
 ###### Artículo 218.
 
@@ -3347,7 +3449,7 @@ Sanciones a las empresas de seguridad por la omisión de consultar
 
 Las empresas y las personas físicas autorizadas a prestar servicios de seguridad privada, que omitan consultar previamente los registros a través de la unidad del Sistema Estatal de Información o que no cumplan con los requisitos de ingreso para dar de alta a una persona, serán sancionadas en los términos previstos por la normatividad aplicable.
 
-#### SECCIÓN IV. REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO
+#### SECCIÓN III. HOJA DE SERVICIOS
 
 ###### Artículo 229.
 
@@ -3384,6 +3486,8 @@ IX. Los procesos penales a que hubieren quedado sujetos, con expresión del sent
 X. Todos los demás datos que se consideren de relevancia o trascendencia para las instituciones de seguridad pública.
 
 En cualquier momento, el integrante de las instituciones de seguridad pública podrá solicitar la actualización de su hoja de servicios y una copia de ella.
+
+#### SECCIÓN IV. REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO
 
 ###### Artículo 231.
 
@@ -3487,7 +3591,9 @@ Para mejorar el servicio de seguridad pública, los órganos del Sistema Estatal
 
 Cultura de la denuncia
 
-Sin menoscabo de lo previsto por el artículo 20 de la Constitución Federal y las leyes aplicables, el Estado, por conducto de la Procuraduría, establecerá programas y acciones para fomentar la cultura de la denuncia.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Sin menoscabo de lo previsto por el artículo 20 de la Constitución Federal y las leyes aplicables, el Estado, por conducto de la Fiscalía General, establecerá programas y acciones para fomentar la cultura de la denuncia.
 
 ## TÍTULO SEXTO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
@@ -3497,7 +3603,9 @@ Sin menoscabo de lo previsto por el artículo 20 de la Constitución Federal y l
 
 Naturaleza
 
-La CES a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada, en los casos en que se requiera y convenga al interés general, podrá autorizar o negar la prestación de servicios de seguridad privada a cargo de particulares.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Seguridad a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada, en los casos en que se requiera y convenga al interés general, podrá autorizar o negar la prestación de servicios de seguridad privada a cargo de particulares.
 
 ###### Artículo 244.
 
@@ -3509,7 +3617,9 @@ Los servicios de seguridad privada tienen por objeto la protección, vigilancia 
 
 Facultades en materia de seguridad privada
 
-La CES a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada, respecto a los servicios de seguridad privada, tendrá las siguientes facultades:
+> <small>(REFORMADO [N. DE E. ESTE PARRÁFO], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Seguridad a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada, respecto a los servicios de seguridad privada, tendrá las siguientes facultades:
 
 I. Autorizar a las personas físicas o morales la prestación de servicios de seguridad privada en la entidad;
 
@@ -3553,9 +3663,13 @@ Las autorizaciones que se otorguen serán personales e intransferibles y tendrá
 
 Revalidación
 
-Para la revalidación de la autorización, el interesado deberá presentar la solicitud correspondiente, a más tardar treinta días hábiles previos a la conclusión de la vigencia de la autorización respectiva, anexando el formato que para tal efecto le sea proporcionado por la propia CES a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada, así como la constancia de actualización de la fianza original de conformidad con lo establecido en la normatividad aplicable.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-La CES a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada deberá notificar al interesado dentro de los diez días hábiles anteriores a la fecha fijada para la conclusión de la vigencia de la autorización, en el caso en que no se hayan iniciado trámites para su revalidación.
+Para la revalidación de la autorización, el interesado deberá presentar la solicitud correspondiente, a más tardar treinta días hábiles previos a la conclusión de la vigencia de la autorización respectiva, anexando el formato que para tal efecto le sea proporcionado por la propia Secretaría de Seguridad a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada, así como la constancia de actualización de la fianza original de conformidad con lo establecido en la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Seguridad a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada deberá notificar al interesado dentro de los diez días hábiles anteriores a la fecha fijada para la conclusión de la vigencia de la autorización, en el caso en que no se hayan iniciado trámites para su revalidación.
 
 Transcurrida la vigencia de la autorización o su revalidación el interesado deberá abstenerse de prestar el servicio de seguridad privada, hasta en tanto sea expedido un nuevo acto administrativo que lo autorice para tal efecto.
 
@@ -3567,7 +3681,9 @@ Autorizaciones federales
 
 Las personas físicas y morales que tengan autorización federal para la prestación del servicio de seguridad privada, deberán de tramitar y obtener la autorización estatal e inscribirse en el Registro Estatal de Empresas de Seguridad Privada, salvo que únicamente presten sus servicios en espacios de jurisdicción federal, en cuyo caso sólo deberán de cumplir con el requisito de la inscripción.
 
-En todos los casos, la CES a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada será la autoridad competente para supervisar que en la prestación del servicio de seguridad privada se respeten los requisitos y condiciones de las autorizaciones, y las normas legales y técnicas aplicables.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+En todos los casos, la Secretaría de Seguridad a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada será la autoridad competente para supervisar que en la prestación del servicio de seguridad privada se respeten los requisitos y condiciones de las autorizaciones, y las normas legales y técnicas aplicables.
 
 ###### Artículo 251.
 
@@ -3683,7 +3799,9 @@ IV. Cancelación de la autorización y/o clausura definitiva del establecimiento
 
 Autoridad competente
 
-La CES a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada podrá imponer cualquiera de las sanciones administrativas señaladas en las fracciones anteriores y, en cualquier caso, procederá al apercibimiento respectivo.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Seguridad a través de la Dirección General de Registro y Control de los Servicios de Seguridad Privada podrá imponer cualquiera de las sanciones administrativas señaladas en las fracciones anteriores y, en cualquier caso, procederá al apercibimiento respectivo.
 
 En el caso de las multas se girará oficio a la Secretaría de Finanzas a fin de que se hagan efectivas en el procedimiento económico coactivo. Tratándose de la prohibición del servicio, suspensiones y cancelaciones, se harán del conocimiento al infractor para que se cumplan en sus términos, inscribiendo ello en el Registro Estatal de Empresas de Seguridad Privada; así mismo deberá de comunicarse la sanción impuesta al integrante de la empresa de seguridad privada para que se inscriba en el Registro Estatal de Personal.
 
@@ -3806,3 +3924,51 @@ P.O. 24 DE OCTUBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Las autoridades penitenciarias en el ámbito de sus atribuciones realizarán las acciones tendientes a las modificaciones en los Reglamentos interiores de los Centros Penitenciarios y Centros de Internamiento Especializados en Adolescentes.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E.TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE “SE REFORMAN LAS FRACCIONES VI, VII, VIII, XIX, XXIV Y XXV DEL ARTÍCULO 2; EL ARTÍCULO 4; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10; EL ARTÍCULO 13; EL PRIMER PÁRRAFO DEL ARTÍCULO 15; LA FRACCIÓN I DEL ARTÍCULO 16; EL PRIMER PÁRRAFO DEL ARTÍCULO 18; LAS FRACCIONES IV, V Y IX DEL ARTÍCULO 28; LA FRACCIÓN VI DEL ARTÍCULO 39; LA DENOMINACIÓN DE LA SECCIÓN II DEL CAPÍTULO III TÍTULO SEGUNDO DEL LIBRO PRIMERO; EL PRIMER PÁRRAFO DEL ARTÍCULO 41; LA DENOMINACIÓN DE LA SECCIÓN III DEL CAPÍTULO III TÍTULO SEGUNDO DEL LIBRO PRIMERO; EL PRIMER PÁRRAFO DEL ARTÍCULO 42; EL NUMERAL 1 DE LA FRACCIÓN IV DEL ARTÍCULO 44; EL ARTÍCULO 47; LAS FRACCIONES I Y II DEL ARTÍCULO 54; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 64; LAS FRACCIONES V Y VI DEL ARTÍCULO 68; EL INCISO A) Y EL SEGUNDO PÁRRAFO DEL INCISO C) DE LA FRACCIÓN I Y EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 76; LAS FRACCIONES II Y III DEL ARTÍCULO 80; EL PRIMER PÁRRAFO DEL ARTÍCULO 84; EL PRIMER PÁRRAFO DEL ARTÍCULO 103; EL PRIMER PÁRRAFO DEL ARTÍCULO 105; EL ARTÍCULO 203; EL ARTÍCULO 206; LAS FRACCIONES I Y II DEL ARTÍCULO 207; LOS ARTICULO (SIC) 242 Y 243; EL PRIMER PÁRRAFO DEL ARTÍCULO 245; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 249; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 250 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 259; SE ADICIONA LA SECCIÓN I-A AL CAPÍTULO III DEL TÍTULO SEGUNDO LIBRO PRIMERO; SE ADICIONA EL ARTÍCULO 39-A, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, la papelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
