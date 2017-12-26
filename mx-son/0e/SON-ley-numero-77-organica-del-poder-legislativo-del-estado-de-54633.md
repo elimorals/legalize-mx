@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2017-05-11"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -827,9 +827,13 @@ Las comisiones de dictamen legislativo tienen las siguientes atribuciones:
 
 I.- Recibir, analizar, estudiar, discutir y dictaminar los asuntos que les turne el pleno del Congreso del Estado;
 
-II.- Elaborar su programa de trabajo, de acuerdo a la agenda legislativa del Congreso del Estado;
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III.- Elaborar y enviar su informe anual de actividades a la Comisión de Régimen Interno y Concertación Política, dentro del mes de agosto de cada año;
+II.- Elaborar su programa de trabajo, de acuerdo a la agenda legislativa del Congreso del Estado, considerando la vinculación con organizaciones de la sociedad civil;
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III.- Elaborar y enviar su informe anual de actividades a la Comisión de Régimen Interno y Concertación Política, dentro del mes de septiembre de cada año;
 
 IV.- Presentar al pleno del Congreso del Estado los dictámenes e informes y demás documentos relativos a los asuntos que les son turnados o remitidos;
 
@@ -837,13 +841,37 @@ IV.- Presentar al pleno del Congreso del Estado los dictámenes e informes y dem
 
 V.- Invitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, a los titulares de las distintas dependencias o entidades federales, estatales o municipales, en los casos en que su presencia sea necesaria para el adecuado desempeño de sus atribuciones;
 
-> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VI.- Solicitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, oficialmente a cualquier dependencia o funcionario del Estado o municipios, de acuerdo a la normatividad correspondiente, copias certificadas o informe documental que estime necesarios para el mejor despacho de los asuntos. La omisión, negativa o imprecisión de la información y documentos solicitados, en un plazo razonable de acuerdo a la naturaleza del caso, motivará que la comisión, por conducto del Presidente del Congreso del Estado, lo haga del conocimiento del Gobernador del Estado o Ayuntamiento respectivo, para los efectos legales correspondientes; y
+VI.- Solicitar, por conducto de la presidencia de la Mesa Directiva o de la Diputación Permanente, según sea el caso, oficialmente a cualquier dependencia o funcionario del Estado o municipios, de acuerdo a la normatividad correspondiente, copias certificadas o informe documental que estime necesarios para el mejor despacho de los asuntos. La omisión, negativa o imprecisión de la información y documentos solicitados, en un plazo razonable de acuerdo a la naturaleza del caso, motivará que la comisión, por conducto del Presidente del Congreso del Estado, lo haga del conocimiento del Gobernador del Estado o Ayuntamiento respectivo, para los efectos legales correspondientes;
 
-> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VII.- Emitir su opinión ante la Comisión de Fiscalización, en el ámbito de su competencia, sobre el cumplimiento de metas y aspectos presupuestales contenidos en los Estados Financieros trimestrales y las cuentas públicas de los entes públicos sujetos a la Ley de Fiscalización.
+VII.- Emitir su opinión ante la Comisión de Fiscalización, en el ámbito de su competencia, sobre el cumplimiento de metas y aspectos presupuestales contenidos en los Estados Financieros trimestrales y las cuentas públicas de los entes públicos sujetos a la Ley de Fiscalización;
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Integrar a solicitud de la mayoría de los integrantes de la comisión de dictamen legislativo, un consejo técnico consultivo con los perfiles más adecuados, para asesorar de forma honoraria en las temáticas que se le soliciten; y
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IX.- Realizar a través del presidente o presidenta de la comisión de dictamen legislativo, mesas de trabajo con corporaciones, organizaciones ciudadanas, asociaciones civiles, académicos y demás que lo soliciten, debiendo para ello, generar una minuta de los acuerdos tratados e informar a los demás miembros de la comisión en caso de que no se encuentren presentes.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 94 BIS I.- Las corporaciones, organizaciones, asociaciones civiles, así como cualquier ciudadano que resida en el Estado de Sonora, podrá presentar ponencias por escrito, sobre las iniciativas de ley, decretos y demás asuntos de interés público que se discutan en las comisiones de dictamen legislativo, sin que estas tengan un efecto vinculante en el proceso.
+
+Las ponencias por escrito podrán publicarse en la página oficial del Congreso de Sonora.
+
+En caso de que dicha ponencia resulte de suma importancia para un proceso de dictamen, el ponente podrá ser citado por el presidente o presidenta de la comisión para exponer su ponencia de forma presencial.
+
+Si alguno de los integrantes de la comisión dictaminadora considera pertinente incluir todo o parte de la propuesta ciudadana, podrá solicitar la votación de los integrantes y a solicitud de la mayoría puede ser incluida.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 94 BIS II.- Las corporaciones, organizaciones, asociaciones civiles, así como cualquier ciudadano que resida en el Estado de Sonora, podrán solicitar que se le notifique de forma electrónica, sobre los asuntos que son turnados a las comisiones de dictamen legislativo, debiendo para ello, registrarse adecuadamente y respetar los lineamientos que se expidan en la materia.
+
+En caso de que el presidente o presidenta de alguna comisión de dictamen legislativo, decida iniciar una discusión abierta en lo que respecta a un dictamen, podrá solicitar previo acuerdo de la comisión de régimen interno y concertación política, que se publique el dictamen a discutirse con al menos una semana de anticipación a la discusión del asunto.
 
 ###### ARTÍCULO 95.
 
@@ -2927,11 +2955,17 @@ El Instituto Superior de Auditoría y Fiscalización transferirá al patrimonio 
 
 Asimismo, el Instituto Superior de Auditoría y Fiscalización transferirá al patrimonio del Congreso del Estado, lo que resta de los recursos económicos que tiene autorizado el Centro de Investigaciones Parlamentarias del Estado de Sonora para el presente ejercicio fiscal.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 216 Y ADICIONA EL ARTÍCULO 216 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT".]
+B.O. 26 DE DICIEMBRE DE 2017.
 
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 179, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 3 DE JUNIO DE 2019.
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entra en vigor al día siguiente de su publicación en el Boletín Oficial de (sic) Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado de Sonora contará con un plazo de 60 días para elaborar los lineamientos y demás disposiciones administrativas en el cumplimiento de este decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 308 Y UN TERCER PÁRRAFO AL ARTÍCULO 373 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
 
