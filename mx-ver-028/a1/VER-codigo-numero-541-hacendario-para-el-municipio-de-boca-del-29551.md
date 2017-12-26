@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2017-11-23"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ-LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -2745,7 +2745,7 @@ Popular 0.2
 
 > <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
 
-II. . Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.016 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.016 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
 
 Aquellos contribuyentes que opten por el pago anual recibirán un descuento del diez por ciento.
 
@@ -4741,6 +4741,8 @@ Los actos de planeación, programación, adquisición, almacenaje, control, dest
 
 ### CAPÍTULO III. DEL INVENTARIO
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 444.
 
 Son atribuciones del Ayuntamiento, respecto a sus bienes, las siguientes:
@@ -4773,9 +4775,9 @@ XII. Las demás que les señalen la Constitución, el presente Código y demás 
 
 ###### Artículo 445.
 
-El Municipio formará un inventario valorado de todos sus bienes y derechos, que contendrá los datos de identificación física, antecedentes jurídicos y administrativos, de los bienes municipales.
+El municipio actualizará cada año, en el mes de enero, un inventario general y avalúo de los bienes que conforman el patrimonio municipal de cualquiera naturaleza que sean. El avalúo deberá ser practicado por peritos que cuenten con cédula profesional, instituciones de crédito, agentes especializados o corredores públicos, y deberá consignar, al menos, el valor comercial y el de realización inmediata. Concurrirán a su formulación el presidente municipal, la Comisión de Hacienda y Patrimonio Municipal y el tesorero.
 
-El inventario será formulado por el Síndico y aprobado por el Cabildo.
+El inventario y el avalúo se extenderán por triplicado, y quedará un ejemplar en el archivo municipal, uno en la tesorería y el otro se remitirá al Congreso del Estado.
 
 ###### Artículo 446.
 
@@ -5202,3 +5204,11 @@ G.O. 23 DE NOVIEMBRE DE 2017.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
