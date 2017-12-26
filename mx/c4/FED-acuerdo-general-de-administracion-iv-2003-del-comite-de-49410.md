@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-iv-2003-del-comite-de-49410"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-04-14"
-last_updated: "2003-09-12"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2003-03-17"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION IV/2003 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE CREAN LA SECRETARIA DE FINANZAS Y LA SECRETARIA DE ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y SE ESTABLECEN SUS FACULTADES]
 
-ACUERDO GENERAL DE ADMINISTRACION IV/2003, DEL DIECISIETE DE MARZO DE DOS MIL TRES, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE CREAN LA SECRETARIA DE FINANZAS Y LA SECRETARIA DE ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION Y SE ESTABLECEN SUS FACULTADES
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO GENERAL DE ADMINISTRACION X/2003, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, PUBLICADO EN EL D.O.F. DE 12 DE SEPTIEMBRE DE 2003, DESAPARECEN LAS SECRETARIAS DE FINANZAS Y DE ADMINISTRACION; LAS COORDINACIONES GENERALES DE PRESUPUESTO Y CONTABILIDAD, DE COMPILACION Y SISTEMATIZACION DE TESIS Y DE COMUNICACION SOCIAL; Y, LAS DIRECCIONES GENERALES DE MANTENIMIENTO E INTENDENCIA, DE CONTABILIDAD, DE PROGRAMA Y PRESUPUESTO Y DE RECURSOS HUMANOS.</small>
+ACUERDO GENERAL DE ADMINISTRACIÓN IV/2003, DEL DIECISIETE DE MARZO DE DOS MIL TRES, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE CREAN LA SECRETARÍA DE FINANZAS Y LA SECRETARÍA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y SE ESTABLECEN SUS FACULTADES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE SEPTIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 14 de abril de 2003.
 
@@ -88,3 +88,19 @@ CUARTO. Lo no previsto en este acuerdo en relación con la estructura administra
 QUINTO. A partir de la entrada en vigor de este Acuerdo desaparecen las Secretarías de Finanzas y de Administración, creadas en el Acuerdo General de Administración IV/2003; las Coordinaciones Generales de Presupuesto y Contabilidad, de Compilación y Sistematización de Tesis y de Comunicación Social; y, las Direcciones Generales de Mantenimiento e Intendencia, de Contabilidad, de Programa y Presupuesto y de Recursos Humanos.
 
 SEXTO. Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta, así como en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
+
+> <small>[N. DE E. VÉASE ANEXO DE INSTRUMENTOS ABROGADOS EN LA PRIMERA SECCIÓN DEL D.O.F. DE 26 DE DICIEMBRE DE 2017, PÁGINAS DE LA 67 A LA 77.]</small>
