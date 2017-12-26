@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-social-para-el-estado-de-coahuila-de-52277"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-27"
-last_updated: "2017-01-24"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2006.
 
@@ -796,3 +796,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación (sic)
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1181.- SE EXPIDE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley de Desarrollo Social para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado N° 86, primera sección, de fecha 27 de (sic) mes de octubre de (sic) año 2006 y sus reformas.
+
+TERCERO.- La Secretaría elaborará el programa sectorial en un plazo de 90 días a partir de la publicación del Plan Estatal de Desarrollo.
+
+CUARTO.- La Comisión Estatal de Desarrollo Social, deberá instalarse dentro de los sesenta días a partir de la entrada en vigor de la presente ley, su reglamento interno deberá ser aprobado dentro de los 30 días siguientes a su instalación.
+
+QUINTO.- El Consejo Consultivo, a (sic) deberá instalarse dentro de los sesenta días a partir de la entrada en vigor de la presente ley, su reglamento interno deberá ser aprobado dentro de los 30 días siguientes a su instalación.
