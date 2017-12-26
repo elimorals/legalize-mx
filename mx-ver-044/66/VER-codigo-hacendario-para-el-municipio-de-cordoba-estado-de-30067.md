@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-para-el-municipio-de-cordoba-estado-de-30067"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-18"
-last_updated: "2015-12-31"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "VER"
 ---
 # CODIGO HACENDARIO PARA EL MUNICIPIO DE CORDOBA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE CÓRDOBA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el día viernes 21 de marzo de 2003.
 
@@ -46,6 +48,8 @@ HACENDARIO PARA EL MUNICIPIO DE CÓRDOBA, ESTADO DE VERACRUZ DE IGNACIO DE LA LL
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 620 POR EL QUE SE REFORMA EL ARTÍCULO 380 DEL CÓDIGO NÚMERO 542 HACENDARIO PARA EL MUNICIPIO DE CÓRDOBA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 26 DE DICIEMBRE DE 2017.
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
@@ -769,11 +773,11 @@ IX. Mostrar, a solicitud de la autoridad municipal, la cédula de empadronamient
 
 X. Devolver para su cancelación la cédula o documento de empadronamiento en caso de clausura, cese de actividades, cambio de giro, de nombre o razón social, de domicilio o traspaso, en el momento en que dichas circunstancias sean comunicadas a la autoridad municipal;
 
-X. Dar aviso a la Tesorería, en el término de treinta días hábiles posteriores, respecto del cese de actividades o de funcionamiento definitivo de su negociación, para su anotación correspondiente en el padrón fiscal del Municipio;
+XI. Dar aviso a la Tesorería, en el término de treinta días hábiles posteriores, respecto del cese de actividades o de funcionamiento definitivo de su negociación, para su anotación correspondiente en el padrón fiscal del Municipio;
 
-XI. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
+XII. Liquidar, retener y enterar ingresos municipales, en los casos previstos en las leyes fiscales; y
 
-XII. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
+XIII. Las demás que dispongan este Código, las leyes, reglamentos y ordenamientos aplicables.
 
 ###### Artículo 62.
 
@@ -865,7 +869,9 @@ Las autoridades fiscales, a fin de determinar la existencia del crédito fiscal,
 
 I. Revisar las bases de datos y los padrones fiscales;
 
-II. Autorizar la verificación o comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y terceros relacionados con ellos, conforme a las disposiciones fiscales; III. Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, así como comprobar el cumplimiento de sus obligaciones, de conformidad con las disposiciones fiscales municipales;
+II. Autorizar la verificación o comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y terceros relacionados con ellos, conforme a las disposiciones fiscales;
+
+III. Revisar las declaraciones de los contribuyentes, responsables solidarios y demás obligados, así como comprobar el cumplimiento de sus obligaciones, de conformidad con las disposiciones fiscales municipales;
 
 IV. Determinar y ordenar el cobro a los contribuyentes, responsables solidarios y demás obligados, de las diferencias por errores aritméticos en las declaraciones y por el pago en parcialidades de las contribuciones, tanto de las derivadas de la aplicación de disposiciones fiscales previstas en este ordenamiento, como las de naturaleza federal cuando actúen en los términos de los convenios de coordinación fiscal federal;
 
@@ -1105,7 +1111,7 @@ VI. Coadyuvar con los infractores, en cualquier forma, en la evasión total o pa
 
 Son infracciones cuya responsabilidad recae en los servidores públicos, las siguientes:
 
-I: Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó la contribución correspondiente;
+I. Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó la contribución correspondiente;
 
 II. Recibir el pago de una prestación fiscal y no enterar su importe de inmediato;
 
@@ -1602,8 +1608,6 @@ Si existiere algún crédito por concepto de contribuciones por mejoras a favor 
 ###### Artículo 136.
 
 El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada, la tasa del uno por ciento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, G.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2630,8 +2634,6 @@ Medio 24
 Interés Social 0
 
 Popular 0
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, G.O. 7 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4035,9 +4037,7 @@ III. Costo total de la obra que incluirá los siguientes conceptos:
 
 a) Importe del anteproyecto y del proyecto;
 
-b) Importe de materiales, mano de obra e indirectos a erogar con motivo de la ejecución material
-
-de la obra;
+b) Importe de materiales, mano de obra e indirectos a erogar con motivo de la ejecución material de la obra;
 
 c) Gastos por financiamiento, en su caso;
 
@@ -4053,9 +4053,7 @@ c) Recuperaciones por venta de excedentes de bienes inmuebles expropiados;
 
 V. Costo neto;
 
-VI. Relación de bienes inmuebles afectados o beneficiados, señalando su propietario o poseedor,
-
-así como la fuente de información;
+VI. Relación de bienes inmuebles afectados o beneficiados, señalando su propietario o poseedor, así como la fuente de información;
 
 VII. Relación de metros cuadrados de superficie por predio y su fuente de información;
 
@@ -4211,9 +4209,7 @@ XI. Presentar al Ayuntamiento, dentro de los primeros quince días de cada mes, 
 
 XII. Proporcionar todos los informes que el Ayuntamiento o alguno de los ediles le solicite;
 
-XIII. Proponer al Presidente el nombramiento o remoción de los servidores públicos y empleados
-
-de la Tesorería;
+XIII. Proponer al Presidente el nombramiento o remoción de los servidores públicos y empleados de la Tesorería;
 
 XIV. Proponer al Cabildo, para su aprobación, el Reglamento Interior de la Tesorería; y
 
@@ -5595,11 +5591,13 @@ XII. Las demás que les señalen la Constitución, el presente Código y demás 
 
 ### CAPÍTULO III. DEL INVENTARIO
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 447.
 
-El Municipio formará un inventario valorado de todos sus bienes y derechos, que contendrá los datos de identificación física, antecedentes jurídicos y administrativos, de los bienes municipales.
+El municipio actualizará cada año, en el mes de enero, un inventario general y avalúo de los bienes que conforman el patrimonio municipal de cualquiera naturaleza que sean. El avalúo deberá ser practicado por peritos que cuenten con cédula profesional, instituciones de crédito, agentes especializados o corredores públicos, y deberá consignar, al menos, el valor comercial y el de realización inmediata. Concurrirán a su formulación el presidente municipal, la Comisión de Hacienda y Patrimonio Municipal y el tesorero.
 
-El inventario será formulado por el Síndico y aprobado por el Cabildo.
+El inventario y el avalúo se extenderán por triplicado, y quedará un ejemplar en el archivo municipal, uno en la tesorería y el otro se remitirá al Congreso del Estado.
 
 ###### Artículo 448.
 
@@ -5887,6 +5885,22 @@ CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, 
 
 QUINTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
 
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+SEXTO.- Se autoriza al H. Ayuntamiento de Córdoba, Veracruz de Ignacio de la Llave, para que a partir de la publicación del presente Decreto en la Gaceta Oficial del Estado y hasta el 31 de diciembre de 2018, únicamente para efectos de trámites de traslación de dominio de bienes inmuebles, considere como valor catastral el resultante de incrementar un 33 por ciento de la diferencia resultante de comparar el valor catastral vigente a la fecha del trámite, con el valor catastral vigente al 31 de diciembre de 2016.
+
+El valor resultante se consignará en las cédulas catastrales y certificados de valor catastral expedidos por el área de catastro municipal y con base en dicho valor se determinará el impuesto sobre traslación de dominio de bienes inmuebles durante el período referido en el primer párrafo del presente artículo.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+SÉPTIMO.- Se autoriza al H. Ayuntamiento de Córdoba, Veracruz de Ignacio de la Llave, para que en el período comprendido del 1° de enero al 31 de diciembre de 2019, únicamente para efectos de trámites de traslación de dominio de bienes inmuebles, considere como valor catastral el resultante de incrementar un 66 por ciento de la diferencia resultante de comparar el valor catastral vigente a la fecha del trámite, con el valor catastral vigente al 31 de diciembre de 2016.
+
+El valor resultante se consignará en las cédulas catastrales y certificados de valor catastral expedidos por el área de catastro municipal y con base en dicho valor se determinará el impuesto sobre traslación de dominio de bienes inmuebles durante el período referido en el primer párrafo del presente artículo.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+OCTAVO.- A partir del 1° de enero del año 2020, para efectos del trámite de traslación de dominio de bienes inmuebles, se considerará el valor catastral que se encuentre vigente, conforme a los valores catastrales unitarios de suelo y construcciones aprobados por este Congreso.
+
 DADO EN EL SALÓN DE SESIONES DE LA H. LIX LEGISLATURA DEL CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ, A LOS TREINTA DÍAS DEL MES DE ENERO DEL AÑO DOS MIL TRES.
 
 FELIPE AMADEO FLORES ESPINOSA, DIPUTADO PRESIDENTE.- RÚBRICA. NATALIO ALEJANDRO ARRIETA CASTILLO, DIPUTADO SECRETARIO.- RÚBRICA.
@@ -5946,3 +5960,17 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 G.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 602 POR EL QUE SE ADICIONAN TRES ARTÍCULOS TRANSITORIOS AL CÓDIGO HACENDARIO 542 PARA EL MUNICIPIO DE CÓRDOBA, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
