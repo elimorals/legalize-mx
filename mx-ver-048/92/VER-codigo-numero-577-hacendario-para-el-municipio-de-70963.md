@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-hacendario-para-el-municipio-de-70963"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-11-04"
-last_updated: "2015-12-31"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 4 de noviembre de 2009.
 
@@ -2691,7 +2691,7 @@ Popular 0.2
 
 > <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-II. . Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.016 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.016 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -2961,11 +2961,11 @@ V. Por la autorización de programas especiales de Protección Civil que se pres
 
 Aforo del evento:
 
-De 1 a 1 ,000 asistentes: 40
+De 1 a 1,000 asistentes: 40
 
 De 1,001 a 5,000 asistentes: 60
 
-De 5;001 a 10,000 asistentes: 80
+De 5,001 a 10,000 asistentes: 80
 
 De 10,001 en adelante: 90
 
@@ -3895,7 +3895,7 @@ I. Estados Financieros, que comprenderán Balance General, Estado de Resultados 
 
 II. Estados Contables, que incluirán Balanzas de Comprobación, Auxiliares de Cuentas Colectivas de Balance y Resultado y Conciliaciones Bancarias;
 
-III. Estados Presupuestarios, que consistirán en Estado Condensado de Ingresos, Estado Condensado de Egresos, Estado Analítico de Ingresos, Estado Analítico de Egresos, Estado de Avance Presupuestal y Estados Programáticos ;
+III. Estados Presupuestarios, que consistirán en Estado Condensado de Ingresos, Estado Condensado de Egresos, Estado Analítico de Ingresos, Estado Analítico de Egresos, Estado de Avance Presupuestal y Estados Programáticos;
 
 IV. Estado de Deuda Pública; y
 
@@ -4595,11 +4595,13 @@ XII. Las demás que les señalen la Constitución, el presente Código y demás 
 
 ### CAPÍTULO III. Del Inventario
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 445.
 
-El Municipio formará un inventario valorado de todos sus bienes y derechos, que contendrá los datos de identificación física, antecedentes jurídicos y administrativos, de los bienes municipales.
+El municipio actualizará cada año, en el mes de enero, un inventario general y avalúo de los bienes que conforman el patrimonio municipal de cualquiera naturaleza que sean. El avalúo deberá ser practicado por peritos que cuenten con cédula profesional, instituciones de crédito, agentes especializados o corredores públicos, y deberá consignar, al menos, el valor comercial y el de realización inmediata. Concurrirán a su formulación el presidente municipal, la Comisión de Hacienda y Patrimonio Municipal y el tesorero.
 
-El inventario será formulado por el Síndico y aprobado por el Cabildo.
+El inventario y el avalúo se extenderán por triplicado, y quedará un ejemplar en el archivo municipal, uno en la tesorería y el otro se remitirá al Congreso del Estado.
 
 ###### Artículo 446.
 
@@ -4926,3 +4928,11 @@ G.O. 31 DE DICIEMBRE DE 2015.
 Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
