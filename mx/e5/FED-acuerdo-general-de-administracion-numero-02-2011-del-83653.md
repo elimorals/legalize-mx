@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-02-2011-del-83653"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-11-16"
-last_updated: "2011-11-16"
+last_updated: "2017-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83653&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-11-11"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION NUMERO 02/2011 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE SUPRIME DE LA ESTRUCTURA ORGANICA BASICA ADMINISTRATIVA LA DIRECCION GENERAL DE DESARROLLO INTERINSTITUCIONAL]
 
-ACUERDO GENERAL DE ADMINISTRACION NUMERO 02/2011 DEL CINCO DE SEPTIEMBRE DE DOS MIL ONCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE SUPRIME DE LA ESTRUCTURA ORGANICA BASICA ADMINISTRATIVA LA DIRECCION GENERAL DE DESARROLLO INTERINSTITUCIONAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO Y ANEXO DE INSTRUMENTOS ABROGADOS DEL ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 26 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO 02/2011 DEL CINCO DE SEPTIEMBRE DE DOS MIL ONCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE SUPRIME DE LA ESTRUCTURA ORGÁNICA BÁSICA ADMINISTRATIVA LA DIRECCIÓN GENERAL DE DESARROLLO INTERINSTITUCIONAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 16 de noviembre de 2011.
 
@@ -88,3 +90,19 @@ SEXTO. Publíquese el presente Acuerdo General de Administración en el Semanari
 Así lo acordó y firma el señor Ministro Juan N. Silva Meza, Presidente de la Suprema Corte de Justicia de la Nación, el día cinco de septiembre de dos mil once, ante el Secretario General de Acuerdos que da fe.
 
 EL LICENCIADO MARIO ALBERTO TORRES LOPEZ, DIRECTOR GENERAL DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CON FUNDAMENTO EN LOS ARTICULOS 11, FRACCION X, Y 27, FRACCION III, DEL REGLAMENTO INTERIOR EN MATERIA DE ADMINSITRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION CERTIFICA: Que esta copia del ACUERDO GENERAL DE ADMINISTRACION NUMERO 02/2011 DEL CINCO DE SEPTIEMBRE DE DOS MIL ONCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE SUPRIME DE LA ESTRUCTURA ORGANICA BASICA ADMINISTRATIVA LA DIRECCION GENERAL DE DESARROLLO INTERINSTITUCIONAL, constante de tres fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General y se certifica para la difusión correspondiente.- México, Distrito Federal, a once de noviembre de dos mil once.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+Artículo Primero. Los presentes Lineamientos entrarán en vigor el día hábil siguiente al de su aprobación.
+
+Artículo Segundo. Publíquense los presentes Lineamientos en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el Portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
+
+Artículo Tercero. Se derogan las disposiciones normativas internas que se opongan a lo dispuesto en los presentes Lineamientos.
+
+Artículo Cuarto. Con base en los dictámenes de vigencia y utilidad regulatoria realizados por la Secretaría Jurídica de la Presidencia a todos los instrumentos normativos contenidos en la base de datos de PMRSCJN, se abrogan los instrumentos normativos listados en el anexo respectivo.
+
+Artículo Quinto. Se instruye a la Secretaría Jurídica de la Presidencia a ejecutar una agenda de reformas al sistema normativo interno en materia administrativa, conforme a las prioridades previamente autorizadas por el Presidente de la Suprema Corte de Justicia de la Nación.
