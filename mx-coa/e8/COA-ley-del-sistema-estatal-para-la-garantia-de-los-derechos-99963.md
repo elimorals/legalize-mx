@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2017-11-21"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -333,23 +333,33 @@ II. Secretaría de Gobierno;
 
 III. Secretaría de Cultura;
 
-IV. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. Secretaría de Inclusión y Desarrollo Social;
 
 V. Secretaría de Educación;
 
 VI. Secretaría de Finanzas;
 
-VII. (DEROGADA, P.O. 17 DE MARZO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+VII. Secretaría de Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
 
 VIII. Secretaría de Infraestructura y Transporte;
 
-IX. Secretaría de la Juventud;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-X. Secretaría de Medio Ambiente;
+IX. Instituto Coahuilense de la Juventud;
 
-XI. Secretaría de las Mujeres;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+X. Secretaría de Medio Ambiente y Desarrollo Urbano;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XI. Instituto Coahuilense de las Mujeres;
 
 XII. Secretaría de Salud;
 
@@ -361,7 +371,9 @@ XV. Procuraduría para Niños, Niñas y la Familia
 
 XVI. Secretaría del Trabajo;
 
-XVII. Procuraduría General de Justicia del Estado.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVII. Fiscalía General del Estado;
 
 > <small>(ADICIONADA, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -371,15 +383,17 @@ XVIII. Los Presidentes Municipales.
 
 Formarán parte del Consejo con derecho a voz y voto, cinco personas representantes de la sociedad civil, de las cuales tres serán designadas por organizaciones encargadas de promover o proteger los derecho (sic) humanos en el Estado de Coahuila de Zaragoza, las restantes deberán ser un niño, niña o adolescente conforme a la convocatoria que la persona titular del Poder Ejecutivo emita para tal efecto. Si, durante el tiempo que se establezca, no se realiza designación alguna, este derecho será de la persona que funja como Presidente del Consejo.
 
-Cuando las organizaciones de la sociedad civil propongan a más de tres personas, las dependencias que integran el Consejo harán la designación de los representantes mediante el voto de la mayoría.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Cuando las organizaciones de la sociedad civil propongan a más de tres personas, las dependencias y entidadesque (sic) integran el Consejo harán la designación de los representantes mediante el voto de la mayoría.
 
 ###### Artículo 8.
 
 El Consejo será presidido por la persona titular del Poder Ejecutivo del Estado quien fungirá como Presidente del mismo y tendrá la obligación de incorporar dentro del Plan Estatal de Desarrollo, la política pública que se implementará en el Estado de Coahuila de Zaragoza para garantizar los derechos humanos de niños y niñas.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Así mismo, contará con una Secretaría Ejecutiva que estará a cargo de la Dirección General del DIF.
+Así mismo, contará con una Secretaría Ejecutiva que estará a cargo de la Secretaría de Inclusión y Desarrollo Social.
 
 ###### Artículo 9.
 
@@ -389,7 +403,9 @@ Las personas que sean Presidente Honorario del Consejo Consultivo del Sistema pa
 
 Los servidores públicos integrantes del Consejo podrán designar suplentes. Los suplentes de los servidores públicos con derecho a voto tendrán facultades de decisión en las sesiones del Consejo a las que asistan.
 
-Sólo podrán ser suplentes los servidores públicos que tengan facultades de dirección dentro de la dependencia a la que pertenecen o que conforme a la ley tengan facultades expresas para suplir a la persona titular.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Sólo podrán ser suplentes los servidores públicos que tengan facultades de dirección dentro de la dependencia o entidad a la que pertenecen o que conforme a la ley tengan facultades expresas para suplir a la persona titular.
 
 ###### Artículo 11.
 
@@ -403,11 +419,13 @@ El Consejo tendrá las siguientes facultades:
 
 I. Promover, respetar, garantizar y proteger los derechos humanos reconocidos a favor de niños, niñas y adolescentes de acuerdo al Plan Estatal de Desarrollo mediante la gestión y promoción de programas coordinados entre las dependencias y entidades del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. Aprobar los programas que las dependencias generen a favor de los derechos humanos de niños, niñas y adolescentes;
+II. Aprobar los programas que las dependencias y entidades generen a favor de los derechos humanos de niños, niñas y adolescentes;
 
-III. Evaluar las Políticas Públicas adoptadas que sean de su competencia conforme al informe que presente la Secretaría Técnica y las demás dependencias y entidades que sean requeridas;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+III. Evaluar las Políticas Públicas adoptadas que sean de su competencia conforme al informe que presente la Secretaría Ejecutiva y las demás dependencias y entidades que sean requeridas;
 
 IV. Formar equipos de trabajo para el estudio, planeación y ejecución de las actividades que el Consejo deba desarrollar;
 
@@ -457,7 +475,9 @@ XVII. Las demás que se deriven de leyes o reglamentos.
 
 La Presidencia del Consejo tendrá las siguientes facultades:
 
-I. Convocar a las reuniones ordinarias y extraordinarias del Consejo con el auxilio de la Secretaría Técnica;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+I. Convocar a las reuniones ordinarias y extraordinarias del Consejo con el auxilio de la Secretaría Ejecutiva;
 
 II. Promover, gestionar, impulsar, seguir y evaluar el cumplimiento de los acuerdos tomados en las sesiones del Consejo, en los plazos establecidos y las responsabilidades asignadas;
 
@@ -517,13 +537,15 @@ XIV. Celebrar convenios de coordinación, colaboración y concertación con inst
 
 XV. Las demás inherentes a su cargo, las que le encomiende el Presidente y las establecidas en la Ley General.
 
-Las facultades previstas en las fracciones II a la X del presente artículo las desarrollará la Secretaría Técnica a través de la Unidad de Evaluación y Seguimiento para la Protección de Derechos regulada en el artículo 4 bis de la Ley de Asistencia Social y Protección de Derechos del Estado de Coahuila de Zaragoza.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 15.
 
 Las sesiones del Consejo se sujetarán a las bases siguientes:
 
-I. Serán válidas con la asistencia de la mitad mas uno de las personas que representen a los organismos públicos centralizados, siempre que esté presente su presidente o quién deba suplirlo;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+I. Serán válidas con la asistencia de la mitad más uno de los servidores públicos que lo integren, siempre que esté presente su Presidente o quién deba suplirlo;
 
 II. La Presidencia o quién deba suplir en el cargo, presidirá la sesión, dirigirá los debates, declarará cerrada la discusión cuando así los estime procedente y finalmente, someterá a votación los asuntos correspondientes;
 
@@ -551,7 +573,9 @@ VIII. La Secretaría Ejecutiva del Consejo, deberá vigilar la ejecución y dar 
 
 Se establecerá un Sistema Municipal para la Garantía de los Derechos Humanos de Niños, Niñas y Adolescentes, con la finalidad de coordinar e implementar las políticas públicas a favor de los derechos de niños, niñas y adolescentes, así como las acciones de difusión, promoción y la prevención de vulneración de los mismos, en el ámbito de su competencia.
 
-En cada uno de los municipios se establecerá un Consejo Municipal para la implementación y seguimiento del Sistema Municipal, presidido por la persona titular del Ayuntamiento e integrado por el Sistema para el Desarrollo Integral de la Familia Municipal, las dependencias de la Administración Pública Municipal, organizaciones de la sociedad civil que en su función estén vinculadas al tema de promoción, garantía y protección de derechos de niños y niñas, así como niños, niñas y adolescentes, conforme al reglamento municipal que se expida para tal efecto.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+En cada uno de los municipios se establecerá un Consejo Municipal para la implementación y seguimiento del Sistema Municipal, presidido por la persona titular del Ayuntamiento e integrado por el Sistema para el Desarrollo Integral de la Familia Municipal, las dependencias y entidades de la Administración Pública Municipal, organizaciones de la sociedad civil que en su función estén vinculadas al tema de promoción, garantía y protección de derechos de niños y niñas, así como niños, niñas y adolescentes, conforme al reglamento municipal que se expida para tal efecto.
 
 El Sistema para el Desarrollo Integral de la Familia Municipal fungirá como Secretaría Ejecutiva del Consejo Municipal.
 
@@ -589,11 +613,11 @@ El Consejo deberá elaborar y ejecutar el Programa Estatal de Protección de Ni�
 
 El Programa Estatal de Protección de Niños, Niñas y Adolescentes, deberá alinearse al Plan Estatal de Desarrollo y al Programa Nacional de Protección de Niños, Niñas y Adolescentes.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 19.
 
-La Unidad de Evaluación y Seguimiento para la Protección de Derechos de Niños y Niñas, con la finalidad de lograr la transversalidad de las políticas públicas, supervisará que los programas que las dependencias y entidades públicas generen a favor de niños, niñas y adolescentes, observen el Plan Estatal de Desarrollo, las disposiciones de esta ley, así como las recomendaciones de organismos autónomos e internacionales con facultades para ello. De igual manera, velará porque se observe el cumplimiento de las obligaciones internacionales a nivel estatal y municipal.
+La Secretaría Ejecutiva, con la finalidad de lograr la transversalidad de las políticas públicas, supervisará que los programas que las dependencias y entidades públicas generen a favor de niños, niñas y adolescentes, observen el Plan Estatal de Desarrollo, las disposiciones de esta ley, así como las recomendaciones de organismos autónomos e internacionales con facultades para ello. De igual manera, velará porque se observe el cumplimiento de las obligaciones internacionales a nivel estatal y municipal.
 
 > <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2017)</small>
 
@@ -607,15 +631,29 @@ Para efectos de asistir al menor en toda diligencia a la que comparezca, la auto
 
 De la Procuraduría para Niños, Niñas y la Familia.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 20.
 
-La Procuraduría para Niños, Niñas y la Familia es un organismo público centralizado de la Administración Pública Estatal que tiene a su cargo la obligación de promover y proteger los derechos de niños, niñas y adolescentes.
+La Procuraduría para Niños, Niñas y la Familia es un organismo público descentralizado de la Administración Pública Estatal, sectorizado al Despacho de la persona titular del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, que tiene por objeto promover y proteger los derechos de niños, niñas y adolescentes.
+
+Tendrá su domicilio en la ciudad de Saltillo, Coahuila de Zaragoza, sin perjuicio de que establezca las representaciones que considere necesarias en las diversas regiones y municipios de la entidad y, que faciliten el cumplimiento de su objeto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 21.
 
-(DEROGADO, P.O. 19 DE MAYO DE 2015)
+El patrimonio de la Procuraduría, se constituirá por:
+
+I. Los bienes muebles e inmuebles y demás ingresos que los Gobiernos Federal, Estatal y Municipales le aporten para la realización de su objeto;
+
+II. Los ingresos que perciba conforme a la partida que para el efecto establezca el presupuesto anual de egresos del Estado, así como los que perciba por los servicios que preste en cumplimiento de su objeto, o que le correspondan por cualquier otro título legal;
+
+III. Los subsidios y aportaciones permanentes, periódicos o eventuales, que reciba de los Gobiernos Federal, Estatal y Municipales y los que obtenga de instituciones públicas o privadas o de particulares;
+
+IV. Las donaciones, legados y herencias que se hicieran a su favor; y
+
+V. Todos los demás bienes que adquiera por cualquier otro medio legal.
 
 ###### Artículo 22.
 
@@ -625,37 +663,139 @@ Los servicios que presta la Procuraduría son gratuitos. En los procedimientos p
 
 Para los efectos de este artículo, el principio de publicidad se refiere a la divulgación, por cualquier medio, de las actuaciones de la Procuraduría conforme a la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 23.
 
-La Procuraduría se integra por:
+La Procuraduría estará integrada por:
 
-I. Una persona que fungirá como titular, nombrada conforme lo establece la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza para los titulares de los organismos públicos centralizados;
+I. Un Procurador o Procuradora;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+II. Un Órgano de Gobierno;
 
-II. Subprocuradurías Regionales;
+III. Una Comisaría;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+IV. Un Órgano Interno de Control;
 
-III. Procuradurías Municipales;
+V. Subprocuradurías Regionales;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+VI. Procuradurías Municipales;
 
-IV. Defensores;
+VII. Defensores;
 
-V. Cuerpo especializado de seguridad pública;
+VIII. Cuerpo especializado de seguridad pública;
 
-VI. Áreas de medicina, de adopción, psicología y psiquiatría, jurídica, medios alternos de solución de controversias y trabajo social; y
+IX. Áreas de medicina, de adopción, psicología y psiquiatría, jurídica, medios alternos de solución de controversias y trabajo social; y
 
-VII. El demás personal técnico y administrativo necesario.
+X. El demás personal técnico y administrativo necesario.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 23-A.
+
+La administración y la dirección de la Procuraduría estarán a cargo del Órgano de Gobierno y del Procurador o Procuradora, de conformidad con lo dispuesto en esta Ley, el reglamento interior de la Procuraduría y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 23-B.
+
+El Órgano de Gobierno de la Procuraduría estará integrado de la siguiente manera:
+
+I. Un Presidente, que será la persona titular del Poder Ejecutivo;
+
+II. Un Secretario Técnico, que será el Procurador o Procuradora;
+
+III. Por ocho vocales, que serán las personas titulares de:
+
+a. La Secretaría de Gobierno;
+
+b. La Secretaría de Inclusión y Desarrollo Social;
+
+c. La Secretaría de Educación;
+
+d. La Secretaría de Finanzas;
+
+e. La Secretaría de Salud;
+
+f. La Secretaría de Seguridad Pública;
+
+g. La Secretaría del Trabajo; y
+
+h. La Dirección General del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+
+Los integrantes del Órgano de Gobierno designarán un suplente, quien acudirá excepcionalmente a las sesiones, en aquellos casos en que el titular no pueda estar presente.
+
+Los cargos del Órgano de Gobierno serán honoríficos, por lo que sus titulares no recibirán emolumento alguno por su desempeño.
+
+El Órgano de Gobierno celebrará sesiones ordinarias de manera trimestral, así como las extraordinarias que estime conveniente su Presidente, o a petición de una tercera parte del total de sus miembros.
+
+Las sesiones serán válidas cuando el quórum se integre con la mitad más uno de los miembros del Órgano de Gobierno.
+
+Las votaciones para los acuerdos del Órgano de Gobierno se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 23-C.
+
+El Presidente del Órgano de Gobierno tendrá las facultades siguientes:
+
+I. Convocar, a través del Secretario Técnico, a los miembros del Órgano de Gobierno, a las sesiones que se desarrollarán conforme al orden del día que para ese efecto se elabore;
+
+II. Dirigir las sesiones del Órgano de Gobierno y declarar resueltos los asuntos en el sentido de las votaciones;
+
+III. Autorizar, en unión del Secretario Técnico, las actas que se levanten de las sesiones que celebre el Órgano de Gobierno;
+
+IV. En general, realizar todos aquellos actos que fueren necesarios para el mejor funcionamiento de la Procuraduría; y
+
+V. Las demás que le confiera el reglamento interior de la Procuraduría y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 23-D.
+
+El Secretario Técnico del Órgano de Gobierno tendrá las facultades siguientes:
+
+I. Asistir a las sesiones que celebre el Órgano de Gobiernocon (sic) voz, pero sin voto;
+
+II. Someter a la aprobación de los miembros del Órgano de Gobiernoel (sic) calendario para la celebración de las sesiones;
+
+III. Tomar las votaciones de los miembros presentes en las sesiones;
+
+IV. Elaborar y suscribir, en unión del Presidente y de los vocales que asistieron a las sesiones, las actas correspondientes, así como asentarlas en el libro que para el efecto lleve;
+
+V. Remitir a los miembros del Órgano de Gobierno, cuando menos con diez días hábiles de anticipación para sesiones ordinarias y un día hábil para sesiones extraordinarias, las convocatorias, el orden del día y la documentación correspondiente a la sesión a celebrarse;
+
+VI. Redactar las comunicaciones oficiales y someterlas a la aprobación del Presidente del Órgano de Gobierno; y
+
+VII. Las demás que le confiera el Órgano de Gobierno, el reglamento interior de la Procuraduría y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 23-E.
+
+Los vocales del Órgano de Gobierno tendrán las facultades siguientes:
+
+I. Asistir a las sesiones a las que sean convocados y participar en ellas con voz y voto;
+
+II. Poner a consideración del Órgano de Gobierno los asuntos que estimen necesarios para la eficaz marcha de la Procuraduría;
+
+III. Emitir las opiniones que les sean solicitadas; y
+
+IV. Las demás que les confiera el Órgano de Gobierno, el reglamento interior de la Procuraduría y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 24.
 
-La persona titular de la Procuraduría ejercerá las facultades enunciadas en esta ley y distribuirá las que corresponda al personal a su cargo.
+El Procurador o Procuradora será designado por la persona titular del Poder Ejecutivo, de conformidad con lo previsto en la Ley de Entidades Paraestatales del Estado de Coahuila de Zaragoza.
+
+El Procurador o Procuradora ejercerá las facultades enunciadas en esta Ley y el reglamento interior de la Procuraduría y distribuirá las que corresponda al personal a su cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 25.
 
-Las personas a que se refiere el artículo 23 fracciones I y II del presente ordenamiento deberán satisfacer, por lo menos, los siguientes requisitos:
+Las personas a que se refiere el artículo 23 fracciones I y Vdel (sic) presente ordenamiento deberán satisfacer, por lo menos, los siguientes requisitos:
 
 I. Tener la ciudadanía mexicana y encontrarse en pleno goce de sus derechos civiles y políticos;
 
@@ -667,11 +807,11 @@ III. Ser de reconocida honorabilidad; y
 
 IV. Tener experiencia en materia de procuración de justicia o defensa de derechos de niños, niñas y adolescentes.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 26.
 
-Quienes estén a cargo de las Subprocuradurías Regionales y Procuradurías Municipales ejercerán las mismas facultades que la persona titular de la Procuraduría, siempre que sean compatibles con su cargo, pero en todo caso estarán sujetos a las instrucciones que reciban del mismo.
+Quienes estén a cargo de las Subprocuradurías Regionales y Procuradurías Municipales ejercerán las mismas facultades que el Procurador o Procuradora, siempre que sean compatibles con su cargo, pero en todo caso estarán sujetos a las instrucciones que reciban del mismo.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -745,33 +885,65 @@ XXIX. Establecer y operar las Casas del Adolescente en la entidad; y
 
 XXX. Las demás que se deriven de los ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 28.
 
-Las actuaciones practicadas por las personas encargadas de la Procuraduría, Subprocuradurías Regionales y Procuradurías Municipales, en ejercicio de sus facultades, tendrán el valor que se le otorga a los testimonios investidos de fe pública.
-
-###### Artículo 29.
+Las actuaciones practicadas por el Procurador o Procuradora y los titulares de las Subprocuradurías Regionales y Procuradurías Municipales, en ejercicio de sus facultades, tendrán el valor que se le otorga a los testimonios investidos de fe pública.
 
 El personal de la Procuraduría está obligado a guardar absoluta discreción y reserva acerca de los asuntos que en ella se traten.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 19 DE MAYO DE 2015, MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 29.
+
+El Órgano de Gobierno de la Procuraduría tendrá las facultades y obligaciones siguientes:
+
+I. Expedir el reglamento interior de la Procuraduría;
+
+II. Otorgar poderes generales o especiales al Procurador o Procuradora;
+
+III. Establecer, en congruencia con la Ley de Planeación para el Desarrollo del Estado de Coahuila de Zaragoza y con el Plan Estatal de Desarrollo vigente, las políticas públicas generales y definir las prioridades y objetivos a los que deberá sujetarse la Procuraduría;
+
+IV. Aprobar los planes, programas y presupuestos de la Procuraduría, así como sus modificaciones, de acuerdo con (sic) legislación aplicable;
+
+V. Autorizar y ordenar la presentación ante el Congreso del Estado de la cuenta pública de la Procuraduría, en la forma y términos que establezcan las disposiciones aplicables;
+
+VI. Autorizar, previo informe de la persona titular de la Comisaría y dictamen de los auditores externos, los estados financieros anuales de la Procuraduría, los cuales deberán contener el registro patrimonial de los bienes a su cargo, así como gestionar lo conducente para la publicación de los mismos;
+
+VII. Aprobar de acuerdo con las leyes aplicables, las políticas, bases y programas generales que regulen los convenios y contratos o acuerdos que deba celebrar la Procuraduría con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios, los que en todo caso deberán sujetarse a la leyes de la materia;
+
+VIII. Autorizar la creación interna de comisiones o grupos de trabajo;
+
+IX. Autorizar la creación de comités o subcomités técnicos especializados, los cuales estarán integrados por personal de la Procuraduría y, en su caso, por asociaciones, grupos organizados de la ciudadanía relacionados con el objeto de comité o subcomité que se trate;
+
+X. Dictar las disposiciones que normen la contratación, remuneración y prestaciones, que deban otorgarse a los servidores públicos de la Procuraduría, las que en todo caso deberán sujetarse a los tabuladores autorizados por el Gobierno del Estado;
+
+XI. Vigilar que los acuerdos de coordinación que se celebren con las dependencias o entidades federales, dentro de su respectivo ámbito de competencia, se lleven a cabo en el marco de los convenios respectivos;
+
+XII. Analizar y aprobar en su caso, los informes periódicos que rinda el Procurador o Procuradora con la intervención que corresponda a la persona titular de la Comisaría;
+
+XIII. Establecer los lineamientos que debe cumplir la Procuraduría en materia de acceso a la información, en términos de las disposiciones en la materia; y
+
+XIV. Las demás que le otorgue el reglamento interior de la Procuraduría y demás disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 30.
 
-La persona encargada de la Procuraduría tendrá las facultades y obligaciones siguientes:
+El Procurador o Procuradora tendrá las facultades y obligaciones siguientes:
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-I. Elaborar el plan de trabajo integral de la dependencia, de acuerdo al Plan Estatal de Desarrollo y velar por su ejecución;
+I. Administrar y representar legalmente a la Procuraduría;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
 II. Promover y celebrar convenios de colaboración con dependencias, entidades y organismos públicos, así como instituciones o asociaciones de los sectores social y privado con el propósito de que faciliten a la Procuraduría apoyos técnicos y humanos para el mejor desempeño de sus funciones;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-III. Coordinar las funciones a cargo de la dependencia y las labores de las áreas que la componen;
+III. Coordinar las funciones a cargo de la entidad y las labores de las áreas que la componen;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -793,9 +965,9 @@ VII. Crear, dirigir, coordinar, supervisar y evaluar el desempeño y funcionamie
 
 VIII. Ordenar las visitas de supervisión interna y externa que le competen a la Procuraduría;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-IX. Designar al personal técnico y administrativo adscrito a la dependencia;
+IX. Designar al personal técnico y administrativo adscrito a la entidad;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -809,13 +981,55 @@ XI. Solicitar el uso de fuerza pública en los casos que se requiera;
 
 XII. Proponer el reglamento interior de la Procuraduría, y
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XIII. Las demás que le confiera el presente ordenamiento y otras disposiciones aplicables.
+XIII. Formular los planes y programas institucionales de corto, mediano y largo plazo, así como los presupuestos de la Procuraduría y presentarlos para su aprobación al Órgano de Gobierno;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIV. Formular los programas de organización y administración de los recursos humanos, financieros y materiales que conforman la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XV. Establecer los métodos y prácticas que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles de la Procuraduría;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVI. Establecer los sistemas de control interno necesarios para alcanzar las metas u objetivos propuestos;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVII. Presentar en las sesiones ordinarias del Órgano de Gobierno, el informe de desempeño de las actividades de la Procuraduría, incluido el ejercicio de los presupuestos de ingresos y egresos, y los estados financieros que contemplen los registros patrimoniales de los bienes con que cuente la entidad. En el informe y en los documentos de apoyo, se cotejarán las metas propuestas y los compromisos asumidos con las metas alcanzadas;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la Procuraduría y presentar al Órgano de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con dicho Órgano;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XIX. Proponer al Órgano de Gobierno, en su caso, las reglas de operación, manuales de organización, lineamientos y demás disposiciones de carácter interno;
+
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XX. Ejecutar los acuerdos que dicte el Órgano de Gobierno; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] , P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXI. Las demás que le confiera el Órgano de Gobierno, esta Ley, el reglamento interior de la Procuraduría y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 31.
 
-(DEROGADO, P.O. 19 DE MAYO DE 2015)
+La Procuraduría contará con una Comisaría para la vigilancia y supervisión de la entidad, cuyo titular será designado por la Secretaría de Fiscalización y Rendición de Cuentas, en los términos de las disposiciones aplicables.
+
+Las facultades de la persona titular de la Comisaría se establecerán en el reglamento interior de la Procuraduría.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 31-A.
+
+La Procuraduría contará con un Órgano Interno de Control, cuyo titular ejercerá las facultades a que se refiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y demás disposiciones aplicables en la materia.
 
 ###### Artículo 32.
 
@@ -825,15 +1039,17 @@ Las funciones de la Procuraduría, son de interés público, por lo que en el de
 
 Del Cuerpo Especializado de Seguridad Pública.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 33.
 
-La Procuraduría en su actuar se apoyará del Cuerpo Especializado de Seguridad Pública, área adscrita a esta dependencia que se crea fundamentalmente para prevenir e investigar las afectaciones a derechos de niños, niñas y adolescentes.
+La Procuraduría en su actuar se apoyará del Cuerpo Especializado de Seguridad Pública, área adscrita a esta entidadque (sic) se crea fundamentalmente para prevenir e investigar las afectaciones a derechos de niños, niñas y adolescentes.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 34.
 
-Los miembros del Cuerpo Especializado de Seguridad Pública actuarán bajo el mando directo de la persona que sea titular de la Procuraduría y bajo la coordinación del Consejo Estatal de Seguridad Pública.
+Los miembros del Cuerpo Especializado de Seguridad Pública actuarán bajo el mando directo del Procurador o Procuradora y bajo la coordinación del Consejo Estatal de Seguridad Pública.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -845,19 +1061,23 @@ I. Ser pasante o licenciado en Derecho, Psicología o carrera afín; y
 
 II. Haber cursado y aprobado el curso de especialización respectivo.
 
-Además se deben satisfacer los requisitos que se desprendan del Título Octavo de la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Además se deben satisfacer los requisitos que se desprendan de la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 36.
 
-Los miembros del Cuerpo Especializado de Seguridad Pública serán nombrados y removidos por quien sea titular de la Procuraduría de conformidad con las disposiciones del servicio profesional de carrera regulado en la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza, la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y demás disposiciones aplicables, siempre que se encuentren dentro de dicho régimen; en caso contrario podrán ser nombrados y removidos libremente por la persona titular de la Procuraduría.
+Los miembros del Cuerpo Especializado de Seguridad Pública serán nombrados y removidos por el Procurador o Procuradora, de conformidad con las disposiciones del servicio profesional de carrera regulado en la Ley de Procuración de Justicia del Estado de Coahuila de Zaragoza, la Ley del Sistema de Seguridad Pública del Estado de Coahuila de Zaragoza y demás disposiciones aplicables, siempre que se encuentren dentro de dicho régimen; en caso contrario podrán ser nombrados y removidos libremente por el Procurador o Procuradora.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+El Centro de Profesionalización, Acreditación, Certificación y Carrera dependiente de la Fiscalía General del Estado, así como el Instituto Superior de Estudios de Seguridad Pública del Estado de la Secretaría de Seguridad Pública, serán los responsables de establecer y operar el Servicio Profesional de Carrera Policial de la Procuraduría para Niños, Niñas y la Familia, para lo cual se tomarán las medidas o celebrarán los convenios de colaboración que sean necesarios.
 
-El Centro de Profesionalización, Acreditación, Certificación y Carrera dependiente de la Subprocuraduría Jurídica, de Derechos Humanos, Profesionalización y de Proyectos de la Procuraduría General de Justicia del Estado, así como el Instituto Superior de Estudios de Seguridad Pública del Estado de la Comisión Estatal de Seguridad, serán los responsables de establecer y operar el Servicio Profesional de Carrera Policial de la Procuraduría para Niños, Niñas y la Familia, para lo cual se tomarán las medidas o celebrarán los convenios de colaboración que sean necesarios.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 37.
 
-Quien sea titular de la Procuraduría planeará y determinará la distribución y organización del personal de seguridad pública a su cargo.
+El Procurador o Procuradora planeará y determinará la distribución y organización del personal de seguridad pública a su cargo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -871,9 +1091,11 @@ De los Defensores de los derechos de niños, niñas y adolescentes.
 
 Los Defensores de los derechos de niños, niñas y adolescentes, dependientes de la Procuraduría, tienen a su cargo la función de promover, proteger y defender los derechos humanos reconocidos en nuestro sistema jurídico.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 39.
 
-Los Defensores podrán ser nombrados y removidos libremente por la persona titular de la Procuraduría.
+Los Defensores podrán ser nombrados y removidos libremente por el Procurador o Procuradora.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -961,15 +1183,15 @@ El Estado a través de la presente ley regula medidas especiales de protección 
 
 La autoridad competente puede imponer una o más medidas especiales de protección y restitución en un sólo caso siempre que se encuentre justificado y sirva para proteger o garantizar los derechos del niño, niña o adolescente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 46.
 
-Son autoridades competentes para disponer las medidas especiales de protección y restitución de derechos de carácter administrativo, quien sea titular de la Procuraduría, de las Subprocuradurías Regionales y de las Procuradurías Municipales.
+Son autoridades competentes para disponer las medidas especiales de protección y restitución de derechos de carácter administrativo, el Procurador o Procuradora y los titulares de las Subprocuradurías Regionales y de las Procuradurías Municipales.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Quien sea titular de la Procuraduría podrá disponer de las medidas especiales de protección y restitución de derechos en todo el Estado de Coahuila de Zaragoza. Las personas titulares de las Subprocuradurías Regionales y de las Procuradurías Municipales, sólo podrán hacerlo en el territorio al que fueron asignados.
+El Procurador o Procuradora podrá disponer de las medidas especiales de protección y restitución de derechos en todo el Estado de Coahuila de Zaragoza. Las personas titulares de las Subprocuradurías Regionales y de las Procuradurías Municipales, sólo podrán hacerlo en el territorio al que fueron asignados.
 
 En caso de concurrencia, resolverá la autoridad que haya prevenido en el conocimiento de los hechos que justifican la medida especial de protección.
 
@@ -1039,11 +1261,13 @@ Una vez que se tenga información sobre un posible riesgo, amenaza, afectación 
 
 Así mismo, cuando sea necesario, se solicitará a los departamentos de trabajo social, psicología y psiquiatría la práctica de los exámenes que se estimen necesarios.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 54.
 
-La Procuraduría podrá, por acuerdo de su titular o, en su caso, de quienes ocupen las Subprocuradurías Regionales o Procuradurías Municipales, separar preventivamente al niño, niña, o adolescente de la situación considerada como de riesgo, amenaza o afectación restricción o vulneración y, en su caso, de su hogar o de quien ejerza la patria potestad, tutela, guarda y custodia legal o de hecho, cuando aparezcan motivos fundados que hagan presumir la existencia de un peligro inminente e inmediato a su integridad física o mental, aun cuando no se hayan concluido las investigaciones a que se refiere el artículo anterior.
+La Procuraduría podrá, por acuerdo del Procurador o Procuradora o, en su caso, de quienes ocupen las Subprocuradurías Regionales o Procuradurías Municipales, separar preventivamente al niño, niña, o adolescente de la situación considerada como de riesgo, amenaza o afectación restricción o vulneración y, en su caso, de su hogar o de quien ejerza la patria potestad, tutela, guarda y custodia legal o de hecho, cuando aparezcan motivos fundados que hagan presumir la existencia de un peligro inminente e inmediato a su integridad física o mental, aun cuando no se hayan concluido las investigaciones a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
 Al llevar a cabo la medida a que se refiere este artículo, la Procuraduría deberá comparecer ante las autoridades judiciales correspondientes, acompañando las constancias respectivas, en un plazo que no excederá de setenta y dos horas, a efecto de que dicha medida sea ratificada, se dicten las medidas judiciales que resulten aplicables o se resuelva lo conducente.
 
@@ -1193,11 +1417,11 @@ Si como resultado de la investigación se determina únicamente la identidad per
 
 Cuando la Procuraduría, el DIF o alguna organización de la sociedad civil adquieran la guarda y custodia definitiva de un niño, niña o adolescente y obtengan datos sobre sus padres o familiares, la Procuraduría en su calidad de tutor podrá exigirles el pago de alimentos ante la autoridad judicial.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 72.
 
-La Procuraduría, las Subprocuradurías Regionales y las Procuradurías Municipales tienen la facultad de realizar labores de inspección y vigilancia a través de su titular o del personal que designe para tal efecto sin necesidad de previo aviso en instituciones públicas o privadas que brinden acogimiento residencial a niños, niñas, o adolescentes para verificar el cumplimiento de la presente Ley.
+El Procurador o Procuradora y los titulares de las Subprocuradurías Regionales y las Procuradurías Municipales tienen la facultad de realizar labores de inspección y vigilancia por sí o a través del personal que designe para tal efecto sin necesidad de previo aviso en instituciones públicas o privadas que brinden acogimiento residencial a niños, niñas, o adolescentes para verificar el cumplimiento de la presente Ley.
 
 ###### Artículo 73.
 
@@ -1205,9 +1429,9 @@ Para llevar a cabo la inspección y vigilancia la Procuraduría actuará del sig
 
 I. Se emitirá el acto administrativo que ordene la inspección y vigilancia, señalando además quien la llevará a cabo y los puntos sobre los que versará;
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-II. La persona titular de la Procuraduría, de las Subprocuradurías Regionales, de las Procuradurías Municipales o el personal designado para tal efecto se presentará en el domicilio de la institución, ante el administrador o encargado de la misma o con la persona que lo reciba cuando no se encuentre aquel, mostrando el documento que acredite su personalidad, y manifestará el motivo de su visita, solicitando que la persona que atienda se identifique, otorgándole copia del acto administrativo mediante el cual se haya ordenado la inspección y se levantará la constancia correspondiente;
+II. El Procurador o Procuradora y los titulares de las Subprocuradurías Regionales y de las Procuradurías Municipales o el personal designado para tal efecto, se presentará en el domicilio de la institución, ante el administrador o encargado de la misma o con la persona que lo reciba cuando no se encuentre aquel, mostrando el documento que acredite su personalidad, y manifestará el motivo de su visita, solicitando que la persona que atienda se identifique, otorgándole copia del acto administrativo mediante el cual se haya ordenado la inspección y se levantará la constancia correspondiente;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -1253,11 +1477,11 @@ II. La separación provisional o preventiva del seno familiar cuando la persona 
 
 III. La orden de alejamiento temporal de la persona posiblemente generadora de violencia o la prohibición de acercarse a determinado lugar cuando por la conducta de la persona generadora de violencia se corra el peligro de sufrir cualquier tipo de daño a la integridad física o mental de quien sea receptor de violencia.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 77.
 
-Hecho lo anterior y sin demora la Procuraduría a través de su Titular, de la Subprocuraduría Regional o Procuraduría Municipal correspondiente actuará conforme a lo dispuesto en la legislación aplicable.
+Hecho lo anterior y sin demora la Procuraduría a través de su Procurador o Procuradora, de la Subprocuraduría Regional o Procuraduría Municipal correspondiente actuará conforme a lo dispuesto en la legislación aplicable.
 
 ###### Artículo 78.
 
@@ -1325,7 +1549,9 @@ Los niños y las niñas menores de doce años a quienes se les impute la comisi�
 
 Para los efectos de esta ley, la edad del niño o de la niña se comprobará con el acta respectiva expedida por las autoridades del registro civil.
 
-De no ser esto posible, se acreditará por medio de dictamen médico rendido por perito adscrito a la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+De no ser esto posible, se acreditará por medio de dictamen médico rendido por perito adscrito a la Fiscalía General del Estado.
 
 ###### Artículo 87.
 
@@ -1355,11 +1581,11 @@ Lo anterior con independencia de que la Procuraduría pueda realizar las investi
 
 ### CAPÍTULO DÉCIMO PRIMERO. De los Medios Alternos de Solución de Controversias
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 93.
 
-La Procuraduría a través del personal a su cargo que cuente con conocimientos suficientes en la materia o mediante el auxilio del Centro de Medios Alternos de Solución de Controversias del Poder Judicial y de la Procuraduría General de Justicia del Estado brindará en sus instalaciones el servicio público de mediación y conciliación para que las partes sometidas a su competencia puedan solucionar sus controversias sin recurrir a instancias judiciales o para terminar con un proceso judicial siempre que esté permitido por las leyes aplicables
+La Procuraduría a través del personal a su cargo que cuente con conocimientos suficientes en la materia o mediante el auxilio del Centro de Medios Alternos de Solución de Controversias del Poder Judicial y de la Fiscalía General del Estado brindará en sus instalaciones el servicio público de mediación y conciliación para que las partes sometidas a su competencia puedan solucionar sus controversias sin recurrir a instancias judiciales o para terminar con un proceso judicial siempre que esté permitido por las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -1694,3 +1920,51 @@ P.O. 21 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1177.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE ABROGA LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 50 Y SE DEROGA LA FRACCIÓN XIV DEL ARTÍCULO 39 DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIGILANCIA Y REVISIÓN DE MEDIDAS CAUTELARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 10 DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA; SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 13 Y EL ARTÍCULO 18 DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 2, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 41, DE LA LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS PARA EL ESTADO LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 3, DE LA LEY DE SOCIEDADES MUTUALISTAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 18, DE LA LEY DE URGENCIAS MÉDICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIDA SILVESTRE PARA EL ESTADO DE COAHUILA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 11, DE LA LEY DEL COLEGIO COAHUILENSE DE INVESTIGACIONES HISTÓRICAS; SE REFORMA EL ARTÍCULO 11, DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 35, Y EL ARTÍCULO 79, DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL INCISO A DE LA FRACCIÓN IV DEL ARTÍCULO 8 Y LA FRACCIÓN III DEL ARTÍCULO 16, DE LA LEY DE LA ADMINISTRACIÓN FISCAL GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 4; EL PRIMER PÁRRAFO DEL ARTÍCULO 55 Y LOS ARTÍCULOS 65 Y 73, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 1 Y LA FRACCIÓN XXII DEL ARTÍCULO 2, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 2 Y LA FRACCIÓN IV DEL ARTÍCULO 15, DE LA LEY DE FOMENTO AL USO RACIONAL DE LA ENERGÍA PARA EL ESTADO DE COAHUILA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO COOPERATIVO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y ASOCIACIONES DE BENEFICENCIA PRIVADA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA CONSTITUCIONAL LOCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LA "PROMOTORA PARA EL DESARROLLO RURAL DE COAHUILA"; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LOS ARTÍCULOS 8, 18, 65 Y LA FRACCIÓN II DEL ARTÍCULO 94, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 81, DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 11; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 15 BIS; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 19 Y EL ARTÍCULO 20 BIS, DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9, DE LA LEY DE POBLACIÓN Y DESARROLLO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL INCISO D DE LA FRACCIÓN I DEL ARTÍCULO 6; EL INCISO D DE LA FRACCIÓN III DEL ARTÍCULO 12 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 23, DE LA LEY DE PREVENCIÓN, ASISTENCIA Y ATENCIÓN DE LA VIOLENCIA FAMILIAR; SE REFORMA EL ARTÍCULO 20, DE LA LEY DE PROFESIONES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 8; EL PRIMER PÁRRAFO DEL ARTÍCULO 11; LA FRACCIÓN V DEL ARTÍCULO 13 Y LA FRACCIÓN VI DEL ARTÍCULO 15, DE LA LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA; SE MODIFICA EN INCISO A) DEL ARTÍCULO 3, LA FRACCIÓN IX DEL ARTÍCULO 4 Y EL ARTÍCULO 22, TODOS DE LA LEY PARA COMBATIR EL RUIDO EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL IMPULSO EMPRENDEDOR DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL IMPULSO Y DESARROLLO DE LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICA LA FRACCIÓN XIII DEL ARTÍCULO 7 DE LA LEY PARA LA ADAPTACIÓN Y MITIGACIÓN A LOS EFECTOS DE CAMBIO CLIMÁTICO EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 9, DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN LAS FRACCIONES IV Y XII DEL ARTÍCULO 6, DE LA LEY PARA PREVENIR Y SANCIONAR LAS PRÁCTICAS DE CORRUPCIÓN EN LOS PROCEDIMIENTOS DE CONTRATACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; SE MODIFICA, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN DIVERSAS DISPOSICIONES DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN V Y LA FRACCIÓN VII DEL ARTÍCULO 25, DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, lapapelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
