@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2017-12-19"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -357,9 +357,11 @@ Los Ayuntamientos celebrarán al menos dos Sesiones Ordinarias cada mes, en los 
 
 Para que el Ayuntamiento pueda celebrar sus sesiones será necesario que estén presentes la mitad más uno de los Ediles, entre los que deberá estar el Presidente Municipal.
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 30.
 
-El resultado de las sesiones se hará constar en actas que contendrán una relación sucinta de los puntos tratados. Estas actas se levantarán en un libro foliado y, una vez aprobadas, las firmarán todos los presentes y el Secretario del Ayuntamiento. Con una copia del acta y los documentos relativos se formará un expediente, con estos un volumen cada semestre y los acuerdos respectivos serán publicados en la Tabla de Avisos.
+El resultado de las sesiones se hará constar en actas que contendrán una relación sucinta de los puntos tratados y acuerdos. Estas actas se levantarán en un libro foliado y, una vez aprobadas, las firmarán todos los presentes y el secretario del Ayuntamiento. Con una copia del acta y los documentos relativos se formará un expediente, con estos un volumen cada semestre. Las actas y los acuerdos respectivos serán publicados en la página de transparencia y en la tabla de avisos.
 
 ###### Artículo 31.
 
@@ -599,9 +601,9 @@ XII. Proponer al Ayuntamiento las medidas necesarias para mejorar la prestación
 
 XIII. Autorizar en unión de los Ediles de la Comisión de Hacienda, con la firma del Secretario del Ayuntamiento, las órdenes de pago a la Tesorería Municipal que procedan, de conformidad con las disposiciones legales y presupuestales aplicables;
 
-> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
-XIV. Proponer al Cabildo los nombramientos del Secretario del Ayuntamiento, del Tesorero Municipal, del Titular del Órgano de Control Interno y del Jefe o Comandante de la Policía Municipal;
+XIV. Proponer al Cabildo los nombramientos del secretario del Ayuntamiento, del tesorero municipal, del titular del Órgano de Control Interno y del jefe o comandante de la Policía Municipal. Si el cabildo no resolviere sobre alguna propuesta, el presidente municipal designará libremente al titular del área que corresponda;
 
 XV. Proponer al Ayuntamiento la integración de las Comisiones Municipales;
 
@@ -689,6 +691,8 @@ XIV. Las demás que expresamente le confieran esta ley y demás leyes del Estado
 
 ### CAPÍTULO VII. DE LAS COMISIONES MUNICIPALES
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 38.
 
 Son atribuciones de los Regidores:
@@ -713,7 +717,7 @@ VIII. Las demás que expresamente le confieran esta ley y demás leyes del Estad
 
 ###### Artículo 39.
 
-Las Comisiones Municipales son órganos que se integran por Ediles con el propósito de contribuir a cuidar y vigilar el correcto funcionamiento del Ayuntamiento, en la prestación de los servicios públicos municipales, así como de las dependencias, pudiendo, en su caso, proponer el nombramiento, suspensión o remoción de sus empleados.
+Las Comisiones Municipales son órganos que se integran por ediles con el propósito de contribuir a cuidar y vigilar el correcto funcionamiento del Ayuntamiento, en lo relativo a la planeación estratégica municipal, en la prestación de los servicios públicos municipales, así como de las dependencias, pudiendo, en su caso, proponer el nombramiento, suspensión o remoción de sus empleados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE FEBRERO DE 2015)</small>
 
@@ -810,6 +814,10 @@ XXVIII. Transparencia y Acceso a la Información.
 > <small>(ADICIONADA, G.O. 31 DE MAYO DE 2017)</small>
 
 XXIX. Población.
+
+> <small>(ADICIONADA, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+XXX. Planeación del Desarrollo Municipal.
 
 ###### Artículo 41.
 
@@ -1450,6 +1458,24 @@ III. Coadyuvar, en el ámbito de su competencia, al mejoramiento de las condicio
 IV. Identificar las necesidades de la población, con base en el análisis de las tendencias y la dinámica demográfica para mejorar la planeación de los servicios municipales; y
 
 V. Coordinarse de forma interinstitucional para la participación en programas estatales, federales e interinstitucionales que impacten en el desarrollo y bienestar de la población.
+
+> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Artículo 60 Quindecies. Son atribuciones de la Comisión de Planeación del Desarrollo Municipal:
+
+I. Proponer al cabildo la creación del Instituto Municipal de Planeación;
+
+II. Participar en el proceso de elaboración, implementación, puesta en marcha, evaluación y actualización del Plan de Desarrollo Municipal;
+
+III. Proponer al cabildo la aprobación del Plan de Desarrollo Municipal y sus actualizaciones;
+
+IV. Proponer políticas que impulsen la cultura de la planeación estratégica para el desarrollo municipal sustentable e incluyente a corto, mediano y largo plazo;
+
+V. Elaborar, actualizar, modificar y someter a aprobación del cabildo el Reglamento de Planeación del Desarrollo Municipal;
+
+VI. Asegurar la continuidad del Plan de Desarrollo Municipal; y
+
+VII. Fortalecer y dar un carácter institucional al proceso de planeación estratégica integral para el desarrollo sustentable e incluyente a mediano y largo plazo del municipio.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA, COMISARIO MUNICIPAL Y ORGANISMOS AUXILIARES
 
@@ -2525,9 +2551,11 @@ La Hacienda Municipal se formará por los bienes de dominio público municipal y
 
 El Presidente, el Síndico, el Regidor de la Comisión de Hacienda y Patrimonio Municipal, el Tesorero, el Director de Obras Públicas y el titular de la Contraloría del Ayuntamiento serán directamente responsables de la administración de todos los recursos públicos municipales. Tratándose de entidades paramunicipales, lo serán su titular y el del área de finanzas.
 
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 105.
 
-Los Ayuntamientos formularán cada año, en el mes de enero, un inventario general y avalúo de los bienes municipales de cualquiera naturaleza que sean. Concurrirán a su formulación el Presidente Municipal, la Comisión de Hacienda y Patrimonio Municipal y el Tesorero. El inventario y el avalúo se extenderá por triplicado, y quedará un ejemplar en el archivo municipal, uno en la Tesorería y el otro se remitirá al Congreso del Estado.
+Los ayuntamientos actualizarán cada año, en el mes de enero, un inventario general y avalúo de los bienes que conforman el patrimonio municipal de cualquiera naturaleza que sean. El avalúo deberá ser practicado por peritos que cuenten con cédula profesional, instituciones de crédito, agentes especializados o corredores públicos, y deberá consignar, al menos, el valor comercial y el de realización inmediata. Concurrirán a su formulación el presidente municipal, la Comisión de Hacienda y Patrimonio Municipal y el tesorero. El inventario y el avalúo se extenderán por triplicado, y quedará un ejemplar en el archivo municipal, uno en la tesorería y el otro se remitirá al Congreso del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE NOVIEMBRE DE 2016)</small>
 
@@ -3371,39 +3399,39 @@ VII. Emitir opinión respecto de las consultas que en las materias relacionadas 
 
 VIII. Formar comisiones de estudio sobre asuntos determinados, relacionados con la planeación municipal y metropolitana, si fuera el caso.
 
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 193.
 
-Los Ayuntamientos deberán elaborar, en forma democrática y participativa, sus Planes de Desarrollo Municipal, así como los programas de trabajo necesarios para su ejecución, que serán rectores de las actividades que realicen sus dependencias y entidades.
+Los ayuntamientos deberán elaborar, en forma democrática y participativa, sus planes de Desarrollo Municipal con una visión estratégica integral a mediano y largo plazo, con posible vigencia de hasta veinte años, así como los programas de trabajo necesarios para su ejecución, que serán rectores de las actividades que realicen sus dependencias y entidades.
 
-Los Planes Municipales de Desarrollo se publicarán en la Gaceta Oficial del estado.
+Los planes municipales de desarrollo y sus actualizaciones anuales, se publicarán en la Gaceta Oficial del Estado y en las páginas de transparencia de cada Ayuntamiento.
 
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 194.
 
-La formulación, aprobación, ejecución, control y evaluación del Plan y Programas Municipales estarán a cargo de los órganos, dependencias o servidores públicos que determinen los Ayuntamientos, conforme a las normas legales de la materia y las que cada Cabildo determine.
+La formulación, aprobación, ejecución, control, evaluación y actualización del plan y programas municipales estarán a cargo de órganos, dependencias y servidores públicos que determinen los ayuntamientos, conforme a las normas legales de la materia y las que cada cabildo determine.
 
-> <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 195.
 
 El Plan de Desarrollo Municipal tendrá los objetivos siguientes:
 
-I. Atender las demandas prioritarias de la población;
+I. Establecer una estrategia del desarrollo sustentable integral y continuo, a mediano y largo plazo con una vigencia de hasta veinte años;
 
-II. Propiciar el desarrollo del municipio con base en una perspectiva regional;
+II. Atender las demandas prioritarias de la población;
 
-III. Asegurar la participación de la ciudadanía en las acciones del gobierno municipal;
+III. Propiciar el desarrollo del municipio con base en una perspectiva regional;
 
-IV. Vincular el Plan de Desarrollo Municipal con los Planes de Desarrollo Federal y Estatal; y
+IV. Asegurar la participación de la ciudadanía en el proceso de planeación y en las acciones del gobierno municipal;
 
-V. Aplicar de manera racional los recursos financieros para el cumplimiento del Plan y sus programas de desarrollo.
+V. Vincular el Plan de Desarrollo Municipal con los planes de desarrollo federal y estatal;
 
-> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2016)</small>
+VI. Aplicar de manera racional los recursos financieros para el cumplimiento del plan y sus programas de desarrollo; y,
 
-VI. Propiciar la igualdad de oportunidades entre las mujeres y los hombres del municipio.
+VII. Asegurar la institucionalización del proceso de planeación y la continuidad del Plan de Desarrollo Municipal y sus programas.
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -4090,5 +4118,31 @@ G.O. 19 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 371 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS; DE LA LEY DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, TODAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN MATERIA ANTICORRUPCIÓN".]
 
 Primero. El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho, previa publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 603 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN Y LA LEY ORGÁNICA DEL MUNICIPIO LIBRE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Los 212 ayuntamientos del Estado, dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto, deberán aprobar el Reglamento de Planeación del Desarrollo Municipal.
+
+Tercero. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+G.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 604 QUE REFORMA LOS ARTÍCULOS 35 FRACCIÓN XII Y 36 FRACCIÓN XIV DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
