@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2017-12-22"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -693,9 +693,13 @@ Un Grupo Parlamentario es la forma de organización que podrán adoptar las o lo
 
 El Grupo Parlamentario se integrará con un mínimo de dos Diputados o Diputadas y sólo podrá haber uno por cada partido político que cuente con Diputados o Diputadas en el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-Cuando algún partido político cuente con tan solo una o un diputado, estos podrán optar por formar una Fracción Parlamentaria, la que tendrá los derechos y prerrogativas de grupo parlamentario.
+El partido político que cuente con tan solo una o un Diputado y los Diputados o Diputadas independientes, podrán optar por formar una Fracción Parlamentaria, la que tendrá los derechos y prerrogativas de grupo parlamentario. La fracción parlamentaria podrá conformarse por lo menos con un Diputado o Diputada.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Para los efectos de esta ley, se consideran Diputados o Diputadas independientes aquellos que participaron en el proceso electoral como candidatos independientes o aquellos que dejen de pertenecer al partido político que los postuló y se declaren independientes.
 
 ###### ARTÍCULO 56.
 
@@ -737,9 +741,11 @@ Si al inicio de la Legislatura, no se conformare Grupo Parlamentario que suceda 
 
 La cuenta anual de las subvenciones que se asignen a los grupos parlamentarios, se incorporará a la cuenta pública del Congreso del Estado. De dicho documento se remitirá un ejemplar a la Contraloría Interna del propio Congreso.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 61.
 
-Las y los Diputados que no se inscriban o dejen de pertenecer a un grupo parlamentario sin integrarse a otro existente, podrán permanecer como independientes o formar un grupo mixto, debiéndoseles guardar las mismas consideraciones que a todos los legisladores y apoyándolos, conforme a las posibilidades del Congreso del Estado, para que puedan desempeñar sus atribuciones de representación popular. No podran formar fracción parlamentaria conforme al artículo 55 de esta ley.
+Las y los Diputados que no se inscriban o dejen de pertenecer a un grupo parlamentario sin integrarse a otro existente, podrán permanecer como Diputados independientes y formar fracción parlamentaria conforme al artículo 55 de esta ley, debiéndoseles guardar las mismas consideraciones que a todos los legisladores y apoyándolos, conforme a las posibilidades del Congreso del Estado, para que puedan desempeñar sus atribuciones de representación popular.
 
 ### CAPÍTULO V. De la Junta de Gobierno
 
@@ -810,6 +816,10 @@ IV. Aprobar el anteproyecto de Presupuesto Anual de Egresos del Congreso que ser
 V. Analizar y, en su caso, aprobar los informes que presente la Presidencia, sobre el estado que guardan las finanzas del Congreso, conforme a lo dispuesto en la Ley de Fiscalización Superior del Estado;
 
 VI. Proponer al Congreso, los términos en que se llevarán a cabo las comparecencias de las y los servidores públicos, en cumplimiento a lo dispuesto por la Constitución Política del Estado, así como determinar la duración y el formato de las mismas;
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, cuando el Pleno o la Permanente acuerden citar a un servidor público con cualquier finalidad, promover las acciones necesarias para que dicha comparecencia se lleve a cabo en el menor plazo posible atendiendo a la urgencia que amerite el hecho que motive la comparecencia.
 
 VII. Impulsar la conformación y suscribir acuerdos relacionados con el contenido de las propuestas, iniciativas o minutas que requieran ser votadas en el Pleno o en la Diputación Permanente, a fin de agilizar el trabajo legislativo;
 
@@ -2145,11 +2155,13 @@ Sólo podrá dispensarse este requisito en los asuntos que por acuerdo expreso d
 
 En los casos de urgente u obvia resolución determinada por el voto de la mayoría de las y los legisladores del Congreso que estén presentes se podrá, a pedimento de alguna o alguno de sus miembros, dar curso a las proposiciones o proyectos y ponerlos a discusión inmediatamente después de su lectura.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 173.
 
-Las resoluciones del Pleno del Congreso, para que tengan validez, deberán ser aprobadas por la mayoría de las y los Diputados presentes, salvo aquellas que constitucionalmente requieran de votación especial; y no tendrán otro carácter que el de ley, decreto, acuerdo o voto de confianza.
+Las resoluciones del Pleno del Congreso, para que tengan validez, deberán ser aprobadas por la mayoría de las y los Diputados presentes, salvo aquellas que constitucionalmente requieran de votación especial; y no tendrán otro carácter que el de ley, decreto o acuerdo.
 
-Las leyes, decretos y votos de confianza se comunicarán al Ejecutivo, firmados por el Presidente y dos Secretarios, para su promulgación, publicación y observancia. Los acuerdos se firmarán por los dos Secretarios, sin perjuicio de que también lo pueda hacer el Presidente, y se comunicarán también al Ejecutivo, para su conocimiento y, en su caso, para su publicación y observancia.
+Las leyes y decretos y (sic) se comunicarán al Ejecutivo, firmados por el Presidente y dos Secretarios, para su promulgación, publicación y observancia. Los acuerdos se firmarán por los dos Secretarios, sin perjuicio de que también lo pueda hacer el Presidente, y se comunicarán también al Ejecutivo, para su conocimiento y, en su caso, para su publicación y observancia.
 
 ###### ARTÍCULO 174.
 
@@ -2455,17 +2467,13 @@ Tampoco será discutido ni votado ningún asunto sobre materia municipal de los 
 
 Los trámites a que se refiere este capítulo no son dispensables.
 
-### CAPÍTULO IV. Del Voto de Confianza
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+### CAPÍTULO IV. Del Voto de Confianza
 
 ###### ARTÍCULO 216.
 
-Para dar trámite a la solicitud que se establece en la fracción XVII, del artículo 9 apartado A de la Ley Orgánica de la Administración Pública, el Congreso se sujetará al siguiente procedimiento:
-
-Una vez que el Gobernador del Estado hubiere remitido la solicitud de voto de confianza al Congreso, éste último deberá determinar la fecha para una sesión del Pleno del Congreso, en la que se realizará un debate en el que intervendrán el Ejecutivo del Estado, los Grupos y fracciones Parlamentarios y las y los diputados representantes de partidos políticos, que integren la legislatura respectiva.
-
-La fecha que se señale para la realización del debate a que hace mención el párrafo anterior no podrá ser antes de las setenta y dos horas ni posteriores a las ciento cuarenta y ocho horas posteriores a la recepción de la solicitud. Habiéndose efectuado el debate, el Congreso del Estado contará con un plazo de veinticuatro horas para determinar si otorga o no el voto de confianza al asunto sometido a debate.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO V. De las Sesiones del Pleno
 
@@ -3216,3 +3224,11 @@ Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1139.- SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 55, EL ARTÍCULO 61 Y EL ARTÍCULO 173; SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 55 Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 72; SE DEROGA EL CAPÍTULO IV DEL TÍTULO CUARTO CON EL ARTÍCULO 216 QUE LO CONFORMA, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
