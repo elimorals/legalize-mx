@@ -4,7 +4,7 @@ identifier: "COA-ley-del-fondo-de-la-vivienda-para-los-trabajadores-de-la-81208"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2016-01-08"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la primera sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de mayo de 2011.
 
@@ -33,7 +33,9 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 
 DECRETA:
 
-NÚMERO 498.- .
+NÚMERO 498.-
+
+[...]
 
 ###### ARTÍCULO CUARTO.
 
@@ -215,7 +217,9 @@ II. Exista una necesidad para cumplir con el objeto de la o las instituciones de
 
 III. Lo proponga el Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación, y
 
-IV. Se lleve a cabo bajo la estricta supervisión y vigilancia de la Secretaría de la Función Pública del Gobierno del Estado, siguiendo el procedimiento que ésta disponga, para tal efecto.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IV. Se lleve a cabo bajo la estricta supervisión y vigilancia de la Secretaría de Fiscalización y Rendición de Cuentas, siguiendo el procedimiento que ésta disponga, para tal efecto.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -227,7 +231,7 @@ Los recursos económicos que integren el patrimonio del Organismo, se depositar�
 
 Los bienes, derechos y recursos del Organismo, estarán exentos de gravámenes estatales y municipales, salvo el caso de los supuestos previstos en la Fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-## TITULO TERCERO. DE LOS ORGANOS DE DlRECClON Y ADMINISTRACION
+## TITULO TERCERO. DE LOS ORGANOS DE DIRECCION Y ADMINISTRACION
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -319,7 +323,7 @@ El Consejo de Administración celebrará sesiones trimestrales ordinarias dentro
 
 Las resoluciones del Consejo de Administración, se tomarán por mayoría de votos, teniendo el Director voto de calidad para el caso de empate.
 
-## TITULO CUARTO. FACULTADES DE LOS ORGANOS DE DlRECCION Y ADMINISTRACION
+## TITULO CUARTO. FACULTADES DE LOS ORGANOS DE DIRECCION Y ADMINISTRACION
 
 ### CAPITULO I. FACULTADES DEL CONSEJO DE ADMINISTRACION
 
@@ -381,9 +385,7 @@ XVII.- Proponer y aprobar en forma conjunta con el Comité Ejecutivo de la Secci
 
 XVIII.- Establecer acuerdos y convenios de colaboración, sin fines de lucro, con el Comité Ejecutivo de la Sección 38 y las Instituciones de Seguridad Social, para dotar y recibir recursos económicos, humanos y materiales;
 
-> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
-
-XIX.- Establecer convenios con Organismos públicos, Dependencias de Gobierno, Universidades públicas y privadas, para el otorgamiento de créditos a los trabajadores de dichas entidades, con garantía de descuento por nómina. Las condiciones de plazo e intereses que se establezcan en los convenios correspondientes no podrán ser menores o iguales a los que esta ley establece para sus beneficiarios; y
+XIX.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -489,7 +491,7 @@ Son facultades y obligaciones del Vocal Ejecutivo:
 
 I.- Ser responsable de la Sección Técnica correspondiente a las obras objeto del Organismo, a realizar por medio de créditos otorgados por Instituciones Nacionales de Crédito.
 
-Il.- Supervisar y tramitar la documentación legal necesaria para la compra de terrenos, urbanización, construcción, compra, remodelación, ampliación o mejoramiento de vivienda y rescate de hipoteca, con cargo a créditos de las Instituciones Nacionales de Crédito o con cargo a créditos otorgados con recursos del propio Organismo.
+II.- Supervisar y tramitar la documentación legal necesaria para la compra de terrenos, urbanización, construcción, compra, remodelación, ampliación o mejoramiento de vivienda y rescate de hipoteca, con cargo a créditos de las Instituciones Nacionales de Crédito o con cargo a créditos otorgados con recursos del propio Organismo.
 
 III.- Vigilar la ejecución y avances de las obras, junto con el Director y el Subdirector de Finanzas del Consejo de Administración.
 
@@ -517,7 +519,7 @@ Son facultades y obligaciones de los Representantes del Gobierno del Estado ante
 
 I.- Representar ante el Organismo, los intereses del Gobierno del Estado.
 
-Il.- Vigilar que los beneficios que establece la presente Ley, se otorguen con estricto apego a la misma.
+II.- Vigilar que los beneficios que establece la presente Ley, se otorguen con estricto apego a la misma.
 
 > <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -551,7 +553,7 @@ Son facultades y obligaciones del Comité Ejecutivo de la Sección 38 del S.N.T.
 
 I.- Vigilar que las instituciones aportantes al Organismo, cubran puntualmente el monto de las mismas.
 
-Il.- Procurar mediante su supervisión, que los créditos obtenidos de las instituciones bancarias por el Organismo, respondan a las necesidades habitacionales de los trabajadores de la educación afiliados.
+II.- Procurar mediante su supervisión, que los créditos obtenidos de las instituciones bancarias por el Organismo, respondan a las necesidades habitacionales de los trabajadores de la educación afiliados.
 
 III.- Vigilar que los créditos sean otorgados por el Organismo, conforme a los requisitos establecidos en esta Ley.
 
@@ -603,7 +605,9 @@ VII.- Compra de bienes muebles e inmuebles para la operación del Organismo y su
 
 VIII.- El otorgamiento de créditos con condiciones preferenciales en favor de las Instituciones de Seguridad Social pertenecientes a la Sección 38 y del propio Comité Ejecutivo de dicha organización Sindical;
 
-IX.- Al otorgamiento de apoyos mediante erogaciones o en especie que con motivo exclusivamente del desempeño de sus puestos realicen los integrantes de los órganos de gobierno y las correspondientes acciones que con ese mismo fin realicen los integrantes del Comité Ejecutivo siempre que estas erogaciones no comprometan la correcta operación de la Institución;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+IX.- Al otorgamiento de apoyos mediante erogaciones o en especie que con motivo exclusivamente del desempeño de sus puestos realicen los integrantes del Comité Ejecutivo siempre que estas erogaciones no comprometan la correcta operación de la Institución;
 
 X.- La compra de cartera en favor del Servicio Médico de los Trabajadores de la Educación, en los términos y condiciones que el Reglamento correspondiente establezca; y
 
@@ -677,9 +681,9 @@ ARTICULO 39 B.- En los casos de los trabajadores que a la fecha de pensionarse p
 
 ARTICULO 39 C.- Los beneficios a que se refiere este Título, se proporcionarán de acuerdo con las posibilidades económicas del Organismo. Para tal caso, programará anualmente las cantidades destinadas para tal propósito, con criterio de equidad y de beneficio general para los trabajadores.
 
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-ARTICULO 39 D.- En caso de separación definitiva del servicio activo o fallecimiento del trabajador, él o sus beneficiarios, tendrán derecho a que se les reintegre el 50% de las aportaciones acumuladas a favor del trabajador, siempre y cuando no haya disfrutado de algunos de los beneficios que este Organismo otorga. El derecho a esta prestación prescribirá en favor del Organismo a los cinco años a partir de la fecha en que fuere exigible.
+ARTICULO 39 D.- En caso de separación definitiva del servicio activo o fallecimiento del trabajador, él o sus beneficiarios, tendrán derecho a que se les reintegre hasta un 50% de las aportaciones acumuladas a favor del trabajador, siempre y cuando no haya disfrutado de algunos de los beneficios que este Organismo otorga. El derecho a esta prestación prescribirá en favor del Organismo a los cinco años a partir de la fecha en que fuere exigible.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -773,7 +777,7 @@ La aplicación de los recursos destinados al fondo de reserva que se constituya 
 
 > <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2016)</small>
 
-## TITULO SEPTIMO. DE LOS CREDlTOS OTORGADOS POR EL ORGANISMO
+## TITULO SEPTIMO. DE LOS CREDITOS OTORGADOS POR EL ORGANISMO
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -995,7 +999,7 @@ Los créditos de interés social o hipotecarios otorgados a los trabajadores de 
 
 ## TITULO DECIMO SEGUNDO. DE LAS OBLIGACIONES DE LAS INSTITUCIONES APORTANTES
 
-### CAPITULO UNICO. INCORPORACION DE TRABAJADORES Y APLlCACION DE DESCUENTOS
+### CAPITULO UNICO. INCORPORACION DE TRABAJADORES Y APLICACION DE DESCUENTOS
 
 ###### ARTICULO 89.
 
@@ -1069,7 +1073,7 @@ RAMIRO FLORES MORALES
 
 DIPUTADO SECRETARIO
 
-ROGELlO RAMOS SÁNCHEZ
+ROGELIO RAMOS SÁNCHEZ
 
 (RÚBRICA)
 
@@ -1097,13 +1101,13 @@ Saltillo, Coahuila 5 de Mayo de 2011
 
 EL GOBERNADOR INTERINO DEL ESTADO
 
-LlC. JORGE JUAN TORRES LÓPEZ
+LIC. JORGE JUAN TORRES LÓPEZ
 
 (RÚBRICA)
 
 EL SECRETARIO DE GOBIERNO
 
-LlC. DAVID AGUlLLÓN ROSALES
+LIC. DAVID AGUILLÓN ROSALES
 
 (RÚBRICA)
 
@@ -1132,3 +1136,73 @@ SEGUNDO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en
 TERCERO.- Se otorga al Organismo, un plazo de treinta días contados a partir del día siguiente de la entrada en vigor del presente decreto, para que el instituto expida los reglamentos correspondientes.
 
 CUARTO.- El Consejo de Administración contará con un plazo no mayor a 30 días contados a partir de la entrada en vigor del presente Decreto para emitir el manual de funciones de mandos intermedios con respecto a los inmuebles que coadyuven al financiamiento y capitalización del FOVI.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1176.- SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN Y SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA”.]
+
+PRIMERO.- Las disposiciones del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Las disposiciones relativas a las reformas y adiciones a la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación del Estado de Coahuila de Zaragoza, entrarán en vigor 30 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los trabajadores en transición que tuvieran derecho adquirido para disfrutar alguna de las pensiones otorgadas por la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza, publicada mediante Decreto Número 334, publicado en el Periódico Oficial del Gobierno del Estado Número 3, Tomo CXXIII, Segunda Sección, de fecha 8 de enero del 2016, mantendrán su derecho.
+
+TERCERO.- Se concede un plazo de 180 días contados a partir de la entrada en vigor de la presente ley a fin de que la Dirección de Pensiones de los Trabajadores de la Educación, regularice las cantidades recibidas en virtud del artículo 53, 54 y 55 de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza.
+
+CUARTO.- Se concede un plazo de 180 días contados a partir de la entrada en vigor de la presente ley a fin de que la Dirección de Pensiones de los Trabajadores de la Educación regularice la situación de los trabajadores del Servicio Médico que perciben la prestación de riesgo profesional, a fin de que recabe las cantidades que se dejaron de aportar por dicho concepto en los términos del artículo 54 de esta la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza y sean consideradas para la tabulación de las pensiones.
+
+QUINTO.- Queda expresamente prohibido que la Dirección de Pensiones de los Trabajadores de la Educación, admita a partir de la entrada en vigor de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza, en los términos del Artículo Primero Transitorio de este Decreto, a nuevos trabajadores de la Universidad Autónoma de Coahuila y la Universidad Autónoma Agraria Antonio Narro en cualquiera de sus regímenes pensionarios.
+
+SEXTO.- Los gastos de administración a que se refiere el artículo 21 de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza, pasarán a cargo de las cuentas individuales una vez que se extingan los recursos del fondo global por haber concluido el periodo de transición de los trabajadores afiliados a dicho régimen.
+
+Los gastos de administración antes referidas corresponderán al 1.5% de la nómina integrada del personal activo afiliado a la dirección de pensiones bajo el régimen de cuentas individuales cuyo monto se deducirá de las aportaciones que realicen las entidades aportantes a que se refiere el artículo 2 la (sic) Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza. El remanente será distribuido a las cuentas individuales en la forma y términos que corresponda.
+
+SÉPTIMO.- Se abrogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE “SE REFORMA EL ARTÍCULO 11, DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, la papelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
