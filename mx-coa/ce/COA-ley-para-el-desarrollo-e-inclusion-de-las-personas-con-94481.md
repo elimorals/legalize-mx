@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2017-12-01"
+last_updated: "2017-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -71,9 +71,9 @@ VI. Comunicación. El lenguaje escrito, oral y la lengua de señas mexicana, la 
 
 VII. Comunidad de personas sordas. Todo aquel grupo social cuyos miembros tienen alguna discapacidad auditiva que les limita sostener una comunicación y socialización regular y fluida en lengua oral, por lo que requieren de otros sistemas alternativos de acceso a la información;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-VIII. Comisión Interinstitucional: la que se integra por la Comisión de Derechos Humanos del Estado de Coahuila, la Secretaría de Desarrollo Social, la Secretaría de Infraestructura y Transporte, la Secretaría de Salud, la Secretaría de Educación, el Sistema Estatal para el Desarrollo Integral de la Familia y Protección de Derechos, la Secretaría del Trabajo, la Secretaría de Cultura, la Secretaría de Desarrollo Rural, la Secretaría de Desarrollo Económico Competitividad y Turismo y la Secretaría del Medio Ambiente; tendrá por objeto coadyuvar en acciones específicas de concertación, coordinación, planeación, promoción, seguimiento y vigilancia que permitan garantizar condiciones favorables a las personas que enfrentan alguna discapacidad;
+VIII. Comisión Interinstitucional: la que se integra por la Comisión de Derechos Humanos del Estado de Coahuila, la Secretaría de Inclusión y Desarrollo Social, la Secretaría de Infraestructura y Transporte, la Secretaría de Salud, la Secretaría de Educación, el Sistema Estatal para el Desarrollo Integral de la Familia y Protección de Derechos, la Secretaría del Trabajo, la Secretaría de Cultura, la Secretaría de Desarrollo Rural, la Secretaría de Economía y Turismo y la Secretaría del Medio Ambiente y Desarrollo Urbano; tendrá por objeto coadyuvar en acciones específicas de concertación, coordinación, planeación, promoción, seguimiento y vigilancia que permitan garantizar condiciones favorables a las personas que enfrentan alguna discapacidad;
 
 IX. Convención. Convención sobre los Derechos de las Personas con Discapacidad;
 
@@ -277,7 +277,9 @@ Las personas con discapacidad no podrán ser objeto de ninguna vulneración, dis
 
 La violación a cualquiera de sus derechos o libertades fundamentales será inmediatamente hecha del conocimiento de las autoridades competentes, quienes deberán restituir a la brevedad posible a las personas con discapacidad en el ejercicio de sus derechos, sin perjuicio de aplicar las penas o sanciones correspondientes a las personas responsables.
 
-Las denuncias de tales violaciones podrán realizarse directamente por el interesado o por cualquier persona que presencie o le conste dicha violación. La Procuraduría General de Justicia del Estado y la Comisión de Derechos Humanos del Estado, deberán elaborar, publicar y difundir manuales y material informativo en el que se dé a conocer e informe a las personas con discapacidad sobre las autoridades a las cuales deben acudir en el caso de la violación de sus derechos fundamentales, así como de los procedimientos que se deben iniciar.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
+Las denuncias de tales violaciones podrán realizarse directamente por el interesado o por cualquier persona que presencie o le conste dicha violación. La Fiscalía General del Estado y la Comisión de Derechos Humanos del Estado, deberán elaborar, publicar y difundir manuales y material informativo en el que se dé a conocer e informe a las personas con discapacidad sobre las autoridades a las cuales deben acudir en el caso de la violación de sus derechos fundamentales, así como de los procedimientos que se deben iniciar.
 
 ### Capítulo II. De la salud
 
@@ -467,13 +469,13 @@ La Secretaría de Educación deberá coordinarse con la Secretaría del Trabajo,
 
 Las personas con discapacidad tienen derecho a la accesibilidad universal en condiciones dignas y seguras en espacios públicos.
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-La Secretaría de Infraestructura y Transporte, Secretaría de Medio Ambiente, Secretaría de Desarrollo Social y las otras dependencias y entidades de la Administración Pública Estatal y Municipal vigilarán el cumplimiento de las disposiciones que en materia de accesibilidad, desarrollo urbano y vivienda se establecen en la normatividad vigente.
+La Secretaría de Infraestructura y Transporte, Secretaría de Medio Ambiente y Desarrollo Urbano, Secretaría de Inclusión y Desarrollo Social y las otras dependencias y entidades de la Administración Pública Estatal y Municipal vigilarán el cumplimiento de las disposiciones que en materia de accesibilidad, desarrollo urbano y vivienda se establecen en la normatividad vigente.
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
-La Secretaría de Infraestructura y Transporte y la Secretaría de Medio Ambiente deberán emitir normas sobre accesibilidad a edificios públicos, centros de salud, escuelas y demás espacios de naturaleza pública así como de urbanismo, transporte público o cualquier otro servicio que implique la accesibilidad de personas con discapacidad.
+La Secretaría de Infraestructura y Transporte y la Secretaría de Medio Ambiente y Desarrollo Urbano deberán emitir normas sobre accesibilidad a edificios públicos, centros de salud, escuelas y demás espacios de naturaleza pública así como de urbanismo, transporte público o cualquier otro servicio que implique la accesibilidad de personas con discapacidad.
 
 Los edificios públicos según el uso al que serán destinados, deberán adecuarse a las Normas Oficiales Mexicanas que expidan las autoridades competentes, para el aseguramiento de la accesibilidad a las personas con discapacidad y aquellos que ya están construidos deberán realizar los ajustes razonables.
 
@@ -653,9 +655,11 @@ Las instituciones de gobierno estatal y municipal procuraran mantener en sus pá
 
 ### Capítulo VII. Del desarrollo social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 53°.
 
-La Secretaría de Desarrollo Social promoverá el derecho de las personas con discapacidad a un mayor índice de desarrollo humano, así como el de sus familias, incluyendo alimentación, vestido y vivienda adecuados y a la mejora continua de sus condiciones de vida, sin discriminación por motivos de discapacidad. Para estos efectos, realizará las siguientes acciones:
+La Secretaría de Inclusión y Desarrollo Social promoverá el derecho de las personas con discapacidad a un mayor índice de desarrollo humano, así como el de sus familias, incluyendo alimentación, vestido y vivienda adecuados y a la mejora continua de sus condiciones de vida, sin discriminación por motivos de discapacidad. Para estos efectos, realizará las siguientes acciones:
 
 I. Establecer medidas que garanticen el acceso de las personas con discapacidad en todas las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza, en observancia de todas aquellas disposiciones que les sean aplicables de esta ley;
 
@@ -1005,15 +1009,17 @@ III. El daño físico que le sea infligido en forma dolosa a un perro guía;
 
 IV. La comisión de tres faltas graves, sancionadas, en un período de dos años.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 94°.
 
 Para los efectos de la presente ley, se aplicará, independientemente de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
 
-I. Para las infracciones leves, multa equivalente de 10 a 50 días de salario mínimo vigente en el Estado;
+I. Para las infracciones leves, multa equivalente de 10 a 50 veces el valor diario de la unidad de medida y actualización;
 
-II. Para las infracciones graves, multa equivalente de 51 a 100 días de salario mínimo vigente en el Estado; y
+II. Para las infracciones graves, multa equivalente de 51 a 100 veces el valor diario de la unidad de medida y actualización; y
 
-III. Para las infracciones muy graves, multa equivalente de 100 a 300 días de salario mínimo vigente en el Estado.
+III. Para las infracciones muy graves, multa equivalente de 100 a 300 veces el valor diario de la unidad de medida y actualización.
 
 El monto de dinero obtenido de estas sanciones será destinado a la realización de programas en beneficio o atención a personas con discapacidad.
 
@@ -1224,3 +1230,51 @@ P.O. 1 DE DICIEMBRE DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE “SE MODIFICAN LA FRACCIÓN VIII DEL ARTÍCULO 2°, EL PÁRRAFO TERCERO DEL ARTÍCULO 9°, EL PÁRRAFO SEGUNDO Y TERCERO DEL ARTÍCULO 28°, EL PÁRRAFO PRIMERO DEL 53° Y EL ARTÍCULO 94°, TODOS DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
+
+TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
+
+CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
+
+Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
+
+QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
+
+SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
+
+Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
+
+OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
+
+Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, la papelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
+
+NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
+
+DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
+
+Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
+
+Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
+
+Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
+
+Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
+
+Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
+
+Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
+
+DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
+
+DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
+
+DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
