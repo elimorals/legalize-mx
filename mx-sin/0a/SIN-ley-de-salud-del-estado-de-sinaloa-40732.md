@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2017-08-11"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -895,6 +895,8 @@ Para mayor eficacia de las acciones a que se refiere este artículo, se creará 
 
 ### CAPÍTULO IV. DE LA SALUD MENTAL
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 74.
 
 Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo con el fin de promover la protección o restauración de su salud.
@@ -1039,51 +1041,29 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones 
 
 ###### Artículo 87.
 
-La conservación de la Salud Mental tiene carácter prioritario en la salud integral. Para la atención de los trastornos mentales y del comportamiento, se tomarán en cuenta los factores protectores, de predisposición y riesgo, biológicos, psicológicos y socioculturales; así como los Modelos de Prevención y Atención aceptados en el campo de la salud mental.
+Las disposiciones relativas a las atribuciones de las autoridades y los derechos y obligaciones en materia de salud mental, serán reguladas por la Ley especifíca que al efecto se emita.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 88.
 
-Para la promoción y conservación de la salud mental, las instituciones del sector salud:
-
-I. Impulsarán el desarrollo de una cultura de promoción, protección y conservación de la salud mental;
-
-II. Implementarán acciones preventivas con el propósito de promover la toma de conciencia de la forma en que cada individuo enfrenta su situación vital y la construcción de estilos de vida saludables; enfatizando el fortalecimiento de factores que contribuyan en la protección de la salud mental a nivel individual, familiar, comunitario y social, así como debilitar los factores de predisposición y riesgo; y
-
-III. Las demás acciones que, directa o indirectamente, contribuyan al fomento de la salud mental de la población.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### Artículo 89.
 
-La atención de enfermedades mentales:
-
-I. Se basará en principios científicos y éticos orientados a restituir en el mayor grado posible la salud mental del individuo;
-
-II. Se desarrollará en términos de necesidades particulares de cada paciente, con la participación interdisciplinaria de los trabajadores de la salud;
-
-III. Precisa implementar programas que favorezcan la reinserción social, así como la promoción del involucramiento del paciente, su familia y la comunidad en el tratamiento y rehabilitación del mismo;
-
-IV. Deberá sujetarse a lo dispuesto por el Reglamento de la Ley General de Salud y las Normas Oficiales Mexicanas aplicables para la prestación de servicios de atención médica; y
-
-V. Exhorta a la Secretaría de Salud para asesorar y supervisar a instituciones dedicadas al estudio, tratamiento, rehabilitación y reinserción de personas con trastornos mentales y del comportamiento.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### Artículo 90.
 
-La atención de personas con trastornos mentales y del comportamiento que se encuentren en reclusorios del estado o en otras instituciones estatales especializadas en salud mental, será responsabilidad del Ejecutivo del Estado, conforme a las Normas Oficiales Mexicanas que establezca la Secretaría de Salud.
-
-Al efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### Artículo 91.
 
-El internamiento de personas con padecimientos mentales en establecimientos destinados a tal efecto, se ajustará a los requisitos científicos y legales que determine la Secretaría de Salud.
-
-No podrá negarse el acceso a los servicios de salud a que se refiere el párrafo anterior por la sola razón de padecer enfermedad infectocontagiosa.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### Artículo 92.
 
-Los padres, tutores, o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquiera persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer, fundadamente, la existencia de enfermedades mentales.
-
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones del sector salud dedicadas a la atención de enfermos mentales.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE TRASPLANTES DE ÓRGANOS Y TEJIDOS HUMANOS DE SINALOA
 
@@ -3144,3 +3124,13 @@ CUARTO. Las instituciones públicas y privadas que prestan los servicios de salu
 QUINTO. Las instituciones públicas y privadas deberán cumplir con las obligaciones contenidas en la presente Ley, en un plazo no mayor a un año, a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido por el presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 267 QUE EXPIDE LA LEY DE SALUD MENTAL DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los noventa días siguientes a la entrada en vigor de la misma y realizar las modificaciones reglamentarias correspondientes a efecto de que las autoridades sanitarias estatales cumplan con las obligaciones contenidas en este Decreto.
+
+TERCERO. La Secretaría de Salud conforme a la suficiencia presupuestal asignada en (sic) Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el ejercicio fiscal del año 2018, instrumentará las acciones establecidas en la presente Ley.
