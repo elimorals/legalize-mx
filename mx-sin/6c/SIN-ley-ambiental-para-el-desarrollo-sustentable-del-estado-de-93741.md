@@ -4,7 +4,7 @@ identifier: "SIN-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9374
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2017-06-09"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 8 de abril de 2013.
 
@@ -247,7 +247,9 @@ LXVII. Reutilización: El empleo de un material o residuo previamente usado, sin
 
 LXVIII. Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud humana, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
 
-LXIX. Secretaría: La Secretaría de Desarrollo Social y Humano del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+LXIX. Secretaría: La Secretaría de Desarrollo Sustentable del Gobierno del Estado de Sinaloa.
 
 LXX. Semarnat: Secretaría del Medio Ambiente y Recursos Naturales;
 
@@ -475,67 +477,113 @@ Contará con un Consejo Técnico, que estará presidido por el Director General 
 
 #### SECCIÓN II. Consejo Estatal para el Desarrollo Sustentable
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 20.
 
-Se crea el Consejo Estatal para el Desarrollo Sustentable como un órgano intersectorial de apoyo, coordinación, consulta, concertación y asesoría cuyas atribuciones y las de sus integrantes, serán las que señale el Reglamento de la presente Ley y del Consejo Estatal.
+Se crea el Consejo Estatal para el Desarrollo Sustentable como un órgano intersectorial de apoyo, coordinación, consulta, concertación, participación social y asesorías cuyas atribuciones y las de sus integrantes, serán las que señalen las disposiciones reglamentarias correspondientes, así como el Reglamento Interior del propio Consejo.
 
 ###### Artículo 21.
 
 Tendrá como objeto proponer las políticas, programas, proyectos e instrumentos tendientes al apoyo, fomento, productividad regulación y control de actividades en materia ambiental para el Desarrollo Sustentable del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 22.
 
-El Consejo Estatal para el Desarrollo Sustentable en el ejercicio de sus funciones contará con un Comité Directivo y la Asamblea General. El Comité Directivo estará integrado por:
+El Consejo Estatal se integrará por:
 
-I. Presidente Ejecutivo;
+I. El titular de cada una de las siguientes dependencias del Estado de Sinaloa:
 
-II. Secretario Técnico;
+a) De la Secretaría de Desarrollo Sustentable, quien lo presidirá;
 
-III. Vocales de las Secretarías del Gobierno del Estado: Desarrollo Social y Humano, Administración y Finanzas, Educación Pública y Cultura, Agricultura, Ganadería y Pesca, Desarrollo Económico, Turismo y Salud;
+b) De la Secretaría General de Gobierno:
 
-IV. Vocales de las delegaciones y dependencias federales en el Estado: Secretaría de Medio Ambiente y Recursos Naturales, Procuraduría Federal de Protección al Ambiente, Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Comisión Nacional del Agua, Comisión Nacional Forestal y Comisión Nacional de Áreas Naturales Protegidas;
+c) De la Secretaría de Administración y Finanzas;
 
-V. Vocal de la Comisión de Ecología del Congreso del Estado;
+d) De la Secretaría de Educación Pública y Cultura;
 
-VI. Vocal del sector académico y de investigación;
+e) De la Secretaría de Agricultura y Ganadería;
 
-VII. Vocal del sector ambiental;
+f) De la Secretaría de Turismo; y
 
-VIII. Vocal del sector social; y
+g) De la Secretaría de Salud.
 
-IX. Vocal Empresarial.
+II. Para la integración no gubernamental del Consejo Estatal, se invitará a formar parte del mismo a miembros de:
 
-Tendrán derecho a voz y voto; el Presidente, el vocal de la Secretaría de Desarrollo Social y Humano, el vocal de la Comisión de Ecología del Congreso del Estado y los Vocales del sector Académico y de Investigación, Ambiental, Social y Empresarial; los demás Vocales únicamente tendrán derecho a voz. Por cada representante propietario se designará un suplente.
+a) Instituciones académicas y centros de investigación relacionadas con las materias que regula la presente Ley, con presencia en el Estado;
+
+b) Organizaciones sociales o privadas relacionadas con las materias que regula la presente Ley, con presencia en el Estado; y
+
+c) Personas físicas con reconocido prestigio en las materias que regula la presente Ley, con presencia en el Estado.
+
+Tendrán derecho a voz y voto los integrantes mencionados en las fracciones I y II. Los invitados permanentes señalados en el artículo 23 sólo tendrán derecho a voz.
+
+Los integrantes previstos en la fracción II se incorporarán al Consejo Estatal a invitación que les formule el titular de la Secretaría, bajo el siguiente criterio:
+
+Los Consejeros representantes de cada uno de los sectores serán seleccionados de la siguiente manera:
+
+Consejero del Sector Académico y de Investigación. La Secretaría llevará a cabo una selección representativa de los sectores académicos y científicos con influencia en el Estado.
+
+Consejero de los Sectores Social o Privado. Será elegido por votación entre representantes de las distintas organizaciones de la sociedad civil y de las organizaciones privadas con presencia en el Estado.
+
+Las personas físicas con reconocido prestigio a que se refiere el inciso c), serán designados por el presidente a propuesta de los integrantes señalados en la fracción I del presente artículo.
+
+El número de representantes no gubernamentales podrá ampliarse, de conformidad con el procedimiento que se establezca en el Reglamento Interior del Consejo Estatal. En todo caso deberá procurarse un equilibrio en la proporción numérica de las representaciones no gubernamentales.
+
+Los integrantes del Consejo Estatal podrán designar a un suplente, comunicándolo por escrito al Secretario Técnico.
+
+Los representantes no gubernamentales durarán cuatro años en el cargo.
+
+El Secretario Técnico del Consejo Estatal será nombrado por el Presidente, de entre los servidores públicos de la Secretaría.
+
+Los cargos de los integrantes del Consejo Estatal serán honoríficos, por lo que no percibirán retribución alguna por su desempeño.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 23.
 
-La designación de cada uno de los integrantes del Consejo se hará de la manera siguiente:
+Participarán como invitados permanentes del Consejo Estatal:
 
-I. El Presidente Ejecutivo será nombrado por el Ejecutivo Estatal y este le dará posesión en la primer sesión del Consejo en Pleno;
+I. El Diputado Presidente de la Comisión de Ecología del H. Congreso del Estado;
 
-II. El Secretario Técnico será nombrado por el Presidente Ejecutivo del Consejo Estatal para el Desarrollo Sustentable;
+II. Un Representante de la Delegación de la Secretaría de Medio Ambiente y Recursos Naturales;
 
-III. Los Vocales serán electos por votación en la Asamblea General; y
+III. Un Representante de la Delegación de la Procuraduría Federal de Protección al Ambiente;
 
-IV. Los vocales representantes de cada uno de los sectores serán seleccionados de la siguiente manera:
+IV. Un Representante de la Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-a) Vocales del Sector Intersecretarial, Delegados Federales y la Comisión de Ecología del H. Congreso del Estado, serán nombrados por invitación directa del Ejecutivo Estatal, o por el Presidente Ejecutivo;
+V. Un Representante de la Comisión Nacional del Agua;
 
-b) Vocal del Sector Empresarial. Estas organizaciones se integrarán al Consejo a invitación expresa del Presidente Ejecutivo del mismo o a solicitud de los representantes de las organizaciones privadas una vez que hayan designado a su representante;
+VI. Un Representante de la Comisión Nacional Forestal;
 
-c) Vocal del Sector Académico y de Investigación. Se llevará a cabo una selección representativa de los sectores académicos y científicos con influencia en el Estado, quienes lo propondrán al Ejecutivo Estatal o el Presidente Ejecutivo. Se podrán convocar Investigadores o ciudadanos independientes que cuenten con experiencia en los temas de Medio Ambiente o temas de interés de este Consejo; y
+VII. Un Representante de la Comisión Nacional de Áreas Naturales Protegidas; y
 
-d) Vocales de los Sectores Ambiental y Social. Serán elegidos por votación entre representantes de las distintas organizaciones de la sociedad civil, o a invitación directa del Ejecutivo Estatal o del Presidente Ejecutivo.
+VIII. Un Representante de cada uno de los Consejos Municipales.
+
+Asimismo, por acuerdo de sus integrantes el Consejo Estatal podrá invitar a sus sesiones a otros representantes de las dependencias y entidades de la Administración Pública Estatal, del Gobierno Federal, de otras entidades federativas o de los ayuntamientos, así como a personas físicas y representantes de organizaciones e instituciones relacionadas con las materias que regula la presente Ley, cuando se estime conveniente, por la naturaleza de los asuntos a tratar.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 24.
 
-La Asamblea General estará integrada por los cinco sectores del Consejo: Sector Intersecretarial, Delegaciones Federales y del Congreso del Estado; Sector Académico y de Investigación; Sector Empresarial; Sector Ambiental y Social. Los cuales podrán contar con un coordinador de asamblea y un secretario de actas, quienes serán electos de entre sus miembros por los propios asambleístas.
+Corresponderá al Consejo Estatal, el ejercicio de las funciones siguientes:
 
-Los cargos que desempeñen los Consejeros serán honoríficos, excepto los que tengan asignada una responsabilidad administrativa dentro del Consejo.
+I. Promover la participación social y la coordinación entre dependencias y entidades de la Administración Pública Estatal, así como entre los diferentes órdenes de gobierno;
 
-El Consejo creará las Comisiones de trabajo que considere necesarios (sic), de conformidad con la problemática ambiental del Estado.
+II. Proponer las políticas, programas, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de actividades en materia ambiental;
 
-La mecánica para las convocatorias, tipos de sesión, forma de adoptar los acuerdos, suplencias y ausencias, operación y funcionamiento de las comisiones de trabajo y las atribuciones y estructura orgánica del Consejo Estatal para el Desarrollo Sustentable, se regirán por su Reglamento Interior.
+III. Atender los acuerdos remitidos por los Consejos Municipales;
+
+IV. Invitar a los representantes de los sectores académico, privado y social que se integrarán al Comité Técnico del Fondo;
+
+V. Emitir opiniones técnicas sobre proyectos de obras o actividades en los que exista controversia respecto a los impactos ambientales esperados o de las medidas preventivas de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente, en el desarrollo del procedimiento de evaluación de impacto ambiental;
+
+VI. Participar en la aplicación de la autorregulación y auditorías ambientales, en los términos que establezca el Reglamento Interior;
+
+VII. Conocer y, en su caso, acordar la difusión del Informe sobre la situación existente en la entidad en materia de equilibrio y protección al ambiente en el Estado de Sinaloa; y
+
+VIII. Las demás que establezca su Reglamento Interno.
 
 #### SECCIÓN III. Consejos Municipales de Desarrollo Sustentable
 
@@ -639,13 +687,21 @@ I. Presidente: titular de la Secretaría;
 
 II. Secretario: El subsecretario de Medio Ambiente y Recursos Naturales;
 
-III. Un representante de las Secretarías de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-IV. Un representante de la Unidad de Transparencia y Rendición de Cuentas;
+III. Un representante de la Secretaría de Administración del Gobierno del Estado de Sinaloa;
 
-V. Un representante vocal del H. Congreso del Estado; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-VI. Un representante vocal de cada uno de los sectores educativo, público, privado y social.
+IV. Un representante de la Secretaría de Transparencia y Rendición de Cuentas del Gobierno del Estado (sic) Sinaloa;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+V. El Diputado Presidente de la Comisión de Ecología del H. Congreso del Estado; y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+VI. Un representante vocal por cada uno de los sectores académico, privado y social que les proponga el Consejo Estatal.
 
 ###### Artículo 32.
 
@@ -2055,7 +2111,9 @@ IV. Ejercer las demás facultades que le confiere el Artículo 11 fracción III 
 
 Para la operación y funcionamiento de las fuentes fijas de jurisdicción estatal que emitan o puedan emitir olores, gases o partículas sólidas o líquidas a la atmósfera, requerirán la autorización de la Secretaría.
 
-Para los efectos a que se refiere esta Ley, se consideran fuentes fijas de jurisdicción estatal, las industrias de alimentos, de bebidas, azucarera, del hule y sus derivados, ladrilleras, maquiladoras, textiles, tenerías y curtidurías, farmacéutica, de cosméticos, almacén de granos, hoteles y de tratamiento de residuos de baja peligrosidad..
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Para los efectos a que se refiere esta Ley, se consideran fuentes fijas de jurisdicción estatal, las industrias de alimentos, de bebidas, azucarera, del hule y sus derivados, ladrilleras, maquiladoras, textiles, tenerías y curtidurías, farmacéutica, de cosméticos, almacén de granos, hoteles y de tratamiento de residuos de manejo especial o residuos sólidos urbanos.
 
 El Reglamento que al efecto se expida determinará los subsectores específicos pertenecientes a cada uno de los sectores industriales antes señalados, cuyos establecimientos se sujetarán a las disposiciones de la legislación estatal, en lo que se refiere a la emisión de contaminantes a la atmósfera.
 
@@ -2345,33 +2403,19 @@ V. Impacto visual negativo.
 
 ###### Artículo 194.
 
-Los Municipios otorgarán las autorizaciones y concesiones, para la prestación de los servicios de manejo integral de residuos sólidos urbanos y de manejo especial, consistentes en recolección, almacenamiento, transporte, alojamiento, reuso, reciclaje, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial, conforme a esta Ley y a las normas oficiales mexicanas que resulten aplicables.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### Artículo 195.
 
-Los Municipios en coordinación con el Gobierno del Estado podrán concesionar a particulares el sistema de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial, previa garantía de cumplimiento, especificando de manera puntual en el contrato las obligaciones de ambos en el mismo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### Artículo 196.
 
-La Secretaría podrá suscribir con la Semarnat, convenios o acuerdos de coordinación, con el propósito de asumir las siguientes funciones, de conformidad con lo que se establece Ley General para la Prevención y Gestión Integral de los Residuos y con la legislación local aplicable:
-
-I. La autorización y el control de las actividades realizadas por los microgeneradores de residuos peligrosos de conformidad con las normas oficiales mexicanas correspondientes;
-
-II. El control de los residuos peligrosos que estén sujetos a los planes de manejo, de conformidad con lo previsto en la presente Ley;
-
-III. El establecimiento y actualización de los registros que correspondan en los casos anteriores; y
-
-IV. La imposición de las sanciones aplicables, relacionadas con los actos a los que se refiere este Artículo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### Artículo 197.
 
-La Secretaría podrá celebrar acuerdos o convenios de coordinación y asistencia técnica con los Municipios y la Federación para:
-
-I. La elaboración e implementación de los programas para el establecimiento de sistemas de gestión integral de residuos sólidos urbanos y de manejo especial y sus planes de manejo respectivos;
-
-II. Identificar las alternativas de reducción, reutilización, reciclaje, tratamiento y disposición final de residuos sólidos urbanos, incluyendo la elaboración de inventarios de los mismos y sus fuentes generadoras; y
-
-III. Tratándose de la incineración de residuos sólidos urbanos y de manejo especial y por tratarse de una fuente potencial de contaminantes orgánicos persistentes al ambiente no intencionales, particularmente en las fuentes que más contribuyen a ella, como es el caso de la quema a cielo abierto de desechos y la quema en vertederos o rellenos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### Artículo 198.
 
@@ -2453,35 +2497,47 @@ V. Establecer los criterios técnicos para determinar las distancias que se debe
 
 VI. Informar periódicamente a la Secretaría, sobre el seguimiento presentado a las actividades riesgosas, para que esta lleve a cabo el registro estatal de esas actividades.
 
-### CAPÍTULO VI. Residuos Peligrosos Considerados de Baja Peligrosidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO VI
+
+Residuos de Manejo Especial, Sólidos Urbanos y peligrosos, generados o manejados por microgeneradores.
 
 ###### Artículo 211.
 
 El Estado por conducto de la Secretaría podrá suscribir convenios o acuerdos de coordinación con la Semarnat, con la participación, en su caso de sus Municipios, con el objeto de asumir el control de los residuos peligrosos considerados de baja peligrosidad conforme a las disposiciones de la propia Ley General.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 212.
 
-A la Secretaría de acuerdo con el artículo anterior le corresponderá la regulación y el control de los residuos peligrosos considerados de baja peligrosidad, los cuales deberán ser manejados de acuerdo con la presente Ley, su Reglamento que para el efecto se expida, la Ley de residuos y su Reglamento en esta materia y las normas oficiales mexicanas que expida la Federación. La regulación del manejo de estos materiales y residuos incluirá su uso, recolección, almacenamiento, transporte, reuso, reciclaje, tratamiento y disposición final. Además de lo establecido en el convenio o acuerdo de coordinación respectivo. El Reglamento de esta Ley y las normas a que se refiere el párrafo anterior contendrán los criterios y listados que clasifiquen los materiales y residuos peligrosos identificándolos por su grado de baja peligrosidad.
+Los municipios otorgarán las autorizaciones y concesiones para la prestación de los servicios de manejo integral de residuos sólidos urbanos, consistentes en la recolección, almacenamiento, transporte, alojamiento reúso, reciclaje, tratamiento y disposición final de este tipo de residuos, conforme a esta Ley, las normas oficiales mexicanas y las normas estatales en materia ambiental que resulten aplicables. Asimismo, establecerán y mantendrán actualizado el registro de los grandes generadores de residuos sólidos urbanos.
+
+La Secretaría otorgará las autorizaciones y concesiones para la prestación de los servicios de manejo integral de residuos de manejo especial, conforme a esta Ley, las normas oficiales mexicanas, la Ley de Residuos y las normas estatales en materia ambiental que resulten aplicables. Asimismo, establecerá el registro de planes de manejo y programas para la instalación de sistemas destinados a la recolección, acopio, almacenamiento, transporte, tratamiento, valorización y disposición final de residuos de manejo especial y de residuos sólidos urbanos.
+
+Tanto los Municipios, como la Secretaría, podrán concesionar a particulares el sistema de recolección, almacenamiento, transporte, alojamiento, reúso, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial, previa garantía de cumplimiento, especificando de manera puntual en el contrato las obligaciones de dichas autoridades y de los prestadores de los servicios correspondientes.
 
 ###### Artículo 213.
 
 Cuando la generación, manejo o disposición final de residuos peligrosos considerados de baja peligrosidad, produzcan contaminación del suelo, los responsables de dichas operaciones deberán llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del mismo, con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en los planes directores y parciales de desarrollo urbano o de programas de ordenamiento ecológico que resulten aplicables para el predio o zona respectiva.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 214.
 
-Para la regulación y el control de residuos peligrosos considerados de baja peligrosidad los Municipios llevarán a cabo las siguientes acciones:
+Para la regulación y el control de residuos peligrosos generados o manejados por microgeneradores, la Secretaría llevará a cabo las siguientes acciones, de conformidad con los convenios o acuerdos de coordinación que, en su caso, suscriba con la Federación:
 
-I. Relacionar clasificadamente los materiales y residuos peligrosos, identificándolos por su grado de peligrosidad y considerando sus características y volúmenes;
+I. La autorización y el control de las actividades realizadas por los microgeneradores de residuos peligrosos de conformidad con las normas oficiales mexicanas correspondientes;
 
-II. Establecer las medidas de vigilancia necesarias para evitar que los materiales y residuos peligrosos se dispongan en los rellenos sanitarios municipales;
+II. El control de los residuos peligrosos que estén sujetos a los planes de manejo, de conformidad con lo previsto en la presente Ley;
 
-III. Establecer un padrón de las empresas autorizadas por la Federación encargadas de prestar servicios de manejo y disposición final de residuos peligrosos;
+III. El establecimiento y actualización de los registros que correspondan en los casos anteriores; y
 
-IV. Supervisar el cumplimiento de esta Ley y las normas oficiales mexicanas correspondientes en el almacenamiento temporal de envases que contuvieron plaguicidas;
+IV. La imposición de las sanciones aplicables, relacionadas con los actos a los que se refiere este artículo.
 
-V. Vigilar que los generadores se responsabilicen de los efectos de los residuos peligrosos para el equilibrio ecológico y la salud de la población; y
+El Estado podrá suscribir con las entidades federativas convenios o acuerdos de coordinación y colaboración administrativa, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en las leyes que resulten aplicables. Las mismas facultades podrán ejercer los municipios entre sí, aunque pertenezcan a entidades federativas diferentes, de conformidad con lo que establezcan las leyes aplicables.
 
-VI. Promover políticas eficientes de minimización en la generación de residuos sólidos urbanos, reciclaje y recuperación de energía, así como en materia de rellenos sanitarios, incineración y composteo.
+Los convenios o acuerdos de coordinación a que hace referencia el presente artículo, sus modificaciones, así como su acuerdo de terminación, deberán publicarse en el Periódico Oficial "El Estado de Sinaloa".
 
 ### CAPÍTULO VII. Ruido, Vibraciones, Energía Térmica y Lumínica y Olores
 
@@ -3314,3 +3370,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO. Los Ayuntamientos de los Municipios del Estado deberán realizar las adecuaciones necesarias a sus reglamentos en materia de construcciones, ordenamiento territorial y urbano, ecología y protección al ambiente, según corresponda, en un plazo no mayor a 60 días naturales, contados a partir del día siguiente al de la entrada en vigor del presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 274 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN LOS ARTÍCULOS 6, FRACCIÓN LXIX; 20; 22; 23; 24; 31, FRACCIONES III, IV, V Y VI; 154, PÁRRAFO SEGUNDO; 212 Y 214; ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO VI «RESIDUOS PELIGROSOS CONSIDERADOS DE BAJA PELIGROSIDAD» DEL TÍTULO CUARTO, «PROTECCIÓN AL AMBIENTE» PARA DESIGNARSE «RESIDUOS DE MANEJO ESPECIAL, SÓLIDOS URBANOS Y PELIGROSOS, GENERADOS O MANEJADOS POR MICROGENERADORES». Y SE DEROGAN LOS ARTÍCULOS 194, 195, 196 Y 197, DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
