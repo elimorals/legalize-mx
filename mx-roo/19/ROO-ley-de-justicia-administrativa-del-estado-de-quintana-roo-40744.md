@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-justicia-administrativa-del-estado-de-quintana-roo-40744
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-24"
-last_updated: "2004-08-24"
+last_updated: "2017-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1o. DE ENERO DE 2018.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 24 de agosto de 2004.
 
@@ -1579,9 +1581,13 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a la presente L
 
 SALÓN DE SESIONES DEL HONORABLE PODER LEGISLATIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DOCE DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL CUATRO.
 
-EL DIPUTADO PRESIDENTE: EL DIPUTADO SECRETARIO:
+EL DIPUTADO PRESIDENTE:
 
-FRANCISCO J. DIAZ CARVAJAL PABLO DE J. RIVERO ARCEO.
+FRANCISCO J. DIAZ CARVAJAL
+
+EL DIPUTADO SECRETARIO:
+
+PABLO DE J. RIVERO ARCEO.
 
 CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 91 FRACCIÓN II Y 93, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y PARA SU DEBIDA OBSERVANCIA, MANDO SE PUBLIQUE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO, EL DECRETO NÚMERO 123, EXPEDIDO POR LA HONORABLE X LEGISLATURA DEL ESTADO, EL DÍA DOCE DE AGOSTO DEL AÑO DOS MIL CUATRO, POR EL QUE SE APRUEBA LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO. DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS 24 DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL CUATRO.
 
@@ -1592,3 +1598,29 @@ LIC. JOAQUÍN ERNESTO HENDRICKS DÍAZ
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EFRAÍN VILLANUEVA ARCOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 141 POR EL QUE SE EXPIDE EL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO Y A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 1o. de enero del año 2018, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Quintana Roo, expedida mediante Decreto Número 089 de la XV Legislatura del Estado, publicado en el Periódico Oficial del Estado en fecha 19 de julio de 2017, excepto las disposiciones relativas a la designación de Magistrados del Tribunal de Justicia Administrativas (sic), en tanto se concluye el procedimiento y se realice la protesta correspondiente.
+
+TERCERO. La Ley del Procedimiento Administrativo del Estado de Quintana Roo, expedida mediante Decreto Número 335 de la XII Legislatura del Estado, publicado en el Periódico Oficial del Estado en fecha 5 de noviembre de 2010 y la Ley de Justicia Administrativa del Estado de Quintana Roo, expedida mediante Decreto Número 123 de la X Legislatura del Estado, publicado en el Periódico Oficial del Estado de fecha 24 de agosto de 2004, quedarán abrogadas para efectos de su aplicación en los procedimientos que se inicien a partir de la entrada en vigor del presente Código.
+
+Las autoridades administrativas del Estado y los Municipios y la Sala Constitucional del Tribunal Superior de Justicia del Estado, deberán sustanciar y concluir aquellos procedimientos administrativos, así como los recursos iniciados que se encuentren sometidos a su conocimiento, de conformidad con las leyes a que se refiere el párrafo anterior y las disposiciones que mediante el presente decreto se reforman y derogan de la Ley de los Municipios del Estado de Quintana Roo, aplicables al momento de su interposición.
+
+CUARTO. De manera inmediata a la entrada en vigor del presente Código, el Pleno del Tribunal de Justicia Administrativa del Estado hará la designación de los Magistrados que integren las Salas a que se refiere el Libro Tercero.
+
+QUINTO. Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Código, el Pleno del Tribunal de Justicia Administrativa del Estado emitirá el reglamento Interior y demás normatividad que resulte necesaria y solicitará su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEXTO. Los Magistrados y el titular del Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado, nombrados en virtud de las disposiciones de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado que se abroga mediante el presente decreto, continuarán en el ejercicio del cargo para el cual fueron nombrados por la Legislatura del Estado.
+
+El Secretario General de Acuerdos y demás personal jurisdiccional y administrativo nombrado de conformidad con lo establecido en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Quintana Roo que se abroga mediante el presente decreto, seguirán ejerciendo su cargo dentro del Tribunal, siempre y cuando sean compatibles con las disposiciones establecidas en el presente Código.
+
+SÉPTIMO. Los procedimientos de responsabilidad patrimonial de los que conocerá el Tribunal de Justicia Administrativa del Estado de Quintana Roo de conformidad con lo establecido en el artículo 187 fracción XVI del Código de Justicia Administrativa del Estado de Quintana Roo que se expide mediante el presente decreto, deberán ser substanciados de conformidad con la legislación en la materia (sic) en su caso se emita.
+
+OCTAVO. Se derogan todas las disposiciones que contravengan lo previsto en el presente Decreto.
