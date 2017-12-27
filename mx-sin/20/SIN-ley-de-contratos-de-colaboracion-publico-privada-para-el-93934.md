@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-contratos-de-colaboracion-publico-privada-para-el-93934"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-15"
-last_updated: "2016-12-28"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE CONTRATOS DE COLABORACIÓN PÚBLICO PRIVADA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 15 de abril del 2013.
 
@@ -57,6 +57,14 @@ También podrán ser contratos de colaboración público privada los que se real
 
 A estos esquemas de colaboración público privada les resultarán aplicables los principios orientadores del apoyo a la investigación científica, desarrollo tecnológico e Innovación. Estos contratos se regirán por lo dispuesto en esta ley y en lo que les resulte aplicable por la Ley de Ciencia, Tecnología e Innovación del Estado.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Los proyectos de inversión productiva se sujetarán a las disposiciones aplicables a la materia específica que corresponda.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Para estos efectos, se entenderá que los proyectos se realizarán con recursos estatales, cuando las aportaciones de los Municipios del Estado y de sus entes públicos, en su conjunto, sean inferiores en relación con las aportaciones estatales. Para efectos de dicho cómputo no quedan comprendidos los recursos federales correspondientes a los fondos previstos en el capítulo V de la Ley de Coordinación Fiscal.
+
 ###### Artículo 4.
 
 La presente Ley regulará:
@@ -71,9 +79,11 @@ IV. Los demás organismos a los que la ley les atribuyan el carácter de entidad
 
 V. Los Municipios, sus dependencias, organismos descentralizados, empresas de participación municipal, fideicomisos en los que el fideicomitente sea el Gobierno Municipal o una entidad paramunicipal, y demás organismos a los que la ley les atribuya el carácter de entidades paramunicipales.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 5.
 
-El Municipio podrá realizar proyectos de colaboración público privada aplicando lo dispuesto en esta Ley para el Estado. Las obligaciones y facultades que en el ámbito estatal otorga a sus autoridades esta Ley serán ejercidas en el ámbito municipal por las autoridades que señale el Ayuntamiento.
+El Municipio podrá realizar proyectos de colaboración público privada aplicando lo dispuesto en esta Ley. Las obligaciones y facultades que en el ámbito estatal, otorga a sus autoridades esta Ley, serán ejercidas en el ámbito municipal por las autoridades que señale el Ayuntamiento. La aplicación de esta Ley será sin perjuicio de lo dispuesto en las leyes federales y en los tratados internacionales de que el Estado Mexicano es parte.
 
 ###### Artículo 6.
 
@@ -103,19 +113,29 @@ En las bases del concurso podrá establecerse que el Desarrollador sea persona m
 
 XI. Entidades: Los organismos descentralizados de la Administración Pública del Estado, incluyendo los de participación ciudadana, los fideicomisos públicos estatales y las personas de derecho público estatal con autonomía derivada de la Constitución;
 
-XII. Ley: Ley de Contratos de Colaboración Público Privada para el Estado de Sinaloa;
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-XIII. Municipios: Los Municipios del Estado de Sinaloa y sus Entes públicos facultados por el Ayuntamiento para realizar proyectos de colaboración público privada;
+XII. Inversión Pública Productiva: Toda erogación por la cual se genere directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (I) la construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público; (II) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gastó emitido por el Consejo Nacional de Armonización Contable, o (III) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
 
-XIV. Proyectos de colaboración público privada: Cualquier esquema que se implemente para la inversión en infraestructura, para el desarrollo de proyectos de prestación de servicios y para la realización de los demás proyectos previstos por este ordenamiento, en los términos establecidos en sus artículos 7 y 13 de esta Ley;
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-XV. Reglamento: Reglamento de la Ley de Contratos de Colaboración Público Privada para el Estado de Sinaloa;
+XIII. Ingresos locales: Aquellos percibidos por el Estado y por los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables;
 
-XVI. SDUOP: La Secretaría de Desarrollo Urbano y Obras Públicas del Estado;
+XIV. Ley: Ley de Contratos de Colaboración Público Privada para el Estado de Sinaloa;
 
-XVII. SEDECO: La Secretaría de Desarrollo Económico del Estado;
+XV. Municipios: Los Municipios del Estado de Sinaloa y sus Entes públicos facultados por el Ayuntamiento para realizar proyectos de colaboración público privada;
 
-XVIII. Secretaría: La Secretaría de Administración y Finanzas del Estado.
+XVI. Proyectos de colaboración público privada: Cualquier esquema que se implemente para la inversión en infraestructura, para el desarrollo de proyectos de prestación de servicios y para la realización de los demás proyectos previstos por este ordenamiento, en los términos establecidos en sus artículos 7 y 13 de esta Ley;
+
+XVII. Reglamento: Reglamento de la Ley de Contratos de Colaboración Público Privada para el Estado de Sinaloa;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XVIII. SOP: La Secretaría de Obras Públicas del Estado;
+
+XIX. SEDECO: La Secretaría de Desarrollo Económico del Estado;
+
+XX. Secretaría: La Secretaría de Administración y Finanzas del Estado.
 
 ###### Artículo 7.
 
@@ -145,9 +165,11 @@ Los inmuebles del Estado que sean parte de un proyecto de colaboración público
 
 Los permisos, licencias, concesiones y demás autorizaciones que en su caso se requieran para la ejecución de las obras de infraestructura o para el uso o explotación de bienes públicos o prestación de servicios de un proyecto de colaboración público privada, deberán ser otorgadas siempre y cuando en la zona o región donde se desarrolle el proyecto no exista la capacidad o suficiencia necesaria conforme a los requerimientos del proyecto, por parte de los prestadores del servicio público concesionado correspondiente, conforme a lo establecido en la Ley de Tránsito y Transportes del Estado de Sinaloa y demás disposiciones aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 10.
 
-En lo previsto por esta Ley y demás disposiciones que de ella se deriven, serán aplicables a falta de norma expresa, en forma supletoria Ley de Adquisiciones, Arrendamientos, Servicios y Administración de bienes Muebles, así como la Ley de Presupuesto, Contabilidad y Gasto Público, Ley de Deuda Pública, Ley de Planeación, Ley de Desarrollo Urbano, Ley de Obras Públicas, Ley de Expropiación y el Código Civil, todos del Estado de Sinaloa.
+En lo no previsto por esta Ley y demás disposiciones que de ella se deriven, serán aplicables a falta de norma expresa, en forma supletoria, la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles, así como la Ley de Presupuesto y Responsabilidad Hacendaria, la Ley de Deuda Pública, la Ley de Planeación, la Ley de Desarrollo Urbano, la Ley de Obras Públicas, la Ley de Expropiación y el Código Civil, todas del Estado de Sinaloa. Asimismo, es obligatoria la observancia de lo establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 11.
 
@@ -201,7 +223,9 @@ b) SEDECO;
 
 c) Coordinación de Proyectos Estratégicos; y
 
-d) SDUOP.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+d) SOP.
 
 II. Sólo con voz:
 
@@ -287,11 +311,129 @@ El Comité es el órgano colegiado encargado de analizar, evaluar y opinar sobre
 
 Los integrantes del Comité adoptarán sus decisiones por mayoría de votos. En todo caso, la Contraloría respectiva participará sólo con voz.
 
-#### Sección Primera. De la Preparación de los Proyectos
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+#### Sección Cuarta. De la Disciplina Financiera y de la Orientada a Resultados de los Proyectos de Colaboración Público Privada
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 A. Los proyectos de Colaboración Público Privada deberán estar orientados a resultados y deberán crear o generar valor público en beneficio del Estado. La planeación, programación y presupuestación de los proyectos de colaboración público privada, se realizarán de conformidad con lo establecido en la presente Ley, y por lo dispuesto en la Ley de Planeación, la Ley de Presupuesto y Responsabilidad Hacendaria, ambas del Estado de Sinaloa y, por la Ley de Disciplina Financiera de los Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 B. En los proyectos de inversión pública productiva que se pretendan contratar bajo un esquema de Colaboración Público Privada, la dependencia, entidad y/o Municipio interesado en el proyecto, deberá incluir en el análisis a que hace referencia el artículo 27 de esta Ley, la vinculación del proyecto con el o los ejes, temas, objetivos y estrategias del Plan Estatal de Desarrollo, a fin de asegurar la congruencia del proyecto.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 C. La Secretaría conformará un Registro Público de Propuestas de Colaboración Público Privada de los proyectos que pretendan contratarse bajo un esquema de Colaboración Público Privada, distinguiéndolos entre ellos, si se trata de proyectos de inversión pública productiva o de prestación de servicios.
+
+Si la Secretaría cuenta con un registro general de proyecto de inversión, el Registro Público de Propuestas de Colaboración Público Privada a que se refiere este artículo será un componente del registro general que tenga la Secretaría. La Secretaría emitirá las disposiciones administrativas a efecto de llevar a cabo el Registro Público de Propuestas de Colaboración Público Privada o, en su caso, complementará las disposiciones existentes.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 D. El Registro Público de Propuestas de Colaboración Público Privada deberá contener al menos la siguiente información:
+
+I. El proyecto, acompañado de la información técnica y financiera que corresponda;
+
+II. Identificación clara y desagregada de las obligaciones a cargo de las dependencias, entidades y/o Municipios involucrados, durante toda la duración del proyecto;
+
+III. Identificación de los beneficios netos, financieros y no financieros, del proyecto;
+
+IV. En su caso, identificación de los bienes muebles e inmuebles públicos involucrados en el proyecto;
+
+V. Análisis del impacto presupuestario del proyecto durante todos los ejercicios fiscales que dure el proyecto, con base en las fracciones anteriores;
+
+VI. En su caso, análisis de la capacidad de pago del ente público responsable, tomando en cuenta sus presupuestos programados y ejercidos de los cinco últimos ejercicios fiscales;
+
+VII. Identificación del destino del financiamiento u obligación y, en su caso, del otorgamiento de recursos como fuente o garantía de pago;
+
+VIII. El techo financiero para el cumplimiento de las obligaciones derivadas de la realización del proyecto;
+
+IX. El techo financiero necesario para hacer frente a las obligaciones de pago que sean contraídas en el contrato durante los ejercicios fiscales que dure el proyecto; y
+
+X. En su caso, los análisis de los registros contables que se utilizarían para registrar las altas o bajas de los bienes muebles e inmuebles públicos involucrados en el proyecto.
+
+En caso de que la dependencia, entidad y/o Municipio responsable del proyecto establezca que debido a la naturaleza del proyecto y debido a la naturaleza de la participación estatal no existe impacto presupuestario, deberá justificar cuáles son las ventajas e incentivos que obtiene el particular para participar en un proyecto de tal naturaleza. Lo anterior, sin perjuicio de los demás requisitos que establezca el marco jurídico presupuestario ordinario y reglamentario.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 E. El ente público que pretenda realizar un proyecto bajo el esquema de Colaboración Público Privada deberá enviar a la Secretaría, para su dictaminación, el proyecto con todos los requisitos a que se refieren los artículos 24 D, 27 y 29 de esta Ley, sin perjuicio de los demás requisitos que establezcan las leyes aplicables. La Secretaría está facultada para solicitar al ente público los requisitos que considere necesarios para la dictaminación del proyecto.
+
+La Secretaría podrá realizar las modificaciones y las correcciones que considere necesario al análisis que el ente público responsable haga, respecto de los requisitos del artículo 24 D de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 F. Si el proyecto es dictaminado positivamente la Secretaría incluirá el proyecto en el Registro Público de Propuestas de Colaboración Público Privada, ya sea que este forme parte de un registro general existente o sea un registro único. En caso contrario, la Secretaria lo comunicará formalmente a la dependencia, entidad y/o Municipio solicitantes, señalando los motivos de la negativa. En ningún caso operará la negativa ficta.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 G. Los proyectos de Colaboración Público Privada incluidos en el registro general de proyectos o en el Registro Público de Propuestas de Colaboración Público Privada que hayan sido dictaminados positivamente, a más tardar el último día hábil del mes de agosto del ejercicio fiscal en curso formarán parte del plan plurianual y/o anual de los Proyectos de inversión pública, cumpliendo con todos los requisitos para ser incluidos en el Proyecto de Presupuesto de Egresos.
+
+Aquellos proyectos de inversión pública y sus componentes que sean registrados en el Registro de proyectos después de la fecha señalada en el párrafo anterior, podrán ser considerados en el Presupuesto de Egresos del siguiente ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 H. Los Proyectos de inversión pública que hayan iniciado su registro e incluso aquellos que hayan obtenido dictaminación positiva, en los que el titular o titulares de las dependencias, entidades y/o Municipios responsables del proyecto de inversión pública consideren la conveniencia de cambiar el esquema y llevarlos a cabo mediante el esquema de Colaboración Público Privada, deberán presentar a la Secretaría por oficio y mediante el sistema los requisitos a que hacen referencia los artículos 24 D, 27 y 29 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 I. El Registro Público de Propuestas de Colaboración Público Privada es la base y la fuente de datos para remitir a las autoridades federales competentes, la información para la conformación del Registro Público Único a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 J. La Ley de Disciplina Financiera de Entidades Federativas y Municipios, y la Ley de Deuda Pública para el Estado de Sinaloa aplicarán en el ámbito de su competencia, la regulación de los Contratos de Colaboración Público Privada que se lleven a cabo en los términos de la presente Ley.
+
+La contratante, de acuerdo con su capacidad de pago, podrá asumir obligaciones y obligaciones contingentes, y aportar al Proyecto, bienes, derechos, capital o cualquier otro bien o recurso que esté legalmente facultado para ello, previa obtención de las autorizaciones que se requieran y de la autorización legislativa que corresponda, conforme con las disposiciones legales que los rijan. Sin perjuicio de lo anterior, la contratante no podrá llevar a cabo ninguno de los actos señalados en este artículo, si no están previstos en el contrato.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 K. Sin perjuicio del límite de deuda estatal garantizada referida en el Artículo 35 de la Ley de Disciplina Financiera de Entidades Federativas y los Municipios, y los techos de financiamiento neto descritos en el Artículo 46 del mismo ordenamiento, el monto acumulado por las obligaciones y obligaciones contingentes cuantificables, netos de ingresos asumidos en los Contratos de Colaboración Público Privada que celebren los entes públicos referidos en el Artículo 4, calculado a valor presente, no podrá exceder del monto máximo autorizado por la Secretaría.
+
+La Secretaría autorizará los indicadores, parámetros y metodologías de cálculo para las Obligaciones y Obligaciones Contingentes cuantificables, el gasto disponible y los pasivos a ser asumidos por las Contratantes de Colaboraciones Público Privadas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 L. El gasto público estatal que, en su caso, sea necesario para el desarrollo de un Contrato de Colaboración Público Privada, se ajustará a las disposiciones de la Constitución Política del Estado de Sinaloa y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás disposiciones estatales, municipales y federales aplicables.
+
+Para determinar las obligaciones que en su caso llegaren a originar los Contratos de Colaboración Público Privada, se deberán tomar en consideración los Contratos que se prevea iniciar en el ejercicio fiscal correspondiente, aquellos que ya hubieran iniciado algún procedimiento de contratación y los contratos que ya estén en operación. Dichas obligaciones serán acordes con las posibilidades agregadas de gasto y de financiamiento del sector público estatal.
+
+Para efectos del párrafo anterior, la Secretaría, con base en las proyecciones macroeconómicas utilizadas en la programación y los requerimientos financieros del Estado y, de acuerdo con la metodología que establezca, elaborará una estimación del monto máximo anual del gasto programable para los Proyectos de Colaboraciones Público Privadas, a fin de atender los compromisos de pago requeridos, tanto de los nuevos Proyectos que se pretendan iniciar durante el siguiente ejercicio fiscal, como de aquéllos ya autorizados.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 M. La Secretaría al elaborar el Proyecto de Presupuesto de Egresos debe incluir, para el caso de proyectos de Colaboración Público Privada un capítulo de los proyectos que pretendan hacerse mediante ese mecanismo, distinguiéndolos entre ellos si se trata de Proyectos de inversión pública productiva o de prestación de servicios.
+
+La Secretaría incluirá en el capítulo a que se hace referencia en el párrafo anterior, un análisis por sector sobre todos los proyectos de Colaboración Público Privada incluidos en el proyecto de Presupuesto de Egresos y su viabilidad en cuanto al sostenimiento de un balance presupuestario sostenible o en su caso la viabilidad y necesidad de incurrir en un balance presupuestario negativo derivado de la contratación de los proyectos de Colaboración Público Privada, sin perjuicio de los requisitos que establezcan las leyes y reglamentos en materia de programación, presupuesto y gasto público. El análisis deberá desglosar cada proyecto que se proponga bajo este esquema e incluir la información a que se refiere el artículo 24 D de esta Ley.
+
+El Proyecto de Presupuesto de Egresos contendrá la estimación del monto máximo anual del gasto programable para los Proyectos de Colaboraciones Público Privadas a que se refiere el artículo 24 L.
+
+El Proyecto de Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente, deberá prever, en un capítulo específico y por sector, los compromisos plurianuales de gasto que deriven de los Contratos de Colaboración Público Privada aprobados en ejercicios fiscales anteriores. La información a que se refiere este párrafo, deberá considerar la descripción de cada uno de los Contratos, montos erogados acumulados conforme a las proyecciones y estimaciones correspondientes, avance en la ejecución y calendario, así como el monto de los pagos anuales comprometidos por la contratante, en el caso de aquellos proyectos cuyos contratos hayan sido celebrados.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 N. La ejecución de un proyecto de inversión pública productiva mediante el esquema de Colaboraciones Público Privada, aun cuando estén priorizados y dictaminados, dependerá de la aprobación del Congreso del Estado, en términos de las Obligaciones que genere dicho proyecto, de conformidad con lo establecido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 Ñ. La ejecución de un proyecto de inversión pública productiva mediante el esquema de Colaboraciones Público Privada no debe afectar el balance presupuestario sostenible. Las excepciones se sujetarán a lo establecido en esta Ley, y en la Ley de Disciplina Financiera de la Entidades Federativas y los Municipios, y en la forma que se establezca en las leyes y reglamentos en materia de presupuesto del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 O. El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para la contratación de obligaciones derivadas de proyectos de Colaboración Público Privada, observando lo dispuesto por la Ley de Disciplina Financiera de la Entidades Federativas y los Municipios.
+
+Para el otorgamiento de dicha autorización, el Congreso del Estado deberá realizar previamente, un análisis de la capacidad de pago de la dependencia, entidad y/o Municipio a cuyo cargo estaría la deuda pública u obligaciones correspondientes del destino del financiamiento u obligación y, en su caso, del otorgamiento de recursos como fuente o garantía de pago, con base en la información que para tal efecto envíe la Secretaría a que hacen referencia los artículos 24 D, 24 L y 24 M de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 P. El Congreso del Estado, por el voto de las dos terceras partes de sus miembros presentes, podrá autorizar la afectación de tas (sic) participaciones que correspondan al Estado o a los Municipios como garantía o fuente de pago o en ambas modalidades de las obligaciones derivadas de proyectos de Colaboración Público Privada en los términos previstos en el artículo 9 de la Ley de Coordinación Fiscal y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 24 Q. Las dependencias, entidades y/o Municipios que pretendan llevar a cabo proyectos de Colaboración Público Privada deberán sujetarse a lo previsto en esta Ley, la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Sinaloa, y en la Ley de Disciplina Financiera de la Entidades Federativas y los Municipios.
 
 ### CAPÍTULO SEGUNDO. De la Preparación e Inicio de los Proyectos
 
-#### Sección Segunda. Del inicio de los Proyectos
+#### Sección Primera. De la Preparación de los Proyectos
 
 ###### Artículo 25.
 
@@ -359,7 +501,9 @@ X. Otra información que la Secretaría considere relevante.
 
 Dicha información será de carácter público, a excepción de aquélla de naturaleza reservada o confidencial, en términos de la Ley de Acceso a la Información Pública del Estado de Sinaloa y demás disposiciones aplicables.
 
-La Secretaría, al presentar el proyecto de Presupuesto de Egresos del Estado deberá incluir, en términos de los artículos 29 de esta Ley, y 37 de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, una evaluación del impacto de los proyectos de colaboración público privada en las finanzas públicas durante su ciclo de vida.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría, al presentar el proyecto de Presupuesto de Egresos del Estado deberá incluir, en términos de los artículos 29 de esta Ley, y 37 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Sinaloa, una evaluación del impacto de los proyectos de colaboración público privada en las finanzas públicas durante su ciclo de vida.
 
 Asimismo, la Secretaría reportará en los informes trimestrales, en los términos de las disposiciones aplicables, la descripción de cada uno de los proyectos autorizados, montos erogados o por erogar conforme a las proyecciones y estimaciones correspondientes, avance en la ejecución y calendario así como el monto de los pagos comprometidos.
 
@@ -405,13 +549,17 @@ Los proyectos de colaboración público privada serán preferentemente integrale
 
 Las dependencias, entidades y Municipios podrán contratar la realización de los trabajos previstos en el artículo 27 de esta Ley, cualesquier otros estudios y el propio proyecto ejecutivo, necesarios para la ejecución de un proyecto de colaboración público privada, así como servicios para la adquisición de los inmuebles, bienes y derechos, igualmente necesarios para tales proyectos.
 
-Tratándose de proyectos en materia de obra pública y servicios relacionados con la misma, los citados análisis, estudios y proyectos ejecutivos, podrán ser contratados por la SDUOP, aplicando la Ley de Obras Públicas del Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de proyectos en materia de obra pública y servicios relacionados con la misma, los citados análisis, estudios y proyectos ejecutivos, podrán ser contratados por la SOP, aplicando la Ley de Obras Públicas del Estado.
 
 La contratación de los trabajos y servicios antes mencionados se sujetará a lo previsto en la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles para el Estado.
 
-La Secretaría, la SDUOP o las Entidades podrán optar por celebrar los contratos citados a través de invitación a cuando menos tres personas o mediante adjudicación directa de conformidad con la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de bienes muebles para el Estado de Sinaloa.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-#### Sección Tercera. Otras disposiciones sobre la preparación e inicio de los proyectos
+La Secretaría, la SOP o las entidades podrán optar por celebrar los contratos citados a través de invitación a cuando menos tres personas o mediante adjudicación directa de conformidad con la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de bienes muebles para el Estado de Sinaloa.
+
+#### Sección Segunda. Del inicio de los Proyectos
 
 ###### Artículo 34.
 
@@ -431,15 +579,17 @@ Para iniciar el desarrollo de un proyecto de colaboración público privada, se 
 
 Asimismo, en términos del artículo 25, párrafo segundo, se deberá contar con la aprobación de la Secretaría.
 
-#### Sección primera. De los concursos
+#### Sección Tercera. Otras disposiciones sobre la preparación e inicio de los proyectos
 
 ###### Artículo 37.
 
 Se requiere autorización del Congreso del Estado para otorgar garantías y avales, afectar como fuentes o garantías de pago, o en cualquier otra forma, los ingresos del Estado o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de contratos de colaboración público privada.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 38.
 
-El gasto público contemplado para el proyecto de colaboración público privada se ajustará a las disposiciones de la Constitución Política, Ley de Presupuesto, Contabilidad y Gasto Público, a la Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal vigente, todas del Estado de Sinaloa y demás que resulten aplicables.
+El gasto público contemplado para el proyecto de colaboración público privada se ajustará a las disposiciones de la Constitución Política, Ley de Presupuesto y Responsabilidad Hacendaria, a la Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal vigente, todas del Estado de Sinaloa y demás que resulten aplicables.
 
 Los compromisos presupuestarios futuros que en su caso llegaren a originar los proyectos de colaboración público privada que se prevea iniciar, acumulados o aquellos de los proyectos que ya hubieran iniciado algún procedimiento de contratación o que ya estuvieran operando, serán acordes con las posibilidades agregadas de gasto y de financiamiento del sector público estatal que autorice el Congreso del Estado.
 
@@ -569,11 +719,13 @@ En caso de que durante el plazo de evaluación, el interesado no proporcione la 
 
 ### CAPÍTULO CUARTO. De la adjudicación de los proyectos
 
-#### Sección segunda. De la Convocatoria y Bases de los Concursos
+#### Sección primera. De los concursos
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 53.
 
-La Secretaría, la SDUOP, las entidades y los municipios que pretendan el desarrollo de un proyecto de colaboración público privada convocarán a concurso, que deberá llevarse a cabo conforme a los principios de legalidad, libre concurrencia y competencia, objetividad, imparcialidad, transparencia y publicidad, con las particularidades del Capítulo Tercero de esta Ley, en igualdad de condiciones para todos los participantes.
+La Secretaría, la SOP, las entidades y los municipios que pretendan el desarrollo de un proyecto de colaboración público privada convocarán a concurso, que deberá llevarse a cabo conforme a los principios de legalidad, libre concurrencia y competencia, objetividad, imparcialidad, transparencia y publicidad, con las particularidades del Capítulo Tercero de esta Ley, en igualdad de condiciones para todos los participantes.
 
 En tales concursos se buscará adjudicar los proyectos en las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
@@ -625,7 +777,7 @@ Cualquier persona podrá asistir a los diferentes actos del concurso, en calidad
 
 El Reglamento de esta Ley establecerá la figura de testigos sociales y preverá los términos de su participación en el procedimiento de concurso.
 
-#### Sección tercera. De la Presentación de las Propuestas
+#### Sección segunda. De la Convocatoria y Bases de los Concursos
 
 ###### Artículo 59.
 
@@ -711,7 +863,7 @@ IV. Darán oportunidad a los participantes de retirarse del concurso, sin que el
 
 Las modificaciones así realizadas formarán parte de la convocatoria y bases del concurso, por lo que deberán ser consideradas por los Concursantes en la elaboración de sus propuestas.
 
-#### Sección cuarta. De la Evaluación de las Propuestas y Fallo del Concurso
+#### Sección tercera. De la Presentación de las Propuestas
 
 ###### Artículo 64.
 
@@ -733,7 +885,7 @@ Iniciado el acto de presentación y apertura de propuestas, las ya presentadas n
 
 Para intervenir en el acto de presentación y apertura de las propuestas bastará que los participantes presenten un escrito en el que manifiesten, bajo protesta de decir verdad, que cuentan con las facultades suficientes para ello, sin que sea necesario que acrediten su personalidad.
 
-#### Sección quinta. De los Actos Posteriores al Fallo
+#### Sección cuarta. De la Evaluación de las Propuestas y Fallo del Concurso
 
 ###### Artículo 67.
 
@@ -821,7 +973,7 @@ II. El juicio contencioso administrativo ante el Tribunal de lo Contencioso Admi
 
 Contra las demás resoluciones de la Convocante emitidas durante el concurso no procederá instancia ni medio ordinario de defensa alguno y en caso de alguna irregularidad en tales resoluciones, ésta podrá ser combatida con motivo del fallo.
 
-#### Sección Sexta. De las Excepciones al Concurso
+#### Sección quinta. De los Actos Posteriores al Fallo
 
 ###### Artículo 75.
 
@@ -841,7 +993,7 @@ Los reembolsos sólo procederán en relación con gastos no recuperables, que se
 
 El Reglamento señalará los procedimientos para determinar los montos a que el presente artículo hace referencia. La Convocante efectuará los pagos que correspondan.
 
-#### Sección Primera. De las Autorizaciones para la Prestación de los Servicios
+#### Sección Sexta. De las Excepciones al Concurso
 
 ###### Artículo 78.
 
@@ -885,7 +1037,7 @@ En todo caso, se cuidará que en estos procedimientos se invite a personas con p
 
 ### CAPÍTULO QUINTO. De los Proyectos de Colaboración Público Privada
 
-#### Sección Segunda. De los Contratos de Proyectos de Colaboración Público Privada
+#### Sección Primera. De las Autorizaciones para la Prestación de los Servicios
 
 ###### Artículo 81.
 
@@ -917,7 +1069,7 @@ Los derechos de los Desarrolladores, derivados de la o las autorizaciones para l
 
 Cuando el contrato de proyecto de colaboración público privada se modifique, deberán revisarse la o las autorizaciones para la prestación de los servicios y, en su caso, realizarse los ajustes pertinentes.
 
-#### Sección Primera. De la Ejecución de la Obra
+#### Sección Segunda. De los Contratos de Proyectos de Colaboración Público Privada
 
 ###### Artículo 85.
 
@@ -1071,7 +1223,7 @@ Esta cesión sólo podrá llevarse a cabo en los supuestos, términos y condicio
 
 ### CAPÍTULO SEXTO. De la Ejecución de los Proyectos
 
-#### Sección Segunda. De la Prestación de los Servicios
+#### Sección Primera. De la Ejecución de la Obra
 
 ###### Artículo 98.
 
@@ -1083,7 +1235,7 @@ La construcción, equipamiento, mantenimiento, conservación y reparación de la
 
 No estarán sujetos a la Ley de Obras Públicas y a la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles, ambas del Estado de Sinaloa, ni a las disposiciones que de ellas emanan, las obras y servicios que realicen los particulares para cumplir con sus obligaciones en un proyecto de colaboración público privada.
 
-#### Sección Tercera. Disposiciones Comunes a la Ejecución de la Obra y a la Prestación de los Servicios
+#### Sección Segunda. De la Prestación de los Servicios
 
 ###### Artículo 100.
 
@@ -1099,7 +1251,7 @@ La prestación de los servicios comenzará previa autorización de la Contratant
 
 No procederá la autorización antes citada sin la previa verificación técnica de que las instalaciones cumplen las condiciones de seguridad según las características y especificaciones del proyecto y las requeridas por las disposiciones aplicables.
 
-#### Sección Cuarta. De la Intervención del Proyecto
+#### Sección Tercera. Disposiciones Comunes a la Ejecución de la Obra y a la Prestación de los Servicios
 
 ###### Artículo 102.
 
@@ -1127,7 +1279,7 @@ Lo dispuesto en los dos párrafos anteriores deberá incluirse en los títulos d
 
 En caso de concurso mercantil del Desarrollador, la autoridad que conozca del mismo, con apoyo de la Contratante, dispondrá las medidas necesarias para asegurar la continuidad de la ejecución de la obra y la prestación del servicio.
 
-#### Sección Primera. De la Modificación a los proyectos
+#### Sección Cuarta. De la Intervención del Proyecto
 
 ###### Artículo 106.
 
@@ -1161,7 +1313,7 @@ En estos casos, la Contratante podrá encargarse directamente del proyecto, o bi
 
 ### CAPÍTULO SÉPTIMO. De las Modificaciones y Prórroga de los proyectos
 
-#### Sección Segunda. De la prórroga de los Proyectos
+#### Sección Primera. De la Modificación a los proyectos
 
 ###### Artículo 111.
 
@@ -1225,7 +1377,7 @@ Toda modificación a un proyecto de colaboración público privada deberá const
 
 En casos de urgencia o aquellos en que se ponga en riesgo la seguridad de los usuarios, la Contratante podrá solicitar por escrito al Desarrollador que lleve a cabo las acciones que correspondan, aún antes de la formalización de las modificaciones respectivas.
 
-#### Sección Primera. Comité de Expertos
+#### Sección Segunda. De la prórroga de los Proyectos
 
 ###### Artículo 116.
 
@@ -1343,7 +1495,7 @@ Las responsabilidades administrativas a que se refiere el presente capítulo ser
 
 ### CAPÍTULO DÉCIMO PRIMERO. De las Controversias
 
-#### Sección Segunda. Procedimiento Arbitral y de Conciliación
+#### Sección Primera. Comité de Expertos
 
 ###### Artículo 129.
 
@@ -1381,7 +1533,7 @@ Integrado el comité, podrá allegarse de los elementos de juicio que estime nec
 
 Si el dictamen es aprobado por unanimidad, será obligatorio para las partes. De lo contrario, quedarán a salvo los derechos de cada una de ellas.
 
-#### Sección Tercera. Jurisdicción Estatal
+#### Sección Segunda. Procedimiento Arbitral y de Conciliación
 
 ###### Artículo 133.
 
@@ -1393,7 +1545,7 @@ No podrán ser materia de arbitraje la revocación de las concesiones y autoriza
 
 La solución de controversias relacionadas con la validez legal de cualquier acto administrativo sólo podrá dirimirse por los tribunales estatales.
 
-#### Sección Cuarta. Disposiciones Comunes del Capítulo de Controversias
+#### Sección Tercera. Jurisdicción Estatal
 
 ###### Artículo 134.
 
@@ -1402,6 +1554,8 @@ Corresponde a los tribunales estatales conocer de las controversias que se susci
 ###### Artículo 135.
 
 Las autoridades estatales que conozcan de las controversias que se susciten de la interpretación o aplicación de esta Ley o de los actos que se celebren con fundamento en ella o en las disposiciones que de la misma emanen, proveerán lo necesario a efecto de que el desarrollo del proyecto objeto del contrato, no se vea interrumpido, salvo cuando la continuación del desarrollo del proyecto afecte al interés público.
+
+#### Sección Cuarta. Disposiciones Comunes del Capítulo de Controversias
 
 ###### Artículo 136.
 
@@ -1540,3 +1694,11 @@ CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esqu
 QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 332 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CONTRA TOS DE COLABORACIÓN PÚBLICO PRIVADA, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE LA AUDITORÍA SUPERIOR Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
