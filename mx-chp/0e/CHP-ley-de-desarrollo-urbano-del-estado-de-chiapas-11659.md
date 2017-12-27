@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-urbano-del-estado-de-chiapas-11659"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-03"
-last_updated: "2017-05-24"
+last_updated: "2017-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE DESARROLLO URBANO DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO URBANO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 3 de diciembre de 1997.
 
@@ -2266,3 +2268,21 @@ P.O. 24 DE MAYO DE 2017.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 036 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se abroga la Ley de Desarrollo Urbano del Estado de Chiapas, publicada mediante Decreto número 12, en el Periódico Oficial número 60, de fecha 03 de Diciembre del año 1997.
+
+Artículo Tercero. En un plazo no mayor a 60 días hábiles, contados a partir de la publicación del presente Decreto, el titular de la Secretaría de Obra Pública y Comunicaciones deberá someter a consideración del titular del Poder Ejecutivo del Estado el reglamento de esta ley para su expedición y publicación en el Periódico Oficial.
+
+Artículo Cuarto. En un plazo no mayor de 30 días hábiles, contados a partir de la entrada en vigor de esta Ley, deberá instalarse el Consejo Estatal de Ordenamiento Territorial y Desarrollo Urbano.
+
+Artículo Quinto. En un plazo no mayor de 30 días hábiles, contados a partir de la entrada en vigor de la presente Ley, deberán quedar instalados: las Comisiones de Ordenamiento Metropolitano o de conurbación, los Consejos Consultivos de Desarrollo Metropolitano y los Consejos Municipales de Ordenamiento Territorial y Desarrollo Urbano.
+
+Artículo Sexto. La Secretaría de Hacienda deberá crear el Sistema de Información Territorial y Urbano, de acuerdo a lo establecido en el presente Decreto.
+
+Artículo Séptimo. Se derogan todas las disposiciones que se opongan al presente Decreto.
