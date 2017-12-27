@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2017-05-12"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -1969,273 +1969,145 @@ V. Evaluar periódicamente los resultados de las acciones orientadas a la Instru
 
 VI. Las demás, que señale la Ley del Servicio Público de Carrera del Estado de Quintana Roo.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ## Título Décimo. Actos Administrativos
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ### Capítulo I. De los Actos Administrativos
 
 ###### ARTÍCULO 139.
 
-Los actos administrativos municipales deben contener por lo menos los siguientes elementos y requisitos:
-
-I. Ser expedido por órgano competente, a través del servidor público, o en su caso por el órgano colegiado con la aprobación de las dos terceras partes de sus integrantes;
-
-II. Tener objeto que pueda ser materia del mismo; determinado o determinable; preciso en cuanto a las circunstancias de tiempo y lugar, y previsto en la Ley;
-
-III. Cumplir con la finalidad de interés público regulado por las normas en que se concreta, sin que puedan perseguirse otros fines distintos;
-
-IV. Constar por escrito y con la firma autógrafa de la autoridad que lo expida;
-
-V. Estar fundado y motivado;
-
-VI. Ser expedido sin que medie error sobre el objeto, causa o motivo, o sobre el fin del acto;
-
-VII. Ser expedido sin que medie dolo o violencia en su emisión;
-
-VIII. Mencionar el órgano del cual emana;
-
-IX. Ser expedido sin que medie error a la referencia específica de identificación del expediente, documentos o nombre completo de las personas;
-
-X. Ser expedido señalando lugar y fecha de emisión;
-
-XI. Tratándose de actos administrativos recurribles deberá hacerse mención de los recursos que procedan;
-
-XII. Ser expedido decidiendo expresamente todos los puntos propuestos por las partes o establecidos por la ley.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 140.
 
-El acto administrativo será válido hasta en tanto su invalidez no haya sido declarada por autoridad administrativa o jurisdiccional, según sea el caso.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 141.
 
-El acto administrativo válido será eficaz y exigible a partir de que surta efectos la notificación legalmente efectuada.
-
-Se exceptúa el acto por el cual se otorgue un beneficio al particular, caso en el cual su cumplimiento será exigible por éste al órgano que lo emitió desde la fecha en que se dictó o aquella que tenga señalada para iniciar su vigencia.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 142.
 
-El acto administrativo se extingue por las siguientes causas:
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
-I. Cumplimiento de su finalidad;
-
-II. Expiración del plazo;
-
-III. Cuando la formación del acto administrativo esté sujeto a una condición o término suspensivo y éste no se realiza dentro del plazo señalado en el propio acto;
-
-IV. Acaecimiento de una condición resolutoria;
-
-V. Renuncia del interesado, cuando el acto hubiere sido dictado en exclusivo beneficio de éste y no sea en perjuicio del interés público; y
-
-VI. Por revocación.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ### Capítulo II. Del Procedimiento Administrativo
 
 ###### ARTÍCULO 143.
 
-La actuación administrativa en el procedimiento se desarrollará con arreglo a los principios de economía, celeridad, legalidad, publicidad y buena fe.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 144.
 
-El procedimiento administrativo podrá iniciarse de oficio o a petición de parte interesada.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 145.
 
-Las promociones deberán hacerse por escrito en el que se precisará el nombre, denominación o razón social de quién o quiénes promuevan, en su caso de su representante legal, domicilio para recibir notificaciones dentro del Municipio, así como nombre de la persona o personas autorizadas para recibirlas, la petición que se formula, los hechos o razones que dan motivo a la petición, el órgano administrativo a que se dirigen y lugar y fecha de su emisión, el escrito deberá ser firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, caso en el cual, se imprimirá su huella digital.
-
-El promovente deberá adjuntar a su escrito los documentos que acrediten su personalidad, así como los que en cada caso sean requeridos en los ordenamientos respectivos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 146.
 
-Los trámites deberán presentarse solamente en original, y sus anexos, en copia simple, en un tanto. Si el interesado requiere que se le acuse recibo, deberá adjuntar una copia para ese efecto.
-
-Todo documento original puede presentarse en copia certificada y estos podrán acompañarse de copia simple, para cotejo, caso en el que se regresará al interesado el documento cotejado.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 147.
 
-Cuando los escritos que presenten los interesados no contengan los datos o no cumplan con los requisitos aplicables, la dependencia u organismo deberá prevenir a los interesados, por una sola vez, para que subsanen la omisión dentro del término que se establezca en el ordenamiento correspondiente, el cual no podrá ser menor de cinco días hábiles contados a partir de que haya surtido efectos la notificación. Transcurrido el plazo correspondiente sin que se desahogue la prevención, el trámite se desechará.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 148.
 
-Las actuaciones y diligencias administrativas se practicarán en días y horas hábiles. La autoridad podrá, de oficio o a petición de parte interesada, habilitar días inhábiles, cuando así lo requiera el asunto.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 149.
 
-En los plazos fijados por días no se contarán los inhábiles, salvo disposición en contrario. No se consideran días hábiles los sábados, los domingos, el 1° de enero; 5 de febrero; 21 de marzo; 1° y 5 de mayo; 1° y 16 de septiembre; 20 de noviembre; 1° de diciembre de cada seis años, cuando corresponda a la transmisión del poder ejecutivo federal, y el 25 de diciembre, así como los días en que tengan vacaciones generales las autoridades competentes o aquellos en que se suspendan las labores.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 150.
 
-En los plazos establecidos por períodos se computarán todos los días; cuando se fijen por mes o por año se entenderá que el plazo concluye el mismo número de día del mes o año de calendario que corresponda, respectivamente; cuando no exista el mismo número de día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario.
-
-Si el último día del plazo o la fecha determinada son inhábiles o las oficinas ante las que se vaya hacer el trámite permanecen cerradas durante el horario normal de labores, se entenderá prorrogado el plazo hasta el siguiente día hábil.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 151.
 
-Para efecto de las notificaciones, citaciones, emplazamientos, requerimientos, visitas e informes, a falta de términos o plazos establecidos en los respectivos reglamentos para la realización de trámites, aquellos no excederán de diez días. El órgano administrativo deberá hacer del conocimiento del interesado dicho plazo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 152.
 
-Los interesados podrán solicitar se les expida a su costa, copia certificada del expediente administrativo en el que se actúa, salvo que se trate de asuntos en que exista disposición legal que lo prohíba.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 153.
 
-Las notificaciones podrán ser:
-
-I. Personales;
-
-II. Por correo certificado; y
-
-III. Por edictos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 154.
 
-Ponen fin al procedimiento administrativo:
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
-I. La resolución del mismo;
-
-II. El desistimiento;
-
-III. La renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico;
-
-IV. La declaración de caducidad; y
-
-V. El convenio de las partes, siempre y cuando no sea contrario al ordenamiento jurídico ni verse sobre materias que no sean susceptibles de transacción, y tengan por objeto satisfacer el interés público.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ### Capítulo III. De las Visitas de Verificación
 
 ###### ARTÍCULO 155.
 
-Las autoridades administrativas municipales, para comprobar el cumplimiento de las disposiciones legales y reglamentarias podrán llevar a cabo visitas de verificación, mismas que deberán realizarse, respetando las garantías individuales de los afectados, de conformidad con lo establecido en el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ABRIL DE 2013)</small>
-
-Cuando derivado de sus visitas de inspección las autoridades municipales tengan conocimiento de hechos u omisiones que pudieran llegar a ser constitutivos de infracción a alguna disposición legal cuya aplicación y vigilancia corresponda a otro orden o nivel de gobierno, coadyuvaran con las autoridades federales o estatales competentes, proporcionando a éstas la información necesaria de los hechos detectados, así como los datos del probable infractor.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 156.
 
-Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ### Capítulo IV. De las Sanciones Administrativas
 
 ###### ARTÍCULO 157.
 
-Las sanciones administrativas deberán estar contempladas en los bandos y reglamentos respectivos y podrán consistir en:
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
-I. Amonestación con apercibimiento;
-
-II. Multa;
-
-III. Arresto hasta por 36 horas;
-
-IV. Clausura temporal o permanente, parcial o total; y
-
-V. Las demás que se señalen en los reglamentos respectivos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ### Capítulo V. Del Recurso de Revisión
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
-
 ###### ARTÍCULO 158.
 
-Los actos y resoluciones dictadas por el Ayuntamiento, por el o la Presidente/a Municipal y por las dependencias y entidades de la Administración Pública Municipal, podrán ser impugnados mediante el Recurso de Revisión, cuando afecten intereses jurídicos de los particulares.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 159.
 
-El plazo para interponer el recurso de revisión será de diez días hábiles, contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 160.
 
-El escrito de interposición del recurso de revisión deberá presentarse ante la autoridad municipal que emitió el acto impugnado, quién tendrá la obligación de remitir dicho recurso para que sea resuelto por el Ayuntamiento. Dicho escrito deberá expresar:
-
-I. Nombre y domicilio del recurrente, para efectos de notificaciones;
-
-II. La autoridad que realizó el acto o emitió la resolución impugnada, indicando con claridad en que consiste;
-
-III. El nombre del tercero perjudicado si lo hubiere;
-
-IV. El acto que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;
-
-V. Los agravios que se le causan;
-
-VI. En su caso copia de la resolución o acto que se impugna y de la notificación correspondiente;
-
-VII. Las pruebas que ofrezca, que tengan relación inmediata y directa con la resolución o acto impugnado, debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad cuando se actúe en nombre de otro o de personas morales.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 161.
 
-La interposición del recurso suspenderá la ejecución del acto impugnado, cuando:
-
-I. Lo solicite expresamente el recurrente;
-
-II. Sea procedente el recurso;
-
-III. No se perjudique al interés social o se contravengan disposiciones de orden público;
-
-IV. No se cause daños o perjuicios a terceros, a menos que se garanticen éstos;
-
-V. Tratándose de multas, el recurrente las garantice.
-
-La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los tres días hábiles siguientes a su interposición.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 162.
 
-Recibido el recurso de revisión, se correrá traslado a la autoridad demandada para que en el término de cinco días hábiles contados a partir de la notificación, de contestación a la misma. Transcurrido dicho término, se haya dado o no contestación a la demanda, se abrirá un período de pruebas de cinco días hábiles, a efecto de que se desahoguen aquéllas que hayan ofrecido o admitido.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 163.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente. Cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 164.
 
-Concluído el período de pruebas, la autoridad, dentro del término de diez días hábiles, dictará resolución, la que podrá:
-
-I. Desecharlo por improcedente o sobreseerlo;
-
-II. Confirmar el acto impugnado;
-
-III. Declarar la inexistencia, nulidad o anulabilidad del acto impugnado o revocarlo total o parcialmente; y
-
-IV. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 165.
 
-El recurso se tendrá por no interpuesto y se desechará cuando:
-
-I. Se presente fuera de plazo;
-
-II. No se haya acompañado la documentación que acredite la personalidad del recurrente; y
-
-III. No aparezca suscrito por quien deba hacerlo, a menos que se firme antes del vencimiento del plazo para interponerlo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 166.
 
-Será sobreseído el recurso cuando:
-
-I. El promovente se desista expresamente del recurso;
-
-II. El agraviado fallezca durante el procedimiento, si el acto respectivo sólo afecta a su persona;
-
-III. Durante el procedimiento sobrevenga alguna causa de improcedencia;
-
-IV. Cuando hayan cesado los efectos del acto respectivo;
-
-V. Por falta de objeto o materia del acto respectivo; y
-
-VI. No se probare la existencia del acto respectivo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 167.
 
-Será improcedente el recurso cuando:
-
-I. Los actos o resoluciones no sean del orden municipal;
-
-II. Los actos o resoluciones no afecten los intereses jurídicos del recurrente;
-
-III. Los actos o resoluciones hayan sido consumados de un modo irreparable;
-
-IV. Los actos o resoluciones sean consentidos expresamente, o por manifestaciones de voluntad que entrañen ese consentimiento;
-
-V. Cuando hayan cesado los efectos generados por los actos o resoluciones recurridas;
-
-VI. En los demás casos en que la improcedencia resulte de alguna disposición de la ley.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ## Título Undécimo. De los Servicios Públicos Municipales
 
@@ -3426,3 +3298,27 @@ SEGUNDO. Las disposiciones relacionadas con el equilibrio presupuestario y la re
 TERCERO. El porcentaje a que hace referencia el artículo 233 Bis relativo a los adeudos del ejercicio fiscal anterior de los Municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 141 POR EL QUE SE EXPIDE EL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO Y A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 1o. de enero del año 2018, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Quintana Roo, expedida mediante Decreto Número 089 de la XV Legislatura del Estado, publicado en el Periódico Oficial del Estado en fecha 19 de julio de 2017, excepto las disposiciones relativas a la designación de Magistrados del Tribunal de Justicia Administrativas, en tanto se concluye el procedimiento y se realice la protesta correspondiente.
+
+TERCERO. La Ley del Procedimiento Administrativo del Estado de Quintana Roo, expedida mediante Decreto Número 335 de la XII Legislatura del Estado, publicado en el Periódico Oficial del Estado en fecha 5 de noviembre de 2010 y la Ley de Justicia Administrativa del Estado de Quintana Roo, expedida mediante Decreto Número 123 de la X Legislatura del Estado, publicado en el Periódico Oficial del Estado de fecha 24 de agosto de 2004, quedarán abrogadas para efectos de su aplicación en los procedimientos que se inicien a partir de la entrada en vigor del presente Código.
+
+Las autoridades administrativas del Estado y los Municipios y la Sala Constitucional del Tribunal Superior de Justicia del Estado, deberán sustanciar y concluir aquellos procedimientos administrativos, así como los recursos iniciados que se encuentren sometidos a su conocimiento, de conformidad con las leyes a que se refiere el párrafo anterior y las disposiciones que mediante el presente decreto se reforman y derogan de la Ley de los Municipios del Estado de Quintana Roo, aplicables al momento de su interposición.
+
+CUARTO. De manera inmediata a la entrada en vigor del presente Código, el Pleno del Tribunal de Justicia Administrativa del Estado hará la designación de los Magistrados que integren las Salas a que se refiere el Libro Tercero.
+
+QUINTO. Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Código, el Pleno del Tribunal de Justicia Administrativa del Estado emitirá el reglamento Interior y demás normatividad que resulte necesaria y solicitará su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEXTO. Los Magistrados y el titular del Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado, nombrados en virtud de las disposiciones de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado que se abroga mediante el presente decreto, continuarán en el ejercicio del cargo para el cual fueron nombrados por la Legislatura del Estado.
+
+El Secretario General de Acuerdos y demás personal jurisdiccional y administrativo nombrado de conformidad con lo establecido en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Quintana Roo que se abroga mediante el presente decreto, seguirán ejerciendo su cargo dentro del Tribunal, siempre y cuando sean compatibles con las disposiciones establecidas en el presente Código.
+
+SÉPTIMO. Los procedimientos de responsabilidad patrimonial de los que conocerá el Tribunal de Justicia Administrativa del Estado de Quintana Roo de conformidad con lo establecido en el artículo 187 fracción XVI del Código de Justicia Administrativa del Estado de Quintana Roo que se expide mediante el presente decreto, deberán ser substanciados de conformidad con la legislación en la materia en su caso se emita.
+
+OCTAVO. Se derogan todas las disposiciones que contravengan lo previsto en el presente Decreto.
