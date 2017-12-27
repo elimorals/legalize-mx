@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-nominas-del-estado-de-quintana-roo-11119
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2017-01-17"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -51,11 +51,35 @@ Los ingresos fiscales que se establecen en este ordenamiento se regularán por l
 
 Las violaciones a las disposiciones expresas en este ordenamiento serán sancionadas de conformidad con lo dispuesto en el Código Fiscal del Estado de Quintana Roo.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Para los efectos de la presente Ley, se entenderá por:
+
+I. CONTRATISTA: Persona física o moral que realiza una obra o presta un servicio con trabajadores bajo su dependencia, a favor de un contratante, quien fija las tareas del contratista y lo supervisa en el desarrollo de los servicios o la ejecución de las obras contratadas.
+
+II. CONTRATANTE: Persona física o moral que recibe los servicios de un contratista.
+
+III. INTERMEDIARIO: Toda persona que contrata los servicios de otras para ejecutar algún trabajo en beneficio de un patrón.
+
+IV. CONSTRUCCIÓN: Obras de construcción, remodelaciones, edificaciones de obra, acabados y/o modificaciones.
+
+V. PERSONA FÍSICA: Individuo que realiza las situaciones jurídicas o de hecho previstas en la presente Ley.
+
+VI. PERSONA MORAL: Agrupación de personas que se unen con un fin determinado; pudiendo adoptar las formas siguientes: sociedades mercantiles, civiles, políticas, religiosas, asociaciones, sociedades cooperativas; los Poderes Federales y Estatales, los Municipios, los organismos descentralizados, organismos autónomos, fideicomisos de gobierno, dependencias, órganos desconcentrados y demás entidades de carácter público creadas mediante ley o decreto federal, estatal o municipal.
+
+VII. SECRETARÍA: A la Secretaría de Finanzas y Planeación.
+
+VIII. SECRETARIO: Al Titular de la Secretaría de Finanzas y Planeación.
+
+IX. UNIDAD ECONÓMICA: Al conjunto de personas que realicen actividades empresariales con motivo de la celebración de un acto o negocio jurídico, cuando como consecuencia del mismo no surja una persona moral diferente de quienes la constituyan en los términos del derecho común; las unidades económicas tendrán personalidad jurídica para los efectos del derecho fiscal y se considerarán, para efectos fiscales sujetos pasivos de las obligaciones tributarias previstas en esta Ley. Las unidades económicas deberán nombrar un representante común ante las autoridades fiscales.
+
 ## TÍTULO II. DEL OBJETO Y SUJETO
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 2.
 
-Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección y/o dependencia de un patrón, contratista, intermediario o terceros.
+Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, independientemente de la designación que se les dé, prestado dentro del territorio del Estado, bajo la dirección y/o dependencia de un patrón, contratista, intermediario, terceros o cualquiera que sea su denominación.
 
 Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo honorarios asimilables a salarios, comisiones a trabajadores, premios, gratificaciones, rendimientos, primas vacacionales, dominicales, por antigüedad, así como cualquier otra erogación que en razón de su trabajo o por la relación laboral reciba el trabajador. Son también objeto de este impuesto, las erogaciones por pagos realizados a los socios o accionistas, administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
 
@@ -65,23 +89,59 @@ Son también objeto de este impuesto las erogaciones hechas de manera ocasional 
 
 Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo establecido en los artículos 292, 293, 294, 304, 305 y 306 de la Ley Federal del Trabajo.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 3.
 
-En caso de que los sujetos de este impuesto realicen pagos a trabajadores por concepto de construcciones, edificaciones de obra, acabados, modificaciones y/o remodelaciones, e incumplan con la obligación puntual de pago, deberán de proporcionar a la autoridad exactora que corresponda al domicilio donde se realizaron las obras, la base para determinar la cantidad y los accesorios legales generados. Si después de requerido el contribuyente por la autoridad exactora competente, no aporta dentro del término de 6 días hábiles los datos y/o documentos necesarios para la determinación del impuesto, o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad exactora. La base sobre la cual se aplicará la tasa será el importe del resultado de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado vigente al momento de la determinación de la autoridad exactora.
+Cuando las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal subordinado, independientemente de la designación que se les dé, bajo la dependencia o dirección de un patrón, sean efectuadas de forma directa o a través de contratistas, intermediarios, terceros o cualquiera que sea su denominación, deriven de construcción por obra o tiempo determinado, se sujetarán a lo siguiente:
 
-Para asegurar el cumplimiento de esta obligación se deberá garantizar el pago del impuesto mediante póliza de fianza de institución debidamente autorizada, depósito en efectivo o cheque cruzado, considerando el tiempo de duración de la hora y el número promedio de empleados que estime el contribuyente.
+I. Deberán presentar, mediante la forma autorizada disponible en la página electrónica de la Secretaría, el Aviso de Inicio de Obra ante la Oficina Recaudadora de Rentas que corresponda al domicilio en donde se realizarán los trabajos, dentro del plazo de 5 días hábiles previos al inicio de la construcción, o dentro de los cinco días posteriores a la firma del Contrato de Obra, lo que suceda primero, en el que informarán lo siguiente:
 
-Los propietarios que realicen la edificación de una sola vivienda de interés social para su habitación personal, cuyo monto global no exceda de 6,450 salarios mínimos generales vigentes, no causarán este impuesto, tampoco lo causarán los propietarios que realicen modificaciones y/o remodelaciones a una vivienda de interés social, cuando la obra no exceda de un monto de 805 salarios mínimos generales vigentes. El documento con el que se acreditan los supuestos antes referidos, lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
+a) Fecha de inicio de los trabajos;
 
-Para los efectos de este impuesto la prestación del servicio personal debe realizarse en territorio del Estado, con independencia de la forma y lugar de pago.
+b) Tipo de obra a ejecutar;
+
+c) Ubicación de la obra;
+
+d) Número de trabajadores y oficio o profesión a desempeñar de cada uno de éstos;
+
+e) Importe diario de percepciones de cada trabajador;
+
+f) Tiempo de duración de la obra y
+
+g) Costo total de mano de obra.
+
+h) Bitácora y/o Estimaciones de construcción.
+
+Para efectos de lo propuesto en el presente artículo, la tasa del 3% se aplicará sobre el total de las erogaciones por concepto de mano de obra, pudiendo enterarlo mediante pagos mensuales o conforme a lo previsto en el artículo 11 de la presente Ley.
+
+II. El cumplimiento del pago del Impuesto Sobre Nóminas deberá garantizarse mediante depósito en efectivo o carta de crédito ante la Oficina Recaudadora de Rentas que corresponda a su domicilio; cuyo monto será la sumatoria de la estimación de la contribución a enterar durante el periodo que dure la obra.
+
+III. En caso de omitir la obligación prevista en la fracción I de este artículo, la Secretaría requerirá a los sujetos a que se refiere el primer párrafo del presente artículo para que dentro de los seis días hábiles siguientes a aquél en que surta efectos la notificación, proporcionen la documentación necesaria para determinar el impuesto a cargo, debiendo exhibir y proporcionar, con independencia del Aviso de Inicio de Obra a que se refiere el presente artículo, la licencia de construcción expedida por la autoridad municipal competente.
+
+IV. Transcurrido el plazo anterior sin que los sujetos obligados hubieren proporcionado la documentación señalada en la fracción I de este artículo, la autoridad fiscal competente considerará que las contribuciones no enteradas son las que resulten de aplicar la tasa del 3% sobre una cantidad equivalente a cuatro veces la UMA elevado al periodo por el que se omitió la contribución por cada uno de los trabajadores bajo su dependencia de manera directa o a través de un intermediario, contratista, tercero o cualquiera que sea su denominación; más las actualizaciones y recargos que se generen;
+
+Lo anterior con independencia de los enteros mensuales que deban realizarse hasta la conclusión de la obra.
+
+V. Los propietarios o poseedores de bienes inmuebles, que realicen la edificación de una sola vivienda de interés social para su habitación personal, cuyo monto global no exceda de 6,624 veces la UMA no causarán este impuesto; tampoco lo causarán los propietarios o poseedores que realicen modificaciones y/o remodelaciones a una vivienda de interés social, cuando la obra no exceda de un monto de 927 veces la UMA. El documento con el que se acreditan los supuestos antes referidos, lo será la Licencia de Construcción y la Cédula Catastral correspondientes, que expida la autoridad municipal correspondiente.
+
+En caso de no acreditar el supuesto previsto en esta fracción, le será aplicable el procedimiento previsto en las fracciones I a la IV del presente artículo.
+
+Los propietarios de inmuebles que contraten los servicios de personas físicas o morales para trabajos de construcción, con excepción de lo establecido en la fracción anterior, deberán informar a la Secretaría dentro del plazo previsto en el primer párrafo de la fracción I de éste artículo, la fecha de inicio de operaciones, así como el tipo del servicio contratado y serán responsables solidarios por el adeudo que se genere en caso de incumplimiento.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 4.
 
-Son sujetos pasivos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo 2 de esta ley, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aun cuando éstos sujetos tengan su domicilio fuera del Estado.
+Son sujetos pasivos de este impuesto las personas físicas, morales o unidades económicas, que realicen las erogaciones a que se refiere el artículo 2 de la presente Ley, aun cuando tengan su domicilio fuera del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+Los sujetos a que se refiere el párrafo anterior, que contraten la prestación de servicios de personal con un tercero, contratista, intermediario laboral o cualquiera que sea su denominación, domiciliado dentro o fuera del territorio del Estado deberán presentar el Aviso de Intermediario Laboral en el que especificarán el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su prestador; así como el número de empleados, con independencia por el tiempo para el que fueron contratados, el monto de la operación contratada, la vigencia del contrato, el cual deberá ser ratificado ante la autoridad fiscal competente dentro de los dos primeros meses del siguiente ejercicio fiscal.
 
-Están obligadas a retener y enterar este impuesto las personas físicas, morales o unidades económicas que contraten la prestación de servicios de personal con un tercero, intermediario laboral o cualquiera que sea su denominación domiciliado dentro o fuera del territorio del Estado. Las personas físicas, morales y unidades económicas que contraten los servicios de personal con un tercero, intermediario laboral o cualquiera que sea su denominación, deberán presentar aviso por cada uno de los establecimientos, en donde contraten los servicios de personal; dicho aviso deberá presentarse mediante las formas aprobadas por la Secretaría de Finanzas y Planeación dentro de los siguientes cinco días posteriores a la fecha de la firma del contrato suscrito o inicio de la prestación de los servicios o bien, de la fecha de su modificación, en el que especifique el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su proveedor; así como el número de empleados, el monto de la operación contratada, la vigencia del contrato, los establecimientos y las actividades por las que se contrata el servicio.
+Cuando se contrate servicios de personal para más de un establecimiento se deberá presentar aviso por cada uno, mediante las formas aprobadas por la Secretaría, en el que se especifique que la persona con la que suscribió el contrato de prestación de servicios de personal, se encuentra registrada en el Padrón Estatal de Contribuyentes; en caso de no hacerlo la autoridad fiscal competente tendrá por inscrito en el Registro Estatal de Contribuyentes al prestador con la obligación del Impuesto Sobre Nóminas.
+
+Asimismo, deberán presentar el Aviso de Alta o Aumento de Obligación como Retenedor.
+
+El plazo para presentar el Aviso de Alta o Aumento de Obligaciones como Retenedor del Impuesto Sobre Nóminas se realizará de forma simultánea al Aviso de Contrato con Intermediario Laboral, dentro de los cinco días siguientes a la fecha de la firma del contrato.
 
 ## TÍTULO III. DE LA BASE Y DE LA TASA
 
@@ -97,29 +157,31 @@ El presente impuesto se causará y pagará aplicando la tasa del 3% sobre la bas
 
 ## TÍTULO IV. DE LA ÉPOCA DE PAGO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 7.
 
-Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aun cuando estos sujetos tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos provisionales mensuales a cuenta del impuesto anual a más tardar el día 17 del mes siguiente a aquel en el que se causó utilizando las formas autorizadas por la Secretaría de Finanzas y Planeación, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general.
+Las personas físicas, morales o unidades económicas, aun cuando tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos mensuales que tendrán el carácter de definitivos, a más tardar el día 17 del mes siguiente a aquel en el que se causó el impuesto, mediante las formas autorizadas por la Secretaría, a través de los medios electrónicos dispuestos por ésta.
 
 Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de este, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
 
 Están obligados a presentar aviso en términos del segundo párrafo del artículo 4 de esta ley quienes contraten a empresas que presten servicios de personal, para ejecutarlos con elementos propios, y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas o morales, serán sujetas del pago de este impuesto.
 
-La obligación de presentar declaraciones de pagos provisionales subsistirá aun cuando no hubiese cantidad a cubrir.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+La obligación de presentar declaraciones mensuales subsistirá aun cuando no hubiese cantidad a cubrir.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 8.
 
-El pago provisional será la cantidad que resulte de aplicar a los conceptos a que se refiere el artículo 2 de esta ley por cada período, por el que se efectúa el pago, la tasa señalada en el artículo 6 de esta ley.
+El pago mensual será la cantidad que resulte de aplicar a las erogaciones previstas en el artículo 2 de esta ley por cada periodo en que se efectúe el pago, la tasa del 3%.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 9.
 
-El impuesto del ejercicio, deducidos de los pagos provisionales, se pagará mediante declaración, que se presentará ante las oficinas autorizadas, dentro de los cuatro meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que se les solicite en la forma que al afecto apruebe la Secretaría de Finanzas y Planeación.
-
-La declaración del ejercicio se sujetará a lo siguiente:
-
-I. Cuando los contribuyentes inicien actividades a partir del 1º de enero, presentarán declaración del ejercicio del 1º de enero al 31 de diciembre de ese ejercicio, aunque no hubiese finalizado el ejercicio fiscal con actividades, y
-
-II. Cuando los contribuyentes inicien actividades con posterioridad al 1° de enero, presentarán declaración del ejercicio, de la fecha en que iniciaron sus actividades al 31 de diciembre de ese ejercicio.
+Los retenedores de este impuesto, deberán presentar Declaración Informativa Anual dentro de los cuatro meses siguientes al cierre del ejercicio, en las formas que al efecto determine la Secretaría, a través de los medios electrónicos dispuestos por ésta.
 
 ###### Artículo 10.
 
@@ -127,7 +189,7 @@ Cuando se formulen declaraciones complementarias sustituyendo datos de la origin
 
 a) Cuando sólo incrementen el total de las erogaciones efectuadas, a que se refiere el artículo 2 de esta ley.
 
-b) Cuando sólo disminuyan sus deducciones o reduzcan las cantidades acreditables o compensadas o los pagos provisionales o de contribuciones a cuenta.
+b) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 c) Cuando el contribuyente haga dictaminar por contador público autorizado sus estados financieros, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo.
 
@@ -135,17 +197,23 @@ d) Cuando la presentación de la declaración que modifica a la original se esta
 
 Se procederá como sigue:
 
-I. Cuando se trate de declaraciones de pagos provisionales y no se haya presentado la declaración del ejercicio, la diferencia a su favor o su incremento podrá compensarse en la declaración de pago provisional siguiente al día en que se presente la declaración complementaria, sin que sea necesario modificar las demás declaraciones.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-II. Cuando se modifique una declaración del ejercicio, el contribuyente podrá optar por solicitar devoluciones o compensar dicha diferencia a su favor, en la declaración de pago provisional, siguiente al día en que se presente la complementaria.
+l. La diferencia a cargo, deberá pagarse al momento en que se presente la declaración complementaria; en caso de ser a su favor, podrá compensarla en las subsecuentes hasta agotarlo;
 
-III. Cuando el total de remuneraciones por las que se deba pagar el impuesto del ejercicio sea superior a la suma del declarado en los pagos provisionales que comprenda el mismo, se deberán presentar declaraciones complementarias por el período o periodos por los que se efectúan pagos provisionales a que correspondan las diferencias, debiéndose actualizar el impuesto y cubrir los recargos conforme a los artículos 20 y 22 del Código Fiscal del Estado.
+ll. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
 
-IV. Cuando la diferencia entre el impuesto del ejercicio y la suma del impuesto consignado en las declaraciones provisionales, se deba al ajuste de las contribuciones pagadas efectuado en los términos previstos en el artículo 18 último párrafo del Código Fiscal del Estado, se recepcionará la declaración anual sin cobro alguno.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+III. Las diferencias a cargo del contribuyente en una declaración complementaria del periodo que corresponda, deberá incluir la actualización del impuesto y los recargos, conforme a lo establecido en los artículos 20 y 22 del Código Fiscal del Estado.
+
+IV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 11.
 
-Cuando se realicen las erogaciones a que se refiere el artículo 2 de esta ley, en forma ocasional o por única vez, el contribuyente pagará el impuesto mediante declaración que presentará en las oficinas autorizadas dentro de los 5 días siguientes a aquel en que se realizó la erogación. En estos casos no se formulará declaración anual ni pago provisional.
+Cuando se realicen las erogaciones a que se refiere el artículo 2 de esta Ley, en forma ocasional o por única vez, el contribuyente pagará el impuesto mediante declaración eventual o parcial, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por ésta.
 
 Cuando el contribuyente realice la erogación a que se refiere el párrafo anterior por única ocasión, no estará obligado a inscribirse en el Registro Estatal de Contribuyentes.
 
@@ -159,19 +227,25 @@ Son obligaciones de los contribuyentes de este impuesto, además de las establec
 
 I. Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse solo para efectos de control.
 
-II. Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa y que efectúen pagos por remuneraciones al trabajo personal subordinado prestado dentro del territorio del Estado, deberán registrar como domicilio fiscal estatal el lugar donde se preste el trabajo personal subordinado, además podrán hacer sus pagos en las instituciones bancarias, con base a las disposiciones que al efecto dicte la Secretaría de Finanzas y Planeación.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+II. Las personas físicas, morales o unidades económicas que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa y que efectúen pagos por remuneraciones al trabajo personal subordinado prestado dentro del territorio del Estado, deberán registrar como domicilio fiscal estatal el lugar donde se preste el trabajo personal subordinado, y hacer sus pagos mediante las formas electrónicas autorizadas por la Secretaría, a través de los medios previstos en el párrafo tercero del artículo 18 del Código Fiscal del Estado.
 
 III. Conservar la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años contados, a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas.
 
-IV. Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, que para efectos de impuestos federales tengan su domicilio fiscal en otra entidad, deberán mantener copia de su documentación contable fiscal relacionada con las contribuciones estatales, en la sucursal que corresponda en el Estado.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+IV. Las personas físicas, morales o unidades económicas que para efectos de impuestos federales tengan su domicilio fiscal en otra entidad, deberán mantener copia de su documentación contable fiscal relacionada con las obligaciones que regula la presente ley, en la sucursal que corresponda en el Estado.
 
 V. Cuando los contribuyentes detecten diferencias en sus pagos, deberán presentar declaraciones complementarias. Asimismo, cuando por motivo del ejercicio de las facultades de comprobación fiscal deberán presentarse declaraciones de corrección por los periodos omitidos.
 
 VI. Para los efectos previstos en el artículo 4 segundo párrafo de esta ley, quienes contraten servicios de administración de personal a personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, deberán conservar en su domicilio fiscal a disposición de las autoridades fiscales, copias de la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, contados a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas, así como de su documentación contable fiscal relacionada con este impuesto.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 13.
 
-Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario de Finanzas y Planeación, la oficina Recaudadora de Rentas ante la cual se presentarán las declaraciones.
+Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario, la oficina Recaudadora de Rentas ante la cual se presentarán las declaraciones.
 
 En las declaraciones que se presenten en los términos del párrafo que antecede, deberán consignarse los datos concernientes al número de sucursales por las que se declarará y la ubicación de las mismas, así como el número de trabajadores por cada sucursal y los montos generados por cada una de ellas.
 
@@ -193,13 +267,17 @@ Quienes realicen pagos y erogaciones por cuenta de terceros gravados por este im
 
 Las personas a que se refiere el artículo anterior, están obligadas a presentar aviso de inscripción ante la Oficina Recaudadora de Rentas correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, comprobante de retención.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 16.
 
-Las dependencias y organismos auxiliares de la Administración Pública Federal, Estatal y los Municipios que contraten obra pública con empresas foráneas o locales, tendrán la obligación de retener este impuesto a dichas empresas al efectuar el pago correspondiente de la obra y posteriormente deberán enterarlo en la Oficina Recaudadora de Rentas que corresponda a la ubicación de la obra.
+Las dependencias y organismos auxiliares de la Administración Pública Federal, Estatal o Municipal que contraten obra pública con empresas foráneas o locales, tendrán la obligación de retener este impuesto a dichas empresas al efectuar el pago correspondiente de la obra y posteriormente enterarlo a la Secretaría mediante las formas autorizadas a través de las formas electrónicas dispuestas por la Secretaría y conforme a los medios previstos en el párrafo tercero del artículo 18 del Código Fiscal del Estado.
 
 Para determinar la cantidad a retener se tomará como base del impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 6 de esta ley, por cada pago de estimaciones por trabajos ejecutados, que se otorgue a la empresa constructora a cuenta de pago final y hasta la terminación de la obra.
 
-El pago del impuesto retenido, deberá efectuarse dentro de los 10 días del mes siguiente a aquel en el cual se efectuaron las retenciones, mediante declaración definitiva en las formas aprobadas por la propia Secretearía (sic) de Finanzas y Planeación.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+El pago del impuesto retenido, deberá efectuarse dentro de los 10 días del mes siguiente a aquel en el cual se efectuaron las retenciones, mediante declaración definitiva en las formas aprobadas por la propia Secretaría.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE ENERO DE 2017)</small>
 
@@ -211,7 +289,9 @@ El pago del impuesto retenido, deberá efectuarse dentro de los 10 días del mes
 
 Las personas físicas, morales o unidades económicas con domicilio fiscal en el Estado, que contraten la prestación de servicios por la que se tenga la obligación de pagar el impuesto, con personas domiciliadas dentro o fuera del territorio del Estado, deberán:
 
-I. Retener el impuesto que se cause conforme a las disposiciones de esta Ley y expedir al prestador del servicio constancia de la retención dentro de los 15 días siguientes a la fecha en que se efectuó dicha retención y pago correspondiente en el formato que para tal efecto autorice la Secretaría de Finanzas y Planeación del Estado. La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+I. Retener el impuesto que se cause conforme a las disposiciones de esta Ley y expedir al prestador del servicio constancia de la retención dentro de los 15 días siguientes a la fecha en que se efectuó dicha retención y pago correspondiente en el formato que para tal efecto autorice la Secretaría. La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados, y
 
 II. Declarar y enterar el impuesto retenido, en el plazo ordinario previsto en la presente Ley.
 
@@ -237,9 +317,11 @@ La base a que se refiere el párrafo anterior, se determinará sin incluir la co
 
 Los retenedores de este impuesto tendrán, además de las obligaciones señaladas en este título, las siguientes:
 
-I. Presentar aviso de alta o aumento de obligaciones por el inicio de la retención del impuesto, dentro de los 15 días siguientes a la fecha de la primera retención que efectúen, adjuntando copia del contrato celebrado con el prestador del servicio;
+I. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
 
-II. Presentar declaraciones mensuales provisionales del impuesto retenido y hacer el entero del mismo, a más tardar el día 17 del mes siguiente a aquél en que se efectúa la retención.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+II. Presentar declaraciones mensuales del impuesto retenido y enterarlo a más tardar el día 17 del mes siguiente a aquel en que se efectúa la retención, en caso de no hacerlo se harán acreedores a las sanciones previstas en el Código Fiscal del Estado con independencia de la responsabilidad penal a que diere lugar.
 
 Las declaraciones a que se refiere el párrafo anterior, se presentarán aun cuando no exista contribución a pagar, mientras no se presente el aviso de disminución de obligaciones como retenedor;
 
@@ -344,3 +426,11 @@ P.O. 17 DE ENERO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor a partir del 1o. de enero de 2017, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO NÚMERO: 136 POR EL QUE SE REFORMAN, SE DEROGAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE NÓMINAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero de 2018, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
