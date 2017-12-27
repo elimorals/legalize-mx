@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2016-12-22"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -132,8 +132,6 @@ c) Se solicite de los sujetos pasivos, responsables solidarios, responsables obj
 d) Se recabe de los servidores públicos y de los fedatarios, los informes y datos que posean, con motivo de sus funciones;
 
 e) Emplear cualquiera de los siguientes medios de apremio, que se juzguen eficaces, para hacer cumplir sus determinaciones:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -567,13 +565,9 @@ RÚSTICOS: Terrenos Explotados 0.30%
 
 Terrenos inexplotados 0.60%
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Previo a la aplicación de la tarifa señalada en este artículo para la determinación del impuesto predial, cuando se trate de jubilados, pensionados, discapacitados o adultos mayores, se deducirá de la base gravable la cantidad que configure el 75% de ésta, cuando ante la autoridad fiscal se acredite debidamente que el predio:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -584,8 +578,6 @@ b. Éste lo destina para habitarlo por sí; y
 c. Su valor no exceda de 8,500 veces el salario mínimo general diario vigente en la entidad.
 
 Este beneficio se aplicará sin menoscabo de lo previsto en el artículo 28 y en caso de fallecer el propietario se hará extensivo a quien herede el inmueble, siempre y cuando lo sea su cónyuge, concubino o concubina y/o sus hijos menores de edad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -694,8 +686,6 @@ Tratándose de vehículos cuyo modelo corresponda al año en curso o del año an
 Para vehículos de modelo más antiguo, la base del impuesto será el valor de la operación, pudiendo el contribuyente tomar como valor de operación, el referido en la GUÍA EBC para comerciantes en automóviles y camiones y aseguradores de la República Mexicana, del mes en que se manifieste la operación.
 
 #### SECCION CUARTA. DE LA TASA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -999,8 +989,6 @@ b) En el acto en que el fideicomitente ceda sus derechos, si entre éstos se inc
 
 XI. La división, liquidación de la copropiedad o de la sociedad conyugal o legal, por lo que se refiere a los excedentes del valor que le correspondería a la porción de cada copropietario o cónyuge;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 XII. Las transmisiones de la propiedad realizadas en procedimientos judiciales o administrativos.
@@ -1023,37 +1011,21 @@ Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
 En la determinación de la base del impuesto sobre adquisición de inmuebles, se aplicarán las siguientes disposiciones:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 I. Será base del impuesto el valor catastral actualizado con los valores unitarios vigentes en la fecha de causación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 II. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 III. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 IV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 V. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 VII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -1086,8 +1058,6 @@ El impuesto se calculará aplicando la tasa del 2% a la base gravable.
 El pago del impuesto deberá hacerse en la Tesorería Municipal correspondiente dentro de los quince días siguientes a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
 
 USUFRUCTO O NUDA PROPIEDAD.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -1349,8 +1319,6 @@ hasta por quince días 20
 
 D. Por la reposición de tarjeta de circulación 2
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 E. Por refrendo anual de placas,
@@ -1365,8 +1333,6 @@ tractores, automotores, remolques,
 
 semirremolques, y otros similares. 6
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 F.- Por refrendo anual de placas,
@@ -1378,8 +1344,6 @@ circulación para motocicletas,
 cuatrimotos, motonetas, trimotos
 
 o similares. 3
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -1637,11 +1601,15 @@ El pago de este derecho, se hará a través de la compañía suministradora de e
 
 #### SECCION QUINTA. POR SERVICIOS DE AGUA POTABLE
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 90.
 
-Estos servicios se regirán en todo lo que les sean aplicable, por la Ley de Agua Potable y Alcantarillado del Estado de Campeche
+Es objeto de derechos la prestación de los servicios públicos de agua potable y alcantarillado que se brinde a los habitantes de cada Municipio, incluyendo saneamiento, drenaje y descarga de aguas residuales en los términos de la Ley de Agua Potable y Alcantarillado del Estado de Campeche. Los servicios en comento estarán a cargo del Organismo Operador Municipal o figura jurídica análoga en cada Municipio.
+
+Son sujetos del pago de derechos, los propietarios o poseedores en los términos y modalidades que se establecen en las fracciones I, II y III del artículo 60 de la Ley de Agua Potable y Alcantarillado del Estado de Campeche, que resulten beneficiados con este servicio público en cada uno de los Municipios del Estado.
+
+Los derechos, cuotas o tarifas por tales servicios se cobrarán de manera mensual y anticipada, de conformidad con lo que establezcan las Leyes de Ingresos Municipales respectivas, o en su caso, los organismos operadores de estos servicios constituidos como paramunicipales; dicha determinación de cuotas y tarifas estará a lo dispuesto en el Capítulo III del Título Cuarto de la Ley de Agua Potable y Alcantarillado del Estado de Campeche.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1652,8 +1620,6 @@ Estos servicios se regirán en todo lo que les sean aplicable, por la Ley de Agu
 ###### ARTÍCULO 91.
 
 Los derechos a perpetuidad en panteones municipales se causarán y pagarán conforme a la siguiente:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE GRUPO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -1733,8 +1699,6 @@ cuadrado $32.00
 
 D. Osario $79.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 92.
@@ -1749,8 +1713,6 @@ Inhumación 2 a 5
 
 Exhumación 2 a 5
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 93.
@@ -1760,8 +1722,6 @@ Los derechos por el uso temporal en panteones municipales causarán y pagarán e
 T A R I F A
 
 I.- PANTEONES MUNICIPALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE GRUPO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -1800,8 +1760,6 @@ B. En los panteones del interior del Municipio:
 3. Por metro cuadrado, por tres años $20.90
 
 4. Fosa común por tres años $31.35
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -2007,8 +1965,6 @@ Para lo no previsto en esta sección se estará a lo dispuesto en el Reglamento 
 
 #### SECCION TERCERA. POR LICENCIA DE USO DE SUELO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 105.
@@ -2018,8 +1974,6 @@ La autorización de uso o destino a un predio, causará un derecho equivalente a
 TARIFA
 
 TIPO GRUPO 1 GRUPO 2 GRUPO 3
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -2034,8 +1988,6 @@ De 65.10 m2 a
 De 120.10 m2
 
 en adelante 7 7 7
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -2058,8 +2010,6 @@ D. De 500.01 a
 E. De 2500.01
 
 en adelante 80 80 80
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 III. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
 
@@ -2264,8 +2214,6 @@ de altura: 10.00
 Electrónico más de 3 metros
 
 de altura: 15.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
@@ -2699,8 +2647,6 @@ III. Cauciones cuya pérdida se declare por resolución firme a favor del Munici
 
 IV. Indemnizaciones por responsabilidades fincadas a terceros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
 
 ARTÍCULO 144 BIS.- Los servicios prestados por las Direcciones de Protección Civil Municipales, se pagarán conforme a las cuotas siguientes de acuerdo a la constancia emitida por la autoridad municipal.
@@ -3054,3 +3000,11 @@ P.O. 22 DE DICIEMBRE DE 2016.
 Primero.- El presente decreto entrará en vigor el día uno de enero del año dos mil diecisiete, previa publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 250 POR EL QUE "SE REFORMA EL ARTÍCULO 90 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1° de enero de 2018, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales, administrativas y reglamentarias en lo que se opongan al contenido de este decreto.
