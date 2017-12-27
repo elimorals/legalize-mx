@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2017-02-22"
+last_updated: "2017-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -463,9 +463,9 @@ III.- Cheques certificados, de caja, de cuentas personales o empresariales;
 
 IV.- Tarjetas de crédito o de débito. Así mismo, podrán efectuar los pagos mediante transferencias de fondos a través de la red electrónica mundial, en cuyo caso se deberán observar los requisitos y procedimientos que establezca la Secretaría de Hacienda, mediante acuerdo que publique en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-Así mismo, podrán efectuar los pagos mediante transferencias de fondos a través de la red electrónica mundial, en cuyo caso se deberán observar los requisitos y procedimientos que establezca la Secretaría de Hacienda, mediante Acuerdo que publique en el Periódico Oficial del Estado.
+El uso de las claves de identificación personal que se establezca para realizar trámites y servicios ante las oficinas recaudadoras y demás establecimientos autorizados por la Secretaría de Hacienda, incluyendo los que se realicen a través de la red electrónica mundial, sustituye a la firma autógrafa y producirá los mismos efectos legales, por lo que tendrán el mismo valor probatorio.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
@@ -491,9 +491,9 @@ Las manifestaciones y declaraciones de los notarios, jueces que actúen por rece
 
 Cuando se omita la presentación de declaraciones para el pago de impuestos propios o retenidos, la Secretaría de Hacienda podrá hacer efectivo por concepto del impuesto, una cantidad igual a la de la última declaración, con las modificaciones que en su caso hubiere tenido con motivo de la revisión. El impuesto determinado podrá ser rectificado por la citada Secretaría. Los contribuyentes o retenedores continuarán obligados a presentar las declaraciones, caso en que el impuesto pagado se acreditará contra el que resulte de éstas, sin perjuicio de las facultades de la autoridad para proceder a su revisión.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-Los pagos a que se refiere este artículo que se enteren mediante declaración, deberán presentarse en los formatos oficiales aprobados por la Secretaría de Hacienda. Las declaraciones podrán ser normales o complementarias. La complementaria sólo podrá presentarse cuando exista error en la base de determinación de la normal hasta por dos ocasiones, siempre y cuando no hayan iniciado las facultades de comprobación por parte de la Secretaría de Hacienda.
+Los pagos a que se refiere este artículo que se enteren mediante declaración, deberán presentarse en los formatos oficiales aprobados por la Secretaría de Hacienda. Las declaraciones podrán ser normales o complementarias. La complementaria será sustitutiva de la declaración anterior, debiendo contener todos los datos que se requieran y solo podrá presentarse hasta por dos ocasiones, siempre y cuando no se hayan iniciado facultades de comprobación por parte de la Secretaría de Hacienda.
 
 45.- La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
@@ -1165,7 +1165,9 @@ Tratándose de funcionarios o empleados públicos que cometan infracciones grave
 
 100.- Es objeto de este impuesto la prestación de servicios de hospedaje, que realicen personas físicas o morales en el Estado de Chihuahua.
 
-El 95% de los ingresos obtenidos por concepto de este impuesto, serán destinados para la promoción y difusión de la actividad turística en el Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+De los ingresos que se recauden con motivo de este impuesto, una cantidad que represente una proporción de tres puntos porcentuales de la tasa aplicable, será destinada a la promoción y difusión de la actividad turística en el Estado. El punto porcentual restante se destinará a obras de inversión pública relacionadas con dicha actividad, inclusive podrá ser utilizado para empatar programas de inversión turística establecidos, convenidos o coordinados con el Ejecutivo Federal.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -1179,9 +1181,9 @@ En el caso de que el servicio se preste bajo el sistema normal de hospedaje no s
 
 En tanto que por el servicio para el sistema de tiempo compartido, integrará la base para el cálculo del impuesto, además de la señalada en el primer párrafo de este artículo, las cantidades que se carguen o cobren por intereses normales o moratorios, penas convencionales, mantenimiento, cuotas ordinarias o extraordinarias por administración, gasto de toda clase y cualquier otro concepto inherente al mismo.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-103.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 3%.
+103.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 4%.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -1317,9 +1319,83 @@ IV.- Los consignatarios o comisionistas en cualquier operación de adquisición 
 
 139.- Cuando en las operaciones que se lleven a cabo con motivo de la adquisición de vehículos automotores u otros bienes muebles usados, intervengan personas domiciliadas fuera del Estado, el impuesto será retenido y enterado por aquella que sea residente del mismo, que haya intervenido o sea intermediario en la operación.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO II-BIS. IMPUESTO SOBRE LOTERIAS, RIFAS Y SORTEOS
+### CAPITULO II – BIS. DEL IMPUESTO A LA OBTENCION DE PREMIOS EN LOTERIAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y/O CONCURSOS DE TODA CLASE
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+139-A.- Se entenderá, para efectos de los impuestos a que se refiere este Capítulo, por juegos con apuestas:
+
+I. Aquellos en los que el premio se pueda obtener por la destreza del participante, o por el mero azar, en el uso de máquinas.
+
+II. Los que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+III. Aquellos en los que el participante deba estar presente en el juego, activamente o como espectador.
+
+IV. Los juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+V. Los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio, o ambos.
+
+VI. Los autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+139-B.- Se entenderá, para efectos de los impuestos a que se refiere este Capítulo, por apuestas, los montos en efectivo, en especie o los entregados por cualquier otro medio que se arriesgan en un juego, con la posibilidad de obtener o ganar un premio.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+139-C.- Los ingresos recaudados por concepto de los impuestos a que se refiere el presente Capítulo, serán destinados a inversión pública productiva del Estado, de conformidad a las disposiciones aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+#### SECCION SEGUNDA. DEL IMPUESTO A LOS INGRESOS PERCIBIDOS POR LA ORGANIZACION DE JUEGOS CON APUESTAS Y/O SORTEOS
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+139-D.- Es objeto de este impuesto los ingresos percibidos por la organización de juegos con apuestas y/o sorteos, independientemente del nombre con el que se les designe, que se efectúen en el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+139-E.- Son sujetos de este impuesto las personas físicas y morales que organicen juegos con apuestas y/o sorteos.
+
+Se incluye como sujetos de este impuesto, en la organización de juegos con apuestas y/o sorteos, a quienes administren, exploten o preparen la celebración de juegos con apuestas y/o sorteos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+139-F.- El impuesto se calculará aplicando una tasa del 6% al valor total de los ingresos percibidos por la organización de juegos con apuestas y/o sorteos.
+
+Se considerará como valor el total de las cantidades efectivamente percibidas a aquellas a la participación de juegos con apuestas y/o sorteos, ya sea que enteren en efectivo, en especie o por cualquier otro medio. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas.
+
+Para el cálculo del impuesto a las cantidades antes indicadas, deberán reducirse los premios efectivamente pagados o entregados y las cantidades efectivamente devueltas a los jugadores.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+139-G.- Las personas que obtengan ingresos a que se refiere esta sección, podrán efectuar las siguientes deducciones:
+
+I. El valor de los premios efectivamente pagados o entregados.
+
+En el caso de premios distintos al efectivo, se podrá deducir el valor estipulado en el permiso otorgado o, en su defecto, el valor de facturación o el de avalúo comercial.
+
+II. Las cantidades devueltas a los participantes, antes de la realización de los juegos o sorteos.
+
+Para que puedan deducirse los valores referidos en las fracciones anteriores, estos deberán estar registrados en la contabilidad, en el sistema central de apuestas o en el sistema que resulte equivalente.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+139-H.- El impuesto se calculará mensualmente y se pagará a más tardar el día 15 del mes siguiente al que corresponda el ingreso obtenido. Los pagos se realizarán mediante declaración que se presentará en las formas oficialmente aprobadas. Dicho pago se entenderá como definitivo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+139-I.- No se pagará el impuesto a que se refiere esta sección, cuando los juegos con apuestas y/o sorteos se organicen por contribuyentes exentos, entendiéndose por estos aquellos a que se refiere el artículo 73 tercer párrafo del presente Código.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+#### SECCION TERCERA. IMPUESTO A LA OBTENCION DE PREMIOS EN LOTERIAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y/O CONCURSOS DE TODA CLASE
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -1333,21 +1409,23 @@ Para los efectos de este impuesto no se considera como premio el reintegro corre
 
 141.- Son sujetos de este impuesto las personas físicas o morales, que compran o adquieran en el territorio del Estado, billetes, boletos, contraseñas o cualquier otro comprobante que permita participar en los respectivos eventos y que resulten premiados, independientemente del lugar donde se celebre el evento. Las personas o instituciones que organicen o celebren los eventos correspondientes, están obligados a retener el impuesto que se cause.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+También se consideran sujetos para efectos de este impuesto, las personas físicas o morales, que obtengan un premio o cualquier otro beneficio independientemente del nombre con el que se le designe, que derive de una lotería, rifa, sorteo, juego con apuesta y/o concurso de toda clase.
+
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 142.- La base para el cálculo del impuesto se integra con el valor total determinado o determinable del premio que se obtenga. Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-No se aplicará el Impuesto Adicional del 4% contemplado en el Párrafo Segundo del Artículo 28 de este Código, al Impuesto sobre Loterías, Rifas y Sorteos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 143.- El monto del impuesto se calculará aplicando a la base gravable a que alude el artículo anterior la tasa del 6%.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-Para el cálculo del Impuesto derivado de juegos con apuestas, se aplicará a la base gravable la tasa del 2%.
+Para el cálculo del Impuesto derivado de juegos con apuestas y/o sorteos, se aplicará a la base gravable la tasa del 6%.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -1378,72 +1456,6 @@ Para el cálculo del Impuesto derivado de juegos con apuestas, se aplicará a la
 148.- El Gobierno Federal, el del Distrito Federal, los Gobiernos de los Estados, los Municipios, el Patronato de Ahorro Nacional, la Lotería Nacional y Pronósticos Deportivos para la Asistencia Pública y los Partidos Políticos; así como las instituciones de asistencia privada, instituciones educativas y las de beneficencia social, retendrán y enterarán el impuesto que se cause por la obtención de premios que se entreguen, a quienes compren o adquieran en el territorio del Estado los billetes, boletos, contraseñas o cualquier otro comprobante que les permita participar en los correspondientes eventos.
 
 En ningún caso quedarán exentos del pago del impuesto los premios obtenidos.
-
-#### SECCION PRIMERA. OBJETO Y SUJETO
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1994)</small>
-
-175.- Son objeto de este Impuesto los ingresos que en efectivo o en especie se perciban en el libre ejercicio de un arte, oficio, actividad técnica, deportiva o cultural, como agente de instituciones de crédito, seguros o fianzas, mediante la explotación de una patente aduanal o en cualquier otra forma análoga a las anteriores.
-
-176.- Son sujetos de este impuesto las personas físicas que perciban ingresos por los conceptos señalados en el artículo anterior, por actividades efectuadas dentro del Estado de Chihuahua.
-
-Cuando dichas personas operen organizadas en agrupaciones profesionales, asociaciones o sociedades de carácter civil, serán dichas personas físicas sujetos del impuesto, por la participación que les corresponda en los ingresos de la organización.
-
-#### SECCION SEGUNDA. TASA, BASE Y DEDUCCIONES
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1992)</small>
-
-177.- El impuesto se causará mensualmente, aplicando la tasa del 2% sobre total de los ingresos obtenidos con motivo de las actividades a que se refiere este capítulo.
-
-178.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
-
-179.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-180.- La Secretaría de Hacienda, podrá estimar los ingresos brutos de los sujetos de este impuesto, en los siguientes casos:
-
-I.- Cuando no presenten la declaración mensual o no lleven los libros a que están obligados.
-
-II.- Cuando por los informes que se obtengan se ponga de manifiesto la percepción de un promedio de ingresos brutos superior al declarado en un 3%.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
-
-Para practicar las estimaciones a que se refiere este precepto se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse, así como los gastos de carácter privado en que haya incurrido el causante y constituyan un índice para los efectos de este artículo.
-
-Sobre los ingresos brutos estimados, se reconocerá como deducción única, el importe del 20% de dichos ingresos.
-
-#### SECCION TERCERA. OBLIGACIONES DE LOS CAUSANTES
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 1994
-
-181.- Los causantes de este Impuesto están obligados:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
-
-I.- A efectuar el pago del impuesto dentro de los días 1° al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior.
-
-II.- A firmar los documentos previstos por este capítulo bajo protesta de decir verdad.
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-III.- A recibir las visitas de inspección y proporcionar a los visitadores de la Secretaría de Hacienda comisionados para efectuarlas, todos los informes y documentos que pidan para el desempeño de sus funciones.
-
-IV.- A proporcionar a las autoridades fiscales los datos e informes que se les soliciten, dentro del plazo que para ello se les fije.
-
-V.- Cuando se trate de agrupaciones profesionales, asociaciones o sociedades de carácter civil, deberán éstas empadronarse en lugar de las personas físicas que las integren.
-
-En este caso, todas las demás obligaciones a que se refiere este artículo deberán cumplirse por la agrupación u organización de que se trate, inclusive la relativa al pago del impuesto, para cuyo efecto se deberá presentar una declaración en los términos de la fracción I listando los ingresos que correspondan a cada uno de los socios en el mes inmediato anterior y los impuestos que deban enterar. Si la asociación o sociedad no cumple con estas obligaciones, los socios o asociados deberán cumplir con las mismas.
-
-VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1976)
-
-VII.- Señalar nombre y domicilio del depositario de los libros y en general de toda la documentación del causante, en caso de clausura, traslado y cambio de denominación social.
-
-VIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales y demás documentos probatorios y relativos a las operaciones efectuadas.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-182.- Las declaraciones de los contribuyentes serán revisables por la Secretaría de Hacienda. Cuando de su estudio resulte que no manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias del impuesto que corresponden, sin perjuicio de las sanciones a que haya lugar.
 
 ### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
@@ -1577,6 +1589,72 @@ Para que los conceptos anteriores se excluyan como integrantes de la base del im
 
 ### CAPITULO V. IMPUESTO SOBRE EJERCICIOS LUCRATIVOS
 
+#### SECCION PRIMERA. OBJETO Y SUJETO
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1994)</small>
+
+175.- Son objeto de este Impuesto los ingresos que en efectivo o en especie se perciban en el libre ejercicio de un arte, oficio, actividad técnica, deportiva o cultural, como agente de instituciones de crédito, seguros o fianzas, mediante la explotación de una patente aduanal o en cualquier otra forma análoga a las anteriores.
+
+176.- Son sujetos de este impuesto las personas físicas que perciban ingresos por los conceptos señalados en el artículo anterior, por actividades efectuadas dentro del Estado de Chihuahua.
+
+Cuando dichas personas operen organizadas en agrupaciones profesionales, asociaciones o sociedades de carácter civil, serán dichas personas físicas sujetos del impuesto, por la participación que les corresponda en los ingresos de la organización.
+
+#### SECCION SEGUNDA. TASA, BASE Y DEDUCCIONES
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 1992)</small>
+
+177.- El impuesto se causará mensualmente, aplicando la tasa del 2% sobre total de los ingresos obtenidos con motivo de las actividades a que se refiere este capítulo.
+
+178.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
+
+179.- (DEROGADO, P.O. 20 DE JUNIO DE 1992)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+180.- La Secretaría de Hacienda, podrá estimar los ingresos brutos de los sujetos de este impuesto, en los siguientes casos:
+
+I.- Cuando no presenten la declaración mensual o no lleven los libros a que están obligados.
+
+II.- Cuando por los informes que se obtengan se ponga de manifiesto la percepción de un promedio de ingresos brutos superior al declarado en un 3%.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+Para practicar las estimaciones a que se refiere este precepto se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse, así como los gastos de carácter privado en que haya incurrido el causante y constituyan un índice para los efectos de este artículo.
+
+Sobre los ingresos brutos estimados, se reconocerá como deducción única, el importe del 20% de dichos ingresos.
+
+#### SECCION TERCERA. OBLIGACIONES DE LOS CAUSANTES
+
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 1994
+
+181.- Los causantes de este Impuesto están obligados:
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
+
+I.- A efectuar el pago del impuesto dentro de los días 1° al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior.
+
+II.- A firmar los documentos previstos por este capítulo bajo protesta de decir verdad.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+III.- A recibir las visitas de inspección y proporcionar a los visitadores de la Secretaría de Hacienda comisionados para efectuarlas, todos los informes y documentos que pidan para el desempeño de sus funciones.
+
+IV.- A proporcionar a las autoridades fiscales los datos e informes que se les soliciten, dentro del plazo que para ello se les fije.
+
+V.- Cuando se trate de agrupaciones profesionales, asociaciones o sociedades de carácter civil, deberán éstas empadronarse en lugar de las personas físicas que las integren.
+
+En este caso, todas las demás obligaciones a que se refiere este artículo deberán cumplirse por la agrupación u organización de que se trate, inclusive la relativa al pago del impuesto, para cuyo efecto se deberá presentar una declaración en los términos de la fracción I listando los ingresos que correspondan a cada uno de los socios en el mes inmediato anterior y los impuestos que deban enterar. Si la asociación o sociedad no cumple con estas obligaciones, los socios o asociados deberán cumplir con las mismas.
+
+VI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1976)
+
+VII.- Señalar nombre y domicilio del depositario de los libros y en general de toda la documentación del causante, en caso de clausura, traslado y cambio de denominación social.
+
+VIII.- Conservar 5 años los libros de contabilidad, libros especiales fiscales y demás documentos probatorios y relativos a las operaciones efectuadas.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+182.- Las declaraciones de los contribuyentes serán revisables por la Secretaría de Hacienda. Cuando de su estudio resulte que no manifiestan los ingresos realmente percibidos, se procederá a hacer efectivas las diferencias del impuesto que corresponden, sin perjuicio de las sanciones a que haya lugar.
+
 #### SECCION CUARTA. OBLIGACIONES DE TERCEROS
 
 183.- Quienes hagan pagos a causantes del impuesto que establece este capítulo están obligados:
@@ -1596,6 +1674,10 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 185.- (DEROGADO, P.O. 29 DE DICIEMBRE DE 1990)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO VI. DE LOS IMPUESTOS CEDULARES A LOS INGRESOS DE LAS PERSONAS FISICAS
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION PRIMERA
 
@@ -1759,9 +1841,7 @@ En el caso de operaciones consignadas en escritura pública, los fedatarios, baj
 
 190-J.- (DEROGADO, P.O. 26 DE FEBRERO DE 2005)
 
-### CAPITULO VI. DE LOS IMPUESTOS CEDULARES A LOS INGRESOS DE LAS PERSONAS FISICAS
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2004)</small>
+### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
@@ -1809,8 +1889,6 @@ Las personas que efectúen retenciones harán los enteros relativos en el plazo 
 
 La Secretaría de Hacienda está, a través del representante de la Hacienda Pública Estatal que se designe, facultada para intervenir en los juicios, en que exista o se presuma la existencia de actos que generen créditos fiscales comprendidos en este Capítulo.
 
-### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
-
 #### SECCION CUARTA. EXENCIONES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
@@ -1838,6 +1916,8 @@ IX.- Los intereses, el sobreprecio, o cualquier otra prestación que aumente los
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 X.- Los intereses que perciba el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, con motivo de los financiamientos que otorgue a sus derechohabientes para construir, mejorar o ampliar sus viviendas, así como para pagar el pasivo de las mismas.
+
+### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
 
 #### SECCION PRIMERA. OBJETO
 
@@ -2004,8 +2084,6 @@ II.- Si los ingresos no son gravables, por razón de su diversa índole, de acue
 3.- Aplicarán el remanente de cada grupo las tasas del artículo 212 según proceda.
 
 215.- En caso de que el contribuyente no lleve la separación de ingresos, se causará íntegramente el impuesto sobre el total de los mismos, sin la deducción de los exentos, aplicando una sola tasa, que en el caso será la mayor de las aplicables.
-
-### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
 
 #### SECCION CUARTA. INGRESOS EXENTOS
 
@@ -2303,6 +2381,8 @@ e).- Recibirán las visitas de inspección que ordena la Secretaría de Hacienda
 
 f).- La determinación estimativa practicada, tiene la vigencia señalada en este artículo, pero se entenderá prorrogada mientras la Secretaría de Hacienda no la modifique.
 
+### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
+
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1971)</small>
@@ -2357,8 +2437,6 @@ III.- En las Recaudaciones de Rentas de Ciudad Juárez, Ciudad Ojinaga, Ascensi�
 
 El impuesto se pagará antes de realizar cualquiera de los actos a que se refiere el artículo 241.
 
-### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
-
 #### SECCION CUARTA. OBLIGACIONES DE LOS CAUSANTES
 
 246.- Al enterarse el impuesto, el causante deberá cumplir los siguientes requisitos:
@@ -2390,6 +2468,8 @@ II.- Los introductores o intermediarios.
 III.- Los representantes legales, mandatarios y comisionistas.
 
 IV.- Las personas que adquieran empresas ganaderas respecto de las prestaciones fiscales que hayan quedado insolutas.
+
+### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
 
 #### SECCION PRIMERA. OBJETO, SUJETO Y BASE
 
@@ -2444,6 +2524,26 @@ VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva,
 259.- Es solidariamente responsable del pago del impuesto el adquirente.
 
 260.- Los causantes y los terceros que intervengan en toda clase de operaciones gravadas por este Capítulo, que infrinjan las disposiciones contenidas en el mismo, se harán acreedores a las sanciones previstas en el capítulo VII del Título Segundo de este libro.
+
+### CAPITULO XI. IMPUESTO SOBRE LA ENAJENACION DE AVENA
+
+261.- Es objeto de este impuesto la enajenación de primera mano que se realice con la avena ya sea en grano o achicalada. Para los efectos de esta disposición se consideran enajenaciones de primera mano las que realicen los productores. Toda enajenación se presume verificada dentro del Estado, sin que se admita prueba en contrario.
+
+262.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones de enajenación con el citado producto.
+
+263.- La base de este impuesto será el valor del producto de acuerdo con las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+264.- El impuesto se causará a razón del 3% sobre el valor que tenga en el mercado o en su caso, sobre el valor oficial que al respecto se le fije.
+
+265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
+
+### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
 
 #### SECCION PRIMERA. IMPUESTO SOBRE PRODUCCION DE BEBIDAS ALCOHOLICAS
 
@@ -2516,8 +2616,6 @@ VII.- A registrar en la Recaudación de Rentas respectiva, los vehículos que se
 VIII.- A recabar en cada caso un permiso de la Secretaría de Hacienda, a través de la Recaudación de Rentas correspondiente, para remitir o transportar bebidas alcohólicas en recipientes con capacidad mayor de cinco litros. Dicho transporte sólo podrá ser realizado por personas y vehículos registrados como porteadores ante las autoridades fiscales estatales;
 
 IX.- A declarar en la Recaudación de Rentas de su jurisdicción dentro de los días 1o. al 20 de cada mes, las ventas en litros que de sus bebidas alcohólicas hayan llevado a cabo dentro de la Entidad, indicando el nombre y domicilio de los compradores y la graduación alcohólica del producto.
-
-### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
 
 #### SECCION SEGUNDA. IMPUESTO SOBRE VENTA DE BEBIDAS ALCOHOLICAS
 
@@ -2743,26 +2841,6 @@ V.- No permitir, bajo su responsabilidad, que se altere la graduación del conte
 
 VI.- Las demás que establezcan las leyes.
 
-### CAPITULO XI. IMPUESTO SOBRE LA ENAJENACION DE AVENA
-
-261.- Es objeto de este impuesto la enajenación de primera mano que se realice con la avena ya sea en grano o achicalada. Para los efectos de esta disposición se consideran enajenaciones de primera mano las que realicen los productores. Toda enajenación se presume verificada dentro del Estado, sin que se admita prueba en contrario.
-
-262.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones de enajenación con el citado producto.
-
-263.- La base de este impuesto será el valor del producto de acuerdo con las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-264.- El impuesto se causará a razón del 3% sobre el valor que tenga en el mercado o en su caso, sobre el valor oficial que al respecto se le fije.
-
-265.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
-
-### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
-
 #### SECCION CUARTA. DISPOSICIONES COMUNES A LA PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
 
 298.- Se considera como producción y venta clandestina de bebidas alcohólicas y alcohol:
@@ -2800,6 +2878,290 @@ c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir am
 302.- Cualquiera infracción a lo dispuesto por este capítulo se regulará y sancionará en los términos del capítulo VII, Título Segundo de este libro.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+### CAPITULO XIII. IMPUESTO SOBRE ACTOS JURIDICOS
+
+303.- Son objeto de este impuesto todos los actos jurídicos, de cualquier naturaleza, que se otorguen en escritura pública o privada.
+
+304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1976)</small>
+
+305.- El impuesto se causará de acuerdo con la siguiente tarifa:
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+I.- Por la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos, sobre el capital de las mismas se pagará $0.75 por cada un mil pesos o fracción.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+II.- Por el aumento, por cualquier causa, del capital social de sociedades civiles o mercantiles o cualquier agrupación con fines preponderantemente económicos, sobre el importe del capital aumentado se pagará $0.75% por cada un mil pesos o fracción.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+III.- Por los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.375 por cada cien pesos o fracción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+
+IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante Notario o ante autoridad judicial, pagará el equivalente al 85% sobre la Unidad de Medida y Actualización diaria.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+En el caso de escritura pública, el entero del impuesto se comprobará con el original del certificado de pago que se agregará al apéndice del protocolo correspondiente.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+Tratándose de escritos privados ratificados, el certificado de pago se anexará a la copia auténtica que se agregue al apéndice del libro de registro de actos fuera de protocolo, y en el documento que se entregue al interesado se hará constar el número del certificado.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+En ambos casos, si el pago se realizó por conducto del Notario a través de la red electrónica mundial, bastará que el fedatario público asiente el número de operación que le correspondió.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+Si el mandato fuese judicial, deberá agregarse el certificado de ingresos a las actuaciones conducentes.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+V.- En los contratos de aparcería, el propietario pagará el 1% del precio de los frutos percibidos, según declaración que deberá formular dentro de los primeros 20 días del mes siguiente a aquél en que los obtenga.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
+
+VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $0.75 por cada un mil pesos o fracción sobre el valor de la operación.
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
+
+VII.- Cuando por la naturaleza del acto Jurídico no pueda determinarse el valor de la operación, se pagará el equivalente al 125% sobre la Unidad de Medida y Actualización diaria. En este caso para el pago del impuesto la autoridad fiscal podría expedir certificados preimpresos, que se agregarán al apéndice del protocolo correspondiente, o a la copia auténtica que se agregue al apéndice del Libro de Registro de Actos Fuera de Protocolo, si el acto se otorgó ante fedatario público. En el documento que se entregue al interesado se pondrá razón del pago en la que conste el número del certificado.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+VIII.- Cuando en un mismo instrumento se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+IX.- Los actos jurídicos celebrados fuera del Estado y que surtan sus efectos dentro del territorio del mismo así como los que se registren o deban registrarse en las oficinas del registro Público de la Propiedad estatales, causarán el impuesto sobre actos Jurídicos conforme a las disposiciones de este Capítulo.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+306.- No causan el impuesto:
+
+I.- Los actos del estado civil.
+
+II.- Los actos cuyo valor no exceda de $500.00 (QUINIENTOS PESOS).
+
+III.- Los actos que consignen finanzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos.
+
+IV.- Los actos que contengan operaciones cuyo gravamen corresponda exclusivamente a la Federación.
+
+V.- Los actos relativos a la asistencia pública y de la beneficencia privada.
+
+VI.- Los actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas.
+
+VIII.- Los que consignen la resolución de actos jurídicos.
+
+IX.- Los actos en cuya virtud se cancele otro, salvo lo previsto en la fracción III del Artículo 133.
+
+X.- Los actos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XI.- Los actos en que se consignen disposiciones testamentarias así como en los que se tramiten testamentarías o intestamentarías, se constituya o se cancele el régimen de patrimonio familiar.
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
+
+XII.- Los actos que contengan operaciones gravadas por algún otro impuesto establecido por esta (sic) Código o por el Impuesto Municipal sobre Traslación de Dominio de Bienes Inmuebles, siempre y cuando el importe a pagar por éstos sea mayor al que resultaría de aplicar las tasas del artículo 305.
+
+307.- Los causantes, tratándose de escrituras privadas están obligados:
+
+I.- A presentar ante la Recaudación de Rentas respectiva, los documentos originales en que consten actos, contratos u obligaciones, para los efectos del registro y control del impuesto.
+
+II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la operación.
+
+### CAPITULO XIV. DERECHOS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+308.- Los derechos por la prestación de los servicios públicos que realizan las dependencias de Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento que provoquen por parte del Estado el gasto que deba ser remunerado por aquél.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+308-A.- Los derechos que señale la Ley de Ingresos del Estado, deberán ser cubiertos en la recaudación de rentas de la jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Hacienda.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+308-B.- El funcionario o empleado que preste el servicio, procederá a su realización al presentarle el particular el recibo que acredite su pago.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-C.- El funcionario o empleado público que preste algún servicio por el cual se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable en su pago, sin perjuicio de las demás sanciones que procedan.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+
+308-D.- En caso de existir discrepancia en cuanto a la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio.
+
+308-E.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-F.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-G.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-H.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-I.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-J.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-K.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-L.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-M.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-N.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-Ñ.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-O.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-P.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+308-Q.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+309.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+310.- No causan los derechos a que se refiere este capítulo:
+
+I.- La legalización de firmas y la expedición de certificados o certificaciones en los procesos civiles, penales y laborales, que lleven a cabo los tribunales judiciales o del trabajo;
+
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1975)
+
+III.- La legalización de firmas y la expedición de certificados y certificaciones solicitadas por las Dependencias de la Federación, Estado o Municipios, para asuntos oficiales de su competencia, siempre que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo;
+
+IV.- El registro de actas de nacimiento en las oficinas públicas;
+
+V.- La expedición de actas de nacimiento, defunción y matrimonio a los miembros del ejército Nacional;
+
+VI.- Las certificaciones o copias certificadas que expida el Registro Público de la Propiedad o el de Comercio, a solicitud de las autoridades judiciales para que obren en causa criminal o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados; pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos;
+
+VII.- La expedición de certificados o copias certificadas del Registro Público de la Propiedad, sobre bienes o derechos de la Federación, de los Estados y los Municipios, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas Entidades, siempre que ellas sean las directamente interesadas en asegurar para sí esos mismos bienes o derechos. Cuando tal servicio derive de la aplicación de la facultad económico-coactiva en el cobro de adeudos fiscales, los gastos serán a cargo de los causantes remisos si no ocurriere la adjudicación al Fisco de los bienes embargados;
+
+VIII.- Los certificados o copias certificadas del Registro Público de la Propiedad, que se expidan con relación a la dotación o restitución de Ejidos, siempre que los peticionarios sean autoridades o los comisariados ejidales;
+
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2002)</small>
+
+IX.- La inscripción en el Registro Público de la Propiedad de las resoluciones Presidenciales sobre dotación o restitución de ejidos, así como las inscripciones que se realicen respecto de títulos de propiedad de solares expedidos por el Registro Agrario Nacional;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+X.- Las inscripciones preventivas a que se refiere el artículo 309 del Código Administrativo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+### CAPITULO XV. PRODUCTOS Y CONTRIBUCIONES ESPECIALES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+311.- Los ingresos que el Estado obtenga por la explotación de sus bienes patrimoniales o por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, se fijarán y recaudarán de acuerdo con las reglas que establezcan las leyes o reglamentos respectivos o, en su defecto, conforme a las bases generales establecidas por el Ejecutivo del Estado en las licencias, concesiones o contratos respectivos.
+
+Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y liquidarán de acuerdo con las reglas que establezcan las leyes o Reglamentos respectivos, y se destinarán a cubrir las erogaciones de las obras públicas que las motive. Se harán efectivas por medio del procedimiento de ejecución.
+
+### CAPITULO XVI. APROVECHAMIENTOS
+
+312.- Son aprovechamientos los ingresos a que se refiere el Cuarto Párrafo del artículo 31 de este Código y en ellos quedan comprendidos: Los recargos; las multas, herencias, legados y donaciones a favor de la Hacienda Pública y en general cualquier otro ingreso no clasificable como impuesto, derecho o producto.
+
+313.- Los aprovechamientos se harán efectivos, según proceda en cada caso, atendiendo a la naturaleza y origen del crédito, por medio del procedimiento de ejecución o por la vía judicial.
+
+### CAPITULO XVII. PARTICIPACIONES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
+
+314.- Quedan comprendidas en este Capítulo, las participaciones a Municipios derivadas de los ingresos provenientes de la Participación Federal al Estado, correspondientes al Fondo General de Participaciones y al Impuesto sobre Tenencia o Uso de Vehículos, así como las derivadas de los Impuestos Estatales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
+
+315.- Las participaciones a los Municipios del Estado se integrarán de la siguiente forma:
+
+I.- 20% (veinte por ciento) sobre la participación Federal al Estado, por concepto de Fondo General de Participaciones, así como las que se deriven del Impuesto sobre Tenencia o Uso de Vehículos.
+
+La participación total a que se refiere esta fracción, así como la referente al fondo de Fomento Municipal se distribuirá entre los Municipios, de conformidad con los estudios económicos que al efecto se elaboren, pudiendo atenderse, entre otros, a los siguientes elementos; número de habitantes, importe de su Presupuestos de Egresos, gasto público Municipal por habitante y número de localidades en su jurisdicción.
+
+II.- 20% (veinte por ciento) sobre el ingreso del Estado, por concepto de Impuestos Estatales no destinados a un fin específico.
+
+La participación total a que se refiere esta fracción, se distribuirá entre los Municipios de la siguiente manera:
+
+A).- El 50% (cincuenta por ciento) de dicho fondo, en proporción directa a la población de cada Municipio.
+
+B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de incremento en la Recaudación del Impuesto Predial, que se determine anualmente.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
+
+316.- Como resultado de los procedimientos de distribución de participaciones, a que se refiere el Artículo anterior, anualmente fijará el Congreso del Estado, en la Ley de Ingresos para los Municipios, los porcentajes de participación sobre el producto total que les corresponda.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+
+317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Secretaría de Hacienda, podrá destinarse a otros fines.
+
+# LIBRO SEGUNDO. PROCEDIMIENTOS FISCALES
+
+## TITULO PRIMERO. PROCEDIMIENTO ADMINISTRATIVO
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
+
+318.- La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos que establezcan el Código Civil o el Código de Procedimientos Civiles del Estado, con las facultades que este último confiere en materia de personalidad y representación.
+
+En ningún procedimiento fiscal se admitirá la gestión de negocios.
+
+319.- (DEROGADO, P.O. 15 DE FEBRERO DE 2006)
+
+320.- Las notificaciones de los citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdos administrativos, destinados a los particulares, se harán:
+
+I.- Personalmente los requerimientos de pago y la notificación del crédito determinado por la autoridad fiscal.
+
+II.- Mediante oficio entregado por mensajero o por correo certificado con acuse de recibo los restantes actos.
+
+III.- Por edictos que se publiquen por dos veces consecutivas en el Periódico Oficial del Estado, únicamente en los casos en que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del Estado sin haber dejado representante legal acreditado ante las autoridades fiscales o hubiere fallecido y no se conozca el albacea de la sucesión. En estos casos los edictos contendrán un resumen de las resoluciones por notificar.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+
+IV.- Por estrados, cuando la persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación, se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al registro estatal de contribuyentes, después de la notificación de la orden de visita y antes de un año contado a partir de dicha notificación o bien, después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos; o tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de presentar dicho aviso y en los demás casos que señale este Código.
+
+Las notificaciones por estrado se harán fijando durante quince días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad fiscal que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo quinto día siguiente al primer día en que se hubiera fijado el documento.
+
+321.- Los acuerdos distintos a los señalados en el artículo anterior, se notificarán por medio de oficio o telegrama.
+
+322.- Las notificaciones a las autoridades se harán por medio de oficio; excepcionalmente por la vía telegráfica cuando se trate de resoluciones o acuerdos que exijan cumplimiento inmediato.
+
+323.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate; a falta de señalamiento, se estará a las reglas del artículo 72 de este Código.
+
+Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de policía.
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
+
+En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
+
+De las diligencias en que conste la notificación o cita, el notificador tomará razón por escrito.
+
+324.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta de domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
+
+325.- Todas las notificaciones surtirán sus efectos el mismo día en que se practiquen con el interesado, representante o la persona con quien se entendió la diligencia, se fije el instructivo, se reciba el telegrama u oficio, o se haya hecho la última publicación de los edictos, en su caso.
+
+Finalmente, desde la fecha en que el interesado o su representante manifiesten que conocen la resolución o acuerdo respectivo si lo hacen con anterioridad a la fecha en que la notificación deba surtir sus efectos.
+
+326.- Cuando una notificación se haga en forma distinta a la señalada en los artículos anteriores será nula y así deberá declararse de oficio o a petición de parte; la nulidad deberá reclamarse en la actuación o promoción subsecuente en que intervenga el interesado; si así no lo hiciere la notificación quedará convalidada.
+
+327.- La declaratoria de nulidad de notificaciones, traerá como consecuencia la nulidad de las actuaciones posteriores a la notificación anulada y que tengan relación con ella.
+
+328.- Al trámite de la solicitud de nulidad se aplicarán, en lo conducente, las disposiciones del artículo 397. Mientras se resuelve quedará en suspenso el término legal para impugnar la resolución de fondo.
+
+Cuando se haya iniciado el juicio de oposición o interpuesto los recursos que prevee (sic) este Código, será improcedente la solicitud de nulidad de actuaciones ante la autoridad administrativa y se hará valer mediante ampliación de la demanda respectiva.
+
+### CAPITULO II. PROCEDIMIENTO DE EJECUCION
 
 #### SECCION PRIMERA. REQUERIMIENTO DE PAGO Y EMBARGO
 
@@ -3267,290 +3629,6 @@ Cuando la autoridad ejecutora encuentre que los documentos presentados por el te
 
 392.- Si la resolución del Secretario de Hacienda es contraria al tercerista podrá éste ocurrir ante el Supremo Tribunal de Justicia a promover el juicio de oposición a que se refiere este Código o interponer el recurso de reconsideración.
 
-### CAPITULO XIII. IMPUESTO SOBRE ACTOS JURIDICOS
-
-303.- Son objeto de este impuesto todos los actos jurídicos, de cualquier naturaleza, que se otorguen en escritura pública o privada.
-
-304.- Son sujetos de este impuesto las personas que celebren los actos jurídicos que se otorguen en la forma prevista en el artículo anterior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-305.- El impuesto se causará de acuerdo con la siguiente tarifa:
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-I.- Por la constitución de sociedades civiles o mercantiles, y en general cualquier agrupación con fines lucrativos, sobre el capital de las mismas se pagará $0.75 por cada un mil pesos o fracción.
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-II.- Por el aumento, por cualquier causa, del capital social de sociedades civiles o mercantiles o cualquier agrupación con fines preponderantemente económicos, sobre el importe del capital aumentado se pagará $0.75% por cada un mil pesos o fracción.
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-III.- Por los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.375 por cada cien pesos o fracción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
-
-IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante Notario o ante autoridad judicial, pagará el equivalente al 85% sobre la Unidad de Medida y Actualización diaria.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-En el caso de escritura pública, el entero del impuesto se comprobará con el original del certificado de pago que se agregará al apéndice del protocolo correspondiente.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-Tratándose de escritos privados ratificados, el certificado de pago se anexará a la copia auténtica que se agregue al apéndice del libro de registro de actos fuera de protocolo, y en el documento que se entregue al interesado se hará constar el número del certificado.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-En ambos casos, si el pago se realizó por conducto del Notario a través de la red electrónica mundial, bastará que el fedatario público asiente el número de operación que le correspondió.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
-
-Si el mandato fuese judicial, deberá agregarse el certificado de ingresos a las actuaciones conducentes.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-V.- En los contratos de aparcería, el propietario pagará el 1% del precio de los frutos percibidos, según declaración que deberá formular dentro de los primeros 20 días del mes siguiente a aquél en que los obtenga.
-
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 1995)</small>
-
-VI.- Por los actos jurídicos no previstos en las fracciones anteriores, se pagará $0.75 por cada un mil pesos o fracción sobre el valor de la operación.
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
-
-VII.- Cuando por la naturaleza del acto Jurídico no pueda determinarse el valor de la operación, se pagará el equivalente al 125% sobre la Unidad de Medida y Actualización diaria. En este caso para el pago del impuesto la autoridad fiscal podría expedir certificados preimpresos, que se agregarán al apéndice del protocolo correspondiente, o a la copia auténtica que se agregue al apéndice del Libro de Registro de Actos Fuera de Protocolo, si el acto se otorgó ante fedatario público. En el documento que se entregue al interesado se pondrá razón del pago en la que conste el número del certificado.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-VIII.- Cuando en un mismo instrumento se consignen diversos actos, a cada uno de éstos se aplicará la tarifa que le corresponda.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-IX.- Los actos jurídicos celebrados fuera del Estado y que surtan sus efectos dentro del territorio del mismo así como los que se registren o deban registrarse en las oficinas del registro Público de la Propiedad estatales, causarán el impuesto sobre actos Jurídicos conforme a las disposiciones de este Capítulo.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-306.- No causan el impuesto:
-
-I.- Los actos del estado civil.
-
-II.- Los actos cuyo valor no exceda de $500.00 (QUINIENTOS PESOS).
-
-III.- Los actos que consignen finanzas que se extiendan para excarcelación de presos insolventes y para caucionar el manejo de fondos de empleados públicos.
-
-IV.- Los actos que contengan operaciones cuyo gravamen corresponda exclusivamente a la Federación.
-
-V.- Los actos relativos a la asistencia pública y de la beneficencia privada.
-
-VI.- Los actos relativos a la adquisición de muebles destinados a escuelas, colegios o bibliotecas públicas.
-
-VIII.- Los que consignen la resolución de actos jurídicos.
-
-IX.- Los actos en cuya virtud se cancele otro, salvo lo previsto en la fracción III del Artículo 133.
-
-X.- Los actos mediante los cuales se reduzca el capital social o se disuelvan personas jurídicas colectivas o sociedades conyugales.
-
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-XI.- Los actos en que se consignen disposiciones testamentarias así como en los que se tramiten testamentarías o intestamentarías, se constituya o se cancele el régimen de patrimonio familiar.
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2000)</small>
-
-XII.- Los actos que contengan operaciones gravadas por algún otro impuesto establecido por esta (sic) Código o por el Impuesto Municipal sobre Traslación de Dominio de Bienes Inmuebles, siempre y cuando el importe a pagar por éstos sea mayor al que resultaría de aplicar las tasas del artículo 305.
-
-307.- Los causantes, tratándose de escrituras privadas están obligados:
-
-I.- A presentar ante la Recaudación de Rentas respectiva, los documentos originales en que consten actos, contratos u obligaciones, para los efectos del registro y control del impuesto.
-
-II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la operación.
-
-### CAPITULO XIV. DERECHOS
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-308.- Los derechos por la prestación de los servicios públicos que realizan las dependencias de Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento que provoquen por parte del Estado el gasto que deba ser remunerado por aquél.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-308-A.- Los derechos que señale la Ley de Ingresos del Estado, deberán ser cubiertos en la recaudación de rentas de la jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Hacienda.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
-
-308-B.- El funcionario o empleado que preste el servicio, procederá a su realización al presentarle el particular el recibo que acredite su pago.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-C.- El funcionario o empleado público que preste algún servicio por el cual se cause un derecho, en contravención a lo dispuesto en los artículos anteriores, será solidariamente responsable en su pago, sin perjuicio de las demás sanciones que procedan.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
-
-308-D.- En caso de existir discrepancia en cuanto a la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio, la consignación del importe fijado por el órgano recaudador en los términos establecidos por las leyes fiscales, dará lugar a la prestación de dicho servicio.
-
-308-E.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-F.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-G.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-H.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-I.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-J.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-K.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-L.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-M.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-N.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-Ñ.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-O.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-P.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-308-Q.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-309.- (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-310.- No causan los derechos a que se refiere este capítulo:
-
-I.- La legalización de firmas y la expedición de certificados o certificaciones en los procesos civiles, penales y laborales, que lleven a cabo los tribunales judiciales o del trabajo;
-
-II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1975)
-
-III.- La legalización de firmas y la expedición de certificados y certificaciones solicitadas por las Dependencias de la Federación, Estado o Municipios, para asuntos oficiales de su competencia, siempre que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo;
-
-IV.- El registro de actas de nacimiento en las oficinas públicas;
-
-V.- La expedición de actas de nacimiento, defunción y matrimonio a los miembros del ejército Nacional;
-
-VI.- Las certificaciones o copias certificadas que expida el Registro Público de la Propiedad o el de Comercio, a solicitud de las autoridades judiciales para que obren en causa criminal o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados; pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos;
-
-VII.- La expedición de certificados o copias certificadas del Registro Público de la Propiedad, sobre bienes o derechos de la Federación, de los Estados y los Municipios, así como la inscripción o anotación de documentos relativos a bienes o derechos de las mismas Entidades, siempre que ellas sean las directamente interesadas en asegurar para sí esos mismos bienes o derechos. Cuando tal servicio derive de la aplicación de la facultad económico-coactiva en el cobro de adeudos fiscales, los gastos serán a cargo de los causantes remisos si no ocurriere la adjudicación al Fisco de los bienes embargados;
-
-VIII.- Los certificados o copias certificadas del Registro Público de la Propiedad, que se expidan con relación a la dotación o restitución de Ejidos, siempre que los peticionarios sean autoridades o los comisariados ejidales;
-
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2002)</small>
-
-IX.- La inscripción en el Registro Público de la Propiedad de las resoluciones Presidenciales sobre dotación o restitución de ejidos, así como las inscripciones que se realicen respecto de títulos de propiedad de solares expedidos por el Registro Agrario Nacional;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-X.- Las inscripciones preventivas a que se refiere el artículo 309 del Código Administrativo.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-### CAPITULO XV. PRODUCTOS Y CONTRIBUCIONES ESPECIALES
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-311.- Los ingresos que el Estado obtenga por la explotación de sus bienes patrimoniales o por actividades que no correspondan al desarrollo de sus funciones propias de derecho público, se fijarán y recaudarán de acuerdo con las reglas que establezcan las leyes o reglamentos respectivos o, en su defecto, conforme a las bases generales establecidas por el Ejecutivo del Estado en las licencias, concesiones o contratos respectivos.
-
-Los ingresos que el Estado obtenga por contribuciones especiales, se fijarán y liquidarán de acuerdo con las reglas que establezcan las leyes o Reglamentos respectivos, y se destinarán a cubrir las erogaciones de las obras públicas que las motive. Se harán efectivas por medio del procedimiento de ejecución.
-
-### CAPITULO XVI. APROVECHAMIENTOS
-
-312.- Son aprovechamientos los ingresos a que se refiere el Cuarto Párrafo del artículo 31 de este Código y en ellos quedan comprendidos: Los recargos; las multas, herencias, legados y donaciones a favor de la Hacienda Pública y en general cualquier otro ingreso no clasificable como impuesto, derecho o producto.
-
-313.- Los aprovechamientos se harán efectivos, según proceda en cada caso, atendiendo a la naturaleza y origen del crédito, por medio del procedimiento de ejecución o por la vía judicial.
-
-### CAPITULO XVII. PARTICIPACIONES
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
-
-314.- Quedan comprendidas en este Capítulo, las participaciones a Municipios derivadas de los ingresos provenientes de la Participación Federal al Estado, correspondientes al Fondo General de Participaciones y al Impuesto sobre Tenencia o Uso de Vehículos, así como las derivadas de los Impuestos Estatales.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 1990)</small>
-
-315.- Las participaciones a los Municipios del Estado se integrarán de la siguiente forma:
-
-I.- 20% (veinte por ciento) sobre la participación Federal al Estado, por concepto de Fondo General de Participaciones, así como las que se deriven del Impuesto sobre Tenencia o Uso de Vehículos.
-
-La participación total a que se refiere esta fracción, así como la referente al fondo de Fomento Municipal se distribuirá entre los Municipios, de conformidad con los estudios económicos que al efecto se elaboren, pudiendo atenderse, entre otros, a los siguientes elementos; número de habitantes, importe de su Presupuestos de Egresos, gasto público Municipal por habitante y número de localidades en su jurisdicción.
-
-II.- 20% (veinte por ciento) sobre el ingreso del Estado, por concepto de Impuestos Estatales no destinados a un fin específico.
-
-La participación total a que se refiere esta fracción, se distribuirá entre los Municipios de la siguiente manera:
-
-A).- El 50% (cincuenta por ciento) de dicho fondo, en proporción directa a la población de cada Municipio.
-
-B).- El 50% (cincuenta por ciento) restante, de acuerdo a los factores de incremento en la Recaudación del Impuesto Predial, que se determine anualmente.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1990)</small>
-
-316.- Como resultado de los procedimientos de distribución de participaciones, a que se refiere el Artículo anterior, anualmente fijará el Congreso del Estado, en la Ley de Ingresos para los Municipios, los porcentajes de participación sobre el producto total que les corresponda.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
-
-317.- El importe de las participaciones a que se contrae la fracción II del artículo 315, se destinará en un ciento por ciento a programas de obra pública. En condiciones excepcionales plenamente justificadas ante la Secretaría de Hacienda, podrá destinarse a otros fines.
-
-# LIBRO SEGUNDO. PROCEDIMIENTOS FISCALES
-
-## TITULO PRIMERO. PROCEDIMIENTO ADMINISTRATIVO
-
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2006)</small>
-
-318.- La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos que establezcan el Código Civil o el Código de Procedimientos Civiles del Estado, con las facultades que este último confiere en materia de personalidad y representación.
-
-En ningún procedimiento fiscal se admitirá la gestión de negocios.
-
-319.- (DEROGADO, P.O. 15 DE FEBRERO DE 2006)
-
-320.- Las notificaciones de los citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdos administrativos, destinados a los particulares, se harán:
-
-I.- Personalmente los requerimientos de pago y la notificación del crédito determinado por la autoridad fiscal.
-
-II.- Mediante oficio entregado por mensajero o por correo certificado con acuse de recibo los restantes actos.
-
-III.- Por edictos que se publiquen por dos veces consecutivas en el Periódico Oficial del Estado, únicamente en los casos en que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del Estado sin haber dejado representante legal acreditado ante las autoridades fiscales o hubiere fallecido y no se conozca el albacea de la sucesión. En estos casos los edictos contendrán un resumen de las resoluciones por notificar.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-IV.- Por estrados, cuando la persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación, se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al registro estatal de contribuyentes, después de la notificación de la orden de visita y antes de un año contado a partir de dicha notificación o bien, después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos; o tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de presentar dicho aviso y en los demás casos que señale este Código.
-
-Las notificaciones por estrado se harán fijando durante quince días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad fiscal que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo quinto día siguiente al primer día en que se hubiera fijado el documento.
-
-321.- Los acuerdos distintos a los señalados en el artículo anterior, se notificarán por medio de oficio o telegrama.
-
-322.- Las notificaciones a las autoridades se harán por medio de oficio; excepcionalmente por la vía telegráfica cuando se trate de resoluciones o acuerdos que exijan cumplimiento inmediato.
-
-323.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate; a falta de señalamiento, se estará a las reglas del artículo 72 de este Código.
-
-Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de policía.
-
-Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
-
-En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
-
-De las diligencias en que conste la notificación o cita, el notificador tomará razón por escrito.
-
-324.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta de domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
-
-325.- Todas las notificaciones surtirán sus efectos el mismo día en que se practiquen con el interesado, representante o la persona con quien se entendió la diligencia, se fije el instructivo, se reciba el telegrama u oficio, o se haya hecho la última publicación de los edictos, en su caso.
-
-Finalmente, desde la fecha en que el interesado o su representante manifiesten que conocen la resolución o acuerdo respectivo si lo hacen con anterioridad a la fecha en que la notificación deba surtir sus efectos.
-
-326.- Cuando una notificación se haga en forma distinta a la señalada en los artículos anteriores será nula y así deberá declararse de oficio o a petición de parte; la nulidad deberá reclamarse en la actuación o promoción subsecuente en que intervenga el interesado; si así no lo hiciere la notificación quedará convalidada.
-
-327.- La declaratoria de nulidad de notificaciones, traerá como consecuencia la nulidad de las actuaciones posteriores a la notificación anulada y que tengan relación con ella.
-
-328.- Al trámite de la solicitud de nulidad se aplicarán, en lo conducente, las disposiciones del artículo 397. Mientras se resuelve quedará en suspenso el término legal para impugnar la resolución de fondo.
-
-Cuando se haya iniciado el juicio de oposición o interpuesto los recursos que prevee (sic) este Código, será improcedente la solicitud de nulidad de actuaciones ante la autoridad administrativa y se hará valer mediante ampliación de la demanda respectiva.
-
-### CAPITULO II. PROCEDIMIENTO DE EJECUCION
-
 #### SECCION CUARTA. SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2011)</small>
@@ -3560,6 +3638,88 @@ Cuando se haya iniciado el juicio de oposición o interpuesto los recursos que p
 La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo o el juicio de que se trate. La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de 15 días para el otorgamiento de la garantía. Constituída ésta la ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso o juicio respectivos.
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar los intereses fiscales.
+
+## TITULO SEGUNDO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL Y PROCESO DE LESIVIDAD
+
+### CAPITULO I. MEDIOS DE IMPUGNACION
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+
+394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio del juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+Tratándose de nulidad de notificaciones, tercerías, prescripción, caducidad e inconformidades contra las actas de visita, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+El Secretario de Hacienda igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
+
+395.- El particular afectado podrá emplear cualesquiera de los medios de impugnación que establece el artículo anterior:
+
+I.- Contra las resoluciones y liquidaciones de las autoridades fiscales que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación.
+
+II.- Contra el procedimiento administrativo de ejecución siempre que afirme:
+
+1o.- Que el crédito que se le exige se ha extinguido legalmente;
+
+2o.- Que el monto del crédito es inferior al exigido;
+
+3o.- Que no es deudor del crédito que se le exige o no es responsable de su pago;
+
+4o.- Que es propietario de los bienes embargados o acreedor preferente al Fisco, para ser pagado con el producto de los mismos;
+
+5o.- Que el procedimiento coactivo no se ha ajustado a la Ley. En este caso la oposición sólo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
+
+III.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento ilegalmente percibido.
+
+IV.- Contra los acuerdos que impongan sanciones por infracción a las leyes fiscales.
+
+### CAPITULO II. RECURSOS DE REVISION Y RECONSIDERACION
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+396.- El recurso será de revisión cuando el Secretario de Hacienda resuelva inconformidades de los particulares respecto a actos dictados por otras autoridades fiscales. Será de reconsideración cuando el Secretario de Hacienda resuelva inconformidades de particulares respecto de actos dictado por el mismo.
+
+397.- La tramitación de los recursos administrativos en materia fiscal se sujetará a las normas siguientes:
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+I.- Se interpondrán ante el Secretario de Hacienda precisamente por escrito, en el que se expresará: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Secretaría de Hacienda, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+III.- Recibida la instancia, el Secretario de Hacienda recabará de oficio las constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación: en vista de lo anterior acordará si es de admitirse o desecharse el recurso, según que se haya interpuesto dentro o fuera del término legal.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+IV.- El Secretario de Hacienda, en su caso, proveerá desde luego a la recepción de las pruebas ofrecidas. Al efecto señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, presentar a sus testigos y peritos exhibiendo previamente los cuestionarios que estos últimos deban resolver.
+
+Para el examen de los testigos sólo será necesario acompañar por escrito los interrogatorios, cuando residan fuera de la ciudad de Chihuahua, caso en el cual el Secretario de Hacienda señalará la autoridad fiscal ante la que deba desahogarse la probanza.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa de terceros, el Secretario de Hacienda considera insuficiente el término de quince días, podrá ampliarlo hasta por quince días más.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
+
+VI.- Para la resolución del recurso, el Secretario de Hacienda pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+
+VII.- Recibidas las pruebas y los informes se abrirá un período de alegatos de 5 días, dictándose resolución dentro de un término que no excederá de 30 días.
+
+VIII.- Los acuerdos que se dicten se notificarán por correo certificado con acuse de recibo o personalmente en la Tesorería si los interesados se presentan. Si no se hubiere señalado domicilio se tendrá por practicada la notificación el día siguiente en que se hubiere dictado el acuerdo.
+
+IX.- Los casos de improcedencia y causas de sobreseimiento previstos para el juicio de oposición, se aplicarán a los recursos administrativos en cuanto no se opongan a su naturaleza.
+
+X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún recurso. La resolución que le ponga fin será impugnable en el juicio de oposición.
+
+### CAPITULO III. JUICIO DE OPOSICION
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -3696,88 +3856,6 @@ III.- Cuando, cualquiera que sea el estado del juicio, no se haya efectuado ning
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
 IV.- En los demás casos en que por disposición legal haya impedimento para emitir resolución en cuanto al fondo.
-
-## TITULO SEGUNDO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL Y PROCESO DE LESIVIDAD
-
-### CAPITULO I. MEDIOS DE IMPUGNACION
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
-
-394.- Los actos en materia fiscal pueden impugnarse mediante los recursos de revisión y reconsideración o por medio del juicio de oposición promovido ante la autoridad judicial, pudiendo elegirse cualquiera de esos medios. La resolución que se dicte en los recursos administrativos será también impugnable en el juicio de oposición.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
-
-Tratándose de nulidad de notificaciones, tercerías, prescripción, caducidad e inconformidades contra las actas de visita, es obligatorio para el particular agotar los procedimientos respectivos antes de iniciar el recurso o el juicio.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-El Secretario de Hacienda igualmente podrá impugnar mediante juicio de oposición, las resoluciones de las autoridades fiscales que hayan sido favorables a los particulares.
-
-395.- El particular afectado podrá emplear cualesquiera de los medios de impugnación que establece el artículo anterior:
-
-I.- Contra las resoluciones y liquidaciones de las autoridades fiscales que determinen la existencia de un crédito fiscal, lo fijen en cantidad líquida o den las bases para su liquidación.
-
-II.- Contra el procedimiento administrativo de ejecución siempre que afirme:
-
-1o.- Que el crédito que se le exige se ha extinguido legalmente;
-
-2o.- Que el monto del crédito es inferior al exigido;
-
-3o.- Que no es deudor del crédito que se le exige o no es responsable de su pago;
-
-4o.- Que es propietario de los bienes embargados o acreedor preferente al Fisco, para ser pagado con el producto de los mismos;
-
-5o.- Que el procedimiento coactivo no se ha ajustado a la Ley. En este caso la oposición sólo podrá hacerse valer en contra de la resolución que apruebe el remate, salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación o de actos de ejecución sobre bienes legalmente inembargables.
-
-III.- Contra la negativa de una autoridad competente para ordenar la devolución de un impuesto, derecho o aprovechamiento ilegalmente percibido.
-
-IV.- Contra los acuerdos que impongan sanciones por infracción a las leyes fiscales.
-
-### CAPITULO II. RECURSOS DE REVISION Y RECONSIDERACION
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-396.- El recurso será de revisión cuando el Secretario de Hacienda resuelva inconformidades de los particulares respecto a actos dictados por otras autoridades fiscales. Será de reconsideración cuando el Secretario de Hacienda resuelva inconformidades de particulares respecto de actos dictado por el mismo.
-
-397.- La tramitación de los recursos administrativos en materia fiscal se sujetará a las normas siguientes:
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-I.- Se interpondrán ante el Secretario de Hacienda precisamente por escrito, en el que se expresará: El nombre del recurrente; domicilio para ser notificado en el Estado; el acto impugnado; los agravios que éste le cause y el ofrecimiento de las pruebas que pretende rendir. Si dentro del trámite que haya dado origen a la resolución o acto recurrido, el interesado tuvo oportunidad razonable de rendir pruebas, sólo se considerarán en el recurso las que hubiere allegado en tal oportunidad y las supervenientes.
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-II.- El escrito será presentado dentro de los quince días siguientes al en que surta efectos la notificación del acto que se impugna. Si el recurrente tiene su domicilio en población distinta del lugar de residencia de la Secretaría de Hacienda, podrá enviar su escrito, dentro del mismo término, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que le haya notificado la resolución.
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-III.- Recibida la instancia, el Secretario de Hacienda recabará de oficio las constancias necesarias para determinar la existencia del acto impugnado y la fecha de su notificación: en vista de lo anterior acordará si es de admitirse o desecharse el recurso, según que se haya interpuesto dentro o fuera del término legal.
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-IV.- El Secretario de Hacienda, en su caso, proveerá desde luego a la recepción de las pruebas ofrecidas. Al efecto señalará un término de quince días dentro del cual los interesados deberán exhibir todos los documentos que hubieren ofrecido, presentar a sus testigos y peritos exhibiendo previamente los cuestionarios que estos últimos deban resolver.
-
-Para el examen de los testigos sólo será necesario acompañar por escrito los interrogatorios, cuando residan fuera de la ciudad de Chihuahua, caso en el cual el Secretario de Hacienda señalará la autoridad fiscal ante la que deba desahogarse la probanza.
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-V.- Si por la naturaleza de las pruebas ofrecidas o porque su recepción dependa de terceros, el Secretario de Hacienda considera insuficiente el término de quince días, podrá ampliarlo hasta por quince días más.
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
-
-VI.- Para la resolución del recurso, el Secretario de Hacienda pedirá, en su caso, a las autoridades fiscales que hayan intervenido en la formación del acto impugnado los informes que estime pertinentes y en general todos los elementos que sirvieron de base para dictarlo.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
-
-VII.- Recibidas las pruebas y los informes se abrirá un período de alegatos de 5 días, dictándose resolución dentro de un término que no excederá de 30 días.
-
-VIII.- Los acuerdos que se dicten se notificarán por correo certificado con acuse de recibo o personalmente en la Tesorería si los interesados se presentan. Si no se hubiere señalado domicilio se tendrá por practicada la notificación el día siguiente en que se hubiere dictado el acuerdo.
-
-IX.- Los casos de improcedencia y causas de sobreseimiento previstos para el juicio de oposición, se aplicarán a los recursos administrativos en cuanto no se opongan a su naturaleza.
-
-X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún recurso. La resolución que le ponga fin será impugnable en el juicio de oposición.
-
-### CAPITULO III. JUICIO DE OPOSICION
 
 #### SECCION CUARTA. DEMANDA
 
@@ -3945,6 +4023,16 @@ d).- Desvío de poder, tratándose de sanciones.
 
 Si la sentencia declara la nulidad del acto impugnado, indicará las bases conforme a las cuales deberá dictar nueva resolución la autoridad fiscal, la que se pronunciará en un término no mayor de quince días.
 
+# LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
+
+## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+### CAPITULO I. FOMENTO A LA INDUSTRIA
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 435.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
@@ -4025,16 +4113,6 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
 
-# LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
-
-## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
-
-> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-### CAPITULO I. FOMENTO A LA INDUSTRIA
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
 #### SECCION CUARTA. OBLIGACIONES DE LOS BENEFICIARIOS
 
 469.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1972)
@@ -4067,54 +4145,36 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
-
-481.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-482.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-483.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-484.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION SEGUNDA. EXENCIONES
-
-485.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-486.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-487.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-488.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-489.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION TERCERA. PROCEDIMIENTO
-
-490.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-491.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-492.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-493.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-494.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-495.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-496.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-497.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
 ### CAPITULO UNICO. FOMENTO A LA VIVIENDA
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
+
+481.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+482.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+483.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+484.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+#### SECCION SEGUNDA. EXENCIONES
+
+485.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+486.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+487.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+488.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+489.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 #### SECCION TERCERA. PROCEDIMIENTO
 
 490.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
@@ -4132,32 +4192,6 @@ Si la sentencia declara la nulidad del acto impugnado, indicará las bases confo
 496.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
 
 497.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
-
-481.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-482.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-483.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-484.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-#### SECCION SEGUNDA. EXENCIONES
-
-485.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-486.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-487.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-488.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-489.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1983)
-
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ## TRANSITORIOS.
 
@@ -4886,3 +4920,17 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFCOD/0665/2017 I P.O. MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciocho.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- La tasa a que se refiere el artículo 103 del presente Código, será del 4% durante el año dos mil dieciocho.
+
+Durante el año dos mil dieciocho, lo destinado a inversión pública será un punto porcentual.
+
+CUARTO.- El Ejecutivo del Estado deberá presentar iniciativa de reforma al Decreto No. 483/96 I P.O., a fin de armonizarlo con el presente Decreto, a más tardar 60 días hábiles siguientes a su entrada en vigor.
