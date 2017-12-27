@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-de-justicia-administrativa-del-122616
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-19"
-last_updated: "2017-11-15"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE NOVIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -875,21 +873,47 @@ El Boletín Electrónico se publicará diariamente en la página electrónica de
 
 ### Capítulo XII. Del Órgano Interno de Control
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 51.
 
-La persona titular del Órgano interno de control del Tribunal será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros de una terna propuesta y evaluada por la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado; tendrá el nivel de Secretario General de Acuerdos del Tribunal, durará tres años en el cargo y sólo podrá ser designado para un periodo más. Estará adscrito administrativamente al Pleno y mantendrá la coordinación técnica necesaria con la ESAF.
+El Órgano Interno de Control, es una unidad administrativa dotada de autonomía técnica, financiera y de gestión, en el desempeño de sus funciones. Estará adscrito administrativamente al Pleno y mantendrá una comunicación constante y coordinada con la ESAF. Se encargará de la fiscalización de todos los ingresos y egresos del Tribunal, lo anterior, sin relevar la función que en la materia ejerce la Entidad Superior de Auditoría y Fiscalización del Congreso del estado de Morelos. Habrá de prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas, por el manejo y ejecución de los recursos del Tribunal, además de sancionar aquellas conductas u omisiones de los servidores públicos y del personal del Tribunal, que no sean competencia del Pleno.
+
+Estará facultado para presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+
+El Órgano interno de control del Tribunal contará con un titular el cual será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros, de entre una terna propuesta y evaluada por la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado, previa convocatoria pública que emita; tendrá el nivel de Secretario General de Acuerdos del Tribunal, durará seis años en el cargo y sólo podrá ser designado para un periodo más. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 52.
 
-El titular del Órgano Interno de Control del Tribunal deberá cumplir los requisitos que se establecen para el Auditor General de la Entidad.
+Para ser el titular del Órgano Interno de Control del Tribunal, se deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Haber residido en el Estado durante los últimos 10 años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del servicio público;
+
+III. No tener más de sesenta y cinco años de edad, ni menos de treinta, el día de la designación;
+
+IV. Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena privativa de libertad mayor a un año;
+
+V. No haber ejercido algún cargo de elección popular, ni haber sido dirigente de algún partido político, postulado para cargo de elección popular, así como tampoco haber sido Magistrado o Secretario General de Acuerdos del Tribunal; en el año previo a su designación;
+
+VI. Contar, al momento de su nombramiento, con cédula profesional de licenciado en derecho, contaduría o administración, expedida por autoridad o institución legalmente facultada para ello con una antigüedad mínima de cinco años, y
+
+VII. No haber sido inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, ni removido por causa grave de algún cargo del sector público o privado.
+
+VIII. Tener conocimientos en materia de fiscalización, transparencia, rendición de cuentas, de procedimientos de responsabilidades administrativas o de procedimientos contenciosos administrativos.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 53.
 
-El Órgano Interno de Control del Tribunal tendrá las siguientes obligaciones:
+El Órgano Interno de Control del Tribunal tendrá las siguientes atribuciones que son enunciativas más no limitativas en el ejercicio de sus funciones:
 
 I. Planear, programar y efectuar auditorías, inspecciones o visitas a las diversas áreas administrativas que integran el Tribunal y coadyuvar con la Entidad en los casos que le indique respecto del Tribunal;
 
-II. Presentar denuncias o querellas ante la autoridad competente por la presunción de actos constitutivos de delito imputables a los servidores públicos (sic) Tribunal;
+II. Presentar, a través de su titular, las denuncias o querellas ante la autoridad competente por la presunción de actos constitutivos de delito imputables a los servidores públicos del Tribunal;
 
 III. Recibir, instruir y canalizar ante el Pleno las quejas y denuncias relacionadas con servidores públicos del propio Tribunal y darles seguimiento hasta su conclusión;
 
@@ -899,13 +923,23 @@ V. Vigilar que los servidores públicos del Tribunal se conduzcan en términos d
 
 VI. Intervenir en la elaboración de las actas de entrega-recepción en términos de la normativa;
 
-VII. Verificar que se cumpla con la insaculación y la asignación aleatoria de los turnos señalados en el artículo 34 de esta Ley, y
+VII. Verificar que se cumpla con la insaculación y la asignación aleatoria de los turnos señalados en el artículo 34 de esta Ley;
 
-VIII. Las demás que le atribuyan las disposiciones legales y reglamentarias aplicables.
+VIII. Comprobar el cumplimiento por parte de los órganos administrativos del Tribunal de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+
+IX. Llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Tribunal;
+
+X. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Tribunal;
+
+XI. Proponer por conducto de su titular, su presupuesto de egresos ante el Ejecutivo del Estado para ser incluido dentro del presupuesto estatal, y
+
+XII. Las demás que le atribuyan las disposiciones legales Federales, Estatales y reglamentarias aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 54.
 
-Para el ejercicio de las atribuciones que tiene conferidas el Órgano interno de control del Tribunal, contará con los servidores públicos y los recursos económicos que le permita el presupuesto que le sea asignado por el Congreso del Estado.
+Para el ejercicio de las atribuciones que tiene conferidas el Órgano interno de control del Tribunal, contará con los servidores públicos y los recursos económicos que le permita su presupuesto, que le sea asignado por el Congreso del Estado y que se incluirá por separado dentro de la partida destinada en el presupuesto del Estado al Tribunal. La partida que se apruebe para tal fin, nunca podrá ser inferior a la aprobada en el presupuesto del ejercicio fiscal inmediato anterior.
 
 ### Capítulo XIII. De los Impedimentos y de las Excusas
 
@@ -1213,7 +1247,7 @@ DÉCIMA SEGUNDA. El Tribunal de Justicia Administrativa dentro de los noventa d�
 
 DÉCIMA TERCERA. El Tribunal de Justicia Administrativa, dentro de los ciento veinte días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, deberá expedir los Manuales de Organización y Procedimientos del Tribunal de Justicia Administrativa.
 
-DÉCIMA CUARTA. A la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos, a propuesta que efectúe la Junta Política y de Gobierno, el Congreso nombrará por el voto aprobatorio de las dos terceras partes de sus miembros, al Titular del Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado de Morelos.
+DÉCIMA CUARTA. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
 
 DÉCIMA QUINTA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
 
@@ -1236,3 +1270,17 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL QUINIENTOS UNO POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, RESPECTO DE LAS ATRIBUCIONES Y TITULARIDAD DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL”.]
+
+PRIMERA. Aprobado el presente decreto, remítase al Titular del Poder Ejecutivo para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial -Tierra y Libertad-, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se deroga la disposición transitoria Décimo Cuarta del decreto por el que se expide la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+CUARTA. La Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado, deberá a la entrada en vigor del presente decreto, emitir en un plazo no mayor a 30 días naturales, la convocatoria a que hace referencia el artículo 51 de Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Morelos.
