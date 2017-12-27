@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-lazaro-cardenas-del-estado-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2015-12-15"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -1345,7 +1345,9 @@ V. Por revalidación anual de registro 10.0 S.M.G.
 
 VI. Otros servicios no precisados en este articulo 7.0 S.M.G.
 
-### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
+### CAPÍTULO XXIX. DE LOS DERECHOS DE SANEAMIENTO AMBIENTAL QUE REALICE EL MUNICIPIO
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 131.
 
@@ -1363,7 +1365,7 @@ III. Por la expedición de disco compacto 1.00 S.M.G. por cada uno.
 
 Tratándose de lo dispuesto en las fracciones II, III y IV, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
 
-### CAPÍTULO II. BIENES MOSTRENCOS
+### CAPÍTULO I. VENTA O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL MUNICIPIO
 
 ###### Artículo 132.
 
@@ -1373,11 +1375,35 @@ Terrestre, causarán los derechos con arreglo a lo siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS 138 A LA 139.]</small>
 
-### CAPÍTULO III. MERCADOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO II. BIENES MOSTRENCOS
+
+###### Artículo 132 Bis.
+
+Los derechos que establece este capítulo se causarán por la ejecución de saneamiento ambiental que se realice en el municipio, en razón de la ocupación de Hoteles, posadas o casas de huéspedes, hostales y moteles.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 132 Ter.
+
+Están obligados a pagar los derechos de saneamiento ambiental el o los usuarios de cuartos y/o habitaciones de hoteles, posadas o casas de huéspedes, hostales y moteles, mismo derecho que será retenido por los prestadores de servicios del ramo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 132 Quáter.
+
+El pago del derecho de saneamiento ambiental se causará en razón de $20.00 (VEINTE PESOS 00/100 M.N.) por cuarto y/o habitación, por noche de ocupación, al momento en el que el pago de la ocupación de la habitación se efectúe por adelantado, o al momento del Registro (check in), o al momento de la salida (check out) si el pago es después de prestado el servicio.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 132 Quinquies.
+
+Los retenedores deberán de proporcionar mensualmente, mediante formas aprobadas por la Tesorería Municipal a través de los medios electrónicos dispuestos por ésta, la información que se refiere a las habitaciones ocupadas por la prestación de ese servicio, de las operaciones practicadas con personas físicas y morales, a más tardar el día diecisiete del mes inmediato posterior al que corresponda dicha información, acompañado del entero del derecho correspondiente.
 
 ## TÍTULO CUARTO. PRODUCTOS
 
-### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
+### CAPÍTULO III. MERCADOS
 
 ###### Artículo 133.
 
@@ -1401,7 +1427,7 @@ En todos los casos en que se autorice la enajenación de bienes del Municipio y 
 
 Los bienes de uso común o destinados al servicio del Municipio no podrán ser enajenados mientras tengan ese carácter, el que solo podrá cambiarse mediante la aprobación por mayoría calificada del Ayuntamiento respectivo, y en los términos y para los fines previstos en la Ley de los Municipios del Estado de Quintana Roo.
 
-### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
+### CAPÍTULO IV. ARRENDAMIENTO, EXPLOTACIÓN O ENAJENACIÓN DE EMPRESAS MUNICIPALES
 
 ###### Artículo 138.
 
@@ -1411,7 +1437,7 @@ Se entiende por bienes mostrencos los bienes inmuebles abandonados y los predios
 
 El producto líquido de los bienes mostrencos que sean rematados o vendidos conforme a las disposiciones del Código Civil, constituirá un ingreso para la Hacienda Municipal.
 
-### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+### CAPÍTULO V. CRÉDITOS A FAVOR DEL MUNICIPIO
 
 ###### Artículo 140.
 
@@ -1419,7 +1445,7 @@ Por locales en los mercados y otros sitios, será pagada una renta mensual de ac
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINAS 142 A LA 143.]</small>
 
-### CAPÍTULO VII. PRODUCTOS DIVERSOS
+### CAPÍTULO VI. VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
 ###### Artículo 141.
 
@@ -1429,19 +1455,19 @@ Se consideran productos los ingresos que se deriven del arrendamiento, explotaci
 
 La realización de las actividades a que se hace referencia en el artículo anterior se hará previo acuerdo del Ayuntamiento, observándose además las disposiciones de carácter Estatal que al respecto existan.
 
-### CAPÍTULO VI (SIC). VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
+### CAPÍTULO VII. PRODUCTOS DIVERSOS
 
 ###### Artículo 143.
 
 Se consideran productos aquellos ingresos que obtiene el Municipio mediante créditos de empresas, de personas físicas o morales para satisfacer sus necesidades económicas.
 
-### CAPÍTULO VII. PRODUCTOS DIVERSOS
+### CAPÍTULO VI (SIC). VENTA DE OBJETOS RECOGIDOS POR EL DEPARTAMENTO DE LIMPIA Y TRANSPORTE
 
 ###### Artículo 144.
 
 El Ayuntamiento podrá obtener ingresos para su hacienda mediante la venta de los objetos recogidos en la prestación del servicio de limpia y transporte.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. PRODUCTOS DIVERSOS
 
 ###### Artículo 145.
 
@@ -1468,6 +1494,8 @@ Los productos no especificados en este capítulo, así como el costo administrat
 Son aprovechamientos, los ingresos que correspondan a las funciones de derecho público del Municipio, derivados de rezagos, multas, recargos, gastos de ejecución, indemnizaciones y otros (sic) éstos perciban y cuya naturaleza no sea clasificable como impuesto, derecho, producto, participaciones o aportaciones federales e ingresos extraordinarios.
 
 PARTICIPACIONES
+
+### CAPÍTULO ÚNICO
 
 ## TÍTULO SÉPTIMO (SIC). APORTACIONES FEDERALES
 
@@ -1580,3 +1608,13 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 130 POR EL QUE SE ADICIONA EL CAPÍTULO XXIX DENOMINADO "DE LOS DERECHOS DE SANEAMIENTO AMBIENTAL QUE REALICE El MUNICIPIO", DENTRO DEL TÍTULO TERCERO DENOMINADO "DE LOS DERECHOS", EL CUAL COMPRENDE LOS ARTICULOS 132 BIS, 132 TER, 132 QUÁTER Y 132 QUINQUIES, TODOS DE LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS, DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1o. de enero del año 2018, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La recaudación del derecho de saneamiento ambiental que prevé el presente decreto, iniciará una vez constituido el fideicomiso para su correcta administración, el cual estará regido por un Comité Técnico.
