@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2017-07-13"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CAM"
 ---
 # LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 100, P.O. 22 DE DICIEMBRE DE 2016, VÉASE TRANSITORIO SEGUNDO DEL PROPIO DECRETO.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -50,8 +48,6 @@ LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir las obligaciones de su administración, organización y prestación de servicios públicos, percibirá en cada ejercicio fiscal los ingresos que por concepto de impuestos, derechos, productos, aprovechamientos, ingresos extraordinarios, participaciones y fondos de aportaciones federales autorice la Ley de Ingresos que anualmente aprueba el Congreso del Estado. Todos los ingresos a que se refiere la presente Ley son inembargables.
 
 La Hacienda Pública del Estado de Campeche se compone:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -275,8 +271,6 @@ Son objeto de este impuesto, las erogaciones o pagos, en efectivo o en especie p
 
 Para los efectos de este impuesto, quedan comprendidas dentro de las erogaciones a que se refiere el párrafo anterior, todas las prestaciones o contraprestaciones cualquiera que sea el nombre con el que se les designe, ya sean ordinarias o extraordinarias que deriven de una relación laboral, incluyendo salarios, sueldos, sobresueldos, anticipos, viáticos, gastos de representación, aguinaldo, comisiones, premios, gratificaciones, rendimientos, ayudas para despensa, participación de los trabajadores en las utilidades de las empresas, aportación patronal al fondo de ahorro, primas vacacionales, dominicales, por antigüedad y previsión social en los términos del Código Fiscal del Estado, ayudas habitacionales, así como cualquier otra erogación realizada por conceptos de naturaleza análoga.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 Son también objeto de este impuesto, las erogaciones por pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia, consultivos o de cualquier otra índole en toda clase de sociedades o asociaciones, así como los que se efectúen a las personas, por los servicios que presten a un prestatario, por lo que no se deba pagar el impuesto al valor agregado.
@@ -475,6 +469,14 @@ IV.- Los servicios de campamento a través de los que se otorga espacio para aca
 
 Para los efectos de este impuesto no se considerará la prestación de servicios de albergue o alojamiento prestados por hospitales, clínicas, asilos, internados, casas de beneficencia pública o asistencia social, conventos, seminarios e instituciones religiosas, siempre que se trate de servicios propios de su objeto o fin.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+En los supuestos previstos en las fracciones I, II y III de este artículo, cuando intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ella lo correspondiente al Impuesto sobre Servicios de Hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente a la autoridad fiscal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 29 BIS.- Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en el cobro de las contraprestaciones por servicios de hospedaje, y en caso de que se cubra a través de ellas lo correspondiente al impuesto señalado en este capítulo, deberán inscribirse al Registro Estatal de Contribuyentes en su carácter de intermediario, promotor o facilitador a efecto de coadyuvar en el cumplimiento de lo establecido en el artículo 33 de esta Ley.
+
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
 ###### ARTÍCULO 30.
@@ -516,6 +518,10 @@ El impuesto establecido en este capítulo se causará y se tendrá obligación d
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 El pago de este impuesto tiene el carácter de definitivo y deberá efectuarse mensualmente, mediante declaración que deberá presentarse a más tardar el día veinte del mes siguiente a aquel en que se cause el impuesto, en los formularios que apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, aquellas personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras intervengan en el cobro de las contraprestaciones por los servicios de hospedaje y en caso de que se cubra a través de ellas lo correspondiente al Impuesto sobre Servicios de Hospedaje, deberán presentar a más tardar el día veinte de cada mes, una sola declaración por el total de las contraprestaciones percibidas en el mes inmediato anterior, en las formas y medios que para tal efecto establezca el Servicio de Administración Fiscal, de conformidad con lo establecido en el párrafo segundo de este artículo.
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -617,21 +623,15 @@ IV. Quienes obtengan premios derivados de las loterías, rifas, sorteos o concur
 
 V. Quienes obtengan premios derivados de juegos permitidos con cruce o captación de apuestas, incluyendo los que se realicen de forma manual, mecánica o utilizando medios y aparatos electrónicos pagarán el impuesto que resulte de aplicar la tasa del 6% al valor del premio, mismo que será retenido y enterado por quien organice, realice o explote los eventos, o por quien reciba, registre, cruce o capte las apuestas, debiendo proporcionar la constancia de retención correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 VI.- En el caso de juegos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares que se utilicen para apostar en sustitución de cantidades de dinero sean aceptadas para esos fines por la persona que realice el juego de que se trate, la tasa del 6% se aplicará sobre el monto total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 VII.- Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como base para el cálculo del impuesto, el valor nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente.
 
 Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -679,19 +679,13 @@ I.- Presentar ante las autoridades fiscales competentes, los avisos y declaracio
 
 II.- Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones y proporcionar cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 IV.- Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código Fiscal del Estado; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -723,19 +717,13 @@ b).- Tratándose de sorteos, cuando los participantes obtengan dicha calidad sin
 
 c).- Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir o contratar un servicio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO V BIS. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS Y CONCURSOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN PRIMERA. DE LOS SUJETOS Y OBJETO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -749,13 +737,9 @@ II. Juegos y concursos en los que el premio se obtenga por el mero azar o la des
 
 III. Juegos en los que sólo se reciban, capten, crucen o exploten apuestas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN SEGUNDA. DE LA BASE Y TASA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -765,13 +749,9 @@ El impuesto se calculará aplicando la tasa del 10% al monto de las erogaciones 
 
 Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos o concursos a que se refieren las fracciones I y III del artículo 40-A, o el uso o acceso a las máquinas de juegos a que se refiere la fracción II del propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN TERCERA. DEL MOMENTO DE CAUSACIÓN
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -780,8 +760,6 @@ Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualqu
 El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos y hasta por el monto de cada pago que se realice.
 
 El impuesto se causa, asimismo, cuando quien paga al operador del establecimiento permita a otro usuario distinto de él la participación en los juegos de apuesta o el uso de las máquinas de juegos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -793,19 +771,13 @@ El impuesto se causa, asimismo, cuando quien paga al operador del establecimient
 
 El impuesto se pagará mediante retención que efectuará el operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas por el Servicio de Administración Fiscal del Estado de Campeche, a más tardar el día veinte del mes de calendario siguiente a la fecha de su retención o el día hábil siguiente si aquel no lo fuere.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
 Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda retener el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 40-H.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN QUINTA. DE LAS OBLIGACIONES DIVERSAS DE LOS CONTRIBUYENTES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -813,21 +785,15 @@ Cuando el pago o contraprestación a favor del operador del establecimiento se r
 
 El impuesto previsto en este Capítulo se causará y pagará con independencia del impuesto a que se refiere el artículo 35 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 40-F.
 
 Los operadores de los establecimientos en los que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 40-D, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN SEXTA. DEL DESTINO DE LAS SANCIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -835,13 +801,9 @@ Los operadores de los establecimientos en los que se realicen los juegos y concu
 
 Las sanciones económicas que, en su caso, se impongan por el incumplimiento a las obligaciones establecidas en este Capítulo se destinarán a los programas a cargo del Estado que fomenten la activación física y el deporte, así como, a la prevención y protección a la salud. Estos montos se transferirán una vez que los créditos fiscales hayan sido cubiertos y quedado firmes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN SÉPTIMA. DE LOS RESPONSABLES SOLIDARIOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
@@ -857,133 +819,89 @@ III.- Las que reciban cantidades a fin de permitir a terceros la participación 
 
 IV.- Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere este Capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPÍTULO VI. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 41.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 42.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 43.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 44.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LA DENOMINACIÓN Y LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 #### SECCIÓN TERCERA. DEL CÁLCULO, BASE, TASA, TABLA O TARIFA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 45.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 46.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADA SU DENOMINACIÓN Y EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 VEHÍCULOS USADOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 47.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 #### SECCIÓN CUARTA. DEL PAGO Y OBLIGACIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 48.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 49.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 50.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 51.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 52.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 53.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO VII. IMPUESTO ADICIONAL PARA LA PRESERVACIÓN DEL PATRIMONIO CULTURAL, INFRAESTRUCTURA Y DEPORTE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN PRIMERA. DEL OBJETO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -991,13 +909,9 @@ VEHÍCULOS USADOS
 
 El objeto de este impuesto lo constituyen los pagos que se deban efectuar por concepto del impuesto sobre nóminas establecido en esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1005,13 +919,9 @@ El objeto de este impuesto lo constituyen los pagos que se deban efectuar por co
 
 Son sujetos de este impuesto, los contribuyentes que deban realizar los pagos señalados en el artículo anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN TERCERA. DE LA BASE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1019,13 +929,9 @@ Son sujetos de este impuesto, los contribuyentes que deban realizar los pagos se
 
 La base de este impuesto, la constituirá el monto total del pago que deban realizar los contribuyentes por el concepto a que se refiere el artículo 53-A de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN CUARTA. DE LA TASA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1033,13 +939,9 @@ La base de este impuesto, la constituirá el monto total del pago que deban real
 
 El impuesto se determinará aplicando a la base gravable que establece el artículo anterior, la tasa del 33 %.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN QUINTA. DEL PAGO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1051,13 +953,9 @@ El pago de este impuesto, se realizará conjuntamente y en el momento en que deb
 
 Los sujetos de este impuesto efectuarán su pago en la oficina recaudadora correspondiente y en las instituciones Bancarias o en los medios que el Servicio de Administración Fiscal del Estado de Campeche tenga autorizados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1065,13 +963,9 @@ Los sujetos de este impuesto efectuarán su pago en la oficina recaudadora corre
 
 Los sujetos contribuyentes de este impuesto tendrán las obligaciones señaladas en el presente capítulo y en el Código Fiscal del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN SÉPTIMA. DEL DESTINO DEL IMPUESTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1079,19 +973,13 @@ Los sujetos contribuyentes de este impuesto tendrán las obligaciones señaladas
 
 Los ingresos que se obtengan de la recaudación del Impuesto establecido en este Capítulo se destinarán a la preservación del patrimonio cultural del Estado, infraestructura y deporte, así mismo podrán utilizarse como fuente de financiamiento para su aportación en convenios de coordinación, reasignación o paripassu con el gobierno federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO VIII. DEL IMPUESTO ESTATAL A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN PRIMERA. DEL OBJETO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1103,13 +991,9 @@ Para efecto de este Capítulo, se considerarán bebidas con contenido alcohólic
 
 Se entiende que la venta se efectúa en territorio del Estado, si en él se lleva a cabo la entrega material de la bebida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1117,13 +1001,9 @@ Se entiende que la venta se efectúa en territorio del Estado, si en él se llev
 
 Son sujetos de este impuesto, las personas físicas o morales que realicen en territorio del Estado la venta final en envase cerrado de bebidas con contenido alcohólico, excepto cerveza.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN TERCERA. DE LA BASE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1131,13 +1011,9 @@ Son sujetos de este impuesto, las personas físicas o morales que realicen en te
 
 La base del Impuesto es el precio percibido por la venta de las bebidas señaladas en el artículo anterior, sin incluir los impuestos al valor agregado, ni especial sobre producción y servicios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN CUARTA. DE LA TASA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1145,13 +1021,9 @@ La base del Impuesto es el precio percibido por la venta de las bebidas señalad
 
 La tasa del impuesto será del 4.5 por ciento sobre el ingreso percibido por la venta de las bebidas objeto de este impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN QUINTA. DEL PAGO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1161,21 +1033,15 @@ Los contribuyentes del presente impuesto, pagarán el mismo sin que proceda acre
 
 Cuando la contraprestación que perciba el contribuyente por la venta de las bebidas no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en este capítulo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 53-M.
 
 El impuesto se calculará mensualmente y se enterará al Estado a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago. Los pagos mensuales se realizarán en los términos que para el pago de contribuciones se establecen en el Código Fiscal del Estado, y tendrán el carácter de definitivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1189,15 +1055,11 @@ Quienes no cumplan con la obligación señalada en el párrafo anterior, serán 
 
 (DEROGADO, P.O. 22 DE DICIEMBRE DE 2016)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 53-P.
 
 El impuesto se causa en el momento en el que se perciban los ingresos derivados de la venta y sobre el monto de lo pagado. Cuando las contraprestaciones se paguen parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación pagada, la tasa respectiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1304,6 +1166,16 @@ XVIII. Anotaciones de:
 a) Rectificación de Actas 9
 
 b) Cambio del Régimen Patrimonial 25
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XIX. Por la expedición a través de medios
+
+electrónicos de copias autorizadas de las
+
+actas del Estado Civil de las Personas
+
+con registro en el Estado de Campeche. 0.6
 
 ###### ARTÍCULO 55.
 
@@ -1447,57 +1319,17 @@ a) Del año en curso 1
 
 b) Por cada año anterior 0.2
 
-XIX.- La inscripción de créditos hipotecarios
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-y de habilitación o avío que soliciten las
+XIX.- La inscripción de créditos hipotecarios,
 
-sociedades de crédito o cualquiera institución y
+refaccionarios y de habilitación o avío que
 
-organización auxiliar de crédito, a personas
+soliciten las sociedades de crédito o cualquier
 
-físicas o morales, sobre el importe de la
+institución y organización auxiliar de crédito,
 
-operación pagarán el 0.25%. Tratándose de
-
-créditos otorgados para el desarrollo del
-
-sector agropecuario, pagarán sobre el 10%
-
-del monto del crédito total, el 0.25%.
-
-Se considera vivienda de interés social aquella
-
-cuyo valor, al término de su edificación, no
-
-exceda de la suma que resulte de multiplicar
-
-por veinticinco veces el valor diario de la
-
-Unidad de Medida y Actualización.
-
-Se considera vivienda popular, aquélla cuyo
-
-valor, al término de su edificación no exceda
-
-de la suma que resulte de multiplicar por
-
-treinta veces el valor diario de la Unidad de
-
-Medida y Actualización.
-
-Tratándose de créditos otorgados para adquisición
-
-o construcción de vivienda de interés social o
-
-popular pagarán cuatro veces el valor diario de
-
-la Unidad de Medida y Actualización. Se pagará
-
-esta misma cuota tratándose de créditos para
-
-adquisición de vivienda cofinanciados por
-
-diversas instituciones de crédito.
+a personas físicas o morales. 10
 
 XX.- La inscripción de cualquier tipo
 
@@ -1763,27 +1595,17 @@ El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras del 
 
 ### CAPÍTULO VI. POR EL USO O APROVECHAMIENTO DE BIENES PROPIEDAD DEL ESTADO O DE BIENES CONCESIONADOS AL ESTADO
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 70.
 
-Por derechos de peaje por el uso del “Puente de la Unidad-Ingeniero Eugenio Echeverría Castellot”, ubicado sobre la carretera federal número 180, en el Municipio de Carmen, que comunica al extremo oriente de la Isla del Carmen (Puerto Real) con la parte continental (Isla Aguada), se cobrarán las cuotas o tarifas establecidas por el Gobierno Federal en las bases de regulación tarifaria contenidas en el título de concesión que ése otorgó, a través de la Secretaría de Comunicaciones y Transportes, al Estado de Campeche, el día 15 de marzo de 2005.
+Por derechos de peaje por el uso del Puente “La Unidad Eugenio Echeverría Castellot”, ubicado sobre la carretera federal número 180, en el Municipio de Carmen, que comunica al extremo oriente de la Isla del Carmen (Puerto Real) con la parte continental (Isla Aguada), se cobrarán las cuotas o tarifas establecidas por el Gobierno Federal en las bases de regulación tarifaria contenidas en el título de concesión que ése otorgó, a través de la Secretaría de Comunicaciones y Transportes al Estado de Campeche, el día 15 de marzo de 2005.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+Por derechos de peaje por el uso del “Nuevo Puente de la Unidad, Eugenio Echeverria Castellot”, de jurisdicción federal, de 3.222 Km de longitud, con origen en la Isla del Carmen y terminación en Isla Aguada, ubicado en el municipio de Carmen, se cobrarán las tarifas establecidas en las Bases de Regulación Tarifaria contenidas en el título de concesión otorgado por el Gobierno Federal, por conducto de la Secretaría de Comunicaciones y Transportes al Estado de Campeche, el día 15 de diciembre de 2016.
 
-Estos derechos se pagaran en la caseta de cobro del Servicio de Administración Fiscal del Estado de Campeche.
+Estos derechos se pagarán en la caseta de cobro de la Secretaría de Finanzas del Estado, y seran administrados en su totalidad a través de un Fideicomiso Irrevocable de Inversión, Administración y Fuente de Pago de conformidad con el título de Concesión y los decretos 130, 136 y 150 publicados en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
-
-El Servicio de Administración Fiscal del Estado de Campeche podrá exentar, en un cincuenta por ciento, del pago de los derechos anteriormente expresados, a los automóviles de servicio particular cuyos propietarios estén avecindados en cualquier localidad del Municipio de Carmen, siempre que se acredite debidamente, ante el Servicio de Administración Fiscal del Estado de Campeche:
-
-a) Dicha vecindad, con la respectiva constancia que expida el Secretario del H. Ayuntamiento del Municipio de Carmen;
-
-b) Que el vehículo ostenta placas del Estado de Campeche, con la correspondiente tarjeta de circulación; y
-
-c) Que se está al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos y en el del refrendo anual de placas, con los correspondientes recibos de pago.
-
-Asimismo, también podrá exentar del pago total de esa cuota a todos los vehículos automotores cuyos propietarios estén avecindados en la Villa de Isla Aguada, así como a los de servicio particular, cuyos propietarios son docentes o personal de apoyo y asistencia de educación básica adscritos a Centros Educativos ubicados en cualquier localidad del mismo Municipio de Carmen, siempre y cuando se satisfagan los supuestos señalados en los incisos a), b) y c), del párrafo que antecede. Los docentes, personal de apoyo y asistencia de educación básica, acreditarán su adscripción, con la constancia que expida la Secretaría de Educación del Estado, validada por la Sección 04 del Sindicato Nacional de Trabajadores de la Educación o por la Sección Primera de Trabajadores de la Educación al Servicio del Estado, según sea el caso.
-
-Los referidos descuentos y exenciones deberán siempre atender al interés público, en los términos del citado título de concesión federal.
+El Estado podrá implementar descuentos en las tarifas, en el entendido de que éstas no podrán exceder a las autorizadas por la Secretaría de Comunicaciones y Transportes, en términos de la Concesión. En el caso de existir algún Programa de Residentes, dicho programa deberá aplicarse para los habitantes del municipio de Carmen.
 
 ###### ARTÍCULO 71.
 
@@ -2081,171 +1903,395 @@ informativo prevista en el artículo 17 del Código
 
 Fiscal del Estado de Campeche. 3
 
-XXIV.- Por los servicios prestados en materia de concesiones de transporte público.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-Concepto Unidades de Medida y
+XXIV.- Por los servicios prestados en materia de transporte, de conformidad con los artículos 13, 14 y 15 de la Ley de Transporte del Estado; en lo referente a concesiones y permisos de pasajeros y carga para las modalidades de servicio público y mercantil, estimado con el cálculo del valor diario de la unidad de medida y actualización, es el siguiente:
 
-Actualización
+CONCEPTO Unidades de Medidas
 
-a) Por el estudio y, en su caso, trámite de
+Y Actualización
 
-la solicitud de concesión de servicio público
+a) Por el estudio para la solicitud de concesión de
 
-o especial de transporte en cualquiera de sus
+servicio público de transporte de pasajeros y carga
 
-modalidades o por su regulación. 100
+en las modalidades contempladas en los apartados 70
 
-b) Por el refrendo de una concesión de servicio
+A y B de la fracción I de los artículos 14 y 15 de la
 
-público de transporte en la
+Ley de transporte del Estado.
 
-modalidad de servicio colectivo. 180
+b) Por el estudio para la solicitud de concesión de
 
-c) Por el refrendo de una concesión de servicio
+servicio especializado de transporte para la 10
 
-público de transporte en la modalidad de taxi,
+modalidad contemplada en el apartado A de la
 
-carga general, volteo, salvamento y arrastre;
+fracción II del artículo 14 de la Ley de Transporte
 
-así como de servicio especial de transporte
+del Estado:
 
-en cualquiera de sus modalidades. 100
+c) Por el estudio para la solicitud de concesión de
 
-d) Por la expedición de un nuevo título de
+servicio especializado de transporte para la 5
 
-concesión de servicio público o especial
+modalidad contemplada en el apartado B de la
 
-de transporte en cualquiera de sus modalidades,
+fracción II del artículo 14 de la Ley de Transporte
 
-con motivo del cambio de titular por la incapacidad
+del Estado:
 
-física o mental, declaración de ausencia o
+d) Por el refrendo de una concesión de servicio público
 
-fallecimiento de concesionario. 80
+de transporte de pasajeros y carga en las modalidades 50
 
-e) Por la consolidación de una concesión de servicio
+contempladas en los apartados A y B de la fracción I de
 
-público de transporte en cualquiera de sus modalidades,
+los artículos 14 y 15 de la Ley de transporte del Estado:
 
-a solicitud de parte interesada. 120
+e) Por el refrendo de una concesión de servicio público
 
-f) Por la reposición de un título de concesión de servicio
+de transporte para la modalidad contemplada en el 5
 
-público o especial de transporte en cualquiera de
+apartado A de la fracción II del artículo 14 de la
 
-sus modalidades. 80
+Ley de Transporte del Estado:
 
-g) Por la revisión física y mecánica de los vehículos
+f) Por el refrendo de una concesión de servicio público
 
-destinados al servicio público o especial de
+de transporte para la modalidad contemplada en el 2
 
-transporte en cualquiera de sus modalidades, tanto
+apartado B de la fracción II del artículo 14 de la Ley
 
-para el refrendo anual de una concesión,
+de Transporte del Estado:
 
-como para el alta o baja de vehículos concesionados
+g) Por la expedición de un nuevo título de concesión
 
-o con permiso. 5
+de servicio público, con motivo del cambio de titular 40
 
-h) Por la tramitación, estudio de campo y
+por la incapacidad física o mental, declaración de
 
-diagnóstico de factibilidad para
+ausencia o fallecimiento de concesionario en
 
-autorización de modificación o creación
+modalidades contempladas en los apartados A y B
 
-de ruta de transporte público
+de la fracción I de los artículos 14 y 15 de la Ley de
 
-colectivo. 50
+transporte del Estado:
 
-i) Por la modificación o creación de
+h) Por la expedición de un nuevo título de concesión de
 
-ruta de transporte público colectivo. 50
+servicio público, con motivo del cambio de titular por la 5
 
-j) Por la expedición de la identificación de
+incapacidad física o mental, declaración de ausencia o
 
-conductor de vehículo de servicio
+fallecimiento de concesionario, para la modalidad
 
-público o especial de transporte en
+contemplada en el apartado A de la fracción II del artículo
 
-cualquiera de sus modalidades. 300
+14 de la Ley de Transporte del Estado:
 
-k) Por el resello de la identificación
+i) Por la expedición de un nuevo título de concesión de
 
-de conductor de vehículo de servicio
+servicio público, con motivo del cambio de titular por la 2
 
-público de transporte de personas en
+incapacidad física o mental, declaración de ausencia o
 
-cualquiera de sus modalidades. 20
+fallecimiento de concesionario para la modalidad
 
-l) Por la tramitación y expedición de un
+contemplada en el apartado B de la fracción II del
 
-permiso temporal de hasta por seis
+artículo 14 de la Ley de Transporte del Estado:
 
-meses, de un servicio de transporte
+j) Por el otorgamiento de una concesión de servicio
 
-público o especial de transporte en
+público de transporte, a solicitud de la parte interesada, 50
 
-cualquiera de sus modalidades,
+en las modalidades contempladas en los apartados
 
-cuando exista una necesidad de servicio
+A y B de la fracción I de los artículos 14 y 15 de la
 
-inmediata o emergente. En el caso de que
+Ley de transporte del Estado:
 
-la vigencia de la autorización sea menor se
+k) Por el otorgamiento de una concesión de servicio
 
-cobrará la parte proporcional. 60
+público de transporte a solicitud de parte interesada, 5
 
-XXV.- Por los servicios relativos al Registro Público de Transporte, se causarán y pagarán los derechos siguientes:
+para la modalidad contemplada en el apartado A de
 
-Concepto Unidades de Medida
+la fracción II del artículo 14 de la Ley de Transporte
+
+del Estado:
+
+l) Por el otorgamiento de una concesión de servicio
+
+público de transporte a solicitud de parte interesada, 2
+
+para la modalidad contemplada en el apartado B de
+
+la fracción II del artículo 14 de la Ley de Transporte
+
+del Estado:
+
+m) Por la reposición de un título de concesión de servicio
+
+público de transporte en las modalidades contempladas 40
+
+en los apartados A y B de la fracción I de los artículos 14
+
+y 15 de la Ley de transporte del Estado:
+
+n) Por la reposición de un título de concesión de servicio
+
+público de transporte para la modalidad contemplada 5
+
+en el apartado A de la fracción II del artículo 14 de la
+
+Ley de Transporte del Estado:
+
+o) Por la reposición de un título de concesión de servicio
+
+público de transporte para la modalidad contemplada en 2
+
+el apartado B de la fracción II del artículo 14 de la Ley de
+
+Transporte del Estado:
+
+p) Por la revisión física y mecánica de los vehículos
+
+destinados al servicio público y mercantil de transporte 3
+
+en las modalidades contempladas en las fracciones I y III
+
+del artículo 14, así como I y II del artículo 15 de la Ley de
+
+Transporte del Estado.
+
+q) Por la revisión física y mecánica de los vehículos
+
+destinados al servicio público y mercantil de transporte 2
+
+para la modalidad contemplada en el apartado A de la
+
+fracción II del artículo 14 de la Ley de Transporte del Estado:
+
+r) Por la revisión física y mecánica de los vehículos
+
+destinados al servicio público y mercantil de transporte 1
+
+para la modalidad contemplada en el apartado B de la
+
+fracción II del artículo 14 de la Ley de Transporte del Estado:
+
+s) Por la tramitación, estudio y diagnóstico de factibilidad
+
+para la autorización de modificación o creación de ruta 25
+
+de transporte público en las modalidades contempladas
+
+en los apartados A y B de la fracción I del artículo 14 de
+
+la Ley de Transporte del Estado:
+
+t) Por la modificación o creación de una ruta de transporte
+
+público en las modalidades contempladas en los apartados 25
+
+A y B de la fracción I del artículo 14 de la Ley de Transporte
+
+del Estado:
+
+u) Por la expedición o reimpresión de la identificación de
+
+conductor de vehículo de servicio público o mercantil de 17
+
+transporte para las modalidades contempladas en las
+
+fracciones I y III del artículo 14, así como I y II del artículo
+
+15, todos de la Ley de Transporte del Estado:
+
+v) Por la expedición o reimpresión de la identificación
+
+de conductor de vehículo de servicio público o mercantil 4
+
+de transporte, para la modalidad contemplada en el
+
+apartado A de la fracción II del artículo 14 de la Ley de
+
+Transporte del Estado:
+
+w) Por la expedición o reimpresión de la identificación
+
+de conductor de vehículo de servicio público o mercantil 1
+
+de transporte para la modalidad contemplada en el apartado
+
+B de la fracción II del artículo 14 de la Ley de Transporte
+
+del Estado:
+
+x) Por el resello de la identificación de conductor
+
+de vehículo de servicio público y mercantil 5
+
+de transporte para las modalidades contempladas
+
+en las fracciones I y III del artículo 14 y las fracciones
+
+I y II del artículo 15 de la Ley de Transporte del Estado:
+
+y) Por el resello de la identificación de conductor de
+
+vehículo de servicio público o mercantil de 2
+
+transporte para la modalidad contemplada en el
+
+apartado A de la Fracción II del artículo 14 de la Ley
+
+de Transporte del Estado:
+
+z) Por el resello de la identificación de conductor
+
+de vehículo de servicio público o mercantil de 1
+
+transporte para la modalidad contemplada en el
+
+apartado B de la Fracción II del artículo 14 de la
+
+Ley de Transporte del Estado:
+
+aa) Por la tramitación y expedición de un permiso
+
+temporal de hasta por un año, de un servicio
+
+de transporte público y mercantil de transporte,
+
+cuando exista una necesidad de servicio inmediata 30
+
+o emergente. En el caso de que la vigencia de la
+
+autorización sea menor se cobrará la parte
+
+proporcional, para las modalidades contempladas
+
+en las fracciones I y III del artículo 14 y las fracciones
+
+I y II del artículo 15 de la Ley de Transporte del Estado:
+
+bb) Por la tramitación y expedición de un permiso
+
+temporal de hasta por un año, de un servicio 2
+
+de transporte público y mercantil de transporte,
+
+cuando exista una necesidad de servicio inmediata
+
+o emergente. En el caso de que la vigencia de la
+
+autorización sea menor se cobrará la parte proporcional;
+
+para la modalidad contemplada en el apartado A de la
+
+fracción II del artículo 14 de la Ley de Transporte del Estado:
+
+cc) Por la tramitación y expedición de un permiso
+
+temporal de hasta por un año, de un servicio 1
+
+de transporte público y mercantil de transporte,
+
+cuando exista una necesidad de servicio inmediata
+
+o emergente. En el caso de que la vigencia de la
+
+autorización sea menor se cobrará la parte proporcional;
+
+para la modalidad contemplada en el apartado B de la
+
+Fracción II del artículo 14 de la Ley de Transporte del Estado:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XXV.- Por los servicios relativos al Registro Público de Transporte de pasajeros y carga de conformidad con el artículo 13 de la Ley de Transporte del Estado, para las modalidades de servicio público y mercantil, estimado con el cálculo del valor diario de la unidad de medida y actualización, se causarán y pagarán los derechos siguientes:
+
+CONCEPTO Unidades de Medida
 
 y Actualización
 
-a) Por la inscripción del concesionario
+a) Por la inscripción del concesionario o
 
-de servicio público o especial de transporte,
+permisionario de servicio público y mercantil 10
 
-en cualquiera de sus modalidades; así como por la
+de transporte, así como por la inscripción del
 
-modificación de sus datos en dicho registro. 10
+título de concesión o permiso, así como para la
 
-b) Inscripción de título de concesión de
+modificación de sus datos en dicho registro para
 
-servicio público o especial de transporte,
+las modalidades contempladas en las fracciones
 
-en cualquiera de sus modalidades. 10
+I y III del artículo 14 y fracciones I y II del artículo
 
-c) Expedición de constancia de concesión de
+15 de la Ley de transporte del Estado:
 
-servicio público o especial de transporte,
+b) Por la inscripción del concesionario o permisionario 2
 
-en cualquiera de sus modalidades. 5
+de servicio público y mercantil de transporte, así
 
-d) Inscripción de sentencia judicial o administrativa
+como por la inscripción del título de concesión o
 
-en las que se ordene la modificación, cancelación
+permiso, así como para la modificación de sus
 
-o rectificación de una concesión de servicio público
+datos en dicho registro, para la modalidad
 
-o especial de transporte, en cualquiera de sus
+contemplada en el apartado A de la fracción II
 
-modalidades. 10
+del artículo 14 de la Ley de Transporte del Estado:
 
-e) Inscripción de conductor de vehículo
+c) Por la inscripción del concesionario o permisionario
 
-destinado al servicio público o especial de transporte,
+de servicio público y mercantil de transporte, así
 
-en cualquiera de sus modalidades. 10
+como por la inscripción del título de concesión o 1
 
-f) Inscripción de la designación de beneficiarios
+permiso, así como para la modificación de sus
 
-por persona física titular de una concesión de
+datos en dicho registro, para la modalidad
 
-servicio público o especial de transporte, en cualquiera
+contemplada en el apartado B de la fracción II
 
-de sus modalidades. 10
+del artículo 14 de la Ley de Transporte del Estado:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+d) Por la inscripción de la designación de beneficiarios
+
+por persona física titular de una concesión de servicio 10
+
+público de transporte, para las modalidades contempladas
+
+en los apartados A y B de la fracción I de los artículos
+
+14 y 15 de la Ley de transporte del Estado:
+
+e) Por la inscripción de la designación de beneficiarios
+
+por persona física titular de una concesión de 2
+
+servicio público de transporte, para la modalidad
+
+contemplada en el apartado A de la fracción II
+
+del artículo 14 de la Ley de Transporte del Estado:
+
+f) Por la inscripción de la designación de beneficiarios
+
+por persona física titular de una concesión de servicio 1
+
+público de transporte, para la modalidad contemplada
+
+en el apartado B de la fracción II del artículo 14 de la
+
+Ley de Transporte del Estado:
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2365,8 +2411,6 @@ IV. Lonchería, Cocteleria y Minisúper Local 44
 
 V. Charrería 34
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 77.
@@ -2394,8 +2438,6 @@ V. Por cambio de razón social 103
 VI. Por arrendamiento anualmente 206
 
 VII. Por comodato anualmente 206
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2817,19 +2859,13 @@ INFERIOR
 
 8,559,930 EN ADELANTE 222,666.07 3.000 %
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO QUINTO.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO SEXTO.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -3020,3 +3056,19 @@ Tercero.- Solo la Secretaría de Finanzas a través del Servicio de Administraci
 Cuarto.- El Poder Ejecutivo Estatal, en un plazo que no exceda de 60 días naturales siguientes a la fecha de entrada en vigor del presente decreto, deberá emitir los Criterios Generales y la Metodología a las que deberán sujetarse los Procesos de Clasificación Socioeconómica de Pacientes de las Instituciones de Salud Pública en el Estado, a los que hace referencia el segundo párrafo del artículo 79-B de la Ley de Hacienda del Estado de Campeche.
 
 Quinto.- El Ejecutivo del Estado deberá realizar las adecuaciones normativas relacionadas con el contenido del presente decreto, en un plazo que no exceda de 90 días hábiles siguientes a la fecha de entrada en vigor del presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+[TRANSITORIOS DEL DECRETO NÚMERO 251 POR EL QUE “SE REFORMAN LA FRACCIÓN XIX DEL ARTÍCULO 56, EL ARTÍCULO 70 Y LAS FRACCIONES XXIV Y XXV DEL ARTÍCULO 72 DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el 1° de enero de 2018.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Lo relativo al pago de derechos por la expedición de actas del Estado Civil al que hace referencia la fracción XIX del artículo 54 de esta Ley, se aplicará a partir de la entrada en vigor del presente decreto a la obtención en línea de las actas de nacimiento, conforme al Convenio de Coordinación y Colaboración para implementar la consulta e impresión de actas del Registro Civil de las Personas en Línea, que celebraron la Secretaría de Gobernación y el Estado de Campeche. En relación con el cobro por la expedición en línea de las demás actas del Estado Civil de las personas, este se realizará a partir de la entrada en vigor de los convenios de colaboración que se celebren al respecto.
+
+CUARTO.- Lo establecido en el segundo párrafo del artículo 70 de esta Ley, relativo a los derechos de peaje del Nuevo Puente de la Unidad, Eugenio Echeverría Castellot, entrará en vigor al día siguiente al en que entre en funcionamiento dicho puente.
+
+QUINTO.- Se concede un plazo de 120 días naturales contados a partir de la fecha de inicio de vigencia de este decreto, con el propósito de que aquellos concesionarios que tengan o hayan tenido concesión de transporte en la modalidad de Mototaxis y Tricitaxis se regularicen en el pago de sus adeudos fiscales en materia de derechos en concepto de transporte público. Los concesionarios que se adhieran a esta disposición tendrán el beneficio de enterar sus adeudos a la autoridad fiscal correspondiente, previos los trámites administrativos ante el Instituto Estatal del Transporte con las nuevas tarifas establecidas en el presente decreto.
+
+El pago de estos derechos no dará lugar a devolución alguna y estará sujeto a los plazos de prescripción establecidos en el Código Fiscal del Estado de Campeche.
