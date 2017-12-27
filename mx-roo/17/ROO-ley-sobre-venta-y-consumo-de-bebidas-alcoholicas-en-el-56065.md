@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2016-12-15"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -82,6 +82,14 @@ III.- Licencia de Bebidas alcohólicas: Al documento otorgado por el Ejecutivo a
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 IV.- U.M.A.: Al valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+V.- Venta al mayoreo: Es la actividad comercial de compra - venta continua de bebidas alcohólicas, cuya finalidad está dirigida únicamente a clientes subsecuentes y comerciales que cuenten con una licencia para la venta de bebidas alcohólicas.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+VI.- Venta al menudeo: Es la actividad comercial de compra - venta de bebidas alcohólicas cuya finalidad está dirigida únicamente al último consumidor o público en general.
 
 ###### ARTÍCULO 5.
 
@@ -413,11 +421,13 @@ II.- Cuando el solicitante haya sido sancionado por autoridad competente por ser
 
 III.- Cuando el solicitante haya tenido una Licencia de Bebidas Alcohólicas, y haya transferido sus derechos permanentemente a terceras personas; salvo que dicha solicitud, sea presentada con posterioridad a dos años de haberse realizado la transferencia y que el solicitante cumpla con lo señalado en los Artículos 14 y 15 de la presente Ley;
 
-IV.- Cuando el solicitante pretenda domiciliar la Licencia de Bebidas Alcohólicas, para los establecimientos previstos en las fracciones V, VI, VIII y XV del artículo 25 de esta Ley, en un inmueble que se encuentre ubicado dentro de un rango de 200 metros radiales de otro del mismo tipo o de los demás señalados en esta fracción, excepto en las zonas turísticas. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+IV.- Cuando el solicitante pretenda domiciliar la licencia de bebidas alcohólicas, para los establecimientos previstos en las fracciones V, VI, VIII y XV del artículo 25 de esta ley, en un inmueble que se encuentre ubicado dentro de un rango de 500 metros radiales de otro del mismo tipo o de los demás señalados en esta fracción, excepto en las zonas turísticas. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
 
-V.- Cuando el solicitante pretenda domiciliar la licencia bebidas alcohólicas, para los giros previstos en las fracciones III, IV, V, VI, VII, VIII, IX y X del artículo 17 de esta Ley, en un inmueble ubicado a menos de 200 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos, edificios públicos o de asistencia social y áreas de equipamiento. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+V.- Cuando el solicitante pretenda domiciliar la licencia de bebidas alcohólicas, para los giros previstos en las fracciones III, IV, V, VI, VII, VIII, IX y X del artículo 17 de esta ley, en un inmueble ubicado a menos de 500 metros radiales de planteles educativos, parques públicos, templos religiosos, hospitales, centros deportivos, edificios públicos o de asistencia social y áreas de equipamiento. Para este efecto, se entenderá como distancia base la comprendida entre los puntos más cercanos de los inmuebles señalados.
 
 Para efectos del párrafo anterior, se entenderá por área de equipamiento lo dispuesto en el artículo 2 fracción XII de la Ley de Asentamientos Humanos del Estado de Quintana Roo;
 
@@ -455,7 +465,7 @@ IV.- Hacer del conocimiento de la autoridad competente cuando detecte actos que 
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-V.- No vender, bajo ninguna circunstancia, bebidas alcohólicas a menores de 18 años, ni permitirles la entrada en los giros señalados en las fracciones III y IV del artículo 17 esta Ley;
+V.- No vender, bajo ninguna circunstancia, bebidas alcohólicas a menores de 18 años, ni permitirles la entrada en los giros señalados en las fracciones III y IV del artículo 17 esta Ley.
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -519,7 +529,9 @@ III.- La venta al mayoreo de bebidas alcohólicas para su comercialización a pe
 
 IV.- Vender bebidas alcohólicas en establecimientos no autorizados por esta ley u otras que lo prohíban expresamente;
 
-V.- Cuando la venta de bebidas alcohólicas al público en general se realice vía telefónica y se otorgue el servicio de entrega a domicilio;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+V.- Cuando la venta de bebidas alcohólicas al público en general se realice vía telefónica y/o cualquier otro medio electrónico o de comunicación y se otorgue el servicio de entrega a domicilio.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -552,6 +564,10 @@ XVIII.- La comisión de actos por el titular de la Licencia de Bebidas Alcohóli
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 XIX.- Permitir el consumo dentro de los limites del establecimiento en los casos de venta de bebidas alcohólicas en envase cerrado, salvo los casos que permita la ley expresamente.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XX.- No tener la licencia de bebidas alcohólicas, el permiso o la autorización de comodato correspondiente en los lugares que señalen las disposiciones fiscales respectivas.
 
 #### SECCIÓN SEGUNDA. DE LA IMPOSICIÓN DE LAS SANCIONES
 
@@ -633,9 +649,9 @@ IV.- Multa de doscientas hasta seiscientas veces la U.M.A, al que cometa las inf
 
 V.- Multa de cien hasta cuatrocientas veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracción XVII de esta Ley.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-VI.- Multa de quince hasta cien veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracciones III, XIII y XIX de esta Ley.
+VI.- Multa de quince hasta cien veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracciones III, XIII, XIX y XX de esta ley.
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
@@ -1022,3 +1038,11 @@ P.O. 15 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor a partir del 1o. de enero de 2017, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 124 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las presentes disposiciones no serán aplicables a los establecimientos que, una vez entrado en vigor el presente decreto, se encuentren en funcionamiento y cuenten con sus licencias o permisos de venta de bebidas alcohólicas, de conformidad con la ley aplicable.
