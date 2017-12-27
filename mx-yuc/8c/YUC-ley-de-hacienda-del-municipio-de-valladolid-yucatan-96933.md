@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-valladolid-yucatan-96933"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2013-12-27"
+last_updated: "2017-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATAN
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATÁN, PUBLICADA EN EL DIARIO OFICIAL EL 27 DE DICIEMBRE DE 2017; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2018.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE VALLADOLID, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -2468,3 +2470,23 @@ GOBERNADOR DEL ESTADO DE YUCATÁN
 C. VÍCTOR EDMUNDO CABALLERO DURÁN
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO SEGUNDO, FRACCIÓN II DEL “DECRETO 567/2017 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE KINCHIL Y VALLADOLID, YUCATÁN”.]
+
+Artículo Primero.- Esta Ley entrará en vigor el día primero de enero del año 2018, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- Se abroga la Ley de Hacienda del Municipio de Valladolid, Yucatán, publicada en el Diario Oficial del Gobierno del Estado el día 27 de diciembre de 2013, en el Decreto 135.
+
+Artículo Tercero.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley General de Hacienda para los Municipios, ambas del Estado de Yucatán.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 567/2017 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE KINCHIL Y VALLADOLID, YUCATÁN”.]
+
+Artículo Primero.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de esta ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+Artículo Segundo.- Esta ley, entrará en vigor el día 01 de enero del año 2018, previo su publicación en el Diario Oficial del Gobierno del Estado de Yucatán y en la Gaceta Municipal.
+
+Artículo Tercero.- Se derogan todas las disposiciones de igual y menor rango que contravengan lo dispuesto en este decreto.
