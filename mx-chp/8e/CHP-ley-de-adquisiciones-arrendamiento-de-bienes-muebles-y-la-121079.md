@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-adquisiciones-arrendamiento-de-bienes-muebles-y-la-12107
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-21"
-last_updated: "2016-12-21"
+last_updated: "2017-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y LA CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 21 de diciembre de 2016.
 
@@ -385,35 +385,31 @@ Los servidores públicos que autoricen actos en contravención a lo dispuesto en
 
 ### CAPITULO I. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 18.
 
 Las modalidades de los procedimientos para las contrataciones en materia de adquisiciones, arrendamiento de bienes muebles y prestación de servicios podrán ser:
 
-I. Mediante Licitación:
+I. MEDIANTE LICITACIÓN:
 
-a) Licitación Pública Nacional: Cuando el monto sea mayor a $23'372,800.00.
+a) Licitación Pública Nacional: cuando el monto sea mayor a 310,000 veces del valor de la Unidad de Medida y Actualización (UMA).
 
-b) Licitación Pública Estatal: Cuando el monto sea mayor a $5'843,200.00 y hasta $23'372,800.00. Cuando se realice una Licitación Pública Estatal, será obligatorio que la convocatoria se publique cuando menos en uno de los diarios de mayor circulación en el Estado, convocando exclusivamente a personas legalmente establecidas; siempre y cuando y por la naturaleza de los bienes o servicios que pretendan adquirirse o contratarse existan proveedores o prestadores de servicios para realizar la licitación pública (sic) caso contrario se convocará a nivel nacional.
+b) Licitación Pública Estatal: cuando el monto sea mayor a 77,500 y hasta 310,000 veces del valor de la Unidad de Medida y Actualización (UMA). Cuando se realice una licitación pública estatal, será obligatorio que la convocatoria se publique cuando menos en uno de los diarios de mayor circulación en el Estado, convocando exclusivamente a personas legalmente establecidas; siempre y cuando y por la naturaleza de los bienes o servicios que pretendan adquirirse o contratarse existan proveedores o prestadores de servicios para realizar la licitación pública caso contrario se convocará a nivel nacional.
 
 c) Invitación:
 
-1. Invitación Abierta:
+1. Invitación Abierta: Cuando el monto sea mayor a 6,772 y hasta 77,500 veces del valor de la Unidad de Medida y Actualización (UMA).
 
-Cuando el monto sea mayor a $511,280.00 y hasta $5'843,200.00.
+2. Invitación Restringida a cuando menos tres personas: según el monto que sea determinado por el comité.
 
-2. Invitación Restringida a cuando menos tres personas:
-
-Según el monto que sea determinado por el Comité.
-
-II. Mediante Adjudicación Directa:
-
-Cuando el monto anual por partida esté comprendido hasta $54,780.00, éste se podrá ejercer a través de las unidades de apoyo administrativo o equivalentes, de manera directa.
+II. Mediante Adjudicación Directa: Cuando el monto este comprendido hasta 1,325 veces del valor de la Unidad de Medida y Actualización (UMA), éste se podrá ejercer a través de las unidades de apoyo administrativo o equivalentes, de manera directa.
 
 Las convocatorias de las licitaciones sin excepción, se deberán hacer por medios remotos de comunicación electrónica.
 
-En las Licitaciones Públicas y en las Invitaciones podrán participar únicamente licitantes establecidos legalmente en el Estado de Chiapas, y demostrando con el registro que al efecto emite la autoridad federal competente, siempre y cuando, por la naturaleza de los bienes o servicios que pretendan adquirirse o contratarse existan proveedores o prestadores de servicios para realizar la licitación correspondiente, caso contrario se convocará a nivel nacional.
+En las licitaciones públicas y en las invitaciones podrán participar únicamente licitantes con domicilio fiscal en el Estado de Chiapas y que enteren sus contribuciones federales, estatales y municipales en la entidad y estén al corriente en el pago de las mismas, siempre y cuando, por la naturaleza de los bienes o servicios que pretendan adquirirse o contratarse existan proveedores o prestadores de servicios para realizar la licitación correspondiente, caso contrario se convocará a nivel nacional.
 
-Tratándose de Licitaciones Públicas Nacionales en las que participen de manera individual micro, pequeñas y medianas empresas estatales o nacionales, no se aplicará la modalidad de ofertas subsecuentes de descuento.
+Tratándose de licitaciones públicas nacionales en las que participen de manera individual micro, pequeñas y medianas empresas estatales o nacionales, no se aplicará la modalidad de ofertas subsecuentes de descuento.
 
 ###### Artículo 19.
 
@@ -441,9 +437,11 @@ El Órgano Interno de Control del Poder Ejecutivo, operará y se encargará del 
 
 En los procedimientos de licitación pública, invitación abierta o restringida, se observarán los criterios que establezca el Reglamento, con base en la Ley.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 23.
 
-Previo al inicio de cualquier licitación, en el caso del Poder Ejecutivo, la Oficialía deberá realizar una Investigación de Mercado de la cual se desprenden las condiciones que imperan en el mismo, respecto del bien, arrendamiento o servicio objeto de la misma, a efecto de buscar las mejores condiciones para el Estado. Los demás poderes y Órganos Autónomos podrán adoptar los criterios utilizados por el Poder Ejecutivo, a través de su Oficina de Adquisiciones.
+Previo al inicio de cualquier licitación, en el caso del Poder Ejecutivo, la oficialía, deberá realizar una investigación de mercado de la cual se desprenden las condiciones que imperan en el mismo, respecto del bien, arrendamiento o servicio objeto de la misma, como son precios de referencia y calidad, debiendo ser esta investigación de carácter estatal o nacional, dependiendo el tipo de licitación a llevarse a cabo, a efecto de buscar y presentar las mejores condiciones de mercado para el Estado. Los demás poderes y órganos autónomos podrán adoptar los criterios utilizados por el poder ejecutivo, a través de su oficina de adquisiciones.
 
 ###### Artículo 24.
 
@@ -921,9 +919,13 @@ Los derechos y obligaciones que se deriven de los pedidos o contratos, no podrá
 
 En las adquisiciones, arrendamiento de bienes muebles y contratación de servicios, deberá pactarse la condición de precio fijo. No obstante en casos justificados, se podrá pactar en el contrato decrementos o incrementos en los precios, de acuerdo con la fórmula o mecanismo de ajuste que determine la Oficialía o la Oficina de Adquisiciones en las bases de la licitación. En ningún caso procederán ajustes que no hubiesen sido considerados en las propias bases de la licitación. Tratándose de bienes o servicios sujetos a precios oficiales, se reconocerán los incrementos autorizados.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 60.
 
-La fecha de pago que los Organismos Requirentes estipulen en el pedido o contrato quedará sujeta a las condiciones que establezcan las mismas; sin embargo, deberán pagar al proveedor el precio estipulado en el contrato en un plazo que no podrá exceder de treinta días hábiles posteriores a la presentación de la factura respectiva, previa entrega de los bienes o servicios en los términos del pedido o contrato. Los Organismos Requirentes, deberán efectuar el pago al proveedor cuando por causas imputables a ellos, no haya podido hacer la entrega de los bienes o realizado la prestación de servicios.
+La fecha de pago que los organismos requirentes estipulen en el pedido o contrato quedará sujeta a las condiciones que establezcan las mismas; sin embargo, deberán pagar al proveedor el precio estipulado en el contrato en un plazo que no podrá exceder de veinte días hábiles posteriores a la presentación de la factura respectiva, previa entrega de los bienes o servicios en los términos del pedido o contrato. Los organismos requirentes, deberán efectuar el pago al proveedor cuando por causas imputables a ellos, no haya podido hacer la entrega de los bienes o realizado la prestación de servicios.
+
+Será responsabilidad del organismo requirente realizar el pago dentro del plazo estipulado en el párrafo anterior.
 
 ###### Artículo 61.
 
@@ -1091,7 +1093,7 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ###### Artículo 85.
 
-El Órgano Interno de Control de cada uno de los Sujetos Obligados, inhabilitará temporalmente para participar en procedimientos de contratación o celebrar contratos regulados por la Ley, al licitante, proveedor o prestador de servicios que se ubique en alguno de los supuestos de las fracciones III, V, VI, VII, XIII , XIV, XV y XVI del artículo 32 de la Ley, durante un plazo, que no será menor de tres meses ni mayor de dos años contados a partir de que quede firme la resolución, lo que se hará del conocimiento a las dependencias y entidades de la administración pública estatal a través de los medios impresos y electrónicos oficiales.
+El Órgano Interno de Control de cada uno de los Sujetos Obligados, inhabilitará temporalmente para participar en procedimientos de contratación o celebrar contratos regulados por la Ley, al licitante, proveedor o prestador de servicios que se ubique en alguno de los supuestos de las fracciones III, V, VI, VII, XIII, XIV, XV y XVI del artículo 32 de la Ley, durante un plazo, que no será menor de tres meses ni mayor de dos años contados a partir de que quede firme la resolución, lo que se hará del conocimiento a las dependencias y entidades de la administración pública estatal a través de los medios impresos y electrónicos oficiales.
 
 ###### Artículo 86.
 
@@ -1259,9 +1261,11 @@ La falta de cumplimiento de cualquiera de los requisitos señalados, se prevendr
 
 La manifestación de hechos falsos se sancionará conforme a las disposiciones de esta Ley y las demás que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 108.
 
-Cuando una inconformidad se resuelva como no favorable al promovente por resultar notoriamente improcedente y se advierta que se hizo con el único propósito de retrasar y entorpecer la continuación del procedimiento de contratación, se impondrán multas equivalentes de $3,652.00 y hasta $7,304.00.
+Cuando una inconformidad se resuelva como no favorable al promovente por resultar notoriamente improcedente y se advierta que se hizo con el único propósito de retrasar y entorpecer la continuación del procedimiento de contratación, se impondrán multas equivalentes de 50 y hasta 1000 veces el valor de la Unidad de Medida y Actualización (UMA).
 
 ###### Artículo 109.
 
@@ -1320,3 +1324,13 @@ Dado en el Salón de Sesiones Sergio Armando Valls Hernández del Honorable Cong
 De conformidad con la fracción I del artículo 44 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 19 días del mes de Diciembre del año Dos Mil Dieciséis, con el refrendo del C. Secretario General de Gobierno.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 039 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y LA CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto, entrara en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
