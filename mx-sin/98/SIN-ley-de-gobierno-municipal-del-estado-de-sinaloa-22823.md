@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2017-06-26"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -329,9 +329,9 @@ II. Proceder a la integración de comisiones mixtas de los sectores público y p
 
 III. Recaudar y administrar los ingresos correspondientes a la hacienda pública municipal, pudiendo celebrar al efecto convenios con el Ejecutivo del Estado respecto a las contribuciones señaladas por el Artículo 123, fracción V, de la Constitución Política del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-IV. Aprobar, ejercer y controlar su presupuesto de egresos conforme a sus ingresos disponibles y aprobar la iniciativa de Ley de Ingresos, sujetándose a lo establecido en el Artículo 124 de la Constitución Estatal, a la Ley de Presupuesto Contabilidad y Gasto Público del Estado, a la Ley de Deuda Pública y a la Ley de Contratos de Colaboración Público Privada;
+IV. Aprobar, ejercer y controlar su presupuesto de egresos conforme a sus ingresos disponibles y aprobar la iniciativa de Ley de Ingresos, sujetándose a lo establecido en el Artículo 124 de la Constitución Estatal, a la Ley de Presupuesto y Responsabilidad Hacendaria, a la Ley de Deuda Pública, a la Ley de Contratos de Colaboración Público Privada, todas del Estado de Sinaloa, y a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -395,9 +395,21 @@ X. En la administración de los recursos del Municipio, sus dependencias, organi
 
 XI. Aceptar donaciones, herencias y legados que se hagan a los municipios, siempre que no resulten onerosos, y en caso de que lo sean, se requerirá la aprobación de las dos terceras partes de sus miembros;
 
-XII. Publicar, dentro de los diez primeros días de cada mes, un corte de caja que contendrá los movimientos de ingresos y egresos habidos en el mes anterior; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-XIII. Velar por la conservación material y mejoramiento de los bienes muebles e inmuebles del Municipio.
+XII. Publicar dentro de los diez primeros días de cada mes, un corte de caja que contendrá los movimientos de ingresos y egresos habidos en el mes anterior;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XIII. Velar por la conservación material y mejoramiento de los bienes muebles e inmuebles del Municipio;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XIV. Autorizar al Presidente Municipal a que solicite al Congreso del Estadola (sic), la aprobación para contraer obligaciones o contratar y obtener empréstitos, de conformidad con lo estipulado en la Ley de Deuda Pública del Estado, los que en todo caso deberán destinarse a inversiones públicas productivas; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XV. Autorizar los convenios para adherirse al mecanismo de contratación de Deuda Estatal Garantizada, así como suscribir dichos convenios, previa (sic) a la autorización del Congreso del Estado, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 ###### Artículo 29.
 
@@ -1261,6 +1273,68 @@ V. La autorización de actos cuyos efectos jurídicos establezcan obligaciones q
 
 Los demás casos se regirán conforme a las disposiciones, condiciones y requisitos que se establezcan en la reglamentación municipal de la materia.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 78 Bis.
+
+Las iniciativas de las Leyes de Ingresos y los proyectos (sic) Presupuestos de Egresos de los Municipios se deberán elaborar conforme a lo establecido en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Sinaloa, en la Ley de Disciplina Financiera de la Entidades Federativas y los Municipios, en la Ley General de Contabilidad Gubernamental, en las normas que emita el Consejo Nacional de Armonización Contable, y demás normatividad aplicable, con base en objetivos, parámetros cuantificables e indicadores del desempeño; deberán ser congruentes con los planes estatales y municipales de desarrollo y los programas derivados de los mismos; e incluirán cuando menos objetivos anuales, estrategias y metas.
+
+Las Leyes de Ingresos y los Presupuestos de Egresos de los Municipios deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación, así como aquellas transferencias del Estado.
+
+Los Municipios además de lo previsto en los párrafos anteriores, deberán incluir en sus iniciativas de las Leyes de Ingresos y los proyectos de Presupuesto de Egresos, lo siguiente:
+
+I. Proyecciones de finanzas públicas, considerando las premisas empleadas en los criterios generales de política económica. Las proyecciones se realizarán con base en los formatos que emita el Consejo Nacional de Armonización Contable y abarcarán un periodo de tres años en adición al ejercicio fiscal en cuestión, las que se revisarán y, en su caso, se adecuarán anualmente en los ejercicios subsecuentes;
+
+II. Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de deuda contingente, acompañados de propuestas de acción para enfrentarlos;
+
+III. Los resultados de las finanzas públicas que abarquen un periodo de los tres últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin; y
+
+IV. Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada cuatro años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
+
+Las proyecciones y resultados a que se refieren las fracciones I y II, respectivamente, comprenderán sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría de Administración y Finanzas del Estado para cumplir lo previsto en el artículo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 78 Bis A. La Hacienda Municipal será regulada por la Ley de la materia y cuya aplicación corresponderá a las personas autorizadas de acuerdo con las Leyes Fiscales del Municipio y Convenios de Coordinación con la Federación y el Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 78 Bis B. La inspección de la Hacienda Pública Municipal compete al Ayuntamiento por conducto de la Presidencia, la Sindicatura y la Comisión de Hacienda.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 78 Bis C. Corresponde a los Ayuntamientos la aprobación, ejercicio y vigilancia del Presupuesto de Egresos Municipales.
+
+El Gasto total propuesto por los Ayuntamientos en el proyecto de Presupuesto de Egresos, el aprobado y el que se ejerza en el año fiscal, deberán contribuir al balance presupuestario sostenible.
+
+Los Ayuntamientos de los municipios deberán generar balances presupuestarios sostenibles. Se considerará que el balance presupuestario cumple con el principio de sostenibilidad, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero. El financiamiento neto que, en su caso, se contrate por parte del Municipio y se utilice para el cálculo del balance presupuestario de recursos disponibles sostenible, deberá estar dentro del techo de financiamiento neto que resulte de la aplicación del Sistema de Alertas, de acuerdo con el Artículo 46 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Debido a las razones excepcionales a que se refiere el Artículo 7 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, el Congreso del Estado podrá aprobar un balance presupuestario de recursos disponibles negativo para el Municipio respectivo. Para tal efecto el tesorero municipal o su equivalente, será responsable de cumplir lo previsto en el Artículo 6, párrafos tercero a quinto de la mencionada Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 78 Bis D. Los recursos para cubrir los adeudos del ejercicio fiscal anterior, previstos en el Proyecto de Presupuesto de Egresos, podrán ser hasta por el 2.5 por ciento de los Ingresos totales del respectivo Municipio.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 78 Bis E. Los Municipios y sus entes públicos deberán observar las disposiciones establecidas en los Artículos 8, 10, 11, 14, 15 y 17 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Adicionalmente, los Municipios y sus entes públicos deberán observar lo previsto en el Artículo 13 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Lo anterior, con excepción de la fracción III, segundo párrafo de dicho artículo, la cual sólo será aplicable para los Municipios de más de 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+
+Las autorizaciones a las que se hace mención en dichos artículos serán realizadas por las autoridades municipales competentes.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 78 Bis F. El Ayuntamiento aprobará el Presupuesto de Egresos, cuidando que se justifiquen plenamente:
+
+I. El monto de las partidas globales cuya suma será igual a los ingresos programados para el mismo ejercicio fiscal;
+
+II. El gasto en sueldos y prestaciones al personal deberá cuantificarse bajo criterios de racionalidad, a fin de que se destinen recursos suficientes a los servicios y a las inversiones para mejorar los mismos;
+
+III. Partidas que se asignen para cumplir prioridades; y
+
+IV. El monto total asignado a cada una de sus respectivas Alcaldías.
+
 ### CAPÍTULO XIV. DE LA POTESTAD REGLAMENTARIA
 
 ###### Artículo 79.
@@ -1730,3 +1804,11 @@ Quinto. Las referencias relativas a la Ley General de Responsabilidades Administ
 Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
 
 Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 332 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CONTRATOS DE COLABORACIÓN PÚBLICO PRIVADA, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE LA AUDITORÍA SUPERIOR Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
