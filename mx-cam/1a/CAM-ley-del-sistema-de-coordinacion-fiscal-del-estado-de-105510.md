@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-sistema-de-coordinacion-fiscal-del-estado-de-105510"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2015-11-20"
+last_updated: "2017-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 26 de diciembre de 2014.
 
@@ -566,3 +566,15 @@ SEGUNDO.- La determinación y los pagos del Impuesto Sobre Tenencia o Uso de Veh
 TERCERO.- La determinación y los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter estatal correspondiente a ejercicios fiscales de 2015 y anteriores, se realizarán conforme a las disposiciones jurídicas vigentes en el ejercicio fiscal correspondiente atendiendo, en su caso, a las reglas legales de prescripción y caducidad.
 
 CUARTO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 249 POR EL QUE “SE EXPIDE LA NUEVA LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1° de enero de 2018, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley del Sistema de Coordinación Fiscal del Estado de Campeche expedida por decreto 231 de la LXI Legislatura de fecha 22 de diciembre de 2014, publicado en el Periódico Oficial del Estado el 26 de diciembre de 2014, así como todos los decretos que la adicionaron, reformaron o, en su caso, derogaron.
+
+TERCERO.- Las Participaciones correspondientes a los Municipios generadas en el mes de diciembre de 2017 les serán pagadas a los Municipios dentro de los 5 primeros días naturales del mes de enero de 2018, conforme a la fórmula establecida en la Ley que se abroga.
+
+CUARTO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al presente decreto.
