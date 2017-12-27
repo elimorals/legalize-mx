@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2017-05-24"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -241,6 +241,8 @@ Las actividades partidistas no serán causa justificada para faltar a las sesion
 
 La licencia es la autorización temporal o definitiva que otorga el Pleno a la decisión del diputado para separarse de su cargo.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
 Los diputados tienen derecho a obtener licencia por las siguientes causas:
@@ -251,15 +253,21 @@ II. Por gravidez;
 
 III. Por aceptar el desempeño de una comisión o empleo de la federación o los estados por el que disfrute de sueldo;
 
-IV. Por postularse a otro cargo de elección popular, cuando tal licencia sea una condición establecida en las normas internas del partido político o en las disposiciones electorales correspondientes.
+IV. Por postularse a otro cargo de elección popular, cuando tal licencia sea una condición establecida en las normas internas del partido político o en las disposiciones electorales correspondientes, y
+
+VI (SIC). Por así convenir a sus intereses sin especificar alguna causa.
 
 La solicitud de licencia por cualquiera de las causas anteriormente descritas deberá tramitarse según lo establecido en la Ley.
 
 No se concederán licencias con goce de remuneración, salvo el caso de incapacidad por enfermedad comprobada o gravidez.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-El diputado con licencia que deba reincorporarse a sus actividades, deberá informarlo mediante escrito dirigido a la Junta, cuando menos con diez días de anticipación a su regreso. El Presidente de la misma lo hará del conocimiento del pleno por los conductos pertinentes.
+El diputado con licencia que deba reincorporarse a sus actividades, deberá informarlo mediante escrito dirigido a la Junta, cuando menos con cinco días de anticipación a su regreso. El Presidente de la misma lo hará del conocimiento del pleno por los conductos pertinentes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 21.
 
@@ -267,7 +275,7 @@ Los diputados suplentes entrarán en funciones cuando el diputado propietario:
 
 I. No acuda a asumir el cargo dentro del término constitucional establecido;
 
-II. Solicite licencia;
+II. Solicite licencia definitiva al cargo;
 
 III. Deje de asistir a 8 días de sesiones consecutivos, sin causa justificada, y
 
@@ -2122,3 +2130,13 @@ P.O. 24 DE MAYO DE 2017.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indica el articulo 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL CUATROCIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y EL REGLAMENTO, AMBOS PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Una vez aprobado en el Pleno de este Congreso, remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
