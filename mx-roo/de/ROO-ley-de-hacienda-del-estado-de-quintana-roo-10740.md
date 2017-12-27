@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2016-12-15"
+last_updated: "2017-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -1879,7 +1879,7 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO XII-A. IMPUESTO AL HOSPEDAJE
 
@@ -1887,173 +1887,69 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 #### SECCION PRIMERA. DEL OBJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
 ###### ARTICULO 168-A.
 
-Es objeto del Impuesto el pago por servicios de hospedaje que se otorguen en hoteles, moteles, mesones, posadas, hosterías, campamentos, paraderos de casas rodantes, de tiempo compartido, y demás establecimientos en donde se brinde albergue temporal de personas.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
-
-Para efectos de la causación de este impuesto, sólo se considerará el albergue sin incluir a los alimentos y demás servicios relacionados con los mismos.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-Los retenedores que presten servicios de hospedaje por el cual el pago de la contraprestación contemple servicios adicionales como alimentación, transportación y otros similares, calcularán el impuesto considerando como base gravable únicamente el importe correspondiente al servicio de hospedaje, de tal forma que el comprobante fiscal respectivo exprese el importe correspondiente al servicio de hospedaje y el desglose de los servicios prestados. Cuando no se exprese el importe correspondiente al servicio de hospedaje conforme a este párrafo, se deberá tener como base gravable el monto total de la contraprestación efectuada, salvo que se pruebe lo contrario previo a la fecha correspondiente al pago provisional inmediato.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 168-B.
 
-No se considerará servicio de hospedaje el albergue o alojamiento prestado por hospitales, clínicas, asilos, conventos, seminarios e internados.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 168-C.
 
-Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto exclusivamente los ingresos percibidos por el albergue a través del pago de cuotas de mantenimiento ordinarias.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 168-D.
 
-El impuesto a que se refiere este capítulo se causará al momento en que se perciban las contraprestaciones por los servicios gravados, incluyendo depósitos, anticipos, intereses normales y moratorios, y penas convencionales, relacionadas con los mismos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
 ###### ARTICULO 168-E.
 
-Son sujetos del impuesto, las personas físicas, morales o unidades económicas que utilicen los servicios señalados en el artículo 168-A de esta Ley.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 #### SECCION TERCERA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
 ###### ARTICULO 168-F.
 
-El impuesto se calculará aplicando la tasa del 3% sobre el valor de facturación y/o contratación de los servicios a que se refieren los artículos 168-A y 168-C.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 168-G.
 
-Los prestadores de servicios cobrarán el impuesto, en forma expresa y por separado, a las personas que reciban los servicios objeto de esta contribución.
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1996)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 168-H.
 
-Este impuesto en ningún caso se considerará que forma parte del valor de los servicios ni será violatorio de tasas o tarifas, incluyendo las oficiales.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 168-I.
 
-Los prestadores de servicios deberán enterar las retenciones efectuadas mediante pagos provisionales mensuales, a cuenta del impuesto anual a más tardar el día 17 del mes siguiente a aquel en que se causó, utilizando las formas autorizadas por la Secretaría a través de los medios electrónicos dispuestos por esta mediante reglas de carácter general.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-El pago provisional será la cantidad que resulte de aplicar la tasa del impuesto sobre el total del ingreso por la utilización de los servicios a que se refiere este capítulo, obtenidos en el período por el que se efectúa el pago.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-La obligación de presentar declaraciones de pagos provisionales subsistirá aún cuando no hubiese cantidad a cubrir.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 168-J.
 
-El impuesto se calculará por ejercicios fiscales.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-Los retenedores para determinar el impuesto del ejercicio, aplicarán la tasa del impuesto al valor neto de los ingresos percibidos por la prestación de los servicios a que se refiere este capítulo. Al resultado obtenido se le deducirán los pagos provisionales efectuados, correspondientes a los meses del ejercicio.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-Los retenedores presentarán declaración anual, dentro de los cuatro meses siguientes al cierre del ejercicio, a través de los medios electrónicos dispuestos por la Secretaría mediante reglas de carácter general.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-La declaración del ejercicio se sujetará a lo siguiente:
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-I.- Cuando los retenedores inicien actividades a partir del 1° de enero, presentarán declaración del ejercicio del 1° de enero al 31 de diciembre de ese ejercicio, aún que no hubiese finalizado el ejercicio fiscal con actividades.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-II.- Cuando los retenedores inicien actividades con posterioridad al 1° de enero, presentarán declaración del ejercicio, de la fecha en que iniciaron sus actividades al 31 de diciembre de ese ejercicio.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE ENERO DE 1996)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 #### SECCION CUARTA. DE LAS OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
 ###### ARTICULO 168-K.
 
-El retenedor que realice cancelación de servicios comprometidos por los que haya recibido anticipos u otorgue descuentos o bonificaciones por los servicios a que se refiere este capítulo, deducirá en las siguientes declaraciones de pagos provisionales el monto de dichos conceptos del total de los ingresos por los que deba pagar el impuesto, siempre que expresamente se haga constar que el impuesto al hospedaje que se hubiere trasladado se cancele o se restituya, según sea el caso.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 168-L.
 
-Cuando se formulen declaraciones complementarias sustituyendo datos de la original, en virtud de las cuales resulten diferencias a cargo del retenedor por declarar o bien resulten diferencias a su favor, o se incrementen los ya declarados, sólo podrán ser modificados por el retenedor hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultades de comprobación en los siguientes casos, no operará la anterior limitación:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-a. Cuando sólo incrementen sus ingresos, o el valor de sus actos o actividades.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-b. Cuando sólo disminuyan sus deducciones o reduzcan las cantidades acreditables o compensadas o los pagos provisionales o de contribución a cuenta.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-c. Cuando el retenedor haga dictaminar por Contador Público autorizado sus estados financieros, podrá corregir en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-d. Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de la Ley.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-Se procederá como sigue:
-
-> <small>(ADICIONADA, P.O. 31 DE ENERO DE 1996)</small>
-
-I.- Cuando se trate de declaraciones de pagos provisionales y no se haya presentado la declaración del ejercicio, la diferencia a su favor o su incremento podrá compensarse en la declaración de pago provisional siguiente al día en que se presente la declaración complementaria, sin que sea necesario modificar las demás declaraciones.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-II.- Cuando se modifique una declaración del ejercicio, el retenedor podrá optar por solicitar devoluciones, o compensar dicha diferencia a su favor en la declaración de pago provisional siguiente, al día en que se presente la complementaria.
-
-Cuando el valor neto de los ingresos por las que se deba pagar el impuesto del ejercicio, sea superior a la suma del declarado en los pagos provisionales que comprenda el mismo, se deberán presentar declaraciones complementarias, por el período o períodos por los que se efectúan los pagos provisionales a que correspondan las diferencias, debiendo cubrir los recargos y actualizaciones que se señalan en los artículos 20 y 22 del Código Fiscal del Estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 168-M.
 
-Los retenedores de este impuesto que tengan dos o más establecimientos dentro del Estado, en los que se presten los servicios gravados por este impuesto, presentarán por todos ellos una sola declaración de pago provisional o del ejercicio, según se trate, en la oficina Recaudadora de Rentas que corresponda a su domicilio fiscal, determinado de conformidad con lo dispuesto en el Código Fiscal del Estado.
-
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 1996)</small>
-
-En las declaraciones que se presenten en los términos del párrafo anterior, deberán consignarse los datos concernientes al número de establecimientos por los que se declara, la ubicación de los mismos, el valor de las contraprestaciones por los servicios prestados en cada establecimiento y los demás datos señalados en las mismas.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-Los retenedores que tengan varios establecimientos en el Estado, deberán conservar en cada uno de ellos, copia de las declaraciones de pago provisional y del ejercicio, y proporcionarlas a las autoridades fiscales estatales, cuando así lo requieran.
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-Los retenedores deberán de proporcionar mensualmente mediante formas aprobadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio de hospedaje, todo lo anterior en relación con las operaciones practicadas con personas físicas, morales o unidades económicas, a más tardar el día 17 del mes inmediato posterior al que corresponda dicha información.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -5527,31 +5423,65 @@ Por la reposición de la licencia de bebidas alcohólicas en cualquiera de sus g
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 172.
 
-Las personas físicas, morales o unidades económicas que realicen actividades comerciales, industriales, de servicios. y de inversión de capitales, salvo disposición expresa en contrario deberán solicitar mediante los medios electrónicos dispuestos por la Secretaría o acudiendo de forma personal ante las oficinas Recaudadoras de Rentas en el Estado, su inscripción en el Registro Estatal de Contribuyentes dentro del mes siguiente, contado a partir de que se realicen las situaciones jurídicas o de hecho, u obtengan ingresos derivados de sus actividades en el Estado de Quintana Roo y obtener a su vez la correspondiente Licencia de Funcionamiento según sea su actividad y por cada establecimiento o sucursal, para lo cual deberán acompañar a su aviso la referencia de los documentos siguientes:
+Las personas físicas, morales o unidades económicas que realicen actividades comerciales, industriales, de servicios, y de inversión de capital, salvo disposición expresa en contrario, deberán solicitar mediante los medios electrónicos dispuestos por la Secretaría o acudiendo de forma personal ante las Oficinas Recaudadoras de Rentas, su inscripción en el Registro Estatal de Contribuyentes dentro del mes siguiente, a aquel en que realicen las situaciones jurídicas o de hecho previstas en las leyes fiscales del Estado de Quintana Roo y obtener la Licencia de Funcionamiento por cada establecimiento o sucursal, con independencia de que se encuentren ubicados en el mismo domicilio fiscal, atendiendo al giro o actividad a realizar; debiendo acompañar los documentos siguientes:
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 I.- Folio del aviso de inscripción o apertura de establecimiento realizado en el Servicio de Administración Tributaria;
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 II.- Domicilio fiscal del contribuyente y del establecimiento;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 III.- Giro o actividad;
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 IV.- En su caso, el número de licencia de bebidas alcohólicas con refrendo vigente;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 V.- En su caso, el número de operación del recibo de pago de comodato vigente;
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 VI.- En su caso, número de autorización vigente para operar como casa de empeño y préstamo;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 VII.- En su caso, número de autorización vigente para operar como prestador de servicios de seguridad privada; y
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 VIII.- Obligaciones fiscales a cargo.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+IX.- Clave Catastral;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+X.- Correo electrónico, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XI.- Folio Electrónico Registral del inmueble que ocupará el establecimiento.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 Tratándose de aumento de obligaciones se contará con tres días para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, para lo cual deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 Tratándose de disminución de obligaciones se contará con tres días para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, para lo cual deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 Tratándose de cambio de domicilio, se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, acompañándose de la referencia de los documentos siguientes:
 
@@ -5569,17 +5499,33 @@ f) En su caso, número de autorización vigente para operar como casa de empeño
 
 g) En su caso, número de autorización vigente para operar como operador de servicios de seguridad privada.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 Tratándose de cambio de giro o actividad, se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, acompañándose de la referencia de los documentos siguientes:
 
 a) Folio del aviso de actualización de actividades económicas y obligaciones del establecimiento realizado en el Servicio de Administración Tributaria; y
 
 b) Giro o actividad.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+
 Tratándose de cierre de establecimiento o suspensión de actividades se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener cancelación de la licencia de funcionamiento, para lo cual deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley y acompañar a su aviso la referencia al folio del aviso de suspensión de actividades económicas del establecimiento realizado en el Servicio de Administración Tributaria.
 
-Las licencias a que se refiere este capítulo, incluyendo las actualizadas derivadas de algún movimiento, tendrán una vigencia al 31 de diciembre de cada ejercicio fiscal y deberán renovarse en los dos primeros meses del siguiente ejercicio fiscal; en efecto, para la procedencia de lo dispuesto en este párrafo se deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Las licencias a que se refiere este Capítulo, deberán de exhibirse en lugar visible, a la vista del público en el establecimiento o local para el cual fueron expedidas, incluyendo las actualizadas derivadas de algún movimiento, y tendrán una vigencia al 31 de diciembre de cada ejercicio fiscal y deberán renovarse en los dos primeros meses del siguiente ejercicio fiscal; en efecto, para la procedencia de lo dispuesto en este párrafo se deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 La Secretaría se reserva la facultad de verificar mediante la inspección al establecimiento que la información proporcionada para la obtención de la licencia de Funcionamiento o sus cambios y actualizaciones son auténticos, contrario a esto se impondrán las infracciones a que se refiere el Código Fiscal del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+No se encuentran obligados a obtener Licencia de Funcionamiento, las personas físicas o morales que contraten personal por obra y tiempo determinado en obras de construcción, edificaciones de obra, acabados, modificaciones y/o remodelaciones.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+En caso de que el contribuyente fallezca, un tercero legalmente autorizado, podrá solicitar el cierre de establecimiento o suspensión de actividades, quien deberá acompañar el acta de defunción correspondiente en copia certificada, sujetándose a lo dispuesto en el artículo 139-A del Código Fiscal del Estado de Quintana Roo, en vigor.
 
 ###### ARTICULO 173.
 
@@ -7127,6 +7073,10 @@ XII.- Trámite de titulación 2.00 UMA.
 
 XIII.- Por dictámenes técnicos en agrimensura o planimetría, se aplicarán las tarifas establecidas en las fracciones VII y IX de este capítulo.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XIV.- Constancia de Actualización de Datos Catastrales: 8 veces la UMA
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO VIII. DE LA VERIFICACION, CONTROL Y FISCALIZACION DE OBRA PUBLICA
@@ -7225,7 +7175,7 @@ XV.- Bancos de extracción de materiales pétreos, de 0.05 UMA hasta 1.50 UMA po
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XVI.- Todos aquellos inmuebles cuya superficie de terrenos sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a 1,000 m2 , de 0,05 UMA hasta 1.5 UMA, por metro cuadrado de la superficie de construcción.
+XVI.- Todos aquellos inmuebles cuya superficie de terrenos sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a 1,000 m2, de 0,05 UMA hasta 1.5 UMA, por metro cuadrado de la superficie de construcción.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
@@ -7949,9 +7899,9 @@ IV.- Otras legalizaciones o certificaciones. 1.73 UMA.
 
 V.- Copias certificadas derivadas de Convenios transaccionales, exhortos y autorizaciones para escrituraciones, 9 UMA.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-VI.- Por expedición de copias certificadas a cargo del Poder Judicial, 1 UMA.
+VI.- Por expedición de copias certificadas a cargo del Poder Judicial y del Tribunal de Justicia Administrativa, 1 UMA
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -8821,39 +8771,37 @@ VIII.- Por análisis y resolución del informe y bitácora anual del Plan de Man
 
 (DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARÍA DE EDUCACIÓN Y CULTURA
+### CAPITULO XIX. SERVICIOS QUE OTORGA LA SECRETARÍA DE EDUCACIÓN
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 207-H.
 
-Los derechos por los servicios que prestan la Secretaría de Educación y Cultura, se pagarán conforme a los apartados siguientes:
+Los derechos por los servicios que presta la Secretaría de Educación, se pagarán conforme a los apartados siguientes:
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 A. Los derechos por los servicios que presta en materia de educación se pagarán conforme la siguiente:
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-I. Reconocimiento de validez oficial de estudios a particulares para impartir educación media Superior. 400 UMA.
+I. Reconocimiento de validez oficial de estudios a particulares para impartir educación media superior. 200 UMA.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-II. Reconocimiento de validez oficial de estudios a particulares para impartir educación superior. 500 UMA.
+II. Reconocimiento de validez oficial de estudios a particulares para impartir educación superior. 250 UMA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-III. Análisis y calificación para el seguimiento y control escolar en cada ciclo escolar, por alumno de bachillerato o educación superior. 4 UMA.
-
-Este derecho deberá pagarse dentro de los primeros veinte días de inicio de cada ciclo escolar.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV. Refrendo y/o actualización del acuerdo de incorporación de bachillerato o educación superior. 150 UMA.
+III. Análisis y calificación para el seguimiento y control escolar en cada ciclo escolar, por alumno de bachillerato o educación superior. 2 UMA.
 
 Este derecho deberá pagarse dentro de los primeros veinte días de inicio de cada ciclo escolar.
+
+IV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
@@ -8875,9 +8823,9 @@ VIII. Trámite de equivalencia o revalidación de estudios de bachillerato, lice
 
 IX. Legalización de firmas y/o apostilla de documentos académicos de todos los niveles 2.00 UMA.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-X. Reconocimiento de validez oficial de estudios a particulares para impartir educación técnica o capacitación para el trabajo 300 UMA.
+X. Reconocimiento de validez oficial de estudios a particulares para impartir educación técnica o capacitación para el trabajo. 150 UMA.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
@@ -8887,11 +8835,15 @@ XI. Expedición de diplomas de educación técnica o capacitación para el traba
 
 XII. Análisis y calificación para el Registro de Colegios de Profesionistas autorizados por la Secretaría de Educación y Cultura. 11 UMA.
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+
 B.- Los derechos por los servicios que presta en materia de cultura se pagarán conforme la siguiente:
 
 TARIFA
 
-I.- Por la renta de espacios pertenecientes a la Secretaría de Educación y Cultura se cobrará de acuerdo a la siguiente tarifa:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+I.- Por la renta de espacios pertenecientes a la Secretaría de Educación se cobrará de acuerdo a la siguiente tarifa:
 
 En la Zona Sur:
 
@@ -8999,7 +8951,9 @@ d) En Kantunilkin EXENTO EXENTO
 
 e) En Holbox EXENTO EXENTO
 
-En lo relativo a la impartición de los talleres de Lengua Maya, la Secretaría de Educación y Cultura deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+En lo relativo a la impartición de los talleres de Lengua Maya, la Secretaría de Educación deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
 
 ZONA SUR
 
@@ -9023,7 +8977,9 @@ f).- En Sabán EXENTO EXENTO
 
 g).- Nicolás Bravo EXENTO EXENTO
 
-Con respecto a las tarifas de la tabla anterior, la Secretaría de Educación y Cultura deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Con respecto a las tarifas de la tabla anterior, la Secretaría de Educación deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
@@ -9041,25 +8997,21 @@ H BIS.- Los derechos por los servicios que presta el organismo descentralizado d
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-I.- Análisis y calificación para la autorización a particulares para impartir Educación Preescolar, Primaria y Secundaria. 350 UMA.
+I.- Análisis y calificación para la autorización a particulares para impartir educación preescolar, primaria y secundaria. 175 UMA.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-II.- Análisis y calificación para la autorización a particulares para impartir Educación Normal 500 UMA.
+II.- Análisis y calificación para la autorización a particulares para impartir educación normal. 250 UMA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-III.- Análisis y calificación para el seguimiento y control escolar a particulares que imparten educación preescolar, primaria, secundaria y normal, en cada ciclo escolar, por alumno. 1.50 UMA.
-
-Este derecho deberá pagarse en los Servicios Educativos del Estado de Quintana Roo dentro de los primeros 20 días de inicio de cada ciclo escolar.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-IV.- Refrendo y/o Actualización del acuerdo de incorporación a particulares que imparten educación preescolar, primaria, secundaria y normal, en cada ciclo escolar. 60 UMA.
+III.- Análisis y calificación para el seguimiento y control escolar a particulares que imparten educación preescolar, primaria, secundaria y normal, en cada ciclo escolar, por alumno. 1 UMA.
 
 Este derecho deberá pagarse en los Servicios Educativos del Estado de Quintana Roo dentro de los primeros 20 días de inicio de cada ciclo escolar.
+
+IV.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
@@ -9248,6 +9200,14 @@ I. Por la Inscripción anual al Padrón de contratistas del Estado de Quintana R
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 II. Por concepto de renovación de la inscripción 10 UMA
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+III.- Revisión y Análisis de los documentos de la concesión del servicio público de transporte.
+
+20 UMA.
+
+Este derecho se deberá pagar dentro de los dos primeros meses de cada año.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2010)</small>
 
@@ -9547,15 +9507,15 @@ Esta tarifa será aplicable para las ediciones ordinarias. Para las extraordinar
 
 El pago por los servicios señalados en el presente artículo, se harán previamente a la publicación solicitada.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO XXXII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA
+### CAPITULO XXXII. SERVICIOS QUE OTORGA LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 207-Y.
 
-Por los servicios que presta la Secretaría de Desarrollo Urbano y Vivienda, causarán derechos con base a la siguiente:
+Por los servicios que presta la Secretaría de Desarrollo Territorial Urbano Sustentable, causarán derechos con base a la siguiente:
 
 TARIFA
 
@@ -9577,11 +9537,11 @@ IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2014)
 
 V. Por elaboración de croquis 2.75 UMA.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 207-Y
 
-BIS.- Por los servicios que presta la Secretaría de Desarrollo Urbano y Vivienda en materia de operaciones inmobiliarias, se causarán derechos en base a la siguiente tarifa:
+Bis.- Por los servicios que presta la Secretaría de Desarrollo Territorial Urbano Sustentable, en materia de operaciones inmobiliarias, se causarán derechos en base a la siguiente tarifa:
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
@@ -9679,11 +9639,11 @@ Cuando el Gobierno del Estado sea poseedor de un derecho de explotación del Ser
 
 Dichas cuotas se enterarán por los usufructuarios directamente ante las Oficinas Recaudadoras de Rentas de la Secretaría.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 209
 
-BIS.- Por la venta de lotes, no sujetas a lo dispuesto en los artículos 208 y 209 de esta Ley, a través de la Secretaría de Desarrollo Urbano y Vivienda, se pagarán, de acuerdo a su uso o destino, de conformidad a la siguiente clasificación:
+BIS.- Por la venta de lotes, no sujetas a lo dispuesto en los artículos 208 y 209 de esta Ley, a través de la Secretaría de Desarrollo Territorial Urbano Sustentable, se pagarán, de acuerdo a su uso o destino, de conformidad a la siguiente clasificación:
 
 I. Lote habitacional
 
@@ -9951,9 +9911,9 @@ I.- IMPUESTOS
 
 4.- Impuesto sobre producción de Azúcar, Piloncillo, Mieles cristalizables e incristalizables.
 
-5.- A la compra/venta de primera mano de Azúcar, Piloncillo, Mieles cristalizables e incristalizables.
+5.- A la compraventa de primera mano de Azúcar, Piloncillo, Mieles cristalizables e incristalizables.
 
-6.- A la compraventa de primera mano de productos agrícolas.
+6.- A la compra/venta de primera mano de productos agrícolas.
 
 7.- Compraventa o permuta de Ganados o sus esquilmos.
 
@@ -10295,7 +10255,7 @@ También se consideran como derechos para los efectos de este Artículo, las con
 
 SEGUNDO.- Tratándose de empresas dedicadas a la construcción que deseen efectuar la contribución del impuesto sobre nóminas en una sola exhibición en forma anticipada, siempre y cuando se tratare de obra privada, se aplicarán los valores y porcentajes publicados en el Diario Oficial de la Federación del costo de mano de obra por metro cuadrado para obra privada, mismo que se publica de forma anual a petición de la Dirección de Afiliación y Cobranza del Instituto Mexicano del Seguro Social.
 
-TERCERO.- Los contribuyentes del Impuesto al Hospedaje, cuando presten servicios bajo el sistema denominado "TODO INCLUIDO", por el cual el pago de la contra prestación contemple servicios adicionales al de hospedaje, tales como alimentación, transportación y otros similares, calcularán el impuesto considerando como base gravable únicamente el importe correspondiente al albergue y deberán cumplir con las obligaciones que se establecen en el Capítulo XII-A del Titulo II de la Ley de Hacienda del Estado, de tal forma que el sistema contable que lleven, permita identificar el importe correspondiente al servicio del hospedaje y desglosarlo en el comprobante que ampare los servicios prestados. El contribuyente podrá estimar el importe relativo al servicio de hospedaje dentro del sistema "Todo Incluido", sin que en ningún caso pueda ser inferior al 50% del monto total de los servicios comprendidos bajo este sistema, excluyendo las propinas y los impuestos que se trasladen al consumidor.
+TERCERO.- Los contribuyentes del Impuesto al Hospedaje, cuando presten servicios bajo el sistema denominado "TODO INCLUIDO", por el cual el pago de la contra prestación contemple servicios adicionales al de hospedaje, tales como alimentación, transportación y otros similares, calcularán el impuesto considerando como base gravable únicamente el importe correspondiente al albergue y deberán cumplir con las obligaciones que se establecen en el Capítulo XII-A del Título II de la Ley de Hacienda del Estado, de tal forma que el sistema contable que lleven, permita identificar el importe correspondiente al servicio del hospedaje y desglosarlo en el comprobante que ampare los servicios prestados. El contribuyente podrá estimar el importe relativo al servicio de hospedaje dentro del sistema "Todo Incluido", sin que en ningún caso pueda ser inferior al 50% del monto total de los servicios comprendidos bajo este sistema, excluyendo las propinas y los impuestos que se trasladen al consumidor.
 
 CUARTO.- Debido a la reforma realizada al artículo 172 de esta Ley, todas las personas físicas y morales que renoven (sic) su licencia de funcionamiento en los años 2003 y 2004, tendrán una vigencia a partir de la renovación de la misma y finalizará cuando el contribuyente presente el aviso de baja ante la Secretaría de Hacienda.
 
@@ -11169,7 +11129,7 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 15 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 370 POR EL QUE SE REFORMAN LOS ARTÍCULOS 176 FRACCIÓN II INCISOS D), E) Y ÚLTIMO PÁRRAFO Y LA FRACCIÓN V; 203-BIS INCISO I), EL ARTÍCULO 207-R Y LA DENOMINACIÓN DE LA SECCIÓN ÚNICA “DE LOS SERVICIOS ESPECIALES DE VIGILANCIA” DEL CAPÍTULO XXXI “POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE GOBIERNO” DEL TÍTULO III “DE LOS DERECHOS” PARA PASAR A SER UNA SECCIÓN PRIMERA; SE ADICIONA: LA SECCIÓN SEGUNDA DENOMINADA “DE LOS SERVICIOS DEL PERIÓDICO OFICIAL DEL ESTADO” AL CAPÍTULO XXXI “POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE GOBIERNO” DEL TÍTULO III “DE LOS DERECHOS” QUE CONTENDRÁ EL ARTÍCULO 207-X-BIS; Y SE DEROGAN: EL CAPÍTULO III DENOMINADO “DEL IMPUESTO SOBRE NÓMINAS” DEL TÍTULO II “DE LOS IMPUESTOS” QUE CONTIENE LAS SECCIONES PRIMERA A CUARTA Y LOS ARTÍCULOS 39 AL 48, LA SECCIÓN TERCERA DENOMINADA “DEL PERIÓDICO OFICIAL DEL ESTADO” DEL TÍTULO IV “DE LOS PRODUCTOS” QUE CONTIENE EL ARTÍCULO 211 Y EL INCISO C) DEL ARTÍCULO 218; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 370 POR EL QUE SE REFORMAN LOS ARTÍCULOS 176 FRACCIÓN II INCISOS D), E) Y ÚLTIMO PÁRRAFO Y LA FRACCIÓN V; 203-BIS INCISO I), EL ARTÍCULO 207-R Y LA DENOMINACIÓN DE LA SECCIÓN ÚNICA "DE LOS SERVICIOS ESPECIALES DE VIGILANCIA" DEL CAPÍTULO XXXI "POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE GOBIERNO" DEL TÍTULO III "DE LOS DERECHOS" PARA PASAR A SER UNA SECCIÓN PRIMERA; SE ADICIONA: LA SECCIÓN SEGUNDA DENOMINADA "DE LOS SERVICIOS DEL PERIÓDICO OFICIAL DEL ESTADO" AL CAPÍTULO XXXI "POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE GOBIERNO" DEL TÍTULO III "DE LOS DERECHOS" QUE CONTENDRÁ EL ARTÍCULO 207-X-BIS; Y SE DEROGAN: EL CAPÍTULO III DENOMINADO "DEL IMPUESTO SOBRE NÓMINAS" DEL TÍTULO II "DE LOS IMPUESTOS" QUE CONTIENE LAS SECCIONES PRIMERA A CUARTA Y LOS ARTÍCULOS 39 AL 48, LA SECCIÓN TERCERA DENOMINADA "DEL PERIÓDICO OFICIAL DEL ESTADO" DEL TÍTULO IV "DE LOS PRODUCTOS" QUE CONTIENE EL ARTÍCULO 211 Y EL INCISO C) DEL ARTÍCULO 218; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO".]
 
 PRIMERO. En tanto el Estado de Quintana Roo permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
 
@@ -11326,3 +11286,83 @@ Para los efectos de coordinación con las Entidades, se considerarán derechos, 
 También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las características de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
 TERCERO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que se contrapongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO NÚMERO: 133 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1o. de enero de 2018, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En tanto el Estado de Quintana Roo permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I. IMPUESTOS
+
+1. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+2. Sobre productos y rendimientos de capital de manera parcial.
+
+3. Al comercio y la industria.
+
+4. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+5. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre la compraventa de primera mano de productos agrícolas.
+
+7. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+8. Sobre la cría de ganado.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II. DERECHOS
+
+A. Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+a) Licencias de construcción.
+
+b) Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+c) Licencias para fraccionar o lotificar terrenos.
+
+d) Licencias para conducir vehículos.
+
+e) Expedición de placas y tarjeta para la circulación de vehículos.
+
+f) Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+g) Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B. Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+a) Registro civil.
+
+b) Registro de la Propiedad y del Comercio.
+
+C. Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D. Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
+
+Las certificaciones de documentos así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, se entenderá que limita la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.
+
+También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+TERCERO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+CUARTO. Las obligaciones y derechos derivados del Capítulo XII-A del Título II que se deroga de la Ley de Hacienda del Estado de Quintana Roo que hubieran nacido durante su vigencia, por la realización de las situaciones jurídicas o de hecho previstas en sus disposiciones, deberán ser cumplidas en las formas y plazos establecidos en dichas disposiciones que se derogan.
