@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-03"
-last_updated: "2017-07-19"
+last_updated: "2017-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 3 de mayo de 2016.
 
@@ -1613,6 +1613,22 @@ f) En su caso, las sentencias, ejecutorias o suspensiones judiciales que existan
 
 g) El número de quejas, denuncias y Recursos de Revisión dirigidos a cada uno de los sujetos obligados.
 
+> <small>(ADICIONADA [N. DE E. CON LOS INCISOS QUE LA INTEGRAN] , P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+V. En el caso del Tribunal de Justicia Administrativa del Estado de Quintana Roo:
+
+a) Las tesis y ejecutorias publicadas en el órgano oficial de difusión del Tribunal de Justicia Administrativa del Estado de Quintana Roo, incluyendo tesis jurisprudenciales y aisladas;
+
+b) Las versiones públicas de las sentencias que sean de interés público;
+
+c) Las versiones estenográficas de las versiones públicas;
+
+d) La lista de acuerdos que emita el Pleno del Tribunal;
+
+e) La relacionada con los procesos por medio de los cuales fueron designados los Magistrados, y
+
+f) Los programas de mejora continua y capacitación.
+
 ###### Artículo 98.
 
 Además de lo señalado en el artículo 91 de la presente Ley, las instituciones públicas de educación superior dotadas de autonomía, deberán poner a disposición del público y actualizar la siguiente información:
@@ -2838,3 +2854,27 @@ SEGUNDO. Las reformas y adiciones a la Ley Orgánica del Tribunal Electoral de Q
 TERCERO. A la entrada en vigor del presente decreto, quien se encuentre ejerciendo las funciones de contraloría interna del Poder Legislativo asumirá las funciones del órgano interno que se crea, hasta en tanto se realiza la designación del Titular del Órgano Interno de Control del Poder Legislativo del Estado.
 
 CUARTO. Los titulares de los Órganos Internos de Control de los órganos autónomos reconocidos por la Constitución Política del Estado Libre y Soberano de Quintana Roo que resulten designados en virtud del presente Decreto, iniciarán sus funciones de conformidad con lo previsto en el presente Decreto hasta el primero de enero del año dos mil dieciocho.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 141 POR El QUE SE EXPIDE EL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE DEROGAN·Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO Y A LA LEY DE TAANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el lo. de enero del año 2018, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Quintana Roo, expedida mediante Decreto Número 089 de la XV Legislatura del Estado, publicado en el Periódico Oficial del Estado en fecha 19 de julio de 2017, excepto las disposiciones relativas a la designación de Magistrados del Tribunal de Justicia Administrativas (sic), en tanto se concluye el procedimiento y se realice la protesta correspondiente.
+
+TERCERO. La Ley del Procedimiento Administrativo del Estado de Quintana Roo, expedida mediante Decreto Número 335 de la XII Legislatura del Estado, publicado en el Periódico Oficial del Estado en fecha 5 de noviembre de 2010 y la Ley de Justicia Administrativa del Estado de Quintana Roo, expedida mediante Decreto Número 123 de la X Legislatura del Estado, publicado en el Periódico Oficial del Estado de fecha 24 de agosto de 2004, quedarán abrogadas para efectos de su aplicación en los procedimientos que se inicien a partir de la entrada en vigor del presente Código.
+
+Las autoridades administrativas del Estado y los Municipios y la Sala Constitucional del Tribunal Superior de Justicia del Estado, deberán sustanciar y concluir aquellos procedimientos administrativos, así como los recursos iniciados que se encuentren sometidos a su conocimiento, de conformidad con las leyes a que se refiere el párrafo anterior y las disposiciones que mediante el presente decreto se reforman y derogan de la Ley de los Municipios del Estado de Quintana Roo, aplicables al momento de su interposición.
+
+CUARTO. De manera inmediata a la entrada en vigor del presente Código, el Pleno del Tribunal de Justicia Administrativa del Estado hará la designación de los Magistrados que integren las Salas a que se refiere el Libro Tercero.
+
+QUINTO. Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Código, el Pleno del Tribunal de Justicia Administrativa del Estado emitirá el reglamento Interior y demás normatividad que resulte necesaria y solicitará su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEXTO. Los Magistrados y el titular del Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado, nombrados en virtud de las disposiciones de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado que se abroga mediante el presente decreto, continuarán en el ejercicio del cargo para el cual fueron nombrados por la Legislatura del Estado.
+
+El Secretario General de Acuerdos y demás personal jurisdiccional y administrativo nombrado de conformidad con lo establecido en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Quintana Roo que se abroga mediante el presente decreto, seguirán ejerciendo su cargo dentro del Tribunal, siempre y cuando sean compatibles con las disposiciones establecidas en el presente Código.
+
+SÉPTIMO. Los procedimientos de responsabilidad patrimonial de los que conocerá el Tribunal de Justicia Administrativa del Estado de Quintana Roo de conformidad con lo establecido en el artículo 187 fracción XVI del Código de Justicia Administrativa del Estado de Quintana Roo que se expide mediante el presente decreto, deberán ser substanciados de conformidad con la legislación en la materia (sic) en su caso se emita.
+
+OCTAVO. Se derogan todas las disposiciones que contravengan lo previsto en el presente Decreto.
