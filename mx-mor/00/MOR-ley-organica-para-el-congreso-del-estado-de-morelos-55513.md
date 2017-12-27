@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2017-08-28"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -355,13 +355,17 @@ f) En caso de que el diputado haya sido amonestado y reincida en las conductas e
 
 ### CAPÍTULO V. DE LAS LICENCIAS
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 24.
 
-El diputado que solicite licencia deberá hacerlo por escrito dirigido al Presidente de la Junta Política y de Gobierno, especificando la temporalidad de la misma, fundando y motivando su petición.
+El diputado que solicite licencia deberá hacerlo por escrito dirigido al Presidente de la Junta Política y de Gobierno.
 
-(REFORMADO, P.O. 11 DE FEBRERO DE 2009) (F. DE E., P.O. 4 DE MARZO DE 2009)
+La Junta Política y de Gobierno emitirá el dictamen correspondiente para otorgar la licencia.
 
-La Junta Política y de Gobierno emitirá el dictamen correspondiente antes de que transcurra el plazo a que se refiere el artículo 37 de la Constitución Local, y lo turnará a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, a efecto de que lo incluya en la orden del día y lo someta a la consideración del Pleno del Congreso del Estado, en la siguiente sesión a la recepción para que éste resuelva con el voto de la mayoría de los integrantes de la legislatura.
+El dictamen que conceda la licencia se enviará a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, para que sea incluido en la orden del día de la sesión inmediata del Pleno.
+
+Con el propósito de no coartar el derecho constitucional a ser votado, cuando un diputado solicite licencia temporal con motivo de postularse a otro cargo de elección popular, se le considerará separado del cargo desde el momento que lo solicite.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2009)</small>
 
@@ -577,9 +581,13 @@ La divulgación de la traducción será en los pueblos indígenas en base a los 
 
 XXX.- Expedir los nombramientos del personal que se requieren;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-XXXI.- Las demás que se deriven de esta Ley, del Reglamento y de las disposiciones o acuerdos que emita el congreso del Estado.
+XXXI. En casos urgentes, a petición del diputado Presidente de una Comisión Ordinaria, someter a consideración de la Asamblea, un dictamen de trascendencia social, política o económica para el Estado, que se discuta y vote directamente en el Pleno, y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XXXII. Las demás que se deriven de esta Ley, del Reglamento y de disposiciones o acuerdos que emita el Congreso del Estado.
 
 ###### Artículo 37.
 
@@ -2951,8 +2959,18 @@ SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicac
 
 P.O. 28 DE AGOSTO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL DOSCIENTOS ONCE POR EL QUE SE ADICIONA UN CAPÍTULO VI AL TÍTULO TERCERO Y LOS ARTÍCULOS 26 BIS Y 26 TER DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL DOSCIENTOS ONCE POR EL QUE SE ADICIONA UN CAPÍTULO VI AL TÍTULO TERCERO Y LOS ARTÍCULOS 26 BIS Y 26 TER DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE MORELOS”.]
 
 PRIMERA. El presente Decreto entrará en vigor el 31 de agosto de 2017.
 
 SEGUNDA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CUATROCIENTOS NOVENTA Y SIETE.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y EL REGLAMENTO, AMBOS PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERA. Una vez aprobado en el Pleno de este Congreso, remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
