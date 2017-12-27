@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-la-auditoria-superior-del-estado-de-sinaloa-60836"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-23"
-last_updated: "2017-10-09"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 23 de abril de 2008.
 
@@ -53,9 +53,17 @@ II. La verificación de los resultados de la gestión financiera de todos los en
 
 III. La formulación de las observaciones que procedan y expedir los finiquitos o, en su caso, a dictar las medidas tendentes a fincar las responsabilidades a quienes les sean imputables;
 
-IV. Instituir los medios de defensa correspondientes; y,
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-V. La organización, funcionamiento y procedimientos de la Auditoría Superior del Estado.
+IV. La revisión de la contratación, destino y ejercicio de los recursos provenientes de financiamientos contratados por el Estado y los municipios, en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y la Ley de Deuda Pública para el Estado de Sinaloa.
+
+V. Instituir los medios de defensa correspondientes; y,
+
+VI. La organización, funcionamiento y procedimientos de la Auditoría Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Para efectos de este artículo, la Auditoría Superior del Estado podrá fiscalizar las operaciones que involucren recursos públicos a través de contrataciones, subsidios, transferencias, donativos, fideicomisos, fondos, mandatos, contratos de colaboración público privadas o cualquier otra figura jurídica y el otorgamiento de garantías sobre empréstitos al Estado y Municipios, entre otras operaciones.
 
 ###### Artículo 2.
 
@@ -219,6 +227,10 @@ XXXI. Tribunal: Tribunal de Justicia Administrativa; y,
 
 XXXII. Unidad Técnica de Evaluación: Área encargada de auxiliar a la Comisión de Fiscalización en la vigilancia y evaluación del desempeño de la Auditoría Superior del Estado.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Las definiciones previstas en los artículos 2 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y 4 de la Ley General de Contabilidad Gubernamental, serán aplicables a la presente Ley.
+
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 5.
@@ -229,11 +241,11 @@ La fiscalización superior que realice la Auditoría Superior del Estado, se eje
 
 Son sujetos de fiscalización las entidades fiscalizables a que se refiere esta Ley. La Auditoría Superior del Estado, sólo será fiscalizada por el Congreso del Estado conforme a su Ley Orgánica; los partidos políticos serán fiscalizados en los términos de la Constitución Política del Estado y de la Ley Electoral para el Estado de Sinaloa.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 7.
 
-A falta de disposición expresa en esta Ley, se aplicará en forma supletoria y en lo conducente la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, Ley General de Responsabilidades Administrativas, Ley General del Sistema Nacional Anticorrupción, así como la Ley de Responsabilidades Administrativas, Ley del Sistema Anticorrupción, Ley de Justicia Administrativa; Código de Procedimientos Civiles; Código Civil; Código Fiscal, Código Fiscal Municipal; Ley de Hacienda; Ley de Hacienda Municipal; Ley de Presupuesto, Contabilidad y Gasto Público; y Ley de Deuda Pública, todas del Estado de Sinaloa.
+A falta de disposición expresa en esta Ley, se aplicará en forma supletoria y en lo conducente la Ley de Justicia Administrativa, el Código de Procedimientos Civiles, la Ley de Responsabilidades Administrativas, el Código Civil, el Código Fiscal, la Ley de Hacienda, la Ley de Hacienda Municipal, La Ley de Presupuesto y Responsabilidad Hacendaria, y la Ley de Deuda Pública, todas del Estado de Sinaloa, así como la Ley de Disciplina Financiera de la (sic) Entidades Federativas y los Municipios.
 
 ## Título Segundo. De la Auditoría Superior del Estado
 
@@ -259,9 +271,9 @@ IV. Evaluar el cumplimiento final de los objetivos y metas fijados en los progra
 
 V. Verificar que las entidades fiscalizadas que hubieren recaudado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como, en el caso de los egresos con cargo a las partidas correspondientes, además con apego a las disposiciones legales reglamentarias y administrativas aplicables;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-VI. Verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y Ley General de Responsabilidades Administrativas, sus Presupuestos de Egresos, así como la Ley de Ingresos y Presupuesto de Egresos del Estado, las Leyes de Ingresos Municipales, la Ley de Presupuesto, Contabilidad y Gasto Público; la Ley de Deuda Pública; la Ley Orgánica de la Administración Pública, la Ley Orgánica del Congreso; la Ley de Gobierno Municipal; y la Ley Orgánica del Poder Judicial, todas del Estado de Sinaloa, y demás disposiciones legales y administrativas aplicables a estas materias;
+VI. Verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con sus Presupuestos de Egresos, la Ley de Ingresos y Presupuesto de Egresos del Estado, las Leyes de Ingresos Municipales, la Ley de Presupuesto y Responsabilidad Hacendaria, la Ley de Deuda Pública, la Ley Orgánica de la Administración Pública, la Ley Orgánica del Congreso, la Ley de Gobierno Municipal, la Ley Orgánica del Poder Judicial, todas del Estado de Sialoa (sic), la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y demás disposiciones legales y administrativas aplicables a estas materias;
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -1581,17 +1593,41 @@ II. La contratación de los financiamientos y otras obligaciones de acuerdo a la
 
 III. El cumplimiento de inscribir y publicar la totalidad de sus financiamientos y otras obligaciones en el registro público único establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+### Capítulo Décimo. De la Fiscalización de la Deuda Pública del Estado y los Municipios
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 75 Bis I. La Auditoría Superior del Estado realizará la fiscalización de todos los instrumentos de crédito público y de los financiamientos y otras obligaciones contratados por el Estado y los municipios; para verificar si están en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Sinaloa. Además, verificará el destino y ejercicio de los recursos correspondientes a la deuda pública contratada que hayan realizado el gobierno estatal y los gobiernos municipales.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 75 Bis J. La Auditoría Superior del Estado verificará que se hayan cumplido los principios, criterios y condiciones para asumir la contratación de deuda pública; incluyendo los gastos que se deriven del proceso, que los pasivos se formalizaron conforme a las bases que estableció la Legislatura en los Decretos correspondientes y que se contrataron los financiamientos y otras obligaciones por los conceptos y hasta por el monto y límite aprobados por la Legislatura.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 75 Bis K. La Auditoría Superior del Estado revisará que el mecanismo jurídico empleado como fuente de pago de las obligaciones no genere gastos administrativos superiores a los costos promedio en el mercado; asimismo que la contratación de los empréstitos se dé bajo las mejores condiciones de mercado, así como que se hayan destinado los recursos a una inversión pública productiva, reestructura o refinanciamiento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 75 Bis L. Si del ejercicio de las facultades de fiscalización se encontrara alguna irregularidad, será aplicable el régimen de responsabilidades administrativas, debiéndose accionar los procesos sancionatorios correspondientes.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 75 Bis M. Para efecto de lo dispuesto en este Capítulo, son financiamientos o empréstitos contratados por el Gobierno del Estado y municipios, conforme a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Artículo 75 Bis N. La Auditoría Superior del Estado con base en el convenio de coordinación verificará y fiscalizará la instrumentación, ejecución y resultados de las estrategias de ajuste convenidas para fortalecer las finanzas públicas del Estado y los municipios, con base en la Ley de la materia y en los convenios que para ese efecto el Estado haya suscrito con los municipios, para la obtención de la garantía del Gobierno Federal.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2017)</small>
-
-### Capítulo Primero. De la Determinación de Daños y Perjuicios contra la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ## Título Quinto. De la Determinación de Daños
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-### Capítulo Segundo. De las Actuaciones Procesales de la Auditoría Superior del Estado
+### Capítulo Primero. De la Determinación de Daños y Perjuicios contra la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -1675,7 +1711,7 @@ La Auditoría Superior del Estado, en los términos de la Ley General del Sistem
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-### Capítulo Tercero. Del Órgano Interno de Control de la Auditoría Superior del Estado
+### Capítulo Segundo. De las Actuaciones Procesales de la Auditoría Superior del Estado
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -1753,7 +1789,9 @@ Artículo 94 Bis E. (DEROGADO, P.O. 9 DE OCTUBRE DE 2017)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2017)</small>
 
-### Capítulo Primero. Del Recurso de Revocación
+### Capítulo Tercero. Del Órgano Interno de Control de la Auditoría Superior del Estado
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 95.
 
@@ -1825,9 +1863,7 @@ Los servidores públicos adscritos al órgano interno de control de la Auditorí
 
 ## Título Sexto. De los Medios de Defensa
 
-### Capítulo Segundo. De la Prescripción de Responsabilidades
-
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+### Capítulo Primero. Del Recurso de Revocación
 
 ###### Artículo 97.
 
@@ -1955,9 +1991,9 @@ VI. Ordenar la reposición del procedimiento.
 
 La resolución que recaiga al recurso de revocación interpuesto ante la Auditoría Superior del Estado, podrá ser impugnada ante la autoridad competente.
 
-### Capítulo Único
+### Capítulo Segundo. De la Prescripción de Responsabilidades
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 110.
 
@@ -1980,6 +2016,10 @@ En todos los casos, la prescripción a que alude el artículo 110, se interrumpi
 ## Título Séptimo. De la Contraloría Social
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2017)</small>
+
+### Capítulo Único
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### Artículo 113.
 
@@ -2180,3 +2220,11 @@ Al momento de que el Congreso del Estado realice el nombramiento del titular de 
 SÉPTIMO. Para efecto de lo señalado en el artículo 22, fracción XXVI, relativo a la comparecencia del Auditor Superior del Estado en funciones para una evaluación exhaustiva de su desempeño, ésta regirá a partir de la revisión del ejercicio fiscal 2017 y se dará en un plazo no mayor a 30 días, ni menor a 20 días hábiles posteriores a que concluya el procedimiento de revisión de cuentas públicas por el Pleno del Congreso del Estado.
 
 Siendo la Comisión de Fiscalización a través de su Presidente quien le cite a comparecer.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 332 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CONTRATOS DE COLABORACIÓN PÚBLICO PRIVADA, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE LA AUDITORÍA SUPERIOR Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
