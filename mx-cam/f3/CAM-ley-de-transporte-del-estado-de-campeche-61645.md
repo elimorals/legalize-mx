@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-transporte-del-estado-de-campeche-61645"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2016-07-22"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -181,19 +181,33 @@ I. Servicio de transporte de pasajeros; y
 
 II. Servicio de transporte de carga.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 14.
 
 El servicio de transporte de pasajeros puede prestarse en cualquiera de las siguientes modalidades:
 
-I. Servicio Público:
+I. Servicio Público General:
 
-A. Autobús o Colectivo;
+A. Autobús o Colectivo; y
 
-B. De Alquiler; y
+B. De Alquiler;
 
-C. Triciclos, motocicletas y cuatrimotos adaptados;
+II. Servicio Público Especial:
 
-II. Servicio Mercantil:
+A. Mototaxis; y
+
+B. Tricitaxis
+
+III. Servicio Mercantil:
+
+A. Escolar;
+
+B. De personal; y
+
+C. Especializado, el que como tal determine el Reglamento
+
+IV. Servicio Privado:
 
 A. Escolar;
 
@@ -201,15 +215,7 @@ B. De personal; y
 
 C. Especializado, el que como tal determine el Reglamento.
 
-III. Servicio Privado:
-
-A. Escolar;
-
-B. De personal; y
-
-C. Especializado, el que como tal determine el Reglamento.
-
-IV. Servicio Particular.
+V. Servicio Particular.
 
 ###### ARTÍCULO 15.
 
@@ -351,7 +357,9 @@ XX. Expedir certificaciones para operar vehículos del servicio público de tran
 
 XXI. Realizar la inspección, verificación, vigilancia y control del servicio público de transporte, incluido el parque vehicular, infraestructura y equipo auxiliar;
 
-XXII. Ordenar la práctica de visitas de inspección para la verificación del cumplimiento de las disposiciones en materia de transporte;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+XXII. Ordenar la práctica de visitas de inspección para la verificación del cumplimiento de las disposiciones en materia de transporte; así como recepcionar y dar seguimiento a las quejas presentadas por los usuarios.
 
 XXIII. Instaurar, substanciar, resolver y ejecutar procedimientos administrativos con motivo de infracciones a la presente Ley;
 
@@ -565,7 +573,9 @@ Las unidades destinadas a la prestación del servicio público de transporte de 
 
 Para satisfacer los principios de generalidad, regularidad, seguridad y eficiencia a que debe sujetarse la prestación del servicio público de transporte, los concesionarios deberán sustituir los vehículos autorizados para la prestación del servicio con la periodicidad que señale el Reglamento de esta Ley y el título de concesión correspondiente.
 
-En ningún caso podrá prestarse el servicio público de transporte de pasajeros con vehículos cuyo año modelo sea superior a 10 años para la modalidad a que se refiere los apartados A y B; así como 5 años para la modalidad a que se refiere el apartado C, todas ellas de la fracción I del artículo 14 de esta Ley.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+En ningún caso podrá prestarse el servicio público de transporte de pasajeros con vehículos cuyo año modelo sea superior a 10 años para la modalidad a que se refieren los apartados A y B de la fracción I, así como 5 años para la modalidad a que se refieren los apartados A y B de la fracción II del artículo 14 de esta Ley.
 
 ###### ARTÍCULO 42.
 
@@ -616,6 +626,10 @@ El servicio público de transporte únicamente podrá prestarse mediante los veh
 ###### ARTÍCULO 48.
 
 Los vehículos destinados al servicio público de transporte únicamente podrán ser operados por los conductores certificados por el Instituto e Inscritos en el Registro Público de Transporte.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+Los hechos de tránsito en los que tuvieren parte estas unidades serán incorporados en el Registro.
 
 ###### ARTÍCULO 49.
 
@@ -733,7 +747,9 @@ D. Acreditar la capacidad técnica y administrativa necesaria;
 
 E. Contar con la solvencia económica requerida.
 
-En el caso de la fracción I del artículo 14 incisos B y C las concesiones serán otorgadas de manera individual y sólo a personas físicas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+En el caso del apartado B de la fracción I, así como de los apartados A y B la fracción II del artículo 14 de esta Ley, las concesiones serán otorgadas de manera individual y sólo a personas físicas.
 
 ###### ARTÍCULO 64.
 
@@ -787,9 +803,13 @@ Las bases de la convocatoria de licitación pública considerarán lo previsto e
 
 I. La adquisición de las bases por los interesados, previo pago de los derechos correspondientes;
 
-II. El número de vehículos que cada concesión comprenda: para lo dispuesto en el artículo 14 fracción I apartado A el número de unidades por ruta que determine el estudio técnico; para lo dispuesto en los apartados B y C del mismo artículo será de una unidad.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
-III. La descripción de la ruta a concesionar en lo que corresponda a lo señalado en el apartado A del artículo 14 fracción I y el número de concesiones en lo que corresponda a lo señalado en los apartados B y C del mismo artículo;
+II. El número de vehículos que cada concesión comprenda. Para lo dispuesto en el artículo 14 fracción I apartado A, el número de unidades por ruta que determine el estudio técnico. Para lo dispuesto en el apartado B de la fracción I y en los apartados A y B de la fracción II del mismo artículo, será de una unidad;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+III. La descripción de la ruta a concesionar en lo que corresponda a lo señalado en el apartado A fracción I del artículo 14 y el número de concesiones en lo que corresponda a lo señalado en el apartado B de esa misma fracción y los apartados A y B de la fracción II del referido artículo 14;
 
 IV. Los requisitos relativos a inversión, capacidad técnica y financiera, así como de mantenimiento, conservación y renovación de equipo que deban acreditar los interesados;
 
@@ -1139,9 +1159,11 @@ Las tarifas de transporte público en todas sus modalidades, serán propuestas p
 
 Los prestadores del servicio deberán exhibir en forma permanente y en lugares visibles de sus vehículos, terminales, bases y demás infraestructura con acceso a los usuarios, la tarifa aprobada de acuerdo al servicio de que se trate.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 100.
 
-Para la propuesta de fijación o modificación de tarifas para el servicio público de transporte, el Consejo del Instituto considerará la modalidad del servicio público de transporte, el salario mínimo vigente en el Estado, el precio unitario del energético de que se trate, el índice nacional de precios al consumidor, así como todos los costos directos o indirectos que incidan en la prestación del servicio.
+Para la propuesta de fijación o modificación de tarifas para el servicio público de transporte, el Consejo del Instituto considerará la modalidad del servicio público de transporte, la Unidad de Medida y Actualización, el precio unitario del energético de que se trate, el índice nacional de precios al consumidor, así como todos los costos directos o indirectos que incidan en la prestación del servicio.
 
 Para este efecto, el Director General elaborará un dictamen previo que tomara como base los estudios técnicos correspondientes y lo someterá a consideración del Consejo.
 
@@ -1185,9 +1207,13 @@ Ningún vehículo del servicio público de transporte podrá circular en las ví
 
 El responsable y los empleados del Registro Público del Transporte, serán responsables de la guarda y reserva de los registros e información contenida en éste.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 107.
 
-Cualquier persona podrá solicitar constancias e información contenida en el Registro Público del Transporte, previo pago de los derechos correspondientes.
+Cualquier persona podrá solicitar constancias de información contenida en el Registro Público del Transporte, previo pago de los derechos correspondientes.
+
+Los datos de este Registro podrán ser consultables en la página de transparencia del Instituto con las modalidades previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche y en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Campeche.
 
 ###### ARTÍCULO 108.
 
@@ -1453,7 +1479,9 @@ V. Cuando por disposición del Instituto o de la autoridad de tránsito se deter
 
 VI. Cuando el solicitante haya sido condenado por la comisión de un delito.
 
-El operador de vehículos del servicio público de transporte que resulte privado o suspendido del derecho de uso del tarjetón, deberá entregarlo al Instituto en un plazo no mayor a tres días naturales; de no hacerlo, se hará acreedor a una multa por el importe de hasta 1000 días de salario mínimo vigente en la Entidad en ese momento.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+El operador de vehículos del servicio público de transporte que resulte privado o suspendido del derecho de uso del tarjetón, deberá entregarlo al Instituto en un plazo no mayor a tres días naturales; de no hacerlo, se hará acreedor a una multa por el importe de hasta 1000 Unidades diarias de Medida y Actualización en ese momento
 
 ###### ARTÍCULO 134.
 
@@ -1475,7 +1503,9 @@ I. Amonestación;
 
 II. Suspensión temporal;
 
-III. Multa hasta por 1000 salarios mínimos general vigente en el Estado; o
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+III. Multa hasta por 1000 Unidades diarias de Medida y Actualización
 
 IV. Revocación de la concesión, del permiso o del tarjetón.
 
@@ -1595,7 +1625,9 @@ En los casos de suspensión, el interesado podrá solicitar la devolución cuand
 
 Las infracciones en materia de transporte público serán sancionadas administrativamente por el Instituto y por la Secretaría de Seguridad Pública en el ámbito de sus respectivas competencias y se aplicaran al concesionario, permisionario, u operador del vehículo, todos ellos responderán solidariamente del pago de la sanción.
 
-La aplicación de las sanciones económicas previstas en el presente Reglamento, se aplicarán sin perjuicio de las causas de remisión de las unidades a los depósitos vehiculares, la revocación de la concesión o permiso y de la responsabilidad penal o civil que resulte de la comisión de las conductas descritas en este capítulo.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+La aplicación de las sanciones económicas previstas en el Reglamento, se aplicarán sin perjuicio de las causas de remisión de las unidades a los depósitos vehiculares, la revocación de la concesión o permiso y de la responsabilidad penal o civil que resulte de la comisión de las conductas descritas en este capítulo.
 
 ###### ARTÍCULO 143.
 
@@ -1740,3 +1772,19 @@ P.O. 22 DE JULIO DE 2016.
 Primero.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 251 POR EL QUE "SE REFORMAN EL ARTÍCULO 14; LA FRACCIÓN XXII DEL ARTÍCULO 25; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 41; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 63; LAS FRACCIONES II Y III DEL ARTÍCULO 67; EL PRIMER PÁRRAFO DEL ARTÍCULO 100; 107; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 133; LA FRACCIÓN III DEL ARTÍCULO 136 Y 142 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 48 TODOS DE LA LEY DE TRANSPORTE DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el 1° de enero de 2018.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Lo relativo al pago de derechos por la expedición de actas del Estado Civil al que hace referencia la fracción XIX del artículo 54 de esta Ley, se aplicará a partir de la entrada en vigor del presente decreto a la obtención en línea de las actas de nacimiento, conforme al Convenio de Coordinación y Colaboración para implementar la consulta e impresión de actas del Registro Civil de las Personas en Línea, que celebraron la Secretaría de Gobernación y el Estado de Campeche. En relación con el cobro por la expedición en línea de las demás actas del Estado Civil de las personas, este se realizará a partir de la entrada en vigor de los convenios de colaboración que se celebren al respecto.
+
+CUARTO.- Lo establecido en el segundo párrafo del artículo 70 de esta Ley, relativo a los derechos de peaje del Nuevo Puente de la Unidad, Eugenio Echeverría Castellot, entrará en vigor al día siguiente al en que entre en funcionamiento dicho puente.
+
+QUINTO.- Se concede un plazo de 120 días naturales contados a partir de la fecha de inicio de vigencia de este decreto, con el propósito de que aquellos concesionarios que tengan o hayan tenido concesión de transporte en la modalidad de Mototaxis y Tricitaxis se regularicen en el pago de sus adeudos fiscales en materia de derechos en concepto de transporte público. Los concesionarios que se adhieran a esta disposición tendrán el beneficio de enterar sus adeudos a la autoridad fiscal correspondiente, previos los trámites administrativos ante el Instituto Estatal del Transporte con las nuevas tarifas establecidas en el presente decreto.
+
+El pago de estos derechos no dará lugar a devolución alguna y estará sujeto a los plazos de prescripción establecidos en el Código Fiscal del Estado de Campeche.
