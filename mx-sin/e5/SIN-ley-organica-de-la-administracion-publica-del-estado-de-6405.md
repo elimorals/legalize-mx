@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-administracion-publica-del-estado-de-6405"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-01-05"
-last_updated: "2017-06-26"
+last_updated: "2017-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 5 de enero de 1981.
 
@@ -75,9 +75,11 @@ El Gobernador Constitucional del Estado podrá integrar Gabinete Colegiado con l
 
 Podrá asimismo convocar a reuniones a titulares de Secretarías o de organismos descentralizados o desconcentrados que incluyan o no la totalidad de los que estén en funciones, para oir su opinión colegiada en asuntos de importancia, así como para evaluar la política del Gobierno del Estado en mateira (sic) que sea de la competencia concurrente de varias dependencias o entidades de la Administración Pública.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 7.
 
-Las dependencias y entidades de la Administración Pública Estatal y Paraestatal actuarán conforme a programas y con base en las políticas, prioridades y restricciones que conforme a la Ley, para el logro de los objetivos y metas de las directrices y de los planes de Gobierno establezca el Gobernador Constitucional del Estado.
+Las dependencias y entidades de la Administración Pública Estatal y Paraestatal actuarán conforme al Plan Estatal de Desarrollo, a los programas sectoriales y a los programas institucionales, según corresponda, y que para tal efecto se aprueben, sujetándose al Presupuesto de Egresos del Estado, y con base en las políticas, prioridades y restricciones que (sic) conforme a la Ley, para el logro de los objetivos y metas de los planes y programas de Gobierno que establezca el Gobernador Constitucional del Estado.
 
 ## TITULO SEGUNDO. De la Administración Pública Estatal
 
@@ -95,9 +97,11 @@ Para ser válidos los decretos, reglamentos y acuerdos del Gobernador Constituci
 
 En los procedimientos jurisdiccionales, el Gobernador Constitucional del Estado podrá ser representado indistintamente, por la Procuraduría General de Justicia o por la dependencia a que corresponda el asunto, según la distribución de competencias, por conducto de funcionario competente.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 11.
 
-Corresponde a los Titulares de las Dependencias la ejecución de los acuerdos y el trámite y resolución de los asuntos de su competencias (sic); pero para la mejor organización del trabajo, podrán delegar en los funcionarios a que se refieren los Artículos 12 y 15 cualesquiera de sus facultades, con excepción de las que por disposición de la Ley o del Reglamento respectivo, deban ser ejercidas precisamente por dichos titulares.
+Corresponde a los Titulares de las Dependencias la ejecución de los acuerdos y el trámite y resolución de los asuntos de su competencia; pero para la mejor organización del trabajo, podrán delegar en los funcionarios a que se refieren los artículos 12 y 15 cualesquiera de sus facultades, con excepción de las que por disposición de la Ley o del Reglamento respectivo, deban ser ejercidas precisamente por dichos titulares.
 
 ###### ARTICULO 12.
 
@@ -151,9 +155,13 @@ Al frente de cada Secretaría habrá un Secretario, quien para el despacho de lo
 
 Para ser Secretario o Sub-Secretario se requerirá ser ciudadano mexicano en el ejercicio de sus derechos, poseer la capacidad necesaria a juicio del Gobernador del Estado, tener 30 años cumplidos y no ser ministro de algún culto religioso. Cuando la Constitución exigiere mayores requisitos se estará, primeramente, a lo dispuesto en ella.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 23.
 
-Cada Secretaría ejercerá las partidas presupuestales que les sean asignadas en el Presupuesto de Egresos del Estado.
+Cada Secretaría ejercerá las partidas presupuestales que les sean asignadas en el Presupuesto de Egresos del Estado. Los titulares de las Secretarías serán responsables de que la planeación, programación, presupuestación, aprobación, ejercicio, control, seguimiento y evaluación de los ingresos y egresos públicos se realicen de conformidad con lo establecido en la Ley de Planeación y la Ley de Presupuesto y Responsabilidad Hacendaria, ambas del Estado de Sinaloa; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y en las disposiciones administrativas que para tal efecto se emitan. Asimismo, serán responsables de la aplicación y cumplimiento de la Ley General de Contabilidad Gubernamental y de las disposiciones del Consejo Nacional de Armonización Contable.
+
+Los titulares de las Secretarías serán responsables de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación del Estado y serán responsables también del cumplimiento del programa sectorial a su cargo y de que los programas presupuestarios a través de los cuales se ejerce el gasto en la Secretaría a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
 
 ### CAPITULO III. De las Entidades Administrativas
 
@@ -171,9 +179,13 @@ Al frente de cada entidad administrativa habrá un titular con la denominación 
 
 Para ser titular de una entidad administrativa será necesario satisfacer los requisitos que se establezcan en la disposición orgánica correspondiente.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 27.
 
-Cada entidad administrativa ejercerá las partidas que de su presupuesto le asigne el Gobernador Constitucional del Estado.
+Cada entidad administrativa ejercerá las partidas que de su presupuesto le asigne el Gobernador Constitucional del Estado. Los titulares de las entidades administrativas serán responsables de que la planeación, programación, presupuestación, aprobación, ejercicio, control, seguimiento y evaluación de los ingresos y egresos públicos se realicen, de conformidad con lo establecido en la Ley de Planeación y la Ley de Presupuesto y Responsabilidad Hacendaria, ambas del Estado de Sinaloa; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y en las disposiciones administrativas que para tal efecto se emitan. Asimismo, serán responsables de la aplicación y cumplimiento de la Ley General de Contabilidad Gubernamental y de las disposiciones del Consejo Nacional de Armonización Contable.
+
+Los titulares de las entidades administrativas serán responsables de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación para el Estado y serán responsables también del cumplimiento del programa institucional a su cargo y de que los programas presupuestarios a través de los cuales se ejerce el gasto en la en la (sic) entidad administrativa a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
 
 ## TITULO TERCERO. De la Administración Pública Paraestatal
 
@@ -244,6 +256,14 @@ Los demás funcionarios, serán nombrados y removidos por los titulares de estas
 ###### ARTICULO 39.
 
 Para ser titular de cualquiera de las dependencias de la Administración Pública Paraestatal se requerirá llenar los requisitos que se establezcan en la disposición orgánica respectiva.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 40.
+
+Los titulares de las dependencias de la Administración Pública Paraestatal serán responsables de que la planeación, programación, presupuestación, aprobación, ejercicio, control, seguimiento y evaluación de los ingresos y egresos públicos se realicen de conformidad con lo establecido en la Ley de Planeación y en la Ley de Presupuesto y Responsabilidad Hacendaria, ambas del Estado de Sinaloa; la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y en las disposiciones administrativas que para tal efecto se emitan. Asimismo, serán responsables de la aplicación y cumplimiento de la Ley General de Contabilidad Gubernamental y de las disposiciones del Consejo Nacional de Armonización Contable.
+
+Los titulares de las dependencias de la Administración Pública Paraestatal serán responsables de la planeación orientada a resultados, con apego en lo establecido en la Ley de Planeación para el Estado, y serán responsables también del cumplimiento del programa institucional a su cargo y de que los programas presupuestarios a través de los cuáles se ejerce el gasto en la dependencia a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
 
 TRANSITORIOS:
 
@@ -336,3 +356,11 @@ Quinto. Las referencias relativas a la Ley General de Responsabilidades Administ
 Sexto. Los Ayuntamientos, dentro de los 180 días siguientes a la publicación de este Decreto, iniciarán los procesos de designación de los titulares de los órganos internos de control que ejerzan recursos públicos, previstos en este Decreto.
 
 Lo anterior, con excepción de aquellos titulares de los órganos internos de control de los organismos que ejercen recursos públicos que se encontraban en funciones a la entrada en vigor del Decreto por el que se reforman, adicionan, y derogan diversas disposiciones de la Constitución Política del Estado de Sinaloa, en materia de combate a la corrupción, publicado en el Periódico Oficial "El Estado de Sinaloa" el 17 de marzo de 2017, los cuales continuarán en su encargo en los términos en los que fueron nombrados.
+
+P.O. 27 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 332 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CONTRATOS DE COLABORACIÓN PÚBLICO PRIVADA, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA, LEY DE LA AUDITORÍA SUPERIOR Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
