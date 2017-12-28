@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-civil-del-estado-de-durango-11470"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-17"
-last_updated: "1996-11-17"
+last_updated: "2017-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11470&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,15 @@ state: "DUR"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE DURANGO
 
-LEY DE PROTECCION CIVIL DEL ESTADO DE DURANGO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 17 de noviembre de 1996.
+LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017 (ABROGADA).
+
+Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de noviembre de 1996.
 
 EL CIUDADANO LICENCIADO MAXIMILIANO SILERIO ESPARZA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, a sus habitantes, s a b e d:
 
@@ -658,3 +662,27 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los veintinueve días del mes de Octubre de mil novecientos noventa y seis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MAXIMILIANO SILERIO ESPARZA.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. ALFREDO BRACHO BARBOSA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 322.- QUE CONTIENE LA NUEVA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE DURANGO".]
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal, emitirá el Reglamento de esta Ley en un plazo no mayor a 180 días a partir de su publicación.
+
+TERCERO.- La presente Ley abroga a la Ley General (sic) de Protección Civil, publicada en el Periódico Oficial del Estado el 29 de Octubre del año de (1996) mil novecientos noventa y seis. Decreto 161, 60 Legislatura, Periódico Oficial 40, Fecha 96/11/17.
+
+CUARTO.- Las disposiciones reglamentarias y administrativas de protección civil se seguirán aplicando en lo que no se opongan a esta Ley, en tanto se emite el Reglamento.
+
+QUINTO.- Las demás disposiciones que en materia de protección civil que se contengan en otros ordenamientos federales, serán complementarios de esta Ley, en lo que no se opongan a ella.
+
+SEXTO.- Los desastres y las emergencias que hayan ocurrido con anterioridad a la entrada en vigor de la Ley, se atenderán conforme a los recursos financieros y a las disposiciones administrativas vigentes a la fecha en que sucedieron.
+
+SÉPTIMO.- Los Presidentes Municipales, contarán con un plazo de hasta 60 días a partir de la publicación de esta Ley para dar cumplimiento a lo establecido en la presente Ley.
+
+OCTAVO.- Las autoridades municipales realizarán las gestiones conducentes con el propósito de que se realicen las adecuaciones correspondientes en las (sic) Reglamentos y demás disposiciones locales en la materia en un plazo no mayor a 180 días a partir de la publicación de esta Ley, ajustándose en todo momento a los principios y directrices de esta Ley.
+
+NOVENO.- En un plazo no mayor a 180 días a partir de la publicación de esta Ley, el Ejecutivo Estatal elaborará los lineamientos para que los Municipios puedan acceder a los recursos para cumplir con las obligaciones determinadas en la presente Ley.
