@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-obras-publicas-del-estado-de-durango-14897"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-13"
-last_updated: "2017-03-19"
+last_updated: "2017-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 13 de junio de 1999.
 
@@ -602,6 +602,22 @@ Si la dependencia, entidad o ayuntamientos, no firman el contrato respectivo, el
 El contratista, a quien se adjudique el contrato, podrá hacer ejecutar la obra por otro con autorización previa de la dependencia, entidad o ayuntamientos, podrá hacerlo respecto de las partes de la obra o cuando adquiera materiales o equipos que incluyen su instalación en la misma, excepto que se haya contemplado especificamente situación contraria en las bases de licitación.
 
 Los derechos y obligaciones que se deriven de los contratos de obra pública, no podrán cederse en forma parcial o total a favor de cualesquiera otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, previa conformidad de la dependencia, entidad o ayuntamientos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+El contratista deberá tener a la vista y por el tiempo que dure la construcción de la obra pública que realiza, fijando en la misma obra, una lona que mida 2 metros de largo por 1 metro de ancho, la cual deberá contener como mínimo la siguiente información:
+
+a) Dependencia, Entidad o Ayuntamiento contratante;
+
+b) Tipo de Contratación de la Obra Pública;
+
+c) Nombre de la Obra y Número de Contrato de la obra;
+
+d) Nombre del Contratista;
+
+e) Fecha de inicio y fecha probable de terminación de la obra, y
+
+f) Responsable de la obra.
 
 ###### ARTÍCULO 49.
 
@@ -1230,3 +1246,15 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 336.- QUE CONTIENE ADICIONES A LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
