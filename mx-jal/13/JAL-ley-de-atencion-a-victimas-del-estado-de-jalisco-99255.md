@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-victimas-del-estado-de-jalisco-99255"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2017-03-02"
+last_updated: "2017-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A VICTIMAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 27 de febrero de 2014.
 
@@ -84,6 +84,10 @@ Para los efectos de esta Ley, se consideran víctimas aquellas personas físicas
 También se consideran víctimas los grupos, comunidades u organizaciones sociales que hubieren sido afectadas en sus derechos, intereses o bienes jurídicos colectivos como resultado de la comisión de un delito o la violación de sus derechos humanos.
 
 La calidad de víctimas se adquiere con la acreditación del daño o menoscabo de los derechos en los términos establecidos en la presente Ley, con independencia de que se identifique, aprehenda, o condene al responsable del daño o bien de que la víctima participe en algún procedimiento judicial o administrativo derivado de aquel.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+La persona menor de edad en situación de orfandad con motivo de un feminicidio u homicidio, es víctima indirecta del delito.
 
 ###### Artículo 5.
 
@@ -151,6 +155,10 @@ El Estado y los municipios deberán contar con mecanismos eficaces de rendición
 
 XIX. Trato preferente. Todos los servidores públicos en el ámbito de sus respectivas competencias, tienen la obligación de garantizar el trato digno y preferente a las víctimas.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XX. Interés superior de la niñez.- Conjunto de acciones y procesos tendientes a garantizar un desarrollo integral y una vida digna, así como las condiciones materiales y afectivas que les permitan vivir plenamente y alcanzar el máximo de bienestar posible.
+
 ###### Artículo 6.
 
 Para los efectos de esta Ley, se entenderá por:
@@ -163,33 +171,69 @@ III. Daño: Muerte o lesiones corporales, daños o perjuicios morales y material
 
 IV. Delito: Al acto u omisión que sancionan las leyes penales;
 
-V. Fondo: Al Fondo Estatal de Ayuda, Asistencia y Reparación Integral de Víctimas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-VI. Hecho victimizante: A los actos u omisiones que dañan, menoscaban o ponen en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Éstos pueden estar tipificados como delito o constituir una violación a los derechos humanos reconocidos por la Constitución Federal, la particular del Estado, así como los Tratados Internacionales suscritos por el Estado Mexicano;
+V. Desplazamiento Interno: Personas o grupos de personas que se han visto forzadas u obligadas a escapar o huir de su hogar o de su lugar de residencia habitual, en particular como resultado o para evitar los efectos de un conflicto armado, de situaciones de violencia de los derechos humanos o de catástrofes naturales o provocadas por el ser humano, y que no han cruzado una frontera estatal internacionalmente reconocida.
 
-VII. Ley: A la Ley de Atención a Víctimas del Estado de Jalisco;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-VIII. Ley General: A la Ley General de Víctimas;
+VI. Fondo: Al Fondo Estatal de Ayuda, Asistencia y Reparación Integral de Víctimas;
 
-IX. Programas y acciones: Al conjunto sistemático de políticas, objetivos estrategias y actividades que realicen las autoridades competentes para el cumplimiento de la presente Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-X. Procedimientos: A los procesos seguidos ante autoridades judiciales o administrativas, para la atención y apoyo a las víctimas del delito;
+VII. Hecho victimizante: A los actos u omisiones que dañan, menoscaban o ponen en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Éstos pueden estar tipificados como delito o constituir una violación a los derechos humanos reconocidos por la Constitución Federal, la particular del Estado, así como los Tratados Internacionales suscritos por el Estado Mexicano;
 
-XI. Registro Estatal: Al Registro Estatal de Atención a Víctimas;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-XII. Reglamento: Al Reglamento de la Ley de Atención a Víctimas del Estado de Jalisco;
+VIII. Ley: A la Ley de Atención a Víctimas del Estado de Jalisco;
 
-XIII. Servicios: Al conjunto de actividades realizadas por el Estado para garantizar el cumplimiento de esta Ley y demás ordenamientos aplicables, que corresponden a las áreas médica, legal, psicológica, psiquiátrica y trabajo social;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-XIV. Servidor Público: A toda persona que realice un trabajo subordinado, físico o intelectual a las entidades públicas de los Poderes: Legislativo, Ejecutivo y Judicial y demás relativos, conforme a lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
+IX. Ley General: A la Ley General de Víctimas;
 
-XV. Sistema Estatal: Al Sistema Estatal de Atención a Víctimas del Delito o Violaciones a sus Derechos Humanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-XVI. Víctima: Persona física que directa o indirectamente, en lo individual o en colectivo, ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
+X. Programas y acciones: Al conjunto sistemático de políticas, objetivos estrategias y actividades que realicen las autoridades competentes para el cumplimiento de la presente Ley;
 
-XVII. Víctima potencial: A las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener una violación de derechos o la comisión de un delito, y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-XVIII. Violación de Derechos Humanos: A todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Federal, la particular del Estado o en los Tratados Internacionales, cuando sea imputable a un servidor público en el ejercicio de sus funciones o atribuciones o a un particular que ejerza funciones públicas.
+XI. Procedimientos: A los procesos seguidos ante autoridades judiciales o administrativas, para la atención y apoyo a las víctimas del delito;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XII. Registro Estatal: Al Registro Estatal de Atención a Víctimas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIII. Reglamento: Al Reglamento de la Ley de Atención a Víctimas del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIV. Servicios: Al conjunto de actividades realizadas por el Estado para garantizar el cumplimiento de esta Ley y demás ordenamientos aplicables, que corresponden a las áreas médica, legal, psicológica, psiquiátrica y trabajo social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XV. Servidor Público: A toda persona que realice un trabajo subordinado, físico o intelectual a las entidades públicas de los Poderes: Legislativo, Ejecutivo y Judicial y demás relativos, conforme a lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVI. Sistema Estatal: Al Sistema Estatal de Atención a Víctimas del Delito o Violaciones a sus Derechos Humanos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVII. Víctima: Persona física que directa o indirectamente, en lo individual o en colectivo, ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Víctima potencial: A las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener una violación de derechos o la comisión de un delito;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIX. Violación de Derechos Humanos: A todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución Federal, la particular del Estado o en los Tratados Internacionales, cuando sea imputable a un servidor público en el ejercicio de sus funciones o atribuciones o a un particular que ejerza funciones públicas y;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XX. Todas aquellas que señale la Ley General.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS DE LAS VÍCTIMAS
 
@@ -257,7 +301,9 @@ XXVIII. A expresar libremente sus opiniones e intereses ante las autoridades e i
 
 XXIX. Derecho a ejercer los recursos legales en contra de las decisiones que afecten sus intereses y el ejercicio de sus derechos;
 
-XXX. A que se les otorgue, en los casos que proceda, la ayuda provisional;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXX. A que se les otorgue la ayuda provisional de los programas que establece la Comisión Ejecutiva Estatal, en los términos de la presente Ley;
 
 XXXI. A recibir gratuitamente la asistencia de un intérprete o traductor de su lengua, en caso de que no comprendan el idioma español o tenga discapacidad auditiva, verbal o visual;
 
@@ -269,15 +315,27 @@ XXXIV. Los demás señalados por la Constitución, los Tratados Internacionales,
 
 ### Capítulo II. De los Derechos de Ayuda, Asistencia y Atención
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 8.
 
-Las víctimas recibirán ayuda oportuna y rápida de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades, proveyendo artículos de primera necesidad, atención médica y psicológica de emergencia, y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda inmediata se proporcionarán garantizando siempre un enfoque transversal y diferencial, procurando que la víctima supere las condiciones de necesidad inmediata.
+Las víctimas recibirán ayuda provisional, oportuna y rápida de los programas que establece la Comisión Ejecutiva Estatal de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades, proveyendo artículos de primera necesidad, atención médica y psicológica de emergencia, y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda inmediata se proporcionarán garantizando siempre un enfoque transversal y diferencial, procurando que la víctima supere las condiciones de necesidad inmediata.
 
 Las víctimas de delitos o de violaciones de derechos contra la libertad y la integridad, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente Ley.
 
 Los servidores públicos deberán brindar información clara, precisa y accesible a las víctimas y sus familiares, sobre cada una de las garantías, mecanismos y procedimientos que permiten el acceso oportuno, rápido y efectivo a las medidas de ayuda contempladas en la presente Ley.
 
-Las medidas de ayuda, asistencia, atención y demás establecidas en los Títulos Segundo, Tercero, Cuarto y Quinto de esta Ley, se brindarán por la Fiscalía de Derechos Humanos y las instituciones públicas del gobierno del Estado y sus Municipios en el respectivo ámbito de su competencia, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas, a criterio de la autoridad competente.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+Las medidas de ayuda, asistencia, atención, rehabilitación y demás establecidas en esta Ley, se brindarán por la Fiscalía de Derechos Humanos y por las instituciones públicas del gobierno del Estado y sus Municipios en el respectivo ámbito de su competencia, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas, a criterio de la autoridad competente.
+
+> <small>(REFORMADO [N. DE. E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+La persona menor de edad en situación de orfandad con motivo de un Feminicidio u homicidio, recibirá ayuda psicológica especializada de emergencia en los términos de la presente Ley, con independencia de la protección asistencial que se requiera.
+
+> <small>(REFORMADO [N. DE. E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+Cuando la Comisión Ejecutiva Estatal no cuente con disponibilidad de recursos para cubrir las medidas de ayuda inmediata, podrá solicitarlos por escrito a la Comisión Ejecutiva de Atención a Víctimas de la Federación.
 
 ### Capítulo III. De los Derechos de las Víctimas en el Proceso Penal
 
@@ -527,9 +585,11 @@ Los servidores públicos del estado y sus municipios que pongan en riesgo la seg
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 31.
 
-La Comisión Ejecutiva Estatal de Atención a Víctimas garantizará que el acceso de las víctimas al Registro Estatal se haga de manera efectiva, rápida y diferencial con el fin de permitirles disfrutar de las medidas de asistencia y atención establecidas en la presente Ley.
+La Comisión Ejecutiva Estatal garantizará que el acceso de las víctimas al Registro Estatal se haga de manera efectiva, rápida y diferencial con el fin de permitirles disfrutar de las medidas de asistencia y atención establecidas en la presente Ley y se asegurará de vincular la información con el Sistema Nacional de Seguridad Pública en los términos establecidos en la Ley General.
 
 La Fiscalía General del Estado a través de la Fiscalía de Derechos Humanos, recabará y concentrará información estadística sobre víctimas asistidas por la Comisión, por modalidades de asistencia, ayuda o reparación y por tipo de delito o violación de derechos que la motivare. La información tendrá carácter público y en ningún caso incluirá datos personales.
 
@@ -909,7 +969,9 @@ II. Promover el acceso a los servicios multidisciplinarios y especializados que 
 
 III. Proponer al Sistema Estatal el Programa de Atención a Víctimas con el objeto de crear, reorientar, dirigir, planear, coordinar, ejecutar y supervisar las políticas públicas en materia de atención a víctimas, y proponerlo para su aprobación;
 
-IV. Desarrollar las medidas previstas en esta ley para la protección inmediata de las víctimas cuando su vida o su integridad se encuentren en riesgo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+IV. Desarrollar los protocolos para la protección inmediata y atención continua de las víctimas;
 
 V. Coordinar a las instituciones competentes para la atención de una problemática específica, de acuerdo con los principios establecidos en esta ley, así como los de coordinación, concurrencia y subsidiariedad;
 
@@ -935,9 +997,13 @@ XV. Coadyuvar en la elaboración de los protocolos generales de actuación para 
 
 XVI. Crear y coordinar los Comités Especiales de atención a víctimas de delitos o violaciones de derechos humanos previstos en esta Ley;
 
-XVII. Generar diagnósticos específicos, que permitan evaluar las problemáticas concretas que enfrentan las víctimas en términos de prevención del delito, así como las necesidades estatales y municipales en materia de capacitación, capital humano, y materiales que se requieran para garantizar un estándar mínimo de atención digna a las víctimas cuando requieran acciones ayuda, apoyo, asistencia o acceso a la justicia, a la verdad y la reparación integral de tal manera que sea disponible y efectiva, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-XVIII. Vigilar la adecuada aplicación de los recursos destinados del fondo, observando los principios de maxima publicidad y transparencia.
+XVII. Generar diagnósticos específicos, que permitan evaluar las problemáticas concretas que enfrentan las víctimas en términos de prevención del delito, así como las necesidades en materia de capacitación, capital humano, y materiales que se requieran para garantizar un estándar mínimo de atención digna a las víctimas cuando requieran acciones ayuda, apoyo, asistencia o acceso a la justicia, a la verdad y la reparación integral de tal manera que sea disponible y efectiva; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Vigilar la adecuada aplicación de los recursos destinados del fondo, observando los principios de máxima publicidad y transparencia.
 
 ###### Artículo 65.
 
@@ -1165,9 +1231,11 @@ IV. La Procuraduría Social, y
 
 V. El Síndico del Ayuntamiento municipal que corresponda.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 82.
 
-Una vez recibida la denuncia o queja la autoridad inmediata deberá ponerla en conocimiento del Registro Estatal, en un término que no excederá de veinticuatro horas, a fin de que se lleve a cabo el registro.
+Una vez recibida la denuncia o queja o que se tenga conocimiento de los hechos, la autoridad inmediata deberá ponerla en conocimiento del Registro Estatal, en un término que no excederá de veinticuatro horas, a fin de que se lleve a cabo el registro.
 
 En el caso de las personas que se encuentren bajo custodia del Estado, las autoridades que estén a cargo de los centros de readaptación social, estarán obligados de recibir la denuncia y queja mencionada en el párrafo anterior.
 
@@ -1668,3 +1736,9 @@ P.O. 2 DE MARZO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26283/LXI/17 QUE REFORMAN (SIC) LOS ARTÍCULOS 14, 17, 89, Y 92; Y EL CAPITULADO DEL TÍTULO OCTAVO DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26721/LXI/17 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4, 5, 6, 7, 8, 31, 64 Y 82, TODOS DE LA LEY DE ATENCIÓN A VÍCTIMAS; LOS ARTÍCULOS 599 Y 601 DEL CÓDIGO CIVIL, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día primero de enero del año 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
