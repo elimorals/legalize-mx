@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2017-03-19"
+last_updated: "2017-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -2009,7 +2009,11 @@ II.- Calles colectoras: Son aquellas destinadas a conducir el trafico de las cal
 
 III.- Calles locales: Son aquellas destinadas principalmente a dar acceso a los lotes del fraccionamiento; y
 
-IV.- Andadores: Son aquellos que servirán exclusivamente para el tránsito de peatones; debiendo quedar cerrados al acceso de vehículos.
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+IV. Calles privadas: Son aquellas destinadas a dar acceso desde las calles colectoras y locales al área de estacionamiento del fraccionamiento, en el caso de condominios habitacionales. Este tipo de calles podrán ser cerradas; y
+
+V. Andadores: Son aquellos que servirán exclusivamente para el tránsito de peatones; debiendo quedar cerrados al acceso de vehículos.
 
 ###### ARTÍCULO 170.
 
@@ -2553,6 +2557,10 @@ IV.- Vialidad: Las calles colectoras deberán tener una anchura de 15 metros, me
 
 Las calles locales deberán tener una anchura de 12 metros, medida de alineamiento a alineamiento; las banquetas serán de 1.50 metros de ancho. Cuando necesariamente una calle local tenga que ser cerrada, se hará un retorno con las dimensiones que dictamine el ayuntamiento, previa opinión de la Comisión Municipal;
 
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+Las calles privadas deberán tener una anchura de 9 metros, medida de alineamiento a alineamiento; las banquetas serán de 1.00 metros de ancho.
+
 V.- Infraestructura y equipamiento urbano: Todo fraccionamiento que sea aprobado dentro de este tipo deberá contar, como mínimo, con las siguientes obras de urbanización:
 
 a) Fuente de abastecimiento de agua potable, red de distribución y tomas domiciliarias;
@@ -2561,15 +2569,29 @@ b) Sistema de alcantarillado con salidas domiciliarias de albañal;
 
 c) Red de distribución de energía para uso doméstico;
 
-d) Alumbrado público; de vapor de sodio, mercurio de alta presión, aditivos metálicos o sistemas de tecnología de punta que ofrezcan alta eficiencia en postes metálicos y de modelos acordes a la imagen urbana del fraccionamiento; deberán cumplir con las normas de la Comisión Federal de Electricidad y/o Secretaría de Economía, y de la Norma Oficial Mexicana;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+d) Alumbrado público: de vapor de sodio, mercurio de alta presión, aditivos metálicos o sistemas de tecnología de punta que ofrezcan alta eficiencia en postes metálicos o adosando luminarios a edificios de condominios, con modelos acordes a la imagen urbana del fraccionamiento; deberán cumplir con las normas de la Comisión Federal de Electricidad y/o Secretaría de Economía, y de la Norma Oficial Mexicana;
 
 e) Guarniciones de concreto y banquetas de concreto u otro material de calidad similar a juicio del ayuntamiento;
 
-f) Pavimento de calles de concreto, en calles colectoras, asfalto, en calles locales a juicio del ayuntamiento;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+f) Pavimento de concreto, en calles colectoras; y de asfalto en calles locales y calles privadas, a juicio del ayuntamiento;
 
 g) Arbolado 2 por lote en áreas de banquetas, glorietas y demás lugares destinados a ese fin; y
 
-h) Placas de nomenclatura en los cruces de calles; y
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+Área verde; en condominios verticales, 10 metros cuadrados por vivienda;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+h) Placas de nomenclatura en los cruces de calles;
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+i) Estacionamiento, con un cajón por vivienda. En condominios horizontales, con un cajón por vivienda, más un 10% adicional para uso de visitantes; y, en condominios verticales, con un número de cajones proporcional al 50% del total de viviendas, más un 4% adicional para uso de visitantes; y
 
 VI.- Las que establecen los programas de desarrollo urbano de centros de población con vigencia legal.
 
@@ -4012,3 +4034,15 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 337.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
