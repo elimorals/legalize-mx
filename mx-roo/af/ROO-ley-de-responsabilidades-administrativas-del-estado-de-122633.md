@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-responsabilidades-administrativas-del-estado-de-122633"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-07-19"
+last_updated: "2017-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO NÚMERO 143, PUBLICADO EN EL P.O. DE 28 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Número 78 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de julio de 2017.
 
@@ -1826,3 +1828,23 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 RUBRICA
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2017.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DEL "DECRETO NÚMERO: 143 POR EL QUE SE ABROGA LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE QUINTANA ROO", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+D E C R E T A:
+
+ÚNICO. Se abroga la Ley de Responsabilidades Administrativas del Estado de Quintana Roo, expedida mediante Decreto Número 085 de la H. XV Legislatura del Estado de Quintana Roo y publicada en el Periódico Oficial del Estado de Quintana Roo de fecha 19 de julio de 2017.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Los procedimientos administrativos iniciados por las autoridades estatales y municipales con anterioridad a la entrada en vigor de este Decreto, serán concluidos conforme a las disposiciones vigentes al momento de su inicio.
+
+Cualquier incumplimiento de los servidores públicos en el desempeño de sus obligaciones o deberes en el desempeño de su cargo o puesto, por actos o conductas que impliquen responsabilidad, que se hubieren realizado por acción u omisión, antes de la entrada en vigor de la Ley General de Responsabilidades Administrativas, serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo, vigente al momento de su comisión.
+
+TERCERO. En virtud de lo establecido en el artículo transitorio anterior, los títulos tercero y cuarto de la Ley de Responsabilidades de los Servidores Públicos del Estado de Quintana Roo quedarán derogados progresivamente hasta la conclusión del último procedimiento regido por lo establecido en las disposiciones contenidas en dichos títulos.
