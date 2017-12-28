@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-caminos-y-puentes-del-estado-de-michoacan-de-ocampo-4001
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-14"
-last_updated: "2016-12-29"
+last_updated: "2017-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE CAMINOS Y PUENTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE CAMINOS Y PUENTES DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE CAMINOS Y PUENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 14 de junio de 2004.
 
@@ -185,17 +185,17 @@ XVI. Las demás que le instruya el Gobernador, le confieran la presente Ley y ot
 
 Se constituirá un comité consultivo con el objeto de acreditar la economía, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado en lo referente al otorgamiento de concesiones para la construcción, conservación y aprovechamiento de vías de comunicación terrestres a través del procedimiento de adjudicación directa.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 El Comité estará integrado por:
 
-I. La Secretaría de Planeación y Desarrollo Estatal;
+I. La Secretaría de Comunicaciones y Obras Públicas, quien lo coordinará;
 
-II. La Secretaría de Comunicaciones y Obras Públicas, quien lo coordinará;
+II. La Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial;
 
-III. La Secretaría de Urbanismo y Medio Ambiente;
+III. La Secretaría de Contraloría; y,
 
-IV. La Secretaría de la Contraloría y Desarrollo Administrativo; y,
-
-V. La Tesorería General.
+IV. La Secretaría de Finanzas y Administración.
 
 ###### Artículo 8°.
 
@@ -231,7 +231,9 @@ c) Incluida en los alcances de una concesión atendiendo lo establecido en esta 
 
 III. El aprovechamiento:
 
-a) Con la participación directa de la Tesorería General;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+a) Con la participación directa de la Secretaría de Finanzas y Administración;
 
 b) Con la contratación del servicio a terceros de acuerdo con las disposiciones legales aplicables; y,
 
@@ -281,11 +283,15 @@ Sólo podrán realizarse trabajos de construcción dentro del derecho de vía es
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 18.
 
-Se podrá otorgar concesiones a personas físicas o morales para construir, conservar y aprovechar las vías de comunicación terrestres, de conformidad al procedimiento establecido en esta Ley.
+Se requiere de concesión para construir, operar, explotar, conservar y mantener las Vías de comunicación terrestres.
 
-Las concesiones no podrán ser por plazos mayores a 30 años, la Secretaría deberá garantizar, cuando existan vías alternas, el funcionamiento de una vía de comunicación terrestre libre de peaje.
+Se podrán otorgar concesiones a personas físicas o morales mexicanas o sociedades constituidas conforme a las leyes mexicanas, en los términos que establezcan esta Ley y los reglamentos respectivos, para construir, conservar y aprovechar las Vías de comunicación terrestres, de conformidad al procedimiento establecido en esta Ley.
+
+Las concesiones no podrán ser por plazos mayores a treinta años, la Secretaría deberá garantizar, cuando existan vías alternas, el funcionamiento de una vía de comunicación terrestre libre de peaje.
 
 ###### Artículo 19.
 
@@ -479,13 +485,29 @@ IX. La garantía a favor del Estado para el debido cumplimiento de la concesión
 
 X. Las demás que sean acordadas por el Ejecutivo del Estado y el concesionario.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 32.
 
-La concesión se otorgará por un tiempo determinado que no podrá exceder de 30 años. El término de la concesión podrá ser prorrogado hasta por 15 años más, siempre y cuando lo solicite el concesionario y se sigan cumpliendo los requisitos y condiciones que sirvieron de base y fundamento para el otorgamiento de la misma.
+Las concesiones se otorgarán hasta por un plazo de treinta años, las cuales podrán ser prorrogadas hasta por un periodo igual, en cualquier momento siempre y cuando se sigan cumpliendo los requisitos y condiciones, actualizados, que sirvieron de base y fundamento para el otorgamiento de la concesión, y a juicio de la Secretaría se presente cualquiera de los siguientes supuestos:
 
-El concesionario podrá solicitar la prórroga de la concesión durante la última cuarta parte de su vigencia y a más tardar un año antes de su conclusión.
+I. Se justifique la necesidad de realizar inversiones en el tramo carretero concesionado o en Vías de comunicación terrestres que no se hubiesen previsto en las condiciones originales de los títulos de concesión respectivos; y,
 
-El Ejecutivo del Estado por conducto de la Secretaría contestará en definitiva la solicitud de prórroga, dentro de un plazo de 60 días hábiles, contados a partir de la fecha de presentación estableciéndose las nuevas condiciones de la concesión, para lo cual se deberá tomar en cuenta los programas de inversión y las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
+II. Cuando se presenten causas que lo justifiquen, siempre y cuando estas causas no sean atribuibles a los concesionarios, entre las que se incluyen:
+
+a) Demoras en la liberación del derecho de vía.
+
+b) Cuando el concesionario convenga con el Estado la ampliación de la vigencia de la concesión a cambio del pago de una contraprestación pactada entre las partes porque así convenga al Estado.
+
+En este caso, la prórroga será hasta que el concesionario recupere el monto de la contraprestación pagada más el rendimiento correspondiente.
+
+En ningún caso la prórroga podrá ser mayor de treinta años.
+
+c) Causas de fuerza mayor no imputable al concesionario.
+
+La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de sesenta días naturales contados a partir de la fecha de presentación de la misma debidamente requisitada y, en su caso, establecerá las nuevas condiciones de la concesión.
+
+Tanto el otorgamiento de la concesión como su prórroga generarán la participación determinada en la concesión correspondiente, más el aprovechamiento que se genere por el análisis de la solicitud para el otorgamiento de concesión o de su prórroga.
 
 ### CAPÍTULO QUINTO. DE LA TERMINACIÓN DE LAS CONCESIONES
 
@@ -991,7 +1013,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 23 DE AGOSTO DE 2007.
 
@@ -1018,3 +1040,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 420 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 7° PÁRRAFO SEGUNDO, 10 PÁRRAFO PRIMERO FRACCIÓN III INCISO A), 18 Y 32 DE LA LEY DE CAMINOS Y PUENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día 1 de enero del año 2018, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
