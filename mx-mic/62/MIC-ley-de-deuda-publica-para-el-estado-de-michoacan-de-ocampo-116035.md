@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-deuda-publica-para-el-estado-de-michoacan-de-ocampo-1160
 country: "mx"
 rank: "ley"
 publication_date: "2016-08-05"
-last_updated: "2016-08-05"
+last_updated: "2017-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO DE MICHOACAN DE OCAMPO Y SUS MUNICIPIOS
 
-LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNCIPIOS
+LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Novena Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 5 de agosto de 2016.
 
@@ -41,15 +41,17 @@ NÚMERO 166
 
 Se expide la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios, para quedar como sigue:
 
-LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNCIPIOS
+LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 1°.
 
-Esta Ley tiene por objeto regular, establecer y transparentar las bases para la contratación, registro, control y administración de la Deuda Pública, por parte del Gobierno del Estado de Michoacán de Ocampo y sus Municipios;
+Esta Ley tiene por objeto regular, establecer y transparentar las bases para la contratación, registro, control y administración de la Deuda Pública, por parte del Gobierno del Estado de Michoacán de Ocampo, sus Municipios y todos sus entes públicos.
 
-Asimismo, esta Ley regula la afectación como garantía de pago de las participaciones que en ingresos federales tienen derecho a percibir el Estado Libre y Soberano de Michoacán de Ocampo y sus Municipios, las aportaciones federales susceptibles de afectación, y los demás derechos y/o ingresos que correspondan al Estado Libre y Soberano de Michoacán de Ocampo y a sus municipios que sean susceptibles de afectación, en términos de lo dispuesto por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+Asimismo, esta Ley regula la afectación, como garantía o fuente de pago de Financiamientos y Obligaciones, de las participaciones y las aportaciones federales susceptibles de afectación que el Estado y los Municipios tienen derecho a percibir y los flujos que derivan de los mismos, así como la afectación, como garantía o fuente de pago, de los ingresos propios susceptibles de afectación que corresponden a los entes públicos.
 
 ###### ARTÍCULO 2°.
 
@@ -61,7 +63,9 @@ Cuando las Obligaciones se deriven de esquemas de Asociaciones Público-Privadas
 
 Cuando las Obligaciones que se asuman, se hagan constar en valores o títulos de crédito, en el texto de los mismos se deberá indicar que sólo podrán ser negociados dentro del territorio nacional con personas físicas o morales de nacionalidad mexicana.
 
-El Congreso autorizará, por el voto de las dos terceras partes de sus miembros presentes, los montos máximos para la contratación de Financiamientos y Obligaciones. Para el otorgamiento de esta autorización, el Congreso realizará, de manera previa, un análisis sobre la capacidad de pago del Ente Público a cuyo estaría la Deuda Pública u Obligaciones correspondientes, sobre el destino del Financiamiento u Obligación y, en su caso sobre el otorgamiento de recursos como Fuente o Garantía de pago.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+El Congreso autorizará, por el voto de las dos terceras partes de sus miembros presentes, los montos máximos para la contratación de Financiamientos y Obligaciones. Para el otorgamiento de esta autorización, el Congreso realizará, de manera previa, un análisis sobre la capacidad de pago del Ente Público a cuyo cargo estaría la Deuda Pública u Obligaciones correspondientes, sobre el destino del Financiamiento u Obligación y, en su caso, sobre el otorgamiento de recursos como Fuente o Garantía de pago.
 
 La contratación de Financiamientos u Obligaciones por parte de los Entes Públicos, se sujetará a los montos y conceptos autorizados por el Congreso y a lo establecido en la presente Ley.
 
@@ -89,6 +93,10 @@ VI. Entes Públicos: Los poderes Legislativo, Ejecutivo y Judicial del Estado, l
 
 VII. Entidades: Aquellas a las que se refieren los artículos 7 y 40 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo;
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+VII Bis. Entidades paramunicipales: Los organismos descentralizados municipales, las empresas de participación municipal mayoritaria y los fideicomisos públicos paramunicipales en términos de la Ley Orgánica Municipal del Estado de Michoacán de Ocampo y los respectivos Bandos de Gobierno municipales;
+
 VIII. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
 IX. Financiamiento: Toda operación constitutiva de un pasivo, directo, indirecto o contingente, de corto mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito empréstito o préstamo, incluyendo los arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
@@ -113,7 +121,9 @@ XVIII. Inversión Pública Productiva: Toda erogación por la cual se genere, di
 
 XIX. Ley de Ingresos: La Ley de Ingresos del Estado de Michoacán de Ocampo o del Municipio de que se trate, según corresponda, para el ejercicio fiscal correspondiente;
 
-XX. Municipios: Los Ayuntamientos y las Dependencias, Entidades y Organismos Municipales, conforme a la Ley Orgánica Municipal del Estado de Michoacán de Ocampo y los respectivos Bandos de Gobierno municipales;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XX. Municipios: Los Ayuntamientos y Concejos Municipales conforme a la Constitución Política del Estado de Michoacán de Ocampo y la Ley Orgánica Municipal del Estado de Michoacán de Ocampo;
 
 XXI. Obligaciones: Los compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las Asociaciones Público-Privadas;
 
@@ -125,9 +135,19 @@ XXIV. Refinanciamiento: La contratación de uno o varios Financiamientos cuyos r
 
 XXV Registro Público Único: El Registro para la inscripción de Obligaciones y Financiamientos que contraten los Entes Públicos, a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXV Bis. Reglamento del Registro Público Único: El Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios que expide la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXV Ter. Registro Estatal: El Registro Estatal de Financiamientos y Obligaciones, a cargo de la Secretaría de Finanzas y Administración para la inscripción de financiamientos y obligaciones que contraigan los Entes Públicos;
+
 XXVI. Secretaría de Finanzas y Administración: La Secretaría de Finanzas y Administración del Gobierno del Estado;
 
-XXVII. Servicio de la deuda: El monto o cantidad a pagar en el territorio y moneda nacional, por concepto de capital, intereses, comisiones y otros gastos derivados de la contratación de Financiamientos u Obligaciones, por los Entes Públicos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXVII. Servicio de la Deuda: El monto o cantidad a pagar por concepto de capital e intereses derivados de un financiamiento u obligación, a cargo de los Entes Públicos.
 
 XXVIII. SHCP: La Secretaría de Hacienda y Crédito Público del Gobierno Federal;
 
@@ -151,7 +171,9 @@ I. Corresponde al Gobierno del Estado, por conducto de la Secretaría de Finanza
 
 A) Efectuar oportunamente, ya sea en forma directa o mediante los mecanismos que para tales efectos se establezcan conforme a esta Ley, los pagos de amortizaciones, intereses y los que haya lugar, derivados de la Deuda Pública a su cargo;
 
-B) Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de Financiamientos u Obligaciones a su cargo, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre y cuando dicha deuda esté comprendida en el Financiamiento Neto aprobado por el Congreso;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+B) Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de Financiamientos y Obligaciones a su cargo, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre y cuando, en los casos de Financiamientos que tengan como Fuente o Garantía de pago Ingresos de libre disposición, el monto de los mismos se encuentre comprendido en el Techo Financiamiento Neto aprobado por el Congreso;
 
 C) Reestructurar o refinanciar la deuda contraída ya sea como deudor, garante o avalista, de conformidad con lo dispuesto por el artículo 12 de esta Ley;
 
@@ -161,13 +183,25 @@ E) Negociar y celebrar los contratos y documentos que sean necesarios para estab
 
 F) Negociar los términos y condiciones, contratar, celebrar y, en su caso, llevar a cabo cualquier acto en relación con operaciones de Instrumentos Derivados, siempre y cuando tiendan a evitar o reducir riesgos económicos o financieros en relación con la Deuda Pública del Estado o los Entes Públicos estatales o que mejoren la capacidad crediticia del Estado;
 
-G) Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Estado, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable y la presente Ley, así como otorgar las Garantías de pago que se requieran, siempre y cuando se encuentren comprendidos en el Financiamiento Neto autorizado por el Congreso, en el entendido que, cuando la emisión de los títulos se realice por conducto de fideicomisos, éstos no serán considerados, en ningún caso, parte de la Administración Pública Paraestatal;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-H) Notificar a la SHCP o a cualquier otra autoridad competente conforme a los artículos 9°, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal y la Ley de Disciplina Financiera de las Entidades federativas y los Municipios, cualquier afectación en Garantía de pago, como Fuente de pago o de cualquier otra forma, de las aportaciones federales susceptibles de afectación o de las participaciones que en ingresos federales tenga derecho a percibir el Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de dichos recursos, la cual sólo podrá ser modificada siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. La instrucción antes referida, así como cualquier modificación a la misma, notificada por el Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración, a la SHCP o a cualquier otra autoridad competente conforme a legislación mencionada en esta fracción, deberá también notificarse al Registro Público Único;
+G) Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Estado, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable y la presente Ley, así como otorgar las Fuentes y Garantías de pago que se requieran y, siempre y cuando, en los casos de Financiamientos que tengan como Fuente o Garantía de pago Ingresos de libre disposición, el monto de los mismos se encuentre comprendido en el Techo Financiamiento Neto aprobado por el Congreso. Cuando la emisión de valores se realice por conducto de fideicomisos éstos no serán considerados, en ningún caso, parte de la Administración Pública Paraestatal;
 
-I) Autorizar a las Entidades para gestionar y contratar Financiamientos u Obligaciones, en términos de lo dispuesto por el artículo 8° de esta Ley; y,
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-J) Vigilar que la capacidad de pago de las Entidades respecto de las cuales el Estado esté obligado, en cualquier forma, sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá evaluar y supervisar el cumplimiento de las disposiciones en materia de Deuda Pública y disciplina financiera aplicables, y la adecuada estructura financiera de las Entidades acreditadas.
+H) Notificar a la SHCP o a cualquier otra autoridad competente conforme a los artículos 9, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, cualquier afectación en Garantía de pago, como Fuente de pago o de cualquier otra forma, de las aportaciones o participaciones federales susceptibles de afectación que tenga derecho a percibir el Estado. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de dichos recursos, la cual sólo podrá ser modificada siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+I) Autorizar a las Entidades para gestionar y contratar Financiamientos u Obligaciones, en términos de lo dispuesto por el artículo 8° de esta Ley;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+J) Vigilar que la capacidad de pago de las Entidades respecto de las cuales el Estado esté obligado, en cualquier forma, sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto, deberá evaluar y supervisar el cumplimiento de las disposiciones en materia de Deuda Pública y disciplina financiera aplicables, y la adecuada estructura financiera de las Entidades acreditadas; y,
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+K) Prever en el proyecto de Presupuesto de Egresos de cada ejercicio fiscal, las partidas presupuestales necesarias para cubrir el Servicio de la Deuda y cualquier otro concepto relacionado con los Financiamientos a cargo del Estado.
 
 II. Corresponde a los Municipios, por conducto de los Ayuntamientos:
 
@@ -177,7 +211,9 @@ B). Proveer en el presupuesto de egresos correspondiente las partidas destinadas
 
 C) Efectuar oportunamente los pagos de amortizaciones, intereses y los que haya lugar, derivados de la Deuda Pública a su cargo;
 
-D) Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de Financiamientos u Obligaciones a su cargo, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, y (sic) siempre y cuando dicha deuda esté comprendida en el Financiamiento Neto aprobado por el Congreso en la Ley de Ingresos correspondiente;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+D) Negociar, aprobar, celebrar y suscribir los contratos y documentos para la contratación de Financiamientos y Obligaciones a su cargo, suscribiendo los títulos de crédito y demás instrumentos legales requeridos para tales efectos, siempre y cuando, en los casos de Financiamientos que tengan como Fuente o Garantía de pago Ingresos de libre disposición, el monto de los mismos se encuentre comprendido en el Techo Financiamiento Neto aprobado por el Congreso;
 
 E) Reestructurar o refinanciar su Deuda Pública, directamente o como garante o avalista de la Deuda Pública de sus Entes Públicos municipales y celebrar los convenios y contratos que de esas acciones se deriven, de conformidad con lo dispuesto por el artículo 12° de esta Ley;
 
@@ -189,17 +225,29 @@ H) Negociar y celebrar los términos y condiciones de los contratos y documentos
 
 I) Negociar los términos y condiciones, contratar, celebrar y, en su caso, llevar a cabo cualquier acto en relación con operaciones de Instrumentos Derivados, siempre y cuando tiendan a evitar o reducir riesgos económicos o financieros en relación con su Deuda Pública o de los Entes Públicos municipales que mejoren la capacidad crediticia del municipio;
 
-J) Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del municipio, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable y la presente Ley, así como otorgar las Garantías de pago que se requieran, siempre y cuando se encuentran comprendidos en el Financiamiento Neto autorizado por el Congreso en la Ley de Ingresos o mediante decretos, en el entendido que dichos fideicomisos no serán considerados, en ningún caso, públicos o parte de la administración pública paramunicipal;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-K) Notificar a la SHCP, a la Secretaría de Finanzas y Administración y/o a cualquier otra autoridad competente conforme al artículo 9°, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal y demás disposiciones aplicables de la Ley de Coordinación Fiscal y la Ley de Disciplina Financiera de las Entidades federativas y los Municipios, por conducto de la Tesorería Municipal o el responsable de las finanzas públicas municipales, cualquier afectación en Garantía de pago, como Fuente de pago o de cualquier otra forma, de las aportaciones federales susceptibles de afectación o de las participaciones que en ingresos federales o estatales tengan derecho a percibir los Municipios. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de dichos recursos, la cual sólo podrá ser modificada siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación dé dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos. La instrucción antes referida, así como cualquier modificación a la misma, notificada por el Municipio, por conducto de la Tesorería Municipal o el responsable de las finanzas públicas municipales, a la SHCP, a la Secretaría de Finanzas y Administración, o a cualquier otra autoridad competente conforme a legislación mencionada en esta fracción, deberá también notificarse al Registro Público Único;
+J) Emitir valores, certificados, obligaciones, bonos y otros títulos de crédito, a cargo del Municipio, ya sea directamente o a través de uno o varios fideicomisos, de conformidad con la legislación del mercado de valores aplicable y la presente Ley, así como otorgar las Fuentes y Garantías de pago que se requieran y, siempre y cuando, en los casos de Financiamientos que tengan como Fuente o Garantía de pago Ingresos de libre disposición, el monto de los mismos se encuentre comprendido en el Techo Financiamiento Neto aprobado por el Congreso. Cuando la emisión de valores se realice por conducto de fideicomisos éstos no serán considerados, en ningún caso, parte de la administración pública paramunicipal;
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+K) Notificar a la SHCP, a la Secretaría de Finanzas y Administración y/o a cualquier otra autoridad competente conforme al artículo 9°, 50 y demás disposiciones aplicables de la Ley de Coordinación Fiscal y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, por conducto de la Tesorería Municipal o el responsable de las finanzas públicas municipales, cualquier afectación en Garantía de pago, como Fuente de pago o de cualquier otra forma, de las aportaciones o participaciones federales susceptibles de afectación que tengan derecho a percibir los Municipios. Dicha notificación podrá contener una instrucción que señale los términos y condiciones aplicables al pago de dichos recursos, la cual sólo podrá ser modificada siempre y cuando se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores conforme a dichos contratos o documentos;
 
 L) Autorizar a los Entes Públicos municipales para gestionar y contratar Financiamientos u Obligaciones, de conformidad con el artículo 8° de esta Ley; y,
 
-M) Inscribir en el Registro Público Único, la Deuda Pública de los Municipios y demás Entes Públicos municipales.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+M) Inscribir las Obligaciones y Financiamientos a cargo del Municipio en el Registro Estatal y en el Registro Público Único.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 7°.
 
-EI Gobierno del Estado, los Municipios y demás Entes Públicos estatales y municipales deberán contratar los Financiamientos y Obligaciones a su cargo bajo las mejores condiciones de mercado, previa autorización del Congreso.
+El Congreso, por el voto de las dos terceras partes de sus miembros presentes, autorizará los montos máximos para la contratación de Financiamientos y Obligaciones. Para el otorgamiento de dicha autorización el Congreso deberá realizar, previamente, un análisis de la capacidad de pago del Ente Público a cuyo cargo estaría el Financiamiento u Obligación correspondiente, del destino del Financiamiento u Obligación y, en su caso, del otorgamiento de recursos como Fuente o Garantía de Pago.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+Para los Financiamientos u Obligaciones de los Municipios, entidades paraestatales y paramunicipales y, en general, cualquier Ente Público distinto al Estado que no vaya a contar con el aval del Estado, se requerirá un dictamen sobre la capacidad de pago del Ente Público respecto del Financiamiento u Obligación que se propone contratar, que emita la Secretaría de Finanzas y Administración, en un plazo no mayor de quince días hábiles contados a partir del día siguiente a la fecha de recepción de la solicitud.
 
 La autorización del Congreso para la contratación de Financiamientos u Obligaciones deberá especificar, por lo menos, lo siguiente:
 
@@ -221,19 +269,19 @@ Para la contratación de Deuda Pública, independientemente de lo dispuesto en e
 
 I. Estados financieros de los últimos tres ejercicios fiscales, sin que el estado financiero correspondiente al ejercicio más reciente tenga una antigüedad superior a dieciséis meses al momento de contraer la Deuda Pública de que se trate. Los estados financieros deberán estar acordes a las disposiciones de la Ley General de Contabilidad Gubernamental, la Ley de Planeación Hacendaria, Presupuesto, Gasto Público y Contabilidad Gubernamental del Estado de Michoacán de Ocampo y a los lineamientos y normatividad que en la materia emita el Consejo Nacional de Armonización Contable. En caso de Entes Públicos que estén organizados como sociedades mercantiles, los estados financieros deberán prepararse y dictaminarse conforme a los principios de contabilidad generalmente aplicables a empresas que cotizan en bolsa en México;
 
-II. Con la calificación otorgada por al menos dos instituciones calificadoras de valores reconocidas por la Secretaría de Hacienda y Crédito Público a través de la Comisión Nacional Bancaria y de Valores;
-
-Tratándose de Entes Públicos municipales cuyo presupuesto anual no sea superior a treinta millones de Unidades de Inversión o su equivalente, se estará a lo dispuesto en la fracción IV;
+II. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2017)
 
 III. Con la evaluación que del Ente Público de que se trate, hubiere hecho la SHCP, de acuerdo a su nivel de endeudamiento, con base en la medición de indicadores de Deuda Pública y Obligaciones, Obligaciones a corto plazo y proveedores y contratistas por pagar a corto plazo, así como pago de Servicio de la Deuda y de Obligaciones, de conformidad con el Sistema de Alertas, en términos del Sistema de Alertas; y,
 
-IV. Cuando se trate de Entes Públicos municipales y su presupuesto anual de ingresos no sea superior a treinta millones de Unidades de Inversión o su equivalente y las instituciones de crédito no establezcan como requisito para la contratación de Financiamientos y Obligaciones la calificación crediticia, se deberá contar con los dictámenes financieros sobre la viabilidad del Financiamiento y la capacidad de endeudamiento, emitidos por la Institución Financiera acreditante que opere en territorio nacional y la Secretaría de Finanzas y Administración, además de la evaluación a que se refiere la fracción anterior.
+IV. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2017)
 
 Adicionalmente se podrá contar con calificación en proyectos específicos previa autorización del Congreso cuando así convenga al Estado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 8°.
 
-La Secretaría de Finanzas y Administración, la Tesorería Municipal o el responsable de las finanzas públicas municipales o el equivalente de cada Ente Público, según corresponda a su ámbito de competencia, será el responsable de confirmar que el Financiamiento fue celebrado en las mejores condiciones del mercado.
+El Estado, los Municipios y demás Entes Públicos estatales y municipales deberán contratar los Financiamientos y Obligaciones bajo las mejores condiciones de mercado. La Secretaría de Finanzas y Administración, la Tesorería Municipal o el responsable de las finanzas públicas municipales o el equivalente de cada Ente Público, según corresponda a su ámbito de competencia, será el responsable de confirmar que el Financiamiento u Obligación fue celebrado en las mejores condiciones de mercado.
 
 Cuando se trate de Financiamientos por un monto mayor o igual a cuarenta millones de Unidades de Inversión o su equivalente, solicitados por el Gobierno del Estado o cualquier Ente Público estatal, o en el caso de Municipios o cualquiera de sus Entes Públicos, Financiamientos por un monto mayor a diez millones de Unidades de Inversión o su equivalente y, en ambos casos, a un plazo de pago superior a un año, se deberá cumplir con lo siguiente:
 
@@ -285,13 +333,17 @@ III. No se amplíe el plazo de vencimiento original de los Financiamientos respe
 
 Dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, el Ente Público informará al Congreso sobre la celebración de este tipo de operaciones, así como también deberá inscribir dicho Refinanciamiento o Reestructuración ante el Registro Público Único.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-El monto correspondiente al pago del servicio de deuda, en ningún caso podrá ser superior al dos y medio por ciento del presupuesto anual de egresos al momento de la contratación y con base en las proyecciones financieras.
+El monto del servicio de la deuda en todo momento deberá sujetarse a las disposiciones de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el Reglamento del Sistema de Alertas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-En el caso de los Municipios, la contratación financiamientos y obligaciones deberá ser previamente autorizada por sus respectivos Ayuntamientos.
+En el caso de los Municipios, la contratación de Financiamientos y Obligaciones, además de la autorización del Congreso, deberá contar con la autorización previa de sus respectivos Ayuntamientos.
 
 Los Entes Públicos, sólo podrán contratar Financiamientos u Obligaciones si cuentan con la autorización previa de sus órganos de Gobierno y del Gobierno del Estado y del Ayuntamiento correspondiente, según sea el caso. Dichas autorizaciones, según sea aplicable, serán requisito indispensable para gestionar la autorización correspondiente ante el Congreso.
 
@@ -309,7 +361,9 @@ Il. Las Obligaciones a corto plazo queden totalmente pagadas a más tardar tres 
 
 III. Las Obligaciones a corto plazo deberán ser quirografarias; y,
 
-IV. Ser inscritas en el Registro Público Único.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+IV. Ser inscritas en el Registro Público Único, dentro de los treinta días siguientes a su contratación.
 
 Las Obligaciones a corto plazo deberán contratarse bajo las mejores condiciones de mercado, atendiendo a lo dispuesto por el artículo 8° párrafo tercero de esta Ley, así como también, quedarán sujetas a los requisitos de información previstos en esta Ley y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
@@ -331,7 +385,7 @@ Las Obligaciones a corto plazo a que se refiere el presente Capítulo, no podrá
 
 El Gobierno del Estado y los Municipios, previa autorización del Congreso, podrán afectar como Fuente de pagó, Garantía de Pago o ambas, de sus Financiamientos y Obligaciones, así como de los de sus Entes Públicos, las participaciones que del Fondo General de Participaciones, del Fondo de Fomento Municipal y de los recursos a que se refiere el artículo 4-A fracción I de la Ley de Coordinación Fiscal les correspondan, cumpliendo con lo dispuesto para el efecto por el artículo 9° de dicha Ley.
 
-El Gobierno del Estado y los Municipios solo podrán afectar los recursos a que se refiere el presente artículo, siempre y cuando sus obligaciones respaldadas no excedan un monto equivalente al l00 por ciento de sus Ingresos de Libre Disposición aprobados en su respectiva Ley de Ingresos del ejercicio que corresponda.
+El Gobierno del Estado y los Municipios solo podrán afectar los recursos a que se refiere el presente artículo, siempre y cuando sus obligaciones respaldadas no excedan un monto equivalente al 100 por ciento de sus Ingresos de Libre Disposición aprobados en su respectiva Ley de Ingresos del ejercicio que corresponda.
 
 Lo previsto en el párrafo anterior no será aplicable si se hubiere celebrado convenio con el Gobierno Federal a que se refiere el artículo 34 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. En ese caso, solo se podrán afectar participaciones en los términos establecidos en el convenio respectivo.
 
@@ -339,17 +393,17 @@ Lo previsto en el párrafo anterior no será aplicable si se hubiere celebrado c
 
 Tanto el Gobierno del Estado como los Municipios, previa autorización específica del Congreso o contenida en la legislación local, podrán afectar como Fuente de pago, Garantía de Pago o ambas, las Aportaciones Federales susceptibles de afectación, de conformidad con lo dispuesto por los artículos 50, 51 y 52 de la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 20.
 
-El Gobierno del Estado y los Municipios, previa autorización del Congreso, podrán afectar como Fuente de pago, Garantía de pago o ambas, de sus Financiamientos y Obligaciones, así como de los de sus Entes Públicos, el derecho y/o los ingresos a cualquier otro ingreso o derecho susceptible de afectación de conformidad con la legislación local aplicable.
+El Estado, los Municipios y los demás Entes Públicos, previa autorización del Congreso, podrán afectar como Fuente de Pago, Garantía de Pago, o ambas, de sus Financiamientos y Obligaciones, el derecho y/o los ingresos de cualquier ingreso propio o derecho que sea susceptible de afectación en términos de la legislación estatal aplicable.
 
-El pago del servicio de la deuda del Gobierno del Estado y los municipios no podrá ser superior al 2.5 por ciento de su presupuesto de egresos del ejercicio que corresponda.
+En el caso de los Municipios que contraten Financiamiento u Obligaciones sin el aval del Estado, que afecten como Fuente de pago o Garantía de pago sus participaciones federales, para instrumentar dicha afectación podrán celebrar contrato de mandato especial irrevocable para actos de dominio con el Estado, fideicomisos u otros mecanismos que autorice el Estado para establecer el mecanismo de pago correspondiente.
 
-En el caso de los Municipios y Entes Públicos municipales que contraten Financiamiento u Obligaciones sin aval del Gobierno del Estado y se garantice mediante la afectación de participaciones, se podrá celebrar contrato de mandato especial irrevocable para actos de dominio con el Gobierno del Estado, fideicomisos u otros mecanismos que autorice el Congreso, mediante los cuales se establezcan los mecanismos de pago.
+Asimismo, los Entes Públicos podrán, previa autorización del Congreso, afectar como Fuente de pago o Garantía de pago o ambas el derecho de cobro de los ingresos que generen o vayan a generar las obras de infraestructura o la prestación de servicios públicos cuando éstas sean explotadas directamente por los Entes Públicos o bajo esquemas de Asociaciones Público Privadas.
 
-Asimismo, podrá afectarse en garantía el derecho de cobro de los ingresos que generen o se prevea que puedan generar las obras de infraestructura o la prestación de servicios públicos, ya sea que éstas sean explotadas directamente por el Estado o los Municipios o sean objeto de concesión a terceros o de esquema de Asociaciones Público-Privadas.
-
-Se requerirá la autorización previa del Congreso para que el Estado se constituya en garante, avalista o deudor solidario de deuda de cualquiera de sus Entes Públicos y para que los Municipios se constituyan en garantes, avalistas o deudores solidarios de deuda de sus Entes Públicos municipales.
+Se requerirá la autorización previa del Congreso para que el Estado se constituya en garante, avalista o deudor solidario de los Financiamientos u Obligaciones a cargo de cualquiera de sus Entes Públicos, así como para que los Municipios se constituyan en garantes, avalistas o deudores solidarios de los Financiamientos u Obligaciones a cargo de sus Entes Públicos municipales.
 
 ###### ARTÍCULO 21.
 
@@ -375,19 +429,23 @@ Cuando los municipios garanticen Financiamientos u Obligaciones la afectación d
 
 El Gobierno del Estado y los Municipios podrán acceder al esquema de Deuda Estatal Garantizada cumpliendo los requisitos y disposiciones establecidas por los artículos 34, 35, 36, 37, 38, 39 40, 41 y 42 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-### CAPÍTULO V. DEL SISTEMA DE ALERTAS Y EL REGISTRO PÚBLICO ÚNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO V. DEL SISTEMA DE ALERTAS
 
 ###### ARTÍCULO 24.
 
 El Sistema de Alertas es el mecanismo mediante el cual la SHCP realiza la evaluación de los niveles de endeudamiento del Estado, los Municipios y demás Entes Públicos, clasificándolos de acuerdo a su nivel de endeudamiento, evaluación que se llevará a cabo con base en indicadores y, que será lo que determine el Techo de Financiamiento Neto del Estado, Municipio o Ente Público de que se trate, de conformidad por lo dispuesto por los artículos 43, 44, 45, 46,47 y 48 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 25.
 
-Todos los Financiamientos y Obligaciones contratados por el Gobierno del Estado, los Municipios y demás Entes Públicos, así como las afectaciones de recursos como Fuente de pago, Garantía de pago o ambas, en términos de los artículos 18, 19 y 20 de la presente Ley, deberán ser inscritos en el Registro Público Único, el cual está a cargo de la SHCP, y cuya operación y funcionamiento se rige por lo dispuesto por los artículos 49, 50, 51, 52, 53, 54, 55, 56 y 57 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+Los Entes Públicos, distintos del Estado y los Municipios, que se ubiquen en un nivel de endeudamiento elevado deberán firmar un convenio con el Estado o el Municipio, según corresponda para establecer obligaciones específicas de responsabilidad hacendaria, que para tales efectos determine el Estado, a través de la Secretaría de Finanzas y Administración.
 
-La disposición o desembolso del Financiamiento u Obligación a cargo de todo Ente Público, estará condicionada a la inscripción de los mismos en el Registro Público Único, excepto tratándose de Obligaciones a corto plazo o emisión de valores en el mercado bursátil, en cuyo caso deberán quedar inscritos en un periodo no mayor a 30 días, contados a partir del día siguiente al de su contratación.
+El Estado, a través de la Secretaría, o el Municipio, a través del Tesorero Municipal, según corresponda, será el responsable de dar seguimiento a las obligaciones de responsabilidad hacendaria establecidas en cada convenio, de manera trimestral. Asimismo, El Estado, a través de la Secretaría de Finanzas y Administración, o el Municipio, a través del Tesorero Municipal, según corresponda, deberá remitir trimestralmente a la SHCP el resultado del seguimiento y publicar dichos resultados a través de sus páginas oficiales de internet.
 
-### CAPÍTULO VI. DEL COMITÉ DE DEUDA PÚBLICA DEL GOBERNO DEL ESTADO
+### CAPÍTULO VI. DEL COMITÉ DE DEUDA PÚBLICA DEL GOBIERNO DEL ESTADO
 
 ###### ARTÍCULO 26.
 
@@ -441,9 +499,11 @@ Las garantías que, en su caso, sean otorgadas por el Gobierno Federal respecto 
 
 Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades y Registro Patrimonial ele los Servidores Públicos del Estado de Michoacán y sus Municipios y demás disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 32.
 
-Los servidores públicos y las personas físicas o morales que causen daño o perjuicio estimable en dinero a la hacienda pública del Estado o de los Municipios, incluyendo en su caso, los beneficios obtenidos indebidamente por actos u omisiones que les sean imputables, o por incumplimiento de obligaciones derivadas de esta Ley y demás disposiciones aplicables en la materia, serán responsables del pago de la indemnización correspondiente, en los términos de las disposiciones generales aplicables.
+Los servidores públicos y las personas físicas o morales que causen daño o perjuicio estimable en dinero a la hacienda pública del Estado o de los Municipios o al patrimonio de los Entes Públicos, incluyendo, en su caso, los beneficios obtenidos indebidamente por actos u omisiones que les sean imputables, o por incumplimiento de obligaciones derivadas de esta Ley demás disposiciones aplicables en la materia, serán responsables del pago de la indemnización correspondiente, en los términos de las disposiciones generales aplicables.
 
 Las responsabilidades se fincarán en primer término a quienes directamente hayan ejecutado los actos o incurran en las omisiones que las originaron y, subsidiariamente, a los que por la naturaleza de sus funciones, hayan omitido la revisión o autorizado tales actos por causas que impliquen dolo, culpa o negligencia por parte de los mismos.
 
@@ -462,6 +522,56 @@ Los funcionarios públicos estatales y municipales informarán a la autoridad co
 Las sanciones e indemnizaciones a que se refieren los artículos 32 y 33 de la presente Ley, se impondrán y exigirán con independencia de las responsabilidades de carácter político, penal, administrativo o civil que, en su caso, lleguen a determinarse por las autoridades competentes.
 
 ...
+
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO VIII. DEL REGISTRO ESTATAL DE FINANCIAMIENTOS Y OBLIGACIONES
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 36.
+
+En el Registro Estatal se inscribirán, para efectos declarativos, las obligaciones y financiamientos a cargo de los Entes Públicos.
+
+La inscripción en el Registro Estatal es independiente de aquélla que los Entes Públicos deban realizar en el Registro Público Único y/o en cualquier otro registro público.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 37.
+
+En el Registro Estatal se llevarán a cabo los siguientes trámites:
+
+I. De inscripción de obligaciones o financiamientos;
+
+II. De modificación de inscripciones de obligaciones o financiamientos; y,
+
+III. De cancelación de inscripciones de obligaciones o financiamientos.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 38.
+
+El Registro estará dividido en dos secciones:
+
+I. La primera sección está destinada a registrar los financiamientos y las obligaciones que sean constitutivas de deuda pública a cargo de los Entes Públicos; y,
+
+II. La segunda sección está destinada a registrar las obligaciones a cargo de los Entes Públicos derivadas de proyectos de asociaciones público privadas, las cuales no son constitutivas de deuda pública.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 39.
+
+Los entes públicos, para realizar cualquier trámite ante el Registro Estatal, deberán acreditar las facultades del promovente para representar al Ente Público, adjuntando copia certificada del nombramiento o de la escritura pública en la que conste el poder correspondiente.
+
+En el caso de las entidades paraestatales o paramunicipales deberán adjuntar, adicionalmente, copia del decreto de creación de la entidad y, en el caso de las empresas de participación estatal o municipal mayoritaria, además, copia certificada del acta constitutiva y estatutos de la sociedad.
+
+El Ejecutivo del Estado expedirá el Reglamento del Registro Estatal de Financiamientos y Obligaciones para determinar los requisitos que los Entes Públicos deben cumplir para la inscripción de sus Financiamientos y Obligaciones, así como para la modificación o cancelación de dichas inscripciones.
+
+La interpretación, para efectos administrativos, del Reglamento del Registro Estatal de Financiamientos y Obligaciones corresponderá a la Secretaría de Finanzas y Administración.
 
 ## TRANSITORIOS
 
@@ -514,3 +624,17 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de Julio del año 2016 dos mil dieciséis.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING SILVANO AUREOLES CORNEJO.- EL SECRETARIO DE GOBIERNO.- LIC. ADRIÁN LÓPEZ SOLIS.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 542 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1°, 2° QUINTO PÁRRAFO, 4° FRACCIÓN XX Y XXVII, 6° FRACCIÓN I, INCISOS B), G), H), I) Y J) Y FRACCIÓN II, INCISOS D), J), K) Y M), 7° PRIMER PÁRRAFO, 8° PRIMER PÁRRAFO, 13, 14 PRIMER PÁRRAFO, 15 FRACCIÓN IV, 20, LA DENOMINACIÓN DEL CAPÍTULO V, 25 Y 32 PRIMER PÁRRAFO; SE ADICIONAN AL ARTÍCULO 4° LAS FRACCIONES VII BIS, XXV BIS Y XXV TER, AL ARTÍCULO 6° FRACCIÓN I, EL INCISO K), AL ARTÍCULO 7° UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, EL CAPÍTULO VIII Y LOS ARTÍCULOS DEL 36 AL 39; Y, SE DEROGAN LAS FRACCIONES II Y IV DEL SEXTO PÁRRAFO DEL ARTÍCULO 7°; DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se reconoce la existencia del Registro Estatal de Financiamientos y Obligaciones, instrumentado por el Ejecutivo del Estado para dar cumplimiento a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y el Reglamento del Registro Público Único de Financiamientos y Obligaciones de Entidades Federativas y Municipios.
+
+Los Entes Públicos deberán presentar a la Secretaría de Finanzas y Administración, en los plazos que esta determine, la información sobre los Financiamientos y Obligaciones a su cargo celebrados con anterioridad, que en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y esta Ley deban inscribirse en el Registro Estatal de Financiamientos y Obligaciones.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
