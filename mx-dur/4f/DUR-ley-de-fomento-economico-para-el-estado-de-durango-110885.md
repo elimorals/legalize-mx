@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2017-11-05"
+last_updated: "2017-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -89,7 +89,9 @@ I. Agrupamiento Empresarial: El que conforman las MIPYMES interconectadas, prove
 
 II. Cadenas Productivas: Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a través de las fases del proceso económico.
 
-III. Consejo: El Consejo de Desarrollo Económico del Estado de Durango.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+III. Consejo para el Desarrollo: El Consejo para el Desarrollo de Durango;
 
 IV. Emprendedor: Aquella persona que identifica la oportunidad de desarrollar una idea o proyecto innovador o la necesidad de un producto o servicio y organiza los recursos necesarios para ponerla en marcha.
 
@@ -173,7 +175,9 @@ XIV. Adoptar las medidas y programas necesarios para la incorporación a la econ
 
 XV. Colaborar con la Secretaría de Turismo del Gobierno del Estado, para que las políticas públicas y los programas de promoción turística que se elaboren vinculen, respalden y fomenten el desarrollo económico de la entidad.
 
-XVI. Proponer al Consejo el Programa anual de promoción del Estado y sus municipios en el ámbito nacional e internacional, para incentivar y atraer inversiones a la entidad.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVI. Proponer al Consejo para el Desarrollo el Programa anual de promoción del Estado y sus municipios en el ámbito nacional e internacional, para incentivar y atraer inversiones a la entidad.
 
 XVII. Promover la participación de los municipios, a través de los convenios que celebre para la consecución de los objetivos de la presente Ley, considerando las necesidades, el potencial y vocación productiva de cada región.
 
@@ -185,161 +189,179 @@ XX. Colaborar con el Sistema Nacional de Capacitación y Asistencia Técnica Esp
 
 XXI. Colaborar en coordinación con el Instituto Nacional de Economía Social en la capacitación y asesoría a los Organismos del Sector Social de la Economía, en actividades agrícolas, ganaderas, silvícola, pecuarias, pesqueras y las demás de explotación y aprovechamiento de recursos naturales, así como para la transformación y comercialización de productos.
 
-XXII. Coordinar los trabajos de los Consejos Estatal y Municipales de Desarrollo Económico.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXII. Coordinar los trabajos del Consejo para el Desarrollo y los Comités Regionales de Promoción Económica.
 
 XXIII. Las demás, que esta Ley, su Reglamento y el Consejo le propongan.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 7.
 
-La Secretaría será responsable de elaborar los programas de fomento a las MIPYMES, tomando en cuenta los criterios establecidos en la presente Ley, así como los acuerdos que tome el Consejo.
+La Secretaría será responsable de elaborar los programas de fomento a las MIPYMES, tomando en cuenta los criterios establecidos en la presente Ley y los acuerdos del Consejo para el Desarrollo.
 
 ###### ARTÍCULO 8.
 
 La Secretaría desarrollará las acciones necesarias tendientes a consolidar el modelo exportador del Estado, para generar empleos y divisas necesarias, fomentando las transacciones comerciales con el extranjero a través de la detección, evaluación y difusión de negocios internacionales para las empresas que sean potencialmente exportadoras.
 
-### CAPÍTULO III. DEL CONSEJO DE DESARROLLO ECONÓMICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO III. DEL CONSEJO PARA EL DESARROLLO DE DURANGO
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 9.
 
-El Consejo de Desarrollo Económico del Estado de Durango, es la instancia de coordinación interinstitucional y de concertación con el sector privado y social, integrado por:
+El Consejo para el Desarrollo de Durango es la instancia de coordinación interinstitucional y de concertación de los sectores público, privado y social, el cual operará a partir de lo siguiente:
 
-I. Un Presidente Honorario, que será el Gobernador del Estado.
+I. Dar participación a la comunidad duranguense en la definición y dirección de la promoción del Estado, observando los principios de autonomía, permanencia y ejecutividad, para que su esfuerzo se oriente a los mejores intereses del estado en el mediano y largo plazo;
 
-II. Un Presidente Ejecutivo que será un Empresario designado por el Presidente Honorario.
+II. Lograr que el número de empleos permanentes que se creen cada año en las empresas de Durango, sea superior al aumento de la población económicamente activa.
 
-III. Un Vicepresidente, que será el Titular de la Secretaría de Desarrollo Económico, y a su vez suplente en caso de ausencia del Presidente Honorario.
+III. Desarrollar un proyecto de largo plazo para el crecimiento económico de Durango e implementar un modelo que sea viable y atractivo, considerando la realidad del Estado, su potencial natural y humano y una estimación objetiva del entorno competitivo presente y futuro; y
 
-IV. Un Secretario Técnico, que será designado por el Titular de la Secretaría, quien tendrá solo voz.
+IV. Proponer y recomendar políticas de promoción económica, para coadyuvar en el crecimiento económico integral y sostenido del estado, que incremente la calidad de vida de los duranguenses, estableciendo un esquema de desarrollo sustentable que aproveche y optimice sus recursos naturales, su posición geográfica y su clima, respetando su ecología.
 
-V. Diez consejeros integrantes de la sociedad civil del ámbito empresarial y productivo, de los cuales cinco corresponderán a la región centro y cinco a la región lagunera de Durango, designados por el Presidente.
-
-VI. Cinco Consejeros: Un consejero representante de cada uno de las zonas económicas del Estado, emanado de los Consejos Municipales de Desarrollo Económico, representante de los empresarios.
-
-VII. Seis Consejeros: uno de la Secretaría de Finanzas y de Administración, uno de la Secretaría de Comunicaciones y Obras Públicas, uno de la Secretaría de Turismo, uno de la Secretaría de Agricultura Ganadería y Desarrollo Rural, uno de la Secretaría de Recursos Naturales y Medio Ambiente y un representante de la Comisión de Desarrollo Económico del Congreso del Estado.
-
-Cuando así lo estime el Presidente o el Vicepresidente, podrá invitar a la sesión, a las personas que considere pertinentes para el logro de los objetivos de la misma, las cuales tendrán derecho a voz pero no a voto.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 10.
 
-El Consejo llevará a cabo sesiones ordinarias trimestrales y las extraordinarias cuando así lo estime conveniente su Presidente, el Vicepresidente o a propuesta fundada y motivada de la mayoría de sus integrantes. Corresponde al Presidente o al Vicepresidente por acuerdo de aquél o de la mayoría, convocar a las sesiones ordinarias y extraordinarias.
+El Consejo para el Desarrollo tendrá los siguientes objetivos:
 
-En caso de ausencia del Presidente su suplente será el Vicepresidente. Por cada integrante del Consejo habrá un suplente, que será designado conforme al procedimiento que se sigue para los propietarios, quien no podrá hacerse representar por otra persona. Los cargos del Consejo son honoríficos.
+I. Agrupar a los responsables de las políticas económicas del Gobierno del Estado y de la comunidad empresarial, en una estructura formal de análisis y diálogo que tenga permanencia para planear y actuar con una visión de largo plazo;
 
-El Consejo sesionará ordinariamente con los integrantes que asistan, debiendo estar presente el Presidente o el Vicepresidente, o sus suplentes.
+II. Establecer una estrecha coordinación y colaboración con la Secretaría y los Comités Regionales de Promoción Económica del Estado de Durango;
 
-Las decisiones del Consejo se aprobarán por la mayoría de sus integrantes presentes, teniendo el Presidente o su suplente, voto de calidad en caso de empate.
+III. Proponer un proyecto económico de largo plazo para el Estado, con base en la planeación estratégica que lo sustente, incluyendo los mecanismos de medición de avance y de difusión que de estos conceptos debe realizarse;
+
+IV. Establecer contacto y relación constante con la sociedad duranguense para promover, detectar, revisar y apoyar en su caso, las propuestas o proyectos que acerquen al Estado a sus metas de crecimiento económico;
+
+V. Promover una relación constante con los empresarios locales, nacionales y extranjeros, que puedan y deseen establecer en el Estado empresas permanentes, brindándoles el apoyo necesario que requieran, de acuerdo con la legislación en la materia y las organizaciones civiles y gubernamentales;
+
+VI. Aprovechar la estructura de la Secretaría, para llevar a cabo las gestiones y acciones necesarias para la consecución de estos objetivos;
+
+VII. Diseñar y aprobar su estructura y organización administrativa, contemplando áreas de investigación estratégica, de promoción de inversiones y las demás que se consideren necesarias para el logro de sus objetivos; estructura que deberá quedar definida en su Reglamento Interior;
+
+VIII. Instrumentar los medios necesarios para generar y difundir en Durango, una cultura empresarial; y
+
+IX. Recibir el presupuesto que el Gobierno del Estado le asigne cada año, administrarlo con eficiencia, transparencia e informar su utilización anualmente al Congreso del Estado y ante las demás instancias que la Ley prevé.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 11.
 
-El Consejo tendrá las siguientes atribuciones:
+El Consejo para el Desarrollo estará integrado de la siguiente forma:
 
-I. Proponer y concertar con las dependencias y entidades del sector público federal, estatal y municipal, las cámaras y organismos empresariales y los particulares interesados, programas, proyectos y acciones que impulsen a las regiones, ramas y actividades económicas de la entidad.
+I. Un Presidente Honorario, que será el Gobernador del Estado;
 
-II. Promover la articulación de los programas, estrategias y acciones de las dependencias y entidades de la administración pública federal, estatal y municipal como factores para elevar la competitividad de la economía de la entidad, de acuerdo con la política nacional y estatal para el desarrollo económico.
+II. Un Presidente Ejecutivo, representante del sector empresarial, que será nombrado de entre los cinco consejeros empresariales, quienes lo elegirán por mayoría de votos;
 
-III. Contribuir a la formulación de planes y programas de desarrollo económico con visión de largo plazo para el Estado de Durango y sus municipios, tomando en cuenta los estudios desarrollados por los sectores público y privado que resulten congruentes con el Plan Estratégico y el Plan Estatal de Desarrollo y que sienten las bases para una política de desarrollo económico de largo plazo.
+III. Un Vocal Ejecutivo, que será el titular de la Secretaria de Desarrollo Económico; y
 
-IV. Participar en la formulación, evaluación y seguimiento del Plan Estratégico y del Plan Estatal de Desarrollo y de los programas y acciones que de estos se deriven en materia de desarrollo económico.
+IV. Doce Consejeros propietarios, con sus respectivos suplentes, integrados de la siguiente forma:
 
-V. Aprobar los programas y proyectos de desarrollo empresarial, que realice la Secretaría, los cuales deberán desarrollarse en orden prioritario y sustentados en criterios técnicos que permitan cumplir con los fines de esta Ley; siendo preponderantes los relativos a cantidad y calidad en la generación o conservación de empleos y de inversión.
+a) Cuatro consejeros funcionarios públicos del Gobierno del Estado, con nivel de Secretario, que serán designados por el Gobernador del Estado.
 
-VI. Aprobar el Programa Anual de Promoción del Estado y sus municipios, el cual tiene por objeto atraer la inversión nacional y extranjera.
+b) Tres consejeros empresariales, que serán los Presidentes de los Comités Regionales de Promoción Económica; y
 
-VII. Gestionar ante la administración pública federal, estatal y municipal asignaciones presupuestales de conformidad con la priorización de objetivos y metas establecidas en los programas operativos anuales en materia de desarrollo económico.
+c) Cinco consejeros empresariales nombrados por el sector empresarial, de los cuales dos corresponderán a la región centro, dos a la región lagunera de Durango y un representante de la región noroeste del Estado.
 
-VIII. Proponer acciones de simplificación administrativa, de reingeniería de procesos en trámites y servicios estatales o municipales y de mejora de Leyes y reglamentos en esta materia.
+Por cada integrante del Consejo para el Desarrollo, se designará un suplente. El cargo de consejero será honorifico.
 
-IX. Articular, vincular y coordinar sus actividades con las acciones de los diversos consejos, comisiones y comités en materia de desarrollo económico.
+El Presidente Ejecutivo, los consejeros propietarios y suplentes, representantes de los Comités Regionales y de los empresarios, formarán parte del Consejo para el Desarrollo por periodos de tres años. Al término de cada periodo, los organismos podrán refrendar el nombramiento o designar a otro Consejero.
 
-X. Actuar como órgano consultivo en el seguimiento y aplicación del Plan Sectorial, velando por su cumplimiento y la consecución de sus objetivos.
+Los Consejeros propietarios y suplentes, podrán dejar de formar parte del Consejo para el Desarrollo antes de terminar el periodo para el que fueron nombrados, por las siguientes causas:
 
-XI. Fomentar la consultoría y capacitación a las MIPYMES que lo soliciten, al menos en las siguientes áreas:
+a) Por renuncia irrevocable;
 
-a. Diseño de producto o servicio.
+b) Por destitución, a solicitud formal presentada ante el Consejo para el Desarrollo por la institución que lo nombró Consejero; y
 
-b. Estudios de mercado.
+c) Por acuerdo del Consejo para el Desarrollo, tomado por mayoría calificada de más del sesenta y cinco por ciento de los consejeros.
 
-c. Comercialización y mercadeo.
+En caso de renuncia o destitución de algún consejero propietario, su suplente ocupará su lugar hasta que la institución correspondiente nombre formalmente un sustituto.
 
-d. Proceso de producción.
-
-e. Financiamiento.
-
-f. Expansión y exportación de productos.
-
-g. Desarrollo tecnológico;
-
-XII. Impulsar la vinculación de las MIPYMES con el sector público y las grandes empresas.
-
-XIII. Estimular la integración y eficiencia de las cadenas productivas y agrupamientos empresariales de MIPYMES.
-
-XIV. Instituir el Premio Duranguense a la Excelencia Empresarial, que reconozca de manera anual a las empresas que se hayan destacado en los términos de esta Ley.
-
-XV. Promover la certificación de especialistas que otorguen servicios de consultoría y capacitación a las MIPYMES.
-
-XVI. Solicitar la realización de estudios sobre los ordenamientos jurídicos vigentes, y proponer, en su caso, las modificaciones que correspondan en materia de competitividad local.
-
-XVII. Proponer proyectos que tiendan a la obtención de mayores niveles de competitividad, privilegiando una conciencia de sustentabilidad y cuidado del medio ambiente.
-
-XVIII. Formular y aprobar su reglamento interior.
-
-XIX. Las demás que le otorguen la presente Ley y demás disposiciones legales aplicables.
-
-La Secretaría por sí o a propuesta del Consejo, en coordinación con los ayuntamientos que corresponda, podrá constituir consejos regionales o municipales de desarrollo económico cuya organización y funcionamiento deberá establecerse en el reglamento interior respectivo.
-
-Estos consejos tendrán por objeto estudiar, analizar y proponer alternativas tendientes al desarrollo económico regional o municipal, en su caso, en los términos de la presente Ley.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 12.
 
-Se crean los Consejos Municipales de Desarrollo Económico, como instancias de coordinación institucional y de concertación con los sectores social y privado en cada municipio, los cuales estarán conformados, por:
+El Consejo para el Desarrollo se reunirá de manera ordinaria por lo menos una vez por trimestre. El Presidente Honorario y el Presidente Ejecutivo, podrán convocar a sesiones extraordinarias cuando así lo consideren necesario. Las convocatorias de las sesiones serán emitidas por el Vocal Ejecutivo.
 
-I. El Presidente Municipal.
+El Consejo para el Desarrollo tendrá la responsabilidad de elaborar y modificar su Reglamento Interno de Operación, que deberá ser aprobado por mayoría de más del sesenta y cinco por ciento de los votos del pleno.
 
-II. El Director de Desarrollo Económico o su equivalente.
+Los acuerdos del Consejo para el Desarrollo, serán tomados por consenso o, a falta de este, por mayoría simple de votos.
 
-III. El Director de Desarrollo Urbano y Obras Públicas o su equivalente.
-
-IV. El Director de Finanzas y de Administración o su equivalente.
-
-V. El Director de Turismo o su equivalente.
-
-VI. Por lo menos tres empresarios del municipio que designe el Presidente.
-
-Los empresarios deberán representar a todos los sectores económicos del Municipio y se elegirán preferentemente de entre los integrantes de las cámaras de organismos empresariales que tengan representación en el Municipio de que se trate, sin que esto sea obstáculo para elegir empresarios que no estén afiliados a un organismo; y de entre ellos será designado el Presidente de dicho Consejo.
-
-Por cada integrante del Consejo Municipal habrá un suplente, quién no podrá hacerse representar por otra persona y será designado con el mismo procedimiento que los propietarios.
-
-Cuando así lo estime el Presidente del Consejo Municipal de Desarrollo Económico, podrá invitar a las sesiones, a las personas que considere pertinentes para el logro de los objetivos de las mismas, las cuales tendrán derecho a voz pero no a voto.
-
-Los cargos de este Consejo son honoríficos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 13.
 
-Los Consejos Municipales de Desarrollo Económico tendrán las siguientes atribuciones:
+La Vocalía Ejecutiva, tendrá las siguientes funciones:
 
-I. Proponer y concertar con las dependencias y entidades del sector público federal, estatal y municipal, las cámaras y organismos empresariales y los particulares interesados, programas, proyectos y acciones que impulsen a las regiones, ramas y actividades económicas del municipio.
+I. Ejecutar los acuerdos del Consejo para el Desarrollo;
 
-II. Promover la articulación de los programas, estrategias y acciones de las dependencias y entidades de la administración pública federal y estatal como factores para elevar la competitividad de la economía del municipio, de acuerdo con la política nacional y estatal para el desarrollo económico.
+II. Proponer al Consejo para el Desarrollo, los programas de promoción económica y los proyectos de inversión en las distintas ramas de la actividad económica de la Entidad;
 
-III. Contribuir a la formulación de planes y programas de desarrollo económico con visión de largo plazo para el Municipio, tomando en cuenta los estudios desarrollados por los sectores público y privado que resulten congruentes con el Plan Municipal de Desarrollo y que sienten las bases para una política de desarrollo económico de largo plazo.
+III. Proponer al Consejo para el Desarrollo y ejecutar en su caso los estudios de factibilidad en cualquiera de las tres zonas que se identifican en la Entidad a través de los Comités Regionales de Promoción Económica;
 
-IV. Participar en la formulación, evaluación y seguimiento del Plan Municipal de Desarrollo y de los programas, estrategias y acciones que de éste se deriven en materia de desarrollo económico.
+IV. Asesorar a las personas físicas y morales, inversionistas nacionales y extranjeros, en los trámites para el establecimiento de empresas; y
 
-V. Proponer proyectos de promoción y desarrollo empresarial; los cuales deberán presentarse en un orden prioritario que esté sustentado en los criterios técnicos que en mayor medida cumplan con los fines de esta Ley; siendo preponderantes los relativos a cantidad y calidad en la generación o conservación de empleos y de inversión.
+V. Las demás que el Consejo para el Desarrollo le señale.
 
-VI. Gestionar ante la administración pública federal, estatal y municipal asignaciones presupuestales de conformidad con la priorización de objetivos y metas establecidas en los programas operativos anuales en materia de desarrollo económico.
-
-VII. Proponer acciones de simplificación administrativa, de reingeniería de procesos en trámites y servicios municipales y de mejora de reglamentos y de normatividad expedida por la autoridad municipal en esta materia.
-
-VIII. Articular, vincular y coordinar sus actividades con las acciones de los diversos consejos, comisiones y comités en materia de desarrollo económico.
-
-IX. Colaborar en coordinación con el Instituto Nacional de Economía Social en la capacitación y asesoría a los Organismos del Sector Social de la Economía, en actividades agrícolas, ganaderas, silvícola, pecuarias, pesqueras y las demás de explotación y aprovechamiento de recursos naturales, así como para la transformación y comercialización de productos.
-
-X. Formular y aprobar su reglamento interior.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-Cada Consejo Municipal de Desarrollo Económico, designará a uno de sus integrantes para que lo represente en las sesiones del Consejo, así como para que funja como vínculo ante la Secretaría, a efecto de dar seguimiento a los acuerdos que se tomen en el Consejo y en el Consejo Municipal.
+Se crean tres Comités Regionales de Promoción Económica que se integran geográficamente de la siguiente manera:
+
+I. El Comité Regional de Promoción Económica Zona Centro, que comprende los municipios de Durango, Canatlán, Guadalupe Victoria, Mezquital, Nombre de Dios, Pánuco de Coronado, Pueblo Nuevo, Poanas, San Juan del Río, San Dimas, Súchil y Vicente Guerrero. La sede será la ciudad de Durango, Dgo.
+
+II. El Comité Regional de Promoción Económica Zona Laguna que comprende los municipios de Gómez Palacio, Lerdo, Tlahualilo, Mapimí, Cuencamé, San Juan de Guadalupe, San Luis del Cordero, Simón Bolívar, Santa Clara, Nazas, Peñón Blanco y San Pedro del Gallo. La sede será la ciudad de Gómez Palacio, Dgo.
+
+III. El Comité Regional de Promoción Económica Zona Noroeste, que comprende los municipios de Santiago Papasquiaro, Canelas, Coneto de Comonfort, El Oro, Guanaceví, Hidalgo, Indé, Nuevo Ideal, Ocampo, Otáez, Rodeo, San Bernardo, Tamazula, Tepehuanes y Topia. La sede será la ciudad de Santiago Papasquiaro.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 14 BIS.
+
+Los Comités Regionales de Promoción Económica estarán integrados por consejeros designados por las organizaciones sociales y privadas que representan las principales actividades económicas de sus respectivos municipios, además de los representantes del sector académico y profesionistas. En todos los casos, deberán formar parte de los Comités la Secretaría y los Ayuntamientos, a través de un representante nombrado por el cabildo respectivo.
+
+El cargo de consejero será honorífico.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 14 BIS 1.
+
+Los Comités Regionales de Promoción Económica tendrán los siguientes objetivos:
+
+I. Agrupar y coordinar las representaciones de las principales asociaciones y actividades económicas, empresariales, sociales y de las autoridades municipales de la región de influencia;
+
+II. Participar a través de sus presidentes en el Consejo para el Desarrollo, colaborando con las propuestas y recomendaciones que orienten la planeación estratégica de la promoción económica del Estado;
+
+III. Definir un desarrollo económico integral en su región, diseñando esquemas específicos y planes estratégicos de promoción económica acordes con los del Estado, en el marco de las leyes y reglamentos de los municipios, del Estado y la Federación;
+
+IV. Mantener contacto permanente con la comunidad de su región para detectar, promover, apoyar e impulsar las propuestas, proyectos y actividades empresariales y económicas locales, regionales, nacionales y extranjeras que sean acordes con la planeación estratégica regional y estatal;
+
+V. Generar y aprobar su estructura y procedimientos operativos, en los términos de la reglamentación interna que cada uno de ellos elabore;
+
+VI. Representar al Consejo para el Desarrollo en su región e informarles de los acuerdos y actividades; y
+
+VII. Recibir el presupuesto que el Consejo para el Desarrollo le asigne cada año, administrarlo con eficiencia, transparencia e informar su utilización anualmente al Congreso del Estado y ante las demás instancias que la Ley prevé.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 14 BIS 2.
+
+El Patrimonio del Consejo para el Desarrollo y el de los Comités Regionales de Promoción Económica estará formado por:
+
+I. Los recursos que aporte mensualmente el Gobierno del Estado de Durango, por un monto equivalente al 15 por ciento de lo que se recaude cada mes por concepto de Impuesto Sobre Nómina en el Estado de Durango;
+
+II. Por los subsidios, aportaciones extraordinarias y donativos de los Gobiernos Federal, Estatal y Municipales, de entidades paraestatales e internacionales y de los particulares, entre otros;
+
+III. Los derechos que obtengan por vía de prestación de servicios de estudios, gestiones, análisis de viabilidad de los distintos proyectos que se sometan a la consideración del Consejo para el Desarrollo; por su ejecución o seguimiento; y
+
+IV. Por los recursos que se obtengan por cualquier otro concepto.
+
+El Consejo para el Desarrollo y los Comités Regionales de Promoción Económica, deberán comprobar el ejercicio de sus recursos a la Secretaría y a la Secretaría de Finanzas y de Administración, de conformidad con lo dispuesto en las leyes, reglamentos y demás normas aplicables en la materia.
 
 ## TÍTULO SEGUNDO. DEL FOMENTO A LA ACTIVIDAD EMPRESARIAL
 
@@ -379,9 +401,11 @@ I. Impulsar su creación, viabilidad, desarrollo, expansión, productividad, com
 
 II. Incrementar su participación en el mercado local, nacional e internacional, en un marco de crecimiento de las cadenas productivas que generen a los productos un mayor valor agregado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-La Secretaría elaborará un Plan Sectorial, en el marco de la normativa aplicable, tomando en cuenta los objetivos establecidos en el artículo anterior, así como los acuerdos que en uso de sus atribuciones tome el Consejo.
+La Secretaría elaborará un Plan Sectorial, en el marco de la normativa aplicable, tomando en cuenta los objetivos establecidos en el artículo anterior, así como los acuerdos que en uso de sus atribuciones tome el Consejo para el Desarrollo.
 
 ###### ARTÍCULO 20.
 
@@ -577,7 +601,7 @@ II. Promover la infraestructura para el desarrollo de empresas mezcaleras;
 
 II (SIC). Participar en la promoción de los mezcales duranguenses en el mercado local y nacional;
 
-V (SIC). Fomentar la organización y asociación de los productores de Mezcal del Estado;
+V (SIC) . Fomentar la organización y asociación de los productores de Mezcal del Estado;
 
 V (SIC). Impulsar la elaboración y ejecución de programas de capacitación entre los productores y asociaciones mezcaleras, con el apoyo de las instituciones de investigación y educación superior, en materia de investigación y transferencia tecnológica, sanidad y calidad;
 
@@ -971,9 +995,11 @@ VI. Proyectos productivos en las regiones, municipios y comunidades en los que s
 
 El Gobernador del Estado, a través de la Secretaría, promoverá la celebración de convenios y acuerdos de colaboración y coordinación entre el sector productivo y social del Estado, con las instituciones educativas del nivel medio superior y superior, con la finalidad de adecuar los índices temáticos y el perfil de los egresados a los requerimientos técnicos y profesionales de la planta productiva en el Estado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 73.
 
-El Presidente del Consejo podrá invitar a los representantes de las instituciones educativas estatales a participar en las sesiones del mismo, con la finalidad de que informen sobre la actualización de sus planes de estudios o la creación de nuevas áreas de estudio o profesiones. Los organismos empresariales informarán sobre los perfiles técnicos o profesionales que requieran sus áreas productivas.
+El Presidente del Consejo para el Desarrollo podrá invitar a los representantes de las instituciones educativas estatales a participar en las sesiones del mismo, con la finalidad de que informen sobre la actualización de sus planes de estudios o la creación de nuevas áreas de estudio o profesiones. Los organismos empresariales informarán sobre los perfiles técnicos o profesionales que requieran sus áreas productivas.
 
 #### SECCIÓN ÚNICA. DEL PREMIO DURANGUENSE A LA EXCELENCIA EMPRESARIAL
 
@@ -1101,7 +1127,9 @@ Los recursos que constituyen el Fondo se destinarán exclusivamente a su objeto,
 
 El Patrimonio del Fondo se dividirá en cuentas específicas según el objeto al que se destinen.
 
-El Gobernador del Estado podrá crear, modificar o suprimir conceptos y partidas presupuestales para los fines de esta Ley, por sí o a propuesta del Consejo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+El Gobernador del Estado podrá crear, modificar o suprimir conceptos y partidas presupuestales para los fines de esta Ley, por sí o a propuesta del Consejo para el Desarrollo.
 
 ###### ARTÍCULO 85.
 
@@ -1153,7 +1181,9 @@ IV. Así lo determine la Secretaría si se comprueba que la persona o empresa ce
 
 La Secretaría, organizará anualmente el Premio Duranguense a la Excelencia Empresarial.
 
-El Consejo emitirá las bases a las que se sujetará el otorgamiento del premio, el cual estará dirigido a aquellas empresas que tengan su Certificado de Empresa Duranguense y hayan obtenido logros sobresalientes en alguna de las modalidades siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+El Consejo para el Desarrollo emitirá las bases a las que se sujetará el otorgamiento del premio, el cual estará dirigido a aquellas empresas que tengan su Certificado de Empresa Duranguense y hayan obtenido logros sobresalientes en alguna de las modalidades siguientes:
 
 I. Desarrollo humano.
 
@@ -1169,7 +1199,9 @@ VI. Promoción de la equidad de género.
 
 VII. Promoción de la Identidad Duranguense.
 
-La persona o empresa que resulte premiada, además de la entrega de su reconocimiento, serán promovidas en los programas de difusión del Gobierno del Estado, candidatas preferentes a participar de los fondos y programa de incentivos y otros beneficios que se establezcan en las bases que al efecto se emitan en la convocatoria, y los demás que determine el Consejo a propuesta de sus integrantes.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+La persona o empresa que resulte premiada, además de la entrega de su reconocimiento, serán promovidas en los programas de difusión del Gobierno del Estado, candidatas preferentes a participar de los fondos y programa de incentivos y otros beneficios que se establezcan en las bases que al efecto se emitan en la convocatoria, y los demás que determine el Consejo para el Desarrollo a propuesta de sus integrantes.
 
 ## TÍTULO QUINTO. DE LA MEJORA REGULATORIA
 
@@ -1418,3 +1450,25 @@ P.O. 5 DE NOVIEMBRE DE 2017.
 PRIMERO. Las reformas a esta Ley entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2017,
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 340.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Para la elección de los cinco consejeros empresariales a que se refiere el artículo 11, fracción IV, inciso c), en la primera elección, la Secretaría convocará que los organismos y cámaras empresariales que integran el FOPRODEM Durango y el Sector Privado Empresarial de Durango, designen cada uno por asamblea a un consejero de los dos representantes de la región Durango, en este caso ningún organismo o cámara podrá duplicar su participación en la elección de consejeros; a la Cámara Nacional de la Industria de la Transformación de Gómez Palacio para que por asamblea elija a un representante, y a los empresarios más representativos de la Región Laguna Durango, para que por consenso elijan a un representante; a los empresarios más representativos de la Región Noroeste para que por consenso elijan a su representante.
+
+En la instalación del Consejo para el Desarrollo, por única ocasión, 2 de los consejeros a que se refiere el párrafo que antecede, durarán en su cargo 3 años y 2 consejeros 2 años. El Presidente Ejecutivo electo por estos consejeros durará en su cargo por lo menos 3 años; los otros 4 consejeros definirán su primer periodo por sorteo. El Presidente Ejecutivo y los consejeros empresariales podrán ser reelectos. A partir del segundo período, todos los consejeros empresariales durarán en su cargo 3 años.
+
+Para la renovación de los consejeros empresariales en los periodos subsecuentes, se recibirán por parte de las cámaras, asociaciones u organismos empresariales que realizaron la designación inicial, las propuestas por acuerdo de asamblea, y los consejeros en funciones serán quienes los ratifiquen o rechacen, en cuyo caso se deberá presentar una nueva propuesta.
+
+Este mecanismo de elección de los consejeros empresariales se deberá incluir en el Reglamento interior del Consejo para el Desarrollo.
+
+TERCERO.- Para la conformación de los Comités Regionales de Promoción Económica, la Secretaría de Desarrollo Económico convocará a las cámaras, asociaciones y organismos empresariales, empresarios, presidencias municipales y a los sectores académico y profesional para elegir a sus integrantes.
+
+CUARTO.- En un plazo que no exceda de 60 días a partir de la entrada en vigor del presente Decreto, se deberá instalar el Consejo para el Desarrollo.
+
+QUINTO.- Una vez instalado el Consejo para el Desarrollo, deberá expedir su Reglamento Interior en un término que no exceda de 90 días, mismo que deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
