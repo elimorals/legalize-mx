@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-de-la-contraloria-gubernamental-92990"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-06"
-last_updated: "2011-05-06"
+last_updated: "2017-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 REGLAMENTO INTERIOR DE LA CONTRALORÍA GUBERNAMENTAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 6 de mayo de 2011.
 
@@ -31,7 +31,9 @@ CONTRALORÍA GUBERNAMENTAL
 
 EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, en ejercicio de las facultades que al Ejecutivo a mi cargo confieren los artículos 91 fracción V, y 95 de la Constitución Política del Estado de Tamaulipas; 1 párrafos 1 y 2, 2 párrafo 1, 3, 10 párrafos 1 y 2, 11 párrafo 1 y 37 de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; y
 
-C O N S I D E R A N D O.
+C O N S I D E R A N D O
+
+[...]
 
 En virtud de la fundamentación y motivación expuestas, he tenido a bien expedir el siguiente:
 
@@ -371,11 +373,13 @@ XV. Requerir de las unidades administrativas de las dependencias o entidades la 
 
 XVI. Las demás que las disposiciones aplicables le confieran y las que le encomiende el Titular de su Coordinación.
 
-### CAPÍTULO IV. DE LAS FACULTADES DE TITULAR DE LA SUBCONTRALORÍA DE EVALUACIÓN Y MEJORA DE LA GESTIÓN
+### CAPÍTULO IV. DE LAS FACULTADES DEL TITULAR DE LA SUBCONTRALORÍA DE EVALUACIÓN Y MEJORA DE LA GESTIÓN
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-Al Titular de la Subcontraloría de Evaluación y Mejora de la Gestión corresponderá el ejercicio de las siguientes atribuciones:
+El Titular de la Subcontraloría de Evaluación y Mejora de la Gestión, tendrá las siguientes atribuciones:
 
 I. Acordar con el Titular de la Contraloría Gubernamental los asuntos relevantes de las unidades administrativas que le sean adscritas;
 
@@ -385,7 +389,9 @@ III. Someter a la aprobación del Titular de la Contraloría Gubernamental los p
 
 IV. Vigilar que se dé cumplimiento a los ordenamientos legales y a las disposiciones reglamentarias o administrativas en el despacho de los asuntos de su competencia;
 
-V. Planear, programar, organizar, dirigir y controlar las actividades de evaluación del desempeño, mejora de la gestión pública y transparencia que llevan a cabo sus unidades administrativas relativas a los procesos de adquisiciones, prestación de servicios, obra pública, atención ciudadana y demás servicios ofertados en las dependencias y entidades de la administración pública estatal, conforme a las instrucciones del Titular de la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+V. Planear, programar, organizar, dirigir y controlar las actividades de mejora de la gestión pública, control interno, mejora regulatoria, evaluación del desempeño institucional y de los servidores públicos, transparencia y las relativa (sic) al Sistema Estatal Anticorrupción que lleven a cabo sus unidades administrativas relativas a los procesos de adquisiciones, prestación de servicios, obra pública, atención ciudadana y demás servicios y actividades que se realicen en las dependencias y entidades de la administración pública estatal;
 
 VI. Coordinar las responsabilidades y labores encomendadas a las unidades administrativas a su cargo, estableciendo los mecanismos de integración e interrelación entre las mismas, cuando el caso lo amerite;
 
@@ -393,45 +399,149 @@ VII. Establecer el marco de los lineamientos, con base en el Plan Estatal de Des
 
 VIII. Integrar los proyectos, programas y presupuestos de sus unidades administrativas y proponerlos al Titular de la Contraloría Gubernamental para su autorización, vigilando su correcta y oportuna ejecución;
 
-IX. Dictar las medidas necesarias para mejorar el funcionamiento de sus unidades administrativas y proponer al Titular de la Contraloría Gubernamental la expedición de los acuerdos delegatorios que convengan para el idóneo y expedito despacho de los asuntos a su cargo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-X. Suscribir los documentos relativos al ejercicio de las facultades que legal y reglamentariamente sean de su competencia, que le hayan sido delegadas y las que le correspondan por suplencia;
+IX. Elaborar, modificar, actualizar y someter a la consideración del Titular de la Contraloría Gubernamental, los proyectos de políticas, estrategias, lineamientos, guías, manuales de procedimientos administrativos y demás instrumentos de carácter general en materia de ética, integridad pública y prevención de conflictos de intereses de las dependencias, entidades y Procuraduría General de Justicia, incluyendo las propuestas de actualización que correspondan al Código de Ética de los servidores públicos y a las Reglas de Integridad para el ejercicio de la función pública;
 
-XI. Certificar las copias que se requieran de la documentación, constancias o expedientes que obren en poder de sus unidades administrativas, o cuando así lo determine el Titular de la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-XII. Coordinar, previa instrucción del Titular de la Contraloría Gubernamental, el apoyo, asesoría y cooperación técnica en materia de mejora e innovación de la gestión pública a dependencias y entidades de la administración pública estatal que así lo soliciten;
+X. Actualizar los lineamientos, guías, manuales administrativos, y todo documento interno de la Contraloría Gubernamental, utilizando un lenguaje incluyente de igualdad de género;
 
-XIII. Designar provisionalmente al servidor público encargado del despacho de los asuntos en tanto se emite nombramiento al nuevo titular, en el caso de las vacantes de los titulares de sus unidades administrativas, previo acuerdo con el Titular de la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-XIV. Proponer al Titular de la Contraloría Gubernamental la contratación de servicios externos especializados que se requieran para el cumplimiento de sus funciones; y
+XI. Proponer al Titular de la Contraloría Gubernamental los mecanismos e instrumentos para realizar las auditorías de desempeño que se realicen en las dependencias y entidades de la administración pública estatal;
 
-XV. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Titular de la Contraloría Gubernamental y las que correspondan a sus unidades administrativas.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XII. Coordinar las auditorías de desempeño, supervisando el cumplimiento de la normatividad de las dependencias y entidades, así como medir el impacto social de la gestión pública a través de las mismas;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIII. Dictar las medidas necesarias para mejorar el funcionamiento de sus unidades administrativas y proponer al Titular de la Contraloría Gubernamental, la expedición de los acuerdos delegatorios que convengan para el idóneo y expedito despacho de los asuntos a su cargo;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIV. Coordinar el seguimiento a la implementación de las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XV. Vigilar la difusión y aplicación del Código de Ética y las Reglas de Integridad en las dependencias y entidades; así como la evaluación de los Comités de Ética, Conducta y Prevención de Conflictos de Interés;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVI. Establecer las políticas y estrategias de gobierno digital, gobierno abierto y datos abiertos para la administración pública estatal, proponiendo los mismos al Titular de la Contraloría Gubernamental, para su autorización;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVII. Impulsar la adopción, implementación y ejecución de la firma electrónica avanzada y de otros medios de identificación electrónica, en las dependencias, entidades y en la Procuraduría General de Justicia;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Fungir como responsable de la autoridad certificadora del Gobierno del Estado, vigilando el cumplimiento de la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIX. Fungir como comisionada o comisionado de la Comisión Estatal de Mejora Regulatoria; y como Secretaria o Secretario Técnico dentro del Consejo Estatal de Mejora Regulatoria; previo acuerdo con el Titular de la Contraloría Gubernamental;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XX. Celebrar convenios interinstitucionales en materia de mejora regulatoria con las dependencias y entidades de la administración pública federal, así como de otras entidades federativas y municipios, a efecto de incidir en la agilización de trámites y servicios en materias comunes y/o concurrentes;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXI. Suscribir los documentos relativos al ejercicio de las facultades que legal y reglamentariamente sean de su competencia, que le hayan sido delegadas y las que le correspondan por suplencia;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXII. Certificar las copias que se requieran de la documentación, constancias o expedientes que obren en poder de sus unidades administrativas, o cuando así lo determine el Titular de la Contraloría Gubernamental;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Coordinar, previa instrucción del Titular de la Contraloría Gubernamental, el apoyo, asesoría y cooperación técnica en materia de mejora regulatoria a las dependencias y entidades de la administración pública estatal, así como a los municipios que así lo soliciten;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXIV. Designar provisionalmente al servidor público encargado del despacho de los asuntos en tanto se emite nombramiento al nuevo titular, en el caso de las vacantes de los titulares de sus unidades administrativas, previo acuerdo con el Titular de la Contraloría Gubernamental;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXV. Acordar y gestionar las políticas, normas y criterios en materia de planeación, administración de recursos humanos, contratación de personal y estructuras orgánicas y ocupacionales, con las que deben cumplir las dependencias y entidades del Poder Ejecutivo; así como supervisar los análisis y dictámenes de estructuras organizacionales;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXVI. Recibir, integrar y opinar sobre los Programas Sectoriales y Municipales de Mejora Regulatoria que elaboren las instancias correspondientes, dando seguimiento al cumplimiento de las acciones previstas en los mismos;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXVII. Proponer al Titular de la Contraloría Gubernamental, la contratación de servicios externos especializados que se requieran para el cumplimiento de sus funciones; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XXVIII. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Titular de la Contraloría Gubernamental y las que correspondan a sus unidades administrativas.
 
 ###### ARTÍCULO 15.
 
 El Titular de la Dirección de Evaluación del Desempeño, tendrá las siguientes atribuciones:
 
-I. Formular los diagnósticos institucionales de las dependencias y entidades de la administración pública estatal y sujetarlos al acuerdo respectivo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-II. Valorar el funcionamiento de actividades, el uso de los recursos, los resultados y el impacto de un servicio, programa o proyecto, para mejorar la creación de valor público;
+I. Formular las evaluaciones institucionales de las dependencias y entidades de la administración pública estatal y sujetarlos al acuerdo respectivo;
 
-III. Implementar, previo acuerdo con el titular de la Subcontraloría de Evaluación y Mejora de la Gestión, el sistema de gestión gubernamental, orientado al seguimiento, evaluación y control del ejercicio del gasto público estatal, en cumplimiento a los programas, metas y proyectos de inversión de las dependencias y entidades consideradas en el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-IV. Proponer los mecanismos e instrumentos de evaluación y seguimiento de los objetivos, metas y acciones de los programas institucionales que permitan establecer niveles cuantitativos y cualitativos de avances del Plan Estatal de Desarrollo;
+II. Gestionar la implementación del Sistema de Control Interno Institucional en las dependencias y entidades de la administración pública estatal;
 
-V. Proponer, para efectos de lo dispuesto en la fracción anterior, la emisión de normas de carácter general, lineamientos y políticas que rijan el funcionamiento del sistema de control y evaluación de la gestión gubernamental en las dependencias y entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-VI. Instrumentar mecanismos de medición y valoración del desempeño con base en indicadores de gestión y resultados para el seguimiento y evaluación del Plan Estatal de Desarrollo;
+III. Promover y difundir el Código de Ética y Reglas de Integridad de los servidores públicos del Poder Ejecutivo; así como el establecimiento y evaluación de los Comités de Ética y Prevención de Conflictos de Interés;
 
-VII. Implementar el sistema de evaluación del desempeño de los servidores públicos, con base a los instrumentos y mecanismos diseñados al efecto con criterios de integridad, fortaleza en conocimientos, experiencia, habilidades, vocación de servicio, competencias profesionales y sensibilidad a las demandas y denuncias ciudadanas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-VIII. Evaluar la suficiencia y efectividad de la estructura de control interno establecida en la Contraloría Gubernamental, informando periódicamente a las instancias competentes el estado que guarda;
+IV. Promover y difundir el Código de Conducta a los servidores públicos de la Contraloría Gubernamental;
 
-IX. Evaluar la ejecución de los programas especiales que resulten del ámbito de competencia de la Contraloría Gubernamental, así como de los programas presupuestarios de las unidades administrativas de la misma, con base en el Sistema de Evaluación del Desempeño;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-X. Someter a consideración del Titular de la Subcontraloría de Evaluación y Mejora de la Gestión, los métodos y herramientas para el seguimiento y evaluación de los resultados del Plan Estatal de Desarrollo; y
+V. Analizar las estructuras orgánico-funcionales de las dependencias y entidades, en coordinación con las Secretarías de Finanzas y de Administración, realizando los ajustes para los efectos presupuestales correspondientes, previo acuerdo con el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión;
 
-XI. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión y las que correspondan a las unidades administrativas que se le adscriban.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+VI. Implementar, previo acuerdo con el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión, el Sistema de Evaluación del Desempeño Institucional, orientado al monitoreo, evaluación y seguimiento del ejercicio del gasto público y su congruencia con el presupuesto de egresos, en función de los objetivos y metas de los programas presupuestarios;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+VII. Proponer al Titular de la Subcontraloría de Evaluación y Mejora de la Gestión, las normas que regulen los instrumentos y procedimientos de control interno de la administración pública estatal, así como la reglamentación complementaria necesaria, coadyuvando con el Comité Coordinador del Sistema Estatal Anticorrupción para ello;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+VIII. Proponer los mecanismos de evaluación y seguimiento de los objetivos, metas y acciones de los programas presupuestarios que ejecutan las dependencias y entidades, que permitan establecer niveles cuantitativos y cualitativos de avances;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+IX. Proponer, para efectos de lo dispuesto en la fracción anterior, la emisión de normas de carácter general, lineamientos y políticas que rijan el funcionamiento del Sistema de Evaluación del Desempeño Institucional en las dependencias y entidades de la administración pública estatal; así como proporcionar la capacitación requerida para su eficaz cumplimiento;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+X. Instrumentar mecanismos de medición y valoración del desempeño con base en indicadores de gestión y resultados para el seguimiento y evaluación del quehacer gubernamental;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XI. Establecer los mecanismos para la supervisión de los sistemas y procedimiento de control y evaluación de la administración pública estatal, sometiéndolos a consideración del Titular de la Subcontraloría de Evaluación y Mejora de la Gestión;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XII. Implementar el Sistema de Evaluación del Desempeño de los Servidores Públicos, con base en los instrumentos y mecanismos diseñados con criterios de integridad, para fortalecer en conocimientos, experiencia, habilidades, vocación de servicio, competencias profesionales y sensibilidad a las demandas y denuncias ciudadanas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIII. Validar los Manuales de Organización de las dependencias y entidades, previo acuerdo con el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIV. Supervisar el cumplimiento de las normas de control interno en la administración pública estatal, en coordinación con el Comité Coordinador del Sistema Estatal Anticorrupción; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XV. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión y las que correspondan a las unidades administrativas que se le adscriban.
 
 ###### ARTÍCULO 16.
 
@@ -439,55 +549,211 @@ El Titular de la Dirección de Mejora de la Gestión Pública, tendrá las sigui
 
 I. Fortalecer las acciones orientadas a la mejora continua y gestión de la calidad en los programas y los servicios de beneficio directo en la población;
 
-II. Modernizar los procesos y la gestión de programas a través de la mejora regulatoria, con criterios de transparencia y simplificación administrativa;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-III. Proponer al Titular de la Subcontraloría de Evaluación y Mejora de la Gestión, una política de atención ciudadana que impulse los mecanismos e instancias de atención de peticiones y de participación ciudadana en la evaluación de los trámites y servicios a cargo de las dependencias y las entidades;
+II. Implementar las medidas dictadas por el Consejo Estatal de Mejora Regulatoria en las dependencias y entidades de la administración pública, así como de los municipios, previo acuerdo con el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión;
 
-IV. Realizar diagnósticos y evaluar la información proporcionada al módulo de servicios en línea en la página Web;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-V. Promover la modernización y control de los procesos de la administración pública, para una gestión eficiente y de uso racional de los recursos;
+III. Modernizar los trámites, servicios y procesos a través de la mejora regulatoria, con criterios de transparencia y simplificación administrativa;
 
-VI. Proponer e implantar programas de mejoramiento encaminados a la modernización, simplificación, desconcentración, descentralización y desregulación administrativa de las dependencias y entidades;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-VII. Analizar y dictaminar las estructuras orgánico-funcionales de las dependencias y entidades, en coordinación con las Secretarías de Finanzas y de Administración, para los efectos presupuestales correspondientes, previo acuerdo con el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión;
+IV. Proponer al Titular de la Subcontraloría de Evaluación y Mejora de la Gestión, una política de atención ciudadana que impulse los mecanismos e instancias de atención de peticiones y de participación ciudadana en la evaluación de los trámites y servicios a cargo de las dependencias y las entidades;
 
-VIII. Emitir las normas y lineamientos que deben observar las dependencias y entidades en la formulación de sus manuales administrativos y, en su caso, autorizar los mismos, previo acuerdo correspondiente;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-IX. Realizar diagnósticos y opinar sobre el grado de avance y estado que guardan las dependencias y las entidades en materia de desarrollo administrativo integral, modernización y mejora de la gestión pública;
+V. Implementar los mecanismos efectivos para llevar a cabo foros de consulta pública en materia de mejora regulatoria, así como encuestas electrónicas vinculadas a trámites y servicios gubernamentales;
 
-X. Valorar el trabajo de las dependencias y entidades para evaluar que realicen una gestión eficiente e incrementen su capacidad para cumplir con el mandato para el cual fueron creadas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-XI. Proponer la estrategia alineada al Plan Estatal de Desarrollo en relación a la mejora de la gestión y proyectos que deban ser implementados para cumplir con los objetivos institucionales; y
+VI. Proponer al Titular de la Subcontraloría de Evaluación y Mejora de la Gestión, los mecanismos e instrumentos para la evaluación de los trámites y servicios a cargo de las dependencias y entidades de la administración pública estatal;
 
-XII. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión y las que correspondan a las unidades administrativas que se le adscriban.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+VII. Aplicar la evaluación de trámites, servicios y procesos de las dependencias y entidades conforme a los instrumentos y mecanismos establecidos;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+VIII. Promover la modernización y control de los procesos de la administración pública, para una gestión eficiente y de uso racional de los recursos;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+IX. Administrar el Registro Estatal de Trámites y Servicios, proporcionando la capacitación y asesoría a los enlaces de mejora regulatoria de las dependencias y entidades para su manejo eficiente;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+X. Organizar y dar seguimiento a la agenda integral de mejora regulatoria con los municipios, a fin de establecer prioridades en materia institucional, trámites y sistemas para la facilidad de hacer negocios;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XI. Coordinar la instalación y seguimiento de la Ventanilla Única Nacional para los trámites e información del gobierno;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XII. Proponer e implantar programas de mejoramiento encaminados a la modernización, simplificación, desconcentración, descentralización y desregulación administrativa de las dependencias y entidades;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIII. Proponer las normas y lineamientos que deben observar las dependencias y entidades en la elaboración de sus manuales de procedimientos y, en su caso, proporcionar la asesoría a los mismos; exigiendo que en los mismos se utilice un lenguaje incluyente de igualdad de género;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIV. Revisar y validar los manuales de procedimientos de las dependencias y entidades, con base en los lineamientos normativos establecidos;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XV. Supervisar, vigilar y verificar a través de la operación encubierta de servidores públicos, el desempeño de los funcionarios estatales y municipales en la realización de trámites, prestación de servicios, incluyendo la ejecución de licitaciones de obra pública con presupuesto estatal y/o federal; así como también las visitas al sitio para verificar y corroborar los análisis y resultados de las auditorías a obra pública para asegurar la calidad de los trámites y servicios otorgados a la ciudadanía;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVI. Realizar diagnósticos y opinar sobre el grado de avance y estado que guardan las dependencias y las entidades en materia de mejora regulatoria, modernización y mejora de la gestión pública;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVII. Controlar la emisión y revocación de los Certificados de Firma Electrónica Avanzada del Gobierno del Estado de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Coordinar las asesorías y apoyo técnico a las dependencias y entidades para la implementación de la Firma Electrónica Avanzada en los trámites y servicios que se ofrecen;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIX. Proponer la estrategia alineada al Plan Estatal de Desarrollo en relación a la mejora de la gestión y proyectos que deban ser implementados para cumplir con los objetivos institucionales; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XX. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión y las que correspondan a las unidades administrativas que se le adscriban.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 16 BIS. El Titular de la Dirección de Implementación del Sistema Anticorrupción y Fiscalización, tendrá las siguientes atribuciones:
+
+I. Someter a la aprobación del Titular de la Subcontraloría de Evaluación y Mejora de la Gestión, los proyectos de normas, lineamientos y políticas que se generen en apoyo a la implementación del Sistema Estatal Anticorrupción en la administración pública estatal;
+
+II. Colaborar, cuando así se requiera, con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, en la generación de la normatividad para la implementación del mismo en la administración pública estatal;
+
+III. Fungir como enlace o apoyo operativo con el Comité Coordinador del Sistema Estatal Anticorrupción, para la aplicación de las medidas administrativas en las dependencias y entidades de la administración pública estatal, que este Comité emita;
+
+IV. Coordinar el seguimiento a las observaciones y recomendaciones emitidas por el Comité Coordinador en el ámbito de aplicación de la Contraloría; así como supervisar los avances en las demás áreas de la administración pública estatal;
+
+V. Establecer las políticas de vinculación y coordinación interinstitucional entre los distintos órdenes de gobierno, y dentro de la misma administración pública, previo acuerdo con la o el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión;
+
+VI. Evaluar a la administración pública estatal, de conformidad con la normativa aplicable, el cumplimiento de la política anticorrupción que apruebe el Comité Coordinador del Sistema Estatal Anticorrupción, con el apoyo de las unidades administrativas competentes de las áreas;
+
+VII. Promover que las dependencias y entidades que ejecutan recursos estatales y federales, cumplan con los lineamientos que emita el Sistema Estatal Anticorrupción y el Sistema Nacional de Fiscalización;
+
+VIII. Coordinar al interior de la Contraloría Gubernamental, el seguimiento al cumplimiento de las políticas, planes, programas y acciones del Sistema Estatal Anticorrupción y del Sistema Nacional de Fiscalización;
+
+IX. Proponer y en su caso ejecutar programas de capacitación, entrenamiento y/o certificaciones relacionados con el Sistema Estatal Anticorrupción y el Sistema Nacional de Fiscalización;
+
+X. Asesorar a las áreas gubernamentales, sobre su participación y cumplimiento del Sistema Estatal Anticorrupción y del Sistema Nacional Anticorrupción;
+
+XI. Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al superior inmediato, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la administración pública estatal;
+
+XII. Verificar y supervisar el cumplimiento de las disposiciones de la Ley de Gasto Público, Ley de Bienes del Estado y Municipios de Tamaulipas, así como de la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus Municipios, referentes a las adquisiciones, arrendamientos, prestación de servicios, obras públicas y servicios relacionados con las mismas, llevadas a cabo por las dependencias, órganos desconcentrados, órganos político-administrativos y entidades de la administración pública estatal;
+
+XIII. Dar seguimiento a la correcta aplicación de sanciones impuestas por el Tribunal de Justicia Administrativa del Estado de Tamaulipas, verificando el debido seguimiento a los impedimentos para participar en licitaciones públicas, invitaciones restringidas, adjudicaciones directas y celebración de contratos a personas físicas y morales en los casos previstos en las disposiciones jurídicas y administrativas aplicables;
+
+XIV. Coordinar campañas de concientización en materia de anticorrupción, las que deberán ser difundidas de forma permanente, con el objetivo de fortalecer y consolidar la confianza del ciudadano en la administración pública estatal, de acuerdo a las directrices que marque el Comité Coordinador del Sistema Estatal Anticorrupción; y
+
+XV. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Titular de la Subcontraloría de Evaluación y Mejora de la Gestión y las que correspondan a las unidades administrativas que se le adscriban.
 
 ### CAPÍTULO V. DE LOS TITULARES DE LAS UNIDADES ADMINISTRATIVAS ADSCRITAS A LA OFICINA DEL CONTRALOR GUBERNAMENTAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 17.
 
-El Titular de la Dirección Administrativa, tendrá las siguientes atribuciones:
+El Titular de la Secretaría Técnica, tendrá las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+I. Emitir informes y reportes de información estratégica que permita al Titular de la Contraloría Gubernamental, conocer el grado de avance en el cumplimiento de los objetivos y líneas de acción del Plan Estatal de Desarrollo; así como de los programas, proyectos y temas relevantes de la Contraloría Gubernamental y sus áreas adscritas;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+II. Solicitar y concentrar datos e información a las áreas de la Contraloría Gubernamental respecto a las actividades que estén realizando mediante el Sistema de Administración Estratégica de Programas y Proyectos, a fin de conocer los avances, informando al Titular de la Contraloría Gubernamental de los resultados obtenidos y su impacto en los objetivos institucionales;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+III. Integrar y proporcionar al Titular de la Contraloría Gubernamental, reportes e información que contribuya y facilite la toma de decisiones, con base en la información recibida por las áreas de la dependencia;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+IV. Elaborar estudios y análisis a las problemáticas presentadas en las áreas de la dependencia, permitiendo anticipar escenarios no deseados o problemáticas, sugiriendo en su caso, al Titular de la Contraloría Gubernamental, estrategias de acción y alternativas para su oportuna solución;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+V. Proponer al Titular de la Contraloría Gubernamental, los programas y proyectos que tengan como fin el mejoramiento del control, eficiencia y eficacia gubernamental, incluidos aquellos que auxilien a formar mejores servidoras o servidores públicos;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+VI. Coadyuvar en el control y seguimiento a los acuerdos con la Comisión Permanente de Contralores Estado - Federación, Secretaría de la Función Pública y Conferencia Nacional de Gobernadores;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+VII. Dar seguimiento a las actividades relevantes de la Contraloría Gubernamental; de ser necesario, realizar verificaciones físicas para corroborar la correcta ejecución de las mismas;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+VIII. Colaborar en la revisión de los informes derivados de las auditorías o visitas de inspección realizadas por la Dirección de Auditoría Pública, así como los Órganos de Control Interno en las dependencias y entidades, y coadyuvar en el seguimiento y la mejora continua;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+IX. Dar seguimiento a los informes de las auditorías a programas y proyectos financiados con recursos federales, formalizados con la Secretaría de la Función Pública;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+X. Dar seguimiento a los informes de resultados de las auditorías y verificaciones a obra pública federal y servicios relacionados con las mismas, en coordinación con la Dirección de Auditoría a Obra Pública y con los Órganos de Control Interno en las dependencias y entidades de la administración pública estatal;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XI. Asegurar el seguimiento al cumplimiento del programa de trabajo que se celebre entre la Secretaría de la Función Pública y la Contraloría Gubernamental en materia de auditoría a obra pública, a programas federalizados y de contraloría social;
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XII. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento del área a su cargo, proponiendo al Titular de la Contraloría Gubernamental, las mejoras que se requieran; y
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+XIII. Las demás que las disposiciones aplicables le confieran, las que le encomiende el Titular de la Contraloría Gubernamental y las que correspondan al área a su cargo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 17 BIS. El Titular de la Dirección Administrativa, tendrá las siguientes atribuciones:
 
 I. Acordar con el Titular de la Contraloría Gubernamental el despacho de los asuntos a su cargo y responsabilidad;
 
-II. Desempeñar la funciones que el Titular de la Contraloría Gubernamental le delegue o encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
+II. Desempeñar las funciones que el Titular de la Contraloría Gubernamental le delegue o encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
 
 III. Establecer y conducir la política de administración interna que determine el Titular de la Contraloría Gubernamental;
 
 IV. Implementar las normas, sistemas y procedimientos institucionales para la administración de los recursos humanos, materiales y financieros, y aquellos que establezca la Contraloría Gubernamental de acuerdo a sus programas y objetivos;
 
-V. Integrar y someter a la consideración del Titular de la Contraloría Gubernamental el proyecto de presupuesto anual de la dependencia así como vigilar y controlar el ejercicio del presupuesto autorizado;
+V. Integrar y someter a la consideración del Titular de la Contraloría Gubernamental, el proyecto de presupuesto anual de la dependencia, así como vigilar y controlar el ejercicio del presupuesto autorizado;
 
-VI. Gestionar, administrar y ejercer los recursos derivados del 5 al millar federal y estatal establecidos en la Ley Federal de Derechos y en la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas, respectivamente, destinados a la realización de las acciones de inspección, control y vigilancia;
+VI. Resguardar los vehículos oficiales y bienes inventariables que son patrimonio de la Contraloría Gubernamental en caso de no existir resguardante asignado;
 
-VII. Proporcionar a las unidades administrativas de la Contraloría Gubernamental, los servicios de apoyo correspondientes en materia de recursos humanos, materiales, financieros y de servicios generales que requieran para el desarrollo de sus actividades;
+VII. Gestionar, recibir, administrar, vigilar y ejercer los derechos federales que se destinen como apoyo, para realizar funciones de supervisión, verificación, fiscalización y evaluación de conformidad con la normatividad aplicable;
 
-VIII. Someter a la consideración del Titular de la Contraloría Gubernamental, los convenios y contratos en los que la dependencia sea parte y que afecten a su presupuesto, así como los demás documentos que impliquen actos de administración;
+VIII. Implementar y coordinar programas de capacitación para promover el desarrollo profesional del personal adscrito a la Contraloría Gubernamental;
 
-IX. Registrar, controlar y mantener actualizado el inventario de los bienes muebles e inmuebles de la Contraloría Gubernamental, e informar al área de control patrimonial del Gobierno del Estado respecto de las altas, bajas y cambios en el mismo;
+IX. Autorizar, coordinar y verificar el cumplimiento del servicio social de los estudiantes asignados a las áreas de la Contraloría Gubernamental;
 
-X. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de la unidad administrativa a su cargo y proponer al Contralor Gubernamental las mejoras que se requieran; y
+X. Apoyar al Titular de la Contraloría Gubernamental en la implementación y seguimiento del Sistema de Control Interno Institucional en la dependencia;
 
-XI. Las demás que le confieran las disposiciones legales aplicables y el Titular de la Contraloría Gubernamental.
+XI. Gestionar, administrar y ejercer los recursos derivados del 5 al millar federal y estatal establecidos en la Ley Federal de Derechos y en la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas, respectivamente, destinados a la realización de las acciones de inspección, control y vigilancia;
+
+XII. Proporcionar a las unidades administrativas de la Contraloría Gubernamental, los servicios de apoyo correspondientes en materia de recursos humanos, materiales, financieros y de servicios generales que requieran para el desarrollo de sus actividades;
+
+XIII. Someter a la consideración del Titular de la Contraloría Gubernamental, los convenios y contratos en los que la dependencia sea parte y que afecten a su presupuesto, así como los demás documentos que impliquen actos de administración;
+
+XIV. Registrar, controlar y mantener actualizado el inventario de los bienes muebles e inmuebles de la Contraloría Gubernamental, e informar al área de control patrimonial del Gobierno del Estado, respecto de las altas, bajas y cambios en el mismo;
+
+XV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de la unidad administrativa a su cargo y proponer al Titular de la Contraloría Gubernamental, las mejoras que se requieran; y
+
+XVI. Las demás que le confieran las disposiciones legales aplicables y el Titular de la Contraloría Gubernamental y las que correspondan al área a su cargo.
 
 ###### ARTÍCULO 18.
 
@@ -598,3 +864,13 @@ Se abroga el Reglamento Interior de la Dirección General de la Contraloría Est
 Dado en la sede del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, el tres de mayo del dos mil once.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.- LA CONTRALORA GUBERNAMENTAL.- GILDA CAVAZOS LLITERAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO GUBERNAMENTAL MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA GUBERNAMENTAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
