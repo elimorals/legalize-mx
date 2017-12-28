@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2017-12-07"
+last_updated: "2017-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -834,7 +834,9 @@ LII. Turismo, y
 
 LIII. Vivienda.
 
-3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por el párrafo primero del artículo 93 constitucional, y su competencia se corresponde en lo general con las otorgadas a las dependencias y entidades de la Administración Pública Federal.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2017)</small>
+
+3. Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio conforme a lo dispuesto por los artículos 26, apartado A, párrafo cuarto y 93, párrafo primero de la Constitución, y su competencia se corresponde en lo general con las otorgadas a las dependencia (sic) y entidades de la Administración Pública Federal.
 
 ###### ARTICULO 40.
 
@@ -1024,9 +1026,9 @@ f) Servicios de Bibliotecas, que comprende los de: acervo de libros; hemeroteca;
 
 2. Cada uno de los Servicios establecidos en el párrafo anterior se constituye en una Dirección, la cual se estructura con las oficinas que se requieran, conforme a lo que se disponga en el Estatuto.
 
-> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2017)</small>
 
-3. La Cámara contará también, en el ámbito de la Secretaría General y adscritos a la Secretaría de Servicios Parlamentarios, con los centros de estudios de las finanzas públicas; de estudios de derecho e investigaciones parlamentarias; de estudios sociales y de opinión pública; de estudios para el desarrollo rural sustentable y la soberanía alimentaria, y de estudios para el adelanto de las mujeres y la equidad de género.
+3. La Cámara contará también, en el ámbito de la Secretaría General y adscritos a la Secretaría de Servicios Parlamentarios, con los centros de estudios de las finanzas públicas; de estudios de derecho e investigaciones parlamentarias; de estudios sociales y de opinión pública; de estudios para el desarrollo rural sustentable y la soberanía alimentaria, y de estudios para el logro de la igualdad de género.
 
 ###### ARTICULO 50.
 
@@ -2785,3 +2787,15 @@ D.O.F. 7 DE DICIEMBRE DE 2017.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Senado de la República, dentro de los 60 días siguientes a la publicación del presente Decreto, hará las modificaciones correspondientes al Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos del Senado de la República y al Estatuto del Servicio Civil de Carrera.
+
+D.O.F. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA EL NUMERAL 3 DEL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 49 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
