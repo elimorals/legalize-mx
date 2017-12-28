@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-coordinacion-fiscal-del-estado-de-michoacan-de-ocampo-65
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2016-08-05"
+last_updated: "2017-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2008.
 
@@ -53,23 +55,21 @@ Así también, establecer las reglas de colaboración administrativa entre el Es
 
 ### CAPÍTULO II. De las Participaciones en Ingresos Federales y Estatales a los Municipios
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 2º.
 
 Los Municipios del Estado de Michoacán de Ocampo, percibirán por conducto del Gobierno del Estado, los ingresos por concepto de Participaciones en los Impuestos Federales y en los Derechos sobre la Extracción de Petróleo y de Minería, de conformidad con lo establecido por los artículos 2º, 2º- A fracción III, 3º- A, 4°, 4- A y 6º de la Ley de Coordinación Fiscal, así como de la recaudación del Impuesto sobre Loterías, Rifas, Sorteos y Concursos, e Impuesto Sobre Tenencia o Uso de Vehículos, conforme a lo dispuesto por los artículos 5 y 17, respectivamente, de la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+###### ARTÍCULO 2°.
 
-###### ARTÍCULO 3º.
+Los municipios del Estado de Michoacán, percibirán por conducto del Gobierno del Estado, los ingresos por concepto de Participaciones en los Impuestos Federales y en los Derechos sobre la Extracción de Petróleo y de Minería, de conformidad con lo establecido por los artículos 2°, 2°-A fracción III, 3°-A, 4°, 4-A y 6° de la Ley de Coordinación Fiscal, así como de la recaudación del Impuesto Estatal sobre Loterías, Rifas, Sorteos y Concursos, con fundamento en el artículo 13 de la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
-Con el monto de las participaciones que correspondan a los Municipios del Estado, conforme a las disposiciones a que se refiere el artículo anterior, se constituirán el Fondo Participable, el Fondo de Gasolinas y Diesel y el Fondo Estatal para la Infraestructura de los Servicios Públicos Municipales, con el equivalente a las proporciones siguientes:
+###### ARTÍCULO 3°.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Con el monto de las participaciones que correspondan a los Municipios del Estado, conforme a las disposiciones a que se refiere el artículo anterior, se constituirán el Fondo Participable y el Fondo de Gasolinas y Diesel, con el equivalente a las proporciones siguientes:
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -95,8 +95,6 @@ c) El 80% de los ingresos que percibe el Estado del Impuesto sobre Loterías, Ri
 
 d) El 80% de los ingresos que percibe el Estado del Impuesto sobre Loterías, Rifas, Sorteos y Concursos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 II. Fondo de Gasolinas y Diesel:
@@ -107,21 +105,11 @@ b) El 20% de lo que corresponde al Estado del Fondo de Compensación, derivado d
 
 El Fondo de Compensación, se integra con el 18.1818% del total recaudado por cada una de las entidades federativas del país; el cual se distribuye entre las 10 entidades federativas que, de acuerdo con la última información oficial del Instituto Nacional de Estadística y Geografía, tengan los menores niveles del Producto Interno Bruto Per Cápita no minero y no petrolero; el cual se obtiene de la diferencia entre el Producto Interno Bruto Estatal Total y el Producto Interno Bruto Estatal Minero, incluyendo todos los rubros contenidos en el mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-III. Fondo Estatal para la Infraestructura de los Servicios Públicos Municipales.
+III. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2017)
 
 Con el 5% de lo que le corresponda al Estado, en el Fondo General de Participaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-###### ARTÍCULO 2°.
-
-Los municipios del Estado de Michoacán, percibirán por conducto del Gobierno del Estado, los ingresos por concepto de Participaciones en los Impuestos Federales y en los Derechos sobre la Extracción de Petróleo y de Minería, de conformidad con lo establecido por los artículos 2°, 2°-A fracción III, 3°-A, 4°, 4-A y 6° de la Ley de Coordinación Fiscal, así como de la recaudación del Impuesto Estatal sobre Loterías, Rifas, Sorteos y Concursos, con fundamento en el artículo 13 de la Ley de Hacienda del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 4º.
 
@@ -130,8 +118,6 @@ El Fondo Participable, se distribuirá conforme a la fórmula siguiente:
 > <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2008, PÁGINAS DE LA 2 A LA 7.</small>
 
 > <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 2 A LA 3.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -147,8 +133,6 @@ Siendo los Municipios referidos en el párrafo anterior, a los que se les distri
 
 > <small>N. DE E. VÉASE FÓRMULA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINA 4.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 5°.
@@ -160,8 +144,6 @@ El Fondo de Gasolinas y Diesel, se distribuirá conforme a la fórmula siguiente
 > <small>N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 4 A LA 5.</small>
 
 Coeficientes que se encuentran debajo de la Media aritmética: Son los utilizados para la distribución del Fondo de Aportaciones para la Infraestructura Social de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, del ejercicio fiscal vigente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -177,8 +159,6 @@ II. El 45%, en función del grado de desarrollo relativo de cada municipio, en l
 
 III. El 10%, en proporción inversa a la participación por habitante, de la suma de las dos partes anteriores, en los términos del artículo 11 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 6°-A.
@@ -186,8 +166,6 @@ III. El 10%, en proporción inversa a la participación por habitante, de la sum
 La distribución entre los Municipios del Fondo de Fomento Municipal, referido en el tercer párrafo del Artículo 4°-A de esta Ley, se realizará conforme al criterio siguiente:
 
 I. El 100%en (sic) función del crecimiento en la recaudación del Impuesto Predial de los dos últimos ejercicios fiscales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -200,8 +178,6 @@ La distribución entre los Municipios, del Fondo de Gasolinas y Diesel a que se 
 I. 70% en función al número de habitantes que registre cada Municipio, de conformidad con la última información oficial de población que hubiera dado a conocer el Instituto Nacional de Estadística y Geografía; y,
 
 II. 30% restante, en partes iguales a los 113 municipios de la entidad, conforme a los términos del párrafo segundo del artículo 13 de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -217,15 +193,7 @@ I. 70% en función al número de habitantes que registre cada Municipio, de conf
 
 II. 30% en función de los Coeficientes de Pobreza Extrema, dados a conocer por la Secretaría de Desarrollo Social, para el ejercicio fiscal vigente, participable a los municipios que muestran que su factor, es menor a la media aritmética de los coeficientes primeramente señalados, conforme a los términos del párrafo segundo, del artículo 13 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-###### ARTÍCULO 8°-A.
-
-La distribución entre los municipios, del Fondo Estatal para los Servicios Públicos Municipales a que se refiere la fracción III), del artículo 3° de esta Ley, se realizará conforme a lo dispuesto por los artículos 5°, Fracciones I, II, II.I y II.II, 7° y 12 de la misma.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+ARTÍCULO 8° A. (DEROGADO, P.O. 28 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -245,8 +213,6 @@ II. Densidad de población;
 
 III. Número de localidades;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 IV. Importe de la Facturación de derechos de alumbrado público, en el ejercicio fiscal del año anterior, emitido por la Comisión Federal de Electricidad; y,
@@ -262,8 +228,6 @@ Debido a la dinámica de cada uno de los parámetros, al señalado en la fracci�
 ###### ARTÍCULO 11.
 
 Los coeficientes para la distribución de la parte a que se refiere la fracción III del artículo 6° de esta Ley, se determinan dividiendo la población de cada municipio, entre la suma de las participaciones estimadas para el presente ejercicio, a que se refieren las fracciones I y II del artículo 6° de esta Ley, para cada municipio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -301,8 +265,6 @@ Los coeficientes para la distribución de la parte a que se refiere el artículo
 
 Los coeficientes para la distribución de la parte a que se refiere el artículo 8, fracción II de esta Ley, se determinan de la manera siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 I. Se suman los Coeficientes de Pobreza Extrema de los 113 Municipios del Estado, utilizados para distribuir el Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, del ejercicio fiscal vigente;
@@ -313,15 +275,11 @@ III. Se determinan los municipios que se encuentran debajo de la media aritméti
 
 IV. Se determina el coeficiente de distribución, dividiendo cada uno de los factores señalados en la fracción anterior, entre la suma de éstos; debiendo totalizar 100.0000.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 14.
 
-Las participaciones que se determinen y paguen a los Municipios del Fondo Participable, del Fondo de Gasolinas y Diesel y del Fondo Estatal para la Infraestructura de los Servicios Públicos Municipales que se establecen en el Artículo 3° de esta Ley, estarán sujetas al resultado de la recaudación de los conceptos participables, así como a la determinación provisional mensual y a los ajustes cuatrimestrales y del ejercicio, que efectúe la Federación para el Estado, las que se pagarán dentro de los cinco días siguientes al día en que el Estado las reciba, excepto las participaciones por concepto de los Impuestos sobre Tenencia o Uso de Vehículos y sobre Automóviles Nuevos y del Impuesto Estatal sobre Loterías, Rifas, Sorteos y Concursos, los que se pagarán dentro de los 20 días del mes siguiente a aquél a que la recaudación corresponda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las participaciones que se determinen y paguen a los Municipios del Fondo Participable y del Fondo de Gasolinas y Diesel que se establecen en el artículo 3° de esta Ley, estarán sujetas al resultado de la recaudación de los conceptos participables, así como a la determinación provisional mensual y a los ajustes cuatrimestrales y del ejercicio, que efectúe la Federación para el Estado, las que se pagarán dentro de los cinco días siguientes al día en que el Estado las reciba, excepto las participaciones por concepto del Impuesto sobre Automóviles Nuevos y del Impuesto Estatal sobre Loterías, Rifas, Sorteos y Concursos, las que se pagarán dentro de los veinte días del mes siguiente a aquél a que la recaudación corresponda.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -343,9 +301,13 @@ Para efectos de lo dispuesto en el párrafo anterior, el monto a cargo de cada M
 
 Las participaciones que correspondan a los municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno, no serán embargables; no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraidas por éstos y sus organismos descentralizados, con garantía de las mismas previo Acuerdo del Ayuntamiento y autorización del Congreso del Estado, en los términos previstos por los artículos 18, 20, 21 y 23 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
-Asimismo, serán objeto de retención para el pago de obligaciones a cargo de los municipios y/o de sus organismos, a favor del Gobierno del Estado o de la Federación, cuando así se establezca en el Acuerdo del Ayuntamiento correspondiente y en el Convenio de Colaboración que para el efecto celebre.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Solamente podrán ser objeto de retención por parte de la Secretaría de Finanzas y Administración, aquellos montos y sus accesorios correspondientes, que la Secretaría de Hacienda y Crédito Público a su vez retiene al Estado, por concepto del Impuesto sobre la Renta, y las Cuotas Obrero Patronales no pagadas oportunamente por los municipios y/o de sus organismos paramunicipales, a favor del Sistema de Administración Tributaria y del Instituto Mexicano del Seguro Social y/o del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado, respectivamente. Cuando el total del monto a retener por los conceptos antes referidos, no se descuente en el mes respectivo, la diferencia causará intereses hasta que se cubra el monto total a favor de la Secretaría de Finanzas y Administración, los que se determinarán a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones. Previo Acuerdo de Cabildo correspondiente.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, la Secretaría de Finanzas y Administración podrá realizar la retención mensualmente a las participaciones municipales, para cubrir aquellos créditos fiscales que los Municipios y sus organismos paramunicipales hayan originado por el no pago de contribuciones estatales previo Acuerdo de Cabildo y la suscripción del Convenio correspondiente.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -361,8 +323,6 @@ Asi mismo, la Secretaría de Finanzas y Administración, con base en los lineami
 
 Los montos antes señalados, deberán incorporarse a los presupuestos de ingresos y egresos; y reflejarse los montos ejercidos en la Cuenta Pública de la Hacienda Municipal de cada Ayuntamiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 La entrega de las participaciones referidas en el párrafo segundo de este artículo, se realizarán a través de Transferencias Electrónicas de Fondos, directamente a las cuentas bancarias que indique el Ayuntamiento respectivo. Para lo cual, será necesario que previamente al inicio de cada ejercicio fiscal, las autoridades de las Haciendas Municipales soliciten e indiquen a la Secretaría de Finanzas y Administración las cuentas bancarias en la que se les realizarán las Transferencias Electrónicas de los Fondos referidos.
@@ -374,8 +334,6 @@ La Secretaría de Finanzas y Administración del Estado pondrá a disposición d
 ###### ARTÍCULO 19.
 
 La Secretaría de Finanzas y Administración del Estado, publicará trimestralmente en el Periódico Oficial del Gobierno Constitucional del Estado, dentro del mes siguiente al trimestre que corresponda, el importe de las participaciones pagadas que les hayan correspondido a los municipios, así como el comparativo de éstas en relación a las estimadas para el mismo período.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -393,15 +351,15 @@ La información a que se refiere el párrafo que antecede, permitirá al Gobiern
 
 Para los efectos de lo señalado en el artículo anterior, de conformidad con lo dispuesto por los artículos 45 y 60 de la Ley del Agua y Gestión de Cuencas para el Estado de Michoacán de Ocampo, los organismos operadores municipales, deberán integrar en sus estados financieros, la información relativa a la recaudación que obtengan por la prestación del servicio que regula dicha Ley, tanto en la cabecera municipal correspondiente, como en cada una de las localidades del municipio que cuenten con el servicio; con base en las cuotas y tarifas aprobadas por los municipios respectivos, en los términos de lo dispuesto por los artículos 36 fracción XIV y 118 de la Ley señalada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)
 
 ###### ARTÍCULO 22.
 
 Para efectos de la determinación del coeficiente a que se refiere el artículo 10 de esta Ley, las autoridades del ayuntamiento respectivo, deberán proporcionar a la Secretaría de Finanzas y Administración del Estado, mensualmente, dentro de los 15 días siguientes al mes de que se trate, una copia del estado de cuenta emitido por la Comisión Federal de Electricidad, en el que se consigne el monto de la facturación de los derechos por la prestación del servicio de alumbrado público, así como el monto del costo del servicio prestado.
 
-### CAPÍTULO III. De los Fondos de Aportaciones Federales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO III. De los Fondos de Aportaciones Federales y Estatales
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -409,15 +367,11 @@ Para efectos de la determinación del coeficiente a que se refiere el artículo 
 
 Los Fondos de Aportaciones Federales creados a favor de los municipios, que se relacionan a continuación, se integrarán, distribuirán, administrarán, ejercerán y supervisarán, de acuerdo a las disposiciones de la Ley de Coordinación Fiscal, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de esta Ley, y de la legislación estatal y municipal aplicable:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 I. Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal; y,
 
 II. Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -434,8 +388,6 @@ De conformidad con los Artículos 34 y 35 de la Ley de Coordinación Fiscal, la 
 La fórmula anterior, enfatiza el carácter redistributivo hacia aquellos Municipios con mayor magnitud y profundidad de pobreza extrema, para lo cual se utiliza la información de pobreza extrema más reciente a nivel municipal, que dé a conocer el Consejo Nacional de Evaluación de la Política de Desarrollo Social, por lo que la Secretaría de Desarrollo Social publicará en el Diario Oficial de la Federación, a más tardar en los primeros diez días del ejercicio fiscal de que se trate, las variables y fuentes de información disponibles a nivel municipal.
 
 La Secretaría de Finanzas y Administración con base en lo previsto en los párrafos anteriores y previo convenio con la Secretaría de Desarrollo Social, calculará las distribuciones del Fondo para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal correspondientes a los Municipios del Estado, debiendo publicarlas en el órgano de difusión oficial del Estado a más tardar el 31 de enero del ejercicio fiscal aplicable, así como la fórmula y su respectiva metodología, justificando cada elemento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -465,8 +417,6 @@ G) Publicar en su página oficial las obras financiadas con los recursos de este
 
 Los Municipios que no cuenten con página oficial, convendrán con el Gobierno del Estado, para que éste publique la información correspondiente al Municipio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 26.
@@ -479,19 +429,13 @@ El Fondo de Aportaciones Federales para la Infraestructura Social Municipal y de
 
 Las aportaciones con cargo al Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, podrán afectarse como fuente de pago, garantía de pago o ambas, de Financiamientos u Obligaciones contratadas en términos de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, siempre y cuando se cuente con el Acuerdo del Ayuntamiento correspondiente y se cumpla con lo dispuesto para el efecto en los artículos 50 de la Ley de Coordinación Fiscal y 19, 20, 21 y 22 de la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 Los financiamientos que den origen a las obligaciones a que hace referencia el párrafo anterior, únicamente podrán destinarse a los fines establecidos en el Artículo 25 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 Los Municipios que contraigan obligaciones al amparo de este Artículo, no podrán destinar más del 25% de los recursos que anualmente les correspondan, para servir dichas obligaciones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -501,8 +445,6 @@ Tratándose de obligaciones pagaderas en dos o más ejercicios fiscales, para ca
 
 Los Municipios efectuarán los pagos de los Financiamientos u Obligaciones a que se refiere este artículo, con cargo a las aportaciones que les correspondan del Fondo de Aportaciones para la Infraestructura Social Municipal y de las Demarcaciones Territoriales del Distrito Federal, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos de registro establecidos en la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 27.
@@ -511,8 +453,6 @@ La distribución de los recursos del Fondo de Aportaciones para el Fortalecimien
 
 > <small>N. DE E. VÉASE FORMULA EN EL P.O. DE 30 DE DICIEMBRE DE 2014, PÁGINA 8.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 28.
@@ -520,8 +460,6 @@ La distribución de los recursos del Fondo de Aportaciones para el Fortalecimien
 Las aportaciones federales que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, reciban los Municipios a través del Estado, se destinarán a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras, al pago de derechos y aprovechamientos por concepto de agua, descargas de aguas residuales, a la modernización de los sistemas de recaudación locales, mantenimiento de infraestructura, y a la atención de las necesidades directamente vinculadas con la seguridad pública de sus habitantes.
 
 Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este artículo, los Municipios tendrán las mismas obligaciones a que se refieren los incisos a) y c) de la Fracción III del artículo 25 de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -535,8 +473,6 @@ El Fondo de Aportaciones Federales para el Fortalecimiento de los Municipios y d
 
 Las Aportaciones con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, podrán afectarse como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, previo Acuerdo del Ayuntamiento y cumpliendo en sus términos lo dispuesto por el artículo 51 de la Ley de Coordinación Fiscal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 29.
@@ -546,8 +482,6 @@ Las acciones de administración, inversión y aplicación de los fondos federale
 ###### ARTÍCULO 30.
 
 La Secretaría de Finanzas y Administración, con base en los lineamientos establecidos por la Ley de Coordinación Fiscal, calculará y hará la entrega de las aportaciones federales correspondientes a los municipios, debiendo publicarlas en el Periódico Oficial del Gobierno Constitucional del Estado a más tardar el treinta y uno de enero del ejercicio fiscal aplicable, o cuando así lo señale el Acuerdo mediante el cual la Secretaría de Hacienda y Crédito Público, los dé a conocer; así como la fórmula y su respectiva metodología, justificando cada elemento. Comunicando a cada uno de los ayuntamientos el monto calendarizado mensual y los procedimientos para su entrega.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -562,8 +496,6 @@ Los ayuntamientos deberán hacer del conocimiento de las comunidades beneficiada
 ###### ARTÍCULO 32.
 
 El monto de la inversión asignada y ejercida con los fondos federales, a que se refiere este Capítulo, deberá incorporarse a los presupuestos de ingresos y egresos; así como en la Cuenta Pública de la Hacienda Municipal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -580,6 +512,16 @@ La Auditoría Superior de la Federación, en el ámbito de sus atribuciones, rea
 ###### ARTÍCULO 35.
 
 Las responsabilidades administrativas, civiles y penales en que incurran las autoridades estatales o municipales por el manejo o aplicación indebida de los recursos recibidos de los Fondos Federales señalados en este Capítulo, serán sancionados en los términos de los ordenamientos estatales y municipales correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 35 BIS. Con independencia de lo establecido en el Capítulo II de esta Ley, respecto de los recursos que los Municipios reciben del Fondo Participable y del Fondo de Gasolinas y Diesel, se establece una aportación estatal, como recurso que el Estado transfiere a los Municipios, condicionando su gasto a la consecución y cumplimiento de los objetivos que para dicha aportación establece el presente artículo, para un Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales, el cual se destinará a las inversiones públicas productivas de los Municipios.
+
+El Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales se constituirá con un monto equivalente al 5% de lo que corresponde al Estado en el Fondo General de Participaciones, una vez descontado el porcentaje que de dicho Fondo General se aporta al Fondo Participable, a que se refiere la fracción I, inciso a), del artículo 3° de la presente Ley.
+
+La distribución entre los municipios, del Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales a que se refiere este artículo, se realizará conforme a lo dispuesto por los artículos 5° fracciones I, II, II.I y II.II, 7° y 12 de la presente Ley.
+
+La entrega del Fondo de Aportaciones Estatales para la Infraestructura de los Servicios Públicos Municipales, estará sujeto al resultado de la recaudación de los conceptos participables; a la determinación provisional mensual y a los ajustes cuatrimestrales y del ejercicio que efectúe la Federación para el Estado; a la cartera de proyectos que presenten respectivamente los Municipios para la aplicación y ejecución de dicho Fondo; y a los Lineamientos del Fondo que para tal efecto emita la Secretaría de Finanzas y Administración, en atención a las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IV. De la Coordinación Fiscal y Colaboración Administrativa
 
@@ -703,23 +645,17 @@ Los municipios de la Entidad, que integran la Comisión Estatal Permanente de Fu
 
 La Comisión Estatal Permanente de Funcionarios Fiscales, celebrará reuniones cuatrimestrales ordinariamente, y las extraordinarias que sean necesarias: Las cuales serán convocadas por el Secretario de Finanzas y Administración, o por los representantes de por lo menos seis regiones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 47.
 
 La Comisión Estatal Permanente de Funcionarios Fiscales, tendrá las facultades siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 I. Analizar la legislación fiscal federal, estatal y municipal, así como las disposiciones administrativas tendientes a proveer a su cabal ejecución, y aplicación de las mismas;
 
 II. Proponer a través de grupos de trabajo, medidas técnicas para fortalecer la Hacienda Pública Municipal, mejorar su organización y elevar la eficiencia de su funcionamiento recaudatorio;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -751,7 +687,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE DICIEMBRE DE 2011.
 
@@ -870,3 +806,11 @@ DÉCIMO CUARTO. Los reglamentos, manuales y demás disposiciones administrativas
 DÉCIMO QUINTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoria Superior de Michoacán, para su conocimiento y efectos legales conducentes.
 
 El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
+
+P.O. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 543 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3° PRIMER PÁRRAFO, 14 PRIMER PÁRRAFO, 16 SEGUNDO PÁRRAFO, LA DENOMINACIÓN DEL CAPÍTULO III; SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 16 Y UN ARTÍCULO 35 BIS; Y, SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 3° Y EL ARTÍCULO 8-A, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
