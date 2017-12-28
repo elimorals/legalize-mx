@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-victimas-del-estado-de-durango-101020"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2017-03-19"
+last_updated: "2017-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE VICTIMAS DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE VÍCTIMAS DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 28 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE VÍCTIMAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en el Número Extraordinario al Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -946,3 +948,35 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 28 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO.338.- QUE CONTIENE LA LEY DE VÍCTIMAS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto por las siguientes prevenciones.
+
+SEGUNDO.- Se abroga la Ley de Víctimas del Estado de Durango publicada en el Periódico Oficial del Gobierno del Estado número 7 extraordinario de fecha 6 de mayo de 2014 y se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+TERCERO.- El Reglamento de la presente ley, deberá expedirse dentro de los noventa días siguientes a la fecha en que entre en vigor el presente decreto.
+
+CUARTO.- En un plazo de 90 días naturales a partir de la publicación del presente Decreto, los Poderes Ejecutivo y Judicial, los Ayuntamientos, los Organismos Constitucionales Autónomos deberán armonizar la normatividad que corresponda en materia de atención a victimas.
+
+QUINTO.- En un plazo de 180 días naturales, se realizarán las adecuaciones normativas de las Instituciones que prestan atención médica a efecto de reconocer su obligación de prestar la atención de emergencia a que se refieren los artículos 97 y 98 del presente Decreto.
+
+SEXTO.- Las autoridades que conforman el Sistema Estatal de Atención a Víctimas, y la Junta de Gobierno, en apego al artículo 32, 50 y las relacionadas en el artículo 34 y 51 ambos de la presente Ley, en un plazo de 180 días naturales, deberán de adecuar sus Reglamentos a efecto de señalar la Dirección, Subdirección, Jefatura de Departamento que estarán a cargo de las obligaciones que le impone esta nueva función.
+
+SÉPTIMO.- La Fiscalía General, deberá generar los protocolos necesarios en materia pericial, a que se refiere la presente Ley, en un plazo de 180 días naturales.
+
+OCTAVO.- Las Instituciones estatales y municipales, deberán reglamentar sobre la capacitación de los servidores públicos a su cargo, sobre el contenido del rubro denominado de la Capacitación, Formación, Actualización y Especialización de la Ley General de Víctimas.
+
+NOVENO.- El Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley, en el siguiente ejercicio Fiscal a su entrada en vigor.
+
+DÉCIMO.- En el término de 15 días a partir de la publicación del presente Decreto se deberá de integrar el Fondo Estatal y crearse el fideicomiso en términos que correspondan.
+
+DÉCIMO PRIMERO.- La designación de los titulares del Fondo, del Registro y de la Asesoría Jurídica, así como de los asesores de víctimas, deberá realizarse en un plazo no mayor de 15 días a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO SEGUNDO.- Los servidores públicos que actualmente se encuentran en funciones dentro de la Comisión Estatal de Atención Integral a Víctimas continuaran en el ejercicio de su encargo en la Comisión Ejecutiva Estatal de Atención a Víctimas, hasta en tanto no se realicen los nuevos nombramientos, o en su caso la ratificación correspondiente.
+
+DÉCIMO TERCERO.- Los recursos humanos, económicos y materiales, así como los archivos que sean parte de las actuaciones de la asesoría jurídica de víctimas, que se encuentren en posesión de la Fiscalía General del Estado, deberán de ser remitidos a la Comisión Ejecutiva Estatal.
+
+Los expedientes relativos a la asesoría jurídica de víctimas que se encuentren en posesión del Instituto de Defensoría Pública del Estado de Durango, deberán de ser remitidos a la Comisión Ejecutiva Estatal.
