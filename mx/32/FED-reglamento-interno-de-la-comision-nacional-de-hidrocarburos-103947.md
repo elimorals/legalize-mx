@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-103
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-22"
-last_updated: "2017-07-26"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-08"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el lunes 22 de diciembre de 2014.
 
@@ -173,9 +173,13 @@ d. Dirección General de Comercialización de Producción;
 
 VII. Unidad de Administración Técnica de Asignaciones y Contratos;
 
-a. Dirección General de Asignaciones y Contratos de Exploración;
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-b. Dirección General de Asignaciones y Contratos de Extracción;
+a. Dirección General de Administración Técnica de Contratos:
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+b. Dirección General de Administración Técnica de Asignaciones;
 
 VIII. Centro Nacional de Información de Hidrocarburos;
 
@@ -1003,15 +1007,23 @@ VII. Atender los avisos, notificaciones, informes, trámites y procedimientos en
 
 VIII. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las que sean necesarias para el ejercicio de su competencia.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 32.
 
-Facultades de la Dirección General de Asignaciones y Contratos de Exploración. La Dirección General de Asignaciones y Contratos de Exploración estará adscrita a (sic) Titular de la Unidad de Administración Técnica de Asignaciones y Contratos y tendrá las facultades siguientes en materia de su competencia:
+Facultades de la Dirección General de Administración Técnica de Contratos. La Dirección General de Administración Técnica de Contratos estará adscrita al Titular de la Unidad de Administración Técnica de Asignaciones y Contratos y tendrá las facultades siguientes en materia de su competencia:
 
-I. Dar seguimiento y verificar el cumplimiento de las obligaciones de los Asignatarios y Contratistas, derivadas de las Asignaciones, los contratos para la Exploración y Extracción y los contratos de exploración y extracción de Gas Natural contenido en la veta de carbón mineral;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-II. Conocer de las notificaciones o avisos que deriven de las Asignaciones y contratos previstos en la fracción anterior;
+I. Dar seguimiento y verificar el cumplimiento de las obligaciones de los Contratistas, derivadas de los contratos para la Exploración y Extracción y los contratos de exploración y extracción de Gas Natural contenido en la veta de carbón mineral;
 
-III. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Asignatario o Contratista;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Conocer de las notificaciones o avisos que deriven de los contratos previstos en la fracción anterior;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+III. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Contratista;
 
 IV. Resguardar la documentación en la que consten los acuerdos alcanzados mediante negociación o las medidas decretadas por el Ejecutivo Federal o los tribunales competentes en materia de uso y ocupación superficial a que se refiere la Ley de Hidrocarburos y su Reglamento;
 
@@ -1019,53 +1031,79 @@ V. En caso de que del ejercicio de sus atribuciones detecte que un concesionario
 
 VI. Opinar técnicamente, en coordinación con la Dirección General de Contratos, el modelo de contratación que para cada Área Contractual solicite la Secretaría;
 
-VII. Supervisar el cumplimiento de los planes de Exploración de Asignatarios, y Contratistas, así como los programas anuales de inversión y operación de los contratos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-VIII. Supervisar el abandono y desmantelamiento de equipos en Áreas Contractuales y Áreas de Asignación, en el ámbito de competencia de la Comisión;
+VII. Supervisar el cumplimiento de los planes de Exploración y planes de desarrollo para la extracción de Contratistas, así como los programas anuales de inversión y operación de los contratos;
 
-IX. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Asignatario, Contratista o Autorizado;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-X. Informar a la Dirección General de Contratos sobre la posible existencia de alguna causal de revocación de una Asignación de Exploración;
+VIII. Supervisar el abandono y desmantelamiento de equipos en Áreas Contractuales, en el ámbito de competencia de la Comisión;
 
-XI. Conocer los avisos de cesión y renuncia de Asignaciones de Exploración y proponer al Órgano de Gobierno el dictamen respectivo;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-XII. Informar a la Dirección General de Contratos sobre la posible existencia de alguna causal de rescisión administrativa, terminación anticipada y en general cualquier incumplimiento de obligaciones contractuales derivadas de Contratos para la Exploración y Extracción, en la materia de su competencia;
+IX. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Contratista o Autorizado;
 
-XIII. Integrar la documentación e información correspondiente para la sustanciación de procedimientos de rescisión administrativa, terminación anticipada, penas convencionales, sanciones y demás derivados de los Contratos para la Exploración y Extracción y en su caso de las Asignaciones, y
+(REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)
 
-XIV. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
+X. Informar a la Dirección General de Contratos sobre la posible existencia de alguna causal de rescisión administrativa, terminación anticipada y en general cualquier incumplimiento de obligaciones contractuales derivadas de Contratos para la Exploración y Extracción, en la materia de su competencia;
+
+> <small>(REFORMADA Y REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+XI. Integrar la documentación e información correspondiente para la sustanciación de procedimientos de rescisión administrativa, terminación anticipada, penas convencionales, sanciones y demás derivados de los Contratos para la Exploración y Extracción, y
+
+(REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)
+
+XII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 33.
 
-Facultades de la Dirección General de Asignaciones y Contratos de Extracción. La Dirección General de Asignaciones y Contratos de Extracción estará adscrita a (sic) Titular de la Unidad de Administración Técnica de Contratos y Asignaciones y tendrá las facultades siguientes en materia de su competencia:
+Facultades de la Dirección General de Administración Técnica de Asignaciones. La Dirección General de Administración Técnica de Asignaciones estará adscrita al Titular de la Unidad de Administración Técnica de Contratos y Asignaciones y tendrá las facultades siguientes en materia de su competencia:
 
-I. Dar seguimiento y verificar el cumplimiento de las obligaciones de los Asignatarios y Contratistas, derivadas de las Asignaciones, los contratos para la Exploración y Extracción y los contratos de exploración y extracción de Gas Natural contenido en la veta de carbón mineral;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-II. Conocer de las notificaciones o avisos que deriven de las Asignaciones y contratos previstos en la fracción anterior;
+I. Dar seguimiento y verificar el cumplimiento de las obligaciones de los Asignatarios, derivadas de las Asignaciones;
 
-III. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Asignatario o Contratista;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Conocer de las notificaciones o avisos que deriven de las Asignaciones previstos (sic) en la fracción anterior;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+III. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Asignatario;
 
 IV. Resguardar la documentación en la que consten los acuerdos alcanzados mediante negociación o las medidas decretadas por el Ejecutivo Federal o los tribunales competentes en materia de uso y ocupación superficial a que se refiere la Ley de Hidrocarburos y su Reglamento;
 
 V. En caso de que del ejercicio de sus atribuciones detecte que un concesionario minero está llevando a cabo actividades de Exploración o Extracción de Hidrocarburos, dar aviso a la Secretaría y a la Secretaría de Economía;
 
-VI. Opinar técnicamente, en coordinación con la Dirección General de Contratos, el modelo de contratación que para cada Área Contractual solicite la Secretaría;
+> <small>(REFORMADA Y REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-VII. Supervisar el cumplimiento de los planes de desarrollo para la Extracción de Asignatarios, y Contratistas, así como los programas anuales de inversión y operación de los contratos;
+VI. Supervisar el cumplimiento de los planes de Exploración y planes de desarrollo para la Extracción de Asignatarios, así como los programas anuales de inversión y operación de los contratos;
 
-VIII. Supervisar el abandono y desmantelamiento de equipos en Áreas Contractuales y Áreas de Asignación, en el ámbito de competencia de la Comisión;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-IX. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Asignatario, Contratista o Autorizado;
+VII. Supervisar el abandono y desmantelamiento de equipos en Áreas de Asignación, en el ámbito de competencia de la Comisión;
 
-X. Informar a la Dirección General de Contratos sobre la posible existencia de alguna causal de revocación de una Asignación de Extracción;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-XI. Conocer los avisos de cesión y renuncia de Asignaciones de Extracción y proponer al Órgano de Gobierno el dictamen respectivo;
+VIII. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado de las operaciones del Asignatario o Autorizado;
 
-XII. Informar a la Dirección General de Contratos sobre la posible existencia de alguna causal de rescisión administrativa, terminación anticipada y en general cualquier incumplimiento de obligaciones contractuales derivadas de Contratos para la Exploración y Extracción, en el ámbito de su competencia;
+(REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)
 
-XIII. Integrar la documentación e información correspondiente para la sustanciación de procedimientos de rescisión administrativa, terminación anticipada, penas convencionales, sanciones y demás derivados de los Contratos para la Exploración y Extracción y en su caso de las Asignaciones, y
+IX. Informar a la Dirección General de Contratos sobre la posible existencia de alguna causal de revocación de una Asignación de Extracción;
 
-XIV. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
+(REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)
+
+X. Conocer los avisos de cesión y renuncia de Asignaciones de Extracción y proponer al Órgano de Gobierno el dictamen respectivo;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+XI. Integrar la documentación e información correspondiente para la sustanciación de procedimientos de penas convencionales, sanciones y demás derivados de las Asignaciones, y
+
+(REUBICADA, D.O.F. 29 DE DICIEMBRE DE 2017)
+
+XII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
 ###### Artículo 34.
 
@@ -1494,3 +1532,9 @@ PRIMERO. El presente ACUERDO entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En tanto la Secretaría de Hacienda y Crédito Público emita la autorización correspondiente para la creación de las unidades administrativas señaladas en el presente ACUERDO, las funciones objeto de dichas áreas, continuarán siendo ejecutadas con base en la estructura orgánica existente previa a la emisión del presente ACUERDO.
 
 TERCERO. Inscríbase el presente ACUERDO en el Registro Público de la Comisión Nacional de Hidrocarburos.
+
+D.O.F. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO CNH.E.67.002/17 MEDIANTE EL CUAL SE MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
+
+ÚNICO. El presente ACUERDO CNH.E.67.002/17 entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
