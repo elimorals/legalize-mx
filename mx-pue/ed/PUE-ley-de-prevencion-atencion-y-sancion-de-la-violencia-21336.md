@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-prevencion-atencion-y-sancion-de-la-violencia-21336"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-06"
-last_updated: "2001-04-06"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PREVENCION, ATENCION Y SANCION DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la tercera sección del Periódico Oficial del Estado de Puebla, el viernes 6 de abril de 2001.
 
@@ -579,7 +579,9 @@ IV.- El incumplimiento a la resolución arbitral; independientemente de ejercita
 
 Las infracciones señaladas en el artículo anterior, se sancionarán con:
 
-I.- Multa de tres a ocho días de salario mínimo general vigente en el Estado de Puebla; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I.- Multa del equivalente a la cantidad de tres a ocho veces el valor diario de la Unidad de Medida y Actualización; y
 
 II.- Arresto administrativo hasta por treinta y seis horas.
 
@@ -614,3 +616,13 @@ Los Municipios del Estado prestarán toda la colaboración necesaria al citado C
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veinte días del mes de marzo de dos mil uno.- Diputado Presidente.- JUAN CARLOS LASTIRI QUIRÓS.- Rúbrica.- Diputada Vicepresidenta.- MARIA ANGÉLICA CACHO BAENA.- Rúbrica.- Diputado Secretario.- EDUARDO VÁZQUEZ VALDÉS.- Rúbrica.- Diputado Secretario.- HORACIO GASPAR LIMA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circules (sic) para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintidós días del mes de marzo del año 2001.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
