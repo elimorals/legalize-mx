@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-publica-del-estado-de-puebla-69313"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-15"
-last_updated: "2017-11-23"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de julio de 2009.
 
@@ -37,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracciones I y II de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y XIII, 69, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 24 fracciones I y XIII, 93 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente:
 
@@ -61,7 +63,9 @@ El Estado y los Municipios observarán las bases de coordinación con la Federac
 
 La seguridad pública es la función a cargo de la Federación, el Estado y los Municipios conforme a la distribución de competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos y la Ley General del Sistema Nacional de Seguridad Pública, que tiene como fines salvaguardar la integridad física, los derechos y bienes de las personas; preservar las libertades, la paz y el orden público; y comprende la prevención especial y general de los delitos y la investigación para hacerla efectiva; la sanción de las infracciones administrativas; la investigación y la persecución de los delitos; y, la reinserción social de las personas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos.
 
-El Estado desarrollará políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+El Estado desarrollará políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones que atiendan a la proximidad social, para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
 
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2014)</small>
 
@@ -105,9 +109,17 @@ XIV.- Procuraduría: La Procuraduría General de Justicia del Estado;
 
 XV.- Policía de Carrera: La persona integrante de las Instituciones de Seguridad Pública que cumpla con todos los requisitos que establece el Servicio Profesional de Carrera Policial;
 
-XVI.- Policía Ministerial: Unidad policial encargada de la investigación científica de los delitos, ubicada en la estructura orgánica de la Procuraduría General de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XVII.- Sistema: El Sistema de Seguridad Pública del Estado.
+XVI.- Policía Ministerial: Unidad policial encargada de la investigación científica de los delitos, ubicada en la estructura orgánica de la Procuraduría General de Justicia del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XVII.- Proximidad social: conjunto de acciones que permitan generar mayor confianza y cercanía entre la ciudadanía y las Instituciones Policiales, atendiendo a la necesidad de brindar una respuesta eficaz y personalizada a la demanda social; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XVIII.- Sistema: El Sistema de Seguridad Pública del Estado.
 
 ###### Artículo 4.
 
@@ -209,11 +221,11 @@ e).- Policía Procesal.
 
 II.- Cuerpo de Seguridad Pública Municipal, cuya organización podrá replicarse en los términos de esta Ley.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 10.
 
-Las instituciones de seguridad pública serán de carácter civil, disciplinario y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de los que el Estado Mexicano sea parte y las leyes que de ella emanen. Así mismo deberán fomentar la participación ciudadana, la transparencia y la rendición de cuentas en los términos que marca la Ley.
+Las instituciones de seguridad pública serán de carácter civil, disciplinario y profesional, su actuación se regirá además, por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales de los que el Estado Mexicano sea parte y las leyes que de ella emanen. Así mismo deberán fomentar la Proximidad Social, la participación ciudadana, la transparencia y la rendición de cuentas en los términos que marca la Ley.
 
 ###### Artículo 11.
 
@@ -1912,6 +1924,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el pres
 P.O. 23 DE NOVIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IX DEL ARTÍCULO 4 DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO, EN MATERIA DE PROXIMIDAD SOCIAL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
