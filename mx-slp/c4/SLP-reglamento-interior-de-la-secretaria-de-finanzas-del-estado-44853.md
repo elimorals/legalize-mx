@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-448
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-07"
-last_updated: "2016-05-25"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de mayo de 2005.
 
@@ -86,6 +86,18 @@ c) Dirección de Contabilidad Gubernamental; y,
 d) Dirección de Financiamiento, Deuda y Crédito Público.
 
 IV. La Dirección General de Coordinación Hacendaria de la que depende directamente la Dirección de Política Hacendaria y Coordinación Intergubernamental.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON LOS INCISOS QUE LA INTEGRAN], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. La Dirección General de Planeación y Presupuesto, de la que a su vez dependen directamente las siguientes Direcciones de Área:
+
+a) Dirección de Planeación
+
+b) Dirección de Programación y Presupuesto
+
+c) Dirección de Análisis y Evaluación, y
+
+d) Dirección de la Unidad de Inversión Pública
 
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2016)</small>
 
@@ -1209,6 +1221,144 @@ XVI. Tomar acuerdo con el Director General de Coordinación Hacendaria para dar 
 
 XVII. Las demás que las disposiciones legales y reglamentarias le atribuyan, así como aquellas que le confiera el Secretario.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 29 Bis.
+
+A la Dirección General de Planeación y Presupuesto corresponderá el despacho de los siguientes asuntos:
+
+I. Coordinar la operación del Sistema Estatal de Planeación, incluyendo los procesos de planeación, programación, presupuestación y evaluación de la Administración Pública Estatal;
+
+II. Coordinar la operación técnica del Comité de Planeación del Desarrollo del Estado;
+
+III. Coordinar el proceso de integración y actualización del Plan Estatal del Desarrollo, así como de sus programas sectoriales, especiales e institucionales derivados;
+
+IV. Coordinar la integración de la cartera de proyectos de inversión de la Administración Pública Estatal;
+
+V. Coordinar el análisis técnico y financiero de las propuestas presentadas por las dependencias y entidades, correspondientes a los proyectos prioritarios de la Administración Pública Estatal;
+
+VI. Promover esquemas de capacitación a las dependencias y entidades ejecutoras de gasto, a fin de lograr mejores prácticas en la planeación, programación, presupuestación y evaluación;
+
+VII. Coadyuvar en la gestión de recursos financieros, mediante la coordinación y concertación con los gobiernos Federal y municipales, así como con el sector privado e instancias internacionales, que contribuyan al desarrollo del Estado;
+
+VIII. Coordinar el proceso de integración del anteproyecto de Presupuesto de Egresos para el ejercicio fiscal correspondiente, apegándose a la normatividad vigente;
+
+IX. Coordinar la implementación de mecanismos que permitan alinear el Presupuesto de Egresos del Estado con las políticas públicas definidas en el Plan Estatal de Desarrollo y sus programas derivados;
+
+X. Expedir la metodología para la elaboración del presupuesto y las políticas de gasto público, a las que deberán sujetarse las dependencias y entidades de la Administración Pública Estatal;
+
+XI. Analizar y, en su caso, aprobar las solicitudes para efectuar adecuaciones a sus respectivos presupuestos que presenten las dependencias y entidades de la Administración Pública Estatal;
+
+XII. Coordinar la evaluación y seguimiento de la ejecución del Plan Estatal de Desarrollo, así como la de los programas y proyectos derivados del mismo;
+
+XIII. Establecerlos mecanismos de coordinación para integrar y elaborar el Informe de Gobierno del Estado;
+
+XIV. Coordinar el uso y análisis de la información estadística, geográfica, económica, de inversión y cualitativa como soporte a los procesos de planeación, presupuestación, programación, seguimiento y evaluación del gasto público;
+
+XV. Concertar, en acuerdo con las dependencias y entidades de la Administración Pública Estatal, convenios de colaboración, gestionando con las distintas instancias federales, estatales y municipales, así como organismos públicos y privados;
+
+XVI. Programar, organizar, dirigir y evaluar las actividades de las Direcciones a su cargo, y
+
+XVII. Ejercer las demás facultades que le confieren las disposiciones jurídicas aplicables, o las que sus superiores les encomienden.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 29 Bis-I.
+
+A la Dirección de Planeación corresponderá el despacho de los siguientes asuntos:
+
+I. Coordinar los trabajos para la elaboración y actualización del Plan Estatal de Desarrollo;
+
+II. Proponer políticas y lineamientos para la operación eficiente del Sistema Estatal de Planeación;
+
+III. Establecer los mecanismos para la elaboración de los programas sectoriales, especiales e institucionales, en colaboración con las dependencias y entidades de la Administración Pública Estatal;
+
+IV. Promover e instrumentar la realización de talleres de planeación con base en la metodología de Presupuesto basado en Resultados, con la participación de las dependencias y entidades de la Administración Pública Estatal;
+
+V. Diseñar e instrumentar los mecanismos de asesoría a los ayuntamientos de la entidad para fortalecer sus capacidades en materia de planeación y evaluación;
+
+VI. Verificar el alineamiento estratégico de los programas sectoriales, especiales, institucionales y presupuestarios, con los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo, en coordinación con las dependencias y entidades de la Administración Pública Estatal;
+
+VII. Establecer los criterios operativos y de funcionamiento de la Coordinación General del Comité de Planeación para el Desarrollo del Estado en el marco del Sistema Estatal de Planeación, apoyando las labores de coordinación del mismo, y
+
+VIII. Ejercer las demás facultades que le confieren las disposiciones jurídicas aplicables, o las que sus superiores les encomiendan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 29
+
+Bis-II. A la Dirección de Programación y Presupuesto corresponderá el despacho de los siguientes asuntos:
+
+I. Coordinar la proyección e integración del presupuesto de gasto de las dependencias y entidades que conforman la Administración Pública del Estado;
+
+II. Coordinar e implementar acciones que doten al proceso de programación-presupuestación del gasto público, de los elementos técnicos, metodológicos y normativos requeridos en su instrumentación;
+
+III. Aplicar, en términos de las disposiciones vigentes, los ajustes necesarios al gasto como medida de control para el fortalecimiento de las políticas de gasto público;
+
+IV. Operar los sistemas informáticos aplicables en la materia a fin de lograr el óptimo ejercicio del presupuesto de los ejecutores del gasto de la Administración Pública Estatal;
+
+V. Implementar y coordinar el proceso de capacitación y asesoría técnica dirigida a los ejecutores del gasto, sobre la normatividad y metodología para la integración y ejercicio del Presupuesto de Egresos del ejercicio fiscal correspondiente;
+
+VI. Dar a conocer a las dependencias y entidades del Poder Ejecutivo, así como a los Poderes Legislativo y Judicial, y a los Organismos Autónomos, los montos aprobados en el Presupuesto de Egresos del ejercicio fiscal correspondiente y sus respectivos calendarios de gasto;
+
+VII. En el marco de la normatividad aplicable, analizar y, en su caso, aprobar las modificaciones presupuestales presentadas por las dependencias responsables de la ejecución de los programas, con el fin de garantizar una aplicación adecuada de los recursos;
+
+VIII. Registrar las adecuaciones presupuestarias por transferencia de recursos federales extraordinarios, a fin de que exista disponibilidad para su ejercicio;
+
+IX. Analizar y, en su caso, emitir un dictamen de impacto presupuestario, para los programas y proyectos derivados de convenios por celebrarse en donde concurran recursos de la Administración Pública del Estado;
+
+X. Analizar y, en su caso, emitir un dictamen de impacto presupuestario, para las iniciativas de ley o de decreto que se presenten al Congreso estatal, cuando las reformas y adiciones o nuevos ordenamientos propuestos generen tal impacto;
+
+XI. Disponer de los recursos no comprometidos para asignarlos conforme a las propuestas de obras, acciones y gasto de las dependencias y entidades de la Administración Pública del Estado, y
+
+XII. Ejercer las demás atribuciones que para el cumplimiento de la normatividad se requieran y las que sus superiores le encomienden.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 29
+
+Bis-III. A la Dirección de Análisis y Evaluación corresponderá el despacho de los siguientes asuntos:
+
+I. Coordinar la evaluación del desempeño a que se refiere la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, así como su seguimiento, sin prejuicio de las atribuciones que correspondan a la Contraloría General del Estado, con la participación de las unidades administrativas competentes de la Secretaría y, cuando corresponda, de las dependencias y entidades de la Administración Pública Estatal;
+
+II. Expedir, en el ámbito de las atribuciones de la Secretaría y con la participación que corresponda a otras instancias competentes, las disposiciones y lineamientos para la operación del Sistema de Evaluación del Desempeño, así como opinar, en el ámbito de su competencia, sobre las disposiciones que en dicha materia elabore la Contraloría General del Estado;
+
+III. Integrar, publicar y dar seguimiento al Programa Anual de Evaluación que defina los fondos y programas de gobierno a evaluar;
+
+IV. Coordinar la integración del Informe Anual de Ejecución del Plan Estatal de Desarrollo;
+
+V. Coadyuvar en el proceso de integración del Informe Anual de Gobierno, integrando el Anexo Programático con el seguimiento de la inversión pública realizada en el periodo;
+
+VI. Coordinar la operación del Comité Estatal de Información Estadística y Geográfica, para fortalecer las actividades de planeación, seguimiento y evaluación de políticas públicas en el Estado;
+
+VII. Coordinar el registro sistemático y el análisis de la inversión pública ejercida en el Estado, en coordinación con la Dirección de la Unidad de Inversión Pública y con la participación de las dependencias, entidades estatales y delegaciones federales con presencia en el Estado, y
+
+VIII. Ejercer las demás facultades que le confieren las disposiciones jurídicas aplicables, o las que sus superiores les encomienden.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 29
+
+Bis-IV. A la Dirección de la Unidad de Inversión Pública corresponderá el despacho de los siguientes asuntos:
+
+I. Emitir los criterios y lineamientos que deben observar las dependencias y entidades de la Administración Pública Estatal para la formulación de programas y proyectos de inversión de cada ejercicio fiscal y, en su caso, evaluar y dictaminar los mismos;
+
+II. Integrar la propuesta anual de programas y proyectos de inversión, previo acuerdo con la Dirección General, para incluirse en la iniciativa del Presupuesto de Egresos del Estado de cada ejercicio fiscal;
+
+III. Emitir lineamientos relativos a gasto de inversión, particularmente lo referente a análisis costo-beneficio de los programas y proyectos de inversión, para su observancia por parte de las dependencias y entidades de la Administración Pública Estatal. Para este efecto, se realizarán acciones de capacitación y asesoría;
+
+IV. Monitorear el Sistema de Cartera de Programas y Proyectos de Inversión para evaluar y dictaminar aquellos que presenten para su financiamiento las dependencias y entidades de la Administración Pública Estatal, conforme lo establecido en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí;
+
+V. Verificar la congruencia de los programas y proyectos de inversión que proponen las dependencias y entidades, y su alineación con los ejes rectores y estrategias establecidos en el Plan Estatal de Desarrollo y con los programas sectoriales y especiales que de él se desprenden;
+
+VI. Proponer a la Dirección General esquemas y modalidades de financiamiento alternativo para programas y proyectos de inversión, con la participación de los sectores público, privado y social;
+
+VII. Integrar la información correspondiente a programas y proyectos de inversión en la iniciativa del Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente;
+
+VIII. Promover convenios o modalidades de cooperación técnica con organismos nacionales e internacionales en el diseño y aplicación de normas y metodologías en materia de inversión pública, y
+
+IX. Ejercer las demás facultades que le confieren las disposiciones jurídicas aplicables, o las que sus superiores les encomienden.
+
 ### CAPÍTULO III. De la Suplencia de Funcionarios
 
 ###### Artículo 30.
@@ -1237,7 +1387,7 @@ Se abroga el Reglamento Interior de la Secretaría de Finanzas publicado en el P
 
 En tanto se expiden los manuales que este Reglamento menciona, el titular del ramo queda facultado para resolver las cuestiones que conforme a dichos manuales se deben regular.
 
-Dado en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí ,a los catorce días del mes de abril del año dos mil cinco.
+Dado en el Palacio de Gobierno, sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los catorce días del mes de abril del año dos mil cinco.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
@@ -1276,3 +1426,11 @@ P.O. 25 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DE LA “REFORMA AL REGLAMENTO INTERIOR”.]
 
 Artículo Único: El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO ADMINISTRATIVO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE Y (SIC) REGLAMENTO INTERIOR”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto entrará en vigor el día 1 de enero del 2018, previa publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis".
