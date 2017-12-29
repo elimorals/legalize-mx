@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-del-estado-de-puebla-112062"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2017-09-11"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Vigésima Novena Sección del Periódico Oficial del Estado de Puebla, el jueves 31 de diciembre de 2015.
 
@@ -1487,7 +1487,9 @@ En la prestación de estos servicios se designará, por parte de la Secretaría 
 
 Cada Notario titular deberá contratar una fianza por un millón de pesos, para cubrir las responsabilidades derivadas del ejercicio de la función notarial con motivo de actos, hechos u omisiones imputados a los Notarios o al personal de la propia Notaría Pública.
 
-Su monto será actualizado anualmente conforme a los incrementos del salario mínimo vigente para el Estado de Puebla.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Su monto será actualizado anualmente conforme a los incrementos del equivalente al valor diario de la Unidad de Medida y Actualización.
 
 La fianza cubrirá los daños y perjuicios que se ocasionen en términos de lo señalado en el primer párrafo de este artículo y, de no ser suficiente, el Notario cubrirá la cantidad faltante con su patrimonio.
 
@@ -1671,9 +1673,11 @@ IX. Por negarse a entregar a los interesados, copia certificada de los documento
 
 X. Por no enterar oportunamente, por causas imputables al Notario el pago de las contribuciones a las autoridades correspondientes.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 173.
 
-Se sancionará al Notario con multa de ciento ochenta a mil días de salario mínimo general vigente en el Estado:
+Se sancionará al Notario con multa del equivalente a la cantidad de ciento ochenta a mil veces el valor diario de la Unidad de Medida y Actualización:
 
 I. Por reincidir en la comisión de alguna de las faltas o infracciones a que se refiere el artículo anterior;
 
@@ -2100,3 +2104,11 @@ P.O. 11 DE SEPTIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
