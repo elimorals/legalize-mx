@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2017-01-23"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -180,8 +180,6 @@ Créditos fiscales son las prestaciones económicas que tiene derecho a percibir
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará por la Secretaria o por las oficinas que la misma autorice expresamente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -367,15 +365,13 @@ F) Cuando no se señale domicilio, o sea inexistente o falso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
-ARTICUO (SIC) 15. En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o y 5 de mayo; el 16 y 30 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el día en que corresponda al cambio del Titular del Poder Ejecutivo del Estado, así como el día en que el Gobernador del Estado dé lectura al Informe de Gobierno correspondiente y el 25 de diciembre.
+###### ARTICULO 15.
+
+En los plazos fijados en días no se contarán los sábados, los domingos, ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o y 5 de mayo; el 16 y 30 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el día en que corresponda al cambio del Titular del Poder Ejecutivo del Estado, así como el día en que el Gobernador del Estado dé lectura al Informe de Gobierno correspondiente y el 25 de diciembre.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales, y los días en que se consideren inhábiles mediante decreto o acuerdo, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
-
-###### ARTICULO 15.
-
-En los plazos fijados en días no se contarán los sábados, los domingos, ni el primero de enero, 5 de febrero, 21 de marzo, 1° y 5 de mayo, el día en que corresponda al cambio del Titular del Poder Ejecutivo del Estado, 16 y 30 de septiembre, así como el día en que el Gobernador del Estado dé lectura al Informe de Gobierno correspondiente, 19 de octubre, 1° y 20 de noviembre, 1° de diciembre de cada seis años, cuando corresponda el cambio de Titular del Poder Ejecutivo Federal y el 25 de diciembre.
 
 ###### ARTICULO 16.
 
@@ -413,7 +409,9 @@ V. Corregir su situación fiscal con motivo del ejercicio de las facultades de c
 
 VI. Conocer el estado de tramitación de los procedimientos en los que sea parte;
 
-VII. Recibir de las autoridades fiscales en el inicio del ejercicio de sus facultades de comprobación, la Carta de Derechos del Contribuyente Auditado Estatal; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. Recibir de las autoridades fiscales en el inicio del ejercicio de sus facultades de comprobación, la Carta de Derechos del Contribuyente Auditado Estatal, sin que la omisión en su entrega afecte de ninguna manera la validez de las actuaciones que lleve a cabo la autoridad fiscal, pero dará lugar a que se finque responsabilidad administrativa al servidor público que incurrió en la omisión; y,
 
 VIII. Las demás que éste Código y otros ordenamientos señalen.
 
@@ -795,9 +793,11 @@ La documentación correspondiente a aquellos conceptos respecto de los cuales se
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 26.
 
-Son autoridades fiscales del Estado, las siguientes:
+Son autoridades fiscales del Estado, para los efectos de este Código y demás disposiciones aplicables, y facultades para administrar, comprobar, determinar y cobrar, ingresos federales coordinados y estatales, según corresponda, las siguientes:
 
 I. El Gobernador del Estado;
 
@@ -805,21 +805,21 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Finanzas y Administración;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-III. El Subsecretario de Finanzas;
+III. Los Directores Generales de: Política Tributaria, y Jurídico;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV. El Procurador Fiscal;
+IV. Los Directores de: Recaudación, de Auditoría y Revisión Fiscal, Catastro, de lo Contencioso; y de Técnica y Legislación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 V. Los Subprocuradores Técnico Legal, de lo Contencioso y de Legislación y Consulta;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VI. Los Directores de: Ingresos, de Auditoría y Revisión Fiscal, y el de Catastro, de la Secretaría;
+VI. Los auditores, visitadores, inspectores, interventores, notificadores, ejecutores y verificadores fiscales, designados por las autoridades fiscales referidas, para que ejerzan las atribuciones que expresamente se les encomiende de conformidad con la legislación fiscal aplicable.
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -861,9 +861,9 @@ VI. Condonar o en su caso eximir total o parcialmente los créditos fiscales, cu
 
 Sin que las facultades otorgadas en esta fracción puedan entenderse referidas a los casos en que la afectación o posible afectación a una determinada rama de la industria obedezca a lo dispuesto en una Ley Tributaria Federal o Tratado Internacional.
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VII. Condonar hasta el 100% de los recargos siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes; tratándose de multas por infracciones a las leyes fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso; en el entendido de que el Gobernador del Estado no podrá condonar recargos y multas derivados de los impuestos o ingresos que se encuentren afectos como garantía y/o fuente de pago de conformidad con la Ley de Deuda Pública del Estado de Michoacán de Ocampo;
+VII. Condonar hasta el 100% de los recargos siempre y cuando se compruebe que la falta de pago se motivó por una manifiesta situación económica precaria de los contribuyentes, o se trate de condonaciones de carácter general como instrumento de política financiera; tratándose de multas por infracciones a las leyes fiscales, la condonación podrá ser discrecional, apreciando los motivos que se tuvieron para imponerlas y las demás circunstancias del caso; en el entendido de que el Gobernador del Estado no podrá condonar recargos y multas derivados de los impuestos o ingresos que se encuentren afectos como garantía y/o fuente de pago de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios;
 
 VIII. Acordar y hacer declaratorias correspondientes a las franquicias impositivas, de conformidad con las leyes fiscales respectivas;
 
@@ -905,7 +905,9 @@ VIII. Ordenar cuando lo estime necesario, se practiquen auditorías a las oficin
 
 IX. Fijar el monto de las fianzas a los servidores públicos que tengan a su cuidado los fondos públicos, en alguna de las formas establecidas en el artículo 120 de este Código;
 
-X. Activar por todos los medios legales, como representante del Fisco, los asuntos que se tramiten en los Tribunales, en los que tenga intereses la Hacienda Pública;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+X. Activar por todos los medios legales, como representante del Fisco, los asuntos que se tramiten en los Tribunales, en los que tenga intereses la Hacienda Pública, así como interponer, directamente o a través del Director General Jurídico, o Director de lo Contencioso de la Secretaría de Finanzas y Administración, el Recurso de Revisión Fiscal en contra de sentencias y resoluciones, ante el Tribunal Colegiado de Circuito competente, por conducto de las Salas, Secciones o Pleno del Tribunal Federal de Justicia Administrativa, en relación con los juicios en que la propia Entidad haya intervenido como parte, ya sea en materia estatal o derivado de los convenios de coordinación con la Federación;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1401,6 +1403,10 @@ La visita en el domicilio fiscal se desarrollará conforme a las siguientes regl
 
 I. De toda visita en el domicilio fiscal se levantará acta en la que se hará constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el periodo revisado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Tratándose de la verificación de vehículos de procedencia extranjera conforme a las disposiciones de la Ley Aduanera, Código Fiscal de la Federación y los Convenios de Coordinación Celebrados con la Federación, las autoridades cuentan con un plazo de cuatro meses para emitir y notificar la orden respectiva a partir de la puesta a disposición de la mercancía.
+
 II. Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial cumpliendo al respecto con lo previsto en la fracción II del Artículo 39-B de este Código.
 
 III. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
@@ -1499,8 +1505,6 @@ Los plazos a los que se refiere este artículo se podrán ampliar por las autori
 
 Los contribuyentes que no estén conformes con los resultados encontrados de cualquier revisión, podrán inconformarse con los hechos contenidos en las resoluciones, mediante escrito que deberán presentar ante las autoridades fiscales dentro de los treinta días siguientes a la notificación de la resolución, a dicho escrito acompañarán las pruebas documentales pertinentes y vinculadas a los hechos con los que se inconformen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 45.
@@ -1528,8 +1532,6 @@ V. No lleven los libros o registros contables a que están obligados, o no los c
 VI. Se adviertan o detecten irregularidades en sus registros que imposibiliten el conocimiento de sus operaciones, actividades o fuente generadora de la contribución.
 
 La determinación presuntiva a que se refiere este artículo, procederá independientemente de las sanciones a que haya lugar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1563,8 +1565,6 @@ VIII. Utilizarán la información contenida en los dictámenes que para efectos 
 
 IX. Considerarán los hechos que conozcan las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación previstas en éste Código, o bien que consten en los expedientes o documentos que lleven o tengan en su poder, así como aquellos proporcionados por otras autoridades del nivel federal o estatal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 47.
@@ -1581,8 +1581,6 @@ También se presumirá que los depósitos que efectúen en un Ejercicio Fiscal e
 
 IV. Que son ingresos y valor de actos o actividades de la empresa por los que se deben pagar contribuciones, los depósitos hechos en cuenta de cheques personal de los gerentes, administradores o terceros, cuando efectúen pagos de deudas de la empresa con cheques de dicha cuenta o depositen en la misma, cantidades que correspondan a la empresa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 47-A.
@@ -1594,8 +1592,6 @@ I. Si con base en la documentación del contribuyente o información de terceros
 II. Si la documentación del contribuyente no permite reconstruir las operaciones del período de treinta días a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad de ingresos o del valor de los actos o actividades, por los que deban pagar contribuciones que observen durante siete días incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
 
 Al ingreso o valor de los actos o actividades así como las remuneraciones por los que deban pagar contribuciones, estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1791,8 +1787,6 @@ c) Que la comisión de la infracción sea en forma continuada.
 
 III. Cuando por un acto o una omisión, se infrinjan diversas disposiciones fiscales a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió la infracción y la multa vigente en el momento de su imposición.
@@ -1834,8 +1828,6 @@ II. Oponerse a que se practique la visita en el domicilio fiscal. No suministrar
 ###### ARTICULO 62.
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de las autoridades a que se refiere el artículo anterior, se impondrán las siguientes multas:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1912,8 +1904,6 @@ I. Con el equivalente de 5 a 10 veces el valor diario de la Unidad de Medida y A
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 II. Con el equivalente de 10 a 20 veces el valor diario de la Unidad de Medida y Actualización, a las personas morales que se coloquen en el supuesto de la comprendida en la fracción I; y,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -2043,13 +2033,9 @@ III. Alterar los documentos relativos a la propiedad del vehículo.
 
 A quien cometa las infracciones señaladas en el artículo anterior, se impondrán las siguientes multas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 I. Del equivalente del 20% a un 40% del monto del impuesto que se determine en los casos a que se refieren las fracciones I y II; y,
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -3436,3 +3422,9 @@ P.O. 31 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 334 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2o FRACCIONES VIII Y IX, 16 SEGUNDO PÁRRAFO, 16-B FRACCIÓN I SEGUNDO PÁRRAFO, 21 PRIMER Y NOVENO PÁRRAFOS; 26 FRACCIONES IV, V Y VI; 38-A FRACCIÓN I, INCISOS A) Y B), 39-D FRACCIÓN V, 43 FRACCIÓN III, 67 FRACCIONES I Y II Y 120 ÚLTIMO PÁRRAFO; SE ADICIONAN LOS ARTÍCULOS 2o CON LA FRACCIÓN X, 21 CON UN PENÚLTIMO PÁRRAFO, 26 CON LAS FRACCIONES VII Y VIII; ARTÍCULO 38-A FRACCIÓN I INCISO C) CON UN SEGUNDO PÁRRAFO, ARTÍCULO 38-B, 40 CON UN QUINTO PÁRRAFO, 53 CON SEGUNDO Y TERCER PÁRRAFOS, ARTÍCULO 53-A, 105 BIS Y 120 CON UN SEGUNDO PÁRRAFO RECORRIÉNDOSE EL ACTUAL EN SU ORDEN Y; SE DEROGAN LOS ARTÍCULOS 68-A Y 68-B; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMER0 419 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 16-A FRACCIÓN VII, 26, 27 FRACCIÓN VII Y 28 FRACCIÓN X; Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 39-D, DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día 1 de enero del año 2018, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
