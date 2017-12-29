@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2017-12-26"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -46,6 +46,10 @@ La presente Ley es de orden público e interés general, y tiene por objeto regu
 ###### ARTÍCULO 2°.
 
 Esta Ley, sus reformas y adiciones, no podrán ser objeto de veto o plebiscito, ni requerirán para su vigencia de la promulgación por parte del Poder Ejecutivo. Es facultad exclusiva del Congreso del Estado, su aprobación, reforma o adición, así como ordenar su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Para reformar, adicionar o abrogar la presente ley, así como para expedir una nueva ley, se requerirá la aprobación de las dos terceras partes de los integrantes de la Legislatura.
 
 ###### ARTÍCULO 3°.
 
@@ -135,6 +139,8 @@ Al hacerse dicha convocatoria, se señalará la fecha, hora y lugar en que se ll
 
 Las y los representantes a que se refiere este artículo, fijarán la hora para la celebración de la reunión preparatoria y notificarán a los diputados electos de su correspondiente partido, lo que se determine para la instalación y el inicio de las funciones de la legislatura.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 14.
 
 El primero de enero del año inmediato posterior al de la elección, las y los diputados electos, celebrarán una reunión preparatoria, para elegir la mesa directiva que estará en funciones durante el período de instalación. Los trabajos de esta reunión preparatoria serán dirigidos por quien designen las y los diputados del partido que haya obtenido mayor número de diputaciones de mayoría relativa, y para su desarrollo la o el diputado designado para dirigir dicha reunión, solicitará libremente a otro diputado o diputada que lo asista en la secretaría.
@@ -145,9 +151,13 @@ Para la elección de la referida mesa directiva, se observará el siguiente proc
 
 I. El día señalado, en la hora que se acuerde conforme al artículo anterior, las y los diputados electos que estén presentes, se reunirán en el Salón de Sesiones para iniciar los trabajos de la reunión preparatoria, bajo la dirección de las o los diputados designados para este efecto en los términos del presente artículo.
 
-II. La o el diputado que ocupe la secretaría, pasará lista de asistencia de las y los diputados de la nueva legislatura, conforme al registro de las copias certificadas de los documentos en los que se haga constar la declaración de validez de la elección correspondiente, remitidas por el Instituto Electoral y de Participación Ciudadana del Estado de Coahuila, para confirmar la existencia del quórum que prescribe el Artículo 51 de la Constitución Política Local; en caso contrario, se procederá en los términos de esta misma disposición constitucional.
+II. La o el diputado que ocupe la secretaría, pasará lista de asistencia de las y los diputados de la nueva legislatura, conforme al registro de las copias certificadas de los documentos en los que se haga constar la declaración de validez de la elección correspondiente, remitidas por el Instituto Electoral de Coahuila, para confirmar la existencia del quórum que prescribe el Artículo 51 de la Constitución Política Local; en caso contrario, se procederá en los términos de esta misma disposición constitucional.
 
-III. La o el diputado encargado de dirigir la reunión, solicitará que se formulen propuestas para elegir de entre las y los diputados electos asistentes, mediante votación secreta, ya sea por medio de cédulas o mediante el sistema electrónico, y por mayoría de votos, una mesa directiva integrada con un Presidente, dos Vicepresidentes y cuatro Secretarías, observando para su designación equidad de género, que estará en funciones durante el período de instalación de la Legislatura.
+III. La o el diputado encargado de dirigir la reunión, solicitará que se formulen propuestas para elegir de entre las y los diputados electos asistentes, mediante votación secreta, ya sea por medio de cédulas o mediante el sistema electrónico, y por mayoría de votos, una mesa directiva integrada con un Presidente, dos Vicepresidentes y cuatro Secretarías, observando para su designación la equidad de género, que estará en funciones durante el período de instalación de la Legislatura.
+
+La presidencia de la Mesa Directiva del periodo de instalación será ejercida por el partido político que cuente con mayor número de diputados y diputadas en la Legislatura.
+
+En caso de que dos o más partidos políticos tengan igual número de integrantes, se decidirá por el que haya obtenido más votos en el Estado, en la elección correspondiente a la legislatura en turno.
 
 IV. La o el diputado en funciones de secretario dará a conocer el resultado de la votación.
 
@@ -467,9 +477,9 @@ El Pleno Legislativo del Congreso del Estado es la Asamblea deliberante compuest
 
 El Pleno Legislativo del Congreso del Estado sólo podrá ejercer sus funciones con la concurrencia de más de la mitad del número total de sus miembros.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-El Pleno Legislativo del Congreso, para el despacho oportuno de sus asuntos, deberá sesionar cuando menos dos veces por semana; ya sea en días distintos o en uno sólo, de acuerdo a la agenda legislativa y de trabajo del Pleno, y de las comisiones y comités.
+El Pleno Legislativo del Congreso, para el despacho oportuno de sus asuntos, deberá sesionar cuando menos una vez por semana; de acuerdo a la agenda legislativa y de trabajo del Pleno, y de las comisiones y comités.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
@@ -515,9 +525,17 @@ La Mesa Directiva se integrará por una Presidencia, dos Viceprecidencias (sic) 
 
 Al final del segundo período ordinario de sesiones de cada año legislativo, se llevará a cabo la elección de la Mesa Directiva que estará en funciones durante el siguiente año legislativo. Salvo lo dispuesto en la fracción IX del artículo 12 de esta Ley.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 43.
 
-Quienes integren la Mesa Directiva del Congreso durarán en sus cargos durante el año legislativo para el cual fueron electos, e iniciarán el desempeño de sus funciones en la primera sesión ordinaria del primer periodo del año que corresponda, o en la primera sesión del periodo extraordinario en caso de que se convoque. No podrán ser reelectos o reelectas en el siguiente año legislativo en forma consecutiva con igual cargo, salvo el caso de quienes hayan integrado la Mesa Directiva en el Periodo de Instalación, que podrán ser ratificados o ratificadas por el Pleno para el Primer Año Legislativo.
+Quienes integren la Mesa Directiva del Congreso durarán en sus cargos durante el año legislativo para el cual fueron electos, e iniciarán el desempeño de sus funciones en la primera sesión ordinaria del primer periodo del año que corresponda, o en la primera sesión del periodo extraordinario en caso de que se convoque. Quien ocupe la presidencia de la Mesa Directiva, iniciará sus funciones a partir del momento de su elección para efectos de lo dispuesto en la fracción I del artículo 48, y demás que resulten aplicables.
+
+No podrán ser reelectos o reelectas en el siguiente año legislativo en forma consecutiva con igual cargo, salvo el caso de quienes hayan integrado la Mesa Directiva en el Periodo de Instalación, que podrán ser ratificados o ratificadas por el Pleno para el Primer Año Legislativo.
+
+La presidencia de la Mesa Directiva será ejercida en forma alternada y para cada año legislativo, por los grupos parlamentarios que cuenten con el mayor número de diputadas y diputados; correspondiéndole el primer año de ejercicio constitucional al Grupo Parlamentario que cuente con mayor número de diputados y diputadas en la legislatura.
+
+En caso de que dos o más grupos parlamentarios tengan igual número de integrantes, se decidirá por el grupo parlamentario del partido político que haya obtenido más votos en el Estado, en la elección correspondiente a la legislatura en turno.
 
 ###### ARTÍCULO 44.
 
@@ -687,23 +705,25 @@ VII. Las demás que le señalen esta ley y la Presidencia de la Mesa Directiva.
 
 ### CAPÍTULO IV. De los Grupos Parlamentarios y las Fracciones Parlamentarias
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 55.
 
-Un Grupo Parlamentario es la forma de organización que podrán adoptar las o los Diputados con igual filiación política o de partido, a efecto de encauzar la libre expresión de las corrientes ideológicas en el seno del Congreso del Estado, para coadyuvar al eficaz desarrollo del proceso legislativo.
+Un Grupo Parlamentario es la forma de organización que podrán adoptar las o los Diputados pertenecientes a un mismo partido político, a efecto de encauzar la libre expresión de las corrientes ideológicas en el seno del Congreso del Estado, para coadyuvar al eficaz desarrollo del proceso legislativo.
 
 El Grupo Parlamentario se integrará con un mínimo de dos Diputados o Diputadas y sólo podrá haber uno por cada partido político que cuente con Diputados o Diputadas en el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+El partido político que cuente con tan solo una o un Diputado y los Diputados o Diputadas independientes, podrán optar por formar una Fracción Parlamentaria, la que tendrá los derechos y prerrogativas de Grupo Parlamentario. La Fracción Parlamentaria se conformará solo con un Diputado o Diputada.
 
-El partido político que cuente con tan solo una o un Diputado y los Diputados o Diputadas independientes, podrán optar por formar una Fracción Parlamentaria, la que tendrá los derechos y prerrogativas de grupo parlamentario. La fracción parlamentaria podrá conformarse por lo menos con un Diputado o Diputada.
+Para los efectos de esta ley, se consideran Diputados o Diputadas independientes aquellos que participaron en el proceso electoral como candidatos independientes o aquellos que dejen de pertenecer al partido político que los postuló y se declaren independientes, debiendo presentarse en este segundo caso la aceptación de su renuncia por el partido político que los postuló.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+Las Diputadas o Diputados que dejen de pertenecer al partido político por el cual fueron postulados, no podrán adscribirse a un Grupo Parlamentario ya existente y serán considerados como Diputados sin partido, teniendo la posibilidad de declararse independientes conforme a lo dispuesto en el párrafo anterior.
 
-Para los efectos de esta ley, se consideran Diputados o Diputadas independientes aquellos que participaron en el proceso electoral como candidatos independientes o aquellos que dejen de pertenecer al partido político que los postuló y se declaren independientes.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 56.
 
-Los Grupos Parlamentarios y en su caso las fracciones, deberán presentar en la primera sesión del período de instalación de la Legislatura, la siguiente documentación:
+Los Grupos Parlamentarios deberán presentar en la primera sesión del período de instalación de la Legislatura, la siguiente documentación:
 
 I. El acta en la que conste la decisión de sus miembros de constituirse en grupo, con especificación del nombre del mismo y la lista de sus integrantes;
 
@@ -711,41 +731,51 @@ II. Las normas acordadas por los miembros del grupo para su funcionamiento inter
 
 III. Los nombres de las y los Diputados que hayan sido designados como coordinador y subcoordinador del Grupo Parlamentario y los nombres de quienes desempeñen otras actividades.
 
-Una vez que la o el Presidente en turno haya examinado la documentación presentada, en sesión del período de instalación, hará la declaratoria de constitución de los grupos parlamentarios y, desde ese momento, ejercerán las atribuciones y tendrán los derechos previstos por esta Ley.
+Las Fracciones Parlamentarias y Diputados Independientes, deberán presentar en la primera sesión del período de instalación de la Legislatura, la siguiente documentación:
+
+I. El acta en la que conste la decisión de su miembro de constituirse en fracción, con especificación del nombre de la misma; y
+
+II. Las normas acordadas para su funcionamiento interno.
+
+Una vez que la o el Presidente en turno haya examinado la documentación presentada, en sesión del período de instalación, hará la declaratoria de constitución de los Grupos Parlamentarios y Fracciones Parlamentarias y, desde ese momento, ejercerán las atribuciones y tendrán los derechos previstos por esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 57.
 
-Las y los coordinadores expresan la voluntad de los grupos parlamentarios; promoverán los entendimientos necesarios para la elección de los integrantes de la Mesa Directiva y demás acuerdos parlamentarios y legislativos necesarios para el desempeño de las labores del Congreso, participarán en la Junta de Gobierno y en la Comisión de Reglamentos y Prácticas Parlamentarias.
+Las y los coordinadores expresan la voluntad de los grupos parlamentarios y fracciones parlamentarias; promoverán los entendimientos necesarios para la elección de los integrantes de la Mesa Directiva y demás acuerdos parlamentarios y legislativos necesarios para el desempeño de las labores del Congreso, participarán en la Junta de Gobierno y en la Comisión de Reglamentos y Prácticas Parlamentarias.
 
 Durante el ejercicio de la Legislatura, la o el Coordinador del Grupo Parlamentario comunicará a la Mesa Directiva las modificaciones que ocurran en la integración de su grupo. Con base en dichas comunicaciones, la o el Presidente (sic) la Mesa Directiva llevará el registro del número de integrantes de cada uno de ellos y sus modificaciones.
 
-Las decisiones al interior de los grupos se tomarán en términos de su reglamentación interna y éstas no son atacables ni revocables por disposición u órgano alguno.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 58.
 
-Las y los coordinadores de los grupos parlamentarios, realizarán las tareas de coordinación con los otros grupos, con la Mesa Directiva, con las Comisiones del Congreso y con la Diputación Permanente.
-
-Quienes coordinen de los grupos parlamentarios, podrán unirse entre sí para considerar conjuntamente las acciones que propicien el mejor desarrollo del trabajo del Congreso del Estado.
+Las y los coordinadores de los grupos parlamentarios y los integrantes de las fracciones parlamentarias, realizarán las tareas de coordinación con los otros grupos y fracciones, con la Mesa Directiva, con las Comisiones y Comités del Congreso y con la Diputación Permanente.
 
 ###### ARTÍCULO 59.
 
 Para el ejercicio de las funciones constitucionales de sus miembros, los grupos parlamentarios proporcionarán información, otorgarán asesoría y prepararán los elementos necesarios para articular el trabajo parlamentario de aquéllos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 60.
 
-De conformidad con la representatividad de cada Grupo Parlamentario, la Junta de Gobierno propondrá la asignación de recursos y locales adecuados a cada uno de ellos, que será aprobada por el Pleno. Adicionalmente a esas asignaciones, la Junta de Gobierno propondrá al Pleno una subvención mensual para cada Grupo Parlamentario, integrada por una suma fija de carácter general y otra variable, en función del número de Diputadas y Diputados que los conformen.
+De conformidad con la representatividad de cada Grupo Parlamentario y con las posibilidades presupuestales del Congreso, la Junta de Gobierno acordará lo relativo a la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Gobierno acordará lo relativo a una subvención mensual para cada Grupo Parlamentario, integrada por una suma fija de carácter general y otra variable, en función del número de Diputadas y Diputados que los conformen.
 
-Al término de la Legislatura, las y los coordinadores de los grupos parlamentarios, serán responsables dentro del proceso de entrega recepción de los bienes a ellos asignados, los cuales serán entregados a quien asuma la nueva coordinación del mismo Grupo Parlamentario.
+En el caso de las Fracciones Parlamentarias, y de las y los Diputados Independientes, la Junta de Gobierno observará lo señalado en el párrafo anterior, en la forma que se considere procedente conforme a las posibilidades presupuestales del Congreso.
+
+Al término de la Legislatura, las y los coordinadores de los grupos parlamentarios serán responsables dentro del proceso de entrega recepción de los bienes a ellos asignados, los cuales serán entregados a quien asuma la nueva coordinación del mismo Grupo Parlamentario.
 
 Si al inicio de la Legislatura, no se conformare Grupo Parlamentario que suceda a uno conformado en la Legislatura saliente, los activos y bienes que existen serán puestos a disposición de la Oficialía Mayor para su asignación respectiva.
 
-La cuenta anual de las subvenciones que se asignen a los grupos parlamentarios, se incorporará a la cuenta pública del Congreso del Estado. De dicho documento se remitirá un ejemplar a la Contraloría Interna del propio Congreso.
+La cuenta anual de las subvenciones que se asignen a los grupos parlamentarios, a las fracciones parlamentarias, y en su caso a las y los Diputados Independientes, se incorporará a la cuenta pública del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 61.
 
-Las y los Diputados que no se inscriban o dejen de pertenecer a un grupo parlamentario sin integrarse a otro existente, podrán permanecer como Diputados independientes y formar fracción parlamentaria conforme al artículo 55 de esta ley, debiéndoseles guardar las mismas consideraciones que a todos los legisladores y apoyándolos, conforme a las posibilidades del Congreso del Estado, para que puedan desempeñar sus atribuciones de representación popular.
+Las y los Diputados que no se inscriban o dejen de pertenecer a un grupo parlamentario, podrán permanecer como Diputados independientes y formar fracción parlamentaria conforme al artículo 55 de esta ley, debiéndoseles guardar las mismas consideraciones que a todos los legisladores y apoyándolos, conforme a las posibilidades del Congreso del Estado, para que puedan desempeñar sus atribuciones de representación popular.
 
 ### CAPÍTULO V. De la Junta de Gobierno
 
@@ -811,7 +841,9 @@ II. Proponer al Pleno la integración de las comisiones permanentes y de los com
 
 III. Aprobar la propuesta de la o el Presidente de la Junta de Gobierno para la designación de los titulares de la Oficialía Mayor y la Tesorería del Congreso del Estado;
 
-IV. Aprobar el anteproyecto de Presupuesto Anual de Egresos del Congreso que será elaborado en coordinación con el Comité de Administración Presupuestal;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Aprobar el anteproyecto de Presupuesto Anual de Egresos del Congreso;
 
 V. Analizar y, en su caso, aprobar los informes que presente la Presidencia, sobre el estado que guardan las finanzas del Congreso, conforme a lo dispuesto en la Ley de Fiscalización Superior del Estado;
 
@@ -867,7 +899,9 @@ VII. Ejercer el Presupuesto Anual de Egresos aprobado por el Pleno del Congreso,
 
 VIII. Proponer, con autorización del Pleno, que los subejercicios presupuestales se destinen, al fortalecimiento y al mejor desarrollo del trabajo legislativo, excluyendo todo tipo de percepciones personales, o bien manteniéndolo en la Tesorería del Congreso del Estado.
 
-IX. Informar al Comité de Administración Presupuestal y la Junta de Gobierno, sobre el estado que guardan las finanzas del Congreso, conforme a lo dispuesto en la Ley de Fiscalización Superior del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IX. Informar a la Junta de Gobierno, sobre el estado que guardan las finanzas del Congreso, conforme a lo dispuesto en la Ley de Fiscalización Superior del Estado;
 
 X. Coadyuvar en la realización de las funciones de las comisiones permanentes y especiales y de los comités;
 
@@ -1661,6 +1695,8 @@ Se integrarán por cinco Diputadas o Diputados designados por el Pleno a propues
 
 Cada Comité podrá contar, a propuesta de la Junta de Gobierno, con el personal necesario para su buen desempeño.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 133.
 
 Sin perjuicio de lo dispuesto en el artículo anterior, el Congreso contará con los siguientes comités permanentes:
@@ -1669,13 +1705,11 @@ I. Comité de Adquisiciones;
 
 II. Comité Editorial;
 
-III. Comité de Administración Presupuestal;
+III. Comité de Gestoría y Quejas;
 
-IV. Comité de Gestoría y Quejas;
+IV. Comité de Seguimiento de Acuerdos, y
 
-V. Comité de Seguimiento de Acuerdos; y
-
-VI. Los demás que se creen conforme a las disposiciones de este capítulo.
+V. Los demás que se creen conforme a las disposiciones de este capítulo.
 
 ###### ARTÍCULO 134.
 
@@ -1773,33 +1807,7 @@ En todo evento, conferencia y/o reunión, se designará el personal que se estim
 
 ###### ARTÍCULO 136.
 
-Con el objeto de supervisar la administración general del Congreso del Estado, se formará el Comité de Administración Presupuestal, integrado por una o un diputado de cada una de las fracciones parlamentarias representadas en el Congreso y en el cual participarán además de manera permanente pero sin voto, quienes sean titulares de la Oficialía Mayor y de la Tesorería del Congreso. Su desempeño se regirá conforme a los principios de transparencia, eficiencia y rendición de cuentas.
-
-Los integrantes del Comité tendrán voto ponderado, por lo que el voto de cada uno de sus miembros equivaldrá a tantos votos como sea el número de legisladores que tenga cada fracción parlamentaria en el Congreso, con excepción de las sesiones en que se aprueben los informes que el Comité debe rendir al pleno respecto de la administración presupuestal. En estos casos todos los votos tendrán el mismo valor.
-
-El Comité se reunirá cuando menos una vez al mes en las instalaciones del Congreso, para analizar y resolver los asuntos que sean de su competencia. A las reuniones que se celebren, tendrán derecho a asistir únicamente con voz, las demás Diputadas y Diputados que no formen parte del Comité. Este órgano podrá reunirse con la o el Presidente de la Junta de Gobierno cuando lo considere necesario, o cuando él así lo solicite.
-
-Para el cumplimiento de estas funciones, el Comité de Administración Presupuestal tendrá las siguientes atribuciones:
-
-I. Elaborar de manera conjunta con quien presida la Junta de Gobierno, el proyecto del presupuesto anual que será presentado en su momento a la Junta de Gobierno.
-
-II. Supervisar y autorizar la administración de los recursos económicos del Congreso del Estado, de conformidad con el presupuesto de egresos aprobado;
-
-III. Presentar por escrito a la Junta de Gobierno el análisis, opiniones, observaciones y sugerencias respecto al ejercicio presupuestal del Congreso.
-
-IV. Rendir informe al Pleno en la segunda y penúltima sesión de cada periodo ordinario, sobre la administración general de los recursos económicos, para efectos de su aprobación. El Pleno podrá solicitar información adicional sobre la rendición de cuentas, y el Comité deberá dar respuesta en la misma o en la siguiente sesión respectiva;
-
-V. Proponer y autorizar la plantilla del personal y sus movimientos, el tabulador de sueldos y los programas de desarrollo del personal. De lo anterior deberá rendir cuentas al Pleno del Congreso;
-
-VI. Supervisar la elaboración e integración de los inventarios de los muebles y enseres del Congreso del Estado y sus dependencias, así como vigilar que los responsables directos cuiden de la conservación de los mismos;
-
-VII. Participar en las tareas para enriquecer el patrimonio del Congreso del Estado y de incrementar sus recursos financieros;
-
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
-
-VIII. Informar al Pleno en la segunda sesión del periodo ordinario de sesiones siguiente, sobre la administración de los recursos económicos del Congreso del Estado durante los periodos de la Diputación Permanente; y
-
-IX. Otros asuntos que tengan que ver con la administración del personal y los recursos económicos del Congreso del Estado, y que sean materia de este Comité.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 137.
 
@@ -2421,6 +2429,10 @@ Concluida la votación, una de las o los Secretarios sacará las cédulas, una d
 
 Leída la cédula, se pasará a manos de la o el Presidente y los demás Secretarios y Secretarias para que les conste el contenido de ella y puedan reclamar cualquier equivocación que se advierta. Finalmente, se hará el cómputo de votos y se dará a conocer el resultado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Las votaciones a las que se refiere el presente artículo, también podrán realizarse mediante votación secreta a través del sistema electrónico.
+
 ###### ARTÍCULO 212.
 
 Todas las votaciones se verificarán por mayoría de los diputados presentes, a no ser en aquellos casos en que la Constitución y esta ley exigen las dos terceras partes de los votos.
@@ -2480,6 +2492,14 @@ Los trámites a que se refiere este capítulo no son dispensables.
 ###### ARTÍCULO 217.
 
 Las sesiones del Pleno serán Ordinarias, Extraordinarias o Solemnes, su desarrollo y trabajos estarán regulados en términos del Reglamento de Sesiones del Congreso de Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+A solicitud de la Junta de Gobierno, el Pleno del Congreso del Estado podrá autorizar que las sesiones del Pleno se realicen bajo la modalidad del Congreso Itinerante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+El Congreso Itinerante tiene como objetivo celebrar las sesiones del Pleno en los distintos municipios del Estado, a fin de informar de manera directa a la ciudadanía sobre el trabajo legislativo efectuado, así como realizar las gestiones correspondientes y en su caso las adecuaciones legales necesarias, con motivo de las necesidades y problemáticas que se planteen en dichas sesiones.
 
 ###### ARTÍCULO 218.
 
@@ -2653,11 +2673,15 @@ Queda prohibido que la papelería del Congreso del Estado y en toda impresión, 
 
 #### Sección Primera. De la Publicación en el Periódico Oficial
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 246.
 
-Todas las Leyes, Decretos, Acuerdos o Reglamentos que expida el Congreso del Estado se publicarán en el Periódico Oficial del Gobierno del Estado.
+Todas las Leyes, Decretos o Reglamentos que expida el Congreso del Estado se publicarán en el Periódico Oficial del Gobierno del Estado.
 
-Para tal efecto, la Mesa Directiva remitirá la documentación respectiva al Titular del Poder Ejecutivo para su sanción, promulgación y publicación en el Periódico Oficial del Gobierno del Estado. Tratándose de esta Ley y sus Reglamentos, así como de los Decretos o Acuerdos en que no se requiera la sanción por parte del Titular del Poder Ejecutivo, dicha remisión será exclusivamente para los efectos de su publicación en el Periódico Oficial.
+Para tal efecto, la Mesa Directiva remitirá la documentación respectiva al Titular del Poder Ejecutivo para su sanción, promulgación y publicación en el Periódico Oficial del Gobierno del Estado. Tratándose de esta Ley y sus Reglamentos, así como de los Decretos en que no se requiera la sanción por parte del Titular del Poder Ejecutivo, dicha remisión será exclusivamente para los efectos de su publicación en el Periódico Oficial.
+
+Los acuerdos, sólo se firmarán por los dos Secretarios y se comunicarán también al Ejecutivo, para su conocimiento y, en caso de que así se determine por el Pleno del Congreso o por la Diputación Permanente, para su publicación y observancia.
 
 #### Sección Segunda. Del diario de los Debates
 
@@ -3232,3 +3256,11 @@ P.O. 26 DE DICIEMBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1193.- SE REFORMAN LOS ARTÍCULOS 14, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 39, 43, 55, 56, 57, 58, 60, 61, LA FRACCIÓN IV DEL ARTÍCULO 72, LA FRACCIÓN IX DEL ARTÍCULO 75, 133, 217 Y 246; SE DEROGA EL ARTÍCULO 136, Y SE ADICIONAN EL SEGUNDO PÁRRAFO AL ARTÍCULO 2 Y EL PÁRRAFO CUARTO AL ARTÍCULO 211 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del momento de su aprobación en el Pleno del Congreso del Estado.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
