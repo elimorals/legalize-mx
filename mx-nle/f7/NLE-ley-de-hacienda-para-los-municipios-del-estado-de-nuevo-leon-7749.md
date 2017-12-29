@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2017-10-20"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -651,11 +651,15 @@ Los servidores públicos adscritos a las tesorerías municipales brindarán a lo
 
 El impuesto predial podrá ser pagado total o parcialmente en dinero o en especie, siempre y cuando el bien o bienes entregados al Municipio con el objetivo de saldar el adeudo de dicho impuesto, tenga como finalidad el fomento a la protección del medio ambiente mediante materiales que puedan ser reciclados o reusados, de conformidad con el listado de materiales que establezca cada Municipio y que deberán publicar en el Periódico Oficial del Estado de Nuevo León.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 21 Bis 12-C.
 
-Los Municipios, en el ámbito de sus posibilidades, deberán establecer programas de recaudación fiscal del impuesto predial con la finalidad de fomentar la cultura del medio ambiente, mediante mecanismos de reciclaje o reúso de los materiales que estime la autoridad.
+Los Municipios, en el ámbito de sus posibilidades, establecerán programas de recaudación fiscal del impuesto predial con la finalidad de fomentar la cultura del medio ambiente, mediante mecanismos de reciclaje o reúso de los materiales que estime la autoridad.
+
+Las personas físicas que acrediten ser propietarias de inmuebles de uso habitacional, tendrán derecho a la reducción del Impuesto Predial:
+
+I) De hasta 10% a los que realicen la naturación del techo de su vivienda, siempre y cuando el sistema de naturación ocupe tres cuartas partes del total de la superficie del techo y cumpla con lo dispuesto en el reglamento municipal correspondiente.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -2857,7 +2861,7 @@ d) Duplicado de certificados médicos ........................ 1.4 cuota
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-e) Consulta médica o dental generai. ....................... 0.70 cuotas
+e) Consulta médica o dental general. ....................... 0.70 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -3507,8 +3511,6 @@ Los derechos por servicio de limpia y recolección de desechos industriales y co
 
 Se suspende la vigencia del Impuesto Sobre Diversiones y Espectáculos Públicos únicamente en materia de espectáculos cinematográficos por los que se cause el Impuesto al Valor Agregado, mientras permanezca en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado por el Estado de Nuevo León y la Secretaría de Hacienda y Crédito Público, el 29 de Octubre de 1979.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 15o.
@@ -3971,7 +3973,7 @@ P.O. 30 DE DICIEMBRE DE 2016.
 
 (NOTA: EL 21 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 109/2017, DECLARÓ LA INVALIDEZ DEL DECRETO 232, PUBLICADO EL TRES DE FEBRERO DE DOS MIL DIECISIETE EN EL PERIÓDICO OFICIAL DEL ESTADO DE NUEVO LEÓN, LA CUAL SURTIÓ EFECTOS EL 21 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
 
 CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -3996,3 +3998,13 @@ P.O. 20 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 294. SE REFORMA POR ADICIÓN DE UN PÁRRAFO TERCERO INCISO B) DE LA FRACCIÓN III DEL ARTÍCULO 65 BIS 1, DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 319. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 21 BIS 12-C DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el 1 de enero del 2018.
+
+Segundo.- Los Ayuntamientos deberán elaborar y aprobar los reglamentos a que hace referencia el inciso I) del Artículo (sic) BIS 12-C de la Ley de Hacienda para los Municipios del Estado de Nuevo León, con las especificaciones técnicos ambientales correspondientes, 60 días posteriores a la entrada en vigor del presente Decreto.
+
+Tercero.- De conformidad con lo establecido en el Artículo 19 de la Ley de Disciplina Financiera para las Entidades Federativas y Municipios los Ayuntamientos deberán contribuir al balance presupuestario sostenible para el ejercicio de 2018.
