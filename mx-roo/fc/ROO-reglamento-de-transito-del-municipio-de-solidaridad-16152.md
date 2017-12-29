@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-transito-del-municipio-de-solidaridad-16152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "2017-04-07"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE TRÁNSITO DEL MUNICIPIO SOLIDARIDAD EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2017.
-
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2017)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 1999.
 
@@ -79,7 +77,9 @@ XVIII.- Educación vial.- Disciplina que enseña al individuo a comportarse con 
 
 XIX.- Estacionamiento.- Lugar destinado en la vía pública o en propiedades privadas o públicas para la colocación de vehículos en reposo, el cual siempre será por tiempo determinado.
 
-XX.- Estacionómetro o parquimetro.- Aparato mecánico para reanudar el derecho de estacionamiento por tiempo definido sobre la vía pública;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XX.- Parquimetros.- El equipo electrónico o mecánico con algún sistema de medición de tiempo para el control y cobro de estacionamiento en las vías de circulación, accionado con monedas, tarjetas bancarias, tarjetas de prepago o cualquier otro medio de pago autorizado.
 
 XXI.- Estado de embriaguez.- Consiste en la pérdida o disminución de la razón producida por la utilización de bebidas alcohólicas, enervantes o estupefacientes.
 
@@ -1473,9 +1473,17 @@ XXIII.- Se prohíbe dejar sobre la vía pública cualquier vehículo que carezca
 
 XXIV.- Se prohíbe a los prestadores de servicios, vendedores de vehículos y/o todo aquel que cuente con varios vehículos, el utilizar la vía pública como estacionamiento particular, solo podrán aparcar o resguardar el excedente de sus vehículos en lotes privados.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXV.- Se prohíbe estacionar un vehículo en las vías de circulación de Zonas de Parquímetros, sin haber efectuado previamente el pago de la tarifa correspondiente por el período que dicho vehículo se encuentre estacionado, conforme al horario previsto en el propio parquímetro.
+
 ###### Artículo 127.
 
 Queda prohibido apartar lugares de estacionamiento en la vía pública, así como poner objetos que obstaculicen el mismo, los cuales serán removidos por los policías.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Del mismo modo, queda prohibido requerir un pago a cambio de remover el objeto que Impida la normal utilización del espacio de estacionamiento.
 
 ###### Artículo 128.
 
@@ -1690,6 +1698,10 @@ XII.- Respetar las señales restrictivas de tránsito.
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2006)</small>
 
 XIII.- Ceder el paso a los peatones en los lugares señalados o construidos sobre las vías de rodamiento para el cruce de los mismos.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XIV.- Efectuar el pago por adelantado de la tarifa por el tiempo de ocupación del estacionamiento en el parquímetro que corresponda, siempre que estacione el vehículo automotor dentro (sic) una Zona de Parquímetros y colocar el comprobante de pago en un lugar visible dentro de dicho vehículo, conforme a lo dispuesto en el artículo 22 del Reglamento para el Servicio de Estacionamiento Público en las Vías de Circulación.
 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2004)</small>
 
@@ -2023,6 +2035,22 @@ VII.- Causarán multa por la cantidad de veinticinco veces la UMA diaria, las in
 
 VIII.- Causarán multa por la cantidad de veinticinco a treinta veces la UMA diaria, las infracciones a los artículos 26 fracción I, 61 segundo párrafo, 112, 137, 171 fracciones I, VII, XI y XII, 178 y 196.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IX. Causarán multa por la cantidad de 8 a 12 veces la UMA diaria, las infracciones al artículo 150, fracción XIV.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+X. Causarán multa por la cantidad de 12 a 16 veces la UMA diaria, las infracciones al artículo 126, fracción XXV.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Dado el caso, se colocará al vehículo infractor el dispositivo inmovilizador por los Policías de la Dirección de Tránsito Municipal, quienes podrán ser auxiliados por el personal del concesionario que preste el servicio de estacionamiento público en vías de circulación, a través de parquimetros. Dicho dispositivo inmovilizador será retirado por Policías de la Dirección de Tránsito Municipal, quienes podrán ser auxiliados por el personal de los concesionarios referidos una vez que el conductor acredite haber realizado el pago de la multa prevista, así como la tarifa correspondiente a los gastos que ocasione la colocación y retiro de dicho dispositivo inmovilizador, de acuerdo a la tarifa que al efecto expida el Honorable Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+No procederá descuento alguno en los casos de infracciones graves al presente Reglamento, es decir, la violación a lo dispuesto en los artículos 65, 150, fracción IX, 167, 171, fracciones VI y VII, 178, 192 así como cuando se produzca un accidente con motivo de la infracción al presente Reglamento.
+
 ###### Artículo 186.
 
 Si como resultado de las infracciones al presente Reglamento se produce un hecho de tránsito, en el cual resulten daños, se afecte la integridad corporal de alguna persona o en caso de reincidencia, dichas infracciones causarán multas hasta por el doble de la cantidad señalada, de acuerdo a las violaciones de que se trate.
@@ -2133,7 +2161,7 @@ El arrastre es la acción mediante la cual un vehículo es trasladado por una gr
 
 Solo los vehículos que se encuentren en los siguientes supuestos podrán ser arrastrados:
 
-a) Cuando el conductor no tenga abordo del vehículo la documentación necesaria para que este pueda circular.
+a) Cuando el conductor no tenga abordo (sic) del vehículo la documentación necesaria para que este pueda circular.
 
 b) Cuando el conductor se encuentre en evidente estado de ebriedad o bajo el influjo de cualquier tipo de droga, sea o no prescrita médicamente.
 
@@ -2142,6 +2170,10 @@ b) Cuando el conductor se encuentre en evidente estado de ebriedad o bajo el inf
 c) Cuando se encuentre estacionado en lugar prohibido y el conductor no se encuentre presente para retirarlo y recibir su boleta de infracción, o cuando el vehículo carezca de placas o las tenga en el interior del vehículo.
 
 d) Cuando obstruya la vialidad y su conductor no se encuentre presente para retirarlo y recibir su boleta de infracción.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+f) (sic) En caso de que la sanción correspondiente a la infracción prevista en el artículo 150, fracción XIX no sea cubierta en el lapso de dos horas posteriores a la detección de la falta en que haya incurrido el usuario.
 
 ###### Artículo 203.
 
@@ -2236,3 +2268,11 @@ REPUBLICADO, P.O. 7 DE ABRIL DE 2017.
 PRIMERO.- LAS PRESENTES REFORMAS Y ADICIONES ENTRARAN EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.
 
 SEGUNDO.- SE DEROGAN LAS DISPOSICIONES NORMATIVAS MUNICIPALES QUE SE OPONGAN A LAS PRESENTES.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DEL REGLAMENTO DE TRÁNSITO DEL MUNICIPIO SOLIDARIDAD, QUINTANA ROO. APROBADO EN LA VIGÉSIMA OCTAVA SESIÓN ORDINARIA DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE SOLIDARIDAD, QUINTANA ROO, ADMINISTRACIÓN 2016-2018, CELEBRADA EL 10 DE NOVIEMBRE DEL AÑO 2017”.]
+
+PRIMERO. LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO.
+
+SEGUNDO. SE DEROGAN TODAS LAS DISPOSICIONES DE IGUAL O MENOR JERARQUÍA QUE SE OPONGAN AL PRESENTE ORDENAMIENTO SUBSISTIENDO LAS QUE LO COMPLEMENTAN.
