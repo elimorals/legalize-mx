@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-familiares-para-el-estado-de-110811"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-15"
-last_updated: "2017-09-22"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -1369,11 +1369,13 @@ En caso de duda u oposición, la Dirección Estatal del Registro Civil negará l
 
 #### SECCIÓN QUINTA. Divorcio
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 152.
 
 Declaración judicial en el caso de divorcio
 
-El divorcio siempre tendrá lugar con intervención judicial, salvo el caso previsto por la Ley para la Familia de Coahuila de Zaragoza relativo al divorcio administrativo.
+El divorcio siempre tendrá lugar con intervención judicial, salvo los casos previstos por la Ley para la Familia de Coahuila de Zaragoza relativos al divorcio administrativo y al divorcio voluntario notarial.
 
 ###### Artículo 153.
 
@@ -2542,3 +2544,11 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1192.- SE MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE COAHUILA; SE ADICIONA EL ARTÍCULO 241 BIS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; Y SE MODIFICA EL ARTÍCULO 152 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
