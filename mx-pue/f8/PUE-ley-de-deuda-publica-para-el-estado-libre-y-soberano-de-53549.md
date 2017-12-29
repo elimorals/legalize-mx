@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-deuda-publica-para-el-estado-libre-y-soberano-de-53549"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2012-09-19"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53549&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -39,7 +39,7 @@ EL HONORABLE QUINCUAGÉSIMO SEXTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOB
 
 CONSIDERANDO
 
-.
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción I, 64, 67 y 79 fracción VI de la constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y II, 69 fracción I, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 32 y 24 fracciones I y II del Reglamento Interior del Honorable Congreso del Estado, se emite la siguiente:
 
@@ -47,125 +47,217 @@ LEY DE DEUDA PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y de observancia general, tiene por objeto establecer las bases, requisitos y procedimientos para la contratación, registro y control de las operaciones de financiamientos y/o empréstitos que formen parte de la Deuda Pública del Gobierno del Estado, Gobiernos Municipales y sus respectivas Entidades Públicas, así como las bases, requisitos, procedimientos y mecanismos para garantizar, avalar y pagar los mismos.
+La presente Ley es de orden público y de observancia general, tiene por objeto establecer:
+
+I. Las bases, requisitos y procedimientos para la contratación, control y seguimiento de las operaciones constitutivas de Deuda Pública que celebren los Entes Públicos;
+
+II. Las bases, requisitos, procedimientos y mecanismos para garantizar, avalar y/o pagar la Deuda Pública; y
+
+III. Las bases y requisitos para el registro de las operaciones constitutivas de Deuda Pública y de Obligaciones que celebren los Entes Públicos.
+
+En lo no previsto en la presente Ley, se estará a lo dispuesto en (sic) Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como Leyes, Reglamentos, Lineamientos y demás disposiciones aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 2.
 
 Para efectos de esta Ley, se entenderá por:
 
-I.- Anticipos o Financiamientos Temporales.- Los recursos que se asignan por el Gobierno del Estado a las Entidades y a los Municipios, o estos últimos a sus respectivas para municipales, como un apoyo financiero de corto plazo, independientemente de la denominación que se utilice;
+I. Anticipo a cuenta de Participaciones: Los recursos que se asignan por el Gobierno del Estado a los Municipios, de acuerdo a la disponibilidad presupuestal, como un anticipo financiero a recuperar en un plazo determinado por las partes, preferentemente en el ejercicio fiscal correspondiente, sin ningún costo financiero, con la finalidad de coadyuvar económicamente en el fortalecimiento de sus finanzas;
 
-II.- Congreso.- El H. Congreso del Estado, en términos de la Constitución Política del Estado Libre y Soberano de Puebla;
+II. Apoyo Financiero Temporal: Los recursos que el Gobierno del Estado o los Municipios se otorgan entre ellos, o bien a las Entidades Paraestatales y Paramunicipales, de acuerdo a la disponibilidad presupuestal, a recuperar en un plazo determinado por las partes, preferentemente en el ejercicio fiscal correspondiente, sin ningún costo financiero, con la finalidad de coadyuvar económicamente en el fortalecimiento de sus finanzas;
 
-III.- Constitución.- La Constitución Política del Estado Libre y Soberano de Puebla;
+III. Asociaciones Público-Privadas: Las previstas en la Ley de Asociaciones Público Privadas;
 
-IV.- Dictamen.- El documento que emita la Secretaría de Finanzas y Administración, para efectos de expresar oficialmente por parte del Gobierno del Estado la capacidad de endeudamiento y pago de cualquiera de los sujetos de esta Ley, con base en la metodología que para estos efectos se emita;
+IV. Congreso: El H. Congreso del Estado de Puebla;
 
-V.- Estado.- El Estado Libre y Soberano de Puebla;
+V. Constitución: La Constitución Política del Estado Libre y Soberano de Puebla;
 
-VI.- Gobierno del Estado.- La Administración Pública Estatal representada por el Poder Ejecutivo;
+VI. Deuda Estatal Garantizada: El Financiamiento del Estado y los Municipios con garantía del Gobierno Federal, de acuerdo con lo establecido en el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-VII.- Gobiernos Municipales.- La Administración Pública Municipal integrada por cada uno de los 217 Municipios del Estado Libre y Soberano de Puebla;
+VII. Deuda Pública: Cualquier Financiamiento contratado por los Entes Públicos;
 
-VIII.- Ley.- La presente Ley de Deuda Pública para el Estado Libre y Soberano de Puebla;
+VIII. Deuda Pública Contingente: Cualquier Financiamiento que contraigan el Gobierno del Estado o los Gobiernos Municipales, en el ámbito de sus respectivas competencias, como avalistas o deudores solidarios, subsidiarios, o sustitutos entre ellos, o bien de sus Entidades Paraestatales o Paramunicipales;
 
-IX.- Líneas de Crédito.- Los montos máximos de financiamiento aprobados por las instituciones de crédito autorizadas;
+IX. Deuda Pública Directa: La deuda pública a cargo de cada uno de los Entes Públicos;
 
-X.- Órganos de Gobierno.- Los consejos, juntas directivas, comités técnicos o equivalentes de las Entidades de la Administración Pública Paraestatal y Paramunicipal;
+X. Dictamen: El documento que emita la Secretaría, con carácter declarativo e informativo, para efectos de expresar oficialmente por parte del Gobierno del Estado la capacidad de endeudamiento y pago de Financiamientos a cargo de cualquiera de los sujetos de esta Ley, de conformidad con la información que para tales efectos presenten, así como, con los requisitos establecidos en la metodología que emita y publique la Secretaría en el Periódico Oficial del Estado, la cual servirá como base, para el análisis de capacidad de pago que realice el Congreso en términos de esta Ley.
 
-XI.- Préstamo Quirografario.- Aquél que conste de manera escrita;
+La emisión del Dictamen no prejuzga ni valida la autorización de los financiamientos para la contratación o modificación, en los casos distintos a los señalados en el artículo 9 Bis de esta Ley;
 
-XlI.- Programa de Financiamiento Neto.- Es el documento elaborado por los sujetos de esta Ley, que contiene los montos estimados a contratar y el servicio de la deuda correspondiente, exceptuando el pago de intereses, para el ejercicio próximo inmediato;
+XI. Entes Públicos: Los poderes Ejecutivo, Legislativo y Judicial; los Municipios; los organismos autónomos; los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos de la Administración Pública Estatal y Municipal, así como cualquier otro Ente sobre el que el Estado o los Municipios tengan control sobre sus decisiones o acciones;
 
-XlII.- Registro.- El Registro Único de Obligaciones y Empréstitos del Estado;
+XII. Estado: El Estado Libre y Soberano de Puebla;
 
-XIV.- Secretaría.- La Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla;
+XIII. Financiamiento: Toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de los Entes Públicos, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, celebrado con Instituciones Financieras u otras instancias que de conformidad con la legislación aplicable en la materia resulte procedentes (sic), independientemente de la forma mediante la que se instrumente;
 
-XV.- Servicio de la Deuda Pública.- Son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la Deuda Pública, los relativos a las operaciones financieras que tiendan a evitar o reducir riesgos económico-financieros a los sujetos de esta Ley, derivados de financiamientos y/o empréstitos, y el pago de comisiones por garantías de terceros; y
+XIV. Financiamiento Neto: La diferencia entre las disposiciones realizadas de un Financiamiento y las amortizaciones efectuadas de la Deuda Pública;
 
-XVI.- Títulos de Deuda Pública.- Los valores tales como Bonos, Certificados u Obligaciones Bursátiles, así como Certificados de Participación Ordinaria, Pagarés u otros Títulos o Valores afines, que los sujetos de esta Ley emitan en serie o en masa y que estén destinados a circular en colocación privada o en el mercado de valores.
+XV. Fuente de pago: Los recursos utilizados por los Entes Públicos para el pago de cualquier financiamiento u obligación;
+
+XVI. Garantía de pago: Mecanismo que respalda el pago de un financiamiento u obligación contratada;
+
+XVII. Gobierno del Estado: La Administración Pública Estatal representada por el Poder Ejecutivo;
+
+XVIII. Gobiernos Municipales: Cada uno de los 217 Ayuntamientos de los Municipios del Estado;
+
+XIX. Instituciones Financieras: Instituciones de crédito, sociedades financieras de objeto múltiple, casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros, sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares y sociedades financieras comunitarias y cualquiera otra sociedad autorizada por la Secretaría de Hacienda y Crédito Público o por cualesquiera de las Comisiones Nacionales para organizarse y operar como tales, siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;
+
+XX. Inversión Pública Productiva: Toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea:
+
+a) La construcción, mejoramiento, rehabilitación y/o reposición de bienes de dominio público;
+
+b) La adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable; o
+
+c) La adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
+
+XXI. Ley: La Ley de Deuda Pública para el Estado Libre y Soberano de Puebla;
+
+XXII. Ley de Disciplina Financiera: La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+XXIII. Obligaciones: Los compromisos de pago a cargo de los Entes Públicos derivados de los Financiamientos y de las Asociaciones Público-Privadas;
+
+XXIV. Obligaciones a corto plazo: Los compromisos de pago a cargo del Gobierno del Estado y los Municipios derivados de Financiamientos contratados con Instituciones financieras a un plazo menor o igual a un año, los cuales se deberán destinar exclusivamente a cubrir necesidades de corto plazo, entendiéndose como insuficiencias de liquidez de carácter temporal;
+
+XXV. Órganos de Gobierno: A los consejos, juntas directivas, comités técnicos o, en su caso, el máximo órgano de decisiones de los Entes Públicos;
+
+XXVI. Préstamo Quirografario: Obligación de liquidez inmediata para cubrir necesidades transitorias de carácter temporal del Ente Público, suscrito por uno o varios pagarés, que consta de manera escrita;
+
+XXVII. Registro: El Registro de Financiamientos y Obligaciones del Estado;
+
+XXVIII. Registro Público Único: El registro para la inscripción de Financiamientos y Obligaciones que contraten los Entes Públicos, a cargo de la Secretaría de Hacienda y Crédito Público;
+
+XXIX. Secretaría: La Secretaría de Finanzas y Administración del Gobierno del Estado de Puebla;
+
+XXX. Servicio de la Deuda Pública: Son los importes de dinero que se destinen a la amortización de capital y al pago de intereses, comisiones y demás accesorios legales y contractuales derivados de las operaciones de financiamiento, incluyendo los fondos de reserva y de provisión, los gastos de implementación y mantenimiento y demás costos que correspondan según la forma de financiamiento de que se trate. Asimismo, se consideran parte del servicio de la Deuda Pública, los relativos a las operaciones financieras que tiendan a evitar o reducir riesgos económico-financieros a los sujetos de esta Ley, derivados de financiamientos, y el pago de comisiones por garantías de terceros; y
+
+XXXI. Títulos de Deuda Pública: Los valores tales como Bonos, Certificados u Obligaciones Bursátiles, así como Certificados de Participación Ordinaria, Pagarés u otros Títulos o Valores afines, que los sujetos de esta Ley, de conformidad con las disposiciones legales aplicables, emitan en serie o en masa y que estén destinados a circular en colocación privada o en el mercado de valores.
 
 ###### ARTÍCULO 3.
 
 Son sujetos de la presente Ley:
 
-I.- El Gobierno del Estado;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II.- Los Gobiernos Municipales;
+I. El Gobierno del Estado;
 
-III.- Los Organismos Públicos Descentralizados Estatales y Municipales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV.- Las Empresas de Participación Estatal y Municipal Mayoritarias; y
+II. El Poder Legislativo;
 
-V.- Los Fideicomisos Públicos.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III. El Poder Judicial;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Los Gobiernos Municipales;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. Los Organismos Autónomos;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VI. Los Organismos Públicos Descentralizados Estatales y Municipales;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. Las Empresas de Participación Estatal y Municipal Mayoritarias;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VIII. Los Fideicomisos Públicos Estatales y Municipales; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IX. Cualquier otro Ente sobre el que el Gobierno del Estado o los Municipios tengan control sobre sus decisiones o acciones.
 
 ###### ARTÍCULO 4.
 
-Para efectos de esta Ley, se entenderá por Deuda Pública Directa, los préstamos, financiamientos y/o empréstitos a cargo de alguno de los sujetos señalados en el artículo anterior; y por Deuda Pública Contingente, la que contraigan el Gobierno del Estado o los Gobiernos Municipales en el ámbito de sus respectivas competencias, como avalistas o deudores solidarios o sustitutos de sus correspondientes Entidades.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 5.
 
-Se considerarán como financiamientos y/o empréstitos, los actos que realicen los sujetos de esta Ley, derivados de:
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
 
-I.- La suscripción y emisión de Títulos de Crédito, Títulos de Deuda, o cualquier otro documento pagadero a plazos;
-
-II.- Los pasivos contingentes provenientes de los actos mencionados en la fracción anterior;
-
-III.- Las disposiciones monetarias efectivas de las líneas de crédito que tengan contratadas los sujetos de esta Ley; y
-
-IV.- La celebración de actos jurídicos análogos a los anteriores, previstos en las diversas leyes aplicables en la materia.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
-Las obligaciones de pasivo directas que contraigan los sujetos de esta Ley a corto plazo, no constituirán Deuda Pública cuando se cumplan los requisitos siguientes:
+No constituyen Deuda Pública:
 
-I.- Que se trate de empréstitos y/o préstamos quirografarios;
+I. Los contratos de Asociaciones Público-Privadas, entre los que se encuentran de manera enunciativa más no limitativa, los Proyectos para Prestación de Servicios, Proyectos de Inversión, Obra Pública Financiada, ni los compromisos derivados de los mismos;
 
-II.- Que su vencimiento y pago se realicen en el mismo ejercicio fiscal en el que sean contratadas; y
+II. Las afectaciones y los mecanismos de afectación que se instrumenten en relación con dichos contratos y proyectos; y
 
-III.- Que el saldo total acumulado de estos empréstitos y/o préstamos no exceda al 5% (cinco por ciento) de los ingresos ordinarios del ejercicio fiscal correspondiente.
+III. Los Anticipos a cuenta de Participaciones, ni los Apoyos Financieros Temporales previstos en esta Ley.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2012)</small>
+Los sujetos de esta Ley que adquieran compromisos a que se refiere la fracción I de este artículo, deberán llevar el control de las mismas e inscribirlas en el Registro y en el Registro Público Único, así como informar en el ámbito de sus respectivas competencias a la Secretaría.
 
-Asimismo, no constituyen Deuda Pública los contratos de proyectos para prestación de servicios a largo plazo previstos en la Ley de la materia, los Proyectos de Inversión a que se refiere la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, ni las obligaciones derivadas de los mismos. Tampoco constituirán Deuda Pública, las afectaciones ni los mecanismos de afectación que se instrumenten en relación con dichos contratos y proyectos.
-
-Queda prohibida la celebración de operaciones de consolidación respecto de obligaciones contraídas en los términos del presente artículo, para efectos de convertir las obligaciones de pasivo directas a corto plazo en deuda u obligaciones a mediano o largo plazo.
-
-Los sujetos de esta Ley que adquieran las obligaciones a que se refiere el presente artículo, deberán llevar el control de las mismas, debiendo informar en el ámbito de sus respectivas competencias, a la Secretaría o a la Tesorería Municipal, según corresponda.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 7.
 
-El Gobierno del Estado por conducto de la Secretaría, podrá otorgar a los Gobiernos Municipales y a las Entidades Paraestatales y Paramunicipales financiamiento temporal o anticipos, de conformidad con la normatividad que para estos efectos emita la Secretaría.
+El Gobierno del Estado por conducto de la Secretaría, podrá otorgar a los Gobiernos Municipales y a las Entidades Paraestatales y Paramunicipales Anticipos a cuenta de Participaciones o Apoyos Financieros Temporales, de conformidad con la normatividad que para estos efectos emita la Secretaría.
 
-Asimismo, los Gobiernos Municipales podrán otorgar a sus Entidades Paramunicipales financiamiento temporal o anticipos, de conformidad con la normatividad que para tales efectos emita.
+Asimismo, los Gobiernos Municipales podrán otorgar al Gobierno del Estado o a sus Entidades Paramunicipales, Apoyo Financiero Temporal, de conformidad con la normatividad que para tales efectos emitan.
 
 ###### ARTÍCULO 8.
 
-Se consideran inversiones públicas productivas, aquéllas destinadas a la ejecución de obras públicas, a la adquisición o manufactura de bienes, a la prestación de servicios públicos, al mejoramiento de las condiciones, estructura o perfil de la Deuda Pública vigente o la que se pretenda contraer, siempre que en forma directa o indirecta produzcan incrementos en sus ingresos o beneficios de carácter económico o social y las demás de naturaleza análoga. Asimismo, las que se destinen a la atención de situaciones de emergencia derivadas de desastres naturales, antropogénicos o contingencias climatológicas declaradas por la autoridad competente.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 9.
 
-Los sujetos a que se refiere esta Ley, podrán modificar su Deuda Pública con el objeto de lograr mejores condiciones de plazo, tasas de interés, comisiones o reducir las cargas financieras por servicio de la Deuda Pública, a través de las figuras siguientes:
+Los sujetos a que se refiere esta Ley, podrán modificar su Deuda Pública a través de las figuras siguientes:
 
-I.- La consolidación, que consiste en sustituir la Deuda Pública de corto plazo en Deuda Pública de largo plazo o conjuntar varios créditos con distintos vencimientos, en uno solo con una nueva fecha de vencimiento;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II.- La conversión, que permita a los sujetos de esta Ley, sustituir un contrato vigente por otro que cambie las condiciones del anterior, ya sea para variar la tasa de interés, el plazo, amortización, las condiciones de pago, la sustitución de garantías, incluso mediante la práctica de emitir nuevos Títulos de Deuda Pública a cambio de otros;
+I. La reestructuración, que consiste en la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un Financiamiento; y
 
-III.- La novación, que consiste en sustituir un financiamiento y/o empréstito por otro que difiera de éste en la prestación, en el objeto, o en el Título de Deuda Pública, o bien en uno de los sujetos, extinguiéndose la primera obligación en el momento mismo en que se perfecciona el contrato novatorio;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV.- La reestructuración, que se refiere a los financiamientos y/o empréstitos que celebran los sujetos de esta Ley, a efecto de mejorar las condiciones de tasas de interés, plazo, amortización, garantías u otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, con el mismo acreedor que no implique novación;
+II. El Refinanciamiento que consiste en la contratación de uno o varios Financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más Financiamientos previamente contratados.
 
-V.- El refinanciamiento, que consiste en los financiamientos y/o empréstitos que se celebren por los sujetos de esta Ley, bajo cualquier modalidad, a efecto de mejorar las condiciones de tasa de interés, plazo, amortización, garantías y otras condiciones originalmente pactadas de uno o varios financiamientos a su cargo, sustituyendo o novando las obligaciones del financiamiento original por uno o varios financiamientos con el mismo o con diferente acreedor;
+III. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
 
-VI.- La renovación, que consiste en la continuidad por prórroga de un Crédito, Contrato o Título de Deuda Pública, a fin de reanudar o extender en el tiempo los efectos del mismo; y
+IV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
 
-VII.- La subrogación, que consiste en la modificación de una obligación con otra, significando una sucesión del acreditado o deudor, mediante la transferencia de un financiamiento y/o empréstito a otra u otras personas, siempre y cuando no se hayan constituido como fuente de pago o garantía los recursos no permitidos a que se refiere esta Ley.
+V. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
+
+VI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
+
+VII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 9 BIS.- Las operaciones de Refinanciamiento o Reestructura de los Financiamientos no requerirán autorización del Congreso, siempre y cuando cumplan con las siguientes condiciones:
+
+I. Exista una mejora en la tasa de interés, incluyendo los costos asociados, lo cual deberá estar fundamentado en el cálculo de la tasa efectiva que se realice de acuerdo con lo dispuesto en la Ley de Disciplina Financiera, o tratándose de Reestructuraciones exista una mejora en las condiciones contractuales;
+
+II. No se incremente el saldo insoluto; y
+
+III. No se amplíe el plazo de vencimiento original de los Financiamientos respectivos, el plazo de duración del pago del principal e intereses del Financiamiento durante el periodo de la administración en curso, ni durante la totalidad del periodo del Financiamiento.
+
+Dentro de los 15 días naturales siguientes a la celebración del Refinanciamiento o Reestructuración, el Ente Público deberá informar al Congreso sobre la celebración de este tipo de operaciones.
+
+Asimismo, tendrá la obligación de inscribir dicho Refinanciamiento o Reestructuración ante el Registro y el Registro Público Único, dentro de los 10 y 15 días naturales posteriores a su suscripción, respectivamente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 9 TER.- Las Obligaciones a corto plazo a que se refieren la fracción XXIV del artículo 2 y el Capítulo Cuarto Bis de la presente Ley, no podrán ser objeto de Refinanciamiento o Reestructura a plazos mayores a un año, ni exceder lo dispuesto en el inciso b) del artículo 23 Bis, salvo las que se destinen a Inversión pública productiva y se cumpla con los requisitos previstos en el citado Capítulo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 10.
 
-El Gobierno del Estado, por conducto de la Secretaría, será el encargado de interpretar en el ámbito administrativo la presente Ley, así como de emitir las disposiciones que sean necesarias para su debida aplicación o cumplimiento, sin perjuicio de las facultades que otorguen a los Municipios otros ordenamientos legales.
+El Gobierno del Estado, por conducto de la Secretaría, será el encargado de interpretar en el ámbito administrativo la presente Ley, así como de emitir las disposiciones que sean necesarias para su debida aplicación o cumplimiento, sin perjuicio de las facultades que otorguen a los demás Entes Públicos otros ordenamientos legales.
 
 ###### ARTÍCULO 11.
 
@@ -173,55 +265,81 @@ Los procedimientos, actos, convenios o contratos que se realicen en contravenci�
 
 ### CAPÍTULO SEGUNDO. PRINCIPIOS RECTORES EN MATERIA DE DEUDA PÚBLICA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 12.
 
-La contratación de Deuda Pública será efectuada con estricto apego a los siguientes principios
+Los Entes Públicos se sujetarán a las disposiciones establecidas en la Ley de Disciplina Financiera, en la presente Ley y en sus leyes o decretos de creación respectivos, y administrarán sus recursos con base en los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
 
-I.- En ningún caso se podrán celebrar operaciones de financiamientos y/o empréstitos con gobiernos de otras naciones, con personas físicas o morales extranjeras;
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II.- Los financiamientos y/o empréstitos no podrán pagarse en moneda extranjera o fuera del territorio nacional;
+La contratación de Financiamientos a cargo de los Entes Públicos será efectuada con estricto apego a lo siguiente:
 
-III.- Los financiamientos y/o empréstitos se destinarán invariablemente a inversiones públicas productivas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV.- Los financiamientos y/o empréstitos deberán atender a los objetivos y previsiones contenidas en las Leyes o Presupuestos de Ingresos y de Egresos de los sujetos de esta Ley, así como en los Planes Estatal y Municipales de Desarrollo según corresponda, y en su caso, en los Programas que en términos de la legislación en materia de planeación se emitan;
+I. En ningún caso se podrán contraer financiamientos con gobiernos de otras naciones, con personas físicas o morales extranjeras;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Los financiamientos no podrán pagarse en moneda extranjera o fuera del territorio nacional;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III. Los financiamientos se destinarán invariablemente a Inversiones Públicas Productivas y a Refinanciamiento o Reestructura, incluyendo los gastos y costos relacionados con la contratación de dichos Financiamientos, así como las reservas que deban constituirse en relación con las mismas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Los financiamientos deberán atender a los objetivos y previsiones contenidas en las Leyes de Ingresos y Presupuestos de Egresos de los sujetos de esta Ley, así como en los Planes Estatal y Municipales de Desarrollo según corresponda, y en su caso, en los Programas que en términos de la legislación en materia de planeación se emitan;
 
 V.- La autorización de montos y/o conceptos de endeudamiento en los correspondientes presupuestos de egresos de los sujetos de esta Ley, no los autoriza para contratar financiamientos. Para tales efectos, deberán contar con la respectiva autorización del Congreso;
 
-VI.- El Programa de Financiamiento Neto que se elabore por los sujetos de esta Ley, deberá contener:
+VI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
 
-a) La estimación del financiamiento que requieran los sujetos en el ejercicio fiscal correspondiente para complementar los ingresos necesarios destinados a la realización de inversiones públicas productivas; y
+VII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
 
-b) Todos los elementos de juicio y datos técnicos que justifiquen los requisitos señalados en la fracción VllI segundo párrafo del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VII.- El Programa de Financiamiento Neto del ejercicio fiscal correspondiente no incluirá:
+VIII. En todos los casos se procurará mantener un equilibrio financiero, por lo tanto, la programación, contratación y pago de los financiamientos se deberán ajustar a la capacidad de pago de los sujetos de esta Ley, para asegurar la autosustentabilidad de la Deuda Pública, dicha capacidad se establecerá principalmente en función de las obligaciones de éstos y de la disponibilidad presupuestal del ejercicio fiscal en curso y de los subsecuentes.
 
-a) El monto disponible de las Líneas de Crédito;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-b) Las Modificaciones de la Deuda Pública;
+IX. Deberán incluir en sus respectivas Leyes o Presupuestos de Egresos del ejercicio fiscal correspondiente, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la Deuda Pública a su cargo, en el ejercicio fiscal de que se trate;
 
-c) El pago de intereses; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-d) Las Obligaciones Contingentes.
+X. Deberán buscarse las alternativas que permitan obtener las mejores condiciones de mercado, es decir, el costo financiero más bajo, incluyendo todas las tasas de interés, comisiones, plazos, gastos y cualquier otro accesorio que estipule la propuesta, en el marco de la Ley de Disciplina Financiera y demás disposiciones aplicables.
 
-VIII.- En todos los casos se procurará mantener un equilibrio financiero, por lo tanto la programación, contratación y pago de los financiamientos se deberán ajustar a la capacidad de pago de los sujetos de esta Ley, para asegurar la autosustentabilidad de la Deuda Pública, dicha capacidad se establecerá principalmente en función de las obligaciones de éstos y de la disponibilidad presupuestal del ejercicio fiscal en curso y de los subsecuentes.
+Para efectos de lo dispuesto en el párrafo anterior, el Ente Público interesado deberá llevar a cabo un proceso competitivo en términos de las disposiciones jurídicas aplicables, el cual se realizará por conducto de los servidores públicos facultados para ello;
 
-La Secretaría establecerá y publicará la metodología para la determinación de la capacidad de pago y endeudamiento de los sujetos de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IX.- Los Titulares de los sujetos de esta Ley, deberán incluir en sus respectivas Leyes o Presupuestos de Egresos del ejercicio fiscal correspondiente, la o las partidas presupuestales necesarias y suficientes para cubrir en su totalidad, el pago del servicio de la Deuda Pública a su cargo, en el ejercicio fiscal de que se trate;
+XI. Dentro de los términos de la vigencia de los financiamientos, los sujetos de la Ley podrán gestionar la modificación de su respectiva Deuda Pública, sujetándose a las disposiciones de la presente Ley;
 
-X.- Deberán buscarse las alternativas o modalidades de mercado que permitan obtener las mejores condiciones en cuanto a tasas de interés, comisiones y plazos, en un marco de agilidad, simplificación, ejecutividad, rentabilidad y libre competencia;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XI.- Dentro de los términos de la vigencia de los financiamientos y/o empréstitos, los sujetos de la Ley podrán gestionar la modificación de la Deuda Pública, sujetándose a las disposiciones de la presente Ley;
+XII. En ningún caso podrán permanecer u otorgarse como garantía de Financiamientos que se adquieran con motivo de una enajenación o concesión a particulares, las participaciones en ingresos federales y otros ingresos que no provengan de la prestación de los servicios objeto de la enajenación o concesión;
 
-XII.- En ningún caso podrán permanecer u otorgarse como garantía de créditos que se subroguen o adquieran con motivo de una enajenación o concesión a particulares, las participaciones en ingresos federales y otros ingresos que no provengan de la prestación de los servicios objeto de la enajenación o concesión;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XIII.- Los Fideicomisos de Garantía, Administración y Pago, así como los Bursátiles, se sujetarán para su operación a lo previsto en el propio contrato de fideicomiso y en las disposiciones mercantiles, financieras y bursátiles correspondientes.
+XIII. Los Fideicomisos de Garantía, Administración y Pago, así como los Bursátiles, se sujetarán para su operación a lo previsto en el propio contrato de fideicomiso y en las disposiciones mercantiles, financieras, bursátiles y demás correspondientes.
 
 Los bienes, los ingresos, así como las cantidades percibidas por concepto de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios afectos a los fideicomisos señalados en el párrafo que antecede, se considerarán desincorporados temporalmente del patrimonio de los sujetos de esta Ley;
 
-XIV.- Los sujetos de esta Ley deberán integrar los documentos necesarios en materia de control interno, a fin de que los procedimientos, actos o convenios sean susceptibles de auditoría o revisión por las instancias competentes; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XV.- Los financiamientos y/o empréstitos inscritos en el Registro, así como sus anotaciones, sólo podrán modificarse con los mismos requisitos y formalidades previstos para llevar a cabo su inscripción correspondiente.
+XIV. Los sujetos de esta Ley serán responsables de la observancia y cumplimiento del marco jurídico aplicable;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XV. Una vez celebrados los financiamientos, se deberá realizar su inscripción en el Registro y en el Registro Público Único, de conformidad con las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XVI. Los financiamientos inscritos en el Registro y en el Registro Público Único, así como sus anotaciones, sólo podrán modificarse con los requisitos y formalidades correspondientes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La contratación de Financiamientos en términos de programas federales o de los convenios con la Federación, se regirán por lo acordado entre las partes en el convenio correspondiente, así como por la Ley de Coordinación Fiscal.
 
 ### CAPÍTULO TERCERO. DE LAS COMPETENCIAS EN MATERIA DE DEUDA PÚBLICA
 
@@ -229,27 +347,115 @@ XV.- Los financiamientos y/o empréstitos inscritos en el Registro, así como su
 
 Competen al Gobierno del Estado, las atribuciones siguientes:
 
-I.- Presentar y gestionar ante el Congreso, las solicitudes de autorización de contratación de financiamientos y/o empréstitos, así como su modificación, en términos de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II.- Otorgar en su caso, previa autorización del Congreso, el aval para los Financiamientos y/o Empréstitos en favor de los sujetos señalados en las fracciones II a V del artículo 3 de esta Ley;
+I. Presentar y gestionar ante el Congreso, las solicitudes de autorización de contratación de financiamientos a cargo de los Entes Públicos, en términos de esta Ley y demás disposiciones aplicables;
 
-III.- Presentar y gestionar ante el Congreso, las solicitudes de autorización y modificación de endeudamiento, de sus Entidades a que se refieren las fracciones III, IV y V del articulo 3 de esta Ley, previa autorización de sus correspondientes órganos de gobierno y dictamen de la Secretaría; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Otorgar en su caso, previa autorización del Congreso, el aval para los Financiamientos en favor de los sujetos señalados en las fracciones IV, VI, VII, VIII y IX del artículo 3 de esta Ley;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III. Presentar y gestionar ante el Congreso, las solicitudes de modificación de la Deuda Pública de los Entes Públicos en los supuestos distintos a los señalados en el artículo 9 Bis de esta Ley, previa autorización de sus correspondientes Órganos de Gobierno y dictamen de la Secretaría; de conformidad con esta Ley y demás disposiciones legales aplicables; y
 
 IV.- Las demás que le confiere esta Ley y otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 14.
 
-Competen al Congreso, las facultades siguientes:
+Competen al Congreso las facultades siguientes:
 
-I.- Recibir, analizar y en su caso, autorizar mediante Decreto, los montos y conceptos de endeudamiento que le soliciten el Gobierno del Estado y los Gobiernos Municipales;
+APARTADO A. DE LA AUTORIZACIÓN DE FINANCIAMIENTOS
 
-II.- Autorizar al Gobierno del Estado o a los Gobiernos Municipales, para intervenir como aval o deudor solidario de los financiamientos y/o empréstitos que se contraten en términos de esta Ley;
+I. Recibir, analizar y en su caso, autorizar mediante Decreto, por el voto de las dos terceras partes de sus miembros presentes, con base en el Dictamen de la Secretaría, los montos máximos y conceptos para la contratación de Financiamientos que le soliciten los sujetos de esta Ley, por conducto del Gobierno del Estado, en términos de las disposiciones aplicables.
 
-Ill.- Autorizar la contratación de financiamientos y/o empréstitos a cargo de los Gobiernos Municipales, cuando excedan de su periodo constitucional, siempre y cuando existan razones justificadas para ello y se contemple su pago en los correspondientes presupuestos de egresos;
+El Decreto por el cual se autorice la contratación de Financiamientos, deberá especificar por lo menos lo siguiente:
 
-IV.- Autorizar la contratación de financiamientos y/o empréstitos a dos o más Municipios que se coordinen bajo el amparo de una línea de crédito global, o en su caso, la emisión conjunta de valores; y
+a) Monto máximo autorizado de la Deuda Pública a incurrir respecto de la Inversión Pública Productiva, sin rebasar lo dispuesto en el Dictamen, más los gastos adicionales que resulten de la contratación del financiamiento, tomando en consideración que el mismo deberá celebrarse bajo las mejores condiciones de mercado, en términos de los lineamientos que emita la Secretaría de Hacienda y Crédito Público;
 
-V.- Las demás que le confiere la Constitución y otras disposiciones legales.
+b) Plazo máximo autorizado para el pago, sin rebasar lo dispuesto en el Dictamen;
+
+c) Destino de los recursos, con base en lo dispuesto en el Dictamen;
+
+d) La Fuente de pago;
+
+e) La contratación de una Garantía de pago de la Deuda Pública, en los casos que correspondan; y
+
+f) En caso de autorizaciones específicas, establecer la vigencia de la autorización, en cuyo caso no podrá exceder el ejercicio fiscal siguiente. De no establecer una vigencia, se entenderá que la autorización sólo se podrá ejercer en el ejercicio fiscal en que fue aprobada;
+
+II. Realizar, previo a la emisión del Decreto por el que se autorice la contratación de Deuda Pública y con base en el Dictamen que emita la Secretaría, un análisis de la capacidad de pago del Ente Público a cuyo cargo estaría la Deuda Pública, del destino del Financiamiento y, en su caso, del otorgamiento de recursos como Fuente o Garantía de pago, sin rebasar el monto y plazo establecidos en el Dictamen;
+
+III. Autorizar al Gobierno del Estado, así como a los Gobiernos Municipales, para intervenir como aval o deudor solidario, subsidiario o sustituto de los financiamientos que se contraten en términos de esta Ley.
+
+Para la autorización señalada en el párrafo anterior se deberá cumplir con los requisitos a que se refiere la fracción I de este artículo;
+
+IV. Autorizar la contratación de financiamientos a cargo de los Gobiernos Municipales, cuando excedan de su periodo Constitucional, siempre y cuando existan razones justificadas para ello y se contemple su pago en los correspondientes presupuestos de egresos;
+
+V. Autorizar la contratación de financiamientos a dos o más Entes Públicos que se coordinen bajo el amparo de un financiamiento conjunto, o en su caso, la emisión conjunta de valores;
+
+VI. Autorizar al Gobierno del Estado y a los Gobiernos Municipales, para celebrar los convenios a que se refiere el Capítulo IV del Título Tercero de la Ley de Disciplina Financiera;
+
+VII. El Congreso deberá realizar mensualmente un informe a la Secretaría de los Financiamientos aprobados a los Entes Públicos; y
+
+VIII. Las demás que le confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla y otras disposiciones legales.
+
+APARTADO B. DE LA CONTRATACIÓN DE FINANCIAMIENTOS
+
+I. Solicitar a la Secretaría el Dictamen que servirá de base para el análisis que deba realizar en términos de esta Ley;
+
+II. Someter al Pleno, por conducto de la comisión respectiva, sus solicitudes de autorización de financiamientos y en su caso, de afectación de los recursos que por Ley les correspondan;
+
+III. Coordinarse entre dos o más Entes Públicos y solicitar la autorización bajo el amparo de un financiamiento conjunto, o en su caso, la emisión conjunta de valores;
+
+IV. Celebrar en el ámbito de su competencia y en términos de la presente Ley, los instrumentos legales que se requieran, suscribiendo los documentos y Títulos de crédito que resulten necesarios para tales efectos; así como para la modificación de la Deuda Pública adquirida;
+
+V. Llevar la cuenta y registro de las operaciones derivadas de su Deuda Pública;
+
+VI. Presentar mensualmente a la Secretaría, los informes del estado de su Deuda Pública, a fin de que realice las anotaciones correspondientes;
+
+VII. Afectar los ingresos que les correspondan para constituirlos como fuente de pago y/o garantía de los financiamientos a contratar por éstos, de conformidad con lo siguiente:
+
+a) Contar con la autorización de su Órgano de Gobierno, de conformidad con la normatividad aplicable; y
+
+b) Suscribir los instrumentos legales correspondientes, en los casos que proceda;
+
+VIII. Incluir en su Presupuesto de Egresos las partidas destinadas al Servicio de su Deuda Pública;
+
+IX. Solicitar a la Secretaría la inscripción en el Registro de sus operaciones de Financiamientos y Obligaciones en los casos a que se refiere esta Ley, sin perjuicio de las demás que establezcan otras disposiciones aplicables en cumplimento con los requisitos previstos en las mismas; y
+
+X. Las demás facultades que le confiere esta Ley, la Ley de Disciplina Financiera, así como otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 14 BIS.- Competen a los Sujetos a que se refieren las fracciones III y V del artículo 3 de esta Ley, las atribuciones siguientes:
+
+I. Solicitar a la Secretaría el Dictamen que servirá de base para el análisis que deba realizar el Congreso en términos de esta Ley;
+
+II. Presentar, a través del Gobierno del Estado y previa autorización de su Órgano de Gobierno, las solicitudes de autorización de Financiamientos, en términos de lo previsto por esta Ley y en su caso, de afectación de recursos que por Ley les correspondan;
+
+III. Coordinarse entre dos o más Entes Públicos y solicitar la autorización bajo el amparo de un financiamiento conjunto, o en su caso, la emisión conjunta de valores;
+
+IV. Celebrar en el ámbito de su competencia y en términos de la presente Ley, los instrumentos legales que se requieran; suscribiendo los documentos y Títulos de crédito que resulten necesarios para tales efectos; así como para la modificación de la Deuda Pública adquirida;
+
+V. Presentar mensualmente a la Secretaría, los informes del estado de su Deuda Pública, a fin de que realice las anotaciones correspondientes;
+
+VI. Llevar la cuenta y registro de las operaciones derivadas de su Deuda Pública;
+
+VII. Afectar los ingresos que les correspondan para constituirlos como fuente de pago y/o garantía de los Financiamientos a contratar por éstos, de conformidad con lo siguiente:
+
+a) Contar con la autorización de su Órgano de Gobierno, de conformidad con la normatividad aplicable;
+
+b) Contar con la autorización del Congreso; y
+
+c) Suscribir los instrumentos legales correspondientes, en los casos que proceda;
+
+VIII. Incluir en su Presupuesto de Egresos las partidas destinadas al Servicio de su Deuda Pública;
+
+IX. Solicitar a la Secretaría la inscripción en el Registro de sus operaciones de Financiamientos y Obligaciones en los casos a que se refiere esta Ley; sin perjuicio de las demás que establezcan otras disposiciones aplicables en cumplimento con los requisitos previstos en las mismas; y
+
+X. Las demás facultades que les confieren esta Ley, la Ley de Disciplina Financiera, así como otras disposiciones legales.
 
 ###### ARTÍCULO 15.
 
@@ -257,79 +463,177 @@ Competen a la Secretaría, las atribuciones siguientes:
 
 I.- Aplicar y normar el debido cumplimiento de esta Ley;
 
-II.- Integrar anualmente el Programa de Financiamiento Neto del Gobierno del Estado, considerando los que le presenten sus Entidades paraestatales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-III.- Coordinar y asesorar a los Gobiernos Municipales en la elaboración de sus Programas de Financiamiento Neto;
+II. Interpretar las disposiciones de esta Ley;
 
-IV.- Incluir anualmente en el proyecto de Iniciativa de Ley de Egresos del Estado, los conceptos y montos máximos de las obligaciones, financiamientos y/o empréstitos destinados a inversiones públicas productivas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-V.- Elaborar y someter al Titular del Poder Ejecutivo, las solicitudes de autorización para la contratación de financiamientos y/o empréstitos, así como las modificaciones a la Deuda Pública;
+III. Asesorar a los Entes Públicos que así lo soliciten para la obtención de Financiamientos;
 
-VI.- Emitir el dictamen, para que los sujetos a que se refiere esta Ley, puedan contratar financiamientos y/o empréstitos, así como para llevar a cabo la modificación a los mismos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VII.- Celebrar en el ámbito de su competencia, los contratos, convenios, mandatos, fideicomisos de administración y pago, bursátiles, de garantía, excepto de inmuebles, y demás instrumentos legales que se requieran; suscribiendo los documentos y Títulos de Crédito que resulten necesarios para tales efectos; así como para la modificación de la Deuda Pública adquirida por el Gobierno del Estado;
+IV. Incluir anualmente en el proyecto de Iniciativa de Ley de Egresos del Estado, los conceptos y montos máximos de los Financiamientos del Gobierno del Estado destinados a inversiones públicas productivas;
 
-VIII.- Amortizar las obligaciones contraídas directamente o como aval, con los ingresos señalados en el contrato y/o en el mandato correspondiente, así como ejecutar, en los casos que proceda, las garantías otorgadas por los sujetos de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IX.- Llevar el registro de las obligaciones de Deuda Pública derivadas de la contratación de financiamientos y/o empréstitos por parte de los sujetos de esta Ley, en el que debe hacer constar cuando menos, el monto, las características y destino de los recursos;
+V. Elaborar y someter al Titular del Poder Ejecutivo, las solicitudes de autorización para la contratación de financiamientos del Gobierno del Estado, así como las modificaciones a la Deuda Pública del mismo;
 
-X.- Expedir, con base en los datos contenidos en el Registro, las constancias de afectación de garantías otorgadas por los sujetos de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XI.- Recibir de los acreedores, los informes que se envíen de manera oportuna sobre los incumplimientos de las obligaciones de pago de los sujetos de esta Ley, a fin de gestionar el cumplimiento de las mismas;
+VI. Establecer y publicar la metodología para la determinación de la capacidad de endeudamiento y pago de los sujetos de esta Ley;
 
-XII.- Emitir, en el ámbito de su competencia, Títulos de Deuda Pública, en términos de lo dispuesto por esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XIII.- Publicar semestralmente, en un diario de circulación local y en uno de circulación nacional, la información fiscal y financiera que el Estado considere relevante, incluyendo el saldo actualizado de la Deuda Pública Estatal; y
+VII. Emitir el dictamen, que sirva de base para el análisis que debe realizar el Congreso, para los sujetos de esta Ley que pretendan contratar financiamientos, así como para llevar a cabo la modificación a los mismos en los casos distintos a los previstos en el artículo 9 Bis de esta Ley;
 
-XIV.- Las demás que le confiere esta Ley y otras disposiciones legales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VIII. Coordinarse entre dos o más Entes Públicos y solicitar la autorización bajo el amparo de un financiamiento conjunto, o en su caso, la emisión conjunta de valores;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IX. Celebrar en el ámbito de su competencia y en términos de la presente Ley, los instrumentos legales que se requieran; suscribiendo los documentos y Títulos de crédito que resulten necesarios para tales efectos; así como para la modificación de la Deuda Pública adquirida por el Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+X. Realizar el pago de los compromisos contraídos directamente o como aval, en su caso, derivados de Financiamientos, con los ingresos señalados en el instrumento legal o financiero correspondiente, así como ejecutar, en los casos que proceda, las garantías otorgadas por los sujetos de esta Ley;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XI. Integrar, operar y mantener actualizado el Registro, en el que se inscriban los Financiamientos y Obligaciones que contraigan los Entes Públicos en términos de la Ley correspondiente, independientemente del registro y control que deban realizar en apego de la misma;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XII. Expedir, a solicitud de los sujetos de esta Ley y con base en los datos contenidos en el Registro, los documentos en los que se haga constar, de manera informativa, la situación que guardan los Financiamientos y Obligaciones inscritos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XIII. Solicitar y recibir de los acreedores, los informes mensuales, respecto del seguimiento de los Financiamientos inscritos en el Registro y realizar las acciones conducentes en caso de incumplimiento;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XIV. Emitir, en el ámbito de su competencia, Títulos de Deuda Pública, en términos de lo dispuesto por esta Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XV. Enviar trimestralmente a la Secretaría de Hacienda y Crédito Público, dentro del plazo de 30 días naturales posteriores al término de los meses de marzo, junio, septiembre y diciembre, la información correspondiente a cada Financiamiento y Obligación del Gobierno del Estado y de cada uno de sus Entes Públicos;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XVI. Requerir a los Entes Públicos, cuando lo estime conveniente, la información correspondiente de todos sus Financiamientos y Obligaciones; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XVII. Las demás que le confiere esta Ley, la Ley de Disciplina Financiera y otras disposiciones legales.
 
 ###### ARTÍCULO 16.
 
 Competen a los Gobiernos Municipales, las atribuciones siguientes:
 
-I.- Presentar al Congreso, previa autorización de las dos terceras partes de su Cabildo, a través del Ejecutivo Estatal, las solicitudes de autorización de endeudamiento y en su caso, de afectación de las participaciones que en ingresos federales les correspondan, en términos de lo previsto por esta Ley.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Asimismo, presentar al Congreso, a través del Ejecutivo Estatal, las solicitudes de autorización de endeudamiento de sus Entidades Paramunicipales, en términos de lo previsto por esta Ley;
+I. Presentar al Congreso, previa autorización de las dos terceras partes de su Cabildo, a través del Ejecutivo Estatal, las solicitudes de autorización de Financiamientos y en su caso, de afectación de las participaciones que en ingresos federales les correspondan y demás ingresos susceptibles, en términos de la legislación aplicable.
 
-II.- Coordinarse en los términos de esta Ley, con el Gobierno del Estado a través de la Secretaría, para la elaboración de sus Programas de Financiamiento Neto;
+Asimismo, presentar al Congreso, a través del Ejecutivo Estatal, las solicitudes de autorización de Financiamientos de sus Entidades Paramunicipales, en términos de lo previsto por esta Ley;
 
-IlI.- Integrar y aprobar su Programa de Financiamiento Neto, considerando los que presenten sus Entidades Paramunicipales;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV.- Celebrar en el ámbito de su competencia y en términos de la presente Ley, los contratos, convenios, mandatos, fideicomisos de administración y pago, bursátiles, de garantía, excepto de inmuebles, y demás instrumentos legales que se requieran; suscribiendo los documentos y Títulos de Crédito que resulten necesarios para tales efectos; así como para la modificación de la Deuda Pública adquirida;
+II. Solicitar a la Secretaría el Dictamen que servirá de base para el análisis que deba realizar el Congreso en términos de esta Ley, así como el de sus Entidades Paramunicipales;
 
-V.- Presentar mensualmente a la Secretaría, los informes del estado de su Deuda Pública, a fin de que realice las anotaciones correspondientes en el Registro;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VI.- Vigilar que el importe del financiamiento y/o empréstito a contratar, se encuentre dentro del monto de su Programa de Financiamiento Neto para el ejercicio fiscal correspondiente, así como llevar cuenta y registro de las operaciones derivadas de su Deuda Pública, de acuerdo a la normatividad que para estos efectos emita la Secretaría;
+III. Coordinarse entre dos o más Entes Públicos y solicitar la autorización bajo el amparo de un financiamiento conjunto, o en su caso, la emisión conjunta de valores;
 
-VII.- Afectar sus ingresos municipales o las participaciones que en ingresos federales les correspondan, para constituirlos como fuente de pago y/o garantía de los financiamientos y/o empréstitos a contratar por éstos o sus Entidades, de conformidad con lo siguiente:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Celebrar en el ámbito de su competencia y en términos de la presente Ley, los instrumentos legales que se requieran; suscribiendo los documentos y Títulos de crédito que resulten necesarios para tales efectos; así como para la modificación de la Deuda Pública adquirida;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. Presentar mensualmente a la Secretaría, los informes del estado de su Deuda Pública, a fin de que realice las anotaciones correspondientes;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VI. Llevar la cuenta y registro de las operaciones derivadas de su Deuda Pública;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. Afectar los ingresos que les correspondan para constituirlos como fuente de pago y/o garantía de los financiamientos a contratar por éstos, de conformidad con lo siguiente:
 
 a) Contar con la autorización de las dos terceras partes de los miembros integrantes del Cabildo;
 
 b) Contar con la autorización del Congreso; y
 
-c) Suscribir el mandato correspondiente, en los casos que proceda.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Incluir en su Presupuesto de Egresos las partidas destinadas al Servicio de su Deuda Pública;
+c) Suscribir los instrumentos legales correspondientes, en los casos que proceda;
 
-IX.- Solicitar a la Secretaría la inscripción en el Registro de sus operaciones de financiamientos y/o empréstitos en los casos a que se refiere esta Ley y las demás disposiciones federales aplicables, para lo cual deberán cumplir con los requisitos previstos en las mismas;
+VIII. Incluir en su Presupuesto de Egresos las partidas destinadas al Servicio de su Deuda Pública;
 
-X.- Emitir dentro del ámbito de su competencia en los casos que proceda, Títulos de Deuda Pública en términos de lo dispuesto por esta Ley; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XI.- Les demás facultades que les confieren esta Ley, así como otras disposiciones legales.
+IX. Solicitar a la Secretaría la inscripción en el Registro de sus operaciones de Financiamientos y Obligaciones en los casos a que se refiere esta Ley; sin perjuicio de las demás atribuciones que establezcan otras disposiciones aplicables en cumplimento con los requisitos previstos en las mismas;
+
+X. Emitir dentro del ámbito de su competencia en los casos que proceda, Títulos de Deuda Pública en términos de lo dispuesto por esta Ley; y
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XI. Las demás facultades que les confieren esta Ley, la Ley de Disciplina Financiera, así como otras disposiciones legales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 17.
 
-Competen a los Sujetos a que se refieren las fracciones III, IV y V del artículo 3 de esta Ley, las atribuciones siguientes:
+Compete a los Sujetos a que se refieren las fracciones VI, VII, VIII y IX del artículo 3 de esta Ley, las atribuciones siguientes:
 
-I.- Formular y someter a consideración de su Órgano de Gobierno, su Programa de Financiamiento Neto, que elaboren de conformidad con esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II.- Enviar a la Secretaría o al Ayuntamiento, según corresponda, el Programa referido en la fracción anterior, para su análisis y en su caso, aprobación e incorporación a los Programas de Financiamiento Neto Estatal y/o Municipales;
+I. Solicitar a la Secretaría el Dictamen que servirá de base para el análisis que deba realizar el Congreso, en relación a Financiamientos de los Entes Públicos, con excepción, de arrendamientos y factorajes financieros o cadenas productivas, en términos de esta Ley.
 
-III.- Presentar y gestionar ante el Congreso, previa autorización de su Órgano de Gobierno, a través del Gobierno del Estado y/o Municipal, según corresponda, las solicitudes de autorización de endeudamiento en términos de lo previsto por esta Ley;
+En el caso de las Entidades Paramunicipales, la solicitud a que hace referencia el párrafo anterior, se realizará de forma coordinada con el Municipio;
 
-IV.- Celebrar en el ámbito de su competencia, en los casos que proceda y en términos de la presente Ley, los contratos, convenios, mandatos, fideicomisos de administración y pago, bursátiles, de garantía, excepto de inmuebles, y demás instrumentos legales que se requieran; suscribiendo los documentos y Títulos de Crédito que resulten necesarios para tales efectos, así como para la modificación de la Deuda Pública adquirida; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-V.- Solicitar a la Secretaria la inscripción en el Registro de sus operaciones de financiamientos y/o empréstitos, para lo cual deberá cumplir con los requisitos previstos en esta Ley.
+II. Presentar y gestionar ante el Congreso, previa autorización de las dos terceras partes de su Órgano de Gobierno, a través del Gobierno del Estado y/o Gobierno Municipal, según corresponda, las solicitudes de autorización de Financiamiento en términos de lo previsto por esta Ley y en su caso, de afectación de recursos que por Ley les correspondan;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III. Coordinarse entre dos o más Entes Públicos y solicitar la autorización bajo el amparo de un financiamiento conjunto, o en su caso, la emisión conjunta de valores;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Celebrar en el ámbito de su competencia y en términos de la presente Ley, los instrumentos legales que se requieran; suscribiendo los documentos y Títulos de crédito que resulten necesarios para tales efectos; así como para la modificación de la Deuda Pública adquirida;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. Solicitar a la Secretaría la inscripción en el Registro de sus operaciones de financiamientos y obligaciones en los casos a que se refiere esta Ley; sin perjuicio de las demás que establezcan otras disposiciones aplicables en cumplimento con los requisitos previstos en las mismas;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VI. Presentar mensualmente a la Secretaría, los informes del estado de su Deuda Pública, a fin de que realice las anotaciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. Llevar la cuenta y registro de las operaciones derivadas de su Deuda Pública;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VIII. Afectar los ingresos que les correspondan para constituirlos como fuente de pago y/o garantía de los financiamientos a contratar por éstos, de conformidad con lo siguiente:
+
+a) Contar con la autorización de su Órgano de Gobierno, de conformidad con la normatividad aplicable;
+
+b) Contar con la autorización del Congreso; y
+
+c) Suscribir los instrumentos legales correspondientes, en los casos que proceda;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IX. Incluir en su Presupuesto de Egresos las partidas destinadas al Servicio de su Deuda Pública; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+X. Las demás facultades que les confieren esta Ley, la Ley de Disciplina Financiera, así como otras disposiciones legales.
 
 ###### ARTÍCULO 18.
 
@@ -337,45 +641,103 @@ Los sujetos de esta Ley podrán coordinarse para dar cumplimiento a las disposic
 
 ### CAPÍTULO CUARTO. CONTRATACIÓN DE LA DEUDA PÚBLICA
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-Los sujetos a que se refiere esta Ley, que requieran contratar financiamientos y/o empréstitos, así como la modificación de su Deuda Pública, proporcionarán a la Secretaria la información que les solicite, a efecto de que ésta determine su capacidad de pago y endeudamiento, mediante el Dictamen que emita en términos de la presente Ley.
+Los sujetos a que se refiere esta Ley, que requieran contratar financiamientos, así como la modificación de su Deuda Pública en los supuestos distintos a los previstos en el artículo 9 Bis de esta Ley, proporcionarán a la Secretaría la información que les solicite, a efecto de que ésta, determine su capacidad de endeudamiento y pago, mediante el Dictamen que emita en términos de la presente Ley, que servirá de base para el análisis de la capacidad de pago que realice el Congreso.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 19 BIS.- La contratación de Financiamientos en sus diferentes modalidades se realizará en estricto apego a lo dispuesto en la Ley de Disciplina Financiera, la presente Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-El Gobierno del Estado por conducto de la Secretaria, o los Gobiernos Municipales por conducto del Presidente Municipal, de acuerdo al ámbito de su competencia, concertarán y formalizarán los financiamientos y/o empréstitos respectivos; asimismo, podrán concertar y gestionar los financiamientos de sus Entidades.
+El Gobierno del Estado por conducto del Titular de la Secretaría, o los Gobiernos Municipales por conducto del Presidente Municipal de acuerdo al ámbito de sus respectivas competencias, concertarán y formalizarán sus financiamientos; asimismo, podrán concertar y gestionar los financiamientos de sus Entidades.
+
+Los demás Entes Públicos, de acuerdo al ámbito de su competencia, concertarán y formalizarán los financiamientos respectivos por conducto de los servidores públicos facultados para ello.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 20 BIS.- Los Entes Públicos estarán obligados a contratar los Financiamientos a su cargo bajo las mejores condiciones de mercado.
+
+Previo a la formalización, el Titular de la Secretaría, el Tesorero Municipal o su equivalente de cada Ente Público, según corresponda a su ámbito de competencia, será el responsable de confirmar que el Financiamiento fue celebrado en las mejores condiciones del mercado, en términos de lo dispuesto en la Ley de Disciplina Financiera y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 21.
 
-Los sujetos de esta Ley podrán celebrar operaciones financieras de cobertura, que tiendan a evitar o reducir riesgos económico-financieros derivados de créditos o empréstitos obtenidos con base en esta Ley.
+Los sujetos de esta Ley podrán celebrar operaciones financieras de cobertura, que tiendan a evitar o reducir riesgos económico-financieros derivados de financiamientos obtenidos con base en esta Ley.
 
 ###### ARTÍCULO 22.
 
-Los financiamientos y/o empréstitos que contraten los sujetos de esta Ley en el ejercicio fiscal de que se trate, deberán estar incluidos en el Programa de Financiamiento Neto Estatal o Municipal correspondiente.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-Los sujetos de esta Ley podrán emitir Títulos de Deuda Pública previa autorización expresa del Congreso para cada caso, su pago se podrá efectuar con las participaciones que en ingresos federales les correspondan u otro tipo de ingresos o garantías, en las mejores condiciones que otorgue el mercado financiero, de acuerdo a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en la normatividad federal de la materia.
+Los Entes Públicos podrán emitir Títulos de Deuda Pública previa autorización expresa del Congreso para cada caso, su pago se podrá efectuar con las participaciones que en ingresos federales les correspondan u otro tipo de ingresos o garantías, en las mejores condiciones que otorgue el mercado financiero, de acuerdo a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y demás normatividad federal y local aplicable en la materia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO CUARTO BIS. DE LA CONTRATACIÓN DE OBLIGACIONES A CORTO PLAZO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 23 BIS.- El Gobierno del Estado y los Municipios podrán contratar Obligaciones a corto plazo sin autorización de la Legislatura local, ni dictamen de la Secretaría, siempre y cuando se cumplan con las siguientes condiciones:
+
+a) En todo momento, el saldo insoluto total del monto principal de estas Obligaciones a corto plazo no exceda del 6 por ciento de los Ingresos totales aprobados en la Ley de Ingresos, sin incluir Financiamiento Neto, del Gobierno del Estado o de los Municipios durante el ejercicio fiscal correspondiente;
+
+b) Las Obligaciones a corto plazo queden totalmente pagadas a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, no pudiendo contratar nuevas Obligaciones a corto plazo durante esos últimos tres meses;
+
+c) Las Obligaciones a corto plazo deberán ser quirografarias;
+
+d) Ser inscritas en el Registro; y
+
+e) Ser inscritas en el Registro Público Único.
+
+Cuando el Gobierno del Estado y los Gobiernos Municipales contraigan estas obligaciones, deberán presentar en sus informes periódicos y en su respectiva cuenta pública, la información detallada de estas obligaciones, incluyendo por lo menos importe, tasas, plazo, comisiones y cualquier costo relacionado, así como la tasa efectiva calculada conforme a la metodología que emita la Secretaria de Hacienda y Crédito Público.
 
 ### CAPÍTULO QUINTO. DE LAS GARANTÍAS Y AVALES
 
-### CAPÍTULO SEXTO. DEL REGISTRO ÚNICO DE OBLIGACIONES Y EMPRÉSTITOS DEL ESTADO
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 24.
 
-Los sujetos de esta Ley podrán afectar como garantía de pago de los financiamientos y/o empréstitos, sus contribuciones, aprovechamientos, productos, cuotas, participaciones u otros ingresos de los que puedan disponer de conformidad con la legislación aplicable, sin perjuicio de la responsabilidad de atender sus demás obligaciones.
+Los sujetos de esta Ley podrán afectar como garantía de pago de los financiamientos sus contribuciones, aprovechamientos, productos, cuotas, participaciones en su caso, u otros ingresos de los que puedan disponer de conformidad con la legislación aplicable, sin perjuicio de la responsabilidad de atender sus demás compromisos de pago.
 
-El Gobierno del Estado por conducto de la Secretaría, o los Gobiernos Municipales por conducto del Presidente Municipal, podrán, en el ámbito de su competencia, constituirse como avales o deudores solidarios de los sujetos solicitantes previstos en esta Ley, afectando cualesquiera de sus ingresos incluyendo las participaciones que en ingresos federales les correspondan, en este último caso deberán contar con la autorización previa del Congreso; de igual forma, el Gobierno del Estado podrá constituirse como aval del Municipio y sus Entidades, sujetándose a los requisitos a que se refiere esta Ley.
+El Gobierno del Estado por conducto de la Secretaría, o los Gobiernos Municipales por conducto del Presidente Municipal, podrán, en el ámbito de su competencia, constituirse como avales o deudores solidarios, de los Entes Públicos señalados en el artículo 3 de esta Ley, afectando cualesquiera de sus ingresos que por ley les correspondan, para lo cual deberán contar con la autorización previa del Congreso; asimismo deberán cumplir con los requisitos señalados en el artículo 14 Apartado A fracción I de esta Ley.
 
-Cuando el Gobierno del Estado o los Gobiernos Municipales se constituyan en avales u obligados solidarios de financiamientos y/o empréstitos, de los sujetos señalados en esta Ley, en el ámbito de sus respectivas competencias, no podrán rebasar como monto máximo de aforo fideicomitido de las participaciones que en ingresos federales les correspondan, el porcentaje, que se señale en la Ley o Presupuesto de Egresos para el ejercicio fiscal de que se trate.
+Los Entes Públicos señalados en el párrafo anterior, que soliciten el aval del Gobierno del Estado o de los Municipios, deberán coordinarse con éstos a fin de recabar la documentación e información necesaria que se presentará de manera conjunta a la Secretaría para la emisión del Dictamen.
+
+Cuando el Gobierno del Estado o los Gobiernos Municipales se constituyan en avales u obligados solidarios de financiamientos de los sujetos señalados en los párrafos que anteceden, en el ámbito de sus respectivas competencias, no podrán rebasar como monto máximo de aforo fideicomitido de las participaciones que en ingresos federales les correspondan, el porcentaje que se señale en la Ley o Presupuesto de Egresos para el ejercicio fiscal de que se trate.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 24 BIS.- El Gobierno del Estado y los Municipios que pretendan suscribir los convenios en materia de Deuda Estatal Garantizada a que se refiere la Ley de Disciplina Financiera, deberán contar con la autorización del Congreso y en su caso, del Cabildo y sujetarse al procedimiento establecido en dicha Ley.
+
+En caso de que el Gobierno del Estado incluya a los Municipios, deberá contar con la solicitud expresa de estos últimos para otorgar su aval, para lo cual deberán tramitar previamente el Dictamen ante la Secretaría.
+
+Los convenios deberán ser publicados en el Periódico Oficial del Estado y en el Diario Oficial de la Federación.
 
 ###### ARTÍCULO 25.
 
 El Gobierno del Estado o los Gobiernos Municipales, en el ámbito de su competencia, podrán constituirse en avales o deudores solidarios en términos de la presente Ley, de acuerdo a lo siguiente:
 
-I.- Cuando a consideración del Gobierno del Estado o de los Gobiernos Municipales existan circunstancias plenamente justificadas; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II.- Cuando el financiamiento y/o empréstito se destine a la atención de situaciones de emergencia derivadas de desastres naturales, antropogénicos o contingencias climatológicas declaradas por la autoridad competente.
+I. Cuando a consideración del Gobierno del Estado o de los Gobiernos Municipales existan circunstancias plenamente justificadas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Cuando la inversión pública productiva del financiamiento se destine a la atención de situaciones de emergencia derivadas de desastres naturales, antropogénicos o contingencias climatológicas declaradas por la autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III. En los demás casos que prevean las disposiciones legales aplicables.
 
 Una vez presentada la solicitud de aval al Gobierno del Estado o los Gobiernos Municipales, éstos deberán resolver sobre su procedencia, en razón de la capacidad que tengan para adquirir obligaciones contingentes.
 
@@ -387,31 +749,43 @@ Los Gobiernos Municipales que soliciten el aval del Gobierno del Estado deberán
 
 I.- Contar con la aprobación de su Cabildo;
 
-II.- Incluir en sus Presupuestos del ejercicio fiscal correspondiente el concepto y los montos del financiamiento y/o empréstito a contratar;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Incluir en sus Presupuestos del ejercicio fiscal correspondiente el concepto y los montos del financiamiento a contratar;
 
 III.- Acreditar que cuenta con los elementos económicos suficientes para hacer frente a la obligación contraída en los montos y plazos, conforme a su programación financiera;
 
-IV.- Estar al corriente en el cumplimiento de sus obligaciones de pago que deriven de sus financiamientos y/o empréstitos contratados; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Estar al corriente en el cumplimiento de sus compromisos de pago que deriven de sus financiamientos contratados; y
 
 V.- Estar al corriente en el cumplimiento de sus obligaciones de información al Registro.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 27.
 
-Las Entidades que soliciten el aval del Gobierno del Estado o de los Gobiernos Municipales deberán:
+Los Entes Públicos que soliciten el aval del Gobierno del Estado o de los Gobiernos Municipales deberán:
 
 I.- Contar con la aprobación de su Órgano de Gobierno;
 
-II.- Incluir en sus Presupuestos del ejercicio fiscal correspondiente el concepto y los montos del financiamiento y/o empréstito a contratar;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Incluir en sus Presupuestos del ejercicio fiscal correspondiente el concepto y los montos del financiamiento a contratar;
 
 III.- Acreditar que cuenta con los elementos económicos suficientes para hacer frente a la obligación contraída en los montos y plazos, conforme a su programación financiera;
 
-IV.- Estar al corriente en el cumplimiento de sus obligaciones de pago que deriven de sus financiamientos y/o empréstitos contratados; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Estar al corriente en el cumplimiento de sus compromisos de pago que deriven de sus financiamientos contratados; y
 
 V.- Estar al corriente en el cumplimiento de sus obligaciones de información al Registro.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 28.
 
-Los sujetos de esta Ley avalados por el Gobierno del Estado o Gobierno Municipal, según sea el caso, serán responsables de llevar el registro y control de los financiamientos y/o empréstitos que contraten, así como de rendir los informes que le sean solicitados por dichas instancias.
+Los sujetos de esta Ley avalados por el Gobierno del Estado o Gobierno Municipal, según sea el caso, serán responsables de llevar el registro y control de los financiamientos que contraten, así como de rendir los informes que le sean solicitados por dichas instancias.
 
 ###### ARTÍCULO 29.
 
@@ -423,7 +797,9 @@ II.- Un ejemplar del Decreto publicado en el Periódico Oficial del Estado, que 
 
 III.- El Acta de Cabildo, o en su caso, el documento del Órgano de Gobierno en el que se autorice a contratar y a solicitar el aval;
 
-IV.- Información sobre el destino del financiamiento y/o empréstito; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Información sobre el destino del financiamiento; y
 
 V.- Cualquier otro requisito que en forma general determine el Ejecutivo del Estado, a través de la Secretaría, o el Gobierno Municipal en el ámbito de sus respectivas competencias.
 
@@ -431,57 +807,155 @@ V.- Cualquier otro requisito que en forma general determine el Ejecutivo del Est
 
 ARTÍCULO 29 BIS.- El Gobierno del Estado por conducto de la Secretaría podrá celebrar convenios a través de los cuales pueda asumir, dentro del ámbito de su competencia, obligaciones de hacer y no hacer en relación con operaciones de crédito, préstamo, empréstito, emisión de valores o financiamiento a cargo de fideicomisos a los que se refiere el artículo 18 Bis de la Ley de Entidades Paraestatales del Estado de Puebla, y obligarse a resarcir el daño o perjuicio que se ocasione por el incumplimiento de dichas obligaciones de hacer y no hacer, sin que ello constituya Deuda Pública del Estado, toda vez que el Estado en ningún caso garantizará ni avalará las obligaciones de pago contraídas por dichos fideicomisos u organismos públicos descentralizados. En los convenios a que se refiere este párrafo, los organismos públicos descentralizados no podrán pactar penas convencionales o predeterminar responsabilidades por daños y perjuicios en caso de incumplimiento.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO SEXTO. DEL REGISTRO DE FINANCIAMIENTOS Y OBLIGACIONES DEL ESTADO DE PUEBLA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 30.
 
-Corresponde a la Secretaría operar el Registro Único de Obligaciones y Empréstitos del Estado, el cual tendrá por objeto hacer constar para efectos declarativos las obligaciones directas o contingentes a cargo de los sujetos de esta Ley; el cumplimiento de las mismas, en los casos que proceda; así como de expedir a todos aquéllos que acrediten su interés jurídico, las certificaciones que soliciten con respecto a los financiamientos y/o empréstitos inscritos.
+Corresponde a la Secretaría integrar, operar y mantener actualizado el Registro, el cual tendrá por objeto hacer constar para efectos declarativos e informativos, la totalidad de Financiamientos u Obligaciones a cargo de los sujetos de esta Ley; así como de expedir a todos aquéllos que acrediten su interés jurídico, las certificaciones de los asientos registrales que soliciten con respecto a los Financiamientos y Obligaciones inscritos.
+
+La inscripción en el Registro, respecto de Obligaciones derivadas de Asociaciones Público-Privadas, es independiente de la que se debe realizar en el registro de la Ley de la materia, por lo que es responsabilidad exclusiva del Ente Público solicitante la observancia y cumplimiento de las disposiciones establecidas en dicha Ley.
+
+Del mismo modo, la inscripción en el Registro no prejuzga ni valida el cumplimiento de las disposiciones legales y reglamentarias aplicables por parte de los sujetos de esta Ley respecto del trámite y formalización de los instrumentos jurídicos o financieros correspondientes, siendo responsabilidad de éstos su correcto y cabal cumplimiento.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 30 BIS.- El Registro se integrará por los apartados siguientes:
+
+APARTADO A. FINANCIAMIENTOS
+
+I. Créditos;
+
+II. Empréstitos;
+
+III. Préstamos;
+
+IV. Emisiones Bursátiles;
+
+V. Arrendamientos financieros;
+
+VI. Factorajes financieros;
+
+VII. Cadenas productivas;
+
+VIII. Obligaciones a corto plazo; y
+
+IX. Las demás que se contraigan con instituciones financieras.
+
+APARTADO B. OBLIGACIONES
+
+I. Obligaciones derivadas de contratos de Asociaciones Público-Privadas:
+
+a) Proyectos para Prestación de Servicios;
+
+b) Proyectos de Inversión;
+
+c) Obra Pública Financiada; y
+
+d) Las demás que se realicen bajo cualquier esquema, en el que se establezca una relación contractual de largo plazo entre instancias del sector público y del sector privado.
 
 ###### ARTÍCULO 31.
 
 El Registro contendrá lo siguiente:
 
-I.- Número progresivo y fecha de inscripción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II.- Características del financiamiento y/o empréstito, identificando a:
+I. Apartado, número progresivo y fecha de inscripción;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Características del Financiamiento u Obligación, identificando a:
 
 a) El sujeto acreditado;
 
 b) El acreditante;
 
-c) El objeto, plazo, tasa de interés y monto; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-d) El aval, en los casos que proceda;
+c) El destino, plazo, tasa de interés y monto;
 
-III.- Fecha de la publicación de los Decretos de autorización del Congreso;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV.- En el caso de los sujetos señalados en las fracciones II, IlI, IV y V del artículo 3 de esta Ley, la fecha del acta o del número de la Sesión de Cabildo o del Órgano de Gobierno, en la que se les autoriza a contratar el financiamiento y/o empréstito, así como a solicitar el aval del Gobierno del Estado o del Gobierno Municipal o en su caso, a constituirse como aval y a suscribir y otorgar el mandato correspondiente;
+d) La Fuente de pago y/o garantía, en los casos que corresponda;
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+e) El aval, en los casos que proceda; y
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+f) Los demás que determine la Secretaría;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III. Fecha de la publicación del Decreto de autorización del Congreso, en los casos que proceda;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. En el caso de los sujetos señalados en las fracciones II, III, IV, V, VI, VII, VIII y IX del artículo 3 de esta Ley, la fecha del acta o del número de la Sesión del Órgano de Gobierno y/o el acta de cabildo del Ayuntamiento según corresponda en la que se les autoriza a contratar el Financiamiento u Obligación, así como, en el caso de los sujetos señalados en las fracciones IV, VI, VII, VIII y IX antes citados, a solicitar el aval del Gobierno del Estado o del Gobierno Municipal en los casos que proceda, o en su caso, a constituirse como aval y a suscribir el instrumento jurídico correspondiente;
 
 V.- Garantías otorgadas;
 
-VI.- Modificaciones a la Deuda Pública, proveniente de los financiamientos y/o empréstitos contratados;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VII.- Cumplimiento o incumplimiento de pago de las obligaciones financieras contraídas; y
+VI. Modificaciones a la Deuda Pública, proveniente de los Financiamientos contratados;
 
-VIII.- Cancelación de las inscripciones cuando se acredite el pago total de las obligaciones financieras contraídas.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. En el caso de Obligaciones derivadas de Asociaciones Público-Privadas, el número o folio de inscripción del registro, de conformidad con la normatividad aplicable en la materia; y
+
+VIII. Cancelación de las inscripciones cuando se acredite el pago total de las obligaciones financieras contraídas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 32.
 
-Los sujetos de esta Ley cuando adquieran deuda, tendrán las siguientes obligaciones:
+Los sujetos de esta Ley cuando adquieran Deuda Pública u Obligaciones a corto plazo, deberán cumplir lo siguiente:
 
-I.- Registrar las operaciones de endeudamiento a que obliga la presente Ley, debiendo anexar la autorización del Congreso, el Acta de Cabildo u Órgano de Gobierno en donde conste la autorización, así como un ejemplar del contrato y/o del Título de Crédito correspondiente;
+I. Registrar las operaciones de Financiamiento que señala la presente Ley, debiendo anexar la autorización del Congreso, el Acta del Órgano de Gobierno en donde conste la autorización, adjuntando un ejemplar del contrato, Título de Crédito o del instrumento correspondiente, así como la demás documentación que le solicite la Secretaría;
 
-II.- Comunicar mensualmente a la Secretaría, de los movimientos realizados con relación a los financiamientos y/o empréstitos contratados;
+II. Remitir a la Secretaría las constancias que acrediten que el Financiamiento fue inscrito satisfactoriamente en el Registro Público Único, dentro de los 15 días naturales posteriores a su inscripción y previo a la disposición o desembolso del Financiamiento;
 
-III.- Proporcionar a la Secretaría, para efectos del Registro, la información que requiera para llevar a cabo la verificación respecto a la amortización de capital y pago de intereses de los financiamientos y/o empréstitos contratados;
+III. Inscribir en el Registro, las operaciones derivadas de Obligaciones a corto plazo, en un término no mayor a 15 días naturales posteriores a la celebración del instrumento jurídico en el que quedó asentada dicha obligación, anexando, en su caso, el Acta del Órgano de Gobierno en donde conste la autorización para contratar la Obligación a corto plazo, incluyendo un ejemplar del contrato, Título de Crédito o del instrumento correspondiente, así como la demás documentación que le solicite la Secretaría;
 
-IV.- Comprobar a la Secretaría, dentro de los cinco días hábiles siguientes a aquél en que se efectuó el pago parcial o total de los financiamientos y/o empréstitos, a fin de que proceda a las anotaciones correspondientes; y
+IV. Remitir a la Secretaría las constancias que acrediten que la Obligación a corto plazo fue inscrita satisfactoriamente en el Registro Público Único, dentro de los 15 días naturales posteriores a su inscripción;
 
-V.- Presentar a la Secretaría, la publicación de la información fiscal y financiera que consideren relevante, debiendo agregar copia de la publicación en la que se contenga la información del año próximo anterior; y de estar disponible la del primer semestre del año.
+V. Comunicar mensualmente a la Secretaría de los movimientos realizados con relación a los Financiamientos contratados, así como los informes del estado que guarda su Deuda Pública;
+
+VI. Proporcionar a la Secretaría, para efectos del Registro, la información que requiera para llevar a cabo la verificación respecto a la amortización de capital y pago de intereses de los Financiamientos contratados;
+
+VII. Enviar a la Secretaría, los comprobantes de pago, dentro de los cinco días hábiles siguientes a aquél en que se efectuó el pago parcial o total de los Financiamientos u Obligaciones a corto plazo, a fin de que proceda a realizar las anotaciones correspondientes;
+
+VIII. Realizar la publicación a través de medios electrónicos, respecto de la información en materia de Deuda Pública y Obligaciones a corto plazo, de conformidad con las disposiciones legales aplicables; y
+
+IX. Cumplir con todas las disposiciones legales y normativas aplicables para la inscripción de los Financiamientos y Obligaciones a corto plazo en el Registro, así como las demás que establezca la Secretaría.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 32 BIS.- Los sujetos de esta Ley que contraten Obligaciones derivadas de Asociaciones Público-Privadas de conformidad con lo dispuesto en la ley de la materia, deberán cumplir, para efectos del registro, con lo dispuesto en las fracciones I, IV, VII y IX del artículo 32 de la presente Ley en lo que les resulte conducente.
+
+La información mencionada en este artículo tendrá efectos únicamente informativos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
-En caso de incumplimiento de los sujetos de esta Ley en el pago de sus obligaciones contraídas, la Secretaría ejercerá las facultades otorgadas mediante los instrumentos legales correspondientes para amortizar las prestaciones exigibles, siempre y cuando los financiamientos y/o empréstitos se encuentren inscritos en el Registro.
+En caso de incumplimiento de los sujetos de esta Ley en el pago de sus obligaciones contraídas derivadas de Financiamientos, la Secretaría ejercerá las facultades otorgadas mediante los instrumentos legales o financieros correspondientes para amortizar las prestaciones exigibles, siempre y cuando los financiamientos se encuentren inscritos en el Registro.
 
 Para estos efectos, la Secretaría dará preferencia en el pago a los acreedores, tomando en consideración el número progresivo y la fecha de inscripción en el Registro.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 34.
+
+Los actos u omisiones que impliquen el incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la legislación en materia de responsabilidades administrativas de los servidores públicos y demás disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -503,7 +977,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 P.O. 30 DE MARZO DE 2012.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, QUE AUTORIZA AL EJECUTIVO DEL ESTADO, PARA QUE DURANTE EL PERIODO CORRESPONDIENTE A SU GESTIÓN GUBERNAMENTAL TRAMITE Y CONTRATE ANTE EL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS, S.N.C. O ANTE CUALQUIER INSTITUCIÓN DE CRÉDITO AUTORIZADA POR LA LEGISLACIÓN FEDERAL APLICABLE, FINANCIAMIENTOS HASTA POR LA CANTIDAD DE UN MIL QUINIENTOS MILLONES DE PESOS, RELATIVO AL FONDO DE APOYO PARA INFRAESTRUCTURA Y SEGURIDAD Y AL FONDO NACIONAL DE INFRAESTRUCTURA; A QUE MODIFIQUE SU DEUDA PÚBLICA VIGENTE Y A CONTRATAR UNO O VARIOS FINANCIAMIENTOS Y/O EMPRÉSTITOS POR LA CANTIDAD DE $750,000,000.00 (SETECIENTOS CINCUENTA MILLONES DE PESOS 00/100 M.N.) O EL EQUIVALENTE AL VEINTICINCO POR CIENTO DE LOS INGRESOS CORRESPONDIENTES A LOS RECURSOS DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LAS ENTIDADES FEDERATIVAS QUE SEAN SUSCEPTIBLES DE ACEPTACIÓN CONFORME A LA LEY; CONSTITUYA UN FIDEICOMISO CUYO OBJETO SEA ADQUIRIR POR CUALQUIER TÍTULO, DE FORMA IRREVOCABLE, HASTA LA TOTALIDAD DE LOS INGRESOS PRESENTES Y FUTUROS PROVENIENTES DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL, ASÍ COMO LA CONTRATACIÓN DE CRÉDITOS, PRESTAMOS, EMPRÉSTITOS O FINANCIAMIENTOS DE CUALQUIER NATURALEZA, INCLUYENDO LA EMISIÓN DE VALORES, HASTA POR UN MONTO DE TRES MIL QUINIENTOS MILLONES DE PESOS; QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA, Y DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; Y QUE AUTORIZA AL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE PUEBLA PARA QUE EN LA PRESENTE ADMINISTRACIÓN ESTATAL CONSTITUYA UN FIDEICOMISO CUYO OBJETO SEA ADQUIRIR POR CUALQUIER TÍTULO, DE FORMA IRREVOCABLE, HASTA LA TOTALIDAD DE SUS INGRESOS, PRESENTES Y FUTUROS, DERIVADOS DE LOS SERVICIOS PRESTADOS CON RELACIÓN AL REGISTRO PÚBLICO DE LA PROPIEDAD, ASÍ COMO LA CONTRATACIÓN DE CRÉDITOS, PRÉSTAMOS, EMPRÉSTITOS O FINANCIAMIENTOS DE CUALQUIER NATURALEZA, INCLUYENDO LA EMISIÓN DE VALORES HASTA POR UN MONTO DE UN MIL QUINIENTOS MILLONES DE PESOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, QUE AUTORIZA AL EJECUTIVO DEL ESTADO, PARA QUE DURANTE EL PERIODO CORRESPONDIENTE A SU GESTIÓN GUBERNAMENTAL TRAMITE Y CONTRATE ANTE EL BANCO NACIONAL DE OBRAS Y SERVICIOS PÚBLICOS, S.N.C. O ANTE CUALQUIER INSTITUCIÓN DE CRÉDITO AUTORIZADA POR LA LEGISLACIÓN FEDERAL APLICABLE, FINANCIAMIENTOS HASTA POR LA CANTIDAD DE UN MIL QUINIENTOS MILLONES DE PESOS, RELATIVO AL FONDO DE APOYO PARA INFRAESTRUCTURA Y SEGURIDAD Y AL FONDO NACIONAL DE INFRAESTRUCTURA; A QUE MODIFIQUE SU DEUDA PÚBLICA VIGENTE Y A CONTRATAR UNO O VARIOS FINANCIAMIENTOS Y/O EMPRÉSTITOS POR LA CANTIDAD DE $750,000,000.00 (SETECIENTOS CINCUENTA MILLONES DE PESOS 00/100 M.N.) O EL EQUIVALENTE AL VEINTICINCO POR CIENTO DE LOS INGRESOS CORRESPONDIENTES A LOS RECURSOS DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO DE LAS ENTIDADES FEDERATIVAS QUE SEAN SUSCEPTIBLES DE ACEPTACIÓN CONFORME A LA LEY; CONSTITUYA UN FIDEICOMISO CUYO OBJETO SEA ADQUIRIR POR CUALQUIER TÍTULO, DE FORMA IRREVOCABLE, HASTA LA TOTALIDAD DE LOS INGRESOS PRESENTES Y FUTUROS PROVENIENTES DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL, ASÍ COMO LA CONTRATACIÓN DE CRÉDITOS, PRESTAMOS, EMPRÉSTITOS O FINANCIAMIENTOS DE CUALQUIER NATURALEZA, INCLUYENDO LA EMISIÓN DE VALORES, HASTA POR UN MONTO DE TRES MIL QUINIENTOS MILLONES DE PESOS; QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA, Y DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA; Y QUE AUTORIZA AL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE PUEBLA PARA QUE EN LA PRESENTE ADMINISTRACIÓN ESTATAL CONSTITUYA UN FIDEICOMISO CUYO OBJETO SEA ADQUIRIR POR CUALQUIER TÍTULO, DE FORMA IRREVOCABLE, HASTA LA TOTALIDAD DE SUS INGRESOS, PRESENTES Y FUTUROS, DERIVADOS DE LOS SERVICIOS PRESTADOS CON RELACIÓN AL REGISTRO PÚBLICO DE LA PROPIEDAD, ASÍ COMO LA CONTRATACIÓN DE CRÉDITOS, PRÉSTAMOS, EMPRÉSTITOS O FINANCIAMIENTOS DE CUALQUIER NATURALEZA, INCLUYENDO LA EMISIÓN DE VALORES HASTA POR UN MONTO DE UN MIL QUINIENTOS MILLONES DE PESOS”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -526,3 +1000,23 @@ P.O. 19 DE SEPTIEMBRE DE 2012.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se dejan sin efectos todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Poder Ejecutivo del Estado, realizará las reformas a los reglamentos interiores que sean necesarias a fin de dar cumplimiento a este Decreto, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo.
+
+CUARTO. Los demás Entes Públicos mencionados en la presente Ley, realizarán las reformas a los reglamentos y disposiciones administrativas que sean necesarias para dar cumplimiento a este Decreto, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo, sin perjuicio de los plazos establecidos en otras disposiciones aplicables en la materia.
+
+QUINTO. La Secretaría de Finanzas y Administración, emitirá la Metodología para la Emisión del Dictamen de Capacidad de Endeudamiento y Pago a que deberán sujetarse los Entes Públicos en materia de Financiamientos, a más tardar a los 180 días naturales siguientes a la entrada en vigor del mismo.
+
+SEXTO. La Secretaría de Finanzas y Administración emitirá la normatividad para el otorgamiento de Anticipos a cuenta de Participaciones y Apoyos Financieros Temporales, a más tardar a los 180 días naturales siguientes a la entrada en vigor de la presente Ley.
+
+SÉPTIMO. Las referencias al Registro Único de Obligaciones y Empréstitos del Estado en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán realizadas al Registro de Financiamientos y Obligaciones del Estado de Puebla.
+
+OCTAVO. Todo trámite que se haya iniciado ante el Registro Único de Obligaciones y Empréstitos del Estado o se encuentre en proceso a la entrada en vigor del presente Decreto, deberá continuar tramitándose de acuerdo a las disposiciones legales y normatividad vigentes al momento de iniciarse.
