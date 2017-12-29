@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-rural-sustentable-del-estado-de-puebla-40976"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-18"
-last_updated: "2017-08-11"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Puebla, el miércoles 18 de agosto de 2004.
 
@@ -1213,7 +1213,9 @@ XI.- No cumplir con las disposiciones legales en materia de salud agropecuaria p
 
 La Secretaría podrá imponer discrecionalmente atendiendo a la gravedad de la infracción, cualquiera de las siguientes sanciones:
 
-I.- Multa de veinte a veinte mil días de salario mínimo general vigente en el Estado al momento de cometerse la infracción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I.- Multa del equivalente a la cantidad de veinte a veinte mil veces el valor diario de la Unidad de Medida y Actualización calculados al momento de cometerse la infracción;
 
 II.- Clausura definitiva, parcial o total;
 
@@ -1428,3 +1430,11 @@ P.O. 11 DE AGOSTO DE 2017.
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
