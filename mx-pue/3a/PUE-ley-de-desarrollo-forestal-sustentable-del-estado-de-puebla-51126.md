@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-forestal-sustentable-del-estado-de-puebla-511
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-26"
-last_updated: "2006-06-26"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el lunes 26 de junio de 2006.
 
@@ -41,7 +41,7 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SEXTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-.
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción IV, 64, 67 y 79 fracción IX de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y II, 69 fracción IV, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 21 y 24 fracciones I y III del Reglamento Interior del H. Congreso del Estado, se expide la siguiente:
 
@@ -81,11 +81,11 @@ X.- Promover y regular las forestaciones con propósito comercial;
 
 XI.- Apoyar la organización y desarrollo de los propietarios forestales y mejorar sus prácticas silvícolas;
 
-XlI.- Contribuir al desarrollo socioeconómico de los pueblos y comunidades indígenas, así como de ejidatarios, comuneros, cooperativas, pequeños propietarios y demás poseedores de recursos forestales;
+XII.- Contribuir al desarrollo socioeconómico de los pueblos y comunidades indígenas, así como de ejidatarios, comuneros, cooperativas, pequeños propietarios y demás poseedores de recursos forestales;
 
-XlII.- Fortalecer y mejorar los servicios técnicos forestales en la Entidad;
+XIII.- Fortalecer y mejorar los servicios técnicos forestales en la Entidad;
 
-XlV.- Concertar acciones entre los sectores público, social y privado, en la materia de esta Ley;
+XIV.- Concertar acciones entre los sectores público, social y privado, en la materia de esta Ley;
 
 XV.- Establecer las bases a que deberá sujetarse la coordinación de las diversas instancias y órganos para la prevención, combate y control de incendios forestales, así como de las plagas y enfermedades forestales y de la restauración de zonas forestales destruidas o degradadas en la Entidad;
 
@@ -159,11 +159,11 @@ X.- Registro: El Registro Estatal Forestal;
 
 XI.- Reglamento: El Reglamento de la presente Ley;
 
-XlI.- Unidad de Manejo ForestaI.- Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
+XII.- Unidad de Manejo Forestal.- Territorio cuyas condiciones físicas, ambientales, sociales y económicas guardan cierta similitud para fines de ordenación, manejo forestal sustentable y conservación de los recursos;
 
-XlII.- Uso doméstico.- El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos de sus necesidades básicas en el medio rural; y
+XIII.- Uso doméstico.- El aprovechamiento, sin propósitos comerciales, de los recursos forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos de sus necesidades básicas en el medio rural; y
 
-XlV.- Secretaría: La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Puebla.
+XIV.- Secretaría: La Secretaría del Medio Ambiente y Recursos Naturales del Estado de Puebla.
 
 ###### ARTÍCULO 8.
 
@@ -323,11 +323,11 @@ X.- Coordinar el Inventario Estatal Forestal y de Suelos e integrar el Sistema E
 
 XI.- Realizar las acciones de promoción de los bienes y servicios ambientales de los ecosistemas forestales;
 
-XlI.- Impulsar la participación de los propietarios y poseedores de los recursos forestales en la protección, conservación, restauración, vigilancia, ordenación, aprovechamiento, cultivo, transformación y comercialización de los mismos;
+XII.- Impulsar la participación de los propietarios y poseedores de los recursos forestales en la protección, conservación, restauración, vigilancia, ordenación, aprovechamiento, cultivo, transformación y comercialización de los mismos;
 
-XlII.- Promover y coordinar programas, proyectos y acciones de educación, capacitación, investigación y cultura forestal, acordes con el programa nacional y estatal respectivo;
+XIII.- Promover y coordinar programas, proyectos y acciones de educación, capacitación, investigación y cultura forestal, acordes con el programa nacional y estatal respectivo;
 
-XlV.- Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
+XIV.- Celebrar acuerdos y convenios de coordinación, cooperación y concertación en materia forestal;
 
 XV.- Vigilar la correcta aplicación de las Normas Oficiales Mexicanas que regulan el uso (sic) relacionadas con las actividades agropecuarias o de otra índole, que pudieran afectar los ecosistemas forestales;
 
@@ -395,11 +395,11 @@ X.- Proporcionar, en apoyo a las instancias competentes, el equipo y los recurso
 
 XI.- Promover permanentemente, en sus respectivas jurisdicciones y en coordinación con las autoridades competentes, la difusión de la cultura forestal;
 
-XlI.- Proporcionar a las instancias federales, estatales y Municipios de la Entidad, la información que le sea requerida en materia forestal;
+XII.- Proporcionar a las instancias federales, estatales y Municipios de la Entidad, la información que le sea requerida en materia forestal;
 
-XlII.- Difundir los planes, programas y acciones que coadyuven al desarrollo forestal de su Municipio; y
+XIII.- Difundir los planes, programas y acciones que coadyuven al desarrollo forestal de su Municipio; y
 
-XlV.- Las demás que les confiere la Ley General de Desarrollo Forestal Sustentable, esta Ley y otros ordenamientos aplicables.
+XIV.- Las demás que les confiere la Ley General de Desarrollo Forestal Sustentable, esta Ley y otros ordenamientos aplicables.
 
 ### CAPÍTULO IV. DE LA ORGANIZACIÓN TERRITORIAL FORESTAL
 
@@ -621,7 +621,7 @@ VI.- Información económica de la actividad forestal en el Estado;
 
 VII.- Las organizaciones e instituciones de los sectores social y privado, así como de organismos relacionados con este sector;
 
-VlII.- La investigación y desarrollo tecnológico;
+VIII.- La investigación y desarrollo tecnológico;
 
 IX.- Las evaluaciones que se realicen sobre plantaciones forestales comerciales y reforestación;
 
@@ -647,7 +647,7 @@ V.- La cuantificación de los recursos forestales del Estado y sus Municipios;
 
 VI.- Los criterios e indicadores de la sustentabilidad y degradación forestal y de suelos; y
 
-VlI.- Los demás que señale el Reglamento de la presente Ley.
+VII.- Los demás que señale el Reglamento de la presente Ley.
 
 ###### ARTÍCULO 38.
 
@@ -701,7 +701,7 @@ VI.- La inscripción de los profesionales, técnicos prácticos, productores, si
 
 VII.- La inscripción de las Unidades de Manejo Forestal;
 
-VlII.- La Inscripción de las Asociaciones Regionales de Silvicultores;
+VIII.- La Inscripción de las Asociaciones Regionales de Silvicultores;
 
 IX.- La Inscripción de las Asociaciones Locales de Silvicultores;
 
@@ -711,9 +711,9 @@ XI.- Los datos de identificación del personal autorizado que forma parte del Se
 
 XII.- Los datos de identificación de las personas que conforman los comités participativos de inspección y vigilancia;
 
-XlII.- Los decretos que establezcan áreas naturales protegidas que incluyan terrenos forestales o preferentemente forestales;
+XIII.- Los decretos que establezcan áreas naturales protegidas que incluyan terrenos forestales o preferentemente forestales;
 
-XlV.- Los decretos que establezcan zonas de restauración en terrenos forestales;
+XIV.- Los decretos que establezcan zonas de restauración en terrenos forestales;
 
 XV.- Los decretos que establezcan vedas forestales;
 
@@ -721,9 +721,9 @@ XVI.- Los actos de transferencia de dominio, uso, usufructo o prestación de ser
 
 XVII.- Las autorizaciones de funcionamiento de centros de almacenamiento y transformación de materias primas forestales;
 
-XVlII.- Los árboles históricos y notables del Estado y cualquier otro espécimen de interés especial; y
+XVIII.- Los árboles históricos y notables del Estado y cualquier otro espécimen de interés especial; y
 
-XlX.- Los demás actos y documentos que se señalen en las disposiciones legales aplicables.
+XIX.- Los demás actos y documentos que se señalen en las disposiciones legales aplicables.
 
 ###### ARTÍCULO 44.
 
@@ -759,7 +759,7 @@ VI.- Los ordenamientos forestales estatal y municipales;
 
 VII.- Las declaratorias de áreas naturales protegidas o de zonas estatales, las cuales involucren a los ecosistemas y recursos forestales; y
 
-VlII.- Las demás disposiciones que regulen las actividades de los sectores público, privado y social forestales.
+VIII.- Las demás disposiciones que regulen las actividades de los sectores público, privado y social forestales.
 
 #### Sección 5. Del sistema de Ventanilla Única
 
@@ -919,7 +919,7 @@ V.- La complementación de esfuerzos en las tareas de prevención, detección, c
 
 VI.- La producción de planta para apoyar las actividades de reforestación con fines de producción, protección, conservación y/o restauración a nivel predial;
 
-VlI.- La elaboración del programa anual de actividades para la unidad de manejo;
+VII.- La elaboración del programa anual de actividades para la unidad de manejo;
 
 VIII.- La presentación de los informes periódicos de avances en la ejecución del programa regional o zonal; y
 
@@ -1057,7 +1057,7 @@ VI.- Notificar a los dueños y legales poseedores de terrenos forestales para qu
 
 ###### ARTÍCULO 81.
 
-En el marco de los acuerdos de coordinación institucional con la Federación, la Secretaría estará facuItada para otorgar los permisos y recibir los avisos para el combate y control de plagas y enfermedades.
+En el marco de los acuerdos de coordinación institucional con la Federación, la Secretaría estará facultada para otorgar los permisos y recibir los avisos para el combate y control de plagas y enfermedades.
 
 #### Sección 2. De la Detección, Combate y Control de Plagas y Enfermedades Forestales
 
@@ -1511,11 +1511,11 @@ X.- Transportar, almacenar, transformar o poseer materias primas forestales, sin
 
 XI.- Realizar actos u omisiones en la prestación de los servicios técnicos que propicien o provoquen la comisión de cualquiera de las infracciones previstas en esta Ley;
 
-XlI.- Prestar servicios técnicos forestales sin haber obtenido previamente las inscripciones en los registros correspondientes;
+XII.- Prestar servicios técnicos forestales sin haber obtenido previamente las inscripciones en los registros correspondientes;
 
-XlII.- Contravenir las disposiciones contenidas en los decretos estatales por los que se establezcan vedas forestales;
+XIII.- Contravenir las disposiciones contenidas en los decretos estatales por los que se establezcan vedas forestales;
 
-XlV.- Evitar, prevenir, combatir o controlar, estando legalmente obligado para ello, las plagas, enfermedades o incendios forestales;
+XIV.- Evitar, prevenir, combatir o controlar, estando legalmente obligado para ello, las plagas, enfermedades o incendios forestales;
 
 XV.- Negarse, sin causa justificada, a prevenir o combatir las plagas, enfermedades o incendios forestales que afecten la vegetación forestal, en desacato de mandato legítimo de autoridad;
 
@@ -1555,11 +1555,17 @@ En el caso de las fracciones III y IV de este artículo, la Secretaría ordenar�
 
 La imposición de las multas a que se refiere el artículo anterior, se determinará en la forma siguiente:
 
-I.- Con el equivalente de 40 a 1,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, IX, XI, XII, XIV, XV, XVI y XIX del artículo 134 de esta Ley; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II.- Con el equivalente de 100 a 20,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones II, III, IV, V, VI, VII, VIII, X, XIII, XVII y XVIII del artículo 134 de esta Ley.
+I.- Con el equivalente a la cantidad de 40 a 1,000 veces el valor diario de la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, IX, XI, XII, XIV, XV, XVI y XIX del artículo 134 de esta Ley; y
 
-La imposición de las multas será con base en el salario mínimo general diario vigente en la Entidad, al momento de cometerse la infracción; en ningún caso podrá ser menor al costo del daño ocasionado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II.- Con el equivalente a la cantidad de 100 a 20,000 veces el valor diario de la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones II, III, IV, V, VI, VII, VIII, X, XIII, XVII y XVIII del artículo 134 de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La imposición de las multas será con base del equivalente al valor diario de la Unidad de Medida y Actualización, al momento de cometerse la infracción; en ningún caso podrá ser menor al costo del daño ocasionado.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces al monto originalmente impuesto.
 
@@ -1731,7 +1737,9 @@ No se tomaran en cuenta en la resolución del recurso, hechos, documentos o aleg
 
 ## TRANSITORIOS
 
-ARTÍCULO PRlMERO.- La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO PRIMERO.
+
+La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1756,3 +1764,13 @@ Los permisos y autorizaciones, concedidas hasta antes de la entrada en vigor de 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los ocho días del mes de diciembre de dos mil cinco.- Diputada Presidenta.- EDITH CID PALACIOS.- Rúbrica.- Diputado Vicepresidente.- PERICLES OLIVARES FLORES.- Rúbrica.- Diputado Secretario.- ÓSCAR ANGUIANO MARTÍNEZ.- Rúbrica.- Diputado Secretario.- JUAN AGUILAR HERNÁNDEZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los nueve días del mes de diciembre del año dos mil cinco.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
