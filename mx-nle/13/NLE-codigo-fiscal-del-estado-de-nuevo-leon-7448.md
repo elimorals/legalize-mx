@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2017-02-03"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -120,6 +120,10 @@ Son participaciones los ingresos provenientes de contribuciones y aprovechamient
 Son créditos fiscales los que tenga derecho a percibir el Estado o sus organismos descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo, los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus funcionarios o empleados o de los particulares, así como aquéllos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
 La recaudación proveniente de todos los ingresos del Estado, aún cuando se destinen a un fin específico, se hará a través de la Secretaría de Finanzas y Tesorería General del Estado, la cual podrá ser auxiliada por otras dependencias oficiales o por organismos públicos o privados, por disposición de la ley o por autorización de dicha Secretaría.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Para efectos del párrafo anterior, las autoridades que remitan créditos fiscales a la Secretaría de Finanzas y Tesorería General del Estado para su cobro, deberán cumplir con los requisitos que mediante reglas de carácter general establezca dicha autoridad.
 
 ###### ARTICULO 7.
 
@@ -383,25 +387,31 @@ Las promociones deberán presentarse en las formas que al efecto apruebe la Secr
 
 I.- Constar por escrito.
 
-II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado al registro estatal de contribuyentes, y la clave que le correspondió en dicho registro.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II.- El nombre, la denominación o razón social y el domicilio fiscal manifestado al registro estatal de contribuyentes, y la clave que le correspondió en dicho registro, así como la clave del registro federal de contribuyentes.
 
 III.- El número de cuenta estatal que le sea asignado.
 
 IV.- Señalar la autoridad a la que se dirige, el propósito de la promoción y el fundamento de la misma.
 
-V.- En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de diez días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
+V.- En su caso, el domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas, cuando así proceda la dirección de correo electrónico para recibir notificaciones.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Cuando no se cumpla alguno de los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
 
 Si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
 
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos a que se refiere el artículo 32 de este Código.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 20.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o notario.
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o notario, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
 
 Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar todo tipo de instancias o promociones dentro del procedimiento administrativo que se relacione con estos propósitos.
 
@@ -457,9 +467,9 @@ Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autori
 
 Cuando se solicite la devolución de una contribución estatal, deberá efectuarse dentro del plazo de dos meses contados a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular. El fisco estatal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el artículo 18 Bis de este Código, desde el mes en que se realizó el pago de lo indebido o se presentó la declaración que contenga el saldo a favor hasta aquél en que se pongan las cantidades a disposición del interesado. Si dentro de dicho plazo no se efectúa la devolución, el fisco deberá pagar intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código. Los intereses se calcularán sobre las cantidades actualizadas que proceda devolver, excluyendo los propios intereses y se computarán dichos intereses desde que venció el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-El contribuyente que habiendo efectuado el pago de una contribución determinada por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, sobre las cantidades actualizadas que se hayan pagado indebidamente y a partir de que se efectuó el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
+El contribuyente que habiendo efectuado el pago de una contribución determinada por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, sobre las cantidades actualizadas que se hayan pagado indebidamente y a partir de que se efectuó el pago. En caso de que en el medio de defensa interpuesto no hayan sido parte las autoridades fiscales del Estado, o no hayan sido vinculadas por la autoridad jurisdiccional, sólo se pagarán intereses en caso de que la devolución no se efectúe dentro del plazo de dos meses contados a partir de que se presentó la solicitud o se giró la orden por la autoridad jurisdiccional, únicamente por el tiempo que transcurra después del citado plazo de dos meses. En los casos a que se refiere este párrafo el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -723,13 +733,21 @@ Las autoridades fiscales sólo están obligadas a contestar las consultas que so
 
 Los funcionarios fiscales facultados debidamente, podrán dar a conocer a las diversas dependencias el criterio que deberán seguir en cuanto a la aplicación de las disposiciones fiscales, sin que por ello nazcan obligaciones para los particulares y únicamente derivarán derechos de los mismos cuando se publiquen en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 38.
 
-Las resoluciones administrativas de carácter individual favorables a un particular, sólo podrán ser modificadas por el Tribunal de lo Contencioso Administrativo del Estado mediante juicio iniciado por las autoridades fiscales.
+Las resoluciones administrativas de carácter individual favorables a un particular, sólo podrán ser modificadas por el Tribunal de Justicia Administrativa del Estado mediante juicio iniciado por las autoridades fiscales.
 
 Cuando la Secretaría de Finanzas y Tesorería General del Estado modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, y podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, y sin que haya prescrito el crédito fiscal.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicten las autoridades fiscales al respecto no podrán ser impugnadas por los contribuyentes.
 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -1085,7 +1103,7 @@ Las autoridades fiscales que al ejercer las facultades de comprobación conozcan
 
 El plazo para emitir la resolución a que se refiere este Artículo se suspenderá en los casos previstos en el Artículo 48 Bis de este Código. Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa, dicho plazo se suspenderá desde la fecha en que se interponga el citado medio de defensa y hasta que se dicte resolución definitiva del mismo.
 
-ARTICULO 51 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 51 Bis.
 
@@ -1095,11 +1113,11 @@ En los actos jurídicos en los que exista simulación, el hecho imponible gravad
 
 La resolución en que la autoridad determine la simulación deberá incluir lo siguiente:
 
-I.- Identificar el acto simulado y el realmente celebrado.
+I. Identificar el acto simulado y el realmente celebrado.
 
-II.- Cuantificar el beneficio fiscal obtenido por virtud de la simulación.
+II. Cuantificar el beneficio fiscal obtenido por virtud de la simulación.
 
-III.- Señalar los elementos por los cuales se determinó la existencia de dicha simulación, incluyendo la intención de las partes de simular el acto.
+III. Señalar los elementos por los cuales se determinó la existencia de dicha simulación, incluyendo la intención de las partes de simular el acto.
 
 Para efectos de probar la simulación, la autoridad podrá basarse, entre otros, en elementos presuncionales.
 
@@ -1853,13 +1871,11 @@ c) Afecten el interés jurídico de terceros, en los casos a que se refiere el a
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 119.
 
-La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo del Estado. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
+La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal de Justicia Administrativa del Estado. Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1923,9 +1939,9 @@ I.- Que no afecten el interés jurídico del recurrente.
 
 II.- Que sean resoluciones dictadas en recursos administrativos o en cumplimiento de éstos o de sentencias.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-III.- Que hayan sido impugnados ante el Tribunal de lo Contencioso Administrativo del Estado.
+III.- Que hayan sido impugnados ante el Tribunal de Justicia Administrativa del Estado.
 
 IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos contra los que no se promovió el recurso en el plazo señalado al efecto.
 
@@ -1935,9 +1951,7 @@ V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso 
 
 VI.- Si son revocados los actos por la autoridad.
 
-> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
-
-VII.- En caso de que no se amplíe el recurso de revocación o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 128 de este Código.
+VII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
@@ -1955,13 +1969,11 @@ IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
 
 #### SECCION SEGUNDA. Del Recurso de Revocación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 124.
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de lo Contencioso Administrativo del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en el recurso de revocación.
+El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de Justicia Administrativa del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente de otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en el recurso de revocación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1993,25 +2005,9 @@ El tercero que afirme ser propietario de los bienes o negociaciones, o titular d
 
 #### SECCION CUARTA. De la Impugnación de Notificaciones
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE FEBRERO DE 2017)</small>
-
 ###### ARTICULO 128.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 116, se estará a las reglas siguientes:
-
-I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
-
-En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
-
-II.- Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiera practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
-
-El particular tendrá un plazo de 30 días a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
-
-III.- La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
-
-a) Si resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado con base en aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
-
-b) Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente desechará dicho recurso.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
 
 #### SECCION QUINTA. Del Trámite y Resolución de los Recursos
 
@@ -2071,7 +2067,9 @@ IV.- Dejar sin efecto el acto impugnado.
 
 V.- Modificar el acto impugnado o dictar uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
 
-Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses, aún cuando haya transcurrido el plazo que señala el Artículo 67 de este Código.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de cuatro meses, contado a partir del día hábil siguiente a aquel en que haya quedado firme dicha resolución, aun cuando haya transcurrido el plazo que señala el artículo 67 de este Código.
 
 ARTICULO 132 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
@@ -2081,7 +2079,13 @@ ARTICULO 132 BIS.- (DEROGADO, P.O. 3 DE FEBRERO DE 2017)
 
 Las notificaciones de los actos administrativos se harán:
 
-I.- Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I.- Personalmente, por correo certificado, correo electrónico o mensaje de datos con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Las notificaciones efectuadas a través del correo electrónico o mensaje de datos, a fin de que sean llevadas a cabo, la Secretaría de Finanzas y Tesorería General del Estado emitirá para ello Reglas Generales. Las notificaciones a que se refiere el presente párrafo se entenderán realizadas al tercer día hábil siguiente a aquel en que se envió el correo electrónico o el mensaje de datos y surtirán sus efectos el día hábil siguiente al en que hubieren sido realizadas.
 
 II.- Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
 
@@ -2181,29 +2185,23 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Finanzas y Tesorería General del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 142.
 
 No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos su notificación. Cuando el contribuyente hubiere interpuesto en tiempo y forma recurso de revocación en contra de un acto, el procedimiento administrativo de ejecución quedará suspendido sin necesidad de garantía alguna, hasta que se notifique la resolución definitiva que hubiere recaído sobre el mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 En el caso de que en el juicio contencioso administrativo o en el recurso de revocación, no se impugne la totalidad de los créditos que derivan del acto administrativo cuya ejecución haya sido suspendida, deberán pagarse los créditos no impugnados con los accesorios correspondientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2009)</small>
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observará lo dispuesto en el penúltimo párrafo del artículo 139 de este Código. Asimismo, no se exigirá garantía adicional respecto a los adeudos impugnados derivados de los impuestos predial, sobre adquisición de inmuebles y sobre aumento de valor y mejoría específica de la propiedad, cuando el crédito fiscal se haya determinado a cargo del propietario del bien inmueble, excepto cuando dicho bien inmueble deje de formar parte de su patrimonio.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso o ante el Tribunal de lo Contencioso Administrativo del Estado que conozca del juicio respectivo, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El superior o el tribunal ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los cinco días siguientes a su recepción.
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora si se está tramitando recurso o ante el Tribunal de Justicia Administrativa del Estado que conozca del juicio respectivo, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El superior o el tribunal ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los cinco días siguientes a su recepción.
 
 ### CAPITULO III. Del Procedimiento Administrativo de Ejecución
 
@@ -2231,11 +2229,21 @@ El crédito fiscal se extingue por prescripción en el término de cinco años.
 
 El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o hagar (sic) saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
-No se extinguen por prescripción las obligaciones ni los créditos a favor del fisco, en los casos que habiendo obligación de presentar avisos y manifestaciones ante las autoridades fiscales, éstos se omitieren.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 142 de este Código, también se suspenderá el plazo de la prescripción.
 
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2261,9 +2269,9 @@ Cuando sea necesario emplear el procedimiento administrativo de ejecución para 
 
 Por concepto de gastos de ejecución se cubrirá hasta un 10% del valor del crédito fiscal a excepción de los recargos, sobre los cuales no se causarán gastos de ejecución.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-En ningún caso, los gastos de ejecución, incluyendo las erogaciones extraordinarias de gastos de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatoria y edictos, de inscripción o cancelación de gravámenes en el Registro Público, los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, podrá exceder de la cantidad equivalente a un salario mínimo general de la zona económica correspondiente, elevado a dos años.
+En ningún caso, los gastos de ejecución, incluyendo las erogaciones extraordinarias de gastos de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatoria y edictos, de inscripción o cancelación de gravámenes en el Registro Público, los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, podrá exceder de la cantidad equivalente a una cuota elevada a dos años.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales.
 
@@ -2286,6 +2294,10 @@ II.- A embargar negociaciones con todo lo que de hecho y por derecho les corresp
 El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género se inscribirá en el Registro Público que corresponda en atención a la naturaleza de los bienes o derechos de que se trate.
 
 Cuando los bienes raíces, derechos reales o negociaciones queden comprendidas en la jurisdicción de dos o más oficinas del Registro Público que corresponda, en todas ellas se inscribirá el embargo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
 
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -2517,7 +2529,9 @@ El remate deberá ser convocado para una fecha fijada dentro de los treinta día
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el salario mínimo general de la zona económica que corresponda, elevado al año, la convocatoria se publicará en el órgano oficial de la entidad y en uno de los periódicos de mayor circulación.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco cuotas elevadas al año, la convocatoria se publicará en el órgano oficial de la entidad y en uno de los periódicos de mayor circulación.
 
 ###### ARTICULO 171.
 
@@ -3230,3 +3244,13 @@ P.O. 3 DE FEBRERO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 230. SE REFORMA EL ARTÍCULO 128; SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 123; SE DEROGAN, LA FRACCIÓN III Y EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 42; EL ARTÍCULO 42 BIS; LA FRACCIÓN VIII DEL ARTÍCULO 44; EL ARTÍCULO 51 BIS; EL ARTÍCULO 54; LA FRACCIÓN III DEL ARTÍCULO 104 Y EL ARTÍCULO 132 BIS TODOS DEL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 330. SE MODIFICAN LOS ARTÍCULOS 19 FRACCIONES II Y V, TERCER PÁRRAFO; 20, PRIMER PÁRRAFO; 23, CUARTO PÁRRAFO; 38, PRIMER PÁRRAFO; 119; 123, FRACCIÓN III; 124; 132, SEGUNDO PÁRRAFO; 133, FRACCIÓN I; 142, CUARTO PÁRRAFO; 144, PÁRRAFOS TERCERO Y CUARTO; 145, TERCER PÁRRAFO Y 170, TERCER PÁRRAFO; SE ADICIONA EN SUS ARTÍCULOS 6, CON UN TERCER PÁRRAFO; 38, CON LOS PÁRRAFOS TERCERO Y CUARTO; Y CON UN ARTÍCULO 51 BIS; 133, FRACCIÓN I SEGUNDO PÁRRAFO, 144, CON LOS PÁRRAFOS QUINTO Y SEXTO; Y 146, CON UN QUINTO PÁRRAFO; Y SE DEROGAN LOS ARTÍCULOS 123, FRACCIÓN VII Y 128; TODOS DEL CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor el día 1º de enero del año 2018.
+
+Segundo.- Las notificaciones de los actos administrativos propios o derivados de colaboración con el Gobierno Federal, se podrán realizar a través de buzón tributario u otros medios electrónicos que sean compartidos mediante estos convenios de colaboración entre las autoridades Federales.
+
+Tercero.- La Secretaría de Finanzas y Tesorería General del Estado contará con un plazo de un año para emitir las Reglas Generales a que se refiere el artículo 133, fracción I, del Código Fiscal del Estado.
