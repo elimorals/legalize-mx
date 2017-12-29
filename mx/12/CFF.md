@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2017-05-16"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -26,7 +26,7 @@ CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2017.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 16 DE MAYO DE 2017.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 29 DE DICIEMBRE DE 2017.
 
 Código publicado en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -1984,9 +1984,9 @@ La información a que se refiere el párrafo anterior se deberá presentar a má
 
 Los contribuyentes que a continuación se señalan deberán presentar ante las autoridades fiscales, como parte de la declaración del ejercicio, la información sobre su situación fiscal, utilizando los medios y formatos que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $708,898,920.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
+I. Quienes tributen en términos del Título II de la Ley del Impuesto sobre la Renta, que en el último ejercicio fiscal inmediato anterior declarado hayan consignado en sus declaraciones normales ingresos acumulables para efectos del impuesto sobre la renta iguales o superiores a un monto equivalente a $755,898,920.00, así como aquéllos que al cierre del ejercicio fiscal inmediato anterior tengan acciones colocadas entre el gran público inversionista, en bolsa de valores y que no se encuentren en cualquier otro supuesto señalado en este artículo.
 
 El monto de la cantidad establecida en el párrafo anterior se actualizará en el mes de enero de cada año, con el factor de actualización correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año al mes de diciembre del último año inmediato anterior a aquél por el cual se efectúe el cálculo, de conformidad con el procedimiento a que se refiere el artículo 17-A de este Código.
 
@@ -3818,9 +3818,9 @@ IX. No verificar que la clave del registro federal de contribuyentes aparezca en
 
 A quien cometa las infracciones relacionadas con el Registro Federal de Contribuyentes a que se refiere el artículo 79, se impondrán las siguientes multas:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-I. De $3,080.00 a $9,250.00, a las comprendidas en las fracciones I, II y VI.
+I. De $3,470.00 a $10,410.00, a las comprendidas en las fracciones I, II y VI.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -3832,29 +3832,29 @@ II. De $3,760.00 a $7,510.00, a la comprendida en la fracción III. Tratándose 
 
 III. Para la señalada en la fracción IV:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y $6,560.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de $2,620.00 ni mayor de $6,560.00.
+a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y $7,390.00. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso será menor de $2,950.00 ni mayor de $7,390.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-b) De $800.00 a $1,830.00, en los demás documentos.
+b) De $900.00 a $2,060.00, en los demás documentos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-IV. De $15,430.00 a $30,850.00, para la establecida en la fracción V.
+IV. De $17,370.00 a $34,730.00, para la establecida en la fracción V.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-V. De $3,060.00 a $9,220.00, a la comprendida en la fracción VII.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI. De $15,350.00 a $30,700.00 a las comprendidas en las fracciones VIII y IX.
+V. De $3,450.00 a $10,380.00, a la comprendida en la fracción VII.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+VI. De $17,280.00 a $34,570.00 a las comprendidas en las fracciones VIII y IX.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -4036,115 +4036,115 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Para la señalada en la fracción I:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a) De $1,240.00 a $15,430.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
+a) De $1,400.00 a $17,370.00, tratándose de declaraciones, por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b) De $1,240.00 a $30,850.00 por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+b) De $1,400.00 a $34,730.00 por cada obligación a que esté afecto, al presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-c) De $11,840.00 a $23,660.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
+c) De $13,330.00 a $26,640.00, por no presentar el aviso a que se refiere el primer párrafo del artículo 23 de este Código.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-d) De $12,640.00 a $25,300.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
+d) De $14,230.00 a $28,490.00, por no presentar las declaraciones en los medios electrónicos estando obligado a ello, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los plazos señalados en los mismos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-e) De $1,270.00 a $4,050.00 en los demás documentos.
+e) De $1,430.00 a $4,560.00 en los demás documentos.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II. Respecto de la señalada en la fracción II:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-a) De $920.00 a $3,080.00 por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
+a) De $1,040.00 a $3,470.00 por no poner el nombre o domicilio o ponerlos equivocadamente, por cada uno.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-b) De $30.00 a $80.00 por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
+b) De $30.00 a $90.00 por cada dato no asentado o asentado incorrectamente en la relación de clientes y proveedores contenidas en las formas oficiales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-c) De $170.00 a $300.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+c) De $190.00 a $340.00, por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-d) De $620.00 a $1,540.00 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
+d) De $700.00 a $1,730.00 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-e) De $3,780.00 a $12,640.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
+e) De $4,260.00 a $14,230.00, por presentar medios electrónicos que contengan declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-f) De $1,120.00 a $3,350.00, por no presentar firmadas las declaraciones por el contribuyente o por el representante legal debidamente acreditado.
+f) De $1,260.00 a $3,770.00, por no presentar firmadas las declaraciones por el contribuyente o por el representante legal debidamente acreditado.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-g) De $560.00 a $1,520.00, en los demás casos.
+g) De $630.00 a $1,710.00, en los demás casos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-III. De $1,240.00 a $30,850.00, tratándose de la señalada en la fracción III, por cada requerimiento.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IV. De $15,430.00 a $30,850.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de $1,540.00 a $9,250.00.
+III. De $1,400.00 a $34,730.00, tratándose de la señalada en la fracción III, por cada requerimiento.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+IV. De $17,370.00 a $34,730.00, respecto de la señalada en la fracción IV, salvo tratándose de contribuyentes que de conformidad con la Ley del Impuesto sobre la Renta, estén obligados a efectuar pagos provisionales trimestrales o cuatrimestrales, supuestos en los que la multa será de $1,730.00 a $10,410.00.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-V. Para la señalada en la fracción V, la multa será de $10,600.00 a $21,210.00.
+V. Para la señalada en la fracción V, la multa será de $11,930.00 a $23,880.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VI. Para la señalada en la fracción VI la multa será de $3,080.00 a $9,250.00.
+VI. Para la señalada en la fracción VI la multa será de $3,470.00 a $10,410.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-VII. De $760.00 a $7,780.00, para la establecida en la fracción VII.
+VII. De $860.00 a $8,760.00, para la establecida en la fracción VII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VIII. Para la señalada en la fracción VIII, la multa será de $58,540.00 a $175,610.00.
+VIII. Para la señalada en la fracción VIII, la multa será de $65,910.00 a $197,720.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IX. De $9,250.00 a $30,850.00 para la establecida en la fracción IX.
+IX. De $10,410.00 a $34,730.00 para la establecida en la fracción IX.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4158,29 +4158,29 @@ X. De $9,830.00 a $18,420.00, para la establecida en la fracción X.
 
 XI. De $115,030.00 a $153,380.00, para la establecida en la fracción XI, por cada sociedad integrada no incluida en la solicitud de autorización para determinar el resultado fiscal integrado o no incorporada al régimen opcional para grupos de sociedades.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XII. De $40,110.00 a $61,730.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
+XII. De $45,160.00 a $69,500.00, para la establecida en la fracción XII, por cada aviso de incorporación o desincorporación no presentado o presentado extemporáneamente, aun cuando el aviso se presente en forma espontánea.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XIII. De $9,250.00 a $30,850.00, para la establecida en la fracción XIII.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XIV. De $9,250.00 a $21,590.00, para la establecida en la fracción XIV.
+XIII. De $10,410.00 a $34,730.00, para la establecida en la fracción XIII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XV. De $77,160.00 a $154,300.00, para la establecida en la fracción XV.
+XIV. De $10,410.00 a $24,310.00, para la establecida en la fracción XIV.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+XV. De $86,870.00 a $173,730.00, para la establecida en la fracción XV.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4188,55 +4188,55 @@ XV. De $77,160.00 a $154,300.00, para la establecida en la fracción XV.
 
 XVI. De $10,910.00 a $21,820.00, a la establecida en la fracción XVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-XVII. De $68,590.00 a $137,190.00, para la establecida en la fracción XVII.
+XVII. De $77,230.00 a $154,460.00, para la establecida en la fracción XVII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-XVIII. De $8,750.00 a $14,570.00, para la establecida en la fracción XVIII.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XIX. De $14,570.00 a $29,160.00, para la establecida en la fracción XIX.
+XVIII. De $9,850.00 a $16,400.00, para la establecida en la fracción XVIII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-XX. De $4,670.00 a $9,340.00 para la establecida en la fracción XX.
+XIX. De $16,400.00 a $32,830.00, para la establecida en la fracción XIX.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XXI. De $111,610.00 a $223,240.00, para la establecida en la fracción XXI.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-XXII. De $4,670.00 a $9,340.00, por cada informe no proporcionado a los contribuyentes, para la establecida en la fracción XXII.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-XXIII. De $13,390.00 a $24,550.00, a la establecida en la fracción XXIII.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-XXIV. De $4,670.00 a $9,340.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
+XX. De $5,260.00 a $10,520.00 para la establecida en la fracción XX.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-XXV. De $31,120.00 a $54,470.00 para la establecida en la fracción XXV. En el caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XXI. De $125,660.00 a $251,350.00, para la establecida en la fracción XXI.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+
+XXII. De $5,260.00 a $10,520.00, por cada informe no proporcionado a los contribuyentes, para la establecida en la fracción XXII.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+
+XXIII. De $15,080.00 a $27,640.00, a la establecida en la fracción XXIII.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
+
+XXIV. De $5,260.00 a $10,520.00, por cada constancia no proporcionada, para la establecida en la fracción XXIV.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+
+XXV. De $35,040.00 a $61,330.00 para la establecida en la fracción XXV. En el caso de reincidencia, la sanción consistirá en la clausura del establecimiento del contribuyente, por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4244,45 +4244,45 @@ XXV. De $31,120.00 a $54,470.00 para la establecida en la fracción XXV. En el c
 
 XXVI. De $10,370.00 a $20,740.00, a la establecida en la fracción XXVI. En caso de reincidencia la multa aumentará al 100% por cada nuevo incumplimiento.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XXVII. De $10,600.00 a $21,210.00 a la establecida en la fracción XXVII.
+XXVII. De $11,930.00 a $23,880.00 a la establecida en la fracción XXVII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
-
-XXVIII. De $640.00 a $970.00, a la establecida en la fracción XXVIII.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XXIX. De $42,950.00 a $214,760.00, a la establecida en la fracción XXIX. En caso de reincidencia la multa será de $85,900.00 a $429,520.00, por cada requerimiento que se formule.
+XXVIII. De $720.00 a $1,090.00, a la establecida en la fracción XXVIII.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
-
-XXX. De $140,540.00 a $200,090.00, a la establecida en la fracción XXX.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
 
-XXXI. De $140,540.00 a $200,090.00, a la establecida en la fracción XXXI.
+XXIX. De $48,360.00 a $241,800.00, a la establecida en la fracción XXIX. En caso de reincidencia la multa será de $96,710.00 a $483,600.00, por cada requerimiento que se formule.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+
+> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+
+XXX. De $158,230.00 a $225,280.00, a la establecida en la fracción XXX.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+
+> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 2006)</small>
+
+XXXI. De $158,230.00 a $225,280.00, a la establecida en la fracción XXXI.
 
 XXXII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
 XXXIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
-XXXIV. De $18,610.00 a $31,010.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
+XXXIV. De $20,500.00 a $34,160.00 por cada solicitud no atendida, para la señalada en la fracción XXXIV.
 
 XXXV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
@@ -4292,17 +4292,17 @@ XXXV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
 XXXVI. De $80,000.00 a $100,000.00 a la establecida en las fracciones XXXVI, XXXVII, XXXVIII, XLII y XLIV, y, en su caso, la cancelación de la autorización para recibir donativos deducibles.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-XXXVII. De $140,540.00 a $200,090.00, para la establecida en la fracción XL.
+XXXVII. De $154,800.00 a $220,400.00, para la establecida en la fracción XL.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-XXXVIII. Respecto de las señaladas en la fracción XLI de $5,000.00 a $15,000.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
+XXXVIII. Respecto de las señaladas en la fracción XLI de $5,510.00 a $16,520.00, por no ingresar la información contable a través de la página de Internet del Servicio de Administración Tributaria, como lo prevé el artículo 28, fracción IV del Código, dentro de los plazos establecidos en las disposiciones fiscales estando obligado a ello; ingresarla a través de archivos con alteraciones que impidan su lectura; no ingresarla de conformidad con las reglas de carácter general emitidas para tal efecto, o no cumplir con los requerimientos de información o de documentación formulados por las autoridades fiscales en esta materia.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4384,31 +4384,31 @@ XVIII. No demostrar la existencia de las operaciones amparadas por los comproban
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83, se impondrán las siguientes sanciones:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De $1,350.00 a $13,450.00 a la comprendida en la fracción I.
+I. De $1,520.00 a $15,140.00 a la comprendida en la fracción I.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-II. De $290.00 a $6,720.00 a las establecidas en las fracciones II y III.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. De $290.00 a $5,390.00 a la señalada en la fracción IV.
+II. De $330.00 a $7,570.00 a las establecidas en las fracciones II y III.
+
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+III. De $330.00 a $6,070.00 a la señalada en la fracción IV.
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 IV. Para el supuesto de la fracción VII, las siguientes, según corresponda:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-a) De $13,570.00 a $77,580.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
+a) De $15,280.00 a $87,350.00. En caso de reincidencia, las autoridades fiscales podrán, adicionalmente, clausurar preventivamente el establecimiento del contribuyente por un plazo de tres a quince días; para determinar dicho plazo, se tomará en consideración lo previsto por el artículo 75 de este Código.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4422,11 +4422,11 @@ b) De $1,330.00 a $2,650.00 tratándose de contribuyentes que tributen conforme 
 
 c) De $13,280.00 a $75,890.00 tratándose de contribuyentes que cuenten con la autorización para recibir donativos deducibles a que se refieren los artículos 79, 82, 83 y 84 de la Ley del Impuesto sobre la Renta y 31 y 114 del Reglamento de dicha Ley, según corresponda. En caso de reincidencia, además se revocará la autorización para recibir donativos deducibles.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-V. De $820.00 a $10,750.00 a la señalada en la fracción VI.
+V. De $920.00 a $12,100.00 a la señalada en la fracción VI.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4436,11 +4436,11 @@ VI. De $14,930.00 a $85,350.00, a la señalada en la fracción IX cuando se trat
 
 VII. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-VIII. De $6,170.00 a $30,850.00, a la comprendida en la fracción XIII.
+VIII. De $6,950.00 a $34,730.00, a la comprendida en la fracción XIII.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4452,19 +4452,19 @@ IX. De $12,080.00 a $120,760.00 a la comprendida en la fracción X.
 
 X. De tres a cinco veces el monto o valor señalado en el comprobante fiscal digital por Internet que ampare el donativo, a la comprendida en la fracción XI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-XI. De $600.00 a $11,720.00, a la comprendida en la fracción XII.
+XI. De $680.00 a $13,200.00, a la comprendida en la fracción XII.
 
 XII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-XIII. De $1,550.00 a $4,670.00, a la señalada en la fracción XV, por cada operación no identificada en contabilidad.
+XIII. De $1,750.00 a $5,260.00, a la señalada en la fracción XV, por cada operación no identificada en contabilidad.
 
 XIV. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2013)
 
@@ -4546,43 +4546,43 @@ XIV. No proporcionar la información a que se refiere el artículo 32-E de este 
 
 A quien cometa las infracciones relacionadas con las entidades financieras o sociedades cooperativas de ahorro y préstamo a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-I. De $290.00 a $13,450.00 a la comprendida en la fracción I.
+I. De $330.00 a $15,140.00 a la comprendida en la fracción I.
 
 > <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-III. De $30.00 a $70.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+III. De $30.00 a $80.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-IV. De $446,470.00 a $892,930.00 a la establecida en la fracción IV.
+IV. De $502,680.00 a $1,005,350.00 a la establecida en la fracción IV.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-V. De $5,860.00 a $87,790.00 a la establecida en la fracción V.
+V. De $6,600.00 a $98,840.00 a la establecida en la fracción V.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-VI. De $22,310.00 a $66,960.00 a la establecida en la fracción VI.
+VI. De $25,120.00 a $75,390.00 a la establecida en la fracción VI.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-VII. De $80.00 a $160.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de $314,280.00 a $628,560.00, por no proporcionar la información, a las señaladas en la fracción VII.
+VII. De $90.00 a $180.00, por cada estado de cuenta no emitido en términos del artículo 32-B de este Código, y de $353,850.00 a $707,700.00, por no proporcionar la información, a las señaladas en la fracción VII.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4620,13 +4620,13 @@ XII. De $5,110.00 a $76,610.00, a la establecida en la fracción XIII.
 
 Son infracciones de los usuarios de los servicios, así como de los cuentahabientes de las instituciones de crédito a que se refiere el último párrafo del artículo 30-A de este Código, la omisión total o parcial de la obligación de proporcionar la información relativa a su nombre, denominación o razón social, domicilio, clave del registro federal de contribuyentes o los datos que se requieran para formar dicha clave o la que la sustituya, que les soliciten los prestadores de servicios y las instituciones de crédito, así como proporcionar datos incorrectos o falsos.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 84-D.
 
-A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $380.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $1,140.00 por cada una de las mismas.
+A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de $430.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de $1,280.00 por cada una de las mismas.
 
 > <small>(REFORMADO, D.O.F. 18 DE JULIO DE 2006)</small>
 
@@ -4634,13 +4634,13 @@ A quien cometa las infracciones a que se refiere el artículo 84-C de este Códi
 
 Se considera infracción en la que pueden incurrir las empresas de factoraje financiero y las sociedades financieras de objeto múltiple en relación a las obligaciones a que se refieren el primero y segundo párrafos del Artículo 32-C de este Código, el no efectuar la notificación de la transmisión de créditos operada en virtud de un contrato de factoraje financiero, o el negarse a recibir dicha notificación.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 84-F.
 
-De $5,860.00 a $58,540.00, a quien cometa la infracción a que se refiere el artículo 84-E.
+De $6,600.00 a $65,910.00, a quien cometa la infracción a que se refiere el artículo 84-E.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -4648,13 +4648,13 @@ De $5,860.00 a $58,540.00, a quien cometa la infracción a que se refiere el art
 
 Se considera infracción en la que pueden incurrir las casas de bolsa, el no proporcionar la información a que se refiere el artículo 58 de la Ley del Impuesto sobre la Renta, respecto de contribuyentes que enajenen acciones con su intermediación.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 84-H.
 
-A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de $4,590.00 a $9,190.00 por cada informe no proporcionado.
+A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G de este Código se le impondrá una multa de $5,060.00 a $10,120.00 por cada informe no proporcionado.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -4662,13 +4662,13 @@ A la casa de bolsa que cometa la infracción a que se refiere el artículo 84-G 
 
 Se considera infracción en la que pueden incurrir las personas que emitan tarjetas de crédito, de débito, de servicio o las denominadas monederos electrónicos autorizadas por el Servicio de Administración Tributaria, en relación con las obligaciones a que se refiere el artículo 32-E de este Código, el no expedir los estados de cuenta cumpliendo con lo previsto en las disposiciones aplicables.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 84-J.
 
-A las personas morales que cometan la infracción a que se refiere el artículo 84-I de este Código, se les impondrá una multa de $80.00 a $160.00 por cada estado de cuenta no emitido en términos del artículo 32-E de este Código.
+A las personas morales que cometan la infracción a que se refiere el artículo 84-I de este Código, se les impondrá una multa de $90.00 a $180.00 por cada estado de cuenta no emitido en términos del artículo 32-E de este Código.
 
 > <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2009)</small>
 
@@ -4676,13 +4676,13 @@ A las personas morales que cometan la infracción a que se refiere el artículo 
 
 Se considera infracción en la que pueden incurrir las personas morales a que se refiere el artículo 84-I de este Código, el no proporcionar al Servicio de Administración Tributaria la información contenida en los estados de cuenta, a que se refiere el artículo 32-E de este Código.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 84-L.
 
-A las personas morales a que se refiere el artículo 84-I de este Código, que cometan la infracción a que se refiere el artículo 84-K de este Código se les impondrá una multa de $314,280.00 a $628,560.00, por no proporcionar la información del estado de cuenta que se haya requerido.
+A las personas morales a que se refiere el artículo 84-I de este Código, que cometan la infracción a que se refiere el artículo 84-K de este Código se les impondrá una multa de $353,850.00 a $707,700.00, por no proporcionar la información del estado de cuenta que se haya requerido.
 
 ###### Artículo 85.
 
@@ -4710,35 +4710,35 @@ V. Declarar falsamente que cumplen los requisitos que se señalan en el artícul
 
 A quien comenta (sic) las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-I. De $15,430.00 a $46,290.00 a la comprendida en la fracción I.
+I. De $17,370.00 a $52,120.00 a la comprendida en la fracción I.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $1,350.00 a $55,710.00 la establecida en la fracción II.
+II. De $1,520.00 a $62,720.00 la establecida en la fracción II.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-III. De $2,920.00 a $73,180.00, a la establecida en la fracción III.
+III. De $3,290.00 a $82,390.00, a la establecida en la fracción III.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-IV. De $117,940.00 a $157,250.00, a la comprendida en la fracción IV.
+IV. De $132,790.00 a $177,050.00, a la comprendida en la fracción IV.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-V. De $6,690.00 a $11,150.00 sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción V.
+V. De $7,530.00 a $12,550.00 sin perjuicio de las demás sanciones que procedan, a la establecida en la fracción V.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -4778,11 +4778,11 @@ A quienes cometan las infracciones señaladas en el artículo 86-A de este Códi
 
 I. De $50.00 a $110.00, a la comprendida en la fracción I, por cada marbete o precinto no adherido, o bien, por cada marbete o precinto falso o alterado.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-II. De $30.00 a $110.00 a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
+II. De $30.00 a $120.00 a la comprendida en la fracción II, por cada marbete o precinto usado indebidamente.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4790,11 +4790,11 @@ II. De $30.00 a $110.00 a la comprendida en la fracción II, por cada marbete o 
 
 III. De $20.00 a $50.00, a la comprendida en la fracción III, por cada envase o recipiente que carezca de marbete o precinto, según se trate, o bien por cada marbete o precinto falso o alterado.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2004)</small>
 
-IV. De $30.00 a $100.00 la comprendida en la fracción IV, por cada envase vacío no destruido.
+IV. De $30.00 a $110.00 la comprendida en la fracción IV, por cada envase vacío no destruido.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
 
@@ -4824,13 +4824,13 @@ Son infracciones de los fabricantes, productores o envasadores de bebidas alcoh�
 
 Asimismo, son infracciones de los productores o envasadores de bebidas alcohólicas, no llevar los controles físico o volumétrico a que se refieren las fracciones X y XVI del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios o llevarlos en forma distinta a lo que establecen dichas fracciones.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 86-F.
 
-A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de $43,730.00 a $102,040.00. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+A quienes cometan las infracciones señaladas en el artículo 86-E de este Código, se les impondrá una multa de $49,240.00 a $114,890.00. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
 > <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -4900,13 +4900,13 @@ IV. Divulgar, hacer uso personal o indebido de la información confidencial prop
 
 V. Revelar a terceros, en contravención a lo dispuesto por el artículo 69 de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### Artículo 88.
 
-Se sancionará con una multa de $117,940.00 a $157,250.00 a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
+Se sancionará con una multa de $132,790.00 a $177,050.00 a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87.
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
@@ -4922,23 +4922,23 @@ III. Ser cómplice en cualquier forma no prevista, en la comisión de infraccion
 
 No se incurrirá en la infracción a que se refiere la fracción primera de este artículo, cuando se manifieste en la opinión que se otorgue por escrito que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código o bien manifiesten también por escrito al contribuyente que su asesoría puede ser contraria a la interpretación de las autoridades fiscales.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 90.
 
-Se sancionará con una multa de $49,210.00 a $77,350.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
+Se sancionará con una multa de $54,200.00 a $85,200.00, a quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 89 de este Código.
 
 En los supuestos señalados en la fracción I del artículo citado, se considerará como agravante que la asesoría, el consejo o la prestación de servicios sea diversa a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código. En este caso, la multa se aumentará de un 10% a un 20% del monto de la contribución omitida, sin que dicho aumento exceda del doble de los honorarios cobrados por la asesoría, el consejo o la prestación de servicios.
 
 No se incurrirá en la agravante a que se refiere el párrafo anterior, cuando se manifieste en la opinión que se otorgue por escrito que el criterio contenido en ella es diverso a los criterios dados a conocer por las autoridades fiscales en los términos del inciso h) de la fracción I del artículo 33 de este Código.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 ###### Artículo 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $290.00 a $2,820.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $330.00 a $3,180.00.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -5114,11 +5114,11 @@ III. De importación o exportación prohibida.
 
 También comete delito de contrabando quien interne mercancías extranjeras procedentes de las zonas libres al resto del país en cualquiera de los casos anteriores, así como quien las extraiga de los recintos fiscales o fiscalizados sin que le hayan sido entregadas legalmente por las autoridades o por las personas autorizadas para ello.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZAD [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2004)</small>
 
-No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de $155,610.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
+No se formulará la declaratoria a que se refiere el artículo 92, fracción II, si el monto de la omisión no excede de $175,200.00 o del diez por ciento de los impuestos causados, el que resulte mayor. Tampoco se formulará la citada declaratoria si el monto de la omisión no excede del cincuenta y cinco por ciento de los impuestos que deban cubrirse cuando la misma se deba a inexacta clasificación arancelaria por diferencia de criterio en la interpretación de las tarifas contenidas en las leyes de los impuestos generales de importación o exportación, siempre que la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -5206,17 +5206,17 @@ No se formulará declaratoria de perjuicio, a que se refiere la fracción II del
 
 El delito de contrabando se sancionará con pena de prisión:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta $1,104,530.00 respectivamente o, en su caso, la suma de ambas es de hasta $1,656,780.00.
+I. De tres meses a cinco años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, es de hasta $1,243,590.00 respectivamente o, en su caso, la suma de ambas es de hasta $1,865,370.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de $1,104,530.00, respectivamente o, en su caso, la suma de ambas excede de $1,656,780.00.
+II. De tres a nueve años, si el monto de las contribuciones o de las cuotas compensatorias omitidas, excede de $1,243,590.00, respectivamente o, en su caso, la suma de ambas excede de $1,865,370.00.
 
 > <small>(REFORMADA D.O.F. 5 DE ENERO DE 2004)</small>
 
@@ -5374,17 +5374,17 @@ El delito de defraudación fiscal y el delito previsto en el artículo 400 Bis d
 
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $1,540,350.00.
+I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda de $1,734,280.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de $1,540,350.00 pero no de $2,310,520.00.
+II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda de $1,734,280.00 pero no de $2,601,410.00.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS [REPUBLICADAS] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
-III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de $2,310,520.00.
+III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor de $2,601,410.00.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -5526,13 +5526,13 @@ VII. No cuente con los controles volumétricos de gasolina, diésel, gas natural
 
 No se formulará querella, si quien encontrándose en los supuestos anteriores subsana la omisión o el ilícito antes de que la autoridad fiscal lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 112.
 
-Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $137,770.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco federal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $155,120.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -5578,13 +5578,13 @@ Se aumentará la sanción hasta por una mitad más de la que resulte aplicable, 
 
 Se impondrá sanción de uno a seis años de prisión, al servidor público que revele a terceros, en contravención a lo dispuesto por el artículo 69 de este Código, la información que las instituciones que componen el sistema financiero hayan proporcionado a las autoridades fiscales.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 115.
 
-Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de $59,040.00; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión, al que se apodere de mercancías que se encuentren en recinto fiscal o fiscalizado, si el valor de lo robado no excede de $66,470.00; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 La misma pena se impondrá a quien dolosamente destruya o deteriore dichas mercancías.
 
@@ -6490,17 +6490,17 @@ II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $380.00 se cobrará esta cantidad en vez del 2% del crédito.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $430.00 se cobrará esta cantidad en vez del 2% del crédito.
 
-> <small>[N. DE E. CANTIDAD ACTUALIZADA [REPUBLICADA] MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 16 DE MAYO DE 2017.]</small>
+> <small>[N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 5 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, D.O.F. DEL 29 DE DICIEMBRE DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de $59,540.00.
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de $67,040.00.
 
 > <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -9275,5 +9275,9 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Las erogaciones que, en su caso, se requieran para cumplir con el presente Decreto, serán cubiertas con cargo al presupuesto aprobado para dicho fin en el ejercicio fiscal correspondiente.
 
 D.O.F. 16 DE MAYO DE 2017.
+
+> <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 29 DE DICIEMBRE DE 2017.
 
 > <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
