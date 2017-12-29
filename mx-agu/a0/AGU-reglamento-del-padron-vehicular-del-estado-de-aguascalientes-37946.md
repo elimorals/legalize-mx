@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-padron-vehicular-del-estado-de-aguascalientes-37
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-01"
-last_updated: "2016-01-04"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL PADRÓN VEHICULAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de marzo de 2004.
 
@@ -89,11 +89,13 @@ XV. Papel membretado: en el que consta impreso, el nombre, domicilio, teléfonos
 
 La Secretaría llevara el registro de los vehículos en el Padrón, basándose en los datos que proporcionen, de conformidad con este Reglamento, los interesados y en los que la propia Secretaría obtenga por cualquier otro medio debiendo informar en este último caso tal situación al interesado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 3o.
 
-Al efectuar los trámites a que se refiere el Artículo 36 de la Ley de Hacienda del Estado, excepto en los casos de cambio de domicilio y baja, el interesado, presentará ante la Secretaría su identificación, la Constancia de Registro y la solicitud o Formato de Control Vehicular correspondiente firmado autógrafamente, salvo en los casos en los que el solicitante no sepa o no pueda firmar, caso en el que estampará su huella digital.
+Al efectuar los trámites a que se refiere el Artículo 36 de la Ley de Hacienda del Estado, excepto en los casos de cambio de domicilio y baja, el interesado, presentará ante la Secretaría su identificación, su Clave Única de Registro de Población (CURP), la Constancia de Registro y la solicitud o Formato de Control Vehicular correspondiente firmado autógrafamente, salvo en los casos en los que el solicitante no sepa o no pueda firmar, caso en el que estampará su huella digital.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 El refrendo del registro a que se refieren los artículos 35 fracción II, 36 séptimo párrafo y 36 F, fracción VI, de la Ley de Hacienda del Estado, consiste en la obligación que tienen los usuarios o tenedores de vehículos inscritos en el Padrón Vehicular del Estado, de acudir ante la Secretaría o lugares autorizados por ésta, en el plazo para ello establecido con el fin de manifestar que el vehículo porta placas de circulación vigentes del Estado, situación actual del vehículo tanto legal como física.
 
@@ -175,9 +177,9 @@ b) Para placas de Auto Antiguo, la certificación de sus condiciones físico mec
 
 Para los efectos del último párrafo del Artículo 7° de este Reglamento, se deberá anexar a la solicitud el contrato respectivo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Además de los requisitos anteriores, los vehículos de procedencia extranjera distintos de los importados por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos, que acrediten la legal estancia en el país, así como en los casos que el propietario solicite placas de Auto Antiguo, y los que al solicitar cambio de propietario o baja por venta entreguen Acta Informativa levantada ante la Procuraduría General de Justicia del Estado de Aguascalientes, por el extravío de una o ambas placas de circulación, deberán ser presentados ante la Secretaría para proceder a la toma de calcas respectivas.
+Además de los requisitos anteriores, los vehículos de procedencia extranjera distintos de los importados por el fabricante, ensamblador, distribuidor o comerciante en el ramo de vehículos, que acrediten la legal estancia en el país, así como en los casos que el propietario solicite placas de Auto Antiguo, y los que al solicitar cambio de propietario o baja por venta entreguen Acta Informativa levantada ante la Fiscalía General del Estado de Aguascalientes, por el extravío de una o ambas placas de circulación, deberán ser presentados ante la Secretaría para proceder a la toma de calcas respectivas.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
@@ -199,9 +201,9 @@ I. Presentar el documento en el que conste el otorgamiento de la concesión al i
 
 II. Comprobar que se encuentra al corriente en el pago de los derechos relativos a la concesión de que se trate.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-III. Presentar dentro de los 15 días hábiles siguientes a su expedición el oficio de autorización de uso del vehículo en el servicio público y la ficha de revisión física correspondiente expedidos por las autoridades competentes,
+III. Presentar dentro de los 15 días hábiles siguientes a su expedición el oficio de autorización de uso del vehículo en el servicio público expedido por la autoridad competente;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -309,9 +311,19 @@ II. Acreditar en los términos de las disposiciones aplicables del presente Regl
 
 III. Comprobar el no tener adeudos por contribuciones federales y estatales derivadas por la tenencia o uso de dicho vehículo;
 
-IV. Presentar la Constancia de Registro Vehicular o Acta Informativa levantada ante la Procuraduría General de Justicia del Estado de Aguascalientes por su robo o extravío, excepto en los casos en que la Secretaria tome como base la información obtenida en el ejercicio de sus facultades;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Presentar la Constancia de Registro Vehicular o Acta Informativa levantada ante la Fiscalía General del Estado de Aguascalientes por su robo o extravío, excepto en los casos en que la Secretaria tome como base la información obtenida en el ejercicio de sus facultades;
 
 V. Entregar las placas o Acta Informativa por su robo o extravío.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VI. Para los vehículos destinados a la prestación del servicio público de transporte local, se deberá presentar adicionalmente dentro de los 15 días hábiles siguientes a su expedición, el oficio de autorización girado por la autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. Comprobar estar al corriente en el cumplimiento de sus obligaciones fiscales.
 
 ## TITULO IV. DE LOS TRAMITES
 
@@ -389,11 +401,11 @@ Tratándose de vehículos por los cuales el interesado solicite su inscripción 
 
 Cuando la documentación comprobatoria proceda de otra Entidad Federativa, a efecto de comprobar su veracidad, la Secretaría solicitará a la autoridad recaudatoria correspondiente la autentificación de la misma, por lo que en tanto no se ratifique su validez no se atenderá el trámite solicitado, excepto en los casos en que el interesado, acepte expresamente responder solidariamente del impuesto federal que no se hubiere cubierto en cuyo caso la Secretaría autorizará el trámite correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 25.
 
-En los trámites de inscripción, cambio de propietario o de servicio canje y baja de un vehículo en el Padrón, cuando no sea posible regresar una o ambas placas de circulación, el interesado deberá de entregar, en su caso, la placa con la que cuente y, anexar acta informativa en donde conste la manifestación del extravío de la o de las placas, levantada ante la Procuraduría General de Justicia y presentar el vehículo para su verificación física en la Secretaría, salvo en los casos de canje, robo o destrucción, baja administrativa y cuando así lo considere la propia Secretaría.
+En los trámites de inscripción, cambio de propietario o de servicio canje y baja de un vehículo en el Padrón, cuando no sea posible regresar una o ambas placas de circulación, el interesado deberá de entregar, en su caso, la placa con la que cuente y, anexar acta informativa en donde conste la manifestación del extravío de la o de las placas, levantada ante la Fiscalía General del Estado de Aguascalientes y presentar el vehículo para su verificación física en la Secretaría, salvo en los casos de canje, robo o destrucción, baja administrativa y cuando así lo considere la propia Secretaría.
 
 ###### ARTICULO 26.
 
@@ -644,3 +656,11 @@ P.O. 4 DE ENERO DE 2016.
 PRIMERO.- Publíquese la presente reforma, en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- La presente reforma entrarán (sic) en vigor el día siguiente al de su publicación.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL PADRÓN VEHICULAR DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- Publíquese la presente reforma en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente al de su publicación.
