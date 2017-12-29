@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2016-05-11"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -73,19 +73,19 @@ B) DEL PODER JUDICIAL:
 
 Magistrados, Jueces, Secretarios, Actuarios y Comisarios.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 C) DEL PODER EJECUTIVO:
 
-Secretarios, Jefe de Ayudantes, Ayudantes, Coordinadores o Asesores del C. Gobernador, Secretario General de Gobierno, Secretario de Finanzas y Tesorero General del Estado, Procurador General de Justicia, Oficial Mayor de Gobierno, Secretarios de Despacho, Presidente de la Junta de Conciliación y Arbitraje; Vice-Presidente de la Junta Estatal de Agua Potable y Alcantarillado; Presidente del Consejo Tutelar para Menores; Procuradores para la Defensa del Trabajo; Presidentes de Juntas de Conciliación y Arbitraje; Secretarios; Jueces de lo Fiscal; Sub-Secretarios; Sub-Procuradores; Sub-Tesoreros, Contralores; Directores Generales; Directores; Sub-Directores, Coordinadores, Delegados de Finanzas; Oficiales del Registro Civil; así como los Asesores, Coordinadores, Auxiliares Directos de los Titulares mencionados; Defensores de Oficio; Registradores; Agentes y Delegados del Ministerio Público; Médicos Legistas; todo el personal de los servicios Aéreos del Estado; Peritos Dictaminadores; Supervisores; Auditores; Administradores; Inspectores; Conciliadores, y los Representantes del Ejecutivo en Comisiones, Juntas, Fondos, Fideicomisos y Empresas u organismos descentralizados.
+Secretarios, Coordinadores o Asesores del C. Gobernador, Secretario General de Gobierno, Secretario de Finanzas y Tesorero General del Estado, Procurador General de Justicia, Oficial Mayor de Gobierno, Secretarios de Despacho, Presidente de la Junta de Conciliación y Arbitraje; Vicepresidente de la Junta Estatal de Agua Potable y Alcantarillado; Presidente del Consejo Tutelar para menores; Procuradores para la Defensa del Trabajo; Presidentes de Juntas de Conciliación y Arbitraje; Secretarios; Jueces de lo Fiscal; Sub-Secretarios; Sub-Procuradores; Sub-Tesoreros, Contralores; Directores Generales; Directores; Sub-Directores, Coordinadores, Delegados de Finanzas; Oficiales del Registro Civil; Así como los asesores, Coordinadores, Auxiliares Directos de los Titulares mencionados; Defensores de Oficio; Registradores; Agentes y Delegados del Ministerio Publico; Médicos Legistas; todo el personal de los servicios Aéreos del Estado; Peritos Dictaminadores; Auditores, Administradores; Inspectores; Conciliadores; y los Representantes del Ejecutivo en Comisiones, Juntas, Fondos Fideicomiso y Empresas u organismos descentralizados.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-D) DE LOS MUNICIPIOS
+D) DE LOS MUNICIPIOS:
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Los Secretarios, Jefe de Ayudantes, Ayudantes, Auxiliares, Coordinadores o Asesores del C. Presidente Municipal; el Secretario del Ayuntamiento; los Secretarios; el Tesorero; Oficiales Mayores; Oficiales Primeros; Proveedores; Contralores; Sub-Tesoreros; Sub-Proveedores; Directores Generales; Directores; Sub-Directores; Coordinadores; Delegados Municipales; Recaudadores; Jefes y Sub-Jefes; así como los Asesores; Coordinadores y Auxiliares Directos de los Titulares mencionados; Instructores de Artes; Manualidades u oficios; Profesionistas que presten atención médica; Administradores; Actuarios; Comisarios; Peritos Dictaminadores; Supervisores; Auditores; y los Representantes del C. Presidente Municipal en Comisiones, Juntas, Fondos, Fideicomisos y Empresas u organismos descentralizados.
+Los Secretarios, Auxiliares, Coordinadores o Asesores del C. Presidente Municipal; el Secretario del Ayuntamiento; los Secretarios; el Tesorero; Oficiales Mayores; Oficiales Primeros; Proveedores; Contralores; Sub-Tesoreros; Sub-Proveedores; Directores Generales; Directores; Sub-Directores; Coordinadores; Delegados Municipales; Recaudadores; Jefes y Sub-jefes; así como los asesores; Coordinadores y Auxiliares Directos de los Titulares mencionados; Profesionistas que presten atención médica; Administradores; Actuarios; Comisarios; Peritos Dictaminadores; Supervisores; Auditores; y los Representantes del C. Presidente Municipal en Comisiones, Juntas, fondos, Fideicomisos y Empresas u organismos descentralizados.
 
 > <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1981)</small>
 
@@ -95,7 +95,11 @@ Así mismo todos los elementos que laboren en las corporaciones de Seguridad Pú
 
 Y todos aquellos trabajadores del Estado o sus Municipios que ejerzan funciones de Dirección, Vigilancia o Fiscalización. Incluyendo a Inspectores de Comercio, de Piso, de Obras Públicas, de Espectáculos, de Limpia y en general todos los Inspectores de las Dependencias de los mismos.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 1981)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La categoría de trabajador de confianza depende de la naturaleza de las funciones desempeñadas; y no de la designación que se le otorgue al puesto.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 II.- Serán trabajadores de base los no comprendidos o enunciados por su categoría o función en la Fracción anterior. Los de nuevo ingreso serán de base, después de seis meses de servicio.
 
@@ -126,6 +130,10 @@ Los trabajadores Estatales o Municipales, prestarán siempre sus servicios media
 ###### Art. 9o.
 
 Tendrán capacidad legal para aceptar un nombramiento de trabajadores al servicio del Estado o de los Municipios, para recibir el sueldo correspondiente y para ejercer las acciones derivadas de esta Ley, los menores de edad, de uno y otro sexo, que tengan más de dieciséis años.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La ausencia de contrato individual de trabajo o nombramiento por escrito no priva al trabajador de los derechos que deriven de las normas de trabajo y de los servicios prestados; la falta de dicha formalidad es imputable al Estado o Municipio.
 
 ###### Art. 10o.
 
@@ -319,9 +327,9 @@ VIII.- El escalafón así formado, y sus rectificaciones tendrán la publicidad 
 
 IX.- Proporcionar a los trabajadores y funcionarios las facilidades indispensables para obtener habitaciones cómodas e higiénicas, ya sea adquiriéndose en propiedad o mediante el arrendamiento de las mismas, cobrándoseles rentas moderadas que no excederán del medio por ciento mensual del valor catastral de las fincas.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-X.- Proporcionar a los trabajadores al Servicio del Estado y sus familiares y a los trabajadores al servicio de los Municipios y sus familiares, servicios médicos y de medicinas, directamente o a través de las instituciones que se determinen.
+X.- Proporcionar a los trabajadores al Servicio del Estado y sus familiares y a los trabajadores al servicio de los Municipios y sus familiares, servicios médicos hospitalarios y de medicinas, directamente a través de instituciones públicas de salud o mediante servicios subrogados de instituciones privadas.
 
 XI.- Cubrir las indemnizaciones por separación injustificada por los accidentes que sufran los trabajadores con motivo del trabajo o a consecuencia de él, y por las enfermedades profesionales que contraigan en el trabajo o en el ejercicio de la profesión que desempeñen.
 
@@ -639,6 +647,10 @@ III.- A los que tengan de 5 a 10 años de servicio hasta 45 días con goce de su
 
 IV.- A los que tengan de diez años en adelante hasta 60 días con goce de sueldo íntegro, hasta 60 días más con medio sueldo, y hasta 120 días más sin sueldo. Los cómputos deberán hacerse por servicios continuados, o cuando, de existir una interrupción en la prestación de dichos servicios ésta no sea mayor de seis meses. Podrán gozar de la franquicia señalada de manera continua o discontinua una sola vez cada año contado a partir del momento en que tomaron su puesto.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. Las pensiones otorgadas por invalidez, cesantía, jubilación o antigüedad a los trabajadores el (sic) servicio del Estado o Municipios serán definitivas y por ningún motivo podrán ser revocadas, salvo por la muerte del trabajador.
+
 ## TITULO QUINTO. De las Prescripciones
 
 ### CAPITULO UNICO
@@ -647,9 +659,11 @@ IV.- A los que tengan de diez años en adelante hasta 60 días con goce de sueld
 
 Las acciones que nazcan de esta Ley, del nombramiento otorgado en favor de los trabajadores al servicio del Estado o de los Municipios, y de los acuerdos que fijen las condiciones generales de trabajo, prescribirán en un año, con excepción de los casos previstos en los Artículos siguientes.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 79o.
 
-Prescribirán en un mes:
+Prescribirán en dos meses:
 
 I.- Las acciones para pedir la nulidad de la aceptación de un nombramiento hecho por error, y la nulidad de un nombramiento expedido en contra de lo dispuesto en esta Ley, contando el término a partir del momento en que el error sea conocido.
 
@@ -735,6 +749,14 @@ El Tribunal contará con un Secretario General, que será empleado de confianza 
 
 Los gastos que origine el funcionamiento del Tribunal de Arbitraje, serán cubiertos por el Estado, o por el Ayuntamiento en su caso, consignándose la planta de empleados en el Presupuesto de Egresos del mismo.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Art. 90o BIS.- El Estado o Municipios no podrán intervenir en el funcionamiento de sus respectivos Tribunales de Arbitraje, dado a que estos son autónomos y su ejercicio se encuentra debidamente establecido en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Art. 90o BIS I.- En los Municipios cuya capacidad presupuestal no permita la integración del Tribunal de Arbitraje o este no se encuentre debidamente constituido los asuntos de su competencia se dirimirán ante el Tribunal de Arbitraje del Estado, conforme a los términos establecidos en el artículo 91 de la presente Ley.
+
 ### CAPITULO SEGUNDO. De la competencia del Tribunal
 
 ###### Art. 91o.
@@ -773,9 +795,11 @@ IV.- Una relación detallada de los hechos, y
 
 V.- La indicación del lugar en que puedan obtenerse las pruebas que el demandante no pudiere aportar directamente y que tengan por objeto la verificación de los hechos en que se funde la demanda y las diligencias que con el mismo fin se solicite que sean practicadas por el Tribunal. A la demanda se acompañarán las pruebas de que disponga el demandante y los documentos que acrediten la personalidad del representante en caso de que aquel no pudiere concurrir personalmente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Art. 94o.
 
-La contestación de la demanda deberá reunir los mismos requisitos que ésta y será presentada en un término que no exceda de tres días contados a partir de la fecha en que aquella fuera notificada.
+La contestación de la demanda deberá reunir los mismos requisitos que ésta y será presentada en un término que no exceda de seis días hábiles contados a partir de la fecha en que aquella fuera notificada.
 
 ###### Art. 95o.
 
@@ -976,5 +1000,11 @@ P.O. 2 DE DICIEMBRE DE 2015.
 P.O. 11 DE MAYO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 105. SE REFORMAN POR MODIFICACIÓN EL ARTÍCULO 84 DE LA LEY DE SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 313. SE REFORMA EL INCISO C); PRIMER PÁRRAFO Y ADICIÓN DE UN CUARTO PÁRRAFO AL INCISO D) DE LA FRACCIÓN I, Y LA FRACCIÓN II DEL ARTÍCULO 4; ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 9; FRACCIÓN X DEL ARTÍCULO 36; ADICIÓN DE UNA FRACCIÓN V AL ARTÍCULO 77; ARTÍCULO 79; ADICIÓN DE LOS ARTÍCULOS 90 BIS Y 90 BIS I, Y EL ARTÍCULO 94, DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
