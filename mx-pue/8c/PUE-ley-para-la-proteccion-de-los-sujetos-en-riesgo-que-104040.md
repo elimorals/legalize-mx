@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-de-los-sujetos-en-riesgo-que-104040"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-27"
-last_updated: "2014-11-27"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DE LOS SUJETOS EN RIESGO QUE INTERVIENEN EN UN PROCEDIMIENTO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Séptima Sección de Periódico Oficial del Estado de Puebla, el jueves 27 de noviembre de 2014.
 
@@ -505,7 +505,9 @@ Cuando se advierta falsedad en la información proporcionada por la persona prot
 
 Desacato de la medida de protección ordenada.
 
-Aquellas autoridades de carácter administrativo, judicial de cualquier naturaleza y que tenga la obligación de colaboración en términos de la presente Ley, y que sin tener causa justificada omita en forma dolosa o culposa cumplir con las medidas de protección determinadas por la autoridad competente se les sancionará con prisión de tres a ocho años y multa de quinientos a mil quinientos días de salario mínimo; además la servidora o servidor público será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Aquellas autoridades de carácter administrativo, judicial de cualquier naturaleza y que tenga la obligación de colaboración en términos de la presente Ley, y que sin tener causa justificada omita en forma dolosa o culposa cumplir con las medidas de protección determinadas por la autoridad competente se les sancionará con prisión de tres a ocho años y multa del equivalente a la cantidad de quinientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización calculadas; además la servidora o servidor público será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 Si con ocasión de la omisión de cumplimiento de la medida de protección, la persona en riesgo sufriere un daño o lesión en su integridad, libertad o bienes materiales, la pena se incrementará en una mitad.
 
@@ -538,3 +540,13 @@ CUARTO.- Las autoridades judiciales, el Ministerio Público y las instituciones 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de noviembre de dos mil catorce. Diputada Presidenta.- MARÍA SARA CAMELIA CHILACA MARTÍNEZ.- Rúbrica.- Diputado Vicepresidente.- CIRILO SALAS HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- FRANCISCO MOTA QUIROZ.- Rúbrica.- Diputado Secretario.- JOSÉ CHEDRAUI BUDIB.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintisiete días del mes de noviembre de dos mil catorce. El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
