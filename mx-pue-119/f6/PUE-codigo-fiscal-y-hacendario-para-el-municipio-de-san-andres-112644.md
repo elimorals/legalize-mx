@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-hacendario-para-el-municipio-de-san-andres-1126
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-31"
-last_updated: "2016-12-30"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO FISCAL Y HACENDARIO PARA EL MUNICIPIO DE SAN ANDRÉS CHOLULA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Código publicado en la Trigésima Sección del Periódico Oficial del Estado de Puebla, el jueves 31 de diciembre de 2015.
 
@@ -1725,9 +1725,21 @@ Son sujetos de este impuesto, las personas físicas, jurídicas o unidades econ�
 
 Es base gravable de este impuesto:
 
-I. El importe total de los boletos o billetes de participación vendidos; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II. El importe total del premio obtenido, si éste consiste en una cantidad determinada de dinero.
+l. El importe total de los boletos o billetes de participación vendidos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. El importe total del premio obtenido, si éste consiste en una cantidad determinada de dinero;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III. Respecto de los lugares donde esporádicamente se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y toda clase de apuestas permitidas, realizadas a través de máquinas o mesas de juego, este impuesto se causará y se pagará por día conforme lo establecido en la Ley de Ingresos vigente, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Tratándose de establecimientos denominados centros de apuestas remotas y salas de sorteos de números o símbolos y centros de entretenimiento con venta de bebidas alcohólicas, donde se realicen apuestas permitidas a través de máquinas o mesas de juego, o unidad de apuesta, este impuesto se causará y pagará por cada una de éstas, por día, conforme lo establecido en la Ley de Ingresos vigente.
 
 Si los premios consisten en bienes distintos al dinero, se tendrá como base del impuesto, el valor que señalen a dichos bienes los organizadores.
 
@@ -2736,5 +2748,13 @@ P.O. 30 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL Y HACENDARIO PARA EL MUNICIPIO DE SAN ANDRÉS CHOLULA, PUEBLA".]
 
 PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado de Puebla y entrará en vigor el día primero de enero del año dos mil diecisiete.
+
+SEGUNDO. Se derogan las demás disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I Y II, Y ADICIONA LAS FRACCIONES III Y IV AL ARTÍCULO 166 DEL CÓDIGO FISCAL Y HACENDARIO PARA EL MUNICIPIO DE SAN ANDRÉS CHOLULA".]
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado de Puebla y entrará en vigor el día primero de enero del año dos mil dieciocho.
 
 SEGUNDO. Se derogan las demás disposiciones que se opongan al presente Decreto.
