@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2017-09-14"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -2821,17 +2821,23 @@ La Comisión de Gobernación y Puntos Constitucionales conocerá de las quejas o
 
 Las sanciones a servidores públicos del Congreso por responsabilidad administrativa, serán las establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
 
-## TÍTULO DÉCIMO. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS, FINANCIERAS Y SOCIOECONÓMICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+## TÍTULO DÉCIMO. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS, FINANCIERAS Y SOCIOECONÓMICAS “GILBERTO BOSQUES SALDÍVAR”
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 225.
 
-El Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas del Congreso del Estado, es Órgano Técnico Administrativo encargado de la investigación y análisis de temas de carácter jurídico, político, histórico, social, financiero y económico; mismo que estará a cargo por un Director General.
+El Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas "Gilberto Bosques Saldívar" del Congreso del Estado, es Órgano Técnico Administrativo encargado de la investigación y análisis de temas de carácter jurídico, político, histórico, social, financiero y económico; mismo que estará a cargo por un Director General.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 226.
 
-El Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, además de las atribuciones que le otorga la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, tendrá las siguientes:
+El IILFS “Gilberto Bosques Saldívar”, además de las atribuciones que le otorga la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla, tendrá las siguientes:
 
 I.- Establecer vínculos de manera permanente con los Órganos Legislativos y Técnico Administrativos con el fin de cumplir con las obligaciones encomendadas;
 
@@ -2845,15 +2851,19 @@ V.- Coadyuvar con la Dirección General de Asuntos Jurídicos, de Estudios y de 
 
 VI.- Las demás que le confiera la Junta de Gobierno y Coordinación Política.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 227.
 
-El Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas del Congreso del Estado, para el ejercicio de sus funciones y el despacho de los asuntos que le competen contará con las Coordinaciones siguientes:
+El IILFS "Gilberto Bosques Saldívar", para el ejercicio de sus funciones y el despacho de los asuntos que le competen contará con las Coordinaciones siguientes:
 
 I.- De Estudios Sociales y Legislativos; y
 
 II.- De Estudios Financieros y Económicos.
 
-El Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas del Congreso del Estado, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+El IILFS “Gilberto Bosques Saldívar”, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
 
 ###### ARTÍCULO 228.
 
@@ -2885,9 +2895,11 @@ V.- Acudir a las Sesiones de Comisiones y Comités, así como a las reuniones de
 
 VI.- Las demás que le asigne la Junta de Gobierno y Coordinación Política o el Director General.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 230.
 
-El Instituto de de (sic) Investigaciones Legislativas, Financieras y Socioeconómicas del Congreso del Estado, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
+El IILFS “Gilberto Bosques Saldívar”, contará con el número de servidores públicos que sean necesarios para el cumplimiento de sus funciones, de conformidad con los ordenamientos aplicables.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MARZO DE 2016)</small>
 
@@ -3268,3 +3280,11 @@ P.O. 14 DE SEPTIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR VIRTUD DEL CUAL SE REFORMAN Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
