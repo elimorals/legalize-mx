@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2017-11-13"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -131,9 +131,9 @@ XX. Reservas: Las áreas previstas en un programa de desarrollo urbano para el c
 
 XXI. Reserva Ecológica: Área determinada en un programa de desarrollo urbano, dentro de los límites de crecimiento de los centros de población, que establece un adecuado equilibrio entre éste en el territorio y ambiente que circunda;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXII. Secretaría: La Secretaría de Desarrollo Territorial, Urbano y Movilidad;
+XXII. Secretaría: La Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -899,9 +899,9 @@ I. Un Presidente, que será el Gobernador;
 
 II. Los presidentes municipales de los ayuntamientos, en donde se localice la zona conurbada;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-III. Un Secretario Técnico, que será el Secretario de Desarrollo Territorial, Urbano y Movilidad;
+III. Un Secretario Técnico, que será el Secretario de Medio Ambiente, Cambio Climático y Desarrollo Territorial;
 
 IV. Hasta cinco vocales invitados por cada uno de los ayuntamientos involucrados, representantes de los sectores social y privado, de las autoridades auxiliares municipales o funcionarios municipales; y,
 
@@ -2995,7 +2995,7 @@ XXII BIS. ECOTECNIAS: Son técnicas de aprovechamiento sostenible de los recurso
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
 
-XXIII. EQUIPAMIENTO URBANO: El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar en los centros de población, los servicios urbanos; desarrollar las actividades económicas y complementarias a las de habitación y trabajo, o para proporcionar servicios de bienestar social y apoyo a la actividad económica, social, cultural y recreativa; tales como : parques, áreas verdes, servicios educativos, jardines, fuentes, mercados, plazas, explanadas, asistenciales y de salud, transporte, comerciales e instalaciones para protección y confort del individuo. Considerando su cobertura se clasifican en vecinal, barrial, distrital y regional;
+XXIII. EQUIPAMIENTO URBANO: El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar en los centros de población, los servicios urbanos; desarrollar las actividades económicas y complementarias a las de habitación y trabajo, o para proporcionar servicios de bienestar social y apoyo a la actividad económica, social, cultural y recreativa; tales como: parques, áreas verdes, servicios educativos, jardines, fuentes, mercados, plazas, explanadas, asistenciales y de salud, transporte, comerciales e instalaciones para protección y confort del individuo. Considerando su cobertura se clasifican en vecinal, barrial, distrital y regional;
 
 XXIV. Fraccionamiento: La división de un terreno en manzanas y lotes, que requiera del trazo de una o más vialidades, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, conforme a la clasificación de desarrollos previstas en este Código;
 
@@ -3271,11 +3271,9 @@ VI. Que se ubiquen a una distancia de resguardo de 150 metros contados a partir 
 
 VII. El predio propuesto para una estación de servicio deberá garantizar vialidades internas, áreas de servicio público y de almacenamiento, así como los diversos elementos requeridos para su construcción y operación que establecen los manuales de especificaciones técnicas para proyecto y construcción de estaciones de servicio de gasolina y diesel, las Normas Oficiales Mexicanas aplicables y las establecidas por la Secretaría de Energía; y,
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 193 PUBLICADO EN EL P.O. DE 8 DE DICIEMBRE DE 2016, PÁGINA 2.]</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
-
-VIII. Los demás que para el efecto establezcan las Secretarías de Energía, la de Comunicaciones y Transportes y la de Economía Federal, la Secretaría, la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático del Gobierno del Estado de Michoacán, la Junta de Caminos del Estado de Michoacán, las áreas de Protección Civil Estatal y municipales, los programas de desarrollo urbano, los ordenamientos ecológicos, los reglamentos de construcción de cada Municipio en donde se pretendan establecer y demás normatividad aplicable. La expedición de la licencia de uso de suelo no es motivo para dar inicio a construcción, adaptación o modificación de obra, hasta en tanto se obtenga la licencia de construcción correspondiente.
+VIII. Los demás que para el efecto establezcan las Secretarías de Energía, la de Comunicaciones y Transportes y la de Economía Federal, la Secretaría, la Junta de Caminos del Estado de Michoacán, las áreas de Protección Civil Estatal y municipales, los programas de desarrollo urbano, los ordenamientos ecológicos, los reglamentos de construcción de cada Municipio en donde se pretendan establecer y demás normatividad aplicable. La expedición de la licencia de uso de suelo no es motivo para dar inicio a construcción, adaptación o modificación de obra, hasta en tanto se obtenga la licencia de construcción correspondiente.
 
 La expedición de la licencia de uso de suelo no es motivo para dar inicio a construcción, adaptación o modificación de obra, hasta en tanto se obtenga la licencia de construcción correspondiente.
 
@@ -3301,9 +3299,9 @@ b) Una distancia mínima de 50 metros medidos desde las tangentes de los tanques
 
 V. Que se ubiquen a una distancia de resguardo de 150 metros a partir de los límites de propiedad del predio en cuestión de cualquier industria o comercio que emplee productos químicos, soldadura o gas, se dedique a la fundición o utilice fuego o combustión; y,
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VI. Los demás que para el efecto establezcan las Secretarías de Energía, Comunicaciones y Transportes y Economía Federal, la Secretaría, la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático del Gobierno del Estado de Michoacán, la Junta de Caminos del Estado de Michoacán, las áreas de Protección Civil Estatal y municipales, los programas de desarrollo urbano, los ordenamientos ecológicos, los reglamentos de construcción de cada Municipio en donde se pretendan establecer y demás normatividad aplicable.
+VI. Los demás que para el efecto establezcan las Secretarías de Energía, Comunicaciones y Transportes y Economía Federal, la Secretaría, la Junta de Caminos del Estado de Michoacán, las áreas de Protección Civil Estatal y municipales, los programas de desarrollo urbano, los ordenamientos ecológicos, los reglamentos de construcción de cada Municipio en donde se pretendan establecer y demás normatividad aplicable.
 
 La expedición de la licencia de uso de suelo no es motivo para dar inicio a construcción, adaptación o modificación de obra, hasta en tanto se obtenga la licencia de construcción correspondiente.
 
@@ -3567,7 +3565,9 @@ Para los fines que se precisan en este capítulo, la compatibilidad e incompatib
 
 I. FUNCIONES COMPATIBLES. Son aquellas que indistintamente pueden desarrollarse en predios;
 
-II. FUNCIONES DE COMPATIBILIDAD CONDICIONADA. Son aquellas que pueden desarrollarse en predios urbanos, a condición de satisfacer determinados requerimientos establecidos en los diversos reglamentos y normas de observancia y aplicación urbana; preferentemente los señalados en el Sistema Normativo de Equipamiento Urbano de la Secretaría de Desarrollo Social; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. FUNCIONES DE COMPATIBILIDAD CONDICIONADA. Son aquellas que pueden desarrollarse en predios urbanos, a condición de satisfacer determinados requerimientos establecidos en los diversos reglamentos y normas de observancia y aplicación urbana; preferentemente los señalados en el Sistema Normativo de Equipamiento Urbano de la Secretaría de Desarrollo Social y Humano; y,
 
 III. FUNCIONES INCOMPATIBLES. Son aquellas que no pueden desarrollarse en predios, sino que preferentemente se ubicarán en áreas urbanas específicas.
 
@@ -3647,7 +3647,7 @@ Las normas de diseño urbano son las que regulan el proyecto de los Desarrollos 
 
 ###### ARTÍCULO 294.
 
-Cuando en un predio por fraccionar existan obras .o instalaciones de servicio público, el fraccionador evitará la interferencia de sus propias obras o instalaciones con las existentes.
+Cuando en un predio por fraccionar existan obras o instalaciones de servicio público, el fraccionador evitará la interferencia de sus propias obras o instalaciones con las existentes.
 
 En caso de que se cause daño o deterioro a las obras o instalaciones existentes, el fraccionador será responsable de su reparación; para ello, el Ayuntamiento fijará un plazo perentorio, según la naturaleza del daño causado y la urgencia de repararlo, a fin de que la obra conducente quede debidamente ejecutada a tiempo. Si vencido el plazo no se hubiere concluido la reparación; ésta se ejecutará por el Ayuntamiento a cuenta del fraccionador.
 
@@ -4067,9 +4067,9 @@ h) Placas de nomenclatura, señalamientos viales y de tránsito en esquina de vi
 
 i) Caseta de vigilancia.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Este tipo de fraccionamientos deberán ubicarse fuera de los límites del área urbana, siendo factible su establecimiento en las zonas de crecimiento del centro de población. Los Fraccionamientos Habitacionales Suburbanos tipo campestres podrán autorizarse fuera de los límites del centro de población, siempre y cuando cuente con el estudio de impacto ambiental correspondiente sancionado por la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático y en sentido positivo, de conformidad con la normatividad y criterios e indicadores de carácter ambiental.
+Este tipo de fraccionamientos deberán ubicarse fuera de los límites del área urbana, siendo factible su establecimiento en las zonas de crecimiento del centro de población. Los Fraccionamientos Habitacionales Suburbanos tipo campestres podrán autorizarse fuera de los límites del centro de población, siempre y cuando cuente con el estudio de impacto ambiental correspondiente sancionado por la Secretaría y en sentido positivo, de conformidad con la normatividad y criterios e indicadores de carácter ambiental.
 
 En este caso el Ayuntamiento podrá recibir las áreas de donación en especie o determinarle el valor comercial, a efecto de que el propietario lo entere a la Tesorería Municipal correspondiente, cuyo objetivo será la creación de un fideicomiso para la adquisición de reserva territorial municipal.
 
@@ -4087,9 +4087,9 @@ III. Vialidad: las vialidades principales deberán tener como mínimo una anchur
 
 IV. Infraestructura y equipamiento urbano: todo fraccionamiento que sea aprobado dentro de este tipo deberá contar, como mínimo, con las obras de urbanización establecidas en la fracción IV del artículo anterior.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Este tipo de fraccionamientos se deberán ubicar fuera de los límites de las áreas de crecimiento del centro de población. Los Fraccionamientos Habitacionales Suburbanos rústicos tipo granja se podrán autorizar siempre y cuando cuente con el estudio de impacto ambiental correspondiente sancionado por la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, en sentido positivo de conformidad con la normatividad y criterios e indicadores de carácter ambiental.
+Este tipo de fraccionamientos se deberán ubicar fuera de los límites de las áreas de crecimiento del centro de población. Los Fraccionamientos Habitacionales Suburbanos rústicos tipo granja se podrán autorizar siempre y cuando cuente con el estudio de impacto ambiental correspondiente sancionado por la Secretaría, en sentido positivo de conformidad con la normatividad y criterios e indicadores de carácter ambiental.
 
 En este caso el Ayuntamiento podrá recibir las áreas de donación en especie o determinarle el valor comercial, a efecto de que el propietario lo entere a la Tesorería Municipal correspondiente, cuyo objetivo será la creación de un fideicomiso para la adquisición de reserva territorial municipal.
 
@@ -4337,11 +4337,11 @@ De las autorizaciones que se otorguen, la Dependencia Municipal remitirá una co
 
 El Ayuntamiento, cuando el caso así lo requiera, al otorgar autorizaciones para el establecimiento de Desarrollos, fijará con base en los ordenamientos aplicables, las zonas de restricción, que por ser usual en ciertas colonias y poblaciones o por reglamentación, los fraccionadores deban dejar hacia las vías públicas o colindancias.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 342.
 
-Si el área de donación Estatal o Municipal destinada para equipamiento urbano, de cualquier tipo de Desarrollo, con excepción de las destinadas para áreas verdes, fuere menor a una superficie de mil metros cuadrados, podrá determinarse el valor comercial de la misma, a efecto de que el propietario lo pague a la Secretaria de Finanzas o a la Tesorería Municipal correspondiente. Este recurso deberá ser destinado para la creación de un fideicomiso para la adquisición de reserva territorial Estatal o Municipal según corresponda. En la integración y operatividad del fideicomiso se deberá garantizar la participación ciudadana.
+Si el área de donación Estatal o Municipal destinada para equipamiento urbano, de cualquier tipo de Desarrollo, con excepción de las destinadas para áreas verdes, fuere menor a una superficie de mil metros cuadrados, podrá determinarse el valor comercial de la misma, a efecto de que el propietario lo pague a la Secretaría de Finanzas y Administración o a la Tesorería Municipal correspondiente. Este recurso deberá ser destinado para la creación de un fideicomiso para la adquisición de reserva territorial Estatal o Municipal según corresponda. En la integración y operatividad del fideicomiso se deberá garantizar la participación ciudadana.
 
 ###### ARTÍCULO 343.
 
@@ -4415,9 +4415,9 @@ II. Oficios que acrediten la factibilidad de los servicios de energía eléctric
 
 III. Certificado y plano de medición y deslinde catastral expedido por la Dirección de Catastro del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV. Manifestación de impacto ambiental y oficio de la autorización del estudio emitida por la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, y en su caso, estudio de impacto en el entorno;
+IV. Manifestación de impacto ambiental y oficio de la autorización del estudio emitida por la Secretaría, y en su caso, estudio de impacto en el entorno;
 
 V. En caso que el predio por fraccionar colinde o cuente con algún servicio de la federación, estado o municipio, deberá presentar los certificados de no afectación o autorizaciones de concesión de las áreas;
 
@@ -4441,7 +4441,7 @@ a. Las restricciones y condicionantes señaladas en la licencia de uso de suelo;
 
 b. El tipo de Desarrollo o desarrollo en condominio y nombre propuesto, nombre del propietario o propietarios, orientación respecto al norte, escala y escala gráfica y cuadro de uso del suelo;
 
-c. La distribución de lotes, viviendas, departamentos, locales o unidades y .su agrupamiento en manzanas o edificios; la localización de los espacios libres para recreación. El trazo de vialidades, cruceros y entronques deberá atender a la funcionalidad y al servicio que las mismas brindarán, así como la señalización y mobiliario urbano;
+c. La distribución de lotes, viviendas, departamentos, locales o unidades y su agrupamiento en manzanas o edificios; la localización de los espacios libres para recreación. El trazo de vialidades, cruceros y entronques deberá atender a la funcionalidad y al servicio que las mismas brindarán, así como la señalización y mobiliario urbano;
 
 d. Frentes, profundidades de lotes y superficies de cada uno; señalamiento de manzanas, propuesta de ubicación de las áreas de donación conforme al tipo de Desarrollo o desarrollo en condominio especificado en este Código;
 
@@ -5123,9 +5123,9 @@ Los propietarios de predios objeto de subdivisión, estarán exentos de transfer
 
 I. La división de un terreno con superficie hasta de 1,000 metros cuadrados;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II. Las relotificaciones en fraccionamientos habitacionales de cualquier tipo y/o modalidad establecidos que hayan hecho ya las donaciones respectivas, debiendo acreditarlo el interesado mediante copia certificada de la escritura pública debidamente inscrita en el Registro Público de la Propiedad y del Comercio, que demuestre el hecho, o en su caso copia cotejada del comprobante de pago a la Secretaria de Finanzas o la Tesorería Municipal correspondiente;
+II. Las relotificaciones en fraccionamientos habitacionales de cualquier tipo y/o modalidad establecidos que hayan hecho ya las donaciones respectivas, debiendo acreditarlo el interesado mediante copia certificada de la escritura pública debidamente inscrita en el Registro Público de la Propiedad y del Comercio, que demuestre el hecho, o en su caso copia cotejada del comprobante de pago a la Secretaría de Finanzas y Administración o la Tesorería Municipal correspondiente;
 
 III. Las divisiones de terrenos rústicos, cuando todas y cada una de las porciones resultantes queden con una superficie superior a una hectárea; y,
 
@@ -5307,11 +5307,11 @@ VIII. A quienes sin contar con la autorización correspondiente se anuncien o po
 
 En el caso de que los infractores fuesen los Directores Responsables de Obra, se procederá además a la cancelación de su registro del padrón correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 444.
 
-Son infracciones de los Servidores Públicos de la Secretaría, la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático y de los ayuntamientos:
+Son infracciones de los Servidores Públicos de la Secretaría y de los ayuntamientos:
 
 I. Autorizar programas de desarrollo urbano, documentos, contratos o convenios que contravengan lo dispuesto en este Código y los programas de desarrollo urbano del Estado o del Municipio respectivo;
 
@@ -5339,9 +5339,11 @@ II. Aperturar cuentas, desglosar terrenos o asignar números de predio a terreno
 
 III. Inscribir o registrar resoluciones que contravengan este Código, los programas o decretos relativos al desarrollo urbano del estado; o,
 
-IV. Proporcionar informes, datos o documentos relativos a los programas de desarrollo urbano, decretos o resoluciones a que se refiere la fracción anterior, alterados o falsificados.
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 413 PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2017, SE ADVIERTE QUE EL ANTERIOR PÁRRAFO SEGUNDO SE FUSIONÓ CON EL PRIMER PÁRRAFO DE ESTA FRACCIÓN.]</small>
 
-Las infracciones aquí contenidas serán impuestas a los empleados y funcionarios estatales por la Secretaria de la Contraloría y Desarrollo Administrativo del Gobierno del Estado y en el caso de los municipales por las contralorías municipales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Proporcionar informes, datos o documentos relativos a los programas de desarrollo urbano, decretos o resoluciones a que se refiere la fracción anterior, alterados o falsificados. Las infracciones aquí contenidas serán impuestas a los empleados y funcionarios estatales por la Secretaría de la Contraloría y en el caso de los municipales por las contralorías municipales.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -5564,3 +5566,9 @@ TERCERO. El Gobernador del Estado, actualizará en los términos de esta Ley, el
 CUARTO. La Secretaría y los Municipios crearán el Registro de Asentamientos Humanos Irregulares en la Entidad, en un término no mayor a treinta días, a la entrada en vigor de esta reforma. Refiérase para efectos de este transitorio a la Secretaría de Medio Ambiente, Cambio Climático y Desarrollo Territorial.
 
 QUINTO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 413 POR EL QUE “SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 2, LA FRACCIÓN III DEL ARTÍCULO 39, LA FRACCIÓN VIII DEL ARTÍCULO 281 BIS, LA FRACCIÓN VI DEL ARTÍCULO 281 TER, LA FRACCIÓN II DEL ARTÍCULO 288, EL INCISO I) DE LA FRACCIÓN IV DEL ARTÍCULO 321, LA FRACCIÓN IV DEL ARTÍCULO 322, EL ARTÍCULO 342, LA FRACCIÓN IV DEL ARTÍCULO 349, LA FRACCIÓN II DEL ARTÍCULO 428, EL PRIMER PÁRRAFO DEL ARTÍCULO 444 Y LA FRACCIÓN IV DEL ARTÍCULO 446 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
