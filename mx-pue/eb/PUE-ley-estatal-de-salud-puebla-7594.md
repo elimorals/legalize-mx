@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2017-08-11"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -2827,33 +2827,33 @@ IV. La calidad de reincidente del infractor;
 
 V. El beneficio obtenido por el infractor, como resultado de la infracción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-###### Artículo 308.
+###### ARTICULO 308.
 
-Se sancionará con multa hasta 1,000 veces el salario mínimo general diario vigente en el Estado de Puebla, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 133 Bis párrafo segundo, 144, 145, 146, 158, 186, 187, 191, 193, 196, 197, 202, 208, 214, 215, 216, 218, 258, 279 y 280 de esta Ley.
+Se sancionará con multa del equivalente a la cantidad hasta de 1,000 veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 133 Bis párrafo segundo, 144, 145, 146, 158, 186, 187, 191, 193, 196, 197, 202, 208, 214, 215, 216, 218, 258, 279 y 280 de esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+La violación de la disposición contenida en el artículo 89 de esta Ley, se sancionará con multa del equivalente a la cantidad hasta de 100 veces el valor diario de la Unidad de Medida y Actualización.
 
-La violación de la disposición contenida en el artículo 89 de esta Ley, se sancionará con multa equivalente hasta de 100 veces el salario mínimo general diario vigente en la zona económica de que se trate.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 309.
 
-Se sancionará con multa de 1,000 hasta 4,000 veces el salario mínimo general diario vigente en el Estado de Puebla, la violación de las disposiciones contenidas en los artículos 147, 154, 194, 200, 205, 224, 228, 237, 243 y 255 de esta Ley.
+Se sancionará con multa del equivalente a la cantidad de 1000 hasta 4000 veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 147, 154, 194, 200, 205, 224, 228, 237, 243, y 255 de esta Ley.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+La violación a las disposiciones contenidas en los artículos 287 y 301 de esta Ley, se sancionará con multa del equivalente a la cantidad de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 310.
 
-Se sancionará con multa de 4,000 hasta 10,000 veces el salario mínimo general diario vigente en el Estado de Puebla, la violación de las disposiciones contenidas en los artículos 62, 87, 88, 137, 230, 287 y 301 de esta Ley.
+Se sancionará con multa del equivalente a la cantidad de 4,000 hasta 10,000 veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 62, 87, 88, 137, 230, 287 y 301 de esta ley.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 311.
 
-Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por 10,000 veces el salario mínimo general diario vigente en el Estado de Puebla, atendiendo las reglas de calificación que se establecen en el artículo 307 de esta Ley.
+Las infracciones no previstas en este Capítulo serán sancionadas con multa del equivalente a la cantidad hasta de 10,000 veces el valor diario de la Unidad de Medida y Actualización, atendiendo las reglas de calificación que se establecen en el artículo 307 de esta Ley.
 
 ###### ARTICULO 312.
 
@@ -3272,3 +3272,11 @@ P.O. 11 DE AGOSTO DE 2017.
 PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
