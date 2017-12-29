@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proyectos-para-la-prestacion-de-servicios-del-estado-800
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-11"
-last_updated: "2012-09-19"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -873,9 +873,11 @@ Las decisiones que la Contraloría o las Contralorías Municipales tomen en mate
 
 ### CAPÍTULO IX. DE LAS SANCIONES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 74.
 
-Los Licitantes o Inversionistas Proveedores que infrinjan las disposiciones de esta Ley, podrán ser sancionados por la Contraloría o la Contraloría Municipal, con una multa equivalente de cinco mil a veinte mil días de salario mínimo general vigente en el Estado de Puebla, en el momento en que cometan las siguientes infracciones:
+Los Licitantes o Inversionistas Proveedores que infrinjan las disposiciones de esta Ley, podrán ser sancionados por la Contraloría o la Contraloría Municipal, con una multa del equivalente a la cantidad de cinco mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización, calculados en el momento en que cometan las siguientes infracciones:
 
 I.- Proporcionar a la Dependencia o Entidad Pública información falsa o documentación alterada, tanto en los procedimientos de contratación, durante la ejecución del Contrato o en la tramitación de una inconformidad;
 
@@ -1015,9 +1017,11 @@ Para iniciar cualquier procedimiento administrativo o jurisdiccional relativo a 
 
 La falta de garantía no impedirá la continuación del procedimiento. Solamente tendrá efectos en relación con la suspensión que se llegue a solicitar.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 90.
 
-La autoridad jurisdiccional o administrativa que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien la promueva una multa administrativa de cien y hasta dos mil veces el salario mínimo general diario para el Estado de Puebla, vigente en la fecha de promoción de la actuación.
+La autoridad jurisdiccional o administrativa que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien la promueva una multa administrativa del equivalente a la cantidad de cien y hasta dos mil veces el valor diario de la Unidad de Medida y Actualización, calculados en la fecha de promoción de la actuación.
 
 Así mismo, podrá condenar al responsable a pagar a la Convocante y en su caso, a los terceros afectados, los daños y perjuicios que tales conductas ocasionen, con independencia de las demás responsabilidades administrativas, civiles y penales a que haya lugar.
 
@@ -1062,3 +1066,11 @@ P.O. 19 DE SEPTIEMBRE DE 2012.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
