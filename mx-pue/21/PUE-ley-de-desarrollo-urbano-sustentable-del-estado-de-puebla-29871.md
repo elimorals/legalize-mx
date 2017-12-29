@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-urbano-sustentable-del-estado-de-puebla-29871
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2003-03-26"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017 (ABROGADA).
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -2201,7 +2203,7 @@ IX.- La autoridad administrativa podrá decretar para mejor proveer estando facu
 
 X.- Transcurrido el término a que se refiere la fracción VIII de este artículo, se fijará día y hora para una audiencia de recepción de pruebas y alegatos, y concluida se ordenará se pase el expediente para dictar la resolución que corresponda; aplicándose supletoriamente el Código de Procedimientos Civiles del Estado Libre y Soberano de Puebla, en cuanto a las reglas generales de las pruebas y a la valorización de las mismas; y
 
-XI.- En caso de que el recurrente omitiere cumplir alguno de los requisitos a se refieren las fracciones anteriores, la autoridad que conozca del recurso lo requerirá para que un (sic) término de tres días subsane tales omisiones, en caso de no hacerlo se desechará por notoriamente improcedente.
+XI.- En caso de que el recurrente omitiere cumplir alguno de los requisitos a se refieren las fracciones anteriores, la autoridad que conozca del recurso lo requerirá para que (sic) un término de tres días subsane tales omisiones, en caso de no hacerlo se desechará por notoriamente improcedente.
 
 ###### ARTÍCULO 156.
 
@@ -2312,3 +2314,21 @@ Las estructuras orgánicas que pudieren derivar a la entrada en vigor de la pres
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los trece días del mes de marzo de dos mil tres.- Diputado Presidente.- VÍCTOR MANUEL GIORGANA JIMÉNEZ.- Rúbrica.- Diputado Vicepresidente.- CARLOS MANUEL MEZA VIVEROS.- Rúbrica.- Diputada Secretaria.- VERÓNICA SÁNCHEZ AGIS.- Rúbrica.- Diputado Secretario.- JORGE ARNULFO CAMACHO FOGLIA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule, para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los catorce días del mes de marzo del año dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rubrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Desarrollo Urbano Sustentable del Estado de Puebla.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO. Los procedimientos y asuntos que se encuentren en trámite al momento de entrar en vigor la presente Ley, se tramitarán hasta su total resolución conforme a las disposiciones legales vigentes en el momento de su inicio y se resolverán por la instancia que conozca de ellos.
+
+QUINTO. El Reglamento de esta Ley, deberá expedirse dentro de los ciento veinte días siguientes a la publicación de la presente Ley.
+
+SEXTO. Las erogaciones que se deriven de la aplicación de la presente Ley, estarán sujetas a la disponibilidad presupuestal correspondiente.
