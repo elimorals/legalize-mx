@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-antes-ley-de-39636
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2017-12-22"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39636&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2004-05-19"
 ---
 # LEY DE CULTURA CIVICA DE LA CIUDAD DE MEXICO -- ANTES LEY DE CULTURA CIVICA DEL DISTRITO FEDERAL --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO QUE EXPIDE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO Y EL ARTÍCULO TRANSITORIO TERCERO DE DICHA LEY, PUBLICADOS EN LA G.O. DE 29 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 5 DE DICIEMBRE DE 2018.]</small>
+
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Bis de la Gaceta Oficial del Distrito Federal, el lunes 31 de mayo de 2004.
 
@@ -984,7 +986,7 @@ La acción para el inicio del procedimiento es pública y su ejercicio correspon
 
 El policía en servicio detendrá y presentará al probable infractor inmediatamente ante el Juez, en los siguientes casos.
 
-l. Cuando presencien la comisión de la infracción, y
+I. Cuando presencien la comisión de la infracción, y
 
 II. Cuando sean informados de la comisión de una infracción inmediatamente después de que hubiese sido realizada o se encuentre en su poder el objeto o instrumento, huellas o indicios que hagan presumir fundadamente su participación en la infracción.
 
@@ -1706,7 +1708,7 @@ V. Que el entero de las multas impuestas se realice en los términos de esta Ley
 
 VI. Que se exhiba en lugar visible el contenido de los artículos 23, 24, 25, 26 de esta Ley, así como los datos relativos a los lugares de recepción de quejas relacionadas con el despacho de los asuntos que son competencia del Juez;
 
-VII Que el Juzgado cuenta con los elementos humanos y materiales suficientes para prestar el servicio;
+VII. Que el Juzgado cuenta con los elementos humanos y materiales suficientes para prestar el servicio;
 
 VIII. Que los informes a que se refiere esta Ley sean presentados en los términos de la misma, y
 
@@ -1830,7 +1832,7 @@ POR LA MESA DIRECTIVA, DIP. FRANCISCO CHIGUIL FIGUEROA.- PRESIDENTE.- DIP. MA. E
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los diecinueve días del mes de mayo del dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, LIC. MARCELO EBRARD CASAUBON.- FIRMA.- LA SECRETARIA DE SALUD, ASA EBBA CHRISTINA LAURELL.- FIRMA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 G.O. 9 DE JUNIO DE 2006.
 
@@ -2007,3 +2009,17 @@ PRIMERO.- Túrnese al Jefe de Gobierno de la Ciudad de México para su promulgac
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- En tanto no entre en vigor la Unidad de Medida y Actualización se utilizara la Unidad de Cuenta vigente en la Ciudad de México.
+
+G.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DE CULTURA CÍVICA DEL DISTRITO FEDERAL Y SE EXPIDE LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase al Jefe de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+TERCERO.- El presente Decreto entrará en vigor el 5 de diciembre de 2018, de conformidad con lo establecido en el segundo párrafo del Artículo Transitorio Décimo Primero de la Constitución Política de la Ciudad de México, abrogándose en ese momento la Ley de Cultura Cívica de la Ciudad de México, publicada como Ley de Cultura Cívica del Distrito Federal, en la Gaceta Oficial del Distrito Federal el 31 de mayo de 2004.
+
+CUARTO.- Se derogan todas las disposiciones legales que contravengan el presente Decreto.
+
+QUINTO.- En tanto no entre en vigor la Unidad de Medida y Actualización, se utilizará la Unidad de Cuenta vigente en la Ciudad de México.
