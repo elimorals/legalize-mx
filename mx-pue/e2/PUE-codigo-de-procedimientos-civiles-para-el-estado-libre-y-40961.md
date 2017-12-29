@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2016-09-20"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -191,7 +191,9 @@ Sólo las partes o sus abogados patronos podrán comparecer ante los Tribunales 
 
 Cuando se desprenda de actuaciones que los abogados patronos que intervengan en un procedimiento, obraron de mala fe, serán solidariamente responsables con la parte a quien patrocinan, de las multas que le sean impuestas por la realización de fraude legal o procesal, colusión, simulación y cualquier otra conducta ilícita o que tienda a entorpecer el procedimiento o sea contraria a la buena fe y a la lealtad procesal en los términos que previene la presente Ley. También lo serán por las responsabilidades en que incurran los pasantes de derecho, que actúan bajo su tutela.
 
-Las multas que se impongan conforme a este Código, se cuantificarán siempre en días de salario mínimo general, para la zona económica.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Las multas que se impongan conforme a este Código se cuantificarán siempre sobre el equivalente al valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2007)</small>
 
@@ -311,7 +313,9 @@ Las partes, en cualquier etapa del procedimiento, podrán solicitar la expedici�
 
 Lo mismo se observará cuando soliciten copias certificadas, en cuyo caso el secretario que las autorice, bajo su más estricta responsabilidad, asentará razón en el expediente de la expedición y en la copia misma de que se trata, que es total o parcial y en el último caso, anotará el estado que guarda el procedimiento.
 
-Quien obtenga una copia certificada parcial de actuaciones y la emplee en forma maliciosa o indebida será sancionado por la autoridad, una vez que ésta tenga conocimiento, con una multa de cien a mil días de salario mínimo general vigente en la región, sin perjuicio de las responsabilidades civiles o penales que le resulten.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Quien obtenga una copia certificada parcial de actuaciones y la emplee en forma maliciosa o indebida será sancionado por la autoridad, una vez que ésta tenga conocimiento, con una multa del equivalente a la cantidad de cien a mil veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las responsabilidades civiles o penales que le resulten.
 
 ###### Artículo 43.
 
@@ -463,7 +467,9 @@ IV.- Imponer a las partes el deber de presentarse ante el Tribunal, cuando duran
 
 Son aplicables a la audiencia de conciliación y al emplazamiento las disposiciones siguientes:
 
-I.- Admitida la demanda, el Tribunal mandará citar al demandado para que acuda en día y hora preestablecidos al recinto judicial, bajo la prevención que de no hacerlo se considerará un desacato y se le impondrá una multa hasta de cien días de salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I.- Admitida la demanda, el Tribunal mandará citar al demandado para que acuda en día y hora preestablecidos al recinto judicial, bajo la prevención que de no hacerlo se considerará un desacato y se le impondrá una multa del equivalente a la cantidad de hasta cien veces el valor diario de la Unidad de Medida y Actualización;
 
 II.- Cuando el demandado acuda personalmente o por conducto de su representante legal a la cita para la audiencia de conciliación procesal y no hubiere acuerdo de las partes, se practicará el emplazamiento en el recinto del Tribunal por el secretario;
 
@@ -733,7 +739,9 @@ Según las circunstancias y de advertirse, se instó de mala fe, faltando a los 
 
 Los Tribunales para hacer cumplir sus determinaciones pueden emplear indistintamente, los medios de apremio siguientes:
 
-I.- Multa hasta por el importe de mil días de salario;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I.- Multa por el equivalente a la cantidad de hasta mil veces el valor diario de la Unidad de Medida y Actualización;
 
 II.- Cateo;
 
@@ -761,7 +769,9 @@ Son correcciones disciplinarias:
 
 I.- El extrañamiento;
 
-II.- La multa, hasta por el importe de quinientos días de salario mínimo, la que podrá duplicarse en caso de reincidencia, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II.- La multa por el equivalente a la cantidad de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, la que podrá duplicarse en caso de reincidencia, y
 
 III.- La expulsión del recinto judicial, inclusive con el auxilio de la fuerza pública.
 
@@ -1045,9 +1055,11 @@ En la recusación son admisibles los medios de prueba establecidos en este Códi
 
 Quien conozca de una recusación es irrecusable para este solo efecto.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 129.
 
-No se dará curso a ninguna recusación, si el recusante no exhibe, al tiempo de interponerla, certificado de depósito judicial por el importe de doscientos días de salario mínimo vigente en el Estado, salvo en el caso de que el recusante esté impedido de hacer el depósito y lo justifique debidamente.
+No se dará curso a ninguna recusación, si el recusante no exhibe, al tiempo de interponerla, certificado de depósito judicial por el equivalente a la cantidad de doscientas veces el valor diario de la Unidad de Medida y Actualización, salvo en el caso de que el recusante esté impedido de hacer el depósito y lo justifique debidamente.
 
 ###### Artículo 130.
 
@@ -1089,9 +1101,11 @@ Fundada la recusación del perito tercero en discordia, el Juez designará otro,
 
 Cuando se declare fundada la recusación interpuesta en contra de un secretario o diligenciario, continuará conociendo del asunto quien deba substituirlo definitivamente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 138.
 
-Cuando se declare improcedente o no probada la causa de recusación, o no ser legal el motivo aducido, se impondrá al recusante una multa de hasta doscientos días de salario mínimo vigente en el Estado; pero si se interpusiere una segunda recusación y fuere declarada ilegal o no probada, la multa será el doble de las sumas fijadas y el depósito se hará por el total de esa doble cantidad. Lo anterior con independencia de la indemnización que por daños y perjuicios, pueda reclamar la parte contraria.
+Cuando se declare improcedente o no probada la causa de recusación, o no ser legal el motivo aducido, se impondrá al recusante una multa por el equivalente a la cantidad de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización; pero si se interpusiere una segunda recusación y fuere declarada ilegal o no probada, la multa será el doble de las sumas fijadas y el depósito se hará por el total de esa doble cantidad. Lo anterior con independencia de la indemnización que por daños y perjuicios, pueda reclamar la parte contraria.
 
 ###### Artículo 139.
 
@@ -1975,7 +1989,9 @@ IV.- A las personas que estén privadas de su libertad por mandamiento de autori
 
 En los casos anteriores, debidamente probados, se señalará con toda precisión el domicilio en donde se encuentre el exceptuado; si aquél se ubica en el lugar del juicio, se trasladará el personal judicial actuante asociado del oferente, y si a criterio del juzgador, puede declarar, desahogará la prueba. Si el lugar se ubica fuera de la residencia del Tribunal, se procederá conforme a las reglas que para los exhortos establece este Código.
 
-Si constituido el personal judicial en el domicilio previamente señalado, no encontrare presente al que deba declarar, a éste se le tendrán por aceptados los hechos sobre los que se le cuestione y se le impondrá además una multa hasta de mil días de salario.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Si constituido el personal judicial en el domicilio previamente señalado, no encontrare presente al que deba declarar, a éste se le tendrán por aceptados los hechos sobre los que se le cuestione y se le impondrá además una multa del equivalente a la cantidad de hasta mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 257.
 
@@ -2217,11 +2233,11 @@ Lo dispuesto en este artículo será independiente de lo que decida la sentencia
 
 Cuando a juicio del Juez, los dictámenes periciales no resulten suficientemente ilustrativos, bien por sus contenidos o porque la naturaleza misma del caso, requiere de operaciones o conocimientos científicos sumamente especializados, para mejor proveer, podrá pedir informe a la Academia, Colegio o Corporación Oficial que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 292.
 
-Cuando los dictámenes periciales, se funden en conocimientos que produzcan un resultado susceptible de comprobación mediante métodos científicos universalmente aceptados y se demuestre que el perito faltó a la verdad, con el único fin de confundir el juicio del Juez, se le impondrá una multa de quinientos a mil días de salario, sin perjuicio de que se le juzgue conforme al Código de Defensa Social para el Estado Libre y Soberano de Puebla.
+Cuando los dictámenes periciales, se funden en conocimientos que produzcan un resultado susceptible de comprobación mediante métodos científicos universalmente aceptados y se demuestre que el perito faltó a la verdad, con el único fin de confundir el juicio del Juez, se le impondrá una multa del equivalente a la cantidad de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de que se le juzgue conforme al Código de Defensa Social para el Estado Libre y Soberano de Puebla.
 
 A los reincidentes, se les impedirá el acceso como peritos a los juicios y a los tribunales.
 
@@ -2293,7 +2309,9 @@ Si el testigo reside fuera del lugar del juicio, en el supuesto de imposibilidad
 
 El Juez, en el caso que trata este artículo, para proceder a la citación, estará facultado para exigir, prudentemente, que se le compruebe la necesidad de la declaración del testigo o que se exhiba la caución que determine, que garantizará el importe de la multa que pudiera imponérsele, si el testigo no concurre, si se rehusa a declarar o si, de las circunstancias, se evidencia que la citación tuvo por objeto entorpecer el procedimiento.
 
-En el caso de que el señalamiento del domicilio de algún testigo resulte inexacto o inexistente, o que de las constancias del expediente se infiera que se solicitó la citación con el propósito de retardar el procedimiento, se impondrá al oferente una multa de hasta quinientos días de salario.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+En el caso de que el señalamiento del domicilio de algún testigo resulte inexacto o inexistente, o que de las constancias del expediente se infiera que se solicitó la citación con el propósito de retardar el procedimiento, se impondrá al oferente una multa de (sic) del equivalente a la cantidad de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 306.
 
@@ -2701,7 +2719,9 @@ II.- Las resoluciones contra las que la Ley no concede recurso;
 
 III.- Las resoluciones que no hayan sido recurridas oportunamente, o cuando el recurso se declare improcedente o se deseche;
 
-IV.- Las sentencias dictadas en los negocios cuya cuantía no exceda de quinientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV.- Las sentencias dictadas en los negocios cuya cuantía no exceda del equivalente a la cantidad de quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 V.- Las sentencias dictadas por los jueces de paz, y
 
@@ -2719,7 +2739,9 @@ El recurso de apelación tiene por objeto que el superior revoque o modifique la
 
 El recurso de apelación procede en contra de las sentencias definitivas o contra las resoluciones que sin decidir el fondo del negocio, ponen fin a la instancia.
 
-El recurso de apelación sólo procede en los juicios de cuantía específica, cuando su interés exceda de quinientos días de salario mínimo vigente en la fecha de interposición en el lugar en que se ventile el procedimiento.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+El recurso de apelación sólo procede en los juicios de cuantía específica, cuando su interés exceda del equivalente a la cantidad de quinientas veces el valor diario de la Unidad de Medida y Actualización calculadas en la fecha de interposición en el lugar en que se ventile el procedimiento.
 
 ###### Artículo 378.
 
@@ -3265,7 +3287,9 @@ VI.- Celebrada la junta ordenada en la fracción anterior, dictará el Juez las 
 
 VII.- Cuando el Juez ordene al depositario entregar los bienes embargados a persona indicada en la resolución, la entrega debe hacerse dentro de las veinticuatro horas siguientes a la notificación, siendo responsables el depositario, el actor y en su caso el abogado patrono o procurador judicial, de los perjuicios que se causen por el retardo en la entrega, debiendo el Juez además, hacer uso de los medios de apremio para hacerla efectiva.
 
-Lo dispuesto en este artículo, se considerará sin perjuicio, de sancionar el desacato, con una multa hasta de quinientos días de salario mínimo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Lo dispuesto en este artículo, se considerará sin perjuicio, de sancionar el desacato, con una multa de (sic) del equivalente a la cantidad de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 VIII.- La responsabilidad a que se refiere la fracción anterior podrá exigirse y decretarse con audiencia de la contraparte, aunque ya se hubiese dictado sentencia definitiva, y
 
@@ -3403,11 +3427,15 @@ VII.- Las pensiones de alimentos, y las rentas vitalicias para tal fin;
 
 VIII.- Las servidumbres, a no ser que se embargue el fundo a cuyo favor estén constituidas; pero en la de aguas pueden ser embargadas éstas, cuando ya estén en el predio dominante;
 
-IX.- Los predios rústicos cuyo valor no exceda del importe de quinientos días de salario mínimo, siempre que estén explotados agrícolamente por los propietarios, así como los animales domésticos que en ellos se encuentren;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IX.- Los predios rústicos cuyo valor no exceda del equivalente a la cantidad de quinientas veces el valor diario de la Unidad de Medida y Actualización, siempre que estén explotados agrícolamente por los propietarios, así como los animales domésticos que en ellos se encuentren;
 
 X.- Los animales propios para la labranza y sus aperos, en cuanto fueren necesarios para el servicio de la finca a que estén destinados;
 
-XI.- Los predios urbanos, cuyo valor no exceda del importe de quinientos días de salario mínimo, que sean habitados por su propietario;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XI.- Los predios urbanos, cuyo valor no exceda del importe del equivalente a la cantidad de quinientas veces el valor diario de la Unidad de Medida y Actualización, que sean habitados por su propietario;
 
 XII.- Las asignaciones de los pensionistas del erario;
 
@@ -4127,9 +4155,11 @@ Cuando el bien debido, es objeto de litigio ante un Tribunal, el ofrecimiento y 
 
 En los juicios de desocupación, el arrendatario deberá depositar ante el mismo Juez del conocimiento, y a disposición del arrendador, las rentas que se venzan durante su tramitación.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 561.
 
-Cuando se trate de ofrecimiento de prestaciones periódicas, se harán todas ellas ante el Tribunal que conoció de la primera, siendo sancionado quien incumpla, con multa por el importe de cien a quinientos días del salario mínimo.
+Cuando se trate de ofrecimiento de prestaciones periódicas, se harán todas ellas ante el Tribunal que conoció de la primera, siendo sancionado quien incumpla, con multa del equivalente a la cantidad de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 # LIBRO TERCERO. DIVERSAS CLASES DE PROCEDIMIENTOS
 
@@ -5361,9 +5391,11 @@ El Ministerio Público, dentro de las veinticuatro horas siguientes a la recepci
 
 Los médicos que atiendan a un enfermo mental, internado en un hospital o sanatorio, y los directores o responsables de éstos, deberán informar trimestralmente al Juez que conozca de la interdicción de aquél, del estado del paciente y de los pormenores del tratamiento.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 739.
 
-Los médicos y directores o responsables de hospitales o sanatorios, que no cumplan con las obligaciones que impone este Capítulo serán sancionados por cada informe que omitan con una multa hasta de quinientos días de salario, independientemente de la responsabilidad en que incurran. Las multas a que se refiere esta disposición se impondrán de oficio por el Juez, tan pronto como advierta la omisión.
+Los médicos y directores o responsables de hospitales o sanatorios, que no cumplan con las obligaciones que impone este Capítulo serán sancionados por cada informe que omitan con una multa del equivalente a la cantidad de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, independientemente de la responsabilidad en que incurran. Las multas a que se refiere esta disposición se impondrán de oficio por el Juez, tan pronto como advierta la omisión.
 
 ###### Artículo 740.
 
@@ -5747,7 +5779,7 @@ c) Los herederos, en el orden de derechos previsto por el Código Civil, compare
 
 A. El Notario hará constar en instrumento público el inicio del trámite de la sucesión y que le fueron acreditados los requisitos señalados en los incisos que anteceden.
 
-B. El Notario está obligado a dar a conocer las declaraciones de los herederos a que se refieren los incisos anteriores, mediante dos publicaciones que se harán en un diario de mayor circulación en el Estado Puebla (sic), con intervalo de diez días, con la mención del número de instrumento que corresponda, a efecto de convocar a quien o quienes se crean con derecho a los bienes de la herencia, para que se presenten dentro de los diez días siguientes al de la última publicación, a deducir sus derechos.
+B. El Notario está obligado a dar a conocer las declaraciones de los herederos a que se refieren los incisos anteriores, mediante dos publicaciones que se harán en un diario de mayor circulación en el Estado (sic) Puebla, con intervalo de diez días, con la mención del número de instrumento que corresponda, a efecto de convocar a quien o quienes se crean con derecho a los bienes de la herencia, para que se presenten dentro de los diez días siguientes al de la última publicación, a deducir sus derechos.
 
 C. Transcurrido el último plazo citado en el inciso anterior y acreditada su calidad de herederos, procederán a designar de común acuerdo el albacea o albaceas definitivos de la sucesión, estos últimos aceptarán su cargo, protestarán su fiel desempeño y presentarán al Notario el inventario y avalúos de los bienes que forman el acervo hereditario del autor de la sucesión para que, con la aprobación de todos los coherederos, lo que se hará constar en instrumento público.
 
@@ -6560,3 +6592,11 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
