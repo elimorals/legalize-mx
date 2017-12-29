@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2017-09-22"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -1592,6 +1592,16 @@ El divorcio administrativo procede cuando los cónyuges convienen en divorciarse
 Una vez ratificada, el o la oficial del Registro Civil los declarará divorciados, levantará el acta correspondiente y hará las anotaciones en el acta de matrimonio respectiva.
 
 El divorcio administrativo será inexistente, si se comprueba que los cónyuges, tienen hijas o hijos menores de edad o mayores de edad que requieren de asistencia o representación para el ejercicio de su capacidad jurídica, o si alguno de los cónyuges requiere alimentos, o la sociedad conyugal no está liquidada; además, se harán acreedores a la sanción a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 241 Bis.
+
+El divorcio voluntario notarial procede cuando los cónyuges convienen en divorciarse, no tengan hijas o hijos o teniéndolos sean mayores de edad que no requieran asistencia o representación para el ejercicio de su capacidad jurídica o alimentos ellos o alguno de los cónyuges, que la mujer no esté embarazada y se haya liquidado previamente la sociedad conyugal si el matrimonio se contrajo bajo ese régimen.
+
+Los cónyuges se presentarán ante el Notario Público y exhibirán su solicitud por escrito, de lo cual se levantará acta circunstanciada fuera de protocolo y los citará en un término de quince días para que se presenten a ratificarla.
+
+Una vez ratificada, se levantará acta circunstanciada por la cual se considerarán divorciados, remitiendo copia de la misma a la o el Oficial del Registro Civil ante quien se celebró el matrimonio y al que registró el nacimiento de los divorciados, así como a la Dirección Estatal del Registro Civil, para los efectos que se precisan en la Ley para la Familia de Coahuila de Zaragoza.
 
 ###### Artículo 242.
 
@@ -4450,3 +4460,11 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1192.- SE MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE COAHUILA; SE ADICIONA EL ARTÍCULO 241 BIS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; Y SE MODIFICA EL ARTÍCULO 152 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
