@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2017-10-30"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -887,31 +887,21 @@ Cuando concluido un período ordinario de sesiones el Congreso esté conociendo 
 
 La Ley Orgánica del Congreso señalará las formalidades con que deban celebrarse la apertura y clausura de las sesiones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 53.
 
-En el primer período ordinario de sesiones, el Congreso del Estado se ocupará de preferencia de aprobar las leyes de Ingresos del Estado y las de los municipios, así como de examinar y aprobar el presupuesto de egresos que le presente el Ejecutivo, correspondiente al año entrante.
+En el primer período ordinario de sesiones, el Congreso del Estado se ocupará de preferencia de aprobar las leyes de ingresos del Estado y las de los municipios, así como de examinar y aprobar el presupuesto de egresos que le presente el Ejecutivo, correspondiente al año entrante. De igual forma se ocupará del análisis y, en su caso, aprobación del informe general e informes individuales que le presente la Auditoría Superior del Estado, respecto de la revisión de las cuentas públicas del Estado; de los municipios y de sus organismos descentralizados; de los organismos constitucionales autónomos; y las demás entidades auditables, relativas al año próximo anterior.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2008)</small>
+En el segundo periodo, el Congreso del Estado se ocupará con la misma preferencia, del inicio y revisión de las cuentas públicas de los poderes del Estado; de los municipios y de sus organismos descentralizados; de los organismos autónomos; y demás entidades auditables, relativas al año próximo anterior, para lo cual contará con el apoyo de la Auditoría Superior del Estado, de conformidad con el procedimiento que establezca la ley de la materia.
 
-En el segundo periodo, el Congreso del Estado se ocupará con la misma preferencia, del inicio y conclusión de la revisión de las cuentas públicas del Estado, de los municipios y de sus organismos descentralizados, de los organismos autónomos, y demás entidades auditables, relativas al año próximo anterior; para lo cual contará con el apoyo de la Auditoria Superior del Estado, de conformidad con el procedimiento que establezca la ley de la materia.
+La Cuenta Pública del Poder Ejecutivo del Estado deberá presentarse en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el día quince del mes de marzo del año siguiente al que corresponda su ejercicio.
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
+Además, las entidades del Poder Ejecutivo del Estado, del Poder Judicial, el Poder Legislativo, los municipios, los organismos municipales descentralizados, y los organismos constitucionales autónomos, rendirán un informe trimestral de su situación financiera, a más tardar el día quince del mes siguiente al periodo de que se trate, conforme lo dispuesto en la ley.
 
-La Cuenta Pública del Poder Ejecutivo del Estado deberá presentarse al Congreso, y en sus recesos a la Diputación Permanente, en forma anual, a más tardar el último día del mes de febrero del año siguiente al que corresponda su ejercicio.
+Las cuentas públicas de los poderes, Legislativo, y Judicial; de los organismos constitucionales autónomos, así como de los municipios, se entregarán en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el día quince de marzo del año siguiente al de su ejercicio, previo conocimiento, en el caso de los municipios de sus cabildos; del Poder Legislativo de la Diputación Permanente; en el caso del Poder Judicial del Supremo Tribunal de Justicia del Estado sesionando en Pleno; y, en general, de los órganos de gobierno, o de quien haga las funciones de éstos; en todos los casos, con independencia de que sean o no aprobadas.
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
-
-Además, las entidades del Poder Ejecutivo del Estado rendirán de forma trimestral, un informe de su situación financiera, a más tardar el día quince del mes siguiente al periodo de que se trate, conforme lo dispuesto en la ley.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
-
-Las cuentas públicas municipales, previo conocimiento de los cabildos respectivos, y con independencia de que sean aprobadas o no, se entregarán en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el treinta y uno de enero del año siguiente al de su ejercicio.
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2008)</small>
-
-Los demás entes auditables deberán entregar al Congreso sus respectivas cuentas públicas, a más tardar el quince de febrero del año siguiente a su ejercicio.
+Lo mismo aplicará para el caso de las cuentas públicas de los organismos municipales descentralizados y demás entes auditables, previo conocimiento de sus juntas de gobierno o juntas directivas, con independencia de que sean aprobadas o no, deberán ser presentadas en forma anual al Congreso del Estado y, en sus recesos, a la Diputación Permanente, a más tardar el día quince de marzo del año siguiente al de su ejercicio.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2016)</small>
 
@@ -921,7 +911,9 @@ Corresponde al Congreso del Estado, a través de la Auditoría Superior del Esta
 
 La Auditoría Superior del Estado gozará de autonomía para desarrollar sus facultades de fiscalización, así como para decidir sobre su funcionamiento y organización interna en los términos que disponga la ley. La función de fiscalización se regirá por los principios de, legalidad, prosecución del interés público, imparcialidad, confiabilidad, y eficacia.
 
-La Auditoría Superior del Estado deberá entregar al Congreso del Estado, el informe final de auditoría correspondiente a las cuentas públicas de los poderes del Estado, a más tardar el quince de junio del año en que éstas hayan sido presentadas; y los informes relativos a las cuentas públicas de los demás entes auditables, a más tardar el treinta y uno de mayo del año de su presentación, a efecto de que éste revise que los informes se realizaron apegados a las disposiciones legales aplicables y emita, en su caso, las observaciones correspondientes. Dichos informes incluirán los resultados de la revisión de las cuentas públicas, y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales, que comprenderá los comentarios y observaciones de los auditados.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La Auditoría Superior del Estado deberá entregar al Congreso del Estado, los informes, General e individuales correspondientes a las cuentas públicas de los poderes del Estado, de los organismos constitucionales autónomos, de los municipios, de los organismos municipales descentralizados y demás entes auditables, a más tardar el día treinta y uno de octubre del año en que éstas hayan sido presentadas; a efecto de que éste revise a más tardar el día quince del mes de noviembre, que los informes se realizaron apegados a las disposiciones legales aplicables y emita, en su caso, las observaciones correspondientes. Dichos informes incluirán los resultados de la revisión de las cuentas públicas, y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los objetivos contenidos en los programas estatales y municipales, que comprenderá los comentarios y observaciones de los auditados.
 
 La ley garantizará y dispondrá las formas en que el Auditor Superior del Estado tenga y ejerza las siguientes atribuciones:
 
@@ -3293,7 +3285,7 @@ P.O. 10 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0658.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 31, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMAN LOS ARTÍCULOS 102 BIS, Y 102 TER, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMAN LOS ARTÍCULOS 30 EN SU PÁRRAFO SEGUNDO Y 44 EN SU FRACCIÓN IV EL INCISO H) DE LA LEY ELECTORAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis", previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, los ayuntamientos del Estado de San Luis Potosí, y el Consejo Estatal Electoral y de Participación Ciudadana, deberán expedir o reformar los reglamentos o disposiciones administrativas respectivas.
 
@@ -3324,5 +3316,13 @@ P.O. 30 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0708.- SE REFORMA (SIC) LOS ARTÍCULOS 57, 124, 127 Y 128; Y DEROGA DE LOS ARTÍCULOS 127 SUS PÁRRAFOS, PRIMERO, SEGUNDO, CUARTO, Y SEXTO, Y 128 SUS FRACCIONES, I, Y II, Y PÁRRAFO ÚLTIMO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; ASÍ MISMO SE DEROGA EL ARTÍCULO 54, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0871.- SE REFORMAN LOS ARTÍCULOS 53 Y 54 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
