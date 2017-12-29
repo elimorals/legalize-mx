@@ -4,7 +4,7 @@ identifier: "PUE-ley-ganadera-para-el-estado-de-puebla-51865"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-04"
-last_updated: "2013-11-22"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY GANADERA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda del Periódico Oficial del Estado de Puebla, el lunes 4 de septiembre de 2006.
 
@@ -235,7 +235,7 @@ LXVI.- PROTECCIÓN.- El conjunto de políticas y medidas para mejorar el ambient
 
 LXVII.- PUNTO DE VERIFICACIÓN E INSPECCIÓN INTERNA.- Lugar donde se realiza inspección, revisión y verificación de documentos de propiedad y sanitarios, así como de los animales y productos que se transportan;
 
-LXVIII.- RASTREABILIDAD.- Conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar a través de investigaciones de campo y del análisis de registros, el origen de un problema zoosanitario y su posible diseminación hasta sus últimas consecuencias, con miras a su controlo erradicación;
+LXVIII.- RASTREABILIDAD.- Conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar a través de investigaciones de campo y del análisis de registros, el origen de un problema zoosanitario y su posible diseminación hasta sus últimas consecuencias, con miras a su control o erradicación;
 
 LXIX.- RASTROS TIF.- Rastros Tipo Inspección Federal;
 
@@ -305,7 +305,7 @@ II.- Registrar ante las autoridades correspondientes su fierro y otros medios de
 
 III.- Herrar o marcar a las especies ganaderas de conformidad con la legislación aplicable;
 
-IV.- Comunicar de inmediato a las autoridades sanitarias en los casos de sospecha de brotes de enfermedades y plagas que afecten a los animales, pastizal es o a los cultivos forrajeros, así como coadyuvar en el combate de estas de acuerdo con las disposiciones federales y estatales que se determinen;
+IV.- Comunicar de inmediato a las autoridades sanitarias en los casos de sospecha de brotes de enfermedades y plagas que afecten a los animales, pastizales o a los cultivos forrajeros, así como coadyuvar en el combate de estas de acuerdo con las disposiciones federales y estatales que se determinen;
 
 V.- Participar en las campañas zoosanitarias nacionales, estatales, regionales que se establezcan en el Estado;
 
@@ -1257,9 +1257,13 @@ XIX.- Cualquier otra contravención a lo dispuesto en la presente Ley, en su Reg
 
 Las violaciones a los preceptos de esta Ley, su Reglamento y disposiciones que de ellos emanen, constituyen infracciones y ante las mismas la Secretaría, podrá imponer discrecionalmente atento a la gravedad de la infracción, cualquiera de las siguientes sanciones:
 
-I.- Multa de veinte a dos mil días de salario mínimo general vigente en el Estado, al momento de cometer cualquiera de las infracciones previstas en las fracciones II, V, VI, VII, VIII, XIII, XIV, XV, XVII y XVIII del artículo 109 de la presente Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II.- Multa de veinte a veinte mil días de salario mínimo general vigente en el Estado, al momento de cometer cualquiera de las infracciones previstas en las fracciones I, III, IV, IX, X, XI, XII, XVI y XIX del artículo 109 de la presente Ley;
+I.- Multa del equivalente a la cantidad de veinte a dos mil veces el valor diario de la Unidad de Medida y Actualización, calculadas al momento de cometer cualquiera de las infracciones previstas en las fracciones II, V, VI, VII, VIII, XIII, XIV, XV, XVII y XVIII del artículo 109 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II.- Multa del equivalente a la cantidad de veinte a veinte mil veces el valor diario de la Unidad de Medida y Actualización, calculadas al momento de cometer cualquiera de las infracciones previstas en las fracciones I, III, IV, IX, X, XI, XII, XVI y XIX del artículo 109 de la presente Ley;
 
 III.- Clausura temporal o definitiva, parcial o total;
 
@@ -1520,3 +1524,11 @@ P.O. 22 DE NOVIEMBRE DE 2013.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
