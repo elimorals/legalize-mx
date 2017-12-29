@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2017-02-03"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -1369,11 +1369,11 @@ La Federación, el Estado, los Municipios, los Organismos Descentralizados, Fide
 
 Es base de este impuesto, el monto total de los pagos a que se refiere el Artículo 154.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 157.
 
-Este impuesto se causará con tasa del 3% sobre la base a que se refiere el Artículo anterior.
+El impuesto sobre nóminas se causará a una tasa del 3% sobre la base a que se refiere el Artículo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1461,6 +1461,12 @@ El Consejo para la cultura y las Artes de Nuevo León deberá publicar en su pá
 
 La Secretaría de Finanzas y Tesorería General del Estado, con base en su disponibilidad presupuestal, podrá ampliar las cantidades previstas en el presente artículo. Asimismo, en el ejercicio de sus facultades, verificará el correcto uso del estímulo fiscal.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTICULO 159 Bis
+
+1.- La Secretaría de Finanzas y Tesorería General del Estado deberá intervenir en la expedición de las reglas de operación que hace referencia el artículo que antecede
+
 ###### ARTICULO 160.
 
 Están exentos del pago de este impuesto:
@@ -1505,7 +1511,9 @@ b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social
 
 c).- Cámaras de comercio, industria, agricultura, ganadería, pesca o propietarios de bienes raíces, sindicatos obreros, asociaciones patronales y colegios profesionales, así como los organismos que los agrupen;
 
-d).- Instituciones educativas;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+d).- Las Instituciones educativas con autorización o reconocimiento de validez oficial de estudios.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
@@ -4552,3 +4560,9 @@ Primero.- La Secretaría de Finanzas y Tesorería General del Estado, publicará
 Una vez publicada la tabla de subsidios y sus bases será obligatorio otorgar dichos subsidios a todos quienes encuadren en los supuestos de las bases sin necesidad de solicitud expresa del contribuyente.
 
 Segundo.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 328. SE REFORMA LA LEY DE HACIENDA DEL ESTADO, EN SUS ARTÍCULOS 157 Y 160, FRACCIÓN II, INCISO D); Y SE ADICIONA CON EL ARTÍCULO 159 BIS-1”.]
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2018.
