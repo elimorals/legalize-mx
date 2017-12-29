@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2016-08-12"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -2243,7 +2243,9 @@ En los procedimientos administrativos previstos en la Ley, son admisibles toda c
 
 Las violaciones a los preceptos de esta Ley, sus Reglamentos y disposiciones que de ellos emanen, constituyen infracciones y ante las mismas la Secretaría o los Ayuntamientos, en el ámbito de su competencia, podrán imponer discrecionalmente atento a la gravedad de la infracción, cualquiera de las siguientes sanciones:
 
-I.- Multa de veinte a veinte mil días de salario mínimo general vigente en el Estado en el momento de cometer la infracción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I.- Multa del equivalente a la cantidad de veinte a veinte mil veces el valor diario de la Unidad de Medida y Actualización, calculadas en el momento de cometer la infracción;
 
 II.- Clausura temporal o definitiva, parcial o total;
 
@@ -2556,3 +2558,11 @@ P.O. 12 DE AGOSTO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
