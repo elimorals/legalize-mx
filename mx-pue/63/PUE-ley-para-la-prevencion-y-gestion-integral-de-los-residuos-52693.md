@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-52693
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-11"
-last_updated: "2014-08-04"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de diciembre de 2006.
 
@@ -1227,9 +1227,13 @@ I.- Clausura temporal o definitiva, total o parcial;
 
 II.- La revocación, suspensión o cancelación de las concesiones, licencias, permisos o autorizaciones correspondientes;
 
-III.- Multa de veinte a veinte mil días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV.- Multa de cinco días de salario mínimo por cada día que transcurra sin que se subsane el daño cometido, a partir de la conclusión del plazo otorgado por la Autoridad, como medida de seguridad; y
+III.- Multa del equivalente a la cantidad de veinte a veinte mil veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV.- Multa del equivalente a la cantidad de cinco veces el valor diario de la Unidad de Medida y Actualización por cada día que transcurra sin que se subsane el daño cometido, a partir de la conclusión del plazo otorgado por la Autoridad, como medida de seguridad; y
 
 V.- La remediación de sitios contaminados.
 
@@ -1568,3 +1572,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los asuntos que a la entrada en vigor de este Decreto se encuentren pendientes respecto de su trámite y sustanciación, se sujetarán a las formas y procedimientos de los ordenamientos bajo los cuales se inició su trámite.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
