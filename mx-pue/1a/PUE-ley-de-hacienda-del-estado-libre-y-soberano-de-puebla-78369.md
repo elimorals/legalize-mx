@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-libre-y-soberano-de-puebla-78369"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-08"
-last_updated: "2017-01-16"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 8 de diciembre de 2010.
 
@@ -195,9 +195,11 @@ VI.- Los premios por asistencia o por puntualidad, siempre que el importe entreg
 
 VII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VIII.- La despensa, siempre y cuando se entregue mediante monederos electrónicos autorizados por el Servicio de Administración Tributaria y su importe no rebase el 40% del salario mínimo general vigente en el Estado; el excedente se tomará en cuenta para el cálculo del impuesto.
+VIII.- La despensa, siempre y cuando se entregue mediante monederos electrónicos autorizados por el Servicio de administración Tributaria y su importe no rebase el 40% del equivalente al valor diario a la Unidad de Medida y Actualización, el excedente se tomará en cuenta para el cálculo del impuesto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 La despensa entregada en efectivo se deberá tomar en cuenta en su totalidad para el cálculo del impuesto.
 
@@ -1364,3 +1366,11 @@ P.O. 16 DE ENERO DE 2017.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
