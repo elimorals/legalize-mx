@@ -4,7 +4,7 @@ identifier: "PUE-ley-que-regula-el-regimen-de-propiedad-en-condominio-para-82715
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-10"
-last_updated: "2011-10-26"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE OCTUBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la segunda sección del Periódico Oficial del Estado de Puebla, el miércoles 10 de agosto de 2011.
 
@@ -39,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II y 64 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracción I, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 23 y 24 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -503,25 +503,29 @@ El Síndico Municipal, será competente para conocer de los procedimientos arbit
 
 Los condóminos o residentes que incumplan con las obligaciones que les son impuestas por la presente Ley, serán sancionados en los casos siguientes:
 
-I.- De uno a diez días de salario mínimo, así como a cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común cuando se hubiesen dañado por un mal uso o negligencia;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II.- De diez a veinte días de salario mínimo, más el pago de intereses moratorios en los términos que establezca el reglamento interior y la restricción del derecho de voto en las asambleas, cuando no cumplan en el plazo establecido con las cuotas fijadas por la asamblea, relativa a los fondos de mantenimiento y administración y de reserva;
+l.- Del equivalente a la cantidad de una a diez veces el valor diario de la Unidad-de Medida y Actualización, así como a cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común cuando se hubiesen dañado por un mal uso o negligencia;
 
-> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-III.- De quince a treinta días de salario mínimo, cuando incumplan con las prohibiciones señaladas en las fracciones II, III, IV y V del artículo 24 de esta Ley;
+II.- Del equivalente a la cantidad de diez a veinte veces el valor diario de la Unidad de Medida y Actualización, más el pago de intereses moratorios en los términos que establezca el reglamento interior y la restricción del derecho de voto en las asambleas, cuando no cumplan en el plazo establecido con las cuotas fijadas por la asamblea, relativa a los fondos de mantenimiento y administración y de reserva;
 
-> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV.- De veinte a treinta días de salario mínimo, por la inobservancia de lo establecido en las fracciones X y XI del artículo 24 de esta Ley;
+III.- Del equivalente a la cantidad de quince a treinta veces el valor diario de la Unidad de Medida y Actualización, cuando incumplan con las prohibiciones señaladas en las fracciones II, III, IV y V del artículo 24 de esta Ley;
 
-> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-V.- De veinte a cuarenta días de salario mínimo, independientemente de la demolición de las obras realizadas, cuando contravengan lo dispuesto en las fracciones VI y VII del artículo 24 y el 26 de la presente Ley; y
+IV.- Del equivalente a la cantidad de veinte a treinta veces el valor diario de la Unidad de Medida y Actualización, por la inobservancia de lo establecido en las fracciones X y XI del artículo 24 de esta Ley;
 
-> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VI.- De cincuenta a ciento cincuenta días de salario mínimo, cuando se transgreda lo estipulado en las fracciones I, VIII y IX del artículo 24 de la presente Ley.
+V.- Del equivalente a la cantidad de veinte a cuarenta veces el valor diario de la Unidad de Medida y Actualización, independientemente de la demolición de las obras realizadas, cuando contravengan lo dispuesto en las fracciones VI y VII del artículo 24 y el 26 de la presente Ley; y
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VI.- Del equivalente a la cantidad de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, cuando se transgreda lo estipulado en las fracciones I, VIII y IX del artículo 24 de la presente Ley.
 
 ###### Artículo 50.
 
@@ -636,3 +640,13 @@ Los Ayuntamientos realizarán las previsiones presupuestarias y administrativas 
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veintidós días del mes de julio de dos mil once.- Diputado Presidente.- ELÍAS ABAID KURI.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR EDUARDO ALONSO GRANADOS.- Rúbrica.- Diputada Secretaria.- MYRIAM GALINDO PETRIZ.- Rúbrica.- Diputada Secretaria.- ELVIA SUÁREZ RAMÍREZ.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dos días del mes de agosto de dos mil once.- El Gobernador Constitucional de Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
