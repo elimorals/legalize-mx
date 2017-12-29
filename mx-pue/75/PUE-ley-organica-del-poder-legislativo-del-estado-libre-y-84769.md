@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2017-03-29"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -113,9 +113,17 @@ XXII.- Suplencia: El mecanismo para poder ejercer a las funciones del cargo de D
 
 XXIII.- Turno: La determinación que dicta el Presidente de la Mesa Directiva o de la Comisión Permanente, durante la sesión, para enviar los asuntos a la instancia respectiva, con el fin de darles el curso legal correspondiente;
 
-XXIV.- Vacante: La declaración hecha por el Congreso sobre la situación de ausencia definitiva en el ejercicio del cargo de Diputado propietario y/o suplente; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXV.- Voto Particular: Es un punto de vista que disiente del dictamen en lo general, o de uno o varios artículos en lo particular. Puede presentarse por uno o más integrantes de la Comisión correspondiente.
+XXIV.- Vacante: La declaración hecha por el Congreso sobre la situación de ausencia definitiva en el ejercicio del cargo de Diputado propietario y/o suplente;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXV.- Voto Particular: Es un punto de vista que disiente del dictamen en lo general, o de uno o varios artículos en lo particular. Puede presentarse por uno o más integrantes de la Comisión correspondiente, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXVI.- IILFS "Gilberto Bosques Saldívar": Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas "Gilberto Bosques Saldívar".
 
 ###### ARTÍCULO 3.
 
@@ -2065,41 +2073,53 @@ IV.- Poseer título de Licenciado en Derecho o de carreras afines, con antigüed
 
 (DEROGADO, P.O. 29 DE MARZO DE 2016)
 
-### CAPÍTULO V. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS, FINANCIERAS Y SOCIOECONÓMICAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO V. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS, FINANCIERAS Y SOCIOECONÓMICAS "GILBERTO BOSQUES SALDÍVAR"
+
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 212.
 
-El Congreso del Estado contará con un Órgano Técnico, denominado Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas; el cual tiene como objetivo la investigación y análisis de temas de carácter jurídico, político, histórico, social, financiero y económico; sobre instituciones legislativas, públicas y en general cualquier rama o disciplina afín, que contribuyan al perfeccionamiento de la función legislativa en beneficio del Estado.
+El Congreso del Estado contará con un Órgano Técnico, denominado Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas "Gilberto Bosques Saldívar"; el cual tiene como objetivo la investigación y análisis de temas de carácter jurídico, político, histórico, social, financiero y económico; sobre instituciones legislativas, públicas y en general cualquier rama o disciplina afín, que contribuyan al perfeccionamiento de la función legislativa en beneficio del Estado.
 
 Sus atribuciones son las conferidas por esta Ley, su Reglamento Interior y demás disposiciones aplicables.
 
-El Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, se integra por especialistas que preferentemente cuenten con experiencia legislativa o de investigación; está a cargo de un Director General que será nombrado mediante concurso que defina la Junta de Gobierno y Coordinación Política con el voto de la mayoría absoluta de sus integrantes.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+El IILFS "Gilberto Bosques Saldívar", se integra por especialistas que preferentemente cuenten con experiencia legislativa o de investigación; está a cargo de un Director General que será nombrado mediante concurso que defina la Junta de Gobierno y Coordinación Política con el voto de la mayoría absoluta de sus integrantes.
 
-El Titular de la Dirección General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas desempeñará su encargo por el periodo de una Legislatura y podrá ser ratificado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 2016)</small>
+El Titular de la Dirección General del IILFS "Gilberto Bosques Saldívar" desempeñará su encargo por el periodo de una Legislatura y podrá ser ratificado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 213.
 
-El Titular de la Dirección General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, dependerá jerárquicamente de la Junta de Gobierno y Coordinación Política.
+El Titular de la Dirección General del IILFS "Gilberto Bosques Saldívar", dependerá jerárquicamente de la Junta de Gobierno y Coordinación Política.
 
-El Titular de la Dirección General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, debe velar por la imparcialidad de los servicios que presta al Congreso y observar en su actuación las disposiciones contenidas en esta Ley, su Reglamento Interior y demás disposiciones aplicables.
+El Titular de la Dirección General del IILFS "Gilberto Bosques Saldívar", debe velar por la imparcialidad de los servicios que presta al Congreso y observar en su actuación las disposiciones contenidas en esta Ley, su Reglamento Interior y demás disposiciones aplicables.
+
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] , P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 214.
 
-Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, el Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas contará con las áreas administrativas siguientes:
+Para el ejercicio de sus funciones y el despacho de los asuntos que le competen, el IILFS "Gilberto Bosques Saldívar" contará con las áreas administrativas siguientes:
 
 I.- Coordinación de Estudios Sociales y Legislativos; y
 
 II.- Coordinación de Estudios Financieros y Económicos.
 
-El Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, contará con el número de Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones, de conformidad con la presente Ley, su Reglamento Interior y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+El IILFS "Gilberto Bosques Saldívar", contará con el número de Jefaturas de Departamento y servidores públicos de confianza y de base que sean necesarios para el cumplimiento de sus funciones, de conformidad con la presente Ley, su Reglamento Interior y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 215.
 
-El Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas, tendrá las atribuciones siguientes:
+El IILFS "Gilberto Bosques Saldívar", tendrá las atribuciones siguientes:
 
 I.- Efectuar la investigación y análisis de temas de carácter jurídico, político, histórico, social, financiero y económico; sobre instituciones legislativas, públicas y en general cualquier rama o disciplina afín, que contribuyan al ejercicio de la función legislativa en beneficio del Estado, atendiendo al Programa Estratégico aprobado;
 
@@ -2119,11 +2139,11 @@ VIII.- Instrumentar un programa editorial sobre las investigaciones y estudios r
 
 IX.- Las demás que le confiera la presente Ley, su Reglamento Interior y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 216.
 
-Para ser Titular de la Dirección General del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas se requiere:
+Para ser Titular de la Dirección General del IILFS "Gilberto Bosques Saldívar" se requiere:
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos;
 
@@ -2575,7 +2595,7 @@ TERCERO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 29 DE MARZO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 133 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA FRACCIÓN III Y SUS INCISOS A), B), C), D) Y E) DEL ARTÍCULO 51 Y LAS FRACCIONES XI Y XII DEL 230 TER; Y ADICIONA LOS INCISOS F) Y G), A LA FRACCIÓN III DEL ARTÍCULO 51, TODOS DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 133 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, Y REFORMA LA FRACCIÓN III Y SUS INCISOS A), B), C), D) Y E) DEL ARTÍCULO 51 Y LAS FRACCIONES XI Y XII DEL 230 TER; Y ADICIONA LOS INCISOS F) Y G), A LA FRACCIÓN III DEL ARTÍCULO 51, TODOS DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -2586,3 +2606,11 @@ TERCERO. Los asuntos en trámite presentados o turnados al Comité de Gestoría 
 CUARTO. Todos los actos suscritos por el Comité de Gestoría y Quejas y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos al Comité de Atención Ciudadana.
 
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
