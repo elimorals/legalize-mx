@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-economico-sustentable-del-estado-de-puebla-10
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-30"
-last_updated: "2017-02-23"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,487 +21,709 @@ state: "PUE"
 ---
 # LEY DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA
+REGLAMENTO INTERIOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2017.
+TEXTO ORIGINAL.
 
-Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de marzo de 2015.
+Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de septiembre de 2009.
 
-DECRETO del Honorable Congreso del Estado, por el que expide la Ley de Desarrollo Económico Sustentable del Estado de Puebla.
+QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL Y 7 FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
 
-Al margen un sello con el Escudo del Estado de Puebla y una leyenda que dice: Unidos en el Tiempo, en el Esfuerzo, en la Justicia y la Esperanza. Estado Libre y Soberano de Puebla. H. Congreso del Estado de Puebla. LIX Legislatura.
+CONSIDERANDO.
 
-RAFAEL MORENO VALLE ROSAS, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
+Por lo anteriormente expuesto y fundado, he tenido a bien emitir el siguiente:
 
-EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
-
-CONSIDERANDO…
-
-Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 123 fracción XVIII, 134, 135, 136 y 144 fracción II de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46 y 48 fracción XVIII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
-
-LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA
+REGLAMENTO INTERIOR DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE TABASCO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. DEL OBJETO DE LA LEY Y AUTORIDADES COMPETENTES
+### CAPITULO ÚNICO
 
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden público y observancia general en el territorio del Estado de Puebla.
+Las disposiciones del presente Reglamento tienen por objeto regular la organización y funcionamiento interno del órgano desconcentrado de la Administración Pública Estatal, adscrito administrativamente a la Secretaria de Asentamientos y Obras Públicas, denominado Servicios de Agua Potable y Alcantarillado del Estado de Tabasco.
 
 ###### ARTÍCULO 2.
 
-Esta Ley tiene por objeto impulsar la competitividad y el desarrollo económico del Estado, sobre las bases del desarrollo humanista y sustentable para elevar el bienestar de sus habitantes.
+Para los efectos de este Reglamento se entenderá por:
 
-Su aplicación corresponde al titular del Ejecutivo del Estado a través de las Dependencias de la Administración Pública del Estado.
+Secretario: Secretario de Asentamientos y Obras Públicas;
 
-### CAPÍTULO II. DE LAS DEFINICIONES
+Órgano o SAPAET: Servicios de Agua Potable y Alcantarillado del Estado de Tabasco;
+
+Director General: Director General de los Servicios de Agua Potable y Alcantarillado del Estado de Tabasco.
+
+### CAPÍTULO I. DE LA ORGANIZACIÓN
 
 ###### ARTÍCULO 3.
 
-Para efectos de esta Ley se divide al Estado en siete regiones económicas. Estas regiones incluirán los doscientos diecisiete Municipios del Estado y se integran de la siguiente manera:
-
-I. Región Angelópolis. Acajete, Amozoc, Atoyatempan, Calpan, Coronango, Cuautinchán, Cuautlancingo, Chiautzingo, Domingo Arenas, Huejotzingo, Juan C. Bonilla, Mixtla, Nealtican, Nopalucan, Ocoyucan, Puebla, San Andrés Cholula, San Felipe Teotlalcingo, San Martín Texmelucan, San Matías Tlalancaleca, San Miguel Xoxtla, San Nicolás de los Ranchos, San Pedro Cholula, San Salvador El Verde, Santo Tomás Hueyotlipan, Tecali de Herrera, Tepatlaxco de Hidalgo, Tepeaca, Tepeyahualco de Cuauhtémoc, Tlahuapan, Tlaltenango, Tlanepantla y Tochtepec.
-
-II. Región Valle de Atlixco y Matamoros. Acteopan, Ahuatlán, Atlixco, Atzala, Atzitzihuacan, Cohuecan, Chietla, Epatlán, Huaquechula, Izúcar de Matamoros, San Diego La Mesa Tochimiltzingo, San Martín Totoltepec, Santa Isabel Cholula, San Gregorio Atzompa, San Jerónimo Tecuanipan, Teopantlán, Tepemaxalco, Tepeojuma, Tepexco, Tianguismanalco, Tilapa, Tlapanalá, Tochimilco y Xochiltepec.
-
-III. Región Serdán y Valles Centrales, Acatzingo, Aljojuca, Atzitzintla, Cuapiaxtla de Madero, Cuyoaco, Chalchicomula de Sesma, Chichiquila, Chilchotla, Esperanza, General Felipe Ángeles, Guadalupe Victoria, Lafragua, Libres, Mazapiltepec de Juárez, Cañada Morelos, Ocotepec, Oriental, Palmar de Bravo, Quecholac, Quimixtlán, Rafael Lara Grajales, Los Reyes de Juárez, San José Chiapa, San Juan Atenco, San Nicolás Buenos Aires, San Salvador El Seco, San Salvador Huixcolotla, Soltepec, Tecamachalco, Tepeyahualco y Tlachichuca.
-
-IV. Región Sierra Nororiental, Acateno, Atempan, Atlequizayan, Ayotoxco de Guerrero, Caxhuacan, Cuetzalan del Progreso, Chignautla, Huehuetla, Hueyapan, Hueytamalco, Hueytlalpan, Huitzilan de Serdán, Ixtepec, Jonotla, Nauzontla, Tenampulco, Teteles de Ávila Castillo, Teziutlán, Tlatlauquitepec, Tuzamapan de Galeana, Xiutetelco, Xochitlán de Vicente Suárez, Yaonahuac, Zacapoaxtla, Zapotitlán de Méndez, Zaragoza, Zautla y Zoquiapan.
-
-V. Región Sierra Norte, Ahuacatlán, Ahuazotepec, Amixtlán, Aquixtla, Camocuautla, Coatepec, Cuautempan, Chiconcuautla, Chignahuapan, Honey, Francisco Z. Mena, Hermenegildo Galeana, Huauchinango, Ixtacamaxtitlán, Jalpan, Jopala, Juan Galindo, Naupan, Olintla, Pahuatlán, Pantepec, San Felipe Tepatlán, Tepango de Rodríguez, Tepetzintla, Tetela de Ocampo, Tlacuilotepec, Tlaola, Tlapacoya, Tlaxco, Venustiano Carranza, Xicotepec, Xochiapulco, Zacatlán, Zihuateutla y Zongozotla.
-
-VI. Región Mixteca, Acatlán, Ahuehuetitla, Albino Zertuche, Atexcal, Axutla, Coatzingo, Cohetzala, Coyotepec, Cuayuca de Andrade, Chiautla, Chigmecatitlán, Chila, Chita de la Sal, Chinantla, Guadalupe, Huatlatlauca, Huehuetlán El Chico, Huitziltepec, lxcaquixtla, Ixcamilpa de Guerrero, Jolalpan, Juan N. Méndez, La Magdalena Tlatlauquitepec, Molcaxac, Petlalcingo, Piaxtla, San Jerónimo Xayacatlán, San Juan Atzompa, San Miguel Ixitlán, San Pablo Anicano, San Pedro Yeloixtlahuaca, Santa Catarina Tlaltempan, Santa Inés Ahuatempan, Huehuetlán El Grande, Tecomatlán, Tehuitzingo, Teotlalco, Tepexi de Rodríguez, Totoltepec de Guerrero, Tulcingo, Tzicatlacoyan, Xayacatlán de Bravo, Xicotlán, Xochitlán Todos Santos y Zacapala.
-
-VII. Región Tehuacán y Sierra Negra, Ajalpan, Altepexi, Caltepec, Coxcatlán, Coyomeapan, Chapulco, Eloxochitlán, Nicolás Bravo, San Antonio Cañada, San Gabriel Chilac, San José Miahuatlán, San Sebastián Tlacotepec, Santiago Miahuatlán, Tehuacán, Tepanco de López, Tlacotepec de Benito Juárez, Vicente Guerrero, Yehualtepec, Zapotitlán, Zinacatepec y Zoquitlán.
+SAPAET planeará, guiará y conducirá sus actividades en congruencia con la Ley de Planeación del Estado, con sujeción a las políticas, estrategias, prioridades y objetivos del Plan Estatal de Desarrollo y los programas sectoriales o específicos que implemente el Gobernador del Estado.
 
 ###### ARTÍCULO 4.
 
-Para efectos de esta Ley, los términos siguientes tendrán el significado que se les atribuye a continuación, mismos que serán aplicables tanto al singular como al plural según corresponda conforme al contexto en el que sean utilizados:
+El objeto de SAPAET es incrementar y mejorar la infraestructura de los servicios de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales a su cargo para contribuir a la higiene, la salud y el bienestar social del Estado.
 
-I. Actividad económica: Acciones físicas, intelectuales o de cualquier otra naturaleza encaminadas a producir bienes o servicios, tangibles o intangibles, susceptibles de ser comercializados así como aquellas acciones encaminadas a facilitar el intercambio de dichos bienes o servicios;
-
-II. Actores: Personas físicas o morales ajenas al Gobierno que participan directa o indirectamente en la actividad económica independientemente del sector económico del que forman parte;
-
-III. Agente económico: Sindicatos y los trabajadores, las empresas y los empresarios;
-
-IV. Ambiente de negocios: Conjunto de elementos que caracterizan el entorno en el que se producirá la inversión y la actividad económica;
-
-V. Aportación económica: Suma en pesos que es otorgada por el Gobierno a una empresa;
-
-VI. Cadena productiva: Conjunto de empresas responsables de procesos de producción que se realizan de manera secuencial en una o más unidades productivas y en los que se agrega valor a los productos o servicios producidos y susceptibles de ser comercializados;
-
-VII. Capital humano: Individuo o grupo de individuos que utilizan sus capacidades y habilidades intelectuales, físicas, técnicas y profesionales en las actividades económicas y de generación de valor;
-
-VIII. Centro de comercio: Espacio físico en donde se realizan actividades de intercambio de bienes y servicios de manera regular y organizada;
-
-IX. Competitividad: Conjunto de condiciones físicas, sociales, educativas, legales, tributarias y reglamentarias de un Estado que favorecen por un lado, la atracción de inversiones de manera más eficiente respecto de otros Estados, y por el otro lado, la capacidad de las empresas, instituciones e individuos que ahí radican para producir, posicionar y mantener con rentabilidad en los mercados los bienes y servicios que producen y con ello incrementar la calidad de vida de las personas;
-
-X. Conducta empresarial responsable: Actuar de las empresas que se ajuste a las Líneas Directrices de la OCDE para Empresas Multinacionales, emitidas en mil novecientos setenta y seis y sus actualizaciones;
-
-XI. Desarrollador inmobiliario industrial: Empresa dedicada al diseño, planeación, construcción y operación de parques industriales incluyendo el desarrollo de edificios a la medida para las empresas;
-
-XII. Desarrollo competitivo: Proceso incremental de la competitividad del Estado y sus regiones;
-
-XIII. Desarrollo sustentable: Es aquél que no compromete los recursos naturales y el entorno que habrán de ser necesarios para el desarrollo de las futuras generaciones, y se manifiesta como un incremento del ingreso en el presente, sin que esto afecte negativamente la posibilidad de obtener un ingreso mayor en el futuro;
-
-XIV. Dólar: Moneda de uso corriente en los Estados Unidos de América;
-
-XV. Ejecutivo del Estado o El Ejecutivo o El titular del Ejecutivo: Gobernador Constitucional del Estado de Puebla;
-
-XVI. Empleador: Empresa que utiliza los servicios de personas o mantiene relaciones laborales con ellas;
-
-XVII. Empleo directo: Puestos de trabajo que generan relaciones laborales entre la empresa y los trabajadores que laboran en ella;
-
-XVIII. Empleo indirecto: Puestos de trabajo que resultan de la instalación de una empresa o de su actividad económica, pero que no generan relaciones laborales con ella derivado de que la relación laboral existe con otra empresa;
-
-XIX. Empleo permanente: Puestos de trabajo de cualquier naturaleza que son necesarios para que la empresa realice su actividad económica y cuya existencia no está sujeta a ningún tipo de temporalidad o estacionalidad;
-
-XX. Empresa: Persona física o moral con actividad económica;
-
-XXI. Estado o Entidad o Puebla: El Estado de Puebla;
-
-XXII. Fondo de garantía: Recursos económicos puestos a disposición de las instituciones financieras con el objeto de mitigar las estimaciones de riesgo de los proyectos para los cuales las empresas solicitan financiamiento;
-
-XXIII. Humanista: Que está centrado en el ser humano;
-
-XXIV. Incentivo: Apoyo otorgado por el Gobierno Federal, Estatal o Municipal a una empresa con el fin de favorecer su inversión productiva dentro del territorio Estatal;
-
-XXV. Infraestructura logística y de conectividad: Instalaciones físicas que favorecen la movilidad eficiente de las personas así como de los bienes y servicios producidos por las empresas;
-
-XXVI. Inversión productiva: Disposición de capital que incrementa la capacidad para generar bienes y servicios o que permite generarlos de manera más eficiente a través del uso de mejores tecnologías, impactando de manera positiva en la generación de empleos;
-
-XXVII. La Secretaría: La Dependencia de la Administración Pública del Estado responsable de atender el desarrollo económico según lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Puebla;
-
-XXVIII. Ley: Ley de Desarrollo Económico Sustentable del Estado de Puebla;
-
-XXIX. MIPYMES: Micro, pequeñas y medianas empresas legalmente constituidas, estratificadas por la Secretaría de Economía de acuerdo al sector al que pertenecen con base al número de trabajadores y monto de ventas según la publicación del Diario Oficial de la Federación del treinta de junio del dos mil nueve:
-
-> <small>[N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL P.O. DE 30 DE MARZO DE 2015, PÁGINA 7.]</small>
-
-XXX. Mejora regulatoria: Adecuaciones al marco legal y normativo aplicable a las empresas con el objeto de facilitar su apertura, operación y desarrollo;
-
-XXXI. OCDE: Organización para la Cooperación y el Desarrollo Económico;
-
-XXXII. Oferta exportable: Bienes y servicios producidos en el Estado y sujetos a ser comercializados en el extranjero;
-
-XXXIII. Organismo empresarial: Asociación o agrupación de empresas o empresarios constituida conforme al marco legal vigente;
-
-XXXIV. Parque industrial: Superficie de terreno fraccionado, dotado de infraestructura, que satisface la Norma Mexicana NMX-R-046-SCFI-2011 necesaria para alojar empresas. Debe contar con una administración, un reglamento interior, y todo lo necesario para satisfacer las Normas Oficiales Mexicanas aplicables;
-
-XXXV. Peso: Moneda corriente de los Estados Unidos Mexicanos de conformidad con la Ley Monetaria;
-
-XXXVI. Promoción de la inversión productiva: Actividades, acciones, gestiones, iniciativas, programas, proyectos y políticas públicas del Ejecutivo del Estado que tienen por objeto posicionar al Estado como destino de inversiones productivas y que busquen la atracción de las mismas;
-
-XXXVII. Proyecto de inversión: Documento en el que se describe el conjunto de actividades y recursos necesarios para establecer una inversión productiva o para que una empresa existente incursione en mercados internacionales;
-
-XXXVIII. Recurrente: Promovente del recurso de revisión;
-
-XXXIX. Reglamento: Reglamento de la Ley de Desarrollo Económico Sustentable del Estado de Puebla;
-
-XL. Secretaría de Finanzas: La Dependencia de la Administración Pública del Estado responsable de atender la Administración y Finanzas Estatales según lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Puebla;
-
-XLI. Sector económico: Clasificación de las actividades económicas, de acuerdo con el tipo de bien o servicio que se produce en la unidad productiva de conformidad con el Instituto Nacional de Estadística y Geografía (INEGI);
-
-XLII. Sector estratégico: Actividad económica que por su potencial en la creación de valor se determina prioritaria para el Estado;
-
-XLIII. Subcomité: Subcomité del Sector Productivo organizado en cumplimiento a la Ley de Planeación para el Desarrollo del Estado;
-
-XLIV. Unidad de producción o unidad productiva: Instalación física destinada a actividades económicas;
-
-XLV. Vocación económica o vocación productiva: Actividad económica que encuentra las condiciones geográficas, físicas, sociales y/o ambientales óptimas para su desarrollo en alguna región del Estado y por ello es determinada y publicada por el Ejecutivo, y
-
-XLVI. Zona industrial: Demarcación en la que están establecidas o van a establecerse empresas y que puede o no contar con parques industriales.
-
-### CAPÍTULO III. DE LOS OBJETIVOS DE LA LEY
+### CAPÍTULO II. DE LA DIRECCIÓN GENERAL
 
 ###### ARTÍCULO 5.
 
-Esta Ley tiene los siguientes objetivos:
+Para el despacho de los asuntos de su competencia, SAPAET contará en su estructura orgánica con las siguientes unidades administrativas:
 
-I. Orientar el Desarrollo Económico del Estado hacia el humanismo y la sustentabilidad;
+1. Dirección General
 
-II. Reconocer y empoderar a la persona humana como la actora y beneficiaria principal del desarrollo económico;
+1.1. Secretaria Particular
 
-III. Privilegiar el cuidado del medio ambiente en cualquier actividad económica del Estado;
+1.2. Secretaria Técnica
 
-IV. Impulsar la competitividad del Estado y sus regiones;
+1.3. Unidad de Acceso a la Información
 
-V. Identificar los sectores estratégicos y las vocaciones económicas orientando el desarrollo económico sustentable hacia ellos;
+1.4. Dirección de Administración
 
-VI. Fomentar y propiciar la participación de los actores en el desarrollo económico sustentable del Estado y sus regiones;
+1.5. Dirección de Asuntos Jurídicos
 
-VII. Sistematizar la información económica del Estado y hacerla disponible para la promoción de la inversión productiva;
+1.6. Dirección de Planeación
 
-VIII. Impulsar la competitividad y el desarrollo económico sustentable de las regiones del Estado;
+2. Dirección de Construcción
 
-IX. Promover la inversión productiva con pleno respeto al medio ambiente en las diversas regiones del Estado;
+3. Dirección de Operación, Mantenimiento y Control de Calidad del Agua
 
-X. Estimular el desarrollo del capital humano;
+4. Dirección Técnica
 
-XI. Fomentar el desarrollo de las cadenas productivas así como asociatividad de los agentes económicos que participan en ellas;
+5. Dirección de Comercialización
 
-XII. Fomentar en el Estado la producción de bienes de alto valor agregado;
+6. Dirección de Desarrollo Social
 
-XIII. Impulsar el desarrollo de la infraestructura logística y de conectividad del Estado que faciliten el establecimiento de inversiones y el desarrollo económico;
-
-XIV. Promover el establecimiento, operación y desarrollo de parques y zonas industriales;
-
-XV. Fomentar la coordinación interinstitucional entre las diferentes dependencias estatales y municipales así como entidades paraestatales y paramunicipales a efecto de incrementar la competitividad del Estado;
-
-XVI. Fomentar la creación, desarrollo, expansión y asociatividad de las MIPYMES;
-
-XVII. Establecer los mecanismos mediante los cuales la Secretaría elaborará las políticas de corto, mediano y largo plazo, para elevar la productividad y competitividad de las MIPYMES;
-
-XVIII. Impulsar la comercialización de productos poblanos en los mercados locales, nacionales e internacionales, y
-
-XIX. Establecer las condiciones para impulsar, entre los recién egresados de los sistemas de educación media y superior, la cultura emprendedora, la innovación y la creación de empresas.
+SAPAET contará además, con las unidades administrativas que se creen por necesidades del servicio y que figuren en el presupuesto autorizado.
 
 ###### ARTÍCULO 6.
 
-El Ejecutivo del Estado, a través de la Secretaría y otras dependencias estatales así como de los Ayuntamientos, orientará el desarrollo económico del Estado para hacerlo sustentable y humanista, a través de las siguientes acciones:
+Para desempeñar el cargo de Director General, director, titular de unidad o jefe de departamento se requiere:
 
-I. Buscar que los empleadores garanticen las condiciones ergonómicas en sus centros de trabajo de conformidad con la normatividad laboral y las Normas Oficiales Mexicanas vigentes;
+I. Ser mexicano en pleno uso de sus derechos;
 
-II. Vigilar el cumplimiento oportuno de las obligaciones de las empresas para con sus trabajadores;
+II. Tener 24 años de edad como mínimo en la fecha de su designación;
 
-III. Generar las condiciones para garantizar la integridad de los trabajadores, de sus familias y de sus bienes;
+III. No ser ministro de culto religioso;
 
-IV. Impulsar la vinculación de las MIPYMES con el sector público y con empresas grandes;
+IV. No haber sido condenado por delito doloso que merezca pena corporal; y
 
-V. Establecer las condiciones mínimas necesarias para que los trabajadores y sus familias puedan tener una vida digna;
+V. Contar preferentemente con estudios profesionales relativos al ejercicio de tas atribuciones que le competen.
 
-VI. Asegurar que los empleadores observen las disposiciones de la Ley Federal del Trabajo y la legislación en la materia;
-
-VII. Promover el respeto y la observancia de las leyes nacionales y tratados internacionales en materia de medio ambiente, seguridad y salud en el trabajo;
-
-VIII. Vigilar el cumplimiento oportuno de las empresas respecto a las regulaciones en materia de medio ambiente y conservación de recursos naturales;
-
-IX. Promover la transferencia de tecnología y el desarrollo científico y tecnológico que incrementen la eficiencia y calidad productiva de las empresas, y
-
-X. Privilegiar el establecimiento de empresas cuyos estándares de cuidado ambiental y eficiencia sean superiores a los estándares establecidos en las regulaciones aplicables a nivel estatal y/o federal.
+Para los cargos de jefe de área, jefe de proyecto y demás de menor nivel jerárquico, deberán de cumplir con los mismos requisitos, con excepción de la edad mínima que deberá ser de 18 años el día de su designación.
 
 ###### ARTÍCULO 7.
 
-Para elevar de manera sostenida la competitividad de la Entidad, es atribución del Ejecutivo realizar, a través de las Dependencias de la Administración Pública Estatal, las siguientes acciones:
-
-I. Vigilar y promover el cumplimiento de la Ley de Gobernanza Regulatoria para el Estado de Puebla y definir políticas en la materia;
-
-II. Fortalecer los lazos del Estado con la Coordinación Fiscal de la Federación a efecto de hacer eficiente la aplicación de las políticas tributarias en el Estado de Puebla;
-
-III. Implantar las mejoras en las condiciones físicas, sociales, educativas y reglamentarias que favorezcan en el Estado la rentabilidad de las actividades económicas existentes y la atracción de nuevas inversiones;
-
-IV. Promover los cambios a la normatividad estatal aplicable para que los procedimientos, tiempos y costos relativos a la constitución de las empresas, la construcción y/o mejora de sus instalaciones así como su registro y operación sean transparentes y eficientes, respetando en todo momento la autonomía municipal;
-
-V. Promover el desarrollo de infraestructura económica que facilite el establecimiento de inversiones productivas, la movilidad de las personas y el transporte de bienes y servicios en el Estado;
-
-VI. Recibir de las universidades y organismos públicos o privados, nacionales o internacionales, para su estudio, análisis e implementación, recomendaciones que, de implementarse en el Estado, faciliten las actividades económicas;
-
-VII. Promover acciones que favorezcan el buen entendimiento entre los agentes económicos;
-
-VIII. Garantizar las condiciones para la impartición pronta y expedita de justicia por parte de los tribunales en materia laboral en el Estado, y
-
-IX. Instrumentar las acciones necesarias para salvaguardar los derechos de propiedad de bienes inmuebles dentro del Estado, que de manera enunciativa más no limitativa incluyan mejoras al Registro Público de la Propiedad del Estado de Puebla y la protección frente a invasiones.
+La dirección y administración de SAPAET estará a cargo de un Director General, a quién le corresponde el trámite y resolución de los asuntos relacionados con el Órgano.
 
 ###### ARTÍCULO 8.
 
-El Ejecutivo del Estado, a través de la Secretaría, identificará y determinará los sectores que considere estratégicos para el desarrollo económico de la Entidad.
+El Director General, sin perjuicio de las facultades que se establecen en el Acuerdo de Creación de SAPAET, tendrá las siguientes atribuciones no delegables:
 
-Una vez determinados los sectores estratégicos, el Ejecutivo podrá impulsar incentivos dirigidos a esos sectores.
+I. Ejercer la representación legal de SAPAET;
 
-## TÍTULO SEGUNDO. DE LA SOCIEDAD Y GOBIERNO
+II. Conducir las relaciones del Órgano con las demás instancias estatales, federales y municipales, en los asuntos de su competencia;
 
-### CAPÍTULO I. DE LA PARTICIPACIÓN DE LA SOCIEDAD
+III. Dirigir la política del Órgano de acuerdo con las disposiciones legales aplicables;
+
+IV. Formular los proyectos de iniciativas de ley, reglamentos, decretos, acuerdos y demás disposiciones de orden general que se requieran, para el manejo de los asuntos competencia del Órgano, y presentarlos para su aprobación al Secretario;
+
+V. Presentar al Secretario los proyectos de programas, tanto de operaciones como presupuestales para su aprobación;
+
+VI. Celebrar convenios o contratos necesarios para el cumplimiento de sus objetivos con autoridades federales, estatales y municipales, de conformidad con las disposiciones legales aplicables y las necesidades del órgano, previa aprobación del Secretario;
+
+VII. Celebrar convenios o contratos con Instituciones Crediticias, con el fin de solicitar créditos para obras de ampliación o mejoras de tos sistemas, previa autorización del Secretario y el H. Congreso del Estado;
+
+VIII. Formular· y presentar al Secretario los estados financieros, balances e informes generales y especiales, que permitan conocer la situación financiera, operativa y administrativa del Órgano;
+
+IX. Realizar un seguimiento permanente del cumplimiento de las metas de las diferentes unidades administrativas a su cargo;
+
+X. Coordinar la integración del Programa Operativo Anual y supervisar el trámite hasta su aprobación final;
+
+XI. Participar en las evaluaciones periódicas de la aplicación del Programa Operativo Anual y de gasto corriente, en coordinación con las dependencias normativas;
+
+XII. Supervisar el aprovechamiento adecuado de los recursos humanos, técnicos, financieros y materiales asignados a SAPAET;
+
+XIII. Consultar al Secretario, cuando la naturaleza o cuantía de los asuntos lo requieran;
+
+XIV. Nombrar y remover al personal administrativo y técnico de SAPAET, señalando sus adscripciones y remuneraciones correspondientes;
+
+XV. Imponer a los trabajadores de SAPAET, las correcciones disciplinarias, sanciones e inclusive el cese a que se hagan acreedores, cuando incurran en cualquiera de las infracciones o causales que prevé la Ley de los Trabajadores al Servicio del Estado de Tabasco, las condiciones generales de trabajo y demás leyes aplicables;
+
+XVI. Celebrar los actos jurídicos de dominio y administración que sean necesarios pará el funcionamiento de SAPAET o para la prestación del servicio conforme a los lineamientos que fije el Secretario;
+
+XVII. Designar al personal que deba sustituir en sus ausencias temporales a cada uno de los directores y titulares de las unidades de apoyo;
+
+XVIII. Dar por terminadas las relaciones de trabajo de los trabajadores de SAPAET en los casos en que proceda, conforme a la Ley;
+
+XIX. Expedir factibilidades de agua y drenaje, determinando los montos y cobros por los derechos de interconexión;
+
+XX. Aprobar las memorias de cálculos, proyectos y los planos correspondientes, previo dictamen de la Dirección Técnica;
+
+XXI. Planear y programar coordinadamente con las dependencias del gobierno federal, estatal y municipal, las obras para el abastecimiento de agua a los centros de población e industrias, alcantarillado y control de contaminación del agua en el Estado; y
+
+XXII. Las demás que le confieran las disposiciones legales aplicables, el Secretario o el Gobernador del Estado.
+
+## TÍTULO SEGUNDO. DE LA ESTRUCTURA ADMINISTRATIVA
+
+### CAPÍTULO I. DE LA SECRETARÍA PARTICULAR
 
 ###### ARTÍCULO 9.
 
-El Ejecutivo del Estado promoverá la participación honorífica de la sociedad civil organizada, los académicos, los empresarios, los trabajadores y los servidores públicos en sus tres niveles de Gobierno, en el impulso a la competitividad y el desarrollo económico sustentable del Estado, así como en la integración del proceso de consulta y diseño de las políticas públicas en la materia.
+Corresponde a la Secretaria Particular, el ejercicio de las siguientes atribuciones:
 
-A efecto de lo anteriormente mencionado, la Secretaría convocará, al menos dos veces por año, a sesionar de manera conjunta a los actores así como al menos a un representante de cada uno de los consejos regionales a que se refiere el artículo 11.
+I. Apoyar al Director General en el manejo de las unidades administrativas, así como atender y desahogar los asuntos que no requieran su intervención directa;
 
-Las sesiones a las que se refiere el párrafo anterior, servirán al mismo tiempo, como instrumento para dar cumplimiento a la Ley de Planeación para el Desarrollo del Estado en lo referente al Sistema Estatal de Planeación Democrática del sector económico, de manera que éstas serán un Subcomité del Comité de Planeación para el Desarrollo del Estado de Puebla.
+II. Organizar y controlar la audiencia, correspondencia, agenda de trabajo y archivo del Director General;
+
+III. Representar al Director General en las comisiones que éste le asigne;
+
+IV. Tramitar y solicitar ante la Dirección de Administración, los recursos y servicios necesarios, para el adecuado cumplimiento de las facultades del Director General;
+
+V. Servir de enlace informativo entre los servidores públicos al servicio de SAPAET, para dar a conocer las instrucciones que gire el Director General;
+
+VI. Recibir, revisar y turnara la Dirección General la información que proceda de cualquier área de SAPAET, así como informar oportunamente cualquier acontecimiento relacionado con las actividades del Órgano; y,
+
+VII. Las demás que le encomiende el Director General; (sic)
 
 ###### ARTÍCULO 10.
 
-El Subcomité tendrá por objeto:
+Corresponde a la Secretaría Técnica, el ejercicio de las siguientes atribuciones:
 
-I. Dar cumplimiento a la Ley de Planeación para el Desarrollo del Estado;
+I. Diseñar las exposiciones que a juicio del Director General deban de presentarse respecto de las obras, concluidas o los avances logrados por el Órgano;
 
-II. Analizar y discutir la perspectiva de desarrollo económico del Estado y sus regiones con la finalidad de coadyuvar en la identificación de sectores estratégicos y vocaciones económicas;
+II. Realizar las acciones necesarias para integrar los folletos de promoción de las actividades del Órgano;
 
-III. Analizar la normatividad aplicable en los ámbitos Estatal y Municipal para hacer recomendaciones al Ejecutivo y a los Ayuntamientos a fin de lograr la simplificación administrativa y la mejora regulatoria necesarias para elevar de manera sostenida la competitividad del Estado;
+III. Elaborar las fichas técnicas para los acuerdos del Director General con el Gobernador;
 
-IV. Proponer al Ejecutivo, a través de la Secretaría, medidas de apoyo para la creación, desarrollo, expansión y sustentabilidad de las MIPYMES así como su participación en las cadenas productivas;
+IV. Realizar las gestiones necesarias para que en las giras de trabajo del Director General se cuente con la información' y material de apoyo necesario relativo a las acciones realizadas por el Órgano;
 
-V. Promover la celebración de acuerdos de coordinación entre los distintos órdenes de Gobierno y con otras instituciones para fomentar el desarrollo competitivo del Estado;
+V. Coadyuvar con las unidades de apoyo de la Dirección General, exceptuando a la Secretaria Particular, para el mejor desarrollo de sus funciones;
 
-VI. Proponer y fundamentar estrategias para la atracción de inversiones y creación de nuevos empleos;
+VI. Recepcionar y analizar la correspondencia y la documentación, canalizándola a la unidad administrativa correspondiente para su atención y seguimiento pertinente;
 
-VII. Proponer estrategias que estimulen el desarrollo del capital humano y coadyuven a la consolidación de empleos bien remunerados;
+VII. Controlar el sistema estadístico de la correspondencia del Órgano;
 
-VIII. Investigar y presentar oportunidades que favorezcan la modernización de las empresas, la transferencia de tecnología, la innovación y el mejoramiento de las condiciones ergonómicas en los centros de trabajo;
+VIII. Generar un banco de información para la Dirección General;
 
-IX. Proponer mecanismos de colaboración entre los sectores académico y productivo que favorezcan el desarrollo del capital humano, la innovación, la competitividad, el desarrollo tecnológico y el desarrollo económico;
+IX. Recopilar y formular la documentación que se envía a los diferentes medios de comunicación para su publicación;
 
-X. Discutir y promover la participación de los actores en el desarrollo de la infraestructura económica del Estado y sus Regiones, y
+X. Asistir y atender las solicitudes presentadas en las audiencias públicas en las que participa SAPAET;
 
-XI. Proponer al Ejecutivo modificaciones a esta Ley.
+XI. Mantener un monitoreo en los diversos medios de comunicación para captar la demanda ciudadana relacionada con agua potable y alcantarillado;
+
+XII. Recepcionar y efectuar el seguimiento de la demanda ciudadana canalizada por las demás instituciones del Poder Ejecutivo;
+
+XIII. Sugerir el desarrollo de programas y actividades de apoyo al cumplimiento de los objetivos del Órgano;
+
+XIV. Coordinar y atender a los grupos comunitarios en ausencia del Director
+
+General;
+
+XV. Coordinarlas visitas y giras del Director General y generar la información para la difusión en los medios de comunicación hacia la opinión pública;
+
+XVI. Canalizar a las unidades administrativas correspondientes las demandas que se realizan en los diversos medios de comunicación y vigilar que se realice el seguimiento oportuno;
+
+XVII. Diseñar, ejecutar y supervisar acciones que vinculen al usuario con los servicios del Órgano y proyectar las campañas institucionales para orientar a la población en general;
+
+XVIII. Coordinarlas diferentes actividades de la Dirección General en los eventos públicos y propios de SAPAET; y
+
+XIX. Las demás que le encomiende expresamente el Director General.
 
 ###### ARTÍCULO 11.
 
-La Secretaría propiciará la formación de Consejos Regionales para el desarrollo económico sustentable en cada una de las regiones determinadas en el artículo 3, mismos que se deberán integrar y sesionar de manera equivalente al Subcomité a que hace referencia el artículo 9 con representantes de los sectores empresarial, sindical, académico, social y gubernamental de cada región, quienes participarán de manera honorífica en estos Consejos.
+Corresponde a la Unidad de Acceso a la Información, el ejercicio de las atribuciones que establece el artículo 39 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
-Los Consejos Regionales deberán coadyuvar con la Secretaría en el impulso a la competitividad y el desarrollo económico sustentable de su región, y tendrán las siguientes atribuciones:
-
-I. Coadyuvar con la Secretaría y el Subcomité en la identificación de las vocaciones productivas y sectores estratégicos;
-
-II. Colaborar con la Secretaría en el impulso de la competitividad y el desarrollo económico sustentable de su región;
-
-III. Realizar y presentar a la Secretaría diagnósticos, estudios, análisis e información oportunos para la planeación estratégica del desarrollo económico de su región;
-
-IV. Identificar y presentar a la Secretaría la problemática principal de su región y sus propuestas de solución;
-
-V. Proponer alternativas para el desarrollo de actividades económicas en la región de acuerdo a sus vocaciones productivas;
-
-VI. Proponer estrategias que estimulen el desarrollo del capital humano y coadyuven a la consolidación de empleos bien remunerados;
-
-VII. Proponer al Ejecutivo del Estado y a los Municipios, a través de la Secretaría, el desarrollo de infraestructura económica de su región;
-
-VIII. Colaborar con los Municipios integrantes de su región para impulsar la simplificación administrativa y la mejora regulatoria;
-
-IX. Colaborar con los Municipios integrantes de su región para elaborar y ejecutar sus planes de desarrollo económico así como la inclusión de un apartado de desarrollo económico sustentable en sus planes municipales de desarrollo, y
-
-X. Seleccionar de entre sus integrantes a quienes los representarán en el Subcomité descrito en el artículo 9.
-
-### CAPÍTULO II. DE LA INFORMACIÓN ECONÓMICA
+### CAPÍTULO II. DE LA SECRETARÍA TÉCNICA
 
 ###### ARTÍCULO 12.
 
-Es obligación del Ejecutivo del Estado, a través de la Secretaría, obtener la información de la actividad económica de la Entidad, con el objeto de disponer de indicadores relevantes y oportunos para la toma de decisiones y facilitar la planeación para el impulso de la competitividad y el desarrollo económico sustentable del Estado de Puebla.
+Al frente de cada una de las direcciones, habré un director que se auxiliará con los subdirectores, jefes de departamento y demás personal que las necesidades del servicio requieran y él presupuesto determine.
 
 ###### ARTÍCULO 13.
 
-La información económica deberá ser útil para determinar entre otros:
+Corresponde a los directores las siguientes atribuciones genéricas:
 
-I. La actividad económica por sector, descrita en valor de moneda corriente;
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones correspondientes a la dirección, a su cargo;
 
-II. Los montos de inversión, su origen y destino, y
+II. Formular dictámenes, opiniones e informes vinculados a la naturaleza de la dirección a su cargo;
 
-III. La generación de empleos permanentes y temporales.
+III. Formular los programas y anteproyectos de presupuesto de la dirección a su cargo y gestionar la aplicación de recursos humanos, materiales y económicos que sean necesarios, para el buen desarrollo de las funciones que tengan encomendadas;
+
+IV. Delegar las funciones que le confiere este Reglamento al personal adscrito a su dirección, sin perjuicio de su ejercicio directo;
+
+V. Proponer al Director General la resolución de los asuntos cuya tramitación corresponda a la dirección;
+
+VI. Apoyar técnicamente al Director General en los asuntos de su competencia;
+
+VII. Coordinarse con los titulares y con los servidores públicos de otras dependencias, para el mejor funcionamiento de SAPAET;
+
+VIII. Recibir, sustanciar y resolver los recursos que interpongan los particulares en contra de actos, hechos o resoluciones de los subdirectores y jefes de departamento de la dirección a su cargo;
+
+IX. Proponer el otorgamiento de premios estimulas y recompensas a que se haga acreedor el personal del Órgano;
+
+X. Recabar previamente la opinión y mantener informada a la Dirección de Asuntos Jurídicos en todos los asuntos de carácter legal;
+
+XI. Coadyuvar y participar en la actualización del manual de organización y procedimientos y de los proyectos relacionados con su área;
+
+XII. Proponer al Director General el ingreso, las promociones, las licencias y las remociones del personal de la dirección, así como colocar; intervenir e informar respecto al movimiento del personal a su cargo;
+
+XIII. Coordinar sus actividades con las demás direcciones, cuando así se requiera para el mejor desempeño de sus funciones;
+
+XIV. Aplicar y vigilar el manejo y buen aprovechamiento de los recursos financieros, materiales y humanos asignados a la dirección;
+
+XV. Comunicar al Director General y. a la Dirección de Asuntos Jurídicos, los actos contrarios a las leyes en que incurra el personal a su cargo;
+
+XVI. Participar en la atención y seguimiento de las auditorias efectuadas por los diferentes órganos de control;
+
+XVII. Participar en las comisiones que le sean indicadas por el Director General;
+
+XVIII. Elaborar estudios y proyectos para mejorar la organización administrativa y operativa de la dirección;
+
+XIX. Apoyar en fa organización y coordinación de las actividades de soporte logístico requerido por la Dirección General; y
+
+XX. Las demás que determinen las disposiciones legales aplicables y las que le encomiende el Director General.
 
 ###### ARTÍCULO 14.
 
-La Secretaría deberá obtener la información de las empresas establecidas en la Entidad, a la cual dará el tratamiento establecido en la Ley para la Protección de Datos Personales y podrá ser utilizada únicamente para cumplir lo descrito en el artículo 12.
+Corresponde a la Dirección de Administración el ejercicio de las siguientes atribuciones:
 
-La información se agrupará de la siguiente manera:
+I. Gestionar, proporcionar y controlar los recursos humanos, materiales, financieros y servicios necesarios para la operación de las unidades administrativas de SAPAET, conforme a los procedimientos y políticas establecidas;
 
-I. Por sector;
+II. Planear y controlar el uso eficiente de los recursos materiales y financieros;
 
-II. Por tamaño de empresa;
+III. Proponer al Director General las prioridades de acción que se detecten en relación al suministro de los bienes y servicios que se requieran para su funcionamiento;
 
-III. Por región del Estado, y
+IV. Organizar, examinar y supervisar el desarrollo de procedimientos y sistemas de control de los recursos humanos, materiales y financieros del Órgano;
 
-IV. Por la combinación de cualesquiera de los anteriores.
+V. Controlarlas actividades del personal de SAPAET, así como los pagos y prestaciones relacionadas con los mismos;
 
-De manera complementaria a los indicadores generados por los Sistemas Estatal y Nacional de Información, la Secretaría analizará y agrupará la información para generar anualmente los indicadores econométricos, estudios, análisis y presentaciones necesarias para impulsar la competitividad y el desarrollo económico sustentable de la Entidad. La información generada por la Secretaría será pública y estará disponible para su consulta en el portal electrónico de la misma.
+VI. Elaborar la documentación necesaria para los trámites ante la Secretaria de
+
+Administración y Finanzas, a fin de obtener los recursos económicos para dar suficiencia a los proyectos que se generen en el Órgano;
+
+VII. Elaborar los estados financieros del Órgano, cumpliendo con los lineamientos emitidos por la Secretaría de Administración y Finanzas;
+
+VIII. Supervisar y presentar periódicamente el estado contable del Órgano, que refleje el cumplimiento del Programa Operativo Anual y el ejercido del gasto corriente asignado, así como de los diferentes programas a ejecutar, para la aprobación del Director General;
+
+IX. Participar en el Subcomité de Compras de SAPAET;
+
+X. Coordinar, dirigir, ejecutar y supervisar las acciones que en materia de adquisiciones realice el Órgano;
+
+XI. Planear, coordinar y controlar los bienes y servicios del Órgano, así como la administración de los recursos económicos del mismo;
+
+XII. Supervisar y establecer controles en' el manejo de fondos revolventes, de acuerdo con el manual de normas y procedimientos vigentes;
+
+XIII. Elaborar e integrar en coordinación con la Dirección de Planeación el anteproyecto del Presupuesto de Egresos y el Programa Operativo Anual de SAPAET, de acuerdo a los programas de las unidades administrativas, sometiéndolo a la evaluación del Director General;
+
+XIV. Efectuar la adquisición y contratación de los servicios necesarios para el desarrollo de las actividades del Órgano, de acuerdo a los lineamientos y normas vigentes;
+
+XV. Dar aviso a las secretarías de Contraloría y de Administración y Finanzas, de las bajas y modificaciones que se generen en el patrimonio de SAPAET;
+
+XVI. Adquirir, distribuir y controlar los insumos necesarios para la construcción, rehabilitación, mejoramiento, operación y conservación de los sistemas de agua potable y alcantarillado en el estado de Tabasco;
+
+XVII. Supervisar la conservación y mantenimiento de las instalaciones del Órgano;
+
+XVIII. Efectuar, supervisar y registrar las reparaciones del equipo electromecánico y móvil del Órgano, así como el mantenimiento preventivo del mismo;
+
+XIX. Conservar y resguardar la documentación que se genere en el Órgano;
+
+XX. Gestionar la entrega de los recursos autorizados a fin de garantizar la disponibilidad de los mismos, para la ejecución de los planes y programas de SAPAET;
+
+XXI. Registrar, controlar y supervisar el ejercicio de los recursos financieros obtenidos a través de créditos bancarios;
+
+XXII. Revisar, autorizar y tramitar las facturas y estimaciones para su pago correspondiente en coordinación con la Dirección de Operación, Mantenimiento y Control de la Calidad del Agua, Dirección Técnica y la Dirección de Construcción;
+
+XXIII. Elaborar y gestionar las nóminas del personal de SAPAET y realizar todos los trámites necesarios para efectuar el pago oportuno de las mismas;
+
+XXIV. Autorizar la documentación necesaria para los trámites administrativos relativos a las erogaciones con cargo del presupuesto y presentar al Director General la que requiera su autorización;
+
+XXV. Controlar, resguardar e inventariar los bienes muebles asignados al Órgano;
+
+XXVI. Transferir y enterar recursos a la Secretaria de Administración y Finanzas, realizando las gestiones para su devolución a SAPAET;
+
+XXVII. Atender los requerimientos de información que se generen para las auditorias y evaluaciones contables que se realicen;
+
+XXVIII. Realizar y tramitar la contratación del personal requerido para la operación de SAPAET;
+
+XXIX. Llevar el control de puntualidad y asistencia del personal de SAPAET; y
+
+XXX. Realizar todos los trámites que requiera el Órgano en materia fiscal.
 
 ###### ARTÍCULO 15.
 
-Las empresas están obligadas a proporcionar la siguiente información:
+Corresponde a la Dirección de Asuntos Jurídicos el ejercicio de las siguientes atribuciones:
 
-I. Sector al que pertenece;
+I. Representar jurídicamente a SAPAET, ante los tribunales federales y del fuero común y ante toda autoridad jurisdiccional o administrativa con facultades jurisdiccionales·, en los trámites de cualquier asunto de naturaleza jurídica, con excepción de la fiscal, con todos los derechos procesales que las leyes reconocen a las personas físicas y jurídico colectivas, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, formular y absolver posiciones, ofrecer y rendir toda clase de pruebas, recusar jueces inferiores y superiores, apelar, interponer y desistirse de juicios de amparo y. los recursos previstos por la Ley en la materia, y en general, para que promueva o realice todos los actos permitidos por las leyes que favorezcan al órgano;
 
-II. Número de personal ocupado;
+II. Representar al Director General en los juicios laborales en que sea parte, y en representación de éste, contestar las consultas, peticiones y excitativas de naturaleza jurídica que se presenten;
 
-III. Monto de ventas en moneda corriente;
+III. Establecer coordinación con la Consejería Jurídica del Poder Ejecutivo a fin de que el tratamiento de los asuntos jurídicos a cargo del Órgano, sea congruente con el esquema general definido por la referida dependencia;
 
-IV. Monto de inversión indicando el origen de los recursos, y
+IV. Formar parte de la Comisión de Estudios Jurídicos del Gobierno de I Estado presidida por la Consejería Jurídica del Poder Ejecutivo;
 
-V. Estados y/o países en los que vende sus productos.
+V. Difundir, interpretar y. vigilar que se cumplan las leyes, reglamentos, acuerdos y toda disposición jurídica relativa a la prestación de los servicios de agua potable y alcantarillado;
 
-Las empresas deberán capturar la información en el formato que el Gobierno del Estado hará disponible en su portal electrónico. A efecto de lo anterior, a más tardar el treinta de noviembre de cada año, la Secretaría enviará a la Secretaría de Finanzas el formato en comento, a efecto de que lo haga disponible a las empresas a partir del primero de enero del año inmediato siguiente.
+VI. Substanciar y resolver los recursos que interpongan los particulares en contra de los actos de SAPAET;
 
-Las empresas deberán completar el formato con la periodicidad con la que cumplen con las obligaciones fiscales en el Estado. Cuando las empresas realicen sus contribuciones de manera anticipada, al momento de realizar la contribución deberán proporcionar la información que corresponda al periodo inmediato anterior, esto puede ser mensual o anual.
+VII. Instruir, asesorar, orientar, establecer y vigilar que se cumpla con las leyes y demás normas aplicables en las relaciones de trabajo;
+
+VIII. Formular, interponer, integrar y dar seguimiento a las denuncias, querellas, demandas y quejasen representación de SAPAET ante las autoridades competentes, por hechos que afecten el patrimonio, el buen nombre del Órgano, impidan el cumplimiento en la prestación del servicio o ejecuten cualquier hecho en perjuicio del mismo, así como desistirse de las mismas u otorgar el perdón; previo acuerdo con el Director General;
+
+IX. Atender los citatorios y asistir a las audiencias conciliatorias, efectuar transacciones, celebrar convenios de terminación de la relación laboral, de liquidación o de reinstalación, así como aquellos actos derivados de la relación laboral que exista entre el Órgano y sus trabajadores;
+
+X. Recibir, iniciar; integrar y levantar las actas administrativas en contra de los trabajadores de SAPAET que infrinjan las normas laborales, y previo acuerdo con el Director General determinar las mismas;
+
+XI. Tramitar ante la Comisión Nacional del Agua los títulos de concesión para explotar, usar o aprovechar aguas nacionales, superficiales y aguas nacionales del subsuelo por volumen; así como los permisos pertinentes para efectuar las descargas de aguas residuales;
+
+XII. Asesorar jurídicamente al Director General, cuando en representación de
+
+SAPAET celebre acuerdos de coordinación con cualquier autoridad;
+
+XIII. Elaborar, integrar d revisar los contratos y convenios que celebre, el Órgano;
+
+XIV. Atender, orientar y apoyar jurídicamente a las otras direcciones de SAPAET, sobre asuntos que sometan a su consideración relacionados con el Órgano;
+
+XV. Sustanciar los procesos de rescisión administrativa de contratos celebrados con el Órgano y que le sean turnados a esta Dirección en caso de incumplimiento, emitiendo las resoluciones que en derecho procedan;
+
+XVI. Tramitar la publicación de acuerdos y documentos que ordene el Director
+
+General;
+
+XVII. Practicar inspecciones para controlar hechos o actos de terceros que causen perjuicio al Órgano;
+
+XVIII. Levantar actas en coordinación con las direcciones vinculadas, para hacer constar actos o hechos que causen perjuicios al Órgano o por cualquier otra causa o razón;
+
+XIX. Elaborar, integrar, organizar y tramitar en colaboración con las direcciones vinculadas, el procedimiento legal correspondiente ante las autoridades competentes, dirigido a hacer efectivas las garantías otorgadas a favor de SAPAET;
+
+XX. Auxiliar, orientar y asesorar jurídicamente a los diversos Comités de Agua potable y Alcantarillado, cuándo lo requiera la Dirección de Desarrollo Social;
+
+XXI. Atender, substanciar y determinar previo acuerdo con el Director General, las quejas y demandas de terceros que sufran daños con la ejecución de los trabajos que realiza SAPAET o por causas atribuibles al mismo;
+
+XXII. Atender o tramitar en coordinación con las Direcciones de Comercialización y de. Operación, Mantenimiento y Control de Calidad del Agua, la individualización de tomas cuando la naturaleza técnica y jurídica lo permita;
+
+XXIII. Contestar los informes y recomendaciones que emitan la Comisión Estatal o
+
+Nacional de Derechos Humanos;
+
+XXIV. Elaborar los, informes Previos y justificados en materia de amparo que soliciten los Juzgado y Tribunales Federales, y actuar como delegado en dichos juicios;
+
+XXV. Contestar las demandas de amparo en contra de los actos de autoridad que infrinjan las garantías constitucionales;
+
+XXVI. Solicitar y recabar los, servicios profesionales de peritos y notarios cuando se requiera;
+
+XXVII. Integrar y elaborar en coordinación con las otras direcciones las actas en las que el Órgano entregue o recepcione bienes;
+
+XXVIII. Recibir, resguardar y registrar en el libro de gobierno las garantías que se otorguen a favor de SAPAET;
+
+XXIX. Analizar, contestar y atender los oficios de autoridades federales, estatales y municipales que soliciten apoyo a SAPAET, relacionados con asuntos jurídicos;
+
+XXX. Controlar y resguardar los documentos públicos que acrediten la propiedad de los bienes inmuebles en posesión de SAPAET;
+
+XXXI. Compilar, resguardar y difundir leyes; reglamentos, decretos, acuerdos, jurisprudencias, lineamientos y toda disposición jurídica relacionada con el funcionamiento y fines del Órgano;
+
+XXXII. Realizar los trámites necesarios para regular la posesión o propiedad de los bienes que integran el patrimonio del Órgano e intervenir en el ámbito jurídico en la adquisición de los bienes inmuebles;
+
+XXXIII. Participar en las comisiones que para tal efecto se establecen para llevar un control y seguimiento de todos los fraccionamientos o conjuntos habitacionales y sus necesidades de servicios;
+
+XXXIV. Estudiar, proponer y revisar los proyectos para reformar: las leyes y reglamentos conducentes a una mejor y ágil prestación de los servicios; y
+
+XXXV. Expedir certificaciones de los documentos existentes en los archivos del Órgano, los cuales se, podrán expedir por mandato de autoridad debidamente fundado y motivado.
 
 ###### ARTÍCULO 16.
 
-Las empresas podrán realizar correcciones a la información proporcionada en un término no mayor al treinta y uno de mayo del año siguiente al que corresponda la información.
+El Director, Subdirector, jefe de departamento y jefes de área de esta Dirección, serán los apoderados legales de SAPAET ante toda clase de autoridades y particulares, inclusive con facultades de administración laboral en defensa del Órgano y de su patrimonio, ejecutando esas acciones conjunta y/o separadamente.
 
 ###### ARTÍCULO 17.
 
-A más tardar el último día hábil del mes de febrero de cada año, la Secretaría solicitará a la Secretaría de Finanzas, la relación de las empresas que durante el año inmediato anterior presumiblemente hayan incumplido con la obligación descrita en el artículo 15 a efecto de que la Secretaría inicie el procedimiento de verificación, y en su caso, determine la sanción correspondiente.
+Corresponde a la Dirección de Planeación, el ejercicio de las siguientes atribuciones:
 
-### CAPÍTULO III. DE LA INTELIGENCIA PARA EL DESARROLLO ECONÓMICO SUSTENTABLE
+I. Elaborar e integrar las propuestas de inversión en materia de agua potable, alcantarillado y saneamiento, y demás requerimientos presupuestales relacionados con el desarrollo de la operación del Órgano;
+
+II. Formular. Controlar y dar seguimiento a los ejercicios dalos programas de inversión de agua potable, alcantarillado y saneamiento;
+
+III. Gestionar ante las dependencias correspondientes los recursos presupuestales para la aplicación de los programas que ejecuta el Órgano;
+
+IV. Coordinar la elaboración del Programa Operativo Anual del Órgano, con la participación que corresponda a las demás unidades administrativas;
+
+V. Gestionar la autorización de las modificaciones presupuestales del Programa Operativo Anual, cuando así se requiera para el buen funcionamiento del Órgano;
+
+VI. Dar seguimiento a los avances físico-financieros acerca de las inversiones que se realicen con motivos de las obras programadas por el Órgano;
+
+VII. Analizar, vigilar y dar seguimiento al comportamiento físico-financiero del Programa Operativo Anual, evaluando los resultados obtenidos durante y después de su ejecución, vigilando que los cierres anuales se ejecuten de conformidad con lo programado;
+
+VIII. Analizar, validar y tramitar los estudios financieros y económicos de las obras propuestas para que cumplan con los lineamientos de los programas federales;
+
+IX. Evaluar periódicamente los planes, programa y resultados de las obras que ejecuta SAPAET;
+
+X. Analizar las posibles fuentes de financiamiento para los programas y proyectos del Órgano;
+
+XI. Integrar estadísticas relacionadas con los sistemas de agua potable, alcantarillado y saneamiento identificado a la población beneficiada;
+
+XII. Asesorar a las distintas unidades administrativas del Órgano en materia de metodología, organización y procedimientos;
+
+XIII. Establecer normas, criterios y procedimientos para recabar, clasificar analizar y procesar la información que requiera el Órgano;
+
+XIV. Elaborar el material gráfico que se requiera para la difusión de las obras realizadas por el Órgano;
+
+XV. Coordinar la integración de los cierres de ejercicio de los diferentes programas en que tenga participación el Órgano;
+
+XVI. Coordinar y participar en las acciones para integrar el anuario estatal y estadístico, evaluaciones trimestrales, informes de avances físicos por programa, así como la información para el informe de gobierno correspondiente al Órgano;
+
+XVII. Proponer lineamientos, políticas y procedimientos encaminados al mejoramiento de las diversas funciones del Órgano;
+
+XVIII. Proponer al Director General para aprobación, en su caso, las políticas y estrategias a seguir en materia de informática;
+
+XIX. Diseñar, implementar y mantener un sistema de informática integral que facilite la toma de decisiones;
+
+XX. Proporcionar la información necesaria y específica para la evaluación interna, respecto del avance presupuestal y físico del gasto corriente y de inversión, así como los relativos a los demás sistemas de informática de las unidades administrativas;
+
+XXI. Apoyara los servidores públicos de las unidades administrativas, en materia de informática y sistemas a fin de optimizar recursos disponibles;
+
+XXII. Formular normas y lineamientos para la operación y uso de los equipos de cómputo de las unidades administrativas, así como integrar, conciliar y promover el aprovechamiento óptimo de los recursos en la materia, a través del diseño, análisis, programación e instrumentación de sistemas que permiten racionalizar éste servicio;
+
+XXIII. Diseñar, ejecutar y supervisar acciones que vinculen al usuario con los servicios e imagen institucional, para un uso eficiente y racional del agua orientando a la población en general;
+
+XXIV. Autorizar y promover el desarrollo del capital humano orientado a la superación profesional de los servidores públicos y al mejoramiento de la calidad del servicio, supervisando, evaluando y seleccionando personal; y
+
+XXV. Sugerir el desarrollo de programas y actividades en apoyo al cumplimiento de los objetivos del Órgano.
+
+### CAPÍTULO III. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN
 
 ###### ARTÍCULO 18.
 
-El titular del Ejecutivo, a través de la Secretaría u otras dependencias estatales así como en su caso, los Ayuntamientos promoverán el desarrollo económico sustentable en las regiones del Estado, realizando, con el apoyo de los actores, al menos las siguientes acciones:
+Corresponde a la Dirección de Construcción el ejercicio de las siguientes atribuciones:
 
-I. Determinar y hacer públicas las vocaciones productivas de cada región del Estado, tomando en consideración para ello las recomendaciones de los Consejos Regionales y del Subcomité descritos en la Ley;
+I. Supervisar, vigilar y controlar que las obras se construyan de acuerdo a las normas, técnicas vigentes y conforme a las disposiciones, legales Aplicables;
 
-II. Impulsar el establecimiento de inversiones productivas en regiones diferentes a la región Angelópolis, incluyendo el otorgamiento, de acuerdo a las disposiciones de la Ley, de incentivos que faciliten el establecimiento de inversiones productivas y la creación de nuevos empleos en esas regiones;
+II. Realizar los trabajos de topografía necesarios en la ejecución de las funciones de esta Dirección;
 
-III. Promover, en cada región del Estado, la integración de cadenas de valor que sean congruentes con sus vocaciones económicas;
+III. Controlar, evaluar y vigilar periódicamente el desempeño de las empresas contratistas, así como tomar las medidas necesarias y legales para el cumplimiento de lo contratado;
 
-IV. Elaborar, actualizar y vigilar el cumplimiento del ordenamiento territorial del Estado, respetando en todo momento la autonomía municipal;
+IV. Supervisar, la integración de la documentación que deberá presentar el contratista, y en su caso, autorizar y tramitar las estimaciones de obra que procedan;
 
-V. Realizar convenios de coordinación con los Municipios para que en sus planes de desarrollo incluyan la promoción del desarrollo económico sustentable y el establecimiento ordenado de empresas;
+V. Analizar las posibles modificaciones de la obra;
 
-VI. Alentar la gobernanza regulatoria de los Municipios encaminada a elevar la competitividad y la promoción del desarrollo económico;
+VI. Solicitar la revisión de precios unitarios no incluidos dentro del catálogo del contrato;
 
-VII. Colaborar con los Municipios para que elaboren, en el ámbito de su competencia y jurisdicción, políticas públicas claras para estimular la inversión, incluyendo esquemas para incentivar el establecimiento y desarrollo de las empresas;
+VII. Proporcionar información periódica y sistemática, de los avances de las obras a su cargo, a la Dirección General, Dirección de Planeación, Dirección de Administración, Dirección Técnica y Dirección de Operación Mantenimiento y Control de Calidad del Agua;
 
-VIII. Impulsar y asesorar a los Municipios integrantes de las regiones para que desarrollen infraestructura logística y de conectividad con la finalidad de facilitar el establecimiento de inversiones productivas y la consolidación de centros de comercio;
+VIII. Coordinar con las autoridades competentes la entrega-recepción de las obras construidas;
 
-IX. Impulsar la educación técnica y la capacitación en áreas de conocimiento relacionadas con la vocación económica de las regiones y/o los sectores estratégicos presentes en ellas;
+IX. Supervisar que las obras se realicen en tiempo y forma, ejecutando las acciones procedentes para que el contratista cumpla con sus obligaciones contractuales;
 
-X. Coadyuvar con los productores para desarrollar esquemas de producción y comercialización competitivos;
+X. Supervisar, recabar, archivar y resguardar la documentación relacionada con las obras que realice SAPAET; y
 
-XI. Realizar junto con los actores, la inteligencia para el desarrollo económico sustentable, que comprenderá de manera enunciativa más no limitativa los siguientes contenidos:
-
-a) Las actividades económicas estratégicas actuales y potenciales para impulsar nuevos motores para el desarrollo económico y social.
-
-b) El capital social que se requiere para consolidar el desarrollo regional.
-
-c) Los Mercados Estratégicos para los Productos y Servicios de cada región.
-
-d) Las políticas públicas y sus instrumentos que impulsen la competitividad y el desarrollo sustentable.
-
-e) Las tendencias mundiales en desarrollo económico, tecnológico y ambiental que puedan ser aplicables en el Estado.
+XI. Elaborar y solicitar a la Dirección que corresponda la elaboración de actas, convenios o acciones que sean necesarios y estén relacionados con la obra pública que realice SAPAET.
 
 ###### ARTÍCULO 19.
 
-En la adquisición de bienes, contratación de servicios, arrendamientos y obras públicas, las Dependencias de la Administración Pública Estatal darán preferencia, dentro del marco legal aplicable, a las empresas y MIPYMES que tengan su domicilio social en el Estado siempre que ofrezcan iguales o mejores condiciones de precio, calidad y servicio respecto de las ofertas de empresas asentadas en otras entidades federativas.
+Corresponde a la Dirección de Operación, Mantenimiento y Control de Calidad del Agua el ejercicio de las siguientes atribuciones:
+
+I. Organizar, ejecutar y evaluar las acciones necesarias para la operación y mantenimiento de la infraestructura instalada en los municipios del estado de Tabasco, que corresponda a SAPAET operar;
+
+II. Operar, supervisar y resguardar los equipos especializados para el mantenimiento y conservación de las redes de agua potable, alcantarillado sanitario y pluvial con que cuenta SAPAET en el Estado;
+
+III. Elaborar y presentar anualmente la propuesta de proyectos y programas de inversión, que son competencia de la Dirección;
+
+IV. Formular y presentar proyectos y programas de trabajo que permitan ejecutar y eficientar la operación de la infraestructura o unidades responsables de la prestación de los servicios;
+
+V. Administrar, operar, conservar y mejorar la infraestructura necesaria para el abastecimiento de agua en los centros de población e industrias, así como la de alcantarillado y tratamiento de las aguas residuales;
+
+VI. Recepcionar las obras de agua potable, alcantarillado y. tratamiento de aguas, residuales que actualmente se encuentran en servicio y las que en un futuro se construyan, siempre y cuando cumplan con los lineamientos y proyectos aprobados por SAPAET;
+
+VII. Vigilar, controlar y mejorar la calidad de los servicios de agua potable y alcantarillado proporcionados a la población;
+
+VIII. Dictaminar, sobre los proyectos de dotación de los servicios de agua potable y alcantarillado de los fraccionamientos;
+
+IX. Dar seguimiento y respuestas a los, asuntos que por razón de sus funciones, sean turnados a esta Dirección;
+
+X. Programar y realizar reuniones de trabajo con los titulares de las unidades que integran la Dirección a su cargo, para efecto de establecer acuerdos que permitan agilizar y mejorar la atención de los asuntos de su competencia;
+
+XI. Proporcionar de conformidad con los lineamientos del Órgano la información, datos técnicos, cooperación o asesorías técnicas que le sean requeridas por, el Director General o entidad pública, relacionadas con el sector de agua potable y alcantarillado;
+
+XII. Proporcionar la información que le sea solicitada por las instancias normativas;
+
+XIII. Efectuar, supervisar, registrar y evaluar la reparación de fugas, atendiendo a la brevedad posible los reportes recibidos de la población en las administraciones municipales que le correspondan a SAPAET;
+
+XIV. Coordinar con las unidades estatales y municipales la recepción y mantenimiento de las obras, destinadas al abastecimiento de agua en los centros de población e industrias, la captación, potabilización, conducción y distribución, así como las de drenaje, alcantarillado y las necesarias para el tratamiento de aguas residuales para el servicio público;
+
+XV. Distribuir, coordinar y organizar el suministro de agua potable por pipas u otros medios, por desperfectos en los sistemas de su competencia o por causas de fuerza mayor;
+
+XVI. Efectuar visitas, inspecciones y verificaciones a los diferentes sistemas de agua potable y drenaje existentes en el Estado, tomando medidas para el óptimo funcionamiento de los mismos;
+
+XVII. Ejecutar y supervisar las conexiones e instalaciones de tomas, así como el cobro y reportar a la Dirección de Comercialización;
+
+XVIII. Apoyar en el seguimiento, cuando así se requiera, de la elaboración de estudios socioeconómicos para los efectos de que se establezcan, revisen y modifiquen de acuerdo a los resultados obtenidos, los derechos y tarifas por los servicios de agua potable y alcantarillado;
+
+XIX. Hacer del conocimiento del Director General y del Director de Administración las bajas y afectaciones de los bienes asignados a esta Dirección;
+
+XX. Reportar a las Direcciones de Comercialización y Asuntos Jurídicos, la reparación que se haya realizado de los daños ocasionados a la redes de agua potable y alcantarillado, anexándole el avalúo correspondiente; y
+
+XXI. Efectuar y elaborar la contratación del servicio de agua y alcantarillado, así como evaluar a los comités autoadministrados.
 
 ###### ARTÍCULO 20.
 
-Con la finalidad de impulsar el desarrollo económico sustentable del Estado, sujeto a la disponibilidad presupuestaria, el Ejecutivo, a través de la Secretaría, promoverá la inversión productiva por medio de las siguientes acciones:
+Corresponde a la Dirección Técnica el ejercicio de las siguientes atribuciones:
 
-I. Llevar a cabo la planeación y la ejecución de la promoción de la inversión productiva;
+I. Realizar la programación de los estudios y proyectos ejecutivos a corto, mediano y largo plazo para la rehabilitación, ampliación y construcción de sistemas nuevos necesarios para el desarrollo y mejoramiento de los servicios de agua potable, alcantarillado y saneamiento en el Estado;
 
-II. Ejercer las partidas que estime convenientes para la promoción de la inversión productiva;
+II. Coordinar que el desarrollo de los proyectos ejecutivos de agua potable, alcantarillado y saneamiento, vayan acordes con las líneas de acción establecidas en el Plan Estatal, de Desarrollo, respetando los programas de desarrollo urbano, ordenamiento territorial y conservación de, zonas del Estado;
 
-III. Gestionar, obtener y ejercer fondos provenientes de programas federales e internacionales destinados a la inversión productiva;
+III. Coordinar la revisión, actualización y modificación de los proyectos ejecutivos de agua potable, alcantarillado y saneamiento existentes para integrarlos a la cartera vigente, misma que servirá de soporte para la integración de los programas federales y estatales: de la obra pública del sector;
 
-IV. Coordinar a los diferentes agentes de promoción de la inversión productiva para fomentar su convergencia en el crecimiento económico de la Entidad;
+IV. Coordinar el desarrollo de la ingeniería básica, mecánica, eléctrica, estructural, ambiental, civil y cualquier otra necesaria para la elaboración, modificación y actualización de los proyectos ejecutivos de agua potable, alcantarillado y saneamiento;
 
-V. Impulsar el desarrollo de las empresas en congruencia con la política de desarrollo económico del Estado y los objetivos de esta Ley;
+V. Autorizar los programas de levantamientos topográficos que servirán de base para el desarrollo de nuevos proyectos, estableciendo prioridades en base a los programas de planeación estatal y a los requerimientos propios del sector;
 
-VI. Establecer las políticas públicas de atención a las MIPYMES;
+VI. Contar con la información cartográfica actualizada para el desarrollo de proyectos;
 
-VII. Otorgar incentivos conforme a lo dispuesto en esta Ley;
+VII. Establecer y vigilar el adecuado uso del archivo impreso y digitalizado de los estudios y proyectos ejecutivos de agua potable alcantarillado y saneamiento que forman parte de la cartera del Órgano;
 
-VIII. Participar, organizar, celebrar o apoyar económicamente la realización de ferias nacionales e internacionales que tengan por objeto difundir al Estado como destino de la inversión productiva, promover la oferta exportable o atraer empresas que potencialmente puedan establecer inversiones productivas en el Estado;
+VIII. Revisar y dictaminar en base a la normatividad vigente, los proyectos ejecutivos para la dotación o mejoramiento de los servicios de agua potable, alcantarillado y saneamiento que son presentados por los ayuntamientos, desarrolladores de vivienda, Gobierno del Estado y particulares, así como desarrolladores de centros comerciales y de servicios;
 
-IX. Elaborar catálogos y piezas de comunicación que tengan por objeto difundir al Estado como destino de la inversión productiva o la promoción de los bienes y servicios que se producen en él;
+IX. Vigilar la actualización de la cartera de estudios y proyectes ejecutivos de agua potable, alcantarillado y saneamiento del Estado;
 
-X. Articular, diseñar e implementar programas para incrementar la oferta exportable;
+X. Identificar y proponer el uso de nuevas alternativas para el ahorro de energía en los sistemas de agua potable, alcantarillado y saneamiento;
 
-XI. Organizar, celebrar y financiar exposiciones de bienes y servicios poblanos ante clientes potenciales nacionales y extranjeros;
+XI. Revisar, modificar y autorizar los proyectos eléctricos y mecánicos considerando la utilización de equipos de alta eficiencia y ahorro energético;
 
-XII. Organizar, celebrar y financiar cursos y seminarios destinados a promover o atraer al Estado la inversión productiva, y
+XII. Identificar, analizar y evaluar las fuentes Óptimas de agua superficial y subterránea para su aprovechamiento en la dotación de servicios de agua potable y desinfección para el uso y consumo humano;
 
-XIII. Aquéllas que considere pertinentes, en el ámbito de su competencia.
+XIII. Integrar la información necesaria para localizar los yacimientos acuíferos existentes en el Estado, determinando sus cargas volumétricas e hidrodinámicas en el subsuelo y en las distintas capas rocosas;
+
+XIV. Definir y evaluar las zonas de "riesgo acuífero" considerando la calidad del agua, y el cálculo de reservas probadas, probables, posibles y de nueva incorporación que permitan cubrir las necesidades del servicio a corto, mediano y largo plazo;
+
+XV. Desarrollar, modificar y actualizar los proyectos ejecutivos de las, plantas potabilizadoras y de tratamiento de agua residual, aplicando nuevas tecnologías o tecnologías alternativas y de punta para mejorar los procesos de potabilización, desinfección y tratamiento de aguas servidas;
+
+XVI. Revisar, modificar y actualizar los proyectos estructurales que sirven de base para la construcción de obras de agua potable, alcantarillado y saneamiento;
+
+XVII. Evaluar la factibilidad técnica, económica y social de los proyectos ejecutivos de agua potable, alcantarillado y saneamiento;
+
+XVIII. Proporcionar el apoyo y asesoría técnica a las unidades administrativas del Órgano que lo soliciten, en los proyectos inherentes a los sistemas de agua potable alcantarillado y saneamiento;
+
+XIX. Programar, coordinar y controlarlos programas de licitaciones federales y estatales, vigilando el cumplimiento de los lineamientos establecidos para la contratación de la obra pública y servicios, con base en lo señalado en las leyes correspondientes;
+
+XX. Establecer y revisar las bases y criterios a los que se sujetarán las licitaciones para la adjudicación de obras públicas y servicios;
+
+XXI. Revisar y modificar los términos de referencia que contienen los aspectos técnicos y alcances de los estudios y proyectos ejecutivos que serán contratados por el Órgano;
+
+XXII. Revisar, avalar y controlar los contratos de obra pública y servicios una vez concluidos los eventos del proceso de licitación;
+
+XXIII. Coordinar el establecimiento de los programas necesarios para la generación, elaboración y actualización de precios unitarios;
+
+XXIV. Revisar y autorizar los precios unitarios de las propuestas y los precios extraordinarios de las obras concursadas, para su continuidad con base en los lineamientos y criterios establecidos en los contratos;
+
+XXV. Vigilar la correcta integración de los expedientes unitarios de obra pública y su control para las revisiones y auditorias que se apliquen a los servicios de agua potable y alcantarillado del estado de Tabasco;
+
+XXVI. Coordinar la elaboración y revisión de los estudios, manifiestos y fichas de impacto ambiental necesarios para la integración de los proyectos ejecutivos de agua potable, alcantarillado y saneamiento, vigilando la normatividad correspondiente;
+
+XXVII. Tramitar ante las dependencias normativas estatales y federales los estudios, manifiestos y fichas de impacto ambiental de la obra pública programada para su licitación;
+
+XXVIII. Elaborar los dictámenes, técnicos correspondientes para definir la conveniencia, de recepcionar dé terceros los sistemas de agua potable, alcantarillado y saneamiento;
+
+XXIX. Establecer mecanismos, de coordinación con las direcciones correspondientes, para definir los lineamientos y normatividad para la recepción de sistemas de agua potable, alcantarillado y saneamiento;
+
+XXX. Apoyar en la revisión, determinación, modificación y actualización de las tarifas de agua potable, alcantarillado y saneamiento;
+
+XXXI. Colaborar con las dependencias gubernamentales de carácter normativo en la elaboración de los planes rectores de uso de agua en el Estado, considerando los aspectos de impacto ecológico, conservación de recursos, impacto productivo y equidad de distribución del recurso; y
+
+XXXII. Atender y dar respuesta a la demanda social de tipo técnico que sea canalizada a la Dirección.
 
 ###### ARTÍCULO 21.
 
-Son agentes de promoción de la inversión productiva:
+Corresponde a la Dirección de Comercialización el ejercicio de las siguientes atribuciones:
 
-I. El Gobierno del Estado, principalmente a través de la Secretaría;
+I. Emitir los lineamientos básicos parar llevar a cabo los procesos de captación de la población usuaria de agua potable y alcantarillado;
 
-II. Los Ayuntamientos;
+II. Promover, supervisar y controlar' la contratación del servicio entre los usuarios y el Órgano;
 
-III. Las instituciones académicas de educación superior;
+III. Realizar, supervisar, contabilizar y registrar el cobro del servicio otorgado a los usuarios;
 
-IV. Los organismos empresariales, y
+IV. Atender al usuario y ejecutar acciones para garantizar la excelencia en su atención;
 
-V. Los particulares.
+V. Aplicar a los usuarios que lo ameriten recargos, multas y sanciones de acuerdo con las normas aplicables;
 
-### CAPÍTULO IV. DEL FOMENTO A LA CREACIÓN, DESARROLLO, EXPANSIÓN Y SUSTENTABILIDAD DE LAS MIPYMES
+VI. Supervisar la actualización del padrón de usuarios;
+
+VII. Supervisar y verificar la existencia de las instalaciones de toma de agua;
+
+VIII. Participar en la elaboración de estudios y análisis socioeconómicos para la actualización de los derechos, tarifas y recargos por servicios de agua potable y alcantarillado;
+
+IX. Aprobar y autorizar ajustes en el cobro del servicio que presta el Órgano a los usuarios, siempre y cuando sea sustentado con justificación, y aprobado por el Director General;
+
+X. Recibir, capturar, requerir y registrar los pagos por derechos de interconexión y prestación de servicios de agua potable y alcantarillado;
+
+XI. Elaborar e integrar periódicamente los informes de actividades que permitan evaluarlos alcances y avances' obtenidos durante el desempeño de las funciones que competen a todas las áreas de la Dirección, para hacerlas del conocimiento del Director General;
+
+XII. Determinar y ejecutar la limitación, suspensión y el corte en caso de los usuarios morosos y clandestinos, de acuerdo al informe proporcionado por los administradores municipales y previa instrucción del Director General;
+
+XIII. Elaborar y presentar mensualmente un informe al Director General, sobre el monto de la recaudación de ingresos de los servicios de agua potable y alcantarillado proporcionados al público usuario;
+
+XIV. Supervisar el cobro a los usuarios morosos, empleando las medidas pertinentes a fi~ de obtener el pago de los adeudos por los servicios que presta el Órgano; y
+
+XV. Supervisar y auditar las cajas recaudadoras de SAPAET.
+
+### CAPÍTULO I. DE LAS FUNCIONES GENÉRICAS DE LAS DIRECCIONES
 
 ###### ARTÍCULO 22.
 
-El Ejecutivo, a través de la Secretaría, desarrollará propuestas de mejora y simplificación normativa aplicable a las MIPYMES.
+Corresponde a la Dirección de Desarrollo Social el ejercicio de las siguientes atribuciones:
+
+I. Programar, coordinar y participaren la formación de comités relacionados con los servicios que presta SAPAET en el Estado;
+
+II. Organizar en coordinación con los promotores municipales los comités de agua potable y alcantarillado en las actividades de autoadministración;
+
+III. Realizar un seguimiento sistemático en el aspecto social antes, durante y después de la ejecución de los sistemas de agua potable, alcantarillado y saneamiento para optimizar el impacto a la población beneficiada;
+
+IV. Concientizar a los usuarios para el cuidado del agua potable mediante los diferentes programas que implemente SAPAET;
+
+V. Intervenir en las comunidades para el seguimiento de actividades y entrega de obras en apoyo a programas de los gobiernos federal y estatal;
+
+VI. Supervisar, orientar y tomar medidas para que los comités de agua potable y alcantarillado, cumplan con las normas y procedimientos en el ejercicio de sus funciones;
+
+VII. Coordinar las actividades de las comunidades en la ejecución de obras en las que participe SAPAET, en base a la normatividad y lineamientos de los programas del gobierno federal y estatal;
+
+VIII. Participar en los comités de obras para generar sentido de pertenencia y compromiso colectivo, para una adecuada operación y mantenimiento de los sistemas;
+
+IX. Participar y coordinar la promoción y organización comunitaria, impulsando sinergias y facultando la participación de sectores y actores del agua;
+
+X. Orientar a los comités de obra y autoadministrados a un adecuado balance entre los recaudos por cuotas para sostenibilidad de: las inversiones y generar una mejor racionalización de los consumos;
+
+XI. Integrar toda la documentación necesaria para la legalización de los predios en donde SAPAET, ejecute algún trabajo;
+
+XII. Atender, dar seguimiento y gestionar las soluciones posibles a las demandas, quejas y reclamaciones presentadas por los diversos comités;
+
+XIII. Llevar un control estadístico y realizar análisis cuantitativo y cualitativo de toda la información que se genere con las funciones de esta Dirección;
+
+XIV. Participar y coordinar pláticas en conjunto con los promotores municipales a los comités autoadministrados en aspectos legales, técnicos y administrativos para su mejor organización y funcionamiento;
+
+XV. Efectuar los estudios socioeconómicos, de acuerdo a los programas establecidos anualmente; y
+
+XVI. Coordinar y participar en diferentes actividades a favor de la mejora de las relaciones y gestión de los comités de obra y autoadministrados, para un desarrollo de capital humano y social para generar un bienestar comunitario en las poblaciones que atiende SAPAET.
 
 ###### ARTÍCULO 23.
 
-El Ejecutivo, a través de la Secretaría, impulsará proyectos y estrategias de modernización, innovación y desarrollo tecnológico para las MIPYMES.
+Las ausencias del Director General que no excedan de 15 días, serán suplidas por el director que él mismo designe y las que exceden de ese tiempo, pero no de 45 días, por quien designe el Secretario.
+
+Las ausencias de los directores de SAPAET, será cubiertas por los subdirectores o por quien el Director General designe.
 
 ###### ARTÍCULO 24.
 
-El Ejecutivo, a través de la Secretaría, promoverá la capacitación y formación empresarial, así como la asesoría y consultoría para las MIPYMES.
+En los asuntos de carácter legal y para comparecer ante cualquier autoridad judicial o administrativa el Director General, los directores y demás personal podrán ser representados por el Director de Asuntos Jurídicos, de conformidad con las normas aplicables.
 
 ###### ARTÍCULO 25.
 
-El Ejecutivo, a través de la Secretaría, impulsará el acceso al mercado de los productos elaborados por las MIPYMES.
+Las relaciones de trabajo entre SAPAET y sus: trabajadores, se regularán por la ley de los Trabajadores al Servicio del Estado.
+
+Se consideran categorías de confianza las de Director General, directores de área, subdirectores, jefes de departamento, jefes de área, asesores y en general las que tienen como propósito realizar funciones de dirección, inspección, supervisión, fiscalización, vigilancia y trabajos exclusivos de los titulares o altos funcionarios de SAPAET.
 
 ###### ARTÍCULO 26.
 
 La Secretaría gestionará ante las instancias federales competentes los programas y apoyos previstos en materia de fomento a las MIPYMES, y podrá firmar los convenios pertinentes para coordinar las acciones e instrumentos de apoyo de conformidad con los objetivos de la presente Ley y de las leyes y reglamentaciones federales aplicables.
 
-## TÍTULO TERCERO. DE LOS INCENTIVOS
+## TÍTULO TERCERO. DE LAS UNIDADES DE APOYO DEL DIRECTOR GENERAL
 
-### CAPÍTULO I. DE LOS INCENTIVOS A LA INVERSIÓN
+### CAPÍTULO II. DE LA DIRECCION DE ADMINISTRACIÓN
 
 ###### ARTÍCULO 27.
 
@@ -595,7 +817,7 @@ VI. El acompañamiento a la empresa en la selección y/o creación del sindicato
 
 VII. Aquéllos que sean determinados por el Ejecutivo del Estado, a propuesta del Subcomité.
 
-### CAPÍTULO II. DE LA VALORACIÓN DE PROYECTOS DE INVERSIÓN
+### CAPÍTULO III. DE LA DIRECCIÓN DE ASUNTOS JURÍDICOS
 
 ###### ARTÍCULO 32.
 
@@ -635,7 +857,7 @@ XII. Procesos productivos limpios, certificaciones ambientales nacionales o inte
 
 XIII. Tamaño de empresa.
 
-### CAPÍTULO III. DEL OTORGAMIENTO DE INCENTIVOS
+### CAPÍTULO IV. DE LA DIRECCIÓN DE PLANEACIÓN
 
 ###### ARTÍCULO 34.
 
@@ -783,9 +1005,9 @@ IV. Que en la unidad productiva en la que se llevará a cabo el proyecto de inve
 
 V. Que en la unidad productiva en la que se llevará a cabo el proyecto de inversión han implementado un programa de reducción de la huella de carbono de esa unidad productiva o que se ha disminuido la cantidad de emisiones a la atmósfera respecto al año inmediato anterior de acuerdo al reporte o cédula presentado a la autoridad responsable.
 
-## TÍTULO CUARTO. DE LA INFRAESTRUCTURA ECONÓMICA PARA EL DESARROLLO
+## TÍTULO CUARTO. DE LAS DIRECCIONES
 
-### CAPÍTULO I. DEL DESARROLLO DEL CAPITAL HUMANO
+### CAPÍTULO V. DE LA DIRECCIÓN DE CONSTRUCCIÓN
 
 ###### ARTÍCULO 53.
 
@@ -801,7 +1023,7 @@ La Secretaría desarrollará y ofrecerá programas de capacitación y formación
 
 La Secretaría coordinará con la Dependencia responsable de la Educación Pública en el Estado o con las instancias federales y estatales competentes, la emisión y registro de los certificados de competencias laborales de los trabajadores que asistan y completen de manera satisfactoria los programas de capacitación y formación ofrecidos por ella.
 
-### CAPÍTULO II. DEL AMBIENTE DE NEGOCIOS
+### CAPÍTULO VI. DE LA DIRECCIÓN DE OPERACIÓN, MANTENIMIENTO Y CONTROL DE CALIDAD DEL AGUA
 
 ###### ARTÍCULO 56.
 
@@ -819,7 +1041,7 @@ V. Atraer al Estado fondos de inversión e iniciativas que promuevan la cultura 
 
 VI. Promover la responsabilidad social empresarial que genere armonía entre los actores estratégicos.
 
-### CAPÍTULO III. DE LA INFRAESTRUCTURA FÍSICA
+### CAPÍTULO VII. DE LA DIRECCIÓN TÉCNICA
 
 ###### ARTÍCULO 57.
 
@@ -853,7 +1075,7 @@ VII. Promover ante los Municipios la determinación del uso de suelo industrial 
 
 VIII. Acompañar y facilitar, dentro del ámbito de su competencia, la emisión de las licencias y permisos necesarios para que los desarrolladores inmobiliarios industriales puedan llevar a cabo sus proyectos cuando estos cumplan con la regulación aplicable.
 
-### CAPÍTULO IV. DE LOS RECURSOS FINANCIEROS
+### CAPÍTULO VIII. DE LA DIRECCIÓN DE COMERCIALIZACIÓN
 
 ###### ARTÍCULO 59.
 
@@ -863,7 +1085,7 @@ La Secretaría fomentará la disponibilidad de recursos financieros para el apoy
 
 La Secretaría, en coordinación con las dependencias públicas pertinentes, propiciará que las instituciones financieras del sector privado brinden mejores condiciones crediticias y de financiamiento para los proyectos de negocio relacionados con los sectores estratégicos y vocaciones regionales del Estado.
 
-### CAPÍTULO V. DE LA INVESTIGACIÓN INNOVACIÓN Y DESARROLLO TECNOLÓGICO
+### CAPÍTULO IX. DE LA DIRECCIÓN DE DESARROLLO SOCIAL
 
 ###### ARTÍCULO 61.
 
@@ -877,15 +1099,15 @@ La Secretaría, junto con los actores, impulsará la creación de centros de inv
 
 La Secretaría, los actores y las dependencias competentes en la materia, propiciarán la innovación y la generación de patentes alineadas a los sectores estratégicos del Estado y sus vocaciones regionales.
 
-### CAPÍTULO VI. DE LA TECNOLOGÍA DE INFORMACIÓN Y COMUNICACIONES
+### CAPITULO I. DE LA SUPLENCIA
 
 ###### ARTÍCULO 64.
 
 El Ejecutivo, a través de las Dependencias, impulsará la conectividad y el acceso a internet en todas las regiones y Municipios del Estado.
 
-## TÍTULO QUINTO. DEL SEGUIMIENTO
+## TÍTULO QUINTO. DE LOS SERVIDORES PÚBLICOS
 
-### CAPÍTULO I. DE LAS INFRACCIONES
+### CAPÍTULO II. DE LAS RELACIONES LABORALES
 
 ###### ARTÍCULO 65.
 
@@ -1194,6 +1416,38 @@ V. La solicitud de donaciones en dinero o en especie para fines distintos a los 
 Los servidores públicos que incurran en los supuestos referidos en el artículo anterior serán sancionados en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
 
 ## TRANSITORIOS
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de los Servicios de Agua potable y Alcantarillado del Estado de Tabasco (SAPAET), publicado en el Suplemento al
+
+Periódico Oficial del Estado número 6081, de fecha 16 de diciembre del año 2000.
+
+TERCERO. Se derogan las disposiciones administrativas que se opongan al presente Reglamento.
+
+CUARTO. En tanto no se expidan los manuales de procedimientos y de organización, el Director General queda facultado para resolver las dudas o controversias que se susciten.
+
+QUINTO. Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a' otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a que se les haya atribuido competencia en este Reglamento.
+
+DADO EN EL RECINTO OFICIAL DEL PODER EJECUTIVO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO A LOS DOS DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL NUEVE.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+
+QUIM. ANDRÉS RAFAEL GRANIER MELO
+
+GOBERNADOR DEL ESTADO DE TABASCO.
+
+LIC. MIGUEL ALBERTO ROMERO PÉREZ
+
+CONSEJERO JURÍDICO DL PODER EJECUTIVO.
+
+ING. HÉCTOR MANUEL LÓPEZ PERALTA
+
+SECRETARIO DE ASENTAMIENTOS Y OBRAS PÚBLICAS.
+
+ING. CLISCERIA RODRÍGUEZ ALVARADO
+
+DIRECTORA GENERAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE TABASCO.
 
 ###### ARTÍCULO PRIMERO.
 
