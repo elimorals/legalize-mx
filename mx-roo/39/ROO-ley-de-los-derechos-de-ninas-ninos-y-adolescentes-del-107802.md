@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107802"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-30"
-last_updated: "2015-04-30"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número 8 Ordinario Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de abril de 2015.
 
@@ -1595,9 +1595,11 @@ XXII. Auxiliar a la Procuraduría de Protección en las medidas urgentes de prot
 
 XXIII. Las demás que les otorguen otras disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 113.
 
-El Sistema Estatal de Protección contará para su coordinación operativa con una Secretaría Ejecutiva.
+El Sistema Estatal de Protección contará para su coordinación con un órgano administrativo desconcentrado de la Secretaría de Gobierno denominado Secretaría Ejecutiva.
 
 El Titular de la Secretaría Ejecutiva será nombrado y removido por el Titular del Poder Ejecutivo, de entre alguna Dirección General de las Dependencias o Entidades de la Administración Pública del Estado, quien deberá cumplir con los siguientes requisitos:
 
@@ -1790,3 +1792,19 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 115 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 113 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El titular de la Secretaría Ejecutiva del Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes que se encuentra en funciones a la entrada en vigor del presente Decreto continuará en su encargo en los mismos términos en los que fuese designado con el fin de dar continuidad a sus trabajos.
+
+TERCERO. El Titular del Ejecutivo del Estado contará con un plazo de cuarenta días naturales, contados a partir de la fecha de publicación del presente Decreto, para la emisión del Reglamento, Manual de Organización y Procedimientos correspondientes del órgano administrativo en referencia.
+
+CUARTO. El Titular del Ejecutivo del Estado contará con un plazo de cuarenta días naturales, contados a partir de la fecha de publicación del presente Decreto, a efecto de realizar las ecuaciones pertinentes para asignar personal y presupuesto para que la Secretaría Ejecutiva del Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes pueda cumplir con sus funciones.
+
+QUINTO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
