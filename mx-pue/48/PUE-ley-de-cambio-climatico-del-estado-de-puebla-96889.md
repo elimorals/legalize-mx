@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-cambio-climatico-del-estado-de-puebla-96889"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2013-11-29"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de noviembre de 2013.
 
@@ -37,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 102, 119, 123 fracciones I y XIX, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado; 45, 46, 47 y 48 fracciones I y XIX del Reglamento Interior del Honorable Congreso del Estado, se expide la siguiente:
 
@@ -415,11 +417,15 @@ XVIII. Las demás que señale esta Ley y las disposiciones jurídicas aplicables
 
 El Estado y los municipios podrán suscribir convenios de coordinación o concertación con ciudadanos, organizaciones sociales, empresariales, educativas, con organismos de la sociedad civil, institutos de investigación científica o tecnológica, asociaciones y con la sociedad en general en materia de cambio climático.
 
-El Estado y los municipios podrán suscribir convenios de coordinación, colaboración y concertación con la Federación, Estados, el Distrito Federal o municipios de otras entidades federativas, en materia de cambio climático, atendiendo lo previsto por el marco legal aplicable.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+El Estado y los municipios podrán suscribir convenios de coordinación, colaboración, concertación y asociación con la Federación, Estados, la Ciudad de México o municipios de otras entidades federativas, en materia de cambio climático, atendiendo lo previsto por el marco legal aplicable.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 12.
 
-Los Ayuntamientos de los municipios del Estado, podrán suscribir convenios de coordinación entre ellos en materia de cambio climático.
+Los Ayuntamientos de los municipios del Estado, podrán suscribir convenios de coordinación y colaboración para una eficiente implementación de las disposiciones previstas en el artículo 10 del presente ordenamiento.
 
 ## TÍTULO TERCERO. POLÍTICA ESTATAL DE CAMBIO CLIMÁTICO
 
@@ -495,11 +501,21 @@ V. Energía, industria y servicios;
 
 VI. Movilidad e infraestructura de comunicaciones y transportes;
 
-VII. Ordenamiento ecológico del territorio, asentamientos humanos y desarrollo urbano;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VIII. Salubridad general e infraestructura de salud pública; y
+VII. Ordenamiento ecológico del territorio, desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático, asentamientos humanos y desarrollo urbano;
 
-IX. Los demás que las autoridades estatales estimen prioritarios.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VIII. Salubridad general e infraestructura de salud pública;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IX. En planes de desarrollo urbano y ordenamiento territorial, para prevenir y atender el posible desplazamiento interno de personas provocado por fenómenos relacionados con el cambio climático, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+X. Los demás que las autoridades estatales estimen prioritarios.
 
 ###### ARTÍCULO 16.
 
@@ -1023,9 +1039,19 @@ Asimismo, fomentarán la difusión de acciones para que la población conozca lo
 
 En lo que se refiere al ámbito de la presente Ley, toda persona tendrá derecho de acceso a la información que en materia de cambio climático solicite.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 76.
 
-La Comisión Intersecretarial, a través de la Secretaría, pondrá a disposición de la población, información relevante sobre cambio climático para su consulta, en una página de Internet.
+La Comisión Intersecretarial, a través de la Secretaría, pondrá a disposición de la población, en una página de internet, información relevante sobre cambio climático, la que de manera enunciativa más no limitativa se describe a continuación:
+
+I. Difusión de los trabajos de la Comisión Intersecretarial y sus resultados.
+
+II. Publicación anual del informe de sus actividades de la Comisión Intersecretarial, lo que deberá realizarse en el último cuatrimestre de cada año, y
+
+III. Las acciones que se llevaron a cabo con recursos del Fondo para el Cambio Climático, la forma en que se ejercieron y los resultados de las evaluaciones, auditoría, transparencia, evaluación y rendición de cuentas que establecen esta Ley y las disposiciones legales aplicables.
+
+La información se actualizará con periodicidad, considerando la relevancia de la misma.
 
 ###### ARTÍCULO 77.
 
@@ -1099,15 +1125,19 @@ En todo lo no previsto en esta Ley serán aplicables supletoriamente las disposi
 
 ### CAPÍTULO II. SANCIONES
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 83.
 
-En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte no entreguen la información, datos o documentos requeridos por la Secretaría en el plazo señalado, se les impondrá una multa de 50 hasta 500 días de salario mínimo general vigente en el Estado de Puebla, sin perjuicio del cumplimiento inmediato de dicha obligación.
+En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte no entreguen la información, datos o documentos requeridos por la Secretaría en el plazo señalado, se les impondrá una multa del equivalente a la cantidad de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio del cumplimiento inmediato de dicha obligación.
 
 Para individualizar la multa se considerará si el infractor es reincidente, en cuyo caso, el monto de la multa podrá ser hasta por tres veces del monto originalmente impuesto, también se deberá motivar si la conducta se considera o no grave, el perjuicio causado o daños causados y la capacidad económica del infractor. Las autoridades podrán valorar la capacidad económica de los infractores, tomando en cuenta, indistintamente, los siguientes elementos: el capital contable de las empresas en el último balance, el importe de la nómina correspondiente, el número de trabajadores, o bien, cualquier otra información, a través de la cual, pueda inferirse el estado que guardan los negocios del patrón.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 84.
 
-En caso de encontrarse falsedad en la información proporcionada, la Secretaría aplicará una multa de 100 hasta 500 días de salario mínimo general vigente en el Estado de Puebla. La multa será independiente de cualquier otra responsabilidad de los órdenes civil y penal que pudieran derivarse. La Secretaría tendrá la obligación de hacer del conocimiento de las autoridades competentes dichos actos.
+En caso de encontrarse falsedad en la información proporcionada, la Secretaría aplicará una multa del equivalente a la cantidad de 100 hasta 500 veces el valor diario de la Unidad de Medida y Actualización. La multa será independiente de cualquier otra responsabilidad de los órdenes civil y penal que pudieran derivarse. La Secretaría tendrá la obligación de hacer del conocimiento de las autoridades competentes dichos actos.
 
 Para individualizar la multa se considerará si el infractor es reincidente, en cuyo caso, el monto de la multa podrá ser hasta por tres veces del monto originalmente impuesto, también se deberá motivar si la conducta se considera o no grave, el perjuicio causado o daños causados y la capacidad económica del infractor. Para tal efecto, durante el procedimiento de inspección, la autoridad requerirá al particular para que señale su capacidad económica, en caso de omisión, la autoridad podrá determinarla a partir del número de trabajadores y otros factores, de manera motivada.
 
@@ -1150,3 +1180,29 @@ DÉCIMO PRIMERO.- Las erogaciones que deriven de la aplicación de esta Ley, est
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veinticinco días del mes de julio de dos mil trece.- Diputado Presidente.- GERARDO MEJÍA RAMÍREZ.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.- Diputado Secretario.- HUGO ALEJO DOMÍNGUEZ.- Rúbrica.- Diputado Secretario. LUCIO RANGEL MENDOZA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 11 Y LOS ARTÍCULOS 12 Y 76 DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES VII, VIII Y IX, Y ADICIONA LA FRACCIÓN X, TODAS LAS ANTERIORES AL ARTÍCULO 15 DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
