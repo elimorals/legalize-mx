@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2017-07-05"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -1134,6 +1134,12 @@ IX. La realización de campañas intensivas de información y orientación en ma
 
 X. La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-SIDA.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 53 Bis.
+
+El Gobierno de la Ciudad de México, a través de la Secretaría de Salud, aplicará anualmente la vacuna contra el Virus del Papiloma Humano en niñas y niños a partir de los 11 años que residan y/o asistan a las escuelas públicas de la Ciudad de México e implementará campañas permanentes de información respecto a este virus, sus formas de prevención y factores de riesgo.
+
 ### Capítulo VIII. VIH-SIDA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -1594,7 +1600,7 @@ La donación se realizará mediante consentimiento expreso y consentimiento tác
 
 La donación por consentimiento expreso deberá constar por escrito y podrá ser amplia cuando se refiera a la disposición total del cuerpo o limitada cuando sólo se otorgue respecto de determinados componentes.
 
-El consentimiento tácito sólo aplicará para la donación de órganos y tejidos una vez que se confirme la pérdida de la vida del disponente y sólo podrán extraerse estos cuando se requieran para fines de trasplantes. Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, aplicando ese orden de prelación, en caso de que se encontrara una o más personas presentes de las señaladas..
+El consentimiento tácito sólo aplicará para la donación de órganos y tejidos una vez que se confirme la pérdida de la vida del disponente y sólo podrán extraerse estos cuando se requieran para fines de trasplantes. Habrá consentimiento tácito del donante cuando no haya manifestado su negativa a que su cuerpo o componentes sean utilizados para trasplantes, siempre y cuando se obtenga también el consentimiento de cualquiera de las siguientes personas: el o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, aplicando ese orden de prelación, en caso de que se encontrara una o más personas presentes de las señaladas.. (sic)
 
 El escrito por el que la persona exprese no ser donador, podrá ser privado o público, y deberá estar firmado por éste, o bien, la negativa expresa podrá constar en alguno de los documentos públicos que para este propósito determine la Secretaría en coordinación con las autoridades competentes.
 
@@ -3307,3 +3313,19 @@ G.O. 5 DE JULIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento, y en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL DISTRITO FEDERAL Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento, y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- El Órgano Legislativo de la Ciudad de México considerará los recursos suficientes en el Presupuesto de Egresos de la Ciudad de México para el ejercicio 2018, para la aplicación del presente Decreto.
+
+CUARTO.- Los derechos, erogaciones y acciones previstas en este ordenamiento jurídico que impliquen erogaciones de carácter presupuestal, deberán realizarse de manera gradual y sujetarse a la capacidad financiera del Gobierno de la Ciudad de México, con el objeto de garantizar el equilibrio presupuestal.
+
+QUINTO.- La Secretaría de Salud de la Ciudad de México, continuará aplicando la vacuna tetravalente hasta que se descubra una vacuna que pueda cubrir más serotipos de Virus de Papiloma Humano, de conformidad con los avances médicos y científicos que pudieran surgir en un futuro y que estuvieran avalados por las instituciones competentes para dichos efectos.
+
+SEXTO.- El Jefe de Gobierno de la Ciudad de México contará con un plazo de 120 días hábiles contados a partir de la entrada en vigor de la presente Ley, para modificar al Reglamento de esta Ley acorde con las reformas del presente decreto.
