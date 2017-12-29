@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2017-11-09"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -37,7 +37,9 @@ Que por la Secretaria de H. Congreso del Estado, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 56 y 57 fracción I, 63 fracción II y 64 de la Constitución Política del Estado Libre y Soberano de Puebla; 44 fracciones I, II, VI y VII, 123 fracciones I, X, XII, XIII, XXIII y XXXI, 134, 135, 136, 144 fracciones I y II de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46, 47 y 48 fracciones I, X, XII, XIII, XXIII y XXXI del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla y demás relativos y aplicables, se expide la siguiente Minuta de:
 
@@ -1733,9 +1735,11 @@ III. Propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acos
 
 IV. Intervenir, en el caso de trabajadores sociales o psicólogos, con motivo de su actividad profesional, en procedimientos de adopción que no cuenten con la autorización del Sistema Nacional DIF o del Sistema Estatal DIF, en el ámbito de sus respectivas competencias.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 143.
 
-A quienes incurran en las infracciones previstas en el artículo anterior, se les impondrá multa de doscientos hasta mil quinientos días de salario mínimo general vigente en el Estado al momento de realizarse la conducta sancionada.
+A quienes incurran en las infracciones previstas en el artículo anterior, se les impondrá multa equivalente a la cantidad de doscientos hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de realizarse la conducta sancionada.
 
 En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en este artículo.
 
@@ -1838,3 +1842,11 @@ P.O. 9 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
