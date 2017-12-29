@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-72604
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-18"
-last_updated: "2009-07-18"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS PARA EL ESTADO DE OAXACA
 
-LEY PARA LA PREVENCION Y GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS PARA EL ESTADO DE OAXACA
+LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 18 de julio de 2009.
 
@@ -293,9 +293,17 @@ XXV. Coadyuvar con la Federación en la promoción de la prevención y atención
 
 XXVI. Establecer los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
 
-XXVII. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXVIII. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
+XXVII. Aplicar las medidas de seguridad e imponer las sanciones que correspondan por violaciones o incumplimiento a este ordenamiento, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXVIII. Fomentar el manejo adecuado de residuos sólidos urbanos y de manejo especial; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXIX. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
 Las atribuciones que esta Ley confiere al Estado serán ejercidas por el Ejecutivo Estatal, a través del Instituto, salvo las que directamente correspondan al Gobernador del Estado por disposición expresa de esta Ley. Cuando se requiera de la intervención de otras dependencias del Ejecutivo del Estado, el Instituto ejercerá sus atribuciones en coordinación con las mismas, apegado a la normativa aplicable.
 
@@ -1374,3 +1382,11 @@ Tlalixtac de Cabrera, Centro, Oax., a 24 de junio del 2009.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. JORGE TOLEDO LUIS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 776.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
