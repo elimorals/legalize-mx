@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-privada-del-estado-de-puebla-99817"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-14"
-last_updated: "2017-08-01"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de marzo de 2014.
 
@@ -693,7 +693,9 @@ El incumplimiento de los prestadores de servicios a las obligaciones establecida
 
 I. Amonestación pública, con difusión en la página de Internet de la Secretaría de Seguridad Pública;
 
-II. Multa de quinientas hasta cinco mil veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Multa del equivalente a la cantidad de quinientas hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Suspensión de los efectos de la autorización de un mes hasta doce meses;
 
@@ -898,3 +900,11 @@ P.O. 1 DE AGOSTO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
