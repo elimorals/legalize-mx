@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-fiscalia-general-del-estado-de-quintana-roo-115571"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-05"
-last_updated: "2017-07-19"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 5 de julio de 2016.
 
@@ -423,7 +423,9 @@ IX. Delegar en los Vice-Fiscales o personas bajo su mando, las facultades y atri
 
 X. Fomentar entre el personal de la Fiscalía General del Estado, la promoción, respeto, protección y garantía de los derechos humanos con perspectiva de género;
 
-XI. Expedir y mandar a publicar en el Periódico Oficial del Estado, la normatividad de observancia general necesaria para el mejor despacho de los asuntos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XI. Expedir el Reglamento Interior de la Fiscalía General del Estado en el que se distribuirán las atribuciones de los órganos, direcciones y personal necesario para el cumplimiento de sus funciones y atribuciones, así como las demás disposiciones normativas necesarias para el adecuado funcionamiento y desempeño de la Fiscalía General, debiendo ser publicada la normatividad en el Periódico Oficial del Estado.
 
 XII. Conocer y resolver sobre las excusas y recusaciones que sean interpuestas en contra del Ministerio Público;
 
@@ -2536,3 +2538,15 @@ SEGUNDO. La Secretaría de Finanzas y Planeación, realizará las acciones neces
 TERCERO. Dentro del término de noventa días siguientes al inicio de la vigencia de (sic) del presente decreto, deberán expedirse los reglamentos y demás normatividad que se requiera para su pleno cumplimiento.
 
 CUARTO. Las investigaciones en curso relativas a delitos de su competencia, así como cualquier otro delito cometido por un servidor público en el desempeño de un empleo, cargo o comisión, que hayan sido presentados o iniciados con anterioridad a la entrada en vigor del presente Decreto deberán remitirse a la Fiscalía Especializada en Combate a la (sic)
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 116 POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 10 DE LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Dentro del plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, el Fiscal General del Estado deberá emitir el Reglamento Interior de la Fiscalía General del Estado de Quintana Roo.
+
+Dentro del plazo de ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto, el Fiscal General del Estado deberá emitir las demás disposiciones normativas necesarias para el adecuado funcionamiento y desempeño de la Fiscalía General.
+
+Hasta en tanto se expiden el Reglamento de la Fiscalía General del Estado de Quintana Roo y las demás disposiciones normativas, se seguirán aplicando las anteriormente existentes en lo que no se opongan al presente Decreto.
