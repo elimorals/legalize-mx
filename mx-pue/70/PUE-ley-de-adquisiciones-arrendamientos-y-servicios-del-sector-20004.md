@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-2000
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-09"
-last_updated: "2013-08-02"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO ESTATAL Y MUNICIPAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 9 de febrero de 2001.
 
@@ -675,9 +675,9 @@ Las especificaciones técnicas para la selección y adquisición o arrendamiento
 
 Las dependencias y entidades o los Ayuntamientos, en su caso, previamente al arrendamiento de bienes muebles, deberán realizar los estudios de factibilidad, considerando la posible adquisición mediante arrendamiento con opción a compra. De estipularse esta condición en el contrato, la misma deberá ejercerse invariablemente.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-ARTÍCULO 49 BIS.- Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, la Secretaría o el Comité Municipal respectivo deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos; el citado estudio deberá efectuarse mediante avalúo conforme a las disposiciones aplicables, expedido dentro de los seis meses previos, cuando el bien tenga un valor superior a cien mil veces el salario mínimo general vigente para el Estado de Puebla, el cual deberá integrarse al expediente de la contratación respectiva.
+ARTÍCULO 49 BIS.- Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, la Secretaría o el Comité Municipal respectivo deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos; el citado estudio deberá efectuarse mediante avalúo conforme a las disposiciones aplicables, expedido dentro de los seis meses previos, cuando el bien tenga un valor superior del equivalente a la cantidad de cien mil veces el valor diario de la Unidad de Medida y Actualización, el cual deberá integrarse al expediente de la contratación respectiva.
 
 ###### ARTÍCULO 50.
 
@@ -1993,13 +1993,13 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 135.
 
-Los licitantes o proveedores que infrinjan los preceptos de esta Ley, las disposiciones que se deriven de ella o las contenidas en los contratos y pedidos, serán sancionados por la SEDECAP, o la Contraloría Municipal respectivos, con multa equivalente a la cantidad de diez hasta trescientos veces el salario mínimo diario general vigente en la capital del Estado, elevado al mes.
+Los licitantes o proveedores que infrinjan los preceptos de esta Ley, las disposiciones que se deriven de ella o las contenidas en los contratos y pedidos, serán sancionados por la SEDECAP, o la Contraloría Municipal respectivos, con multa del equivalente a la cantidad de diez hasta trescientas veces el valor diario de la Unidad de Medida y Actualización, elevado al mes.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2005)</small>
-
-Para la determinación de la sanción señalada en este artículo, cuando pueda precisarse el momento en que cometió la infracción, se aplicará el salario mínimo vigente en el momento en que se realizó; en caso contrario, será aplicable el salario mínimo diario general vigente en el momento en que se imponga la sanción. Para tal efecto, la Secretaría, los Comités Municipales, las dependencias y las entidades están obligados a informar inmediatamente a la SEDECAP o la Contraloría Municipal, según corresponda, de las probables infracciones, y éstas podrán sancionar o hacer las recomendaciones que estimen convenientes.
+Para la determinación de la sanción señalada en este artículo, cuando pueda precisarse el momento en que cometió la infracción, se aplicará el equivalente al valor diario de la Unidad de Medida y Actualización en el momento en que se realizó; en caso contrario, será aplicable el equivalente al valor diario de la Unidad de Medida y Actualización general vigente en el momento en que se imponga la sanción. Para tal efecto, la Secretaría, los Comités Municipales, las dependencias y las entidades están obligados a informar inmediatamente a la SEDECAP o la Contraloría Municipal, según corresponda, de las probables infracciones, y éstas podrán sancionar o hacer las recomendaciones que estimen convenientes.
 
 ###### ARTÍCULO 136.
 
@@ -2047,7 +2047,9 @@ II. Cuando sean varios responsables, a cada uno de éstos se le impondrá la mul
 
 III. En caso de reincidencia, se podrá imponer hasta dos tantos del máximo del importe a que se refiere el artículo 135 de esta Ley; y
 
-IV. Si la infracción subsiste después de imponerse la multa como sanción, podrá sancionarse económicamente al infractor con multa por el importe de cinco a veinte veces el salario diario mínimo general vigente en la capital del Estado, por cada día que transcurra sin que cese la conducta infractora, sin que en su conjunto dichas multas puedan exceder del doble del monto máximo establecido.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Si la infracción subsiste después de imponerse la multa como sanción, podrá sancionarse económicamente al infractor con multa por el equivalente a la cantidad de cinco a veinte veces el valor diario de la Unidad de Medida y Actualización, por cada día que transcurra sin que cese la conducta infractora, sin que en su conjunto dichas multas puedan exceder del doble del monto máximo establecido.
 
 ###### ARTÍCULO 139.
 
@@ -2324,3 +2326,11 @@ P.O. 2 DE AGOSTO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
