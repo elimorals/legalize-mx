@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-proteccion-y-conservacion-de-poblaciones-tipicas-1195
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-08"
-last_updated: "2013-11-25"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY SOBRE PROTECCIÓN Y CONSERVACIÓN DE POBLACIONES TÍPICAS Y BELLEZAS NATURALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 8 de abril de 1986.
 
@@ -481,9 +481,13 @@ VII).- Arrojar basura o desperdicios en áreas declaradas "Zonas Típicas Monume
 
 Las infracciones a que se refiere el artículo anterior, serán sancionadas por la Comisión de Monumentos a través de los Ayuntamientos correspondientes, en la siguiente forma:
 
-I).- Con multa de diez a cien días de salario mínimo vigente en la Capital del Estado, las comprendidas en las fracciones II, V, VI y VII del artículo anterior.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II).- Con multa de diez a ciento cincuenta días de salario mínimo vigente en la Capital del Estado, las comprendidas en las fracciones I, III y IV del Artículo anterior. En el supuesto de la fracción II, se aplicará la sanción sin perjuicio de hacer efectiva la fianza otorgada; y en el caso de la fracción III se deberá observar además lo establecido por el Artículo 35 de esta ley.
+I).- Con multa del equivalente a la cantidad de diez a cien veces el valor diario de la Unidad de Medida y Actualización, las comprendidas en las fracciones II, V, VI y VII del artículo anterior.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II).- Con multa del equivalente a la cantidad de diez a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, las comprendidas en las fracciones I, III y IV del Artículo anterior. En el supuesto de la fracción II, se aplicará la sanción sin perjuicio de hacer efectiva la fianza otorgada; y en el caso de la fracción III se deberá observar además lo establecido por el Artículo 35 de esta ley.
 
 Estas sanciones serán independientes a as (sic) que correspondan por ilícitos contemplados dentro del Código de Defensa Social del Estado.
 
@@ -512,3 +516,11 @@ PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publica
 SEGUNDO.- Los asuntos que se tramitan en los órganos competentes para la aplicación de la presente Ley, hasta la entrada en vigor de este Decreto, continuarán con el mismo hasta su conclusión de conformidad con el presente ordenamiento.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
