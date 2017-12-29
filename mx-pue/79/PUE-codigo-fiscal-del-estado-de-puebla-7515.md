@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2017-01-16"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO FISCAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -743,9 +743,9 @@ Las personas inscritas en el Registro Estatal de Contribuyentes, deberán conser
 
 Las declaraciones y avisos a que se refiere este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados ante las autoridades fiscales del Estado.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-ARTICULO 24 A.- En el caso de que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables que el contribuyente utilice para realizar sus operaciones, cuentas especiales, libros, registros sociales, equipos y sistemas electrónicos de registro fiscal, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
+ARTICULO 24 A.- En el caso de que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los Libros, sistemas y registros contables que el contribuyente utilice para realizar sus operaciones, papeles de trabajo, estados de cuenta bancarios, cuentas especiales, libros y registros sociales, discos y cintas o cualquier otro medio procesable de almacenamiento de datos, equipos y sistemas electrónicos de registro fiscal y sus correspondientes registros, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -905,9 +905,9 @@ Corresponde a los contribuyentes la determinación de las contribuciones a su ca
 
 El Crédito Fiscal se pagará en la fecha que señalen las disposiciones fiscales y a falta de disposición legal expresa el pago deberá hacerse:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-I.- Si es a las autoridades a las que corresponde formular la liquidación, dentro de los 45 días siguientes a la fecha en que haya surtido efecto la notificación de la misma.
+I.- Si es a las autoridades a las que corresponde formular la liquidación, dentro de los 30 días siguientes a la fecha en que haya surtido efecto la notificación de la misma.
 
 II. Si es a los sujetos pasivos o responsables solidarios a quienes corresponde determinar en cantidad líquida la prestación, dentro de los 15 días siguientes al nacimiento de la obligación fiscal.
 
@@ -915,9 +915,9 @@ III. Si se trata de obligaciones derivadas de contratos o concesiones que no se�
 
 IV. Cuando el crédito se determine mediante convenio, en el término que éste señale.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-V.- Tratándose de actos de fiscalización dentro de los 45 días siguientes a la fecha en que surta efecto la notificación de la liquidación correspondiente.
+V.- Tratándose de actos de fiscalización dentro de los 30 días siguientes a la fecha en que surta efectos la notificación de la liquidación correspondiente.
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
@@ -1065,11 +1065,13 @@ Para determinar las contribuciones se considerarán, inclusive las fracciones de
 
 Las Autoridades Fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las Leyes Fiscales. La devolución deberá hacerse a petición del interesado de conformidad a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-I.- El contribuyente deberá solicitar la devolución por escrito ante la autoridad Fiscal del Estado, debiendo señalar la Clave Única del Registro de Población, además de los requisitos a que se refieren los artículos 25 y 26 de este Código.
+I.- Deberá solicitar la devolución por escrito ante la autoridad Fiscal del Estado, debiendo señalar la Clave Única del Registro de Población, además de los requisitos a que se refieren los artículos 25 y 26 de este Código.
 
-II.- El contribuyente deberá acompañar a su solicitud el o los documentos de los que se desprenda el derecho a la devolución.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II.- Deberá acompañar a su solicitud el o los documentos de los que se desprenda el derecho a la devolución.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1079,9 +1081,9 @@ Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autori
 
 Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de tres meses siguientes a la fecha en que se presentó la solicitud debidamente requisitada ante la autoridad fiscal competente.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Cuando la autoridad requiera al contribuyente las datos, informes o documentos necesarios para verificar la procedencia de su solicitud de devolución, el periodo transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación del plazo para la devolución arriba señalado.
+Cuando la autoridad requiera al solicitante los datos, informes o documentos necesarios para verificar la procedencia de su solicitud de devolución, el plazo a que se refiere el párrafo anterior, empezará a contar a partir de la fecha en que el interesado haya presentado su promoción debidamente requisitada o haya dado cumplimiento a los requerimientos a que se refiere este artículo.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2003)</small>
 
@@ -1095,9 +1097,9 @@ I. Que se dicte el acuerdo por la Autoridad Fiscal.
 
 II. Que el derecho para reclamar la devolución no se haya extinguido.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-III. Que el contribuyente no tenga a su cargo créditos fiscales determinados firmes, que no se encuentren pagados.
+III. Que el interesado no tenga a su cargo créditos fiscales determinados firmes, que no se encuentren pagados.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1135,7 +1137,7 @@ No se podrán compensar las cantidades cuya devolución se haya autorizado o cua
 
 ###### ARTICULO 38-C.
 
-Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir por haber realizado pagos en demasía por concepto de impuestos estatales, en los términos de lo dispuesto en el artículo 37 de este Código, contra las cantidades que por el mismo concepto los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros.
+Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes tengan derecho a recibir por haber realizado pagos en demasía por concepto de impuestos estatales, en términos de lo dispuesto en el artículo 37 de este Código, contra las cantidades que por el mismo concepto los contribuyentes estén obligados a pagar por adeudos propios o por retención a terceros.
 
 En estos casos, la autoridad fiscal dará a conocer al contribuyente mediante resolución que emita en un plazo de treinta días hábiles, el procedimiento y las cantidades compensadas.
 
@@ -1169,7 +1171,9 @@ Las autoridades fiscales notificarán personalmente al contribuyente la resoluci
 
 El crédito fiscal se extingue por prescripción en el término de cinco años.
 
-El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en recurso administrativo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en el recurso administrativo de revocación o en el juicio contencioso o administrativo.
 
 En el mismo plazo se extinguen las obligaciones del fisco del Estado para devolver las cantidades pagadas indebidamente.
 
@@ -1789,7 +1793,9 @@ I.- La solicitud se notificará a la persona a la que va dirigida en el domicili
 
 II.- En la solicitud se indicará el lugar y el plazo en los cuales se deben proporcionar los informes o documentos;
 
-III.- Los informes, libros y documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante legal;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III.- Los informes, contabilidad, datos y documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante legal;
 
 IV.- Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros con ellos relacionados, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario.
 
@@ -2365,7 +2371,9 @@ III.- Del 80% al 100% de las contribuciones omitidas, cuando el infractor las pa
 
 ARTICULO 59 A.- Las sanciones previstas en el artículo 59 de este Código, aumentarán o disminuirán conforme a las siguientes reglas:
 
-I.- En el caso de que la multa se pague dentro de los cuarenta y cinco días siguientes a la fecha en que se le notifique al infractor la resolución por la cual se imponga la sanción, la multa se reducirá en un 20 % de su monto, sin necesidad de que la Autoridad que la impuso dicte nueva resolución.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I.- En el caso de que la multa se pague dentro de los 30 días siguientes a la fecha en que se le notifique al infractor la resolución por la cual se imponga la sanción, la multa se reducirá en un 20 % de su monto, sin necesidad de que la Autoridad que la impuso dicte nueva resolución.
 
 II.- En caso de que se pague la sanción por infracciones detectadas como consecuencia de actos de fiscalización, antes de la notificación de la resolución correspondiente, la multa se reducirá en un 30 %, siempre y cuando la infracción no implique omisión en el pago de contribuciones.
 
@@ -2767,17 +2775,19 @@ II.- Se solicite que los créditos sean cubiertos en plazos, ya sea en forma dif
 
 III.- La Autoridad Fiscal formule la liquidación del crédito fiscal y no se efectúe su pago dentro de los 15 días siguientes a la fecha en que haya surtido efectos su notificación.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV.- Se trate de actos de fiscalización y no se efectúe el pago dentro de los 45 días siguientes a la fecha en que haya surtido efectos la notificación de la liquidación correspondiente.
+IV.- Se trate de actos de fiscalización y no se efectúe el pago dentro de los 30 días siguientes a la fecha en que haya surtido efectos la notificación de la liquidación correspondiente.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 V.- En los demás casos que señalen las Leyes Fiscales del Estado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 85.
 
-No se ejecutarán loa actos administrativos cuando se solicite la suspensión ante la Autoridad ejecutora y se acompañen los documentos que acrediten que se ha garantizado el interés fiscal. Dentro de los cuarenta y cinco días siguientes a la fecha en que surta efectos la notificación del acto cuya ejecución se suspende, se deberá presentar copia sellada del escrito con el que se hubiera intentado recurso administrativo o juicio. En caso contrario la Autoridad estará facultada para hacer efectiva la garantía aún cuando se trate de fianza otorgada por compañía autorizada.
+No se ejecutarán los actos administrativos cuando se solicite la suspensión ante la Autoridad ejecutora y se acompañen los documentos que acrediten que se ha garantizado el interés fiscal. Dentro de los 30 días siguientes a la fecha en que surta efectos la notificación del acto cuya ejecución se suspende, se deberá presentar copia sellada del escrito con el que se hubiera intentado recurso administrativo o juicio. En caso contrario la Autoridad estará facultada para hacer efectiva la garantía aun cuando se trate de fianza otorgada por compañía autorizada.
 
 El procedimiento administrativo quedará suspendido hasta que se haga saber la resolución definitiva que hubiere recaído en el recurso o juicio.
 
@@ -2871,9 +2881,9 @@ Cuando sea necesario emplear el procedimiento administrativo de ejecución para 
 
 Asimismo se pagarán por concepto de gastos de ejecución, las erogaciones extraordinarias en que se incurra con motivo del Procedimiento Administrativo de Ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, avalúos, de impresión y publicación de convocatorias y edictos que correspondan, los de guarda, conservación y mantenimiento; inscripciones o cancelaciones en el Registro Público, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interpongan algunos de los medios de impugnación a los que hace referencia este Código.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
 
@@ -3531,9 +3541,11 @@ El producto de la venta se destinará a pagar los cargos originados por el manej
 
 ### CAPITULO UNICO. DEL RECURSO ADMINISTRATIVO DE REVOCACION
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 129.
 
-Contra los actos de las Autoridades Fiscales del Estado, el afectado sólo podrá interponer el recurso administrativo de revocación que establece este capítulo.
+Contra los actos de las Autoridades Fiscales del Estado, el afectado podrá interponer el recurso administrativo de revocación que establece este Capítulo.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
@@ -3559,9 +3571,11 @@ b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue 
 
 c) Determinen el valor de los bienes embargados a que se refiere el artículo 106 de este Código.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-ARTICULO 129 A.- Cuando el recurso de revocación se interponga alegando que el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate sólo podrán hacerse valer mediante la interposición del recurso administrativo de revocación, hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria.
+ARTICULO 129 A.- Cuando el recurso administrativo de revocación se interponga alegando que el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate sólo podrán hacerse valer mediante la interposición del recurso administrativo de revocación, hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
@@ -3573,19 +3587,19 @@ En tratándose de embargos a negociaciones el recurso administrativo de revocaci
 
 ARTICULO 129 B.- El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 130.
 
-El recurso administrativo de revocación deberá ser interpuesto ante la autoridad fiscal que emitió o ejecutó el acto impugnado, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos la notificación del mismo, a excepción de lo dispuesto en el primer párrafo del artículo 129-A y 129-B.
+El recurso administrativo de revocación deberá ser interpuesto ante la autoridad fiscal que emitió o ejecutó el acto impugnado, dentro de los 30 días siguientes a aquél en que haya surtido efectos la notificación del mismo, a excepción de lo dispuesto en el primer párrafo del artículo 129-A y 129-B.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 El escrito de interposición del recurso podrá enviarse a la autoridad competente para resolverlo, por correo certificado con acuse de recibo, siempre que el envió se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se deposite en la Oficina de Correos.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-El recurso Administrativo de Revocación a que se refiere este capítulo deberá agotarse previamente antes de acudir a los tribunales judiciales competentes.
+La interposición del recurso administrativo de revocación será optativa para el interesado antes de acudir al juicio ante el Tribunal de Justicia Administrativa del Estado de Puebla.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -3615,27 +3629,9 @@ VI.- Acompañar copia del documento en que conste el acto impugnado; así como d
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
-
 ###### ARTICULO 131-A.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 129, se estará a las reglas siguientes:
-
-I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo a que se refiere este capítulo, en el que manifestará la fecha en que lo conoció.
-
-En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
-
-II. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la Autoridad Fiscal que haya emitido o ejecutado el acto, la cual le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados.
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
-
-El recurrente tendrá un plazo de veinte días a partir del siguiente al en que la autoridad se los haya dado a conocer para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
-
-III. La autoridad estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo.
-
-IV. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
-
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, desechará dicho recurso.
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2017)
 
 ###### ARTICULO 132.
 
@@ -3689,9 +3685,7 @@ III.- Cuando de las constancias que obren en el expediente administrativo quede 
 
 IV.- Cuando hayan cesado los efectos del acto o resolución impugnados.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
-
-V.- En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 131-A de este Código; y
+V.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -3701,11 +3695,11 @@ VI.- En los demás casos en que la improcedencia resulte de alguna disposición 
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 136.
 
-La autoridad fiscal deberá dictar resolución y notificarla en un término que no excederá de cuatro meses, contados a partir de la fecha en que se interpuso el recurso, en que se haya cumplido con los requisitos omitidos o bien se haya ampliado dicho medio de defensa.
+La autoridad fiscal deberá dictar resolución y notificarla en un término que no excederá de cuatro meses, contados a partir de la fecha en que se interpuso el recurso o en que se haya cumplido con los requisitos que al efecto requirió la autoridad.
 
 El silencio de la Autoridad significará que se ha confirmado el acto impugnado.
 
@@ -4112,5 +4106,13 @@ P.O. 16 DE ENERO DE 2017.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
