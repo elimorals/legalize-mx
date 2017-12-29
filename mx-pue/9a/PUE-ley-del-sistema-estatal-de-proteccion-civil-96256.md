@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-96256"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-20"
-last_updated: "2015-10-19"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Puebla, el miércoles 20 de marzo de 2013.
 
@@ -1471,9 +1471,13 @@ Las sanciones aplicables por incumplimiento de esta Ley, consistirán en:
 
 I. Apercibimiento; y
 
-II. Multa de cincuenta a cinco mil días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-En caso de reincidencia, el monto de la multa podrá ser incrementado, sin exceder de diez mil días de salario mínimo general vigente en el Estado.
+II. Multa del equivalente a la cantidad de cincuenta a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+En caso de reincidencia, el monto de la multa podrá ser incrementado, sin exceder del equivalente a la cantidad de diez mil veces el valor diario de la Unidad de Medida y Actualización.
 
 Se incurre en reincidencia cuando el infractor cometa dos o más veces la misma conducta.
 
@@ -1489,21 +1493,37 @@ La Unidad Estatal y la Unidad Municipal, recepcionarán las quejas y denuncias d
 
 Para los efectos de las infracciones previstas en el artículo 136 de esta Ley, las sanciones serán:
 
-I. Las infracciones a lo previsto en la fracción I, consistirán multa equivalente de 50 a 100 días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II. Las infracciones a las fracciones II y III, se sancionarán con multa equivalente de 100 a 500 días de salario mínimo general vigente en el Estado y la clausura temporal del inmueble si se trata de una persona jurídica;
+l. Las infracciones a lo previsto en la fracción I, consistirán (sic) multa del equivalente a la cantidad de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. La infracción a la fracción IV, se sancionará con multa equivalente de 500 a 1000 días de salario mínimo general vigente del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV. La infracción a la fracción V, se sancionará con multa equivalente de 100 a 500 días salario mínimo general vigente en el Estado;
+II. Las infracciones a las fracciones II y III, se sancionarán con multa del equivalente a la cantidad de 100 a 500 veces el valor diario de la Unidad de Medida y Actualización y la clausura temporal del inmueble si se trata de una persona jurídica;
 
-V. Las infracción (sic) a la fracción VI, se sancionará con la multa por el equivalente de 500 a 1000 días de salario mínimo general vigente en el Estado y la clausura temporal de inmueble;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VI. Las infracciones a las fracciones VII y VIII, se sancionará (sic) con multa por el equivalente de 500 a 1500 días de salario mínimo general vigente en el Estado y la clausura total temporal del inmueble;
+III. La infracción a la fracción IV, se sancionará con multa del equivalente a la cantidad de 500 a 1000 veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. La infracción a la fracción IX, se sancionará con multa por el equivalente de 500 a 2000 días de salario mínimo general vigente en el Estado y la clausura total del inmueble;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VIII. Las infracciones a las fracciones X y XI, se sancionarán con multa por el equivalente de 1000 a 5000 días de salario mínimo general vigente en el Estado y la clausura definitiva del inmueble; y
+IV. La infracción a la fracción V, se sancionará con multa del equivalente a la cantidad de 100 a 500 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. La infracción a la fracción VI, se sancionará con la multa del equivalente a la cantidad de 500 a 1000 veces el valor diario de la Unidad de Medida y Actualización y la clausura temporal de (sic) inmueble;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VI. Las infracciones a las fracciones VII y VIII, se sancionará con multa del equivalente a la cantidad de 500 a 1500 veces el valor diario de la Unidad de Medida y Actualización y la clausura total temporal del inmueble;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. La infracción a la fracción IX, se sancionará con multa por el equivalente a la cantidad de 500 a 2000 veces el valor diario de la Unidad de Medida y Actualización y la clausura definitiva del inmueble;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VIII. Las infracciones a las fracciones X y XI, se sancionarán con multa del equivalente a la cantidad de 1000 a 5000 veces el valor diario de la Unidad de Medida y Actualización y la clausura definitiva del inmueble; y
 
 IX.- La infracción a la fracción XII, se sancionará con clausura definitiva del inmueble y multa equivalente al doble de lo señalado en la primera sanción, sin contravención que la multa exceda al máximo permitido por la presente Ley o su Reglamento.
 
@@ -1760,3 +1780,11 @@ P.O. 19 DE OCTUBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
