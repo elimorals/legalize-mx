@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "2013-09-13"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
@@ -685,9 +685,9 @@ El Comisario Público, asistirá a las Sesiones del Organismo, con voz pero sin 
 
 Para el cumplimiento de las acciones en materia de defensa del menor, la mujer y la familia, el Organismo podrá investigar tomando las medidas que sean necesarias para la conciliación o procuración de los asuntos, en su caso, requiriendo la presencia a quien corresponda, pudiendo imponer las siguientes medidas de apremio:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 1996)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-I.- Multa hasta por el importe de 20 días de salario, tomando como base el salario mínimo vigente en la ciudad de Puebla al momento de imponerla;
+I.- Multa por el equivalente a la cantidad del importe de hasta 20 veces el valor diario de la Unidad de Medida y Actualización, tomando como base a la Unidad de Medida y Actualización calculada al momento de imponerla;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 1996)</small>
 
@@ -892,3 +892,11 @@ P.O. 13 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
