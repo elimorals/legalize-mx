@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2016-12-30"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1081,9 +1081,11 @@ IV.- Revocación del mandato del faltista, cuando falte injustificadamente cuatr
 
 Las sanciones a que se refiere el artículo anterior, serán impuestas por el Ayuntamiento a propuesta de la Comisión de Vigilancia que se cree para tal efecto, en el caso de las primeras tres fracciones; y por el Congreso del Estado cuando se trate de la fracción IV.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 55.
 
-Corresponde exclusivamente al Congreso del Estado, declarar la suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno o algunos de sus miembros y la designación de Concejos Municipales.
+Corresponde exclusivamente al Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, declarar la desaparición o suspensión de un Ayuntamiento y/o suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas previstas en esta Ley, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga, así como la designación de sus miembros.
 
 ###### ARTÍCULO 56.
 
@@ -1141,13 +1143,17 @@ V.- Las contempladas en la Constitución Política de los Estados Unidos Mexican
 
 VI.- Cualquier otro acto u omisión que por afectar derechos o intereses de la comunidad altere seriamente el orden público o la tranquilidad del Municipio.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 60.
 
-La suspensión o revocación del mandato a que se refiere la presente Ley, será competencia exclusiva del Congreso del Estado y el procedimiento respectivo se seguirá en los términos que señale el ordenamiento aplicable.
+La suspensión o revocación del mandato a que se refiere la presente Ley, será competencia exclusiva del Congreso del Estado y el procedimiento respectivo se seguirá en los términos previstos en el Capítulo XXVI BIS del presente ordenamiento.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 61.
 
-La solicitud y procedimiento para la suspensión o revocación del mandato de alguno o algunos de los miembros del Ayuntamiento, se regulará en lo conducente por la legislación aplicable en materia de responsabilidad de los servidores públicos.
+Para el caso de desaparición o suspensión de un Ayuntamiento, el procedimiento correspondiente se tramitará en lo conducente, conforme a lo previsto en el Capítulo XXVI BIS del presente ordenamiento.
 
 ###### ARTÍCULO 62.
 
@@ -3271,13 +3277,169 @@ La responsabilidad de los servidores públicos municipales se rige por lo dispue
 
 ARTÍCULO 223 BIS.- Los servidores públicos municipales y aquellas personas que hayan concluido su cargo, que por cualquier razón hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio, o aplicación de recursos, fondos, bienes o valores públicos municipales Estatales o Federales, deberán atender las instrucciones, requerimientos y resoluciones que reciban de los órganos de control y fiscalización, hasta que se hubiere aprobado la cuenta pública o se haya emitido resolución correspondiente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO XXVI BIS. DE LA SUSPENSIÓN O DESAPARICIÓN DE AYUNTAMIENTOS, Y DE LA SUSPENSIÓN O REVOCACIÓN DEL MANDATO
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 223 Ter.
+
+El Congreso del Estado al conocer, investigar y determinar sobre la solicitud y procedimiento para declarar la suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno de sus miembros por las causas establecidas en el presente ordenamiento; sin perjuicio de que puedan incurrir en otras responsabilidades, iniciará el trámite conforme las disposiciones siguientes:
+
+I.- La solicitud deberá presentarse por comparecencia directa o por escrito; ante el Congreso del Estado, en este último caso el promovente deberá ser citado para que ratifique su promoción, en caso de que no sea ratificada se tendrá por no presentada y se archivará la misma; lo anterior sin perjuicio de que la (sic) Congreso del Estado pueda darle seguimiento de oficio al asunto respectivo;
+
+II.- El Congreso del Estado practicará todas las diligencias que estime necesarias a fin de contar con los elementos suficientes para la mejor substanciación del asunto que se investiga;
+
+III.- El Congreso del Estado, después de valoradas las constancias y actuaciones, si considera que no ha lugar a iniciar formal procedimiento de suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno de sus miembros, archivará el expediente respectivo, lo que hará del conocimiento del promovente, para que en su caso, éste aporte mayores elementos de prueba que motiven el inicio del procedimiento respectivo, y
+
+IV.- Si se cuenta con elementos que hagan probable la existencia de alguna de las causas de suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno de sus miembros, se iniciará el procedimiento que establece el artículo 223 Duodecies de esta Ley, sin perjuicio de lo que establecen las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 223 Quater.
+
+El Congreso del Estado, y sus servidores públicos adscritos, tienen obligación de respetar y hacer respetar el derecho a la formulación de la solicitud a la que se refieren los artículos anteriores, y evitar que con motivo de éstas se causen molestias indebidas al solicitante.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 223 Quinquies.
+
+Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, impida al solicitante la formulación o presentación de la solicitud de suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno de sus miembros, o lesione los intereses de quienes las formulen o presenten.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 223 Sexies.
+
+Una vez concluido el procedimiento el Congreso del Estado determinará:
+
+I.- Suspender o revocar el mandato a un miembro del Ayuntamiento;
+
+II.- Suspender o revocar el mandato a los miembros del Ayuntamiento declarando la desaparición del Ayuntamiento, o
+
+III.- Declarar infundada la solicitud.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 223 Septies.
+
+La suspensión se impondrá tomando en cuenta los siguientes elementos:
+
+I.- La causal en que incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de esta Ley o las que dicten con base en ella;
+
+II.- El nivel jerárquico del infractor;
+
+III.- Las condiciones exteriores y los medios de ejecución;
+
+IV.- La antigüedad en el servicio, y
+
+V.- La reincidencia en el incumplimiento de obligaciones.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 223 Octies.
+
+Corresponde al Congreso del Estado la ejecución de la suspensión o desaparición de los Ayuntamientos, así como de la suspensión o revocación del mandato de alguno de sus miembros.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 223 Nonies.
+
+Los servidores públicos que tengan conocimiento de alguna causa que pueda motivar la suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno de sus miembros, tendrán obligación de hacerlo del conocimiento del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 223 Decies.
+
+Si de las auditorías realizadas por el Congreso del Estado conforme al presente Capítulo, se advierte alguna responsabilidad de otra naturaleza, se deberá hacer del conocimiento de la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Undecies.- Si de las investigaciones que realice el Congreso del Estado, apareciera probable causa de suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno de sus miembros, procederá conforme al artículo 223 Duodecies de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Duodecies.- El Congreso del Estado para declarar la suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno de sus miembros, se sujetará al siguiente procedimiento:
+
+I.- Citará al probable responsable a una audiencia, haciéndole saber la causa o casusas de suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno de sus miembros, el lugar, día y hora en que tendrá verificativo el desahogo de la misma, su derecho a ofrecer pruebas, a manifestar en dicha audiencia lo que a sus intereses convenga, así como formular alegatos, por sí o por medio de un defensor.
+
+El Congreso del Estado deberá dar vista al Síndico Municipal, para que manifieste lo que al derecho e interés convenga al Ayuntamiento, por su representación.
+
+Entre la fecha de citación y la de audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días naturales.
+
+II.- Desahogada la audiencia señalada en la fracción anterior, el Congreso del Estado deberá declarar dentro de los treinta días hábiles siguientes, la suspensión o desaparición del Ayuntamiento, la suspensión o revocación del mandato de alguno de sus miembros, notificando la resolución al servidor público y al Ayuntamiento, dentro de los treinta días hábiles siguientes;
+
+III.- Si en la audiencia, encontrare que no cuenta con elementos suficientes para resolver, o advierta elementos que impliquen nueva causal de suspensión o desaparición del Ayuntamiento, la suspensión o revocación del mandato de alguno de sus miembros, podrá disponer la práctica de investigaciones y citar para otras audiencias, y
+
+IV.- Si el probable responsable fallece en cualquier etapa del procedimiento, se sobreseerá el mismo; sin perjuicio de que el Congreso del Estado, realicen (sic) las acciones a que haya lugar, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Terdecies.- De las diligencias que se practiquen se levantará acta circunstanciada que suscriban quienes intervengan en ellas.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Quaterdecies.- Las resoluciones que se dicten durante el procedimiento a que se refiere este Capítulo constarán por escrito, y se asentarán en el registro respectivo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Quindecies.- El Congreso del Estado deberá llevar un registro actualizado de los servidores públicos que se (sic) hayan sido suspendidos, así como de aquellos a los que se les haya revocado el mandato, haciéndolo del conocimiento de las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Sexdecies.- Las resoluciones que declaren la suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno de sus miembros, podrán ser impugnadas por el afectado ante el Congreso del Estado, mediante recurso de revocación, que se interpondrá dentro de los quince días hábiles siguientes a la fecha de la notificación de la resolución recurrida.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Septiedecies.- La tramitación del recurso de revocación se sujetará a las normas siguientes:
+
+I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que, a juicio del servidor público suspendido o al que se le haya revocado el mandato, le cause la resolución impugnada, acompañando copia de ésta y constancia de la notificación de la misma, ofreciendo las pruebas que no se hubieren recibido por causas ajenas a su voluntad.
+
+El Congreso del Estado podrá requerir por una sola ocasión el cumplimiento de los requisitos establecidos en el presente artículo, previniendo al recurrente que de no cumplir con éstos se tendrá por no presentada.
+
+II.- El Congreso del Estado determinará sobre la admisión del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen procedentes;
+
+III.- Las pruebas admitidas se desahogarán en un plazo de quince días hábiles, que a solicitud del servidor público o a instancia del Congreso del Estado, podrá ampliarse una sola vez por cinco días más, y
+
+IV.- Concluido el período probatorio, el Congreso del Estado dictará la resolución correspondiente, dentro de los quince días hábiles siguientes, notificándola al interesado.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Octodecies.- La interposición del recurso no suspenderá la ejecución de la resolución recurrida.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Novodecies.- La ejecución de las resoluciones, se llevará a cabo dentro del término de diez días hábiles en los términos que disponga la resolución.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Vicies.- Si durante el procedimiento existiera un reconocimiento expreso del servidor público de la causal de suspensión o desaparición de los Ayuntamientos, la suspensión o revocación del mandato de alguno de sus miembros que le haya sido imputada, se procederá de inmediato a dictar la resolución.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Unvicies.- Para el cumplimiento de las atribuciones que le confiere esta Ley, el Congreso del Estado podrá emplear los siguientes medios de apremio:
+
+I.- Sanción económica de tres a hasta veinte veces la unidad de medida y actualización vigente.
+
+Cuando el Congreso del Estado, además de imponer la medida de apremio económica, requiera al involucrado para que cumpla con la obligación o regularice la situación que la motivó y éste incumpla, será considerado como reincidente y, por tanto, podrá aplicarse una nueva medida de apremio hasta del doble de la impuesta anteriormente, sin perjuicio de que persista la obligación de atender la solicitud o requerimiento respectivo.
+
+Las multas se fijarán en cantidad líquida por el Congreso del Estado y deberán pagarse dentro de los diez días hábiles siguientes a que surta efectos su notificación, mediante depósito o transferencia a la cuenta bancaria correspondiente a nombre del Congreso del Estado y en ningún caso deberán ser cubiertas con recursos públicos.
+
+En caso de que las multas no sean pagadas dentro del plazo señalado en el párrafo anterior, una vez que sean definitivas y queden firmes, tendrán el carácter de créditos fiscales y su cobro se realizará por conducto de la Secretaría de Finanzas y Administración del Estado, en términos del Código Fiscal del Estado y demás disposiciones aplicables.
+
+Para imponer la multa que corresponda, el Congreso del Estado deberá tener en cuenta las condiciones económicas del involucrado, la gravedad del incumplimiento y en su caso, elementos atenuantes, el nivel jerárquico, la reincidencia y la necesidad de evitar este tipo de prácticas.
+
+II.- Auxilio de la fuerza pública. Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 223 Duovicies.- Las facultades para determinar si existe causa o casusas de suspensión o desaparición de los Ayuntamientos, así como para la suspensión o revocación del mandato de alguno de sus miembros a que esta ley se refiere, prescriben en tres años.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 ### CAPÍTULO XXVII. DE LOS PUEBLOS Y SUS JUNTAS AUXILIARES
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO XXVIII. DE LAS SECCIONES Y DE LOS INSPECTORES
 
 ###### ARTÍCULO 224.
 
@@ -3401,7 +3563,7 @@ III.- Podrán celebrarse sesiones extraordinarias cuando lo acuerden los miembro
 
 IV.- Se remitirá copia de las actas de las sesiones a la autoridad inmediata superior.
 
-### CAPÍTULO XXIX. DE LAS EXCUSAS Y RENUNCIAS
+### CAPÍTULO XXVIII. DE LAS SECCIONES Y DE LOS INSPECTORES
 
 ###### ARTÍCULO 234.
 
@@ -3439,7 +3601,7 @@ Para ser Inspector de sección se requiere ser ciudadano del Municipio en ejerci
 
 El cargo de Inspector de sección es honorífico, y se desempeñará por la persona nombrada mientras no sea sustituida por otra, a juicio de la autoridad municipal.
 
-### CAPÍTULO XXX. DE LAS CORRECCIONES DISCIPLINARIAS Y DE LAS INFRACCIONES
+### CAPÍTULO XXIX. DE LAS EXCUSAS Y RENUNCIAS
 
 ###### ARTÍCULO 243.
 
@@ -3461,11 +3623,13 @@ II.- El mismo Ayuntamiento podrá admitir como legítimas todas las renuncias y 
 
 III.- Sólo por causa justificada, se podrá rehusar el desempeño de algún cargo dentro del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 245.
 
-El que rehusare, sin causa justificada o suficiente, desempeñar el cargo de miembro de un Ayuntamiento o Junta Auxiliar, incurrirá en una multa equivalente al importe de uno a tres días del salario mínimo, quedando inhabilitado por tres años, para toda clase de empleos y cargos públicos.
+El que rehusare, sin causa justificada o suficiente, desempeñar el cargo de miembro de un Ayuntamiento o Junta Auxiliar, incurrirá en una multa del equivalente a la cantidad de una a tres veces el valor diario de la Unidad de Medida y Actualización, quedando inhabilitado por tres años, para toda clase de empleos y cargos públicos.
 
-### CAPÍTULO XXXI. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XXX. DE LAS CORRECCIONES DISCIPLINARIAS Y DE LAS INFRACCIONES
 
 ###### ARTÍCULO 246.
 
@@ -3503,7 +3667,7 @@ Al imponerse una sanción, se hará constar por escrito los hechos que la motive
 
 Se deberá vigilar que se respeten los derechos humanos de los infractores, poniendo especial atención a las personas en contexto de vulnerabilidad.
 
-### CAPÍTULO XXXII. DISPOSICIONES GENERALES
+### CAPÍTULO XXXI. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 252.
 
@@ -3708,6 +3872,8 @@ II.- Sobreseer el recurso;
 III.- Confirmar el acto reclamado; o
 
 IV.- Revocar el acto impugnado, en cuyo caso podrá, modificar u ordenar la modificación del acto, ordenar que sea dictado uno nuevo u ordenar la reposición del procedimiento.
+
+### CAPÍTULO XXXII. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 276.
 
@@ -3974,3 +4140,21 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. Una vez en vigor la Ley General de Responsabilidades Administrativas y hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos municipales presentarán sus declaraciones en los formatos que, a la entrada en vigor de la referida Ley General, se utilicen en el ámbito federal.
 
 TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los asuntos, procedimientos y juicios que se encuentren en trámite al momento de entrar en vigor el presente Decreto, se substanciarán conforme a las disposiciones legales vigentes en el momento de su inicio y se resolverán hasta su total conclusión por la instancia que conozca de ellos.
+
+TERCERO. Se derogan todas las disposiciones que contravengan al presente Decreto.
