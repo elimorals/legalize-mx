@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2017-09-14"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
-Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
+Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
 Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
 
@@ -3301,9 +3301,11 @@ La forma y periodicidad como deberá incrementarse la pensión alimenticia que s
 
 En materia de alimentos, las resoluciones judiciales, provisionales o no, pueden modificarse por el Juez cualquiera que sea el juicio o procedimiento en que se hayan dictado, si cambiaren las posibilidades del deudor o las necesidades del acreedor.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 518.
 
-Los patrones, administradores, gerentes de empresas, directores, jefes de oficinas y quienes por razón de su cargo, público o privado, puedan conocer la capacidad económica de los deudores alimentistas, están obligados a suministrar exactamente los informes que se les pida, bajo pena de multa que se impondrá a éstos por el Juez, cuyo importe será de veinte a cien días de salario mínimo, que se duplicará en caso de reincidencia.
+Los patrones, administradores, gerentes de empresas, directores, jefes de oficinas y quienes por razón de su cargo, público o privado, puedan conocer la capacidad económica de los deudores alimentistas, están obligados a suministrar exactamente los informes que se les pida, bajo pena de multa que se impondrá a éstos por el Juez, cuyo importe será del equivalente a la cantidad de veinte a cien veces el valor diario de la Unidad de Medida y Actualización, que se duplicará en caso de reincidencia.
 
 ###### Artículo 519.
 
@@ -3557,9 +3559,11 @@ Cuando el padre o la madre reconozcan separadamente a un hijo y el otro estuvier
 
 La disposición anterior no es aplicable si el hijo tiene a su favor una de las presunciones de que habla el artículo 542.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 561.
 
-El Juez del Registro del Estado Civil y el Notario que violen el artículo 559, pagarán una multa cuyo importe será de diez a veinte días de salario mínimo y que les impondrá la Autoridad Judicial ante quien se haga valer el reconocimiento.
+El Juez del Registro del Estado Civil y el Notario que violen el artículo 559, pagarán una multa del equivalente a la cantidad de diez a veinte veces el valor diario de la Unidad de Medida y Actualización y que les impondrá la Autoridad Judicial ante quien se haga valer el reconocimiento.
 
 ###### Artículo 562.
 
@@ -4197,9 +4201,11 @@ Cuando los intereses de alguno o algunos de los incapaces sujetos a la misma tut
 
 Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse tutor, el albacea testamentario y en caso de intestado los parientes o personas con quienes haya convivido aquélla, están obligados a dar parte del fallecimiento al Juez, dentro de un mes, a fin de que se provea a la tutela.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 649.
 
-Si los obligados a dar parte del fallecimiento, en el caso del artículo anterior, no lo hacen, el Juez les impondrá una multa cuyo importe será de uno a cincuenta días de salario mínimo.
+Si los obligados a dar parte del fallecimiento, en el caso del artículo anterior, no lo hacen, el Juez les impondrá una multa será del equivalente a la cantidad de una a cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 650.
 
@@ -4875,7 +4881,9 @@ La transacción sobre bienes del incapaz, se rige por las siguientes disposicion
 
 I.- Se requiere licencia judicial para que el tutor pueda transigir los negocios del menor;
 
-II.- La transacción que se haga sobre propiedad de bienes inmuebles u otro derecho real o sobre bienes muebles cuyo valor exceda del importe de diez días de salario mínimo, o que sean inestimables, sólo puede hacerse con aprobación judicial.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II.- La transacción que se haga sobre propiedad de bienes inmuebles u otro derecho real o sobre bienes muebles cuyo valor exceda del equivalente a la cantidad de diez veces el valor diario de la Unidad de Medida y Actualización, o que sean inestimables, sólo puede hacerse con aprobación judicial.
 
 ###### Artículo 731.
 
@@ -4885,9 +4893,11 @@ I.- Se requiere licencia judicial para que el tutor pueda comprometer en árbitr
 
 II.- Unicamente con aprobación judicial nombrará el tutor a los árbitros.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 732.
 
-Para conformarse el tutor con la demanda entablada contra el menor, sobre propiedad de bienes inmuebles u otro derecho real, cualquiera que sea su cuantía, o sobre bienes muebles cuyo valor exceda del importe de treinta días de salario mínimo, necesita aprobación judicial.
+Para conformarse el tutor con la demanda entablada contra el menor, sobre propiedad de bienes inmuebles u otro derecho real, cualquiera que sea su cuantía, o sobre bienes muebles cuyo valor exceda del equivalente a la cantidad de treinta veces el valor diario de la Unidad de Medida y Actualización, necesita aprobación judicial.
 
 ###### Artículo 733.
 
@@ -5211,11 +5221,11 @@ Sólo puede constituirse el patrimonio de familia, con bienes sitos en el munici
 
 Por cada familia, sólo puede constituirse un patrimonio de la clase reglamentada en este capítulo, y serán inexistentes los que se constituyan subsistiendo el primero.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 799.
 
-El valor máximo de los bienes afectados al patrimonio de familia, será el equivalente a diez mil días de salario mínimo general, vigente en el Estado en la fecha en que se constituya dicho patrimonio, el que será susceptible de incremento periódicamente, en la medida en que aumente el importe del salario mínimo y sin exceder el equivalente respectivo.
+El valor máximo de los bienes afectados al patrimonio de familia, será del equivalente a la cantidad de diez mil veces el valor diario de la Unidad de Medida y Actualización calculadas en la fecha en que se constituya dicho patrimonio, el que será susceptible de incremento periódicamente, en la medida en que aumente el equivalente al valor diario de la Unidad de Medida y Actualización y sin exceder el equivalente respectivo.
 
 ###### Artículo 800.
 
@@ -5565,9 +5575,11 @@ El acta de nacimiento se extenderá con asistencia de dos testigos, que pueden s
 
 En el acta de nacimiento no se hará ninguna mención que califique la filiación en forma alguna, y las palabras "hijo legítimo", "hijo natural", "hijo de matrimonio", "hijo fuera de matrimonio", "hijo ilegítimo", "hijo de padres desconocidos", "hijo de padre desconocido", "hijo de madre desconocida", "hijo adulterino", "hijo incestuoso" u otras semejantes, que se inserten con infracción de este artículo se testarán de oficio de manera que queden ilegibles.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 861.
 
-El Juez del Registro del Estado Civil que inserte en el acta alguna de las menciones a que se refiere el artículo anterior será sancionado, la primera vez con multa igual al importe de uno a diez días de salario mínimo y la segunda con destitución del cargo.
+El Juez del Registro del Estado Civil que inserte en el acta alguna de las menciones a que se refiere el artículo anterior será sancionado, la primera vez con multa del equivalente a la cantidad de una a diez veces el valor diario de la Unidad de Medida y Actualización y la segunda con destitución del cargo.
 
 ###### Artículo 862.
 
@@ -5629,7 +5641,9 @@ Si al dar aviso de un nacimiento, se comunicare también la muerte del recién n
 
 Si el nacimiento no se registra dentro de los plazos establecidos en los artículos 856 y 872, se aplicarán las siguientes disposiciones:
 
-I.- Antes que el menor cumpla dieciocho años de edad, el Juez del Registro Estado Civil, autorizará la inscripción de su nacimiento, e impondrá a quien declare éste una multa hasta por el importe de dos días de salario mínimo.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I.- Antes que el menor cumpla dieciocho años de edad, el Juez del Registro del Estado Civil, autorizará la inscripción de su nacimiento, e impondrá a quien declare éste una multa del equivalente a la cantidad de hasta dos veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1997)</small>
 
@@ -5653,9 +5667,11 @@ IV.- Los nombres y apellidos de los testigos.
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en el artículo 558, se presentará al encargado del registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de éste, observándose las demás disposiciones contenidas en este capítulo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 878.
 
-La omisión del registro en el caso del artículo que precede, no priva de sus efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa por el equivalente de un día a tres de salario mínimo, que se impondrá y hará efectiva por el Juez ante quien se haga valer el reconocimiento.
+La omisión del registro en el caso del Artículo que procede, no priva de sus efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa por el equivalente a la cantidad de una a tres veces el valor diario de la Unidad de Medida y Actualización, que se impondrá y hará efectiva por el Juez ante quien se haga valer el reconocimiento.
 
 ###### Artículo 879.
 
@@ -5785,9 +5801,11 @@ Denunciando el impedimento o en el caso del artículo 895, el matrimonio sólo p
 
 El Juez del Registro del Estado Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, y sin cumplir con lo dispuesto en el artículo anterior, será sancionado con la destitución de su cargo, sin perjuicio de la responsabilidad que establezca el Código de Defensa Social.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 903.
 
-Los Jueces del Registro del Estado Civil no autorizarán un matrimonio, cuando por el tenor de la solicitud, su conocimiento de los interesados o por denuncia formal, tuvieren noticia que uno de los pretendientes o ambos carecen de aptitud legal para contraer matrimonio; pero el Juez que injustificadamente retarde la celebración de un matrimonio, será sancionado con una multa equivalente a diez días de salario mínimo, y en caso de reincidencia, con destitución.
+Los Jueces del Registro del Estado Civil no autorizarán un matrimonio, cuando por el tenor de la solicitud, su conocimiento de los interesados o por denuncia formal, tuvieren noticia que uno de los pretendientes o ambos carecen de aptitud legal para contraer matrimonio; pero el Juez que injustificadamente retarde la celebración de un matrimonio, será sancionado con una multa del equivalente a la cantidad de diez veces el valor diario de la Unidad de Medida y Actualización, y en caso de reincidencia, con destitución.
 
 ###### Artículo 904.
 
@@ -6223,9 +6241,11 @@ Aun cuando por alguna circunstancia especial fuere necesaria, a juicio de la aut
 
 La venta se hará siempre en almoneda pública.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 976.
 
-El que se apodere de un bien mueble sin cumplir con lo prevenido en el artículo 967, pagará una multa por el importe de diez a cien días de salario mínimo, y será responsable de los daños y perjuicios que ocasione.
+El que se apodere de un bien mueble sin cumplir con lo prevenido en el artículo 967, pagará una multa del equivalente a la cantidad de diez a cien veces el valor diario de la Unidad de Medida y Actualización, y será responsable de los daños y perjuicios que ocasione.
 
 ###### Artículo 977.
 
@@ -11401,9 +11421,9 @@ Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable de
 
 La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso. Dicho monto no excederá de tres mil días de salario mínimo vigente.
+El monto de la indemnización lo determinará el juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso. Dicho monto no excederá del equivalente a la cantidad de tres mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2011)</small>
 
@@ -11415,7 +11435,9 @@ La publicación de la respuesta, se hará en el mismo lugar y con la misma clase
 
 La rectificación o respuesta se publicará al día siguiente de aquel en que se reciba, si se trata de publicación diaria o en el número inmediato, si se trata de otras publicaciones periódicas. Si la respuesta o rectificación se recibe cuando ya no pueda publicarse en los términos indicados, se hará en el número siguiente.
 
-A la persona física o jurídica que se niegue a publicar la rectificación o respuesta en los términos referidos, el juez le impondrá una multa por el importe de cien a mil quinientos días de salario mínimo vigente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+A la persona física o jurídica que se niegue a publicar la rectificación o respuesta en los términos referidos, el juez le impondrá una multa del equivalente a la cantidad de cien a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2011)</small>
 
@@ -11577,7 +11599,9 @@ II.- Si los ingresos de la víctima exceden del cuádruplo del salario mínimo g
 
 III.- Si no fuere posible determinar el salario, sueldo o utilidad de la víctima, se calcularán éstos por peritos, tomando en cuenta las capacidades y aptitudes de aquélla en relación con su profesión, oficio, trabajo o índole de la actividad a la que se dedicaba;
 
-IV.- Si los peritos carecen de bases suficientes para fundar su opinión, lo mismo que en el caso de que la víctima no disfrutará sueldo, salario o no desarrollare actividad alguna, la indemnización se calculará sobre la base del salario mínimo general en el lugar en que se realice el daño.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV.- Si los peritos carecen de bases suficientes para fundar su opinión, lo mismo que en el caso de que la víctima no disfrutará sueldo, salario o no desarrollare actividad alguna, la indemnización se calculará sobre la base el (sic) equivalente al valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 1989.
 
@@ -11617,9 +11641,11 @@ La indemnización por daño moral, a que tengan derecho la víctima o las person
 
 Si la lesión recayó sobre la integridad de la persona y el daño origina una lesión a la víctima, que no la imposibilite total o parcialmente para el trabajo, el Juez fijará el importe de la indemnización del daño moral, tomando en cuenta si la parte lesionada es o no visible, la duración de la visibilidad, en su caso, así como la edad y condiciones de la persona.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 1995.
 
-La indemnización por daño moral es independiente de la económica, se decretará aun cuando ésta no exista siempre que se cause aquel daño y no excederá del importe de un mil días del salario mínimo general.
+La indemnización por daño moral es independiente de la económica, se decretará aun cuando ésta no exista siempre que se cause aquel daño y no excederá del equivalente a la cantidad de mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
@@ -12823,9 +12849,11 @@ La donación se perfecciona desde que el donatario la acepta.
 
 La donación puede hacerse verbalmente o por escrito.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 2201.
 
-La donación verbal sólo puede tener por objeto bienes muebles cuyo valor no pase del importe de treinta días de salario mínimo.
+La donación verbal sólo puede tener por objeto bienes muebles cuyo valor no pase del equivalente a la cantidad de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 2202.
 
@@ -12997,7 +13025,9 @@ La donación deviene irrevocable:
 
 I.- Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos;
 
-II.- Si es menor que el importe de cincuenta días de salario mínimo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II.- Si es menor que el importe equivalente a la cantidad de cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
 III.- Cuando sea antenupcial;
 
@@ -13167,9 +13197,11 @@ Se prohíbe a magistrados, jueces, encargados de establecimientos públicos y fu
 
 La renta o precio del arrendamiento puede consistir en una suma de dinero o de cualquiera otro bien equivalente, que sea cierto y determinado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 2269.
 
-El arrendamiento debe otorgarse por escrito; pero si el bien arrendado fuere rústico y la renta anual pasare del importe de quinientos días de salario mínimo, el contrato se otorgará en escritura pública.
+El arrendamiento debe otorgarse por escrito; pero si el bien arrendado fuere rústico y la renta anual pasare del importe equivalente a la cantidad de quinientas veces el valor diario de la Unidad de Medida y Actualización, el contrato se otorgará en escritura pública.
 
 ###### Artículo 2270.
 
@@ -13479,13 +13511,11 @@ V.- Que el inquilino no tenga celebrado como arrendador uno o más contratos de 
 
 Lo dispuesto en el artículo anterior se aplicará también al arrendamiento por tiempo indeterminado.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 2323.
 
-Durante la prórroga prevista en los Artículos anteriores, la renta estipulada en el contrato prorrogado sólo podrá aumentarse anualmente, pero el aumento no podrá exceder del setenta por ciento del incremento porcentual fijado al salario mínimo general en el Estado.
-
-En tratándose de viviendas construidas dentro de los Programas Gubernamentales de Fomento Habitacional, tales como FOVI, FONHAPO, FOVISSTE Y FIDEICOMISO SEDUE, la renta se incrementará durante el plazo de amortización correspondiente, en la forma que señalen dichos Programas.
+Durante la prórroga prevista en los artículos anteriores, la renta estipulada en el contrato prorrogado sólo podrá aumentarse anualmente, pero el aumento no podrá exceder del setenta por ciento del incremento porcentual fijado del equivalente al valor diario de la Unidad de Medida y Actualización. En tratándose de viviendas construidas dentro de los Programas Gubernamentales de Fomento Habitacional, tales como FOVI, FONHAPO, FOVISSSTE y FIDEICOMISO SEDUE, la renta se incrementará durante el plan de amortización correspondiente, en la forma que señalen dichos Programas.
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 1985)</small>
 
@@ -14039,19 +14069,25 @@ VI.- Los notarios insertarán la fracción o fracciones relativas de este artíc
 
 Para que el mandatario pueda hacer donaciones en nombre o por cuenta del mandante, es necesario que éste le dé poder especial, en cada caso.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 2442.
 
-El mandato podrá otorgarse en carta poder firmada ante dos testigos, sin que sea necesaria la ratificación de las firmas, cuando el interés del negocio para que se confiere no exceda del importe de diez días de salario mínimo.
+El mandato podrá otorgarse en carta poder firmada ante dos testigos, sin que sea necesaria la ratificación de las firmas, cuando el interés del negocio para que se confiere no exceda del importe equivalente a la cantidad de diez veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 2443.
 
-Puede otorgarse mandato en carta poder firmada ante dos testigos y ratificada la firma del otorgante ante Notario, cuando el interés del negocio para que se confiere exceda del importe de diez días de salario mínimo, pero no de cincuenta.
+Puede otorgarse mandato en carta poder firmada ante dos testigos y ratificada la firma del otorgante ante Notario, cuando el interés del negocio para que se confiere exceda del importe equivalente a la cantidad de diez veces el valor diario de la Unidad de Medida y Actualización, pero no de cincuenta.
 
 ###### Artículo 2444.
 
 El mandato debe otorgarse en escritura pública:
 
-I.- Cuando el interés del negocio para que se confiere exceda del importe de cincuenta días de salario mínimo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I.- Cuando el interés del negocio para que se confiere exceda del importe equivalente a la cantidad de cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
 II.- Cuando sea general;
 
@@ -20474,3 +20510,11 @@ P.O. 14 DE SEPTIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas (sic) disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
