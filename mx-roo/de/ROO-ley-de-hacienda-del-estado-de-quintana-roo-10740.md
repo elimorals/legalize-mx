@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2017-12-27"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -9213,23 +9213,25 @@ Este derecho se deberá pagar dentro de los dos primeros meses de cada año.
 
 ### CAPITULO XXV. DE LOS SERVICIOS QUE OTORGAN LAS AUTORIDADES LABORALES DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 207-O.
 
-Los derechos por los servicios que prestan las autoridades laborales del Estado, a través del Tribunal, Junta Local y Juntas Especiales todas de Conciliación y Arbitraje, Procuraduría de la Defensa del Trabajo y sus Procuradurías Auxiliares, la Dirección General del Trabajo y Previsión Social y los Inspectores de Trabajo, se pagarán conforme a la siguiente:
+Los derechos por los servicios que prestan las autoridades laborales del Estado, a través del Tribunal, Junta Local y Juntas Especiales todas de Conciliación y Arbitraje, Procuraduría de la Defensa del Trabajo y sus Procuradurías Auxiliares, la Dirección del Trabajo y los Inspectores de Trabajo, se pagarán conforme a la siguiente:
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
-
-I. Constancia de permiso para trabajar a menores de edad 1 UMA
+I. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 II. Por la expedición de documentos en copia simple 0.011 UMA por cada foja tamaño carta y 0.012 UMA por cada foja en tamaño oficio y legal.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2010)</small>
+
 En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de información exceda diez fotocopias.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2010)</small>
 
 III.- Por la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refiere la fracción II de este artículo, se realizará el pago a que se refiere la fracción IV del Artículo 188 de esta Ley.
 
@@ -11366,3 +11368,11 @@ También se considerarán como derechos para los efectos de este artículo, las 
 TERCERO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
 
 CUARTO. Las obligaciones y derechos derivados del Capítulo XII-A del Título II que se deroga de la Ley de Hacienda del Estado de Quintana Roo que hubieran nacido durante su vigencia, por la realización de las situaciones jurídicas o de hecho previstas en sus disposiciones, deberán ser cumplidas en las formas y plazos establecidos en dichas disposiciones que se derogan.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 112 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE DEROGA LA FRACCIÓN I, AMBOS DEL ARTÍCULO 207-O DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
