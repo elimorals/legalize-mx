@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2017-05-12"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -670,7 +670,9 @@ VIII. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así com
 
 IX. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
 
-X. Atender de manera eficaz las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, VIH/SIDA y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre éstas;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2017)</small>
+
+X. Atender de manera eficaz las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, VIH/SIDA, Virus de Papiloma Humano y otras enfermedades de transmisión sexual e impulsar programas de prevención, vacunación e información sobre éstas;
 
 XI. Disponer lo necesario para que niñas, niños y adolescentes con discapacidad reciban la atención apropiada a su condición, que mejore su calidad de vida, facilite su interacción e inclusión social y permita un ejercicio igualitario de sus derechos;
 
@@ -1917,3 +1919,19 @@ G.O. 12 DE MAYO DE 2017.
 Artículo Primero.- El presente decreto entrara en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 Artículo Segundo.- A efecto de dar cumplimiento al último párrafo del artículo 124 de la Ley General de los derechos de niñas, niños y adolescentes se establece al órgano legislativo de la Ciudad de México un plazo de 180 días para hacer las modificaciones legales conducentes.
+
+G.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL DISTRITO FEDERAL Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su conocimiento, y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- El Órgano Legislativo de la Ciudad de México considerará los recursos suficientes en el Presupuesto de Egresos de la Ciudad de México para el ejercicio 2018, para la aplicación del presente Decreto.
+
+CUARTO.- Los derechos, erogaciones y acciones previstas en este ordenamiento jurídico que impliquen erogaciones de carácter presupuestal, deberán realizarse de manera gradual y sujetarse a la capacidad financiera del Gobierno de la Ciudad de México, con el objeto de garantizar el equilibrio presupuestal.
+
+QUINTO.- La Secretaría de Salud de la Ciudad de México, continuará aplicando la vacuna tetravalente hasta que se descubra una vacuna que pueda cubrir más serotipos de Virus de Papiloma Humano, de conformidad con los avances médicos y científicos que pudieran surgir en un futuro y que estuvieran avalados por las instituciones competentes para dichos efectos.
+
+SEXTO.- El Jefe de Gobierno de la Ciudad de México contará con un plazo de 120 días hábiles contados a partir de la entrada en vigor de la presente Ley, para modificar al Reglamento de esta Ley acorde con las reformas del presente decreto.
