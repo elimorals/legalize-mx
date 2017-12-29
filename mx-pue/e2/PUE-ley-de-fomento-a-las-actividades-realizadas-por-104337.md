@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-a-las-actividades-realizadas-por-104337"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2014-12-31"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de diciembre de 2014.
 
@@ -37,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO …
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción I y II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 119, 123 fracciones I y XXXII, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46, 47, 48 fracciones I y XXXII, y 90 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -375,7 +377,9 @@ La Secretaría impondrá, según sea el caso, las siguientes sanciones:
 
 I. Amonestación: en el caso de que la organización haya incurrido por primera vez en alguna de las conductas que constituyen infracciones conforme a lo dispuesto por el artículo anterior, se le apercibirá para que, en un plazo no mayor a treinta días hábiles, contados a partir de la notificación respectiva, subsane la irregularidad;
 
-II. Multa: en caso de no cumplir con el apercibimiento en el término a que se refiere la fracción anterior o en los casos de incumplimiento de los supuestos a que se refieren las infracciones VIII a XIV del artículo 26 de esta Ley; se multará hasta por el equivalente a doscientos cincuenta días de salario mínimo general vigente en el Estado de Puebla;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Multa: en caso de no cumplir con el apercibimiento en el término a que se refiere la fracción anterior o en los casos de incumplimiento de los supuestos a que se refieren las infracciones VIII a XIV del artículo 26 de esta Ley; se multará por el equivalente a la cantidad de hasta doscientos cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Suspensión temporal: hasta por un año de su inscripción en el Registro Estatal, en el caso de reincidencia con respecto a la violación de una obligación establecida por esta Ley, y
 
@@ -414,3 +418,13 @@ OCTAVO. Para los efectos previstos en la presente Ley, la Secretaría de Desarro
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los once días del mes de diciembre de dos mil catorce. Diputada Presidenta. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica. Diputado Vicepresidente. CIRILO SALAS HERNÁNDEZ. Rúbrica. Diputado Secretario. FRANCISCO MOTA QUIROZ. Rúbrica. Diputado Secretario. JOSÉ CHEDRAUI BUDIB. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los doce días del mes de diciembre de dos mil catorce. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. LUIS MALDONADO VENEGAS. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
