@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2017-06-14"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-08-03"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -1999,6 +1999,8 @@ La Comisión de Administración velará, en todo momento y en el ámbito de su c
 
 Contará con una Secretaría Administrativa, cuya persona titular fungirá como Secretario o Secretaria de la Comisión, así como con los órganos auxiliares que considere pertinentes.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 167.
 
 La Comisión de Administración tendrá las facultades siguientes:
@@ -2025,23 +2027,29 @@ X. Emitir anualmente un informe en materia de Transparencia, Acceso a la Informa
 
 XI. Vigilar el funcionamiento de los órganos auxiliares de la misma;
 
-XII. Realizar u ordenar las investigaciones relacionadas con procedimientos de responsabilidad administrativa que sean de su competencia;
+XII. Inspeccionar el funcionamiento de las Salas Regionales y el desempeño de sus servidores públicos en el ámbito jurisdiccional;
 
-XIII. Conocer y resolver, en el ámbito de su competencia y conforme a las disposiciones aplicables, los procedimientos de responsabilidad administrativa;
+XIII. Realizar u ordenar las investigaciones relacionadas con procedimientos de responsabilidad administrativa que sean de su competencia;
 
-XIV. Resolver las inconformidades presentadas por la Presidencia o las y los Magistrados de las Salas Regionales contra los dictámenes de inspección realizados por la Visitaduría Judicial;
+XIV. Conocer y resolver, en el ámbito de su competencia y conforme a las disposiciones aplicables, los procedimientos de responsabilidad administrativa;
 
-XV. Aprobar el Programa Anual de Trabajo, el Programa Anual de Ejecución, el Programa Anual de Ejecución de Obra Pública y el Programa Anual de Igualdad de Derechos y Paridad de Género; así como sus modificaciones;
+XV. Resolver las inconformidades presentadas por la Presidencia o las y los Magistrados de las Salas Regionales contra los dictámenes de inspección realizados por la Visitaduría Judicial;
 
-XVI. Nombrar a las personas titulares de las Delegaciones Administrativas;
+XVI. Resolver las inconformidades que presenten los particulares relacionadas con los procedimientos de adquisiciones de bienes, arrendamientos, prestación de servicios, obra pública y los servicios relacionados con la misma;
 
-XVII. Aprobar en el ámbito administrativo, la normativa interna para el correcto funcionamiento del Tribunal Electoral;
+XVII. Aprobar el Programa Anual de Trabajo, el Programa Anual de Ejecución, el Programa Anual de Ejecución de Obra Pública y el Programa Anual de Igualdad de Derechos y Paridad de Género; así como sus modificaciones;
 
-XVIII. Emitir Acuerdos Generales para determinar las dos sedes de las Salas Regionales a que se refiere el artículo 46 de este Reglamento;
+XVIII. Nombrar a las personas titulares de las Delegaciones Administrativas;
 
-XIX. Ejercer el presupuesto de egresos del Tribunal Electoral; y
+XIX. Aprobar en el ámbito administrativo, la normativa interna para el correcto funcionamiento del Tribunal Electoral;
 
-XX. Las demás que le confieran las disposiciones aplicables.
+XX. Emitir Acuerdos Generales para determinar las dos sedes de las Salas Regionales a que se refiere el artículo 46 de este Reglamento;
+
+XXI. Ejercer el presupuesto de egresos del Tribunal Electoral;
+
+XXII. Vigilar el cumplimiento de las disposiciones legales y normativas en materia administrativa; y
+
+XXIII. Las demás que le confieran las disposiciones aplicables.
 
 ### CAPÍTULO II. De la Presidencia y de la Secretaría de la Comisión de Administración
 
@@ -2065,7 +2073,9 @@ IV. Vigilar, en el ámbito administrativo, la expedición de los manuales, linea
 
 V. Proponer a la Comisión de Administración, en el ámbito de su competencia, el otorgamiento de poderes al personal que corresponda, adscrito a la Secretaría Administrativa, para los efectos que establece el artículo 209, fracción XXVII, de la Ley Orgánica;
 
-VI. Proponer a las personas titulares de las Delegaciones Administrativas para su nombramiento por parte de la Comisión de Administración, de conformidad con las propuestas que sometan a su consideración los presidentes de las Salas Regionales;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+VI. Proponer a las personas titulares de las Delegaciones Administrativas para su nombramiento por parte de la Comisión de Administración;
 
 VII. Dictar, en el ámbito de su competencia, los acuerdos necesarios para el correcto funcionamiento de la Comisión de Administración, los cuales deberán ser publicados en el Diario Oficial de la Federación e informados de inmediato a la misma;
 
@@ -2199,17 +2209,21 @@ I. Visitaduría Judicial;
 
 II. Contraloría Interna;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+III. Dirección General de Investigación de Responsabilidades Administrativas;
+
 > <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2016)</small>
 
-III. Centro de Capacitación Judicial Electoral;
+IV. Centro de Capacitación Judicial Electoral;
 
 > <small>(REFORMADA, D.O.F. 4 DE MARZO DE 2016)</small>
 
-IV. Delegaciones Administrativas; y
+V. Delegaciones Administrativas; y
 
 > <small>(ADICIONADA, D.O.F. 4 DE MARZO DE 2016)</small>
 
-V. Defensoría Electoral.
+VI. Defensoría Electoral.
 
 Los órganos auxiliares contarán con el personal necesario para el adecuado desempeño de sus funciones, de conformidad con el presupuesto autorizado.
 
@@ -2277,7 +2291,9 @@ De la Visitaduría Judicial
 
 ###### Artículo 176.
 
-La Visitaduría Judicial es el órgano auxiliar con independencia técnica de la Comisión de Administración, responsable de inspeccionar el funcionamiento jurisdiccional de las Salas Regionales y el desempeño de sus servidores públicos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+La Visitaduría Judicial es el órgano auxiliar con independencia técnica de la Comisión de Administración, responsable de inspeccionar el funcionamiento jurisdiccional de las Salas Regionales y el desempeño de sus servidores públicos, así como de sustanciar los procedimientos de responsabilidad administrativa en el ámbito de su competencia.
 
 Contará con la estructura necesaria para el desempeño de sus funciones.
 
@@ -2291,6 +2307,8 @@ En caso de ausencia del titular de la Visitaduría Judicial por más de quince d
 
 Los requisitos que debe cumplir el titular de la Visitaduría Judicial, además de los establecidos en este Reglamento, para las y los titulares de los órganos auxiliares de la Comisión de Administración, así como sus facultades y atribuciones estarán previstos en el Acuerdo General que para tal efecto apruebe la Comisión de Administración.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 178.
 
 La Visitaduría Judicial tendrá las facultades siguientes:
@@ -2299,35 +2317,33 @@ I. Elaborar el Programa Anual de Visitas Ordinarias de Inspección y Verificacio
 
 II. Realizar visitas de inspección, ordinarias o extraordinarias, así como verificaciones a distancia;
 
-III. Efectuar visitas extraordinarias cuando a juicio de la Comisión de Administración, existan elementos de prueba que hagan presumir irregularidades cometidas por personal de la Sala Regional respectiva, en la orden correspondiente deberán precisarse los puntos específicos que justifiquen la visita, o bien, en casos urgentes;
+III. Efectuar visitas extraordinarias cuando, a juicio de la Comisión de Administración, existan elementos que hagan presumir irregularidades en el funcionamiento de la Sala Regional respectiva, o bien, en casos urgentes. En la orden correspondiente deberán precisarse los puntos específicos que justifiquen la visita;
 
-IV. Autorizar los dictámenes sobre las visitas ordinarias, extraordinarias así como las verificaciones a distancia, basándose únicamente en los hechos asentados en las actas de visita;
+IV. Autorizar los dictámenes sobre las visitas ordinarias, extraordinarias, así como las verificaciones a distancia, basándose únicamente en los hechos asentados en las actas de visita;
 
-V. Notificar a las y los Magistrados integrantes de las Salas Regionales, los dictámenes sobre las visitas ordinarias, extraordinarias y las verificaciones a distancia, una vez que hayan sido autorizados por la propia Visitaduría Judicial;
+V. Informar a la Dirección General de Investigación de Responsabilidades Administrativas de los hechos o conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas, de las que tenga conocimiento en el ejercicio de sus facultades;
 
-VI. Enviar a la Comisión de Administración para su aprobación, los dictámenes sobre las visitas ordinarias, extraordinarias y las verificaciones a distancia y, en su caso, el recurso de inconformidad que se hubiere presentado en contra de los mismos, para los efectos legales a que haya lugar;
+VI. Notificar a las y los Magistrados integrantes de las Salas Regionales, los dictámenes sobre las visitas ordinarias, extraordinarias y las verificaciones a distancia, una vez que hayan sido autorizados por la propia Visitaduría Judicial;
 
-VII. Elaborar los criterios derivados de los dictámenes aprobados, para someterlos a la consideración de la Comisión de Administración;
+VII. Enviar a la Comisión de Administración para su aprobación, los dictámenes sobre las visitas ordinarias, extraordinarias y las verificaciones a distancia y, en su caso, el recurso de inconformidad que se hubiere presentado en contra de los mismos, para los efectos legales a que haya lugar;
 
-VIII. Notificar los dictámenes aprobados por la Comisión de Administración;
+VIII. Elaborar los criterios derivados de los dictámenes aprobados, para someterlos a la consideración de la Comisión de Administración;
 
-IX. Notificar las actuaciones de la Visitaduría Judicial que así lo requieran, así como las instruidas por la Comisión de Administración;
+IX. Notificar los dictámenes aprobados por la Comisión de Administración;
 
-X. Aprobar, por razón fundada, la reprogramación de visitas que se determinen, lo que deberá comunicarse a la Sala Regional correspondiente y a la Comisión de Administración a través de la o el Visitador General;
+X. Notificar las actuaciones de la Visitaduría Judicial que así lo requieran, así como las instruidas por la Comisión de Administración;
 
-XI. Vigilar que los procedimientos de inspección, de supervisión y las actas que se levanten, se ajusten a los lineamientos determinados por la Comisión de Administración, así como la demás normativa aplicable;
+XI. Aprobar, por razón fundada, la reprogramación de visitas que se determinen, lo que deberá comunicarse a la Sala Regional correspondiente y a la Comisión de Administración a través de la o el Visitador General;
 
-XII. Rendir los informes que sean requeridos por la Comisión de Administración;
+XII. Vigilar que los procedimientos de inspección, de supervisión y las actas que se levanten, se ajusten a los lineamientos determinados por la Comisión de Administración, así como la demás normativa aplicable;
 
-XIII. Iniciar y sustanciar los procedimientos de investigación, para lo cual debe informar de manera inmediata a la Comisión de Administración, o bien, cuando ésta se lo instruya, así como sustanciar e instruir los procedimientos disciplinarios del personal perteneciente a las Salas Regionales del Tribunal Electoral, en los términos de la Ley Orgánica;
+XIII. Rendir los informes que sean requeridos por la Comisión de Administración;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+XIV. Sustanciar los procedimientos de responsabilidad administrativa de los servidores públicos del Tribunal Electoral en el ámbito de su competencia, conforme a la Ley General de Responsabilidades Administrativas, y someter a consideración de la Comisión de Administración el proyecto de resolución correspondiente;
 
-XIV. Informar a la Comisión de Administración de cualquier queja o denuncia que sea presentada ante la Visitaduría Judicial. En caso de que la queja o denuncia no sea de la competencia del citado órgano auxiliar, se turnará al área que corresponda para su atención, debiendo remitir copia de la misma al Secretario de la Comisión de Administración, para los efectos a que haya lugar;
+XV. Informar a la Comisión de Administración de cualquier queja o denuncia que sea presentada ante la Visitaduría Judicial. En caso de que la queja o denuncia no sea de la competencia del citado órgano auxiliar, se turnará al área que corresponda para su atención, debiendo remitir copia de la misma al Secretario de la Comisión de Administración, para los efectos a que haya lugar;
 
-XV. Informar a la Comisión de Administración cuando, en el desarrollo de una investigación o en la sustanciación de un procedimiento administrativo de responsabilidad, tenga conocimiento de conductas que puedan constituir algún delito;
-
-XVI. Informar a la Comisión de Administración de la ausencia de más de quince días de la o el Visitador General, a efecto de que designe a la o el Visitador que deberá hacerse cargo del despacho; y
+XVI. Hacer del conocimiento de la instancia correspondiente del Tribunal Electoral cuando en el desarrollo de una investigación o en la sustanciación de un procedimiento administrativo de responsabilidad, tenga conocimiento de conductas que puedan constituir algún delito; y
 
 XVII. Las demás que le confiera este Reglamento, así como los Acuerdos y disposiciones que en la materia emita la Comisión de Administración o el Pleno de la Sala Superior.
 
@@ -2355,7 +2371,9 @@ De la Contraloría Interna
 
 ###### Artículo 181.
 
-La Contraloría Interna es el órgano auxiliar de la Comisión de Administración encargado de vigilar el cumplimiento de las disposiciones legales y normativas en materia administrativa, a través de la realización de auditorías y revisiones; para tal efecto, contará con independencia técnica, autonomía de gestión y la estructura necesaria para el desempeño de sus funciones.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+La Contraloría Interna es el órgano auxiliar de la Comisión de Administración encargado de vigilar el cumplimiento de las disposiciones legales y normativas en materia administrativa, a través de la realización de auditorías y revisiones; así como de sustanciar los procedimientos de responsabilidad administrativa en el ámbito de su competencia, para tal efecto, contará con independencia técnica, autonomía de gestión y la estructura necesaria para el desempeño de sus funciones.
 
 Sin perjuicio de lo señalado en el artículo 173 del presente Reglamento, los servidores públicos encargados del control y evaluación, auditoría y responsabilidades, deberán cumplir con un proceso de capacitación y su desempeño será evaluado periódicamente.
 
@@ -2379,25 +2397,35 @@ V. Formular, con base en las auditorías y revisiones de control que realice, la
 
 VI. Verificar, evaluar y proponer en coordinación con las unidades administrativas las acciones que promuevan la mejora de la administración del Tribunal Electoral;
 
-VII. Emitir y someter a la Comisión de Administración el dictamen y la resolución con motivo de las quejas o denuncias en materia de responsabilidad administrativa, o las iniciadas de oficio, e inconformidades que presenten los particulares relacionadas con los procedimientos de adquisiciones de bienes, arrendamientos, prestación de servicios, obra pública y los servicios relacionados con la misma;
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-VIII. Iniciar y sustanciar los procedimientos de investigación y, en su caso, los de responsabilidades administrativas, conforme a los lineamientos que emita la Sala Superior, la Comisión de Administración y la Presidencia del Tribunal Electoral;
+VII. Informar a la Dirección General de Investigación de Responsabilidades Administrativas de los hechos o conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas, de las que tenga conocimiento en el ejercicio de sus facultades;
 
-IX. Instruir el seguimiento necesario a los procedimientos de ejecución en los que se haya determinado una resolución, por la que se imponga a las y los servidores públicos involucrados, la aplicación de una sanción económica;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-X. Mantener actualizado el registro del personal sancionado adscrito al Tribunal Electoral;
+VIII. Emitir y someter a la Comisión de Administración el dictamen y la resolución de las inconformidades que presenten los particulares relacionadas con los procedimientos de adquisiciones de bienes, arrendamientos, prestación de servicios, obra pública y los servicios relacionados con la misma;
 
-XI. Vigilar el registro y dar seguimiento de la presentación de la declaración de situación patrimonial del personal del Tribunal Electoral;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-XII. Participar en los actos de entrega-recepción del personal de las Salas del Tribunal Electoral;
+IX. Sustanciar los procedimientos de responsabilidad administrativa de los servidores públicos del Tribunal Electoral en el ámbito de su competencia, conforme a la Ley General de Responsabilidades Administrativas y someter a consideración de la Comisión de Administración el proyecto de resolución correspondiente;
 
-XIII. Conocer, resolver y, en su caso, imponer sanciones a las y los licitantes, proveedores o contratistas, de conformidad con lo previsto en los ordenamientos aplicables;
+X. Instruir el seguimiento necesario a los procedimientos de ejecución en los que se haya determinado una resolución, por la que se imponga a las y los servidores públicos involucrados, la aplicación de una sanción económica;
 
-XIV. Informar a la Comisión de Administración de las investigaciones y de los procedimientos de responsabilidad administrativa, efectuados por instrucción del Presidente;
+XI. Mantener actualizado el registro del personal sancionado adscrito al Tribunal Electoral;
+
+XII. Vigilar el registro y dar seguimiento de la presentación de la declaración de situación patrimonial del personal del Tribunal Electoral;
+
+XIII. Participar en los actos de entrega-recepción del personal de las Salas del Tribunal Electoral;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+XIV. Conocer, resolver y, en su caso, imponer sanciones a las y los licitantes, proveedores o contratistas, por supuestos distintos a los señalados en la fracción VIII;
 
 XV. Llevar el control de las observaciones y recomendaciones generadas en las auditorías y revisiones de control, para efectuar el seguimiento sobre el cumplimiento de las medidas preventivas y/o correctivas que se hayan derivado;
 
-XVI. Instar a la instancia competente del Tribunal Electoral, a formular las denuncias o querellas a que haya lugar, cuando en el ejercicio de sus funciones se adviertan probables conductas ilícitas.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+XVI. Hacer del conocimiento de la instancia correspondiente del Tribunal Electoral cuando, en el desarrollo de una investigación o en la sustanciación de un procedimiento administrativo de responsabilidad, tenga conocimiento de conductas que puedan constituir algún delito;
 
 XVII. Proponer las acciones que coadyuven a promover la mejora continua, administrativa y las áreas de oportunidad de todas las unidades administrativas del Tribunal Electoral, con objeto de alcanzar la eficiencia administrativa; y
 
@@ -2405,9 +2433,29 @@ XVIII. Proponer, en el ámbito de sus atribuciones, la celebración o actualizac
 
 Las ausencias de la persona titular de la Contraloría Interna, serán suplidas en términos de la normativa aplicable.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-SECCIÓN 3ª
+SECCIÓN 3ª.
+
+De la Dirección General de Investigación de Responsabilidades Administrativas
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+Artículo 182 bis.
+
+La Dirección General de Investigación de Responsabilidades Administrativas es el órgano auxiliar de la Comisión de Administración encargado de la investigación de faltas administrativas en los términos establecidos en la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+Artículo 182 ter.
+
+La persona titular de la Dirección General de Investigación de Responsabilidades Administrativas tendrá las facultades que prescribe la Ley de la materia respecto de la autoridad investigadora.
+
+Adicionalmente de las señaladas con anterioridad, la Dirección General de Investigación de Responsabilidades Administrativas tendrá aquéllas que le confiera este Reglamento, así como los acuerdos y disposiciones que en la materia emita la Comisión de Administración.
+
+> <small>(REFORMADA SU NUMERACIÓN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+SECCIÓN 4ª.
 
 Del Centro de Capacitación Judicial Electoral
 
@@ -2463,15 +2511,23 @@ III. Tener conocimientos de, por lo menos, un idioma extranjero; y
 
 IV. Haber publicado trabajos que acrediten la trascendencia y alta calidad de sus contribuciones a la docencia o la investigación en la materia político-electoral o materias afines.
 
-SECCIÓN 4ª
+> <small>(REFORMADA SU NUMERACIÓN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+SECCIÓN 5ª.
 
 De las Delegaciones Administrativas
 
 ###### Artículo 187.
 
-En cada Sala Regional habrá una Delegación Administrativa, cuya persona titular será designada por la Comisión de Administración, a propuesta de su Presidencia, quien deberá tomar en cuenta la opinión de la Presidencia de la Sala Regional que corresponda.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+En cada Sala Regional habrá una Delegación Administrativa, cuya persona titular será designada por la Comisión de Administración, a propuesta de su Presidencia.
 
 Las Delegaciones contarán con la estructura y el personal que sea necesario para el cumplimiento de sus funciones y será independiente del personal jurisdiccional de la Sala Regional correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+La coordinación y autorización de las actividades y el funcionamiento de las Delegaciones Administrativas estará a cargo de la Dirección General de Administración Regional.
 
 ###### Artículo 188.
 
@@ -2503,9 +2559,9 @@ XII. Supervisar que la administración de los recursos humanos y materiales a su
 
 XIII. Las demás que les confieran las disposiciones aplicables.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 4 DE MARZO DE 2016)</small>
+> <small>(REFORMADA SU NUMERACIÓN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-SECCIÓN 5ª
+SECCIÓN 6ª
 
 De la Defensoría Electoral
 
@@ -2621,17 +2677,21 @@ I. De Jurisprudencia, Seguimiento y Consulta; y
 
 II. De Comunicación Social.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 B. Direcciones Generales:
 
-I. De Relaciones con Organismos Electorales;
+I. De Relaciones Institucionales Internacionales;
 
-II. De Igualdad de Derechos y Paridad de Género;
+II. De Relaciones Institucionales Nacionales;
 
-III. De Información y Documentación;
+III. De Igualdad de Derechos y Paridad de Género;
 
-IV. De Asuntos Jurídicos; y
+IV. De Información y Documentación;
 
-V. De Transparencia, Acceso a la Información y Protección de Datos Personales.
+V. De Asuntos Jurídicos; y
+
+VI. De Transparencia, Acceso a la Información y Protección de Datos Personales.
 
 La integración de estas áreas se orientará por el principio de paridad y contará con alguno o más con trayectoria y experiencia en temas de género.
 
@@ -2851,45 +2911,61 @@ XIII. Fungir, en el ámbito editorial, como Secretario Técnico del Comité Acad
 
 XIV. Dirigir la baja y destrucción de las publicaciones institucionales, de conformidad con el Programa Académico y Editorial Anual autorizado por el Comité Académico y Editorial.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO V. De la Dirección General de Relaciones con Organismos Electorales
+### CAPÍTULO V. De la Dirección General de Relaciones Institucionales Internacionales
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 202.
 
-La Dirección General de Relaciones con Organismos Electorales se encarga del establecimiento y promoción de vínculos entre el Tribunal Electoral y los organismos electorales nacionales y extranjeros; con la finalidad de expandir los valores democráticos, fortalecer e incrementar las relaciones institucionales.
+La Dirección General de Relaciones Institucionales Internacionales se encarga del establecimiento y promoción de vínculos entre el Tribunal Electoral y los organismos electorales e instituciones extranjeras; con la finalidad de expandir los valores democráticos, fortalecer e incrementar las relaciones institucionales internacionales.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 203.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+La persona titular de la Dirección General de Relaciones Institucionales Internacionales tendrá las facultades siguientes:
 
-La persona titular de la Dirección General de Relaciones con Organismos Electorales tendrá las facultades siguientes:
+I. Coadyuvar en el establecimiento y promoción de relaciones con organismos internacionales vinculados con actividades electorales;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+II. Promover la vinculación con organismos de cooperación internacional para el desarrollo de proyectos interinstitucionales en materia electoral;
 
-I. Coadyuvar en el establecimiento y promoción de relaciones con organismos nacionales e internacionales vinculados con actividades electorales;
+III. Coordinarse con el Centro y la Dirección General de Documentación, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral, en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+IV. Planear y programar en términos operativos y logísticos, los contactos y las relaciones del Tribunal Electoral con instancias gubernamentales o privadas extranjeras, para promover a la institución; y
 
-II. Promover la vinculación con organismos de cooperación nacional e internacional para el desarrollo de proyectos interinstitucionales en materia electoral;
+V. Las demás que les confieran las disposiciones aplicables.
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-III. Coordinarse con el Centro y la Dirección General de Documentación, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral, en el ámbito de su competencia; y
+### CAPÍTULO VI. De la Dirección General de Relaciones Institucionales Nacionales
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-IV. Planear y programar en términos operativos y logísticos, los contactos y las relaciones del Tribunal Electoral con instancias gubernamentales, privadas, nacionales o extranjeras, para promover a la institución.
+Artículo 203 bis.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+La Dirección General de Relaciones Institucionales Nacionales se encarga del establecimiento y promoción de vínculos entre el Tribunal Electoral y los organismos electorales nacionales; con la finalidad de expandir los valores democráticos, fortalecer e incrementar las relaciones institucionales.
 
-### CAPÍTULO VI. De la Dirección General de Asuntos Jurídicos
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+Artículo 203 ter.
 
-### CAPÍTULO VII. De la Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales
+La persona titular de la Dirección General de Relaciones Institucionales Nacionales tendrá las facultades siguientes:
+
+I. Coadyuvar en el establecimiento y promoción de relaciones con organismos nacionales vinculados con actividades electorales;
+
+II. Desarrollar proyectos interinstitucionales en materia electoral con organismos nacionales vinculados con actividades electorales;
+
+III. Coordinarse con el Centro y la Dirección General de Documentación, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral, en el ámbito de su competencia;
+
+IV. Planear y programar en términos operativos y logísticos, los contactos y las relaciones del Tribunal Electoral con instancias gubernamentales o privadas nacionales para dar a conocer y promover la labor de la institución; y.
+
+V. Las demás que les confieran las disposiciones aplicables.
+
+> <small>(REFORMADA SU NUMERACIÓN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO VII. De la Dirección General de Asuntos Jurídicos
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2953,11 +3029,11 @@ XI. Recibir las quejas y denuncias presentadas por las y los trabajadores de las
 
 XII. Participar con las unidades administrativas que sean designadas para tal efecto por la Presidencia del Tribunal Electoral, en la formulación y revisión periódica de las políticas institucionales sobre la tutela del derecho a la no discriminación en el ámbito interno.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU NUMERACIÓN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO I. De la Dirección General de Recursos Humanos
+### CAPÍTULO VIII. De la Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 206.
 
@@ -3185,7 +3261,7 @@ VII. Contar, preferentemente, con experiencia en el cargo que se le encomiende.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO II. De la Dirección General de Recursos Financieros
+### CAPÍTULO I. De la Dirección General de Recursos Humanos
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -3233,7 +3309,9 @@ XVI. Elaborar constancias, efectuar cotejos, expedir todo tipo de certificacione
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO III. De la Coordinación de Adquisiciones, Servicios y Obra Pública
+### CAPÍTULO II. De la Dirección General de Recursos Financieros
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 214.
 
@@ -3297,9 +3375,7 @@ XXIII. Solicitar en el ámbito de su competencia, las gestiones para la recupera
 
 XXIV. Efectuar las gestiones para el pago de diversos conceptos diferentes a los contemplados en la nómina de las y los servidores públicos del Tribunal, en caso de que la cuenta de deudores diversos refleje saldos a favor, una vez que concluyan su relación laboral.
 
-### CAPÍTULO IV. De la Dirección General de Protección Institucional
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO III. De la Coordinación de Adquisiciones, Servicios y Obra Pública
 
 ###### Artículo 216.
 
@@ -3333,7 +3409,9 @@ VII. Autorizar solicitudes de recursos financieros y cheques para los diversos p
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO V. De la Dirección General de Sistemas
+### CAPÍTULO IV. De la Dirección General de Protección Institucional
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 218.
 
@@ -3377,7 +3455,7 @@ XIII. Resguardar el orden en las instalaciones del Tribunal Electoral y contribu
 
 XIV. Controlar el acceso y salida de las instalaciones del Tribunal Electoral.
 
-### CAPÍTULO VI. De la Dirección General de Planeación y Evaluación Institucional
+### CAPÍTULO V. De la Dirección General de Sistemas
 
 ###### Artículo 220.
 
@@ -3413,7 +3491,7 @@ XII. Colaborar con la Coordinación de Comunicación Social y la Coordinación d
 
 XIII. Coadyuvar con la Visitaduría Judicial o con la Contraloría Interna, en el ámbito de sus facultades.
 
-### CAPÍTULO VII. De la Dirección General de Enlace y Vinculación Social
+### CAPÍTULO VI. De la Dirección General de Planeación y Evaluación Institucional
 
 ###### Artículo 222.
 
@@ -3437,7 +3515,7 @@ VI. Coordinar la elaboración y presentación de documentos internos sobre las p
 
 VII. Coordinar la elaboración de la estructura orgánica del Tribunal Electoral, de conformidad con la normativa establecida en la materia.
 
-### CAPÍTULO VIII. De la Dirección General de Administración Regional
+### CAPÍTULO VII. De la Dirección General de Enlace y Vinculación Social
 
 ###### Artículo 224.
 
@@ -3465,21 +3543,25 @@ VIII. Determinar, formular y presentar a la Secretaría Administrativa su respec
 
 IX. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos.
 
-### CAPÍTULO IX. De la Dirección General de Mantenimiento y Servicios Generales
+### CAPÍTULO VIII. De la Dirección General de Administración Regional
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 226.
 
-La Dirección General de Administración Regional se encarga del enlace permanente entre las Salas Regionales y las Coordinaciones, Unidades de Apoyo y Órganos Auxiliares del Tribunal Electoral, a efecto de orientar a las Delegaciones Administrativas en el cumplimiento de sus facultades.
+La Dirección General de Administración Regional se encarga del enlace permanente entre las Salas Regionales y las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares del Tribunal Electoral, a efecto de orientar, coordinar y autorizar las actividades y el funcionamiento de las Delegaciones Administrativas en el cumplimiento de sus facultades.
 
 ###### Artículo 227.
 
 La persona titular de la Dirección General de Administración Regional tendrá las facultades siguientes:
 
-I. Coordinar y asegurar el enlace permanente de las Coordinaciones, Unidades de Apoyo y Órganos Auxiliares del Tribunal Electoral con las Delegaciones Administrativas, así como entre éstas;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
-II. Apoyar en el ámbito de su competencia, a las Delegaciones Administrativas, para el adecuado funcionamiento de éstas;
+I. Asegurar el enlace permanente de las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares del Tribunal Electoral con las Delegaciones Administrativas, y entre éstas, así como coordinar y autorizar las actividades y el funcionamiento de las Delegaciones Administrativas;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Apoyar y orientar en el ámbito de su competencia, a las Delegaciones Administrativas, para el adecuado funcionamiento de éstas en el cumplimiento de sus facultades;
 
 III. Gestionar y dar seguimiento a los requerimientos de las Delegaciones Administrativas respecto de información y trámites administrativos, de servicios o financieros, así como al presupuesto asignado a las mismas, que por su complejidad, alcance, monto o tiempo de autorización requiera de atención específica e inmediata ante la Secretaría Administrativa;
 
@@ -3493,7 +3575,9 @@ VII. Coordinar la elaboración y, en su caso, actualización del Manual de Organ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO I. De los Órganos
+### CAPÍTULO IX. De la Dirección General de Mantenimiento y Servicios Generales
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 227 Bis.
 
@@ -3523,9 +3607,7 @@ VIII. Llevar el registro y la actualización del inventario de bienes del Tribun
 
 ## TÍTULO CUARTO. De los Órganos de Transparencia, Acceso a la Información y Protección de Datos Personales
 
-### CAPÍTULO II. De la Comisión de Transparencia, Acceso a la Información y Protección de Datos Personales
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+### CAPÍTULO I. De los Órganos
 
 ###### Artículo 228.
 
@@ -3551,7 +3633,9 @@ VII. Las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Aux
 
 VIII. Las Salas Regionales.
 
-### CAPÍTULO III. Del Comité de Transparencia y Acceso a la Información
+### CAPÍTULO II. De la Comisión de Transparencia, Acceso a la Información y Protección de Datos Personales
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 229.
 
@@ -3603,7 +3687,7 @@ III. Elaborar y suscribir las actas de las sesiones, llevando el control y segui
 
 IV. Las demás que les confieran las disposiciones aplicables.
 
-### CAPÍTULO IV
+### CAPÍTULO III. Del Comité de Transparencia y Acceso a la Información
 
 ###### Artículo 233.
 
@@ -3665,7 +3749,7 @@ XI. Las demás que les confieran las disposiciones aplicables.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO ÚNICO. Del Procedimiento de Reforma
+### CAPÍTULO IV
 
 ###### Artículo 236.
 
@@ -3677,9 +3761,15 @@ XI. Las demás que les confieran las disposiciones aplicables.
 
 ## TÍTULO QUINTO. De las Reformas al Reglamento
 
+### CAPÍTULO ÚNICO. Del Procedimiento de Reforma
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 238.
 
 Cualquiera de las Magistradas o los Magistrados, así como de los Integrantes de la Comisión de Administración, tendrán facultad para presentar iniciativa de reforma al presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 239.
 
@@ -3692,6 +3782,8 @@ II. El dictamen se someterá a la consideración de la Sala Superior, para lo cu
 III. La Sala Superior discutirá y, según el caso, rechazará, aprobará o modificará el dictamen de la Comisión sobre la iniciativa de reforma al Reglamento; y
 
 IV. De ser aprobada la reforma quedará incorporada de inmediato al texto de este Reglamento, debiendo ordenarse su publicación en el Diario Oficial de la Federación; y entrará en vigor a partir del día siguiente, salvo disposición expresa en sentido diverso; en caso contrario, la iniciativa será archivada.
+
+En caso de que se presenten propuestas de modificación orgánica del Tribunal Electoral que requieran sustento en el presente reglamento, las mismas no podrán llevarse a cabo sin que de manera previa se realicen las adecuaciones reglamentarias correspondientes, conforme al procedimiento descrito en el presente artículo.
 
 ## TRANSITORIOS
 
@@ -3756,3 +3848,15 @@ PRIMERO. Las presentes reformas y adiciones entrarán en vigor al día siguiente
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a las presentes reformas y adiciones.
 
 TERCERO. Publíquense las presentes reformas y adiciones en el Diario Oficial de la Federación y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral.
+
+D.O.F. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS Y ADICIONES AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN".]
+
+PRIMERO. Las presentes reformas y adiciones entrarán en vigor el primero de enero de dos mil dieciocho.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a las presentes reformas y adiciones.
+
+TERCERO. Los procedimientos de responsabilidad de servidores públicos del Tribunal Electoral del Poder Judicial de la Federación que, al entrar en vigor las presentes reformas y adiciones, se encuentren en su fase de investigación tanto en la Contraloría Interna como en la Visitaduría Judicial del mismo, deberán ser remitidos a la Dirección General de Investigación de Responsabilidades para los efectos conducentes.
+
+CUARTO. Publíquense las presentes reformas y adiciones en el Diario Oficial de la Federación y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral.
