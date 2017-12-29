@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-economico-sustentable-del-estado-de-puebla-10
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-30"
-last_updated: "2017-02-23"
+last_updated: "2017-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de marzo de 2015.
 
@@ -927,7 +927,9 @@ Las infracciones serán determinadas y sancionadas por la Secretaría una vez ag
 
 A las empresas que cometan las infracciones a las que se refiere el artículo 66, la Secretaría impondrá las siguientes sanciones:
 
-I. Multa de doscientos a quinientos días de salario mínimo diario vigente en el Estado, a las empresas que incurran en lo descrito en la fracción I del artículo 66;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I. Multa del equivalente a la cantidad de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, a las empresas que incurran en lo descrito en la fracción I del artículo 66;
 
 II. Multa equivalente al cien por ciento del valor comercial del inmueble transmitido como incentivo, de conformidad con el avalúo realizado por el Instituto Registral y Catastral del Estado, a las empresas que incurran en lo descrito en la fracción II del artículo 66;
 
@@ -935,7 +937,9 @@ III. Multa equivalente al ciento cincuenta por ciento de la aportación económi
 
 IV. Multa equivalente al cien por ciento del monto total erogado por el Estado en la ejecución de las obras y prestación de servicios referidos, a las empresas que incurran en lo descrito en la fracción IV del artículo 66, y
 
-V. Multa de cien a ciento cincuenta días de salario mínimo vigente en el Estado, a las empresas que incurran en lo descrito en las fracciones VI, VII, VIII, IX, X y XI del artículo 66.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. Multa del equivalente a la cantidad de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, a las empresas que incurran en lo descrito en las fracciones VI, VII, VIII, IX, X y XI del artículo 66.
 
 ###### ARTÍCULO 69.
 
@@ -1247,8 +1251,16 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 P.O. 23 DE FEBRERO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 33 DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 33 DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
