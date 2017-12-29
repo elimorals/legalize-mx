@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-29867
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2013-12-18"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -595,7 +595,7 @@ Los actos que conforman el procedimiento de adjudicación se llevarán a cabo en
 
 I.- Se recibirán las proposiciones en sobres cerrados haciéndose constar por la convocante la integridad de los sobres, posteriormente se procederá a la apertura formal y revisión cuantitativa de la propuesta técnica exclusivamente, procediendo a desechar las que hubieran omitido alguno de los documentos exigidos.
 
-Se deberá levantar un acta circunstanciada en la que se hará relación de los licitantes que se hayan inscrito; su asistencia o inasistencia; las propuestas que fueron aceptadas para su análisis cualitativo, así como las que fueron desechadas y las causas que lo motivaron; la que deberá ser firmada por la convocante, el representante de la Contraloría y los licitantes, entregando copia a los licitantes que hayan acudido al acto. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esta fecha, a disposición de los que hayan (sic) no asistido para efecto de su notificación.
+Se deberá levantar un acta circunstanciada en la que se hará relación de los licitantes que se hayan inscrito; su asistencia o inasistencia; las propuestas que fueron aceptadas para su análisis cualitativo, así como las que fueron desechadas y las causas que lo motivaron; la que deberá ser firmada por la convocante, el representante de la Contraloría y los licitantes, entregando copia a los licitantes que hayan acudido al acto. La falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esta fecha, a disposición de los que hayan no (sic)asistido para efecto de su notificación.
 
 En casos excepcionales y de acuerdo al número de participantes, características, magnitud y complejidad de los trabajos a ejecutar o cualquier otra causa suficiente a juicio de la convocante, se podrá realizar la apertura económica en el mismo acto de apertura técnica, quedando sujetas las propuestas aceptadas para su análisis técnico y económico detallado.
 
@@ -1393,9 +1393,9 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 Los licitantes o contratistas que infrinjan las disposiciones contenidas en esta Ley o demás normas aplicables o que con base en ella se dicten, serán sancionados por la Contraloría, pudiendo consistir en:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-I.- Multa equivalente de cincuenta a cinco mil veces el salario mínimo general diario vigente en la zona económica del Estado, en la fecha de la infracción.
+I.- Multa del equivalente a la cantidad de cincuenta a cinco mil veces el valor diario de la Unidad de Medida y Actualización calculadas en la fecha de la infracción.
 
 Las multas que imponga las autoridades estatales o municipales, una vez que sean notificadas y exigibles, se constituirán en créditos fiscales a favor del erario estatal o municipal según corresponda, y se turnará a la Secretaría de Finanzas y Administración o a la Tesorería Municipal para su cobro a través del Procedimiento Administrativo de Ejecución que establecen las disposiciones fiscales estatales o municipales;
 
@@ -1708,3 +1708,11 @@ P.O. 18 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
