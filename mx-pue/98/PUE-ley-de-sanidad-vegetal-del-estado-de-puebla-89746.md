@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-sanidad-vegetal-del-estado-de-puebla-89746"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2012-08-31"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SANIDAD VEGETAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de agosto de 2012.
 
@@ -619,23 +619,39 @@ El Gobierno del Estado, en el marco de concurrencia, podrá suscribir convenios 
 
 Las infracciones establecidas en la presente Ley, serán sancionadas administrativamente por la Secretaría, en la resolución que ponga fin al procedimiento de inspección respectivo, con una o más de las siguientes sanciones:
 
-I. Incumplir lo establecido en las Normas Oficiales Mexicanas y demás disposiciones legales aplicables derivadas de la presente Ley; en cuyo caso se impondrá multa de 50 a 20,000 salarios mínimos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-II. Movilizar vegetales, sus productos o subproductos e insumos sujetos a control fitosanitario sin contar con el certificado fitosanitario; en cuyo caso se impondrá multa de 2,000 a 20,000 salarios mínimos;
+I. Incumplir lo establecido en las Normas Oficiales Mexicanas y demás disposiciones legales aplicables derivadas de la presente Ley; en cuyo caso se impondrá multa del equivalente a la cantidad de 50 a 20,000 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Incumplir la obligación de guarda y custodia prevista en el artículo 60 de la Ley; en cuyo caso se impondrá multa de 200 a 20,000 salarios mínimos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV. Producir o comercializar vegetales sin contar con el certificado y el distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria, cuando las disposiciones legales aplicables lo determinen; en cuyo caso se impondrá una multa de 2,000 a 20,000 salarios mínimos;
+II. Movilizar vegetales, sus productos o subproductos e insumos sujetos a control fitosanitario sin contar con el certificado fitosanitario; en cuyo caso se impondrá multa del equivalente a la cantidad de 2,000 a 20,000 veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Producir o comercializar vegetales sin contar con el certificado de BPA´s en los términos de las Normas Oficiales y demás disposiciones legales aplicables; en cuyo caso se impondrá una multa de 4,000 a 40,000 salarios mínimos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III. Incumplir la obligación de guarda y custodia prevista en el artículo 60 de la Ley; en cuyo caso se impondrá multa del equivalente a la cantidad de 200 a 20,000 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Producir o comercializar vegetales sin contar con el certificado y el distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria, cuando las disposiciones legales aplicables lo determinen; en cuyo caso se impondrá una multa del equivalente a la cantidad de 2,000 a 20,000 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. Producir o comercializar vegetales sin contar con el certificado de BPA's en los términos de las Normas Oficiales y demás disposiciones legales aplicables; en cuyo caso se impondrá una multa del equivalente a la cantidad de 4,000 a 40,000 veces el valor diario de la Unidad de Medida y Actualización;
 
 VI. Suspender de manera precautoria las autorizaciones, permisos o aprobaciones, otorgadas a aquéllas personas físicas o morales, en términos de la presente Ley, que hubieran cometido alguna de las infracciones anteriores. Asimismo, solicitará a la instancia competente la suspensión de la acreditación correspondiente;
 
-VII. Ostentar que un producto agrícola o actividad a que se refiere el Título Tercero de esta Ley, cuenta con certificación o distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuando dicha situación no sea cierta o cuando el resultado de la evaluación de la conformidad exprese incumplimiento o insuficiencias de las condiciones para la certificación correspondiente del vegetal; en cuyo caso se impondrá una multa de 2,000 a 20,000 salarios mínimos; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VIII. Las demás infracciones a lo establecido en la presente Ley; en cuyo caso se impondrá multa de 50 a 15,000 salarios mínimos.
+VII. Ostentar que un producto agrícola o actividad a que se refiere el Titulo Tercero de esta Ley, cuenta con certificación o distintivo de sistemas de reducción de riesgos de contaminación durante la producción primaria de vegetales, cuando dicha situación no sea cierta o cuando el resultado de la evaluación de la conformidad exprese incumplimiento o insuficiencias de las condiciones para la certificación correspondiente del vegetal; en cuyo caso se impondrá una multa del equivalente a la cantidad de 2,000 a 20,000 veces el valor diario de la Unidad de Medida y Actualización; y
 
-La imposición de las multas será con base en el salario mínimo general diario vigente en el Estado, al momento de cometerse la infracción; en ningún caso podrá ser menor al costo del daño ocasionado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VIII. Las demás infracciones a lo establecido en la presente Ley; en cuyo caso se impondrá multa del equivalente a la cantidad de 50 a 15,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La imposición de las multas será del equivalente a la cantidad calculada con base en el valor diario en la Unidad de Medida y Actualización, vigente al momento de cometerse la infracción; en ningún caso podrá ser menor al costo del daño ocasionado.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces al monto originalmente impuesto. Para los efectos de esta Ley, se considerará reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a cualquier supuesto en un periodo de cinco años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
 
@@ -722,3 +738,13 @@ CUARTO.- La Secretaría implementará una campaña de difusión del presente ord
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los treinta y un días del mes de julio del año dos mil doce.- Diputado Presidente.- MARIO GERARDO RIESTRA PIÑA.- Rúbrica.- Diputado Vicepresidente.- HÉCTOR EDUARDO ALONSO GRANADOS.- Rúbrica.- Diputado Secretario.- JORGE LUIS CORICHE AVILÉS.- Rúbrica.- Diputado Secretario.- ERIC COTOÑETO CARMONA.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los dos días del mes de agosto de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
