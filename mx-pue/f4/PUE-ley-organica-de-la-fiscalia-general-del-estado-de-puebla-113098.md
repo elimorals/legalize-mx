@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2016-03-31"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MARZO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -57,9 +57,11 @@ Esta Ley es de orden público e interés social y tiene por objeto regular la or
 
 Incumbe al Ministerio Público la persecución de los delitos del orden común cometidos en el territorio del Estado, la representación de los intereses de la sociedad, la promoción de una pronta, completa y debida impartición de justicia que abarque la reparación del daño causado, la protección de los derechos de las víctimas y testigos, y el respeto a los derechos humanos de todas las personas; velar por la exacta observancia de las leyes de interés público; intervenir en los juicios que afecten a personas a quienes la ley otorgue especial protección y ejercer las demás atribuciones previstas en otros ordenamientos aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 3.
 
-Para la investigación de los delitos, corresponde al Ministerio Público el mando y conducción de los investigadores ministeriales y de los servicios periciales y, en su caso, de los cuerpos de seguridad pública estatales y municipales.
+Para la investigación de los delitos, corresponde al Ministerio Público el mando y conducción de los agentes investigadores y de los servicios periciales y, en su caso, de los cuerpos de seguridad pública estatales y municipales.
 
 Por conducción se entiende la dirección jurídica que ejerce el Ministerio Público sobre las instituciones policiales en la investigación de hechos que pueden ser constitutivos de delito. Por mando se entiende la facultad del Ministerio Público de ordenar a las instituciones policiales actos de investigación y de operación.
 
@@ -83,7 +85,9 @@ III. Fiscalía General: La Fiscalía General del Estado de Puebla;
 
 IV. Fiscal General: El Fiscal General del Estado de Puebla;
 
-V. Investigador ministerial: Los policías que integran la Agencia Estatal de Investigación de la Fiscalía General;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. Agentes Investigadores: Los policías encargados de la investigación de los delitos, que integran la Agencia Estatal de Investigación de la Fiscalía General;
 
 VI. Ministerio Público: El Ministerio Público del Estado de Puebla; y
 
@@ -115,9 +119,9 @@ III. FORMALIZAR LA DETENCIÓN DE LOS PROBABLES RESPONSABLES DE LA COMISIÓN DE D
 
 IV. INFORMAR A LA VÍCTIMA U OFENDIDO DEL DELITO, DESDE EL MOMENTO EN QUE SE PRESENTE O COMPAREZCA ANTE ÉL, LOS DERECHOS QUE EN SU FAVOR RECONOCE LA CONSTITUCIÓN GENERAL, LA CONSTITUCIÓN DEL ESTADO, LOS TRATADOS INTERNACIONALES DE LOS QUE EL ESTADO MEXICANO SEA PARTE, Y LAS DEMÁS DISPOSICIONES JURÍDICAS APLICABLES;
 
-(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-V. EJERCER LA CONDUCCIÓN Y MANDO, EN LOS TÉRMINOS PREVISTOS EN EL TERCER PÁRRAFO DEL ARTÍCULO 95 DE LA CONSTITUCIÓN DEL ESTADO, DE LAS POLICÍAS O INVESTIGADORES MINISTERIALES EN LA INVESTIGACIÓN DE LOS DELITOS;
+V. Ejercer la conducción y mando, en los términos previstos en el tercer párrafo del artículo 95 de la Constitución del Estado, de las policías o agentes investigadores en la investigación de los delitos;
 
 (NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -255,13 +259,21 @@ XXXV. RECIBIR A LOS USUARIOS, REGISTRAR LA INFORMACIÓN QUE PROPORCIONEN, ORIENT
 
 XXXVI. PROPICIAR ACUERDOS REPARATORIOS RESULTADO DE LA SUSTANCIACIÓN DE MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS EN MATERIA PENAL Y EN SU CASO APROBARLOS EN TÉRMINOS DE LO DISPUESTO EN EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES;
 
-(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XXXVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXXVII. PONER EN CONOCIMIENTO DE LA AUTORIDAD ADMINISTRATIVA CORRESPONDIENTE, LAS QUEJAS O DENUNCIAS FORMULADAS POR PARTICULARES, RESPECTO DE IRREGULARIDADES O HECHOS QUE NO CONSTITUYAN DELITO, INFORMÁNDOLES SOBRE SU TRAMITACIÓN LEGAL; Y
+XXXVII. Poner en conocimiento de la autoridad administrativa correspondiente, las quejas o denuncias formuladas por particulares, respecto de irregularidades o hechos que no constituyan delito, informándoles sobre su tramitación legal;
 
-(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XXXVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXXVIII. LAS DEMÁS QUE DETERMINEN OTROS ORDENAMIENTOS.
+XXXVIII. Realizar por sí o a través de sus auxiliares u oficiales, notificaciones administrativas en los términos del Reglamento, respecto de las funciones de la Fiscalía General no vinculadas al procedimiento penal, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXXIX. Las demás que determinen otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Los agentes del Ministerio Público, bajo su estricta responsabilidad, podrán instruir a los auxiliares y oficiales que tengan a su cargo, apoyen en las funciones a que se refiere el presente artículo, mismas que deberán quedar supervisadas y verificadas en su cumplimiento.
 
 ###### ARTÍCULO 7.
 
@@ -307,7 +319,9 @@ XI. Ofrecer y entregar recompensas, en los casos, términos y condiciones que de
 
 XII. Administrar y determinar el destino de los bienes asegurados y de los que hayan causado abandono a favor del Estado, conforme a lo previsto en los ordenamientos legales aplicables y lineamientos que se emitan para tal fin; así como resolver las inconformidades que se presenten respecto de las actuaciones relacionados (sic) a su devolución, uso o destino;
 
-XIII. Formar y actualizar a sus servidores públicos para la investigación y persecución de los delitos en las materias que sean de su competencia; así como implementar un servicio de carrera de agentes del Ministerio Público, investigadores ministeriales y peritos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XIII. Formar y actualizar a sus servidores públicos para la investigación y persecución de los delitos en las materias que sean de su competencia; así como implementar un servicio profesional de carrera de agentes del Ministerio Público, agentes investigadores y peritos;
 
 XIV. Establecer medios de información sistemática y directa con la sociedad, para dar cuenta de sus actividades. Para efectos del acceso a la información pública la Fiscalía General se regirá bajo el principio de máxima publicidad en los términos de la Constitución General y la Constitución del Estado; no obstante, se reservará la información cuya divulgación pueda poner en riesgo la seguridad de las personas que intervienen en un procedimiento penal o las investigaciones que estén en curso y mantendrá la confidencialidad de los datos personales, en los términos que disponga el Código Nacional de Procedimientos Penales, el Código de Procedimientos Penales para el Estado Libre y Soberano de Puebla y las leyes aplicables;
 
@@ -323,9 +337,21 @@ XIX. Implementar un sistema de control y evaluación de la gestión instituciona
 
 XX. Impulsar las acciones necesarias para promover la cultura de la denuncia de los delitos, y participación de la comunidad en las actividades de la procuración de justicia;
 
-XXI. Garantizar el acceso a la información de la Fiscalía General del Estado en los términos y con las limitantes establecidas en la Constitución General, la Constitución del Estado y de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXII. Las demás que prevean otras disposiciones jurídicas aplicables.
+XXI. Garantizar el acceso a la información de la Fiscalía General del Estado en los términos y con las limitantes establecidas en la Constitución General, la Constitución del Estado y de la Ley de Transparencia y Acceso a la Información Pública del Estado de Puebla;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXII. Expedir, previa solicitud y pago de derechos, las constancias de no antecedentes penales, en los supuestos que establece la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXIII. Expedir, previa solicitud y pago de derechos, las constancias de identificación vehicular para otorgar certeza jurídica en la compraventa de vehículos usados, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXIV. Las demás que prevean otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -337,29 +363,65 @@ a) Fiscalía de Asuntos Jurídicos y Derechos Humanos;
 
 b) Fiscalía de Investigación Metropolitana;
 
-c) Fiscalía de Investigación Regional; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-d) Fiscalía de Secuestro y Delitos de Alto Impacto.
+c) Fiscalía de Investigación Regional;
 
-II. Las unidades de investigación;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-III. El Órgano Interno de Control y Visitaduría;
+d) Fiscalía de Secuestro y Delitos de Alto Impacto; y
 
-IV. La Comisión de Honor y Justicia; y
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-V. Los demás órganos y unidades administrativas que establezca el Reglamento o el Fiscal General, mediante acuerdo.
+e) Fiscalía Especializada de Combate a la Corrupción.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. La Agencia Estatal de Investigación como la institución policial de la Fiscalía General;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III. El Instituto de Ciencias Forenses, con atribuciones para la aplicación de conocimientos técnicos, artísticos y científicos cuya percepción y entendimiento escapa a las aptitudes del común de la gente, y las que determine el Reglamento;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. El Instituto de Formación Profesional, el cual además de las facultades que establezca el Reglamento podrá emitir certificados que avalen los conocimientos especializados de los integrantes de la Fiscalía General, entre estos, los que requiere la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes;
+
+> <small>(REFORMADA [N, DE E, ADICIONADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. El Órgano Interno de Control y Visitaduría con las funciones que establezca esta ley, su Reglamento y la legislación aplicable en materia de responsabilidades administrativas;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VI. La Comisión de Honor y Justicia, como la instancia colegiada que resolverá las controversias que se susciten con relación al régimen disciplinario de los agentes investigadores.
+
+El régimen disciplinario de los agentes investigadores comprende el respeto a los derechos humanos, a las jerarquías, el escrupuloso cumplimiento a las leyes y a sus obligaciones legales y administrativas.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. La Comisión del Servicio Profesional de Carrera, encargada de los procedimientos del servicio profesional de carrera de los agentes investigadores, peritos y agentes del Ministerio Público de la Fiscalía General, en los términos que establecen las disposiciones generales del Sistema Nacional de Seguridad Pública para estos órganos colegiados y las que describa el Reglamento, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VIII. Los demás órganos y unidades administrativas que establezca el Reglamento o el Fiscal General, mediante acuerdo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 10.
 
-Los titulares de los órganos o unidades administrativas a que se refiere el artículo anterior deberán reunir los requisitos que se establezcan en el Reglamento de esta Ley y demás disposiciones aplicables, y serán nombrados y removidos por el Fiscal General. El Reglamento determinará en qué casos el titular de alguna unidad tendrá, por ese hecho, carácter de agente del Ministerio Público.
+Los titulares de los órganos o unidades administrativas a que se refiere el artículo anterior deberán reunir los requisitos que se establezcan en el Reglamento de esta Ley y demás disposiciones aplicables, y serán nombrados y removidos por el Fiscal General, con excepción del nombramiento del o la Titular del Órgano Interno de Control y Visitaduría, el cual es facultad del Congreso del Estado en términos de la Constitución del Estado. El Reglamento determinará en qué casos el titular de alguna unidad tendrá, por ese hecho, carácter de agente del Ministerio Publico.
 
 El nombramiento y remoción de los titulares de las fiscalías a que se refiere la fracción I artículo 9 de la presente Ley podrá ser objetado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de conformidad con lo previsto en el artículo 98 de la Constitución del Estado, en el plazo de diez días hábiles contados a partir de la notificación de los nombramientos que haga el Fiscal General al Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 11.
 
-La Fiscalía General contará con fiscales, agentes del Ministerio Público, investigadores ministeriales y peritos, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones jurídicas aplicables y del presupuesto aprobado por el Congreso del Estado.
+La Fiscalía General contará con fiscales, agentes del Ministerio Público, agentes investigadores y peritos, así como con el personal profesional, técnico y administrativo necesario para la realización de sus funciones, en términos de las disposiciones jurídicas aplicables y del presupuesto aprobado por el Congreso del Estado.
 
-Los agentes del Ministerio Público, investigadores ministeriales y peritos así como los integrantes de otros cuerpos que realicen funciones sustantivas para la Fiscalía General en términos del procedimiento penal, podrán ser nombrados por designación especial del Fiscal General, sin sujetarse a todos los requisitos de ese cargo, pero en ese caso no serán miembros del servicio de carrera. El Reglamento determinará los casos y condiciones en que proceda tal designación.
+Las personas que aspiren a ingresar y permanecer en la Fiscalía General como agentes del Ministerio Público, peritos o agentes investigadores, deberán cumplir, respectivamente, con los mismos requisitos que para ingresar al Servicio de Carrera de Procuración de Justicia y a la Carrera Policial (sic) establece la Ley General del Sistema Nacional de Seguridad Pública. En los demás casos, deberán cumplir con los requisitos que el Reglamento de esta Ley contenga.
+
+Los agentes del Ministerio Público, agentes investigadores y peritos, así como los integrantes de otros cuerpos que realicen funciones sustantivas para la Fiscalía General en términos del procedimiento penal, podrán ser nombrados por designación especial del Fiscal General, sin sujetarse a todos los requisitos de ese cargo, pero en ese caso no serán miembros del servicio profesional de carrera. El Reglamento determinará los casos y condiciones en que proceda tal designación.
 
 ###### ARTÍCULO 12.
 
@@ -403,6 +465,10 @@ El Fiscal a quien corresponda actuar como suplente del Fiscal General de conform
 
 El Fiscal General será representado ante las autoridades judiciales, administrativas y del trabajo por los servidores públicos que determine o por los fiscales que designe para el caso concreto.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La representación legal de la Fiscalía General la ejercerá el Fiscal General con las atribuciones de apoderado general para actos de dominio, de administración y pleitos y cobranzas, con todas las facultades generales y las especiales que requieran de cláusula especial conforme a la ley, así como los servidores públicos en los que se delegue dicha representación, por disposición del Reglamento o mediante Acuerdo Delegatorio.
+
 ### CAPÍTULO III. DE LAS OBLIGACIONES Y FACULTADES DEL FISCAL GENERAL
 
 ###### ARTÍCULO 19.
@@ -437,9 +503,9 @@ II. SUPERVISAR LA APLICACIÓN DE LOS CRITERIOS QUE AL SENO DE LAS CONFERENCIAS N
 
 III. FORMULAR LA ACUSACIÓN Y LAS CONCLUSIONES, CUANDO EL AGENTE DEL MINISTERIO PÚBLICO CORRESPONDIENTE NO LO HAYA REALIZADO EN TÉRMINOS DE LAS DISPOSICIONES JURÍDICAS APLICABLES EN MATERIA PROCESAL PENAL;
 
-(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV. AUTORIZAR EL NO EJERCICIO DE LA ACCIÓN PENAL;
+IV. Autorizar el no ejercicio de la acción penal, así como acordar la reapertura de averiguaciones previas en las que ésta se haya determinado, o bien, la continuación de la indagatoria para solicitar vinculación a proceso, cuando aún no haya prescrito;
 
 (NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
 
@@ -465,9 +531,9 @@ IX. SOLICITAR AL ÓRGANO JURISDICCIONAL FEDERAL QUE CORRESPONDA, LA AUTORIZACIÓ
 
 X. AUTORIZAR LA APLICACIÓN DE CRITERIOS DE OPORTUNIDAD EN TÉRMINOS DE LA LEGISLACIÓN APLICABLE;
 
-(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XI. AUTORIZAR LA INFILTRACIÓN DE AGENTES PARA INVESTIGACIONES ASÍ COMO LOS ACTOS DE ENTREGA VIGILADA Y LAS OPERACIONES ENCUBIERTAS PREVISTOS EN LA LEY;
+XI. Autorizar la infiltración de agentes investigadores, así como los actos de entrega vigilada y las operaciones encubiertas previstos en la ley;
 
 (NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
 
@@ -517,13 +583,21 @@ XXII. INSTRUIR LA APLICACIÓN DE LOS CRITERIOS FORMULADOS POR EL CONSEJO NACIONA
 
 XXIII. VIGILAR LA APLICACIÓN DE LOS PROGRAMAS RECTORES DE PROFESIONALIZACIÓN DE LAS INSTITUCIONES DE PROCURACIÓN DE JUSTICIA Y POLICIALES, EN TÉRMINOS DE LOS CRITERIOS EMITIDOS POR EL CONSEJO NACIONAL DE SEGURIDAD PÚBLICA;
 
-(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XXIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXIV. CONOCER LOS RESULTADOS DE LOS PROCESOS DE EVALUACIÓN Y CONTROL DE CONFIANZA Y DETERMINAR LO CONDUCENTE PARA FORTALECER LOS MÁRGENES DE SEGURIDAD, CONFIABILIDAD, EFICIENCIA Y COMPETENCIA DEL PERSONAL DE LA FISCALÍA GENERAL; Y
+XXIV. Conocer los resultados de los procesos de Evaluación y Control de Confianza y determinar lo conducente para fortalecer los márgenes de seguridad, confiabilidad, eficiencia y competencia del personal de la Fiscalía General;
 
-(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XXV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XXV. LAS DEMÁS QUE PREVEAN OTRAS DISPOSICIONES JURÍDICAS APLICABLES.
+XXV. Impulsar programas de capacitación en materia de mejora regulatoria entre los servidores públicos de la Fiscalía General que tengan asignadas funciones que no estén exceptuadas en la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXVI. Simplificar el marco regulatorio a través de la eliminación parcial o total de actos administrativos, y trámites correspondientes, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XXVII. Las demás que prevean otras disposiciones jurídicas.
 
 (NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/)
 
@@ -545,7 +619,9 @@ V. Poner en conocimiento de la Presidencia del Tribunal Superior de Justicia del
 
 VI. Expedir el Reglamento y las demás normas que se requieran para el funcionamiento de la Fiscalía General;
 
-VII. Emitir los manuales, acuerdos, protocolos, lineamientos, circulares, instructivos, bases, criterios y demás disposiciones administrativas generales necesarias para el ejercicio de las facultades a cargo de los fiscales y de los servidores públicos que formen parte de la Fiscalía General, así como los que rijan la actuación de las instituciones de seguridad pública y las autoridades que actúen en auxilio de ésta;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. Emitir los manuales, acuerdos, protocolos, lineamientos, circulares, instructivos, bases, criterios y demás disposiciones administrativas generales necesarias para el ejercicio de las facultades a cargo de los fiscales y de los servidores públicos que formen parte de la Fiscalía General, así como los que rijan la actuación de las instituciones de seguridad pública y las demás autoridades cuando actúen en auxilio de ésta;
 
 VIII. Autorizar la estructura orgánica y crear, modificar o suprimir las unidades administrativas necesarias para el cumplimiento de las funciones de la Fiscalía General, de acuerdo al presupuesto establecido, determinando su adscripción y la del personal;
 
@@ -555,9 +631,21 @@ X. Emitir las políticas y disposiciones generales para la aplicación de los cr
 
 XI. Solicitar la intervención de comunicaciones privadas en términos del artículo 16 de la Constitución General y del Código Nacional de Procedimientos Penales;
 
-XII. Autorizar, previa aprobación del Titular del Ministerio Público de la Federación o de quien éste designe, qué agentes de la policía ministerial bajo su conducción y mando posean, compren, adquieran o reciban la transmisión material de algún narcótico para lograr la detención del probable responsable de delitos contra la salud en su modalidad de narcomenudeo a que se refiere la Ley General de Salud; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-XIII. Las demás que con carácter indelegable, expresamente señalen otros ordenamientos.
+XII. Autorizar, previos requisitos legales y normativos, qué agentes investigadores bajo su conducción y mando posean, compren, adquieran o reciban la transmisión material de algún narcótico para lograr la detención del probable responsable de delitos contra la salud en su modalidad de narcomenudeo a que se refiere la Ley General de Salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XIII. Autorizar la aplicación de recursos para investigaciones confidenciales;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XIV. Expedir los lineamientos institucionales para el ejercicio de recursos destinados a investigaciones que impliquen riesgo, urgencia o confidencialidad extrema de conformidad a los que emitan las autoridades correspondientes, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XV. Las demás que con carácter indelegable, expresamente señalen otros ordenamientos.
 
 No se considerará delegación los casos en que opere el régimen de suplencias previsto en el Reglamento de la Ley Orgánica.
 
@@ -587,9 +675,9 @@ La Agencia Estatal de Investigación será la encargada de la función de invest
 
 LAS FUNCIONES QUE REALIZARÁ LA AGENCIA ESTATAL DE INVESTIGACIÓN SERÁN LAS SIGUIENTES:
 
-(NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA Y POR EXTENSIÓN EL RESTO DEL CONTENIDO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-I. RECIBIR LAS DENUNCIAS SOBRE HECHOS QUE PUEDAN SER CONSTITUTIVOS DE DELITOS, ÚNICAMENTE CUANDO DEBIDO A LAS CIRCUNSTANCIAS DEL CASO AQUÉLLAS NO PUEDAN SER FORMULADAS DIRECTAMENTE ANTE EL MINISTERIO PÚBLICO, AL QUE DEBERÁN INFORMAR DE INMEDIATO, ASÍ COMO DE LAS DILIGENCIAS PRACTICADAS Y DEJARÁN DE ACTUAR CUANDO ÉL LO DETERMINE;
+I. Recibir las denuncias sobre hechos que puedan ser constitutivos de delitos, debiendo informar al Ministerio Público competente por cualquier medio de las diligencias practicadas hasta el momento;
 
 (NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 21/2016, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 21 DE FEBRERO DE 2016, FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -679,6 +767,10 @@ Las autoridades estatales o municipales que intervengan o realicen diligencias r
 
 Los servidores públicos que contravengan lo dispuesto en el presente Capítulo serán sujetos del procedimiento disciplinario, de responsabilidad administrativa o penal que corresponda, dándose vista a la autoridad competente.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La Fiscalía General promoverá la firma de convenios de coordinación para la capacitación de personal de medios de comunicación y paramédicos con la finalidad de que no contaminen o manipulen el lugar de los hechos o del hallazgo, para cumplir con el protocolo de cadena de custodia para la preservación, etiquetamiento, embalaje y transporte de los indicios.
+
 ### CAPÍTULO VII. DE LA CAPACITACIÓN Y FORMACIÓN ÉTICA Y PROFESIONAL DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
 ###### ARTÍCULO 29.
@@ -689,23 +781,67 @@ El Fiscal General emitirá las normas que regulen la capacitación y formación 
 
 La legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos serán principios rectores en la capacitación, formación, superación, actualización y desempeño del personal de la Fiscalía General.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 31.
 
-Los fiscales, agentes del Ministerio Público, investigadores ministeriales y peritos, así como los servidores públicos de la Fiscalía General obligados por Ley, deberán realizar los exámenes periódicos de control de confianza en los términos que establezca el Reglamento.
+Los fiscales, agentes del Ministerio Público, agentes investigadores y peritos, así como los servidores públicos de la Fiscalía General obligados por Ley, deberán realizar y aprobar los exámenes periódicos de control de confianza, y del desempeño en los términos que establezca el Reglamento.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 32.
 
-Los fiscales, agentes del Ministerio Público, investigadores ministeriales y peritos que aprueben los exámenes periódicos que establezca la ley contarán con la certificación y registro a que se refiere el artículo 21 de la Constitución General, en los términos que establezca el Reglamento y la demás normatividad aplicable.
+Los fiscales, agentes del Ministerio Público, agentes investigadores y peritos que aprueben los exámenes periódicos que establezca la ley, contarán con la certificación y registro a que se refiere el artículo 21 de la Constitución General, en los términos que establezca el Reglamento y la demás normatividad aplicable.
 
 Sin perjuicio de otros requisitos previstos en las disposiciones aplicables, será necesario contar con la certificación y registro vigente para permanecer como servidor público de la Fiscalía General.
 
-### CAPÍTULO VIII. DEL SERVICIO DE CARRERA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO VIII. DEL SERVICIO PROFESIONAL DE CARRERA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 33.
 
-El servicio de carrera es el conjunto de procesos tendientes a generar bases y condiciones para el crecimiento y desarrollo profesional y humano del personal de la Fiscalía General, cuya finalidad es la de propiciar la estabilidad basada en el rendimiento y el cumplimiento legal de sus funciones dentro de la Institución así como reforzar el compromiso ético, sentido de pertenencia e identidad institucional de dicho personal.
+El servicio profesional de carrera es el conjunto de procesos tendientes a generar bases y condiciones para el crecimiento y desarrollo profesional y humano del personal de la Fiscalía General, cuya finalidad es la de propiciar la estabilidad basada en el rendimiento y el cumplimiento legal de sus funciones dentro de la Institución, así como reforzar el compromiso ético, sentido de pertenencia e identidad institucional de dicho personal y comprenderá lo relativo al Ministerio Público, peritos y agentes investigadores.
 
-El Reglamento establecerá las normas y procedimientos que regirán el Servicio de Carrera de la Fiscalía General.
+Esta Ley y el reglamento del servicio profesional de carrera de la Fiscalía General establecerán las normas y procedimientos que lo regirán y comprenderán las etapas del ingreso, desarrollo y terminación del servicio, y en éstas, los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, estímulos, promoción y reconocimiento; así como la separación o baja del servicio.
+
+La Fiscalía General, a través de la Comisión del Servicio Profesional de Carrera, intervendrá en la aplicación de las reglas y procesos a que se refiere este artículo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 33 Bis.
+
+La terminación del servicio de carrera ministerial, policial y pericial será:
+
+I. Ordinaria, que comprende:
+
+a) Renuncia;
+
+b) Incapacidad permanente para el desempeño de las funciones; y
+
+c) Jubilación.
+
+II. Extraordinaria, que comprende:
+
+a) Separación por el incumplimiento de los requisitos de ingreso y permanencia; o
+
+b) Remoción por incurrir en causas de responsabilidad con motivo de su encargo.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 33 Ter.
+
+La vinculación a proceso de un servidor público de la Fiscalía General o la aplicación de la suspensión a la que se refiere el artículo 47 Bis de esta Ley, dará lugar a la suspensión de los procedimientos de promoción o desarrollo de los que sea parte en el servicio de carrera, sin embargo, conservará los ya adquiridos, hasta que se resuelva de forma definitiva la causa penal o administrativa.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 33 Quáter.
+
+Cuando proceda la separación, remoción o inhabilitación de (sic) servidor público integrante de la Fiscalía General, deberá ordenarse la cancelación del certificado en los términos de esta Ley; en los casos de las demás sanciones administrativas o disciplinarias deberá realizarse el registro correspondiente.
+
+La cancelación del certificado deberá registrarse en los términos del Sistema Nacional de Seguridad Pública.
 
 ### CAPÍTULO IX. DE LOS OFICIALES SUBALTERNOS
 
@@ -775,25 +911,45 @@ V. Las demás que determine el Reglamento de esta Ley y las normas aplicables.
 
 ## TÍTULO CUARTO. DE LAS RESPONSABILIDADES Y OBLIGACIONES DE LOS SERVIDORES PÚBLICOS DE LA FISCALÍA GENERAL
 
-### CAPÍTULO I. DE LAS RESPONSABILIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO I. DE LAS RESPONSABILIDADES Y OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 39.
 
-Los servidores públicos de la Fiscalía General estarán sujetos a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla.
+Los servidores públicos de la Fiscalía General estarán sujetos al contenido de esta Ley, y en lo que no se apongan a ésta, por lo dispuesto en la legislación aplicable en materia de responsabilidades administrativas y demás ordenamientos aplicables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 40.
 
-El Órgano Interno de Control y Visitaduría a que se refiere el artículo 9 fracción III de esta Ley, con independencia de las facultades que le otorgue el Reglamento, será el encargado de la supervisión, inspección, y control de la actuación de los servidores públicos de la Fiscalía General, así como de la aplicación de sanciones, con excepción de los investigadores ministeriales, que se sujetarán a lo dispuesto por el artículo 43 de esta Ley.
+El Órgano Interno de Control y Visitaduría a que se refiere el artículo 9, fracción V de esta Ley, con independencia de las facultades que le otorgue el Reglamento, será el encargado de la supervisión, inspección y control de la actuación de los servidores públicos de la Fiscalía General, así como de la investigación, substanciación y aplicación de sanciones administrativas, con excepción de la aplicación de sanciones a los agentes investigadores.
 
-Tendrá a su cargo:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-I. Vigilar el cumplimiento de las obligaciones a cargo de los servidores públicos de la Fiscalía General, establecidas en esta Ley, en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, y las demás disposiciones aplicables;
+Tratándose de agentes investigadores, la ejecución de las sanciones por el incumplimiento de alguna de sus obligaciones, conforme a las disposiciones legales que les apliquen, será en términos de las resoluciones que emita la Comisión de Honor y Justicia. El superior jerárquico será quien determine y ejecute las sanciones por faltas disciplinarias no graves.
 
-II. Investigar, sustanciar y resolver los procedimientos de remoción en los términos previstos en la presente Ley, así como los procedimientos de responsabilidades administrativas de los servidores públicos de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla;
+> <small>(ADICIONADO [N. DE E. REFORMADO ESTE PÁRRAFO Y REUBICADO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-III. Llevar a cabo la supervisión, inspección y control de los fiscales, agentes del Ministerio Público, investigadores ministeriales, peritos, y demás servidores públicos de la Fiscalía General en lo que se refiere a las funciones del Ministerio Público que realicen, en los términos que señale el Reglamento de esta Ley;
+El Órgano Interno de Control y Visitaduría tendrá a su cargo:
 
-IV. Investigar, sustanciar y resolver las quejas o denuncias que se presenten por el incumplimiento de las obligaciones de los servidores públicos a que se refiere la fracción I de este apartado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I. Vigilar el cumplimiento de las obligaciones a cargo de los servidores públicos de la Fiscalía General, establecidas en esta Ley, en la legislación aplicable en materia de responsabilidades administrativas y las demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+II. Investigar, sustanciar y, en su caso, resolver los procedimientos de responsabilidades administrativas de los servidores públicos de la Fiscalía General que sean de su competencia, de conformidad con esta Ley y la legislación aplicable en materia de responsabilidades administrativas;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+III. Llevar a cabo la supervisión, inspección y control de los fiscales, agentes del Ministerio Público, agentes investigadores, peritos, y demás servidores públicos de la Fiscalía General en lo que se refiere a las funciones del Ministerio Publico que realicen, en los términos que señale el Reglamento de esta Ley;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Investigar, sustanciar y resolver las quejas o denuncias que se presenten por el incumplimiento de las obligaciones de los servidores públicos a que se refiere la fracción I de este artículo y para ello podrá hacer uso de los medios de apremio que establezca la legislación aplicable en materia de responsabilidades administrativas;
 
 V. Realizar la supervisión, inspección, fiscalización y control de la administración de los recursos humanos y materiales de la Fiscalía General;
 
@@ -805,17 +961,23 @@ VIII. Practicar auditorías para verificar el cumplimiento de los objetivos y la
 
 IX. Las demás que determine el Reglamento.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 41.
 
-Las resoluciones que emita el Órgano Interno de Control y Visitaduría en las que se imponga una sanción a servidores públicos de la Fiscalía General, serán definitivas e inatacables.
+Las resoluciones que emitan el Órgano Interno de Control y Visitaduría y la Comisión de Honor y Justicia en las que se imponga una sanción a los servidores públicos de la Fiscalía General, serán definitivas e inatacables.
+
+Los procedimientos para la imposición de las sanciones administrativas deben apegarse a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material, respeto de los derechos humanos, presunción de inocencia, exhaustividad y de audiencia, defensa, igualdad, celeridad y sana crítica.
 
 ###### ARTÍCULO 42.
 
 El Órgano Interno de Control y Visitaduría tendrá libre acceso a los expedientes, documentos e información que se encuentren bajo la autoridad o custodia de los servidores públicos de la Fiscalía General a quienes practique una investigación o auditoría, así como a las instalaciones correspondientes, el equipo y los elementos que ahí se encuentren, de conformidad con lo dispuesto en esta Ley, su Reglamento y las disposiciones que al efecto emita el Fiscal General.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 43.
 
-La Comisión de Honor y Justicia será el órgano colegiado encargado de aplicar las sanciones por faltas a la disciplina, y a sus obligaciones y deberes legales, cometidas por los investigadores ministeriales. Será presidida por el Fiscal General del Estado, quien expedirá la normatividad relativa al régimen disciplinario que incluya los deberes, las correcciones disciplinarias, las sanciones y los procedimientos para su aplicación.
+La Comisión de Honor y Justicia será el órgano colegiado encargado de aplicar las sanciones por faltas a la disciplina, a las obligaciones y deberes de los agentes investigadores, contenidos en los artículos 25 y 46 de esta Ley y en la Ley General del Sistema Nacional de Seguridad Pública. Será presidida por el Fiscal General del Estado, quien expedirá la demás normatividad para la aplicación del régimen disciplinario.
 
 ###### ARTÍCULO 44.
 
@@ -873,9 +1035,11 @@ XVII. Preservar en buen estado el material, equipo y, en su caso, el armamento y
 
 XVIII. Las demás que se establezcan en las disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 46.
 
-Además de lo señalado en el artículo anterior, los investigadores ministeriales tendrán las obligaciones siguientes:
+Además de lo señalado en el artículo anterior, los agentes investigadores tendrán las obligaciones siguientes:
 
 I. Registrar los datos de las actividades e investigaciones que realicen y rendir los informes señalados en los protocolos de actuación;
 
@@ -887,49 +1051,237 @@ IV. Obedecer las órdenes de los superiores jerárquicos, o de quienes ejerzan s
 
 V. Hacer uso de la fuerza de manera racional, oportuna, necesaria y proporcional, con pleno respeto a los derechos humanos, conforme a las disposiciones legales y los protocolos aplicables, con el fin de preservar la vida y la integridad de las personas, así como mantener y restablecer el orden y la paz públicos, evitando en la medida de lo posible el uso de la fuerza letal;
 
-VI. Realizar, en los términos que determinen las disposiciones aplicables, tareas de búsqueda, recopilación y análisis de información, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VII. Las demás que establezcan las disposiciones aplicables.
+VI. Realizar, en los términos que determinen las disposiciones aplicables, tareas de búsqueda, recopilación y análisis de información;
 
-### CAPÍTULO II. DE LAS OBLIGACIONES
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. Respetar, promover, garantizar y proteger la dignidad humana, así como los derechos fundamentales de las personas, sin distinciones ni excepciones, lo que implica un trato justo, imparcial, digno y respetuoso;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VIII. Evitar todo acto de distinción o discriminación en razón de nacionalidad, origen étnico, edad, género, condición social, cultural o económica, por sus creencias religiosas y/o políticas, preferencia sexual, estado civil o cualquier otro que atente contra los derechos fundamentales de cada individuo;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IX. Evitar en todo momento cualquier acto de corrupción o abuso de autoridad que menoscabe la integridad, honradez y legalidad en el desempeño de sus funciones;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+X. Efectuar en estricto apego a la ley las detenciones de personas en los casos de flagrancia y notoria urgencia, así como, en cumplimiento a mandatos de autoridad competente, de acuerdo a lo estipulado por el Código Nacional de Procedimientos Penales;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XI. Informar de manera inmediata a la persona detenida o asegurada los hechos que se le imputan, el nombre de la persona que lo acusa o señala y por qué delitos; asimismo, hará de su conocimiento los derechos que le concede la Constitución General;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XII. Cuando se efectúen detenciones de menores de edad, informar al menor sin demora en un lenguaje claro y accesible, de manera personal o a través de sus padres, tutores, o quienes ejerzan la patria potestad o custodia, sobre las razones por las cuales se les detiene; además el nombre de la persona que les atribuye la realización de la conducta delictiva, así como de los derechos que les asisten en todo momento; debiendo dar parte inmediata al agente del Ministerio Público especializado en adolescentes. Se respetará en todo momento la privacidad e intimidad del menor y de su familia;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XIII. Evitar en todo momento infligir, instigar o tolerar actos de tortura o tratos crueles, inhumanos o degradantes;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XIV. En el desempeño de sus funciones utilizarán en la medida de lo posible medios no violentos antes de recurrir al empleo de la fuerza y de armas de fuego;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XV. El agente investigador podrá hacer uso de las armas de fuego sólo en caso de que resulten insuficientes medidas menos extremas para lograr su objetivo, en las situaciones siguientes:
+
+a) En legítima defensa de sí mismo o de otras personas;
+
+b) Cuando exista peligro inminente de muerte o de lesiones graves;
+
+c) Con el propósito de evitar la comisión de un delito particularmente grave que entrañe una seria amenaza para la vida, o
+
+d) Con el objeto de detener a una persona que represente peligro y oponga resistencia en los términos de los artículos 26 fracción IV y 326 del Código Penal del Estado Libre y Soberano de Puebla.
+
+El agente investigador deberá solicitar, de acuerdo a las circunstancias del hecho y en la medida de sus posibilidades, de forma inmediata, el apoyo en los casos que sea necesario, incluyendo la atención médica urgente para los lesionados, así como informar el hecho a su superior jerárquico.
+
+En los casos anteriormente mencionados, el agente investigador deberá identificarse como integrante de la Agencia Estatal de Investigación en el momento de la detención y, en caso de la utilización de armas letales, el policía deberá velar por la vida e integridad física de la persona detenida cuya resistencia debe controlarse, tomando en consideración en todo momento las reglas de la legítima defensa, procurando el menor daño posible a la persona que se intenta someter y considerando la seguridad de terceros y del propio agente investigador.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XVI. Evitar hacer mal uso de su arma de fuego. En el cumplimiento de sus funciones únicamente podrá portar el arma de fuego que tenga a su cargo o bajo su resguardo y/o resguardo de la Institución, misma que deberá cumplir con lo establecido en la licencia oficial colectiva a la que pertenezca;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XVII. Preservar y proteger la escena del delito, la integridad de los indicios, huellas o vestigios, instrumentos u objetos relacionados con el delito a investigar, en su caso, aplicando las técnicas de fijación, embalaje, levantamiento y entrega de evidencias al agente del Ministerio Público conocedor del delito que se investiga, dando prioridad a la protección y atención médica de testigos, víctimas y heridos;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Aplicar, en términos de las instrucciones del agente del Ministerio Público que dirija la investigación, todos los métodos legales de investigación y necesarios para recabar la información que lleve al esclarecimiento de los hechos, informándole oportunamente de los avances y resultados;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XIX. Abstenerse de dar a conocer por cualquier medio, a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión. Una vez recabada la información sobre los hechos y de las personas relacionadas con éstos, deberá incluirla en el curso de la investigación para identificar su grado de importancia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+XX. Las demás que establezcan las disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO II. DE LOS PROCEDIMIENTOS
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 47.
 
-El incumplimiento de las obligaciones a que se refiere este capítulo, dará lugar a las sanciones que correspondan, que serán tramitadas siguiendo el procedimiento que se determine en el Reglamento de esta Ley y demás disposiciones aplicables.
+El incumplimiento de las obligaciones a que se refiere este título, dará lugar a las sanciones que correspondan, que serán tramitadas siguiendo los procedimientos descritos en esta Ley y en la legislación aplicable en materia de responsabilidades administrativas, apegándose a las bases siguientes:
 
-### CAPÍTULO III. DE LAS SANCIONES Y MEDIDAS DISCIPLINARIAS
+I. La autoridad investigadora presentará ante la autoridad substanciadora un informe en el que describa los hechos relacionados con la infracción investigada, exponiendo de forma documentada con las pruebas y fundamentos, los motivos de la presunta responsabilidad del servidor público en la comisión de faltas administrativas; la substanciadora, dentro de los cinco días hábiles siguientes se pronunciará sobre su admisión, pudiendo prevenir a la autoridad investigadora para que subsane las omisiones que advierta, o que aclare los hechos narrados en el informe;
+
+II. En el caso de que la autoridad substanciadora admita el informe que se describe en la fracción anterior, dictará el auto correspondiente y ordenará el emplazamiento del sujeto a procedimiento, debiendo citarlo para que comparezca personalmente a la celebración de una audiencia inicial, señalando con precisión el día, lugar y hora en que tendrá lugar dicha audiencia, así como la autoridad ante la que se llevará a cabo. Del mismo modo, le hará saber el derecho que tiene de no declarar en contra de sí mismo ni a declararse culpable; de defenderse personalmente o ser asistido por un defensor en la materia y que, de no contar con un defensor, le será nombrado un defensor de oficio;
+
+III. Entre la fecha del emplazamiento y la de la audiencia inicial deberá mediar un plazo no menor de diez ni mayor de quince días hábiles. El diferimiento de la audiencia sólo podrá otorgarse por causas de caso fortuito o de fuerza mayor debidamente justificadas;
+
+IV. Previo a la celebración de la audiencia inicial, la autoridad substanciadora deberá citar a las demás partes que deban concurrir al procedimiento, cuando menos con setenta y dos horas de anticipación;
+
+V. El día y hora señalado para la audiencia inicial el sujeto a procedimiento rendirá su declaración por escrito o verbalmente, y deberá ofrecer las pruebas que estime necesarias para su defensa. En caso de tratarse de pruebas documentales, deberá exhibir todas las que tenga en su poder, o las que no estándolo, conste que las solicitó mediante el acuse de recibo correspondiente. Tratándose de documentos que obren en poder de terceros y que no pudo conseguirlos por obrar en archivos privados, deberá señalar el archivo donde se encuentren o la persona que los tenga a su cuidado para que, en su caso, le sean requeridos por la autoridad substanciadora;
+
+VI. Los terceros llamados al procedimiento de responsabilidad administrativa, a más tardar durante la audiencia inicial, podrán manifestar por escrito o verbalmente lo que a su derecho convenga y ofrecer las pruebas que estimen conducentes, debiendo exhibir las documentales que obren en su poder, o las que no estándolo, conste que las solicitaron mediante el acuse de recibo correspondiente. Tratándose de documentos que obren en poder de terceros y que no pudieron conseguirlos por obrar en archivos privados, deberán señalar el archivo donde se encuentren o la persona que los tenga a su cuidado para que, en su caso, le sean requeridos;
+
+VII. Una vez que las partes hayan manifestado durante la audiencia inicial lo que a su derecho convenga y ofrecido sus respectivas pruebas, la autoridad substanciadora declarará cerrada la audiencia inicial, después de ello las partes no podrán ofrecer más pruebas, salvo aquellas que sean supervenientes;
+
+VIII. Dentro de los quince días hábiles siguientes al cierre de la audiencia inicial, la autoridad substanciadora deberá emitir el acuerdo de admisión de pruebas que corresponda, donde deberá ordenar las diligencias necesarias para su preparación y desahogo;
+
+IX. Concluido el desahogo de las pruebas ofrecidas por las partes, y si no existieran diligencias pendientes para mejor proveer o más pruebas que desahogar, la autoridad substanciadora declarará abierto el periodo de alegatos por un término de cinco días hábiles comunes para las partes;
+
+X. Una vez trascurrido el periodo de alegatos, la autoridad substanciadora, de oficio, declarará cerrada la instrucción y elaborará proyecto de resolución;
+
+XI. Tratándose de agentes investigadores, el Órgano Interno de Control y Visitaduría, a través de las unidades administrativas que lo integran, conocerá, investigará y substanciará las faltas administrativas en la Fiscalía General y será la Comisión de Honor y Justicia la que resuelva respecto del proyecto de resolución turnado por la autoridad substanciadora;
+
+XII. En caso de servidores públicos distintos a la fracción anterior, el Órgano Interno de Control y Visitaduría, a través de las unidades administrativas que lo integran, conocerá, investigará, substanciará y resolverá de las faltas administrativas en la Fiscalía General;
+
+XIII. La autoridad resolutora que corresponda, conforme las fracciones XI y XII de este artículo, citará a las partes para oír la resolución que corresponda, la cual deberá dictarse en un plazo no mayor a treinta días hábiles, el cual podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello, y
+
+XIV. La resolución deberá notificarse personalmente al sujeto a procedimiento, en su caso, se notificará a los denunciantes únicamente para su conocimiento, y a la unidad administrativa competente, para los efectos de su ejecución, en un plazo no mayor de diez días hábiles.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 47 Bis.
+
+Tratándose de causas graves relacionadas con la afectación de la dignidad de las personas, o la puesta en riesgo de la integridad psicofísica de las víctimas de las conductas investigadas mediante los procedimientos a que se refiere el artículo anterior, la autoridad investigadora solicitará a la substanciadora determinar la suspensión temporal del presunto infractor, retener las percepciones del mismo y dejar a salvo el pago de una cantidad equivalente al salario o ingreso mínimo de subsistencia, lo anterior como medida cautelar y tendrá como finalidad evitar afectaciones al procedimiento de investigación y permitir preservar los medios de prueba, hasta la culminación y determinación de responsabilidad o absolución que corresponda.
+
+Si el servidor público suspendido provisionalmente, no resultare responsable de la falta o faltas que se le imputen, será restituido en el goce de sus derechos.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 47 Ter.
+
+El procedimiento de separación por incumplimiento de requisitos de permanencia de los servidores públicos de la Fiscalía General será conforme lo siguiente:
+
+A. Para el caso de que la Fiscalía General sea informada de que alguno de sus integrantes no acreditó los procesos de evaluación de control de confianza, procederá a:
+
+I. Notificar personalmente ese resultado al interesado, a través de la unidad administrativa que señale el Reglamento o, en su caso, el acuerdo emitido por el Fiscal General.
+
+En la notificación que se realice se deberá señalar:
+
+a) La consecuencia del mismo, en términos de las disposiciones legales aplicables, dejando a salvo sus derechos para que los haga valer ante la autoridad correspondiente;
+
+b) Que transcurrido el término de quince días hábiles, sin que se tenga conocimiento de que se ha promovido alguna impugnación, se entenderá consentido el resultado y procederá su baja en términos de la Ley General del Sistema Nacional de Seguridad Pública.
+
+II. En el supuesto de que el servidor público impugne el resultado notificado, la Fiscalía General estará a resultas del sentido de la resolución definitiva que en su caso se emita.
+
+B. Cuando la causa sea distinta a la prevista en el apartado anterior, el procedimiento será el siguiente:
+
+I. La unidad administrativa competente notificará personalmente al servidor público el inicio del procedimiento y el motivo del mismo;
+
+II. En la notificación a que se refiere la fracción anterior, se señalará fecha y hora para la celebración de la audiencia de ofrecimiento y desahogo de pruebas y alegatos, la cual se celebrará dentro de los diez días hábiles siguientes a la misma;
+
+III. En la audiencia referida en el párrafo anterior, el servidor público deberá ser asistido por defensor particular o, en su caso, se le asignará un defensor público;
+
+IV. En un término de treinta días hábiles siguientes al de la celebración de la audiencia, se emitirá la resolución correspondiente, misma que será notificada de forma personal dentro de los siguientes treinta días naturales.
+
+Tratándose del personal integrante del servicio profesional de carrera, la unidad administrativa competente elaborará el proyecto de resolución respectivo, el cual será sometido a la consideración de la Comisión del Servicio Profesional de Carrera, en los términos que señale el Reglamento de esta Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO III. DE LAS SANCIONES Y CORRECCIONES DISCIPLINARIAS
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 48.
 
-Las sanciones por incurrir en incumplimiento de las obligaciones a que se refiere el capítulo anterior, sin perjuicio de otras responsabilidades a que haya lugar, serán:
+Las sanciones administrativas para los integrantes por incurrir en incumplimiento de las obligaciones a que se refiere este Título, sin perjuicio de otras responsabilidades a que haya lugar, serán:
 
 I. Amonestación privada;
 
 II. Amonestación pública;
 
-III. Suspensión hasta por quince días sin goce de sueldo, o
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-IV. Remoción.
+III. Suspensión hasta por treinta días sin goce de sueldo;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+IV. Inhabilitación;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+V. Las que señale el reglamento del servicio profesional de carrera para sus integrantes, y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VI. Las demás que señalen otras disposiciones legales por responsabilidad administrativa de los integrantes de la Fiscalía General.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La amonestación es el acto por el cual se advierte al infractor el incumplimiento a sus obligaciones y/o funciones, previniéndolo a que se corrija.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La suspensión procederá cuando el infractor haya incurrido en una falta grave cuya naturaleza no amerite remoción; implica la suspensión en el ejercicio del cargo y la suspensión en el goce de la remuneración correspondiente, hasta por treinta días.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+La remoción es la destitución permanente del cargo que ostente el infractor, consecuencia de los procedimientos administrativos. En el caso de ser miembro del servicio profesional de carrera o agente investigador, deberá ser informada a la Comisión del Servicio Profesional de Carrera y a la Comisión de Honor y Justicia, respectivamente, para los efectos correspondientes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Cuando con la conducta indebida se ocasione un daño patrimonial a la Fiscalía General o al Estado, el infractor estará obligado a resarcir el daño en los términos que se determine en la resolución correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 49.
 
-Las sanciones se impondrán tomando en cuenta los elementos siguientes:
+Las sanciones a que se refiere esta Ley se impondrán tomando en cuenta los elementos siguientes:
 
-I. La gravedad de la responsabilidad en que se incurra;
+I. Los elementos del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta;
 
-II. El nivel jerárquico, historial laboral del infractor y la antigüedad en el servicio;
+II. Los daños y perjuicios patrimoniales causados por los actos u omisiones;
 
-III. Las circunstancias y medios de ejecución de la infracción o conducta atribuida; y
+III. El nivel jerárquico y los antecedentes del infractor, entre ellos la antigüedad en el servicio;
 
-IV. El monto del beneficio, daño o perjuicio económico derivados del incumplimiento de obligaciones, en su caso.
+IV. Las circunstancias socioeconómicas del servidor público;
+
+V. Las condiciones exteriores y los medios de ejecución;
+
+VI. La reincidencia en el incumplimiento de obligaciones, y
+
+VII. El monto del beneficio derivado de la infracción que haya obtenido el responsable.
+
+Para el caso estricto de los agentes investigadores, la imposición de sanciones disciplinarias que determine la Comisión de Honor y Justicia se hará con independencia de las que correspondan por la responsabilidad civil o penal en que incurran.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 50.
 
-Se podrá imponer como medida disciplinaria a los investigadores ministeriales el arresto.
+La corrección disciplinaria a los agentes investigadores por las faltas disciplinarias no graves será el arresto, el cual consistirá en la permanencia obligatoria del infractor al interior de las áreas destinadas para ello, durante un tiempo determinado no mayor de treinta y seis horas, sin que en ningún caso se le haga sufrir vejaciones, malos tratos o incomunicación. Corresponde al superior jerárquico del infractor, a nivel de Inspector General, la imposición de correcciones disciplinarias por las faltas genéricas no graves siguientes:
 
-El arresto es la prohibición de abandonar el lugar de trabajo durante un tiempo determinado, que podrá ser hasta por treinta y seis horas.
+I. Desobedecer sin causa justificada la orden recibida de un superior jerárquico;
 
-La imposición de esta corrección disciplinaria corresponde al titular de la unidad administrativa en que desempeñe sus funciones o se encuentre al mando del infractor.
+II. Vejar o insultar a sus superiores, a agentes investigadores del mismo grado o, en su caso, a sus subordinados, o
+
+III. Asistir al servicio de forma sucia o descuidada en su persona o vestimenta.
+
+El arresto deberá ser en lugar distinto a los destinados para los indiciados que tenga el Ministerio Público a disposición por algún hecho delictivo.
+
+Los arrestos impuestos deberán ser ordenados por escrito, fundando y motivando la medida, especificando la duración y el lugar en que habrá de cumplirse, y marcar copia de conocimiento a las unidades administrativas que faculte el Reglamento para su debida inclusión al expediente administrativo del infractor.
 
 ## TÍTULO QUINTO. DEL PATRIMONIO Y PRESUPUESTO DE LA FISCALÍA GENERAL
 
@@ -947,9 +1299,25 @@ III. Los bienes que le sean transferidos para el debido ejercicio y cumplimiento
 
 IV. Los que reciba por concepto de los bienes o productos que enajene y los servicios de capacitación, adiestramiento que preste, así como de otras actividades que redunden en un ingreso propio;
 
-V. Los bienes que le correspondan de conformidad con la legislación aplicable, que causen abandono, vinculados con la comisión de delitos, así como los que le correspondan por efecto de la extinción de dominio; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-VI. Los demás que determinen las disposiciones aplicables.
+V. Los bienes que le correspondan de conformidad con la legislación aplicable, que causen abandono, vinculados con la comisión de delitos, así como los que le correspondan por efecto de la extinción de dominio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VI. Los que reciba por concepto de cobro de derechos, productos o servicios prestados;
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VII. Los que se generen por imposición de multas a sus servidores públicos o a particulares sujetos de procedimiento administrativo, y
+
+> <small>(ADICIONADA [N. DE REUBICADA], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VIII. Los demás que determinen las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Para efectos de la fracción VII se deberá enterar a la autoridad competente conforme las disposiciones legales y normativas aplicables, de la multa firme impuesta para que, una vez llevado a cabo el procedimiento, para hacer efectivo el crédito fiscal, se ingrese de forma inmediata a la Fiscalía General.
 
 ### CAPÍTULO II. DEL PRESUPUESTO
 
@@ -957,17 +1325,23 @@ VI. Los demás que determinen las disposiciones aplicables.
 
 La Fiscalía General elaborará su proyecto de presupuesto anual de egresos, el cual será enviado, previa aprobación del Fiscal General, directamente al titular de la Secretaría de Finanzas y Administración para su incorporación en el proyecto de Ley de Egresos que se remita al Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 53.
 
-El ejercicio del presupuesto de la Fiscalía General se ejercerá en términos de la Ley de Presupuesto y Gasto Público del Estado de Puebla y demás disposiciones aplicables.
+El presupuesto de la Fiscalía General se ejercerá en términos de la Ley de Presupuesto y Gasto Público del Estado de Puebla y demás disposiciones aplicables.
+
+Para realizar las funciones del proceso presupuestario y administrativo, la Fiscalía contará con los recursos humanos y técnicos necesarios.
 
 ## TÍTULO SEXTO. RÉGIMEN DE LOS SERVIDORES PÚBLICOS
 
 ### CAPÍTULO ÚNICO. DE LAS RELACIONES ADMINISTRATIVAS Y LABORALES CON LA FISCALÍA GENERAL
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 54.
 
-Las relaciones jurídicas entre la Fiscalía General y los agentes del Ministerio Público, investigadores ministeriales y peritos serán de carácter administrativo y se regirán por lo dispuesto en la fracción XIII, del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en la presente Ley y en las demás disposiciones legales aplicables.
+Las relaciones jurídicas entre la Fiscalía General y los agentes del Ministerio Público, agentes investigadores y peritos, serán de carácter administrativo y se regirán por lo dispuesto en la fracción XIII, del apartado B, del artículo 123 de la Constitución General, en la presente Ley y en las demás disposiciones legales aplicables.
 
 Este personal quedará incorporado al régimen del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
@@ -991,6 +1365,86 @@ En atención a la naturaleza de las funciones que tiene a su cargo la Fiscalía 
 
 Las relaciones jurídicas entre la Fiscalía General y el personal a que se refiere este artículo será de carácter laboral, por lo que cualquier controversia relacionada con la protección al salario y los beneficios de seguridad social que se suscite con motivo de dicha relación será resuelta por el Tribunal de Arbitraje del Estado, conforme al procedimiento establecido en la Ley de los Trabajadores al Servicio del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 57.
+
+En lo que no se oponga a los procedimientos de responsabilidades administrativas previstos en esta Ley y para lo no dispuesto en ellos, se aplicará en lo conducente, la legislación aplicable en materia de responsabilidades administrativas.
+
+Asimismo, en lo que no se oponga a lo dispuesto por el procedimiento de separación del cargo por incumplir los requisitos de permanencia a que se refiere esta Ley y demás controversias de carácter administrativo serán resueltas por la autoridad competente, quien observará las disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+## TÍTULO SÉPTIMO. DE LA FISCALÍA ESPECIALIZADA DE COMBATE A LA CORRUPCIÓN
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 58.
+
+La Fiscalía Especializada de Combate a la Corrupción estará a cargo de la o el Fiscal Especializado de Combate a la Corrupción y contará con las unidades administrativas, los agentes del Ministerio Público, personal de servicios periciales, agentes investigadores y personal administrativo necesario para sus funciones.
+
+La Fiscalía Especializada de Combate a la Corrupción investigará los delitos cometidos por servidores públicos o particulares contenidos en el Capítulo Décimo Noveno del Código Penal del Estado Libre y Soberano de Puebla "Delitos por Hechos de Corrupción" y, con excepción de los delitos electorales, cualquier otro cometido por una o un servidor público del Estado o de sus municipios, con motivo de sus funciones o aprovechando su cargo, comisión o nombramiento, sin perjuicio de que se convaliden las actuaciones por el agente del Ministerio Público distinto que haya actuado en el asunto.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 59.
+
+La persona Titular de la Fiscalía Especializada de Combate a la Corrupción tendrá en sus atribuciones, además de las que le correspondan en otras disposiciones legales por su calidad de Ministerio Público, las siguientes:
+
+I. Disponer de los recursos humanos, materiales y financieros para el ejercicio de sus funciones y de las áreas de su adscripción;
+
+II. Presentar un informe anual al Fiscal General respecto de las actividades realizadas por la Fiscalía a su cargo y de sus resultados;
+
+III. Proponer al Fiscal General el presupuesto anual de la Fiscalía a su cargo para el trámite y gestión correspondiente;
+
+IV. Auxiliarse de la opinión de peritos particulares;
+
+V. Promover y gestionar programas de capacitación, actualización y especialización, para los agentes del Ministerio Público, peritos y agentes investigadores adscritos a la Fiscalía a su cargo;
+
+VI. Dirigir la actuación de investigación de los agentes investigadores de su adscripción, en los términos de lo dispuesto en el artículo 21 de la Constitución General;
+
+VII. Diseñar e implementar estrategias y líneas de acción para combatir los hechos con apariencia de delitos del ámbito de su competencia;
+
+VIII. Implementar planes y programas destinados a detectar la comisión de los hechos con apariencia de delitos del ámbito de su competencia;
+
+IX. Instrumentar mecanismos de colaboración con otras autoridades para la elaboración de estrategias y programas tendientes a combatir los hechos con apariencia de delitos del ámbito de su competencia;
+
+X. Emitir los acuerdos, circulares, instructivos, bases y demás normas administrativas necesarias que rijan la actuación de la Fiscalía en el ámbito de su competencia, mismas que en ningún caso podrán contradecir las normas administrativas emitidas por el Fiscal General;
+
+XI. Participar en los términos de los mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos con apariencia de delitos del ámbito de su competencia;
+
+XII. Desarrollar y difundir programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos con apariencia de delitos del ámbito de su competencia;
+
+XIII. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
+
+XIV. Requerir a las instancias de gobierno y particulares la información que resulte útil o necesaria para sus investigaciones, en términos del Código Nacional de Procedimientos Penales;
+
+XV. Definir e implementar sistemas y mecanismos de análisis de la información fiscal, financiera y contable para la investigación de los hechos con apariencia de delitos del ámbito de su competencia;
+
+XVI. Coadyuvar con otras áreas competentes de la Fiscalía, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos con apariencia de delitos del ámbito de su competencia;
+
+XVII. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
+
+XVIII. Emitir guías y manuales técnicos, en conjunto con personal pericial y del área local encargada de realizar análisis financiero para la formulación de dictámenes en materia de análisis fiscal, financiero, presupuestario y contable que requieran los agentes del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos con apariencia de delitos del ámbito de su competencia;
+
+XIX. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos con apariencia de delitos del ámbito de su competencia;
+
+XX. Suscribir programas de trabajo y convenios para tener acceso directo a la información disponible en los Registros Públicos de la Propiedad, así como de la unidad de inteligencia patrimonial, para la investigación y persecución de los hechos con apariencia de delitos del ámbito de su competencia;
+
+XXI. Ejercer la facultad de atracción en el ámbito local de los delitos (sic) su competencia;
+
+XXII. Asignar a algún agente del Ministerio Público o área de su adscripción los asuntos que considere, en atención a su relevancia o a las cargas de trabajo;
+
+XXIII. Participar en el Sistema Nacional y Local Anticorrupción, en términos de las disposiciones legales correspondientes, y
+
+XXIV. Las demás que en su caso le confieran otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 60.
+
+Los delitos cometidos por los servidores públicos adscritos a la Fiscalía Especializada de Combate a la Corrupción serán investigados por la o el agente del Ministerio Público en quien delegue dicha atribución la o el Fiscal General.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
@@ -1012,3 +1466,21 @@ SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinte días del mes de febrero de dos mil dieciséis. Diputado Presidente. CARLOS MARTÍNEZ AMADOR. Rúbrica. Diputada Vicepresidenta. MAIELLA MARTHA GABRIELA GÓMEZ MALDONADO. Rúbrica. Diputada Secretaria. MARÍA SARA CAMELIA CHILACA MARTÍNEZ. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinte días del mes de febrero de dos mil dieciséis. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Fiscal General del Estado. C. VÍCTOR ANTONIO CARRANCÁ BOURGET. Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA; ASIMISMO REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor a los quince días hábiles siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos penales y administrativos iniciados antes de la entrada en vigor del presente Decreto serán concluidos conforme las disposiciones legales vigentes al momento de la comisión del hecho posiblemente constitutivo de delito o de responsabilidad administrativa, según corresponda.
+
+CUARTO. En términos del artículo 142 Bis del Código Penal del Estado Libre y Soberano de Puebla, la potestad punitiva y los efectos de procedimiento penal:
+
+El delito de evasión de presos referido en los artículos 167, 168, 169, 170, 171, 173, 174, 175, 176 y 177, derogados por este Decreto, no se extinguen, por permanecer la descripción de la conducta sancionada penalmente en los artículos 436 Sexies, 436 Septies, 436 Octies, 436 Nonies, 436 Decies, 436 Undecies, 436 Duodecies y 436 Terdecies, en el mismo ordenamiento legal.
+
+Por lo que hace los delitos de Tortura y otros tratos o penas crueles, inhumanos o degradantes y sus sanciones, se aplicarán las disposiciones que establece la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes.
