@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12263
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2017-07-19"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de julio de 2017.
 
@@ -229,7 +229,9 @@ Cuando los servidores públicos y las personas físicas y morales, públicas o p
 
 El contenido del Informe de Avance de Gestión Financiera se referirá a los programas a cargo de los poderes del Estado y los entes públicos, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados y contendrá:
 
-I. El flujo contable de ingresos y egresos al 30 de junio del año en que se ejerza el Presupuesto de Egresos, y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I. El flujo contable de ingresos y egresos de cada trimestre en que se ejerza el Presupuesto de Egresos del año correspondiente, y
 
 II. El avance del cumplimiento de los programas con base en los indicadores aprobados en el Presupuesto de Egresos.
 
@@ -1321,9 +1323,15 @@ TERCERO. Se abroga la Ley del Órgano de Fiscalización Superior del Estado de Q
 
 En virtud de lo establecido en el párrafo anterior, los Títulos Tercero y Cuarto de la Ley del Órgano de Fiscalización Superior del Estado de Quintana Roo, quedarán derogados progresivamente hasta la conclusión del último procedimiento regido por lo establecido en las disposiciones contenidas en dichos Títulos.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+Con respecto a los títulos primero y segundo de la ley del Órgano de Fiscalización Superior del Estado de Quintana Roo, éstos quedarán subsistentes para aplicarse en la revisión y fiscalización de las cuentas públicas 2015 y 2016.
+
 CUARTO. Los procedimientos administrativos iniciados de conformidad con la Ley del Órgano de Fiscalización Superior del Estado de Quintana Roo que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley del Órgano de Fiscalización Superior del Estado de Quintana Roo que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta Pública del año 2016.
 
-QUINTO. Las funciones de fiscalización y revisión de la Auditoría Superior del Estado previstas en la presente Ley entrarán en vigor a partir de la Cuenta Pública del año 2018.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+QUINTO. Las funciones de fiscalización y revisión de la Auditoría Superior del Estado previstas en la presente Ley, entrarán en vigor a partir de la Cuenta Pública del año 2017.
 
 SEXTO. La Legislatura del Estado de Quintana Roo deberá modificar el Reglamento Interior en un plazo no mayor a ciento ochenta días hábiles contados a partir de la vigencia de la presente Ley.
 
@@ -1354,3 +1362,13 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 RUBRICA
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 113 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 14 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE QUINTANA ROO Y POR EL SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO, Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO TERCERO TRANSITORIO, AMBOS DEL DECRETO 090 EMITIDO POR LA HONORABLE XV LEGISLATURA DEL ESTADO, PUBLICADO EL 19 DE JULIO DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANAROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
