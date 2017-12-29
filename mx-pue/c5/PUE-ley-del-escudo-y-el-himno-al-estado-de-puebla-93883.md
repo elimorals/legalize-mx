@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-escudo-y-el-himno-al-estado-de-puebla-93883"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL ESCUDO Y EL HIMNO AL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Cuadragésima Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -37,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 102, 119, 123 fracciones I y X, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46, 47 y 48 fracciones I y X del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -311,19 +313,29 @@ Para la imposición de las sanciones a las que se refiere el artículo anterior,
 
 Infracción Artículo Multa
 
-1.- Adicionar una palabra 30 Fracción I. De 25 a 300 días
+(REFORMADO, P.O. 29 DE
 
-o símbolo ajeno al de salario mínimo
+DICIEMBRE DE 2017)
 
-escudo del Estado. Vigente en el Estado.
+1.- Adicionar una palabra 30 Fracción I. Del equivalente a la cantidad
 
-2.- Alterar de cualquier 30 Fracción II. De 25 a 300 días de
+o símbolo ajeno al de 25 a 300 veces el valor
 
-Forma la música salario mínimo vigente
+escudo del Estado. diario de la Unidad de
 
-o letra del Himno del en el Estado.
+Medida y Actualización.
 
-Estado.
+(REFORMADO, P.O. 29 DE
+
+DICIEMBRE DE 2017)
+
+2.- Alterar de cualquier 30 Fracción II. Del equivalente a la cantidad
+
+Forma la música de 25 a 300 veces el valor
+
+o letra del Himno del diario de la Unidad de
+
+Estado. Medida y Actualización.
 
 ###### Artículo 32.
 
@@ -490,3 +502,13 @@ Música: Juan Arturo Ortega Chávez
 Orquestación: José Luis Guevara Rivera
 
 N. DE. E. VÉANSE PARTITURAS EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINAS DE LA 13 A LA 16.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
