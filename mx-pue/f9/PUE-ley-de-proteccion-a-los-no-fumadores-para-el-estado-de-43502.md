@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-los-no-fumadores-para-el-estado-de-43502"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-26"
-last_updated: "2010-01-20"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DE PROTECCION A LOS NO FUMADORES PARA EL ESTADO DE PUEBLA
 
-LEY DE PROTECCION A LOS NO FUMADORES PARA EL ESTADO DE PUEBLA
+LEY DE PROTECCIÓN A LOS NO FUMADORES PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 26 de enero de 2005.
 
@@ -281,17 +281,19 @@ Para la aplicación de la multa, se tomará en cuenta la gravedad de la infracci
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 20.
 
-Se sancionará con multa equivalente de cinco a quince veces el salario mínimo diario general vigente en el Estado, el incumplimiento a lo dispuesto por el artículo 7 de la presente Ley, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
+Se sancionará con multa del equivalente a la cantidad de cinco a quince veces el valor diario de la Unidad de Medida y Actualización, el incumplimiento a lo dispuesto por el artículo 7 de la presente Ley, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 21.
 
-Se sancionará con multa equivalente de diez a sesenta veces el salario mínimo diario general vigente en el Estado, la inobservancia de lo establecido en el artículo 6 de esta Ley, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
+Se sancionará con multa del equivalente a la cantidad de diez a sesenta veces el valor diario de la Unidad de Medida y Actualización, la inobservancia de lo establecido en el artículo 6 de esta Ley, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
 El monto recaudado producto de las multas será destinado preferentemente al Programa contra el Tabaquismo y a otros programas de salud prioritarios.
 
@@ -299,13 +301,17 @@ El monto recaudado producto de las multas será destinado preferentemente al Pro
 
 ARTÍCULO 21 BIS. Si con motivo de la aplicación de esta Ley, se desprenda la posible comisión de uno o varios delitos, la autoridad correspondiente hará del conocimiento a las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 22.
 
-Se sancionará con multa equivalente de tres a cien veces el salario mínimo diario general vigente en el Estado, la inobservancia de lo establecido en el artículo 5 de esta Ley a excepción de su fracción III y en caso de reincidencia se clausurará temporalmente el lugar público hasta que se cumpla con la disposición.
+Se sancionará con multa del equivalente a la cantidad de tres a cien veces el valor diario de la Unidad de Medida y Actualización, la inobservancia de lo establecido en el artículo 5 de esta Ley a excepción de su fracción III y en caso de reincidencia se clausurará temporalmente el lugar público hasta que se cumpla con la disposición.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 23.
 
-Las infracciones a esta Ley no previstas en este Capítulo, serán sancionadas con multa hasta por cien veces el salario mínimo diario general vigente en el Estado, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
+Las infracciones a esta Ley no previstas en este Capítulo serán sancionadas con multa del equivalente a la cantidad de hasta cien veces el valor diario de la Unidad de Medida y Actualización, en caso de reincidencia se aumentará hasta en dos terceras partes el monto de la multa.
 
 ###### ARTÍCULO 24.
 
@@ -491,10 +497,18 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los quince días del mes de diciembre del año dos mil cuatro.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO RÓMULO S. ARREDONDO GUTIÉRREZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE ENERO DE 2010.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
