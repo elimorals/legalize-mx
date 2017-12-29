@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fraccionamientos-y-acciones-urbanisticas-del-estado-3839
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-25"
-last_updated: "2016-09-20"
+last_updated: "2017-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FRACCIONAMIENTOS Y ACCIONES URBANÍSTICAS DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Puebla, el miércoles 25 de febrero de 2004.
 
@@ -1403,9 +1403,11 @@ El Ayuntamiento, verificará el cumplimiento de las medidas ordenadas en términ
 
 Las autoridades municipales que violen los preceptos de la presente Ley, serán sancionados de conformidad con la ley de la materia.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 110.
 
-Los servidores públicos que violen lo establecido en esta Ley, serán sancionados con multa equivalente de 50 a 500 días de salario mínimo vigente en la localidad, la cual será impuesta por el órgano de control municipal. En caso de reincidencia serán suspendidos de su cargo o cesados de las funciones, según la gravedad del caso y de acuerdo con la legislación aplicable.
+Los servidores públicos que violen lo establecido en esta Ley, serán sancionados con multa del equivalente a la cantidad de 50 a 500 veces el valor diario de la Unidad de Medida y Actualización, la cual será impuesta por el órgano de control municipal. En caso de reincidencia serán suspendidos de su cargo o cesados de las funciones, según la gravedad del caso y de acuerdo con la legislación aplicable.
 
 ###### ARTÍCULO 111.
 
@@ -1419,7 +1421,9 @@ Son infracciones cuya responsabilidad corresponde a los Notarios Públicos; auto
 
 Las infracciones a los preceptos de la presente Ley y a los reglamentos y disposiciones que de ella emanen, se sancionarán, previa audiencia del infractor, con:
 
-I.- Multa de cien a diez mil veces el salario mínimo general vigente en el Estado o de hasta el 10% del valor comercial de los inmuebles. En caso de reincidencia la multa podrá duplicarse, y considerando la naturaleza y gravedad del asunto de que se trate podrá aplicarse la sanción que corresponda enumeradas en este artículo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+I.- Multa del equivalente a la cantidad de cien a diez mil veces el valor diario de la Unidad de Medida y Actualización o de hasta el 10% del valor comercial de los inmuebles. En caso de reincidencia la multa podrá duplicarse, y considerando la naturaleza y gravedad del asunto de que se trate podrá aplicarse la sanción que corresponda enumeradas en este artículo;
 
 II.- Clausura definitiva a quien realice actos de fraccionamientos, divisiones, subdivisiones, segregaciones, fusiones, lotificaciones y relotificaciones de terrenos, así como de desarrollos en régimen de propiedad y condominio, en predio ubicado en zona o área no permitida para tal efecto, de acuerdo a lo establecido en los planes de desarrollo municipal y de declaratorias de uso de suelo, destino y reservas territoriales que emita el Ayuntamiento;
 
@@ -1447,7 +1451,9 @@ VI.- La cancelación del registro de profesionistas en los padrones de Directore
 
 VII.- El arresto hasta por treinta y seis horas, una vez que se hayan agotado las demás medidas de apremio; cuando el responsable o propietario del lugar objeto de una visita de inspección, se niegue a facilitar el acceso o a proporcionar los informes que le sean solicitados por la autoridad municipal o el inspector correspondiente; y
 
-VIII.- Multa de trescientos a diez mil veces el salario mínimo vigente en el Estado, al que realice actos de promesa o traslativos de dominio de lotes o viviendas sin contar con el permiso correspondiente, independientemente de las acciones legales que ejerza el o los afectados.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Multa del equivalente a la cantidad de trescientos a diez mil veces el valor diario de la Unidad de Medida y Actualización, al que realice actos de promesa o traslativos de dominio de lotes o viviendas sin contar con el permiso correspondiente, independientemente de las acciones legales que ejerza el o los afectados.
 
 ###### ARTÍCULO 114.
 
@@ -1483,17 +1489,21 @@ Cuando el fraccionador incurra en violaciones graves o sustanciales al proyecto 
 
 Para dictar la resolución que corresponda, el Ayuntamiento deberá conceder derecho de audiencia al presunto infractor.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 121.
 
-Tratándose de violaciones al proyecto definitivo, que no sean graves o sustanciales, se impondrá a los infractores una sanción equivalente de hasta 100 días de salario mínimo vigente en la localidad.
+Tratándose de violaciones al proyecto definitivo, que no sean graves o sustanciales, se impondrá a los infractores una sanción del equivalente a la cantidad de 100 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 122.
 
 Será nula la división y subdivisión de lotes en fracciones menores a las señaladas en los programas de desarrollo urbano, o en las disposiciones legales correspondientes, según el caso, así como las operaciones de traslación de dominio que se hubieren realizado sobre dichas fracciones.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 123.
 
-Cualquier infracción no prevista en el presente capítulo, será sancionada administrativamente con multas que no sobrepasen el equivalente de los 500 días de salario mínimo vigente de la localidad, que deberán ser enteradas a la unidad administrativa correspondiente.
+Cualquier infracción no prevista en el presente capítulo, será sancionada administrativamente con multas que no sobrepasen del equivalente a la cantidad de 500 veces el valor diario de la Unidad de Medida y Actualización, que deberán ser enteradas a la unidad administrativa correspondiente.
 
 ###### ARTÍCULO 124.
 
@@ -1634,3 +1644,11 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DISTINTAS DISPOSICIONES DE DIVERSOS ORDENAMIENTOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
