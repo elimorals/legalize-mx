@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-agua-del-estado-de-chihuahua-86957"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2017-02-22"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL AGUA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 2012.
 
@@ -51,117 +51,181 @@ LEY DEL AGUA DEL ESTADO DE CHIHUAHUA
 
 ### CAPÍTULO I. OBJETO DE LA LEY
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley tienen por objeto regular en el Estado de Chihuahua la participación de las autoridades estatales y municipales, en el ámbito de sus competencias, así como de los sectores privado y social, en la planeación, administración, manejo y conservación del recurso agua.
+Las disposiciones de esta Ley tienen por objeto regular en el Estado de Chihuahua la participación de las autoridades estatales y municipales, en el ámbito de sus competencias, en la planeación, administración, manejo y conservación del recurso agua.
 
-Se declara de utilidad pública e interés social la prestación de los servicios públicos de agua, drenaje, alcantarillado, tratamiento de aguas residuales y disposición final de lodos, así como la realización de los estudios, proyectos y obras relacionados con los recursos hídricos en el marco del desarrollo sustentable del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Se declara de utilidad pública e interés social la prestación de los servicios públicos de agua, alcantarillado sanitario, tratamiento de aguas residuales y disposición final de lodos, así como la realización de los estudios, proyectos y obras relacionados con los recursos hídricos en el marco del desarrollo sustentable del Estado y la mitigación y adaptación del cambio climático.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+La presente Ley reconoce el derecho de todas las personas a tener acceso al agua para consumo personal y doméstico en forma suficiente, salubre y asequible, al saneamiento de las aguas residuales y a su disposición.
 
 ###### Artículo 2.
 
 La presente Ley regulará su objeto a través de las siguientes disposiciones:
 
-I.- La planeación, administración, conservación, ejecución de proyectos y obras relacionadas con los recursos hídricos en el marco del desarrollo sustentable del Estado.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+I.- La planeación, administración, conservación, ejecución de proyectos y obras relacionadas con los recursos hídricos en el marco del desarrollo sustentable del Estado. Para lo cual se tomará en consideración la adaptación del cambio climático y la mitigación de sus efectos.
 
 II.- La administración y conservación de las aguas de jurisdicción estatal, en los términos del artículo 27, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, y del artículo 138, fracción I, inciso b) , de la Constitución Política del Estado Libre y Soberano de Chihuahua, en materia de aguas.
 
 III.- La organización, funcionamiento y atribuciones de la Junta Central.
 
-IV.- La organización, supervisión, revisión y funcionamiento de los organismos operadores de los sistemas de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-V.- La planeación, administración y conservación de los sistemas de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos, a cargo de entidades estatales o municipales.
+IV.- La organización, supervisión, revisión y funcionamiento de los organismos operadores de los sistemas de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos y, en su caso, del drenaje pluvial.
 
-VI.- La prestación de los servicios públicos de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-VII.- La recuperación de los gastos y costos de inversión, operación, conservación y mantenimiento de los sistemas de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
+V.- La planeación, administración y conservación de los sistemas de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos, a cargo de entidades estatales o municipales.
 
-> <small>(REFORMADA, P.O. 4 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-VIII.- La coordinación entre el Estado y los municipios, y de estos con la Federación, para la realización de acciones relacionadas con el uso o aprovechamiento del agua, así como la conservación de las fuentes de abastecimiento de agua y de los recursos hídricos superficiales y del subsuelo, estos últimos previo convenio con la Federación.
+VI.- La prestación de los servicios públicos de agua, drenaje pluvial, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales, disposición final de lodos, de laboratorio y demás servicios.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VII.- La recuperación de los costos de inversión, operación, construcción, ampliación, conservación, mantenimiento y sustentabilidad de los sistemas de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VIII.- La coordinación entre el Estado y los municipios, y de estos con la Federación, para la realización de acciones relacionadas con el uso o aprovechamiento del agua, así como la conservación de las fuentes de abastecimiento de agua y de los recursos hídricos superficiales y del subsuelo, estos últimos previo convenio con la Federación. Se creará un Sistema Estatal de Infiltración de agua pluvial en las zonas geográficas del Estado, para lo cual deberá basarse en los estudios que determinen los lugares susceptibles de recarga de acuerdo a su capacidad de infiltración y permeabilidad, previo convenio con la Federación y de conformidad a lo establecido en el Reglamento.
 
 IX.- Las relaciones entre las autoridades estatales, municipales y los prestadores de servicios públicos de agua, alcantarillado, saneamiento, tratamiento de aguas residuales, disposición final de lodos y de otros usos del agua.
 
 X.- Las sanciones e infracciones en que incurran los usuarios que regula esta Ley.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XI.- El fomento de la investigación y desarrollo de tecnología para la adecuada gestión del agua.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- AGUAS DE JURISDICCIÓN ESTATAL: Aquellas que, conforme a lo establecido en el artículo 27, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, sean consideradas como parte integrante de los terrenos propiedad del Estado de Chihuahua, por los que corran o en los que se encuentren sus depósitos, o su aprovechamiento pueda estar sujeto a las disposiciones que dicte el Gobierno del Estado.
+I. AGUA: Es un bien de dominio público, vital, vulnerable y finito, con valor social, ambiental y económico, cuya preservación en cantidad, calidad y sustentabilidad es tarea fundamental de las autoridades en materia de agua y de la sociedad.
 
-II.- AGUA POTABLE: Aquella que reúna las características de calidad propias para ser ingerida por los seres humanos sin provocar efectos nocivos a la salud, conforme a lo establecido en las Normas Oficiales Mexicanas correspondientes.
+II. AGUAS DE JURISDICCIÓN ESTATAL: Aquellas que, conforme a lo establecido en el artículo 27, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, sean consideradas como parte integrante de los terrenos propiedad del Estado de Chihuahua, por los que corran o en los que se encuentren sus depósitos, o su aprovechamiento pueda estar sujeto a las disposiciones que dicte el Gobierno del Estado.
 
-III.- AGUA RECICLADA: Aquella residual que, habiendo o no recibido tratamiento, es reintroducida en el proceso que la generó.
+III. AGUA POTABLE: Aquella que reúna las características de calidad propias para ser ingerida por los seres humanos sin provocar efectos nocivos a la salud, conforme a lo establecido en las Normas Oficiales Mexicanas correspondientes.
 
-IV.- AGUA RESIDUAL: Aquella de composición variada proveniente de las descargas de uso público urbano, doméstico, industrial, comercial, de servicios, de plantas de tratamiento y, en general, de cualquier otro uso, así como la mezcla de ellas.
+IV. AGUA RECICLADA: Aquella residual que, habiendo o no recibido tratamiento, es reintroducida en el proceso que la generó.
 
-V.- AGUA RESIDUAL TRATADA: Aquella de composición variada que proviene de un conjunto de operaciones y procesos de tratamiento a los cuales es sometida el agua residual.
+V. AGUA RESIDUAL: Aquella de composición variada proveniente de las descargas de uso público urbano, doméstico, industrial, comercial, de servicios, pecuario, de plantas de tratamiento y, en general, de cualquier otro uso, así como la mezcla de ellas.
 
-VI.- ALCANTARILLADO: La red o sistema de conductos y dispositivos para recolectar y conducir las aguas residuales y pluviales a la planta de tratamiento u otro destino final.
+VI. AGUA RESIDUAL TRATADA: Aquella de composición variada que proviene de un conjunto de operaciones y procesos de tratamiento a los cuales es sometida el agua residual.
 
-VII.- CIRCUNSCRIPCIÓN TERRITORIAL: El área geográfica en donde un organismo operador se encarga de prestar el servicio de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
+VII. ALCANTARILLADO SANITARIO: La red o sistema de conductos y dispositivos para recolectar y conducir las aguas residuales a la planta de tratamiento u otro sitio de disposición final.
 
-VIII.- CONDICIONES PARTICULARES DE DESCARGA DE AGUAS RESIDUALES: El conjunto de parámetros físicos, químicos y biológicos y de sus límites máximos permisibles en las descargas de aguas residuales a los sistemas de alcantarillado municipal, establecidos por la autoridad competente, previo estudio técnico correspondiente, con el fin de prevenir y controlar la contaminación de las aguas y bienes nacionales, así como proteger la infraestructura de dichos sistemas.
+VIII. CIRCUNSCRIPCIÓN TERRITORIAL: El área geográfica en donde un organismo operador se encarga de prestar el servicio de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
 
-IX.- CONSUMO HUMANO: El agua utilizada para beber, cocinar, preparar alimentos e higiene personal; la empleada en la industria alimentaria que pueda afectar el producto alimenticio y, en general, la que pueda afectar la salud de los consumidores.
+IX. COMITÉS DEL AGUA: Organismos operadores del agua, conformados por vecinos de un asentamiento poblacional en el que no existe otro tipo de organismo operador del agua, población en cuya demarcación territorial se enmarca su radio de acción, para ser auxiliares de la Junta Central de Agua y Saneamiento o Juntas Operadoras en la prestación del servicio de agua potable, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
 
-X.- CONTAMINANTES: Son aquellos parámetros o compuestos que, en determinadas concentraciones, pueden producir efectos negativos en la salud humana y en el medio ambiente, dañar la infraestructura hidráulica o inhibir los procesos de tratamiento de las aguas residuales.
+X. CONDICIONES PARTICULARES DE DESCARGA DE AGUAS RESIDUALES: El conjunto de parámetros físicos, químicos y biológicos y de sus límites máximos permisibles en las descargas de aguas residuales a los sistemas de alcantarillado municipal, establecidos por la autoridad competente, previo estudio técnico correspondiente, con el fin de prevenir y controlar la contaminación de las aguas y bienes nacionales, así como proteger la infraestructura de dichos sistemas.
 
-XI.- DERIVACIÓN: La conexión a la instalación hidráulica interior de un predio para abastecer de agua a uno o más usuarios localizados en el mismo o en otro contiguo.
+XI. CONSUMO HUMANO: El agua utilizada para beber, cocinar, preparar alimentos e higiene personal; la empleada en la industria alimentaria que pueda afectar el producto alimenticio y, en general, la que pueda afectar la salud de los consumidores.
 
-XII.- DESCARGA: Acción de verter aguas residuales a los sistemas de alcantarillado y drenaje, con excepción de las pluviales.
+XII. CONTAMINANTES: Son aquellos parámetros o compuestos que, en determinadas concentraciones, pueden producir efectos negativos en la salud humana y en el medio ambiente, dañar la infraestructura hidráulica o inhibir los procesos de tratamiento de las aguas residuales.
 
-XIII.- DISPOSITIVO DE AFORO: Estructura diseñada para la medición del caudal de agua residual que se vierte al sistema de alcantarillado sanitario.
+XIII. DERIVACIÓN: La conexión a la instalación hidráulica interior de un predio para abastecer de agua a uno o más usuarios localizados en el mismo o en otro contiguo.
 
-XIV.- DRENAJE: Sistema de conductos cerrados, estructuras hidráulicas y accesorios, para el desagüe y alejamiento de las aguas residuales y pluviales.
+XIV. DESCARGA DE AGUAS RESIDUALES: Acción de verter aguas residuales a los sistemas de alcantarillado sanitario.
 
-XV.- ESTRUCTURA TARIFARIA: Es el conjunto de tarifas aplicables a los servicios prestados por parte de los organismos operadores y/o prestadores de servicios, en los términos de la presente Ley.
+XV. DESCARGA PLUVIAL: Acción de verter agua de escurrimiento pluvial a los sistemas de drenaje pluvial.
 
-XVI.- FACTIBILIDAD DE SERVICIOS: Es la disponibilidad que tienen los organismos operadores para proporcionar con infraestructura propia volúmenes de agua, así como de recibir en los colectores propios de la red de alcantarillado, las aguas residuales generadas por los nuevos usuarios, ya sean fraccionamientos, zonas comerciales o industriales, o de cualquier otro tipo.
+XVI. DISPOSITIVO DE AFORO: Estructura diseñada para la medición del caudal de agua residual que se vierte al sistema de alcantarillado sanitario.
 
-XVII.- JUNTA CENTRAL: Junta Central de Agua y Saneamiento del Estado de Chihuahua.
+XVII. DRENAJE PLUVIAL: Sistema de conductos cerrados, estructuras hidráulicas y accesorios, para el desagüe y alejamiento de las aguas pluviales.
 
-XVIII.- JUNTA MUNICIPAL U ORGANISMO OPERADOR: Junta Municipal de Agua y Saneamiento.
+XVIII. ESTRUCTURA TARIFARIA: Es el conjunto de tarifas aplicables a los servicios prestados por parte de los organismos operadores y/o prestadores de servicios, en los términos de la presente Ley.
 
-XIX.- JUNTA RURAL U ORGANISMO OPERADOR EN LA ZONA RURAL: Junta Rural de Agua y Saneamiento.
+XIX. FACTIBILIDAD DE SERVICIOS: Es la disponibilidad que tienen los organismos operadores para proporcionar con infraestructura propia volúmenes de agua, así como de recibir en los colectores propios de la red de alcantarillado, las aguas residuales generadas por los nuevos usuarios, ya sean fraccionamientos, zonas comerciales o industriales, o de cualquier otro tipo.
 
-XX.- LÍMITE MÁXIMO PERMISIBLE (L.M.P.): Valor o rango asignado a un parámetro, el cual no debe ser excedido en la descarga de aguas residuales, de conformidad con las normas reguladoras en materia de agua residual vigente.
+XX. FACTIBILIDAD DE VOLÚMENES DE AGUAS: Es la disponibilidad que tienen los organismos operadores para proporcionar los volúmenes de agua para los nuevos usuarios, ya sean fraccionamientos, zonas comerciales o industriales, o de cualquier otro tipo.
 
-XXI.- MANEJO: Conjunto de actividades que incluyen el almacenamiento, recolección, transporte, alojamiento, descarga, reuso, tratamiento, reciclaje y conducción de las aguas residuales y lodos.
+XXI. JUNTA CENTRAL: Junta Central de Agua y Saneamiento del Estado de Chihuahua.
 
-XXII.- MUESTRA COMPUESTA: La que resulta de mezclar el número de muestras simples, según la normatividad aplicable.
+XXII. JUNTA DISTRITAL: Junta Distrital de Agua y Saneamiento bajo la coordinación sectorial de la Junta Central de Agua y Saneamiento.
 
-XXIII.- MUESTRA INSTANTÁNEA: Es la muestra tomada de manera aleatoria en el punto de descarga, con el volumen suficiente para su caracterización.
+XXIII. JUNTA MUNICIPAL: Junta Municipal de Agua y Saneamiento que se encuentra bajo la coordinación sectorial de la Junta Central de Agua y Saneamiento.
 
-XXIV.- MUESTRA SIMPLE: Es la muestra tomada en el punto de descarga, de manera continua, en día normal de operación, que refleje cuantitativa y cualitativamente el o los procesos más representativos de las actividades que generan la descarga, durante el tiempo necesario para completar el volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su composición, aforando el caudal descargado en el sitio y en el momento del muestreo.
+XXIV. JUNTAS OPERADORAS: Las juntas municipales, distritales o rurales de agua y saneamiento, bajo la coordinación sectorial de la Junta Central de Agua y Saneamiento.
 
-XXV.- ORGANISMO OPERADOR: Las juntas municipales o rurales de agua y saneamiento, facultadas para organizar, administrar y tomar a su cargo la administración, operación, conservación, mantenimiento, rehabilitación y ampliación de los servicios de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos, dentro de los límites de su circunscripción territorial.
+XXV. JUNTA RURAL: Junta Rural de Agua y Saneamiento que se encuentra bajo la coordinación sectorial de la Junta Central de Agua y Saneamiento.
 
-XXVI.- PARÁMETRO: Variable que se utiliza como referencia para determinar la calidad y cantidad física, química y biológica del agua.
+XXVI. LÍMITE MÁXIMO PERMISIBLE (L.M.P.): Valor o rango asignado a un parámetro, el cual no debe ser excedido en la descarga de aguas residuales, de conformidad con las normas reguladoras en materia de agua residual vigente.
 
-XXVII.- PRETRATAMIENTO: Proceso de tratamiento mediante el cual se remueven o estabilizan los contaminantes básicos presentes en las aguas residuales previo a la conexión del alcantarillado municipal.
+XXVII. MANEJO: Conjunto de actividades que incluyen el almacenamiento, recolección, transporte, alojamiento, descarga, reuso, tratamiento, reciclaje y conducción de las aguas residuales y lodos.
 
-XXVIII.- PROMEDIO DIARIO (P.D.): Es el valor que resulta del análisis de una muestra compuesta, tomada en un día representativo del proceso generador de la descarga.
+XXVIII. MUESTRA COMPUESTA: La que resulta de mezclar el número de muestras simples, según la normatividad aplicable.
 
-XXIX.- RESIDUOS PELIGROSOS: Todo residuo en cualquier estado físico que, de acuerdo con la normatividad vigente, posea características de corrosivo, reactivo, explosivo, tóxico, inflamable y/o biológico-infeccioso, representando un peligro al equilibrio ecológico o al ambiente.
+XXIX. MUESTRA INSTANTÁNEA: Es la muestra tomada de manera aleatoria en el punto de descarga, con el volumen suficiente para su caracterización.
 
-XXX.- REUSO DE AGUA: Proceso de utilización de aguas residuales que habiendo o no recibido tratamiento, se aplican en la misma actividad que las generó o en cualquier otra, para su mejor aprovechamiento.
+XXX. MUESTRA SIMPLE: Es la muestra tomada en el punto de descarga, de manera continua, en día normal de operación, que refleje cuantitativa y cualitativamente el o los procesos más representativos de las actividades que generan la descarga, durante el tiempo necesario para completar el volumen suficiente para que se lleven a cabo los análisis necesarios para conocer su composición, aforando el caudal descargado en el sitio y en el momento del muestreo.
 
-XXXI.- SANEAMIENTO: La conducción, tratamiento y descarga de las aguas residuales provenientes del sistema de agua potable y alcantarillado, cuando tales acciones tengan por objeto verterlas en una corriente o depósito.
+XXXI. ORGANISMO OPERADOR MUNICIPAL: Organismo Operador de Agua y Saneamiento que no está bajo la coordinación sectorial de la Junta Central de Agua y Saneamiento.
 
-XXXII.- TARIFA: Es la tabla publicada en el Periódico Oficial del Estado, que contiene los parámetros, rubros, conceptos y referencias de los servicios públicos, susceptibles de ser prestados por los organismos operadores, de los que se desprende el monto correspondiente a liquidar por parte del usuario como contraprestación, en los términos de la presente Ley.
+XXXII. PARÁMETRO: Variable que se utiliza como referencia para determinar la calidad y cantidad física, química y biológica del agua.
 
-XXXIII.- TRATAMIENTO DE AGUAS RESIDUALES: Proceso a que se someten las aguas residuales con el objeto de disminuir o eliminar los contaminantes que se le hayan incorporado.
+XXXIII. PRETRATAMIENTO: Proceso previo al tratamiento mediante el cual se remueven o estabilizan los contaminantes básicos presentes en las aguas residuales antes de la conexión del alcantarillado municipal o del ingreso al proceso de tratamiento.
 
-XXXIV.- USUARIO: Las personas físicas, los ejidos, las comunidades, las asociaciones, las sociedades y demás personas morales a las que la Ley reconozca personalidad jurídica, con las modalidades y limitaciones que establezca la misma, que reciban el servicio de abastecimiento de agua, drenaje, alcantarillado, saneamiento y tratamiento de aguas residuales o el abasto de agua residual tratada.
+XXXIV. PROMEDIO DIARIO (P.D.): Es el valor que resulta del análisis de una muestra compuesta, tomada en un día representativo del proceso generador de la descarga.
+
+XXXV. RESIDUOS PELIGROSOS: Todo residuo en cualquier estado físico que, de acuerdo con la normatividad vigente, posea características de corrosivo, reactivo, explosivo, tóxico, inflamable y/o biológico-infeccioso, representando un peligro al equilibrio ecológico o al ambiente.
+
+XXXVI. REUSO DE AGUA: Proceso de utilización de aguas residuales que habiendo o no recibido tratamiento, se aplican en la misma actividad que las generó o en cualquier otra, para su mejor aprovechamiento.
+
+XXXVII. SANEAMIENTO: La conducción, tratamiento y descarga de las aguas residuales provenientes del sistema de agua potable y alcantarillado, cuando tales acciones tengan por objeto verterlas en una corriente o depósito.
+
+XXXVIII. TARIFA: Es la tabla publicada en el Periódico Oficial del Estado, que contiene los parámetros, rubros, conceptos y referencias de los servicios públicos, susceptibles de ser prestados por los organismos operadores, de los que se desprende el monto correspondiente a liquidar por parte del usuario como contraprestación, en los términos de la presente Ley.
+
+XXXIX. TRATAMIENTO DE AGUAS RESIDUALES: Proceso a que se someten las aguas residuales con el objeto de disminuir o eliminar los contaminantes que se le hayan incorporado.
+
+XL. USUARIO: Las personas físicas, los ejidos, las comunidades, las asociaciones, las sociedades y demás personas morales a las que la Ley reconozca personalidad jurídica, con las modalidades y limitaciones que establezca la misma, que reciban los servicios de abastecimiento de agua, alcantarillado sanitario, saneamiento y tratamiento de aguas residuales o el abasto de agua residual tratada.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 4.
 
-Los servicios públicos de agua potable, drenaje, alcantarillado, saneamiento, tratamientos de aguas residuales y disposición final de lodos, en los términos de la presente Ley, estarán a cargo de:
+Los servicios públicos de agua potable, alcantarillado sanitario, saneamiento, tratamientos de aguas residuales y disposición final de lodos, en los términos de la presente Ley, estarán a cargo de:
 
-I.- La Junta Central, a través de los organismos operadores.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+I.- La Junta Central, a través de las juntas operadoras y comités del agua.
 
 II.- Los organismos operadores municipales, señalados en el Título Primero, Capítulo V de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 4 Bis.
+
+La política hídrica en el Estado se sustentará en los siguientes principios rectores:
+
+I. El aprovechamiento del agua debe realizarse con eficiencia y eficacia, cumpliendo con la normatividad aplicable.
+
+II. La gestión integrada de los recursos hídricos es la base de la política estatal y se realizará en concordancia con las políticas de sustentabilidad hídrica y estrategias de largo plazo establecidas por la Federación.
+
+III. La gestión del agua debe generar recursos económicos y financieros suficientes, para que las Juntas Operadoras y organismos operadores municipales realicen sus tareas inherentes, en forma autosustentable, y ejecuten los programas hídricos de desarrollo sostenible orientados a la cobertura universal de los servicios públicos en el Estado.
+
+IV. La gestión integrada de los recursos hídricos se basa en el uso sustentable de las aguas y la interrelación que existe con los seres humanos y el medio ambiente.
+
+V. Las autoridades instrumentarán las acciones correspondientes para que el desarrollo de los centros urbanos, se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos de conformidad con esta Ley, procurando en todo momento el equilibrio hídrico.
+
+VI. Las autoridades promoverán que las Juntas Operadoras y demás órganos competentes suscriban convenios y acuerdos para el cumplimiento de su objeto, atendiendo a criterios de eficiencia, calidad y cobertura en materia de gestión del agua.
+
+VII. La determinación de las acciones a ejecutar en la materia, considerará las necesidades de agua provenientes de la sociedad para su bienestar, particularmente las de la población en condiciones de vulnerabilidad, su desarrollo y del ambiente para su equilibrio y conservación.
+
+VIII. Las personas que contaminen los recursos hídricos son responsables de restaurar su calidad con independencia de hacerse acreedoras a las sanciones que establezcan las leyes aplicables.
+
+Los principios de política hídrica estatal, serán fundamentales en la aplicación e interpretación de las disposiciones contenidas en esta Ley y guiarán las acciones de las autoridades en materia de agua.
 
 ### CAPÍTULO II. DEL PODER EJECUTIVO
 
@@ -183,11 +247,15 @@ V.- Las demás atribuciones que le otorguen otras disposiciones en la materia.
 
 Será responsabilidad del Poder Ejecutivo del Estado, a través de Junta Central:
 
-I.- La propuesta, formulación y promoción de las políticas que orienten el fomento y desarrollo hidráulico en el Estado.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+I.- La propuesta, formulación y promoción de las políticas que orienten el fomento y desarrollo hidráulico en el Estado, así como garantizar el acceso de cualquier persona al agua para consumo personal y doméstico en forma suficiente, salubre y asequible; al saneamiento de las aguas residuales y a su disposición.
 
 II.- La planeación y programación hidráulica en el ámbito estatal.
 
-III.- El aprovechamiento de las aguas de jurisdicción estatal, incluido su inventario y registro, así como la planeación, promoción, estímulo y, en su caso, ejecución de las acciones que sean necesarias para la prevención y control de la contaminación del agua.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+III.- El aprovechamiento de las aguas de jurisdicción estatal, incluido su inventario y registro, así como la planeación, promoción, estímulo y, en su caso, ejecución de las acciones que sean necesarias para la prevención y control de la contaminación del agua, además de definir las bases, apoyos y modalidades para el acceso y uso sustentable de los recursos hídricos, a través del fomento de la participación de la Federación, los municipios y la ciudadanía para la consecución de dichos fines.
 
 IV.- La conservación de las reservas hidrológicas del Estado y de las fuentes de abastecimiento de agua potable destinadas a satisfacer las necesidades de la población, de conformidad con los convenios que se celebren o se hayan celebrado con las autoridades federales.
 
@@ -205,13 +273,19 @@ X.- En corresponsabilidad con las dependencias y entidades de la administración
 
 XI.- Promover la participación de los sectores social y privado, en materia de agua.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XII.- Coordinarse con los Ayuntamientos que cuenten con organismos operadores municipales, para todos los asuntos relacionados con los usos, aprovechamiento y servicios del agua. Para estos efectos, las dependencias y municipios del Estado aportarán la información correspondiente.
+
 ###### Artículo 7.
 
 Serán responsabilidad del Poder Ejecutivo del Estado, a través de la Secretaría de Desarrollo Rural, las siguientes atribuciones en materia de agua:
 
 I.- Elaborar el programa anual en materia hidroagrícola, en coordinación con las dependencias estatales involucradas.
 
-II.- Promover el desarrollo de sistemas de riego y drenaje, de los sistemas acuícolas y de la infraestructura hidráulica para el control de inundaciones.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+II.- Promover el desarrollo de sistemas de riego y drenaje pluvial, de los sistemas acuícolas y de la infraestructura hidráulica para el control de inundaciones.
 
 III.- Apoyar la consolidación y desarrollo técnico para el uso eficiente del agua de las asociaciones de usuarios agrícolas, acuícolas y de los distritos y unidades de riego en el Estado.
 
@@ -225,7 +299,9 @@ VII.- Coadyuvar con las autoridades federales, estatales y municipales, en la co
 
 VIII.- Prestar, en coordinación con las dependencias estatales, la asistencia técnica a las unidades y distritos de riego, así como asesorar a los usuarios de riego, con el objeto de propiciar un aprovechamiento racional del agua.
 
-IX.- Apoyar, en coordinación con las dependencias estatales, en la consolidación y desarrollo técnico a las asociaciones de los usuarios de los distritos y unidades de riego y drenaje.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IX.- Apoyar, en coordinación con las dependencias estatales, en la consolidación y desarrollo técnico a las asociaciones de los usuarios de los distritos y unidades de riego y drenaje pluvial.
 
 X.- Promover e impulsar, en coordinación con las dependencias estatales, la construcción de obras que permitan la captación y el aprovechamiento del agua para diversos usos, así como también en sistemas de riego.
 
@@ -251,9 +327,19 @@ V.- Las demás que otras disposiciones legales le confieran.
 
 ### CAPÍTULO III. DE LA JUNTA CENTRAL DE AGUA Y SANEAMIENTO DEL ESTADO DE CHIHUAHUA
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 9.
 
-La Junta Central es un organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propios, con funciones de autoridad administrativa para organizar, dirigir, coordinar, evaluar y, en su caso, auditar y fiscalizar a los organismos operadores, en los términos de los artículos 42 y 43 de la Ley Orgánica del Poder Ejecutivo, así como para llevar a cabo el Programa Hidráulico del Estado, en coordinación con las dependencias y entidades estatales vinculadas a la materia del agua. El domicilio legal de la Junta Central se asienta en la Capital del Estado.
+La Junta Central es un organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propios, gozará de autonomía técnica, operativa y de gestión, con funciones de autoridad administrativa para organizar, dirigir, coordinar, evaluar y, en su caso, auditar y fiscalizar a las juntas operadoras, así como para llevar a cabo los Programas Hidráulico e Hídrico del Estado, en coordinación con las dependencias y entidades estatales y organismos operadores municipales vinculados a la materia del agua. El domicilio legal de la Junta Central se asienta en la Capital del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Para el correcto desempeño de sus atribuciones, la Junta Central contará con una Dirección Ejecutiva, una Dirección Financiera, una Dirección Jurídica, una Dirección Técnica, así como las Direcciones, Subdirecciones y demás unidades técnico administrativas que sean necesarias para cumplir sus objetivos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+De igual manera contará con un órgano de control interno, con dependencia jerárquica y funcional de la Secretaría encargada del Control Interno del Ejecutivo, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
 
 ###### Artículo 10.
 
@@ -261,7 +347,9 @@ La Junta Central tendrá las siguientes atribuciones:
 
 A) En materia Institucional:
 
-I.- Coordinar las acciones del Estado, municipios y particulares, y de éstos con la Federación, cuando así corresponda, en obras de agua potable y saneamiento.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+I.- Coordinar las acciones del Estado, municipios y particulares, y de estos con la Federación, cuando así corresponda, en obras de agua potable, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
 
 II.- La formulación, seguimiento, control y evaluación del Programa Sectorial de Aprovechamiento Sustentable del Agua en el Estado, así como en la ejecución de los estudios, proyectos y obras de infraestructura hidráulica.
 
@@ -271,7 +359,9 @@ IV.- Realizar estudios y proyectos que permitan definir las políticas a aplicar
 
 V.- Elaborar el Programa Institucional, verificando periódicamente la relación que guardan sus actividades, así como los resultados de su ejecución con los objetivos y prioridades establecidos en el mismo programa.
 
-VI.- Fomentar y dirigir las acciones de investigación y desarrollo tecnológico en materia de agua, incluyendo la difusión, formación y capacitación de recursos humanos a nivel estatal y municipal.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VI.- Promover el desarrollo de la investigación científica para la evaluación cuantitativa y cualitativa, preservación, protección y restauración del agua en cantidad y calidad, incluyendo la difusión, formación y capacitación de recursos humanos del orden estatal y municipal; para su aprovechamiento sustentable y uso racional, así como para la incorporación de procedimientos y tecnologías orientadas a su uso eficiente y conservación en la prestación de los servicios públicos.
 
 VII.- Administrar las aguas de jurisdicción estatal.
 
@@ -281,31 +371,49 @@ IX.- Participar, en los términos de los convenios correspondientes, en los comi
 
 X.- Coordinar la participación del Ejecutivo del Estado y promover la de los municipios en la gestión de las aguas nacionales, en el marco que establece la legislación federal en la materia.
 
-B) En materia de servicios de agua potable, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-I.- Vigilar la organización, administración y funcionamiento de las juntas municipales y rurales de agua y saneamiento.
+B) En materia de servicios de agua potable, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos:
 
-II.- Proporcionar asesoría y asistencia técnica a los organismos operadores en general, y organizar el cuerpo del servicio profesional de agua y saneamiento de carácter permanente y con funciones especializadas en el área técnica, financiera y administrativa, cuyos miembros deberán cubrir el requisito de formación profesional y capacitación correspondiente; de igual modo, prestar servicios de apoyo, dirección, vigilancia, fiscalización y auditoría, sin perjuicio de las facultades del Congreso del Estado, a los organismos operadores y comités de agua establecidas en el Estado.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+I.- Vigilar la organización, administración y funcionamiento de las juntas operadoras, de los organismos operadores municipales, así como de los comités del agua.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+II.- Proporcionar asesoría y asistencia técnica a las juntas operadoras y, previo convenio, a los organismos operadores municipales, así como organizar el cuerpo del servicio profesional de agua y saneamiento de carácter permanente y con funciones especializadas en el área técnica, financiera y administrativa, cuyos miembros deberán cubrir el requisito de formación profesional y capacitación correspondiente; de igual modo, prestar servicios de apoyo, dirección, vigilancia, fiscalización y auditoría, sin perjuicio de las facultades del Congreso del Estado, a las juntas operadoras y comités del agua establecidos en el Estado, y a estos últimos conforme a los lineamientos que para tal efecto emita la Junta Central aprobados por su Consejo de Administración.
 
 III.- Prever el desarrollo de las poblaciones para determinar las fuentes de abastecimiento de agua potable, redes de distribución y colectores, así como las plantas de tratamiento de aguas residuales y disposición final de lodos.
 
 IV.- Designar a su propio personal, mismo que deberá cubrir el perfil del puesto a ocupar, satisfaciendo los estándares de calificación en su ramo.
 
-V.- Auditar y fiscalizar, en su caso, todos los ingresos y egresos de las juntas municipales y rurales, sin perjuicio de las facultades de otras autoridades en la materia.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+V.- Auditar y fiscalizar, en su caso, todos los ingresos y egresos de las juntas operadoras y comités del agua, sin perjuicio de las facultades de otras autoridades en la materia.
 
 VI.- Aprobar los proyectos de tarifas para el cobro de los derechos de agua, saneamiento y demás, que le sean propuestos por las juntas municipales y rurales.
 
-VII.- Aprobar en el mes de noviembre su proyecto de presupuesto de ingresos y egresos y los anteproyectos de las juntas municipales y rurales, a propuesta de éstas, que deberán regir en el año siguiente.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-VIII.- Ejecutar obras de infraestructura hidráulica, en los términos de los convenios que al efecto se celebren con los municipios, el Estado y la Federación.
+VII.- Elaborar su proyecto de ingresos y egresos, así como recibir los anteproyectos de ingresos y egresos de las juntas operadoras a más tardar en la primera quincena del mes de noviembre del año anterior al que corresponda su vigencia, lo que someterá a la aprobación del Consejo de Administración a más tardar en la segunda quincena del mismo mes.
 
-IX.- Rendir informes al Titular del Poder Ejecutivo del Estado, sobre movimientos financieros, tanto en lo referente a la Junta Central de Agua y Saneamiento del Estado, como a las juntas municipales y rurales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Invertir y ejecutar, en su caso, obras de infraestructura hidráulica, con el objeto de captar, potabilizar, almacenar, distribuir y sanear el agua, así como las demás referentes a la prestación de los servicios materia de la presente Ley, en los términos de los convenios que al efecto se celebren con los municipios, el Estado, la Federación y demás instituciones públicas o privadas, nacionales e internacionales.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IX.- Rendir informes al Titular del Poder Ejecutivo del Estado, sobre movimientos financieros, tanto en lo referente a la Junta Central de Agua y Saneamiento del Estado, como a las juntas operadoras.
 
 X.- Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio para el cumplimiento de sus objetivos, en los términos de la Ley.
 
-XI.- Promover el establecimiento y difusión de normas relativas a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución del agua, drenaje, alcantarillado, saneamiento de aguas residuales y disposición final de lodos.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-XII.- Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica, administrativa y legal a los organismos operadores, así como a los comités de agua en el Estado.
+XI.- Promover el establecimiento y difusión de normas relativas a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución del agua, alcantarillado sanitario, saneamiento de aguas residuales, disposición final de lodos y para el drenaje pluvial a cargo de los municipios.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XII.- Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica, administrativa y legal a las juntas operadoras, así como a los comités del agua en el Estado; tratándose de organismos operadores municipales, deberá existir convenio previo.
 
 XIII.- Supervisar las obras de infraestructura hidráulica para que éstas se ejecuten conforme a las especificaciones, proyectos, precios y programas aprobados, conforme lo dispuesto en esta Ley y demás disposiciones relativas y aplicables.
 
@@ -323,11 +431,19 @@ I.- Sus activos y pasivos.
 
 II.- Las aportaciones y bienes transferidos por la Federación, el Estado y los municipios que en su caso se realicen, así como las aportaciones que los organismos operadores lleven a cabo.
 
-III.- El cinco por ciento de la totalidad de los ingresos por derechos mensuales percibidos por los servicios públicos prestados a cargo de las juntas municipales y rurales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+III.- El cinco por ciento de la totalidad de los ingresos por derechos mensuales percibidos por los servicios públicos prestados a cargo de las juntas operadoras.
 
 Para los efectos anteriores, se entenderá por ingresos aquellos que correspondan a las percepciones realmente ingresadas derivadas de los derechos por la prestación del servicio, así como los derechos por obras y proyectos por fraccionamiento y otros desarrollos urbanos.
 
-Esta aportación no será exigible en el supuesto de que una junta municipal o rural arroje déficit operativo en su estado financiero, siendo una facultad discrecional de la Junta Central, por conducto de su Consejo Directivo, determinar el monto a aportar en cada caso.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+La omisión a la obligación señalada en los párrafos anteriores será sancionada en los términos que disponga la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Las aportaciones señaladas tienen el carácter de prioritarias y preferentes frente a cualquier otra erogación prevista por el presupuesto de egresos de las juntas operadoras, por lo que será responsabilidad de la Dirección Ejecutiva de cada una de estas vigilar el cumplimiento de lo anterior.
 
 IV.- Los créditos que obtenga para el cumplimiento de sus fines.
 
@@ -337,219 +453,567 @@ VI.- Los remanentes, frutos, utilidades, productos, intereses y ventas que obten
 
 VII.- Los demás bienes y derechos que adquiera por cualquier título legal.
 
-Los bienes afectos directamente a la Junta Central y a sus organismos operadores serán inembargables, imprescriptibles e inalienables.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-Los bienes inmuebles de la Junta Central y los de sus organismos operadores, destinados directamente a la prestación de los servicios públicos hidráulicos estatales a que se refiere la presente Ley, se consideran bienes del dominio público del Estado.
+Los bienes afectos directamente a la Junta Central y a las juntas operadoras serán inembargables, imprescriptibles e inalienables.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Los bienes inmuebles de la Junta Central y de las juntas operadoras, destinados directamente a la prestación de los servicios públicos hidráulicos estatales a que se refiere la presente Ley, se consideran bienes del dominio público del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Los ingresos percibidos con motivo del cobro de las tarifas por los servicios de laboratorio que presta a los usuarios, deberán ser destinados exclusivamente para el uso, funcionamiento y mejoramiento del laboratorio, así como cualquier otro ingreso obtenido por los servicios que preste este.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 12.
 
-La Junta Central tendrá un Consejo Directivo integrado por:
+La Junta Central tendrá un Consejo de Administración, integrado por:
 
-I.- Un Presidente, que a su vez lo será de la Junta Central, nombrado por el Gobernador del Estado.
+I. Una persona que ocupe la Presidencia, quien será nombrada y removida por el Gobernador del Estado.
 
-II.- Un Tesorero y un Secretario, nombrados por el Gobernador del Estado.
+II. Una Secretaría, nombramiento que recaerá en la persona que ocupe la titularidad de la Dirección Jurídica de la Junta Central, quien tendrá voz, pero sin voto.
 
-III.- Siete consejeros, que serán los titulares de las dependencias siguientes o los servidores públicos en quienes deleguen dicho carácter:
+III. Trece consejerías, que serán ocupadas por las personas titulares de las dependencias gubernamentales o los representantes de los sectores siguientes:
 
 a) La Secretaría General de Gobierno.
 
-b) La Secretaría de Comunicaciones y Obras Públicas.
+b) La Secretaría de Hacienda.
 
-c) La Secretaría de Desarrollo Urbano y Ecología.
+c) La Secretaría de Comunicaciones y Obras Públicas.
 
-d) La Secretaría de Desarrollo Rural.
+d) La Secretaría de Desarrollo Urbano y Ecología.
 
-e) La Secretaría de Salud.
+e) La Secretaría de Desarrollo Rural.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+f) La Secretaría de Salud.
 
-f) La Secretaría de la Función Pública
+g) La Secretaría de Desarrollo Municipal.
 
-g) El restante, nombrado por invitación del Presidente del Consejo Directivo.
+h) La Dirección Local de la Comisión Nacional del Agua.
 
-Los cargos de los consejeros serán honorarios, con excepción del Presidente, Tesorero y Secretario, quienes serán funcionarios de tiempo completo y podrán ser removidos libremente por quien los designó.
+i) Del Poder Legislativo del Estado, preferentemente quien ocupe la Presidencia de la Comisión Legislativa en la materia.
+
+j) Una persona representante del sector académico y/o de investigación.
+
+k) Dos personas representantes del sector empresarial, las cuales deberán ser una de la Región Norte, Noreste y Noroeste, y la otra de la Región Centro y Sur del Estado.
+
+l) Una persona representante de los Colegios de Profesionistas, relacionados con la problemática del agua.
+
+También formarán parte del Consejo las personas que ocupen la titularidad de las Direcciones Ejecutiva y Financiera, con derecho a voz, pero sin voto.
+
+Los cargos de la Consejería serán honoríficos, sin excepción, deberán desempeñar las funciones que el propio Consejo de Administración, la Ley y demás ordenamientos aplicables les asignen y ejercer por períodos cuya duración y escalonamiento provean al ejercicio autónomo de sus funciones, continuidad de sus acciones y equilibrio en sus decisiones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 12 Bis.
+
+Las personas que pretendan ocupar el cargo de Consejeros de los señalados en los incisos j), k) y l) del artículo 12, deberán cumplir con los siguientes requisitos:
+
+I. Tener una representatividad regional.
+
+II. Haberse desempeñado, durante al menos dos años, ya sea en los ámbitos profesional, empresarial, docente o de investigación, en actividades que proporcionen la experiencia necesaria en el sector del agua y/o administración para cumplir con las funciones de Consejería de la Junta.
+
+III. No haber sido funcionario público de cualquier orden de gobierno en el año inmediato anterior, ni haber ocupado cargos de elección popular o directivos en partido político alguno, en los tres años inmediatos anteriores al día de la designación.
+
+IV. No haber sido condenado mediante sentencia firme por delito doloso que le imponga pena de prisión, y tratándose de delitos patrimoniales dolosos, cualquiera que haya sido la pena.
+
+V. Para que pueda desempeñar sus funciones sin conflicto de interés y sin estar supeditado a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, deudores o acreedores o empleados de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general; concesionarios, consejeros, asesores o empleados de una persona moral que sea prestador de servicios, proveedor, contratista, deudor o acreedor de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 12 Ter.
+
+Los miembros del Consejo de Administración conformarán el Comité Técnico de Evaluación, quienes se encargarán de emitir oportunamente las convocatorias públicas abiertas necesarias para la renovación de los miembros por elección del Consejo de Administración, señalados en los incisos j), k) y l) del artículo 12, en la que señalarán las etapas completas para el procedimiento, criterios de evaluación de idoneidad de las personas aspirantes a miembros, fechas límites y plazos, sujetándose a los siguientes términos:
+
+a) Serán electos en el tercer y noveno semestres de cada administración estatal y entrarán en funciones al inicio del cuarto y décimo semestres, respectivamente.
+
+b) Podrán ser ratificados por el Consejo, por un período inmediato, en una sola ocasión.
+
+c) Podrá participar cualquier persona que tenga la ciudadanía mexicana que cumpla con los requisitos que señala la presente Ley.
+
+Para cada uno de las consejerías de los incisos j), k) y l), del artículo 12 se nombrará una persona suplente, quien entrará en funciones en caso de renuncia o remoción.
+
+Los cargos de las Consejerías serán honoríficos, sin excepción, deberán desempeñar las funciones que la Ley, los ordenamientos aplicables y el Consejo de Administración, les asignen, y ejercer por períodos cuya duración y escalonamiento provean al ejercicio autónomo de sus funciones, continuidad de sus acciones y equilibrio en sus decisiones.
+
+Las personas integrantes del Consejo que se desempeñan como funcionarias o servidoras públicas durarán en el cargo el término que dure su responsabilidad, pudiendo designar una persona suplente, quien deberá tener el nivel inmediato inferior, salvo el caso del integrante del Poder Legislativo.
+
+En caso de renuncia o remoción de una persona integrante de la Consejería de los señalados en los incisos j), k) y l) del artículo 12, el Consejo llamará al suplente por el término restante de su período.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 13.
 
-El Consejo Directivo de la Junta Central sesionará ordinariamente una vez al mes y extraordinariamente cuando así se convoque; sus acuerdos se asentarán en el Libro de Actas que para cada año corresponda; tendrá quórum legal con la mitad más uno de sus integrantes, y sus determinaciones se tomarán por mayoría simple de votos de los presentes, teniendo el Presidente voto de calidad en caso de empate.
+El Consejo de Administración de la Junta Central sesionará ordinariamente al menos seis veces al año, y extraordinariamente cuando así se convoque.
+
+Las Sesiones del Consejo serán dirigidas por quien ocupe la Presidencia.
+
+El Consejo se instalará válidamente con la presencia de la mayoría de las personas integrantes.
+
+Todas sus sesiones deberán de ser públicas y transmitirse en vivo vía electrónica; cada sesión deberá celebrarse de acuerdo a un orden del día, el cual se dará a conocer a los miembros del Consejo, por lo menos con dos días hábiles de anticipación en los casos de sesiones ordinarias, y con doce horas de anticipación en los casos de sesiones extraordinarias; sus acuerdos se asentarán en el acta correspondiente, en la que se consignarán, por lo menos, los integrantes del Consejo que estuvieron presentes y las resoluciones aprobadas, misma que deberá ser inscrita en el Libro de Actas que para cada año corresponda.
+
+Sus acuerdos y determinaciones se tomarán por mayoría simple de votos de las personas presentes y, en caso de empate, tendrá la Presidencia voto de calidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 13 Bis.
+
+El Consejo de Administración de la Junta Central tendrá las siguientes facultades:
+
+I. Nombrar y remover a las personas que ocupen la titularidad de la Dirección Ejecutiva, así como de las del nivel de Dirección.
+
+II. Nombrar a las personas que ocupen la titularidad de las Presidencias de los Consejos de Administración de las juntas operadoras, a partir de la terna que los mismos Consejos de Administración le envíen y, en su caso, removerlos.
+
+III. Nombrar y remover, en su calidad de Comité Técnico de Evaluación, a las personas que ocupen la titularidad (sic) las Consejerías por elección.
+
+IV. Aprobar los proyectos de ingresos y egresos, y demás servicios que preste.
+
+V. Conocer de los informes sobre los estados financieros de la Junta Central y de las juntas operadoras, sin perjuicio de las facultades del Congreso del Estado, en la materia.
+
+VI. Aprobar los ingresos y egresos, los estados financieros, así como los derechos de cobro, las tarifas o, en su caso, sus modificaciones, correspondientes a las juntas operadoras.
+
+VII. Aprobar el Programa Operativo Anual de la Junta Central y de las juntas operadoras.
+
+VIII. Autorizar la solicitud al H. Congreso del Estado para contratar el financiamiento para obras, servicios y amortización de pasivos de la Junta Central y las juntas operadoras.
+
+IX. Aprobar las erogaciones de carácter extraordinario del presupuesto.
+
+X. Determinar la política financiera que deba prevalecer en el cobro de los derechos, cuotas o tarifas, así como en los lineamientos de bonificaciones que deban implementar las juntas operadoras.
+
+XI. Autorizar la solicitud al H. Congreso del Estado para contratar créditos y garantías por parte de las juntas operadoras.
+
+XII. Aprobar la contratación de deuda a corto plazo, de conformidad a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+XIII. Aprobar la enajenación de bienes inmuebles de la Junta Central, sin perjuicio de lo establecido en la legislación aplicable.
+
+XIV. Aprobar la enajenación de bienes muebles de la Junta Central, así como de las juntas operadoras. En el caso de bienes muebles de las juntas operadoras, se deberá someter a aprobación cuando el valor del bien sea superior a un importe de treinta y cinco veces el valor diario de la Unidad de Medida y Actualización, elevados al año, sin considerar los impuestos que genere dicha operación.
+
+XV. Aprobar la celebración de contratos de obra y adquisiciones, servicios profesionales, saneamiento, tratamiento de aguas residuales, disposición final de lodos y demás actos de la Junta Central y, en su caso, de las juntas operadoras, así como todos los actos de carácter extraordinario.
+
+XVI. Aprobar la transmisión de apoyos económicos de la Junta Central a las juntas operadoras y organismos operadores municipales, o entre estos últimos.
+
+XVII. Definir el ámbito de competencia de las juntas operadoras.
+
+XVIII. Aprobar el reglamento interior de la Junta Central y de las juntas operadoras.
+
+XIX. Aprobar el Estatuto Orgánico de la Junta Central y sus modificaciones; así como los manuales de organización y de procedimientos.
+
+XX. Aprobar su estructura orgánica, así como la de las juntas operadoras.
+
+XXI. Realizar todas las actividades que sean necesarias, en el ámbito de su competencia, para lograr que las juntas operadoras presten a la comunidad servicios adecuados y eficientes, de conformidad con la presente Ley y demás normatividad aplicable.
+
+XXII. Las demás que señale esta Ley, su Reglamento el Código Administrativo del Estado de Chihuahua, el Estatuto Orgánico y otras disposiciones legales.
 
 ###### Artículo 14.
 
 Para ser titular de la Junta Central se requiere ser ciudadano mexicano y tener experiencia en el sector público o privado.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 14 Bis.
+
+Para ocupar el cargo de titular de la Dirección Ejecutiva de la Junta Central se requiere:
+
+I. Contar con estudios profesionales y haberse desempeñado en actividades que proporcionen la experiencia técnica y administrativa, necesaria para cumplir con sus funciones.
+
+II. Para que pueda desempeñar sus funciones sin conflicto de interés y sin estar supeditado a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, deudores o acreedores de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general; concesionarios, consejeros, asesores o empleados de una persona moral que sea prestador de servicios, proveedor, contratista, deudor o acreedor de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general.
+
+Quien ocupe la titularidad de la Dirección Ejecutiva de la Junta Central será aprobada por el Consejo, a propuesta de quien lo presida, y participará en las reuniones del Consejo de Administración con derecho a voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 15.
 
-Son facultades del Presidente de la Junta Central:
+Son facultades de la Presidencia del Consejo de Administración de la Junta Central, de forma enunciativa pero no limitativa:
 
-I.- Representar legalmente a la Junta Central, con las más amplias facultades de administración y pleitos y cobranzas, aun aquellas que requieran autorización especial; formular querellas y denuncias; otorgar el perdón extintivo de la pretensión punitiva; elaborar y absolver posiciones; promover y desistirse de acciones judiciales, inclusive del juicio de amparo; comprometer asuntos en arbitraje y celebrar transacciones; emitir, avalar y negociar títulos de crédito; otorgar poderes generales y especiales con las facultades que les competan, entre ellas, las que requieran cláusula especial o autorización, así como sustituir y revocar mandatos o poderes generales o especiales. Para realizar actos de dominio sobre bienes del régimen de dominio privado, requerirá acuerdo previo del Consejo Directivo. Así mismo, podrá delegar funciones y facultades mediante acuerdo específico.
+I. Presidir las sesiones del Consejo.
 
-II.- Ejecutar los acuerdos del Consejo Directivo.
+II. Representar al Consejo.
 
-III.- Suscribir y formalizar, a nombre de las juntas municipales y rurales, acuerdos, convenios y demás actos jurídicos con la Federación, municipios y organismos nacionales e internacionales. Además, supervisar la aplicación de los programas federales y estatales en materia de agua.
+III. Convocar a sesiones ordinarias y extraordinarias del Consejo de Administración.
 
-IV.- Someter al Consejo Directivo para su aprobación, los proyectos de presupuestos de ingresos y egresos, así como los estados financieros, sin perjuicio de las facultades del Congreso del Estado, en la materia.
+IV. Solicitar a la Secretaría General de Gobierno la publicación en el Periódico Oficial del Estado, de las tarifas correspondientes o, en su caso, de sus modificaciones.
 
-V.- Convocar, por conducto del Secretario, a sesiones ordinarias y extraordinarias del Consejo Directivo.
+V. Someter al Consejo de Administración, para su aprobación, los proyectos de ingresos y egresos, y las tarifas por los servicios que preste.
 
-VI.- Solicitar la publicación en el Periódico Oficial del Estado, de las tarifas o, en su caso, de sus modificaciones, correspondientes a sus organismos operadores.
+VI. Someter al Consejo de Administración los informes de los estados financieros de la Junta Central, sin perjuicio de las facultades del Congreso del Estado, en la materia.
 
-VII.- Elaborar el Programa Operativo Anual de la Junta Central y someterlo a la aprobación del Consejo Directivo.
+VII. Supervisar la implementación del Programa Operativo Anual.
 
-VIII.- Supervisar la implementación del Programa Operativo Anual.
+VIII. Gestionar la obtención de contratos de financiamiento para obras, servicios y amortización de pasivos, previa autorización del Consejo de Administración, y aprobación del Poder Legislativo, en los términos de la legislación aplicable.
 
-IX.- Coordinar las actividades técnicas, administrativas y financieras de la Junta Central y sus organismos operadores, para lograr una mayor eficiencia y eficacia.
+IX. Proponer para la aprobación del Consejo de Administración, a solicitud de la Dirección Ejecutiva, la política financiera que deba prevalecer en el cobro de los derechos, cuotas o tarifas, así como en los lineamientos de bonificaciones, ajustes y descuentos que deban implementar los organismos operadores.
 
-X.- Gestionar y obtener, previa autorización del Consejo Directivo, el financiamiento para obras, servicios y amortización de pasivos, así como suscribir en nombre de la Junta Central junto con el Tesorero, créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas o privadas.
+X. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la Administración Pública Centralizada o Paraestatal, así como con los sectores social y privado, para el trámite y atención de asuntos de interés común.
 
-Para el ejercicio de las facultades a que se refiere esta fracción, deberá obtenerse previamente la autorización del Poder Legislativo, en los términos de la legislación aplicable.
+XI. Vigilar el cumplimiento de las disposiciones de esta Ley, su Reglamento y demás ordenamientos aplicables, a través de las dependencias y personal de la Junta Central que se determine.
 
-XI.- Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo Directivo las de carácter extraordinario.
+XII. Someter a la aprobación del Consejo de Administración, el proyecto de Estatuto Orgánico del Organismo y sus modificaciones; así como los manuales de organización y de procedimientos.
 
-XII.- Determinar la política financiera que deba prevalecer en el cobro de los derechos, cuotas o tarifas, así como en los lineamientos de bonificaciones, que deban implementar sus organismos operadores.
+XIII. Someter a la aprobación del Consejo de Administración, a solicitud de la Dirección Ejecutiva, el orden de prioridad de las acciones y obras, a fin de que los recursos se orienten hacia aquellas que tengan mayor impacto económico y beneficio social.
 
-XIII.- Rendir los informes siguientes:
+XIV. Evaluar el cumplimiento de los objetivos y metas planteados por las juntas operadoras.
+
+XV. Evaluar, cuando así se requiera, los créditos que se otorguen a las juntas municipales y rurales.
+
+XVI. Las demás que le señalen el Consejo de Administración, la presente Ley, su Reglamento, estatutos y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 15 Bis.
+
+Son facultades y obligaciones de la Dirección Ejecutiva de la Junta Central:
+
+I. Representar legalmente a la Junta Central, ante las autoridades fiscales y administrativas, agrarias, mercantiles, penales, de la salud, del trabajo, y judiciales y demás, con las más amplias facultades generales, aun aquellas que requieran cláusulas especiales conforme a la ley; estará investido de poder general para pleitos y cobranzas, así como para actos de administración, previo acuerdo del Consejo de Administración; podrá suscribir títulos de créditos a nombre del organismo con firma mancomunada de quien ocupe la titularidad de la Dirección Financiera; formular querellas y denuncias; otorgar el perdón extintivo de la pretensión punitiva; elaborar y absolver posiciones; promover y desistirse de acciones judiciales, inclusive del juicio de amparo; comprometer asuntos en arbitraje y celebrar transacciones; emitir, avalar y negociar títulos de crédito; otorgar poderes generales y especiales con las facultades que les competan, entre ellas, las que requieran cláusula especial o autorización, así como sustituir y revocar mandatos o poderes generales o especiales. Para realizar actos de dominio sobre bienes del régimen de dominio privado, requerirá acuerdo previo del Consejo de Administración. Así mismo, podrá delegar funciones y facultades mediante acuerdo específico.
+
+II. Suscribir y formalizar, a nombre de las juntas operadoras, acuerdos, contratos, convenios y demás actos jurídicos con la Federación, municipios y organismos nacionales e internacionales. Además, supervisar la aplicación de los programas federales y estatales en materia de agua.
+
+III. Coordinar las actividades técnicas, administrativas y financieras de la Junta Central, las juntas operadoras, organismos operadores municipales y comités del agua, para lograr una mayor eficiencia y eficacia.
+
+IV. Ejecutar los acuerdos del Consejo de Administración.
+
+V. Elaborar el Programa Operativo Anual de la Junta Central y someterlo a la aprobación del Consejo de Administración.
+
+VI. Suscribir, junto con quien ocupe la Dirección Financiera, en nombre de la Junta Central, los títulos de crédito, contratos y demás actos relativos al patrimonio de la Junta Central.
+
+Para el ejercicio de la facultad a que se refiere esta fracción, deberá obtenerse previamente la autorización del Poder Legislativo, en los términos de la legislación aplicable.
+
+VII. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo de Administración las de carácter extraordinario.
+
+VIII. Rendir los informes siguientes:
 
 a) Anual de actividades de la Junta Central.
 
-b) De cumplimiento de acuerdos del Consejo Directivo.
+b) De cumplimiento de acuerdos del Consejo de Administración.
 
-c) De resultados de los estados financieros.
+c) De resultados de los estados financieros de la Junta Central.
 
-d) Sobre el avance del cumplimiento del Programa Operativo Anual y de operación, autorizados por el Consejo Directivo.
+d) Mensual de actividades que incluya el Sistema de Indicadores, el Reporte de las Incidencias sobre la Observancia de la Normatividad Administrativa, el avance del cumplimiento del Programa Operativo Anual y las recomendaciones emitidas para corregir las observaciones detectadas.
 
-XIV.- Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la Administración Pública Centralizada o Paraestatal, así como con los sectores social y privado, para el trámite y atención de asuntos de interés común.
+IX. Nombrar y remover libremente al personal de la Junta Central, a excepción de las Direcciones, lo cual informará al Consejo de Administración en sesión inmediata posterior.
 
-XV.- Realizar todas las actividades que sean necesarias para lograr que los organismos operadores presten a la comunidad servicios adecuados y eficientes, de conformidad con los lineamientos técnicos, administrativos, financieros y legales a que haya lugar.
+X. Emitir dictámenes, así como efectuar rescisiones de los contratos, convenios, o cualquier acuerdo de voluntades celebrado con los empleados, usuarios, prestadores de servicios, proveedores, contratistas o cualquier persona física o moral, privada o pública.
 
-XVI.- Nombrar y remover libremente al personal de la Junta Central, procurando siempre que las designaciones seleccionadas cuenten con experiencia y solvencia moral en la prestación de los servicios públicos a que se refiere esta Ley, de todo lo cual informará al Consejo Directivo en sesión inmediata posterior.
+XI. Enviar al Consejo de Administración, para su aprobación, los lineamientos y políticas, técnicas, administrativas y financieras, necesarias para el ejercicio de las facultades de la Junta Central y las juntas operadoras.
 
-XVII.- Nombrar con carácter de provisional a los titulares de los organismos operadores, hasta en tanto el Ejecutivo expida el nombramiento definitivo; en ningún caso aquél excederá de un año.
+XII. Supervisar a las juntas operadoras y, en su caso, a los organismos operadores municipales, realizando la auditoría correspondiente.
 
-XVIII.- Avalar, cuando así se requiera, los créditos que se otorguen a las juntas municipales y rurales.
+XIII. Proponer al Consejo de Administración la conformación de juntas distritales.
 
-XIX.- Las demás que señale esta Ley, el Código Administrativo, el Estatuto Orgánico y el Reglamento de esta Ley.
+XIV. Vigilar que los bienes propiedad de la Junta Central cumplan con todos los requisitos legales y se encuentren debidamente inventariados, a través de la Dirección Jurídica y la Dirección Financiera, respectivamente.
+
+XV. Tramitar y resolver las quejas que, por conducto del personal de la Junta Central, se presenten en relación al funcionamiento o administración general de la Junta Central, según los procedimientos y normas que señale el reglamento.
+
+XVI. Calificar las infracciones a esta Ley e imponer las sanciones correspondientes, recaudando las pecuniarias a través del procedimiento administrativo de ejecución correspondiente.
+
+XVII. Ordenar que se practiquen las visitas de inspección y verificación, por medio de su propio personal, de las juntas operadoras o de quien designe.
+
+XVIII. Ordenar que se practiquen en forma regular y periódica, por medio de su propio personal, de las juntas operadoras o de quien designe, la toma de muestras y análisis del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable.
+
+XIX. Ordenar que se lleve una bitácora de la operación de los aprovechamientos de agua, por medio de su propio personal, de las juntas operadoras o de quien designe, en la que se registre en forma regular y periódica caudales y volúmenes alumbrados, profundidad de los niveles estáticos y dinámicos, consumos de energía, eficiencia electromecánica y cualquier otro indicador relevante que permita diagnosticar el estado de funcionamiento del aprovechamiento, del equipo hidráulico y electromecánico instalado, con la finalidad de prever en forma oportuna acciones correctivas, de mantenimiento o de reposición. Adicionalmente esta información se considera importante para la elaboración de estudios relacionados con el funcionamiento de los acuíferos en forma regional y local, así como en el desarrollo de proyectos hidráulicos para el suministro de agua potable a la población.
+
+XX. Resolver sobre los recursos administrativos de revocación que se interpongan en contra de actos que emita la Junta Central y las juntas operadoras, en su carácter de autoridad.
+
+XXI. Realizar los estudios y análisis técnicos, económicos y financieros necesarios para evaluar la relación costo-beneficio de las obras y su impacto social.
+
+XXII. Elaborar y actualizar los indicadores institucionales de la Junta Central y sus organismos dependientes, así como coadyuvar en el establecimiento de estándares de calidad y productividad para cada indicador institucional.
+
+XXIII. Formular el programa de operación y calidad de la Junta Central y de las juntas operadoras, y someterlo a la autorización del Consejo de Administración e implantarlo.
+
+XXIV. Instrumentar, de manera sistemática, los programas de mejora de la gestión y las evaluaciones de resultado de las diferentes áreas que integran la Junta Central y las juntas operadoras.
+
+XXV. Presentar al Consejo de Administración, para su aprobación, los estados financieros mensuales elaborados por la Dirección Financiera.
+
+XXVI. Realizar todas las actividades que sean necesarias, dentro de su ámbito de competencias, para lograr que las juntas operadoras presten a la comunidad servicios adecuados y eficientes, de conformidad con la ley y los lineamientos técnicos, administrativos, financieros y legales a que haya lugar.
+
+XXVII. Las demás que le correspondan de acuerdo con esta Ley, el Código Administrativo del Estado de Chihuahua, los estatutos y los reglamentos respectivos o los que le otorgue el Consejo de Administración.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 16.
 
-Son atribuciones del Tesorero:
+Son atribuciones de la Dirección Financiera:
 
-I.- Establecer los lineamientos de cobro y recaudación de los fondos, de acuerdo al proyecto de ingresos y egresos de la Junta Central y de las juntas municipales y rurales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+I.- Establecer los lineamientos contables de cobro y recaudación de los fondos provenientes de los presupuestos de ingresos y egresos de la Junta Central y las juntas operadoras.
 
 II.- Cubrir las erogaciones de acuerdo al presupuesto de egresos.
 
-III.- Realizar, el día último de cada mes, el corte de caja para determinar el movimiento de ingresos y egresos, que deberá someterse a la aprobación del Presidente y, posteriormente, a la del Consejo Directivo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-IV.- Fiscalizar, en su caso, a los organismos operadores, realizando la auditoría correspondiente y, de acuerdo con su resultado, iniciar el procedimiento legal que corresponda o determinar los ajustes administrativos a que haya lugar.
+III.- Realizar, el día último de cada mes, el corte de caja para determinar el movimiento de ingresos y egresos y elaborar los informes financieros mensuales, que deberán someterse a la aprobación del Consejo de Administración.
 
-V.- Llevar la contabilidad y el control de presupuestos de ingresos y egresos de la Junta Central y hacer las observaciones necesarias respecto a la de sus organismos operadores.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-VI.- Intervenir en todos los actos que tengan relación con la afectación al patrimonio de la Junta Central o el de sus organismos operadores.
+IV.- Supervisar, en su caso, a las juntas operadoras, realizando la auditoría correspondiente y, de acuerdo con su resultado, iniciar el procedimiento legal que corresponda o determinar los ajustes administrativos a que haya lugar.
 
-VII.- Las demás que le otorgue la presente Ley y demás ordenamientos legales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+V.- Llevar la contabilidad y el control de presupuestos de ingresos y egresos de la Junta Central y hacer las observaciones necesarias respecto a la (sic) de las juntas operadoras.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VI.- Intervenir en todos los actos que tengan relación con la afectación al patrimonio de la Junta Central o el de las juntas operadoras.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VII.- Dar la opinión técnica respecto al estado que guarda la hacienda pública para la contratación de créditos, garantías y préstamos que realice la Junta Central a las juntas operadoras, y remitirlas al Consejo de la Junta Central para su aprobación.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Autorizar la transmisión de apoyos económicos de la Junta Central a las juntas operadoras y organismos operadores municipales, o entre estos últimos, cuando la cantidad sea de un monto inferior a 35 veces el valor diario de Unidades de Medida y Actualización elevados al año.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IX.- Participar en las reuniones del Consejo de Administración con derecho a voz, pero sin voto.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+X.- Las demás que le otorgue la presente Ley y otros ordenamientos legales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 17.
 
-El Secretario tendrá las siguientes atribuciones:
+La Secretaría del Consejo de Administración, tendrá las siguientes atribuciones:
 
-I.- Suscribir las convocatorias para las sesiones del Consejo Directivo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-II.- Levantar las actas correspondientes a las sesiones del Consejo Directivo.
+I.- Suscribir las convocatorias para las sesiones del Consejo de Administración.
 
-III.- Llevar el control y resguardo de los libros de actas del Consejo Directivo y expedir copias certificadas y anexos de éstas.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-IV.- Llevar la correspondencia y archivo relacionado con el Consejo Directivo, y expedir las certificaciones que sean necesarias respecto de aquella información, documentación y demás que emanen o tengan relación directa con la Junta Central, con motivo de las actividades propias.
+II.- Levantar las actas correspondientes a las sesiones del Consejo de Administración.
 
-V.- Someter al Consejo Directivo, para su aprobación, propuestas y solicitudes de los organismos operadores.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-VI.- Llevar el control del cumplimiento de los acuerdos del Consejo Directivo.
+III.- Llevar el control y resguardo de los libros de actas del Consejo de Administración y expedir copias certificadas y anexos de estas.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IV.- Llevar la correspondencia y archivo relacionado con el Consejo de Administración, y expedir las certificaciones que sean necesarias respecto de aquella información, documentación y demás que emanen o tengan relación directa con la Junta Central, con motivo de las actividades propias.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+V.- Someter al Consejo de Administración, para su aprobación, propuestas y solicitudes de los organismos operadores.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VI.- Llevar el control del cumplimiento de los acuerdos del Consejo de Administración.
 
 VII.- Las demás que señale la presente Ley y demás disposiciones aplicables.
 
-### CAPÍTULO IV. DE LOS ORGANISMOS OPERADORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO IV. DE LAS JUNTAS OPERADORAS
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 18.
 
-Las juntas municipales de agua y saneamiento son organismos públicos descentralizados del Poder Ejecutivo, bajo la coordinación sectorial de la Junta Central, de conformidad con lo señalado en los artículos 42 y 43 de la Ley Orgánica del Poder Ejecutivo, facultados para la prestación de los servicios de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos, requeridos dentro de una circunscripción territorial determinada. El domicilio legal de dichas juntas será dentro del municipio en el que operen.
+Las juntas municipales de agua y saneamiento son organismos públicos descentralizados del Poder Ejecutivo, bajo la coordinación sectorial de la Junta Central, de conformidad con lo señalado en los artículos 42 y 43 de la Ley Orgánica del Poder Ejecutivo, facultados para la prestación de los servicios de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos, requeridos dentro de una circunscripción territorial determinada. El domicilio legal de dichas juntas será dentro del municipio en el que operen.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 19.
 
-Las juntas municipales requerirán de la autorización expresa de la Junta Central para:
+Para el correcto desarrollo de sus atribuciones, las juntas municipales contarán con una Dirección Ejecutiva, una Dirección Financiera, y de acuerdo a su capacidad financiera, podrán contar con las Direcciones Jurídica y Técnica, así como con las Direcciones, Subdirecciones y demás áreas técnico administrativas necesarias para cumplir con sus objetivos.
 
-I.- Contratar créditos, suscribir títulos de crédito y garantías.
+De igual manera contará con un órgano de control interno, con dependencia jerárquica y funcional de la Secretaría encargada del Control Interno del Ejecutivo, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
 
-II.- Enajenar bienes muebles e inmuebles, sin perjuicio de la autorización del Congreso del Estado.
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2017)</small>
-
-III. Celebrar contratos de obra y adquisiciones, servicios profesionales, saneamiento, tratamiento de aguas residuales, disposición final de lodos y demás actos que asciendan a un importe de cinco veces el valor diario de la Unidad de Medida y Actualización, elevados al año, sin considerar los impuestos que genere dicha operación.
-
-IV.- Determinar e implementar su estructura orgánica.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 20.
 
-Las juntas municipales tendrán un Consejo Directivo integrado por:
+Las juntas municipales tendrán un Consejo de Administración integrado por:
 
-I.- Un Presidente, nombrado por el Gobernador del Estado.
+I. Una Presidencia, cuyo titular será nombrado y removido por el Consejo de Administración de la Junta Central, a propuesta de una terna que le envíe el Consejo de Administración de la junta municipal, conformada por personas externas al propio Consejo de Administración de la junta municipal, y deberá representar la pluralidad de los integrantes.
 
-II.- Un Secretario, nombrado por el Ayuntamiento.
+II. La Secretaría, nombramiento que recaerá en quien ocupe la Dirección Jurídica o Financiera, con voz, pero sin voto.
 
-III.- Un Tesorero, nombrado por el Presidente del Consejo Directivo de la Junta Central.
+III. Doce Consejerías, que serán ocupadas por las personas titulares de las dependencias gubernamentales o los representantes de los sectores siguientes:
 
-IV.- Siete consejeros, que serán los titulares o representantes en quienes deleguen dicho carácter, de las siguientes instituciones y dependencias:
+a) La persona titular de la Presidencia Municipal, quien podrá nombrar un suplente que tenga el cargo de titular de la Dirección de Desarrollo Urbano o, en su caso, de la Dirección de Obras Públicas.
 
-a) La Secretaría de Desarrollo Urbano y Ecología de Gobierno del Estado.
+b) Cuatro representantes de Gobierno del Estado, quienes deberán ser:
 
-b) La Secretaría de Salud de Gobierno del Estado.
+1. Una persona de la Secretaría de Hacienda, designada por quien ocupe la titularidad de esa Secretaría.
 
-c) La Cámara de Propietarios de Bienes Raíces.
+2. Una persona de la Junta Central, designada por la persona titular de la Dirección Ejecutiva.
 
-d) La Cámara Nacional de Comercio, Servicios y Turismo.
+3. Una persona de la Secretaría de Salud, designada por quien ocupe la titularidad de dicha Secretaría.
 
-e) La Cámara Nacional de la Industria de la Transformación.
+4. Una persona de la Secretaría de Desarrollo Rural, designada por quien ocupe la titularidad de esa Secretaría.
 
-f) La Cámara Mexicana de la Industria de la Construcción.
+c) Quien ocupe la Presidencia de la Comisión de Desarrollo Urbano o de Obras Públicas del Ayuntamiento.
 
-g) Un representante de los trabajadores al servicio de las juntas municipales, a propuesta de la mayoría de éstos.
+d) Un representante del sector académico y/o investigación.
 
-Los cargos serán honorarios con excepción de los de Presidente y Tesorero, quienes serán funcionarios de tiempo completo.
+e) Tres representantes del sector empresarial.
 
-En aquellos municipios en donde no se cuente con alguna de las Cámaras señaladas, se considerarán en su lugar representantes de las organizaciones de productores, profesionistas u organizaciones de la sociedad civil con mayor representatividad en el municipio.
+f) Un representante de los Colegios de Profesionistas, relacionados con la problemática del agua.
+
+g) Un representante de la Sociedad Civil Organizada relacionada con la problemática del agua.
+
+También formarán parte del Consejo las personas que ocupen la titularidad de las Direcciones Ejecutiva y Financiera, con derecho a voz, pero sin voto.
+
+En aquellos municipios en donde no se cuente con alguna de las organizaciones o colegios señalados, se considerarán en su lugar representantes de las organizaciones de productores, profesionistas u organizaciones de la sociedad civil con mayor representatividad en el municipio, siempre y cuando cumplan con los requisitos señalados en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 20 Bis.
+
+La persona que se designe titular de la Presidencia del Consejo, será electa en el segundo y octavo semestres de cada administración estatal, por el Consejo de Administración de la Junta Central, a propuesta de una terna enviada por el propio Consejo de Administración de la junta municipal que corresponda, conformada por personas externas al propio Consejo de Administración de la junta municipal, deberá representar la pluralidad de los integrantes, y entrará en funciones al inicio del tercero y noveno semestres, respectivamente; con posibilidad de ser ratificada por un período inmediato, en una sola ocasión. Su cargo será honorífico y podrá ser removida de sus funciones por causas graves, con el voto de la mayoría de los miembros del Consejo de Administración de la Junta Central.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 20 Ter.
+
+Las personas que pretendan ocupar el cargo de Consejeros de los señalados en los incisos d), e), f) y g) del artículo 20, deberán cumplir con los siguientes requisitos:
+
+I. Haberse desempeñado, durante al menos dos años, ya sea en los ámbitos profesional, empresarial, docente o de investigación, en actividades que proporcionen la experiencia necesaria en el sector del agua y/o administrativa para cumplir con las funciones de la consejería de la junta municipal.
+
+II. No haber sido funcionario público de cualquier orden de gobierno en el año inmediato anterior, ni haber ocupado cargos de elección popular o directivos en partido político alguno, en los tres años inmediatos anteriores al día de la designación.
+
+III. No haber sido condenado mediante sentencia firme por delito doloso que le imponga pena de prisión, y tratándose de delitos patrimoniales dolosos, cualquiera que haya sido la pena.
+
+IV. Para que puedan desempeñar sus funciones sin conflicto de interés y sin estar supeditados a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, deudores o acreedores o empleados de la Junta Central o cualquiera de los organismos operadores del Estado en general; concesionarios, consejeros, asesores o empleados de una persona moral que sea prestador de servicios, proveedor, contratista, deudor o acreedor importante de la Junta Central o cualquiera de los organismos operadores del Estado en general.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Artículo 20 Cuáter.- Los integrantes del Consejo de Administración conformarán el Comité Técnico de Evaluación, quienes se encargarán de emitir oportunamente las convocatorias públicas abiertas necesarias para la renovación de los miembros por elección del Consejo de Administración, mencionados en los incisos d), e), f) y g) del artículo 20, en la que señalarán las etapas completas para el procedimiento, criterios de evaluación de idoneidad de las personas aspirantes a integrar el Consejo, fechas límites y plazos, sujetándose a los siguientes términos:
+
+a) Las personas aspirantes al cargo de Consejería serán electas en el tercer y noveno semestres de cada administración estatal, y entrarán en funciones al inicio del cuarto y décimo semestres, respectivamente.
+
+b) Podrán ser ratificadas por un período inmediato, en una sola ocasión.
+
+c) Podrá participar cualquier persona que tenga la ciudadanía mexicana y que cumpla con los requisitos que señala la presente Ley.
+
+Para cada una de las consejerías mencionadas en los incisos d), e), f) y g) del artículo 20, se nombrará una persona suplente quien entrará en funciones en caso de renuncia o remoción.
+
+Los cargos de la Consejería serán honoríficos, sin excepción, deberán desempeñar las funciones que el propio Consejo de Administración, la Ley y demás ordenamientos aplicables les asignen, y ejercer por períodos cuya duración y escalonamiento provean al ejercicio autónomo de sus funciones, continuidad de sus acciones y equilibrio en sus decisiones.
+
+Los integrantes del Consejo que se desempeñan como servidores públicos durarán en el cargo el término que dure su responsabilidad.
+
+En caso de renuncia o remoción de una persona integrante de la Consejería de los señalados en los incisos d), e), f) y g) del artículo 20, el Consejo llamará al suplente por el término restante de su período.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 20 Quinquies.
+
+La persona que ocupe la titularidad de la Dirección Ejecutiva de la Junta Municipal será nombrada y removida por el Consejo de Administración de la Junta Central, el nombramiento será a propuesta de una terna que presente el Consejo de Administración de la Junta Municipal. Participará en las reuniones del Consejo de Administración de la Junta Municipal con derecho a voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 21.
 
-Los consejos directivos de las juntas municipales sesionarán ordinariamente una vez al mes y extraordinariamente cuando así se convoque; sus acuerdos se asentarán en el Libro de Actas que para cada año corresponda; tendrá quórum legal con la mitad más uno de sus integrantes, siempre y cuando la mayoría de sus asistentes sean representantes de la Administración Pública Estatal, y sus determinaciones se tomarán por mayoría simple de votos de los presentes, teniendo el Presidente voto de calidad en caso de empate.
+Los Consejos de Administración de las juntas municipales sesionarán ordinariamente una vez al mes y extraordinariamente cuando así se convoque.
 
-Los miembros de los consejos directivos de las juntas municipales serán designados cada seis años y podrán ser removidos en cualquier tiempo.
+Las Sesiones del Consejo serán dirigidas por quien ocupe la Presidencia.
+
+El Consejo se instalará válidamente con la presencia de la mayoría de los integrantes.
+
+Todas sus sesiones deberán de ser públicas y transmitirse vía electrónica, en su caso, en vivo; cada sesión deberá celebrarse de acuerdo a un orden del día, el cual se dará a conocer a los miembros del Consejo, por lo menos con dos días hábiles de anticipación en los casos de sesiones ordinarias, y con doce horas de anticipación en los casos de sesiones extraordinarias; sus acuerdos se asentarán en el acta correspondiente, en la que se consignarán, por lo menos, los integrantes que estuvieron presentes y las resoluciones aprobadas, misma que deberá ser inscrita en el Libro de Actas que para cada año corresponda.
+
+Sus acuerdos y determinaciones se tomarán por mayoría simple de votos de los presentes y, en caso de empate, tendrá la Presidencia voto de calidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 21 Bis.
+
+El Consejo de Administración de las Juntas Municipales tendrá las siguientes facultades:
+
+I. Proponer, al Consejo de la Junta Central, una terna para la elección de las personas que ocupen la Presidencia del Consejo de Administración, conformada por personas externas al propio Consejo de Administración de la junta municipal y deberá representar la pluralidad de los integrantes, así como una terna para ocupar la Dirección Ejecutiva.
+
+II. Aprobar los nombramientos de las personas aspirantes a ser titulares de las Direcciones de la Junta Municipal y, en su caso, su remoción.
+
+III. Nombrar y remover, en su calidad de Comité Técnico de Evaluación, a los integrantes de la Consejería por elección.
+
+IV. Aprobar los proyectos de ingresos y egresos, y demás servicios que preste.
+
+V. Conocer de los informes sobre los estados financieros de la junta operadora y remitirlos al Consejo de la Junta Central para su conocimiento, sin perjuicio de las facultades del Congreso del Estado, en la materia.
+
+VI. Autorizar los derechos de cobro, las tarifas y sus modificaciones por la prestación de los servicios, y remitirlos al Consejo de la Junta Central para su aprobación.
+
+VII. Autorizar el proyecto del Programa Operativo Anual y remitirlo al Consejo de la Junta Central para su aprobación.
+
+VIII. Autorizar la solicitud al H. Congreso del Estado para contratar el financiamiento para obras, servicios y amortización de pasivos de las juntas operadoras y remitirla al Consejo de la Junta Central para su aprobación, sin perjuicio de las facultades del Congreso del Estado, en la materia.
+
+IX. Autorizar la solicitud al H. Congreso del Estado para contratar el financiamiento para llevar a cabo la construcción de las obras y adquisición de equipos que requieran, para los sistemas de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos y, en su caso, el alcantarillado pluvial, para la amortización de pasivos, y remitirla al Consejo de la Junta Central para su aprobación, sin perjuicio de las facultades del Congreso del Estado, en la materia.
+
+X. Aprobar el informe anual de actividades y remitirlo al Consejo de la Junta Central para su conocimiento.
+
+XI. Conocer de las erogaciones de carácter extraordinario y remitirlas al Consejo de la Junta Central para su aprobación, cuando el valor sea superior a un importe de treinta y cinco veces el valor diario de la Unidad de Medida y Actualización, elevados al año.
+
+XII. Autorizar la solicitud al H. Congreso del Estado para contratar créditos y garantías por parte de la junta operadora y remitirla al Consejo de la Junta Central para su aprobación, sin perjuicio de las facultades del Congreso del Estado, en la materia.
+
+XIII. Autorizar la solicitud al Consejo de la Junta Central para su aprobación, de contratación de deuda a corto plazo, de conformidad a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+XIV. Autorizar la enajenación de bienes inmuebles de la junta municipal, sin perjuicio de la aprobación del Consejo de Administración de la Junta Central y del H. Congreso del Estado, de acuerdo a la normatividad aplicable.
+
+XV. Aprobar la enajenación de bienes muebles de la junta municipal, cuando el valor de los bienes muebles de las juntas operadoras, sea superior a un importe de treinta y cinco veces el valor diario de la Unidad de Medida y Actualización, elevados al año, sin considerar los impuestos que genere dicha operación, se deberá someter a aprobación del Consejo de Administración de la Junta Central.
+
+XVI. Aprobar la celebración de contratos de obra y adquisiciones, servicios profesionales, saneamiento, tratamiento de aguas residuales, disposición final de lodos y demás actos de la junta operadora, así como todos los actos de carácter extraordinario.
+
+XVII. Autorizar su propuesta de estructura orgánica y remitirla al Consejo de Administración de la Junta Central para su aprobación.
+
+XVIII. Realizar todas las actividades que sean necesarias, en el ámbito de su competencia, para lograr que las juntas operadoras presten a la comunidad servicios adecuados y eficientes, de conformidad con la presente Ley y demás normatividad aplicable.
+
+XIX. Las demás que señale esta Ley, el Reglamento, el Código Administrativo del Estado, el Estatuto Orgánico y otras disposiciones legales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 22.
 
-Las juntas municipales tienen las siguientes atribuciones:
+Las juntas operadoras tienen las siguientes atribuciones:
 
-I.- Prestar y administrar los servicios de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos en las poblaciones del municipio de que se trate y acatar las instrucciones administrativas, técnicas, financieras y legales que reciban de la Junta Central.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-II.- Recaudar los ingresos por concepto de pago de servicios de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
+I.- Prestar y administrar los servicios de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos en las poblaciones del municipio de que se trate y acatar las instrucciones administrativas, técnicas, financieras y legales que reciban de la Junta Central.
 
-III.- Elaborar sus reglamentos interiores.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-IV.- Formular los programas de obra y someterlos a la aprobación del Consejo Directivo de la Junta Central.
+II.- Recaudar los ingresos por concepto de pago de servicios de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
 
-V.- Elaborar el informe anual de actividades, para someterlo a la aprobación del Consejo Directivo de la Junta Central.
+III.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2017)
 
-VI.- Proponer a la Junta Central para su aprobación, la designación de sus funcionarios y empleados, así como su estructura orgánica.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-VII.- Llevar la contabilidad conforme a los lineamientos que le señale la Junta Central.
+IV.- Formular el proyecto de Programa Operativo Anual y someterlo a la aprobación del Consejo de Administración de la Junta Central.
 
-VIII.- Acordar y ejecutar la suspensión de los contratos de adhesión de prestación de servicios de agua potable, drenaje, alcantarillado, saneamiento y tratamiento de aguas residuales, en los términos que establezca el reglamento y respetando en todo momento la garantía de audiencia.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-IX.- Planear, programar y gestionar el financiamiento para llevar a cabo la construcción de las obras y adquisición de equipos que requieran, para los sistemas de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos y, en su caso, el alcantarillado pluvial.
+V.- Elaborar el informe anual de actividades, y remitirlo al Consejo de Administración de la Junta Central para su conocimiento.
+
+VI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VII.- Llevar la contabilidad conforme a los lineamientos que le señale la Junta Central y en términos de las leyes respectivas.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VIII.- Acordar y ejecutar la suspensión de los contratos de adhesión de prestación de servicios de agua potable, alcantarillado sanitario, saneamiento y tratamiento de aguas residuales, en los términos que establezca el reglamento y respetando en todo momento la garantía de audiencia.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IX.- Planear, programar y gestionar el financiamiento para llevar a cabo la construcción de las obras y adquisición de equipos que requieran, para los sistemas de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos y, en su caso, el alcantarillado pluvial.
 
 X.- Practicar y regular periódicamente muestras y análisis del agua, llevar estadísticas de sus resultados y tomar las medidas necesarias para garantizar la calidad del agua que se distribuye a la población, así como vigilar que una vez utilizada, se vierta a los cauces o vasos, de conformidad con la legislación aplicable.
 
-XI.- Formular el anteproyecto de presupuesto de ingresos y egresos, y someterlo para su aprobación a la Junta Central.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-XII.- Proponer anualmente para su aprobación a la Junta Central, los derechos de cobro, las tarifas y sus modificaciones por la prestación de los servicios para el cobro de servicios, tomando en cuenta, entre otros, el criterio de estimular y privilegiar el ahorro del agua.
+XI.- Formular el anteproyecto de presupuesto de ingresos y egresos, y someterlo para su autorización a su Consejo de Administración.
 
-XIII.- Las demás que le fijen otras disposiciones legales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XII.- Proponer anualmente para su autorización al Consejo de Administración de la Junta Central, los derechos de cobro, las tarifas y sus modificaciones por la prestación de los servicios para el cobro de estos, tomando en cuenta, entre otros, el criterio de estimular y privilegiar el ahorro del agua.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XIII.- Las demás que fijen esta Ley y otras disposiciones legales.
 
 ###### Artículo 23.
 
@@ -571,31 +1035,123 @@ VII.- Los demás bienes y derechos que adquiera por cualquier título legal.
 
 Los bienes afectos directamente a las juntas municipales serán inembargables, imprescriptibles e inalienables.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 23 Bis.
+
+Para ocupar el cargo de titular de la Presidencia de la Junta Operadora se requiere tener la ciudadanía mexicana y contar con experiencia en el sector público o privado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 23 Ter.
+
+Para ocupar el cargo de titular de la Dirección Ejecutiva en las Juntas Municipales se requiere:
+
+I. Contar con estudios profesionales y haberse desempeñado en actividades que proporcionen la experiencia técnica y administrativa, necesaria para cumplir con sus funciones.
+
+II. Para que pueda desempeñar sus funciones sin conflicto de interés y sin estar supeditado a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, deudores o acreedores de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general; concesionarios, consejeros, asesores o empleados de una persona moral que sea prestador de servicios, proveedor, contratista, deudor o acreedor de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 24.
 
-Los presidentes de las juntas municipales, tienen las siguientes facultades y atribuciones:
+Son facultades de la Presidencia del Consejo de la Junta Municipal, de forma enunciativa pero no limitativa:
 
-I.- Ejecutar los acuerdos de su Consejo Directivo y las instrucciones que reciba de la Junta Central o del Consejo Directivo de esta última.
+I. Dirigir las sesiones del Consejo.
 
-II.- Suscribir, junto con el Tesorero y previa aprobación de la Junta Central, los títulos de crédito, contratos y demás actos relativos al patrimonio de la Junta.
+II. Representar al Consejo.
 
-III.- Representar legalmente a la junta municipal, con las más amplias facultades de administración y pleitos y cobranzas, aun aquellas que requieran autorización especial; formular querellas y denuncias; otorgar el perdón extintivo de la pretensión punitiva; elaborar y absolver posiciones; promover y desistirse de acciones judiciales, inclusive del juicio de amparo; comprometer asuntos en arbitraje y celebrar transacciones; emitir, avalar y negociar títulos de crédito; otorgar poderes generales y especiales con las facultades que les competan, entre ellas, las que requieran cláusula especial o autorización, así como sustituir y revocar mandatos o poderes generales o especiales. Para realizar actos de dominio sobre bienes del régimen de dominio privado, requerirá acuerdo previo del Consejo Directivo y del Consejo Directivo de la Junta Central. Así mismo, podrá delegar funciones y facultades mediante acuerdo específico.
+III. Proponer al Consejo de Administración los programas operativos anuales.
 
-IV.- Proponer los programas anuales de actividades.
+IV. Convocar a sesiones ordinarias y extraordinarias del Consejo de Administración.
 
-V.- Imponer sanciones disciplinarias de acuerdo con el Reglamento Interior de Trabajo.
+V. Gestionar la obtención de contratos de financiamiento para obras, servicios y amortización de pasivos, previa autorización del Consejo de Administración, y aprobación del Poder Legislativo, en los términos de la legislación aplicable.
 
-VI.- Convocar a sesiones ordinarias y extraordinarias del Consejo Directivo.
+VI. Someter al Consejo de Administración para su aprobación, los anteproyectos de ingresos y egresos y las tarifas por los servicios que preste.
 
-VII.- Gestionar y obtener, previa autorización de su Consejo Directivo, así como de la Junta Central, el financiamiento para obras, servicios y amortización de pasivos, para firmar en su nombre los contratos de crédito, suscribir títulos de crédito y demás obligaciones ante instituciones públicas o privadas.
+VII. Someter al Consejo de Administración los informes de los estados financieros de la junta operadora, sin perjuicio de las facultades del H. Congreso del Estado, en la materia.
 
-VIII.- Someter al Consejo Directivo para su aprobación, los anteproyectos de presupuestos de ingresos y egresos y estados financieros, y enviarlos a la Junta Central para su aprobación en el mes de noviembre.
+VIII. Supervisar la implementación del Programa Operativo Anual.
 
-IX.- Las demás que le fijen otras disposiciones legales.
+IX. Proponer para la aprobación del Consejo de Administración, a solicitud de la Dirección Ejecutiva, la política financiera que deba prevalecer en el cobro de los derechos, cuotas o tarifas, así como en los lineamientos de bonificaciones, ajustes y descuentos que deban implementar los organismos operadores.
+
+X. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la Administración Pública Centralizada o Paraestatal, así como con los sectores social y privado, para el trámite y atención de asuntos de interés común.
+
+XI. Vigilar el cumplimiento de las disposiciones de esta Ley, su Reglamento y demás ordenamientos aplicables, a través de las dependencias y personal de la propia Junta Municipal que se determine.
+
+XII. Someter, a solicitud de la Dirección Ejecutiva, a la aprobación del Consejo de Administración el orden de prioridad de las acciones y obras, a fin de que los recursos se orienten hacia aquellas que tengan mayor impacto económico y beneficio social.
+
+XIII. Evaluar el cumplimiento de los objetivos y metas planteados por las juntas operadoras.
+
+XIV. Evaluar, cuando así se requiera, los créditos que se otorguen a las juntas municipales y rurales.
+
+XV. Las demás que le (sic) señale la presente Ley, su Reglamento, el Consejo de Administración, los estatutos y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 24 Bis.
+
+Las Direcciones Ejecutivas de las Juntas Municipales, tienen las siguientes obligaciones, facultades y atribuciones:
+
+I. Representar legalmente a la Junta Municipal, ante las autoridades fiscales y administrativas, agrarias, mercantiles, penales, de la salud, del trabajo y judiciales, y demás, con las más amplias facultades generales, aun aquellas que requieran cláusulas especiales conforme a la ley; estará investido de poder general para pleitos y cobranzas, así como para actos de administración; previo acuerdo del Consejo de Administración, podrá suscribir títulos de créditos a nombre del organismo con firma mancomunada de quien ocupe la Dirección Financiera; formular querellas y denuncias; otorgar el perdón extintivo de la pretensión punitiva; elaborar y absolver posiciones; promover y desistirse de acciones judiciales, inclusive del juicio de amparo; comprometer asuntos en arbitraje y celebrar transacciones; emitir; avalar y negociar títulos de crédito; otorgar poderes generales y especiales con las facultades que les competan, entre ellas, las que requieran cláusula especial o autorización, así como sustituir y revocar mandatos o poderes generales o especiales. Para realizar actos de dominio sobre bienes del régimen de dominio privado, requerirá acuerdo previo del Consejo de Administración. Así mismo, podrá delegar funciones y facultades mediante acuerdo específico.
+
+II. Ejecutar los acuerdos de su Consejo de Administración y las instrucciones que reciba de la Junta Central o del Consejo de Administración de esta última.
+
+III. Suscribir, junto con quien ocupe la Dirección Financiera, los títulos de crédito, contratos y demás actos relativos al patrimonio de la Junta.
+
+IV. Imponer sanciones disciplinarias de acuerdo con el Reglamento Interior de Trabajo y demás normatividad aplicable.
+
+V. Someter al Consejo de Administración para su autorización, los anteproyectos de ingresos y de egresos y los informes de los estados financieros, y enviarlos al Consejo de Administración de la Junta Central para su aprobación, en la primera quincena del mes de noviembre.
+
+VI. Contar con los Proyectos Maestros para Mejoramiento de los Servicios que presta y actualizarlos, en su caso, cada seis años, de conformidad con el Plan Estatal de Desarrollo, así como de los programas sectoriales, regionales, especiales e institucionales que correspondan.
+
+VII. Rendir al Consejo de Administración los informes siguientes:
+
+a) Anual de actividades.
+
+b) De cumplimiento de acuerdos del Consejo de Administración.
+
+c) De resultados de los estados financieros.
+
+d) Mensual de actividades que incluya el Sistema de Indicadores, el reporte de las Incidencias sobre la Observancia de la Normatividad Administrativa, el avance del cumplimiento de los Programas Operativo Anual y de Operación y las recomendaciones emitidas para corregir las observaciones detectadas.
+
+VIII. Nombrar y remover libremente al personal de la Junta Municipal, a excepción de las Direcciones, lo cual informará al Consejo de Administración en sesión inmediata posterior.
+
+IX. Verificar la realización de los estudios y análisis técnicos, económicos y financieros necesarios para evaluar la relación costo-beneficio de las obras y su impacto social.
+
+X. Elaborar y actualizar los indicadores institucionales de la Junta Municipal, en coordinación con la Junta Central, así como coadyuvar en el establecimiento de estándares de calidad y productividad para cada indicador institucional.
+
+XI. Formular el programa de operación y calidad de la Junta, y someterlo a la autorización del Consejo de Administración e implantarlo.
+
+XII. Instrumentar de manera sistemática, los programas de mejora continua y las evaluaciones de resultado de las diferentes áreas que integran la Junta Municipal.
+
+XIII. Integrar en el informe mensual, el sistema de indicadores, el reporte de las incidencias sobre la observancia de la normatividad administrativa y las recomendaciones emitidas para corregir las observaciones detectadas, y presentarlo a su Consejo de Administración.
+
+XIV. Realizar todas las actividades que sean necesarias para lograr que la Junta Municipal preste a la comunidad servicios adecuados y eficientes, de conformidad con los lineamientos técnicos, administrativos, financieros y legales a que haya lugar.
+
+XV. Nombrar a las personas que habrán de desempeñarse como inspectores, ejecutores, visitadores, verificadores y notificadores, los cuales tendrán fe pública para los trámites relacionados con el organismo operador; las facultades, funciones y obligaciones de estos se determinarán en el reglamento.
+
+XVI. Las demás que le correspondan de acuerdo con esta Ley, el Código Administrativo del Estado, los estatutos y los reglamentos respectivos o los que le otorgue el Consejo de Administración.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 25.
 
-El Secretario y el Tesorero tendrán las mismas facultades que los de la Junta Central, en el ámbito de su competencia.
+La Secretaría del Consejo tendrá las mismas facultades que la (sic) de la Junta Central, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 25 Bis.
+
+La Dirección Financiera tendrá las mismas facultades que la (sic) de la Junta Central, en el ámbito de su competencia, además de las siguientes:
+
+I. Formular los anteproyectos de presupuestos de ingresos y de egresos, y someterlos a la aprobación del Consejo de Administración.
+
+II. Formular el anteproyecto de los derechos de cobro, las tarifas y sus modificaciones, y someterlo a la aprobación del Consejo de Administración.
+
+III. Determinar los créditos fiscales y ejercer la facultad económica coactiva; designar y delegar a los funcionarios públicos necesarios para llevarla a cabo, así como emitir las resoluciones correspondientes, en términos del Código Fiscal del Estado de Chihuahua y demás ordenamientos aplicables.
+
+IV. Calificar las infracciones y sanciones a la Ley y demás normas aplicables e imponer las sanciones que procedan.
 
 ###### Artículo 26.
 
@@ -603,7 +1159,9 @@ En cuanto a los ingresos que obtengan por la prestación de los servicios establ
 
 Los ingresos por servicios de agua y saneamiento se destinarán exclusivamente a cubrir el costo de obras y administración, sin que por ningún motivo el Estado o los municipios puedan disponer de estos ingresos.
 
-La propuesta para la determinación de los derechos, cuotas o tarifas para el cobro de los servicios, es competencia de las juntas municipales y rurales, y su aprobación, del Consejo Directivo de la Junta Central.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+La propuesta para la determinación de los derechos, cuotas o tarifas para el cobro de los servicios, es competencia de las juntas operadoras, y su aprobación, del Consejo de Administración de la Junta Central.
 
 El sistema de cuotas y tarifas a que se refiere el artículo 6, fracción VIII, tomará como base para su determinación, los siguientes criterios de legalidad:
 
@@ -627,61 +1185,483 @@ i) Los gastos de saneamiento.
 
 j) Las inversiones propias.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-Las juntas rurales son organismos públicos descentralizados del Poder Ejecutivo, bajo la coordinación sectorial de la Junta Central, de conformidad con lo señalado en los artículos 42 y 43 de la Ley Orgánica del Poder Ejecutivo, facultados para la prestación de los servicios de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos, requeridos dentro de una circunscripción territorial determinada y bajo la estructura orgánica y atribuciones que serán las que apruebe la Junta Central.
+Las juntas rurales son organismos públicos descentralizados del Poder Ejecutivo, bajo la coordinación sectorial de la Junta Central, de conformidad con lo señalado en los artículos 42 y 43 de la Ley Orgánica del Poder Ejecutivo, facultados para la prestación de los servicios de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos, requeridos dentro de una circunscripción territorial determinada y bajo la estructura orgánica y atribuciones que serán las que apruebe la Junta Central.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 27 Bis.
+
+Las Juntas Distritales de Agua y Saneamiento son organismos públicos descentralizados del Poder Ejecutivo, bajo la coordinación sectorial de la Junta Central, de conformidad con lo señalado en los artículos 42 y 43 de la Ley Orgánica del Poder Ejecutivo, facultados para la prestación de los servicios de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos, de una demarcación geográfica determinada y bajo la estructura orgánica, atribuciones y domicilio, que serán las que apruebe el Consejo de Administración de la Junta Central.
+
+Se determinarán en base a criterios de autosuficiencia técnica, administrativa y financiera, con la finalidad (sic) contar con una prestación adecuada de los servicios públicos a cargo de las juntas operadoras y pueden comprender, de forma total o parcial, uno o varios municipios, una o varias juntas municipales, juntas rurales o comités del agua, en su caso.
+
+En cuanto a su organización, facultades y funcionamiento, se regirán por lo establecido en la presente Ley, en lo que se refiere a las juntas municipales.
+
+Cada una de las poblaciones que formen parte del Distrito de Servicio, siempre que no pertenezcan a la cabecera del mismo, podrá designar a un representante, mismo que, previa solicitud, podrá participar en las sesiones del Consejo de Administración que lo supedite, con voz, pero sin voto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO IV BIS. DE LAS AUTORIDADES MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 27 Ter.
+
+Los municipios, en los términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y del artículo 138 de la Constitución Política del Estado de Chihuahua, tienen a su cargo los servicios públicos de agua potable, alcantarillado sanitario, tratamiento y disposición de sus aguas residuales, observando lo establecido en esta Ley y las disposiciones de la Ley de Aguas Nacionales, considerando como servicios públicos todos aquellos prestados a usuarios que no posean derechos propios de explotación de aguas o vertido a cauces nacionales o de jurisdicción estatal.
+
+Los municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios de dos o más Estados, deberán contar con la aprobación de la Legislatura del Estado. Así mismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que este, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio.
+
+Cuando los municipios soliciten la transferencia para la prestación de los servicios de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos, se atenderá a lo dispuesto por la presente Ley, la Ley para la Transferencia de las Funciones y Servicios Públicos Municipales en el Estado de Chihuahua y demás aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Artículo 27 Cuáter.- De acuerdo con los términos del artículo 115 Constitucional y la Ley de Aguas Nacionales, corresponde a los municipios el saneamiento de las aguas residuales de los servicios a su cargo, por lo que el servicio de saneamiento será inherente a la prestación del servicio de agua potable, lo mismo que el pago de derechos y sanciones por vertido a cauces nacionales o de jurisdicción estatal, así como lo relativo al drenaje pluvial.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 27 Quinquies.
+
+Para la prestación de los servicios públicos de agua potable, alcantarillado sanitario, saneamiento, tratamiento y disposición final de sus aguas residuales, los ayuntamientos serán corresponsables con los organismos operadores municipales en:
+
+I. Vigilar la organización, administración y funcionamiento del organismo operador.
+
+II. Proporcionar asesoría y asistencia técnica a los organismos operadores.
+
+III. Auditar y fiscalizar, en su caso, todos los ingresos y egresos del organismo operador municipal, sin perjuicio de las facultades del Congreso del Estado y del Poder Ejecutivo, a través de la Junta Central y de otras autoridades en la materia.
+
+IV. Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica, administrativa y legal al organismo operador municipal.
+
+V. Verificar la calidad del agua potable suministrada, para que cumpla con las normas oficiales establecidas.
+
+VI. Verificar el cumplimiento del tratamiento de sus aguas residuales, así como el cumplimiento de las normas oficiales mexicanas para la disposición del efluente.
+
+VII. La reutilización y recirculación de las aguas servidas de forma que no generen impactos adversos.
+
+VIII. Las condiciones particulares de descarga conforme a la normatividad vigente.
+
+Para cumplir con lo anterior, podrán contar con el apoyo y asesoría de la Junta Central, previa solicitud al respecto y elaboración del convenio respectivo.
 
 ### CAPÍTULO V. DE LOS ORGANISMOS OPERADORES MUNICIPALES
 
-### CAPÍTULO I. SERVICIO DE AGUA EN BLOQUE
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 28.
 
-Cuando los municipios soliciten la transferencia para la prestación de los servicios de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos, se atenderá a lo dispuesto por la presente Ley y por la Ley para la Transferencia de las Funciones y Servicios Públicos Municipales en el Estado de Chihuahua.
+Cuando los municipios soliciten la transferencia para la prestación de los servicios de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos, se atenderá a lo dispuesto por la presente Ley y por la Ley para la Transferencia de las Funciones y Servicios Públicos Municipales en el Estado de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Los organismos operadores municipales son organismos públicos descentralizados del municipio en el que operan, con personalidad jurídica y patrimonios propios, así como autonomía técnica, financiera y administrativa, facultados para la prestación de los servicios de agua potable, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos, requeridos dentro del territorio municipal, conforme a lo establecido en los artículos 29 y 180 del Código Municipal para el Estado de Chihuahua. Su domicilio legal será dentro del municipio en el que operen.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Para el correcto desarrollo de sus atribuciones, los organismos operadores municipales contarán con una Dirección Ejecutiva, y de acuerdo a su capacidad financiera, podrán contar con una Dirección Financiera, una Jurídica y una Técnica, así como con las Direcciones, Subdirecciones y demás áreas técnico administrativas necesarias para cumplir con sus objetivos.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+También contará con un órgano de control interno, con dependencia jerárquica y funcional de la Secretaría encargada del Control Interno del Ejecutivo, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 29.
 
-Los municipios u organismos operadores municipales que no cuenten con la reglamentación correspondiente, en los términos del Artículo 115, fracción II, inciso e), de la Constitución Política de los Estados Unidos Mexicanos, y hasta en tanto se expida la misma, se sujetarán a las atribuciones siguientes:
+En el ámbito de su competencia, los organismos operadores municipales, tienen las atribuciones siguientes:
 
-I.- Prestar, en sus respectivas jurisdicciones, los servicios de agua, drenaje, alcantarillado, saneamiento de aguas residuales y disposición final de lodos.
+A. En materia institucional:
 
-II.- Participar, en coordinación con la Federación y el Estado, en el establecimiento de las políticas, lineamientos y especificaciones técnicas, conforme a los cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación, conservación, mejoramiento y mantenimiento de los sistemas de abastecimiento de agua potable, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
+I. Dar seguimiento al Programa Sectorial de Aprovechamiento Sustentable del Agua en el Estado, así como en la ejecución de los estudios, proyectos y obras de infraestructura hidráulica.
 
-III.- Planear y programar la prestación de los servicios de agua potable, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos, en los términos de esta Ley.
+II. Participar, en coordinación con la Federación, el Estado y el municipio, en el establecimiento de las políticas, lineamientos y especificaciones técnicas, conforme a los cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación, conservación, mejoramiento y mantenimiento de los sistemas de abastecimiento de agua potable, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos.
 
-IV.- Realizar, por sí o a través de terceros y de conformidad con esta Ley, las obras de infraestructura hidráulica, incluida su operación, conservación y mantenimiento.
+III. Promover y fomentar el uso eficiente y la preservación del agua, así como la cultura del agua como recurso escaso y vital.
 
-V.- Las demás que les otorguen la presente Ley u otras disposiciones legales en la materia a los organismos operadores, en tanto no vulneren su autonomía municipal.
+IV. Realizar estudios y proyectos que permitan definir las políticas a aplicar en acciones para el desarrollo de programas eficientes y prácticos para la construcción, mantenimiento, habilitación y equipamiento de infraestructura hidráulica en general, incluido el drenaje pluvial, así como evaluar las condiciones físicas de dicha infraestructura, de conformidad con lo establecido en los Capítulos II y III de esta Ley.
+
+V. Elaborar el Programa Institucional, verificando periódicamente la relación que guardan sus actividades, así como los resultados de su ejecución con los objetivos y prioridades establecidos en el mismo programa.
+
+VI. Fomentar y dirigir las acciones de investigación y desarrollo tecnológico en materia de agua, incluyendo la difusión, formación y capacitación de recursos humanos.
+
+VII. Participar, en los términos de los convenios correspondientes, en los comités directivos de las asociaciones de usuarios, asociaciones de productores y sociedades de responsabilidad limitadas de interés público y capital variable de los distritos de riego.
+
+VIII. Participar, en los términos de los convenios correspondientes, con instituciones académicas y de investigación para generar conocimiento e innovación tecnológica en materia del agua.
+
+B. En materia de servicios de agua potable, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos:
+
+I. Prestar y administrar, en sus respectivas jurisdicciones, los servicios materia de esta Ley.
+
+II. Recaudar los ingresos por concepto de pago de servicios prestados en materia de esta Ley.
+
+III. Formular los programas de obra y someterlos a la aprobación del Consejo de Administración.
+
+IV. Elaborar el informe anual de actividades, para someterlo a la aprobación del Consejo de Administración.
+
+V. Nombrar y remover libremente al personal del organismo operador municipal.
+
+VI. Llevar la contabilidad conforme a los lineamientos que señale el Consejo de Administración y las leyes respectivas.
+
+VII. Acordar y ejecutar la suspensión de los contratos de adhesión de prestación de servicios materia de esta Ley, en los términos que establezcan los lineamientos o el reglamento y respetando en todo momento la garantía de audiencia.
+
+VIII. Planear, programar y gestionar el financiamiento para llevar a cabo la construcción de las obras y adquisición de equipos que requieran, para los sistemas materia de esta Ley y, en su caso, el drenaje pluvial.
+
+IX. Realizar periódicamente muestras y análisis del agua; llevar estadísticas de sus resultados y tomar las medidas necesarias para garantizar la calidad del agua que se distribuye a la población, así como vigilar que una vez utilizada, se vierta a los cauces o vasos, de conformidad con la legislación aplicable.
+
+X. Formular los anteproyectos de ingresos y de egresos, y someterlos para su aprobación al Consejo de Administración.
+
+XI. Proponer anualmente para su aprobación al Consejo de Administración, el anteproyecto de los derechos de cobro, las tarifas y sus modificaciones por la prestación de los servicios para el cobro de servicios, tomando en cuenta, entre otros, el criterio de estimular y privilegiar el ahorro del agua.
+
+XII. Planear y programar la prestación de los servicios en los términos de esta Ley.
+
+XIII. Realizar, por sí o a través de terceros y de conformidad con esta Ley, las obras de infraestructura hidráulica, incluida su operación, conservación y mantenimiento, previa aprobación del Consejo de Administración.
+
+XIV. Organizar el cuerpo del servicio profesional de agua y saneamiento de carácter permanente y con funciones especializadas en el área técnica, financiera y administrativa, cuyos miembros deberán cubrir el requisito de formación profesional y capacitación correspondiente.
+
+XV. Prever el desarrollo de la población para determinar las fuentes de abastecimiento de agua potable, redes de distribución y colectores, así como las plantas de tratamiento de aguas residuales y disposición final de lodos.
+
+XVI. Presentar al Consejo de Administración, en la primera quincena del mes de octubre, los anteproyectos de ingresos y de egresos y los anteproyectos, que deberán regir en el año siguiente. Cualquier modificación al presupuesto autorizado requerirá la autorización del Consejo de Administración.
+
+XVII. Ejecutar obras de infraestructura hidráulica, en los términos de los convenios que al efecto se celebren con los municipios, el Estado y la Federación, previa aprobación del Consejo de Administración.
+
+XVIII. Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio para el cumplimiento de sus objetivos, en los términos de la Ley.
+
+XIX. Promover el establecimiento y difusión de normas relativas a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución del agua, alcantarillado sanitario, saneamiento de aguas residuales y disposición final de lodos.
+
+XX. Ejecutar las obras de infraestructura hidráulica de acuerdo a las especificaciones, proyectos, precios y programas aprobados por el Consejo de Administración, conforme a lo dispuesto en esta Ley y demás disposiciones relativas y aplicables.
+
+XXI. Evaluar la disponibilidad y calidad del agua como recurso natural, a fin de contar con la información requerida para coordinar, planear y, en su caso, administrar, en todo o en parte, la distribución de la misma en sus diferentes usos.
+
+XXII. Las demás que les otorguen la presente Ley u otras disposiciones legales en la materia a los organismos operadores, en tanto no vulneren su autonomía municipal.
+
+El ejercicio de estas atribuciones deberá apegarse a los planes, políticas, lineamientos y demás instrumentos derivados de lo establecido en los Capítulos II y III de esta Ley.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 30.
 
-Los organismos operadores municipales a que se refiere esta Ley, adoptarán las medidas necesarias para alcanzar su autonomía financiera en la prestación de los servicios de agua, drenaje, alcantarillado, saneamiento, tratamiento de aguas residuales y disposición final de lodos y establecerán los mecanismos de control necesarios para garantizar a los usuarios condiciones adecuadas de eficiencia, eficacia y transparencia.
+El patrimonio de los organismos operadores se integra por:
+
+I. Sus activos y pasivos.
+
+II. Las aportaciones y bienes transferidos por la Federación, el Estado y otros municipios que en su caso se realicen, así como las aportaciones que el organismo operador lleve a cabo.
+
+III. Los créditos que obtenga para el cumplimiento de sus fines.
+
+IV. Las donaciones, herencias, legados y demás aportaciones de los particulares, así como los subsidios y adjudicaciones a su favor.
+
+V. Los remanentes, frutos, utilidades, productos, intereses y ventas que obtenga de su propio patrimonio.
+
+VI. Los títulos, autorizaciones y demás instrumentos legales que le sean otorgados para la prestación de los servicios públicos, ya sea por alguna autoridad federal, estatal o municipal, de conformidad con la legislación correspondiente, los que por ningún motivo o circunstancia podrán ser utilizados en beneficio de persona alguna que no sea el propio organismo operador.
+
+VII. Los demás bienes y derechos que adquiera por cualquier título legal.
+
+Los bienes afectos directamente al organismo operador municipal serán inembargables e imprescriptibles.
+
+Los bienes inmuebles del organismo operador municipal se consideran bienes del dominio público del municipio.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 31.
 
-Los ingresos que obtengan los organismos operadores municipales a que se refiere esta Ley, por el cobro de los servicios públicos prestados, deberán destinarse única y exclusivamente al cumplimiento de lo señalado en la misma.
+En cuanto a los ingresos que obtengan por la prestación de los servicios establecidos en la presente Ley, en todo momento deberán destinarse al mejoramiento del servicio, sin que, por ningún motivo, los municipios puedan disponer de estos ingresos para fines distintos al objeto establecido en la presente Ley; en caso de incumplimiento, se impondrán las sanciones administrativas y/o penales que correspondan.
+
+Los organismos operadores municipales tienen la obligación de crear un Sistema de Cuotas y Tarifas que considere los distintos usos del agua; promueva el uso eficiente del recurso; racionalice los patrones de consumo; desaliente las actividades que impliquen demandas excesivas y propicie el uso de agua residual tratada en aquellas actividades donde no se requiera agua potable, el cual tomará como base para su determinación, los siguientes criterios de legalidad:
+
+a) El porcentaje de incremento de los insumos.
+
+b) Los costos de extracción de agua, según la zona.
+
+c) Los incrementos en el costo por consumo de energía eléctrica.
+
+d) Los incrementos en el servicio de cuota fija.
+
+e) Los incrementos en el servicio medido.
+
+f) El pago de derechos federales de extracción.
+
+g) Los gastos de operación.
+
+h) Los gastos administrativos.
+
+i) Los gastos de saneamiento.
+
+j) Las inversiones propias.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 31 Bis.
+
+Los organismos operadores municipales tendrán un Consejo de Administración, integrado por:
+
+I. La Presidencia del Consejo, que será quien ocupe la Presidencia del Ayuntamiento al que se refiera.
+
+II. La Secretará del Consejo, que será la persona titular de la Dirección Jurídica o Financiera, con voz, pero sin voto.
+
+III. Seis Consejerías:
+
+a) Quien ocupe la titularidad de la Dirección de Obras Públicas o Desarrollo Urbano; podrá designar a su respectivo suplente, y deberá tener el nivel inmediato inferior.
+
+b) Quien ocupe la Presidencia de la Comisión de Desarrollo Urbano del Ayuntamiento.
+
+c) Una persona representante del sector académico y/o investigación.
+
+d) Una persona representante del sector empresarial.
+
+e) Una persona representante de los Colegios de Profesionistas, relacionados con la problemática del agua.
+
+f) Una persona representante de la Sociedad Civil Organizada relacionada con la problemática del agua.
+
+En aquellos municipios en donde no se cuente con alguna de las organizaciones o colegios señalados, se considerarán en su lugar representantes de las organizaciones de productores, profesionistas u organizaciones de la sociedad civil con mayor representatividad en el municipio, siempre y cuando cumplan con los requisitos señalados en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 31 Ter.
+
+Las personas que pretendan ocupar alguna de las Consejerías, señaladas en los incisos c), d), e) y f) del artículo 31 BIS, deberán cumplir con los siguientes requisitos:
+
+I. Haberse desempeñado, durante al menos dos años, ya sea en los ámbitos profesional, empresarial, docente o de investigación, en actividades que proporcionen la experiencia necesaria en el sector del agua y/o administrativa para cumplir con las funciones de Consejería del organismo operador municipal.
+
+II. No haber sido funcionario público de cualquier orden de gobierno en el año inmediato anterior, ni haber ocupado cargos de elección popular o directivos en partido político alguno, en los tres años inmediatos anteriores al día de la designación.
+
+III. No haber sido condenado mediante sentencia firme por delito doloso que le imponga pena de prisión, y tratándose de delitos patrimoniales dolosos, cualquiera que haya sido la pena.
+
+IV. Para que puedan desempeñar sus funciones sin conflicto de interés y sin estar supeditados a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, deudores o acreedores o empleados de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales en general; concesionarios, consejeros, asesores o empleados de una persona moral que sea prestador de servicios, proveedor, contratista, deudor o acreedor importante de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales en general.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Artículo 31 Cuáter.- Los miembros de cada uno de los Consejos de Administración conformarán su respectivo Comité Técnico de Evaluación, que se encargará de emitir oportunamente las convocatorias públicas abiertas necesarias para la renovación de los miembros por elección de los Consejos de Administración, señalados en los incisos c), d), e) y f) del artículo 31 BIS, en la que señalarán las etapas completas para el procedimiento, criterios de evaluación de idoneidad de los aspirantes a miembros, fechas límites y plazos, para cada una de las consejerías se nombrará una persona suplente, quien entrará en funciones en caso de renuncia o remoción, sujetándose a los siguientes términos:
+
+a) Serán electas en el tercer semestre de cada administración municipal y entrarán en funciones al inicio del cuarto semestre.
+
+b) Podrán ser ratificados por un período inmediato, en una sola ocasión.
+
+c) Podrá participar cualquier persona con ciudadanía mexicana que cumpla con los requisitos que señala la presente Ley.
+
+En caso de renuncia o remoción de una persona que ocupe una Consejería de las señaladas en los incisos c), d), e) y f) del artículo 31 BIS, el Consejo llamará a la persona suplente por el término restante de su período.
+
+Los cargos de las personas que ocupen las Consejerías serán honoríficos, sin excepción, deberán desempeñar las funciones que el propio Consejo de Administración, la Ley y ordenamientos aplicables les asignen y ejercer por períodos cuya duración y escalonamiento provean al ejercicio autónomo de sus funciones, continuidad de sus acciones y equilibrio en sus decisiones.
+
+Las personas integrantes del Consejo que se desempeñan como servidoras públicas durarán en el cargo el término que dure su responsabilidad. Podrán ser removidos por causas graves o al término de su responsabilidad, conforme a las reglas y al procedimiento que establezca la Junta Central en la norma respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 31 Quinquies.
+
+Los Consejos de Administración de los organismos operadores municipales sesionarán ordinariamente una vez al mes, y extraordinariamente cuando así se convoque.
+
+Las sesiones del Consejo serán dirigidas por quien ocupe su Presidencia.
+
+El Consejo se instalará válidamente con la presencia de la mayoría de los integrantes.
+
+Todas sus sesiones deberán de ser públicas y transmitirse vía electrónica, en su caso, en vivo; cada sesión deberá celebrarse de acuerdo a un orden del día, el cual se dará a conocer a los miembros del Consejo, por lo menos con dos días hábiles de anticipación en los casos de sesiones ordinarias, y con veinticuatro horas de anticipación en los casos de sesiones extraordinarias; sus acuerdos se asentarán en el acta correspondiente, en la que se consignarán, por lo menos, las personas integrantes del Consejo que estuvieron presentes y las resoluciones aprobadas, misma que deberá ser inscrita en el Libro de Actas que para cada año corresponda; tendrá quórum legal con la mitad más uno de sus integrantes.
+
+Sus acuerdos y determinaciones se tomarán por mayoría simple de votos de los presentes y, en caso de empate, tendrá la Presidencia voto de calidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 31 Sexies.
+
+El Consejo de Administración de los organismos operadores municipales tendrá las siguientes facultades:
+
+I. Nombrar y remover a la persona que ocupe la titularidad de la Dirección Ejecutiva, y aprobar los nombramientos de las demás Direcciones.
+
+II. Nombrar y remover, en su calidad de Comité Técnico de Evaluación, a las personas de la Consejería por elección.
+
+III. Aprobar los presupuestos de ingresos y egresos, estados financieros, derechos de cobro, tarifas o, en su caso, sus modificaciones.
+
+IV. Aprobar el Programa Operativo Anual.
+
+V. Autorizar la solicitud al H. Congreso del Estado para contratar el financiamiento para obras, servicios y amortización de pasivos de la Junta Central y las juntas operadoras.
+
+VI. Aprobar los programas de obra.
+
+VII. Aprobar el programa e informe anual de actividades.
+
+VIII. Aprobar su estructura orgánica.
+
+IX. Autorizar la solicitud al H. Congreso del Estado para contratar financiamiento para llevar a cabo la construcción de las obras y adquisición de equipos que requieran, para los sistemas de agua, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales y disposición final de lodos y, en su caso, el alcantarillado pluvial, para la amortización de pasivos.
+
+X. Aprobar las erogaciones de carácter extraordinario.
+
+XI. Autorizar la solicitud al H. Congreso del Estado para contratar créditos y garantías por parte de las juntas operadoras.
+
+XII. Aprobar la enajenación de bienes muebles e inmuebles, sin perjuicio de la autorización del Congreso del Estado y normatividad aplicable.
+
+XIII. Aprobar la celebración de contratos de obra y adquisiciones, servicios profesionales, saneamiento, tratamiento de aguas residuales disposición final de lodos.
+
+XIV. Determinar la política financiera que deba prevalecer en el cobro de los derechos, cuotas o tarifas, así como en los lineamientos de bonificaciones, que deban implementar.
+
+XV. Aprobar el Estatuto Orgánico.
+
+XVI. Las demás que señale esta Ley, su Reglamento, el Código Administrativo del Estado de Chihuahua, el Estatuto Orgánico y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 31 Septies.
+
+Las Direcciones Ejecutivas de los organismos operadores municipales serán nombradas por su respectivo Consejo de Administración, a propuesta de una terna que presente la Presidencia Municipal. Participarán en las reuniones del Consejo de Administración con derecho a voz, pero sin voto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 31 Octies.
+
+Para ser titular de la Dirección Ejecutiva en los organismos operadores municipales se requiere:
+
+I. Contar con estudios profesionales y haberse desempeñado en actividades que proporcionen la experiencia técnica y administrativa, necesaria para cumplir con sus funciones.
+
+II. Para que pueda desempeñar sus funciones sin conflicto de interés y sin estar supeditado a intereses personales y/o económicos, no deberán ser prestadores de servicios, proveedores, contratistas, deudores o acreedores de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general; concesionarios, consejeros, asesores o empleados de una persona moral que sea prestador de servicios, proveedor, contratista, deudor o acreedor de la Junta Central o cualquiera de las juntas operadoras u organismos operadores municipales del Estado en general.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 31 Nonies.
+
+Son facultades de las Presidencias de los Consejos de los organismos operadores municipales, de forma enunciativa pero no limitativa:
+
+I. Presidir las sesiones del Consejo.
+
+II. Representar al Consejo.
+
+III. Convocar a sesiones ordinarias y extraordinarias del Consejo de Administración.
+
+IV. Solicitar a la Secretaría General de Gobierno, la publicación en el Periódico Oficial del Estado, de las tarifas o, en su caso, de sus modificaciones correspondientes.
+
+V. Proponer al Consejo de Administración y supervisar la implementación del Programa Operativo Anual.
+
+VI. Gestionar y obtener, previa autorización de su Consejo de Administración, el financiamiento para obras, servicios y amortización de pasivos, para firmar en su nombre los contratos de crédito, suscribir títulos de crédito y demás obligaciones ante instituciones públicas o privadas.
+
+Para el ejercicio de las facultades a que se refiere esta fracción, deberá obtenerse previamente la autorización del Poder Legislativo, en los términos de la legislación aplicable.
+
+VII. Someter a la aprobación del Consejo de Administración, la política financiera que deba prevalecer en el cobro de los derechos, cuotas o tarifas, así como en los lineamientos de bonificaciones, ajustes y descuentos que deban implementar los organismos operadores municipales.
+
+VIII. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la Administración Pública Centralizada o Paraestatal, así como con los sectores social y privado, para el trámite y atención de asuntos de interés común.
+
+IX. Vigilar el cumplimiento de las disposiciones de esta Ley, su Reglamento y demás ordenamientos aplicables, a través de las dependencias y personal que se determinen.
+
+X. Celebrar, con la autorización del Consejo de Administración, los actos jurídicos necesarios para la constitución de fideicomisos públicos.
+
+XI. Someter a la aprobación del Consejo de Administración, el proyecto de Estatuto Orgánico del Organismo y sus modificaciones; así como los manuales de organización y de procedimientos.
+
+XII. Establecer el orden de prioridad de las acciones y obras, a fin de que los recursos se orienten hacia aquellas que tengan mayor impacto económico y beneficio social.
+
+XIII. Evaluar el cumplimiento de los objetivos y metas planteadas.
+
+XIV. Las demás que le señale el Consejo de Administración, la presente Ley, su Reglamento, estatutos y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 31 Decies.
+
+Son obligaciones y facultades de las Direcciones Ejecutivas de los Organismos operadores municipales:
+
+I. Representar legalmente a los organismos operadores municipales, ante las autoridades fiscales y administrativas, agrarias, mercantiles, penales, de la salud, del trabajo y judiciales, y demás, con las más amplias facultades generales, aun aquellas que requieran cláusulas especiales conforme a la ley; estará investido de poder general para pleitos y cobranzas, así como para actos de administración; previo acuerdo del Consejo de Administración, podrá suscribir títulos de créditos a nombre del organismo con firma mancomunada de quien ocupe la Dirección Financiera; formular querellas y denuncias; otorgar el perdón extintivo de la pretensión punitiva; elaborar y absolver posiciones; promover y desistirse de acciones judiciales, inclusive del juicio de amparo; comprometer asuntos en arbitraje y celebrar transacciones; emitir, avalar y negociar títulos de crédito; otorgar poderes generales y especiales con las facultades que les competan, entre ellas, las que requieran cláusula especial o autorización, así como sustituir y revocar mandatos o poderes generales o especiales. Para realizar actos de dominio sobre bienes del régimen de dominio privado, requerirá acuerdo previo del Consejo de Administración. Así mismo, podrá delegar funciones y facultades mediante acuerdo específico.
+
+II. Suscribir y formalizar acuerdos, contratos, convenios y demás actos jurídicos con la Federación, municipios y organismos nacionales e internacionales.
+
+III. Someter al Consejo de Administración para su aprobación, los proyectos de presupuestos de ingresos y egresos, así como los estados financieros, sin perjuicio de las facultades del Congreso del Estado, en la materia.
+
+IV. Ejecutar los acuerdos del Consejo de Administración.
+
+V. Elaborar el Programa Operativo Anual y remitirlo a la Presidencia, para la aprobación del Consejo de Administración.
+
+VI. Suscribir, junto con la Dirección Financiera, los títulos de crédito, contratos y demás actos relativos al patrimonio del organismo operador municipal.
+
+Para el ejercicio de las facultades a que se refiere esta fracción, deberá obtenerse previamente la autorización del Consejo, en los términos de la legislación aplicable.
+
+VII. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación del Consejo de Administración las de carácter extraordinario.
+
+VIII. Rendir los informes siguientes:
+
+a) Anual de actividades.
+
+b) De cumplimiento de acuerdos del Consejo de Administración.
+
+c) Mensual de actividades que incluya el Sistema de Indicadores, el Reporte de las Incidencias sobre la Observancia de la Normatividad Administrativa, el avance del cumplimiento de los Programas Operativo Anual y de Operación y las recomendaciones emitidas para corregir las observaciones detectadas.
+
+d) De resultados de los estados financieros.
+
+IX. Nombrar y remover libremente al personal de los organismos operadores municipales dentro del ámbito de su competencia.
+
+X. Emitir dictámenes, así como efectuar rescisiones de los contratos, convenios o cualquier acuerdo de voluntades celebrado con los empleados, usuarios, prestadores de servicios, proveedores, contratistas o cualquier persona física o moral, privada o pública, previo procedimiento legal aplicable.
+
+XI. Enviar al Consejo, para su aprobación, los lineamientos y políticas, técnicas, administrativas y financieras, necesarias para el ejercicio de las facultades de los organismos operadores municipales.
+
+XII. Vigilar que los bienes propiedad del organismo operador municipal cumplan con todos los requisitos legales y se encuentren debidamente inventariados, a través de las Direcciones Jurídica y Financiera, respectivamente.
+
+XIII. Tramitar y resolver las quejas que, por conducto del personal del organismo operador municipal, se presenten en relación al funcionamiento o administración general, según los procedimientos y normas que señale el Reglamento.
+
+XIV. Calificar las infracciones a esta Ley e imponer las sanciones correspondientes, recaudando las pecuniarias a través del procedimiento administrativo de ejecución que establezca el Reglamento o los lineamientos correspondientes.
+
+XV. Ordenar que se practiquen las visitas de inspección y verificación.
+
+XVI. Ordenar que se practiquen, en forma regular y periódica, muestras y análisis del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable.
+
+XVII. Ordenar que se lleve una bitácora de la operación de los aprovechamientos de agua, por medio de su propio personal, de las juntas operadores (sic) o de quien designe, en la que se registre en forma regular y periódica caudales y volúmenes alumbrados, profundidad de los niveles estáticos y dinámicos, consumos de energía, eficiencia electromecánica y cualquier otro indicador relevante que permita diagnosticar el estado de funcionamiento del aprovechamiento, del equipo hidráulico y electromecánico instalado, con la finalidad de prever en forma oportuna acciones correctivas, de mantenimiento o de reposición. Adicionalmente esta información se considera importante para la elaboración de estudios relacionados con el funcionamiento de los acuíferos en forma regional y local, así como en el desarrollo de proyectos hidráulicos para el suministro de agua potable a la población.
+
+XVIII. Resolver sobre los recursos administrativos de revocación que se interpongan en contra de actos que emita el organismo operador municipal, en su carácter de autoridad.
+
+XIX. Imponer sanciones disciplinarias de acuerdo con el Reglamento Interior de Trabajo.
+
+XX. Someter al Consejo de Administración para su aprobación, los anteproyectos de presupuestos de ingresos y egresos y estados financieros, para su aprobación en la primera quincena del mes de octubre.
+
+XXI. Contar con los Proyectos Maestros para Mejoramiento de los Servicios que presta y actualizarlos, en su caso, cada tres años, de conformidad con el Plan Estatal de Desarrollo, así como de los programas sectoriales, regionales, especiales e institucionales que correspondan.
+
+XXII. Realizar los estudios y análisis técnicos, económicos y financieros necesarios para evaluar la relación costo-beneficio de las obras y su impacto social.
+
+XXIII. Elaborar y actualizar los indicadores institucionales y de sus organismos dependientes, de acuerdo a los de la Junta Central, así como coadyuvar en el establecimiento de estándares de calidad y productividad para cada indicador institucional.
+
+XXIV. Formular el programa de operación y calidad del organismo, y organismos dependientes, y someterlo a la autorización del Consejo de Administración e implantarlo.
+
+XXV. Instrumentar de manera sistemática, los programas de mejora continua y las evaluaciones de resultado de las diferentes áreas que integran el organismo, y los organismos operadores bajo su coordinación sectorial.
+
+XXVI. Realizar todas las actividades que sean necesarias, dentro del ámbito de su competencia, para lograr que los organismos operadores municipales presten a la comunidad servicios adecuados y eficientes, de conformidad con la presente Ley, los lineamientos técnicos, administrativos, financieros y legales a que haya lugar.
+
+XXVII. Las demás que le correspondan de acuerdo con esta Ley, el Código Municipal para el Estado de Chihuahua y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Artículo 31 Undecies.- La Secretaría del Consejo tendrá las mismas facultades que la (sic) de la Junta Central, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Artículo 31 Duodecies.- La Dirección Financiera tendrá las mismas facultades que la (sic) de la Junta Central, en el ámbito de su competencia, además de las siguientes:
+
+I. Formular los anteproyectos de presupuestos de ingresos y de egresos, y someterlos a la aprobación del Consejo de Administración.
+
+II. Formular el anteproyecto de los derechos de cobro, las tarifas y sus modificaciones, y someterlo a la aprobación del Consejo de Administración.
+
+III. Determinar los créditos fiscales y ejercer la facultad económica coactiva; designar y delegar a las personas necesarias que han de desarrollar la función pública para llevarla a cabo y emitir las resoluciones correspondientes, en términos del Código Fiscal del Estado de Chihuahua y demás ordenamientos aplicables.
+
+IV. Calificar las infracciones y sanciones a la Ley y demás normas aplicables e imponer las sanciones que procedan.
 
 ## TÍTULO SEGUNDO. DE LA PRESTACIÓN DE LOS SERVICIOS
 
-### CAPÍTULO II. CONTRATACIÓN Y CONEXIÓN A LOS SERVICIOS PÚBLICOS
+### CAPÍTULO I. SERVICIO DE AGUA EN BLOQUE
 
 ###### Artículo 32.
 
 La Junta Central o sus organismos operadores podrán proporcionar el servicio de agua en bloque, que constituye un volumen de agua predeterminado que se proporciona sin ser necesaria la construcción de la red de distribución o cualquier otro de los componentes del sistema de agua potable. La prestación de este servicio estará condicionada al estudio previo de la Junta Central mediante el cual determine la factibilidad técnica, financiera, administrativa y legal que le dé viabilidad.
 
-### CAPÍTULO III. DERECHOS Y OBLIGACIONES DE LOS USUARIOS
+### CAPÍTULO II. CONTRATACIÓN Y CONEXIÓN A LOS SERVICIOS PÚBLICOS
 
 ###### Artículo 33.
 
 La prestación de los servicios se otorgará mediante la suscripción del contrato de adhesión, el cual será determinado por la Junta Central con los lineamientos que se establezcan en el Reglamento de esta Ley.
 
-Tratándose de los desarrolladores o fraccionadores, es obligación de éstos realizar las obras para conectarse a las redes generales de infraestructura hidráulica existente, previa factibilidad de servicios, manifestación de impacto ambiental y demás instrumentos que sean necesarios. De no existir la infraestructura para la conexión, el desarrollador o fraccionador construirá a su costa las obras que se requieran de acuerdo con las especificaciones que le fije el organismo operador.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-Las obras ejecutadas en los términos del párrafo anterior, se transmitirán a título gratuito al organismo operador encargado de prestar el servicio y formarán parte de su patrimonio bajo el régimen de dominio público.
+Tratándose de los desarrolladores, fraccionadores o cualquier tipo de inversionistas, es obligación de estos realizar las obras para conectarse a las redes generales de infraestructura hidráulica existente, previa factibilidad de servicios y de volúmenes de agua, manifestación de impacto ambiental y demás instrumentos que sean necesarios. De no existir la infraestructura para la conexión, el desarrollador o fraccionador construirá a su costa las obras que se requieran de acuerdo con las especificaciones que le fije el organismo operador. En el supuesto de que no exista la factibilidad de volúmenes de agua, el desarrollador, fraccionador o cualquier tipo de inversionistas, deberá aportar las concesiones y fuente por los volúmenes requeridos, en su caso, y trasmitirlas al organismo operador de manera gratuita, en los términos que señale el reglamento.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Las obras ejecutadas en los términos del párrafo anterior, se transmitirán a título gratuito a la junta operadora u organismo operador municipal encargado de prestar el servicio y formarán parte de su patrimonio bajo el régimen de dominio público, razón por la cual, no se formalizará ningún acto jurídico, administrativo o financiero que contravenga o tenga como consecuencia evadir lo dispuesto en el presente artículo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 34.
 
-La conexión a los servicios y la instalación de aparatos medidores causarán el pago de los derechos correspondientes. Efectuada la conexión, aun cuando no se haga uso de los servicios, causará el pago de los derechos que fije la tarifa.
+La conexión a los servicios y la instalación de aparatos medidores causarán el pago de los derechos correspondientes. Efectuada la conexión, causará el pago de los derechos que fije la tarifa.
 
 Cuando el organismo operador no reciba el pago por la prestación de los servicios públicos dentro de los noventa días siguientes al periodo de consumo, efectuará una inspección física al inmueble para verificar su ocupación del mismo y la correcta conexión del servicio. Cuando esté desocupado el inmueble y lo constate, el organismo operador podrá suspender total o parcialmente el servicio y retirar el aparato medidor.
 
@@ -689,9 +1669,11 @@ Cuando el organismo operador no reciba el pago por la prestación de los servici
 
 Los propietarios o poseedores de lotes ubicados en fraccionamientos o los desarrolladores, pagarán los derechos por suministro antes de la fecha de conexión, dado que será requisito indispensable la comprobación de pago para el uso de los servicios públicos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 36.
 
-El mantenimiento de las líneas generales de conducción estará a cargo de los organismos operadores. La conexión y el mantenimiento de las tomas domiciliarias, desde la red pública, será a cargo de los propietarios o poseedores de los inmuebles.
+El mantenimiento de las líneas generales de conducción y las de la red pública estará a cargo de las juntas operadoras. La conexión y el mantenimiento de las tomas domiciliarias, desde el arco del aparato medidor, será a cargo de los propietarios o poseedores de los inmuebles.
 
 ###### Artículo 37.
 
@@ -703,23 +1685,41 @@ II.- Industrial.
 
 III.- Comercial.
 
-IV.- Aquellos otros que determine el Reglamento de esta Ley.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IV.- Edificios Públicos Gubernamentales.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+V.- Escuelas:
+
+a) Públicas.
+
+b) Privadas.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VI.- Aquellos otros que determine el Reglamento de esta Ley.
 
 ###### Artículo 38.
 
 El suministro para consumo humano siempre tendrá prioridad en relación con los demás.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 39.
 
-Los organismos operadores, con base en el Reglamento correspondiente, fijarán las disposiciones y especificaciones técnicas, administrativas, financieras y legales, para revisar y aprobar, en su caso, planos, proyectos y demás documentación que deban ser incorporados al patrimonio del organismo.
+Las juntas operadoras y organismos operadores municipales, en términos de la presente Ley y su Reglamento correspondiente, fijarán las disposiciones y especificaciones técnicas, administrativas, financieras y legales, para revisar y aprobar, en su caso, planos, proyectos y demás documentación que deban ser incorporados al patrimonio del organismo.
 
 Los desarrolladores, fraccionadores o constructores, sujetarán sus proyectos ejecutivos y de obra terminada para suministrar agua potable, alcantarillado y saneamiento, a las disposiciones del Reglamento respectivo, así como a la revisión, aprobación y supervisión de obra en su caso, del organismo operador correspondiente, previo pago de los derechos causados.
 
-### CAPÍTULO IV. USUARIOS DEL SISTEMA DE ALCANTARILLADO
+### CAPÍTULO III. DERECHOS Y OBLIGACIONES DE LOS USUARIOS
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 40.
 
-Ningún usuario estará exento del pago de los derechos correspondientes, trátese de particulares o de dependencias o entidades de la administración pública de cualquier orden, por lo que en ningún momento se recibirán pagos en especie, salvo disposición expresa del Consejo Directivo de la Junta Central.
+Ningún usuario estará exento del pago de los derechos correspondientes, trátese de particulares o de dependencias o entidades de la administración pública de cualquier orden, por lo que en ningún momento se recibirán pagos en especie, salvo disposición expresa del Consejo de Administración de la Junta Central u organismo operador municipal.
 
 ###### Artículo 41.
 
@@ -737,11 +1737,13 @@ Quienes cuenten con fuentes propias de aprovechamiento de agua estarán obligado
 
 Los propietarios o poseedores de los inmuebles serán solidariamente responsables en el pago de los derechos y de los servicios de agua potable y saneamiento, así como de las reparaciones y consumos de agua que se generen en caso de fugas, con excepción de las previstas en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 45.
 
-Los usuarios tienen el deber de pagar los servicios públicos que le preste el organismo operador en los términos y plazos que así se determinen por este último.
+Los usuarios tienen el deber de pagar los servicios públicos que le preste la junta operadora u organismo operador municipal en los términos y plazos que así se determinen por la estructura tarifaria, el contrato de adhesión, el reglamento y demás disposiciones de carácter legal.
 
-Cuando no exista consumo de agua o no se utilice el desagüe de alcantarillado autorizado, se cubrirá el monto de los derechos mínimos fijados en la tarifa correspondiente. Los adeudos generados por cualesquiera de los conceptos de derechos y servicios a que se refiere esta Ley, los contenidos en las tarifas, así como las sanciones, tendrán el carácter de créditos fiscales, por lo que las juntas municipales y rurales, como organismos fiscales autónomos, podrán hacerlos efectivos mediante el procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado. En caso de mora, se causarán los recargos que fije este ordenamiento legal.
+Cuando no exista consumo de agua o no se utilice el desagüe de alcantarillado autorizado, la persona usuaria podrá optar por suspender el servicio o bien cubrir el monto de los derechos mínimos fijados en la tarifa correspondiente; en el caso de que sea suspendido el servicio, su reconexión generará un pago relativo a tal fin, el que deberá ser acorde al servicio prestado. Los adeudos generados por cualquiera de los conceptos de derechos y servicios a que se refiere esta Ley, los contenidos en las tarifas, así como las sanciones, tendrán el carácter de créditos fiscales, por lo que las juntas municipales y rurales, como organismos fiscales autónomos, podrán hacerlos efectivos mediante el procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado. En caso de mora, se causarán los recargos que fije este último ordenamiento legal.
 
 ###### Artículo 46.
 
@@ -761,7 +1763,7 @@ El servicio de agua potable o de abasto de agua residual tratada deberá ser med
 
 En los fraccionamientos o desarrollos de vivienda, las áreas verdes contarán con la infraestructura necesaria, según las indicaciones técnicas del organismo operador, para el riego con aguas residuales tratadas.
 
-### CAPÍTULO V. PERMISO DE DESCARGA
+### CAPÍTULO IV. USUARIOS DEL SISTEMA DE ALCANTARILLADO
 
 ###### Artículo 49.
 
@@ -801,7 +1803,7 @@ VII.- Cuando se generen residuos sólidos, grasas y aceites de origen orgánico 
 
 VIII.- Cumplir con los demás requisitos que establezcan las Normas Oficiales Mexicanas en materia ecológica, el anexo de parámetros para descargas de cada organismo operador y el contrato de prestación de servicios correspondientes.
 
-### CAPÍTULO VI. AGUAS RESIDUALES
+### CAPÍTULO V. PERMISO DE DESCARGA
 
 ###### Artículo 51.
 
@@ -835,7 +1837,7 @@ IV.- El responsable de la descarga diluya las aguas residuales para tratar de cu
 
 V.- Se descarguen contaminantes peligrosos.
 
-### CAPÍTULO VII. MEDIDAS DE SEGURIDAD
+### CAPÍTULO VI. AGUAS RESIDUALES
 
 ###### Artículo 55.
 
@@ -907,7 +1909,7 @@ Las instalaciones hidráulicas para conducción de agua residual tratada estará
 
 Cuando no existan líneas de conducción de agua residual tratada, el acarreo deberá realizarse en tanques móviles especialmente destinados para este fin, los cuales deben contar con las indicaciones visibles sobre la naturaleza no potable del líquido que transportan.
 
-### CAPÍTULO I. PLANEACIÓN DEL DESARROLLO HIDRÁULICO
+### CAPÍTULO VII. MEDIDAS DE SEGURIDAD
 
 ###### Artículo 68.
 
@@ -933,7 +1935,7 @@ Los organismos operadores están obligados a delimitar y resguardar todas sus in
 
 ## TÍTULO TERCERO. REGULACIÓN Y CONSERVACIÓN DEL AGUA
 
-### CAPÍTULO II. AGUAS DE JURISDICCIÓN ESTATAL
+### CAPÍTULO I. PLANEACIÓN DEL DESARROLLO HIDRÁULICO
 
 ###### Artículo 73.
 
@@ -975,7 +1977,27 @@ V.- Los requerimientos de investigación y capacitación en materia de agua y se
 
 VI.- El desarrollo de los mecanismos e instrumentos necesarios para fortalecer las capacidades de las organizaciones de usuarios dentro del Estado para incrementar su productividad y competitividad, de acuerdo con los recursos hídricos que utilizan.
 
-### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 75 Bis.
+
+Son Aguas de Jurisdicción Estatal, de manera enunciativa mas no limitativa, las siguientes:
+
+I. Las que no son de propiedad nacional, ni privada.
+
+II. Las que corren en cauces menores a cauces federales.
+
+III. Las lagunas que no tienen declaratoria de propiedad nacional.
+
+IV. Los ríos y sus afluentes directos o indirectos, desde primeras aguas permanentes, intermitentes o torrenciales, hasta su desembocadura en lagunas que no tienen declaratoria de propiedad nacional.
+
+V. Las aguas pluviales captadas por el Estado.
+
+VI. Las aguas residuales tratadas o sin tratar que no son vertidas en cauces de propiedad federal.
+
+VII. Los manantiales que no nacen en cauces y zonas federales, y que no tengan declaratoria de propiedad federal.
+
+### CAPÍTULO II. AGUAS DE JURISDICCIÓN ESTATAL
 
 ###### Artículo 76.
 
@@ -1019,7 +2041,7 @@ La Junta Central tendrá a su cargo el Registro Público Estatal de Derechos de 
 
 Las certificaciones que expida el Registro Público Estatal de Derechos de Agua son documentos públicos y harán prueba plena frente a terceros, salvo prueba en contrario. El registro de la autorización tendrá efectos de perfeccionamiento cuando se transmitan los derechos de la misma.
 
-### CAPÍTULO IV. CULTURA DEL AGUA
+### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
 ###### Artículo 84.
 
@@ -1045,9 +2067,7 @@ VI.- Promover, coordinar, supervisar y realizar, en su caso, las medidas necesar
 
 VII.- Ejercer las atribuciones que le correspondan en materia de prevención y control de la contaminación del agua y de su fiscalización y sanción, conforme a la Ley aplicable.
 
-### CAPÍTULO V. CONSERVACIÓN DEL AGUA
-
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
+### CAPÍTULO IV. CULTURA DEL AGUA
 
 ###### Artículo 86.
 
@@ -1061,7 +2081,9 @@ La denuncia ciudadana constituirá un medio para la cultura del cuidado del agua
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 2016)</small>
 
-### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO V. CONSERVACIÓN DEL AGUA
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2016)</small>
 
 ###### Artículo 86 Ter.
 
@@ -1071,13 +2093,13 @@ Para el caso de las aguas del subsuelo, el Ejecutivo del Estado deberá celebrar
 
 ## TÍTULO CUARTO. CONTROL DE LEGALIDAD
 
-### CAPÍTULO II. INFRACCIONES Y SANCIONES
+### CAPÍTULO I. INSPECCIÓN Y VIGILANCIA
 
 ###### Artículo 87.
 
 Los organismos operadores están facultados para ordenar y practicar inspecciones, de conformidad al procedimiento establecido en el reglamento, a fin de verificar el cumplimiento de la Ley, su reglamentación y demás normatividad aplicable a la materia. Igualmente, podrán suspender los servicios públicos cuando se comprueben derivaciones no aprobadas o un uso distinto al autorizado.
 
-### CAPÍTULO III. DE LOS MEDIOS DE DEFENSA
+### CAPÍTULO II. INFRACCIONES Y SANCIONES
 
 ###### Artículo 88.
 
@@ -1173,13 +2195,37 @@ Las multas podrán cobrarse con cargo a la facturación mensual de los servicios
 
 Las autoridades estatales y municipales tienen el carácter de auxiliares de la Junta Central, juntas municipales y rurales y están obligadas a cooperar en el cumplimiento de las disposiciones sobre la materia.
 
+### CAPÍTULO III. DE LOS MEDIOS DE DEFENSA
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 93.
 
-La impugnación a los actos y resoluciones dictados en los procedimientos administrativos con motivo de la aplicación de esta Ley y su Reglamento, se basará en lo preceptuado por el Código Fiscal del Estado de Chihuahua y por el Código Administrativo para el Estado de Chihuahua, según corresponda.
+La impugnación a los actos y resoluciones dictados en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento, lineamientos y demás ordenamientos aplicables, se basará en el procedimiento preceptuado por el Código Fiscal del Estado de Chihuahua y por el Código Administrativo del Estado de Chihuahua, según corresponda. En lo no previsto se aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Chihuahua.
 
-Las facultades concedidas a las autoridades fiscales estatales las tienen los organismos operadores en el ámbito de su competencia.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Por lo que hace al recurso de revocación de los actos y resoluciones de las juntas operadoras y de la propia Junta Central, este se tramitará y substanciará ante la Junta Central.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+El recurso de revisión de los actos y resoluciones de las juntas operadoras se tramitará y substanciará ante la Junta Central y tratándose de los de esta última, será ante la Secretaría General de Gobierno.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Las facultades concedidas a las autoridades fiscales estatales las tienen las juntas operadoras en el ámbito de su competencia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 94.
+
+La presente Ley puede ser adicionada, modificada, reformada o abrogada. Para que las adiciones, modificaciones, reformas o derogaciones lleguen a ser parte de la misma, se requiere que el Congreso del Estado, por el voto de cuando menos las dos terceras partes de los integrantes presentes, lo acuerde, salvo que se traten de adecuaciones a la legislación nacional en la materia.
 
 T R A N S I T O R I O S
+
+## TÍTULO QUINTO. DE LAS REFORMAS A LA LEY
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1314,3 +2360,45 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFLYC/0644/2017 I P.O. MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA; ASÍ COMO DEL CÓDIGO MUNICIPAL Y DEL CÓDIGO FISCAL, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la creación del primer Consejo de Administración de la Junta Central de Agua y Saneamiento del Estado de Chihuahua, será el actual Consejo Directivo quien nombrará a las Consejerías referidas en la fracción III, incisos j), k) y l), del artículo 12 de la Ley del Agua del Estado de Chihuahua, pudiendo, en su caso, permanecer como integrantes del nuevo Consejo de Administración de la Junta Central quienes ya se encuentren siendo parte del Consejo Directivo actual, incluyendo la Presidencia del mismo.
+
+El Consejo de Administración a que se refiere el párrafo anterior deberá estar plenamente conformado y en operación, a más tardar en los dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para la creación del primer Consejo de Administración de las Juntas Municipales de Agua y Saneamiento del Estado de Chihuahua, será el Consejo de Administración de la Junta Central quien designará a las personas que ocupen la Presidencia y las Consejerías a que se refiere la fracción III, incisos d), e), f), y g) del artículo 20 de la Ley del Agua del Estado de Chihuahua, pudiendo, en su caso, permanecer como integrantes del nuevo Consejo de Administración de las Juntas Municipales quienes ya se encuentren siendo parte del Consejo Directivo actual, incluyendo la Presidencia del mismo.
+
+Los Consejos de Administración referidos en el párrafo anterior deberán estar plenamente conformados y en operación, a más tardar en los dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para la creación del primer Consejo de Administración de los organismos operadores municipales del Estado de Chihuahua, será la persona que presida el Ayuntamiento quien nombre al titular de la Presidencia del Consejo y a las Consejerías referidas en la fracción III, incisos c), d), e), y f) del artículo 31 BIS de la Ley del Agua del Estado de Chihuahua, lo cual deberá ser realizado en estricto apego a los requisitos establecidos en el artículo 31 TER de la misma Ley.
+
+El Consejo de Administración referido en el párrafo anterior deberá estar plenamente conformado y en operación, a más tardar en los dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Una vez conformados los nuevos Consejos de Administración, los acuerdos tomados válidamente por los Consejos Directivos que desaparecen, continuarán siendo válidos, a menos que sean revocados por el nuevo Consejo.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado, emitirá el Reglamento correspondiente a la Ley del Agua del Estado de Chihuahua, dentro de los ciento ochenta días, posteriores a su entrada en vigor.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir de la entrada en vigor del presente Decreto cuando se haga referencia en la Ley del Agua o cualquier otra legislación estatal, al alcantarillado se entenderá que se refiere al alcantarillado sanitario, y por lo que respecta al drenaje, se referirá al drenaje pluvial.
+
+###### ARTÍCULO OCTAVO.
+
+A partir de la entrada en vigor del presente Decreto, el diseño, ejecución, supervisión y mantenimiento del drenaje pluvial, será responsabilidad de las autoridades municipales.
