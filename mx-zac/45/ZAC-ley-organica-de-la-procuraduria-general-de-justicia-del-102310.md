@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-procuraduria-general-de-justicia-del-102310"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-09-03"
-last_updated: "2015-06-06"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO NOVENO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL PERIÓDICO OFICIAL EL 30 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO UNA VEZ QUE SEA EMITIDA LA DECLARATORIA DE EXTINCIÓN DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de septiembre de 2014.
 
@@ -1938,3 +1940,79 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se derogan todas las disposiciones que contravengan el presente Decreto.
 
 Artículo Tercero. Conforme a lo dispuesto en el artículo 87 del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia electoral, publicado en el Periódico Oficial, Órgano de Gobierno del Estado, el Gobernador del Estado deberá designar al titular de la Fiscalía Especializada en Atención de Delitos Electorales de la Procuraduría General de Justicia del Estado, y someter su designación a la ratificación de la Legislatura del Estado, con la aprobación de dos terceras partes de sus miembros, antes del inicio del proceso electoral local.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de Enero del 2018, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado Libre y Soberano de Zacatecas, sin perjuicio de lo que señalen los artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relativas a los nombramientos, reclutamiento, servicio profesional de carrera, organización institucional y demás mecanismos necesarios para la instalación de la Fiscalía previstas en la Ley contenida en el presente decreto, entrarán en vigor al día siguiente de la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo máximo de treinta días posteriores a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá emitir convocatoria pública y abierta, a fin de integrar una lista de cinco candidatos al cargo de Fiscal General, que deberá ser aprobada por el voto de las dos terceras partes de los miembros presentes, la cual enviará al Gobernador del Estado.
+
+Si el Gobernador no recibe la lista en el plazo antes señalado, enviará libremente a la Legislatura una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo transitorio. En este caso, el Fiscal General designado podrá formar parte de la terna.
+
+Recibida la lista a que se refiere el párrafo anterior, dentro de los diez días siguientes, el Gobernador formulará una terna y la enviará a consideración de la Legislatura del Estado.
+
+La Legislatura, con base en la terna propuesta y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+
+En el caso de que el Gobernador no envíe la terna a que se refiere el párrafo anterior, la Legislatura tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala el párrafo primero de este artículo transitorio.
+
+Si la Legislatura no hace la designación en los plazos que se establecen en los párrafos anteriores, el Ejecutivo del Estado designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+
+###### ARTÍCULO CUARTO.
+
+El Fiscal General, dentro de los treinta días naturales siguientes a su designación, deberá nombrar a los titulares de las Fiscalías Especializadas en Combate a la Corrupción, en Derechos Humanos, en Atención de Delitos Electorales y en Atención de Delitos contra las Mujeres por Razones de Género.
+
+###### ARTÍCULO QUINTO.
+
+A más tardar el 30 de marzo del año 2018, la Legislatura del Estado deberá designar al Órgano Interno de Control de la Fiscalía General, por el voto de las dos terceras partes de sus miembros presentes.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo máximo de treinta días naturales posteriores a su nombramiento, el Fiscal General deberá nombrar a los Consejeros Ciudadanos en los términos de esta Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Dentro de los treinta días naturales posteriores a su designación, el Fiscal General deberá constituir la Unidad de Clausura de la Procuraduría General de Justicia del Estado de Zacatecas y la Unidad de Transición de la Fiscalía General de Justicia del Estado de Zacatecas.
+
+Dichas Unidades deberán generar esquemas de coordinación para el traslado de recursos humanos, materiales, financieros y todo lo relacionado a la transmisión de los procesos sustantivos que surjan entre el proceso de clausura de la Procuraduría de (sic) General de Justicia del Estado de Zacatecas y el proceso de diseño e instalación de la Fiscalía General.
+
+Ambas Unidades deberán coordinarse y estar en comunicación a través del Fiscal General, el cual deberá supervisar de manera puntual el proceso de Clausura de la Procuraduría General de Justicia del Estado de Zacatecas, así como el diseño e instalación de la Fiscalía General de Justicia del Estado de Zacatecas.
+
+Los integrantes de las Unidades a que se refiere el presente artículo, podrán ser asesores externos que, en el caso de la Unidad de Transición, con experiencia y conocimiento en gestión de instituciones públicas o privadas, diseño, evaluación e implementación de políticas públicas, proceso penal acusatorio; y en el caso de la Unidad de Clausura con conocimiento en procesos de transición institucional, manejo de recursos humanos en instituciones públicas. Durarán en su encargo el tiempo que dure el Plan de Clausura y el proceso de diseño e instalación de la Fiscalía General de Justicia.
+
+###### ARTÍCULO OCTAVO.
+
+En el mismo plazo de diez días naturales posteriores a la designación, el Fiscal General deberá emitir un Plan de Clausura de la Procuraduría General de Justicia del Estado de Zacatecas, el cual contemplará la transición institucional, la atención de casos entrantes del sistema acusatorio durante el proceso de instalación de la Fiscalía General, la depuración y liquidación de las causas del sistema inquisitivo mixto, el cumplimiento de recomendaciones de la Comisión Nacional de Derechos Humanos y de la Comisión de Derechos Humanos del Estado, así como las resoluciones federales e internacionales por graves violaciones a derechos humanos.
+
+El plazo previsto en el Plan de Clausura no podrá exceder de doce meses a partir de su emisión. Al concluir la ejecución de dicho Plan, el Fiscal General dará aviso a la Legislatura del Estado, a fin de (sic) ésta emita la declaratoria de extinción de la Procuraduría General de Justicia del Estado de Zacatecas.
+
+Durante este plazo se llevarán a cabo todos los ajustes administrativos para la operación de la Fiscalía General de Justicia del Estado de Zacatecas como un organismo constitucional autónomo, para ello la Unidad de Transición deberá de proponer un plan de transición administrativa que deberá incluir, sin limitar, tener en consideración la incorporación de nuevas responsabilidades en cuanto al personal, al sistema contable y presupuestario y al manejo de activos.
+
+La Unidad de Clausura deberá sistematizar los casos pendientes de resolución al momento de la extinción de la Procuraduría General de Justicia del Estado de Zacatecas.
+
+###### ARTÍCULO NOVENO.
+
+Emitida la declaratoria a que se refiere el párrafo anterior, quedará abrogada la Ley Orgánica de la Procuraduría General de Justicia del Estado de Zacatecas, publicada en el Suplemento 4 al 71 del Periódico Oficial, Órgano de Gobierno del Estado, con fecha del 3 de septiembre del 2014.
+
+###### ARTÍCULO DÉCIMO.
+
+La Fiscalía General de Justicia del Estado de Zacatecas atraerá y conocerá de los asuntos del sistema penal acusatorio que hayan sido iniciados por la Procuraduría General de Justicia del Estado de Zacatecas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Dentro de los 90 días naturales posteriores a la entrada en vigor de este Decreto, el Fiscal General deberá expedir los reglamentos necesarios para la debida aplicación de la presente Ley.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Todas las menciones a la Procuraduría General de Justicia del Estado de Zacatecas en la normatividad correspondiente se entenderán referidas a la Fiscalía General de Justicia del Estado de Zacatecas.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El presupuesto asignado a la Procuraduría General de Justicia del Estado de Zacatecas, en el artículo 16 del Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio Fiscal 2018, serán transferidos a la Fiscalía General de Justicia del Estado de Zacatecas, a fin de dar cumplimiento al Artículo Sexto Transitorio del Decreto número 128 por el que se reforman, adicionan y derogan, diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Zacatecas, en materia del Sistema Estatal Anticorrupción, publicado en Suplemento al número 23 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al 22 de marzo de 2017.
