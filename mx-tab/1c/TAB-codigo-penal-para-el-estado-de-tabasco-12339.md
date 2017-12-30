@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2017-12-20"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -2049,6 +2049,8 @@ III.- Utilice medios técnicos para escuchar u observar, transmitir, grabar o re
 
 ### CAPITULO II. ABIGEATO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 164.
 
 Al que con perjuicio de alguien y sin el consentimiento de quien tenga derecho a otorgarlo, revele un secreto o comunicación reservada que ha conocido o recibido para su guarda, o para revelarlo o entregarlo a persona determinada, se le aplicará prisión de seis meses a dos años.
@@ -2271,27 +2273,53 @@ Las penas previstas en los artículos 175, 177 y 179 se agravarán con prisión 
 
 ###### Artículo 181.
 
-Al que se apodere de una o más cabezas de ganado vacuno, equino o mular sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán de seis a doce años de prisión. Si se realiza con violencia la sanción se agravará en una cuarta parte más.
+Comete el delito de abigeato, al que se apodere independientemente del lugar en que se encuentren, de una o más cabezas de ganado bovino o equino sin derecho y sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán las penas siguientes:
 
-El apoderamiento de ganado asnal o de cualquiera otra de las clases no previstas en el párrafo anterior, se sancionará con prisión de tres a seis años.
+I. Prisión de uno a dos años y de cien a ciento ochenta días multa, si la conducta descrita se ejecuta de una a dos cabezas de ganado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
+II. Prisión de tres a cuatro años y de doscientos a cuatrocientos días multa, si la conducta descrita se ejecuta de tres a cinco cabezas de ganado;
+
+III. Prisión de cinco a seis años y de quinientos a setecientos días multa, si la conducta descrita se ejecuta de seis a ocho cabezas de ganado; y
+
+IV. Prisión de siete a nueve años y de ochocientos a mil días multa, si la conducta descrita se ejecuta de nueve o más cabezas de ganado.
+
+El apoderamiento de ganado asnal, mular o de cualquier otra de las clases no previstas en el presente artículo, se sancionará con prisión de cuatro a seis años y de doscientos a cuatrocientos días multa.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 182.
 
-Se aplicará prisión de uno a cuatro años y de cien a trescientos días multa, a quien sin consentimiento de quien legalmente pueda otorgarlo:
+Las penas del delito de abigeato señaladas en el artículo anterior, se agravarán cuando se concurran con algunas de las modalidades siguientes:
 
-I.- Altere o elimine las marcas o señales de animales ajenos vivos o pieles;
+I. Se cometa valiéndose de la nocturnidad;
 
-II.- Marque, señale, contramarque o contraseñale animales ajenos;
+II. Se cometa aprovechando alguna relación de trabajo, confianza o parentesco por consanguinidad o afinidad hasta el cuarto grado del activo con el pasivo;
 
-III.- A quien expida certificados falsos para obtener guías simulando ventas, o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificados para cualquier negociación sobre ganados o cueros.
+III. Sea perpetrado por ganaderos inscritos como tales en cualquier unión o asociación ganadera;
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+IV. Se ejecute con violencia física o moral en las personas ya sea al perpetrarse el hecho o después de consumado para lograr la fuga o defender el producto;
+
+V. El o los responsables simulen ser miembros de algún cuerpo de seguridad pública o de alguna otra autoridad;
+
+VI. Cuando se trate de animales para el mejoramiento genético;
+
+VII. El o los responsables porten armas, aun y cuando no hagan uso de ellas; y
+
+VIII. Cuando el o los responsables sean posesionarios de los predios colindantes en los que sean sustraídos los animales.
+
+Cuando la conducta a que se refiere este artículo se cometa por una asociación delictuosa, banda o pandilla, se sancionará en términos de los artículos 71 y 231 de este código según corresponda.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 183.
 
-Se aplicará prisión de seis a doce años y de doscientos a cuatrocientos días multa, al que por sí o por medio de otro o para otro adquiera ganado vacuno, equino o mular producto del abigeato, o comercie con pieles o carnes u otros derivados obtenidos del abigeato de esta clase de ganado.
+Al responsable del delito de abigeato agravado, de conformidad con lo previsto en el artículo que antecede, se le impondrán las siguientes penas de acuerdo a las reglas que se consignan en los siguientes apartados:
+
+I. Si interviene alguna de las agravantes que se consignan en las fracciones I, III, V, VI y VIII del artículo anterior, la pena será de diez a doce años de prisión y de ochocientos a mil doscientos días multa.
+
+II. Si interviene alguna de las agravantes que se consignan en las fracciones II, IV y VII del artículo anterior, la pena será de trece a quince años de prisión y de novecientos a mil cuatrocientos días multa.
+
+III. Si se interviene en dos o más de las agravantes señaladas en el inciso anterior, la pena aumentará en una cuarta parte de la pena máxima prevista en el mismo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
 
@@ -2303,23 +2331,43 @@ Se aplicará prisión de dos a cinco años y de doscientos a cuatrocientos días
 
 Al que transporte ganado, carnes, pieles u otros derivados obtenidos mediante abigeato de cualquiera clase de ganado, se le impondrá prisión de uno a tres años y multa de veinte a doscientos días multa.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 184.
 
-Se aplicará prisión de dos a siete años y multa de treinta a ciento cincuenta días multa al que, por sí o por medio de otro o para otro:
+Se equipara al delito de abigeato y se aplicará prisión de cinco a nueve años y de trescientos a seiscientos días multa, a quien:
 
-I.- Reciba, ministre, aproveche, o realice actos de intermediario en el comercio de animales producto del abigeato;
+I. No acredite la propiedad de animales, productos o subproductos, ante cualquier autoridad competente que se lo requiera;
 
-II.- Legalice, siendo autoridad, o intervenga en la legalización de documentos confeccionados para acreditar la propiedad de animales producto del abigeato;
+II. Marque, contramarque, señale o contraseñale uno o más animales, sin consentimiento de quien pueda otorgarlo conforme a la ley;
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+III. Altere, desfigure o elimine las marcas o señales de identificación de uno o más animales sin consentimiento de quien está facultado para realizarlo conforme a la ley;
 
-III.- Permita, siendo administrador o encargado de algún rastro o lugar de matanza, el sacrificio de ganado producto del abigeato; o
+IV. A sabiendas o sin tomar las medidas necesarias para cerciorarse de la procedencia legítima, consienta en rastros autorizados o en cualquier otro lugar de matanza, el sacrificio de animales para el consumo humano producto del abigeato;
 
-IV.- Permita, siendo inspector de ganadería, el tránsito de ganado producto del abigeato.
+V. Sacrifique intencionalmente ganado ajeno, sin consentimiento de su propietario;
+
+VI. Extraiga, altere, modifique o encime dispositivos de identificación oficial de animales, sin consentimiento de quien pueda otorgarlo conforme a la ley;
+
+VII. Proteja dolosamente ganado obtenido del abigeato con documentación falsa; y
+
+VIII. A quien expida o haga uso de facturas, guía de tránsito, certificado zoosanitario o dispositivos de identificación oficial apócrifos, para simular ventas de animales, producto u subproductos, de los que no se acredite la propiedad o para trasladarlos para fines de movilización de vida o sacrificio para consumo humano, sin estar debidamente autorizado.
 
 ###### Artículo 185.
 
 Al servidor público que participe en el abigeato, además de las penas previstas en los artículos anteriores se les impondrá destitución e inhabilitación para desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público de uno a cinco años.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 185 Bis.
+
+Se aplicará prisión de nueve a catorce años y de setecientos a mil días multa, al que por sí o por medio de otro o para otro reciba, ministre, aproveche o adquiera ganado bovino o equino producto del abigeato o comercie con pieles o carnes u otros derivados obtenidos del abigeato de esta clase de ganado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 185 Bis 1.
+
+A las autoridades en general y los servidores públicos de los puntos de verificación e inspección que se le compruebe que intervinieron o participaron en las operaciones para la comisión del delito de abigeato, si no tomaron las medidas a las que estén obligadas, se les impondrá una pena de nueve a catorce años de prisión y de seiscientos a mil días multa, más la inhabilitación para desempeñar cargos públicos por el doble de la pena de prisión impuesta.
 
 ### CAPITULO VIII. DELITOS COMETIDOS POR FRACCIONADORES
 
@@ -5002,5 +5050,27 @@ P.O. 20 DE DICIEMBRE DE 2017.
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 157 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 181, 182, 183, 184 Y SE ADICIONAN LOS ARTÍCULOS 185 BIS Y 185 BIS 1; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de este Decreto, respecto de la descripción legal de la conducta delictiva contenida en los artículos que se reforman y cuya pena se denomina, penaliza o agrava, se estará a lo siguiente:
+
+I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Fiscal del Ministerio Público las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades, y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al presente decreto.
