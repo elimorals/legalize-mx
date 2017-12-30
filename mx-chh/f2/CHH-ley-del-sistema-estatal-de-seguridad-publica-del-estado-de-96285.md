@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2017-08-26"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -3559,7 +3559,7 @@ El Poder Ejecutivo contará con 180 días para reglamentar el presente Decreto y
 
 P.O. 7 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0340/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN, Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0340/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN, Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3615,6 +3615,10 @@ Los trámites de acreditación, certificación y en general todos aquellos que e
 
 ARTÍCULO DECIMOCUARTO.- La Fiscalía General del Estado realizará los trámites administrativos para la armonización de las plazas de Ministerios Públicos, Policías y Peritos de conformidad con las disposiciones de la Ley del Sistema Estatal de Seguridad Pública, misma que se describe en la siguiente tabla.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO DECIMOQUINTO.- A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Dirección de Control Interno de la Fiscalía Especializada en Control, Análisis y Evaluación, se entenderán referidas a la Dirección de Inspección Interna de la citada Fiscalía Especializada.
+
 POLICÍA DE INVESTIGACIÓN
 
 Coordinador Regional de la Policía Ministerial Investigadora. Oficial de la Policía de Investigación.
@@ -3629,11 +3633,11 @@ Agente "B" de la Policía Ministerial Investigadora. Suboficial de la Policía d
 
 POLICÍA DE SEGURIDAD Y CUSTODIA
 
-Celador “A” (Seguridad y Custodia) Oficial de la Policía de Seguridad y Custodia
+Celador "A" (Seguridad y Custodia) Oficial de la Policía de Seguridad y Custodia
 
-Celador “B” (Seguridad y Custodia) Suboficial de la Policía de Seguridad y Custodia.
+Celador "B" (Seguridad y Custodia) Suboficial de la Policía de Seguridad y Custodia.
 
-Celador “C” (Seguridad y Custodia) Policía de Seguridad y Custodia.
+Celador "C" (Seguridad y Custodia) Policía de Seguridad y Custodia.
 
 POLICÍA PREVENTIVA
 
@@ -3653,11 +3657,11 @@ Oficial de Tránsito. Oficial de la Policía Vial.
 
 POLICÍA DE VIGILANCIA DE AUDIENCIAS JUDICIALES
 
-Celador “P” Determinante 3 Oficial de Vigilancia de Audiencias Judiciales.
+Celador "P" Determinante 3 Oficial de Vigilancia de Audiencias Judiciales.
 
-Celador “P” Determinante 2 Suboficial de Vigilancia de Audiencias Judiciales.
+Celador "P" Determinante 2 Suboficial de Vigilancia de Audiencias Judiciales.
 
-Celador “P” Determinante 1 Policía de Vigilancia de Audiencias Judiciales.
+Celador "P" Determinante 1 Policía de Vigilancia de Audiencias Judiciales.
 
 PERITOS
 
@@ -3677,23 +3681,23 @@ Perito Técnico Perito Técnico
 
 MINISTERIOS PÚBLICOS
 
-Agente del Ministerio Público en Litigación Oral. Agente del Ministerio Público “A”.
+Agente del Ministerio Público en Litigación Oral. Agente del Ministerio Público "A".
 
-Agente del Ministerio Público adscrito a Fiscalía. Agente del Ministerio Público “B”
+Agente del Ministerio Público adscrito a Fiscalía. Agente del Ministerio Público "B"
 
-Coordinador Regional de la Fiscalía. Agente del Ministerio Público “B”.
+Coordinador Regional de la Fiscalía. Agente del Ministerio Público "B".
 
-Agente del Ministerio Público Coordinador de Distrito. Agente del Ministerio Público “B”.
+Agente del Ministerio Público Coordinador de Distrito. Agente del Ministerio Público "B".
 
-Agente del Ministerio Público adscrito a Juzgados. Agente del Ministerio Público “C”.
+Agente del Ministerio Público adscrito a Juzgados. Agente del Ministerio Público "C".
 
-Agente del Ministerio Público adscrito a Unidades de Investigación. Agente del Ministerio Público “C”.
+Agente del Ministerio Público adscrito a Unidades de Investigación. Agente del Ministerio Público "C".
 
-Agente del Ministerio Público "A". Agente del Ministerio Público “C”.
+Agente del Ministerio Público "A". Agente del Ministerio Público "C".
 
-Agente del Ministerio Público "B". Agente del Ministerio Público “D”.
+Agente del Ministerio Público "B". Agente del Ministerio Público "D".
 
-Auxiliar del Ministerio Público. Agente del Ministerio Público “D”.
+Auxiliar del Ministerio Público. Agente del Ministerio Público "D".
 
 P.O. 26 DE AGOSTO DE 2017.
 
@@ -3716,3 +3720,35 @@ Se establece un plazo de treinta días naturales contados a partir de la entrada
 ###### ARTÍCULO CUARTO.
 
 Se establece un plazo de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, para que la Secretaría de Hacienda del Estado de Chihuahua, previo acuerdo e instrucción del Comité Técnico del Fideicomiso para la Competitividad y Seguridad Ciudadana que iniciará funciones en el año 2017, formalice las modificaciones del Contrato de Fideicomiso 744493 denominado Fideicomiso para la Competitividad y Seguridad Ciudadana, celebrado con Banco Mercantil del Norte, Sociedad Anónima, Institución de Banca Múltiple, Grupo Financiero Banorte, que reflejen las reformas contenidas en el presente Decreto, y las disposiciones que de él deriven.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFLEY/0646/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY DE PROTECCIÓN CIVIL Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría General de Gobierno los bienes muebles, archivos y, en general, documentos que tenía destinados a su servicio, manejo y resguardo la Coordinación Estatal de Protección Civil dependiente de la Fiscalía General del Estado, para los efectos a que haya lugar. Así mismo, realícense las gestiones y trámites necesarios en materia presupuestal para que lo relativo quede a partir de la entrada en vigor del presente Decreto, referido, asignado o aplicable respecto a la Secretaría General de Gobierno del Poder Ejecutivo.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados ante la Coordinación Estatal de Protección Civil, dependiente de la Fiscalía General del Estado, seguirán su substanciación dentro de la estructura de la Secretaría General de Gobierno.
+
+###### ARTÍCULO QUINTO.
+
+Los servidores públicos adscritos a la Fiscalía General del Estado y que pasen a formar parte de la Secretaría General de Gobierno, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO SEXTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Coordinación Estatal de Protección Civil de la Fiscalía General del Estado, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, así como con cualquier persona física o moral, serán asumidas por la referida Coordinación vía la Secretaría General de Gobierno.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Fiscalía General del Estado deberá realizar las acciones necesarias en cuanto a su organización interna a fin de encontrarse en aptitud de ejercer las atribuciones que se le confieren por medio del presente Decreto.
