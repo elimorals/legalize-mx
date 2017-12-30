@@ -4,7 +4,7 @@ identifier: "ZAC-ley-sobre-bebidas-alcoholicas-para-el-estado-de-zacatecas-57180
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-29"
-last_updated: "2017-06-07"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY SOBRE BEBIDAS ALCOHOLICAS PARA EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de septiembre de 2007.
 
@@ -55,7 +57,9 @@ I. Regular el funcionamiento de los establecimientos destinados al almacenaje, d
 
 II. Normar los actos administrativos que se requieren para la apertura, operación y sanción de los establecimientos a que se refiere la fracción anterior, y
 
-III. Establecer las bases de coordinación, entre el Ejecutivo del Estado y los Ayuntamientos, para la aplicación de la presente Ley.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+III. Establecer la competencia y bases de coordinación entre el Ejecutivo del Estado y los Ayuntamientos, para la aplicación de la presente Ley.
 
 ###### Artículo 2.
 
@@ -65,7 +69,9 @@ I. LEY. El presente ordenamiento;
 
 II. REGLAMENTO ESTATAL. El cuerpo de disposiciones que emana de esta Ley, expedido por el titular del Ejecutivo del Estado, se encuentra orientado a normar el rol, acciones y procedimientos a cargo de la dependencia estatal cuya función incide en la materia de esta Ley;
 
-III. LICENCIA DE FUNCIONAMIENTO. Es el acto administrativo intransferible e inalienable por el cual, en forma indefinida, se autoriza a las personas físicas o morales la operación y funcionamiento de los establecimientos dedicados al almacenaje, distribución, venta o consumo de bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+III. LICENCIA DE FUNCIONAMIENTO. Es el acto administrativo por el cual se autoriza a las personas físicas o morales la operación o funcionamiento de los establecimientos dedicados al almacenaje, distribución, venta o consumo de bebidas alcohólicas;
 
 IV. PERMISO. Es la autorización eventual, otorgada por la tesorería municipal a los particulares, para la venta y consumo de bebidas alcohólicas;
 
@@ -91,9 +97,13 @@ XIV. CLAUSURA. Acto por el cual la autoridad competente suspende, mediante la co
 
 XV. INFRACCION. Es la violación a las disposiciones de esta Ley y el Reglamento Estatal;
 
-XVI. REINCIDENCIA. Reiteración de una misma falta, cometida por un infractor en un período de sesenta días hábiles, o incidencia en dos o más infracciones en un período de cuarenta días hábiles;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-XVII. CUOTA. Un salario mínimo general vigente, determinado para la zona económica en la que se ubica el Estado de Zacatecas;
+XVI. REINCIDENCIA. Reiteración de una misma falta o incidencia cometida por un infractor en un periodo de dos años contados a partir de la fecha de que se hubiera notificado la primera sanción;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XVII. CUOTA. Unidad de Medida y Actualización determinada por el Instituto Nacional de Estadística y Geografía;
 
 XVIII. BEBIDAS ALCOHÓLICAS. Aquellas que conforme a la Ley General de Salud y normas oficiales mexicanas, contengan alcohol etílico desde 2% hasta 55% en proporción a su volumen, mismas que se clasifican como:
 
@@ -107,9 +117,23 @@ XIX. PRODUCTOS NO COMERCIABLES. Los productos cuya proporción de contenido alco
 
 XX. BARRA LIBRE. La promoción, independientemente del nombre que se les otorgue, en la que por el pago de una cantidad de dinero determinada se otorga el derecho a consumir en forma limitada o ilimitada bebidas alcohólicas por tiempo determinado o indeterminado a precios evidentemente más bajos a los del mercado;
 
-XXI. ZONA DE TOLERANCIA. Espacio destinado para la concentración de giros principales, cuenta con muro perimetral, con acceso, caseta de control y se encuentra ubicada generalmente fuera de la ciudad y centros de población, o en los suburbios de éstos, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-XXII. CASA-HABITACIÓN. Inmueble, cuarto, departamento, aposento, edificio o lugar construido, que esté habitado por una o más personas.
+XXI. ZONA DE TOLERANCIA. Espacio destinado para la concentración de giros principales, cuenta con muro perimetral, con acceso, caseta de control y se encuentra ubicada generalmente fuera de la ciudad y centros de población, o en los suburbios de éstos;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XXII. CASA HABITACIÓN. Inmueble, cuarto, departamento, aposento, edificio o lugar construido que esté habitado por una o más personas;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XXIII. REGLAMENTO MUNICIPAL. El cuerpo de disposiciones que reglamentan la materia, funciones, programas, acciones y procedimientos a cargo del Municipio respecto de las atribuciones que le otorga la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XXIV. TRANSFERENCIA DE USO DE LICENCIA. Es el acto por el cual el titular de la licencia solicita por escrito al Ayuntamiento, previo desahogo de funcionamiento, la transferencia a título gratuito en favor de un tercero, solo en los supuestos que establece esta Ley.
+
+Podrá ser transferible a un tercero cuando el titular de la licencia solicite por escrito este acto al Ejecutivo, y sea autorizado a través de la Secretaría mediante un documento de carácter oficial que será emitido cuando se hayan satisfecho los requisitos que se establecen en el artículo 12, y a lo señalado en la fracción III del artículo 9 de la presente Ley, así como lo que estipule el Reglamento de la misma, y toda vez que no exista adeudo o trámite pendiente relativo a las obligaciones emanadas de la licencia.
 
 ###### Artículo 3.
 
@@ -127,7 +151,9 @@ d) Quienes hayan sido titulares de licencia y ésta les haya sido cancelada.
 
 II. En relación con su ubicación:
 
-a) No podrán otorgarse licencias para ser ejercidas en los lugares cuya ubicación se encuentre a una distancia menor de 200 metros de dependencias o entidades gubernamentales, escuelas, hospitales, salas de velación o iglesias, así como de otros locales o establecimientos que expendan bebidas alcohólicas, salvo las excepciones previstas en esta Ley y el Reglamento Estatal, y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+a) No podrán otorgarse licencias para ser ejercidas en los lugares cuya ubicación se encuentre a una distancia de acceso menor de 350 metros de dependencias o entidades gubernamentales, escuelas, hospitales, salas de velación o iglesias, así como de otros locales o establecimientos, del mismo giro, que expendan bebidas alcohólicas, salvo las excepciones previstas en esta Ley y el Reglamento Estatal, y
 
 b) No podrá otorgarse más de una licencia para ser operada en un mismo domicilio.
 
@@ -141,9 +167,11 @@ La aplicación de la presente Ley corresponde, al Poder Ejecutivo del Estado, a 
 
 El Reglamento Estatal de esta Ley, regulará todo lo referente a la expedición, cancelación, cambios de domicilio, giro y control de las licencias, ubicación de establecimientos respecto de las zonas de cada municipio tomando en consideración el uso de suelo, además del lugar con relación a instituciones gubernamentales, centros escolares y hospitales, restricciones de venta y consumo en espacios deportivos, condiciones de reubicación, aforos permitidos, permisos y en general autorizaciones en materia de bebidas con contenido alcohólico.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 6.
 
-La ubicación de establecimientos en centros históricos, zonas de afluencia turística o de importancia económica para el Municipio o el Estado, se regulará de forma especial, exceptuándolos de observar requisitos de distancia, respecto de los lugares protegidos por la ley.
+La ubicación de establecimientos en centros históricos, zonas de afluencia turística o de importancia económica para el Municipio o el Estado, se regulará de forma especial, en los reglamentos estatal o municipal, según corresponda, exceptuándolos de observar requisitos de distancia, respecto de lugares protegidos por la ley, siempre y cuando los horarios otorgados no interrumpan, o sea lo menos posible, las actividades normales de dichos establecimientos.
 
 ###### Artículo 7.
 
@@ -159,13 +187,71 @@ III. Realicen actividades relacionadas con la venta o consumo de bebidas alcohó
 
 Para que las personas operen establecimientos dedicados al almacenaje, distribución, venta o consumo de bebidas alcohólicas, así como del alcohol etílico, deberán contar con la anuencia del Poder Ejecutivo del Estado y licencia expedida por el Ayuntamiento correspondiente.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO II BIS. Del Poder Ejecutivo del Estado
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 8 Bis.
+
+El Poder Ejecutivo del Estado, a través de la Secretaría y de las autoridades correspondientes, tendrá las facultades siguientes:
+
+I. Expedir el Programa Estatal Contra el Consumo Inmoderado de Bebidas Alcohólicas;
+
+II. Expedir Anuencia que resuelva sobre la viabilidad del otorgamiento de una licencia de funcionamiento;
+
+III. Verificar e inspeccionar los establecimientos que se dediquen a las actividades que regula la presente Ley;
+
+IV. Vigilar el cumplimiento de las disposiciones de la presente Ley;
+
+V. Aplicar las sanciones establecidas en esta Ley, y
+
+VI. Las demás que señale esta Ley y el Reglamento Estatal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 8 Ter.
+
+El Poder Ejecutivo del Estado deberá diseñar, implementar, ejecutar y evaluar la política pública, planes y programas, contra el consumo inmoderado de bebidas alcohólicas encaminados a:
+
+I. Concientizar a la población sobre los riesgos y consecuencias sociales que produce el consumo de bebidas alcohólicas;
+
+II. Prevenir accidentes viales y delitos derivados;
+
+III. Fomentar la no tolerancia de la venta y consumo de bebidas alcohólicas en menores de edad;
+
+IV. Explicar las consecuencias sociales, materiales y físicas que produce el consumo inmoderado;
+
+V. Sancionar el incumplimiento y las infracciones cometidas en términos de esta Ley, y
+
+VI. Todas aquellas que se consideren relevantes para combatir el consumo inmoderado de bebidas alcohólicas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 8 Quáter.
+
+El Ejecutivo del Estado deberá expedir en el mes de noviembre de cada año, el Programa Estatal Contra el Consumo Inmoderado de Bebidas Alcohólicas, que deberá contener, por lo menos:
+
+I. Un diagnóstico estatal sobre el consumo de bebidas alcohólicas;
+
+II. Información estadística sobre el número de enfermedades, accidentes, lesiones y muertes relacionados con el consumo de bebidas alcohólicas;
+
+III. Los programas y acciones a realizar durante el año para prevenir y erradicar el consumo inmoderado de bebidas alcohólicas;
+
+IV. Los mecanismos de participación ciudadana en el diseño, implementación, ejecución y evaluación de los programas y acciones;
+
+V. Las acciones específicas que habrán de realizar las Dependencias y Entidades de la Administración Pública Estatal, y
+
+VI. Las demás que señale el Reglamento Estatal.
+
 ### CAPÍTULO III. Del Municipio
 
-### CAPÍTULO I. De la Anuencia
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 9.
 
-Las autoridades municipales en el Estado contarán con las atribuciones que esta Ley y el Reglamento Estatal les confieran, teniendo siempre las facultades indelegables siguientes:
+Las autoridades municipales en el Estado contarán con las atribuciones que esta Ley, el Reglamento Estatal y los Reglamentos Municipales les confieran, teniendo siempre las facultades siguientes:
 
 I. Otorgar licencias y permisos relacionados con bebidas alcohólicas;
 
@@ -175,11 +261,13 @@ III. Autorizar transferencias, sólo en los casos permitidos por la Ley;
 
 IV. Autorizar cambios de horario, domicilio y de giro de los establecimientos, de conformidad con la presente Ley;
 
-V. La de inspección;
+V. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2017)
 
-VI. La de aplicación de sanciones, y
+VI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2017)
 
-VII. Las demás que señale esta Ley y el Reglamento Estatal.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VII. Las demás que señale esta Ley, el Reglamento Estatal y los Reglamentos Municipales.
 
 ###### Artículo 10.
 
@@ -189,19 +277,45 @@ I. Del titular a una persona con cercanía de parentesco, cuando por circunstanc
 
 II. Cuando se trate de un establecimiento que cuente con una antigüedad de tres años de apertura y no tenga antecedentes de violaciones graves a la Ley o al Reglamento Estatal.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 11.
 
-Cada Ayuntamiento emitirá un programa municipal que promueva, participe y coadyuve con las actividades que desarrollen otras instituciones públicas y privadas, respecto de la prevención y control en el consumo de bebidas alcohólicas y de accidentes automovilísticos provocados por esta causa.
+Cada Ayuntamiento emitirá un programa municipal, alineado con el Programa Estatal Contra el Consumo Inmoderado de Bebidas Alcohólicas, con el fin de que promueva, participe y coadyuve con las actividades que desarrollen otras instituciones públicas y privadas, respecto de la prevención y control en el consumo de bebidas alcohólicas y de accidentes automovilísticos provocados por esta causa.
 
 ###### Artículo 12.
 
 La Autoridad Municipal procurará la concentración de los establecimientos regulados por esta Ley y cuyo giro sea compatible, en centros o zonas que permitan el control y la supervisión de los mismos y faciliten las revisiones en materia de salubridad pública.
 
-### CAPÍTULO II. De la licencia de funcionamiento
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO IV. De la Coordinación entre el Poder Ejecutivo del Estado y los Municipios
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 12 Bis.
+
+El Poder Ejecutivo del Estado y los Ayuntamientos deberán establecer mecanismos de coordinación a fin de:
+
+I. Desarrollar estrategias y programas preventivos que permitan combatir el consumo inmoderado de bebidas alcohólicas, incluyendo aquellos que busquen erradicar la conducción de vehículos automotores en estado de ebriedad, implementando las medidas y acciones que consideren necesarias y oportunas para reducir y prevenir la comisión de faltas administrativas y delitos;
+
+II. Promover la participación de las instituciones en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso de bebidas alcohólicas;
+
+III. Promover la formalización de acuerdos con asociaciones empresariales o empresas productoras y distribuidoras de bebidas alcohólicas, así como anunciantes, agencias, medios de comunicación y asociaciones civiles y de usuarios a fin de lograr el cumplimiento de esta Ley;
+
+IV. Implementar las medidas necesarias que garanticen la seguridad de los establecimientos, y
+
+V. Las demás que establezca esta Ley y los Reglamentos Estatal y Municipales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 12 Ter.
+
+El Poder Ejecutivo del Estado podrá celebrar, convenio de colaboración, para llevar a cabo las facultades de inspección, verificación, vigilancia y sanción a que se refiere esta Ley, cuando los Ayuntamientos cuenten con la infraestructura y recursos necesarios para llevar a cabo tales funciones.
 
 ## TÍTULO SEGUNDO. DE LAS ANUENCIAS, LICENCIAS, PERMISOS Y TIPOS DE GIRO
 
-### CAPÍTULO III. De los permisos eventuales
+### CAPÍTULO I. De la Anuencia
 
 ###### Artículo 13.
 
@@ -231,13 +345,39 @@ II. Ser mayor de edad y estar en pleno goce y ejercicio de sus derechos. En caso
 
 A la solicitud de anuencia, a que se refiere la fracción I del artículo anterior, se acompañarán los documentos siguientes:
 
-I. Una copia del acta de nacimiento del interesado y copia de identificación con fotografía;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+I. Una copia del acta de nacimiento del interesado y una copia de identificación oficial con fotografía;
 
 II. Tratándose de personas jurídico colectivas, copia certificada del acta constitutiva en la que se contengan las facultades del representante legal o, en su caso, poder general para actos de administración;
 
-III. Croquis o plano donde se indique, en forma clara y precisa, la ubicación del local en el que se pretenda establecer el giro, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-IV. Una copia del recibo oficial, expedido por la Recaudación de Rentas, por concepto del pago de la verificación.
+III. Croquis o plano donde se indique, en forma clara y precisa, la ubicación del local en el que se pretenda establecer el giro;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IV. Una copia de recibo oficial expedido por la Recaudación de Rentas, por concepto de pago de la verificación;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+V. Constancia del Registro Federal de Contribuyentes;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VI. Constancia expedida por la autoridad sanitaria de la jurisdicción, que acredite que el local reúne los requisitos sanitarios vigentes;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VII. Constancia de no antecedentes penales en relación a delitos dolosos considerados como graves, para el caso de personas morales, dicha constancia deberá corresponder al representante legal de la misma;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VIII. Opinión positiva de la Secretaría General de Gobierno, a través de la unidad administrativa que corresponda, respecto del impacto social y de seguridad pública del área de influencia del establecimiento, tratándose de giros principales, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IX. Proyecto ejecutivo de la inversión a realizar, tratándose de giros principales.
 
 ###### Artículo 17.
 
@@ -245,13 +385,17 @@ En caso de no cumplir con alguno de los requisitos mencionados en los dos artíc
 
 La Secretaría verificará el local donde se pretende ejercer la licencia y tomará en consideración la ubicación y condiciones que guarden las instalaciones del establecimiento, así como, que dicho inmueble cumpla con todos los requisitos que esta Ley establece.
 
-En un plazo máximo de diez días hábiles, contados a partir de la recepción de la solicitud de anuencia correspondiente o de que haya sido subsanada, formulará un dictamen administrativo en el que se indicará el otorgamiento o no de la anuencia solicitada, el cual deberá de notificarse personalmente al interesado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+En un plazo máximo de veinte días hábiles, contados a partir de la recepción de la solicitud de anuencia correspondiente o de que haya sido subsanada, formulará un dictamen administrativo en el que se indicará el otorgamiento o no de la anuencia solicitada, el cual deberá de notificarse personalmente al interesado.
 
 Transcurrido el plazo a que se refiere el párrafo anterior y si el solicitante no obtiene respuesta a su solicitud de anuencia, se entenderá que la resolución de la Secretaría es emitida en sentido afirmativo, salvo las excepciones que por causa de interés público establezca el Reglamento Estatal y, cuando proceda, se cubra el pago de derechos correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 18.
 
-La verificación del establecimiento causará derechos a favor del Estado, lo que deberá estar sustentado en las respectivas Leyes de Ingresos. El pago se hará independientemente del otorgamiento o no de la licencia o permiso.
+La verificación del establecimiento causará derechos a favor del Estado, lo que deberá estar sustentado en las respectivas leyes de ingresos. El pago se hará independientemente del otorgamiento o no de la anuencia.
 
 ###### Artículo 19.
 
@@ -269,9 +413,17 @@ III. La identificación del giro;
 
 IV. Número de registro de la anuencia;
 
-V. Fecha de expedición, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-VI. Firma del servidor público emisor.
+V. Fecha de expedición;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VI. Firma del servidor público emisor, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VII. La georreferenciación del establecimiento.
 
 ###### Artículo 21.
 
@@ -279,7 +431,7 @@ Dentro de los tres días hábiles siguientes al de su expedición, la Secretarí
 
 Las anuencias serán vigentes por treinta días naturales a partir de su expedición.
 
-### CAPÍTULO IV. De la clasificación de giros y requisitos especiales
+### CAPÍTULO II. De la licencia de funcionamiento
 
 ###### Artículo 22.
 
@@ -301,9 +453,21 @@ b) Señalamiento del domicilio particular y del designado para recibir notificac
 
 III. Tratándose de personas físicas, no encontrarse en los supuestos señalados en el artículo 3 de esta Ley; en caso de personas jurídico colectivas, seguir legalmente constituidas conforme a las leyes de los Estados Unidos Mexicanos;
 
-IV. Acreditar la propiedad o derecho que tenga sobre el local donde pretenda ejercer la licencia de funcionamiento, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-V. Cumplir los requisitos especiales de conformidad al giro de que se trate.
+IV. Acreditar el derecho real que tenga sobre el local donde se pretenda ejercer la licencia de funcionamiento;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+V. Cumplir con los requisitos especiales de conformidad al giro que se trate;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VI. Dictamen favorable por el área responsable de protección civil municipal sobre las características de la construcción, equipo e instalaciones que garanticen la seguridad física de los asistentes, conforme a las normas correspondientes, cuando se trate de giros principales, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VII. Presentar licencia de uso de suelo y compatibilidad urbanística, en el caso de que la solicitud verse sobre giro principal.
 
 ###### Artículo 24.
 
@@ -315,7 +479,9 @@ Recibida la solicitud respectiva, la autoridad municipal deberá verificar que e
 
 La autoridad municipal, para mejor proveer respecto de la procedencia de la licencia solicitada, practicará una verificación en el local donde se pretende operar dicha licencia de funcionamiento, tomando en consideración la ubicación y condiciones que guarden las instalaciones del establecimiento, así como que el mismo cumpla con todos y cada uno de los requisitos que esta Ley establece para su debido funcionamiento.
 
-La misma autoridad, en un plazo máximo de diez días hábiles, contados a partir de la recepción de la solicitud o de que haya sido subsanada, emitirá el Acuerdo de Cabildo respectivo, en el que se indicará la procedencia o improcedencia de la expedición de la licencia solicitada, el cual deberá de notificarse personalmente al interesado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+La misma autoridad, en un plazo máximo de treinta días hábiles, contados a partir de la recepción de la solicitud o de que haya sido subsanada, emitirá el Acuerdo de Cabildo respectivo, en el que se indicará la procedencia o improcedencia de la expedición de la licencia solicitada, el cual deberá notificarse personalmente al interesado.
 
 Si el solicitante no obtuviera respuesta a la solicitud de licencia de funcionamiento y transcurrido el plazo referido en el párrafo anterior, se entenderá que la resolución es emitida en sentido afirmativo, salvo las excepciones que por causas de interés público establezca el Reglamento Estatal y, cuando proceda, se cubra el pago de derechos correspondiente.
 
@@ -353,13 +519,15 @@ X. Firmas del Presidente y Tesorero municipales, y
 
 XI. La prohibición expresa de transferirse bajo cualquier modalidad, salvo los casos de excepción señalados en esta Ley.
 
-### CAPÍTULO I. De las obligaciones
+### CAPÍTULO III. De los permisos eventuales
 
 ###### Artículo 29.
 
 La Tesorería Municipal podrá otorgar, sin la anuencia del Ejecutivo del Estado, permisos eventuales para la venta y consumo de bebidas alcohólicas, en las ferias, kermesses, bailes, espectáculos musicales, festejos populares, plazas de toros, lienzos charros, estadios y en otros eventos, espacios artísticos y deportivos.
 
-Los permisos eventuales no podrán otorgarse con vigencia superior a los quince días naturales, ni para aprovecharse en establecimientos que tienen una actividad permanente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Los permisos eventuales no podrán otorgarse con vigencia superior a los quince días naturales, ni para aprovecharse en establecimientos que tienen una actividad permanente y deberán sujetarse al margen que va desde las 10:00 a las 02:00 horas.
 
 No se otorgarán permisos para la venta de bebidas alcohólicas con fines comerciales, en los domicilios particulares, con motivo de festejo alguno.
 
@@ -407,9 +575,11 @@ IV. Ubicación del lugar donde se realizará el evento;
 
 V. Fecha y horario del mismo, y
 
-VI. La obligación del titular de contar con seguridad para salvaguardar el orden en el evento.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO II. De las prohibiciones
+VI. Las medidas de seguridad física de los asistentes, así como la obligación del titular del permiso de contar con seguridad para salvaguardar el orden del evento y las condiciones especiales que se deban cumplir para el desarrollo del mismo.
+
+### CAPÍTULO IV. De la clasificación de giros y requisitos especiales
 
 ###### Artículo 34.
 
@@ -453,9 +623,17 @@ I. Exhibir constancia de uso de suelo, respecto del inmueble donde pretenda oper
 
 II. Para el caso de inmuebles construidos veinte años anteriores a la fecha de la solicitud, acreditar el visto bueno de seguridad y operación, expedido por un Director Responsable de Obra autorizado;
 
-III. Que el inmueble, para la ubicación del establecimiento se encuentre a más de 200 metros de distancia de dependencias o entidades gubernamentales, salas de velación u hospitales, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-IV. Para los giros regulados en esta sección y que ofrecen música grabada o en vivo, deberán equipar su establecimiento con aislantes de sonido para evitar ruido contaminante que exceda los niveles permitidos y provoque molestias con los vecinos.
+III. Que el inmueble, para la ubicación del establecimiento se encuentre a más de 350 metros de distancia de dependencias o entidades gubernamentales, escuelas, iglesias, salas de velación u hospitales;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IV. Para los giros regulados en esta sección y que ofrecen música grabada o en vivo, deberán equipar su establecimiento con aislantes de sonido para evitar ruido contaminante que exceda los niveles permitidos y provoque molestias con los vecinos, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+V. Contar con las medidas de protección civil y seguridad necesarias y oportunas para garantizar la integridad de los asistentes, tales medidas deberán ser señaladas en las licencias de funcionamiento que otorgue el Municipio.
 
 Para el caso de establecimientos ubicados en zonas declaradas centros históricos, y en otras que por su importancia económica determinen las normas municipales, no se aplicará lo dispuesto por la fracción III de este artículo.
 
@@ -470,6 +648,12 @@ II. Contar con video juegos, juegos manuales de diversión y mesas de billar; lo
 ###### Artículo 39.
 
 Para el otorgamiento de licencias con giro principal, tratándose de zonas habitacionales compatible con esta clase de establecimientos, la Autoridad Municipal podrá dar vista de la solicitud respectiva, al comité de participación social correspondiente, en caso de que éste no exista, a una junta de vecinos, para que en un plazo breve manifieste su opinión al respecto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 39 Bis.
+
+En los establecimientos de giro principal se deberán implementar todas aquellas medidas para impedir el ingreso de personas que porten armas de cualquier tipo, que se encuentren en notorio estado de ebriedad, o bien, que se encuentren bajo los efectos de algún narcótico.
 
 #### Sección Segunda. De los establecimientos como giro accesorio
 
@@ -491,17 +675,29 @@ V. Fonda, lonchería, cenaduría y otras similares, son los establecimientos cuy
 
 VI. Hotel y motel, son comercios que ofrecen al público renta de habitaciones y en sus instalaciones destinan áreas para restaurante, bar, cafetería y salones de eventos, en los cuales venden bebidas alcohólicas en envase abierto o al copeo, siempre y cuando se consuman o hayan consumido alimentos;
 
-VII. Espacio deportivo, es cualquier inmueble público o privado que se destine para la práctica de alguna o diversas disciplinas deportivas o para la presentación de espectáculos de la misma especie, donde podrán venderse y consumirse bebidas alcohólicas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VII. Espacio deportivo, es cualquier inmueble público o privado que se destine para la práctica de alguna o diversas disciplinas deportivas, donde podrán venderse y consumirse bebidas alcohólicas;
 
 VIII. Billar, es el establecimiento destinado a la práctica de una actividad de recreo, donde se desarrollan juegos en mesas de billar bajo el cobro de cuotas de dinero por el uso de las mismas, donde podrán venderse y consumirse bebidas alcohólicas, limitándose a las de baja graduación;
 
-IX. Balneario, es el lugar destinado al recreo acuático y a la práctica informal de la natación, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-X. Baños públicos, son espacios abiertos reservados para el aseo personal terapias y tratamientos para la salud, exclusivos para hombres o mujeres.
+IX. Balneario, es el lugar destinado al recreo acuático y a la práctica informal de la natación;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+X. Baños públicos, son espacios abiertos reservados para el aseo personal, terapias y tratamientos para la salud, exclusivos para hombres o mujeres, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XI. Centros de espectáculos deportivos, cualquier inmueble cerrado y de acceso controlado, ya sea público o privado, que se destine para la presentación de espectáculos deportivos, donde podrán venderse y consumirse bebidas alcohólicas sólo en envases plásticos, desechables e higiénicos, bajo las restricciones de esta Ley y los Reglamentos Municipales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 41.
 
-En los establecimientos contemplados por las fracciones I, II, V y VI del artículo anterior y otros similares, podrán venderse y consumirse bebidas, siempre y cuando se acompañen de alimentos. Para el resto de los giros regulados por esta sección, la venta de alimentos será opcional.
+En los establecimientos contemplados por las fracciones I, II, III, IV, V, VI y IX del artículo anterior y otros similares, podrán venderse y consumirse bebidas alcohólicas, siempre y cuando se acompañen de alimentos. Para el resto de los giros regulados por esta sección, la venta de alimentos será opcional.
 
 Para los efectos de ésta Ley, no se consideran alimentos los siguientes: frituras, frutos secos, preparados de carnes rojas, cacahuates y similares en cualquier presentación, aunque éstos sean preparados dentro del mismo establecimiento.
 
@@ -519,7 +715,13 @@ II. Para el caso de licencias de salón de baile, el interesado deberá presenta
 
 III. Los anexos especiales de cantina o bar en hoteles, moteles, restaurantes, clubes sociales u otros lugares semejantes, para poder funcionar, necesitarán ser amparados por la licencia y deberán organizar su anexo de venta y de consumo de bebidas alcohólicas, en tal forma, que pueda cerrarse sin necesidad de impedir el funcionamiento del servicio principal, y
 
-IV. En la expedición de licencia o permiso, para la venta y consumo de bebidas en espacios deportivos, la autoridad valorará que con ello no se ponga en riesgo la tranquilidad de los deportistas y aficionados, o que poniendo en riesgo la seguridad, se inhiba la convivencia familiar.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IV. En la expedición de licencia o permiso, para la venta y consumo de bebidas en espacios y centros de espectáculos deportivos, la autoridad valorará que con ello no se ponga en riesgo la tranquilidad de los deportistas y aficionados, o que poniendo en riesgo la seguridad, se inhiba la convivencia familiar.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Se prohíbe la venta de bebidas alcohólicas en los espacios deportivos cerrados o abiertos en los que se practique, entrene o compita alguna disciplina deportiva.
 
 #### Sección Tercera. De los establecimientos con giro exclusivo de venta
 
@@ -565,9 +767,7 @@ Las agencias, almacenes o distribuidoras, y demás similares, se abstendrán de 
 
 ## TÍTULO TERCERO. DE LA OPERACIÓN DE LICENCIAS Y PERMISOS
 
-### CAPÍTULO III. Días de funcionamiento y horarios
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
+### CAPÍTULO I. De las obligaciones
 
 ###### Artículo 48.
 
@@ -609,7 +809,7 @@ XVI. Las demás que la presente Ley y el Reglamento Estatal establezcan.
 
 Los establecimientos con giro principal, para la venta y consumo de bebidas alcohólicas, que cuenten con entradas directas por la vía pública, además de lo establecido en al artículo anterior, los propietarios deberán instalar en su local: persianas, mamparas, canceles u otros medios que impidan la visibilidad hacia el interior.
 
-### CAPÍTULO IV. Del cambio de horarios
+### CAPÍTULO II. De las prohibiciones
 
 ###### Artículo 50.
 
@@ -657,7 +857,9 @@ XIX. Las demás que la presente Ley y el Reglamento Estatal establezcan.
 
 Queda prohibido consumir bebidas alcohólicas en la vía pública, salvo en los casos previstos por esta misma Ley y su Reglamento Estatal.
 
-### CAPÍTULO V. De las Renovaciones
+### CAPÍTULO III. Días de funcionamiento y horarios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
 ###### Artículo 52.
 
@@ -695,31 +897,41 @@ De lunes a Domingos
 
 sábado
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 a) Cantina o Bar De las 10:00 hrs. De 11:00 a 20:00 hrs.
 
-a la 1:00 hrs.
+a las 2:00 hrs.
 
 del día siguiente.
 
-b) Centro Nocturno De las 21:00 a De 16:00 a 20:00 hrs.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-o Cabaret las 03:00 hrs.
+b) Centro Nocturno De las 21:00 hrs. De 16:00 a 20:00 hrs.
+
+o Cabaret a las 02:00 hrs.
 
 del día siguiente.
 
-c) Cervecería De 10:00 a 10:00 De 11:00 a 20:00 hrs.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-hrs.
+c) Cervecería De las 10:00 hrs. De 11:00 a 20:00 hrs.
+
+a 22:00 hrs.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 d) Centro De las 12:00 hrs. De 11:00 a 20:00 hrs.
 
-Botanero y a la 1:00 a. m.
+Botanero y a las 2:00 hrs.
 
 Merendero del día siguiente.
 
-e) Discoteca De las 18:00 a De 16:00 a 20:00 hrs.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-las 03:00 hrs.
+e) Discoteca De las 18:00 hrs. a De 16:00 a 20:00 hrs.
+
+las 02:00 hrs.
 
 del día siguiente.
 
@@ -731,9 +943,11 @@ De lunes a Domingos
 
 sábado
 
-a) Club Social De 12:00 a De 11:00 a 20:00 hrs.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-23:00 hrs.
+a) Club Social De las 12:00 hrs. De 11:00 a 20:00 hrs.
+
+a 23:00 hrs.
 
 b) Restaurante De las 12:00 hrs. De 11:00 a 24:00 hrs.
 
@@ -741,9 +955,11 @@ a la 1:00 hr.
 
 del día siguiente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 c) Salón de De las 21:00 hrs. De 16:00 a 20:00 hrs.
 
-Baile a las 03:00 hrs.
+Baile a las 02:00 hrs.
 
 del día siguiente.
 
@@ -753,7 +969,9 @@ celebraciones a las 2:00 hrs. de lunes a sábado
 
 particulares del día siguiente.
 
-e) Fonda, De 10:00 a De 11:00 a 20:00 hrs.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+e) Fonda, De 10:00 hrs. a De 11:00 a 20:00 hrs.
 
 Lonchería 10:00 hrs.
 
@@ -775,33 +993,29 @@ horario de venta
 
 de las 24 hrs.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 g) Espacios De las 12:00 hrs. De 11:00 a 20:00 hrs.
 
 deportivos a la 1:00 hrs del
 
-día siguiente.
+y centros de día siguiente.
 
-h) Billares De 12:00 a 22:00 De 11:00 a 20:00 hrs.
+espectáculos
 
-hrs. del día
+deportivos
 
-siguiente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-i) Balnearios y Igual al horario De 11:00 a 20:00 hrs.
+h) Billares De 12:00 hrs. a De 11:00 a 20:00 hrs.
 
-Baños públicos de apertura y
+22:00 hrs.
 
-cierre comercial
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-del
+i) Balnearios y De 10:00 hrs. a De 11:00 a 20:00 hrs.
 
-establecimiento,
-
-sin exceder su
-
-horario de venta
-
-de las 24 hrs.
+Baños públicos 22:00 hrs.
 
 III. Los de giro exclusivo de venta:
 
@@ -811,21 +1025,11 @@ De lunes a Domingos
 
 sábado
 
-a) Depósito Igual al horario De 11:00 a 20:00 hrs.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-de apertura y
+a) Depósito De 10:00 hrs. a De 11:00 a 20:00 hrs.
 
-cierre comercial
-
-del
-
-establecimiento,
-
-sin exceder su
-
-horario de venta
-
-de las 24 hrs.
+22:00 hrs.
 
 b) Los demás giros De 12:00 a 22:00 De 11:00 a 20:00 hrs.
 
@@ -843,57 +1047,73 @@ a) Todos los giros De 10:00 a 22:00 De 10:00 a 20:00 hrs.
 
 hrs.
 
-### CAPÍTULO VI. Del cambio de domicilio o giro
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO IV. Del cambio de horarios
 
 ###### Artículo 56.
 
-El Ayuntamiento podrá ampliar hasta por dos horas más, sin la anuencia del Ejecutivo del Estado, los horarios señalados para los establecimientos dedicados al almacenaje, distribución, venta y consumo de bebidas alcohólicas, así como del alcohol etílico.
-
-Siendo un evento predominantemente infantil, la autoridad podrá restringir los horarios señalados por esta Ley, previa notificación que por escrito haga al interesado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2017)
 
 ###### Artículo 57.
 
-Los titulares de las licencias de funcionamiento, podrán solicitar a la autoridad municipal la ampliación del horario de operación de su establecimiento, reuniendo los siguientes requisitos:
-
-I. Presentar solicitud por escrito, especificando las causas que motivan dicha ampliación de horario, y
-
-II. Exhibir copia de la licencia de funcionamiento vigente a la fecha de la solicitud respectiva.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2017)
 
 ###### Artículo 58.
 
-La autoridad municipal considerará, para el otorgamiento de la ampliación de horario, los aspectos siguientes:
-
-I. Antecedentes del titular de la licencia y el manejo responsable de su titular;
-
-II. Que el mismo no hubiere sido sancionado grave o reiteradamente, y
-
-III. Los problemas de salud y seguridad pública que se pudiesen ocasionar y la posible afectación al interés público.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2017)
 
 ###### Artículo 59.
 
-La autoridad municipal en un plazo máximo de diez días hábiles, contados a partir de la recepción de la solicitud correspondiente, resolverá sobre la procedencia de la modificación del horario solicitado, el cual deberá notificarse personalmente al interesado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2017)
 
 ###### Artículo 60.
 
-Si la resolución es favorable, se procederá previo el pago de los derechos correspondientes, a la expedición de la licencia o autorización respectiva, que especificará el nuevo horario autorizado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2017)
 
-Si el solicitante no obtuviera respuesta de la autoridad municipal, transcurrido el plazo que refiere el artículo anterior, se entenderá que la resolución es emitida en sentido afirmativo, salvo las excepciones que por causas de interés público establezca el Reglamento Estatal y, cuando proceda, se cubra el pago de derechos correspondiente.
+### CAPÍTULO V. De las Renovaciones
 
-### CAPÍTULO VII. De la reubicación oficiosa
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 61.
 
-La licencia de funcionamiento tendrá vigencia hasta el 31 de diciembre del año de su expedición, los interesados que deseen seguir contando con la misma, deberán solicitar su renovación ante la tesorería municipal correspondiente, dentro del mismo mes.
+La licencia de funcionamiento tendrá vigencia hasta el 31 de diciembre del año de su expedición, los interesados que deseen seguir contando con la misma deberán solicitar su renovación ante la tesorería municipal correspondiente, dentro del plazo que va del 15 de noviembre al 5 de diciembre del mismo año.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 62.
 
-Para obtener la renovación respectiva, únicamente deberá presentarse la solicitud de renovación en el formato autorizado por la propia Tesorería Municipal.
+Para obtener la renovación respectiva, los interesados deberán presentar ante la Tesorería Municipal:
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+I. Solicitud de renovación a través del formato autorizado por la Tesorería Municipal;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+II. Dictamen favorable por el área responsable de protección civil municipal sobre las características de la construcción, equipo e instalaciones que garanticen la seguridad física de los asistentes, conforme a las normas correspondientes;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+III. Constancia de no antecedentes penales en relación a delitos dolosos considerados como graves, para el caso de personas jurídico colectivas, dicha constancia deberá corresponder al representante legal de la misma, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IV. Opinión positiva de la Secretaría General de Gobierno, a través de la unidad administrativa que corresponda, respecto del impacto social y de seguridad pública del área de influencia del establecimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+En caso de que exista petición expresa de los vecinos o quejas recurrentes durante el funcionamiento del establecimiento, la Autoridad Municipal podrá solicitar de nueva cuenta la anuencia de vecinos para la continuidad de operaciones.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 63.
 
-Recibida la solicitud y de considerarse necesario, la Autoridad Municipal verificará que el establecimiento siga cumpliendo con los requisitos previstos en esta Ley y el Reglamento Estatal, de no ser así podrá negarse a expedir nuevamente la licencia.
+Recibida la solicitud, la Autoridad Municipal verificará que el establecimiento siga cumpliendo con los requisitos previstos en esta Ley y los Reglamentos Estatal y Municipal, además de verificar si el establecimiento ha sido sancionado por incurrir en alguna falta o infracción en contra de esta Ley y sus reglamentos. Si de dicha revisión se desprende la comisión de al menos tres faltas o infracciones, no podrá otorgarse la renovación de la licencia.
 
-La verificación causará derechos en favor del erario del municipio en términos de la Ley de Hacienda del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+La verificación causará derechos en favor del erario del municipio en términos de la Ley de Hacienda Municipal.
 
 Si la solicitud se presenta en forma extemporánea, el titular se hará acreedor a una sanción económica, que cubrirá como accesorio en la renovación misma.
 
@@ -905,23 +1125,29 @@ La Tesorería Municipal en un plazo máximo de quince días hábiles, contados a
 
 Si el dictamen administrativo es favorable, se procederá al pago de los derechos correspondientes, dentro de los cuarenta y cinco días naturales siguientes a su emisión y en forma inmediata se hará la expedición y entrega de la renovación de la licencia de funcionamiento respectiva.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 66.
 
-Si el solicitante no obtuviera respuesta de la Autoridad Municipal, transcurrido el término de los quince días hábiles, se entenderá como autorizada la renovación, comenzando a correr a partir de entonces, el plazo de otros cinco días hábiles para que el licenciatario realice el pago de los derechos correspondientes.
+Si el solicitante no obtuviera respuesta de la autoridad municipal transcurrido el término de los treinta días hábiles, se entenderá como autorizada la renovación, comenzando a correr a partir de entonces el plazo de otros cinco días hábiles para que el licenciatario realice el pago de los derechos correspondientes.
 
 Transcurrido este último término sin que se haya efectuado el pago correspondiente, se tendrá por desistido al licenciatario de la renovación solicitada.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 67.
 
-La licencia que por más de ciento ochenta días naturales deje de operarse sin causa justificada o que teniendo causa para ello, su propietario no avise a la autoridad, perderá vigencia y para reanudar su operación deberá renovarla, haciendo el pago correspondiente ante la tesorería municipal.
+La licencia que por más de noventa días naturales deje de operarse sin causa justificada o que teniendo causa para ello, su propietario no avise a la autoridad, perderá vigencia y para reanudar su operación deberá renovarla, haciendo el pago correspondiente ante la tesorería municipal.
 
-Dicha renovación podrá hacerse sólo por una ocasión y dentro de los seis meses posteriores a la suspensión de operación del establecimiento, en los demás casos será necesario iniciar el trámite para una licencia nueva.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Dicha renovación podrá hacerse sólo por una ocasión y dentro de los tres meses posteriores a la suspensión de operación del establecimiento, en los demás casos será necesario iniciar el trámite para una licencia nueva.
 
 ###### Artículo 68.
 
 El plazo que transcurre desde la terminación de vigencia de la licencia hasta su renovación, será considerado como prórroga ficta a favor del licenciatario, siempre que se hubiere iniciado el trámite respectivo para obtenerla.
 
-### CAPÍTULO I. Del registro público de anuencias y licencias
+### CAPÍTULO VI. Del cambio de domicilio o giro
 
 ###### Artículo 69.
 
@@ -937,13 +1163,23 @@ I. Presentar solicitud de cambio de domicilio o giro en el formato autorizado po
 
 II. Exhibir copia de la licencia de funcionamiento o de la renovación del año inmediato anterior al que se solicita y de la anuencia expedida por el Ejecutivo del Estado, y
 
-III. Aprobada su solicitud, pagar los derechos correspondientes para su expedición y vigencia.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+III. Los requisitos señalados en el artículo 23 de esta Ley, y
+
+IV. Aprobada su solicitud, pagar los derechos correspondientes para su expedición y vigencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+La autoridad municipal deberá llevar un registro de cambios de domicilio y de giro de las licencias del alcohol y anexarlo al expediente de cada una.
 
 ###### Artículo 71.
 
 Recibida la solicitud respectiva, la Autoridad Municipal podrá verificar que cumpla con los requisitos establecidos en el artículo anterior, cuando haya alguna omisión, se requerirá al solicitante a fin de que en un plazo de cinco días hábiles la subsane, de no hacerlo, se tendrá la solicitud como no presentada.
 
-La autoridad, en un plazo máximo de diez días hábiles, contados a partir de la recepción de la solicitud correspondiente o de que haya sido subsanada, formulará el acuerdo respectivo en el que se indicará la procedencia del cambio de domicilio o giro solicitado, el cual deberá de notificarse personalmente al interesado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+La autoridad, en un plazo máximo de treinta días hábiles, contados a partir de la recepción de la solicitud correspondiente o de que haya sido subsanada, formulará el acuerdo respectivo en el que se indicará la procedencia del cambio de domicilio o giro solicitado, el cual deberá de notificarse personalmente al interesado.
 
 ###### Artículo 72.
 
@@ -951,11 +1187,13 @@ Si el acuerdo es favorable, se procederá previo al pago de los derechos corresp
 
 Si el solicitante no obtuviera respuesta de la autoridad municipal, transcurrido el plazo referido en el artículo anterior, se entenderá que la resolución es emitida en sentido afirmativo, salvo las excepciones que por causa de interés público establezca el Reglamento Estatal y, cuando proceda, se cubra el pago de derechos correspondiente.
 
-### CAPÍTULO II. De la inspección
+### CAPÍTULO VII. De la reubicación oficiosa
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 73.
 
-Las autoridades municipales y estatales, en el ámbito de sus respectivas competencias, podrán disponer del cambio de domicilio de la licencia de funcionamiento cuando así lo requiera el orden público, el interés general de la sociedad y cuando la operatividad del establecimiento afecte a los vecinos en términos del Reglamento Estatal. Para tal efecto se observará el procedimiento siguiente:
+Las autoridades municipales y estatales, en el ámbito de sus respectivas competencias, podrán disponer del cambio de domicilio de la licencia de funcionamiento cuando así lo requiera el orden público, el interés general de la sociedad y cuando la operatividad del establecimiento afecte a los vecinos en términos del Reglamento Estatal y del Reglamento Municipal. Para tal efecto se observará el procedimiento siguiente:
 
 I. Se notificará al titular de la licencia, que cuenta con veinte días hábiles para señalar nuevo domicilio para su reubicación;
 
@@ -973,7 +1211,7 @@ En las reubicaciones, las autoridades le otorgarán al titular de la licencia de
 
 ## TÍTULO CUARTO. DEL REGISTRO DE LICENCIAS Y DE LOS ACTOS DE INSPECCIÓN
 
-### CAPÍTULO I. De la multa
+### CAPÍTULO I. Del registro público de anuencias y licencias
 
 ###### Artículo 75.
 
@@ -989,33 +1227,55 @@ IV. Domicilio, giro, nombre o razón social del establecimiento y horario de fun
 
 V. Fecha de expedición o renovación anual de la licencia de funcionamiento;
 
-VI. Relación de cambios de domicilio, giro y de horarios de la licencia de funcionamiento, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-VII. Las sanciones que se hubieran impuesto, indicando fecha, concepto, monto y grado de cumplimiento.
+VI. Relación de cambios de domicilio y de giro de la licencia de funcionamiento;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VII. Las sanciones que se hubieran impuesto, indicando fecha, concepto, monto y grado de cumplimiento, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VIII. La georreferenciación de los establecimientos.
 
 ###### Artículo 76.
 
 El Ejecutivo del Estado, a través de la Secretaría, publicará, anualmente, un informe del resultado de expedición de anuencias y licencias en cada uno de los municipios.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 77.
 
-Para efectos de que la Secretaría mantenga actualizado el registro de las licencias de funcionamiento, la autoridad municipal, dentro del término de diez días hábiles contados a partir de la autorización respectiva, remitirá copia del inicio, renovación, cambio de domicilio, giro o modificación de horarios de cada licencia de funcionamiento que haya expedido.
+Para efectos de que la Secretaría mantenga actualizado el registro de las licencias de funcionamiento, la autoridad municipal, dentro del término de diez días hábiles contados a partir de la autorización respectiva, remitirá copia del inicio, renovación, cambio de domicilio o giro de cada licencia de funcionamiento que haya expedido.
 
-### CAPÍTULO II. De la nulidad de licencias
+### CAPÍTULO II. De la inspección
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 78.
 
-La Autoridad Municipal y la Secretaría ordenarán y practicarán visitas de inspección a los establecimientos que se dediquen a las actividades que regula la presente Ley, para verificar el cumplimiento de las disposiciones legales, designando al personal adecuado y suficiente para tal efecto.
+La Secretaría ordenará y practicará visitas domiciliarias de inspección de carácter general a los establecimientos que se dediquen a las actividades que regula la presente Ley, para verificar el cumplimiento de las disposiciones legales, designando al personal adecuado y suficiente para tal efecto.
 
-La inspección representará un deber permanente para la autoridad del municipio y podrá solicitar el apoyo e intervención de la Secretaría, para el cumplimiento de esta tarea.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+La inspección representará un deber permanente de la Secretaría, la cual podrá solicitar el apoyo e intervención de los Ayuntamientos y de las instituciones policiales, para el cumplimiento de esta tarea.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+La orden de visita domiciliaria de inspección y el procedimiento para efectuar la misma, en lo no dispuesto por esta Ley, se sujetarán a las reglas que para tales efectos se establecen en el Código Fiscal del Estado de Zacatecas y sus Municipios.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 79.
 
-Los inspectores, para la práctica de visitas, deberán presentar a los propietarios o encargados de los establecimientos para el almacenaje, distribución, venta y consumo de bebidas alcohólicas, orden por escrito expedida por el tesorero municipal o, en su caso, por la Secretaría.
+Los inspectores, para la práctica de visitas, deberán presentar a los propietarios o encargados de los establecimientos para el almacenaje, distribución, venta y consumo de bebidas alcohólicas, orden por escrito expedida por la Secretaría o, en caso de que exista convenio de colaboración entre ésta y el Ayuntamiento, será expedida por la tesorería municipal.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 80.
 
-La orden de visita expresará:
+La orden de visita domiciliaria de inspección expresará:
 
 I. El nombre de la persona física o moral, titular de la licencia de funcionamiento;
 
@@ -1067,15 +1327,31 @@ Transcurrido el plazo a que se refiere la fracción VI del artículo anterior, l
 
 La resolución que emita la autoridad, se notificará personalmente al interesado.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 86.
 
-Las corporaciones policiales de cada municipio, están obligadas a prestar el apoyo que se requiera para que los inspectores de alcoholes puedan llevar a cabo tanto las órdenes de visita como la notificación de sanciones.
+Las instituciones policiales estatales y municipales, están obligadas a prestar el apoyo que se requiera para que los inspectores de alcoholes puedan llevar a cabo tanto las órdenes de visita como la notificación de sanciones; así como consignar cualquier infracción que descubran en el cumplimiento de sus obligaciones de vigilancia, para lo cual deberán levantar acta circunstanciada por escrito, misma que remitirán a la Secretaría para seguir el trámite conducente.
 
 ###### Artículo 87.
 
 Los inspectores, para la validez y sólo en la práctica de toda diligencia que conforme a esta Ley les corresponda practicar, estarán investidos de fe pública.
 
-### CAPÍTULO III. De la cancelación
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO III. De la Denuncia Ciudadana
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 87 Bis.
+
+Se concede la acción ciudadana para que cualquier persona mayor de edad, pueda denunciar ante la autoridad estatal, los actos u omisiones que constituyan contravenciones a la presente Ley y el Reglamento Estatal, así como ante la autoridad municipal respecto de las infracciones al Reglamento Municipal.
+
+La denuncia deberá presentarse oralmente o por escrito ante la autoridad estatal o municipal competente, anexando si fuera posible, medios de prueba que acrediten los hechos señalados en la denuncia.
+
+La autoridad que corresponda, deberá abrir el expediente respectivo, comenzar el proceso de investigación, ordenar visitas de inspección y verificación necesarias, y darle trámite hasta su resolución definitiva.
+
+En caso de que una denuncia se presente ante autoridad diversa a la que resulte competente, la autoridad que reciba la denuncia deberá dar vista de inmediato a la competente para el seguimiento de la misma.
 
 ## TÍTULO QUINTO. DE LAS SANCIONES
 
@@ -1087,57 +1363,77 @@ Las sanciones que deban imponerse por la infracción al contenido de esta Ley y 
 
 Son infracciones a las disposiciones de esta Ley, las que cometa el titular de la licencia de funcionamiento por hecho propio o ajeno, entendiéndose en este último caso, cuando sean imputables a sus trabajadores, representantes, o cualesquiera otra persona que tenga bajo su cuidado la dirección y responsabilidad de la licencia respectiva.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 90.
 
-La aplicación de sanciones corresponderá a la Secretaría o a la tesorería de cada municipio.
+La aplicación de sanciones corresponderá a la Secretaría, salvo que exista convenio entre ésta y los Ayuntamientos y se delegue dicha facultad a las tesorerías municipales.
 
 ###### Artículo 91.
 
 El pago de las sanciones económicas impuestas a los licenciatarios o permisionarios por violaciones a la Ley, se hará dentro del término de quince días hábiles contados a partir de que fue notificada dicha sanción y ésta sea definitiva.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 92.
 
-Para hacer efectivo el cobro de las sanciones económicas impuestas por violaciones a la presente Ley, la autoridad estatal aplicará lo relativo al procedimiento administrativo de ejecución señalado en el Código Fiscal del Estado de Zacatecas, la Autoridad Municipal se estará a lo señalado en el Código Fiscal Municipal para el Estado de Zacatecas.
+Para hacer efectivo el cobro de las sanciones económicas impuestas por violaciones a la presente Ley, la autoridad estatal y municipal aplicará lo relativo al procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado de Zacatecas y sus Municipios.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 93.
 
-Tratándose de las notificaciones de los actos, a que refiere la presente Ley, se aplicará de manera supletoria el Código Fiscal Municipal para el Estado de Zacatecas o el Código Fiscal del Estado de Zacatecas, atendiendo a la autoridad que lo emite.
+Tratándose de las notificaciones de los actos a que se refiere la presente Ley, se aplicará de materia supletoria el Código Fiscal del Estado de Zacatecas y sus Municipios.
 
-### CAPÍTULO IV. De la clausura
+### CAPÍTULO I. De la multa
 
 ###### Artículo 94.
 
-Las sanciones pecuniarias que impongan la Secretaría o la autoridad municipal, serán equivalentes al número de cuotas que se indican, en el momento de la infracción, y que serán las siguientes:
+Las sanciones pecuniarias que imponga la Secretaría, serán equivalentes al número de cuotas que se indican, en el momento de la infracción, y que serán las siguientes:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 I. Venta de bebidas sin contar
 
 con la licencia o permiso
 
-correspondientes 150 a 250 cuotas;
+correspondientes 150 a 350 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 II. Operar el establecimiento
 
-con un giro distinto al autorizado 30 a 50 cuotas;
+con un giro distinto al autorizado 30 a 150 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 III. Venta de bebidas alcohólicas
 
-fuera del horario establecido 30 a 100 cuotas;
+fuera del horario establecido 30 a 250 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 IV. Por vender en días prohibidos
 
-por las leyes 30 a 100 cuotas;
+por las leyes 30 a 250 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 V. Permitir la entrada al
 
 establecimiento o vender bebidas
 
-a menores de edad 150 a 200 cuotas
+a menores de edad 150 a 500 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 VI. Por no permitir el acceso
 
 a las autoridades en visitas de
 
-inspección 10 a 30 cuotas;
+inspección 10 a 40 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 VII. Por no contar con persianas,
 
@@ -1149,17 +1445,21 @@ cantinas y cervecerías, que
 
 cuenten con entradas directas
 
-por la vía pública 10 a 20 cuotas;
+por la vía pública 10 a 60 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 VIII. La permanencia de consumidores
 
 dentro de las cervecerías, cantinas
 
-o bar, fuera del horario establecido 10 a 30 cuotas;
+o bar, fuera del horario establecido 10 a 40 cuotas;
 
 Si se excede de dos horas, la multa
 
 podrá aplicarse en un tanto más
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 IX. Que el establecimiento tenga
 
@@ -1167,27 +1467,35 @@ comunicación hacia habitaciones,
 
 comercios o locales, sin el permiso
 
-correspondiente 10 a 20 cuotas;
+correspondiente 10 a 30 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 X. Permitir el ejercicio de la prostitución
 
-dentro del establecimiento 50 a 100 cuotas;
+dentro del establecimiento 50 a 150 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 XI. Consumir bebidas alcohólicas
 
 fuera de los giros exclusivos de venta
 
-contemplados en esta Ley 20 a 50 cuotas;
+contemplados en esta Ley 20 a 60 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 XII. Consumir bebidas alcohólicas
 
 sin alimentos dentro de los giros
 
-sujetos a tal condición 5 a 20 cuotas;
+sujetos a tal condición 15 a 50 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 XIII. Por tener música viva o
 
-grabada con alto volumen 5 a 20 cuotas;
+grabada con alto volumen 15 a 60 cuotas;
 
 Salvo que los bandos o reglamentos
 
@@ -1199,6 +1507,8 @@ cual se estará a lo previsto en los
 
 mismos.
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 XIV. Al particular que lleve a cabo
 
 alguna transferencia de derechos
@@ -1206,6 +1516,8 @@ alguna transferencia de derechos
 de los amparados por las licencias de
 
 funcionamiento y permisos. 150 a 200 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 XV. Por la venta de bebidas
 
@@ -1215,43 +1527,73 @@ eventos que propicien el consumo
 
 inmoderado, así como por ofrecer
 
-barras libres 50 a 100 cuotas;
+barras libres 50 a 150 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 XVI. Por la venta de bebidas
 
-Adulteradas 150 a 250 cuotas;
+Adulteradas 150 a 500 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 XVII. Por exceder el aforo autorizado
 
-para cada establecimiento 50 a 100 cuotas
+para cada establecimiento 50 a 150 cuotas
 
-XVIII. Por la comisión de infracciones
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-establecidas en otro apartado de
+XVIII. A las agencias, almacenes
 
-esta Ley y el Reglamento Estatal 5 a 20 cuotas.
+o distribuidores y demás similares
+
+que vendan o distribuyan bebidas
+
+alcohólicas a establecimientos no
+
+autorizados. 200 a 450 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XIX. Por la comisión de infracciones
+
+establecidas en otro apartado de esta
+
+Ley, el Reglamento Estatal o el
+
+Reglamento Municipal. 5 a 60 cuotas.
 
 ###### Artículo 95.
 
 La falta de renovación de la licencia, siempre y cuando no exceda del día treinta de marzo del año que corresponda, se sancionará según el mes de presentación de la solicitud de acuerdo a lo siguiente:
 
-I. Enero: de 1 a 3 cuotas;
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-II. Febrero: de 4 a 6 cuotas, y
+I. Del 6 al 31 de diciembre: de 3 a 6 cuotas;
 
-III. Marzo: de 7 a 10 cuotas.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+II. Enero: de 6 a 9 cuotas;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+III. Febrero: de 10 a 13 cuotas, y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IV. Marzo: de 14 a 17 cuotas.
 
 ###### Artículo 96.
 
 Toda reincidencia por primera ocasión será sancionada con una multa equivalente al doble de la que se haya impuesto con anterioridad.
 
-Para los efectos del control y registro respecto a las sanciones que se les impongan a los titulares de las licencias, la autoridad municipal remitirá a la Secretaría, copia de la resolución que determine la sanción impuesta a los licenciatarios.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 97.
 
 Las sanciones contempladas en este capítulo serán impuestas sin perjuicio de otras que por su procedibilidad puedan ser aplicadas.
 
-### CAPÍTULO V. Del decomiso
+### CAPÍTULO II. De la nulidad de licencias
 
 ###### Artículo 98.
 
@@ -1267,11 +1609,17 @@ En caso de que exista responsabilidad imputable a la autoridad, la Secretaría d
 
 En dichos casos de nulidad, cualquier ciudadano que conozca del acto, podrá denunciarlo ante la propia Secretaría o autoridad pidiendo que se proceda en términos de esta Ley.
 
-### CAPÍTULO VI. De la responsabilidad de los servidores públicos
+### CAPÍTULO III. De la cancelación
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 101.
 
-Se establece la cancelación como un acto de orden público a cargo de la Secretaría o la Autoridad Municipal, a fin de suspender el funcionamiento de un establecimiento que contravenga las disposiciones de la presente Ley.
+Se establece la cancelación como un acto de orden público a cargo de la Secretaría a fin de suspender el funcionamiento de un establecimiento que contravenga las disposiciones de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Si la autoridad municipal tiene conocimiento de alguna de las causales de cancelación de licencia, deberá solicitar a la Secretaría la cancelación de la licencia de funcionamiento.
 
 ###### Artículo 102.
 
@@ -1283,15 +1631,23 @@ II. Por cometer el titular de la licencia de funcionamiento, por hecho propio o 
 
 III. Por no observar las normas de la reubicación forzosa previstas por esta Ley;
 
-IV. Por la clausura definitiva del establecimiento, o
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-V. Cuando así lo requiera el orden público y el interés general.
+IV. Por la clausura definitiva del establecimiento;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+V. Cuando se acumulen tres o más infracciones de cualquier tipo en un establecimiento, o
+
+VI. Cuando así lo requiera el orden público y el interés general.
 
 La cancelación procederá independientemente de la aplicación de las sanciones pecuniarias establecidas por esta Ley.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 103.
 
-La Autoridad Municipal o la Secretaría, conforme a los resultados de la visita de inspección y en atención a lo previsto por el artículo anterior, podrán ordenar la cancelación de la licencia, para lo cual se sujetarán a lo siguiente:
+La Secretaría, conforme a los resultados de la visita de inspección y en atención a lo previsto por el artículo anterior, podrá ordenar la cancelación de la licencia, para lo cual se sujetará a lo siguiente:
 
 I. Solamente podrá realizarse de manera escrita así como debidamente fundada y motivada, y
 
@@ -1301,11 +1657,13 @@ II. Si la cancelación afecta a un local que además se dedique a otros fines co
 
 Para la cancelación, serán aplicables las reglas del procedimiento de clausura, previstas en el capítulo siguiente.
 
-### CAPÍTULO ÚNICO. Del Recurso de Revocación
+### CAPÍTULO IV. De la clausura
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 105.
 
-La clausura es la medida que consiste en el cierre parcial, temporal o definitivo, que como sanción impone la Secretaría o la Autoridad Municipal a un establecimiento, colocando sellos por incurrir en una o varias de las causas legales previstas en esta Ley.
+La clausura es la medida que consiste en el cierre parcial, temporal o definitivo que como sanción impone la Secretaría a un establecimiento colocando sellos por incurrir en una o varias de las causas legales, previstas en esta Ley.
 
 Esta sanción podrá imponerse independientemente de las multas que originen las infracciones o faltas cometidas.
 
@@ -1325,9 +1683,15 @@ III. Reincidir en violación al artículo 48 fracción IV o del artículo 50, de
 
 IV. Incurrir en violación a la prohibición prevista en el artículo 50 fracción XIV de esta Ley;
 
-V. Dejar de cumplir cualquiera de los requisitos que para la anuencia y expedición de licencia contempla esta Ley, o
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-VI. Cuando así lo requiera el orden público y el interés general.
+V. Dejar de cumplir cualquiera de los requisitos que para la anuencia o expedición de licencia contempla esta Ley,
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VI. Faltar de forma reiterada a la obligación que tienen los establecimientos de giro principal de contar con las medidas de seguridad y protección civil que se establecen en el artículo 39 Bis, o
+
+VII. Cuando así lo requiera el orden público y el interés general.
 
 ###### Artículo 108.
 
@@ -1367,9 +1731,13 @@ En la audiencia, serán desahogadas las pruebas que se hayan admitido y, en la m
 
 La ejecución de clausura de las licencias, deberá practicarse en todo caso, dentro de los horarios de funcionamiento del establecimiento y con la persona que se encuentre al frente del mismo.
 
+### CAPÍTULO V. Del decomiso
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 113.
 
-El decomiso de las bebidas reguladas por esta Ley, a cargo de la Secretaría o el Ayuntamiento, procederá de pleno derecho y en forma inmediata en todos los casos de venta clandestina de bebidas, o por no contar con licencia de funcionamiento o del permiso correspondiente.
+El decomiso de las bebidas reguladas por esta Ley, a cargo de la Secretaría, procederá de pleno derecho y en forma inmediata en todos los casos de venta clandestina de bebidas, o por no contar con licencia de funcionamiento o del permiso correspondiente.
 
 La autoridad que practique el decomiso deberá siempre levantar el acta circunstanciada respectiva, anexando a ella un estricto inventario del producto recogido y señalando el lugar y las personas que serán depositarias del mismo, de lo cual dejará una copia cotejada del original al interesado.
 
@@ -1377,21 +1745,39 @@ La autoridad que practique el decomiso deberá siempre levantar el acta circunst
 
 Cuando hubieren cesado los efectos de la infracción y se haya pagado la multa correspondiente, el producto decomisado será devuelto al particular sancionado, en los términos que señale el Reglamento Estatal.
 
+### CAPÍTULO VI. De la responsabilidad de los servidores públicos
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 115.
 
-En materia de responsabilidad de los servidores públicos estatales o municipales, facultados para la aplicación de la presente Ley, se aplicará lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
+En materia de responsabilidad de los servidores públicos estatales o municipales, facultados para la aplicación de la presente Ley, se aplicará lo dispuesto por la Ley General de Responsabilidades Administrativas, independientemente de las responsabilidades que en materia civil o penal procedan.
 
 ## TÍTULO SEXTO. DE LOS RECURSOS
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO ÚNICO. Del Recurso de Revisión
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 116.
 
-El Recurso de Revocación se interpondrá por escrito ante la autoridad que emita el acto o resolución que se impugna, dentro de los cinco días hábiles siguientes a la notificación de la resolución cuyos efectos se impugne.
+El Recurso de Revisión se interpondrá por escrito ante la autoridad que emita el acto o resolución que se impugna, dentro de los quince días hábiles siguientes a la notificación de la resolución cuyos efectos se impugne.
 
-El Recurso tiene por objeto revocar, modificar o confirmar la resolución impugnada.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+El Recurso de Revisión tiene por objeto revocar, modificar o confirmar la resolución impugnada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+En lo no previsto por este Capítulo, se estará a lo dispuesto en la Ley de Procedimiento Administrativo del Estado y Municipios de Zacatecas.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 117.
 
-El escrito de interposición del Recurso de Revocación deberá reunir los siguientes requisitos formales:
+El escrito de interposición del Recurso de Revisión deberá reunir los siguientes requisitos formales:
 
 I. Autoridad a la que se dirige;
 
@@ -1413,9 +1799,11 @@ IX. La solicitud de suspensión del acto impugnado, en su caso, y
 
 X. La firma autógrafa del promovente. Cuando éste, no sepa o no pueda firmar, lo hará otra persona a su ruego y el interesado estampará su huella digital. La firma de su representante legal, procederá en todo caso.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 118.
 
-Al escrito del recurso de revocación, se debe acompañar:
+Al escrito del Recurso de Revisión, se debe acompañar:
 
 I. Copia de la identificación oficial, así como los documentos que acrediten su personalidad, cuando actúe en nombre de otro o de personas jurídicas colectivas;
 
@@ -1427,17 +1815,71 @@ IV. Copia de la resolución o acto que se impugna, y
 
 V. Las pruebas documentales que ofrezca, excepto cuando éstas obren en el expediente. Lo anterior sin perjuicio de entregar copias simples señalando la existencia de los originales en el expediente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 119.
 
-Una vez presentado el recurso, la autoridad debe acordar por escrito su admisión en un plazo no mayor de tres días hábiles, debiendo admitir las pruebas presentadas y declarará desahogadas aquéllas que por su naturaleza así lo permitan o las que ya existan en el procedimiento.
+Una vez presentado el recurso, la autoridad debe acordar por escrito su admisión en un plazo no mayor de cinco días hábiles, debiendo admitir las pruebas presentadas y declarará desahogadas aquéllas que por su naturaleza así lo permitan o las que ya existan en el procedimiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+En ese mismo acuerdo se debe requerir al servidor público que autorizó o emitió el acto recurrido, para que en un plazo no mayor de cinco días hábiles entregue un informe del acto impugnado y presente las pruebas que se relacionen.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+La oposición a los actos de trámite en un procedimiento administrativo deberá alegarse por los interesados durante dicho procedimiento, para su consideración, en la resolución que ponga fin al mismo. La oposición a tales actos de trámite se hará valer en todo caso al impugnar la resolución definitiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 119 Bis.
+
+La interposición del Recurso de Revisión suspende la ejecución del acto impugnado cuando:
+
+I. Lo solicite expresamente el recurrente;
+
+II. Sea procedente el recurso;
+
+III. No se cause perjuicio al interés social o se contravengan disposiciones de orden público;
+
+IV. No se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable, o
+
+V. Tratándose de multas, el recurrente garantice el crédito fiscal en cualquiera de las formas previstas en el Código Fiscal del Estado de Zacatecas y sus Municipios.
+
+La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días siguientes a su interposición, en cuyo defecto se entenderá otorgada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 119 Ter.
+
+En un plazo de diez días hábiles, contados a partir de la admisión del recurso, si las pruebas presentadas fueron desahogadas por su propia naturaleza, la autoridad o el servidor que conoce del recurso debe resolver el mismo.
+
+En caso contrario, se abrirá un periodo probatorio de cinco días hábiles para desahogar aquellas pruebas que así lo requieran. Al término de este periodo se debe dictar la resolución correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 119 Quáter.
+
+La autoridad encargada de resolver el recurso podrá:
+
+I. Desecharlo por improcedente o sobreseerlo;
+
+II. Confirmar el acto impugnado;
+
+III. Declarar la inexistencia, la nulidad lisa y llana o para efectos del acto impugnado o revocarlo total o parcialmente, o
+
+IV. Modificar u ordenar la modificación del acto impugnado, dictar u ordenar, uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 120.
 
-En contra de la resolución que resuelve el recurso de revocación interpuesto, procede el Juicio de Nulidad ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+En contra de la resolución que recaiga en el Recurso de Revisión interpuesto, procede el Juicio de Nulidad, ante el Tribunal de Justicia Administrativa del Estado de Zacatecas.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 121.
 
-La interposición del recurso regulado por este Capítulo será optativo para el particular, por lo que puede acudir al Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas sin haberlo agotado previamente.
+La interposición del recurso regulado en este Capítulo será optativa para el particular, por lo que puede acudir al Tribunal de Justicia Administrativa del Estado de Zacatecas sin haberlo agotado previamente.
 
 ## TRANSITORIOS
 
@@ -1482,3 +1924,21 @@ P.O. 7 DE JUNIO DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 331- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE BEBIDAS ALCOHÓLICAS PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día 1 de enero del año 2018, sin perjuicio de las disposiciones siguientes.
+
+Artículo Segundo. Los trámites de anuencias, licencias de funcionamiento y sus renovaciones, que hayan iniciado antes de la entrada en vigor del presente Decreto, deberán concluir con base en las disposiciones vigentes al momento de la solicitud.
+
+Artículo Tercero. Dentro de los 90 días posteriores a la entrada en vigor del presente Decreto, las autoridades municipales deberán verificar cada una de las licencias de funcionamiento que se encuentren vigentes en el Municipio, con la finalidad de determinar los requisitos que faltarán para dar cumplimiento a este Decreto, para lo cual deberán requerir a los licenciatarios para que en un término de veinte días hábiles actualicen el expediente respectivo.
+
+Transcurrido el plazo señalado en el párrafo anterior, las autoridades municipales deberán enviar a la Secretaría un reporte del estado que guarda cada una de las licencias de funcionamiento, a fin de que ésta proceda como corresponda en los términos de esta Ley.
+
+Artículo Cuarto. Dentro del término de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias en concordancia con la Ley.
+
+Artículo Quinto. Dentro del término de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos deberán expedir el Reglamento Municipal a que se refiere el presente Decreto.
+
+Artículo Sexto. Se derogan todas aquellas disposiciones jurídicas y administrativas que contravengan al presente Decreto.
