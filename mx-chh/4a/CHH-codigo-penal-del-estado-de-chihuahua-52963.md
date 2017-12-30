@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2017-10-28"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1421,7 +1421,7 @@ j) Hostigamiento sexual;
 
 k) Procreación asistida e inseminación artificial, en los términos del artículo 151 del Código Penal;
 
-l) Privación de la libertad con fines sexuales;
+l) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2017)
 
 m) Abuso de confianza;
 
@@ -5060,3 +5060,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado de Chihuahua, a través de la Fiscalía General del Estado, en el ámbito de su competencia y capacidades, de acuerdo al Resolutivo 18 de la Sentencia emitida por la Corte Interamericana de Derechos Humanos en el caso González y Otras (“Campo Algodonero”) Vs. México, verificará la estandarización de sus protocolos para la investigación del Feminicidio.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXV/RFCOD/0560/2017 I P.O., MEDIANTE EL CUAL SE DEROGA DEL ARTÍCULO 98 PÁRRAFO CUARTO, EL INCISO l) DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
