@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2017-12-27"
+last_updated: "2017-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -231,7 +233,7 @@ La Secretaría de Hacienda, estimará los ingresos de los contribuyentes por los
 
 24.- Los interesados directamente en situaciones reales y concretas que planteen consultas sobre la aplicación que a las mismas deba hacerse de las disposiciones fiscales, tendrán derecho a que la Secretaría de Hacienda dicte resolución sobre tales consultas. Si no se plantean situaciones reales y concretas, la Secretaría de Hacienda se abstendrá de resolver consultas relativas a la interpretación general abstracta e impersonal de las disposiciones fiscales.
 
-Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en los términos que la ley fija o, a falta de término establecido, en 90 días. El silencio de las autoridades fiscales se considerará como resolución negativa cuando no dén respuesta en el término que corresponda.
+Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en los términos que la ley fija o, a falta de término establecido, en 90 días. El silencio de las autoridades fiscales se considerará como resolución negativa cuando no den respuesta en el término que corresponda.
 
 25.- Para determinar la preferencia respecto de los créditos fiscales, se estará a las siguientes reglas:
 
@@ -277,11 +279,9 @@ Los ingresos que se obtengan por empréstitos contratados sobre el crédito del 
 
 31.- Son impuestos las prestaciones en dinero o en especie que fija la Ley con carácter general y obligatorio, a cargo de personas físicas, morales y unidades económicas, para cubrir los gastos públicos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2012)</small>
-
-Son derechos las contraprestaciones establecidas por el Poder Público, conforme a la Ley, en pago de un servicio. También son derechos las contribuciones aprobadas anualmente por la Junta Central de Agua y Saneamiento a sus organismos operadores, publicadas en el Periódico Oficial del Estado, con motivo de la prestación del servicio público de agua potable, drenaje, alcantarillado, tratamiento de aguas residuales y disposición final de lodos.
+Son derechos las contraprestaciones establecidas por el Poder Público, conforme a la Ley, en pago de un servicio. También son derechos las contribuciones aprobadas anualmente por el Consejo de Administración de la Junta Central de Agua y Saneamiento y las aprobadas anualmente por los Consejos de Administración de los organismos operadores municipales, publicadas en el Periódico Oficial del Estado, con motivo de la prestación del servicio público de agua potable, alcantarillado sanitario, saneamiento, tratamiento de aguas residuales, disposición final de lodos, de laboratorio y cualquier otro que presten.
 
 Son contribuciones especiales las prestaciones legalmente obligatorias que se establecen a cargo de las personas que se benefician de manera especial con alguna obra o servicio público, destinadas a cubrir los gastos que requiera la propia obra o servicio. En consecuencia la contribución estará en relación con el monto del beneficio obtenido y el costo de la obra.
 
@@ -4934,3 +4934,45 @@ TERCERO.- La tasa a que se refiere el artículo 103 del presente Código, será 
 Durante el año dos mil dieciocho, lo destinado a inversión pública será un punto porcentual.
 
 CUARTO.- El Ejecutivo del Estado deberá presentar iniciativa de reforma al Decreto No. 483/96 I P.O., a fin de armonizarlo con el presente Decreto, a más tardar 60 días hábiles siguientes a su entrada en vigor.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO LXV/RFLYC/0644/2017 I P.O. MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA; ASÍ COMO DEL CÓDIGO MUNICIPAL Y DEL CÓDIGO FISCAL, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la creación del primer Consejo de Administración de la Junta Central de Agua y Saneamiento del Estado de Chihuahua, será el actual Consejo Directivo quien nombrará a las Consejerías referidas en la fracción III, incisos j), k) y l), del artículo 12 de la Ley del Agua del Estado de Chihuahua, pudiendo, en su caso, permanecer como integrantes del nuevo Consejo de Administración de la Junta Central quienes ya se encuentren siendo parte del Consejo Directivo actual, incluyendo la Presidencia del mismo.
+
+El Consejo de Administración a que se refiere el párrafo anterior deberá estar plenamente conformado y en operación, a más tardar en los dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para la creación del primer Consejo de Administración de las Juntas Municipales de Agua y Saneamiento del Estado de Chihuahua, será el Consejo de Administración de la Junta Central quien designará a las personas que ocupen la Presidencia y las Consejerías a que se refiere la fracción III, incisos d), e), f), y g) del artículo 20 de la Ley del Agua del Estado de Chihuahua, pudiendo, en su caso, permanecer como integrantes del nuevo Consejo de Administración de las Juntas Municipales quienes ya se encuentren siendo parte del Consejo Directivo actual, incluyendo la Presidencia del mismo.
+
+Los Consejos de Administración referidos en el párrafo anterior deberán estar plenamente conformados y en operación, a más tardar en los dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para la creación del primer Consejo de Administración de los organismos operadores municipales del Estado de Chihuahua, será la persona que presida el Ayuntamiento quien nombre al titular de la Presidencia del Consejo y a las Consejerías referidas en la fracción III, incisos c), d), e), y f) del artículo 31 BIS de la Ley del Agua del Estado de Chihuahua, lo cual deberá ser realizado en estricto apego a los requisitos establecidos en el artículo 31 TER de la misma Ley.
+
+El Consejo de Administración referido en el párrafo anterior deberá estar plenamente conformado y en operación, a más tardar en los dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Una vez conformados los nuevos Consejos de Administración, los acuerdos tomados válidamente por los Consejos Directivos que desaparecen, continuarán siendo válidos, a menos que sean revocados por el nuevo Consejo.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado, emitirá el Reglamento correspondiente a la Ley del Agua del Estado de Chihuahua, dentro de los ciento ochenta días, posteriores a su entrada en vigor.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir de la entrada en vigor del presente Decreto cuando se haga referencia en la Ley del Agua o cualquier otra legislación estatal, al alcantarillado se entenderá que se refiere al alcantarillado sanitario, y por lo que respecta al drenaje, se referirá al drenaje pluvial.
+
+###### ARTÍCULO OCTAVO.
+
+A partir de la entrada en vigor del presente Decreto, el diseño, ejecución, supervisión y mantenimiento del drenaje pluvial, será responsabilidad de las autoridades municipales.
