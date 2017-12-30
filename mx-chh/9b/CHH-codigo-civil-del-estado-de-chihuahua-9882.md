@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2017-12-23"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -349,13 +349,19 @@ Para el registro del nacimiento de indígenas del Estado, la ley reconoce como f
 
 El Jefe de la Oficina estará obligado a reconocer en todo caso la personalidad de la autoridad indígena que haga constar un nacimiento de un miembro de su comunidad, sin exigir formalidades especiales, debiendo proceder a levantar el acta de nacimiento que corresponda, una vez que se le proporcionen los datos necesarios para ello.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+55.- La madre y el padre tienen la obligación de declarar el nacimiento. La Dirección del Registro Civil levantará, de manera gratuita, el registro del nacimiento y expedirá la primer acta de la misma forma.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+Los médicos, matronas o personas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Registro Civil dentro de los diez días siguientes. La misma obligación tiene la persona que sea propietaria o arrendataria, en cuyo domicilio haya tenido lugar el nacimiento.
+
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
-55.- Los padres tienen obligación de declarar el nacimiento dentro de los ciento ochenta días de ocurrido.
-
-Los médicos, matronas o personas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Registro Civil dentro de los diez días siguientes. La misma obligación tiene el jefe de familia, en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
-
 Recibido el aviso, el Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 Si el nacimiento tuviere lugar en un sanatorio, la obligación a que se refiere el párrafo anterior estará a cargo del Director o encargado del mismo.
 
@@ -363,13 +369,11 @@ Si el nacimiento tuviere lugar en un sanatorio, la obligación a que se refiere 
 
 La Dirección del Registro Civil determinará las instituciones médicas públicas y privadas, en las que se deberán registrar a los ahí nacidos antes de abandonar dichos establecimientos, en coordinación y bajo la supervisión de la propia Dirección del Registro Civil.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-56.- Las personas que, estando obligadas a declarar el nacimiento lo hagan fuera del término fijado, serán sancionadas por el jefe de la oficina con una multa de una a diez veces el valor diario de la Unidad de Medida y Actualización vigente, atendiendo las circunstancias de cada caso.
+56.- Las personas que, estando obligadas a dar el aviso establecido en el segundo párrafo del artículo anterior, lo hagan fuera del término fijado, serán sancionadas por el jefe de la oficina, atendiendo a las circunstancias de cada caso, con una multa de una a diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
-
-En la misma sanción incurrirán las personas que no cumplan la obligación de dar el aviso prevenido en el artículo anterior.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 (REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 3 DE OCTUBRE DE 1987)
 
@@ -13124,3 +13128,11 @@ C) Modificar la sociedad conyugal previo consentimiento de las personas que pod�
 D) Terminar la separación de bienes para ser substituida por la sociedad conyugal, previo consentimiento de las personas que podían otorgarlo para la celebración del matrimonio hasta antes de la entrada en vigor del presente Decreto.
 
 E) Modificar las capitulaciones matrimoniales, previo consentimiento de las personas que podían otorgarlo para la celebración del matrimonio hasta antes de la entrada en vigor del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0419/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
