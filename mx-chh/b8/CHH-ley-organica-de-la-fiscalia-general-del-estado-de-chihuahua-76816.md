@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-fiscalia-general-del-estado-de-chihuahua-768
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-25"
-last_updated: "2017-06-07"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHH"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 25 de septiembre de 2010.
 
@@ -87,7 +89,7 @@ X. Elaborar y difundir los estudios e investigaciones criminológicos;
 
 XI. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Estatal y Nacional de Seguridad Pública, con autoridades federales, estatales y municipales, y
 
-XII. Dirigir y vigilar el cumplimiento de las leyes y reglamentos, con relación a las funciones de Protección Civil, y organizar el funcionamiento de las direcciones que ejerzan dichas atribuciones.
+XII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -287,7 +289,7 @@ I. La Dirección de Servicios Periciales y Ciencias Forenses;
 
 II. El Centro Estatal de Información, Análisis y Estadística Criminal;
 
-III. La Coordinación Estatal de Protección Civil;
+III. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2017)
 
 IV. La Dirección del Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana; y
 
@@ -420,6 +422,10 @@ I. Vigilar el manejo eficiente y eficaz de los recursos humanos y materiales, as
 II. Organizar, dirigir y supervisar el Instituto Estatal de Seguridad Pública, el Centro Estatal de Evaluación y Control de Confianza y el Centro de Atención Integral de la Salud;
 
 III. Aplicar, por conducto de los Órganos e instancias correspondientes, los mecanismos legales para el Ingreso, Promoción, Permanencia, Responsabilidades y Estímulos de los Integrantes de las Instituciones de Seguridad Pública del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+IV. Dar seguimiento a las personas sentenciadas que gozan de libertad condicionada y las demás que le confieran las disposiciones legales aplicables. Para el mejor cumplimiento de lo anterior, el Instituto de Servicios Previos al Juicio dependiente del Tribunal Superior de Justicia del Estado, deberá compartir la información que tenga sobre las personas que gozaban de una medida cautelar distinta a la prisión preventiva y que se encuentran en el supuesto de personas sentenciadas que obtienen libertad condicionada.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -695,15 +701,7 @@ IV. La Dirección de la Coordinación del Centro de Control, Comando, Comunicaci
 
 La información generada por el Sistema Estatal de Seguridad Pública es confidencial y reservada, por lo que solo será suministrada a las Instituciones de Seguridad Pública en los términos de las disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
-
-Artículo 15 Quintus. La Coordinación Estatal de Protección Civil es la unidad técnica de la Fiscalía General del Estado que tiene a su cargo realizar las acciones necesarias con el fin de prevenir, proteger y salvaguardar a las personas, los bienes públicos, privados y el entorno ante la posibilidad de un siniestro o desastre, producido por causa de origen natural o humano.
-
-Ejercerá sus atribuciones conforme a las disposiciones de la Ley Estatal de Protección Civil, auxiliándose de las siguientes unidades:
-
-I. Departamento de Coordinación de Vinculación.
-
-II. Departamento Operativo.
+Artículo 15 Quintus. (DEROGADO, P.O. 30 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2017)</small>
 
@@ -1271,7 +1269,7 @@ El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o 
 
 P.O. 7 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0340/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0340/2017 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA, LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE CHIHUAHUA Y LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1452,3 +1450,39 @@ Agente del Ministerio Público "A". Agente del Ministerio Público "C".
 Agente del Ministerio Público "B". Agente del Ministerio Público "D".
 
 Auxiliar del Ministerio Público. Agente del Ministerio Publico "D".
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO DECIMOQUINTO.- A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto de la Dirección de Control Interno de la Fiscalía Especializada en Control, Análisis y Evaluación, se entenderán referidas a la Dirección de Inspección Interna de la citada Fiscalía Especializada.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXV/RFLEY/0646/2017 I P. O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY DE PROTECCIÓN CIVIL Y DE LA LEY ÓRGANICA DE LA FISCALÍA GENERAL, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría General de Gobierno los bienes muebles, archivos y, en general, documentos que tenía destinados a su servicio, manejo y resguardo la Coordinación Estatal de Protección Civil dependiente de la Fiscalía General del Estado, para los efectos a que haya lugar. Así mismo, realícense las gestiones y trámites necesarios en materia presupuestal para que lo relativo quede a partir de la entrada en vigor del presente Decreto, referido, asignado o aplicable respecto a la Secretaría General de Gobierno del Poder Ejecutivo.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados ante la Coordinación Estatal de Protección Civil, dependiente de la Fiscalía General del Estado, seguirán su substanciación dentro de la estructura de la Secretaría General de Gobierno.
+
+###### ARTÍCULO QUINTO.
+
+Los servidores públicos adscritos a la Fiscalía General del Estado y que pasen a formar parte de la Secretaría General de Gobierno, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO SEXTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Coordinación Estatal de Protección Civil de la Fiscalía General del Estado, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, así como con cualquier persona física o moral, serán asumidas por la referida Coordinación vía la Secretaría General de Gobierno.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Fiscalía General del Estado deberá realizar las acciones necesarias en cuanto a su organización interna a fin de encontrarse en aptitud de ejercer las atribuciones que se le confieren por medio del presente Decreto.
