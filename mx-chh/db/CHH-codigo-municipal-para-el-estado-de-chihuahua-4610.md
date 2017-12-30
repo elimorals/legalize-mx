@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2017-12-20"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -467,35 +467,47 @@ Por cada Presidente, Síndico, Regidor o Comisario, habrá un suplente para sust
 
 En aquellos municipios con población indígena, las autoridades de sus pueblos y comunidades elegirán un representante ante el ayuntamiento respectivo, con derecho a voz, lo que harán de conformidad con sus tradiciones y normas internas.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 18.
 
-Cada Ayuntamiento, se instalará el día 10 de octubre de los años correspondientes a su renovación. Las Juntas Municipales y Comisarías de Policía, al respecto, se regirán por el procedimiento establecido en el artículo 44 de este Código y tomarán posesión en la fecha que señale el Ayuntamiento, una vez calificada la elección. El Presidente Municipal, otorgará protesta en los siguientes términos:
+Cada Ayuntamiento se instalará el día 10 de septiembre de los años correspondientes a su renovación. Las Juntas Municipales y Comisarías de Policía, al respecto, se regirán por el procedimiento establecido en el artículo 44 de este Código y tomarán posesión en la fecha que señale el Ayuntamiento una vez calificada la elección. El Presidente Municipal, otorgará protesta en los siguientes términos:
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Presidente Municipal, que el pueblo de este Municipio, me ha conferido".
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 El Síndico, otorgará protesta en los siguientes términos:
 
 "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo de Síndico, que el pueblo de este Municipio, me ha conferido".
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 El Presidente Municipal tomará la protesta a los Regidores, a los integrantes de las Juntas Municipales y a los Comisarios de Policía, de la manera siguiente:
 
 "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular de nuestra Entidad, el Código Municipal para el Estado y demás disposiciones que de ellos emanen y desempeñar con lealtad, eficiencia y patriotismo, el cargo que el pueblo de este municipio os ha conferido?".
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 El Presidente Municipal los amonestará en los siguientes términos:
 
 "Si así no lo hiciereis, que la Nación, el Estado y el Municipio os lo demanden".
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+
 El Presidente Municipal expondrá a los vecinos del Municipio su programa de gobierno.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 En las Juntas Municipales y Comisarías de Policía, la protesta se tomará por el Presidente Municipal o su representante.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2001) (F. DE E., P.O. 31 DE OCTUBRE DE 2001)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
 
-###### ARTICULO 19.
+###### ARTÍCULO 19.
 
-Es obligación del Ayuntamiento celebrar una sesión solemne en el período que comprende del día dos al nueve de octubre de cada año, en la cual el Presidente Municipal deberá rendir informe detallado de su gestión administrativa.
+Es obligación del Ayuntamiento celebrar una sesión solemne en el periodo que comprende del día dos al nueve de septiembre de cada año, en la cual el Presidente Municipal deberá rendir informe detallado de su gestión administrativa.
 
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
 
@@ -771,7 +783,9 @@ IV.- Dar publicidad a los reglamentos y demás disposiciones de carácter genera
 
 V.- Resolver los conflictos de competencia entre las dependencias municipales;
 
-VI.- Designar con la aprobación del Ayuntamiento, a los miembros de los Consejos de Administración, juntas directivas u órganos equivalentes, presidente, director o gerente y comisarios de los organismos descentralizados y empresas de participación municipal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VI.- Designar con la aprobación del Ayuntamiento, a los miembros de los Consejos de Administración, Juntas Directivas u órganos equivalentes, a quienes ocupen la Presidencia, Dirección o Gerencia y Comisarías de los organismos descentralizados y empresas de participación municipal; en los casos de la designación de los Consejos de Administración, a quienes ocupen la Presidencia, Dirección o Gerencia de los organismos operadores municipales del agua, se atenderá a lo dispuesto por la Ley del Agua del Estado de Chihuahua.
 
 VII.- Tomar la protesta legal, a los funcionarios municipales que conforme a la ley deban otorgarla ante él, en los siguientes términos:
 
@@ -3293,7 +3307,9 @@ Las funciones y servicios públicos municipales, son los siguientes:
 
 I.- Seguridad pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito;
 
-II.- Agua potable y saneamiento, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+II.- Agua potable y saneamiento, alcantarillado sanitario, tratamiento y disposición de sus aguas residuales; para la prestación de estos servicios se estará a lo establecido y estipulado en la Ley del Agua del Estado de Chihuahua, en cuanto a las estructuras de sus órganos de gobierno, vigilancia, funcionamiento, operación, desarrollo y control.
 
 III.- Pavimentación y nomenclaturas de calles;
 
@@ -4790,3 +4806,53 @@ P.O. 20 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO RFCOD/0413/2017 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día primero de enero del año 2018, para los efectos relativos a la formulación y presentación del Presupuesto de Egresos de cada municipio en la Entidad, correspondiente al ejercicio fiscal 2019 y subsecuentes.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0460/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 18 PÁRRAFO PRIMERO, Y 19 PÁRRAFO PRIMERO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXV/RFLYC/0644/2017 I P.O. MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA; ASÍ COMO DEL CÓDIGO MUNICIPAL Y DEL CÓDIGO FISCAL, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la creación del primer Consejo de Administración de la Junta Central de Agua y Saneamiento del Estado de Chihuahua, será el actual Consejo Directivo quien nombrará a las Consejerías referidas en la fracción III, incisos j), k) y l), del artículo 12 de la Ley del Agua del Estado de Chihuahua, pudiendo, en su caso, permanecer como integrantes del nuevo Consejo de Administración de la Junta Central quienes ya se encuentren siendo parte del Consejo Directivo actual, incluyendo la Presidencia del mismo.
+
+El Consejo de Administración a que se refiere el párrafo anterior deberá estar plenamente conformado y en operación, a más tardar en los dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para la creación del primer Consejo de Administración de las Juntas Municipales de Agua y Saneamiento del Estado de Chihuahua, será el Consejo de Administración de la Junta Central quien designará a las personas que ocupen la Presidencia y las Consejerías a que se refiere la fracción III, incisos d), e), f), y g) del artículo 20 de la Ley del Agua del Estado de Chihuahua, pudiendo, en su caso, permanecer como integrantes del nuevo Consejo de Administración de las Juntas Municipales quienes ya se encuentren siendo parte del Consejo Directivo actual, incluyendo la Presidencia del mismo.
+
+Los Consejos de Administración referidos en el párrafo anterior deberán estar plenamente conformados y en operación, a más tardar en los dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para la creación del primer Consejo de Administración de los organismos operadores municipales del Estado de Chihuahua, será la persona que presida el Ayuntamiento quien nombre al titular de la Presidencia del Consejo y a las Consejerías referidas en la fracción III, incisos c), d), e), y f) del artículo 31 BIS de la Ley del Agua del Estado de Chihuahua, lo cual deberá ser realizado en estricto apego a los requisitos establecidos en el artículo 31 TER de la misma Ley.
+
+El Consejo de Administración referido en el párrafo anterior deberá estar plenamente conformado y en operación, a más tardar en los dieciocho meses posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Una vez conformados los nuevos Consejos de Administración, los acuerdos tomados válidamente por los Consejos Directivos que desaparecen, continuarán siendo válidos, a menos que sean revocados por el nuevo Consejo.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo del Estado, emitirá el Reglamento correspondiente a la Ley del Agua del Estado de Chihuahua, dentro de los ciento ochenta días, posteriores a su entrada en vigor.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir de la entrada en vigor del presente Decreto cuando se haga referencia en la Ley del Agua o cualquier otra legislación estatal, al alcantarillado se entenderá que se refiere al alcantarillado sanitario, y por lo que respecta al drenaje, se referirá al drenaje pluvial.
+
+###### ARTÍCULO OCTAVO.
+
+A partir de la entrada en vigor del presente Decreto, el diseño, ejecución, supervisión y mantenimiento del drenaje pluvial, será responsabilidad de las autoridades municipales.
