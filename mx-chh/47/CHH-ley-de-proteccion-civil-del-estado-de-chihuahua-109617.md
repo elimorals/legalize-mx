@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-109617"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-26"
-last_updated: "2017-02-22"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE ENERO DE 2018 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de agosto de 2015.
 
@@ -63,7 +65,9 @@ Son autoridades en materia de protección civil:
 
 I. El Gobernador del Estado.
 
-II. El Fiscal General del Estado.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+II. El Secretario General de Gobierno.
 
 III. El Consejo Estatal de Protección Civil.
 
@@ -179,9 +183,11 @@ VIII. Honradez y respeto a los derechos humanos.
 
 ### CAPÍTULO II. DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 8.
 
-El Sistema Estatal de Protección Civil, parte integrante del Sistema Nacional, será organizado por el Ejecutivo del Estado por conducto de la Fiscalía General del Estado, y tendrá como fin prevenir, proteger y salvaguardar a las personas, los bienes públicos, privados y el entorno ante la posibilidad de un siniestro o desastre, producido por causa de origen natural o humano.
+El Sistema Estatal de Protección Civil, parte integrante del Sistema Nacional, será organizado por el Ejecutivo del Estado por conducto de la Secretaría General de Gobierno, y tendrá como fin prevenir, proteger y salvaguardar a las personas, los bienes públicos, privados y el entorno ante la posibilidad de un siniestro o desastre, producido por causa de origen natural o humano.
 
 ###### ARTÍCULO 9.
 
@@ -217,9 +223,11 @@ VI. Promover la eficiente coordinación de esfuerzos y acciones entre los Gobier
 
 VII. Solicitar, cuando lo estime necesario, el apoyo de los Gobiernos Federal, Estatales de otras Entidades de la República, y municipales de la Entidad, respecto de situaciones que originen emergencias o desastres que pongan en riesgo la población del Estado.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 11.
 
-Corresponde al Fiscal General del Estado:
+Corresponde al Secretario General de Gobierno del Estado:
 
 I. Actuar como Secretario Ejecutivo del Consejo Estatal de Protección Civil.
 
@@ -267,7 +275,9 @@ El Consejo Estatal estará integrado por:
 
 I. El Gobernador del Estado, quien lo presidirá.
 
-II. El Fiscal General del Estado, quien fungirá como Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+II. El Secretario General de Gobierno del Estado, quien fungirá como Secretario Ejecutivo.
 
 III. Los Titulares de las Secretarías del Poder Ejecutivo del Estado.
 
@@ -375,9 +385,11 @@ El cargo de Consejero es de carácter honorario y tratándose de servidores púb
 
 ### CAPÍTULO V. DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 26.
 
-La Fiscalía General del Estado contará con una Coordinación Estatal de Protección Civil, la cual auxiliará a la elaboración e implementación de programas de la materia, y tendrá a su cargo la dirección, supervisión y control de los mismos, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social y privado, con los grupos voluntarios y la población en general en el ámbito de su competencia.
+La Secretaría General de Gobierno del Estado contará con una Coordinación Estatal de Protección Civil, la cual auxiliará a la elaboración e implementación de programas de la materia, y tendrá a su cargo la dirección, supervisión y control de los mismos, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social y privado, con los grupos voluntarios y la población en general en el ámbito de su competencia.
 
 ###### ARTÍCULO 27.
 
@@ -407,7 +419,9 @@ III. Aplicar el Programa Estatal de Protección Civil y los programas especiales
 
 IV. Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de emergencia.
 
-V. De acuerdo con los lineamientos trazados por la Fiscalía General del Estado, elaborar, instrumentar, operar y coordinar el Programa Estatal de Protección Civil.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+V. De acuerdo con los lineamientos trazados por la Secretaría General de Gobierno del Estado, elaborar, instrumentar, operar y coordinar el Programa Estatal de Protección Civil.
 
 VI. Impulsar la creación de sistemas de monitoreo y alerta temprana para los riegos de su territorio.
 
@@ -437,9 +451,11 @@ XVIII. Fomentar la creación de una cultura de protección civil a través de la
 
 XIX. Las demás que le señalen el Consejo Estatal de Protección Civil u otras disposiciones legales aplicables.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 29.
 
-El Coordinador Estatal de Protección Civil, será nombrado por el Fiscal General del Estado, el cual deberá reunir los siguientes requisitos:
+El Coordinador Estatal de Protección Civil, será nombrado por la persona titular de la Secretaría General de Gobierno del Estado, el cual deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos.
 
@@ -461,7 +477,9 @@ I. Desempeñar el cargo de Secretario Técnico del Consejo Estatal de Protecció
 
 II. Dirigir, supervisar y controlar todas las acciones que se realicen en la Coordinación.
 
-III. Coordinar, previo acuerdo del Fiscal General del Estado, las acciones con las dependencias y organismos federales, estatales y municipales.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+III. Coordinar, previo acuerdo del Secretario General de Gobierno del Estado, las acciones con las dependencias y organismos federales, estatales y municipales.
 
 IV. Incorporar métodos, procedimientos, nueva tecnología y directrices en lo referente a comunicaciones para atención a emergencias y/o desastres.
 
@@ -471,13 +489,17 @@ VI. Aprobar la rotación de actividades que deba tener el personal en conjunció
 
 VII. Promover la realización de cursos de capacitación y actualización para el personal de las diferentes áreas de la Coordinación y demás organismos y personas relacionados con las actividades de esta.
 
-VIII. Informar, y en su caso asesorar, al Gobernador del Estado y al Fiscal General del Estado en todos los aspectos técnicos de protección civil.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+VIII. Informar y, en su caso, asesorar al Gobernador del Estado y al Secretario General de Gobierno del Estado en todos los aspectos técnicos de protección civil.
 
 IX. Representar a la dependencia en los convenios con personas y organismos e instituciones públicas, privadas y sociales en el ámbito de su competencia.
 
 X. Elaborar y tramitar el proyecto de presupuesto anual de la Coordinación con apoyo de la sub jefatura administrativa.
 
-XI. Proponer al Fiscal General del Estado los proyectos de leyes, reglamentos y manuales de organización, aplicables a las comunicaciones de emergencia y protección ciudadana, así como las modificaciones y enmiendas que estime pertinentes.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
+XI. Proponer al Secretario General de Gobierno del Estado los proyectos de leyes, reglamentos y manuales de organización, aplicables a las comunicaciones de emergencia y protección ciudadana, así como las modificaciones y enmiendas que estime pertinentes.
 
 XII. Fomentar la integración y funcionamiento de los sistemas municipales de protección civil.
 
@@ -1248,3 +1270,35 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0646/2017 I P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO, DE LA LEY DE PROTECCIÓN CIVIL Y DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se transfieren a la Secretaría General de Gobierno los bienes muebles, archivos y, en general, documentos que tenía destinados a su servicio, manejo y resguardo la Coordinación Estatal de Protección Civil dependiente de la Fiscalía General del Estado, para los efectos a que haya lugar. Así mismo, realícense las gestiones y trámites necesarios en materia presupuestal para que lo relativo quede a partir de la entrada en vigor del presente Decreto, referido, asignado o aplicable respecto a la Secretaría General de Gobierno del Poder Ejecutivo.
+
+###### ARTÍCULO CUARTO.
+
+El trámite de los asuntos iniciados ante la Coordinación Estatal de Protección Civil, dependiente de la Fiscalía General del Estado, seguirán su substanciación dentro de la estructura de la Secretaría General de Gobierno.
+
+###### ARTÍCULO QUINTO.
+
+Los servidores públicos adscritos a la Fiscalía General del Estado y que pasen a formar parte de la Secretaría General de Gobierno, en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+###### ARTÍCULO SEXTO.
+
+Las funciones, facultades, derechos y obligaciones establecidas a cargo de la Coordinación Estatal de Protección Civil de la Fiscalía General del Estado, en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los municipios, así como con cualquier persona física o moral, serán asumidas por la referida Coordinación vía la Secretaría General de Gobierno.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Fiscalía General del Estado deberá realizar las acciones necesarias en cuanto a su organización interna a fin de encontrarse en aptitud de ejercer las atribuciones que se le confieren por medio del presente Decreto.
