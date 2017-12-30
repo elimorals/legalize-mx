@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2017-11-25"
+last_updated: "2017-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1660,3 +1660,9 @@ P.O. 25 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 376 POR EL QUE SE APRUEBA OTORGAR UN DESCUENTO DEL 50% EN EL PAGO DEL IMPUESTO PREDIAL POR CONCEPTO DE PRONTO PAGO O ANUALIDAD ADELANTADA, DURANTE LOS MESES DE ENERO, FEBRERO Y MARZO A LAS INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El Presente Decreto entrará en vigor a partir del 1° de enero de 2018, previa su su (sic) publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 30 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 430 POR EL QUE SE ADICIONA (SIC) TRES PÁRRAFOS AL INCISO A) DEL ARTÍCULO 81 DE LA LEY DE HACIENDA DEL MUNICIPIO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
