@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-derechos-del-estado-de-hidalgo-110839"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2017-10-23"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -109,15 +109,21 @@ V.- Certificación de impresión o copia de planos 90 x 60, por plano. 1.56 u.m.
 
 VI.- Cuando la Dependencia o Entidad se encuentre en condiciones de otorgar los documentos solicitados en versiones digitales, el Estado percibirá lo siguiente:
 
-Por cada foja digitalizada. 0.013 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-Por cada plano digitalizado. 0.013 u.m.a.´s;
+a) Por cada foja digitalizada. 0.013 u.m.a.’s;
 
-Por cada archivo informático. 0.013 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 80 PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2016 SE ADVIERTE QUE ESTE PÁRRAFO ANTES FUE INCISO D) DE LA FRACCIÓN VI.]</small>
+b) Por cada plano digitalizado. 0.013 u.m.a.’s;
 
-a) Por cada disco óptico que se utilice para entregar los documentos a que se refieren las fracciones I a III inmediatas anteriores. 0.19 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+c) Por cada archivo informático. 0.013 u.m.a.’s; y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+d) Por cada disco óptico que se utilice para entregar los documentos a que se refieren las fracciones I a III inmediatas anteriores. 0.19 u.m.a.’s.
 
 Los titulares de los trámites y servicios, así como los responsables del resguardo de información electrónica en las dependencias y entidades de la administración pública podrán recibir medios o dispositivos de almacenamiento de los ciudadanos con el objeto de entregar la información a que se refieren las fracciones I a IV inmediatas anteriores, siempre que las áreas responsables de los sistemas informáticos de la dependencia o entidad de que se trate revisen el medio de almacenamiento de que se trate, otorguen su visto bueno y se cuente con autorización por escrito del Titular de la Dependencia o Entidad de que se trate.
 
@@ -127,11 +133,15 @@ Asimismo, tratándose de archivos con dimensiones inferiores a los 10 megabytes,
 
 ### CAPÍTULO PRIMERO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE GOBIERNO
 
-#### SECCIÓN PRIMERA. DE LOS DERECHOS CORRESPONDIENTES A LA DIRECCIÓN GENERAL DE GOBERNACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DE LA SUBSECRETARÍA DE GOBERNACIÓN
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 6.
 
-Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Gobernación, se causarán y pagarán de la siguiente forma:
+Los Derechos por la prestación de los servicios del Estado, a través de la Subsecretaría de Gobernación, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -147,13 +157,15 @@ b) Opinión para mediana industria: 10.4 u.m.a.´s;
 
 c) Opinión para microindustrias y empresas ejidales: 7.8 u.m.a.´s;
 
-d) Opinión para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal: 7.8 u.m.a.´s;
+d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 III.- Por la inscripción de la apostilla para certificar la autenticidad de la firma, la calidad en que el signatario del documento haya actuado y, en su caso, la identidad del sello o timbre del documento: 3.9 u.m.a.´s
 
-#### SECCIÓN SEGUNDA. DE LOS DERECHOS CORRESPONDIENTES A LA SUBSECRETARÍA DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DE LA SUBSECRETARÍA DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS
 
 ###### ARTÍCULO 7.
 
@@ -161,7 +173,7 @@ Los Derechos por la prestación de servicios del Estado, a través de la Subsecr
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-I.- Por la supervisión y la emisión de opiniones técnicas de establecimientos comerciales, industriales, de espectáculos públicos y de servicios instalados o que pretendan instalarse en el territorio del Estado: 325 u.m.a.´s
+I.- Por la supervisión y la emisión de opiniones técnicas de establecimientos comerciales, industriales, de espectáculos públicos y de servicios instalados o que pretendan instalarse en el territorio del Estado: 325.00 u.m.a.´s
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -195,7 +207,9 @@ VIII.- Por la actualización de opiniones técnicas de factibilidad: 260.00 u.m.
 
 IX.- Por la elaboración de constancia de seguridad por unidad de transporte de materiales peligrosos: 65.00 u.m.a.´s
 
-#### SECCIÓN TERCERA. DE LOS DERECHOS CORRESPONDIENTES AL REGISTRO PÚBLICO DE LA PROPIEDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN TERCERA. DEL REGISTRO PÚBLICO DE LA PROPIEDAD
 
 ###### ARTÍCULO 8.
 
@@ -223,9 +237,9 @@ III.- Por inscripción de aportaciones de bienes inmuebles: 97.5 u.m.a.´s;
 
 IV.- Por la inscripción de propiedad en régimen de condominio, se pagará por cada departamento, despacho, vivienda o cualquier otro tipo: 2.6 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-V.- Por la inscripción de la disolución de la sociedad conyugal en lo referente a bienes 2.6 u.m.a.´s;
+V.- Por la inscripción de la disolución de la sociedad conyugal en lo referente a bienes inmuebles: 2.6 u.m.a.’s
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -565,7 +579,9 @@ Por la inscripción semestral a la Oficina Virtual del Registro Público de la P
 
 Las excepciones de pago en los servicios prestados por el Registro Público de la Propiedad, estarán a lo dispuesto en el Código Fiscal del Estado.
 
-En los casos en que las autoridades fiscales, sean éstas federales, estatales, municipales o del Distrito Federal, requieran las inscripciones de embargos, expedición de certificados de libertad de gravamen o cualquier otro servicio necesario para la correcta continuación del Procedimiento Administrativo de Ejecución o para el aseguramiento de la garantía en cualquier acto de fiscalización, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluyan los procedimientos iniciados por la autoridad fiscal y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados al remate los bienes respectivos; salvo que el Procedimiento Administrativo de Ejecución o el ejercicio de las facultades de comprobación concluyan por haber quedado sin efectos jurídicos cuando así lo determina una resolución administrativa o sentencia firme, caso en el cual no habrá lugar a pago de derechos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+En los casos en que las autoridades fiscales, sean éstas federales, estatales, municipales o de la Ciudad de México, requieran las inscripciones de embargos, expedición de certificados de libertad de gravamen o cualquier otro servicio necesario para la correcta continuación del Procedimiento Administrativo de Ejecución o para el aseguramiento de la garantía en cualquier acto de fiscalización, los servicios se prestarán al momento de la solicitud, y los derechos correspondientes serán pagados cuando concluyan los procedimientos iniciados por la autoridad fiscal y la propia autoridad ordene al contribuyente deudor el pago de los gastos que se hayan originado, o en su caso, cuando sean sacados al remate los bienes respectivos; salvo que el Procedimiento Administrativo de Ejecución o el ejercicio de las facultades de comprobación concluyan por haber quedado sin efectos jurídicos cuando así lo determina una resolución administrativa o sentencia firme, caso en el cual no habrá lugar a pago de derechos.
 
 ###### ARTÍCULO 23.
 
@@ -575,19 +591,23 @@ Cuando un documento presentado para su inscripción se refiera a bienes situados
 
 En términos del segundo párrafo del artículo 4 de la Ley del Registro Público de la Propiedad del Estado de Hidalgo, el pago de derechos ante dicho Registro Público de la Propiedad se realizará por cada acto registral o de inscripción, con independencia de la forma en que éste o éstos se ingresen, y las situaciones jurídicas que les hubieran dado origen.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 24.
 
-Para el pago de derechos generados por la prestación de servicios del Registro Público de la Propiedad, éste se sujetará a las facultades de cobro de la Secretaría de Finanzas y Administración.
+Para el pago de derechos generados por la prestación de servicios del Registro Público de la Propiedad, éste se sujetará a las facultades de cobro de la Secretaría de Finanzas Públicas.
 
 El pago de los servicios prestados por el Registro Público de la Propiedad deberá efectuarse al momento de ingresar el trámite de que se trate. No se procederá a realizar ningún trámite sin antes acreditar el pago correspondiente. Lo anterior no aplica a los supuestos señalados en el segundo párrafo del artículo 22.
 
-#### SECCIÓN CUARTA. DEL REGISTRO DEL ESTADO FAMILIAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2017)</small>
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DEL REGISTRO DEL ESTADO FAMILIAR
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 25.
 
-Los Derechos por la prestación de los servicios del Estado, a través (sic) Registro del Estado Familiar, se causarán y pagarán de la siguiente forma:
+Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General del Registro del Estado Familiar, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -639,11 +659,15 @@ La expedición a que se refiere la fracción IV del presente artículo se hará 
 
 La realización del procedimiento administrativo de corrección de actas y la búsqueda de actas cuando las personas no presenten datos sobre el registro estará exentos de cobro.
 
-#### SECCIÓN QUINTA. DEL ARCHIVO GENERAL DE NOTARÍAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN QUINTA. DE LA DIRECCIÓN GENERAL DE ARCHIVO GENERAL DE NOTARÍAS
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 26.
 
-Los derechos por la prestación de los servicios del Estado, a través del Archivo General de Notarías, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Archivo General de Notarías, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -801,37 +825,51 @@ I.- Por publicación de avisos y documentos que deberán hacerse por disposició
 
 a) Por una sola vez. 6.5 u.m.a.´s;
 
-b) Por dos veces. 11.7 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-c) Por tres veces. 16.9 u.m.a.´s;
+b) Por dos veces. 13 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-II.- Por las publicaciones en el Periódico Oficial, hasta media plana. 7.8 u.m.a.´s;
+c) Por tres veces. 19.5 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-III.- Por la publicación en el Periódico Oficial, hasta una plana. 14.3 u.m.a.´s;
+II.- Por las publicaciones en el Periódico Oficial, hasta media plana. 7.5 u.m.a.’s;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-III BIS.- Por la publicación directa de municipios del Estado en el Periódico Oficial, hasta una plana respecto únicamente de sus instrumentos legales, necesarios para mantener sus marcos jurídicos actualizados, exceptuando de este beneficio convocatorias a licitación pública así como todo los (sic) referente a los procesos de licitación. 5.2 u.m.a.´s
+III.- Por la publicación en el Periódico Oficial, hasta una plana. 15 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-IV.- Por la suscripción al Periódico Oficial del Estado por el ejercicio fiscal vigente. 52.0 u.m.a.´s
+III BIS.- Por la publicación directa de municipios del Estado en el Periódico Oficial, hasta una plana respecto únicamente de sus instrumentos legales, necesarios para mantener sus marcos jurídicos actualizados, exceptuando de este beneficio convocatorias a licitación pública así como todo lo referente a los procesos de licitación. 5 u.m.a.’s
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-V.- Por la expedición y entrega de un ejemplar del Periódico Oficial del Estado. 1.3 u.m.a.´s
+IV.- Por la suscripción al Periódico Oficial del Estado por el ejercicio fiscal vigente. 53 u.m.a.’s
 
-### CAPÍTULO SEGUNDO. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-#### SECCIÓN PRIMERA. DE LA COORDINACIÓN DE SEGURIDAD ESTATAL
+V.- Por la expedición y entrega de un ejemplar del Periódico Oficial del Estado. 1 u.m.a.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI.- Por la certificación, expedición y entrega de un ejemplar del Periódico Oficial del Estado. 1.5 u.m.a.´s
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DE LA AGENCIA DE SEGURIDAD DEL ESTADO DE HIDALGO
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 28.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Seguridad Pública por conducto de la Coordinación de Seguridad Estatal, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Seguridad Pública, por conducto de la Agencia de Seguridad del Estado de Hidalgo, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -877,11 +915,15 @@ b) Por la expedición de permisos provisionales de carga:
 
 3. Los que realicen actividades eventuales, hasta por 72 horas. 1.3 u.m.a.´s;
 
-#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE LA UNIDAD DE REGISTRO Y SUPERVISIÓN DE PRESTADORES DE SEGURIDAD PRIVADA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DE LA UNIDAD DE REGISTRO Y SUPERVISIÓN DE SEGURIDAD PRIVADA
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 29.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Seguridad Pública por conducto de la Dirección General de la Unidad de Registro y Supervisión de Empresas de Seguridad Privada, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Seguridad Pública, por conducto de la Unidad de Registro y Supervisión de Seguridad Privada, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -907,11 +949,15 @@ V.- Por el registro de personal operativo y administrativo de los prestadores de
 
 VI.- Por la expedición de la cédula de registro del personal operativo y administrativo de los prestadores de servicios de seguridad privada. 2.6 u.m.a.´s
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DEL AEROPUERTO ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE SERVICIOS AÉREOS
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 30.
 
-Los derechos por el uso o goce del Aeropuerto Nacional Ingeniero Juan Guillermo Villasana que tiene a cargo la Secretaría de Seguridad Pública por conducto de la Dirección General del Aeropuerto Estatal, se causarán y pagarán de la siguiente forma:
+Los derechos por el uso o goce del Aeropuerto Nacional Ingeniero Juan Guillermo Villasana, que tiene a cargo la Secretaría de Seguridad Pública, por conducto de la Dirección General de Servicios Aéreos, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1083,7 +1129,7 @@ I.- Evaluación Psicológica. 13.0 u.m.a.´s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Evaluación Poligráfica. 13.0 u.m.a.´s;
+II.- Evaluación Poligráfica. 13.00 u.m.a.´s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1093,15 +1139,19 @@ III.- Evaluación Médico-Toxicológica. 33.8 u.m.a.´s; y
 
 IV.- Evaluación de Entorno Socioeconómico. 26.0 u.m.a.´s.
 
-### CAPÍTULO TERCERO. DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO TERCERO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE FINANZAS PÚBLICAS
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE RECAUDACIÓN
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 33.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Finanzas y Administración por conducto de la Dirección General de Recaudación y de los Centros Regionales de Atención al Contribuyente, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Finanzas Públicas, por conducto de la Dirección General de Recaudación y de los Centros Regionales de Atención al Contribuyente, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1109,31 +1159,127 @@ I.- Por trámites en el Registro Vehicular Estatal señalados en la Ley de la ma
 
 a) Relacionados con vehículos de transporte privado y que no se encuentren comprendidos en los incisos b) y c):
 
-1. Por incorporación al Registro Vehicular Estatal, por actualización de datos al Registro Vehicular Estatal que de origen al canje de placas metálicas y por refrendo de datos al Registro Vehicular Estatal. 10.4 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-2. Por desincorporación del Registro Vehicular Estatal y por actualización de datos al Registro Vehicular Estatal que no de origen al canje de placas metálicas. 6.5 u.m.a.´s;
+1. Por incorporación al Registro Vehicular Estatal. 10.4 u.m.a.´s;
 
-3. Por la incorporación al Registro Vehicular Estatal y por la actualización de datos al Registro Vehicular Estatal que de origen al canje de placas metálicas, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+2. Por actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas. 10.4 u.m.a.´s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+3. Por refrendo de datos al Registro Vehicular Estatal. 10.4 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+4. Por desincorporación del Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 6.5 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+5. Por actualización de datos al Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 6.5 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+6. Por reposición de tarjeta de circulación. 6.5 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+7. Por canje de placas. 10.4 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+8. Por la incorporación al Registro Vehicular Estatal, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+9. Por la actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.’s;
 
 b) Relacionados con vehículos de demostración:
 
-1. Por expedición de placas, por canje de éstas cuando el mismo sea acordado por la Secretaría de Finanzas y Administración en términos de la legislación aplicable, y por refrendo anual para su utilización, por cada juego de placas expedidas o canjeadas. 19.5 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-2. Por cancelación de placas. 6.5 u.m.a.´s;
+1. Por expedición de placas. 19.5 u.m.a.´s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+2. Por canje de éstas cuando el mismo sea acordado por la Secretaría de Finanzas Públicas en términos de la legislación aplicable. 19.5 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+3. Por refrendo anual para su utilización. 19.5 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+4. Por actualización de datos al Registro Vehicular Estatal que no de origen al canje de placas. 6.5 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+5. Por reposición de tarjeta de circulación. 6.5 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+6. Por cancelación de placas. 6.5 u.m.a.’s;
 
 c) Relacionados con vehículos destinados al transporte de personas discapacitadas:
 
-1. Por incorporación al Registro Vehicular Estatal, por actualización de datos al Registro Vehicular Estatal que de origen al canje de placas metálicas y por refrendo de datos al Registro Vehicular Estatal. 5.2 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-2. Por desincorporación del Registro Vehicular Estatal y por actualización de datos al Registro Vehicular Estatal que no de origen al canje de placas metálicas. 2.6 u.m.a.´s;
+1. Por incorporación al Registro Vehicular Estatal. 5.2 u.m.a.´s;
 
-3. Por la incorporación al Registro Vehicular Estatal y por la actualización de datos al Registro Vehicular Estatal que de origen al canje de placas metálicas, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+2. Por actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas. 5.2 u.m.a.´s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+3. Por refrendo de datos al Registro Vehicular Estatal. 5.2 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+4. Por desincorporación del Registro Vehicular Estatal. 2.6 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+5. Por actualización de datos al Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 2.6 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+6. Por reposición de tarjeta de circulación. 2.6 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+7. Por la incorporación al Registro Vehicular Estatal, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+8. Por la actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas, cuando el particular solicite placas metálicas con un número específico, y siempre que dicho número se encuentre en las series numéricas existentes. 45.5 u.m.a.’s;
 
 d) Relacionados con vehículos de transporte público:
 
-1. Por incorporación al Registro Vehicular Estatal, por actualización de datos al Registro Vehicular Estatal que de origen al canje de placas metálicas y por refrendo de datos al Registro Vehicular Estatal. 13.00 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-2. Por desincorporación del Registro Vehicular Estatal y por actualización de datos al Registro Vehicular Estatal que no de origen al canje de placas metálicas. 6.5 u.m.a.´s;
+1. Por incorporación al Registro Vehicular Estatal. 13.00 u.m.a.´s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+2. Por actualización de datos al Registro Vehicular Estatal que dé origen al canje de placas metálicas. 13.00 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+3. Por refrendo de datos al Registro Vehicular Estatal. 13.00 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+4. Por desincorporación del Registro Vehicular Estatal. 6.5 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+5. Por actualización de datos al Registro Vehicular Estatal que no dé origen al canje de placas metálicas. 6.5 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+6. Por reposición de tarjeta de circulación. 6.5 u.m.a.´s;
 
 e) Por la expedición de permiso de circulación en términos de la Ley de la materia. 6.5 u.m.a.´s;
 
@@ -1143,29 +1289,39 @@ f) Por las consultas realizadas a otras entidades federativas, a la Federación 
 
 II.- Por la certificación de pagos. 1.3 u.m.a.´s
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE PATRIMONIO INMOBILIARIO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+ARTÍCULO 33 BIS. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-ARTÍCULO 33 BIS. - Los derechos derivados de la administración, uso o goce del patrimonio inmobiliario del Estado, a través de la Secretaria de Finanzas y Administración por conducto de la Dirección General de Patrimonio Inmobiliario se pagaran conforme a las cuotas que establezca la dirección en cita, considerando la naturaleza del evento.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-Tratándose del Patrimonio Inmobiliario de otras unidades administrativas las cuotas por la administración, uso o goce, se fijaran de acuerdo a la naturaleza del evento.
+### CAPÍTULO CUARTO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE CONTRALORÍA
 
-### CAPÍTULO CUARTO. DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 34.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Contraloría y Transparencia Gubernamental, por conducto de la Dirección General de Normatividad, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Contraloría, por conducto de la Dirección General de Normatividad, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 I.- Por la prestación de servicios de inscripción, revalidación, modificación o reposición en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con las Mismas del Estado de Hidalgo. 13.00 u.m.a.´s;
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE INSPECCIÓN Y VIGILANCIA DE OBRAS Y ACCIONES
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 35.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Contraloría y Transparencia Gubernamental, por conducto de la Dirección General de Inspección y Vigilancia de Obras, Acciones y Contraloría Social, se causarán y pagarán de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Contraloría, por conducto de la Dirección General de Inspección y Vigilancia de Obras y Acciones, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1173,27 +1329,23 @@ I.- Los contratistas con quienes se celebren contratos de obra pública y de ser
 
 Los derechos a que se refiere el presente artículo serán enterados a la Hacienda Pública del Estado, a través de retención que se efectuará en el pago de la estimación respectiva.
 
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE CONSERVACIÓN DE CARRETERAS ESTATALES
+
 ###### ARTÍCULO 36.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Contraloría y Transparencia Gubernamental, por conducto de la Unidad de Innovación Gubernamental y Mejora Regulatoria, se causarán y pagarán de la siguiente forma:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-I.- Por la Emisión de certificado digital por un periodo de seis meses. 5.2 u.m.a.´s;
+### CAPÍTULO QUINTO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-II.- Por la Emisión de certificado digital por un periodo de doce meses. 7.8 u.m.a.´s;
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE ORDENAMIENTO TERRITORIAL
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE CAMBIO CLIMÁTICO
 
-III.- Por la Emisión de certificado digital por un periodo de veinticuatro meses. 11.7 u.m.a.´s; y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-IV.- Por la Dotación o reposición de dispositivo electrónico para encriptación de certificados digitales. 15.6 u.m.a.´s
-
-### CAPÍTULO QUINTO. DE LA SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 37.
 
@@ -1215,9 +1367,11 @@ III.- Por la autorización para la realización de obras que impliquen el cruce 
 
 IV.- Por la autorización para la realización de obras marginales. 104.0 u.m.a.´s; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-V.- Por la autorización para el adosamiento en puentes. 5.6 u.m.a.´s
+V.- Por la autorización para el adosamiento en puentes. 15.6 u.m.a.’s
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 38.
 
@@ -1233,7 +1387,9 @@ b) Por la expedición de constancias de no invasión a fraccionamientos, áreas 
 
 c) Por la expedición de constancia de uso de suelo. 1.3 u.m.a.´s;
 
-d) Por la expedición de constancia de viabilidad de proyectos. 22.1 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+d) Por la expedición de constancia de viabilidad de proyectos. 28.7 u.m.a.’s;
 
 e) Por la expedición de constancia de verificación de la poligonal de fraccionamiento. 16.9 u.m.a.´s;
 
@@ -1259,7 +1415,13 @@ b) De proyectos de cualquier uso o destino de impacto social a que se refiere el
 
 3. Tratándose de construcciones de más de 3,000 m² y de hasta 5,000 m². 260.0 u.m.a.´s;
 
-4. Tratándose de construcciones de más de 5,000 m². 520.0 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+4. Tratándose de construcciones de más de 5,000 m2 y de hasta 10,000 m2. 520.0 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+5. Tratándose de construcciones de más de 10,000 m2. 1,040.0 u.m.a.’s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1283,7 +1445,9 @@ a) Por la autorización de subdivisiones:
 
 b) Por la autorización de fraccionamientos:
 
-1. Por la autorización de fraccionamientos de tipo económico, popular, de interés social y de interés medio, por lote. 71.5 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+1. Por la autorización de fraccionamientos de tipo económico, popular, de interés social y de interés medio, por lote. 78.65 u.m.a.’s;
 
 2. Por la expedición de autorización de fraccionamiento en áreas rurales, por lote. 156.0 u.m.a.´s;
 
@@ -1339,7 +1503,9 @@ c) Por la renovación de cualquier licencia o autorización contenida en este Ca
 
 2. Por las demás. 130.0 u.m.a.´s.
 
-### CAPÍTULO SEXTO. DE LA SECRETARÍA DE SALUD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO SEXTO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE SALUD
 
 ###### ARTÍCULO 39.
 
@@ -1349,13 +1515,9 @@ Los derechos por la prestación de los servicios del Estado, a través de la Sec
 
 I.- Por permiso sanitario para el internamiento o salida de cadáveres, tejidos o restos áridos del territorio estatal. 65.0 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-II.- Por permiso sanitario de exhumación. 26.0 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-III.- Por asesorías externas y supervisión de avance de obra, con excepción de obras relacionadas con establecimientos de atención medica. 26.0 u.m.a.´s;
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1365,47 +1527,179 @@ a) Ponente nacional. 32.5 u.m.a.´s; y
 
 b) Ponente local. 39.0 u.m.a.´s.
 
-### CAPÍTULO SÉPTIMO. DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO SÉPTIMO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE NORMATIVIDAD AMBIENTAL
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 40 BIS.- Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Normatividad Ambiental, se causarán y pagarán de la siguiente forma:
+
+I.- Por la evaluación y dictaminación del estudio de impacto ambiental a que refiere la Ley para la Protección al Ambiente del Estado de Hidalgo, cuando se trate de actividades u obras de:
+
+a).- Bajo impacto:
+
+1.- En una superficie de hasta una hectárea o, para obras que se constituyan de forma lineal de una longitud, de hasta cinco kilómetros. 30 u.m.a.’s; y
+
+2.- Por cada hectárea, kilómetro o fracción adicional se cobrarán. 5 u.m.a.´s, sin que el monto total exceda 600 u.m.a.´s;
+
+b) Mediano impacto:
+
+1.- En una superficie de hasta una hectárea o, para obras que se constituyan de forma lineal de una longitud, de hasta cinco kilómetros. 60 u.m.a.’s; y
+
+2.- Por cada hectárea, kilómetro o fracción adicional se cobrarán. 13 u.m.a.´s, sin que monto total exceda 1,000 u.m.a.´s.
+
+c) Alto impacto:
+
+1.- En una superficie de hasta una hectárea o, para obras que se constituyan de forma lineal de una longitud, de hasta cinco kilómetros. 90 u.m.a.’s; y
+
+2.- Por cada hectárea, kilómetro o fracción adicional se cobrarán. 27 u.m.a.´s; sin que monto total exceda 1,500 u.m.a.´s.
+
+II.- Por la evaluación y dictaminación del informe preventivo o estudio justificativo:
+
+a) En una superficie de hasta una hectárea. 60 u.m.a.’s; y
+
+b) Por cada hectárea o fracción adicional se cobrarán. 23 u.m.a.´s, sin que monto total exceda 1,200 u.m.a.´s
+
+III.- Por la evaluación y dictaminación de estudios de riesgo ambiental de las actividades consideradas como riesgosas, por capacidad de almacenamiento:
+
+a) En estado líquido:
+
+1.- hasta 100,000 litros. 122.00 u.m.a.’s; y
+
+2.- mayor de 100,000 litros. 157.00 u.m.a.’s;
+
+b) En estado sólido y gaseoso:
+
+1.- A partir de 1 kilogramo y cuando se trate de sustancias menores a las reportadas en el primer y segundo listado de actividades altamente riesgosas. 157.00 u.m.a.’s.
+
+IV.- Por la ampliación de la vigencia de una resolución en materia de impactoy (sic) riesgo ambiental. 51 u.m.a.´s.
+
+V.- Por el cambio de titularidad de una resolución en materia de impacto y riesgo ambiental. 21 u.m.a.´s.
+
+VI.- Por la autorización de modificaciones a una resolución en materia de impacto y riesgo ambiental. 39 u.m.a.´s.
+
+VII.- Por emitir opinión técnica para verificar la factibilidad, la congruencia con el ordenamiento ecológico territorial y las obligaciones ambientales a que debe sujetarse un proyecto:
+
+a) En una superficie de hasta una hectárea o proyecto que se constituya de forma lineal de una longitud de hasta cinco kilómetros. 30 u.m.a.’s; y
+
+b) Por cada hectárea, kilómetro o fracción adicional se cobrarán 2 u.m.a.´s; sin que monto total exceda 80 u.m.a.´s.
+
+VIII.- En caso de que por las condiciones del proyecto, se determine que se requiere visita técnica en campo para la emisión de la opinión técnica, además del pago de derechos que corresponda conforme a la fracción anterior, el promovente deberácubrir (sic). 39 u.m.a.’s;
+
+IX.- Por la evaluación de factibilidad de operación de escombreras o sitios de disposición final de residuos provenientes de la construcción o excavaciones, por hectárea o fracción. 100 u.m.a.’s.
+
+X.- Por la autorización de las bitácoras de operación de equipos de combustión o de cualquier proceso que implique emisión de partículas al aire:
+
+a) Hornos de ladrillo y teja. 1 u.m.a.’s;
+
+b) Bancos pétreos. 9 u.m.a.’s;
+
+c) Micro industria o servicio. 5 u.m.a.’s;
+
+d) Pequeña industria o servicio. 9 u.m.a.’s;
+
+e) Mediana industria o servicio. 13 u.m.a.’s;
+
+f) Gran industria o servicio. 20 u.m.a.’s.
+
+XI.- Por la expedición de la Licencia Ambiental Estatal:
+
+a) Hornos de ladrillo y teja. 5 u.m.a.’s;
+
+b) Bancos pétreos. 11.5 u.m.a.’s;
+
+c) Micro industria o servicio. 21 u.m.a.’s;
+
+d) Pequeña industria o servicio. 33 u.m.a.’s;
+
+e) Mediana industria o servicio. 46 u.m.a.’s;
+
+f) Gran industria o servicio. 64 u.m.a.’s,
+
+XII.- Por la revisión y autorización de la cédula de operación anual de empresas y servicios en funcionamiento:
+
+a) Hornos de ladrillo y teja. 5 u.m.a.’s;
+
+b) Micro industria o servicio. 18 u.m.a.’s;
+
+c) Pequeña industria o servicio. 27 u.m.a.’s;
+
+d) Mediana industria o servicio. 38 u.m.a.’s;
+
+e) Gran industria o servicio. 57 u.m.a.’s,
+
+XIII.- Por la autorización de cédula de operación anual de bancos pétreos en funcionamiento:
+
+a) hasta 250, 000 toneladas. 30 u.m.a.’s;
+
+b) más de 250, 000 y hasta 500,000 toneladas. 40 u.m.a.’s;
+
+c) más de 500, 000 y hasta 750, 000 toneladas. 50 u.m.a.’s;
+
+d) más de 750,000 toneladas. 60 u.m.a.’s;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 40.
 
-Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Protección y Control de la Contaminación, se causaran y pagaran de la siguiente forma:
+Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Cambio Climático, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-I.- Los Centros de Verificación Vehicular, cubrirán los siguientes derechos tratándose de los siguientes trámites:
+I.- Por la autorización para operar un centro de verificación vehicular o unidad de verificación vehicular, así como por el estudio y trámite que implica dicha autorización, se pagarán derechos conforme a lo siguiente:
 
-a) autorización para operar. 201.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-b) renovación de la autorización. 100.99 u.m.a.´s;
+a) Por la revisión y evaluación de la solicitud para el trámite de la obtención de la resolución correspondiente. 50 u.m.a.´s;
 
-c) autorización de ampliación del servicio a través de nuevas líneas. 201.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-d) autorización de ampliación del servicio en las líneas a otro tipo de combustible. 40.0 u.m.a.´s;
+b) Por la resolución de autorización para operar. 202 u.m.a.’s;
 
-e) autorización de cambio de domicilio. 100.99 u.m.a.´s;
+c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-f) autorización de cambio de titular. 100.99 u.m.a.´s;
+d) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-g) emisión de gafete de acreditación para el personal. 1.0 u.m.a.´s; y
+e) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-h) autorización de bitácora de operación y mantenimiento. 1.0 u.m.a.´s;
+f) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-II.- Tratándose de talleres de diagnóstico para determinar la eficiencia del convertidor catalítico, cubrirán los derechos tratándose de los siguientes trámites:
+h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-a) evaluación de gabinete - campo para la apertura de línea. 9.99 u.m.a.´s; y
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS] P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-b) autorización de apertura. 49.99 u.m.a.´s;
+I BIS.- Los Centros de Verificación Vehicular o Unidades de Verificación Vehicular, cubrirán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+a) Por la renovación de la autorización. 121 u.m.a.’s;
 
-III.- Por la reposición de certificados de verificación vehicular del semestre inmediato anterior o en curso que soliciten los usuarios automovilistas. 0.59 u.m.a.´s;
+b) Por la autorización de ampliación del servicio a través de nuevas líneas. 240 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+c) Por la autorización de cambio de domicilio. 101 u.m.a.’s;
 
-IV.- Los Centros de Verificación Vehicular o las unidades autorizadas para tal efecto deberán ingresar, por cada certificado y holograma de aprobación:
+d) Por la autorización de cambio de titular. 121 u.m.a.’s;
+
+e) Por la emisión de gafete de acreditación para el personal. 1 u.m.a.;
+
+f) Por la autorización de la bitácora de operación y mantenimiento. 1 u.m.a.;
+
+g). Por el uso anual del sistema digital de verificación vehicular. 600 u.m.a.´s;
+
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III.- Por la reposición de certificados de verificación vehicular del semestre inmediato anterior o en curso, que soliciten los usuarios automovilistas o entrega del reporte del expediente electrónico del sistema digital de verificación vehicular. 0.59 u.m.a.’s;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV.- Por cada certificado con holograma que adquieran los centros de verificación vehicular o unidades de verificación vehicular, se causarán los siguientes derechos:
 
 a) "2" (dos). 1.19 u.m.a.´s;
 
@@ -1417,499 +1711,211 @@ d) "1" (uno). 1.19 u.m.a.´s; y
 
 e) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-V.- Por hologramas expedidos directamente por la Secretaría de Medio Ambiente y Recursos Naturales:
+V.- Por holograma “EXENTO” expedido por la Secretaría de Medio Ambiente y Recursos Naturales al usuario automovilista. 2 u.m.a.’s
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-a) Tratándose de holograma "EXENTO" expedido exclusivamente por la Secretaría de Medio Ambiente y Recursos Naturales. 1.57 u.m.a.´s;
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-Cuando la Secretaría de Medio Ambiente y Recursos Naturales expida en forma directa cualquiera de los hologramas a que se refiere la fracción IV inmediata anterior, se cobrará como derecho, por cada certificado y holograma, una cantidad equivalente al monto autorizado por dicha Secretaría a los concesionarios de los centros de verificación por cada uno de los respectivos hologramas.
+V BIS.- Las empresas proveedoras de equipo, servicios y mantenimiento para los Centros de Verificación Vehicular o Unidades de Verificación Vehicular y Laboratorios de Calibración, cubrirán los siguientes derechos:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+a) Por obtener la autorización. 250 u.m.a.´s; y
 
-VI.- Por la evaluación y dictaminación de estudios de impacto ambiental a empresas industriales y de servicios, así como en los casos de obras públicas, cuando se trate de actividades u obras de:
+b) Por la renovación de la autorización. 100 u.m.a.´s.
 
-a) bajo impacto:
+VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-1. en una superficie menor a una hectárea o para obras que se constituyan de forma lineal de una longitud menor a cinco kilómetros. 24.99 u.m.a.´s;
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-2. en superficies de una a cinco hectáreas. 55.0 u.m.a.´s;
+VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-3. en superficies de cinco a diez hectáreas. 110.0 u.m.a.´s;
+IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-4. en superficies de diez a veinte hectáreas. 219.99 u.m.a.´s;
+X.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-5. en superficies de veinte a cuarenta hectáreas. 275.0 u.m.a.´s
+XI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-6. en superficies de cuarenta a sesenta hectáreas. 330.0 u.m.a.´s;
+XII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-7. en superficies de sesenta a ochenta hectáreas. 384.99 u.m.a.´s;
+XIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-8. en superficies de ochenta a cien hectáreas. 439.99 u.m.a.´s; y
-
-9. en superficies de más de cien hectáreas. 600.0 u.m.a.´s;
-
-b) mediano impacto:
-
-1. en una superficie menor a una hectárea o para obras que se constituyan de forma lineal de una longitud menor a cinco kilómetros. 49.99 u.m.a.´s;
-
-2. en superficies de una a cinco hectáreas. 110.0 u.m.a.´s;
-
-3. en superficies de cinco a diez hectáreas. 219.99 u.m.a.´s;
-
-4. en superficies de diez a veinte hectáreas. 439.99 u.m.a.´s;
-
-5. en superficies de veinte a cuarenta hectáreas. 550.0 u.m.a.´s;
-
-6. en superficies de cuarenta a sesenta hectáreas. 659.99 u.m.a.´s;
-
-7. en superficies de sesenta a ochenta hectáreas. 770.0 u.m.a.´s;
-
-8. en superficies de ochenta a cien hectáreas. 879.99 u.m.a.´s; y
-
-9. en superficies de más de cien hectáreas. 999.99 u.m.a.´s;
-
-c) alto impacto:
-
-1. en una superficie menor a una hectárea o para obras que se constituyan de forma lineal de una longitud menor a cinco kilómetros. 74.99 u.m.a.´s;
-
-2. en superficies de una a cinco hectáreas. 164.99 u.m.a.´s;
-
-3. en superficies de cinco a diez hectáreas. 330.0 u.m.a.´s;
-
-4. en superficies de diez a veinte hectáreas. 659.99 u.m.a.´s;
-
-5. en superficies de veinte a cuarenta hectáreas. 825.0 u.m.a.´s
-
-6. en superficies de cuarenta a sesenta hectáreas. 990.0 u.m.a.´s
-
-7. en superficies de sesenta a ochenta hectáreas. 1,154.99 u.m.a.´s
-
-8. en superficies de ochenta a cien hectáreas. 1,319.99 u.m.a.´s y
-
-9. superficies de más de cien hectáreas. 1,500.0 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-VII.- Por la evaluación y dictaminación del informe preventivo o estudio justificativo:
-
-a) en una superficie menor a una hectárea. 49.99 u.m.a.´s;
-
-b) en superficies de una a cinco hectáreas. 149.99 u.m.a.´s;
-
-c) en superficies de cinco a diez hectáreas. 300.0 u.m.a.´s;
-
-d) en superficies de diez a veinte hectáreas. 449.99 u.m.a.´s;
-
-e) en superficies de veinte a cuarenta hectáreas. 600.0 u.m.a.´s;
-
-f) en superficies de cuarenta a sesenta hectáreas. 749.99 u.m.a.´s;
-
-g) en superficies de sesenta a ochenta hectáreas. 900.0 u.m.a.´s;
-
-h) en superficies de ochenta a cien hectáreas. 1,049.99 u.m.a.´s;
-
-i) en superficies de más de cien hectáreas. 1,200.00 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-VIII.- Por la evaluación y dictaminación de estudios de riesgo ambiental de las actividades consideradas como riesgosas, por capacidad de almacenamiento:
-
-a).- En estado líquido:
-
-1.- hasta 100,000 litros. 122.00 u.m.a.´s; y
-
-2.- mayor de 100,000 litros. 157.00 u.m.a.´s;
-
-b).- En estado sólido:
-
-1.- A partir de 1 kilogramo y cuando se trate de sustancias menores a las reportadas en el primer y segundo listado de actividades altamente riesgosas. 157.00 u.m.a.´s
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-IX.- Por la ampliación de plazos y términos de proyectos evaluados en materia de impacto y riesgo ambiental. 44.0 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-X.- Por el cambio de titularidad del proyecto en materia de impacto y riesgo ambiental: 18.00 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XI.- Por la autorización de modificaciones a proyectos evaluados en materia de impacto y riesgo ambiental: 33.99 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XII.- Por emitir opinión técnica para verificar la factibilidad, la congruencia con el ordenamiento ecológico territorial y las obligaciones ambientales a que debe sujetarse un proyecto, en materia de impacto ambiental
-
-a) con una superficie que sea menor a una hectárea. 30.0 u.m.a.´s;
-
-b) con una superficie de una hectárea y menor a cinco hectáreas. 40.0 u.m.a.´s;
-
-c) con una superficie de cinco hectáreas y menor a diez hectáreas. 49.99 u.m.a.´s;
-
-d) con una superficie de diez hectáreas y menor a veinte hectáreas. 59.99 u.m.a.´s;
-
-e) con una superficie de veinte hectáreas y menor a cuarenta hectáreas. 70.0 u.m.a.´s;
-
-f) con una superficie de cuarenta hectáreas en adelante. 80.0 u.m.a.´s; y
-
-g) En caso de que por las condiciones del proyecto, la Secretaría determine que se requiere visita técnica en campo para la dictaminación, además del pago de derechos que corresponda conforme a los incisos a) a f) anteriores, el promovente deberá cubrir el importe correspondiente a la visita técnica, mismo que asciende a. 39.0 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XIII.- Por concepto de entrevista, examen, análisis, validación y la inscripción por primera vez al padrón de prestadores de servicios técnicos ambientales, y por cada especialidad de interés:
-
-a) persona moral. 179.99 u.m.a.´s; y
-
-b) persona física. 99.99 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XIV.- Por el refrendo y actualización anual al padrón de prestadores de servicios técnicos ambientales y por cada especialidad de interés:
-
-a) persona moral. 89.99 u.m.a.´s; y
-
-b) persona física. 49.99 u.m.a.´s;
+XIV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XV.- Por el ingreso, análisis y autorización de proyectos para el transporte de residuos de manejo especial:
 
-a) de uno a dos vehículos. 34.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-b) de tres a cinco vehículos. 49.99 u.m.a.´s;
+a) de uno a dos vehículos. 42 u.m.a.’s;
 
-c) de seis a diez vehículos. 84.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-d) de once a quince vehículos. 114.99 u.m.a.´s;
+b) de tres a cinco vehículos. 60 u.m.a.’s;
 
-e) de dieciséis a veinte vehículos. 149.99 u.m.a.´s; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-f) de veinte vehículos en adelante. 200.0 u.m.a.´s;
+c) de seis a diez vehículos. 102 u.m.a.’s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+d) de once a quince vehículos. 138 u.m.a.’s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+e) de dieciséis a veinte vehículos. 180 u.m.a.’s; y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+f) de veintiún vehículos en adelante. 240 u.m.a.’s;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 XVI.- Por el refrendo anual de la autorización de proyectos para el transporte de residuos de manejo especial a que se refiere la fracción XV inmediata anterior:
 
-a) de uno a dos vehículos. 17.49 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-b) de tres a cinco vehículos. 24.99 u.m.a.´s;
+a) de uno a dos vehículos. 21 u.m.a.’s;
 
-c) de seis a diez vehículos. 42.49 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-d) de once a quince vehículos. 57.49 u.m.a.´s;
+b) de tres a cinco vehículos. 30 u.m.a.’s;
 
-e) de dieciséis a veinte vehículos. 74.99 u.m.a.´s; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-f) de veinte vehículos en adelante. 100.0 u.m.a.´s;
+c) de seis a diez vehículos. 51 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XVII.- Evaluación de factibilidad de operación de escombreras o sitios de disposición final de residuos provenientes de la construcción, por hectárea o fracción: 99.99 u.m.a.´s;
+d) de once a quince vehículos. 69 u.m.a.’s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XVIII.- Por la autorización de las bitácoras de emisiones de bancos pétreos, de operación de equipos de combustión, de operación de hornos para la elaboración de ladrillo y teja, y en general de cualquier proceso que implique emisión de partículas al aire:
+e) de dieciséis a veinte vehículos. 90 u.m.a.’s; y
 
-a) micro industria o servicio con 1 a 15 trabajadores. 5.0 u.m.a.´s
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-b) pequeña industria o servicio con 16 a 50 trabajadores. 8.99 u.m.a.´s;
+f) de veintiún vehículos en adelante. 120 u.m.a.’s;
 
-c) mediana industria o servicio con 51 a 250 trabajadores. 13.0 u.m.a.´s;
+XVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-d) gran industria o servicio de 251 trabajadores en adelante. 19.99 u.m.a.´s;
+XVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-e) bancos pétreos. 8.99 u.m.a.´s; y
+XIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-f) hornos de ladrillo y teja. 1.0 u.m.a.´s;
+XX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+XXI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-XIX.- Por la autorización de la licencia ambiental estatal:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-a) micro industria o servicio con 1 a 15 trabajadores. 18.0 u.m.a.´s;
-
-b) pequeña industria o servicio con 16 a 50 trabajadores. 29.0 u.m.a.´s;
-
-c) mediana industria o servicio con 51 a 250 trabajadores. 40.0 u.m.a.´s;
-
-d) gran industria o servicio de 251 trabajadores en adelante. 56.0 u.m.a.´s;
-
-e) bancos pétreos. 10.0 u.m.a.´s; y
-
-f) hornos de ladrillo y teja. 5.0 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XX.- Por la revisión y autorización de la cédula de operación anual de empresas y servicios en funcionamiento:
-
-a) micro industria o servicio con 1 a 15 trabajadores. 18.0 u.m.a.´s;
-
-b) pequeña industria o servicio con 16 a 50 trabajadores. 27.0 u.m.a.´s;
-
-c) mediana industria o servicio con 51 a 250 trabajadores. 37.99 u.m.a.´s;
-
-d) gran industria o servicio de 251 trabajadores en adelante. 57.0 u.m.a.´s; y
-
-e) hornos de ladrillo y teja 5.0 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XXI.- Por la autorización de cédula de operación anual de bancos pétreos en funcionamiento:
-
-a) hasta 250,000 toneladas. 30.0 u.m.a.´s;
-
-b) más de 250,000 y hasta 500,000 toneladas. 40.0 u.m.a.´s;
-
-c) más de 500,000 y hasta 750,000 toneladas 49.99 u.m.a.´s;
-
-d) más de 750,000 toneladas. 59.99 u.m.a.´s;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-XXII.- Por las evaluaciones y autorizaciones relacionadas con residuos de manejo especial:
+XXII.- Las personas físicas o morales generadoras de residuos de manejo especial:
 
 a) Por la autorización del plan de manejo:
 
-1. micro industria o servicio con 1 a 10 trabajadores. 6.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-2. pequeña industria o servicio con 11 a 50 trabajadores. 8.99 u.m.a.´s;
+1. Quienes al año generen 10 toneladas o su equivalente en otra unidad de medida de residuos de manejo especial. 20 u.m.a.´s;
 
-3. mediana industria o servicio con 51 a 250 trabajadores. 10.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-4. gran industria o servicio de 251 trabajadores en adelante. 13.0 u.m.a.´s; y
+2. Por tonelada o fracción adicional o su equivalente en otra unidad de medida de residuos de manejo especial. 2 u.m.a.´s, sin que el monto total exceda de 50 u.m.a.´s.
 
-5. bancos pétreos. 14.0 u.m.a.´s;
+3. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
+
+4. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
+
+5. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
 b) por la evaluación de manifiestos y registro de empresas
 
-1. micro industria o servicio con 1 a 10 trabajadores. 6.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-2. pequeña industria o servicio con 11 a 50 trabajadores. 8.99 u.m.a.´s;
+1. micro industria o servicio. 7 u.m.a.’s;
 
-3. mediana industria o servicio con 51 a 250 trabajadores. 10.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-4. gran industria o servicio de 251 trabajadores en adelante. 13.0 u.m.a.´s;
+2. pequeña industria o servicio. 9 u.m.a.’s;
 
-5. bancos pétreos. 14.0 u.m.a.´s; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-6. hornos de ladrillo y teja. 5.0 u.m.a.´s;
+3. mediana industria o servicio. 11 u.m.a.’s;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-c) Por la autorización de bitácora de generación de residuos de manejo especial:
+4. gran industria o servicio. 13 u.m.a.’s;
 
-1.- micro industria o servicio con 1 a 10 trabajadores. 5.0 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-2.- pequeña industria o servicio con 11 a 50 trabajadores. 5.0 u.m.a.´s;
+5. bancos pétreos. 14 u.m.a.’s; y
 
-3.- mediana industria o servicio con 51 a 250 trabajadores. 5.0 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-4.- gran industria o servicio de 251 trabajadores en adelante. 5.0 u.m.a.´s;
+6. hornos de ladrillo y teja. 5 u.m.a.’s;
 
-5.- bancos pétreos. 5.0 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-6.- hornos de ladrillo y teja. 5.0 u.m.a.´s;
+c) Por la autorización de bitácora de generación de residuos de manejo especial. 6 u.m.a.´s.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+1.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-XXIII.- Por la expedición del certificado de análisis de contaminantes realizados por el laboratorio ambiental, cuando se trate de:
+2.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-a) agua:
+3.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-1. residual:
+4.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-1.1. arsénico. 3.15 u.m.a.´s;
+5.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-1.2. cadmio. 3.15 u.m.a.´s;
+6.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
-1.3. cianuros. 5.56 u.m.a.´s;
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-1.4. cobre. 2.78 u.m.a.´s;
+d) Por la modificación del Registro como Generador de Residuos de Manejo Especial, cuando exista un cambio en su proceso que implique un aumento, reducción, alta o baja de un residuo:
 
-1.5. cromo hexavalente. 2.22 u.m.a.´s;
+1.- micro industria o servicio. 3.5 u.m.a.’s;
 
-1.6. demanda bioquímica de oxigeno. 2.78 u.m.a.´s;
+2.- pequeña industria o servicio. 4.5 u.m.a.’s;
 
-1.7. grasas y aceites. 2.78 u.m.a.´s;
+3.- mediana industria o servicio. 5.5 u.m.a.’s;
 
-1.8. materia flotante. 0.78 u.m.a.´s;
+4.- gran industria o servicio. 6.5 u.m.a.’s;
 
-1.9. mercurio. 3.15 u.m.a.´s
+5.- bancos pétreos. 7 u.m.a.’s; y
 
-1.10 níquel. 3.15 u.m.a.´s
+6.- hornos de ladrillo y teja. 2.5 u.m.a.’s;
 
-1.11 plomo. 3.15 u.m.a.´s
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-1.12. potencial hidrogeno. 0.78 u.m.a.´s
+e) Por la actualización del Plan de Manejo de residuos de manejo especial, cuando exista un cambio en su proceso que implique un aumento, reducción, alta o baja de un residuo, a que se refiere el inciso a) de la presente fracción:
 
-1.13. solidos suspendidos totales. 2.08 u.m.a.´s,
+1.- Quienes al año generen 10 toneladas o su equivalente en unidad de medida de residuos de manejo especial. 10 u.m.a.´s;
 
-1.14. solidos sedimentables. 0.78 u.m.a.´s;
+2.- Por tonelada o fracción adicional o su equivalente en la unidad de medida de residuos de manejo especial. 1u.m.a., sin que el monto total exceda de 25 u.m.a.´s.
 
-1.15. temperatura. 0.78 u.m.a.´s;
+XXIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-1.16. zinc. 2.78 u.m.a.´s;
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-1.17. nitrógeno total. 4.08 u.m.a.´s; y
+XXIV.- En el área natural protegida denominada Parque Ecológico Cubitos, se cobrará:
 
-1.18. fosforo total. 2.78 u.m.a.´s;
+a) Por el acceso personal, con fines recreativos, académicos o de investigación, contemplando la visita guiada 0.15 u.m.a.’s; y
 
-2. para consumo humano:
+b) Por el acceso personal, con fines recreativos, académicos o de investigación, contemplando el paquete “Retos de Aventura”. 0.78 u.m.a.’s.
 
-2.1. color. 0.93 u.m.a.´s;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-2.2. olor y sabor. 0.93 u.m.a.´s;
+#### SECCIÓN TERCERA. DEL CONSEJO DE ADMINISTRACIÓN DEL PARQUE NACIONAL EL CHICO
 
-2.3. turbiedad. 0.78 u.m.a.´s;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-2.4. aluminio. 3.15 u.m.a.´s;
-
-2.5. arsénico. 3.15 u.m.a.´s
-
-2.6. bario. 3.15 u.m.a.´s
-
-2.7. cadmio. 3.15 u.m.a.´s
-
-2.8. cianuro. 5.56 u.m.a.´s;
-
-2.9. cloro residual libre. 0.93 u.m.a.´s;
-
-2.10. cloruros totales. 2.22 u.m.a.´s;
-
-2.11. cobre. 2.78 u.m.a.´s;
-
-2.12. cromo total. 2.78 u.m.a.´s;
-
-2.13. dureza total. 2.22 u.m.a.´s;
-
-2.14. fierro. 2.78 u.m.a.´s;
-
-2.15. fluoruros. 3.15 u.m.a.´s;
-
-2.16. manganeso. 2.78 u.m.a.´s;
-
-2.17. mercurio. 3.15 u.m.a.´s;
-
-2.18. nitratos. 3.15 u.m.a.´s;
-
-2.19. nitritos. 3.15 u.m.a.´s;
-
-2.20. nitrógeno amoniacal. 3.15 u.m.a.´s;
-
-2.21. potencial hidrogeno. 0.78 u.m.a.´s;
-
-2.22. plomo. 3.15 u.m.a.´s;
-
-2.23. sodio. 2.78 u.m.a.´s;
-
-2.24. solidos disueltos totales. 1.71 u.m.a.´s;
-
-2.25. sulfatos. 2.78 u.m.a.´s;
-
-2.26. sustancias activas al azul de metileno. 3.34 u.m.a.´s; y
-
-2.27. zinc. 2.78 u.m.a.´s;
-
-b) suelos:
-
-1. lodos y biosolidos:
-
-1.1. arsénico. 3.25 u.m.a.´s;
-
-1.2. cadmio. 3.25 u.m.a.´s;
-
-1.3. cromo. 3.25 u.m.a.´s;
-
-1.4. cobre. 3.25 u.m.a.´s;
-
-1.5. plomo. 3.25 u.m.a.´s;
-
-1.6. mercurio. 3.25 u.m.a.´s;
-
-1.7. níquel. 3.25 u.m.a.´s; y
-
-1.8. zinc. 3.25 u.m.a.´s;
-
-2. remediación de suelos:
-
-2.1. arsénico. 3.25 u.m.a.´s;
-
-2.2. bario. 3.25 u.m.a.´s;
-
-2.3. berilio. 3.25 u.m.a.´s;
-
-2.4. cadmio. 3.25 u.m.a.´s;
-
-2.5. cromo hexavalente. 3.25 u.m.a.´s;
-
-2.6. mercurio. 3.25 u.m.a.´s;
-
-2. 7. níquel. 3.25 u.m.a.´s;
-
-2.8. plata. 3.25 u.m.a.´s;
-
-2.9. plomo. 3.25 u.m.a.´s;
-
-2.10. selenio. 3.25 u.m.a.´s;
-
-2.11. talio. 3.25 u.m.a.´s; y
-
-2.12. vanadio. 3.25 u.m.a.´s;
-
-c) aire:
-
-1. monitoreo de contaminantes criterio (unidad móvil), monto por día. 148.2 u.m.a.´s;
-
-2. muestreo de partículas pst, pm 10 y 2.5 118.2 u.m.a.´s;
-
-3. determinación de metales pesados en filtros de cuarzo:
-
-3.1. plomo. 3.25 u.m.a.´s;
-
-3.2. manganeso. 3.25 u.m.a.´s;
-
-3.3. cromo. 3.25 u.m.a.´s;
-
-3.4. arsénico. 3.25 u.m.a.´s;
-
-3.5. berilio. 3.25 u.m.a.´s;
-
-3.6. cadmio. 3.25 u.m.a.´s;
-
-4. incineración de residuos:
-
-4.1. arsénico. 3.25 u.m.a.´s;
-
-4.2. selenio. 3.25 u.m.a.´s;
-
-4.3. cobalto. 3.25 u.m.a.´s;
-
-4.4. níquel. 3.25 u.m.a.´s;
-
-4.5. manganeso. 3.25 u.m.a.´s;
-
-4.6. estaño. 3.25 u.m.a.´s;
-
-4.7. cadmio. 3.25 u.m.a.´s;
-
-4.8. plomo. 3.25 u.m.a.´s;
-
-4.9. cromo total. 3.25 u.m.a.´s;
-
-4.10. cobre. 3.25 u.m.a.´s;
-
-4.11. zinc. 3.25 u.m.a.´s;
-
-4.12. mercurio. 3.25 u.m.a.´s; y
-
-5. muestreo de aguas. 15.79 u.m.a.´s
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL DE PROFESIONES
 
 ###### ARTÍCULO 41.
 
-Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de la Dirección General de Recursos Naturales, se causarán y pagarán de la siguiente forma:
+Los derechos por el uso o aprovechamiento de bienes del dominio público del Estado por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, a través de Consejo de Administración del Parque Nacional El Chico, se causarán y pagarán de la siguiente forma:
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1931,15 +1937,15 @@ e) Por el uso o aprovechamiento no extractivo de elementos naturales y escénico
 
 f) Por el uso o aprovechamiento no extractivo de senderos, caminos o elementos naturales y escénicos que se realiza dentro del Parque Nacional El Chico, derivado de las actividades turísticas, deportivas y recreativas como rappel, montañismo, excursionismo, alta montaña, observación de aves y otra fauna y flora silvestre, escalada en roca, visitas guiadas y no guiadas, por persona, por día, tratándose de eventos masivos. 0.59 u.m.a.'s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-II.- En el área natural protegida denominada Parque Ecológico Cubitos, se cobrara:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-a) Por el acceso personal, con fines recreativos, académicos o de investigación, contemplando la visita guiada. 0.15 u.m.a.´s; y
+### CAPÍTULO OCTAVO. DE LOS DERECHOS CORRESPONDIENTES A LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-b) Por el acceso personal, con fines recreativos, académicos o de investigación, contemplando el paquete "Retos de Aventura. 0.78 u.m.a.´s.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO OCTAVO. DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE EDUCACIÓN SUPERIOR
 
 ###### ARTÍCULO 42.
 
@@ -1981,6 +1987,10 @@ VIII.- Por la expedición de acuerdo de registro a instituciones de educación m
 
 IX.- Por la expedición de duplicado de registro estatal. 3.0 u.m.a.´s
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DE VINCULACIÓN Y FORTALECIMIENTO INSTITUCIONAL
+
 ###### ARTÍCULO 43.
 
 Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Educación Superior, se causaran y pagarán de la siguiente forma:
@@ -1989,13 +1999,19 @@ Los derechos por la prestación de los servicios del Estado por conducto de la S
 
 I.- En materia de Reconocimiento de Validez Oficial de Estudios (RVOE):
 
-a) por el acuerdo que regula el trámite. 8.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+a) por el instructivo para el trámite de Reconocimiento de Validez Oficial de Estudios. 8.99 u.m.a.’s;
 
 b) por la expedición del dictamen de planes y programas de estudio. 200.0 u.m.a.´s;
 
-c) por la inspección técnica para revisión de instalaciones. 59.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-d) por la obtención del acuerdo de Reconocimiento de Validez Oficial de Estudios. 80.0 u.m.a.´s;
+c) por la inspección técnica de revisión de instalaciones para el trámite de Reconocimiento de Validez Oficial de Estudios. 59.99 u.m.a.’s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+d) por la expedición del acuerdo que autoriza o niega el Reconocimiento de Validez Oficial de Estudios. 80.0 u.m.a.’s;
 
 e) por la expedición de la carta de no inconveniente para incorporación a una institución educativa nacional. 19.99 u.m.a.´s;
 
@@ -2003,9 +2019,13 @@ f) por el acuerdo de actualización de programa académico de nivel superior. 11
 
 g) por la expedición de la opinión de pertinencia de planes y programas de estudios. 80.0 u.m.a.´s;
 
-h) por la inspección ordinaria y emisión de dictamen para la continuidad de la vigencia. 99.99 u.m.a.´s;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-i) por trámite de inspección de cambio de domicilio y emisión de dictamen autorización de cambio de domicilio. 89.99 u.m.a.´s; y
+h) por la inspección ordinaria a los servicios educativos que prestan las Instituciones Particulares de Educación Superior con Reconocimiento de Validez Oficial de Estudios del Estado. 99.99 u.m.a.’s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+i) por la inspección técnica de revisión de instalaciones para el trámite de cambio de domicilio y emisión del acuerdo que autoriza o niega dicho cambio. 89.99 u.m.a.’s; y
 
 j) por registro de personal docente de instituciones particulares de educación superior. 1.0 u.m.a.´s;
 
@@ -2021,9 +2041,21 @@ c) de duplicado de certificado de estudios. 2.0 u.m.a.´s;
 
 d) de título, diploma o grado académico. 15.0 u.m.a.´s;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA (N. DE E. CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-III.- Por la revisión de documentos para ingresar a una institución particular. 1.0 u.m.a.´s;
+III.- En materia de control escolar de escuelas particulares incorporadas:
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+a) por la revisión de documentos para ingresar a una institución particular. 1 u.m.a.;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+b) por la expedición de la forma valorada para certificado. 2 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+c) por la expedición de la forma valorada para Diploma, Título y Grado Académico. 4 u.m.a.´s.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2037,6 +2069,10 @@ c) por duplicado de equivalencia de estudios de nivel superior. 3.0 u.m.a.´s; y
 
 d) por duplicado de revalidación de estudios de nivel superior. 6.72 u.m.a.´s.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN GENERAL DE EDUCACIÓN MEDIA SUPERIOR
+
 ###### ARTÍCULO 44.
 
 Los derechos por la prestación de los servicios del Estado por conducto de la Secretaría de Educación Pública, a través de la Dirección General de Vinculación y Fortalecimiento Institucional, se causarán y pagarán de la siguiente forma:
@@ -2048,6 +2084,8 @@ I.- Por cursar cada materia. 6.0 u.m.a.´s; y
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 II.- Por recursar materia no aprobada. 32.73 u.m.a.´s
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 45.
 
@@ -2063,9 +2101,25 @@ b) equivalencia de estudios cursados en el país. 6.99 u.m.a.´s;
 
 c) Equivalencia de estudios para el tránsito del plan de 33 asignaturas a plan modular. 1.3 u.m.a.´s
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE ESTE PÁRRAFO CON SUS INCISOS], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-II.- Por la expedición del Reconocimiento de Validez Oficial de Estudios (RVOE) 600.0 u.m.a.´s
+II.- En materia de Reconocimiento de Validez Oficial de Estudios (RVOE):
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+a) por la inspección técnica de revisión de instalaciones para el trámite del Reconocimiento de Validez Oficial de Estudios. 59.99 u.m.a.´s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+b) por la expedición del acuerdo que autoriza o niega el Reconocimiento de Validez Oficial de Estudios. 600.0 u.m.a.’s;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+c) por la inspección ordinaria de los servicios educativos que prestan las Instituciones Particulares de Educación Media Superior con Reconocimiento de Validez Oficial de Estudios del Estado. 1 u.m.a. por cada 5 alumnos matriculados en la institución; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+d) por la inspección técnica de revisión de instalaciones para el trámite de cambio de domicilio y emisión del acuerdo que autoriza o niega dicho cambio. 89.99 u.m.a.´s.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2085,23 +2139,13 @@ f) Por la expedición y validación del certificado. 4.0 u.m.a.´s y
 
 g) Por la expedición de duplicado de certificado. 2.0 u.m.a.´s
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-IV.- En materia de Preparatoria Abierta:
-
-a) Por preinscripción. 1.0 u.m.a.´s
-
-b) Por inscripción. 4.0 u.m.a.´s
-
-c) Por la emisión de constancia de estudios. 1.0 u.m.a.´s
-
-d) Por la emisión del historial Académico. 1.0 u.m.a.´s; y
-
-e) Por la autorización de registro de centros de asesoría. 201.99 u.m.a.´s
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
 El importe de los derechos por examen, emisión de duplicado de credencial y certificado de estudios serán los contemplados en la Ley Federal de Derechos.
 
-### CAPÍTULO NOVENO. DE LA PROCURADURÍA GENERAL DE JUSTICIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO NOVENO. DE LOS DERECHOS CORRESPONDIENTES A LA PROCURADURÍA GENERAL DE JUSTICIA
 
 ###### ARTÍCULO 46.
 
@@ -2119,13 +2163,25 @@ II.- Por la expedición de certificados de no antecedentes penales. 1.95 u.m.a.�
 
 III.- Por la expedición de constancia de vehículo no robado. 3.9 u.m.a.´s.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+### CAPÍTULO DÉCIMO. DE LOS DERECHOS CORRESPONDIENTES A LA OFICIALÍA MAYOR
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 46 BIS.- Los derechos derivados de la administración, uso o goce del patrimonio inmobiliario del Estado, a través de la Oficialía Mayor, por conducto de la Dirección General de Patrimonio Inmobiliario, se pagarán conforme a las cuotas que establezca la dirección general en cita, considerando la naturaleza del evento.
+
+Tratándose del Patrimonio Inmobiliario de otras unidades administrativas, las cuotas por la administración, uso o goce, se fijarán de acuerdo a la naturaleza del evento.
+
 ## TÍTULO TERCERO
 
 DE LOS DERECHOS POR LA PRESTACIÓN DE SERVICIOS Y USO O GOCE DE BIENES DEL DOMINIO PÚBLICO CORRESPONDIENTES A LOS ORGANISMOS DESCENTRALIZADOS QUE CONFORMAN LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 47.
 
-Los Organismos Descentralizados como personas jurídicas, cuyo objetivo primordial es auxiliar a la Administración Pública Centralizada en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Gobierno del Estado, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, conforme a los rubros, conceptos, cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Finanzas y Administración y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
+Los Organismos Descentralizados como personas jurídicas, cuyo objetivo primordial es auxiliar a la Administración Pública Centralizada en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Gobierno del Estado, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, conforme a los rubros, conceptos, cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Finanzas Públicas y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Estado para tener vigencia y aplicabilidad.
 
 T R A N S I T O R I O S
 
@@ -2176,3 +2232,11 @@ P.O. 23 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO POR EL "QUE ADICIONA EL ARTÍCULO 12 BIS Y REFORMA EL ARTÍCULO 98 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE HIDALGO; ASÍ COMO EL ARTÍCULO 25 DE LA LEY ESTATAL DE DERECHOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 320 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2018.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
