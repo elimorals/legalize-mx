@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2017-07-16"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -229,9 +229,9 @@ IV. Elaborar los programas sectoriales y las políticas relativas a los ámbitos
 
 V. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de los órganos administrativos adscritos a su ámbito, conforme a los lineamientos del Plan Nacional de Desarrollo y del Plan Estatal de Desarrollo; así como coordinar la elaboración de los programas operativos anuales y anteproyectos de presupuesto que les correspondan; asimismo, establecer y preservar el sistema de control interno requerido para el logro de los objetivos y metas;
 
-VI. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y en su caso de las unidades administrativas y órganos desconcentrados que les estén adscritos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-También podrán suscribir aquellos que les sean señalados por delegación o les correspondan por suplencia. El Gobernador del Estado podrá ampliar o limitar el ejercicio de las facultades a que se refiere esta fracción;
+VI. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas, poderes notariales y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y en su caso de las unidades administrativas y órganos desconcentrados que les estén adscritos. También podrán suscribir aquellos que les sean señalados por delegación o les correspondan por suplencia. El Gobernador del Estado podrá ampliar o limitar el ejercicio de las facultades a que se refiere esta fracción;
 
 VII. Realizar las acciones que en materia de contabilidad gubernamental le correspondan y disponer la preservación de los documentos inherentes, en términos de las disposiciones jurídicas y administrativas que resulten aplicables;
 
@@ -269,11 +269,13 @@ XXI. Designar al personal de la secretaría o dependencia que conforme a las ley
 
 XXII. Las demás que le confieran las leyes, otros ordenamientos jurídicos aplicables y las que les resulten compatibles conforme a sus objetivos para su mejor desarrollo, atendiendo a lo dispuesto por el artículo 7 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 14.
 
-Al frente de cada secretaría o dependencia habrá una persona titular, quien para el despacho de los asuntos de su competencia se auxiliará, en su caso, por los coordinadores generales, subsecretarios, directores generales, directores de área, subdirectores y jefes de departamento, así como por los demás servidores públicos que, conforme a la suficiente (sic) presupuestal correspondiente, se establezcan en las disposiciones administrativas, reglamentarias y normativas aplicables, las que definirán su competencia y atribuciones.
+Al frente de cada Secretaría o Dependencia habrá una persona titular, quien para el despacho de los asuntos de su competencia se auxiliará, en su caso, por los coordinadores generales, subsecretarios, directores generales, directores de área, subdirectores y jefes de departamento, así como por los demás servidores públicos que, conforme a la suficiencia presupuestal correspondiente, se establezcan en las disposiciones administrativas, reglamentarias, manuales administrativos y demás normativa aplicable, los que definirán su competencia y atribuciones, así como sus grados de responsabilidad administrativa.
+
+La responsabilidad administrativa a la que está sujeto cada servidor público, llegado el caso de que se determine la misma, será personal y directa proporcional a sus atribuciones y competencia, por lo que para su determinación deberán considerarse las funciones y nivel del servidor público de que se trate, en términos de los Manuales Administrativos de las Secretarías, Dependencias y Entidades correspondientes, mismos que deberán publicarse en el Periódico Oficial “Tierra y Libertad”.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -507,15 +509,25 @@ XXXIV. Concentrar, custodiar y requerir, en su caso, las garantías que se otorg
 
 XXXV. Autorizar los precios y tarifas de los bienes, trámites y servicios que producen o prestan las Entidades de la Administración Pública Paraestatal, distintos de contribuciones, previa opinión de la Secretaría, Dependencia o Entidad que corresponda;
 
-XXXVI. Representar legalmente al Poder Ejecutivo del Gobierno del Estado de Morelos, ante el Sistema de Administración Tributaria y otras autoridades federales o estatales en materia fiscal y hacendaria;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XXXVII. Regular y controlar la aplicación de las disposiciones fiscales y administrativas relativas al control vehicular en la modalidad particular;
+XXXVI. Representar legalmente al Poder Ejecutivo del Gobierno del Estado de Morelos, ante el Servicio de Administración Tributaria y otras autoridades federales o estatales en materia fiscal y hacendaria;
 
-XXXVIII. Planear, elaborar, organizar, integrar, actualizar y vigilar el Registro Estatal de Vehículos Automotores del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XXXIX. Autorizar la expedición, suspensión y cancelación de las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones, licencias de conducir y actualizaciones, así como permisos de conducir, para la circulación vehicular particular, llevando un control de todo lo relacionado a estas actividades, y
+XXXVII. Planear, organizar, regular, administrar, vigilar y, en su caso, controlar la aplicación de las disposiciones fiscales y administrativas relativas al control vehicular;
 
-XL. Emitir las disposiciones administrativas en materia de control vehicular particular para la debida aplicación de las disposiciones legales de la materia.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXXVIII. Planear, regular, elaborar, organizar, integrar, actualizar y vigilar el Registro Estatal de Vehículos Automotores del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXXIX. Autorizar la expedición, suspensión y cancelación de todos los documentos relativos al control vehicular del servicio de transporte como son las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones, licencias de conducir y sus actualizaciones, así como permisos de conducir, y los demás que sean necesarios para la correcta circulación vehicular; llevando un control de todo lo relacionado a estas actividades, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XL. Emitir las disposiciones administrativas en materia de control vehicular del servicio de transporte para la debida aplicación de las disposiciones legales de la materia.
 
 ###### Artículo 23.
 
@@ -547,7 +559,9 @@ X. Controlar, vigilar, fiscalizar y evaluar los resultados de las políticas, pl
 
 XI. Participar en el Comité de Planeación para el Desarrollo de Morelos, a fin de contribuir a la mejora de la planeación y evaluación de la administración pública del estado y en los acuerdos y programas que se generen;
 
-XII. Remitir, conforme a la Ley Estatal de Responsabilidades de los Servidores Públicos, para su publicación en el Periódico Oficial "Tierra y Libertad", el catálogo de los servidores públicos obligados a rendir declaración de situación patrimonial;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XII. Remitir, conforme a la normativa aplicable, para su publicación en el Periódico Oficial "Tierra y Libertad", el catálogo de los servidores públicos obligados a rendir las declaraciones de intereses y de situación patrimonial;
 
 XIII. Disponer la publicación en el Periódico Oficial "Tierra y Libertad" de las obligaciones que conforme a la normatividad aplicable se establezcan;
 
@@ -931,9 +945,9 @@ XXI. Presupuestar y gestionar el financiamiento adicional a las instituciones ac
 
 A la Secretaría de Movilidad y Transportes le corresponden las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-I. Planear, organizar, regular, vigilar y, en su caso, administrar el servicio de transporte en las modalidades de servicio público y privado;
+I. Planear, organizar, regular, vigilar y, en su caso, administrar el servicio de transporte;
 
 II. Dirigir, coordinar y controlar la ejecución de los programas de transporte en la entidad, que realice directamente o en forma concertada con la Federación o los municipios;
 
@@ -963,31 +977,33 @@ XIV. Diseñar y establecer en su caso las políticas y criterios para el estable
 
 XV. Proponer las cuotas, tasas y tarifas fiscales aplicables en materia de derechos por los servicios que proporcione la Secretaria en el ejercicio de sus atribuciones, así como los aprovechamientos respectivos;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XVI. Suscribir y expedir tarjetas de circulación de transporte público y privado, tarjetón del servicio público y demás documentos de circulación, así como autorizar las cesiones de derechos entre particulares y por defunción, previo el cumplimiento de los requisitos que al efecto establezca el marco jurídico aplicable;
+XVI. Autorizar las cesiones de derechos entre particulares, así como suscribir y expedir el tarjetón del servicio público, conforme al marco jurídico aplicable;
 
 XVII. Regular, inspeccionar y vigilar el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo a efecto de garantizar que el servicio público se preste en los términos y condiciones autorizados legalmente;
 
-XVIII. Resguardar los documentos y placas depositadas con motivo de las infracciones y sanciones impuesta (sic) por violaciones a la normatividad en materia del transporte público y privado, en términos de la normatividad e instrumentos aplicables;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Resguardar los documentos y placas depositadas con motivo de las infracciones y sanciones impuestas por violaciones a la normativa en materia del transporte, en términos de los instrumentos jurídicos aplicables;
 
 XIX. Promover la investigación y el desarrollo tecnológico en materia de movilidad y transporte en la entidad;
 
 XX. Promover e implementar nuevas modalidades en la prestación del servicio del transporte público y privado y sus servicios auxiliares cuando se justifique su necesidad e interés colectivo;
 
-XXI. Establecer, administrar y mantener actualizado el registro y control de las concesiones, permisos, autorizaciones y el padrón de operadores que le corresponda a la Secretaría;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXI. Establecer, administrar y mantener actualizado el registro y control de las concesiones, permisos, autorizaciones y el padrón de operadores que le corresponda a la Secretaría, sin perjuicio de las atribuciones respecto del Registro Estatal de Vehículos Automotores del Estado que le corresponda a la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
 XXII. Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones;
 
 XXIII. Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XXIV. Registrar, expedir y resguardar el padrón de conductores en las modalidades de servicio público y privado, así como expedir, suspender y cancelar licencias y permisos de conducir, tanto de uso privado, como para la prestación del servicio público de transporte;
+XXIV. Registrar, expedir y resguardar el padrón de conductores en las modalidades de servicio de transporte público y privado, sin perjuicio de las atribuciones respecto del Registro Estatal de Vehículos Automotores del Estado que le corresponda a la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-XXV. Registrar los vehículos de servicio de transporte público y privado, expedir las placas metálicas, tarjetas de circulación, calcomanías y demás documentos que correspondan;
+XXV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
 XXVI. Declarar, previo procedimiento la revocación, cancelación y caducidad, de las concesiones del servicio público, así como autorizar el cambio de modalidad del servicio público en los términos de la normatividad aplicable, cuando se justifique la necesidad e interés colectivo; y
 
@@ -1129,7 +1145,9 @@ XVIII. Llevar el control de las estadísticas y reportes de las acciones y opera
 
 XIX. Vigilar y controlar el uso, portación y adquisición de armas de fuego de los diferentes cuerpos policiales de los Municipios y de la corporación estatal bajo su mando y que se encuentren registradas en la licencia oficial colectiva correspondiente;
 
-XX. Crear, administrar y actualizar en acciones coordinadas con el Secretariado Ejecutivo, la Fiscalía General del Estado de Morelos y los Municipios, las bases de información criminógena, que permitirán el análisis y planeación estratégica de las labores que debe realizar la Secretaría, para la prevención del delito y la preservación de la Seguridad Pública del Estado de Morelos. El incumplimiento de proveer la información por parte de la autoridad emisora será causal de responsabilidad, de conformidad con lo previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XX. Crear, administrar y actualizar en acciones coordinadas con el Secretariado Ejecutivo, la Fiscalía General del Estado de Morelos y los Municipios, las bases de información criminógena, que permitirán el análisis y planeación estratégica de las labores que debe realizar la Secretaría, para la prevención del delito y la preservación de la Seguridad Pública del Estado de Morelos. El incumplimiento de proveer la información por parte de la autoridad emisora será causal de responsabilidad, de conformidad con lo previsto en la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable;
 
 XXI. Calificar los procesos de formación y profesionalización; realizar las evaluaciones y exámenes de control de confianza; emitir la certificación de los aspirantes y activos de las Instituciones de Seguridad Pública, prestadores de seguridad privada y sus auxiliares; así como realizar evaluaciones de seguimiento, cumplimiento y del desempeño al personal de las Instituciones de Seguridad Pública, unidades de adscripción, o cualquier área que afecte directa o indirectamente en la seguridad pública del Estado, debiendo presentar los resultados y las recomendaciones que sobre éstas deba conocer el Consejo Estatal;
 
@@ -1233,7 +1251,9 @@ XXI. Promover reuniones para consolidar proyectos de interés turístico para el
 
 A la Consejería Jurídica le corresponden las siguientes atribuciones:
 
-I. Representar y constituirse en asesor jurídico del Gobernador del Estado, en todos los actos en que éste sea parte;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+I. Representar y constituirse en asesor jurídico del Gobernador del Estado, en todos los actos en que éste sea parte; y en los casos a que se refiere el artículo 18 de la Ley de Justicia Administrativa del Estado de Morelos dicha representación se realizará por los titulares de esa Dependencia o de las Direcciones Generales que la integran conforme a su Reglamento Interior;
 
 II. Representar al Titular del Poder Ejecutivo, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -1387,7 +1407,9 @@ Son entidades u organismos auxiliares los organismos públicos descentralizados,
 
 Los organismos auxiliares deberán observar, cumplir y hacer cumplir los criterios y lineamientos jurídicos que disponga la Consejería Jurídica; asimismo, están obligados a cumplir con los lineamientos presupuestales o administrativos que establezcan la Oficina de la Gubernatura del Estado y las Secretarías de Administración, de Hacienda y de la Contraloría, todas del Poder Ejecutivo Estatal. Aplicando, según el caso, los lineamientos presupuestales, los catálogos y tabuladores de la administración pública central establecidos en el Presupuesto de Egresos del Estado, y los instrumentos reglamentarios respectivos.
 
-La inobservancia de lo previsto en el presente artículo y de las demás disposiciones que de él emanen, será motivo de responsabilidad administrativa y sancionada en términos de la Ley Estatal de Responsabilidades de los Servidores Públicos, sin perjuicio de proceder conforme a los ordenamientos que correspondan cuando el hecho u omisión pudieran considerarse ilícitos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+La inobservancia de lo previsto en el presente artículo y de las demás disposiciones que de él emanen, será motivo de responsabilidad administrativa y sancionada en términos de la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable, sin perjuicio de proceder conforme a los ordenamientos que correspondan cuando el hecho u omisión pudieran considerarse ilícitos.
 
 ###### Artículo 47.
 
@@ -2166,3 +2188,33 @@ SÉPTIMA. Dentro de un plazo de 120 días hábiles, contados a partir de la entr
 OCTAVA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto, serán resueltos por la persona Titular del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
 
 NOVENA. Los asuntos que con motivo de este Decreto deban pasar a otra Secretaría, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por el área que tenga el asunto a su cargo. También serán transferidos los archivos y expedientes respectivos.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y NUEVE.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS; DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, Y DE LA LEY ESTATAL DE PLANEACIÓN; CON MOTIVO DEL PAQUETE ECONÓMICO 2018”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo en lo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las reformas reglamentarias respectivas que se derivan del mismo, mientras ello sucede se mantendrán vigentes las actuales, así mismo deberán expedirse los actos administrativos necesarios, entre ellos la reexpedición de nombramientos o registro de firmas ante la Secretaría de Gobierno del Poder Ejecutivo Estatal.
+
+QUINTA. Dentro de un plazo de 180 días hábiles contados a partir del inicio de vigencia del presente Decreto las Secretarías, Dependencias y Entidades de la Administración Pública Estatal deberán publicar en el Periódico Oficial “Tierra y Libertad”, sus Manuales Administrativos correspondientes en términos de la normativa aplicable.
+
+SEXTA. Dentro de un plazo de 120 días hábiles contados a partir del inicio de vigencia del presente Decreto se deberán, en su caso, actualizar o expedir los programas que resulten necesarios, conforme a las nuevas disposiciones de este instrumento inclusive.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto, serán resueltos por la persona titular del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
+
+OCTAVA. Se adiciona un segundo párrafo al Artículo Tercero del Decreto Número Mil Trescientos Setenta y Cinco por el que se crea a la entidad paraestatal denominada “Casa de Cultura Juan Soriano” o “Museo Morelense de Arte Contemporáneo”; y se autoriza al titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación, para quedar como sigue:
+
+“…ARTÍCULO TERCERO. …
+
+Particularmente, para el caso de esta Entidad, la designación de su titular invariablemente corresponderá al respectivo Órgano de Gobierno, a propuesta de su presidente…”
+
+NOVENA. Derivado de las consecuencias ocasionadas por el sismo ocurrido el 19 de septiembre de 2017, se faculta al Titular del Poder Ejecutivo Estatal la suspensión temporal de acciones o programas gubernamentales que resulten necesarios para atender dicho desastre.
+
+En ese orden, se autoriza al Titular del Poder Ejecutivo Estatal para que, en virtud de las atribuciones conferidas en el “Decreto número mil trescientos setenta y tres.- por el que se crea a la Entidad Paraestatal denominada “Sistema Integrado de Transporte Masivo”; y se autoriza al Titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación”, realice las acciones conducentes para suspender o postergar el inicio de vigencia u operatividad de dicho organismo auxiliar, hasta en tanto se cuente con la disponibilidad presupuestaria para ello. Para lo anterior, deberá tomar las previsiones respectivas por cuanto al “Decreto por el que se determina la naturaleza jurídica como Organismo Público Descentralizado, y demás particularidades para la operación, de la Entidad Paraestatal denominada “Sistema Integrado de Transporte Masivo”.
+
+DÉCIMA. En caso de que en el ejercicio fiscal se determine la cancelación de la asignación establecida en el artículo 58 BIS-9, párrafo primero, de la Ley General de Hacienda del Estado de Morelos para el Fondo de Competitividad y Promoción del Empleo, la diversa asignación que corresponda al Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo, en términos del artículo 26, fracción II, de la Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos, se reducirá de acuerdo a los montos y porcentajes efectuados para el primero de los fondos citados.
