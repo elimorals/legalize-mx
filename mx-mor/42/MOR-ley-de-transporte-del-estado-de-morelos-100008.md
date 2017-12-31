@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transporte-del-estado-de-morelos-100008"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2017-07-16"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRANSPORTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de marzo de 2014.
 
@@ -79,7 +79,9 @@ XII. Parada, al lugar donde obligatoriamente se detienen los vehículos del Serv
 
 XIII. Permisionario, a la persona física y moral titular de un permiso;
 
-XIV. Permiso de conducir, a la autorización otorgada a particulares para operar vehículos particular, sin la licencia necesaria para ese efecto durante un tiempo determinado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIV. Permiso de conducir, a la autorización otorgada a particulares para operar vehículos particulares, sin la licencia necesaria para ese efecto durante un tiempo determinado;
 
 XV. Permiso particular, a la autorización otorgada a particulares para operar los Servicios de Transporte Particular de Carga, la cual es otorgada por el Titular de la Secretaría de Movilidad y Transporte del Poder Ejecutivo Estatal;
 
@@ -213,7 +215,9 @@ XII. Las demás que establezcan el Reglamento y otras disposiciones legales apli
 
 El Titular de la Secretaría, además de las facultades que establece la Ley Orgánica de la Administración Pública del Estado, tendrá las siguientes:
 
-I. Planear, organizar, regular, vigilar y, en su caso, administrar el Servicio de Transporte Público, Privado y Particular en cualquiera de sus modalidades;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+I. Planear, organizar, regular, vigilar y, en su caso, administrar el Servicio de Transporte;
 
 II. Dirigir, coordinar y controlar la ejecución de los programas de transporte en la Entidad, que realice directamente o en forma concertada con la Federación o los Municipios;
 
@@ -249,9 +253,9 @@ XVII. Diseñar y establecer en su caso, las políticas y criterios para el estab
 
 XVIII. Proponer las cuotas, tasas y tarifas fiscales aplicables en materia de derechos por los servicios que proporcione la Secretaría en el ejercicio de sus atribuciones, así como los aprovechamientos respectivos;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XIX. Suscribir y expedir tarjetas de circulación de transporte público y privado, tarjetón del servicio público, así como los gafetes de los operadores debidamente acreditados del Servicio de Transporte Público y demás documentos de circulación;
+XIX. Suscribir y expedir los gafetes de los operadores debidamente acreditados del Servicio de Transporte Público;
 
 XX. Regular, inspeccionar y vigilar el Servicio de Transporte Público y Privado en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo a efecto de garantizar que el servicio público se preste en los términos y condiciones autorizados legalmente;
 
@@ -271,11 +275,9 @@ XXVII. Recibir, tramitar y resolver, los procedimientos administrativos, y en su
 
 XXVIII. Registrar, expedir y resguardar el Padrón de Operadores del Transporte en sus diferentes modalidades;
 
-XXIX. Expedir, suspender y cancelar licencias y permisos de conducir, tanto de uso de transporte público, privado y particular. En el caso de las licencias y permisos de conducir de uso particular, la suspensión y cancelación será en cumplimiento de mandato o resolución de autoridad competente;
+XXIX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-XXX. Registrar los vehículos de servicio de transporte público y privado, y expedir las placas metálicas, tarjetas de circulación, calcomanías y demás documentos que correspondan;
+XXX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
 XXXI. Declarar, previo procedimiento la revocación, cancelación y caducidad, de las concesiones del Servicio de Transporte Público, así como autorizar el cambio de modalidad del Servicio de Transporte Público en los términos de la normatividad aplicable, cuando se justifique la necesidad e interés colectivo;
 
@@ -355,9 +357,9 @@ XIII. Custodiar y controlar los archivos que se integren con la documentación s
 
 XIV. Brindar información, orientación y asesoría a los usuarios, en relación con el Servicio de Transporte Público en el Estado, así como sobre sus derechos y obligaciones;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XV. Registrar los vehículos de Servicio de Transporte Público y Privado, expedir las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones y permisos de Servicio de Transporte Público y Privado;
+XV. Registrar los vehiculos destinados al Servicio de Transporte Público y Privado, sin perjuicio de las atribuciones respecto del Registro Estatal de Vehículos Automotores del Estado que le corresponda a la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
 XVI. Proponer al superior jerárquico, las políticas y normas en materia de transporte y movilidad, de conformidad con los ordenamientos legales aplicables;
 
@@ -365,35 +367,37 @@ XVII. Dictaminar y dar trámite a las solicitudes de otorgamiento de autorizaci�
 
 XVIII. Realizar los estudios y proponer al superior jerárquico, las políticas en materia de tarifas para el transporte público en sus diversas modalidades, conforme a la legislación aplicable en la materia;
 
-XIX. Registrar los cambios de domicilio de los propietarios de los vehículos automotores y las modificaciones que se realicen en dichos vehículos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+XIX. Registrar los cambios de domicilio de los propietarios de los vehículos automotores y las modificaciones que se realicen en dichos vehículos, para efectos de los permisos y autorizaciones de transporte, así como del padrón de operadores del transporte;
 
-XX. Expedir, licencias y permisos de conducir para la prestación del Servicio de Transporte Público y Privado;
+XX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
-
-XXI. Controlar y resguardar las placas metálicas, tarjetas de circulación, calcomanías, autorizaciones, permisos y licencias de conducir para el Servicio de Transporte Público y Privado;
+XXI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
 XXII. Autorizar las conversiones o adaptaciones para vehículos de transporte particular de carga;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XXIII. Buscar y expedir copias o certificaciones relacionadas con el padrón vehicular y licencias de conducir del Servicio de Transporte Público y Privado;
+XXIII. Buscar y expedir copias o certificaciones relacionadas con el padrón de operadores del transporte;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2017)</small>
+XXIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-XXIV. Recibir placas metálicas y tarjetas de circulación de los vehículos para efectos de reposición, para el Servicio de Transporte Público y Privado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XXV. Expedir y autorizar permisos particulares;
+XXV. Expedir y autorizar permisos y autorizaciones de transporte;
 
-XXVI. Autorizar el tránsito temporal de vehículos carentes de la documentación necesaria para circular;
+XXVI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-XXVII. Verificar la documentación correspondiente que acredite la importación de vehículos de procedencia extranjera y dar a conocer a su superior jerárquico los resultados correspondientes;
+XXVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
-XXVIII. Realizar, con otras autoridades competentes, operativos de revisión, tanto a vehículos como a la documentación que permita la circulación de los mismos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XXIX. Cumplir y hacer cumplir las normas Federales y Estatales en materia de control vehicular, y
+XXVIII. Realizar, con otras autoridades competentes, operativos de revisión del transporte, tanto a vehículos como a la documentación respectiva;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXIX. Promover, en coordinación con la autoridad competente, el cumplimiento de las normas federales y estatales en materia de control vehicular, y
 
 XXX. Las demás que le delegue el Subsecretario o le confieran las disposiciones aplicables.
 
@@ -405,9 +409,13 @@ I. Substanciar cuando así sea procedente, los procesos relativos a los recursos
 
 II. Previo acuerdo del Secretario, representar a la Secretaría en todas las controversias de carácter judicial, administrativo o laboral en que esta sea parte o tenga interés jurídico;
 
-III. Regular en el ámbito de su competencia, los aspectos jurídicos relativos a las concesiones, permisos, licencias y autorizaciones a cargo de la Secretaría;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-IV. Conocer y substanciar a solicitud de la Unidad Administrativa competente, los procedimientos de revocación, caducidad, cancelación, suspensión, terminación e imposición de sanciones en relación a las concesiones, permisos, licencias y autorizaciones competencia de la Secretaria, y
+VIII (SIC). Regular en el ámbito de su competencia, los aspectos jurídicos relativos a las concesiones, permisos y autorizaciones a cargo de la Secretaría;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IX (SIC). Conocer y substanciar a solicitud de la Unidad Administrativa competente, los procedimientos de revocación, caducidad, cancelación, suspensión, terminación e imposición de sanciones en relación a las concesiones, permisos y autorizaciones competencia de la Secretaría, y
 
 V. Las demás que le otorgue el Secretario, así como demás ordenamientos legales vigentes aplicables.
 
@@ -537,7 +545,7 @@ Estas zonas serán determinadas por la Secretaría, conjuntamente con otras auto
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2016)</small>
+P(ADICIONADO, P.O. 22 DE JULIO DE 2016)
 
 ###### Artículo 26 Ter.
 
@@ -1331,7 +1339,9 @@ III. Tener 21 años cumplidos;
 
 IV. Aprobar la capacitación como operador del transporte público, con las condiciones y modalidades que señale el Reglamento de la presente Ley o en su caso determine la Secretaría;
 
-V. Demostrar aptitud física y mental para conducir vehículos destinados al transporte público en cualquiera de sus modalidades;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V. Contar con Licencia de chofer;
 
 VI. No estar jurídicamente impedido para conducir vehículos por resolución administrativa o judicial;
 
@@ -1873,27 +1883,25 @@ En caso de que un supervisor detecte un vehículo operando Servicios de Transpor
 
 ### CAPÍTULO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 130.
 
 Las infracciones a las disposiciones de esta Ley y de su Reglamento, serán fijadas a través de la Secretaría y consistirán en:
 
 I. Amonestación;
 
-II. Suspensión temporal de derechos o licencias para los conductores sin perjuicio de la sanción pecuniaria;
+II. Suspensión temporal de derechos o permisos del transporte, sin perjuicio de la sanción pecuniaria;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+III. Suspensión temporal de las licencias de conducir, para cuyo efecto se solicitará a la Secretaría de Hacienda del Poder Ejecutivo Estatal, concrete las acciones conducentes;
 
-III. Multa, de cinco a doscientas veces el valor diario de la Unidad de Medida y Actualización;
+IV. Multa, de cinco a doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
+V. Multa, de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Multa, de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización;
+VI. Multa, de seiscientas veces el valor diario de la Unidad de Medida y Actualización, y
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2017)</small>
-
-V. Multa, de seiscientas veces el valor diario de la Unidad de Medida y Actualización, y
-
-VI. Revocación de la Concesión, permiso o gafete de operador.
+VII. Revocación de la Concesión, permiso o gafete de operador.
 
 Las citadas sanciones administrativas, serán sancionadas de conformidad con lo establecido en la presente Ley, su Reglamento y demás disposiciones legales aplicables y se impondrán sin perjuicio de la responsabilidad civil o penal en que se pudiera haber incurrido por la comisión de un ilícito.
 
@@ -2190,3 +2198,35 @@ SÉPTIMA. Dentro de un plazo de 120 días hábiles, contados a partir de la entr
 OCTAVA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto, serán resueltos por la persona Titular del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
 
 NOVENA. Los asuntos que con motivo de este Decreto deban pasar a otra Secretaría, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la Secretaría que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por el área que tenga el asunto a su cargo. También serán transferidos los archivos y expedientes respectivos.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y NUEVE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS; DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, Y DE LA LEY ESTATAL DE PLANEACIÓN; CON MOTIVO DEL PAQUETE ECONÓMICO 2018".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del
+
+Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo en lo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las reformas reglamentarias respectivas que se derivan del mismo, mientras ello sucede se mantendrán vigentes las actuales, así mismo deberán expedirse los actos administrativos necesarios, entre ellos la reexpedición de nombramientos o registro de firmas ante la Secretaría de Gobierno del Poder Ejecutivo Estatal.
+
+QUINTA. Dentro de un plazo de 180 días hábiles contados a partir del inicio de vigencia del presente Decreto las Secretarías, Dependencias y Entidades de la Administración Pública Estatal deberán publicar en el Periódico Oficial "Tierra y Libertad", sus Manuales Administrativos correspondientes en términos de la normativa aplicable.
+
+SEXTA. Dentro de un plazo de 120 días hábiles contados a partir del inicio de vigencia del presente Decreto se deberán, en su caso, actualizar o expedir los programas que resulten necesarios, conforme a las nuevas disposiciones de este instrumento inclusive.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto, serán resueltos por la persona titular del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
+
+OCTAVA. Se adiciona un segundo párrafo al Artículo Tercero del Decreto Número Mil Trescientos Setenta y Cinco por el que se crea a la entidad paraestatal denominada "Casa de Cultura Juan Soriano" o "Museo Morelense de Arte Contemporáneo"; y se autoriza al titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación, para quedar como sigue:
+
+"…ARTÍCULO TERCERO. …
+
+Particularmente, para el caso de esta Entidad, la designación de su titular invariablemente corresponderá al respectivo Órgano de Gobierno, a propuesta de su presidente…"
+
+NOVENA. Derivado de las consecuencias ocasionadas por el sismo ocurrido el 19 de septiembre de 2017, se faculta al Titular del Poder Ejecutivo Estatal la suspensión temporal de acciones o programas gubernamentales que resulten necesarios para atender dicho desastre.
+
+En ese orden, se autoriza al Titular del Poder Ejecutivo Estatal para que, en virtud de las atribuciones conferidas en el "Decreto número mil trescientos setenta y tres.- por el que se crea a la Entidad Paraestatal denominada "Sistema Integrado de Transporte Masivo"; y se autoriza al Titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación", realice las acciones conducentes para suspender o postergar el inicio de vigencia u operatividad de dicho organismo auxiliar, hasta en tanto se cuente con la disponibilidad presupuestaria para ello. Para lo anterior, deberá tomar las previsiones respectivas por cuanto al "Decreto por el que se determina la naturaleza jurídica como Organismo Público Descentralizado, y demás particularidades para la operación, de la Entidad Paraestatal denominada "Sistema Integrado de Transporte Masivo".
+
+DÉCIMA. En caso de que en el ejercicio fiscal se determine la cancelación de la asignación establecida en el artículo 58 BIS-9, párrafo primero, de la Ley General de Hacienda del Estado de Morelos para el Fondo de Competitividad y Promoción del Empleo, la diversa asignación que corresponda al Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo, en términos del artículo 26, fracción II, de la Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos, se reducirá de acuerdo a los montos y porcentajes efectuados para el primero de los fondos citados.
