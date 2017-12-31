@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2017-07-10"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -159,7 +159,13 @@ El Congreso del Estado, residirá en la Ciudad de Pachuca de Soto y podrá cambi
 
 Es Recinto Oficial, aquél que mediante Decreto determine el Congreso del Estado, el cual es inviolable. El acceso de la fuerza pública se permitirá sólo con la autorización o a solicitud del Presidente de la Directiva, quien asumirá el mando de la misma. Para todos los efectos conducentes se considera que forman parte del Recinto Oficial del Congreso, los edificios y demás inmuebles que alberguen Dependencias, Oficinas y Bienes del Poder Legislativo.
 
-Asimismo, el Presidente de la Directiva, podrá solicitar el auxilio de la fuerza pública, para salvaguardar el fuero constitucional de los Diputados. Cuando sin mediar autorización se hiciere presente la fuerza pública, el Presidente de la Directiva podrá decretar la suspensión de la Sesión hasta que la misma hubiere abandonado el Recinto.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Cuando sin mediar autorización se hiciere presente la fuerza pública, el Presidente de la Directiva podrá decretar la suspensión de la Sesión hasta que la misma hubiere abandonado el Recinto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Por acuerdo de la Junta de Gobierno y con la aprobación del Pleno, la Legislatura podrá sesionar fuera del recinto oficial, con el objeto de promover la participación ciudadana, la máxima publicidad y la transparencia en la función legislativa.
 
 ###### ARTÍCULO 13.
 
@@ -191,17 +197,19 @@ III.- Rendir la protesta constitucional prevista en el Artículo 155 de la Const
 
 ###### ARTÍCULO 17.
 
-Los Diputados gozan del fuero que otorga la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Hidalgo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2017)
 
 ###### ARTÍCULO 18.
 
 Los Diputados, son inviolables por las opiniones que manifiesten en el desempeño de su cargo y no podrán ser reconvenidos o enjuiciados por ellas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-Los Diputados, son responsables por los delitos que cometan durante el tiempo de su cargo, pero no podrán ser detenidos ni ejercitarse en su contra acción penal, hasta que, seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los Tribunales Comunes y/o Federales, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Hidalgo y las Leyes Penales vigentes.
+Los Diputados, son responsables por los delitos que cometan durante el tiempo de su cargo.
 
-En demandas del orden civil, mercantil, familiar, laboral y agrario, los Diputados no gozarán de fuero alguno.
+En demandas del orden civil, mercantil, familiar, laboral y agrario; así como por denuncia o querellas del orden penal, los Diputados no gozarán de fuero alguno.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2011)</small>
 
@@ -215,7 +223,7 @@ Serán causas para que el Congreso del Estado decrete la suspensión de los dere
 
 I.- La licencia concedida en los términos de la Constitución Política del Estado de Hidalgo y de esta Ley;
 
-II.- La resolución del Congreso del Estado en la que se declare que ha lugar a proceder penalmente en su contra; y
+II.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
 III.- La resolución del Congreso que erigido en Órgano de Acusación, determine que ha lugar a proceder en contra del Diputado.
 
@@ -477,9 +485,11 @@ El Pleno, sesionará en los períodos establecidos por el Artículo 38 de la Con
 
 ### CAPÍTULO III. DE LA DIRECTIVA DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 53.
 
-La Directiva del Congreso, es el Órgano de Dirección de los Trabajos del Pleno o de la Diputación Permanente, en su caso; representante del Congreso en los asuntos de carácter legal, político y protocolario; intérprete de las disposiciones parlamentarias y garante de la inviolabilidad del Recinto legislativo y del respeto al fuero de los Legisladores.
+La Directiva del Congreso, es el Órgano de Dirección de los Trabajos del Pleno o de la Diputación Permanente, en su caso; representante del Congreso en los asuntos de carácter legal, político y protocolario; intérprete de las disposiciones parlamentarias y garante de la inviolabilidad del Recinto Legislativo.
 
 ###### ARTÍCULO 54.
 
@@ -587,7 +597,9 @@ XII.- Requerir a las Comisiones, para que presenten sus dictámenes con la oport
 
 XIII.- Firmar las Actas de las Sesiones, inmediatamente después de su aprobación, así como las Leyes y Decretos que deban remitirse al Titular del Poder Ejecutivo del Estado, para los efectos conducentes;
 
-XIV.- Preservar la inviolabilidad del Recinto Legislativo y velar por el respeto al fuero constitucional de los Diputados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIV.- Preservar la inviolabilidad del Recinto Legislativo;
 
 XV.- Solicitar el auxilio de la fuerza pública, cuando se requiera resguardar el Recinto del Congreso o mantener el orden de las Sesiones;
 
@@ -1147,9 +1159,11 @@ Las Sesiones, deberán celebrarse en el Recinto que ordinaria o extraordinariame
 
 Para que las Sesiones puedan realizarse fuera del Recinto destinado al Poder Legislativo; deberá expedirse previamente el Decreto respectivo, habilitándose como Recinto Oficial, el lugar y sitio donde deberán efectuarse.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 108.
 
-Las Sesiones del Congreso del Estado, serán Ordinarias y Extraordinarias; podrán ser Públicas o Secretas; Solemnes; de Juicio Político o Declaración de Procedencia, en los términos de los Artículos 153 Y 154 de la Constitución Política del Estado de Hidalgo.
+Las Sesiones del Congreso del Estado, serán Ordinarias y Extraordinarias; podrán ser Públicas o Secretas; Solemnes; o de Juicio Político, en los términos de los Artículos 153 y 154 de la Constitución Política del Estado de Hidalgo.
 
 ###### ARTÍCULO 109.
 
@@ -2191,6 +2205,8 @@ XII. Las demás que se desprendan de la legislación y normatividad aplicable.
 
 ### CAPÍTULO ÚNICO. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ## TÍTULO SÉPTIMO
 
 ### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO A SEGUIR PARA RESOLVER LOS CONFLICTOS A QUE SE REFIERE LA FRACCIÓN XIII DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
@@ -2213,7 +2229,7 @@ IV.- Directores Generales y de Área, Subdirectores, Auditores, Jefes de Departa
 
 ###### ARTÍCULO 205.
 
-la declaración patrimonial, deberá presentarse en los siguientes plazos:
+La declaración patrimonial, deberá presentarse en los siguientes plazos:
 
 I.- La inicial, dentro de los sesenta días hábiles siguientes al inicio de sus funciones;
 
@@ -2239,11 +2255,13 @@ Con relación a este Capítulo, en lo no previsto en esta Ley y su Reglamento, s
 
 ###### ARTÍCULO 208.
 
-La Legislatura del Estado de Hidalgo, se erigirá en Órgano de Acusación o Gran Jurado, respectivamente, para conocer de los procesos correspondientes a Juicio Político y de Declaración de Procedencia, por las causas y bajo el procedimiento que la propia Constitución Política del Estado de Hidalgo y la Ley de Responsabilidades de los Servidores Públicos de aplicación local, establezcan.
+La Legislatura del Estado de Hidalgo, se erigirá en Órgano de Acusación para conocer de los procesos de Juicio Político, por las causas y bajo el procedimiento que la propia Constitución Política del Estado de Hidalgo y la Ley de Responsabilidades de los Servidores Públicos de aplicación local y leyes en materia de responsabilidades de servidores públicos, establezcan.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 209.
 
-Corresponde a la Legislatura del Estado, por conducto de la Comisión Instructora, desahogar los procedimientos relativos al Juicio Político y Declaración de Procedencia, de conformidad con las disposiciones previstas en la Constitución Política del Estado de Hidalgo, esta Ley y la Ley de Responsabilidades de los Servidores Públicos de aplicación local.
+Corresponde a la Legislatura del Estado, por conducto de la Comisión Instructora, desahogar los procedimientos relativos al Juicio Político, de conformidad con las disposiciones previstas en la Constitución Política del Estado de Hidalgo, esta Ley, la Ley de Responsabilidades de los Servidores Públicos de aplicación local y leyes en materia de responsabilidades de servidores públicos.
 
 ## TÍTULO NOVENO
 
@@ -2444,3 +2462,9 @@ CUARTO. El Congreso del Estado, deberá emitir las convocatorias a que hacen (si
 Respecto a la convocatoria a que hace referencia la fracción I del artículo 74 Ter de la presente Ley, deberá ser emitida en un lapso no mayor a noventa días.
 
 QUINTO. Se derogan todas las disposiciones legales y normativas que contravengan lo estipulado en el presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 415.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO".]
+
+ÚNICO. Envíese el presente Decreto para su publicación en el Periódico Oficial del Estado de Hidalgo.
