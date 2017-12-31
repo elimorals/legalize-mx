@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-805
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-04"
-last_updated: "2016-11-21"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2011.
 
@@ -1412,3 +1414,19 @@ Publíquese la presente reforma en el Periódico Oficial del Estado de Aguascali
 ###### ARTÍCULO SEGUNDO.
 
 La presente reforma entrará en vigor el día siguiente al de su publicación.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LOS "REGLAMENTOS INTERIORES DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Finanzas de fecha 30 de marzo de 2011, publicado en el Periódico Oficial del Estado de Aguascalientes en fecha 4 de abril del año 2011 con la fe de erratas publicada en el Periódico Oficial del Estado de fecha 20 de febrero de 2012, así como las reformas publicadas en el mismo medio oficial de difusión los días 16 de enero de 2015, 7 de marzo de 2016 y 21 de noviembre de 2016.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos que a la fecha de entrada en vigor del presente Reglamento se encuentren en trámite, se concluirán conforme a las disposiciones del Reglamento Interior de la Secretaría de Finanzas que se abroga, con excepción de lo relativo al Instituto Catastral del Estado, de acuerdo con lo dispuesto por el segundo párrafo del Artículo Noveno Transitorio de la nueva Ley Orgánica de la Administración Pública del Estado de Aguascalientes publicada mediante decreto de fecha 27 de octubre de 2017.
