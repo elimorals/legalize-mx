@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2017-03-19"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -1203,25 +1203,39 @@ La administración de justicia en el municipio estará encomendada a los jueces 
 
 Los requisitos, su nombramiento, elección, funcionamiento y organización se regirán por lo dispuesto en la Ley Orgánica del Poder Judicial del Estado de Durango.
 
-## Título Cuarto. Del Juzgado Administrativo Municipal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-### Capítulo Único. De la Competencia
+## Título Cuarto. De la Justicia Administrativa Municipal
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+### Capítulo Único. Del Juzgado Cívico
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 114.
 
-Para dirimir las controversias que se susciten entre la administración municipal y los particulares, y entre éstos y los terceros afectados, derivadas de los actos y resoluciones de la autoridad municipal y de la aplicación de los ordenamientos jurídicos municipales, se crea el Juzgado Administrativo Municipal dotado de plena autonomía.
+Para dirimir las controversias que se susciten entre la administración municipal y los particulares, y entre éstos y los terceros afectados, derivadas de los actos y resoluciones de la autoridad municipal y de la aplicación de los ordenamientos jurídicos municipales, se crea el Juzgado Cívico Municipal dotado de plena autonomía.
 
 El titular del Juzgado deberá reunir los requisitos establecidos en el artículo 122 de la Constitución Política del Estado Libre y Soberano de Durango. Su nombramiento será propuesto por el Presidente Municipal, debiendo ser ratificado por el Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+El Juzgado Cívico tendrá a su cargo la promoción de la educación cívica entendiendo ésta como el sistema de valores, actitudes, conocimientos y habilidades que lleven a fortalecer los espacios de la convivencia en sociedad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 115.
 
-El Juzgado Administrativo Municipal, conocerá de las conductas que presuntamente constituyan faltas o infracciones a las disposiciones normativas municipales e impondrá las sanciones correspondientes mediante un procedimiento breve y simplificado que califique la infracción, mismo que deberá estar considerado en el Bando de Policía y Gobierno.
+El Juzgado Cívico Municipal, conocerá de las conductas que presuntamente constituyan faltas o infracciones a las disposiciones normativas municipales e impondrá las sanciones correspondientes mediante un procedimiento breve y simplificado que califique la infracción, mismo que deberá estar considerado en el Bando de Policía y Gobierno.
 
-Será función del Juzgado Administrativo, conocer y resolver los recursos que interpongan los particulares respecto de las determinaciones de las autoridades municipales.
+Será función del Juzgado Cívico, conocer y resolver los recursos que interpongan los particulares respecto de las determinaciones de las autoridades municipales.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 116.
 
-Al Juez Administrativo Municipal, corresponderá:
+Al Juez Cívico Municipal, corresponderá:
 
 I. Conocer de las infracciones al Bando de Policía y Gobierno y demás ordenamientos jurídicos municipales respectivos.
 
@@ -1229,31 +1243,55 @@ II. Resolver sobre la responsabilidad de los presuntos infractores.
 
 III. Aplicar las sanciones establecidas en el Bando, los reglamentos municipales y otras disposiciones, cuya aplicación no corresponda a otra autoridad administrativa.
 
-IV. Ejercer funciones conciliatorias cuando los interesados lo soliciten, referentes a la reparación de daños y perjuicios ocasionados, o bien, dejar a salvo los derechos del ofendido.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV. Ejercer las funciones de mediación y conciliación a que se refiere el Reglamento Interior del Juzgado Cívico así mismo, conocer de asuntos de reparación de daños y perjuicios ocasionados, o bien, dejar a salvo los derechos del ofendido.
 
 V. Intervenir en materia de conflictos vecinales o familiares, con el fin de avenir a las partes.
 
-VI. Expedir constancias únicamente sobre hechos asentados en los libros de registro del juzgado, cuando lo solicite quien tenga interés legítimo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-VII. Conocer y resolver acerca de las controversias de los particulares entre sí y terceros afectados, derivadas de los actos y resoluciones de las autoridades municipales, así como de las controversias que surjan por la aplicación de los ordenamientos jurídicos municipales.
+VI. Promover la convivencia armónica de la sociedad, a través de políticas públicas y programas de educación cívica, con el fin de fortalecer los valores básicos de la convivencia social;
 
-VIII. Conducir administrativamente las labores del juzgado, para lo cual el personal del mismo estará bajo su mando.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-IX. Las demás atribuciones que le confiere la legislación municipal.
+VII. Imponer las sanciones correspondientes, consultando el Registro Municipal de Infractores, con el fin de verificar si el infractor es reincidente;
+
+(REUBICADA, P.O. 31 DE DICIEMBRE DE 2017)
+
+VIII. Expedir constancias únicamente sobre hechos asentados en los libros de registro del juzgado, cuando lo solicite quien tenga interés legítimo.
+
+(REUBICADA, P.O. 31 DE DICIEMBRE DE 2017)
+
+IX. Conocer y resolver acerca de las controversias de los particulares entre sí y terceros afectados, derivadas de los actos y resoluciones de las autoridades municipales, así como de las controversias que surjan por la aplicación de los ordenamientos jurídicos municipales.
+
+(REUBICADA, P.O. 31 DE DICIEMBRE DE 2017)
+
+X. Conducir administrativamente las labores del juzgado, para lo cual el personal del mismo estará bajo su mando.
+
+(REUBICADA, P.O. 31 DE DICIEMBRE DE 2017)
+
+XI. Las demás atribuciones que le confiere la legislación municipal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 117.
 
-La estructura, competencia, funcionamiento y procedimiento del Juzgado Administrativo, así como lo relativo a los recursos, deberán establecerse de manera simplificada en el Bando de Policía y Gobierno, respetando las garantías individuales establecidas en la Constitución federal y en la particular del Estado.
+La estructura, competencia, funcionamiento y procedimiento del Juzgado Cívico, así como lo relativo a los recursos, deberán establecerse de manera simplificada en el Bando de Policía y Gobierno, respetando las garantías individuales establecidas en la Constitución federal y en la particular del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 118.
 
-El Juez Administrativo Municipal, dentro del ámbito de su competencia, cuidará estrictamente que se respete la dignidad y los derechos humanos de los infractores; por lo tanto, impedirá todo maltrato físico, psicológico o moral, cualquier tipo de incomunicación, exacción o coacción en agravio de las personas presentadas o que comparezcan ante él; en caso contrario, incurrirá en responsabilidad.
+El Juez Cívico Municipal, dentro del ámbito de su competencia, cuidará estrictamente que se respete la dignidad y los derechos humanos de los infractores; por lo tanto, impedirá todo maltrato físico, psicológico o moral, cualquier tipo de incomunicación, exacción o coacción en agravio de las personas presentadas o que comparezcan ante él; en caso contrario, incurrirá en responsabilidad.
 
-El Juez Administrativo Municipal sujetará su actuación a los principios de igualdad, publicidad, audiencia y legalidad.
+El Juez Cívico Municipal sujetará su actuación a los principios de igualdad, publicidad, audiencia y legalidad.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 119.
 
-El Ayuntamiento, en su caso, aprobará dentro del presupuesto anual de egresos del municipio, las partidas presupuestales propias para sufragar los gastos del juzgado administrativo municipal, quien tendrá facultades para su ejercicio autónomo. Para ello, su titular deberá presentar oportunamente al Ayuntamiento su programa de trabajo y su presupuesto de egresos.
+El Ayuntamiento, en su caso, aprobará dentro del presupuesto anual de egresos del municipio, las partidas presupuestales propias para sufragar los gastos del juzgado Cívico municipal, quien tendrá facultades para su ejercicio autónomo. Para ello, su titular deberá presentar oportunamente al Ayuntamiento su programa de trabajo y su presupuesto de egresos.
 
 ## Título Quinto. De las Causales que dan Lugar a la Desaparición de Ayuntamientos y Suspensión Temporal o Definitiva de sus Miembros
 
@@ -2304,3 +2342,15 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 353.- QUE CONTIENE LA REFORMA A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DE DURANGO”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+Artículo Tercero.- Los Ayuntamientos deberán emitir o adecuar su reglamentación municipal necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 60 días.
+
+Artículo Cuarto.- Cuando las condiciones socio-económicas de los municipios no justifiquen la creación del Juzgado Cívico, los asuntos relativos los deberán resolver ante las instancias municipales existentes.
