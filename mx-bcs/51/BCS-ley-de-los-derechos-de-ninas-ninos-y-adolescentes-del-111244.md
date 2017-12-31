@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111244"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -1353,9 +1353,15 @@ VIII. Todas aquellas que establezcan otras disposiciones en la materia, con rela
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, es el órgano especializado del Sistema Estatal DIF, dotado de autonomía técnica y operativa, con funciones de autoridad administrativa, que tiene por objeto la protección integral de niñas, niños y adolescentes.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 106.
 
-La Procuraduría de Protección tendrá legitimación procesal para ejercer ante la autoridad judicial competente acciones para proteger los derechos de niñas, niños y adolescentes.
+La Procuraduría de Protección tendrá legitimación procesal para ejercer ante la autoridad judicial competente acciones para proteger los derechos de niñas, niños y adolescentes en los términos prescritos en la presente Ley y demás disposiciones aplicables.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes actuará de manera directa por conducto de su titulare (sic) en el Estado y de los Municipios o a través de sus asesores jurídicos que se les designe como delegados para representar a la Institución, cuya acreditación se realizará mediante simple oficio suscrito por el o la titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+Para los casos en los que intervenga la Procuraduría de la Defensa del Menor y de la Familia de alguno de los Municipios, deberán de forma bimestral enviar un informe a la Procuraduría de Protección de Niñas, Niños y Adolescentes, el cual deberá contener los datos de los juicios desahogados y pendientes, a fin de llevar un Registro Estatal.
 
 ###### Artículo 107.
 
@@ -1804,3 +1810,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2517.- SE REFORMAN LOS ARTÍCULOS 305 I, 305 J SEGUNDO PÁRRAFO, 305 K, 314, 507 ÚLTIMO PÁRRAFO, 558 PRIMER PÁRRAFO Y 558 BIS PÁRRAFOS PRIMERO Y SEGUNDO, DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 106 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
