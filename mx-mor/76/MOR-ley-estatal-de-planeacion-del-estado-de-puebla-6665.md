@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-planeacion-del-estado-de-puebla-6665"
 country: "mx"
 rank: "ley"
 publication_date: "1988-08-31"
-last_updated: "2014-03-05"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ESTATAL DE PLANEACION, DEL ESTADO DE PUEBLA
 
-LEY ESTATAL DE PLANEACIÓN
+LEY ESTATAL DE PLANEACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el día 31 de agosto de 1988.
 
@@ -101,9 +101,11 @@ VIII.- El equilibrio de los factores de la producción, que proteja y promueva e
 
 IX.- La perspectiva de género para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley, se entiende por Planeación Estatal del Desarrollo, la ordenación racional y sistemática de Acciones en materia de regulación y promoción de la actividad económica, social, política y cultural que corresponden al Ejecutivo Estatal y a los ayuntamientos, de acuerdo con las normas, principios y objetivos establecidos por las Constituciones Federal y Estatal, y las demás leyes relativas.
+Para los efectos de esta Ley, se entiende por Planeación Estatal del Desarrollo, la ordenación racional y sistemática, a corto, mediano y largo plazo de acciones en materia de regulación y promoción de la actividad económica, social y política y cultural que corresponden al Poder Ejecutivo Estatal y a los Ayuntamientos, de acuerdo con las normas, principios y objetivos establecidos por las Constituciones Federal y Estatal, y las demás leyes relativas.
 
 ###### ARTICULO 4o.
 
@@ -113,13 +115,21 @@ Es responsabilidad del Poder Ejecutivo del Estado conducir la planeación del de
 
 Es atribución de los Ayuntamientos conducir la Planeación del Desarrollo de los Municipios, con la participación democrática de los grupos sociales de conformidad igualmente, con lo dispuesto en la Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 6o.
 
-El Titular del Ejecutivo, remitirá al Congreso del Estado, para su examen y opinión al ejercer sus atribuciones constitucionales, el Plan Estatal de Desarrollo y sus actualizaciones los programas operativos anuales, así como los criterios que le sirvan de base para su formulación.
+El Titular del Ejecutivo, remitirá al Congreso del Estado, para su examen y opinión al ejercer sus atribuciones constitucionales, el Plan Estatal de Desarrollo y sus actualizaciones de los Programas Operativos Anuales o Programas Presupuestarios, así como los criterios que le sirvan de base para su formulación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 6 BIS.- El Titular del Ejecutivo remitirá al Congreso del Estado un informe de seguimiento sobre el avance del Plan Estatal de Desarrollo, a través del informe anual de gobierno. Adicionalmente, de forma bianual se publicará una evaluación del avance del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 7o.
 
-Los Presidentes Municipales remitirán en su caso, los planes municipales de Desarrollo y Programas Operativos Anuales al Congreso del Estado, para su examen y opinión.
+Los Presidentes Municipales remitirán, en su caso, los Planes Municipales de Desarrollo, los Programas Operativos Anuales o los Programas Presupuestarios al Congreso del Estado, para su examen y opinión.
 
 ###### ARTICULO 8o.
 
@@ -153,9 +163,11 @@ Lo dispuesto en el párrafo anterior será aplicable a las Entidades de la Admin
 
 Las Iniciativas de Ley y los reglamentos, decretos y acuerdos que formule el Ejecutivo Estatal, señalarán las relaciones que, en su caso, existan entre el Proyecto de que se trate y el Plan y los Programas respectivos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 13o.
 
-En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, para efectos administrativos, por conducto de la Secretaría de Programación y Finanzas.
+En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, para efectos administrativos, por conducto de la Secretaría de Hacienda.
 
 ### CAPITULO SEGUNDO. SISTEMA ESTATAL DE PLANEACION DEMOCRATICA
 
@@ -169,9 +181,11 @@ Las dependencias y entidades de la Administración Pública Estatal y los Munici
 
 Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del Sistema Estatal de Planeación Democrática y el proceso de Planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación de los planes y programas a que se refiere este ordenamiento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 16o.
 
-La Secretaría de Programación y Finanzas, con el apoyo de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, integradas en el Comité de Planeación para el Desarrollo del Estado de Morelos, tendrá las siguientes atribuciones:
+La Secretaría de Hacienda, con el apoyo de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, integradas en el Comité de Planeación para el Desarrollo del Estado de Morelos, tendrá las siguientes atribuciones:
 
 I.- Coordinar las actividades de la Planeación Estatal del Desarrollo;
 
@@ -183,7 +197,9 @@ III.- Definir las políticas financieras, fiscales y crediticias del Plan Estata
 
 IV.- Asesorar y coordinar la Planeación Municipal, con la participación que corresponda a los Gobiernos Municipales y las Dependencias del Ejecutivo Estatal;
 
-V.- Integrar y presentar al Gobernador del Estado los Programas que éste solicite en cumplimiento de los objetivos y prioridades del Plan Estatal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V.- Integrar los programas que solicite el Gobernador del Estado, en cumplimiento de los objetivos y prioridades del Plan Estatal;
 
 VI.- Integrar el programa-presupuesto anual global para la ejecución del Plan Estatal y los Programas que se establezcan tomando en cuenta las propuestas que para el efecto realicen las Secretarías de la Administración Pública Estatal y los respectivos Gobiernos Municipales;
 
@@ -203,23 +219,29 @@ XII.- Adecuar y diseñar un sistema de contabilidad congruente con los objetivos
 
 XIII.- Verificar, periódicamente, la relación que guarden los programas y presupuestos de las diversas Dependencias de la Administración Pública, los resultados de su ejecución y las operaciones en el uso del crédito público con el cumplimiento de los objetivos y prioridades del Plan y de los Programas a que se refiere esta Ley, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y de formar, en su caso, el Plan y los Programas respectivos; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XIV.- Promover la incorporación de indicadores que faciliten el diagnóstico del impacto de los programas en mujeres y hombres.
+XIV.- Incorporar al Plan Estatal de Desarrollo indicadores que faciliten el diagnóstico del impacto de las políticas y programas públicos con perspectiva de género y haciendo énfasis en la población de niños, niñas y adolescentes.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 17o.
 
-A las Dependencias de la Administración Pública Estatal, en particular, corresponde:
+A las Secretarías y Dependencias de la Administración Pública Estatal, en particular, corresponde:
 
 I.- Intervenir en las materias que les competen en la elaboración del Plan Estatal de Desarrollo;
 
 II.- Coordinar el desempeño de las actividades, que en materia de planeación correspondan a las Entidades paraestatales que se agrupen en el sector que, conforme a las Leyes vigentes, determine el gobernador del Estado;
 
-III.- Elaborar Programas sectoriales tomando en cuenta las propuestas que presenten las entidades del sector y los Ayuntamientos, así como las opiniones de los grupos sociales interesados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III.- Elaborar y expedir programas sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los Ayuntamientos, así como las opiniones de los grupos sociales interesados; y que estos programas, cuenten con un mecanismo de seguimiento basado en indicadores estratégicos;
 
 IV.- Asegurar la congruencia de los Programas Sectoriales con el Plan Estatal, con los Planes Municipales y con los Programas que de ellos se deriven;
 
-V.- Elaborar los programas operativos anuales para la ejecución de los programas sectoriales correspondientes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V.- Elaborar los programas operativos anuales o programas presupuestarios para la ejecución de los programas sectoriales correspondientes;
 
 VI.- Considerar el ámbito territorial de las acciones previstas en su programa, procurando congruencia con los objetivos y prioridades de los Planes y programas de los Gobiernos de la Federación, de los Municipios;
 
@@ -233,9 +255,13 @@ Las entidades paraestatales deberán:
 
 I.- Participar en la elaboración de los programas sectoriales, mediante la presentación de las propuestas que procedan en relación con sus funciones y objetivos, a la Secretaría del ramo a que pertenezcan;
 
-II.- Elaborar su respectivo programa institucional, atendiendo a las previsiones contenidas en el Programa Sectorial correspondiente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-III.- Elaborar los Programas operativos anuales para la ejecución de los Programas Sectoriales y, en su caso, institucionales;
+II.- Elaborar y expedir su respectivo programa institucional, atendiendo a las previsiones contenidas en el Programa Sectorial correspondiente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III.- Elaborar los programas operativos anuales o programas presupuestarios para la ejecución de los Programas Sectoriales y, en su caso, institucionales;
 
 IV.- Considerar el ámbito territorial de sus acciones, atendiendo a las propuestas de los Ayuntamientos, a través de la dependencia coordinadora del sector, conforme a los lineamientos que al efecto señale ésta última;
 
@@ -245,9 +271,11 @@ VI.- Verificar periódicamente la relación que guarden sus actividades, así co
 
 En el caso de Empresa de participación estatal mayoritaria y de Fideicomisos Públicos, aportarán la información que determine el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 19o.
 
-La Secretaría de la Contraloría del Gobierno del Estado, deberá ejercer el control y vigilancia de los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven, disponiendo las medidas necesarias para su corrección, conforme a las facultades y procedimientos que las Leyes señalen.
+La Secretaría de la Contraloría del Poder Ejecutivo Estatal deberá dar seguimiento a la obligatoriedad de la publicación en el Periódico Oficial “Tierra y Libertad” del Plan Estatal y de los Programas que de él se deriven.
 
 ###### ARTICULO 20o.
 
@@ -273,33 +301,47 @@ Para el efecto y conforme a la Legislación aplicable, en el sistema deberán pr
 
 ### CAPITULO CUARTO. PLANES Y PROGRAMAS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 23o.
 
-El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse, en un plazo de 6 meses contados a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá el periódico (sic) constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo.
+El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse, en un plazo de 4 meses contados a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá el periodo constitucional que le corresponda, aunque este deberá contener consideraciones y proyecciones de largo plazo.
 
 ###### ARTICULO 24o.
 
 Los planes Municipales de desarrollo que en su caso se elaboren deberán aprobarse y publicarse, en un plazo de 4 meses contados a partir de la toma de posesión del Ayuntamiento, y su vigencia no excederá del período constitucional que le corresponda, aunque podrá tener igualmente consideraciones y proyecciones de más largo plazo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 25o.
 
-El Plan Estatal de Desarrollo precisará los objetivos generales, estrategia y prioridades del Desarrollo Integral del Estado, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter global, sectorial y municipal, sus previsiones se referirán al conjunto de la actividad económica y social y se regirá el contenido de los programas que generen en el sistema Estatal de Planeación democrática.
+El Plan Estatal de Desarrollo precisará los objetivos generales, estrategias, líneas de acción, indicadores así como metas vinculadas a éstos, además de las prioridades del Desarrollo Integral del Estado, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución: establecerá un mecanismo de seguimiento basado en indicadores de impacto o resultado para los objetivos generales; establecerá los lineamientos de política de carácter global, sectorial y municipal, sus previsiones se referirán al conjunto de la actividad económica y social y se regirá el contenido de los programas que generen en el Sistema Estatal de Planeación Democrática.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 26o.
 
-Los planes municipales de desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio, contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos así como los responsables de su ejecución, establecerán los lineamientos de política de carácter global, sectorial y de servicios municipales. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales, siempre en concordancia con el Plan Estatal y con el Plan Nacional de Desarrollo.
+Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrategias, líneas de acción, indicadores así como metas vinculadas a éstos, además de las prioridades del desarrollo integral del Municipio, contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, preverán un mecanismo de seguimiento basado en indicadores de impacto o resultado para los objetivos generales y establecerán los lineamientos de política de carácter global, sectorial y de servicios municipales. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales o programas presupuestarios, siempre en concordancia con el Plan Estatal y con el Plan Nacional de Desarrollo.
 
 ###### ARTICULO 27o.
 
 La denominación de plan queda reservada, exclusivamente, para el Plan Estatal de desarrollo y para los Planes Municipales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 28o.
 
-El Plan Estatal y los Planes Municipales de Desarrollo indicarán los Programas Sectoriales, Municipales, Subregionales y especiales que deban ser elaborados conforme a este capítulo. Estos programas deberán ser congruentes con el Plan Nacional, el Plan Estatal y los Planes Municipales, y su vigencia no excederá del período institucional de la gestión gubernamental en que se apruebe, aunque sus previsiones y proyecciones se refieran a un plazo mayor.
+El Plan Estatal y los Planes Municipales de Desarrollo indicarán los Programas Sectoriales, Municipales, sub-regionales y especiales que deban ser elaborados conforme a este Capítulo.
+
+Estos programas deberán ser congruentes con el Plan Nacional, el Plan Estatal y los Planes Municipales, y su vigencia no excederá del periodo institucional de la gestión gubernamental en que se apruebe, aunque deberán contener previsiones y proyecciones de largo plazo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 29o.
 
-Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan Estatal y tomarán en cuenta las contenidas en los planes municipales. Especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Asimismo, contendrán estimaciones de recursos y determinaciones sobre instrumentos, así como los responsables de su ejecución.
+Los programas sectoriales se sujetarán a las previsiones contenidas en el Plan Estatal y tomarán en cuenta las contenidas en los Planes Municipales. Especificarán los objetivos, prioridades y políticas que regirán el desempeño de las actividades del sector administrativo de que se trate. Asimismo contendrán estimaciones de recursos y determinaciones sobre instrumentos, los responsables de su ejecución y un mecanismo de seguimiento basado en indicadores de impacto o resultado para los objetivos generales.
+
+Los Programas Sectoriales deberán elaborarse y publicarse en un plazo de 3 meses, contados a partir de la fecha en que se publique en el Periódico Oficial "Tierra y Libertad" el Plan Estatal o Municipal de Desarrollo, según sea el caso.
 
 ###### ARTICULO 30o.
 
@@ -313,45 +355,67 @@ Los programas subregionales se referirán a las zonas que se consideren priorita
 
 Los programas especiales se referirán a las prioridades del desarrollo integral del Estado fijados en el Plan Estatal o a las actividades relacionadas con dos o más dependencias coordinadoras del sector.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 33o.
 
-Las dependencias encargadas de la ejecución del Plan Estatal y de los Municipios así como de los programas sectoriales, institucionales, subregionales, municipales y especiales, elaborarán programas operativos anuales que incluirán los aspectos administrativos y de política económica y social correspondientes. Estos programas operativos anuales, que deberán ser congruentes entre sí, regirán durante el año respectivo las actividades de la administración pública en su conjunto, y servirán de base para la integración de los proyectos de presupuesto anuales que las propias dependencias, municipios y entidades deberán elaborar conforme a la Legislación aplicable.
+Las dependencias encargadas de la ejecución del Plan Estatal y de los Municipios así como de los programas sectoriales, institucionales, sub.-regionales, municipales y especiales, elaborarán programas operativos anuales o programas presupuestarios que incluirán los aspectos administrativos y de política económica y social correspondientes. Estos programas operativos anuales o programas presupuestarios, que deberán ser congruentes entre sí, regirán durante el año respectivo las actividades de la administración pública en su conjunto, y servirán de base para la integración de los proyectos de presupuesto anuales que las propias Dependencias, Municipios y Entidades deberán elaborar conforme a la normativa aplicable.
 
 ###### ARTICULO 34o.
 
 Los planes y programas a que se refieren los Artículos anteriores, especificarán las acciones que serán objeto de coordinación entre los gobiernos de los municipios, del Estado y de la Federación así como la inducción o concertación con los grupos sociales interesados.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 35o.
 
-El Plan Estatal, los programas subregionales, institucionales y especiales deberán ser sometidos por la Secretaría de Programación y Finanzas, en el seno del Comité de Planeación para el Desarrollo del Estado de Morelos a que alude el Artículo 16 de esta Ley, a la consideración y aprobación del Gobernador del Estado.
+Los programas sectoriales, sub-regionales, institucionales y especiales deberán ser sometidos a revisión de la Secretaría de Hacienda, quien los validará y devolverá a la Secretaría, Dependencia o Entidad que corresponda para la expedición por parte de su titular y publicación en el Periódico Oficial "Tierra y Libertad".
 
-Los programas institucionales deberán ser sometidos por el órgano de Gobierno y Administración de la Entidad Paraestatal o Paramunicipal respectiva, a la aprobación del titular de la dependencia coordinadora del sector, en el primer caso, y al Ayuntamiento en el segundo.
+Además, los programas institucionales deberán ser sometidos por el órgano de Gobierno de la Entidad Paraestatal o Paramunicipal respectiva, a la aprobación del titular de la Secretaría o Dependencia coordinadora del sector, en el primer caso, y al Ayuntamiento en el segundo.
 
-Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que alude al párrafo anterior corresponderá a la Secretaría de Programación y Finanzas.
+Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que alude al párrafo anterior corresponderá a la Secretaría de Hacienda.
 
-Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del Comité de Planeación para el Desarrollo del Estado de Morelos, a que alude el Artículo 16 de esta Ley, por la dependencia coordinadora del sector correspondiente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 36o.
 
 El Plan y los Programas son los instrumentos legales mediante los que el Ejecutivo del Estado, provee en la esfera administrativa, la exacta observancia de la Ley de Planeación.
 
-En tal virtud, tendrán el carácter de Reglamentos que deberán ser expedidos por el propio titular del Ejecutivo y publicados en el Periódico Oficial del Estado.
-
-Cumplida esta formalidad, serán obligatorios para toda la Administración Pública del Estado.
+En tal virtud, tendrán el carácter de Reglamentos que deberán ser expedidos por la autoridad que corresponda y publicados en el Periódico Oficial del Estado.
 
 ###### ARTICULO 37o.
 
 Los planes Municipales y los programas que de ellos se desprendan serán publicados en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 37o BIS.- Las Secretarías, Dependencias y Entidades podrán expedir estrategias de desarrollo que serán proyectos multianuales enfocados a estructurar actividades y objetivos que detonen el desarrollo sustentable, con un horizonte de ejecución de corto y mediano plazos; mismos que serán flexibles para su formulación, por lo que no requerirán someterse al Comité de Planeación para el Desarrollo del Estado de Morelos, ni tendrán en ningún caso el carácter de programa y, por ende, tampoco el nivel de Reglamento a que se refiere el artículo 36 de esta Ley.
+
+Para la formulación de dichas estrategias, en caso de que su aplicación incluya a varias Secretarías, Dependencias y Entidades, deberá ser considerada la opinión y, en su caso, validación de las mismas, por lo que su ejecución será de manera interinstitucional y coordinada.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 38o.
 
-Los planes y los programas serán revisados con la periocidad (sic) que determinen las disposiciones reglamentarias, los resultados de las revisiones y, en su caso, las adecuaciones consecuentes al Plan Estatal y a los Programas que de él se deriven, previa su aprobación por parte del Titular del Ejecutivo se publicarán, igualmente, en el Periódico Oficial del Estado.
+Los planes y los programas serán revisados con la periodicidad que determinen las disposiciones reglamentarias, los resultados de las revisiones y, en su caso, las adecuaciones consecuentes al Plan Estatal y a los Programas que de él se deriven, se publicarán, igualmente, en el Periódico Oficial "Tierra y Libertad".
 
-Los resultados de las revisiones, y en su caso las adecuaciones consecuentes a los Planes Municipales y a los programas que de ellos se deriven, se publicarán en los municipios y en el Periódico Oficial del Estado.
+Los resultados de las revisiones, y en su caso las adecuaciones consecuentes a los Planes Municipales y a los programas que de ellos se deriven, se publicarán en los municipios y en el Periódico Oficial "Tierra y Libertad".
+
+Así mismo, como resultado de las revisiones que se realicen conforme al presente artículo podrán cancelarse las acciones de gobierno o proyectos gubernamentales, en casos extraordinarios y cuando a juicio de la persona titular de la Secretaría, Dependencia o Entidad, así lo amerite; lo cual se dará a conocer por dicha persona mediante un Acuerdo que deberá emitir y publicar en el Periódico Oficial "Tierra y Libertad".
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 38o BIS.- Los objetivos, estrategias y líneas de acción contenidas en los planes y programas regulados por esta Ley podrán ser actualizados mediante un Acuerdo de Reconducción y Actualización, al término de la etapa de evaluación de resultados que así lo justifique; bien sea por condiciones extraordinarias o para fortalecer los objetivos del instrumento de planeación de que se trate.
+
+El Acuerdo de Reconducción y Actualización será expedido por el respectivo titular de la Secretaría, Dependencia o Entidad de la Administración Pública Estatal o Municipal, según sea el caso.
+
+Los Acuerdos de Reconducción y Actualización antes señalados deberán ser publicados en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 39o.
 
-Una vez aprobados por el Ejecutivo, el Plan Estatal y los programas que de él se derivan, serán obligatorios para las dependencias de la Administración Pública, en el ámbito de sus respectivas competencias.
+Una vez publicados el Plan Estatal y los programas que de él se derivan, serán obligatorios para las Secretarías, Dependencias y Entidades de la Administración Pública, en el ámbito de sus respectivas competencias.
 
 ###### ARTICULO 40o.
 
@@ -393,7 +457,9 @@ Para los efectos del Artículo anterior el Ejecutivo Estatal podrá convenir con
 
 I.- Su participación en la Planeación Estatal a través de la presentación de las propuestas que estimen pertinentes;
 
-II.- La asesoría técnica para la formulación, implementación y evaluación de los planes y de los programas operativos anuales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+II.- La asesoría técnica para la formulación, implementación y evaluación de los planes y de los programas operativos anuales o programas presupuestarios;
 
 III.- Los procedimientos de coordinación entre las autoridades Federales, Estatales y Municipales, para propiciar la planeación del desarrollo integral de la entidad y de los Municipios y su congruencia con la planeación estatal y nacional, así como para promover la participación de los diversos sectores de la sociedad en las actividades de la Planeación;
 
@@ -405,7 +471,9 @@ VI.- La ejecución de las acciones que deban realizarse en cada entidad municipa
 
 VII.- La ejecución de las acciones que deban realizarse en cada entidad Municipal y que competen a los Organos Federal, Estatal y Municipal, considerando la participación que corresponda a los Municipios interesados y a los sectores de la sociedad.
 
-Para este efecto la Secretaría de Programación y Finanzas, en el seno del Comité de Planeación del Desarrollo del Estado de Morelos, a que instituye el Artículo 16 de esta Ley, propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, tanto Federales como Estatales, conforme a sus atribuciones.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Para este efecto la Secretaría de Hacienda, en el seno del Comité de Planeación del Desarrollo del Estado de Morelos, a que instituye el artículo 16 de esta Ley, propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, tanto Federales como Estatales, conforme a sus atribuciones.
 
 ###### ARTICULO 49o.
 
@@ -534,3 +602,33 @@ P.O. 5 DE MARZO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refieren los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y NUEVE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS; DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, Y DE LA LEY ESTATAL DE PLANEACIÓN; CON MOTIVO DEL PAQUETE ECONÓMICO 2018".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo en lo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberán realizar las reformas reglamentarias respectivas que se derivan del mismo, mientras ello sucede se mantendrán vigentes las actuales, así mismo deberán expedirse los actos administrativos necesarios, entre ellos la reexpedición de nombramientos o registro de firmas ante la Secretaría de Gobierno del Poder Ejecutivo Estatal.
+
+QUINTA. Dentro de un plazo de 180 días hábiles contados a partir del inicio de vigencia del presente Decreto las Secretarías, Dependencias y Entidades de la Administración Pública Estatal deberán publicar en el Periódico Oficial "Tierra y Libertad", sus Manuales Administrativos correspondientes en términos de la normativa aplicable.
+
+SEXTA. Dentro de un plazo de 120 días hábiles contados a partir del inicio de vigencia del presente Decreto se deberán, en su caso, actualizar o expedir los programas que resulten necesarios, conforme a las nuevas disposiciones de este instrumento inclusive.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Decreto, serán resueltos por la persona titular del Poder Ejecutivo Estatal, en términos de la normativa aplicable.
+
+OCTAVA. Se adiciona un segundo párrafo al Artículo Tercero del Decreto Número Mil Trescientos Setenta y Cinco por el que se crea a la entidad paraestatal denominada "Casa de Cultura Juan Soriano" o "Museo Morelense de Arte Contemporáneo"; y se autoriza al titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación, para quedar como sigue:
+
+"…ARTÍCULO TERCERO. …
+
+Particularmente, para el caso de esta Entidad, la designación de su titular invariablemente corresponderá al respectivo Órgano de Gobierno, a propuesta de su presidente…"
+
+NOVENA. Derivado de las consecuencias ocasionadas por el sismo ocurrido el 19 de septiembre de 2017, se faculta al Titular del Poder Ejecutivo Estatal la suspensión temporal de acciones o programas gubernamentales que resulten necesarios para atender dicho desastre.
+
+En ese orden, se autoriza al Titular del Poder Ejecutivo Estatal para que, en virtud de las atribuciones conferidas en el "Decreto número mil trescientos setenta y tres.- por el que se crea a la Entidad Paraestatal denominada 'Sistema Integrado de Transporte Masivo'; y se autoriza al Titular del Poder Ejecutivo Estatal para que mediante el instrumento idóneo determine la naturaleza jurídica y demás particularidades para su operación", realice las acciones conducentes para suspender o postergar el inicio de vigencia u operatividad de dicho organismo auxiliar, hasta en tanto se cuente con la disponibilidad presupuestaria para ello. Para lo anterior, deberá tomar las previsiones respectivas por cuanto al "Decreto por el que se determina la naturaleza jurídica como Organismo Público Descentralizado, y demás particularidades para la operación, de la Entidad Paraestatal denominada 'Sistema Integrado de Transporte Masivo'".
+
+DÉCIMA. En caso de que en el ejercicio fiscal se determine la cancelación de la asignación establecida en el artículo 58 BIS-9, párrafo primero, de la Ley General de Hacienda del Estado de Morelos para el Fondo de Competitividad y Promoción del Empleo, la diversa asignación que corresponda al Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo, en términos del artículo 26, fracción II, de la Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos, se reducirá de acuerdo a los montos y porcentajes efectuados para el primero de los fondos citados.
