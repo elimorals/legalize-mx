@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2016-12-31"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de septiembre de 2015.
 
@@ -97,7 +97,9 @@ VI. CONTRATOS ABIERTOS: Contratos que se celebran cuando los convocantes requier
 
 VII. CONTRATOS MARCO: Contratos que celebran los convocantes con uno o más posibles proveedores, mediante los cuales se establecen las especificaciones técnicas y de calidad, alcances, precios y condiciones que regularán la adquisición o arrendamiento de bienes muebles o la prestación de servicios;
 
-VIII. CONTRALORÍA: La Secretaría de Contraloría y Transparencia Gubernamental del Poder Ejecutivo;
+> <small>(REFORMADA, P. O. 31 DE DICIEMBRE DE 2017)</small>
+
+VIII. CONTRALORÍA: La Secretaría de Contraloría;
 
 IX. CONVOCANTE: El Estado a través de las Dependencias, Entidades, Organismos Públicos Autónomos y Ayuntamientos, que adquieran bienes, arrendamientos o servicios en términos de la presente Ley;
 
@@ -143,7 +145,9 @@ XXIX. REGISTRO DE PROVEEDOR: Documento público y gratuito, que acredita a una p
 
 XXX. REGLAMENTO: El Reglamento de esta Ley;
 
-XXXI. SECRETARÍA: La Secretaría de Finanzas y Administración del Poder Ejecutivo;
+> <small>(REFORMADA, P. O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXXI. SECRETARÍA: La Secretaría de Finanzas Públicas;
 
 XXXIII (SIC). TESTIGO SOCIAL: La persona física o moral que participa con voz en los procedimientos de adquisiciones, arrendamientos y contratación de servicios y que emite un testimonio final de conformidad con esta Ley.
 
@@ -204,6 +208,10 @@ La Contraloría vigilará y comprobará el cumplimiento de este artículo. Lo mi
 La Secretaría realizará las Investigaciones de Mercado para el mejoramiento del sistema de adquisiciones, arrendamientos y servicios, la verificación de precios por insumos, determinación del Precio no Aceptable y Precio Conveniente, así como las actividades vinculadas con el objeto de esta Ley y finalidades de dicha Investigación.
 
 Para los efectos del párrafo anterior, se pondrá a disposición de los convocantes que así lo requieran y lo justifiquen, los resultados de los trabajos, objeto de la Investigación de Mercado.
+
+> <small>(ADICIONADO, P. O. 31 DE DICIEMBRE DE 2017)</small>
+
+No será necesario realizar estudio de mercado, respecto de aquellos bienes, arrendamientos o servicios sobre los cuales determinada persona posea la titularidad exclusiva, patente, derechos de autor u otros derechos exclusivos, o aquellos que sean fijados por disposición oficial.
 
 ###### Artículo 11.
 
@@ -1466,3 +1474,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P. O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 413 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
