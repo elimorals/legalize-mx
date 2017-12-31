@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-turismo-del-estado-8491
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-16"
-last_updated: "2016-04-18"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de enero de 2012.
 
@@ -776,3 +778,11 @@ P.O. 18 DE ABRIL DE 2016.
 PRIMERO.- Publíquense las presentes Reformas en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LOS “REGLAMENTOS INTERIORES DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA”.]
+
+PRIMERO. El presente Reglamento Interior de la Secretaría de Turismo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor del presente Reglamento, se abroga el Reglamento Interior de la Secretaría de Turismo del Estado de Aguascalientes, publicado en el Periódico Oficial Primera Sección, de fecha 16 de enero del 2012, y sus reformas y adiciones, así como se deroga (sic) todas las disposiciones legales y administrativas que se opongan al presente Reglamento.
