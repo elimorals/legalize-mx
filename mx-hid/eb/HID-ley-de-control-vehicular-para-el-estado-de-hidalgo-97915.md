@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2017-01-09"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 9 DE ENERO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -57,11 +55,15 @@ Se crea la Ley de Control Vehicular para (sic) Estado de Hidalgo.
 
 La presente Ley es de orden público, interés social y de observancia general en el Estado de Hidalgo, y tiene por objeto establecer las normas de control vehicular para la Entidad, con el fin primordial de garantizar la seguridad pública mediante el registro y control de los vehículos que circulan en su territorio.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 2.
 
-La aplicación e interpretación de la presente Ley es competencia del Poder Ejecutivo, a través de la Secretaría de Finanzas y Administración, y de la Secretaría de Seguridad Pública, cada una dentro de sus respectivas atribuciones.
+La aplicación e interpretación de la presente Ley es competencia del Poder Ejecutivo, a través de la Secretaría de Finanzas Públicas y de la Secretaría de Seguridad Pública, cada una dentro de sus respectivas atribuciones.
 
-La Secretaría de Finanzas y Administración, y las dependencias encargadas de la seguridad pública y tránsito estatal y municipal, cualquiera que sea su denominación, son autoridades competentes para vigilar el cumplimiento de las disposiciones de la misma, en los términos y con las atribuciones que ésta señala.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+La Secretaría de Finanzas Públicas y las dependencias encargadas de la seguridad pública y tránsito estatal y municipal, cualquiera que sea su denominación, son autoridades competentes para vigilar el cumplimiento de las disposiciones de la misma, en los términos y con las atribuciones que ésta señala.
 
 ###### Artículo 3.
 
@@ -93,7 +95,9 @@ XII.- Registro Vehicular Estatal, la relación nominal de datos, registros y arc
 
 XIII.- Reglamento, el Reglamento de la Ley de Control Vehicular para el Estado de Hidalgo;
 
-XIV.- Secretaría, la Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIV.- Secretaría, la Secretaría de Finanzas Públicas del Gobierno del Estado de Hidalgo;
 
 XV.- Tarjeta de Circulación, el documento expedido por la Secretaría, indispensable para la circulación, que contiene el nombre del propietario, las características y el número de matrícula asignados al vehículo;
 
@@ -157,9 +161,9 @@ C) Las resoluciones de tribunales competentes que hagan las veces de factura jud
 
 D) La factura original del vehículo. En estos casos, cuando la factura contenga cesiones de derechos de propiedad, deberá coincidir el nombre del vendedor con el de la última cesión registrada en la factura. Asimismo, la cesión deberá contener el precio pactado en la operación de transmisión de propiedad o la estipulación de que esta se realizó a título gratuito. Las disposiciones de este inciso son aplicables a contratos de compra venta privados.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-E) Tratándose de remolques ensamblados se acreditara su propiedad con factura o acta levantada ente (sic) el juzgado mixto menor.
+E) Tratándose de remolques ensamblados se acreditara su propiedad con factura o acta levantada ante el juez municipal que corresponda.
 
 III.- Tratándose de vehículos importados:
 
@@ -337,7 +341,9 @@ Las dimensiones y características de las placas metálicas y calcomanías de id
 
 Todo vehículo deberá circular con los elementos de identificación vehicular, o con el permiso temporal correspondiente. La violación a este artículo será sancionada en los términos precisados en la presente Ley y el Reglamento de la misma, sin perjuicio de los procedimientos y sanciones de otra naturaleza que de dicha infracción se deriven.
 
-Los remolques, semirremolques, bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas sólo requerirán de una placa metálica para su circulación, que se colocará en la parte posterior del mismo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Los remolques, semirremolques, bicimotos, triciclos automotores, trimotos, cuatrimotos, motonetas y motocicletas sólo requerirán de una placa metálica para su circulación, que se colocará en la parte posterior del mismo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -455,15 +461,17 @@ E) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 F) Comprobante de domicilio vigente de la persona moral.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 27.
 
-El propietario del vehículo, adicionalmente a los requisitos previstos en el artículo inmediato anterior, deberá cumplir, según sea el caso, con los siguientes requisitos:
+El propietario del vehículo, adicionalmente a los requisitos previstos en el artículo inmediato anterior, deberá presentar la documentación original que acredite la propiedad del vehículo, según sea el caso, y además cumplir con los siguientes:
 
 I.- Incorporación de vehículos nuevos en el Registro Vehicular Estatal:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-A) Tratándose de vehículos usados, el propietario deberá presentarlo ante la Secretaría para inspección física del mismo, así como original del documento con que acredite la propiedad del vehículo, en los términos del artículo 4 de la Ley y conforme al procedimiento que establezca la Secretaría y el Reglamento. En el caso de vehículos nuevos, el propietario podrá realizar la inspección física del mismo y bajo su responsabilidad, presentará a la Secretaría la calca o fotografía del número de serie del vehículo.
+A) Tratándose de vehículos usados, el propietario deberá presentarlo ante la Secretaría para inspección física del mismo, así como original del documento con que acredite la propiedad del vehículo, en los términos del artículo 6 de la Ley y conforme al procedimiento que establezca la Secretaría y el Reglamento. En el caso de vehículos nuevos, el propietario podrá realizar la inspección física del mismo y bajo su responsabilidad, presentará a la Secretaría la calca o fotografía del número de serie del vehículo.
 
 B) Tratándose de vehículos nuevos cuya incorporación al Registro Vehicular Estatal la realicen directamente los fabricantes, ensambladores, distribuidores o comerciantes de autos nuevos, será de la entera responsabilidad de éstos la verificación física y documental de los vehículos y sus propietarios; y
 
@@ -475,13 +483,15 @@ II.- Incorporación de vehículos usados en el Registro Vehicular Estatal, prove
 
 A) En lo que sea conducente, además de presentar los documentos y cumplir los requisitos a que se refiere la fracción I de este artículo, el propietario deberá presentar el vehículo a la Secretaría para inspección física del mismo, así como original de los siguientes documentos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-1. Juego de placas metálicas y documento de baja de la Entidad Federativa de que se trate, cuando sea el caso.
+1. Juego de placas metálicas o documento de baja de la Entidad Federativa de que se trate, según sea el caso.
 
 B) Tratándose de vehículos usados importados, deberá presentarse, también, el documento que ampara la legal estancia del vehículo en territorio nacional. En estos casos, la Secretaría verificará la autenticidad del documento en los sistemas electrónicos que para tales efectos ponga a disposición del Estado el Gobierno Federal, o bien, realizará la consulta mediante oficio. No se realizará el trámite en tanto no se tenga certidumbre de la autenticidad del documento.
 
-III.- Incorporación de vehículos en el Registro Vehicular Estatal, en que se acredite la factibilidad para emisión de elementos de identificación vehicular correspondientes a personas con discapacidad:
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III.- Incorporación de vehículos en el Registro Vehicular Estatal, en que se acredite la factibilidad para emisión de elementos de identificación vehicular correspondientes a personas con discapacidad neuro motora o músculo esquelética:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -515,7 +525,9 @@ A) A efecto de que la Secretaría emita y otorgue placas metálicas para vehícu
 
 B) Las placas metálicas para vehículos de demostración permiten a dichos vehículos circular en un horario de 9:00 a 20:00 horas y en un radio no mayor a 20 kilómetros del domicilio de los fabricantes, ensambladores, distribuidores o comerciantes de autos nuevos de que se trate;
 
-C) Los fabricantes, ensambladores, distribuidores o comerciantes de autos nuevos que den mal uso a las placas metálicas para vehículos de demostración que les sean entregadas a efectos de demostración de sus vehículos, serán sancionados en los términos que marque la Ley y las demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+C) Los fabricantes, ensambladores, distribuidores o comerciantes de autos nuevos que den mal uso a las placas metálicas para vehículos de demostración que les sean entregadas a efectos de demostración de sus vehículos, serán sancionados en los términos que marque la Ley, el Reglamento y las demás disposiciones aplicables.
 
 VI.- Actualización de datos al Registro Vehicular Estatal con motivo de canje de placas metálicas:
 
@@ -609,9 +621,11 @@ Para la reposición señalada en el artículo anterior, se deberá cumplir con l
 
 La Secretaría está facultada para determinar la vigencia de los elementos de identificación vehicular. En ningún caso, la vigencia de éstos podrá ser inferior al periodo de durabilidad que se encuentre establecido en la Norma Oficial Mexicana vigente en la materia.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### Artículo 33.
 
-Cuando la Secretaría pretenda cancelar la vigencia de un modelo determinado de placas metálicas en forma general, y realizar el canje total respectivo, oyendo la opinión del Consejo Estatal de Seguridad Pública, deberá emitir y publicar el acuerdo correspondiente en el Periódico Oficial del Estado de Hidalgo, en el mes de junio del año inmediato anterior a aquel en que se pretenda cancelar la vigencia del mismo.
+Cuando la Secretaría pretenda cancelar la vigencia de un modelo determinado de placas metálicas en forma general, y realizar el canje total respectivo, oyendo la opinión del Consejo Estatal de Seguridad Pública, deberá emitir y publicar el acuerdo correspondiente en el Periódico Oficial del Estado de Hidalgo, en el año inmediato anterior a aquel en que se pretenda cancelar la vigencia del mismo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE EXPIDE LA LEY.</small>
 
@@ -750,5 +764,13 @@ PRIMERO.- El presente Decreto entrará en vigor una vez que las disposiciones re
 ## TRANSITORIOS
 
 PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2017, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 320 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2018.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
