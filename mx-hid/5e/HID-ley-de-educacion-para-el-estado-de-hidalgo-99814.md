@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-99814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-10"
-last_updated: "2017-05-01"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2014.
 
@@ -141,7 +141,9 @@ XV. Desarrollar actitudes solidarias en las personas y crear conciencia sobre la
 
 XVI. Promover el conocimiento del contenido de las Constituciones Políticas de los Estados Unidos Mexicanos y del Estado de Hidalgo;
 
-XVII. Promover programas, según los tipos y modalidades educativas, para la prevención de las adicciones, con la finalidad de que las y los estudiantes tomen conciencia de los daños que generan a la salud y al bienestar social y económico de la sociedad en general;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XVII. Promover programas según los tipos y modalidades educativas, para la prevención de las adicciones, como: drogadicción, alcoholismo, tabaquismo y cualquier otra que atente contra la salud, la integridad o calidad de vida, con la finalidad de que las y los estudiantes tomen conciencia de los daños que generan a la salud y al bienestar social y económico de la sociedad en general;
 
 XVIII. Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
@@ -358,6 +360,18 @@ XXIX. Vigilar el estricto cumplimiento por parte de las empresas establecidas en
 XXX. Promover la mejora continua de los procesos académicos y administrativos del Sistema Educativo Estatal;
 
 XXXI. Canalizar a la instancia correspondiente, los casos detectados por personal docente y directivo, de estudiantes con problemas de salud física, mental o de violencia escolar en el centro educativo, en su familia o en su comunidad;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXXI BIS. En coordinación con la Secretaría de Salud, establecer campañas informativas dirigidas a madres, padres o tutores, para que estos puedan prevenir e identificar enfermedades prevalentes en niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXXI TER. Promover acuerdos de cooperación con instituciones públicas o privadas, en materia (sic) educación para la salud;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXXI QUATER. En coordinación con la Secretaría de Salud, promover y desarrollar programas de prevención de enfermedades de transmisión sexual y de embarazos en adolescentes;
 
 XXXII. Vigilar que los alimentos y bebidas comercializados al interior de las escuelas de nivel básico contengan aportes nutrimentales y que no constituyan un factor de riesgo que generen, entre otros aspectos, sobrepeso u obesidad;
 
@@ -1376,3 +1390,9 @@ P.O. 1 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 323 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
