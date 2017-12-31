@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2017-12-14"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -281,7 +281,9 @@ V. A la Comisión Nacional del Agua, la CNA;
 
 VI. A la Secretaría de Ecología y Gestión Ambiental, la SEGAM;
 
-VII. A la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, la SEDUCOP;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VII. A la Secretaria de Desarrollo Urbano, Vivienda y Obras Públicas, la SEDUVOP;
 
 VIII. A la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, la SEDARH, y
 
@@ -1607,15 +1609,19 @@ La realización de actividades riesgosas, de llevarse a cabo se harán con apego
 
 Quienes realicen actividades riesgosas deberán formular y presentar a la SEGAM un estudio de riesgo ambiental bajo la modalidad de informe preliminar; así como someter a su aprobación los programas para la prevención de accidentes en la realización de tales actividades que pudieran causar impactos ambientales adversos.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 100.
 
-La SEGAM, en coordinación con los respectivos ayuntamientos y la SEDUCOP cuando así proceda, elaborará programas de desconcentración de actividades riesgosas y altamente riesgosas, para su reubicación en las áreas señaladas en los respectivos planes de desarrollo urbano y planes de ordenamiento ecológico, o tratándose de localidades en que no hubiere plan, en los lugares técnicamente apropiados y aprobados por la SEGAM y el correspondiente municipio.
+La SEGAM, en coordinación con los respectivos ayuntamientos y la SEDUVOP cuando así proceda, elaborará programas de desconcentración de actividades riesgosas y altamente riesgosas, para su reubicación en las áreas señaladas en los respectivos planes de desarrollo urbano y planes de ordenamiento ecológico, o tratándose de localidades en que no hubiere plan, en los lugares técnicamente apropiados y aprobados por la SEGAM y el correspondiente municipio.
 
 Asimismo, la SEGAM impulsará y participará en la celebración de convenios de concertación con los sectores empresariales para los efectos de llevar a cabo dichos programas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 101.
 
-Para el caso de que las empresas con actividades consideradas riesgosas o altamente riesgosas por alguna causa no participaren en los programas a que se refiere el artículo anterior o se negaren a hacerlo, la SEGAM, el ayuntamiento respectivo y la SEDUCOP cuando proceda, requerirán al propietario, poseedor o responsable de la misma para que dentro del término de treinta días naturales contados a partir del día siguiente al en que se realice la correspondiente notificación, presente ante dichas autoridades una propuesta de reubicación de su empresa, dentro de la cual deberán informar de manera detallada sobre los siguientes aspectos:
+Para el caso de que las empresas con actividades consideradas riesgosas o altamente riesgosas por alguna causa no participaren en los programas a que se refiere el artículo anterior o se negaren a hacerlo, la SEGAM, el ayuntamiento respectivo, y la SEDUVOP cuando proceda, requerirán al propietario, poseedor o responsable de la misma, para que dentro del término de treinta días naturales contados a partir del día siguiente al que se realice la correspondiente notificación, presente ante dichas autoridades una propuesta de reubicación de su empresa, dentro de la cual deberá informar de manera detallada sobre los siguientes aspectos:
 
 I. El tipo de proceso industrial;
 
@@ -1627,9 +1633,13 @@ IV. El monto de la inversión requerida para su reubicación, y
 
 V. Un programa calendarizado en diagrama de barras, exponiendo las razones y fundamentos de los plazos propuestos para la reubicación parcial o definitiva de la empresa.
 
-Presentada la propuesta dentro del plazo anteriormente señalado, la SEGAM, el Ayuntamiento y la SEDUCOP de ser el caso, procederán a evaluarla a efecto de resolver en lo conducente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-Una vez vencido el plazo señalado sin que el propietario, poseedor o responsable la hubiese presentado ante las instancias correspondientes, se entenderá que no existe interés por parte de los responsables para realizar la propuesta, facultándose a la SEGAM, al respectivo Ayuntamiento y a la SEDUCOP de ser el caso, para resolver lo que normativamente y en derecho proceda.
+Presentada la propuesta dentro del plazo anteriormente señalado, la SEGAM, el Ayuntamiento, y la SEDUVOP de ser el caso, procederán a evaluarla a efecto de resolver en lo conducente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Una vez vencido el plazo señalado sin que el propietario, poseedor o responsable la hubiese presentado ante las instancias correspondientes, se entenderá que no existe interés por parte de los responsables para realizar la propuesta, facultándose a la SEGAM, al respectivo Ayuntamiento, y a la SEDUVOP de ser el caso, para resolver lo que normativamente y en derecho proceda.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2010)</small>
 
@@ -2847,7 +2857,9 @@ NOVENO. En tanto se expidan las disposiciones reglamentarias que se deriven del 
 
 DECIMO. El Estado podrá ejercer las facultades de que disponen los ayuntamientos u organismos operadores del agua en materia de protección al ambiente a petición expresa de éstos, hasta en tanto cuenten con sus respectivos reglamentos o adecuen sus Bandos de Policía y Buen Gobierno, y cuenten con la capacidad técnica y administrativa necesarias; igualmente para los casos de combustiones a cielo abierto a que se refieren los artículos 8 fracción IV y 81 de la presente Ley.
 
-DECIMO PRIMERO. El otorgamiento de las licencias de uso de suelo por parte de los ayuntamientos a que se refiere esta Ley podrá llevarse a cabo por éstos una vez que cuenten con sus respectivos Programas de Ordenamiento Ecológico, de Desarrollo Urbano o para el caso de que contaren con ellos, hasta en tanto no se emita por las autoridades correspondientes un dictamen de congruencia de éstos y hasta en tanto dispongan con la capacidad técnica, administrativa y financiera necesarias. Mientras tanto, dichas atribuciones serán ejercidas tanto por la SEGAM como por la SEDUCOP, debiéndose contar con el dictamen técnico correspondiente previamente a su expedición que será otorgado por la SEGAM, en los casos previstos en esta Ley y en la Ley Urbana.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+DECIMO PRIMERO. El otorgamiento de las licencias de uso de suelo por parte de los ayuntamientos a que se refiere esta Ley, podrá llevarse a cabo por éstos una vez que cuenten con sus respectivos Programas de Ordenamiento Ecológico, de Desarrollo Urbano, o para el caso de que contaren con ellos, hasta en tanto no se emita por las autoridades correspondientes, un dictamen de congruencia de éstos y hasta en tanto dispongan con la capacidad técnica, administrativa y financiera necesarias. Mientras tanto, dichas atribuciones serán ejercidas tanto por la SEGAM como por la SEDUVOP, debiéndose contar con el dictamen técnico correspondiente, previamente a su expedición, que será otorgado por la SEGAM, en los casos previstos en esta Ley y en la Ley de Desarrollo Urbano.
 
 Los ayuntamientos contarán con un plazo de trescientos sesenta y cinco días para la emisión de sus respectivos planes y programas a que se refiere el párrafo anterior, una vez vencido el plazo sin haberlo hecho, deberán convenir con la autoridad respectiva el ejercicio de dichas funciones.
 
@@ -3077,9 +3089,9 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 21 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 727.- SE REFORMA EL ARTÍCULO 92, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 727.- SE REFORMA EL ARTÍCULO 92, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -3117,8 +3129,16 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 14 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 762.- SE ADICIONA AL ARTÍCULO 143, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 762.- SE ADICIONA AL ARTÍCULO 143, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 864.- SE REFORMAN ARTÍCULOS, 5°, 100 Y 101, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
