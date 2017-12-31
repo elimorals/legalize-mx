@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2017-08-28"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -1291,20 +1291,26 @@ TERCERO.- El aprovechamiento señalado en el presente Decreto, se empezará a ca
 
 B.O. 30 DE MAYO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2438.- SE ADICIONA EL ARTICULO 129 TER A LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2438.- SE ADICIONA EL ARTICULO 129 TER A LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-SEGUNDO.- En atención a dar cumplimiento con la obligación de la Secretaría de Finanzas y Administración de emitir las reglas de carácter general en las que se determine la forma en que se recaudará y enterará el aprovechamiento, se concede un plazo adicional al establecido en el Artículo Segundo Transitorio del Decreto 2382 publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 47, de fecha 30 de noviembre del 2016, contado a partir del día siguiente al que venza el otorgado conforme al citado decreto y concluirá hasta el 31 de diciembre del 2017.
+SEGUNDO.- En atención a dar cumplimiento con la obligación de la Secretaría de Finanzas y Administración de emitir las reglas de carácter general en las que se determine la forma en que se recaudará y enterará el aprovechamiento, se concede un plazo adicional al establecido en el artículo Segundo Transitorio del Decreto 2382 publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 47, de fecha 30 de noviembre del 2016, contado a partir del día siguiente al que venza la prorroga otorgada conforme al Decreto 2466 publicado en el Boletín Oficial del Gobierno del Estado del 28 de agosto del 2017, y concluirá hasta el 31 de diciembre del 2018.
 
-> <small>(REFORMADO, B.O. 28 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-TERCERO.- El Gobierno del Estado deberá de constituir el fideicomiso al que hace mención la fracción I del artículo 129 Ter de la Ley de Hacienda del Estado de Baja California Sur, a más tardar el día 31 de diciembre del 2017.
+TERCERO.- El Gobierno del Estado contará hasta el día 31 de diciembre del 2018 contados a partir de la entrada en vigor del presente Decreto, para constituir el fideicomiso al que hace mención la fracción I del artículo 129 Ter de la Ley de Hacienda del Estado de Baja California Sur.
 
 B.O. 28 DE AGOSTO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 2466 SE REFORMAN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO 2438 POR MEDIO DEL CUAL SE ADICIONÓ EL ARTÍCULO 129 TER A LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2521.- SE REFORMAN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO 2438 POR MEDIO DEL CUAL SE ADICIONÓ EL ARTÍCULO 129 TER LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
