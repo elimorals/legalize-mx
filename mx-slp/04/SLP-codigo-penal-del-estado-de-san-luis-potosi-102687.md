@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2017-11-30"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1075,7 +1075,9 @@ El otorgamiento y disfrute del beneficio de la suspensión condicional de la pen
 
 I. El juzgador, al dictar sentencia, suspenderá motivadamente la ejecución de las penas, a petición de parte o de oficio, si concurren estas condiciones:
 
-a) Que la condena se refiera a una pena de prisión que no exceda de cinco años y que no se trate de sentencias dictadas por delito grave.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+a) Que la condena se refiera a una pena de prisión que no exceda de cinco años y que no se trate de sentencias dictadas por delito grave, así como por los delitos de robo a casa habitación; robo de vehículo; y robo de vehículo equiparado.
 
 b) Que sea la primera vez que el sentenciado incurre en un delito doloso y, además, haya evidenciado buena conducta, antes y después del hecho punible. No será considerado en su perjuicio el hecho de que sea o haya sido farmacodependiente, pero estará sujeto al cumplimiento del requisito que señala el inciso e) de la fracción II de este artículo.
 
@@ -2093,7 +2095,7 @@ Se considerará como empleado en cualquiera de los establecimientos mencionados 
 
 ### CAPÍTULO I. Disposición de Células
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ### CAPÍTULO II. Inseminación Artificial Indebida
 
@@ -2113,7 +2115,7 @@ Este delito se sancionará con una pena de un mes a tres años de prisión y san
 
 ### CAPÍTULO IV. Manipulación genética
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 186.
 
@@ -2191,7 +2193,7 @@ Cuando la víctima sea menor de edad la conducta siempre se tipificará como vio
 
 ###### ARTÍCULO 191.
 
-A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes, se le impondrán de tres a seis años de prisión y sanción pecuniaria de trescientos a seiscientos días del valor de la unidad de medida y actualización.
+A quien disponga de óvulos o esperma para fines distintos a los autorizados por sus donantes o depositarios, siempre y cuando no atenten contra la dignidad humana, se le impondrán de tres a seis años de prisión y sanción de trescientos a seiscientos días del valor de la unidad de medida y actualización.
 
 ### CAPÍTULO ÚNICO
 
@@ -2237,9 +2239,11 @@ Además de las penas previstas en el capítulo anterior, se impondrá suspensió
 
 ###### ARTÍCULO 197.
 
-Se impondrán de dos a seis años de prisión y multa de doscientos a seiscientos días del valor de la unidad de medida de actualización, así como inhabilitación y suspensión por igual término para desempeñar cargo, empleo o comisión públicos, profesión u oficio, a los que:
+Se impondrán de dos a seis años de prisión y multa de doscientos a seiscientos días valor de la unidad de medida de actualización, así como inhabilitación y suspensión por igual término para desempeñar cargo, empleo o comisiones públicas, profesión u oficio, a quienes:
 
-I. Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipulen genes humanos de manera que se altere el genotipo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+I. Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras y que sean de riesgos sus efectos secundarios en la salud humana del individuo o comunidad, manipulen genes humanos de manera que se altere el genotipo;
 
 II. Fecunden óvulos humanos con cualquier fin distinto al de la procreación humana, o
 
@@ -3009,7 +3013,7 @@ A quien falsifique llaves para adaptarlas a cualquier cerradura, el sello, las m
 
 ### CAPÍTULO V. Delitos Cometidos Contra Servidores Públicos o Agentes de la Autoridad en Ejercicio de sus Funciones
 
-(NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL (NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE OCTUBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 726, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(NOTA: EL 15 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2017, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 18 DE OCTUBRE DE 2017, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 726, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2017)</small>
 
@@ -3457,17 +3461,23 @@ Se impondrá de tres a seis años de prisión y sanción pecuniaria de trescient
 
 Cuando una o más de las conductas descritas en el presente artículo se cometa a nombre, bajo el amparo o a beneficio de una persona moral, a ésta se le impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de la responsabilidad en que hubiere incurrido las personas físicas por el delito cometido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 295.
 
-Se impondrá de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida y actualización, a quien ocasione daños a los recursos naturales, la fauna, la flora, los ecosistemas, el ambiente, o la calidad del agua, al realizar alguna o algunas de las siguientes acciones:
+Se impondrái (sic) de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida de actualización, a quienes ocasiones (sic) daños o provoquen un desequilibrio a los recursos naturales, la fauna, la flora, los ecosistemas, el ambiente, o la calidad del agua, al realizar alguna o algunas de las siguientes acciones:
 
-I. Emita, despida, descargue en la atmósfera, o lo ordene, gases, humos, polvos o contaminantes, sin aplicar medidas de prevención, siempre que dichas emisiones excedan los límites permitidos y provengan de fuentes fijas de competencia local, o móviles que circulan en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-II. Descargue, deposite, o infiltre, lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los suelos, subsuelos, ríos, cuencas, vasos o demás depósitos o corrientes de agua de competencia local, sin aplicar las medidas de prevención;
+I. Emita, despida, descargue en la atmósfera, o lo ordene, gases, humos, polvos o contaminantes, sin aplicar medidas de prevención, control y remediación, siempre que dichas emisiones excedan los límites permitidos y provengan de fuentes fijas de competencia local, o móviles que circulan en el Estado;
 
-III. Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones, provenientes de fuentes fijas ubicadas en el Estado, o de fuentes móviles que circulan en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+II. Descargue, deposite, o infiltre, lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los suelos, subsuelos, ríos, cuencas, vasos o demás depósitos o corrientes de agua de competencia local, sin aplicar las medidas de prevención, control y remediación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III. Genere emisiones de energía radioactiva, térmica o lumínica, olores, ruidos o vibraciones, provenientes de fuentes fijas ubicadas en el Estado, o de fuentes móviles que circulan en el Estado y no cumplan la normatividad aplicable;
 
 IV. Realice actividades riesgosas de las previstas en las disposiciones jurídicas aplicables en el Estado, sin contar con la autorización correspondiente de las autoridades ambientales estatales;
 
@@ -3491,9 +3501,35 @@ XIII. Extraiga material de algún río de competencia estatal sin contar con la 
 
 XIV. Construya o edifique sin la autorización correspondiente, en áreas naturales protegidas de orden estatal;
 
-XV. Incumplir las labores de saneamiento de un relleno sanitario o de un tiradero no autorizado, ordenadas por la autoridad competente, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XVI. Omita llevar a cabo la remediación de bancos de material abandonados o agotados.
+XV. Incumpla las labores de saneamiento de un relleno sanitario o de un tiradero no autorizado, ordenadas por la autoridad competente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XVI. Omita llevar a cabo la remediación de bancos de material abandonados o agotados;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XVII. Destruya, despida o rellene, humedales, lagunas, esteros, vasos, cauces, cañadas, o arroyos, ocasionando con ello daños al ambiente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XVIII. Ocupe, use, aproveche, o deteriore un área natural de la competencia del Estado o el ecosistema del suelo de conservación;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIX. Transporte materiales o residuos peligrosos contraviniendo lo establecido en las disposiciones aplicables y se afecte con ese motivo la integridad de las personas o del ambiente; en los casos no reservados a la Federación;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XX. No repare los daños ecológicos que ocasione al ambiente, recursos naturales, áreas naturales protegidas o al suelo de conservación, por contravenir lo dispuesto en la ley respectiva de la materia.
+
+Lo dispuesto en esta fracción será aplicable también a la exploración, manejo de minerales o de cualquier deposito del subsuelo, cuando no se reforeste el área o no se restaure el suelo, subsuelo, conos volcánicos y estructuras geomorfológicas afectadas, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXI. Ponga en riesgo, por cualquier otro medio o actividad, la salud de la población o la integridad de alguna especie animal o vegetal de un área natural protegida o una zona considerable del ambiente rural o urbano del Estado.
 
 El incendio de un tiradero a cielo abierto descontrolado, o de un relleno sanitario, será atribuible al municipio respectivo por falta de control y ausencia de acciones de inspección.
 
@@ -3521,13 +3557,17 @@ IV. Un área verde en suelo urbano.
 
 Las penas previstas en este artículo se aumentará (sic) en una mitad cuando el área afectada sea igual o mayor a cinco hectáreas o se afecten recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 298.
 
-Se impondrá de tres meses a cinco años de prisión y sanción pecuniaria de treinta a quinientos días del valor de la unidad de medida y actualización, al que ilícitamente derribe, tale u ocasione la muerte de uno o más árboles.
+Se impondrái (sic) de tres meses a cinco años de prisión y sanción pecuniaria de treinta a quinientos días del valor de la unidad de medida de actualización, al que ilícitamente derribe, tale u ocasione la muerte de uno o más árboles, explote u ocasione daño o muerte a especies vegetales endémicas, en riesgo o en peligro de extinción.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Las penas previstas en este artículo se duplicarán cuando uno (sic) o más de las conductas descritas en el párrafo anterior, se desarrollen en un área natural protegida o área de valor ambiental de competencia del Estado, de conformidad con las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
 
 Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo, o a beneficio de una persona moral, a ésta se impondrá la consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por cinco años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
 
@@ -3551,11 +3591,11 @@ IV. Un área verde en suelo urbano.
 
 Se impondrá de seis meses a cinco años de prisión y sanción pecuniaria de sesenta a quinientos días del valor de la unidad de medida y actualización, al que realice el cambio provisional de aditamentos o equipos de cualquier vehículo automotor, con el objeto de obtener uno o más documentos que acrediten la aprobación de la verificación vehicular prevista en las disposiciones jurídicas aplicables en el Estado.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 301.
 
-Se impondrá de seis meses a cinco años de prisión y sanción pecuniaria de sesenta a quinientos días del valor de la unidad de medida y actualización, al que obtenga una autorización proveniente de cualquier autoridad ambiental, del Estado o municipal, y faltare a la verdad provocando que se cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, o al ambiente.
+Se impondrái (sic) de seis meses a cinco años de prisión y sanción pecuniaria de sesenta a quinientos días del valor de la unidad de medida y actualización, al que obtenga una autorización proveniente de cualquier autoridad ambiental, del Estado o municipal, y faltare a la verdad provocando que se cause un daño a los recursos naturales, a la calidad del agua, al ambiente, a la flora, o a la fauna, o ponga en situación de riesgo poblaciones endémicas de sus ecosistemas, o cause su extinción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3929,7 +3969,9 @@ d) Atender las indicaciones del Congreso del Estado, para que se corrijan las ir
 
 El delito a que se refiere el artículo anterior se sancionará con una pena de uno a tres años de prisión y sanción pecuniaria de cien a trescientos días del valor de la unidad de medida y actualización que perciba al momento de la comisión del delito, y destitución e inhabilitación del doble de la pena de prisión impuesta para desempeñar otro empleo, cargo o comisión públicos.
 
-Al infractor de las fracciones, IV, VI, VIII, y XI del artículo anterior, se le impondrá una pena de tres a siete años de prisión, sanción pecuniaria de trescientos a setecientos días del valor de la unidad de medida y actualización que perciba al momento de la comisión del delito, y destitución e inhabilitación por el doble de la pena de prisión impuesta, para desempeñar otro empleo, cargo o comisión públicos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Al infractor de las fracciones, IV, VI, VII, VIII, y XI del artículo anterior, se le impondrá una pena de tres a siete años de prisión, y sanción pecuniaria de trescientas a setecientas veces el valor diario de la unidad de medida y actualización.
 
 ### CAPÍTULO I
 
@@ -4798,6 +4840,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 30 DE NOVIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 753.- SE REFORMA EL ARTÍCULO 187, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 860.- SE REFORMAN (SIC) ARTÍCULO, 324, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 861.- SE REFORMAN (SIC) ARTÍCULO, 95, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 862.- SE REFORMAN ARTÍCULO (SIC), 191, 197, 295, 298, 301, Y 295, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
