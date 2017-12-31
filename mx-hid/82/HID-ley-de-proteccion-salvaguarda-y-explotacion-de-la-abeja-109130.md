@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-salvaguarda-y-explotacion-de-la-abeja-109130"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-27"
-last_updated: "2015-07-27"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY APÍCOLA PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR QUINCE DÍAS DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DE “EL ESTADO DE HIDALGO”.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de julio de 2015.
 
@@ -39,7 +37,9 @@ QUE CONTIENE LA LEY APÍCOLA PARA EL ESTADO DE HIDALGO
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confieren los Artículos 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S…
+A N T E C E D E N T E S
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -197,11 +197,19 @@ I. Disfrutar de los apoyos para el fomento de las actividades apícolas, que los
 
 II. Formar parte de la organización de apicultores del municipio donde se encuentre ubicada su explotación;
 
-III. Participar en la integración de organismos técnicos o de consulta que se establezcan para la protección y mejoramiento de la apicultura, tales como el Comité Técnico Estatal Apícola, Grupos de Intercambio Tecnológico y participación en el Programa Integral de Capacitación “PIC” y programas que se establezcan para la protección y mejoramiento de la apicultura;
+III. Participar en la integración de organismos técnicos o de consulta que se establezcan para la protección y mejoramiento de la apicultura, tales como el Comité Técnico Estatal Apícola, Grupos de Intercambio Tecnológico y participación en el Programa Integral de Capacitación "PIC" y programas que se establezcan para la protección y mejoramiento de la apicultura;
 
 IV. Promover y organizar coordinadamente con las dependencias del sector pecuario, cursos, congresos, seminarios, exposiciones y eventos que tiendan al mejoramiento técnico del apicultor y sus actividades; y
 
 V. Manifestar sus opiniones y hacer denuncias a la autoridad correspondiente, cuando consideren afectados sus intereses.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI. Solicitar en tiempo y forma, espacios que puedan asignar los ayuntamientos para la venta de sus productos en exposiciones gastronómicas o eventos culturales propios del municipio.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VII. Podrá contar con el apoyo de la alcaldía, para posibles firmas de convenios con empresas locales de giro turístico, tales como: hoteles, restaurantes, centros turísticos y ecoturísticos, con el propósito de ofertar los productos apícolas dentro del establecimiento, y la posibilidad de adquirirlos para consumo dentro del mismo negocio.
 
 ###### ARTÍCULO 9.
 
@@ -227,9 +235,17 @@ IX. Rendir informes anuales a la Secretaría de Desarrollo Agropecuario a travé
 
 X. Sujetarse a la guía de tránsito y certificado zoosanitario y otros documentos necesarios para la movilización de sus abejas o productos;
 
-XI. Notificar a la Secretaría de Desarrollo Agropecuario sobre toda sospecha de enfermedades de las abejas, a fin de que se tomen las medidas correspondientes; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XII. Acatar las disposiciones federales y estatales, relativas al control de las enfermedades de las abejas y de la abeja africanizada.
+XI. Notificar a la Secretaría de Desarrollo Agropecuario sobre toda sospecha de enfermedades de las abejas, a fin de que se tomen las medidas correspondientes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XII. Acatar las disposiciones federales y estatales, relativas al control de las enfermedades de las abejas y de la abeja africanizada; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIII. Cumplir con los requerimientos normativos para la óptima calidad de sus productos, los cuales serán estipulados por los organismos correspondientes y con injerencia en el tema, y con ello, tener acceso a los derechos que establece el artículo 8 fracciones VI y VII de la presente Ley.
 
 ### CAPÍTULO VI. DE LA INSTALACIÓN DE LOS APIARIOS
 
@@ -626,3 +642,11 @@ PRESIDENTE, DIP. VÍCTOR TREJO CARPIO.- RÚBRICA; SECRETARIA, DIP. NADIA CAROLIN
 EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL QUINCE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 414 POR EL QUE SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 8, Y LA FRACCIÓN XIII AL ARTÍCULO 9 DE LA LEY APÍCOLA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
