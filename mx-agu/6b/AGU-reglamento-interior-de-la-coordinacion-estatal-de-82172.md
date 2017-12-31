@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-coordinacion-estatal-de-82172"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-11"
-last_updated: "2011-07-11"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL DE PLANEACION Y PROYECTOS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE PLANEACIÓN Y PROYECTOS, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL DE PLANEACION Y PROYECTOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de julio de 2011.
 
@@ -636,3 +638,25 @@ JEFE DE GABINETE.
 C.P. Carlos Alberto Rubalcava Arellano,
 
 COORDINADOR ESTATAL DE PLANEACIÓN Y PROYECTOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LOS “REGLAMENTOS INTERIORES DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Coordinación Estatal de Planeación y Proyectos del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes once de julio de dos mil once, con todas las reformas posteriores.
+
+###### ARTÍCULO TERCERO.
+
+Para efecto de la competencia de los asuntos de la Coordinación General de Planeación y Proyectos, le corresponderán además todas aquellas atribuciones que por disposición legal o reglamentaria se atribuyan a la Coordinación General del Comité de Planeación para el Desarrollo del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Reglamento Interior.
