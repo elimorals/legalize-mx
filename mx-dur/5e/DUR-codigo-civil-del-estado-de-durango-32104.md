@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2017-06-01"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -203,7 +203,9 @@ III. No se emplearán apodos; y
 
 IV. No podrá constituirse con números.
 
-Los apellidos corresponderán por su orden, el primero del padre y al segundo de la madre.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Serán los padres, al momento del registro, quienes decidirán el orden de los apellidos, haciéndolo mediante un escrito de común acuerdo, el orden elegido deberá mantenerse para todos los hijos de la misma filiación, en caso de no existir acuerdo, el primer apellido del padre seguido del primer apellido de la madre.
 
 ## TITULO CUARTO.
 
@@ -329,7 +331,9 @@ En la misma pena incurrirán las personas que no cumplan con la obligación de d
 
 ART. 57.- En las poblaciones en que no haya Oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva, que los interesados llevarán al Oficial del Registro que corresponda, para que asiente el acta.
 
-ART. 58.- El Acta de Nacimiento, contendrá el año, mes, día, hora y lugar de nacimiento, el sexo, la impresión digital del presentado; el nombre y apellidos que le correspondan sin que por motivo alguno puedan omitirse, la expresión de si es presentado vivo o muerto, el nombre, domicilio y nacionalidad de los padres; el nombre domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, y si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentezco (sic) con el registrado; salvo las prevenciones contenidas en los Artículos siguientes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ART. 58.- El Acta de Nacimiento, contendrá el año, mes, día, hora y lugar de Nacimiento, el sexo, la impresión digital del presentado; el nombre y apellidos que le correspondan, que en ningún caso podrán contener elementos que sean ofensivos, discriminatorios o sean motivo de exposición al ridículo para la persona, no podrá omitirse, la expresión de si es presentado vivo o muerto, el nombre, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos, y si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco (sic) con el registrado; salvo las prevenciones contenidas en los Artículos siguientes:
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -982,6 +986,10 @@ Del contrato de matrimonio con relación a los bienes.
 Disposiciones generales.
 
 ART. 173.- El contrato de matrimonio debe celebrarse bajo el régimen de sociedad conyugal, o bajo el de separación de bienes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+En el caso de que por negligencia, descuido u omisión el Oficial del Registro Civil, no establezca, en el acta de matrimonio, bajo qué régimen patrimonial se regirán los consortes; éste será el de sociedad conyugal.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -2413,11 +2421,11 @@ ART. 465.- El ascendiente que sobreviva, de los dos que en cada grado deben ejer
 
 ART. 466.- El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
 
-ART. 466 (SIC).- El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
-
 ART. 467.-Si los ascendientes excluidos estuvieron incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
-ART. 469.-Si fueren varios los menores podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 452.
+ART. 466 (SIC).- El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+
+ART. 469.- Si fueren varios los menores podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 452.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 2004)</small>
 
@@ -2463,11 +2471,11 @@ ART. 479.- Si hubiere varios parientes del mismo grado, el juez elegirá entre e
 
 ART. 480.- La falta temporal del tutor legítimo, se suplicará (sic) en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO IV.
+### CAPITULO IV
 
-La tutela de los dementes, los que sufren discapacidad intelectual, sordo-mudos, ebrios y de los que habitualmente abusan de las drogas enervantes.
+De la tutela de los que sufren discapacidad cognitiva, intelectual, auditiva o fisica y de los que habitualmente abusan del alcohol o culquier (sic) tipo de drogas enervantes
 
 ART. 481.- El marido es tutor legítimo y forzoso de su mujer, y ésta lo es de su marido.
 
@@ -4779,7 +4787,9 @@ ART. 1182.- No pueden testar en el mismo acto dos o más personas, ya en provech
 
 ART. 1183.- Ni la subsistencia del nombramiento del heredero o de los legatarios, ni la designación de las cantidades que a ellos correspondan, pueden dejarse al arbitrio de un tercero.
 
-ART. 1184.- Cuando el testador deje como herederos o legatarios a determinadas clases formadas por número ilimitado de individuos, tales como los pobres, los huérfanos, los ciegos, etc., puede encomendar a un tercero la distribución de las cantidades que deje para ese objeto y la elección de las personas a quienes deban aplicarse, observándose lo dispuesto en el artículo 1215.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ART. 1184.- Cuando el testador deje como herederos o legatarios a determinadas clases formadas por número ilimitado de individuos, tales como los pobres, los huérfanos, personas con alguna discapacidad, etc., puede encomendar a un tercero la distribución de las cantidades que deje para ese objeto y la elección de las personas a quienes deban aplicarse, observándose lo dispuesto en el artículo 1215.
 
 ART. 1185.- El testador puede encomendar a un tercero que haga la elección de los actos de beneficencia o de los establecimientos públicos o privados de los cuales deban aplicarse los bienes que legue con ese objeto, así como la distribución de las cantidades que a cada uno corresponda.
 
@@ -4807,9 +4817,13 @@ I.- Los menores que no han cumplido dieciséis años de edad, ya sean hombres o 
 
 II.- Los que habitual o accidentalmente no disfrutan de su cabal juicio.
 
-ART. 1193.- Es válido el testamento hecho por un demente en un intervalo de lucidez. Con tal de que al efecto se observen las prescripciones siguientes:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-ART. 1194.- Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y, en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El Juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes a fin de cerciorarse de su capacidad para testar.
+ART. 1193.- Es válido el testamento hecho por una persona con discapacidad intelectual en un intervalo de lucidez. Con tal de que al efecto se observen las prescripciones del artículo siguiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ART. 1194.- Siempre que una persona con discapacidad intelectual pretenda hacer testamento en un intervalo de lucidez, el tutor y, en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El Juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes a fin de cerciorarse de su capacidad para testar
 
 ART. 1195.- Se hará constar en acta formal el resultado del reconocimiento.
 
@@ -5343,9 +5357,13 @@ I.- Los amanuenses del Notario que lo autorice;
 
 II.- Los menores de dieciséis años;
 
-III.- Los que no estén en su sano juicio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-IV.- Los ciegos, sordos o mudos;
+III.- Las personas con discapacidad cognitiva;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV.- Las personas con una discapacidad visual total, discapacidad auditiva total o mudez;
 
 V.- Los que no entiendan el idioma que habla el testador;
 
@@ -5397,9 +5415,13 @@ ART. 1399.- Cuando el testador declare que no sabe o no puede firmar el testamen
 
 ART. 1400.- (DEROGADO, P.O. 18 DE ABRIL DE 2004)
 
-ART. 1401.- El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento, si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-ART. 1402.- Cuando sea ciego el testador, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en el artículo 1397 y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+ART. 1401.- La persona con una discapacidad auditiva total, que pueda leer, deberá dar lectura a su testamento, si no designará una persona que lo lea a su nombre.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ART. 1402.- Cuando el testador tenga una discapacidad visual total, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en el artículo 1397 y otra en igual forma por uno de los testigos u otra persona que el testador designe.
 
 ART. 1403.- Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 1388. La traducción se transcribirá como testamento en el Protocolo respectivo y el original se archivará en el Apéndice correspondiente del Notario que intervenga en el acto.
 
@@ -5445,7 +5467,9 @@ ART. 1416.- El sordo-mudo podrá hacer testamento cerrado con tal que esté todo
 
 ART. 1417.- En el caso del artículo anterior, si el testador no puede firmar la cubierta se observará lo dispuesto en los artículos 1313 y 1414 dando fe el Notario de la elección que el testador haga de uno de los testigos para que firme por él.
 
-ART. 1418.- El que sea sólo mudo o sólo sordo puede hacer testamento cerrado con tal que esté escrito de su puño y letra, o si ha sido escrito por otro, la anote así el testador, y firme la nota de su puño y letra, sujetándose a las demás solemnidades precisas para esta clase de testamentos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ART. 1418.- La persona que tenga discapacidad auditiva total o mudez puede hacer testamento cerrado con tal que esté escrito de su puño y letra, o si ha sido escrito por otro, la anote así el testador, y firme la nota de su puño y letra, sujetándose a las demás solemnidades precisas para esta clase de testamentos.
 
 ART. 1419.- El testamento cerrado que carezca de alguna de las formalidades sobredichas, quedará sin efectos, y el Notario será responsable en los términos del artículo 1405.
 
@@ -8713,7 +8737,7 @@ ART. 2479.- El mandante puede eixgir (sic) la devolución del instrumento o escr
 
 El mandante que descuide exigir los documentos que acrediten los poderes, del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 
-ART. 2480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
+ART. 3480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
@@ -9593,8 +9617,6 @@ ART. 2768.- El derecho y la obligación que resultan de la prenda son indivisibl
 
 ART. 2769.- Extinguida la obligación principal, sea por el pago, sea por cualquiera otra cosa legal, queda extinguido el derecho de prenda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ART. 2769 BIS.- En materia penal, cuando el Juez imponga una garantía económica y la misma se constituya mediante prenda, ésta sólo se admitirá cuando se trate de muebles no perecederos y de fácil depósito, debiendo exhibir el constituyente la factura original solicitando su ratificación o promover la evaluación pericial del objeto, para demostrar que éste posee un valor dos veces mayor al monto de la garantía económica impuesta.
@@ -9692,8 +9714,6 @@ ART. 2795.- Cuando el crédito hipotecario exceda de cinco mil pesos, la hipotec
 ART. 2796.- La acción hipotecaria prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
 ART. 2797.- La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios, y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre los bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -10630,3 +10650,37 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 346.- POR EL QUE SE REFORMA EL ARTÍCULO 58 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 348.- POR EL QUE SE ADICIONA UN PÁRRAFO AL ARTÍCULO 173 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 349.- POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34-5 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado dispondrá lo necesario para realizar las modificaciones a los formatos de acta de nacimiento en un periodo que no exceda de 60 días a partir de la publicación del presente decreto.
+
+TERCERO.- Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 350.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO IV, DEL TÍTULO NOVENO DEL LIBRO PRIMERO, ASÍ COMO LOS ARTÍCULOS 1184, 1193, 1194, 1387, FRACCIONES III Y IV, 1401, 1402 Y 1418, DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO."]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente decreto.
