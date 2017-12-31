@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2017-10-09"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -303,7 +303,9 @@ III. Formular, expedir, aplicar y evaluar el Programa Estatal de Protección al 
 
 IV. Elaborar, publicar y actualizar el Atlas Estatal de Riesgo, en coordinación con los municipios, conforme a los criterios emitidos por la Federación;
 
-V. Regular el aprovechamiento sustentable, la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que la Federación hubiese asignado al Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V.- Regular el aprovechamiento sustentable, así como fomentar la prevención, uso, captación y aprovechamiento del agua de lluvia y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que la Federación hubiese asignado al Estado;
 
 VI. Elaborar y publicar las Normas Técnicas Ecológicas Estatales a que se refiere esta Ley;
 
@@ -475,11 +477,15 @@ XXIV. La expedición de licencias de uso de suelo conforme a los lineamientos es
 
 XXV. La participación en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando se realicen en el ámbito de su circunscripción territorial;
 
-XXVI. Exigir por sí o a través de los organismos operadores del agua, la instalación de sistemas de tratamiento a quienes exploten, usen o aprovechen aguas federales asignadas a los municipios para la prestación de servicios públicos, así como a quienes viertan descargas a los sistemas municipales de drenaje y alcantarillado, de aguas residuales que no satisfagan la normatividad ambiental;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXVI. Exigir por sí o a través de los organismos operadores del agua, la instalación de sistemas de uso, captación y aprovechamiento de agua de lluvia, sistemas de tratamiento a quienes exploten, usen o aprovechen aguas federales asignadas a los municipios para la prestación de servicios públicos, así como a quienes viertan descargas a los sistemas municipales de drenaje y alcantarillado, de aguas residuales que no satisfagan la normatividad ambiental; cuando se habla de aguas estatales se deberá hacer referencia el que los municipios separen las aguas pluviales y las aguas residuales, la pluviales deberán ser canalizadas a drenes naturales así como a resumideros existentes o fabricados y las aguas residuales deberán ser canalizadas a sistemas de tratamiento a cielo abierto -oxidación- y plantas de tratamiento de aguas.
 
 XXVII. La implementación y operación por sí o a través de los organismos operadores del agua, sistemas municipales de tratamiento de aguas residuales provenientes de sistemas de drenaje y alcantarillado;
 
-XXVIII. La regulación en el ámbito de su competencia, por sí o a través de los organismos operadores del agua, en coordinación con las autoridades competentes, de las actividades de riego agrícola y de riego de áreas verdes o recreativas, con aguas residuales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXVIII. La regulación en el ámbito de su competencia, por sí o a través de los organismos operadores del agua, en coordinación con las autoridades competentes, de las actividades de riego agrícola y de riego de áreas verdes o recreativas, con aguas residuales y con el uso, captación y aprovechamientos de agua de lluvia.
 
 XXIX. La aplicación por sí o a través de los organismos operadores del agua, en las obras e instalaciones municipales destinadas al tratamiento de aguas residuales, de los criterios que emitan las autoridades federales y estatales, para que las descargas en cuerpos y corrientes de agua que pasen al territorio de otro municipio u otra entidad federativa, den cumplimiento a la normatividad ambiental;
 
@@ -3268,3 +3274,11 @@ P.O. 9 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 223 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO."]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DE "DECRETO NUM. 325 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN DEL MEDIO AMBIENTE DEL ESTADO DE HIDALGO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo
