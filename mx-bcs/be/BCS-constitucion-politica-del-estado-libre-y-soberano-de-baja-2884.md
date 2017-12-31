@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2017-07-20"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE JULIO DE 2017.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL B.O. EL 20 DE JULIO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 2458 PUBLICADO EN EL B.O. DE 17 DE JULIO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -695,9 +693,9 @@ II.- Quedan comprendidas bajo la jurisdicción del Estado las Islas que a contin
 
 Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en el Océano Pacífico; Cerralvo, Santa Catalina o Catalana, San Juan Nepomuceno, Espíritu Santo, San José de Sta. Cruz, del Carmen, Coronados, San Marcos y Tortugas, situadas en el Golfo de California y, además, las islas, islotes y cayos adyacentes localizados entre los paralelos 28° y 22° 30' norte.
 
-> <small>(REFORMADO, B.O. 10 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-35.- La ciudad de La Paz es la Capital del Estado y la Sede Oficial de los Poderes Públicos de la entidad.
+35.- La ciudad de La Paz es la Capital del Estado y la Sede Oficial de los Poderes de la Entidad, los cuales cambiarán de residencia sólo por razones de fuerza mayor o los que determine la Ley.
 
 ## TITULO QUINTO. DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
 
@@ -1061,11 +1059,15 @@ XII.- Decidir sobre las solicitudes de renuncia que formulen los diputados y Gob
 
 XIII.- Declarar cuando alguna Ley o acto del Gobierno Federal invada la soberanía del Estado y solicitar al Titular del Poder Ejecutivo Estatal que haga la reclamación que corresponda.
 
-XIV.- Cambiar la sede de los Poderes del Estado;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIV.- Cambiar la sede de los Poderes del Estado, exclusivamente por razones de fuerza mayor o los que determine la ley.
 
 XV.- Ejercer las facultades que le otorga la Constitución General de la República en relación a la Guardia Nacional;
 
-XVI.- Determinar las características y el uso del Escudo Estatal;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XVI.- Determinar las características y el uso del escudo estatal y otros símbolos oficiales.
 
 XVII.- Solicitar la comparecencia de funcionarios públicos para que informen, cuando se discuta o estudie un negocio relativo a su dependencia;
 
@@ -1105,7 +1107,7 @@ De no reunirse la votación requerida se presentará una nueva terna dentro de u
 
 > <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
 
-En caso de que la segunda terna propuesta no alcance la votación requerida, se presentará una tercera terna dúrante los diez días siguientes, donde se elegirá el integrante representante del Congreso para el Consejo de la Judicatura por la mayoría de los integrantes presentes del Congreso.
+En caso de que la segunda terna propuesta no alcance la votación requerida, se presentará una tercera terna durante los diez días siguientes, donde se elegirá el integrante representante del Congreso para el Consejo de la Judicatura por la mayoría de los integrantes presentes del Congreso.
 
 > <small>(ADICIONADO, B.O. 31 DE JULIO DE 2016)</small>
 
@@ -1119,7 +1121,9 @@ XXIII.- Autorizar la participación del Gobernador en comisiones interestatales 
 
 XXIV.- Autorizar al Gobernador para celebrar convenios con la Federación y con los Ayuntamientos del Estado.
 
-XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servicios a la entidad o a la humanidad;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XXV.- Otorgar la medalla al Mérito Ciudadano" Profra. María Rosaura Zapata Cano", en términos de la ley correspondiente.
 
 > <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -1259,13 +1263,21 @@ En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta
 
 Las propuestas presentadas deberán reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia; y sólo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de ésta Constitución.
 
-> <small>(REFORMADA, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XLVI.- Ratificar, con el voto de las dos terceras partes de los miembros que concurran a la sesión, en un plazo de cinco días naturales a partir de que los reciba, el nombramiento que el Gobernador haga del Procurador General de Justicia y del Contralor General, así como del Titular de la Fiscalía Especializada en materia de combate a la Corrupción de la Procuraduría General de Justicia del Estado. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+XLVI.- Ratificar, con el voto de las dos terceras partes de los miembros que concurran a la sesión, en un plazo de cinco días naturales a partir de que los reciba, el nombramiento que el Gobernador haga del Procurador General de Justicia y del Contralor General. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+
+> <small>(REFORMADO, B.O. 28 DE FEBRERO DE 2017)</small>
 
 El Congreso del Estado podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente;
 
-Previamente a la ratificación o no ratificación por el Congreso del Estado, las personas nombradas por el Gobernador del Estado para ocupar los cargos de Procurador General de Justicia del Estado y de Fiscal Especializado en Materia de Combate a la Corrupción de la Procuraduría General de Justicia del Estado, deberán de comparecer ante el Pleno del Poder Legislativo
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Previamente a la ratificación o no ratificación por el Congreso del Estado, la persona nombrada por el Gobernador del Estado para ocupar el cargo de Procurador General de Justicia del Estado y de Contralor General deberá de comparecer ante el Pleno del Poder Legislativo.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XLVI bis.- Elegir, con el voto de las dos terceras partes de los miembros que concurran a la sesión, al Titular de la Fiscalía Especializada en materia de combate a la Corrupción de la Procuraduría General de Justicia del Estado, quien deberá de comparecer ante el Pleno del Poder Legislativo.
 
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 
@@ -1273,7 +1285,7 @@ XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciud
 
 > <small>(REFORMADA, B.O. 27 DE ABRIL DE 2016)</small>
 
-XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitucion y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
+XLVIII.- Elegir al Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; así como a los Comisionados del organismo garante denominado Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, y a los miembros del Consejo Consultivo de dicho organismo, con arreglo en esta Constitución y de conformidad al procedimiento indicado para ello en las leyes respectivas, según sea el caso;
 
 (ADICIONADA, B.O. 25 DE NOVIEMBRE DE 2006) (F. DE E., B.O. 31 DE DICIEMBRE DE 2006)
 
@@ -1425,9 +1437,15 @@ VII.- No estar comprendido en alguna de las prohibiciones establecidas por el ar
 
 70.- El Gobernador del Estado durará en su encargo seis años e iniciará el ejercicio de sus funciones el día 10 de septiembre.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+
 71.- Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:
 
-"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Baja California Sur y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Baja California Sur. Si así no lo hiciere, que el pueblo me lo demande".
+"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE BAJA CALIFORNIA SUR Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR DEL ESTADO QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NACION Y DEL ESTADO DE BAJA CALIFORNIA SUR, SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
+
+Al rendir protesta, el Gobernador del Estado lo hará sobre los ejemplares facsimilares de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución que al efecto se hallen bajo resguardo del Poder Ejecutivo, de conformidad con la ley correspondiente.
+
+El Congreso del Estado no podrá declarar sede distinta ni recinto oficial diferente al de su residencia habitual tratándose de la toma de protesta del Gobernador del Estado.
 
 72.- En caso de falta absoluta del Gobernador del Estado ocurrida en los dos primeros años del período respectivo, si el Congreso del Estado estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo las dos terceras partes del número total de sus miembros, designará por votación secreta y por mayoría absoluta de votos, un Gobernador Interino, expidiendo el propio Congreso del Estado, dentro de los diez días siguientes al de la designación del Gobernador Interino, la convocatoria para la elección del Gobernador que habrá de concluir el período correspondiente. Entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones deberá haber un plazo no menor de seis meses, ni mayor de doce.
 
@@ -1497,9 +1515,9 @@ III.- Nombrar y remover libremente a los Secretarios del Despacho, y demás func
 
 IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de los Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias por mas de un mes o sus renuncias o remociones a la aprobación del propio Congreso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-V.- Presentar a consideración del Congreso del Estado, la propuesta para la designación del Procurador General de Justicia, Fiscal Especializado en materia de Combate a la Corrupción, y Contralor General, y una vez ratificados, expedir los nombramientos respectivos, pudiéndolos remover libremente por causa justificada.
+V.- Presentar a consideración del Congreso del Estado, la propuesta para la designación del Procurador General de Justicia y Contralor General, y una vez ratificados, expedir los nombramientos respectivos, pudiéndolos remover libremente por causa justificada.
 
 En el caso de que el Congreso del Estado resuelva no ratificar las propuestas de nombramiento efectuadas en dos ocasiones, podrá designarlos libremente;
 
@@ -1553,7 +1571,7 @@ XVIII.- Contratar obligaciones y empréstitos con la aprobación del Congreso de
 
 > <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
-Sin perjuicio de lo anterior, el Ejecutivo del Estado podrá contratar obligaciones para cubrir necesidades de corto plazo, sin rebasar los limites máximos y condiciones establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
+Sin perjuicio de lo anterior, el Ejecutivo del Estado podrá contratar obligaciones para cubrir necesidades de corto plazo, sin rebasar los límites máximos y condiciones establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 > <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -1717,7 +1735,7 @@ III.- Ser de notoria buena conducta, no haber sido condenado por sentencia irrev
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
-IV.- Tener Titulo de Licenciado en Derecho, expedido por Institución legalmente facultada para ello; con Cedula Profesional, y tener como mínimo 10 años de ejercicio profesional;
+IV.- Tener Título de Licenciado en Derecho, expedido por Institución legalmente facultada para ello; con Cedula Profesional, y tener como mínimo 10 años de ejercicio profesional;
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -1735,55 +1753,65 @@ VII.- Gozar de buena salud; y
 
 VIII.- Abstenerse de hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
 
-> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-IX.- Previamente a su ratificación o no ratificación por el Congreso del Estado, presentar y aprobar las evaluaciones de control de confianza que se determinen en el marco del Sistema Nacional de Seguridad Pública.
+IX.- Previamente a su ratificación o no ratificación deberá presentar y aprobar las evaluaciones de control de confianza que se determinen en el marco del Sistema Nacional de Seguridad Pública.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, B.O. 31 DE DICIEMBRE DE 2017]</small>
+
+Respecto del Fiscal Especializado en materia de Combate a la Corrupción, previamente a su nombramiento, deberá presentar y aprobar las evaluaciones de control de confianza que se determinen en el marco del Sistema Estatal de Seguridad Pública.
 
 85.-
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
 
-A. El Ministerio Público estará a cargo del Procurador General de Justicia, Fiscal Especializado en materia de Combate a la Corrupción, de agentes del Ministerio Público y de la Policía Ministerial, en los términos de su Ley Orgánica.
+A. El Ministerio Público estará a cargo del Procurador General de Justicia, Fiscal Especializado en materia de Combate a la Corrupción, de Agentes del Ministerio Público y de la Policía Ministerial, en los términos de su Ley Orgánica.
 
 Son atribuciones del Ministerio Público:
 
-I.- Ejercitar ante los Tribunales del Estado, las acciones que correspondan contra las personas que violen las leyes de interés público;
+I.- Ejercitar ante los Tribunales del Estado, las acciones que correspondan contra las personas que violen las Leyes de interés público.
 
-II.- Intervenir en la forma y términos que la ley disponga, en los juicios que afecten a personas a quienes la ley otorga especial protección; y
-
-> <small>(REFORMADA, B.O. 30 DE ABRIL DE 1981)</small>
+II.- Intervenir en la forma y términos que la Ley disponga, en los juicios que afecten a personas a quienes la Ley otorga especial protección.
 
 III.- Defender los intereses del Estado ante los Tribunales, excepto en lo relativo a la Hacienda Pública.
 
-> <small>(ADICIONADO, B.O. 13 DE SEPTIEMBRE DE 2013)</small>
-
 Es facultad del Procurador General de Justicia del Estado proponer al Consejo Estatal de Seguridad Pública del Estado, los criterios de política criminal necesarios para el mejoramiento de la seguridad pública, procuración e impartición de justicia en el Estado Libre y Soberano de Baja California Sur.
-
-> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
 
 La Procuraduría General de Justicia contará con una Fiscalía Especializada en materia de Combate a la Corrupción de ésta Entidad Federativa con autonomía técnica y de gestión, basada en la facultad exclusiva de la Fiscalía para, de manera autónoma determinar los casos o personas a investigar, las acciones de investigación e indagación que considere necesarias llevar a cabo y el ejercicio exclusivo para ejercer acción penal ante las autoridades judiciales competentes en los casos que así lo concluya.
 
-> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
-
 El titular de la Fiscalía Especializada en materia de Combate a la Corrupción será nombrado y removido conforme al siguiente procedimiento:
 
-> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
+El Congreso del Estado a través de la Mesa Directiva llamará a integrar una Comisión de Selección, conformada por:
 
-A propuesta del Gobernador del Estado, se designará al titular de la Fiscalía Especializada en materia de Combate a la Corrupción de la Procuraduría General de Justicia del Estado, por el voto de las dos terceras partes de los miembros presentes en el Congreso del Estado dentro del plazo que señala esta Constitución.
+a) Un representante del Poder Judicial del Estado;
 
-> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
+b) El Presidente del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción;
 
-El Fiscal Especializado en materia de Combate a la Corrupción de la Procuraduría General de Justicia durará en su encargo cuatro años y únicamente podrá ser removido por las causas graves que establezca la ley.
+c) Un representante de la Universidad Autónoma de Baja California Sur;
 
-> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
+d) Un representante de la Asociación o Colegio de Abogados con mayor número de miembros en el Estado; y
+
+e) Un representante de la Procuraduría General de Justicia.
+
+Una vez integrada la Comisión de Selección, ésta emitirá la convocatoria para los interesados a formar parte de la terna a ocupar el cargo de Fiscal especializado en combate a la corrupción para el Estado de Baja California Sur, la cual contendrá los requisitos que se determinan en el artículo 84 de esta Constitución.
+
+Respecto a los exámenes de Control de Confianza que alude al artículo 84, será solicitado por la Comisión previo a turnar la terna.
+
+Una vez que la Comisión reúna todos los expedientes de los interesados, asegurándose que cumplen con los requisitos de procedibilidad, elegirán de entre ellos una terna, la cual se enviará a la Junta de Gobierno y Coordinación Política del Congreso del Estado.
+
+Recibida la terna, la Junta determinará si los candidatos reúnen finalmente los requisitos de elegibilidad. Si es así, los integrantes de la terna podrán ser llamados a comparecer ante el pleno y se llevará la votación en el pleno.
+
+Si alguno de los integrantes de la terna no cumple con los requisitos de elegibilidad, la Junta de Gobierno y Coordinación Política requerirá a la Comisión de Selección para que en un término de 15 días, designe otro integrante en sustitución.
+
+Para el caso de que ninguno de los integrantes de la terna sometida al Pleno del Congreso alcance la votación requerida, la Junta de Gobierno solicitará a la Comisión de Selección le proponga en un plazo de 15 días una nueva terna para someterla ante el Pleno.
+
+En el supuesto que en la segunda terna no alcance nuevamente la votación requerida, la designación recaerá directamente en el Ejecutivo.
+
+La protesta de ley se hará ante el Pleno y su duración en el cargo será de 7 años, tendrá nivel administrativo de Subprocurador. Podrá ser removido libremente por causas graves por el Ejecutivo y para su permanencia le serán aplicables las mismas disposiciones y obligaciones que a cualquier otro servidor público del Sistema Estatal de Seguridad Pública.
 
 La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
-
 El Procurador General de Justicia presentará anualmente al Congreso del Estado y al Ejecutivo Estatal un informe de actividades, y comparecerá ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión.
-
-> <small>(ADICIONADO, B.O. 28 DE FEBRERO DE 2017)</small>
 
 El Procurador General, los Fiscales Especializados y/o Regionales y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
@@ -1967,7 +1995,7 @@ II.- La Comisión Legislativa dictaminadora deberá solicitar al Pleno del Tribu
 
 De igual forma, deberá solicitar al magistrado sujeto a evaluación la información y documentación que considere pertinente, pudiendo además, solicitar a personas e instituciones públicas y privadas, todo tipo de información relativa al desempeño del cargo del magistrado, y estas quedan obligadas a proporcionar en breve término.
 
-III.- Una vez reunida la documentación a que se refieren las fracciones I y II de este articulo, lo (sic) Comisión dictaminadora, deberá emitir el dictamen de evaluación correspondiente, en el cual se deberá señalar si el Magistrado posee los atributos que se le reconocieron al habérsele designado, cumpliendo los requisitos satisfechos para su nombramiento y si se actualiza o no alguno o algunos de los supuestos previstos en el artículo 93 de esta Constitución, así como contener todos aquellos elementos objetivos que den a conocer, si durante el desempeño de su trabajo cotidiano, lo ha ejercido de manera pronta, completa e imparcial, como expresión de diligencia, excelencia profesional y honestidad invulnerable;
+III.- Una vez reunida la documentación a que se refieren las fracciones I y II de este artículo, lo (sic) Comisión dictaminadora, deberá emitir el dictamen de evaluación correspondiente, en el cual se deberá señalar si el Magistrado posee los atributos que se le reconocieron al habérsele designado, cumpliendo los requisitos satisfechos para su nombramiento y si se actualiza o no alguno o algunos de los supuestos previstos en el artículo 93 de esta Constitución, así como contener todos aquellos elementos objetivos que den a conocer, si durante el desempeño de su trabajo cotidiano, lo ha ejercido de manera pronta, completa e imparcial, como expresión de diligencia, excelencia profesional y honestidad invulnerable;
 
 IV.- El Congreso del Estado con base en lo anterior, resolverá en definitiva sobre su reelección o no reelección al menos quince días antes de que concluya el periodo para el que fue electo dicho funcionario judicial, con una votación de mayoría absoluta.
 
@@ -2131,7 +2159,7 @@ Estos bienes son inalienables, imprescriptibles e inembargables y no están suje
 
 ### CAPITULO II. DE LA HACIENDA PUBLICA
 
-105.- La Hacienda Pública del Estado está constituída por:
+105.- La Hacienda Pública del Estado está constituida por:
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
 
@@ -4130,3 +4158,25 @@ B.O. 17 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2464.- SE REFORMA EL ARTÍCULO TRANSITORIO SEXTO DEL DECRETO NÚMERO 2427, POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, PARA EL ESTABLECIMIENTO DEL SISTEMA ESTATAL ANTICORRUPCIÓN Y SU IMPLEMENTACIÓN, EN EL CONTEXTO Y BAJO LOS PRINCIPIOS DEL SISTEMA NACIONAL ANTICORRUPCIÓN, PUBLICADO EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 28 DE FEBRERO DE 2017; Y EL ARTÍCULO TRANSITORIO PRIMERO APARTADO A DEL ARTÍCULO TRANSITORIO SEGUNDO Y EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 2449 POR EL CUAL SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, DE FECHA 27 DE JUNIO DE 2017”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2509.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2513.- SE REFORMAN Y ADICIONAN LOS NUMERALES 36, 64, FRACCIONES XIV, XVI, XXV Y 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, Y SE EXPIDE LA LEY DE SÍMBOLOS Y PROTOCOLOS OFICIALES DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se abroga la Ley sobre las características y el uso del Escudo de Baja California Sur, así como los decretos y disposiciones en las partes en que se opongan al presente.
+
+Artículo Tercero.- El Congreso del Estado, dentro de los 60 días hábiles siguientes a la entrada en vigor de esta Ley, realizará una convocatoria estatal para elegir la letra, música del Himno y el Lema.
+
+Los plazos de la convocatoria deberán ajustarse de tal modo que la obra que resulte ganadora de acuerdo con las bases establecidas por el Congreso del Estado, pueda ser interpretada en la sesión solemne conmemorativa del 44 aniversario de la conversión de Baja California Sur, de territorio a Estado Libre y Soberano.
+
+Artículo Cuarto.- Se abrogan todos los decretos relativos a los traslados de Poderes, a los otorgamientos de medallas y reconocimientos emitidos por el Congreso del Estado de Baja California Sur, previo a la expedición del presente decreto. Con excepción de los decretos 1416, respecto al otorgamiento de la Medalla María Dionisia Villarino Espinoza y los decretos 202 y 1284, mediante los cuales se cambia temporalmente la sede de los Poderes del Estado de Baja California Sur a las poblaciones de Mulegé y Loreto.
