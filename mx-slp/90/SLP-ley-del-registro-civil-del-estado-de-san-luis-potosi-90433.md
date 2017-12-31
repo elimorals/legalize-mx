@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2017-10-21"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -1003,27 +1005,35 @@ Celebrado el matrimonio, el Oficial remitirá copia del acta al titular de la Of
 
 ### CAPÍTULO VI. De las Actas de Divorcio
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO 388 PUBLICADO P.O. 31 DE DICIEMBRE DE 2013 Y REFORMADO POR P.O. 18 DE NOVIEMBRE DE 2014.</small>
-
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 110.
 
 De la sentencia ejecutoria que decrete un divorcio judicial, se remitirá copia certificada a la Dirección para que realice la anotación marginal correspondiente en el acta de matrimonio, y al oficial donde se celebró el matrimonio, para que se asiente el acta correspondiente.
 
-En el caso de divorcio voluntario por la vía administrativa, se presentará solicitud por escrito, ante los Oficiales que sean autorizados por la Dirección y en los formatos que para el efecto determine el Reglamento de esta Ley. La solicitud será firmada por ambos cónyuges, en donde protestarán que cumplen con los requisitos que prevé el artículo 102 del Código Familiar para el Estado, y el Reglamento de la presente Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-El Oficial autorizado que conozca de la solicitud, citará a los interesados dentro de los cinco días hábiles siguientes a fin de que ratifiquen la misma, apercibiéndoles que en caso de comprobarse que al momento de solicitar el divorcio por esta vía, no se actualizaba cualquiera de los requisitos exigidos por la ley, la resolución será nula de pleno derecho; lo anterior con independencia de las sanciones civiles o penales a las que sean acreedores.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-En la citación a que se refiere el plazo anterior, los solicitantes presentarán dos testigos, mismos que serán identificados y apercibidos para conducirse con verdad, quienes manifestarán que saben y les consta que los cónyuges cumplen con los requisitos previstos por la ley.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-Cumplidas todas las formalidades, el Oficial del Registro Civil dictará el acuerdo administrativo correspondiente, asentándolo en el acta de divorcio, de la cual remitirá copia a la Dirección para que realice las anotaciones marginales que correspondan de acuerdo con lo dispuesto por el Reglamento de esta Ley.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
-### CAPÍTULO VII. De las Actas de Defunción; y Actuaciones Relativas
+### CAPÍTULO VI BIS. DEL PROCEDIMIENTO DEL DIVORCIO VOLUNTARIO POR VÍA ADMINISTRATIVA
 
-### CAPÍTULO VIII. De las Actas de Inscripción de Sentencias
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 110 BIS (SIC). En el caso de divorcio voluntario por la vía administrativa, se presentará solicitud por escrito, ante los oficiales que sean autorizados por la Dirección, y en los formatos que para el efecto determine el Reglamento de esta Ley. La solicitud será firmada por ambos cónyuges, en donde protestarán que cumplen con los requisitos que prevé el artículo 102 del Código Familiar para el Estado, y el Reglamento de esta Ley.
+
+El Oficial autorizado que conozca de la solicitud citará a los interesados dentro de los cinco días hábiles siguientes, a fin de que ratifiquen la misma, apercibiéndoles que en caso de comprobarse que al momento de solicitar el divorcio por esta vía, no se actualizaba cualquiera de los requisitos exigidos por la ley, la resolución será nula de pleno derecho; lo anterior con independencia de las sanciones civiles o penales a las que sean acreedores.
+
+En la citación a que se refiere el plazo anterior, los solicitantes presentarán dos testigos, mismos que serán identificados y apercibidos para conducirse con verdad, quienes manifestarán que saben y les consta que los cónyuges cumplen con los requisitos previstos por la ley.
+
+Cumplidas todas las formalidades, el Oficial del Registro Civil dictará el acuerdo administrativo correspondiente, asentándolo en el acta de divorcio, de la cual remitirá copia a la Dirección para que realice las anotaciones marginales que correspondan de acuerdo con lo dispuesto por esta Ley, y su Reglamento.
+
+### CAPÍTULO VII. De las Actas de Defunción; y Actuaciones Relativas
 
 ###### ARTÍCULO 111.
 
@@ -1038,6 +1048,8 @@ Extendida el acta por el Oficial, remitirá copia de la misma al del lugar en qu
 ###### ARTÍCULO 113.
 
 Cuando se trate de un acta de divorcio emitida por autoridad extranjera se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado, y las leyes federales de la materia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 #### Sección Primera. De las Actas de Defunción
 
@@ -1149,9 +1161,7 @@ Si por algún motivo fuese negado el permiso, los interesados lo comunicarán al
 
 El Oficial del Registro Civil que reciba un acta de defunción levantada en otra Entidad Federativa, la transcribirá en el libro correspondiente y expedirá la orden de inhumación o cremación.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+### CAPÍTULO VIII. De las Actas de Inscripción de Sentencias
 
 ###### ARTÍCULO 131.
 
@@ -1181,7 +1191,9 @@ El Oficial a quien se comunique que una tutela registrada en los libros a su car
 
 ## TÍTULO QUINTO. DE LAS ENMIENDAS ADMINISTRATIVAS
 
-### CAPÍTULO I. De los Registros Extemporáneos de Nacimiento
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 136.
 
@@ -1245,7 +1257,7 @@ Contra la resolución administrativa que determine la corrección de algún vici
 
 ## TÍTULO SEXTO. DE LOS REGISTROS EXTEMPORÁNEOS
 
-### CAPÍTULO II. De los Registros Extemporáneos de Defunción
+### CAPÍTULO I. De los Registros Extemporáneos de Nacimiento
 
 ###### ARTÍCULO 145.
 
@@ -1289,9 +1301,7 @@ Las actas correspondientes a los registros extemporáneos de nacimiento contendr
 
 En los demás casos el registro extemporáneo de nacimiento deberá tramitarse ante instancias del Poder Judicial, en los términos previstos por la ley de la materia.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
+### CAPÍTULO II. De los Registros Extemporáneos de Defunción
 
 ###### ARTÍCULO 151.
 
@@ -1304,6 +1314,8 @@ El término ordinario para el registro de defunción deberá ser de veinticuatro
 ## TÍTULO SÉPTIMO. DE LOS ACTOS DEL ESTADO CIVIL CELEBRADOS POR MEXICANOS EN EL EXTRANJERO
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2014)</small>
 
 ###### ARTÍCULO 153.
 
@@ -1356,6 +1368,8 @@ Las inspecciones deberán ser realizadas en presencia del Oficial, el inicio y l
 Con los resultados de la supervisión, el Director ordenará las medidas pertinentes, para el caso de que existan irregularidades.
 
 ## TÍTULO NOVENO. DE LAS SANCIONES
+
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 161.
 
@@ -1497,8 +1511,18 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 21 DE OCTUBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 731.- SE ADICIONAN LOS ARTÍCULOS 128 Y 135 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMA EL ARTÍCULO 116 Y ADICIONAN A LOS 114 Y 116 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 731.- SE ADICIONAN LOS ARTÍCULOS 128 Y 135 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y SE REFORMA EL ARTÍCULO 116 Y ADICIONAN A LOS 114 Y 116 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 868.- SE ADICIONA EL CAPÍTULO VI BIS "DEL PROCEDIMIENTO DEL DIVORCIO VOLUNTARIO POR VÍA ADMINISTRATIVA" A LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos de divorcio voluntario en la vía administrativa iniciados con anterioridad a la entrada en vigor de este Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
