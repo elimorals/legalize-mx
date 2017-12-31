@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2017-03-16"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -36,8 +36,6 @@ QUE LA QUINCUAGESIMA QUINTA LEGISLATURA DEL ESTADO SE HA SERVIDO DIRIGIRME EL SI
 DECRETO 254
 
 LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
-
-...
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
@@ -189,9 +187,9 @@ f) Contratos de mutuo entre particulares, con garantía prendaria o hipotecaria,
 
 g) Cesión de los derechos derivados de los actos y contratos a que se refiere el inciso f) anterior. La base del impuesto será el monto de los actos jurídicos y la tasa, a razón de tres al millar;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-h) Otorgamiento, sustitución, renuncia o revocación de poderes. El impuesto se pagará a razón de 5 veces el valor de la UMA vigente, por cada otorgante;
+h) Otorgamiento, sustitución, renuncia o revocación de poderes. El impuesto se pagará a razón de 3 veces el valor de la UMA vigente, por cada otorgante;
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -213,9 +211,9 @@ l) Transmisión por enajenación, donación o sucesión de títulos accionarios,
 
 II. Cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto estatal, así como las actas notariales que contengan certificación de hechos. La base del impuesto será el número de fojas y se pagará a razón de una vez el valor de la UMA vigente, por foja;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-III. Cualquier acto o contrato otorgado fuera del Estado que produzca o pueda producir efectos dentro del territorio de San Luis Potosí, o en el que se señale algún punto del mismo para el cumplimiento de las obligaciones estipuladas, se cobrará conforme a las tarifas vigentes. La base del impuesto será el capital, en caso de que lo haya y, la tasa, a razón de tres al millar. Si no hubiere capital, la base será el número de fojas y se pagará a razón de una vez el valor de la UMA vigente, por foja;
+III. Cualquier acto o contrato otorgado fuera del Estado que produzca o pueda producir efectos dentro del territorio de San Luis Potosí, o en el que se señale algún punto del mismo para el cumplimiento de las obligaciones estipuladas, se cobrará conforme a las tarifas vigentes. La base del impuesto será el capital en caso de que lo haya y, la tasa a razón de tres al millar. Si no hubiere capital la base será el número de fojas y se pagará a razón de 3 veces el valor de la UMA vigente, por foja;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -371,11 +369,11 @@ En el caso de la fracción II de este artículo, las personas morales que contra
 
 Para efectos del presente artículo se entenderá por personas morales, a todas aquéllas que tengan reconocido este carácter por la ley, en términos del artículo 20 del Código Civil para el Estado de San Luis Potosí, incluyendo en forma enunciativa y no limitativa, a las entidades de la administración pública municipal, estatal y federal. Asimismo, se entenderá como personas morales obligadas en términos de este precepto, a las asociaciones en participación y todas aquellas personas que con el carácter de fiduciarios contraten cualesquiera servicios personales, con cargo a un patrimonio fideicomitido.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-###### ARTICULO 21.
+###### ARTÍCULO 21.
 
-Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los gobiernos federal, estatal y municipal, los organismos descentralizados, los desconcentrados, los autónomos y los fideicomisos de los tres órdenes de gobierno.
+Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los gobiernos federal, estatal y municipal , los organismos descentralizados, los desconcentrados, los autónomos, instituciones educativas y los fideicomisos de los tres órdenes de gobierno.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -773,9 +771,7 @@ IX. Por envío de actas del Registro Civil fuera del Estado, pero dentro del pa�
 
 X. Por la expedición de constancias de inexistencia del acta de nacimiento se pagara 4.4;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-XI. Por legalización de exhorto, 0.55;
+XI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2017)
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -789,9 +785,9 @@ XIII. Por la legalización de firmas en las tarifas de establecimientos turísti
 
 XIV. La autorización de tarifas en los establecimientos mencionados en esta fracción se otorgará por la Dirección Estatal de Turismo, para cuyo efecto será necesaria la conformidad de los Servicios Coordinados de Salud Pública en el Estado;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XV. Por la legalización de firmas de notario y otras autoridades administrativas, 2.62;
+XV. Por la legalización de exhorto, legalización de firmas de notario y otras autoridades administrativas; 4.64;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -837,9 +833,9 @@ La inscripción de instrumentos jurídicos en el Instituto Registral y Catastral
 
 I. Títulos de propiedad:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-a) De bienes inmuebles, cuya base será el avalúo o reavalúo con una antigüedad o vigencia no mayor a seis meses, contados a partir en que se efectúen, emitido por la Dirección de Catastro municipal del ayuntamiento correspondiente; o bien el precio de la operación, si éste es mayor que el del avalúo o reavalúo catastral, se pagará a razón de 2.5 al millar sobre el excedente.
+a) De bienes inmuebles, cuya base será el avalúo o reavalúo con una antigüedad o vigencia no mayor a seis meses, contados a partir en que se efectúen, emitido por la Dirección de Catastro Municipal del ayuntamiento correspondiente; o bien, el precio de la operación, si éste es mayor que el del avalúo o reavalúo catastral, se pagará a razón de 2.5 al millar.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -870,6 +866,10 @@ V. Declaraciones o sentencias judiciales que ordenen la cancelación o modificac
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 VI. Cualquier otro instrumento jurídico en el que se declare la ineficacia de los documentos inscritos, sobre la base que corresponda, pagarán el 50% a razón de 2.5 al millar.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+En lo que se refiere a las fracciones I, II, III, IV y VI en ningún caso será menor a 5 veces el valor de la UMA vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -1657,9 +1657,9 @@ Serán de carácter gratuito el empadronamiento, traspaso, cambio de actividades
 
 En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión o sucesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-Por el cambio de domicilio, tratándose de licencias para la venta y suministro de bebidas alcohólicas, para consumo inmediato pagarán 275 veces el valor de la UMA vigente; y tratándose de licencias para la venta en botella cerrada se pagarán 165 veces el valor de la UMA vigente.
+Por el cambio de domicilio, tratándose de licencias para la venta y suministro de bebidas alcohólicas de alta graduación, para consumo inmediato pagarán 275 veces el valor de la UMA vigente; tratándose de licencias para la venta y suministro de bebidas alcohólicas de media graduación, para consumo inmediato pagarán 137.5 veces el valor de la UMA vigente; tratándose de licencias para la venta en envase cerrado de alta graduación se pagarán 165 veces el valor de la UMA vigente y tratándose de licencias para la venta y suministro de bebidas alcohólicas de media graduación, para la venta en envase cerrado pagarán 82.5 veces el valor de la UMA vigente.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2801,11 +2801,17 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 El Periódico Oficial y otras publicaciones y ediciones se venderán conforme a la siguiente tarifa expresada en UMA vigente:
 
-I. Cada número actual, 0.25;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-II. Cada número atrasado, 0.50;
+I. Cada número actual, 0.30;
 
-III. Suscripción por seis meses, 9.50; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+II. Cada número atrasado, 0.60;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III. Suscripción por seis meses, 11.40, y
 
 IV. Otras publicaciones y ediciones, con base en su costo, a criterio de la Secretaría de Finanzas.
 
@@ -3298,3 +3304,11 @@ Para el ejercicio fiscal 2019, éstas deberán contar con un veinte por ciento d
 Para el ejercicio fiscal 2020, éstas deberán contar con un treinta por ciento del total de sus recursos, que tenga como origen una fuente legal diversa al financiamiento otorgado con cargo al Presupuesto de Egresos del Estado.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 767.- SE REFORMAN LOS ARTÍCULOS, 14, 21, 38, 40, 68 Y 120, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
