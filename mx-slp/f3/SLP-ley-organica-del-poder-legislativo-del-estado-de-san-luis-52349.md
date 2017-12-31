@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2017-10-30"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1597,7 +1597,9 @@ I. Recibir de la Directiva o de la Diputación Permanente, en su caso, las cuent
 
 II. Ser el conducto de comunicación entre el Congreso del Estado y la Auditoría Superior del Estado;
 
-III. Recibir los informes que le presente la Auditoría Superior del Estado, y remitirlos junto con sus respectivos dictámenes a la Directiva, exclusivamente para los efectos que previene el artículo 66 de la Ley de la Auditoría Superior del Estado, y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III. Recibir los informes que le presente la Auditoría Superior del Estado, y remitirlos junto con sus respectivos dictámenes a la Directiva, exclusivamente para los efectos que previene el artículo 40 de la Ley de Fiscalización y Rendición de Cuentas, y demás disposiciones aplicables;
 
 IV. Evaluar el cumplimiento de los objetivos y metas del programa operativo anual de la Auditoría Superior del Estado, así como auditar por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
 
@@ -1613,9 +1615,15 @@ IX. Evaluar si la Auditoría Superior del Estado cumple con las funciones que co
 
 X. Informar al Pleno en forma trimestral, y en sus recesos a la Diputación Permanente, sobre el avance de las actividades de vigilancia que le competen;
 
-XI. Contar con los servicios de apoyo técnico o asesoría que apruebe la Junta, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XII. Las demás que establezca esta Ley y demás disposiciones legales aplicables, así como la normatividad interior del Congreso.
+XI. Contar con los servicios de apoyo técnico o asesoría que apruebe la Junta;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XII. Designar al titular, y a los servidores públicos de la Unidad de Evaluación y Control, con los requisitos, procedimientos y plazo que establece la Ley de Fiscalización y Redición (sic) de Cuentas del Estado; así como formular y proponer el reglamento respectivo, y
+
+XIII. Las demás que establezca esta Ley y demás disposiciones legales aplicables, así como la normatividad interior del Congreso.
 
 #### Sección Tercera. De los Comités
 
@@ -1799,6 +1807,10 @@ d) La Coordinación de Comunicación Social, dependiente de la Directiva: a la q
 
 e) La Contraloría Interna, dependiente de la Junta: a la que corresponde la evaluación y control del desempeño de los servidores públicos del Congreso; así como la sustanciación de los procedimientos de responsabilidad administrativa en que incurran los mismos y la imposición de las sanciones correspondientes, para lo cual deberá llevar un registro relativo a las sanciones impuestas e inhabilitación para desempeñar empleos, cargos o comisiones de los servidores públicos, así como los medios de impugnación y su resolución con carácter definitivo, responsabilizándose de realizar la captura, así como envío oportuno y veraz de la información a la Auditoría Superior del Estado, para ser inscrito en el Registro Estatal de Servidores Públicos Sancionados e Inhabilitados, en términos de la Ley de Responsabilidades de los Servidores Públicos. De su competencia quedan exceptuados los integrantes de la Asamblea Legislativa.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+f) Unidad de Evaluación y Control, dependiente de la Comisión de Vigilancia, a la que le corresponde vigilar que los servidores públicos de la Auditoría Superior del Estado desempeñen sus funciones en los términos de los artículos, 94, y 95 de la Ley de Fiscalización y Rendición de Cuentas; así como aquellas que le asigne la propia Comisión.
+
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 127.
@@ -1826,6 +1838,10 @@ a) Informes mensuales al Oficial Mayor.
 b) El informe de la Cuenta Pública Anual del Congreso a la Junta, y
 
 V. Los titulares de los órganos de apoyo: informes trimestrales de actividades, que se presentarán ante su superior jerárquico inmediato.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+En el caso de la Unidad de Evaluación y Control, ésta deberá rendir informe anual de su gestión a la Comisión de Vigilancia.
 
 ###### ARTICULO 129.
 
@@ -2452,5 +2468,13 @@ P.O. 30 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0708.- SE REFORMA (SIC) LOS ARTÍCULOS 57, 124, 127 Y 128; Y DEROGA DE LOS ARTÍCULOS 127 SUS PÁRRAFOS, PRIMERO, SEGUNDO, CUARTO, Y SEXTO, Y 128 SUS FRACCIONES, I, Y II, Y PÁRRAFO ÚLTIMO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; ASÍ MISMO SE DEROGA EL ARTÍCULO 54, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 859.- SE REFORMAN LOS ARTÍCULO (SIC) 118, 126 Y 128, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
