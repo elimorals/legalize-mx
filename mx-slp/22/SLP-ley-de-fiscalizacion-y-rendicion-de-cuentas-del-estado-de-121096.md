@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12109
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-10"
-last_updated: "2017-04-10"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 10 de abril de 2017.
 
@@ -1225,7 +1225,9 @@ El titular de la unidad será responsable administrativamente ante la comisión,
 
 Para el ejercicio de las atribuciones que tiene conferidas la Unidad, contará con la estructura que determine la comisión de acuerdo con la capacidad presupuestal.
 
-El Reglamento de la Unidad será formulado y expedido por la Comisión.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+El Reglamento de la Unidad será formulado y propuesto por la Comisión.
 
 ###### ARTÍCULO 99.
 
@@ -1288,3 +1290,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 859 POR EL QUE “SE REFORMA EL ARTÍCULO 98 EN SU PÁRRAFO SEGUNDO, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
