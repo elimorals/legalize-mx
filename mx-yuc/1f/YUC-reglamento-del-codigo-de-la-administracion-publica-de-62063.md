@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2017-12-20"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -547,7 +547,7 @@ II. La Coordinación General de Asesores, que estará conformada por:
 
 a) La Coordinación de Asesores;
 
-b) La Coordinación de Proyectos Estratégicos, y
+b) (DEROGADO, D.O. 31 DE DICIEMBRE DE 2017)
 
 c) La Coordinación de Asuntos Internacionales.
 
@@ -733,7 +733,9 @@ I. Brindar asesoría y apoyo técnico al Gobernador para el adecuado desempeño 
 
 II. Supervisar los discursos y mensajes públicos del Gobernador y opinar, previa solicitud, sobre aquellos que les correspondan a los titulares de las dependencias o entidades de la Administración Pública estatal;
 
-III. Vigilar el adecuado desarrollo de los proyectos estratégicos definidos por el Gobernador;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III. Proponer al Gobernador la definición de proyectos estratégicos y verificar, en coordinación con los titulares de las dependencias o entidades de la Administración Pública estatal responsables, su adecuado desarrollo;
 
 IV. Representar al Poder Ejecutivo del estado ante instituciones nacionales e internacionales, cuando así lo determine el Gobernador;
 
@@ -743,9 +745,23 @@ VI. Impulsar el establecimiento de vínculos de coordinación y cooperación con
 
 VII. Fomentar la relación con los representantes consulares que se encuentren en el estado y brindar, en el ámbito de su competencia, las facilidades necesarias para el adecuado ejercicio de sus funciones;
 
-VIII. Organizar la agenda internacional del Gobernador y los viajes nacionales e internacionales que necesite realizar para impulsar el desarrollo del estado, y elaborar los informes correspondientes, y
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2017)</small>
 
-IX. Las demás que le confiera el Gobernador y establezcan las demás disposiciones legales y normativas aplicables.
+VIII. Organizar la agenda internacional del Gobernador y los viajes nacionales e internacionales que necesite realizar para impulsar el desarrollo del estado, y elaborar los informes correspondientes;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IX. Establecer mecanismos de coordinación con los sectores público, privado y social para la gestión de recursos que permitan el diseño, implementación, seguimiento y evaluación de proyectos estratégicos;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2017)</small>
+
+X. Brindar asesoría y apoyo técnico a las dependencias y entidades de la Administración Pública estatal, y a las autoridades municipales que lo soliciten, en la definición, diseño, implementación, seguimiento y evaluación de proyectos estratégicos;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XI. Colaborar, en el ámbito de su competencia, con el Gobierno federal en el desarrollo de los proyectos prioritarios que tengan injerencia en el estado, y
+
+XII. Las demás que le confiera el Gobernador y establezcan las demás disposiciones legales y normativas aplicables.
 
 > <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
@@ -763,25 +779,9 @@ IV. Colaborar en el desarrollo de los estudios y las investigaciones que permita
 
 V. Las demás que le confiera el Coordinador General de Asesores y establezcan este reglamento y las demás disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
-
 ###### Artículo 26 Quater.
 
-El Coordinador de Proyectos Estratégicos tendrá las siguientes facultades y obligaciones:
-
-I. Proponer la definición de proyectos estratégicos y verificar, en coordinación con los titulares de las dependencias o entidades de la Administración Pública estatal responsables, su adecuado desarrollo;
-
-II. Sugerir los criterios para asignar a los proyectos la calidad de estratégico así como para definir la prioridad en su implementación;
-
-III. Establecer mecanismos de coordinación para impulsar el diseño, implementación, seguimiento y evaluación de proyectos estratégicos, así como para agilizar la toma decisiones al respecto;
-
-IV. Colaborar, en el ámbito de su competencia, con el Gobierno federal en el desarrollo de los proyectos prioritarios que tengan injerencia en el estado;
-
-V. Brindar asesoría y apoyo técnico a las dependencias y entidades de la Administración Pública estatal, y a las autoridades municipales que lo soliciten, en la definición, diseño, implementación, seguimiento y evaluación de proyectos estratégicos;
-
-VI. Participar, en coordinación con las autoridades estatales competentes, en la gestión de recursos provenientes de los sectores público, privado y social para el desarrollo de proyectos estratégicos en el estado, y
-
-VII. Las demás que le confiera el Coordinador General de Asesores y establezcan este reglamento y las demás disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 2017)
 
 > <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
@@ -13254,3 +13254,15 @@ El gobernador deberá expedir, en un plazo de ciento ochenta días naturales, co
 Tercero. Nombramiento de los directores
 
 Los directores de los centros penitenciarios serán los servidores públicos que, a la entrada en vigor de este decreto, tengan el cargo de director de alguno de los centros de reinserción social del estado.
+
+D.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 576/2017 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA AGENCIA PARA EL DESARROLLO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2018, previa publicación del diario oficial del estado.
+
+Segundo. Transferencia de la Coordinación de Proyectos Estratégicos
+
+A partir de la entrada en vigor de este decreto deberá iniciarse el proceso de transferencia de la Coordinación de Proyectos Estratégicos del Despacho del Gobernador a la Agencia para el Desarrollo de Yucatán, con base en las disposiciones del Decreto 482/2017 por el que se expiden los Lineamientos para los procesos de entrega-recepción, transferencia y desincorporación de la Administración Pública del estado.
