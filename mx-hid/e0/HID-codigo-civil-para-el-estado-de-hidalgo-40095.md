@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "2017-06-26"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -14625,9 +14625,9 @@ Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen 
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2941, no tuviere inmuebles, no gozará el acreedor más que del privilegio mencionado en el artículo 3001, fracción I, salvo lo dispuesto en el Capítulo IX, del título IX, del libro primero.
 
-### CAPITULO I.
+### CAPÍTULO IV BIS. De la Hipoteca Inversa
 
-Disposiciones Generales.
+ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)
 
 ###### Art. 2946.
 
@@ -14659,13 +14659,97 @@ La hipoteca extinguida por dación en pago, revivirá si el pago queda sin efect
 
 En los casos del artículo anterior, si el registro hubiere sido ya cancelado, revivirá solamente desde la fecha de la nueva inscripción; quedando siempre a salvo al acreedor el derecho para ser indemnizado por el deudor, de los daños y perjuicios que se le hayan seguido.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+### CAPITULO I.
+
+Disposiciones Generales.
+
+###### Artículo 2949 Bis.
+
+La hipoteca inversa es aquel contrato que tiene por objeto el pago mensual y vitalicio de una suma de dinero determinada que se concede a un deudor hipotecario, o en su caso, a un beneficiario, dejando como garantía un bien inmueble de su propiedad, en el cual tenga su residencia habitual.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 2949 Ter.
+
+Para tener el carácter de deudor hipotecario o beneficiario se deberán cumplir con los requisitos siguientes:
+
+I. El deudor hipotecario o su beneficiario tengan una edad igual o superior a los 60 años;
+
+II. Sólo podrán ser beneficiarios del deudor hipotecario su cónyuge, concubina o concubinario;
+
+III. El deudor hipotecario o el beneficiario deberán de contar con una constancia que acredite que se encuentran en pleno goce de sus facultades mentales para poder celebrar el contrato;
+
+IV. Los bienes inmuebles dados en garantía deberán estar asegurados para cubrir cuando menos el saldo insoluto del crédito; y
+
+V. En el caso de que el deudor hipotecario se encuentre casado bajo el régimen de sociedad conyugal, deberá de contar con la autorización expresa de su cónyuge y también suscribir el contrato.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 2949 Quater.
+
+Podrán tener el carácter de acreedor hipotecario las instituciones privadas, sociales, las personas físicas y las instituciones públicas, que tengan capacidad o competencia legal para ello.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Artículo 2949 Quinquiés.- Para fijar el monto del crédito, se realizará un avalúo sobre el bien inmueble por perito o institución certificada para ello, en el que se considere el valor comercial de mercado, debiendo considerar el valor futuro del mismo, así como el incremento del valor del inmueble conforme a las condiciones del mercado de la zona de los últimos cinco años.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 2949 Sexies.
+
+En el contrato de hipoteca inversa que celebren el deudor y el acreedor hipotecarios, se deberá incluir un incremento del monto del pago mensual de cuando menos igual al índice de inflación vigente y se deberá efectuar a más tardar en los meses de marzo, debiendo cubrir la diferencia de los meses del año corriente que no se hubieren pagado conforme al monto actualizado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 2949 Septies.
+
+Los gastos para el mantenimiento del bien inmueble serán cubiertos por el acreedor hipotecario y en ningún caso deberán ser con cargo al deudor hipotecario.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 2949 Octies.
+
+El contrato de hipoteca inversa terminará anticipadamente sin penalización alguna para el deudor hipotecario o beneficiario, cuando este cubra el monto recibido por el acreedor hipotecario incluyendo los intereses que se generen por el capital. Los intereses serán solamente sobre las cantidades que efectivamente dispusieron el deudor hipotecario o su beneficiario.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 2949 Nonies.
+
+El contrato de hipoteca inversa puede terminar:
+
+I. Por fallecimiento del deudor hipotecario o, en su caso, de su beneficiario;
+
+II. Por razones de movilidad del deudor hipotecario o su beneficiario, esto es, cuando sea necesario cambiar de residencia o que los cuidados que requiera hagan inhabitable el bien inmueble objeto de la hipoteca, siempre que la causa de la movilidad este respaldada por un fedatario o un ministerio público o ante una autoridad judicial;
+
+III. Por constituir una nueva hipoteca inversa sobre el mismo inmueble; y
+
+IV. Por no efectuar la actualización y el pago oportuno del monto mensual conforme a lo previsto en el Artículo 2949 Sexies.
+
+En el supuesto previsto en la fracción I, el o los herederos del deudor hipotecario podrán pagar la totalidad del adeudo existente, sin compensación por la cancelación del gravamen y pago del adeudo. Sin embargo, en el caso de que no realicen (sic) el pago, el acreedor hipotecario podrá hacer efectiva la garantía hasta donde alcance el bien inmueble hipotecado, siempre que hayan transcurrido seis meses después del fallecimiento de deudor hipotecario o su beneficiario.
+
+En el caso de actualizarse las fracciones II o III o IV, se declarará vencido a la fecha en la que se generen esos supuestos y será exigible a la fecha, excepto que se sustituya por una garantía idéntica en un plazo de dos meses.
+
+Finalmente tratándose de la fracción V, el deudor hipotecario podrá exigir el pago de los daños y perjuicios y de la pena estipulada en el contrato, teniéndose la deuda totalmente liquidada con la correspondiente obligación de liberar el gravamen.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### Artículo 2949 Decies.
+
+En el caso de fallecimiento del deudor hipotecario o, en su caso, de su beneficiario prevista (sic) en la fracción I del artículo 2949 Nonies, tendrán las personas que legítimamente represente los derechos sucesorios, los siguientes derechos y obligaciones:
+
+I. Extraer el menaje del bien inmueble objeto de la hipoteca inversa dentro del plazo de 40 días naturales contados a partir de la fecha de fallecimiento;
+
+II. Preferencia para la compra del bien inmueble;
+
+III. Participar en la proporción que le corresponda del remanente que pueda resultar una vez que se cubra lo pendiente; y
+
+IV. Ejercer un seguro para cubrir los gastos de defunción que se preverá en el contrato de hipoteca inversa por el fallecimiento del deudor hipotecario y, en su caso, su beneficiario.
+
 TITULO DECIMOSEPTIMO.
 
 DE LAS TRANSACCIONES.
-
-### CAPITULO II.
-
-De los Créditos Hipotecarios y Pignoraticios y de algunos otros Privilegiados.
 
 ###### Art. 2950.
 
@@ -14765,9 +14849,9 @@ TERCERA PARTE.
 
 DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS.
 
-### CAPITULO III.
+### CAPITULO II.
 
-De algunos Acreedores Preferentes sobre Determinados Bienes.
+De los Créditos Hipotecarios y Pignoraticios y de algunos otros Privilegiados.
 
 ###### Art. 2970.
 
@@ -14849,9 +14933,9 @@ Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados e
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-Acreedores de Primera Clase.
+De algunos Acreedores Preferentes sobre Determinados Bienes.
 
 ###### Art. 2986.
 
@@ -14917,9 +15001,9 @@ II.- Si los acreedores hubieren hecho novación de la deuda o de cualquier otro 
 
 Los acreedores que obtuvieren la separación de bienes, no podrán entrar al concurso del heredero, aunque aquéllos no alcancen a cubrir sus créditos.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-Acreedores de Segunda Clase.
+Acreedores de Primera Clase.
 
 ###### Art. 2999.
 
@@ -14945,9 +15029,9 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX.- Los créditos anotados en el Registro de la Propiedad, en virtud del mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
-### CAPITULO VI.
+### CAPITULO V.
 
-Acreedores de Tercera Clase.
+Acreedores de Segunda Clase.
 
 ###### Art. 3000.
 
@@ -14965,9 +15049,9 @@ V.- El crédito por alimentos fiados al deudor para su subsistencia y la de su f
 
 VI.- La responsabilidad civil en la parte que comprende el pago de los gastos de curación o de los funerales del ofendido y las pensiones que por concepto de alimentos se deban a sus familiares. En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de cosa ajena, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-Acreedores de Cuarta Clase.
+Acreedores de Tercera Clase.
 
 ###### Art. 3001.
 
@@ -14979,19 +15063,17 @@ II.- Los créditos del erario que no estén comprendidos en el artículo 2986, y
 
 III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPITULO I.
+### CAPITULO VII.
 
-De su Organización.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
+Acreedores de Cuarta Clase.
 
 ###### Art. 3002.
 
 Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De los Títulos Sujetos a Registro y de los Efectos Legales del Registro.
+De su Organización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
@@ -15015,9 +15097,9 @@ DEL REGISTRO PUBLICO.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
-### CAPITULO III.
+### CAPITULO II.
 
-Del Registro de la Propiedad Inmueble y de los Títulos Inscribibles y Anotables.
+De los Títulos Sujetos a Registro y de los Efectos Legales del Registro.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
@@ -15059,9 +15141,9 @@ Del Registro de la Propiedad Inmueble y de los Títulos Inscribibles y Anotables
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
-### CAPITULO IV.
+### CAPITULO III.
 
-Del Registro de Operaciones sobre Bienes Muebles.
+Del Registro de la Propiedad Inmueble y de los Títulos Inscribibles y Anotables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
@@ -15349,9 +15431,9 @@ De la Extinción de Asientos.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
 
-### CAPITULO V.
+### CAPITULO IV.
 
-Del Registro de Personas Morales.
+Del Registro de Operaciones sobre Bienes Muebles.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
@@ -15554,6 +15636,12 @@ Del Sistema Registral.
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE CREA LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO, P.O. 22 DE DICIEMBRE DE 2014.)</small>
+
+### CAPITULO V.
+
+Del Registro de Personas Morales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 261, P.O. 22 DE DICIEMBRE DE 2014.</small>
 
 ###### Art. 3081.
 
@@ -15816,3 +15904,9 @@ P.O. 26 DE JUNIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 324 POR EL QUE SE ADICIONAN DIVERSOS ARTÍCULOS AL CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
