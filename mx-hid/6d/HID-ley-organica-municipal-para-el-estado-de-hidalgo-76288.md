@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2017-10-09"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -381,9 +381,9 @@ III.- Dos Vocales Ejecutivos uno que asumirá las funciones del Síndico hacenda
 
 IV.- Cinco vocales quienes asumirán las funciones de los regidores, sin importar el número de habitantes del Municipio, independientemente de los vocales ejecutivos.
 
-Cuando la falta absoluta del Ayuntamiento sea en el primer año, el Congreso del Estado, designará un Concejo Municipal Interino y notificará lo actuado al Consejo General del Instituto Estatal Electoral, para que éste convoque, en un plazo de noventa días, a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el período.
+Cuando la falta absoluta del Ayuntamiento sea en el primer año, el Congreso del Estado, designará un Concejo Municipal Interino y notificará lo actuado al Consejo General del Instituto Estatal Electoral, para que éste convoque, en un plazo de noventa días, a elecciones extraordinarias para elegir al Ayuntamiento que deba terminar el periodo.
 
-Si la falta absoluta del Ayuntamiento, acontece en los dos últimos años, el Congreso del Estado nombrará un Concejo Municipal sustituto que termine el período.
+Si la falta absoluta del Ayuntamiento, acontece en los dos últimos años, el Congreso del Estado nombrará un Concejo Municipal sustituto que termine el periodo.
 
 Si el Congreso del Estado no estuviere en periodo ordinario, la Diputación Permanente lo convocará a sesión extraordinaria para los efectos anteriores.
 
@@ -945,7 +945,9 @@ t).- Proporcionar los servicios de seguridad, protección civil y de bomberos a 
 
 u).- Ejercitar, en casos urgentes, las acciones judiciales que competan al Municipio;
 
-v).- Imponer administrativamente a los servidores públicos Municipales, respetando la garantía de audiencia, las correcciones disciplinarias que fijen las Leyes y Reglamentos, con motivo de las faltas y responsabilidades administrativas en que incurran en el desempeño de sus funciones;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+v).- Ejecutar las sanciones que se impongan al servidor público de base por faltas administrativas no graves en términos de la legislación aplicable, así como aquellas que imponga el Tribunal por faltas administrativas graves;
 
 w).- Ejercer las funciones del Registro del Estado Familiar o delegarlas en el funcionario idóneo que designe;
 
@@ -1899,27 +1901,33 @@ VIII.- Cumplir con las obligaciones que en su caso, le impongan los convenios o 
 
 IX.- Inspeccionar que las obras que en forma directa o en participación con otros organismos realice el Municipio y que se ajusten a las especificaciones previamente fijadas;
 
-X.- Recepcionar y registrar las declaraciones patrimoniales que deban presentar los servidores públicos del Gobierno Municipal; verificar y practicar las investigaciones que fueren pertinentes respecto del cumplimiento de esta obligación, de acuerdo con las Leyes y Reglamentos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XI.- Substanciar los procedimientos administrativos que resulten con motivo de la falta de presentación de las declaraciones patrimoniales a que se encuentran obligados los servidores públicos Municipales, conforme a la Ley de Responsabilidades de los Servidores Públicos para el Estado;
+X.- Recepcionar, registrar y resguardar las declaraciones de situación patrimonial y de intereses y en su caso la fiscal anual, que deban presentar los servidores públicos; y practicar las investigaciones que fueren pertinentes respecto del cumplimiento de esta obligación, de acuerdo con las leyes y reglamentos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XI.- Substanciar los procedimientos administrativos que resulten con motivo de la falta de presentación de las declaraciones de situación patrimonial y de intereses que se encuentran obligados los servidores públicos;
 
 XII.- Designar a los auditores externos y comisarios de los Organismos que integran la Administración Pública Municipal Descentralizada;
 
 XIII.- Informar al Presidente Municipal el resultado de las evaluaciones realizadas y proponer las medidas correctivas que procedan;
 
-XIV.- Fincar las responsabilidades administrativas que previene la Ley de Responsabilidades de los Servidores Públicos para el Estado, en contra de los servidores públicos Municipales, para lo cual deberá:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-a).- Conocer e investigar los actos, omisiones o conductas de los servidores públicos que puedan constituir responsabilidades administrativas;
+XIV.- conocer los actos u omisiones que pudieran constituir faltas administrativas en contra de servidores y ex servidores públicos y de particulares, para lo cual deberá:
 
-b).- Iniciar y desahogar el procedimiento administrativo disciplinario correspondiente;
+a) Recibir denuncias por presuntas faltas administrativas;
 
-c).- Pronunciar si existe responsabilidad del servidor público sujeto a procedimiento;
+b) Investigar la presunta responsabilidad administrativa de faltas administrativas, de oficio, por denuncia o derivados de auditorías;
 
-d).- Someter el asunto a la decisión del Presidente Municipal, para que en su carácter de superior jerárquico, imponga la sanción que corresponda;
+c) Determinar la existencia o inexistencia de presunta responsabilidad administrativa;
 
-e).- Aplicar las sanciones que imponga el Presidente Municipal, en los términos que las leyes señalen; y
+d) Calificar las faltas administrativas;
 
-f).- Utilizar las medidas de apremio que marca la Ley de Responsabilidades, para el debido cumplimiento de las sanciones impuestas;
+e) Iniciar, sustanciar y en su caso, resolver los procedimientos de responsabilidad administrativa; y
+
+f) Imponer y ejecutar las sanciones administrativas, cuando así corresponda.
 
 XV.- Interponer las denuncias correspondientes ante el Ministerio Público cuando, de las investigaciones realizadas, se desprenda la comisión de uno o más delitos perseguibles de oficio;
 
@@ -3268,3 +3276,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los 84 Ayuntamientos de la Entidad, preverán en el Presupuesto de Egresos 2018, la partida presupuestal que contemple la operación de la Dirección de Ecología y Medio Ambiente.
 
 TERCERO. A partir de la entrada en vigor, en un plazo de hasta noventa días hábiles los 84 Ayuntamientos de la Entidad, realizarán la reglamentación correspondiente al artículo 118 BIS y 118 QUATER, en función de la autonomía municipal y la condición propia de cada municipio.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 412.- POR EL QUE SE REFORMA EL INCISO V DEL ARTÍCULO 60 Y LAS FRACCIONES X, XI, XIV DEL ARTÍCULO 106 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
