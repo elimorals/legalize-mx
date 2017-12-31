@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-seguridad-publica-51222
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-07-31"
-last_updated: "2016-07-11"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de julio de 2006.
 
@@ -1376,3 +1378,31 @@ P.O. 11 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE “REGLAMENTOS INTERIORES DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente reglamento, se abroga el Reglamento Interior de la Secretaría de Seguridad Pública del Estado de Aguascalientes, publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de julio de 2006, y todas sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Lo no previsto en este Reglamento será resuelto por los reglamentos adicionales y manuales respectivos.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la publicación de este Reglamento deberán de ser expedidos los manuales de cada una de las áreas administrativas de la Secretaría que los necesiten en un plazo no mayor a ciento ochenta días.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que actualmente estén en curso ante las unidades administrativas cuya denominación se modifica, continuarán hasta su conclusión, de conformidad con las disposiciones vigentes al momento de su inicio, con la salvedad de que los trámites los desahogarán las unidades administrativas que ahora cuenten con las competencias correspondientes.
+
+###### ARTÍCULO SEXTO.
+
+A partir del inicio de vigencia del presente ordenamiento quedan derogadas las disposiciones reglamentarias que se opongan al mismo.
