@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-789
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2016-12-31"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 24 de enero de 2011.
 
@@ -115,9 +115,17 @@ a).- La elaboración de inventarios de los residuos sólidos urbanos y de manejo
 
 b).- En la determinación de los costos de las distintas etapas de operación de los servicios de limpia;
 
-c).- En la definición de los mecanismos de cobro y tarifas correspondientes; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-d).- En la Implementación de los esquemas administrativos para recabar el pago por los servicios de recolección, transporte, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial
+c).- En la definición de los mecanismos de cobro y tarifas correspondientes;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+d).- En la Implementación de los esquemas administrativos para recabar el pago por los servicios de recolección, transporte, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+e).- En la planificación, puesta en marcha, evaluación y seguimiento de programas que permitan la gestión integral de residuos de alimentos acorde a lo establecido por la normatividad vigente.
 
 ###### Artículo 6.
 
@@ -235,9 +243,17 @@ VII.- El manejo de residuos sólidos en sus etapas de transferencia y selección
 
 VIII.- El diseño, construcción y operación de estaciones de transferencia, plantas de selección y sitios de disposición final de residuos sólidos urbanos y de manejo especial;
 
-IX.- El cierre de los tiraderos, controlados y no controlados, de residuos sólidos urbanos y de manejo especial, así como, la remediación de los sitios en los que se encuentran ubicados, cuando sea el caso; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-X.- La reutilización, reciclaje, tratamiento y disposición final de envases y empaques, llantas usadas, papel y cartón, vidrio, residuos metálicos, plásticos y otros materiales.
+IX. El cierre de los tiraderos, controlados y no controlados, de residuos sólidos urbanos y de manejo especial, así como, la remediación de los sitios en los que se encuentran ubicados, cuando sea el caso;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+X. La reutilización, reciclaje, tratamiento y disposición final de envases y empaques, llantas usadas, papel y cartón, vidrio, residuos metálicos, plásticos y otros materiales; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XI. El manejo especializado y tecnificado de residuos alimentarios que permita en la medida de lo posible su reutilización, aprovechamiento y reciclaje orgánico en beneficio social, económico y ambiental.
 
 Al elaborar los referidos ordenamientos jurídicos se tomarán en cuenta los criterios de riesgo, realidad, gradualidad y flexibilidad, que hagan posible su cumplimiento eficaz y eficiente.
 
@@ -1282,3 +1298,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 417 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
