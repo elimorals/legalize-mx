@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2017-01-09"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -131,9 +129,9 @@ DE LA BASE
 
 Es base de este impuesto el monto total de los ingresos a que se refiere el Artículo 5 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-La Secretaría de Finanzas y Administración podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
+La Secretaría de Finanzas Públicas podrá determinar presuntivamente la base de este impuesto, en los siguientes casos:
 
 I.- Cuando no se presenten las declaraciones, no lleven los libros de registros o no expidan la documentación comprobatoria a que están obligados por las disposiciones federales o las establecidas en este capítulo;
 
@@ -157,25 +155,25 @@ Este impuesto se causará y pagará mediante la aplicación de la tasa del 2 % a
 
 DEL PAGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 9.
 
-La declaración y pago de este impuesto deberá realizarse, vía Internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, de manera bimestral, a más tardar, el día 17 del mes siguiente al bimestre en que se hubieran causado, y por los ingresos percibidos en dicho bimestre.
+La declaración y pago de este impuesto deberá realizarse, vía Internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas Públicas, de manera bimestral, a más tardar, el día 17 del mes siguiente al bimestre en que se hubieran causado, y por los ingresos percibidos en dicho bimestre.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-El pago de este impuesto podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las instituciones autorizadas por la Secretaría de Finanzas y Administración.
+El pago de este impuesto podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las instituciones autorizadas por la Secretaría de Finanzas Públicas.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar ante el Centro Regional de Atención al Contribuyente de su jurisdicción o vía internet la declaración en ceros que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 10.
 
-Son responsables solidarios quienes realicen pagos a contribuyentes eventuales de este impuesto por lo que deberán retenerlo, así como enterarlo a través de los medios autorizados por la Secretaría de Finanzas y Administración, a más tardar, el día 17 del mes de calendario siguiente al bimestre en que se causen.
+Son responsables solidarios quienes realicen pagos a contribuyentes eventuales de este impuesto por lo que deberán retenerlo, así como enterarlo a través de los medios autorizados por la Secretaría de Finanzas Públicas, a más tardar, el día 17 del mes de calendario siguiente al bimestre en que se causen.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -191,9 +189,13 @@ DE LAS OBLIGACIONES
 
 Los sujetos de este impuesto están obligados a:
 
-I.- Inscribirse en el Padrón Estatal de Contribuyentes, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración en el Centro Regional de Atención al Contribuyente de su jurisdicción dentro de los quince días hábiles siguientes a la fecha del inicio de sus actividades;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-II.- Dar aviso al Centro Regional de Atención al Contribuyente de su jurisdicción, en los casos de cambio de domicilio, aumento o disminución de obligaciones, así como, suspensión o cambio de la actividad dentro del mismo plazo señalado en la fracción I, el que se contará a partir de la fecha en que ocurra el movimiento, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración;
+I.- Inscribirse en el Padrón Estatal de Contribuyentes, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas en el Centro Regional de Atención al Contribuyente de su jurisdicción dentro de los quince días hábiles siguientes a la fecha del inicio de sus actividades;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+II.- Dar aviso al Centro Regional de Atención al Contribuyente de su jurisdicción, en los casos de cambio de domicilio, actualización de actividades económicas y obligaciones, así como de suspensión de actividades, dentro del mismo plazo señalado en la fracción I, el que se contará a partir de la fecha en que ocurra el movimiento, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas;
 
 III.- Presentar los avisos, documentos, datos e información que les soliciten las Autoridades Fiscales en relación con este impuesto, dentro de los plazos y en los lugares que éstas señalen para tal efecto;
 
@@ -285,11 +287,11 @@ Este impuesto se causará y pagará a la tasa de 0.13% sobre la base gravable.
 
 DEL PAGO
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 17.
 
-El impuesto se causará en el momento que se realice la adquisición de un vehículo usado y se pagará mediante declaraciones que deberán presentarse en cualquiera de las instituciones autorizadas o en las formas autorizadas por la Secretaría de Finanzas y Administración o vía internet, dentro de los quince días siguientes al de la fecha en que se realice la operación.
+El impuesto se causará en el momento que se realice la adquisición de un vehículo usado y se pagará mediante declaraciones que deberán presentarse en cualquiera de las instituciones autorizadas o en las formas autorizadas por la Secretaría de Finanzas Públicas o vía internet, dentro de los quince días siguientes al de la fecha en que se realice la operación.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -301,9 +303,13 @@ DE LAS OBLIGACIONES
 
 Para la recaudación de este impuesto, se observarán las siguientes reglas:
 
-I.- Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar en el Centro Regional de Atención al Contribuyente de su jurisdicción, en formato oficial aprobado por la Secretaría de Finanzas y Administración, los datos y documentos relativos de las operaciones; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-II.- Los Centros Regionales de Atención al Contribuyente, se cerciorarán de que se haya efectuado el pago de este impuesto mediante la exhibición, por parte del contribuyente, del comprobante expedido por la institución bancaria autorizada, de los datos del pago efectuado vía internet o la forma aprobada por la Secretaría de Finanzas y Administración en la que conste el pago efectuado.
+I. Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar en el Centro Regional de Atención al Contribuyente de su jurisdicción, en formato oficial aprobado por la Secretaría de Finanzas Públicas, los datos y documentos relativos de las operaciones; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+II. Los Centros Regionales de Atención al Contribuyente, se cerciorarán de que se haya efectuado el pago de este impuesto mediante la exhibición, por parte del contribuyente, del comprobante expedido por la institución bancaria autorizada, de los datos del pago efectuado vía internet o la forma aprobada por la Secretaría de Finanzas Públicas en la que conste el pago efectuado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -313,9 +319,9 @@ Son solidariamente responsables del pago de este impuesto.
 
 I.- Los enajenantes;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-II.- Los comisionistas, consignatarios o cualquiera otra persona que intervenga en las operaciones, salvo que demuestren fehacientemente que presentaron el aviso y anexos respectivos en las formas oficiales aprobadas por la Secretaría de Finanzas y Administración; y
+II. Los comisionistas, consignatarios o cualquiera otra persona que intervenga en las operaciones, salvo que demuestren fehacientemente que presentaron el aviso y anexos respectivos en las formas oficiales aprobadas por la Secretaría de Finanzas Públicas; y
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -385,9 +391,9 @@ Son sujetos del pago de este impuesto, las personas físicas y morales que reali
 
 También están obligados a retener y enterar este Impuesto las personas físicas o morales que contraten la prestación de servicios con empresas cuyo domicilio esté ubicado fuera de la Entidad, para que le proporcionen los trabajadores, siempre que el servicio personal se preste en el Territorio del Estado.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-En este caso, deberán entregar a la persona física o moral que le proporcione los trabajadores, la constancia de retención correspondiente debidamente avalada por la Secretaría de Finanzas y Administración.
+En este caso, deberán entregar a la persona física o moral que le proporcione los trabajadores, la constancia de retención correspondiente debidamente avalada por la Secretaría de Finanzas Públicas.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -423,13 +429,15 @@ DEL PAGO
 
 El impuesto, se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado; dicho impuesto se enterará a la Autoridad en la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-I.- Los contribuyentes que se encuentren en los supuestos establecidos en el artículo anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, de manera mensual, dentro del término que no rebase el día 17 del mes calendario siguiente al período de su causación.
+I.- Los contribuyentes que se encuentren en los supuestos establecidos en el artículo anterior, deberán realizar la declaración vía internet o a través de las formas oficiales aprobadas por la Secretaría de Finanzas Públicas, de manera mensual, dentro del término que no rebase el día 17 del mes calendario siguiente al periodo de su causación.
 
 II.- Para el caso de que durante el periodo a declarar, el contribuyente no cuente con base gravable, deberá presentar en el Centro Regional de Atención al Contribuyente de su jurisdicción o vía Internet, la declaración en ceros que corresponda.
 
-El pago podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas y Administración en las instituciones autorizadas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+El pago podrá efectuarse en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas Públicas en las instituciones autorizadas.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -441,13 +449,11 @@ DE LAS OBLIGACIONES
 
 Los contribuyentes de este impuesto tienen las obligaciones siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas y Administración, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma Secretaría en el Centro Regional de Atención al Contribuyente de su jurisdicción;
+I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas Públicas, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma Secretaría en el Centro Regional de Atención al Contribuyente de su jurisdicción;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su firma electrónica (FIEL) expedida por el Servicio de Administración Tributaria.
+Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su Firma Electrónica, expedida por el Servicio de Administración Tributaria.
 
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -457,7 +463,9 @@ II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en di
 
 III.- Las personas físicas o morales cuya matriz se encuentre ubicada fuera del territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Atención al Contribuyente correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentarán las declaraciones conforme a lo dispuesto en el Artículo 25 de esta Ley, en las que acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del Territorio del Estado; y
 
-IV.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal o cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre de negociación, fusión o escisión y/o aumento o disminución de obligaciones, dentro del término de treinta días siguiente (sic) al en que ocurra el hecho.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -581,11 +589,11 @@ Este impuesto se pagará y determinará mediante la aplicación de la tasa del 2
 
 DEL PAGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 32.
 
-El impuesto a que se refiere el presente Capítulo, se causará en el momento en que se presten los servicios de hospedaje y será retenido por el prestador cuando se reciba el pago de dichos servicios, debiendo enterarlo a la Secretaría de Finanzas y Administración, a más tardar, el día 17 del mes inmediato posterior a que este fue retenido.
+El impuesto a que se refiere el presente Capitulo, se causará en el momento en que se presten los servicios de hospedaje y será retenido por el prestador cuando se reciba el pago de dichos servicios, debiendo enterarlo a la Secretaría de Finanzas Públicas, a más tardar, el día 17 del mes inmediato posterior a que este fue retenido.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -595,9 +603,9 @@ Los prestadores del servicio de hospedaje trasladarán en forma expresa y por se
 
 Se entenderá por traslado del impuesto, el cobro a cargo que los contribuyentes realicen a las personas que reciban el servicio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-Los prestadores de los servicios a que se refiere este Capítulo, podrán efectuar el pago en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas y Administración aperturadas en las Instituciones autorizadas, dentro de los veinte días siguientes al mes inmediato posterior al en que se generó el impuesto.
+Los prestadores de los servicios a que se refiere este Capítulo, podrán efectuar el pago en efectivo, mediante tarjeta bancaria o transferencia electrónica de fondos en las cuentas de la Secretaría de Finanzas Públicas aperturadas en las Instituciones autorizadas, dentro de los veinte días siguientes al mes inmediato posterior al en que se generó el impuesto.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -609,21 +617,23 @@ DE LAS OBLIGACIONES
 
 Los prestadores de los servicios de hospedaje están obligados a:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas y Administración, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma secretaría;
+I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas Públicas, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma secretaría;
 
 II.- Trasladar el impuesto en forma expresa y por separado, en los comprobantes que señale el Código Fiscal del Estado;
 
-III.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, los avisos relativos a: Cambio de nombre o razón social, domicilio fiscal o cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre de negociación, fusión o escisión y/o aumento o disminución de obligaciones, dentro del término de treinta días siguientes al en que ocurra el hecho;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo;
 
 IV.- Expedir facturas desglosadas en las que se señale el monto del impuesto por la prestación del servicio de hospedaje;
 
 V.- Llevar un registro contable de los servicios que presten, de las contraprestaciones que reciban o se hagan exigibles y de los comprobantes de pago que expidan;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-VI.- Presentar declaraciones mensuales con carácter de definitivas, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración y efectuar los pagos que correspondan conforme a lo dispuesto por el Artículo 32 de este capítulo;
+VI.- Presentar declaraciones mensuales con carácter de definitivas, vía internet o mediante las formas oficiales aprobadas por la Secretaría de Finanzas Públicas y efectuar los pagos que correspondan conforme a lo dispuesto por el artículo 32 de este capítulo;
 
 VII.- En los casos en que las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del Territorio del Estado, deberán presentar una sola declaración en la que se acumulará la base gravable e impuestos a pagar por cada una de ellas en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la matriz.
 
@@ -693,7 +703,9 @@ IV.- Cuando se hayan tramitado los certificados de aeronavegabilidad ante las au
 
 El impuesto se determinará en forma anual, desde el momento en que el vehículo es adquirido por el propietario, o su uso o goce es otorgado al usuario.
 
-La Federación, las Entidades Federativas, el Distrito Federal, el Estado, los municipios, sus organismos descentralizados, organismos autónomos o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones establecidas en el artículo 40 de la presente Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+La Federación, las Entidades Federativas, la Ciudad de México, el Estado, los municipios, sus organismos descentralizados, organismos autónomos o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones establecidas en el artículo 40 de la presente Ley.
 
 Para los efectos de este Capítulo, se presume salvo prueba en contrario, que el propietario es tenedor o usuario del vehículo.
 
@@ -705,7 +717,9 @@ I.- Quienes por cualquier título adquieran la propiedad, tenencia o uso del veh
 
 II.- Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera;
 
-III.- Los servidores públicos competentes que autoricen la incorporación, actualización, refrendo y desincorporación al Registro Vehicular Estatal de vehículos objeto de este impuesto, así como la expedición de permisos provisionales, placas metálicas, tarjetas de circulación y engomados, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Hidalgo o del Impuesto Sobre Tenencia o Uso de Vehículos previsto en la legislación federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite con los medios idóneos que se encuentra liberado de la obligación que corresponda; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III.- Los servidores públicos competentes que autoricen la incorporación, actualización, refrendo y desincorporación al Registro Vehicular Estatal de vehículos objeto de este impuesto, así como la expedición de permisos provisionales, placas metálicas, tarjetas de circulación y engomados, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Hidalgo, correspondientes a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite con los medios idóneos que se encuentra liberado de la obligación que corresponda;
 
 IV.- Los copropietarios del vehículo.
 
@@ -741,9 +755,9 @@ de la Placa de Circulación
 
 Tratándose de propietarios o poseedores que se ubiquen en alguno de los supuestos contenidos en el artículo 36 una vez iniciado el ejercicio fiscal que corresponda, se considerará que el pago es realizado en forma no extemporánea cuando el contribuyente lo realice dentro de los 15 días hábiles siguientes a aquél en que se le hubiera transmitido la propiedad del vehículo, o se le otorgue el uso o goce del mismo. No obstante lo anterior, no pagarán el impuesto respectivo aquellos vehículos que, por la razón que corresponda, hubieran pagado con anterioridad en dicho ejercicio el impuesto respectivo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-En aquellos casos en que se hubiere pagado en otra Entidad Federativa un impuesto sobre la tenencia o uso de vehículos, no se pagará el impuesto a que se refiere este Capítulo por los ejercicios fiscales que corresponda. Para estos efectos, el contribuyente presentará los comprobantes de pagos respectivos, mismos que serán verificados en su autenticidad por la Secretaría de Finanzas y Administración ante las autoridades correspondientes de las entidades federativas de que se trate, y en los términos que ésta estime pertinentes.
+En aquellos casos en que se hubiere pagado en otra Entidad Federativa un impuesto sobre la tenencia o uso de vehículos, no se pagará el impuesto a que se refiere este Capítulo por los ejercicios fiscales que corresponda. Para estos efectos, el contribuyente presentará los comprobantes de pagos respectivos, mismos que serán verificados en su autenticidad por la Secretaría de Finanzas Públicas ante las autoridades correspondientes de las entidades federativas de que se trate, y en los términos que ésta estime pertinentes.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -821,7 +835,9 @@ I.- Los eléctricos, con motor accionado por hidrógeno y, en general, que utili
 
 II.- Los importados temporalmente, en los términos de la legislación aduanera;
 
-III.- Los vehículos de la Federación, de las Entidades Federativas, del Distrito Federal, del Estado, municipios, sus organismos descentralizados y organismos autónomos, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua o servicios funerarios; las ambulancias dependientes de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia, y los vehículos destinados a los cuerpos de bomberos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III. Los vehículos de la Federación, de las Entidades Federativas, de la Ciudad de México, del Estado, municipios, sus organismos descentralizados y organismos autónomos, que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua o servicios funerarios; las ambulancias dependientes de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia, y los vehículos destinados a los cuerpos de bomberos;
 
 IV.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre y cuando no se asignen dichos vehículos a su servicio o al de sus funcionarios o empleados y carezcan de placas de Circulación;
 
@@ -835,7 +851,9 @@ VIII.- La maquinaria y equipo destinado a las actividades agrícolas.
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
-Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, deberán comprobar ante la Secretaría de Finanzas y Administración que se encuentran comprendidos en dichos supuestos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III de este artículo, deberán comprobar ante la Secretaría de Finanzas Públicas que se encuentran comprendidos en dichos supuestos.
 
 Sin perjuicio de lo anterior, los vehículos comprendidos en este artículo deberán atender las obligaciones previstas en la Ley de la materia.
 
@@ -881,7 +899,7 @@ Límite inferior Límite superior CUOTA FIJA TASA
 
 550,000.01 1,100,000.00 14,299.99 11%
 
-1,100,000.01 1 ,500,000.00 71,499.97 17%
+1,100,000.01 1,500,000.00 71,499.97 17%
 
 1,500,000.01 2,000,000.00 139,099.96 21%
 
@@ -1083,11 +1101,11 @@ Este impuesto se determinará a la tasa del 4.5% de la base gravable que estable
 
 DEL PAGO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 65.
 
-Este impuesto se causará en el momento que los organismos descentralizados paguen o entreguen los premios y se pagará ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas y Administración o a través de transferencia electrónica de fondos de forma definitiva.
+Este impuesto se causará en el momento que los organismos descentralizados paguen o entreguen los premios y se pagará ante las Instituciones Bancarias autorizadas por la Secretaría de Finanzas Públicas o a través de transferencia electrónica de fondos de forma definitiva.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1099,9 +1117,9 @@ DE LAS OBLIGACIONES
 
 Quienes entreguen los premios a que se refiere este capítulo, además de efectuar las retenciones de este impuesto, tendrán las siguientes obligaciones:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-I.- Solicitar su inscripción vía internet en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración en su carácter de retenedor, mediante las formas autorizadas por la misma Dependencia;
+I. Solicitar su inscripción vía internet en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas Públicas en su carácter de retenedor, mediante las formas autorizadas por la misma Dependencia;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1113,7 +1131,9 @@ IV.- Conservar, de conformidad con lo previsto en el Código Fiscal del Estado, 
 
 V.- Señalar en los boletos, billetes, contraseñas o instrumentos que permitan participar en los actos o actividades, el valor de los premios aun cuando estos sean en especie; y
 
-VI.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal, cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre, fusión o escisión. Aumento o disminución de obligaciones, dentro del término de treinta días en que ocurra el hecho.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI. Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente, los avisos que correspondan, conforme al Código Fiscal del Estado de Hidalgo.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 48], P.O. 31 DE DICIEMBRE DE 2011)
 
@@ -1437,7 +1457,7 @@ VIII.- Por la venta de artesanías.
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 112.
 
@@ -1469,7 +1489,7 @@ IX.- Las indemnizaciones.
 
 ###### ARTICULO 113.
 
-Las participaciones y aportaciones por ingresos Federales, se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos. Las cuales ingresarán íntegramente a la Secretaría de Finanzas y Administración.
+Las participaciones y aportaciones por ingresos federales, se percibirán de acuerdo a lo dispuesto en la Ley de Coordinación Fiscal Federal, el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos. Las cuales ingresarán íntegramente a la Secretaría de Finanzas Públicas.
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -1682,3 +1702,11 @@ SÉPTIMO. Dada la implementación de la Unidad de Medida Actualizada (UMA), como
 OCTAVO. Se autoriza al Ejecutivo del Estado a emitir reglas de carácter general sobre las cuotas y tarifas del servicio de agua potable, Impuestos sobre Nóminas, Tenencia y Uso de Vehículos, y en general sobre las contribuciones reguladas en la legislación fiscal estatal, considerando en todo momento el interés de la colectividad.
 
 NOVENO. Los beneficios fiscales y facilidades administrativas otorgados a través de este ordenamiento, no darán derecho a compensación o devolución alguna.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 320.- QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, LA LEY ESTATAL DE DERECHOS, LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO Y LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2018.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
