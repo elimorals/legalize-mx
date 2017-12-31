@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-desarrollo-rural-y-7953
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-31"
-last_updated: "2016-04-18"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL Y AGROEMPRESARIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de enero de 2011.
 
@@ -744,3 +744,15 @@ P.O. 18 DE ABRIL DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LOS "REGLAMENTOS INTERIORES DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Desarrollo Rural y Agroempresarial del Estado de Aguascalientes, publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de enero de 2011 y sus reformas y adiciones, así como se deroga (sic) todas las disposiciones legales y administrativas que se opongan al presente Reglamento.
