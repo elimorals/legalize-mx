@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-103530"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2017-07-10"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -71,7 +71,13 @@ I. El Tribunal Superior de Justicia y Juzgados del Fuero Común;
 
 II. El Tribunal de Justicia Administrativa;
 
-III. Los demás funcionarios y auxiliares de la impartición de justicia.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III. El tribunal Laboral; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV. Los demás funcionarios y auxiliares de la impartición de justicia.
 
 b) Administrativo: Un Consejo de la Judicatura.
 
@@ -819,9 +825,11 @@ En caso de urgencia, el Presidente o Presidenta del Consejo de la Judicatura, po
 
 ### CAPÍTULO X. De la competencia de los Jueces y Juezas del Fuero Común
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTÍCULO 55.
 
-Los Jueces y Juezas del fuero común conocerán en primera instancia de los asuntos que les corresponda conforme a lo previsto en la presente Ley y en las normas contenidas en los códigos sustantivos y adjetivos de la entidad y de los que por jurisdicción concurrente, delegada o auxiliar les confieran otras Leyes y demás disposiciones aplicables.
+Los Jueces y Juezas del fuero común conocerán en primera instancia de los asuntos que les corresponda conforme a lo previsto en la presente Ley y en las normas contenidas en los códigos sustantivos y adjetivos de la entidad, federales y de los que por jurisdicción concurrente, delegada o auxiliar les confieran otras Leyes y demás disposiciones aplicables.
 
 ###### ARTÍCULO 56.
 
@@ -849,9 +857,17 @@ X. Jueces y Juezas de Control Especializados en Justicia para Adolescentes;
 
 XI. Jueces y Juezas de Juicio Oral Especializados en Justicia para Adolescentes;
 
-XII. Jueces y Juezas de Ejecución Especializados en Justicia para Adolescentes; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-XIII. Jueces y Juezas Mixtos.
+XII. Jueces y Juezas de Ejecución Especializados en Justicia para Adolescentes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIII. Jueces y Juezas Mixtos; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+XIV. Jueces y Juezas Laborales.
 
 Los Jueces y Juezas comprendidos en la fracción V, conocerán de la materia concurrente de delitos contra la salud en su modalidad de narcomenudeo, aplicando las Leyes Federales, en cuanto al fondo, y por lo que hace al procedimiento las leyes locales respectivas, salvo los casos de excepción.
 
@@ -898,6 +914,18 @@ En los Distritos Judiciales en donde no exista Juez o Jueza de lo Familiar, los 
 ###### ARTÍCULO 60.
 
 Los Jueces y Juezas en materia civil y familiar serán competentes para conocer de todos los asuntos mencionados en los artículos 57 y 59.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+###### ARTÍCULO 60 Bis.
+
+Los jueces y Juezas laborales serán competentes para conocer:
+
+I.- De las controversias y procedimientos que se susciten con motivo del cumplimiento y aplicación de las normas contenidas en la Ley Federal del Trabajo en vigor, así como cualquier Normatividad Federal o local de la materia que adquiera vigencia;
+
+II.- En general, de todo proceso, procedimiento o vía que tenga el carácter de laboral; y
+
+III.- De los demás asuntos que les encomienden las Leyes y demás disposiciones aplicables.
 
 ###### ARTÍCULO 61.
 
@@ -2744,3 +2772,9 @@ TERCERO. Los Magistrados del Tribunal Fiscal Administrativo del Estado de Hidalg
 CUARTO. El Poder Judicial del Estado de Hidalgo, realizará las modificaciones orgánicas, dotará y proveerá los recursos necesarios para el funcionamiento del Tribunal de Justicia Administrativa del Estado de Hidalgo.
 
 QUINTO. El Tribunal de Justicia Administrativa ejercerá las facultades y competencias establecidas en este Decreto una vez que sea instalado el Comité Coordinador del Sistema Estatal Anticorrupción.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 416.- QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
