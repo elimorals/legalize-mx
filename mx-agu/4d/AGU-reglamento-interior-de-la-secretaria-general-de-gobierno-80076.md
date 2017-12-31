@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-general-de-gobierno-80076"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-24"
-last_updated: "2017-01-30"
+last_updated: "2017-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE AGUASCALIENTES -- ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE GOBIERNO DEL ESTADO DE AGUASCALIENTES --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el jueves 24 de febrero de 2011.
 
@@ -1310,3 +1312,23 @@ P.O. 30 DE ENERO DE 2017.
 ###### ARTICULO ÚNICO.
 
 Las presentes adiciones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Gobierno, publicado en el Periódico Oficial del Estado, Edición Extraordinaria, Número 5, de fecha 24 de febrero de 2011.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos que a la fecha de entrada en vigor del presente Reglamento se encuentren en trámite, se concluirán conforme a las disposiciones del Reglamento Interior de la Secretaría de Gobierno que se abroga y de las demás disposiciones legales que les dieron origen, con excepción de lo relativo al Registro Público de la Propiedad y del Comercio del Estado, de acuerdo con lo dispuesto por el Artículo Noveno Transitorio de la nueva Ley Orgánica de la Administración Pública del Estado de Aguascalientes publicada mediante Decreto 164 de fecha 27 de octubre de 2017.
+
+###### ARTÍCULO CUARTO.
+
+Quedan sin efecto todas aquellas disposiciones que contravengan al presente Reglamento.
