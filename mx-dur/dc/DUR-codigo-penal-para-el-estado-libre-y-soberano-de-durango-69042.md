@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2017-10-08"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1861,21 +1861,27 @@ II. De tres a ocho años de prisión y multa (sic) doscientas ochenta y ocho a q
 
 Si el aborto lo causare un médico, cirujano, enfermero, enfermera, comadrón, comadrona o partera, además de las penas que le correspondan conforme al artículo anterior, se les suspenderá de tres a cinco años en el ejercicio de su profesión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 150.
 
-Se impondrá de uno a tres años de prisión y multa de setenta y dos a doscientas dieciséis veces la Unidad de Medida y Actualización, a la mujer que diere muerte al producto de su propia concepción o consintiere en que otro se la diere.
+Se impondrá de uno a tres años de prisión y multa de setenta y dos a doscientos dieciséis veces la Unidad de Medida y Actualización, a la mujer que diere muerte al producto de su propia concepción o consintiere en que otro se la diere.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 Son causas excluyentes de la responsabilidad penal la muerte dada al producto de la concepción:
 
 I. Cuando aquélla sea resultado de una conducta culposa de la mujer embarazada. En este caso deberá darse el aviso correspondiente al Ministerio Público;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 II. Cuando el embarazo sea resultado del delito de violación; y,
 
 III. Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-Tratándose de los casos a que se refieren las dos últimas fracciones, deberá obtenerse previamente la autorización del Ministerio Público.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Tratándose del caso a que se refiere la fracción III, deberá obtenerse previamente la autorización del Ministerio Público.
 
 Asimismo, en los casos contemplados en las fracciones anteriores de este artículo, los médicos legistas oficiales tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos, así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
 
@@ -2484,6 +2490,12 @@ IV. El apoderamiento material de los documentos que contengan datos de computado
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 2011)</small>
 
 Artículo 201 bis. Tratándose de robo de placas de circulación de vehículos que preste servicio público de transporte de pasajeros, carga o mixto, para que el Ministerio Público reciba la denuncia correspondiente, el interesado deberá obtener una certificación previa de la Dirección General de Transporte.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+Artículo 201 ter.- No se castigará al que, sin emplear engaño ni medios violentos, se apodera por primera vez de los objetos estrictamente indispensables para satisfacer sus necesidades alimenticias, personales o familiares del momento.
+
+Para efectos del párrafo anterior se entiende como primera vez, al registro que deberá realizar el ministerio público mediante el cual determina el no ejercicio de la acción penal.
 
 ### CAPÍTULO VI. USURA
 
@@ -5882,3 +5894,19 @@ P.O. 8 DE OCTUBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 351.- QUE CONTIENE REFORMA AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 352.- QUE CONTIENE REFORMA AL ARTÍCULO 150 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
