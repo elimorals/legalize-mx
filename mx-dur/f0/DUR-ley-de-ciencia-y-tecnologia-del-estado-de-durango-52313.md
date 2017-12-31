@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ciencia-y-tecnologia-del-estado-de-durango-52313"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-26"
-last_updated: "2017-12-07"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de octubre de 2006.
 
@@ -109,19 +109,27 @@ II. COCYTED: Consejo de Ciencia y Tecnología del Estado de Durango;
 
 III. Demandas estatales: Los problemas, necesidades y áreas de oportunidad, que en materia de ciencia y tecnología se tienen en el Estado;
 
-IV. Innovación: La transformación de una idea en un producto, proceso de fabricación o enfoque de un servicio social determinado, en uno nuevo o mejorado, así como a la transformación de una tecnología en otra de mayor utilidad;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-V. Ley: Ley de Ciencia y Tecnología del Estado de Durango;
+IV. Gobierno Digital: El que incorpora al quehacer gubernamental las Tecnologías de la Información y Comunicaciones, con el propósito de aumentar la eficiencia de la gestión pública, transformar y agilizar las relaciones del Gobierno con los ciudadanos y las empresas, y las relaciones intergubernamentales, de manera que el Gobierno resulte más accesible, efectivo y transparente en beneficio del ciudadano;
 
-VI. Programa Estatal: Programa Estatal de Ciencia y Tecnología;
+V. Innovación: La transformación de una idea en un producto, proceso de fabricación o enfoque de un servicio social determinado, en uno nuevo o mejorado, así como a la transformación de una tecnología en otra de mayor utilidad;
 
-VII. Sectores productivos: empresas, industrias generales y de servicios, así como cualquier ente económico con personalidad jurídica propia, órganos y cámaras empresariales, establecidos conforme a las leyes vigentes;
+VI. Ley: Ley de Ciencia y Tecnología del Estado de Durango;
 
-VIII. Sistema Estatal: Sistema de Ciencia y Tecnología del Estado de Durango;
+VII. Programa Estatal: Programa Estatal de Ciencia y Tecnología;
 
-IX. Sistema de investigadores: Sistema Estatal de Investigadores, y
+VIII. Sectores productivos: empresas, industrias generales y de servicios, así como cualquier ente económico con personalidad jurídica propia, órganos y cámaras empresariales, establecidos conforme a las leyes vigentes;
 
-X. Registro Estatal: Registro Estatal de Ciencia y Tecnología.
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IX. Seguridad cibernética: acciones o medidas llevadas a cabo para la protección de la infraestructura electrónica e informática y toda la información que esta contiene. Incluye además las políticas e instrumentos orientados a conservar la privacidad y la protección de los datos personales de los ciudadanos y empresas.
+
+X. Sistema Estatal: Sistema de Ciencia y Tecnología del Estado de Durango;
+
+XI. Sistema de Investigadores: Sistema Estatal de Investigadores, y
+
+XII. Registro Estatal: Registro Estatal de Ciencia y Tecnología.
 
 ### CAPÍTULO II. DEL SISTEMA ESTATAL DE CIENCIA Y TECNOLOGÍA
 
@@ -217,9 +225,21 @@ III. La evaluación de los avances en el cumplimiento de objetivos y metas de lo
 
 IV. El cumplimiento de las metas y avances físicos y financieros, en su caso, del ejercicio fiscal en curso y los pretendidos para el ejercicio siguiente;
 
-V. El programa financiero respectivo, y
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-VI. Los acuerdos de concertación con los sectores privado y social y los convenios de coordinación con otros niveles de Gobierno.
+V. La estrategia de Gobierno Digital;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI. Fomentar la Seguridad Cibernética;
+
+(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 2017)
+
+V (SIC). El programa financiero respectivo, y
+
+(REPUBLICADA, P.O. 31 DE DICIEMBRE DE 2017)
+
+VI (SIC). Los acuerdos de concertación con los sectores privado y social y los convenios de coordinación con otros niveles de Gobierno.
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -419,9 +439,13 @@ III. Promover la creación, el equipamiento, el mantenimiento y la preservación
 
 IV. Impulsar la creación de centros e instituciones estatales de investigación científica y tecnológica;
 
-V. Promover la vinculación y la gestión tecnológica, para contribuir a la competitividad de las empresas de bienes y servicios, públicas y privadas, y
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
-VI. Definir, crear e instrumentar mecanismos de promoción y divulgación de las actividades científicas y tecnológicas que constituyan al mismo tiempo un elemento de apoyo para el impulso y el fortalecimiento de la investigación científica, el desarrollo tecnológico y la formación de una cultura científica, mediante la generación de espacios para la transferencia de información y difusión de productos editoriales científicos, así como espacios formativos, recreativos e interactivos a favor de las necesidades y prioridades del Estado.
+V. Fomentar el desarrollo de software acorde a la estrategia de Gobierno Digital;
+
+VI. Promover la vinculación y la gestión tecnológica, para contribuir a la competitividad de las empresas de bienes y servicios, públicas y privadas, y
+
+VII. Definir, crear e instrumentar mecanismos de promoción y divulgación de las actividades científicas y tecnológicas que constituyan al mismo tiempo un elemento de apoyo para el impulso y el fortalecimiento de la investigación científica, el desarrollo tecnológico y la formación de una cultura científica, mediante la generación de espacios para la transferencia de información y difusión de productos editoriales científicos, así como espacios formativos, recreativos e interactivos a favor de las necesidades y prioridades del Estado.
 
 #### SECCIÓN SÉPTIMA. DE LOS APOYOS PARA LOS PROYECTOS DE INVESTIGACIÓN
 
@@ -913,8 +937,18 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente d
 
 P.O. 7 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 289.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 289.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 345.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA Y TECNOLOGÍA DE DURANGO”.]
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El presupuesto de Egresos para el ejercicio fiscal de 2018, del Consejo de Ciencia y Tecnología del Estado de Durango será de al menos el 0.04% del total del Presupuesto de Egresos para el Estado de Durango; el Congreso del Estado al aprobar la Ley de Egresos del Gobierno del Estado, corroborará el cumplimiento del presente artículo y en su caso establecerá dicho presupuesto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
