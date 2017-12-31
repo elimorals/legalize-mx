@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2017-04-18"
+last_updated: "2017-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -163,7 +165,9 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Seguridad Pública;
 
-III. El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+III. La Fiscalía General del Estado;
 
 IV. El Director General de Seguridad Pública del Estado;
 
@@ -297,17 +301,17 @@ XIV. Disponer la colaboración con la Fiscalía General del Estado para el cumpl
 
 XV. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 15.
 
-Las atribuciones del Procurador General de Justicia; el Director; el Director General de Prevención y Reinserción Social; y el Director General de la Policía Investigadora, estarán previstas en su propia ley o reglamentos.
+Las atribuciones del Fiscal General del Estado; el Director; el Director General de Prevención y Reinserción Social; y el Director General de la Policía Investigadora, estarán previstas en su propia ley o reglamentos.
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 16.
 
-El Secretario; el Procurador General de Justicia; el Director; el Director General de Prevención y Reinserción Social; y el Director General de la Policía Investigadora, serán los encargados de ejecutar las disposiciones que el Ejecutivo dicte en cumplimiento de este Ordenamiento.
+El Secretario; el Fiscal General del Estado; el Director; el Director General de Prevención y Reinserción Social; y el Director General de la Policía Investigadora, serán los encargados de ejecutar las disposiciones que el Ejecutivo dicte en cumplimiento de este Ordenamiento.
 
 ###### ARTICULO 17.
 
@@ -613,7 +617,9 @@ III. El Secretario de Seguridad Pública;
 
 IV. El Comandante de la XII Zona Militar;
 
-V. El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+V. El Fiscal General del Estado;
 
 VI. El Director General de Seguridad Pública del Estado;
 
@@ -713,7 +719,9 @@ IV. El regidor de la Comisión de Seguridad Pública;
 
 V. El titular del organismo que realice las funciones de seguridad pública municipal;
 
-VI. Un representante de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+VI. Un representante de la Fiscalía General del Estado;
 
 VII. Un representante de la Dirección General de Seguridad Pública del Estado;
 
@@ -747,7 +755,9 @@ II. Los representantes con atribuciones en materia de seguridad pública estatal
 
 III. Un representante de la Dirección de Prevención y Reinserción Social;
 
-IV. Un representante de la Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+IV. Un representante de la Fiscalía General del Estado;
 
 V. Los titulares de seguridad pública preventiva de los municipios participantes;
 
@@ -1565,9 +1575,11 @@ Las instituciones de seguridad pública deberán consultar en sus actividades, s
 
 Las instituciones de seguridad pública actualizarán permanentemente la información relativa a, investigaciones, procedimientos penales, órdenes de aprehensión, procesos penales, sentencias o ejecución de penas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 ###### ARTICULO 107.
 
-La Procuraduría General de Justicia del Estado podrá reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones aplicables, pero la proporcionará al Sistema Unico de Información Criminal, inmediatamente después que deje de existir tal condición.
+La Fiscalía General del Estado podrá reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones aplicables, pero la proporcionará al Sistema Único de Información Criminal, inmediatamente después que deje de existir tal condición.
 
 ###### ARTICULO 108.
 
@@ -2119,7 +2131,9 @@ Se excluyen también de esta disposición, las grabaciones de video que se reali
 
 Las entidades públicas que tengan bajo su cargo las siguientes instalaciones o servicios, en la medida de sus condiciones presupuestales, procurarán contar con sistemas de videovigilancia pública para su monitoreo:
 
-I. Edificios u oficinas donde despachen habitualmente los titulares de los poderes; el Procurador General de Justicia; y el Secretario de Seguridad; los recintos permanentes donde sesionen; el Pleno de la Legislatura local, el Tribunal Superior de Justicia, y el cabildo; así como y en los casos que autoricen los ayuntamientos, las oficinas de los presidentes municipales, y de los titulares de las dependencias municipales encargadas de la seguridad pública;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
+I. Edificios u oficinas donde despachen habitualmente los titulares de los poderes; el Fiscal General del Estado; y el Secretario de Seguridad; los recintos permanentes donde sesionen; el Pleno de la Legislatura local, el Tribunal Superior de Justicia, y el cabildo; así como y en los casos que autoricen los ayuntamientos, las oficinas de los presidentes municipales, y de los titulares de las dependencias municipales encargadas de la seguridad pública;
 
 II. Centros de ejecución de sanciones privativas de la libertad; instalaciones para la estancia de indiciados sujetos a prisión preventiva, arraigos o cumplimiento de arrestos administrativos; y cualesquiera que cumplan fines análogos;
 
@@ -2474,3 +2488,11 @@ P.O. 18 DE ABRIL DE 2017.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
 
 SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 863.- SE REFORMAN ARTÍCULOS, 10, 15, 16, 44, 47, 48, 107, Y 156 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia simultáneamente a la entrada en vigor de las leyes secundarias a que refiere el Decreto Legislativo No. 0705, publicado en el Periódico Oficial del Estado "Plan de San Luis", el 2 de octubre de 2017, previa publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
